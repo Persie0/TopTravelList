@@ -479,3 +479,13 @@ Five additions, 20 peer comparisons matched to current ranked rows. UAE 73 ranke
 - [x] OM — Bait Al Safah Museum: 82.60/100 (source-linked-unverified).
 
 Seven additions and 28 peer comparisons matched to ranked rows. Oman 68 ranked / 69 total; one existing unassessed unchanged. Wadi Bani Awf and Snake Canyon combined to avoid duplication, excludes Balad Sayt. Bandar Khayran point is bay, not launch; Shaat and Tawi Atayr limited to safe designated viewing; Bait Al Safah direct source returned 502, search excerpt used. Oman remains OPEN for bounded check of substantial candidates including Wakan Village, Wadi Bani Kharus, and Museum of the Frankincense Land (check overlap with Al Baleed). [Official destination directory](https://experienceoman.om/destinations). Full Python validation and individual peer YAML checks pending.
+
+### Pass 45 — Oman final bounded screen
+
+- [x] OM — Wakan Village: 84.35/100 (source-linked-unverified).
+- [x] OM — Wadi Bani Kharus: 84.15/100 (source-linked-unverified).
+- [x] OM — Museum of the Frankincense Land: 83.75/100 (source-linked-unverified).
+- [x] OM — Old Al Hamra Village: 84.60/100 (source-linked-unverified).
+- [x] OM — Birkat Al Mouz (Harat as-Saybani Historic Village): 84.40/100 (source-linked-unverified).
+
+Five additions and 20 peer comparisons matched to ranked rows. Oman 73 ranked / 74 total; one prior unassessed unchanged. Museum explicitly excluded by existing Al Baleed review, so independent galleries added. Old Al Hamra excludes Bait Al Safah; Birkat quarter excludes separately ranked falaj. No more quota-driven additions; [official destination screen](https://experienceoman.om/en/destinations) and named candidates resolved. Close current Oman discovery queue, reopen only on concrete substantial new omissions. Qatar next: 55 records, Meryal and Desert Falls waterparks missing according to Qatar Tourism (https://www.qatartourism.com/en/news-and-media/press-releases/qatar-calendar-summer-waterparks-vq). Full Python validation and individual peer YAML checks pending.

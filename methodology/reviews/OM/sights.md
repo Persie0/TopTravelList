@@ -1483,3 +1483,193 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-om-wakan-village — Wakan Village — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/wakan-village.yaml)
+- Action: new
+- Precise subject and limitations: Mountain settlement and permitted public trails above Wadi Mistal. Official tourism identifies mountain trails; differing elevation estimates not used. No private garden access or guaranteed seasonal blossoms.
+- Location check: 23.14348, 57.73461; [published representative point](https://mapcarta.com/N1721744889), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://experienceoman.om/en/destinations/al-batinah-south/wakan-village); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/misfat-al-abriyeen](../../../countries/OM/sights/misfat-al-abriyeen.yaml) | 8.7 / 8.8 / 8.6 / 8.8 / 8.5 | Stronger documented living architectural heritage. |
+| [OM/balad-sayt-village](../../../countries/OM/sights/balad-sayt-village.yaml) | 8.7 / 8.6 / 8.1 / 8.4 / 8.1 | Comparable terraced mountain setting. |
+| [HK/tai-o-fishing-village](../../../countries/HK/sights/tai-o-fishing-village.yaml) | 8.6 / 8.8 / 8.2 / 9.0 / 8.4 | Different coastal heritage experience. |
+| [AE/al-fahidi-historical-neighbourhood](../../../countries/AE/sights/al-fahidi-historical-neighbourhood.yaml) | 8.2 / 8.5 / 8.2 / 8.5 / 7.8 | More extensive urban architectural interpretation. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Dramatic mountain setting. |
+| Uniqueness | 8.6 | Distinct terraces and historic mountain paths. |
+| Significance | 7.9 | Regional living heritage. |
+| Experience | 8.5 | Scenic walks subject to road and weather conditions. |
+| Depth | 8.2 | Several trails and village views. |
+
+- Applicable categories: nature:8.9, photography:9.1, adventure:8.8, culture:8.5.
+- Computed worldwide overall: 84.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-wadi-bani-kharus — Wadi Bani Kharus — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/wadi-bani-kharus.yaml)
+- Action: new
+- Precise subject and limitations: Mountain valley with geology, cultivated terraces and settlement views; excludes private houses and neighboring Wakan. Local reporting documents visitor interest in Al Alia; https://www.dinotruck.com/asia/wadi-bani-kharus/ describes settlements and agricultural features. Representative wadi point, not trailhead. Flash flood and road access vary.
+- Location check: 23.36667, 57.65; [published representative point](https://mapcarta.com/12923350), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.omanobserver.om/article/1123944/oman/tourism/a-charming-village-known-for-its-moderate-weather-and-heritage); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/wadi-bani-awf-snake-canyon](../../../countries/OM/sights/wadi-bani-awf-snake-canyon.yaml) | 9.0 / 8.9 / 8.0 / 8.8 / 8.8 | More concentrated canyoning experience. |
+| [OM/wadi-tiwi](../../../countries/OM/sights/wadi-tiwi.yaml) | 8.7 / 8.5 / 7.6 / 8.5 / 8.1 | Comparable cultivated valley. |
+| [OM/wadi-al-arbeieen](../../../countries/OM/sights/wadi-al-arbeieen.yaml) | 8.8 / 8.5 / 7.5 / 8.7 / 8.1 | More concentrated pool experience. |
+| [AE/jebel-jais-mountain-landscape](../../../countries/AE/sights/jebel-jais-mountain-landscape.yaml) | 8.9 / 8.5 / 7.5 / 8.9 / 8.6 | Different mountain terrain and visitor infrastructure. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Rugged valley and terraces. |
+| Uniqueness | 8.5 | Combination of geology and agricultural settlements. |
+| Significance | 8.1 | Regional natural and agricultural heritage. |
+| Experience | 8.4 | Scenic visits under suitable conditions. |
+| Depth | 8.6 | Multiple valley sections and landscapes. |
+
+- Applicable categories: nature:8.9, photography:8.9, adventure:8.6, culture:8.4.
+- Computed worldwide overall: 84.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-museum-of-the-frankincense-land — Museum of the Frankincense Land — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/museum-of-the-frankincense-land.yaml)
+- Action: new
+- Precise subject and limitations: Indoor archaeology and maritime history galleries. Existing Al Baleed review explicitly excludes the museum; this assessment excludes outdoor archaeological ruins and serial UNESCO property. UNESCO describes visitor interpretation at Al Baleed (https://whc.unesco.org/en/list/1010); 2026 reporting confirms museum as part of complex (https://www.muscatdaily.com/2026/05/05/bids-invited-to-develop-frankincense-souk-at-al-baleed-site/). Current gallery access uncertain; alternate geoview coordinate source returned 429.
+- Location check: 17.00926, 54.13542; [published representative point](https://oman.worldplaces.me/view-place/42339780-the-museum-of-the-frankincense-land.html), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.beautifulsalalah.com/museum-of-the-frankincense-land/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/national-museum-of-oman](../../../countries/OM/sights/national-museum-of-oman.yaml) | 8.1 / 8.5 / 8.9 / 8.5 / 8.5 | Broader national collection. |
+| [OM/oman-across-ages-museum](../../../countries/OM/sights/oman-across-ages-museum.yaml) | 8.7 / 8.6 / 8.4 / 9.0 / 8.8 | Broader chronology and architectural scale. |
+| [AE/al-ain-museum](../../../countries/AE/sights/al-ain-museum.yaml) | 8.1 / 8.5 / 8.8 / 8.5 / 8.6 | Different regional archaeological collections. |
+| [HK/hong-kong-maritime-museum](../../../countries/HK/sights/hong-kong-maritime-museum.yaml) | 7.9 / 8.3 / 8.4 / 8.2 / 8.2 | Related maritime interpretation in different trade context. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Engaging historical objects and models. |
+| Uniqueness | 8.5 | Distinct regional frankincense and maritime interpretation. |
+| Significance | 8.8 | Major regional trade and archaeology significance. |
+| Experience | 8.4 | Accessible galleries with focused interpretation. |
+| Depth | 8.3 | Several subjects in bounded museum. |
+
+- Applicable categories: history:9.2, culture:9.0, architecture:8.3.
+- Computed worldwide overall: 83.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-old-al-hamra-village — Old Al Hamra Village — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/old-al-hamra-village.yaml)
+- Action: new
+- Precise subject and limitations: Historic mud-brick settlement and permitted exterior lanes, excludes separately assessed Bait Al Safah Museum. Academic study documents vernacular settlement rehabilitation (https://link.springer.com/article/10.1186/s43238-021-00039-5). No access to unsafe structures or private property assumed.
+- Location check: 23.12101, 57.28142; [published representative point](https://mapcarta.com/W581943652), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitalhamra.om/?lang=en); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/misfat-al-abriyeen](../../../countries/OM/sights/misfat-al-abriyeen.yaml) | 8.7 / 8.8 / 8.6 / 8.8 / 8.5 | More integrated inhabited terraced setting. |
+| [OM/bait-al-safah-museum](../../../countries/OM/sights/bait-al-safah-museum.yaml) | 7.9 / 8.6 / 8.4 / 8.6 / 7.7 | Interior cultural interpretation rather than settlement fabric. |
+| [AE/al-fahidi-historical-neighbourhood](../../../countries/AE/sights/al-fahidi-historical-neighbourhood.yaml) | 8.2 / 8.5 / 8.2 / 8.5 / 7.8 | More restored urban heritage. |
+| [HK/tai-o-fishing-village](../../../countries/HK/sights/tai-o-fishing-village.yaml) | 8.6 / 8.8 / 8.2 / 9.0 / 8.4 | Different living vernacular setting. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Substantial traditional earthen buildings. |
+| Uniqueness | 8.6 | Distinct vernacular settlement fabric. |
+| Significance | 8.5 | Regional architectural and social heritage. |
+| Experience | 8.2 | Public lane exploration with access limits. |
+| Depth | 8.3 | Multiple buildings and historic streets. |
+
+- Applicable categories: history:8.9, culture:8.9, architecture:9.0, photography:8.9.
+- Computed worldwide overall: 84.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-birkat-al-mouz-harat-as-saybani — Birkat Al Mouz (Harat as-Saybani Historic Village) — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/birkat-al-mouz-harat-as-saybani.yaml)
+- Action: new
+- Precise subject and limitations: Historic mud-brick quarter and permitted public views, not the entire modern town, Falaj Al Khatmeen irrigation system or Jebel Akhdar. Coordinate represents documented old mosque in quarter, not an entrance. Visitor scope supported by https://jawla.om/oman/attractions/birkat-al-mouz-ruined-village-harat-as-sybani-305. No unsafe interiors assumed.
+- Location check: 22.92472, 57.67396; [published representative point](https://idees2voyages.wordpress.com/2026/03/08/visiter-birkat-al-mouz-le-village-abandonne/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.archiam.co.uk/documentation-and-heritage-management-plan-harat-as-saybani-birkat-al-mawz-oasis/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/misfat-al-abriyeen](../../../countries/OM/sights/misfat-al-abriyeen.yaml) | 8.7 / 8.8 / 8.6 / 8.8 / 8.5 | More extensive living village experience. |
+| [OM/falaj-al-khatmeen](../../../countries/OM/sights/falaj-al-khatmeen.yaml) | 7.5 / 8.4 / 8.7 / 7.8 / 7.3 | Separate irrigation engineering focus. |
+| [AE/al-fahidi-historical-neighbourhood](../../../countries/AE/sights/al-fahidi-historical-neighbourhood.yaml) | 8.2 / 8.5 / 8.2 / 8.5 / 7.8 | More restored and interpreted urban district. |
+| [HK/tai-o-fishing-village](../../../countries/HK/sights/tai-o-fishing-village.yaml) | 8.6 / 8.8 / 8.2 / 9.0 / 8.4 | Different coastal settlement heritage. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Distinctive ruined hillside quarter. |
+| Uniqueness | 8.6 | Traditional earthen architecture above plantations. |
+| Significance | 8.5 | Regional vernacular heritage. |
+| Experience | 8.2 | Scenic exterior exploration with access limits. |
+| Depth | 8.1 | Several buildings and lanes, compact site. |
+
+- Applicable categories: history:8.9, culture:8.8, architecture:9.0, photography:9.0.
+- Computed worldwide overall: 84.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
