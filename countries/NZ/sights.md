@@ -2,7 +2,7 @@
 
 # New Zealand (NZ) — Sights & attractions ranking
 
-**34 ranked** · **2 unassessed** · **36 total** · Worldwide scoring **v2**
+**36 ranked** · **2 unassessed** · **38 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (34)
+## Complete ranked list (36)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -46,8 +46,10 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 30 | [Roys Peak Track](sights/roys-peak-track.yaml) | Mountain / peak | **84.00** | **Photography 9.2**, **Nature 8.9**, **Adventure 8.8** | 9.1 / 8.3 / 7.5 / 8.7 / 7.9 | [-44.68287, 169.0594](https://www.google.com/maps/search/?api=1&query=-44.68287,169.0594) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roys%20Peak%20Track%2C%20New%20Zealand) |
 | 31 | [Kaikōura Peninsula Walkway](sights/kaikoura-peninsula-walkway.yaml) | Attraction | **83.90** | **Nature 8.8**, **Photography 8.8**, **Wildlife 8.8** | 8.6 / 8.2 / 8.0 / 8.8 / 8.4 | [-42.428536, 173.699033](https://www.google.com/maps/search/?api=1&query=-42.428536,173.699033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kaik%C5%8Dura%20Peninsula%20Walkway%2C%20New%20Zealand) |
 | 32 | [Moeraki Boulders / Kaihinaki](sights/moeraki-boulders.yaml) | Attraction | **83.65** | **Photography 8.9**, **Nature 8.8** | 8.4 / 8.8 / 8.2 / 8.5 / 7.3 | [-45.347008, 170.826096](https://www.google.com/maps/search/?api=1&query=-45.347008,170.826096) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moeraki%20Boulders%20%2F%20Kaihinaki%2C%20New%20Zealand) |
+| 33 | [Redwoods Treewalk](sights/redwoods-treewalk.yaml) | Attraction | **82.75** | **Adventure 8.8**, **Family 8.8**, **Photography 8.6**, Nature 8.5 | 8.4 / 8.4 / 7.6 / 8.9 / 8.0 | [-38.156699, 176.273242](https://www.google.com/maps/search/?api=1&query=-38.156699,176.273242) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Redwoods%20Treewalk%2C%20New%20Zealand) |
 | 33 | [Tītokorangi / Whakarewarewa Forest](sights/whakarewarewa-forest.yaml) | Forest | **82.75** | **Adventure 8.9**, **Nature 8.7**, **Photography 8.7** | 8.4 / 8.0 / 7.7 / 8.9 / 8.8 | [-38.15693, 176.27294](https://www.google.com/maps/search/?api=1&query=-38.15693,176.27294) | [Google Maps](https://www.google.com/maps/search/?api=1&query=T%C4%ABtokorangi%20%2F%20Whakarewarewa%20Forest%2C%20New%20Zealand) |
-| 34 | [Kerikeri Basin historic precinct](sights/kerikeri-basin.yaml) | Attraction | **81.80** | **History 9.0**, **Culture 8.7**, **Architecture 8.2** | 7.9 / 8.4 / 8.8 / 8.0 / 7.5 | [-35.216667, 173.966667](https://www.google.com/maps/search/?api=1&query=-35.216667,173.966667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kerikeri%20Basin%20historic%20precinct%2C%20New%20Zealand) |
+| 35 | [Kerikeri Basin historic precinct](sights/kerikeri-basin.yaml) | Attraction | **81.80** | **History 9.0**, **Culture 8.7**, **Architecture 8.2** | 7.9 / 8.4 / 8.8 / 8.0 / 7.5 | [-35.216667, 173.966667](https://www.google.com/maps/search/?api=1&query=-35.216667,173.966667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kerikeri%20Basin%20historic%20precinct%2C%20New%20Zealand) |
+| 36 | [Ōkere Falls Track](sights/okere-falls-track.yaml) | Waterfall | **81.10** | **Nature 8.5**, **Photography 8.5**, **Adventure 8.2** | 8.2 / 8.0 / 7.9 / 8.6 / 7.8 | [-38.010789, 176.34375](https://www.google.com/maps/search/?api=1&query=-38.010789,176.34375) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%8Ckere%20Falls%20Track%2C%20New%20Zealand) |
 
 ## Not yet fully assessed (2)
 

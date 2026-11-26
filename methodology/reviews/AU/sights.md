@@ -2155,3 +2155,108 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-kunanyi-mount-wellington — Kunanyi / Mount Wellington — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/kunanyi-mount-wellington.yaml)
+- Action: new
+- Precise subject and factual basis: Summit viewpoints and walks above Hobart; observation shelter reference point, not whole Wellington Park. [Visitor information](https://wellingtonpark.org.au/). Source excerpts inspected 2026-11-26.
+- Location check: -42.89544, 147.23836; [published reference](https://mapcarta.com/W312062589); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/cradle-mountain](../../../countries/AU/sights/cradle-mountain.yaml) | More distinctive alpine wilderness |
+| [ZA/table-mountain](../../../countries/ZA/sights/table-mountain.yaml) | More iconic urban mountain |
+| [NZ/roys-peak-track](../../../countries/NZ/sights/roys-peak-track.yaml) | Focused summit hike |
+| [CH/pilatus](../../../countries/CH/sights/pilatus.yaml) | Broader mountain transport experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Panoramic mountain and estuary views |
+| uniqueness | 8.3 | Comparable mountain viewpoints elsewhere |
+| significance | 8.2 | Natural and cultural landscape |
+| experience | 8.8 | Accessible summit and walks |
+| depth | 8.5 | Multiple approach routes |
+
+- Applicable categories: nature:8.9, photography:9.0, adventure:8.7.
+- Computed worldwide overall: 85.25/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+### sight-au-cable-beach — Cable Beach (Broome) — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/cable-beach.yaml)
+- Action: new
+- Precise subject and factual basis: Long sandy coast and sunset views; mapped beach point, not main access. [Visitor information](https://www.westernaustralia.com/en/Attraction/Cable_Beach/56b2669daeeeaaf773cf9303). Source excerpts inspected 2026-11-26.
+- Location check: -17.84911, 122.21047; [published reference](https://mapcarta.com/16496096); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/whitehaven-beach](../../../countries/AU/sights/whitehaven-beach.yaml) | More exceptional sand-water contrast |
+| [AU/bondi-beach](../../../countries/AU/sights/bondi-beach.yaml) | More urban beach |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | Broader wildlife and cycling |
+| [NZ/cathedral-cove](../../../countries/NZ/sights/cathedral-cove.yaml) | More distinctive natural arch |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Expansive coast |
+| uniqueness | 8.2 | Comparable tropical beaches |
+| significance | 7.8 | Local coastal and historical interest |
+| experience | 8.8 | Beach recreation and sunset visits |
+| depth | 7.9 | Single coastal stretch |
+
+- Applicable categories: beaches:9.0, photography:9.0, relaxation:8.8.
+- Computed worldwide overall: 83.30/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+### sight-au-blue-lake-warwar — Blue Lake / Warwar (Mount Gambier) — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/blue-lake-warwar.yaml)
+- Action: new
+- Precise subject and factual basis: Volcanic crater lake with changing water colour and perimeter viewpoints; GPS at lookout. Water supply context: https://www.sawater.com.au/water-and-the-environment/south-australias-water-sources/reservoir-data/blue-lake-reservoir. [Visitor information](https://visitmountgambier.com.au/travel/blue-lake-warwar/). Source excerpts inspected 2026-11-26.
+- Location check: -37.84655, 140.7713; [published reference](https://mapcarta.com/N3139679530); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/karijini-national-park](../../../countries/AU/sights/karijini-national-park.yaml) | More varied geology |
+| [AU/freycinet-national-park](../../../countries/AU/sights/freycinet-national-park.yaml) | Broader landscape and walks |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | More unusual thermal formations |
+| [NZ/waimangu-volcanic-valley](../../../countries/NZ/sights/waimangu-volcanic-valley.yaml) | Broader volcanic landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.4 | Colorful crater lake |
+| uniqueness | 8.5 | Distinctive seasonal colour, other crater lakes exist |
+| significance | 8.2 | Geological and water supply context |
+| experience | 8.4 | Perimeter walks and views |
+| depth | 7.8 | Focused lake visit |
+
+- Applicable categories: nature:8.7, photography:8.8.
+- Computed worldwide overall: 83.25/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.

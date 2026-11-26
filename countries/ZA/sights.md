@@ -2,7 +2,7 @@
 
 # South Africa (ZA) — Sights & attractions ranking
 
-**25 ranked** · **6 unassessed** · **31 total** · Worldwide scoring **v2**
+**28 ranked** · **6 unassessed** · **34 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (25)
+## Complete ranked list (28)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -37,8 +37,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 21 | [Augrabies Falls National Park](sights/augrabies-falls.yaml) | Park / reserve | **87.75** | **Nature 9.1**, **Photography 9.1**, **Adventure 8.6** | 9.0 / 8.8 / 8.6 / 8.7 / 8.5 | [-28.59, 20.34](https://www.google.com/maps/search/?api=1&query=-28.59,20.34) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Augrabies%20Falls%20National%20Park%2C%20South%20Africa) |
 | 22 | [Vredefort Dome](sights/vredefort-dome.yaml) | Attraction | **87.25** | **Nature 9.0** | 8.0 / 9.4 / 9.6 / 8.1 / 8.4 | [-26.9, 27.26](https://www.google.com/maps/search/?api=1&query=-26.9,27.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vredefort%20Dome%2C%20South%20Africa) |
 | 23 | [Golden Gate Highlands National Park](sights/golden-gate-highlands.yaml) | Park / reserve | **87.20** | **Photography 9.1**, **Nature 9.0**, **Adventure 8.8** | 8.9 / 8.6 / 8.5 / 8.8 / 8.8 | [-28.51, 28.62](https://www.google.com/maps/search/?api=1&query=-28.51,28.62) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20Highlands%20National%20Park%2C%20South%20Africa) |
-| 24 | [Emakhosini Valley of the Zulu Kings](sights/emakhosini.yaml) | Valley / canyon | **85.80** | **Culture 9.2**, **History 9.2** | 8.2 / 9.0 / 9.2 / 8.2 / 8.0 | [-28.39, 31.14](https://www.google.com/maps/search/?api=1&query=-28.39,31.14) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Emakhosini%20Valley%20of%20the%20Zulu%20Kings%2C%20South%20Africa) |
-| 25 | [Union Buildings and Public Gardens](sights/union-buildings.yaml) | Garden | **84.15** | **History 9.3**, **Architecture 8.7** | 8.3 / 8.4 / 9.2 / 8.1 / 7.7 | [-25.741, 28.212](https://www.google.com/maps/search/?api=1&query=-25.741,28.212) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Union%20Buildings%20and%20Public%20Gardens%2C%20South%20Africa) |
+| 24 | [Hermanus Cliff Path and shore-based whale watching](sights/hermanus-cliff-path.yaml) | Attraction | **86.25** | **Wildlife 9.2**, **Nature 8.9**, **Photography 8.9** | 8.6 / 8.8 / 8.3 / 8.9 / 8.5 | [-34.42215, 19.24394](https://www.google.com/maps/search/?api=1&query=-34.42215,19.24394) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hermanus%20Cliff%20Path%20and%20shore-based%20whale%20watching%2C%20South%20Africa) |
+| 25 | [Chapman's Peak Drive](sights/chapmans-peak-drive.yaml) | Mountain / peak | **86.05** | **Photography 9.2**, **Nature 8.9**, **Adventure 8.4** | 9.0 / 8.5 / 8.2 / 8.8 / 8.2 | [-34.089, 18.36](https://www.google.com/maps/search/?api=1&query=-34.089,18.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chapman%27s%20Peak%20Drive%2C%20South%20Africa) |
+| 26 | [Emakhosini Valley of the Zulu Kings](sights/emakhosini.yaml) | Valley / canyon | **85.80** | **Culture 9.2**, **History 9.2** | 8.2 / 9.0 / 9.2 / 8.2 / 8.0 | [-28.39, 31.14](https://www.google.com/maps/search/?api=1&query=-28.39,31.14) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Emakhosini%20Valley%20of%20the%20Zulu%20Kings%2C%20South%20Africa) |
+| 27 | [Storms River Mouth Trail](sights/storms-river-mouth-trail.yaml) | River / waterway | **84.90** | **Nature 9.0**, **Photography 8.9**, **Adventure 8.8** | 8.8 / 8.4 / 8.1 / 8.8 / 8.1 | [-34.019405, 23.903088](https://www.google.com/maps/search/?api=1&query=-34.019405,23.903088) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Storms%20River%20Mouth%20Trail%2C%20South%20Africa) |
+| 28 | [Union Buildings and Public Gardens](sights/union-buildings.yaml) | Garden | **84.15** | **History 9.3**, **Architecture 8.7** | 8.3 / 8.4 / 9.2 / 8.1 / 7.7 | [-25.741, 28.212](https://www.google.com/maps/search/?api=1&query=-25.741,28.212) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Union%20Buildings%20and%20Public%20Gardens%2C%20South%20Africa) |
 
 ## Not yet fully assessed (6)
 

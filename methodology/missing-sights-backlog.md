@@ -98,18 +98,29 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] CA — Wapusk National Park: 88.20/100 (source-linked, full verification pending)
 - [x] CA — Hopewell Rocks Provincial Park: 88.05/100 (source-linked, full verification pending)
 
+- [x] AU — Kunanyi / Mount Wellington: 85.25/100 (source-linked, full verification pending)
+- [x] AU — Cable Beach (Broome): 83.30/100 (source-linked, full verification pending)
+- [x] AU — Blue Lake / Warwar (Mount Gambier): 83.25/100 (source-linked, full verification pending)
+- [x] NZ — Redwoods Treewalk: 82.75/100 (source-linked, full verification pending)
+- [x] NZ — Ōkere Falls Track: 81.10/100 (source-linked, full verification pending)
+- [x] ZA — Storms River Mouth Trail: 84.90/100 (source-linked, full verification pending)
+- [x] ZA — Chapman's Peak Drive: 86.05/100 (source-linked, full verification pending)
+- [x] ZA — Hermanus Cliff Path and shore-based whale watching: 86.25/100 (source-linked, full verification pending)
+- [x] ES — Caminito del Rey: 87.20/100 (source-linked, full verification pending)
+- [x] CH — Creux du Van: 85.55/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
 - [ ] US: Canyon de Chelly National Monument (rim overlooks and guided canyon visits; [NPS FAQ](https://www.nps.gov/cach/faqs.htm)); Antelope Canyon X (distinct guided route; [Navajo Nation tour operators](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)); verify separate scope and coordinates before scoring.
 - [ ] US further park review: Valles Caldera National Preserve (caldera, wildlife and hiking; [NPS published coordinates](https://www.nps.gov/articles/parks-in-space.htm), [hiking](https://www.nps.gov/vall/planyourvisit/hiking.htm); no existing US ranking row); Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
 - [ ] CA: Churchill wildlife experiences (distinct public tour scope from Wapusk; verify overlap), Bay of Fundy visitor coastline.
 - [ ] CA further park review: Akami-Uapishk–KakKasuak–Mealy Mountains; Aulavik; Elk Island; Forillon; Georgian Bay Islands; Glacier; Grasslands; Gulf Islands; Kejimkujik; Kouchibouguac; La Mauricie; Mount Revelstoke; Nááts'įhch'oh; Point Pelee; Prince Albert; Prince Edward Island; Pukaskwa; Qausuittuq; Riding Mountain; Terra Nova; Thaidene Nëné; Tuktut Nogait; Ukkusiksalik. [Parks Canada](https://www.parks.canada.ca/pn-np).
-- [ ] AU: kunanyi, Cable Beach, Blue Lake Mount Gambier; assess separate Wineglass Bay lookout only after nested scope review.
-- [ ] NZ: Bay of Islands, Mokoia Island, Polynesian Spa, Kaituna River, Ōkere Falls Track ([DOC route](https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/okere-falls-scenic-reserve/things-to-do/okere-falls-track/) — distinct land walk; verify GPS), Rotorua Canopy Tours, Redwoods Treewalk (separate elevated attraction; [operator directions](https://www.treewalk.co.nz/how-to-get-there/)), Mount Ngongotahā; Te Whanganui-o-Hei Marine Reserve (distinct underwater visitor scope from Cathedral Cove; [DOC](https://www.doc.govt.nz/parks-and-recreation/places-to-go/coromandel/places/hahei-area/te-whanganui-o-hei-cathedral-cove-marine-reserve/)).
+- [ ] AU: Umpherston Sinkhole / Balumbul (distinct Mount Gambier site; [SA environment department](https://www.environment.sa.gov.au/goodliving/posts/2025/07/mt-gambier-state-heritage-areas); verify coordinate); separate Wineglass Bay lookout after nested scope review.
+- [ ] NZ: Bay of Islands, Mokoia Island, Polynesian Spa, Kaituna River, Rotorua Canopy Tours, Mount Ngongotahā; Te Whanganui-o-Hei Marine Reserve (distinct underwater visitor scope from Cathedral Cove).
 - [ ] AS: National Park of American Samoa (Ofu and Mount Alava components already exist).
-- [ ] ZA: Tsitsikamma/Storms River Mouth trails, Hermanus, Chapman's Peak Drive, Knysna experiences, Sani Pass SA side.
+- [ ] ZA: Knysna experiences, Sani Pass SA side; Hermanus boat-based whale watching only if distinct scope justified.
 - [ ] TZ: Nungwi, Paje, Mnemba. MG: Île Sainte-Marie, Nosy Be.
-- [ ] CH: Creux du Van; ES: Caminito del Rey; SE: Kungsleden, High Coast Trail; NO: Segla, Romsdalen, Rampestreken, Atlantic Ocean Road, Nigardsbreen; IS: Vestmannaeyjar, Hvítserkur, Kerið; PT: Pico do Arieiro, Seven Hanging Valleys, 25 Fontes.
+- [ ] SE: Kungsleden, High Coast Trail; NO: Segla, Romsdalen, Rampestreken, Atlantic Ocean Road, Nigardsbreen; IS: Vestmannaeyjar, Hvítserkur, Kerið; PT: Pico do Arieiro, Seven Hanging Valleys, 25 Fontes.
 - [ ] MQ: Plage des Salines; KY: Stingray City dive site vs sandbar; AG: Stingray City; FJ: Yasawa/Mamanuca/Sabeto specific attractions; FO additional hiking landscapes; CK Te Manga; BS Andros specific attractions; LR Libassa; VG Anegada specific visitor sites; TO whale watching; NC Isle of Pines specific sights; YT lagoon experience.
 
 ## Outstanding cultural and urban coverage
@@ -128,4 +139,4 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for eighty-five additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for ninety-five additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.

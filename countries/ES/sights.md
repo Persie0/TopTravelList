@@ -2,7 +2,7 @@
 
 # Spain (ES) — Sights & attractions ranking
 
-**98 ranked** · **15 unassessed** · **113 total** · Worldwide scoring **v2**
+**99 ranked** · **15 unassessed** · **114 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (98)
+## Complete ranked list (99)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -108,10 +108,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 91 | [Palmeral of Elche](sights/elche-palmeral.yaml) | Attraction | **87.65** | **Culture 9.2**, **Nature 9.1** | 8.5 / 9.0 / 9.0 / 8.7 / 8.6 | [38.267, -0.695](https://www.google.com/maps/search/?api=1&query=38.267,-0.695) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palmeral%20of%20Elche%2C%20Spain) |
 | 93 | [Altamira Museum and Neocave replica](sights/altamira-replica.yaml) | Museum / heritage | **87.55** | **Culture 9.2**, **History 9.2** | 8.7 / 8.9 / 8.8 / 8.8 / 8.4 | [43.377, -4.122](https://www.google.com/maps/search/?api=1&query=43.377,-4.122) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Altamira%20Museum%20and%20Neocave%20replica%2C%20Spain) |
 | 93 | [La Rábida Monastery and Columbus Memorial Places](sights/rabida.yaml) | Religious site | **87.55** | **History 9.4**, **Culture 9.1** | 8.5 / 8.9 / 9.2 / 8.6 / 8.5 | [37.206, -6.926](https://www.google.com/maps/search/?api=1&query=37.206,-6.926) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20R%C3%A1bida%20Monastery%20and%20Columbus%20Memorial%20Places%2C%20Spain) |
-| 95 | [Cabañeros National Park](sights/cabaneros.yaml) | Park / reserve | **87.15** | **Wildlife 9.3**, **Nature 9.2** | 8.5 / 8.8 / 8.9 / 8.7 / 8.8 | [39.4, -4.55](https://www.google.com/maps/search/?api=1&query=39.4,-4.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Caba%C3%B1eros%20National%20Park%2C%20Spain) |
-| 96 | [Ferrol Enlightenment heritage](sights/ferrol.yaml) | Attraction | **86.40** | **History 9.3**, **Architecture 9.1** | 8.4 / 8.8 / 9.0 / 8.4 / 8.6 | [43.482, -8.235](https://www.google.com/maps/search/?api=1&query=43.482,-8.235) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ferrol%20Enlightenment%20heritage%2C%20Spain) |
-| 97 | [Church of San Salvador de Valdediós](sights/valdedios.yaml) | Religious site | **86.15** | **History 9.3**, **Architecture 9.2** | 8.4 / 9.0 / 9.2 / 8.3 / 7.6 | [43.433, -5.508](https://www.google.com/maps/search/?api=1&query=43.433,-5.508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Church%20of%20San%20Salvador%20de%20Valdedi%C3%B3s%2C%20Spain) |
-| 98 | [Tablas de Daimiel National Park](sights/tablas-daimiel.yaml) | Park / reserve | **85.75** | **Wildlife 9.3**, **Nature 9.2** | 8.3 / 8.8 / 8.9 / 8.5 / 8.3 | [39.14, -3.7](https://www.google.com/maps/search/?api=1&query=39.14,-3.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tablas%20de%20Daimiel%20National%20Park%2C%20Spain) |
+| 95 | [Caminito del Rey](sights/caminito-del-rey.yaml) | Attraction | **87.20** | **Adventure 9.2**, **Photography 9.2**, **Nature 9.0** | 9.0 / 8.8 / 8.2 / 9.0 / 8.3 | [36.92417, -4.77833](https://www.google.com/maps/search/?api=1&query=36.92417,-4.77833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Caminito%20del%20Rey%2C%20Spain) |
+| 96 | [Cabañeros National Park](sights/cabaneros.yaml) | Park / reserve | **87.15** | **Wildlife 9.3**, **Nature 9.2** | 8.5 / 8.8 / 8.9 / 8.7 / 8.8 | [39.4, -4.55](https://www.google.com/maps/search/?api=1&query=39.4,-4.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Caba%C3%B1eros%20National%20Park%2C%20Spain) |
+| 97 | [Ferrol Enlightenment heritage](sights/ferrol.yaml) | Attraction | **86.40** | **History 9.3**, **Architecture 9.1** | 8.4 / 8.8 / 9.0 / 8.4 / 8.6 | [43.482, -8.235](https://www.google.com/maps/search/?api=1&query=43.482,-8.235) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ferrol%20Enlightenment%20heritage%2C%20Spain) |
+| 98 | [Church of San Salvador de Valdediós](sights/valdedios.yaml) | Religious site | **86.15** | **History 9.3**, **Architecture 9.2** | 8.4 / 9.0 / 9.2 / 8.3 / 7.6 | [43.433, -5.508](https://www.google.com/maps/search/?api=1&query=43.433,-5.508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Church%20of%20San%20Salvador%20de%20Valdedi%C3%B3s%2C%20Spain) |
+| 99 | [Tablas de Daimiel National Park](sights/tablas-daimiel.yaml) | Park / reserve | **85.75** | **Wildlife 9.3**, **Nature 9.2** | 8.3 / 8.8 / 8.9 / 8.5 / 8.3 | [39.14, -3.7](https://www.google.com/maps/search/?api=1&query=39.14,-3.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tablas%20de%20Daimiel%20National%20Park%2C%20Spain) |
 
 ## Not yet fully assessed (15)
 

@@ -1585,3 +1585,38 @@
 - Verification still needed: independent material claims, permitted access and narrower worldwide peer comparisons.
 
 - [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
+
+
+### sight-ch-creux-du-van — Creux du Van — 2026-11-26
+
+- YAML: [source](../../../countries/CH/sights/creux-du-van.yaml)
+- Action: new
+- Precise subject and factual basis: Natural rock amphitheatre in Jura with hiking routes; representative gorge coordinate, not rim access point. [Visitor information](https://www.myswitzerland.com/en-us/experiences/creux-du-van-natural-spectacle/). Source excerpts inspected 2026-11-26.
+- Location check: 46.933468, 6.722109; [published reference](https://www.outdooractive.com/en/poi/jura-bernois/creux-du-van/56217561/); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CH/rhine-gorge](../../../countries/CH/sights/rhine-gorge.yaml) | Broader river canyon |
+| [CH/lauterbrunnen-valley](../../../countries/CH/sights/lauterbrunnen-valley.yaml) | More monumental alpine valley |
+| [AU/karijini-national-park](../../../countries/AU/sights/karijini-national-park.yaml) | Different gorge landscapes |
+| [AU/kalbarri-national-park](../../../countries/AU/sights/kalbarri-national-park.yaml) | Different river-cut canyon |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Striking semicircular walls |
+| uniqueness | 8.5 | Distinctive amphitheatre with analogues |
+| significance | 8.2 | Protected natural landscape |
+| experience | 8.8 | Rewarding hikes and views |
+| depth | 8.3 | Focused cirque and surrounding trails |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.8.
+- Computed worldwide overall: 85.55/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.

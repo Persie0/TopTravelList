@@ -2,7 +2,7 @@
 
 # Switzerland (CH) — Sights & attractions ranking
 
-**45 ranked** · **0 unassessed** · **45 total** · Worldwide scoring **v2**
+**46 ranked** · **0 unassessed** · **46 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (45)
+## Complete ranked list (46)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -55,10 +55,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 39 | [Salginatobel Bridge (tentative)](sights/salginatobel-bridge.yaml) | Bridge | **86.30** | **Architecture 9.3**, **History 9.1**, **Photography 9.0** | 8.5 / 9.0 / 9.1 / 8.4 / 7.5 | [46.98, 9.72](https://www.google.com/maps/search/?api=1&query=46.98,9.72) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salginatobel%20Bridge%20%28tentative%29%2C%20Switzerland) |
 | 40 | [Gruyères Castle](sights/gruyeres-castle.yaml) | Palace / castle | **86.25** | **Architecture 9.1**, **History 9.1**, **Photography 9.1** | 8.7 / 8.6 / 8.7 / 8.7 / 8.2 | [46.584, 7.083](https://www.google.com/maps/search/?api=1&query=46.584,7.083) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gruy%C3%A8res%20Castle%2C%20Switzerland) |
 | 41 | [Bettlachstock forest reserve](sights/bettlachstock.yaml) | Forest | **85.75** | **Nature 9.2**, **Photography 8.8** | 8.3 / 8.8 / 9.1 / 8.3 / 8.2 | [47.23, 7.42](https://www.google.com/maps/search/?api=1&query=47.23,7.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bettlachstock%20forest%20reserve%2C%20Switzerland) |
-| 42 | [Villa Le Lac, Corseaux](sights/villa-le-lac.yaml) | Attraction | **85.50** | **Architecture 9.3**, **History 9.1** | 8.2 / 9.0 / 9.2 / 8.4 / 7.4 | [46.468414, 6.829333](https://www.google.com/maps/search/?api=1&query=46.468414,6.829333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Villa%20Le%20Lac%2C%20Corseaux%2C%20Switzerland) |
-| 43 | [Staubbach Falls](sights/staubbach-falls.yaml) | Waterfall | **85.25** | **Photography 9.4**, **Nature 9.1** | 8.9 / 8.7 / 8.3 / 8.6 / 7.3 | [46.59, 7.905](https://www.google.com/maps/search/?api=1&query=46.59,7.905) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Staubbach%20Falls%2C%20Switzerland) |
-| 44 | [Prehistoric Pile Dwellings around the Alps (Swiss components)](sights/pile-dwellings.yaml) | Attraction | **84.05** | **History 9.4** | 7.5 / 8.9 / 9.3 / 8.2 / 8.4 | [47.06, 8.3](https://www.google.com/maps/search/?api=1&query=47.06,8.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28Swiss%20components%29%2C%20Switzerland) |
-| 45 | [Immeuble Clarté, Geneva](sights/immeuble-clarte.yaml) | Attraction | **81.40** | **Architecture 9.3**, **History 9.1** | 7.8 / 8.9 / 9.2 / 7.3 / 6.4 | [46.200158, 6.156408](https://www.google.com/maps/search/?api=1&query=46.200158,6.156408) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Immeuble%20Clart%C3%A9%2C%20Geneva%2C%20Switzerland) |
+| 42 | [Creux du Van](sights/creux-du-van.yaml) | Attraction | **85.55** | **Photography 9.1**, **Nature 9.0**, **Adventure 8.8** | 8.8 / 8.5 / 8.2 / 8.8 / 8.3 | [46.933468, 6.722109](https://www.google.com/maps/search/?api=1&query=46.933468,6.722109) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Creux%20du%20Van%2C%20Switzerland) |
+| 43 | [Villa Le Lac, Corseaux](sights/villa-le-lac.yaml) | Attraction | **85.50** | **Architecture 9.3**, **History 9.1** | 8.2 / 9.0 / 9.2 / 8.4 / 7.4 | [46.468414, 6.829333](https://www.google.com/maps/search/?api=1&query=46.468414,6.829333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Villa%20Le%20Lac%2C%20Corseaux%2C%20Switzerland) |
+| 44 | [Staubbach Falls](sights/staubbach-falls.yaml) | Waterfall | **85.25** | **Photography 9.4**, **Nature 9.1** | 8.9 / 8.7 / 8.3 / 8.6 / 7.3 | [46.59, 7.905](https://www.google.com/maps/search/?api=1&query=46.59,7.905) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Staubbach%20Falls%2C%20Switzerland) |
+| 45 | [Prehistoric Pile Dwellings around the Alps (Swiss components)](sights/pile-dwellings.yaml) | Attraction | **84.05** | **History 9.4** | 7.5 / 8.9 / 9.3 / 8.2 / 8.4 | [47.06, 8.3](https://www.google.com/maps/search/?api=1&query=47.06,8.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28Swiss%20components%29%2C%20Switzerland) |
+| 46 | [Immeuble Clarté, Geneva](sights/immeuble-clarte.yaml) | Attraction | **81.40** | **Architecture 9.3**, **History 9.1** | 7.8 / 8.9 / 9.2 / 7.3 / 6.4 | [46.200158, 6.156408](https://www.google.com/maps/search/?api=1&query=46.200158,6.156408) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Immeuble%20Clart%C3%A9%2C%20Geneva%2C%20Switzerland) |
 
 ---
 

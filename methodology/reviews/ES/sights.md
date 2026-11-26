@@ -3964,3 +3964,38 @@
 - Verification still needed: independent factual support, access, exact GPS and closer peers.
 
 - [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)
+
+
+### sight-es-caminito-del-rey — Caminito del Rey — 2026-11-26
+
+- YAML: [source](../../../countries/ES/sights/caminito-del-rey.yaml)
+- Action: new
+- Precise subject and factual basis: Restored cliffside boardwalk through Gaitanes gorge; route reference point, not ticket entrance. [Visitor information](https://www.caminitodelrey.info/en/your-visit/access-route). Source excerpts inspected 2026-11-26.
+- Location check: 36.92417, -4.77833; [published reference](https://mapcarta.com/28093454); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CH/aare-gorge](../../../countries/CH/sights/aare-gorge.yaml) | Different lower gorge walkway |
+| [NZ/hooker-valley-track](../../../countries/NZ/sights/hooker-valley-track.yaml) | Different alpine walking |
+| [AU/karijini-national-park](../../../countries/AU/sights/karijini-national-park.yaml) | Broader gorge exploration |
+| [ZA/storms-river-mouth-trail](../../../countries/ZA/sights/storms-river-mouth-trail.yaml) | Shorter coastal bridge experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Dramatic elevated gorge views |
+| uniqueness | 8.8 | Unusual cliff walkway with analogues |
+| significance | 8.2 | Engineering heritage and geology |
+| experience | 9.0 | Distinctive controlled walk |
+| depth | 8.3 | Focused gorge route |
+
+- Applicable categories: adventure:9.2, nature:9.0, photography:9.2.
+- Computed worldwide overall: 87.20/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.

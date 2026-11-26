@@ -715,3 +715,108 @@ UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribe
 - Approved 10 registry: none.
 - Earlier decision: [prior YAML](https://github.com/Persie0/TopTravelList/blob/f72884a2bf772d85a89d699566180a0087d2be7f/countries/ZA/sights/kirstenbosch.yaml); earlier historical review entries preserved.
 - Verification still needed: precise GPS, independent source corroboration and visitor access boundaries; scores are editorial.
+
+
+### sight-za-storms-river-mouth-trail — Storms River Mouth Trail — 2026-11-26
+
+- YAML: [source](../../../countries/ZA/sights/storms-river-mouth-trail.yaml)
+- Action: new
+- Precise subject and factual basis: Forest boardwalk and suspension bridges in Tsitsikamma; distinct trail within Garden Route National Park. Geotagged photo point by bridges; check refurbishment notices. [Visitor information](https://www.sanparks.org/parks/garden-route/what-to-do/activities/hikes-walks-trails). Source excerpts inspected 2026-11-26.
+- Location check: -34.019405, 23.903088; [published reference](https://commons.wikimedia.org/wiki/File:Sign_at_Storms_River_Mouth_(Tsitsikamma)_Suspension_Bridges.jpg); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ZA/garden-route-national-park](../../../countries/ZA/sights/garden-route-national-park.yaml) | Parent covers many landscapes |
+| [AU/freycinet-national-park](../../../countries/AU/sights/freycinet-national-park.yaml) | Broader coastal hiking |
+| [NZ/kaikoura-peninsula-walkway](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml) | Different wildlife setting |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | Longer coastal trail network |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Dramatic river and sea meeting |
+| uniqueness | 8.4 | Comparable coastal bridges |
+| significance | 8.1 | Protected coastal environment |
+| experience | 8.8 | Memorable walk and bridges |
+| depth | 8.1 | Focused route |
+
+- Applicable categories: nature:9.0, photography:8.9, adventure:8.8.
+- Computed worldwide overall: 84.90/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+### sight-za-chapmans-peak-drive — Chapman's Peak Drive — 2026-11-26
+
+- YAML: [source](../../../countries/ZA/sights/chapmans-peak-drive.yaml)
+- Action: new
+- Precise subject and factual basis: Scenic cliff road above sea; representative route point. Distinct from Table Mountain summit. [Visitor information](https://www.sanparks.org/parks/table-mountain/explore/heritage/chapmans-peak). Source excerpts inspected 2026-11-26.
+- Location check: -34.089, 18.36; [published reference](https://porschetrails.com/trails/chapmans-peak-drive/); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | Broader coastline and stacks |
+| [AU/kalbarri-national-park](../../../countries/AU/sights/kalbarri-national-park.yaml) | Broader gorge and coast |
+| [ZA/cape-point](../../../countries/ZA/sights/cape-point.yaml) | More varied cape landscapes |
+| [NZ/doubtful-sound](../../../countries/NZ/sights/doubtful-sound.yaml) | Different water-based wilderness |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Exceptional ocean cliff views |
+| uniqueness | 8.5 | Comparable cliff roads exist |
+| significance | 8.2 | Geology and road heritage |
+| experience | 8.8 | Scenic driving and viewpoints |
+| depth | 8.2 | Focused road corridor |
+
+- Applicable categories: nature:8.9, photography:9.2, adventure:8.4.
+- Computed worldwide overall: 86.05/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+### sight-za-hermanus-cliff-path — Hermanus Cliff Path and shore-based whale watching — 2026-11-26
+
+- YAML: [source](../../../countries/ZA/sights/hermanus-cliff-path.yaml)
+- Action: new
+- Precise subject and factual basis: Coastal path with seasonal land-based whale watching; Gearing's Point reference. Exclude boat tours; sightings not guaranteed. [Visitor information](https://www.hermanus.co.za/what-to-do/water-based/whale-watching/). Source excerpts inspected 2026-11-26.
+- Location check: -34.42215, 19.24394; [published reference](https://mapcarta.com/N602750080); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | Offshore whale encounters |
+| [NZ/kaikoura-peninsula-walkway](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml) | Comparable coastal paths |
+| [ZA/boulders-beach](../../../countries/ZA/sights/boulders-beach.yaml) | Different wildlife |
+| [AU/phillip-island-penguin-parade](../../../countries/AU/sights/phillip-island-penguin-parade.yaml) | More structured wildlife viewing |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Ocean views and potential whale sightings |
+| uniqueness | 8.8 | Unusual shore-based encounters |
+| significance | 8.3 | Coastal wildlife context |
+| experience | 8.9 | Accessible walking and viewing |
+| depth | 8.5 | Multiple viewpoints |
+
+- Applicable categories: wildlife:9.2, nature:8.9, photography:8.9.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.

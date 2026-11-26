@@ -1485,3 +1485,73 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-redwoods-treewalk — Redwoods Treewalk — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/redwoods-treewalk.yaml)
+- Action: new
+- Precise subject and factual basis: Elevated bridges and platforms within redwood forest; separate ticketed activity rather than ground trails; operator GPS. [Visitor information](https://www.treewalk.co.nz/). Source excerpts inspected 2026-11-26.
+- Location check: -38.156699, 176.273242; [published reference](https://www.treewalk.co.nz/contact-us/); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/whakarewarewa-forest](../../../countries/NZ/sights/whakarewarewa-forest.yaml) | Parent offers wider ground routes |
+| [AU/daintree-rainforest](../../../countries/AU/sights/daintree-rainforest.yaml) | Greater native ecosystem significance |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | Broader outdoor routes |
+| [NZ/hobbiton](../../../countries/NZ/sights/hobbiton.yaml) | Different immersive managed attraction |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.4 | Immersive canopy perspective |
+| uniqueness | 8.4 | Other elevated walks exist |
+| significance | 7.6 | Recreation and forestry context |
+| experience | 8.9 | Day and evening experiences |
+| depth | 8.0 | Focused attraction |
+
+- Applicable categories: nature:8.5, adventure:8.8, family:8.8, photography:8.6.
+- Computed worldwide overall: 82.75/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+### sight-nz-okere-falls-track — Ōkere Falls Track — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/okere-falls-track.yaml)
+- Action: new
+- Precise subject and factual basis: Short riverside forest walk with waterfall views, distinct from rafting; DOC route reference reproduced by Outdoor Next. Check platform closures. [Visitor information](https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/okere-falls-scenic-reserve/things-to-do/okere-falls-track). Source excerpts inspected 2026-11-26.
+- Location check: -38.010789, 176.34375; [published reference](https://www.outdoornext.co.nz/walks/okere-falls-track); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; visitor information and coordinate references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/kaikoura-peninsula-walkway](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml) | Different coastal wildlife |
+| [NZ/cathedral-cove](../../../countries/NZ/sights/cathedral-cove.yaml) | More dramatic arch |
+| [ZA/augrabies-falls](../../../countries/ZA/sights/augrabies-falls.yaml) | Larger waterfall landscape |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | More unusual geological features |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.2 | Attractive river and falls |
+| uniqueness | 8.0 | Comparable waterfall walks |
+| significance | 7.9 | Local cultural and hydroelectric history |
+| experience | 8.6 | Rewarding short walk |
+| depth | 7.8 | Limited route scope |
+
+- Applicable categories: nature:8.5, photography:8.5, adventure:8.2.
+- Computed worldwide overall: 81.10/100.
+- High-score challenge: below 90 overall; no 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
