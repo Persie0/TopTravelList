@@ -19,12 +19,13 @@ export function optimizeRoute(stops){
  }if(!changed)break}
  return routeDistance(result)<=routeDistance(original)?result:original;
 }
-export function suggestRoute(anchor,candidates,{minScore=80,maxLeg=150,maxStops=8}={}){
+export function suggestRoute(anchor,candidates,{minScore=80,maxLeg=150,maxStops=8,style='balanced'}={}){
  if(!validPoint(anchor))return [];
+ const penalty=style==='compact'?55:style==='highlights'?8:24;
  const stops=[anchor],remaining=uniqueStops(candidates).filter(p=>p.id!==anchor.id&&Number.isFinite(p.overall)&&p.overall>=minScore);
  // Score and proximity compete; restrict every leg to the requested radius.
  while(stops.length<maxStops){const last=stops.at(-1);let best=-1,bestUtility=-Infinity;
- for(let i=0;i<remaining.length;i++){const d=distanceKm(last,remaining[i]);if(d>maxLeg)continue;const utility=remaining[i].overall-24*d/Math.max(1,maxLeg);if(utility>bestUtility){best=i;bestUtility=utility}}
+ for(let i=0;i<remaining.length;i++){const d=distanceKm(last,remaining[i]);if(d>maxLeg)continue;const utility=remaining[i].overall-penalty*d/Math.max(1,maxLeg);if(utility>bestUtility){best=i;bestUtility=utility}}
  if(best<0)break;stops.push(remaining.splice(best,1)[0]);}
  return stops;
 }
@@ -39,9 +40,9 @@ export function nearbyStops(stops,candidates,{minScore=80,maxDistance=150,limit=
  return uniqueStops(candidates).filter(p=>!selected.has(p.id)&&Number.isFinite(p.overall)&&p.overall>=minScore).map(p=>({point:p,distance:Math.min(...stops.map(s=>distanceKm(s,p)))})).filter(r=>r.distance<=maxDistance).sort((a,b)=>(b.point.overall-24*b.distance/Math.max(1,maxDistance))-(a.point.overall-24*a.distance/Math.max(1,maxDistance))||a.distance-b.distance||a.point.id.localeCompare(b.point.id)).slice(0,limit);
 }
 export function regionalRecommendations(candidates,options={}){
- const seeds=uniqueStops(candidates).filter(p=>Number.isFinite(p.overall)&&p.overall>=(options.minScore??80)).sort((a,b)=>b.overall-a.overall||a.id.localeCompare(b.id)).slice(0,12);
+ const ranked=uniqueStops(candidates).filter(p=>Number.isFinite(p.overall)&&p.overall>=(options.minScore??80)).sort((a,b)=>b.overall-a.overall||a.id.localeCompare(b.id));const seeds=[];for(const p of ranked){if(seeds.length>=12)break;if(seeds.every(s=>distanceKm(s,p)>Math.max(15,(options.maxLeg??150)/2)))seeds.push(p)}if(!seeds.length&&ranked.length)seeds.push(ranked[0]);
  const seen=new Set(),routes=[];
  for(const seed of seeds){const route=suggestRoute(seed,candidates,options),key=route.map(p=>p.id).sort().join('|');if(seen.has(key))continue;seen.add(key);routes.push(route)}
- const utility=r=>r.reduce((n,p)=>n+p.overall,0)-24*routeDistance(r)/Math.max(1,options.maxLeg??150);
+ const penalty=options.style==='compact'?55:options.style==='highlights'?8:24;const utility=r=>r.reduce((n,p)=>n+p.overall,0)-penalty*routeDistance(r)/Math.max(1,options.maxLeg??150);
  return routes.sort((a,b)=>utility(b)-utility(a)||routeDistance(a)-routeDistance(b)).slice(0,3);
 }
