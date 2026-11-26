@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14721; unassessed: 1548.
+Ranked: 14730; unassessed: 1539.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 364 |
+| conflicting-declared-status | 373 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1548 |
+| incomplete-core | 1539 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1790 |
+| overall-90-plus | 1793 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 48 |
 | shared-representative-gps | 242 |
@@ -65,7 +65,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BD | cities | 15 | 13 | 74.00 | 0 | 0 | 0 | 15 | [Dhaka](../../countries/BD/cities/dhaka.yaml) 83.50; [Chattogram](../../countries/BD/cities/chattogram.yaml) 76.90; [Sylhet](../../countries/BD/cities/sylhet.yaml) 76.25 |
 | BD | sights | 42 | 33 | 82.95 | 1 | 0 | 3 | 42 | [The Sundarbans (Bangladesh World Heritage Property)](../../countries/BD/sights/the-sundarbans-bangladesh-world-heritage-property.yaml) 92.35; [Historic Mosque City of Bagerhat](../../countries/BD/sights/historic-mosque-city-of-bagerhat.yaml) 89.05; [Ruins of the Buddhist Vihara at Paharpur](../../countries/BD/sights/ruins-of-the-buddhist-vihara-at-paharpur.yaml) 88.45 |
 | BE | cities | 18 | 18 | 84.10 | 3 | 0 | 1 | 18 | [Bruges (Brugge)](../../countries/BE/cities/bruges.yaml) 92.50; [Ghent (Gent)](../../countries/BE/cities/ghent.yaml) 91.45; [Brussels](../../countries/BE/cities/brussels.yaml) 90.10 |
-| BE | sights | 64 | 52 | 86.75 | 5 | 0 | 3 | 64 | [Historic Centre of Bruges](../../countries/BE/sights/historic-bruges.yaml) 93.45; [Medieval Ghent and abbey heritage (tentative)](../../countries/BE/sights/ghent-historic-core.yaml) 91.20; [Grand-Place, Brussels](../../countries/BE/sights/grand-place.yaml) 90.90 |
+| BE | sights | 64 | 56 | 86.92 | 5 | 0 | 3 | 64 | [Historic Centre of Bruges](../../countries/BE/sights/historic-bruges.yaml) 93.45; [Medieval Ghent and abbey heritage (tentative)](../../countries/BE/sights/ghent-historic-core.yaml) 91.20; [Grand-Place, Brussels](../../countries/BE/sights/grand-place.yaml) 90.90 |
 | BF | cities | 9 | 3 | 76.30 | 0 | 0 | 0 | 9 | [Bobo-Dioulasso](../../countries/BF/cities/bobo-dioulasso.yaml) 81.55; [Ouagadougou](../../countries/BF/cities/ouagadougou.yaml) 76.30; [Banfora](../../countries/BF/cities/banfora.yaml) 69.65 |
 | BF | sights | 35 | 11 | 83.25 | 1 | 0 | 1 | 35 | [Royal Court of Tiébélé](../../countries/BF/sights/royal-court-tiebele.yaml) 90.20; [Sindou Peaks](../../countries/BF/sights/sindou-peaks.yaml) 85.90; [Sya Historic Centre (Dioulassoba)](../../countries/BF/sights/sya-historic-centre.yaml) 85.60 |
 | BG | cities | 18 | 18 | 82.68 | 0 | 0 | 0 | 18 | [Plovdiv](../../countries/BG/cities/plovdiv.yaml) 89.00; [Veliko Tarnovo](../../countries/BG/cities/veliko-tarnovo.yaml) 88.00; [Nessebar](../../countries/BG/cities/nessebar.yaml) 86.95 |
@@ -203,7 +203,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | GQ | cities | 13 | 13 | 71.35 | 0 | 0 | 0 | 13 | [Malabo](../../countries/GQ/cities/malabo.yaml) 78.65; [Moka](../../countries/GQ/cities/moka.yaml) 73.70; [San Antonio de Palé](../../countries/GQ/cities/san-antonio-de-pale.yaml) 73.70 |
 | GQ | sights | 26 | 18 | 79.35 | 0 | 0 | 0 | 26 | [Pico Basilé National Park](../../countries/GQ/sights/pico-basile-national-park.yaml) 87.10; [Ureca Turtle Nesting Beaches](../../countries/GQ/sights/ureca-turtle-nesting-beaches.yaml) 86.60; [Monte Alén National Park](../../countries/GQ/sights/monte-alen-national-park.yaml) 86.30 |
 | GR | cities | 18 | 18 | 87.00 | 2 | 0 | 4 | 18 | [Athens](../../countries/GR/cities/athens.yaml) 94.70; [Rhodes Town](../../countries/GR/cities/rhodes.yaml) 90.50; [Corfu Town](../../countries/GR/cities/corfu.yaml) 89.95 |
-| GR | sights | 65 | 59 | 89.35 | 27 | 1 | 31 | 65 | [Meteora rock formations and monasteries](../../countries/GR/sights/meteora.yaml) 95.05; [Acropolis of Athens](../../countries/GR/sights/acropolis.yaml) 94.70; [Santorini caldera and volcanic seascape](../../countries/GR/sights/santorini-caldera.yaml) 93.55 |
+| GR | sights | 65 | 61 | 89.40 | 29 | 1 | 31 | 65 | [Meteora rock formations and monasteries](../../countries/GR/sights/meteora.yaml) 95.05; [Acropolis of Athens](../../countries/GR/sights/acropolis.yaml) 94.70; [Santorini caldera and volcanic seascape](../../countries/GR/sights/santorini-caldera.yaml) 93.55 |
 | GS | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | GS | sights | 10 | 9 | 89.60 | 4 | 0 | 0 | 10 | [St Andrews Bay (authorized wildlife viewing)](../../countries/GS/sights/st-andrews-bay.yaml) 92.75; [Salisbury Plain (authorized wildlife viewing)](../../countries/GS/sights/salisbury-plain.yaml) 92.20; [Gold Harbour (authorized visitor sector)](../../countries/GS/sights/gold-harbour.yaml) 91.70 |
 | GT | cities | 12 | 12 | 79.32 | 1 | 0 | 0 | 12 | [Antigua Guatemala](../../countries/GT/cities/antigua-guatemala.yaml) 90.00; [Chichicastenango](../../countries/GT/cities/chichicastenango.yaml) 84.80; [San Juan La Laguna](../../countries/GT/cities/san-juan-la-laguna.yaml) 80.65 |
@@ -475,7 +475,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | TO | cities | 7 | 6 | 69.85 | 0 | 0 | 0 | 7 | [Mu'a](../../countries/TO/cities/mua.yaml) 75.70; [Nuku'alofa](../../countries/TO/cities/nukualofa.yaml) 75.45; [Neiafu](../../countries/TO/cities/neiafu.yaml) 73.50 |
 | TO | sights | 18 | 16 | 79.38 | 0 | 0 | 0 | 18 | [Vavaʻu Marine Landscape](../../countries/TO/sights/vavau-marine-landscape.yaml) 89.85; [The Ancient Capitals of the Kingdom of Tonga](../../countries/TO/sights/ancient-capitals.yaml) 84.90; [Lapaha Royal Tombs](../../countries/TO/sights/lapaha-royal-tombs.yaml) 82.60 |
 | TR | cities | 20 | 20 | 84.02 | 1 | 0 | 1 | 20 | [Istanbul](../../countries/TR/cities/istanbul.yaml) 94.20; [Mardin](../../countries/TR/cities/mardin.yaml) 87.30; [Bursa](../../countries/TR/cities/bursa.yaml) 85.75 |
-| TR | sights | 48 | 40 | 87.90 | 6 | 0 | 0 | 48 | [Goreme National Park and Rock Sites of Cappadocia](../../countries/TR/sights/cappadocia.yaml) 93.85; [Historic Areas of Istanbul](../../countries/TR/sights/historic-istanbul.yaml) 93.25; [Ephesus](../../countries/TR/sights/ephesus.yaml) 93.10 |
+| TR | sights | 48 | 43 | 87.95 | 7 | 0 | 0 | 48 | [Goreme National Park and Rock Sites of Cappadocia](../../countries/TR/sights/cappadocia.yaml) 93.85; [Historic Areas of Istanbul](../../countries/TR/sights/historic-istanbul.yaml) 93.25; [Ephesus](../../countries/TR/sights/ephesus.yaml) 93.10 |
 | TT | cities | 12 | 12 | 72.80 | 0 | 0 | 0 | 12 | [Port of Spain](../../countries/TT/cities/port-of-spain.yaml) 83.55; [Castara](../../countries/TT/cities/castara.yaml) 77.35; [Charlotteville](../../countries/TT/cities/charlotteville.yaml) 74.95 |
 | TT | sights | 29 | 28 | 80.08 | 0 | 0 | 0 | 29 | [La Brea Pitch Lake](../../countries/TT/sights/la-brea-pitch-lake.yaml) 88.55; [Tobago Main Ridge Forest Reserve](../../countries/TT/sights/tobago-main-ridge-forest-reserve.yaml) 88.35; [Caroni Swamp Bird Sanctuary](../../countries/TT/sights/caroni-swamp-bird-sanctuary.yaml) 87.60 |
 | TV | cities | 9 | 4 | 67.70 | 0 | 0 | 0 | 9 | [Tanrake Village](../../countries/TV/cities/tanrake.yaml) 68.65; [Savave Village](../../countries/TV/cities/savave.yaml) 67.75; [Asau Village](../../countries/TV/cities/asau.yaml) 67.65 |
