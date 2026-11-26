@@ -305,3 +305,5 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source context](https://togotourisme.tg/tour-list-standard/) (accessed 2026-11-25); identity or regional context only, not full independent factual verification.
 - Remaining gaps: Normal permitted visitor experience and routes unresolved; check official travel advisories.
+
+- [Dated worldwide reassessment pass 52 — 2026-11-26](worldwide-deferred-pass52-2026-11-26.md)
