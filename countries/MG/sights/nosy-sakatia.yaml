@@ -1,0 +1,17 @@
+id: sight-mg-nosy-sakatia
+name: "Nosy Sakatia Island"
+location:
+  country_code: MG
+  latitude: -13.3059
+  longitude: 48.16239
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 8.8
+    wildlife: 8.8
+    beaches: 8.8
+    relaxation: 9.0

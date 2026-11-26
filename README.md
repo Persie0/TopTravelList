@@ -219,7 +219,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Lithuania](countries/LT/) (`LT`) | [18](countries/LT/cities.md) | [37](countries/LT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Lithuania) |
 | [Luxembourg](countries/LU/) (`LU`) | [15](countries/LU/cities.md) | [32](countries/LU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Luxembourg) |
 | [Macau](countries/MO/) (`MO`) | [1](countries/MO/cities.md) | [12](countries/MO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Macau) |
-| [Madagascar](countries/MG/) (`MG`) | [6](countries/MG/cities.md) | [31](countries/MG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Madagascar) |
+| [Madagascar](countries/MG/) (`MG`) | [6](countries/MG/cities.md) | [36](countries/MG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Madagascar) |
 | [Malawi](countries/MW/) (`MW`) | [18](countries/MW/cities.md) | [34](countries/MW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Malawi) |
 | [Malaysia](countries/MY/) (`MY`) | [65](countries/MY/cities.md) | [213](countries/MY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Malaysia) |
 | [Maldives](countries/MV/) (`MV`) | [25](countries/MV/cities.md) | [42](countries/MV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Maldives) |

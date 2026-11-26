@@ -185,7 +185,7 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for one hundred and thirty-five additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for one hundred and forty additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
 
 
 ### Integration checkpoint — 2026-11-26
@@ -201,3 +201,14 @@ Ten pass-15 coordinates replaced with published map references and more specific
 ### Pass 21 — Review normalization and generated-row consistency
 
 Normalized the remaining 118 audit-added reviews (135 including the 17 from pass 20) to the repository's level-two heading and capitalized dimension convention. Compared all 135 new ranking rows against YAML-derived scores, coordinates, category ordering, name search URLs and the generator's current name-based type rules using a connector-side implementation. Five earlier type mismatches corrected, plus 1 in the African cohort. This is not a run of the full Python generator. Known limitation: type inference is lexical; Cathedral Cove is classified as a religious site, despite being a natural attraction. Château des Baux and Blue Grotto fall into the generic Attraction bucket. Improve inference with separate regression tests rather than overriding generated rows manually. The public-runner validation report has not appeared; full schema/benchmark/review checks and diagnostics refresh are still outstanding. No YAML source records or ratings modified in pass 21. Main snapshot ce496658ec484f60b84f978e50078442221d4e42 integrated.
+
+
+### Pass 22 — Madagascar island coverage
+
+- [x] MG — Nosy Iranja Islands: 86.85/100 (source-linked-unverified).
+- [x] MG — Nosy Komba Island: 84.75/100 (source-linked-unverified).
+- [x] MG — Nosy Sakatia Island: 83.95/100 (source-linked-unverified).
+- [x] MG — Île aux Nattes (Nosy Nato) Island: 81.75/100 (source-linked-unverified).
+- [x] MG — Mont Passot (Bongo Pisa) viewpoint: 79.50/100 (source-linked-unverified).
+
+All five outstanding Madagascar candidates added; separate island and viewpoint scope retained. Twenty peer comparisons added; tourism office descriptions and representative map points checked. No existing ratings changed. Ranking rows and README count updated with connector-side generator-equivalent logic. Full Python validation and diagnostics remain pending. Next: Asian and cultural landmark gaps.

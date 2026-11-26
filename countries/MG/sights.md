@@ -2,7 +2,7 @@
 
 # Madagascar (MG) — Sights & attractions ranking
 
-**22 ranked** · **9 unassessed** · **31 total** · Worldwide scoring **v2**
+**27 ranked** · **9 unassessed** · **36 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (22)
+## Complete ranked list (27)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -33,9 +33,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 17 | [Royal Hill of Ambohimanga](sights/ambohimanga.yaml) | Attraction | **88.65** | **Culture 9.4**, **History 9.4**, **Architecture 9.0** | 8.6 / 9.1 / 9.4 / 8.6 / 8.4 | [-18.75917, 47.56278](https://www.google.com/maps/search/?api=1&query=-18.75917,47.56278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal%20Hill%20of%20Ambohimanga%2C%20Madagascar) |
 | 18 | [Haute Ville of Antananarivo](sights/haute-ville-antananarivo.yaml) | Attraction | **88.00** | **History 9.2**, **Architecture 9.0** | 8.7 / 8.9 / 9.1 / 8.5 / 8.7 | [-18.922222, 47.532778](https://www.google.com/maps/search/?api=1&query=-18.922222,47.532778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Haute%20Ville%20of%20Antananarivo%2C%20Madagascar) |
 | 19 | [Nosy Tanikely National Park](sights/nosy-tanikely.yaml) | Park / reserve | **87.85** | **Nature 9.2**, **Wildlife 9.2**, **Adventure 8.8**, Beaches 8.8 | 8.8 / 8.9 / 8.9 / 9.0 / 7.9 | [-13.4824, 48.2367](https://www.google.com/maps/search/?api=1&query=-13.4824,48.2367) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Tanikely%20National%20Park%2C%20Madagascar) |
-| 20 | [Nosy Be island visitor landscape](sights/nosy-be.yaml) | Island | **86.00** | **Beaches 9.0**, **Relaxation 8.9**, **Nature 8.8**, Wildlife 8.7 | 8.7 / 8.5 / 8.2 / 8.9 / 8.9 | [-13.31421, 48.25899](https://www.google.com/maps/search/?api=1&query=-13.31421,48.25899) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Be%20island%20visitor%20landscape%2C%20Madagascar) |
-| 20 | [Île Sainte-Marie (Nosy Boraha)](sights/ile-sainte-marie.yaml) | Attraction | **86.00** | **Wildlife 9.0**, **Beaches 8.9**, **Nature 8.8**, History 8.4 | 8.6 / 8.6 / 8.4 / 8.8 / 8.7 | [-16.91952, 49.89574](https://www.google.com/maps/search/?api=1&query=-16.91952,49.89574) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%8Ele%20Sainte-Marie%20%28Nosy%20Boraha%29%2C%20Madagascar) |
-| 22 | [Nosy Lonjo (Sugarloaf Island)](sights/nosy-lonjo.yaml) | Island | **81.65** | **Nature 8.8**, **Culture 8.7** | 8.5 / 8.7 / 8.6 / 7.4 / 6.1 | [-12.3, 49.31667](https://www.google.com/maps/search/?api=1&query=-12.3,49.31667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Lonjo%20%28Sugarloaf%20Island%29%2C%20Madagascar) |
+| 20 | [Nosy Iranja Islands](sights/nosy-iranja.yaml) | Island | **86.85** | **Beaches 9.4**, **Photography 9.3**, **Nature 9.0**, Wildlife 8.5 | 9.0 / 9.0 / 8.0 / 8.9 / 8.0 | [-13.59498, 47.81701](https://www.google.com/maps/search/?api=1&query=-13.59498,47.81701) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Iranja%20Islands%2C%20Madagascar) |
+| 21 | [Nosy Be island visitor landscape](sights/nosy-be.yaml) | Island | **86.00** | **Beaches 9.0**, **Relaxation 8.9**, **Nature 8.8**, Wildlife 8.7 | 8.7 / 8.5 / 8.2 / 8.9 / 8.9 | [-13.31421, 48.25899](https://www.google.com/maps/search/?api=1&query=-13.31421,48.25899) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Be%20island%20visitor%20landscape%2C%20Madagascar) |
+| 21 | [Île Sainte-Marie (Nosy Boraha)](sights/ile-sainte-marie.yaml) | Attraction | **86.00** | **Wildlife 9.0**, **Beaches 8.9**, **Nature 8.8**, History 8.4 | 8.6 / 8.6 / 8.4 / 8.8 / 8.7 | [-16.91952, 49.89574](https://www.google.com/maps/search/?api=1&query=-16.91952,49.89574) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%8Ele%20Sainte-Marie%20%28Nosy%20Boraha%29%2C%20Madagascar) |
+| 23 | [Nosy Komba Island](sights/nosy-komba.yaml) | Island | **84.75** | **Nature 8.8**, **Wildlife 8.7**, **Adventure 8.4**, Culture 8.3 | 8.5 / 8.5 / 8.3 / 8.6 / 8.5 | [-13.4696, 48.3485](https://www.google.com/maps/search/?api=1&query=-13.4696,48.3485) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Komba%20Island%2C%20Madagascar) |
+| 24 | [Nosy Sakatia Island](sights/nosy-sakatia.yaml) | Island | **83.95** | **Relaxation 9.0**, **Beaches 8.8**, **Nature 8.8**, Wildlife 8.8 | 8.5 / 8.3 / 8.1 / 8.8 / 8.3 | [-13.3059, 48.16239](https://www.google.com/maps/search/?api=1&query=-13.3059,48.16239) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Sakatia%20Island%2C%20Madagascar) |
+| 25 | [Île aux Nattes (Nosy Nato) Island](sights/ile-aux-nattes.yaml) | Island | **81.75** | **Relaxation 9.1**, **Beaches 8.9**, **Photography 8.8**, Nature 8.5 | 8.4 / 8.2 / 7.6 / 8.7 / 7.8 | [-17.1091, 49.807](https://www.google.com/maps/search/?api=1&query=-17.1091,49.807) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%8Ele%20aux%20Nattes%20%28Nosy%20Nato%29%20Island%2C%20Madagascar) |
+| 26 | [Nosy Lonjo (Sugarloaf Island)](sights/nosy-lonjo.yaml) | Island | **81.65** | **Nature 8.8**, **Culture 8.7** | 8.5 / 8.7 / 8.6 / 7.4 / 6.1 | [-12.3, 49.31667](https://www.google.com/maps/search/?api=1&query=-12.3,49.31667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nosy%20Lonjo%20%28Sugarloaf%20Island%29%2C%20Madagascar) |
+| 27 | [Mont Passot (Bongo Pisa) viewpoint](sights/mont-passot.yaml) | Tower / viewpoint | **79.50** | **Photography 8.9**, **Nature 8.5**, **Adventure 7.9** | 8.3 / 7.9 / 7.4 / 8.5 / 7.3 | [-13.32165, 48.22905](https://www.google.com/maps/search/?api=1&query=-13.32165,48.22905) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mont%20Passot%20%28Bongo%20Pisa%29%20viewpoint%2C%20Madagascar) |
 
 ## Not yet fully assessed (9)
 
