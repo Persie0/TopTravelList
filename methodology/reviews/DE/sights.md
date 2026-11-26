@@ -3401,3 +3401,5 @@
 - Verification still needed: independent site-specific facts, access and narrower worldwide peer comparisons.
 
 - [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 59 — 2026-11-26](worldwide-deferred-pass59-2026-11-26.md)

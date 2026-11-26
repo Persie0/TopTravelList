@@ -1712,3 +1712,5 @@ Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 - Final decision: Scope-limited editorial rating: Distinct living craft and industrial heritage ensemble; Multiple buildings and crafts.
 - Earlier decision: none.
 - Verification still needed: independent facts, permitted access, GPS and narrower same-type peer comparisons.
+
+- [Dated worldwide reassessment pass 59 — 2026-11-26](worldwide-deferred-pass59-2026-11-26.md)
