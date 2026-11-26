@@ -2,7 +2,7 @@
 
 # Tanzania (TZ) — Sights & attractions ranking
 
-**18 ranked** · **9 unassessed** · **27 total** · Worldwide scoring **v2**
+**21 ranked** · **9 unassessed** · **30 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (18)
+## Complete ranked list (21)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -32,6 +32,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 16 | [Kondoa Rock-Art Sites](sights/kondoa-rock-art.yaml) | Attraction | **88.40** | **History 9.4**, **Culture 9.3** | 8.5 / 9.3 / 9.4 / 8.3 / 8.4 | [-4.72, 35.83](https://www.google.com/maps/search/?api=1&query=-4.72,35.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kondoa%20Rock-Art%20Sites%2C%20Tanzania) |
 | 17 | [Jozani–Chwaka Bay National Park](sights/jozani-chwaka-bay.yaml) | Park / reserve | **87.30** | **Wildlife 9.3**, **Nature 9.2** | 8.5 / 8.9 / 9.2 / 8.7 / 8.1 | [-6.225, 39.391667](https://www.google.com/maps/search/?api=1&query=-6.225,39.391667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jozani%E2%80%93Chwaka%20Bay%20National%20Park%2C%20Tanzania) |
 | 17 | [Ruins of Songo Mnara](sights/songo-mnara-ruins.yaml) | Museum / heritage | **87.30** | **History 9.3**, **Architecture 9.0** | 8.5 / 9.1 / 9.2 / 8.3 / 8.2 | [-9.049444, 39.567222](https://www.google.com/maps/search/?api=1&query=-9.049444,39.567222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ruins%20of%20Songo%20Mnara%2C%20Tanzania) |
+| 19 | [Mnemba Island surrounding reef snorkeling](sights/mnemba-atoll.yaml) | Island | **85.50** | **Nature 8.9**, **Wildlife 8.9**, **Adventure 8.8** | 8.7 / 8.6 / 8.2 / 8.8 / 8.3 | [-5.817, 39.383](https://www.google.com/maps/search/?api=1&query=-5.817,39.383) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mnemba%20Island%20surrounding%20reef%20snorkeling%2C%20Tanzania) |
+| 20 | [Nungwi Beach](sights/nungwi-beach.yaml) | Beach / bay | **83.55** | **Beaches 9.1**, **Relaxation 9.0**, **Photography 8.8** | 8.7 / 8.2 / 7.7 / 8.9 / 8.2 | [-5.7265, 39.2924](https://www.google.com/maps/search/?api=1&query=-5.7265,39.2924) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nungwi%20Beach%2C%20Tanzania) |
+| 21 | [Paje Beach](sights/paje-beach.yaml) | Beach / bay | **82.25** | **Beaches 9.0**, **Adventure 8.9**, **Photography 8.7** | 8.5 / 8.1 / 7.6 / 8.8 / 8.1 | [-6.2657, 39.5342](https://www.google.com/maps/search/?api=1&query=-6.2657,39.5342) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paje%20Beach%2C%20Tanzania) |
 
 ## Not yet fully assessed (9)
 

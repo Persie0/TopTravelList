@@ -929,3 +929,73 @@
 - Final decision: Partial assessment, no total.
 - Earlier decision: none.
 - Verification still needed: current access, location corroboration and full independent claim verification.
+
+
+### sight-mg-nosy-be — Nosy Be island visitor landscape — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/nosy-be.yaml)
+- Action: new
+- Precise subject and factual basis: Island coastal scenery, volcanic landscapes and visitor activities; separate from independently ranked Lokobe and Nosy Tanikely. Approximate island reference point; exact mapped pin pending. [Visitor information candidate](https://madagascar-tourisme.com/en/); source link provided for verification, not a claim of independent inspection.
+- Location check: -13.3167, 48.25; [candidate map reference](https://mapcarta.com/Nosy_Be); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MG/lokobe](../../../countries/MG/sights/lokobe.yaml) | More focused native forest |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | Focused marine visit |
+| [MG/nosy-hara](../../../countries/MG/sights/nosy-hara.yaml) | Stronger karst marine landscape |
+| [TZ/mafia-island-marine-park](../../../countries/TZ/sights/mafia-island-marine-park.yaml) | More marine conservation depth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Appealing tropical island landscapes |
+| uniqueness | 8.5 | Distinctive volcanic and marine setting |
+| significance | 8.2 | Natural and local heritage |
+| experience | 8.9 | Varied coastal visits |
+| depth | 8.9 | Multiple areas and activities |
+
+- Applicable categories: beaches:9.0, nature:8.8, relaxation:8.9, wildlife:8.7.
+- Computed worldwide overall: 86.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
+
+
+### sight-mg-ile-sainte-marie — Île Sainte-Marie (Nosy Boraha) — 2026-11-26
+
+- YAML: [source](../../../countries/MG/sights/ile-sainte-marie.yaml)
+- Action: new
+- Precise subject and factual basis: Island beaches and coastal landscapes, seasonal humpback whale excursions and historic context; not a promise of sightings. Representative island point, exact access varies. [Visitor information candidate](https://madagascar-tourisme.com/en/); source link provided for verification, not a claim of independent inspection.
+- Location check: -16.9167, 49.9; [candidate map reference](https://mapcarta.com/Sainte_Marie_Island); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MG/nosy-be](../../../countries/MG/sights/nosy-be.yaml) | Different volcanic island and visitor breadth |
+| [MG/nosy-hara](../../../countries/MG/sights/nosy-hara.yaml) | More striking limestone islands |
+| [TZ/mafia-island-marine-park](../../../countries/TZ/sights/mafia-island-marine-park.yaml) | Stronger protected reef scope |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | More focused snorkeling |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Tropical island scenery |
+| uniqueness | 8.6 | Seasonal whale and island combination |
+| significance | 8.4 | Marine and maritime heritage |
+| experience | 8.8 | Varied land and sea visits |
+| depth | 8.7 | Multiple coastal areas |
+
+- Applicable categories: beaches:8.9, wildlife:9.0, nature:8.8, history:8.4.
+- Computed worldwide overall: 86.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.

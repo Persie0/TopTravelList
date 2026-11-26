@@ -863,3 +863,108 @@ Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, unique
 - Final decision: Partial assessment; no overall total.
 - Earlier decision: none.
 - Verification still needed: current access, precise representative points, independent claim-level corroboration.
+
+
+### sight-tz-nungwi-beach — Nungwi Beach — 2026-11-26
+
+- YAML: [source](../../../countries/TZ/sights/nungwi-beach.yaml)
+- Action: new
+- Precise subject and factual basis: Northern Zanzibar beach visitor strip, swimming and sunset scenery; named village reference point, not exact beach entrance. Verify mapped beach pin independently. [Visitor information candidate](https://www.zanzibartourism.go.tz/); source link provided for verification, not a claim of independent inspection.
+- Location check: -5.7265, 39.2924; [candidate map reference](https://mapcarta.com/Nungwi); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TZ/stone-town](../../../countries/TZ/sights/stone-town.yaml) | Greater heritage significance |
+| [TZ/mafia-island-marine-park](../../../countries/TZ/sights/mafia-island-marine-park.yaml) | Greater underwater ecological breadth |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | Stronger reef-focused visit |
+| [MA/khnifiss-lagoon](../../../countries/MA/sights/khnifiss-lagoon.yaml) | Different coastal habitat |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | White-sand turquoise coast |
+| uniqueness | 8.2 | Other tropical beaches comparable |
+| significance | 7.7 | Coastal and local cultural context |
+| experience | 8.9 | Beach visits and nearby marine excursions |
+| depth | 8.2 | Beach and village setting |
+
+- Applicable categories: beaches:9.1, relaxation:9.0, photography:8.8.
+- Computed worldwide overall: 83.55/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
+
+
+### sight-tz-paje-beach — Paje Beach — 2026-11-26
+
+- YAML: [source](../../../countries/TZ/sights/paje-beach.yaml)
+- Action: new
+- Precise subject and factual basis: Eastern Zanzibar beach and lagoon used for kitesurfing; named settlement representative point, not guaranteed beach access. Verify beach-specific coordinate independently. [Visitor information candidate](https://www.zanzibartourism.go.tz/); source link provided for verification, not a claim of independent inspection.
+- Location check: -6.2657, 39.5342; [candidate map reference](https://mapcarta.com/Paje); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TZ/mafia-island-marine-park](../../../countries/TZ/sights/mafia-island-marine-park.yaml) | Greater marine ecology |
+| [TZ/nungwi-beach](../../../countries/TZ/sights/nungwi-beach.yaml) | Different northern beach setting |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | More specialized snorkeling |
+| [MA/khnifiss-lagoon](../../../countries/MA/sights/khnifiss-lagoon.yaml) | Different lagoon and bird habitat |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.5 | Expansive shallow lagoon |
+| uniqueness | 8.1 | Other tropical lagoons comparable |
+| significance | 7.6 | Local coastal context |
+| experience | 8.8 | Water sports and beach recreation |
+| depth | 8.1 | Focused coastal setting |
+
+- Applicable categories: beaches:9.0, adventure:8.9, photography:8.7.
+- Computed worldwide overall: 82.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
+
+
+### sight-tz-mnemba-atoll — Mnemba Island surrounding reef snorkeling — 2026-11-26
+
+- YAML: [source](../../../countries/TZ/sights/mnemba-atoll.yaml)
+- Action: new
+- Precise subject and factual basis: Marine excursions around Mnemba, not access to private island or resort. Representative island coordinate rather than snorkeling site; confirm permitted public boat access and current marine rules. [Visitor information candidate](https://www.andbeyond.com/our-lodges/africa/tanzania/zanzibar/andbeyond-mnemba-island/); source link provided for verification, not a claim of independent inspection.
+- Location check: -5.817, 39.383; [candidate map reference](https://mapcarta.com/Mnemba_Island); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TZ/mafia-island-marine-park](../../../countries/TZ/sights/mafia-island-marine-park.yaml) | Broader protected marine system |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | Comparable island reef visit |
+| [MG/nosy-hara](../../../countries/MG/sights/nosy-hara.yaml) | Broader island and karst landscape |
+| [TZ/jozani-chwaka-bay](../../../countries/TZ/sights/jozani-chwaka-bay.yaml) | Different coastal ecosystem |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Tropical reef scenery |
+| uniqueness | 8.6 | Distinctive reef island setting but analogues |
+| significance | 8.2 | Marine habitat |
+| experience | 8.8 | Guided marine activities vary with conditions |
+| depth | 8.3 | Focused reef visit |
+
+- Applicable categories: nature:8.9, wildlife:8.9, adventure:8.8.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.

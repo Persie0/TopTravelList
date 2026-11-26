@@ -1,0 +1,16 @@
+id: sight-tz-paje-beach
+name: "Paje Beach"
+location:
+  country_code: TZ
+  latitude: -6.2657
+  longitude: 39.5342
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 7.6
+  experience: 8.8
+  depth: 8.1
+  categories:
+    beaches: 9.0
+    adventure: 8.9
+    photography: 8.7

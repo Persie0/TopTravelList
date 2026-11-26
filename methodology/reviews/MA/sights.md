@@ -651,3 +651,38 @@
 ## Heritage inventory recheck — 2026-11-26
 
 UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and fourteen tentative entries. Thirteen tentative entries represented in MA YAML; Dakhla National Park remains documented separately pending neutral Western Sahara coding. No territorial claim inferred from a State Party submission. Component coverage remains incomplete.
+
+
+### sight-ma-jemaa-el-fnaa — Jemaa el-Fnaa Square — 2026-11-26
+
+- YAML: [source](../../../countries/MA/sights/jemaa-el-fnaa.yaml)
+- Action: new
+- Precise subject and factual basis: Living cultural square, oral traditions and market activity; distinct from whole Marrakesh medina. UNESCO intangible heritage source. [Visitor information candidate](https://ich.unesco.org/en/RL/cultural-space-of-jemaa-el-fna-square-00014); source link provided for verification, not a claim of independent inspection.
+- Location check: 31.6258, -7.9892; [candidate map reference](https://mapcarta.com/Jemaa_el-Fnaa); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MA/medina-marrakech](../../../countries/MA/sights/medina-marrakech.yaml) | Parent broader |
+| [MA/medina-fez](../../../countries/MA/sights/medina-fez.yaml) | More extensive historic fabric |
+| [MA/medina-essaouira](../../../countries/MA/sights/medina-essaouira.yaml) | Different coastal medina |
+| [EG/historic-cairo](../../../countries/EG/sights/historic-cairo.yaml) | Broader urban heritage |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Lively distinctive public space |
+| uniqueness | 9.0 | Unusual living performance traditions |
+| significance | 9.1 | Important intangible cultural heritage |
+| experience | 9.0 | Changing market and cultural atmosphere |
+| depth | 8.5 | Several activities within one square |
+
+- Applicable categories: culture:9.3, food:8.9, history:8.9, photography:8.9.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.

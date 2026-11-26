@@ -122,6 +122,17 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] PT — Seven Hanging Valleys Trail: 86.60/100 (source-linked, full verification pending)
 - [x] PT — Levada das 25 Fontes (PR6): 86.25/100 (source-linked, full verification pending)
 
+- [x] TZ — Nungwi Beach: 83.55/100 (source-linked, factual and location verification pending)
+- [x] TZ — Paje Beach: 82.25/100 (source-linked, factual and location verification pending)
+- [x] TZ — Mnemba Island surrounding reef snorkeling: 85.50/100 (source-linked, factual and location verification pending)
+- [x] MG — Nosy Be island visitor landscape: 86.00/100 (source-linked, factual and location verification pending)
+- [x] MG — Île Sainte-Marie (Nosy Boraha): 86.00/100 (source-linked, factual and location verification pending)
+- [x] EG — Citadel of Saladin (Cairo): 90.05/100 (source-linked, factual and location verification pending)
+- [x] EG — Mosque of Muhammad Ali: 87.70/100 (source-linked, factual and location verification pending)
+- [x] EG — Al-Azhar Mosque: 88.90/100 (source-linked, factual and location verification pending)
+- [x] EG — Blue Hole (Dahab): 85.75/100 (source-linked, factual and location verification pending)
+- [x] MA — Jemaa el-Fnaa Square: 89.40/100 (source-linked, factual and location verification pending)
+
 ## Outstanding nature / park candidates
 
 - [ ] US: Canyon de Chelly National Monument (rim overlooks and guided canyon visits; [NPS FAQ](https://www.nps.gov/cach/faqs.htm)); Antelope Canyon X (distinct guided route; [Navajo Nation tour operators](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)); verify separate scope and coordinates before scoring.
@@ -132,7 +143,7 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [ ] NZ: Bay of Islands, Mokoia Island, Polynesian Spa, Kaituna River, Rotorua Canopy Tours, Mount Ngongotahā; Te Whanganui-o-Hei Marine Reserve (distinct underwater visitor scope from Cathedral Cove).
 - [ ] AS: National Park of American Samoa (Ofu and Mount Alava components already exist).
 - [ ] ZA: Knysna experiences, Sani Pass SA side; Hermanus boat-based whale watching only if distinct scope justified.
-- [ ] TZ: Nungwi, Paje, Mnemba. MG: Île Sainte-Marie, Nosy Be.
+- [ ] TZ: Kendwa Beach (distinct from Nungwi; verify boundary and GPS), Zanzibar spice farm visitor experiences (define representative scope); MG: Nosy Komba, Île aux Nattes (separate island from Sainte-Marie; verify scope and coordinate).
 - [ ] NO: Romsdalen broader valley visitor scope (avoid duplicating Romsdalseggen); PT: PR1 Vereda do Areeiro (distinct full ridge route; [official route](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/)), PR6.1 Levada do Risco (verify precise route and GPS); IS: broader Vestmannaeyjar outer-island boat experience only if distinct from Heimaey.
 - [ ] MQ: Plage des Salines; KY: Stingray City dive site vs sandbar; AG: Stingray City; FJ: Yasawa/Mamanuca/Sabeto specific attractions; FO additional hiking landscapes; CK Te Manga; BS Andros specific attractions; LR Libassa; VG Anegada specific visitor sites; TO whale watching; NC Isle of Pines specific sights; YT lagoon experience.
 
@@ -141,7 +152,7 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [ ] All 20 source-supported candidates and wider country queues in [pass 3](missing-sights-audit-pass3-2026-11-26.md).
 - [ ] US: Times Square, Las Vegas Strip, remaining individual Disney/Universal parks (EPCOT, Animal Kingdom, Hollywood Studios, California Adventure, Universal parks); assess additional distinct National Mall memorials and Smithsonian museums, and separate Apollo/Saturn V Center only after nested-scope review.
 - [ ] CA: Capilano, Parliament Hill, Toronto Islands, Old Montreal, Notre-Dame Basilica.
-- [ ] EG: Cairo Citadel, Muhammad Ali Mosque, Al-Azhar, Dahab Blue Hole; MA: Jemaa el-Fnaa, Chefchaouen individual attractions; RO: Peleș Castle; RU: Catherine Palace, Saint Isaac's Cathedral; GB: White Cliffs of Dover, Buckingham Palace, Harry Potter Studio Tour; FR: Disneyland Paris, Les Baux castle; DE: Rakotzbrücke; IT: Blue Grotto; PT: Oceanário, National Tile Museum; PS: Church of Nativity; IL/PS: Western Wall (resolve geographic registry convention first).
+- [ ] EG: Khan el-Khalili, Coptic Cairo individual attractions (avoid Historic Cairo duplicate); MA: Chefchaouen individual attractions, Bahia Palace, Ben Youssef Madrasa; RO: Peleș Castle; RU: Catherine Palace, Saint Isaac's Cathedral; GB: White Cliffs of Dover, Buckingham Palace, Harry Potter Studio Tour; FR: Disneyland Paris, Les Baux castle; DE: Rakotzbrücke; IT: Blue Grotto; PT: Oceanário, National Tile Museum; PS: Church of Nativity; IL/PS: Western Wall (resolve geographic registry convention first).
 - [ ] PA: Casco Viejo exact scope; PR: Old San Juan vs fortifications; MP: Banzai Cliff; IR: Shahdad Kaluts vs Lut Desert; MS: Soufrière Hills visitor scope; PH: Banaue rice terraces alias/component scope.
 
 ## Already matched / not automatically a new sight
@@ -154,4 +165,4 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for one hundred and seven additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for one hundred and seventeen additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.

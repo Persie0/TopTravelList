@@ -736,3 +736,143 @@
 - Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
 - Verification still needed: current visitor conditions, precise public entrance and full independent claim-level corroboration.
 
+
+
+### sight-eg-cairo-citadel — Citadel of Saladin (Cairo) — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/cairo-citadel.yaml)
+- Action: new
+- Precise subject and factual basis: Fortified hilltop complex and publicly accessible monuments; distinct from Historic Cairo aggregate; mosque separately scoped. [Visitor information candidate](https://egymonuments.gov.eg/monuments/cairo-citadel/); source link provided for verification, not a claim of independent inspection.
+- Location check: 30.0299, 31.2612; [candidate map reference](https://mapcarta.com/Cairo_Citadel); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/historic-cairo](../../../countries/EG/sights/historic-cairo.yaml) | Broader historic urban landscape |
+| [EG/qaitbay-citadel](../../../countries/EG/sights/qaitbay-citadel.yaml) | Smaller maritime fortification |
+| [MA/chellah](../../../countries/MA/sights/chellah.yaml) | Different archaeological fortified site |
+| [MA/rabat-heritage](../../../countries/MA/sights/rabat-heritage.yaml) | Broader urban heritage |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Monumental skyline |
+| uniqueness | 8.8 | Distinctive fortified ensemble |
+| significance | 9.2 | Major medieval and later Egyptian history |
+| experience | 8.9 | Multiple monuments and views |
+| depth | 9.0 | Extensive complex |
+
+- Applicable categories: architecture:9.2, history:9.3, culture:9.0, photography:9.0.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: 90+ provisional based on combined historic and visitor merits; requires claim-level corroboration. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
+
+
+### sight-eg-muhammad-ali-mosque — Mosque of Muhammad Ali — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/muhammad-ali-mosque.yaml)
+- Action: new
+- Precise subject and factual basis: Individual Ottoman-style mosque inside Cairo Citadel, not entire fortified complex; mosque building reference point. [Visitor information candidate](https://egymonuments.gov.eg/); source link provided for verification, not a claim of independent inspection.
+- Location check: 30.0287, 31.2599; [candidate map reference](https://mapcarta.com/Mosque_of_Muhammad_Ali); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/cairo-citadel](../../../countries/EG/sights/cairo-citadel.yaml) | Parent has broader monuments |
+| [EG/historic-cairo](../../../countries/EG/sights/historic-cairo.yaml) | Broader Islamic heritage |
+| [MA/hassan-ii-mosque](../../../countries/MA/sights/hassan-ii-mosque.yaml) | Different monumental contemporary architecture |
+| [EG/qaitbay-citadel](../../../countries/EG/sights/qaitbay-citadel.yaml) | Different military heritage |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Monumental domed interior and skyline |
+| uniqueness | 8.7 | Ottoman-style mosque analogues exist |
+| significance | 8.9 | Important nineteenth-century heritage |
+| experience | 8.7 | Architecture and city views |
+| depth | 8.1 | Focused building |
+
+- Applicable categories: architecture:9.3, history:8.9, culture:8.9, photography:9.1.
+- Computed worldwide overall: 87.70/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
+
+
+### sight-eg-al-azhar-mosque — Al-Azhar Mosque — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/al-azhar-mosque.yaml)
+- Action: new
+- Precise subject and factual basis: Historic mosque with centuries of Islamic scholarship and architectural development; score visitor-accessible mosque, not entire university network. [Visitor information candidate](https://egymonuments.gov.eg/); source link provided for verification, not a claim of independent inspection.
+- Location check: 30.0458, 31.2625; [candidate map reference](https://mapcarta.com/Al-Azhar_Mosque); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/muhammad-ali-mosque](../../../countries/EG/sights/muhammad-ali-mosque.yaml) | More monumental Ottoman skyline |
+| [EG/historic-cairo](../../../countries/EG/sights/historic-cairo.yaml) | Broader historic city |
+| [MA/hassan-ii-mosque](../../../countries/MA/sights/hassan-ii-mosque.yaml) | Different modern architecture |
+| [MA/medina-fez](../../../countries/MA/sights/medina-fez.yaml) | Broader scholarly urban heritage |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Historic courtyard and minarets |
+| uniqueness | 8.9 | Distinct scholarly and architectural combination |
+| significance | 9.3 | Major Islamic educational history |
+| experience | 8.7 | Meaningful architecture visit subject to access |
+| depth | 8.6 | Multiple historical layers |
+
+- Applicable categories: architecture:9.0, history:9.3, culture:9.3.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
+
+
+### sight-eg-dahab-blue-hole — Blue Hole (Dahab) — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/dahab-blue-hole.yaml)
+- Action: new
+- Precise subject and factual basis: Coastal reef and sinkhole area, shallow snorkeling and qualified guided recreational diving only. No technical/deep diving instructions; exact water access must be checked. [Visitor information candidate](https://www.experienceegypt.eg/); source link provided for verification, not a claim of independent inspection.
+- Location check: 28.5725, 34.5369; [candidate map reference](https://mapcarta.com/Blue_Hole_(Dahab)); approximate representative point, exact source value and entrance not independently verified.
+- Evidence status: **source-linked-unverified**; independently confirm factual claims, link validity and coordinates before final approval.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/ras-mohammed](../../../countries/EG/sights/ras-mohammed.yaml) | Broader reef ecosystems |
+| [TZ/mafia-island-marine-park](../../../countries/TZ/sights/mafia-island-marine-park.yaml) | More extensive marine habitat |
+| [MG/nosy-tanikely](../../../countries/MG/sights/nosy-tanikely.yaml) | Different accessible reef |
+| [TZ/mnemba-atoll](../../../countries/TZ/sights/mnemba-atoll.yaml) | Different reef island setting |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Striking reef and sinkhole setting |
+| uniqueness | 8.8 | Distinctive coastal marine formation |
+| significance | 8.3 | Marine geology and ecology |
+| experience | 8.5 | Condition-dependent snorkeling and diving |
+| depth | 8.0 | Focused site |
+
+- Applicable categories: nature:9.0, adventure:8.8, photography:8.8.
+- Computed worldwide overall: 85.75/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration, GPS and current visitor access.
