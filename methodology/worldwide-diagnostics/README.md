@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14859; unassessed: 1410.
+Ranked: 14868; unassessed: 1401.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,14 +13,14 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1410 |
+| incomplete-core | 1401 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
 | small-scope-high-total | 26 |
-| type-score-distance-15-plus | 136 |
+| type-score-distance-15-plus | 137 |
 
 ## All areas — cities and sights separately
 
@@ -240,7 +240,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IO | sights | 5 | 0 |  | 0 | 0 | 1 | 5 |  |
 | IQ | cities | 14 | 14 | 80.55 | 0 | 0 | 0 | 14 | [Karbala](../../countries/IQ/cities/karbala.yaml) 87.90; [Najaf](../../countries/IQ/cities/najaf.yaml) 87.70; [Baghdad](../../countries/IQ/cities/baghdad.yaml) 85.80 |
 | IQ | sights | 38 | 21 | 85.10 | 3 | 0 | 0 | 38 | [Imam Ali Shrine](../../countries/IQ/sights/imam-ali-shrine.yaml) 90.15; [Imam Husayn Shrine](../../countries/IQ/sights/imam-husayn-shrine.yaml) 90.15; [Babylon Archaeological Site](../../countries/IQ/sights/babylon.yaml) 90.00 |
-| IR | cities | 15 | 11 | 84.50 | 1 | 0 | 0 | 15 | [Isfahan](../../countries/IR/cities/isfahan.yaml) 91.60; [Yazd](../../countries/IR/cities/yazd.yaml) 88.70; [Shiraz](../../countries/IR/cities/shiraz.yaml) 87.75 |
+| IR | cities | 15 | 15 | 84.10 | 1 | 0 | 0 | 15 | [Isfahan](../../countries/IR/cities/isfahan.yaml) 91.60; [Yazd](../../countries/IR/cities/yazd.yaml) 88.70; [Shiraz](../../countries/IR/cities/shiraz.yaml) 87.75 |
 | IR | sights | 55 | 17 | 86.15 | 2 | 0 | 0 | 55 | [Persepolis](../../countries/IR/sights/persepolis.yaml) 93.15; [Historic City of Yazd](../../countries/IR/sights/historic-yazd.yaml) 90.10; [Naqsh-e Rostam and Naqsh-e Rajab](../../countries/IR/sights/naqsh-e-rostam.yaml) 89.15 |
 | IS | cities | 15 | 15 | 80.20 | 0 | 0 | 0 | 15 | [Reykjavík](../../countries/IS/cities/reykjavik.yaml) 86.65; [Vestmannaeyjabær (Heimaey)](../../countries/IS/cities/vestmannaeyjabaer.yaml) 83.30; [Seyðisfjörður](../../countries/IS/cities/seydisfjordur.yaml) 82.35 |
 | IS | sights | 56 | 52 | 86.98 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
@@ -278,7 +278,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | KZ | sights | 59 | 41 | 84.30 | 4 | 0 | 8 | 59 | [Altyn-Emel National Park](../../countries/KZ/sights/altyn-emel-national-park.yaml) 92.20; [Mausoleum of Khoja Ahmed Yasawi](../../countries/KZ/sights/mausoleum-of-khoja-ahmed-yasawi.yaml) 91.25; [Rock Mosques and Associated Sacred Sites of Mangystau](../../countries/KZ/sights/rock-mosques-and-associated-sacred-sites-of-mangystau.yaml) 90.95 |
 | LA | cities | 42 | 42 | 71.52 | 1 | 0 | 0 | 42 | [Luang Prabang](../../countries/LA/cities/luang-prabang.yaml) 92.50; [Vientiane](../../countries/LA/cities/vientiane.yaml) 81.70; [Nong Khiaw](../../countries/LA/cities/nong-khiaw.yaml) 81.10 |
 | LA | sights | 144 | 143 | 80.05 | 9 | 0 | 6 | 144 | [Hin Nam No National Park](../../countries/LA/sights/hin-nam-no-national-park.yaml) 93.95; [Luang Prabang Historic Peninsula](../../countries/LA/sights/luang-prabang-historic-peninsula.yaml) 93.80; [Vat Phou and Champasak Cultural Landscape](../../countries/LA/sights/vat-phou-and-champasak-cultural-landscape.yaml) 93.30 |
-| LB | cities | 13 | 8 | 80.38 | 0 | 0 | 0 | 13 | [Beirut](../../countries/LB/cities/beirut.yaml) 85.90; [Byblos (Jbeil)](../../countries/LB/cities/byblos-jbeil.yaml) 85.75; [Deir el Qamar](../../countries/LB/cities/deir-el-qamar.yaml) 83.15 |
+| LB | cities | 13 | 13 | 81.80 | 0 | 0 | 0 | 13 | [Beirut](../../countries/LB/cities/beirut.yaml) 85.90; [Tripoli](../../countries/LB/cities/tripoli.yaml) 85.85; [Byblos (Jbeil)](../../countries/LB/cities/byblos-jbeil.yaml) 85.75 |
 | LB | sights | 37 | 20 | 85.25 | 4 | 1 | 3 | 37 | [Baalbek Archaeological Complex](../../countries/LB/sights/baalbek-archaeological-complex.yaml) 95.35; [Ouadi Qadisha and Forest of the Cedars of God](../../countries/LB/sights/ouadi-qadisha-and-forest-of-the-cedars-of-god.yaml) 92.00; [Byblos Archaeological Site](../../countries/LB/sights/byblos-archaeological-site.yaml) 90.70 |
 | LC | cities | 12 | 12 | 74.60 | 0 | 0 | 0 | 12 | [Soufrière](../../countries/LC/cities/soufriere.yaml) 83.50; [Castries](../../countries/LC/cities/castries.yaml) 78.65; [Marigot Bay village](../../countries/LC/cities/marigot-bay-village.yaml) 75.65 |
 | LC | sights | 27 | 26 | 81.28 | 1 | 0 | 1 | 27 | [Pitons Management Area](../../countries/LC/sights/pitons-management-area.yaml) 94.50; [Gros Piton Nature Trail](../../countries/LC/sights/gros-piton-nature-trail.yaml) 86.40; [Pigeon Island National Landmark](../../countries/LC/sights/pigeon-island-national-landmark.yaml) 86.15 |
