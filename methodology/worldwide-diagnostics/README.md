@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14770; unassessed: 1499.
+Ranked: 14774; unassessed: 1495.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 409 |
+| conflicting-declared-status | 413 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1499 |
+| incomplete-core | 1495 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1794 |
 | overall-95-plus | 159 |
@@ -243,7 +243,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IR | cities | 15 | 3 | 87.75 | 0 | 0 | 0 | 15 | [Yazd](../../countries/IR/cities/yazd.yaml) 88.70; [Shiraz](../../countries/IR/cities/shiraz.yaml) 87.75; [Kashan](../../countries/IR/cities/kashan.yaml) 85.00 |
 | IR | sights | 55 | 17 | 86.15 | 2 | 0 | 0 | 55 | [Persepolis](../../countries/IR/sights/persepolis.yaml) 93.15; [Historic City of Yazd](../../countries/IR/sights/historic-yazd.yaml) 90.10; [Naqsh-e Rostam and Naqsh-e Rajab](../../countries/IR/sights/naqsh-e-rostam.yaml) 89.15 |
 | IS | cities | 15 | 15 | 80.20 | 0 | 0 | 0 | 15 | [Reykjavík](../../countries/IS/cities/reykjavik.yaml) 86.65; [Vestmannaeyjabær (Heimaey)](../../countries/IS/cities/vestmannaeyjabaer.yaml) 83.30; [Seyðisfjörður](../../countries/IS/cities/seydisfjordur.yaml) 82.35 |
-| IS | sights | 56 | 48 | 87.30 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
+| IS | sights | 56 | 50 | 87.30 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
 | IT | cities | 25 | 25 | 89.85 | 12 | 3 | 13 | 25 | [Rome](../../countries/IT/cities/rome.yaml) 97.30; [Venice](../../countries/IT/cities/venice.yaml) 96.50; [Florence](../../countries/IT/cities/florence.yaml) 95.55 |
 | IT | sights | 134 | 120 | 90.90 | 80 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
 | JE | cities | 4 | 4 | 81.75 | 0 | 0 | 0 | 4 | [St Helier](../../countries/JE/cities/st-helier.yaml) 83.35; [St Aubin](../../countries/JE/cities/st-aubin.yaml) 81.85; [Gorey harbour village](../../countries/JE/cities/gorey.yaml) 81.65 |
@@ -271,7 +271,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | KR | cities | 82 | 82 | 73.80 | 2 | 0 | 3 | 0 | [Gyeongju](../../countries/KR/cities/gyeongju.yaml) 93.10; [Seoul](../../countries/KR/cities/seoul.yaml) 91.90; [Busan](../../countries/KR/cities/busan.yaml) 89.00 |
 | KR | sights | 284 | 284 | 84.65 | 26 | 1 | 40 | 0 | [Gyeongju Historic Areas](../../countries/KR/sights/gyeongju-historic-areas.yaml) 96.15; [Changdeokgung Palace](../../countries/KR/sights/changdeokgung-palace.yaml) 93.90; [Bulguksa Temple](../../countries/KR/sights/bulguksa-temple.yaml) 93.15 |
 | KW | cities | 12 | 12 | 67.92 | 0 | 0 | 0 | 12 | [Kuwait City](../../countries/KW/cities/kuwait-city.yaml) 82.35; [Ahmadi](../../countries/KW/cities/ahmadi.yaml) 77.45; [Al-Zor Village (Failaka)](../../countries/KW/cities/al-zor-village-failaka.yaml) 77.35 |
-| KW | sights | 43 | 36 | 75.95 | 0 | 0 | 0 | 43 | [Failaka Island Cultural Landscape](../../countries/KW/sights/failaka-island-cultural-landscape.yaml) 88.20; [Kuwait Towers](../../countries/KW/sights/kuwait-towers.yaml) 84.65; [Sheikh Abdullah Al-Salem Cultural Centre](../../countries/KW/sights/sheikh-abdullah-al-salem-cultural-centre.yaml) 83.80 |
+| KW | sights | 43 | 37 | 76.05 | 0 | 0 | 0 | 43 | [Failaka Island Cultural Landscape](../../countries/KW/sights/failaka-island-cultural-landscape.yaml) 88.20; [Kuwait Towers](../../countries/KW/sights/kuwait-towers.yaml) 84.65; [Sheikh Abdullah Al-Salem Cultural Centre](../../countries/KW/sights/sheikh-abdullah-al-salem-cultural-centre.yaml) 83.80 |
 | KY | cities | 2 | 2 | 75.20 | 0 | 0 | 0 | 2 | [George Town (Grand Cayman)](../../countries/KY/cities/george-town.yaml) 77.80; [Blossom Village (Little Cayman)](../../countries/KY/cities/blossom-village.yaml) 72.60 |
 | KY | sights | 11 | 11 | 83.90 | 0 | 0 | 0 | 11 | [Bloody Bay Wall (Little Cayman)](../../countries/KY/sights/bloody-bay-wall.yaml) 88.50; [Booby Pond Nature Reserve (Little Cayman)](../../countries/KY/sights/booby-pond.yaml) 85.55; [Stingray Sandbar (Grand Cayman)](../../countries/KY/sights/stingray-sandbar.yaml) 85.55 |
 | KZ | cities | 18 | 18 | 74.02 | 0 | 0 | 0 | 18 | [Almaty](../../countries/KZ/cities/almaty.yaml) 86.00; [Astana](../../countries/KZ/cities/astana.yaml) 83.85; [Turkistan](../../countries/KZ/cities/turkistan.yaml) 82.75 |
@@ -499,7 +499,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | VA | cities | 1 | 1 | 93.80 | 1 | 0 | 1 | 1 | [Vatican City](../../countries/VA/cities/vatican-city.yaml) 93.80 |
 | VA | sights | 24 | 24 | 88.10 | 9 | 3 | 9 | 24 | [Saint Peter's Basilica](../../countries/VA/sights/saint-peters-basilica.yaml) 97.90; [Vatican Museums](../../countries/VA/sights/vatican-museums.yaml) 96.95; [Sistine Chapel](../../countries/VA/sights/sistine-chapel.yaml) 95.70 |
 | VC | cities | 13 | 13 | 72.25 | 0 | 0 | 0 | 13 | [Port Elizabeth (Bequia)](../../countries/VC/cities/port-elizabeth-bequia.yaml) 82.00; [Kingstown](../../countries/VC/cities/kingstown.yaml) 78.95; [Old Wall (Mayreau)](../../countries/VC/cities/old-wall-mayreau.yaml) 75.80 |
-| VC | sights | 51 | 31 | 80.15 | 1 | 0 | 1 | 51 | [Tobago Cays Marine Park](../../countries/VC/sights/tobago-cays-marine-park.yaml) 92.20; [La Soufrière National Park](../../countries/VC/sights/la-soufriere-national-park.yaml) 89.30; [Horseshoe Reef](../../countries/VC/sights/horseshoe-reef.yaml) 86.50 |
+| VC | sights | 51 | 32 | 80.00 | 1 | 0 | 1 | 51 | [Tobago Cays Marine Park](../../countries/VC/sights/tobago-cays-marine-park.yaml) 92.20; [La Soufrière National Park](../../countries/VC/sights/la-soufriere-national-park.yaml) 89.30; [Horseshoe Reef](../../countries/VC/sights/horseshoe-reef.yaml) 86.50 |
 | VE | cities | 35 | 34 | 71.18 | 0 | 0 | 0 | 35 | [Coro](../../countries/VE/cities/coro.yaml) 82.15; [Ciudad Bolívar](../../countries/VE/cities/ciudad-bolivar.yaml) 81.50; [Caracas](../../countries/VE/cities/caracas.yaml) 81.20 |
 | VE | sights | 43 | 38 | 82.25 | 4 | 1 | 12 | 43 | [Canaima National Park](../../countries/VE/sights/canaima-national-park.yaml) 95.85; [Mount Roraima (Venezuelan sector)](../../countries/VE/sights/mount-roraima-venezuelan-sector.yaml) 93.85; [Angel Falls (Salto Ángel)](../../countries/VE/sights/angel-falls-salto-angel.yaml) 93.05 |
 | VG | cities | 3 | 3 | 74.00 | 0 | 0 | 0 | 3 | [Road Town (Tortola)](../../countries/VG/cities/road-town.yaml) 76.85; [Spanish Town (Virgin Gorda)](../../countries/VG/cities/spanish-town.yaml) 74.00; [The Settlement (Anegada)](../../countries/VG/cities/the-settlement.yaml) 72.80 |
