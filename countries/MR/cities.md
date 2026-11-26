@@ -2,7 +2,7 @@
 
 # Mauritania (MR) — Cities, towns & villages ranking
 
-**7 ranked** · **3 unassessed** · **10 total** · Worldwide scoring **v2**
+**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (7)
+## Complete ranked list (9)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -20,17 +20,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 4 | [Tichitt](cities/tichitt.yaml) | City / town | **82.20** | **History 9.0**, **Architecture 8.7** | 8.0 / 8.9 / 8.8 / 7.5 / 7.1 | [18.4194, -9.4692](https://www.google.com/maps/search/?api=1&query=18.4194,-9.4692) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tichitt%2C%20Mauritania) |
 | 5 | [Nouakchott](cities/nouakchott.yaml) | City / town | **72.35** | **Culture 7.8**, **Food 7.5** | 6.8 / 7.2 / 7.7 / 7.3 / 7.6 | [18.0858, -15.9785](https://www.google.com/maps/search/?api=1&query=18.0858,-15.9785) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nouakchott%2C%20Mauritania) |
 | 6 | [Nouadhibou](cities/nouadhibou.yaml) | City / town | **71.20** | **Food 7.4**, **Culture 7.3** | 6.9 / 7.5 / 7.1 / 7.1 / 6.9 | [20.9148, -17.0502](https://www.google.com/maps/search/?api=1&query=20.9148,-17.0502) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nouadhibou%2C%20Mauritania) |
-| 7 | [Atar](cities/atar.yaml) | City / town | **69.90** | **Culture 7.5** | 6.7 / 7.3 / 7.1 / 7.1 / 6.7 | [20.5186, -13.0539](https://www.google.com/maps/search/?api=1&query=20.5186,-13.0539) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atar%2C%20Mauritania) |
+| 7 | [Kiffa](cities/kiffa.yaml) | City / town | **70.55** | — | 6.7 / 7.8 / 6.6 / 7.3 / 6.8 | [16.621, -11.402](https://www.google.com/maps/search/?api=1&query=16.621,-11.402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kiffa%2C%20Mauritania) |
+| 8 | [Atar](cities/atar.yaml) | City / town | **69.90** | **Culture 7.5** | 6.7 / 7.3 / 7.1 / 7.1 / 6.7 | [20.5186, -13.0539](https://www.google.com/maps/search/?api=1&query=20.5186,-13.0539) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atar%2C%20Mauritania) |
+| 9 | [Zouérat](cities/zouerat.yaml) | City / town | **69.25** | — | 6.5 / 7.2 / 7.1 / 7.1 / 6.9 | [22.735, -12.471](https://www.google.com/maps/search/?api=1&query=22.735,-12.471) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zou%C3%A9rat%2C%20Mauritania) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Kaédi](cities/kaedi.yaml) | City / town | **—** | — | — / — / 6.8 / — / — | [16.151, -13.506](https://www.google.com/maps/search/?api=1&query=16.151,-13.506) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ka%C3%A9di%2C%20Mauritania) |
-| — | [Kiffa](cities/kiffa.yaml) | City / town | **—** | — | — / — / 6.6 / — / — | [16.621, -11.402](https://www.google.com/maps/search/?api=1&query=16.621,-11.402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kiffa%2C%20Mauritania) |
-| — | [Zouérat](cities/zouerat.yaml) | City / town | **—** | — | — / 7.2 / 7.1 / — / — | [22.735, -12.471](https://www.google.com/maps/search/?api=1&query=22.735,-12.471) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zou%C3%A9rat%2C%20Mauritania) |
 
 ---
 

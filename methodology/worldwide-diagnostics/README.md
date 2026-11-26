@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14888; unassessed: 1381.
+Ranked: 14891; unassessed: 1378.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1381 |
+| incomplete-core | 1378 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -326,7 +326,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MP | sights | 15 | 12 | 83.78 | 0 | 0 | 1 | 15 | [Marpi WWII memorial landscape](../../countries/MP/sights/marpi-memorials.yaml) 87.45; [Saipan Grotto (authorized cavern diving and viewpoint)](../../countries/MP/sights/grotto.yaml) 85.85; [Mañagaha Island beach and marine conservation area](../../countries/MP/sights/managaha.yaml) 85.80 |
 | MQ | cities | 4 | 4 | 77.70 | 0 | 0 | 0 | 4 | [Saint-Pierre](../../countries/MQ/cities/saint-pierre.yaml) 83.95; [Fort-de-France](../../countries/MQ/cities/fort-de-france.yaml) 79.55; [Le Diamant (bourg)](../../countries/MQ/cities/le-diamant.yaml) 75.85 |
 | MQ | sights | 11 | 11 | 84.20 | 2 | 0 | 0 | 11 | [Mount Pelée (permitted summit trails)](../../countries/MQ/sights/mount-pelee.yaml) 90.15; [Mount Pelée and Pitons of Northern Martinique](../../countries/MQ/sights/martinique-volcanoes.yaml) 90.10; [Caravelle Peninsula Nature Reserve](../../countries/MQ/sights/caravelle-reserve.yaml) 86.10 |
-| MR | cities | 10 | 7 | 82.20 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Oualata](../../countries/MR/cities/oualata.yaml) 83.40; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95 |
+| MR | cities | 10 | 9 | 72.35 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Oualata](../../countries/MR/cities/oualata.yaml) 83.40; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95 |
 | MR | sights | 17 | 13 | 84.55 | 1 | 0 | 2 | 17 | [Banc d’Arguin National Park](../../countries/MR/sights/banc-d-arguin-national-park.yaml) 91.90; [Chinguetti Old Ksar](../../countries/MR/sights/chinguetti-old-ksar.yaml) 88.30; [Richat Structure (Eye of the Sahara)](../../countries/MR/sights/richat-structure.yaml) 86.55 |
 | MS | cities | 2 | 2 | 73.58 | 0 | 0 | 0 | 2 | [Little Bay](../../countries/MS/cities/little-bay.yaml) 76.00; [Brades](../../countries/MS/cities/brades.yaml) 71.15 |
 | MS | sights | 8 | 8 | 82.55 | 0 | 0 | 0 | 8 | [Montserrat Volcano Observatory and Soufrière Hills viewpoint](../../countries/MS/sights/volcano-observatory.yaml) 89.05; [Plymouth buried town (restricted land site)](../../countries/MS/sights/plymouth-buried-city.yaml) 87.75; [Centre Hills forest trails](../../countries/MS/sights/centre-hills.yaml) 86.15 |
@@ -434,7 +434,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SL | sights | 33 | 27 | 80.05 | 0 | 0 | 2 | 33 | [Tiwai Island Wildlife Sanctuary](../../countries/SL/sights/tiwai-island-wildlife-sanctuary.yaml) 89.70; [Gola Rainforest National Park](../../countries/SL/sights/gola-rainforest-national-park.yaml) 89.20; [Bunce Island](../../countries/SL/sights/bunce-island.yaml) 88.15 |
 | SM | cities | 14 | 14 | 68.72 | 0 | 0 | 0 | 14 | [City of San Marino](../../countries/SM/cities/city-of-san-marino.yaml) 87.65; [Borgo Maggiore](../../countries/SM/cities/borgo-maggiore.yaml) 76.65; [Montegiardino](../../countries/SM/cities/montegiardino.yaml) 73.10 |
 | SM | sights | 25 | 25 | 77.95 | 1 | 0 | 0 | 25 | [San Marino Historic Centre and Mount Titano](../../countries/SM/sights/san-marino-historic-centre-and-mount-titano.yaml) 90.80; [Guaita (First Tower)](../../countries/SM/sights/guaita-first-tower.yaml) 88.05; [Cesta (Second Tower)](../../countries/SM/sights/cesta-second-tower.yaml) 87.10 |
-| SN | cities | 8 | 7 | 83.55 | 0 | 0 | 0 | 8 | [Dakar](../../countries/SN/cities/dakar.yaml) 87.05; [Saint-Louis](../../countries/SN/cities/saint-louis.yaml) 86.35; [Touba](../../countries/SN/cities/touba.yaml) 83.60 |
+| SN | cities | 8 | 8 | 81.08 | 0 | 0 | 0 | 8 | [Dakar](../../countries/SN/cities/dakar.yaml) 87.05; [Saint-Louis](../../countries/SN/cities/saint-louis.yaml) 86.35; [Touba](../../countries/SN/cities/touba.yaml) 83.60 |
 | SN | sights | 23 | 20 | 87.42 | 3 | 0 | 2 | 23 | [Island of Gorée](../../countries/SN/sights/goree-island.yaml) 92.10; [Saloum Delta](../../countries/SN/sights/saloum-delta.yaml) 91.95; [Djoudj National Bird Sanctuary](../../countries/SN/sights/djoudj-bird-sanctuary.yaml) 91.50 |
 | SO | cities | 10 | 3 | 74.80 | 0 | 0 | 0 | 10 | [Berbera](../../countries/SO/cities/berbera.yaml) 81.00; [Hargeisa](../../countries/SO/cities/hargeisa.yaml) 74.80; [Sheikh](../../countries/SO/cities/sheikh.yaml) 73.00 |
 | SO | sights | 13 | 5 | 79.80 | 1 | 0 | 1 | 13 | [Laas Geel Rock Art](../../countries/SO/sights/laas-geel.yaml) 92.45; [Old Berbera Heritage Quarter](../../countries/SO/sights/old-berbera.yaml) 83.30; [Sheikh Mountain Pass](../../countries/SO/sights/sheikh-mountain-pass.yaml) 79.80 |
