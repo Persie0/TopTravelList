@@ -2,7 +2,7 @@
 
 # Slovakia (SK) — Sights & attractions ranking
 
-**58 ranked** · **3 unassessed** · **61 total** · Worldwide scoring **v2**
+**59 ranked** · **2 unassessed** · **61 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (58)
+## Complete ranked list (59)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -67,13 +67,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 50 | [Danube Limes (Slovak components)](sights/danube-limes.yaml) | Attraction | **84.30** | **History 9.3** | 7.9 / 8.6 / 9.2 / 8.4 / 8.1 | [48.07, 17.15](https://www.google.com/maps/search/?api=1&query=48.07,17.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Danube%20Limes%20%28Slovak%20components%29%2C%20Slovakia) |
 | 52 | [Chatam Sófer Memorial](sights/chatam-sofer.yaml) | Museum / heritage | **84.15** | **History 9.3**, **Culture 9.0** | 8.0 / 8.8 / 9.2 / 8.3 / 7.3 | [48.142, 17.092](https://www.google.com/maps/search/?api=1&query=48.142,17.092) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chatam%20S%C3%B3fer%20Memorial%2C%20Slovakia) |
 | 53 | [Brestovská Cave](sights/brestovska.yaml) | Cave | **83.85** | **Nature 9.0**, **Adventure 8.8** | 8.4 / 8.6 / 8.3 / 8.5 / 7.8 | [49.25, 19.66](https://www.google.com/maps/search/?api=1&query=49.25,19.66) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brestovsk%C3%A1%20Cave%2C%20Slovakia) |
-| 54 | [Bystrianska Cave](sights/bystrianska.yaml) | Cave | **83.05** | **Nature 8.9** | 8.3 / 8.4 / 8.3 / 8.5 / 7.8 | [48.84, 19.6](https://www.google.com/maps/search/?api=1&query=48.84,19.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bystrianska%20Cave%2C%20Slovakia) |
-| 54 | [Važecká Cave](sights/vazecka.yaml) | Cave | **83.05** | **Nature 8.9**, **History 8.7** | 8.2 / 8.5 / 8.6 / 8.4 / 7.4 | [49.055, 19.97](https://www.google.com/maps/search/?api=1&query=49.055,19.97) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Va%C5%BEeck%C3%A1%20Cave%2C%20Slovakia) |
-| 56 | [Driny Cave](sights/driny.yaml) | Cave | **82.55** | **Nature 8.9** | 8.2 / 8.5 / 8.3 / 8.4 / 7.5 | [48.502, 17.39](https://www.google.com/maps/search/?api=1&query=48.502,17.39) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driny%20Cave%2C%20Slovakia) |
-| 57 | [Gerulata Roman archaeological site](sights/gerulata.yaml) | Museum / heritage | **81.65** | **History 9.1** | 7.7 / 8.4 / 8.9 / 8.1 / 7.6 | [48.055, 17.15](https://www.google.com/maps/search/?api=1&query=48.055,17.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gerulata%20Roman%20archaeological%20site%2C%20Slovakia) |
-| 58 | [Iža Roman fort (Kelemantia)](sights/iza-fort.yaml) | Fortification | **80.30** | **History 9.2** | 7.4 / 8.4 / 8.9 / 8.0 / 7.3 | [47.744, 18.204](https://www.google.com/maps/search/?api=1&query=47.744,18.204) | [Google Maps](https://www.google.com/maps/search/?api=1&query=I%C5%BEa%20Roman%20fort%20%28Kelemantia%29%2C%20Slovakia) |
+| 54 | [Original Meadow–Pasture Sites (tentative series)](sights/meadow-pasture.yaml) | Attraction | **83.60** | **Nature 9.0**, **Culture 8.8** | 8.0 / 8.5 / 8.7 / 8.3 / 8.5 | [48.6, 19.4](https://www.google.com/maps/search/?api=1&query=48.6,19.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Original%20Meadow%E2%80%93Pasture%20Sites%20%28tentative%20series%29%2C%20Slovakia) |
+| 55 | [Bystrianska Cave](sights/bystrianska.yaml) | Cave | **83.05** | **Nature 8.9** | 8.3 / 8.4 / 8.3 / 8.5 / 7.8 | [48.84, 19.6](https://www.google.com/maps/search/?api=1&query=48.84,19.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bystrianska%20Cave%2C%20Slovakia) |
+| 55 | [Važecká Cave](sights/vazecka.yaml) | Cave | **83.05** | **Nature 8.9**, **History 8.7** | 8.2 / 8.5 / 8.6 / 8.4 / 7.4 | [49.055, 19.97](https://www.google.com/maps/search/?api=1&query=49.055,19.97) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Va%C5%BEeck%C3%A1%20Cave%2C%20Slovakia) |
+| 57 | [Driny Cave](sights/driny.yaml) | Cave | **82.55** | **Nature 8.9** | 8.2 / 8.5 / 8.3 / 8.4 / 7.5 | [48.502, 17.39](https://www.google.com/maps/search/?api=1&query=48.502,17.39) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Driny%20Cave%2C%20Slovakia) |
+| 58 | [Gerulata Roman archaeological site](sights/gerulata.yaml) | Museum / heritage | **81.65** | **History 9.1** | 7.7 / 8.4 / 8.9 / 8.1 / 7.6 | [48.055, 17.15](https://www.google.com/maps/search/?api=1&query=48.055,17.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gerulata%20Roman%20archaeological%20site%2C%20Slovakia) |
+| 59 | [Iža Roman fort (Kelemantia)](sights/iza-fort.yaml) | Fortification | **80.30** | **History 9.2** | 7.4 / 8.4 / 8.9 / 8.0 / 7.3 | [47.744, 18.204](https://www.google.com/maps/search/?api=1&query=47.744,18.204) | [Google Maps](https://www.google.com/maps/search/?api=1&query=I%C5%BEa%20Roman%20fort%20%28Kelemantia%29%2C%20Slovakia) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (2)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -81,7 +82,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Fungal Flora of Bukovské Hills (tentative)](sights/bukovske-fungi.yaml) | Attraction | **—** | **Nature 9.2** | — / 9.0 / 9.1 / — / — | [49.05, 22.45](https://www.google.com/maps/search/?api=1&query=49.05,22.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fungal%20Flora%20of%20Bukovsk%C3%A9%20Hills%20%28tentative%29%2C%20Slovakia) |
 | — | [Karst Valleys of Slovakia (tentative)](sights/karst-valleys.yaml) | Valley / canyon | **—** | **Nature 9.3**, **Adventure 9.2** | 8.9 / 9.0 / 8.8 / — / — | [48.95, 20.4](https://www.google.com/maps/search/?api=1&query=48.95,20.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karst%20Valleys%20of%20Slovakia%20%28tentative%29%2C%20Slovakia) |
-| — | [Original Meadow–Pasture Sites (tentative series)](sights/meadow-pasture.yaml) | Attraction | **—** | **Nature 9.0**, **Culture 8.8** | 8.0 / 8.5 / 8.7 / — / — | [48.6, 19.4](https://www.google.com/maps/search/?api=1&query=48.6,19.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Original%20Meadow%E2%80%93Pasture%20Sites%20%28tentative%20series%29%2C%20Slovakia) |
 
 ---
 
