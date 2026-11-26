@@ -1,5 +1,11 @@
 {
   "framework": "vite",
   "buildCommand": "npm run test && npm run build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "git": {
+    "deploymentEnabled": {
+      "**": false,
+      "main": true
+    }
+  }
 }
