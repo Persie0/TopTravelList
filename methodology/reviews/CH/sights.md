@@ -1587,7 +1587,7 @@
 - [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
 
 
-### sight-ch-creux-du-van — Creux du Van — 2026-11-26
+## sight-ch-creux-du-van — Creux du Van — 2026-11-26
 
 - YAML: [source](../../../countries/CH/sights/creux-du-van.yaml)
 - Action: new
@@ -1608,11 +1608,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Striking semicircular walls |
-| uniqueness | 8.5 | Distinctive amphitheatre with analogues |
-| significance | 8.2 | Protected natural landscape |
-| experience | 8.8 | Rewarding hikes and views |
-| depth | 8.3 | Focused cirque and surrounding trails |
+| Impact | 8.8 | Striking semicircular walls |
+| Uniqueness | 8.5 | Distinctive amphitheatre with analogues |
+| Significance | 8.2 | Protected natural landscape |
+| Experience | 8.8 | Rewarding hikes and views |
+| Depth | 8.3 | Focused cirque and surrounding trails |
 
 - Applicable categories: nature:9.0, photography:9.1, adventure:8.8.
 - Computed worldwide overall: 85.55/100.

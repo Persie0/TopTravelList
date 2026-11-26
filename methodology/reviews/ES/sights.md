@@ -3966,7 +3966,7 @@
 - [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)
 
 
-### sight-es-caminito-del-rey — Caminito del Rey — 2026-11-26
+## sight-es-caminito-del-rey — Caminito del Rey — 2026-11-26
 
 - YAML: [source](../../../countries/ES/sights/caminito-del-rey.yaml)
 - Action: new
@@ -3987,11 +3987,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Dramatic elevated gorge views |
-| uniqueness | 8.8 | Unusual cliff walkway with analogues |
-| significance | 8.2 | Engineering heritage and geology |
-| experience | 9.0 | Distinctive controlled walk |
-| depth | 8.3 | Focused gorge route |
+| Impact | 9.0 | Dramatic elevated gorge views |
+| Uniqueness | 8.8 | Unusual cliff walkway with analogues |
+| Significance | 8.2 | Engineering heritage and geology |
+| Experience | 9.0 | Distinctive controlled walk |
+| Depth | 8.3 | Focused gorge route |
 
 - Applicable categories: adventure:9.2, nature:9.0, photography:9.2.
 - Computed worldwide overall: 87.20/100.

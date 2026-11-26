@@ -3407,7 +3407,7 @@
 - [Dated worldwide reassessment pass 61 — 2026-11-26](worldwide-deferred-pass61-2026-11-26.md)
 
 
-### sight-de-rakotzbrucke — Rakotzbrücke (Kromlau Devil's Bridge) — 2026-11-26
+## sight-de-rakotzbrucke — Rakotzbrücke (Kromlau Devil's Bridge) — 2026-11-26
 
 - YAML: [source](../../../countries/DE/sights/rakotzbrucke.yaml)
 - Action: new
@@ -3428,11 +3428,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Distinctive circular reflection |
-| uniqueness | 8.5 | Other romantic bridges exist |
-| significance | 7.8 | Regional garden-design heritage |
-| experience | 8.1 | Focused viewing experience |
-| depth | 7.3 | Single structure |
+| Impact | 8.6 | Distinctive circular reflection |
+| Uniqueness | 8.5 | Other romantic bridges exist |
+| Significance | 7.8 | Regional garden-design heritage |
+| Experience | 8.1 | Focused viewing experience |
+| Depth | 7.3 | Single structure |
 
 - Applicable categories: photography:9.1, architecture:8.6, nature:8.3.
 - Computed worldwide overall: 82.10/100.

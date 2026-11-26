@@ -1810,7 +1810,7 @@ Four formerly unranked parks have documented authorized visitor experiences; Ivv
 All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent serial property remains unranked because there is no coherent ordinary whole-property visit. Forty Mile remains documented as closed in [Yukon government conservation update](https://yukon.ca/en/news/community-engagement-begins-chedahdek-forty-mile-historic-site-conservation-plan); no re-opening evidence checked here.
 
 
-### sight-ca-bruce-peninsula-national-park — Bruce Peninsula National Park — 2026-11-26
+## sight-ca-bruce-peninsula-national-park — Bruce Peninsula National Park — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/bruce-peninsula-national-park.yaml)
 - Action: new
@@ -1831,11 +1831,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Clear-water rocky shoreline |
-| uniqueness | 8.5 | Comparable coastal caves exist |
-| significance | 8.3 | Coastal ecology and geology |
-| experience | 8.8 | Varied shore walking |
-| depth | 8.5 | Distinct shoreline areas |
+| Impact | 8.7 | Clear-water rocky shoreline |
+| Uniqueness | 8.5 | Comparable coastal caves exist |
+| Significance | 8.3 | Coastal ecology and geology |
+| Experience | 8.8 | Varied shore walking |
+| Depth | 8.5 | Distinct shoreline areas |
 
 - Applicable categories: nature:8.9, photography:9.0, adventure:8.7.
 - Computed worldwide overall: 85.65/100.
@@ -1845,7 +1845,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-ca-fundy-national-park — Fundy National Park — 2026-11-26
+## sight-ca-fundy-national-park — Fundy National Park — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/fundy-national-park.yaml)
 - Action: new
@@ -1866,11 +1866,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Dramatic tidal changes and forest |
-| uniqueness | 9.0 | Exceptional tidal range |
-| significance | 8.8 | Coastal and forest ecology |
-| experience | 8.8 | Tidal-flat visits and trails |
-| depth | 8.8 | Coastal and inland trail breadth |
+| Impact | 8.7 | Dramatic tidal changes and forest |
+| Uniqueness | 9.0 | Exceptional tidal range |
+| Significance | 8.8 | Coastal and forest ecology |
+| Experience | 8.8 | Tidal-flat visits and trails |
+| Depth | 8.8 | Coastal and inland trail breadth |
 
 - Applicable categories: nature:9.1, photography:8.9, adventure:8.7.
 - Computed worldwide overall: 88.20/100.
@@ -1880,7 +1880,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-ca-cape-breton-highlands-national-park — Cape Breton Highlands National Park — 2026-11-26
+## sight-ca-cape-breton-highlands-national-park — Cape Breton Highlands National Park — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/cape-breton-highlands-national-park.yaml)
 - Action: new
@@ -1901,11 +1901,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Highland coastal vistas |
-| uniqueness | 8.5 | Global coastal analogues |
-| significance | 8.5 | Protected highland ecology |
-| experience | 8.9 | Scenic drives and hiking |
-| depth | 8.8 | Coast and upland paths |
+| Impact | 8.8 | Highland coastal vistas |
+| Uniqueness | 8.5 | Global coastal analogues |
+| Significance | 8.5 | Protected highland ecology |
+| Experience | 8.9 | Scenic drives and hiking |
+| Depth | 8.8 | Coast and upland paths |
 
 - Applicable categories: nature:9.0, photography:9.1, adventure:8.8.
 - Computed worldwide overall: 86.80/100.
@@ -1915,7 +1915,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent corroboration and current visitor access checks.
 
 
-### sight-ca-auyuittuq-national-park — Auyuittuq National Park — 2026-11-26
+## sight-ca-auyuittuq-national-park — Auyuittuq National Park — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/auyuittuq-national-park.yaml)
 - Action: new
@@ -1936,11 +1936,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Dramatic glaciated peaks |
-| uniqueness | 9.0 | Distinctive Arctic alpine setting |
-| significance | 8.8 | Protected Arctic geology and ecosystems |
-| experience | 8.2 | Remote expedition access |
-| depth | 8.9 | Extensive mountain routes |
+| Impact | 9.2 | Dramatic glaciated peaks |
+| Uniqueness | 9.0 | Distinctive Arctic alpine setting |
+| Significance | 8.8 | Protected Arctic geology and ecosystems |
+| Experience | 8.2 | Remote expedition access |
+| Depth | 8.9 | Extensive mountain routes |
 
 - Applicable categories: nature:9.3, adventure:9.3, photography:9.2.
 - Computed worldwide overall: 88.90/100.
@@ -1950,7 +1950,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-ca-mingan-archipelago-national-park-reserve — Mingan Archipelago National Park Reserve — 2026-11-26
+## sight-ca-mingan-archipelago-national-park-reserve — Mingan Archipelago National Park Reserve — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/mingan-archipelago-national-park-reserve.yaml)
 - Action: new
@@ -1971,11 +1971,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Sculptural coastal rocks |
-| uniqueness | 8.9 | Distinctive limestone island formations |
-| significance | 8.6 | Coastal geology and marine habitat |
-| experience | 8.5 | Boat trips and walking |
-| depth | 8.6 | Multiple islands and trails |
+| Impact | 8.7 | Sculptural coastal rocks |
+| Uniqueness | 8.9 | Distinctive limestone island formations |
+| Significance | 8.6 | Coastal geology and marine habitat |
+| Experience | 8.5 | Boat trips and walking |
+| Depth | 8.6 | Multiple islands and trails |
 
 - Applicable categories: nature:9.0, photography:9.0, wildlife:8.7.
 - Computed worldwide overall: 86.90/100.
@@ -1985,7 +1985,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-ca-pacific-rim-national-park-reserve — Pacific Rim National Park Reserve — 2026-11-26
+## sight-ca-pacific-rim-national-park-reserve — Pacific Rim National Park Reserve — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml)
 - Action: new
@@ -2006,11 +2006,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Memorable forest-ocean contrast |
-| uniqueness | 8.6 | Comparable temperate coasts exist |
-| significance | 8.8 | Protected rainforest and coastal heritage |
-| experience | 9.0 | Varied coastal recreation |
-| depth | 9.1 | Several separate park units |
+| Impact | 8.9 | Memorable forest-ocean contrast |
+| Uniqueness | 8.6 | Comparable temperate coasts exist |
+| Significance | 8.8 | Protected rainforest and coastal heritage |
+| Experience | 9.0 | Varied coastal recreation |
+| Depth | 9.1 | Several separate park units |
 
 - Applicable categories: nature:9.2, adventure:9.1, photography:9.0.
 - Computed worldwide overall: 88.40/100.
@@ -2020,7 +2020,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-ca-thousand-islands-national-park — Thousand Islands National Park — 2026-11-26
+## sight-ca-thousand-islands-national-park — Thousand Islands National Park — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/thousand-islands-national-park.yaml)
 - Action: new
@@ -2041,11 +2041,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.0 | Attractive island river scenery |
-| uniqueness | 8.2 | Distinctive archipelago but global analogues |
-| significance | 8.1 | Protected ecological transition zone |
-| experience | 8.7 | Paddling and hiking |
-| depth | 8.4 | Several dispersed islands and trails |
+| Impact | 8.0 | Attractive island river scenery |
+| Uniqueness | 8.2 | Distinctive archipelago but global analogues |
+| Significance | 8.1 | Protected ecological transition zone |
+| Experience | 8.7 | Paddling and hiking |
+| Depth | 8.4 | Several dispersed islands and trails |
 
 - Applicable categories: nature:8.5, adventure:8.5, photography:8.4.
 - Computed worldwide overall: 82.15/100.
@@ -2055,7 +2055,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-ca-torngat-mountains-national-park — Torngat Mountains National Park — 2026-11-26
+## sight-ca-torngat-mountains-national-park — Torngat Mountains National Park — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/torngat-mountains-national-park.yaml)
 - Action: new
@@ -2076,11 +2076,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Exceptional fjord and mountain vistas |
-| uniqueness | 9.0 | Rare Arctic cultural and natural combination |
-| significance | 9.0 | Inuit heritage and Arctic ecosystems |
-| experience | 8.2 | Specialized remote visits |
-| depth | 9.0 | Extensive wilderness exploration |
+| Impact | 9.2 | Exceptional fjord and mountain vistas |
+| Uniqueness | 9.0 | Rare Arctic cultural and natural combination |
+| Significance | 9.0 | Inuit heritage and Arctic ecosystems |
+| Experience | 8.2 | Specialized remote visits |
+| Depth | 9.0 | Extensive wilderness exploration |
 
 - Applicable categories: nature:9.3, adventure:9.3, wildlife:9.0, photography:9.2.
 - Computed worldwide overall: 89.40/100.
@@ -2090,7 +2090,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-ca-sable-island-national-park-reserve — Sable Island National Park Reserve — 2026-11-26
+## sight-ca-sable-island-national-park-reserve — Sable Island National Park Reserve — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/sable-island-national-park-reserve.yaml)
 - Action: new
@@ -2111,11 +2111,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.5 | Memorable dunes and horses |
-| uniqueness | 9.1 | Unusual isolated sand island ecology |
-| significance | 8.8 | Important wildlife and habitat |
-| experience | 8.1 | Limited remote visit scope |
-| depth | 8.3 | Coast, dunes and wildlife but restricted routes |
+| Impact | 8.5 | Memorable dunes and horses |
+| Uniqueness | 9.1 | Unusual isolated sand island ecology |
+| Significance | 8.8 | Important wildlife and habitat |
+| Experience | 8.1 | Limited remote visit scope |
+| Depth | 8.3 | Coast, dunes and wildlife but restricted routes |
 
 - Applicable categories: nature:8.9, wildlife:9.1, photography:8.9.
 - Computed worldwide overall: 86.30/100.
@@ -2125,7 +2125,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-ca-wapusk-national-park — Wapusk National Park — 2026-11-26
+## sight-ca-wapusk-national-park — Wapusk National Park — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/wapusk-national-park.yaml)
 - Action: new
@@ -2146,11 +2146,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Remarkable Arctic wildlife |
-| uniqueness | 9.2 | Unusual polar bear denning landscape |
-| significance | 9.1 | Important conservation habitat |
-| experience | 8.0 | Specialized limited visitor access |
-| depth | 8.6 | Tundra and wildlife interpretation |
+| Impact | 8.8 | Remarkable Arctic wildlife |
+| Uniqueness | 9.2 | Unusual polar bear denning landscape |
+| Significance | 9.1 | Important conservation habitat |
+| Experience | 8.0 | Specialized limited visitor access |
+| Depth | 8.6 | Tundra and wildlife interpretation |
 
 - Applicable categories: wildlife:9.3, nature:9.0, photography:8.9.
 - Computed worldwide overall: 88.20/100.
@@ -2160,7 +2160,7 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-ca-hopewell-rocks-provincial-park — Hopewell Rocks Provincial Park — 2026-11-26
+## sight-ca-hopewell-rocks-provincial-park — Hopewell Rocks Provincial Park — 2026-11-26
 
 - YAML: [source](../../../countries/CA/sights/hopewell-rocks-provincial-park.yaml)
 - Action: new
@@ -2181,11 +2181,11 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Striking sea stacks and tides |
-| uniqueness | 9.1 | Exceptional high-low tide contrast |
-| significance | 8.5 | Geology and tidal processes |
-| experience | 9.0 | Two contrasting tidal visits |
-| depth | 8.1 | Concentrated coastal park |
+| Impact | 8.9 | Striking sea stacks and tides |
+| Uniqueness | 9.1 | Exceptional high-low tide contrast |
+| Significance | 8.5 | Geology and tidal processes |
+| Experience | 9.0 | Two contrasting tidal visits |
+| Depth | 8.1 | Concentrated coastal park |
 
 - Applicable categories: nature:9.2, photography:9.2, adventure:8.6.
 - Computed worldwide overall: 88.05/100.

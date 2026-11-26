@@ -3438,7 +3438,7 @@
 - [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)
 
 
-### sight-fr-disneyland-park-paris — Disneyland Park (Paris) — 2026-11-26
+## sight-fr-disneyland-park-paris — Disneyland Park (Paris) — 2026-11-26
 
 - YAML: [source](../../../countries/FR/sights/disneyland-park-paris.yaml)
 - Action: new
@@ -3459,11 +3459,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Immersive themed settings |
-| uniqueness | 8.7 | Related Disney park designs elsewhere |
-| significance | 8.5 | Entertainment design history |
-| experience | 9.3 | Varied rides and shows |
-| depth | 9.2 | Multiple themed lands |
+| Impact | 8.9 | Immersive themed settings |
+| Uniqueness | 8.7 | Related Disney park designs elsewhere |
+| Significance | 8.5 | Entertainment design history |
+| Experience | 9.3 | Varied rides and shows |
+| Depth | 9.2 | Multiple themed lands |
 
 - Applicable categories: family:9.4, culture:8.5, photography:8.9.
 - Computed worldwide overall: 88.60/100.
@@ -3473,7 +3473,7 @@
 - Verification still needed: independent factual corroboration and current access checks.
 
 
-### sight-fr-disney-adventure-world — Disney Adventure World (Paris) — 2026-11-26
+## sight-fr-disney-adventure-world — Disney Adventure World (Paris) — 2026-11-26
 
 - YAML: [source](../../../countries/FR/sights/disney-adventure-world.yaml)
 - Action: new
@@ -3494,11 +3494,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Memorable immersive scenes |
-| uniqueness | 8.6 | Comparable branded park worlds |
-| significance | 8.2 | Entertainment design interest |
-| experience | 9.1 | Multiple rides and shows |
-| depth | 8.8 | Several themed zones |
+| Impact | 8.7 | Memorable immersive scenes |
+| Uniqueness | 8.6 | Comparable branded park worlds |
+| Significance | 8.2 | Entertainment design interest |
+| Experience | 9.1 | Multiple rides and shows |
+| Depth | 8.8 | Several themed zones |
 
 - Applicable categories: family:9.3, culture:8.4, photography:8.7.
 - Computed worldwide overall: 86.45/100.
@@ -3508,7 +3508,7 @@
 - Verification still needed: independent factual corroboration and current access checks.
 
 
-### sight-fr-chateau-des-baux — Château des Baux-de-Provence — 2026-11-26
+## sight-fr-chateau-des-baux — Château des Baux-de-Provence — 2026-11-26
 
 - YAML: [source](../../../countries/FR/sights/chateau-des-baux.yaml)
 - Action: new
@@ -3529,11 +3529,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Dramatic hilltop ruins |
-| uniqueness | 8.5 | Other fortified ruins comparable |
-| significance | 8.7 | Medieval regional heritage |
-| experience | 8.6 | Walkable castle and views |
-| depth | 8.4 | Several ruins and viewpoints |
+| Impact | 8.6 | Dramatic hilltop ruins |
+| Uniqueness | 8.5 | Other fortified ruins comparable |
+| Significance | 8.7 | Medieval regional heritage |
+| Experience | 8.6 | Walkable castle and views |
+| Depth | 8.4 | Several ruins and viewpoints |
 
 - Applicable categories: history:8.9, architecture:8.8, photography:8.9.
 - Computed worldwide overall: 85.75/100.

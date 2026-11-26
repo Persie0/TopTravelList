@@ -1772,7 +1772,7 @@ This supplement preserves the prior individual decisions; no YAML ratings change
 UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21 inscribed and eight tentative properties; existing property-level coverage retained. Serial components and ordinary visitor access remain incompletely verified.
 
 
-### sight-au-karijini-national-park — Karijini National Park — 2026-11-26
+## sight-au-karijini-national-park — Karijini National Park — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/karijini-national-park.yaml)
 - Action: new
@@ -1793,11 +1793,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Striking layered gorges |
-| uniqueness | 8.9 | Distinctive red rock and pools |
-| significance | 8.7 | Geological landscape |
-| experience | 8.9 | Rewarding varied gorge walks |
-| depth | 9.0 | Multiple gorge systems |
+| Impact | 9.2 | Striking layered gorges |
+| Uniqueness | 8.9 | Distinctive red rock and pools |
+| Significance | 8.7 | Geological landscape |
+| Experience | 8.9 | Rewarding varied gorge walks |
+| Depth | 9.0 | Multiple gorge systems |
 
 - Applicable categories: nature:9.3, photography:9.3, adventure:9.2.
 - Computed worldwide overall: 89.60/100.
@@ -1807,7 +1807,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-freycinet-national-park — Freycinet National Park — 2026-11-26
+## sight-au-freycinet-national-park — Freycinet National Park — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/freycinet-national-park.yaml)
 - Action: new
@@ -1828,11 +1828,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Exceptional curved bay and granite scenery |
-| uniqueness | 8.7 | Comparable coastal landscapes exist |
-| significance | 8.4 | Protected coastal ecology |
-| experience | 9.0 | Varied walks and beach visits |
-| depth | 8.8 | Peninsula circuit and multiple coves |
+| Impact | 9.0 | Exceptional curved bay and granite scenery |
+| Uniqueness | 8.7 | Comparable coastal landscapes exist |
+| Significance | 8.4 | Protected coastal ecology |
+| Experience | 9.0 | Varied walks and beach visits |
+| Depth | 8.8 | Peninsula circuit and multiple coves |
 
 - Applicable categories: nature:9.2, photography:9.3, adventure:8.9, beaches:9.1.
 - Computed worldwide overall: 87.85/100.
@@ -1842,7 +1842,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-wilsons-promontory-national-park — Wilsons Promontory National Park — 2026-11-26
+## sight-au-wilsons-promontory-national-park — Wilsons Promontory National Park — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/wilsons-promontory-national-park.yaml)
 - Action: new
@@ -1863,11 +1863,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Granite coast and beach views |
-| uniqueness | 8.5 | Worldwide peninsula analogues |
-| significance | 8.5 | Protected coastal landscapes |
-| experience | 8.9 | Varied walking and beach recreation |
-| depth | 8.9 | Several trails and coastal areas |
+| Impact | 8.8 | Granite coast and beach views |
+| Uniqueness | 8.5 | Worldwide peninsula analogues |
+| Significance | 8.5 | Protected coastal landscapes |
+| Experience | 8.9 | Varied walking and beach recreation |
+| Depth | 8.9 | Several trails and coastal areas |
 
 - Applicable categories: nature:9.1, photography:9.0, adventure:8.9, beaches:8.8.
 - Computed worldwide overall: 86.90/100.
@@ -1877,7 +1877,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-flinders-chase-national-park — Flinders Chase National Park — 2026-11-26
+## sight-au-flinders-chase-national-park — Flinders Chase National Park — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/flinders-chase-national-park.yaml)
 - Action: new
@@ -1898,11 +1898,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Distinctive coastal rocks |
-| uniqueness | 8.8 | Unusual rock and wildlife combination |
-| significance | 8.6 | Protected island ecology |
-| experience | 8.8 | Walking and viewpoints |
-| depth | 8.7 | Several coastal features |
+| Impact | 8.9 | Distinctive coastal rocks |
+| Uniqueness | 8.8 | Unusual rock and wildlife combination |
+| Significance | 8.6 | Protected island ecology |
+| Experience | 8.8 | Walking and viewpoints |
+| Depth | 8.7 | Several coastal features |
 
 - Applicable categories: nature:9.1, photography:9.2, wildlife:8.9, adventure:8.6.
 - Computed worldwide overall: 87.80/100.
@@ -1912,7 +1912,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-kalbarri-national-park — Kalbarri National Park — 2026-11-26
+## sight-au-kalbarri-national-park — Kalbarri National Park — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/kalbarri-national-park.yaml)
 - Action: new
@@ -1933,11 +1933,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Dramatic red-rock gorge |
-| uniqueness | 8.7 | Distinctive river-cut forms with global analogues |
-| significance | 8.4 | Geological and natural landscape interest |
-| experience | 8.8 | Lookouts and walking routes |
-| depth | 8.9 | Gorge and coastal sectors |
+| Impact | 8.9 | Dramatic red-rock gorge |
+| Uniqueness | 8.7 | Distinctive river-cut forms with global analogues |
+| Significance | 8.4 | Geological and natural landscape interest |
+| Experience | 8.8 | Lookouts and walking routes |
+| Depth | 8.9 | Gorge and coastal sectors |
 
 - Applicable categories: nature:9.1, photography:9.2, adventure:8.9.
 - Computed worldwide overall: 87.35/100.
@@ -1947,7 +1947,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-grampians-gariwerd-national-park — Grampians (Gariwerd) National Park — 2026-11-26
+## sight-au-grampians-gariwerd-national-park — Grampians (Gariwerd) National Park — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/grampians-gariwerd-national-park.yaml)
 - Action: new
@@ -1968,11 +1968,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Rugged mountain vistas |
-| uniqueness | 8.7 | Distinctive sandstone and cultural context |
-| significance | 8.9 | Protected habitat and Aboriginal heritage |
-| experience | 8.8 | Varied hiking and viewpoints |
-| depth | 9.0 | Mountain landscapes and cultural interpretation |
+| Impact | 8.8 | Rugged mountain vistas |
+| Uniqueness | 8.7 | Distinctive sandstone and cultural context |
+| Significance | 8.9 | Protected habitat and Aboriginal heritage |
+| Experience | 8.8 | Varied hiking and viewpoints |
+| Depth | 9.0 | Mountain landscapes and cultural interpretation |
 
 - Applicable categories: nature:9.1, adventure:9.1, culture:8.8, photography:9.0.
 - Computed worldwide overall: 88.15/100.
@@ -1982,7 +1982,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-whitehaven-beach — Whitehaven Beach — 2026-11-26
+## sight-au-whitehaven-beach — Whitehaven Beach — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/whitehaven-beach.yaml)
 - Action: new
@@ -2003,11 +2003,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Outstanding white-sand coastal vistas |
-| uniqueness | 8.8 | Distinctive sand-water contrast, other tropical analogues exist |
-| significance | 7.9 | Protected coastal environment |
-| experience | 9.0 | Beach visit and adjacent walks |
-| depth | 7.9 | Focused beach experience |
+| Impact | 9.2 | Outstanding white-sand coastal vistas |
+| Uniqueness | 8.8 | Distinctive sand-water contrast, other tropical analogues exist |
+| Significance | 7.9 | Protected coastal environment |
+| Experience | 9.0 | Beach visit and adjacent walks |
+| Depth | 7.9 | Focused beach experience |
 
 - Applicable categories: beaches:9.4, photography:9.3, nature:9.0.
 - Computed worldwide overall: 86.80/100.
@@ -2017,7 +2017,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-phillip-island-penguin-parade — Phillip Island Penguin Parade — 2026-11-26
+## sight-au-phillip-island-penguin-parade — Phillip Island Penguin Parade — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/phillip-island-penguin-parade.yaml)
 - Action: new
@@ -2038,11 +2038,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Memorable wild penguin arrivals |
-| uniqueness | 9.0 | Distinctive accessible colony viewing |
-| significance | 8.6 | Conservation and education importance |
-| experience | 8.9 | Structured viewing experience, wildlife sightings vary |
-| depth | 7.9 | Focused evening wildlife encounter |
+| Impact | 8.8 | Memorable wild penguin arrivals |
+| Uniqueness | 9.0 | Distinctive accessible colony viewing |
+| Significance | 8.6 | Conservation and education importance |
+| Experience | 8.9 | Structured viewing experience, wildlife sightings vary |
+| Depth | 7.9 | Focused evening wildlife encounter |
 
 - Applicable categories: wildlife:9.3, family:9.0, nature:8.8.
 - Computed worldwide overall: 87.35/100.
@@ -2052,7 +2052,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-rottnest-island — Wadjemup / Rottnest Island — 2026-11-26
+## sight-au-rottnest-island — Wadjemup / Rottnest Island — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/rottnest-island.yaml)
 - Action: new
@@ -2073,11 +2073,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Attractive beaches and wildlife |
-| uniqueness | 8.8 | Distinctive quokka population |
-| significance | 8.5 | Natural and cultural heritage |
-| experience | 9.1 | Cycling and coastal exploration |
-| depth | 8.7 | Varied bays and island routes |
+| Impact | 8.7 | Attractive beaches and wildlife |
+| Uniqueness | 8.8 | Distinctive quokka population |
+| Significance | 8.5 | Natural and cultural heritage |
+| Experience | 9.1 | Cycling and coastal exploration |
+| Depth | 8.7 | Varied bays and island routes |
 
 - Applicable categories: nature:9.0, wildlife:9.1, beaches:9.0, adventure:8.8.
 - Computed worldwide overall: 87.45/100.
@@ -2087,7 +2087,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-whitsunday-islands-national-park — Whitsunday Islands National Park — 2026-11-26
+## sight-au-whitsunday-islands-national-park — Whitsunday Islands National Park — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/whitsunday-islands-national-park.yaml)
 - Action: new
@@ -2108,11 +2108,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Outstanding island vistas |
-| uniqueness | 8.8 | Distinctive island and beach combination |
-| significance | 8.6 | Protected coastal and cultural landscape |
-| experience | 9.0 | Varied island walks and boating |
-| depth | 9.0 | Many islands and visitor routes |
+| Impact | 9.1 | Outstanding island vistas |
+| Uniqueness | 8.8 | Distinctive island and beach combination |
+| Significance | 8.6 | Protected coastal and cultural landscape |
+| Experience | 9.0 | Varied island walks and boating |
+| Depth | 9.0 | Many islands and visitor routes |
 
 - Applicable categories: nature:9.2, beaches:9.3, adventure:9.0, photography:9.3.
 - Computed worldwide overall: 89.00/100.
@@ -2122,7 +2122,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-hill-inlet-lookout — Hill Inlet Lookout — 2026-11-26
+## sight-au-hill-inlet-lookout — Hill Inlet Lookout — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/hill-inlet-lookout.yaml)
 - Action: new
@@ -2143,11 +2143,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Exceptional tidal sand panorama |
-| uniqueness | 8.8 | Distinctive patterns with coastal analogues |
-| significance | 7.6 | Local geomorphological merit |
-| experience | 8.6 | Rewarding short walk |
-| depth | 7.3 | Focused lookout |
+| Impact | 9.2 | Exceptional tidal sand panorama |
+| Uniqueness | 8.8 | Distinctive patterns with coastal analogues |
+| Significance | 7.6 | Local geomorphological merit |
+| Experience | 8.6 | Rewarding short walk |
+| Depth | 7.3 | Focused lookout |
 
 - Applicable categories: nature:8.9, photography:9.4.
 - Computed worldwide overall: 85.00/100.
@@ -2157,7 +2157,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-au-kunanyi-mount-wellington — Kunanyi / Mount Wellington — 2026-11-26
+## sight-au-kunanyi-mount-wellington — Kunanyi / Mount Wellington — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/kunanyi-mount-wellington.yaml)
 - Action: new
@@ -2178,11 +2178,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Panoramic mountain and estuary views |
-| uniqueness | 8.3 | Comparable mountain viewpoints elsewhere |
-| significance | 8.2 | Natural and cultural landscape |
-| experience | 8.8 | Accessible summit and walks |
-| depth | 8.5 | Multiple approach routes |
+| Impact | 8.8 | Panoramic mountain and estuary views |
+| Uniqueness | 8.3 | Comparable mountain viewpoints elsewhere |
+| Significance | 8.2 | Natural and cultural landscape |
+| Experience | 8.8 | Accessible summit and walks |
+| Depth | 8.5 | Multiple approach routes |
 
 - Applicable categories: nature:8.9, photography:9.0, adventure:8.7.
 - Computed worldwide overall: 85.25/100.
@@ -2192,7 +2192,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access checks.
 
 
-### sight-au-cable-beach — Cable Beach (Broome) — 2026-11-26
+## sight-au-cable-beach — Cable Beach (Broome) — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/cable-beach.yaml)
 - Action: new
@@ -2213,11 +2213,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Expansive coast |
-| uniqueness | 8.2 | Comparable tropical beaches |
-| significance | 7.8 | Local coastal and historical interest |
-| experience | 8.8 | Beach recreation and sunset visits |
-| depth | 7.9 | Single coastal stretch |
+| Impact | 8.7 | Expansive coast |
+| Uniqueness | 8.2 | Comparable tropical beaches |
+| Significance | 7.8 | Local coastal and historical interest |
+| Experience | 8.8 | Beach recreation and sunset visits |
+| Depth | 7.9 | Single coastal stretch |
 
 - Applicable categories: beaches:9.0, photography:9.0, relaxation:8.8.
 - Computed worldwide overall: 83.30/100.
@@ -2227,7 +2227,7 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Verification still needed: independent factual corroboration and current access checks.
 
 
-### sight-au-blue-lake-warwar — Blue Lake / Warwar (Mount Gambier) — 2026-11-26
+## sight-au-blue-lake-warwar — Blue Lake / Warwar (Mount Gambier) — 2026-11-26
 
 - YAML: [source](../../../countries/AU/sights/blue-lake-warwar.yaml)
 - Action: new
@@ -2248,11 +2248,11 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.4 | Colorful crater lake |
-| uniqueness | 8.5 | Distinctive seasonal colour, other crater lakes exist |
-| significance | 8.2 | Geological and water supply context |
-| experience | 8.4 | Perimeter walks and views |
-| depth | 7.8 | Focused lake visit |
+| Impact | 8.4 | Colorful crater lake |
+| Uniqueness | 8.5 | Distinctive seasonal colour, other crater lakes exist |
+| Significance | 8.2 | Geological and water supply context |
+| Experience | 8.4 | Perimeter walks and views |
+| Depth | 7.8 | Focused lake visit |
 
 - Applicable categories: nature:8.7, photography:8.8.
 - Computed worldwide overall: 83.25/100.
