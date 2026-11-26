@@ -1,0 +1,17 @@
+id: sight-eg-manial-palace-museum
+name: "Manial Palace Museum"
+location:
+  country_code: EG
+  latitude: 30.02771
+  longitude: 31.2291
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    history: 9.0
+    culture: 9.1
+    photography: 9.0

@@ -1331,3 +1331,307 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-eg-colossi-of-memnon — Colossi of Memnon — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/colossi-of-memnon.yaml)
+- Action: new
+- Precise subject and limitations: Two monumental statues and public viewing area; excludes inaccessible Amenhotep III temple excavations. Ministry confirms visitor stop https://egymonuments.gov.eg/news/one-day-trips-to-luxor-are-witnessing-a-large-number-of-visitors/.
+- Location check: 25.7205, 32.61044; [published representative point](https://mapcarta.com/13050774), inspected 2026-11-27; not entrance coordinates. UNESCO DMS converted to decimal degrees where applicable.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [ministry reference](https://egymonuments.gov.eg/en/world-heritage/ancient-thebes-and-its-necropolis); page or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/unfinished-obelisk](../../../countries/EG/sights/unfinished-obelisk.yaml) | 8.4 / 9.0 / 9.1 / 8.2 / 7.6 | Different monumental stone-working evidence. |
+| [EG/ramesseum](../../../countries/EG/sights/ramesseum.yaml) | 9.0 / 9.0 / 9.3 / 8.6 / 8.5 | More extensive temple remains. |
+| [EG/hatshepsut-temple](../../../countries/EG/sights/hatshepsut-temple.yaml) | 9.5 / 9.4 / 9.4 / 9.1 / 8.6 | Much broader architectural complex. |
+| [JO/petra-royal-tombs](../../../countries/JO/sights/petra-royal-tombs.yaml) | 9.0 / 9.1 / 9.0 / 8.8 / 8.2 | Different rock-cut funerary heritage. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental surviving statues. |
+| Uniqueness | 8.9 | Distinctive royal statuary at original temple site. |
+| Significance | 9.1 | Major New Kingdom historical context. |
+| Experience | 8.0 | Focused exterior visit. |
+| Depth | 6.9 | Short visit rather than extensive temple. |
+
+- Applicable categories: history:9.2, architecture:9.1, photography:9.2.
+- Computed worldwide overall: 86.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-elephantine-archaeological-site — Elephantine Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/elephantine-archaeological-site.yaml)
+- Action: new
+- Precise subject and limitations: Southern island archaeological precinct with ancient settlement, temple remains and nilometer; excludes modern island villages and resorts. Nearby museum access not guaranteed. UNESCO component 88-007.
+- Location check: 24.084611, 32.885944; [published representative point](https://whc.unesco.org/en/list/088/maps/), inspected 2026-11-27; not entrance coordinates. UNESCO DMS converted to decimal degrees where applicable.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [ministry reference](https://egymonuments.gov.eg/archaeological-sites/elephantine-1/); page or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/memphis](../../../countries/EG/sights/memphis.yaml) | 8.1 / 8.7 / 9.4 / 8.0 / 7.8 | Different ancient urban remains. |
+| [EG/saqqara](../../../countries/EG/sights/saqqara.yaml) | 9.5 / 9.6 / 9.8 / 9.2 / 9.5 | Far broader necropolis and monumental architecture. |
+| [JO/pella-archaeological-site](../../../countries/JO/sights/pella-archaeological-site.yaml) | 7.9 / 8.4 / 8.9 / 8.0 / 8.3 | Different multi-period settlement. |
+| [SA/dadan](../../../countries/SA/sights/dadan.yaml) | 8.4 / 8.7 / 8.8 / 8.0 / 7.7 | Different Arabian ancient settlement. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Layered temple and settlement remains. |
+| Uniqueness | 8.9 | Distinct ancient frontier and Nile measurement heritage. |
+| Significance | 9.2 | Important long settlement history. |
+| Experience | 8.5 | Ticketed archaeological visit. |
+| Depth | 8.7 | Several architectural and archaeological features. |
+
+- Applicable categories: history:9.4, culture:9.1, architecture:8.7.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-qubbet-el-hawa — Qubbet el-Hawa (Tombs of the Nobles, Aswan) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/qubbet-el-hawa.yaml)
+- Action: new
+- Precise subject and limitations: West-bank rock-cut cemetery and permitted Nile viewpoints; distinct from Elephantine and Luxor royal cemeteries. UNESCO component 88-006. Individual tomb access varies.
+- Location check: 24.103, 32.89025; [published representative point](https://whc.unesco.org/en/list/088/maps/), inspected 2026-11-27; not entrance coordinates. UNESCO DMS converted to decimal degrees where applicable.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [ministry reference](https://egymonuments.gov.eg/en/archaeological-sites/qubbat-al-hawa-cemetery-1/); page or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/valley-of-the-kings](../../../countries/EG/sights/valley-of-the-kings.yaml) | 9.6 / 9.8 / 9.9 / 9.3 / 9.4 | More extensive royal burial ensemble. |
+| [EG/valley-of-the-queens](../../../countries/EG/sights/valley-of-the-queens.yaml) | 9.1 / 9.3 / 9.4 / 8.9 / 8.7 | Different royal funerary art. |
+| [JO/petra-royal-tombs](../../../countries/JO/sights/petra-royal-tombs.yaml) | 9.0 / 9.1 / 9.0 / 8.8 / 8.2 | Different rock-cut architecture. |
+| [SA/hegra](../../../countries/SA/sights/hegra.yaml) | 9.3 / 9.3 / 9.2 / 8.9 / 8.7 | Broader monumental tomb landscape. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Rock-cut tombs overlooking Nile. |
+| Uniqueness | 8.9 | Distinct provincial funerary corpus. |
+| Significance | 9.2 | Major Old and Middle Kingdom historical evidence. |
+| Experience | 8.5 | Ticketed hillside visit. |
+| Depth | 8.2 | Several tombs, limited accessible interiors. |
+
+- Applicable categories: history:9.4, architecture:8.9, photography:9.0.
+- Computed worldwide overall: 87.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-new-kalabsha — New Kalabsha Temple Complex — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/new-kalabsha.yaml)
+- Action: new
+- Precise subject and limitations: Relocated temple complex at New Kalabsha, including adjacent monuments within UNESCO component 88-004 where open. Excludes other Lake Nasser temple groups. Boat access and individual chapel access vary.
+- Location check: 23.960878, 32.86695; [published representative point](https://whc.unesco.org/en/list/088/maps/), inspected 2026-11-27; not entrance coordinates. UNESCO DMS converted to decimal degrees where applicable.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [ministry reference](https://egymonuments.gov.eg/monuments/kalabsha-temple); page or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/philae](../../../countries/EG/sights/philae.yaml) | 9.4 / 9.4 / 9.4 / 9.2 / 8.8 | Larger and more iconic island temple experience. |
+| [EG/kom-ombo](../../../countries/EG/sights/kom-ombo.yaml) | 8.9 / 9.1 / 9.0 / 8.8 / 8.3 | Different double temple architecture. |
+| [EG/edfu-temple](../../../countries/EG/sights/edfu-temple.yaml) | 9.4 / 9.3 / 9.4 / 9.2 / 8.8 | Better preserved large temple complex. |
+| [JO/petra-great-temple](../../../countries/JO/sights/petra-great-temple.yaml) | 8.5 / 8.6 / 8.9 / 8.5 / 8.0 | Different ancient sacred architectural remains. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Substantial temple architecture and lakeside setting. |
+| Uniqueness | 9.0 | Distinct Nubian and Graeco-Roman religious heritage. |
+| Significance | 9.2 | Important relocated multi-period monuments. |
+| Experience | 8.6 | Boat-access archaeological visit. |
+| Depth | 8.7 | Main temple and adjacent monuments. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.0.
+- Computed worldwide overall: 89.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-new-amada-temples — New Amada Temples and Tomb of Pennut — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/new-amada-temples.yaml)
+- Action: new
+- Precise subject and limitations: Relocated Amada and al-Derr temples and Pennut tomb in one visitor area. UNESCO component 88-002. Remote site; access arrangements and individual chamber opening vary.
+- Location check: 22.731139, 32.262611; [published representative point](https://whc.unesco.org/en/list/088/maps/), inspected 2026-11-27; not entrance coordinates. UNESCO DMS converted to decimal degrees where applicable.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [ministry reference](https://egymonuments.gov.eg/archaeological-sites/amada-temples/); page or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/abu-simbel](../../../countries/EG/sights/abu-simbel.yaml) | 9.8 / 9.8 / 9.7 / 9.3 / 8.8 | Much more monumental royal temples. |
+| [EG/dendera-temple](../../../countries/EG/sights/dendera-temple.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 8.8 | More extensive decorated temple. |
+| [EG/ramesseum](../../../countries/EG/sights/ramesseum.yaml) | 9.0 / 9.0 / 9.3 / 8.6 / 8.5 | Different royal mortuary setting. |
+| [SA/hegra](../../../countries/SA/sights/hegra.yaml) | 9.3 / 9.3 / 9.2 / 8.9 / 8.7 | Different monumental ancient heritage. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Decorated ancient sanctuaries. |
+| Uniqueness | 9.1 | Distinct relocated New Kingdom group. |
+| Significance | 9.3 | Major ancient Nubian historical evidence. |
+| Experience | 8.1 | Remote ticketed visit. |
+| Depth | 8.5 | Three related monuments. |
+
+- Applicable categories: history:9.4, architecture:9.0, culture:9.0.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-new-wadi-sebua — New Wadi al-Sebua Temple Complex — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/new-wadi-sebua.yaml)
+- Action: new
+- Precise subject and limitations: Relocated Wadi al-Sebua, Dakka and al-Maharraqa temples together, UNESCO component 88-003. Excludes original submerged locations and other relocated complexes. Remote access and opening vary.
+- Location check: 22.793194, 32.545361; [published representative point](https://whc.unesco.org/en/list/088/maps/), inspected 2026-11-27; not entrance coordinates. UNESCO DMS converted to decimal degrees where applicable.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [ministry reference](https://egymonuments.gov.eg/en/archaeological-sites/temples-of-wadi-al-sebua); page or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/abu-simbel](../../../countries/EG/sights/abu-simbel.yaml) | 9.8 / 9.8 / 9.7 / 9.3 / 8.8 | More monumental rock-cut temples. |
+| [EG/philae](../../../countries/EG/sights/philae.yaml) | 9.4 / 9.4 / 9.4 / 9.2 / 8.8 | More extensive iconic island temple visit. |
+| [EG/kom-ombo](../../../countries/EG/sights/kom-ombo.yaml) | 8.9 / 9.1 / 9.0 / 8.8 / 8.3 | More concentrated double temple. |
+| [JO/petra-great-temple](../../../countries/JO/sights/petra-great-temple.yaml) | 8.5 / 8.6 / 8.9 / 8.5 / 8.0 | Different ancient sacred complex. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Sphinx avenue and temple architecture. |
+| Uniqueness | 9.0 | Distinct group of relocated temples. |
+| Significance | 9.2 | Important New Kingdom and later Nubian heritage. |
+| Experience | 8.2 | Remote visitor experience. |
+| Depth | 8.6 | Three different religious monuments. |
+
+- Applicable categories: history:9.4, architecture:9.1, photography:8.9.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-st-simeon-monastery-aswan — Monastery of St Simeon (Anba Hadra) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/st-simeon-monastery-aswan.yaml)
+- Action: new
+- Precise subject and limitations: Medieval two-terrace Coptic monastic ruins, UNESCO component 88-009. Distinct from Qubbet el-Hawa and Elephantine. Ministry lists opening and tickets; safe access only.
+- Location check: 24.094722, 32.875917; [published representative point](https://whc.unesco.org/en/list/088/maps/), inspected 2026-11-27; not entrance coordinates. UNESCO DMS converted to decimal degrees where applicable.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [ministry reference](https://egymonuments.gov.eg/monuments/monastery-of-st-simeon/); page or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/saint-catherine-area](../../../countries/EG/sights/saint-catherine-area.yaml) | 9.2 / 9.4 / 9.5 / 8.7 / 9.0 | Broader active sacred mountain landscape. |
+| [EG/hanging-church](../../../countries/EG/sights/hanging-church.yaml) | 8.6 / 8.8 / 9.1 / 8.5 / 8.1 | Different active urban Coptic architecture. |
+| [JO/karak-castle](../../../countries/JO/sights/karak-castle.yaml) | 8.8 / 8.7 / 9.0 / 8.7 / 8.6 | Different large medieval fortified complex. |
+| [OM/bahla-fort](../../../countries/OM/sights/bahla-fort.yaml) | 8.8 / 8.8 / 9.2 / 8.6 / 8.5 | Different defensive heritage. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Large fortified monastic ruins. |
+| Uniqueness | 8.9 | Distinct desert monastic architecture on terraces. |
+| Significance | 9.1 | Important medieval religious heritage. |
+| Experience | 8.4 | Ticketed historical exploration. |
+| Depth | 8.5 | Church, cells and workshop remains. |
+
+- Applicable categories: history:9.3, architecture:9.0, culture:9.0.
+- Computed worldwide overall: 87.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-manial-palace-museum — Manial Palace Museum — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/manial-palace-museum.yaml)
+- Action: new
+- Precise subject and limitations: Prince Muhammad Ali palace ensemble and its permitted museum rooms and gardens, separate from Roda Nilometer. No assumption all rooms open.
+- Location check: 30.02771, 31.2291; [published representative point](https://mapcarta.com/36303536), inspected 2026-11-27; not entrance coordinates. UNESCO DMS converted to decimal degrees where applicable.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [ministry reference](https://egymonuments.gov.eg/en/museums/manial-palace-museum); page or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/museum-of-islamic-art-cairo](../../../countries/EG/sights/museum-of-islamic-art-cairo.yaml) | 8.8 / 9.1 / 9.3 / 9.0 / 9.1 | Broader collection, different historic building. |
+| [EG/nmec](../../../countries/EG/sights/nmec.yaml) | 9.1 / 9.4 / 9.5 / 9.1 / 8.8 | Broader national narrative. |
+| [OM/jabrin-castle](../../../countries/OM/sights/jabrin-castle.yaml) | 8.6 / 8.5 / 8.7 / 8.6 / 8.2 | Different historic palace and fort architecture. |
+| [SA/ithra-cultural-centre](../../../countries/SA/sights/ithra-cultural-centre.yaml) | 8.9 / 9.0 / 8.5 / 8.9 / 9.0 | Different contemporary cultural complex. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Richly decorated palace interiors. |
+| Uniqueness | 8.9 | Distinct combination of Islamic architectural traditions. |
+| Significance | 8.8 | Significant modern Egyptian royal heritage. |
+| Experience | 8.8 | Varied museum and garden visit. |
+| Depth | 8.9 | Multiple buildings and collections. |
+
+- Applicable categories: architecture:9.3, history:9.0, culture:9.1, photography:9.0.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

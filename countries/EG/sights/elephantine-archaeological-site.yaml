@@ -1,0 +1,16 @@
+id: sight-eg-elephantine-archaeological-site
+name: "Elephantine Archaeological Site"
+location:
+  country_code: EG
+  latitude: 24.084611
+  longitude: 32.885944
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.4
+    culture: 9.1
+    architecture: 8.7

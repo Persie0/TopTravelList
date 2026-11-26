@@ -586,3 +586,16 @@ Six additions and 24 peer comparisons. Saudi Arabia 64 ranked / 70 total; six pr
 - [x] EG — Unfinished Obelisk and Ancient Granite Quarry: 85.80/100 (source-linked-unverified).
 
 Nine additions and 36 peer comparisons. Egypt 51 ranked / 51 total. Ministry site confirms independently visitable Theban components; existing parent records retained, no duplicate physical scope across new component rows. Ancient Thebes review's earlier unassessed decision conflicts with current ranked parent; flag for consistency review, not changed here. Wadi El Rayan excludes Whale Valley, Siwa salt pools exclude archaeological area. Siwa pools representative point independently matched to Commons geotag; exact access variable. Further candidates: Colossi of Memnon, Elephantine, Qubbet el-Hawa, Kalabsha, Amada, Wadi Sebua, Manial Palace, significant Sinai and Red Sea nature sites; prioritize independently visitable highlights. Full Python validation and individual peer YAML checks pending.
+
+### Pass 55 — Egyptian Theban and Nubian components
+
+- [x] EG — Colossi of Memnon: 86.35/100 (source-linked-unverified).
+- [x] EG — Elephantine Archaeological Site: 87.60/100 (source-linked-unverified).
+- [x] EG — Qubbet el-Hawa (Tombs of the Nobles, Aswan): 87.40/100 (source-linked-unverified).
+- [x] EG — New Kalabsha Temple Complex: 89.50/100 (source-linked-unverified).
+- [x] EG — New Amada Temples and Tomb of Pennut: 87.80/100 (source-linked-unverified).
+- [x] EG — New Wadi al-Sebua Temple Complex: 88.20/100 (source-linked-unverified).
+- [x] EG — Monastery of St Simeon (Anba Hadra): 87.35/100 (source-linked-unverified).
+- [x] EG — Manial Palace Museum: 88.65/100 (source-linked-unverified).
+
+Eight additions and 32 peer comparisons. Egypt 59 ranked / 59 total. Six Nubian component coordinates from [UNESCO geographical inventory](https://whc.unesco.org/en/list/088/maps/) converted from DMS; colocated relocated temples grouped by visitor complex. Nine of ten UNESCO Nubian component areas now represented separately; Islamic Cemetery remains to screen for distinct visitor experience and respectful access, not automatically add. Existing aggregate retained, no changes to earlier ratings. Next: major nature and marine sights (Ras Abu Galum, Nabq, Colored Canyon, Wadi El Gemal, Sataya reef, Giftun Islands, Ras Shitan, Great Sand Sea, Black Desert), then other substantial missing Cairo and regional archaeology. Full Python validation and individual peer YAML checks pending.
