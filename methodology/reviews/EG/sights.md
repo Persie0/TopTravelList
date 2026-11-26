@@ -1635,3 +1635,345 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-eg-ras-abu-galum — Ras Abu Galum Protected Area — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/ras-abu-galum.yaml)
+- Action: new
+- Precise subject and limitations: Coastal mountains, designated trails and permitted reef visits beyond the separately ranked Dahab Blue Hole. Government booking portal https://parks.moenv.gov.eg/booking lists Abu Galum; https://www.lonelyplanet.com/points-of-interest/ras-abu-gallum-protectorate/1453519 documents walking and snorkelling. Representative mapped locality, not protected-area entrance.
+- Location check: 28.632, 34.557; [published representative point](https://mapcarta.com/Ras_Abu_Galum), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://sis.gov.eg/en/egypt/tourism/environmental-tourism/abu-galum-natural-reserve/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/ras-mohammed](../../../countries/EG/sights/ras-mohammed.yaml) | 9.4 / 9.3 / 9.2 / 9.3 / 9.0 | Broader flagship marine conservation experience. |
+| [EG/dahab-blue-hole](../../../countries/EG/sights/dahab-blue-hole.yaml) | 8.8 / 8.8 / 8.3 / 8.5 / 8.0 | More concentrated separate dive site. |
+| [OM/daymaniyat-islands-nature-reserve](../../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 8.6 | Different offshore reef reserve. |
+| [JO/aqaba-marine-reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | Different marine-focused reserve. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Mountain and sea contrast. |
+| Uniqueness | 8.8 | Distinct connected coastal and desert habitats. |
+| Significance | 8.8 | Regional protected biodiversity. |
+| Experience | 8.8 | Guided walks and permitted marine recreation. |
+| Depth | 8.7 | Several coastal and land experiences. |
+
+- Applicable categories: nature:9.2, wildlife:9.0, adventure:9.1, photography:9.1.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-nabq-protected-area — Nabq Protected Area — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/nabq-protected-area.yaml)
+- Action: new
+- Precise subject and limitations: Mangroves, coastal desert and permitted marine and birdwatching areas, excluding Sharm resort beaches. Published KBA center, not entrance; national parks booking portal lists Nabq. Restricted zones and wildlife encounters not guaranteed.
+- Location check: 28.2667, 34.4333; [published representative point](https://www.keybiodiversityareas.org/en/site/factsheet/6208/site), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://sis.gov.eg/en/egyptians-abroad-portal/discover-egypt/nature-reserves/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/ras-mohammed](../../../countries/EG/sights/ras-mohammed.yaml) | 9.4 / 9.3 / 9.2 / 9.3 / 9.0 | More extensive established reef visitor experience. |
+| [OM/bar-al-hikman-proposed-nature-reserve](../../../countries/OM/sights/bar-al-hikman-proposed-nature-reserve.yaml) | 8.5 / 8.8 / 9.1 / 8.5 / 8.3 | Different coastal bird habitats. |
+| [AE/dubai-desert-conservation-reserve](../../../countries/AE/sights/dubai-desert-conservation-reserve.yaml) | 8.7 / 8.4 / 8.5 / 8.7 / 8.6 | Different inland desert landscape. |
+| [JO/azraq-wetland-reserve](../../../countries/JO/sights/azraq-wetland-reserve.yaml) | 7.8 / 8.4 / 8.7 / 8.0 / 7.8 | Different freshwater wetland. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Distinctive mangrove and desert shore. |
+| Uniqueness | 8.8 | Unusual arid mangrove habitat combination. |
+| Significance | 8.9 | Important coastal ecosystem. |
+| Experience | 8.3 | Permitted scenic and wildlife visits. |
+| Depth | 8.6 | Multiple ecosystems. |
+
+- Applicable categories: nature:9.1, wildlife:9.0, photography:8.8.
+- Computed worldwide overall: 86.35/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-colored-canyon — Colored Canyon (Nuweiba) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/colored-canyon.yaml)
+- Action: new
+- Precise subject and limitations: Original Nuweiba sandstone canyon, not Salama Canyon. Operator https://www.egypttoursplus.com/colored-canyon-egypt/ confirms same coordinates, separate guide https://iqvel.com/en/a/Egypt/Colored-Canyon-of-Sinai provides nearby point. Access must be checked with local licensed guide, including closures and flood risk.
+- Location check: 29.14611, 34.5948611; [published representative point](https://en.wikipedia.org/wiki/Coloured_Canyon), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.etaa-egypt.org/SitePages/AboutEgyptInfoEn.aspx?id=1); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/wadi-bani-awf-snake-canyon](../../../countries/OM/sights/wadi-bani-awf-snake-canyon.yaml) | 9.0 / 8.9 / 8.0 / 8.8 / 8.8 | Different technical canyon and valley scope. |
+| [JO/wadi-rum-khazali-canyon](../../../countries/JO/sights/wadi-rum-khazali-canyon.yaml) | 8.5 / 8.6 / 8.5 / 8.4 / 7.2 | Different sandstone canyon and inscriptions. |
+| [SA/wadi-disah](../../../countries/SA/sights/wadi-disah.yaml) | 9.1 / 8.7 / 7.8 / 8.5 / 8.3 | Larger scenic valley. |
+| [EG/white-desert](../../../countries/EG/sights/white-desert.yaml) | 9.5 / 9.5 / 8.9 / 9.0 / 8.7 | Broader and more unusual desert landforms. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Remarkable layered sandstone. |
+| Uniqueness | 9.0 | Distinct sculptural and colored passages. |
+| Significance | 8.0 | Regional geological significance. |
+| Experience | 8.7 | Focused guided hike where permitted. |
+| Depth | 7.8 | Compact canyon rather than extensive reserve. |
+
+- Applicable categories: nature:9.1, photography:9.4, adventure:9.0.
+- Computed worldwide overall: 86.95/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-wadi-el-gemal-national-park — Wadi El Gemal National Park — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/wadi-el-gemal-national-park.yaml)
+- Action: new
+- Precise subject and limitations: Terrestrial and coastal park visitor zones including mangroves and permitted reefs; https://www.abughosoun.org/wgnp/ documents beaches, reef visits and park scope. Excludes separately ranked reefs outside park; no unrestricted access, wildlife guarantee or resort stays. Map polygon representative point.
+- Location check: 24.524, 35.284; [published representative point](https://mapcarta.com/Wadi_El_Gemal_National_Park), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://parks.moenv.gov.eg/booking); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/ras-mohammed](../../../countries/EG/sights/ras-mohammed.yaml) | 9.4 / 9.3 / 9.2 / 9.3 / 9.0 | Stronger established marine flagship. |
+| [OM/daymaniyat-islands-nature-reserve](../../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 8.6 | More focused offshore reef experience. |
+| [JO/dana-biosphere-reserve](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | Different extensive terrestrial reserve. |
+| [SA/sharaan-nature-reserve](../../../countries/SA/sights/sharaan-nature-reserve.yaml) | 9.0 / 8.9 / 8.8 / 8.7 / 8.8 | Different desert conservation landscape. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Extensive dramatic desert-coastal terrain. |
+| Uniqueness | 9.0 | Distinct integrated marine and terrestrial environments. |
+| Significance | 9.1 | Important conservation landscape. |
+| Experience | 8.8 | Multiple permitted land and marine excursions. |
+| Depth | 9.1 | Large diverse visitor landscape. |
+
+- Applicable categories: nature:9.3, wildlife:9.3, adventure:9.1, photography:9.2.
+- Computed worldwide overall: 90.30/100.
+- High-score challenge: 90+ challenge: exceptional combination of marine and terrestrial habitats and broad visit scope; below Ras Mohammed in established visitor experience. No guarantee of access to entire park.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-sataya-reef — Sataya Reef (Dolphin Reef) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/sataya-reef.yaml)
+- Action: new
+- Precise subject and limitations: Offshore reef and authorized low-impact marine excursions. Research https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.5565 documents dolphin population and management. No scoring bonus for chasing, touching or guaranteed dolphin encounters; access, operator and sea conditions vary. Reef centroid, not boat departure point.
+- Location check: 24.16568, 35.69421; [published representative point](https://mapcarta.com/W981549823), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.padi.com/dive-site/egypt/sataya-reef-dolphin-house-marsa-alam-divesite/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/ras-mohammed](../../../countries/EG/sights/ras-mohammed.yaml) | 9.4 / 9.3 / 9.2 / 9.3 / 9.0 | More extensive marine protected landscape. |
+| [OM/daymaniyat-islands-nature-reserve](../../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 8.6 | Broader island and reef ecosystem. |
+| [JO/aqaba-marine-reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | Broader coastal reef network. |
+| [AE/snoopy-island-reef](../../../countries/AE/sights/snoopy-island-reef.yaml) | 8.4 / 8.4 / 7.7 / 8.6 / 7.8 | Smaller nearshore reef. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Attractive reef and lagoon. |
+| Uniqueness | 8.9 | Distinct marine wildlife habitat. |
+| Significance | 8.7 | Important local dolphin habitat. |
+| Experience | 8.8 | Guided low-impact marine visits. |
+| Depth | 8.0 | Focused offshore reef visit. |
+
+- Applicable categories: nature:9.1, wildlife:9.3, adventure:9.0.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-giftun-islands — Giftun Islands and Surrounding Reefs — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/giftun-islands.yaml)
+- Action: new
+- Precise subject and limitations: Island beaches and authorized adjacent reef excursions, excludes independent offshore dive sites and separately branded beach concessions as separate entries. Tourism guide documents boat visits; https://hurghadasnorkeling.guide/giftun-island/ distinguishes beach and reef access. No wildlife or safe swimming guarantee.
+- Location check: 27.22381, 33.9282; [published representative point](https://mapcarta.com/13055798), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egypter.com/en/places/giftun-islands/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/daymaniyat-islands-nature-reserve](../../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 8.6 | Greater protected wildlife significance. |
+| [SA/farasan-islands](../../../countries/SA/sights/farasan-islands.yaml) | 8.5 / 8.4 / 8.2 / 8.2 / 8.3 | Broader island landscape. |
+| [OM/bandar-khayran-bay](../../../countries/OM/sights/bandar-khayran-bay.yaml) | 8.9 / 8.7 / 8.1 / 8.9 / 8.6 | Different rocky inlet experience. |
+| [AE/saadiyat-beach](../../../countries/AE/sights/saadiyat-beach.yaml) | 8.3 / 7.7 / 6.5 / 8.8 / 7.4 | Different shore-based recreation. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | White sand and turquoise sea. |
+| Uniqueness | 8.4 | Distinct regional island landscape but comparable beach islands. |
+| Significance | 7.8 | Regional marine conservation interest. |
+| Experience | 8.9 | Varied boat and beach activities. |
+| Depth | 8.5 | Several island and reef experiences. |
+
+- Applicable categories: beaches:9.2, nature:8.9, adventure:8.9, photography:9.1.
+- Computed worldwide overall: 84.85/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-abu-dabbab-bay — Abu Dabbab Bay and House Reef — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/abu-dabbab-bay.yaml)
+- Action: new
+- Precise subject and limitations: Bay, beach and permitted nearshore reef visits; excludes separate numbered offshore Abu Dabbab reefs. Chamber of Diving and Watersports https://www.cdws.travel/divesites/marsa-alam confirms bay visitor experience. Coordinate corroborated by https://maaleam.com/en/eg/marsa-alam/abu-dabbab-bay. Observe marine wildlife without disturbance, respect seagrass exclusions; no guaranteed encounters.
+- Location check: 25.3386, 34.7397; [published representative point](https://egyptxdiving.com/dive-site/marsa-abu-dabbab-marsa-alam), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.abudabbab.com/house-reef); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/dahab-blue-hole](../../../countries/EG/sights/dahab-blue-hole.yaml) | 8.8 / 8.8 / 8.3 / 8.5 / 8.0 | Different dramatic dive formation. |
+| [JO/aqaba-marine-reserve](../../../countries/JO/sights/aqaba-marine-reserve.yaml) | 8.9 / 9.2 / 9.4 / 9.1 / 8.8 | Broader coastal reef scope. |
+| [OM/ras-al-jinz-turtle-reserve](../../../countries/OM/sights/ras-al-jinz-turtle-reserve.yaml) | 8.6 / 8.8 / 8.9 / 8.4 / 7.3 | Different nesting-focused wildlife experience. |
+| [AE/snoopy-island-reef](../../../countries/AE/sights/snoopy-island-reef.yaml) | 8.4 / 8.4 / 7.7 / 8.6 / 7.8 | Smaller focused reef. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Attractive coastal reef and sandy bay. |
+| Uniqueness | 8.8 | Distinct accessible seagrass and reef combination. |
+| Significance | 8.5 | Regional turtle and dugong habitat. |
+| Experience | 8.9 | Varied permitted marine visits. |
+| Depth | 8.2 | Compact bay and reef. |
+
+- Applicable categories: nature:9.1, wildlife:9.2, adventure:9.0, beaches:8.8.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-great-sand-sea-siwa — Great Sand Sea (Siwa Dune Excursions) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/great-sand-sea-siwa.yaml)
+- Action: new
+- Precise subject and limitations: Egyptian northern dune visitor sector accessed from Siwa, not entire transboundary erg or separately ranked salt pools and archaeology. Locator is published broad dune reference, not a route or entrance. Licensed guides and current permits required; no unrestricted border-region access.
+- Location check: 29.0407, 25.4441; [published representative point](https://www.maploco.com/top-attractions/siwa/great-sand-sea/), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://map.thisis-egypt.com/place/great-sand-sea); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/rub-al-khali](../../../countries/SA/sights/rub-al-khali.yaml) | 9.2 / 9.3 / 8.7 / 8.3 / 8.7 | Broader major desert landscape. |
+| [OM/sharqiya-sands-wahiba-sands](../../../countries/OM/sights/sharqiya-sands-wahiba-sands.yaml) | 9.3 / 9.0 / 8.1 / 9.2 / 8.7 | Comparable guided dune experiences. |
+| [AE/liwa-oasis-and-dune-landscape](../../../countries/AE/sights/liwa-oasis-and-dune-landscape.yaml) | 9.3 / 9.0 / 8.2 / 9.0 / 8.9 | Different large dune and oasis scope. |
+| [EG/white-desert](../../../countries/EG/sights/white-desert.yaml) | 9.5 / 9.5 / 8.9 / 9.0 / 8.7 | More unusual chalk formations. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Immense dune panoramas. |
+| Uniqueness | 8.9 | Distinct extensive Saharan dune field. |
+| Significance | 8.1 | Regional geomorphological interest. |
+| Experience | 8.9 | Guided desert excursion when permitted. |
+| Depth | 8.5 | Multiple dunes and landscape features. |
+
+- Applicable categories: nature:9.2, photography:9.4, adventure:9.2.
+- Computed worldwide overall: 87.90/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-black-desert — Black Desert (Bahariya) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/black-desert.yaml)
+- Action: new
+- Precise subject and limitations: Black-capped hills and desert plains between Bahariya and Farafra, separate from White Desert chalk landscapes. Visitor context https://cairo-calling.com/en/monuments/black-desert. Regional reference point, not a trailhead. Guided permitted access only where appropriate.
+- Location check: 28.150711, 28.728561; [published representative point](https://en.wikipedia.org/wiki/Black_Desert_%28Egypt%29), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.etaa-egypt.org/SitePages/AboutEgyptInfoEn.aspx?id=1); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/white-desert](../../../countries/EG/sights/white-desert.yaml) | 9.5 / 9.5 / 8.9 / 9.0 / 8.7 | More distinctive chalk formations and protected visitor landscape. |
+| [SA/al-wahbah-crater](../../../countries/SA/sights/al-wahbah-crater.yaml) | 8.7 / 8.6 / 7.8 / 8.1 / 7.4 | Different singular volcanic feature. |
+| [SA/al-gharameel-nature-reserve](../../../countries/SA/sights/al-gharameel-nature-reserve.yaml) | 9.1 / 9.2 / 8.7 / 8.8 / 8.5 | Different sandstone and night sky landscape. |
+| [EG/wadi-el-rayan](../../../countries/EG/sights/wadi-el-rayan.yaml) | 8.7 / 8.5 / 8.1 / 8.6 / 8.6 | Different lake and dune experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Contrasting dark hills and pale desert. |
+| Uniqueness | 8.8 | Distinct volcanic-origin rock landscape. |
+| Significance | 8.0 | Regional geological interest. |
+| Experience | 8.4 | Scenic desert excursion. |
+| Depth | 8.1 | Several hills and broad landscape. |
+
+- Applicable categories: nature:9.0, photography:9.2, adventure:8.8.
+- Computed worldwide overall: 85.10/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

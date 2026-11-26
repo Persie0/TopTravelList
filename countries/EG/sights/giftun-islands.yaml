@@ -1,0 +1,17 @@
+id: sight-eg-giftun-islands
+name: "Giftun Islands and Surrounding Reefs"
+location:
+  country_code: EG
+  latitude: 27.22381
+  longitude: 33.9282
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    beaches: 9.2
+    nature: 8.9
+    adventure: 8.9
+    photography: 9.1

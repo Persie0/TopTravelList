@@ -1,0 +1,16 @@
+id: sight-eg-great-sand-sea-siwa
+name: "Great Sand Sea (Siwa Dune Excursions)"
+location:
+  country_code: EG
+  latitude: 29.0407
+  longitude: 25.4441
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.1
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 9.2

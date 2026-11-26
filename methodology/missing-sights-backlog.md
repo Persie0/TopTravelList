@@ -599,3 +599,17 @@ Nine additions and 36 peer comparisons. Egypt 51 ranked / 51 total. Ministry sit
 - [x] EG — Manial Palace Museum: 88.65/100 (source-linked-unverified).
 
 Eight additions and 32 peer comparisons. Egypt 59 ranked / 59 total. Six Nubian component coordinates from [UNESCO geographical inventory](https://whc.unesco.org/en/list/088/maps/) converted from DMS; colocated relocated temples grouped by visitor complex. Nine of ten UNESCO Nubian component areas now represented separately; Islamic Cemetery remains to screen for distinct visitor experience and respectful access, not automatically add. Existing aggregate retained, no changes to earlier ratings. Next: major nature and marine sights (Ras Abu Galum, Nabq, Colored Canyon, Wadi El Gemal, Sataya reef, Giftun Islands, Ras Shitan, Great Sand Sea, Black Desert), then other substantial missing Cairo and regional archaeology. Full Python validation and individual peer YAML checks pending.
+
+### Pass 56 — Egypt marine and desert highlights
+
+- [x] EG — Ras Abu Galum Protected Area: 88.20/100 (source-linked-unverified).
+- [x] EG — Nabq Protected Area: 86.35/100 (source-linked-unverified).
+- [x] EG — Colored Canyon (Nuweiba): 86.95/100 (source-linked-unverified).
+- [x] EG — Wadi El Gemal National Park: 90.30/100 (source-linked-unverified).
+- [x] EG — Sataya Reef (Dolphin Reef): 87.25/100 (source-linked-unverified).
+- [x] EG — Giftun Islands and Surrounding Reefs: 84.85/100 (source-linked-unverified).
+- [x] EG — Abu Dabbab Bay and House Reef: 86.65/100 (source-linked-unverified).
+- [x] EG — Great Sand Sea (Siwa Dune Excursions): 87.90/100 (source-linked-unverified).
+- [x] EG — Black Desert (Bahariya): 85.10/100 (source-linked-unverified).
+
+Nine additions and 36 peer comparisons. Egypt 68 ranked / 68 total. Government booking inventory confirms Nabq, Abu Galum and Wadi El Gemal visitor scope. Ras Shitan deferred as predominantly separate camp and private beach experiences (https://www.sinai.online/en/places/ras-sinai-camp-ayash-beach), no quota-driven additions. Colored Canyon true site distinguished from similarly marketed Salama Canyon, verify access. Great Sand Sea limited to permitted Siwa dune excursions. Sataya and Abu Dabbab score habitats and authorized experiences without wildlife encounter promises. Next screen major Cairo and regional archaeology: Sultan Hassan and al-Rifa'i, Al-Muizz Street, Gayer-Anderson Museum, Al-Azhar Park, Baron Empain Palace, Meidum, Beni Hasan, Tell el-Amarna and Tuna el-Gebel; Islamic Cemetery respectful public visitor scope unresolved. Full Python validation and individual peer YAML checks pending.
