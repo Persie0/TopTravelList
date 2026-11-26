@@ -1,0 +1,16 @@
+id: sight-pm-cap-miquelon
+name: "Cap de Miquelon and Cormorandière Valley"
+location:
+  country_code: PM
+  latitude: 47.143
+  longitude: -56.375
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.5
+  depth: 8.3
+  categories:
+    nature: 8.7
+    photography: 8.9
+    adventure: 8.4

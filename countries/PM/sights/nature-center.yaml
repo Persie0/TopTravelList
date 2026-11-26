@@ -1,0 +1,15 @@
+id: sight-pm-nature-center
+name: "Maison de la Nature et de l’Environnement (Miquelon)"
+location:
+  country_code: PM
+  latitude: 47.104
+  longitude: -56.379
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.3
+  depth: 7.9
+  categories:
+    nature: 8.5
+    family: 8.4
