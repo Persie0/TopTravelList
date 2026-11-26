@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14682; unassessed: 1587.
+Ranked: 14691; unassessed: 1578.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 325 |
+| conflicting-declared-status | 334 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1587 |
+| incomplete-core | 1578 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1778 |
+| overall-90-plus | 1782 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 46 |
 | shared-representative-gps | 242 |
@@ -245,7 +245,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IS | cities | 15 | 15 | 80.20 | 0 | 0 | 0 | 15 | [Reykjavík](../../countries/IS/cities/reykjavik.yaml) 86.65; [Vestmannaeyjabær (Heimaey)](../../countries/IS/cities/vestmannaeyjabaer.yaml) 83.30; [Seyðisfjörður](../../countries/IS/cities/seydisfjordur.yaml) 82.35 |
 | IS | sights | 56 | 47 | 87.45 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
 | IT | cities | 25 | 25 | 89.85 | 12 | 3 | 13 | 25 | [Rome](../../countries/IT/cities/rome.yaml) 97.30; [Venice](../../countries/IT/cities/venice.yaml) 96.50; [Florence](../../countries/IT/cities/florence.yaml) 95.55 |
-| IT | sights | 134 | 111 | 90.95 | 76 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
+| IT | sights | 134 | 120 | 90.90 | 80 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
 | JE | cities | 4 | 4 | 81.75 | 0 | 0 | 0 | 4 | [St Helier](../../countries/JE/cities/st-helier.yaml) 83.35; [St Aubin](../../countries/JE/cities/st-aubin.yaml) 81.85; [Gorey harbour village](../../countries/JE/cities/gorey.yaml) 81.65 |
 | JE | sights | 22 | 22 | 82.90 | 0 | 0 | 0 | 22 | [Mont Orgueil Castle](../../countries/JE/sights/mont-orgueil.yaml) 88.90; [La Hougue Bie passage grave and museum](../../countries/JE/sights/la-hougue-bie.yaml) 88.75; [Elizabeth Castle](../../countries/JE/sights/elizabeth-castle.yaml) 88.55 |
 | JM | cities | 11 | 11 | 77.15 | 0 | 0 | 0 | 11 | [Kingston](../../countries/JM/cities/kingston.yaml) 86.55; [Falmouth](../../countries/JM/cities/falmouth.yaml) 80.65; [Port Antonio](../../countries/JM/cities/port-antonio.yaml) 79.90 |
