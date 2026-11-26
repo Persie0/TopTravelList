@@ -329,3 +329,7 @@ Ten individual decisions: nine missing-core profiles completed; one retained unr
 ## Ninth pass — second 100-record incomplete-core batch
 
 [Batch register](worldwide-incomplete-batch-100-pass9-2026-11-26.md): 100 distinct records, 9 newly complete ratings and 91 retained incomplete. Previously non-null fields/categories were not independently recalibrated. Source excerpts support missing experience and depth only. No travel recommendation or country multiplier, no new perfect scores. Generated rankings need refresh.
+
+## Tenth pass — third 100-record incomplete-core batch
+
+[Batch register](worldwide-incomplete-batch-100-pass10-2026-11-26.md): 100 distinct records, 15 newly complete ratings and 85 retained incomplete. Sources support missing-field judgments, with exact scope and four numeric peer links per completed record. Previously populated fields and categories not independently recalibrated. No new perfect scores or weight changes. Generated rankings require refresh.
