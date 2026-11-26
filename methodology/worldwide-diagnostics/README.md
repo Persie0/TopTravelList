@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14884; unassessed: 1385.
+Ranked: 14888; unassessed: 1381.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1385 |
+| incomplete-core | 1381 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -70,7 +70,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BF | sights | 35 | 11 | 83.25 | 1 | 0 | 1 | 35 | [Royal Court of Tiébélé](../../countries/BF/sights/royal-court-tiebele.yaml) 90.20; [Sindou Peaks](../../countries/BF/sights/sindou-peaks.yaml) 85.90; [Sya Historic Centre (Dioulassoba)](../../countries/BF/sights/sya-historic-centre.yaml) 85.60 |
 | BG | cities | 18 | 18 | 82.68 | 0 | 0 | 0 | 18 | [Plovdiv](../../countries/BG/cities/plovdiv.yaml) 89.00; [Veliko Tarnovo](../../countries/BG/cities/veliko-tarnovo.yaml) 88.00; [Nessebar](../../countries/BG/cities/nessebar.yaml) 86.95 |
 | BG | sights | 46 | 43 | 86.75 | 6 | 0 | 2 | 46 | [Rila Monastery](../../countries/BG/sights/rila-monastery.yaml) 92.40; [Pirin National Park](../../countries/BG/sights/pirin-national-park.yaml) 91.95; [Rila National Park](../../countries/BG/sights/rila-national-park.yaml) 91.30 |
-| BH | cities | 15 | 14 | 68.08 | 0 | 0 | 0 | 15 | [Muharraq](../../countries/BH/cities/muharraq.yaml) 84.95; [Manama](../../countries/BH/cities/manama.yaml) 83.35; [Aali](../../countries/BH/cities/aali.yaml) 73.90 |
+| BH | cities | 15 | 15 | 68.75 | 0 | 0 | 0 | 15 | [Muharraq](../../countries/BH/cities/muharraq.yaml) 84.95; [Manama](../../countries/BH/cities/manama.yaml) 83.35; [Awali](../../countries/BH/cities/awali.yaml) 75.05 |
 | BH | sights | 40 | 39 | 78.00 | 0 | 0 | 0 | 40 | [Qalat al-Bahrain Archaeological Site](../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) 89.60; [Pearling Path (Muharraq)](../../countries/BH/sights/pearling-path-muharraq.yaml) 88.05; [Dilmun Burial Mounds](../../countries/BH/sights/dilmun-burial-mounds.yaml) 85.25 |
 | BI | cities | 12 | 12 | 65.28 | 0 | 0 | 0 | 12 | [Bujumbura](../../countries/BI/cities/bujumbura.yaml) 75.50; [Gitega](../../countries/BI/cities/gitega.yaml) 72.55; [Rumonge](../../countries/BI/cities/rumonge.yaml) 70.90 |
 | BI | sights | 26 | 24 | 77.20 | 0 | 0 | 0 | 26 | [Lake Tanganyika (Burundian shore and visitor waters)](../../countries/BI/sights/lake-tanganyika-burundian-shore-and-visitor-waters.yaml) 87.60; [Gishora Royal Residence and Drum Sanctuary](../../countries/BI/sights/gishora-royal-residence-and-drum-sanctuary.yaml) 87.05; [Kibira National Park](../../countries/BI/sights/kibira-national-park.yaml) 85.45 |
@@ -94,7 +94,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BT | sights | 89 | 85 | 85.05 | 12 | 0 | 9 | 89 | [Paro Taktsang (Tiger's Nest)](../../countries/BT/sights/paro-taktsang-tigers-nest.yaml) 94.85; [Jigme Dorji National Park](../../countries/BT/sights/jigme-dorji-national-park.yaml) 94.05; [Snowman Trek](../../countries/BT/sights/snowman-trek.yaml) 94.00 |
 | BV | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | BV | sights | 1 | 0 |  | 0 | 0 | 0 | 1 |  |
-| BW | cities | 22 | 21 | 67.20 | 0 | 0 | 0 | 22 | [Kasane](../../countries/BW/cities/kasane.yaml) 75.20; [Maun](../../countries/BW/cities/maun.yaml) 74.05; [Serowe](../../countries/BW/cities/serowe.yaml) 73.60 |
+| BW | cities | 22 | 22 | 68.12 | 0 | 0 | 0 | 22 | [Kasane](../../countries/BW/cities/kasane.yaml) 75.20; [Maun](../../countries/BW/cities/maun.yaml) 74.05; [Serowe](../../countries/BW/cities/serowe.yaml) 73.60 |
 | BW | sights | 38 | 35 | 81.55 | 5 | 1 | 9 | 38 | [Okavango Delta](../../countries/BW/sights/okavango-delta.yaml) 97.80; [Chobe National Park](../../countries/BW/sights/chobe-national-park.yaml) 94.00; [Moremi Game Reserve](../../countries/BW/sights/moremi-game-reserve.yaml) 92.95 |
 | BY | cities | 14 | 14 | 81.35 | 0 | 0 | 0 | 14 | [Grodno (Hrodna)](../../countries/BY/cities/grodno.yaml) 86.00; [Minsk](../../countries/BY/cities/minsk.yaml) 85.25; [Vitebsk](../../countries/BY/cities/vitebsk.yaml) 84.15 |
 | BY | sights | 35 | 34 | 85.10 | 3 | 0 | 1 | 35 | [Białowieża Forest (Belarusian section)](../../countries/BY/sights/bialowieza-forest.yaml) 90.90; [Radziwill Palace and cultural complex at Nesvizh](../../countries/BY/sights/nesvizh-palace.yaml) 90.90; [Mir Castle Complex](../../countries/BY/sights/mir-castle.yaml) 90.30 |
@@ -112,13 +112,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CG | sights | 29 | 21 | 80.50 | 4 | 0 | 6 | 29 | [Odzala-Kokoua National Park (Forest Massif)](../../countries/CG/sights/odzala-kokoua-national-park-forest-massif.yaml) 94.15; [Nouabalé-Ndoki National Park (Sangha Trinational Congo component)](../../countries/CG/sights/nouabale-ndoki-national-park-sangha-trinational-congo-component.yaml) 93.35; [Ngaga Forest Gorilla Tracking (authorized routes)](../../countries/CG/sights/ngaga-forest-gorilla-tracking-authorized-routes.yaml) 90.60 |
 | CH | cities | 20 | 20 | 85.18 | 0 | 0 | 0 | 20 | [Bern](../../countries/CH/cities/bern.yaml) 89.50; [Lucerne](../../countries/CH/cities/lucerne.yaml) 88.20; [Basel](../../countries/CH/cities/basel.yaml) 87.75 |
 | CH | sights | 45 | 43 | 88.65 | 17 | 0 | 15 | 45 | [Swiss Alps Jungfrau-Aletsch](../../countries/CH/sights/jungfrau-aletsch.yaml) 94.90; [Matterhorn scenic mountain landscape (Swiss side)](../../countries/CH/sights/matterhorn.yaml) 93.30; [Rhaetian Railway Albula and Bernina landscapes (Swiss section)](../../countries/CH/sights/rhaetian-railway.yaml) 93.10 |
-| CI | cities | 10 | 9 | 79.20 | 0 | 0 | 0 | 10 | [Grand-Bassam](../../countries/CI/cities/grand-bassam.yaml) 85.15; [Abidjan](../../countries/CI/cities/abidjan.yaml) 84.85; [Kong](../../countries/CI/cities/kong.yaml) 79.90 |
+| CI | cities | 10 | 10 | 78.15 | 0 | 0 | 0 | 10 | [Grand-Bassam](../../countries/CI/cities/grand-bassam.yaml) 85.15; [Abidjan](../../countries/CI/cities/abidjan.yaml) 84.85; [Kong](../../countries/CI/cities/kong.yaml) 79.90 |
 | CI | sights | 20 | 12 | 85.68 | 1 | 0 | 2 | 20 | [Taï National Park](../../countries/CI/sights/tai-national-park.yaml) 93.45; [Comoé National Park](../../countries/CI/sights/comoe-national-park.yaml) 88.95; [Basilica of Our Lady of Peace](../../countries/CI/sights/basilica-our-lady-of-peace.yaml) 88.40 |
 | CK | cities | 4 | 4 | 77.48 | 0 | 0 | 0 | 4 | [Avarua (Rarotonga)](../../countries/CK/cities/avarua.yaml) 80.95; [Arutanga (Aitutaki)](../../countries/CK/cities/arutanga.yaml) 78.05; [Ngatangiia and Muri village](../../countries/CK/cities/ngatangiia-muri.yaml) 76.90 |
 | CK | sights | 18 | 15 | 84.25 | 1 | 0 | 0 | 18 | [Aitutaki Lagoon and permitted motu cruise circuit](../../countries/CK/sights/aitutaki-lagoon.yaml) 91.10; [Anatakitaki Cave and kopeka habitat (Atiu)](../../countries/CK/sights/anatakitaki-cave.yaml) 88.60; [Manihiki lagoon and black-pearl farming landscape](../../countries/CK/sights/manihiki-lagoon.yaml) 86.70 |
 | CL | cities | 33 | 33 | 74.90 | 0 | 0 | 0 | 33 | [Valparaíso](../../countries/CL/cities/valparaiso.yaml) 87.75; [Santiago](../../countries/CL/cities/santiago.yaml) 84.70; [Hanga Roa](../../countries/CL/cities/hanga-roa.yaml) 84.35 |
 | CL | sights | 67 | 64 | 85.88 | 8 | 2 | 33 | 67 | [Rapa Nui National Park](../../countries/CL/sights/rapa-nui-national-park.yaml) 96.90; [Torres del Paine National Park](../../countries/CL/sights/torres-del-paine-national-park.yaml) 96.25; [Rano Raraku](../../countries/CL/sights/rano-raraku.yaml) 94.55 |
-| CM | cities | 10 | 9 | 78.55 | 0 | 0 | 0 | 10 | [Foumban](../../countries/CM/cities/foumban.yaml) 83.15; [Limbe](../../countries/CM/cities/limbe.yaml) 80.10; [Douala](../../countries/CM/cities/douala.yaml) 79.75 |
+| CM | cities | 10 | 10 | 77.92 | 0 | 0 | 0 | 10 | [Foumban](../../countries/CM/cities/foumban.yaml) 83.15; [Limbe](../../countries/CM/cities/limbe.yaml) 80.10; [Douala](../../countries/CM/cities/douala.yaml) 79.75 |
 | CM | sights | 28 | 14 | 88.00 | 3 | 0 | 5 | 28 | [Lobéké National Park](../../countries/CM/sights/lobeke-national-park.yaml) 92.05; [Dja Faunal Reserve](../../countries/CM/sights/dja-faunal-reserve.yaml) 91.00; [Korup National Park](../../countries/CM/sights/korup-national-park.yaml) 90.50 |
 | CN | cities | 229 | 229 | 78.90 | 10 | 3 | 13 | 1 | [Beijing](../../countries/CN/cities/beijing.yaml) 97.40; [Lhasa](../../countries/CN/cities/lhasa.yaml) 95.40; [Xi'an](../../countries/CN/cities/xi-an.yaml) 95.20 |
 | CN | sights | 467 | 467 | 88.90 | 170 | 20 | 152 | 9 | [Forbidden City (Palace Museum)](../../countries/CN/sights/forbidden-city.yaml) 98.65; [Terracotta Army of Qin Shi Huang](../../countries/CN/sights/terracotta-army.yaml) 98.35; [Mount Huangshan (Yellow Mountain)](../../countries/CN/sights/mount-huangshan.yaml) 97.65 |

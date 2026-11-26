@@ -2,7 +2,7 @@
 
 # Cameroon (CM) — Cities, towns & villages ranking
 
-**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (9)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -22,15 +22,8 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 6 | [Maroua](cities/maroua.yaml) | City / town | **77.30** | **Culture 8.3** | 7.5 / 8.0 / 7.8 / 7.8 / 7.5 | [10.59095, 14.31593](https://www.google.com/maps/search/?api=1&query=10.59095,14.31593) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maroua%2C%20Cameroon) |
 | 7 | [Dschang](cities/dschang.yaml) | City / town | **77.15** | **Culture 8.4**, **History 8.0** | 7.6 / 7.8 / 7.7 / 7.9 / 7.6 | [5.443972, 10.053317](https://www.google.com/maps/search/?api=1&query=5.443972,10.053317) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dschang%2C%20Cameroon) |
 | 8 | [Buea](cities/buea.yaml) | City / town | **77.05** | **History 8.3**, **Photography 8.1** | 7.6 / 7.8 / 8.0 / 7.7 / 7.2 | [4.15342, 9.24231](https://www.google.com/maps/search/?api=1&query=4.15342,9.24231) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buea%2C%20Cameroon) |
-| 9 | [Bafoussam](cities/bafoussam.yaml) | City / town | **74.05** | **Culture 8.3** | 7.0 / 7.6 / 7.7 / 7.5 / 7.4 | [5.47775, 10.41759](https://www.google.com/maps/search/?api=1&query=5.47775,10.41759) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bafoussam%2C%20Cameroon) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Bamenda](cities/bamenda.yaml) | City / town | **—** | — | — / 7.8 / 7.8 / — / — | [5.9597, 10.14597](https://www.google.com/maps/search/?api=1&query=5.9597,10.14597) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bamenda%2C%20Cameroon) |
+| 9 | [Bamenda](cities/bamenda.yaml) | City / town | **76.20** | — | 7.5 / 7.8 / 7.8 / 7.6 / 7.2 | [5.9597, 10.14597](https://www.google.com/maps/search/?api=1&query=5.9597,10.14597) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bamenda%2C%20Cameroon) |
+| 10 | [Bafoussam](cities/bafoussam.yaml) | City / town | **74.05** | **Culture 8.3** | 7.0 / 7.6 / 7.7 / 7.5 / 7.4 | [5.47775, 10.41759](https://www.google.com/maps/search/?api=1&query=5.47775,10.41759) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bafoussam%2C%20Cameroon) |
 
 ---
 

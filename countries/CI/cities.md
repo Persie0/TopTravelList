@@ -2,7 +2,7 @@
 
 # Côte d'Ivoire (CI) — Cities, towns & villages ranking
 
-**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (9)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -23,14 +23,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 7 | [Man](cities/man.yaml) | City / town | **75.30** | **Culture 8.0**, **Photography 8.0** | 7.5 / 7.7 / 7.3 / 7.7 / 7.4 | [7.413, -7.554](https://www.google.com/maps/search/?api=1&query=7.413,-7.554) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Man%2C%20C%C3%B4te%20d%27Ivoire) |
 | 8 | [San-Pédro](cities/san-pedro.yaml) | City / town | **73.55** | — | 7.5 / 7.0 / 7.4 / 7.7 / 7.2 | [4.749, -6.636](https://www.google.com/maps/search/?api=1&query=4.749,-6.636) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San-P%C3%A9dro%2C%20C%C3%B4te%20d%27Ivoire) |
 | 9 | [Bouaké](cities/bouake.yaml) | City / town | **70.75** | — | 6.9 / 7.0 / 7.3 / 7.3 / 7.0 | [7.694, -5.03](https://www.google.com/maps/search/?api=1&query=7.694,-5.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bouak%C3%A9%2C%20C%C3%B4te%20d%27Ivoire) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Daloa](cities/daloa.yaml) | City / town | **—** | — | — / — / 7.1 / — / — | [6.877, -6.45](https://www.google.com/maps/search/?api=1&query=6.877,-6.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Daloa%2C%20C%C3%B4te%20d%27Ivoire) |
+| 10 | [Daloa](cities/daloa.yaml) | City / town | **70.70** | — | 6.8 / 7.2 / 7.1 / 7.4 / 7.0 | [6.877, -6.45](https://www.google.com/maps/search/?api=1&query=6.877,-6.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Daloa%2C%20C%C3%B4te%20d%27Ivoire) |
 
 ---
 
