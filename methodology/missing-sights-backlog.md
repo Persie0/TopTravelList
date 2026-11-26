@@ -561,3 +561,14 @@ Five additions and 20 peer comparisons. Saudi Arabia 53 ranked / 59 total; six e
 - [x] SA — Ushaiqer Heritage Village: 85.85/100 (source-linked-unverified).
 
 Five additions and 20 peer comparisons. Saudi Arabia 58 ranked / 64 total; six prior unassessed unchanged. Bujairi Terrace is a modern dining precinct with views of already-ranked At-Turaif (https://www.diriyah.sa/en/places-to-go/bujairi-terrace); excluded as insufficient distinct sightseeing scope for this screen. Khaybar bounded to guided visitor oasis and forts rather than regional archaeological property; Gharameel uses representative terrain point, not meeting point. Tarout exterior only due conflicting interior access, Faisaliah operator indexed listing but direct page 403. Remaining concrete candidates Dumat al-Jandal historic quarter, Shuwaymis rock art component if independently visitable, Jabal Shada and Taif Shubra Palace, plus Medina's major distinct heritage sites; screen bounded and rotate. Prior walled-oases review says unassessed but current ranked row exists: flag for consistency audit without overwriting ratings. Full Python validation and individual peer YAML checks pending.
+
+### Pass 53 — Saudi Arabia final regional heritage screen
+
+- [x] SA — Marid Castle and Dumat al-Jandal Historic Quarter: 85.90/100 (source-linked-unverified).
+- [x] SA — Shuwaymis Rock Art (Jabal Al-Manjor and Raat): 86.20/100 (source-linked-unverified).
+- [x] SA — Shada Al-Asfal Mountain Landscape: 85.65/100 (source-linked-unverified).
+- [x] SA — Mount Uhud and Historic Visitor Area: 86.35/100 (source-linked-unverified).
+- [x] SA — Seven Mosques (Al-Fath Cluster): 82.60/100 (source-linked-unverified).
+- [x] SA — Dar Al Madinah Museum: 84.25/100 (source-linked-unverified).
+
+Six additions and 24 peer comparisons. Saudi Arabia 64 ranked / 70 total; six prior unassessed unchanged. Shubra Palace deferred because restoration reported March 2026 and current reopening not established: https://saudi-travel-treasures.com/shubra-palace-in-taif/ and https://richexperience.sa/en/p/XwBR. Shuwaymis separate component follows existing Jubbah granularity; site access must be arranged. Shada lower mountain excludes upper protected component, Seven Mosques excludes Qiblatayn. Named remaining Saudi queue screened; close current discovery queue, reopen only on concrete new gaps or confirmed deferred access. Egypt next: 42 ranked records and obvious omitted major temple, museum, oasis and nature sights, e.g. Valley of the Queens, Ramesseum, Deir el-Medina, Wadi El Rayan, and Siwa natural salt lakes; verify exact scopes and access. Existing ratings unchanged; full Python validation and individual peer YAML checks pending.

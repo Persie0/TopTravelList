@@ -283,7 +283,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Samoa](countries/WS/) (`WS`) | [6](countries/WS/cities.md) | [22](countries/WS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Samoa) |
 | [San Marino](countries/SM/) (`SM`) | [14](countries/SM/cities.md) | [25](countries/SM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=San%20Marino) |
 | [Sao Tome and Principe](countries/ST/) (`ST`) | [12](countries/ST/cities.md) | [40](countries/ST/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Sao%20Tome%20and%20Principe) |
-| [Saudi Arabia](countries/SA/) (`SA`) | [18](countries/SA/cities.md) | [64](countries/SA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saudi%20Arabia) |
+| [Saudi Arabia](countries/SA/) (`SA`) | [18](countries/SA/cities.md) | [70](countries/SA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saudi%20Arabia) |
 | [Senegal](countries/SN/) (`SN`) | [8](countries/SN/cities.md) | [23](countries/SN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Senegal) |
 | [Serbia](countries/RS/) (`RS`) | [18](countries/RS/cities.md) | [43](countries/RS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Serbia) |
 | [Seychelles](countries/SC/) (`SC`) | [14](countries/SC/cities.md) | [49](countries/SC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Seychelles) |

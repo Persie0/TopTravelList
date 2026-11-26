@@ -2152,3 +2152,231 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-sa-dumat-al-jandal-marid-castle — Marid Castle and Dumat al-Jandal Historic Quarter — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/dumat-al-jandal-marid-castle.yaml)
+- Action: new
+- Precise subject and limitations: Castle and adjacent Al-Dar'i historic quarter, including permitted exterior views of historic mosque; excludes entire oasis archaeological landscape and distant wall remnants. IRCICA inventory warns of unsafe buildings, so only designated paths and permitted areas assumed. Castle restoration documented at https://saudipedia.com/en/marid-castle. Coordinate is heritage-quarter representative point.
+- Location check: 29.811186, 39.867053; [representative point source](https://www.islamicarchitecturalheritage.com/listings/al-der-district-in-dumat-al-jandal), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://saudipedia.com/en/what-are-the-historical-sites-located-in-dumat-al-jandal-in-al-jawf-province); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/at-turaif](../../../countries/SA/sights/at-turaif.yaml) | 8.7 / 8.8 / 9.1 / 8.6 / 8.3 | More extensive state-capital heritage. |
+| [SA/masmak-fortress](../../../countries/SA/sights/masmak-fortress.yaml) | 7.9 / 8.0 / 8.7 / 8.1 / 7.4 | More focused urban fort museum. |
+| [OM/nizwa-fort](../../../countries/OM/sights/nizwa-fort.yaml) | 8.8 / 8.6 / 8.8 / 8.9 / 8.3 | More established interpreted fort visit. |
+| [JO/karak-castle](../../../countries/JO/sights/karak-castle.yaml) | 8.8 / 8.7 / 9.0 / 8.7 / 8.6 | Larger medieval defensive complex. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Historic castle on hill and stone alleys. |
+| Uniqueness | 8.7 | Distinct northern Arabian fortified settlement. |
+| Significance | 8.9 | Important regional historic urban heritage. |
+| Experience | 8.3 | Bounded permitted heritage visit. |
+| Depth | 8.4 | Castle and several historic lanes. |
+
+- Applicable categories: history:9.2, architecture:8.9, culture:8.7, photography:8.8.
+- Computed worldwide overall: 85.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-shuwaymis-rock-art — Shuwaymis Rock Art (Jabal Al-Manjor and Raat) — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/shuwaymis-rock-art.yaml)
+- Action: new
+- Precise subject and limitations: Individual UNESCO component at Shuwaymis, not Jubbah or overall serial property. Archaeological research publishes coordinate; guided access described by https://content-frontend-prod.azurewebsites.net/en/article/outdoor-activities-near-hail-a-local-guide. Verify route, permission and guide before travel; no unsupervised contact with panels assumed.
+- Location check: 26.152364, 39.897978; [representative point source](https://www.sciencedirect.com/science/article/pii/S2352226715300015), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://whc.unesco.org/en/list/1472/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/jubbah-rock-art](../../../countries/SA/sights/jubbah-rock-art.yaml) | 8.2 / 8.8 / 9.0 / 7.9 / 7.5 | Sister component with more established visitor facilities. |
+| [SA/hail-rock-art](../../../countries/SA/sights/hail-rock-art.yaml) | 8.1 / 9.0 / 9.1 / 7.9 / 7.8 | Serial property, not individual visit. |
+| [SA/hima-cultural-area](../../../countries/SA/sights/hima-cultural-area.yaml) | 8.0 / 9.1 / 9.2 / 8.2 / 8.0 | Different broad inscription landscape. |
+| [SA/jabal-ikmah](../../../countries/SA/sights/jabal-ikmah.yaml) | 8.1 / 8.8 / 8.9 / 8.0 / 7.4 | Different concentrated ancient inscriptions. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Substantial engravings in desert terrain. |
+| Uniqueness | 9.2 | Exceptional multi-period rock art corpus. |
+| Significance | 9.3 | Internationally recognized archaeological significance. |
+| Experience | 7.8 | Remote guided visit with access limitations. |
+| Depth | 8.0 | Multiple rock art panels. |
+
+- Applicable categories: history:9.4, culture:9.0, photography:8.7.
+- Computed worldwide overall: 86.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-shada-al-asfal-mountain — Shada Al-Asfal Mountain Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/shada-al-asfal-mountain.yaml)
+- Action: new
+- Precise subject and limitations: Lower Shada range granite scenery, permitted walks and settlement/cave views, not protected upper Shada component of the Western Arabia serial property. Official tourism promotes mountain scenery; licensed operator https://desertpaths.co/attractions/shada-mountains describes rough trails and cave history. Coordinate is lower mountain representative point, not trailhead. Private lodges and restricted areas excluded.
+- Location check: 19.734944, 41.381333; [representative point source](https://en.wikipedia.org/wiki/Shadah_Al-asfal), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitsaudi.com/en/al-baha/attractions/shada-mountains); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/asir-national-park](../../../countries/SA/sights/asir-national-park.yaml) | 8.3 / 8.0 / 7.9 / 8.3 / 8.2 | Broader protected landscape. |
+| [SA/al-hada-mountain-cable-car](../../../countries/SA/sights/al-hada-mountain-cable-car.yaml) | 8.8 / 8.5 / 7.6 / 8.6 / 8.4 | More developed mountain recreation. |
+| [OM/jebel-akhdar-mountain-landscape](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) | 9.1 / 8.8 / 8.3 / 9.0 / 9.0 | Broader cultivated mountain landscape. |
+| [AE/jebel-jais-mountain-landscape](../../../countries/AE/sights/jebel-jais-mountain-landscape.yaml) | 8.9 / 8.5 / 7.5 / 8.9 / 8.6 | Different highland adventure setting. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Striking granite formations and mountain slopes. |
+| Uniqueness | 8.7 | Distinct rocky settlement landscape. |
+| Significance | 8.2 | Regional ecological and vernacular heritage. |
+| Experience | 8.4 | Outdoor visits conditional on route and permission. |
+| Depth | 8.5 | Multiple landforms and landscape features. |
+
+- Applicable categories: nature:9.1, photography:9.1, adventure:8.8, culture:8.4.
+- Computed worldwide overall: 85.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-mount-uhud-heritage-area — Mount Uhud and Historic Visitor Area — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/mount-uhud-heritage-area.yaml)
+- Action: new
+- Precise subject and limitations: Mountain views and permitted historic visitor area at its southern foot. Representative point is mapped heritage visitor area, not mountain summit. Religious and commemorative customs, local restrictions and respectful visitor conduct apply; no cemetery entry guaranteed. Distinct from Prophet's Mosque and Quba Mosque.
+- Location check: 24.50295, 39.61132; [representative point source](https://mapcarta.com/W458125948), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitmadinahsa.com/en/map?place=282a92fe-8b24-483e-9901-d346dc2ddbaf); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/quba-mosque](../../../countries/SA/sights/quba-mosque.yaml) | 8.1 / 8.6 / 9.2 / 8.6 / 8.0 | Different early Islamic religious site. |
+| [SA/qiblatain-mosque](../../../countries/SA/sights/qiblatain-mosque.yaml) | 7.8 / 8.5 / 9.0 / 8.2 / 7.4 | Different religious architectural experience. |
+| [JO/mount-nebo](../../../countries/JO/sights/mount-nebo.yaml) | 8.4 / 8.8 / 9.2 / 8.6 / 7.8 | Comparable sacred mountain context, different tradition. |
+| [SA/hegra](../../../countries/SA/sights/hegra.yaml) | 9.3 / 9.3 / 9.2 / 8.9 / 8.7 | Much broader archaeological visitor landscape. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Prominent mountain landscape. |
+| Uniqueness | 8.7 | Distinct religious and historical setting. |
+| Significance | 9.3 | Major significance in early Islamic history. |
+| Experience | 8.4 | Visitor interpretation and commemorative experience. |
+| Depth | 7.9 | Bounded historic viewing area. |
+
+- Applicable categories: history:9.4, culture:9.3, photography:8.8.
+- Computed worldwide overall: 86.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-seven-mosques-medina — Seven Mosques (Al-Fath Cluster) — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/seven-mosques-medina.yaml)
+- Action: new
+- Precise subject and limitations: Compact Al-Fath historic mosque group only. Explicitly excludes separately ranked Al-Qiblatayn, sometimes counted as seventh. Official destination directory https://visitmadinahsa.com/en/destinations?limit=36 lists cluster. Representative point from IRCICA; religious use and permitted access vary.
+- Location check: 24.477778, 39.595556; [representative point source](https://www.islamicarchitecturalheritage.com/listings/alfateh-mosque), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://saudipedia.com/en/the-seven-mosques); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/quba-mosque](../../../countries/SA/sights/quba-mosque.yaml) | 8.1 / 8.6 / 9.2 / 8.6 / 8.0 | More monumental active mosque. |
+| [SA/qiblatain-mosque](../../../countries/SA/sights/qiblatain-mosque.yaml) | 7.8 / 8.5 / 9.0 / 8.2 / 7.4 | Separately ranked and excluded. |
+| [AE/al-bidya-mosque](../../../countries/AE/sights/al-bidya-mosque.yaml) | 7.6 / 8.5 / 8.5 / 7.6 / 6.0 | Comparable compact historic mosque. |
+| [JO/king-abdullah-i-mosque](../../../countries/JO/sights/king-abdullah-i-mosque.yaml) | 7.8 / 7.6 / 7.7 / 7.9 / 7.2 | Different modern mosque architecture. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Historic modest mosque architecture. |
+| Uniqueness | 8.6 | Distinct clustered religious heritage. |
+| Significance | 9.1 | Major local early Islamic associations. |
+| Experience | 8.0 | Focused religious and heritage visit. |
+| Depth | 7.5 | Several small buildings within cluster. |
+
+- Applicable categories: history:9.2, culture:9.1, architecture:8.5.
+- Computed worldwide overall: 82.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-dar-al-madinah-museum — Dar Al Madinah Museum — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/dar-al-madinah-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated museum of Medina's religious and urban history. Operator daily admission listing https://dar-almadinah.com/organizer/dar-al-madinah-museum/ confirms visitor programming. Excludes actual historic sites represented in exhibits. Opening hours and tours vary; OSM-derived point is representative.
+- Location check: 24.47676, 39.68768; [representative point source](https://www.opensaudiarabia.com/places/dar-al-madinah-museum/), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitmadinahsa.com/en/destinations/dar-al-madinah-museum); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/national-museum](../../../countries/SA/sights/national-museum.yaml) | 8.0 / 8.2 / 8.7 / 8.5 / 8.7 | Broader national chronology. |
+| [OM/national-museum-of-oman](../../../countries/OM/sights/national-museum-of-oman.yaml) | 8.1 / 8.5 / 8.9 / 8.5 / 8.5 | Different national heritage collection. |
+| [AE/al-ain-museum](../../../countries/AE/sights/al-ain-museum.yaml) | 8.1 / 8.5 / 8.8 / 8.5 / 8.6 | Different regional history focus. |
+| [SA/ithra-cultural-centre](../../../countries/SA/sights/ithra-cultural-centre.yaml) | 8.9 / 9.0 / 8.5 / 8.9 / 9.0 | Broader multidisciplinary cultural complex. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Detailed historical models and displays. |
+| Uniqueness | 8.6 | Specialized interpretation of Medina's heritage. |
+| Significance | 8.7 | Important regional religious and urban history. |
+| Experience | 8.5 | Dedicated educational museum experience. |
+| Depth | 8.3 | Multiple historical themes. |
+
+- Applicable categories: history:9.1, culture:9.2, family:8.6.
+- Computed worldwide overall: 84.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
