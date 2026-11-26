@@ -1,0 +1,15 @@
+id: sight-mg-mantadia
+name: "Mantadia National Park"
+location:
+  country_code: MG
+  latitude: -18.466667
+  longitude: 48.466667
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.4

@@ -1,0 +1,16 @@
+id: sight-tz-lake-manyara-national-park
+name: "Lake Manyara National Park"
+location:
+  country_code: TZ
+  latitude: -3.5395
+  longitude: 35.7818
+scores:
+  impact: 8.9
+  uniqueness: 9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    photography: 9

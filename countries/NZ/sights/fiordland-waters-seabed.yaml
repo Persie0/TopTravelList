@@ -1,0 +1,15 @@
+id: sight-nz-fiordland-waters-seabed
+name: "Waters and seabed of Fiordland (Te Moana O Atawhenua)"
+location:
+  country_code: NZ
+  latitude: -45.46736
+  longitude: 167.085133
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.1

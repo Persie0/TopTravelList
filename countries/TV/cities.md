@@ -2,7 +2,7 @@
 
 # Tuvalu (TV) — Cities, towns & villages ranking
 
-**3 ranked** · **6 unassessed** · **9 total** · Worldwide scoring **v2**
+**4 ranked** · **5 unassessed** · **9 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,26 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (3)
+## Complete ranked list (4)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Savave Village](cities/savave.yaml) | Village | **67.75** | **Culture 7.3**, **History 7.0**, **Photography 6.8** | 6.5 / 7.6 / 7.0 / 6.3 / 5.8 | [-8.02731, 178.31351](https://www.google.com/maps/search/?api=1&query=-8.02731,178.31351) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Savave%20Village%2C%20Tuvalu) |
-| 2 | [Asau Village](cities/asau.yaml) | Village | **67.65** | **Culture 7.3**, **History 7.1**, **Photography 6.8** | 6.4 / 7.5 / 7.0 / 6.4 / 6.1 | [-7.49026, 178.68016](https://www.google.com/maps/search/?api=1&query=-7.49026,178.68016) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Asau%20Village%2C%20Tuvalu) |
-| 3 | [Vaiaku Village](cities/vaiaku.yaml) | Village | **66.70** | **Culture 7.0**, **Photography 6.5** | 6.1 / 7.6 / 7.1 / 6.4 / 5.6 | [-8.52544, 179.1941](https://www.google.com/maps/search/?api=1&query=-8.52544,179.1941) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vaiaku%20Village%2C%20Tuvalu) |
+| 1 | [Tanrake Village](cities/tanrake.yaml) | Village | **68.65** | **Culture 7.7**, **Food 7.2** | 6.6 / 7.5 / 6.9 / 6.8 / 6.1 | [-7.24562, 177.14511](https://www.google.com/maps/search/?api=1&query=-7.24562,177.14511) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tanrake%20Village%2C%20Tuvalu) |
+| 2 | [Savave Village](cities/savave.yaml) | Village | **67.75** | **Culture 7.3**, **History 7.0**, **Photography 6.8** | 6.5 / 7.6 / 7.0 / 6.3 / 5.8 | [-8.02731, 178.31351](https://www.google.com/maps/search/?api=1&query=-8.02731,178.31351) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Savave%20Village%2C%20Tuvalu) |
+| 3 | [Asau Village](cities/asau.yaml) | Village | **67.65** | **Culture 7.3**, **History 7.1**, **Photography 6.8** | 6.4 / 7.5 / 7.0 / 6.4 / 6.1 | [-7.49026, 178.68016](https://www.google.com/maps/search/?api=1&query=-7.49026,178.68016) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Asau%20Village%2C%20Tuvalu) |
+| 4 | [Vaiaku Village](cities/vaiaku.yaml) | Village | **66.70** | **Culture 7.0**, **Photography 6.5** | 6.1 / 7.6 / 7.1 / 6.4 / 5.6 | [-8.52544, 179.1941](https://www.google.com/maps/search/?api=1&query=-8.52544,179.1941) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vaiaku%20Village%2C%20Tuvalu) |
 
-## Not yet fully assessed (6)
+## Not yet fully assessed (5)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Kulia Village](cities/kulia.yaml) | Village | **—** | — | — / — / — / — / — | [-6.10819, 177.33393](https://www.google.com/maps/search/?api=1&query=-6.10819,177.33393) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kulia%20Village%2C%20Tuvalu) |
-| — | [Lolua Village](cities/lolua.yaml) | Village | **—** | — | — / — / — / — / — | [-5.67398, 176.11515](https://www.google.com/maps/search/?api=1&query=-5.67398,176.11515) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lolua%20Village%2C%20Tuvalu) |
-| — | [Niulakita Village](cities/niulakita.yaml) | Village | **—** | — | — / — / — / — / — | [-10.79034, 179.47114](https://www.google.com/maps/search/?api=1&query=-10.79034,179.47114) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niulakita%20Village%2C%20Tuvalu) |
-| — | [Pepesala Village](cities/pepesala.yaml) | Village | **—** | — | — / — / — / — / — | [-9.37322, 179.80917](https://www.google.com/maps/search/?api=1&query=-9.37322,179.80917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pepesala%20Village%2C%20Tuvalu) |
-| — | [Tanrake Village](cities/tanrake.yaml) | Village | **—** | — | — / — / — / — / — | [-7.24562, 177.14511](https://www.google.com/maps/search/?api=1&query=-7.24562,177.14511) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tanrake%20Village%2C%20Tuvalu) |
-| — | [Toga Village](cities/toga.yaml) | Village | **—** | — | — / — / — / — / — | [-6.28764, 176.31472](https://www.google.com/maps/search/?api=1&query=-6.28764,176.31472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toga%20Village%2C%20Tuvalu) |
+| — | [Kulia Village](cities/kulia.yaml) | Village | **—** | **Culture 7.6**, **History 7.4** | 6.5 / 7.4 / 7.1 / — / — | [-6.10819, 177.33393](https://www.google.com/maps/search/?api=1&query=-6.10819,177.33393) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kulia%20Village%2C%20Tuvalu) |
+| — | [Lolua Village](cities/lolua.yaml) | Village | **—** | **Culture 7.2** | — / 7.1 / 6.6 / — / — | [-5.67398, 176.11515](https://www.google.com/maps/search/?api=1&query=-5.67398,176.11515) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lolua%20Village%2C%20Tuvalu) |
+| — | [Niulakita Village](cities/niulakita.yaml) | Village | **—** | **Culture 7.0** | 6.0 / 7.3 / 6.4 / — / — | [-10.79034, 179.47114](https://www.google.com/maps/search/?api=1&query=-10.79034,179.47114) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Niulakita%20Village%2C%20Tuvalu) |
+| — | [Pepesala Village](cities/pepesala.yaml) | Village | **—** | **Culture 7.0** | — / 6.9 / 6.3 / — / — | [-9.37322, 179.80917](https://www.google.com/maps/search/?api=1&query=-9.37322,179.80917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pepesala%20Village%2C%20Tuvalu) |
+| — | [Toga Village](cities/toga.yaml) | Village | **—** | **Culture 7.5** | — / 7.3 / 6.8 / — / — | [-6.28764, 176.31472](https://www.google.com/maps/search/?api=1&query=-6.28764,176.31472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toga%20Village%2C%20Tuvalu) |
 
 ---
 

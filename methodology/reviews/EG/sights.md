@@ -1,0 +1,706 @@
+# EG — Egypt sights: individual worldwide reviews
+
+2026-11-25 · [Worldwide V2](../../../rules.md) · [Workflow](../../future-country-workflow.md). Provisional editorial scores. [UNESCO country inventory](https://whc.unesco.org/en/statesparties/eg) lists seven inscribed and 34 tentative properties. All seven inscribed properties have records; three large overlapping aggregates are unranked to avoid treating separate visitor experiences as one. See [heritage inventory](heritage-inventory.md) for tentative-property coverage and gaps. No perfect-ten registry changes: Giza is a candidate for separate anchor review, not an unauthorized 10. Coordinates are approximate, not entrance guarantees. City scores exclude independent monuments. Peer profiles read from current repository YAML at base 090ca6c9633514a04ea84f6c02ed406102c92c3c. Sources linked below support limited identity or contextual claims, not full independent verification.
+
+## sight-eg-giza-plateau — Giza Pyramid Plateau and Great Sphinx — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/giza-plateau.yaml) · Action: new · **source-linked-unverified**.
+- Scope: three monumental royal pyramids and Sphinx. GPS 29.9773, 31.1325: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (only surviving ancient world wonder within rare funerary ensemble); depth lower (multiple monuments cemeteries and viewpoints).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness equal (only surviving ancient world wonder within rare funerary ensemble); depth lower (multiple monuments cemeteries and viewpoints).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness higher (only surviving ancient world wonder within rare funerary ensemble); depth equal (multiple monuments cemeteries and viewpoints).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (only surviving ancient world wonder within rare funerary ensemble); depth higher (multiple monuments cemeteries and viewpoints).
+- Impact 9.9: three monumental royal pyramids and Sphinx.
+- Uniqueness 9.9: only surviving ancient world wonder within rare funerary ensemble.
+- Significance 9.9: foundational Old Kingdom monumental heritage.
+- Experience 9.6: permitted plateau routes and interiors with access limits.
+- Depth 9.5: multiple monuments cemeteries and viewpoints.
+- Categories: architecture:9.9 history:9.9 photography:9.8. Overall: 98.15/100.
+- High-score challenge: Impact 9.9: three monumental royal pyramids and Sphinx; compared with field references above; Uniqueness 9.9: only surviving ancient world wonder within rare funerary ensemble; compared with field references above; Significance 9.9: foundational Old Kingdom monumental heritage; compared with field references above; Experience 9.6: permitted plateau routes and interiors with access limits; compared with field references above; Depth 9.5: multiple monuments cemeteries and viewpoints; compared with field references above; architecture 9.9: three monumental royal pyramids and Sphinx; compared with field references above; history 9.9: foundational Old Kingdom monumental heritage; compared with field references above; photography 9.8: three monumental royal pyramids and Sphinx; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. Candidate for separate global-ten anchor review, not approved.
+- Evidence: [source context](https://egymonuments.gov.eg/archaeological-sites/giza-plateau/) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-karnak — Karnak Temple Complex — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/karnak.yaml) · Action: new · **source-linked-unverified**.
+- Scope: vast hypostyle and monumental precincts. GPS 25.7188, 32.6573: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (rare temple accumulation over successive reigns); depth lower (multiple precincts and architectural periods).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (rare temple accumulation over successive reigns); depth lower (multiple precincts and architectural periods).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness higher (rare temple accumulation over successive reigns); depth higher (multiple precincts and architectural periods).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (rare temple accumulation over successive reigns); depth higher (multiple precincts and architectural periods).
+- Impact 9.9: vast hypostyle and monumental precincts.
+- Uniqueness 9.8: rare temple accumulation over successive reigns.
+- Significance 9.9: central New Kingdom religious heritage.
+- Experience 9.6: extensive permitted temple routes.
+- Depth 9.7: multiple precincts and architectural periods.
+- Categories: architecture:9.9 history:9.9 photography:9.7. Overall: 98.10/100.
+- High-score challenge: Impact 9.9: vast hypostyle and monumental precincts; compared with field references above; Uniqueness 9.8: rare temple accumulation over successive reigns; compared with field references above; Significance 9.9: central New Kingdom religious heritage; compared with field references above; Experience 9.6: extensive permitted temple routes; compared with field references above; Depth 9.7: multiple precincts and architectural periods; compared with field references above; architecture 9.9: vast hypostyle and monumental precincts; compared with field references above; history 9.9: central New Kingdom religious heritage; compared with field references above; photography 9.7: vast hypostyle and monumental precincts; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://egymonuments.gov.eg/archaeological-sites/karnak) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-valley-of-the-kings — Valley of the Kings — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/valley-of-the-kings.yaml) · Action: new · **source-linked-unverified**.
+- Scope: decorated royal rock tombs in stark valley. GPS 25.7402, 32.6014: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (rare concentration of New Kingdom royal burials); depth lower (multiple distinct tombs but not all accessible).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (rare concentration of New Kingdom royal burials); depth lower (multiple distinct tombs but not all accessible).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness higher (rare concentration of New Kingdom royal burials); depth lower (multiple distinct tombs but not all accessible).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (rare concentration of New Kingdom royal burials); depth higher (multiple distinct tombs but not all accessible).
+- Impact 9.6: decorated royal rock tombs in stark valley.
+- Uniqueness 9.8: rare concentration of New Kingdom royal burials.
+- Significance 9.9: major funerary art and royal history.
+- Experience 9.3: permitted tomb visits with rotating openings.
+- Depth 9.4: multiple distinct tombs but not all accessible.
+- Categories: history:9.9 architecture:9.5 culture:9.5. Overall: 96.45/100.
+- High-score challenge: Impact 9.6: decorated royal rock tombs in stark valley; compared with field references above; Uniqueness 9.8: rare concentration of New Kingdom royal burials; compared with field references above; Significance 9.9: major funerary art and royal history; compared with field references above; history 9.9: major funerary art and royal history; compared with field references above; architecture 9.5: decorated royal rock tombs in stark valley; compared with field references above; culture 9.5: rare concentration of New Kingdom royal burials; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://egymonuments.gov.eg/en/archaeological-sites/valley-of-the-kings) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-abu-simbel — Abu Simbel Temples — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/abu-simbel.yaml) · Action: new · **source-linked-unverified**.
+- Scope: colossal rock-cut facades and interiors. GPS 22.3372, 31.6258: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (rare monumental pair and relocation history); depth lower (bounded pair rather than whole Nubian property).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (rare monumental pair and relocation history); depth lower (bounded pair rather than whole Nubian property).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness higher (rare monumental pair and relocation history); depth lower (bounded pair rather than whole Nubian property).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (rare monumental pair and relocation history); depth lower (bounded pair rather than whole Nubian property).
+- Impact 9.8: colossal rock-cut facades and interiors.
+- Uniqueness 9.8: rare monumental pair and relocation history.
+- Significance 9.7: Ramesside and conservation heritage.
+- Experience 9.3: two temple interiors and exterior views.
+- Depth 8.8: bounded pair rather than whole Nubian property.
+- Categories: architecture:9.8 history:9.7 photography:9.7. Overall: 96.05/100.
+- High-score challenge: Impact 9.8: colossal rock-cut facades and interiors; compared with field references above; Uniqueness 9.8: rare monumental pair and relocation history; compared with field references above; Significance 9.7: Ramesside and conservation heritage; compared with field references above; architecture 9.8: colossal rock-cut facades and interiors; compared with field references above; history 9.7: Ramesside and conservation heritage; compared with field references above; photography 9.7: colossal rock-cut facades and interiors; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://egymonuments.gov.eg/en/archaeological-sites/abu-simbel/) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-saqqara — Saqqara Necropolis — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/saqqara.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Step Pyramid and extensive tomb architecture. GPS 29.8713, 31.2165: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (early monumental stone-building tradition); depth lower (large necropolis with varied monuments).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (early monumental stone-building tradition); depth lower (large necropolis with varied monuments).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (early monumental stone-building tradition); depth equal (large necropolis with varied monuments).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (early monumental stone-building tradition); depth higher (large necropolis with varied monuments).
+- Impact 9.5: Step Pyramid and extensive tomb architecture.
+- Uniqueness 9.6: early monumental stone-building tradition.
+- Significance 9.8: major evidence of Old Kingdom funerary development.
+- Experience 9.2: multiple permitted archaeological visits.
+- Depth 9.5: large necropolis with varied monuments.
+- Categories: architecture:9.7 history:9.8 photography:9.4. Overall: 95.40/100.
+- High-score challenge: Impact 9.5: Step Pyramid and extensive tomb architecture; compared with field references above; Uniqueness 9.6: early monumental stone-building tradition; compared with field references above; Significance 9.8: major evidence of Old Kingdom funerary development; compared with field references above; Depth 9.5: large necropolis with varied monuments; compared with field references above; architecture 9.7: Step Pyramid and extensive tomb architecture; compared with field references above; history 9.8: major evidence of Old Kingdom funerary development; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://egymonuments.gov.eg/archaeological-sites/saqqara) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-dahshur — Dahshur Pyramid Field — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/dahshur.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Bent and Red Pyramid desert ensemble. GPS 29.808, 31.206: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (distinct early pyramid design development); depth lower (bounded field with several monuments).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (distinct early pyramid design development); depth lower (bounded field with several monuments).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (distinct early pyramid design development); depth lower (bounded field with several monuments).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (distinct early pyramid design development); depth lower (bounded field with several monuments).
+- Impact 9.2: Bent and Red Pyramid desert ensemble.
+- Uniqueness 9.4: distinct early pyramid design development.
+- Significance 9.5: important architectural experimentation.
+- Experience 9.0: permitted pyramid field visits.
+- Depth 8.5: bounded field with several monuments.
+- Categories: architecture:9.5 history:9.5 photography:9.3. Overall: 92.10/100.
+- High-score challenge: Significance 9.5: important architectural experimentation; compared with field references above; architecture 9.5: Bent and Red Pyramid desert ensemble; compared with field references above; history 9.5: important architectural experimentation; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://egymonuments.gov.eg/en/archaeological-sites/Dahshur) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-memphis — Memphis Archaeological Area (Mit Rahina) — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/memphis.yaml) · Action: new · **source-linked-unverified**.
+- Scope: visible remains and monumental statuary of ancient capital. GPS 29.849, 31.254: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (rare ancient capital context but fragmentary fabric); depth lower (limited visible remains compared with entire necropolis).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (rare ancient capital context but fragmentary fabric); depth lower (limited visible remains compared with entire necropolis).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (rare ancient capital context but fragmentary fabric); depth lower (limited visible remains compared with entire necropolis).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness lower (rare ancient capital context but fragmentary fabric); depth lower (limited visible remains compared with entire necropolis).
+- Impact 8.1: visible remains and monumental statuary of ancient capital.
+- Uniqueness 8.7: rare ancient capital context but fragmentary fabric.
+- Significance 9.4: major dynastic political history.
+- Experience 8.0: bounded archaeological and museum experience.
+- Depth 7.8: limited visible remains compared with entire necropolis.
+- Categories: history:9.5 architecture:8.5. Overall: 84.65/100.
+- High-score challenge: history 9.5: major dynastic political history; compared with field references above. No approved 10.
+- Evidence: [source context](https://egymonuments.gov.eg/en/world-heritage/memphis-and-its-necropolis/) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-memphis-necropolis-property — Memphis and its Necropolis UNESCO Property — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/memphis-necropolis-property.yaml) · Action: new · **unassessed**.
+- Scope: inscribed multi-site property from Giza to Dahshur. GPS 29.94, 31.20: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; future comparison only; visitor scope unresolved.
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; future comparison only; visitor scope unresolved.
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; future comparison only; visitor scope unresolved.
+- Impact null: inscribed multi-site property from Giza to Dahshur.
+- Uniqueness null: component rankings kept separate.
+- Significance null: inscribed property.
+- Experience null: not a single permitted visit.
+- Depth null: full scope requires additional components.
+- Categories: none assessed. Overall: unranked.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/list/86/) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+
+## sight-eg-ancient-thebes-property — Ancient Thebes and its Necropolis UNESCO Property — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/ancient-thebes-property.yaml) · Action: new · **unassessed**.
+- Scope: inscribed east and west bank aggregate. GPS 25.70, 32.62: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; future comparison only; visitor scope unresolved.
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; future comparison only; visitor scope unresolved.
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; future comparison only; visitor scope unresolved.
+- Impact null: inscribed east and west bank aggregate.
+- Uniqueness null: avoid duplicating component rankings.
+- Significance null: inscribed property.
+- Experience null: multiple separate visitor experiences.
+- Depth null: full component coverage not yet complete.
+- Categories: none assessed. Overall: unranked.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/list/87/) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+
+## sight-eg-nubian-monuments-property — Nubian Monuments from Abu Simbel to Philae — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/nubian-monuments-property.yaml) · Action: new · **unassessed**.
+- Scope: serial Nubian heritage property. GPS 24.0, 32.5: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; future comparison only; visitor scope unresolved.
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; future comparison only; visitor scope unresolved.
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; future comparison only; visitor scope unresolved.
+- Impact null: serial Nubian heritage property.
+- Uniqueness null: separate temple experiences.
+- Significance null: inscribed property.
+- Experience null: individual component access varies.
+- Depth null: representative regional point not exact entrance.
+- Categories: none assessed. Overall: unranked.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/list/88/) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+
+## sight-eg-historic-cairo — Historic Cairo — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/historic-cairo.yaml) · Action: new · **source-linked-unverified**.
+- Scope: historic Islamic urban fabric and monumental streets. GPS 30.045, 31.262: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Historic Areas of Istanbul (TR)](../../../countries/TR/sights/historic-istanbul.yaml) — 9.4 / 9.4 / 9.4 / 9.1 / 9.1; global historic urban ensemble; uniqueness equal (large living medieval metropolis); depth higher (many distinct quarters and monuments).
+  - [Medieval City of Rhodes (GR)](../../../countries/GR/sights/rhodes-old-town.yaml) — 9.3 / 9.3 / 9.3 / 9.2 / 9.1; fortified urban fabric; uniqueness higher (large living medieval metropolis); depth higher (many distinct quarters and monuments).
+  - [As-Salt Historic Core (JO)](../../../countries/JO/sights/as-salt-historic-core.yaml) — 8.7 / 9.1 / 9.1 / 8.7 / 8.4; regional historic townscape; uniqueness higher (large living medieval metropolis); depth higher (many distinct quarters and monuments).
+  - [Massawa Old Town (ER)](../../../countries/ER/sights/massawa-old-town.yaml) — 8.6 / 8.9 / 9.1 / 8.0 / 8.0; historic port quarter; uniqueness higher (large living medieval metropolis); depth higher (many distinct quarters and monuments).
+- Impact 9.4: historic Islamic urban fabric and monumental streets.
+- Uniqueness 9.4: large living medieval metropolis.
+- Significance 9.6: major Islamic urban and religious heritage.
+- Experience 8.9: permitted streets mosques and markets.
+- Depth 9.5: many distinct quarters and monuments.
+- Categories: architecture:9.5 history:9.6 culture:9.5. Overall: 93.75/100.
+- High-score challenge: Significance 9.6: major Islamic urban and religious heritage; compared with field references above; Depth 9.5: many distinct quarters and monuments; compared with field references above; architecture 9.5: historic Islamic urban fabric and monumental streets; compared with field references above; history 9.6: major Islamic urban and religious heritage; compared with field references above; culture 9.5: large living medieval metropolis; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-abu-mena — Abu Mena Archaeological Site — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/abu-mena.yaml)
+- Action: rescore
+- Precise subject: Inscribed early Christian archaeological city, documented public archaeological remains only; excludes modern monastery and closed excavation areas.
+- Location check: 30.835833, 29.666667; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/list/90/ (opened) identifies early Christian pilgrimage city, basilicas, baptismal buildings, domestic and workshop remains, and representative coordinates N30 50 9 E29 40 0. Ministry https://egymonuments.gov.eg/archaeological-sites/abu-mina-1 (opened) describes archaeological remains and lists daily visitor hours; extent of accessible areas not confirmed. UNESCO https://whc.unesco.org/en/decisions/8701 (indexed) records 2025 removal from World Heritage in Danger; https://whc.unesco.org/en/decisions/9059 (indexed) records ongoing groundwater monitoring requirements in 2026. No assumption that all restoration is complete.
+- Missing facts: current access and full independent factual verification.
+
+### Worldwide peer comparisons
+- [adulis-archaeological-site (ER)](../../../countries/ER/sights/adulis-archaeological-site.yaml): 7.5/8.6/9.4/7.8/7.4; similar archaeological footprint and major regional heritage.
+- [carnuntum-archaeological-park (AT)](../../../countries/AT/sights/carnuntum-archaeological-park.yaml): 8.7/8.9/9.0/8.8/8.4; more extensive visible reconstructed architecture and interpretation.
+- [yeha-cultural-heritage (ET)](../../../countries/ET/sights/yeha-cultural-heritage.yaml): 8.4/9.0/9.2/8.0/7.9; more concentrated intact ancient architectural monument.
+- [chemtou-quarries (TN)](../../../countries/TN/sights/chemtou-quarries.yaml): 8.3/9.1/9.2/8.6/8.3; broader documented museum interpretation, different ancient heritage.
+
+### Scoring decisions
+- Impact: 7.9 — Substantial archaeological layout but fragmentary standing architecture.
+- Uniqueness: 8.9 — Distinctive early Christian pilgrimage-city ensemble.
+- Significance: 9.3 — Internationally important pilgrimage and monastic archaeology, documented inscription.
+- Experience: 7.8 — Ministry lists public opening hours; limited interpretation and restricted zones not credited.
+- Depth: 8.1 — Multiple surviving archaeological features, narrower visible breadth than major ancient cities.
+- Applicable categories: history 9.4, architecture 8.5.
+- Overall: 84.35/100.
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment for documented visitor scope.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise public entrance and full independent claim-level corroboration.
+
+
+## sight-eg-saint-catherine-area — Saint Catherine Area — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/saint-catherine-area.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Sinai mountain and sacred landscape with monastery. GPS 28.556, 33.976: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; uniqueness lower (rare ancient monastic desert setting); depth lower (multiple landscape routes subject to access).
+  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading rocky scenery; uniqueness lower (rare ancient monastic desert setting); depth lower (multiple landscape routes subject to access).
+  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected ecosystem; uniqueness higher (rare ancient monastic desert setting); depth equal (multiple landscape routes subject to access).
+  - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller geological landscape; uniqueness higher (rare ancient monastic desert setting); depth higher (multiple landscape routes subject to access).
+- Impact 9.2: Sinai mountain and sacred landscape with monastery.
+- Uniqueness 9.4: rare ancient monastic desert setting.
+- Significance 9.5: international religious heritage.
+- Experience 8.7: permitted hikes and monastery visits.
+- Depth 9.0: multiple landscape routes subject to access.
+- Categories: nature:9.2 history:9.5 culture:9.4 adventure:9.1. Overall: 92.15/100.
+- High-score challenge: Significance 9.5: international religious heritage; compared with field references above; history 9.5: international religious heritage; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-wadi-al-hitan — Wadi Al-Hitan (Whale Valley) — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/wadi-al-hitan.yaml) · Action: new · **source-linked-unverified**.
+- Scope: desert fossil landscape. GPS 29.27, 30.04: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; uniqueness lower (rare exposed whale evolutionary record); depth lower (bounded landscape and museum context).
+  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading rocky scenery; uniqueness lower (rare exposed whale evolutionary record); depth lower (bounded landscape and museum context).
+  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected ecosystem; uniqueness higher (rare exposed whale evolutionary record); depth lower (bounded landscape and museum context).
+  - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller geological landscape; uniqueness higher (rare exposed whale evolutionary record); depth higher (bounded landscape and museum context).
+- Impact 9.0: desert fossil landscape.
+- Uniqueness 9.6: rare exposed whale evolutionary record.
+- Significance 9.6: international palaeontological significance.
+- Experience 8.6: permitted fossil trails and interpretation.
+- Depth 8.5: bounded landscape and museum context.
+- Categories: nature:9.4 history:9.1 photography:9.0. Overall: 91.60/100.
+- High-score challenge: Uniqueness 9.6: rare exposed whale evolutionary record; compared with field references above; Significance 9.6: international palaeontological significance; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-luxor-temple — Luxor Temple — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/luxor-temple.yaml) · Action: new · **source-linked-unverified**.
+- Scope: monumental colonnades and courts. GPS 25.7001, 32.6391: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (distinct New Kingdom urban temple); depth lower (multiple courts but bounded temple).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (distinct New Kingdom urban temple); depth lower (multiple courts but bounded temple).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (distinct New Kingdom urban temple); depth lower (multiple courts but bounded temple).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness equal (distinct New Kingdom urban temple); depth lower (multiple courts but bounded temple).
+- Impact 9.5: monumental colonnades and courts.
+- Uniqueness 9.3: distinct New Kingdom urban temple.
+- Significance 9.5: major ceremonial heritage.
+- Experience 9.2: coherent temple visit.
+- Depth 8.8: multiple courts but bounded temple.
+- Categories: architecture:9.6 history:9.5 photography:9.5. Overall: 93.35/100.
+- High-score challenge: Impact 9.5: monumental colonnades and courts; compared with field references above; Significance 9.5: major ceremonial heritage; compared with field references above; architecture 9.6: monumental colonnades and courts; compared with field references above; history 9.5: major ceremonial heritage; compared with field references above; photography 9.5: monumental colonnades and courts; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-hatshepsut-temple — Mortuary Temple of Hatshepsut — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/hatshepsut-temple.yaml) · Action: new · **source-linked-unverified**.
+- Scope: terraced temple against cliffs. GPS 25.738, 32.606: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (rare architectural landscape integration); depth lower (bounded temple precinct).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (rare architectural landscape integration); depth lower (bounded temple precinct).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (rare architectural landscape integration); depth lower (bounded temple precinct).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (rare architectural landscape integration); depth lower (bounded temple precinct).
+- Impact 9.5: terraced temple against cliffs.
+- Uniqueness 9.4: rare architectural landscape integration.
+- Significance 9.4: major royal mortuary heritage.
+- Experience 9.1: permitted terraces and reliefs.
+- Depth 8.6: bounded temple precinct.
+- Categories: architecture:9.6 history:9.4 photography:9.6. Overall: 93.05/100.
+- High-score challenge: Impact 9.5: terraced temple against cliffs; compared with field references above; architecture 9.6: terraced temple against cliffs; compared with field references above; photography 9.6: terraced temple against cliffs; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-medinet-habu — Medinet Habu — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/medinet-habu.yaml) · Action: new · **source-linked-unverified**.
+- Scope: large mortuary temple with reliefs. GPS 25.719, 32.601: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (well-preserved Ramesside decorative program); depth lower (multiple precinct structures).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (well-preserved Ramesside decorative program); depth lower (multiple precinct structures).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (well-preserved Ramesside decorative program); depth lower (multiple precinct structures).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness equal (well-preserved Ramesside decorative program); depth lower (multiple precinct structures).
+- Impact 9.3: large mortuary temple with reliefs.
+- Uniqueness 9.3: well-preserved Ramesside decorative program.
+- Significance 9.5: major royal and military historical evidence.
+- Experience 9.2: courts and relief exploration.
+- Depth 9.0: multiple precinct structures.
+- Categories: architecture:9.5 history:9.5 photography:9.3. Overall: 92.95/100.
+- High-score challenge: Significance 9.5: major royal and military historical evidence; compared with field references above; architecture 9.5: large mortuary temple with reliefs; compared with field references above; history 9.5: major royal and military historical evidence; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-philae — Philae Temple Complex — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/philae.yaml) · Action: new · **source-linked-unverified**.
+- Scope: island temple setting. GPS 24.025, 32.884: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (distinct late Egyptian sacred architecture and relocation); depth lower (bounded island complex).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (distinct late Egyptian sacred architecture and relocation); depth lower (bounded island complex).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (distinct late Egyptian sacred architecture and relocation); depth lower (bounded island complex).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (distinct late Egyptian sacred architecture and relocation); depth lower (bounded island complex).
+- Impact 9.4: island temple setting.
+- Uniqueness 9.4: distinct late Egyptian sacred architecture and relocation.
+- Significance 9.4: major Ptolemaic and Roman religious heritage.
+- Experience 9.2: boat approach and temple routes.
+- Depth 8.8: bounded island complex.
+- Categories: architecture:9.5 history:9.4 photography:9.5. Overall: 93.10/100.
+- High-score challenge: architecture 9.5: island temple setting; compared with field references above; photography 9.5: island temple setting; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-edfu-temple — Temple of Edfu — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/edfu-temple.yaml) · Action: new · **source-linked-unverified**.
+- Scope: standing pylons and enclosed temple. GPS 24.978, 32.873: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (exceptional preservation of Ptolemaic temple plan); depth lower (bounded temple complex).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (exceptional preservation of Ptolemaic temple plan); depth lower (bounded temple complex).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (exceptional preservation of Ptolemaic temple plan); depth lower (bounded temple complex).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness equal (exceptional preservation of Ptolemaic temple plan); depth lower (bounded temple complex).
+- Impact 9.4: standing pylons and enclosed temple.
+- Uniqueness 9.3: exceptional preservation of Ptolemaic temple plan.
+- Significance 9.4: major religious architectural evidence.
+- Experience 9.2: coherent permitted interior visit.
+- Depth 8.8: bounded temple complex.
+- Categories: architecture:9.5 history:9.4. Overall: 92.85/100.
+- High-score challenge: architecture 9.5: standing pylons and enclosed temple; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-kom-ombo — Temple of Kom Ombo — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/kom-ombo.yaml) · Action: new · **source-linked-unverified**.
+- Scope: riverside temple remains. GPS 24.452, 32.928: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (unusual double dedication); depth lower (limited precinct relative to Karnak).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (unusual double dedication); depth lower (limited precinct relative to Karnak).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (unusual double dedication); depth lower (limited precinct relative to Karnak).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness lower (unusual double dedication); depth lower (limited precinct relative to Karnak).
+- Impact 8.9: riverside temple remains.
+- Uniqueness 9.1: unusual double dedication.
+- Significance 9.0: Ptolemaic religious history.
+- Experience 8.8: bounded temple visit.
+- Depth 8.3: limited precinct relative to Karnak.
+- Categories: architecture:9.1 history:9.1. Overall: 88.95/100.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-grand-egyptian-museum — Grand Egyptian Museum — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/grand-egyptian-museum.yaml) · Action: new · **source-linked-unverified**.
+- Scope: monumental display spaces and Egyptian antiquities. GPS 29.994, 31.119: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [National Archaeological Museum Athens (GR)](../../../countries/GR/sights/national-arch-museum.yaml) — 9.0 / 9.2 / 9.6 / 9.0 / 9.2; international archaeological collections; uniqueness higher (rare concentration of pharaonic collections); depth higher (extensive museum collection and thematic breadth).
+  - [Jordan Museum (JO)](../../../countries/JO/sights/jordan-museum.yaml) — 8.1 / 8.4 / 8.9 / 8.5 / 8.5; regional archaeological collection; uniqueness higher (rare concentration of pharaonic collections); depth higher (extensive museum collection and thematic breadth).
+  - [National Museum of Oman (OM)](../../../countries/OM/sights/national-museum-of-oman.yaml) — 8.1 / 8.5 / 8.9 / 8.5 / 8.5; national historical collections; uniqueness higher (rare concentration of pharaonic collections); depth higher (extensive museum collection and thematic breadth).
+  - [National Museum of Eritrea (ER)](../../../countries/ER/sights/national-museum-of-eritrea.yaml) — 6.8 / 7.8 / 8.5 / 7.4 / 7.0; smaller regional museum; uniqueness higher (rare concentration of pharaonic collections); depth higher (extensive museum collection and thematic breadth).
+- Impact 9.6: monumental display spaces and Egyptian antiquities.
+- Uniqueness 9.7: rare concentration of pharaonic collections.
+- Significance 9.8: global archaeological heritage including royal collections.
+- Experience 9.5: multiple galleries with interpretation.
+- Depth 9.7: extensive museum collection and thematic breadth.
+- Categories: history:9.9 culture:9.7 architecture:9.4. Overall: 96.60/100.
+- High-score challenge: Impact 9.6: monumental display spaces and Egyptian antiquities; compared with field references above; Uniqueness 9.7: rare concentration of pharaonic collections; compared with field references above; Significance 9.8: global archaeological heritage including royal collections; compared with field references above; Experience 9.5: multiple galleries with interpretation; compared with field references above; Depth 9.7: extensive museum collection and thematic breadth; compared with field references above; history 9.9: global archaeological heritage including royal collections; compared with field references above; culture 9.7: rare concentration of pharaonic collections; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://sis.gov.eg/en/egyptians-abroad-portal/discover-egypt/museums/) (consulted 2026-11-25; state information service museum context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+- 2026-11-26 evidence follow-up: official museum ticketing https://tickets.gem.eg/ (indexed) lists Tutankhamun galleries, main galleries, grand hall, stairs, Khufu boats museum and gardens as included in standard admission. https://gem.eg/en/visit/plan-your-visit/tours/group-guided-tour/ (indexed) describes guided interpretation of Tutankhamun collection. This supersedes historical trial-opening descriptions; no credit for non-public storage or conservation laboratories. Existing 96.60 remains provisional, not increased.
+
+## sight-eg-egyptian-museum-cairo — Egyptian Museum in Tahrir — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/egyptian-museum-cairo.yaml) · Action: new · **source-linked-unverified**.
+- Scope: historic museum and major antiquities. GPS 30.0478, 31.2336: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [National Archaeological Museum Athens (GR)](../../../countries/GR/sights/national-arch-museum.yaml) — 9.0 / 9.2 / 9.6 / 9.0 / 9.2; international archaeological collections; uniqueness higher (distinct collection even after transfers); depth lower (many galleries but current displays not fully checked).
+  - [Jordan Museum (JO)](../../../countries/JO/sights/jordan-museum.yaml) — 8.1 / 8.4 / 8.9 / 8.5 / 8.5; regional archaeological collection; uniqueness higher (distinct collection even after transfers); depth higher (many galleries but current displays not fully checked).
+  - [National Museum of Oman (OM)](../../../countries/OM/sights/national-museum-of-oman.yaml) — 8.1 / 8.5 / 8.9 / 8.5 / 8.5; national historical collections; uniqueness higher (distinct collection even after transfers); depth higher (many galleries but current displays not fully checked).
+  - [National Museum of Eritrea (ER)](../../../countries/ER/sights/national-museum-of-eritrea.yaml) — 6.8 / 7.8 / 8.5 / 7.4 / 7.0; smaller regional museum; uniqueness higher (distinct collection even after transfers); depth higher (many galleries but current displays not fully checked).
+- Impact 9.0: historic museum and major antiquities.
+- Uniqueness 9.3: distinct collection even after transfers.
+- Significance 9.6: international Egyptology heritage.
+- Experience 8.8: gallery experience with collection changes requiring review.
+- Depth 9.1: many galleries but current displays not fully checked.
+- Categories: history:9.7 culture:9.5. Overall: 91.75/100.
+- High-score challenge: Significance 9.6: international Egyptology heritage; compared with field references above; history 9.7: international Egyptology heritage; compared with field references above; culture 9.5: distinct collection even after transfers; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-nmec — National Museum of Egyptian Civilization — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/nmec.yaml) · Action: new · **source-linked-unverified**.
+- Scope: civilization-wide galleries and royal mummy collection. GPS 30.006, 31.250: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [National Archaeological Museum Athens (GR)](../../../countries/GR/sights/national-arch-museum.yaml) — 9.0 / 9.2 / 9.6 / 9.0 / 9.2; international archaeological collections; uniqueness higher (rare royal burial collection in museum context); depth lower (multiple periods and exhibits).
+  - [Jordan Museum (JO)](../../../countries/JO/sights/jordan-museum.yaml) — 8.1 / 8.4 / 8.9 / 8.5 / 8.5; regional archaeological collection; uniqueness higher (rare royal burial collection in museum context); depth higher (multiple periods and exhibits).
+  - [National Museum of Oman (OM)](../../../countries/OM/sights/national-museum-of-oman.yaml) — 8.1 / 8.5 / 8.9 / 8.5 / 8.5; national historical collections; uniqueness higher (rare royal burial collection in museum context); depth higher (multiple periods and exhibits).
+  - [National Museum of Eritrea (ER)](../../../countries/ER/sights/national-museum-of-eritrea.yaml) — 6.8 / 7.8 / 8.5 / 7.4 / 7.0; smaller regional museum; uniqueness higher (rare royal burial collection in museum context); depth higher (multiple periods and exhibits).
+- Impact 9.1: civilization-wide galleries and royal mummy collection.
+- Uniqueness 9.4: rare royal burial collection in museum context.
+- Significance 9.5: major historical interpretation.
+- Experience 9.1: structured museum experience.
+- Depth 8.8: multiple periods and exhibits.
+- Categories: history:9.6 culture:9.5. Overall: 92.25/100.
+- High-score challenge: Significance 9.5: major historical interpretation; compared with field references above; history 9.6: major historical interpretation; compared with field references above; culture 9.5: rare royal burial collection in museum context; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://sis.gov.eg/en/egyptians-abroad-portal/discover-egypt/museums/) (consulted 2026-11-25; state information service museum context). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-ras-mohammed — Ras Mohammed National Park — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/ras-mohammed.yaml) · Action: new · **source-linked-unverified**.
+- Scope: Red Sea reefs and coastal desert. GPS 27.736, 34.25: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; uniqueness lower (rich coral ecosystem with international analogues); depth lower (multiple reef and coastal sites).
+  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading rocky scenery; uniqueness lower (rich coral ecosystem with international analogues); depth lower (multiple reef and coastal sites).
+  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected ecosystem; uniqueness higher (rich coral ecosystem with international analogues); depth equal (multiple reef and coastal sites).
+  - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller geological landscape; uniqueness higher (rich coral ecosystem with international analogues); depth higher (multiple reef and coastal sites).
+- Impact 9.4: Red Sea reefs and coastal desert.
+- Uniqueness 9.3: rich coral ecosystem with international analogues.
+- Significance 9.2: protected marine biodiversity.
+- Experience 9.3: permitted snorkeling and diving subject to conditions.
+- Depth 9.0: multiple reef and coastal sites.
+- Categories: nature:9.5 wildlife:9.5 adventure:9.4 photography:9.3. Overall: 92.80/100.
+- High-score challenge: nature 9.5: Red Sea reefs and coastal desert; compared with field references above; wildlife 9.5: Red Sea reefs and coastal desert; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-white-desert — White Desert National Park — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/white-desert.yaml) · Action: new · **source-linked-unverified**.
+- Scope: sculpted pale chalk formations. GPS 27.28, 28.18: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Wadi Rum Protected Area (JO)](../../../countries/JO/sights/wadi-rum-protected-area.yaml) — 9.8 / 9.7 / 9.4 / 9.6 / 9.5; major desert landscape; uniqueness lower (unusual white desert landforms); depth lower (multiple formations and landscape sectors).
+  - [Mount Huangshan (CN)](../../../countries/CN/sights/mount-huangshan.yaml) — 9.9 / 9.9 / 9.6 / 9.8 / 9.3; world-leading rocky scenery; uniqueness lower (unusual white desert landforms); depth lower (multiple formations and landscape sectors).
+  - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0 / 8.9 / 8.8 / 8.9 / 9.0; bounded protected ecosystem; uniqueness higher (unusual white desert landforms); depth lower (multiple formations and landscape sectors).
+  - [Pedra de Lume Salt Crater (CV)](../../../countries/CV/sights/pedra-de-lume-salt-crater.yaml) — 8.5 / 9.1 / 7.7 / 8.4 / 7.3; smaller geological landscape; uniqueness higher (unusual white desert landforms); depth higher (multiple formations and landscape sectors).
+- Impact 9.5: sculpted pale chalk formations.
+- Uniqueness 9.5: unusual white desert landforms.
+- Significance 8.9: regional geological importance.
+- Experience 9.0: guided routes and permitted camps.
+- Depth 8.7: multiple formations and landscape sectors.
+- Categories: nature:9.5 photography:9.6 adventure:9.0. Overall: 92.25/100.
+- High-score challenge: Impact 9.5: sculpted pale chalk formations; compared with field references above; Uniqueness 9.5: unusual white desert landforms; compared with field references above; nature 9.5: sculpted pale chalk formations; compared with field references above; photography 9.6: sculpted pale chalk formations; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-siwa-archaeological-area — Siwa Archaeological Area — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/siwa-archaeological-area.yaml) · Action: new · **source-linked-unverified**.
+- Scope: oasis archaeological remains including oracle context. GPS 29.205, 25.545: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (distinct desert cultural layers); depth lower (multiple sites but scope requires further inventory).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (distinct desert cultural layers); depth lower (multiple sites but scope requires further inventory).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (distinct desert cultural layers); depth lower (multiple sites but scope requires further inventory).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness lower (distinct desert cultural layers); depth lower (multiple sites but scope requires further inventory).
+- Impact 8.7: oasis archaeological remains including oracle context.
+- Uniqueness 9.0: distinct desert cultural layers.
+- Significance 9.1: ancient pilgrimage and oasis heritage.
+- Experience 8.5: permitted archaeological visits.
+- Depth 8.5: multiple sites but scope requires further inventory.
+- Categories: history:9.2 culture:9.1 architecture:8.8. Overall: 88.05/100.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-abydos — Abydos Temple and Archaeological Area — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/abydos.yaml) · Action: new · **source-linked-unverified**.
+- Scope: monumental temple and early dynastic context. GPS 26.185, 31.919: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (rare long-lived royal pilgrimage landscape); depth lower (multiple archaeological components with partial access).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (rare long-lived royal pilgrimage landscape); depth lower (multiple archaeological components with partial access).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (rare long-lived royal pilgrimage landscape); depth lower (multiple archaeological components with partial access).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (rare long-lived royal pilgrimage landscape); depth lower (multiple archaeological components with partial access).
+- Impact 9.3: monumental temple and early dynastic context.
+- Uniqueness 9.5: rare long-lived royal pilgrimage landscape.
+- Significance 9.6: major Egyptian religious and dynastic heritage.
+- Experience 8.9: permitted temple visits.
+- Depth 8.8: multiple archaeological components with partial access.
+- Categories: history:9.7 architecture:9.5. Overall: 93.00/100.
+- High-score challenge: Uniqueness 9.5: rare long-lived royal pilgrimage landscape; compared with field references above; Significance 9.6: major Egyptian religious and dynastic heritage; compared with field references above; history 9.7: major Egyptian religious and dynastic heritage; compared with field references above; architecture 9.5: monumental temple and early dynastic context; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-alexandria-heritage-property — Alexandria Ancient Remains and New Library — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/alexandria-heritage-property.yaml) · Action: new · **unassessed**.
+- Scope: tentative dispersed urban heritage ensemble. GPS 31.20, 29.92: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Historic Areas of Istanbul (TR)](../../../countries/TR/sights/historic-istanbul.yaml) — 9.4 / 9.4 / 9.4 / 9.1 / 9.1; global historic urban ensemble; future comparison only; visitor scope unresolved.
+  - [Medieval City of Rhodes (GR)](../../../countries/GR/sights/rhodes-old-town.yaml) — 9.3 / 9.3 / 9.3 / 9.2 / 9.1; fortified urban fabric; future comparison only; visitor scope unresolved.
+  - [As-Salt Historic Core (JO)](../../../countries/JO/sights/as-salt-historic-core.yaml) — 8.7 / 9.1 / 9.1 / 8.7 / 8.4; regional historic townscape; future comparison only; visitor scope unresolved.
+  - [Massawa Old Town (ER)](../../../countries/ER/sights/massawa-old-town.yaml) — 8.6 / 8.9 / 9.1 / 8.0 / 8.0; historic port quarter; future comparison only; visitor scope unresolved.
+- Impact null: tentative dispersed urban heritage ensemble.
+- Uniqueness null: avoid aggregating unrelated tickets as single visit.
+- Significance null: tentative property.
+- Experience null: component scope not verified.
+- Depth null: individual attractions require assessment.
+- Categories: none assessed. Overall: unranked.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+
+## sight-eg-bibliotheca-alexandrina — Bibliotheca Alexandrina — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/bibliotheca-alexandrina.yaml) · Action: new · **source-linked-unverified**.
+- Scope: modern circular library architecture. GPS 31.209, 29.909: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [National Archaeological Museum Athens (GR)](../../../countries/GR/sights/national-arch-museum.yaml) — 9.0 / 9.2 / 9.6 / 9.0 / 9.2; international archaeological collections; uniqueness lower (distinct modern scholarly landmark); depth lower (multiple cultural spaces).
+  - [Jordan Museum (JO)](../../../countries/JO/sights/jordan-museum.yaml) — 8.1 / 8.4 / 8.9 / 8.5 / 8.5; regional archaeological collection; uniqueness higher (distinct modern scholarly landmark); depth higher (multiple cultural spaces).
+  - [National Museum of Oman (OM)](../../../countries/OM/sights/national-museum-of-oman.yaml) — 8.1 / 8.5 / 8.9 / 8.5 / 8.5; national historical collections; uniqueness higher (distinct modern scholarly landmark); depth higher (multiple cultural spaces).
+  - [National Museum of Eritrea (ER)](../../../countries/ER/sights/national-museum-of-eritrea.yaml) — 6.8 / 7.8 / 8.5 / 7.4 / 7.0; smaller regional museum; uniqueness higher (distinct modern scholarly landmark); depth higher (multiple cultural spaces).
+- Impact 8.8: modern circular library architecture.
+- Uniqueness 8.9: distinct modern scholarly landmark.
+- Significance 9.0: international cultural institution.
+- Experience 8.8: permitted exhibitions and library visits.
+- Depth 8.6: multiple cultural spaces.
+- Categories: architecture:9.2 culture:9.1 history:8.5. Overall: 88.45/100.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-qaitbay-citadel — Qaitbay Citadel — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/qaitbay-citadel.yaml) · Action: new · **source-linked-unverified**.
+- Scope: coastal fortress on historic harbor. GPS 31.214, 29.885: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (distinct setting at ancient lighthouse site); depth lower (bounded fort).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (distinct setting at ancient lighthouse site); depth lower (bounded fort).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (distinct setting at ancient lighthouse site); depth lower (bounded fort).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness lower (distinct setting at ancient lighthouse site); depth lower (bounded fort).
+- Impact 8.8: coastal fortress on historic harbor.
+- Uniqueness 8.7: distinct setting at ancient lighthouse site.
+- Significance 8.8: Mamluk maritime defense heritage.
+- Experience 8.6: fortress interiors and viewpoints.
+- Depth 8.0: bounded fort.
+- Categories: architecture:8.9 history:9.0 photography:9.0. Overall: 86.65/100.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-catacombs-kom-el-shoqafa — Catacombs of Kom el Shoqafa — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/catacombs-kom-el-shoqafa.yaml) · Action: new · **source-linked-unverified**.
+- Scope: underground funerary chambers. GPS 31.178, 29.893: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (rare blend of Egyptian Greek and Roman motifs); depth lower (bounded chambers).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (rare blend of Egyptian Greek and Roman motifs); depth lower (bounded chambers).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (rare blend of Egyptian Greek and Roman motifs); depth lower (bounded chambers).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness lower (rare blend of Egyptian Greek and Roman motifs); depth lower (bounded chambers).
+- Impact 8.7: underground funerary chambers.
+- Uniqueness 9.1: rare blend of Egyptian Greek and Roman motifs.
+- Significance 9.0: Roman-era cultural exchange.
+- Experience 8.5: permitted underground route.
+- Depth 8.1: bounded chambers.
+- Categories: architecture:8.9 history:9.2. Overall: 87.70/100.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-dendera-temple — Dendera Temple Complex — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/dendera-temple.yaml) · Action: new · **source-linked-unverified**.
+- Scope: large decorated Hathor temple. GPS 26.142, 32.670: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; uniqueness lower (distinct preservation of late temple reliefs); depth lower (bounded complex).
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; uniqueness lower (distinct preservation of late temple reliefs); depth lower (bounded complex).
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; uniqueness lower (distinct preservation of late temple reliefs); depth lower (bounded complex).
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; uniqueness higher (distinct preservation of late temple reliefs); depth lower (bounded complex).
+- Impact 9.3: large decorated Hathor temple.
+- Uniqueness 9.4: distinct preservation of late temple reliefs.
+- Significance 9.4: major Ptolemaic and Roman religious heritage.
+- Experience 9.1: permitted halls and grounds.
+- Depth 8.8: bounded complex.
+- Categories: architecture:9.5 history:9.5 photography:9.3. Overall: 92.65/100.
+- High-score challenge: architecture 9.5: large decorated Hathor temple; compared with field references above; history 9.5: major Ptolemaic and Roman religious heritage; compared with field references above. 90+ overall reflects multiple strong fields, not inscription alone. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
+
+## sight-eg-serabit-el-khadim — Serabit el-Khadim Temple — 2026-11-25
+
+- [YAML](../../../countries/EG/sights/serabit-el-khadim.yaml) · Action: new · **unassessed**.
+- Scope: tentative Sinai archaeological site. GPS 29.037, 33.459: approximate editorial reference; independent verification pending.
+- Worldwide peers (I/U/S/E/D):
+  - [Angkor Archaeological Park (KH)](../../../countries/KH/sights/angkor-archaeological-park.yaml) — 10.0 / 10.0 / 10.0 / 9.8 / 10.0; global sacred archaeological ensemble ceiling; future comparison only; visitor scope unresolved.
+  - [Petra Archaeological Park (JO)](../../../countries/JO/sights/petra-archaeological-park.yaml) — 9.9 / 9.9 / 9.9 / 9.8 / 9.9; monumental ancient rock-cut heritage; future comparison only; visitor scope unresolved.
+  - [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6 / 9.7 / 9.7 / 9.3 / 9.5; extensive ancient urban remains; future comparison only; visitor scope unresolved.
+  - [Jerash Archaeological City (JO)](../../../countries/JO/sights/jerash-archaeological-city.yaml) — 9.5 / 9.3 / 9.5 / 9.4 / 9.3; provincial monumental archaeology; future comparison only; visitor scope unresolved.
+- Impact null: tentative Sinai archaeological site.
+- Uniqueness null: scope and access not verified.
+- Significance null: tentative property.
+- Experience null: permitted visiting conditions unknown.
+- Depth null: site access and GPS require review.
+- Categories: none assessed. Overall: unranked.
+- High-score challenge: no 9.5+ fields. No approved 10.
+- Evidence: [source context](https://whc.unesco.org/en/statesparties/eg) (consulted 2026-11-25; country inventory confirms designation only). No full independent claim-level verification.
+- Remaining gaps: precise GPS, individual facts and permitted access, component scope and all five dimensions.
+
+## sight-eg-pharaoh-island — Pharaoh's Island — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/pharaoh-island.yaml)
+- Action: rescore
+- Precise subject: Single island fortress and documented boat approach; excludes Al-Gundi fortress, reef activities not specifically documented for the attraction, and other Taba sites.
+- Location check: 29.463, 34.858; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): UNESCO https://whc.unesco.org/en/tentativelists/196 (indexed) documents strategic medieval island fortress; https://whc.unesco.org/en/tentativelists/1828 (indexed) also includes it with Al-Gundi. Egyptian Tourism Authority https://www.experienceegypt.eg/en/attraction-details/288/salah-al-din-castle (indexed excerpt; direct page redirects to homepage) describes short ferry from Taba and historic fortress views. Current ferry operation and interior access unconfirmed. Existing approximate island coordinate retained pending corroboration.
+- Missing facts: current access and full independent factual verification.
+
+### Worldwide peer comparisons
+- [karak-castle (JO)](../../../countries/JO/sights/karak-castle.yaml): 8.8/8.7/9.0/8.7/8.6; larger medieval fortress and established land-based visitor circuit.
+- [bahla-fort (OM)](../../../countries/OM/sights/bahla-fort.yaml): 8.8/8.8/9.2/8.6/8.5; larger inscribed fortification with greater documented heritage.
+- [fasil-ghebbi (ET)](../../../countries/ET/sights/fasil-ghebbi.yaml): 9.2/9.3/9.4/9.0/8.7; broader fortified royal ensemble.
+- [table-jugurtha (TN)](../../../countries/TN/sights/table-jugurtha.yaml): 9/9/8.7/8.6/8.2; distinct natural defensive site, more extensive viewpoint circuit.
+
+### Scoring decisions
+- Impact: 8.8 — Visually striking small fortified island and mountain-sea setting.
+- Uniqueness: 8.7 — Distinctive maritime fortification setting with international analogues.
+- Significance: 8.8 — Important medieval regional defensive and trade-route context.
+- Experience: 8.2 — Documented ferry and exterior views; current operations and interior route not verified.
+- Depth: 7.7 — Compact fortress and boat approach rather than broader serial property.
+- Applicable categories: history 9, architecture 8.9, photography 9.
+- Overall: 85.75/100.
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment for documented visitor scope.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise public entrance and full independent claim-level corroboration.
+
+
+## sight-eg-nilometer-roda — Roda Island Nilometer — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/nilometer-roda.yaml)
+- Action: rescore
+- Precise subject: Historic measuring shaft, central column, stair and monument building; excludes neighboring palace and broader Cairo.
+- Location check: 30.006944, 31.224722; representative point, not entrance.
+- Evidence status: **source-linked-unverified**
+- Sources (2026-11-26): Ministry https://egymonuments.gov.eg/en/monuments/rawda-island-nilometer/ (opened) describes Abbasid construction, inscribed stone well and historical flood-measurement function, lists hours and admission. UNESCO https://whc.unesco.org/en/tentativelists/1826/ (indexed) documents tentative hydraulic heritage and location. Cairo Gazetteer authority https://femenrev.persee.fr/authority/604325 (indexed) gives N30°00′25″ E31°13′29″, converted to decimal. No claim that descent into well is permitted.
+- Missing facts: current access and full independent factual verification.
+
+### Worldwide peer comparisons
+- [ironbridge (GB)](../../../countries/GB/sights/ironbridge.yaml): 8.5/8.9/9.2/8.8/8.7; more extensive technological heritage visitor landscape.
+- [tarnowskie-gory-mine (PL)](../../../countries/PL/sights/tarnowskie-gory-mine.yaml): 8.7/9.1/9.3/8.8/8.6; broader historic water-management engineering and underground visits.
+- [budj-bim-cultural-landscape (AU)](../../../countries/AU/sights/budj-bim-cultural-landscape.yaml): 8.0/9.0/9.3/8.1/8.0; important living hydraulic engineering heritage, wider landscape.
+- [pisek-stone-bridge (CZ)](../../../countries/CZ/sights/pisek-stone-bridge.yaml): 8.0/8.4/8.7/8.1/6.9; similarly focused medieval engineering monument, less unusual function.
+
+### Scoring decisions
+- Impact: 8.2 — Distinctive stone-lined shaft and measuring column.
+- Uniqueness: 9 — Rare surviving early medieval hydraulic and measurement architecture.
+- Significance: 9 — Important evidence of flood management and taxation history.
+- Experience: 8.3 — Official admission and monument viewing documented, no unrestricted stair access assumed.
+- Depth: 7 — Focused single monument with limited independent features.
+- Applicable categories: history 9.2, architecture 8.9.
+- Overall: 84.55/100.
+- High-score challenge: no 9.5+ fields or 90+ total.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment for documented visitor scope.
+- Earlier decision: [prior incomplete assessment](history-review-2026-11-26.md).
+- Verification still needed: current visitor conditions, precise public entrance and full independent claim-level corroboration.
+

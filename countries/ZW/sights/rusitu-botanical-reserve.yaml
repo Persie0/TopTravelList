@@ -1,0 +1,13 @@
+id: sight-zw-rusitu-botanical-reserve
+name: "Rusitu Botanical Reserve"
+location:
+  country_code: ZW
+  latitude: -20.024496
+  longitude: 32.992742
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

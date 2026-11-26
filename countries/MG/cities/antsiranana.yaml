@@ -1,0 +1,15 @@
+id: city-mg-antsiranana
+name: "Antsiranana"
+location:
+  country_code: MG
+  latitude: -12.2787
+  longitude: 49.2917
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.0
+  depth: 7.7
+  categories:
+    architecture: 8.2
+    culture: 8.2

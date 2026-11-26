@@ -1,0 +1,16 @@
+id: sight-au-purnululu-national-park
+name: "Purnululu National Park"
+location:
+  country_code: AU
+  latitude: -17.5
+  longitude: 128.4
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 8.8

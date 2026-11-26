@@ -1,0 +1,17 @@
+id: city-ma-fez
+name: "Fez"
+location:
+  country_code: MA
+  latitude: 34.033
+  longitude: -5.0
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.8
+  depth: 9.1
+  categories:
+    architecture: 9.5
+    culture: 9.5
+    history: 9.5
+    food: 8.8

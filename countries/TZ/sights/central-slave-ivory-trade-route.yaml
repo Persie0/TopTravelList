@@ -1,0 +1,14 @@
+id: sight-tz-central-slave-ivory-trade-route
+name: "Central Slave and Ivory Trade Route"
+location:
+  country_code: TZ
+  latitude: -6.433333
+  longitude: 38.9
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.4

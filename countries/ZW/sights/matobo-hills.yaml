@@ -1,0 +1,17 @@
+id: sight-zw-matobo-hills
+name: "Matobo Hills"
+location:
+  country_code: ZW
+  latitude: -20.5
+  longitude: 28.5
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.4
+    history: 9.5
+    culture: 9.3
+    photography: 9.4

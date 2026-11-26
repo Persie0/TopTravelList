@@ -1,0 +1,16 @@
+id: sight-fm-utwe-walung-marine-park
+name: "Utwe-Walung Marine Park"
+location:
+  country_code: FM
+  latitude: 5.28137
+  longitude: 162.96678
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.0
+    wildlife: 8.7
+    adventure: 8.6

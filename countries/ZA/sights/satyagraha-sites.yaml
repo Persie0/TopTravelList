@@ -1,0 +1,13 @@
+id: sight-za-satyagraha-sites
+name: "Sites of Satyagraha (tentative aggregate)"
+location:
+  country_code: ZA
+  latitude: -29.78
+  longitude: 30.95
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,16 @@
+id: city-za-franschhoek
+name: "Franschhoek"
+location:
+  country_code: ZA
+  latitude: -33.910
+  longitude: 19.120
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.8
+  depth: 7.6
+  categories:
+    food: 8.9
+    architecture: 8.3
+    relaxation: 8.7

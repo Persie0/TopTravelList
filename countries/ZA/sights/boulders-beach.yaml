@@ -1,0 +1,16 @@
+id: sight-za-boulders-beach
+name: "Boulders Penguin Colony"
+location:
+  country_code: ZA
+  latitude: -34.197
+  longitude: 18.451
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 8.9
+  depth: 7.7
+  categories:
+    wildlife: 9.3
+    photography: 9.2
+    beaches: 8.6

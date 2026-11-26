@@ -1,0 +1,16 @@
+id: sight-ma-historic-meknes
+name: "Historic City of Meknes"
+location:
+  country_code: MA
+  latitude: 33.893
+  longitude: -5.567
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 9.0

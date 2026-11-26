@@ -1,0 +1,16 @@
+id: city-za-durban
+name: "Durban"
+location:
+  country_code: ZA
+  latitude: -29.8587
+  longitude: 31.0218
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.7
+  depth: 8.5
+  categories:
+    beaches: 8.8
+    culture: 8.7
+    food: 8.8

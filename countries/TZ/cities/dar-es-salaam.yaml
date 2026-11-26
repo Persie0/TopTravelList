@@ -1,0 +1,15 @@
+id: city-tz-dar-es-salaam
+name: "Dar es Salaam"
+location:
+  country_code: TZ
+  latitude: -6.823
+  longitude: 39.27
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 8.6
+  categories:
+    culture: 8.7
+    food: 8.7

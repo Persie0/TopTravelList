@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {quantile,scoreSample,scoreSpread,scoreTiers,countAtLeast,coverageStats} from './statistics.mjs';
+const rows=[{"country":"AT","overall":90,"scores":{"impact":9}},{"country":"AT","overall":80,"scores":{"impact":8}},{"country":"SK","overall":65,"scores":{"impact":6.5}},{"country":"SK","overall":0,"scores":{"impact":0}},{"country":"CZ","overall":null,"scores":{"impact":null}}];
+test("quantiles interpolate and preserve zero",()=>assert.deepEqual((()=>[quantile([0,10,20,30],.25),quantile([0,10,20,30],.5),quantile([],1)])(),[7.5,15,null]));
+test("score sample excludes missing values and sorts",()=>assert.deepEqual((()=>scoreSample(rows))(),[0,65,80,90]));
+test("spread and percentile",()=>assert.deepEqual((()=>scoreSpread([0,10,20,30]))(),{"n":4,"min":0,"q1":7.5,"median":15,"q3":22.5,"max":30,"p90":27}));
+test("empty sample",()=>assert.deepEqual((()=>scoreSpread([]))(),{"n":0,"min":null,"q1":null,"median":null,"q3":null,"max":null,"p90":null}));
+test("tier boundaries on both scales",()=>assert.deepEqual((()=>[scoreTiers(rows),scoreTiers(rows,'impact')])(),[[1,1,1,1,1],[1,1,1,1,1]]));
+test("threshold includes ties and empty input",()=>assert.deepEqual((()=>[countAtLeast([0,8,8,10],8),countAtLeast([],0),countAtLeast([1,2],3)])(),[3,0,0]));
+test("coverage separates matching and catalogued countries",()=>assert.deepEqual((()=>coverageStats(rows,[{code:'AT',region:'Europe',catalogued:true},{code:'SK',region:'Europe',catalogued:false,sights:2},{code:'CZ',region:'Europe',sights:1},{code:'DE',region:'Europe',sights:2},{code:'JP',region:'Asia',cities:0}]))(),[{"region":"Asia","total":1,"represented":0,"catalogued":0},{"region":"Europe","total":4,"represented":3,"catalogued":3}]));

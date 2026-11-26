@@ -1,0 +1,15 @@
+id: sight-dz-al-qala-beni-hammad
+name: "Al Qal’a of Beni Hammad"
+location:
+  country_code: DZ
+  latitude: 35.81844
+  longitude: 4.78684
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.0
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 9.3

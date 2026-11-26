@@ -1,0 +1,17 @@
+id: sight-ma-talassemtane-national-park
+name: "Talassemtane National Park"
+location:
+  country_code: MA
+  latitude: 35.13
+  longitude: -5.12
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.0
+    wildlife: 8.5

@@ -1,0 +1,15 @@
+id: sight-za-apartheid-museum
+name: "Apartheid Museum"
+location:
+  country_code: ZA
+  latitude: -26.238
+  longitude: 28.008
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    history: 9.7
+    culture: 9.4

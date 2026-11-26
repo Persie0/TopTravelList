@@ -1,0 +1,15 @@
+id: sight-vu-million-dollar-point
+name: "Million Dollar Point"
+location:
+  country_code: VU
+  latitude: -15.52551
+  longitude: 167.24522
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 8.4
+    adventure: 8.2

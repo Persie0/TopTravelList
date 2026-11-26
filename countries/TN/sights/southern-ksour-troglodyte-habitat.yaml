@@ -1,0 +1,13 @@
+id: sight-tn-southern-ksour-troglodyte-habitat
+name: "Southern Tunisian Ksour and Troglodyte Habitats"
+location:
+  country_code: TN
+  latitude: 33.22
+  longitude: 10.45
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

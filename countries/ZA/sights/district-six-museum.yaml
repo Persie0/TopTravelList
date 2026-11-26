@@ -1,0 +1,15 @@
+id: sight-za-district-six-museum
+name: "District Six Museum"
+location:
+  country_code: ZA
+  latitude: -33.927
+  longitude: 18.423
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 8.2
+  categories:
+    history: 9.4
+    culture: 9.2

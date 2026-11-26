@@ -1,0 +1,15 @@
+id: sight-fj-fiji-museum
+name: "Fiji Museum"
+location:
+  country_code: FJ
+  latitude: -18.14967
+  longitude: 178.42569
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 8.8
+    culture: 8.9

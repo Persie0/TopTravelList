@@ -1,0 +1,16 @@
+id: sight-eg-hatshepsut-temple
+name: "Mortuary Temple of Hatshepsut"
+location:
+  country_code: EG
+  latitude: 25.738
+  longitude: 32.606
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 8.6
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.6

@@ -1,0 +1,16 @@
+id: sight-zw-natural-history-museum
+name: "Natural History Museum of Zimbabwe"
+location:
+  country_code: ZW
+  latitude: -20.1558
+  longitude: 28.59642
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.0
+    culture: 8.6
+    family: 8.7

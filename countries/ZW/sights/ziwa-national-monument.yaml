@@ -1,0 +1,15 @@
+id: sight-zw-ziwa-national-monument
+name: "Ziwa National Monument"
+location:
+  country_code: ZW
+  latitude: -18.133333
+  longitude: 32.633333
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.2
+  depth: 8.3
+  categories:
+    history: 9.2
+    culture: 8.8

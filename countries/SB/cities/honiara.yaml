@@ -1,0 +1,16 @@
+id: city-sb-honiara
+name: "Honiara"
+location:
+  country_code: SB
+  latitude: -9.43333
+  longitude: 159.95
+scores:
+  impact: 6.8
+  uniqueness: 7.6
+  significance: 7.9
+  experience: 7.6
+  depth: 7.3
+  categories:
+    culture: 8.0
+    history: 8.1
+    food: 7.5
