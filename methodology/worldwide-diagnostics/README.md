@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14933; unassessed: 1336.
+Ranked: 14937; unassessed: 1332.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,9 +13,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1336 |
+| incomplete-core | 1332 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1801 |
+| overall-90-plus | 1802 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -29,7 +29,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | AD | cities | 18 | 18 | 72.12 | 0 | 0 | 0 | 18 | [Andorra la Vella](../../countries/AD/cities/andorra-la-vella.yaml) 78.90; [Ordino](../../countries/AD/cities/ordino.yaml) 78.15; [Les Bons](../../countries/AD/cities/les-bons.yaml) 76.30 |
 | AD | sights | 38 | 38 | 80.28 | 0 | 0 | 0 | 38 | [Madriu-Perafita-Claror Valley](../../countries/AD/sights/madriu-perafita-claror-valley.yaml) 88.50; [Comapedrosa Nature Park](../../countries/AD/sights/comapedrosa-nature-park.yaml) 85.85; [Coronallacs Hiking Circuit](../../countries/AD/sights/coronallacs-hiking-circuit.yaml) 85.20 |
 | AE | cities | 14 | 14 | 75.30 | 1 | 0 | 1 | 14 | [Dubai](../../countries/AE/cities/dubai.yaml) 90.65; [Abu Dhabi](../../countries/AE/cities/abu-dhabi.yaml) 86.50; [Al Ain](../../countries/AE/cities/al-ain.yaml) 82.95 |
-| AE | sights | 57 | 46 | 82.15 | 3 | 0 | 6 | 57 | [Burj Khalifa](../../countries/AE/sights/burj-khalifa.yaml) 92.25; [Louvre Abu Dhabi](../../countries/AE/sights/louvre-abu-dhabi.yaml) 91.25; [Sheikh Zayed Grand Mosque](../../countries/AE/sights/sheikh-zayed-grand-mosque.yaml) 90.60 |
+| AE | sights | 57 | 47 | 82.20 | 3 | 0 | 6 | 57 | [Burj Khalifa](../../countries/AE/sights/burj-khalifa.yaml) 92.25; [Louvre Abu Dhabi](../../countries/AE/sights/louvre-abu-dhabi.yaml) 91.25; [Sheikh Zayed Grand Mosque](../../countries/AE/sights/sheikh-zayed-grand-mosque.yaml) 90.60 |
 | AF | cities | 10 | 10 | 79.18 | 0 | 0 | 0 | 10 | [Herat](../../countries/AF/cities/herat.yaml) 85.75; [Kabul](../../countries/AF/cities/kabul.yaml) 81.95; [Mazar-i-Sharif](../../countries/AF/cities/mazar-i-sharif.yaml) 80.10 |
 | AF | sights | 23 | 7 | 85.20 | 0 | 0 | 0 | 23 | [Bamiyan Buddha Niches and Cliff Caves](../../countries/AF/sights/bamiyan-buddha-niches.yaml) 87.60; [Great Mosque of Herat](../../countries/AF/sights/herat-grand-mosque.yaml) 86.85; [Shrine of Hazrat Ali (Blue Mosque)](../../countries/AF/sights/blue-mosque.yaml) 86.65 |
 | AG | cities | 10 | 10 | 72.32 | 0 | 0 | 0 | 10 | [English Harbour](../../countries/AG/cities/english-harbour.yaml) 83.65; [St John's](../../countries/AG/cities/st-john-s.yaml) 79.90; [Falmouth](../../countries/AG/cities/falmouth.yaml) 75.70 |
@@ -231,7 +231,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IE | cities | 20 | 20 | 80.95 | 0 | 0 | 0 | 20 | [Dublin](../../countries/IE/cities/dublin.yaml) 89.50; [Galway](../../countries/IE/cities/galway.yaml) 86.25; [Kilkenny](../../countries/IE/cities/kilkenny.yaml) 86.25 |
 | IE | sights | 46 | 43 | 87.55 | 5 | 0 | 4 | 46 | [Sceilg Mhichíl (Skellig Michael)](../../countries/IE/sights/skellig-michael.yaml) 94.50; [Brú na Bóinne archaeological ensemble](../../countries/IE/sights/bru-na-boinne.yaml) 92.85; [Dingle Peninsula](../../countries/IE/sights/dingle-peninsula.yaml) 91.35 |
 | IL | cities | 12 | 12 | 80.20 | 0 | 0 | 0 | 12 | [Tel Aviv-Yafo](../../countries/IL/cities/tel-aviv.yaml) 87.05; [Acre (Akko)](../../countries/IL/cities/acre.yaml) 86.90; [Jerusalem (western districts only)](../../countries/IL/cities/west-jerusalem.yaml) 86.60 |
-| IL | sights | 41 | 30 | 86.42 | 4 | 0 | 0 | 41 | [Masada National Park](../../countries/IL/sights/masada.yaml) 92.25; [Yad Vashem Holocaust History Museum and Campus](../../countries/IL/sights/yad-vashem.yaml) 92.00; [Old City of Acre](../../countries/IL/sights/old-acre.yaml) 90.50 |
+| IL | sights | 41 | 33 | 86.35 | 5 | 0 | 0 | 41 | [Masada National Park](../../countries/IL/sights/masada.yaml) 92.25; [Yad Vashem Holocaust History Museum and Campus](../../countries/IL/sights/yad-vashem.yaml) 92.00; [Old City of Acre](../../countries/IL/sights/old-acre.yaml) 90.50 |
 | IM | cities | 7 | 7 | 80.60 | 0 | 0 | 0 | 7 | [Peel](../../countries/IM/cities/peel.yaml) 84.10; [Douglas](../../countries/IM/cities/douglas.yaml) 83.60; [Castletown](../../countries/IM/cities/castletown.yaml) 83.15 |
 | IM | sights | 24 | 24 | 85.35 | 1 | 0 | 0 | 24 | [Great Laxey Wheel and mining heritage](../../countries/IM/sights/great-laxey-wheel.yaml) 90.30; [Isle of Man TT Mountain Course spectator experience](../../countries/IM/sights/tt-mountain-course.yaml) 89.40; [Peel Castle and St Patrick's Isle](../../countries/IM/sights/peel-castle.yaml) 88.90 |
 | IN | cities | 97 | 97 | 81.75 | 5 | 0 | 6 | 97 | [Varanasi](../../countries/IN/cities/varanasi.yaml) 93.50; [Delhi](../../countries/IN/cities/delhi.yaml) 93.25; [Jaipur](../../countries/IN/cities/jaipur.yaml) 91.35 |
