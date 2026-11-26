@@ -833,3 +833,40 @@
 | [Pella Archaeological Site](../../../countries/JO/sights/pella-archaeological-site.yaml) | 7.9 / 8.4 / 8.9 / 8.0 / 8.3 | 82.80/100 | Regional multiperiod archaeology. |
 | [Joya de Cerén Archaeological Site](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70/100 | Exceptional domestic archaeological preservation with bounded depth. |
 
+## sight-kw-kuwait-motor-town — Kuwait Motor Town — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/kuwait-motor-town.yaml)
+- Action: new
+- Precise subject and limitations: Circuit complex and public karting where available; excludes unrelated racing events as standalone records. Official operator documents karting facilities; October 2026 reporting describes public sessions (https://kwt.one/en/karting-king-fahad-road/). Schedules and eligibility vary; no race admission guaranteed.
+- Location check: 28.92819, 48.14148; [representative point source](https://mapcarta.com/W745246568), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.kmt.kw/racetrack/karting/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/bahrain-international-circuit](../../../countries/BH/sights/bahrain-international-circuit.yaml) | 8.2 / 7.8 / 8.0 / 8.5 / 7.8 | Greater established international event significance. |
+| [QA/lusail-international-circuit](../../../countries/QA/sights/lusail-international-circuit.yaml) | 8.5 / 8.2 / 8.2 / 8.7 / 8.1 | Broader international racing profile. |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | 8.8 / 8.9 / 6.8 / 9.1 / 8.8 | Different themed amusement experience. |
+| [QA/doha-quest](../../../countries/QA/sights/doha-quest.yaml) | 7.7 / 7.4 / 6.0 / 8.4 / 7.6 | Different indoor recreation scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Substantial purpose-built racing venue. |
+| Uniqueness | 8.0 | International circuit format but similar venues elsewhere. |
+| Significance | 7.5 | Regional motorsport significance. |
+| Experience | 8.6 | Participatory karting and event-dependent viewing. |
+| Depth | 8.0 | Several circuit facilities. |
+
+- Applicable categories: adventure:8.8, photography:8.2.
+- Computed worldwide overall: 80.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

@@ -106,7 +106,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Austria](countries/AT/) (`AT`) | [45](countries/AT/cities.md) | [134](countries/AT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Austria) |
 | [Azerbaijan](countries/AZ/) (`AZ`) | [16](countries/AZ/cities.md) | [40](countries/AZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Azerbaijan) |
 | [Bahamas](countries/BS/) (`BS`) | [12](countries/BS/cities.md) | [34](countries/BS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahamas) |
-| [Bahrain](countries/BH/) (`BH`) | [15](countries/BH/cities.md) | [43](countries/BH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahrain) |
+| [Bahrain](countries/BH/) (`BH`) | [15](countries/BH/cities.md) | [46](countries/BH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahrain) |
 | [Bangladesh](countries/BD/) (`BD`) | [15](countries/BD/cities.md) | [42](countries/BD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bangladesh) |
 | [Barbados](countries/BB/) (`BB`) | [10](countries/BB/cities.md) | [35](countries/BB/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Barbados) |
 | [Belarus](countries/BY/) (`BY`) | [14](countries/BY/cities.md) | [35](countries/BY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Belarus) |
@@ -207,7 +207,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Kenya](countries/KE/) (`KE`) | [6](countries/KE/cities.md) | [44](countries/KE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kenya) |
 | [Kiribati](countries/KI/) (`KI`) | [12](countries/KI/cities.md) | [13](countries/KI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kiribati) |
 | [Kosovo](countries/XK/) (`XK`) | [20](countries/XK/cities.md) | [38](countries/XK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kosovo) |
-| [Kuwait](countries/KW/) (`KW`) | [12](countries/KW/cities.md) | [43](countries/KW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kuwait) |
+| [Kuwait](countries/KW/) (`KW`) | [12](countries/KW/cities.md) | [44](countries/KW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kuwait) |
 | [Kyrgyzstan](countries/KG/) (`KG`) | [18](countries/KG/cities.md) | [46](countries/KG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kyrgyzstan) |
 | [Laos](countries/LA/) (`LA`) | [42](countries/LA/cities.md) | [144](countries/LA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Laos) |
 | [Latvia](countries/LV/) (`LV`) | [18](countries/LV/cities.md) | [38](countries/LV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Latvia) |

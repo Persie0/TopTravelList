@@ -1,0 +1,15 @@
+id: sight-bh-al-riwaq-art-space
+name: "Al Riwaq Art Space"
+location:
+  country_code: BH
+  latitude: 26.22329
+  longitude: 50.56619
+scores:
+  impact: 7.6
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.3
+  depth: 7.9
+  categories:
+    culture: 8.9
+    architecture: 8.3
