@@ -628,3 +628,15 @@ Nine additions and 36 peer comparisons. Egypt 68 ranked / 68 total. Government b
 - [x] EG — Tuna el-Gebel Necropolis: 87.20/100 (source-linked-unverified).
 
 Ten additions, 40 peer comparisons. Egypt 78 ranked / 78 total. Combined mosque admission and Al-Muizz monument scope confirmed; adjacent museum separate. Tuna el-Gebel tomb point preferred to discrepant regional GeoNames marker; Amarna Getty settlement point not a ticket office. Next bounded screen: Alexandria Graeco-Roman Museum, Kom el-Dikka, Roman amphitheatre (same site), Pompey's Pillar/Serapeum, Montaza gardens, Abusir pyramid field, Shali fortress (check existing Siwa scope), Saint Catherine monastery and Mount Sinai (check parent). Screen final substantial remaining omissions without quota. Islamic Cemetery not yet assessed. Full Python validation and individual peer YAML checks pending.
+
+### Pass 58 — Alexandria and Siwa final named candidates
+
+- [x] EG — Graeco-Roman Museum (Alexandria): 89.80/100 (source-linked-unverified).
+- [x] EG — Kom el-Dikka Archaeological Site: 87.65/100 (source-linked-unverified).
+- [x] EG — Pompey's Pillar and Serapeum: 85.35/100 (source-linked-unverified).
+- [x] EG — Montaza Gardens and Palace Exteriors: 84.10/100 (source-linked-unverified).
+- [x] EG — Royal Jewelry Museum (Alexandria): 86.75/100 (source-linked-unverified).
+- [x] EG — Alexandria National Museum: 85.35/100 (source-linked-unverified).
+- [x] EG — Shali Fortress and Historic Settlement: 87.25/100 (source-linked-unverified).
+
+Seven additions and 28 peer comparisons. Egypt 85 ranked / 85 total. Abusir pyramid field deferred: ordinary access reported closed, renewed access not established (https://en.wikivoyage.org/wiki/Abusir and https://egyptcompasstours.com/destinations/giza/pyramids-of-abusir). Saint Catherine parent explicitly covers monastery and mountain; retain one record in current screen. Aswan Islamic Cemetery deferred because fenced off and ordinary visitor access unconfirmed (https://www.lonelyplanet.com/points-of-interest/fatimid-cemetery/1340968). Shali separate medieval visitor scope, broader Siwa parent overlap caveat. Montaza exterior and garden scope only; precise museum map markers preferred over conflicting directory positions. Alexandria and Memphis aggregate reviews also disagree with current ranked rows; consistency audit pending. Close named Egypt discovery queue, not exhaustive independent audit. Tunisia next, 19 ranked / 30 total. Full Python validation and individual peer YAML checks pending.

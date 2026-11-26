@@ -2347,3 +2347,269 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-eg-graeco-roman-museum — Graeco-Roman Museum (Alexandria) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/graeco-roman-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated museum of Graeco-Roman antiquities, independent from archaeological sites and Alexandria National Museum; reopened after renovation. Individual galleries vary.
+- Location check: 31.19926, 29.90687; [published representative point](https://mapcarta.com/W110658139), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/en/museums/graeco-roman-museum); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/egyptian-museum-cairo](../../../countries/EG/sights/egyptian-museum-cairo.yaml) | 9.0 / 9.3 / 9.6 / 8.8 / 9.1 | Much broader ancient Egyptian collection. |
+| [EG/nubian-museum](../../../countries/EG/sights/nubian-museum.yaml) | 8.6 / 9.0 / 9.2 / 9.0 / 8.9 | Different specialized regional collection. |
+| [EG/luxor-museum](../../../countries/EG/sights/luxor-museum.yaml) | 8.8 / 9.0 / 9.2 / 9.1 / 8.8 | Different Theban focus. |
+| [OM/national-museum-of-oman](../../../countries/OM/sights/national-museum-of-oman.yaml) | 8.1 / 8.5 / 8.9 / 8.5 / 8.5 | Different national heritage narrative. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Outstanding sculpture and material collections. |
+| Uniqueness | 9.0 | Specialized Egyptian and Mediterranean cultural interaction. |
+| Significance | 9.2 | Major regional archaeological collection. |
+| Experience | 9.0 | Curated galleries. |
+| Depth | 9.0 | Multiple historical and artistic themes. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:8.6.
+- Computed worldwide overall: 89.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-kom-el-dikka — Kom el-Dikka Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/kom-el-dikka.yaml)
+- Action: new
+- Precise subject and limitations: Roman and Byzantine civic and residential archaeological precinct including Odeon, baths and permitted mosaic displays. Roman theatre not separately ranked. Independent visit within broader Alexandria heritage inventory.
+- Location check: 31.19516, 29.90425; [published representative point](https://mapcarta.com/W28817193), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/en/archaeological-sites/kom-el-dikka); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/catacombs-kom-el-shoqafa](../../../countries/EG/sights/catacombs-kom-el-shoqafa.yaml) | 8.7 / 9.1 / 9.0 / 8.5 / 8.1 | Different funerary archaeology. |
+| [JO/jerash-archaeological-city](../../../countries/JO/sights/jerash-archaeological-city.yaml) | 9.5 / 9.3 / 9.5 / 9.4 / 9.3 | Far broader surviving Roman city. |
+| [JO/gadara-archaeological-site-umm-qais](../../../countries/JO/sights/gadara-archaeological-site-umm-qais.yaml) | 8.7 / 8.6 / 8.9 / 8.7 / 8.5 | Different provincial urban site. |
+| [EG/elephantine-archaeological-site](../../../countries/EG/sights/elephantine-archaeological-site.yaml) | 8.5 / 8.9 / 9.2 / 8.5 / 8.7 | Different multi-period settlement. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Surviving theatre and urban ruins. |
+| Uniqueness | 8.9 | Rare Roman civic ensemble in Egypt. |
+| Significance | 9.1 | Major evidence of ancient Alexandria. |
+| Experience | 8.6 | Bounded archaeological visit. |
+| Depth | 8.5 | Multiple structures. |
+
+- Applicable categories: history:9.3, architecture:9.0, photography:8.8.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-pompeys-pillar-serapeum — Pompey's Pillar and Serapeum — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/pompeys-pillar-serapeum.yaml)
+- Action: new
+- Precise subject and limitations: Diocletian's Column and associated Serapeum precinct; common name Pompey's Pillar is historically misleading. Excludes nearby catacombs; no guarantee of subterranean access.
+- Location check: 31.18217, 29.89631; [published representative point](https://mapcarta.com/30568488), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/archaeological-sites/alexandria/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/colossi-of-memnon](../../../countries/EG/sights/colossi-of-memnon.yaml) | 9.0 / 8.9 / 9.1 / 8.0 / 6.9 | Different monumental surviving statuary. |
+| [EG/unfinished-obelisk](../../../countries/EG/sights/unfinished-obelisk.yaml) | 8.4 / 9.0 / 9.1 / 8.2 / 7.6 | Different ancient monolith engineering. |
+| [EG/kom-ombo](../../../countries/EG/sights/kom-ombo.yaml) | 8.9 / 9.1 / 9.0 / 8.8 / 8.3 | More extensive standing temple. |
+| [JO/petra-great-temple](../../../countries/JO/sights/petra-great-temple.yaml) | 8.5 / 8.6 / 8.9 / 8.5 / 8.0 | Different archaeological temple complex. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Tall surviving column and ruins. |
+| Uniqueness | 8.7 | Distinct surviving ancient religious precinct. |
+| Significance | 9.1 | Major Alexandrian religious and Roman heritage. |
+| Experience | 8.2 | Focused archaeological visit. |
+| Depth | 7.6 | Limited preserved structures. |
+
+- Applicable categories: history:9.3, architecture:8.8, photography:8.8.
+- Computed worldwide overall: 85.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-montaza-gardens — Montaza Gardens and Palace Exteriors — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/montaza-gardens.yaml)
+- Action: new
+- Precise subject and limitations: Publicly permitted coastal royal estate gardens and exterior views, not hotel stays or palace interiors. Current garden access and tariff require confirmation; coordinate from independent guide's Google Maps place marker, corroborated near 31.2886,30.0159 at https://egypter.com/en/places/montaza-palace/.
+- Location check: 31.2885, 30.016; [published representative point](https://montazapalace.com/en/location-entrance/), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitegypt.travel/attractions/montaza-gardens.html); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/al-azhar-park](../../../countries/EG/sights/al-azhar-park.yaml) | 8.6 / 8.2 / 7.7 / 8.7 / 8.3 | Different urban landscaped park. |
+| [EG/manial-palace-museum](../../../countries/EG/sights/manial-palace-museum.yaml) | 8.9 / 8.9 / 8.8 / 8.8 / 8.9 | More extensive accessible historic interiors. |
+| [AE/dubai-miracle-garden](../../../countries/AE/sights/dubai-miracle-garden.yaml) | 8.8 / 8.6 / 6.9 / 8.7 / 8.2 | Different designed floral experience. |
+| [AE/al-noor-island](../../../countries/AE/sights/al-noor-island.yaml) | 8.3 / 8.3 / 7.3 / 8.5 / 7.9 | Different compact island garden. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Attractive seaside landscaping and architecture. |
+| Uniqueness | 8.3 | Distinct historic coastal royal estate. |
+| Significance | 8.0 | Modern Egyptian royal landscape heritage. |
+| Experience | 8.7 | Scenic walking where permitted. |
+| Depth | 8.5 | Several gardens and views. |
+
+- Applicable categories: architecture:8.8, photography:9.0, relaxation:9.0.
+- Computed worldwide overall: 84.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-royal-jewelry-museum — Royal Jewelry Museum (Alexandria) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/royal-jewelry-museum.yaml)
+- Action: new
+- Precise subject and limitations: Former royal villa and jewelry collections, independent museum. OSM museum grounds point preferred to conflicting 31.2369,29.9608 third-party listing; individual rooms vary.
+- Location check: 31.24079, 29.96313; [published representative point](https://mapcarta.com/W397424296), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/museums/royal-jewelry-museum/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/manial-palace-museum](../../../countries/EG/sights/manial-palace-museum.yaml) | 8.9 / 8.9 / 8.8 / 8.8 / 8.9 | Broader palace complex. |
+| [EG/gayer-anderson-museum](../../../countries/EG/sights/gayer-anderson-museum.yaml) | 8.6 / 8.8 / 8.7 / 8.7 / 8.5 | Different domestic collection. |
+| [EG/museum-of-islamic-art-cairo](../../../countries/EG/sights/museum-of-islamic-art-cairo.yaml) | 8.8 / 9.1 / 9.3 / 9.0 / 9.1 | Broader decorative art collection. |
+| [OM/bait-al-zubair-museum](../../../countries/OM/sights/bait-al-zubair-museum.yaml) | 7.7 / 8.1 / 8.2 / 8.2 / 7.7 | Different cultural collection. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Decorative interiors and jewelry. |
+| Uniqueness | 8.8 | Distinct royal decorative art collection. |
+| Significance | 8.6 | Modern royal family heritage. |
+| Experience | 8.7 | Focused interpreted museum. |
+| Depth | 8.4 | Several rooms and displays. |
+
+- Applicable categories: architecture:9.1, culture:9.1, history:8.9.
+- Computed worldwide overall: 86.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-alexandria-national-museum — Alexandria National Museum — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/alexandria-national-museum.yaml)
+- Action: new
+- Precise subject and limitations: Regional museum in historic villa, separate from Graeco-Roman Museum; collection spans ancient and later periods. Mapped museum location preferred to conflicting third-party 31.2061,29.9531.
+- Location check: 31.20111, 29.91315; [published representative point](https://mapcarta.com/30570040), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/en/museums/alexandria-national-museum); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/luxor-museum](../../../countries/EG/sights/luxor-museum.yaml) | 8.8 / 9.0 / 9.2 / 9.1 / 8.8 | Different archaeological collection. |
+| [EG/nubian-museum](../../../countries/EG/sights/nubian-museum.yaml) | 8.6 / 9.0 / 9.2 / 9.0 / 8.9 | Different regional cultural scope. |
+| [JO/jordan-museum](../../../countries/JO/sights/jordan-museum.yaml) | 8.1 / 8.4 / 8.9 / 8.5 / 8.5 | Broader national narrative. |
+| [AE/al-ain-museum](../../../countries/AE/sights/al-ain-museum.yaml) | 8.1 / 8.5 / 8.8 / 8.5 / 8.6 | Different regional historical scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Historic villa and regional objects. |
+| Uniqueness | 8.5 | Distinct city-history narrative. |
+| Significance | 8.9 | Important Alexandrian historical evidence. |
+| Experience | 8.6 | Interpreted museum experience. |
+| Depth | 8.5 | Multiple periods and themes. |
+
+- Applicable categories: history:9.2, culture:9.0, architecture:8.5.
+- Computed worldwide overall: 85.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-shali-fortress — Shali Fortress and Historic Settlement — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/shali-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Restored medieval salt-earth fortified settlement, permitted paths and exterior views. Excludes ancient oracle and Amun temple, salt pools and dune excursions; existing Siwa archaeological area is broader and may overlap as parent, documented for scope review. EU restoration source https://www.eeas.europa.eu/delegations/egypt/revival-shali-fortress-siwa-oasis_en; no unstable ruin entry assumed.
+- Location check: 29.2031, 25.5197; [published representative point](https://egypter.com/en/sites/shali-village-in-siwa-oasis/), source or indexed excerpt inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/en/news/inaugurates-shali-fortress-and-the-aghurmi-mosque-in-the-siwa-oasis/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/siwa-archaeological-area](../../../countries/EG/sights/siwa-archaeological-area.yaml) | 8.7 / 9.0 / 9.1 / 8.5 / 8.5 | Broader archaeological parent including oracle. |
+| [OM/old-al-hamra-village](../../../countries/OM/sights/old-al-hamra-village.yaml) | 8.5 / 8.6 / 8.5 / 8.2 / 8.3 | Different earthen settlement. |
+| [SA/ushaiqer-heritage-village](../../../countries/SA/sights/ushaiqer-heritage-village.yaml) | 8.6 / 8.7 / 8.5 / 8.6 / 8.4 | Different Najdi vernacular architecture. |
+| [SA/alula-old-town](../../../countries/SA/sights/alula-old-town.yaml) | 8.3 / 8.5 / 8.2 / 8.3 / 7.8 | Different oasis settlement fabric. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Distinctive earthen hilltop skyline. |
+| Uniqueness | 9.0 | Unusual salt-rich vernacular construction. |
+| Significance | 8.7 | Regional medieval oasis heritage. |
+| Experience | 8.5 | Restored walking routes. |
+| Depth | 8.2 | Multiple lanes and building remains. |
+
+- Applicable categories: architecture:9.2, history:9.1, photography:9.2, culture:9.0.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

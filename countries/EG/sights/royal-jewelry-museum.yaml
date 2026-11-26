@@ -1,0 +1,16 @@
+id: sight-eg-royal-jewelry-museum
+name: "Royal Jewelry Museum (Alexandria)"
+location:
+  country_code: EG
+  latitude: 31.24079
+  longitude: 29.96313
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    culture: 9.1
+    history: 8.9

@@ -1,0 +1,16 @@
+id: sight-eg-alexandria-national-museum
+name: "Alexandria National Museum"
+location:
+  country_code: EG
+  latitude: 31.20111
+  longitude: 29.91315
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 9.0
+    architecture: 8.5
