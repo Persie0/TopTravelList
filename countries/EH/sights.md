@@ -2,7 +2,7 @@
 
 # Western Sahara (EH) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **3 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No sights & attractions have been assessed for **Western Sahara** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Dakhla Lagoon (Baie d’Ad-Dakhla)](sights/dakhla-lagoon.yaml) | Beach / bay | **89.15** | **Adventure 9.3**, **Nature 9.2**, **Photography 9.2**, Wildlife 8.9 | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | [23.765, -15.833](https://www.google.com/maps/search/?api=1&query=23.765,-15.833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dakhla%20Lagoon%20%28Baie%20d%E2%80%99Ad-Dakhla%29%2C%20Western%20Sahara) |
+| 2 | [White Dune (Dune Blanche)](sights/white-dune.yaml) | Desert | **81.55** | **Photography 9.0**, **Nature 8.6** | 8.8 / 8.6 / 7.2 / 8.3 / 6.8 | [23.822, -15.74476](https://www.google.com/maps/search/?api=1&query=23.822,-15.74476) | [Google Maps](https://www.google.com/maps/search/?api=1&query=White%20Dune%20%28Dune%20Blanche%29%2C%20Western%20Sahara) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Aftissate–Boujdour Coast](sights/aftissate-boujdour-coast.yaml) | Coast | **—** | **Wildlife 8.8**, **Nature 8.7** | — / 8.4 / 8.7 / — / — | [25.4833, -14.35](https://www.google.com/maps/search/?api=1&query=25.4833,-14.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aftissate%E2%80%93Boujdour%20Coast%2C%20Western%20Sahara) |
+| — | [Oued Seguia el-Hamra Wetland](sights/oued-seguia-el-hamra-wetland.yaml) | Wetland | **—** | **Wildlife 8.5**, **Nature 8.3** | — / 8.0 / 8.4 / — / — | [27.1771, -13.2665](https://www.google.com/maps/search/?api=1&query=27.1771,-13.2665) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oued%20Seguia%20el-Hamra%20Wetland%2C%20Western%20Sahara) |
+| — | [Sebkhat Imlili](sights/sebkhat-imlili.yaml) | Attraction | **—** | **Nature 9.0**, **Wildlife 8.7** | — / 9.0 / 8.9 / — / — | [23.2333, -15.9167](https://www.google.com/maps/search/?api=1&query=23.2333,-15.9167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sebkhat%20Imlili%2C%20Western%20Sahara) |
 
 ---
 

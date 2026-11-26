@@ -2,7 +2,7 @@
 
 # Isle of Man (IM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**7 ranked** · **0 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (7)
 
-No cities, towns & villages have been assessed for **Isle of Man** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Peel](cities/peel.yaml) | City / town | **84.10** | **Photography 8.8**, **Architecture 8.4**, **Food 8.4** | 8.6 / 8.4 / 8.2 / 8.6 / 8.0 | [54.222, -4.698](https://www.google.com/maps/search/?api=1&query=54.222,-4.698) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peel%2C%20Isle%20of%20Man) |
+| 2 | [Douglas](cities/douglas.yaml) | City / town | **83.60** | **Culture 8.5**, **Food 8.5**, **Architecture 8.2** | 8.1 / 8.2 / 8.5 / 8.8 / 8.6 | [54.151, -4.481](https://www.google.com/maps/search/?api=1&query=54.151,-4.481) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Douglas%2C%20Isle%20of%20Man) |
+| 3 | [Castletown](cities/castletown.yaml) | City / town | **83.15** | **History 8.7**, **Architecture 8.5**, **Photography 8.5** | 8.3 / 8.3 / 8.6 / 8.2 / 8.0 | [54.075, -4.654](https://www.google.com/maps/search/?api=1&query=54.075,-4.654) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Castletown%2C%20Isle%20of%20Man) |
+| 4 | [Laxey](cities/laxey.yaml) | City / town | **80.60** | **Photography 8.4**, **History 8.2**, **Architecture 8.1** | 8.1 / 8.1 / 8.1 / 8.1 / 7.7 | [54.231, -4.404](https://www.google.com/maps/search/?api=1&query=54.231,-4.404) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Laxey%2C%20Isle%20of%20Man) |
+| 5 | [Port Erin](cities/port-erin.yaml) | City / town | **79.70** | **Relaxation 8.7**, **Photography 8.5**, **Architecture 7.9** | 8.3 / 7.9 / 7.4 / 8.5 / 7.5 | [54.086, -4.759](https://www.google.com/maps/search/?api=1&query=54.086,-4.759) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Erin%2C%20Isle%20of%20Man) |
+| 6 | [Ramsey](cities/ramsey.yaml) | City / town | **78.40** | **Relaxation 8.3**, **Food 8.0**, **Architecture 7.9** | 7.8 / 7.8 / 7.7 / 8.2 / 7.8 | [54.321, -4.385](https://www.google.com/maps/search/?api=1&query=54.321,-4.385) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ramsey%2C%20Isle%20of%20Man) |
+| 7 | [Port St Mary](cities/port-st-mary.yaml) | City / town | **76.65** | **Photography 8.2**, **Relaxation 8.2**, **Food 7.8** | 7.8 / 7.7 / 7.4 / 8.0 / 7.2 | [54.075, -4.738](https://www.google.com/maps/search/?api=1&query=54.075,-4.738) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20St%20Mary%2C%20Isle%20of%20Man) |
 
 ---
 

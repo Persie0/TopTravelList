@@ -17,17 +17,21 @@ This pass resolves existing named editorial peers to current YAML and supplement
 | CK | 4 | 18 | 18 | 4 | 0 | 22 | 4 | 0 |
 | CW | 2 | 13 | 15 | 0 | 0 | 15 | 8 | 0 |
 | CX | 1 | 11 | 11 | 1 | 0 | 12 | 7 | 0 |
+| EH | 4 | 5 | 5 | 4 | 9 | 0 | 0 | 0 |
 | FK | 3 | 10 | 13 | 0 | 0 | 13 | 9 | 0 |
-| FO | 4 | 7 | 11 | 0 | 0 | 11 | 7 | 0 |
+| FO | 4 | 7 | 11 | 0 | 0 | 11 | 6 | 0 |
 | GF | 4 | 10 | 14 | 0 | 1 | 13 | 9 | 0 |
 | GG | 4 | 22 | 26 | 0 | 0 | 26 | 2 | 0 |
+| GI | 1 | 9 | 10 | 0 | 10 | 0 | 0 | 0 |
 | GL | 7 | 12 | 16 | 3 | 12 | 7 | 7 | 0 |
 | GP | 5 | 11 | 16 | 0 | 1 | 15 | 10 | 0 |
 | GS | 0 | 10 | 9 | 1 | 0 | 10 | 6 | 0 |
 | GU | 5 | 12 | 16 | 1 | 0 | 17 | 2 | 0 |
 | HK | 1 | 21 | 22 | 0 | 0 | 22 | 19 | 0 |
 | HM | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 0 |
+| IM | 7 | 24 | 31 | 0 | 31 | 0 | 0 | 0 |
 | IO | 0 | 5 | 0 | 5 | 0 | 5 | 5 | 0 |
+| JE | 4 | 22 | 26 | 0 | 26 | 0 | 0 | 0 |
 | KY | 2 | 11 | 13 | 0 | 0 | 13 | 7 | 0 |
 | MF | 2 | 10 | 12 | 0 | 0 | 12 | 9 | 0 |
 | MO | 1 | 12 | 13 | 0 | 0 | 13 | 9 | 0 |
@@ -54,9 +58,9 @@ This pass resolves existing named editorial peers to current YAML and supplement
 | WF | 4 | 14 | 17 | 1 | 0 | 18 | 0 | 0 |
 | YT | 2 | 10 | 10 | 2 | 0 | 12 | 9 | 0 |
 
-Total: 676 active reviews; 601 supplemented, 75 already numerically covered. Each active record has four distinct complete peer profiles across at least three geographic codes, checked against the same branch YAML. Incomplete peers are not counted.
+Total: 752 active reviews; 601 supplemented, 151 already numerically covered. Each active record has four distinct complete peer profiles across at least three geographic codes, checked against the same branch YAML. Incomplete peers are not counted.
 
-Unpopulated registry codes: EH, GI, IM, JE. No new destinations invented.
+Unpopulated registry codes: . No new destinations invented.
 
 ## Outstanding editorial checks
 

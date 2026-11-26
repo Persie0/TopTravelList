@@ -2,7 +2,7 @@
 
 # Jersey (JE) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **0 unassessed** · **4 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **Jersey** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [St Helier](cities/st-helier.yaml) | City / town | **83.35** | **Food 8.7**, **Culture 8.6**, **Architecture 8.2** | 8.1 / 8.1 / 8.5 / 8.8 / 8.6 | [49.185, -2.107](https://www.google.com/maps/search/?api=1&query=49.185,-2.107) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Helier%2C%20Jersey) |
+| 2 | [St Aubin](cities/st-aubin.yaml) | City / town | **81.85** | **Photography 8.7**, **Food 8.5**, **Architecture 8.4** | 8.5 / 8.1 / 7.8 / 8.6 / 7.6 | [49.188, -2.169](https://www.google.com/maps/search/?api=1&query=49.188,-2.169) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Aubin%2C%20Jersey) |
+| 3 | [Gorey harbour village](cities/gorey.yaml) | Village | **81.65** | **Photography 8.8**, **Architecture 8.3**, **Food 8.3** | 8.5 / 8.1 / 7.9 / 8.4 / 7.5 | [49.199, -2.029](https://www.google.com/maps/search/?api=1&query=49.199,-2.029) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gorey%20harbour%20village%2C%20Jersey) |
+| 4 | [Rozel fishing village](cities/rozel.yaml) | Village | **77.30** | **Photography 8.4**, **Relaxation 8.3**, **Food 8.0** | 8.1 / 7.8 / 7.3 / 8.0 / 6.9 | [49.236, -2.047](https://www.google.com/maps/search/?api=1&query=49.236,-2.047) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rozel%20fishing%20village%2C%20Jersey) |
 
 ---
 

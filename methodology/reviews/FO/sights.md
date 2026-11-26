@@ -197,9 +197,9 @@ No numerical score or evidence-status changes made by this pass.
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
 - [Þingvellir National Park (IS)](../../../countries/IS/sights/thingvellir.yaml) — 9.0/9.3/9.5/9.0/8.7; existing named editorial peer. Subject minus peer: I -1.1, U -0.8, S -0.6, E -1.0, D -1.4.
+- [Tynwald Hill and ceremonial precinct (IM)](../../../countries/IM/sights/tynwald-hill.yaml) — 8.0/8.8/9.0/8.0/7.6; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.1, E +0.0, D -0.3.
 - [Bryggen (NO)](../../../countries/NO/sights/bryggen.yaml) — 9.0/9.3/9.2/8.9/8.3; existing named editorial peer. Subject minus peer: I -1.1, U -0.8, S -0.3, E -0.9, D -1.0.
 - [Made in Cambodia Market Siem Reap (KH)](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; existing named editorial peer. Subject minus peer: I +0.2, U +0.7, S +1.3, E -0.6, D -0.6.
-- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -1.2, U -0.4, S +0.2, E -1.1, D -1.9.
 
 No numerical score or evidence-status changes made by this pass.
 
