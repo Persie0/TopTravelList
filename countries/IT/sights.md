@@ -2,7 +2,7 @@
 
 # Italy (IT) — Sights & attractions ranking
 
-**120 ranked** · **14 unassessed** · **134 total** · Worldwide scoring **v2**
+**121 ranked** · **13 unassessed** · **134 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (120)
+## Complete ranked list (121)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -131,11 +131,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 115 | [Circeo National Park](sights/circeo.yaml) | Park / reserve | **87.15** | **Nature 9.2**, **Wildlife 9.1** | 8.6 / 8.7 / 8.8 / 8.8 / 8.8 | [41.24, 13.02](https://www.google.com/maps/search/?api=1&query=41.24,13.02) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Circeo%20National%20Park%2C%20Italy) |
 | 116 | [Great Spa Towns of Europe (Montecatini Terme)](sights/spa-towns.yaml) | Attraction | **86.90** | **Relaxation 9.2**, **Architecture 9.1** | 8.5 / 8.8 / 9.0 / 8.6 / 8.5 | [43.88, 10.77](https://www.google.com/maps/search/?api=1&query=43.88,10.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Spa%20Towns%20of%20Europe%20%28Montecatini%20Terme%29%2C%20Italy) |
 | 116 | [Ivrea industrial city of the twentieth century](sights/ivrea.yaml) | Attraction | **86.90** | **Architecture 9.3**, **History 9.2** | 8.3 / 9.0 / 9.2 / 8.4 / 8.5 | [45.46, 7.87](https://www.google.com/maps/search/?api=1&query=45.46,7.87) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ivrea%20industrial%20city%20of%20the%20twentieth%20century%2C%20Italy) |
-| 118 | [Alta Murgia National Park](sights/alta-murgia.yaml) | Park / reserve | **86.20** | **Nature 9.1**, **Photography 9.0** | 8.4 / 8.7 / 8.7 / 8.7 / 8.8 | [40.98, 16.3](https://www.google.com/maps/search/?api=1&query=40.98,16.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alta%20Murgia%20National%20Park%2C%20Italy) |
-| 119 | [Appennino Lucano National Park](sights/appennino-lucano.yaml) | Park / reserve | **86.15** | **Nature 9.1**, **Adventure 8.9** | 8.5 / 8.6 / 8.6 / 8.7 / 8.9 | [40.3, 15.9](https://www.google.com/maps/search/?api=1&query=40.3,15.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Appennino%20Lucano%20National%20Park%2C%20Italy) |
-| 120 | [Crespi d'Adda](sights/crespi.yaml) | Attraction | **86.05** | **History 9.3**, **Architecture 9.1** | 8.3 / 8.9 / 9.1 / 8.4 / 8.1 | [45.595, 9.536](https://www.google.com/maps/search/?api=1&query=45.595,9.536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Crespi%20d%27Adda%2C%20Italy) |
+| 118 | [Prehistoric Pile Dwellings around the Alps (Italian components)](sights/pile-dwellings.yaml) | Attraction | **86.50** | **History 9.4** | 8.0 / 8.9 / 9.3 / 8.7 / 8.6 | [45.6, 10.6](https://www.google.com/maps/search/?api=1&query=45.6,10.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28Italian%20components%29%2C%20Italy) |
+| 119 | [Alta Murgia National Park](sights/alta-murgia.yaml) | Park / reserve | **86.20** | **Nature 9.1**, **Photography 9.0** | 8.4 / 8.7 / 8.7 / 8.7 / 8.8 | [40.98, 16.3](https://www.google.com/maps/search/?api=1&query=40.98,16.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alta%20Murgia%20National%20Park%2C%20Italy) |
+| 120 | [Appennino Lucano National Park](sights/appennino-lucano.yaml) | Park / reserve | **86.15** | **Nature 9.1**, **Adventure 8.9** | 8.5 / 8.6 / 8.6 / 8.7 / 8.9 | [40.3, 15.9](https://www.google.com/maps/search/?api=1&query=40.3,15.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Appennino%20Lucano%20National%20Park%2C%20Italy) |
+| 121 | [Crespi d'Adda](sights/crespi.yaml) | Attraction | **86.05** | **History 9.3**, **Architecture 9.1** | 8.3 / 8.9 / 9.1 / 8.4 / 8.1 | [45.595, 9.536](https://www.google.com/maps/search/?api=1&query=45.595,9.536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Crespi%20d%27Adda%2C%20Italy) |
 
-## Not yet fully assessed (14)
+## Not yet fully assessed (13)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -152,7 +153,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Matese National Park (provisional designation)](sights/matese.yaml) | Park / reserve | **—** | **Nature 9.3** | 8.8 / 8.8 / 8.8 / — / — | [41.45, 14.4](https://www.google.com/maps/search/?api=1&query=41.45,14.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matese%20National%20Park%20%28provisional%20designation%29%2C%20Italy) |
 | — | [Nuragic monuments of Sardinia](sights/nuragic-monuments.yaml) | Attraction | **—** | **History 9.5**, **Architecture 9.3** | — / 9.4 / 9.4 / — / — | [40.1, 9.0](https://www.google.com/maps/search/?api=1&query=40.1,9.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nuragic%20monuments%20of%20Sardinia%2C%20Italy) |
 | — | [Portofino National Park (provisional designation)](sights/portofino.yaml) | Park / reserve | **—** | **Photography 9.4**, **Nature 9.3** | 9.0 / 8.9 / 8.7 / — / — | [44.32, 9.17](https://www.google.com/maps/search/?api=1&query=44.32,9.17) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Portofino%20National%20Park%20%28provisional%20designation%29%2C%20Italy) |
-| — | [Prehistoric Pile Dwellings around the Alps (Italian components)](sights/pile-dwellings.yaml) | Attraction | **—** | **History 9.4** | — / 8.9 / 9.3 / — / — | [45.6, 10.6](https://www.google.com/maps/search/?api=1&query=45.6,10.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28Italian%20components%29%2C%20Italy) |
 | — | [Royal Shepherd's Track transhumance landscape](sights/transhumance.yaml) | Coast | **—** | **Culture 9.2**, **History 9.2** | — / 8.9 / 9.1 / — / — | [41.8, 14.5](https://www.google.com/maps/search/?api=1&query=41.8,14.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal%20Shepherd%27s%20Track%20transhumance%20landscape%2C%20Italy) |
 | — | [Villas of the Papal Nobility](sights/papal-villas.yaml) | Attraction | **—** | **Architecture 9.3**, **History 9.2** | — / 8.9 / 9.1 / — / — | [41.85, 12.7](https://www.google.com/maps/search/?api=1&query=41.85,12.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Villas%20of%20the%20Papal%20Nobility%2C%20Italy) |
 

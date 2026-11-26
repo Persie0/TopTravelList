@@ -2,7 +2,7 @@
 
 # Germany (DE) — Sights & attractions ranking
 
-**89 ranked** · **8 unassessed** · **97 total** · Worldwide scoring **v2**
+**90 ranked** · **7 unassessed** · **97 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (89)
+## Complete ranked list (90)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -101,10 +101,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 84 | [Upper Germanic-Rhaetian Limes (German section)](sights/upper-german-limes.yaml) | Attraction | **85.55** | **History 9.4** | 7.9 / 8.6 / 9.3 / 8.5 / 9.0 | [49.1, 9.8](https://www.google.com/maps/search/?api=1&query=49.1,9.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Upper%20Germanic-Rhaetian%20Limes%20%28German%20section%29%2C%20Germany) |
 | 86 | [Moravian Church Settlements (Herrnhut component)](sights/moravian-settlements.yaml) | Religious site | **85.40** | **History 9.2**, **Architecture 9.1** | 8.2 / 8.8 / 9.1 / 8.4 / 8.0 | [51.016, 14.743](https://www.google.com/maps/search/?api=1&query=51.016,14.743) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moravian%20Church%20Settlements%20%28Herrnhut%20component%29%2C%20Germany) |
 | 87 | [Jewish Cemetery of Altona Königstraße](sights/altona-cemetery.yaml) | Attraction | **85.00** | **History 9.3**, **Culture 9.1** | 8.1 / 8.9 / 9.2 / 8.3 / 7.6 | [53.546, 9.945](https://www.google.com/maps/search/?api=1&query=53.546,9.945) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jewish%20Cemetery%20of%20Altona%20K%C3%B6nigstra%C3%9Fe%2C%20Germany) |
-| 88 | [Hunsrück-Hochwald National Park](sights/hunsruck.yaml) | Park / reserve | **84.75** | **Nature 9.0**, **Adventure 8.8** | 8.3 / 8.5 / 8.5 / 8.6 / 8.7 | [49.66, 7.1](https://www.google.com/maps/search/?api=1&query=49.66,7.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hunsr%C3%BCck-Hochwald%20National%20Park%2C%20Germany) |
-| 89 | [Pretzien Weir](sights/pretzien-weir.yaml) | Attraction | **82.25** | **History 9.1**, **Architecture 8.8** | 7.8 / 8.7 / 8.9 / 8.0 / 7.3 | [52.04, 11.83](https://www.google.com/maps/search/?api=1&query=52.04,11.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pretzien%20Weir%2C%20Germany) |
+| 88 | [Prehistoric Pile Dwellings around the Alps (German components)](sights/pile-dwellings.yaml) | Attraction | **84.90** | **History 9.4** | 7.6 / 8.9 / 9.3 / 8.5 / 8.5 | [47.72, 9.23](https://www.google.com/maps/search/?api=1&query=47.72,9.23) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28German%20components%29%2C%20Germany) |
+| 89 | [Hunsrück-Hochwald National Park](sights/hunsruck.yaml) | Park / reserve | **84.75** | **Nature 9.0**, **Adventure 8.8** | 8.3 / 8.5 / 8.5 / 8.6 / 8.7 | [49.66, 7.1](https://www.google.com/maps/search/?api=1&query=49.66,7.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hunsr%C3%BCck-Hochwald%20National%20Park%2C%20Germany) |
+| 90 | [Pretzien Weir](sights/pretzien-weir.yaml) | Attraction | **82.25** | **History 9.1**, **Architecture 8.8** | 7.8 / 8.7 / 8.9 / 8.0 / 7.3 | [52.04, 11.83](https://www.google.com/maps/search/?api=1&query=52.04,11.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pretzien%20Weir%2C%20Germany) |
 
-## Not yet fully assessed (8)
+## Not yet fully assessed (7)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -116,7 +117,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [European Paper Mills (German tentative components)](sights/paper-mills.yaml) | Attraction | **—** | **History 9.2** | — / 8.8 / 9.1 / — / — | [50.6, 12.4](https://www.google.com/maps/search/?api=1&query=50.6,12.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=European%20Paper%20Mills%20%28German%20tentative%20components%29%2C%20Germany) |
 | — | [German Green Belt (tentative landscape)](sights/green-belt.yaml) | Coast | **—** | **History 9.3**, **Nature 9.2** | 8.4 / 9.1 / 9.2 / — / — | [50.5, 10.6](https://www.google.com/maps/search/?api=1&query=50.5,10.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=German%20Green%20Belt%20%28tentative%20landscape%29%2C%20Germany) |
 | — | [Lower German Limes (German components)](sights/lower-german-limes.yaml) | Attraction | **—** | **History 9.3** | 7.8 / 8.7 / 9.2 / — / — | [51.66, 6.45](https://www.google.com/maps/search/?api=1&query=51.66,6.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lower%20German%20Limes%20%28German%20components%29%2C%20Germany) |
-| — | [Prehistoric Pile Dwellings around the Alps (German components)](sights/pile-dwellings.yaml) | Attraction | **—** | **History 9.4** | — / 8.9 / 9.3 / — / — | [47.72, 9.23](https://www.google.com/maps/search/?api=1&query=47.72,9.23) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28German%20components%29%2C%20Germany) |
 | — | [Site of the Schöningen Spears](sights/schoningen.yaml) | Attraction | **—** | **History 9.5** | — / 9.3 / 9.5 / — / — | [52.14, 10.99](https://www.google.com/maps/search/?api=1&query=52.14,10.99) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Site%20of%20the%20Sch%C3%B6ningen%20Spears%2C%20Germany) |
 
 ---

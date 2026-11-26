@@ -2,7 +2,7 @@
 
 # Switzerland (CH) — Sights & attractions ranking
 
-**43 ranked** · **2 unassessed** · **45 total** · Worldwide scoring **v2**
+**44 ranked** · **1 unassessed** · **45 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (43)
+## Complete ranked list (44)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -56,16 +56,16 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 40 | [Bettlachstock forest reserve](sights/bettlachstock.yaml) | Forest | **85.75** | **Nature 9.2**, **Photography 8.8** | 8.3 / 8.8 / 9.1 / 8.3 / 8.2 | [47.23, 7.42](https://www.google.com/maps/search/?api=1&query=47.23,7.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bettlachstock%20forest%20reserve%2C%20Switzerland) |
 | 41 | [Villa Le Lac, Corseaux](sights/villa-le-lac.yaml) | Attraction | **85.50** | **Architecture 9.3**, **History 9.1** | 8.2 / 9.0 / 9.2 / 8.4 / 7.4 | [46.468414, 6.829333](https://www.google.com/maps/search/?api=1&query=46.468414,6.829333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Villa%20Le%20Lac%2C%20Corseaux%2C%20Switzerland) |
 | 42 | [Staubbach Falls](sights/staubbach-falls.yaml) | Waterfall | **85.25** | **Photography 9.4**, **Nature 9.1** | 8.9 / 8.7 / 8.3 / 8.6 / 7.3 | [46.59, 7.905](https://www.google.com/maps/search/?api=1&query=46.59,7.905) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Staubbach%20Falls%2C%20Switzerland) |
-| 43 | [Immeuble Clarté, Geneva](sights/immeuble-clarte.yaml) | Attraction | **81.40** | **Architecture 9.3**, **History 9.1** | 7.8 / 8.9 / 9.2 / 7.3 / 6.4 | [46.200158, 6.156408](https://www.google.com/maps/search/?api=1&query=46.200158,6.156408) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Immeuble%20Clart%C3%A9%2C%20Geneva%2C%20Switzerland) |
+| 43 | [Prehistoric Pile Dwellings around the Alps (Swiss components)](sights/pile-dwellings.yaml) | Attraction | **84.05** | **History 9.4** | 7.5 / 8.9 / 9.3 / 8.2 / 8.4 | [47.06, 8.3](https://www.google.com/maps/search/?api=1&query=47.06,8.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28Swiss%20components%29%2C%20Switzerland) |
+| 44 | [Immeuble Clarté, Geneva](sights/immeuble-clarte.yaml) | Attraction | **81.40** | **Architecture 9.3**, **History 9.1** | 7.8 / 8.9 / 9.2 / 7.3 / 6.4 | [46.200158, 6.156408](https://www.google.com/maps/search/?api=1&query=46.200158,6.156408) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Immeuble%20Clart%C3%A9%2C%20Geneva%2C%20Switzerland) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Ancient Beech Forests (Swiss components)](sights/beech-forests.yaml) | Forest | **—** | **Nature 9.3**, **Wildlife 8.9** | 8.5 / 8.9 / 9.2 / — / — | [46.28, 8.67](https://www.google.com/maps/search/?api=1&query=46.28,8.67) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Beech%20Forests%20%28Swiss%20components%29%2C%20Switzerland) |
-| — | [Prehistoric Pile Dwellings around the Alps (Swiss components)](sights/pile-dwellings.yaml) | Attraction | **—** | **History 9.4** | — / 8.9 / 9.3 / — / — | [47.06, 8.3](https://www.google.com/maps/search/?api=1&query=47.06,8.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28Swiss%20components%29%2C%20Switzerland) |
 
 ---
 

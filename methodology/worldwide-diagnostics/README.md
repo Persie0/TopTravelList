@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14910; unassessed: 1359.
+Ranked: 14914; unassessed: 1355.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1359 |
+| incomplete-core | 1355 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -111,7 +111,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CG | cities | 12 | 12 | 68.00 | 0 | 0 | 0 | 12 | [Brazzaville](../../countries/CG/cities/brazzaville.yaml) 80.55; [Pointe-Noire](../../countries/CG/cities/pointe-noire.yaml) 74.80; [Mbé](../../countries/CG/cities/mbe.yaml) 73.10 |
 | CG | sights | 29 | 21 | 80.50 | 4 | 0 | 6 | 29 | [Odzala-Kokoua National Park (Forest Massif)](../../countries/CG/sights/odzala-kokoua-national-park-forest-massif.yaml) 94.15; [Nouabalé-Ndoki National Park (Sangha Trinational Congo component)](../../countries/CG/sights/nouabale-ndoki-national-park-sangha-trinational-congo-component.yaml) 93.35; [Ngaga Forest Gorilla Tracking (authorized routes)](../../countries/CG/sights/ngaga-forest-gorilla-tracking-authorized-routes.yaml) 90.60 |
 | CH | cities | 20 | 20 | 85.18 | 0 | 0 | 0 | 20 | [Bern](../../countries/CH/cities/bern.yaml) 89.50; [Lucerne](../../countries/CH/cities/lucerne.yaml) 88.20; [Basel](../../countries/CH/cities/basel.yaml) 87.75 |
-| CH | sights | 45 | 43 | 88.65 | 17 | 0 | 15 | 45 | [Swiss Alps Jungfrau-Aletsch](../../countries/CH/sights/jungfrau-aletsch.yaml) 94.90; [Matterhorn scenic mountain landscape (Swiss side)](../../countries/CH/sights/matterhorn.yaml) 93.30; [Rhaetian Railway Albula and Bernina landscapes (Swiss section)](../../countries/CH/sights/rhaetian-railway.yaml) 93.10 |
+| CH | sights | 45 | 44 | 88.60 | 17 | 0 | 15 | 45 | [Swiss Alps Jungfrau-Aletsch](../../countries/CH/sights/jungfrau-aletsch.yaml) 94.90; [Matterhorn scenic mountain landscape (Swiss side)](../../countries/CH/sights/matterhorn.yaml) 93.30; [Rhaetian Railway Albula and Bernina landscapes (Swiss section)](../../countries/CH/sights/rhaetian-railway.yaml) 93.10 |
 | CI | cities | 10 | 10 | 78.15 | 0 | 0 | 0 | 10 | [Grand-Bassam](../../countries/CI/cities/grand-bassam.yaml) 85.15; [Abidjan](../../countries/CI/cities/abidjan.yaml) 84.85; [Kong](../../countries/CI/cities/kong.yaml) 79.90 |
 | CI | sights | 20 | 12 | 85.68 | 1 | 0 | 2 | 20 | [Taï National Park](../../countries/CI/sights/tai-national-park.yaml) 93.45; [Comoé National Park](../../countries/CI/sights/comoe-national-park.yaml) 88.95; [Basilica of Our Lady of Peace](../../countries/CI/sights/basilica-our-lady-of-peace.yaml) 88.40 |
 | CK | cities | 4 | 4 | 77.48 | 0 | 0 | 0 | 4 | [Avarua (Rarotonga)](../../countries/CK/cities/avarua.yaml) 80.95; [Arutanga (Aitutaki)](../../countries/CK/cities/arutanga.yaml) 78.05; [Ngatangiia and Muri village](../../countries/CK/cities/ngatangiia-muri.yaml) 76.90 |
@@ -139,7 +139,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CZ | cities | 61 | 61 | 79.40 | 1 | 0 | 1 | 61 | [Prague](../../countries/CZ/cities/prague.yaml) 94.35; [Cesky Krumlov](../../countries/CZ/cities/cesky-krumlov.yaml) 89.60; [Kutna Hora](../../countries/CZ/cities/kutna-hora.yaml) 87.20 |
 | CZ | sights | 145 | 145 | 86.05 | 11 | 0 | 6 | 145 | [Prague Castle](../../countries/CZ/sights/prague-castle.yaml) 94.55; [Prague Historic Centre](../../countries/CZ/sights/prague-historic-centre.yaml) 94.25; [St Vitus Cathedral](../../countries/CZ/sights/st-vitus-cathedral.yaml) 92.85 |
 | DE | cities | 30 | 30 | 87.90 | 3 | 0 | 3 | 30 | [Berlin](../../countries/DE/cities/berlin.yaml) 93.00; [Dresden](../../countries/DE/cities/dresden.yaml) 91.05; [Hamburg](../../countries/DE/cities/hamburg.yaml) 90.05 |
-| DE | sights | 97 | 89 | 89.60 | 36 | 0 | 40 | 97 | [Museum Island Berlin](../../countries/DE/sights/museum-island.yaml) 93.70; [Palaces of King Ludwig II of Bavaria](../../countries/DE/sights/ludwig-palaces.yaml) 93.50; [Palaces and Parks of Potsdam and Berlin](../../countries/DE/sights/potsdam-palaces.yaml) 93.25 |
+| DE | sights | 97 | 90 | 89.48 | 36 | 0 | 40 | 97 | [Museum Island Berlin](../../countries/DE/sights/museum-island.yaml) 93.70; [Palaces of King Ludwig II of Bavaria](../../countries/DE/sights/ludwig-palaces.yaml) 93.50; [Palaces and Parks of Potsdam and Berlin](../../countries/DE/sights/potsdam-palaces.yaml) 93.25 |
 | DJ | cities | 10 | 10 | 68.38 | 0 | 0 | 0 | 10 | [Djibouti City](../../countries/DJ/cities/djibouti-city.yaml) 77.60; [Tadjourah](../../countries/DJ/cities/tadjourah.yaml) 77.00; [Obock](../../countries/DJ/cities/obock.yaml) 72.15 |
 | DJ | sights | 25 | 21 | 79.80 | 2 | 0 | 2 | 25 | [Lake Abbe (Djiboutian shore)](../../countries/DJ/sights/lake-abbe-djiboutian-shore.yaml) 90.65; [Lake Assal](../../countries/DJ/sights/lake-assal.yaml) 90.15; [Abourma Rock Art](../../countries/DJ/sights/abourma-rock-art.yaml) 86.10 |
 | DK | cities | 18 | 18 | 81.88 | 1 | 0 | 1 | 18 | [Copenhagen](../../countries/DK/cities/copenhagen.yaml) 92.15; [Aarhus](../../countries/DK/cities/aarhus.yaml) 86.40; [Ribe](../../countries/DK/cities/ribe.yaml) 86.05 |
@@ -245,7 +245,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IS | cities | 15 | 15 | 80.20 | 0 | 0 | 0 | 15 | [Reykjavík](../../countries/IS/cities/reykjavik.yaml) 86.65; [Vestmannaeyjabær (Heimaey)](../../countries/IS/cities/vestmannaeyjabaer.yaml) 83.30; [Seyðisfjörður](../../countries/IS/cities/seydisfjordur.yaml) 82.35 |
 | IS | sights | 56 | 52 | 86.98 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
 | IT | cities | 25 | 25 | 89.85 | 12 | 3 | 13 | 25 | [Rome](../../countries/IT/cities/rome.yaml) 97.30; [Venice](../../countries/IT/cities/venice.yaml) 96.50; [Florence](../../countries/IT/cities/florence.yaml) 95.55 |
-| IT | sights | 134 | 120 | 90.90 | 80 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
+| IT | sights | 134 | 121 | 90.90 | 80 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
 | JE | cities | 4 | 4 | 81.75 | 0 | 0 | 0 | 4 | [St Helier](../../countries/JE/cities/st-helier.yaml) 83.35; [St Aubin](../../countries/JE/cities/st-aubin.yaml) 81.85; [Gorey harbour village](../../countries/JE/cities/gorey.yaml) 81.65 |
 | JE | sights | 22 | 22 | 82.90 | 0 | 0 | 0 | 22 | [Mont Orgueil Castle](../../countries/JE/sights/mont-orgueil.yaml) 88.90; [La Hougue Bie passage grave and museum](../../countries/JE/sights/la-hougue-bie.yaml) 88.75; [Elizabeth Castle](../../countries/JE/sights/elizabeth-castle.yaml) 88.55 |
 | JM | cities | 11 | 11 | 77.15 | 0 | 0 | 0 | 11 | [Kingston](../../countries/JM/cities/kingston.yaml) 86.55; [Falmouth](../../countries/JM/cities/falmouth.yaml) 80.65; [Port Antonio](../../countries/JM/cities/port-antonio.yaml) 79.90 |
@@ -425,7 +425,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SH | cities | 4 | 4 | 80.80 | 0 | 0 | 0 | 4 | [Jamestown (Saint Helena)](../../countries/SH/cities/jamestown.yaml) 85.05; [Edinburgh of the Seven Seas](../../countries/SH/cities/edinburgh-seven-seas.yaml) 84.05; [Georgetown (Ascension Island)](../../countries/SH/cities/georgetown.yaml) 77.55 |
 | SH | sights | 14 | 13 | 84.05 | 0 | 0 | 0 | 14 | [Peaks National Park (Diana's Peak trails)](../../countries/SH/sights/peaks-national-park.yaml) 89.80; [Longwood House](../../countries/SH/sights/longwood-house.yaml) 88.05; [Long Beach green turtle nesting reserve (Ascension)](../../countries/SH/sights/long-beach.yaml) 87.25 |
 | SI | cities | 18 | 18 | 82.72 | 0 | 0 | 0 | 18 | [Ljubljana](../../countries/SI/cities/ljubljana.yaml) 88.25; [Piran](../../countries/SI/cities/piran.yaml) 87.80; [Ptuj](../../countries/SI/cities/ptuj.yaml) 85.75 |
-| SI | sights | 45 | 42 | 88.05 | 9 | 0 | 8 | 45 | [Škocjan Caves](../../countries/SI/sights/skocjan-caves.yaml) 93.45; [Postojna Cave](../../countries/SI/sights/postojna-cave.yaml) 92.60; [Triglav National Park](../../countries/SI/sights/triglav-national-park.yaml) 92.30 |
+| SI | sights | 45 | 43 | 87.85 | 9 | 0 | 8 | 45 | [Škocjan Caves](../../countries/SI/sights/skocjan-caves.yaml) 93.45; [Postojna Cave](../../countries/SI/sights/postojna-cave.yaml) 92.60; [Triglav National Park](../../countries/SI/sights/triglav-national-park.yaml) 92.30 |
 | SJ | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Longyearbyen](../../countries/SJ/cities/longyearbyen.yaml) 82.60; [Barentsburg](../../countries/SJ/cities/barentsburg.yaml) 80.35 |
 | SJ | sights | 12 | 12 | 84.55 | 1 | 0 | 1 | 12 | [Svalbard Archipelago (tentative property)](../../countries/SJ/sights/svalbard.yaml) 93.65; [Jan Mayen (Mid-Atlantic Ridge tentative component)](../../countries/SJ/sights/jan-mayen.yaml) 89.75; [Pyramiden historic mining settlement](../../countries/SJ/sights/pyramiden.yaml) 87.30 |
 | SK | cities | 15 | 15 | 84.30 | 0 | 0 | 0 | 15 | [Banská Štiavnica](../../countries/SK/cities/banska-stiavnica.yaml) 88.80; [Košice](../../countries/SK/cities/kosice.yaml) 87.50; [Levoča](../../countries/SK/cities/levoca.yaml) 87.05 |
