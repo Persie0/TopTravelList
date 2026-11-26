@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15321; unassessed: 948.
+Ranked: 15327; unassessed: 942.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 787 |
+| conflicting-declared-status | 793 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2123 |
 | historical-review-only | 2516 |
-| incomplete-core | 948 |
+| incomplete-core | 942 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1887 |
 | overall-95-plus | 164 |
@@ -339,7 +339,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MW | cities | 18 | 18 | 72.58 | 0 | 0 | 0 | 18 | [Livingstonia](../../countries/MW/cities/livingstonia.yaml) 82.70; [Zomba](../../countries/MW/cities/zomba.yaml) 80.00; [Chembe (Cape Maclear village)](../../countries/MW/cities/chembe-cape-maclear-village.yaml) 78.45 |
 | MW | sights | 34 | 29 | 81.00 | 2 | 0 | 4 | 34 | [Lake Malawi National Park](../../countries/MW/sights/lake-malawi-national-park.yaml) 93.70; [Mount Mulanje Cultural Landscape](../../countries/MW/sights/mount-mulanje-cultural-landscape.yaml) 92.70; [Nyika National Park](../../countries/MW/sights/nyika-national-park.yaml) 89.60 |
 | MX | cities | 36 | 36 | 81.85 | 1 | 0 | 1 | 36 | [Mexico City](../../countries/MX/cities/mexico-city.yaml) 93.60; [Oaxaca de Juárez](../../countries/MX/cities/oaxaca.yaml) 89.50; [Guanajuato](../../countries/MX/cities/guanajuato.yaml) 88.65 |
-| MX | sights | 111 | 94 | 85.80 | 15 | 1 | 9 | 111 | [Teotihuacán](../../countries/MX/sights/teotihuacan.yaml) 95.95; [Archipiélago de Revillagigedo](../../countries/MX/sights/revillagigedo-archipelago.yaml) 94.90; [Islands and Protected Areas of the Gulf of California](../../countries/MX/sights/gulf-of-california-protected-areas.yaml) 94.70 |
+| MX | sights | 111 | 97 | 85.75 | 15 | 1 | 9 | 111 | [Teotihuacán](../../countries/MX/sights/teotihuacan.yaml) 95.95; [Archipiélago de Revillagigedo](../../countries/MX/sights/revillagigedo-archipelago.yaml) 94.90; [Islands and Protected Areas of the Gulf of California](../../countries/MX/sights/gulf-of-california-protected-areas.yaml) 94.70 |
 | MY | cities | 65 | 65 | 70.25 | 1 | 0 | 1 | 65 | [George Town](../../countries/MY/cities/george-town.yaml) 91.75; [Melaka City](../../countries/MY/cities/melaka-city.yaml) 89.20; [Kuala Lumpur](../../countries/MY/cities/kuala-lumpur.yaml) 87.70 |
 | MY | sights | 213 | 213 | 81.50 | 15 | 1 | 14 | 213 | [Gunung Mulu National Park](../../countries/MY/sights/gunung-mulu-national-park.yaml) 96.65; [Kinabalu Park](../../countries/MY/sights/kinabalu-park.yaml) 94.05; [Sipadan Island Reefs](../../countries/MY/sights/sipadan-island-reefs.yaml) 93.85 |
 | MZ | cities | 7 | 7 | 78.80 | 0 | 0 | 0 | 7 | [Ilha de Moçambique](../../countries/MZ/cities/ilha-de-mocambique.yaml) 89.00; [Maputo](../../countries/MZ/cities/maputo.yaml) 82.50; [Inhambane](../../countries/MZ/cities/inhambane.yaml) 79.50 |
@@ -403,7 +403,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | RE | cities | 5 | 5 | 79.15 | 0 | 0 | 0 | 5 | [Cilaos](../../countries/RE/cities/cilaos.yaml) 81.05; [Hell-Bourg](../../countries/RE/cities/hell-bourg.yaml) 80.85; [Saint-Denis](../../countries/RE/cities/saint-denis.yaml) 79.15 |
 | RE | sights | 10 | 10 | 87.85 | 3 | 0 | 2 | 10 | [Pitons, cirques and remparts of Réunion (National Park core)](../../countries/RE/sights/reunion-pitons.yaml) 93.80; [Piton de la Fournaise](../../countries/RE/sights/piton-de-la-fournaise.yaml) 92.65; [Cirque de Mafate](../../countries/RE/sights/cirque-de-mafate.yaml) 91.80 |
 | RO | cities | 20 | 20 | 84.20 | 0 | 0 | 0 | 20 | [Sighișoara](../../countries/RO/cities/sighisoara.yaml) 89.65; [Sibiu](../../countries/RO/cities/sibiu.yaml) 88.80; [Brașov](../../countries/RO/cities/brasov.yaml) 88.30 |
-| RO | sights | 58 | 53 | 88.40 | 11 | 0 | 5 | 58 | [Danube Delta (Romanian section)](../../countries/RO/sights/danube-delta.yaml) 93.55; [Churches of Moldavia (serial property)](../../countries/RO/sights/churches-moldavia.yaml) 91.90; [Retezat National Park (including tentative massif)](../../countries/RO/sights/retezat.yaml) 91.55 |
+| RO | sights | 58 | 54 | 88.40 | 11 | 0 | 5 | 58 | [Danube Delta (Romanian section)](../../countries/RO/sights/danube-delta.yaml) 93.55; [Churches of Moldavia (serial property)](../../countries/RO/sights/churches-moldavia.yaml) 91.90; [Retezat National Park (including tentative massif)](../../countries/RO/sights/retezat.yaml) 91.55 |
 | RS | cities | 18 | 18 | 82.12 | 0 | 0 | 0 | 18 | [Belgrade](../../countries/RS/cities/belgrade.yaml) 89.00; [Subotica](../../countries/RS/cities/subotica.yaml) 86.90; [Novi Sad](../../countries/RS/cities/novi-sad.yaml) 86.55 |
 | RS | sights | 43 | 42 | 87.28 | 4 | 0 | 6 | 43 | [Đerdap National Park and Iron Gates landscape](../../countries/RS/sights/djerdap.yaml) 91.30; [Studenica Monastery](../../countries/RS/sights/studenica.yaml) 91.05; [Tara National Park and Drina Canyon](../../countries/RS/sights/tara.yaml) 90.45 |
 | RU | cities | 20 | 20 | 81.45 | 2 | 0 | 0 | 20 | [Saint Petersburg](../../countries/RU/cities/saint-petersburg.yaml) 93.20; [Moscow](../../countries/RU/cities/moscow.yaml) 91.75; [Kazan](../../countries/RU/cities/kazan.yaml) 86.95 |
@@ -411,7 +411,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | RW | cities | 18 | 18 | 69.38 | 0 | 0 | 0 | 18 | [Kigali](../../countries/RW/cities/kigali.yaml) 80.25; [Karongi (Kibuye)](../../countries/RW/cities/karongi-kibuye.yaml) 77.15; [Rubavu (Gisenyi)](../../countries/RW/cities/rubavu-gisenyi.yaml) 75.55 |
 | RW | sights | 47 | 47 | 80.55 | 3 | 1 | 4 | 47 | [Volcanoes National Park](../../countries/RW/sights/volcanoes-national-park.yaml) 95.05; [Nyungwe National Park](../../countries/RW/sights/nyungwe-national-park.yaml) 94.10; [Akagera National Park](../../countries/RW/sights/akagera-national-park.yaml) 91.00 |
 | SA | cities | 18 | 18 | 75.48 | 2 | 0 | 0 | 18 | [Mecca](../../countries/SA/cities/mecca.yaml) 92.85; [Medina](../../countries/SA/cities/medina.yaml) 90.00; [Jeddah](../../countries/SA/cities/jeddah.yaml) 86.50 |
-| SA | sights | 49 | 45 | 83.50 | 4 | 0 | 1 | 49 | [Masjid al-Haram (Grand Mosque)](../../countries/SA/sights/masjid-al-haram.yaml) 94.05; [Al-Masjid an-Nabawi (Prophet's Mosque)](../../countries/SA/sights/prophets-mosque.yaml) 92.50; [Hegra Archaeological Site](../../countries/SA/sights/hegra.yaml) 91.60 |
+| SA | sights | 49 | 46 | 83.42 | 4 | 0 | 1 | 49 | [Masjid al-Haram (Grand Mosque)](../../countries/SA/sights/masjid-al-haram.yaml) 94.05; [Al-Masjid an-Nabawi (Prophet's Mosque)](../../countries/SA/sights/prophets-mosque.yaml) 92.50; [Hegra Archaeological Site](../../countries/SA/sights/hegra.yaml) 91.60 |
 | SB | cities | 9 | 9 | 66.55 | 0 | 0 | 0 | 9 | [Honiara](../../countries/SB/cities/honiara.yaml) 73.90; [Gizo](../../countries/SB/cities/gizo.yaml) 71.05; [Tulagi](../../countries/SB/cities/tulagi.yaml) 71.05 |
 | SB | sights | 16 | 15 | 85.25 | 2 | 0 | 0 | 16 | [Marovo–Tetepare Complex](../../countries/SB/sights/marovo-tetepare-complex.yaml) 91.20; [Marovo Lagoon](../../countries/SB/sights/marovo-lagoon.yaml) 90.25; [Kolombangara Central Caldera Forests](../../countries/SB/sights/kolombangara-central-caldera-forests.yaml) 88.55 |
 | SC | cities | 14 | 14 | 68.52 | 0 | 0 | 0 | 14 | [La Passe (La Digue)](../../countries/SC/cities/la-passe-la-digue.yaml) 78.65; [Victoria](../../countries/SC/cities/victoria.yaml) 77.90; [Beau Vallon](../../countries/SC/cities/beau-vallon.yaml) 72.30 |
@@ -451,7 +451,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SY | cities | 10 | 8 | 79.70 | 0 | 0 | 0 | 10 | [Damascus](../../countries/SY/cities/damascus.yaml) 89.60; [Aleppo](../../countries/SY/cities/aleppo.yaml) 86.10; [Maaloula](../../countries/SY/cities/maaloula.yaml) 83.35 |
 | SY | sights | 31 | 20 | 87.15 | 3 | 0 | 0 | 31 | [Umayyad Mosque, Damascus](../../countries/SY/sights/umayyad-mosque.yaml) 90.75; [Ancient City of Damascus](../../countries/SY/sights/ancient-damascus.yaml) 90.70; [Krak des Chevaliers](../../countries/SY/sights/krak-des-chevaliers.yaml) 90.65 |
 | SZ | cities | 15 | 15 | 68.10 | 0 | 0 | 0 | 15 | [Lobamba](../../countries/SZ/cities/lobamba.yaml) 77.25; [Bulembu](../../countries/SZ/cities/bulembu.yaml) 75.30; [Mbabane](../../countries/SZ/cities/mbabane.yaml) 74.35 |
-| SZ | sights | 30 | 29 | 78.30 | 0 | 0 | 1 | 30 | [Mkhaya Game Reserve](../../countries/SZ/sights/mkhaya-game-reserve.yaml) 87.15; [Malolotja Nature Reserve](../../countries/SZ/sights/malolotja-nature-reserve.yaml) 86.90; [Ngwenya Mines and Lion Cavern](../../countries/SZ/sights/ngwenya-mines-and-lion-cavern.yaml) 86.50 |
+| SZ | sights | 30 | 30 | 78.90 | 0 | 0 | 1 | 30 | [Mkhaya Game Reserve](../../countries/SZ/sights/mkhaya-game-reserve.yaml) 87.15; [Malolotja Nature Reserve](../../countries/SZ/sights/malolotja-nature-reserve.yaml) 86.90; [Ngwenya Mines and Lion Cavern](../../countries/SZ/sights/ngwenya-mines-and-lion-cavern.yaml) 86.50 |
 | TC | cities | 3 | 3 | 77.30 | 0 | 0 | 0 | 3 | [Cockburn Town (Grand Turk)](../../countries/TC/cities/cockburn-town.yaml) 80.40; [Balfour Town (Salt Cay)](../../countries/TC/cities/balfour-town.yaml) 77.30; [Cockburn Harbour (South Caicos)](../../countries/TC/cities/cockburn-harbour.yaml) 76.35 |
 | TC | sights | 12 | 12 | 85.05 | 0 | 0 | 0 | 12 | [Chalk Sound National Park (Providenciales)](../../countries/TC/sights/chalk-sound.yaml) 88.55; [Grand Turk Wall (permitted dive sites)](../../countries/TC/sights/grand-turk-wall.yaml) 87.90; [Little Water Cay (Iguana Island)](../../countries/TC/sights/little-water-cay.yaml) 86.70 |
 | TD | cities | 10 | 9 | 72.20 | 0 | 0 | 0 | 10 | [Abéché](../../countries/TD/cities/abeche.yaml) 80.10; [Bardaï](../../countries/TD/cities/bardai.yaml) 75.20; [Ounianga Kébir](../../countries/TD/cities/ounianga-kebir.yaml) 73.85 |

@@ -943,10 +943,10 @@ countries/MX/sights/popocatepetl-monasteries.yaml	sight-mx-popocatepetl-monaster
 countries/MX/sights/revillagigedo-archipelago.yaml	sight-mx-revillagigedo-archipelago	Archipiélago de Revillagigedo	MX	sights		complete	94.90	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/MX/sights/san-jose-de-avino-temple.yaml	sight-mx-san-jose-de-avino-temple	Temple of San José de Avino	MX	sights		complete	74.70	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/MX/sights/san-nicolas-de-quijas-chapel.yaml	sight-mx-san-nicolas-de-quijas-chapel	Chapel of San Nicolás Tolentino, Former Hacienda of San Nicolás de Quijas	MX	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/MX/sights/san-rafael-bridge.yaml	sight-mx-san-rafael-bridge	Bridge of San Rafael	MX	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/MX/sights/san-rafael-bridge.yaml	sight-mx-san-rafael-bridge	Bridge of San Rafael	MX	sights		complete	74.40	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/MX/sights/valle-de-los-cirios.yaml	sight-mx-valle-de-los-cirios	Valle de los Cirios	MX	sights		complete	89.65	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/MX/sights/villa-gonzalez-ortega-dolores-temple.yaml	sight-mx-villa-gonzalez-ortega-dolores-temple	Temple of Nuestra Señora de los Dolores, Villa González Ortega	MX	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/MX/sights/villa-ocampo-san-miguel-temple.yaml	sight-mx-villa-ocampo-san-miguel-temple	Temple of San Miguel, Villa Ocampo	MX	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/MX/sights/villa-gonzalez-ortega-dolores-temple.yaml	sight-mx-villa-gonzalez-ortega-dolores-temple	Temple of Nuestra Señora de los Dolores, Villa González Ortega	MX	sights		complete	75.60	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/MX/sights/villa-ocampo-san-miguel-temple.yaml	sight-mx-villa-ocampo-san-miguel-temple	Temple of San Miguel, Villa Ocampo	MX	sights		complete	75.10	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/MX/sights/zacualpan-inmaculada-concepcion-convent.yaml	sight-mx-zacualpan-inmaculada-concepcion-convent	Temple and Former Convent of the Immaculate Conception, Zacualpan de Amilpas	MX	sights		complete	84.45	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/MZ/cities/beira.yaml	city-mz-beira	Beira	MZ	cities		complete	75.40	worldwide-incomplete-batch-100-pass22-2026-11-26.md	completed
 countries/MZ/cities/nampula.yaml	city-mz-nampula	Nampula	MZ	cities		complete	72.80	worldwide-incomplete-batch-100-pass22-2026-11-26.md	completed
@@ -1158,7 +1158,7 @@ countries/RO/sights/danube-limes.yaml	sight-ro-danube-limes	Danube Limes (Romani
 countries/RO/sights/movile-cave.yaml	sight-ro-movile-cave	Movile Cave	RO	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass10-2026-11-26.md	deferred
 countries/RO/sights/princely-foundations.yaml	sight-ro-princely-foundations	Princely religious foundations in Wallachia and Moldavia (tentative series)	RO	sights		complete	86.45	worldwide-incomplete-batch-100-pass10-2026-11-26.md	deferred
 countries/RO/sights/roman-dacia.yaml	sight-ro-roman-dacia	Frontiers of the Roman Empire – Dacia (serial property)	RO	sights		complete	85.65	worldwide-incomplete-batch-100-pass10-2026-11-26.md	deferred
-countries/RO/sights/sanpetru-fossils.yaml	sight-ro-sanpetru-fossils	Sânpetru paleontological site	RO	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass10-2026-11-26.md	deferred
+countries/RO/sights/sanpetru-fossils.yaml	sight-ro-sanpetru-fossils	Sânpetru paleontological site	RO	sights		complete	82.25	worldwide-incomplete-batch-100-pass10-2026-11-26.md	deferred
 countries/RS/sights/beech-extension.yaml	sight-rs-beech-extension	Ancient Beech Forests (Serbian proposed components)	RS	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/RS/sights/danube-limes.yaml	sight-rs-danube-limes	Frontiers of the Roman Empire – Danube Limes (Serbian tentative components)	RS	sights		complete	86.05	worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/RS/sights/stecci.yaml	sight-rs-stecci	Stećci Medieval Tombstone Graveyards (Serbian components)	RS	sights		complete	84.50	worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
@@ -1195,7 +1195,7 @@ countries/RW/sights/mount-gahinga.yaml	sight-rw-mount-gahinga	Mount Gahinga	RW	s
 countries/SA/cities/mecca.yaml	city-sa-mecca	Mecca	SA	cities		complete	92.85	worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred
 countries/SA/cities/medina.yaml	city-sa-medina	Medina	SA	cities		complete	90.00	worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred
 countries/SA/sights/al-faw.yaml	sight-sa-al-faw	Cultural Landscape of Al-Faw Archaeological Area	SA	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
-countries/SA/sights/ancient-dams.yaml	sight-sa-ancient-dams	Water Management in Saudi Arabia: Ancient Dams	SA	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
+countries/SA/sights/ancient-dams.yaml	sight-sa-ancient-dams	Water Management in Saudi Arabia: Ancient Dams	SA	sights		complete	82.50	worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
 countries/SA/sights/darb-zubaydah.yaml	sight-sa-darb-zubaydah	Darb Zubaydah Hajj Pilgrimage Route	SA	sights		complete	84.70	worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
 countries/SA/sights/egyptian-hajj-road.yaml	sight-sa-egyptian-hajj-road	Egyptian Hajj Road (Saudi section)	SA	sights		complete	83.10	worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
 countries/SA/sights/hejaz-railway.yaml	sight-sa-hejaz-railway	Hejaz Railway (Saudi heritage route)	SA	sights		complete	84.70	worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
@@ -1330,7 +1330,7 @@ countries/SY/sights/mari.yaml	sight-sy-mari	Mari (Tell Hariri)	SY	sights	impact;
 countries/SY/sights/qasr-al-hayr.yaml	sight-sy-qasr-al-hayr	Qasr al-Hayr al-Sharqi	SY	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
 countries/SY/sights/raqqa-rafiqa.yaml	sight-sy-raqqa-rafiqa	Raqqa-Rafiqa Abbasid City	SY	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
 countries/SY/sights/tartus-citadel.yaml	sight-sy-tartus-citadel	Tartus Crusader Citadel Historic Quarter	SY	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
-countries/SZ/sights/ludzidzini-royal-village.yaml	sight-sz-ludzidzini-royal-village	Ludzidzini Royal Village	SZ	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
+countries/SZ/sights/ludzidzini-royal-village.yaml	sight-sz-ludzidzini-royal-village	Ludzidzini Royal Village	SZ	sights		complete	84.00	worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
 countries/TD/cities/abeche.yaml	city-td-abeche	Abéché	TD	cities		complete	80.10	worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred
 countries/TD/cities/am-timan.yaml	city-td-am-timan	Am Timan	TD	cities	impact;experience;depth	incomplete		worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred
 countries/TD/cities/bardai.yaml	city-td-bardai	Bardaï	TD	cities		complete	75.20	worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred

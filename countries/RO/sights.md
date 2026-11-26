@@ -2,7 +2,7 @@
 
 # Romania (RO) — Sights & attractions ranking
 
-**53 ranked** · **5 unassessed** · **58 total** · Worldwide scoring **v2**
+**54 ranked** · **4 unassessed** · **58 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (53)
+## Complete ranked list (54)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -67,8 +67,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 51 | [Jiu Gorge National Park](sights/jiu-gorge.yaml) | Park / reserve | **85.15** | **Nature 9.0**, **Photography 8.9**, **Adventure 8.8** | 8.5 / 8.5 / 8.5 / 8.6 / 8.5 | [45.29, 23.37](https://www.google.com/maps/search/?api=1&query=45.29,23.37) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jiu%20Gorge%20National%20Park%2C%20Romania) |
 | 52 | [Danube Limes (Romanian tentative components)](sights/danube-limes.yaml) | Attraction | **84.30** | **History 9.3** | 8.0 / 8.7 / 9.2 / 8.1 / 8.0 | [44.9, 28.1](https://www.google.com/maps/search/?api=1&query=44.9,28.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Danube%20Limes%20%28Romanian%20tentative%20components%29%2C%20Romania) |
 | 53 | [Oltenian fortified manor houses (tentative serial property)](sights/cules.yaml) | Attraction | **83.85** | **Architecture 9.0**, **History 8.9** | 8.0 / 8.6 / 8.7 / 8.3 / 8.5 | [44.9, 24.0](https://www.google.com/maps/search/?api=1&query=44.9,24.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oltenian%20fortified%20manor%20houses%20%28tentative%20serial%20property%29%2C%20Romania) |
+| 54 | [Sânpetru paleontological site](sights/sanpetru-fossils.yaml) | Attraction | **82.25** | **History 8.9**, **Nature 8.8** | 7.4 / 8.8 / 9.0 / 7.7 / 8.5 | [45.62, 22.96](https://www.google.com/maps/search/?api=1&query=45.62,22.96) | [Google Maps](https://www.google.com/maps/search/?api=1&query=S%C3%A2npetru%20paleontological%20site%2C%20Romania) |
 
-## Not yet fully assessed (5)
+## Not yet fully assessed (4)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -78,7 +79,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Coliboaia Cave](sights/coliboaia-cave.yaml) | Cave | **—** | **History 9.4**, **Nature 9.0** | — / 9.3 / 9.4 / — / — | [46.55, 22.68](https://www.google.com/maps/search/?api=1&query=46.55,22.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Coliboaia%20Cave%2C%20Romania) |
 | — | [Cucuteni–Trypillia Civilization (Romanian tentative components)](sights/cucuteni-trypillia.yaml) | Attraction | **—** | **History 9.4** | 7.8 / 9.0 / 9.3 / — / — | [47.25, 26.93](https://www.google.com/maps/search/?api=1&query=47.25,26.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cucuteni%E2%80%93Trypillia%20Civilization%20%28Romanian%20tentative%20components%29%2C%20Romania) |
 | — | [Movile Cave](sights/movile-cave.yaml) | Cave | **—** | **Nature 9.4** | — / 9.5 / 9.4 / — / — | [43.82, 28.56](https://www.google.com/maps/search/?api=1&query=43.82,28.56) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Movile%20Cave%2C%20Romania) |
-| — | [Sânpetru paleontological site](sights/sanpetru-fossils.yaml) | Attraction | **—** | **History 8.9**, **Nature 8.8** | 7.4 / 8.8 / 9.0 / — / — | [45.62, 22.96](https://www.google.com/maps/search/?api=1&query=45.62,22.96) | [Google Maps](https://www.google.com/maps/search/?api=1&query=S%C3%A2npetru%20paleontological%20site%2C%20Romania) |
 
 ---
 

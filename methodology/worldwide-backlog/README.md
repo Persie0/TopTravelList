@@ -5,12 +5,12 @@ A complete numeric rating is not proof of independent fact-checking.
 Historical dispositions are retained verbatim; overlapping scopes still require editorial review.
 
 - Current source records: **16,269**
-- Complete core ratings: **15,321**
-- All incomplete core ratings: **948**
-- Original inventory resolved: **642 / 1,590**
-- Original inventory still incomplete: **948**
+- Complete core ratings: **15,327**
+- All incomplete core ratings: **942**
+- Original inventory resolved: **648 / 1,590**
+- Original inventory still incomplete: **942**
 - Incomplete outside original inventory: **0**
-- Complete records historically labeled deferred or retain unranked: **551**
+- Complete records historically labeled deferred or retain unranked: **557**
 
 Use [remaining.tsv](remaining.tsv) as the current research queue.
 Use [original-inventory.tsv](original-inventory.tsv) to reconcile historical labels.
@@ -34,13 +34,13 @@ The latter does not change historical review decisions or certify public access.
 | VC | 18 |
 | IQ | 17 |
 | LB | 17 |
-| MX | 17 |
 | AF | 16 |
 | MH | 16 |
 | TM | 16 |
 | UA | 16 |
 | SD | 15 |
 | SO | 15 |
+| MX | 14 |
 | TV | 14 |
 | SY | 13 |
 | HT | 12 |
@@ -80,7 +80,6 @@ The latter does not change historical review decisions or certify public access.
 | KZ | 5 |
 | LS | 5 |
 | MW | 5 |
-| RO | 5 |
 | SR | 5 |
 | ZM | 5 |
 | CR | 4 |
@@ -93,7 +92,7 @@ The latter does not change historical review decisions or certify public access.
 | PA | 4 |
 | PK | 4 |
 | QA | 4 |
-| SA | 4 |
+| RO | 4 |
 | UG | 4 |
 | BE | 3 |
 | BT | 3 |
@@ -106,6 +105,7 @@ The latter does not change historical review decisions or certify public access.
 | MU | 3 |
 | MZ | 3 |
 | PG | 3 |
+| SA | 3 |
 | SV | 3 |
 | TG | 3 |
 | TN | 3 |
@@ -180,7 +180,6 @@ The latter does not change historical review decisions or certify public access.
 | SH | 1 |
 | SI | 1 |
 | SN | 1 |
-| SZ | 1 |
 | TL | 1 |
 | TT | 1 |
 | WF | 1 |
@@ -191,24 +190,24 @@ The latter does not change historical review decisions or certify public access.
 
 | Dimension | Missing |
 | --- | ---: |
-| depth | 941 |
-| experience | 948 |
-| impact | 654 |
-| significance | 78 |
-| uniqueness | 155 |
+| depth | 935 |
+| experience | 942 |
+| impact | 649 |
+| significance | 75 |
+| uniqueness | 151 |
 
 ## Original batches
 
 | Batch | Complete now | Incomplete now |
 | --- | ---: | ---: |
-| worldwide-incomplete-batch-100-2026-11-26.md | 47 | 53 |
-| worldwide-incomplete-batch-100-pass10-2026-11-26.md | 75 | 25 |
+| worldwide-incomplete-batch-100-2026-11-26.md | 50 | 50 |
+| worldwide-incomplete-batch-100-pass10-2026-11-26.md | 76 | 24 |
 | worldwide-incomplete-batch-100-pass11-2026-11-26.md | 48 | 52 |
 | worldwide-incomplete-batch-100-pass12-2026-11-26.md | 30 | 70 |
-| worldwide-incomplete-batch-100-pass13-2026-11-26.md | 70 | 30 |
+| worldwide-incomplete-batch-100-pass13-2026-11-26.md | 71 | 29 |
 | worldwide-incomplete-batch-100-pass14-2026-11-26.md | 36 | 64 |
 | worldwide-incomplete-batch-100-pass15-2026-11-26.md | 39 | 61 |
-| worldwide-incomplete-batch-100-pass16-2026-11-26.md | 18 | 82 |
+| worldwide-incomplete-batch-100-pass16-2026-11-26.md | 19 | 81 |
 | worldwide-incomplete-batch-100-pass17-2026-11-26.md | 10 | 90 |
 | worldwide-incomplete-batch-100-pass18-2026-11-26.md | 46 | 54 |
 | worldwide-incomplete-batch-100-pass19-2026-11-26.md | 32 | 68 |
