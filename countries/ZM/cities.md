@@ -2,7 +2,7 @@
 
 # Zambia (ZM) — Cities, towns & villages ranking
 
-**3 ranked** · **2 unassessed** · **5 total** · Worldwide scoring **v2**
+**4 ranked** · **1 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,21 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (3)
+## Complete ranked list (4)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Livingstone](cities/livingstone.yaml) | City / town | **80.20** | **History 8.5**, **Culture 8.3** | 7.8 / 8.0 / 8.1 / 8.4 / 8.0 | [-17.842, 25.854](https://www.google.com/maps/search/?api=1&query=-17.842,25.854) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Livingstone%2C%20Zambia) |
 | 2 | [Lusaka](cities/lusaka.yaml) | City / town | **76.30** | **Culture 8.3**, **Food 8.1** | 7.2 / 7.5 / 8.0 / 7.9 / 8.1 | [-15.407, 28.287](https://www.google.com/maps/search/?api=1&query=-15.407,28.287) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lusaka%2C%20Zambia) |
 | 3 | [Ndola](cities/ndola.yaml) | City / town | **71.95** | **History 7.8**, **Culture 7.5** | 6.9 / 7.3 / 7.6 / 7.2 / 7.0 | [-12.959, 28.637](https://www.google.com/maps/search/?api=1&query=-12.959,28.637) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ndola%2C%20Zambia) |
+| 4 | [Chipata](cities/chipata.yaml) | City / town | **70.60** | — | 6.8 / 7.2 / 7.3 / 7.2 / 6.8 | [-13.633, 32.65](https://www.google.com/maps/search/?api=1&query=-13.633,32.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chipata%2C%20Zambia) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Chipata](cities/chipata.yaml) | City / town | **—** | — | — / 7.2 / 7.3 / — / — | [-13.633, 32.65](https://www.google.com/maps/search/?api=1&query=-13.633,32.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chipata%2C%20Zambia) |
 | — | [Kasama](cities/kasama.yaml) | City / town | **—** | — | — / 7.4 / 7.5 / — / — | [-10.213, 31.181](https://www.google.com/maps/search/?api=1&query=-10.213,31.181) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kasama%2C%20Zambia) |
 
 ---
