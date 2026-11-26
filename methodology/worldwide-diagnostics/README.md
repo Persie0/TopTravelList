@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14880; unassessed: 1389.
+Ranked: 14884; unassessed: 1385.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1389 |
+| incomplete-core | 1385 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -104,7 +104,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CA | sights | 51 | 48 | 87.45 | 12 | 1 | 7 | 51 | [Canadian Rocky Mountain Parks](../../countries/CA/sights/canadian-rocky-mountain-parks.yaml) 96.20; [Banff National Park](../../countries/CA/sights/banff-national-park.yaml) 94.00; [Jasper National Park](../../countries/CA/sights/jasper-national-park.yaml) 92.95 |
 | CC | cities | 2 | 2 | 76.32 | 0 | 0 | 0 | 2 | [Bantam (Home Island)](../../countries/CC/cities/bantam.yaml) 80.25; [West Island settlement](../../countries/CC/cities/west-island-settlement.yaml) 72.40 |
 | CC | sights | 10 | 9 | 81.95 | 0 | 0 | 0 | 10 | [Southern atoll lagoon and guided island canoe circuit](../../countries/CC/sights/southern-lagoon-canoe.yaml) 86.65; [The Rip (Direction Island drift snorkel)](../../countries/CC/sights/the-rip.yaml) 86.00; [Direction Island (Cossie's Beach and heritage trail)](../../countries/CC/sights/direction-island.yaml) 85.95 |
-| CD | cities | 8 | 3 | 77.40 | 0 | 0 | 0 | 8 | [Kinshasa](../../countries/CD/cities/kinshasa.yaml) 83.05; [Kisangani](../../countries/CD/cities/kisangani.yaml) 77.40; [Lubumbashi](../../countries/CD/cities/lubumbashi.yaml) 76.00 |
+| CD | cities | 8 | 5 | 76.05 | 0 | 0 | 0 | 8 | [Kinshasa](../../countries/CD/cities/kinshasa.yaml) 83.05; [Kisangani](../../countries/CD/cities/kisangani.yaml) 77.40; [Boma](../../countries/CD/cities/boma.yaml) 76.05 |
 | CD | sights | 17 | 10 | 87.48 | 4 | 0 | 8 | 17 | [Virunga National Park](../../countries/CD/sights/virunga-national-park.yaml) 94.90; [Nyiragongo Volcano](../../countries/CD/sights/nyiragongo-volcano.yaml) 93.35; [Kahuzi-Biega National Park](../../countries/CD/sights/kahuzi-biega-national-park.yaml) 92.10 |
 | CF | cities | 10 | 2 | 71.02 | 0 | 0 | 0 | 10 | [Bangui](../../countries/CF/cities/bangui.yaml) 73.35; [Bayanga](../../countries/CF/cities/bayanga.yaml) 68.70 |
 | CF | sights | 25 | 8 | 79.48 | 3 | 0 | 3 | 25 | [Dzanga-Ndoki National Park (Sangha Trinational CAR component)](../../countries/CF/sights/dzanga-ndoki-national-park-sangha-trinational-car-component.yaml) 93.80; [Dzanga Bai](../../countries/CF/sights/dzanga-bai.yaml) 92.65; [Bai Hokou Gorilla Tracking](../../countries/CF/sights/bai-hokou-gorilla-tracking.yaml) 90.45 |
@@ -314,9 +314,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MH | sights | 22 | 10 | 76.75 | 1 | 0 | 1 | 22 | [Bikini Atoll Nuclear Test Site](../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml) 90.95; [Jaluit Atoll Conservation Area](../../countries/MH/sights/jaluit-atoll-conservation-area.yaml) 82.45; [Arno Atoll](../../countries/MH/sights/arno-atoll.yaml) 79.35 |
 | MK | cities | 14 | 14 | 77.20 | 0 | 0 | 0 | 14 | [Ohrid](../../countries/MK/cities/ohrid.yaml) 89.70; [Skopje](../../countries/MK/cities/skopje.yaml) 83.15; [Bitola](../../countries/MK/cities/bitola.yaml) 82.30 |
 | MK | sights | 33 | 32 | 86.08 | 2 | 0 | 1 | 33 | [Ohrid Historic Centre](../../countries/MK/sights/ohrid-historic-centre.yaml) 91.50; [Lake Ohrid North Macedonian Shore](../../countries/MK/sights/lake-ohrid-north-macedonian-shore.yaml) 90.35; [Saint John at Kaneo](../../countries/MK/sights/saint-john-at-kaneo.yaml) 88.60 |
-| ML | cities | 11 | 9 | 79.30 | 1 | 0 | 2 | 11 | [Djenné](../../countries/ML/cities/djenne.yaml) 90.40; [Timbuktu](../../countries/ML/cities/timbuktu.yaml) 88.30; [Gao](../../countries/ML/cities/gao.yaml) 80.90 |
+| ML | cities | 11 | 10 | 78.58 | 1 | 0 | 2 | 11 | [Djenné](../../countries/ML/cities/djenne.yaml) 90.40; [Timbuktu](../../countries/ML/cities/timbuktu.yaml) 88.30; [Gao](../../countries/ML/cities/gao.yaml) 80.90 |
 | ML | sights | 33 | 11 | 87.20 | 3 | 0 | 6 | 33 | [Cliff of Bandiagara (Land of the Dogons)](../../countries/ML/sights/bandiagara-escarpment.yaml) 93.95; [Djenné Old Town](../../countries/ML/sights/djenne-old-town.yaml) 91.90; [Great Mosque of Djenné](../../countries/ML/sights/djenne-great-mosque.yaml) 91.20 |
-| MM | cities | 12 | 10 | 75.02 | 0 | 0 | 0 | 12 | [Yangon](../../countries/MM/cities/yangon.yaml) 86.75; [Mawlamyine](../../countries/MM/cities/mawlamyine.yaml) 79.90; [Bago](../../countries/MM/cities/bago.yaml) 77.35 |
+| MM | cities | 12 | 11 | 75.30 | 0 | 0 | 0 | 12 | [Yangon](../../countries/MM/cities/yangon.yaml) 86.75; [Mandalay](../../countries/MM/cities/mandalay.yaml) 85.60; [Mawlamyine](../../countries/MM/cities/mawlamyine.yaml) 79.90 |
 | MM | sights | 39 | 17 | 84.85 | 2 | 0 | 0 | 39 | [Bagan Archaeological Landscape](../../countries/MM/sights/bagan.yaml) 93.70; [Shwedagon Pagoda on Singuttara Hill](../../countries/MM/sights/shwedagon.yaml) 92.25; [Inle Lake](../../countries/MM/sights/inle-lake.yaml) 89.10 |
 | MN | cities | 18 | 18 | 68.32 | 0 | 0 | 0 | 18 | [Ulaanbaatar](../../countries/MN/cities/ulaanbaatar.yaml) 84.50; [Olgii](../../countries/MN/cities/olgii.yaml) 77.90; [Kharkhorin](../../countries/MN/cities/kharkhorin.yaml) 77.10 |
 | MN | sights | 50 | 36 | 82.70 | 4 | 0 | 9 | 50 | [Altai Tavan Bogd National Park](../../countries/MN/sights/altai-tavan-bogd-national-park.yaml) 92.45; [Orkhon Valley Cultural Landscape](../../countries/MN/sights/orkhon-valley-cultural-landscape.yaml) 90.95; [Gobi Gurvansaikhan National Park](../../countries/MN/sights/gobi-gurvansaikhan-national-park.yaml) 90.25 |
