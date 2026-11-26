@@ -2,7 +2,7 @@
 
 # Uganda (UG) — Sights & attractions ranking
 
-**19 ranked** · **6 unassessed** · **25 total** · Worldwide scoring **v2**
+**21 ranked** · **4 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (19)
+## Complete ranked list (21)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -33,17 +33,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 17 | [Nyero Rock Paintings](sights/nyero-rock-paintings.yaml) | Attraction | **85.85** | **History 9.3**, **Culture 9.1** | 8.3 / 9.0 / 9.1 / 8.3 / 7.8 | [1.460606, 33.847117](https://www.google.com/maps/search/?api=1&query=1.460606,33.847117) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nyero%20Rock%20Paintings%2C%20Uganda) |
 | 18 | [Dolwe Island Rock Art](sights/dolwe.yaml) | Island | **83.00** | **History 9.0**, **Culture 8.8** | 8.0 / 8.8 / 8.9 / 7.8 / 7.5 | [-0.459256, 33.700614](https://www.google.com/maps/search/?api=1&query=-0.459256,33.700614) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dolwe%20Island%20Rock%20Art%2C%20Uganda) |
 | 19 | [Bigo bya Mugyenyi Earthworks](sights/bigo-bya-mugyenyi.yaml) | Attraction | **82.70** | **History 9.2** | 7.7 / 8.9 / 9.1 / 7.7 / 7.6 | [0.15, 31.25](https://www.google.com/maps/search/?api=1&query=0.15,31.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bigo%20bya%20Mugyenyi%20Earthworks%2C%20Uganda) |
+| 20 | [Kakoro Rock Art](sights/kakoro.yaml) | Attraction | **82.40** | **History 9.0**, **Culture 8.8** | 7.8 / 8.8 / 8.9 / 7.8 / 7.5 | [1.169758, 34.055494](https://www.google.com/maps/search/?api=1&query=1.169758,34.055494) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kakoro%20Rock%20Art%2C%20Uganda) |
+| 21 | [Mukongoro Rock Art](sights/mukongoro.yaml) | Attraction | **81.30** | **History 9.0**, **Culture 8.8** | 7.6 / 8.8 / 8.9 / 7.6 / 7.3 | [1.330442, 33.875881](https://www.google.com/maps/search/?api=1&query=1.330442,33.875881) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mukongoro%20Rock%20Art%2C%20Uganda) |
 
-## Not yet fully assessed (6)
+## Not yet fully assessed (4)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Kachumbala Rock Art](sights/kachumbala.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [1.213239, 34.117786](https://www.google.com/maps/search/?api=1&query=1.213239,34.117786) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kachumbala%20Rock%20Art%2C%20Uganda) |
-| — | [Kakoro Rock Art](sights/kakoro.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [1.169758, 34.055494](https://www.google.com/maps/search/?api=1&query=1.169758,34.055494) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kakoro%20Rock%20Art%2C%20Uganda) |
 | — | [Kapiri Rock Art](sights/kapiri.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [1.647181, 33.7936](https://www.google.com/maps/search/?api=1&query=1.647181,33.7936) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kapiri%20Rock%20Art%2C%20Uganda) |
-| — | [Mukongoro Rock Art](sights/mukongoro.yaml) | Attraction | **—** | **History 9.0**, **Culture 8.8** | — / 8.8 / 8.9 / — / — | [1.330442, 33.875881](https://www.google.com/maps/search/?api=1&query=1.330442,33.875881) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mukongoro%20Rock%20Art%2C%20Uganda) |
 | — | [Ntusi Mounds and Basin](sights/ntusi-mounds.yaml) | Attraction | **—** | **History 9.2** | — / 8.7 / 9.0 / — / — | [0.05, 31.216667](https://www.google.com/maps/search/?api=1&query=0.05,31.216667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ntusi%20Mounds%20and%20Basin%2C%20Uganda) |
 | — | [Palabek Cultural Landscapes](sights/palabek-cultural-landscapes.yaml) | Coast | **—** | **Culture 9.2**, **History 9.0** | — / 8.9 / 9.1 / — / — | [3.475267, 32.612587](https://www.google.com/maps/search/?api=1&query=3.475267,32.612587) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palabek%20Cultural%20Landscapes%2C%20Uganda) |
 
