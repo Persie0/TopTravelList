@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14764; unassessed: 1505.
+Ranked: 14770; unassessed: 1499.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 403 |
+| conflicting-declared-status | 409 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1505 |
+| incomplete-core | 1499 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1794 |
 | overall-95-plus | 159 |
@@ -342,7 +342,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MX | sights | 111 | 82 | 85.68 | 9 | 1 | 5 | 111 | [Teotihuacán](../../countries/MX/sights/teotihuacan.yaml) 95.95; [Chichén Itzá](../../countries/MX/sights/chichen-itza.yaml) 94.30; [Palenque Archaeological City and National Park](../../countries/MX/sights/palenque.yaml) 93.45 |
 | MY | cities | 65 | 65 | 70.25 | 1 | 0 | 1 | 65 | [George Town](../../countries/MY/cities/george-town.yaml) 91.75; [Melaka City](../../countries/MY/cities/melaka-city.yaml) 89.20; [Kuala Lumpur](../../countries/MY/cities/kuala-lumpur.yaml) 87.70 |
 | MY | sights | 213 | 213 | 81.50 | 15 | 1 | 14 | 213 | [Gunung Mulu National Park](../../countries/MY/sights/gunung-mulu-national-park.yaml) 96.65; [Kinabalu Park](../../countries/MY/sights/kinabalu-park.yaml) 94.05; [Sipadan Island Reefs](../../countries/MY/sights/sipadan-island-reefs.yaml) 93.85 |
-| MZ | cities | 7 | 4 | 81.00 | 0 | 0 | 0 | 7 | [Ilha de Moçambique](../../countries/MZ/cities/ilha-de-mocambique.yaml) 89.00; [Maputo](../../countries/MZ/cities/maputo.yaml) 82.50; [Inhambane](../../countries/MZ/cities/inhambane.yaml) 79.50 |
+| MZ | cities | 7 | 6 | 78.32 | 0 | 0 | 0 | 7 | [Ilha de Moçambique](../../countries/MZ/cities/ilha-de-mocambique.yaml) 89.00; [Maputo](../../countries/MZ/cities/maputo.yaml) 82.50; [Inhambane](../../countries/MZ/cities/inhambane.yaml) 79.50 |
 | MZ | sights | 16 | 11 | 87.30 | 4 | 0 | 5 | 16 | [Bazaruto Archipelago National Park](../../countries/MZ/sights/bazaruto-archipelago-national-park.yaml) 93.55; [Gorongosa National Park](../../countries/MZ/sights/gorongosa-national-park.yaml) 92.20; [Island of Mozambique Historic Ensemble](../../countries/MZ/sights/island-of-mozambique-heritage.yaml) 91.65 |
 | NA | cities | 7 | 7 | 78.85 | 0 | 0 | 0 | 7 | [Swakopmund](../../countries/NA/cities/swakopmund.yaml) 84.45; [Lüderitz](../../countries/NA/cities/luderitz.yaml) 83.05; [Windhoek](../../countries/NA/cities/windhoek.yaml) 80.60 |
 | NA | sights | 21 | 17 | 89.65 | 8 | 1 | 10 | 21 | [Sossusvlei Dune Landscape](../../countries/NA/sights/sossusvlei.yaml) 95.40; [Etosha National Park](../../countries/NA/sights/etosha-national-park.yaml) 94.45; [Sandwich Harbour](../../countries/NA/sights/sandwich-harbour.yaml) 92.20 |
@@ -387,7 +387,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PM | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Saint-Pierre (Saint Pierre and Miquelon)](../../countries/PM/cities/saint-pierre.yaml) 84.10; [Miquelon village](../../countries/PM/cities/miquelon.yaml) 78.85 |
 | PM | sights | 14 | 14 | 82.50 | 0 | 0 | 0 | 14 | [Grand Barachois lagoon and Miquelon–Langlade isthmus](../../countries/PM/sights/grand-barachois.yaml) 88.90; [Île aux Marins fishing heritage and Archipélitude Museum](../../countries/PM/sights/ile-aux-marins.yaml) 88.10; [Grand Colombier seabird observation (permitted offshore tours)](../../countries/PM/sights/grand-colombier.yaml) 84.85 |
 | PN | cities | 1 | 1 | 81.55 | 0 | 0 | 0 | 1 | [Adamstown](../../countries/PN/cities/adamstown.yaml) 81.55 |
-| PN | sights | 10 | 7 | 82.30 | 0 | 0 | 0 | 10 | [Mata ki te Rangi (Pitcairn Island stargazing)](../../countries/PN/sights/dark-sky-pitcairn.yaml) 86.35; [Down Rope beach and Polynesian petroglyphs](../../countries/PN/sights/down-rope.yaml) 84.70; [Christian's Cave and Sailors Hide eco trail](../../countries/PN/sights/christians-cave.yaml) 82.35 |
+| PN | sights | 10 | 10 | 82.32 | 0 | 0 | 0 | 10 | [Henderson Island (UNESCO property)](../../countries/PN/sights/henderson-island.yaml) 87.75; [Mata ki te Rangi (Pitcairn Island stargazing)](../../countries/PN/sights/dark-sky-pitcairn.yaml) 86.35; [Ducie Atoll (restricted visitor scope)](../../countries/PN/sights/ducie-atoll.yaml) 84.90 |
 | PR | cities | 5 | 5 | 72.55 | 0 | 0 | 0 | 5 | [San Juan](../../countries/PR/cities/san-juan.yaml) 88.25; [Ponce](../../countries/PR/cities/ponce.yaml) 78.95; [Rincón](../../countries/PR/cities/rincon.yaml) 72.55 |
 | PR | sights | 11 | 11 | 83.55 | 1 | 0 | 1 | 11 | [Mosquito Bioluminescent Bay](../../countries/PR/sights/mosquito-bay.yaml) 91.75; [El Yunque National Forest](../../countries/PR/sights/el-yunque.yaml) 89.10; [San Juan National Historic Site (Puerto Rico)](../../countries/PR/sights/san-juan-national-historic-site.yaml) 88.55 |
 | PS | cities | 10 | 4 | 80.10 | 0 | 0 | 0 | 10 | [Bethlehem](../../countries/PS/cities/bethlehem.yaml) 85.80; [Jericho](../../countries/PS/cities/jericho.yaml) 81.90; [Ramallah](../../countries/PS/cities/ramallah.yaml) 78.30 |
@@ -434,7 +434,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SL | sights | 33 | 27 | 80.05 | 0 | 0 | 2 | 33 | [Tiwai Island Wildlife Sanctuary](../../countries/SL/sights/tiwai-island-wildlife-sanctuary.yaml) 89.70; [Gola Rainforest National Park](../../countries/SL/sights/gola-rainforest-national-park.yaml) 89.20; [Bunce Island](../../countries/SL/sights/bunce-island.yaml) 88.15 |
 | SM | cities | 14 | 14 | 68.72 | 0 | 0 | 0 | 14 | [City of San Marino](../../countries/SM/cities/city-of-san-marino.yaml) 87.65; [Borgo Maggiore](../../countries/SM/cities/borgo-maggiore.yaml) 76.65; [Montegiardino](../../countries/SM/cities/montegiardino.yaml) 73.10 |
 | SM | sights | 25 | 25 | 77.95 | 1 | 0 | 0 | 25 | [San Marino Historic Centre and Mount Titano](../../countries/SM/sights/san-marino-historic-centre-and-mount-titano.yaml) 90.80; [Guaita (First Tower)](../../countries/SM/sights/guaita-first-tower.yaml) 88.05; [Cesta (Second Tower)](../../countries/SM/sights/cesta-second-tower.yaml) 87.10 |
-| SN | cities | 8 | 6 | 83.58 | 0 | 0 | 0 | 8 | [Dakar](../../countries/SN/cities/dakar.yaml) 87.05; [Saint-Louis](../../countries/SN/cities/saint-louis.yaml) 86.35; [Touba](../../countries/SN/cities/touba.yaml) 83.60 |
+| SN | cities | 8 | 7 | 83.55 | 0 | 0 | 0 | 8 | [Dakar](../../countries/SN/cities/dakar.yaml) 87.05; [Saint-Louis](../../countries/SN/cities/saint-louis.yaml) 86.35; [Touba](../../countries/SN/cities/touba.yaml) 83.60 |
 | SN | sights | 23 | 20 | 87.42 | 3 | 0 | 2 | 23 | [Island of Gorée](../../countries/SN/sights/goree-island.yaml) 92.10; [Saloum Delta](../../countries/SN/sights/saloum-delta.yaml) 91.95; [Djoudj National Bird Sanctuary](../../countries/SN/sights/djoudj-bird-sanctuary.yaml) 91.50 |
 | SO | cities | 10 | 3 | 74.80 | 0 | 0 | 0 | 10 | [Berbera](../../countries/SO/cities/berbera.yaml) 81.00; [Hargeisa](../../countries/SO/cities/hargeisa.yaml) 74.80; [Sheikh](../../countries/SO/cities/sheikh.yaml) 73.00 |
 | SO | sights | 13 | 5 | 79.80 | 1 | 0 | 1 | 13 | [Laas Geel Rock Art](../../countries/SO/sights/laas-geel.yaml) 92.45; [Old Berbera Heritage Quarter](../../countries/SO/sights/old-berbera.yaml) 83.30; [Sheikh Mountain Pass](../../countries/SO/sights/sheikh-mountain-pass.yaml) 79.80 |
