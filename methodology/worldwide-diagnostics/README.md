@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15050; unassessed: 1219.
+Ranked: 15062; unassessed: 1207.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 525 |
+| conflicting-declared-status | 535 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1219 |
+| incomplete-core | 1207 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1814 |
+| overall-90-plus | 1818 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -63,7 +63,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BB | cities | 10 | 10 | 75.50 | 0 | 0 | 0 | 10 | [Bridgetown](../../countries/BB/cities/bridgetown.yaml) 81.80; [Speightstown](../../countries/BB/cities/speightstown.yaml) 80.15; [Bathsheba](../../countries/BB/cities/bathsheba.yaml) 78.50 |
 | BB | sights | 35 | 33 | 80.25 | 0 | 0 | 0 | 35 | [Historic Bridgetown and its Garrison](../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) 88.75; [Scotland District of Barbados](../../countries/BB/sights/scotland-district-of-barbados.yaml) 86.15; [Harrison's Cave](../../countries/BB/sights/harrison-s-cave.yaml) 85.25 |
 | BD | cities | 15 | 15 | 75.10 | 0 | 0 | 0 | 15 | [Dhaka](../../countries/BD/cities/dhaka.yaml) 83.50; [Rangamati](../../countries/BD/cities/rangamati.yaml) 78.65; [Chattogram](../../countries/BD/cities/chattogram.yaml) 76.90 |
-| BD | sights | 42 | 35 | 82.70 | 1 | 0 | 3 | 42 | [The Sundarbans (Bangladesh World Heritage Property)](../../countries/BD/sights/the-sundarbans-bangladesh-world-heritage-property.yaml) 92.35; [Historic Mosque City of Bagerhat](../../countries/BD/sights/historic-mosque-city-of-bagerhat.yaml) 89.05; [Ruins of the Buddhist Vihara at Paharpur](../../countries/BD/sights/ruins-of-the-buddhist-vihara-at-paharpur.yaml) 88.45 |
+| BD | sights | 42 | 39 | 83.00 | 1 | 0 | 3 | 42 | [The Sundarbans (Bangladesh World Heritage Property)](../../countries/BD/sights/the-sundarbans-bangladesh-world-heritage-property.yaml) 92.35; [Historic Mosque City of Bagerhat](../../countries/BD/sights/historic-mosque-city-of-bagerhat.yaml) 89.05; [Ruins of the Buddhist Vihara at Paharpur](../../countries/BD/sights/ruins-of-the-buddhist-vihara-at-paharpur.yaml) 88.45 |
 | BE | cities | 18 | 18 | 84.10 | 3 | 0 | 1 | 18 | [Bruges (Brugge)](../../countries/BE/cities/bruges.yaml) 92.50; [Ghent (Gent)](../../countries/BE/cities/ghent.yaml) 91.45; [Brussels](../../countries/BE/cities/brussels.yaml) 90.10 |
 | BE | sights | 64 | 61 | 86.95 | 5 | 0 | 3 | 64 | [Historic Centre of Bruges](../../countries/BE/sights/historic-bruges.yaml) 93.45; [Medieval Ghent and abbey heritage (tentative)](../../countries/BE/sights/ghent-historic-core.yaml) 91.20; [Grand-Place, Brussels](../../countries/BE/sights/grand-place.yaml) 90.90 |
 | BF | cities | 9 | 4 | 74.90 | 0 | 0 | 0 | 9 | [Bobo-Dioulasso](../../countries/BF/cities/bobo-dioulasso.yaml) 81.55; [Ouagadougou](../../countries/BF/cities/ouagadougou.yaml) 76.30; [Gaoua](../../countries/BF/cities/gaoua.yaml) 73.50 |
@@ -319,7 +319,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MM | cities | 12 | 11 | 75.30 | 0 | 0 | 0 | 12 | [Yangon](../../countries/MM/cities/yangon.yaml) 86.75; [Mandalay](../../countries/MM/cities/mandalay.yaml) 85.60; [Mawlamyine](../../countries/MM/cities/mawlamyine.yaml) 79.90 |
 | MM | sights | 39 | 17 | 84.85 | 2 | 0 | 0 | 39 | [Bagan Archaeological Landscape](../../countries/MM/sights/bagan.yaml) 93.70; [Shwedagon Pagoda on Singuttara Hill](../../countries/MM/sights/shwedagon.yaml) 92.25; [Inle Lake](../../countries/MM/sights/inle-lake.yaml) 89.10 |
 | MN | cities | 18 | 18 | 68.32 | 0 | 0 | 0 | 18 | [Ulaanbaatar](../../countries/MN/cities/ulaanbaatar.yaml) 84.50; [Olgii](../../countries/MN/cities/olgii.yaml) 77.90; [Kharkhorin](../../countries/MN/cities/kharkhorin.yaml) 77.10 |
-| MN | sights | 50 | 36 | 82.70 | 4 | 0 | 9 | 50 | [Altai Tavan Bogd National Park](../../countries/MN/sights/altai-tavan-bogd-national-park.yaml) 92.45; [Orkhon Valley Cultural Landscape](../../countries/MN/sights/orkhon-valley-cultural-landscape.yaml) 90.95; [Gobi Gurvansaikhan National Park](../../countries/MN/sights/gobi-gurvansaikhan-national-park.yaml) 90.25 |
+| MN | sights | 50 | 44 | 83.22 | 8 | 0 | 9 | 50 | [Cretaceous Dinosaur Fossil Sites in the Mongolian Gobi](../../countries/MN/sights/cretaceous-dinosaur-fossil-sites-in-the-mongolian-gobi.yaml) 92.60; [Altai Tavan Bogd National Park](../../countries/MN/sights/altai-tavan-bogd-national-park.yaml) 92.45; [Highlands of Mongol Altai](../../countries/MN/sights/highlands-of-mongol-altai.yaml) 92.10 |
 | MO | cities | 1 | 1 | 89.05 | 0 | 0 | 0 | 1 | [Macau](../../countries/MO/cities/macau.yaml) 89.05 |
 | MO | sights | 12 | 12 | 85.12 | 1 | 0 | 1 | 12 | [Historic Centre of Macau](../../countries/MO/sights/historic-centre-macau.yaml) 92.65; [A-Ma Temple Macau](../../countries/MO/sights/a-ma-temple.yaml) 89.95; [Senado Square Macau](../../countries/MO/sights/senado-square.yaml) 89.90 |
 | MP | cities | 4 | 4 | 77.48 | 0 | 0 | 0 | 4 | [Garapan (Saipan)](../../countries/MP/cities/garapan.yaml) 79.45; [Songsong (Rota)](../../countries/MP/cities/songsong.yaml) 78.25; [San Jose (Tinian)](../../countries/MP/cities/san-jose-tinian.yaml) 76.70 |
