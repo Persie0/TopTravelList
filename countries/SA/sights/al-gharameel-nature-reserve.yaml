@@ -1,0 +1,16 @@
+id: sight-sa-al-gharameel-nature-reserve
+name: "Al Gharameel Nature Reserve"
+location:
+  country_code: SA
+  latitude: 27.3593
+  longitude: 37.81051
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

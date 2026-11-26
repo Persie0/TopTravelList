@@ -551,3 +551,13 @@ Six additions and 24 peer comparisons matched to ranked rows. Kuwait 44 ranked /
 - [x] SA — Boulevard World Riyadh: 83.85/100 (source-linked-unverified).
 
 Five additions and 20 peer comparisons. Saudi Arabia 53 ranked / 59 total; six existing unassessed unchanged. Ashar Valley official access conditional on hotel, restaurant or event reservation (https://www.experiencealula.com/en/places-to-go/ashar-valley); defer distinct independent natural scope rather than duplicate Maraya or rank resort landscape as unrestricted. Al Soudah forms part of Asir National Park (https://saudipedia.com/en/al-soudah-mountain); retain parent and flag specific visitor facilities for later scope review. Jabal al-Lawz summit access restricted, defer until permissible public-viewing coordinate and scope established (https://www.lonelyplanet.com/points-of-interest/jebel-al-lawz/1615599). Remaining substantial Saudi candidates: Al Gharameel stargazing, Khaybar visitor areas (check existing walled oases), Al Bujairi Terrace (check At-Turaif scope), Al Faisaliah observation deck and historic Tarout Castle; screen quickly and avoid duplicates. Al Hada locator carries publisher accuracy warning, flagged. Full Python validation and individual peer YAML checks pending.
+
+### Pass 52 — Saudi Arabia heritage and dark sky
+
+- [x] SA — Al Gharameel Nature Reserve: 89.40/100 (source-linked-unverified).
+- [x] SA — Khaybar Historic Oasis and Forts: 87.65/100 (source-linked-unverified).
+- [x] SA — Tarout Castle (Exterior) and Al-Dira Historic Quarter: 80.95/100 (source-linked-unverified).
+- [x] SA — Al Faisaliah Tower Observation Deck: 80.05/100 (source-linked-unverified).
+- [x] SA — Ushaiqer Heritage Village: 85.85/100 (source-linked-unverified).
+
+Five additions and 20 peer comparisons. Saudi Arabia 58 ranked / 64 total; six prior unassessed unchanged. Bujairi Terrace is a modern dining precinct with views of already-ranked At-Turaif (https://www.diriyah.sa/en/places-to-go/bujairi-terrace); excluded as insufficient distinct sightseeing scope for this screen. Khaybar bounded to guided visitor oasis and forts rather than regional archaeological property; Gharameel uses representative terrain point, not meeting point. Tarout exterior only due conflicting interior access, Faisaliah operator indexed listing but direct page 403. Remaining concrete candidates Dumat al-Jandal historic quarter, Shuwaymis rock art component if independently visitable, Jabal Shada and Taif Shubra Palace, plus Medina's major distinct heritage sites; screen bounded and rotate. Prior walled-oases review says unassessed but current ranked row exists: flag for consistency audit without overwriting ratings. Full Python validation and individual peer YAML checks pending.

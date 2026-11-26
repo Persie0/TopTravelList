@@ -14,6 +14,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | QA | DONE — current queue | 64 total (60 ranked); final family attractions added. Whale shark excursions deferred pending renewed operator schedule, indoor Dadu museum not open, temporary Skeek programme deferred. Reopen on confirmed access or concrete substantial omission. |
 | BH | DONE — current queue | 46 total (45 ranked); final island and cultural venues added. Royal Camel Farm and Gravity sessions deferred pending access/coordinate confirmation; overlapping heritage umbrella and smaller galleries excluded. Reopen on concrete evidence. |
 | KW | DONE — current queue | 50 total (44 ranked); Kuwait Geopark named place coordinate recovered. Winter Wonderland upcoming season conflicting, deferred. Existing Al Shaheed Park expansion rating review remains separate. Reopen on concrete evidence. |
-| SA | OPEN | 59 total (53 ranked); five additions in pass 51. Ashar reservation-dependent, Al Soudah parent overlap, Jabal al-Lawz restricted access deferred. Next bounded screen: Al Gharameel, Khaybar, Bujairi, Al Faisaliah and Tarout Castle. |
+| SA | OPEN | 64 total (58 ranked); five additions in pass 52. Bujairi excluded as overlapping dining precinct; remaining concrete candidates Dumat al-Jandal, Shuwaymis, Jabal Shada, Shubra Palace and major distinct Medina heritage sites. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.
