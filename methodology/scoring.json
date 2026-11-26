@@ -29,18 +29,19 @@
     "impact": [
       "sight-cn-great-wall-jinshanling",
       "sight-kh-angkor-archaeological-park",
-      "sight-kh-angkor-wat"
+      "sight-kh-angkor-wat",
+      "sight-us-grand-canyon-national-park"
     ],
     "uniqueness": [
-      "sight-cn-great-wall-jinshanling",
       "sight-cn-terracotta-army",
       "sight-kh-angkor-archaeological-park",
       "sight-kh-angkor-wat"
     ],
     "significance": [
       "sight-cn-forbidden-city",
-      "sight-cn-great-wall-jinshanling",
       "sight-cn-terracotta-army",
+      "sight-ec-galapagos-islands-world-heritage-property",
+      "sight-eg-giza-plateau",
       "sight-kh-angkor-archaeological-park",
       "sight-kh-angkor-wat"
     ],
@@ -54,13 +55,12 @@
     ],
     "architecture": [
       "sight-cn-forbidden-city",
-      "sight-cn-great-wall-jinshanling",
+      "sight-in-taj-mahal",
       "sight-kh-angkor-archaeological-park",
       "sight-kh-angkor-wat"
     ],
     "history": [
       "sight-cn-forbidden-city",
-      "sight-cn-great-wall-jinshanling",
       "sight-cn-terracotta-army",
       "sight-kh-angkor-archaeological-park",
       "sight-kh-angkor-wat"

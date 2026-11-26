@@ -22,6 +22,38 @@
 - High-score challenge: 90+ overall reflects volcanic coasts and endemic wildlife and isolated evolutionary ecosystems; depth reflects many habitats and islands. impact 9.9: volcanic coasts and endemic wildlife; uniqueness 9.9: isolated evolutionary ecosystems; significance 9.9: global evolutionary science and conservation; experience 9.5: regulated multi-island exploration; depth 9.8: many habitats and islands; nature 9.9: isolated evolutionary ecosystems; wildlife 9.9: isolated evolutionary ecosystems; photography 9.9: volcanic coasts and endemic wildlife; adventure 9.5: volcanic coasts and endemic wildlife Oceanic endemic species and evolutionary science distinguish the ensemble from Huangshan and Durmitor; direct archipelago comparisons remain pending. Approved 10 registry: none.
 - Verification still needed: individual facts, coordinates, access, closer peers.
 
+### Reassessment — 2026-11-26
+
+- [Source YAML](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) · **fact-checked** (material claims, not a verified numerical rating).
+- Action: rescore; precise subject: The protected Galápagos island and marine World Heritage ensemble, not an individual island or beach.
+- Location check: existing representative point retained; precise GPS independently unverified.
+- Independently checked factual claims: [UNESCO Galápagos Islands](https://whc.unesco.org/en/list/1/), opened 2026-11-26, directly documents the endemic fauna and the archipelago's influence on Darwin's theory, continuing evolutionary processes and volcanic origins. The source covers the exact ensemble; a second independent source is outstanding.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [TZ/sights/serengeti-national-park](../../../countries/TZ/sights/serengeti-national-park.yaml) | World-leading migration ecosystem; Galápagos has a separate foundational contribution to evolutionary science. |
+| [AU/sights/great-barrier-reef](../../../countries/AU/sights/great-barrier-reef.yaml) | Global marine biodiversity benchmark; Galápagos combines isolation, island endemism and evolutionary history. |
+| [ID/sights/komodo-national-park](../../../countries/ID/sights/komodo-national-park.yaml) | Distinctive endemic fauna and marine habitats, but less foundational to the history of evolutionary biology. |
+| [BW/sights/okavango-delta](../../../countries/BW/sights/okavango-delta.yaml) | Exceptional wetland ecological processes, illustrating a different globally significant ecosystem. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.9 | 9.9 | 9.9: rare encounters with distinctive volcanic landscapes and wildlife are exceptionally memorable. |
+| Uniqueness | 9.9 | 9.9 | 9.9: isolation and evolutionary divergence create an almost irreplaceable ensemble; comparable singular ecosystems also exist. |
+| Significance | 9.9 | 10.0 | 10: foundational role in evolutionary theory plus ongoing observable evolutionary processes; the named property contains the islands and marine ecosystem, not a remote associated institution. |
+| Experience | 9.5 | 9.5 | 9.5: varied nature encounters support elite experiential merit, without assuming every itinerary reaches every part of the reserve. |
+| Depth | 9.3 | 9.3 | 9.3: meaningful island and marine discovery, but the entire scientific landscape is not equivalent to unrestricted tourist exploration. |
+
+- Categories after: nature 9.9, wildlife 9.9, photography 9.9, adventure 9.5.
+- Computed overall: 97.80/100 → **98.00/100**.
+- High-score challenge: Nature, wildlife and photography 9.9 recognize endemic fauna, volcanic forms and unusual observation opportunities; adventure 9.5 reflects varied guided exploration. Significance 10 only, explicitly justified against Serengeti, Great Barrier Reef, Komodo and Okavango.
+- Approved 10 registry: add significance for `sight-ec-galapagos-islands-world-heritage-property`.
+- Earlier decision: Original 25 November review above.
+- Verification still needed: exact GPS and independently documented breadth of the visit. The numerical judgment remains editorial.
+
+
 ## sight-ec-historic-centre-of-quito — Historic Centre of Quito — 2026-11-25
 
 - YAML: [source](../../../countries/EC/sights/historic-centre-of-quito.yaml) · Action: new

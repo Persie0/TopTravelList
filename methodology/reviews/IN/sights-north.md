@@ -17,6 +17,38 @@
 - **Exceptional score check:** Very high component values and any 90+ total reflect provisional worldwide editorial comparisons above. No 10 was approved; source verification and further calibration remain open.
 - **Verification still needed:** Confirm identity, coordinates and the specific historical/visitor claims with exact dedicated sources; check nested attraction scope.
 
+### Reassessment — 2026-11-26
+
+- [Source YAML](../../../countries/IN/sights/taj-mahal.yaml) · **fact-checked** (material claims, not a verified numerical rating).
+- Action: rescore; precise subject: The mausoleum and its coherent gate, garden, mosque and guest-house composition; not Agra or nearby Agra Fort.
+- Location check: existing representative point retained; precise GPS independently unverified.
+- Independently checked factual claims: [UNESCO Taj Mahal](https://whc.unesco.org/en/list/252/), opened 2026-11-26, describes the axial symmetry, marble and inlay craftsmanship, garden, gate and flanking buildings under criterion (i). [India Ministry of Culture](https://culture.gov.in/taj-mahal), search excerpt retrieved 2026-11-26; full page timed out, so not counted as a second independent full check.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [KH/sights/angkor-wat](../../../countries/KH/sights/angkor-wat.yaml) | Approved architecture 10: monumental sacred ensemble; Taj is an equally defining example of a different architectural tradition. |
+| [CN/sights/forbidden-city](../../../countries/CN/sights/forbidden-city.yaml) | Approved architecture 10: imperial spatial hierarchy; the Taj achieves extraordinary unity in a much more concentrated composition. |
+| [ES/sights/alhambra-ensemble](../../../countries/ES/sights/alhambra-ensemble.yaml) | Elite Islamic palace and garden craftsmanship, with different spatial complexity; Taj's axial mausoleum composition is distinctive. |
+| [TH/sights/wat-phra-kaew](../../../countries/TH/sights/wat-phra-kaew.yaml) | Outstanding decorated sacred architecture, but different formal coherence and typology. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.9 | 9.9 | 9.9 retained: marble silhouette and axial garden views create near-defining impact. |
+| Uniqueness | 9.9 | 9.9 | 9.9 retained: singular integration of a Mughal funerary building with garden symmetry and intricate decoration. |
+| Significance | 9.9 | 9.9 | 9.9 retained: culturally consequential Mughal monument; no automatic perfect historical rating. |
+| Experience | 9.8 | 9.8 | 9.8 retained: coherent progression from gate to garden to tomb makes an exceptional visit; not a claim of universal preference. |
+| Depth | 9.3 | 9.3 | 9.3 retained: rich architectural detail and grounds but less breadth than major multi-structure archaeological landscapes. |
+
+- Categories after: architecture 10.0, history 9.9, photography 9.9.
+- Computed overall: 98.25/100 → **98.25/100**.
+- High-score challenge: Architecture 10 for the complete spatial and material composition, compared explicitly with existing 10-level Angkor and Forbidden City; history and photography 9.9 reflect exceptional Mughal legacy and formal visual effect. Overall does not change because categories are independent.
+- Approved 10 registry: add architecture for `sight-in-taj-mahal`.
+- Earlier decision: Original 23 November review above.
+- Verification still needed: exact GPS and independently documented breadth of the visit. The numerical judgment remains editorial.
+
+
 ## sight-in-agra-fort — Agra Fort
 
 - [Source YAML](../../../countries/IN/sights/agra-fort.yaml) · **source-linked-unverified** · Derived overall **93.00/100**

@@ -21,6 +21,38 @@
 - Evidence: [source context](https://egymonuments.gov.eg/archaeological-sites/giza-plateau/) (consulted 2026-11-25; individual property or ministry description and heritage context). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
 
+### Reassessment — 2026-11-26
+
+- [Source YAML](../../../countries/EG/sights/giza-plateau.yaml) · **fact-checked** (material claims, not a verified numerical rating).
+- Action: rescore; precise subject: Giza's pyramid group and Great Sphinx, excluding the other Memphis necropolis components.
+- Location check: existing representative point retained; precise GPS independently unverified.
+- Independently checked factual claims: [UNESCO Memphis and its Necropolis](https://whc.unesco.org/en/list/086/), opened 2026-11-26, explicitly identifies the Great Pyramid as the only surviving ancient wonder and Giza's three pyramids and Sphinx. [Egypt Ministry of Tourism and Antiquities](https://egymonuments.gov.eg/en/world-heritage/memphis-and-its-necropolis/), opened 2026-11-26, distinguishes Giza from Saqqara and other components.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [KH/sights/angkor-wat](../../../countries/KH/sights/angkor-wat.yaml) | World-defining temple architecture and Khmer civilization; Giza's exceptionally early monumental building and survival are independently world-defining. |
+| [CN/sights/terracotta-army](../../../countries/CN/sights/terracotta-army.yaml) | An approved 10 significance funerary ensemble; Giza is comparably fundamental to understanding an early complex civilization. |
+| [JO/sights/petra-archaeological-park](../../../countries/JO/sights/petra-archaeological-park.yaml) | Elite ancient monument landscape with different historical contributions and richer urban exploration. |
+| [EG/sights/saqqara](../../../countries/EG/sights/saqqara.yaml) | Earlier pyramid development and exceptional archaeology, but Giza contains the sole surviving ancient wonder. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.9 | 9.9 | 9.9: monumental desert silhouette and Sphinx are near-global-pinnacle visually. |
+| Uniqueness | 9.9 | 9.9 | 9.9: scale, form, antiquity and the pyramid ensemble are extremely difficult to substitute. |
+| Significance | 9.9 | 10.0 | 10: sole surviving ancient wonder and globally foundational evidence of monumental engineering and Old Kingdom civilization; the record itself contains that evidence. |
+| Experience | 9.6 | 9.6 | 9.6: multiple monumental viewpoints and interpretation, without implying unrestricted interior access or maximum visitor engagement. |
+| Depth | 9.5 | 9.5 | 9.5: three pyramids, Sphinx and archaeological precinct provide unusually rich discovery for a funerary monument ensemble. |
+
+- Categories after: architecture 9.9, history 9.9, photography 9.8.
+- Computed overall: 98.15/100 → **98.35/100**.
+- High-score challenge: Architecture/history 9.9 are justified by extraordinary early monumental construction and surviving Old Kingdom testimony; photography 9.8 by the iconic desert composition. Significance 10 explicitly approved for this record, not every pyramid or every Memphis component. Other elite fields remain below perfect.
+- Approved 10 registry: add significance for `sight-eg-giza-plateau`.
+- Earlier decision: Original 25 November review above.
+- Verification still needed: exact GPS and independently documented breadth of the visit. The numerical judgment remains editorial.
+
+
 ## sight-eg-karnak — Karnak Temple Complex — 2026-11-25
 
 - [YAML](../../../countries/EG/sights/karnak.yaml) · Action: new · **source-linked-unverified**.
