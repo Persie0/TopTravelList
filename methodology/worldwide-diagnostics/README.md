@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15327; unassessed: 942.
+Ranked: 15340; unassessed: 929.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,17 +9,17 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 793 |
+| conflicting-declared-status | 798 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2123 |
 | historical-review-only | 2516 |
-| incomplete-core | 942 |
+| incomplete-core | 929 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1887 |
+| overall-90-plus | 1890 |
 | overall-95-plus | 164 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
-| small-scope-high-total | 26 |
+| small-scope-high-total | 27 |
 | type-score-distance-15-plus | 137 |
 
 ## All areas — cities and sights separately
@@ -239,11 +239,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IO | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | IO | sights | 5 | 0 |  | 0 | 0 | 1 | 5 |  |
 | IQ | cities | 14 | 14 | 80.55 | 0 | 0 | 0 | 14 | [Karbala](../../countries/IQ/cities/karbala.yaml) 87.90; [Najaf](../../countries/IQ/cities/najaf.yaml) 87.70; [Baghdad](../../countries/IQ/cities/baghdad.yaml) 85.80 |
-| IQ | sights | 38 | 21 | 85.10 | 3 | 0 | 0 | 38 | [Imam Ali Shrine](../../countries/IQ/sights/imam-ali-shrine.yaml) 90.15; [Imam Husayn Shrine](../../countries/IQ/sights/imam-husayn-shrine.yaml) 90.15; [Babylon Archaeological Site](../../countries/IQ/sights/babylon.yaml) 90.00 |
+| IQ | sights | 38 | 24 | 85.20 | 3 | 0 | 0 | 38 | [Imam Ali Shrine](../../countries/IQ/sights/imam-ali-shrine.yaml) 90.15; [Imam Husayn Shrine](../../countries/IQ/sights/imam-husayn-shrine.yaml) 90.15; [Babylon Archaeological Site](../../countries/IQ/sights/babylon.yaml) 90.00 |
 | IR | cities | 15 | 15 | 84.10 | 1 | 0 | 0 | 15 | [Isfahan](../../countries/IR/cities/isfahan.yaml) 91.60; [Yazd](../../countries/IR/cities/yazd.yaml) 88.70; [Shiraz](../../countries/IR/cities/shiraz.yaml) 87.75 |
-| IR | sights | 55 | 17 | 86.15 | 2 | 0 | 0 | 55 | [Persepolis](../../countries/IR/sights/persepolis.yaml) 93.15; [Historic City of Yazd](../../countries/IR/sights/historic-yazd.yaml) 90.10; [Naqsh-e Rostam and Naqsh-e Rajab](../../countries/IR/sights/naqsh-e-rostam.yaml) 89.15 |
+| IR | sights | 55 | 20 | 86.60 | 4 | 0 | 0 | 55 | [Persepolis](../../countries/IR/sights/persepolis.yaml) 93.15; [Meidan Emam (Naqsh-e Jahan Square)](../../countries/IR/sights/naqsh-e-jahan.yaml) 91.90; [Shushtar Historical Hydraulic System](../../countries/IR/sights/shushtar.yaml) 90.25 |
 | IS | cities | 15 | 15 | 80.20 | 0 | 0 | 0 | 15 | [Reykjavík](../../countries/IS/cities/reykjavik.yaml) 86.65; [Vestmannaeyjabær (Heimaey)](../../countries/IS/cities/vestmannaeyjabaer.yaml) 83.30; [Seyðisfjörður](../../countries/IS/cities/seydisfjordur.yaml) 82.35 |
-| IS | sights | 56 | 52 | 86.98 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
+| IS | sights | 56 | 54 | 86.80 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
 | IT | cities | 25 | 25 | 89.85 | 12 | 3 | 13 | 25 | [Rome](../../countries/IT/cities/rome.yaml) 97.30; [Venice](../../countries/IT/cities/venice.yaml) 96.50; [Florence](../../countries/IT/cities/florence.yaml) 95.55 |
 | IT | sights | 134 | 127 | 90.80 | 83 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
 | JE | cities | 4 | 4 | 81.75 | 0 | 0 | 0 | 4 | [St Helier](../../countries/JE/cities/st-helier.yaml) 83.35; [St Aubin](../../countries/JE/cities/st-aubin.yaml) 81.85; [Gorey harbour village](../../countries/JE/cities/gorey.yaml) 81.65 |
@@ -265,7 +265,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | KM | cities | 14 | 14 | 73.50 | 0 | 0 | 0 | 14 | [Moroni](../../countries/KM/cities/moroni.yaml) 80.70; [Mutsamudu](../../countries/KM/cities/mutsamudu.yaml) 80.10; [Ikoni](../../countries/KM/cities/ikoni.yaml) 77.60 |
 | KM | sights | 31 | 29 | 81.05 | 1 | 0 | 2 | 31 | [Mohéli Marine Park](../../countries/KM/sights/moheli-marine-park.yaml) 91.00; [Mount Karthala](../../countries/KM/sights/mount-karthala.yaml) 89.80; [Karthala National Park](../../countries/KM/sights/karthala-national-park.yaml) 89.35 |
 | KN | cities | 11 | 11 | 72.60 | 0 | 0 | 0 | 11 | [Charlestown](../../countries/KN/cities/charlestown.yaml) 82.05; [Basseterre](../../countries/KN/cities/basseterre.yaml) 80.55; [Old Road Town](../../countries/KN/cities/old-road-town.yaml) 75.80 |
-| KN | sights | 30 | 27 | 78.65 | 1 | 0 | 1 | 30 | [Brimstone Hill Fortress National Park](../../countries/KN/sights/brimstone-hill-fortress-national-park.yaml) 90.55; [St Kitts Scenic Railway](../../countries/KN/sights/st-kitts-scenic-railway.yaml) 85.40; [Mount Liamuiga Summit Trail](../../countries/KN/sights/mount-liamuiga-summit-trail.yaml) 85.05 |
+| KN | sights | 30 | 28 | 79.00 | 1 | 0 | 1 | 30 | [Brimstone Hill Fortress National Park](../../countries/KN/sights/brimstone-hill-fortress-national-park.yaml) 90.55; [St Kitts Scenic Railway](../../countries/KN/sights/st-kitts-scenic-railway.yaml) 85.40; [Mount Liamuiga Summit Trail](../../countries/KN/sights/mount-liamuiga-summit-trail.yaml) 85.05 |
 | KP | cities | 8 | 1 | 81.90 | 0 | 0 | 0 | 8 | [Pyongyang](../../countries/KP/cities/pyongyang.yaml) 81.90 |
 | KP | sights | 22 | 11 | 80.90 | 0 | 0 | 0 | 22 | [Tomb of King Kongmin](../../countries/KP/sights/tomb-king-kongmin.yaml) 84.80; [Mount Myohyang](../../countries/KP/sights/mount-myohyang.yaml) 84.55; [Ryongmun Cavern and Songam Cave](../../countries/KP/sights/ryongmun-songam.yaml) 84.45 |
 | KR | cities | 82 | 82 | 73.80 | 2 | 0 | 3 | 0 | [Gyeongju](../../countries/KR/cities/gyeongju.yaml) 93.10; [Seoul](../../countries/KR/cities/seoul.yaml) 91.90; [Busan](../../countries/KR/cities/busan.yaml) 89.00 |
@@ -499,9 +499,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | VA | cities | 1 | 1 | 93.80 | 1 | 0 | 1 | 1 | [Vatican City](../../countries/VA/cities/vatican-city.yaml) 93.80 |
 | VA | sights | 24 | 24 | 88.10 | 9 | 3 | 9 | 24 | [Saint Peter's Basilica](../../countries/VA/sights/saint-peters-basilica.yaml) 97.90; [Vatican Museums](../../countries/VA/sights/vatican-museums.yaml) 96.95; [Sistine Chapel](../../countries/VA/sights/sistine-chapel.yaml) 95.70 |
 | VC | cities | 13 | 13 | 72.25 | 0 | 0 | 0 | 13 | [Port Elizabeth (Bequia)](../../countries/VC/cities/port-elizabeth-bequia.yaml) 82.00; [Kingstown](../../countries/VC/cities/kingstown.yaml) 78.95; [Old Wall (Mayreau)](../../countries/VC/cities/old-wall-mayreau.yaml) 75.80 |
-| VC | sights | 51 | 33 | 80.15 | 2 | 0 | 1 | 51 | [Tobago Cays Marine Park](../../countries/VC/sights/tobago-cays-marine-park.yaml) 92.20; [Grenadines Island Group (Saint Vincent sector)](../../countries/VC/sights/grenadines-island-group-saint-vincent-sector.yaml) 92.15; [La Soufrière National Park](../../countries/VC/sights/la-soufriere-national-park.yaml) 89.30 |
+| VC | sights | 51 | 34 | 80.22 | 2 | 0 | 1 | 51 | [Tobago Cays Marine Park](../../countries/VC/sights/tobago-cays-marine-park.yaml) 92.20; [Grenadines Island Group (Saint Vincent sector)](../../countries/VC/sights/grenadines-island-group-saint-vincent-sector.yaml) 92.15; [La Soufrière National Park](../../countries/VC/sights/la-soufriere-national-park.yaml) 89.30 |
 | VE | cities | 35 | 35 | 70.50 | 0 | 0 | 0 | 35 | [Coro](../../countries/VE/cities/coro.yaml) 82.15; [Ciudad Bolívar](../../countries/VE/cities/ciudad-bolivar.yaml) 81.50; [Caracas](../../countries/VE/cities/caracas.yaml) 81.20 |
-| VE | sights | 43 | 40 | 82.25 | 4 | 1 | 12 | 43 | [Canaima National Park](../../countries/VE/sights/canaima-national-park.yaml) 95.85; [Mount Roraima (Venezuelan sector)](../../countries/VE/sights/mount-roraima-venezuelan-sector.yaml) 93.85; [Angel Falls (Salto Ángel)](../../countries/VE/sights/angel-falls-salto-angel.yaml) 93.05 |
+| VE | sights | 43 | 42 | 82.50 | 5 | 1 | 12 | 43 | [Canaima National Park](../../countries/VE/sights/canaima-national-park.yaml) 95.85; [Auyán-tepui (summit landscape)](../../countries/VE/sights/auyan-tepui-summit-landscape.yaml) 94.40; [Mount Roraima (Venezuelan sector)](../../countries/VE/sights/mount-roraima-venezuelan-sector.yaml) 93.85 |
 | VG | cities | 3 | 3 | 74.00 | 0 | 0 | 0 | 3 | [Road Town (Tortola)](../../countries/VG/cities/road-town.yaml) 76.85; [Spanish Town (Virgin Gorda)](../../countries/VG/cities/spanish-town.yaml) 74.00; [The Settlement (Anegada)](../../countries/VG/cities/the-settlement.yaml) 72.80 |
 | VG | sights | 10 | 10 | 82.78 | 1 | 0 | 0 | 10 | [The Baths and Devil's Bay (Virgin Gorda)](../../countries/VG/sights/the-baths-devils-bay.yaml) 90.70; [RMS Rhone Marine National Park (permitted wreck dives)](../../countries/VG/sights/rms-rhone.yaml) 88.45; [Sage Mountain National Park (Tortola)](../../countries/VG/sights/sage-mountain.yaml) 85.00 |
 | VI | cities | 4 | 4 | 82.05 | 0 | 0 | 0 | 4 | [Charlotte Amalie (Saint Thomas)](../../countries/VI/cities/charlotte-amalie.yaml) 83.40; [Christiansted (Saint Croix)](../../countries/VI/cities/christiansted.yaml) 83.35; [Frederiksted (Saint Croix)](../../countries/VI/cities/frederiksted.yaml) 80.75 |
@@ -523,7 +523,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | ZA | cities | 12 | 12 | 81.38 | 1 | 0 | 1 | 12 | [Cape Town](../../countries/ZA/cities/cape-town.yaml) 93.30; [Johannesburg](../../countries/ZA/cities/johannesburg.yaml) 84.55; [Stellenbosch](../../countries/ZA/cities/stellenbosch.yaml) 84.20 |
 | ZA | sights | 31 | 30 | 90.20 | 19 | 1 | 14 | 31 | [Kruger National Park](../../countries/ZA/sights/kruger-national-park.yaml) 95.80; [Cape Floral Region Protected Areas (UNESCO aggregate)](../../countries/ZA/sights/cape-floral-region.yaml) 94.40; [Maloti-Drakensberg Park (South African sector)](../../countries/ZA/sights/maloti-drakensberg-south-africa.yaml) 93.90 |
 | ZM | cities | 5 | 4 | 74.12 | 0 | 0 | 0 | 5 | [Livingstone](../../countries/ZM/cities/livingstone.yaml) 80.20; [Lusaka](../../countries/ZM/cities/lusaka.yaml) 76.30; [Ndola](../../countries/ZM/cities/ndola.yaml) 71.95 |
-| ZM | sights | 20 | 16 | 89.95 | 8 | 1 | 6 | 20 | [Mosi-oa-Tunya / Victoria Falls (Zambian side)](../../countries/ZM/sights/victoria-falls.yaml) 96.75; [South Luangwa National Park](../../countries/ZM/sights/south-luangwa-national-park.yaml) 94.65; [Lower Zambezi National Park](../../countries/ZM/sights/lower-zambezi-national-park.yaml) 94.10 |
+| ZM | sights | 20 | 17 | 89.75 | 8 | 1 | 6 | 20 | [Mosi-oa-Tunya / Victoria Falls (Zambian side)](../../countries/ZM/sights/victoria-falls.yaml) 96.75; [South Luangwa National Park](../../countries/ZM/sights/south-luangwa-national-park.yaml) 94.65; [Lower Zambezi National Park](../../countries/ZM/sights/lower-zambezi-national-park.yaml) 94.10 |
 | ZW | cities | 6 | 6 | 77.38 | 0 | 0 | 0 | 6 | [Bulawayo](../../countries/ZW/cities/bulawayo.yaml) 81.95; [Harare](../../countries/ZW/cities/harare.yaml) 80.55; [Victoria Falls (city)](../../countries/ZW/cities/victoria-falls.yaml) 77.65 |
 | ZW | sights | 20 | 17 | 88.95 | 7 | 1 | 5 | 20 | [Mosi-oa-Tunya / Victoria Falls (Zimbabwean side)](../../countries/ZW/sights/victoria-falls.yaml) 97.00; [Mana Pools National Park](../../countries/ZW/sights/mana-pools-national-park.yaml) 94.65; [Great Zimbabwe National Monument](../../countries/ZW/sights/great-zimbabwe.yaml) 94.05 |
 
@@ -553,6 +553,7 @@ Name heuristic, not a determination of scope or inflated rating.
 | [Jerónimos Monastery and Belém Tower](../../countries/PT/sights/jeronimos-belem.yaml) | PT | 92.15 |
 | [Bhaktapur Durbar Square](../../countries/NP/sights/bhaktapur-durbar-square.yaml) | NP | 92.10 |
 | [Kathmandu Durbar Square](../../countries/NP/sights/kathmandu-durbar-square.yaml) | NP | 92.05 |
+| [Meidan Emam (Naqsh-e Jahan Square)](../../countries/IR/sights/naqsh-e-jahan.yaml) | IR | 91.90 |
 | [Shravanabelagola Bahubali Statue](../../countries/IN/sights/shravanabelagola-bahubali-statue.yaml) | IN | 91.70 |
 | [Kenrokuen Garden](../../countries/JP/sights/kenrokuen-garden.yaml) | JP | 91.60 |
 | [Humble Administrator's Garden](../../countries/CN/sights/humble-administrators-garden.yaml) | CN | 91.15 |
