@@ -1,0 +1,16 @@
+id: sight-eg-tell-el-amarna
+name: "Tell el-Amarna Archaeological Site"
+location:
+  country_code: EG
+  latitude: 27.6599
+  longitude: 30.9066
+scores:
+  impact: 8.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.4
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 8.7

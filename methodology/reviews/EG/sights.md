@@ -1977,3 +1977,373 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-eg-sultan-hassan-al-rifai-mosques — Sultan Hassan and Al-Rifa'i Mosques — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/sultan-hassan-al-rifai-mosques.yaml)
+- Action: new
+- Precise subject and limitations: Adjacent mosques with combined admission confirmed at https://egymonuments.gov.eg/en/monuments/al-rifa-i-mosque; excludes Citadel, respects religious access. Representative point at Sultan Hassan.
+- Location check: 30.03226, 31.25631; [published representative point](https://mapcarta.com/28173580), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/monuments/mosque-and-madrasa-of-sultan-hasan/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/al-azhar-mosque](../../../countries/EG/sights/al-azhar-mosque.yaml) | 8.8 / 8.9 / 9.3 / 8.7 / 8.6 | Different active historic institution. |
+| [EG/muhammad-ali-mosque](../../../countries/EG/sights/muhammad-ali-mosque.yaml) | 9.0 / 8.7 / 8.9 / 8.7 / 8.1 | Different Ottoman architecture. |
+| [OM/sultan-qaboos-grand-mosque](../../../countries/OM/sights/sultan-qaboos-grand-mosque.yaml) | 8.9 / 8.5 / 8.2 / 8.8 / 8.1 | Different modern monumental mosque. |
+| [AE/sheikh-zayed-grand-mosque](../../../countries/AE/sights/sheikh-zayed-grand-mosque.yaml) | 9.6 / 9.1 / 8.4 / 9.3 / 8.3 | Different modern scale. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Monumental Mamluk and later architecture. |
+| Uniqueness | 9.1 | Distinct contrasting paired complexes. |
+| Significance | 9.3 | Major medieval and royal heritage. |
+| Experience | 8.9 | Combined interpreted visit. |
+| Depth | 8.8 | Two substantial buildings. |
+
+- Applicable categories: architecture:9.4, history:9.3, culture:9.2.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: Above 90 for exceptional paired architecture and historic value; below the largest ancient Egyptian complexes in depth.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-al-muizz-street — Al-Muizz Street and Ticketed Heritage Monuments — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/al-muizz-street.yaml)
+- Action: new
+- Precise subject and limitations: Street and combined heritage ticket monuments including Qalawun; exclude separate Khan el-Khalili bazaar, Al-Azhar Mosque and other separately scored sites. Qalawun point represents corridor, not route start.
+- Location check: 30.049528, 31.260972; [published representative point](https://en.wikipedia.org/wiki/Qalawun_complex), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/archaeological-sites/al-muizz-street/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/historic-cairo](../../../countries/EG/sights/historic-cairo.yaml) | 9.4 / 9.4 / 9.6 / 8.9 / 9.5 | Parent aggregate, not single walking corridor. |
+| [EG/khan-el-khalili](../../../countries/EG/sights/khan-el-khalili.yaml) | 8.7 / 8.5 / 8.6 / 8.9 / 8.5 | Separate market scope. |
+| [SA/historic-jeddah](../../../countries/SA/sights/historic-jeddah.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.7 | Different historic urban fabric. |
+| [JO/as-salt-historic-core](../../../countries/JO/sights/as-salt-historic-core.yaml) | 8.7 / 9.1 / 9.1 / 8.7 / 8.4 | Different preserved town fabric. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Exceptional architectural streetscape. |
+| Uniqueness | 9.2 | Dense layered medieval monuments. |
+| Significance | 9.3 | Major Islamic urban heritage. |
+| Experience | 8.8 | Walking and ticketed interiors. |
+| Depth | 9.1 | Numerous distinct historic buildings. |
+
+- Applicable categories: architecture:9.4, history:9.4, culture:9.3, photography:9.2.
+- Computed worldwide overall: 91.20/100.
+- High-score challenge: Above 90 supported by documented multi-monument visitor scope and preserved architecture, below broader Historic Cairo aggregate.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-ibn-tulun-mosque — Mosque of Ibn Tulun — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/ibn-tulun-mosque.yaml)
+- Action: new
+- Precise subject and limitations: Historic mosque courtyard and permitted interiors; excludes neighboring Gayer-Anderson Museum. Minaret access not assumed.
+- Location check: 30.02889, 31.24944; [published representative point](https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/en/monuments/ahmad-ibn-tulun-mosque/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/al-azhar-mosque](../../../countries/EG/sights/al-azhar-mosque.yaml) | 8.8 / 8.9 / 9.3 / 8.7 / 8.6 | Different institutional history. |
+| [EG/muhammad-ali-mosque](../../../countries/EG/sights/muhammad-ali-mosque.yaml) | 9.0 / 8.7 / 8.9 / 8.7 / 8.1 | Later architectural tradition. |
+| [OM/sultan-qaboos-grand-mosque](../../../countries/OM/sights/sultan-qaboos-grand-mosque.yaml) | 8.9 / 8.5 / 8.2 / 8.8 / 8.1 | Different modern monumental design. |
+| [SA/quba-mosque](../../../countries/SA/sights/quba-mosque.yaml) | 8.1 / 8.6 / 9.2 / 8.6 / 8.0 | Different sacred historic associations. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Distinct monumental courtyard. |
+| Uniqueness | 9.2 | Rare surviving Tulunid architectural form. |
+| Significance | 9.4 | Major early Islamic architectural heritage. |
+| Experience | 8.7 | Focused religious and architectural visit. |
+| Depth | 8.1 | Single complex. |
+
+- Applicable categories: architecture:9.4, history:9.4, culture:9.2.
+- Computed worldwide overall: 89.95/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-gayer-anderson-museum — Gayer-Anderson Museum — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/gayer-anderson-museum.yaml)
+- Action: new
+- Precise subject and limitations: Two historic houses and museum collection, not neighboring mosque. Stair access and room openings vary.
+- Location check: 30.02838, 31.25073; [published representative point](https://mapcarta.com/N328965969), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/museums/gayer-anderson-museum/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/manial-palace-museum](../../../countries/EG/sights/manial-palace-museum.yaml) | 8.9 / 8.9 / 8.8 / 8.8 / 8.9 | Larger palace ensemble. |
+| [EG/museum-of-islamic-art-cairo](../../../countries/EG/sights/museum-of-islamic-art-cairo.yaml) | 8.8 / 9.1 / 9.3 / 9.0 / 9.1 | Broader collection. |
+| [OM/bait-al-zubair-museum](../../../countries/OM/sights/bait-al-zubair-museum.yaml) | 7.7 / 8.1 / 8.2 / 8.2 / 7.7 | Different domestic heritage. |
+| [AE/al-shindagha-museum](../../../countries/AE/sights/al-shindagha-museum.yaml) | 7.9 / 8.2 / 8.5 / 8.4 / 8.4 | Larger district museum. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Rich traditional interiors. |
+| Uniqueness | 8.8 | Distinct paired domestic houses. |
+| Significance | 8.7 | Important domestic material heritage. |
+| Experience | 8.7 | Interpreted house museum. |
+| Depth | 8.5 | Several rooms and collections. |
+
+- Applicable categories: architecture:9.1, culture:9.1, history:8.9.
+- Computed worldwide overall: 86.75/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-al-azhar-park — Al-Azhar Park — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/al-azhar-park.yaml)
+- Action: new
+- Precise subject and limitations: Landscaped public park and skyline views, not nearby historic monuments or restaurant admissions.
+- Location check: 30.04012, 31.26481; [published representative point](https://mapcarta.com/28173590), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://azharpark.com/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/historic-cairo](../../../countries/EG/sights/historic-cairo.yaml) | 9.4 / 9.4 / 9.6 / 8.9 / 9.5 | Different broader built heritage. |
+| [AE/dubai-miracle-garden](../../../countries/AE/sights/dubai-miracle-garden.yaml) | 8.8 / 8.6 / 6.9 / 8.7 / 8.2 | Different floral attraction. |
+| [AE/jubail-mangrove-park](../../../countries/AE/sights/jubail-mangrove-park.yaml) | 8.2 / 8.4 / 8.2 / 8.5 / 7.9 | Different coastal ecology. |
+| [JO/al-hussein-public-parks](../../../countries/JO/sights/al-hussein-public-parks.yaml) | 6.6 / 6.4 / 6.2 / 7.5 / 7.3 | Different public park scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Attractive garden and skyline. |
+| Uniqueness | 8.2 | Distinct urban regeneration setting. |
+| Significance | 7.7 | Regional civic and landscape significance. |
+| Experience | 8.7 | Public walking and recreation. |
+| Depth | 8.3 | Multiple landscaped areas. |
+
+- Applicable categories: photography:9.0, relaxation:9.0, family:8.8.
+- Computed worldwide overall: 83.05/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-baron-empain-palace — Baron Empain Palace — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/baron-empain-palace.yaml)
+- Action: new
+- Precise subject and limitations: Restored mansion and grounds, Heliopolis; current ministry ticket and hours listing https://egymonuments.gov.eg/ar/monuments/baron-empain-palace/ includes roof option. No guaranteed roof access.
+- Location check: 30.08666, 31.33025; [published representative point](https://mapcarta.com/W24886453), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/monuments/baron-empain-palace); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/manial-palace-museum](../../../countries/EG/sights/manial-palace-museum.yaml) | 8.9 / 8.9 / 8.8 / 8.8 / 8.9 | Broader palace and museum scope. |
+| [OM/jabrin-castle](../../../countries/OM/sights/jabrin-castle.yaml) | 8.6 / 8.5 / 8.7 / 8.6 / 8.2 | Different historic palace. |
+| [AE/museum-of-the-future](../../../countries/AE/sights/museum-of-the-future.yaml) | 8.9 / 9.3 / 7.2 / 8.6 / 7.6 | Different distinctive architecture. |
+| [SA/ithra-cultural-centre](../../../countries/SA/sights/ithra-cultural-centre.yaml) | 8.9 / 9.0 / 8.5 / 8.9 / 9.0 | Much broader cultural complex. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Distinct sculptural exterior. |
+| Uniqueness | 9.0 | Unusual Asian-inspired mansion in Cairo. |
+| Significance | 8.2 | Important Heliopolis urban heritage. |
+| Experience | 8.5 | Ticketed building visit. |
+| Depth | 7.8 | Compact palace and grounds. |
+
+- Applicable categories: architecture:9.3, photography:9.1, history:8.6.
+- Computed worldwide overall: 85.55/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-meidum-pyramid — Meidum Pyramid and Necropolis — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/meidum-pyramid.yaml)
+- Action: new
+- Precise subject and limitations: Independent pyramid field and permitted associated remains, not Giza, Saqqara or Dahshur. Interior opening subject to conditions.
+- Location check: 29.38837, 31.15713; [published representative point](https://mapcarta.com/13050852), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/monuments/the-pyramid-of-meidum/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/dahshur](../../../countries/EG/sights/dahshur.yaml) | 9.2 / 9.4 / 9.5 / 9.0 / 8.5 | More extensive pyramid field. |
+| [EG/saqqara](../../../countries/EG/sights/saqqara.yaml) | 9.5 / 9.6 / 9.8 / 9.2 / 9.5 | Much broader necropolis. |
+| [EG/giza-plateau](../../../countries/EG/sights/giza-plateau.yaml) | 9.9 / 9.9 / 10.0 / 9.6 / 9.5 | Globally exceptional monumental ensemble. |
+| [SA/hegra](../../../countries/SA/sights/hegra.yaml) | 9.3 / 9.3 / 9.2 / 8.9 / 8.7 | Different ancient funerary architecture. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Distinctive stepped ruin silhouette. |
+| Uniqueness | 8.9 | Important transitional pyramid form. |
+| Significance | 9.3 | Major Old Kingdom engineering history. |
+| Experience | 8.3 | Focused archaeological visit. |
+| Depth | 8.2 | Pyramid and associated remains. |
+
+- Applicable categories: history:9.4, architecture:9.2, photography:9.0.
+- Computed worldwide overall: 87.90/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-beni-hasan-tombs — Beni Hasan Rock-Cut Tombs — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/beni-hasan-tombs.yaml)
+- Action: new
+- Precise subject and limitations: Middle Kingdom painted tomb group, not nearby Speos Artemidos. Ministry identifies individual tombs; access varies.
+- Location check: 27.93134, 30.8753; [published representative point](https://mapcarta.com/N2710024050), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/archaeological-sites/beni-hasan/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/qubbet-el-hawa](../../../countries/EG/sights/qubbet-el-hawa.yaml) | 8.6 / 8.9 / 9.2 / 8.5 / 8.2 | Different provincial tomb group. |
+| [EG/deir-el-medina](../../../countries/EG/sights/deir-el-medina.yaml) | 8.7 / 9.3 / 9.4 / 8.8 / 8.8 | Different artisan heritage. |
+| [EG/valley-of-the-queens](../../../countries/EG/sights/valley-of-the-queens.yaml) | 9.1 / 9.3 / 9.4 / 8.9 / 8.7 | More monumental royal funerary context. |
+| [JO/petra-royal-tombs](../../../countries/JO/sights/petra-royal-tombs.yaml) | 9.0 / 9.1 / 9.0 / 8.8 / 8.2 | Different rock-cut funerary architecture. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Painted chambers and Nile views. |
+| Uniqueness | 9.1 | Rare provincial Middle Kingdom paintings. |
+| Significance | 9.3 | Major social and historical record. |
+| Experience | 8.6 | Focused tomb visits. |
+| Depth | 8.5 | Several decorated tombs. |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:9.0.
+- Computed worldwide overall: 88.25/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-tell-el-amarna — Tell el-Amarna Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/tell-el-amarna.yaml)
+- Action: new
+- Precise subject and limitations: Permitted visitor zones of Akhetaten, tombs and visitor interpretation; Getty broad settlement reference, not ticket office. Cambridge visitor center confirms site interpretation https://www.arch.cam.ac.uk/research/projects/current-projects/amarna-egyptian-archaeological-heritage/amarna-visitor-centre.
+- Location check: 27.6599, 30.9066; [published representative point](https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=&place=&subjectid=7001195), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.amarnaproject.com/visiting-amarna/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/elephantine-archaeological-site](../../../countries/EG/sights/elephantine-archaeological-site.yaml) | 8.5 / 8.9 / 9.2 / 8.5 / 8.7 | Different long-lived settlement. |
+| [EG/memphis](../../../countries/EG/sights/memphis.yaml) | 8.1 / 8.7 / 9.4 / 8.0 / 7.8 | Different ancient capital remains. |
+| [EG/saqqara](../../../countries/EG/sights/saqqara.yaml) | 9.5 / 9.6 / 9.8 / 9.2 / 9.5 | More monumental preserved remains. |
+| [JO/jerash-archaeological-city](../../../countries/JO/sights/jerash-archaeological-city.yaml) | 9.5 / 9.3 / 9.5 / 9.4 / 9.3 | More coherent standing city fabric. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Fragmentary but extensive remains. |
+| Uniqueness | 9.3 | Rare short-lived ancient capital. |
+| Significance | 9.4 | Exceptional historical religious transition evidence. |
+| Experience | 8.4 | Distributed visitor sites. |
+| Depth | 8.8 | Multiple monuments and interpretation. |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:8.7.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-tuna-el-gebel — Tuna el-Gebel Necropolis — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/tuna-el-gebel.yaml)
+- Action: new
+- Precise subject and limitations: Permitted necropolis monuments including Petosiris tomb where open. Tomb coordinate chosen over discrepant regional GeoNames point; research https://tuna-el-gebel.com/en/site.html describes scope. Underground galleries not guaranteed.
+- Location check: 27.73651, 30.70425; [published representative point](https://mapcarta.com/W1164198800), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.com/details/Tunael-Gebel); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/catacombs-kom-el-shoqafa](../../../countries/EG/sights/catacombs-kom-el-shoqafa.yaml) | 8.7 / 9.1 / 9.0 / 8.5 / 8.1 | Different urban funerary ensemble. |
+| [EG/qubbet-el-hawa](../../../countries/EG/sights/qubbet-el-hawa.yaml) | 8.6 / 8.9 / 9.2 / 8.5 / 8.2 | Different period and burial tradition. |
+| [EG/deir-el-medina](../../../countries/EG/sights/deir-el-medina.yaml) | 8.7 / 9.3 / 9.4 / 8.8 / 8.8 | Different community and funerary context. |
+| [SA/hegra](../../../countries/SA/sights/hegra.yaml) | 9.3 / 9.3 / 9.2 / 8.9 / 8.7 | More monumental rock-cut facades. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Decorated funerary architecture. |
+| Uniqueness | 9.0 | Distinct Egyptian and Greek artistic interaction. |
+| Significance | 9.2 | Important multi-period funerary evidence. |
+| Experience | 8.4 | Ticketed archaeological visit. |
+| Depth | 8.5 | Several monuments and burial areas. |
+
+- Applicable categories: history:9.4, culture:9.1, architecture:8.9.
+- Computed worldwide overall: 87.20/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

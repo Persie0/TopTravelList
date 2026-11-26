@@ -613,3 +613,18 @@ Eight additions and 32 peer comparisons. Egypt 59 ranked / 59 total. Six Nubian 
 - [x] EG — Black Desert (Bahariya): 85.10/100 (source-linked-unverified).
 
 Nine additions and 36 peer comparisons. Egypt 68 ranked / 68 total. Government booking inventory confirms Nabq, Abu Galum and Wadi El Gemal visitor scope. Ras Shitan deferred as predominantly separate camp and private beach experiences (https://www.sinai.online/en/places/ras-sinai-camp-ayash-beach), no quota-driven additions. Colored Canyon true site distinguished from similarly marketed Salama Canyon, verify access. Great Sand Sea limited to permitted Siwa dune excursions. Sataya and Abu Dabbab score habitats and authorized experiences without wildlife encounter promises. Next screen major Cairo and regional archaeology: Sultan Hassan and al-Rifa'i, Al-Muizz Street, Gayer-Anderson Museum, Al-Azhar Park, Baron Empain Palace, Meidum, Beni Hasan, Tell el-Amarna and Tuna el-Gebel; Islamic Cemetery respectful public visitor scope unresolved. Full Python validation and individual peer YAML checks pending.
+
+### Pass 57 — Egypt Cairo and Middle Egypt heritage
+
+- [x] EG — Sultan Hassan and Al-Rifa'i Mosques: 91.40/100 (source-linked-unverified).
+- [x] EG — Al-Muizz Street and Ticketed Heritage Monuments: 91.20/100 (source-linked-unverified).
+- [x] EG — Mosque of Ibn Tulun: 89.95/100 (source-linked-unverified).
+- [x] EG — Gayer-Anderson Museum: 86.75/100 (source-linked-unverified).
+- [x] EG — Al-Azhar Park: 83.05/100 (source-linked-unverified).
+- [x] EG — Baron Empain Palace: 85.55/100 (source-linked-unverified).
+- [x] EG — Meidum Pyramid and Necropolis: 87.90/100 (source-linked-unverified).
+- [x] EG — Beni Hasan Rock-Cut Tombs: 88.25/100 (source-linked-unverified).
+- [x] EG — Tell el-Amarna Archaeological Site: 88.35/100 (source-linked-unverified).
+- [x] EG — Tuna el-Gebel Necropolis: 87.20/100 (source-linked-unverified).
+
+Ten additions, 40 peer comparisons. Egypt 78 ranked / 78 total. Combined mosque admission and Al-Muizz monument scope confirmed; adjacent museum separate. Tuna el-Gebel tomb point preferred to discrepant regional GeoNames marker; Amarna Getty settlement point not a ticket office. Next bounded screen: Alexandria Graeco-Roman Museum, Kom el-Dikka, Roman amphitheatre (same site), Pompey's Pillar/Serapeum, Montaza gardens, Abusir pyramid field, Shali fortress (check existing Siwa scope), Saint Catherine monastery and Mount Sinai (check parent). Screen final substantial remaining omissions without quota. Islamic Cemetery not yet assessed. Full Python validation and individual peer YAML checks pending.
