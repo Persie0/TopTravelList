@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14706; unassessed: 1563.
+Ranked: 14721; unassessed: 1548.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,15 +9,15 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 349 |
+| conflicting-declared-status | 364 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1563 |
+| incomplete-core | 1548 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1789 |
+| overall-90-plus | 1790 |
 | overall-95-plus | 159 |
-| repeated-core-profile | 46 |
+| repeated-core-profile | 48 |
 | shared-representative-gps | 242 |
 | small-scope-high-total | 26 |
 | type-score-distance-15-plus | 134 |
@@ -111,7 +111,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CG | cities | 12 | 12 | 68.00 | 0 | 0 | 0 | 12 | [Brazzaville](../../countries/CG/cities/brazzaville.yaml) 80.55; [Pointe-Noire](../../countries/CG/cities/pointe-noire.yaml) 74.80; [Mbé](../../countries/CG/cities/mbe.yaml) 73.10 |
 | CG | sights | 29 | 21 | 80.50 | 4 | 0 | 6 | 29 | [Odzala-Kokoua National Park (Forest Massif)](../../countries/CG/sights/odzala-kokoua-national-park-forest-massif.yaml) 94.15; [Nouabalé-Ndoki National Park (Sangha Trinational Congo component)](../../countries/CG/sights/nouabale-ndoki-national-park-sangha-trinational-congo-component.yaml) 93.35; [Ngaga Forest Gorilla Tracking (authorized routes)](../../countries/CG/sights/ngaga-forest-gorilla-tracking-authorized-routes.yaml) 90.60 |
 | CH | cities | 20 | 20 | 85.18 | 0 | 0 | 0 | 20 | [Bern](../../countries/CH/cities/bern.yaml) 89.50; [Lucerne](../../countries/CH/cities/lucerne.yaml) 88.20; [Basel](../../countries/CH/cities/basel.yaml) 87.75 |
-| CH | sights | 45 | 42 | 88.85 | 17 | 0 | 15 | 45 | [Swiss Alps Jungfrau-Aletsch](../../countries/CH/sights/jungfrau-aletsch.yaml) 94.90; [Matterhorn scenic mountain landscape (Swiss side)](../../countries/CH/sights/matterhorn.yaml) 93.30; [Rhaetian Railway Albula and Bernina landscapes (Swiss section)](../../countries/CH/sights/rhaetian-railway.yaml) 93.10 |
+| CH | sights | 45 | 43 | 88.65 | 17 | 0 | 15 | 45 | [Swiss Alps Jungfrau-Aletsch](../../countries/CH/sights/jungfrau-aletsch.yaml) 94.90; [Matterhorn scenic mountain landscape (Swiss side)](../../countries/CH/sights/matterhorn.yaml) 93.30; [Rhaetian Railway Albula and Bernina landscapes (Swiss section)](../../countries/CH/sights/rhaetian-railway.yaml) 93.10 |
 | CI | cities | 10 | 7 | 79.40 | 0 | 0 | 0 | 10 | [Grand-Bassam](../../countries/CI/cities/grand-bassam.yaml) 85.15; [Abidjan](../../countries/CI/cities/abidjan.yaml) 84.85; [Kong](../../countries/CI/cities/kong.yaml) 79.90 |
 | CI | sights | 20 | 12 | 85.68 | 1 | 0 | 2 | 20 | [Taï National Park](../../countries/CI/sights/tai-national-park.yaml) 93.45; [Comoé National Park](../../countries/CI/sights/comoe-national-park.yaml) 88.95; [Basilica of Our Lady of Peace](../../countries/CI/sights/basilica-our-lady-of-peace.yaml) 88.40 |
 | CK | cities | 4 | 4 | 77.48 | 0 | 0 | 0 | 4 | [Avarua (Rarotonga)](../../countries/CK/cities/avarua.yaml) 80.95; [Arutanga (Aitutaki)](../../countries/CK/cities/arutanga.yaml) 78.05; [Ngatangiia and Muri village](../../countries/CK/cities/ngatangiia-muri.yaml) 76.90 |
@@ -139,7 +139,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CZ | cities | 61 | 61 | 79.40 | 1 | 0 | 1 | 61 | [Prague](../../countries/CZ/cities/prague.yaml) 94.35; [Cesky Krumlov](../../countries/CZ/cities/cesky-krumlov.yaml) 89.60; [Kutna Hora](../../countries/CZ/cities/kutna-hora.yaml) 87.20 |
 | CZ | sights | 145 | 145 | 86.05 | 11 | 0 | 6 | 145 | [Prague Castle](../../countries/CZ/sights/prague-castle.yaml) 94.55; [Prague Historic Centre](../../countries/CZ/sights/prague-historic-centre.yaml) 94.25; [St Vitus Cathedral](../../countries/CZ/sights/st-vitus-cathedral.yaml) 92.85 |
 | DE | cities | 30 | 30 | 87.90 | 3 | 0 | 3 | 30 | [Berlin](../../countries/DE/cities/berlin.yaml) 93.00; [Dresden](../../countries/DE/cities/dresden.yaml) 91.05; [Hamburg](../../countries/DE/cities/hamburg.yaml) 90.05 |
-| DE | sights | 97 | 86 | 89.75 | 36 | 0 | 40 | 97 | [Museum Island Berlin](../../countries/DE/sights/museum-island.yaml) 93.70; [Palaces of King Ludwig II of Bavaria](../../countries/DE/sights/ludwig-palaces.yaml) 93.50; [Palaces and Parks of Potsdam and Berlin](../../countries/DE/sights/potsdam-palaces.yaml) 93.25 |
+| DE | sights | 97 | 89 | 89.60 | 36 | 0 | 40 | 97 | [Museum Island Berlin](../../countries/DE/sights/museum-island.yaml) 93.70; [Palaces of King Ludwig II of Bavaria](../../countries/DE/sights/ludwig-palaces.yaml) 93.50; [Palaces and Parks of Potsdam and Berlin](../../countries/DE/sights/potsdam-palaces.yaml) 93.25 |
 | DJ | cities | 10 | 10 | 68.38 | 0 | 0 | 0 | 10 | [Djibouti City](../../countries/DJ/cities/djibouti-city.yaml) 77.60; [Tadjourah](../../countries/DJ/cities/tadjourah.yaml) 77.00; [Obock](../../countries/DJ/cities/obock.yaml) 72.15 |
 | DJ | sights | 25 | 21 | 79.80 | 2 | 0 | 2 | 25 | [Lake Abbe (Djiboutian shore)](../../countries/DJ/sights/lake-abbe-djiboutian-shore.yaml) 90.65; [Lake Assal](../../countries/DJ/sights/lake-assal.yaml) 90.15; [Abourma Rock Art](../../countries/DJ/sights/abourma-rock-art.yaml) 86.10 |
 | DK | cities | 18 | 18 | 81.88 | 1 | 0 | 1 | 18 | [Copenhagen](../../countries/DK/cities/copenhagen.yaml) 92.15; [Aarhus](../../countries/DK/cities/aarhus.yaml) 86.40; [Ribe](../../countries/DK/cities/ribe.yaml) 86.05 |
@@ -383,7 +383,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PK | cities | 14 | 13 | 76.75 | 1 | 0 | 0 | 14 | [Lahore](../../countries/PK/cities/lahore.yaml) 90.15; [Multan](../../countries/PK/cities/multan.yaml) 83.50; [Karimabad](../../countries/PK/cities/karimabad.yaml) 82.00 |
 | PK | sights | 58 | 36 | 84.80 | 3 | 0 | 0 | 58 | [Central Karakoram National Park](../../countries/PK/sights/central-karakoram.yaml) 92.20; [K2 Base Camp and Baltoro Trek](../../countries/PK/sights/k2-base-camp.yaml) 92.10; [Fort and Shalamar Gardens in Lahore](../../countries/PK/sights/lahore-fort-and-shalamar.yaml) 90.70 |
 | PL | cities | 22 | 22 | 84.00 | 3 | 0 | 1 | 22 | [Kraków](../../countries/PL/cities/krakow.yaml) 92.65; [Gdańsk](../../countries/PL/cities/gdansk.yaml) 91.50; [Warsaw](../../countries/PL/cities/warsaw.yaml) 90.95 |
-| PL | sights | 76 | 59 | 88.50 | 15 | 1 | 10 | 76 | [Auschwitz-Birkenau Memorial and Museum](../../countries/PL/sights/auschwitz-birkenau.yaml) 95.75; [Historic Centre of Kraków](../../countries/PL/sights/krakow-historic-centre.yaml) 93.60; [Castle of the Teutonic Order in Malbork](../../countries/PL/sights/malbork-castle.yaml) 93.40 |
+| PL | sights | 76 | 70 | 88.18 | 16 | 1 | 10 | 76 | [Auschwitz-Birkenau Memorial and Museum](../../countries/PL/sights/auschwitz-birkenau.yaml) 95.75; [Historic Centre of Kraków](../../countries/PL/sights/krakow-historic-centre.yaml) 93.60; [Castle of the Teutonic Order in Malbork](../../countries/PL/sights/malbork-castle.yaml) 93.40 |
 | PM | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Saint-Pierre (Saint Pierre and Miquelon)](../../countries/PM/cities/saint-pierre.yaml) 84.10; [Miquelon village](../../countries/PM/cities/miquelon.yaml) 78.85 |
 | PM | sights | 14 | 14 | 82.50 | 0 | 0 | 0 | 14 | [Grand Barachois lagoon and Miquelon–Langlade isthmus](../../countries/PM/sights/grand-barachois.yaml) 88.90; [Île aux Marins fishing heritage and Archipélitude Museum](../../countries/PM/sights/ile-aux-marins.yaml) 88.10; [Grand Colombier seabird observation (permitted offshore tours)](../../countries/PM/sights/grand-colombier.yaml) 84.85 |
 | PN | cities | 1 | 1 | 81.55 | 0 | 0 | 0 | 1 | [Adamstown](../../countries/PN/cities/adamstown.yaml) 81.55 |
