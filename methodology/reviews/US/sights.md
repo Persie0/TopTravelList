@@ -2531,3 +2531,353 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Final decision: provisional worldwide editorial rating, independent of national park designation.
 - Earlier decision: none.
 - Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+### sight-us-glen-canyon-national-recreation-area — Glen Canyon National Recreation Area — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml)
+- Action: new
+- Precise subject and factual basis: Lake Powell boating and canyon scenery; score the recreation area excluding the separate Horseshoe Bend overlook's standalone merits. Representative aerial landscape point. [Visitor information](https://home.nps.gov/glca/planyourvisit/things2do.htm), checked 2026-11-26.
+- Location check: 37.51841, -110.77183; [published representative point](https://www.nps.gov/articles/parks-in-space.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater natural canyon scale and geologic exposure |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | More exceptional desert towers and cultural context |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | More concentrated river-gorge scenery |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Stronger lush canyon contrast, less lake-oriented recreation |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Colorful flooded canyons |
+| uniqueness | 8.7 | Reservoir and sandstone combination has analogues |
+| significance | 8.3 | Colorado Plateau geology, but reservoir is artificial |
+| experience | 8.8 | Boating and land visits offer complementary experiences |
+| depth | 9.0 | Extensive waterways and varied districts |
+
+- Applicable categories: nature:9.1, photography:9.2, adventure:9.0.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-horseshoe-bend — Horseshoe Bend — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/horseshoe-bend.yaml)
+- Action: new
+- Precise subject and factual basis: Short walk to a panoramic Colorado River meander; distinct viewpoint within Glen Canyon, not the whole recreation area. Coordinate is mapped viewpoint. [Visitor information](https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm), checked 2026-11-26.
+- Location check: 36.88088, -111.51086; [published representative point](https://mapcarta.com/N8495480313); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Broader canyon and geology; not comparable in depth |
+| [IS/kirkjufell](../../../countries/IS/sights/kirkjufell.yaml) | Similarly concentrated iconic photo composition |
+| [IS/studlagil](../../../countries/IS/sights/studlagil.yaml) | More intimate basalt canyon exploration |
+| [FR/etretat](../../../countries/FR/sights/etretat.yaml) | More varied coastal walks and viewpoints |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Powerful coherent river panorama |
+| uniqueness | 8.7 | Distinctive near-loop but other meanders exist |
+| significance | 7.8 | Erosional landform rather than globally defining scientific property |
+| experience | 8.6 | Rewarding walk and view |
+| depth | 7.6 | Single viewpoint with limited further exploration |
+
+- Applicable categories: nature:8.9, photography:9.3.
+- Computed worldwide overall: 85.15/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-badlands-national-park — Badlands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/badlands-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Eroded spires and gullies amid prairie, with scenic driving and hiking (https://www.nps.gov/badl/planyourvisit/hiking-in-badlands.htm). Representative aerial point. [Visitor information](https://www.nps.gov/badl/planyourvisit/scenic-driving.htm), checked 2026-11-26.
+- Location check: 43.68585, -102.48294; [published representative point](https://www.nps.gov/articles/parks-in-space.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | More concentrated and dramatic hoodoos |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | More globally distinctive sandstone relief |
+| [EG/wadi-al-hitan](../../../countries/EG/sights/wadi-al-hitan.yaml) | Stronger fossil heritage significance |
+| [CN/flaming-mountains](../../../countries/CN/sights/flaming-mountains.yaml) | Comparable dry sculpted terrain but different formations |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Striking eroded relief |
+| uniqueness | 8.6 | Unusual prairie and badland combination but analogues exist |
+| significance | 8.6 | Geological landscape of scientific interest |
+| experience | 8.6 | Scenic driving and foot exploration |
+| depth | 8.5 | Varied formations and prairie |
+
+- Applicable categories: nature:8.9, photography:9.0, adventure:8.4.
+- Computed worldwide overall: 85.90/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-joshua-tree-national-park — Joshua Tree National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/joshua-tree-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Mojave and Colorado desert ecosystems with granitic formations and oases (https://www.nps.gov/articles/nps-geodiversity-atlas-joshua-tree-national-park-california.htm); published park GPS. [Visitor information](https://www.nps.gov/jotr/planyourvisit/park-map-and-brochure.htm), checked 2026-11-26.
+- Location check: 33.914185, -115.839812; [published representative point](https://www.recreation.gov/camping/gateways/2782); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | More extreme desert scale and landforms |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | More monumental rock architecture |
+| [NA/sossusvlei](../../../countries/NA/sights/sossusvlei.yaml) | More exceptional dune landscape |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | Different but similarly distinctive desert geology |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Sculptural boulders and desert vegetation |
+| uniqueness | 8.8 | Distinctive Joshua-tree and granite landscape |
+| significance | 8.5 | Desert transition and geology |
+| experience | 8.8 | Desert exploration and climbing opportunities |
+| depth | 8.6 | Multiple desert environments and routes |
+
+- Applicable categories: nature:8.9, photography:9.0, adventure:8.8.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-rocky-mountain-national-park — Rocky Mountain National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/rocky-mountain-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Alpine tundra, mountain hiking, scenic driving and wildlife viewing; published park GPS. [Visitor information](https://www.nps.gov/romo/planyourvisit/things2do.htm), checked 2026-11-26.
+- Location check: 40.355692, -105.697288; [published representative point](https://www.recreation.gov/gateways/2907); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More concentrated high-alpine glacial relief |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | More recognizable mountain skyline |
+| [AR/mount-fitz-roy-laguna-de-los-tres-routes](../../../countries/AR/sights/mount-fitz-roy-laguna-de-los-tres-routes.yaml) | More distinctive granite skyline but narrower scope |
+| [CN/mount-huangshan](../../../countries/CN/sights/mount-huangshan.yaml) | More globally distinct peak shapes and cultural association |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Large alpine scenery |
+| uniqueness | 8.5 | Many global alpine analogues |
+| significance | 8.7 | Important Rocky Mountain ecosystems |
+| experience | 9.1 | Roads and hikes provide varied encounters |
+| depth | 9.0 | Lakes, forests and tundra support extended exploration |
+
+- Applicable categories: nature:9.2, photography:9.2, adventure:9.1, wildlife:8.8.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-north-cascades-national-park — North Cascades National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/north-cascades-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Jagged glaciated peaks, hiking and backcountry climbing; score the named national park, not the adjacent Ross Lake or Lake Chelan recreation areas. Published representative GPS. [Visitor information](https://www.nps.gov/noca/planyourvisit/hiking.htm), checked 2026-11-26.
+- Location check: 48.711718, -121.206942; [published representative point](https://www.recreation.gov/gateways/2845); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More iconic central peaks and glacial access |
+| [IS/vatnajokull](../../../countries/IS/sights/vatnajokull.yaml) | More extensive ice and volcanic features |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | Broader accessible scenic-road experience |
+| [AR/mount-fitz-roy-laguna-de-los-tres-routes](../../../countries/AR/sights/mount-fitz-roy-laguna-de-los-tres-routes.yaml) | Stronger signature skyline, narrower hiking scope |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Dramatic glaciated mountain relief |
+| uniqueness | 8.6 | Comparable to other alpine wilderness areas |
+| significance | 8.8 | Substantial glacier and mountain ecology |
+| experience | 8.3 | Remote terrain limits casual encounters |
+| depth | 9.0 | Extensive wilderness hiking and climbing |
+
+- Applicable categories: nature:9.2, photography:9.1, adventure:9.2.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-haleakala-national-park — Haleakalā National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/haleakala-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Summit volcanic landscape and Kīpahulu coastal district (https://www.nps.gov/hale/planyourvisit/basicinfo.htm); published park GPS. [Visitor information](https://www.nps.gov/hale/planyourvisit/hiking.htm), checked 2026-11-26.
+- Location check: 20.70693, -156.159177; [published representative point](https://www.recreation.gov/gateways/2751); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | More globally exceptional active volcanic processes |
+| [IS/vatnajokull](../../../countries/IS/sights/vatnajokull.yaml) | Larger glacier-volcano landscape |
+| [CN/changbai-mountain](../../../countries/CN/sights/changbai-mountain.yaml) | Different volcanic summit and lake context |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More alpine ice relief; no tropical coastal contrast |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Volcanic summit relief and coastal contrast |
+| uniqueness | 9.0 | Distinctive tropical high-altitude setting |
+| significance | 8.9 | Volcanic and ecological interest |
+| experience | 8.8 | Summit and coastal hikes complement each other |
+| depth | 8.9 | Two contrasting districts provide depth |
+
+- Applicable categories: nature:9.3, photography:9.2, adventure:8.9.
+- Computed worldwide overall: 89.70/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-great-sand-dunes-national-park — Great Sand Dunes National Park and Preserve — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/great-sand-dunes-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Large dunefield below mountains, dune hiking and sandboarding, with forest and alpine trails; GPS is High Dune on First Ridge, a representative internal feature. [Visitor information](https://www.nps.gov/grsa/planyourvisit/hiking.htm), checked 2026-11-26.
+- Location check: 37.74908, -105.532775; [published representative point](https://www.nps.gov/grsa/planyourvisit/hiking.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NA/sossusvlei](../../../countries/NA/sights/sossusvlei.yaml) | More monumental and iconic dune forms |
+| [FR/dune-pilat](../../../countries/FR/sights/dune-pilat.yaml) | More concentrated coastal dune visitor experience |
+| [US/white-sands](../../../countries/US/sights/white-sands.yaml) | More distinctive white gypsum substrate |
+| [CN/mingsha-sand-dunes](../../../countries/CN/sights/mingsha-sand-dunes.yaml) | Comparable dune activity with different cultural context |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Dune and alpine backdrop contrast |
+| uniqueness | 8.8 | Unusual high-elevation dune setting |
+| significance | 8.5 | Geomorphology and habitat diversity |
+| experience | 8.8 | Hands-on dune exploration and hiking |
+| depth | 8.7 | Dunefield and surrounding ecosystems add breadth |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:9.0.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-wind-cave-national-park — Wind Cave National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/wind-cave-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Guided cave trips, distinctive cave formations and above-ground prairie trails (https://www.nps.gov/wica/planyourvisit/hours.htm); aerial reference GPS. [Visitor information](https://www.nps.gov/wica/planyourvisit/guidedtours.htm), checked 2026-11-26.
+- Location check: 43.58012, -103.43947; [published representative point](https://www.nps.gov/articles/parks-in-space.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/mammoth-cave](../../../countries/US/sights/mammoth-cave.yaml) | Greater passage system and historical breadth |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | More dramatic chamber-scale impact |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | More specialized luminous experience |
+| [CN/zhijin-cave](../../../countries/CN/sights/zhijin-cave.yaml) | More monumental show-cave formations |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.3 | Interesting underground forms and prairie |
+| uniqueness | 8.8 | Distinctive cave formations |
+| significance | 8.7 | Geological and prairie conservation interest |
+| experience | 8.3 | Guided cave experience plus surface walks |
+| depth | 8.5 | Cave and surface landscapes offer complementary depth |
+
+- Applicable categories: nature:8.8, adventure:8.4, wildlife:8.4.
+- Computed worldwide overall: 85.25/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-mount-rushmore-national-memorial — Mount Rushmore National Memorial — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/mount-rushmore-national-memorial.yaml)
+- Action: new
+- Precise subject and factual basis: Monumental presidential portraits, walking trail and interpretation; assess the memorial itself rather than all Black Hills or its popularity. Historical interpretation should include contested Indigenous land and commemoration context; this context requires further corroboration. [Visitor information](https://www.nps.gov/moru/planyourvisit/things2do.htm), checked 2026-11-26.
+- Location check: 43.88037, -103.45252; [published representative point](https://www.nps.gov/articles/parks-in-space.htm); not an entrance coordinate.
+- Evidence status: **source-linked-unverified**; official materials/search excerpts and published GPS references inspected, independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CN/dazu-rock-carvings](../../../countries/CN/sights/dazu-rock-carvings.yaml) | More extensive religious sculpture ensemble |
+| [EG/giza-plateau](../../../countries/EG/sights/giza-plateau.yaml) | Far greater antiquity and global significance |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | Comparable national symbolism and international recognition |
+| [NA/brandberg](../../../countries/NA/sights/brandberg.yaml) | Different rock-art landscape with greater natural breadth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Large carved portraits are memorable |
+| uniqueness | 8.9 | Distinctive monumental portrait ensemble |
+| significance | 8.8 | National commemoration with international recognition and contested context |
+| experience | 8.2 | Walking loop and interpretation |
+| depth | 7.8 | Limited single-site depth relative to major heritage ensembles |
+
+- Applicable categories: history:8.9, photography:8.8, culture:8.7.
+- Computed worldwide overall: 85.75/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional editorial V2 rating. Earlier decision: none.
+- Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.

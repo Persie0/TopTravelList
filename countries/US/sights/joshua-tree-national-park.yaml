@@ -1,0 +1,16 @@
+id: sight-us-joshua-tree-national-park
+name: "Joshua Tree National Park"
+location:
+  country_code: US
+  latitude: 33.914185
+  longitude: -115.839812
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.8

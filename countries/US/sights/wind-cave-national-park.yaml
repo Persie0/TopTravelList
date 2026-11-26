@@ -1,0 +1,16 @@
+id: sight-us-wind-cave-national-park
+name: "Wind Cave National Park"
+location:
+  country_code: US
+  latitude: 43.58012
+  longitude: -103.43947
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.3
+  depth: 8.5
+  categories:
+    nature: 8.8
+    adventure: 8.4
+    wildlife: 8.4

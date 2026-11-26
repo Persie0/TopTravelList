@@ -17,10 +17,21 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] US — Acadia National Park: 84.30/100 (source-linked, full verification pending)
 - [x] US — Capitol Reef National Park: 86.70/100 (source-linked, full verification pending)
 
+- [x] US — Glen Canyon National Recreation Area: 87.25/100 (source-linked, full verification pending)
+- [x] US — Horseshoe Bend: 85.15/100 (source-linked, full verification pending)
+- [x] US — Badlands National Park: 85.90/100 (source-linked, full verification pending)
+- [x] US — Joshua Tree National Park: 86.90/100 (source-linked, full verification pending)
+- [x] US — Rocky Mountain National Park: 88.60/100 (source-linked, full verification pending)
+- [x] US — North Cascades National Park: 87.55/100 (source-linked, full verification pending)
+- [x] US — Haleakalā National Park: 89.70/100 (source-linked, full verification pending)
+- [x] US — Great Sand Dunes National Park and Preserve: 87.60/100 (source-linked, full verification pending)
+- [x] US — Wind Cave National Park: 85.25/100 (source-linked, full verification pending)
+- [x] US — Mount Rushmore National Memorial: 85.75/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
-- [ ] US: Badlands; Black Canyon of the Gunnison; Channel Islands; Dry Tortugas; Great Basin; Great Sand Dunes; Haleakalā; Joshua Tree; Kings Canyon; Lassen Volcanic; North Cascades; Rocky Mountain; Saguaro; Monument Valley; Upper Antelope Canyon; Nā Pali Coast; Waimea Canyon; Big Sur; Glen Canyon National Recreation Area (Lake Powell visitor scope); Horseshoe Bend (distinct viewpoint, inside Glen Canyon; assess independently). [NPS Horseshoe Bend](https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm) and [NPS Glen Canyon statistics](https://www.nps.gov/glca/learn/management/statistics.htm), excerpts checked 2026-11-26. Both filenames absent in current branch.
-- [ ] US further park review: Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs; Wind Cave. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
+- [ ] US: Black Canyon of the Gunnison; Channel Islands; Dry Tortugas; Great Basin; Kings Canyon; Lassen Volcanic; Saguaro; Monument Valley; Upper Antelope Canyon; Nā Pali Coast; Waimea Canyon; Big Sur.
+- [ ] US further park review: Jewel Cave National Monument ([NPS aerial inventory and coordinate](https://www.nps.gov/articles/parks-in-space.htm), absent from current US ranking); Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
 - [ ] CA: Auyuittuq; Bruce Peninsula; Cape Breton Highlands; Fundy; Mingan Archipelago; Pacific Rim; Sable Island; Thousand Islands; Torngat Mountains; Wapusk; Hopewell Rocks; Churchill wildlife experiences; Bay of Fundy visitor coastline.
 - [ ] CA further park review: Akami-Uapishk–KakKasuak–Mealy Mountains; Aulavik; Elk Island; Forillon; Georgian Bay Islands; Glacier; Grasslands; Gulf Islands; Kejimkujik; Kouchibouguac; La Mauricie; Mount Revelstoke; Nááts'įhch'oh; Point Pelee; Prince Albert; Prince Edward Island; Pukaskwa; Qausuittuq; Riding Mountain; Terra Nova; Thaidene Nëné; Tuktut Nogait; Ukkusiksalik. [Parks Canada](https://www.parks.canada.ca/pn-np).
 - [ ] AU: Karijini, Wilsons Promontory, Freycinet/Wineglass Bay, Flinders Chase, Kalbarri, Grampians/Gariwerd, Whitehaven Beach, Whitsundays, Phillip Island Penguin Parade, kunanyi, Rottnest, Cable Beach, Blue Lake Mount Gambier.
@@ -28,21 +39,23 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [ ] AS: National Park of American Samoa (Ofu and Mount Alava components already exist).
 - [ ] ZA: Tsitsikamma/Storms River Mouth trails, Hermanus, Chapman's Peak Drive, Knysna experiences, Sani Pass SA side.
 - [ ] TZ: Nungwi, Paje, Mnemba. MG: Île Sainte-Marie, Nosy Be.
-- [ ] CH: Creux du Van; ES: Caminito del Rey; SE: Kungsleden, High Coast Trail; NO: Segla, Romsdalen, Rampestreken, Atlantic Ocean Road, Nigardsbreen; IS: Fjaðrárgljúfur (alias check), Vestmannaeyjar, Hvítserkur, Kerið; PT: Pico do Arieiro, Seven Hanging Valleys, 25 Fontes.
+- [ ] CH: Creux du Van; ES: Caminito del Rey; SE: Kungsleden, High Coast Trail; NO: Segla, Romsdalen, Rampestreken, Atlantic Ocean Road, Nigardsbreen; IS: Vestmannaeyjar, Hvítserkur, Kerið; PT: Pico do Arieiro, Seven Hanging Valleys, 25 Fontes.
 - [ ] MQ: Plage des Salines; KY: Stingray City dive site vs sandbar; AG: Stingray City; FJ: Yasawa/Mamanuca/Sabeto specific attractions; FO additional hiking landscapes; CK Te Manga; BS Andros specific attractions; LR Libassa; VG Anegada specific visitor sites; TO whale watching; NC Isle of Pines specific sights; YT lagoon experience.
 
 ## Outstanding cultural and urban coverage
 
 - [ ] All 20 source-supported candidates and wider country queues in [pass 3](missing-sights-audit-pass3-2026-11-26.md).
-- [ ] US: Alcatraz, Golden Gate Bridge, Mount Rushmore, Kennedy Space Center, Empire State Building, National Mall, Hoover Dam, Times Square, Space Needle, Las Vegas Strip, individual Disney/Universal parks, Niagara Falls US side.
+- [ ] US: Alcatraz, Golden Gate Bridge, Kennedy Space Center, Empire State Building, National Mall, Hoover Dam, Times Square, Space Needle, Las Vegas Strip, individual Disney/Universal parks, Niagara Falls US side.
 - [ ] CA: Capilano, Parliament Hill, Toronto Islands, Old Montreal, Notre-Dame Basilica.
 - [ ] EG: Cairo Citadel, Muhammad Ali Mosque, Al-Azhar, Dahab Blue Hole; MA: Jemaa el-Fnaa, Chefchaouen individual attractions; RO: Peleș Castle; RU: Catherine Palace, Saint Isaac's Cathedral; GB: White Cliffs of Dover, Buckingham Palace, Harry Potter Studio Tour; FR: Disneyland Paris, Les Baux castle; DE: Rakotzbrücke; IT: Blue Grotto; PT: Oceanário, National Tile Museum; PS: Church of Nativity; IL/PS: Western Wall (resolve geographic registry convention first).
 - [ ] PA: Casco Viejo exact scope; PR: Old San Juan vs fortifications; MP: Banzai Cliff; IR: Shahdad Kaluts vs Lut Desert; MS: Soufrière Hills visitor scope; PH: Banaue rice terraces alias/component scope.
 
 ## Already matched / not automatically a new sight
 
+IS Fjaðrárgljúfur is already ranked as `countries/IS/sights/fjadrargljufur.yaml` (confirmed pass 6).
+
 BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaiktiyo/golden-rock; PE Nazca/Nasca; SA Hegra, Edge of World and At-Turaif; UA Chornobyl and Kyiv parent; VA saint-peters; GF Salvation Islands and space centre; FO Mulafossur; IE Brú na Bóinne; RO churches-moldavia; PR three bio bays and Flamenco Beach; PF Tiputa Pass; AQ Deception Island components; AE named desert reserves; IN Varanasi city/ghats; BF Banfora components; CC Home Island components; CV Santo Antão trails; DO colonial city; FI Santa Claus Village; GL Eqi glacier; GN Îles de Los; IM Castletown components; JM Blue and John Crow Mountains; KM Ikoni; LS Sani Top; MH Arno; ML Bandiagara; NF Emily-Slaughter; PN Christian's Cave and Adamstown city; RS Belgrade Fortress; SH Ascension components; SJ Longyearbyen city; SK Tatras; SO Lido Beach; SX Fort Louis in MF, Philipsburg city; TF Austral Lands; UY Punta del Este components; FR Dune du Pilat; IT Lake Braies; PT Ponta da Piedade; GB Victoria and Albert; DE Miniatur Wunderland; EG NMEC; GR National Archaeological Museum.
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for eleven additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for twenty-one additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
