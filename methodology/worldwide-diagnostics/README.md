@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15231; unassessed: 1038.
+Ranked: 15241; unassessed: 1028.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 703 |
+| conflicting-declared-status | 711 |
 | evidence-review | 13662 |
-| field-9.5-plus | 2118 |
+| field-9.5-plus | 2120 |
 | historical-review-only | 2516 |
-| incomplete-core | 1038 |
+| incomplete-core | 1028 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1858 |
+| overall-90-plus | 1862 |
 | overall-95-plus | 164 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -207,7 +207,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | GS | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | GS | sights | 10 | 9 | 89.60 | 4 | 0 | 0 | 10 | [St Andrews Bay (authorized wildlife viewing)](../../countries/GS/sights/st-andrews-bay.yaml) 92.75; [Salisbury Plain (authorized wildlife viewing)](../../countries/GS/sights/salisbury-plain.yaml) 92.20; [Gold Harbour (authorized visitor sector)](../../countries/GS/sights/gold-harbour.yaml) 91.70 |
 | GT | cities | 12 | 12 | 79.32 | 1 | 0 | 0 | 12 | [Antigua Guatemala](../../countries/GT/cities/antigua-guatemala.yaml) 90.00; [Chichicastenango](../../countries/GT/cities/chichicastenango.yaml) 84.80; [San Juan La Laguna](../../countries/GT/cities/san-juan-la-laguna.yaml) 80.65 |
-| GT | sights | 37 | 33 | 83.40 | 4 | 0 | 2 | 37 | [Tikal National Park](../../countries/GT/sights/tikal-national-park.yaml) 94.95; [Cuenca Mirador](../../countries/GT/sights/cuenca-mirador.yaml) 93.75; [Lake Atitlán](../../countries/GT/sights/lake-atitlan.yaml) 90.45 |
+| GT | sights | 37 | 35 | 83.85 | 4 | 0 | 2 | 37 | [Tikal National Park](../../countries/GT/sights/tikal-national-park.yaml) 94.95; [Cuenca Mirador](../../countries/GT/sights/cuenca-mirador.yaml) 93.75; [Lake Atitlán](../../countries/GT/sights/lake-atitlan.yaml) 90.45 |
 | GU | cities | 5 | 5 | 78.25 | 0 | 0 | 0 | 5 | [Hagåtña](../../countries/GU/cities/hagatna.yaml) 82.10; [Inalåhan (Inarajan)](../../countries/GU/cities/inalahan.yaml) 79.75; [Humåtak (Umatac)](../../countries/GU/cities/humatak.yaml) 78.25 |
 | GU | sights | 12 | 11 | 82.75 | 0 | 0 | 0 | 12 | [Puntan Litekyan (Ritidian Point public refuge unit)](../../countries/GU/sights/ritidian-point.yaml) 87.70; [War in the Pacific National Historical Park (public heritage units)](../../countries/GU/sights/war-in-the-pacific.yaml) 87.10; [Valley of the Latte cultural river park](../../countries/GU/sights/valley-of-latte.yaml) 85.30 |
 | GW | cities | 13 | 13 | 71.70 | 0 | 0 | 0 | 13 | [Bolama](../../countries/GW/cities/bolama.yaml) 80.15; [Cacheu](../../countries/GW/cities/cacheu.yaml) 76.70; [Bissau](../../countries/GW/cities/bissau.yaml) 76.65 |
@@ -219,7 +219,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | HM | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | HM | sights | 1 | 0 |  | 0 | 0 | 0 | 1 |  |
 | HN | cities | 31 | 31 | 74.45 | 0 | 0 | 0 | 31 | [Comayagua](../../countries/HN/cities/comayagua.yaml) 83.15; [Tegucigalpa](../../countries/HN/cities/tegucigalpa.yaml) 79.70; [Trujillo](../../countries/HN/cities/trujillo.yaml) 78.20 |
-| HN | sights | 59 | 56 | 81.25 | 4 | 1 | 3 | 59 | [Maya Site of Copán](../../countries/HN/sights/maya-site-of-copan.yaml) 95.40; [Bay Islands National Marine Park](../../countries/HN/sights/bay-islands-national-marine-park.yaml) 92.35; [Cayos Cochinos Marine Natural Monument](../../countries/HN/sights/cayos-cochinos-marine-natural-monument.yaml) 90.75 |
+| HN | sights | 59 | 57 | 81.60 | 4 | 1 | 3 | 59 | [Maya Site of Copán](../../countries/HN/sights/maya-site-of-copan.yaml) 95.40; [Bay Islands National Marine Park](../../countries/HN/sights/bay-islands-national-marine-park.yaml) 92.35; [Cayos Cochinos Marine Natural Monument](../../countries/HN/sights/cayos-cochinos-marine-natural-monument.yaml) 90.75 |
 | HR | cities | 22 | 22 | 85.68 | 2 | 0 | 2 | 22 | [Dubrovnik](../../countries/HR/cities/dubrovnik.yaml) 92.70; [Split](../../countries/HR/cities/split.yaml) 91.85; [Trogir](../../countries/HR/cities/trogir.yaml) 88.50 |
 | HR | sights | 55 | 53 | 87.90 | 12 | 0 | 10 | 55 | [Plitvice Lakes National Park](../../countries/HR/sights/plitvice-lakes.yaml) 94.85; [Old City of Dubrovnik](../../countries/HR/sights/dubrovnik-old-city.yaml) 94.10; [Historical Complex of Split with Diocletian's Palace](../../countries/HR/sights/diocletian-palace.yaml) 94.05 |
 | HT | cities | 12 | 12 | 71.95 | 0 | 0 | 0 | 12 | [Jacmel](../../countries/HT/cities/jacmel.yaml) 84.50; [Cap-Haïtien](../../countries/HT/cities/cap-haitien.yaml) 83.25; [Port-au-Prince](../../countries/HT/cities/port-au-prince.yaml) 81.60 |
@@ -339,7 +339,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MW | cities | 18 | 18 | 72.58 | 0 | 0 | 0 | 18 | [Livingstonia](../../countries/MW/cities/livingstonia.yaml) 82.70; [Zomba](../../countries/MW/cities/zomba.yaml) 80.00; [Chembe (Cape Maclear village)](../../countries/MW/cities/chembe-cape-maclear-village.yaml) 78.45 |
 | MW | sights | 34 | 29 | 81.00 | 2 | 0 | 4 | 34 | [Lake Malawi National Park](../../countries/MW/sights/lake-malawi-national-park.yaml) 93.70; [Mount Mulanje Cultural Landscape](../../countries/MW/sights/mount-mulanje-cultural-landscape.yaml) 92.70; [Nyika National Park](../../countries/MW/sights/nyika-national-park.yaml) 89.60 |
 | MX | cities | 36 | 36 | 81.85 | 1 | 0 | 1 | 36 | [Mexico City](../../countries/MX/cities/mexico-city.yaml) 93.60; [Oaxaca de Juárez](../../countries/MX/cities/oaxaca.yaml) 89.50; [Guanajuato](../../countries/MX/cities/guanajuato.yaml) 88.65 |
-| MX | sights | 111 | 85 | 85.75 | 11 | 1 | 6 | 111 | [Teotihuacán](../../countries/MX/sights/teotihuacan.yaml) 95.95; [Archipiélago de Revillagigedo](../../countries/MX/sights/revillagigedo-archipelago.yaml) 94.90; [Chichén Itzá](../../countries/MX/sights/chichen-itza.yaml) 94.30 |
+| MX | sights | 111 | 88 | 85.80 | 13 | 1 | 8 | 111 | [Teotihuacán](../../countries/MX/sights/teotihuacan.yaml) 95.95; [Archipiélago de Revillagigedo](../../countries/MX/sights/revillagigedo-archipelago.yaml) 94.90; [Islands and Protected Areas of the Gulf of California](../../countries/MX/sights/gulf-of-california-protected-areas.yaml) 94.70 |
 | MY | cities | 65 | 65 | 70.25 | 1 | 0 | 1 | 65 | [George Town](../../countries/MY/cities/george-town.yaml) 91.75; [Melaka City](../../countries/MY/cities/melaka-city.yaml) 89.20; [Kuala Lumpur](../../countries/MY/cities/kuala-lumpur.yaml) 87.70 |
 | MY | sights | 213 | 213 | 81.50 | 15 | 1 | 14 | 213 | [Gunung Mulu National Park](../../countries/MY/sights/gunung-mulu-national-park.yaml) 96.65; [Kinabalu Park](../../countries/MY/sights/kinabalu-park.yaml) 94.05; [Sipadan Island Reefs](../../countries/MY/sights/sipadan-island-reefs.yaml) 93.85 |
 | MZ | cities | 7 | 7 | 78.80 | 0 | 0 | 0 | 7 | [Ilha de Moçambique](../../countries/MZ/cities/ilha-de-mocambique.yaml) 89.00; [Maputo](../../countries/MZ/cities/maputo.yaml) 82.50; [Inhambane](../../countries/MZ/cities/inhambane.yaml) 79.50 |
@@ -355,7 +355,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | NG | cities | 12 | 12 | 80.68 | 0 | 0 | 0 | 12 | [Lagos](../../countries/NG/cities/lagos.yaml) 86.20; [Kano](../../countries/NG/cities/kano.yaml) 84.95; [Benin City](../../countries/NG/cities/benin-city.yaml) 83.35 |
 | NG | sights | 25 | 15 | 85.20 | 2 | 0 | 3 | 25 | [Osun-Osogbo Sacred Grove](../../countries/NG/sights/osun-osogbo-sacred-grove.yaml) 91.75; [Gashaka Gumti National Park](../../countries/NG/sights/gashaka-gumti-national-park.yaml) 90.65; [Cross River National Park](../../countries/NG/sights/cross-river-national-park.yaml) 89.80 |
 | NI | cities | 13 | 13 | 74.00 | 0 | 0 | 0 | 13 | [Granada](../../countries/NI/cities/granada.yaml) 87.00; [León](../../countries/NI/cities/leon.yaml) 86.25; [El Castillo](../../countries/NI/cities/el-castillo.yaml) 78.80 |
-| NI | sights | 30 | 26 | 83.25 | 1 | 0 | 0 | 30 | [Ometepe Island](../../countries/NI/sights/ometepe-island.yaml) 91.85; [León Cathedral](../../countries/NI/sights/leon-cathedral.yaml) 88.75; [Masaya Volcano National Park](../../countries/NI/sights/masaya-volcano-national-park.yaml) 88.05 |
+| NI | sights | 30 | 28 | 83.45 | 2 | 0 | 0 | 30 | [Ometepe Island](../../countries/NI/sights/ometepe-island.yaml) 91.85; [City of Granada and its natural environment](../../countries/NI/sights/granada-natural-environment.yaml) 90.05; [Indio Maíz Biological Reserve](../../countries/NI/sights/indio-maiz-biological-reserve.yaml) 89.35 |
 | NL | cities | 20 | 20 | 84.72 | 1 | 0 | 1 | 20 | [Amsterdam](../../countries/NL/cities/amsterdam.yaml) 93.25; [Utrecht](../../countries/NL/cities/utrecht.yaml) 89.10; [Rotterdam](../../countries/NL/cities/rotterdam.yaml) 88.65 |
 | NL | sights | 51 | 51 | 86.55 | 8 | 1 | 8 | 51 | [Seventeenth-Century Canal Ring of Amsterdam](../../countries/NL/sights/amsterdam-canal-ring.yaml) 95.00; [Rijksmuseum](../../countries/NL/sights/rijksmuseum.yaml) 94.20; [Van Gogh Museum](../../countries/NL/sights/van-gogh-museum.yaml) 92.75 |
 | NO | cities | 19 | 19 | 82.40 | 1 | 0 | 0 | 19 | [Bergen](../../countries/NO/cities/bergen.yaml) 90.70; [Oslo](../../countries/NO/cities/oslo.yaml) 88.15; [Ålesund](../../countries/NO/cities/alesund.yaml) 87.45 |
@@ -371,7 +371,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | OM | cities | 24 | 24 | 75.80 | 0 | 0 | 0 | 24 | [Muscat](../../countries/OM/cities/muscat.yaml) 87.15; [Misfat al Abriyeen](../../countries/OM/cities/misfat-al-abriyeen.yaml) 84.45; [Nizwa](../../countries/OM/cities/nizwa.yaml) 84.30 |
 | OM | sights | 60 | 59 | 82.30 | 2 | 0 | 3 | 60 | [Musandam Fjords (Khor Ash Sham)](../../countries/OM/sights/musandam-fjords-khor-ash-sham.yaml) 91.60; [Jebel Shams and Wadi Ghul Canyon](../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) 91.05; [Daymaniyat Islands Nature Reserve](../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) 89.50 |
 | PA | cities | 22 | 22 | 73.80 | 0 | 0 | 0 | 22 | [Panama City](../../countries/PA/cities/panama-city.yaml) 88.20; [Portobelo](../../countries/PA/cities/portobelo.yaml) 81.10; [Bocas Town](../../countries/PA/cities/bocas-town.yaml) 78.75 |
-| PA | sights | 53 | 47 | 83.55 | 5 | 0 | 5 | 53 | [Coiba National Park and Special Zone of Marine Protection](../../countries/PA/sights/coiba-national-park-and-special-zone-of-marine-protection.yaml) 94.15; [Panama Canal (visitor transit and lock experience)](../../countries/PA/sights/panama-canal-visitor-transit-and-lock-experience.yaml) 93.70; [Colonial Transisthmian Route of Panamá (serial UNESCO property)](../../countries/PA/sights/colonial-transisthmian-route-of-panama-serial-unesco-property.yaml) 91.80 |
+| PA | sights | 53 | 48 | 83.92 | 6 | 0 | 5 | 53 | [Coiba National Park and Special Zone of Marine Protection](../../countries/PA/sights/coiba-national-park-and-special-zone-of-marine-protection.yaml) 94.15; [Panama Canal (visitor transit and lock experience)](../../countries/PA/sights/panama-canal-visitor-transit-and-lock-experience.yaml) 93.70; [La Amistad International Park (Panama sector)](../../countries/PA/sights/la-amistad-international-park-panama-sector.yaml) 92.50 |
 | PE | cities | 36 | 36 | 72.32 | 1 | 0 | 3 | 36 | [Cusco](../../countries/PE/cities/cusco.yaml) 93.65; [Arequipa](../../countries/PE/cities/arequipa.yaml) 89.65; [Lima](../../countries/PE/cities/lima.yaml) 87.95 |
 | PE | sights | 66 | 64 | 86.60 | 17 | 1 | 38 | 66 | [Historic Sanctuary of Machu Picchu](../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) 97.65; [City of Cuzco (World Heritage core)](../../countries/PE/sights/city-of-cuzco-world-heritage-core.yaml) 94.60; [Huascarán National Park](../../countries/PE/sights/huascaran-national-park.yaml) 94.00 |
 | PF | cities | 5 | 5 | 78.45 | 0 | 0 | 0 | 5 | [Atuona](../../countries/PF/cities/atuona.yaml) 79.50; [Taiohaʻe](../../countries/PF/cities/taiohae.yaml) 79.50; [Papeete](../../countries/PF/cities/papeete.yaml) 78.45 |
@@ -445,7 +445,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | ST | cities | 12 | 12 | 69.12 | 0 | 0 | 0 | 12 | [Santo António (Príncipe)](../../countries/ST/cities/santo-antonio-principe.yaml) 77.85; [São Tomé](../../countries/ST/cities/sao-tome.yaml) 77.55; [São João dos Angolares](../../countries/ST/cities/sao-joao-dos-angolares.yaml) 74.15 |
 | ST | sights | 40 | 40 | 80.55 | 2 | 0 | 4 | 40 | [Obô Natural Park (São Tomé)](../../countries/ST/sights/obo-natural-park-sao-tome.yaml) 90.75; [Príncipe Natural Park](../../countries/ST/sights/principe-natural-park.yaml) 90.05; [Pico Cão Grande](../../countries/ST/sights/pico-cao-grande.yaml) 88.05 |
 | SV | cities | 24 | 24 | 73.32 | 0 | 0 | 0 | 24 | [Suchitoto](../../countries/SV/cities/suchitoto.yaml) 82.10; [San Salvador](../../countries/SV/cities/san-salvador.yaml) 81.25; [Santa Ana](../../countries/SV/cities/santa-ana.yaml) 79.80 |
-| SV | sights | 54 | 50 | 79.88 | 0 | 0 | 1 | 54 | [Joya de Cerén Archaeological Site](../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) 89.70; [Santa Ana Volcano (Ilamatepec)](../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) 89.60; [Los Volcanes National Park](../../countries/SV/sights/los-volcanes-national-park.yaml) 88.95 |
+| SV | sights | 54 | 51 | 80.00 | 0 | 0 | 1 | 54 | [Joya de Cerén Archaeological Site](../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) 89.70; [Santa Ana Volcano (Ilamatepec)](../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) 89.60; [Los Volcanes National Park](../../countries/SV/sights/los-volcanes-national-park.yaml) 88.95 |
 | SX | cities | 2 | 2 | 76.85 | 0 | 0 | 0 | 2 | [Philipsburg](../../countries/SX/cities/philipsburg.yaml) 79.25; [Simpson Bay (village)](../../countries/SX/cities/simpson-bay.yaml) 74.45 |
 | SX | sights | 10 | 10 | 80.05 | 0 | 0 | 0 | 10 | [Man of War Shoal Marine Park (registered dive sites)](../../countries/SX/sights/man-of-war-shoal.yaml) 84.45; [Rockland Estate (Rainforest Adventures)](../../countries/SX/sights/rockland-estate.yaml) 82.30; [Fort Amsterdam](../../countries/SX/sights/fort-amsterdam.yaml) 81.65 |
 | SY | cities | 10 | 8 | 79.70 | 0 | 0 | 0 | 10 | [Damascus](../../countries/SY/cities/damascus.yaml) 89.60; [Aleppo](../../countries/SY/cities/aleppo.yaml) 86.10; [Maaloula](../../countries/SY/cities/maaloula.yaml) 83.35 |
