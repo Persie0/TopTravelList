@@ -292,3 +292,15 @@ Reviewed the 22 remaining flags in the refreshed 28-item queue (the other six al
 | Garden Route National Park | 90.25 | 90.25 | retained |
 
 The total number of score revisions in the worldwide PR is now 32. Generated files require regeneration.
+
+## Sixth correction pass — individual incomplete-core decisions
+
+Five records reviewed against specific sources and worldwide peers. Three formerly incomplete ratings can now be ranked based on documented visitor routes and interpretation. Two remain unranked because a partial accessible component does not establish the visit scope of the named property. This is not completion of the 1,590-record incomplete queue. The original coordinates and all category ratings were retained; no new perfect scores.
+
+| Destination | Before | After | Decision |
+| --- | ---: | ---: | --- |
+| Material Testimonies of the Construction of the Pyrenean State (Andorran components) | unranked | 84.95 | completed |
+| Lower German Limes (Dutch components) | unranked | 84.65 | completed |
+| The Rise of Systematic Biology (Swedish tentative components) | unranked | 85.85 | completed |
+| David Gareji Monasteries and Hermitage | unranked | unranked | unranked retained |
+| East Atlantic Flyway: England East Coast Wetlands (tentative) | unranked | unranked | unranked retained |
