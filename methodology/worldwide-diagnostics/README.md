@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14949; unassessed: 1320.
+Ranked: 14950; unassessed: 1319.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1320 |
+| incomplete-core | 1319 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1803 |
 | overall-95-plus | 159 |
@@ -519,7 +519,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | YE | cities | 10 | 2 | 70.22 | 0 | 0 | 0 | 10 | [Qalansiyah](../../countries/YE/cities/qalansiyah.yaml) 72.75; [Hadibo](../../countries/YE/cities/hadibo.yaml) 67.70 |
 | YE | sights | 34 | 13 | 85.20 | 2 | 0 | 0 | 34 | [Socotra Main Island](../../countries/YE/sights/socotra-island.yaml) 92.75; [Old Walled City of Shibam](../../countries/YE/sights/old-shibam.yaml) 90.55; [Diksam Plateau](../../countries/YE/sights/diksam-plateau.yaml) 89.30 |
 | YT | cities | 2 | 2 | 76.00 | 0 | 0 | 0 | 2 | [Dzaoudzi (historic town)](../../countries/YT/cities/dzaoudzi.yaml) 77.60; [Mamoudzou](../../countries/YT/cities/mamoudzou.yaml) 74.40 |
-| YT | sights | 10 | 8 | 84.72 | 0 | 0 | 0 | 10 | [Passe en S (Longogori)](../../countries/YT/sights/passe-en-s.yaml) 89.65; [N’Gouja Beach and Seagrass Visitor Area](../../countries/YT/sights/ngouja.yaml) 86.85; [Dziani Dzaha Crater Lake](../../countries/YT/sights/dziani-dzaha.yaml) 86.50 |
+| YT | sights | 10 | 9 | 84.65 | 0 | 0 | 0 | 10 | [Passe en S (Longogori)](../../countries/YT/sights/passe-en-s.yaml) 89.65; [N’Gouja Beach and Seagrass Visitor Area](../../countries/YT/sights/ngouja.yaml) 86.85; [Dziani Dzaha Crater Lake](../../countries/YT/sights/dziani-dzaha.yaml) 86.50 |
 | ZA | cities | 12 | 12 | 81.38 | 1 | 0 | 1 | 12 | [Cape Town](../../countries/ZA/cities/cape-town.yaml) 93.30; [Johannesburg](../../countries/ZA/cities/johannesburg.yaml) 84.55; [Stellenbosch](../../countries/ZA/cities/stellenbosch.yaml) 84.20 |
 | ZA | sights | 31 | 25 | 90.05 | 14 | 1 | 13 | 31 | [Kruger National Park](../../countries/ZA/sights/kruger-national-park.yaml) 95.80; [Maloti-Drakensberg Park (South African sector)](../../countries/ZA/sights/maloti-drakensberg-south-africa.yaml) 93.90; [Table Mountain Summit and Slopes](../../countries/ZA/sights/table-mountain.yaml) 93.40 |
 | ZM | cities | 5 | 4 | 74.12 | 0 | 0 | 0 | 5 | [Livingstone](../../countries/ZM/cities/livingstone.yaml) 80.20; [Lusaka](../../countries/ZM/cities/lusaka.yaml) 76.30; [Ndola](../../countries/ZM/cities/ndola.yaml) 71.95 |
