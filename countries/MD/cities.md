@@ -2,7 +2,7 @@
 
 # Moldova (MD) — Cities, towns & villages ranking
 
-**15 ranked** · **3 unassessed** · **18 total** · Worldwide scoring **v2**
+**16 ranked** · **2 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,27 +10,28 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (15)
+## Complete ranked list (16)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Chișinău](cities/chisinau.yaml) | City / town | **80.25** | **Culture 8.7**, **Food 8.6**, **Architecture 8.2** | 7.7 / 7.9 / 8.2 / 8.4 / 8.4 | [47.0105, 28.8638](https://www.google.com/maps/search/?api=1&query=47.0105,28.8638) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chi%C8%99in%C4%83u%2C%20Moldova) |
 | 2 | [Butuceni](cities/butuceni.yaml) | City / town | **79.80** | **Photography 9.0**, **Culture 8.6**, **Architecture 8.4** | 8.0 / 8.3 / 7.8 / 8.3 / 7.0 | [47.3025, 28.9731](https://www.google.com/maps/search/?api=1&query=47.3025,28.9731) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Butuceni%2C%20Moldova) |
 | 3 | [Soroca](cities/soroca.yaml) | City / town | **78.60** | **History 8.7**, **Photography 8.5**, **Culture 8.3** | 7.6 / 8.1 / 8.2 / 7.9 / 7.3 | [48.1566, 28.2849](https://www.google.com/maps/search/?api=1&query=48.1566,28.2849) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Soroca%2C%20Moldova) |
-| 4 | [Trebujeni](cities/trebujeni.yaml) | City / town | **76.60** | **Photography 8.7**, **Culture 8.4** | 7.7 / 7.9 / 7.4 / 8.1 / 6.8 | [47.3132, 28.971](https://www.google.com/maps/search/?api=1&query=47.3132,28.971) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trebujeni%2C%20Moldova) |
-| 5 | [Văleni](cities/valeni.yaml) | City / town | **76.00** | **Culture 8.8**, **Food 8.4**, **Relaxation 8.2** | 7.3 / 8.0 / 7.5 / 8.2 / 6.8 | [45.6205, 28.1712](https://www.google.com/maps/search/?api=1&query=45.6205,28.1712) | [Google Maps](https://www.google.com/maps/search/?api=1&query=V%C4%83leni%2C%20Moldova) |
-| 6 | [Comrat](cities/comrat.yaml) | City / town | **73.25** | **Culture 8.6**, **Food 8.3** | 6.8 / 7.6 / 7.7 / 7.7 / 6.9 | [46.2946, 28.6565](https://www.google.com/maps/search/?api=1&query=46.2946,28.6565) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Comrat%2C%20Moldova) |
-| 7 | [Rudi](cities/rudi.yaml) | City / town | **69.50** | **Photography 7.8**, **Culture 7.7** | 6.8 / 7.2 / 7.0 / 7.4 / 6.0 | [48.33, 27.898](https://www.google.com/maps/search/?api=1&query=48.33,27.898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rudi%2C%20Moldova) |
-| 8 | [Vadul lui Vodă](cities/vadul-lui-voda.yaml) | City / town | **69.30** | **Relaxation 8.3**, **Photography 8.0** | 6.9 / 7.1 / 6.2 / 7.9 / 6.6 | [47.09, 29.08](https://www.google.com/maps/search/?api=1&query=47.09,29.08) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vadul%20lui%20Vod%C4%83%2C%20Moldova) |
-| 9 | [Orhei](cities/orhei.yaml) | City / town | **69.00** | **Culture 7.8**, **History 7.7** | 6.6 / 6.9 / 7.0 / 7.5 / 6.7 | [47.3849, 28.8245](https://www.google.com/maps/search/?api=1&query=47.3849,28.8245) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Orhei%2C%20Moldova) |
-| 10 | [Ungheni](cities/ungheni.yaml) | City / town | **68.90** | **Culture 7.8**, **History 7.7** | 6.5 / 7.0 / 7.0 / 7.4 / 6.8 | [47.2042, 27.795](https://www.google.com/maps/search/?api=1&query=47.2042,27.795) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ungheni%2C%20Moldova) |
-| 11 | [Cahul](cities/cahul.yaml) | City / town | **68.50** | **Culture 7.9**, **Relaxation 7.8** | 6.6 / 6.9 / 6.7 / 7.5 / 6.8 | [45.9079, 28.1944](https://www.google.com/maps/search/?api=1&query=45.9079,28.1944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cahul%2C%20Moldova) |
-| 12 | [Purcari](cities/purcari.yaml) | City / town | **67.95** | **Food 8.0**, **Culture 7.8** | 6.6 / 7.2 / 6.6 / 7.3 / 6.0 | [46.533, 29.857](https://www.google.com/maps/search/?api=1&query=46.533,29.857) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Purcari%2C%20Moldova) |
-| 13 | [Hîncești](cities/hincesti.yaml) | City / town | **67.55** | **History 7.8**, **Culture 7.6** | 6.4 / 6.9 / 7.0 / 7.2 / 6.3 | [46.8305, 28.5906](https://www.google.com/maps/search/?api=1&query=46.8305,28.5906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=H%C3%AEnce%C8%99ti%2C%20Moldova) |
-| 14 | [Bălți](cities/balti.yaml) | City / town | **67.40** | **Culture 7.7**, **Food 7.6** | 6.3 / 6.7 / 6.9 / 7.3 / 7.0 | [47.7617, 27.9289](https://www.google.com/maps/search/?api=1&query=47.7617,27.9289) | [Google Maps](https://www.google.com/maps/search/?api=1&query=B%C4%83l%C8%9Bi%2C%20Moldova) |
-| 15 | [Cricova](cities/cricova.yaml) | City / town | **66.40** | **Food 7.9**, **Culture 7.7** | 6.3 / 7.0 / 6.5 / 7.2 / 6.2 | [47.1389, 28.8619](https://www.google.com/maps/search/?api=1&query=47.1389,28.8619) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cricova%2C%20Moldova) |
+| 4 | [Tiraspol](cities/tiraspol.yaml) | City / town | **78.45** | **Culture 8.5**, **History 8.4**, **Architecture 8.2** | 7.5 / 8.5 / 7.8 / 7.8 / 7.4 | [46.8482, 29.5968](https://www.google.com/maps/search/?api=1&query=46.8482,29.5968) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tiraspol%2C%20Moldova) |
+| 5 | [Trebujeni](cities/trebujeni.yaml) | City / town | **76.60** | **Photography 8.7**, **Culture 8.4** | 7.7 / 7.9 / 7.4 / 8.1 / 6.8 | [47.3132, 28.971](https://www.google.com/maps/search/?api=1&query=47.3132,28.971) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trebujeni%2C%20Moldova) |
+| 6 | [Văleni](cities/valeni.yaml) | City / town | **76.00** | **Culture 8.8**, **Food 8.4**, **Relaxation 8.2** | 7.3 / 8.0 / 7.5 / 8.2 / 6.8 | [45.6205, 28.1712](https://www.google.com/maps/search/?api=1&query=45.6205,28.1712) | [Google Maps](https://www.google.com/maps/search/?api=1&query=V%C4%83leni%2C%20Moldova) |
+| 7 | [Comrat](cities/comrat.yaml) | City / town | **73.25** | **Culture 8.6**, **Food 8.3** | 6.8 / 7.6 / 7.7 / 7.7 / 6.9 | [46.2946, 28.6565](https://www.google.com/maps/search/?api=1&query=46.2946,28.6565) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Comrat%2C%20Moldova) |
+| 8 | [Rudi](cities/rudi.yaml) | City / town | **69.50** | **Photography 7.8**, **Culture 7.7** | 6.8 / 7.2 / 7.0 / 7.4 / 6.0 | [48.33, 27.898](https://www.google.com/maps/search/?api=1&query=48.33,27.898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rudi%2C%20Moldova) |
+| 9 | [Vadul lui Vodă](cities/vadul-lui-voda.yaml) | City / town | **69.30** | **Relaxation 8.3**, **Photography 8.0** | 6.9 / 7.1 / 6.2 / 7.9 / 6.6 | [47.09, 29.08](https://www.google.com/maps/search/?api=1&query=47.09,29.08) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vadul%20lui%20Vod%C4%83%2C%20Moldova) |
+| 10 | [Orhei](cities/orhei.yaml) | City / town | **69.00** | **Culture 7.8**, **History 7.7** | 6.6 / 6.9 / 7.0 / 7.5 / 6.7 | [47.3849, 28.8245](https://www.google.com/maps/search/?api=1&query=47.3849,28.8245) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Orhei%2C%20Moldova) |
+| 11 | [Ungheni](cities/ungheni.yaml) | City / town | **68.90** | **Culture 7.8**, **History 7.7** | 6.5 / 7.0 / 7.0 / 7.4 / 6.8 | [47.2042, 27.795](https://www.google.com/maps/search/?api=1&query=47.2042,27.795) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ungheni%2C%20Moldova) |
+| 12 | [Cahul](cities/cahul.yaml) | City / town | **68.50** | **Culture 7.9**, **Relaxation 7.8** | 6.6 / 6.9 / 6.7 / 7.5 / 6.8 | [45.9079, 28.1944](https://www.google.com/maps/search/?api=1&query=45.9079,28.1944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cahul%2C%20Moldova) |
+| 13 | [Purcari](cities/purcari.yaml) | City / town | **67.95** | **Food 8.0**, **Culture 7.8** | 6.6 / 7.2 / 6.6 / 7.3 / 6.0 | [46.533, 29.857](https://www.google.com/maps/search/?api=1&query=46.533,29.857) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Purcari%2C%20Moldova) |
+| 14 | [Hîncești](cities/hincesti.yaml) | City / town | **67.55** | **History 7.8**, **Culture 7.6** | 6.4 / 6.9 / 7.0 / 7.2 / 6.3 | [46.8305, 28.5906](https://www.google.com/maps/search/?api=1&query=46.8305,28.5906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=H%C3%AEnce%C8%99ti%2C%20Moldova) |
+| 15 | [Bălți](cities/balti.yaml) | City / town | **67.40** | **Culture 7.7**, **Food 7.6** | 6.3 / 6.7 / 6.9 / 7.3 / 7.0 | [47.7617, 27.9289](https://www.google.com/maps/search/?api=1&query=47.7617,27.9289) | [Google Maps](https://www.google.com/maps/search/?api=1&query=B%C4%83l%C8%9Bi%2C%20Moldova) |
+| 16 | [Cricova](cities/cricova.yaml) | City / town | **66.40** | **Food 7.9**, **Culture 7.7** | 6.3 / 7.0 / 6.5 / 7.2 / 6.2 | [47.1389, 28.8619](https://www.google.com/maps/search/?api=1&query=47.1389,28.8619) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cricova%2C%20Moldova) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (2)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -38,7 +39,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Bender (Tighina)](cities/bender-tighina.yaml) | City / town | **—** | **History 8.4**, **Culture 7.9** | 7.0 / 7.6 / 7.9 / — / — | [46.8306, 29.4711](https://www.google.com/maps/search/?api=1&query=46.8306,29.4711) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bender%20%28Tighina%29%2C%20Moldova) |
 | — | [Dubăsari](cities/dubasari.yaml) | City / town | **—** | **History 7.7**, **Photography 7.7** | 6.4 / 7.1 / 6.9 / — / — | [47.2656, 29.1667](https://www.google.com/maps/search/?api=1&query=47.2656,29.1667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dub%C4%83sari%2C%20Moldova) |
-| — | [Tiraspol](cities/tiraspol.yaml) | City / town | **—** | **Culture 8.5**, **History 8.4**, **Architecture 8.2** | 7.5 / 8.5 / 7.8 / — / — | [46.8482, 29.5968](https://www.google.com/maps/search/?api=1&query=46.8482,29.5968) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tiraspol%2C%20Moldova) |
 
 ---
 
