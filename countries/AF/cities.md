@@ -2,7 +2,7 @@
 
 # Afghanistan (AF) — Cities, towns & villages ranking
 
-**4 ranked** · **6 unassessed** · **10 total** · Worldwide scoring **v2**
+**8 ranked** · **2 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,27 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (4)
+## Complete ranked list (8)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Herat](cities/herat.yaml) | City / town | **85.75** | **History 9.2**, **Architecture 9.1**, **Culture 8.8** | 8.6 / 8.8 / 9.0 / 7.9 / 8.1 | [34.3529, 62.204](https://www.google.com/maps/search/?api=1&query=34.3529,62.204) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Herat%2C%20Afghanistan) |
-| 2 | [Mazar-i-Sharif](cities/mazar-i-sharif.yaml) | City / town | **80.10** | **Architecture 8.7**, **Culture 8.6**, **History 8.5** | 8.1 / 8.2 / 8.3 / 7.6 / 7.3 | [36.709, 67.11](https://www.google.com/maps/search/?api=1&query=36.709,67.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mazar-i-Sharif%2C%20Afghanistan) |
-| 3 | [Bamiyan](cities/bamiyan.yaml) | City / town | **77.05** | **Photography 8.2**, **Culture 8.0**, **Nature 8.0** | 7.8 / 8.0 / 7.8 / 7.5 / 6.8 | [34.825, 67.827](https://www.google.com/maps/search/?api=1&query=34.825,67.827) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bamiyan%2C%20Afghanistan) |
-| 4 | [Istalif](cities/istalif.yaml) | City / town | **74.90** | **Culture 8.2**, **Photography 8.0** | 7.6 / 7.8 / 7.1 / 7.6 / 7.0 | [34.83, 69.1](https://www.google.com/maps/search/?api=1&query=34.83,69.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Istalif%2C%20Afghanistan) |
+| 2 | [Kabul](cities/kabul.yaml) | City / town | **81.95** | **History 8.9**, **Culture 8.6** | 7.8 / 8.4 / 8.8 / 7.9 / 8.1 | [34.5553, 69.2075](https://www.google.com/maps/search/?api=1&query=34.5553,69.2075) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kabul%2C%20Afghanistan) |
+| 3 | [Mazar-i-Sharif](cities/mazar-i-sharif.yaml) | City / town | **80.10** | **Architecture 8.7**, **Culture 8.6**, **History 8.5** | 8.1 / 8.2 / 8.3 / 7.6 / 7.3 | [36.709, 67.11](https://www.google.com/maps/search/?api=1&query=36.709,67.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mazar-i-Sharif%2C%20Afghanistan) |
+| 4 | [Balkh](cities/balkh.yaml) | City / town | **79.85** | **History 9.2**, **Architecture 8.4** | 7.5 / 8.5 / 8.8 / 7.6 / 7.1 | [36.756, 66.898](https://www.google.com/maps/search/?api=1&query=36.756,66.898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Balkh%2C%20Afghanistan) |
+| 5 | [Ghazni](cities/ghazni.yaml) | City / town | **79.75** | **History 9.0**, **Architecture 8.7** | 7.5 / 8.2 / 8.9 / 7.7 / 7.4 | [33.546, 68.426](https://www.google.com/maps/search/?api=1&query=33.546,68.426) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghazni%2C%20Afghanistan) |
+| 6 | [Kandahar](cities/kandahar.yaml) | City / town | **78.60** | **History 8.8**, **Culture 8.4** | 7.3 / 8.1 / 8.7 / 7.7 / 7.5 | [31.629, 65.737](https://www.google.com/maps/search/?api=1&query=31.629,65.737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kandahar%2C%20Afghanistan) |
+| 7 | [Bamiyan](cities/bamiyan.yaml) | City / town | **77.05** | **Photography 8.2**, **Culture 8.0**, **Nature 8.0** | 7.8 / 8.0 / 7.8 / 7.5 / 6.8 | [34.825, 67.827](https://www.google.com/maps/search/?api=1&query=34.825,67.827) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bamiyan%2C%20Afghanistan) |
+| 8 | [Istalif](cities/istalif.yaml) | City / town | **74.90** | **Culture 8.2**, **Photography 8.0** | 7.6 / 7.8 / 7.1 / 7.6 / 7.0 | [34.83, 69.1](https://www.google.com/maps/search/?api=1&query=34.83,69.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Istalif%2C%20Afghanistan) |
 
-## Not yet fully assessed (6)
+## Not yet fully assessed (2)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Balkh](cities/balkh.yaml) | City / town | **—** | **History 9.2**, **Architecture 8.4** | 7.5 / 8.5 / 9.1 / — / — | [36.756, 66.898](https://www.google.com/maps/search/?api=1&query=36.756,66.898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Balkh%2C%20Afghanistan) |
 | — | [Faizabad](cities/faizabad.yaml) | City / town | **—** | **Nature 7.7**, **Culture 7.4** | 7.3 / 7.5 / 7.0 / — / — | [37.12, 70.58](https://www.google.com/maps/search/?api=1&query=37.12,70.58) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faizabad%2C%20Afghanistan) |
-| — | [Ghazni](cities/ghazni.yaml) | City / town | **—** | **History 9.0**, **Architecture 8.7** | 7.5 / 8.2 / 8.9 / — / — | [33.546, 68.426](https://www.google.com/maps/search/?api=1&query=33.546,68.426) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghazni%2C%20Afghanistan) |
 | — | [Jalalabad](cities/jalalabad.yaml) | City / town | **—** | **History 7.8**, **Culture 7.6** | 6.9 / 7.3 / 7.6 / — / — | [34.43, 70.45](https://www.google.com/maps/search/?api=1&query=34.43,70.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jalalabad%2C%20Afghanistan) |
-| — | [Kabul](cities/kabul.yaml) | City / town | **—** | **History 8.9**, **Culture 8.6** | 7.8 / 8.4 / 8.8 / — / — | [34.5553, 69.2075](https://www.google.com/maps/search/?api=1&query=34.5553,69.2075) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kabul%2C%20Afghanistan) |
-| — | [Kandahar](cities/kandahar.yaml) | City / town | **—** | **History 8.8**, **Culture 8.4** | 7.3 / 8.1 / 8.7 / — / — | [31.629, 65.737](https://www.google.com/maps/search/?api=1&query=31.629,65.737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kandahar%2C%20Afghanistan) |
 
 ---
 
