@@ -404,3 +404,15 @@ Nine additions, 36 peer comparisons with links and dimensions matched against cu
 - [x] NZ — The Catlins Coastal Area: 89.05/100 (source-linked-unverified).
 
 Five additions, 20 peer comparisons matched against current ranked rows. NZ 56 ranked / 58 total; current discovery queue DONE after passes 36–38. Taupō lake separate from town, Fox Glacier separate from Franz Josef and scoped to permitted views, Catlins represented by Nugget Point. Two existing unassessed island records unchanged. No new filler or general expansion search; reopen only on concrete substantial evidence. Next: HK. Full Python validation and individual peer YAML checks remain pending.
+
+### Pass 39 — Hong Kong museums, heritage and wetlands
+
+- [x] HK — Hong Kong Museum of Art: 87.35/100 (source-linked-unverified).
+- [x] HK — Hong Kong Heritage Museum: 84.85/100 (source-linked-unverified).
+- [x] HK — Hong Kong Museum of History: 84.45/100 (source-linked-unverified).
+- [x] HK — Ping Shan Heritage Trail: 85.50/100 (source-linked-unverified).
+- [x] HK — Mai Po Nature Reserve: 86.85/100 (source-linked-unverified).
+- [x] HK — Kowloon Walled City Park: 85.30/100 (source-linked-unverified).
+- [x] HK — Ten Thousand Buddhas Monastery: 85.00/100 (source-linked-unverified).
+
+Seven additions; 28 ranked-row peer comparisons. HK 30 ranked. Remaining bounded screen: MacLehose Trail and Science Museum; exclude duplicate harbour viewpoints. Python validation and individual YAML checks pending.

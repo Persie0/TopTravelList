@@ -1001,3 +1001,269 @@ No numerical score or evidence-status changes made by this pass.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: detailed independent corroboration and current access.
+
+## sight-hk-hong-kong-museum-of-art — Hong Kong Museum of Art — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/hong-kong-museum-of-art.yaml)
+- Action: new
+- Precise subject and limitations: Museum galleries only; Chinese painting, Cantonese export art and Hong Kong art; excludes promenade and Flagstaff House. Rotating exhibits vary.
+- Location check: 22.29355, 114.17203; [representative point](https://en.wikipedia.org/wiki/Hong_Kong_Museum_of_Art); not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://hk.art.museum/en/web/ma/exhibitions-and-events.html); inspected 2026-11-26. Source supports facts, not numerical ratings.
+- Missing or uncertain facts: independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.8 / 9.0 | More modern visual culture focus |
+| [HK/hong-kong-palace-museum](../../../countries/HK/sights/hong-kong-palace-museum.yaml) | 8.9 / 9.0 / 8.9 / 9.2 / 8.9 | Distinct palace collections |
+| [NZ/auckland-art-gallery](../../../countries/NZ/sights/auckland-art-gallery.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 9.0 | Comparable city art institution |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | Far greater encyclopedic breadth |
+
+Peer dimensions checked against ranked rows; full YAML check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Strong exhibition presentation. |
+| Uniqueness | 8.7 | Distinct local and Chinese collections. |
+| Significance | 8.8 | Major local art institution. |
+| Experience | 8.8 | Multiple exhibitions reward visits. |
+| Depth | 9.0 | Collection breadth supports exploration. |
+
+- Applicable categories: culture:9.3, history:8.8, architecture:8.5.
+- Computed worldwide overall: 87.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-hong-kong-heritage-museum — Hong Kong Heritage Museum — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/hong-kong-heritage-museum.yaml)
+- Action: new
+- Precise subject and limitations: Sha Tin galleries and local cultural exhibits, including Bruce Lee; rotating exhibitions vary.
+- Location check: 22.37712, 114.18541; [representative point](https://en.wikipedia.org/wiki/Hong_Kong_Heritage_Museum); not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://hk.heritage.museum/en/homepage.html); inspected 2026-11-26. Source supports facts, not numerical ratings.
+- Missing or uncertain facts: independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/hong-kong-palace-museum](../../../countries/HK/sights/hong-kong-palace-museum.yaml) | 8.9 / 9.0 / 8.9 / 9.2 / 8.9 | More internationally prominent Chinese art |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.8 / 9.0 | Stronger modern visual art focus |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | Broader multidisciplinary holdings |
+| [AE/sharjah-museum-of-islamic-civilization](../../../countries/AE/sights/sharjah-museum-of-islamic-civilization.yaml) | 8.1 / 8.5 / 8.6 / 8.4 / 8.4 | Comparable regional culture |
+
+Peer dimensions checked against ranked rows; full YAML check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Varied cultural displays. |
+| Uniqueness | 8.6 | Local performing and popular culture. |
+| Significance | 8.5 | Regional heritage significance. |
+| Experience | 8.7 | Accessible cultural interpretation. |
+| Depth | 8.7 | Several galleries offer depth. |
+
+- Applicable categories: culture:9.0, history:8.8, family:8.5.
+- Computed worldwide overall: 84.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-hong-kong-museum-of-history — Hong Kong Museum of History — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/hong-kong-museum-of-history.yaml)
+- Action: new
+- Precise subject and limitations: History museum only; Hong Kong Story reopened 1 April 2026. Reduced floor area and changed interpretation documented by https://www.scmp.com/news/hong-kong/society/article/3348678/revamped-hong-kong-story-exhibition-spotlights-citys-roots-chinese-culture; former displays not assumed.
+- Location check: 22.30159, 114.17711; [representative point](https://en.wikipedia.org/wiki/Hong_Kong_Museum_of_History); not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://hk.history.museum/en/web/mh/exhibition/Hong-Kong-Story-main.html); inspected 2026-11-26. Source supports facts, not numerical ratings.
+- Missing or uncertain facts: independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/tai-kwun](../../../countries/HK/sights/tai-kwun.yaml) | 8.4 / 8.6 / 8.5 / 8.7 / 8.5 | Original built heritage context |
+| [HK/hong-kong-palace-museum](../../../countries/HK/sights/hong-kong-palace-museum.yaml) | 8.9 / 9.0 / 8.9 / 9.2 / 8.9 | Broader Chinese art focus |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | Greater collection breadth |
+| [AE/sharjah-museum-of-islamic-civilization](../../../countries/AE/sights/sharjah-museum-of-islamic-civilization.yaml) | 8.1 / 8.5 / 8.6 / 8.4 / 8.4 | Different regional history |
+
+Peer dimensions checked against ranked rows; full YAML check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Historical exhibition settings. |
+| Uniqueness | 8.5 | Locally specific history. |
+| Significance | 8.7 | Principal city history institution. |
+| Experience | 8.4 | Reopened displays with scope caveats. |
+| Depth | 8.6 | Multiple galleries in reduced space. |
+
+- Applicable categories: history:9.1, culture:8.8, family:8.3.
+- Computed worldwide overall: 84.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-ping-shan-heritage-trail — Ping Shan Heritage Trail — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/ping-shan-heritage-trail.yaml)
+- Action: new
+- Precise subject and limitations: Public heritage route and ancestral halls; representative point at Tsui Sing Lau Pagoda. Private interiors excluded; individual building hours vary.
+- Location check: 22.44881, 114.00612; [representative point](https://mapcarta.com/W114393168); not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.amo.gov.hk/en/heritage-trails/ping-shan-heritage-trail/index.html); inspected 2026-11-26. Source supports facts, not numerical ratings.
+- Missing or uncertain facts: independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/tai-o-fishing-village](../../../countries/HK/sights/tai-o-fishing-village.yaml) | 8.6 / 8.8 / 8.2 / 9.0 / 8.4 | Living fishing settlement rather than clan route |
+| [HK/tai-kwun](../../../countries/HK/sights/tai-kwun.yaml) | 8.4 / 8.6 / 8.5 / 8.7 / 8.5 | Concentrated urban heritage |
+| [US/boston-freedom-trail](../../../countries/US/sights/boston-freedom-trail.yaml) | 8.8 / 9.0 / 9.3 / 9.1 / 9.2 | Greater international historic prominence |
+| [AE/al-fahidi-historical-neighbourhood](../../../countries/AE/sights/al-fahidi-historical-neighbourhood.yaml) | 8.2 / 8.5 / 8.2 / 8.5 / 7.8 | Comparable traditional fabric |
+
+Peer dimensions checked against ranked rows; full YAML check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Historic architecture. |
+| Uniqueness | 8.8 | Rare pagoda and clan heritage. |
+| Significance | 8.8 | Substantial local history. |
+| Experience | 8.4 | Walkable route with access limitations. |
+| Depth | 8.7 | Multiple monuments. |
+
+- Applicable categories: history:9.1, culture:9.0, architecture:8.8, photography:8.4.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-mai-po-nature-reserve — Mai Po Nature Reserve — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/mai-po-nature-reserve.yaml)
+- Action: new
+- Precise subject and limitations: Authorized guided reserve visits, separate from Hong Kong Wetland Park. Representative wetland point, not entrance; sightings seasonal.
+- Location check: 22.4913, 114.0368; [representative point](https://mapcarta.com/W121115691); not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.wwf.org.hk/en/wetlands/booking/); inspected 2026-11-26. Source supports facts, not numerical ratings.
+- Missing or uncertain facts: independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/hong-kong-wetland-park](../../../countries/HK/sights/hong-kong-wetland-park.yaml) | 7.8 / 7.9 / 8.1 / 8.1 / 8.0 | More accessible educational park |
+| [HK/sai-kung-geopark](../../../countries/HK/sights/sai-kung-geopark.yaml) | 9.1 / 9.4 / 8.8 / 9.2 / 9.1 | Different geology and recreation |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | Different native bird conservation model |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | Much larger wetland ecosystem |
+
+Peer dimensions checked against ranked rows; full YAML check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Wetlands and birdlife. |
+| Uniqueness | 8.9 | Managed migratory wetland ecosystem. |
+| Significance | 9.0 | Regional conservation importance. |
+| Experience | 8.4 | Guided interpretation with restricted access. |
+| Depth | 8.8 | Varied habitats and birdwatching. |
+
+- Applicable categories: nature:9.1, wildlife:9.3, photography:8.8.
+- Computed worldwide overall: 86.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-kowloon-walled-city-park — Kowloon Walled City Park — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/kowloon-walled-city-park.yaml)
+- Action: new
+- Precise subject and limitations: Current public garden, preserved Yamen and relics; not the demolished settlement. Temporary exhibitions not guaranteed.
+- Location check: 22.33218, 114.19027; [representative point](https://hongkongstory.org/places/cg-park-kowloon-walled-city-park); not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-kowloon-walled-city-park.html); inspected 2026-11-26. Source supports facts, not numerical ratings.
+- Missing or uncertain facts: independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/tai-kwun](../../../countries/HK/sights/tai-kwun.yaml) | 8.4 / 8.6 / 8.5 / 8.7 / 8.5 | More surviving original structures |
+| [HK/chi-lin-nan-lian](../../../countries/HK/sights/chi-lin-nan-lian.yaml) | 8.5 / 8.3 / 7.7 / 8.5 / 7.9 | More focused garden and religious architecture |
+| [HK/man-mo-temple-hong-kong](../../../countries/HK/sights/man-mo-temple-hong-kong.yaml) | 8.6 / 8.8 / 8.7 / 9.0 / 7.7 | Living religious heritage |
+| [AE/al-fahidi-historical-neighbourhood](../../../countries/AE/sights/al-fahidi-historical-neighbourhood.yaml) | 8.2 / 8.5 / 8.2 / 8.5 / 7.8 | More extensive traditional fabric |
+
+Peer dimensions checked against ranked rows; full YAML check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Garden and preserved features. |
+| Uniqueness | 8.9 | Unusual urban historical context. |
+| Significance | 8.8 | Important local urban history. |
+| Experience | 8.5 | Garden and interpretation. |
+| Depth | 8.1 | Limited surviving fabric. |
+
+- Applicable categories: history:9.0, culture:8.7, architecture:8.6, relaxation:8.3.
+- Computed worldwide overall: 85.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-hk-ten-thousand-buddhas-monastery — Ten Thousand Buddhas Monastery — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/ten-thousand-buddhas-monastery.yaml)
+- Action: new
+- Precise subject and limitations: Hillside sanctuary and statue-lined approach; excludes adjacent cemeteries. Steep access; opening conditions vary.
+- Location check: 22.3875, 114.18472; [representative point](https://en.wikipedia.org/wiki/Ten_Thousand_Buddhas_Monastery); not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discoverhongkong.com/eng/place-to-go/travel.guide-ten-thousand-buddhas-monastery.html); inspected 2026-11-26. Source supports facts, not numerical ratings.
+- Missing or uncertain facts: independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [HK/po-lin-monastery](../../../countries/HK/sights/po-lin-monastery.yaml) | 8.8 / 8.9 / 8.6 / 9.0 / 8.2 | Greater pilgrimage prominence |
+| [HK/tian-tan-buddha](../../../countries/HK/sights/tian-tan-buddha.yaml) | 8.8 / 9.1 / 8.4 / 9.3 / 8.0 | Larger individual sculpture |
+| [HK/wong-tai-sin-temple](../../../countries/HK/sights/wong-tai-sin-temple.yaml) | 8.5 / 8.7 / 8.5 / 9.0 / 7.9 | More established urban worship tradition |
+| [HK/chi-lin-nan-lian](../../../countries/HK/sights/chi-lin-nan-lian.yaml) | 8.5 / 8.3 / 7.7 / 8.5 / 7.9 | Different architecture and garden |
+
+Peer dimensions checked against ranked rows; full YAML check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Striking statue-lined approach. |
+| Uniqueness | 8.8 | Distinctive concentration of Buddha figures. |
+| Significance | 8.0 | Mid-20th-century regional religious heritage. |
+| Experience | 8.6 | Memorable climb and temple visit. |
+| Depth | 8.0 | Compact complex. |
+
+- Applicable categories: culture:8.8, architecture:8.7, photography:9.0.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
