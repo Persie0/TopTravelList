@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14679; unassessed: 1590.
+Ranked: 14682; unassessed: 1587.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 322 |
+| conflicting-declared-status | 325 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1590 |
+| incomplete-core | 1587 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1778 |
 | overall-95-plus | 159 |
@@ -27,7 +27,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | Area | Kind | Total | Ranked | Median | 90+ | 95+ | High field | Named review | Top 3 (ranked) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | AD | cities | 18 | 18 | 72.12 | 0 | 0 | 0 | 18 | [Andorra la Vella](../../countries/AD/cities/andorra-la-vella.yaml) 78.90; [Ordino](../../countries/AD/cities/ordino.yaml) 78.15; [Les Bons](../../countries/AD/cities/les-bons.yaml) 76.30 |
-| AD | sights | 38 | 37 | 80.05 | 0 | 0 | 0 | 38 | [Madriu-Perafita-Claror Valley](../../countries/AD/sights/madriu-perafita-claror-valley.yaml) 88.50; [Comapedrosa Nature Park](../../countries/AD/sights/comapedrosa-nature-park.yaml) 85.85; [Coronallacs Hiking Circuit](../../countries/AD/sights/coronallacs-hiking-circuit.yaml) 85.20 |
+| AD | sights | 38 | 38 | 80.28 | 0 | 0 | 0 | 38 | [Madriu-Perafita-Claror Valley](../../countries/AD/sights/madriu-perafita-claror-valley.yaml) 88.50; [Comapedrosa Nature Park](../../countries/AD/sights/comapedrosa-nature-park.yaml) 85.85; [Coronallacs Hiking Circuit](../../countries/AD/sights/coronallacs-hiking-circuit.yaml) 85.20 |
 | AE | cities | 14 | 14 | 75.30 | 1 | 0 | 1 | 14 | [Dubai](../../countries/AE/cities/dubai.yaml) 90.65; [Abu Dhabi](../../countries/AE/cities/abu-dhabi.yaml) 86.50; [Al Ain](../../countries/AE/cities/al-ain.yaml) 82.95 |
 | AE | sights | 57 | 46 | 82.15 | 3 | 0 | 6 | 57 | [Burj Khalifa](../../countries/AE/sights/burj-khalifa.yaml) 92.25; [Louvre Abu Dhabi](../../countries/AE/sights/louvre-abu-dhabi.yaml) 91.25; [Sheikh Zayed Grand Mosque](../../countries/AE/sights/sheikh-zayed-grand-mosque.yaml) 90.60 |
 | AF | cities | 10 | 3 | 80.10 | 0 | 0 | 0 | 10 | [Herat](../../countries/AF/cities/herat.yaml) 85.75; [Mazar-i-Sharif](../../countries/AF/cities/mazar-i-sharif.yaml) 80.10; [Bamiyan](../../countries/AF/cities/bamiyan.yaml) 77.05 |
@@ -357,7 +357,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | NI | cities | 13 | 13 | 74.00 | 0 | 0 | 0 | 13 | [Granada](../../countries/NI/cities/granada.yaml) 87.00; [León](../../countries/NI/cities/leon.yaml) 86.25; [El Castillo](../../countries/NI/cities/el-castillo.yaml) 78.80 |
 | NI | sights | 30 | 26 | 83.25 | 1 | 0 | 0 | 30 | [Ometepe Island](../../countries/NI/sights/ometepe-island.yaml) 91.85; [León Cathedral](../../countries/NI/sights/leon-cathedral.yaml) 88.75; [Masaya Volcano National Park](../../countries/NI/sights/masaya-volcano-national-park.yaml) 88.05 |
 | NL | cities | 20 | 20 | 84.72 | 1 | 0 | 1 | 20 | [Amsterdam](../../countries/NL/cities/amsterdam.yaml) 93.25; [Utrecht](../../countries/NL/cities/utrecht.yaml) 89.10; [Rotterdam](../../countries/NL/cities/rotterdam.yaml) 88.65 |
-| NL | sights | 51 | 50 | 86.62 | 8 | 1 | 8 | 51 | [Seventeenth-Century Canal Ring of Amsterdam](../../countries/NL/sights/amsterdam-canal-ring.yaml) 95.00; [Rijksmuseum](../../countries/NL/sights/rijksmuseum.yaml) 94.20; [Van Gogh Museum](../../countries/NL/sights/van-gogh-museum.yaml) 92.75 |
+| NL | sights | 51 | 51 | 86.55 | 8 | 1 | 8 | 51 | [Seventeenth-Century Canal Ring of Amsterdam](../../countries/NL/sights/amsterdam-canal-ring.yaml) 95.00; [Rijksmuseum](../../countries/NL/sights/rijksmuseum.yaml) 94.20; [Van Gogh Museum](../../countries/NL/sights/van-gogh-museum.yaml) 92.75 |
 | NO | cities | 19 | 19 | 82.40 | 1 | 0 | 0 | 19 | [Bergen](../../countries/NO/cities/bergen.yaml) 90.70; [Oslo](../../countries/NO/cities/oslo.yaml) 88.15; [Ålesund](../../countries/NO/cities/alesund.yaml) 87.45 |
 | NO | sights | 46 | 41 | 88.45 | 12 | 0 | 13 | 46 | [Geirangerfjord (West Norwegian Fjords)](../../countries/NO/sights/geirangerfjord.yaml) 94.90; [Lofoten Islands](../../countries/NO/sights/lofoten-islands.yaml) 94.90; [Nærøyfjord (West Norwegian Fjords)](../../countries/NO/sights/naeroyfjord.yaml) 94.25 |
 | NP | cities | 49 | 49 | 78.65 | 3 | 0 | 0 | 49 | [Kathmandu](../../countries/NP/cities/kathmandu.yaml) 92.40; [Bhaktapur](../../countries/NP/cities/bhaktapur.yaml) 91.60; [Patan (Lalitpur)](../../countries/NP/cities/patan-lalitpur.yaml) 90.90 |
@@ -419,7 +419,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SD | cities | 9 | 5 | 79.25 | 0 | 0 | 0 | 9 | [Omdurman](../../countries/SD/cities/omdurman.yaml) 80.75; [Suakin](../../countries/SD/cities/suakin.yaml) 80.75; [Kassala](../../countries/SD/cities/kassala.yaml) 79.25 |
 | SD | sights | 26 | 13 | 90.15 | 7 | 0 | 10 | 26 | [Royal Pyramids of Meroë](../../countries/SD/sights/meroe-pyramids.yaml) 94.55; [Jebel Barkal Archaeological Site](../../countries/SD/sights/jebel-barkal.yaml) 93.15; [Sanganeb Marine National Park](../../countries/SD/sights/sanganeb-marine-national-park.yaml) 93.05 |
 | SE | cities | 23 | 23 | 81.35 | 1 | 0 | 1 | 23 | [Stockholm](../../countries/SE/cities/stockholm.yaml) 92.90; [Visby](../../countries/SE/cities/visby.yaml) 89.55; [Uppsala](../../countries/SE/cities/uppsala.yaml) 86.45 |
-| SE | sights | 64 | 63 | 86.35 | 10 | 0 | 3 | 64 | [Laponian Area](../../countries/SE/sights/laponian-area.yaml) 94.75; [Vasa Museum](../../countries/SE/sights/vasa-museum.yaml) 93.60; [Sarek National Park](../../countries/SE/sights/sarek-national-park.yaml) 93.25 |
+| SE | sights | 64 | 64 | 86.10 | 10 | 0 | 3 | 64 | [Laponian Area](../../countries/SE/sights/laponian-area.yaml) 94.75; [Vasa Museum](../../countries/SE/sights/vasa-museum.yaml) 93.60; [Sarek National Park](../../countries/SE/sights/sarek-national-park.yaml) 93.25 |
 | SG | cities | 1 | 1 | 92.20 | 1 | 0 | 1 | 1 | [Singapore](../../countries/SG/cities/singapore.yaml) 92.20 |
 | SG | sights | 99 | 99 | 81.25 | 2 | 0 | 3 | 99 | [Gardens by the Bay](../../countries/SG/sights/gardens-by-the-bay.yaml) 92.45; [Singapore Botanic Gardens](../../countries/SG/sights/singapore-botanic-gardens.yaml) 92.20; [Marina Bay Waterfront](../../countries/SG/sights/marina-bay-waterfront.yaml) 89.65 |
 | SH | cities | 4 | 4 | 80.80 | 0 | 0 | 0 | 4 | [Jamestown (Saint Helena)](../../countries/SH/cities/jamestown.yaml) 85.05; [Edinburgh of the Seven Seas](../../countries/SH/cities/edinburgh-seven-seas.yaml) 84.05; [Georgetown (Ascension Island)](../../countries/SH/cities/georgetown.yaml) 77.55 |
