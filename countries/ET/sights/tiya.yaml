@@ -1,0 +1,15 @@
+id: sight-et-tiya
+name: "Tiya Stelae Field"
+location:
+  country_code: ET
+  latitude: 8.43
+  longitude: 38.61
+scores:
+  impact: 7.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 7.4
+  depth: 7.1
+  categories:
+    history: 9.0
+    culture: 8.5

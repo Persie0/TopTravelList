@@ -1,0 +1,16 @@
+id: sight-tn-medina-sfax
+name: "Medina of Sfax"
+location:
+  country_code: TN
+  latitude: 34.734
+  longitude: 10.761
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.1
+  depth: 8.0
+  categories:
+    architecture: 8.6
+    culture: 8.6
+    history: 8.6

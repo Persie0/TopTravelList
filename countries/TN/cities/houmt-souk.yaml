@@ -1,0 +1,16 @@
+id: city-tn-houmt-souk
+name: "Houmt Souk"
+location:
+  country_code: TN
+  latitude: 33.8758
+  longitude: 10.8575
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.2
+  depth: 7.7
+  categories:
+    culture: 8.4
+    architecture: 8.2
+    food: 8.2

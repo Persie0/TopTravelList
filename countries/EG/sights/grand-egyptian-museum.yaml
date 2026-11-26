@@ -1,0 +1,16 @@
+id: sight-eg-grand-egyptian-museum
+name: "Grand Egyptian Museum"
+location:
+  country_code: EG
+  latitude: 29.994
+  longitude: 31.119
+scores:
+  impact: 9.6
+  uniqueness: 9.7
+  significance: 9.8
+  experience: 9.5
+  depth: 9.7
+  categories:
+    history: 9.9
+    culture: 9.7
+    architecture: 9.4

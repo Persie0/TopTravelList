@@ -2,7 +2,7 @@
 
 # Morocco (MA) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No cities, towns & villages have been assessed for **Morocco** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Fez](cities/fez.yaml) | City / town | **92.20** | **Architecture 9.5**, **Culture 9.5**, **History 9.5**, Food 8.8 | 9.2 / 9.4 / 9.4 / 8.8 / 9.1 | [34.033, -5.0](https://www.google.com/maps/search/?api=1&query=34.033,-5.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fez%2C%20Morocco) |
+| 2 | [Marrakech](cities/marrakech.yaml) | City / town | **91.20** | **Culture 9.4**, **Architecture 9.2**, **Food 9.1**, History 9.1 | 9.2 / 9.1 / 9.0 / 9.1 / 9.2 | [31.6295, -7.9811](https://www.google.com/maps/search/?api=1&query=31.6295,-7.9811) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marrakech%2C%20Morocco) |
+| 3 | [Essaouira](cities/essaouira.yaml) | City / town | **87.35** | **Culture 8.9**, **Architecture 8.8**, **Food 8.8**, Beaches 8.3 | 8.8 / 8.7 / 8.7 / 9.0 / 8.3 | [31.5085, -9.7595](https://www.google.com/maps/search/?api=1&query=31.5085,-9.7595) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Essaouira%2C%20Morocco) |
+| 4 | [Rabat](cities/rabat.yaml) | City / town | **86.90** | **History 9.0**, **Architecture 8.8**, **Culture 8.7** | 8.6 / 8.5 / 9.0 / 8.7 / 8.8 | [34.0209, -6.8416](https://www.google.com/maps/search/?api=1&query=34.0209,-6.8416) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rabat%2C%20Morocco) |
+| 5 | [Tangier](cities/tangier.yaml) | City / town | **86.50** | **Culture 8.9**, **History 8.8**, **Food 8.7**, Architecture 8.5 | 8.5 / 8.6 / 8.8 / 8.8 / 8.7 | [35.7595, -5.834](https://www.google.com/maps/search/?api=1&query=35.7595,-5.834) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tangier%2C%20Morocco) |
+| 6 | [Chefchaouen](cities/chefchaouen.yaml) | City / town | **86.15** | **Photography 9.3**, **Architecture 8.8**, **Culture 8.5** | 8.9 / 9.0 / 8.0 / 8.7 / 7.9 | [35.171, -5.269](https://www.google.com/maps/search/?api=1&query=35.171,-5.269) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chefchaouen%2C%20Morocco) |
+| 7 | [Meknes](cities/meknes.yaml) | City / town | **85.50** | **History 9.0**, **Architecture 8.8**, **Culture 8.6** | 8.5 / 8.5 / 8.9 / 8.3 / 8.5 | [33.8935, -5.5473](https://www.google.com/maps/search/?api=1&query=33.8935,-5.5473) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Meknes%2C%20Morocco) |
+| 8 | [Tétouan](cities/tetouan.yaml) | City / town | **85.40** | **Architecture 8.9**, **Culture 8.8**, **History 8.8** | 8.5 / 8.7 / 8.7 / 8.3 / 8.3 | [35.5889, -5.3626](https://www.google.com/maps/search/?api=1&query=35.5889,-5.3626) | [Google Maps](https://www.google.com/maps/search/?api=1&query=T%C3%A9touan%2C%20Morocco) |
+| 9 | [Casablanca](cities/casablanca.yaml) | City / town | **84.65** | **Architecture 8.9**, **Food 8.7**, **Culture 8.6** | 8.3 / 8.4 / 8.6 / 8.5 / 8.8 | [33.5731, -7.5898](https://www.google.com/maps/search/?api=1&query=33.5731,-7.5898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casablanca%2C%20Morocco) |
+| 10 | [El Jadida](cities/el-jadida.yaml) | City / town | **81.40** | **History 8.6**, **Architecture 8.5**, **Beaches 8.0** | 8.0 / 8.2 / 8.4 / 8.2 / 7.8 | [33.2316, -8.5007](https://www.google.com/maps/search/?api=1&query=33.2316,-8.5007) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Jadida%2C%20Morocco) |
+| 11 | [Ouarzazate](cities/ouarzazate.yaml) | City / town | **78.75** | **Culture 8.1**, **Architecture 8.0** | 7.8 / 8.1 / 7.8 / 8.0 / 7.5 | [30.9189, -6.8934](https://www.google.com/maps/search/?api=1&query=30.9189,-6.8934) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ouarzazate%2C%20Morocco) |
+| 12 | [Agadir](cities/agadir.yaml) | City / town | **78.40** | **Relaxation 8.8**, **Beaches 8.7**, **Food 8.0** | 7.9 / 7.5 / 7.4 / 8.7 / 8.1 | [30.4278, -9.5981](https://www.google.com/maps/search/?api=1&query=30.4278,-9.5981) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Agadir%2C%20Morocco) |
 
 ---
 

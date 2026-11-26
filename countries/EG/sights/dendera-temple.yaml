@@ -1,0 +1,16 @@
+id: sight-eg-dendera-temple
+name: "Dendera Temple Complex"
+location:
+  country_code: EG
+  latitude: 26.142
+  longitude: 32.670
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    history: 9.5
+    photography: 9.3

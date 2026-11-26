@@ -1,0 +1,16 @@
+id: sight-nz-kerikeri-basin
+name: "Kerikeri Basin historic precinct"
+location:
+  country_code: NZ
+  latitude: -35.216667
+  longitude: 173.966667
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 9.0
+    culture: 8.7
+    architecture: 8.2

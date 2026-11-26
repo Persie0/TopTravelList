@@ -1,0 +1,15 @@
+id: sight-nz-whakarua-moutere
+name: "Whakarua Moutere (North East Islands)"
+location:
+  country_code: NZ
+  latitude: -35.5
+  longitude: 175
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2
+    wildlife: 9.2

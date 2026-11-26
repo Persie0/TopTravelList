@@ -1,0 +1,13 @@
+id: sight-za-mandela-legacy-sites
+name: "Nelson Mandela Legacy Sites (UNESCO aggregate)"
+location:
+  country_code: ZA
+  latitude: -25.74
+  longitude: 28.21
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

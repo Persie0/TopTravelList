@@ -1,0 +1,16 @@
+id: sight-tn-medina-sousse
+name: "Medina of Sousse"
+location:
+  country_code: TN
+  latitude: 35.825
+  longitude: 10.638
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.1
+    culture: 8.8

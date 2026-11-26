@@ -1,0 +1,14 @@
+id: sight-za-vredefort-dome
+name: "Vredefort Dome"
+location:
+  country_code: ZA
+  latitude: -26.90
+  longitude: 27.26
+scores:
+  impact: 8.0
+  uniqueness: 9.4
+  significance: 9.6
+  experience: 8.1
+  depth: 8.4
+  categories:
+    nature: 9.0

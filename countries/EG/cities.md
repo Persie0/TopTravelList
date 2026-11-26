@@ -2,7 +2,7 @@
 
 # Egypt (EG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (10)
 
-No cities, towns & villages have been assessed for **Egypt** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Cairo](cities/cairo.yaml) | City / town | **92.90** | **History 9.6**, **Culture 9.5**, **Architecture 9.4**, Food 9.0 | 9.2 / 9.3 / 9.6 / 8.9 / 9.5 | [30.0444, 31.2357](https://www.google.com/maps/search/?api=1&query=30.0444,31.2357) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cairo%2C%20Egypt) |
+| 2 | [Alexandria](cities/alexandria.yaml) | City / town | **87.50** | **History 9.3**, **Culture 8.8**, **Architecture 8.5**, Food 8.5 | 8.6 / 8.7 / 9.2 / 8.5 / 8.8 | [31.2001, 29.9187](https://www.google.com/maps/search/?api=1&query=31.2001,29.9187) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alexandria%2C%20Egypt) |
+| 3 | [Aswan](cities/aswan.yaml) | City / town | **86.35** | **Culture 8.8**, **Photography 8.7**, **Food 8.3** | 8.7 / 8.7 / 8.5 / 8.8 / 8.3 | [24.0889, 32.8998](https://www.google.com/maps/search/?api=1&query=24.0889,32.8998) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aswan%2C%20Egypt) |
+| 4 | [Luxor](cities/luxor.yaml) | City / town | **85.70** | **History 8.9**, **Culture 8.6**, **Food 8.1** | 8.5 / 8.7 / 8.8 / 8.5 / 8.1 | [25.6872, 32.6396](https://www.google.com/maps/search/?api=1&query=25.6872,32.6396) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Luxor%2C%20Egypt) |
+| 5 | [Siwa](cities/siwa.yaml) | City / town | **84.25** | **Culture 8.8**, **Architecture 8.7** | 8.4 / 8.9 / 8.2 / 8.4 / 7.8 | [29.203, 25.519](https://www.google.com/maps/search/?api=1&query=29.203,25.519) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Siwa%2C%20Egypt) |
+| 6 | [Rashid / Rosetta](cities/rashid.yaml) | City / town | **81.15** | **History 8.9**, **Architecture 8.5**, **Culture 8.2** | 7.9 / 8.3 / 8.7 / 7.8 / 7.6 | [31.4044, 30.4164](https://www.google.com/maps/search/?api=1&query=31.4044,30.4164) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rashid%20%2F%20Rosetta%2C%20Egypt) |
+| 7 | [Dahab](cities/dahab.yaml) | City / town | **79.45** | **Relaxation 8.7**, **Beaches 8.4**, **Culture 7.8** | 8.1 / 7.9 / 7.3 / 8.8 / 7.6 | [28.509, 34.514](https://www.google.com/maps/search/?api=1&query=28.509,34.514) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dahab%2C%20Egypt) |
+| 8 | [Sharm El Sheikh](cities/sharm-el-sheikh.yaml) | City / town | **77.15** | **Beaches 8.7**, **Relaxation 8.7**, **Nightlife 8.4** | 7.8 / 7.4 / 7.1 / 8.7 / 8.0 | [27.9158, 34.33](https://www.google.com/maps/search/?api=1&query=27.9158,34.33) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sharm%20El%20Sheikh%2C%20Egypt) |
+| 9 | [Giza](cities/giza.yaml) | City / town | **76.95** | **Culture 8.0**, **Food 8.0** | 7.5 / 7.7 / 8.0 / 7.6 / 7.8 | [30.0131, 31.2089](https://www.google.com/maps/search/?api=1&query=30.0131,31.2089) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Giza%2C%20Egypt) |
+| 10 | [Hurghada](cities/hurghada.yaml) | City / town | **76.70** | **Beaches 8.6**, **Relaxation 8.6**, **Nightlife 8.2** | 7.7 / 7.4 / 7.1 / 8.6 / 8.0 | [27.2579, 33.8116](https://www.google.com/maps/search/?api=1&query=27.2579,33.8116) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hurghada%2C%20Egypt) |
 
 ---
 

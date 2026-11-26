@@ -1,0 +1,17 @@
+id: sight-za-kruger-national-park
+name: "Kruger National Park"
+location:
+  country_code: ZA
+  latitude: -24.00
+  longitude: 31.50
+scores:
+  impact: 9.7
+  uniqueness: 9.5
+  significance: 9.5
+  experience: 9.5
+  depth: 9.7
+  categories:
+    nature: 9.6
+    wildlife: 9.8
+    adventure: 9.5
+    photography: 9.5

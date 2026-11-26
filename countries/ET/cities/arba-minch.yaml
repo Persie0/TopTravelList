@@ -1,0 +1,15 @@
+id: city-et-arba-minch
+name: "Arba Minch"
+location:
+  country_code: ET
+  latitude: 6.04
+  longitude: 37.55
+scores:
+  impact: 7.5
+  uniqueness: 7.3
+  significance: 7.0
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 7.3
+    relaxation: 7.5

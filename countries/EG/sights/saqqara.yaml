@@ -1,0 +1,16 @@
+id: sight-eg-saqqara
+name: "Saqqara Necropolis"
+location:
+  country_code: EG
+  latitude: 29.8713
+  longitude: 31.2165
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.8
+  experience: 9.2
+  depth: 9.5
+  categories:
+    architecture: 9.7
+    history: 9.8
+    photography: 9.4

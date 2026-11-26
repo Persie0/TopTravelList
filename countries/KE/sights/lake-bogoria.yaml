@@ -1,0 +1,15 @@
+id: sight-ke-lake-bogoria
+name: "Lake Bogoria National Reserve"
+location:
+  country_code: KE
+  latitude: 0.2587
+  longitude: 36.1137
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.6
+  depth: 8.3
+  categories:
+    nature: 9.4
+    wildlife: 9.3
