@@ -4134,3 +4134,111 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-mx-xel-ha-park — Xel-Há Park — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/xel-ha-park.yaml)
+- Action: new
+- Precise subject: Ticketed natural inlet and water recreation park; excludes nearby archaeological ruins and separately ticketed parks.
+- Location check: 20.32167, -87.36118; [published representative point](https://mapcarta.com/34885948), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator describes freshwater channels flowing into the sea, snorkeling and floating activities (https://www.xelha.com/en/attractions-water-activities-xelha-park/). Commercial park; no conservation outcomes assumed. [Primary visitor reference](https://www.xelha.com/en/attractions/xelha-inlet/); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MX/xcaret-park](../../../countries/MX/sights/xcaret-park.yaml) | Xcaret provides greater cultural variety; Xel-Há concentrates on inlet recreation. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | Hong Kong has broader animal displays and rides; Xel-Há emphasizes natural water recreation. |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | Aquaventure has more engineered rides; Xel-Há has a natural setting. |
+| [ID/waterbom-bali](../../../countries/ID/sights/waterbom-bali.yaml) | Xel-Há has stronger natural-water distinctiveness. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Clear inlet and tropical surroundings create strong natural impact. |
+| Uniqueness | 8.9 | Freshwater-seawater inlet recreation is less replaceable than a conventional waterpark. |
+| Significance | 7.9 | Natural habitat interest is substantial but independent ecological significance requires corroboration. |
+| Experience | 9.1 | Swimming, snorkeling and floating make a rewarding water-centered visit. |
+| Depth | 8.8 | Multiple routes and activities offer breadth, less cultural variety than Xcaret. |
+
+- Applicable categories: nature:9.0, adventure:8.9, relaxation:8.8, family:9.1.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-mx-xplor-park — Xplor Park — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/xplor-park.yaml)
+- Action: new
+- Precise subject: Separately ticketed adventure park and its zip-lines, subterranean swimming and amphibious vehicle routes; excludes Xcaret and Xenses.
+- Location check: 20.5928, -87.12429; [published representative point](https://mapcarta.com/W550358722), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator lists zip-line circuits, amphibious vehicles, underground river swimming and rafting. Distinct mapped footprint, not same as Xcaret. [Primary visitor reference](https://www.xplor.travel/en/xplor-admission/); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MX/xcaret-park](../../../countries/MX/sights/xcaret-park.yaml) | Xcaret has greater cultural scope; Xplor is more adventure-focused. |
+| [CA/capilano-suspension-bridge-park](../../../countries/CA/sights/capilano-suspension-bridge-park.yaml) | Capilano offers forest walks; Xplor has broader active experiences. |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | Ferrari World provides engineered thrills; Xplor integrates natural terrain. |
+| [ID/waterbom-bali](../../../countries/ID/sights/waterbom-bali.yaml) | Xplor offers greater land and underground adventure variety. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Canopy and cave experiences produce strong visual and physical impact. |
+| Uniqueness | 8.7 | Combination of underground rivers and elevated routes distinguishes the park. |
+| Significance | 6.8 | Commercial adventure use does not by itself establish exceptional geological significance. |
+| Experience | 9.2 | Varied adventure activities offer a highly rewarding active visit. |
+| Depth | 8.8 | Multiple circuits provide extended exploration. |
+
+- Applicable categories: adventure:9.4, nature:8.6, family:8.6, photography:8.5.
+- Computed worldwide overall: 84.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-mx-bacalar-lagoon — Bacalar Lagoon (Lagoon of Seven Colours) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/bacalar-lagoon.yaml)
+- Action: new
+- Precise subject: Freshwater lagoon landscape and low-impact visitor activities; excludes Bacalar town, separately visited fort and individual cenotes.
+- Location check: 18.77789, -88.30599; [published representative point](https://mapcarta.com/Lake_Bacalar_R10271432), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Regional tourism site identifies colour variation with water depth and light, kayaking and sailing; national tourism site corroborates (https://visitmexico.com/en/destino/1999/bacalar). Access and conservation restrictions vary; avoid disturbing sensitive habitats. [Primary visitor reference](https://mexicancaribbean.travel/destinations/bacalar); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | Whitsundays offer wider island and marine variety; Bacalar is a freshwater landscape. |
+| [CA/lake-louise](../../../countries/CA/sights/lake-louise.yaml) | Lake Louise has dramatic alpine scenery; Bacalar offers warmer-water recreational variety. |
+| [ID/lake-toba](../../../countries/ID/sights/lake-toba.yaml) | Toba has broader volcanic geological scale; Bacalar has distinctive water colours. |
+| [MX/xel-ha-park](../../../countries/MX/sights/xel-ha-park.yaml) | Xel-Há is a bounded commercial inlet; Bacalar is a broader freshwater landscape. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Colour gradients and clear freshwater create exceptional visual appeal. |
+| Uniqueness | 9.0 | Large multicoloured freshwater lagoon is distinctive internationally. |
+| Significance | 8.6 | Important freshwater ecology; precise global scientific claims need further corroboration. |
+| Experience | 9.0 | Low-impact paddling and scenic exploration reward visitors. |
+| Depth | 8.8 | Long lagoon shoreline offers multiple exploration areas without counting adjacent town attractions. |
+
+- Applicable categories: nature:9.2, photography:9.3, relaxation:9.2, adventure:8.6.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

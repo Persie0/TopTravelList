@@ -294,3 +294,15 @@ Six additions, 24 peer comparisons. Source excerpts and published representative
 - [x] MX — Xcaret Park: 88.65/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons. Primary visitor sources and published representative map points inspected. Parliament Hill Centre Block rehabilitation noted; Old Montreal district excludes individual interiors, Chapultepec Castle museum independently scoped from existing wider ensemble, Xcaret modern park separate from archaeological site. Generic basilica type retained under current lexical generator. No existing ratings changed; full Python validation and diagnostics pending. Next: further Canadian urban attractions (Toronto Islands, Butchart Gardens, Granville Island), Mexican leisure and nature destinations.
+
+
+### Pass 30 — Canadian urban and Mexican nature/leisure attractions
+
+- [x] CA — Toronto Islands Park: 81.95/100 (source-linked-unverified).
+- [x] CA — The Butchart Gardens: 88.85/100 (source-linked-unverified).
+- [x] CA — Granville Island (Public Market and arts district): 82.30/100 (source-linked-unverified).
+- [x] MX — Xel-Há Park: 86.90/100 (source-linked-unverified).
+- [x] MX — Xplor Park: 84.05/100 (source-linked-unverified).
+- [x] MX — Bacalar Lagoon (Lagoon of Seven Colours): 89.00/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons. Primary visitor references and published coordinates inspected. Butchart uses operator GPS rather than conflicting GeoNames point. Granville Island is a peninsula; lexical Island classification retained pending generator repair. Xplor distinct mapped footprint from Xcaret; Xel-Há excludes ruins; Bacalar excludes town and individual cenotes. Existing ratings unchanged; full Python validation and diagnostics pending. Next: Copper Canyon, Hierve el Agua, major cenotes and remaining US urban landmarks.

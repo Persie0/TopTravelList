@@ -1,0 +1,17 @@
+id: sight-mx-xel-ha-park
+name: "Xel-Há Park"
+location:
+  country_code: MX
+  latitude: 20.32167
+  longitude: -87.36118
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.0
+    adventure: 8.9
+    relaxation: 8.8
+    family: 9.1

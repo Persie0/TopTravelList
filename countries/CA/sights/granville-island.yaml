@@ -1,0 +1,17 @@
+id: sight-ca-granville-island
+name: "Granville Island (Public Market and arts district)"
+location:
+  country_code: CA
+  latitude: 49.27071
+  longitude: -123.13429
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    food: 8.9
+    culture: 8.7
+    relaxation: 8.6
+    photography: 8.3

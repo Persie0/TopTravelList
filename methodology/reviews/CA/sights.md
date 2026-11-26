@@ -2517,3 +2517,111 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ca-toronto-islands — Toronto Islands Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/toronto-islands.yaml)
+- Action: new
+- Precise subject: Public island park and linked trails, beaches and skyline viewpoints; excludes private properties and separately ticketed attractions.
+- Location check: 43.62118, -79.37868; [published representative point](https://mapcarta.com/38582162), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City describes beaches, pier views, ferry access and inter-island trails (https://www.toronto.ca/explore-enjoy/toronto-island-ferries/getting-around/). Ferry availability should be checked before visiting. [Primary visitor reference](https://www.toronto.ca/explore-enjoy/toronto-island-ferries/things-to-do-on-toronto-island/); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | Rottnest has more distinctive wildlife and coastal scenery. |
+| [SG/coney-island-park](../../../countries/SG/sights/coney-island-park.yaml) | Toronto has more waterfront and recreational variety. |
+| [ID/thousand-islands-marine-park](../../../countries/ID/sights/thousand-islands-marine-park.yaml) | Indonesia has broader marine biodiversity and exploration. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | Comparable urban park; Toronto's island setting and skyline distinguish it. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Lakefront and city skyline contrast creates strong scenic impact. |
+| Uniqueness | 8.1 | Urban island network is distinctive but comparable globally. |
+| Significance | 7.5 | Local urban recreation and landscape have moderate worldwide significance. |
+| Experience | 8.8 | Walking, cycling and beaches offer diverse recreation. |
+| Depth | 8.6 | Connected islands support extended exploration. |
+
+- Applicable categories: nature:8.5, relaxation:9.0, photography:8.8, family:8.8.
+- Computed worldwide overall: 81.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-ca-butchart-gardens — The Butchart Gardens — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/butchart-gardens.yaml)
+- Action: new
+- Precise subject: Historic display garden estate, including Sunken, Japanese, Rose and Italian gardens; excludes nearby parks.
+- Location check: 48.56249, -123.466613; [published representative point](https://butchartgardens.com/group-tour-operator-information/), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Parks Canada identifies early twentieth-century estate gardens and the former limestone quarry; operator publishes GPS and describes the garden map (https://butchartgardens.com/garden-map/). Seasonal display and access vary. Operator GPS preferred over conflicting GeoNames-derived point. [Primary visitor reference](https://parks.canada.ca/culture/designation/lieu-site/jardins-butchart-gardens); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [SG/singapore-botanic-gardens](../../../countries/SG/sights/singapore-botanic-gardens.yaml) | Singapore has broader botanical science and heritage significance. |
+| [ID/bogor-botanical-gardens](../../../countries/ID/sights/bogor-botanical-gardens.yaml) | Bogor has greater scientific collection focus; Butchart emphasizes display design. |
+| [TH/nong-nooch-tropical-garden](../../../countries/TH/sights/nong-nooch-tropical-garden.yaml) | Both offer elaborate gardens; Butchart has stronger historic estate identity. |
+| [AT/mirabell-palace-gardens](../../../countries/AT/sights/mirabell-palace-gardens.yaml) | Butchart offers more extensive garden-specific exploration. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Former quarry transformed into elaborate flower displays produces exceptional visual impact. |
+| Uniqueness | 8.8 | Quarry reclamation and varied historic garden styles are distinctive. |
+| Significance | 8.7 | National historic designation supports significance without equating it to world-leading botanical science collections. |
+| Experience | 9.1 | Multiple landscaped areas reward leisurely exploration. |
+| Depth | 8.8 | Several individual gardens create substantial visit breadth. |
+
+- Applicable categories: nature:9.0, photography:9.3, relaxation:9.1, history:8.8.
+- Computed worldwide overall: 88.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-ca-granville-island — Granville Island (Public Market and arts district) — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/granville-island.yaml)
+- Action: new
+- Precise subject: Public Market, arts studios, public waterfront and cultural district; excludes individual separately ticketed shows and private businesses.
+- Location check: 49.27071, -123.13429; [published representative point](https://mapcarta.com/28167604), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Official district site identifies food market, studios, theatres and restaurants; site is a peninsula across False Creek, not a geographic island. [Primary visitor reference](https://granvilleisland.com/Public-Market); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TH/chatuchak-weekend-market](../../../countries/TH/sights/chatuchak-weekend-market.yaml) | Chatuchak has much larger retail scale; Granville adds arts and waterfront. |
+| [ID/beringharjo-market](../../../countries/ID/sights/beringharjo-market.yaml) | Beringharjo has deeper traditional market character; Granville has a wider creative district. |
+| [SG/tiong-bahru-market](../../../countries/SG/sights/tiong-bahru-market.yaml) | Granville offers broader district exploration. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | Stanley Park emphasizes natural recreation; Granville emphasizes food and arts. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Lively market and waterfront create a memorable urban atmosphere. |
+| Uniqueness | 8.2 | Working arts studios combined with food market and waterfront give distinctive character. |
+| Significance | 7.8 | Local cultural redevelopment and arts activity have moderate international significance. |
+| Experience | 8.8 | Food, arts and pedestrian exploration create a rewarding visit. |
+| Depth | 8.7 | Multiple venues and spaces offer substantial variety. |
+
+- Applicable categories: food:8.9, culture:8.7, relaxation:8.6, photography:8.3.
+- Computed worldwide overall: 82.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
