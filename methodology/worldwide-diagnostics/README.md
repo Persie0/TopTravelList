@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15275; unassessed: 994.
+Ranked: 15280; unassessed: 989.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 745 |
+| conflicting-declared-status | 750 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2121 |
 | historical-review-only | 2516 |
-| incomplete-core | 994 |
+| incomplete-core | 989 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1878 |
+| overall-90-plus | 1879 |
 | overall-95-plus | 164 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -39,7 +39,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | AL | cities | 35 | 35 | 77.15 | 0 | 0 | 0 | 35 | [Berat](../../countries/AL/cities/berat.yaml) 88.70; [Gjirokastër](../../countries/AL/cities/gjirokaster.yaml) 88.15; [Krujë](../../countries/AL/cities/kruje.yaml) 83.70 |
 | AL | sights | 95 | 95 | 83.00 | 5 | 0 | 3 | 95 | [Butrint Archaeological Site](../../countries/AL/sights/butrint-archaeological-site.yaml) 91.90; [Albanian Alps National Park](../../countries/AL/sights/albanian-alps-national-park.yaml) 91.45; [Berat Historic Centre](../../countries/AL/sights/berat-historic-centre.yaml) 90.70 |
 | AM | cities | 20 | 20 | 74.65 | 0 | 0 | 0 | 20 | [Yerevan](../../countries/AM/cities/yerevan.yaml) 86.05; [Gyumri](../../countries/AM/cities/gyumri.yaml) 82.90; [Vagharshapat (Etchmiadzin)](../../countries/AM/cities/vagharshapat-etchmiadzin.yaml) 81.95 |
-| AM | sights | 55 | 53 | 84.85 | 7 | 0 | 7 | 55 | [Geghard Monastery and Upper Azat Valley](../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml) 92.95; [Tatev and Tatevi Anapat Monasteries and Vorotan Valley](../../countries/AM/sights/tatev-and-tatevi-anapat-monasteries-and-vorotan-valley.yaml) 91.85; [Tatev Monastery](../../countries/AM/sights/tatev-monastery.yaml) 91.35 |
+| AM | sights | 55 | 54 | 84.80 | 7 | 0 | 7 | 55 | [Geghard Monastery and Upper Azat Valley](../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml) 92.95; [Tatev and Tatevi Anapat Monasteries and Vorotan Valley](../../countries/AM/sights/tatev-and-tatevi-anapat-monasteries-and-vorotan-valley.yaml) 91.85; [Tatev Monastery](../../countries/AM/sights/tatev-monastery.yaml) 91.35 |
 | AO | cities | 8 | 8 | 78.42 | 0 | 0 | 0 | 8 | [Mbanza Kongo](../../countries/AO/cities/mbanza-kongo.yaml) 84.30; [Luanda](../../countries/AO/cities/luanda.yaml) 83.00; [Benguela](../../countries/AO/cities/benguela.yaml) 79.25 |
 | AO | sights | 17 | 16 | 85.60 | 1 | 0 | 3 | 17 | [Iona National Park](../../countries/AO/sights/iona-national-park.yaml) 91.50; [Kalandula Falls](../../countries/AO/sights/kalandula-falls.yaml) 89.10; [Tchitundu-Hulu Rock Art](../../countries/AO/sights/tchitundu-hulu.yaml) 88.15 |
 | AQ | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
@@ -161,7 +161,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | ER | cities | 13 | 12 | 70.75 | 1 | 0 | 1 | 13 | [Asmara](../../countries/ER/cities/asmara.yaml) 90.55; [Massawa](../../countries/ER/cities/massawa.yaml) 84.20; [Keren](../../countries/ER/cities/keren.yaml) 78.25 |
 | ER | sights | 30 | 25 | 80.35 | 1 | 0 | 2 | 30 | [Asmara Modernist Historic Urban Ensemble](../../countries/ER/sights/asmara-modernist-historic-urban-ensemble.yaml) 92.75; [Qoahito Cultural Landscape](../../countries/ER/sights/qoahito-cultural-landscape.yaml) 88.20; [Dahlak Archipelago (authorized visitor waters)](../../countries/ER/sights/dahlak-archipelago-authorized-visitor-waters.yaml) 87.30 |
 | ES | cities | 22 | 22 | 88.58 | 7 | 1 | 8 | 22 | [Barcelona](../../countries/ES/cities/barcelona.yaml) 95.20; [Madrid](../../countries/ES/cities/madrid.yaml) 92.85; [Seville](../../countries/ES/cities/seville.yaml) 92.70 |
-| ES | sights | 113 | 105 | 89.70 | 45 | 4 | 49 | 113 | [Alhambra and Generalife palaces and gardens](../../countries/ES/sights/alhambra.yaml) 96.15; [Alhambra Generalife and Albayzín](../../countries/ES/sights/alhambra-ensemble.yaml) 95.40; [Mosque-Cathedral of Córdoba](../../countries/ES/sights/mezquita.yaml) 95.00 |
+| ES | sights | 113 | 107 | 89.70 | 45 | 4 | 49 | 113 | [Alhambra and Generalife palaces and gardens](../../countries/ES/sights/alhambra.yaml) 96.15; [Alhambra Generalife and Albayzín](../../countries/ES/sights/alhambra-ensemble.yaml) 95.40; [Mosque-Cathedral of Córdoba](../../countries/ES/sights/mezquita.yaml) 95.00 |
 | ET | cities | 8 | 8 | 80.28 | 0 | 0 | 0 | 8 | [Harar](../../countries/ET/cities/harar.yaml) 88.30; [Addis Ababa](../../countries/ET/cities/addis-ababa.yaml) 85.30; [Gondar](../../countries/ET/cities/gondar.yaml) 82.20 |
 | ET | sights | 23 | 17 | 89.90 | 8 | 2 | 9 | 23 | [Rock-Hewn Churches, Lalibela](../../countries/ET/sights/rock-hewn-churches-lalibela.yaml) 97.40; [Simien National Park](../../countries/ET/sights/simien-national-park.yaml) 95.10; [Bale Mountains National Park](../../countries/ET/sights/bale-mountains-national-park.yaml) 93.85 |
 | FI | cities | 19 | 19 | 79.95 | 0 | 0 | 0 | 19 | [Helsinki](../../countries/FI/cities/helsinki.yaml) 88.45; [Porvoo](../../countries/FI/cities/porvoo.yaml) 84.30; [Tampere](../../countries/FI/cities/tampere.yaml) 84.05 |
@@ -225,7 +225,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | HT | cities | 12 | 12 | 71.95 | 0 | 0 | 0 | 12 | [Jacmel](../../countries/HT/cities/jacmel.yaml) 84.50; [Cap-Haïtien](../../countries/HT/cities/cap-haitien.yaml) 83.25; [Port-au-Prince](../../countries/HT/cities/port-au-prince.yaml) 81.60 |
 | HT | sights | 32 | 20 | 81.30 | 2 | 0 | 2 | 32 | [National History Park – Citadel, Sans Souci, Ramiers](../../countries/HT/sights/national-history-park.yaml) 92.90; [Citadelle Laferrière](../../countries/HT/sights/citadelle-laferriere.yaml) 92.30; [Sans-Souci Palace](../../countries/HT/sights/sans-souci-palace.yaml) 88.25 |
 | HU | cities | 18 | 18 | 84.12 | 1 | 0 | 1 | 18 | [Budapest](../../countries/HU/cities/budapest.yaml) 93.35; [Pécs](../../countries/HU/cities/pecs.yaml) 87.15; [Eger](../../countries/HU/cities/eger.yaml) 86.10 |
-| HU | sights | 50 | 48 | 87.58 | 6 | 0 | 5 | 50 | [Danube Banks, Buda Castle Quarter and Andrássy Avenue](../../countries/HU/sights/budapest-world-heritage.yaml) 94.40; [Hungarian Parliament Building](../../countries/HU/sights/parliament.yaml) 92.25; [Buda Castle and Castle District](../../countries/HU/sights/buda-castle.yaml) 92.15 |
+| HU | sights | 50 | 49 | 87.60 | 6 | 0 | 5 | 50 | [Danube Banks, Buda Castle Quarter and Andrássy Avenue](../../countries/HU/sights/budapest-world-heritage.yaml) 94.40; [Hungarian Parliament Building](../../countries/HU/sights/parliament.yaml) 92.25; [Buda Castle and Castle District](../../countries/HU/sights/buda-castle.yaml) 92.15 |
 | ID | cities | 79 | 79 | 75.55 | 1 | 0 | 0 | 79 | [Yogyakarta](../../countries/ID/cities/yogyakarta.yaml) 90.70; [Ubud](../../countries/ID/cities/ubud.yaml) 88.45; [Jakarta](../../countries/ID/cities/jakarta.yaml) 87.45 |
 | ID | sights | 343 | 343 | 85.55 | 52 | 4 | 83 | 343 | [Borobudur Temple](../../countries/ID/sights/borobudur-temple.yaml) 97.75; [Komodo National Park](../../countries/ID/sights/komodo-national-park.yaml) 97.55; [Raja Ampat Archipelago](../../countries/ID/sights/raja-ampat-archipelago.yaml) 97.50 |
 | IE | cities | 20 | 20 | 80.95 | 0 | 0 | 0 | 20 | [Dublin](../../countries/IE/cities/dublin.yaml) 89.50; [Galway](../../countries/IE/cities/galway.yaml) 86.25; [Kilkenny](../../countries/IE/cities/kilkenny.yaml) 86.25 |
@@ -245,7 +245,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IS | cities | 15 | 15 | 80.20 | 0 | 0 | 0 | 15 | [Reykjavík](../../countries/IS/cities/reykjavik.yaml) 86.65; [Vestmannaeyjabær (Heimaey)](../../countries/IS/cities/vestmannaeyjabaer.yaml) 83.30; [Seyðisfjörður](../../countries/IS/cities/seydisfjordur.yaml) 82.35 |
 | IS | sights | 56 | 52 | 86.98 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
 | IT | cities | 25 | 25 | 89.85 | 12 | 3 | 13 | 25 | [Rome](../../countries/IT/cities/rome.yaml) 97.30; [Venice](../../countries/IT/cities/venice.yaml) 96.50; [Florence](../../countries/IT/cities/florence.yaml) 95.55 |
-| IT | sights | 134 | 126 | 90.78 | 82 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
+| IT | sights | 134 | 127 | 90.80 | 83 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
 | JE | cities | 4 | 4 | 81.75 | 0 | 0 | 0 | 4 | [St Helier](../../countries/JE/cities/st-helier.yaml) 83.35; [St Aubin](../../countries/JE/cities/st-aubin.yaml) 81.85; [Gorey harbour village](../../countries/JE/cities/gorey.yaml) 81.65 |
 | JE | sights | 22 | 22 | 82.90 | 0 | 0 | 0 | 22 | [Mont Orgueil Castle](../../countries/JE/sights/mont-orgueil.yaml) 88.90; [La Hougue Bie passage grave and museum](../../countries/JE/sights/la-hougue-bie.yaml) 88.75; [Elizabeth Castle](../../countries/JE/sights/elizabeth-castle.yaml) 88.55 |
 | JM | cities | 11 | 11 | 77.15 | 0 | 0 | 0 | 11 | [Kingston](../../countries/JM/cities/kingston.yaml) 86.55; [Falmouth](../../countries/JM/cities/falmouth.yaml) 80.65; [Port Antonio](../../countries/JM/cities/port-antonio.yaml) 79.90 |
