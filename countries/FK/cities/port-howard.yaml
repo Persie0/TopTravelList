@@ -1,0 +1,16 @@
+id: city-fk-port-howard
+name: "Port Howard"
+location:
+  country_code: FK
+  latitude: -51.614
+  longitude: -59.521
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 7.5
+  depth: 6.9
+  categories:
+    culture: 8.2
+    history: 8.1
+    photography: 8.2

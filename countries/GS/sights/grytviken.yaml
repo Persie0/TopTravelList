@@ -1,0 +1,16 @@
+id: sight-gs-grytviken
+name: "Grytviken historic whaling station"
+location:
+  country_code: GS
+  latitude: -54.281
+  longitude: -36.509
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.0
+    photography: 9.1

@@ -7,7 +7,7 @@
 - [YAML](../../../countries/MV/cities/male.yaml) · Action: new · **editorial-only**.
 - Scope: Inhabited settlement itself, excluding remote attractions. GPS 4.1755, 73.5093: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Male has lower provisional uniqueness and lower depth (unusually concentrated island urban fabric; multiple urban sites but compact island).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Male has lower provisional uniqueness and lower depth (unusually concentrated island urban fabric; multiple urban sites but compact island).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Male has lower provisional uniqueness and lower depth (unusually concentrated island urban fabric; multiple urban sites but compact island).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Male has lower provisional uniqueness and lower depth (unusually concentrated island urban fabric; multiple urban sites but compact island).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded or regional reference; Male has higher provisional uniqueness and lower depth (unusually concentrated island urban fabric; multiple urban sites but compact island).
@@ -64,7 +64,7 @@
 - [YAML](../../../countries/MV/cities/hulhumale.yaml) · Action: new · **editorial-only**.
 - Scope: Inhabited settlement itself, excluding remote attractions. GPS 4.2190, 73.5440: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Hulhumale has lower provisional uniqueness and lower depth (reclaimed island urban development; multiple urban districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Hulhumale has lower provisional uniqueness and lower depth (reclaimed island urban development; multiple urban districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Hulhumale has lower provisional uniqueness and lower depth (reclaimed island urban development; multiple urban districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Hulhumale has lower provisional uniqueness and lower depth (reclaimed island urban development; multiple urban districts).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded or regional reference; Hulhumale has lower provisional uniqueness and lower depth (reclaimed island urban development; multiple urban districts).

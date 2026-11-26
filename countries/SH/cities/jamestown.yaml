@@ -1,0 +1,16 @@
+id: city-sh-jamestown
+name: "Jamestown (Saint Helena)"
+location:
+  country_code: SH
+  latitude: -15.925
+  longitude: -5.717
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.3
+  depth: 7.9
+  categories:
+    architecture: 8.6
+    history: 8.9
+    culture: 8.4

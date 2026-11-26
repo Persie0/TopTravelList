@@ -1,0 +1,17 @@
+id: sight-nf-kingston-arthurs-vale
+name: "Kingston and Arthur's Vale Historic Area"
+location:
+  country_code: NF
+  latitude: -29.056
+  longitude: 167.961
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 8.8
+    culture: 8.8
+    photography: 8.9

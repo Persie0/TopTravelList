@@ -1,0 +1,15 @@
+id: sight-cc-pulu-cocos-museum
+name: "Pulu Cocos Museum"
+location:
+  country_code: CC
+  latitude: -12.115
+  longitude: 96.896
+scores:
+  impact: 7.1
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 7.8
+  depth: 7.2
+  categories:
+    history: 8.8
+    culture: 8.7

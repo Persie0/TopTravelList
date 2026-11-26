@@ -1,0 +1,15 @@
+id: sight-sx-maho-beach
+name: "Maho Beach (lawful aircraft observation)"
+location:
+  country_code: SX
+  latitude: 18.039
+  longitude: -63.121
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 6.9
+  experience: 8.3
+  depth: 6.7
+  categories:
+    photography: 9.1
+    beaches: 7.6

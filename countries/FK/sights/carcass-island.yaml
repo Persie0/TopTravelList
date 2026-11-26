@@ -1,0 +1,16 @@
+id: sight-fk-carcass-island
+name: "Carcass Island (permitted wildlife walks)"
+location:
+  country_code: FK
+  latitude: -51.29
+  longitude: -60.563
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.7
+  categories:
+    wildlife: 9.1
+    nature: 9.0
+    photography: 8.9

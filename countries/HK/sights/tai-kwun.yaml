@@ -1,0 +1,16 @@
+id: sight-hk-tai-kwun
+name: "Tai Kwun Centre for Heritage and Arts"
+location:
+  country_code: HK
+  latitude: 22.2814
+  longitude: 114.1544
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 8.7
+    architecture: 8.7
+    culture: 8.8

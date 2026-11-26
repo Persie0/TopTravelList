@@ -1,0 +1,16 @@
+id: sight-bq-klein-bonaire
+name: "Klein Bonaire (permitted shore visitor area)"
+location:
+  country_code: BQ
+  latitude: 12.157
+  longitude: -68.31
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.7
+  depth: 7.8
+  categories:
+    beaches: 9.0
+    nature: 8.8
+    photography: 8.9

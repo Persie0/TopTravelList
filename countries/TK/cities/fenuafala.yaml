@@ -1,0 +1,15 @@
+id: city-tk-fenuafala
+name: "Fenuafala (Fakaofo)"
+location:
+  country_code: TK
+  latitude: -9.374
+  longitude: -171.263
+scores:
+  impact: null
+  uniqueness: 7.5
+  significance: 7.6
+  experience: null
+  depth: null
+  categories:
+    culture: 7.8
+    history: 7.6

@@ -1,0 +1,15 @@
+id: sight-pr-rio-camuy-cave-park
+name: "Río Camuy Cave Park"
+location:
+  country_code: PR
+  latitude: 18.345
+  longitude: -66.82
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.4
+  depth: 8.2
+  categories:
+    nature: 8.9
+    adventure: 8.7

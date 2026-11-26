@@ -1,0 +1,15 @@
+id: sight-pm-arche
+name: "L’Arche Museum and Archives"
+location:
+  country_code: PM
+  latitude: 46.78
+  longitude: -56.175
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.1
+  depth: 8.1
+  categories:
+    history: 8.8
+    culture: 8.6

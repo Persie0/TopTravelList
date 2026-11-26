@@ -1,0 +1,16 @@
+id: city-gi-gibraltar
+name: "Gibraltar"
+location:
+  country_code: GI
+  latitude: 36.1408
+  longitude: -5.3536
+scores:
+  impact: 8.2
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 8.7
+    history: 9.0
+    architecture: 8.4

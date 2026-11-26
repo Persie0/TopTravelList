@@ -34,4 +34,3 @@ These are dated revisions to the historical city audit, not a complete new revie
 - Approved 10 registry: none added.
 - Earlier decision: [Historical city calibration audit](../../city-calibration-audit.md).
 - Verification still needed: representative GPS and independently documented breadth of the actual visit; source coverage limitations above. Ratings remain editorial.
-

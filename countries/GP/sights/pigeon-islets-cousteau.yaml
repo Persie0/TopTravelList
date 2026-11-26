@@ -1,0 +1,16 @@
+id: sight-gp-pigeon-islets-cousteau
+name: "Pigeon Islets (Cousteau Reserve)"
+location:
+  country_code: GP
+  latitude: 16.171
+  longitude: -61.79
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 9.1

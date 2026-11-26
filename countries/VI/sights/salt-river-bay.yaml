@@ -1,0 +1,16 @@
+id: sight-vi-salt-river-bay
+name: "Salt River Bay National Historical Park and Ecological Preserve (Saint Croix)"
+location:
+  country_code: VI
+  latitude: 17.779
+  longitude: -64.758
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.4
+  depth: 8.5
+  categories:
+    nature: 8.9
+    history: 9.1
+    wildlife: 8.8

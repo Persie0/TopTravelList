@@ -1,0 +1,16 @@
+id: sight-bm-national-museum
+name: "National Museum of Bermuda (The Keep)"
+location:
+  country_code: BM
+  latitude: 32.328
+  longitude: -64.833
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.0
+    architecture: 8.8

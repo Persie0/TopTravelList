@@ -1,0 +1,16 @@
+id: sight-gs-elsehul
+name: "Elsehul Bay (authorized viewing)"
+location:
+  country_code: GS
+  latitude: -54.027
+  longitude: -37.98
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    photography: 9.1

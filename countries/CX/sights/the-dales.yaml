@@ -1,0 +1,16 @@
+id: sight-cx-the-dales
+name: "The Dales (Hughs Dale and Anderson Dale trails)"
+location:
+  country_code: CX
+  latitude: -10.467
+  longitude: 105.55
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.4
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 8.9
+    photography: 8.9

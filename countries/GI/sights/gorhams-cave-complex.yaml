@@ -1,0 +1,16 @@
+id: sight-gi-gorhams-cave-complex
+name: "Gorham’s Cave Complex (UNESCO heritage property)"
+location:
+  country_code: GI
+  latitude: 36.121
+  longitude: -5.341
+scores:
+  impact: 8.4
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 9.5
+    nature: 8.6
+    culture: 9.2

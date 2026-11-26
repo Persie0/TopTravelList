@@ -1,0 +1,17 @@
+id: sight-sh-peaks-national-park
+name: "Peaks National Park (Diana's Peak trails)"
+location:
+  country_code: SH
+  latitude: -15.958
+  longitude: -5.688
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.0
+    adventure: 8.7
+    photography: 9.1

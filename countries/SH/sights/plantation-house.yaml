@@ -1,0 +1,16 @@
+id: sight-sh-plantation-house
+name: "Plantation House and tortoise grounds"
+location:
+  country_code: SH
+  latitude: -15.962
+  longitude: -5.727
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.1
+  depth: 7.4
+  categories:
+    history: 8.8
+    architecture: 8.5
+    wildlife: 8.6

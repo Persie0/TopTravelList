@@ -1,0 +1,16 @@
+id: city-cx-flying-fish-cove
+name: "Flying Fish Cove (The Settlement)"
+location:
+  country_code: CX
+  latitude: -10.42133
+  longitude: 105.67441
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.0
+  experience: 8.0
+  depth: 7.3
+  categories:
+    culture: 8.5
+    history: 8.3
+    food: 8.0

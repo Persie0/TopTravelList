@@ -1,0 +1,15 @@
+id: city-nf-burnt-pine
+name: "Burnt Pine"
+location:
+  country_code: NF
+  latitude: -29.035
+  longitude: 167.955
+scores:
+  impact: 6.9
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 7.7
+  depth: 7.0
+  categories:
+    culture: 8.0
+    food: 7.7

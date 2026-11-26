@@ -1,0 +1,16 @@
+id: sight-im-groudle-railway
+name: "Groudle Glen Railway"
+location:
+  country_code: IM
+  latitude: 54.183
+  longitude: -4.44
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 8.4
+  depth: 7.8
+  categories:
+    history: 8.3
+    nature: 8.1
+    family: 8.5

@@ -262,26 +262,6 @@
 - Evidence: [Visit Finland](https://www.visitfinland.com/en/places-to-go/coast-and-archipelago/) — accessed 2026-11-25; preliminary context or identity reference; full claim-level corroboration pending.
 - Verification still needed: exact GPS, material claims and visitor access; narrower international peer selection where relevant.
 
-## city-fi-mariehamn — Mariehamn — 2026-11-25
-
-- [YAML](../../../countries/FI/cities/mariehamn.yaml) · Action: new · **source-linked-unverified**.
-- Precise subject: Mariehamn settlement, excluding external excursions.
-- Location: 60.097,19.935; approximate representative point, independent check pending.
-- Worldwide peers (I/U/S/E/D):
-- [Tallinn (EE)](../../../countries/EE/cities/tallinn.yaml) — 9 / 9 / 8.9 / 9.1 / 9; historic Baltic capital. Uniqueness lower (åland capital with distinct maritime identity); depth lower (town rather than entire åland).
-- [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) — 8 / 8.1 / 8.4 / 8.5 / 8.3; regional university city. Uniqueness similar (åland capital with distinct maritime identity); depth lower (town rather than entire åland).
-- [Hội An (VN)](../../../countries/VN/cities/hoi-an.yaml) — 9 / 9.3 / 9.1 / 9 / 8.7; intact trading town. Uniqueness lower (åland capital with distinct maritime identity); depth lower (town rather than entire åland).
-- [Graz (AT)](../../../countries/AT/cities/graz.yaml) — 8 / 7.9 / 8.2 / 8.2 / 7.9; regional cultural city. Uniqueness higher (åland capital with distinct maritime identity); depth lower (town rather than entire åland).
-- Impact 7.8: Harbour and leafy streets.
-- Uniqueness 8.1: Åland capital with distinct maritime identity.
-- Significance 8.1: Autonomous island civic and shipping history.
-- Experience 8.4: Museums and harbour walks.
-- Depth 7.8: Town rather than entire Åland.
-- Categories: history 8.5, culture 8.4, relaxation 8.6. Computed overall: 80.25/100.
-- High-score challenge: Not applicable. No approved 10.
-- Evidence: [Visit Finland](https://www.visitfinland.com/en/places-to-go/coast-and-archipelago/) — accessed 2026-11-25; preliminary context or identity reference; full claim-level corroboration pending.
-- Verification still needed: exact GPS, material claims and visitor access; narrower international peer selection where relevant.
-
 ## city-fi-saariselka — Saariselkä — 2026-11-25
 
 - [YAML](../../../countries/FI/cities/saariselka.yaml) · Action: new · **source-linked-unverified**.

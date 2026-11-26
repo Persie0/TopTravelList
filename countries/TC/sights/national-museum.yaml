@@ -1,0 +1,15 @@
+id: sight-tc-national-museum
+name: "Turks and Caicos National Museum (Grand Turk)"
+location:
+  country_code: TC
+  latitude: 21.467
+  longitude: -71.137
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 8.9
+    culture: 8.7

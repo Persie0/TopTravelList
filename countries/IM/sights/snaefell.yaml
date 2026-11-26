@@ -1,0 +1,16 @@
+id: sight-im-snaefell
+name: "Snaefell Mountain and Mountain Railway"
+location:
+  country_code: IM
+  latitude: 54.263
+  longitude: -4.462
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 8.8
+    photography: 8.9
+    adventure: 8.4

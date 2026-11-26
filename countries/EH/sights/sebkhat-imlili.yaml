@@ -1,0 +1,15 @@
+id: sight-eh-sebkhat-imlili
+name: "Sebkhat Imlili"
+location:
+  country_code: EH
+  latitude: 23.2333
+  longitude: -15.9167
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 8.9
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 8.7

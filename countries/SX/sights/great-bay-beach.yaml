@@ -1,0 +1,15 @@
+id: sight-sx-great-bay-beach
+name: "Great Bay Beach"
+location:
+  country_code: SX
+  latitude: 18.023
+  longitude: -63.046
+scores:
+  impact: 8.0
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 8.5
+  depth: 7.8
+  categories:
+    beaches: 8.4
+    relaxation: 8.3

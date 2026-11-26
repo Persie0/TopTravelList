@@ -1,0 +1,14 @@
+id: sight-bv-bouvet
+name: "Bouvet Island (Mid-Atlantic Ridge tentative component)"
+location:
+  country_code: BV
+  latitude: -54.4167
+  longitude: 3.3333
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.3

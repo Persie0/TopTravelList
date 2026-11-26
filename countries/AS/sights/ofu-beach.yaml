@@ -1,0 +1,17 @@
+id: sight-as-ofu-beach
+name: "Ofu Beach and fringing reef"
+location:
+  country_code: AS
+  latitude: -14.184
+  longitude: -169.654
+scores:
+  impact: 9.3
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.3
+  categories:
+    beaches: 9.4
+    nature: 9.1
+    wildlife: 8.9
+    photography: 9.3

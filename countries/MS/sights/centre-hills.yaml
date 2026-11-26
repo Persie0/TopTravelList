@@ -1,0 +1,16 @@
+id: sight-ms-centre-hills
+name: "Centre Hills forest trails"
+location:
+  country_code: MS
+  latitude: 16.767
+  longitude: -62.191
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.4
+  depth: 8.8
+  categories:
+    nature: 9.0
+    wildlife: 9.0
+    adventure: 8.7

@@ -2,7 +2,7 @@
 
 # Australia (AU) — Sights & attractions ranking
 
-**36 ranked** · **3 unassessed** · **39 total** · Worldwide scoring **v2**
+**36 ranked** · **2 unassessed** · **38 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -51,7 +51,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 35 | [Bondi Beach](sights/bondi-beach.yaml) | Beach / bay | **81.95** | **Beaches 9.0**, **Photography 8.7**, **Relaxation 8.7** | 8.5 / 8.0 / 7.6 / 8.9 / 7.9 | [-33.8915, 151.2767](https://www.google.com/maps/search/?api=1&query=-33.8915,151.2767) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bondi%20Beach%2C%20Australia) |
 | 36 | [Parramatta Female Factory and Institutions Precinct](sights/parramatta-female-factory.yaml) | Attraction | **80.50** | — | 7.5 / 8.5 / 8.9 / 7.7 / 7.4 | [-33.802814, 150.999944](https://www.google.com/maps/search/?api=1&query=-33.802814,150.999944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parramatta%20Female%20Factory%20and%20Institutions%20Precinct%2C%20Australia) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (2)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -59,7 +59,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Cultural Landscapes of Cape York Peninsula](sights/cape-york-cultural-landscapes.yaml) | Coast | **—** | — | 8.8 / 9.1 / 9.3 / — / — | [-15, 143.5](https://www.google.com/maps/search/?api=1&query=-15,143.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cultural%20Landscapes%20of%20Cape%20York%20Peninsula%2C%20Australia) |
 | — | [Gondwana Rainforests of Australia (proposed extension)](sights/gondwana-rainforests-extension.yaml) | Forest | **—** | — | 8.5 / 8.8 / 9.1 / — / — | [-30.070833, 152.302222](https://www.google.com/maps/search/?api=1&query=-30.070833,152.302222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gondwana%20Rainforests%20of%20Australia%20%28proposed%20extension%29%2C%20Australia) |
-| — | [Heard and McDonald Islands](sights/heard-mcdonald-islands.yaml) | Island | **—** | **Nature 9.2**, **Wildlife 9.1** | 8.9 / 9.3 / 9.2 / — / — | [-53.1, 73.5](https://www.google.com/maps/search/?api=1&query=-53.1,73.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heard%20and%20McDonald%20Islands%2C%20Australia) |
 
 ---
 

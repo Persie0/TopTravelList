@@ -1,0 +1,16 @@
+id: sight-gl-nuuk-fjord
+name: "Nuup Kangerlua (Nuuk Fjord)"
+location:
+  country_code: GL
+  latitude: 64.30
+  longitude: -51.0
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.0

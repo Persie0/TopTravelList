@@ -1,0 +1,16 @@
+id: sight-ax-maritime-museum
+name: "Åland Maritime Museum"
+location:
+  country_code: AX
+  latitude: 60.096944
+  longitude: 19.926389
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 8.9
+    culture: 8.6
+    family: 8.4

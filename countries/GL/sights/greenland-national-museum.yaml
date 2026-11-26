@@ -1,0 +1,15 @@
+id: sight-gl-greenland-national-museum
+name: "Greenland National Museum and Archives"
+location:
+  country_code: GL
+  latitude: 64.176
+  longitude: -51.737
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.6
+  depth: 8.4
+  categories:
+    history: 9.3
+    culture: 9.2

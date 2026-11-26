@@ -1,0 +1,15 @@
+id: sight-pm-miquelon-museum
+name: "Miquelon Museum and historic cemetery"
+location:
+  country_code: PM
+  latitude: 47.102
+  longitude: -56.378
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.0
+  depth: 7.9
+  categories:
+    culture: 8.6
+    history: 8.7

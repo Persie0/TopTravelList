@@ -1,0 +1,15 @@
+id: sight-aw-archaeological-museum
+name: "National Archaeological Museum Aruba"
+location:
+  country_code: AW
+  latitude: 12.521
+  longitude: -70.038
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 8.9
+    culture: 8.8

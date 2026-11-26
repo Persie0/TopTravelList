@@ -1,0 +1,15 @@
+id: city-gf-saul
+name: "Saül"
+location:
+  country_code: GF
+  latitude: 3.622
+  longitude: -53.208
+scores:
+  impact: 7.2
+  uniqueness: 8.8
+  significance: 7.4
+  experience: 7.5
+  depth: 6.8
+  categories:
+    culture: 7.9
+    relaxation: 7.8

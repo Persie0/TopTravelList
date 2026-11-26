@@ -1,0 +1,15 @@
+id: sight-sh-gough-inaccessible-islands
+name: "Gough and Inaccessible Islands (UNESCO property)"
+location:
+  country_code: SH
+  latitude: -40.325
+  longitude: -9.935
+scores:
+  impact: null
+  uniqueness: 9.4
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

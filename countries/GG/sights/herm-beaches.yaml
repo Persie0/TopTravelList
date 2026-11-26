@@ -1,0 +1,17 @@
+id: sight-gg-herm-beaches
+name: "Herm Shell Beach, Belvoir Bay and coastal paths"
+location:
+  country_code: GG
+  latitude: 49.474
+  longitude: -2.445
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    beaches: 9.0
+    nature: 8.6
+    relaxation: 8.9
+    photography: 8.8

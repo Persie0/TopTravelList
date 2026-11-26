@@ -1,0 +1,16 @@
+id: sight-nc-tjibaou-cultural-centre
+name: "Tjibaou Cultural Centre"
+location:
+  country_code: NC
+  latitude: -22.255
+  longitude: 166.481
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    culture: 9.2
+    history: 8.5

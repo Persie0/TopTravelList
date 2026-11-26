@@ -1,0 +1,17 @@
+id: sight-ck-muri-lagoon
+name: "Muri Beach and lagoon"
+location:
+  country_code: CK
+  latitude: -21.258
+  longitude: -159.731
+scores:
+  impact: 8.9
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.9
+  depth: 8.1
+  categories:
+    beaches: 9.0
+    nature: 8.5
+    relaxation: 8.9
+    photography: 8.8

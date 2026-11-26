@@ -1,0 +1,16 @@
+id: sight-ky-point-of-sand
+name: "Point of Sand (Little Cayman)"
+location:
+  country_code: KY
+  latitude: 19.684
+  longitude: -79.974
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 7.0
+  experience: 8.5
+  depth: 7.1
+  categories:
+    beaches: 8.9
+    photography: 8.8
+    relaxation: 8.7

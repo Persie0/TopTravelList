@@ -64,7 +64,7 @@
 - [YAML](../../../countries/UZ/cities/tashkent.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding outlying attractions. GPS 41.311, 69.28: provisional approximate point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Tashkent has lower provisional uniqueness and lower depth (Soviet Central Asian urban identity with local design; multiple districts and transit architecture).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Tashkent has lower provisional uniqueness and lower depth (Soviet Central Asian urban identity with local design; multiple districts and transit architecture).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Tashkent has lower provisional uniqueness and lower depth (Soviet Central Asian urban identity with local design; multiple districts and transit architecture).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Tashkent has equal provisional uniqueness and lower depth (Soviet Central Asian urban identity with local design; multiple districts and transit architecture).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Tashkent has higher provisional uniqueness and higher depth (Soviet Central Asian urban identity with local design; multiple districts and transit architecture).
@@ -159,7 +159,7 @@
 - [YAML](../../../countries/UZ/cities/nukus.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding outlying attractions. GPS 42.461, 59.616: provisional approximate point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Nukus has lower provisional uniqueness and lower depth (Karakalpak cultural capital; several venues, not surrounding desert).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Nukus has lower provisional uniqueness and lower depth (Karakalpak cultural capital; several venues, not surrounding desert).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Nukus has lower provisional uniqueness and lower depth (Karakalpak cultural capital; several venues, not surrounding desert).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Nukus has lower provisional uniqueness and lower depth (Karakalpak cultural capital; several venues, not surrounding desert).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Nukus has lower provisional uniqueness and lower depth (Karakalpak cultural capital; several venues, not surrounding desert).
@@ -216,7 +216,7 @@
 - [YAML](../../../countries/UZ/cities/fergana.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding outlying attractions. GPS 40.387, 71.786: provisional approximate point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Fergana has lower provisional uniqueness and lower depth (regional valley urban character; several urban districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Fergana has lower provisional uniqueness and lower depth (regional valley urban character; several urban districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Fergana has lower provisional uniqueness and lower depth (regional valley urban character; several urban districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Fergana has lower provisional uniqueness and lower depth (regional valley urban character; several urban districts).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Fergana has lower provisional uniqueness and lower depth (regional valley urban character; several urban districts).
@@ -235,7 +235,7 @@
 - [YAML](../../../countries/UZ/cities/andijan.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding outlying attractions. GPS 40.78, 72.34: provisional approximate point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Andijan has lower provisional uniqueness and lower depth (historic Fergana settlement; several urban districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Andijan has lower provisional uniqueness and lower depth (historic Fergana settlement; several urban districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Andijan has lower provisional uniqueness and lower depth (historic Fergana settlement; several urban districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Andijan has lower provisional uniqueness and lower depth (historic Fergana settlement; several urban districts).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Andijan has lower provisional uniqueness and lower depth (historic Fergana settlement; several urban districts).
@@ -254,7 +254,7 @@
 - [YAML](../../../countries/UZ/cities/namangan.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding outlying attractions. GPS 40.998, 71.672: provisional approximate point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Namangan has lower provisional uniqueness and lower depth (valley flower and craft traditions; several neighborhoods).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Namangan has lower provisional uniqueness and lower depth (valley flower and craft traditions; several neighborhoods).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Namangan has lower provisional uniqueness and lower depth (valley flower and craft traditions; several neighborhoods).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Namangan has lower provisional uniqueness and lower depth (valley flower and craft traditions; several neighborhoods).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Namangan has lower provisional uniqueness and lower depth (valley flower and craft traditions; several neighborhoods).
@@ -330,7 +330,7 @@
 - [YAML](../../../countries/UZ/cities/urgench.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, excluding outlying attractions. GPS 41.55, 60.631: provisional approximate point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Urgench has lower provisional uniqueness and lower depth (regional administrative hub; limited historic fabric).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Urgench has lower provisional uniqueness and lower depth (regional administrative hub; limited historic fabric).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Urgench has lower provisional uniqueness and lower depth (regional administrative hub; limited historic fabric).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Urgench has lower provisional uniqueness and lower depth (regional administrative hub; limited historic fabric).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Urgench has lower provisional uniqueness and lower depth (regional administrative hub; limited historic fabric).
@@ -349,7 +349,7 @@
 - [YAML](../../../countries/UZ/cities/navoi.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, excluding outlying attractions. GPS 40.103, 65.368: provisional approximate point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Navoi has lower provisional uniqueness and lower depth (regional industrial urban identity; outlying heritage excluded).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Navoi has lower provisional uniqueness and lower depth (regional industrial urban identity; outlying heritage excluded).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Navoi has lower provisional uniqueness and lower depth (regional industrial urban identity; outlying heritage excluded).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Navoi has lower provisional uniqueness and lower depth (regional industrial urban identity; outlying heritage excluded).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Navoi has lower provisional uniqueness and lower depth (regional industrial urban identity; outlying heritage excluded).

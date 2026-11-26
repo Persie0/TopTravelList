@@ -1,0 +1,15 @@
+id: sight-gg-alderney-railway
+name: "Alderney Railway"
+location:
+  country_code: GG
+  latitude: 49.724
+  longitude: -2.205
+scores:
+  impact: 7.8
+  uniqueness: 8.5
+  significance: 7.9
+  experience: 8.3
+  depth: 7.6
+  categories:
+    history: 8.4
+    family: 8.6

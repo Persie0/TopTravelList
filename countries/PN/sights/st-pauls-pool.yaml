@@ -1,0 +1,16 @@
+id: sight-pn-st-pauls-pool
+name: "St Paul's Pool"
+location:
+  country_code: PN
+  latitude: -25.075
+  longitude: -130.087
+scores:
+  impact: 8.5
+  uniqueness: 8.2
+  significance: 7.1
+  experience: 8.0
+  depth: 6.9
+  categories:
+    nature: 8.5
+    photography: 8.7
+    relaxation: 7.8

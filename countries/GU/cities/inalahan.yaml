@@ -1,0 +1,16 @@
+id: city-gu-inalahan
+name: "Inalåhan (Inarajan)"
+location:
+  country_code: GU
+  latitude: 13.274
+  longitude: 144.748
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 7.7
+  depth: 7.2
+  categories:
+    culture: 8.6
+    history: 8.6
+    architecture: 8.1

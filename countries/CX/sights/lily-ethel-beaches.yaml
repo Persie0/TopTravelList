@@ -1,0 +1,16 @@
+id: sight-cx-lily-ethel-beaches
+name: "Lily Beach and Ethel Beach coastal circuit"
+location:
+  country_code: CX
+  latitude: -10.46722
+  longitude: 105.71167
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.7
+  experience: 7.9
+  depth: 7.4
+  categories:
+    beaches: 8.3
+    nature: 8.2
+    photography: 8.6

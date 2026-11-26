@@ -1,0 +1,15 @@
+id: sight-sh-sandy-bay
+name: "Sandy Bay volcanic coast"
+location:
+  country_code: SH
+  latitude: -16.008
+  longitude: -5.708
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 7.9
+  depth: 7.5
+  categories:
+    nature: 8.7
+    photography: 8.9

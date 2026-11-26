@@ -1,0 +1,16 @@
+id: sight-cw-rif-mangrove-park
+name: "Curaçao Rif Mangrove Park"
+location:
+  country_code: CW
+  latitude: 12.108
+  longitude: -68.944
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.3
+  depth: 7.6
+  categories:
+    nature: 8.7
+    wildlife: 8.4
+    relaxation: 8.2

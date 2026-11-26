@@ -1,0 +1,16 @@
+id: sight-ky-booby-pond
+name: "Booby Pond Nature Reserve (Little Cayman)"
+location:
+  country_code: KY
+  latitude: 19.668
+  longitude: -80.085
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.3
+  depth: 7.8
+  categories:
+    nature: 9.0
+    wildlife: 9.2
+    photography: 8.7

@@ -1,0 +1,16 @@
+id: city-vi-frederiksted
+name: "Frederiksted (Saint Croix)"
+location:
+  country_code: VI
+  latitude: 17.712
+  longitude: -64.882
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.1
+  depth: 7.7
+  categories:
+    history: 8.9
+    culture: 8.5
+    architecture: 8.3

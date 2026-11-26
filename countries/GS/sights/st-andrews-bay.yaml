@@ -1,0 +1,16 @@
+id: sight-gs-st-andrews-bay
+name: "St Andrews Bay (authorized wildlife viewing)"
+location:
+  country_code: GS
+  latitude: -54.436
+  longitude: -36.181
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.4

@@ -1,0 +1,15 @@
+id: sight-aq-taylor-valley
+name: "Taylor Valley (designated visitor zone)"
+location:
+  country_code: AQ
+  latitude: -77.626389
+  longitude: 163.056944
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.3
+  depth: 7.5
+  categories:
+    nature: 9.3
+    photography: 9.1

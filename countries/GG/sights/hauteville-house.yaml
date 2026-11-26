@@ -1,0 +1,16 @@
+id: sight-gg-hauteville-house
+name: "Hauteville House and Victor Hugo garden"
+location:
+  country_code: GG
+  latitude: 49.451
+  longitude: -2.538
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.5
+  depth: 8.4
+  categories:
+    culture: 9.2
+    history: 9.1
+    architecture: 8.7

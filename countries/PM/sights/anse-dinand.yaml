@@ -1,0 +1,16 @@
+id: sight-pm-anse-dinand
+name: "Anse à Dinand nature trail"
+location:
+  country_code: PM
+  latitude: 46.768
+  longitude: -56.221
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.1
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 8.6
+    photography: 8.5
+    wildlife: 8.2

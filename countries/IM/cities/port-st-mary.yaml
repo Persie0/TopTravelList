@@ -1,0 +1,16 @@
+id: city-im-port-st-mary
+name: "Port St Mary"
+location:
+  country_code: IM
+  latitude: 54.075
+  longitude: -4.738
+scores:
+  impact: 7.8
+  uniqueness: 7.7
+  significance: 7.4
+  experience: 8.0
+  depth: 7.2
+  categories:
+    photography: 8.2
+    relaxation: 8.2
+    food: 7.8

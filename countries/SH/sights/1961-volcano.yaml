@@ -1,0 +1,16 @@
+id: sight-sh-1961-volcano
+name: "1961 volcano trail (Tristan da Cunha)"
+location:
+  country_code: SH
+  latitude: -37.065
+  longitude: -12.303
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.2
+  depth: 7.5
+  categories:
+    nature: 8.5
+    history: 8.9
+    adventure: 8.3

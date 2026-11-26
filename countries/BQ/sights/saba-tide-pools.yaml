@@ -1,0 +1,15 @@
+id: sight-bq-saba-tide-pools
+name: "Flat Point Tide Pools (Saba)"
+location:
+  country_code: BQ
+  latitude: 17.647
+  longitude: -63.218
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 8.1
+  depth: 7.2
+  categories:
+    nature: 8.5
+    photography: 8.7

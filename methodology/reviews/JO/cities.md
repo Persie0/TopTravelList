@@ -64,7 +64,7 @@ Worldwide v2 · 2026-11-25. Individual provisional editorial assessments, not ve
 - [YAML](../../../countries/JO/cities/aqaba.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, not remote attractions. GPS 29.5321, 35.0063: approximate editorial representative point; independent GPS check pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; provisional lower uniqueness and lower depth: Jordanian port character, offshore reserve excluded.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; provisional lower uniqueness and lower depth: Jordanian port character, offshore reserve excluded.
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); related comparison; provisional lower uniqueness and lower depth: Jordanian port character, offshore reserve excluded.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related comparison; provisional lower uniqueness and lower depth: Jordanian port character, offshore reserve excluded.
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded or regional reference; provisional lower uniqueness and lower depth: Jordanian port character, offshore reserve excluded.

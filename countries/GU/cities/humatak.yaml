@@ -1,0 +1,16 @@
+id: city-gu-humatak
+name: "Humåtak (Umatac)"
+location:
+  country_code: GU
+  latitude: 13.2984
+  longitude: 144.6631
+scores:
+  impact: 7.9
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 7.4
+  depth: 6.8
+  categories:
+    history: 8.6
+    culture: 8.3
+    photography: 8.3

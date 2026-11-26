@@ -34,4 +34,3 @@ These are dated revisions to the historical city audit, not a complete new revie
 - Approved 10 registry: none added.
 - Earlier decision: [Historical city guide](../../city-scoring-guide.md) and [reference ladder](../../city-comparison-benchmarks.md); historical numbers retained as snapshots.
 - Verification still needed: representative GPS and independently documented breadth of the actual visit; source coverage limitations above. Ratings remain editorial.
-

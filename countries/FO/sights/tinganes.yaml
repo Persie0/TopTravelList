@@ -1,0 +1,16 @@
+id: sight-fo-tinganes
+name: "Tinganes"
+location:
+  country_code: FO
+  latitude: 62.008
+  longitude: -6.768
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 9.0
+    architecture: 8.5
+    culture: 8.5

@@ -1,0 +1,15 @@
+id: sight-im-nautical-museum
+name: "Nautical Museum and Peggy maritime heritage"
+location:
+  country_code: IM
+  latitude: 54.074
+  longitude: -4.651
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.1
+  depth: 7.9
+  categories:
+    history: 8.8
+    culture: 8.5

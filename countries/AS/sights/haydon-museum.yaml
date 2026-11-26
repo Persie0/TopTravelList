@@ -1,0 +1,16 @@
+id: sight-as-haydon-museum
+name: "Jean P. Haydon Museum"
+location:
+  country_code: AS
+  latitude: -14.281
+  longitude: -170.692
+scores:
+  impact: 7.5
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.1
+  depth: 7.7
+  categories:
+    history: 8.8
+    culture: 8.9
+    architecture: 7.8

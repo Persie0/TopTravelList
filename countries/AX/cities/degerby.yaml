@@ -1,0 +1,16 @@
+id: city-ax-degerby
+name: "Degerby (Föglö)"
+location:
+  country_code: AX
+  latitude: 60.03
+  longitude: 20.389
+scores:
+  impact: 7.2
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 7.6
+  depth: 6.9
+  categories:
+    history: 7.9
+    culture: 7.7
+    relaxation: 8.0

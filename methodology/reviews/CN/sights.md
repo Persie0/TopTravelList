@@ -32,4 +32,3 @@ Dated corrections to historical audit; this does not claim a new review of every
 - Approved 10 registry: no new 10; remove uniqueness, significance, architecture, history for this ID.
 - Earlier decision: [Historical individual audit](../../sight-review-2026-full-audit.md).
 - Verification still needed: exact GPS and independently documented breadth of the visit. The numerical judgment remains editorial.
-

@@ -1,0 +1,16 @@
+id: sight-gg-seigneurie
+name: "La Seigneurie Gardens"
+location:
+  country_code: GG
+  latitude: 49.439
+  longitude: -2.365
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.4
+  depth: 8.0
+  categories:
+    culture: 8.4
+    photography: 8.6
+    relaxation: 8.5

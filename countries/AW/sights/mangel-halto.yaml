@@ -1,0 +1,16 @@
+id: sight-aw-mangel-halto
+name: "Mangel Halto"
+location:
+  country_code: AW
+  latitude: 12.471
+  longitude: -69.973
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 8.8
+    wildlife: 8.5
+    beaches: 8.6

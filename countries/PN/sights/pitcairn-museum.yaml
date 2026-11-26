@@ -1,0 +1,15 @@
+id: sight-pn-pitcairn-museum
+name: "Pitcairn Island Museum"
+location:
+  country_code: PN
+  latitude: -25.066
+  longitude: -130.101
+scores:
+  impact: 7.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.0
+  depth: 7.4
+  categories:
+    history: 9.0
+    culture: 8.7

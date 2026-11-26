@@ -1,0 +1,15 @@
+id: sight-vi-fort-christian
+name: "Fort Christian (Saint Thomas)"
+location:
+  country_code: VI
+  latitude: 18.34
+  longitude: -64.931
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.2
+  depth: 7.6
+  categories:
+    history: 9.0
+    architecture: 8.7

@@ -1,0 +1,16 @@
+id: sight-mp-house-of-taga
+name: "House of Taga (Tinian)"
+location:
+  country_code: MP
+  latitude: 14.966
+  longitude: 145.624
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 9.2
+    culture: 9.1
+    architecture: 8.6

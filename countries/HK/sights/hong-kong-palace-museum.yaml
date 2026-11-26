@@ -1,0 +1,16 @@
+id: sight-hk-hong-kong-palace-museum
+name: "Hong Kong Palace Museum"
+location:
+  country_code: HK
+  latitude: 22.302
+  longitude: 114.155
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.2
+  depth: 8.9
+  categories:
+    architecture: 8.5
+    culture: 8.5
+    history: 8.1

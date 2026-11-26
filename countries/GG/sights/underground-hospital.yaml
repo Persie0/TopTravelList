@@ -1,0 +1,15 @@
+id: sight-gg-underground-hospital
+name: "German Underground Hospital"
+location:
+  country_code: GG
+  latitude: 49.441
+  longitude: -2.576
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.0
+  depth: 8.1
+  categories:
+    history: 8.9
+    architecture: 8.4

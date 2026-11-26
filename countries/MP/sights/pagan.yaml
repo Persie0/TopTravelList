@@ -1,0 +1,14 @@
+id: sight-mp-pagan
+name: "Pagan Island (volcanic heritage)"
+location:
+  country_code: MP
+  latitude: 18.1
+  longitude: 145.77
+scores:
+  impact: null
+  uniqueness: 9.1
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.1

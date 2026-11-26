@@ -1,0 +1,15 @@
+id: sight-pr-laguna-grande
+name: "Laguna Grande Bioluminescent Lagoon"
+location:
+  country_code: PR
+  latitude: 18.379
+  longitude: -65.622
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 8.7
+  depth: 7.5
+  categories:
+    nature: 8.9
+    adventure: 8.8

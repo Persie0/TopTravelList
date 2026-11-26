@@ -1,0 +1,15 @@
+id: city-gl-sisimiut
+name: "Sisimiut"
+location:
+  country_code: GL
+  latitude: 66.9395
+  longitude: -53.6735
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.2
+  depth: 7.7
+  categories:
+    culture: 8.6
+    history: 8.2

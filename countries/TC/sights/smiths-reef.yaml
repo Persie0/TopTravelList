@@ -1,0 +1,16 @@
+id: sight-tc-smiths-reef
+name: "Smith's Reef (Providenciales)"
+location:
+  country_code: TC
+  latitude: 21.789
+  longitude: -72.238
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.5
+  depth: 7.7
+  categories:
+    nature: 8.5
+    wildlife: 8.6
+    adventure: 8.5

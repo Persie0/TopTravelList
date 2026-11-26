@@ -1,0 +1,15 @@
+id: sight-eh-aftissate-boujdour-coast
+name: "Aftissate–Boujdour Coast"
+location:
+  country_code: EH
+  latitude: 25.4833
+  longitude: -14.35
+scores:
+  impact: null
+  uniqueness: 8.4
+  significance: 8.7
+  experience: null
+  depth: null
+  categories:
+    nature: 8.7
+    wildlife: 8.8

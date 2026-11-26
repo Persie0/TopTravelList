@@ -1,0 +1,16 @@
+id: sight-vg-rms-rhone
+name: "RMS Rhone Marine National Park (permitted wreck dives)"
+location:
+  country_code: VG
+  latitude: 18.367
+  longitude: -64.535
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 8.5
+  categories:
+    history: 9.2
+    adventure: 9.1
+    nature: 8.5

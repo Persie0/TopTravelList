@@ -1,0 +1,16 @@
+id: sight-nu-matapa-chasm
+name: "Matapa Chasm"
+location:
+  country_code: NU
+  latitude: -18.961
+  longitude: -169.885
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 7.9
+  categories:
+    nature: 8.9
+    photography: 8.9
+    adventure: 8.5

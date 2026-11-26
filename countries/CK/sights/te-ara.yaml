@@ -1,0 +1,15 @@
+id: sight-ck-te-ara
+name: "Te Ara Museum of Cultural Enterprise"
+location:
+  country_code: CK
+  latitude: -21.258
+  longitude: -159.735
+scores:
+  impact: 7.7
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.2
+  depth: 8.0
+  categories:
+    culture: 8.7
+    history: 8.5

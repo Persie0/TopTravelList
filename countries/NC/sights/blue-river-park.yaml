@@ -1,0 +1,16 @@
+id: sight-nc-blue-river-park
+name: "Blue River Provincial Park"
+location:
+  country_code: NC
+  latitude: -22.105
+  longitude: 166.672
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 8.8

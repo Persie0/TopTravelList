@@ -1,0 +1,16 @@
+id: sight-mf-anse-marcel
+name: "Anse Marcel Beach"
+location:
+  country_code: MF
+  latitude: 18.112
+  longitude: -63.039
+scores:
+  impact: 8.4
+  uniqueness: 8.0
+  significance: 6.8
+  experience: 8.4
+  depth: 7.2
+  categories:
+    beaches: 8.7
+    relaxation: 8.6
+    photography: 8.5

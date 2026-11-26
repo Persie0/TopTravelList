@@ -1,0 +1,15 @@
+id: sight-pm-musee-heritage
+name: "Musée Héritage"
+location:
+  country_code: PM
+  latitude: 46.779
+  longitude: -56.177
+scores:
+  impact: 7.9
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 8.7
+    culture: 8.7

@@ -1,0 +1,16 @@
+id: sight-vi-fort-frederik
+name: "Fort Frederik (Saint Croix)"
+location:
+  country_code: VI
+  latitude: 17.714
+  longitude: -64.883
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 9.1
+  experience: 8.3
+  depth: 7.7
+  categories:
+    history: 9.3
+    architecture: 8.6
+    culture: 8.7

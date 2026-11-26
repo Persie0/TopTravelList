@@ -1,0 +1,15 @@
+id: city-gp-basse-terre
+name: "Basse-Terre"
+location:
+  country_code: GP
+  latitude: 15.997
+  longitude: -61.731
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 8.0
+  experience: 7.7
+  depth: 7.4
+  categories:
+    history: 8.4
+    culture: 8.1

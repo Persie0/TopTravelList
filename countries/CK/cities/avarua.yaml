@@ -1,0 +1,16 @@
+id: city-ck-avarua
+name: "Avarua (Rarotonga)"
+location:
+  country_code: CK
+  latitude: -21.207
+  longitude: -159.774
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.5
+  depth: 8.2
+  categories:
+    culture: 8.6
+    food: 8.5
+    history: 8.2

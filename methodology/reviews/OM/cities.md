@@ -7,7 +7,7 @@
 - [YAML](../../../countries/OM/cities/muscat.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately scored outlying attractions. GPS 23.588, 58.383: approximate editorial point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Muscat has lower provisional uniqueness and lower depth (distinct low-rise capital and maritime districts; multiple urban districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Muscat has lower provisional uniqueness and lower depth (distinct low-rise capital and maritime districts; multiple urban districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Muscat has lower provisional uniqueness and lower depth (distinct low-rise capital and maritime districts; multiple urban districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Muscat has higher provisional uniqueness and lower depth (distinct low-rise capital and maritime districts; multiple urban districts).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Muscat has higher provisional uniqueness and higher depth (distinct low-rise capital and maritime districts; multiple urban districts).
@@ -45,7 +45,7 @@
 - [YAML](../../../countries/OM/cities/salalah.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately scored outlying attractions. GPS 17.019, 54.089: approximate editorial point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Salalah has lower provisional uniqueness and lower depth (Dhofari urban identity; outlying monsoon mountains excluded).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Salalah has lower provisional uniqueness and lower depth (Dhofari urban identity; outlying monsoon mountains excluded).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Salalah has lower provisional uniqueness and lower depth (Dhofari urban identity; outlying monsoon mountains excluded).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Salalah has lower provisional uniqueness and lower depth (Dhofari urban identity; outlying monsoon mountains excluded).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Salalah has lower provisional uniqueness and lower depth (Dhofari urban identity; outlying monsoon mountains excluded).
@@ -235,7 +235,7 @@
 - [YAML](../../../countries/OM/cities/sohar.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding separately scored outlying attractions. GPS 24.347, 56.709: approximate editorial point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Sohar has lower provisional uniqueness and lower depth (historic port identity; modern districts dominate).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Sohar has lower provisional uniqueness and lower depth (historic port identity; modern districts dominate).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Sohar has lower provisional uniqueness and lower depth (historic port identity; modern districts dominate).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Sohar has lower provisional uniqueness and lower depth (historic port identity; modern districts dominate).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Sohar has lower provisional uniqueness and lower depth (historic port identity; modern districts dominate).

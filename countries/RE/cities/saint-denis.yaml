@@ -1,0 +1,16 @@
+id: city-re-saint-denis
+name: "Saint-Denis"
+location:
+  country_code: RE
+  latitude: -20.8789
+  longitude: 55.4481
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.1
+  depth: 8.0
+  categories:
+    architecture: 8.3
+    culture: 8.5
+    food: 8.3

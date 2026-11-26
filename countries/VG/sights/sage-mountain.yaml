@@ -1,0 +1,16 @@
+id: sight-vg-sage-mountain
+name: "Sage Mountain National Park (Tortola)"
+location:
+  country_code: VG
+  latitude: 18.402
+  longitude: -64.659
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 8.9
+    adventure: 8.7
+    photography: 8.7

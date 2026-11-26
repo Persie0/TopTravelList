@@ -1,0 +1,16 @@
+id: sight-ms-rendezvous-bay
+name: "Rendezvous Bay beach and approach trail"
+location:
+  country_code: MS
+  latitude: 16.813
+  longitude: -62.204
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 7.2
+  experience: 8.6
+  depth: 7.6
+  categories:
+    beaches: 8.8
+    photography: 8.7
+    relaxation: 8.6

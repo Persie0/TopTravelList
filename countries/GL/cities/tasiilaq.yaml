@@ -1,0 +1,15 @@
+id: city-gl-tasiilaq
+name: "Tasiilaq"
+location:
+  country_code: GL
+  latitude: 65.6145
+  longitude: -37.6368
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.1
+  depth: 7.4
+  categories:
+    culture: 8.7
+    photography: 8.7

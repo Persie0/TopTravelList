@@ -1,0 +1,16 @@
+id: sight-cc-oceania-house
+name: "Oceania House historic residence"
+location:
+  country_code: CC
+  latitude: -12.1209
+  longitude: 96.89405
+scores:
+  impact: 7.8
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.1
+  depth: 7.5
+  categories:
+    history: 8.9
+    architecture: 8.4
+    culture: 8.6

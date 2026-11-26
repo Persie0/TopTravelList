@@ -1,0 +1,16 @@
+id: sight-pr-cabo-rojo-salt-flats
+name: "Cabo Rojo Salt Flats"
+location:
+  country_code: PR
+  latitude: 17.966
+  longitude: -67.181
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 7.9
+  depth: 7.4
+  categories:
+    nature: 8.4
+    wildlife: 8.5
+    photography: 8.6

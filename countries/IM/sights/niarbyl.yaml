@@ -1,0 +1,15 @@
+id: sight-im-niarbyl
+name: "Niarbyl Bay and coastal landscape"
+location:
+  country_code: IM
+  latitude: 54.158
+  longitude: -4.742
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 8.7
+    photography: 8.9

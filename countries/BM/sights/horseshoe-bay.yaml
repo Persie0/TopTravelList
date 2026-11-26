@@ -1,0 +1,16 @@
+id: sight-bm-horseshoe-bay
+name: "Horseshoe Bay Beach"
+location:
+  country_code: BM
+  latitude: 32.252
+  longitude: -64.823
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 7.3
+  experience: 8.9
+  depth: 7.6
+  categories:
+    beaches: 9.3
+    photography: 9.1
+    relaxation: 9.0

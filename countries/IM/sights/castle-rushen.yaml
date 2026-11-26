@@ -1,0 +1,16 @@
+id: sight-im-castle-rushen
+name: "Castle Rushen"
+location:
+  country_code: IM
+  latitude: 54.074
+  longitude: -4.653
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.1
+    architecture: 9.0
+    photography: 8.9

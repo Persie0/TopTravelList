@@ -1,0 +1,15 @@
+id: city-fk-goose-green
+name: "Goose Green"
+location:
+  country_code: FK
+  latitude: -51.827
+  longitude: -58.968
+scores:
+  impact: 7.1
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.5
+  depth: 7.0
+  categories:
+    history: 8.6
+    culture: 8.0

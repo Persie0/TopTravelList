@@ -1,0 +1,16 @@
+id: sight-mp-bird-island
+name: "Bird Island Overlook (Saipan)"
+location:
+  country_code: MP
+  latitude: 15.258
+  longitude: 145.81
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.3
+  depth: 7.4
+  categories:
+    nature: 8.8
+    wildlife: 8.6
+    photography: 9.0

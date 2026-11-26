@@ -1,0 +1,16 @@
+id: city-vi-christiansted
+name: "Christiansted (Saint Croix)"
+location:
+  country_code: VI
+  latitude: 17.747
+  longitude: -64.704
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.3
+  depth: 8.1
+  categories:
+    history: 8.9
+    architecture: 8.8
+    culture: 8.5

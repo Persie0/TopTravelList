@@ -1,0 +1,16 @@
+id: sight-sh-longwood-house
+name: "Longwood House"
+location:
+  country_code: SH
+  latitude: -15.95
+  longitude: -5.68
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.5
+  depth: 8.2
+  categories:
+    history: 9.4
+    culture: 8.9
+    architecture: 8.4

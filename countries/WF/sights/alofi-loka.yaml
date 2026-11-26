@@ -1,0 +1,17 @@
+id: sight-wf-alofi-loka
+name: "Alofi beach, forest and sacred Loka Cave"
+location:
+  country_code: WF
+  latitude: -14.35
+  longitude: -178.02
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.2
+  depth: 8.6
+  categories:
+    nature: 9.0
+    history: 8.6
+    culture: 8.7
+    adventure: 8.7

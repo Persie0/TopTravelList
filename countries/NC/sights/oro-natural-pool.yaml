@@ -1,0 +1,16 @@
+id: sight-nc-oro-natural-pool
+name: "Oro Natural Pool"
+location:
+  country_code: NC
+  latitude: -22.586
+  longitude: 167.488
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 9.1
+  depth: 7.8
+  categories:
+    nature: 9.1
+    photography: 9.2
+    beaches: 8.8

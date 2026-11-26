@@ -1,0 +1,16 @@
+id: sight-je-central-market
+name: "Central Market and Beresford Street Fish Market"
+location:
+  country_code: JE
+  latitude: 49.185
+  longitude: -2.105
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 8.5
+  depth: 7.6
+  categories:
+    food: 8.6
+    architecture: 8.2
+    culture: 8.3

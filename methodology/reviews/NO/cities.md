@@ -322,26 +322,6 @@
 - Evidence: No site-specific source checked.
 - Verification still needed: exact GPS, material claim corroboration and ordinary permitted access; narrower field-specific peer comparisons and current score rechecks.
 
-## city-no-longyearbyen — Longyearbyen — 2026-11-25
-
-- [YAML](../../../countries/NO/cities/longyearbyen.yaml) · Action: new · **editorial-only**.
-- Precise subject: Longyearbyen settlement excluding external excursions.
-- Location: 78.223,15.647; approximate representative point; independent GPS check pending.
-- Worldwide peers (I/U/S/E/D):
-- [Tallinn (EE)](../../../countries/EE/cities/tallinn.yaml) — 9 / 9 / 8.9 / 9.1 / 9; Baltic maritime capital. Uniqueness similar (unusual high-arctic inhabited town); depth lower (exclude wilderness outside settlement).
-- [Tartu (EE)](../../../countries/EE/cities/tartu.yaml) — 8 / 8.1 / 8.4 / 8.5 / 8.3; regional university city. Uniqueness higher (unusual high-arctic inhabited town); depth lower (exclude wilderness outside settlement).
-- [Hội An (VN)](../../../countries/VN/cities/hoi-an.yaml) — 9 / 9.3 / 9.1 / 9 / 8.7; historic merchant town. Uniqueness lower (unusual high-arctic inhabited town); depth lower (exclude wilderness outside settlement).
-- [Graz (AT)](../../../countries/AT/cities/graz.yaml) — 8 / 7.9 / 8.2 / 8.2 / 7.9; regional city. Uniqueness higher (unusual high-arctic inhabited town); depth lower (exclude wilderness outside settlement).
-- Impact 7.9: Arctic settlement and mining structures.
-- Uniqueness 9.0: Unusual high-Arctic inhabited town.
-- Significance 8.3: Polar mining and research heritage.
-- Experience 8.0: Local museum and urban walks.
-- Depth 7.8: Exclude wilderness outside settlement.
-- Categories: history 8.7, culture 8.6, photography 8.7. Computed overall: 82.60/100.
-- High-score challenge: Not applicable. No approved 10.
-- Evidence: No site-specific source checked.
-- Verification still needed: exact GPS, material claim corroboration and ordinary permitted access; narrower field-specific peer comparisons and current score rechecks.
-
 ## city-no-andalsnes — Åndalsnes — 2026-11-25
 
 - [YAML](../../../countries/NO/cities/andalsnes.yaml) · Action: new · **source-linked-unverified**.
@@ -405,6 +385,6 @@
 ## Follow-up: subject-specific source coverage — 2026-11-25
 
 - [fredrikstad](../../../countries/NO/cities/fredrikstad.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://www.visitnorway.com/places-to-go/eastern-norway/fredrikstad/) — Fortified old town, galleries and craft shops; excludes Hvaler islands. Existing score remains provisional; exact GPS and all material claims are not independently verified.
-- [longyearbyen](../../../countries/NO/cities/longyearbyen.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://en.visitsvalbard.com/visitor-information/destinations/longyearbyen) — Mining-town heritage and town visitor circuit, not wider polar excursions. Existing score remains provisional; exact GPS and all material claims are not independently verified.
+- [longyearbyen](../../../countries/SJ/cities/longyearbyen.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://en.visitsvalbard.com/visitor-information/destinations/longyearbyen) — Mining-town heritage and town visitor circuit, not wider polar excursions. Existing score remains provisional; exact GPS and all material claims are not independently verified.
 - [alta](../../../countries/NO/cities/alta.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://www.visitnorway.com/places-to-go/northern-norway/alta/) — Town heritage, cathedral and museums; no wilderness inherited. Existing score remains provisional; exact GPS and all material claims are not independently verified.
 - [hammerfest](../../../countries/NO/cities/hammerfest.yaml): **source-linked-unverified** supersedes editorial-only. [Operator or official tourism source](https://www.visitnorway.com/places-to-go/northern-norway/hammerfest/) — Port settlement and local historical attractions; excludes external excursions. Existing score remains provisional; exact GPS and all material claims are not independently verified.

@@ -1,0 +1,15 @@
+id: sight-eh-oued-seguia-el-hamra-wetland
+name: "Oued Seguia el-Hamra Wetland"
+location:
+  country_code: EH
+  latitude: 27.1771
+  longitude: -13.2665
+scores:
+  impact: null
+  uniqueness: 8.0
+  significance: 8.4
+  experience: null
+  depth: null
+  categories:
+    nature: 8.3
+    wildlife: 8.5

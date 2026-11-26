@@ -1,0 +1,15 @@
+id: sight-pr-la-parguera-bio-bay
+name: "La Parguera Bioluminescent Bay"
+location:
+  country_code: PR
+  latitude: 17.959
+  longitude: -67.052
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.6
+  depth: 7.4
+  categories:
+    nature: 8.7
+    adventure: 8.7

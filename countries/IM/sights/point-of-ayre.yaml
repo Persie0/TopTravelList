@@ -1,0 +1,16 @@
+id: sight-im-point-of-ayre
+name: "Point of Ayre coastal nature landscape"
+location:
+  country_code: IM
+  latitude: 54.417
+  longitude: -4.368
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.3
+  depth: 8.0
+  categories:
+    nature: 8.6
+    wildlife: 8.5
+    photography: 8.7

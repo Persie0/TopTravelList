@@ -1,0 +1,16 @@
+id: sight-gg-alderney-seabirds
+name: "Alderney seabird colonies (Burhou, Les Etacs and Ortac)"
+location:
+  country_code: GG
+  latitude: 49.727
+  longitude: -2.254
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.3
+  depth: 8.3
+  categories:
+    wildlife: 9.2
+    nature: 9.0
+    photography: 8.9

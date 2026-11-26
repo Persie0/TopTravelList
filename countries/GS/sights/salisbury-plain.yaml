@@ -1,0 +1,16 @@
+id: sight-gs-salisbury-plain
+name: "Salisbury Plain (authorized wildlife viewing)"
+location:
+  country_code: GS
+  latitude: -54.056
+  longitude: -37.343
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 8.7
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.4

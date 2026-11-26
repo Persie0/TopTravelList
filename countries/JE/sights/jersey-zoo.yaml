@@ -1,0 +1,16 @@
+id: sight-je-jersey-zoo
+name: "Jersey Zoo and Durrell conservation centre"
+location:
+  country_code: JE
+  latitude: 49.23
+  longitude: -2.073
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    wildlife: 9.0
+    family: 9.0
+    nature: 8.5

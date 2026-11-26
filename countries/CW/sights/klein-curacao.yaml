@@ -1,0 +1,16 @@
+id: sight-cw-klein-curacao
+name: "Klein Curaçao (permitted island visitor area)"
+location:
+  country_code: CW
+  latitude: 11.984
+  longitude: -68.646
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.8
+  depth: 8.2
+  categories:
+    beaches: 9.2
+    nature: 8.9
+    photography: 9.1

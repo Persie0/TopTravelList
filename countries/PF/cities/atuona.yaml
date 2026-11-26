@@ -1,0 +1,15 @@
+id: city-pf-atuona
+name: "Atuona"
+location:
+  country_code: PF
+  latitude: -9.80373
+  longitude: -139.04257
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 8.3
+  experience: 7.9
+  depth: 7.2
+  categories:
+    culture: 8.6
+    history: 8.4

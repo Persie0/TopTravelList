@@ -1,0 +1,16 @@
+id: sight-tc-flamingo-pond
+name: "Flamingo Pond Overlook (North Caicos)"
+location:
+  country_code: TC
+  latitude: 21.89
+  longitude: -71.96
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 7.8
+  depth: 6.9
+  categories:
+    nature: 8.6
+    wildlife: 8.8
+    photography: 8.5

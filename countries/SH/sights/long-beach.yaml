@@ -1,0 +1,16 @@
+id: sight-sh-long-beach
+name: "Long Beach green turtle nesting reserve (Ascension)"
+location:
+  country_code: SH
+  latitude: -7.934
+  longitude: -14.414
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.5
+  depth: 7.8
+  categories:
+    wildlife: 9.3
+    nature: 8.8
+    photography: 8.6

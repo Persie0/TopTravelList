@@ -1,0 +1,16 @@
+id: city-fo-kirkjubour
+name: "Kirkjubøur"
+location:
+  country_code: FO
+  latitude: 61.956
+  longitude: -6.793
+scores:
+  impact: 7.8
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 7.8
+  depth: 7.4
+  categories:
+    history: 8.8
+    culture: 8.3
+    architecture: 8.1

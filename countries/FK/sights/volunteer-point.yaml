@@ -1,0 +1,16 @@
+id: sight-fk-volunteer-point
+name: "Volunteer Point (permitted wildlife viewing)"
+location:
+  country_code: FK
+  latitude: -51.494
+  longitude: -57.839
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.0
+  depth: 8.5
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.4

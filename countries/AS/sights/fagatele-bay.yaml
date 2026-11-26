@@ -1,0 +1,16 @@
+id: sight-as-fagatele-bay
+name: "Fagatele Bay marine sanctuary"
+location:
+  country_code: AS
+  latitude: -14.365
+  longitude: -170.766
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.3
+  depth: 8.2
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    photography: 8.9

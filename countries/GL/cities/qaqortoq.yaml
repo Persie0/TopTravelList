@@ -1,0 +1,16 @@
+id: city-gl-qaqortoq
+name: "Qaqortoq"
+location:
+  country_code: GL
+  latitude: 60.7184
+  longitude: -46.0356
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.2
+  depth: 7.5
+  categories:
+    culture: 8.4
+    architecture: 8.0
+    photography: 8.5

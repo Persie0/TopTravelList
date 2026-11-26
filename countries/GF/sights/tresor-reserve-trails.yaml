@@ -1,0 +1,16 @@
+id: sight-gf-tresor-reserve-trails
+name: "Trésor Nature Reserve (public trails)"
+location:
+  country_code: GF
+  latitude: 4.61
+  longitude: -52.28
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 9.0
+    wildlife: 8.8
+    adventure: 8.3

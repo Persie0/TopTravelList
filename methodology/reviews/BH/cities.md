@@ -7,7 +7,7 @@
 - [YAML](../../../countries/BH/cities/manama.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, not remote sights. GPS 26.2235, 50.5876: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Manama has lower provisional uniqueness and lower depth (maritime multicultural urban character; several distinct urban districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Manama has lower provisional uniqueness and lower depth (maritime multicultural urban character; several distinct urban districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Manama has lower provisional uniqueness and lower depth (maritime multicultural urban character; several distinct urban districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Manama has lower provisional uniqueness and lower depth (maritime multicultural urban character; several distinct urban districts).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded regional reference; Manama has equal provisional uniqueness and equal depth (maritime multicultural urban character; several distinct urban districts).
@@ -83,7 +83,7 @@
 - [YAML](../../../countries/BH/cities/hamad-town.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, not remote sights. GPS 26.1130, 50.5120: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Hamad Town has lower provisional uniqueness and lower depth (modern settlement layout; burial fields excluded).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Hamad Town has lower provisional uniqueness and lower depth (modern settlement layout; burial fields excluded).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Hamad Town has lower provisional uniqueness and lower depth (modern settlement layout; burial fields excluded).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Hamad Town has lower provisional uniqueness and lower depth (modern settlement layout; burial fields excluded).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded regional reference; Hamad Town has lower provisional uniqueness and lower depth (modern settlement layout; burial fields excluded).
@@ -102,7 +102,7 @@
 - [YAML](../../../countries/BH/cities/isa-town.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, not remote sights. GPS 26.1730, 50.5480: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Isa Town has lower provisional uniqueness and lower depth (local trading character; limited dedicated attractions).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Isa Town has lower provisional uniqueness and lower depth (local trading character; limited dedicated attractions).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Isa Town has lower provisional uniqueness and lower depth (local trading character; limited dedicated attractions).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Isa Town has lower provisional uniqueness and lower depth (local trading character; limited dedicated attractions).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded regional reference; Isa Town has lower provisional uniqueness and lower depth (local trading character; limited dedicated attractions).
@@ -216,7 +216,7 @@
 - [YAML](../../../countries/BH/cities/sitra.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, not remote sights. GPS 26.1530, 50.6270: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Sitra has lower provisional uniqueness and lower depth (industrial maritime settlement; limited visitor attractions).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Sitra has lower provisional uniqueness and lower depth (industrial maritime settlement; limited visitor attractions).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Sitra has lower provisional uniqueness and lower depth (industrial maritime settlement; limited visitor attractions).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Sitra has lower provisional uniqueness and lower depth (industrial maritime settlement; limited visitor attractions).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded regional reference; Sitra has lower provisional uniqueness and lower depth (industrial maritime settlement; limited visitor attractions).

@@ -1,0 +1,15 @@
+id: sight-je-strongpoint-plemont
+name: "Strongpoint Plémont heritage site"
+location:
+  country_code: JE
+  latitude: 49.257
+  longitude: -2.229
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 7.8
+  depth: 7.6
+  categories:
+    history: 8.6
+    architecture: 8.1

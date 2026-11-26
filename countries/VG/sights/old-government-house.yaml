@@ -1,0 +1,16 @@
+id: sight-vg-old-government-house
+name: "Old Government House Museum (Road Town)"
+location:
+  country_code: VG
+  latitude: 18.42
+  longitude: -64.617
+scores:
+  impact: 7.6
+  uniqueness: 8.0
+  significance: 8.3
+  experience: 8.0
+  depth: 7.3
+  categories:
+    history: 8.6
+    culture: 8.3
+    architecture: 8.2

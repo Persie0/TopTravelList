@@ -1,0 +1,16 @@
+id: sight-mp-american-memorial-park
+name: "American Memorial Park (Saipan)"
+location:
+  country_code: MP
+  latitude: 15.216
+  longitude: 145.719
+scores:
+  impact: 7.8
+  uniqueness: 8.3
+  significance: 9.0
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 9.2
+    culture: 8.6
+    relaxation: 8.1

@@ -1,0 +1,17 @@
+id: sight-hk-victoria-harbour
+name: "Victoria Harbour"
+location:
+  country_code: HK
+  latitude: 22.293
+  longitude: 114.173
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.6
+  depth: 9.0
+  categories:
+    photography: 9.9
+    architecture: 8.5
+    history: 8.5
+    nightlife: 8.5

@@ -1,0 +1,15 @@
+id: sight-eh-white-dune
+name: "White Dune (Dune Blanche)"
+location:
+  country_code: EH
+  latitude: 23.822
+  longitude: -15.74476
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.2
+  experience: 8.3
+  depth: 6.8
+  categories:
+    nature: 8.6
+    photography: 9.0
