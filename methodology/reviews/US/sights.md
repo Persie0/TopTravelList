@@ -3931,3 +3931,39 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial rating; earlier decision: none.
 - Verification still needed: independent corroboration and current visitor access checks.
+
+## sight-us-national-gallery-of-art-washington — National Gallery of Art (Washington, DC) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-gallery-of-art-washington.yaml)
+- Action: new
+- Precise subject: One institution comprising West and East Buildings and Sculpture Garden; excludes other National Mall museums. Representative GPS at West Building.
+- Location check: 38.89132, -77.01991; [published representative point](https://mapcarta.com/20625146), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Historic art, modern and contemporary collections, two distinct gallery buildings and sculpture garden. [Reference 1](https://www.nga.gov/visit); [Reference 2](https://washington.org/visit-dc/national-gallery-of-art-washington-dc); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has greater encyclopedic and archaeological breadth. |
+| [GB/national-gallery](../../../countries/GB/sights/national-gallery.yaml) | London's old-master concentration contrasts with Washington's modern wing. |
+| [ES/prado](../../../countries/ES/sights/prado.yaml) | Prado has deeper Spanish old-master specialization. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | Washington has broader historic-to-modern gallery scope. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Strong art and contrasting gallery architecture provide visual impact. |
+| Uniqueness | 9.1 | Historic and modern collections across distinct buildings make a coherent broad experience. |
+| Significance | 9.3 | Important international fine-art holdings, below encyclopedic global leaders. |
+| Experience | 9.2 | Gallery variety and garden support rewarding visits. |
+| Depth | 9.4 | Two buildings and garden create substantial exploration depth. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:8.8.
+- Computed worldwide overall: 91.85/100.
+- High-score challenge: Above 90 based on the particular significance, impact and experience explained above; comparison with broader worldwide leaders limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

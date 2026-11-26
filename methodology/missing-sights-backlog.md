@@ -247,3 +247,15 @@ Six additions; 24 peer comparisons; published representative locations and prima
 - [x] ES — Thyssen-Bornemisza National Museum: 90.55/100 (source-linked-unverified).
 
 Five additions, 20 peer comparisons. Exhibition sources and representative map coordinates inspected; separate scopes for Neues Museum and Museum Island, and main Albertina only. Documentation centre generic inferred type pending classification overhaul. Existing ratings unchanged. Full Python validation and diagnostics remain pending. Next: Accademia Florence, Royal Palace Madrid, National Gallery of Art Washington, Royal Ontario Museum and major Australian museums.
+
+
+### Pass 26 — Major European, North American and Australian institutions
+
+- [x] IT — Accademia Gallery (Florence): 91.95/100 (source-linked-unverified).
+- [x] ES — Royal Palace of Madrid: 91.35/100 (source-linked-unverified).
+- [x] US — National Gallery of Art (Washington, DC): 91.85/100 (source-linked-unverified).
+- [x] CA — Royal Ontario Museum: 91.65/100 (source-linked-unverified).
+- [x] AU — National Gallery of Victoria (NGV International): 89.70/100 (source-linked-unverified).
+- [x] AU — Australian War Memorial: 91.05/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons. Visitor descriptions and representative map points inspected; NGV International excludes Ian Potter Centre, Washington gallery includes its two buildings and garden, Madrid palace excludes Royal Collections Gallery. Australian War Memorial redevelopment noted. Existing ratings unchanged. Full Python validation and diagnostics remain pending. Next: MONA, Ian Potter Centre, National Gallery of Australia, Art Gallery of Ontario and Frida Kahlo Museum.

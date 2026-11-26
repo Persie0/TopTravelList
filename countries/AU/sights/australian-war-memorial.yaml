@@ -1,0 +1,16 @@
+id: sight-au-australian-war-memorial
+name: "Australian War Memorial"
+location:
+  country_code: AU
+  latitude: -35.28096
+  longitude: 149.14863
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.1
+    architecture: 8.7

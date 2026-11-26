@@ -4071,3 +4071,39 @@
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-es-royal-palace-madrid — Royal Palace of Madrid — 2026-11-26
+
+- YAML: [source](../../../countries/ES/sights/royal-palace-madrid.yaml)
+- Action: new
+- Precise subject: Palace interior and immediate ceremonial setting; excludes separately ticketed Royal Collections Gallery.
+- Location check: 40.41674, -3.71362; [published representative point](https://mapcarta.com/24855836), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Royal ceremonial functions and public visitor routes through historic palace interiors; capacity restrictions may apply. [Reference 1](https://www.patrimonionacional.es/en/visita/royal-palace-madrid); [Reference 2](https://www.esmadrid.com/en/tourist-information/royal-palace); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/versailles](../../../countries/FR/sights/versailles.yaml) | Versailles has broader landscape and greater architectural influence. |
+| [AT/schoenbrunn-palace](../../../countries/AT/sights/schoenbrunn-palace.yaml) | Schönbrunn includes wider gardens and imperial residential scope. |
+| [TR/dolmabahce-palace](../../../countries/TR/sights/dolmabahce-palace.yaml) | Similar ceremonial interior merit but different royal tradition. |
+| [GB/buckingham-palace](../../../countries/GB/sights/buckingham-palace.yaml) | Madrid offers a substantial historic interior visit; both have official functions. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Monumental interiors and ceremonial architecture make a strong visual encounter. |
+| Uniqueness | 9.0 | Spanish royal decorative traditions are distinctive but have imperial parallels. |
+| Significance | 9.3 | Royal institutional history and collections have international significance. |
+| Experience | 9.1 | Historic rooms and interpretive visits reward exploration. |
+| Depth | 9.0 | Multiple rooms provide depth, without adding the separate gallery. |
+
+- Applicable categories: architecture:9.4, history:9.4, culture:9.1, photography:8.8.
+- Computed worldwide overall: 91.35/100.
+- High-score challenge: Above 90 based on the particular significance, impact and experience explained above; comparison with broader worldwide leaders limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

@@ -4772,3 +4772,39 @@
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-it-accademia-gallery-florence — Accademia Gallery (Florence) — 2026-11-26
+
+- YAML: [source](../../../countries/IT/sights/accademia-gallery-florence.yaml)
+- Action: new
+- Precise subject: Individual Florence museum; excludes the Uffizi and the wider historic centre.
+- Location check: 43.77692, 11.25876; [published representative point](https://mapcarta.com/36020978), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Michelangelo's David and other sculptures, Florentine gold-ground painting and plaster casts. [Reference 1](https://www.galleriaaccademiafirenze.it/en/); [Reference 2](https://tour.florence.it/florence/what-to-see/details/galleria-dell-accademia-david-di-michelangelo); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Much broader collection and historical range. |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | Uffizi has greater painting breadth; Accademia has a distinctive sculpture focus. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | Both anchor a focused visit around internationally consequential art, in different periods. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | Albertina has wider exhibition variety; Accademia has a more singular Renaissance anchor. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | The monumental original David provides exceptional artistic impact. |
+| Uniqueness | 9.4 | The original sculpture and accompanying Michelangelo works are difficult to substitute. |
+| Significance | 9.4 | Renaissance sculpture and painting have major international importance. |
+| Experience | 8.9 | Focused sculpture galleries provide a meaningful encounter. |
+| Depth | 8.4 | Smaller collection scope than encyclopedic art museums limits breadth. |
+
+- Applicable categories: culture:9.4, history:9.3, photography:8.4.
+- Computed worldwide overall: 91.95/100.
+- High-score challenge: Above 90 based on the particular significance, impact and experience explained above; comparison with broader worldwide leaders limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

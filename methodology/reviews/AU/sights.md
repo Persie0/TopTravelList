@@ -2260,3 +2260,75 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access checks.
+
+## sight-au-ngv-international — National Gallery of Victoria (NGV International) — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/ngv-international.yaml)
+- Action: new
+- Precise subject: St Kilda Road international-art campus only; excludes Ian Potter Centre at Federation Square.
+- Location check: -37.82272, 144.96867; [published representative point](https://mapcarta.com/W23764181), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: International collections encompass painting, sculpture, design, textiles and Asian, European, American and Oceanic art. [Reference 1](https://www.ngv.vic.gov.au/explore/collection/international-art/); [Reference 2](https://www.ngv.vic.gov.au/plan-your-visit/?promo=1759); [Reference 3](https://www.visitmelbourne.com/regions/melbourne/see-and-do/art-and-culture/art-galleries/ngv-international.aspx); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has much greater archaeological and historical breadth. |
+| [GB/victoria-albert](../../../countries/GB/sights/victoria-albert.yaml) | V&A has deeper decorative arts specialization. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | Thyssen concentrates on Western painting; NGV adds wider media and regions. |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | NGV has broader historical art; M+ emphasizes contemporary visual culture. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Strong cross-cultural displays and gallery architecture create memorable encounters. |
+| Uniqueness | 8.9 | International art and design collection is distinctive regionally but comparable globally. |
+| Significance | 9.0 | Major Australian cultural institution with significant international holdings. |
+| Experience | 9.1 | Wide collection and exhibition variety support a rewarding visit. |
+| Depth | 9.1 | Multiple collections and levels provide depth within this campus. |
+
+- Applicable categories: culture:9.3, history:8.8, architecture:8.7.
+- Computed worldwide overall: 89.70/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-au-australian-war-memorial — Australian War Memorial — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/australian-war-memorial.yaml)
+- Action: new
+- Precise subject: Canberra memorial, commemorative spaces and museum galleries; excludes separate Anzac Parade memorials.
+- Location check: -35.28096, 149.14863; [published representative point](https://mapcarta.com/36303334), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Commemorative spaces and galleries interpret Australian service across major conflicts; gallery redevelopment can affect access. [Reference 1](https://www.awm.gov.au/visit/galleries); [Reference 2](https://www.awm.gov.au/visit/tours); [Reference 3](https://www.awm.gov.au/ourcontinuingstory); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | Comparable national military history with different conflict focus. |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | Comparable meaningful national-history interpretation but broader social focus. |
+| [DE/topography-of-terror](../../../countries/DE/sights/topography-of-terror.yaml) | Berlin concentrates on documentation of Nazi persecution; Canberra covers wider service history. |
+| [KR/seodaemun-prison-history-hall](../../../countries/KR/sights/seodaemun-prison-history-hall.yaml) | Seodaemun has a more bounded authentic historic-site experience. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Commemoration and historical interpretation create solemn emotional impact. |
+| Uniqueness | 9.1 | Combination of national shrine and extensive historical museum is distinctive. |
+| Significance | 9.3 | Australian participation in international conflicts has major historical significance. |
+| Experience | 9.0 | Reflective memorial and interpretive galleries reward a meaningful visit. |
+| Depth | 9.2 | Multiple conflict galleries support substantial depth; unfinished expansions are not counted. |
+
+- Applicable categories: history:9.4, culture:9.1, architecture:8.7.
+- Computed worldwide overall: 91.05/100.
+- High-score challenge: Above 90 based on the particular significance, impact and experience explained above; comparison with broader worldwide leaders limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

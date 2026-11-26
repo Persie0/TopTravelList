@@ -2193,3 +2193,39 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access.
+
+## sight-ca-royal-ontario-museum — Royal Ontario Museum — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/royal-ontario-museum.yaml)
+- Action: new
+- Precise subject: Main Toronto museum including cultural and natural-history galleries; excludes separate city walking tours.
+- Location check: 43.66771, -79.39469; [published representative point](https://mapcarta.com/25576818), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Museum combines fossils, dinosaurs, biodiversity, First Peoples collections and world cultures; dinosaur gallery expanded in 2025. [Reference 1](https://www.rom.on.ca/whats-on/galleries); [Reference 2](https://www.rom.on.ca/whats-on/galleries/james-and-louise-temerty-galleries-age-dinosaurs); [Reference 3](https://www.rom.on.ca/about-rom); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | New York has greater concentration on natural-history spectacle. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | Met has stronger encyclopedic art holdings; ROM adds natural science. |
+| [DE/neues-museum](../../../countries/DE/sights/neues-museum.yaml) | Berlin has concentrated archaeology; ROM has much wider subject range. |
+| [HK/hong-kong-palace-museum](../../../countries/HK/sights/hong-kong-palace-museum.yaml) | ROM has a broader scientific and cultural remit. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Large fossils and diverse cultural artifacts provide strong impact. |
+| Uniqueness | 9.1 | Natural history combined with world culture is distinctive, though comparable museums exist. |
+| Significance | 9.2 | Scientific and cultural collections have substantial international importance. |
+| Experience | 9.2 | Varied galleries reward families and specialist visitors. |
+| Depth | 9.4 | Extensive natural and cultural exhibitions support lengthy exploration. |
+
+- Applicable categories: nature:9.3, history:9.2, culture:9.2, family:9.2.
+- Computed worldwide overall: 91.65/100.
+- High-score challenge: Above 90 based on the particular significance, impact and experience explained above; comparison with broader worldwide leaders limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
