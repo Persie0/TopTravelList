@@ -5,6 +5,8 @@
 - Scope: initial, non-exhaustive inventory. Each entry is an editorial judgment; source links were inspected for the stated identity or limited material facts, not score endorsements. Source-linked-unverified is used conservatively where the visitor experience, location triangulation or other material facts remain incomplete. No current-access guarantee.
 - Peer comparisons are qualitative; the current YAML of Salzburg, Vienna, Bangkok, Koh Ker Village, Railay, Cheow Lan, Tonle Sap and Son Doong was consulted; other named peers are qualitative comparators, not claims of retrieved current scores.
 
+- Current per-ID decisions below incorporate the latest follow-up; superseded text and original sources are retained in [review history](history-evidence-followup-2026-11-25.md).
+
 ## city-nr-yaren — Yaren — 2026-11-25
 
 - YAML: [source](../../../countries/NR/cities/yaren.yaml)
@@ -22,6 +24,16 @@
 - Vienna (Austria): much broader civic history and museums
 - Bangkok (Thailand): much greater diversity of street and cultural experiences
 - Koh Ker Village (Cambodia): stronger heritage environment despite modest settlement scale
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -58,6 +70,16 @@
 - Kampot (Cambodia): more varied town streets and food
 - Bangkok (Thailand): far broader city activities
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -93,6 +115,16 @@
 - Salzburg (Austria): far stronger architecture
 - Bangkok (Thailand): more cultural breadth
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -126,6 +158,16 @@
 - Salzburg (Austria): heritage town benchmark
 - Koh Ker Village (Cambodia): documented small-settlement context
 - Kampot (Cambodia): ordinary town-life comparator
+
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -162,6 +204,16 @@
 - Koh Ker Village (Cambodia): settlement-scale heritage comparator
 - Kampot (Cambodia): modest-town visitor range comparator
 
+#### Current YAML benchmark calibration (2026-11-25)
+
+Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain; these actual YAML checks are editorial comparisons, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; global historic-city benchmark with much greater architectural and visitor breadth.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; small waterfront town with broader food and heritage experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; larger coastal town with more independent public activities.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; modest commercial coastal settlement with established food experiences.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; small settlement with stronger archaeological setting and interpretation.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -179,38 +231,44 @@
 - Earlier decision: none.
 - Verification still needed: Conflicting district labels and insufficient visitor evidence; retain locality rather than duplicate district score.
 
-## city-nr-anibare — Anibare — 2026-11-25
+## city-nr-anibare — Anibare — 2026-11-25 (evidence follow-up)
 
 - YAML: [source](../../../countries/NR/cities/anibare.yaml)
-- Action: new
-- Precise subject: Locality only; the bay and cliffs are separately scoped.
-- Location check: representative WGS84 -0.52792, 166.95249; see sources below. Not an entrance.
-- Evidence status: unassessed
-- Checked factual reference excerpts (accessed 2026-11-25):
-  - Geodatos identifies the locality — https://www.geodatos.net/en/coordinates/nauru/anibare
-  - Mapcarta separates locality and bay — https://mapcarta.com/16566570
-- Missing or uncertain facts: Do not transfer coastal scenery into a settlement total.
+- Action: rescore
+- Precise subject: Anibare named coastal settlement and its district's community boat harbour; excludes the separately ranked bay and offshore boat excursions. District-to-settlement exact boundaries remain provisional.
+- Location check: retain approximate existing representative point; independent corroboration outstanding.
+- Evidence status: source-linked-unverified
+- Factual references consulted (2026-11-25):
+  - Nauru Tourism Corporation describes the community harbour in Anibare and local recreational use: https://nauru-ed1661.webflow.io/experience (direct page).
+  - Pacific Tourism Organisation independently promotes local harbour experiences: https://southpacificislands.travel/discover/exploring-nauru-your-travel-guide-to-one-of-the-least-visited-destinations/ (indexed excerpt).
+  - SPREP climate hazards report describes community harbour and fish sales; adjacent fish market is disused: https://nauru-data.sprep.org/system/files/Nauru%20climate%20hazards%20report_FINAL_June%20revision.pdf (indexed excerpt).
+- Missing or uncertain facts: Exact settlement boundary and harbour linkage, current safe lawful harbour use and representative coordinate need confirmation.
 
 ### Worldwide peer comparisons
-- Koh Ker Village (Cambodia): stronger documented village heritage
-- Kampot (Cambodia): broader town visit
-- Salzburg (Austria): high urban ensemble benchmark
-- Vienna (Austria): global cultural ceiling
+- [Kampot](../../../countries/KH/cities/kampot.yaml) (KH), 7.6/7.9/7.5/8.3/7.9: far greater built and culinary heritage.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) (VN), 7.2/7.5/7.3/7.8/7.9: much larger urban and waterfront experience.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) (MY), 6.5/6.8/6.5/7.2/6.7: comparable modest coastal community with more documented dining.
+- [Menen](../../../countries/NR/cities/menen.yaml) (NR), 5.4/5.8/4.8/5.5/4.4: nearby local comparator with less documented distinct community activity.
+
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia), 7.2/8.0/8.3/7.8/6.9: stronger documented historic settlement context and visitor interpretation; no transfer of adjacent attraction scores.
 
 ### Scoring decisions
-| Field | New rating | Individual justification |
-| --- | ---: | --- |
-| Impact | null | Built setting insufficiently documented |
-| Uniqueness | null | Locality-specific distinction unresolved |
-| Significance | null | Locality-specific heritage undocumented |
-| Experience | null | Public settlement activities unconfirmed |
-| Depth | null | No evidence of multi-stop experience |
+| Field | Before | New rating | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | null | 6.3 | Modest coastal built setting; exclude separately rated bay scenery. |
+| Uniqueness | null | 6.7 | Working harbour and local fishing culture provide modest distinctiveness. |
+| Significance | null | 5.9 | Local economic and community role, not global heritage. |
+| Experience | null | 6.8 | Documented harbour visit and local community setting support focused exploration; no assumed active fish market or unrestricted swimming. |
+| Depth | null | 5.3 | Few independent local visitor sites beyond the harbour. |
 
-- Applicable category scores: none assessed
-- Overall: unranked.
-- High-score challenge: not applicable (no 9.5+ or 90+ fields/totals).
+- Applicable category scores: culture 6.8, photography 6.9; provisional.
+- Overall: 62.95/100
+- High-score challenge: no 9.5+ fields or 90+ total.
 - Approved 10 registry: none.
-- Final decision: Retain in the inventory without a rank until evidence supports all five fields.
-- Earlier decision: none.
-- Verification still needed: Do not transfer coastal scenery into a settlement total.
+- Final decision: provisional worldwide v2 rating using actual branch YAML peers.
+- Earlier decision: incomplete profile. See [prior decision and sources](history-evidence-followup-2026-11-25.md).
+- Verification still needed: Exact settlement boundary and harbour linkage, current safe lawful harbour use and representative coordinate need confirmation. Canonical validation outstanding.
 
+## 2026-11-25 — Arijejen and Yangor follow-up
+
+The 2021 census-based gazetteer (https://www.geo-ref.net/pdf/nauru.pdf, indexed excerpt) distinguishes Arijejen as the district centre of Denigomodu and Yangor as the centre of Aiwo. General Aiwo industrial heritage and Nauru ring-road visits (https://visitingoceania.com/destinations/nauru/, indexed excerpt) do not establish exact settlement-specific activities. Retain all nulls for both; exact district/settlement boundaries and visitor scope need verification.

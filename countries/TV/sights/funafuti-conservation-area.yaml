@@ -2,14 +2,14 @@ id: sight-tv-funafuti-conservation-area
 name: "Funafuti Conservation Area"
 location:
   country_code: TV
-  latitude: -8.53
-  longitude: 179.09
+  latitude: -8.54396
+  longitude: 179.04717
 scores:
   impact: 8.3
   uniqueness: 8.4
   significance: 8.7
   experience: 7.8
-  depth: 7.3
+  depth: 7.0
   categories:
     nature: 8.8
     wildlife: 8.4

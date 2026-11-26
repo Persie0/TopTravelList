@@ -6,8 +6,9 @@ location:
   longitude: 176.11515
 scores:
   impact: null
-  uniqueness: null
-  significance: null
+  uniqueness: 7.1
+  significance: 6.6
   experience: null
   depth: null
-  categories: {}
+  categories:
+    culture: 7.2
