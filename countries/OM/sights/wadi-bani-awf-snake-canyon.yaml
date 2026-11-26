@@ -1,0 +1,16 @@
+id: sight-om-wadi-bani-awf-snake-canyon
+name: "Wadi Bani Awf and Snake Canyon"
+location:
+  country_code: OM
+  latitude: 23.21
+  longitude: 57.3865
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.1
+    adventure: 9.3
+    photography: 9.2

@@ -467,3 +467,15 @@ Eight additions and 32 peer comparisons matched to current ranked rows. UAE 70 r
 - [x] OM — Balad Sayt Village: 84.50/100 (source-linked-unverified).
 
 Five additions, 20 peer comparisons matched to current ranked rows. UAE 73 ranked / 83 total; current high-value screen closed with explicit access deferrals (Al Ain Palace Museum, Ras Al Khor, Burj Al Arab interior). Burj Al Arab exterior independently scoped, no hotel visit assumed during restoration. Khor Al Beidah mapped lagoon coordinate selected instead of inconsistent KBA metadata; access and coordinates require further corroboration. UAE prior federal and emirate tourism screens resolved; reopen for concrete substantial omissions only. Oman 61 ranked / 62 total; two mountain villages added, remaining concrete candidates include Wadi Bani Awf / Snake Canyon and other official destination highlights. Existing unassessed records and ratings unchanged. Full Python validation and individual peer YAML checks pending.
+
+### Pass 44 — Oman natural and living heritage highlights
+
+- [x] OM — Wadi Bani Awf and Snake Canyon: 87.25/100 (source-linked-unverified).
+- [x] OM — Wadi Al Arbeieen: 83.80/100 (source-linked-unverified).
+- [x] OM — Bandar Khayran Bay: 86.60/100 (source-linked-unverified).
+- [x] OM — Shaat Viewpoint: 82.35/100 (source-linked-unverified).
+- [x] OM — Tawi Atayr Sinkhole: 81.90/100 (source-linked-unverified).
+- [x] OM — Fazayah Beach: 81.55/100 (source-linked-unverified).
+- [x] OM — Bait Al Safah Museum: 82.60/100 (source-linked-unverified).
+
+Seven additions and 28 peer comparisons matched to ranked rows. Oman 68 ranked / 69 total; one existing unassessed unchanged. Wadi Bani Awf and Snake Canyon combined to avoid duplication, excludes Balad Sayt. Bandar Khayran point is bay, not launch; Shaat and Tawi Atayr limited to safe designated viewing; Bait Al Safah direct source returned 502, search excerpt used. Oman remains OPEN for bounded check of substantial candidates including Wakan Village, Wadi Bani Kharus, and Museum of the Frankincense Land (check overlap with Al Baleed). [Official destination directory](https://experienceoman.om/destinations). Full Python validation and individual peer YAML checks pending.

@@ -1217,3 +1217,269 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-om-wadi-bani-awf-snake-canyon — Wadi Bani Awf and Snake Canyon — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/wadi-bani-awf-snake-canyon.yaml)
+- Action: new
+- Precise subject and limitations: Mountain valley and connected canyon experience; includes Snake Gorge rather than duplicating it, excludes Balad Sayt village heritage. Technical canyoning requires appropriate guide, equipment and weather checks. Published representative point is not a route entrance. Further context: https://www.omanobserver.om/ampArticle/60240.
+- Location check: 23.21, 57.3865; [published representative point](https://openoman.com/places/snake-gorge/), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://ironman.experienceoman.om/ar/closedtour/pro/43054095/pkg-33767348-1); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/wadi-shab](../../../countries/OM/sights/wadi-shab.yaml) | 9.2 / 8.9 / 7.8 / 9.1 / 8.2 | Comparable water-filled canyon with easier conventional visit. |
+| [OM/jebel-shams-and-wadi-ghul-canyon](../../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) | 9.5 / 9.2 / 8.5 / 9.1 / 8.9 | Much larger canyon panorama. |
+| [AE/jebel-jais-mountain-landscape](../../../countries/AE/sights/jebel-jais-mountain-landscape.yaml) | 8.9 / 8.5 / 7.5 / 8.9 / 8.6 | Different mountain road and hiking scope. |
+| [NZ/hooker-valley-track](../../../countries/NZ/sights/hooker-valley-track.yaml) | 9.2 / 8.5 / 8.1 / 9.2 / 8.3 | Different alpine walking experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic narrow gorge and mountain scenery. |
+| Uniqueness | 8.9 | Distinct canyoning and rugged valley landscape. |
+| Significance | 8.0 | Regional geological and recreational significance. |
+| Experience | 8.8 | Varied adventure experience with technical restrictions. |
+| Depth | 8.8 | Extended valley and gorge exploration. |
+
+- Applicable categories: nature:9.1, adventure:9.3, photography:9.2.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-wadi-al-arbeieen — Wadi Al Arbeieen — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/wadi-al-arbeieen.yaml)
+- Action: new
+- Precise subject and limitations: Eastern Hajar wadi pools and mountain scenery; excludes neighboring Wadi Dima Wa Tayeen and Bimmah. Waterfall and pool visit documented by https://www.walkmyworld.com/posts/wadi-al-arbeieen. Flash flood, road conditions and safe access vary.
+- Location check: 23.03609, 59.01657; [published representative point](https://mapcarta.com/N4754484941), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://ironman.experienceoman.om/en/closedtour/pro/43054056/pkg-33767340-1); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/wadi-shab](../../../countries/OM/sights/wadi-shab.yaml) | 9.2 / 8.9 / 7.8 / 9.1 / 8.2 | Greater concentrated gorge experience. |
+| [OM/wadi-tiwi](../../../countries/OM/sights/wadi-tiwi.yaml) | 8.7 / 8.5 / 7.6 / 8.5 / 8.1 | More cultivated valley character. |
+| [OM/wadi-bani-khalid](../../../countries/OM/sights/wadi-bani-khalid.yaml) | 8.7 / 8.2 / 7.4 / 8.8 / 7.8 | More accessible pools. |
+| [AE/hatta-dam](../../../countries/AE/sights/hatta-dam.yaml) | 8.1 / 7.6 / 5.9 / 8.3 / 7.2 | Artificial reservoir rather than natural wadi. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Striking rock walls and pools. |
+| Uniqueness | 8.5 | Distinct rugged valley but comparable Omani wadis. |
+| Significance | 7.5 | Regional natural interest. |
+| Experience | 8.7 | Walks and pools under suitable conditions. |
+| Depth | 8.1 | Several scenic valley sections. |
+
+- Applicable categories: nature:9.0, adventure:8.9, photography:9.1.
+- Computed worldwide overall: 83.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-bandar-khayran-bay — Bandar Khayran Bay — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/bandar-khayran-bay.yaml)
+- Action: new
+- Precise subject and limitations: Coastal inlets, permitted snorkeling and boat or kayak experiences; gazetteer coordinate identifies bay, not boat launch. Local reporting documents snorkeling and corals: https://www.omanobserver.om/article/1195313/features/lifestyle/beneath-the-blue-bandar-al-khairans-hidden-world. No wildlife sightings or legal protected designation assumed.
+- Location check: 23.522778, 58.731944; [published representative point](https://geographic.org/geographic_names/name.php?c=&fid=4000&uni=475595), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.lonelyplanet.com/points-of-interest/bandar-khayran/1612041); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/daymaniyat-islands-nature-reserve](../../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 8.6 | Stronger protected island and reef significance. |
+| [OM/musandam-fjords-khor-ash-sham](../../../countries/OM/sights/musandam-fjords-khor-ash-sham.yaml) | 9.5 / 9.4 / 8.5 / 9.2 / 8.8 | Much more extensive coastal landscape. |
+| [AE/snoopy-island-reef](../../../countries/AE/sights/snoopy-island-reef.yaml) | 8.4 / 8.4 / 7.7 / 8.6 / 7.8 | Smaller concentrated reef experience. |
+| [NZ/bay-of-islands](../../../countries/NZ/sights/bay-of-islands.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | Broader island and coastal visitor scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Rugged coast and sheltered blue water. |
+| Uniqueness | 8.7 | Interlocking rocky inlets and marine habitats. |
+| Significance | 8.1 | Regional marine and landscape significance. |
+| Experience | 8.9 | Varied aquatic and shoreline visits. |
+| Depth | 8.6 | Several coves support exploration. |
+
+- Applicable categories: nature:9.1, wildlife:8.8, adventure:9.0, photography:9.2.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-shaat-viewpoint — Shaat Viewpoint — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/shaat-viewpoint.yaml)
+- Action: new
+- Precise subject and limitations: Dhofar coastal cliff viewpoint, not wider mountain region or neighboring sinkholes. Visibility, fog, wind and safe access vary.
+- Location check: 16.7643, 53.60112; [published representative point](https://mapcarta.com/N4400523390), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://experienceoman.om/destinations/dhofar/shaat-viewpoint); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/jebel-samhan-viewpoint](../../../countries/OM/sights/jebel-samhan-viewpoint.yaml) | 8.8 / 8.6 / 7.3 / 8.5 / 6.8 | Comparable high escarpment views. |
+| [OM/al-mughsail-beach-and-blowholes](../../../countries/OM/sights/al-mughsail-beach-and-blowholes.yaml) | 8.9 / 8.7 / 7.4 / 8.8 / 7.9 | Broader coastal recreation. |
+| [AE/jebel-jais-mountain-landscape](../../../countries/AE/sights/jebel-jais-mountain-landscape.yaml) | 8.9 / 8.5 / 7.5 / 8.9 / 8.6 | More extensive mountain exploration. |
+| [NZ/cape-reinga](../../../countries/NZ/sights/cape-reinga.yaml) | 9.0 / 9.0 / 9.0 / 8.6 / 7.8 | Different coastal cultural landscape. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic high coastal cliffs. |
+| Uniqueness | 8.5 | Distinct Dhofar mountain-sea panorama. |
+| Significance | 7.2 | Regional landscape relevance. |
+| Experience | 8.4 | Rewarding scenic stop with seasonal visibility limits. |
+| Depth | 6.8 | Single viewpoint limits depth. |
+
+- Applicable categories: photography:9.3, nature:9.1.
+- Computed worldwide overall: 82.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-tawi-atayr-sinkhole — Tawi Atayr Sinkhole — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/tawi-atayr-sinkhole.yaml)
+- Action: new
+- Precise subject and limitations: Large Dhofar karst sinkhole viewed from designated visitor paths; excludes technical descent and adjacent sinkholes. AFP reporting describes paths and stairs: https://www.al-monitor.com/originals/2025/08/mind-gap-tourists-drawn-omans-giant-sinkholes. No size ranking claimed.
+- Location check: 17.11362, 54.55937; [published representative point](https://mapcarta.com/N323092659), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.omanobserver.om/article/1122420/features/travel/dont-miss-these-five-attractions-when-visiting-dhofars-khareef); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/bimmah-sinkhole](../../../countries/OM/sights/bimmah-sinkhole.yaml) | 8.4 / 8.4 / 7.1 / 8.3 / 6.5 | Smaller water-filled sinkhole with different recreation. |
+| [OM/al-hoota-cave](../../../countries/OM/sights/al-hoota-cave.yaml) | 8.3 / 8.2 / 8.1 / 8.2 / 7.5 | Broader interpreted underground experience. |
+| [OM/jebel-samhan-viewpoint](../../../countries/OM/sights/jebel-samhan-viewpoint.yaml) | 8.8 / 8.6 / 7.3 / 8.5 / 6.8 | Different escarpment panorama. |
+| [NZ/moeraki-boulders](../../../countries/NZ/sights/moeraki-boulders.yaml) | 8.4 / 8.8 / 8.2 / 8.5 / 7.3 | Different concentrated geological attraction. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Impressive deep karst opening. |
+| Uniqueness | 8.8 | Unusual large sinkhole landform. |
+| Significance | 8.0 | Regional geological interest. |
+| Experience | 7.8 | Limited but distinctive safe viewing. |
+| Depth | 6.7 | Short viewpoint visit rather than exploration. |
+
+- Applicable categories: nature:8.9, photography:8.8.
+- Computed worldwide overall: 81.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-fazayah-beach — Fazayah Beach — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/fazayah-beach.yaml)
+- Action: new
+- Precise subject and limitations: Dhofar beach and cliff-framed shore distinct from Mughsail blowholes; steep road, weather and surf may limit visit. No safe swimming or particular service assumed.
+- Location check: 16.83906, 53.72059; [published representative point](https://mapcarta.com/W766878472), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://myticket.om/en/products/al-fazayah-beach); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/al-mughsail-beach-and-blowholes](../../../countries/OM/sights/al-mughsail-beach-and-blowholes.yaml) | 8.9 / 8.7 / 7.4 / 8.8 / 7.9 | More distinctive geological blowholes. |
+| [OM/al-ashkharah-beach](../../../countries/OM/sights/al-ashkharah-beach.yaml) | 7.9 / 7.5 / 6.1 / 8.2 / 7.3 | Different exposed coast. |
+| [AE/saadiyat-beach](../../../countries/AE/sights/saadiyat-beach.yaml) | 8.3 / 7.7 / 6.5 / 8.8 / 7.4 | More developed beach recreation. |
+| [NZ/catlins-coastal-area](../../../countries/NZ/sights/catlins-coastal-area.yaml) | 9.0 / 8.9 / 8.8 / 8.8 / 9.0 | Broader coastal landscape and forest. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Scenic white sand and steep coastal backdrop. |
+| Uniqueness | 8.3 | Distinct remote coastal setting but comparable beaches worldwide. |
+| Significance | 6.8 | Regional recreational significance. |
+| Experience | 8.6 | Rewarding coastal views and relaxation under safe conditions. |
+| Depth | 7.9 | Several stretches of beach, limited activity scope. |
+
+- Applicable categories: beaches:9.2, photography:9.1, relaxation:8.9, nature:8.7.
+- Computed worldwide overall: 81.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-bait-al-safah-museum — Bait Al Safah Museum — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/bait-al-safah-museum.yaml)
+- Action: new
+- Precise subject and limitations: Traditional house museum and living heritage interpretation in Al Hamra, excludes surrounding private buildings. Local destination site search excerpt supports identity; direct page returned 502. Current program and hours uncertain.
+- Location check: 23.12037, 57.28153; [published representative point](https://mapcarta.com/N5287245122), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitalhamra.om/sites/5505ff62-dc15-4fab-bf09-f4e42b5cfd36?lang=en); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/bait-al-zubair-museum](../../../countries/OM/sights/bait-al-zubair-museum.yaml) | 7.7 / 8.1 / 8.2 / 8.2 / 7.7 | Broader curated heritage collection. |
+| [OM/national-museum-of-oman](../../../countries/OM/sights/national-museum-of-oman.yaml) | 8.1 / 8.5 / 8.9 / 8.5 / 8.5 | Much larger national collection. |
+| [AE/al-fahidi-fort-museum](../../../countries/AE/sights/al-fahidi-fort-museum.yaml) | 8.5 / 8.6 / 8.9 / 8.6 / 8.5 | Broader urban history galleries. |
+| [HK/hong-kong-heritage-museum](../../../countries/HK/sights/hong-kong-heritage-museum.yaml) | 8.2 / 8.6 / 8.5 / 8.7 / 8.7 | Much broader cultural galleries. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Traditional domestic architecture. |
+| Uniqueness | 8.6 | Living heritage interpretation in vernacular house. |
+| Significance | 8.4 | Regional domestic cultural heritage. |
+| Experience | 8.6 | Focused personal cultural visit. |
+| Depth | 7.7 | Compact house museum. |
+
+- Applicable categories: culture:9.1, history:8.8, architecture:8.5.
+- Computed worldwide overall: 82.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

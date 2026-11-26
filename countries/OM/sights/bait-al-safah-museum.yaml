@@ -1,0 +1,16 @@
+id: sight-om-bait-al-safah-museum
+name: "Bait Al Safah Museum"
+location:
+  country_code: OM
+  latitude: 23.12037
+  longitude: 57.28153
+scores:
+  impact: 7.9
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.6
+  depth: 7.7
+  categories:
+    culture: 9.1
+    history: 8.8
+    architecture: 8.5
