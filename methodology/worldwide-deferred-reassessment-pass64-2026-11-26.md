@@ -1,0 +1,13 @@
+# Deferred reassessment pass 64 — 2026-11-26
+
+Four source-assisted completions, one retained deferral. Existing populated scores, categories, IDs, coordinates and weights unchanged. No independent numerical, GPS or current admission verification.
+
+| Record | Decision | Scope |
+| --- | --- | --- |
+| [Makhteshim Country](../countries/IL/sights/makhteshim.yaml) | Completed 89.95 | Five named erosion basins in tentative property; visitor evidence limited to Ramon crater geological trails, rim and visitor centre, and documented HaMakhtesh HaGadol coloured sands trail. No unrelated Negev desert attractions, astronaut exhibition credit, off-trail access or assumed visits to every basin. |
+| [Crusader Fortresses (Tentative Serial Property)](../countries/IL/sights/crusader-fortresses.yaml) | Completed 87.20 | Tentative Crusader fortress ensemble; documented medieval fortifications and permitted visitor circuits at Montfort, Belvoir and Apollonia-Arsuf. Atlit access not established and excluded from visitor experience; no general Yehiam Ottoman fabric, Roman villa or wider national park credit. No military or restricted premises assumed accessible. |
+| [Galilee Journeys of Jesus and the Apostles](../countries/IL/sights/galilee-journeys.yaml) | Completed 88.15 | Tentative pilgrimage route from Nazareth through Sepphoris, Cana and Galilee toward Capernaum and Tiberias, including named Mount Tabor and Beatitudes setting. Credit documented shrine, archaeological and pilgrimage stops, not a proven continuous ancient walking route or historical certainty of all religious traditions. Exclude entire cities, closed Mary of Nazareth centre, unrelated museums and overlap with Sea of Galilee or Arbel as additive merit. |
+| [Sea of Galilee and its Ancient Sites](../countries/IL/sights/sea-of-galilee.yaml) | Completed 86.30 | Tentative lake-and-shore archaeological landscape, including documented Capernaum, Tabgha, Kursi and Korazim. Credit lake setting and site-specific visible ruins, mosaics and established shore visitor experiences. No unverified boat schedule, projected promenade or planned recreation facilities, guaranteed swimming, whole-city attractions or credit for religious itinerary outside lake setting. Overlaps pilgrimage route and individual synagogue properties; not additive. |
+| [Horvat Minnim](../countries/IL/sights/horvat-minnim.yaml) | Deferred | https://whc.unesco.org/en/tentativelists/1474/ establishes archaeology, while https://www.israelandyou.com/horvat-minya-horvat-minnim/ identifies insufficient accessibility in a historical report; current ordinary visitor arrangements not established. |
+
+[IL review](reviews/IL/worldwide-deferred-pass64-2026-11-26.md).

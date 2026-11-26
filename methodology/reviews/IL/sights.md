@@ -1319,3 +1319,5 @@
 [UNESCO inventory](https://whc.unesco.org/en/statesparties/IL/) confirms nine inscribed and 18 tentative properties; 17 tentative represented, [Jerusalem extension](https://whc.unesco.org/en/tentativelists/1483) and [separately inscribed Old City](https://whc.unesco.org/en/list/148/) remain deferred for consistent geographic assignment. All 53 records have supporting links, 42 scored, 11 unassessed. No existing assessed vectors or global weights changed. Sources do not guarantee current access, and wider independent claim/GPS verification remains incomplete.
 
 - [Dated worldwide reassessment pass 63 — 2026-11-26](worldwide-deferred-pass63-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 64 — 2026-11-26](worldwide-deferred-pass64-2026-11-26.md)
