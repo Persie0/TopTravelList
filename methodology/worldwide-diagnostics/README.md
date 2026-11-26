@@ -10,16 +10,16 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | Flag | Records |
 | --- | ---: |
 | conflicting-declared-status | 319 |
-| evidence-review | 13657 |
-| field-9.5-plus | 2113 |
-| historical-review-only | 2521 |
+| evidence-review | 13661 |
+| field-9.5-plus | 2110 |
+| historical-review-only | 2517 |
 | incomplete-core | 1590 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1782 |
+| overall-90-plus | 1780 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 46 |
 | shared-representative-gps | 242 |
-| small-scope-high-total | 30 |
+| small-scope-high-total | 28 |
 | type-score-distance-15-plus | 134 |
 
 ## All areas — cities and sights separately
@@ -121,7 +121,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CM | cities | 10 | 7 | 79.10 | 0 | 0 | 0 | 10 | [Foumban](../../countries/CM/cities/foumban.yaml) 83.15; [Limbe](../../countries/CM/cities/limbe.yaml) 80.10; [Douala](../../countries/CM/cities/douala.yaml) 79.75 |
 | CM | sights | 28 | 14 | 88.00 | 3 | 0 | 5 | 28 | [Lobéké National Park](../../countries/CM/sights/lobeke-national-park.yaml) 92.05; [Dja Faunal Reserve](../../countries/CM/sights/dja-faunal-reserve.yaml) 91.00; [Korup National Park](../../countries/CM/sights/korup-national-park.yaml) 90.50 |
 | CN | cities | 229 | 229 | 78.90 | 10 | 3 | 13 | 1 | [Beijing](../../countries/CN/cities/beijing.yaml) 97.40; [Lhasa](../../countries/CN/cities/lhasa.yaml) 95.40; [Xi'an](../../countries/CN/cities/xi-an.yaml) 95.20 |
-| CN | sights | 467 | 467 | 88.95 | 173 | 20 | 155 | 4 | [Forbidden City (Palace Museum)](../../countries/CN/sights/forbidden-city.yaml) 98.65; [Terracotta Army of Qin Shi Huang](../../countries/CN/sights/terracotta-army.yaml) 98.35; [Mount Huangshan (Yellow Mountain)](../../countries/CN/sights/mount-huangshan.yaml) 97.65 |
+| CN | sights | 467 | 467 | 88.90 | 171 | 20 | 152 | 8 | [Forbidden City (Palace Museum)](../../countries/CN/sights/forbidden-city.yaml) 98.65; [Terracotta Army of Qin Shi Huang](../../countries/CN/sights/terracotta-army.yaml) 98.35; [Mount Huangshan (Yellow Mountain)](../../countries/CN/sights/mount-huangshan.yaml) 97.65 |
 | CO | cities | 46 | 44 | 74.18 | 1 | 0 | 1 | 46 | [Cartagena](../../countries/CO/cities/cartagena.yaml) 91.15; [Bogotá](../../countries/CO/cities/bogota.yaml) 85.75; [Medellín](../../countries/CO/cities/medellin.yaml) 85.60 |
 | CO | sights | 55 | 48 | 85.05 | 9 | 0 | 30 | 55 | [Port, Fortresses and Group of Monuments of Cartagena](../../countries/CO/sights/port-fortresses-and-group-of-monuments-of-cartagena.yaml) 93.20; [Gold Museum (Bogotá)](../../countries/CO/sights/gold-museum-bogota.yaml) 92.70; [Ciudad Perdida (Teyuna)](../../countries/CO/sights/ciudad-perdida-teyuna.yaml) 91.70 |
 | CR | cities | 28 | 28 | 73.52 | 0 | 0 | 0 | 28 | [Puerto Viejo de Talamanca](../../countries/CR/cities/puerto-viejo-de-talamanca.yaml) 80.95; [San José](../../countries/CR/cities/san-jose.yaml) 79.10; [Cartago](../../countries/CR/cities/cartago.yaml) 78.35 |
@@ -551,22 +551,20 @@ Name heuristic, not a determination of scope or inflated rating.
 | [Walled City of Baku with Shirvanshah Palace and Maiden Tower](../../countries/AZ/sights/walled-city-of-baku-with-shirvanshah-palace-and-maiden-tower.yaml) | AZ | 93.05 |
 | [Patan Durbar Square](../../countries/NP/sights/patan-durbar-square.yaml) | NP | 92.90 |
 | [Kremlin and Red Square, Moscow](../../countries/RU/sights/kremlin-red-square.yaml) | RU | 92.85 |
-| [Xishuangbanna Tropical Botanical Garden](../../countries/CN/sights/xishuangbanna-tropical-botanical-garden.yaml) | CN | 92.45 |
 | [Historic Centre of Oporto, Luiz I Bridge and Serra do Pilar Monastery](../../countries/PT/sights/porto-historic-centre.yaml) | PT | 92.45 |
 | [Lumbini Sacred Garden](../../countries/NP/sights/lumbini-sacred-garden.yaml) | NP | 92.30 |
 | [Jerónimos Monastery and Belém Tower](../../countries/PT/sights/jeronimos-belem.yaml) | PT | 92.15 |
 | [Bhaktapur Durbar Square](../../countries/NP/sights/bhaktapur-durbar-square.yaml) | NP | 92.10 |
 | [Kathmandu Durbar Square](../../countries/NP/sights/kathmandu-durbar-square.yaml) | NP | 92.05 |
 | [Kenrokuen Garden](../../countries/JP/sights/kenrokuen-garden.yaml) | JP | 91.60 |
-| [Humble Administrator's Garden](../../countries/CN/sights/humble-administrators-garden.yaml) | CN | 91.55 |
-| [Lingering Garden Suzhou](../../countries/CN/sights/lingering-garden.yaml) | CN | 91.40 |
 | [Guangji Bridge Chaozhou](../../countries/CN/sights/guangji-bridge.yaml) | CN | 91.15 |
+| [Humble Administrator's Garden](../../countries/CN/sights/humble-administrators-garden.yaml) | CN | 91.15 |
+| [Xishuangbanna Tropical Botanical Garden](../../countries/CN/sights/xishuangbanna-tropical-botanical-garden.yaml) | CN | 91.10 |
 | [Ritsurin Garden](../../countries/JP/sights/ritsurin-garden.yaml) | JP | 90.85 |
 | [Old Town Square Prague](../../countries/CZ/sights/old-town-square-prague.yaml) | CZ | 90.70 |
 | [Mostar Old Bridge Area](../../countries/BA/sights/mostar-old-bridge-area.yaml) | BA | 90.60 |
 | [Gornergrat railway and ridge viewpoint](../../countries/CH/sights/gornergrat.yaml) | CH | 90.50 |
 | [Garden Kingdom of Dessau-Wörlitz](../../countries/DE/sights/dessau-worlitz.yaml) | DE | 90.40 |
-| [Lion Grove Garden](../../countries/CN/sights/lion-grove-garden.yaml) | CN | 90.35 |
 | [Kröller-Müller Museum and sculpture garden](../../countries/NL/sights/kruller-muller.yaml) | NL | 90.25 |
 | [Garden Route National Park](../../countries/ZA/sights/garden-route-national-park.yaml) | ZA | 90.25 |
 | [Kirstenbosch National Botanical Garden](../../countries/ZA/sights/kirstenbosch.yaml) | ZA | 90.15 |
