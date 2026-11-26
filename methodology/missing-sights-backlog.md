@@ -489,3 +489,15 @@ Seven additions and 28 peer comparisons matched to ranked rows. Oman 68 ranked /
 - [x] OM — Birkat Al Mouz (Harat as-Saybani Historic Village): 84.40/100 (source-linked-unverified).
 
 Five additions and 20 peer comparisons matched to ranked rows. Oman 73 ranked / 74 total; one prior unassessed unchanged. Museum explicitly excluded by existing Al Baleed review, so independent galleries added. Old Al Hamra excludes Bait Al Safah; Birkat quarter excludes separately ranked falaj. No more quota-driven additions; [official destination screen](https://experienceoman.om/en/destinations) and named candidates resolved. Close current Oman discovery queue, reopen only on concrete substantial new omissions. Qatar next: 55 records, Meryal and Desert Falls waterparks missing according to Qatar Tourism (https://www.qatartourism.com/en/news-and-media/press-releases/qatar-calendar-summer-waterparks-vq). Full Python validation and individual peer YAML checks pending.
+
+### Pass 46 — Qatar recreation and sporting heritage
+
+- [x] QA — Meryal Waterpark: 83.25/100 (source-linked-unverified).
+- [x] QA — Desert Falls Water & Adventure Park: 79.30/100 (source-linked-unverified).
+- [x] QA — Al Shaqab Equestrian Center: 84.10/100 (source-linked-unverified).
+- [x] QA — Al Shahaniya Camel Racetrack: 81.50/100 (source-linked-unverified).
+- [x] QA — Lusail International Circuit: 83.55/100 (source-linked-unverified).
+- [x] QA — Lusail Winter Wonderland: 77.95/100 (source-linked-unverified).
+- [x] QA — Heenat Salma Farm: 80.10/100 (source-linked-unverified).
+
+Seven additions and 28 peer comparisons matched to ranked rows. Qatar 58 ranked / 62 total; four existing unassessed unchanged. Official tourism [iconic places](https://visitqatar.com/intl-en/things-to-do/iconic-places) and operator sources used. Desert Falls lexical generator incorrectly labels park as Waterfall; do not silently override generated row. Defer Skeek Al Doha as time-limited programme (opened 24 Nov 2026, scheduled until 15 May 2027; https://www.qatartourism.com/en/news-and-media/press-releases/skeek-al-doha-cultural-tourism-experience), review durable heritage components separately after programme scope becomes clear. Whale shark viewing seasonal operator access and representative map point require confirmation; Dadu indoor museum opening not established. Remaining bounded screening: whale shark excursions, Angry Birds World, and Dadu Gardens if distinct durable visitor scope. Full Python validation and individual peer YAML checks pending.
