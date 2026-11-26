@@ -2,7 +2,7 @@
 
 # Angola (AO) — Cities, towns & villages ranking
 
-**6 ranked** · **2 unassessed** · **8 total** · Worldwide scoring **v2**
+**7 ranked** · **1 unassessed** · **8 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (6)
+## Complete ranked list (7)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -20,14 +20,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 4 | [Moçâmedes (Namibe)](cities/mocamedes.yaml) | City / town | **78.55** | **Photography 8.3**, **Architecture 8.1** | 7.8 / 8.2 / 7.7 / 7.9 / 7.4 | [-15.196111, 12.152222](https://www.google.com/maps/search/?api=1&query=-15.196111,12.152222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mo%C3%A7%C3%A2medes%20%28Namibe%29%2C%20Angola) |
 | 5 | [Lubango](cities/lubango.yaml) | City / town | **78.30** | **Culture 8.1**, **Architecture 8.0** | 7.8 / 8.0 / 7.6 / 8.0 / 7.7 | [-14.917168, 13.492498](https://www.google.com/maps/search/?api=1&query=-14.917168,13.492498) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lubango%2C%20Angola) |
 | 6 | [Lobito](cities/lobito.yaml) | City / town | **77.30** | **Beaches 8.4**, **Architecture 8.0** | 7.7 / 7.8 / 7.6 / 8.0 / 7.5 | [-12.3644, 13.536015](https://www.google.com/maps/search/?api=1&query=-12.3644,13.536015) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lobito%2C%20Angola) |
+| 7 | [Huambo](cities/huambo.yaml) | City / town | **72.90** | — | 7.1 / 7.3 / 7.7 / 7.3 / 7.0 | [-12.776111, 15.739167](https://www.google.com/maps/search/?api=1&query=-12.776111,15.739167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Huambo%2C%20Angola) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Huambo](cities/huambo.yaml) | City / town | **—** | — | — / 7.3 / 7.7 / — / — | [-12.776111, 15.739167](https://www.google.com/maps/search/?api=1&query=-12.776111,15.739167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Huambo%2C%20Angola) |
 | — | [Malanje](cities/malanje.yaml) | City / town | **—** | — | — / 7.2 / 7.3 / — / — | [-9.54015, 16.340961](https://www.google.com/maps/search/?api=1&query=-9.54015,16.340961) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malanje%2C%20Angola) |
 
 ---

@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14810; unassessed: 1459.
+Ranked: 14814; unassessed: 1455.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1459 |
+| incomplete-core | 1455 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1800 |
 | overall-95-plus | 159 |
@@ -40,7 +40,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | AL | sights | 95 | 95 | 83.00 | 5 | 0 | 3 | 95 | [Butrint Archaeological Site](../../countries/AL/sights/butrint-archaeological-site.yaml) 91.90; [Albanian Alps National Park](../../countries/AL/sights/albanian-alps-national-park.yaml) 91.45; [Berat Historic Centre](../../countries/AL/sights/berat-historic-centre.yaml) 90.70 |
 | AM | cities | 20 | 20 | 74.65 | 0 | 0 | 0 | 20 | [Yerevan](../../countries/AM/cities/yerevan.yaml) 86.05; [Gyumri](../../countries/AM/cities/gyumri.yaml) 82.90; [Vagharshapat (Etchmiadzin)](../../countries/AM/cities/vagharshapat-etchmiadzin.yaml) 81.95 |
 | AM | sights | 55 | 52 | 84.80 | 7 | 0 | 7 | 55 | [Geghard Monastery and Upper Azat Valley](../../countries/AM/sights/geghard-monastery-and-upper-azat-valley.yaml) 92.95; [Tatev and Tatevi Anapat Monasteries and Vorotan Valley](../../countries/AM/sights/tatev-and-tatevi-anapat-monasteries-and-vorotan-valley.yaml) 91.85; [Tatev Monastery](../../countries/AM/sights/tatev-monastery.yaml) 91.35 |
-| AO | cities | 8 | 6 | 78.90 | 0 | 0 | 0 | 8 | [Mbanza Kongo](../../countries/AO/cities/mbanza-kongo.yaml) 84.30; [Luanda](../../countries/AO/cities/luanda.yaml) 83.00; [Benguela](../../countries/AO/cities/benguela.yaml) 79.25 |
+| AO | cities | 8 | 7 | 78.55 | 0 | 0 | 0 | 8 | [Mbanza Kongo](../../countries/AO/cities/mbanza-kongo.yaml) 84.30; [Luanda](../../countries/AO/cities/luanda.yaml) 83.00; [Benguela](../../countries/AO/cities/benguela.yaml) 79.25 |
 | AO | sights | 17 | 13 | 85.05 | 1 | 0 | 3 | 17 | [Iona National Park](../../countries/AO/sights/iona-national-park.yaml) 91.50; [Kalandula Falls](../../countries/AO/sights/kalandula-falls.yaml) 89.10; [Pedras Negras de Pungo Andongo](../../countries/AO/sights/pungo-andongo-black-stones.yaml) 87.60 |
 | AQ | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | AQ | sights | 14 | 14 | 87.75 | 0 | 0 | 1 | 14 | [Lemaire Channel](../../countries/AQ/sights/lemaire-channel.yaml) 89.70; [Neko Harbour](../../countries/AQ/sights/neko-harbour.yaml) 89.65; [Paradise Harbour](../../countries/AQ/sights/paradise-harbour.yaml) 88.95 |
@@ -57,7 +57,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | AX | cities | 3 | 3 | 74.60 | 0 | 0 | 0 | 3 | [Mariehamn](../../countries/AX/cities/mariehamn.yaml) 80.25; [Degerby (Föglö)](../../countries/AX/cities/degerby.yaml) 74.60; [Karlby (Kökar)](../../countries/AX/cities/karlby.yaml) 71.30 |
 | AX | sights | 10 | 10 | 80.72 | 0 | 0 | 0 | 10 | [Museum Ship Pommern](../../countries/AX/sights/pommern.yaml) 88.10; [Åland Maritime Museum](../../countries/AX/sights/maritime-museum.yaml) 83.70; [Kastelholm Castle](../../countries/AX/sights/kastelholm.yaml) 82.70 |
 | AZ | cities | 16 | 16 | 78.70 | 0 | 0 | 0 | 16 | [Baku](../../countries/AZ/cities/baku.yaml) 88.30; [Khinalig](../../countries/AZ/cities/khinalig.yaml) 87.35; [Sheki](../../countries/AZ/cities/sheki.yaml) 86.35 |
-| AZ | sights | 40 | 31 | 83.75 | 2 | 0 | 5 | 40 | [Walled City of Baku with Shirvanshah Palace and Maiden Tower](../../countries/AZ/sights/walled-city-of-baku-with-shirvanshah-palace-and-maiden-tower.yaml) 93.05; [Khinalig Cultural Landscape and Koc Yolu Transhumance Route](../../countries/AZ/sights/khinalig-cultural-landscape-and-koc-yolu-transhumance-route.yaml) 92.00; [Historic Centre of Sheki with Khan Palace](../../countries/AZ/sights/historic-centre-of-sheki-with-khan-palace.yaml) 89.95 |
+| AZ | sights | 40 | 32 | 84.05 | 2 | 0 | 5 | 40 | [Walled City of Baku with Shirvanshah Palace and Maiden Tower](../../countries/AZ/sights/walled-city-of-baku-with-shirvanshah-palace-and-maiden-tower.yaml) 93.05; [Khinalig Cultural Landscape and Koc Yolu Transhumance Route](../../countries/AZ/sights/khinalig-cultural-landscape-and-koc-yolu-transhumance-route.yaml) 92.00; [Historic Centre of Sheki with Khan Palace](../../countries/AZ/sights/historic-centre-of-sheki-with-khan-palace.yaml) 89.95 |
 | BA | cities | 44 | 44 | 73.78 | 1 | 0 | 0 | 44 | [Sarajevo](../../countries/BA/cities/sarajevo.yaml) 90.35; [Mostar](../../countries/BA/cities/mostar.yaml) 87.20; [Jajce](../../countries/BA/cities/jajce.yaml) 84.70 |
 | BA | sights | 101 | 101 | 82.20 | 2 | 0 | 1 | 101 | [Mostar Old Bridge Area](../../countries/BA/sights/mostar-old-bridge-area.yaml) 90.60; [Srebrenica-Potočari Memorial Centre](../../countries/BA/sights/srebrenica-potocari-memorial-centre.yaml) 90.10; [Sutjeska National Park](../../countries/BA/sights/sutjeska-national-park.yaml) 89.70 |
 | BB | cities | 10 | 10 | 75.50 | 0 | 0 | 0 | 10 | [Bridgetown](../../countries/BB/cities/bridgetown.yaml) 81.80; [Speightstown](../../countries/BB/cities/speightstown.yaml) 80.15; [Bathsheba](../../countries/BB/cities/bathsheba.yaml) 78.50 |
@@ -97,7 +97,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BW | cities | 22 | 21 | 67.20 | 0 | 0 | 0 | 22 | [Kasane](../../countries/BW/cities/kasane.yaml) 75.20; [Maun](../../countries/BW/cities/maun.yaml) 74.05; [Serowe](../../countries/BW/cities/serowe.yaml) 73.60 |
 | BW | sights | 38 | 35 | 81.55 | 5 | 1 | 9 | 38 | [Okavango Delta](../../countries/BW/sights/okavango-delta.yaml) 97.80; [Chobe National Park](../../countries/BW/sights/chobe-national-park.yaml) 94.00; [Moremi Game Reserve](../../countries/BW/sights/moremi-game-reserve.yaml) 92.95 |
 | BY | cities | 14 | 14 | 81.35 | 0 | 0 | 0 | 14 | [Grodno (Hrodna)](../../countries/BY/cities/grodno.yaml) 86.00; [Minsk](../../countries/BY/cities/minsk.yaml) 85.25; [Vitebsk](../../countries/BY/cities/vitebsk.yaml) 84.15 |
-| BY | sights | 35 | 27 | 85.65 | 3 | 0 | 1 | 35 | [Białowieża Forest (Belarusian section)](../../countries/BY/sights/bialowieza-forest.yaml) 90.90; [Radziwill Palace and cultural complex at Nesvizh](../../countries/BY/sights/nesvizh-palace.yaml) 90.90; [Mir Castle Complex](../../countries/BY/sights/mir-castle.yaml) 90.30 |
+| BY | sights | 35 | 29 | 85.95 | 3 | 0 | 1 | 35 | [Białowieża Forest (Belarusian section)](../../countries/BY/sights/bialowieza-forest.yaml) 90.90; [Radziwill Palace and cultural complex at Nesvizh](../../countries/BY/sights/nesvizh-palace.yaml) 90.90; [Mir Castle Complex](../../countries/BY/sights/mir-castle.yaml) 90.30 |
 | BZ | cities | 18 | 18 | 71.15 | 0 | 0 | 0 | 18 | [Caye Caulker Village](../../countries/BZ/cities/caye-caulker-village.yaml) 79.40; [San Pedro](../../countries/BZ/cities/san-pedro.yaml) 78.50; [Hopkins](../../countries/BZ/cities/hopkins.yaml) 78.35 |
 | BZ | sights | 61 | 58 | 81.15 | 5 | 0 | 3 | 61 | [Actun Tunichil Muknal Cave](../../countries/BZ/sights/actun-tunichil-muknal-cave.yaml) 93.30; [Blue Hole Natural Monument (Great Blue Hole)](../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) 92.10; [Glover's Reef Marine Reserve](../../countries/BZ/sights/glover-s-reef-marine-reserve.yaml) 91.90 |
 | CA | cities | 16 | 16 | 81.92 | 0 | 0 | 0 | 16 | [Québec City](../../countries/CA/cities/quebec-city.yaml) 88.75; [Montréal](../../countries/CA/cities/montreal.yaml) 88.25; [Vancouver](../../countries/CA/cities/vancouver.yaml) 86.25 |
