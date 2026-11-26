@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14793; unassessed: 1476.
+Ranked: 14798; unassessed: 1471.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,14 +13,14 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1476 |
+| incomplete-core | 1471 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1797 |
+| overall-90-plus | 1799 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 48 |
 | shared-representative-gps | 242 |
 | small-scope-high-total | 26 |
-| type-score-distance-15-plus | 134 |
+| type-score-distance-15-plus | 135 |
 
 ## All areas — cities and sights separately
 
@@ -326,7 +326,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MP | sights | 15 | 12 | 83.78 | 0 | 0 | 1 | 15 | [Marpi WWII memorial landscape](../../countries/MP/sights/marpi-memorials.yaml) 87.45; [Saipan Grotto (authorized cavern diving and viewpoint)](../../countries/MP/sights/grotto.yaml) 85.85; [Mañagaha Island beach and marine conservation area](../../countries/MP/sights/managaha.yaml) 85.80 |
 | MQ | cities | 4 | 4 | 77.70 | 0 | 0 | 0 | 4 | [Saint-Pierre](../../countries/MQ/cities/saint-pierre.yaml) 83.95; [Fort-de-France](../../countries/MQ/cities/fort-de-france.yaml) 79.55; [Le Diamant (bourg)](../../countries/MQ/cities/le-diamant.yaml) 75.85 |
 | MQ | sights | 11 | 11 | 84.20 | 2 | 0 | 0 | 11 | [Mount Pelée (permitted summit trails)](../../countries/MQ/sights/mount-pelee.yaml) 90.15; [Mount Pelée and Pitons of Northern Martinique](../../countries/MQ/sights/martinique-volcanoes.yaml) 90.10; [Caravelle Peninsula Nature Reserve](../../countries/MQ/sights/caravelle-reserve.yaml) 86.10 |
-| MR | cities | 10 | 5 | 72.35 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95; [Nouakchott](../../countries/MR/cities/nouakchott.yaml) 72.35 |
+| MR | cities | 10 | 7 | 82.20 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Oualata](../../countries/MR/cities/oualata.yaml) 83.40; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95 |
 | MR | sights | 17 | 10 | 84.65 | 1 | 0 | 2 | 17 | [Banc d’Arguin National Park](../../countries/MR/sights/banc-d-arguin-national-park.yaml) 91.90; [Chinguetti Old Ksar](../../countries/MR/sights/chinguetti-old-ksar.yaml) 88.30; [Richat Structure (Eye of the Sahara)](../../countries/MR/sights/richat-structure.yaml) 86.55 |
 | MS | cities | 2 | 2 | 73.58 | 0 | 0 | 0 | 2 | [Little Bay](../../countries/MS/cities/little-bay.yaml) 76.00; [Brades](../../countries/MS/cities/brades.yaml) 71.15 |
 | MS | sights | 8 | 8 | 82.55 | 0 | 0 | 0 | 8 | [Montserrat Volcano Observatory and Soufrière Hills viewpoint](../../countries/MS/sights/volcano-observatory.yaml) 89.05; [Plymouth buried town (restricted land site)](../../countries/MS/sights/plymouth-buried-city.yaml) 87.75; [Centre Hills forest trails](../../countries/MS/sights/centre-hills.yaml) 86.15 |
@@ -380,7 +380,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PG | sights | 19 | 13 | 85.70 | 2 | 0 | 1 | 19 | [Kimbe Bay Reefs](../../countries/PG/sights/kimbe-bay.yaml) 92.85; [Tufi Fjords (Cape Nelson)](../../countries/PG/sights/tufi-fjords.yaml) 90.45; [Upper Sepik River Basin](../../countries/PG/sights/upper-sepik-river-basin.yaml) 89.60 |
 | PH | cities | 15 | 15 | 76.40 | 0 | 0 | 0 | 15 | [Vigan](../../countries/PH/cities/vigan.yaml) 86.00; [Manila](../../countries/PH/cities/manila.yaml) 84.15; [Cebu City](../../countries/PH/cities/cebu-city.yaml) 80.25 |
 | PH | sights | 50 | 36 | 86.40 | 3 | 0 | 0 | 50 | [Rice Terraces of the Philippine Cordilleras](../../countries/PH/sights/cordillera-rice-terraces.yaml) 92.15; [Tubbataha Reefs Natural Park](../../countries/PH/sights/tubbataha.yaml) 92.15; [El Nido-Taytay Managed Resource Protected Area](../../countries/PH/sights/el-nido-taytay.yaml) 91.45 |
-| PK | cities | 14 | 13 | 76.75 | 1 | 0 | 0 | 14 | [Lahore](../../countries/PK/cities/lahore.yaml) 90.15; [Multan](../../countries/PK/cities/multan.yaml) 83.50; [Karimabad](../../countries/PK/cities/karimabad.yaml) 82.00 |
+| PK | cities | 14 | 14 | 76.75 | 1 | 0 | 0 | 14 | [Lahore](../../countries/PK/cities/lahore.yaml) 90.15; [Peshawar](../../countries/PK/cities/peshawar.yaml) 84.20; [Multan](../../countries/PK/cities/multan.yaml) 83.50 |
 | PK | sights | 58 | 39 | 84.65 | 3 | 0 | 0 | 58 | [Central Karakoram National Park](../../countries/PK/sights/central-karakoram.yaml) 92.20; [K2 Base Camp and Baltoro Trek](../../countries/PK/sights/k2-base-camp.yaml) 92.10; [Fort and Shalamar Gardens in Lahore](../../countries/PK/sights/lahore-fort-and-shalamar.yaml) 90.70 |
 | PL | cities | 22 | 22 | 84.00 | 3 | 0 | 1 | 22 | [Kraków](../../countries/PL/cities/krakow.yaml) 92.65; [Gdańsk](../../countries/PL/cities/gdansk.yaml) 91.50; [Warsaw](../../countries/PL/cities/warsaw.yaml) 90.95 |
 | PL | sights | 76 | 75 | 88.00 | 16 | 1 | 10 | 76 | [Auschwitz-Birkenau Memorial and Museum](../../countries/PL/sights/auschwitz-birkenau.yaml) 95.75; [Historic Centre of Kraków](../../countries/PL/sights/krakow-historic-centre.yaml) 93.60; [Castle of the Teutonic Order in Malbork](../../countries/PL/sights/malbork-castle.yaml) 93.40 |
@@ -410,7 +410,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | RU | sights | 43 | 22 | 88.62 | 6 | 0 | 0 | 43 | [State Hermitage Main Museum Complex](../../countries/RU/sights/hermitage.yaml) 93.60; [Historic Centre of Saint Petersburg and Related Groups of Monuments](../../countries/RU/sights/historic-petersburg.yaml) 93.45; [Lake Baikal](../../countries/RU/sights/baikal.yaml) 93.20 |
 | RW | cities | 18 | 18 | 69.38 | 0 | 0 | 0 | 18 | [Kigali](../../countries/RW/cities/kigali.yaml) 80.25; [Karongi (Kibuye)](../../countries/RW/cities/karongi-kibuye.yaml) 77.15; [Rubavu (Gisenyi)](../../countries/RW/cities/rubavu-gisenyi.yaml) 75.55 |
 | RW | sights | 47 | 45 | 80.40 | 3 | 1 | 4 | 47 | [Volcanoes National Park](../../countries/RW/sights/volcanoes-national-park.yaml) 95.05; [Nyungwe National Park](../../countries/RW/sights/nyungwe-national-park.yaml) 94.10; [Akagera National Park](../../countries/RW/sights/akagera-national-park.yaml) 91.00 |
-| SA | cities | 18 | 16 | 74.38 | 0 | 0 | 0 | 18 | [Jeddah](../../countries/SA/cities/jeddah.yaml) 86.50; [Diriyah](../../countries/SA/cities/diriyah.yaml) 82.40; [AlUla](../../countries/SA/cities/alula.yaml) 81.80 |
+| SA | cities | 18 | 18 | 75.48 | 2 | 0 | 0 | 18 | [Mecca](../../countries/SA/cities/mecca.yaml) 92.85; [Medina](../../countries/SA/cities/medina.yaml) 90.00; [Jeddah](../../countries/SA/cities/jeddah.yaml) 86.50 |
 | SA | sights | 49 | 33 | 82.80 | 1 | 0 | 0 | 49 | [Hegra Archaeological Site](../../countries/SA/sights/hegra.yaml) 91.60; [Rub al Khali (Saudi Empty Quarter)](../../countries/SA/sights/rub-al-khali.yaml) 89.40; [Historic Jeddah (Al-Balad)](../../countries/SA/sights/historic-jeddah.yaml) 89.10 |
 | SB | cities | 9 | 9 | 66.55 | 0 | 0 | 0 | 9 | [Honiara](../../countries/SB/cities/honiara.yaml) 73.90; [Gizo](../../countries/SB/cities/gizo.yaml) 71.05; [Tulagi](../../countries/SB/cities/tulagi.yaml) 71.05 |
 | SB | sights | 16 | 13 | 79.60 | 1 | 0 | 0 | 16 | [Marovo Lagoon](../../countries/SB/sights/marovo-lagoon.yaml) 90.25; [Kolombangara Central Caldera Forests](../../countries/SB/sights/kolombangara-central-caldera-forests.yaml) 88.55; [Tetepare Island](../../countries/SB/sights/tetepare-island.yaml) 87.60 |
