@@ -2,7 +2,7 @@
 
 # Afghanistan (AF) — Cities, towns & villages ranking
 
-**8 ranked** · **2 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (8)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -22,15 +22,8 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 6 | [Kandahar](cities/kandahar.yaml) | City / town | **78.60** | **History 8.8**, **Culture 8.4** | 7.3 / 8.1 / 8.7 / 7.7 / 7.5 | [31.629, 65.737](https://www.google.com/maps/search/?api=1&query=31.629,65.737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kandahar%2C%20Afghanistan) |
 | 7 | [Bamiyan](cities/bamiyan.yaml) | City / town | **77.05** | **Photography 8.2**, **Culture 8.0**, **Nature 8.0** | 7.8 / 8.0 / 7.8 / 7.5 / 6.8 | [34.825, 67.827](https://www.google.com/maps/search/?api=1&query=34.825,67.827) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bamiyan%2C%20Afghanistan) |
 | 8 | [Istalif](cities/istalif.yaml) | City / town | **74.90** | **Culture 8.2**, **Photography 8.0** | 7.6 / 7.8 / 7.1 / 7.6 / 7.0 | [34.83, 69.1](https://www.google.com/maps/search/?api=1&query=34.83,69.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Istalif%2C%20Afghanistan) |
-
-## Not yet fully assessed (2)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Faizabad](cities/faizabad.yaml) | City / town | **—** | **Nature 7.7**, **Culture 7.4** | 7.3 / 7.5 / 7.0 / — / — | [37.12, 70.58](https://www.google.com/maps/search/?api=1&query=37.12,70.58) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faizabad%2C%20Afghanistan) |
-| — | [Jalalabad](cities/jalalabad.yaml) | City / town | **—** | **History 7.8**, **Culture 7.6** | 6.9 / 7.3 / 7.6 / — / — | [34.43, 70.45](https://www.google.com/maps/search/?api=1&query=34.43,70.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jalalabad%2C%20Afghanistan) |
+| 9 | [Faizabad](cities/faizabad.yaml) | City / town | **72.50** | **Nature 7.7**, **Culture 7.4** | 7.3 / 7.5 / 7.0 / 7.3 / 6.9 | [37.12, 70.58](https://www.google.com/maps/search/?api=1&query=37.12,70.58) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faizabad%2C%20Afghanistan) |
+| 9 | [Jalalabad](cities/jalalabad.yaml) | City / town | **72.50** | **History 7.8**, **Culture 7.6** | 6.9 / 7.3 / 7.6 / 7.5 / 7.1 | [34.43, 70.45](https://www.google.com/maps/search/?api=1&query=34.43,70.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jalalabad%2C%20Afghanistan) |
 
 ---
 

@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14876; unassessed: 1393.
+Ranked: 14880; unassessed: 1389.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,14 +13,14 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1393 |
+| incomplete-core | 1389 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
 | small-scope-high-total | 26 |
-| type-score-distance-15-plus | 137 |
+| type-score-distance-15-plus | 136 |
 
 ## All areas — cities and sights separately
 
@@ -30,7 +30,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | AD | sights | 38 | 38 | 80.28 | 0 | 0 | 0 | 38 | [Madriu-Perafita-Claror Valley](../../countries/AD/sights/madriu-perafita-claror-valley.yaml) 88.50; [Comapedrosa Nature Park](../../countries/AD/sights/comapedrosa-nature-park.yaml) 85.85; [Coronallacs Hiking Circuit](../../countries/AD/sights/coronallacs-hiking-circuit.yaml) 85.20 |
 | AE | cities | 14 | 14 | 75.30 | 1 | 0 | 1 | 14 | [Dubai](../../countries/AE/cities/dubai.yaml) 90.65; [Abu Dhabi](../../countries/AE/cities/abu-dhabi.yaml) 86.50; [Al Ain](../../countries/AE/cities/al-ain.yaml) 82.95 |
 | AE | sights | 57 | 46 | 82.15 | 3 | 0 | 6 | 57 | [Burj Khalifa](../../countries/AE/sights/burj-khalifa.yaml) 92.25; [Louvre Abu Dhabi](../../countries/AE/sights/louvre-abu-dhabi.yaml) 91.25; [Sheikh Zayed Grand Mosque](../../countries/AE/sights/sheikh-zayed-grand-mosque.yaml) 90.60 |
-| AF | cities | 10 | 8 | 79.80 | 0 | 0 | 0 | 10 | [Herat](../../countries/AF/cities/herat.yaml) 85.75; [Kabul](../../countries/AF/cities/kabul.yaml) 81.95; [Mazar-i-Sharif](../../countries/AF/cities/mazar-i-sharif.yaml) 80.10 |
+| AF | cities | 10 | 10 | 79.18 | 0 | 0 | 0 | 10 | [Herat](../../countries/AF/cities/herat.yaml) 85.75; [Kabul](../../countries/AF/cities/kabul.yaml) 81.95; [Mazar-i-Sharif](../../countries/AF/cities/mazar-i-sharif.yaml) 80.10 |
 | AF | sights | 23 | 7 | 85.20 | 0 | 0 | 0 | 23 | [Bamiyan Buddha Niches and Cliff Caves](../../countries/AF/sights/bamiyan-buddha-niches.yaml) 87.60; [Great Mosque of Herat](../../countries/AF/sights/herat-grand-mosque.yaml) 86.85; [Shrine of Hazrat Ali (Blue Mosque)](../../countries/AF/sights/blue-mosque.yaml) 86.65 |
 | AG | cities | 10 | 10 | 72.32 | 0 | 0 | 0 | 10 | [English Harbour](../../countries/AG/cities/english-harbour.yaml) 83.65; [St John's](../../countries/AG/cities/st-john-s.yaml) 79.90; [Falmouth](../../countries/AG/cities/falmouth.yaml) 75.70 |
 | AG | sights | 32 | 31 | 79.20 | 1 | 0 | 2 | 32 | [Antigua Naval Dockyard and Related Archaeological Sites](../../countries/AG/sights/antigua-naval-dockyard-and-related-archaeological-sites.yaml) 90.85; [Codrington Lagoon Frigate Bird Sanctuary](../../countries/AG/sights/codrington-lagoon-frigate-bird-sanctuary.yaml) 89.65; [Nelson's Dockyard](../../countries/AG/sights/nelson-s-dockyard.yaml) 87.65 |
@@ -314,7 +314,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MH | sights | 22 | 10 | 76.75 | 1 | 0 | 1 | 22 | [Bikini Atoll Nuclear Test Site](../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml) 90.95; [Jaluit Atoll Conservation Area](../../countries/MH/sights/jaluit-atoll-conservation-area.yaml) 82.45; [Arno Atoll](../../countries/MH/sights/arno-atoll.yaml) 79.35 |
 | MK | cities | 14 | 14 | 77.20 | 0 | 0 | 0 | 14 | [Ohrid](../../countries/MK/cities/ohrid.yaml) 89.70; [Skopje](../../countries/MK/cities/skopje.yaml) 83.15; [Bitola](../../countries/MK/cities/bitola.yaml) 82.30 |
 | MK | sights | 33 | 32 | 86.08 | 2 | 0 | 1 | 33 | [Ohrid Historic Centre](../../countries/MK/sights/ohrid-historic-centre.yaml) 91.50; [Lake Ohrid North Macedonian Shore](../../countries/MK/sights/lake-ohrid-north-macedonian-shore.yaml) 90.35; [Saint John at Kaneo](../../countries/MK/sights/saint-john-at-kaneo.yaml) 88.60 |
-| ML | cities | 11 | 7 | 79.30 | 1 | 0 | 2 | 11 | [Djenné](../../countries/ML/cities/djenne.yaml) 90.40; [Timbuktu](../../countries/ML/cities/timbuktu.yaml) 88.30; [Mopti](../../countries/ML/cities/mopti.yaml) 80.30 |
+| ML | cities | 11 | 9 | 79.30 | 1 | 0 | 2 | 11 | [Djenné](../../countries/ML/cities/djenne.yaml) 90.40; [Timbuktu](../../countries/ML/cities/timbuktu.yaml) 88.30; [Gao](../../countries/ML/cities/gao.yaml) 80.90 |
 | ML | sights | 33 | 11 | 87.20 | 3 | 0 | 6 | 33 | [Cliff of Bandiagara (Land of the Dogons)](../../countries/ML/sights/bandiagara-escarpment.yaml) 93.95; [Djenné Old Town](../../countries/ML/sights/djenne-old-town.yaml) 91.90; [Great Mosque of Djenné](../../countries/ML/sights/djenne-great-mosque.yaml) 91.20 |
 | MM | cities | 12 | 10 | 75.02 | 0 | 0 | 0 | 12 | [Yangon](../../countries/MM/cities/yangon.yaml) 86.75; [Mawlamyine](../../countries/MM/cities/mawlamyine.yaml) 79.90; [Bago](../../countries/MM/cities/bago.yaml) 77.35 |
 | MM | sights | 39 | 17 | 84.85 | 2 | 0 | 0 | 39 | [Bagan Archaeological Landscape](../../countries/MM/sights/bagan.yaml) 93.70; [Shwedagon Pagoda on Singuttara Hill](../../countries/MM/sights/shwedagon.yaml) 92.25; [Inle Lake](../../countries/MM/sights/inle-lake.yaml) 89.10 |
