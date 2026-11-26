@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14697; unassessed: 1572.
+Ranked: 14706; unassessed: 1563.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 340 |
+| conflicting-declared-status | 349 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1572 |
+| incomplete-core | 1563 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1788 |
+| overall-90-plus | 1789 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 46 |
 | shared-representative-gps | 242 |
@@ -407,7 +407,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | RS | cities | 18 | 18 | 82.12 | 0 | 0 | 0 | 18 | [Belgrade](../../countries/RS/cities/belgrade.yaml) 89.00; [Subotica](../../countries/RS/cities/subotica.yaml) 86.90; [Novi Sad](../../countries/RS/cities/novi-sad.yaml) 86.55 |
 | RS | sights | 43 | 40 | 87.42 | 4 | 0 | 6 | 43 | [Đerdap National Park and Iron Gates landscape](../../countries/RS/sights/djerdap.yaml) 91.30; [Studenica Monastery](../../countries/RS/sights/studenica.yaml) 91.05; [Tara National Park and Drina Canyon](../../countries/RS/sights/tara.yaml) 90.45 |
 | RU | cities | 20 | 20 | 81.45 | 2 | 0 | 0 | 20 | [Saint Petersburg](../../countries/RU/cities/saint-petersburg.yaml) 93.20; [Moscow](../../countries/RU/cities/moscow.yaml) 91.75; [Kazan](../../countries/RU/cities/kazan.yaml) 86.95 |
-| RU | sights | 43 | 15 | 89.25 | 6 | 0 | 0 | 43 | [State Hermitage Main Museum Complex](../../countries/RU/sights/hermitage.yaml) 93.60; [Historic Centre of Saint Petersburg and Related Groups of Monuments](../../countries/RU/sights/historic-petersburg.yaml) 93.45; [Lake Baikal](../../countries/RU/sights/baikal.yaml) 93.20 |
+| RU | sights | 43 | 22 | 88.62 | 6 | 0 | 0 | 43 | [State Hermitage Main Museum Complex](../../countries/RU/sights/hermitage.yaml) 93.60; [Historic Centre of Saint Petersburg and Related Groups of Monuments](../../countries/RU/sights/historic-petersburg.yaml) 93.45; [Lake Baikal](../../countries/RU/sights/baikal.yaml) 93.20 |
 | RW | cities | 18 | 18 | 69.38 | 0 | 0 | 0 | 18 | [Kigali](../../countries/RW/cities/kigali.yaml) 80.25; [Karongi (Kibuye)](../../countries/RW/cities/karongi-kibuye.yaml) 77.15; [Rubavu (Gisenyi)](../../countries/RW/cities/rubavu-gisenyi.yaml) 75.55 |
 | RW | sights | 47 | 45 | 80.40 | 3 | 1 | 4 | 47 | [Volcanoes National Park](../../countries/RW/sights/volcanoes-national-park.yaml) 95.05; [Nyungwe National Park](../../countries/RW/sights/nyungwe-national-park.yaml) 94.10; [Akagera National Park](../../countries/RW/sights/akagera-national-park.yaml) 91.00 |
 | SA | cities | 18 | 16 | 74.38 | 0 | 0 | 0 | 18 | [Jeddah](../../countries/SA/cities/jeddah.yaml) 86.50; [Diriyah](../../countries/SA/cities/diriyah.yaml) 82.40; [AlUla](../../countries/SA/cities/alula.yaml) 81.80 |
@@ -485,7 +485,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | TZ | cities | 5 | 5 | 82.60 | 1 | 0 | 0 | 5 | [Zanzibar City](../../countries/TZ/cities/zanzibar-city.yaml) 90.15; [Bagamoyo](../../countries/TZ/cities/bagamoyo.yaml) 82.95; [Dar es Salaam](../../countries/TZ/cities/dar-es-salaam.yaml) 82.60 |
 | TZ | sights | 27 | 18 | 91.20 | 13 | 3 | 13 | 27 | [Serengeti National Park](../../countries/TZ/sights/serengeti-national-park.yaml) 97.90; [Ngorongoro Conservation Area](../../countries/TZ/sights/ngorongoro-conservation-area.yaml) 96.55; [Kilimanjaro National Park](../../countries/TZ/sights/kilimanjaro-national-park.yaml) 95.50 |
 | UA | cities | 14 | 11 | 85.05 | 2 | 0 | 2 | 14 | [Kyiv](../../countries/UA/cities/kyiv.yaml) 91.65; [Lviv](../../countries/UA/cities/lviv.yaml) 90.65; [Kamianets-Podilskyi](../../countries/UA/cities/kamianets-podilskyi.yaml) 88.70 |
-| UA | sights | 49 | 19 | 88.55 | 5 | 0 | 13 | 49 | [Saint Sophia Cathedral and Kyiv-Pechersk Lavra (listed ensemble)](../../countries/UA/sights/kyiv-heritage.yaml) 92.45; [Lviv Historic Centre](../../countries/UA/sights/lviv-core.yaml) 91.80; [Cultural Landscape of Canyon in Kamianets-Podilskyi](../../countries/UA/sights/kamianets-canyon.yaml) 90.55 |
+| UA | sights | 49 | 21 | 88.55 | 6 | 0 | 13 | 49 | [Saint Sophia Cathedral and Kyiv-Pechersk Lavra (listed ensemble)](../../countries/UA/sights/kyiv-heritage.yaml) 92.45; [Lviv Historic Centre](../../countries/UA/sights/lviv-core.yaml) 91.80; [Cultural Landscape of Canyon in Kamianets-Podilskyi](../../countries/UA/sights/kamianets-canyon.yaml) 90.55 |
 | UG | cities | 6 | 5 | 79.20 | 0 | 0 | 0 | 6 | [Kampala](../../countries/UG/cities/kampala.yaml) 83.20; [Jinja](../../countries/UG/cities/jinja.yaml) 79.75; [Entebbe](../../countries/UG/cities/entebbe.yaml) 79.20 |
 | UG | sights | 25 | 17 | 89.85 | 7 | 1 | 7 | 25 | [Bwindi Impenetrable National Park](../../countries/UG/sights/bwindi-impenetrable-national-park.yaml) 95.45; [Rwenzori Mountains National Park](../../countries/UG/sights/rwenzori-mountains-national-park.yaml) 93.70; [Murchison Falls National Park](../../countries/UG/sights/murchison-falls-national-park.yaml) 93.30 |
 | UM | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
