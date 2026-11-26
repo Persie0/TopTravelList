@@ -679,3 +679,39 @@
 ## Heritage inventory recheck — 2026-11-26
 
 UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribed and two tentative properties. All represented at property or South African sector level. Individual serial components and current permissions remain incomplete; Sterkfontein is independently scoped rather than scored as the entire fossil property.
+
+## sight-za-kirstenbosch — Kirstenbosch National Botanical Garden
+
+### Reassessment — 2026-11-26 (worldwide bias pass 4)
+
+- [Source YAML](../../../countries/ZA/sights/kirstenbosch.yaml) · **source-linked-unverified** (specific source facts inspected as noted; independent corroboration and GPS remain incomplete).
+- Action: fact-check-only; retain rating. Precise subject: The garden's cultivated and natural estate; exclude separately rated Table Mountain summit and remote reserves.
+- Location: existing coordinates retained; not independently verified.
+- Evidence inspected 2026-11-26: [SANBI garden overview](https://www.sanbi.org/gardens/kirstenbosch/) and [SANBI biodiversity](https://www.sanbi.org/gardens/kirstenboch/garden-information/wildlife-and-biodiversity/), full text: mountain setting, 50 ha cultivated indigenous displays and 150 ha natural forest/fynbos with trails, part of the Cape Floristic protected area. Same operator, independent confirmation pending.
+- Source limitation: official institutional or tourism material supports physical/historical facts, not the subjective score; current access not checked.
+
+#### Worldwide peer comparisons
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [GB/kew-gardens](../../../countries/GB/sights/kew-gardens.yaml) | Kew's collection and historical institution are stronger globally; Kirstenbosch has a more dramatic natural backdrop. |
+| [SG/singapore-botanic-gardens](../../../countries/SG/sights/singapore-botanic-gardens.yaml) | Singapore combines tropical horticulture and historic research; Kirstenbosch specializes in indigenous Cape flora. |
+| [CN/xishuangbanna-tropical-botanical-garden](../../../countries/CN/sights/xishuangbanna-tropical-botanical-garden.yaml) | XTBG has much larger collections and rainforest research; Kirstenbosch provides scenic native vegetation and direct mountain context. |
+| [SG/jurong-lake-gardens](../../../countries/SG/sights/jurong-lake-gardens.yaml) | Jurong is chiefly a recreational garden, with less botanical conservation depth. |
+
+#### Scoring decisions
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| impact | 9.1 | 9.1 | Retain 9.1 for mountain backdrop and indigenous displays. |
+| uniqueness | 9.0 | 9.0 | Retain 9.0 for Cape flora and terrain, with other major botanical institutions as alternatives. |
+| significance | 9.0 | 9.0 | Retain 9.0 for conservation role; not the full Cape Floristic property. |
+| experience | 9.1 | 9.1 | Retain 9.1 for curated collections and walks, not summit excursions. |
+| depth | 8.7 | 8.7 | Retain 8.7 for natural and cultivated zones, below the largest global collections. |
+
+- Applicable category scores: nature: 9.3, photography: 9.2, relaxation: 9.0.
+- Computed overall: 90.15 → **90.15/100**.
+- High-score challenge: 90.15 retained; no 9.5+ fields. Name heuristic misclassifies the substantial estate as small scope.
+- Approved 10 registry: none.
+- Earlier decision: [prior YAML](https://github.com/Persie0/TopTravelList/blob/f72884a2bf772d85a89d699566180a0087d2be7f/countries/ZA/sights/kirstenbosch.yaml); earlier historical review entries preserved.
+- Verification still needed: precise GPS, independent source corroboration and visitor access boundaries; scores are editorial.

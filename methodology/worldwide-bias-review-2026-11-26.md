@@ -245,3 +245,19 @@ Full registry integration and validation run [45731932469](https://github.com/Pe
 | [Kala Patthar Viewpoint](../countries/NP/sights/kala-patthar-viewpoint.yaml) | 90.30 | 89.90 |
 
 All six decisions have four specific peer links, five reasons, source excerpt limitations and explicit high-field explanations. 22 records revised across three passes; full individual review remains outstanding.
+
+## Fourth correction pass — international garden calibration
+
+Seven named gardens in China, Japan and South Africa reassessed against four specific worldwide peers each. Four score revisions and three explicit retain decisions; institutional estate and visitor scope distinguished. Source claims were checked in accessible full text or clearly identified excerpts, with independent corroboration and GPS unresolved. No new 10 anchors or weight changes.
+
+| Destination | Before | After | Decision |
+| --- | ---: | ---: | --- |
+| Xishuangbanna Tropical Botanical Garden | 92.45 | 91.10 | revised |
+| Lion Grove Garden | 90.35 | 87.90 | revised |
+| Lingering Garden Suzhou | 91.40 | 89.90 | revised |
+| Humble Administrator's Garden | 91.55 | 91.15 | revised |
+| Kenrokuen Garden | 91.60 | 91.60 | retained |
+| Ritsurin Garden | 90.85 | 90.85 | retained |
+| Kirstenbosch National Botanical Garden | 90.15 | 90.15 | retained |
+
+Cumulative: 26 score revisions and three additional retained garden decisions; earlier Gornergrat retain decision also remains. Diagnostic and generated ranking files must be refreshed before merging.

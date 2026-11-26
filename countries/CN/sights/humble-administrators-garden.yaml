@@ -6,12 +6,12 @@ location:
   longitude: 120.624
 scores:
   impact: 9.0
-  uniqueness: 9.4
+  uniqueness: 9.3
   significance: 9.3
-  experience: 9.3
+  experience: 9.2
   depth: 8.5
   categories:
-    architecture: 9.6
-    history: 9.5
+    architecture: 9.4
+    history: 9.3
     nature: 9.1
     photography: 9.3
