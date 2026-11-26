@@ -2,7 +2,7 @@
 
 # Cameroon (CM) — Sights & attractions ranking
 
-**16 ranked** · **12 unassessed** · **28 total** · Worldwide scoring **v2**
+**18 ranked** · **10 unassessed** · **28 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (16)
+## Complete ranked list (18)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -25,20 +25,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 9 | [Campo-Ma’an National Park](sights/campo-maan-national-park.yaml) | Park / reserve | **87.95** | **Nature 9.3**, **Wildlife 9.2** | 8.7 / 9.0 / 9.2 / 8.3 / 8.5 | [2.458333, 10.316667](https://www.google.com/maps/search/?api=1&query=2.458333,10.316667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Campo-Ma%E2%80%99an%20National%20Park%2C%20Cameroon) |
 | 10 | [Foumban Royal Palace](sights/foumban-royal-palace.yaml) | Palace / castle | **86.45** | **History 9.2**, **Culture 9.1**, **Architecture 9.0** | 8.6 / 8.8 / 9.0 / 8.5 / 7.9 | [5.73303, 10.90119](https://www.google.com/maps/search/?api=1&query=5.73303,10.90119) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Foumban%20Royal%20Palace%2C%20Cameroon) |
 | 11 | [Bimbia Historic Slave Port and Nicholls Island](sights/bimbia-slave-port.yaml) | Island | **86.25** | **History 9.3** | 8.4 / 8.8 / 9.2 / 8.3 / 8.2 | [3.954444, 9.245](https://www.google.com/maps/search/?api=1&query=3.954444,9.245) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bimbia%20Historic%20Slave%20Port%20and%20Nicholls%20Island%2C%20Cameroon) |
-| 12 | [Waza National Park](sights/waza-national-park.yaml) | Park / reserve | **85.85** | **Wildlife 9.1**, **Nature 9.0** | 8.6 / 8.6 / 9.0 / 8.1 / 8.4 | [11.25, 14.666667](https://www.google.com/maps/search/?api=1&query=11.25,14.666667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waza%20National%20Park%2C%20Cameroon) |
-| 13 | [Mefou Primate Sanctuary](sights/mefou-primate-sanctuary.yaml) | Park / reserve | **84.65** | **Wildlife 8.8**, **Family 8.5**, **Nature 8.5** | 8.3 / 8.7 / 8.4 / 8.8 / 8.0 | [3.6292, 11.54403](https://www.google.com/maps/search/?api=1&query=3.6292,11.54403) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mefou%20Primate%20Sanctuary%2C%20Cameroon) |
-| 14 | [Ekom-Nkam Waterfalls](sights/ekom-nkam-waterfalls.yaml) | Waterfall | **82.95** | **Photography 9.0**, **Nature 8.9** | 8.8 / 8.4 / 7.6 / 8.5 / 7.6 | [5.06269, 10.02952](https://www.google.com/maps/search/?api=1&query=5.06269,10.02952) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ekom-Nkam%20Waterfalls%2C%20Cameroon) |
-| 15 | [Limbe Wildlife Centre](sights/limbe-wildlife-centre.yaml) | Attraction | **82.10** | **Wildlife 8.6**, **Family 8.3** | 8.0 / 8.4 / 8.3 / 8.6 / 7.6 | [4.016233, 9.1974872](https://www.google.com/maps/search/?api=1&query=4.016233,9.1974872) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Limbe%20Wildlife%20Centre%2C%20Cameroon) |
-| 16 | [Dschang Museum of Civilizations](sights/dschang-museum-of-civilizations.yaml) | Museum / heritage | **82.00** | **Culture 8.9**, **History 8.7** | 7.9 / 8.3 / 8.5 / 8.3 / 8.1 | [5.4500999, 10.0653934](https://www.google.com/maps/search/?api=1&query=5.4500999,10.0653934) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dschang%20Museum%20of%20Civilizations%2C%20Cameroon) |
+| 12 | [Bouba Ndjidda National Park](sights/bouba-ndjidda-national-park.yaml) | Park / reserve | **86.15** | **Wildlife 9.1**, **Nature 8.9** | 8.5 / 8.6 / 9.0 / 8.5 / 8.4 | [8.675, 14.666667](https://www.google.com/maps/search/?api=1&query=8.675,14.666667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bouba%20Ndjidda%20National%20Park%2C%20Cameroon) |
+| 13 | [Waza National Park](sights/waza-national-park.yaml) | Park / reserve | **85.85** | **Wildlife 9.1**, **Nature 9.0** | 8.6 / 8.6 / 9.0 / 8.1 / 8.4 | [11.25, 14.666667](https://www.google.com/maps/search/?api=1&query=11.25,14.666667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waza%20National%20Park%2C%20Cameroon) |
+| 14 | [Bidzar Rock Engravings](sights/bidzar-rock-engravings.yaml) | Attraction | **84.95** | **History 9.2** | 8.3 / 8.9 / 9.0 / 8.0 / 7.8 | [9.852222, 14.113611](https://www.google.com/maps/search/?api=1&query=9.852222,14.113611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bidzar%20Rock%20Engravings%2C%20Cameroon) |
+| 15 | [Mefou Primate Sanctuary](sights/mefou-primate-sanctuary.yaml) | Park / reserve | **84.65** | **Wildlife 8.8**, **Family 8.5**, **Nature 8.5** | 8.3 / 8.7 / 8.4 / 8.8 / 8.0 | [3.6292, 11.54403](https://www.google.com/maps/search/?api=1&query=3.6292,11.54403) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mefou%20Primate%20Sanctuary%2C%20Cameroon) |
+| 16 | [Ekom-Nkam Waterfalls](sights/ekom-nkam-waterfalls.yaml) | Waterfall | **82.95** | **Photography 9.0**, **Nature 8.9** | 8.8 / 8.4 / 7.6 / 8.5 / 7.6 | [5.06269, 10.02952](https://www.google.com/maps/search/?api=1&query=5.06269,10.02952) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ekom-Nkam%20Waterfalls%2C%20Cameroon) |
+| 17 | [Limbe Wildlife Centre](sights/limbe-wildlife-centre.yaml) | Attraction | **82.10** | **Wildlife 8.6**, **Family 8.3** | 8.0 / 8.4 / 8.3 / 8.6 / 7.6 | [4.016233, 9.1974872](https://www.google.com/maps/search/?api=1&query=4.016233,9.1974872) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Limbe%20Wildlife%20Centre%2C%20Cameroon) |
+| 18 | [Dschang Museum of Civilizations](sights/dschang-museum-of-civilizations.yaml) | Museum / heritage | **82.00** | **Culture 8.9**, **History 8.7** | 7.9 / 8.3 / 8.5 / 8.3 / 8.1 | [5.4500999, 10.0653934](https://www.google.com/maps/search/?api=1&query=5.4500999,10.0653934) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dschang%20Museum%20of%20Civilizations%2C%20Cameroon) |
 
-## Not yet fully assessed (12)
+## Not yet fully assessed (10)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Bidzar Rock Engravings](sights/bidzar-rock-engravings.yaml) | Attraction | **—** | **History 9.2** | — / 8.9 / 9.0 / — / — | [9.852222, 14.113611](https://www.google.com/maps/search/?api=1&query=9.852222,14.113611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bidzar%20Rock%20Engravings%2C%20Cameroon) |
-| — | [Bouba Ndjidda National Park](sights/bouba-ndjidda-national-park.yaml) | Park / reserve | **—** | **Wildlife 9.1**, **Nature 8.9** | 8.5 / 8.6 / 9.0 / — / — | [8.675, 14.666667](https://www.google.com/maps/search/?api=1&query=8.675,14.666667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bouba%20Ndjidda%20National%20Park%2C%20Cameroon) |
 | — | [Boumba Bek and Nki National Parks](sights/boumba-bek-nki.yaml) | Park / reserve | **—** | **Nature 9.4**, **Wildlife 9.4** | — / 9.1 / 9.3 / — / — | [2.458333, 14.958333](https://www.google.com/maps/search/?api=1&query=2.458333,14.958333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boumba%20Bek%20and%20Nki%20National%20Parks%2C%20Cameroon) |
 | — | [Diy-Gid-Biy Cultural Landscape of the Mandara Mountains](sights/diy-gid-biy.yaml) | Mountain / peak | **—** | **Culture 9.5**, **History 9.4**, **Architecture 9.2** | 8.8 / 9.4 / 9.5 / — / — | [10.903333, 13.795556](https://www.google.com/maps/search/?api=1&query=10.903333,13.795556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Diy-Gid-Biy%20Cultural%20Landscape%20of%20the%20Mandara%20Mountains%2C%20Cameroon) |
 | — | [Djohong Megaliths](sights/djohong-megaliths.yaml) | Attraction | **—** | **History 8.9** | — / 8.5 / 8.7 / — / — | [6.016389, 14.653056](https://www.google.com/maps/search/?api=1&query=6.016389,14.653056) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djohong%20Megaliths%2C%20Cameroon) |
