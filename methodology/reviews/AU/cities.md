@@ -28,7 +28,7 @@
 
 Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
 
-- [hong kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3/9.2/9.1/9.3/9.7; More distinctive dense harbor city and greater urban depth.
+- [hong kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3/9.2/9.1/9.3/9.7; More distinctive dense harbor city and greater urban depth.
 - [rio de janeiro (BR)](../../../countries/BR/cities/rio-de-janeiro.yaml) — 9.5/9.4/9.2/9.0/9.6; Stronger mountain and urban beach setting, distinct cultural breadth.
 - [san francisco (US)](../../../countries/US/cities/san-francisco.yaml) — 9.0/9.0/8.8/8.9/9.0; Close iconic harbor, bridge and neighborhood comparator.
 - [vancouver (CA)](../../../countries/CA/cities/vancouver.yaml) — 8.9/8.5/8.0/9.0/8.8; Similar coastal urban recreation, less architectural landmark significance.

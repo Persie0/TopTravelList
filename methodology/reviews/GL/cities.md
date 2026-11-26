@@ -9,7 +9,7 @@
 - Worldwide peers (I/U/S/E/D):
   - [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5 / 8.7 / 8.5 / 9.0 / 8.9; larger Nordic capital; uniqueness higher (Greenlandic capital culture and Arctic setting); depth lower (several distinct neighborhoods and institutions).
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness equal (Greenlandic capital culture and Arctic setting); depth lower (several distinct neighborhoods and institutions).
-  - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Greenlandic capital culture and Arctic setting); depth higher (several distinct neighborhoods and institutions).
+  - [Longyearbyen (NO)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Greenlandic capital culture and Arctic setting); depth higher (several distinct neighborhoods and institutions).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (Greenlandic capital culture and Arctic setting); depth higher (several distinct neighborhoods and institutions).
 #### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
 
@@ -39,7 +39,7 @@ No numerical score or evidence-status changes made by this pass.
 - Worldwide peers (I/U/S/E/D):
   - [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5 / 8.7 / 8.5 / 9.0 / 8.9; larger Nordic capital; uniqueness equal (Arctic working town character); depth lower (compact settlement).
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (Arctic working town character); depth lower (compact settlement).
-  - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Arctic working town character); depth lower (compact settlement).
+  - [Longyearbyen (NO)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Arctic working town character); depth lower (compact settlement).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (Arctic working town character); depth higher (compact settlement).
 #### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
 
@@ -69,7 +69,7 @@ No numerical score or evidence-status changes made by this pass.
 - Worldwide peers (I/U/S/E/D):
   - [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5 / 8.7 / 8.5 / 9.0 / 8.9; larger Nordic capital; uniqueness lower (living Greenlandic fishing and hunting culture); depth lower (compact town).
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (living Greenlandic fishing and hunting culture); depth lower (compact town).
-  - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (living Greenlandic fishing and hunting culture); depth lower (compact town).
+  - [Longyearbyen (NO)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (living Greenlandic fishing and hunting culture); depth lower (compact town).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (living Greenlandic fishing and hunting culture); depth higher (compact town).
 #### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
 
@@ -99,7 +99,7 @@ No numerical score or evidence-status changes made by this pass.
 - Worldwide peers (I/U/S/E/D):
   - [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5 / 8.7 / 8.5 / 9.0 / 8.9; larger Nordic capital; uniqueness lower (South Greenland townscape); depth lower (compact town excluding Norse sites).
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (South Greenland townscape); depth lower (compact town excluding Norse sites).
-  - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (South Greenland townscape); depth lower (compact town excluding Norse sites).
+  - [Longyearbyen (NO)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (South Greenland townscape); depth lower (compact town excluding Norse sites).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness lower (South Greenland townscape); depth lower (compact town excluding Norse sites).
 #### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
 
@@ -129,7 +129,7 @@ No numerical score or evidence-status changes made by this pass.
 - Worldwide peers (I/U/S/E/D):
   - [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5 / 8.7 / 8.5 / 9.0 / 8.9; larger Nordic capital; uniqueness equal (East Greenland cultural setting); depth lower (compact settlement excluding hikes and fjord trips).
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (East Greenland cultural setting); depth lower (compact settlement excluding hikes and fjord trips).
-  - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (East Greenland cultural setting); depth lower (compact settlement excluding hikes and fjord trips).
+  - [Longyearbyen (NO)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (East Greenland cultural setting); depth lower (compact settlement excluding hikes and fjord trips).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (East Greenland cultural setting); depth lower (compact settlement excluding hikes and fjord trips).
 #### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
 
@@ -159,7 +159,7 @@ No numerical score or evidence-status changes made by this pass.
 - Worldwide peers (I/U/S/E/D):
   - [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5 / 8.7 / 8.5 / 9.0 / 8.9; larger Nordic capital; uniqueness lower (Disko Island community and Arctic station); depth lower (small town excluding island excursions).
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (Disko Island community and Arctic station); depth lower (small town excluding island excursions).
-  - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Disko Island community and Arctic station); depth lower (small town excluding island excursions).
+  - [Longyearbyen (NO)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Disko Island community and Arctic station); depth lower (small town excluding island excursions).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (Disko Island community and Arctic station); depth lower (small town excluding island excursions).
 #### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
 
@@ -189,7 +189,7 @@ No numerical score or evidence-status changes made by this pass.
 - Worldwide peers (I/U/S/E/D):
   - [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5 / 8.7 / 8.5 / 9.0 / 8.9; larger Nordic capital; uniqueness lower (former airbase setting); depth lower (few independent urban attractions).
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (former airbase setting); depth lower (few independent urban attractions).
-  - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (former airbase setting); depth lower (few independent urban attractions).
+  - [Longyearbyen (NO)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (former airbase setting); depth lower (few independent urban attractions).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness lower (former airbase setting); depth lower (few independent urban attractions).
 #### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
 

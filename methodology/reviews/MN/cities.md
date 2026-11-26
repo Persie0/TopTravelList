@@ -7,7 +7,7 @@
 - [YAML](../../../countries/MN/cities/ulaanbaatar.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding outlying sights. GPS 47.9184, 106.9177: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Ulaanbaatar has lower provisional uniqueness and lower depth (urban center of nomadic-influenced society; many neighborhoods and institutions).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Ulaanbaatar has lower provisional uniqueness and lower depth (urban center of nomadic-influenced society; many neighborhoods and institutions).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Ulaanbaatar has lower provisional uniqueness and lower depth (urban center of nomadic-influenced society; many neighborhoods and institutions).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Ulaanbaatar has equal provisional uniqueness and lower depth (urban center of nomadic-influenced society; many neighborhoods and institutions).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Ulaanbaatar has higher provisional uniqueness and higher depth (urban center of nomadic-influenced society; many neighborhoods and institutions).
@@ -178,7 +178,7 @@
 - [YAML](../../../countries/MN/cities/darkhan.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, excluding outlying sights. GPS 49.486, 105.922: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Darkhan has lower provisional uniqueness and lower depth (Soviet-influenced urban form; several city districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Darkhan has lower provisional uniqueness and lower depth (Soviet-influenced urban form; several city districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Darkhan has lower provisional uniqueness and lower depth (Soviet-influenced urban form; several city districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Darkhan has lower provisional uniqueness and lower depth (Soviet-influenced urban form; several city districts).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Darkhan has lower provisional uniqueness and lower depth (Soviet-influenced urban form; several city districts).
@@ -197,7 +197,7 @@
 - [YAML](../../../countries/MN/cities/erdenet.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, excluding outlying sights. GPS 49.034, 104.044: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Erdenet has lower provisional uniqueness and lower depth (modern industrial identity; mine excluded).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Erdenet has lower provisional uniqueness and lower depth (modern industrial identity; mine excluded).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Erdenet has lower provisional uniqueness and lower depth (modern industrial identity; mine excluded).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Erdenet has lower provisional uniqueness and lower depth (modern industrial identity; mine excluded).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Erdenet has lower provisional uniqueness and lower depth (modern industrial identity; mine excluded).
