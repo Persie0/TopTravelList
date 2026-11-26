@@ -761,3 +761,117 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Bahrain Authority for Culture and Antiquities search excerpt; possible named-site context, full page timed out](https://culture.gov.bh/en/visitingbahrain/CulturalTourism/Destinations/), accessed or excerpt inspected 2026-11-25; individual claims and GPS not fully checked.
 - Remaining gaps: Independent factual, GPS, peer and category verification.
+
+## sight-bh-marassi-aquarium — Marassi Aquarium and Underwater Zoo — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/marassi-aquarium.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated aquarium and underwater zoo exhibits in Marassi Galleria, not beach or mall. Government landmark coordinates used. No independent animal welfare or conservation outcomes assessed.
+- Location check: 26.30271554, 50.64461133; [representative point source](https://www.data.gov.bh/explore/dataset/geographical-locations-of-landmarks/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.marassiaquarium.bh/about-us/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/national-aquarium-abu-dhabi](../../../countries/AE/sights/national-aquarium-abu-dhabi.yaml) | 8.6 / 8.3 / 7.6 / 8.8 / 8.8 | Broader aquarium scope. |
+| [AE/dubai-mall-aquarium-and-underwater-zoo](../../../countries/AE/sights/dubai-mall-aquarium-and-underwater-zoo.yaml) | 8.0 / 7.6 / 6.2 / 8.4 / 7.6 | Comparable mall-based aquarium. |
+| [SG/singapore-oceanarium](../../../countries/SG/sights/singapore-oceanarium.yaml) | 8.9 / 8.7 / 7.6 / 9.1 / 8.8 | Larger and broader marine collection. |
+| [BH/al-areen-wildlife-park](../../../countries/BH/sights/al-areen-wildlife-park.yaml) | 7.5 / 7.8 / 8.2 / 8.0 / 7.6 | Different land-based wildlife experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Engaging aquarium displays. |
+| Uniqueness | 8.0 | Regional aquarium with familiar exhibit format. |
+| Significance | 7.1 | Regional educational relevance. |
+| Experience | 8.6 | Varied family-oriented marine exhibits. |
+| Depth | 8.4 | Multiple themed environments. |
+
+- Applicable categories: family:8.9, wildlife:8.7, nature:8.3.
+- Computed worldwide overall: 80.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-bh-al-dana-amphitheatre — Beyon Al Dana Amphitheatre — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/al-dana-amphitheatre.yaml)
+- Action: new
+- Precise subject and limitations: Distinct concert venue near Bahrain International Circuit, only ticketed public event experience, not general guaranteed admission. Operator calendar https://www.beyonaldana.com.bh/ confirms public programming. Coordinate converted from Wikidata DMS, entry lacks cited coordinate provenance.
+- Location check: 26.037206111, 50.514681111; [representative point source](https://www.wikidata.org/wiki/Q112153416), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.bahrain.com/en/beyon-aldana-amphitheatre); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/bahrain-national-theatre](../../../countries/BH/sights/bahrain-national-theatre.yaml) | 7.7 / 7.7 / 7.5 / 8.0 / 7.1 | Different national indoor performing arts institution. |
+| [BH/bahrain-international-circuit](../../../countries/BH/sights/bahrain-international-circuit.yaml) | 8.2 / 7.8 / 8.0 / 8.5 / 7.8 | Separate sporting venue nearby. |
+| [QA/katara-cultural-village](../../../countries/QA/sights/katara-cultural-village.yaml) | 8.3 / 8.1 / 7.8 / 8.6 / 8.3 | Broader cultural district. |
+| [QA/lusail-international-circuit](../../../countries/QA/sights/lusail-international-circuit.yaml) | 8.5 / 8.2 / 8.2 / 8.7 / 8.1 | Separate event-dependent sporting experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Distinctive outdoor performance setting. |
+| Uniqueness | 8.4 | Amphitheatre in desert setting. |
+| Significance | 7.4 | Contemporary regional performing arts venue. |
+| Experience | 8.6 | Potentially strong live events, programme dependent. |
+| Depth | 7.7 | Focused concert venue rather than cultural complex. |
+
+- Applicable categories: culture:8.8, architecture:8.6, nightlife:8.8.
+- Computed worldwide overall: 81.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-bh-bahrain-pearl-diving — Bahrain Pearl Diving and Snorkelling (Bu Maher Departure) — 2026-11-26
+
+- YAML: [source](../../../countries/BH/sights/bahrain-pearl-diving.yaml)
+- Action: new
+- Precise subject and limitations: Licensed pearl-diving or snorkelling excursion, not historic Pearling Path buildings or fort visit. Tourism authority identifies Saada and Bu Maher marinas as departures; coordinate is government-listed Bu Maher Fort vicinity as representative departure marker, not offshore dive site or exact berth. Licensed operators only; eligibility, sea conditions and pearl discoveries vary. Government fort coordinate differs from existing fort YAML; note discrepancy for location verification without modifying existing record.
+- Location check: 26.24078112, 50.61397505; [representative point source](https://www.data.gov.bh/explore/dataset/geographical-locations-of-historical-sites/?flg=en-gb), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.bahrain.com/en/the-pearl-snorkelling-and-diving); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/pearling-path-muharraq](../../../countries/BH/sights/pearling-path-muharraq.yaml) | 8.4 / 9.1 / 9.3 / 8.6 / 8.6 | Broader tangible built heritage, distinct land-based scope. |
+| [BH/bu-maher-fort](../../../countries/BH/sights/bu-maher-fort.yaml) | 7.2 / 7.6 / 8.2 / 7.4 / 6.4 | Historic departure setting rather than marine activity. |
+| [AE/snoopy-island-reef](../../../countries/AE/sights/snoopy-island-reef.yaml) | 8.4 / 8.4 / 7.7 / 8.6 / 7.8 | Different wildlife and reef snorkelling focus. |
+| [QA/al-thakhira-mangrove-reserve](../../../countries/QA/sights/al-thakhira-mangrove-reserve.yaml) | 8.0 / 8.2 / 8.5 / 8.3 / 7.8 | Different guided marine nature experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Distinct hands-on marine heritage experience. |
+| Uniqueness | 9.0 | Direct participation in traditional pearling. |
+| Significance | 8.8 | Strong regional maritime heritage connection. |
+| Experience | 8.5 | Guided excursion with conditions and eligibility limits. |
+| Depth | 7.9 | Focused activity rather than full heritage trail. |
+
+- Applicable categories: culture:9.1, history:9.0, adventure:8.9.
+- Computed worldwide overall: 85.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

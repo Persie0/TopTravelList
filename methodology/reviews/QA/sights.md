@@ -1312,3 +1312,79 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-qa-angry-birds-world — Angry Birds World — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/angry-birds-world.yaml)
+- Action: new
+- Precise subject and limitations: Indoor and outdoor branded family attraction at Doha Festival City, excluding mall shopping. Individual rides and age restrictions vary. Venue coordinates from third-party directory, not independently corroborated.
+- Location check: 25.3905, 51.4344; [representative point source](https://plizio.com/en/qatar/qa-da/angry-birds-world/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitqatar.com/intl-en/things-to-do/family-fun/angry-birds-theme-park-doha); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/doha-quest](../../../countries/QA/sights/doha-quest.yaml) | 7.7 / 7.4 / 6.0 / 8.4 / 7.6 | Comparable indoor family recreation. |
+| [QA/lusail-winter-wonderland](../../../countries/QA/sights/lusail-winter-wonderland.yaml) | 8.1 / 7.9 / 6.2 / 8.8 / 8.3 | More seasonal outdoor amusement. |
+| [AE/img-worlds-of-adventure](../../../countries/AE/sights/img-worlds-of-adventure.yaml) | 8.5 / 8.4 / 6.8 / 8.9 / 8.8 | Much broader themed park. |
+| [BH/adhari-park](../../../countries/BH/sights/adhari-park.yaml) | 6.9 / 6.5 / 5.5 / 7.9 / 7.3 | Comparable regional family entertainment. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Colourful indoor and outdoor play areas. |
+| Uniqueness | 8.1 | Distinct game-themed recreation but familiar ride formats. |
+| Significance | 6.1 | Contemporary commercial entertainment. |
+| Experience | 8.7 | Varied family and thrill activities. |
+| Depth | 8.2 | Several indoor and outdoor zones. |
+
+- Applicable categories: family:9.0, adventure:8.5.
+- Computed worldwide overall: 77.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-dadu-gardens — Dadu Gardens — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/dadu-gardens.yaml)
+- Action: new
+- Precise subject and limitations: Seasonal outdoor living classrooms and garden activities, not unopened indoor Dadu museum. Operator visitor policy limits entry to children under 12 accompanied by guardians; adults without children cannot enter. Coordinate extracted from official map redirect, map endpoint returned HTTP 500. Ticketed programmes and weather closures vary.
+- Location check: 25.3075469, 51.5093018; [representative point source](https://qm.org.qa/en/about-us/dadu-childrens-museum-qatar/visitor-guidelines/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://qm.org.qa/en/about-us/dadu-childrens-museum-qatar/dadu-gardens/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/heenat-salma-farm](../../../countries/QA/sights/heenat-salma-farm.yaml) | 7.7 / 8.3 / 7.9 / 8.3 / 8.0 | Broader cultivation and workshops. |
+| [QA/aspire-park](../../../countries/QA/sights/aspire-park.yaml) | 7.0 / 6.4 / 6.0 / 8.0 / 7.5 | Larger general park but less focused interpretation. |
+| [AE/sharjah-desert-park](../../../countries/AE/sights/sharjah-desert-park.yaml) | 8.1 / 8.4 / 8.2 / 8.4 / 8.7 | Broader natural history and wildlife displays. |
+| [SG/jurong-lake-gardens](../../../countries/SG/sights/jurong-lake-gardens.yaml) | 8.2 / 8.0 / 7.1 / 8.6 / 8.5 | Larger public gardens with broader access. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Appealing landscaped learning spaces. |
+| Uniqueness | 8.2 | Purpose-built outdoor children's museum concept. |
+| Significance | 7.6 | Regional education and garden interpretation. |
+| Experience | 8.3 | Participatory family activities, restricted audience. |
+| Depth | 7.7 | Several garden and learning areas. |
+
+- Applicable categories: family:9.0, culture:8.3, nature:8.3.
+- Computed worldwide overall: 78.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
