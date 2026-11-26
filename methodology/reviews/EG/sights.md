@@ -876,3 +876,108 @@
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
+
+
+### sight-eg-hanging-church — Hanging Church (Al-Muallaqa) — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/hanging-church.yaml)
+- Action: new
+- Precise subject and factual basis: Historic Coptic church above the Roman Babylon fortress gate, with icons and distinctive interior; individual church rather than entire Coptic Cairo. [Visitor information](https://egymonuments.gov.eg/en/monuments/the-hanging-church); source excerpts inspected 2026-11-26.
+- Location check: 30.00525, 31.23017; [published reference](https://mapcarta.com/28191710); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/historic-cairo](../../../countries/EG/sights/historic-cairo.yaml) | Much broader historic fabric |
+| [EG/al-azhar-mosque](../../../countries/EG/sights/al-azhar-mosque.yaml) | Different scholarly and architectural tradition |
+| [GB/st-pauls](../../../countries/GB/sights/st-pauls.yaml) | More monumental scale |
+| [RO/voronet](../../../countries/RO/sights/voronet.yaml) | Distinctive painted monastic heritage |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Distinctive historic interior |
+| uniqueness | 8.8 | Unusual fortress-gate construction |
+| significance | 9.1 | Important Coptic religious heritage |
+| experience | 8.5 | Focused architectural visit |
+| depth | 8.1 | Single church with rich details |
+
+- Applicable categories: architecture:8.9, history:9.2, culture:9.0.
+- Computed worldwide overall: 86.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-eg-coptic-museum — Coptic Museum — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/coptic-museum.yaml)
+- Action: new
+- Precise subject and factual basis: Specialist collection of Coptic art and artifacts in Old Cairo; excludes neighboring churches. [Visitor information](https://egymonuments.gov.eg/en/news/today-we-celebrate-the-anniversary-of-the-opening-of-the-coptic-museum-in-cairo); source excerpts inspected 2026-11-26.
+- Location check: 30.00577, 31.23036; [published reference](https://mapcarta.com/28191694); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/nmec](../../../countries/EG/sights/nmec.yaml) | Broader Egyptian civilization |
+| [EG/egyptian-museum-cairo](../../../countries/EG/sights/egyptian-museum-cairo.yaml) | Different ancient Egyptian focus |
+| [EG/hanging-church](../../../countries/EG/sights/hanging-church.yaml) | Focused religious monument |
+| [GB/victoria-albert](../../../countries/GB/sights/victoria-albert.yaml) | Greater encyclopedic decorative-arts breadth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Rich artifact displays |
+| uniqueness | 9.2 | Unusually comprehensive specialist collection |
+| significance | 9.3 | Major Christian Egyptian heritage |
+| experience | 8.8 | Curated collection visit |
+| depth | 9.1 | Extensive historical material |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:8.7.
+- Computed worldwide overall: 90.00/100.
+- High-score challenge: 90+ justified provisionally by combined collection, architectural or historical merits and comparative breadth. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-eg-khan-el-khalili — Khan el-Khalili Bazaar — 2026-11-26
+
+- YAML: [source](../../../countries/EG/sights/khan-el-khalili.yaml)
+- Action: new
+- Precise subject and factual basis: Historic market district within Islamic Cairo; shops, lanes and street atmosphere, not entire Al-Muizz Street or Historic Cairo. [Visitor information](https://egymonuments.gov.eg/en/archaeological-sites/al-muizz-street); source excerpts inspected 2026-11-26.
+- Location check: 30.04754, 31.26217; [published reference](https://mapcarta.com/26256626); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/historic-cairo](../../../countries/EG/sights/historic-cairo.yaml) | Broader architectural landscape |
+| [MA/jemaa-el-fnaa](../../../countries/MA/sights/jemaa-el-fnaa.yaml) | Distinct public-square performance tradition |
+| [MA/medina-fez](../../../countries/MA/sights/medina-fez.yaml) | More extensive historic urban fabric |
+| [MA/medina-marrakech](../../../countries/MA/sights/medina-marrakech.yaml) | Broader medina |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Vibrant market atmosphere |
+| uniqueness | 8.5 | Comparable historic bazaars |
+| significance | 8.6 | Historic urban commerce |
+| experience | 8.9 | Varied pedestrian exploration |
+| depth | 8.5 | Multiple streets and stalls |
+
+- Applicable categories: culture:9.0, food:8.6, photography:8.8, history:8.7.
+- Computed worldwide overall: 86.40/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

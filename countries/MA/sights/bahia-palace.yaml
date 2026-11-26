@@ -1,0 +1,17 @@
+id: sight-ma-bahia-palace
+name: "Bahia Palace"
+location:
+  country_code: MA
+  latitude: 31.62159
+  longitude: -7.98223
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 8.9
+    culture: 8.9
+    photography: 9.1

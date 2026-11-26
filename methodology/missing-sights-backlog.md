@@ -133,6 +133,17 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] EG — Blue Hole (Dahab): 85.75/100 (source-linked, factual and location verification pending)
 - [x] MA — Jemaa el-Fnaa Square: 89.40/100 (source-linked, factual and location verification pending)
 
+- [x] EG — Hanging Church (Al-Muallaqa): 86.85/100 (source-linked, full verification pending)
+- [x] EG — Coptic Museum: 90.00/100 (source-linked, full verification pending)
+- [x] EG — Khan el-Khalili Bazaar: 86.40/100 (source-linked, full verification pending)
+- [x] MA — Bahia Palace: 87.95/100 (source-linked, full verification pending)
+- [x] MA — Ben Youssef Madrasa: 87.65/100 (source-linked, full verification pending)
+- [x] MA — El Badi Palace: 85.85/100 (source-linked, full verification pending)
+- [x] MA — Chefchaouen Kasbah and Museum: 82.40/100 (source-linked, full verification pending)
+- [x] RO — Peleș Castle: 90.20/100 (source-linked, full verification pending)
+- [x] GB — Buckingham Palace (State Rooms and exterior): 88.90/100 (source-linked, full verification pending)
+- [x] GB — White Cliffs of Dover: 85.90/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
 - [ ] US: Canyon de Chelly National Monument (rim overlooks and guided canyon visits; [NPS FAQ](https://www.nps.gov/cach/faqs.htm)); Antelope Canyon X (distinct guided route; [Navajo Nation tour operators](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)); verify separate scope and coordinates before scoring.
@@ -152,7 +163,7 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [ ] All 20 source-supported candidates and wider country queues in [pass 3](missing-sights-audit-pass3-2026-11-26.md).
 - [ ] US: Times Square, Las Vegas Strip, remaining individual Disney/Universal parks (EPCOT, Animal Kingdom, Hollywood Studios, California Adventure, Universal parks); assess additional distinct National Mall memorials and Smithsonian museums, and separate Apollo/Saturn V Center only after nested-scope review.
 - [ ] CA: Capilano, Parliament Hill, Toronto Islands, Old Montreal, Notre-Dame Basilica.
-- [ ] EG: Khan el-Khalili, Coptic Cairo individual attractions (avoid Historic Cairo duplicate); MA: Chefchaouen individual attractions, Bahia Palace, Ben Youssef Madrasa; RO: Peleș Castle; RU: Catherine Palace, Saint Isaac's Cathedral; GB: White Cliffs of Dover, Buckingham Palace, Harry Potter Studio Tour; FR: Disneyland Paris, Les Baux castle; DE: Rakotzbrücke; IT: Blue Grotto; PT: Oceanário, National Tile Museum; PS: Church of Nativity; IL/PS: Western Wall (resolve geographic registry convention first).
+- [ ] EG: Al-Mu'izz Street (distinct route, [ministry](https://egymonuments.gov.eg/en/archaeological-sites/al-muizz-street)), Abu Serga Church (verify individual scope and GPS); MA: Chefchaouen medina visitor streets, Saadian Tombs, Koutoubia Mosque exterior, Marrakech Museum; RO: Pelișor Castle (separate museum, verify scope); RU: Catherine Palace, Saint Isaac's Cathedral; GB: Harry Potter Studio Tour; FR: Disneyland Paris, Les Baux castle; DE: Rakotzbrücke; IT: Blue Grotto; PT: Oceanário, National Tile Museum; PS: Church of Nativity; IL/PS: Western Wall (resolve geographic registry convention first).
 - [ ] PA: Casco Viejo exact scope; PR: Old San Juan vs fortifications; MP: Banzai Cliff; IR: Shahdad Kaluts vs Lut Desert; MS: Soufrière Hills visitor scope; PH: Banaue rice terraces alias/component scope.
 
 ## Already matched / not automatically a new sight
@@ -165,4 +176,4 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for one hundred and seventeen additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for one hundred and twenty-seven additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.

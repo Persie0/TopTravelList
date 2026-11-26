@@ -2722,3 +2722,73 @@ All 37 formerly editorial-only records (11 cities, 26 sights) now have supportin
 - Verification still needed: individual exhibit availability, exact location and primary operator page.
 
 The British Museum's provisional 94.90 is supported by its multi-gallery, multi-civilization scope; its uniqueness and significance exceed the KHM (9.4 and 9.6) only slightly, while KHM's experience 9.4 exceeds British Museum's 9.3. Current source confirms more than 60 galleries, not unrestricted access to all stored objects. Further close same-type comparison of each of the original 38 exceptional cases remains necessary. Overall inventory now 108 records (30 cities, 78 sights); 107 ranked, one unassessed. No previous numeric vectors or scoring weights changed.
+
+
+### sight-gb-buckingham-palace — Buckingham Palace (State Rooms and exterior) — 2026-11-26
+
+- YAML: [source](../../../countries/GB/sights/buckingham-palace.yaml)
+- Action: new
+- Precise subject and factual basis: Working royal palace with seasonal State Rooms visitor access and exterior setting; exclude unrelated royal residences and verify dates. [Visitor information](https://www.rct.uk/visit/buckingham-palace); source excerpts inspected 2026-11-26.
+- Location check: 51.50094, -0.14289; [published reference](https://mapcarta.com/17654496/Map); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/windsor-castle](../../../countries/GB/sights/windsor-castle.yaml) | More varied long historical fabric |
+| [GB/hampton-court](../../../countries/GB/sights/hampton-court.yaml) | Greater estate breadth |
+| [GB/blenheim](../../../countries/GB/sights/blenheim.yaml) | More expansive gardens |
+| [RO/peles-castle](../../../countries/RO/sights/peles-castle.yaml) | More ornate individual interior emphasis |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Iconic palace and interiors |
+| uniqueness | 8.8 | Comparable royal palaces exist |
+| significance | 9.2 | Constitutional and ceremonial significance |
+| experience | 8.8 | Seasonal interior visits and exterior experience |
+| depth | 8.6 | Several State Rooms |
+
+- Applicable categories: architecture:9.0, history:9.2, culture:9.2, photography:8.9.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-gb-white-cliffs-of-dover — White Cliffs of Dover — 2026-11-26
+
+- YAML: [source](../../../countries/GB/sights/white-cliffs-of-dover.yaml)
+- Action: new
+- Precise subject and factual basis: National Trust visitor area and clifftop paths; separate from Dover Castle and Seven Sisters. GPS is representative visitor area. [Visitor information](https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover); source excerpts inspected 2026-11-26.
+- Location check: 51.13157, 1.33745; [published reference](https://mapcarta.com/N9233842519); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/seven-sisters](../../../countries/GB/sights/seven-sisters.yaml) | Comparable chalk cliffs with different profile |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More extensive coastal walking |
+| [GB/south-downs](../../../countries/GB/sights/south-downs.yaml) | Broader landscape |
+| [GB/windsor-castle](../../../countries/GB/sights/windsor-castle.yaml) | Different heritage significance |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Iconic chalk coast |
+| uniqueness | 8.4 | Other chalk cliffs comparable |
+| significance | 8.6 | Natural and national historical symbolism |
+| experience | 8.8 | Scenic coastal paths |
+| depth | 8.4 | Several viewpoints and routes |
+
+- Applicable categories: nature:8.9, photography:9.0, history:8.7, adventure:8.5.
+- Computed worldwide overall: 85.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

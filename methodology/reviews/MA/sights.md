@@ -686,3 +686,143 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
+
+
+### sight-ma-bahia-palace — Bahia Palace — 2026-11-26
+
+- YAML: [source](../../../countries/MA/sights/bahia-palace.yaml)
+- Action: new
+- Precise subject and factual basis: Nineteenth-century palace and its courtyards and decorative Moroccan architecture; independent visit inside medina. [Visitor information](https://www.visitmorocco.com/en/blog/marrakech-biennale-2016); source excerpts inspected 2026-11-26.
+- Location check: 31.62159, -7.98223; [published reference](https://mapcarta.com/17461052); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MA/medina-marrakech](../../../countries/MA/sights/medina-marrakech.yaml) | Parent broader |
+| [MA/hassan-ii-mosque](../../../countries/MA/sights/hassan-ii-mosque.yaml) | Different monumental craftsmanship |
+| [EG/muhammad-ali-mosque](../../../countries/EG/sights/muhammad-ali-mosque.yaml) | Different Ottoman architecture |
+| [GB/hampton-court](../../../countries/GB/sights/hampton-court.yaml) | More extensive royal estate |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Intricate courtyards and decoration |
+| uniqueness | 8.7 | Distinctive craftsmanship with regional peers |
+| significance | 8.7 | Royal and elite architectural heritage |
+| experience | 8.8 | Several rooms and courtyards |
+| depth | 8.6 | Varied interior ensemble |
+
+- Applicable categories: architecture:9.3, history:8.9, culture:8.9, photography:9.1.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-ma-ben-youssef-madrasa — Ben Youssef Madrasa — 2026-11-26
+
+- YAML: [source](../../../countries/MA/sights/ben-youssef-madrasa.yaml)
+- Action: new
+- Precise subject and factual basis: Historic Islamic college with Saadian decoration, courtyard and student rooms; separate from neighboring mosque. [Visitor information](https://www.medersabenyoussef.com/history); source excerpts inspected 2026-11-26.
+- Location check: 31.63188, -7.98711; [published reference](https://mapcarta.com/28376160); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | Larger palace visitor scope |
+| [MA/medina-fez](../../../countries/MA/sights/medina-fez.yaml) | Broader scholarly urban heritage |
+| [EG/al-azhar-mosque](../../../countries/EG/sights/al-azhar-mosque.yaml) | Greater continuing scholarly significance |
+| [MA/hassan-ii-mosque](../../../countries/MA/sights/hassan-ii-mosque.yaml) | Different monumental religious building |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Exceptional ornamental courtyard |
+| uniqueness | 8.8 | Distinctive educational architecture |
+| significance | 8.9 | Important religious education history |
+| experience | 8.7 | Focused interior exploration |
+| depth | 8.1 | One richly decorated complex |
+
+- Applicable categories: architecture:9.3, history:9.0, culture:9.0, photography:9.1.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-ma-el-badi-palace — El Badi Palace — 2026-11-26
+
+- YAML: [source](../../../countries/MA/sights/el-badi-palace.yaml)
+- Action: new
+- Precise subject and factual basis: Ruined Saadian palace precinct; surviving monumental walls and courtyards distinguish it from Bahia Palace. [Visitor information](https://www.visitmorocco.com/en/travel/marrakesh); source excerpts inspected 2026-11-26.
+- Location check: 31.61833, -7.98583; [published reference](https://mapcarta.com/27598844); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | More intact decorative interiors |
+| [MA/chellah](../../../countries/MA/sights/chellah.yaml) | Different fortified archaeological ensemble |
+| [MA/volubilis](../../../countries/MA/sights/volubilis.yaml) | Greater archaeological breadth |
+| [EG/cairo-citadel](../../../countries/EG/sights/cairo-citadel.yaml) | More extensive fort and monuments |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.5 | Impressive ruined ensemble |
+| uniqueness | 8.5 | Comparable palace ruins exist |
+| significance | 8.9 | Saadian royal heritage |
+| experience | 8.6 | Walkable monument grounds |
+| depth | 8.4 | Several archaeological features |
+
+- Applicable categories: architecture:8.8, history:9.0, culture:8.8, photography:8.7.
+- Computed worldwide overall: 85.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+### sight-ma-chefchaouen-kasbah — Chefchaouen Kasbah and Museum — 2026-11-26
+
+- YAML: [source](../../../countries/MA/sights/chefchaouen-kasbah.yaml)
+- Action: new
+- Precise subject and factual basis: Ticketed kasbah and ethnographic museum, not the entire blue-painted medina. Secondary visitor description https://www.feelmorocco.travel/destinations/chefchaouen/kasbah-chefchaouen/. [Visitor information](https://e-services.minculture.gov.ma/en/tickets); source excerpts inspected 2026-11-26.
+- Location check: 35.16863, -5.26177; [published reference](https://mapcarta.com/W379559177); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MA/ait-ben-haddou](../../../countries/MA/sights/ait-ben-haddou.yaml) | More extraordinary fortified settlement |
+| [MA/chellah](../../../countries/MA/sights/chellah.yaml) | Broader archaeological context |
+| [MA/mazagan](../../../countries/MA/sights/mazagan.yaml) | Larger fortified city ensemble |
+| [EG/qaitbay-citadel](../../../countries/EG/sights/qaitbay-citadel.yaml) | More monumental coastal fortress |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.1 | Historic fortress and garden |
+| uniqueness | 8.2 | Other regional kasbahs comparable |
+| significance | 8.5 | Local founding and cultural heritage |
+| experience | 8.4 | Museum and architectural visit |
+| depth | 8.0 | Focused fort complex |
+
+- Applicable categories: architecture:8.6, history:8.7, culture:8.6.
+- Computed worldwide overall: 82.40/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

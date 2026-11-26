@@ -1,0 +1,17 @@
+id: sight-ro-peles-castle
+name: "Peleș Castle"
+location:
+  country_code: RO
+  latitude: 45.35984
+  longitude: 25.54265
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.1
+    culture: 9.0
+    photography: 9.1
