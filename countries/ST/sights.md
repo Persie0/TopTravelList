@@ -2,7 +2,7 @@
 
 # Sao Tome and Principe (ST) — Sights & attractions ranking
 
-**38 ranked** · **2 unassessed** · **40 total** · Worldwide scoring **v2**
+**39 ranked** · **1 unassessed** · **40 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (38)
+## Complete ranked list (39)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -47,19 +47,19 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 31 | [Praia Inhame](sights/praia-inhame.yaml) | Attraction | **77.20** | **Beaches 8.8**, **Relaxation 8.7**, **Photography 8.5** | 8.5 / 8.0 / 6.0 / 8.4 / 7.1 | [0.029, 6.524](https://www.google.com/maps/search/?api=1&query=0.029,6.524) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Praia%20Inhame%2C%20Sao%20Tome%20and%20Principe) |
 | 32 | [Cláudio Corallo Chocolate Factory](sights/claudio-corallo-chocolate-factory.yaml) | Attraction | **77.10** | **Food 9.0**, **Culture 8.2** | 7.2 / 8.4 / 7.5 / 8.4 / 6.9 | [0.332, 6.727](https://www.google.com/maps/search/?api=1&query=0.332,6.727) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cl%C3%A1udio%20Corallo%20Chocolate%20Factory%2C%20Sao%20Tome%20and%20Principe) |
 | 33 | [Praia Fernão Dias](sights/praia-fernao-dias.yaml) | Attraction | **76.40** | **History 9.0**, **Culture 8.5** | 7.1 / 8.0 / 8.7 / 7.6 / 6.3 | [0.413, 6.655](https://www.google.com/maps/search/?api=1&query=0.413,6.655) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Praia%20Fern%C3%A3o%20Dias%2C%20Sao%20Tome%20and%20Principe) |
-| 34 | [CACAU Cultural Centre](sights/cacau-cultural-centre.yaml) | Attraction | **75.20** | **Culture 8.6** | 7.1 / 7.8 / 7.5 / 8.2 / 7.1 | [0.336, 6.735](https://www.google.com/maps/search/?api=1&query=0.336,6.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=CACAU%20Cultural%20Centre%2C%20Sao%20Tome%20and%20Principe) |
-| 35 | [Praia dos Tamarindos](sights/praia-dos-tamarindos.yaml) | Attraction | **74.90** | **Beaches 8.5**, **Relaxation 8.5** | 8.2 / 7.6 / 5.9 / 8.4 / 6.9 | [0.407, 6.609](https://www.google.com/maps/search/?api=1&query=0.407,6.609) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Praia%20dos%20Tamarindos%2C%20Sao%20Tome%20and%20Principe) |
-| 36 | [Casa Museu Almada Negreiros](sights/casa-museu-almada-negreiros.yaml) | Attraction | **74.55** | **Culture 8.6**, **History 8.1** | 7.0 / 7.9 / 7.8 / 7.8 / 6.5 | [0.293, 6.628](https://www.google.com/maps/search/?api=1&query=0.293,6.628) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa%20Museu%20Almada%20Negreiros%2C%20Sao%20Tome%20and%20Principe) |
-| 37 | [Cathedral of Our Lady of Grace](sights/cathedral-of-our-lady-of-grace.yaml) | Religious site | **73.10** | **History 8.3**, **Architecture 8.2**, **Culture 8.1** | 6.9 / 7.6 / 8.0 / 7.6 / 6.0 | [0.339, 6.732](https://www.google.com/maps/search/?api=1&query=0.339,6.732) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20Our%20Lady%20of%20Grace%2C%20Sao%20Tome%20and%20Principe) |
-| 38 | [Equator Monument (Ilhéu das Rolas)](sights/equator-monument-ilheu-das-rolas.yaml) | Attraction | **72.90** | **Photography 8.2**, **History 7.6** | 6.8 / 8.3 / 7.4 / 7.7 / 5.4 | [0.0, 6.522](https://www.google.com/maps/search/?api=1&query=0.0,6.522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Equator%20Monument%20%28Ilh%C3%A9u%20das%20Rolas%29%2C%20Sao%20Tome%20and%20Principe) |
+| 34 | [Ilhéu das Cabras](sights/ilheu-das-cabras.yaml) | Attraction | **75.25** | **Nature 8.0** | 7.9 / 7.7 / 7.0 / 7.8 / 6.6 | [0.424, 6.716](https://www.google.com/maps/search/?api=1&query=0.424,6.716) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ilh%C3%A9u%20das%20Cabras%2C%20Sao%20Tome%20and%20Principe) |
+| 35 | [CACAU Cultural Centre](sights/cacau-cultural-centre.yaml) | Attraction | **75.20** | **Culture 8.6** | 7.1 / 7.8 / 7.5 / 8.2 / 7.1 | [0.336, 6.735](https://www.google.com/maps/search/?api=1&query=0.336,6.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=CACAU%20Cultural%20Centre%2C%20Sao%20Tome%20and%20Principe) |
+| 36 | [Praia dos Tamarindos](sights/praia-dos-tamarindos.yaml) | Attraction | **74.90** | **Beaches 8.5**, **Relaxation 8.5** | 8.2 / 7.6 / 5.9 / 8.4 / 6.9 | [0.407, 6.609](https://www.google.com/maps/search/?api=1&query=0.407,6.609) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Praia%20dos%20Tamarindos%2C%20Sao%20Tome%20and%20Principe) |
+| 37 | [Casa Museu Almada Negreiros](sights/casa-museu-almada-negreiros.yaml) | Attraction | **74.55** | **Culture 8.6**, **History 8.1** | 7.0 / 7.9 / 7.8 / 7.8 / 6.5 | [0.293, 6.628](https://www.google.com/maps/search/?api=1&query=0.293,6.628) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Casa%20Museu%20Almada%20Negreiros%2C%20Sao%20Tome%20and%20Principe) |
+| 38 | [Cathedral of Our Lady of Grace](sights/cathedral-of-our-lady-of-grace.yaml) | Religious site | **73.10** | **History 8.3**, **Architecture 8.2**, **Culture 8.1** | 6.9 / 7.6 / 8.0 / 7.6 / 6.0 | [0.339, 6.732](https://www.google.com/maps/search/?api=1&query=0.339,6.732) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cathedral%20of%20Our%20Lady%20of%20Grace%2C%20Sao%20Tome%20and%20Principe) |
+| 39 | [Equator Monument (Ilhéu das Rolas)](sights/equator-monument-ilheu-das-rolas.yaml) | Attraction | **72.90** | **Photography 8.2**, **History 7.6** | 6.8 / 8.3 / 7.4 / 7.7 / 5.4 | [0.0, 6.522](https://www.google.com/maps/search/?api=1&query=0.0,6.522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Equator%20Monument%20%28Ilh%C3%A9u%20das%20Rolas%29%2C%20Sao%20Tome%20and%20Principe) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Ilhéu das Cabras](sights/ilheu-das-cabras.yaml) | Attraction | **—** | **Nature 8.0** | — / — / 7.0 / — / — | [0.424, 6.716](https://www.google.com/maps/search/?api=1&query=0.424,6.716) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ilh%C3%A9u%20das%20Cabras%2C%20Sao%20Tome%20and%20Principe) |
 | — | [Tinhosas Islets](sights/tinhosas-islets.yaml) | Island | **—** | **Wildlife 9.4**, **Nature 8.9** | — / — / 8.5 / — / — | [1.383, 7.29](https://www.google.com/maps/search/?api=1&query=1.383,7.29) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tinhosas%20Islets%2C%20Sao%20Tome%20and%20Principe) |
 
 ---

@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14745; unassessed: 1524.
+Ranked: 14749; unassessed: 1520.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 387 |
+| conflicting-declared-status | 390 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1524 |
+| incomplete-core | 1520 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1793 |
 | overall-95-plus | 159 |
@@ -333,7 +333,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MT | cities | 23 | 23 | 76.55 | 1 | 0 | 1 | 23 | [Valletta](../../countries/MT/cities/valletta.yaml) 91.80; [Mdina](../../countries/MT/cities/mdina.yaml) 87.10; [Birgu (Vittoriosa)](../../countries/MT/cities/birgu-vittoriosa.yaml) 85.75 |
 | MT | sights | 37 | 37 | 83.60 | 6 | 0 | 7 | 37 | [St John's Co-Cathedral](../../countries/MT/sights/st-johns-co-cathedral.yaml) 93.35; [Valletta Historic Centre](../../countries/MT/sights/valletta-historic-centre.yaml) 92.90; [Ħal Saflieni Hypogeum](../../countries/MT/sights/hal-saflieni-hypogeum.yaml) 92.10 |
 | MU | cities | 22 | 22 | 70.98 | 0 | 0 | 0 | 22 | [Port Louis](../../countries/MU/cities/port-louis.yaml) 82.30; [Mahebourg](../../countries/MU/cities/mahebourg.yaml) 77.85; [Port Mathurin](../../countries/MU/cities/port-mathurin.yaml) 76.40 |
-| MU | sights | 63 | 59 | 79.45 | 1 | 0 | 2 | 63 | [Le Morne Cultural Landscape](../../countries/MU/sights/le-morne-cultural-landscape.yaml) 93.45; [Black River Gorges National Park](../../countries/MU/sights/black-river-gorges-national-park.yaml) 89.20; [Ganga Talao (Grand Bassin)](../../countries/MU/sights/ganga-talao-grand-bassin.yaml) 86.35 |
+| MU | sights | 63 | 60 | 79.52 | 1 | 0 | 2 | 63 | [Le Morne Cultural Landscape](../../countries/MU/sights/le-morne-cultural-landscape.yaml) 93.45; [Black River Gorges National Park](../../countries/MU/sights/black-river-gorges-national-park.yaml) 89.20; [Ganga Talao (Grand Bassin)](../../countries/MU/sights/ganga-talao-grand-bassin.yaml) 86.35 |
 | MV | cities | 25 | 25 | 72.35 | 0 | 0 | 0 | 25 | [Fuvahmulah](../../countries/MV/cities/fuvahmulah.yaml) 82.05; [Male](../../countries/MV/cities/male.yaml) 80.80; [Thoddoo](../../countries/MV/cities/thoddoo.yaml) 77.75 |
 | MV | sights | 42 | 40 | 81.35 | 6 | 0 | 4 | 42 | [South Ari Marine Protected Area](../../countries/MV/sights/south-ari-marine-protected-area.yaml) 93.55; [Hanifaru Bay Marine Protected Area](../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) 93.30; [Baa Atoll Biosphere Reserve](../../countries/MV/sights/baa-atoll-biosphere-reserve.yaml) 93.15 |
 | MW | cities | 18 | 18 | 72.58 | 0 | 0 | 0 | 18 | [Livingstonia](../../countries/MW/cities/livingstonia.yaml) 82.70; [Zomba](../../countries/MW/cities/zomba.yaml) 80.00; [Chembe (Cape Maclear village)](../../countries/MW/cities/chembe-cape-maclear-village.yaml) 78.45 |
@@ -415,7 +415,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SB | cities | 9 | 9 | 66.55 | 0 | 0 | 0 | 9 | [Honiara](../../countries/SB/cities/honiara.yaml) 73.90; [Gizo](../../countries/SB/cities/gizo.yaml) 71.05; [Tulagi](../../countries/SB/cities/tulagi.yaml) 71.05 |
 | SB | sights | 16 | 13 | 79.60 | 1 | 0 | 0 | 16 | [Marovo Lagoon](../../countries/SB/sights/marovo-lagoon.yaml) 90.25; [Kolombangara Central Caldera Forests](../../countries/SB/sights/kolombangara-central-caldera-forests.yaml) 88.55; [Tetepare Island](../../countries/SB/sights/tetepare-island.yaml) 87.60 |
 | SC | cities | 14 | 14 | 68.52 | 0 | 0 | 0 | 14 | [La Passe (La Digue)](../../countries/SC/cities/la-passe-la-digue.yaml) 78.65; [Victoria](../../countries/SC/cities/victoria.yaml) 77.90; [Beau Vallon](../../countries/SC/cities/beau-vallon.yaml) 72.30 |
-| SC | sights | 49 | 46 | 80.48 | 3 | 0 | 4 | 49 | [Aldabra Atoll](../../countries/SC/sights/aldabra-atoll.yaml) 92.20; [Vallée de Mai Nature Reserve](../../countries/SC/sights/vallee-de-mai-nature-reserve.yaml) 91.65; [Anse Source d'Argent](../../countries/SC/sights/anse-source-d-argent.yaml) 90.65 |
+| SC | sights | 49 | 48 | 80.80 | 3 | 0 | 4 | 49 | [Aldabra Atoll](../../countries/SC/sights/aldabra-atoll.yaml) 92.20; [Vallée de Mai Nature Reserve](../../countries/SC/sights/vallee-de-mai-nature-reserve.yaml) 91.65; [Anse Source d'Argent](../../countries/SC/sights/anse-source-d-argent.yaml) 90.65 |
 | SD | cities | 9 | 5 | 79.25 | 0 | 0 | 0 | 9 | [Omdurman](../../countries/SD/cities/omdurman.yaml) 80.75; [Suakin](../../countries/SD/cities/suakin.yaml) 80.75; [Kassala](../../countries/SD/cities/kassala.yaml) 79.25 |
 | SD | sights | 26 | 13 | 90.15 | 7 | 0 | 10 | 26 | [Royal Pyramids of Meroë](../../countries/SD/sights/meroe-pyramids.yaml) 94.55; [Jebel Barkal Archaeological Site](../../countries/SD/sights/jebel-barkal.yaml) 93.15; [Sanganeb Marine National Park](../../countries/SD/sights/sanganeb-marine-national-park.yaml) 93.05 |
 | SE | cities | 23 | 23 | 81.35 | 1 | 0 | 1 | 23 | [Stockholm](../../countries/SE/cities/stockholm.yaml) 92.90; [Visby](../../countries/SE/cities/visby.yaml) 89.55; [Uppsala](../../countries/SE/cities/uppsala.yaml) 86.45 |
@@ -443,7 +443,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SS | cities | 10 | 1 | 71.55 | 0 | 0 | 0 | 10 | [Juba](../../countries/SS/cities/juba.yaml) 71.55 |
 | SS | sights | 20 | 6 | 72.12 | 0 | 0 | 4 | 20 | [Nimule National Park](../../countries/SS/sights/nimule-national-park.yaml) 80.25; [John Garang Mausoleum](../../countries/SS/sights/john-garang-mausoleum.yaml) 76.40; [Fula Rapids](../../countries/SS/sights/fula-rapids.yaml) 73.70 |
 | ST | cities | 12 | 12 | 69.12 | 0 | 0 | 0 | 12 | [Santo António (Príncipe)](../../countries/ST/cities/santo-antonio-principe.yaml) 77.85; [São Tomé](../../countries/ST/cities/sao-tome.yaml) 77.55; [São João dos Angolares](../../countries/ST/cities/sao-joao-dos-angolares.yaml) 74.15 |
-| ST | sights | 40 | 38 | 80.55 | 2 | 0 | 4 | 40 | [Obô Natural Park (São Tomé)](../../countries/ST/sights/obo-natural-park-sao-tome.yaml) 90.75; [Príncipe Natural Park](../../countries/ST/sights/principe-natural-park.yaml) 90.05; [Pico Cão Grande](../../countries/ST/sights/pico-cao-grande.yaml) 88.05 |
+| ST | sights | 40 | 39 | 80.45 | 2 | 0 | 4 | 40 | [Obô Natural Park (São Tomé)](../../countries/ST/sights/obo-natural-park-sao-tome.yaml) 90.75; [Príncipe Natural Park](../../countries/ST/sights/principe-natural-park.yaml) 90.05; [Pico Cão Grande](../../countries/ST/sights/pico-cao-grande.yaml) 88.05 |
 | SV | cities | 24 | 24 | 73.32 | 0 | 0 | 0 | 24 | [Suchitoto](../../countries/SV/cities/suchitoto.yaml) 82.10; [San Salvador](../../countries/SV/cities/san-salvador.yaml) 81.25; [Santa Ana](../../countries/SV/cities/santa-ana.yaml) 79.80 |
 | SV | sights | 54 | 50 | 79.88 | 0 | 0 | 1 | 54 | [Joya de Cerén Archaeological Site](../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) 89.70; [Santa Ana Volcano (Ilamatepec)](../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) 89.60; [Los Volcanes National Park](../../countries/SV/sights/los-volcanes-national-park.yaml) 88.95 |
 | SX | cities | 2 | 2 | 76.85 | 0 | 0 | 0 | 2 | [Philipsburg](../../countries/SX/cities/philipsburg.yaml) 79.25; [Simpson Bay (village)](../../countries/SX/cities/simpson-bay.yaml) 74.45 |
