@@ -333,3 +333,7 @@ Ten individual decisions: nine missing-core profiles completed; one retained unr
 ## Tenth pass — third 100-record incomplete-core batch
 
 [Batch register](worldwide-incomplete-batch-100-pass10-2026-11-26.md): 100 distinct records, 15 newly complete ratings and 85 retained incomplete. Sources support missing-field judgments, with exact scope and four numeric peer links per completed record. Previously populated fields and categories not independently recalibrated. No new perfect scores or weight changes. Generated rankings require refresh.
+
+## Eleventh pass — fourth 100-record incomplete-core batch
+
+[Batch register](worldwide-incomplete-batch-100-pass11-2026-11-26.md): 100 records (99 new triage targets and one pass 6 carry-forward); 9 newly complete, 91 remain incomplete, including two documented closures. Prior populated fields and categories were not independently recalibrated. Source excerpts support missing-field judgments only. No new perfect scores, GPS or weight changes. Generated rankings require refresh.
