@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14895; unassessed: 1374.
+Ranked: 14898; unassessed: 1371.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1374 |
+| incomplete-core | 1371 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -416,7 +416,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SB | sights | 16 | 13 | 79.60 | 1 | 0 | 0 | 16 | [Marovo Lagoon](../../countries/SB/sights/marovo-lagoon.yaml) 90.25; [Kolombangara Central Caldera Forests](../../countries/SB/sights/kolombangara-central-caldera-forests.yaml) 88.55; [Tetepare Island](../../countries/SB/sights/tetepare-island.yaml) 87.60 |
 | SC | cities | 14 | 14 | 68.52 | 0 | 0 | 0 | 14 | [La Passe (La Digue)](../../countries/SC/cities/la-passe-la-digue.yaml) 78.65; [Victoria](../../countries/SC/cities/victoria.yaml) 77.90; [Beau Vallon](../../countries/SC/cities/beau-vallon.yaml) 72.30 |
 | SC | sights | 49 | 48 | 80.80 | 3 | 0 | 4 | 49 | [Aldabra Atoll](../../countries/SC/sights/aldabra-atoll.yaml) 92.20; [Vallée de Mai Nature Reserve](../../countries/SC/sights/vallee-de-mai-nature-reserve.yaml) 91.65; [Anse Source d'Argent](../../countries/SC/sights/anse-source-d-argent.yaml) 90.65 |
-| SD | cities | 9 | 5 | 79.25 | 0 | 0 | 0 | 9 | [Omdurman](../../countries/SD/cities/omdurman.yaml) 80.75; [Suakin](../../countries/SD/cities/suakin.yaml) 80.75; [Kassala](../../countries/SD/cities/kassala.yaml) 79.25 |
+| SD | cities | 9 | 6 | 76.18 | 0 | 0 | 0 | 9 | [Omdurman](../../countries/SD/cities/omdurman.yaml) 80.75; [Suakin](../../countries/SD/cities/suakin.yaml) 80.75; [Kassala](../../countries/SD/cities/kassala.yaml) 79.25 |
 | SD | sights | 26 | 13 | 90.15 | 7 | 0 | 10 | 26 | [Royal Pyramids of Meroë](../../countries/SD/sights/meroe-pyramids.yaml) 94.55; [Jebel Barkal Archaeological Site](../../countries/SD/sights/jebel-barkal.yaml) 93.15; [Sanganeb Marine National Park](../../countries/SD/sights/sanganeb-marine-national-park.yaml) 93.05 |
 | SE | cities | 23 | 23 | 81.35 | 1 | 0 | 1 | 23 | [Stockholm](../../countries/SE/cities/stockholm.yaml) 92.90; [Visby](../../countries/SE/cities/visby.yaml) 89.55; [Uppsala](../../countries/SE/cities/uppsala.yaml) 86.45 |
 | SE | sights | 64 | 64 | 86.10 | 10 | 0 | 3 | 64 | [Laponian Area](../../countries/SE/sights/laponian-area.yaml) 94.75; [Vasa Museum](../../countries/SE/sights/vasa-museum.yaml) 93.60; [Sarek National Park](../../countries/SE/sights/sarek-national-park.yaml) 93.25 |
@@ -438,7 +438,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SN | sights | 23 | 20 | 87.42 | 3 | 0 | 2 | 23 | [Island of Gorée](../../countries/SN/sights/goree-island.yaml) 92.10; [Saloum Delta](../../countries/SN/sights/saloum-delta.yaml) 91.95; [Djoudj National Bird Sanctuary](../../countries/SN/sights/djoudj-bird-sanctuary.yaml) 91.50 |
 | SO | cities | 10 | 3 | 74.80 | 0 | 0 | 0 | 10 | [Berbera](../../countries/SO/cities/berbera.yaml) 81.00; [Hargeisa](../../countries/SO/cities/hargeisa.yaml) 74.80; [Sheikh](../../countries/SO/cities/sheikh.yaml) 73.00 |
 | SO | sights | 13 | 5 | 79.80 | 1 | 0 | 1 | 13 | [Laas Geel Rock Art](../../countries/SO/sights/laas-geel.yaml) 92.45; [Old Berbera Heritage Quarter](../../countries/SO/sights/old-berbera.yaml) 83.30; [Sheikh Mountain Pass](../../countries/SO/sights/sheikh-mountain-pass.yaml) 79.80 |
-| SR | cities | 20 | 19 | 67.05 | 0 | 0 | 0 | 20 | [Paramaribo](../../countries/SR/cities/paramaribo.yaml) 84.30; [Pikin Slee](../../countries/SR/cities/pikin-slee.yaml) 74.65; [Palumeu](../../countries/SR/cities/palumeu.yaml) 73.55 |
+| SR | cities | 20 | 20 | 67.45 | 0 | 0 | 0 | 20 | [Paramaribo](../../countries/SR/cities/paramaribo.yaml) 84.30; [Kwamalasamutu](../../countries/SR/cities/kwamalasamutu.yaml) 75.25; [Pikin Slee](../../countries/SR/cities/pikin-slee.yaml) 74.65 |
 | SR | sights | 37 | 31 | 80.25 | 0 | 0 | 1 | 37 | [Historic Inner City of Paramaribo](../../countries/SR/sights/historic-inner-city-of-paramaribo.yaml) 89.65; [Central Suriname Nature Reserve](../../countries/SR/sights/central-suriname-nature-reserve.yaml) 89.50; [Raleighvallen and Voltzberg Visitor Area](../../countries/SR/sights/raleighvallen-and-voltzberg-visitor-area.yaml) 87.50 |
 | SS | cities | 10 | 1 | 71.55 | 0 | 0 | 0 | 10 | [Juba](../../countries/SS/cities/juba.yaml) 71.55 |
 | SS | sights | 20 | 6 | 72.12 | 0 | 0 | 4 | 20 | [Nimule National Park](../../countries/SS/sights/nimule-national-park.yaml) 80.25; [John Garang Mausoleum](../../countries/SS/sights/john-garang-mausoleum.yaml) 76.40; [Fula Rapids](../../countries/SS/sights/fula-rapids.yaml) 73.70 |
@@ -448,7 +448,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SV | sights | 54 | 50 | 79.88 | 0 | 0 | 1 | 54 | [Joya de Cerén Archaeological Site](../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) 89.70; [Santa Ana Volcano (Ilamatepec)](../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) 89.60; [Los Volcanes National Park](../../countries/SV/sights/los-volcanes-national-park.yaml) 88.95 |
 | SX | cities | 2 | 2 | 76.85 | 0 | 0 | 0 | 2 | [Philipsburg](../../countries/SX/cities/philipsburg.yaml) 79.25; [Simpson Bay (village)](../../countries/SX/cities/simpson-bay.yaml) 74.45 |
 | SX | sights | 10 | 10 | 80.05 | 0 | 0 | 0 | 10 | [Man of War Shoal Marine Park (registered dive sites)](../../countries/SX/sights/man-of-war-shoal.yaml) 84.45; [Rockland Estate (Rainforest Adventures)](../../countries/SX/sights/rockland-estate.yaml) 82.30; [Fort Amsterdam](../../countries/SX/sights/fort-amsterdam.yaml) 81.65 |
-| SY | cities | 10 | 7 | 80.80 | 0 | 0 | 0 | 10 | [Damascus](../../countries/SY/cities/damascus.yaml) 89.60; [Aleppo](../../countries/SY/cities/aleppo.yaml) 86.10; [Maaloula](../../countries/SY/cities/maaloula.yaml) 83.35 |
+| SY | cities | 10 | 8 | 79.70 | 0 | 0 | 0 | 10 | [Damascus](../../countries/SY/cities/damascus.yaml) 89.60; [Aleppo](../../countries/SY/cities/aleppo.yaml) 86.10; [Maaloula](../../countries/SY/cities/maaloula.yaml) 83.35 |
 | SY | sights | 31 | 20 | 87.15 | 3 | 0 | 0 | 31 | [Umayyad Mosque, Damascus](../../countries/SY/sights/umayyad-mosque.yaml) 90.75; [Ancient City of Damascus](../../countries/SY/sights/ancient-damascus.yaml) 90.70; [Krak des Chevaliers](../../countries/SY/sights/krak-des-chevaliers.yaml) 90.65 |
 | SZ | cities | 15 | 15 | 68.10 | 0 | 0 | 0 | 15 | [Lobamba](../../countries/SZ/cities/lobamba.yaml) 77.25; [Bulembu](../../countries/SZ/cities/bulembu.yaml) 75.30; [Mbabane](../../countries/SZ/cities/mbabane.yaml) 74.35 |
 | SZ | sights | 30 | 29 | 78.30 | 0 | 0 | 1 | 30 | [Mkhaya Game Reserve](../../countries/SZ/sights/mkhaya-game-reserve.yaml) 87.15; [Malolotja Nature Reserve](../../countries/SZ/sights/malolotja-nature-reserve.yaml) 86.90; [Ngwenya Mines and Lion Cavern](../../countries/SZ/sights/ngwenya-mines-and-lion-cavern.yaml) 86.50 |
