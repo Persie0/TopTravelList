@@ -93,6 +93,37 @@ Worldwide v2; 2026-11-25. Approximate coordinates. Peer vectors read from curren
 - High-score challenge: Photography is supported by multiple river and skyline compositions, below Huangshan's wider landscape..
 - Evidence: [Inventory or property reference](https://whc.unesco.org/en/list/616) inspected 2026-11-25 for limited identity or parent context; specific claims and GPS not fully checked.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 3)
+
+- [Source YAML](../../../countries/CZ/sights/charles-bridge.yaml) · **source-linked-unverified** (specific claims checked using search excerpts, not full-text or objective score verification).
+- Action: rescore. Precise subject: The historic crossing, statues and views from it; exclude separate tower interiors, museums and entire Prague historic center.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Evidence: [Prague City Tourism](https://prague.eu/en/objevujte/charles-bridge-karluv-most/) search excerpt checked 2026-11-26 describes the series of saints' statues; [Old Town Bridge Tower](https://prague.eu/en/objevujte/old-town-bridge-tower-staromestska-mostecka-vez/) and [Charles Bridge Museum](https://prague.eu/en/objevujte/charles-bridge-museum-muzeum-karlova-mostu/) describe distinct attractions.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [BA/sights/mostar-old-bridge-area](../../../countries/BA/sights/mostar-old-bridge-area.yaml) | 90.60: comparable historic crossing, broader urban ensemble. |
+| [FR/sights/pont-du-gard](../../../countries/FR/sights/pont-du-gard.yaml) | 92.15: greater ancient engineering distinction and a larger observable heritage setting. |
+| [GB/sights/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | 88.05: stronger industrial engineering milestone, less sculptural urban scenery. |
+| [AU/sights/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Comparable iconic crossing and city views, much different structure and period. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.4 | 9.1 | 9.1 for the statue-lined bridge and views, not the whole city skyline experience. |
+| Uniqueness | 9.3 | 9.0 | 9.0 for the distinctive Gothic crossing and Baroque sculpture ensemble; other great historic bridges exist. |
+| Significance | 9.2 | 9.2 | 9.2 retained for the medieval crossing and its long civic history. |
+| Experience | 9.2 | 8.9 | 8.9 for a rewarding pedestrian crossing; do not count separate tower or museum entry. |
+| Depth | 8.0 | 7.5 | 7.5 for one linear monument with multiple sculptural details. |
+
+- Categories after: architecture 9.3, photography 9.5, history 9.3.
+- Computed overall: 91.65/100 → **89.05/100**.
+- High-score challenge: Photography 9.5 recognizes the strongly composed views and sculpture; no other 9.5+ fields.
+- Earlier decision: original dated review above, retained.
+- Verification still needed: full source texts, exact GPS and independent visitor experience; numerical judgment editorial.
+
+
 ## sight-cz-old-town-square-prague — Old Town Square Prague — 2026-11-25
 
 - [YAML](../../../countries/CZ/sights/old-town-square-prague.yaml) · Action: new · **editorial-only**. GPS approximate (50.0875, 14.4211); exact point unchecked.

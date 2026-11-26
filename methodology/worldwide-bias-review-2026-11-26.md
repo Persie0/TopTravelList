@@ -230,3 +230,18 @@ Seven additional records: three Indian temples, the Panama Canal and three citie
 | [Cape Town](../countries/ZA/cities/cape-town.yaml) | 91.55 | 93.30 |
 
 Each updated original review contains the dated reassessment with four actual peer links, five separate reasons and material source checks. Across both passes: 16 revised records, not 16,000 independent re-reviews. Earlier baseline table remains a snapshot. Source coverage and GPS limitations remain explicit. No automatic rating changes.
+
+## Third correction pass — targeted review of scope outliers
+
+Full registry integration and validation run [45731932469](https://github.com/Persie0/Playground/actions/runs/45731932469): 250 areas, 16,269 records, 14,679 ranked and 1,590 unassessed. The [record-level diagnostic](worldwide-diagnostics/README.md) and TSV contain all source records, not individual verification. Of 36 small-scope heuristic flags, six additional records were individually reassessed. The Gornergrat flag was checked and retained: its scope includes a railway and multiple view opportunities, comparable to Aiguille du Midi (91.90), not simply a viewing platform. No automatic country corrections.
+
+| Destination | Before | After |
+| --- | ---: | ---: |
+| [Statue of Unity](../countries/IN/sights/statue-of-unity.yaml) | 90.05 | 88.80 |
+| [Charles Bridge](../countries/CZ/sights/charles-bridge.yaml) | 91.65 | 89.05 |
+| [Zhaozhou Bridge](../countries/CN/sights/zhaozhou-bridge.yaml) | 91.25 | 88.60 |
+| [Tiananmen Square](../countries/CN/sights/tiananmen-square.yaml) | 91.00 | 87.80 |
+| [Yumen Pass (Jade Gate)](../countries/CN/sights/yumen-pass.yaml) | 90.70 | 85.55 |
+| [Kala Patthar Viewpoint](../countries/NP/sights/kala-patthar-viewpoint.yaml) | 90.30 | 89.90 |
+
+All six decisions have four specific peer links, five reasons, source excerpt limitations and explicit high-field explanations. 22 records revised across three passes; full individual review remains outstanding.

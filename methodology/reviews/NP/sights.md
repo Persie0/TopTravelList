@@ -1674,6 +1674,37 @@ Worldwide v2 · 2026-11-25. Numerical peer ladders are current ranking-page snap
 - Evidence: [NTB base camp trek and Kala Patthar](https://ntb.gov.np/everest-base-camp), search excerpt reviewed 2026-11-25; no comprehensive exact-site check.
 - Remaining gaps: independently verify site identity, representative GPS, permitted visitor scope, factual claims, category-specific comparisons and detailed field-by-field peers. Ratings are not route or access advice.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 3)
+
+- [Source YAML](../../../countries/NP/sights/kala-patthar-viewpoint.yaml) · **source-linked-unverified** (specific claims checked using search excerpts, not full-text or objective score verification).
+- Action: rescore. Precise subject: The summit outlook and immediate approach, excluding the full Everest Base Camp trek and Everest itself.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Evidence: [Nepal Tourism Board](https://ntb.gov.np/everest-base-camp) and [Everest region](https://trade.ntb.gov.np/tourist-destination/everest-region-2/) search excerpts checked 2026-11-26 explicitly identify Kala Patthar as a viewpoint for Everest.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [NP/sights/gokyo-ri](../../../countries/NP/sights/gokyo-ri.yaml) | 89.90: equally elite Himalayan outlook with distinctive lakes and peaks. |
+| [NO/sights/preikestolen](../../../countries/NO/sights/preikestolen.yaml) | 89.35: another iconic single viewpoint, less alpine scale. |
+| [CH/sights/gornergrat](../../../countries/CH/sights/gornergrat.yaml) | 90.50: comparable panorama plus distinct cog railway component. |
+| [FR/sights/aiguille-du-midi](../../../countries/FR/sights/aiguille-du-midi.yaml) | 91.90: dramatic high-mountain platform plus cableway and visitor facilities. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.6 | 9.6 | 9.6 retained for dramatic close-range views of Himalayan giants. |
+| Uniqueness | 9.4 | 9.4 | 9.4 retained for the specific Everest perspective, not the world's highest mountain itself. |
+| Significance | 8.2 | 8.0 | 8.0 for the viewpoint's trekking role, not Everest's mountaineering history. |
+| Experience | 9.2 | 9.2 | 9.2 retained for a memorable summit outlook, not the whole multi-day journey. |
+| Depth | 7.8 | 7.8 | 7.8 retained for a focused summit and approach experience. |
+
+- Categories after: photography 9.7, nature 9.3, adventure 9.2.
+- Computed overall: 90.30/100 → **89.90/100**.
+- High-score challenge: Impact 9.6 and photography 9.7 are justified by its outstanding directly observable panorama. Match Gokyo Ri's comparable overall without lowering visual excellence. No new 10.
+- Earlier decision: original dated review above, retained.
+- Verification still needed: full source texts, exact GPS and independent visitor experience; numerical judgment editorial.
+
+
 ## sight-np-gokyo-lakes — Gokyo Lakes — 2026-11-25
 
 - [YAML](../../../countries/NP/sights/gokyo-lakes.yaml) · Action: new · **source-linked-unverified**.

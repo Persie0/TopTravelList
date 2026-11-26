@@ -764,6 +764,37 @@
 - **Exceptional rating:** Check every 9.5+ field and 90+ total carefully against the four peers; score is an editorial judgment, not independently confirmed. No 10 registry updates.
 - **Next verification:** confirm GPS, specific historic/natural statements, and scope with dedicated independent source pages.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 3)
+
+- [Source YAML](../../../countries/IN/sights/statue-of-unity.yaml) · **source-linked-unverified** (specific claims checked using search excerpts, not full-text or objective score verification).
+- Action: rescore. Precise subject: Statue, its memorial museum, exhibition and viewing gallery; exclude separately marketed surrounding gardens, safari and dam.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Evidence: National tourism authority [Incredible India](https://www.incredibleindia.gov.in/en/gujarat/vadodara/statue-of-unity) and [Press Information Bureau](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233253&lang=2&reg=48) search excerpts checked 2026-11-26 confirm the height, museum, exhibition and viewing gallery. [Gujarat Tourism](https://gujarattourism.com/central-zone/narmada/statue-of-unity.html) separately identifies nearby attractions.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [BR/sights/christ-the-redeemer](../../../countries/BR/sights/christ-the-redeemer.yaml) | 89.75: stronger iconic setting and older cultural symbolism; narrower site experience. |
+| [US/sights/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | 88.65: stronger historical significance and comparable memorial interpretation, lower physical height. |
+| [FR/sights/eiffel-tower](../../../countries/FR/sights/eiffel-tower.yaml) | 93.30: more distinctive structural silhouette and historical engineering influence. |
+| [CN/sights/zhangjiajie-glass-bridge](../../../countries/CN/sights/zhangjiajie-glass-bridge.yaml) | Comparable contemporary engineering attraction; distinct purpose and visitor composition. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.1 | 9.2 | 9.2 for monumental scale of the figure itself. |
+| Uniqueness | 9.5 | 9.6 | 9.6 for the exceptional height of a figurative monument; no inference of world-best travel experience. |
+| Significance | 8.2 | 8.2 | 8.2 for modern commemoration of Patel, not ancient or global historical significance. |
+| Experience | 9.0 | 8.6 | 8.6 for exhibition, viewing gallery and monumental surroundings; exclude separate nearby attractions. |
+| Depth | 9.1 | 7.9 | 7.9 for the monument's multiple visitor components, substantially less than an extensive heritage landscape. |
+
+- Categories after: architecture 9.4, photography 9.3, culture 8.0.
+- Computed overall: 90.05/100 → **88.80/100**.
+- High-score challenge: Uniqueness 9.6 reflects verified exceptional physical scale; architecture 9.4 recognizes engineering without treating height alone as architectural excellence.
+- Earlier decision: original dated review above, retained.
+- Verification still needed: full source texts, exact GPS and independent visitor experience; numerical judgment editorial.
+
+
 ## sight-in-champaner-pavagadh-archaeological-park — Champaner Pavagadh Archaeological Park
 
 - [YAML source](../../../countries/IN/sights/champaner-pavagadh-archaeological-park.yaml) · **source-linked-unverified** · **93.45/100**.
