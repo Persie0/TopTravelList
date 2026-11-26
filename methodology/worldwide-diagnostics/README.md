@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14755; unassessed: 1514.
+Ranked: 14759; unassessed: 1510.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 396 |
+| conflicting-declared-status | 399 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1514 |
+| incomplete-core | 1510 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1794 |
 | overall-95-plus | 159 |
@@ -153,7 +153,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | EC | cities | 36 | 36 | 71.52 | 1 | 0 | 0 | 36 | [Quito](../../countries/EC/cities/quito.yaml) 90.35; [Cuenca](../../countries/EC/cities/cuenca.yaml) 87.85; [Otavalo](../../countries/EC/cities/otavalo.yaml) 82.40 |
 | EC | sights | 55 | 52 | 84.35 | 7 | 1 | 12 | 55 | [Galápagos Islands (World Heritage property)](../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) 98.00; [Historic Centre of Quito](../../countries/EC/sights/historic-centre-of-quito.yaml) 92.50; [Yasuní National Park](../../countries/EC/sights/yasuni-national-park.yaml) 91.85 |
 | EE | cities | 15 | 15 | 74.15 | 0 | 0 | 0 | 15 | [Tallinn](../../countries/EE/cities/tallinn.yaml) 89.95; [Tartu](../../countries/EE/cities/tartu.yaml) 82.10; [Kuressaare](../../countries/EE/cities/kuressaare.yaml) 80.80 |
-| EE | sights | 42 | 38 | 82.60 | 1 | 0 | 0 | 42 | [Historic Centre (Old Town) of Tallinn](../../countries/EE/sights/tallinn-old-town.yaml) 91.65; [Soomaa National Park](../../countries/EE/sights/soomaa-national-park.yaml) 87.50; [Seaplane Harbour Maritime Museum](../../countries/EE/sights/seaplane-harbour.yaml) 87.25 |
+| EE | sights | 42 | 40 | 82.42 | 1 | 0 | 0 | 42 | [Historic Centre (Old Town) of Tallinn](../../countries/EE/sights/tallinn-old-town.yaml) 91.65; [Soomaa National Park](../../countries/EE/sights/soomaa-national-park.yaml) 87.50; [Seaplane Harbour Maritime Museum](../../countries/EE/sights/seaplane-harbour.yaml) 87.25 |
 | EG | cities | 10 | 10 | 82.70 | 2 | 0 | 2 | 10 | [Cairo](../../countries/EG/cities/cairo.yaml) 92.90; [Luxor](../../countries/EG/cities/luxor.yaml) 92.15; [Alexandria](../../countries/EG/cities/alexandria.yaml) 87.50 |
 | EG | sights | 35 | 30 | 92.45 | 21 | 6 | 22 | 35 | [Giza Pyramid Plateau and Great Sphinx](../../countries/EG/sights/giza-plateau.yaml) 98.35; [Karnak Temple Complex](../../countries/EG/sights/karnak.yaml) 98.10; [Grand Egyptian Museum](../../countries/EG/sights/grand-egyptian-museum.yaml) 96.60 |
 | EH | cities | 4 | 3 | 74.15 | 0 | 0 | 0 | 4 | [Dakhla](../../countries/EH/cities/dakhla.yaml) 76.30; [Laâyoune (El Aaiún)](../../countries/EH/cities/laayoune.yaml) 74.15; [Boujdour](../../countries/EH/cities/boujdour.yaml) 68.40 |
@@ -243,7 +243,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IR | cities | 15 | 3 | 87.75 | 0 | 0 | 0 | 15 | [Yazd](../../countries/IR/cities/yazd.yaml) 88.70; [Shiraz](../../countries/IR/cities/shiraz.yaml) 87.75; [Kashan](../../countries/IR/cities/kashan.yaml) 85.00 |
 | IR | sights | 55 | 17 | 86.15 | 2 | 0 | 0 | 55 | [Persepolis](../../countries/IR/sights/persepolis.yaml) 93.15; [Historic City of Yazd](../../countries/IR/sights/historic-yazd.yaml) 90.10; [Naqsh-e Rostam and Naqsh-e Rajab](../../countries/IR/sights/naqsh-e-rostam.yaml) 89.15 |
 | IS | cities | 15 | 15 | 80.20 | 0 | 0 | 0 | 15 | [Reykjavík](../../countries/IS/cities/reykjavik.yaml) 86.65; [Vestmannaeyjabær (Heimaey)](../../countries/IS/cities/vestmannaeyjabaer.yaml) 83.30; [Seyðisfjörður](../../countries/IS/cities/seydisfjordur.yaml) 82.35 |
-| IS | sights | 56 | 47 | 87.45 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
+| IS | sights | 56 | 48 | 87.30 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
 | IT | cities | 25 | 25 | 89.85 | 12 | 3 | 13 | 25 | [Rome](../../countries/IT/cities/rome.yaml) 97.30; [Venice](../../countries/IT/cities/venice.yaml) 96.50; [Florence](../../countries/IT/cities/florence.yaml) 95.55 |
 | IT | sights | 134 | 120 | 90.90 | 80 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
 | JE | cities | 4 | 4 | 81.75 | 0 | 0 | 0 | 4 | [St Helier](../../countries/JE/cities/st-helier.yaml) 83.35; [St Aubin](../../countries/JE/cities/st-aubin.yaml) 81.85; [Gorey harbour village](../../countries/JE/cities/gorey.yaml) 81.65 |
@@ -329,7 +329,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MR | cities | 10 | 5 | 72.35 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95; [Nouakchott](../../countries/MR/cities/nouakchott.yaml) 72.35 |
 | MR | sights | 17 | 10 | 84.65 | 1 | 0 | 2 | 17 | [Banc d’Arguin National Park](../../countries/MR/sights/banc-d-arguin-national-park.yaml) 91.90; [Chinguetti Old Ksar](../../countries/MR/sights/chinguetti-old-ksar.yaml) 88.30; [Richat Structure (Eye of the Sahara)](../../countries/MR/sights/richat-structure.yaml) 86.55 |
 | MS | cities | 2 | 2 | 73.58 | 0 | 0 | 0 | 2 | [Little Bay](../../countries/MS/cities/little-bay.yaml) 76.00; [Brades](../../countries/MS/cities/brades.yaml) 71.15 |
-| MS | sights | 8 | 7 | 80.65 | 0 | 0 | 0 | 8 | [Montserrat Volcano Observatory and Soufrière Hills viewpoint](../../countries/MS/sights/volcano-observatory.yaml) 89.05; [Centre Hills forest trails](../../countries/MS/sights/centre-hills.yaml) 86.15; [Jack Boy Hill viewpoint and trail](../../countries/MS/sights/jack-boy-hill.yaml) 84.45 |
+| MS | sights | 8 | 8 | 82.55 | 0 | 0 | 0 | 8 | [Montserrat Volcano Observatory and Soufrière Hills viewpoint](../../countries/MS/sights/volcano-observatory.yaml) 89.05; [Plymouth buried town (restricted land site)](../../countries/MS/sights/plymouth-buried-city.yaml) 87.75; [Centre Hills forest trails](../../countries/MS/sights/centre-hills.yaml) 86.15 |
 | MT | cities | 23 | 23 | 76.55 | 1 | 0 | 1 | 23 | [Valletta](../../countries/MT/cities/valletta.yaml) 91.80; [Mdina](../../countries/MT/cities/mdina.yaml) 87.10; [Birgu (Vittoriosa)](../../countries/MT/cities/birgu-vittoriosa.yaml) 85.75 |
 | MT | sights | 37 | 37 | 83.60 | 6 | 0 | 7 | 37 | [St John's Co-Cathedral](../../countries/MT/sights/st-johns-co-cathedral.yaml) 93.35; [Valletta Historic Centre](../../countries/MT/sights/valletta-historic-centre.yaml) 92.90; [Ħal Saflieni Hypogeum](../../countries/MT/sights/hal-saflieni-hypogeum.yaml) 92.10 |
 | MU | cities | 22 | 22 | 70.98 | 0 | 0 | 0 | 22 | [Port Louis](../../countries/MU/cities/port-louis.yaml) 82.30; [Mahebourg](../../countries/MU/cities/mahebourg.yaml) 77.85; [Port Mathurin](../../countries/MU/cities/port-mathurin.yaml) 76.40 |

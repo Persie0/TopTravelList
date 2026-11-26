@@ -2,7 +2,7 @@
 
 # Iceland (IS) — Sights & attractions ranking
 
-**47 ranked** · **9 unassessed** · **56 total** · Worldwide scoring **v2**
+**48 ranked** · **8 unassessed** · **56 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (47)
+## Complete ranked list (48)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -61,8 +61,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 45 | [Bustarfell (Turf House Tradition component)](sights/burstafell.yaml) | Attraction | **79.95** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / 8.2 / 7.6 | [65.585017, -15.158733](https://www.google.com/maps/search/?api=1&query=65.585017,-15.158733) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bustarfell%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
 | 46 | [Grenjaðarstaður (Turf House Tradition component)](sights/grenjadarstadur.yaml) | Attraction | **79.80** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / 8.1 / 7.6 | [65.820867, -17.35095](https://www.google.com/maps/search/?api=1&query=65.820867,-17.35095) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grenja%C3%B0arsta%C3%B0ur%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
 | 47 | [Víðimýrarkirkja (Turf House Tradition component)](sights/vidimyrarkirkja.yaml) | Attraction | **78.15** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / 7.8 / 6.4 | [65.538733, -19.470433](https://www.google.com/maps/search/?api=1&query=65.538733,-19.470433) | [Google Maps](https://www.google.com/maps/search/?api=1&query=V%C3%AD%C3%B0im%C3%BDrarkirkja%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
+| 48 | [Hofskirkja (Turf House Tradition component)](sights/hofskirkja.yaml) | Attraction | **76.75** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / 7.2 / 5.9 | [63.907, -16.70675](https://www.google.com/maps/search/?api=1&query=63.907,-16.70675) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hofskirkja%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
 
-## Not yet fully assessed (9)
+## Not yet fully assessed (8)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -72,7 +73,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Fagradalsfjall recent lava landscape](sights/fagradalsfjall.yaml) | Coast | **—** | **Nature 9.3**, **Photography 9.3** | 9.1 / 9.3 / 8.9 / — / — | [63.89, -22.27](https://www.google.com/maps/search/?api=1&query=63.89,-22.27) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fagradalsfjall%20recent%20lava%20landscape%2C%20Iceland) |
 | — | [Galtastaðir fremri (Turf House Tradition component)](sights/galtastadir.yaml) | Attraction | **—** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / — / — | [65.450667, -14.43455](https://www.google.com/maps/search/?api=1&query=65.450667,-14.43455) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Galtasta%C3%B0ir%20fremri%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
 | — | [Grænavatn (Turf House Tradition component)](sights/graenavatn.yaml) | Attraction | **—** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / — / — | [65.54065, -16.9967](https://www.google.com/maps/search/?api=1&query=65.54065,-16.9967) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gr%C3%A6navatn%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
-| — | [Hofskirkja (Turf House Tradition component)](sights/hofskirkja.yaml) | Attraction | **—** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / — / — | [63.907, -16.70675](https://www.google.com/maps/search/?api=1&query=63.907,-16.70675) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hofskirkja%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
 | — | [Núpsstaður (Turf House Tradition component)](sights/nupsstadur.yaml) | Attraction | **—** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / — / — | [63.960233, -17.57775](https://www.google.com/maps/search/?api=1&query=63.960233,-17.57775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=N%C3%BApssta%C3%B0ur%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
 | — | [Surtsey](sights/surtsey.yaml) | Attraction | **—** | **Nature 9.5** | — / 9.6 / 9.7 / — / — | [63.303, -20.604](https://www.google.com/maps/search/?api=1&query=63.303,-20.604) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Surtsey%2C%20Iceland) |
 | — | [Tyrfingsstaðir (Turf House Tradition component)](sights/tyrfingsstadir.yaml) | Attraction | **—** | **Architecture 8.7**, **History 8.6** | 7.5 / 8.3 / 8.4 / — / — | [65.390533, -19.125183](https://www.google.com/maps/search/?api=1&query=65.390533,-19.125183) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tyrfingssta%C3%B0ir%20%28Turf%20House%20Tradition%20component%29%2C%20Iceland) |
