@@ -325,3 +325,7 @@ Ten individual decisions: nine missing-core profiles completed; one retained unr
 ## Eighth pass — 100-record incomplete-core batch
 
 [Batch register](worldwide-incomplete-batch-100-2026-11-26.md): 100 distinct sights, 6 new complete profiles and 94 retained incomplete with case-specific evidence targets. Only the six source-assisted decisions in France and Spain constitute completed rating reassessments. Other records are triaged, not independently fact-checked or finished. Exact coordinates and category ratings unchanged. Newly complete scores: sight-fr-le-corbusier: 90.80; sight-fr-santiago-routes: 90.10; sight-fr-vauban: 90.30; sight-fr-vezere-caves: 90.65; sight-es-mudejar-aragon: 90.80; sight-es-risco-caido: 90.75.
+
+## Ninth pass — second 100-record incomplete-core batch
+
+[Batch register](worldwide-incomplete-batch-100-pass9-2026-11-26.md): 100 distinct records, 9 newly complete ratings and 91 retained incomplete. Previously non-null fields/categories were not independently recalibrated. Source excerpts support missing experience and depth only. No travel recommendation or country multiplier, no new perfect scores. Generated rankings need refresh.
