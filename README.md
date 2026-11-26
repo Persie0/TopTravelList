@@ -102,7 +102,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Argentina](countries/AR/) (`AR`) | [40](countries/AR/cities.md) | [65](countries/AR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Argentina) |
 | [Armenia](countries/AM/) (`AM`) | [20](countries/AM/cities.md) | [55](countries/AM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Armenia) |
 | [Aruba](countries/AW/) (`AW`) | [2](countries/AW/cities.md) | [13](countries/AW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Aruba) |
-| [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [42](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
+| [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [47](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
 | [Austria](countries/AT/) (`AT`) | [45](countries/AT/cities.md) | [133](countries/AT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Austria) |
 | [Azerbaijan](countries/AZ/) (`AZ`) | [16](countries/AZ/cities.md) | [40](countries/AZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Azerbaijan) |
 | [Bahamas](countries/BS/) (`BS`) | [12](countries/BS/cities.md) | [34](countries/BS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahamas) |
@@ -245,7 +245,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Nepal](countries/NP/) (`NP`) | [49](countries/NP/cities.md) | [123](countries/NP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nepal) |
 | [Netherlands](countries/NL/) (`NL`) | [20](countries/NL/cities.md) | [51](countries/NL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Netherlands) |
 | [New Caledonia](countries/NC/) (`NC`) | [4](countries/NC/cities.md) | [11](countries/NC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=New%20Caledonia) |
-| [New Zealand](countries/NZ/) (`NZ`) | [12](countries/NZ/cities.md) | [24](countries/NZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=New%20Zealand) |
+| [New Zealand](countries/NZ/) (`NZ`) | [12](countries/NZ/cities.md) | [29](countries/NZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=New%20Zealand) |
 | [Nicaragua](countries/NI/) (`NI`) | [13](countries/NI/cities.md) | [30](countries/NI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nicaragua) |
 | [Niger](countries/NE/) (`NE`) | [10](countries/NE/cities.md) | [26](countries/NE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Niger) |
 | [Nigeria](countries/NG/) (`NG`) | [12](countries/NG/cities.md) | [25](countries/NG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nigeria) |

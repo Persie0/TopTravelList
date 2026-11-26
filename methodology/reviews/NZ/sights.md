@@ -1065,3 +1065,178 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Final decision: Provisional worldwide V2 editorial rating.
 - Earlier decision: none.
 - Verification still needed: independent claim-level verification and current operating conditions.
+
+
+### sight-nz-doubtful-sound — Doubtful Sound / Patea — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/doubtful-sound.yaml)
+- Action: new
+- Precise subject and factual basis: Remote fiord cruise with forested mountains and potential dolphin and penguin sightings; separate from Milford Sound and parent Fiordland National Park. [Visitor information](https://www.fiordland.org.nz/visit/doubtful-sound/); official page/search excerpts inspected 2026-11-26.
+- Location check: -45.2833, 166.85; [published reference](https://mapcarta.com/Doubtful_Sound); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | More iconic concentrated peaks and waterfalls |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | Parent has wider ecosystem and trail scope |
+| [CA/torngat-mountains-national-park](../../../countries/CA/sights/torngat-mountains-national-park.yaml) | Different Arctic fjord and mountain context |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | More prominent tidewater glaciers |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.3 | Exceptional fiord scenery |
+| uniqueness | 9.0 | Distinctive remote branching fiord but analogues exist |
+| significance | 8.8 | Protected marine and forest ecosystems |
+| experience | 8.9 | Rewarding wilderness cruise |
+| depth | 8.9 | Several arms and changing landscapes |
+
+- Applicable categories: nature:9.4, photography:9.3, wildlife:8.9.
+- Computed worldwide overall: 90.25/100.
+- High-score challenge: 90+ supported by combined landscape and visitor-experience merits, not a world-leading anchor. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-cathedral-cove — Mautohe / Cathedral Cove — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/cathedral-cove.yaml)
+- Action: new
+- Precise subject and factual basis: Beach and iconic rock arch accessed via coastal track subject to tides and safety notices; excludes entire marine reserve. See https://blog.doc.govt.nz/2024/12/18/a-visitors-guide-to-mautohe-cathedral-cove/. [Visitor information](https://www.doc.govt.nz/cathedral-cove-walk); official page/search excerpts inspected 2026-11-26.
+- Location check: -36.82758, 175.7897; [published reference](https://mapcarta.com/W90699216); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/twelve-apostles](../../../countries/AU/sights/twelve-apostles.yaml) | More monumental offshore stacks |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | Different geological features and blowholes |
+| [AU/freycinet-national-park](../../../countries/AU/sights/freycinet-national-park.yaml) | Broader coastal landscape and trails |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | Broader cliffs and shoreline exploration |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Striking coastal arch |
+| uniqueness | 8.6 | Distinctive composition with global sea-arch analogues |
+| significance | 7.9 | Local geomorphology and coastal habitat |
+| experience | 8.6 | Rewarding coastal walk and beach subject to access |
+| depth | 7.7 | Concentrated cove visit |
+
+- Applicable categories: nature:8.9, photography:9.2, beaches:8.8.
+- Computed worldwide overall: 84.60/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-hooker-valley-track — Hooker Valley Track — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/hooker-valley-track.yaml)
+- Action: new
+- Precise subject and factual basis: Normal-condition alpine walking route in Aoraki/Mount Cook National Park; DOC reference point reproduced by Outdoor Next, not trailhead. Verify current route and bridge restrictions before visiting. [Visitor information](https://www.doc.govt.nz/hooker-valley-track); official page/search excerpts inspected 2026-11-26.
+- Location check: -43.70478, 170.09892; [published reference](https://www.outdoornext.co.nz/walks/hooker-valley-track); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | Parent park has greater depth |
+| [NZ/tongariro-alpine-crossing](../../../countries/NZ/sights/tongariro-alpine-crossing.yaml) | More varied volcanic terrain |
+| [CA/icefields-parkway](../../../countries/CA/sights/icefields-parkway.yaml) | Broader road-based mountain exploration |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | Broader mountain and lake landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Outstanding alpine panorama |
+| uniqueness | 8.5 | Comparable glacial valleys elsewhere |
+| significance | 8.1 | Glacial landscape, not entire park's scientific significance |
+| experience | 9.2 | Accessible alpine walking in normal conditions |
+| depth | 8.3 | Focused route with multiple views |
+
+- Applicable categories: nature:9.2, photography:9.3, adventure:9.0.
+- Computed worldwide overall: 87.15/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-moeraki-boulders — Moeraki Boulders / Kaihinaki — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/moeraki-boulders.yaml)
+- Action: new
+- Precise subject and factual basis: Coastal walk to spherical geological concretions; DOC reference point reproduced by Outdoor Next. Geological context https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/moeraki-area/. [Visitor information](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/moeraki-area/things-to-do/moeraki-boulders-kaihinaki-walk); official page/search excerpts inspected 2026-11-26.
+- Location check: -45.347008, 170.826096; [published reference](https://www.outdoornext.co.nz/walks/moeraki-boulders-kaihinaki-walk); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | More varied rock formations and blowholes |
+| [AU/twelve-apostles](../../../countries/AU/sights/twelve-apostles.yaml) | Greater monumental rock scale |
+| [AU/flinders-chase-national-park](../../../countries/AU/sights/flinders-chase-national-park.yaml) | More extensive geological and wildlife landscapes |
+| [US/horseshoe-bend](../../../countries/US/sights/horseshoe-bend.yaml) | Comparable focused photo stop, different geology |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.4 | Memorable spherical rocks |
+| uniqueness | 8.8 | Unusual clustered concretions |
+| significance | 8.2 | Geological interest and local cultural context |
+| experience | 8.5 | Short rewarding beach walk |
+| depth | 7.3 | Single concentrated feature |
+
+- Applicable categories: nature:8.8, photography:8.9.
+- Computed worldwide overall: 83.65/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-te-puia — Te Puia (Rotorua geothermal and Maori arts complex) — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/te-puia.yaml)
+- Action: new
+- Precise subject and factual basis: Pohutu geyser, Maori Arts and Crafts Institute and kiwi conservation centre; exclude neighboring independent Whakarewarewa village experiences. [Visitor information](https://www.tepuia.com/faqs/); official page/search excerpts inspected 2026-11-26.
+- Location check: -38.165, 176.25107; [published reference](https://mapcarta.com/W369960412); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | More focused geothermal formations, less cultural breadth |
+| [US/yellowstone-national-park](../../../countries/US/sights/yellowstone-national-park.yaml) | Much greater geothermal landscape scale |
+| [NZ/waitangi-treaty-grounds](../../../countries/NZ/sights/waitangi-treaty-grounds.yaml) | More concentrated national historic significance |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | More expansive volcanic landscape, different interpretation |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Geyser and living craft interpretation |
+| uniqueness | 9.1 | Distinctive geothermal and living culture combination |
+| significance | 9.0 | Indigenous cultural education and geothermal significance |
+| experience | 9.1 | Guided geothermal and cultural experiences |
+| depth | 9.0 | Several complementary visitor themes |
+
+- Applicable categories: nature:9.2, culture:9.3, photography:9.0.
+- Computed worldwide overall: 90.40/100.
+- High-score challenge: 90+ supported by combined landscape and visitor-experience merits, not a world-leading anchor. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.

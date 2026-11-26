@@ -75,14 +75,25 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] AU — Wilsons Promontory National Park: 86.90/100 (source-linked, full verification pending)
 - [x] AU — Flinders Chase National Park: 87.80/100 (source-linked, full verification pending)
 
+- [x] AU — Kalbarri National Park: 87.35/100 (source-linked, full verification pending)
+- [x] AU — Grampians (Gariwerd) National Park: 88.15/100 (source-linked, full verification pending)
+- [x] AU — Whitehaven Beach: 86.80/100 (source-linked, full verification pending)
+- [x] AU — Phillip Island Penguin Parade: 87.35/100 (source-linked, full verification pending)
+- [x] AU — Wadjemup / Rottnest Island: 87.45/100 (source-linked, full verification pending)
+- [x] NZ — Doubtful Sound / Patea: 90.25/100 (source-linked, full verification pending)
+- [x] NZ — Mautohe / Cathedral Cove: 84.60/100 (source-linked, full verification pending)
+- [x] NZ — Hooker Valley Track: 87.15/100 (source-linked, full verification pending)
+- [x] NZ — Moeraki Boulders / Kaihinaki: 83.65/100 (source-linked, full verification pending)
+- [x] NZ — Te Puia (Rotorua geothermal and Maori arts complex): 90.40/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
 - [ ] US: Canyon de Chelly National Monument (rim overlooks and guided canyon visits; [NPS FAQ](https://www.nps.gov/cach/faqs.htm)); Antelope Canyon X (distinct guided route; [Navajo Nation tour operators](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)); verify separate scope and coordinates before scoring.
 - [ ] US further park review: Valles Caldera National Preserve (caldera, wildlife and hiking; [NPS published coordinates](https://www.nps.gov/articles/parks-in-space.htm), [hiking](https://www.nps.gov/vall/planyourvisit/hiking.htm); no existing US ranking row); Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
 - [ ] CA: Wapusk; Hopewell Rocks; Churchill wildlife experiences; Bay of Fundy visitor coastline.
 - [ ] CA further park review: Akami-Uapishk–KakKasuak–Mealy Mountains; Aulavik; Elk Island; Forillon; Georgian Bay Islands; Glacier; Grasslands; Gulf Islands; Kejimkujik; Kouchibouguac; La Mauricie; Mount Revelstoke; Nááts'įhch'oh; Point Pelee; Prince Albert; Prince Edward Island; Pukaskwa; Qausuittuq; Riding Mountain; Terra Nova; Thaidene Nëné; Tuktut Nogait; Ukkusiksalik. [Parks Canada](https://www.parks.canada.ca/pn-np).
-- [ ] AU: Kalbarri ([official park guide](https://exploreparks.dbca.wa.gov.au/park/kalbarri-national-park), representative GPS still needed), Grampians/Gariwerd, Whitehaven Beach, Whitsundays, Phillip Island Penguin Parade, kunanyi, Rottnest, Cable Beach, Blue Lake Mount Gambier; assess separate Wineglass Bay lookout only after nested scope review.
-- [ ] NZ: Doubtful Sound, Cathedral Cove, Hooker Valley Track, Moeraki Boulders, Kaikōura marine wildlife, Roys Peak, Bay of Islands, Te Puia, Whakarewarewa Living Māori Village, Hell's Gate, Waimangu, Mokoia Island, Polynesian Spa, Kaituna River, Rotorua Canopy Tours, Whakarewarewa Forest, Mount Ngongotahā.
+- [ ] AU: Whitsunday Islands National Park (separate scope from Whitehaven Beach; [official walking guide](https://parks.qld.gov.au/parks/whitsunday-islands/things-to-do)), Hill Inlet lookout (nested scope review), kunanyi, Cable Beach, Blue Lake Mount Gambier; assess separate Wineglass Bay lookout only after nested scope review.
+- [ ] NZ: Kaikōura marine wildlife, Roys Peak, Bay of Islands, Whakarewarewa Living Māori Village (distinct from Te Puia), Hell's Gate, Waimangu, Mokoia Island, Polynesian Spa, Kaituna River, Rotorua Canopy Tours, Whakarewarewa Forest, Mount Ngongotahā; Te Whanganui-o-Hei Marine Reserve (distinct underwater visitor scope from Cathedral Cove; [DOC](https://www.doc.govt.nz/parks-and-recreation/places-to-go/coromandel/places/hahei-area/te-whanganui-o-hei-cathedral-cove-marine-reserve/)).
 - [ ] AS: National Park of American Samoa (Ofu and Mount Alava components already exist).
 - [ ] ZA: Tsitsikamma/Storms River Mouth trails, Hermanus, Chapman's Peak Drive, Knysna experiences, Sani Pass SA side.
 - [ ] TZ: Nungwi, Paje, Mnemba. MG: Île Sainte-Marie, Nosy Be.
@@ -105,4 +116,4 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for sixty-four additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for seventy-four additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.

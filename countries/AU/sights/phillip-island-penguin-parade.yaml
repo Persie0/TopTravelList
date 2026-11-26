@@ -1,0 +1,16 @@
+id: sight-au-phillip-island-penguin-parade
+name: "Phillip Island Penguin Parade"
+location:
+  country_code: AU
+  latitude: -38.50858
+  longitude: 145.14808
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.9
+  depth: 7.9
+  categories:
+    wildlife: 9.3
+    family: 9.0
+    nature: 8.8

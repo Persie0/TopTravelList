@@ -1910,3 +1910,178 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-kalbarri-national-park — Kalbarri National Park — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/kalbarri-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Murchison River gorge, Nature's Window and coastal landscapes; GPS represents Nature's Window, not park centroid. [Visitor information](https://exploreparks.dbca.wa.gov.au/park/kalbarri-national-park); official page/search excerpts inspected 2026-11-26.
+- Location check: -27.55302, 114.44606; [published reference](https://mapcarta.com/N818619058); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/karijini-national-park](../../../countries/AU/sights/karijini-national-park.yaml) | More intimate gorge and pool variety |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | Much broader desert canyon scale |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Different lush canyon scenery |
+| [US/capitol-reef-national-park](../../../countries/US/sights/capitol-reef-national-park.yaml) | More extensive layered desert landscapes |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Dramatic red-rock gorge |
+| uniqueness | 8.7 | Distinctive river-cut forms with global analogues |
+| significance | 8.4 | Geological and natural landscape interest |
+| experience | 8.8 | Lookouts and walking routes |
+| depth | 8.9 | Gorge and coastal sectors |
+
+- Applicable categories: nature:9.1, photography:9.2, adventure:8.9.
+- Computed worldwide overall: 87.35/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-grampians-gariwerd-national-park — Grampians (Gariwerd) National Park — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/grampians-gariwerd-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Mountain walks and Indigenous cultural landscape; federal heritage context https://www.dcceew.gov.au/parks-heritage/heritage/places/national/grampians. Check current trail closures. [Visitor information](https://www.parks.vic.gov.au/places-to-see/parks/Grampians-National-Park); official page/search excerpts inspected 2026-11-26.
+- Location check: -37.2089, 142.3981; [published reference](https://mapcarta.com/Grampians_National_Park); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/flinders-ranges](../../../countries/AU/sights/flinders-ranges.yaml) | More expansive arid mountain landscape |
+| [AU/karijini-national-park](../../../countries/AU/sights/karijini-national-park.yaml) | More concentrated gorge scenery |
+| [GB/cairngorms](../../../countries/GB/sights/cairngorms.yaml) | Different mountain habitat and hiking scope |
+| [ZA/maloti-drakensberg-south-africa](../../../countries/ZA/sights/maloti-drakensberg-south-africa.yaml) | Greater mountain scale and globally important rock-art ensemble |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Rugged mountain vistas |
+| uniqueness | 8.7 | Distinctive sandstone and cultural context |
+| significance | 8.9 | Protected habitat and Aboriginal heritage |
+| experience | 8.8 | Varied hiking and viewpoints |
+| depth | 9.0 | Mountain landscapes and cultural interpretation |
+
+- Applicable categories: nature:9.1, adventure:9.1, culture:8.8, photography:9.0.
+- Computed worldwide overall: 88.15/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-whitehaven-beach — Whitehaven Beach — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/whitehaven-beach.yaml)
+- Action: new
+- Precise subject and factual basis: White sand beach on Whitsunday Island and immediate walking opportunities; not entire island group or Great Barrier Reef. [Visitor information](https://parks.qld.gov.au/parks/whitsunday-islands/things-to-do); official page/search excerpts inspected 2026-11-26.
+- Location check: -20.27541, 149.04174; [published reference](https://mapcarta.com/26230062); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/bondi-beach](../../../countries/AU/sights/bondi-beach.yaml) | More urban beach, less extraordinary natural setting |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | Broader coastal walking and coves |
+| [AU/freycinet-national-park](../../../countries/AU/sights/freycinet-national-park.yaml) | Broader granite peninsula landscapes |
+| [AU/great-barrier-reef](../../../countries/AU/sights/great-barrier-reef.yaml) | Far greater marine ecological breadth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Outstanding white-sand coastal vistas |
+| uniqueness | 8.8 | Distinctive sand-water contrast, other tropical analogues exist |
+| significance | 7.9 | Protected coastal environment |
+| experience | 9.0 | Beach visit and adjacent walks |
+| depth | 7.9 | Focused beach experience |
+
+- Applicable categories: beaches:9.4, photography:9.3, nature:9.0.
+- Computed worldwide overall: 86.80/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-phillip-island-penguin-parade — Phillip Island Penguin Parade — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/phillip-island-penguin-parade.yaml)
+- Action: new
+- Precise subject and factual basis: Managed evening little-penguin viewing with education and conservation; rate the parade site rather than all Phillip Island. [Visitor information](https://www.penguins.org.au/attractions/penguin-parade/); official page/search excerpts inspected 2026-11-26.
+- Location check: -38.50858, 145.14808; [published reference](https://mapcarta.com/W677337738); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ZA/boulders-beach](../../../countries/ZA/sights/boulders-beach.yaml) | Comparable penguin colony, different species and daytime viewing |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | More extensive wilderness and bear viewing |
+| [CA/sable-island-national-park-reserve](../../../countries/CA/sights/sable-island-national-park-reserve.yaml) | Different specialized wildlife encounter |
+| [AU/flinders-chase-national-park](../../../countries/AU/sights/flinders-chase-national-park.yaml) | Broader coastal landscapes and wildlife |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Memorable wild penguin arrivals |
+| uniqueness | 9.0 | Distinctive accessible colony viewing |
+| significance | 8.6 | Conservation and education importance |
+| experience | 8.9 | Structured viewing experience, wildlife sightings vary |
+| depth | 7.9 | Focused evening wildlife encounter |
+
+- Applicable categories: wildlife:9.3, family:9.0, nature:8.8.
+- Computed worldwide overall: 87.35/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-rottnest-island — Wadjemup / Rottnest Island — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/rottnest-island.yaml)
+- Action: new
+- Precise subject and factual basis: Quokka encounters, cycling and coastal coves; score island as a visitable destination, with further independent review of Aboriginal heritage needed. [Visitor information](https://www.rottnestisland.com/visit/guides-tips/your-guide-to-spotting-quokkas-on-rottnest-island); official page/search excerpts inspected 2026-11-26.
+- Location check: -32.007, 115.5042; [published reference](https://mapcarta.com/Rottnest_Island); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/kgari](../../../countries/AU/sights/kgari.yaml) | Greater wilderness, forest and lake diversity |
+| [AU/lord-howe-island-group](../../../countries/AU/sights/lord-howe-island-group.yaml) | More dramatic topography and island ecology |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | Different coastal trails and marine experiences |
+| [CA/sable-island-national-park-reserve](../../../countries/CA/sights/sable-island-national-park-reserve.yaml) | More isolated wildlife landscape with restricted access |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Attractive beaches and wildlife |
+| uniqueness | 8.8 | Distinctive quokka population |
+| significance | 8.5 | Natural and cultural heritage |
+| experience | 9.1 | Cycling and coastal exploration |
+| depth | 8.7 | Varied bays and island routes |
+
+- Applicable categories: nature:9.0, wildlife:9.1, beaches:9.0, adventure:8.8.
+- Computed worldwide overall: 87.45/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.

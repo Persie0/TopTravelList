@@ -1,0 +1,16 @@
+id: sight-au-whitehaven-beach
+name: "Whitehaven Beach"
+location:
+  country_code: AU
+  latitude: -20.27541
+  longitude: 149.04174
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 9.0
+  depth: 7.9
+  categories:
+    beaches: 9.4
+    photography: 9.3
+    nature: 9.0
