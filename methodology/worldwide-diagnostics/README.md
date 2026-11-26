@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14759; unassessed: 1510.
+Ranked: 14762; unassessed: 1507.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 399 |
+| conflicting-declared-status | 401 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1510 |
+| incomplete-core | 1507 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1794 |
 | overall-95-plus | 159 |
@@ -71,7 +71,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BG | cities | 18 | 18 | 82.68 | 0 | 0 | 0 | 18 | [Plovdiv](../../countries/BG/cities/plovdiv.yaml) 89.00; [Veliko Tarnovo](../../countries/BG/cities/veliko-tarnovo.yaml) 88.00; [Nessebar](../../countries/BG/cities/nessebar.yaml) 86.95 |
 | BG | sights | 46 | 43 | 86.75 | 6 | 0 | 2 | 46 | [Rila Monastery](../../countries/BG/sights/rila-monastery.yaml) 92.40; [Pirin National Park](../../countries/BG/sights/pirin-national-park.yaml) 91.95; [Rila National Park](../../countries/BG/sights/rila-national-park.yaml) 91.30 |
 | BH | cities | 15 | 14 | 68.08 | 0 | 0 | 0 | 15 | [Muharraq](../../countries/BH/cities/muharraq.yaml) 84.95; [Manama](../../countries/BH/cities/manama.yaml) 83.35; [Aali](../../countries/BH/cities/aali.yaml) 73.90 |
-| BH | sights | 40 | 38 | 77.98 | 0 | 0 | 0 | 40 | [Qalat al-Bahrain Archaeological Site](../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) 89.60; [Pearling Path (Muharraq)](../../countries/BH/sights/pearling-path-muharraq.yaml) 88.05; [Dilmun Burial Mounds](../../countries/BH/sights/dilmun-burial-mounds.yaml) 85.25 |
+| BH | sights | 40 | 39 | 78.00 | 0 | 0 | 0 | 40 | [Qalat al-Bahrain Archaeological Site](../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) 89.60; [Pearling Path (Muharraq)](../../countries/BH/sights/pearling-path-muharraq.yaml) 88.05; [Dilmun Burial Mounds](../../countries/BH/sights/dilmun-burial-mounds.yaml) 85.25 |
 | BI | cities | 12 | 12 | 65.28 | 0 | 0 | 0 | 12 | [Bujumbura](../../countries/BI/cities/bujumbura.yaml) 75.50; [Gitega](../../countries/BI/cities/gitega.yaml) 72.55; [Rumonge](../../countries/BI/cities/rumonge.yaml) 70.90 |
 | BI | sights | 26 | 24 | 77.20 | 0 | 0 | 0 | 26 | [Lake Tanganyika (Burundian shore and visitor waters)](../../countries/BI/sights/lake-tanganyika-burundian-shore-and-visitor-waters.yaml) 87.60; [Gishora Royal Residence and Drum Sanctuary](../../countries/BI/sights/gishora-royal-residence-and-drum-sanctuary.yaml) 87.05; [Kibira National Park](../../countries/BI/sights/kibira-national-park.yaml) 85.45 |
 | BJ | cities | 18 | 17 | 72.90 | 0 | 0 | 0 | 18 | [Ganvié](../../countries/BJ/cities/ganvie.yaml) 88.20; [Ouidah](../../countries/BJ/cities/ouidah.yaml) 84.60; [Porto-Novo](../../countries/BJ/cities/porto-novo.yaml) 83.00 |
@@ -115,7 +115,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CI | cities | 10 | 7 | 79.40 | 0 | 0 | 0 | 10 | [Grand-Bassam](../../countries/CI/cities/grand-bassam.yaml) 85.15; [Abidjan](../../countries/CI/cities/abidjan.yaml) 84.85; [Kong](../../countries/CI/cities/kong.yaml) 79.90 |
 | CI | sights | 20 | 12 | 85.68 | 1 | 0 | 2 | 20 | [Taï National Park](../../countries/CI/sights/tai-national-park.yaml) 93.45; [Comoé National Park](../../countries/CI/sights/comoe-national-park.yaml) 88.95; [Basilica of Our Lady of Peace](../../countries/CI/sights/basilica-our-lady-of-peace.yaml) 88.40 |
 | CK | cities | 4 | 4 | 77.48 | 0 | 0 | 0 | 4 | [Avarua (Rarotonga)](../../countries/CK/cities/avarua.yaml) 80.95; [Arutanga (Aitutaki)](../../countries/CK/cities/arutanga.yaml) 78.05; [Ngatangiia and Muri village](../../countries/CK/cities/ngatangiia-muri.yaml) 76.90 |
-| CK | sights | 18 | 14 | 83.62 | 1 | 0 | 0 | 18 | [Aitutaki Lagoon and permitted motu cruise circuit](../../countries/CK/sights/aitutaki-lagoon.yaml) 91.10; [Anatakitaki Cave and kopeka habitat (Atiu)](../../countries/CK/sights/anatakitaki-cave.yaml) 88.60; [Manihiki lagoon and black-pearl farming landscape](../../countries/CK/sights/manihiki-lagoon.yaml) 86.70 |
+| CK | sights | 18 | 15 | 84.25 | 1 | 0 | 0 | 18 | [Aitutaki Lagoon and permitted motu cruise circuit](../../countries/CK/sights/aitutaki-lagoon.yaml) 91.10; [Anatakitaki Cave and kopeka habitat (Atiu)](../../countries/CK/sights/anatakitaki-cave.yaml) 88.60; [Manihiki lagoon and black-pearl farming landscape](../../countries/CK/sights/manihiki-lagoon.yaml) 86.70 |
 | CL | cities | 33 | 33 | 74.90 | 0 | 0 | 0 | 33 | [Valparaíso](../../countries/CL/cities/valparaiso.yaml) 87.75; [Santiago](../../countries/CL/cities/santiago.yaml) 84.70; [Hanga Roa](../../countries/CL/cities/hanga-roa.yaml) 84.35 |
 | CL | sights | 67 | 64 | 85.88 | 8 | 2 | 33 | 67 | [Rapa Nui National Park](../../countries/CL/sights/rapa-nui-national-park.yaml) 96.90; [Torres del Paine National Park](../../countries/CL/sights/torres-del-paine-national-park.yaml) 96.25; [Rano Raraku](../../countries/CL/sights/rano-raraku.yaml) 94.55 |
 | CM | cities | 10 | 7 | 79.10 | 0 | 0 | 0 | 10 | [Foumban](../../countries/CM/cities/foumban.yaml) 83.15; [Limbe](../../countries/CM/cities/limbe.yaml) 80.10; [Douala](../../countries/CM/cities/douala.yaml) 79.75 |
@@ -303,7 +303,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MC | cities | 1 | 1 | 84.20 | 0 | 0 | 0 | 1 | [Monaco](../../countries/MC/cities/monaco.yaml) 84.20 |
 | MC | sights | 29 | 27 | 78.35 | 0 | 0 | 0 | 29 | [Oceanographic Museum of Monaco](../../countries/MC/sights/oceanographic-museum-of-monaco.yaml) 88.60; [Prince's Palace State Apartments](../../countries/MC/sights/prince-s-palace-state-apartments.yaml) 85.85; [Monte-Carlo Casino Heritage Visit](../../countries/MC/sights/monte-carlo-casino-heritage-visit.yaml) 85.45 |
 | MD | cities | 18 | 15 | 69.30 | 0 | 0 | 0 | 18 | [Chișinău](../../countries/MD/cities/chisinau.yaml) 80.25; [Butuceni](../../countries/MD/cities/butuceni.yaml) 79.80; [Soroca](../../countries/MD/cities/soroca.yaml) 78.60 |
-| MD | sights | 33 | 30 | 80.38 | 0 | 0 | 0 | 33 | [Orheiul Vechi Cultural and Natural Reserve](../../countries/MD/sights/orheiul-vechi-cultural-and-natural-reserve.yaml) 88.70; [Cricova Underground Wine Cellars](../../countries/MD/sights/cricova-underground-wine-cellars.yaml) 87.15; [Mileștii Mici Underground Wine Cellars](../../countries/MD/sights/milestii-mici-underground-wine-cellars.yaml) 86.75 |
+| MD | sights | 33 | 31 | 80.95 | 0 | 0 | 0 | 33 | [Orheiul Vechi Cultural and Natural Reserve](../../countries/MD/sights/orheiul-vechi-cultural-and-natural-reserve.yaml) 88.70; [Cricova Underground Wine Cellars](../../countries/MD/sights/cricova-underground-wine-cellars.yaml) 87.15; [Mileștii Mici Underground Wine Cellars](../../countries/MD/sights/milestii-mici-underground-wine-cellars.yaml) 86.75 |
 | ME | cities | 33 | 33 | 75.35 | 0 | 0 | 0 | 33 | [Kotor](../../countries/ME/cities/kotor.yaml) 89.10; [Perast](../../countries/ME/cities/perast.yaml) 85.15; [Cetinje](../../countries/ME/cities/cetinje.yaml) 82.95 |
 | ME | sights | 94 | 94 | 82.25 | 7 | 0 | 4 | 94 | [Durmitor National Park](../../countries/ME/sights/durmitor-national-park.yaml) 93.20; [Bay of Kotor](../../countries/ME/sights/bay-of-kotor.yaml) 93.15; [Kotor Venetian Fortifications](../../countries/ME/sights/kotor-venetian-fortifications.yaml) 91.40 |
 | MF | cities | 2 | 2 | 78.65 | 0 | 0 | 0 | 2 | [Grand Case](../../countries/MF/cities/grand-case.yaml) 78.70; [Marigot](../../countries/MF/cities/marigot.yaml) 78.60 |
