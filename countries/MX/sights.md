@@ -2,7 +2,7 @@
 
 # Mexico (MX) — Sights & attractions ranking
 
-**94 ranked** · **17 unassessed** · **111 total** · Worldwide scoring **v2**
+**97 ranked** · **14 unassessed** · **111 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (94)
+## Complete ranked list (97)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -107,9 +107,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 91 | [Former Hacienda of Peñuelas](sights/penuelas-hacienda.yaml) | Attraction | **77.95** | — | 7.5 / 7.8 / 8.5 / 7.5 / 7.7 | [21.710831, -102.282219](https://www.google.com/maps/search/?api=1&query=21.710831,-102.282219) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Former%20Hacienda%20of%20Pe%C3%B1uelas%2C%20Mexico) |
 | 92 | [Chapel of San Antonio, Former Hacienda of Juana Guerra](sights/juana-guerra-san-antonio-chapel.yaml) | Attraction | **77.65** | **History 8.7**, **Architecture 8.5**, **Culture 8.3** | 7.6 / 8.0 / 8.4 / 7.5 / 6.8 | [23.842583, -104.189614](https://www.google.com/maps/search/?api=1&query=23.842583,-104.189614) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chapel%20of%20San%20Antonio%2C%20Former%20Hacienda%20of%20Juana%20Guerra%2C%20Mexico) |
 | 93 | [Puente de la Plata (Bridge of Ojuelos)](sights/ojuelos-silver-bridge.yaml) | Bridge | **76.65** | **History 8.8**, **Architecture 8.5**, **Photography 8.0** | 7.3 / 8.0 / 8.4 / 7.5 / 6.7 | [21.805278, -101.758606](https://www.google.com/maps/search/?api=1&query=21.805278,-101.758606) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puente%20de%20la%20Plata%20%28Bridge%20of%20Ojuelos%29%2C%20Mexico) |
-| 94 | [Temple of San José de Avino](sights/san-jose-de-avino-temple.yaml) | Religious site | **74.70** | — | 7.2 / 7.6 / 8.3 / 6.8 / 7.3 | [24.523678, -104.299378](https://www.google.com/maps/search/?api=1&query=24.523678,-104.299378) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Temple%20of%20San%20Jos%C3%A9%20de%20Avino%2C%20Mexico) |
+| 94 | [Temple of Nuestra Señora de los Dolores, Villa González Ortega](sights/villa-gonzalez-ortega-dolores-temple.yaml) | Religious site | **75.60** | — | 7.4 / 7.6 / 8.3 / 7.0 / 7.3 | [22.512314, -101.913856](https://www.google.com/maps/search/?api=1&query=22.512314,-101.913856) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Temple%20of%20Nuestra%20Se%C3%B1ora%20de%20los%20Dolores%2C%20Villa%20Gonz%C3%A1lez%20Ortega%2C%20Mexico) |
+| 95 | [Temple of San Miguel, Villa Ocampo](sights/villa-ocampo-san-miguel-temple.yaml) | Religious site | **75.10** | — | 7.2 / 7.6 / 8.3 / 7.0 / 7.4 | [26.44, -105.509442](https://www.google.com/maps/search/?api=1&query=26.44,-105.509442) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Temple%20of%20San%20Miguel%2C%20Villa%20Ocampo%2C%20Mexico) |
+| 96 | [Temple of San José de Avino](sights/san-jose-de-avino-temple.yaml) | Religious site | **74.70** | — | 7.2 / 7.6 / 8.3 / 6.8 / 7.3 | [24.523678, -104.299378](https://www.google.com/maps/search/?api=1&query=24.523678,-104.299378) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Temple%20of%20San%20Jos%C3%A9%20de%20Avino%2C%20Mexico) |
+| 97 | [Bridge of San Rafael](sights/san-rafael-bridge.yaml) | Bridge | **74.40** | — | 7.0 / 7.8 / 8.3 / 7.0 / 6.8 | [20.940964, -100.793694](https://www.google.com/maps/search/?api=1&query=20.940964,-100.793694) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bridge%20of%20San%20Rafael%2C%20Mexico) |
 
-## Not yet fully assessed (17)
+## Not yet fully assessed (14)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -118,7 +121,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Bridge La Quemada, San Felipe](sights/la-quemada-bridge-san-felipe.yaml) | Bridge | **—** | — | — / — / — / — / — | [21.327647, -101.09625](https://www.google.com/maps/search/?api=1&query=21.327647,-101.09625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bridge%20La%20Quemada%2C%20San%20Felipe%2C%20Mexico) |
 | — | [Bridge of Atongo](sights/atongo-bridge.yaml) | Bridge | **—** | — | — / — / — / — / — | [19.986664, -99.444439](https://www.google.com/maps/search/?api=1&query=19.986664,-99.444439) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bridge%20of%20Atongo%2C%20Mexico) |
 | — | [Bridge of El Fraile](sights/el-fraile-bridge.yaml) | Bridge | **—** | — | — / — / — / — / — | [20.842303, -100.795853](https://www.google.com/maps/search/?api=1&query=20.842303,-100.795853) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bridge%20of%20El%20Fraile%2C%20Mexico) |
-| — | [Bridge of San Rafael](sights/san-rafael-bridge.yaml) | Bridge | **—** | — | — / — / — / — / — | [20.940964, -100.793694](https://www.google.com/maps/search/?api=1&query=20.940964,-100.793694) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bridge%20of%20San%20Rafael%2C%20Mexico) |
 | — | [Chapel of San Mateo, Former Hacienda of La Zarca](sights/la-zarca-san-mateo-chapel.yaml) | Attraction | **—** | — | — / — / — / — / — | [25.844714, -104.741664](https://www.google.com/maps/search/?api=1&query=25.844714,-104.741664) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chapel%20of%20San%20Mateo%2C%20Former%20Hacienda%20of%20La%20Zarca%2C%20Mexico) |
 | — | [Chapel of San Nicolás Tolentino, Former Hacienda of San Nicolás de Quijas](sights/san-nicolas-de-quijas-chapel.yaml) | Attraction | **—** | — | — / — / — / — / — | [22.1535, -101.707181](https://www.google.com/maps/search/?api=1&query=22.1535,-101.707181) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chapel%20of%20San%20Nicol%C3%A1s%20Tolentino%2C%20Former%20Hacienda%20of%20San%20Nicol%C3%A1s%20de%20Quijas%2C%20Mexico) |
 | — | [Chapel of the Former Hacienda of Buenavista](sights/buenavista-hacienda-chapel.yaml) | Attraction | **—** | — | — / — / — / — / — | [20.819925, -100.467658](https://www.google.com/maps/search/?api=1&query=20.819925,-100.467658) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chapel%20of%20the%20Former%20Hacienda%20of%20Buenavista%2C%20Mexico) |
@@ -128,9 +130,7 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Former Hacienda of Chichimequillas](sights/chichimequillas-hacienda.yaml) | Attraction | **—** | — | — / — / — / — / — | [20.758003, -100.342308](https://www.google.com/maps/search/?api=1&query=20.758003,-100.342308) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Former%20Hacienda%20of%20Chichimequillas%2C%20Mexico) |
 | — | [Former Hacienda of San Diego de Navacoyán and Devil's Bridge](sights/navacoyan-hacienda-devils-bridge.yaml) | Bridge | **—** | — | — / — / — / — / — | [24.043603, -104.549164](https://www.google.com/maps/search/?api=1&query=24.043603,-104.549164) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Former%20Hacienda%20of%20San%20Diego%20de%20Navacoy%C3%A1n%20and%20Devil%27s%20Bridge%2C%20Mexico) |
 | — | [Lacantún–Usumacinta Region](sights/lacantun-usumacinta.yaml) | Attraction | **—** | — | — / — / — / — / — | [16.5, -90.9](https://www.google.com/maps/search/?api=1&query=16.5,-90.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lacant%C3%BAn%E2%80%93Usumacinta%20Region%2C%20Mexico) |
-| — | [Temple of Nuestra Señora de los Dolores, Villa González Ortega](sights/villa-gonzalez-ortega-dolores-temple.yaml) | Religious site | **—** | — | — / — / — / — / — | [22.512314, -101.913856](https://www.google.com/maps/search/?api=1&query=22.512314,-101.913856) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Temple%20of%20Nuestra%20Se%C3%B1ora%20de%20los%20Dolores%2C%20Villa%20Gonz%C3%A1lez%20Ortega%2C%20Mexico) |
 | — | [Temple of Nuestra Señora de los Ángeles, Noria de Ángeles](sights/noria-de-angeles-temple.yaml) | Religious site | **—** | — | — / — / — / — / — | [22.44325, -101.909961](https://www.google.com/maps/search/?api=1&query=22.44325,-101.909961) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Temple%20of%20Nuestra%20Se%C3%B1ora%20de%20los%20%C3%81ngeles%2C%20Noria%20de%20%C3%81ngeles%2C%20Mexico) |
-| — | [Temple of San Miguel, Villa Ocampo](sights/villa-ocampo-san-miguel-temple.yaml) | Religious site | **—** | — | — / — / — / — / — | [26.44, -105.509442](https://www.google.com/maps/search/?api=1&query=26.44,-105.509442) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Temple%20of%20San%20Miguel%2C%20Villa%20Ocampo%2C%20Mexico) |
 | — | [Temple of San Pantaleón Mártir, Noria de San Pantaleón](sights/noria-san-pantaleon-temple.yaml) | Religious site | **—** | — | — / — / — / — / — | [23.654414, -103.772642](https://www.google.com/maps/search/?api=1&query=23.654414,-103.772642) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Temple%20of%20San%20Pantale%C3%B3n%20M%C3%A1rtir%2C%20Noria%20de%20San%20Pantale%C3%B3n%2C%20Mexico) |
 
 ---
