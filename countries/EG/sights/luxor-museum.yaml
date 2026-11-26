@@ -1,0 +1,16 @@
+id: sight-eg-luxor-museum
+name: "Luxor Museum"
+location:
+  country_code: EG
+  latitude: 25.70766
+  longitude: 32.64449
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.1
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 8.5

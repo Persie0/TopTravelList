@@ -989,3 +989,345 @@
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-eg-valley-of-the-queens — Valley of the Queens — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/valley-of-the-queens.yaml)
+- Action: new
+- Precise subject and limitations: Independent royal necropolis visit within Ancient Thebes, excludes Valley of Kings and Deir el-Medina. Ministry inventory https://egymonuments.gov.eg/en/world-heritage/ancient-thebes-and-its-necropolis confirms identity. Nefertari tomb access is not assumed; score covers accessible tombs and setting.
+- Location check: 25.72768, 32.59289; [representative point source](https://mapcarta.com/W115780893), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.egymonuments.com/details/ValleyOfTheQueens); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/valley-of-the-kings](../../../countries/EG/sights/valley-of-the-kings.yaml) | 9.6 / 9.8 / 9.9 / 9.3 / 9.4 | Larger and more extensive royal necropolis. |
+| [EG/medinet-habu](../../../countries/EG/sights/medinet-habu.yaml) | 9.3 / 9.3 / 9.5 / 9.2 / 9.0 | Different monumental temple complex. |
+| [EG/saqqara](../../../countries/EG/sights/saqqara.yaml) | 9.5 / 9.6 / 9.8 / 9.2 / 9.5 | Broader necropolis chronology and depth. |
+| [JO/petra-royal-tombs](../../../countries/JO/sights/petra-royal-tombs.yaml) | 9.0 / 9.1 / 9.0 / 8.8 / 8.2 | Different funerary architecture and interior access. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Painted royal funerary chambers. |
+| Uniqueness | 9.3 | Distinct royal female and family burial ensemble. |
+| Significance | 9.4 | Major New Kingdom historical evidence. |
+| Experience | 8.9 | Ticketed tomb visits subject to conservation closures. |
+| Depth | 8.7 | Several tombs but fewer accessible than Kings. |
+
+- Applicable categories: history:9.4, architecture:9.3, culture:9.2, photography:8.8.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: Above 90 because surviving decorated royal tombs and high historic significance; below Kings and Saqqara in breadth and accessible experience. No reliance on guaranteed Nefertari entry.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-ramesseum — Ramesseum (Mortuary Temple of Ramesses II) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/ramesseum.yaml)
+- Action: new
+- Precise subject and limitations: Separate mortuary temple precinct within Ancient Thebes. Official ticket listing https://www.egymonuments.com/book-date/21. Excludes nearby memorial temples and separate tomb sites.
+- Location check: 25.72794, 32.61019; [representative point source](https://mapcarta.com/13046268), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/monuments/the-ramesseum-the-temple-of-ramses-ii/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/medinet-habu](../../../countries/EG/sights/medinet-habu.yaml) | 9.3 / 9.3 / 9.5 / 9.2 / 9.0 | More extensive surviving decorated architecture. |
+| [EG/karnak](../../../countries/EG/sights/karnak.yaml) | 9.9 / 9.8 / 9.9 / 9.6 / 9.7 | Much larger monumental temple ensemble. |
+| [EG/hatshepsut-temple](../../../countries/EG/sights/hatshepsut-temple.yaml) | 9.5 / 9.4 / 9.4 / 9.1 / 8.6 | More dramatic coherent architecture. |
+| [JO/petra-great-temple](../../../countries/JO/sights/petra-great-temple.yaml) | 8.5 / 8.6 / 8.9 / 8.5 / 8.0 | Different and less preserved ancient temple form. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental ruined colonnades and statuary. |
+| Uniqueness | 9.0 | Distinct royal mortuary complex. |
+| Significance | 9.3 | Important Ramesside reliefs and architecture. |
+| Experience | 8.6 | Walkable ruins with limited preserved interiors. |
+| Depth | 8.5 | Multiple architectural and relief elements. |
+
+- Applicable categories: history:9.4, architecture:9.2, photography:9.0.
+- Computed worldwide overall: 89.50/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-deir-el-medina — Deir el-Medina (Artisans' Village and Tombs) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/deir-el-medina.yaml)
+- Action: new
+- Precise subject and limitations: Artisans' settlement and accessible associated decorated tombs, distinct from royal burial valleys. Ministry Ancient Thebes inventory confirms the settlement and tombs. No guarantee of individual tomb admission. Type inferred from name: village.
+- Location check: 25.72807, 32.60136; [representative point source](https://mapcarta.com/28795468), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.com/details/DeirElMadinaTemple); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/valley-of-the-kings](../../../countries/EG/sights/valley-of-the-kings.yaml) | 9.6 / 9.8 / 9.9 / 9.3 / 9.4 | More monumental royal tombs, different social context. |
+| [EG/saqqara](../../../countries/EG/sights/saqqara.yaml) | 9.5 / 9.6 / 9.8 / 9.2 / 9.5 | Much broader funerary landscape. |
+| [EG/memphis](../../../countries/EG/sights/memphis.yaml) | 8.1 / 8.7 / 9.4 / 8.0 / 7.8 | Less concentrated domestic archaeological interpretation. |
+| [JO/umm-al-jimal-archaeological-site](../../../countries/JO/sights/umm-al-jimal-archaeological-site.yaml) | 8.4 / 8.9 / 9.0 / 8.3 / 8.5 | Different ancient settlement fabric. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Ancient settlement remains and decorated tombs. |
+| Uniqueness | 9.3 | Rare insight into daily life of royal tomb artisans. |
+| Significance | 9.4 | Major social-historical evidence. |
+| Experience | 8.8 | Separate ticketed archaeological experience. |
+| Depth | 8.8 | Village and several associated monuments. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:9.0.
+- Computed worldwide overall: 90.15/100.
+- High-score challenge: Above 90 because unusually rich documented artisan community and decorated funerary art; impact and experience remain below major royal tomb and temple complexes.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-wadi-el-rayan — Wadi El Rayan Lakes and Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/wadi-el-rayan.yaml)
+- Action: new
+- Precise subject and limitations: Lake and dune visitor landscape and modest water cascade, explicitly excluding separately ranked Wadi Al-Hitan fossil site. Lakes created via agricultural drainage, not natural waterfall origin. Representative reserve point not waterfall entrance; route and conditions vary.
+- Location check: 29.14778, 30.3925; [representative point source](https://en.wikipedia.org/wiki/Wadi_El_Rayan), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://sis.gov.eg/en/egypt/tourism/environmental-tourism/wadi-el-rayan-reserve/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/wadi-al-hitan](../../../countries/EG/sights/wadi-al-hitan.yaml) | 9.0 / 9.6 / 9.6 / 8.6 / 8.5 | Different rare fossil landscape. |
+| [JO/azraq-wetland-reserve](../../../countries/JO/sights/azraq-wetland-reserve.yaml) | 7.8 / 8.4 / 8.7 / 8.0 / 7.8 | Different oasis wetland ecology. |
+| [OM/bar-al-hikman-proposed-nature-reserve](../../../countries/OM/sights/bar-al-hikman-proposed-nature-reserve.yaml) | 8.5 / 8.8 / 9.1 / 8.5 / 8.3 | Larger coastal bird habitat. |
+| [EG/white-desert](../../../countries/EG/sights/white-desert.yaml) | 9.5 / 9.5 / 8.9 / 9.0 / 8.7 | More unusual desert geomorphology. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Desert lakes and dunes contrast. |
+| Uniqueness | 8.5 | Unusual desert wetland but human-created lakes. |
+| Significance | 8.1 | Regional ecological importance. |
+| Experience | 8.6 | Several outdoor experiences under suitable conditions. |
+| Depth | 8.6 | Multiple landscape and birdwatching areas. |
+
+- Applicable categories: nature:8.8, photography:9.0, adventure:8.6, wildlife:8.4.
+- Computed worldwide overall: 85.05/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-siwa-salt-pools — Siwa Salt Pools — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/siwa-salt-pools.yaml)
+- Action: new
+- Precise subject and limitations: Visitor-accessible hypersaline pools, including working salt-field landscape, separate from existing Siwa archaeological remains. Wikimedia Commons confirms near-identical coordinates https://commons.wikimedia.org/wiki/Category:Siwa_salt_pools. No guaranteed swimming, safe access or health benefits; pool conditions and permissions vary.
+- Location check: 29.21368, 25.62261; [representative point source](https://aroundus.com/p/171414422-siwa-salt-pools), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://travel2egypt.org/guide/siwa-oasis/salt-lakes); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/siwa-archaeological-area](../../../countries/EG/sights/siwa-archaeological-area.yaml) | 8.7 / 9.0 / 9.1 / 8.5 / 8.5 | Different archaeological scope. |
+| [JO/dead-sea-jordanian-shore](../../../countries/JO/sights/dead-sea-jordanian-shore.yaml) | 9.1 / 9.7 / 9.2 / 9.1 / 8.4 | Broader hypersaline lake experience. |
+| [EG/white-desert](../../../countries/EG/sights/white-desert.yaml) | 9.5 / 9.5 / 8.9 / 9.0 / 8.7 | More extensive geological landscape. |
+| [OM/bimmah-sinkhole](../../../countries/OM/sights/bimmah-sinkhole.yaml) | 8.4 / 8.4 / 7.1 / 8.3 / 6.5 | Different concentrated water attraction. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking turquoise water and white salt contrast. |
+| Uniqueness | 8.8 | Distinct hypersaline pool setting. |
+| Significance | 7.5 | Regional landscape and salt industry relevance. |
+| Experience | 8.6 | Short scenic visit, floating only where permitted and safe. |
+| Depth | 7.6 | Limited number of distinct visitor activities. |
+
+- Applicable categories: photography:9.3, nature:8.8, relaxation:8.7.
+- Computed worldwide overall: 84.50/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-nubian-museum — Nubian Museum (Aswan) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/nubian-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated museum collection and interpreted grounds, distinct from actual Nubian monuments and their serial property. Ministry documents UNESCO salvage-campaign background and visitor rules.
+- Location check: 24.07945, 32.88919; [representative point source](https://mapcarta.com/W1128059224), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/en/museums/nubia-museum); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/nmec](../../../countries/EG/sights/nmec.yaml) | 9.1 / 9.4 / 9.5 / 9.1 / 8.8 | Broader national civilization collection. |
+| [EG/egyptian-museum-cairo](../../../countries/EG/sights/egyptian-museum-cairo.yaml) | 9.0 / 9.3 / 9.6 / 8.8 / 9.1 | Much larger ancient Egyptian collection. |
+| [EG/coptic-museum](../../../countries/EG/sights/coptic-museum.yaml) | 8.7 / 9.2 / 9.3 / 8.8 / 9.1 | Different specialized cultural museum. |
+| [OM/national-museum-of-oman](../../../countries/OM/sights/national-museum-of-oman.yaml) | 8.1 / 8.5 / 8.9 / 8.5 / 8.5 | Different national heritage scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Strong archaeological collection and architecture. |
+| Uniqueness | 9.0 | Distinct Nubian cultural narrative. |
+| Significance | 9.2 | Major preservation and cultural significance. |
+| Experience | 9.0 | Interpreted museum visit. |
+| Depth | 8.9 | Multiple eras and thematic displays. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.8.
+- Computed worldwide overall: 89.10/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-luxor-museum — Luxor Museum — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/luxor-museum.yaml)
+- Action: new
+- Precise subject and limitations: Curated archaeological collection, distinct from Luxor Temple and east/west bank archaeological sites. Museum-specific opening and collection access may change.
+- Location check: 25.70766, 32.64449; [representative point source](https://mapcarta.com/N10810902994), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/en/news/luxor-museum-is-a-spectacular-museum-that-includes-a-variety-of-rare-artifacts-discovered-in-luxor/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/egyptian-museum-cairo](../../../countries/EG/sights/egyptian-museum-cairo.yaml) | 9.0 / 9.3 / 9.6 / 8.8 / 9.1 | Far larger collection. |
+| [EG/grand-egyptian-museum](../../../countries/EG/sights/grand-egyptian-museum.yaml) | 9.6 / 9.7 / 9.8 / 9.5 / 9.7 | Broader national collection and visitor scale. |
+| [EG/nmec](../../../countries/EG/sights/nmec.yaml) | 9.1 / 9.4 / 9.5 / 9.1 / 8.8 | Broader historical chronology. |
+| [EG/coptic-museum](../../../countries/EG/sights/coptic-museum.yaml) | 8.7 / 9.2 / 9.3 / 8.8 / 9.1 | Different specialized tradition. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | High-quality ancient Egyptian sculpture and objects. |
+| Uniqueness | 9.0 | Distinct focused Theban collection. |
+| Significance | 9.2 | Major archaeological importance. |
+| Experience | 9.1 | Focused interpreted galleries. |
+| Depth | 8.8 | Multiple collection areas, smaller scale than national museums. |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:8.5.
+- Computed worldwide overall: 89.75/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-museum-of-islamic-art-cairo — Museum of Islamic Art (Cairo) — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/museum-of-islamic-art-cairo.yaml)
+- Action: new
+- Precise subject and limitations: Independent Islamic art museum, not Historic Cairo streets or adjacent library. Collection and Mamluk-style building documented by ministry; temporary gallery access varies.
+- Location check: 30.04465, 31.25272; [representative point source](https://mapcarta.com/28190724), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/en/museums/museum-of-islamic-art/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/coptic-museum](../../../countries/EG/sights/coptic-museum.yaml) | 8.7 / 9.2 / 9.3 / 8.8 / 9.1 | Comparable specialized religious-art museum. |
+| [EG/nmec](../../../countries/EG/sights/nmec.yaml) | 9.1 / 9.4 / 9.5 / 9.1 / 8.8 | Broader Egyptian civilization narrative. |
+| [EG/egyptian-museum-cairo](../../../countries/EG/sights/egyptian-museum-cairo.yaml) | 9.0 / 9.3 / 9.6 / 8.8 / 9.1 | Different ancient collection. |
+| [OM/oman-across-ages-museum](../../../countries/OM/sights/oman-across-ages-museum.yaml) | 8.7 / 8.6 / 8.4 / 9.0 / 8.8 | Different museum focus. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Exceptional decorative arts and artifacts. |
+| Uniqueness | 9.1 | Distinct comprehensive Islamic art collection. |
+| Significance | 9.3 | Internationally important material heritage. |
+| Experience | 9.0 | Interpreted museum galleries. |
+| Depth | 9.1 | Multiple regions, media and historical periods. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.9.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: Above 90 supported by collection breadth and cultural significance; lower impact than monumental archaeological sites and lower overall than GEM.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-eg-unfinished-obelisk — Unfinished Obelisk and Ancient Granite Quarry — 2026-11-27
+
+- YAML: [source](../../../countries/EG/sights/unfinished-obelisk.yaml)
+- Action: new
+- Precise subject and limitations: Bounded ancient quarry and unfinished obelisk visitor site; separate component of Nubian monuments serial property, not whole property. Ministry identifies stone-working context. No unsafe quarry access assumed.
+- Location check: 24.07692, 32.89544; [representative point source](https://mapcarta.com/W243566979), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://egymonuments.gov.eg/monuments/the-unfinished-obelisk); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [EG/memphis](../../../countries/EG/sights/memphis.yaml) | 8.1 / 8.7 / 9.4 / 8.0 / 7.8 | Different sculpture and archaeological setting. |
+| [EG/nilometer-roda](../../../countries/EG/sights/nilometer-roda.yaml) | 8.2 / 9.0 / 9.0 / 8.3 / 7.0 | Different focused ancient engineering heritage. |
+| [EG/saqqara](../../../countries/EG/sights/saqqara.yaml) | 9.5 / 9.6 / 9.8 / 9.2 / 9.5 | Much more extensive archaeological ensemble. |
+| [SA/jabal-ikmah](../../../countries/SA/sights/jabal-ikmah.yaml) | 8.1 / 8.8 / 8.9 / 8.0 / 7.4 | Different concentrated inscribed rock site. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Huge unfinished monolith and quarry landscape. |
+| Uniqueness | 9.0 | Rare direct evidence of ancient obelisk production. |
+| Significance | 9.1 | Important ancient engineering evidence. |
+| Experience | 8.2 | Focused site visit and interpretation. |
+| Depth | 7.6 | Limited spatial scope. |
+
+- Applicable categories: history:9.3, architecture:8.8, photography:8.6.
+- Computed worldwide overall: 85.80/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

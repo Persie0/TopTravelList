@@ -572,3 +572,17 @@ Five additions and 20 peer comparisons. Saudi Arabia 58 ranked / 64 total; six p
 - [x] SA — Dar Al Madinah Museum: 84.25/100 (source-linked-unverified).
 
 Six additions and 24 peer comparisons. Saudi Arabia 64 ranked / 70 total; six prior unassessed unchanged. Shubra Palace deferred because restoration reported March 2026 and current reopening not established: https://saudi-travel-treasures.com/shubra-palace-in-taif/ and https://richexperience.sa/en/p/XwBR. Shuwaymis separate component follows existing Jubbah granularity; site access must be arranged. Shada lower mountain excludes upper protected component, Seven Mosques excludes Qiblatayn. Named remaining Saudi queue screened; close current discovery queue, reopen only on concrete new gaps or confirmed deferred access. Egypt next: 42 ranked records and obvious omitted major temple, museum, oasis and nature sights, e.g. Valley of the Queens, Ramesseum, Deir el-Medina, Wadi El Rayan, and Siwa natural salt lakes; verify exact scopes and access. Existing ratings unchanged; full Python validation and individual peer YAML checks pending.
+
+### Pass 54 — Egypt priority archaeology, museums and nature
+
+- [x] EG — Valley of the Queens: 91.40/100 (source-linked-unverified).
+- [x] EG — Ramesseum (Mortuary Temple of Ramesses II): 89.50/100 (source-linked-unverified).
+- [x] EG — Deir el-Medina (Artisans' Village and Tombs): 90.15/100 (source-linked-unverified).
+- [x] EG — Wadi El Rayan Lakes and Waterfalls: 85.05/100 (source-linked-unverified).
+- [x] EG — Siwa Salt Pools: 84.50/100 (source-linked-unverified).
+- [x] EG — Nubian Museum (Aswan): 89.10/100 (source-linked-unverified).
+- [x] EG — Luxor Museum: 89.75/100 (source-linked-unverified).
+- [x] EG — Museum of Islamic Art (Cairo): 90.35/100 (source-linked-unverified).
+- [x] EG — Unfinished Obelisk and Ancient Granite Quarry: 85.80/100 (source-linked-unverified).
+
+Nine additions and 36 peer comparisons. Egypt 51 ranked / 51 total. Ministry site confirms independently visitable Theban components; existing parent records retained, no duplicate physical scope across new component rows. Ancient Thebes review's earlier unassessed decision conflicts with current ranked parent; flag for consistency review, not changed here. Wadi El Rayan excludes Whale Valley, Siwa salt pools exclude archaeological area. Siwa pools representative point independently matched to Commons geotag; exact access variable. Further candidates: Colossi of Memnon, Elephantine, Qubbet el-Hawa, Kalabsha, Amada, Wadi Sebua, Manial Palace, significant Sinai and Red Sea nature sites; prioritize independently visitable highlights. Full Python validation and individual peer YAML checks pending.

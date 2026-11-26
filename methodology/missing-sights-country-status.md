@@ -15,6 +15,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | BH | DONE — current queue | 46 total (45 ranked); final island and cultural venues added. Royal Camel Farm and Gravity sessions deferred pending access/coordinate confirmation; overlapping heritage umbrella and smaller galleries excluded. Reopen on concrete evidence. |
 | KW | DONE — current queue | 50 total (44 ranked); Kuwait Geopark named place coordinate recovered. Winter Wonderland upcoming season conflicting, deferred. Existing Al Shaheed Park expansion rating review remains separate. Reopen on concrete evidence. |
 | SA | DONE — current queue | 70 total (64 ranked); named regional heritage candidates resolved, Shubra Palace deferred for restoration. Access and overlap caveats retained; reopen on concrete substantial omission or verified access change. |
-| EG | OPEN — next | 42 ranked / 42 total; screen distinct omitted archaeological components, museum and natural attractions; avoid parent duplication. |
+| EG | OPEN | 51 ranked / 51 total; nine additions in pass 54. Next screen remaining major Theban and Nubian components, Manial Palace and distinct Sinai/Red Sea nature sights. Parent review inconsistency flagged. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.
