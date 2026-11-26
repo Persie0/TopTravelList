@@ -1,0 +1,14 @@
+id: city-eh-smara
+name: "Smara (Es Semara)"
+location:
+  country_code: EH
+  latitude: 26.74
+  longitude: -11.68
+scores:
+  impact: null
+  uniqueness: 7.7
+  significance: 8.1
+  experience: null
+  depth: null
+  categories:
+    history: 8.2

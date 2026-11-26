@@ -1,0 +1,15 @@
+id: city-eh-boujdour
+name: "Boujdour"
+location:
+  country_code: EH
+  latitude: 26.13
+  longitude: -14.49
+scores:
+  impact: 6.7
+  uniqueness: 7.0
+  significance: 6.9
+  experience: 7.0
+  depth: 6.5
+  categories:
+    culture: 7.1
+    food: 7.3
