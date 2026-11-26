@@ -337,3 +337,7 @@ Ten individual decisions: nine missing-core profiles completed; one retained unr
 ## Eleventh pass — fourth 100-record incomplete-core batch
 
 [Batch register](worldwide-incomplete-batch-100-pass11-2026-11-26.md): 100 records (99 new triage targets and one pass 6 carry-forward); 9 newly complete, 91 remain incomplete, including two documented closures. Prior populated fields and categories were not independently recalibrated. Source excerpts support missing-field judgments only. No new perfect scores, GPS or weight changes. Generated rankings require refresh.
+
+## Twelfth pass — fifth 100-record incomplete-core batch
+
+[Batch register](worldwide-incomplete-batch-100-pass12-2026-11-26.md): 100 records, 5 completed, 95 retained incomplete. Scheduled Iraq Museum reopening on 2026-12-01 is not current access; Salt Range scope overlaps separate Khewra mine. Prior populated values and categories not independently recalibrated. Sources support missing-field judgments only; no GPS or weight changes. Rankings require regeneration.
