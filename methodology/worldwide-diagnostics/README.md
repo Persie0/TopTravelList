@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14891; unassessed: 1378.
+Ranked: 14895; unassessed: 1374.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1378 |
+| incomplete-core | 1374 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -454,11 +454,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SZ | sights | 30 | 29 | 78.30 | 0 | 0 | 1 | 30 | [Mkhaya Game Reserve](../../countries/SZ/sights/mkhaya-game-reserve.yaml) 87.15; [Malolotja Nature Reserve](../../countries/SZ/sights/malolotja-nature-reserve.yaml) 86.90; [Ngwenya Mines and Lion Cavern](../../countries/SZ/sights/ngwenya-mines-and-lion-cavern.yaml) 86.50 |
 | TC | cities | 3 | 3 | 77.30 | 0 | 0 | 0 | 3 | [Cockburn Town (Grand Turk)](../../countries/TC/cities/cockburn-town.yaml) 80.40; [Balfour Town (Salt Cay)](../../countries/TC/cities/balfour-town.yaml) 77.30; [Cockburn Harbour (South Caicos)](../../countries/TC/cities/cockburn-harbour.yaml) 76.35 |
 | TC | sights | 12 | 12 | 85.05 | 0 | 0 | 0 | 12 | [Chalk Sound National Park (Providenciales)](../../countries/TC/sights/chalk-sound.yaml) 88.55; [Grand Turk Wall (permitted dive sites)](../../countries/TC/sights/grand-turk-wall.yaml) 87.90; [Little Water Cay (Iguana Island)](../../countries/TC/sights/little-water-cay.yaml) 86.70 |
-| TD | cities | 10 | 5 | 72.20 | 0 | 0 | 0 | 10 | [Ounianga Kébir](../../countries/TD/cities/ounianga-kebir.yaml) 73.85; [N'Djamena](../../countries/TD/cities/n-djamena.yaml) 73.10; [Ounianga Sérir](../../countries/TD/cities/ounianga-serir.yaml) 72.20 |
+| TD | cities | 10 | 8 | 71.28 | 0 | 0 | 0 | 10 | [Abéché](../../countries/TD/cities/abeche.yaml) 80.10; [Ounianga Kébir](../../countries/TD/cities/ounianga-kebir.yaml) 73.85; [N'Djamena](../../countries/TD/cities/n-djamena.yaml) 73.10 |
 | TD | sights | 25 | 14 | 88.28 | 6 | 1 | 9 | 25 | [Ennedi Massif Natural and Cultural Landscape](../../countries/TD/sights/ennedi-massif-natural-and-cultural-landscape.yaml) 95.70; [Lakes of Ounianga](../../countries/TD/sights/lakes-of-ounianga.yaml) 93.85; [Zakouma National Park](../../countries/TD/sights/zakouma-national-park.yaml) 93.05 |
 | TF | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | TF | sights | 6 | 0 |  | 0 | 0 | 1 | 6 |  |
-| TG | cities | 16 | 14 | 72.58 | 0 | 0 | 0 | 16 | [Lomé](../../countries/TG/cities/lome.yaml) 79.90; [Aného](../../countries/TG/cities/aneho.yaml) 79.60; [Togoville](../../countries/TG/cities/togoville.yaml) 78.30 |
+| TG | cities | 16 | 15 | 72.40 | 0 | 0 | 0 | 16 | [Lomé](../../countries/TG/cities/lome.yaml) 79.90; [Aného](../../countries/TG/cities/aneho.yaml) 79.60; [Togoville](../../countries/TG/cities/togoville.yaml) 78.30 |
 | TG | sights | 31 | 28 | 77.15 | 1 | 0 | 1 | 31 | [Koutammakou (Togo sector)](../../countries/TG/sights/koutammakou-togo-sector.yaml) 91.00; [Fazao-Malfakassa National Park](../../countries/TG/sights/fazao-malfakassa-national-park.yaml) 83.85; [Palais de Lomé](../../countries/TG/sights/palais-de-lome.yaml) 83.05 |
 | TH | cities | 69 | 69 | 70.90 | 2 | 0 | 2 | 0 | [Bangkok](../../countries/TH/cities/bangkok.yaml) 91.85; [Ayutthaya](../../countries/TH/cities/ayutthaya.yaml) 91.80; [Chiang Mai](../../countries/TH/cities/chiang-mai.yaml) 89.45 |
 | TH | sights | 206 | 206 | 83.75 | 16 | 2 | 34 | 0 | [Ayutthaya Historical Park](../../countries/TH/sights/ayutthaya-historical-park.yaml) 95.75; [Sukhothai Historical Park](../../countries/TH/sights/sukhothai-historical-park.yaml) 95.55; [Wat Phra Kaew (Temple of the Emerald Buddha)](../../countries/TH/sights/wat-phra-kaew.yaml) 94.80 |
