@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15170; unassessed: 1099.
+Ranked: 15177; unassessed: 1092.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 642 |
+| conflicting-declared-status | 649 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2116 |
 | historical-review-only | 2516 |
-| incomplete-core | 1099 |
+| incomplete-core | 1092 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1842 |
 | overall-95-plus | 163 |
@@ -129,7 +129,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CU | cities | 12 | 12 | 79.62 | 1 | 0 | 0 | 12 | [Havana](../../countries/CU/cities/havana.yaml) 91.00; [Trinidad](../../countries/CU/cities/trinidad.yaml) 86.80; [Santiago de Cuba](../../countries/CU/cities/santiago-de-cuba.yaml) 86.05 |
 | CU | sights | 36 | 29 | 82.60 | 3 | 0 | 0 | 36 | [Old Havana and its Fortification System](../../countries/CU/sights/old-havana-fortifications.yaml) 92.75; [Viñales Valley](../../countries/CU/sights/vinales-valley.yaml) 90.30; [Trinidad and the Valley de los Ingenios](../../countries/CU/sights/trinidad-valley-de-los-ingenios.yaml) 90.05 |
 | CV | cities | 24 | 24 | 73.68 | 0 | 0 | 0 | 24 | [Cha das Caldeiras villages](../../countries/CV/cities/cha-das-caldeiras-villages.yaml) 82.95; [Mindelo](../../countries/CV/cities/mindelo.yaml) 82.95; [Cidade Velha](../../countries/CV/cities/cidade-velha.yaml) 82.15 |
-| CV | sights | 47 | 46 | 79.32 | 2 | 0 | 2 | 47 | [Fogo Natural Park (Cha das Caldeiras)](../../countries/CV/sights/fogo-natural-park-cha-das-caldeiras.yaml) 91.75; [Pico do Fogo](../../countries/CV/sights/pico-do-fogo.yaml) 90.00; [Paul Valley](../../countries/CV/sights/paul-valley.yaml) 87.40 |
+| CV | sights | 47 | 47 | 79.35 | 2 | 0 | 2 | 47 | [Fogo Natural Park (Cha das Caldeiras)](../../countries/CV/sights/fogo-natural-park-cha-das-caldeiras.yaml) 91.75; [Pico do Fogo](../../countries/CV/sights/pico-do-fogo.yaml) 90.00; [Paul Valley](../../countries/CV/sights/paul-valley.yaml) 87.40 |
 | CW | cities | 2 | 2 | 81.70 | 0 | 0 | 0 | 2 | [Willemstad](../../countries/CW/cities/willemstad.yaml) 89.05; [Sabana Westpunt](../../countries/CW/cities/westpunt.yaml) 74.35 |
 | CW | sights | 13 | 13 | 83.60 | 1 | 0 | 0 | 13 | [Historic Area of Willemstad (UNESCO property)](../../countries/CW/sights/historic-willemstad.yaml) 91.50; [Shete Boka National Park](../../countries/CW/sights/shete-boka.yaml) 87.25; [Christoffel National Park](../../countries/CW/sights/christoffel-park.yaml) 86.75 |
 | CX | cities | 1 | 1 | 80.25 | 0 | 0 | 0 | 1 | [Flying Fish Cove (The Settlement)](../../countries/CX/cities/flying-fish-cove.yaml) 80.25 |
@@ -251,7 +251,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | JM | cities | 11 | 11 | 77.15 | 0 | 0 | 0 | 11 | [Kingston](../../countries/JM/cities/kingston.yaml) 86.55; [Falmouth](../../countries/JM/cities/falmouth.yaml) 80.65; [Port Antonio](../../countries/JM/cities/port-antonio.yaml) 79.90 |
 | JM | sights | 26 | 25 | 81.35 | 1 | 0 | 0 | 26 | [Blue and John Crow Mountains](../../countries/JM/sights/blue-and-john-crow-mountains.yaml) 91.25; [Bob Marley Museum](../../countries/JM/sights/bob-marley-museum.yaml) 88.45; [Cockpit Country Protected Area](../../countries/JM/sights/cockpit-country-protected-area.yaml) 88.10 |
 | JO | cities | 21 | 21 | 73.05 | 0 | 0 | 0 | 21 | [As-Salt](../../countries/JO/cities/as-salt.yaml) 88.60; [Amman](../../countries/JO/cities/amman.yaml) 86.60; [Madaba](../../countries/JO/cities/madaba.yaml) 82.25 |
-| JO | sights | 67 | 64 | 82.55 | 7 | 2 | 7 | 67 | [Petra Archaeological Park](../../countries/JO/sights/petra-archaeological-park.yaml) 98.85; [Wadi Rum Protected Area](../../countries/JO/sights/wadi-rum-protected-area.yaml) 96.35; [Jerash Archaeological City](../../countries/JO/sights/jerash-archaeological-city.yaml) 94.15 |
+| JO | sights | 67 | 66 | 82.72 | 7 | 2 | 7 | 67 | [Petra Archaeological Park](../../countries/JO/sights/petra-archaeological-park.yaml) 98.85; [Wadi Rum Protected Area](../../countries/JO/sights/wadi-rum-protected-area.yaml) 96.35; [Jerash Archaeological City](../../countries/JO/sights/jerash-archaeological-city.yaml) 94.15 |
 | JP | cities | 87 | 87 | 80.10 | 4 | 2 | 5 | 87 | [Kyoto](../../countries/JP/cities/kyoto.yaml) 96.50; [Tokyo](../../countries/JP/cities/tokyo.yaml) 95.75; [Nara](../../countries/JP/cities/nara.yaml) 91.05 |
 | JP | sights | 347 | 347 | 86.45 | 53 | 5 | 52 | 347 | [Himeji Castle](../../countries/JP/sights/himeji-castle.yaml) 95.75; [Mount Fuji](../../countries/JP/sights/mount-fuji.yaml) 95.75; [Nikko Toshogu](../../countries/JP/sights/nikko-toshogu.yaml) 95.45 |
 | KE | cities | 6 | 6 | 82.50 | 0 | 0 | 0 | 6 | [Lamu](../../countries/KE/cities/lamu.yaml) 89.65; [Mombasa](../../countries/KE/cities/mombasa.yaml) 87.10; [Nairobi](../../countries/KE/cities/nairobi.yaml) 84.55 |
@@ -271,7 +271,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | KR | cities | 82 | 82 | 73.80 | 2 | 0 | 3 | 0 | [Gyeongju](../../countries/KR/cities/gyeongju.yaml) 93.10; [Seoul](../../countries/KR/cities/seoul.yaml) 91.90; [Busan](../../countries/KR/cities/busan.yaml) 89.00 |
 | KR | sights | 284 | 284 | 84.65 | 26 | 1 | 40 | 0 | [Gyeongju Historic Areas](../../countries/KR/sights/gyeongju-historic-areas.yaml) 96.15; [Changdeokgung Palace](../../countries/KR/sights/changdeokgung-palace.yaml) 93.90; [Bulguksa Temple](../../countries/KR/sights/bulguksa-temple.yaml) 93.15 |
 | KW | cities | 12 | 12 | 67.92 | 0 | 0 | 0 | 12 | [Kuwait City](../../countries/KW/cities/kuwait-city.yaml) 82.35; [Ahmadi](../../countries/KW/cities/ahmadi.yaml) 77.45; [Al-Zor Village (Failaka)](../../countries/KW/cities/al-zor-village-failaka.yaml) 77.35 |
-| KW | sights | 43 | 37 | 76.05 | 0 | 0 | 0 | 43 | [Failaka Island Cultural Landscape](../../countries/KW/sights/failaka-island-cultural-landscape.yaml) 88.20; [Kuwait Towers](../../countries/KW/sights/kuwait-towers.yaml) 84.65; [Sheikh Abdullah Al-Salem Cultural Centre](../../countries/KW/sights/sheikh-abdullah-al-salem-cultural-centre.yaml) 83.80 |
+| KW | sights | 43 | 39 | 76.65 | 0 | 0 | 0 | 43 | [Failaka Island Cultural Landscape](../../countries/KW/sights/failaka-island-cultural-landscape.yaml) 88.20; [Kuwait Towers](../../countries/KW/sights/kuwait-towers.yaml) 84.65; [Sheikh Abdullah Al-Salem Cultural Centre](../../countries/KW/sights/sheikh-abdullah-al-salem-cultural-centre.yaml) 83.80 |
 | KY | cities | 2 | 2 | 75.20 | 0 | 0 | 0 | 2 | [George Town (Grand Cayman)](../../countries/KY/cities/george-town.yaml) 77.80; [Blossom Village (Little Cayman)](../../countries/KY/cities/blossom-village.yaml) 72.60 |
 | KY | sights | 11 | 11 | 83.90 | 0 | 0 | 0 | 11 | [Bloody Bay Wall (Little Cayman)](../../countries/KY/sights/bloody-bay-wall.yaml) 88.50; [Booby Pond Nature Reserve (Little Cayman)](../../countries/KY/sights/booby-pond.yaml) 85.55; [Stingray Sandbar (Grand Cayman)](../../countries/KY/sights/stingray-sandbar.yaml) 85.55 |
 | KZ | cities | 18 | 18 | 74.02 | 0 | 0 | 0 | 18 | [Almaty](../../countries/KZ/cities/almaty.yaml) 86.00; [Astana](../../countries/KZ/cities/astana.yaml) 83.85; [Turkistan](../../countries/KZ/cities/turkistan.yaml) 82.75 |
@@ -399,7 +399,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PY | cities | 34 | 34 | 69.85 | 0 | 0 | 0 | 34 | [Asunción](../../countries/PY/cities/asuncion.yaml) 82.50; [Areguá](../../countries/PY/cities/aregua.yaml) 76.85; [Encarnación](../../countries/PY/cities/encarnacion.yaml) 76.75 |
 | PY | sights | 52 | 49 | 79.00 | 1 | 0 | 1 | 52 | [Jesuit Mission of La Santísima Trinidad de Paraná](../../countries/PY/sights/jesuit-mission-of-la-santisima-trinidad-de-parana.yaml) 90.45; [Paraguayan Pantanal](../../countries/PY/sights/paraguayan-pantanal.yaml) 87.50; [Jesuit Mission of Jesús de Tavarangue](../../countries/PY/sights/jesuit-mission-of-jesus-de-tavarangue.yaml) 86.65 |
 | QA | cities | 14 | 13 | 67.65 | 0 | 0 | 0 | 14 | [Doha](../../countries/QA/cities/doha.yaml) 84.85; [Al Wakrah](../../countries/QA/cities/al-wakrah.yaml) 76.25; [Lusail](../../countries/QA/cities/lusail.yaml) 74.50 |
-| QA | sights | 55 | 51 | 76.45 | 3 | 0 | 1 | 55 | [Museum of Islamic Art](../../countries/QA/sights/museum-of-islamic-art.yaml) 92.95; [Khor Al Adaid (Inland Sea)](../../countries/QA/sights/khor-al-adaid-inland-sea.yaml) 90.50; [National Museum of Qatar](../../countries/QA/sights/national-museum-of-qatar.yaml) 90.50 |
+| QA | sights | 55 | 52 | 77.00 | 3 | 0 | 1 | 55 | [Museum of Islamic Art](../../countries/QA/sights/museum-of-islamic-art.yaml) 92.95; [Khor Al Adaid (Inland Sea)](../../countries/QA/sights/khor-al-adaid-inland-sea.yaml) 90.50; [National Museum of Qatar](../../countries/QA/sights/national-museum-of-qatar.yaml) 90.50 |
 | RE | cities | 5 | 5 | 79.15 | 0 | 0 | 0 | 5 | [Cilaos](../../countries/RE/cities/cilaos.yaml) 81.05; [Hell-Bourg](../../countries/RE/cities/hell-bourg.yaml) 80.85; [Saint-Denis](../../countries/RE/cities/saint-denis.yaml) 79.15 |
 | RE | sights | 10 | 10 | 87.85 | 3 | 0 | 2 | 10 | [Pitons, cirques and remparts of Réunion (National Park core)](../../countries/RE/sights/reunion-pitons.yaml) 93.80; [Piton de la Fournaise](../../countries/RE/sights/piton-de-la-fournaise.yaml) 92.65; [Cirque de Mafate](../../countries/RE/sights/cirque-de-mafate.yaml) 91.80 |
 | RO | cities | 20 | 20 | 84.20 | 0 | 0 | 0 | 20 | [Sighișoara](../../countries/RO/cities/sighisoara.yaml) 89.65; [Sibiu](../../countries/RO/cities/sibiu.yaml) 88.80; [Brașov](../../countries/RO/cities/brasov.yaml) 88.30 |
@@ -443,7 +443,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SS | cities | 10 | 1 | 71.55 | 0 | 0 | 0 | 10 | [Juba](../../countries/SS/cities/juba.yaml) 71.55 |
 | SS | sights | 20 | 6 | 72.12 | 0 | 0 | 4 | 20 | [Nimule National Park](../../countries/SS/sights/nimule-national-park.yaml) 80.25; [John Garang Mausoleum](../../countries/SS/sights/john-garang-mausoleum.yaml) 76.40; [Fula Rapids](../../countries/SS/sights/fula-rapids.yaml) 73.70 |
 | ST | cities | 12 | 12 | 69.12 | 0 | 0 | 0 | 12 | [Santo António (Príncipe)](../../countries/ST/cities/santo-antonio-principe.yaml) 77.85; [São Tomé](../../countries/ST/cities/sao-tome.yaml) 77.55; [São João dos Angolares](../../countries/ST/cities/sao-joao-dos-angolares.yaml) 74.15 |
-| ST | sights | 40 | 39 | 80.45 | 2 | 0 | 4 | 40 | [Obô Natural Park (São Tomé)](../../countries/ST/sights/obo-natural-park-sao-tome.yaml) 90.75; [Príncipe Natural Park](../../countries/ST/sights/principe-natural-park.yaml) 90.05; [Pico Cão Grande](../../countries/ST/sights/pico-cao-grande.yaml) 88.05 |
+| ST | sights | 40 | 40 | 80.55 | 2 | 0 | 4 | 40 | [Obô Natural Park (São Tomé)](../../countries/ST/sights/obo-natural-park-sao-tome.yaml) 90.75; [Príncipe Natural Park](../../countries/ST/sights/principe-natural-park.yaml) 90.05; [Pico Cão Grande](../../countries/ST/sights/pico-cao-grande.yaml) 88.05 |
 | SV | cities | 24 | 24 | 73.32 | 0 | 0 | 0 | 24 | [Suchitoto](../../countries/SV/cities/suchitoto.yaml) 82.10; [San Salvador](../../countries/SV/cities/san-salvador.yaml) 81.25; [Santa Ana](../../countries/SV/cities/santa-ana.yaml) 79.80 |
 | SV | sights | 54 | 50 | 79.88 | 0 | 0 | 1 | 54 | [Joya de Cerén Archaeological Site](../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) 89.70; [Santa Ana Volcano (Ilamatepec)](../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) 89.60; [Los Volcanes National Park](../../countries/SV/sights/los-volcanes-national-park.yaml) 88.95 |
 | SX | cities | 2 | 2 | 76.85 | 0 | 0 | 0 | 2 | [Philipsburg](../../countries/SX/cities/philipsburg.yaml) 79.25; [Simpson Bay (village)](../../countries/SX/cities/simpson-bay.yaml) 74.45 |
