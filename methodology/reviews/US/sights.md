@@ -4461,3 +4461,231 @@ Peer dimensions from current country ranking tables; full source YAML recheck pe
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-us-monterey-bay-aquarium — Monterey Bay Aquarium — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/monterey-bay-aquarium.yaml)
+- Action: new
+- Precise subject: Public aquarium galleries and marine-life interpretation; excludes the wider Monterey Bay and separate marine tours.
+- Location check: 36.61829, -121.90134; [published representative point](https://mapcarta.com/23094410), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Official exhibits and floor map identify the 28-foot living kelp forest, open-ocean gallery, deep-sea displays and sea otters (https://www.montereybayaquarium.org/visit/aquarium-maps; https://www.montereybayaquarium.org/visit/exhibits/kelp-forest; https://www.montereybayaquarium.org/visit/exhibits/open-sea). [Primary reference](https://www.montereybayaquarium.org/visit/exhibits); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | Lisbon offers a concentrated global ocean exhibit; Monterey emphasizes the local marine ecosystem. |
+| [AE/seaworld-abu-dhabi](../../../countries/AE/sights/seaworld-abu-dhabi.yaml) | 8.9 / 8.8 / 7.7 / 8.9 / 9.0 | Abu Dhabi has larger themed entertainment scope; Monterey has stronger ecological interpretation. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | 8.7 / 8.6 / 7.9 / 9.0 / 9.0 | Hong Kong mixes rides and animal exhibits; Monterey is marine-focused. |
+| [AE/dubai-mall-aquarium-and-underwater-zoo](../../../countries/AE/sights/dubai-mall-aquarium-and-underwater-zoo.yaml) | 8.0 / 7.6 / 6.2 / 8.4 / 7.6 | Dubai is a narrower mall-integrated visitor experience. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Immersive kelp and ocean galleries produce exceptional visual impact |
+| Uniqueness | 9.1 | living kelp and regional marine focus distinguish it from conventional aquariums |
+| Significance | 8.8 | important public marine education and exhibit design without attributing unsupported conservation outcomes |
+| Experience | 9.2 | varied habitat interpretation supports a rewarding visit |
+| Depth | 9.1 | two floors of distinct habitat exhibits offer substantial depth. |
+
+- Applicable categories: nature:9.3, wildlife:9.3, family:9.3.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: Above 90 reflects the specific visitor strengths in the five rationales; comparison with more comprehensive or historically significant institutions and ensembles limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-georgia-aquarium — Georgia Aquarium — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/georgia-aquarium.yaml)
+- Action: new
+- Precise subject: Main Atlanta aquarium and standard public galleries; excludes separate paid animal encounters and adjacent museums.
+- Location check: 33.76334, -84.39501; [published representative point](https://aroundus.com/p/5490989-georgia-aquarium), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator documents Ocean Voyager's whale sharks, manta rays and other marine animals; its visitor guide lists multiple galleries (https://www.georgiaaquarium.org/resource-center/deep-dive/how-to-visit-georgia-aquarium/). Mapcarta corroborates location (https://mapcarta.com/25032508). [Primary reference](https://www.georgiaaquarium.org/gallery/ocean-voyager/); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | Lisbon emphasizes a global ocean exhibit; Atlanta has larger individual marine displays. |
+| [AE/seaworld-abu-dhabi](../../../countries/AE/sights/seaworld-abu-dhabi.yaml) | 8.9 / 8.8 / 7.7 / 8.9 / 9.0 | Comparable large facility with a different themed-realm approach. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | 8.7 / 8.6 / 7.9 / 9.0 / 9.0 | Ocean Park adds land animals and amusement rides; Atlanta has marine specialization. |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | Monterey has stronger regional ecosystem interpretation; Atlanta excels in display scale. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Large marine exhibits give high visual impact |
+| Uniqueness | 9.1 | uncommon whale shark and ray viewing and extensive gallery scale distinguish the facility |
+| Significance | 8.4 | substantial public marine education but captive exhibit size is not itself ecological significance |
+| Experience | 9.2 | varied galleries offer rewarding visits without optional encounters |
+| Depth | 9.2 | multiple large galleries support lengthy exploration. |
+
+- Applicable categories: wildlife:9.2, nature:9.0, family:9.3.
+- Computed worldwide overall: 90.15/100.
+- High-score challenge: Above 90 reflects the specific visitor strengths in the five rationales; comparison with more comprehensive or historically significant institutions and ensembles limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-san-diego-zoo — San Diego Zoo — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/san-diego-zoo.yaml)
+- Action: new
+- Precise subject: Balboa Park zoo's public animal habitats and botanical displays only; excludes Safari Park in Escondido and the wider Balboa Park.
+- Location check: 32.7381587, -117.1487305; [published representative point](https://tools.bgci.org/garden.php?ftrBGCImem=&ftrCountry=All&ftrIAReg=&ftrKeyword=&id=228), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Official wildlife list and visit guidance describe varied habitat areas and wildlife experiences, including Elephant Odyssey and Wildlife Explorers Basecamp (https://zoo.sandiegozoo.org/wildlife; https://zoo.sandiegozoo.org/animals/elephant; https://zoo.sandiegozoo.org/). BGCI directory supplies representative coordinates. [Primary reference](https://zoo.sandiegozoo.org/plan-your-visit); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SG/singapore-zoo](../../../countries/SG/sights/singapore-zoo.yaml) | 9.0 / 8.9 / 8.1 / 9.2 / 9.2 | Comparable immersive zoological visitor experience; different species and climatic setting. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | 8.7 / 8.6 / 7.9 / 9.0 / 9.0 | Hong Kong adds amusement attractions; San Diego has dedicated wildlife scope. |
+| [AE/seaworld-abu-dhabi](../../../countries/AE/sights/seaworld-abu-dhabi.yaml) | 8.9 / 8.8 / 7.7 / 8.9 / 9.0 | Abu Dhabi focuses on marine habitats; San Diego covers many terrestrial habitats. |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | Lisbon offers concentrated marine education, versus broader zoo trails. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Varied animal habitats and botanical setting provide strong visual impact |
+| Uniqueness | 8.9 | large integrated wildlife and plant collections distinguish the zoo while comparable institutions exist |
+| Significance | 8.5 | major public education institution without assuming conservation or animal-welfare outcomes |
+| Experience | 9.3 | extensive habitat trails and family learning areas support engaging visits |
+| Depth | 9.4 | numerous distinct areas permit substantial exploration. |
+
+- Applicable categories: wildlife:9.3, family:9.4, nature:9.0.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-balboa-park — Balboa Park (San Diego) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/balboa-park.yaml)
+- Action: new
+- Precise subject: Public park architecture, gardens, plazas and trails; excludes zoo and separately ticketed museum interiors. Representative point Plaza de Panama.
+- Location check: 32.73167, -117.15028; [published representative point](https://en.wikipedia.org/wiki/Plaza_de_Panama), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: City describes public gardens, architecture and visitor centre at Plaza de Panama; tourism authority documents Spanish Colonial Revival buildings, public gardens and outdoor organ pavilion (https://www.sandiego.org/article/15-fun-free-things-to-do-in-balboa-park). [Primary reference](https://www.sandiego.gov/park-and-recreation/parks/regional/balboa); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | 8.7 / 8.7 / 8.7 / 9.0 / 8.8 | Central Park emphasizes large-scale historic landscape design; Balboa adds exposition architecture. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Millennium Park is a smaller contemporary public-art space. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Stanley Park focuses on forest and waterfront recreation. |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | Butchart is a concentrated historic garden estate, Balboa has a broader public architectural landscape. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Monumental architecture and gardens create strong visual impact |
+| Uniqueness | 8.8 | integrated exposition-era architectural and garden setting is distinctive |
+| Significance | 8.9 | important urban design and cultural history but no credit for separate museum collections |
+| Experience | 9.1 | public spaces, trails and gardens offer varied visits |
+| Depth | 9.2 | extensive outdoor grounds support sustained exploration. |
+
+- Applicable categories: architecture:9.2, culture:9.1, relaxation:9.0, photography:9.1.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-new-orleans-french-quarter — French Quarter (New Orleans) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/new-orleans-french-quarter.yaml)
+- Action: new
+- Precise subject: Historic district's public streets, squares and architectural fabric; excludes separate paid venues, museums and individual performances. Representative point Jackson Square.
+- Location check: 29.9575, -90.06306; [published representative point](https://en.wikipedia.org/wiki/Jackson_Square_%28New_Orleans%29), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Preservation Resource Center documents the original 85-block district and mixed architectural traditions (https://prcno.org/help-for-homeowners/historic-districts-neighborhoods/french-quarter/); city confirms Jackson Square lies within it (https://nola.gov/next/parks-parkways/topics/parks-squares/jackson-square/). Tourism authority describes the district's Creole culture, walking and historic buildings (https://www.neworleans.com/plan/neighborhoods/french-quarter/). [Primary reference](https://www.neworleans.com/plan/neighborhoods/french-quarter/architecture/); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | Québec emphasizes fortified colonial architecture; New Orleans has distinctive Creole culture. |
+| [CA/old-montreal](../../../countries/CA/sights/old-montreal.yaml) | 8.8 / 8.6 / 8.9 / 9.0 / 8.9 | Comparable walkable historic fabric with different cultural traditions. |
+| [MX/historic-centre-oaxaca](../../../countries/MX/sights/historic-centre-oaxaca.yaml) | 8.7 / 8.9 / 8.9 / 8.8 / 8.6 | Oaxaca has distinct colonial and Indigenous cultural context. |
+| [FR/avignon-core](../../../countries/FR/sights/avignon-core.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.1 | Avignon has more monumental medieval historical depth. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Historic streets and ornamental balconies deliver strong visual and cultural impact |
+| Uniqueness | 9.1 | distinct Creole and Spanish-influenced townscape is difficult to substitute in North America |
+| Significance | 9.2 | internationally relevant multicultural urban and musical history |
+| Experience | 9.1 | public-space walking and street culture provide rewarding experiences |
+| Depth | 9.0 | varied blocks and squares support extended exploration without counting separate venues. |
+
+- Applicable categories: architecture:9.3, culture:9.4, history:9.2, food:9.1, photography:9.1.
+- Computed worldwide overall: 90.80/100.
+- High-score challenge: Above 90 reflects the specific visitor strengths in the five rationales; comparison with more comprehensive or historically significant institutions and ensembles limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-us-savannah-historic-district — Savannah Historic District — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/savannah-historic-district.yaml)
+- Action: new
+- Precise subject: National Historic Landmark district's public streets, squares and historic building exteriors; excludes separately ticketed houses and museums. Representative point Johnson Square.
+- Location check: 32.0799299, -81.0915009; [published representative point](https://www.topozone.com/georgia/chatham-ga/park/johnson-square/), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: National Park Service and preservation foundation document the surviving colonial ward plan and public squares (https://www.myhsf.org/what-we-do/historic-districts/national-historic-landmark-district/). City identifies Johnson Square as the first square, laid out in 1733 (https://www.savannahga.gov/Facilities/Facility/Details/Johnson-Square-177). [Primary reference](https://www.nps.gov/articles/savannah-georgia-the-lasting-legacy-of-colonial-city-planning-teaching-with-historic-places.htm); public sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: complete independent corroboration, current access, and individual exhibit availability; captive-animal welfare and conservation outcomes not evaluated.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | Québec has fortified historic character; Savannah's square-based plan is distinctive. |
+| [CA/old-montreal](../../../countries/CA/sights/old-montreal.yaml) | 8.8 / 8.6 / 8.9 / 9.0 / 8.9 | Montréal has more commercial streetscape; Savannah has a coherent green-square system. |
+| [PT/evora-core](../../../countries/PT/sights/evora-core.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.8 | Évora has deeper ancient and medieval layers. |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | New Orleans has stronger distinct living musical and Creole culture; Savannah emphasizes planning and landscape. |
+
+Peer dimensions from current country ranking tables or same-batch assessments; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Tree-lined squares and historic streets produce strong visual impact |
+| Uniqueness | 9.0 | unusually coherent repeated ward and square plan distinguishes the district |
+| Significance | 9.1 | enduring colonial urban planning and layered social history are significant |
+| Experience | 9.0 | walkable public architecture and green spaces reward exploration |
+| Depth | 9.0 | multiple distinct squares and blocks provide substantial depth. |
+
+- Applicable categories: architecture:9.3, history:9.3, culture:8.9, photography:9.1, relaxation:8.8.
+- Computed worldwide overall: 89.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

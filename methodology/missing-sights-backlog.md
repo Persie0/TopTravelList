@@ -342,3 +342,15 @@ Six additions, 24 peer comparisons. US now 118 ranked/118 total. Published point
 - [x] US — Las Vegas Strip: 89.05/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons with ranked dimension values. US now 124 ranked/124 total. Official museum and tourism sources and published coordinates inspected. Getty Villa distinct from Getty Center; Chihuly excludes Space Needle; Strip restricted to public-facing urban experience, no gambling or ticketed shows. High Line operator blocked by robots; city parks source used. Generic Getty Villa and Garden type for Chihuly match lexical behavior but remain semantic classification limitations. Existing ratings unchanged. Full peer YAML check, Python validation and diagnostics pending. Next: Monterey Bay Aquarium, Georgia Aquarium, San Diego Zoo, San Diego Balboa Park, New Orleans French Quarter and Savannah Historic District.
+
+
+### Pass 34 — US aquariums, zoo, parks and historic districts
+
+- [x] US — Monterey Bay Aquarium: 90.55/100 (source-linked-unverified).
+- [x] US — Georgia Aquarium: 90.15/100 (source-linked-unverified).
+- [x] US — San Diego Zoo: 89.60/100 (source-linked-unverified).
+- [x] US — Balboa Park (San Diego): 89.35/100 (source-linked-unverified).
+- [x] US — French Quarter (New Orleans): 90.80/100 (source-linked-unverified).
+- [x] US — Savannah Historic District: 89.90/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons with ranked dimension values. US now 130 ranked/130 total. Official visitor and heritage sources and published coordinates inspected. Balboa public spaces exclude the zoo and ticketed museum interiors, San Diego Zoo excludes Safari Park, district coordinates represent Jackson Square and Johnson Square. Animal welfare and conservation outcomes not assessed. Monterey Bay Aquarium incorrectly inherits lexical Beach / bay type; historic districts retain generic type. Existing ratings unchanged. Full peer YAML check, Python validation and diagnostics pending. Next: US Pearl Harbor USS Arizona Memorial, USS Midway Museum, Smithsonian National Museum of Natural History, Boston Freedom Trail, New York Grand Central Terminal, and San Francisco Golden Gate Park.

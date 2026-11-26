@@ -1,0 +1,16 @@
+id: sight-us-san-diego-zoo
+name: "San Diego Zoo"
+location:
+  country_code: US
+  latitude: 32.7381587
+  longitude: -117.1487305
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.3
+  depth: 9.4
+  categories:
+    wildlife: 9.3
+    family: 9.4
+    nature: 9.0
