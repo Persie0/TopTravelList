@@ -640,3 +640,17 @@ Ten additions, 40 peer comparisons. Egypt 78 ranked / 78 total. Combined mosque 
 - [x] EG — Shali Fortress and Historic Settlement: 87.25/100 (source-linked-unverified).
 
 Seven additions and 28 peer comparisons. Egypt 85 ranked / 85 total. Abusir pyramid field deferred: ordinary access reported closed, renewed access not established (https://en.wikivoyage.org/wiki/Abusir and https://egyptcompasstours.com/destinations/giza/pyramids-of-abusir). Saint Catherine parent explicitly covers monastery and mountain; retain one record in current screen. Aswan Islamic Cemetery deferred because fenced off and ordinary visitor access unconfirmed (https://www.lonelyplanet.com/points-of-interest/fatimid-cemetery/1340968). Shali separate medieval visitor scope, broader Siwa parent overlap caveat. Montaza exterior and garden scope only; precise museum map markers preferred over conflicting directory positions. Alexandria and Memphis aggregate reviews also disagree with current ranked rows; consistency audit pending. Close named Egypt discovery queue, not exhaustive independent audit. Tunisia next, 19 ranked / 30 total. Full Python validation and individual peer YAML checks pending.
+
+### Pass 59 — Tunisia priority archaeological and oasis attractions
+
+- [x] TN — Chebika, Tamerza and Mides Mountain Oases: 88.50/100 (source-linked-unverified).
+- [x] TN — Chenini Historic Village and Ksar: 87.60/100 (source-linked-unverified).
+- [x] TN — Douiret Historic Village and Ksar: 85.40/100 (source-linked-unverified).
+- [x] TN — Ksar Ouled Soltane: 87.70/100 (source-linked-unverified).
+- [x] TN — Ksar Ghilane Oasis and Dunes: 85.60/100 (source-linked-unverified).
+- [x] TN — Ribat of Monastir: 88.15/100 (source-linked-unverified).
+- [x] TN — Oudhna (Uthina) Archaeological Site: 88.05/100 (source-linked-unverified).
+- [x] TN — El Jem Archaeological Museum and Roman Villas: 87.95/100 (source-linked-unverified).
+- [x] TN — Sousse Archaeological Museum: 88.25/100 (source-linked-unverified).
+
+Nine additions and 36 peer comparisons. Tunisia 28 ranked / 39 total. Existing eleven unassessed unchanged. Official tourism mountain oasis and Tataouine inventories and national heritage operator museum/site inventory screened. Chebika circuit grouped, point at Chebika; regional travel restrictions require confirmation. Ksar Ghilane named oasis point preferred over conflicting introductory DMS. El Jem archaeological museum point distinguished from Dar El Jem. Individual southern ksour scopes are potential components of existing unassessed aggregate, not duplicate visitor precincts. El Ghriba visitor access subject to religious and security restrictions (https://www.tourismtunisia.com/el-ghriba-synagogue-djerba/); screen next along with Djerbahood, Guellala Museum, Houmt Souk fort, Tozeur oasis/old town, Sidi Bou Said independent museums, Zaghouan Water Temple, Cap Bon/Tabarka nature and substantial remaining sites. Full Python validation and individual peer YAML checks pending.

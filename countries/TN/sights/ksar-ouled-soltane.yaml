@@ -1,0 +1,17 @@
+id: sight-tn-ksar-ouled-soltane
+name: "Ksar Ouled Soltane"
+location:
+  country_code: TN
+  latitude: 32.78798
+  longitude: 10.51726
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 8.6
+  depth: 7.9
+  categories:
+    architecture: 9.3
+    photography: 9.3
+    history: 8.9
+    culture: 9.0

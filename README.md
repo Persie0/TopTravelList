@@ -315,7 +315,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Tokelau](countries/TK/) (`TK`) | [5](countries/TK/cities.md) | [4](countries/TK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Tokelau) |
 | [Tonga](countries/TO/) (`TO`) | [7](countries/TO/cities.md) | [18](countries/TO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Tonga) |
 | [Trinidad and Tobago](countries/TT/) (`TT`) | [12](countries/TT/cities.md) | [29](countries/TT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Trinidad%20and%20Tobago) |
-| [Tunisia](countries/TN/) (`TN`) | [11](countries/TN/cities.md) | [30](countries/TN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Tunisia) |
+| [Tunisia](countries/TN/) (`TN`) | [11](countries/TN/cities.md) | [39](countries/TN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Tunisia) |
 | [Turkmenistan](countries/TM/) (`TM`) | [12](countries/TM/cities.md) | [40](countries/TM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Turkmenistan) |
 | [Turks and Caicos Islands](countries/TC/) (`TC`) | [3](countries/TC/cities.md) | [12](countries/TC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Turks%20and%20Caicos%20Islands) |
 | [Tuvalu](countries/TV/) (`TV`) | [9](countries/TV/cities.md) | [14](countries/TV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Tuvalu) |

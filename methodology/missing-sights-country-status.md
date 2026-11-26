@@ -16,6 +16,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | KW | DONE — current queue | 50 total (44 ranked); Kuwait Geopark named place coordinate recovered. Winter Wonderland upcoming season conflicting, deferred. Existing Al Shaheed Park expansion rating review remains separate. Reopen on concrete evidence. |
 | SA | DONE — current queue | 70 total (64 ranked); named regional heritage candidates resolved, Shubra Palace deferred for restoration. Access and overlap caveats retained; reopen on concrete substantial omission or verified access change. |
 | EG | DONE — current queue | 85 ranked / 85 total; 43 additions since start of Egypt screen. Alexandria and Siwa final candidates resolved; Abusir and Islamic Cemetery deferred for access; Saint Catherine parent retained. Reopen on concrete substantial omission. |
-| TN | OPEN — next | 30 total (19 ranked); screen high-value visitor omissions and distinguish existing unassessed properties from new records. |
+| TN | OPEN | 39 total (28 ranked); nine priority nature and heritage additions. Next Djerba, Tozeur, Zaghouan and coastal highlights. Eleven prior unassessed unchanged. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

@@ -1,0 +1,17 @@
+id: sight-tn-ksar-ghilane-oasis
+name: "Ksar Ghilane Oasis and Dunes"
+location:
+  country_code: TN
+  latitude: 32.977
+  longitude: 9.6452
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 9.1
+    relaxation: 8.7
