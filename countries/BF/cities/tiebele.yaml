@@ -2,8 +2,8 @@ id: city-bf-tiebele
 name: "Tiébélé"
 location:
   country_code: BF
-  latitude: 11.09
-  longitude: 0.96
+  latitude: 11.097222
+  longitude: -0.965556
 scores:
   impact: 7.9
   uniqueness: 8.8
