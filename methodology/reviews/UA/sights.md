@@ -1728,3 +1728,5 @@
 - Final decision: Unranked pending condition and documented ordinary visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent claim-level corroboration, current condition and permitted access, narrower worldwide peers.
+
+- [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)

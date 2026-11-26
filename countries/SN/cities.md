@@ -2,7 +2,7 @@
 
 # Senegal (SN) — Cities, towns & villages ranking
 
-**6 ranked** · **2 unassessed** · **8 total** · Worldwide scoring **v2**
+**8 ranked** · **0 unassessed** · **8 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (6)
+## Complete ranked list (8)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -18,17 +18,10 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 2 | [Saint-Louis](cities/saint-louis.yaml) | City / town | **86.35** | **History 9.0**, **Architecture 8.9**, **Culture 8.7** | 8.5 / 8.8 / 8.9 / 8.5 / 8.3 | [16.018, -16.49](https://www.google.com/maps/search/?api=1&query=16.018,-16.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Louis%2C%20Senegal) |
 | 3 | [Touba](cities/touba.yaml) | City / town | **83.60** | **Culture 9.1**, **History 8.8** | 8.1 / 8.8 / 8.9 / 7.8 / 7.8 | [14.86229, -15.87532](https://www.google.com/maps/search/?api=1&query=14.86229,-15.87532) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Touba%2C%20Senegal) |
 | 4 | [Joal-Fadiouth](cities/joal-fadiouth.yaml) | City / town | **83.55** | **Culture 8.9**, **Photography 8.6**, **History 8.3** | 8.2 / 8.8 / 8.2 / 8.5 / 7.8 | [14.15, -16.8167](https://www.google.com/maps/search/?api=1&query=14.15,-16.8167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Joal-Fadiouth%2C%20Senegal) |
-| 5 | [Ziguinchor](cities/ziguinchor.yaml) | City / town | **77.85** | **Culture 8.4**, **Food 8.0** | 7.6 / 7.9 / 7.8 / 8.0 / 7.7 | [12.568, -16.273](https://www.google.com/maps/search/?api=1&query=12.568,-16.273) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ziguinchor%2C%20Senegal) |
-| 6 | [Mbour](cities/mbour.yaml) | City / town | **75.60** | **Culture 8.3**, **Food 8.0** | 7.4 / 7.8 / 7.4 / 7.8 / 7.4 | [14.422, -16.964](https://www.google.com/maps/search/?api=1&query=14.422,-16.964) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbour%2C%20Senegal) |
-
-## Not yet fully assessed (2)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Kédougou](cities/kedougou.yaml) | City / town | **—** | — | — / 7.4 / 7.4 / — / — | [12.56, -12.18](https://www.google.com/maps/search/?api=1&query=12.56,-12.18) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%A9dougou%2C%20Senegal) |
-| — | [Podor](cities/podor.yaml) | City / town | **—** | **History 8.5** | 7.6 / 8.1 / 8.2 / — / — | [16.617, -15.033](https://www.google.com/maps/search/?api=1&query=16.617,-15.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Podor%2C%20Senegal) |
+| 5 | [Podor](cities/podor.yaml) | City / town | **78.60** | **History 8.5** | 7.6 / 8.1 / 8.2 / 7.9 / 7.3 | [16.617, -15.033](https://www.google.com/maps/search/?api=1&query=16.617,-15.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Podor%2C%20Senegal) |
+| 6 | [Ziguinchor](cities/ziguinchor.yaml) | City / town | **77.85** | **Culture 8.4**, **Food 8.0** | 7.6 / 7.9 / 7.8 / 8.0 / 7.7 | [12.568, -16.273](https://www.google.com/maps/search/?api=1&query=12.568,-16.273) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ziguinchor%2C%20Senegal) |
+| 7 | [Mbour](cities/mbour.yaml) | City / town | **75.60** | **Culture 8.3**, **Food 8.0** | 7.4 / 7.8 / 7.4 / 7.8 / 7.4 | [14.422, -16.964](https://www.google.com/maps/search/?api=1&query=14.422,-16.964) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbour%2C%20Senegal) |
+| 8 | [Kédougou](cities/kedougou.yaml) | City / town | **70.40** | — | 6.6 / 7.4 / 7.4 / 7.2 / 6.5 | [12.56, -12.18](https://www.google.com/maps/search/?api=1&query=12.56,-12.18) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%A9dougou%2C%20Senegal) |
 
 ---
 

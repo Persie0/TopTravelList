@@ -39,6 +39,38 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Earlier decision: none.
 - Verification still needed: Independent factual and geographic verification.
 
+### Reassessment — 2026-11-26
+
+- [Source YAML](../../../countries/US/sights/grand-canyon-national-park.yaml) · **fact-checked** (material claims, not a verified numerical rating).
+- Action: rescore; precise subject: Entire Grand Canyon National Park and its rim and canyon visitor landscapes, not one viewpoint.
+- Location check: existing representative point retained; precise GPS independently unverified.
+- Independently checked factual claims: [UNESCO Grand Canyon](https://whc.unesco.org/en/list/75/), opened 2026-11-26, describes the deep Colorado River gorge and exposed strata. [National Park Service geology](https://www.nps.gov/grca/learn/nature/geologicformations.htm?fullweb=1), opened 2026-11-26, describes the layered walls and landscape erosion, providing direct evidence for visual and geological breadth.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [CN/sights/mount-huangshan](../../../countries/CN/sights/mount-huangshan.yaml) | Elite mountain scenery; the Grand Canyon's immense coherent chasm and layered rock create a comparably defining, but different, visual experience. |
+| [VN/sights/ha-long-bay](../../../countries/VN/sights/ha-long-bay.yaml) | World-leading karst seascape; Grand Canyon provides a fundamentally different sense of scale and relief. |
+| [MG/sights/tsingy-de-bemaraha](../../../countries/MG/sights/tsingy-de-bemaraha.yaml) | Exceptional karst landforms and distinctive texture; Grand Canyon's visual continuity and vast scale support the impact anchor. |
+| [US/sights/yosemite-national-park](../../../countries/US/sights/yosemite-national-park.yaml) | Elite cliff and valley scenery; its glacial forms differ from the canyon's panoramic stratigraphic exposure. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.9 | 10.0 | 10: the extensive, deeply incised, multicolored landscape is a globally defining example of natural visual scale, not merely a national leader. |
+| Uniqueness | 9.7 | 9.7 | 9.7: exceptional exposed geologic sequence and river-carved landform; other exceptional canyons exist. |
+| Significance | 9.6 | 9.6 | 9.6: globally consequential geological record and human landscape; other scientific sites may be more defining in specific fields. |
+| Experience | 9.4 | 9.4 | 9.4: meaningful rim and canyon experiences, but retain distinction between stunning views and the entire visitor experience. |
+| Depth | 9.6 | 9.6 | 9.6: substantial rim, trail and geologic discovery across the park. |
+
+- Categories after: nature 9.9, photography 9.9, adventure 9.6.
+- Computed overall: 96.85/100 → **97.15/100**.
+- High-score challenge: Impact 10 is a field-specific visual reference; nature and photography 9.9 recognize the landforms and composition without automatically assigning additional perfect values. Adventure 9.6 reflects extensive hiking opportunities. Significance, uniqueness and depth remain elite, not perfect.
+- Approved 10 registry: add impact for `sight-us-grand-canyon-national-park`.
+- Earlier decision: Original 25 November review above.
+- Verification still needed: exact GPS and independently documented breadth of the visit. The numerical judgment remains editorial.
+
+
 ## sight-us-yellowstone-national-park — Yellowstone National Park — 2026-11-25
 
 - YAML: [source](../../../countries/US/sights/yellowstone-national-park.yaml)

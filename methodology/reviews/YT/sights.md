@@ -358,6 +358,8 @@ No numerical score or evidence-status changes made by this pass.
 
 ## sight-yt-tsingoni-mosque — Historic Mosque of Tsingoni — 2026-11-25
 
+> Superseded for missing core fields by [pass 68 reassessment](worldwide-deferred-pass68-2026-11-26.md); previous reasoning retained for provenance.
+
 - YAML: [source](../../../countries/YT/sights/tsingoni-mosque.yaml)
 - Action: new
 - Precise subject: Historic mosque and mausoleums, not the entire village; no assumption of entry during restoration or worship.

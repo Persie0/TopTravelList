@@ -3962,3 +3962,5 @@
 - Final decision: Unranked pending ordinary visitor evidence.
 - Earlier decision: none.
 - Verification still needed: independent factual support, access, exact GPS and closer peers.
+
+- [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)

@@ -285,3 +285,6 @@
 - Final decision: Partial assessment retained; no overall total.
 - Verification still needed: current access, exact location where provisional, remaining peer scores and independent claim-level review.
 
+- [Dated worldwide reassessment pass 53 — 2026-11-26](worldwide-deferred-pass53-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 54 — 2026-11-26](worldwide-deferred-pass54-2026-11-26.md)

@@ -194,3 +194,7 @@ Follow-up 2026-11-25: Moundou and Sarh now carry named geographic references; bo
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Reference](https://whc.unesco.org/en/tentativelists/2056/) — Opened state submission confirms park and regional Am Timan; https://www.africanparks.org/the-parks/zakouma and https://www.africanparks.org/the-parks/zakouma/visit-zakouma identify conservation and visitor arrangements; accessed 2026-11-25. Full material claim verification incomplete.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+
+- [Dated worldwide reassessment pass 52 — 2026-11-26](worldwide-deferred-pass52-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 54 — 2026-11-26](worldwide-deferred-pass54-2026-11-26.md)

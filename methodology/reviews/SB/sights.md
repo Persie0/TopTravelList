@@ -677,3 +677,5 @@ For sight-sb-marovo-tetepare-complex, UNESCO's tentative description (https://wh
 - Final decision: provisional worldwide V2 editorial rating.
 - Earlier decision: none.
 - Verification still needed: full independent claim verification and current visitor conditions.
+
+- [Dated worldwide reassessment pass 66 — 2026-11-26](worldwide-deferred-pass66-2026-11-26.md)

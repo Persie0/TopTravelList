@@ -17,6 +17,37 @@
 - **High-score challenge:** All 9.5+ fields and 90+ overall results are provisional, compared with named world peers and awaiting stronger source checks. No 10/10 claimed.
 - **Open verification:** exact historic/visitor claims, GPS point and comparative assessment require individual dedicated sources.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 2)
+
+- [Source YAML](../../../countries/IN/sights/meenakshi-amman-temple.yaml) · **fact-checked** (material factual scope checked, not objective numeric validation).
+- Action: rescore. Precise subject: Living Meenakshi-Sundareswarar temple precinct, not Madurai or other temples.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Checked evidence: [Madurai district](https://madurai.nic.in/tourist-place/sri-meenakshi-sundareswarar-temple/) opened 2026-11-26, describes the large twin temple and its growth across dynasties. [Incredible India](https://www.incredibleindia.gov.in/en/tamil-nadu/madurai/meenakshi-amman-temple) opened the same date, describes fourteen sculpted towers, murals and living festivals. Both official sources, second is promotional.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [KH/sights/angkor-wat](../../../countries/KH/sights/angkor-wat.yaml) | Greater monumental coherence and archaeological breadth, while Madurai offers living devotion. |
+| [TH/sights/wat-phra-kaew](../../../countries/TH/sights/wat-phra-kaew.yaml) | Comparable active sacred compound with ornate architecture; Madurai's towering gopurams are distinctly Dravidian. |
+| [JP/sights/todaiji-temple](../../../countries/JP/sights/todaiji-temple.yaml) | Different global living temple tradition; Madurai is richer in brightly decorated towers and ritual courts. |
+| [VN/sights/my-son-sanctuary](../../../countries/VN/sights/my-son-sanctuary.yaml) | More fragmentary archaeological site, with less living ritual. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.8 | 9.6 | 9.6 for intensely sculptured towers and the precinct's visual character. |
+| Uniqueness | 9.9 | 9.7 | 9.7 for the rare concentration of monumental Dravidian gateways and twin shrine arrangement. |
+| Significance | 9.8 | 9.6 | 9.6 for the temple's own longstanding Tamil religious and urban significance, not all Madurai history. |
+| Experience | 9.8 | 9.5 | 9.5 for living worship, murals and ceremonial spaces, without assuming participation in every ceremony. |
+| Depth | 9.4 | 9.3 | 9.3 for several distinct courts and halls, not citywide exploration. |
+
+- Categories after: architecture 9.7, culture 9.8, history 9.5.
+- Computed overall: 97.85/100 → **95.80/100**.
+- High-score challenge: Architecture 9.7 for the tower and courtyard ensemble, culture 9.8 for continuing Tamil worship and festivals, history 9.5 for its dynastic growth. Each 9.5+ core value is individually supported above; no perfect score.
+- Earlier decision: original dated review above; retained unchanged.
+- Verification still needed: exact GPS, independent visitor experience and any access limits; factual source limitations above. Ratings remain editorial.
+
+
 ## sight-in-ramanathaswamy-temple — Ramanathaswamy Temple
 
 - [YAML](../../../countries/IN/sights/ramanathaswamy-temple.yaml) · **editorial-only** · worldwide computed score **95.50/100**.
@@ -192,6 +223,39 @@
 - **Category ratings:** architecture: 9.9, culture: 9.9, history: 9.7.
 - **High-score challenge:** All 9.5+ fields and 90+ overall results are provisional, compared with named world peers and awaiting stronger source checks. No 10/10 claimed.
 - **Open verification:** exact historic/visitor claims, GPS point and comparative assessment require individual dedicated sources.
+
+### Reassessment — 2026-11-26
+
+- [Source YAML](../../../countries/IN/sights/ranganathaswamy-temple-srirangam.yaml) · **fact-checked** (material scope and visitor claims checked; score editorial; GPS not independently verified).
+- Action: rescore. Precise subject: The named living Vaishnav temple complex; UNESCO tentative-list description distinguishes inner temple enclosures from outer residential enclosures. Exclude separate island and urban attractions.
+- Location check: existing representative point retained; precise coordinates not independently verified.
+- Independently checked factual claims:
+- [India's Permanent Delegation, UNESCO Tentative List](https://whc.unesco.org/en/tentativelists/5894) (accessed 2026-11-26): identifies the pilgrimage center and describes the nested enclosures, with inner five forming the temple and outer two forming the settlement. This is a State Party submission, not World Heritage inscription or independent endorsement. A second independent dedicated source and detailed visitor routes remain unverified.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [KH/sights/angkor-wat](../../../countries/KH/sights/angkor-wat.yaml) | Angkor's monumental composition and exceptional sculpture establish a higher impact reference; Srirangam's living temple-town plan is distinctive. |
+| [TH/sights/wat-phra-kaew](../../../countries/TH/sights/wat-phra-kaew.yaml) | Comparable active sacred architecture with multiple courtyards and ritual use; distinct traditions and layouts. |
+| [JP/sights/todaiji-temple](../../../countries/JP/sights/todaiji-temple.yaml) | A globally important living religious complex; its monumental hall offers a different visual pinnacle. |
+| [VN/sights/my-son-sanctuary](../../../countries/VN/sights/my-son-sanctuary.yaml) | An archaeological counterpart with less living ritual and fewer intact spatial experiences. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.7 | 9.4 | Impressive monumental enclosures and towers warrant globally outstanding impact, without automatically matching Angkor Wat's composition. |
+| Uniqueness | 9.8 | 9.7 | The temple-town enclosure structure is a rare global urban-religious form; retain elite uniqueness. |
+| Significance | 9.8 | 9.5 | A major Vaishnav pilgrimage center justifies elite significance without conflating the broader settlement or treating tentative status as inscription. |
+| Experience | 9.8 | 9.2 | The experience is rich in living devotional practice and architecture, but prior 9.8 lacked separate visitor evidence. |
+| Depth | 9.7 | 9.3 | Multiple temple enclosures offer substantial exploration; the outer residential town is not additional temple depth. |
+
+- Categories after: architecture 9.6, culture 9.6, history 9.4.
+- Computed overall: 97.60/100 → **94.55/100**.
+- High-score challenge: Uniqueness 9.7 for its temple-centered settlement form; significance 9.5 for its role in Vaishnav pilgrimage. Architecture 9.6 for monumental enclosure and tower ensemble; culture 9.6 for the living sacred tradition. No exact 10. The 94+ overall recognizes exceptional qualities without uniform near-perfect scores.
+- Approved 10 registry: none added.
+- Earlier decision: Original 23 November entry above.
+- Verification still needed: representative GPS and independently documented breadth of the actual visit; source coverage limitations above. Ratings remain editorial.
+
 
 ## sight-in-vivekananda-rock-memorial — Vivekananda Rock Memorial
 

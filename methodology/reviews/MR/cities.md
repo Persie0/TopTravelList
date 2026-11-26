@@ -375,3 +375,7 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - Approved 10 registry: none.
 - Final decision: Retain partial assessment rather than invent visitor scores.
 - Verification still needed: current local access and per-claim independent source review.
+
+- [Dated worldwide reassessment pass 51 — 2026-11-26](worldwide-deferred-pass51-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 54 — 2026-11-26](worldwide-deferred-pass54-2026-11-26.md)

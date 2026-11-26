@@ -2,7 +2,7 @@
 
 # Venezuela (VE) — Cities, towns & villages ranking
 
-**34 ranked** · **1 unassessed** · **35 total** · Worldwide scoring **v2**
+**35 ranked** · **0 unassessed** · **35 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (34)
+## Complete ranked list (35)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -37,25 +37,18 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 21 | [Maracay](cities/maracay.yaml) | City / town | **69.75** | **History 7.7**, **Culture 7.6** | 6.7 / 6.9 / 7.2 / 7.2 / 7.2 | [10.2469, -67.5958](https://www.google.com/maps/search/?api=1&query=10.2469,-67.5958) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maracay%2C%20Venezuela) |
 | 22 | [Puerto Ayacucho](cities/puerto-ayacucho.yaml) | City / town | **69.55** | **Culture 8.3**, **Photography 7.7** | 6.7 / 7.5 / 6.9 / 7.0 / 6.4 | [5.6639, -67.6236](https://www.google.com/maps/search/?api=1&query=5.6639,-67.6236) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Puerto%20Ayacucho%2C%20Venezuela) |
 | 23 | [Chichiriviche](cities/chichiriviche.yaml) | City / town | **68.85** | **Relaxation 8.2**, **Photography 7.9** | 6.9 / 7.2 / 6.2 / 7.7 / 6.2 | [10.9333, -68.2667](https://www.google.com/maps/search/?api=1&query=10.9333,-68.2667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chichiriviche%2C%20Venezuela) |
-| 24 | [San Juan de los Morros](cities/san-juan-de-los-morros.yaml) | City / town | **68.25** | **Photography 7.9**, **Culture 7.4** | 6.6 / 7.2 / 6.7 / 7.1 / 6.4 | [9.911, -67.354](https://www.google.com/maps/search/?api=1&query=9.911,-67.354) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Juan%20de%20los%20Morros%2C%20Venezuela) |
-| 25 | [Valencia](cities/valencia.yaml) | City / town | **67.90** | **Culture 7.6**, **Food 7.6** | 6.5 / 6.7 / 7.0 / 6.9 / 7.3 | [10.162, -68.0077](https://www.google.com/maps/search/?api=1&query=10.162,-68.0077) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valencia%2C%20Venezuela) |
-| 26 | [Tucupita](cities/tucupita.yaml) | City / town | **67.55** | **Culture 7.9**, **Photography 7.6** | 6.5 / 7.3 / 6.6 / 7.0 / 6.1 | [9.06, -62.06](https://www.google.com/maps/search/?api=1&query=9.06,-62.06) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tucupita%2C%20Venezuela) |
-| 27 | [Tucacas](cities/tucacas.yaml) | City / town | **67.40** | **Relaxation 8.1**, **Food 7.6** | 6.6 / 7.0 / 6.2 / 7.6 / 6.3 | [10.79, -68.32](https://www.google.com/maps/search/?api=1&query=10.79,-68.32) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tucacas%2C%20Venezuela) |
-| 28 | [San Fernando de Apure](cities/san-fernando-de-apure.yaml) | City / town | **67.35** | **Culture 8.0**, **Photography 7.4** | 6.4 / 7.3 / 6.7 / 6.8 / 6.3 | [7.894, -67.473](https://www.google.com/maps/search/?api=1&query=7.894,-67.473) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Fernando%20de%20Apure%2C%20Venezuela) |
-| 29 | [Porlamar](cities/porlamar.yaml) | City / town | **66.85** | **Food 7.7**, **Beaches 7.5** | 6.5 / 6.9 / 6.3 / 7.0 / 7.0 | [10.9577, -63.869](https://www.google.com/maps/search/?api=1&query=10.9577,-63.869) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Porlamar%2C%20Venezuela) |
-| 30 | [Barinas](cities/barinas.yaml) | City / town | **66.50** | **Culture 7.6**, **Food 7.5** | 6.3 / 6.8 / 6.7 / 7.0 / 6.7 | [8.6226, -70.2075](https://www.google.com/maps/search/?api=1&query=8.6226,-70.2075) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barinas%2C%20Venezuela) |
-| 31 | [San Felipe](cities/san-felipe.yaml) | City / town | **66.45** | **History 7.3**, **Culture 7.2** | 6.4 / 6.7 / 6.8 / 7.0 / 6.4 | [10.3399, -68.7425](https://www.google.com/maps/search/?api=1&query=10.3399,-68.7425) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Felipe%2C%20Venezuela) |
-| 32 | [Los Teques](cities/los-teques.yaml) | City / town | **64.90** | **Culture 7.3** | 6.2 / 6.5 / 6.7 / 6.7 / 6.6 | [10.344, -67.043](https://www.google.com/maps/search/?api=1&query=10.344,-67.043) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Los%20Teques%2C%20Venezuela) |
-| 32 | [Maturín](cities/maturin.yaml) | City / town | **64.90** | **Food 7.5**, **Culture 7.2** | 6.2 / 6.5 / 6.5 / 6.9 / 6.7 | [9.7457, -63.1832](https://www.google.com/maps/search/?api=1&query=9.7457,-63.1832) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matur%C3%ADn%2C%20Venezuela) |
-| 34 | [San Carlos](cities/san-carlos.yaml) | City / town | **63.95** | **History 7.2**, **Culture 7.1** | 6.1 / 6.4 / 6.7 / 6.7 / 6.2 | [9.6612, -68.5827](https://www.google.com/maps/search/?api=1&query=9.6612,-68.5827) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Carlos%2C%20Venezuela) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Santa Elena de Uairén](cities/santa-elena-de-uairen.yaml) | City / town | **—** | **Culture 7.7** | — / 7.4 / 6.5 / — / — | [4.603, -61.11](https://www.google.com/maps/search/?api=1&query=4.603,-61.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Elena%20de%20Uair%C3%A9n%2C%20Venezuela) |
+| 24 | [Santa Elena de Uairén](cities/santa-elena-de-uairen.yaml) | City / town | **68.50** | **Culture 7.7** | 6.7 / 7.4 / 6.5 / 7.0 / 6.4 | [4.603, -61.11](https://www.google.com/maps/search/?api=1&query=4.603,-61.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Santa%20Elena%20de%20Uair%C3%A9n%2C%20Venezuela) |
+| 25 | [San Juan de los Morros](cities/san-juan-de-los-morros.yaml) | City / town | **68.25** | **Photography 7.9**, **Culture 7.4** | 6.6 / 7.2 / 6.7 / 7.1 / 6.4 | [9.911, -67.354](https://www.google.com/maps/search/?api=1&query=9.911,-67.354) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Juan%20de%20los%20Morros%2C%20Venezuela) |
+| 26 | [Valencia](cities/valencia.yaml) | City / town | **67.90** | **Culture 7.6**, **Food 7.6** | 6.5 / 6.7 / 7.0 / 6.9 / 7.3 | [10.162, -68.0077](https://www.google.com/maps/search/?api=1&query=10.162,-68.0077) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valencia%2C%20Venezuela) |
+| 27 | [Tucupita](cities/tucupita.yaml) | City / town | **67.55** | **Culture 7.9**, **Photography 7.6** | 6.5 / 7.3 / 6.6 / 7.0 / 6.1 | [9.06, -62.06](https://www.google.com/maps/search/?api=1&query=9.06,-62.06) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tucupita%2C%20Venezuela) |
+| 28 | [Tucacas](cities/tucacas.yaml) | City / town | **67.40** | **Relaxation 8.1**, **Food 7.6** | 6.6 / 7.0 / 6.2 / 7.6 / 6.3 | [10.79, -68.32](https://www.google.com/maps/search/?api=1&query=10.79,-68.32) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tucacas%2C%20Venezuela) |
+| 29 | [San Fernando de Apure](cities/san-fernando-de-apure.yaml) | City / town | **67.35** | **Culture 8.0**, **Photography 7.4** | 6.4 / 7.3 / 6.7 / 6.8 / 6.3 | [7.894, -67.473](https://www.google.com/maps/search/?api=1&query=7.894,-67.473) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Fernando%20de%20Apure%2C%20Venezuela) |
+| 30 | [Porlamar](cities/porlamar.yaml) | City / town | **66.85** | **Food 7.7**, **Beaches 7.5** | 6.5 / 6.9 / 6.3 / 7.0 / 7.0 | [10.9577, -63.869](https://www.google.com/maps/search/?api=1&query=10.9577,-63.869) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Porlamar%2C%20Venezuela) |
+| 31 | [Barinas](cities/barinas.yaml) | City / town | **66.50** | **Culture 7.6**, **Food 7.5** | 6.3 / 6.8 / 6.7 / 7.0 / 6.7 | [8.6226, -70.2075](https://www.google.com/maps/search/?api=1&query=8.6226,-70.2075) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barinas%2C%20Venezuela) |
+| 32 | [San Felipe](cities/san-felipe.yaml) | City / town | **66.45** | **History 7.3**, **Culture 7.2** | 6.4 / 6.7 / 6.8 / 7.0 / 6.4 | [10.3399, -68.7425](https://www.google.com/maps/search/?api=1&query=10.3399,-68.7425) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Felipe%2C%20Venezuela) |
+| 33 | [Los Teques](cities/los-teques.yaml) | City / town | **64.90** | **Culture 7.3** | 6.2 / 6.5 / 6.7 / 6.7 / 6.6 | [10.344, -67.043](https://www.google.com/maps/search/?api=1&query=10.344,-67.043) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Los%20Teques%2C%20Venezuela) |
+| 33 | [Maturín](cities/maturin.yaml) | City / town | **64.90** | **Food 7.5**, **Culture 7.2** | 6.2 / 6.5 / 6.5 / 6.9 / 6.7 | [9.7457, -63.1832](https://www.google.com/maps/search/?api=1&query=9.7457,-63.1832) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matur%C3%ADn%2C%20Venezuela) |
+| 35 | [San Carlos](cities/san-carlos.yaml) | City / town | **63.95** | **History 7.2**, **Culture 7.1** | 6.1 / 6.4 / 6.7 / 6.7 / 6.2 | [9.6612, -68.5827](https://www.google.com/maps/search/?api=1&query=9.6612,-68.5827) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Carlos%2C%20Venezuela) |
 
 ---
 

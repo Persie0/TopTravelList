@@ -47,6 +47,37 @@
 - **High-rating check:** 9.5+ dimensions/category and 90+ overall demand explicit world-peer justification; these are provisional claims, never 10/10.
 - **Next research:** confirm named-sight claims, coordinates, and detailed peer fit with dedicated checked sources.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 2)
+
+- [Source YAML](../../../countries/IN/sights/vittala-temple-hampi.yaml) · **fact-checked** (material factual scope checked, not objective numeric validation).
+- Action: rescore. Precise subject: Vittala temple precinct with stone chariot and pillared hall, not Hampi's royal, residential or military remains.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Checked evidence: Vijayanagara District [Stone Chariot Hampi](https://vijayanagara.nic.in/en/tourist-place/stone-chariot-hampi/), opened 2026-11-26, describes the chariot in the courtyard and pillared Ranga Mantapa. UNESCO [Hampi](https://whc.unesco.org/en/list/241) search excerpt identifies the temple as one of several complexes; full page returned 403. ASI Hampi Circle page timed out; no assertion visitors can touch the pillars.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [KH/sights/angkor-wat](../../../countries/KH/sights/angkor-wat.yaml) | A more extensive globally defining temple; Vittala has striking but concentrated stone composition. |
+| [JP/sights/todaiji-temple](../../../countries/JP/sights/todaiji-temple.yaml) | A monumental temple with broader living religious legacy; Vittala excels in sculptural detail. |
+| [TH/sights/wat-phra-kaew](../../../countries/TH/sights/wat-phra-kaew.yaml) | Comparable ornate sacred architecture; different living ritual and setting. |
+| [VN/sights/my-son-sanctuary](../../../countries/VN/sights/my-son-sanctuary.yaml) | Vittala's intact sculptural forms and chariot offer stronger concentrated impact. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.7 | 9.4 | 9.4 for the striking courtyard composition and carved halls, below near-defining whole-temple ensembles. |
+| Uniqueness | 9.9 | 9.6 | 9.6 for the distinctive chariot shrine and sculptural pillar design, not the entire Vijayanagara landscape. |
+| Significance | 9.8 | 9.3 | 9.3 for the temple's architectural and religious role; imperial urban history belongs to Hampi as a whole. |
+| Experience | 9.6 | 9.3 | 9.3 for rewarding close observation and architectural exploration without assuming active acoustic demonstrations. |
+| Depth | 9.0 | 8.7 | 8.7 for the courtyard and halls, narrower than the full Hampi property. |
+
+- Categories after: architecture 9.6, history 9.3, photography 9.5.
+- Computed overall: 96.85/100 → **93.45/100**.
+- High-score challenge: Architecture 9.6 for the chariot and pillared hall, photography 9.5 for the coherent courtyard composition, uniqueness 9.6 for their distinctive forms. No new 10.
+- Earlier decision: original dated review above; retained unchanged.
+- Verification still needed: exact GPS, independent visitor experience and any access limits; factual source limitations above. Ratings remain editorial.
+
+
 ## sight-in-lotus-mahal-hampi — Lotus Mahal Hampi
 
 - [YAML](../../../countries/IN/sights/lotus-mahal-hampi.yaml) · **editorial-only** · computed **87.25/100**.

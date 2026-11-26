@@ -1,0 +1,12 @@
+# Deferred reassessment pass 61 — 2026-11-26
+
+Four source-assisted completions. Existing populated scores, categories, IDs, coordinates and weights unchanged. No firsthand, independent numerical or current admission verification. Protected area and component scopes distinguished; no unrestricted reserve access assumed.
+
+| Record | Decision | Scope |
+| --- | --- | --- |
+| [Ancient Beech Forests (German components)](../countries/DE/sights/beech-forests.yaml) | Completed 88.55 | Five inscribed forest components (Hainich, Serrahn, Jasmund, Kellerwald, Grumsin); visitor merit based on explicitly documented World Heritage trails and site-specific interpretation at Hainich and Serrahn plus guided Grumsin experiences. No whole-park scenery or unrestricted core access, cliff-only attraction credit or wildlife guarantees. Parent and individual Hainich rating not additive. |
+| [Ancient Beech Forests (Slovak components)](../countries/SK/sights/beech-forests.yaml) | Completed 88.25 | Five Slovak components: Havešová, Rožok, Stužica-Bukovské Vrchy, Udava, Vihorlat. Experience evidence limited to designated routes in Stužica and Vihorlat; no credit for adjoining summit scenery, cross-border travel, off-trail access or presumed access to the other components. |
+| [Ancient Beech Forests (Romanian components and proposed extension)](../countries/RO/sights/beech-forests.yaml) | Completed 88.40 | Inscribed Romanian beech forest components and separately identified April 2026 tentative Domogled extension; visitor credit only from documented inscribed Izvoarele Nerei and Șinca. Extension not inscribed and no additional visitor credit assigned to it; no off-trail access, wildlife guarantees or whole-park scenery. Current bookings and precise trail polygon overlap not independently verified. |
+| [Ancient Beech Forests (Slovenian components)](../countries/SI/sights/beech-forests.yaml) | Completed 85.20 | Inscribed Krokar and Snežnik-Ždrocle forest reserves. Visitor rating restricted to direct views of Krokar trees from authorized edge path; no interior admission at Krokar and no presumed direct visitor access to Snežnik-Ždrocle. Nearby reserve paths and summit scenery not counted. This is an exterior observation rating, not a full reserve excursion. |
+
+[DE review](reviews/DE/worldwide-deferred-pass61-2026-11-26.md) · [SK review](reviews/SK/worldwide-deferred-pass61-2026-11-26.md) · [RO review](reviews/RO/worldwide-deferred-pass61-2026-11-26.md) · [SI review](reviews/SI/worldwide-deferred-pass61-2026-11-26.md).

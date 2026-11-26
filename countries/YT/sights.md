@@ -2,7 +2,7 @@
 
 # Mayotte (YT) — Sights & attractions ranking
 
-**8 ranked** · **2 unassessed** · **10 total** · Worldwide scoring **v2**
+**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (8)
+## Complete ranked list (9)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -19,17 +19,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 3 | [Dziani Dzaha Crater Lake](sights/dziani-dzaha.yaml) | Lake | **86.50** | **Photography 9.1**, **Nature 9.0** | 8.8 / 9.0 / 8.6 / 8.4 / 7.8 | [-12.770833, 45.288889](https://www.google.com/maps/search/?api=1&query=-12.770833,45.288889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dziani%20Dzaha%20Crater%20Lake%2C%20Mayotte) |
 | 4 | [Pointe Saziley (permitted coastal trail)](sights/pointe-saziley.yaml) | Trail / walk | **84.80** | **Nature 8.9**, **Wildlife 8.9**, **Photography 8.8** | 8.6 / 8.5 / 8.7 / 8.3 / 7.9 | [-12.97473, 45.20386](https://www.google.com/maps/search/?api=1&query=-12.97473,45.20386) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pointe%20Saziley%20%28permitted%20coastal%20trail%29%2C%20Mayotte) |
 | 5 | [Îlots Choizil](sights/choizil-islets.yaml) | Attraction | **84.65** | **Photography 9.1**, **Beaches 8.9**, **Nature 8.9** | 8.9 / 8.6 / 7.9 / 8.7 / 7.6 | [-12.667, 45.052](https://www.google.com/maps/search/?api=1&query=-12.667,45.052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%8Elots%20Choizil%2C%20Mayotte) |
-| 6 | [Mont Choungui](sights/mont-choungui.yaml) | Attraction | **83.65** | **Photography 9.1**, **Nature 8.8**, **Adventure 8.7** | 8.9 / 8.4 / 7.8 / 8.5 / 7.6 | [-12.9569, 45.1337](https://www.google.com/maps/search/?api=1&query=-12.9569,45.1337) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mont%20Choungui%2C%20Mayotte) |
-| 7 | [Îlot de Sable Blanc (Saziley, vessel views)](sights/sable-blanc-saziley.yaml) | Attraction | **82.45** | **Photography 9.1**, **Nature 8.7** | 8.8 / 8.5 / 8.0 / 8.0 / 6.8 | [-12.9866, 45.2148](https://www.google.com/maps/search/?api=1&query=-12.9866,45.2148) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%8Elot%20de%20Sable%20Blanc%20%28Saziley%2C%20vessel%20views%29%2C%20Mayotte) |
-| 8 | [Bandrélé Salt Ecomuseum](sights/bandrele-salt-museum.yaml) | Museum / heritage | **77.90** | **Culture 8.6**, **History 8.4** | 7.4 / 8.4 / 8.0 / 7.8 / 7.0 | [-12.906, 45.192](https://www.google.com/maps/search/?api=1&query=-12.906,45.192) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bandr%C3%A9l%C3%A9%20Salt%20Ecomuseum%2C%20Mayotte) |
+| 6 | [Historic Mosque of Tsingoni](sights/tsingoni-mosque.yaml) | Religious site | **83.75** | **History 9.1**, **Culture 8.8**, **Architecture 8.7** | 8.0 / 8.8 / 9.0 / 8.1 / 7.6 | [-12.789778, 45.106444](https://www.google.com/maps/search/?api=1&query=-12.789778,45.106444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Mosque%20of%20Tsingoni%2C%20Mayotte) |
+| 7 | [Mont Choungui](sights/mont-choungui.yaml) | Attraction | **83.65** | **Photography 9.1**, **Nature 8.8**, **Adventure 8.7** | 8.9 / 8.4 / 7.8 / 8.5 / 7.6 | [-12.9569, 45.1337](https://www.google.com/maps/search/?api=1&query=-12.9569,45.1337) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mont%20Choungui%2C%20Mayotte) |
+| 8 | [Îlot de Sable Blanc (Saziley, vessel views)](sights/sable-blanc-saziley.yaml) | Attraction | **82.45** | **Photography 9.1**, **Nature 8.7** | 8.8 / 8.5 / 8.0 / 8.0 / 6.8 | [-12.9866, 45.2148](https://www.google.com/maps/search/?api=1&query=-12.9866,45.2148) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%8Elot%20de%20Sable%20Blanc%20%28Saziley%2C%20vessel%20views%29%2C%20Mayotte) |
+| 9 | [Bandrélé Salt Ecomuseum](sights/bandrele-salt-museum.yaml) | Museum / heritage | **77.90** | **Culture 8.6**, **History 8.4** | 7.4 / 8.4 / 8.0 / 7.8 / 7.0 | [-12.906, 45.192](https://www.google.com/maps/search/?api=1&query=-12.906,45.192) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bandr%C3%A9l%C3%A9%20Salt%20Ecomuseum%2C%20Mayotte) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Historic Mosque of Tsingoni](sights/tsingoni-mosque.yaml) | Religious site | **—** | **History 9.1**, **Culture 8.8**, **Architecture 8.7** | 8.0 / 8.8 / 9.0 / — / — | [-12.789778, 45.106444](https://www.google.com/maps/search/?api=1&query=-12.789778,45.106444) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Mosque%20of%20Tsingoni%2C%20Mayotte) |
 | — | [Musée de Mayotte (MuMa)](sights/muma.yaml) | Attraction | **—** | **Culture 8.8**, **History 8.8** | 7.5 / 8.4 / 8.7 / — / — | [-12.777, 45.257](https://www.google.com/maps/search/?api=1&query=-12.777,45.257) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e%20de%20Mayotte%20%28MuMa%29%2C%20Mayotte) |
 
 ---

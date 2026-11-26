@@ -1583,3 +1583,5 @@
 - Final decision: Scope-limited editorial rating: Distinct long-established public art collection; Named museum buildings only.
 - Earlier decision: none.
 - Verification still needed: independent material claims, permitted access and narrower worldwide peer comparisons.
+
+- [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)

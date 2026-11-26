@@ -21,6 +21,37 @@
 - Evidence: [VisitPanama canal guide](https://www.tourismpanama.com/places-to-visit/panama-city/things-to-do/historical-sites/panama-canal/), retrieved 2026-11-25; identity, regional or parent context only, not verification of all individual claims.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, visitor access, individual peer and category calibration.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 2)
+
+- [Source YAML](../../../countries/PA/sights/panama-canal-visitor-transit-and-lock-experience.yaml) · **fact-checked** (material factual scope checked, not objective numeric validation).
+- Action: rescore. Precise subject: Canal as a visitor-observable operating waterway and authorized transit, not unrestricted access to industrial infrastructure or unrelated city museums.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Checked evidence: [Panama Canal Authority history](https://pancanal.com/en/history-of-the-panama-canal/) opened 2026-11-26, explains the lock lifts, Gatun Lake and the excavated Culebra Cut. [Authority visitor site](https://visitcanaldepanama.com/en/) opened same date, lists dedicated visitor centers and separate museum facilities. IMF [2016 analysis](https://www.elibrary.imf.org/view/journals/002/2016/338/article-A005-en.xml) search excerpt supports global trade relevance; full page returned 403.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [BE/sights/canal-du-centre-lifts](../../../countries/BE/sights/canal-du-centre-lifts.yaml) | Comparable working ship-lift technology; Panama operates at interoceanic scale. |
+| [FR/sights/canal-du-midi](../../../countries/FR/sights/canal-du-midi.yaml) | Historic navigable canal with different landscape and leisurely visitor experience; Panama has much greater global maritime significance. |
+| [FR/sights/pont-du-gard](../../../countries/FR/sights/pont-du-gard.yaml) | Exceptional ancient hydraulic engineering and visual architectural coherence; Panama offers dynamic operations rather than a single monument. |
+| [GB/sights/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Globally significant industrial heritage, but a much smaller observable engineering site. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.6 | 9.2 | 9.2 for the dramatic movement of large vessels and engineered landscape; one lock observation is not a near-perfect spectacle. |
+| Uniqueness | 9.8 | 9.6 | 9.6 for the rare interoceanic lock-and-lake system, distinct from smaller historic canals. |
+| Significance | 9.9 | 9.9 | Retain 9.9 for transformative maritime engineering and trade history, irrespective of time spent watching ships. |
+| Experience | 9.4 | 9.0 | 9.0 for observation and transit experiences; do not infer that all visitors experience the entire waterway. |
+| Depth | 9.2 | 8.8 | 8.8 for the locks and interpretation; industrial operational areas and unrelated museums are not assumed accessible. |
+
+- Categories after: history 9.8, architecture 9.3, photography 9.0.
+- Computed overall: 96.40/100 → **93.70/100**.
+- High-score challenge: History 9.8 for the canal's transformation of trade; uniqueness 9.6 and significance 9.9 recognize the actual waterway. Architecture 9.3 measures the visible engineered structure, not its economic consequence. No new 10.
+- Earlier decision: original dated review above; retained unchanged.
+- Verification still needed: exact GPS, independent visitor experience and any access limits; factual source limitations above. Ratings remain editorial.
+
+
 ## sight-pa-coiba-national-park-and-special-zone-of-marine-protection — Coiba National Park and Special Zone of Marine Protection — 2026-11-25
 
 - [YAML](../../../countries/PA/sights/coiba-national-park-and-special-zone-of-marine-protection.yaml) · Action: new · **source-linked-unverified**.

@@ -2,7 +2,7 @@
 
 # Benin (BJ) — Cities, towns & villages ranking
 
-**17 ranked** · **1 unassessed** · **18 total** · Worldwide scoring **v2**
+**18 ranked** · **0 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (17)
+## Complete ranked list (18)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -22,23 +22,16 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 6 | [Grand-Popo](cities/grand-popo.yaml) | City / town | **76.55** | **Photography 8.5**, **Relaxation 8.3**, **Culture 8.2** | 7.6 / 8.0 / 7.0 / 8.3 / 7.3 | [6.282, 1.825](https://www.google.com/maps/search/?api=1&query=6.282,1.825) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand-Popo%2C%20Benin) |
 | 7 | [Dassa-Zoumè](cities/dassa-zoume.yaml) | City / town | **75.85** | **Photography 8.5**, **Culture 8.3**, **History 8.0** | 7.5 / 7.9 / 7.5 / 7.8 / 6.9 | [7.75, 2.1833](https://www.google.com/maps/search/?api=1&query=7.75,2.1833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dassa-Zoum%C3%A8%2C%20Benin) |
 | 8 | [Kétou](cities/ketou.yaml) | City / town | **75.75** | **Culture 8.9**, **History 8.9** | 6.9 / 8.1 / 8.3 / 7.6 / 6.8 | [7.3633, 2.5998](https://www.google.com/maps/search/?api=1&query=7.3633,2.5998) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%A9tou%2C%20Benin) |
-| 9 | [Natitingou](cities/natitingou.yaml) | City / town | **72.90** | **Culture 8.3**, **Photography 8.0** | 7.0 / 7.7 / 7.3 / 7.5 / 6.8 | [10.304, 1.379](https://www.google.com/maps/search/?api=1&query=10.304,1.379) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Natitingou%2C%20Benin) |
-| 10 | [Allada](cities/allada.yaml) | City / town | **72.40** | **History 8.6**, **Culture 8.4** | 6.5 / 7.7 / 8.1 / 7.3 / 6.5 | [6.665, 2.151](https://www.google.com/maps/search/?api=1&query=6.665,2.151) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Allada%2C%20Benin) |
-| 11 | [Savè](cities/save.yaml) | City / town | **72.15** | **Photography 8.2**, **Culture 8.0**, **History 7.9** | 7.0 / 7.6 / 7.4 / 7.3 / 6.4 | [8.0333, 2.4833](https://www.google.com/maps/search/?api=1&query=8.0333,2.4833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sav%C3%A8%2C%20Benin) |
-| 12 | [Parakou](cities/parakou.yaml) | City / town | **70.05** | **Culture 8.0**, **Food 7.8** | 6.4 / 7.2 / 7.3 / 7.5 / 7.0 | [9.337, 2.63](https://www.google.com/maps/search/?api=1&query=9.337,2.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parakou%2C%20Benin) |
-| 13 | [Bohicon](cities/bohicon.yaml) | City / town | **68.45** | **Food 7.9**, **Culture 7.8** | 6.3 / 7.0 / 7.0 / 7.5 / 6.8 | [7.178, 2.0667](https://www.google.com/maps/search/?api=1&query=7.178,2.0667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bohicon%2C%20Benin) |
-| 14 | [Abomey-Calavi](cities/abomey-calavi.yaml) | City / town | **68.25** | **Food 7.8**, **Culture 7.7** | 6.3 / 6.9 / 7.0 / 7.4 / 7.0 | [6.448, 2.355](https://www.google.com/maps/search/?api=1&query=6.448,2.355) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abomey-Calavi%2C%20Benin) |
-| 15 | [Djougou](cities/djougou.yaml) | City / town | **67.50** | **Culture 7.8** | 6.2 / 7.0 / 7.0 / 7.2 / 6.6 | [9.708, 1.666](https://www.google.com/maps/search/?api=1&query=9.708,1.666) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djougou%2C%20Benin) |
-| 16 | [Comè](cities/come.yaml) | City / town | **65.65** | **Food 7.6**, **Culture 7.5** | 6.1 / 6.8 / 6.5 / 7.3 / 6.4 | [6.407, 1.881](https://www.google.com/maps/search/?api=1&query=6.407,1.881) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Com%C3%A8%2C%20Benin) |
-| 17 | [Lokossa](cities/lokossa.yaml) | City / town | **64.20** | **Culture 7.4** | 6.0 / 6.6 / 6.5 / 7.0 / 6.2 | [6.638, 1.716](https://www.google.com/maps/search/?api=1&query=6.638,1.716) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lokossa%2C%20Benin) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Boukombé](cities/boukombe.yaml) | City / town | **—** | **Culture 8.7**, **History 8.2** | — / — / 7.8 / — / — | [10.175, 1.105](https://www.google.com/maps/search/?api=1&query=10.175,1.105) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boukomb%C3%A9%2C%20Benin) |
+| 9 | [Boukombé](cities/boukombe.yaml) | City / town | **74.00** | **Culture 8.7**, **History 8.2** | 7.0 / 7.7 / 7.8 / 7.5 / 6.9 | [10.175, 1.105](https://www.google.com/maps/search/?api=1&query=10.175,1.105) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boukomb%C3%A9%2C%20Benin) |
+| 10 | [Natitingou](cities/natitingou.yaml) | City / town | **72.90** | **Culture 8.3**, **Photography 8.0** | 7.0 / 7.7 / 7.3 / 7.5 / 6.8 | [10.304, 1.379](https://www.google.com/maps/search/?api=1&query=10.304,1.379) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Natitingou%2C%20Benin) |
+| 11 | [Allada](cities/allada.yaml) | City / town | **72.40** | **History 8.6**, **Culture 8.4** | 6.5 / 7.7 / 8.1 / 7.3 / 6.5 | [6.665, 2.151](https://www.google.com/maps/search/?api=1&query=6.665,2.151) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Allada%2C%20Benin) |
+| 12 | [Savè](cities/save.yaml) | City / town | **72.15** | **Photography 8.2**, **Culture 8.0**, **History 7.9** | 7.0 / 7.6 / 7.4 / 7.3 / 6.4 | [8.0333, 2.4833](https://www.google.com/maps/search/?api=1&query=8.0333,2.4833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sav%C3%A8%2C%20Benin) |
+| 13 | [Parakou](cities/parakou.yaml) | City / town | **70.05** | **Culture 8.0**, **Food 7.8** | 6.4 / 7.2 / 7.3 / 7.5 / 7.0 | [9.337, 2.63](https://www.google.com/maps/search/?api=1&query=9.337,2.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parakou%2C%20Benin) |
+| 14 | [Bohicon](cities/bohicon.yaml) | City / town | **68.45** | **Food 7.9**, **Culture 7.8** | 6.3 / 7.0 / 7.0 / 7.5 / 6.8 | [7.178, 2.0667](https://www.google.com/maps/search/?api=1&query=7.178,2.0667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bohicon%2C%20Benin) |
+| 15 | [Abomey-Calavi](cities/abomey-calavi.yaml) | City / town | **68.25** | **Food 7.8**, **Culture 7.7** | 6.3 / 6.9 / 7.0 / 7.4 / 7.0 | [6.448, 2.355](https://www.google.com/maps/search/?api=1&query=6.448,2.355) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Abomey-Calavi%2C%20Benin) |
+| 16 | [Djougou](cities/djougou.yaml) | City / town | **67.50** | **Culture 7.8** | 6.2 / 7.0 / 7.0 / 7.2 / 6.6 | [9.708, 1.666](https://www.google.com/maps/search/?api=1&query=9.708,1.666) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djougou%2C%20Benin) |
+| 17 | [Comè](cities/come.yaml) | City / town | **65.65** | **Food 7.6**, **Culture 7.5** | 6.1 / 6.8 / 6.5 / 7.3 / 6.4 | [6.407, 1.881](https://www.google.com/maps/search/?api=1&query=6.407,1.881) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Com%C3%A8%2C%20Benin) |
+| 18 | [Lokossa](cities/lokossa.yaml) | City / town | **64.20** | **Culture 7.4** | 6.0 / 6.6 / 6.5 / 7.0 / 6.2 | [6.638, 1.716](https://www.google.com/maps/search/?api=1&query=6.638,1.716) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lokossa%2C%20Benin) |
 
 ---
 

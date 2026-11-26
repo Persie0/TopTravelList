@@ -2,7 +2,7 @@
 
 # Croatia (HR) — Sights & attractions ranking
 
-**52 ranked** · **3 unassessed** · **55 total** · Worldwide scoring **v2**
+**53 ranked** · **2 unassessed** · **55 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (52)
+## Complete ranked list (53)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -60,14 +60,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 44 | [Blue Cave, Biševo](sights/blue-cave.yaml) | Cave | **85.65** | **Nature 9.3**, **Photography 9.3** | 8.9 / 9.1 / 8.4 / 8.6 / 6.5 | [42.982, 16.021](https://www.google.com/maps/search/?api=1&query=42.982,16.021) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Cave%2C%20Bi%C5%A1evo%2C%20Croatia) |
 | 44 | [Papuk Nature Park](sights/papuk.yaml) | Park / square | **85.65** | **Nature 9.1**, **Photography 8.9**, **Adventure 8.8** | 8.5 / 8.6 / 8.5 / 8.7 / 8.6 | [45.52, 17.66](https://www.google.com/maps/search/?api=1&query=45.52,17.66) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papuk%20Nature%20Park%2C%20Croatia) |
 | 46 | [Lubenice historic hilltop settlement](sights/lubenice.yaml) | Attraction | **85.25** | **Photography 9.3**, **Architecture 8.9** | 8.8 / 8.9 / 8.3 / 8.4 / 7.4 | [44.888, 14.331](https://www.google.com/maps/search/?api=1&query=44.888,14.331) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lubenice%20historic%20hilltop%20settlement%2C%20Croatia) |
-| 47 | [Medvednica Nature Park](sights/medvednica.yaml) | Park / square | **84.35** | **Nature 9.0**, **Adventure 8.7**, **History 8.6** | 8.3 / 8.3 / 8.4 / 8.8 / 8.7 | [45.92, 15.95](https://www.google.com/maps/search/?api=1&query=45.92,15.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Medvednica%20Nature%20Park%2C%20Croatia) |
-| 48 | [Žumberak–Samobor Highlands Nature Park](sights/zumberak.yaml) | Park / square | **84.30** | **Nature 8.9**, **Adventure 8.7**, **Culture 8.6** | 8.3 / 8.4 / 8.4 / 8.6 / 8.7 | [45.78, 15.42](https://www.google.com/maps/search/?api=1&query=45.78,15.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%BDumberak%E2%80%93Samobor%20Highlands%20Nature%20Park%2C%20Croatia) |
-| 49 | [Velika and Mala Crljivica, Cista Velika](sights/crljivica.yaml) | Attraction | **84.20** | **History 9.2**, **Culture 8.9** | 8.1 / 8.8 / 9.0 / 8.2 / 7.6 | [43.515, 16.91](https://www.google.com/maps/search/?api=1&query=43.515,16.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Velika%20and%20Mala%20Crljivica%2C%20Cista%20Velika%2C%20Croatia) |
-| 50 | [Vransko Lake Nature Park](sights/vransko-lake.yaml) | Lake | **83.90** | **Wildlife 9.2**, **Nature 9.0** | 8.1 / 8.5 / 8.6 / 8.5 / 8.4 | [43.9, 15.55](https://www.google.com/maps/search/?api=1&query=43.9,15.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vransko%20Lake%20Nature%20Park%2C%20Croatia) |
-| 51 | [Zagorske gore Nature Park](sights/zagorske-gore.yaml) | Park / square | **83.40** | **Nature 8.9**, **Adventure 8.7** | 8.3 / 8.4 / 8.4 / 8.2 / 8.4 | [46.18, 16.13](https://www.google.com/maps/search/?api=1&query=46.18,16.13) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zagorske%20gore%20Nature%20Park%2C%20Croatia) |
-| 52 | [St Barbara stećci cemetery, Dubravka](sights/dubravka-stecci.yaml) | Attraction | **82.00** | **History 9.1**, **Culture 8.8** | 7.8 / 8.6 / 8.9 / 8.0 / 7.3 | [42.542, 18.438](https://www.google.com/maps/search/?api=1&query=42.542,18.438) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Barbara%20ste%C4%87ci%20cemetery%2C%20Dubravka%2C%20Croatia) |
+| 47 | [Stećci Medieval Tombstone Graveyards (Croatian components)](sights/stecci.yaml) | Museum / heritage | **85.05** | **History 9.3**, **Culture 9.0** | 8.1 / 8.9 / 9.2 / 8.2 / 7.8 | [43.515, 16.91](https://www.google.com/maps/search/?api=1&query=43.515,16.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ste%C4%87ci%20Medieval%20Tombstone%20Graveyards%20%28Croatian%20components%29%2C%20Croatia) |
+| 48 | [Medvednica Nature Park](sights/medvednica.yaml) | Park / square | **84.35** | **Nature 9.0**, **Adventure 8.7**, **History 8.6** | 8.3 / 8.3 / 8.4 / 8.8 / 8.7 | [45.92, 15.95](https://www.google.com/maps/search/?api=1&query=45.92,15.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Medvednica%20Nature%20Park%2C%20Croatia) |
+| 49 | [Žumberak–Samobor Highlands Nature Park](sights/zumberak.yaml) | Park / square | **84.30** | **Nature 8.9**, **Adventure 8.7**, **Culture 8.6** | 8.3 / 8.4 / 8.4 / 8.6 / 8.7 | [45.78, 15.42](https://www.google.com/maps/search/?api=1&query=45.78,15.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C5%BDumberak%E2%80%93Samobor%20Highlands%20Nature%20Park%2C%20Croatia) |
+| 50 | [Velika and Mala Crljivica, Cista Velika](sights/crljivica.yaml) | Attraction | **84.20** | **History 9.2**, **Culture 8.9** | 8.1 / 8.8 / 9.0 / 8.2 / 7.6 | [43.515, 16.91](https://www.google.com/maps/search/?api=1&query=43.515,16.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Velika%20and%20Mala%20Crljivica%2C%20Cista%20Velika%2C%20Croatia) |
+| 51 | [Vransko Lake Nature Park](sights/vransko-lake.yaml) | Lake | **83.90** | **Wildlife 9.2**, **Nature 9.0** | 8.1 / 8.5 / 8.6 / 8.5 / 8.4 | [43.9, 15.55](https://www.google.com/maps/search/?api=1&query=43.9,15.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vransko%20Lake%20Nature%20Park%2C%20Croatia) |
+| 52 | [Zagorske gore Nature Park](sights/zagorske-gore.yaml) | Park / square | **83.40** | **Nature 8.9**, **Adventure 8.7** | 8.3 / 8.4 / 8.4 / 8.2 / 8.4 | [46.18, 16.13](https://www.google.com/maps/search/?api=1&query=46.18,16.13) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zagorske%20gore%20Nature%20Park%2C%20Croatia) |
+| 53 | [St Barbara stećci cemetery, Dubravka](sights/dubravka-stecci.yaml) | Attraction | **82.00** | **History 9.1**, **Culture 8.8** | 7.8 / 8.6 / 8.9 / 8.0 / 7.3 | [42.542, 18.438](https://www.google.com/maps/search/?api=1&query=42.542,18.438) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Barbara%20ste%C4%87ci%20cemetery%2C%20Dubravka%2C%20Croatia) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (2)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -75,7 +76,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Ancient Beech Forests (Croatian components)](sights/beech-forests.yaml) | Forest | **—** | **Nature 9.4**, **Wildlife 9.1** | 8.6 / 9.0 / 9.3 / — / — | [44.76, 15.02](https://www.google.com/maps/search/?api=1&query=44.76,15.02) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Beech%20Forests%20%28Croatian%20components%29%2C%20Croatia) |
 | — | [Danube Limes (Croatian tentative components)](sights/danube-limes.yaml) | Attraction | **—** | **History 9.3** | 7.8 / 8.7 / 9.2 / — / — | [45.56, 18.76](https://www.google.com/maps/search/?api=1&query=45.56,18.76) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Danube%20Limes%20%28Croatian%20tentative%20components%29%2C%20Croatia) |
-| — | [Stećci Medieval Tombstone Graveyards (Croatian components)](sights/stecci.yaml) | Museum / heritage | **—** | **History 9.3**, **Culture 9.0** | 8.1 / 8.9 / 9.2 / — / — | [43.515, 16.91](https://www.google.com/maps/search/?api=1&query=43.515,16.91) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ste%C4%87ci%20Medieval%20Tombstone%20Graveyards%20%28Croatian%20components%29%2C%20Croatia) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Nigeria (NG) — Sights & attractions ranking
 
-**14 ranked** · **11 unassessed** · **25 total** · Worldwide scoring **v2**
+**15 ranked** · **10 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (14)
+## Complete ranked list (15)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -22,20 +22,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 5 | [Yankari Game Reserve](sights/yankari-game-reserve.yaml) | Attraction | **86.30** | **Nature 9.0**, **Wildlife 9.0** | 8.6 / 8.7 / 8.9 / 8.3 / 8.5 | [9.75, 10.5](https://www.google.com/maps/search/?api=1&query=9.75,10.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yankari%20Game%20Reserve%2C%20Nigeria) |
 | 7 | [Nike Art Gallery Lagos](sights/nike-art-gallery-lagos.yaml) | Attraction | **85.65** | **Culture 9.1** | 8.6 / 8.7 / 8.3 / 8.8 / 8.3 | [6.43152, 3.48189](https://www.google.com/maps/search/?api=1&query=6.43152,3.48189) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nike%20Art%20Gallery%20Lagos%2C%20Nigeria) |
 | 8 | [Olumo Rock](sights/olumo-rock.yaml) | Attraction | **85.20** | **Photography 8.9**, **History 8.7**, **Nature 8.7** | 8.6 / 8.7 / 8.4 / 8.7 / 7.8 | [7.162, 3.348](https://www.google.com/maps/search/?api=1&query=7.162,3.348) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Olumo%20Rock%2C%20Nigeria) |
-| 9 | [Ogbunike Caves](sights/ogbunike-caves.yaml) | Attraction | **84.35** | **Nature 8.8**, **Culture 8.7**, **Adventure 8.6** | 8.5 / 8.7 / 8.5 / 8.2 / 7.8 | [6.186389, 6.905833](https://www.google.com/maps/search/?api=1&query=6.186389,6.905833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ogbunike%20Caves%2C%20Nigeria) |
-| 10 | [National Museum Lagos](sights/national-museum-lagos.yaml) | Museum / heritage | **84.15** | **History 9.2**, **Culture 9.1** | 8.0 / 8.6 / 9.0 / 8.3 / 8.2 | [6.445, 3.399](https://www.google.com/maps/search/?api=1&query=6.445,3.399) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20Lagos%2C%20Nigeria) |
-| 11 | [Obudu Mountain Resort](sights/obudu-mountain-resort.yaml) | Mountain / peak | **83.35** | **Nature 9.0**, **Photography 9.0**, **Relaxation 8.6** | 8.8 / 8.4 / 7.5 / 8.5 / 8.2 | [6.36, 9.37](https://www.google.com/maps/search/?api=1&query=6.36,9.37) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Obudu%20Mountain%20Resort%2C%20Nigeria) |
-| 12 | [Lekki Conservation Centre](sights/lekki-conservation-centre.yaml) | Attraction | **83.30** | **Adventure 8.8**, **Nature 8.7**, **Wildlife 8.1** | 8.4 / 8.5 / 7.9 / 8.7 / 8.0 | [6.4364, 3.5356](https://www.google.com/maps/search/?api=1&query=6.4364,3.5356) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lekki%20Conservation%20Centre%2C%20Nigeria) |
-| 13 | [Zuma Rock](sights/zuma-rock.yaml) | Attraction | **79.60** | **Photography 8.8**, **Nature 8.6** | 8.5 / 8.4 / 7.6 / 7.4 / 6.8 | [9.128, 7.234](https://www.google.com/maps/search/?api=1&query=9.128,7.234) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zuma%20Rock%2C%20Nigeria) |
-| 14 | [Gurara Falls](sights/gurara-falls.yaml) | Waterfall | **78.70** | **Photography 8.7**, **Nature 8.6** | 8.3 / 7.9 / 7.1 / 8.3 / 7.4 | [9.31535, 7.02124](https://www.google.com/maps/search/?api=1&query=9.31535,7.02124) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gurara%20Falls%2C%20Nigeria) |
+| 9 | [Alok Ikom Stone Monoliths](sights/alok-ikom-monoliths.yaml) | Attraction | **84.50** | **History 9.2**, **Culture 9.1** | 8.1 / 9.2 / 9.0 / 7.8 / 7.5 | [6, 8.5](https://www.google.com/maps/search/?api=1&query=6,8.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alok%20Ikom%20Stone%20Monoliths%2C%20Nigeria) |
+| 10 | [Ogbunike Caves](sights/ogbunike-caves.yaml) | Attraction | **84.35** | **Nature 8.8**, **Culture 8.7**, **Adventure 8.6** | 8.5 / 8.7 / 8.5 / 8.2 / 7.8 | [6.186389, 6.905833](https://www.google.com/maps/search/?api=1&query=6.186389,6.905833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ogbunike%20Caves%2C%20Nigeria) |
+| 11 | [National Museum Lagos](sights/national-museum-lagos.yaml) | Museum / heritage | **84.15** | **History 9.2**, **Culture 9.1** | 8.0 / 8.6 / 9.0 / 8.3 / 8.2 | [6.445, 3.399](https://www.google.com/maps/search/?api=1&query=6.445,3.399) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20Lagos%2C%20Nigeria) |
+| 12 | [Obudu Mountain Resort](sights/obudu-mountain-resort.yaml) | Mountain / peak | **83.35** | **Nature 9.0**, **Photography 9.0**, **Relaxation 8.6** | 8.8 / 8.4 / 7.5 / 8.5 / 8.2 | [6.36, 9.37](https://www.google.com/maps/search/?api=1&query=6.36,9.37) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Obudu%20Mountain%20Resort%2C%20Nigeria) |
+| 13 | [Lekki Conservation Centre](sights/lekki-conservation-centre.yaml) | Attraction | **83.30** | **Adventure 8.8**, **Nature 8.7**, **Wildlife 8.1** | 8.4 / 8.5 / 7.9 / 8.7 / 8.0 | [6.4364, 3.5356](https://www.google.com/maps/search/?api=1&query=6.4364,3.5356) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lekki%20Conservation%20Centre%2C%20Nigeria) |
+| 14 | [Zuma Rock](sights/zuma-rock.yaml) | Attraction | **79.60** | **Photography 8.8**, **Nature 8.6** | 8.5 / 8.4 / 7.6 / 7.4 / 6.8 | [9.128, 7.234](https://www.google.com/maps/search/?api=1&query=9.128,7.234) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zuma%20Rock%2C%20Nigeria) |
+| 15 | [Gurara Falls](sights/gurara-falls.yaml) | Waterfall | **78.70** | **Photography 8.7**, **Nature 8.6** | 8.3 / 7.9 / 7.1 / 8.3 / 7.4 | [9.31535, 7.02124](https://www.google.com/maps/search/?api=1&query=9.31535,7.02124) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gurara%20Falls%2C%20Nigeria) |
 
-## Not yet fully assessed (11)
+## Not yet fully assessed (10)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Alok Ikom Stone Monoliths](sights/alok-ikom-monoliths.yaml) | Attraction | **—** | **History 9.2**, **Culture 9.1** | 8.1 / 9.2 / 9.0 / — / — | [6, 8.5](https://www.google.com/maps/search/?api=1&query=6,8.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alok%20Ikom%20Stone%20Monoliths%2C%20Nigeria) |
 | — | [Arochukwu Long Juju Cave Temple Complex](sights/arochukwu-long-juju.yaml) | Religious site | **—** | **History 9.3**, **Culture 9.1** | — / 9.0 / 9.1 / — / — | [5.383333, 7.916667](https://www.google.com/maps/search/?api=1&query=5.383333,7.916667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arochukwu%20Long%20Juju%20Cave%20Temple%20Complex%2C%20Nigeria) |
 | — | [Benin Iya Earthworks](sights/benin-iya.yaml) | Attraction | **—** | **History 9.4** | — / 9.2 / 9.3 / — / — | [6.328611, 5.618889](https://www.google.com/maps/search/?api=1&query=6.328611,5.618889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benin%20Iya%20Earthworks%2C%20Nigeria) |
 | — | [Kwiambana Archaeological Site](sights/kwiambana.yaml) | Museum / heritage | **—** | **History 8.5** | — / — / 8.3 / — / — | [11.1, 6.8](https://www.google.com/maps/search/?api=1&query=11.1,6.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kwiambana%20Archaeological%20Site%2C%20Nigeria) |

@@ -1,0 +1,13 @@
+# Deferred reassessment pass 60 — 2026-11-26
+
+Three source-assisted completions, two retained deferrals. Existing populated scores, categories, IDs, coordinates and weights unchanged. No firsthand, independent numerical or current admission verification.
+
+| Record | Decision | Scope |
+| --- | --- | --- |
+| [Penrhyn (Tongareva) lagoon heritage](../countries/CK/sights/penrhyn.yaml) | Completed 87.80 | Penrhyn's lagoon and locally permitted motu excursions, lagoon boating, fishing and snorkeling where authorized. No assumed pearl-farm tour, wildlife encounter, shark feeding, unrestricted marine access or wider island cultural itinerary. Customary rights and local arrangements apply. |
+| [Ancient Beech Forests (Bulgarian serial components)](../countries/BG/sights/beech-forests.yaml) | Completed 87.35 | Nine inscribed Bulgarian beech-forest components within Central Balkan strict reserves. Assess permitted marked trails and forest views in named reserves, particularly Boatin and Stara Reka. Exact trail-to-inscribed-polygon overlap not independently mapped; no off-trail access, wildlife guarantees, unrelated alpine attractions or full national park scope. Some reserves lack interior routes. |
+| [Alok Ikom Stone Monoliths](../countries/NG/sights/alok-ikom-monoliths.yaml) | Completed 84.50 | Visible carved standing stones at Alok open-air museum and documented community-authorized viewing within the named Ikom heritage cluster. No assumption access to all communities, private or ritual spaces, deciphered inscriptions, or regional waterfall excursions. Existing conservation problems and limited visitor facilities acknowledged. |
+| [Serbian beech forest extension](../countries/RS/sights/beech-extension.yaml) | Deferred | https://whc.unesco.org/en/tentativelists/6917/ identifies proposed strict protection localities; general national park trails do not establish permitted experience in the named proposed components. |
+| [Moldovan Cucuteni-Trypillia components](../countries/MD/sights/cucuteni-trypillia-civilization-moldova-components.yaml) | Deferred | https://whc.unesco.org/en/tentativelists/7018/ documents named archaeological property; https://www.nationalmuseum.md/en/news/arhive/opening_of_the_exhibition_vestiges_of_the_cucuteni_trypillia_culture_from_the_republic_of_moldova/ confirms September 2026 temporary exhibition, but specific component access and durable interpretation insufficiently established. |
+
+[CK review](reviews/CK/worldwide-deferred-pass60-2026-11-26.md) · [BG review](reviews/BG/worldwide-deferred-pass60-2026-11-26.md) · [NG review](reviews/NG/worldwide-deferred-pass60-2026-11-26.md).

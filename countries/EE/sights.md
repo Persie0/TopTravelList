@@ -2,7 +2,7 @@
 
 # Estonia (EE) — Sights & attractions ranking
 
-**38 ranked** · **4 unassessed** · **42 total** · Worldwide scoring **v2**
+**40 ranked** · **2 unassessed** · **42 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (38)
+## Complete ranked list (40)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -49,11 +49,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 33 | [Karula National Park](sights/karula-national-park.yaml) | Park / reserve | **78.55** | **Nature 8.5**, **Relaxation 8.5**, **Photography 8.1** | 7.7 / 7.8 / 7.7 / 8.3 / 8.1 | [57.72, 26.49](https://www.google.com/maps/search/?api=1&query=57.72,26.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Karula%20National%20Park%2C%20Estonia) |
 | 34 | [AHHAA Science Centre](sights/ahhaa-science-centre.yaml) | Attraction | **77.55** | **Family 9.1**, **Culture 7.8** | 7.8 / 7.5 / 7.1 / 8.8 / 8.0 | [58.375, 26.736](https://www.google.com/maps/search/?api=1&query=58.375,26.736) | [Google Maps](https://www.google.com/maps/search/?api=1&query=AHHAA%20Science%20Centre%2C%20Estonia) |
 | 35 | [Telliskivi Creative City](sights/telliskivi-creative-city.yaml) | Attraction | **77.45** | **Food 8.5**, **Culture 8.4**, **Nightlife 8.2** | 7.7 / 7.8 / 7.1 / 8.5 / 7.9 | [59.44, 24.727](https://www.google.com/maps/search/?api=1&query=59.44,24.727) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Telliskivi%20Creative%20City%2C%20Estonia) |
-| 36 | [Pärnu Beach](sights/parnu-beach.yaml) | Beach / bay | **75.45** | **Relaxation 8.8**, **Beaches 8.5**, **Family 8.5** | 7.7 / 7.3 / 6.9 / 8.6 / 7.4 | [58.373, 24.498](https://www.google.com/maps/search/?api=1&query=58.373,24.498) | [Google Maps](https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20Beach%2C%20Estonia) |
-| 37 | [Valaste Waterfall](sights/valaste-waterfall.yaml) | Waterfall | **75.40** | **Photography 8.5**, **Nature 8.2** | 7.8 / 7.6 / 7.2 / 7.8 / 6.9 | [59.443, 27.335](https://www.google.com/maps/search/?api=1&query=59.443,27.335) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valaste%20Waterfall%2C%20Estonia) |
-| 38 | [Jägala Waterfall](sights/jagala-waterfall.yaml) | Waterfall | **75.35** | **Photography 8.4**, **Nature 8.3** | 7.8 / 7.5 / 7.2 / 8.0 / 6.8 | [59.451, 25.179](https://www.google.com/maps/search/?api=1&query=59.451,25.179) | [Google Maps](https://www.google.com/maps/search/?api=1&query=J%C3%A4gala%20Waterfall%2C%20Estonia) |
+| 36 | [Võivere Struve Geodetic Arc Station](sights/voivere-struve-station.yaml) | Attraction | **76.55** | **History 8.6** | 6.8 / 8.0 / 8.6 / 7.9 / 7.1 | [59.0578, 26.3378](https://www.google.com/maps/search/?api=1&query=59.0578,26.3378) | [Google Maps](https://www.google.com/maps/search/?api=1&query=V%C3%B5ivere%20Struve%20Geodetic%20Arc%20Station%2C%20Estonia) |
+| 37 | [Pärnu Beach](sights/parnu-beach.yaml) | Beach / bay | **75.45** | **Relaxation 8.8**, **Beaches 8.5**, **Family 8.5** | 7.7 / 7.3 / 6.9 / 8.6 / 7.4 | [58.373, 24.498](https://www.google.com/maps/search/?api=1&query=58.373,24.498) | [Google Maps](https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20Beach%2C%20Estonia) |
+| 38 | [Valaste Waterfall](sights/valaste-waterfall.yaml) | Waterfall | **75.40** | **Photography 8.5**, **Nature 8.2** | 7.8 / 7.6 / 7.2 / 7.8 / 6.9 | [59.443, 27.335](https://www.google.com/maps/search/?api=1&query=59.443,27.335) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Valaste%20Waterfall%2C%20Estonia) |
+| 39 | [Jägala Waterfall](sights/jagala-waterfall.yaml) | Waterfall | **75.35** | **Photography 8.4**, **Nature 8.3** | 7.8 / 7.5 / 7.2 / 8.0 / 6.8 | [59.451, 25.179](https://www.google.com/maps/search/?api=1&query=59.451,25.179) | [Google Maps](https://www.google.com/maps/search/?api=1&query=J%C3%A4gala%20Waterfall%2C%20Estonia) |
+| 40 | [Simuna Struve Geodetic Arc Station](sights/simuna-struve-station.yaml) | Attraction | **73.90** | **History 8.6** | 6.7 / 8.0 / 8.6 / 7.2 / 5.8 | [59.0483, 26.4142](https://www.google.com/maps/search/?api=1&query=59.0483,26.4142) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Simuna%20Struve%20Geodetic%20Arc%20Station%2C%20Estonia) |
 
-## Not yet fully assessed (4)
+## Not yet fully assessed (2)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -61,8 +63,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Baltic Klint (Estonian tentative heritage landscape)](sights/baltic-klint.yaml) | Coast | **—** | **Nature 9.0** | 8.4 / 8.7 / 8.6 / — / — | [59.39, 24](https://www.google.com/maps/search/?api=1&query=59.39,24) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baltic%20Klint%20%28Estonian%20tentative%20heritage%20landscape%29%2C%20Estonia) |
 | — | [Estonian Wooded Meadows (tentative serial property)](sights/wooded-meadows.yaml) | Attraction | **—** | **Nature 9.0** | 7.9 / 8.7 / 8.8 / — / — | [58.6, 23.56](https://www.google.com/maps/search/?api=1&query=58.6,23.56) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Estonian%20Wooded%20Meadows%20%28tentative%20serial%20property%29%2C%20Estonia) |
-| — | [Simuna Struve Geodetic Arc Station](sights/simuna-struve-station.yaml) | Attraction | **—** | **History 8.6** | 6.7 / 8.0 / 8.6 / — / — | [59.0483, 26.4142](https://www.google.com/maps/search/?api=1&query=59.0483,26.4142) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Simuna%20Struve%20Geodetic%20Arc%20Station%2C%20Estonia) |
-| — | [Võivere Struve Geodetic Arc Station](sights/voivere-struve-station.yaml) | Attraction | **—** | **History 8.6** | 6.8 / 8.0 / 8.6 / — / — | [59.0578, 26.3378](https://www.google.com/maps/search/?api=1&query=59.0578,26.3378) | [Google Maps](https://www.google.com/maps/search/?api=1&query=V%C3%B5ivere%20Struve%20Geodetic%20Arc%20Station%2C%20Estonia) |
 
 ---
 

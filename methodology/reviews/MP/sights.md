@@ -688,3 +688,5 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Partial assessment only.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent factual corroboration, numerical benchmark calibration and current access.
+
+- [Dated worldwide reassessment pass 67 — 2026-11-26](worldwide-deferred-pass67-2026-11-26.md)

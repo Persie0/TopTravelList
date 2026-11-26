@@ -1672,3 +1672,7 @@ Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 - Final decision: Scope-limited editorial assessment: Distinct compact river-island castle composition; One estate exterior.
 - Earlier decision: none.
 - Verification still needed: independent facts, access, GPS and narrower same-type peer comparisons.
+
+- [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 61 — 2026-11-26](worldwide-deferred-pass61-2026-11-26.md)

@@ -2,7 +2,7 @@
 
 # Madagascar (MG) — Cities, towns & villages ranking
 
-**5 ranked** · **1 unassessed** · **6 total** · Worldwide scoring **v2**
+**6 ranked** · **0 unassessed** · **6 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (5)
+## Complete ranked list (6)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -19,14 +19,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 3 | [Antsiranana](cities/antsiranana.yaml) | City / town | **79.25** | **Architecture 8.2**, **Culture 8.2** | 7.9 / 8.1 / 7.8 / 8.0 / 7.7 | [-12.2787, 49.2917](https://www.google.com/maps/search/?api=1&query=-12.2787,49.2917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Antsiranana%2C%20Madagascar) |
 | 4 | [Antsirabe](cities/antsirabe.yaml) | City / town | **79.10** | **Culture 8.4**, **Architecture 8.3** | 7.8 / 8.1 / 7.8 / 8.1 / 7.7 | [-19.866, 47.033](https://www.google.com/maps/search/?api=1&query=-19.866,47.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Antsirabe%2C%20Madagascar) |
 | 5 | [Morondava](cities/morondava.yaml) | City / town | **77.90** | **Culture 8.4**, **Beaches 8.2** | 7.7 / 8.0 / 7.5 / 8.2 / 7.5 | [-20.2833, 44.2833](https://www.google.com/maps/search/?api=1&query=-20.2833,44.2833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Morondava%2C%20Madagascar) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Toamasina](cities/toamasina.yaml) | City / town | **—** | — | — / 7.5 / 7.8 / — / — | [-18.149, 49.402](https://www.google.com/maps/search/?api=1&query=-18.149,49.402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toamasina%2C%20Madagascar) |
+| 6 | [Toamasina](cities/toamasina.yaml) | City / town | **75.75** | — | 7.4 / 7.5 / 7.8 / 7.8 / 7.5 | [-18.149, 49.402](https://www.google.com/maps/search/?api=1&query=-18.149,49.402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toamasina%2C%20Madagascar) |
 
 ---
 

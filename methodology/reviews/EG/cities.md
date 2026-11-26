@@ -59,6 +59,37 @@
 - Evidence: [source context](https://visitegypt.travel/attractions/) (consulted 2026-11-25; attraction guide identity and context only). No full independent claim-level verification.
 - Remaining gaps: precise GPS, individual facts and permitted access, category and specialist peer calibration.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 2)
+
+- [Source YAML](../../../countries/EG/cities/luxor.yaml) · **fact-checked** (material factual scope checked, not objective numeric validation).
+- Action: rescore. Precise subject: Living East Bank city, its integrated Luxor and Karnak temple fabric, processional avenue, streets and Nile setting; exclude West Bank necropolis excursions and remote monuments.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Checked evidence: Egypt Ministry of Tourism and Antiquities [Ancient Thebes](https://egymonuments.gov.eg/en/world-heritage/ancient-thebes-and-its-necropolis) opened 2026-11-26, locates both temples on the east bank and explains the 2.7 km ceremonial avenue joining them. UNESCO [Ancient Thebes](https://whc.unesco.org/en/list/87) search excerpt explicitly identifies the living city on the east bank; full page returned 403.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [KR/cities/gyeongju](../../../countries/KR/cities/gyeongju.yaml) | Both ancient capitals with heritage within the actual settlement; Gyeongju has broader distributed urban exploration. |
+| [UZ/cities/samarkand](../../../countries/UZ/cities/samarkand.yaml) | Comparable monumental urban heritage and living city, with different historic setting. |
+| [KH/cities/siem-reap](../../../countries/KH/cities/siem-reap.yaml) | A gateway whose principal ancient park is separate; Luxor's major temples form part of the city itself. |
+| [EG/cities/cairo](../../../countries/EG/cities/cairo.yaml) | Cairo provides substantially greater modern urban diversity and museum breadth; Luxor's distinctive ancient urban axis is a stronger concentrated experience. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 8.5 | 9.2 | 9.2 for the Nile setting and exceptional temple monuments embedded in the urban experience. |
+| Uniqueness | 8.7 | 9.3 | 9.3 for the living city built over an ancient capital with connected sacred monumental fabric. |
+| Significance | 8.8 | 9.5 | 9.5 for the actual ancient capital and east-bank ceremonial route, without inheriting the necropolis. |
+| Experience | 8.5 | 9.0 | 9.0 for meaningful city-based walks, monumental architecture and river setting. |
+| Depth | 8.1 | 8.8 | 8.8 for multiple distinct urban experiences, below large historic capitals; west-bank visits not counted. |
+
+- Categories after: culture 9.0, history 9.6, food 8.1.
+- Computed overall: 85.70/100 → **92.15/100**.
+- High-score challenge: Significance 9.5 and history 9.6 are justified by the actual Theban urban fabric, not merely the city's association with nearby tombs. No new 10.
+- Earlier decision: original dated review above; retained unchanged.
+- Verification still needed: exact GPS, independent visitor experience and any access limits; factual source limitations above. Ratings remain editorial.
+
+
 ## city-eg-aswan — Aswan — 2026-11-25
 
 - [YAML](../../../countries/EG/cities/aswan.yaml) · Action: new · **source-linked-unverified**.

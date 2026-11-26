@@ -2,7 +2,7 @@
 
 # Benin (BJ) — Sights & attractions ranking
 
-**22 ranked** · **12 unassessed** · **34 total** · Worldwide scoring **v2**
+**23 ranked** · **11 unassessed** · **34 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (22)
+## Complete ranked list (23)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -30,21 +30,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 14 | [Rivière Noire (Adjarra)](sights/riviere-noire-adjarra.yaml) | Attraction | **78.40** | **Photography 8.7**, **Nature 8.6**, **Adventure 8.3** | 8.0 / 8.3 / 7.0 / 8.3 / 7.2 | [6.541, 2.668](https://www.google.com/maps/search/?api=1&query=6.541,2.668) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rivi%C3%A8re%20Noire%20%28Adjarra%29%2C%20Benin) |
 | 15 | [Zoungbodji Memorial Sites](sights/zoungbodji-memorial-sites.yaml) | Museum / heritage | **78.05** | **History 9.4**, **Culture 8.9** | 7.0 / 8.4 / 9.1 / 7.7 / 6.3 | [6.337222, 2.088889](https://www.google.com/maps/search/?api=1&query=6.337222,2.088889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zoungbodji%20Memorial%20Sites%2C%20Benin) |
 | 16 | [Grand-Popo Beach](sights/grand-popo-beach.yaml) | Beach / bay | **77.45** | **Beaches 8.9**, **Photography 8.8**, **Relaxation 8.7** | 8.6 / 7.9 / 6.0 / 8.4 / 7.3 | [6.28, 1.826](https://www.google.com/maps/search/?api=1&query=6.28,1.826) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand-Popo%20Beach%2C%20Benin) |
-| 17 | [Villa Ajavon (Zinsou Museum, Ouidah)](sights/villa-ajavon-zinsou-museum-ouidah.yaml) | Museum / heritage | **76.85** | **Culture 8.8**, **Architecture 8.2** | 7.2 / 8.1 / 7.7 / 8.2 / 7.3 | [6.365, 2.087](https://www.google.com/maps/search/?api=1&query=6.365,2.087) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Villa%20Ajavon%20%28Zinsou%20Museum%2C%20Ouidah%29%2C%20Benin) |
-| 18 | [Amazon Monument (Cotonou)](sights/amazon-monument-cotonou.yaml) | Attraction | **76.75** | **Photography 8.6**, **Culture 8.4**, **History 8.3** | 8.0 / 7.6 / 8.0 / 7.9 / 5.9 | [6.347, 2.415](https://www.google.com/maps/search/?api=1&query=6.347,2.415) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Amazon%20Monument%20%28Cotonou%29%2C%20Benin) |
-| 19 | [Akaba Idénan Royal Gate (Kétou)](sights/akaba-idenan-royal-gate-ketou.yaml) | Attraction | **76.60** | **History 9.0**, **Culture 8.8**, **Architecture 8.1** | 7.0 / 8.3 / 8.6 / 7.7 / 6.1 | [7.363333, 2.601667](https://www.google.com/maps/search/?api=1&query=7.363333,2.601667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Akaba%20Id%C3%A9nan%20Royal%20Gate%20%28K%C3%A9tou%29%2C%20Benin) |
-| 20 | [Place Chacha (Ouidah)](sights/place-chacha-ouidah.yaml) | Attraction | **75.10** | **History 9.4**, **Culture 8.7** | 6.5 / 8.0 / 9.1 / 7.8 / 5.7 | [6.356389, 2.085](https://www.google.com/maps/search/?api=1&query=6.356389,2.085) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Place%20Chacha%20%28Ouidah%29%2C%20Benin) |
-| 21 | [Alexandre Sènou Adandé Ethnographic Museum](sights/alexandre-senou-adande-ethnographic-museum.yaml) | Museum / heritage | **74.55** | **Culture 8.8**, **History 8.6** | 6.7 / 7.8 / 8.2 / 7.7 / 7.0 | [6.484, 2.623](https://www.google.com/maps/search/?api=1&query=6.484,2.623) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alexandre%20S%C3%A8nou%20Adand%C3%A9%20Ethnographic%20Museum%2C%20Benin) |
-| 22 | [Cotonou Port Mural](sights/cotonou-port-mural.yaml) | Attraction | **72.80** | **Culture 8.5**, **Photography 8.2** | 7.3 / 7.8 / 6.6 / 7.8 / 6.5 | [6.349, 2.435](https://www.google.com/maps/search/?api=1&query=6.349,2.435) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cotonou%20Port%20Mural%2C%20Benin) |
+| 17 | [Kota Falls](sights/kota-falls.yaml) | Waterfall | **77.10** | **Photography 8.8**, **Nature 8.6** | 8.2 / 7.9 / 6.8 / 8.1 / 7.0 | [10.233, 1.43](https://www.google.com/maps/search/?api=1&query=10.233,1.43) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kota%20Falls%2C%20Benin) |
+| 18 | [Villa Ajavon (Zinsou Museum, Ouidah)](sights/villa-ajavon-zinsou-museum-ouidah.yaml) | Museum / heritage | **76.85** | **Culture 8.8**, **Architecture 8.2** | 7.2 / 8.1 / 7.7 / 8.2 / 7.3 | [6.365, 2.087](https://www.google.com/maps/search/?api=1&query=6.365,2.087) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Villa%20Ajavon%20%28Zinsou%20Museum%2C%20Ouidah%29%2C%20Benin) |
+| 19 | [Amazon Monument (Cotonou)](sights/amazon-monument-cotonou.yaml) | Attraction | **76.75** | **Photography 8.6**, **Culture 8.4**, **History 8.3** | 8.0 / 7.6 / 8.0 / 7.9 / 5.9 | [6.347, 2.415](https://www.google.com/maps/search/?api=1&query=6.347,2.415) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Amazon%20Monument%20%28Cotonou%29%2C%20Benin) |
+| 20 | [Akaba Idénan Royal Gate (Kétou)](sights/akaba-idenan-royal-gate-ketou.yaml) | Attraction | **76.60** | **History 9.0**, **Culture 8.8**, **Architecture 8.1** | 7.0 / 8.3 / 8.6 / 7.7 / 6.1 | [7.363333, 2.601667](https://www.google.com/maps/search/?api=1&query=7.363333,2.601667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Akaba%20Id%C3%A9nan%20Royal%20Gate%20%28K%C3%A9tou%29%2C%20Benin) |
+| 21 | [Place Chacha (Ouidah)](sights/place-chacha-ouidah.yaml) | Attraction | **75.10** | **History 9.4**, **Culture 8.7** | 6.5 / 8.0 / 9.1 / 7.8 / 5.7 | [6.356389, 2.085](https://www.google.com/maps/search/?api=1&query=6.356389,2.085) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Place%20Chacha%20%28Ouidah%29%2C%20Benin) |
+| 22 | [Alexandre Sènou Adandé Ethnographic Museum](sights/alexandre-senou-adande-ethnographic-museum.yaml) | Museum / heritage | **74.55** | **Culture 8.8**, **History 8.6** | 6.7 / 7.8 / 8.2 / 7.7 / 7.0 | [6.484, 2.623](https://www.google.com/maps/search/?api=1&query=6.484,2.623) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alexandre%20S%C3%A8nou%20Adand%C3%A9%20Ethnographic%20Museum%2C%20Benin) |
+| 23 | [Cotonou Port Mural](sights/cotonou-port-mural.yaml) | Attraction | **72.80** | **Culture 8.5**, **Photography 8.2** | 7.3 / 7.8 / 6.6 / 7.8 / 6.5 | [6.349, 2.435](https://www.google.com/maps/search/?api=1&query=6.349,2.435) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cotonou%20Port%20Mural%2C%20Benin) |
 
-## Not yet fully assessed (12)
+## Not yet fully assessed (11)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Dantokpa Market](sights/dantokpa-market.yaml) | Market | **—** | **Culture 8.5**, **Food 8.3** | — / — / 7.9 / — / — | [6.377, 2.433](https://www.google.com/maps/search/?api=1&query=6.377,2.433) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dantokpa%20Market%2C%20Benin) |
-| — | [Kota Falls](sights/kota-falls.yaml) | Waterfall | **—** | **Photography 8.8**, **Nature 8.6** | — / — / 6.8 / — / — | [10.233, 1.43](https://www.google.com/maps/search/?api=1&query=10.233,1.43) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kota%20Falls%2C%20Benin) |
 | — | [Koutammakou (Benin sector)](sights/koutammakou-benin-sector.yaml) | Attraction | **—** | **Architecture 9.7**, **Culture 9.7**, **History 9.5** | — / — / 9.6 / — / — | [10.391464, 1.058914](https://www.google.com/maps/search/?api=1&query=10.391464,1.058914) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koutammakou%20%28Benin%20sector%29%2C%20Benin) |
 | — | [Oké Shabè Hills (Savè)](sights/oke-shabe-hills-save.yaml) | Attraction | **—** | **History 8.8**, **Nature 8.6** | — / — / 8.4 / — / — | [8.035833, 2.505278](https://www.google.com/maps/search/?api=1&query=8.035833,2.505278) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ok%C3%A9%20Shab%C3%A8%20Hills%20%28Sav%C3%A8%29%2C%20Benin) |
 | — | [Pendjari National Park](sights/pendjari-national-park.yaml) | Park / reserve | **—** | **Nature 9.4**, **Wildlife 9.4** | — / — / 9.3 / — / — | [11.1, 1.5](https://www.google.com/maps/search/?api=1&query=11.1,1.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pendjari%20National%20Park%2C%20Benin) |

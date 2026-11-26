@@ -39,6 +39,37 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Earlier decision: none.
 - Verification still needed: Independent factual and geographic verification.
 
+### Reassessment — 2026-11-26 (worldwide bias pass 2)
+
+- [Source YAML](../../../countries/US/cities/new-york-city.yaml) · **fact-checked** (material factual scope checked, not objective numeric validation).
+- Action: rescore. Precise subject: All five boroughs and their urban neighborhoods, institutions and public spaces; exclude regional day trips.
+- Location: existing representative coordinates retained; precise GPS independently unchecked.
+- Checked evidence: NYC Economic Development Corporation [Explore NYC](https://edc.nyc/explore-nyc), opened 2026-11-26, identifies the five boroughs, diverse neighborhoods and cultural traditions. NYC Tourism [Manhattan Like a New Yorker](https://business.nyctourism.com/press-media/press-releases/nyc-company-invites-visitors-to-see-manhattan-like-a-new-yorker), retrieved as search excerpt, describes performing arts, museums and immigrant history; not treated as a second full-text verification.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [GB/cities/london](../../../countries/GB/cities/london.yaml) | Comparable world-leading urban cultural breadth and distinct neighborhoods; London has greater long historical continuity. |
+| [FR/cities/paris](../../../countries/FR/cities/paris.yaml) | Comparable cultural significance; Paris has more coherent monumental streetscapes, NYC a more distinctive vertical skyline. |
+| [JP/cities/tokyo](../../../countries/JP/cities/tokyo.yaml) | Comparable modern urban breadth, subcultures and food, with a different urban form. |
+| [DE/cities/berlin](../../../countries/DE/cities/berlin.yaml) | Exceptional modern history and culture, but NYC offers a larger concentration of independently varied urban experiences. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.5 | 9.7 | 9.7 for the city's skyline, street life and highly recognizable urban character. |
+| Uniqueness | 9.5 | 9.6 | 9.6 for the mix of vertical architecture, immigrant communities, artistic scenes and distinctive borough identities. |
+| Significance | 9.4 | 9.6 | 9.6 for global cultural influence, immigration history and modern urban development, not financial size alone. |
+| Experience | 9.4 | 9.5 | 9.5 for the mix of museums, performance, neighborhoods and public spaces; no bonus for popularity or transport. |
+| Depth | 9.8 | 9.9 | 9.9 for exceptionally varied and substantial exploration across five boroughs; no claim of perfect depth. |
+
+- Categories after: culture 9.8, architecture 9.6, food 9.5, nightlife 9.5.
+- Computed overall: 94.95/100 → **96.45/100**.
+- High-score challenge: Culture 9.8 for performing arts and diverse cultural institutions; architecture 9.6 for distinctive skyscraper and neighborhood fabric; food and nightlife 9.5 retained as exceptional categories, not additional overall points. All high core fields are explained above; no new 10.
+- Earlier decision: original dated review above; retained unchanged.
+- Verification still needed: exact GPS, independent visitor experience and any access limits; factual source limitations above. Ratings remain editorial.
+
+
 ## city-us-san-francisco — San Francisco — 2026-11-25
 
 - YAML: [source](../../../countries/US/cities/san-francisco.yaml)

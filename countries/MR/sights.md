@@ -2,7 +2,7 @@
 
 # Mauritania (MR) — Sights & attractions ranking
 
-**10 ranked** · **7 unassessed** · **17 total** · Worldwide scoring **v2**
+**13 ranked** · **4 unassessed** · **17 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (10)
+## Complete ranked list (13)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -18,26 +18,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 2 | [Chinguetti Old Ksar](sights/chinguetti-old-ksar.yaml) | Attraction | **88.30** | **History 9.3**, **Culture 9.1**, **Architecture 9.0** | 8.8 / 9.2 / 9.2 / 8.2 / 8.2 | [20.46333, -12.36667](https://www.google.com/maps/search/?api=1&query=20.46333,-12.36667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chinguetti%20Old%20Ksar%2C%20Mauritania) |
 | 3 | [Richat Structure (Eye of the Sahara)](sights/richat-structure.yaml) | Attraction | **86.55** | **Nature 9.2**, **Photography 8.7**, **Adventure 8.3** | 8.4 / 9.7 / 8.9 / 7.8 / 7.6 | [21.1147, -11.3943](https://www.google.com/maps/search/?api=1&query=21.1147,-11.3943) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Richat%20Structure%20%28Eye%20of%20the%20Sahara%29%2C%20Mauritania) |
 | 4 | [Ouadane Old Ksar](sights/ouadane-old-ksar.yaml) | Attraction | **86.40** | **History 9.1**, **Photography 9.0**, **Architecture 8.9** | 8.7 / 9.0 / 9.0 / 8.0 / 7.8 | [20.92889, -11.62361](https://www.google.com/maps/search/?api=1&query=20.92889,-11.62361) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ouadane%20Old%20Ksar%2C%20Mauritania) |
-| 5 | [Diawling National Park](sights/diawling-national-park.yaml) | Park / reserve | **84.75** | **Wildlife 9.2**, **Nature 9.0**, **Photography 8.7** | 8.4 / 8.6 / 8.8 / 8.3 / 8.0 | [16.3669, -16.3831](https://www.google.com/maps/search/?api=1&query=16.3669,-16.3831) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Diawling%20National%20Park%2C%20Mauritania) |
-| 6 | [Ben Amera Monolith](sights/ben-amera.yaml) | Attraction | **84.55** | **Photography 9.2**, **Nature 9.0** | 8.9 / 9.1 / 7.8 / 8.2 / 7.2 | [21.23003, -13.66437](https://www.google.com/maps/search/?api=1&query=21.23003,-13.66437) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ben%20Amera%20Monolith%2C%20Mauritania) |
-| 7 | [Terjit Oasis](sights/terjit-oasis.yaml) | Attraction | **82.50** | **Nature 8.8**, **Photography 8.8**, **Relaxation 8.6** | 8.6 / 8.6 / 7.4 / 8.6 / 7.5 | [20.2466, -13.0869](https://www.google.com/maps/search/?api=1&query=20.2466,-13.0869) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Terjit%20Oasis%2C%20Mauritania) |
-| 8 | [Cap Blanc Seal Reserve](sights/cap-blanc-seal-reserve.yaml) | Attraction | **82.20** | **Wildlife 9.2**, **Nature 8.5** | 7.7 / 8.9 / 9.1 / 7.7 / 7.1 | [20.77028, -17.07944](https://www.google.com/maps/search/?api=1&query=20.77028,-17.07944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cap%20Blanc%20Seal%20Reserve%2C%20Mauritania) |
-| 9 | [Port de Pêche, Nouakchott](sights/port-de-peche.yaml) | Attraction | **78.60** | **Photography 8.7**, **Culture 8.5** | 8.1 / 8.3 / 7.3 / 7.9 / 7.1 | [18.102845, -16.025223](https://www.google.com/maps/search/?api=1&query=18.102845,-16.025223) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20de%20P%C3%AAche%2C%20Nouakchott%2C%20Mauritania) |
-| 10 | [Azougui Cultural Landscape](sights/azougui-cultural-landscape.yaml) | Coast | **77.30** | **History 8.8** | 7.3 / 8.1 / 8.6 / 7.5 / 6.7 | [20.5682, -13.1104](https://www.google.com/maps/search/?api=1&query=20.5682,-13.1104) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Azougui%20Cultural%20Landscape%2C%20Mauritania) |
+| 5 | [Oualata Old Ksar](sights/oualata-old-ksar.yaml) | Attraction | **86.10** | **Architecture 9.2**, **History 9.1** | 8.5 / 9.1 / 9.0 / 8.1 / 7.7 | [17.3, -7.03333](https://www.google.com/maps/search/?api=1&query=17.3,-7.03333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oualata%20Old%20Ksar%2C%20Mauritania) |
+| 6 | [Diawling National Park](sights/diawling-national-park.yaml) | Park / reserve | **84.75** | **Wildlife 9.2**, **Nature 9.0**, **Photography 8.7** | 8.4 / 8.6 / 8.8 / 8.3 / 8.0 | [16.3669, -16.3831](https://www.google.com/maps/search/?api=1&query=16.3669,-16.3831) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Diawling%20National%20Park%2C%20Mauritania) |
+| 7 | [Ben Amera Monolith](sights/ben-amera.yaml) | Attraction | **84.55** | **Photography 9.2**, **Nature 9.0** | 8.9 / 9.1 / 7.8 / 8.2 / 7.2 | [21.23003, -13.66437](https://www.google.com/maps/search/?api=1&query=21.23003,-13.66437) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ben%20Amera%20Monolith%2C%20Mauritania) |
+| 8 | [Tichitt Old Ksar](sights/tichitt-old-ksar.yaml) | Attraction | **84.50** | **History 9.1**, **Architecture 9.0** | 8.3 / 9.0 / 9.0 / 7.8 / 7.4 | [18.41944, -9.46917](https://www.google.com/maps/search/?api=1&query=18.41944,-9.46917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tichitt%20Old%20Ksar%2C%20Mauritania) |
+| 9 | [Terjit Oasis](sights/terjit-oasis.yaml) | Attraction | **82.50** | **Nature 8.8**, **Photography 8.8**, **Relaxation 8.6** | 8.6 / 8.6 / 7.4 / 8.6 / 7.5 | [20.2466, -13.0869](https://www.google.com/maps/search/?api=1&query=20.2466,-13.0869) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Terjit%20Oasis%2C%20Mauritania) |
+| 10 | [Cap Blanc Seal Reserve](sights/cap-blanc-seal-reserve.yaml) | Attraction | **82.20** | **Wildlife 9.2**, **Nature 8.5** | 7.7 / 8.9 / 9.1 / 7.7 / 7.1 | [20.77028, -17.07944](https://www.google.com/maps/search/?api=1&query=20.77028,-17.07944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cap%20Blanc%20Seal%20Reserve%2C%20Mauritania) |
+| 11 | [Port de Pêche, Nouakchott](sights/port-de-peche.yaml) | Attraction | **78.60** | **Photography 8.7**, **Culture 8.5** | 8.1 / 8.3 / 7.3 / 7.9 / 7.1 | [18.102845, -16.025223](https://www.google.com/maps/search/?api=1&query=18.102845,-16.025223) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20de%20P%C3%AAche%2C%20Nouakchott%2C%20Mauritania) |
+| 12 | [Azougui Cultural Landscape](sights/azougui-cultural-landscape.yaml) | Coast | **77.30** | **History 8.8** | 7.3 / 8.1 / 8.6 / 7.5 / 6.7 | [20.5682, -13.1104](https://www.google.com/maps/search/?api=1&query=20.5682,-13.1104) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Azougui%20Cultural%20Landscape%2C%20Mauritania) |
+| 13 | [Awleigatt National Park](sights/awleigatt-national-park.yaml) | Park / reserve | **73.70** | **Nature 7.8**, **Wildlife 7.8** | 7.1 / 7.2 / 7.6 / 7.8 / 7.5 | [17.877083, -15.509583](https://www.google.com/maps/search/?api=1&query=17.877083,-15.509583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Awleigatt%20National%20Park%2C%20Mauritania) |
 
-## Not yet fully assessed (7)
+## Not yet fully assessed (4)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Awleigatt National Park](sights/awleigatt-national-park.yaml) | Park / reserve | **—** | **Nature 7.8**, Wildlife unassessed | — / 7.2 / 7.6 / — / — | [17.877083, -15.509583](https://www.google.com/maps/search/?api=1&query=17.877083,-15.509583) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Awleigatt%20National%20Park%2C%20Mauritania) |
 | — | [Chat Tboul Wetland](sights/chat-tboul-wetland.yaml) | Wetland | **—** | **Nature 8.6**, Wildlife unassessed | — / 8.3 / 8.8 / — / — | [16.55, -16.4](https://www.google.com/maps/search/?api=1&query=16.55,-16.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chat%20Tboul%20Wetland%2C%20Mauritania) |
 | — | [Kumbi Saleh Archaeological Site](sights/kumbi-saleh-archaeological-site.yaml) | Museum / heritage | **—** | **History 9.2** | — / 8.8 / 9.1 / — / — | [15.76569, -7.96854](https://www.google.com/maps/search/?api=1&query=15.76569,-7.96854) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kumbi%20Saleh%20Archaeological%20Site%2C%20Mauritania) |
 | — | [Lac Gabou and Tagant Wetlands](sights/lac-gabou-tagant-wetlands.yaml) | Wetland | **—** | **Nature 8.7**, Wildlife unassessed | — / 8.4 / 8.8 / — / — | [17.933333, -11.866667](https://www.google.com/maps/search/?api=1&query=17.933333,-11.866667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lac%20Gabou%20and%20Tagant%20Wetlands%2C%20Mauritania) |
-| — | [Oualata Old Ksar](sights/oualata-old-ksar.yaml) | Attraction | **—** | **Architecture 9.2**, **History 9.1** | 8.5 / 9.1 / 9.0 / — / — | [17.3, -7.03333](https://www.google.com/maps/search/?api=1&query=17.3,-7.03333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oualata%20Old%20Ksar%2C%20Mauritania) |
 | — | [Tegdaoust Archaeological Site (Aoudaghost)](sights/tegdaoust-archaeological-site.yaml) | Museum / heritage | **—** | **History 9.0** | — / 8.5 / 8.8 / — / — | [17.42323, -10.41035](https://www.google.com/maps/search/?api=1&query=17.42323,-10.41035) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tegdaoust%20Archaeological%20Site%20%28Aoudaghost%29%2C%20Mauritania) |
-| — | [Tichitt Old Ksar](sights/tichitt-old-ksar.yaml) | Attraction | **—** | **History 9.1**, **Architecture 9.0** | 8.3 / 9.0 / 9.0 / — / — | [18.41944, -9.46917](https://www.google.com/maps/search/?api=1&query=18.41944,-9.46917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tichitt%20Old%20Ksar%2C%20Mauritania) |
 
 ---
 

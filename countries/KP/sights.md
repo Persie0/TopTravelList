@@ -2,7 +2,7 @@
 
 # North Korea (KP) — Sights & attractions ranking
 
-**7 ranked** · **15 unassessed** · **22 total** · Worldwide scoring **v2**
+**11 ranked** · **11 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,19 +10,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (7)
+## Complete ranked list (11)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Mount Myohyang](sights/mount-myohyang.yaml) | Mountain / peak | **84.55** | **Nature 8.9**, **Culture 8.8**, **Photography 8.8** | 8.7 / 8.6 / 8.7 / 7.9 / 7.7 | [40.023333, 126.2825](https://www.google.com/maps/search/?api=1&query=40.023333,126.2825) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Myohyang%2C%20North%20Korea) |
-| 2 | [Pyongyang Metro (Approved Visitor Stations)](sights/pyongyang-metro.yaml) | Attraction | **81.25** | **Architecture 8.9**, **Culture 8.1** | 8.3 / 8.7 / 7.7 / 8.0 / 7.2 | [39.012, 125.734](https://www.google.com/maps/search/?api=1&query=39.012,125.734) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pyongyang%20Metro%20%28Approved%20Visitor%20Stations%29%2C%20North%20Korea) |
-| 3 | [Victorious Fatherland Liberation War Museum](sights/war-museum.yaml) | Museum / heritage | **80.90** | **History 8.7**, **Architecture 8.2** | 8.0 / 8.4 / 8.5 / 7.4 / 7.8 | [39.044, 125.736](https://www.google.com/maps/search/?api=1&query=39.044,125.736) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Victorious%20Fatherland%20Liberation%20War%20Museum%2C%20North%20Korea) |
-| 4 | [International Friendship Exhibition](sights/friendship-exhibition.yaml) | Attraction | **78.10** | **Architecture 8.0**, **History 7.9** | 7.8 / 8.4 / 7.7 / 7.2 / 7.5 | [40, 126.26](https://www.google.com/maps/search/?api=1&query=40,126.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=International%20Friendship%20Exhibition%2C%20North%20Korea) |
-| 5 | [Kim Il Sung Square](sights/kim-il-sung-square.yaml) | Park / square | **75.70** | **History 8.2**, **Architecture 8.0** | 7.6 / 7.8 / 8.0 / 7.4 / 6.3 | [39.019, 125.753](https://www.google.com/maps/search/?api=1&query=39.019,125.753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kim%20Il%20Sung%20Square%2C%20North%20Korea) |
-| 6 | [Wonsan-Kalma Coastal Resort](sights/wonsan-kalma.yaml) | Coast | **72.55** | **Beaches 8.2**, **Relaxation 7.9** | 7.8 / 7.1 / 6.3 / 7.8 / 7.1 | [39.174, 127.474](https://www.google.com/maps/search/?api=1&query=39.174,127.474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wonsan-Kalma%20Coastal%20Resort%2C%20North%20Korea) |
-| 7 | [Masikryong Ski Resort](sights/masikryong.yaml) | Attraction | **71.85** | **Adventure 8.1**, **Nature 7.7** | 7.5 / 7.1 / 6.0 / 8.0 / 7.6 | [39.06, 127.25](https://www.google.com/maps/search/?api=1&query=39.06,127.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Masikryong%20Ski%20Resort%2C%20North%20Korea) |
+| 1 | [Tomb of King Kongmin](sights/tomb-king-kongmin.yaml) | Museum / heritage | **84.80** | **History 9.0**, **Architecture 8.9** | 8.3 / 8.8 / 8.9 / 8.4 / 7.5 | [37.981, 126.456](https://www.google.com/maps/search/?api=1&query=37.981,126.456) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tomb%20of%20King%20Kongmin%2C%20North%20Korea) |
+| 2 | [Mount Myohyang](sights/mount-myohyang.yaml) | Mountain / peak | **84.55** | **Nature 8.9**, **Culture 8.8**, **Photography 8.8** | 8.7 / 8.6 / 8.7 / 7.9 / 7.7 | [40.023333, 126.2825](https://www.google.com/maps/search/?api=1&query=40.023333,126.2825) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Myohyang%2C%20North%20Korea) |
+| 3 | [Ryongmun Cavern and Songam Cave](sights/ryongmun-songam.yaml) | Cave | **84.45** | **Nature 8.8**, **Adventure 8.3** | 8.3 / 8.5 / 8.5 / 8.6 / 8.4 | [39.9, 126](https://www.google.com/maps/search/?api=1&query=39.9,126) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ryongmun%20Cavern%20and%20Songam%20Cave%2C%20North%20Korea) |
+| 4 | [Pohyon Temple](sights/pohyon-temple.yaml) | Religious site | **83.00** | **Architecture 8.8**, **History 8.8** | 8.1 / 8.4 / 8.6 / 8.4 / 7.9 | [40.015, 126.264](https://www.google.com/maps/search/?api=1&query=40.015,126.264) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pohyon%20Temple%2C%20North%20Korea) |
+| 5 | [Pyongyang Metro (Approved Visitor Stations)](sights/pyongyang-metro.yaml) | Attraction | **81.25** | **Architecture 8.9**, **Culture 8.1** | 8.3 / 8.7 / 7.7 / 8.0 / 7.2 | [39.012, 125.734](https://www.google.com/maps/search/?api=1&query=39.012,125.734) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pyongyang%20Metro%20%28Approved%20Visitor%20Stations%29%2C%20North%20Korea) |
+| 6 | [Victorious Fatherland Liberation War Museum](sights/war-museum.yaml) | Museum / heritage | **80.90** | **History 8.7**, **Architecture 8.2** | 8.0 / 8.4 / 8.5 / 7.4 / 7.8 | [39.044, 125.736](https://www.google.com/maps/search/?api=1&query=39.044,125.736) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Victorious%20Fatherland%20Liberation%20War%20Museum%2C%20North%20Korea) |
+| 7 | [Rimyongsu Falls](sights/rimyongsu-falls.yaml) | Waterfall | **78.45** | **Photography 8.6**, **Nature 8.5** | 8.1 / 8.1 / 7.5 / 8.0 / 6.9 | [41.83, 128.28](https://www.google.com/maps/search/?api=1&query=41.83,128.28) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rimyongsu%20Falls%2C%20North%20Korea) |
+| 8 | [International Friendship Exhibition](sights/friendship-exhibition.yaml) | Attraction | **78.10** | **Architecture 8.0**, **History 7.9** | 7.8 / 8.4 / 7.7 / 7.2 / 7.5 | [40, 126.26](https://www.google.com/maps/search/?api=1&query=40,126.26) | [Google Maps](https://www.google.com/maps/search/?api=1&query=International%20Friendship%20Exhibition%2C%20North%20Korea) |
+| 9 | [Kim Il Sung Square](sights/kim-il-sung-square.yaml) | Park / square | **75.70** | **History 8.2**, **Architecture 8.0** | 7.6 / 7.8 / 8.0 / 7.4 / 6.3 | [39.019, 125.753](https://www.google.com/maps/search/?api=1&query=39.019,125.753) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kim%20Il%20Sung%20Square%2C%20North%20Korea) |
+| 10 | [Wonsan-Kalma Coastal Resort](sights/wonsan-kalma.yaml) | Coast | **72.55** | **Beaches 8.2**, **Relaxation 7.9** | 7.8 / 7.1 / 6.3 / 7.8 / 7.1 | [39.174, 127.474](https://www.google.com/maps/search/?api=1&query=39.174,127.474) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wonsan-Kalma%20Coastal%20Resort%2C%20North%20Korea) |
+| 11 | [Masikryong Ski Resort](sights/masikryong.yaml) | Attraction | **71.85** | **Adventure 8.1**, **Nature 7.7** | 7.5 / 7.1 / 6.0 / 8.0 / 7.6 | [39.06, 127.25](https://www.google.com/maps/search/?api=1&query=39.06,127.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Masikryong%20Ski%20Resort%2C%20North%20Korea) |
 
-## Not yet fully assessed (15)
+## Not yet fully assessed (11)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -39,10 +43,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Mount Chilbo](sights/mount-chilbo.yaml) | Mountain / peak | **—** | **Nature 9.1**, **Photography 9.1** | 8.8 / 8.8 / 8.7 / — / — | [41.064444, 129.628889](https://www.google.com/maps/search/?api=1&query=41.064444,129.628889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Chilbo%2C%20North%20Korea) |
 | — | [Mount Kumgang – Diamond Mountain from the Sea](sights/mount-kumgang.yaml) | Mountain / peak | **—** | **Nature 9.2**, **Photography 9.2**, **Culture 8.9** | 9.0 / 9.0 / 9.0 / — / — | [38.660278, 128.1375](https://www.google.com/maps/search/?api=1&query=38.660278,128.1375) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Kumgang%20%E2%80%93%20Diamond%20Mountain%20from%20the%20Sea%2C%20North%20Korea) |
 | — | [Mount Paektu and Heaven Lake (DPRK side)](sights/paektu.yaml) | Lake | **—** | **Photography 9.4**, **Nature 9.3** | 9.3 / 9.1 / 9.0 / — / — | [42.006, 128.054](https://www.google.com/maps/search/?api=1&query=42.006,128.054) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Paektu%20and%20Heaven%20Lake%20%28DPRK%20side%29%2C%20North%20Korea) |
-| — | [Pohyon Temple](sights/pohyon-temple.yaml) | Religious site | **—** | **Architecture 8.8**, **History 8.8** | 8.1 / 8.4 / 8.6 / — / — | [40.015, 126.264](https://www.google.com/maps/search/?api=1&query=40.015,126.264) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pohyon%20Temple%2C%20North%20Korea) |
-| — | [Rimyongsu Falls](sights/rimyongsu-falls.yaml) | Waterfall | **—** | **Photography 8.6**, **Nature 8.5** | 8.1 / 8.1 / 7.5 / — / — | [41.83, 128.28](https://www.google.com/maps/search/?api=1&query=41.83,128.28) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rimyongsu%20Falls%2C%20North%20Korea) |
-| — | [Ryongmun Cavern and Songam Cave](sights/ryongmun-songam.yaml) | Cave | **—** | **Nature 8.8**, **Adventure 8.3** | 8.3 / 8.5 / 8.5 / — / — | [39.9, 126](https://www.google.com/maps/search/?api=1&query=39.9,126) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ryongmun%20Cavern%20and%20Songam%20Cave%2C%20North%20Korea) |
-| — | [Tomb of King Kongmin](sights/tomb-king-kongmin.yaml) | Museum / heritage | **—** | **History 9.0**, **Architecture 8.9** | 8.3 / 8.8 / 8.9 / — / — | [37.981, 126.456](https://www.google.com/maps/search/?api=1&query=37.981,126.456) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tomb%20of%20King%20Kongmin%2C%20North%20Korea) |
 
 ---
 

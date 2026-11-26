@@ -1156,3 +1156,5 @@
 ## Follow-up: screening and outstanding access gaps — 2026-11-25
 
 - Screened all 14 settlements and 57 sights; prior Al Ain serial-property correction and Burj Khalifa/Louvre retention remain. Ed-Dur remains unranked because current public access is not established; [UAE Travel Guide](https://uaetravelguide.ae/umm-al-quwain-travel-guide/ed-dur/) explicitly cautions that official heritage records do not establish a visitor route. Remaining uncertain visitor-scope profiles require named evidence before scoring. Targeted editorial review only, not complete independent factual or GPS verification.
+
+- [Dated worldwide reassessment pass 63 — 2026-11-26](worldwide-deferred-pass63-2026-11-26.md)

@@ -5,11 +5,11 @@ location:
   latitude: -47.1500
   longitude: -70.7000
 scores:
-  impact: null
+  impact: 9.1
   uniqueness: 9.1
   significance: 9.4
-  experience: null
-  depth: null
+  experience: 9.0
+  depth: 8.8
   categories:
     history: 9.5
     culture: 9.2

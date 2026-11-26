@@ -2,7 +2,7 @@
 
 # Senegal (SN) — Sights & attractions ranking
 
-**18 ranked** · **5 unassessed** · **23 total** · Worldwide scoring **v2**
+**20 ranked** · **3 unassessed** · **23 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (18)
+## Complete ranked list (20)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -30,10 +30,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 14 | [Wanar Stone Circles](sights/wanar-stone-circles.yaml) | Attraction | **84.55** | **History 9.2**, **Culture 8.8** | 8.2 / 8.9 / 9.1 / 8.0 / 7.5 | [13.856411, -15.617764](https://www.google.com/maps/search/?api=1&query=13.856411,-15.617764) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wanar%20Stone%20Circles%2C%20Senegal) |
 | 15 | [Lake Retba (Lac Rose)](sights/lake-retba.yaml) | Lake | **84.50** | **Photography 9.0**, **Nature 8.9**, **Culture 8.0** | 8.7 / 8.9 / 7.8 / 8.5 / 7.8 | [14.8383, -17.2448](https://www.google.com/maps/search/?api=1&query=14.8383,-17.2448) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Retba%20%28Lac%20Rose%29%2C%20Senegal) |
 | 16 | [African Renaissance Monument](sights/african-renaissance-monument.yaml) | Attraction | **84.35** | **Photography 8.9**, **Architecture 8.7** | 8.8 / 8.5 / 8.1 / 8.6 / 7.6 | [14.72222, -17.495](https://www.google.com/maps/search/?api=1&query=14.72222,-17.495) | [Google Maps](https://www.google.com/maps/search/?api=1&query=African%20Renaissance%20Monument%2C%20Senegal) |
-| 17 | [Carabane Island](sights/carabane-island.yaml) | Island | **83.30** | **History 8.8**, **Nature 8.5** | 8.1 / 8.5 / 8.6 / 8.3 / 8.1 | [12.488722, -16.548167](https://www.google.com/maps/search/?api=1&query=12.488722,-16.548167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Carabane%20Island%2C%20Senegal) |
-| 18 | [Dindéfelo Falls](sights/dindefelo-falls.yaml) | Waterfall | **81.30** | **Photography 8.8**, **Nature 8.7** | 8.5 / 8.1 / 7.6 / 8.5 / 7.6 | [12.3697, -12.3236](https://www.google.com/maps/search/?api=1&query=12.3697,-12.3236) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dind%C3%A9felo%20Falls%2C%20Senegal) |
+| 17 | [Madeleine Islands National Park](sights/madeleine-islands-national-park.yaml) | Park / reserve | **84.00** | **Nature 8.9**, **Wildlife 8.7** | 8.5 / 8.8 / 8.4 / 8.2 / 7.4 | [14.654722, -17.4725](https://www.google.com/maps/search/?api=1&query=14.654722,-17.4725) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Madeleine%20Islands%20National%20Park%2C%20Senegal) |
+| 18 | [Carabane Island](sights/carabane-island.yaml) | Island | **83.30** | **History 8.8**, **Nature 8.5** | 8.1 / 8.5 / 8.6 / 8.3 / 8.1 | [12.488722, -16.548167](https://www.google.com/maps/search/?api=1&query=12.488722,-16.548167) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Carabane%20Island%2C%20Senegal) |
+| 19 | [Dindéfelo Falls](sights/dindefelo-falls.yaml) | Waterfall | **81.30** | **Photography 8.8**, **Nature 8.7** | 8.5 / 8.1 / 7.6 / 8.5 / 7.6 | [12.3697, -12.3236](https://www.google.com/maps/search/?api=1&query=12.3697,-12.3236) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dind%C3%A9felo%20Falls%2C%20Senegal) |
+| 20 | [Old Rufisque](sights/old-rufisque.yaml) | Attraction | **79.50** | **History 8.7**, **Architecture 8.4** | 7.7 / 8.1 / 8.5 / 7.7 / 7.6 | [14.684194, -17.186639](https://www.google.com/maps/search/?api=1&query=14.684194,-17.186639) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Rufisque%2C%20Senegal) |
 
-## Not yet fully assessed (5)
+## Not yet fully assessed (3)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -41,8 +43,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Aéropostale Heritage](sights/aeropostale-heritage.yaml) | Attraction | **—** | **History 8.9** | — / 8.4 / 8.7 / — / — | [16.018056, -16.490472](https://www.google.com/maps/search/?api=1&query=16.018056,-16.490472) | [Google Maps](https://www.google.com/maps/search/?api=1&query=A%C3%A9ropostale%20Heritage%2C%20Senegal) |
 | — | [Cekeen Burial Mounds](sights/cekeen-tumuli.yaml) | Attraction | **—** | **History 9.0** | — / 8.6 / 8.9 / — / — | [14.7, -15.95](https://www.google.com/maps/search/?api=1&query=14.7,-15.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cekeen%20Burial%20Mounds%2C%20Senegal) |
-| — | [Madeleine Islands National Park](sights/madeleine-islands-national-park.yaml) | Park / reserve | **—** | **Nature 8.9**, **Wildlife 8.7** | 8.5 / 8.8 / 8.4 / — / — | [14.654722, -17.4725](https://www.google.com/maps/search/?api=1&query=14.654722,-17.4725) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Madeleine%20Islands%20National%20Park%2C%20Senegal) |
-| — | [Old Rufisque](sights/old-rufisque.yaml) | Attraction | **—** | **History 8.7**, **Architecture 8.4** | 7.7 / 8.1 / 8.5 / — / — | [14.684194, -17.186639](https://www.google.com/maps/search/?api=1&query=14.684194,-17.186639) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Old%20Rufisque%2C%20Senegal) |
 | — | [Senegal River Historic Trading Posts](sights/senegal-river-trading-posts.yaml) | River / waterway | **—** | **History 9.1** | — / 8.7 / 9.0 / — / — | [16.617, -15.033](https://www.google.com/maps/search/?api=1&query=16.617,-15.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Senegal%20River%20Historic%20Trading%20Posts%2C%20Senegal) |
 
 ---

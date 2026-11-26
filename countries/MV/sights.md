@@ -2,7 +2,7 @@
 
 # Maldives (MV) — Sights & attractions ranking
 
-**40 ranked** · **2 unassessed** · **42 total** · Worldwide scoring **v2**
+**41 ranked** · **1 unassessed** · **42 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (40)
+## Complete ranked list (41)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -46,23 +46,23 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 30 | [Dhadimagi Kilhi](sights/dhadimagi-kilhi.yaml) | Attraction | **78.80** | **Nature 8.7**, **Photography 8.2**, **Wildlife 8.0** | 7.6 / 8.4 / 8.1 / 7.8 / 7.1 | [-0.28, 73.424](https://www.google.com/maps/search/?api=1&query=-0.28,73.424) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dhadimagi%20Kilhi%2C%20Maldives) |
 | 31 | [Bandaara Kilhi](sights/bandaara-kilhi.yaml) | Attraction | **78.00** | **Nature 8.6**, **Photography 8.2**, **Wildlife 7.9** | 7.5 / 8.3 / 8.1 / 7.7 / 7.0 | [-0.308, 73.433](https://www.google.com/maps/search/?api=1&query=-0.308,73.433) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bandaara%20Kilhi%2C%20Maldives) |
 | 32 | [Islamic Centre and Grand Friday Mosque](sights/islamic-centre-and-grand-friday-mosque.yaml) | Religious site | **76.80** | **Architecture 8.4**, **Culture 8.3** | 7.8 / 7.7 / 7.9 / 7.7 / 6.8 | [4.1779, 73.51](https://www.google.com/maps/search/?api=1&query=4.1779,73.51) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Islamic%20Centre%20and%20Grand%20Friday%20Mosque%2C%20Maldives) |
-| 33 | [Gulhi Bikini Beach](sights/gulhi-bikini-beach.yaml) | Beach / bay | **74.80** | **Beaches 8.8**, **Relaxation 8.8**, **Photography 8.5** | 8.1 / 7.7 / 5.9 / 8.5 / 6.7 | [3.992, 73.51](https://www.google.com/maps/search/?api=1&query=3.992,73.51) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gulhi%20Bikini%20Beach%2C%20Maldives) |
-| 34 | [Gan RAF Heritage Remains](sights/gan-raf-heritage-remains.yaml) | Attraction | **74.15** | **History 8.6**, **Culture 7.7** | 6.9 / 7.8 / 8.2 / 7.1 / 6.9 | [-0.692, 73.154](https://www.google.com/maps/search/?api=1&query=-0.692,73.154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gan%20RAF%20Heritage%20Remains%2C%20Maldives) |
-| 35 | [Male Fish Market](sights/male-fish-market.yaml) | Market | **72.55** | **Culture 8.2**, **Food 7.9** | 7.0 / 7.6 / 7.1 / 7.9 / 6.5 | [4.179, 73.508](https://www.google.com/maps/search/?api=1&query=4.179,73.508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Male%20Fish%20Market%2C%20Maldives) |
-| 36 | [Maafushi Bikini Beach](sights/maafushi-bikini-beach.yaml) | Beach / bay | **71.40** | **Beaches 8.4**, **Relaxation 8.3** | 7.7 / 7.2 / 5.7 / 8.2 / 6.6 | [3.945, 73.49](https://www.google.com/maps/search/?api=1&query=3.945,73.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maafushi%20Bikini%20Beach%2C%20Maldives) |
-| 37 | [Hulhumale Beach](sights/hulhumale-beach.yaml) | Beach / bay | **69.70** | **Beaches 8.2**, **Relaxation 8.1** | 7.4 / 6.9 / 5.7 / 7.9 / 7.0 | [4.222, 73.547](https://www.google.com/maps/search/?api=1&query=4.222,73.547) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hulhumale%20Beach%2C%20Maldives) |
-| 38 | [Male Local Market](sights/male-local-market.yaml) | Market | **68.95** | **Food 7.9**, **Culture 7.6** | 6.8 / 7.0 / 6.5 / 7.7 / 6.5 | [4.1788, 73.507](https://www.google.com/maps/search/?api=1&query=4.1788,73.507) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Male%20Local%20Market%2C%20Maldives) |
-| 39 | [Sultan Park](sights/sultan-park.yaml) | Park / square | **67.15** | **Relaxation 7.9**, **History 7.3** | 6.6 / 6.4 / 6.8 / 7.5 / 6.5 | [4.1774, 73.5111](https://www.google.com/maps/search/?api=1&query=4.1774,73.5111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sultan%20Park%2C%20Maldives) |
-| 40 | [Artificial Beach (Male)](sights/artificial-beach-male.yaml) | Beach / bay | **61.65** | **Relaxation 7.4**, **Beaches 7.3** | 6.3 / 6.2 / 5.2 / 7.3 / 5.9 | [4.174, 73.518](https://www.google.com/maps/search/?api=1&query=4.174,73.518) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Artificial%20Beach%20%28Male%29%2C%20Maldives) |
+| 33 | [Kuruhinna Tharaagandu Buddhist Ruins (Kaashidhoo)](sights/kuruhinna-tharaagandu-buddhist-ruins-kaashidhoo.yaml) | Museum / heritage | **75.70** | **History 9.1** | 6.8 / 8.4 / 8.8 / 6.8 / 6.5 | [4.96, 73.468](https://www.google.com/maps/search/?api=1&query=4.96,73.468) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuruhinna%20Tharaagandu%20Buddhist%20Ruins%20%28Kaashidhoo%29%2C%20Maldives) |
+| 34 | [Gulhi Bikini Beach](sights/gulhi-bikini-beach.yaml) | Beach / bay | **74.80** | **Beaches 8.8**, **Relaxation 8.8**, **Photography 8.5** | 8.1 / 7.7 / 5.9 / 8.5 / 6.7 | [3.992, 73.51](https://www.google.com/maps/search/?api=1&query=3.992,73.51) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gulhi%20Bikini%20Beach%2C%20Maldives) |
+| 35 | [Gan RAF Heritage Remains](sights/gan-raf-heritage-remains.yaml) | Attraction | **74.15** | **History 8.6**, **Culture 7.7** | 6.9 / 7.8 / 8.2 / 7.1 / 6.9 | [-0.692, 73.154](https://www.google.com/maps/search/?api=1&query=-0.692,73.154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gan%20RAF%20Heritage%20Remains%2C%20Maldives) |
+| 36 | [Male Fish Market](sights/male-fish-market.yaml) | Market | **72.55** | **Culture 8.2**, **Food 7.9** | 7.0 / 7.6 / 7.1 / 7.9 / 6.5 | [4.179, 73.508](https://www.google.com/maps/search/?api=1&query=4.179,73.508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Male%20Fish%20Market%2C%20Maldives) |
+| 37 | [Maafushi Bikini Beach](sights/maafushi-bikini-beach.yaml) | Beach / bay | **71.40** | **Beaches 8.4**, **Relaxation 8.3** | 7.7 / 7.2 / 5.7 / 8.2 / 6.6 | [3.945, 73.49](https://www.google.com/maps/search/?api=1&query=3.945,73.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maafushi%20Bikini%20Beach%2C%20Maldives) |
+| 38 | [Hulhumale Beach](sights/hulhumale-beach.yaml) | Beach / bay | **69.70** | **Beaches 8.2**, **Relaxation 8.1** | 7.4 / 6.9 / 5.7 / 7.9 / 7.0 | [4.222, 73.547](https://www.google.com/maps/search/?api=1&query=4.222,73.547) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hulhumale%20Beach%2C%20Maldives) |
+| 39 | [Male Local Market](sights/male-local-market.yaml) | Market | **68.95** | **Food 7.9**, **Culture 7.6** | 6.8 / 7.0 / 6.5 / 7.7 / 6.5 | [4.1788, 73.507](https://www.google.com/maps/search/?api=1&query=4.1788,73.507) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Male%20Local%20Market%2C%20Maldives) |
+| 40 | [Sultan Park](sights/sultan-park.yaml) | Park / square | **67.15** | **Relaxation 7.9**, **History 7.3** | 6.6 / 6.4 / 6.8 / 7.5 / 6.5 | [4.1774, 73.5111](https://www.google.com/maps/search/?api=1&query=4.1774,73.5111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sultan%20Park%2C%20Maldives) |
+| 41 | [Artificial Beach (Male)](sights/artificial-beach-male.yaml) | Beach / bay | **61.65** | **Relaxation 7.4**, **Beaches 7.3** | 6.3 / 6.2 / 5.2 / 7.3 / 5.9 | [4.174, 73.518](https://www.google.com/maps/search/?api=1&query=4.174,73.518) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Artificial%20Beach%20%28Male%29%2C%20Maldives) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Gen Miskiy (Fuvahmulah)](sights/gen-miskiy-fuvahmulah.yaml) | Attraction | **—** | **History 8.6**, **Architecture 8.4** | — / 8.3 / 8.3 / — / — | [-0.288, 73.427](https://www.google.com/maps/search/?api=1&query=-0.288,73.427) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gen%20Miskiy%20%28Fuvahmulah%29%2C%20Maldives) |
-| — | [Kuruhinna Tharaagandu Buddhist Ruins (Kaashidhoo)](sights/kuruhinna-tharaagandu-buddhist-ruins-kaashidhoo.yaml) | Museum / heritage | **—** | **History 9.1** | — / 8.4 / 8.8 / — / — | [4.96, 73.468](https://www.google.com/maps/search/?api=1&query=4.96,73.468) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kuruhinna%20Tharaagandu%20Buddhist%20Ruins%20%28Kaashidhoo%29%2C%20Maldives) |
 
 ---
 

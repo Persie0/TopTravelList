@@ -2,7 +2,7 @@
 
 # Eritrea (ER) — Cities, towns & villages ranking
 
-**10 ranked** · **3 unassessed** · **13 total** · Worldwide scoring **v2**
+**12 ranked** · **1 unassessed** · **13 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,30 +10,30 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (10)
+## Complete ranked list (12)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Asmara](cities/asmara.yaml) | City / town | **90.55** | **Architecture 9.6**, **History 9.3**, **Culture 8.8**, Food 8.2 | 9.0 / 9.4 / 9.3 / 8.5 / 8.7 | [15.335278, 38.935833](https://www.google.com/maps/search/?api=1&query=15.335278,38.935833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Asmara%2C%20Eritrea) |
 | 2 | [Massawa](cities/massawa.yaml) | City / town | **84.20** | **History 9.1**, **Architecture 9.0**, **Culture 8.5** | 8.4 / 8.7 / 8.8 / 7.9 / 7.8 | [15.6032, 39.4637](https://www.google.com/maps/search/?api=1&query=15.6032,39.4637) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Massawa%2C%20Eritrea) |
 | 3 | [Keren](cities/keren.yaml) | City / town | **78.25** | **Culture 8.7**, **History 8.4**, **Food 8.0** | 7.6 / 8.1 / 8.0 / 8.0 / 7.2 | [15.7805, 38.4536](https://www.google.com/maps/search/?api=1&query=15.7805,38.4536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Keren%2C%20Eritrea) |
-| 4 | [Dekemhare](cities/dekemhare.yaml) | City / town | **72.05** | **Architecture 8.3**, **History 8.2** | 6.7 / 7.8 / 7.7 / 7.1 / 6.4 | [15.06832, 39.04817](https://www.google.com/maps/search/?api=1&query=15.06832,39.04817) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dekemhare%2C%20Eritrea) |
-| 5 | [Ghinda](cities/ghinda.yaml) | City / town | **69.45** | **Photography 7.8**, **Culture 7.7** | 6.6 / 7.4 / 7.0 / 7.3 / 6.2 | [15.45, 39.08](https://www.google.com/maps/search/?api=1&query=15.45,39.08) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghinda%2C%20Eritrea) |
-| 6 | [Adi Keyh](cities/adi-keyh.yaml) | City / town | **69.40** | **History 8.0**, **Culture 7.9** | 6.5 / 7.4 / 7.4 / 7.0 / 6.1 | [14.8444444, 39.3772222](https://www.google.com/maps/search/?api=1&query=14.8444444,39.3772222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Adi%20Keyh%2C%20Eritrea) |
-| 7 | [Mendefera](cities/mendefera.yaml) | City / town | **68.80** | **Culture 7.9**, **History 7.8** | 6.4 / 7.3 / 7.2 / 7.1 / 6.3 | [14.89, 38.82](https://www.google.com/maps/search/?api=1&query=14.89,38.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mendefera%2C%20Eritrea) |
-| 8 | [Nefasit](cities/nefasit.yaml) | City / town | **68.00** | **Photography 7.8**, **Culture 7.6** | 6.4 / 7.3 / 7.0 / 7.1 / 5.9 | [15.33354, 39.0637](https://www.google.com/maps/search/?api=1&query=15.33354,39.0637) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nefasit%2C%20Eritrea) |
-| 9 | [Barentu](cities/barentu.yaml) | City / town | **65.70** | **Culture 7.7** | 6.0 / 7.1 / 6.8 / 6.9 / 6.0 | [15.11, 37.59](https://www.google.com/maps/search/?api=1&query=15.11,37.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barentu%2C%20Eritrea) |
-| 10 | [Foro](cities/foro.yaml) | City / town | **65.05** | **History 7.6**, **Culture 7.4** | 5.9 / 7.0 / 7.0 / 6.7 / 5.8 | [15.26303, 39.62239](https://www.google.com/maps/search/?api=1&query=15.26303,39.62239) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Foro%2C%20Eritrea) |
+| 4 | [Assab](cities/assab.yaml) | City / town | **74.90** | **History 8.3**, **Culture 7.9** | 7.3 / 7.7 / 7.8 / 7.5 / 6.9 | [13.009, 42.739](https://www.google.com/maps/search/?api=1&query=13.009,42.739) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Assab%2C%20Eritrea) |
+| 5 | [Senafe](cities/senafe.yaml) | City / town | **73.35** | **History 8.5**, **Culture 8.1** | 7.2 / 7.6 / 8.0 / 6.9 / 6.4 | [14.7, 39.42](https://www.google.com/maps/search/?api=1&query=14.7,39.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Senafe%2C%20Eritrea) |
+| 6 | [Dekemhare](cities/dekemhare.yaml) | City / town | **72.05** | **Architecture 8.3**, **History 8.2** | 6.7 / 7.8 / 7.7 / 7.1 / 6.4 | [15.06832, 39.04817](https://www.google.com/maps/search/?api=1&query=15.06832,39.04817) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dekemhare%2C%20Eritrea) |
+| 7 | [Ghinda](cities/ghinda.yaml) | City / town | **69.45** | **Photography 7.8**, **Culture 7.7** | 6.6 / 7.4 / 7.0 / 7.3 / 6.2 | [15.45, 39.08](https://www.google.com/maps/search/?api=1&query=15.45,39.08) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ghinda%2C%20Eritrea) |
+| 8 | [Adi Keyh](cities/adi-keyh.yaml) | City / town | **69.40** | **History 8.0**, **Culture 7.9** | 6.5 / 7.4 / 7.4 / 7.0 / 6.1 | [14.8444444, 39.3772222](https://www.google.com/maps/search/?api=1&query=14.8444444,39.3772222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Adi%20Keyh%2C%20Eritrea) |
+| 9 | [Mendefera](cities/mendefera.yaml) | City / town | **68.80** | **Culture 7.9**, **History 7.8** | 6.4 / 7.3 / 7.2 / 7.1 / 6.3 | [14.89, 38.82](https://www.google.com/maps/search/?api=1&query=14.89,38.82) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mendefera%2C%20Eritrea) |
+| 10 | [Nefasit](cities/nefasit.yaml) | City / town | **68.00** | **Photography 7.8**, **Culture 7.6** | 6.4 / 7.3 / 7.0 / 7.1 / 5.9 | [15.33354, 39.0637](https://www.google.com/maps/search/?api=1&query=15.33354,39.0637) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nefasit%2C%20Eritrea) |
+| 11 | [Barentu](cities/barentu.yaml) | City / town | **65.70** | **Culture 7.7** | 6.0 / 7.1 / 6.8 / 6.9 / 6.0 | [15.11, 37.59](https://www.google.com/maps/search/?api=1&query=15.11,37.59) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barentu%2C%20Eritrea) |
+| 12 | [Foro](cities/foro.yaml) | City / town | **65.05** | **History 7.6**, **Culture 7.4** | 5.9 / 7.0 / 7.0 / 6.7 / 5.8 | [15.26303, 39.62239](https://www.google.com/maps/search/?api=1&query=15.26303,39.62239) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Foro%2C%20Eritrea) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Assab](cities/assab.yaml) | City / town | **—** | **History 8.3**, **Culture 7.9** | — / 7.7 / 7.8 / — / — | [13.009, 42.739](https://www.google.com/maps/search/?api=1&query=13.009,42.739) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Assab%2C%20Eritrea) |
 | — | [Nakfa](cities/nakfa.yaml) | City / town | **—** | **History 9.0**, **Culture 8.3** | — / 8.0 / 8.6 / — / — | [16.6656, 38.4768](https://www.google.com/maps/search/?api=1&query=16.6656,38.4768) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nakfa%2C%20Eritrea) |
-| — | [Senafe](cities/senafe.yaml) | City / town | **—** | **History 8.5**, **Culture 8.1** | — / 7.6 / 8.0 / — / — | [14.7, 39.42](https://www.google.com/maps/search/?api=1&query=14.7,39.42) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Senafe%2C%20Eritrea) |
 
 ---
 
