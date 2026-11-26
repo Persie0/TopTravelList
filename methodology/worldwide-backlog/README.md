@@ -5,12 +5,12 @@ A complete numeric rating is not proof of independent fact-checking.
 Historical dispositions are retained verbatim; overlapping scopes still require editorial review.
 
 - Current source records: **16,269**
-- Complete core ratings: **15,285**
-- All incomplete core ratings: **984**
-- Original inventory resolved: **606 / 1,590**
-- Original inventory still incomplete: **984**
+- Complete core ratings: **15,300**
+- All incomplete core ratings: **969**
+- Original inventory resolved: **621 / 1,590**
+- Original inventory still incomplete: **969**
 - Incomplete outside original inventory: **0**
-- Complete records historically labeled deferred or retain unranked: **515**
+- Complete records historically labeled deferred or retain unranked: **530**
 
 Use [remaining.tsv](remaining.tsv) as the current research queue.
 Use [original-inventory.tsv](original-inventory.tsv) to reconcile historical labels.
@@ -53,7 +53,6 @@ The latter does not change historical review decisions or certify public access.
 | KZ | 10 |
 | NG | 10 |
 | TD | 10 |
-| MG | 9 |
 | TJ | 9 |
 | TK | 9 |
 | CI | 8 |
@@ -64,9 +63,9 @@ The latter does not change historical review decisions or certify public access.
 | PW | 8 |
 | UM | 8 |
 | BJ | 7 |
-| CY | 7 |
 | FR | 7 |
 | IT | 7 |
+| MG | 7 |
 | AE | 6 |
 | AZ | 6 |
 | CG | 6 |
@@ -75,7 +74,7 @@ The latter does not change historical review decisions or certify public access.
 | ET | 6 |
 | TF | 6 |
 | TZ | 6 |
-| ZA | 6 |
+| CY | 5 |
 | GY | 5 |
 | IO | 5 |
 | KI | 5 |
@@ -87,7 +86,6 @@ The latter does not change historical review decisions or certify public access.
 | ZM | 5 |
 | CR | 4 |
 | EH | 4 |
-| ES | 4 |
 | GD | 4 |
 | IS | 4 |
 | KW | 4 |
@@ -116,7 +114,6 @@ The latter does not change historical review decisions or certify public access.
 | UZ | 3 |
 | VE | 3 |
 | VU | 3 |
-| WS | 3 |
 | ZW | 3 |
 | AS | 2 |
 | BO | 2 |
@@ -124,7 +121,6 @@ The latter does not change historical review decisions or certify public access.
 | BW | 2 |
 | BZ | 2 |
 | CK | 2 |
-| EE | 2 |
 | FJ | 2 |
 | FM | 2 |
 | GT | 2 |
@@ -140,6 +136,7 @@ The latter does not change historical review decisions or certify public access.
 | NI | 2 |
 | NR | 2 |
 | SL | 2 |
+| WS | 2 |
 | AG | 1 |
 | AI | 1 |
 | AM | 1 |
@@ -157,6 +154,7 @@ The latter does not change historical review decisions or certify public access.
 | CX | 1 |
 | DJ | 1 |
 | DZ | 1 |
+| ES | 1 |
 | FI | 1 |
 | GH | 1 |
 | GM | 1 |
@@ -189,33 +187,34 @@ The latter does not change historical review decisions or certify public access.
 | TT | 1 |
 | WF | 1 |
 | YT | 1 |
+| ZA | 1 |
 
 ## Missing scoring fields
 
 | Dimension | Missing |
 | --- | ---: |
-| depth | 977 |
-| experience | 984 |
-| impact | 679 |
-| significance | 89 |
-| uniqueness | 167 |
+| depth | 962 |
+| experience | 969 |
+| impact | 673 |
+| significance | 88 |
+| uniqueness | 166 |
 
 ## Original batches
 
 | Batch | Complete now | Incomplete now |
 | --- | ---: | ---: |
-| worldwide-incomplete-batch-100-2026-11-26.md | 41 | 59 |
+| worldwide-incomplete-batch-100-2026-11-26.md | 44 | 56 |
 | worldwide-incomplete-batch-100-pass10-2026-11-26.md | 70 | 30 |
 | worldwide-incomplete-batch-100-pass11-2026-11-26.md | 47 | 53 |
 | worldwide-incomplete-batch-100-pass12-2026-11-26.md | 30 | 70 |
 | worldwide-incomplete-batch-100-pass13-2026-11-26.md | 70 | 30 |
-| worldwide-incomplete-batch-100-pass14-2026-11-26.md | 33 | 67 |
+| worldwide-incomplete-batch-100-pass14-2026-11-26.md | 35 | 65 |
 | worldwide-incomplete-batch-100-pass15-2026-11-26.md | 39 | 61 |
-| worldwide-incomplete-batch-100-pass16-2026-11-26.md | 15 | 85 |
-| worldwide-incomplete-batch-100-pass17-2026-11-26.md | 8 | 92 |
+| worldwide-incomplete-batch-100-pass16-2026-11-26.md | 18 | 82 |
+| worldwide-incomplete-batch-100-pass17-2026-11-26.md | 10 | 90 |
 | worldwide-incomplete-batch-100-pass18-2026-11-26.md | 39 | 61 |
-| worldwide-incomplete-batch-100-pass19-2026-11-26.md | 24 | 76 |
-| worldwide-incomplete-batch-100-pass20-2026-11-26.md | 35 | 65 |
+| worldwide-incomplete-batch-100-pass19-2026-11-26.md | 28 | 72 |
+| worldwide-incomplete-batch-100-pass20-2026-11-26.md | 36 | 64 |
 | worldwide-incomplete-batch-100-pass21-2026-11-26.md | 31 | 69 |
 | worldwide-incomplete-batch-100-pass22-2026-11-26.md | 66 | 34 |
 | worldwide-incomplete-batch-100-pass9-2026-11-26.md | 21 | 79 |

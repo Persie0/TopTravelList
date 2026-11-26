@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15285; unassessed: 984.
+Ranked: 15300; unassessed: 969.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 755 |
+| conflicting-declared-status | 769 |
 | evidence-review | 13662 |
-| field-9.5-plus | 2122 |
+| field-9.5-plus | 2123 |
 | historical-review-only | 2516 |
-| incomplete-core | 984 |
+| incomplete-core | 969 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1880 |
+| overall-90-plus | 1886 |
 | overall-95-plus | 164 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -135,7 +135,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CX | cities | 1 | 1 | 80.25 | 0 | 0 | 0 | 1 | [Flying Fish Cove (The Settlement)](../../countries/CX/cities/flying-fish-cove.yaml) 80.25 |
 | CX | sights | 11 | 10 | 82.50 | 1 | 0 | 1 | 11 | [Christmas Island red crab migration (seasonal viewing)](../../countries/CX/sights/red-crab-migration.yaml) 94.15; [The Dales (Hughs Dale and Anderson Dale trails)](../../countries/CX/sights/the-dales.yaml) 88.50; [Flying Fish Cove beach and shore reef](../../countries/CX/sights/flying-fish-cove-reef.yaml) 85.05 |
 | CY | cities | 16 | 16 | 77.02 | 0 | 0 | 0 | 16 | [Famagusta (Gazimağusa)](../../countries/CY/cities/famagusta.yaml) 84.30; [Nicosia](../../countries/CY/cities/nicosia.yaml) 83.55; [Paphos](../../countries/CY/cities/paphos.yaml) 82.55 |
-| CY | sights | 38 | 31 | 83.15 | 0 | 0 | 0 | 38 | [Paphos (World Heritage Property)](../../countries/CY/sights/paphos-unesco.yaml) 89.15; [Kato Paphos Archaeological Park](../../countries/CY/sights/kato-paphos.yaml) 88.65; [Painted Churches in the Troodos Region](../../countries/CY/sights/painted-churches.yaml) 87.70 |
+| CY | sights | 38 | 33 | 83.15 | 0 | 0 | 0 | 38 | [Paphos (World Heritage Property)](../../countries/CY/sights/paphos-unesco.yaml) 89.15; [Kato Paphos Archaeological Park](../../countries/CY/sights/kato-paphos.yaml) 88.65; [Painted Churches in the Troodos Region](../../countries/CY/sights/painted-churches.yaml) 87.70 |
 | CZ | cities | 61 | 61 | 79.40 | 1 | 0 | 1 | 61 | [Prague](../../countries/CZ/cities/prague.yaml) 94.35; [Cesky Krumlov](../../countries/CZ/cities/cesky-krumlov.yaml) 89.60; [Kutna Hora](../../countries/CZ/cities/kutna-hora.yaml) 87.20 |
 | CZ | sights | 145 | 145 | 86.05 | 11 | 0 | 6 | 145 | [Prague Castle](../../countries/CZ/sights/prague-castle.yaml) 94.55; [Prague Historic Centre](../../countries/CZ/sights/prague-historic-centre.yaml) 94.25; [St Vitus Cathedral](../../countries/CZ/sights/st-vitus-cathedral.yaml) 92.85 |
 | DE | cities | 30 | 30 | 87.90 | 3 | 0 | 3 | 30 | [Berlin](../../countries/DE/cities/berlin.yaml) 93.00; [Dresden](../../countries/DE/cities/dresden.yaml) 91.05; [Hamburg](../../countries/DE/cities/hamburg.yaml) 90.05 |
@@ -153,7 +153,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | EC | cities | 36 | 36 | 71.52 | 1 | 0 | 0 | 36 | [Quito](../../countries/EC/cities/quito.yaml) 90.35; [Cuenca](../../countries/EC/cities/cuenca.yaml) 87.85; [Otavalo](../../countries/EC/cities/otavalo.yaml) 82.40 |
 | EC | sights | 55 | 55 | 84.80 | 8 | 1 | 12 | 55 | [Galápagos Islands (World Heritage property)](../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) 98.00; [Historic Centre of Quito](../../countries/EC/sights/historic-centre-of-quito.yaml) 92.50; [Yasuní National Park](../../countries/EC/sights/yasuni-national-park.yaml) 91.85 |
 | EE | cities | 15 | 15 | 74.15 | 0 | 0 | 0 | 15 | [Tallinn](../../countries/EE/cities/tallinn.yaml) 89.95; [Tartu](../../countries/EE/cities/tartu.yaml) 82.10; [Kuressaare](../../countries/EE/cities/kuressaare.yaml) 80.80 |
-| EE | sights | 42 | 40 | 82.42 | 1 | 0 | 0 | 42 | [Historic Centre (Old Town) of Tallinn](../../countries/EE/sights/tallinn-old-town.yaml) 91.65; [Soomaa National Park](../../countries/EE/sights/soomaa-national-park.yaml) 87.50; [Seaplane Harbour Maritime Museum](../../countries/EE/sights/seaplane-harbour.yaml) 87.25 |
+| EE | sights | 42 | 42 | 82.60 | 1 | 0 | 0 | 42 | [Historic Centre (Old Town) of Tallinn](../../countries/EE/sights/tallinn-old-town.yaml) 91.65; [Soomaa National Park](../../countries/EE/sights/soomaa-national-park.yaml) 87.50; [Seaplane Harbour Maritime Museum](../../countries/EE/sights/seaplane-harbour.yaml) 87.25 |
 | EG | cities | 10 | 10 | 82.70 | 2 | 0 | 2 | 10 | [Cairo](../../countries/EG/cities/cairo.yaml) 92.90; [Luxor](../../countries/EG/cities/luxor.yaml) 92.15; [Alexandria](../../countries/EG/cities/alexandria.yaml) 87.50 |
 | EG | sights | 35 | 35 | 92.65 | 24 | 9 | 25 | 35 | [Giza Pyramid Plateau and Great Sphinx](../../countries/EG/sights/giza-plateau.yaml) 98.35; [Karnak Temple Complex](../../countries/EG/sights/karnak.yaml) 98.10; [Ancient Thebes and its Necropolis UNESCO Property](../../countries/EG/sights/ancient-thebes-property.yaml) 97.90 |
 | EH | cities | 4 | 3 | 74.15 | 0 | 0 | 0 | 4 | [Dakhla](../../countries/EH/cities/dakhla.yaml) 76.30; [Laâyoune (El Aaiún)](../../countries/EH/cities/laayoune.yaml) 74.15; [Boujdour](../../countries/EH/cities/boujdour.yaml) 68.40 |
@@ -161,7 +161,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | ER | cities | 13 | 12 | 70.75 | 1 | 0 | 1 | 13 | [Asmara](../../countries/ER/cities/asmara.yaml) 90.55; [Massawa](../../countries/ER/cities/massawa.yaml) 84.20; [Keren](../../countries/ER/cities/keren.yaml) 78.25 |
 | ER | sights | 30 | 25 | 80.35 | 1 | 0 | 2 | 30 | [Asmara Modernist Historic Urban Ensemble](../../countries/ER/sights/asmara-modernist-historic-urban-ensemble.yaml) 92.75; [Qoahito Cultural Landscape](../../countries/ER/sights/qoahito-cultural-landscape.yaml) 88.20; [Dahlak Archipelago (authorized visitor waters)](../../countries/ER/sights/dahlak-archipelago-authorized-visitor-waters.yaml) 87.30 |
 | ES | cities | 22 | 22 | 88.58 | 7 | 1 | 8 | 22 | [Barcelona](../../countries/ES/cities/barcelona.yaml) 95.20; [Madrid](../../countries/ES/cities/madrid.yaml) 92.85; [Seville](../../countries/ES/cities/seville.yaml) 92.70 |
-| ES | sights | 113 | 109 | 89.65 | 45 | 4 | 49 | 113 | [Alhambra and Generalife palaces and gardens](../../countries/ES/sights/alhambra.yaml) 96.15; [Alhambra Generalife and Albayzín](../../countries/ES/sights/alhambra-ensemble.yaml) 95.40; [Mosque-Cathedral of Córdoba](../../countries/ES/sights/mezquita.yaml) 95.00 |
+| ES | sights | 113 | 112 | 89.58 | 45 | 4 | 49 | 113 | [Alhambra and Generalife palaces and gardens](../../countries/ES/sights/alhambra.yaml) 96.15; [Alhambra Generalife and Albayzín](../../countries/ES/sights/alhambra-ensemble.yaml) 95.40; [Mosque-Cathedral of Córdoba](../../countries/ES/sights/mezquita.yaml) 95.00 |
 | ET | cities | 8 | 8 | 80.28 | 0 | 0 | 0 | 8 | [Harar](../../countries/ET/cities/harar.yaml) 88.30; [Addis Ababa](../../countries/ET/cities/addis-ababa.yaml) 85.30; [Gondar](../../countries/ET/cities/gondar.yaml) 82.20 |
 | ET | sights | 23 | 17 | 89.90 | 8 | 2 | 9 | 23 | [Rock-Hewn Churches, Lalibela](../../countries/ET/sights/rock-hewn-churches-lalibela.yaml) 97.40; [Simien National Park](../../countries/ET/sights/simien-national-park.yaml) 95.10; [Bale Mountains National Park](../../countries/ET/sights/bale-mountains-national-park.yaml) 93.85 |
 | FI | cities | 19 | 19 | 79.95 | 0 | 0 | 0 | 19 | [Helsinki](../../countries/FI/cities/helsinki.yaml) 88.45; [Porvoo](../../countries/FI/cities/porvoo.yaml) 84.30; [Tampere](../../countries/FI/cities/tampere.yaml) 84.05 |
@@ -309,7 +309,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MF | cities | 2 | 2 | 78.65 | 0 | 0 | 0 | 2 | [Grand Case](../../countries/MF/cities/grand-case.yaml) 78.70; [Marigot](../../countries/MF/cities/marigot.yaml) 78.60 |
 | MF | sights | 10 | 10 | 79.72 | 0 | 0 | 0 | 10 | [Île Tintamarre](../../countries/MF/sights/tintamarre.yaml) 86.55; [Îlet Pinel](../../countries/MF/sights/pinel-island.yaml) 85.65; [Rocher Créole (permitted marine viewing)](../../countries/MF/sights/creole-rock.yaml) 83.35 |
 | MG | cities | 6 | 6 | 79.18 | 0 | 0 | 0 | 6 | [Antananarivo](../../countries/MG/cities/antananarivo.yaml) 86.40; [Fianarantsoa](../../countries/MG/cities/fianarantsoa.yaml) 83.35; [Antsiranana](../../countries/MG/cities/antsiranana.yaml) 79.25 |
-| MG | sights | 29 | 20 | 90.28 | 11 | 1 | 11 | 29 | [Tsingy de Bemaraha National Park](../../countries/MG/sights/tsingy-de-bemaraha.yaml) 96.15; [Marojejy National Park](../../countries/MG/sights/marojejy.yaml) 92.85; [Masoala National Park](../../countries/MG/sights/masoala.yaml) 92.60 |
+| MG | sights | 29 | 22 | 90.25 | 12 | 1 | 11 | 29 | [Tsingy de Bemaraha National Park](../../countries/MG/sights/tsingy-de-bemaraha.yaml) 96.15; [Marojejy National Park](../../countries/MG/sights/marojejy.yaml) 92.85; [Masoala National Park](../../countries/MG/sights/masoala.yaml) 92.60 |
 | MH | cities | 11 | 7 | 70.25 | 0 | 0 | 0 | 11 | [Likiep Village](../../countries/MH/cities/likiep.yaml) 73.80; [Majuro (Delap-Uliga-Djarrit)](../../countries/MH/cities/majuro.yaml) 71.80; [Wotje Village](../../countries/MH/cities/wotje.yaml) 71.55 |
 | MH | sights | 22 | 10 | 76.75 | 1 | 0 | 1 | 22 | [Bikini Atoll Nuclear Test Site](../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml) 90.95; [Jaluit Atoll Conservation Area](../../countries/MH/sights/jaluit-atoll-conservation-area.yaml) 82.45; [Arno Atoll](../../countries/MH/sights/arno-atoll.yaml) 79.35 |
 | MK | cities | 14 | 14 | 77.20 | 0 | 0 | 0 | 14 | [Ohrid](../../countries/MK/cities/ohrid.yaml) 89.70; [Skopje](../../countries/MK/cities/skopje.yaml) 83.15; [Bitola](../../countries/MK/cities/bitola.yaml) 82.30 |
@@ -513,7 +513,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | WF | cities | 4 | 4 | 75.78 | 0 | 0 | 0 | 4 | [Mataʻutu (Wallis)](../../countries/WF/cities/mata-utu.yaml) 81.20; [Leava (Futuna)](../../countries/WF/cities/leava.yaml) 76.60; [Ono (Futuna)](../../countries/WF/cities/ono.yaml) 74.95 |
 | WF | sights | 14 | 13 | 83.00 | 0 | 0 | 0 | 14 | [Wallis lagoon and permitted motu excursions](../../countries/WF/sights/wallis-lagoon.yaml) 87.50; [Alofi beach, forest and sacred Loka Cave](../../countries/WF/sights/alofi-loka.yaml) 87.45; [Talietumu royal residence and Kolonui fortifications](../../countries/WF/sights/talietumu.yaml) 87.00 |
 | WS | cities | 6 | 6 | 67.85 | 0 | 0 | 0 | 6 | [Apia](../../countries/WS/cities/apia.yaml) 78.15; [Lalomanu Village](../../countries/WS/cities/lalomanu.yaml) 69.75; [Mulifanua](../../countries/WS/cities/mulifanua.yaml) 68.95 |
-| WS | sights | 22 | 19 | 79.65 | 0 | 0 | 0 | 22 | [To Sua Ocean Trench](../../countries/WS/sights/to-sua-ocean-trench.yaml) 85.60; [O Le Pupū Puē National Park](../../countries/WS/sights/o-le-pupu-pue-national-park.yaml) 85.30; [Fagaloa Bay–Uafato Tiavea Conservation Zone](../../countries/WS/sights/fagaloa-bay-uafato-tiavea-conservation-zone.yaml) 84.70 |
+| WS | sights | 22 | 20 | 79.35 | 0 | 0 | 0 | 22 | [To Sua Ocean Trench](../../countries/WS/sights/to-sua-ocean-trench.yaml) 85.60; [O Le Pupū Puē National Park](../../countries/WS/sights/o-le-pupu-pue-national-park.yaml) 85.30; [Fagaloa Bay–Uafato Tiavea Conservation Zone](../../countries/WS/sights/fagaloa-bay-uafato-tiavea-conservation-zone.yaml) 84.70 |
 | XK | cities | 20 | 20 | 71.08 | 0 | 0 | 0 | 20 | [Prizren](../../countries/XK/cities/prizren.yaml) 87.00; [Pristina](../../countries/XK/cities/pristina.yaml) 80.95; [Gjakova](../../countries/XK/cities/gjakova.yaml) 80.90 |
 | XK | sights | 38 | 38 | 81.12 | 3 | 0 | 3 | 38 | [Visoki Dečani Monastery](../../countries/XK/sights/visoki-decani-monastery.yaml) 91.00; [Patriarchate of Peć Monastery](../../countries/XK/sights/patriarchate-of-pec-monastery.yaml) 90.50; [Bjeshkët e Nemuna National Park](../../countries/XK/sights/bjeshket-e-nemuna-national-park.yaml) 90.30 |
 | YE | cities | 10 | 2 | 70.22 | 0 | 0 | 0 | 10 | [Qalansiyah](../../countries/YE/cities/qalansiyah.yaml) 72.75; [Hadibo](../../countries/YE/cities/hadibo.yaml) 67.70 |
@@ -521,7 +521,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | YT | cities | 2 | 2 | 76.00 | 0 | 0 | 0 | 2 | [Dzaoudzi (historic town)](../../countries/YT/cities/dzaoudzi.yaml) 77.60; [Mamoudzou](../../countries/YT/cities/mamoudzou.yaml) 74.40 |
 | YT | sights | 10 | 9 | 84.65 | 0 | 0 | 0 | 10 | [Passe en S (Longogori)](../../countries/YT/sights/passe-en-s.yaml) 89.65; [N’Gouja Beach and Seagrass Visitor Area](../../countries/YT/sights/ngouja.yaml) 86.85; [Dziani Dzaha Crater Lake](../../countries/YT/sights/dziani-dzaha.yaml) 86.50 |
 | ZA | cities | 12 | 12 | 81.38 | 1 | 0 | 1 | 12 | [Cape Town](../../countries/ZA/cities/cape-town.yaml) 93.30; [Johannesburg](../../countries/ZA/cities/johannesburg.yaml) 84.55; [Stellenbosch](../../countries/ZA/cities/stellenbosch.yaml) 84.20 |
-| ZA | sights | 31 | 25 | 90.05 | 14 | 1 | 13 | 31 | [Kruger National Park](../../countries/ZA/sights/kruger-national-park.yaml) 95.80; [Maloti-Drakensberg Park (South African sector)](../../countries/ZA/sights/maloti-drakensberg-south-africa.yaml) 93.90; [Table Mountain Summit and Slopes](../../countries/ZA/sights/table-mountain.yaml) 93.40 |
+| ZA | sights | 31 | 30 | 90.20 | 19 | 1 | 14 | 31 | [Kruger National Park](../../countries/ZA/sights/kruger-national-park.yaml) 95.80; [Cape Floral Region Protected Areas (UNESCO aggregate)](../../countries/ZA/sights/cape-floral-region.yaml) 94.40; [Maloti-Drakensberg Park (South African sector)](../../countries/ZA/sights/maloti-drakensberg-south-africa.yaml) 93.90 |
 | ZM | cities | 5 | 4 | 74.12 | 0 | 0 | 0 | 5 | [Livingstone](../../countries/ZM/cities/livingstone.yaml) 80.20; [Lusaka](../../countries/ZM/cities/lusaka.yaml) 76.30; [Ndola](../../countries/ZM/cities/ndola.yaml) 71.95 |
 | ZM | sights | 20 | 16 | 89.95 | 8 | 1 | 6 | 20 | [Mosi-oa-Tunya / Victoria Falls (Zambian side)](../../countries/ZM/sights/victoria-falls.yaml) 96.75; [South Luangwa National Park](../../countries/ZM/sights/south-luangwa-national-park.yaml) 94.65; [Lower Zambezi National Park](../../countries/ZM/sights/lower-zambezi-national-park.yaml) 94.10 |
 | ZW | cities | 6 | 6 | 77.38 | 0 | 0 | 0 | 6 | [Bulawayo](../../countries/ZW/cities/bulawayo.yaml) 81.95; [Harare](../../countries/ZW/cities/harare.yaml) 80.55; [Victoria Falls (city)](../../countries/ZW/cities/victoria-falls.yaml) 77.65 |
