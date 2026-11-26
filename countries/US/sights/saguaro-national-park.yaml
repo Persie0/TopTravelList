@@ -1,0 +1,16 @@
+id: sight-us-saguaro-national-park
+name: "Saguaro National Park"
+location:
+  country_code: US
+  latitude: 32.209096
+  longitude: -110.757497
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.3

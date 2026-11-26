@@ -28,10 +28,22 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] US — Wind Cave National Park: 85.25/100 (source-linked, full verification pending)
 - [x] US — Mount Rushmore National Memorial: 85.75/100 (source-linked, full verification pending)
 
+- [x] US — Black Canyon of the Gunnison National Park: 87.45/100 (source-linked, full verification pending)
+- [x] US — Channel Islands National Park: 87.70/100 (source-linked, full verification pending)
+- [x] US — Dry Tortugas National Park: 87.90/100 (source-linked, full verification pending)
+- [x] US — Great Basin National Park: 86.60/100 (source-linked, full verification pending)
+- [x] US — Kings Canyon National Park: 88.35/100 (source-linked, full verification pending)
+- [x] US — Lassen Volcanic National Park: 88.25/100 (source-linked, full verification pending)
+- [x] US — Saguaro National Park: 86.15/100 (source-linked, full verification pending)
+- [x] US — Jewel Cave National Monument: 86.25/100 (source-linked, full verification pending)
+- [x] US — Monument Valley Navajo Tribal Park: 91.15/100 (source-linked, full verification pending)
+- [x] US — Alcatraz Island: 88.35/100 (source-linked, full verification pending)
+- [x] US — Golden Gate Bridge: 88.95/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
-- [ ] US: Black Canyon of the Gunnison; Channel Islands; Dry Tortugas; Great Basin; Kings Canyon; Lassen Volcanic; Saguaro; Monument Valley; Upper Antelope Canyon; Nā Pali Coast; Waimea Canyon; Big Sur.
-- [ ] US further park review: Jewel Cave National Monument ([NPS aerial inventory and coordinate](https://www.nps.gov/articles/parks-in-space.htm), absent from current US ranking); Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
+- [ ] US: Upper Antelope Canyon; Nā Pali Coast; Waimea Canyon; Big Sur.
+- [ ] US further park review: Valles Caldera National Preserve (caldera, wildlife and hiking; [NPS published coordinates](https://www.nps.gov/articles/parks-in-space.htm), [hiking](https://www.nps.gov/vall/planyourvisit/hiking.htm); no existing US ranking row); Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
 - [ ] CA: Auyuittuq; Bruce Peninsula; Cape Breton Highlands; Fundy; Mingan Archipelago; Pacific Rim; Sable Island; Thousand Islands; Torngat Mountains; Wapusk; Hopewell Rocks; Churchill wildlife experiences; Bay of Fundy visitor coastline.
 - [ ] CA further park review: Akami-Uapishk–KakKasuak–Mealy Mountains; Aulavik; Elk Island; Forillon; Georgian Bay Islands; Glacier; Grasslands; Gulf Islands; Kejimkujik; Kouchibouguac; La Mauricie; Mount Revelstoke; Nááts'įhch'oh; Point Pelee; Prince Albert; Prince Edward Island; Pukaskwa; Qausuittuq; Riding Mountain; Terra Nova; Thaidene Nëné; Tuktut Nogait; Ukkusiksalik. [Parks Canada](https://www.parks.canada.ca/pn-np).
 - [ ] AU: Karijini, Wilsons Promontory, Freycinet/Wineglass Bay, Flinders Chase, Kalbarri, Grampians/Gariwerd, Whitehaven Beach, Whitsundays, Phillip Island Penguin Parade, kunanyi, Rottnest, Cable Beach, Blue Lake Mount Gambier.
@@ -45,7 +57,7 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 ## Outstanding cultural and urban coverage
 
 - [ ] All 20 source-supported candidates and wider country queues in [pass 3](missing-sights-audit-pass3-2026-11-26.md).
-- [ ] US: Alcatraz, Golden Gate Bridge, Kennedy Space Center, Empire State Building, National Mall, Hoover Dam, Times Square, Space Needle, Las Vegas Strip, individual Disney/Universal parks, Niagara Falls US side.
+- [ ] US: Kennedy Space Center, Empire State Building, National Mall, Hoover Dam, Times Square, Space Needle, Las Vegas Strip, individual Disney/Universal parks, Niagara Falls US side.
 - [ ] CA: Capilano, Parliament Hill, Toronto Islands, Old Montreal, Notre-Dame Basilica.
 - [ ] EG: Cairo Citadel, Muhammad Ali Mosque, Al-Azhar, Dahab Blue Hole; MA: Jemaa el-Fnaa, Chefchaouen individual attractions; RO: Peleș Castle; RU: Catherine Palace, Saint Isaac's Cathedral; GB: White Cliffs of Dover, Buckingham Palace, Harry Potter Studio Tour; FR: Disneyland Paris, Les Baux castle; DE: Rakotzbrücke; IT: Blue Grotto; PT: Oceanário, National Tile Museum; PS: Church of Nativity; IL/PS: Western Wall (resolve geographic registry convention first).
 - [ ] PA: Casco Viejo exact scope; PR: Old San Juan vs fortifications; MP: Banzai Cliff; IR: Shahdad Kaluts vs Lut Desert; MS: Soufrière Hills visitor scope; PH: Banaue rice terraces alias/component scope.
@@ -58,4 +70,4 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for twenty-one additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for thirty-two additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.

@@ -2881,3 +2881,388 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Approved 10 registry: none.
 - Final decision: provisional editorial V2 rating. Earlier decision: none.
 - Verification still needed: independently corroborate visitor scope, coordinate and claims; verify current access before travel.
+
+
+### sight-us-black-canyon-of-the-gunnison-national-park — Black Canyon of the Gunnison National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Both canyon rims offer viewpoints and walks above a steep river gorge. The published park GPS is representative. [Visitor information](https://www.nps.gov/blca/planyourvisit/things2do.htm), search excerpts inspected 2026-11-26.
+- Location check: 38.577799, -107.724276; [published reference](https://www.recreation.gov/gateways/2592). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater scale and geological breadth |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | More turquoise-water scenery and river recreation |
+| [NA/fish-river-canyon](../../../countries/NA/sights/fish-river-canyon.yaml) | Greater extensive arid canyon scale |
+| [IS/studlagil](../../../countries/IS/sights/studlagil.yaml) | Smaller, more specialized basalt canyon |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Dramatic steep gorge |
+| uniqueness | 8.8 | Narrow dark-walled canyon is distinctive but has analogues |
+| significance | 8.5 | Substantial geological interest |
+| experience | 8.7 | Overlooks and trails complement each other |
+| depth | 8.4 | Limited district variety compared with large multi-landscape parks |
+
+- Applicable categories: nature:9.1, photography:9.2, adventure:8.7.
+- Computed worldwide overall: 87.45/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-channel-islands-national-park — Channel Islands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/channel-islands-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Island trails, kayaking, snorkeling and birdwatching; the five-island national park rather than the entire California archipelago. Published park GPS. [Visitor information](https://www.nps.gov/chis/planyourvisit/things2do.htm), search excerpts inspected 2026-11-26.
+- Location check: 33.986801, -119.911273; [published reference](https://www.recreation.gov/gateways/2631). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/great-barrier-reef](../../../countries/AU/sights/great-barrier-reef.yaml) | Much greater reef scale and biodiversity |
+| [VN/con-dao-national-park](../../../countries/VN/sights/con-dao-national-park.yaml) | Comparable land and marine mix with tropical contrast |
+| [KR/hallyeohaesang-national-park](../../../countries/KR/sights/hallyeohaesang-national-park.yaml) | More scattered coastal islands and viewpoints |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More accessible mainland coastal walking |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Cliffs and marine landscapes |
+| uniqueness | 8.8 | Distinctive island and marine ecosystem combination |
+| significance | 8.8 | Important protected island habitats |
+| experience | 8.8 | Complementary land and water activities |
+| depth | 8.8 | Several islands provide exploration breadth |
+
+- Applicable categories: nature:9.0, wildlife:9.0, adventure:8.9, photography:8.8.
+- Computed worldwide overall: 87.70/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-dry-tortugas-national-park — Dry Tortugas National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/dry-tortugas-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Fort Jefferson and surrounding marine habitats offer heritage and snorkeling experiences. Score entire park, not merely the fort. Published park GPS. [Visitor information](https://www.nps.gov/drto/planyourvisit/swimming-snorkeling-and-diving.htm), search excerpts inspected 2026-11-26.
+- Location check: 24.628741, -82.87319; [published reference](https://www.recreation.gov/gateways/2665). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/great-barrier-reef](../../../countries/AU/sights/great-barrier-reef.yaml) | Much greater underwater scale |
+| [VN/con-dao-national-park](../../../countries/VN/sights/con-dao-national-park.yaml) | Broader island forests and trails |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | Greater wetland ecosystem breadth |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More land-based coastal trail variety |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Fort and sea contrast |
+| uniqueness | 9.0 | Unusual offshore fort and marine combination |
+| significance | 8.8 | Maritime history and marine conservation |
+| experience | 8.8 | Snorkeling and fort exploration |
+| depth | 8.2 | Limited land scope with marine depth |
+
+- Applicable categories: nature:9.0, history:8.7, photography:9.1, adventure:8.7.
+- Computed worldwide overall: 87.90/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-great-basin-national-park — Great Basin National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/great-basin-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Alpine lake trails, ancient bristlecone groves, Wheeler Peak and Lehman Caves (https://www.nps.gov/grba/planyourvisit/visiting-in-fall.htm). Published park GPS. [Visitor information](https://www.nps.gov/grba/planyourvisit/wheeler-peak-scenic-drive-trails.htm), search excerpts inspected 2026-11-26.
+- Location check: 38.946174, -114.257978; [published reference](https://www.recreation.gov/gateways/2732). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | Greater alpine scenery and road network |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More pronounced glacial peaks |
+| [VN/phong-nha-ke-bang-national-park](../../../countries/VN/sights/phong-nha-ke-bang-national-park.yaml) | Stronger cave-system breadth |
+| [GB/cairngorms](../../../countries/GB/sights/cairngorms.yaml) | Comparable mountain exploration without the same cave and pine combination |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.5 | Appealing mountain scenery |
+| uniqueness | 8.8 | Unusual old-tree and cave combination |
+| significance | 8.7 | Geological and ecological interest |
+| experience | 8.6 | Mountain walks and guided cave options |
+| depth | 8.8 | Multiple environments add variety |
+
+- Applicable categories: nature:8.9, adventure:8.7, photography:8.7.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-kings-canyon-national-park — Kings Canyon National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/kings-canyon-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Cedar Grove river trails and routes up the canyon rims; exclude adjacent Sequoia National Park. GPS is Cedar Grove Visitor Center, not joint-park centroid. Grant Grove and Cedar Grove are identified as Kings Canyon areas at https://www.nps.gov/seki/planyourvisit/wherecani.htm. [Visitor information](https://www.nps.gov/seki/planyourvisit/cedar-grove.htm), search excerpts inspected 2026-11-26.
+- Location check: 36.79096, -118.671135; [published reference](https://www.nps.gov/planyourvisit/event-details.htm?id=9F04079E-C0BA-BD6D-46224225CE8B67BB). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/yosemite-national-park](../../../countries/US/sights/yosemite-national-park.yaml) | More iconic valley and granite landmarks |
+| [US/sequoia-national-park](../../../countries/US/sights/sequoia-national-park.yaml) | Stronger giant-tree focus |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More concentrated glacial peaks |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | More lush canyon scenery and different geology |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Deep mountain canyon relief |
+| uniqueness | 8.7 | Distinctive but Sierra landscapes have analogues |
+| significance | 8.7 | Natural geological and ecological merit |
+| experience | 8.8 | River trails and wilderness walks |
+| depth | 9.0 | Multiple areas and extensive exploration |
+
+- Applicable categories: nature:9.2, photography:9.1, adventure:9.0.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-lassen-volcanic-national-park — Lassen Volcanic National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/lassen-volcanic-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Volcanic peaks, lakes, meadows and hydrothermal features such as fumaroles and mud pots (https://www.nps.gov/lavo/planyourvisit/exploring-the-hydrothermal-areas.htm). Published park GPS. [Visitor information](https://www.nps.gov/lavo/planyourvisit/hiking_lassen_park.htm), search excerpts inspected 2026-11-26.
+- Location check: 40.493546, -121.407599; [published reference](https://www.recreation.gov/gateways/2803). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/yellowstone-national-park](../../../countries/US/sights/yellowstone-national-park.yaml) | Much greater geothermal breadth and scale |
+| [IS/vatnajokull](../../../countries/IS/sights/vatnajokull.yaml) | More exceptional ice-volcano landscapes |
+| [PT/furnas](../../../countries/PT/sights/furnas.yaml) | More concentrated thermal valley experience |
+| [KR/hallasan-national-park](../../../countries/KR/sights/hallasan-national-park.yaml) | Comparable volcanic mountain hiking without the same hydrothermal variety |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Volcanic relief and steaming features |
+| uniqueness | 8.9 | Varied volcanic landscapes |
+| significance | 8.8 | Geological merit |
+| experience | 8.8 | Trails connect distinct volcanic and alpine settings |
+| depth | 8.8 | Multiple feature types and walking routes |
+
+- Applicable categories: nature:9.1, photography:8.9, adventure:8.8.
+- Computed worldwide overall: 88.25/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-saguaro-national-park — Saguaro National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/saguaro-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Cactus-dominated scenery, scenic loops, trails and the Signal Hill petroglyph area. Published park GPS represents one point for a two-district park. [Visitor information](https://www.nps.gov/sagu/planyourvisit/outdooractivities.htm), search excerpts inspected 2026-11-26.
+- Location check: 32.209096, -110.757497; [published reference](https://www.recreation.gov/gateways/2917). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/joshua-tree-national-park](../../../countries/US/sights/joshua-tree-national-park.yaml) | Different iconic desert vegetation and boulder scenery |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | More dramatic desert landform range |
+| [NA/sossusvlei](../../../countries/NA/sights/sossusvlei.yaml) | More globally striking dune formations |
+| [ZA/kgalagadi-south-africa](../../../countries/ZA/sights/kgalagadi-south-africa.yaml) | More extensive wildlife-focused arid landscapes |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.5 | Iconic cactus silhouettes |
+| uniqueness | 8.8 | Giant saguaro landscapes stand out internationally |
+| significance | 8.6 | Desert ecology and rock-art interest |
+| experience | 8.7 | Scenic loops and hikes |
+| depth | 8.4 | Two districts but narrower landscape range than flagship desert parks |
+
+- Applicable categories: nature:8.9, photography:9.0, adventure:8.3.
+- Computed worldwide overall: 86.15/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-jewel-cave-national-monument — Jewel Cave National Monument — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/jewel-cave-national-monument.yaml)
+- Action: new
+- Precise subject and factual basis: Guided routes showcase calcite crystal formations; underground access is guided only (https://www.nps.gov/thingstodo/guided-cave-tours.htm). NPS published aerial representative point. [Visitor information](https://www.nps.gov/jeca/planyourvisit/scenictour.htm), search excerpts inspected 2026-11-26.
+- Location check: 43.731029, -103.829994; [published reference](https://www.nps.gov/articles/parks-in-space.htm). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/mammoth-cave](../../../countries/US/sights/mammoth-cave.yaml) | Greater passage scale and historical breadth |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | More dramatic chamber-scale scenery |
+| [VN/paradise-cave](../../../countries/VN/sights/paradise-cave.yaml) | More expansive show-cave formations |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | Different, highly specialized luminous experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.5 | Crystal-lined chambers |
+| uniqueness | 8.9 | Distinctive calcite deposits |
+| significance | 8.8 | Large cave system has geological value |
+| experience | 8.4 | Guided routes offer meaningful access |
+| depth | 8.3 | Visitor routes cover a limited portion of system |
+
+- Applicable categories: nature:8.9, adventure:8.5, photography:8.6.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-monument-valley-navajo-tribal-park — Monument Valley Navajo Tribal Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml)
+- Action: new
+- Precise subject and factual basis: Navajo-managed park with sandstone formations, scenic loop and local vendors; published Navajo Nation GPS. Score tribal park, not wider region. [Visitor information](https://navajonationparks.org/where-to-go/monument-valley/), search excerpts inspected 2026-11-26.
+- Location check: 37.00414, -110.09889; [published reference](https://navajonationparks.org/where-to-go/monument-valley/). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | Greater desert exploration breadth and cultural depth |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater canyon scale and scientific breadth |
+| [AU/purnululu-national-park](../../../countries/AU/sights/purnululu-national-park.yaml) | Different unusual sandstone towers |
+| [NA/sossusvlei](../../../countries/NA/sights/sossusvlei.yaml) | Comparable iconic desert visuals but dune rather than butte formations |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.4 | Distinctive monumental desert skyline |
+| uniqueness | 9.3 | Recognizable butte ensemble with few close analogues |
+| significance | 8.8 | Natural landscape and Navajo cultural context |
+| experience | 9.0 | Scenic drive and guided visits |
+| depth | 8.6 | Strong route-based exploration, narrower scope than major desert parks |
+
+- Applicable categories: nature:9.3, photography:9.4, culture:8.8, adventure:8.7.
+- Computed worldwide overall: 91.15/100.
+- High-score challenge: no field/category 9.5+; outstanding skyline and distinctiveness support 90+, but not a world-leading anchor.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-alcatraz-island — Alcatraz Island — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/alcatraz-island.yaml)
+- Action: new
+- Precise subject and factual basis: Cellhouse audio interpretation and history of Indigenous occupation (https://www.nps.gov/alca/occupations.htm). GPS published for an island event; representative on-island point. [Visitor information](https://www.nps.gov/thingstodo/tour-the-cellhouse.htm), search excerpts inspected 2026-11-26.
+- Location check: 37.827735, -122.424818; [published reference](https://www.nps.gov/planyourvisit/event-details.htm?id=AEB798DF-C5F8-8A02-813833263B3853F7). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ZA/robben-island](../../../countries/ZA/sights/robben-island.yaml) | Stronger global anti-apartheid significance |
+| [VN/hoa-lo-prison](../../../countries/VN/sights/hoa-lo-prison.yaml) | Comparable prison interpretation in urban setting |
+| [VN/con-dao-prison-complex](../../../countries/VN/sights/con-dao-prison-complex.yaml) | Broader detention site network |
+| [KR/seodaemun-prison-history-hall](../../../countries/KR/sights/seodaemun-prison-history-hall.yaml) | Stronger national independence movement context |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Memorable island prison setting |
+| uniqueness | 9.0 | Unusual isolation and layered history |
+| significance | 9.0 | Important incarceration and Indigenous activism history |
+| experience | 9.1 | Strong interpretive experience |
+| depth | 8.4 | Multiple themes within compact island |
+
+- Applicable categories: history:9.2, culture:8.9, photography:8.7.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-golden-gate-bridge — Golden Gate Bridge — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/golden-gate-bridge.yaml)
+- Action: new
+- Precise subject and factual basis: Bridge walking and visitor interpretation; score structure and immediate visit, not whole bay. Bridge authority's DMS coordinate converted to decimal (37°49′8.0″ N, 122°28′40.6″ W). [Visitor information](https://www.goldengate.org/bridge/visiting-the-bridge/), search excerpts inspected 2026-11-26.
+- Location check: 37.818889, -122.477944; [published reference](https://www.goldengate.org/faq/). Representative point rather than guaranteed entry point.
+- Evidence status: **source-linked-unverified**; official source excerpts and published GPS inspected. Full source-page and independent corroboration outstanding.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Comparable landmark with distinctive arch and climb experience |
+| [GB/forth-bridge](../../../countries/GB/sights/forth-bridge.yaml) | Exceptional railway engineering, different design |
+| [US/brooklyn-bridge](../../../countries/US/sights/brooklyn-bridge.yaml) | Older suspension bridge and strong urban context |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Earlier industrial engineering significance, less dramatic visual scale |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Iconic span across dramatic strait |
+| uniqueness | 9.0 | Recognizable design with suspension bridge analogues |
+| significance | 9.0 | Important engineering and cultural landmark |
+| experience | 8.7 | Walking and interpretation reward a visit |
+| depth | 7.8 | Single structure limits exploration breadth |
+
+- Applicable categories: architecture:9.3, photography:9.4, history:8.9.
+- Computed worldwide overall: 88.95/100.
+- High-score challenge: no field/category 9.5+; below 90 overall.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independently corroborate claims and location; check current access before visiting.
