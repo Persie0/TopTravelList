@@ -592,11 +592,11 @@ countries/IR/sights/masouleh-heritage.yaml	sight-ir-masouleh-heritage	Historical
 countries/IR/sights/maybod-heritage.yaml	sight-ir-maybod-heritage	Historical City of Maybod	IR	sights		complete	85.45	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/maymand-landscape.yaml	sight-ir-maymand-landscape	Cultural Landscape of Maymand	IR	sights		complete	86.45	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/naqsh-e-jahan.yaml	sight-ir-naqsh-e-jahan	Meidan Emam (Naqsh-e Jahan Square)	IR	sights		complete	91.90	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/persian-caravanserai.yaml	sight-ir-persian-caravanserai	The Persian Caravanserai	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/persian-caravanserai.yaml	sight-ir-persian-caravanserai	The Persian Caravanserai	IR	sights		complete	87.50	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/persian-garden.yaml	sight-ir-persian-garden	The Persian Garden	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/persian-qanat.yaml	sight-ir-persian-qanat	The Persian Qanat	IR	sights		complete	85.55	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/sassanid-fars.yaml	sight-ir-sassanid-fars	Sassanid Archaeological Landscape of Fars Region	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/shah-cheragh.yaml	sight-ir-shah-cheragh	Shah Cheragh Shrine	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/sassanid-fars.yaml	sight-ir-sassanid-fars	Sassanid Archaeological Landscape of Fars Region	IR	sights		complete	89.05	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/shah-cheragh.yaml	sight-ir-shah-cheragh	Shah Cheragh Shrine	IR	sights		complete	88.55	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/shahr-i-sokhta.yaml	sight-ir-shahr-i-sokhta	Shahr-i Sokhta (Burnt City)	IR	sights		complete	83.75	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/shushtar.yaml	sight-ir-shushtar	Shushtar Historical Hydraulic System	IR	sights		complete	90.25	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/soltaniyeh.yaml	sight-ir-soltaniyeh	Soltaniyeh	IR	sights		complete	89.95	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
@@ -605,9 +605,9 @@ countries/IR/sights/tabriz-bazaar.yaml	sight-ir-tabriz-bazaar	Tabriz Historic Ba
 countries/IR/sights/takht-e-soleyman.yaml	sight-ir-takht-e-soleyman	Takht-e Soleyman	IR	sights		complete	89.00	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/tape-sialk.yaml	sight-ir-tape-sialk	Tape Sialk	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/taq-e-bostan.yaml	sight-ir-taq-e-bostan	Taq-e Bostan	IR	sights		complete	87.90	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/trans-iranian-railway.yaml	sight-ir-trans-iranian-railway	Trans-Iranian Railway	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/trans-iranian-railway.yaml	sight-ir-trans-iranian-railway	Trans-Iranian Railway	IR	sights		complete	87.80	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/vank-cathedral.yaml	sight-ir-vank-cathedral	Vank Cathedral and Monastery of St Amenaprkich	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/zandiyeh.yaml	sight-ir-zandiyeh	Zandiyeh Ensemble of Fars Province	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/zandiyeh.yaml	sight-ir-zandiyeh	Zandiyeh Ensemble of Fars Province	IR	sights		complete	87.05	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IS/sights/austur-medalholt.yaml	sight-is-austur-medalholt	Austur-Meðalholt (Turf House Tradition component)	IS	sights		complete	79.85	worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/IS/sights/fagradalsfjall.yaml	sight-is-fagradalsfjall	Fagradalsfjall recent lava landscape	IS	sights		complete	89.95	worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/IS/sights/galtastadir.yaml	sight-is-galtastadir	Galtastaðir fremri (Turf House Tradition component)	IS	sights		complete	78.35	worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
@@ -745,11 +745,11 @@ countries/LB/sights/maron-castle-qalaat-deir-kifa.yaml	sight-lb-maron-castle-qal
 countries/LB/sights/menjez-historical-monuments-and-natural-sites.yaml	sight-lb-menjez-historical-monuments-and-natural-sites	Menjez Historical Monuments and Natural Sites	LB	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/LB/sights/mount-amel-castles.yaml	sight-lb-mount-amel-castles	Mount Amel Castles	LB	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/LB/sights/old-city-of-tripoli.yaml	sight-lb-old-city-of-tripoli	Old City of Tripoli	LB	sights	experience	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
-countries/LB/sights/rachid-karami-international-fair.yaml	sight-lb-rachid-karami-international-fair	Rachid Karami International Fair	LB	sights	experience	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
-countries/LB/sights/roman-quarry-baalbek.yaml	sight-lb-roman-quarry-baalbek	Roman Quarry (Baalbek)	LB	sights	experience	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
+countries/LB/sights/rachid-karami-international-fair.yaml	sight-lb-rachid-karami-international-fair	Rachid Karami International Fair	LB	sights		complete	85.60	worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
+countries/LB/sights/roman-quarry-baalbek.yaml	sight-lb-roman-quarry-baalbek	Roman Quarry (Baalbek)	LB	sights		complete	85.15	worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/LB/sights/sacred-mount-hermon-and-associated-cultural-monuments-lebanon.yaml	sight-lb-sacred-mount-hermon-and-associated-cultural-monuments-lebanon	Sacred Mount Hermon and Associated Cultural Monuments (Lebanon)	LB	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
-countries/LB/sights/sidon-sea-castle.yaml	sight-lb-sidon-sea-castle	Sidon Sea Castle	LB	sights	experience	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
-countries/LB/sights/temple-of-eshmun.yaml	sight-lb-temple-of-eshmun	Temple of Eshmun	LB	sights	experience	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
+countries/LB/sights/sidon-sea-castle.yaml	sight-lb-sidon-sea-castle	Sidon Sea Castle	LB	sights		complete	83.25	worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
+countries/LB/sights/temple-of-eshmun.yaml	sight-lb-temple-of-eshmun	Temple of Eshmun	LB	sights		complete	82.40	worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/LB/sights/temple-of-mercury-baalbek.yaml	sight-lb-temple-of-mercury-baalbek	Temple of Mercury (Baalbek)	LB	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/LB/sights/toron-castle-qalaat-tibnin.yaml	sight-lb-toron-castle-qalaat-tibnin	Toron Castle (Qalaat Tibnin)	LB	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/LB/sights/tyre-archaeological-sites.yaml	sight-lb-tyre-archaeological-sites	Tyre Archaeological Sites	LB	sights	experience	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
@@ -763,12 +763,12 @@ countries/LR/sights/grebo-krahn-national-park.yaml	sight-lr-grebo-krahn-national
 countries/LR/sights/kpatawee-wetlands-ramsar-area.yaml	sight-lr-kpatawee-wetlands-ramsar-area	Kpatawee Wetlands (Ramsar area)	LR	sights		complete	82.55	worldwide-incomplete-batch-100-pass15-2026-11-26.md	deferred
 countries/LR/sights/marshall-wetlands-ramsar-area.yaml	sight-lr-marshall-wetlands-ramsar-area	Marshall Wetlands (Ramsar area)	LR	sights		complete	83.15	worldwide-incomplete-batch-100-pass15-2026-11-26.md	deferred
 countries/LR/sights/mesurado-wetlands.yaml	sight-lr-mesurado-wetlands	Mesurado Wetlands	LR	sights		complete	78.30	worldwide-incomplete-batch-100-pass15-2026-11-26.md	deferred
-countries/LR/sights/monkey-island-marshall-chimpanzee-sanctuary.yaml	sight-lr-monkey-island-marshall-chimpanzee-sanctuary	Monkey Island (Marshall chimpanzee sanctuary)	LR	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass15-2026-11-26.md	deferred
+countries/LR/sights/monkey-island-marshall-chimpanzee-sanctuary.yaml	sight-lr-monkey-island-marshall-chimpanzee-sanctuary	Monkey Island (Marshall chimpanzee sanctuary)	LR	sights		complete	81.35	worldwide-incomplete-batch-100-pass15-2026-11-26.md	deferred
 countries/LS/sights/botha-bothe-plateau.yaml	sight-ls-botha-bothe-plateau	Botha-Bothe Plateau	LS	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
 countries/LS/sights/khubelu-wetland.yaml	sight-ls-khubelu-wetland	Khubelu Wetland	LS	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
 countries/LS/sights/malimong-cave.yaml	sight-ls-malimong-cave	Malimong Cave	LS	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
-countries/LS/sights/menkhoaneng-heritage-site.yaml	sight-ls-menkhoaneng-heritage-site	Menkhoaneng Heritage Site	LS	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
-countries/LS/sights/pitseng-cave.yaml	sight-ls-pitseng-cave	Pitseng Cave	LS	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
+countries/LS/sights/menkhoaneng-heritage-site.yaml	sight-ls-menkhoaneng-heritage-site	Menkhoaneng Heritage Site	LS	sights		complete	77.80	worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
+countries/LS/sights/pitseng-cave.yaml	sight-ls-pitseng-cave	Pitseng Cave	LS	sights		complete	74.80	worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
 countries/LY/cities/gharyan.yaml	city-ly-gharyan	Gharyan	LY	cities	experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
 countries/LY/cities/ghat.yaml	city-ly-ghat	Ghat	LY	cities	experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
 countries/LY/cities/misrata.yaml	city-ly-misrata	Misrata	LY	cities	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
@@ -802,9 +802,9 @@ countries/MG/sights/ambodifotatra-church.yaml	sight-mg-ambodifotatra-church	Cath
 countries/MG/sights/ambodivahibe.yaml	sight-mg-ambodivahibe	Ambodivahibe Marine Protected Area	MG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/analamerana.yaml	sight-mg-analamerana	Analamerana Special Reserve	MG	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/ankarea.yaml	sight-mg-ankarea	Ankarea Marine Protected Area	MG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
-countries/MG/sights/ankivonjy.yaml	sight-mg-ankivonjy	Ankivonjy Marine Protected Area	MG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
-countries/MG/sights/mahafaly-landscape.yaml	sight-mg-mahafaly-landscape	Pays Mahafaly Cultural Landscape	MG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
-countries/MG/sights/mantasoa-industrial-site.yaml	sight-mg-mantasoa-industrial-site	Historic Industrial Site of Mantasoa	MG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
+countries/MG/sights/ankivonjy.yaml	sight-mg-ankivonjy	Ankivonjy Marine Protected Area	MG	sights		complete	89.15	worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
+countries/MG/sights/mahafaly-landscape.yaml	sight-mg-mahafaly-landscape	Pays Mahafaly Cultural Landscape	MG	sights		complete	89.45	worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
+countries/MG/sights/mantasoa-industrial-site.yaml	sight-mg-mantasoa-industrial-site	Historic Industrial Site of Mantasoa	MG	sights		complete	81.90	worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/mikea.yaml	sight-mg-mikea	Mikea National Park	MG	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/nosy-lonjo.yaml	sight-mg-nosy-lonjo	Nosy Lonjo (Sugarloaf Island)	MG	sights		complete	81.65	worldwide-incomplete-batch-100-pass14-2026-11-26.md	completed
 countries/MG/sights/sahamalaza.yaml	sight-mg-sahamalaza	Sahamalaza–Îles Radama National Park	MG	sights		complete	90.30	worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
@@ -994,7 +994,7 @@ countries/NG/sights/kwiambana.yaml	sight-ng-kwiambana	Kwiambana Archaeological S
 countries/NG/sights/lake-chad-cultural-landscape.yaml	sight-ng-lake-chad-cultural-landscape	Lake Chad Cultural Landscape (Nigeria sector)	NG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/NG/sights/niger-delta-mangroves.yaml	sight-ng-niger-delta-mangroves	Niger Delta Mangroves	NG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/NG/sights/ningi.yaml	sight-ng-ningi	Ningi Archaeological Site	NG	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
-countries/NG/sights/old-oyo-archaeological-site.yaml	sight-ng-old-oyo-archaeological-site	Old Oyo Archaeological Site	NG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
+countries/NG/sights/old-oyo-archaeological-site.yaml	sight-ng-old-oyo-archaeological-site	Old Oyo Archaeological Site	NG	sights		complete	85.20	worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/NG/sights/sukur-cultural-landscape.yaml	sight-ng-sukur-cultural-landscape	Sukur Cultural Landscape	NG	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/NG/sights/sungbos-eredo.yaml	sight-ng-sungbos-eredo	Sungbo's Eredo	NG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/NG/sights/surame.yaml	sight-ng-surame	Surame Cultural Landscape	NG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
