@@ -2,7 +2,7 @@
 
 # France (FR) — Sights & attractions ranking
 
-**86 ranked** · **12 unassessed** · **98 total** · Worldwide scoring **v2**
+**87 ranked** · **11 unassessed** · **98 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (86)
+## Complete ranked list (87)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -96,18 +96,18 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 80 | [Le Havre city rebuilt by Auguste Perret](sights/le-havre.yaml) | Attraction | **87.80** | **Architecture 9.3**, **History 9.2** | 8.4 / 9.0 / 9.2 / 8.6 / 8.8 | [49.49, 0.107](https://www.google.com/maps/search/?api=1&query=49.49,0.107) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le%20Havre%20city%20rebuilt%20by%20Auguste%20Perret%2C%20France) |
 | 81 | [Great Spa Towns of Europe (Vichy component)](sights/spa-towns.yaml) | Attraction | **87.60** | **Architecture 9.2**, **Relaxation 9.2**, **History 9.1** | 8.6 / 8.8 / 9.0 / 8.8 / 8.6 | [46.124, 3.421](https://www.google.com/maps/search/?api=1&query=46.124,3.421) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Spa%20Towns%20of%20Europe%20%28Vichy%20component%29%2C%20France) |
 | 82 | [Guérande salt marshes](sights/guerande.yaml) | Wetland | **87.40** | **Photography 9.2**, **Culture 9.1**, **Nature 9.0** | 8.6 / 8.9 / 8.8 / 8.7 / 8.7 | [47.31, -2.46](https://www.google.com/maps/search/?api=1&query=47.31,-2.46) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gu%C3%A9rande%20salt%20marshes%2C%20France) |
-| 83 | [Hangar Y Meudon](sights/hangar-y.yaml) | Attraction | **86.45** | **Architecture 9.2**, **History 9.2**, **Culture 8.9** | 8.4 / 8.9 / 9.0 / 8.6 / 8.1 | [48.8, 2.229](https://www.google.com/maps/search/?api=1&query=48.8,2.229) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hangar%20Y%20Meudon%2C%20France) |
-| 84 | [Forêts National Park](sights/forets.yaml) | Park / reserve | **86.00** | **Nature 9.2**, **Wildlife 9.1** | 8.4 / 8.6 / 8.8 / 8.6 / 8.8 | [47.87, 4.85](https://www.google.com/maps/search/?api=1&query=47.87,4.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=For%C3%AAts%20National%20Park%2C%20France) |
-| 85 | [Charolais-Brionnais cattle-breeding cultural landscape](sights/charolais.yaml) | Coast | **84.60** | **Culture 9.0**, **Photography 8.8** | 8.2 / 8.6 / 8.6 / 8.4 / 8.7 | [46.3, 4.15](https://www.google.com/maps/search/?api=1&query=46.3,4.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charolais-Brionnais%20cattle-breeding%20cultural%20landscape%2C%20France) |
-| 86 | [Prehistoric Pile Dwellings around the Alps (French components)](sights/pile-dwellings.yaml) | Attraction | **82.30** | **History 9.4** | 7.2 / 8.9 / 9.3 / 7.9 / 8.0 | [45.75, 5.88](https://www.google.com/maps/search/?api=1&query=45.75,5.88) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28French%20components%29%2C%20France) |
+| 83 | [Ancient Beech Forests (French components)](sights/beech-forests.yaml) | Forest | **87.20** | **Nature 9.3**, **Wildlife 9.0** | 8.5 / 8.9 / 9.3 / 8.3 / 8.4 | [44.1, 4.05](https://www.google.com/maps/search/?api=1&query=44.1,4.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Beech%20Forests%20%28French%20components%29%2C%20France) |
+| 84 | [Hangar Y Meudon](sights/hangar-y.yaml) | Attraction | **86.45** | **Architecture 9.2**, **History 9.2**, **Culture 8.9** | 8.4 / 8.9 / 9.0 / 8.6 / 8.1 | [48.8, 2.229](https://www.google.com/maps/search/?api=1&query=48.8,2.229) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hangar%20Y%20Meudon%2C%20France) |
+| 85 | [Forêts National Park](sights/forets.yaml) | Park / reserve | **86.00** | **Nature 9.2**, **Wildlife 9.1** | 8.4 / 8.6 / 8.8 / 8.6 / 8.8 | [47.87, 4.85](https://www.google.com/maps/search/?api=1&query=47.87,4.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=For%C3%AAts%20National%20Park%2C%20France) |
+| 86 | [Charolais-Brionnais cattle-breeding cultural landscape](sights/charolais.yaml) | Coast | **84.60** | **Culture 9.0**, **Photography 8.8** | 8.2 / 8.6 / 8.6 / 8.4 / 8.7 | [46.3, 4.15](https://www.google.com/maps/search/?api=1&query=46.3,4.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charolais-Brionnais%20cattle-breeding%20cultural%20landscape%2C%20France) |
+| 87 | [Prehistoric Pile Dwellings around the Alps (French components)](sights/pile-dwellings.yaml) | Attraction | **82.30** | **History 9.4** | 7.2 / 8.9 / 9.3 / 7.9 / 8.0 | [45.75, 5.88](https://www.google.com/maps/search/?api=1&query=45.75,5.88) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28French%20components%29%2C%20France) |
 
-## Not yet fully assessed (12)
+## Not yet fully assessed (11)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Ancient Beech Forests (French components)](sights/beech-forests.yaml) | Forest | **—** | **Nature 9.3**, **Wildlife 9.0** | 8.5 / 8.9 / 9.3 / — / — | [44.1, 4.05](https://www.google.com/maps/search/?api=1&query=44.1,4.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Beech%20Forests%20%28French%20components%29%2C%20France) |
 | — | [Ancient Beech Forests (French tentative extension)](sights/beech-extension.yaml) | Forest | **—** | **Nature 9.3** | — / 8.9 / 9.2 / — / — | [44.1, 4.05](https://www.google.com/maps/search/?api=1&query=44.1,4.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Beech%20Forests%20%28French%20tentative%20extension%29%2C%20France) |
 | — | [Ancient towns and territory of Narbonnaise (tentative series)](sights/narbonnaise.yaml) | Historic settlement | **—** | **History 9.5**, **Architecture 9.3** | 8.9 / 9.1 / 9.4 / — / — | [43.79, 4.36](https://www.google.com/maps/search/?api=1&query=43.79,4.36) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20towns%20and%20territory%20of%20Narbonnaise%20%28tentative%20series%29%2C%20France) |
 | — | [Bastioned towns of northwestern Europe (French tentative components)](sights/bastioned-towns.yaml) | Attraction | **—** | **History 9.3**, **Architecture 9.2** | 8.5 / 8.8 / 9.0 / — / — | [50.8, 2.25](https://www.google.com/maps/search/?api=1&query=50.8,2.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bastioned%20towns%20of%20northwestern%20Europe%20%28French%20tentative%20components%29%2C%20France) |
