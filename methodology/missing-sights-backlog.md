@@ -282,3 +282,15 @@ Five additions, 20 peer comparisons. Official visitor and collection source exce
 - [x] CA — Montreal Museum of Fine Arts: 90.35/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons. Source excerpts and published representative map points inspected. Anthropology museum excludes Chapultepec park/castle; Bellas Artes covers museum and architecture, not scheduled performances; Soumaya Plaza Carso excludes other branches. Existing ratings unchanged; full Python validation and diagnostics pending. Next: Canadian urban sights (Capilano, Parliament Hill, Old Montreal, Notre-Dame Basilica), Mexico Chapultepec Castle separate scope, Xcaret and other overlooked visitor sites.
+
+
+### Pass 29 — Canadian and Mexican visitor landmarks
+
+- [x] CA — Capilano Suspension Bridge Park: 84.10/100 (source-linked-unverified).
+- [x] CA — Parliament Hill: 87.90/100 (source-linked-unverified).
+- [x] CA — Historic Centre of Old Montréal: 88.10/100 (source-linked-unverified).
+- [x] CA — Notre-Dame Basilica of Montréal: 88.00/100 (source-linked-unverified).
+- [x] MX — Chapultepec Castle (National Museum of History): 89.45/100 (source-linked-unverified).
+- [x] MX — Xcaret Park: 88.65/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons. Primary visitor sources and published representative map points inspected. Parliament Hill Centre Block rehabilitation noted; Old Montreal district excludes individual interiors, Chapultepec Castle museum independently scoped from existing wider ensemble, Xcaret modern park separate from archaeological site. Generic basilica type retained under current lexical generator. No existing ratings changed; full Python validation and diagnostics pending. Next: further Canadian urban attractions (Toronto Islands, Butchart Gardens, Granville Island), Mexican leisure and nature destinations.

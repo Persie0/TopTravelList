@@ -2373,3 +2373,147 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ca-capilano-suspension-bridge-park — Capilano Suspension Bridge Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/capilano-suspension-bridge-park.yaml)
+- Action: new
+- Precise subject: Ticketed park including main bridge, Treetops Adventure and Cliffwalk; excludes Capilano River Regional Park.
+- Location check: 49.3427, -123.115; [published representative point](https://mapcarta.com/W60608401), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator documents three distinct elevated rainforest experiences and canyon setting; official FAQ notes stairs and accessibility restrictions. [Primary visitor reference](https://www.capbridge.com/park-attractions/); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MX/ojuela-mine-and-bridge](../../../countries/MX/sights/ojuela-mine-and-bridge.yaml) | Ojuela adds historic mine and desert scenery; Capilano offers more forest routes. |
+| [AT/highline179-suspension-bridge](../../../countries/AT/sights/highline179-suspension-bridge.yaml) | Capilano offers a broader multi-walk experience. |
+| [US/golden-gate-bridge](../../../countries/US/sights/golden-gate-bridge.yaml) | Golden Gate has greater engineering and historical significance. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | Stanley Park offers broader urban recreation, but less concentrated canopy adventure. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | High canopy and canyon views create memorable impact. |
+| Uniqueness | 8.5 | Combined bridge and forest walkway experience is distinctive but not unique worldwide. |
+| Significance | 7.5 | Local bridge history and forest interpretation do not establish exceptional international heritage significance. |
+| Experience | 8.9 | Several elevated walks offer a rewarding adventure. |
+| Depth | 8.4 | Multiple routes provide more depth than one bridge. |
+
+- Applicable categories: nature:8.8, adventure:8.9, photography:9.0, family:8.6.
+- Computed worldwide overall: 84.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ca-parliament-hill — Parliament Hill — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/parliament-hill.yaml)
+- Action: new
+- Precise subject: Parliament Hill grounds, architecture and permitted on-site tours; excludes the separately located temporary Senate building.
+- Location check: 45.42412, -75.69903; [published representative point](https://mapcarta.com/28375590), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Parliament visitor site lists West Block guided tours. Government project page confirms Centre Block closure during rehabilitation (https://www.canada.ca/en/public-services-procurement/services/infrastructure-buildings/parliamentary-precinct/projects-in-parliamentary-precinct/centre-block-project/about-centre-block-project.html). No guaranteed access to restricted rooms. [Primary visitor reference](https://library-biblio.parl.ca/sites/Visit/default/en_CA/HOC); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/westminster](../../../countries/GB/sights/westminster.yaml) | Westminster has deeper international constitutional and religious history. |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | Washington ensemble is broader in commemorative scope. |
+| [ES/royal-palace-madrid](../../../countries/ES/sights/royal-palace-madrid.yaml) | Madrid's extensive historic interiors provide greater indoor exploration. |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | Halifax offers more concentrated military history; Parliament Hill emphasizes national governance. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Neo-Gothic parliamentary setting and river bluff provide strong visual impact. |
+| Uniqueness | 8.8 | National legislative architecture and grounds distinguish the precinct. |
+| Significance | 9.1 | Canadian parliamentary history has considerable national and international relevance. |
+| Experience | 8.6 | Grounds and permitted interpretive tours provide meaningful visits; current access is constrained. |
+| Depth | 8.4 | Multiple buildings and outdoor spaces, but not all interiors are available. |
+
+- Applicable categories: architecture:9.2, history:9.3, culture:8.9, photography:8.8.
+- Computed worldwide overall: 87.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ca-old-montreal — Historic Centre of Old Montréal — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/old-montreal.yaml)
+- Action: new
+- Precise subject: Historic district streets, squares and public urban fabric; exclude separately ticketed museum and basilica interiors. Representative point at Place Jacques-Cartier.
+- Location check: 45.507889, -73.553; [published representative point](https://en.wikipedia.org/wiki/Place_Jacques-Cartier), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Tourisme Montréal describes historic streets and buildings; city confirms Place Jacques-Cartier is within the district (https://montreal.ca/en/places/place-jacques-cartier). [Primary visitor reference](https://www.mtl.org/en/city/about-montreal/neighbourhoods/old-montreal); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | Old Québec has a more intact fortified historic ensemble. |
+| [ES/cordoba-core](../../../countries/ES/sights/cordoba-core.yaml) | Córdoba has greater chronological depth and worldwide heritage importance. |
+| [PT/evora-core](../../../countries/PT/sights/evora-core.yaml) | Comparable historic walking experience with different ancient and medieval layers. |
+| [CA/old-town-lunenburg](../../../countries/CA/sights/old-town-lunenburg.yaml) | Montréal offers a larger, more varied urban historic fabric. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Historic streets and public squares provide a memorable urban setting. |
+| Uniqueness | 8.6 | French colonial and later commercial architecture create distinctive North American character. |
+| Significance | 8.9 | Long urban history is important, but not comparable with the world's most influential historic centres. |
+| Experience | 9.0 | Walkable streets and squares reward exploration. |
+| Depth | 8.9 | Several streets and spaces create substantial depth without counting individual interior attractions. |
+
+- Applicable categories: architecture:9.1, history:9.1, culture:8.8, photography:8.9.
+- Computed worldwide overall: 88.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ca-notre-dame-basilica-montreal — Notre-Dame Basilica of Montréal — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/notre-dame-basilica-montreal.yaml)
+- Action: new
+- Precise subject: Basilica exterior and regular sightseeing interior; excludes separate concerts and AURA tickets.
+- Location check: 45.50444, -73.55601; [published representative point](https://mapcarta.com/24528262), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Basilica describes sculpted and gilded interior decor, artworks and architectural interpretation; tourism authority identifies National Historic Site status (https://www.mtl.org/en/experience/stunning-historic-churches). [Primary visitor reference](https://www.basiliquenotredame.ca/en/events/sightseeing-visit); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/notre-dame-paris](../../../countries/FR/sights/notre-dame-paris.yaml) | Paris has greater medieval architectural and historical significance. |
+| [ES/avila-core](../../../countries/ES/sights/avila-core.yaml) | Ávila includes multiple religious and urban heritage sites; wider scope. |
+| [DE/quedlinburg-core](../../../countries/DE/sights/quedlinburg-core.yaml) | German ensemble offers a broader historic urban experience. |
+| [MX/santa-prisca-taxco](../../../countries/MX/sights/santa-prisca-taxco.yaml) | Comparable elaborate church interiors with different architectural and cultural traditions. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Ornate interior and vaulting produce exceptional visual impact. |
+| Uniqueness | 8.8 | Distinctive Gothic Revival decorative ensemble, with international counterparts. |
+| Significance | 8.8 | Important Montreal religious heritage but less globally consequential than leading medieval cathedrals. |
+| Experience | 8.8 | Interior interpretation makes a rewarding focused visit. |
+| Depth | 7.9 | Single church and standard sightseeing route limit breadth. |
+
+- Applicable categories: architecture:9.3, history:8.9, culture:8.9, photography:9.1.
+- Computed worldwide overall: 88.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

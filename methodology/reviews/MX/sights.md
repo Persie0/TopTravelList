@@ -4062,3 +4062,75 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-mx-chapultepec-castle-museum — Chapultepec Castle (National Museum of History) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/chapultepec-castle-museum.yaml)
+- Action: new
+- Precise subject: Separately ticketed National Museum of History within the castle and its historic interiors; excludes Chapultepec woods and wider hill landscape. Nested within existing Chapultepec ensemble.
+- Location check: 19.421, -99.182; [published representative point](https://mapcarta.com/26259838), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: INAH identifies former vice-regal, presidential and imperial residence and national history collection (https://lugares.inah.gob.mx/es/node/4682). [Primary visitor reference](https://inah.gob.mx/museos/museo-nacional-de-historia-castillo-de-chapultepec); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ES/royal-palace-madrid](../../../countries/ES/sights/royal-palace-madrid.yaml) | Madrid has more extensive royal ceremonial architecture. |
+| [GB/windsor-castle](../../../countries/GB/sights/windsor-castle.yaml) | Windsor has a longer royal architectural history. |
+| [AT/schoenbrunn-palace](../../../countries/AT/sights/schoenbrunn-palace.yaml) | Schönbrunn has broader palace and garden scale. |
+| [MX/chapultepec](../../../countries/MX/sights/chapultepec.yaml) | Existing parent includes wider woods and hill; museum is separately visitable. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Hilltop palace interiors and museum objects produce strong visual and historic impact. |
+| Uniqueness | 9.0 | Mexican imperial and presidential residence combined with national history exhibits is distinctive. |
+| Significance | 9.2 | Important national political and institutional history has international relevance. |
+| Experience | 8.9 | Historical rooms and collections provide meaningful exploration. |
+| Depth | 8.8 | Multiple galleries and residential rooms give depth without counting surrounding park. |
+
+- Applicable categories: architecture:9.1, history:9.4, culture:9.1, photography:8.8.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-xcaret-park — Xcaret Park — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/xcaret-park.yaml)
+- Action: new
+- Precise subject: Modern ticketed nature and culture theme park only; excludes separately ticketed Xplor, Xel-Há and hotels; no inherited ancient-site significance.
+- Location check: 20.57806, -87.11917; [published representative point](https://en.wikipedia.org/wiki/Xcaret_Park), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator lists three underground rivers, aviary, butterfly pavilion, aquarium and cultural show in basic admission (https://www.xcaret.com/en/faqs/xcaret/); no conservation or animal welfare outcome inferred. [Primary visitor reference](https://www.xcaret.com/en/xcaret-admission/); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | Anaheim has greater theme-park historical significance, Xcaret emphasizes nature and Mexican culture. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | Both combine recreation and animal displays; Xcaret offers underground river experiences. |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | Aquaventure emphasizes water rides; Xcaret has broader cultural offerings. |
+| [ID/waterbom-bali](../../../countries/ID/sights/waterbom-bali.yaml) | Waterbom is a narrower slide-based attraction. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | River swimming, coastal scenery and cultural performances make a memorable varied visit. |
+| Uniqueness | 9.1 | Integration of underground rivers with contemporary Mexican cultural presentation is distinctive. |
+| Significance | 7.9 | Cultural interpretation has value, but the modern park is not itself an ancient heritage ensemble. |
+| Experience | 9.2 | A wide variety of included land and water activities offers a rewarding visit. |
+| Depth | 9.3 | Numerous activity zones and shows support full-day exploration. |
+
+- Applicable categories: nature:9.0, culture:9.1, family:9.2, adventure:9.1.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

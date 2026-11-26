@@ -1,0 +1,17 @@
+id: sight-ca-capilano-suspension-bridge-park
+name: "Capilano Suspension Bridge Park"
+location:
+  country_code: CA
+  latitude: 49.3427
+  longitude: -123.115
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 7.5
+  experience: 8.9
+  depth: 8.4
+  categories:
+    nature: 8.8
+    adventure: 8.9
+    photography: 9.0
+    family: 8.6
