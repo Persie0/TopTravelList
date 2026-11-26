@@ -1,0 +1,15 @@
+id: sight-gg-la-varde
+name: "La Varde Passage Grave"
+location:
+  country_code: GG
+  latitude: 49.506
+  longitude: -2.534
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 7.7
+  depth: 7.3
+  categories:
+    history: 8.9
+    architecture: 8.4

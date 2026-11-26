@@ -1,0 +1,15 @@
+id: city-gg-st-sampson
+name: "St Sampson and The Bridge"
+location:
+  country_code: GG
+  latitude: 49.481
+  longitude: -2.526
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 7.8
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 8.0
+    culture: 7.9

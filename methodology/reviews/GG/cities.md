@@ -1,0 +1,135 @@
+# GG — Guernsey Bailiwick settlement reviews
+
+Source search excerpts inspected 2026-11-26, including official tourism, Paris Musées, Sark government, DarkSky International, Alderney Wildlife Trust, Ramsar code and IHRA. Scores reflect documented long-term visitor scope, not guaranteed current openings, tide conditions, wildlife or seasonal services. No ordinary visitor ranking for private Jethou or Brecqhou; Burhou included only in offshore seabird scope. Coordinates approximate; no claim of independent complete verification. Heritage memorial impact is educational and reflective, not spectacle.
+
+## city-gg-st-peter-port — St Peter Port — 2026-11-26
+
+- YAML: [source](../../../countries/GG/cities/st-peter-port.yaml)
+- Action: new
+- Precise subject: Built harbour town and cobbled commercial streets, excluding separately rated castle, museums and gardens.
+- Location check: 49.455, -2.535; approximate editorial representative point, not necessarily entrance; independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [reference 1](https://www.visitguernsey.com/experiences/st-peter-port) and [reference 2](https://www.visitguernsey.com/articles/2024/a-guide-to-exploring-history-and-heritage-in-guernsey/); relevant search excerpts inspected 2026-11-26. Built harbour town and cobbled commercial streets, excluding separately rated castle, museums and gardens.
+- Missing or uncertain facts: exact GPS, independent full claims and current seasonal permitted access.
+
+### Worldwide peer comparisons
+- [city-fr-saint-malo](../../../countries/FR/cities/saint-malo.yaml) — larger fortified urban ensemble.
+- [city-gb-tenby](../../../countries/GB/cities/tenby.yaml) — comparable scenic historic harbour.
+- [city-pm-saint-pierre](../../../countries/PM/cities/saint-pierre.yaml) — smaller French Atlantic port.
+- [city-fo-torshavn](../../../countries/FO/cities/torshavn.yaml) — similar island capital with different architecture.
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Layered harbour streets and marina views. |
+| Uniqueness | 8.5 | Distinct Channel Island port character. |
+| Significance | 8.5 | Historic territorial capital. |
+| Experience | 8.9 | Varied shops, restaurants and public spaces. |
+| Depth | 8.6 | Several walkable historic districts. |
+
+- Applicable categories: architecture: 8.7, culture: 8.6, food: 8.7, photography: 8.9.
+- Overall: 86.00/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of defined visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims, numerical peer calibration and current access.
+
+## city-gg-st-sampson — St Sampson and The Bridge — 2026-11-26
+
+- YAML: [source](../../../countries/GG/cities/st-sampson.yaml)
+- Action: new
+- Precise subject: Working harbour and established shopping centre; planned regeneration not counted.
+- Location check: 49.481, -2.526; approximate editorial representative point, not necessarily entrance; independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [reference 1](https://gda.gg/stsampsons/) and [reference 2](https://www.visitguernsey.com/experiences/hiking/hiking-routes/castles-towers-lead-back-to-the-capital/); relevant search excerpts inspected 2026-11-26. Working harbour and established shopping centre; planned regeneration not counted.
+- Missing or uncertain facts: exact GPS, independent full claims and current seasonal permitted access.
+
+### Worldwide peer comparisons
+- [city-gb-aberystwyth](../../../countries/GB/cities/aberystwyth.yaml) — broader seaside urban scope.
+- [city-ax-mariehamn](../../../countries/AX/cities/mariehamn.yaml) — greater maritime heritage depth.
+- [city-pm-miquelon](../../../countries/PM/cities/miquelon.yaml) — smaller settlement.
+- [city-fk-stanley](../../../countries/FK/cities/stanley.yaml) — stronger capital heritage.
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.5 | Modest working harbour. |
+| Uniqueness | 7.7 | Historic former island crossing. |
+| Significance | 7.8 | Local port and commercial history. |
+| Experience | 8.0 | Established shopping and services. |
+| Depth | 7.6 | Compact centre. |
+
+- Applicable categories: history: 8.0, culture: 7.9.
+- Overall: 76.95/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of defined visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims, numerical peer calibration and current access.
+
+## city-gg-st-anne — St Anne (Alderney) — 2026-11-26
+
+- YAML: [source](../../../countries/GG/cities/st-anne.yaml)
+- Action: new
+- Precise subject: Cobbled streets and public church exterior, excluding separate museum and island sites.
+- Location check: 49.714, -2.201; approximate editorial representative point, not necessarily entrance; independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [reference 1](https://www.visitguernsey.com/experiences/island-hopping/alderney/) and [reference 2](https://www.visitalderney.com/explore/tours-excursions/); relevant search excerpts inspected 2026-11-26. Cobbled streets and public church exterior, excluding separate museum and island sites.
+- Missing or uncertain facts: exact GPS, independent full claims and current seasonal permitted access.
+
+### Worldwide peer comparisons
+- [city-gb-tenby](../../../countries/GB/cities/tenby.yaml) — more scenic harbour and historic depth.
+- [city-pm-miquelon](../../../countries/PM/cities/miquelon.yaml) — smaller built visitor scope.
+- [city-fo-kirkjubour](../../../countries/FO/cities/kirkjubour.yaml) — greater medieval heritage.
+- [city-ax-karlby](../../../countries/AX/cities/karlby.yaml) — similar island service centre.
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Compact historic streets. |
+| Uniqueness | 8.2 | Distinct Alderney island town. |
+| Significance | 8.1 | Local administrative and religious heritage. |
+| Experience | 8.2 | Shops and documented guided town walk. |
+| Depth | 7.9 | Small but varied built centre. |
+
+- Applicable categories: architecture: 8.3, culture: 8.2, history: 8.3.
+- Overall: 80.60/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of defined visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims, numerical peer calibration and current access.
+
+## city-gg-sark-avenue — Sark village centre (The Avenue) — 2026-11-26
+
+- YAML: [source](../../../countries/GG/cities/sark-avenue.yaml)
+- Action: new
+- Precise subject: Central shopping and craft district, not whole island; separate dark sky and coastal attractions excluded.
+- Location check: 49.432, -2.361; approximate editorial representative point, not necessarily entrance; independent GPS verification pending.
+- Evidence status: source-linked-unverified
+- Evidence: [reference 1](https://sarkgov.co.uk/living-on-sark) and [reference 2](https://www.visitguernsey.com/experiences/island-hopping/sark/); relevant search excerpts inspected 2026-11-26. Central shopping and craft district, not whole island; separate dark sky and coastal attractions excluded.
+- Missing or uncertain facts: exact GPS, independent full claims and current seasonal permitted access.
+
+### Worldwide peer comparisons
+- [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — more conventional commercial hub.
+- [city-fo-gjogv](../../../countries/FO/cities/gjogv.yaml) — more striking village scenery.
+- [city-ax-karlby](../../../countries/AX/cities/karlby.yaml) — similar island scale.
+- [city-pm-miquelon](../../../countries/PM/cities/miquelon.yaml) — comparable small settlement with different culture.
+
+### Scoring decisions
+| Field | Rating | Individual justification |
+| --- | ---: | --- |
+| Impact | 7.7 | Rural village lanes. |
+| Uniqueness | 8.6 | Unusual low motor-traffic island setting. |
+| Significance | 7.9 | Local commercial and cultural centre. |
+| Experience | 8.3 | Crafts, food and cycle services. |
+| Depth | 7.6 | Small village extent. |
+
+- Applicable categories: culture: 8.5, food: 8.3, relaxation: 8.4.
+- Overall: 80.45/100.
+- High-score challenge: No new 9.5+ field or 90+ overall.
+- Approved 10 registry: none.
+- Final decision: Provisional worldwide V2 assessment of defined visitor scope.
+- Earlier decision: none.
+- Verification still needed: exact GPS, independent material claims, numerical peer calibration and current access.
