@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14834; unassessed: 1435.
+Ranked: 14838; unassessed: 1431.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1435 |
+| incomplete-core | 1431 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1800 |
 | overall-95-plus | 159 |
@@ -484,8 +484,8 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | TW | sights | 180 | 180 | 84.20 | 11 | 0 | 15 | 0 | [National Palace Museum](../../countries/TW/sights/national-palace-museum.yaml) 94.60; [Taroko National Park](../../countries/TW/sights/taroko-national-park.yaml) 93.80; [Taroko Gorge](../../countries/TW/sights/taroko-gorge.yaml) 92.35 |
 | TZ | cities | 5 | 5 | 82.60 | 1 | 0 | 0 | 5 | [Zanzibar City](../../countries/TZ/cities/zanzibar-city.yaml) 90.15; [Bagamoyo](../../countries/TZ/cities/bagamoyo.yaml) 82.95; [Dar es Salaam](../../countries/TZ/cities/dar-es-salaam.yaml) 82.60 |
 | TZ | sights | 27 | 18 | 91.20 | 13 | 3 | 13 | 27 | [Serengeti National Park](../../countries/TZ/sights/serengeti-national-park.yaml) 97.90; [Ngorongoro Conservation Area](../../countries/TZ/sights/ngorongoro-conservation-area.yaml) 96.55; [Kilimanjaro National Park](../../countries/TZ/sights/kilimanjaro-national-park.yaml) 95.50 |
-| UA | cities | 14 | 11 | 85.05 | 2 | 0 | 2 | 14 | [Kyiv](../../countries/UA/cities/kyiv.yaml) 91.65; [Lviv](../../countries/UA/cities/lviv.yaml) 90.65; [Kamianets-Podilskyi](../../countries/UA/cities/kamianets-podilskyi.yaml) 88.70 |
-| UA | sights | 49 | 31 | 87.35 | 6 | 0 | 13 | 49 | [Saint Sophia Cathedral and Kyiv-Pechersk Lavra (listed ensemble)](../../countries/UA/sights/kyiv-heritage.yaml) 92.45; [Lviv Historic Centre](../../countries/UA/sights/lviv-core.yaml) 91.80; [Cultural Landscape of Canyon in Kamianets-Podilskyi](../../countries/UA/sights/kamianets-canyon.yaml) 90.55 |
+| UA | cities | 14 | 14 | 86.15 | 2 | 0 | 2 | 14 | [Kyiv](../../countries/UA/cities/kyiv.yaml) 91.65; [Lviv](../../countries/UA/cities/lviv.yaml) 90.65; [Odesa](../../countries/UA/cities/odesa.yaml) 89.20 |
+| UA | sights | 49 | 32 | 87.45 | 6 | 0 | 13 | 49 | [Saint Sophia Cathedral and Kyiv-Pechersk Lavra (listed ensemble)](../../countries/UA/sights/kyiv-heritage.yaml) 92.45; [Lviv Historic Centre](../../countries/UA/sights/lviv-core.yaml) 91.80; [Cultural Landscape of Canyon in Kamianets-Podilskyi](../../countries/UA/sights/kamianets-canyon.yaml) 90.55 |
 | UG | cities | 6 | 6 | 78.75 | 0 | 0 | 0 | 6 | [Kampala](../../countries/UG/cities/kampala.yaml) 83.20; [Jinja](../../countries/UG/cities/jinja.yaml) 79.75; [Entebbe](../../countries/UG/cities/entebbe.yaml) 79.20 |
 | UG | sights | 25 | 18 | 89.78 | 7 | 1 | 7 | 25 | [Bwindi Impenetrable National Park](../../countries/UG/sights/bwindi-impenetrable-national-park.yaml) 95.45; [Rwenzori Mountains National Park](../../countries/UG/sights/rwenzori-mountains-national-park.yaml) 93.70; [Murchison Falls National Park](../../countries/UG/sights/murchison-falls-national-park.yaml) 93.30 |
 | UM | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
