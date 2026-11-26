@@ -277,6 +277,40 @@
 - **Exceptional score check:** Very high component values and any 90+ total reflect provisional worldwide editorial comparisons above. No 10 was approved; source verification and further calibration remain open.
 - **Verification still needed:** Confirm identity, coordinates and the specific historical/visitor claims with exact dedicated sources; check nested attraction scope.
 
+### Reassessment — 2026-11-26
+
+- [Source YAML](../../../countries/IN/sights/golden-temple-amritsar.yaml) · **fact-checked** (material scope and visitor claims checked; score editorial; GPS not independently verified).
+- Action: rescore. Precise subject: Harmandir Sahib sacred precinct with tank, central shrine, Sikh museum and langar, excluding other Amritsar monuments.
+- Location check: existing representative point retained; precise coordinates not independently verified.
+- Independently checked factual claims:
+- [District Amritsar, Government of Punjab](https://amritsar.nic.in/places-of-interest/) (accessed 2026-11-26): confirms the Sikh shrine, museum, Akal Takht and communal kitchen welcoming visitors.
+- [Incredible India](https://www.incredibleindia.gov.in/en/punjab/amritsar/sri-harmandir-sahib-golden-temple) (accessed 2026-11-26): describes the gilded architecture, sacred tank, worship and communal meal. Both are government tourism descriptions, not independent ratings.
+
+**Worldwide peer comparisons**
+
+| Peer | Comparative judgment |
+| --- | --- |
+| [KH/sights/angkor-wat](../../../countries/KH/sights/angkor-wat.yaml) | World-leading monumental temple, with a larger archaeological and sculptural ensemble; Harmandir Sahib is more actively participatory. |
+| [TH/sights/wat-phra-kaew](../../../countries/TH/sights/wat-phra-kaew.yaml) | Active royal religious architecture is an appropriate comparison; Sikh communal practice adds a distinct experiential dimension. |
+| [JP/sights/todaiji-temple](../../../countries/JP/sights/todaiji-temple.yaml) | Historic Buddhist monumental architecture offers an alternative global pinnacle; Amritsar's living community practice is particularly distinctive. |
+| [VN/sights/my-son-sanctuary](../../../countries/VN/sights/my-son-sanctuary.yaml) | A more fragmentary archaeological ensemble, with less living ritual and immersive participation. |
+
+| Field | Before | After | Individual justification |
+| --- | ---: | ---: | --- |
+| Impact | 9.9 | 9.7 | The gilded shrine and reflective tank justify rare global visual and emotional impact, but 9.9 was not individually substantiated. |
+| Uniqueness | 9.9 | 9.7 | The combination of sacred pool, Sikh identity and langar is exceptionally distinctive; other living pilgrimage complexes are also singular. |
+| Significance | 9.9 | 9.7 | Central Sikh religious and historical significance warrants an elite score, not automatic equivalence with every world-defining monument. |
+| Experience | 9.9 | 9.6 | Worship, music and shared meal give a rare, meaningful visit; the previous near-perfect 9.9 was unsupported. |
+| Depth | 9.3 | 9.1 | A rich, concentrated precinct with museum and ritual experiences, but less breadth than extensive temple landscapes. |
+
+- Categories after: architecture 9.5, culture 9.8, history 9.5, photography 9.6.
+- Computed overall: 98.40/100 → **96.25/100**.
+- High-score challenge: Impact 9.7: exceptional reflective sacred composition; uniqueness 9.7: distinctive Sikh ritual and langar; significance 9.7: central Sikh institution; experience 9.6: meaningful communal participation. Architecture 9.5 for the gilded shrine and tank composition, culture 9.8 for living worship and service, history 9.5 for Sikh heritage, photography 9.6 for visual composition (not a claim of unrestricted photography). No new perfect score.
+- Approved 10 registry: none added.
+- Earlier decision: Original 23 November entry above.
+- Verification still needed: representative GPS and independently documented breadth of the actual visit; source coverage limitations above. Ratings remain editorial.
+
+
 ## sight-in-jallianwala-bagh — Jallianwala Bagh
 
 - [Source YAML](../../../countries/IN/sights/jallianwala-bagh.yaml) · **editorial-only** · Derived overall **85.80/100**

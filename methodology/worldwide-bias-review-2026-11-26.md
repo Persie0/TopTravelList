@@ -1,0 +1,5 @@
+# Worldwide bias review — 26 November 2026 (first correction pass)
+
+Scope: the 197 registered country entries, 4,169 city YAMLs and 11,391 sight YAMLs on base commit becddd271e08db22e6e4a8c5758ffdb619577c52. This pass does not claim 15,560 independently researched judgments. No quota, national multiplier or change to V2 weights is applied. The initial country screening is performed by [Playground audit run](https://github.com/Persie0/Playground/actions/runs/45730315422). Its statistical output is diagnostic, not proof of bias. Country means depend on what was selected for inclusion and cannot be interpreted as national travel-quality scores.
+
+Four individual corrections: [Dunhuang](reviews/CN/cities.md), [Siem Reap](reviews/KH/cities.md), [Golden Temple](reviews/IN/sights-north.md), [Srirangam](reviews/IN/sights-tamil-andhra-telangana.md). Each contains separately justified fields, checked scope sources and worldwide peers. The historical city benchmark documents are snapshots and not silently rewritten. No existing 10 anchors changed. Further high score and low score review remains outstanding; no blanket adjustment is authorized.
