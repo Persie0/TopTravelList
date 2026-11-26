@@ -3954,3 +3954,111 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-mx-national-museum-of-anthropology — National Museum of Anthropology (Mexico City) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/national-museum-of-anthropology.yaml)
+- Action: new
+- Precise subject: Museum institution and galleries in Chapultepec; excludes the park and castle and original archaeological sites.
+- Location check: 19.426111, -99.186111; [published representative point](https://es.wikipedia.org/wiki/Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: INAH describes eleven archaeological and five ethnographic rooms and major Mexica monoliths; the visitor program identifies the Sun Stone and Maya objects (https://mna.inah.gob.mx/agenda_detalle_v1.php?pl=Voces_de_otro_tiempo). [Primary visitor or collection reference](https://mna.inah.gob.mx/informacion_general.php/el_museo.php); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has broader worldwide collections; Mexico has a much more concentrated Mesoamerican corpus. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | Comparable specialist ancient-civilization holdings; Mexico combines multiple living and ancient cultures. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | Met has broader arts coverage; Mexico's original Mexica monuments give it singular historical strengths. |
+| [MX/templo-mayor](../../../countries/MX/sights/templo-mayor.yaml) | Original archaeological site is narrower; museum spans numerous civilizations. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Monumental original artifacts and varied galleries produce exceptional impact. |
+| Uniqueness | 9.4 | Mexica monoliths and Mesoamerican collections are difficult to substitute. |
+| Significance | 9.5 | Original central artifacts of multiple Mesoamerican civilizations establish rare worldwide historical significance. |
+| Experience | 9.3 | Extensive archaeological and ethnographic displays reward prolonged visits. |
+| Depth | 9.4 | Many galleries span distinct cultures and periods. |
+
+- Applicable categories: culture:9.4, history:9.5, architecture:9.0.
+- Computed worldwide overall: 94.05/100.
+- High-score challenge: Above 90 based on specific collection strengths and scope in the comparisons. Significance and history 9.5: the original Sun Stone, Coatlicue and other major pre-Hispanic monoliths and comprehensive archaeology collections support rare worldwide historical importance, comparable in specialist scope to Museo Egizio; below Grand Egyptian Museum and global encyclopedic leaders overall.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-palacio-de-bellas-artes — Palacio de Bellas Artes (Museum and architecture) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/palacio-de-bellas-artes.yaml)
+- Action: new
+- Precise subject: Museum murals and accessible palace architecture; excludes separately scheduled performances and broader historic centre.
+- Location check: 19.43547, -99.14128; [published representative point](https://mapcarta.com/26259846), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: INBA describes permanent murals by major Mexican artists, temporary exhibitions and guided visits covering architecture and murals (https://inba.gob.mx/actividad/14986/visitas-guiadas-museo-del-palacio-de-bellas-artes). [Primary visitor or collection reference](https://inba.gob.mx/recinto/67/museo-del-palacio-de-bellas-artes); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Broader historical and geographical art holdings. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | Similar modern art significance but Reina Sofía has wider gallery breadth. |
+| [AT/belvedere-palace](../../../countries/AT/sights/belvedere-palace.yaml) | Comparable architecture and art integration; different royal and artistic traditions. |
+| [MX/frida-kahlo-museum-casa-azul](../../../countries/MX/sights/frida-kahlo-museum-casa-azul.yaml) | Casa Azul offers intimate biographical context rather than monumental public art. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental architecture and in-situ murals produce striking visual impact. |
+| Uniqueness | 9.1 | Mexican muralism in a purpose-built cultural palace is distinctive. |
+| Significance | 9.2 | Important original works of twentieth-century Mexican art carry international cultural significance. |
+| Experience | 8.8 | Architecture and exhibitions offer rewarding exploration without assuming a performance ticket. |
+| Depth | 8.5 | Museum visit has narrower breadth than encyclopedic galleries. |
+
+- Applicable categories: architecture:9.3, culture:9.4, history:9.1.
+- Computed worldwide overall: 89.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-museo-soumaya-plaza-carso — Museo Soumaya (Plaza Carso) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/museo-soumaya-plaza-carso.yaml)
+- Action: new
+- Precise subject: Plaza Carso venue only; excludes Plaza Loreto, other affiliated venues and nearby Jumex.
+- Location check: 19.44083, -99.20464; [published representative point](https://www.dookinternational.com/poi/museo-soumaya-plaza-carso/1409), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Mexican culture ministry identifies six exhibition floors; foundation describes Mexican and European holdings (https://fundacioncarlosslim.org/conoce-las-salas-y-exhibiciones-del-museo-soumaya-en-plaza-carso/). [Primary visitor or collection reference](https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1478); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Much greater encyclopedic and historical breadth. |
+| [CA/art-gallery-of-ontario](../../../countries/CA/sights/art-gallery-of-ontario.yaml) | Comparable cross-media collection; AGO emphasizes Canadian and Indigenous art. |
+| [AU/mona-hobart](../../../countries/AU/sights/mona-hobart.yaml) | MONA has a more experimental spatial and curatorial approach. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | Albertina has deeper modernist anchors and historic state rooms. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Sculptural exterior and extensive displays provide strong visual impact. |
+| Uniqueness | 8.8 | Distinctive building gives identity to otherwise comparable private art collections. |
+| Significance | 8.7 | Mexican and European holdings are important but less singular than leading specialist museums. |
+| Experience | 8.9 | Varied galleries support an engaging art visit. |
+| Depth | 9.0 | Six floors offer considerable exploration. |
+
+- Applicable categories: culture:9.2, architecture:9.1, history:8.7.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

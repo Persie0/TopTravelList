@@ -270,3 +270,15 @@ Six additions, 24 peer comparisons. Visitor descriptions and representative map 
 - [x] MX — Frida Kahlo Museum (Casa Azul): 89.45/100 (source-linked-unverified).
 
 Five additions, 20 peer comparisons. Official visitor and collection source excerpts and published map coordinates checked. Separate Casa Azul and Rivera–Kahlo Home-Study Museum; Ian Potter Centre excludes NGV International. Existing ratings unchanged. Generic gallery types retained under current generator. Full Python validation and diagnostics remain pending. Next: major overlooked Mexican cultural sites, Canadian museums and urban landmarks.
+
+
+### Pass 28 — Mexican and Canadian flagship museums
+
+- [x] MX — National Museum of Anthropology (Mexico City): 94.05/100 (source-linked-unverified).
+- [x] MX — Palacio de Bellas Artes (Museum and architecture): 89.85/100 (source-linked-unverified).
+- [x] MX — Museo Soumaya (Plaza Carso): 88.45/100 (source-linked-unverified).
+- [x] CA — Canadian Museum of History: 91.10/100 (source-linked-unverified).
+- [x] CA — Canadian Museum for Human Rights: 90.60/100 (source-linked-unverified).
+- [x] CA — Montreal Museum of Fine Arts: 90.35/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons. Source excerpts and published representative map points inspected. Anthropology museum excludes Chapultepec park/castle; Bellas Artes covers museum and architecture, not scheduled performances; Soumaya Plaza Carso excludes other branches. Existing ratings unchanged; full Python validation and diagnostics pending. Next: Canadian urban sights (Capilano, Parliament Hill, Old Montreal, Notre-Dame Basilica), Mexico Chapultepec Castle separate scope, Xcaret and other overlooked visitor sites.

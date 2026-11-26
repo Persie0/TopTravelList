@@ -2265,3 +2265,111 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-ca-canadian-museum-of-history — Canadian Museum of History — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/canadian-museum-of-history.yaml)
+- Action: new
+- Precise subject: Gatineau museum, permanent galleries and Grand Hall; excludes Parliament Hill and separate Canadian War Museum.
+- Location check: 45.42985, -75.70818; [published representative point](https://mapcarta.com/27598210), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Grand Hall interprets Pacific Northwest Indigenous cultures; First Peoples Hall and Canadian History Hall present objects and historical narratives (https://www.historymuseum.ca/exhibitions/first-peoples-hall; https://www.historymuseum.ca/exhibitions/canadian-history-hall). [Primary visitor or collection reference](https://www.historymuseum.ca/exhibitions); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | Comparable social-history focus, but different national and community scope. |
+| [AU/national-gallery-of-australia](../../../countries/AU/sights/national-gallery-of-australia.yaml) | Canberra focuses on art; Gatineau provides broader historical narrative. |
+| [DE/jewish-museum-berlin](../../../countries/DE/sights/jewish-museum-berlin.yaml) | Berlin has a narrower cultural-history focus and distinctive narrative architecture. |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | ROM combines natural science and world culture; Gatineau focuses on Canadian history. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Grand Hall and original objects create memorable historical encounters. |
+| Uniqueness | 9.1 | Distinct national and Indigenous cultural emphasis with an architecturally integrated presentation. |
+| Significance | 9.2 | Collections and national history have international cultural relevance. |
+| Experience | 9.1 | Several interpretive approaches offer meaningful visits. |
+| Depth | 9.3 | Multiple major permanent galleries sustain exploration. |
+
+- Applicable categories: culture:9.4, history:9.4, architecture:9.0.
+- Computed worldwide overall: 91.10/100.
+- High-score challenge: Above 90 based on specific collection strengths and scope in the comparisons. No 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ca-canadian-museum-for-human-rights — Canadian Museum for Human Rights — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/canadian-museum-for-human-rights.yaml)
+- Action: new
+- Precise subject: Winnipeg museum and its exhibition route, including Tower of Hope; excludes nearby Forks precinct.
+- Location check: 49.89064, -97.13109; [published representative point](https://mapcarta.com/W131229325), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum visitor page identifies human rights stories and tower views; museum topic page describes the Witness Blanket memorial interpretation (https://humanrights.ca/topic/museum). [Primary visitor or collection reference](https://humanrights.ca/visit/plan-your-visit); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [DE/jewish-museum-berlin](../../../countries/DE/sights/jewish-museum-berlin.yaml) | Comparable architecture as interpretation; Berlin focuses on German-Jewish history. |
+| [DE/topography-of-terror](../../../countries/DE/sights/topography-of-terror.yaml) | Authentic historic site offers more concentrated documentary evidence. |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | Smithsonian has deeper material collection focused on a particular community. |
+| [KR/seodaemun-prison-history-hall](../../../countries/KR/sights/seodaemun-prison-history-hall.yaml) | Historic prison offers authentic setting but more bounded scope. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Architecture and reflective exhibits create strong emotional impact. |
+| Uniqueness | 9.2 | Dedicated human-rights narrative and integrated vertical building are distinctive. |
+| Significance | 9.1 | Human-rights interpretation is internationally relevant without claiming all events happened here. |
+| Experience | 9.0 | Reflective exhibitions support meaningful engagement rather than entertainment. |
+| Depth | 8.9 | Several gallery levels and tower provide substantial depth. |
+
+- Applicable categories: history:9.3, culture:9.2, architecture:9.3.
+- Computed worldwide overall: 90.60/100.
+- High-score challenge: Above 90 based on specific collection strengths and scope in the comparisons. No 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ca-montreal-museum-of-fine-arts — Montreal Museum of Fine Arts — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/montreal-museum-of-fine-arts.yaml)
+- Action: new
+- Precise subject: Main five-pavilion museum complex; excludes separately visited city sites.
+- Location check: 45.498508, -73.579552; [published representative point](https://www.latlong.net/place/the-montreal-museum-of-fine-arts-quebec-canada-33099.html), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Montreal museum association identifies approximately 47,000 works across five pavilions, including Canadian, Indigenous, international art and design (https://www.museesmontreal.ca/en/museums/montreal-museum-of-fine-arts). [Primary visitor or collection reference](https://www.mbam.qc.ca/en/collections/); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Greater global and historical breadth. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | Met has larger encyclopedic reach. |
+| [AU/ngv-international](../../../countries/AU/sights/ngv-international.yaml) | Comparable cross-cultural collection; Montreal includes Quebec and Canadian specialization. |
+| [CA/art-gallery-of-ontario](../../../countries/CA/sights/art-gallery-of-ontario.yaml) | Similar broad national art scope with distinct regional strengths. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Wide visual art and historic displays create strong impact. |
+| Uniqueness | 9.0 | Quebec and Canadian art combined with international collections provides distinctive identity. |
+| Significance | 9.1 | Important national and international art holdings. |
+| Experience | 9.1 | Varied collection and exhibition spaces reward exploration. |
+| Depth | 9.3 | Five pavilions and diverse media support lengthy visits. |
+
+- Applicable categories: culture:9.4, history:9.1, architecture:8.8.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: Above 90 based on specific collection strengths and scope in the comparisons. No 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
