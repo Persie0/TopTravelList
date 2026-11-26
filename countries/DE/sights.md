@@ -2,7 +2,7 @@
 
 # Germany (DE) — Sights & attractions ranking
 
-**97 ranked** · **0 unassessed** · **97 total** · Worldwide scoring **v2**
+**98 ranked** · **0 unassessed** · **98 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (97)
+## Complete ranked list (98)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -111,6 +111,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 95 | [Hunsrück-Hochwald National Park](sights/hunsruck.yaml) | Park / reserve | **84.75** | **Nature 9.0**, **Adventure 8.8** | 8.3 / 8.5 / 8.5 / 8.6 / 8.7 | [49.66, 7.1](https://www.google.com/maps/search/?api=1&query=49.66,7.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hunsr%C3%BCck-Hochwald%20National%20Park%2C%20Germany) |
 | 96 | [Danube Limes (German components)](sights/danube-limes.yaml) | Attraction | **84.60** | **History 9.3** | 7.8 / 8.5 / 9.2 / 8.5 / 8.8 | [48.57, 13.46](https://www.google.com/maps/search/?api=1&query=48.57,13.46) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Danube%20Limes%20%28German%20components%29%2C%20Germany) |
 | 97 | [Pretzien Weir](sights/pretzien-weir.yaml) | Attraction | **82.25** | **History 9.1**, **Architecture 8.8** | 7.8 / 8.7 / 8.9 / 8.0 / 7.3 | [52.04, 11.83](https://www.google.com/maps/search/?api=1&query=52.04,11.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pretzien%20Weir%2C%20Germany) |
+| 98 | [Rakotzbrücke (Kromlau Devil's Bridge)](sights/rakotzbrucke.yaml) | Bridge | **82.10** | **Photography 9.1**, **Architecture 8.6**, **Nature 8.3** | 8.6 / 8.5 / 7.8 / 8.1 / 7.3 | [51.53637, 14.64051](https://www.google.com/maps/search/?api=1&query=51.53637,14.64051) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rakotzbr%C3%BCcke%20%28Kromlau%20Devil%27s%20Bridge%29%2C%20Germany) |
 
 ---
 

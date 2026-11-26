@@ -3405,3 +3405,38 @@
 - [Dated worldwide reassessment pass 59 — 2026-11-26](worldwide-deferred-pass59-2026-11-26.md)
 
 - [Dated worldwide reassessment pass 61 — 2026-11-26](worldwide-deferred-pass61-2026-11-26.md)
+
+
+### sight-de-rakotzbrucke — Rakotzbrücke (Kromlau Devil's Bridge) — 2026-11-26
+
+- YAML: [source](../../../countries/DE/sights/rakotzbrucke.yaml)
+- Action: new
+- Precise subject and factual basis: Nineteenth-century landscape-garden bridge and reflection views, not a crossing recommendation or entire park. [Visitor information](https://www.sachsen-tourismus.de/poi/rhododendronpark-kromlau-mit-rakotzbruecke); source excerpts inspected 2026-11-26.
+- Location check: 51.53637, 14.64051; [published reference](https://mapcarta.com/34882240); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [DE/bastei](../../../countries/DE/sights/bastei.yaml) | More dramatic rock landscape |
+| [DE/muskauer-park](../../../countries/DE/sights/muskauer-park.yaml) | Much broader garden heritage |
+| [GB/forth-bridge](../../../countries/GB/sights/forth-bridge.yaml) | Greater engineering significance |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | Different natural photographic attraction |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Distinctive circular reflection |
+| uniqueness | 8.5 | Other romantic bridges exist |
+| significance | 7.8 | Regional garden-design heritage |
+| experience | 8.1 | Focused viewing experience |
+| depth | 7.3 | Single structure |
+
+- Applicable categories: photography:9.1, architecture:8.6, nature:8.3.
+- Computed worldwide overall: 82.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.

@@ -2,7 +2,7 @@
 
 # Italy (IT) — Sights & attractions ranking
 
-**122 ranked** · **12 unassessed** · **134 total** · Worldwide scoring **v2**
+**123 ranked** · **12 unassessed** · **135 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (122)
+## Complete ranked list (123)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -136,6 +136,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 120 | [Alta Murgia National Park](sights/alta-murgia.yaml) | Park / reserve | **86.20** | **Nature 9.1**, **Photography 9.0** | 8.4 / 8.7 / 8.7 / 8.7 / 8.8 | [40.98, 16.3](https://www.google.com/maps/search/?api=1&query=40.98,16.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alta%20Murgia%20National%20Park%2C%20Italy) |
 | 121 | [Appennino Lucano National Park](sights/appennino-lucano.yaml) | Park / reserve | **86.15** | **Nature 9.1**, **Adventure 8.9** | 8.5 / 8.6 / 8.6 / 8.7 / 8.9 | [40.3, 15.9](https://www.google.com/maps/search/?api=1&query=40.3,15.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Appennino%20Lucano%20National%20Park%2C%20Italy) |
 | 122 | [Crespi d'Adda](sights/crespi.yaml) | Attraction | **86.05** | **History 9.3**, **Architecture 9.1** | 8.3 / 8.9 / 9.1 / 8.4 / 8.1 | [45.595, 9.536](https://www.google.com/maps/search/?api=1&query=45.595,9.536) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Crespi%20d%27Adda%2C%20Italy) |
+| 123 | [Blue Grotto (Grotta Azzurra, Capri)](sights/blue-grotto-capri.yaml) | Museum / heritage | **85.45** | **Photography 9.1**, **Nature 9.0**, **Adventure 8.5** | 9.0 / 8.8 / 8.2 / 8.5 / 7.3 | [40.56094, 14.20574](https://www.google.com/maps/search/?api=1&query=40.56094,14.20574) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Grotto%20%28Grotta%20Azzurra%2C%20Capri%29%2C%20Italy) |
 
 ## Not yet fully assessed (12)
 

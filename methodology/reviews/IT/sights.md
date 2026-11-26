@@ -4701,3 +4701,38 @@
 - [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
 
 - [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)
+
+
+### sight-it-blue-grotto-capri — Blue Grotto (Grotta Azzurra, Capri) — 2026-11-26
+
+- YAML: [source](../../../countries/IT/sights/blue-grotto-capri.yaml)
+- Action: new
+- Precise subject and factual basis: Sea cave known for blue light; short boat visit subject to weather, sea conditions and access; distinct from Capri island aggregate. Cultural context https://museicapri.cultura.gov.it/en/grotta-azzurra-en/. [Visitor information](https://corporate.coopculture.it/en/poi/blue-grotto/); source excerpts inspected 2026-11-26.
+- Location check: 40.56094, 14.20574; [published reference](https://mapcarta.com/33098174); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [IT/capri](../../../countries/IT/sights/capri.yaml) | Parent island broader |
+| [PT/benagil](../../../countries/PT/sights/benagil.yaml) | Different sea cave and light |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | Different distinctive cave light |
+| [FR/calanques](../../../countries/FR/sights/calanques.yaml) | Greater coastal landscape breadth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Remarkable blue light |
+| uniqueness | 8.8 | Unusual optical cave experience with analogues |
+| significance | 8.2 | Geological and historical interest |
+| experience | 8.5 | Short condition-dependent boat experience |
+| depth | 7.3 | Single cave |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.5.
+- Computed worldwide overall: 85.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.

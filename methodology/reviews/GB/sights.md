@@ -2792,3 +2792,38 @@ The British Museum's provisional 94.90 is supported by its multi-gallery, multi-
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+
+### sight-gb-warner-bros-studio-tour-london — Warner Bros. Studio Tour London — The Making of Harry Potter — 2026-11-26
+
+- YAML: [source](../../../countries/GB/sights/warner-bros-studio-tour-london.yaml)
+- Action: new
+- Precise subject and factual basis: Authentic film sets, props and filmmaking interpretation at Leavesden; mapped coordinate converted from DMS. Not central London or a theme park. [Visitor information](https://www.wbstudiotour.co.uk/the-experience/about/); source excerpts inspected 2026-11-26.
+- Location check: 51.690447, -0.418095; [published reference](https://www.wikidata.org/wiki/Q27924395); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | More varied theme park |
+| [JP/tokyo-disneysea](../../../countries/JP/sights/tokyo-disneysea.yaml) | Greater themed-land breadth |
+| [GB/victoria-albert](../../../countries/GB/sights/victoria-albert.yaml) | Broader decorative arts collection |
+| [FR/disneyland-park-paris](../../../countries/FR/sights/disneyland-park-paris.yaml) | Different ride and show experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Immersive original film sets |
+| uniqueness | 9.1 | Distinct original production material |
+| significance | 8.5 | Influential film heritage |
+| experience | 9.2 | Detailed walk-through exhibition |
+| depth | 9.1 | Numerous sets and filmmaking topics |
+
+- Applicable categories: culture:8.9, family:9.2, photography:8.9.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.

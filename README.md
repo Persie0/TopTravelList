@@ -165,14 +165,14 @@ Every registered country has a linked folder below. The status is determined fro
 | [Faroe Islands](countries/FO/) (`FO`) | [4](countries/FO/cities.md) | [7](countries/FO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Faroe%20Islands) |
 | [Fiji](countries/FJ/) (`FJ`) | [7](countries/FJ/cities.md) | [18](countries/FJ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Fiji) |
 | [Finland](countries/FI/) (`FI`) | [19](countries/FI/cities.md) | [53](countries/FI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Finland) |
-| [France](countries/FR/) (`FR`) | [25](countries/FR/cities.md) | [98](countries/FR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=France) |
+| [France](countries/FR/) (`FR`) | [25](countries/FR/cities.md) | [101](countries/FR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=France) |
 | [French Guiana](countries/GF/) (`GF`) | [4](countries/GF/cities.md) | [10](countries/GF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Guiana) |
 | [French Polynesia](countries/PF/) (`PF`) | [5](countries/PF/cities.md) | [11](countries/PF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Polynesia) |
 | [French Southern Territories](countries/TF/) (`TF`) | [0](countries/TF/cities.md) | [6](countries/TF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Southern%20Territories) |
 | [Gabon](countries/GA/) (`GA`) | [14](countries/GA/cities.md) | [32](countries/GA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gabon) |
 | [Gambia](countries/GM/) (`GM`) | [16](countries/GM/cities.md) | [31](countries/GM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gambia) |
 | [Georgia](countries/GE/) (`GE`) | [14](countries/GE/cities.md) | [38](countries/GE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Georgia) |
-| [Germany](countries/DE/) (`DE`) | [30](countries/DE/cities.md) | [97](countries/DE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Germany) |
+| [Germany](countries/DE/) (`DE`) | [30](countries/DE/cities.md) | [98](countries/DE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Germany) |
 | [Ghana](countries/GH/) (`GH`) | [20](countries/GH/cities.md) | [50](countries/GH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ghana) |
 | [Gibraltar](countries/GI/) (`GI`) | [1](countries/GI/cities.md) | [9](countries/GI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gibraltar) |
 | [Greece](countries/GR/) (`GR`) | [18](countries/GR/cities.md) | [65](countries/GR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Greece) |
@@ -198,7 +198,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Ireland](countries/IE/) (`IE`) | [20](countries/IE/cities.md) | [46](countries/IE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ireland) |
 | [Isle of Man](countries/IM/) (`IM`) | [7](countries/IM/cities.md) | [24](countries/IM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Isle%20of%20Man) |
 | [Israel](countries/IL/) (`IL`) | [12](countries/IL/cities.md) | [41](countries/IL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Israel) |
-| [Italy](countries/IT/) (`IT`) | [25](countries/IT/cities.md) | [134](countries/IT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Italy) |
+| [Italy](countries/IT/) (`IT`) | [25](countries/IT/cities.md) | [135](countries/IT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Italy) |
 | [Jamaica](countries/JM/) (`JM`) | [11](countries/JM/cities.md) | [26](countries/JM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Jamaica) |
 | [Japan](countries/JP/) (`JP`) | [87](countries/JP/cities.md) | [347](countries/JP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Japan) |
 | [Jersey](countries/JE/) (`JE`) | [4](countries/JE/cities.md) | [22](countries/JE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Jersey) |
@@ -266,7 +266,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Philippines](countries/PH/) (`PH`) | [15](countries/PH/cities.md) | [50](countries/PH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Philippines) |
 | [Pitcairn](countries/PN/) (`PN`) | [1](countries/PN/cities.md) | [10](countries/PN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Pitcairn) |
 | [Poland](countries/PL/) (`PL`) | [22](countries/PL/cities.md) | [76](countries/PL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Poland) |
-| [Portugal](countries/PT/) (`PT`) | [20](countries/PT/cities.md) | [51](countries/PT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Portugal) |
+| [Portugal](countries/PT/) (`PT`) | [20](countries/PT/cities.md) | [53](countries/PT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Portugal) |
 | [Puerto Rico](countries/PR/) (`PR`) | [5](countries/PR/cities.md) | [11](countries/PR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Puerto%20Rico) |
 | [Qatar](countries/QA/) (`QA`) | [14](countries/QA/cities.md) | [55](countries/QA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Qatar) |
 | [Romania](countries/RO/) (`RO`) | [20](countries/RO/cities.md) | [59](countries/RO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Romania) |
@@ -323,7 +323,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Uganda](countries/UG/) (`UG`) | [6](countries/UG/cities.md) | [25](countries/UG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Uganda) |
 | [Ukraine](countries/UA/) (`UA`) | [14](countries/UA/cities.md) | [49](countries/UA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ukraine) |
 | [United Arab Emirates](countries/AE/) (`AE`) | [14](countries/AE/cities.md) | [57](countries/AE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20Arab%20Emirates) |
-| [United Kingdom](countries/GB/) (`GB`) | [30](countries/GB/cities.md) | [80](countries/GB/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20Kingdom) |
+| [United Kingdom](countries/GB/) (`GB`) | [30](countries/GB/cities.md) | [81](countries/GB/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20Kingdom) |
 | [United States](countries/US/) (`US`) | [15](countries/US/cities.md) | [110](countries/US/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20States) |
 | [United States Minor Outlying Islands](countries/UM/) (`UM`) | [0](countries/UM/cities.md) | [9](countries/UM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20States%20Minor%20Outlying%20Islands) |
 | [Uruguay](countries/UY/) (`UY`) | [33](countries/UY/cities.md) | [61](countries/UY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Uruguay) |

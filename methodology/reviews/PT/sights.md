@@ -1791,3 +1791,73 @@
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+
+### sight-pt-oceanario-de-lisboa — Oceanário de Lisboa — 2026-11-26
+
+- YAML: [source](../../../countries/PT/sights/oceanario-de-lisboa.yaml)
+- Action: new
+- Precise subject and factual basis: Central aquarium and four marine habitat displays, educational exhibitions; mapped aquarium building. [Visitor information](https://oceanario.pt/en/exhibitions/); source excerpts inspected 2026-11-26.
+- Location check: 38.76352, -9.09372; [published reference](https://mapcarta.com/35987526); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | Greater scientific collection breadth |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | Wider natural history topics |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | Different museum collections |
+| [IT/pelagos](../../../countries/IT/sights/pelagos.yaml) | Wild marine wildlife rather than aquarium |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Immersive marine displays |
+| uniqueness | 8.6 | Major aquarium with international peers |
+| significance | 8.6 | Marine education and conservation interpretation |
+| experience | 9.0 | Varied accessible exhibitions |
+| depth | 8.8 | Several habitats and educational themes |
+
+- Applicable categories: wildlife:9.0, family:9.1, nature:8.9.
+- Computed worldwide overall: 87.40/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+### sight-pt-national-tile-museum — National Tile Museum (Museu Nacional do Azulejo) — 2026-11-26
+
+- YAML: [source](../../../countries/PT/sights/national-tile-museum.yaml)
+- Action: new
+- Precise subject and factual basis: Historic Madre de Deus convent and Portuguese tile collection. Official museum currently states temporary closure for renovation; ratings describe normal visitor offering, not current access. [Visitor information](https://mnazulejo.gov.pt/en/museu); source excerpts inspected 2026-11-26.
+- Location check: 38.72444, -9.11389; [published reference](https://en.wikipedia.org/wiki/National_Museum_of_the_Azulejo); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/victoria-albert](../../../countries/GB/sights/victoria-albert.yaml) | Broader decorative arts |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | Different art collection |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Much broader collection |
+| [PT/jeronimos](../../../countries/PT/sights/jeronimos.yaml) | More monumental religious architecture |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Distinctive tile displays and convent |
+| uniqueness | 9.1 | Specialist national collection |
+| significance | 8.9 | Important Portuguese decorative arts |
+| experience | 8.6 | Curated chronological visit in normal conditions |
+| depth | 8.9 | Several periods and techniques |
+
+- Applicable categories: culture:9.2, history:9.0, architecture:9.0, photography:8.8.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.

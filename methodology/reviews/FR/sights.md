@@ -3436,3 +3436,108 @@
 - [Dated worldwide reassessment pass 58 — 2026-11-26](worldwide-deferred-pass58-2026-11-26.md)
 
 - [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)
+
+
+### sight-fr-disneyland-park-paris — Disneyland Park (Paris) — 2026-11-26
+
+- YAML: [source](../../../countries/FR/sights/disneyland-park-paris.yaml)
+- Action: new
+- Precise subject and factual basis: Original Paris resort theme park, themed lands, rides and parades; exclude separate Disney Adventure World and hotels. [Visitor information](https://www.disneylandparis.com/en-int/destinations/disneyland-park); source excerpts inspected 2026-11-26.
+- Location check: 48.87229, 2.77605; [published reference](https://mapcarta.com/25741998); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | Original park has greater historical significance |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | Comparable related design |
+| [JP/tokyo-disneysea](../../../countries/JP/sights/tokyo-disneysea.yaml) | More distinctive nautical setting |
+| [FR/disney-adventure-world](../../../countries/FR/sights/disney-adventure-world.yaml) | Different film-inspired themes |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Immersive themed settings |
+| uniqueness | 8.7 | Related Disney park designs elsewhere |
+| significance | 8.5 | Entertainment design history |
+| experience | 9.3 | Varied rides and shows |
+| depth | 9.2 | Multiple themed lands |
+
+- Applicable categories: family:9.4, culture:8.5, photography:8.9.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+### sight-fr-disney-adventure-world — Disney Adventure World (Paris) — 2026-11-26
+
+- YAML: [source](../../../countries/FR/sights/disney-adventure-world.yaml)
+- Action: new
+- Precise subject and factual basis: Second Paris resort theme park, renamed from Walt Disney Studios Park on 29 March 2026 with World of Frozen opening; separate park scope. [Visitor information](https://news.disneylandparis.com/en/walt-disney-studio-park-discovery/); source excerpts inspected 2026-11-26.
+- Location check: 48.86541, 2.77636; [published reference](https://mapcarta.com/W205734843); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/disneyland-park-paris](../../../countries/FR/sights/disneyland-park-paris.yaml) | More established and broader original park |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | Different classic themed lands |
+| [JP/universal-studios-japan](../../../countries/JP/sights/universal-studios-japan.yaml) | Comparable film-inspired visit |
+| [GB/warner-bros-studio-tour-london](../../../countries/GB/sights/warner-bros-studio-tour-london.yaml) | Authentic production sets rather than rides |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Memorable immersive scenes |
+| uniqueness | 8.6 | Comparable branded park worlds |
+| significance | 8.2 | Entertainment design interest |
+| experience | 9.1 | Multiple rides and shows |
+| depth | 8.8 | Several themed zones |
+
+- Applicable categories: family:9.3, culture:8.4, photography:8.7.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
+
+
+### sight-fr-chateau-des-baux — Château des Baux-de-Provence — 2026-11-26
+
+- YAML: [source](../../../countries/FR/sights/chateau-des-baux.yaml)
+- Action: new
+- Precise subject and factual basis: Ruined fortified castle and grounds overlooking Provence; distinct from village and nearby multimedia attraction. [Visitor information](https://www.lesbauxdeprovence.com/en/activites/patrimoine/chateau-des-baux-de-provence/); source excerpts inspected 2026-11-26.
+- Location check: 43.74398, 4.79659; [published reference](https://mapcarta.com/34920674); approximate representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values checked; independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/edinburgh-castle](../../../countries/GB/sights/edinburgh-castle.yaml) | More extensive intact fortress |
+| [GB/dunluce-castle](../../../countries/GB/sights/dunluce-castle.yaml) | Comparable atmospheric ruins |
+| [DE/heidelberg-castle](../../../countries/DE/sights/heidelberg-castle.yaml) | Larger palace ruin |
+| [PT/moorish-castle](../../../countries/PT/sights/moorish-castle.yaml) | Comparable hilltop fortification |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Dramatic hilltop ruins |
+| uniqueness | 8.5 | Other fortified ruins comparable |
+| significance | 8.7 | Medieval regional heritage |
+| experience | 8.6 | Walkable castle and views |
+| depth | 8.4 | Several ruins and viewpoints |
+
+- Applicable categories: history:8.9, architecture:8.8, photography:8.9.
+- Computed worldwide overall: 85.75/100.
+- High-score challenge: Below 90 overall. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access checks.
