@@ -32,3 +32,16 @@ export function routeLine(stops){
  const out=[];for(const p of stops){const last=out.at(-1);out.push([p.lat,last?p.lon+360*Math.round((last[1]-p.lon)/360):p.lon])}return out;
 }
 export function navigationUrl(stops){if(stops.length<2)return null;const pts=stops.map(p=>p.lat+','+p.lon);const q=new URLSearchParams({api:'1',origin:pts[0],destination:pts.at(-1)});if(pts.length>2)q.set('waypoints',pts.slice(1,-1).join('|'));return 'https://www.google.com/maps/dir/?'+q}
+
+export function nearbyStops(stops,candidates,{minScore=80,maxDistance=150,limit=12}={}){
+ const selected=new Set(stops.map(p=>p.id));
+ if(!stops.length)return [];
+ return uniqueStops(candidates).filter(p=>!selected.has(p.id)&&Number.isFinite(p.overall)&&p.overall>=minScore).map(p=>({point:p,distance:Math.min(...stops.map(s=>distanceKm(s,p)))})).filter(r=>r.distance<=maxDistance).sort((a,b)=>(b.point.overall-24*b.distance/Math.max(1,maxDistance))-(a.point.overall-24*a.distance/Math.max(1,maxDistance))||a.distance-b.distance||a.point.id.localeCompare(b.point.id)).slice(0,limit);
+}
+export function regionalRecommendations(candidates,options={}){
+ const seeds=uniqueStops(candidates).filter(p=>Number.isFinite(p.overall)&&p.overall>=(options.minScore??80)).sort((a,b)=>b.overall-a.overall||a.id.localeCompare(b.id)).slice(0,12);
+ const seen=new Set(),routes=[];
+ for(const seed of seeds){const route=suggestRoute(seed,candidates,options),key=route.map(p=>p.id).sort().join('|');if(seen.has(key))continue;seen.add(key);routes.push(route)}
+ const utility=r=>r.reduce((n,p)=>n+p.overall,0)-24*routeDistance(r)/Math.max(1,options.maxLeg??150);
+ return routes.sort((a,b)=>utility(b)-utility(a)||routeDistance(a)-routeDistance(b)).slice(0,3);
+}
