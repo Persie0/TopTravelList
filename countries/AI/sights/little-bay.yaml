@@ -1,0 +1,16 @@
+id: sight-ai-little-bay
+name: "Little Bay Marine Park (permitted cove viewing)"
+location:
+  country_code: AI
+  latitude: 18.228
+  longitude: -63.068
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 8.5
+  depth: 7.5
+  categories:
+    nature: 8.7
+    beaches: 8.8
+    photography: 9.0

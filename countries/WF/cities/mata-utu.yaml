@@ -1,0 +1,15 @@
+id: city-wf-mata-utu
+name: "Mataʻutu (Wallis)"
+location:
+  country_code: WF
+  latitude: -13.282
+  longitude: -176.174
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.0
+  depth: 7.8
+  categories:
+    culture: 8.8
+    history: 8.5

@@ -1,0 +1,16 @@
+id: sight-bl-gouverneur-beach
+name: "Gouverneur Beach"
+location:
+  country_code: BL
+  latitude: 17.879
+  longitude: -62.834
+scores:
+  impact: 8.7
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.6
+  depth: 7.2
+  categories:
+    beaches: 9.0
+    photography: 8.9
+    relaxation: 8.8

@@ -1,0 +1,16 @@
+id: sight-ai-road-pond
+name: "Road Pond (Sandy Ground salt heritage)"
+location:
+  country_code: AI
+  latitude: 18.204
+  longitude: -63.089
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 7.8
+  depth: 7.2
+  categories:
+    history: 8.5
+    nature: 8.2
+    culture: 8.3

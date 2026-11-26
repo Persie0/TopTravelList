@@ -47,7 +47,7 @@
 - Worldwide peers (I/U/S/E/D):
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); upper reference; provisional lower uniqueness and lower depth, given cosmopolitan coastal town and urban services not beaches or boat tours.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related type or visitor scope; provisional lower uniqueness and lower depth, given cosmopolitan coastal town and urban services not beaches or boat tours.
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given cosmopolitan coastal town and urban services not beaches or boat tours.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given cosmopolitan coastal town and urban services not beaches or boat tours.
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded/regional reference; provisional lower uniqueness and lower depth, given cosmopolitan coastal town and urban services not beaches or boat tours.
 - Impact 7.3: busy bay-front streets.
 - Uniqueness 7.0: cosmopolitan coastal town.
@@ -199,7 +199,7 @@
 - Worldwide peers (I/U/S/E/D):
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); upper reference; provisional lower uniqueness and lower depth, given resort and local community and beach separate.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related type or visitor scope; provisional lower uniqueness and lower depth, given resort and local community and beach separate.
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given resort and local community and beach separate.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given resort and local community and beach separate.
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded/regional reference; provisional lower uniqueness and lower depth, given resort and local community and beach separate.
 - Impact 7.0: coastal village streets.
 - Uniqueness 6.8: resort and local community.
@@ -218,7 +218,7 @@
 - Worldwide peers (I/U/S/E/D):
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); upper reference; provisional lower uniqueness and lower depth, given surf-town character and bay and mountain excluded.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related type or visitor scope; provisional lower uniqueness and lower depth, given surf-town character and bay and mountain excluded.
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given surf-town character and bay and mountain excluded.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given surf-town character and bay and mountain excluded.
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded/regional reference; provisional lower uniqueness and lower depth, given surf-town character and bay and mountain excluded.
 - Impact 7.3: coastal village below hills.
 - Uniqueness 7.4: surf-town character.
@@ -237,7 +237,7 @@
 - Worldwide peers (I/U/S/E/D):
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); upper reference; provisional lower uniqueness and lower depth, given west coast local life and gorges excluded.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related type or visitor scope; provisional lower uniqueness and lower depth, given west coast local life and gorges excluded.
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given west coast local life and gorges excluded.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given west coast local life and gorges excluded.
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded/regional reference; provisional lower uniqueness and lower depth, given west coast local life and gorges excluded.
 - Impact 7.2: coastal village and marina setting.
 - Uniqueness 7.3: west coast local life.
@@ -313,7 +313,7 @@
 - Worldwide peers (I/U/S/E/D):
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); upper reference; provisional lower uniqueness and lower depth, given fishing community character and Ile aux Cerfs excluded.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related type or visitor scope; provisional lower uniqueness and lower depth, given fishing community character and Ile aux Cerfs excluded.
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given fishing community character and Ile aux Cerfs excluded.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related type or visitor scope; provisional lower uniqueness and lower depth, given fishing community character and Ile aux Cerfs excluded.
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded/regional reference; provisional lower uniqueness and lower depth, given fishing community character and Ile aux Cerfs excluded.
 - Impact 7.0: small coastal harbor village.
 - Uniqueness 7.2: fishing community character.

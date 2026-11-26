@@ -1,0 +1,16 @@
+id: sight-gg-south-coast
+name: "Guernsey south coast cliff paths"
+location:
+  country_code: GG
+  latitude: 49.422
+  longitude: -2.572
+scores:
+  impact: 8.8
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 8.8
+    photography: 9.0
+    adventure: 8.7

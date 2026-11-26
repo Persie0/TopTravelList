@@ -1,0 +1,15 @@
+id: sight-ky-national-museum
+name: "Cayman Islands National Museum (Grand Cayman)"
+location:
+  country_code: KY
+  latitude: 19.295
+  longitude: -81.382
+scores:
+  impact: 7.5
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 8.7
+    culture: 8.6

@@ -1,0 +1,16 @@
+id: sight-gg-castle-cornet
+name: "Castle Cornet and its museums"
+location:
+  country_code: GG
+  latitude: 49.453
+  longitude: -2.524
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.1
+    architecture: 8.9
+    photography: 8.9

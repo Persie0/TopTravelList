@@ -1,0 +1,15 @@
+id: sight-mf-fort-louis
+name: "Fort Louis (Marigot)"
+location:
+  country_code: MF
+  latitude: 18.070774
+  longitude: -63.085404
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 8.2
+  depth: 7.1
+  categories:
+    history: 8.5
+    photography: 8.7

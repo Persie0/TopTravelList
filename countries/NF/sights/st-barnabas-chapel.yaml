@@ -1,0 +1,16 @@
+id: sight-nf-st-barnabas-chapel
+name: "St Barnabas Chapel"
+location:
+  country_code: NF
+  latitude: -29.0342
+  longitude: 167.928
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.1
+  depth: 7.2
+  categories:
+    architecture: 8.6
+    history: 8.7
+    culture: 8.4

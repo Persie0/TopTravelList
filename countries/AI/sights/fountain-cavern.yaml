@@ -1,0 +1,15 @@
+id: sight-ai-fountain-cavern
+name: "Fountain Cavern National Park"
+location:
+  country_code: AI
+  latitude: 18.252
+  longitude: -63.034
+scores:
+  impact: null
+  uniqueness: 9.0
+  significance: 9.1
+  experience: null
+  depth: null
+  categories:
+    history: 9.2
+    culture: 8.9

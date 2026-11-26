@@ -1,0 +1,14 @@
+id: sight-mp-mariana-trench
+name: "Mariana Trench Marine National Monument (remote marine heritage)"
+location:
+  country_code: MP
+  latitude: 20
+  longitude: 145
+scores:
+  impact: null
+  uniqueness: 9.7
+  significance: 9.6
+  experience: null
+  depth: null
+  categories:
+    nature: 9.6

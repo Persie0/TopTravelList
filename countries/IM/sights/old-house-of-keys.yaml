@@ -1,0 +1,16 @@
+id: sight-im-old-house-of-keys
+name: "Old House of Keys"
+location:
+  country_code: IM
+  latitude: 54.074
+  longitude: -4.653
+scores:
+  impact: 7.9
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.4
+  depth: 7.7
+  categories:
+    history: 8.9
+    culture: 8.7
+    architecture: 8.0

@@ -1,0 +1,16 @@
+id: sight-gl-sermilik-fjord
+name: "Sermilik Fjord"
+location:
+  country_code: GL
+  latitude: 65.8
+  longitude: -38.0
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 8.6
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.5
+    adventure: 9.0

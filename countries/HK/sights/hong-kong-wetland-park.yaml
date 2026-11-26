@@ -1,0 +1,16 @@
+id: sight-hk-hong-kong-wetland-park
+name: "Hong Kong Wetland Park"
+location:
+  country_code: HK
+  latitude: 22.4697
+  longitude: 114.0059
+scores:
+  impact: 7.8
+  uniqueness: 7.9
+  significance: 8.1
+  experience: 8.1
+  depth: 8.0
+  categories:
+    nature: 8.2
+    wildlife: 8.4
+    family: 8.1

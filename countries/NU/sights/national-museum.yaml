@@ -1,0 +1,15 @@
+id: sight-nu-national-museum
+name: "Tāoga Niue National Museum"
+location:
+  country_code: NU
+  latitude: -19.0522
+  longitude: -169.9214
+scores:
+  impact: 7.6
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.1
+  depth: 7.8
+  categories:
+    history: 8.7
+    culture: 8.8

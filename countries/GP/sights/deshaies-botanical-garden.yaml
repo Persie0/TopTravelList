@@ -1,0 +1,16 @@
+id: sight-gp-deshaies-botanical-garden
+name: "Deshaies Botanical Garden"
+location:
+  country_code: GP
+  latitude: 16.298
+  longitude: -61.794
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.5
+  experience: 8.5
+  depth: 8.0
+  categories:
+    nature: 8.6
+    relaxation: 8.4
+    family: 8.4

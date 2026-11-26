@@ -1,0 +1,16 @@
+id: sight-aw-fontein-cave
+name: "Fontein Cave"
+location:
+  country_code: AW
+  latitude: 12.494
+  longitude: -69.913
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.2
+  depth: 7.4
+  categories:
+    history: 9.0
+    nature: 8.4
+    culture: 8.6

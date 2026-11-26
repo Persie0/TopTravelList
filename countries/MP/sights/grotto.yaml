@@ -1,0 +1,16 @@
+id: sight-mp-grotto
+name: "Saipan Grotto (authorized cavern diving and viewpoint)"
+location:
+  country_code: MP
+  latitude: 15.256
+  longitude: 145.817
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 8.3
+  depth: 7.6
+  categories:
+    nature: 8.9
+    adventure: 9.0
+    photography: 9.0

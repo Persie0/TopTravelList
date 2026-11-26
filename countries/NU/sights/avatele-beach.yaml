@@ -1,0 +1,16 @@
+id: sight-nu-avatele-beach
+name: "Avatele Beach and permitted nearshore reef"
+location:
+  country_code: NU
+  latitude: -19.128
+  longitude: -169.919
+scores:
+  impact: 8.1
+  uniqueness: 7.8
+  significance: 7.6
+  experience: 8.3
+  depth: 7.5
+  categories:
+    beaches: 8.2
+    nature: 8.2
+    relaxation: 8.3

@@ -1,0 +1,16 @@
+id: sight-ax-pommern
+name: "Museum Ship Pommern"
+location:
+  country_code: AX
+  latitude: 60.0964
+  longitude: 19.9248
+scores:
+  impact: 8.6
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 8.8
+  depth: 8.3
+  categories:
+    history: 9.1
+    culture: 8.8
+    photography: 8.6

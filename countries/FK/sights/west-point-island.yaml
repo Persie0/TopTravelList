@@ -1,0 +1,16 @@
+id: sight-fk-west-point-island
+name: "West Point Island (permitted seabird viewing)"
+location:
+  country_code: FK
+  latitude: -51.349
+  longitude: -60.696
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.2
+  categories:
+    wildlife: 9.2
+    nature: 9.1
+    photography: 9.2

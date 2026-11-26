@@ -1,0 +1,16 @@
+id: sight-aq-baily-head
+name: "Baily Head (Deception Island)"
+location:
+  country_code: AQ
+  latitude: -62.966667
+  longitude: -60.5
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    photography: 9.2

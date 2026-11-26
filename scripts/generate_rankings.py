@@ -18,9 +18,11 @@ import pycountry
 import yaml
 
 from rank import overall_score
+from registry import complete, registry_errors
 
 ROOT = Path(__file__).resolve().parents[1]
 COUNTRIES = ROOT / "countries"
+REGISTRY = json.loads((COUNTRIES / "_registry.json").read_text(encoding="utf-8"))
 DIMENSIONS = ("impact", "uniqueness", "significance", "experience", "depth")
 COUNTRY_NAMES = {
     "BO": "Bolivia", "BN": "Brunei", "CD": "DR Congo",
@@ -62,6 +64,9 @@ TYPE_PATTERNS = [
 
 
 def get_country_name(code):
+    override = REGISTRY.get('territories', {}).get(code, {}).get('name')
+    if override:
+        return override
     if code in COUNTRY_NAMES:
         return COUNTRY_NAMES[code]
     country = pycountry.countries.get(alpha_2=code)
@@ -264,14 +269,14 @@ def generate_country_directory(codes):
         cities = sum(1 for _ in (COUNTRIES / code / "cities").glob("*.yaml"))
         sights = sum(1 for _ in (COUNTRIES / code / "sights").glob("*.yaml"))
         item = (get_country_name(code), code, cities, sights)
-        (done if cities and sights else not_done).append(item)
+        (done if complete(REGISTRY, code, cities, sights) else not_done).append(item)
     done.sort(key=lambda row: (row[0].casefold(), row[1]))
     not_done.sort(key=lambda row: (row[0].casefold(), row[1]))
 
     lines = [
-        f"**{len(done)} done · {len(not_done)} not done · {len(codes)} countries total.**",
+        f"**{len(done)} done · {len(not_done)} not done · {len(codes)} geographic entries total.**",
         "",
-        "**Done** means both the city and sight folders contain destination YAML records. "
+        "**Done** means the required destination folders contain YAML records; for territories without permanent civilian settlements, sight records alone suffice. "
         "It does not mean that every possible destination has been cataloged.",
         "",
         f"### Done ({len(done)})",
@@ -289,7 +294,7 @@ def generate_country_directory(codes):
         "",
         f"### Not done ({len(not_done)})",
         "",
-        "These countries have no entries in one or both destination folders yet. "
+        "These geographic entries lack required destination records. "
         "Their country folders already exist; follow the links to populate them.",
         "",
         "| Country | Country | Country | Country |",
@@ -327,7 +332,10 @@ def main():
     parser.add_argument("--check", action="store_true",
                         help="Report missing or stale generated rankings, without writing")
     args = parser.parse_args()
-    codes = json.loads((COUNTRIES / "_registry.json").read_text(encoding="utf-8"))["codes"]
+    codes = REGISTRY["codes"]
+    errors = registry_errors(REGISTRY)
+    if errors:
+        parser.error("; ".join(errors))
     if args.country and args.country not in codes:
         parser.error("Unknown country code: " + args.country)
     selected = [args.country] if args.country else codes

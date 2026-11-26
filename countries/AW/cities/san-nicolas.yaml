@@ -1,0 +1,16 @@
+id: city-aw-san-nicolas
+name: "San Nicolas"
+location:
+  country_code: AW
+  latitude: 12.436
+  longitude: -69.908
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.2
+  depth: 7.7
+  categories:
+    culture: 8.7
+    photography: 8.5
+    history: 8.1

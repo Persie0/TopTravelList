@@ -1,0 +1,16 @@
+id: sight-gg-candie
+name: "Candie Gardens and Guernsey Museum"
+location:
+  country_code: GG
+  latitude: 49.457
+  longitude: -2.541
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.6
+  depth: 8.4
+  categories:
+    culture: 8.6
+    history: 8.4
+    relaxation: 8.5

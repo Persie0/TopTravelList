@@ -1,0 +1,16 @@
+id: sight-gf-montagne-des-singes
+name: "Montagne des Singes trail"
+location:
+  country_code: GF
+  latitude: 5.08
+  longitude: -52.71
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 8.4
+  depth: 7.5
+  categories:
+    nature: 8.5
+    adventure: 8.4
+    photography: 8.4

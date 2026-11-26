@@ -1,0 +1,16 @@
+id: sight-fk-new-island
+name: "New Island (authorized visitor sector)"
+location:
+  country_code: FK
+  latitude: -51.724
+  longitude: -61.299
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.5
+  depth: 8.6
+  categories:
+    wildlife: 9.2
+    nature: 9.1
+    history: 8.5

@@ -1,0 +1,15 @@
+id: city-mp-san-jose-tinian
+name: "San Jose (Tinian)"
+location:
+  country_code: MP
+  latitude: 14.969
+  longitude: 145.623
+scores:
+  impact: 7.3
+  uniqueness: 8.0
+  significance: 8.2
+  experience: 7.6
+  depth: 7.0
+  categories:
+    culture: 8.3
+    history: 8.5

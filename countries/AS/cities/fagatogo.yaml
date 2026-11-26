@@ -1,0 +1,16 @@
+id: city-as-fagatogo
+name: "Fagatogo"
+location:
+  country_code: AS
+  latitude: -14.2817226
+  longitude: -170.6929093
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 8.8
+    culture: 8.5
+    architecture: 7.9

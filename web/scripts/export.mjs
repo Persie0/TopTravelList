@@ -15,7 +15,8 @@ const countries={}, rows=[], seen=new Set();
 const patterns=[[/great wall|city wall|fortress|citadel|\bfort\b/i,'Fortification'],[/national park|marine park|nature reserve|geopark|sanctuary/i,'Park / reserve'],[/temple|monastery|shrine|pagoda|mosque|cathedral|church|stupa|abbey/i,'Religious site'],[/museum|mausoleum|memorial|tombs?|grottoes|archaeological|ruins/i,'Museum / heritage'],[/palace|castle|schloss|chateau/i,'Palace / castle'],[/waterfall|\bfalls\b/i,'Waterfall'],[/beach|bay|lagoon/i,'Beach / bay'],[/island|islet/i,'Island'],[/lake|reservoir/i,'Lake'],[/river|canal/i,'River / waterway'],[/\bcave\b|\bcavern\b/i,'Cave'],[/peak|mountain|\bmount\b|volcano|glacier/i,'Mountain / peak'],[/gorge|canyon|valley/i,'Valley / canyon'],[/forest|jungle|rainforest/i,'Forest'],[/garden|arboretum|botanic/i,'Garden'],[/wetland|marsh/i,'Wetland'],[/village|old town|ancient town|historic centre|historic center/i,'Historic settlement'],[/tower|skyscraper|skywalk|viewpoint|observatory/i,'Tower / viewpoint'],[/bridge/i,'Bridge'],[/market|bazaar/i,'Market'],[/trail|trek|plank walk/i,'Trail / walk'],[/desert|dune/i,'Desert'],[/historic areas|historical park/i,'Historic area'],[/park|square|plaza/i,'Park / square'],[/harbour|harbor|coast|cape/i,'Coast']];
 for(const code of registry.codes){
   const geo=world.find(c=>c.cca2===code);
-  const c=countries[code]={code,name:overrides[code]||names.of(code),region:geo?.region||'Other',numeric:geo?.ccn3||null,center:geo?.latlng||null,cities:0,sights:0};
+  const territory=registry.territories?.[code];
+  const c=countries[code]={code,name:territory?.name||overrides[code]||names.of(code),region:geo?.region||'Other',numeric:geo?.ccn3||null,center:geo?.latlng||null,cities:0,sights:0,territory:!!territory,settlementsRequired:territory?.settlements_required!==false,note:territory?.note||null};
   for(const kind of ['cities','sights']){
     const dir=path.join(root,'countries',code,kind);
     for(const file of fs.readdirSync(dir).filter(f=>f.endsWith('.yaml')).sort()){
@@ -27,6 +28,7 @@ for(const code of registry.codes){
       rows.push({id:r.id,name:r.name,country:code,kind,type,lat:loc.latitude,lon:loc.longitude,scores:r.scores,overall:overall(r.scores,scoring.dimensions),source:'countries/'+code+'/'+kind+'/'+file});
     }
   }
+  c.catalogued=Boolean(c.sights&&(c.cities||!c.settlementsRequired));
 }
 fs.mkdirSync(path.join(web,'public'),{recursive:true});
 fs.writeFileSync(path.join(web,'public/atlas.json'),JSON.stringify({countries,rows,dimensions:scoring.dimensions,categories:scoring.categories,version:scoring.version}));

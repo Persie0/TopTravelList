@@ -1,0 +1,16 @@
+id: city-re-saint-pierre
+name: "Saint-Pierre"
+location:
+  country_code: RE
+  latitude: -21.3393
+  longitude: 55.4781
+scores:
+  impact: 7.6
+  uniqueness: 7.6
+  significance: 7.3
+  experience: 8.0
+  depth: 7.6
+  categories:
+    food: 8.2
+    culture: 8.0
+    relaxation: 8.0

@@ -143,7 +143,7 @@ Use the following global calibration anchors. They are *examples*, not an automa
 
 **Explicit approval for every 10.** `methodology/scoring.json` maintains `global_ten_anchors`, a whitelist of destination IDs for each core dimension or category. A 10 is valid **only** for a listed destination *and* dimension/category; `scripts/validate.py` rejects undocumented 10s. To add a genuinely world-leading new destination, compare it with current and missing global peers, set a substantiated 10 only for the deserved dimension, update its exact ID under `global_ten_anchors`, and review whether an older anchor should be downgraded. There are **no per-country quotas**, and a small country can have the best example in a specific dimension.
 
-**Global comparability is independent of coverage.** Do not fill all 197 countries before calibrating: preserve the same global bar from day one. Reassess benchmarks as additional continents enter the database; do not rescale existing records automatically by country population, country counts, visitor numbers or percentile. No country should receive a default 10. A computed overall score of 100/100 is exceptionally unlikely because a destination would need to independently earn 10 in all five dimensions; an ordinary world-famous place need not receive 100.
+**Global comparability is independent of coverage.** Do not fill all registered geographic entries before calibrating: preserve the same global bar from day one. Reassess benchmarks as additional continents enter the database; do not rescale existing records automatically by country population, country counts, visitor numbers or percentile. No country should receive a default 10. A computed overall score of 100/100 is exceptionally unlikely because a destination would need to independently earn 10 in all five dimensions; an ordinary world-famous place need not receive 100.
 
 ### Historical migration (do not apply to new data)
 
@@ -195,20 +195,20 @@ Each destination has exactly one `location` object with **only**:
 - `latitude`: WGS84 decimal degrees, -90 through 90.
 - `longitude`: WGS84 decimal degrees, -180 through 180.
 
-Use a representative center point for a city or sight. Do not add addresses, nearest cities, regions, entrance locations, time zones, polygons, or map links. A country folder uses the same code as the destination's location. Kosovo uses the practical, unofficial `XK` code.
+Use a representative center point for a city or sight. Do not add addresses, nearest cities, regions, entrance locations, time zones, polygons, or map links. A country folder uses the same code as the destination's location. Kosovo uses the practical, unofficial `XK` code. Official ISO territory codes are geographic indexing labels, not political recognition. See [territory expansion policy](methodology/territory-expansion.md).
 
 ## Country ranking overview files (mandatory after any data changes)
 
 Each registered country's folder must contain **two generated Markdown overview files**: `cities.md` and `sights.md` (not inside the subfolders). They display the **full actual ranking** from the source YAML, not a curated top 10 and not country-relative scores. Every ranked entry shows its position, overall score /100, rating breakdown, assessed category scores, destination type derived from its name, and a clickable **Google Maps link built from the exact latitude/longitude**. The destination name links to the corresponding YAML. Empty countries still get two overview files explaining that no destinations have been rated. Missing core scores appear in a separate unranked section.
 
-The root `README.md` also contains an automatically maintained **Done / Not done** index, linking to every registered country folder. A country is Done when both `cities/` and `sights/` contain at least one destination YAML; this is a population-status indicator, not a guarantee of exhaustive sightseeing coverage. Regenerating the rankings also refreshes this root directory, and `--check` detects stale README index entries.
+The root `README.md` also contains an automatically maintained **Done / Not done** index, linking to every registered country folder. An entry is Done when both `cities/` and `sights/` contain at least one destination YAML, except entries explicitly marked `settlements_required: false` in the registry, which require sights only; this is a population-status indicator, not a guarantee of exhaustive sightseeing coverage. Regenerating the rankings also refreshes this root directory, and `--check` detects stale README index entries.
 
 The only canonical editable sources remain `countries/XX/cities/*.yaml` and `countries/XX/sights/*.yaml`. Generated Markdown files are **not** the source of truth and must not be manually scored.
 
 After **every** new country, destination, location change, or score change:
 
 1. Run `python scripts/validate.py` for the worldwide scoring/structure rules.
-2. Run `python scripts/generate_rankings.py --country XX` for each affected country, or omit the flag to refresh all 197 countries.
+2. Run `python scripts/generate_rankings.py --country XX` for each affected country, or omit the flag to refresh all registered geographic entries.
 3. Run `python scripts/generate_rankings.py --check` and commit the source YAML **and** refreshed Markdown rankings together.
 
 The generator uses the exact worldwide v2 weighting in `methodology/scoring.json`, stable sorting, and tied ranks. It does **not** recalibrate scores, add source fields, or assign a 10/10 to any destination. Google Maps search links use numeric WGS84 coordinates; they are for locating representative points, not necessarily navigation to a park entrance.

@@ -1,0 +1,16 @@
+id: sight-pf-bora-bora-lagoon
+name: "Bora Bora Lagoon"
+location:
+  country_code: PF
+  latitude: -16.515
+  longitude: -151.723
+scores:
+  impact: 9.5
+  uniqueness: 9.2
+  significance: 8.0
+  experience: 9.3
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.5
+    relaxation: 9.4

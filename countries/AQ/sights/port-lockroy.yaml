@@ -1,0 +1,16 @@
+id: sight-aq-port-lockroy
+name: "Port Lockroy (Goudier Island)"
+location:
+  country_code: AQ
+  latitude: -64.816667
+  longitude: -63.483333
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.8
+  depth: 8.0
+  categories:
+    history: 9.0
+    culture: 8.6
+    wildlife: 8.6

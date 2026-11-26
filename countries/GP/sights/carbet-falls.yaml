@@ -1,0 +1,15 @@
+id: sight-gp-carbet-falls
+name: "Carbet Falls (permitted visitor viewpoints)"
+location:
+  country_code: GP
+  latitude: 16.044
+  longitude: -61.639
+scores:
+  impact: 8.9
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 9.0
+    photography: 9.0

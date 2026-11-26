@@ -1,0 +1,16 @@
+id: sight-aq-cuverville-island
+name: "Cuverville Island"
+location:
+  country_code: AQ
+  latitude: -64.683333
+  longitude: -62.633333
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 7.9
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    photography: 9.2

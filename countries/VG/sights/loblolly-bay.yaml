@@ -1,0 +1,16 @@
+id: sight-vg-loblolly-bay
+name: "Loblolly Bay (Anegada)"
+location:
+  country_code: VG
+  latitude: 18.746
+  longitude: -64.306
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.7
+  depth: 7.8
+  categories:
+    beaches: 9.2
+    nature: 8.6
+    photography: 8.9

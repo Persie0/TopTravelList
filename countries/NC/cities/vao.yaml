@@ -1,0 +1,15 @@
+id: city-nc-vao
+name: "Vao"
+location:
+  country_code: NC
+  latitude: -22.6667
+  longitude: 167.4833
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 7.5
+  experience: 7.3
+  depth: 6.8
+  categories:
+    culture: 8.0
+    history: 7.7

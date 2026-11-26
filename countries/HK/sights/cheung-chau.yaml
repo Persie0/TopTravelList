@@ -1,0 +1,16 @@
+id: sight-hk-cheung-chau
+name: "Cheung Chau Island"
+location:
+  country_code: HK
+  latitude: 22.2095
+  longitude: 114.0292
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.4
+  depth: 8.2
+  categories:
+    culture: 8.3
+    food: 8.3
+    nature: 8.0

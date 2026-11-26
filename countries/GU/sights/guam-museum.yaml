@@ -1,0 +1,16 @@
+id: sight-gu-guam-museum
+name: "Guam Museum"
+location:
+  country_code: GU
+  latitude: 13.475
+  longitude: 144.751
+scores:
+  impact: 8.0
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.0
+    culture: 9.1
+    architecture: 8.3

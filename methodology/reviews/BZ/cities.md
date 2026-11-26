@@ -46,7 +46,7 @@
 - [YAML](../../../countries/BZ/cities/san-pedro.yaml) · Action: new · **source-linked-unverified**.
 - Precise subject: Settlement itself, excluding remote sights. GPS 17.9210, -87.9610: approximate editorial representative point; independent check pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given island town waterfront and offshore reef tours excluded; lower uniqueness reflects Caribbean fishing-town and resort character.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given island town waterfront and offshore reef tours excluded; lower uniqueness reflects Caribbean fishing-town and resort character.
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); related comparison; lower impact and lower depth given island town waterfront and offshore reef tours excluded; equal uniqueness reflects Caribbean fishing-town and resort character.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related comparison; lower impact and lower depth given island town waterfront and offshore reef tours excluded; lower uniqueness reflects Caribbean fishing-town and resort character.
   - [Aqaba (JO)](../../../countries/JO/cities/aqaba.yaml) — 7.9 / 7.8 / 7.9 / 8.4 / 8.0 (79.60/100); bounded/regional reference; equal impact and lower depth given island town waterfront and offshore reef tours excluded; higher uniqueness reflects Caribbean fishing-town and resort character.
@@ -65,7 +65,7 @@
 - [YAML](../../../countries/BZ/cities/caye-caulker-village.yaml) · Action: new · **source-linked-unverified**.
 - Precise subject: Settlement itself, excluding remote sights. GPS 17.7450, -88.0240: approximate editorial representative point; independent check pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given sandy lanes and waterfront and reef reserves outside village excluded; lower uniqueness reflects small car-light caye village.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given sandy lanes and waterfront and reef reserves outside village excluded; lower uniqueness reflects small car-light caye village.
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); related comparison; equal impact and lower depth given sandy lanes and waterfront and reef reserves outside village excluded; higher uniqueness reflects small car-light caye village.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related comparison; equal impact and lower depth given sandy lanes and waterfront and reef reserves outside village excluded; higher uniqueness reflects small car-light caye village.
   - [Aqaba (JO)](../../../countries/JO/cities/aqaba.yaml) — 7.9 / 7.8 / 7.9 / 8.4 / 8.0 (79.60/100); bounded/regional reference; higher impact and lower depth given sandy lanes and waterfront and reef reserves outside village excluded; higher uniqueness reflects small car-light caye village.
@@ -84,7 +84,7 @@
 - [YAML](../../../countries/BZ/cities/placencia-village.yaml) · Action: new · **source-linked-unverified**.
 - Precise subject: Settlement itself, excluding remote sights. GPS 16.5150, -88.3680: approximate editorial representative point; independent check pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given coastal lanes and sandy shore and offshore cayes excluded; lower uniqueness reflects fishing village and beach setting.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given coastal lanes and sandy shore and offshore cayes excluded; lower uniqueness reflects fishing village and beach setting.
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); related comparison; lower impact and lower depth given coastal lanes and sandy shore and offshore cayes excluded; lower uniqueness reflects fishing village and beach setting.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related comparison; lower impact and lower depth given coastal lanes and sandy shore and offshore cayes excluded; lower uniqueness reflects fishing village and beach setting.
   - [Aqaba (JO)](../../../countries/JO/cities/aqaba.yaml) — 7.9 / 7.8 / 7.9 / 8.4 / 8.0 (79.60/100); bounded/regional reference; higher impact and lower depth given coastal lanes and sandy shore and offshore cayes excluded; higher uniqueness reflects fishing village and beach setting.
@@ -103,7 +103,7 @@
 - [YAML](../../../countries/BZ/cities/hopkins.yaml) · Action: new · **source-linked-unverified**.
 - Precise subject: Settlement itself, excluding remote sights. GPS 16.8610, -88.2850: approximate editorial representative point; independent check pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given low-rise coastal village and small settlement not mountain reserves; lower uniqueness reflects Garifuna cultural identity.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given low-rise coastal village and small settlement not mountain reserves; lower uniqueness reflects Garifuna cultural identity.
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); related comparison; lower impact and lower depth given low-rise coastal village and small settlement not mountain reserves; higher uniqueness reflects Garifuna cultural identity.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related comparison; lower impact and lower depth given low-rise coastal village and small settlement not mountain reserves; higher uniqueness reflects Garifuna cultural identity.
   - [Aqaba (JO)](../../../countries/JO/cities/aqaba.yaml) — 7.9 / 7.8 / 7.9 / 8.4 / 8.0 (79.60/100); bounded/regional reference; lower impact and lower depth given low-rise coastal village and small settlement not mountain reserves; higher uniqueness reflects Garifuna cultural identity.
@@ -122,7 +122,7 @@
 - [YAML](../../../countries/BZ/cities/dangriga.yaml) · Action: new · **source-linked-unverified**.
 - Precise subject: Settlement itself, excluding remote sights. GPS 16.9700, -88.2300: approximate editorial representative point; independent check pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given coastal town streets and limited visitor-oriented venues; lower uniqueness reflects Garifuna music and culture.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given coastal town streets and limited visitor-oriented venues; lower uniqueness reflects Garifuna music and culture.
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); related comparison; lower impact and lower depth given coastal town streets and limited visitor-oriented venues; equal uniqueness reflects Garifuna music and culture.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related comparison; lower impact and lower depth given coastal town streets and limited visitor-oriented venues; lower uniqueness reflects Garifuna music and culture.
   - [Aqaba (JO)](../../../countries/JO/cities/aqaba.yaml) — 7.9 / 7.8 / 7.9 / 8.4 / 8.0 (79.60/100); bounded/regional reference; lower impact and lower depth given coastal town streets and limited visitor-oriented venues; higher uniqueness reflects Garifuna music and culture.
@@ -141,7 +141,7 @@
 - [YAML](../../../countries/BZ/cities/punta-gorda.yaml) · Action: new · **source-linked-unverified**.
 - Precise subject: Settlement itself, excluding remote sights. GPS 16.0980, -88.8090: approximate editorial representative point; independent check pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given quiet waterfront streets and remote ruins excluded; lower uniqueness reflects multicultural southern port.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given quiet waterfront streets and remote ruins excluded; lower uniqueness reflects multicultural southern port.
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); related comparison; lower impact and lower depth given quiet waterfront streets and remote ruins excluded; lower uniqueness reflects multicultural southern port.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related comparison; lower impact and lower depth given quiet waterfront streets and remote ruins excluded; lower uniqueness reflects multicultural southern port.
   - [Aqaba (JO)](../../../countries/JO/cities/aqaba.yaml) — 7.9 / 7.8 / 7.9 / 8.4 / 8.0 (79.60/100); bounded/regional reference; lower impact and lower depth given quiet waterfront streets and remote ruins excluded; lower uniqueness reflects multicultural southern port.
@@ -179,7 +179,7 @@
 - [YAML](../../../countries/BZ/cities/corozal-town.yaml) · Action: new · **source-linked-unverified**.
 - Precise subject: Settlement itself, excluding remote sights. GPS 18.3930, -88.3880: approximate editorial representative point; independent check pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given bayfront town and Cerros excluded; lower uniqueness reflects Mestizo coastal identity.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); global anchor; lower impact and lower depth given bayfront town and Cerros excluded; lower uniqueness reflects Mestizo coastal identity.
   - [Da Nang (VN)](../../../countries/VN/cities/da-nang.yaml) — 8.2 / 8.1 / 8.3 / 8.9 / 9.0 (83.80/100); related comparison; lower impact and lower depth given bayfront town and Cerros excluded; lower uniqueness reflects Mestizo coastal identity.
   - [Seogwipo (KR)](../../../countries/KR/cities/seogwipo.yaml) — 8.2 / 8.2 / 7.9 / 8.7 / 8.6 (82.55/100); related comparison; lower impact and lower depth given bayfront town and Cerros excluded; lower uniqueness reflects Mestizo coastal identity.
   - [Aqaba (JO)](../../../countries/JO/cities/aqaba.yaml) — 7.9 / 7.8 / 7.9 / 8.4 / 8.0 (79.60/100); bounded/regional reference; lower impact and lower depth given bayfront town and Cerros excluded; lower uniqueness reflects Mestizo coastal identity.

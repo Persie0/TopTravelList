@@ -1,0 +1,16 @@
+id: sight-ky-stingray-sandbar
+name: "Stingray Sandbar (Grand Cayman)"
+location:
+  country_code: KY
+  latitude: 19.374
+  longitude: -81.3
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 7.8
+  experience: 8.8
+  depth: 7.6
+  categories:
+    wildlife: 9.0
+    nature: 8.8
+    photography: 8.9

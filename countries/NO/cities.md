@@ -2,7 +2,7 @@
 
 # Norway (NO) — Cities, towns & villages ranking
 
-**20 ranked** · **0 unassessed** · **20 total** · Worldwide scoring **v2**
+**19 ranked** · **0 unassessed** · **19 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (20)
+## Complete ranked list (19)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -23,17 +23,16 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 7 | [Reine](cities/reine.yaml) | City / town | **85.80** | **Photography 9.4**, **Nature 8.8**, **Architecture 8.6** | 9.2 / 9.0 / 7.8 / 8.6 / 7.2 | [67.932, 13.089](https://www.google.com/maps/search/?api=1&query=67.932,13.089) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Reine%2C%20Norway) |
 | 8 | [Henningsvær](cities/henningsvaer.yaml) | City / town | **85.05** | **Photography 9.2**, **Culture 8.7**, **Architecture 8.6** | 8.8 / 8.8 / 8.0 / 8.7 / 7.6 | [68.154, 14.203](https://www.google.com/maps/search/?api=1&query=68.154,14.203) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Henningsv%C3%A6r%2C%20Norway) |
 | 9 | [Stavanger](cities/stavanger.yaml) | City / town | **84.35** | **Architecture 8.8**, **Culture 8.7**, **History 8.7** | 8.3 / 8.4 / 8.4 / 8.7 / 8.6 | [58.97, 5.7331](https://www.google.com/maps/search/?api=1&query=58.97,5.7331) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stavanger%2C%20Norway) |
-| 10 | [Longyearbyen](cities/longyearbyen.yaml) | City / town | **82.60** | **History 8.7**, **Photography 8.7**, **Culture 8.6** | 7.9 / 9.0 / 8.3 / 8.0 / 7.8 | [78.223, 15.647](https://www.google.com/maps/search/?api=1&query=78.223,15.647) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Longyearbyen%2C%20Norway) |
-| 11 | [Svolvær](cities/svolvaer.yaml) | City / town | **82.40** | **Photography 8.8**, **Culture 8.4** | 8.3 / 8.4 / 7.8 / 8.6 / 8.0 | [68.234, 14.568](https://www.google.com/maps/search/?api=1&query=68.234,14.568) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Svolv%C3%A6r%2C%20Norway) |
-| 12 | [Fredrikstad](cities/fredrikstad.yaml) | City / town | **82.25** | **Architecture 8.8**, **History 8.8** | 8.1 / 8.4 / 8.3 / 8.3 / 7.9 | [59.218, 10.93](https://www.google.com/maps/search/?api=1&query=59.218,10.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fredrikstad%2C%20Norway) |
-| 13 | [Lillehammer](cities/lillehammer.yaml) | City / town | **81.65** | **Culture 8.6**, **Adventure 8.5**, **History 8.5** | 8.0 / 8.2 / 8.2 / 8.5 / 8.0 | [61.115, 10.466](https://www.google.com/maps/search/?api=1&query=61.115,10.466) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lillehammer%2C%20Norway) |
-| 14 | [Geiranger](cities/geiranger.yaml) | City / town | **80.65** | **Photography 8.9**, **Relaxation 8.4** | 8.5 / 8.2 / 7.6 / 8.3 / 7.0 | [62.101, 7.207](https://www.google.com/maps/search/?api=1&query=62.101,7.207) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Geiranger%2C%20Norway) |
-| 15 | [Flåm](cities/flam.yaml) | City / town | **80.45** | **Photography 8.8**, **Relaxation 8.5**, **History 8.0** | 8.3 / 8.2 / 7.7 / 8.3 / 7.2 | [60.861, 7.115](https://www.google.com/maps/search/?api=1&query=60.861,7.115) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fl%C3%A5m%2C%20Norway) |
-| 16 | [Bodø](cities/bodo.yaml) | City / town | **80.00** | **Culture 8.6**, **Architecture 8.2** | 7.8 / 8.0 / 7.9 / 8.4 / 8.2 | [67.28, 14.405](https://www.google.com/maps/search/?api=1&query=67.28,14.405) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bod%C3%B8%2C%20Norway) |
-| 17 | [Kristiansand](cities/kristiansand.yaml) | City / town | **79.95** | **Beaches 8.5**, **Architecture 8.4**, **Culture 8.4** | 7.9 / 7.8 / 7.9 / 8.5 / 8.2 | [58.147, 7.995](https://www.google.com/maps/search/?api=1&query=58.147,7.995) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kristiansand%2C%20Norway) |
-| 18 | [Hammerfest](cities/hammerfest.yaml) | City / town | **79.80** | **History 8.5**, **Culture 8.3** | 7.7 / 8.3 / 8.1 / 8.1 / 7.6 | [70.663, 23.682](https://www.google.com/maps/search/?api=1&query=70.663,23.682) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hammerfest%2C%20Norway) |
-| 19 | [Alta](cities/alta.yaml) | City / town | **79.65** | **Culture 8.5**, **History 8.5** | 7.7 / 8.1 / 8.1 / 8.2 / 7.8 | [69.968, 23.271](https://www.google.com/maps/search/?api=1&query=69.968,23.271) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alta%2C%20Norway) |
-| 20 | [Åndalsnes](cities/andalsnes.yaml) | City / town | **77.20** | **Adventure 8.5**, **Photography 8.5** | 7.9 / 7.8 / 7.2 / 8.2 / 7.3 | [62.568, 7.69](https://www.google.com/maps/search/?api=1&query=62.568,7.69) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%85ndalsnes%2C%20Norway) |
+| 10 | [Svolvær](cities/svolvaer.yaml) | City / town | **82.40** | **Photography 8.8**, **Culture 8.4** | 8.3 / 8.4 / 7.8 / 8.6 / 8.0 | [68.234, 14.568](https://www.google.com/maps/search/?api=1&query=68.234,14.568) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Svolv%C3%A6r%2C%20Norway) |
+| 11 | [Fredrikstad](cities/fredrikstad.yaml) | City / town | **82.25** | **Architecture 8.8**, **History 8.8** | 8.1 / 8.4 / 8.3 / 8.3 / 7.9 | [59.218, 10.93](https://www.google.com/maps/search/?api=1&query=59.218,10.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fredrikstad%2C%20Norway) |
+| 12 | [Lillehammer](cities/lillehammer.yaml) | City / town | **81.65** | **Culture 8.6**, **Adventure 8.5**, **History 8.5** | 8.0 / 8.2 / 8.2 / 8.5 / 8.0 | [61.115, 10.466](https://www.google.com/maps/search/?api=1&query=61.115,10.466) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lillehammer%2C%20Norway) |
+| 13 | [Geiranger](cities/geiranger.yaml) | City / town | **80.65** | **Photography 8.9**, **Relaxation 8.4** | 8.5 / 8.2 / 7.6 / 8.3 / 7.0 | [62.101, 7.207](https://www.google.com/maps/search/?api=1&query=62.101,7.207) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Geiranger%2C%20Norway) |
+| 14 | [Flåm](cities/flam.yaml) | City / town | **80.45** | **Photography 8.8**, **Relaxation 8.5**, **History 8.0** | 8.3 / 8.2 / 7.7 / 8.3 / 7.2 | [60.861, 7.115](https://www.google.com/maps/search/?api=1&query=60.861,7.115) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fl%C3%A5m%2C%20Norway) |
+| 15 | [Bodø](cities/bodo.yaml) | City / town | **80.00** | **Culture 8.6**, **Architecture 8.2** | 7.8 / 8.0 / 7.9 / 8.4 / 8.2 | [67.28, 14.405](https://www.google.com/maps/search/?api=1&query=67.28,14.405) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bod%C3%B8%2C%20Norway) |
+| 16 | [Kristiansand](cities/kristiansand.yaml) | City / town | **79.95** | **Beaches 8.5**, **Architecture 8.4**, **Culture 8.4** | 7.9 / 7.8 / 7.9 / 8.5 / 8.2 | [58.147, 7.995](https://www.google.com/maps/search/?api=1&query=58.147,7.995) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kristiansand%2C%20Norway) |
+| 17 | [Hammerfest](cities/hammerfest.yaml) | City / town | **79.80** | **History 8.5**, **Culture 8.3** | 7.7 / 8.3 / 8.1 / 8.1 / 7.6 | [70.663, 23.682](https://www.google.com/maps/search/?api=1&query=70.663,23.682) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hammerfest%2C%20Norway) |
+| 18 | [Alta](cities/alta.yaml) | City / town | **79.65** | **Culture 8.5**, **History 8.5** | 7.7 / 8.1 / 8.1 / 8.2 / 7.8 | [69.968, 23.271](https://www.google.com/maps/search/?api=1&query=69.968,23.271) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Alta%2C%20Norway) |
+| 19 | [Åndalsnes](cities/andalsnes.yaml) | City / town | **77.20** | **Adventure 8.5**, **Photography 8.5** | 7.9 / 7.8 / 7.2 / 8.2 / 7.3 | [62.568, 7.69](https://www.google.com/maps/search/?api=1&query=62.568,7.69) | [Google Maps](https://www.google.com/maps/search/?api=1&query=%C3%85ndalsnes%2C%20Norway) |
 
 ---
 

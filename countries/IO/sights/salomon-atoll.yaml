@@ -1,0 +1,16 @@
+id: sight-io-salomon-atoll
+name: "Salomon Atoll"
+location:
+  country_code: IO
+  latitude: -5.367
+  longitude: 72.217
+scores:
+  impact: null
+  uniqueness: 8.9
+  significance: 9.0
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 9.0
+    history: 8.8

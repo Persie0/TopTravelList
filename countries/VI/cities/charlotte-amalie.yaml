@@ -1,0 +1,16 @@
+id: city-vi-charlotte-amalie
+name: "Charlotte Amalie (Saint Thomas)"
+location:
+  country_code: VI
+  latitude: 18.341
+  longitude: -64.931
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 8.8
+    architecture: 8.7
+    culture: 8.6

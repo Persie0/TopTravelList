@@ -1,0 +1,16 @@
+id: city-gu-tamuning-tumon
+name: "Tamuning–Tumon"
+location:
+  country_code: GU
+  latitude: 13.5052
+  longitude: 144.7973
+scores:
+  impact: 7.8
+  uniqueness: 7.6
+  significance: 7.3
+  experience: 8.7
+  depth: 8.2
+  categories:
+    food: 8.4
+    nightlife: 8.4
+    culture: 7.7

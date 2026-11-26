@@ -1,0 +1,15 @@
+id: city-wf-leava
+name: "Leava (Futuna)"
+location:
+  country_code: WF
+  latitude: -14.294
+  longitude: -178.158
+scores:
+  impact: 7.5
+  uniqueness: 7.9
+  significance: 8.0
+  experience: 7.5
+  depth: 7.1
+  categories:
+    culture: 8.1
+    history: 8.1

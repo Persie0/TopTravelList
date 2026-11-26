@@ -1,0 +1,16 @@
+id: sight-mp-rota-swimming-hole
+name: "Rota Swimming Hole"
+location:
+  country_code: MP
+  latitude: 14.168
+  longitude: 145.183
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 7.4
+  experience: 8.1
+  depth: 7.0
+  categories:
+    nature: 8.5
+    photography: 8.7
+    relaxation: 8.3

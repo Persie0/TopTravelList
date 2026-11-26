@@ -1,0 +1,15 @@
+id: sight-pn-henderson-island
+name: "Henderson Island (UNESCO property)"
+location:
+  country_code: PN
+  latitude: -24.367
+  longitude: -128.317
+scores:
+  impact: null
+  uniqueness: 9.3
+  significance: 9.4
+  experience: null
+  depth: null
+  categories:
+    nature: 9.4
+    wildlife: 9.4

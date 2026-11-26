@@ -1,0 +1,15 @@
+id: sight-gl-eqi-glacier
+name: "Eqip Sermia (Eqi Glacier)"
+location:
+  country_code: GL
+  latitude: 69.8
+  longitude: -50.25
+scores:
+  impact: 9.5
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.0
+  depth: 8.4
+  categories:
+    nature: 9.5
+    photography: 9.5

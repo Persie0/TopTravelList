@@ -1,0 +1,15 @@
+id: sight-fo-magnus-cathedral
+name: "Magnus Cathedral Ruins"
+location:
+  country_code: FO
+  latitude: 61.955
+  longitude: -6.793
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 7.6
+  depth: 6.9
+  categories:
+    history: 8.7
+    architecture: 8.0

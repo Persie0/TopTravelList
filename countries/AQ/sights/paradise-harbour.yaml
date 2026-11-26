@@ -1,0 +1,15 @@
+id: sight-aq-paradise-harbour
+name: "Paradise Harbour"
+location:
+  country_code: AQ
+  latitude: -64.85
+  longitude: -62.9
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.9
+  depth: 8.4
+  categories:
+    nature: 9.3
+    photography: 9.3

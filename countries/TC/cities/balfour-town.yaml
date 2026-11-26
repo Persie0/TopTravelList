@@ -1,0 +1,15 @@
+id: city-tc-balfour-town
+name: "Balfour Town (Salt Cay)"
+location:
+  country_code: TC
+  latitude: 21.325
+  longitude: -71.213
+scores:
+  impact: 7.6
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 7.4
+  depth: 6.9
+  categories:
+    history: 8.4
+    culture: 8.2

@@ -7,7 +7,7 @@
 - [YAML](../../../countries/KW/cities/kuwait-city.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 29.3759, 47.9774: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Kuwait City has lower provisional uniqueness and lower depth (Gulf oil-era capital with maritime heritage; varied central districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Kuwait City has lower provisional uniqueness and lower depth (Gulf oil-era capital with maritime heritage; varied central districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Kuwait City has lower provisional uniqueness and lower depth (Gulf oil-era capital with maritime heritage; varied central districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Kuwait City has lower provisional uniqueness and lower depth (Gulf oil-era capital with maritime heritage; varied central districts).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded or regional reference; Kuwait City has lower provisional uniqueness and equal depth (Gulf oil-era capital with maritime heritage; varied central districts).
@@ -26,7 +26,7 @@
 - [YAML](../../../countries/KW/cities/salmiya.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, excluding remote attractions. GPS 29.3375, 48.0760: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Salmiya has lower provisional uniqueness and lower depth (cosmopolitan coastal district; several commercial areas).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Salmiya has lower provisional uniqueness and lower depth (cosmopolitan coastal district; several commercial areas).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Salmiya has lower provisional uniqueness and lower depth (cosmopolitan coastal district; several commercial areas).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Salmiya has lower provisional uniqueness and lower depth (cosmopolitan coastal district; several commercial areas).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded or regional reference; Salmiya has lower provisional uniqueness and lower depth (cosmopolitan coastal district; several commercial areas).
@@ -102,7 +102,7 @@
 - [YAML](../../../countries/KW/cities/hawalli.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, excluding remote attractions. GPS 29.3328, 48.0286: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Hawalli has lower provisional uniqueness and lower depth (diverse residential commerce; several commercial streets).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Hawalli has lower provisional uniqueness and lower depth (diverse residential commerce; several commercial streets).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Hawalli has lower provisional uniqueness and lower depth (diverse residential commerce; several commercial streets).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Hawalli has lower provisional uniqueness and lower depth (diverse residential commerce; several commercial streets).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded or regional reference; Hawalli has lower provisional uniqueness and lower depth (diverse residential commerce; several commercial streets).
@@ -121,7 +121,7 @@
 - [YAML](../../../countries/KW/cities/farwaniya.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, excluding remote attractions. GPS 29.2775, 47.9586: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Farwaniya has lower provisional uniqueness and lower depth (everyday metropolitan district; limited visitor venues).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Farwaniya has lower provisional uniqueness and lower depth (everyday metropolitan district; limited visitor venues).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Farwaniya has lower provisional uniqueness and lower depth (everyday metropolitan district; limited visitor venues).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Farwaniya has lower provisional uniqueness and lower depth (everyday metropolitan district; limited visitor venues).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded or regional reference; Farwaniya has lower provisional uniqueness and lower depth (everyday metropolitan district; limited visitor venues).

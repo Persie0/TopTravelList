@@ -1,0 +1,16 @@
+id: sight-ms-woodlands-beach
+name: "Woodlands Beach"
+location:
+  country_code: MS
+  latitude: 16.757
+  longitude: -62.225
+scores:
+  impact: 8.2
+  uniqueness: 8.1
+  significance: 7.3
+  experience: 8.0
+  depth: 7.0
+  categories:
+    beaches: 8.5
+    photography: 8.6
+    relaxation: 8.2

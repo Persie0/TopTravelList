@@ -1,0 +1,306 @@
+# Geographic coverage expansion — 2026-11-25
+
+The registry now contains all 249 official ISO 3166-1 alpha-2 entries and Kosovo (XK). Source: [Austrian Environment Agency ISO register](https://edm.gv.at/edm_portal/redaList.do?6578706f7274=1&d-49520-e=5&d-49520-o=2&d-49520-p=1&d-49520-s=2&entireLsq=true&seqCode=na2skv6322qsqu&ubastyle_lang=en&ubastyle_nav=true); the installed pycountry dataset is the executable reference. Geographic codes are not declarations of recognition, sovereignty, access or safety. BQ, SH, SJ and UM include multiple islands under a single ISO code. Separate individual island coverage belongs inside that code. Antarctica, Bouvet, Heard/McDonald, Chagos, French Southern Territories, South Georgia/South Sandwich and US Minor Outlying Islands are not required to have permanent civilian settlement records; do not invent cities.
+
+## Migration policy
+
+Do not create duplicates when an existing parent-country record belongs in a newly registered territory. Before adding each territory, inspect parent YAML coordinates, aliases and existing historical reviews. Move the existing record to the territory, preserving scores until explicitly reviewed; update location code, ID, benchmark/anchor references and active source links; append a dated migration mapping old to new ID. Preserve historical reviews as historical snapshots. Where an old link cannot be redirected, document the mapping. Run full benchmark checks and regenerate rankings for both parents and territory. Until migration, parent records remain authoritative and the territory may be empty. Completed migrations are recorded in the log below.
+
+## Initial migration/research queue (not exhaustive)
+
+| Territory | Existing candidate records under parent |
+| --- | --- |
+| HK, MO | CN city and sight records including Hong Kong, Macau, Historic Centre of Macau, Macau Tower, Man Mo Temple, Hong Kong Palace Museum, Monte Fort |
+| AX | FI Mariehamn and possible Åland-area sights |
+| SJ | NO Longyearbyen, Svalbard, Jan Mayen |
+| GP, MQ, NC, RE | FR Guadeloupe park, Martinique volcanoes, New Caledonia lagoons, Réunion park/pitons and other geographically associated records |
+| PR | US San Juan National Historic Site and any nearby records |
+| EH | Dakhla tentative property noted in Morocco PR #231; do not duplicate or imply sovereignty |
+| GL | Denmark's UNESCO inventory has three Greenland properties; no matching Danish YAML filenames at initial audit. New Greenland records below. |
+
+All other added codes start as empty research backlog; inspect both names and geographic coordinates before cataloguing. No invented coverage claims. ISO code expansion does not replace future subnational region coverage (Canaries, Azores, Madeira, Hawaii, Alaska, Galápagos, etc.). Do not assign perfect tens without existing V2 anchor procedure. The unchanged scoring weights apply to territories.
+
+## Migration log — 2026-11-25
+
+| Former ID | Active ID | Decision |
+| --- | --- | --- |
+| sight-fr-taputapuatea | sight-pf-taputapuatea | Move to PF, preserve scores and location; original review archived. |
+| sight-fr-marquesas | sight-pf-marquesas | Move to PF, preserve partial scores; remains unranked. |
+
+Original decisions: [France migration history](reviews/FR/migration-history-PF.md). Old YAML links are historical; active sources are under `countries/PF/sights/`. Parent inventory names checked; exhaustive coordinate and external link audit remains outstanding.
+
+### Puerto Rico migration — 2026-11-25
+
+| Former ID | Active ID | Decision |
+| --- | --- | --- |
+| sight-us-san-juan-national-historic-site | sight-pr-san-juan-national-historic-site | Preserve 88.55 score and original approximate point; migrate public NPS fortification component only. |
+
+[Original US review](reviews/US/migration-history-PR.md). No separate duplicate fort or La Fortaleza record created. Parent ranking names checked; exhaustive coordinate and reference audit pending.
+
+### Antarctica coverage — 2026-11-25
+
+AQ has no permanent civilian settlement records. Initial coverage prioritizes named Antarctic Treaty visitor zones and documented vessel-based scenic sites, not blanket continent, peninsula, or island-wide scores. Protected huts at Cape Evans and Cape Royds remain unranked pending ordinary permitted visitor scope. No sovereignty claims or fictional cities are implied. Full cross-registry coordinate and alias audit remains pending.
+
+### Hong Kong migration — 2026-11-25
+
+The historic benchmark profiles and 2026 audits retain their original CN IDs as immutable provenance. The following new HK IDs are authoritative for current rankings. Shenzhen, Wutong Mountain and Dapeng Fortress remain in CN. No sovereignty inference is intended. Scores and coordinates retained for all migrated records unless a later review explicitly changes them.
+
+| Old ID | New ID |
+| --- | --- |
+| city-cn-hong-kong | city-hk-hong-kong |
+| sight-cn-victoria-harbour | sight-hk-victoria-harbour |
+| sight-cn-sai-kung-geopark | sight-hk-sai-kung-geopark |
+| sight-cn-hong-kong-palace-museum | sight-hk-hong-kong-palace-museum |
+| sight-cn-lantau-island | sight-hk-lantau-island |
+| sight-cn-tian-tan-buddha | sight-hk-tian-tan-buddha |
+| sight-cn-west-kowloon-cultural-district | sight-hk-west-kowloon-cultural-district |
+| sight-cn-victoria-peak | sight-hk-victoria-peak |
+| sight-cn-man-mo-temple-hong-kong | sight-hk-man-mo-temple-hong-kong |
+| sight-cn-star-ferry | sight-hk-star-ferry |
+| sight-cn-tai-o-fishing-village | sight-hk-tai-o-fishing-village |
+| sight-cn-wong-tai-sin-temple | sight-hk-wong-tai-sin-temple |
+| sight-cn-dragons-back-trail | sight-hk-dragons-back-trail |
+| sight-cn-lamma-island | sight-hk-lamma-island |
+| sight-cn-ngong-ping-360 | sight-hk-ngong-ping-360 |
+| sight-cn-temple-street-night-market | sight-hk-temple-street-night-market |
+
+Parent ranking names and representative points screened; broader reference audit still needed. Five additional sights included: M+, Tai Kwun, Chi Lin/Nan Lian, Cheung Chau, Wetland Park. All initial assessments source-linked-unverified.
+
+### Macau and Hong Kong follow-up migration — 2026-11-25
+
+Preserve historical CN IDs in archival benchmark profiles; these active records move without numeric score changes. Mainland Zhuhai and Jiangmen remain in CN.
+
+| Old ID | New ID |
+| --- | --- |
+| city-cn-macau | city-mo-macau |
+| sight-cn-historic-centre-macau | sight-mo-historic-centre-macau |
+| sight-cn-a-ma-temple | sight-mo-a-ma-temple |
+| sight-cn-senado-square | sight-mo-senado-square |
+| sight-cn-monte-fort-macau | sight-mo-monte-fort-macau |
+| sight-cn-ruins-of-st-pauls | sight-mo-ruins-of-st-pauls |
+| sight-cn-taipa-village | sight-mo-taipa-village |
+| sight-cn-macau-tower | sight-mo-macau-tower |
+| sight-cn-po-lin-monastery | sight-hk-po-lin-monastery |
+
+Po Lin Monastery was caught by the subsequent longitude screen; moved to HK. Five additional Macau sights included. Remaining cross-registry geographic and reference audit outstanding.
+
+### Svalbard and Jan Mayen migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| city-no-longyearbyen | city-sj-longyearbyen |
+| sight-no-svalbard | sight-sj-svalbard |
+| sight-no-jan-mayen | sight-sj-jan-mayen |
+
+Original Norway decisions archived. Whole Svalbard and Jan Mayen tentative records remain unranked. Ny-Ålesund is represented as a public heritage visitor area, Pyramiden as a historic settlement, not ordinary cities. Barentsburg remains an unranked inhabited settlement pending visitor evidence. Parent names and high-Arctic points screened; no sovereignty change implied.
+
+### Réunion migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-reunion-pitons | sight-re-reunion-pitons |
+| sight-fr-reunion-park | sight-re-reunion-pitons (retired duplicate) |
+
+[UNESCO](https://whc.unesco.org/en/list/1317/) confirms the listed property coincides with the national park core. Keep one active visitor landscape with original 93.80 score; retire overlapping 93.65 profile, archive both [original reviews](reviews/FR/migration-history-RE.md). Add five settlements and nine individually scoped sights. Metropolitan Saint-Denis basilica stays in FR. Parent names and approximate coordinates screened; full reference and GPS audit pending.
+
+### New Caledonia migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-new-caledonia-lagoons | sight-nc-new-caledonia-lagoons |
+
+[Original review](reviews/FR/migration-history-NC.md). Preserve partial scores; UNESCO six-cluster reef property remains unranked because combined permitted visitor scope is not established. Add four settlements and ten specifically scoped visitor sights; customary access restrictions respected. Parent names and approximate geographic points screened. Full cross-registry and coordinate audit remains outstanding.
+
+### Åland migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| city-fi-mariehamn | city-ax-mariehamn |
+| sight-fi-kastelholm | sight-ax-kastelholm |
+| sight-fi-bomarsund | sight-ax-bomarsund |
+
+Original Finnish reviews archived. Two new villages and eight new sights; Pommern separately scoped from adjacent museum. Parent names and approximate geographic points screened. Full independent coordinate and reference audit remains outstanding.
+
+### Guadeloupe migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-guadeloupe-park | sight-gp-guadeloupe-park |
+
+[Original France review](reviews/FR/migration-history-GP.md). Preserve 91.05 park profile; add five settlements and ten scoped sights. Pigeon Islets and Grand Cul-de-Sac Marin are specific park sectors; no aggregate sum or claim of unrestricted access. Petite-Terre Terre-de-Haut (uninhabited restricted islet) is not the inhabited Terre-de-Haut of Les Saintes. Parent names and approximate geographic points screened; full independent coordinate and reference audit remains outstanding.
+
+### Martinique migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-martinique-volcanoes | sight-mq-martinique-volcanoes |
+
+[Original France review](reviews/FR/migration-history-MQ.md). Preserve 90.10 UNESCO serial-property profile, add four settlements and ten individually scoped sights. Mount Pelée's trail experience distinct from whole property. Parent names and approximate coordinates screened; full independent geographic and reference audit outstanding.
+
+### French Guiana migration — 2026-11-25
+
+| Former ID | Active ID |
+| --- | --- |
+| sight-fr-guyane-park | sight-gf-guyane-park |
+
+[Original France review](reviews/FR/migration-history-GF.md). Preserve 89.05 scoped park profile; add four settlements and nine specifically scoped sights. Restricted park core and customary territories excluded from ordinary visitor experience; CNES public tour separate from museum; no Devil's Island landing. Parent names and approximate points screened. Full geographic/reference audit remains outstanding.
+
+### Mayotte coverage — 2026-11-25
+
+FR generated inventory screened by names and approximate coordinates; no matching parent record identified. Initial coverage: two settlements and ten sights, including eight ranked sights and two unranked heritage sites (MuMa and Tsingoni mosque). No whole marine-park score, no guarantee of post-Chido access or animal sightings. Separate geographic code does not imply a position on sovereignty. Source excerpts and approximate coordinate references checked; full factual and geographic audit remains outstanding.
+
+### Saint Barthélemy coverage — 2026-11-25
+
+No matching FR records identified by name and approximate coordinates in generated inventory. Add two settlements and eight scoped sights. Marine reserve sectors and documented coral heat stress treated separately; no whole marine reserve score or guaranteed pristine reef. Full independent coordinate and cross-registry audit remains outstanding.
+
+### Saint Martin (French part) coverage — 2026-11-25
+
+No matching FR or NL records identified by generated ranking name/approximate coordinate screen. Add two settlements and ten specifically scoped sights. Dutch-side destinations excluded (SX). Reserve site descriptions support historical permitted marine visitor scope; current access and reef condition need separate checks. No parent migration or new exact-10 scores.
+
+### Sint Maarten (Dutch part) coverage — 2026-11-25
+
+No matching NL records identified in generated inventory by name or approximate coordinate screening. Add two settlements and ten sights (nine ranked sights, Mullet Pond unranked). French-side sites remain MF. Maho only lawful aircraft observation; marine park rating accounts for documented coral damage, not pristine reef. Emilio Wilson Museum included in Rockland Estate scope. All coordinates and full claim verification outstanding. No exact-10 additions.
+
+### Curaçao coverage — 2026-11-25
+
+NL generated inventory screened by names and approximate coordinates; no matching records identified. Add two settlements and thirteen individual sights. Willemstad city and UNESCO property have separate scopes; their scores are never added. Individual marine sites do not assume pristine reefs or guaranteed wildlife. Search excerpts from UNESCO and Curaçao Tourist Board checked; independent exact GPS and claim-level verification remain outstanding.
+
+### Aruba coverage — 2026-11-25
+
+No matching NL records identified by generated ranking name and approximate coordinate screening. Add 2 settlements and 13 individually scoped sights. Arikok's whole-park scope and named caves/pool separately rated, not summed. ACF rules and documented ranger-managed visitor sites inform scope; no guaranteed swimming or wildlife encounters. Tourism Authority and ACF report search excerpts inspected, full independent claim and GPS verification pending. No perfect-ten scores.
+
+### Caribbean Netherlands coverage — 2026-11-25
+
+No matching NL parent records identified by generated name and approximate coordinate screen. Add 5 settlements and 13 sights across all three islands (Bonaire, Sint Eustatius, Saba). Individual islands retain distinct scopes and names under BQ. Marine park scores account for documented coral decline from STINAPA, CBS and Wageningen research, not historical pristine reef reputation. Source excerpts inspected; full independent coordinate and claim verification pending. No exact-10 additions.
+
+### Bermuda coverage — 2026-11-25
+
+No matching GB parent records identified by generated inventory name and approximate coordinate screening. Add 3 settlements and 12 scoped sights. St George town, UNESCO property and Fort St Catherine have separate scopes; no score summation. Dockyard precinct excludes separate museum collection and Keep. Lighthouse exterior only pending access confirmation. UNESCO, government, museum and tourism source excerpts inspected; full independent claim and coordinate verification remains outstanding. No exact-10 additions.
+
+### Cayman Islands coverage — 2026-11-25
+
+No matching GB parent records identified by generated name/coordinate screen. Add 2 settlements and 11 sights across all three islands. Reef condition accounts for DoE documented decline and CCMI mixed recovery; no pristine reef or wildlife encounter guarantee. Stingray Sandbar distinct from Stingray City dive site, no feeding or handling credited. Source excerpts inspected; exact GPS and full independent verification pending. No exact-10 additions.
+
+### Turks and Caicos coverage — 2026-11-26
+
+No matching GB parent records identified in generated name and approximate coordinate screen. Add 3 settlements and 12 sights. Main visitor sites across Providenciales, Grand Turk, North and Middle Caicos, South Caicos and Salt Cay. East Caicos not assumed to have ordinary established visitor routes. Marine ratings account for coral stress, no pristine reef or guaranteed wildlife. Search excerpts inspected; full independent claims, GPS and access verification pending.
+
+### British Virgin Islands coverage — 2026-11-26
+
+No matching GB records identified in generated ranking name/coordinate screen. Add 3 settlements and 10 sights across Tortola, Virgin Gorda, Anegada, Jost Van Dyke and Salt Island marine area. Baths and Devil's Bay combined as linked visitor experience. Regional coral heat alerts treated as context, not proof of local reef condition. Sources consulted through search excerpts; independent GPS and full claim corroboration pending. No new 10 scores.
+
+### US Virgin Islands coverage — 2026-11-26
+
+No matching US parent records identified by generated inventory name/coordinate screen. Add 4 settlements and 11 sights across Saint Thomas, Saint John and Saint Croix. National park and components separately scoped; Salt River visitor centre excluded, NOAA regional coral stress considered. NPS, NOAA and tourism authority search excerpts inspected; exact GPS and independent full claims outstanding. No exact-10 additions.
+
+### Anguilla coverage — 2026-11-26
+
+No matching GB records identified in generated name/coordinate screening. Add 3 settlements and 10 sights (9 ranked, Fountain Cavern unranked pending ordinary visitor access evidence). Tourist Board, National Trust, archaeological society and reef monitoring search excerpts inspected. Regional coral stress considered; protected sites and exterior-only heritage scope respected. Independent GPS and complete claim verification pending. No exact-10 additions.
+
+### Montserrat coverage — 2026-11-26
+
+No matching GB records identified by generated name and approximate coordinate screening. Add 2 settlements and 8 sights; 9 ranked and Plymouth unranked. MVO current hazard notice conflicts with tourism promotion of certified Plymouth tours; no land access assumed. Observatory viewpoint and interpretation scored instead of volcano ascent. Centre Hills incorporates Oriole Walkway. MVO, National Trust and tourism search excerpts inspected; independent GPS and complete material-claim corroboration pending. No perfect-ten additions.
+
+### Falkland Islands (Malvinas) coverage — 2026-11-26
+
+No matching GB or AR parent records identified by generated name and approximate coordinate screen. Add 3 settlements and 10 sights under existing ISO FK; no sovereignty determination. Government HPAI register checked: Volunteer Point declaration lifted 2 November 2026; Pebble Island and Carcass Island restrictions lifted 30 March; Sea Lion Island remains level 1 pending 30 November review. No assumed unrestricted wildlife visits. Tourism board, museum and JNCC references checked via excerpts; independent exact GPS and full claims pending. No exact-10 additions.
+
+### South Georgia and South Sandwich Islands coverage — 2026-11-26
+
+No matching GB, AR or AQ entries identified in generated name/coordinate screen. Zero cities (no permanent inhabitants), ten sights, nine ranked and one unranked. South Sandwich Islands closed to visitors. Government 25/26 handbook authorized site tables visually checked; no claim of current 26/27 landing availability. Whaling station prohibited areas excluded. Current HPAI and access require confirmation. Independent precise GPS and full claim verification pending. No perfect ten.
+
+### Saint Helena, Ascension and Tristan da Cunha coverage — 2026-11-26
+
+Four settlements and fourteen sights across the three inhabited islands, including the serial UNESCO Gough and Inaccessible Islands property (unranked, restricted visitor scope). GB and FR source filenames screened; no obvious matching parent records. The French-owned Napoleonic properties are geographically in SH; no sovereignty inference or migration is implied. Ascension entry permits and Tristan advance approval/guided access respected. Seasonal wildlife viewing is conditional; no guarantee of any individual animal sighting. Coordinates are approximate editorial anchors and complete independent fact verification and regeneration remain outstanding. No exact-10 or 9.5+ additions.
+
+### Pitcairn Islands coverage — 2026-11-26
+
+One settlement and ten sights across all four islands. GB source filenames screened; no obvious parent duplicate. Henderson, Oeno and Ducie remain unranked pending documented permitted visitor scope; vessel permission required under 2026 immigration amendment. Dark sky score scoped to inhabited Pitcairn; no reserve-wide marine score. Down Rope guide-only, St Paul's water entry conditional. Official tourism page inspected, other source excerpts reviewed; exact independent GPS, full corroboration, cross-registry duplicate audit and full CI/regeneration pending. UN map screenshot returned 403. No new 9.5+ or exact-10 scores.
+
+### Norfolk Island coverage — 2026-11-26
+
+One settlement (Burnt Pine) and eleven sights. Kingston is treated as one historic precinct rather than a second urban record. Australian parent directories empty on main and this branch; separate open AU PR #227 inspected, including Australian Convict Sites YAML and review. Kingston is a distinct component-specific record, not a duplicate of the entire eleven-component serial property; scores not summed. No matching independent NF record found in AU PR filenames. Phillip Island unranked: Parks Australia currently reports no commercial or park tours. Lagoon scores reflect June 2026 reef stress and no-take area. Full independent GPS and claim verification, merged-branch conflict audit and full CI/regeneration outstanding. No new 9.5+ or exact-10 ratings.
+
+### Christmas Island coverage — 2026-11-26
+
+One settlement and eleven sights, including seasonal red crab migration with explicit 9.5+ calibration against three actual wildlife peer YAML records and a fourth qualitative comparison. AU parent directories empty on branch; separate open Australia PR #227 at b831450 screened by filename, no obvious matching entry. The Dales trails combined; Lily/Ethel coastal circuit combined; Winifred's Beach remains unranked because the stairs are permanently closed. Parks Australia current access board and ABC 18 November 2026 migration reporting inspected. Temporary closures separate from intrinsic scores. Exact GPS, full claim verification, cross-branch duplicate audit and full CI/regeneration remain outstanding. No exact-10 ratings.
+
+### Cocos (Keeling) Islands coverage — 2026-11-26
+
+Two settlements and ten sights; North Keeling/Pulu Keeling National Park unranked due to lack of public tours. AU directories empty on branch; separate Australia PR #227 at 18f737d screened by filename, no obvious duplicate. Direction Island beach and heritage separate from Rip drift snorkeling; southern lagoon canoe circuit combines named island stops. 2025 marine management plan's historical seagrass loss incorporated; no pristine reef or current recovery assumed. Official access, Direction Island and management plan full text inspected; additional source excerpts reviewed. Some points linked to geographic references, exact GPS and full independent claim verification remain pending, as do cross-branch audit and full CI/regeneration. No new 9.5+ or perfect-ten scores.
+
+### Heard Island and McDonald Islands staged migration — 2026-11-26
+
+| Former ID (AU PR #227) | New ID (PR #234) | Decision |
+| --- | --- | --- |
+| sight-au-heard-mcdonald-islands | sight-hm-heard-mcdonald-islands | Preserve all scores and null experience/depth. |
+
+Original AU record exists only on separate open PR #227 at 18f737d49e0e3ea5e0a6cd5a2a201561a81d024c, not on this branch. [Historical review snapshot](reviews/HM/migration-history-AU.md) retained. **Integration blocker:** remove former active AU YAML and reconcile its review, references and generated pages when integrating the two PRs; do not ship both records. No permanent settlements. One UNESCO property-level assessment, no speculative subsite ratings. Official current AAD transitional management arrangements and UNESCO property coordinates consulted; no current ordinary visitor itinerary established. Full CI and regeneration pending.
+
+### French Southern Territories migration — 2026-11-26
+
+| Former ID | Active ID | Decision |
+| --- | --- | --- |
+| sight-fr-austral-lands | sight-tf-austral-lands | Preserve all scores and null fields, delete former active FR YAML, archive original review. |
+
+[Original French review](reviews/FR/migration-history-TF.md). Add five distinct Scattered Islands conservation/heritage records; all six sights unranked. TAAF no longer offers Marion Dufresne tourist stays; Scattered Islands access and anchorage require authorization, and Tromelin landing is unavailable under published guidance. No permanent civilian settlements. Adélie Land belongs to Antarctic geographic coverage; no sovereignty position implied. Exact independent GPS and material claims, legacy references and full CI/regeneration remain outstanding.
+
+### Chagos Archipelago (IO) coverage — 2026-11-26
+
+Five atoll-level natural/cultural heritage records, all unranked. Recursive branch filename screen found no obvious parent duplicate. No military facilities or speculative ordinary visitor settlement scores. The 2026 Île du Coin return and forced displacement history documented; ISO indexing does not adjudicate sovereignty. UK parliamentary briefing and Mauritian geography consulted; treaty implementation not assumed complete. Official travel advice excludes ordinary tourism; yacht permits for safe passage only. Peer-reviewed marine research used, no pristine-reef claim. Great Chagos Bank 9.5 uniqueness explicitly challenged; no perfect tens. Full independent GPS and claims, other open-branch duplicate checks and full CI/regeneration remain outstanding.
+
+### Bouvet Island migration — 2026-11-26
+
+| Former ID | Active ID | Decision |
+| --- | --- | --- |
+| sight-no-bouvet | sight-bv-bouvet | Preserve scores and nulls; correct central coordinates to -54.4167, 3.3333 from KBA; remove old active NO YAML. |
+
+[Original Norwegian review](reviews/NO/migration-history-BV.md). One unranked nature reserve, no permanent settlements. UNESCO tentative status distinguished from inscription. General landing/stay permission normally unnecessary, but aircraft landing requires authorization and seasonal restrictions apply; ordinary tourism not established. Full claims, legacy references, CI and regeneration pending.
+
+### United States Minor Outlying Islands coverage — 2026-11-26
+
+Nine island/atoll records, no permanent civilian settlements. Palmyra provisionally ranked only for documented permit-controlled recreation; eight remaining sites unranked. Recursive filename screen found no obvious same-scope US record (Syrian Palmyra unrelated); broader Papahānaumokuākea UNESCO scope distinct from Midway component. Other branches and legacy references not exhaustively screened. USFWS monument overview, Palmyra visitor location page and April 2026 Midway closure article opened, other source excerpts inspected. Coordinates approximate, independent material claims and ecological conditions pending. No new 9.5+ or perfect-ten scores. Full CI/regeneration pending.
+
+### American Samoa coverage — 2026-11-26
+
+Seven settlements and twelve sights; Rose Atoll and Swains Island unranked. All five volcanic islands and both atolls represented. Village internal points from 2026 Census; sight coordinates approximate. NPS current compendium, NOAA sanctuary access and CRAG coral recovery reporting consulted; no assumption of pristine reef, unrestricted customary access or current wildlife abundance. Linked peer filenames checked; comparative numerical calibration and independent full claim checks still needed. Recursive branch filename screen and open Samoa PR title checked, no obvious duplicate; full open-branch audit and CI/regeneration pending. No new 9.5+ or perfect-ten ratings.
+
+### Guam coverage — 2026-11-26
+
+Five settlements and twelve sights; Cocos Island unranked pending ordinary visitor access. Recursive filename screen found no obvious same-scope US record; Costa Rican Cocos unrelated. Ritidian public unit only, War in the Pacific public memorial circuit, separate capital outdoor trail, museum and market. Guam coastal strategy text reviewed, screenshot failed HTTP 404; historical coral losses and EPA water quality caveats incorporated. All coordinates approximate; independent full claims and numeric benchmark calibration pending. No new 9.5+ or perfect-ten ratings. Full CI/regeneration pending.
+
+### Northern Mariana Islands coverage — 2026-11-26
+
+Four settlements and fifteen sights; Pagan, northern volcanic arc sector and Mariana Trench Marine National Monument unranked. MVA recovery updates, September Managaha reopening, DLNR conservation rules, USFWS, USGS November 2026 volcano notice and DEQ water quality consulted through search excerpts. Long-term visitor quality distinct from Sinlaku/Bavi recovery and current access. Northern islands not assumed to be uninhabited or freely accessible; monument not conflated with entire trench. Recursive branch filename screen found no obvious duplicates. All points approximate; independent GPS, full factual corroboration, numerical peer calibration, other branch audit and CI/regeneration pending. Three 9.5+ partial fields justified, no perfect tens.
+
+### Cook Islands coverage — 2026-11-26
+
+Four settlements and eighteen sights, fourteen ranked sights and four unranked conservation/remote heritage records (Suwarrow, Takutea, Manuae and Penrhyn). Aitutaki lagoon includes One Foot Island to avoid overlap; island government notes declining water quality. Suwarrow 2026 visitor season ended October 15; Takutea and Manuae permission requirements respected. Official tourism, island government, NES, cultural and natural heritage search excerpts inspected; coordinates approximate. Selective northern atoll and outer island coverage, not exhaustive. Recursive branch filename screen found no obvious duplicates; other open branches not checked. Individual review IDs, dimensions, peer paths and weights checked in construction; numeric calibration, exact GPS, independent claims, full CI and regeneration outstanding. No 9.5+ or perfect-ten ratings.
+
+### Niue coverage — 2026-11-26
+
+Four settlements and fifteen sights; eighteen ranked provisional, Beveridge Reef unranked. Niue Tourism sea tracks, museum authority, DarkSky International, InforMEA regulation summary, independent visitor sources and shark/ray habitat reference search excerpts inspected. Seasonal licensed whale watching and permitted stargazing separately scoped; Togo Chasm excluded from broader Huvalu visitor score. Current sea track closures, tides and customary village access respected; no guaranteed reef conditions or sightings. Recursive filename screen found no obvious duplicates. Review ID, dimension and peer path construction checks passed; independent GPS, full claim verification, numeric benchmark calibration, other branches and CI/regeneration pending. No new 9.5+ or perfect-ten ratings.
+
+### Tokelau coverage — 2026-11-26
+
+Five settlements across three atolls and four sights, all partial and unranked. Government village profiles identify Fale and Fenuafala on Fakaofo and Fale and Motuhaga on Nukunonu; Atafu village separately covered. Government general tourist information does not establish current permission; February 2026 independent report reproduces liaison-office closure confirmation, no authoritative reopening located. SPREP November 2026 registry and October 2026 preliminary reef degradation report consulted; three lagoon and conservation records avoid overlapping protected-sector scores. Auckland Museum documents historical Tui Tokelau god-house transformation, not verified survival or present access; representative point is Fale village. Olohega/Swains Island already indexed under AS; no duplicate. Branch filename screen found no obvious duplicates. Exact independent GPS, claim checks, numeric peer calibration, cross-branch audit and CI/regeneration pending. No new 9.5+ or perfect-ten scores.
+
+### Wallis and Futuna coverage — 2026-11-26
+
+Four settlements and fourteen sights, seventeen ranked provisional and Anakele royal burial heritage unranked pending customary permission and precise site verification. Both inhabited main islands and Alofi included; INSEE 2023 counts one Alofi resident. Talietumu and Kolonui combined; lagoon motu combined; museum and guided WWII circuit combined. Official tourism must-see, suggested itineraries, church descriptions and OFB biodiversity pages opened; supplementary geographic and tourism excerpts checked. Conflicting private yacht access statements not resolved, no private yacht access assumed; documented local boat outings separately scoped. No pristine reef or unverified largest taro field claim. Branch filename screen found no obvious duplicates; Niue Alofi unrelated. Individual review IDs, dimensions and peer paths checked in construction; exact GPS, full claims, numeric calibration, cross-branch audit and CI/regeneration pending. No new 9.5+ or exact-10 scores.
+
+### Saint Pierre and Miquelon coverage — 2026-11-26
+
+Two settlements and fourteen sights, sixteen ranked provisional. Both main inhabited settlements and Langlade and Île aux Marins visitor areas represented. Île aux Marins and Archipélitude Museum combined; Grand Barachois and isthmus combined; Cap de Miquelon and Cormorandière combined. Grand Colombier limited to documented offshore trips, no landing assumed. Official tourism attraction and culture pages opened; OFB, DTAM, ministry and museum excerpts inspected. DTAM bird precaution page direct request returned 403. Same-name Saint-Pierre settlements in MQ and RE unrelated. Recursive filename screen found no obvious duplicates. Individual review IDs, dimensions and peer paths checked in construction; exact GPS, independent full claims, numeric benchmark calibration, cross-branch audit and full CI/regeneration pending. No new 9.5+ or exact-10 scores.
+
+### Guernsey Bailiwick coverage — 2026-11-26
+
+Four settlement areas and 22 sights, all provisional ranked. Guernsey, Alderney, Sark, Herm and tidal Lihou covered; offshore Burhou, Les Etacs and Ortac combined into permitted seasonal seabird tours. Private Jethou and Brecqhou excluded from ordinary visitor rankings. Ramsar nesting restrictions, avian influenza risk, seasonal and tidal conditions noted. Castle museums, Candie museum/gardens, Hauteville house/garden and Herm beach circuit combined to prevent same-scope overlap. Alderney forced-labour and Holocaust memorial heritage separately scoped, informed by IHRA and 2024 government expert review. Official tourism, museum, conservation and government search excerpts inspected. Recursive filename screen found no obvious duplicates. Review IDs, dimensions and peer paths checked in construction; exact GPS, independent claim corroboration, numeric peer calibration, cross-branch audit and full CI/regeneration outstanding. No new 9.5+ or exact-10 scores.
+
+### Jersey (JE) coverage — 2026-11-26
+
+Four settlements and 22 individually scoped sights, all 26 provisional ranked. Official Jersey Heritage, Visit Jersey, Durrell and Government of Jersey Ramsar source excerpts inspected. Separate tidal reef excursions, castles and museum experiences; no unrestricted offshore access. Four numeric peers from at least three codes per review, using the preceding audited branch snapshot. Filename screen found no obvious Jersey duplicate; full coordinate, alias and cross-branch checks pending. No new 9.5+ or exact-ten ratings. Canonical CI and regeneration pending.
+
+### Isle of Man (IM) coverage — 2026-11-26
+
+Seven settlements and 24 individually scoped sights, all 31 provisional ranked. Manx National Heritage and Visit Isle of Man source excerpts inspected. Rail journeys separated from towns; Snaefell summit and railway combined; TT scoped to legal seasonal spectating, Calf of Man to permitted visits. Four numerical peers from at least three codes per review, using audited branch profiles. Filename screen found no obvious parent duplicate; full coordinates, aliases and cross-branch checks pending. No new 9.5+ or exact-ten scores. Canonical CI and regeneration pending.

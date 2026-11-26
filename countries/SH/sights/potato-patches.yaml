@@ -1,0 +1,16 @@
+id: sight-sh-potato-patches
+name: "Potato Patches (Tristan da Cunha)"
+location:
+  country_code: SH
+  latitude: -37.079
+  longitude: -12.333
+scores:
+  impact: 7.9
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 7.8
+  depth: 7.1
+  categories:
+    culture: 8.7
+    photography: 8.3
+    history: 8.1

@@ -1,0 +1,15 @@
+id: sight-sj-gruve-3
+name: "Gruve 3 coal mine"
+location:
+  country_code: SJ
+  latitude: 78.243
+  longitude: 15.459
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.8
+  depth: 8.0
+  categories:
+    history: 8.6
+    adventure: 8.6

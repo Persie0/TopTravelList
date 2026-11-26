@@ -1,0 +1,16 @@
+id: city-im-peel
+name: "Peel"
+location:
+  country_code: IM
+  latitude: 54.222
+  longitude: -4.698
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 8.4
+    food: 8.4
+    photography: 8.8

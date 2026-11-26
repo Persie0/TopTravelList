@@ -1,0 +1,16 @@
+id: sight-ai-wallblake-house
+name: "Wallblake House (heritage exterior)"
+location:
+  country_code: AI
+  latitude: 18.212
+  longitude: -63.054
+scores:
+  impact: 7.6
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 7.6
+  depth: 6.8
+  categories:
+    history: 8.7
+    architecture: 8.3
+    culture: 8.2

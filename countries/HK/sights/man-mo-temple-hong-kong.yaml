@@ -1,0 +1,16 @@
+id: sight-hk-man-mo-temple-hong-kong
+name: "Man Mo Temple"
+location:
+  country_code: HK
+  latitude: 22.284
+  longitude: 114.151
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.0
+  depth: 7.7
+  categories:
+    architecture: 8.4
+    history: 8.5
+    culture: 8.5

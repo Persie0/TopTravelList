@@ -1,0 +1,16 @@
+id: sight-bq-bonaire-marine-park
+name: "Bonaire National Marine Park (permitted dive sites)"
+location:
+  country_code: BQ
+  latitude: 12.12
+  longitude: -68.3
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 8.8
+    wildlife: 8.9
+    adventure: 9.3

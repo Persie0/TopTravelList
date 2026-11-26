@@ -1,0 +1,17 @@
+id: sight-je-hamptonne
+name: "Hamptonne Country Life Museum"
+location:
+  country_code: JE
+  latitude: 49.23
+  longitude: -2.14
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 8.6
+    culture: 8.6
+    architecture: 8.4
+    family: 8.5

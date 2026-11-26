@@ -1,0 +1,16 @@
+id: city-fo-torshavn
+name: "Tórshavn"
+location:
+  country_code: FO
+  latitude: 62.0097
+  longitude: -6.7716
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.4
+  depth: 8.1
+  categories:
+    culture: 8.6
+    history: 8.5
+    architecture: 8.1

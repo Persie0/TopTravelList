@@ -1,0 +1,16 @@
+id: sight-gg-longis
+name: "Longis Nature Reserve"
+location:
+  country_code: GG
+  latitude: 49.716
+  longitude: -2.171
+scores:
+  impact: 8.4
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 8.8
+    wildlife: 8.8
+    photography: 8.6

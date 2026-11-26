@@ -1,0 +1,15 @@
+id: city-pr-isabel-segunda
+name: "Isabel Segunda"
+location:
+  country_code: PR
+  latitude: 18.149
+  longitude: -65.442
+scores:
+  impact: 7.2
+  uniqueness: 7.4
+  significance: 7.2
+  experience: 7.4
+  depth: 6.8
+  categories:
+    culture: 7.6
+    history: 7.6

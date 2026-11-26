@@ -1,0 +1,16 @@
+id: sight-bl-shell-beach
+name: "Shell Beach"
+location:
+  country_code: BL
+  latitude: 17.891
+  longitude: -62.85
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 7.0
+  experience: 8.3
+  depth: 7.0
+  categories:
+    beaches: 8.5
+    photography: 8.5
+    relaxation: 8.3

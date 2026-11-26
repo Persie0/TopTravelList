@@ -1,0 +1,15 @@
+id: sight-sx-cupecoy-beach
+name: "Cupecoy Beach"
+location:
+  country_code: SX
+  latitude: 18.051
+  longitude: -63.137
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.0
+  experience: 8.2
+  depth: 7.0
+  categories:
+    beaches: 8.8
+    photography: 8.9

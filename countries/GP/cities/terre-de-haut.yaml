@@ -1,0 +1,16 @@
+id: city-gp-terre-de-haut
+name: "Terre-de-Haut (bourg)"
+location:
+  country_code: GP
+  latitude: 15.868
+  longitude: -61.584
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.4
+  depth: 7.6
+  categories:
+    culture: 8.4
+    photography: 8.6
+    food: 8.3

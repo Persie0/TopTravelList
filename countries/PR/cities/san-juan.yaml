@@ -1,0 +1,17 @@
+id: city-pr-san-juan
+name: "San Juan"
+location:
+  country_code: PR
+  latitude: 18.4655
+  longitude: -66.1057
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.1
+    culture: 8.9
+    architecture: 8.8
+    food: 8.5

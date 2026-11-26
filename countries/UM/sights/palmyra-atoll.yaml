@@ -1,0 +1,17 @@
+id: sight-um-palmyra-atoll
+name: "Palmyra Atoll (permitted recreational refuge visit)"
+location:
+  country_code: UM
+  latitude: 5.883
+  longitude: -162.083
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.2
+  depth: 8.0
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    photography: 9.1
+    adventure: 8.7

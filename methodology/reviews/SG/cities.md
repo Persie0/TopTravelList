@@ -15,7 +15,7 @@
 - Worldwide peers (I/U/S/E/D; pre-addition ranking snapshots):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); imperial scale and city depth. Categories: Architecture 9.9, Culture 9.9, History 9.9, Photography 8.6, Food 8.4, Nightlife 8.1.
   - [Vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2 / 9.0 / 9.5 / 9.2 / 9.4 (92.30/100); historic urban heritage. Categories: Culture 9.6, History 9.6, Architecture 9.4, Food 8.0, Photography 8.0, Nightlife 7.4.
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); modern waterfront and skyline. Categories: Architecture 9.7, Photography 9.7, Culture 8.8, Food 8.8, Nightlife 8.8, History 8.3, Nature 8.0.
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); modern waterfront and skyline. Categories: Architecture 9.7, Photography 9.7, Culture 8.8, Food 8.8, Nightlife 8.8, History 8.3, Nature 8.0.
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); food and metropolitan activity. Categories: Food 10.0, Nightlife 9.8, Culture 8.7, Architecture 8.3, History 8.1, Photography 8.1.
   - [Kuala Lumpur (MY)](../../../countries/MY/cities/kuala-lumpur.yaml) — 8.8 / 8.6 / 8.5 / 9.0 / 9.3 (87.70/100); regional modern city. Categories: Food 9.3, Architecture 9.0, Nightlife 8.9, Culture 8.6.
 - Categories: architecture:9.5,food:9.6,culture:9.2,nightlife:9.0,family:9.4. Overall 92.20/100.

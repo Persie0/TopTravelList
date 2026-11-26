@@ -1,0 +1,15 @@
+id: sight-bm-gibbs-hill-lighthouse
+name: "Gibbs Hill Lighthouse (exterior viewpoint)"
+location:
+  country_code: BM
+  latitude: 32.252
+  longitude: -64.838
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.3
+  experience: 7.9
+  depth: 6.8
+  categories:
+    photography: 8.7
+    history: 8.6

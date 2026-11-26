@@ -1,0 +1,16 @@
+id: sight-mq-anse-dufour
+name: "Anse Dufour"
+location:
+  country_code: MQ
+  latitude: 14.526
+  longitude: -61.088
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.8
+  depth: 7.6
+  categories:
+    wildlife: 8.9
+    beaches: 8.7
+    nature: 8.6

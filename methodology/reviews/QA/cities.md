@@ -7,7 +7,7 @@
 - [YAML](../../../countries/QA/cities/doha.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, not remote sights. GPS 25.2854, 51.5310: approximate editorial point; independent GPS verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Doha has lower provisional uniqueness and lower depth (Gulf capital mixing contemporary architecture and maritime heritage; several contrasting urban districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Doha has lower provisional uniqueness and lower depth (Gulf capital mixing contemporary architecture and maritime heritage; several contrasting urban districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Doha has lower provisional uniqueness and lower depth (Gulf capital mixing contemporary architecture and maritime heritage; several contrasting urban districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Doha has lower provisional uniqueness and lower depth (Gulf capital mixing contemporary architecture and maritime heritage; several contrasting urban districts).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Doha has higher provisional uniqueness and higher depth (Gulf capital mixing contemporary architecture and maritime heritage; several contrasting urban districts).
@@ -26,7 +26,7 @@
 - [YAML](../../../countries/QA/cities/lusail.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, not remote sights. GPS 25.4200, 51.4900: approximate editorial point; independent GPS verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Lusail has lower provisional uniqueness and lower depth (large contemporary planned Gulf city; several districts but limited historical layers).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Lusail has lower provisional uniqueness and lower depth (large contemporary planned Gulf city; several districts but limited historical layers).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Lusail has lower provisional uniqueness and lower depth (large contemporary planned Gulf city; several districts but limited historical layers).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Lusail has lower provisional uniqueness and lower depth (large contemporary planned Gulf city; several districts but limited historical layers).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Lusail has lower provisional uniqueness and lower depth (large contemporary planned Gulf city; several districts but limited historical layers).
@@ -83,7 +83,7 @@
 - [YAML](../../../countries/QA/cities/al-rayyan.yaml) · Action: new · **editorial-only**.
 - Scope: Settlement itself, not remote sights. GPS 25.2919, 51.4244: approximate editorial point; independent GPS verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Al Rayyan has lower provisional uniqueness and lower depth (education and sporting precincts; dispersed attractions without strong historic core).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Al Rayyan has lower provisional uniqueness and lower depth (education and sporting precincts; dispersed attractions without strong historic core).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Al Rayyan has lower provisional uniqueness and lower depth (education and sporting precincts; dispersed attractions without strong historic core).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Al Rayyan has lower provisional uniqueness and lower depth (education and sporting precincts; dispersed attractions without strong historic core).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Al Rayyan has lower provisional uniqueness and lower depth (education and sporting precincts; dispersed attractions without strong historic core).
@@ -178,7 +178,7 @@
 - [YAML](../../../countries/QA/cities/mesaieed.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, not remote sights. GPS 24.9920, 51.5500: approximate editorial point; independent GPS verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Mesaieed has lower provisional uniqueness and lower depth (energy town identity; Sealine and desert excluded).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Mesaieed has lower provisional uniqueness and lower depth (energy town identity; Sealine and desert excluded).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Mesaieed has lower provisional uniqueness and lower depth (energy town identity; Sealine and desert excluded).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Mesaieed has lower provisional uniqueness and lower depth (energy town identity; Sealine and desert excluded).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Mesaieed has lower provisional uniqueness and lower depth (energy town identity; Sealine and desert excluded).
@@ -197,7 +197,7 @@
 - [YAML](../../../countries/QA/cities/dukhan.yaml) · Action: new · **unassessed**.
 - Scope: Settlement itself, not remote sights. GPS 25.4240, 50.7830: approximate editorial point; independent GPS verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Dukhan has unresolved provisional uniqueness and unresolved depth (industry-linked settlement; public visit breadth uncertain).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper benchmark; Dukhan has unresolved provisional uniqueness and unresolved depth (industry-linked settlement; public visit breadth uncertain).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Dukhan has unresolved provisional uniqueness and unresolved depth (industry-linked settlement; public visit breadth uncertain).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Dukhan has unresolved provisional uniqueness and unresolved depth (industry-linked settlement; public visit breadth uncertain).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); regional or bounded reference; Dukhan has unresolved provisional uniqueness and unresolved depth (industry-linked settlement; public visit breadth uncertain).

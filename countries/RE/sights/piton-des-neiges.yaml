@@ -1,0 +1,16 @@
+id: sight-re-piton-des-neiges
+name: "Piton des Neiges"
+location:
+  country_code: RE
+  latitude: -21.099
+  longitude: 55.48
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.1
+    adventure: 9.2
+    photography: 9.2

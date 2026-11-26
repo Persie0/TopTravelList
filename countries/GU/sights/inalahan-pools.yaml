@@ -1,0 +1,16 @@
+id: sight-gu-inalahan-pools
+name: "Inalåhan natural pools"
+location:
+  country_code: GU
+  latitude: 13.27
+  longitude: 144.748
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 7.3
+  experience: 8.0
+  depth: 7.2
+  categories:
+    nature: 8.5
+    photography: 8.7
+    relaxation: 8.1

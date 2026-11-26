@@ -1,0 +1,15 @@
+id: sight-re-plaine-des-sables
+name: "Plaine des Sables"
+location:
+  country_code: RE
+  latitude: -21.223
+  longitude: 55.663
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.4
+  depth: 7.8
+  categories:
+    nature: 8.9
+    photography: 9.0

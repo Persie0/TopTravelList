@@ -1,0 +1,17 @@
+id: sight-vi-virgin-islands-national-park
+name: "Virgin Islands National Park (Saint John)"
+location:
+  country_code: VI
+  latitude: 18.342
+  longitude: -64.733
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    history: 8.8
+    beaches: 9.2

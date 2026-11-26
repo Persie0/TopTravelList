@@ -1,0 +1,16 @@
+id: sight-hk-po-lin-monastery
+name: "Po Lin Monastery"
+location:
+  country_code: HK
+  latitude: 22.255
+  longitude: 113.904
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.0
+  depth: 8.2
+  categories:
+    architecture: 8.5
+    culture: 8.5
+    history: 8.3

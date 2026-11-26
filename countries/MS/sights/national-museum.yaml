@@ -1,0 +1,15 @@
+id: sight-ms-national-museum
+name: "National Museum of Montserrat"
+location:
+  country_code: MS
+  latitude: 16.804
+  longitude: -62.205
+scores:
+  impact: 7.4
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.0
+  depth: 7.6
+  categories:
+    history: 8.8
+    culture: 8.7

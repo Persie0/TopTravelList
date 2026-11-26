@@ -1,0 +1,16 @@
+id: sight-pf-tiputa-pass
+name: "Tiputa Pass"
+location:
+  country_code: PF
+  latitude: -14.975
+  longitude: -147.626
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.2
+  depth: 8.6
+  categories:
+    wildlife: 9.3
+    adventure: 9.3
+    nature: 9.1

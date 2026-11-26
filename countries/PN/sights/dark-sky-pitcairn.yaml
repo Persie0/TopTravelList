@@ -1,0 +1,15 @@
+id: sight-pn-dark-sky-pitcairn
+name: "Mata ki te Rangi (Pitcairn Island stargazing)"
+location:
+  country_code: PN
+  latitude: -25.073
+  longitude: -130.108
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.6
+  depth: 7.7
+  categories:
+    nature: 8.8
+    photography: 9.1

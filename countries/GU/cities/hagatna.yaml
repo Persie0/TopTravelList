@@ -1,0 +1,16 @@
+id: city-gu-hagatna
+name: "Hagåtña"
+location:
+  country_code: GU
+  latitude: 13.4757
+  longitude: 144.7489
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 8.9
+    culture: 8.8
+    architecture: 8.1

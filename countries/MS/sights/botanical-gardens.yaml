@@ -1,0 +1,16 @@
+id: sight-ms-botanical-gardens
+name: "Montserrat National Trust Botanical Gardens"
+location:
+  country_code: MS
+  latitude: 16.749
+  longitude: -62.221
+scores:
+  impact: 7.7
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.1
+  depth: 7.6
+  categories:
+    nature: 8.6
+    culture: 8.1
+    relaxation: 8.2

@@ -1,0 +1,16 @@
+id: sight-re-piton-de-la-fournaise
+name: "Piton de la Fournaise"
+location:
+  country_code: RE
+  latitude: -21.244
+  longitude: 55.708
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.5
+    adventure: 9.3

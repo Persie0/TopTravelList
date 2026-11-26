@@ -1,0 +1,16 @@
+id: sight-je-st-brelade-bay
+name: "St Brelade's Bay"
+location:
+  country_code: JE
+  latitude: 49.185
+  longitude: -2.194
+scores:
+  impact: 8.5
+  uniqueness: 7.8
+  significance: 7.3
+  experience: 8.9
+  depth: 7.8
+  categories:
+    beaches: 8.7
+    family: 8.8
+    relaxation: 8.7

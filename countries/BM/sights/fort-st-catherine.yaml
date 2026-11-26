@@ -1,0 +1,16 @@
+id: sight-bm-fort-st-catherine
+name: "Fort St Catherine and Museum"
+location:
+  country_code: BM
+  latitude: 32.391
+  longitude: -64.672
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.4
+  depth: 8.1
+  categories:
+    history: 9.1
+    architecture: 8.8
+    photography: 8.8

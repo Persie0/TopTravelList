@@ -1,0 +1,15 @@
+id: sight-nc-lekiny-cliffs
+name: "Lékiny Cliffs"
+location:
+  country_code: NC
+  latitude: -20.706
+  longitude: 166.453
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.4
+  depth: 7.6
+  categories:
+    nature: 8.9
+    photography: 9.0

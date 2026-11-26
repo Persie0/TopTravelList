@@ -1,0 +1,16 @@
+id: city-mq-saint-pierre
+name: "Saint-Pierre"
+location:
+  country_code: MQ
+  latitude: 14.744
+  longitude: -61.175
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.1
+  depth: 7.9
+  categories:
+    history: 9.0
+    culture: 8.5
+    photography: 8.4

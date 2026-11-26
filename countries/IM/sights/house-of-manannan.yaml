@@ -1,0 +1,16 @@
+id: sight-im-house-of-manannan
+name: "House of Manannan"
+location:
+  country_code: IM
+  latitude: 54.221
+  longitude: -4.698
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 8.9
+    culture: 8.9
+    family: 8.8

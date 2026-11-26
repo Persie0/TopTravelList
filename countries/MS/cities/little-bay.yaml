@@ -1,0 +1,16 @@
+id: city-ms-little-bay
+name: "Little Bay"
+location:
+  country_code: MS
+  latitude: 16.806
+  longitude: -62.205
+scores:
+  impact: 7.5
+  uniqueness: 7.6
+  significance: 7.6
+  experience: 8.0
+  depth: 7.3
+  categories:
+    culture: 8.2
+    food: 8.0
+    relaxation: 7.9

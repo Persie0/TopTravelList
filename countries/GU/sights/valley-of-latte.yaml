@@ -1,0 +1,17 @@
+id: sight-gu-valley-of-latte
+name: "Valley of the Latte cultural river park"
+location:
+  country_code: GU
+  latitude: 13.339
+  longitude: 144.765
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.6
+  depth: 8.4
+  categories:
+    culture: 8.9
+    nature: 8.5
+    history: 8.7
+    adventure: 8.4

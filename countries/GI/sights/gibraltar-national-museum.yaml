@@ -1,0 +1,16 @@
+id: sight-gi-gibraltar-national-museum
+name: "Gibraltar National Museum and Moorish Baths"
+location:
+  country_code: GI
+  latitude: 36.1397
+  longitude: -5.3539
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.0
+    culture: 8.7
+    architecture: 8.4

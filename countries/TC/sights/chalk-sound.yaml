@@ -1,0 +1,16 @@
+id: sight-tc-chalk-sound
+name: "Chalk Sound National Park (Providenciales)"
+location:
+  country_code: TC
+  latitude: 21.757
+  longitude: -72.252
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.2
+    photography: 9.4
+    relaxation: 8.9

@@ -1,0 +1,16 @@
+id: sight-io-diego-garcia
+name: "Diego Garcia Atoll (restricted natural and cultural heritage)"
+location:
+  country_code: IO
+  latitude: -7.35
+  longitude: 72.45
+scores:
+  impact: null
+  uniqueness: 8.8
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.0
+    wildlife: 9.0
+    history: 9.2

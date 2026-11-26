@@ -1,0 +1,16 @@
+id: sight-gl-disko-bay
+name: "Disko Bay (excluding Ilulissat Icefjord)"
+location:
+  country_code: GL
+  latitude: 69.2
+  longitude: -53.0
+scores:
+  impact: 9.4
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    photography: 9.5

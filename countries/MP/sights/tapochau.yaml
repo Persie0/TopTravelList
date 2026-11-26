@@ -1,0 +1,15 @@
+id: sight-mp-tapochau
+name: "Mount Tapochau viewpoint"
+location:
+  country_code: MP
+  latitude: 15.184
+  longitude: 145.744
+scores:
+  impact: 8.7
+  uniqueness: 8.0
+  significance: 7.6
+  experience: 8.1
+  depth: 7.2
+  categories:
+    nature: 8.4
+    photography: 8.9

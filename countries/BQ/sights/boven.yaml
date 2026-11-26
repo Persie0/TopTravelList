@@ -1,0 +1,16 @@
+id: sight-bq-boven
+name: "Boven National Park (Sint Eustatius)"
+location:
+  country_code: BQ
+  latitude: 17.511
+  longitude: -62.981
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.4
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 8.7
+    adventure: 8.5
+    photography: 8.6

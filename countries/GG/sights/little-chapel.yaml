@@ -1,0 +1,16 @@
+id: sight-gg-little-chapel
+name: "The Little Chapel"
+location:
+  country_code: GG
+  latitude: 49.434
+  longitude: -2.587
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 7.9
+  experience: 8.2
+  depth: 7.1
+  categories:
+    architecture: 8.8
+    culture: 8.4
+    photography: 9.0

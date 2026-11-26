@@ -1,0 +1,16 @@
+id: sight-gs-cooper-bay
+name: "Cooper Bay (authorized visitor sectors)"
+location:
+  country_code: GS
+  latitude: -54.789
+  longitude: -35.81
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.2
+  categories:
+    nature: 9.0
+    wildlife: 9.1
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: sight-sj-north-pole-expedition-museum
+name: "North Pole Expedition Museum"
+location:
+  country_code: SJ
+  latitude: 78.2237
+  longitude: 15.6506
+scores:
+  impact: 7.4
+  uniqueness: 8.4
+  significance: 8.3
+  experience: 8.0
+  depth: 7.5
+  categories:
+    history: 8.7
+    culture: 8.2

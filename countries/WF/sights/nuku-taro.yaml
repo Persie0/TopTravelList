@@ -1,0 +1,16 @@
+id: sight-wf-nuku-taro
+name: "Nuku irrigated taro landscape"
+location:
+  country_code: WF
+  latitude: -14.288
+  longitude: -178.167
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 7.6
+  depth: 7.7
+  categories:
+    culture: 8.8
+    nature: 8.2
+    photography: 8.4

@@ -1,0 +1,16 @@
+id: sight-hk-victoria-peak
+name: "Victoria Peak Hong Kong"
+location:
+  country_code: HK
+  latitude: 22.2759
+  longitude: 114.1455
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 9.5
+  depth: 8.6
+  categories:
+    photography: 8.5
+    nature: 7.9
+    architecture: 8.3

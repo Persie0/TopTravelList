@@ -1,0 +1,16 @@
+id: city-aw-oranjestad
+name: "Oranjestad"
+location:
+  country_code: AW
+  latitude: 12.519
+  longitude: -70.037
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.1
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 8.5
+    culture: 8.4
+    food: 8.3

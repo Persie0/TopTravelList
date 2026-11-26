@@ -1,0 +1,14 @@
+id: sight-aq-cape-royds
+name: "Shackleton's Nimrod Hut (Cape Royds)"
+location:
+  country_code: AQ
+  latitude: -77.553056
+  longitude: 166.168611
+scores:
+  impact: 8.5
+  uniqueness: 9.2
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    history: 9.3

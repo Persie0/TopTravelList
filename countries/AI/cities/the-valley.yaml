@@ -1,0 +1,15 @@
+id: city-ai-the-valley
+name: "The Valley"
+location:
+  country_code: AI
+  latitude: 18.217
+  longitude: -63.057
+scores:
+  impact: 7.1
+  uniqueness: 7.6
+  significance: 8.0
+  experience: 7.5
+  depth: 7.0
+  categories:
+    history: 8.3
+    culture: 8.0

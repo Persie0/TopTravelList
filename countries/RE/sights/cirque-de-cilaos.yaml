@@ -1,0 +1,16 @@
+id: sight-re-cirque-de-cilaos
+name: "Cirque de Cilaos"
+location:
+  country_code: RE
+  latitude: -21.14
+  longitude: 55.47
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.1
+    adventure: 9.2
+    photography: 9.1

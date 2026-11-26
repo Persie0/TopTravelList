@@ -7,7 +7,7 @@
 - [YAML](../../../countries/TL/cities/dili.yaml) · Action: new · **source-linked-unverified**.
 - Scope: Settlement itself, not remote attractions. GPS -8.5569, 125.5603: approximate editorial representative point; independent verification pending.
 - Worldwide peers (I/U/S/E/D):
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Dili has lower provisional uniqueness and lower depth (Portuguese and Timorese urban layers; several urban neighborhoods excluding offshore reefs).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); upper reference; Dili has lower provisional uniqueness and lower depth (Portuguese and Timorese urban layers; several urban neighborhoods excluding offshore reefs).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Dili has lower provisional uniqueness and lower depth (Portuguese and Timorese urban layers; several urban neighborhoods excluding offshore reefs).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); related comparator; Dili has lower provisional uniqueness and lower depth (Portuguese and Timorese urban layers; several urban neighborhoods excluding offshore reefs).
   - [Ipoh (MY)](../../../countries/MY/cities/ipoh.yaml) — 8.2 / 8.3 / 8.0 / 8.6 / 8.4 (82.65/100); bounded or regional reference; Dili has lower provisional uniqueness and lower depth (Portuguese and Timorese urban layers; several urban neighborhoods excluding offshore reefs).

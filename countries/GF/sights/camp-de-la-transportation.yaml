@@ -1,0 +1,16 @@
+id: sight-gf-camp-de-la-transportation
+name: "Camp de la Transportation"
+location:
+  country_code: GF
+  latitude: 5.499
+  longitude: -54.031
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 8.8
+    architecture: 8.5

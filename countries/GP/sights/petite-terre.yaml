@@ -1,0 +1,16 @@
+id: sight-gp-petite-terre
+name: "Petite-Terre Nature Reserve (permitted sector)"
+location:
+  country_code: GP
+  latitude: 16.17
+  longitude: -61.117
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    photography: 9.0

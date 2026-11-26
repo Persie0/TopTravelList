@@ -1,0 +1,17 @@
+id: sight-ck-aitutaki-lagoon
+name: "Aitutaki Lagoon and permitted motu cruise circuit"
+location:
+  country_code: CK
+  latitude: -18.91
+  longitude: -159.76
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 9.3
+  depth: 9.0
+  categories:
+    nature: 9.2
+    beaches: 9.4
+    photography: 9.4
+    relaxation: 9.2

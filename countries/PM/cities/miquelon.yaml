@@ -1,0 +1,15 @@
+id: city-pm-miquelon
+name: "Miquelon village"
+location:
+  country_code: PM
+  latitude: 47.103
+  longitude: -56.379
+scores:
+  impact: 7.7
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 7.6
+  depth: 7.4
+  categories:
+    culture: 8.4
+    history: 8.3

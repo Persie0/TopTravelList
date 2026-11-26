@@ -1,0 +1,15 @@
+id: city-pf-fare
+name: "Fare"
+location:
+  country_code: PF
+  latitude: -16.7123
+  longitude: -151.03493
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 6.6
+  experience: 7.5
+  depth: 6.5
+  categories:
+    culture: 7.6
+    food: 7.3

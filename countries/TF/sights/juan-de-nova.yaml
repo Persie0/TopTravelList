@@ -1,0 +1,15 @@
+id: sight-tf-juan-de-nova
+name: "Juan de Nova Island"
+location:
+  country_code: TF
+  latitude: -17.05
+  longitude: 42.75
+scores:
+  impact: null
+  uniqueness: 8.5
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    nature: 8.8
+    wildlife: 8.9

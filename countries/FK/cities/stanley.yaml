@@ -1,0 +1,16 @@
+id: city-fk-stanley
+name: "Stanley"
+location:
+  country_code: FK
+  latitude: -51.697
+  longitude: -57.851
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.3
+  depth: 8.0
+  categories:
+    history: 8.7
+    culture: 8.6
+    architecture: 8.2

@@ -1,0 +1,15 @@
+id: city-mp-susupe
+name: "Susupe (Saipan)"
+location:
+  country_code: MP
+  latitude: 15.157
+  longitude: 145.707
+scores:
+  impact: 7.1
+  uniqueness: 7.5
+  significance: 7.7
+  experience: 7.7
+  depth: 7.0
+  categories:
+    culture: 7.9
+    history: 8.0

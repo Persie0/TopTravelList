@@ -1,0 +1,16 @@
+id: sight-pf-moorea-lagoon
+name: "Moorea Lagoon"
+location:
+  country_code: PF
+  latitude: -17.495
+  longitude: -149.91
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.0
+    wildlife: 8.8
+    photography: 9.1

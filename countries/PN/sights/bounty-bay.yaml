@@ -1,0 +1,15 @@
+id: sight-pn-bounty-bay
+name: "Bounty Bay and Hill of Difficulty"
+location:
+  country_code: PN
+  latitude: -25.065
+  longitude: -130.095
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 7.8
+  depth: 7.1
+  categories:
+    history: 8.9
+    photography: 8.6

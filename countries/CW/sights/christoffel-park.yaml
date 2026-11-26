@@ -1,0 +1,16 @@
+id: sight-cw-christoffel-park
+name: "Christoffel National Park"
+location:
+  country_code: CW
+  latitude: 12.34
+  longitude: -69.12
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.0
+    adventure: 8.9
+    wildlife: 8.7

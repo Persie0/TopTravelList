@@ -1,0 +1,13 @@
+id: sight-gl-northeast-greenland-national-park
+name: "Northeast Greenland National Park"
+location:
+  country_code: GL
+  latitude: 76.0
+  longitude: -25.0
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

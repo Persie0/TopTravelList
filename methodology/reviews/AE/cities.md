@@ -8,7 +8,7 @@
 - Scope: Settlement itself, excluding outlying sights. GPS 25.2048, 55.2708: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper reference; Dubai has lower provisional uniqueness and lower depth (unusually concentrated contemporary engineering and urban spectacle; many distinct urban districts).
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related comparator; Dubai has higher provisional uniqueness and lower depth (unusually concentrated contemporary engineering and urban spectacle; many distinct urban districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related comparator; Dubai has higher provisional uniqueness and lower depth (unusually concentrated contemporary engineering and urban spectacle; many distinct urban districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Dubai has higher provisional uniqueness and lower depth (unusually concentrated contemporary engineering and urban spectacle; many distinct urban districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); regional or bounded reference; Dubai has higher provisional uniqueness and higher depth (unusually concentrated contemporary engineering and urban spectacle; many distinct urban districts).
 - Impact 9.2: skyscraper and historic creek districts.
@@ -27,7 +27,7 @@
 - Scope: Settlement itself, excluding outlying sights. GPS 24.4539, 54.3773: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper reference; Abu Dhabi has lower provisional uniqueness and lower depth (planned island capital and cultural institutions; multiple urban districts).
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related comparator; Abu Dhabi has lower provisional uniqueness and lower depth (planned island capital and cultural institutions; multiple urban districts).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related comparator; Abu Dhabi has lower provisional uniqueness and lower depth (planned island capital and cultural institutions; multiple urban districts).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Abu Dhabi has lower provisional uniqueness and lower depth (planned island capital and cultural institutions; multiple urban districts).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); regional or bounded reference; Abu Dhabi has equal provisional uniqueness and equal depth (planned island capital and cultural institutions; multiple urban districts).
 - Impact 8.7: coastal capital with monumental civic architecture.
@@ -46,7 +46,7 @@
 - Scope: Settlement itself, excluding outlying sights. GPS 25.3463, 55.4209: approximate editorial point, independent verification pending.
 - Worldwide peers (I/U/S/E/D):
   - [Beijing (CN)](../../../countries/CN/cities/beijing.yaml) — 9.7 / 9.7 / 9.9 / 9.5 / 10.0 (97.40/100); upper reference; Sharjah has lower provisional uniqueness and lower depth (regional focus on museums and Islamic arts; several cultural quarters).
-  - [Hong Kong (CN)](../../../countries/CN/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related comparator; Sharjah has lower provisional uniqueness and lower depth (regional focus on museums and Islamic arts; several cultural quarters).
+  - [Hong Kong (CN)](../../../countries/HK/cities/hong-kong.yaml) — 9.3 / 9.2 / 9.1 / 9.3 / 9.7 (92.75/100); related comparator; Sharjah has lower provisional uniqueness and lower depth (regional focus on museums and Islamic arts; several cultural quarters).
   - [Bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1 / 9.0 / 9.0 / 9.5 / 9.8 (91.85/100); related comparator; Sharjah has lower provisional uniqueness and lower depth (regional focus on museums and Islamic arts; several cultural quarters).
   - [Amman (JO)](../../../countries/JO/cities/amman.yaml) — 8.5 / 8.5 / 8.9 / 8.7 / 9.0 (86.60/100); regional or bounded reference; Sharjah has lower provisional uniqueness and lower depth (regional focus on museums and Islamic arts; several cultural quarters).
 - Impact 7.9: heritage districts and waterfront cityscape.

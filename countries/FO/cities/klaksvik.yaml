@@ -1,0 +1,15 @@
+id: city-fo-klaksvik
+name: "Klaksvík"
+location:
+  country_code: FO
+  latitude: 62.2266
+  longitude: -6.589
+scores:
+  impact: 7.6
+  uniqueness: 7.5
+  significance: 6.8
+  experience: 7.4
+  depth: 6.9
+  categories:
+    culture: 7.3
+    photography: 7.8

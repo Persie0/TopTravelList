@@ -1,0 +1,16 @@
+id: sight-gf-guyaspace-experience
+name: "Guyaspace Expérience"
+location:
+  country_code: GF
+  latitude: 5.186
+  longitude: -52.69
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.8
+  depth: 8.3
+  categories:
+    history: 8.7
+    culture: 8.4
+    family: 8.9

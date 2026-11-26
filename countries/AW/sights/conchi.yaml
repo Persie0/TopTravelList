@@ -1,0 +1,16 @@
+id: sight-aw-conchi
+name: "Conchi Natural Pool"
+location:
+  country_code: AW
+  latitude: 12.535
+  longitude: -69.931
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 7.9
+  experience: 8.4
+  depth: 7.4
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.6

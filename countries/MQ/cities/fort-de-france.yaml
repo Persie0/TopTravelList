@@ -1,0 +1,16 @@
+id: city-mq-fort-de-france
+name: "Fort-de-France"
+location:
+  country_code: MQ
+  latitude: 14.604
+  longitude: -61.071
+scores:
+  impact: 7.7
+  uniqueness: 7.9
+  significance: 8.2
+  experience: 8.2
+  depth: 8.0
+  categories:
+    culture: 8.5
+    history: 8.4
+    architecture: 8.4

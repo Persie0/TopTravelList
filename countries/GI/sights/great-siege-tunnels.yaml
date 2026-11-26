@@ -1,0 +1,15 @@
+id: sight-gi-great-siege-tunnels
+name: "Great Siege Tunnels"
+location:
+  country_code: GI
+  latitude: 36.147
+  longitude: -5.349
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.6
+  depth: 8.0
+  categories:
+    history: 9.3
+    architecture: 8.7

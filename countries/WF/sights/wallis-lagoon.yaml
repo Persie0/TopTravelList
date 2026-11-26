@@ -1,0 +1,17 @@
+id: sight-wf-wallis-lagoon
+name: "Wallis lagoon and permitted motu excursions"
+location:
+  country_code: WF
+  latitude: -13.28
+  longitude: -176.14
+scores:
+  impact: 9.1
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 8.9
+    beaches: 9.1
+    photography: 9.2
+    relaxation: 8.8

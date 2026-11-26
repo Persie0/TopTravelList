@@ -1,0 +1,16 @@
+id: sight-pr-san-juan-national-historic-site
+name: "San Juan National Historic Site (Puerto Rico)"
+location:
+  country_code: PR
+  latitude: 18.471
+  longitude: -66.124
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.2
