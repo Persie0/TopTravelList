@@ -371,3 +371,5 @@
 - [Ungheni](../../../countries/MD/cities/ungheni.yaml): **source-linked-unverified**. [Tourism information](https://www.turism.ungheni.md/en/museum-of-history-and-ethnography/) documents local museum; [municipality](https://ungheni.md/obiective-turistice/) describes the railway bridge and explicitly notes that no official document confirming Eiffel's authorship has been found. The bridge is credited as heritage, not unrestricted railway pedestrian access. Existing scores retained.
 
 All five now have relevant supporting sources; complete claim-level and location verification is outstanding. No change to the three unassessed Transnistrian settlements.
+
+- [Dated worldwide reassessment pass 55 — 2026-11-26](worldwide-deferred-pass55-2026-11-26.md)

@@ -251,3 +251,5 @@ Follow-up 2026-11-25: six formerly unlinked settlements now carry geographic and
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Geographic reference](https://www.geonames.org/ER/largest-cities-in-eritrea.html) — Named port settlement; [government travel advice](https://travel.gc.ca/destinations/eritrea) establishes travel restrictions, not ordinary visit scope. Reviewed 2026-11-25; visitor quality remains provisional.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
+
+- [Dated worldwide reassessment pass 55 — 2026-11-26](worldwide-deferred-pass55-2026-11-26.md)

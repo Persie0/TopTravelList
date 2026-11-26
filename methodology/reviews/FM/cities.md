@@ -283,3 +283,5 @@ Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these 
 ## 2026-11-25 — Palikir evidence follow-up
 
 FSM Legal Information System confirms the national government campus and three branches in Palikir (https://fsmlaw.org/fsm/, page inspected). Government's May 2025 convention-centre opening announcement (https://gov.fm/new-national-convention-center-officially-opens-advancing-the-fsms-position-as-regional-hub/, indexed excerpt) supports civic significance, not routine public visitor activities. Do not transfer Kolonia's legislature visitor program or Pohnpei's island attractions to Palikir. Retain 7.0 significance and null remaining core fields pending authoritative visitor scope; existing coordinate not independently corroborated.
+
+- [Dated worldwide reassessment pass 55 — 2026-11-26](worldwide-deferred-pass55-2026-11-26.md)
