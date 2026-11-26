@@ -306,8 +306,8 @@ countries/CY/sights/khandria.yaml	sight-cy-khandria	Khandria Ophiolite Outcrop	C
 countries/CY/sights/kionia.yaml	sight-cy-kionia	Kionia Ophiolite Outcrop	CY	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/CY/sights/klirou-bridge.yaml	sight-cy-klirou-bridge	Klirou Bridge Geological Site	CY	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/CY/sights/malounta-bridge.yaml	sight-cy-malounta-bridge	Malounta Bridge Geological Site	CY	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
-countries/CY/sights/mathiatis-south.yaml	sight-cy-mathiatis-south	Mathiatis South Geological and Mining Site	CY	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
-countries/CY/sights/troodos-olympus.yaml	sight-cy-troodos-olympus	Troodos Mount Olympus Geological Area	CY	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
+countries/CY/sights/mathiatis-south.yaml	sight-cy-mathiatis-south	Mathiatis South Geological and Mining Site	CY	sights		complete	80.10	worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
+countries/CY/sights/troodos-olympus.yaml	sight-cy-troodos-olympus	Troodos Mount Olympus Geological Area	CY	sights		complete	83.50	worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/CY/sights/varosha.yaml	sight-cy-varosha	Varosha Permitted Public Area	CY	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/DE/sights/beech-forests.yaml	sight-de-beech-forests	Ancient Beech Forests (German components)	DE	sights		complete	88.55	worldwide-incomplete-batch-100-pass10-2026-11-26.md	deferred
 countries/DE/sights/berlin-modernism.yaml	sight-de-berlin-modernism	Berlin Modernism Housing Estates (including 2026 extension)	DE	sights		complete	86.95	worldwide-incomplete-batch-100-pass10-2026-11-26.md	completed
@@ -348,10 +348,10 @@ countries/DZ/sights/tefedest-massif.yaml	sight-dz-tefedest-massif	Tefedest Massi
 countries/EC/sights/llanganates-national-park.yaml	sight-ec-llanganates-national-park	Llanganates National Park	EC	sights		complete	87.25	worldwide-incomplete-batch-100-pass18-2026-11-26.md	deferred
 countries/EC/sights/qhapaq-nan-ecuadorian-inscribed-sections.yaml	sight-ec-qhapaq-nan-ecuadorian-inscribed-sections	Qhapaq Ñan (Ecuadorian inscribed sections)	EC	sights		complete	91.50	worldwide-incomplete-batch-100-pass18-2026-11-26.md	deferred
 countries/EC/sights/sumaco-napo-galeras-national-park.yaml	sight-ec-sumaco-napo-galeras-national-park	Sumaco Napo-Galeras National Park	EC	sights		complete	88.15	worldwide-incomplete-batch-100-pass18-2026-11-26.md	deferred
-countries/EE/sights/baltic-klint.yaml	sight-ee-baltic-klint	Baltic Klint (Estonian tentative heritage landscape)	EE	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
+countries/EE/sights/baltic-klint.yaml	sight-ee-baltic-klint	Baltic Klint (Estonian tentative heritage landscape)	EE	sights		complete	85.70	worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/EE/sights/simuna-struve-station.yaml	sight-ee-simuna-struve-station	Simuna Struve Geodetic Arc Station	EE	sights		complete	73.90	worldwide-incomplete-batch-100-pass19-2026-11-26.md	completed
 countries/EE/sights/voivere-struve-station.yaml	sight-ee-voivere-struve-station	Võivere Struve Geodetic Arc Station	EE	sights		complete	76.55	worldwide-incomplete-batch-100-pass19-2026-11-26.md	completed
-countries/EE/sights/wooded-meadows.yaml	sight-ee-wooded-meadows	Estonian Wooded Meadows (tentative serial property)	EE	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
+countries/EE/sights/wooded-meadows.yaml	sight-ee-wooded-meadows	Estonian Wooded Meadows (tentative serial property)	EE	sights		complete	83.45	worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/EG/sights/alexandria-heritage-property.yaml	sight-eg-alexandria-heritage-property	Alexandria Ancient Remains and New Library	EG	sights		complete	89.50	worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
 countries/EG/sights/ancient-thebes-property.yaml	sight-eg-ancient-thebes-property	Ancient Thebes and its Necropolis UNESCO Property	EG	sights		complete	97.90	worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
 countries/EG/sights/memphis-necropolis-property.yaml	sight-eg-memphis-necropolis-property	Memphis and its Necropolis UNESCO Property	EG	sights		complete	97.65	worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
@@ -375,18 +375,18 @@ countries/ES/sights/beech-forests.yaml	sight-es-beech-forests	Ancient Beech Fore
 countries/ES/sights/frontier-forts.yaml	sight-es-frontier-forts	Bulwarked Frontier Fortifications (Spanish components)	ES	sights		complete	88.25	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/la-palma-engravings.yaml	sight-es-la-palma-engravings	Rock engravings of La Palma (tentative series)	ES	sights		complete	88.55	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/mediterranean-rock-art.yaml	sight-es-mediterranean-rock-art	Rock Art of the Mediterranean Basin (Spanish series)	ES	sights		complete	90.65	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/ES/sights/mesta-trails.yaml	sight-es-mesta-trails	Mesta livestock trails	ES	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/ES/sights/mesta-trails.yaml	sight-es-mesta-trails	Mesta livestock trails	ES	sights		complete	85.10	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/mining-heritage.yaml	sight-es-mining-heritage	Mining Historical Heritage (tentative series)	ES	sights		complete	88.30	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/mozarabic-buildings.yaml	sight-es-mozarabic-buildings	Mozarabic buildings on Iberian Peninsula (Spanish components)	ES	sights		complete	88.90	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/mudejar-aragon.yaml	sight-es-mudejar-aragon	Mudéjar Architecture of Aragon	ES	sights		complete	90.80	worldwide-incomplete-batch-100-2026-11-26.md	completed
 countries/ES/sights/paper-mills.yaml	sight-es-paper-mills	European Paper Mills (Spanish nominated components)	ES	sights		complete	86.05	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/risco-caido.yaml	sight-es-risco-caido	Risco Caído and Sacred Mountains of Gran Canaria	ES	sights		complete	90.75	worldwide-incomplete-batch-100-2026-11-26.md	completed
-countries/ES/sights/roman-ways.yaml	sight-es-roman-ways	Roman Ways (Spanish tentative routes)	ES	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/ES/sights/roman-ways.yaml	sight-es-roman-ways	Roman Ways (Spanish tentative routes)	ES	sights		complete	85.25	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/romanesque-enclave.yaml	sight-es-romanesque-enclave	Romanesque Cultural Enclave of northern Castile-León and southern Cantabria	ES	sights		complete	88.10	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/sagrada-listed.yaml	sight-es-sagrada-listed	Nativity Façade and Crypt of Sagrada Família	ES	sights		complete	92.55	worldwide-incomplete-batch-100-2026-11-26.md	retain unranked — overlapping scope and access
 countries/ES/sights/silver-route.yaml	sight-es-silver-route	Silver Route	ES	sights		complete	88.00	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ES/sights/windmills.yaml	sight-es-windmills	Mediterranean Wind Mills (tentative series)	ES	sights		complete	86.50	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/ES/sights/wine-iberia.yaml	sight-es-wine-iberia	Wine in Iberia (Spanish tentative components)	ES	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/ES/sights/wine-iberia.yaml	sight-es-wine-iberia	Wine in Iberia (Spanish tentative components)	ES	sights		complete	86.20	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/ET/sights/dirre-sheikh-hussein.yaml	sight-et-dirre-sheikh-hussein	Dirre Sheikh Hussein Religious Site	ET	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
 countries/ET/sights/gedeo-cultural-landscape.yaml	sight-et-gedeo-cultural-landscape	Gedeo Cultural Landscape	ET	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
 countries/ET/sights/lower-valley-awash.yaml	sight-et-lower-valley-awash	Lower Valley of the Awash	ET	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass13-2026-11-26.md	deferred
@@ -798,7 +798,7 @@ countries/MD/sights/balti-steppe-typical-chernozem-soil-experiments.yaml	sight-m
 countries/MD/sights/bender-fortress.yaml	sight-md-bender-fortress	Bender Fortress	MD	sights		complete	84.75	worldwide-incomplete-batch-100-pass20-2026-11-26.md	completed
 countries/MD/sights/cucuteni-trypillia-civilization-moldova-components.yaml	sight-md-cucuteni-trypillia-civilization-moldova-components	Cucuteni-Trypillia Civilization (Moldova components)	MD	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/MG/cities/toamasina.yaml	city-mg-toamasina	Toamasina	MG	cities		complete	75.75	worldwide-incomplete-batch-100-pass22-2026-11-26.md	deferred
-countries/MG/sights/ambodifotatra-church.yaml	sight-mg-ambodifotatra-church	Catholic Church of Ambodifotatra	MG	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
+countries/MG/sights/ambodifotatra-church.yaml	sight-mg-ambodifotatra-church	Catholic Church of Ambodifotatra	MG	sights		complete	78.75	worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/ambodivahibe.yaml	sight-mg-ambodivahibe	Ambodivahibe Marine Protected Area	MG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/analamerana.yaml	sight-mg-analamerana	Analamerana Special Reserve	MG	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/ankarea.yaml	sight-mg-ankarea	Ankarea Marine Protected Area	MG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
@@ -807,7 +807,7 @@ countries/MG/sights/mahafaly-landscape.yaml	sight-mg-mahafaly-landscape	Pays Mah
 countries/MG/sights/mantasoa-industrial-site.yaml	sight-mg-mantasoa-industrial-site	Historic Industrial Site of Mantasoa	MG	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/mikea.yaml	sight-mg-mikea	Mikea National Park	MG	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MG/sights/nosy-lonjo.yaml	sight-mg-nosy-lonjo	Nosy Lonjo (Sugarloaf Island)	MG	sights		complete	81.65	worldwide-incomplete-batch-100-pass14-2026-11-26.md	completed
-countries/MG/sights/sahamalaza.yaml	sight-mg-sahamalaza	Sahamalaza–Îles Radama National Park	MG	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
+countries/MG/sights/sahamalaza.yaml	sight-mg-sahamalaza	Sahamalaza–Îles Radama National Park	MG	sights		complete	90.30	worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/MH/cities/ebon.yaml	city-mh-ebon	Ebon Village	MH	cities	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
 countries/MH/cities/kili.yaml	city-mh-kili	Kili Village	MH	cities	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
 countries/MH/cities/mili.yaml	city-mh-mili	Mili Village	MH	cities	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
@@ -1533,7 +1533,7 @@ countries/VU/cities/isangel.yaml	city-vu-isangel	Isangel	VU	cities	impact;unique
 countries/VU/sights/nowon-votwos-ureparapara.yaml	sight-vu-nowon-votwos-ureparapara	The Nowon and Votwos of Ureparapara	VU	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/VU/sights/yalo-apialo-sacred-geography.yaml	sight-vu-yalo-apialo-sacred-geography	Yalo, Apialo and the Sacred Geography of Northwest Malakula	VU	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/WF/sights/anakele.yaml	sight-wf-anakele	Anakele royal burial heritage	WF	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred
-countries/WS/sights/falealupo-canopy-walk.yaml	sight-ws-falealupo-canopy-walk	Falealupo Canopy Walkway	WS	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
+countries/WS/sights/falealupo-canopy-walk.yaml	sight-ws-falealupo-canopy-walk	Falealupo Canopy Walkway	WS	sights		complete	78.00	worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/WS/sights/pulemelei-mound.yaml	sight-ws-pulemelei-mound	Pulemelei Mound	WS	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/WS/sights/vaipu-swamp-conservation-area.yaml	sight-ws-vaipu-swamp-conservation-area	Vaipu Swamp Conservation Area	WS	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/XK/sights/church-of-the-virgin-of-ljevisa.yaml	sight-xk-church-of-the-virgin-of-ljevisa	Church of the Virgin of Ljeviša	XK	sights		complete	88.55	worldwide-incomplete-batch-100-pass22-2026-11-26.md	deferred
@@ -1568,11 +1568,11 @@ countries/YE/sights/thula.yaml	sight-ye-thula	Historic City of Thula	YE	sights	e
 countries/YE/sights/wadi-dawan.yaml	sight-ye-wadi-dawan	Haid Al-Jazil and Wadi Daw'an	YE	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
 countries/YT/sights/muma.yaml	sight-yt-muma	Musée de Mayotte (MuMa)	YT	sights	experience;depth	incomplete		worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred
 countries/YT/sights/tsingoni-mosque.yaml	sight-yt-tsingoni-mosque	Historic Mosque of Tsingoni	YT	sights		complete	83.75	worldwide-incomplete-batch-100-pass22-2026-11-26.md	deferred
-countries/ZA/sights/cape-floral-region.yaml	sight-za-cape-floral-region	Cape Floral Region Protected Areas (UNESCO aggregate)	ZA	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
-countries/ZA/sights/fossil-hominid-sites.yaml	sight-za-fossil-hominid-sites	Fossil Hominid Sites of South Africa (UNESCO aggregate)	ZA	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
-countries/ZA/sights/khomani-cultural-landscape.yaml	sight-za-khomani-cultural-landscape	ǂKhomani Cultural Landscape	ZA	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
-countries/ZA/sights/mandela-legacy-sites.yaml	sight-za-mandela-legacy-sites	Nelson Mandela Legacy Sites (UNESCO aggregate)	ZA	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
-countries/ZA/sights/pleistocene-occupation-sites.yaml	sight-za-pleistocene-occupation-sites	Pleistocene Occupation Sites of South Africa (UNESCO aggregate)	ZA	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
+countries/ZA/sights/cape-floral-region.yaml	sight-za-cape-floral-region	Cape Floral Region Protected Areas (UNESCO aggregate)	ZA	sights		complete	94.40	worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
+countries/ZA/sights/fossil-hominid-sites.yaml	sight-za-fossil-hominid-sites	Fossil Hominid Sites of South Africa (UNESCO aggregate)	ZA	sights		complete	93.25	worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
+countries/ZA/sights/khomani-cultural-landscape.yaml	sight-za-khomani-cultural-landscape	ǂKhomani Cultural Landscape	ZA	sights		complete	90.75	worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
+countries/ZA/sights/mandela-legacy-sites.yaml	sight-za-mandela-legacy-sites	Nelson Mandela Legacy Sites (UNESCO aggregate)	ZA	sights		complete	92.35	worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
+countries/ZA/sights/pleistocene-occupation-sites.yaml	sight-za-pleistocene-occupation-sites	Pleistocene Occupation Sites of South Africa (UNESCO aggregate)	ZA	sights		complete	91.50	worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
 countries/ZA/sights/richtersveld-cultural-landscape.yaml	sight-za-richtersveld-cultural-landscape	Richtersveld Cultural and Botanical Landscape	ZA	sights		complete	90.15	worldwide-incomplete-batch-100-pass17-2026-11-26.md	completed
 countries/ZA/sights/satyagraha-sites.yaml	sight-za-satyagraha-sites	Sites of Satyagraha (tentative aggregate)	ZA	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass17-2026-11-26.md	deferred
 countries/ZM/cities/chipata.yaml	city-zm-chipata	Chipata	ZM	cities		complete	70.60	worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred

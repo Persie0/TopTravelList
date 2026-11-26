@@ -2,7 +2,7 @@
 
 # Spain (ES) — Sights & attractions ranking
 
-**109 ranked** · **4 unassessed** · **113 total** · Worldwide scoring **v2**
+**112 ranked** · **1 unassessed** · **113 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (109)
+## Complete ranked list (112)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -120,20 +120,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 104 | [Cabañeros National Park](sights/cabaneros.yaml) | Park / reserve | **87.15** | **Wildlife 9.3**, **Nature 9.2** | 8.5 / 8.8 / 8.9 / 8.7 / 8.8 | [39.4, -4.55](https://www.google.com/maps/search/?api=1&query=39.4,-4.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Caba%C3%B1eros%20National%20Park%2C%20Spain) |
 | 105 | [Mediterranean Wind Mills (tentative series)](sights/windmills.yaml) | Attraction | **86.50** | **History 9.0**, **Photography 9.0** | 8.5 / 8.8 / 8.8 / 8.6 / 8.5 | [39.4, -3.1](https://www.google.com/maps/search/?api=1&query=39.4,-3.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mediterranean%20Wind%20Mills%20%28tentative%20series%29%2C%20Spain) |
 | 106 | [Ferrol Enlightenment heritage](sights/ferrol.yaml) | Attraction | **86.40** | **History 9.3**, **Architecture 9.1** | 8.4 / 8.8 / 9.0 / 8.4 / 8.6 | [43.482, -8.235](https://www.google.com/maps/search/?api=1&query=43.482,-8.235) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ferrol%20Enlightenment%20heritage%2C%20Spain) |
-| 107 | [Church of San Salvador de Valdediós](sights/valdedios.yaml) | Religious site | **86.15** | **History 9.3**, **Architecture 9.2** | 8.4 / 9.0 / 9.2 / 8.3 / 7.6 | [43.433, -5.508](https://www.google.com/maps/search/?api=1&query=43.433,-5.508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Church%20of%20San%20Salvador%20de%20Valdedi%C3%B3s%2C%20Spain) |
-| 108 | [European Paper Mills (Spanish nominated components)](sights/paper-mills.yaml) | Attraction | **86.05** | **History 9.2** | 8.1 / 8.8 / 9.1 / 8.7 / 8.5 | [41.5, 1.7](https://www.google.com/maps/search/?api=1&query=41.5,1.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=European%20Paper%20Mills%20%28Spanish%20nominated%20components%29%2C%20Spain) |
-| 109 | [Tablas de Daimiel National Park](sights/tablas-daimiel.yaml) | Park / reserve | **85.75** | **Wildlife 9.3**, **Nature 9.2** | 8.3 / 8.8 / 8.9 / 8.5 / 8.3 | [39.14, -3.7](https://www.google.com/maps/search/?api=1&query=39.14,-3.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tablas%20de%20Daimiel%20National%20Park%2C%20Spain) |
+| 107 | [Wine in Iberia (Spanish tentative components)](sights/wine-iberia.yaml) | Attraction | **86.20** | **History 9.2**, **Culture 9.1** | 8.4 / 8.8 / 9.0 / 8.2 / 8.7 | [38.5, -0.7](https://www.google.com/maps/search/?api=1&query=38.5,-0.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wine%20in%20Iberia%20%28Spanish%20tentative%20components%29%2C%20Spain) |
+| 108 | [Church of San Salvador de Valdediós](sights/valdedios.yaml) | Religious site | **86.15** | **History 9.3**, **Architecture 9.2** | 8.4 / 9.0 / 9.2 / 8.3 / 7.6 | [43.433, -5.508](https://www.google.com/maps/search/?api=1&query=43.433,-5.508) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Church%20of%20San%20Salvador%20de%20Valdedi%C3%B3s%2C%20Spain) |
+| 109 | [European Paper Mills (Spanish nominated components)](sights/paper-mills.yaml) | Attraction | **86.05** | **History 9.2** | 8.1 / 8.8 / 9.1 / 8.7 / 8.5 | [41.5, 1.7](https://www.google.com/maps/search/?api=1&query=41.5,1.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=European%20Paper%20Mills%20%28Spanish%20nominated%20components%29%2C%20Spain) |
+| 110 | [Tablas de Daimiel National Park](sights/tablas-daimiel.yaml) | Park / reserve | **85.75** | **Wildlife 9.3**, **Nature 9.2** | 8.3 / 8.8 / 8.9 / 8.5 / 8.3 | [39.14, -3.7](https://www.google.com/maps/search/?api=1&query=39.14,-3.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tablas%20de%20Daimiel%20National%20Park%2C%20Spain) |
+| 111 | [Roman Ways (Spanish tentative routes)](sights/roman-ways.yaml) | Attraction | **85.25** | **History 9.3** | 7.9 / 8.6 / 9.2 / 8.5 / 8.9 | [41.0, -4.9](https://www.google.com/maps/search/?api=1&query=41.0,-4.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roman%20Ways%20%28Spanish%20tentative%20routes%29%2C%20Spain) |
+| 112 | [Mesta livestock trails](sights/mesta-trails.yaml) | Trail / walk | **85.10** | **History 9.2**, **Culture 9.0** | 8.0 / 8.8 / 9.0 / 8.4 / 8.5 | [40.2, -5.5](https://www.google.com/maps/search/?api=1&query=40.2,-5.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mesta%20livestock%20trails%2C%20Spain) |
 
-## Not yet fully assessed (4)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Evidence of Andorra co-principality (Spanish nominated components)](sights/andorra-components.yaml) | Attraction | **—** | **History 9.3** | — / 8.8 / 9.2 / — / — | [42.36, 1.46](https://www.google.com/maps/search/?api=1&query=42.36,1.46) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Evidence%20of%20Andorra%20co-principality%20%28Spanish%20nominated%20components%29%2C%20Spain) |
-| — | [Mesta livestock trails](sights/mesta-trails.yaml) | Trail / walk | **—** | **History 9.2**, **Culture 9.0** | 8.0 / 8.8 / 9.0 / — / — | [40.2, -5.5](https://www.google.com/maps/search/?api=1&query=40.2,-5.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mesta%20livestock%20trails%2C%20Spain) |
-| — | [Roman Ways (Spanish tentative routes)](sights/roman-ways.yaml) | Attraction | **—** | **History 9.3** | 7.9 / 8.6 / 9.2 / — / — | [41.0, -4.9](https://www.google.com/maps/search/?api=1&query=41.0,-4.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roman%20Ways%20%28Spanish%20tentative%20routes%29%2C%20Spain) |
-| — | [Wine in Iberia (Spanish tentative components)](sights/wine-iberia.yaml) | Attraction | **—** | **History 9.2**, **Culture 9.1** | 8.4 / 8.8 / 9.0 / — / — | [38.5, -0.7](https://www.google.com/maps/search/?api=1&query=38.5,-0.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wine%20in%20Iberia%20%28Spanish%20tentative%20components%29%2C%20Spain) |
 
 ---
 

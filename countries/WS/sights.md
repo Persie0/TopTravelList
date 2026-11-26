@@ -2,7 +2,7 @@
 
 # Samoa (WS) — Sights & attractions ranking
 
-**19 ranked** · **3 unassessed** · **22 total** · Worldwide scoring **v2**
+**20 ranked** · **2 unassessed** · **22 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (19)
+## Complete ranked list (20)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -27,20 +27,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 11 | [Lalomanu Beach](sights/lalomanu-beach.yaml) | Beach / bay | **79.05** | **Beaches 9.0**, **Relaxation 8.8**, **Photography 8.7**, Nature 8.4 | 8.7 / 7.8 / 6.5 / 8.7 / 7.4 | [-14.04593, -171.45052](https://www.google.com/maps/search/?api=1&query=-14.04593,-171.45052) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lalomanu%20Beach%2C%20Samoa) |
 | 12 | [Nuʻulopa Island](sights/nuulopa-island.yaml) | Island | **78.65** | **Wildlife 8.5**, **Nature 8.4**, **Photography 8.0** | 7.8 / 8.1 / 8.0 / 8.0 / 7.0 | [-13.84239, -172.1295](https://www.google.com/maps/search/?api=1&query=-13.84239,-172.1295) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nu%CA%BBulopa%20Island%2C%20Samoa) |
 | 13 | [Mount Vaea and Stevenson Tomb](sights/mount-vaea.yaml) | Museum / heritage | **78.55** | **History 8.5**, **Culture 8.4**, **Adventure 7.9**, Nature 7.9 | 7.6 / 7.8 / 8.4 / 8.1 / 7.3 | [-13.86361, -171.77361](https://www.google.com/maps/search/?api=1&query=-13.86361,-171.77361) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Vaea%20and%20Stevenson%20Tomb%2C%20Samoa) |
-| 14 | [Apolima Island](sights/apolima-island.yaml) | Island | **77.55** | **Culture 8.2**, **Nature 8.2**, **Photography 8.2** | 7.8 / 8.2 / 7.8 / 7.5 / 6.8 | [-13.82386, -172.1513](https://www.google.com/maps/search/?api=1&query=-13.82386,-172.1513) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Apolima%20Island%2C%20Samoa) |
-| 15 | [Piula Cave Pool](sights/piula-cave-pool.yaml) | Cave | **76.10** | **Nature 8.0**, **Relaxation 8.0**, **Photography 7.8** | 7.9 / 8.0 / 6.8 / 8.0 / 6.8 | [-13.87325, -171.59713](https://www.google.com/maps/search/?api=1&query=-13.87325,-171.59713) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Piula%20Cave%20Pool%2C%20Samoa) |
-| 16 | [Afu A'au Waterfall](sights/afu-aau-waterfall.yaml) | Waterfall | **75.30** | **Nature 8.3**, **Photography 8.2**, **Adventure 7.8** | 8.1 / 7.4 / 6.6 / 8.2 / 7.0 | [-13.74538, -172.31356](https://www.google.com/maps/search/?api=1&query=-13.74538,-172.31356) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Afu%20A%27au%20Waterfall%2C%20Samoa) |
-| 17 | [Papapapaitai (Tiavi) Falls](sights/papapapaitai-falls.yaml) | Waterfall | **75.10** | **Photography 8.6**, **Nature 8.5** | 8.5 / 7.6 / 6.8 / 7.2 / 6.2 | [-13.94157, -171.77677](https://www.google.com/maps/search/?api=1&query=-13.94157,-171.77677) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papapapaitai%20%28Tiavi%29%20Falls%2C%20Samoa) |
-| 18 | [Papase'ea Sliding Rocks](sights/papaseea-sliding-rocks.yaml) | Attraction | **73.50** | **Adventure 8.3**, **Nature 7.6** | 7.5 / 7.8 / 6.2 / 8.2 / 6.8 | [-13.87008, -171.80365](https://www.google.com/maps/search/?api=1&query=-13.87008,-171.80365) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papase%27ea%20Sliding%20Rocks%2C%20Samoa) |
-| 19 | [Sopoaga Falls](sights/sopoaga-falls.yaml) | Waterfall | **73.00** | **Photography 8.3**, **Nature 8.2** | 8.0 / 7.3 / 6.5 / 7.5 / 6.5 | [-14.00733, -171.5865](https://www.google.com/maps/search/?api=1&query=-14.00733,-171.5865) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sopoaga%20Falls%2C%20Samoa) |
+| 14 | [Falealupo Canopy Walkway](sights/falealupo-canopy-walk.yaml) | Attraction | **78.00** | **Nature 8.3**, **Photography 8.1**, Adventure unassessed | 7.9 / 7.8 / 7.5 / 8.2 / 7.5 | [-13.52643, -172.74835](https://www.google.com/maps/search/?api=1&query=-13.52643,-172.74835) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Falealupo%20Canopy%20Walkway%2C%20Samoa) |
+| 15 | [Apolima Island](sights/apolima-island.yaml) | Island | **77.55** | **Culture 8.2**, **Nature 8.2**, **Photography 8.2** | 7.8 / 8.2 / 7.8 / 7.5 / 6.8 | [-13.82386, -172.1513](https://www.google.com/maps/search/?api=1&query=-13.82386,-172.1513) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Apolima%20Island%2C%20Samoa) |
+| 16 | [Piula Cave Pool](sights/piula-cave-pool.yaml) | Cave | **76.10** | **Nature 8.0**, **Relaxation 8.0**, **Photography 7.8** | 7.9 / 8.0 / 6.8 / 8.0 / 6.8 | [-13.87325, -171.59713](https://www.google.com/maps/search/?api=1&query=-13.87325,-171.59713) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Piula%20Cave%20Pool%2C%20Samoa) |
+| 17 | [Afu A'au Waterfall](sights/afu-aau-waterfall.yaml) | Waterfall | **75.30** | **Nature 8.3**, **Photography 8.2**, **Adventure 7.8** | 8.1 / 7.4 / 6.6 / 8.2 / 7.0 | [-13.74538, -172.31356](https://www.google.com/maps/search/?api=1&query=-13.74538,-172.31356) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Afu%20A%27au%20Waterfall%2C%20Samoa) |
+| 18 | [Papapapaitai (Tiavi) Falls](sights/papapapaitai-falls.yaml) | Waterfall | **75.10** | **Photography 8.6**, **Nature 8.5** | 8.5 / 7.6 / 6.8 / 7.2 / 6.2 | [-13.94157, -171.77677](https://www.google.com/maps/search/?api=1&query=-13.94157,-171.77677) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papapapaitai%20%28Tiavi%29%20Falls%2C%20Samoa) |
+| 19 | [Papase'ea Sliding Rocks](sights/papaseea-sliding-rocks.yaml) | Attraction | **73.50** | **Adventure 8.3**, **Nature 7.6** | 7.5 / 7.8 / 6.2 / 8.2 / 6.8 | [-13.87008, -171.80365](https://www.google.com/maps/search/?api=1&query=-13.87008,-171.80365) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Papase%27ea%20Sliding%20Rocks%2C%20Samoa) |
+| 20 | [Sopoaga Falls](sights/sopoaga-falls.yaml) | Waterfall | **73.00** | **Photography 8.3**, **Nature 8.2** | 8.0 / 7.3 / 6.5 / 7.5 / 6.5 | [-14.00733, -171.5865](https://www.google.com/maps/search/?api=1&query=-14.00733,-171.5865) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sopoaga%20Falls%2C%20Samoa) |
 
-## Not yet fully assessed (3)
+## Not yet fully assessed (2)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Falealupo Canopy Walkway](sights/falealupo-canopy-walk.yaml) | Attraction | **—** | **Nature 8.3**, **Photography 8.1**, Adventure unassessed | 7.9 / 7.8 / 7.5 / — / — | [-13.52643, -172.74835](https://www.google.com/maps/search/?api=1&query=-13.52643,-172.74835) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Falealupo%20Canopy%20Walkway%2C%20Samoa) |
 | — | [Pulemelei Mound](sights/pulemelei-mound.yaml) | Attraction | **—** | **History 9.2** | 7.7 / 9.0 / 9.1 / — / — | [-13.73523, -172.32433](https://www.google.com/maps/search/?api=1&query=-13.73523,-172.32433) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pulemelei%20Mound%2C%20Samoa) |
 | — | [Vaipu Swamp Conservation Area](sights/vaipu-swamp-conservation-area.yaml) | Attraction | **—** | **Nature 8.7**, Wildlife unassessed | — / 8.4 / 8.6 / — / — | [-13.96083, -171.57417](https://www.google.com/maps/search/?api=1&query=-13.96083,-171.57417) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vaipu%20Swamp%20Conservation%20Area%2C%20Samoa) |
 
