@@ -9,7 +9,7 @@ try{
  await page.locator('#routeCountry').selectOption('AT');await page.locator('.route-advanced summary').click();await page.locator('#routeMin').selectOption('0');
  await page.locator('#routeGenerate').click();await page.locator('#routeUse').click();await page.locator('.route-stop').first().waitFor();
  const count=await page.locator('.route-stop').count();assert.ok(count>1);
- await page.locator('#routeJump').click();await page.locator('#tripName').fill('Austria adventure');await page.locator('#tripName').press('Tab');
+ await page.locator('#routeJump').click();await page.locator('#tripSettings summary').click();await page.locator('#tripName').fill('Austria adventure');await page.locator('#tripName').press('Tab');
  await page.locator('#tripDays').fill('3');await page.locator('#tripDays').press('Tab');
  assert.equal(await page.locator('.trip-day').count(),3);
  await page.locator('[data-trip-tab="progress"]').click();await page.locator('.trip-stop-detail summary').first().click();
@@ -23,6 +23,6 @@ try{
  await page.locator('.trip-tools summary').click();const download=page.waitForEvent('download');await page.locator('#tripJson').click();assert.match((await download).suggestedFilename(),/\.json$/);
  await page.setViewportSize({width:390,height:844});await page.locator('[data-trip-tab="days"]').click();assert.equal(await page.locator('.trip-day').count(),3);
  assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth+2),'mobile layout must not overflow horizontally');
- await page.locator('#routeDiscover').click();await page.locator('[data-remove]').first().click();assert.equal(await page.locator('.route-stop').count(),count-1);await page.locator('#routeUndo').click();assert.equal(await page.locator('.route-stop').count(),count);await page.locator('#statisticsTab').click();await page.locator('#customChartOutput').waitFor();await page.locator('#places').click();await page.locator('#resultTitle').waitFor();assert.equal(await page.locator('#atlasFilters').isVisible(),false);await page.locator('#filterToggle').click();assert.ok(await page.locator('#atlasFilters').isVisible());
+ await page.locator('#routeDiscover').click();await page.locator('[data-remove]').first().click();assert.equal(await page.locator('.route-stop').count(),count-1);await page.locator('#routeUndo').click();assert.equal(await page.locator('.route-stop').count(),count);await page.locator('#statisticsTab').click();await page.locator('#customChartOutput').waitFor();await page.locator('#statsCustom').click();assert.equal(await page.evaluate(()=>document.activeElement.classList.contains('chart-builder')),true);await page.locator('#places').click();await page.locator('#resultTitle').waitFor();assert.equal(await page.locator('#atlasFilters').isVisible(),false);await page.locator('#filterToggle').click();assert.ok(await page.locator('#atlasFilters').isVisible());
  assert.deepEqual(errors,[]);console.log('Desktop/mobile route studio smoke test passed.');
 }finally{await browser.close()}
