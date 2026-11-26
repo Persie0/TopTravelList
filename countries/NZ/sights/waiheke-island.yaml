@@ -1,0 +1,18 @@
+id: sight-nz-waiheke-island
+name: "Waiheke Island"
+location:
+  country_code: NZ
+  latitude: -36.8
+  longitude: 175.1
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 7.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 8.8
+    beaches: 8.9
+    relaxation: 9.2
+    photography: 8.9
+    food: 8.8

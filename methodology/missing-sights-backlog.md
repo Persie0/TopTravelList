@@ -393,3 +393,14 @@ Six additions, 24 peer comparisons; NZ 42 ranked / 44 total. Auckland Museum res
 - [x] NZ — International Antarctic Centre (Christchurch): 84.95/100 (source-linked-unverified).
 
 Nine additions, 36 peer comparisons with links and dimensions matched against current country ranking rows. NZ 51 ranked / 53 total. All current DOC national parks represented, including Te Papa-Kura-o-Taranaki under its current legal name. Paparoa excludes Pancake Rocks in assessment. Existing ratings unchanged. Tourism NZ highlights identified concrete remaining natural gaps, tracked for final screen rather than filler. Full Python validation and individual peer YAML checks remain pending.
+
+
+### Pass 38 — New Zealand final priority queue
+
+- [x] NZ — Lake Tekapo / Takapō: 87.00/100 (source-linked-unverified).
+- [x] NZ — Fox Glacier / Te Moeka o Tuawe: 86.20/100 (source-linked-unverified).
+- [x] NZ — Lake Taupō / Taupomoana: 89.45/100 (source-linked-unverified).
+- [x] NZ — Waiheke Island: 85.05/100 (source-linked-unverified).
+- [x] NZ — The Catlins Coastal Area: 89.05/100 (source-linked-unverified).
+
+Five additions, 20 peer comparisons matched against current ranked rows. NZ 56 ranked / 58 total; current discovery queue DONE after passes 36–38. Taupō lake separate from town, Fox Glacier separate from Franz Josef and scoped to permitted views, Catlins represented by Nugget Point. Two existing unassessed island records unchanged. No new filler or general expansion search; reopen only on concrete substantial evidence. Next: HK. Full Python validation and individual peer YAML checks remain pending.

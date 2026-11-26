@@ -1,0 +1,16 @@
+id: sight-nz-fox-glacier
+name: "Fox Glacier / Te Moeka o Tuawe"
+location:
+  country_code: NZ
+  latitude: -43.502
+  longitude: 170.081
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.4
+  depth: 7.9
+  categories:
+    nature: 9.1
+    photography: 9.0
+    adventure: 8.8

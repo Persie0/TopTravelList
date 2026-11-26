@@ -2125,3 +2125,193 @@ Peer links and dimensions matched to current country ranking rows; full YAML rec
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-nz-lake-tekapo — Lake Tekapo / Takapō — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/lake-tekapo.yaml)
+- Action: new
+- Precise subject: Lake and publicly accessible shoreline scenery; excludes town, separately ticketed observatories, and Aoraki / Mount Cook National Park.
+- Location check: -43.883, 170.517; [published representative point](https://en.wikipedia.org/wiki/Lake_Tekapo), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Tourism New Zealand describes turquoise water and surrounding mountains. Coordinate is the named lake's published representative point, not a road-access point. [Primary reference](https://www.newzealand.com/int/lake-tekapo/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/nelson-lakes-national-park](../../../countries/NZ/sights/nelson-lakes-national-park.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | More extensive mountain trails and protected terrain. |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | 9.4 / 9.0 / 8.9 / 9.1 / 9.1 | Greater alpine and glacial scale. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Different coastal forest setting, broader trail variety. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Different marine landscape and broader island recreation. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Turquoise water and mountain backdrop produce strong visual impact |
+| Uniqueness | 8.7 | glacial lake landscape is distinctive but has international analogues |
+| Significance | 8.2 | natural significance is bounded to this lake |
+| Experience | 8.9 | shoreline views and lake recreation offer meaningful visits |
+| Depth | 8.5 | varied shore scenery provides moderate depth. |
+
+- Applicable categories: nature:9.1, photography:9.3, relaxation:9.1.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-fox-glacier — Fox Glacier / Te Moeka o Tuawe — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/fox-glacier.yaml)
+- Action: new
+- Precise subject: Named glacier and authorized viewing routes; nested in Westland Tai Poutini National Park; excludes Franz Josef Glacier and the broader park. No glacier-surface access assumed.
+- Location check: -43.502, 170.081; [published representative point](https://en.wikipedia.org/wiki/Fox_Glacier), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC identifies the glacier and forested access setting; its South Side Walkway page documents glacier viewpoints and cultural significance (https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/things-to-do/tracks/fox-glacier-south-side-walk/). Weather and changing glacial conditions constrain access. [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park/fox-glacier-area/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/franz-josef-glacier](../../../countries/NZ/sights/franz-josef-glacier.yaml) | 8.9 / 8.7 / 8.4 / 8.3 / 7.9 | Closest comparable glacier experience; separate valleys and viewing routes. |
+| [NZ/westland-tai-poutini-national-park](../../../countries/NZ/sights/westland-tai-poutini-national-park.yaml) | 9.0 / 8.9 / 8.9 / 8.7 / 8.9 | Broader protected landscape and trail scope. |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | Greater combined glacier and marine wildlife breadth. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Different forest and marine landscape with broader trails. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Glacial valley and forest setting offer striking scenery |
+| Uniqueness | 8.8 | unusual accessible temperate glacial landscape but comparable to nearby Franz Josef |
+| Significance | 8.5 | important glaciological and cultural interest without inherited UNESCO-wide significance |
+| Experience | 8.4 | legal viewpoints reward visits but visibility varies |
+| Depth | 7.9 | focused glacier viewpoints limit depth. |
+
+- Applicable categories: nature:9.1, photography:9.0, adventure:8.8.
+- Computed worldwide overall: 86.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-lake-taupo — Lake Taupō / Taupomoana — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/lake-taupo.yaml)
+- Action: new
+- Precise subject: Named lake, accessible shores and standard permitted water recreation, including viewing the Mine Bay carvings as part of the lake experience. Excludes Taupō town, Huka Falls and Tongariro National Park.
+- Location check: -38.81667, 175.91667; [published representative point](https://www.geonames.org/2181740/lake-taupo.html), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Regional tourism documents boating, paddling and the Mine Bay Māori carvings (https://www.lovetaupo.com/en/see-do/art-maori-culture/mine-bay-maori-rock-carvings/). World Lake Database identifies the country's largest lake (https://wldb.ilec.or.jp/Display/html/3398). [Primary reference](https://www.lovetaupo.com/en/discover/highlights/lake-taupo/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/bay-of-islands](../../../countries/NZ/sights/bay-of-islands.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | Comparable aquatic recreation, coastal archipelago rather than inland lake. |
+| [NZ/nelson-lakes-national-park](../../../countries/NZ/sights/nelson-lakes-national-park.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | More protected alpine terrain and hiking. |
+| [US/crater-lake-national-park](../../../countries/US/sights/crater-lake-national-park.yaml) | 9.1 / 8.9 / 8.7 / 8.8 / 8.4 | More concentrated volcanic crater scenery. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Greater tropical coastal and island variety. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Wide water and volcanic backdrop create strong impact |
+| Uniqueness | 8.9 | large volcanic lake and cultural waterfront features are distinctive |
+| Significance | 9.0 | geological and cultural significance exceeds a typical recreational lake |
+| Experience | 9.0 | varied shore and water activities reward visits |
+| Depth | 9.0 | large shoreline supports extended exploration. |
+
+- Applicable categories: nature:9.2, photography:9.0, adventure:9.0, relaxation:9.1, culture:8.7.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-waiheke-island — Waiheke Island — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/waiheke-island.yaml)
+- Action: new
+- Precise subject: Public coastal landscape, beaches, walks and local food experiences; excludes Auckland city and separate paid venues. No single commercial operator required.
+- Location check: -36.8, 175.1; [published representative point](https://en.wikipedia.org/wiki/Waiheke_Island), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Auckland's tourism authority documents beaches, coastal trails, vineyards and local food venues. The island coordinate is a representative point, not a ferry terminal. [Primary reference](https://www.aucklandnz.com/explore/waiheke-island); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | 8.7 / 8.8 / 8.5 / 9.1 / 8.7 | More distinctive wildlife, comparable island recreation. |
+| [NZ/bay-of-islands](../../../countries/NZ/sights/bay-of-islands.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | Broader archipelago and water exploration. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Smaller urban recreation landscape. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Greater tropical island natural spectacle. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Coastal landscape and vineyard scenery are attractive |
+| Uniqueness | 8.5 | distinctive combination of island walks and food culture but comparable destinations exist |
+| Significance | 7.8 | regional recreational and cultural value |
+| Experience | 9.0 | diverse beaches and local experiences support a rewarding visit |
+| Depth | 8.9 | several coastal areas provide considerable depth. |
+
+- Applicable categories: nature:8.8, beaches:8.9, relaxation:9.2, photography:8.9, food:8.8.
+- Computed worldwide overall: 85.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-catlins-coastal-area — The Catlins Coastal Area — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/catlins-coastal-area.yaml)
+- Action: new
+- Precise subject: DOC-defined Catlins coastal landscape, including accessible forest, headland walks and Curio Bay fossil-forest viewing; representative map point at Nugget Point, not the entire area's centroid. No wildlife encounter guaranteed.
+- Location check: -46.44924, 169.818; [published representative point](https://mapcarta.com/16717568), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC documents forest, estuaries, fossil forest and marine wildlife at Curio Bay (https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/curio-bay-porpoise-bay/) and coastal views from Nugget Point (https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/catlins-coastal-area/things-to-do/nugget-point-tokata-walks/). [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/catlins-coastal-area/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: current access, seasonal conditions and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/rakiura-national-park](../../../countries/NZ/sights/rakiura-national-park.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 9.1 | More remote island wilderness and long trails. |
+| [NZ/paparoa-national-park](../../../countries/NZ/sights/paparoa-national-park.yaml) | 8.9 / 9.0 / 8.8 / 8.8 / 9.0 | Distinct limestone terrain and coastal forest. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable temperate coastal forest and wildlife experiences. |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | Different island ecosystem and marine scope. |
+
+Peer links and dimensions matched to current country ranking rows; full YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Wild coastline and native forest create strong landscape impact |
+| Uniqueness | 8.9 | combination of fossil forest and marine wildlife is distinctive |
+| Significance | 8.8 | geological and ecological relevance supports significance without global-superlative claims |
+| Experience | 8.8 | varied permitted walks and viewing opportunities reward visits |
+| Depth | 9.0 | multiple coastal features support extended exploration. |
+
+- Applicable categories: nature:9.3, wildlife:9.1, photography:9.3, adventure:8.8.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
