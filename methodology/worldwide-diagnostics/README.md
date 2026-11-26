@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14842; unassessed: 1427.
+Ranked: 14851; unassessed: 1418.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1427 |
+| incomplete-core | 1418 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1800 |
 | overall-95-plus | 159 |
@@ -238,7 +238,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IN | sights | 333 | 333 | 89.50 | 149 | 27 | 176 | 333 | [Hampi Group of Monuments](../../countries/IN/sights/hampi-group-of-monuments.yaml) 98.55; [Ellora Caves](../../countries/IN/sights/ellora-caves.yaml) 98.45; [Taj Mahal](../../countries/IN/sights/taj-mahal.yaml) 98.25 |
 | IO | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | IO | sights | 5 | 0 |  | 0 | 0 | 1 | 5 |  |
-| IQ | cities | 14 | 11 | 78.45 | 0 | 0 | 0 | 14 | [Karbala](../../countries/IQ/cities/karbala.yaml) 87.90; [Najaf](../../countries/IQ/cities/najaf.yaml) 87.70; [Baghdad](../../countries/IQ/cities/baghdad.yaml) 85.80 |
+| IQ | cities | 14 | 14 | 80.55 | 0 | 0 | 0 | 14 | [Karbala](../../countries/IQ/cities/karbala.yaml) 87.90; [Najaf](../../countries/IQ/cities/najaf.yaml) 87.70; [Baghdad](../../countries/IQ/cities/baghdad.yaml) 85.80 |
 | IQ | sights | 38 | 21 | 85.10 | 3 | 0 | 0 | 38 | [Imam Ali Shrine](../../countries/IQ/sights/imam-ali-shrine.yaml) 90.15; [Imam Husayn Shrine](../../countries/IQ/sights/imam-husayn-shrine.yaml) 90.15; [Babylon Archaeological Site](../../countries/IQ/sights/babylon.yaml) 90.00 |
 | IR | cities | 15 | 3 | 87.75 | 0 | 0 | 0 | 15 | [Yazd](../../countries/IR/cities/yazd.yaml) 88.70; [Shiraz](../../countries/IR/cities/shiraz.yaml) 87.75; [Kashan](../../countries/IR/cities/kashan.yaml) 85.00 |
 | IR | sights | 55 | 17 | 86.15 | 2 | 0 | 0 | 55 | [Persepolis](../../countries/IR/sights/persepolis.yaml) 93.15; [Historic City of Yazd](../../countries/IR/sights/historic-yazd.yaml) 90.10; [Naqsh-e Rostam and Naqsh-e Rajab](../../countries/IR/sights/naqsh-e-rostam.yaml) 89.15 |
@@ -302,13 +302,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MA | sights | 32 | 24 | 88.65 | 7 | 0 | 6 | 32 | [Medina of Fez](../../countries/MA/sights/medina-fez.yaml) 94.60; [Medina of Marrakesh](../../countries/MA/sights/medina-marrakech.yaml) 94.10; [Ksar of Ait-Ben-Haddou](../../countries/MA/sights/ait-ben-haddou.yaml) 91.85 |
 | MC | cities | 1 | 1 | 84.20 | 0 | 0 | 0 | 1 | [Monaco](../../countries/MC/cities/monaco.yaml) 84.20 |
 | MC | sights | 29 | 27 | 78.35 | 0 | 0 | 0 | 29 | [Oceanographic Museum of Monaco](../../countries/MC/sights/oceanographic-museum-of-monaco.yaml) 88.60; [Prince's Palace State Apartments](../../countries/MC/sights/prince-s-palace-state-apartments.yaml) 85.85; [Monte-Carlo Casino Heritage Visit](../../countries/MC/sights/monte-carlo-casino-heritage-visit.yaml) 85.45 |
-| MD | cities | 18 | 15 | 69.30 | 0 | 0 | 0 | 18 | [Chișinău](../../countries/MD/cities/chisinau.yaml) 80.25; [Butuceni](../../countries/MD/cities/butuceni.yaml) 79.80; [Soroca](../../countries/MD/cities/soroca.yaml) 78.60 |
+| MD | cities | 18 | 17 | 69.50 | 0 | 0 | 0 | 18 | [Chișinău](../../countries/MD/cities/chisinau.yaml) 80.25; [Butuceni](../../countries/MD/cities/butuceni.yaml) 79.80; [Soroca](../../countries/MD/cities/soroca.yaml) 78.60 |
 | MD | sights | 33 | 31 | 80.95 | 0 | 0 | 0 | 33 | [Orheiul Vechi Cultural and Natural Reserve](../../countries/MD/sights/orheiul-vechi-cultural-and-natural-reserve.yaml) 88.70; [Cricova Underground Wine Cellars](../../countries/MD/sights/cricova-underground-wine-cellars.yaml) 87.15; [Mileștii Mici Underground Wine Cellars](../../countries/MD/sights/milestii-mici-underground-wine-cellars.yaml) 86.75 |
 | ME | cities | 33 | 33 | 75.35 | 0 | 0 | 0 | 33 | [Kotor](../../countries/ME/cities/kotor.yaml) 89.10; [Perast](../../countries/ME/cities/perast.yaml) 85.15; [Cetinje](../../countries/ME/cities/cetinje.yaml) 82.95 |
 | ME | sights | 94 | 94 | 82.25 | 7 | 0 | 4 | 94 | [Durmitor National Park](../../countries/ME/sights/durmitor-national-park.yaml) 93.20; [Bay of Kotor](../../countries/ME/sights/bay-of-kotor.yaml) 93.15; [Kotor Venetian Fortifications](../../countries/ME/sights/kotor-venetian-fortifications.yaml) 91.40 |
 | MF | cities | 2 | 2 | 78.65 | 0 | 0 | 0 | 2 | [Grand Case](../../countries/MF/cities/grand-case.yaml) 78.70; [Marigot](../../countries/MF/cities/marigot.yaml) 78.60 |
 | MF | sights | 10 | 10 | 79.72 | 0 | 0 | 0 | 10 | [Île Tintamarre](../../countries/MF/sights/tintamarre.yaml) 86.55; [Îlet Pinel](../../countries/MF/sights/pinel-island.yaml) 85.65; [Rocher Créole (permitted marine viewing)](../../countries/MF/sights/creole-rock.yaml) 83.35 |
-| MG | cities | 6 | 5 | 79.25 | 0 | 0 | 0 | 6 | [Antananarivo](../../countries/MG/cities/antananarivo.yaml) 86.40; [Fianarantsoa](../../countries/MG/cities/fianarantsoa.yaml) 83.35; [Antsiranana](../../countries/MG/cities/antsiranana.yaml) 79.25 |
+| MG | cities | 6 | 6 | 79.18 | 0 | 0 | 0 | 6 | [Antananarivo](../../countries/MG/cities/antananarivo.yaml) 86.40; [Fianarantsoa](../../countries/MG/cities/fianarantsoa.yaml) 83.35; [Antsiranana](../../countries/MG/cities/antsiranana.yaml) 79.25 |
 | MG | sights | 29 | 20 | 90.28 | 11 | 1 | 11 | 29 | [Tsingy de Bemaraha National Park](../../countries/MG/sights/tsingy-de-bemaraha.yaml) 96.15; [Marojejy National Park](../../countries/MG/sights/marojejy.yaml) 92.85; [Masoala National Park](../../countries/MG/sights/masoala.yaml) 92.60 |
 | MH | cities | 11 | 7 | 70.25 | 0 | 0 | 0 | 11 | [Likiep Village](../../countries/MH/cities/likiep.yaml) 73.80; [Majuro (Delap-Uliga-Djarrit)](../../countries/MH/cities/majuro.yaml) 71.80; [Wotje Village](../../countries/MH/cities/wotje.yaml) 71.55 |
 | MH | sights | 22 | 10 | 76.75 | 1 | 0 | 1 | 22 | [Bikini Atoll Nuclear Test Site](../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml) 90.95; [Jaluit Atoll Conservation Area](../../countries/MH/sights/jaluit-atoll-conservation-area.yaml) 82.45; [Arno Atoll](../../countries/MH/sights/arno-atoll.yaml) 79.35 |
@@ -316,7 +316,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MK | sights | 33 | 32 | 86.08 | 2 | 0 | 1 | 33 | [Ohrid Historic Centre](../../countries/MK/sights/ohrid-historic-centre.yaml) 91.50; [Lake Ohrid North Macedonian Shore](../../countries/MK/sights/lake-ohrid-north-macedonian-shore.yaml) 90.35; [Saint John at Kaneo](../../countries/MK/sights/saint-john-at-kaneo.yaml) 88.60 |
 | ML | cities | 11 | 7 | 79.30 | 1 | 0 | 2 | 11 | [Djenné](../../countries/ML/cities/djenne.yaml) 90.40; [Timbuktu](../../countries/ML/cities/timbuktu.yaml) 88.30; [Mopti](../../countries/ML/cities/mopti.yaml) 80.30 |
 | ML | sights | 33 | 11 | 87.20 | 3 | 0 | 6 | 33 | [Cliff of Bandiagara (Land of the Dogons)](../../countries/ML/sights/bandiagara-escarpment.yaml) 93.95; [Djenné Old Town](../../countries/ML/sights/djenne-old-town.yaml) 91.90; [Great Mosque of Djenné](../../countries/ML/sights/djenne-great-mosque.yaml) 91.20 |
-| MM | cities | 12 | 7 | 73.00 | 0 | 0 | 0 | 12 | [Yangon](../../countries/MM/cities/yangon.yaml) 86.75; [Bago](../../countries/MM/cities/bago.yaml) 77.35; [Nyaung U](../../countries/MM/cities/nyaung-u.yaml) 75.30 |
+| MM | cities | 12 | 10 | 75.02 | 0 | 0 | 0 | 12 | [Yangon](../../countries/MM/cities/yangon.yaml) 86.75; [Mawlamyine](../../countries/MM/cities/mawlamyine.yaml) 79.90; [Bago](../../countries/MM/cities/bago.yaml) 77.35 |
 | MM | sights | 39 | 17 | 84.85 | 2 | 0 | 0 | 39 | [Bagan Archaeological Landscape](../../countries/MM/sights/bagan.yaml) 93.70; [Shwedagon Pagoda on Singuttara Hill](../../countries/MM/sights/shwedagon.yaml) 92.25; [Inle Lake](../../countries/MM/sights/inle-lake.yaml) 89.10 |
 | MN | cities | 18 | 18 | 68.32 | 0 | 0 | 0 | 18 | [Ulaanbaatar](../../countries/MN/cities/ulaanbaatar.yaml) 84.50; [Olgii](../../countries/MN/cities/olgii.yaml) 77.90; [Kharkhorin](../../countries/MN/cities/kharkhorin.yaml) 77.10 |
 | MN | sights | 50 | 36 | 82.70 | 4 | 0 | 9 | 50 | [Altai Tavan Bogd National Park](../../countries/MN/sights/altai-tavan-bogd-national-park.yaml) 92.45; [Orkhon Valley Cultural Landscape](../../countries/MN/sights/orkhon-valley-cultural-landscape.yaml) 90.95; [Gobi Gurvansaikhan National Park](../../countries/MN/sights/gobi-gurvansaikhan-national-park.yaml) 90.25 |
