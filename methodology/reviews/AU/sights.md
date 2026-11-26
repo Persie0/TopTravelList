@@ -2085,3 +2085,73 @@ UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-whitsunday-islands-national-park — Whitsunday Islands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/whitsunday-islands-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Island park with Ngaro Sea Trail walks and multiple coves; rate park as a whole, not adjacent entire reef. Published representative park coordinate may be offshore between islands. [Visitor information](https://parks.qld.gov.au/parks/whitsunday-islands/things-to-do); search excerpts inspected 2026-11-26.
+- Location check: -20.06028, 148.87417; [published reference](https://en.wikipedia.org/wiki/Whitsunday_Islands_National_Park); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/great-barrier-reef](../../../countries/AU/sights/great-barrier-reef.yaml) | Far greater underwater ecological breadth |
+| [AU/whitehaven-beach](../../../countries/AU/sights/whitehaven-beach.yaml) | Single beach with narrower depth |
+| [AU/freycinet-national-park](../../../countries/AU/sights/freycinet-national-park.yaml) | Different granite coast and peninsula |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | More continuous coastal walk |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Outstanding island vistas |
+| uniqueness | 8.8 | Distinctive island and beach combination |
+| significance | 8.6 | Protected coastal and cultural landscape |
+| experience | 9.0 | Varied island walks and boating |
+| depth | 9.0 | Many islands and visitor routes |
+
+- Applicable categories: nature:9.2, beaches:9.3, adventure:9.0, photography:9.3.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-hill-inlet-lookout — Hill Inlet Lookout — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/hill-inlet-lookout.yaml)
+- Action: new
+- Precise subject and factual basis: Short lookout track above tidal sand patterns; separate viewpoint from beach and whole island park. [Visitor information](https://parks.qld.gov.au/parks/whitsunday-islands/journeys/hill-inlet-lookout-track); search excerpts inspected 2026-11-26.
+- Location check: -20.2459, 149.02047; [published reference](https://mapcarta.com/N2838865940); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/whitehaven-beach](../../../countries/AU/sights/whitehaven-beach.yaml) | Beach access rather than elevated view |
+| [AU/twelve-apostles](../../../countries/AU/sights/twelve-apostles.yaml) | Different iconic coastal composition |
+| [US/horseshoe-bend](../../../countries/US/sights/horseshoe-bend.yaml) | Comparable focused viewpoint |
+| [NZ/cathedral-cove](../../../countries/NZ/sights/cathedral-cove.yaml) | Different arch and beach experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Exceptional tidal sand panorama |
+| uniqueness | 8.8 | Distinctive patterns with coastal analogues |
+| significance | 7.6 | Local geomorphological merit |
+| experience | 8.6 | Rewarding short walk |
+| depth | 7.3 | Focused lookout |
+
+- Applicable categories: nature:8.9, photography:9.4.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.

@@ -1,0 +1,16 @@
+id: sight-nz-whakarewarewa-living-maori-village
+name: "Whakarewarewa Living Māori Village"
+location:
+  country_code: NZ
+  latitude: -38.16105
+  longitude: 176.25646
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.3
+    history: 8.9
+    nature: 8.7

@@ -2123,3 +2123,73 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access.
+
+
+### sight-ca-wapusk-national-park — Wapusk National Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/wapusk-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Polar bear maternity-den habitat and specialized seasonal viewing opportunities; representative Parks Canada directory point, not viewing location. No guaranteed access or sightings. [Visitor information](https://www.parks.canada.ca/pn-np/mb/wapusk/activ/ours-bears); search excerpts inspected 2026-11-26.
+- Location check: 57.8, -93.23; [published reference](https://www.parks.canada.ca/pn-np); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | More varied accessible bear-viewing landscape |
+| [CA/torngat-mountains-national-park](../../../countries/CA/sights/torngat-mountains-national-park.yaml) | More dramatic Arctic mountains |
+| [CA/sable-island-national-park-reserve](../../../countries/CA/sights/sable-island-national-park-reserve.yaml) | Different specialized wildlife setting |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | Broader mountain and wildlife experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Remarkable Arctic wildlife |
+| uniqueness | 9.2 | Unusual polar bear denning landscape |
+| significance | 9.1 | Important conservation habitat |
+| experience | 8.0 | Specialized limited visitor access |
+| depth | 8.6 | Tundra and wildlife interpretation |
+
+- Applicable categories: wildlife:9.3, nature:9.0, photography:8.9.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-ca-hopewell-rocks-provincial-park — Hopewell Rocks Provincial Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/hopewell-rocks-provincial-park.yaml)
+- Action: new
+- Precise subject and factual basis: Tidal sea stacks with ocean-floor access when safe; distinct from Fundy National Park. Check official tide and access instructions. [Visitor information](https://www.nbparks.ca/en/parks/hopewell-rocks-provincial-park); search excerpts inspected 2026-11-26.
+- Location check: 45.81781, -64.57829; [published reference](https://mapcarta.com/24675044); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | Broader forests and tidal landscapes |
+| [AU/twelve-apostles](../../../countries/AU/sights/twelve-apostles.yaml) | More monumental offshore stacks |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | Different layered rock and blowholes |
+| [CA/mingan-archipelago-national-park-reserve](../../../countries/CA/sights/mingan-archipelago-national-park-reserve.yaml) | Broader island monolith exploration |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Striking sea stacks and tides |
+| uniqueness | 9.1 | Exceptional high-low tide contrast |
+| significance | 8.5 | Geology and tidal processes |
+| experience | 9.0 | Two contrasting tidal visits |
+| depth | 8.1 | Concentrated coastal park |
+
+- Applicable categories: nature:9.2, photography:9.2, adventure:8.6.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.

@@ -1240,3 +1240,248 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-waimangu-volcanic-valley — Waimangu Volcanic Valley — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/waimangu-volcanic-valley.yaml)
+- Action: new
+- Precise subject and factual basis: Geothermal valley walks and Lake Rotomahana cruise; distinct from Waiotapu and Te Puia. [Visitor information](https://www.waimangu.co.nz/experiences/walk-and-cruise-combo/); search excerpts inspected 2026-11-26.
+- Location check: -38.28571, 176.38699; [published reference](https://mapcarta.com/N314442390); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | More concentrated thermal formations |
+| [NZ/te-puia](../../../countries/NZ/sights/te-puia.yaml) | Broader living culture interpretation |
+| [US/yellowstone-national-park](../../../countries/US/sights/yellowstone-national-park.yaml) | Much greater geothermal scale |
+| [AU/karijini-national-park](../../../countries/AU/sights/karijini-national-park.yaml) | Different gorge geology and trails |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Colorful thermal landscapes |
+| uniqueness | 9.1 | Young volcanic system and lake combination |
+| significance | 8.9 | Volcanic history and natural processes |
+| experience | 9.0 | Walking and cruise options |
+| depth | 9.0 | Multiple geothermal features and lake |
+
+- Applicable categories: nature:9.3, photography:9.2, adventure:8.6.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and peer comparisons; provisional. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-hells-gate-geothermal-park — Hell's Gate Geothermal Park — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/hells-gate-geothermal-park.yaml)
+- Action: new
+- Precise subject and factual basis: Geothermal walks, mud volcano and optional mud and sulphur bathing; not a health-benefit claim. [Visitor information](https://www.hellsgate.co.nz/experience); search excerpts inspected 2026-11-26.
+- Location check: -38.06532, 176.3606; [published reference](https://mapcarta.com/N6340750385); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | More visually varied thermal pools |
+| [NZ/te-puia](../../../countries/NZ/sights/te-puia.yaml) | Greater cultural and craft depth |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | Larger volcanic landscape |
+| [NZ/waimangu-volcanic-valley](../../../countries/NZ/sights/waimangu-volcanic-valley.yaml) | Broader geothermal and lake experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Active thermal scenery |
+| uniqueness | 8.9 | Distinctive mud and spa combination |
+| significance | 8.5 | Geothermal and cultural context |
+| experience | 8.9 | Complementary walking and bathing |
+| depth | 8.4 | Concentrated park with multiple features |
+
+- Applicable categories: nature:9.0, relaxation:8.9, photography:8.8.
+- Computed worldwide overall: 87.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-whakarewarewa-living-maori-village — Whakarewarewa Living Māori Village — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/whakarewarewa-living-maori-village.yaml)
+- Action: new
+- Precise subject and factual basis: Inhabited Māori village with guided cultural and geothermal interpretation; distinct visitor scope from Te Puia. [Visitor information](https://whakarewarewa.com/experiences/the-whakarewarewa-legacy-guided-tour/); search excerpts inspected 2026-11-26.
+- Location check: -38.16105, 176.25646; [published reference](https://mapcarta.com/N567543789); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/te-puia](../../../countries/NZ/sights/te-puia.yaml) | Different arts institution and geyser visitor scope |
+| [NZ/waitangi-treaty-grounds](../../../countries/NZ/sights/waitangi-treaty-grounds.yaml) | Greater national political significance |
+| [CA/sgang-gwaay](../../../countries/CA/sights/sgang-gwaay.yaml) | Different historic Indigenous site |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | Comparable living heritage with distinct architecture |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Memorable living heritage |
+| uniqueness | 9.1 | Unusual inhabited geothermal village |
+| significance | 8.9 | Māori cultural heritage |
+| experience | 9.0 | Guided interpretation |
+| depth | 8.6 | Several cultural and geothermal themes |
+
+- Applicable categories: culture:9.3, history:8.9, nature:8.7.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-whakarewarewa-forest — Tītokorangi / Whakarewarewa Forest — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/whakarewarewa-forest.yaml)
+- Action: new
+- Precise subject and factual basis: Redwoods and marked forest walking routes; broader forest recreation, not the separately operated elevated Treewalk. Pin at visitor centre. [Visitor information](https://redwoods.co.nz/walk/); search excerpts inspected 2026-11-26.
+- Location check: -38.15693, 176.27294; [published reference](https://mapcarta.com/W629150750); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/redwood-parks](../../../countries/US/sights/redwood-parks.yaml) | Much greater native redwood heritage |
+| [US/sequoia-national-park](../../../countries/US/sights/sequoia-national-park.yaml) | More globally exceptional giant trees |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | Native rainforest and coast |
+| [AU/daintree-rainforest](../../../countries/AU/sights/daintree-rainforest.yaml) | Greater tropical ecological significance |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.4 | Atmospheric tall forest |
+| uniqueness | 8.0 | Introduced redwoods have analogues |
+| significance | 7.7 | Recreational and forestry interest |
+| experience | 8.9 | Varied walking and cycling |
+| depth | 8.8 | Extensive route network |
+
+- Applicable categories: nature:8.7, adventure:8.9, photography:8.7.
+- Computed worldwide overall: 82.75/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-roys-peak-track — Roys Peak Track — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/roys-peak-track.yaml)
+- Action: new
+- Precise subject and factual basis: Steep summit route with lake and mountain panorama; DOC reference point reproduced by Outdoor Next, not trailhead. Check seasonal closures. [Visitor information](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/wanaka-area/things-to-do/roys-peak-track/); search excerpts inspected 2026-11-26.
+- Location check: -44.68287, 169.0594; [published reference](https://www.outdoornext.co.nz/walks/roys-peak); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/hooker-valley-track](../../../countries/NZ/sights/hooker-valley-track.yaml) | Different alpine lake and glacier setting |
+| [NZ/tongariro-alpine-crossing](../../../countries/NZ/sights/tongariro-alpine-crossing.yaml) | More varied volcanic terrain |
+| [NZ/mount-aspiring-national-park](../../../countries/NZ/sights/mount-aspiring-national-park.yaml) | Broader mountain wilderness |
+| [US/horseshoe-bend](../../../countries/US/sights/horseshoe-bend.yaml) | More focused short viewpoint |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Exceptional lake panorama |
+| uniqueness | 8.3 | Other alpine viewpoints comparable |
+| significance | 7.5 | Landscape rather than broad protected heritage |
+| experience | 8.7 | Rewarding strenuous walk |
+| depth | 7.9 | Single summit route |
+
+- Applicable categories: nature:8.9, photography:9.2, adventure:8.8.
+- Computed worldwide overall: 84.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-kaikoura-marine-wildlife-watching — Kaikōura Marine Wildlife Watching — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml)
+- Action: new
+- Precise subject and factual basis: Offshore whale and other marine wildlife viewing; reference pin at Whaleway Station check-in, not actual animal locations. Sightings and sailings vary. DOC marine context https://www.doc.govt.nz/hikurangi-marine-reserve. [Visitor information](https://whalewatch.co.nz/your-experience/); search excerpts inspected 2026-11-26.
+- Location check: -42.39592, 173.68076; [published reference](https://mapcarta.com/N3888627726); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | Different bear-centered wildlife experience |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | More glacial scenery |
+| [AU/ningaloo-coast](../../../countries/AU/sights/ningaloo-coast.yaml) | More reef and snorkeling breadth |
+| [CA/sable-island-national-park-reserve](../../../countries/CA/sights/sable-island-national-park-reserve.yaml) | Different specialized wildlife encounter |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Memorable whale encounters |
+| uniqueness | 9.2 | Distinctive deep-water wildlife near coast |
+| significance | 8.8 | Marine ecosystem importance |
+| experience | 8.9 | Guided wildlife encounters subject to conditions |
+| depth | 8.5 | Several marine species and interpretation |
+
+- Applicable categories: wildlife:9.4, nature:9.1, photography:8.9.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-nz-kaikoura-peninsula-walkway — Kaikōura Peninsula Walkway — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml)
+- Action: new
+- Precise subject and factual basis: Formed coastal walking routes, cliffs and seal viewing from a distance; independent from offshore whale tours. DOC reference point reproduced by Outdoor Next. [Visitor information](https://www.doc.govt.nz/parks-and-recreation/places-to-go/marlborough/places/kaikoura-area/things-to-do/tracks/kaikoura-peninsula-walkway/); search excerpts inspected 2026-11-26.
+- Location check: -42.428536, 173.699033; [published reference](https://www.outdoornext.co.nz/walks/kaikoura-peninsula-walkway); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinate values inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | Broader coast and trail network |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | More monumental rock scenery |
+| [NZ/cathedral-cove](../../../countries/NZ/sights/cathedral-cove.yaml) | More focused sea arch experience |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | Broader rocky shore landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Coastal and mountain contrast |
+| uniqueness | 8.2 | Comparable wildlife coast walks |
+| significance | 8.0 | Local natural and cultural interest |
+| experience | 8.8 | Varied accessible sections |
+| depth | 8.4 | Several viewpoints and interpretation stops |
+
+- Applicable categories: nature:8.8, wildlife:8.8, photography:8.8.
+- Computed worldwide overall: 83.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields or categories.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
