@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14774; unassessed: 1495.
+Ranked: 14778; unassessed: 1491.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 413 |
+| conflicting-declared-status | 416 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1495 |
+| incomplete-core | 1491 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1794 |
 | overall-95-plus | 159 |
@@ -243,13 +243,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | IR | cities | 15 | 3 | 87.75 | 0 | 0 | 0 | 15 | [Yazd](../../countries/IR/cities/yazd.yaml) 88.70; [Shiraz](../../countries/IR/cities/shiraz.yaml) 87.75; [Kashan](../../countries/IR/cities/kashan.yaml) 85.00 |
 | IR | sights | 55 | 17 | 86.15 | 2 | 0 | 0 | 55 | [Persepolis](../../countries/IR/sights/persepolis.yaml) 93.15; [Historic City of Yazd](../../countries/IR/sights/historic-yazd.yaml) 90.10; [Naqsh-e Rostam and Naqsh-e Rajab](../../countries/IR/sights/naqsh-e-rostam.yaml) 89.15 |
 | IS | cities | 15 | 15 | 80.20 | 0 | 0 | 0 | 15 | [Reykjavík](../../countries/IS/cities/reykjavik.yaml) 86.65; [Vestmannaeyjabær (Heimaey)](../../countries/IS/cities/vestmannaeyjabaer.yaml) 83.30; [Seyðisfjörður](../../countries/IS/cities/seydisfjordur.yaml) 82.35 |
-| IS | sights | 56 | 50 | 87.30 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
+| IS | sights | 56 | 52 | 86.98 | 15 | 1 | 16 | 56 | [Vatnajökull National Park](../../countries/IS/sights/vatnajokull.yaml) 96.35; [Torfajökull Volcanic System / Fjallabak Nature Reserve](../../countries/IS/sights/fjallabak.yaml) 93.65; [Landmannalaugar](../../countries/IS/sights/landmannalaugar.yaml) 93.40 |
 | IT | cities | 25 | 25 | 89.85 | 12 | 3 | 13 | 25 | [Rome](../../countries/IT/cities/rome.yaml) 97.30; [Venice](../../countries/IT/cities/venice.yaml) 96.50; [Florence](../../countries/IT/cities/florence.yaml) 95.55 |
 | IT | sights | 134 | 120 | 90.90 | 80 | 7 | 84 | 134 | [Historic Centre of Rome and extraterritorial Holy See properties](../../countries/IT/sights/rome-core.yaml) 97.15; [Venice and its Lagoon](../../countries/IT/sights/venice-lagoon.yaml) 96.80; [Colosseum Roman Forum and Palatine Hill](../../countries/IT/sights/colosseum-forum.yaml) 96.15 |
 | JE | cities | 4 | 4 | 81.75 | 0 | 0 | 0 | 4 | [St Helier](../../countries/JE/cities/st-helier.yaml) 83.35; [St Aubin](../../countries/JE/cities/st-aubin.yaml) 81.85; [Gorey harbour village](../../countries/JE/cities/gorey.yaml) 81.65 |
 | JE | sights | 22 | 22 | 82.90 | 0 | 0 | 0 | 22 | [Mont Orgueil Castle](../../countries/JE/sights/mont-orgueil.yaml) 88.90; [La Hougue Bie passage grave and museum](../../countries/JE/sights/la-hougue-bie.yaml) 88.75; [Elizabeth Castle](../../countries/JE/sights/elizabeth-castle.yaml) 88.55 |
 | JM | cities | 11 | 11 | 77.15 | 0 | 0 | 0 | 11 | [Kingston](../../countries/JM/cities/kingston.yaml) 86.55; [Falmouth](../../countries/JM/cities/falmouth.yaml) 80.65; [Port Antonio](../../countries/JM/cities/port-antonio.yaml) 79.90 |
-| JM | sights | 26 | 24 | 81.32 | 1 | 0 | 0 | 26 | [Blue and John Crow Mountains](../../countries/JM/sights/blue-and-john-crow-mountains.yaml) 91.25; [Bob Marley Museum](../../countries/JM/sights/bob-marley-museum.yaml) 88.45; [Dunn's River Falls](../../countries/JM/sights/dunns-river-falls.yaml) 86.55 |
+| JM | sights | 26 | 25 | 81.35 | 1 | 0 | 0 | 26 | [Blue and John Crow Mountains](../../countries/JM/sights/blue-and-john-crow-mountains.yaml) 91.25; [Bob Marley Museum](../../countries/JM/sights/bob-marley-museum.yaml) 88.45; [Cockpit Country Protected Area](../../countries/JM/sights/cockpit-country-protected-area.yaml) 88.10 |
 | JO | cities | 21 | 21 | 73.05 | 0 | 0 | 0 | 21 | [As-Salt](../../countries/JO/cities/as-salt.yaml) 88.60; [Amman](../../countries/JO/cities/amman.yaml) 86.60; [Madaba](../../countries/JO/cities/madaba.yaml) 82.25 |
 | JO | sights | 67 | 64 | 82.55 | 7 | 2 | 7 | 67 | [Petra Archaeological Park](../../countries/JO/sights/petra-archaeological-park.yaml) 98.85; [Wadi Rum Protected Area](../../countries/JO/sights/wadi-rum-protected-area.yaml) 96.35; [Jerash Archaeological City](../../countries/JO/sights/jerash-archaeological-city.yaml) 94.15 |
 | JP | cities | 87 | 87 | 80.10 | 4 | 2 | 5 | 87 | [Kyoto](../../countries/JP/cities/kyoto.yaml) 96.50; [Tokyo](../../countries/JP/cities/tokyo.yaml) 95.75; [Nara](../../countries/JP/cities/nara.yaml) 91.05 |
@@ -335,7 +335,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MU | cities | 22 | 22 | 70.98 | 0 | 0 | 0 | 22 | [Port Louis](../../countries/MU/cities/port-louis.yaml) 82.30; [Mahebourg](../../countries/MU/cities/mahebourg.yaml) 77.85; [Port Mathurin](../../countries/MU/cities/port-mathurin.yaml) 76.40 |
 | MU | sights | 63 | 60 | 79.52 | 1 | 0 | 2 | 63 | [Le Morne Cultural Landscape](../../countries/MU/sights/le-morne-cultural-landscape.yaml) 93.45; [Black River Gorges National Park](../../countries/MU/sights/black-river-gorges-national-park.yaml) 89.20; [Ganga Talao (Grand Bassin)](../../countries/MU/sights/ganga-talao-grand-bassin.yaml) 86.35 |
 | MV | cities | 25 | 25 | 72.35 | 0 | 0 | 0 | 25 | [Fuvahmulah](../../countries/MV/cities/fuvahmulah.yaml) 82.05; [Male](../../countries/MV/cities/male.yaml) 80.80; [Thoddoo](../../countries/MV/cities/thoddoo.yaml) 77.75 |
-| MV | sights | 42 | 40 | 81.35 | 6 | 0 | 4 | 42 | [South Ari Marine Protected Area](../../countries/MV/sights/south-ari-marine-protected-area.yaml) 93.55; [Hanifaru Bay Marine Protected Area](../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) 93.30; [Baa Atoll Biosphere Reserve](../../countries/MV/sights/baa-atoll-biosphere-reserve.yaml) 93.15 |
+| MV | sights | 42 | 41 | 81.30 | 6 | 0 | 4 | 42 | [South Ari Marine Protected Area](../../countries/MV/sights/south-ari-marine-protected-area.yaml) 93.55; [Hanifaru Bay Marine Protected Area](../../countries/MV/sights/hanifaru-bay-marine-protected-area.yaml) 93.30; [Baa Atoll Biosphere Reserve](../../countries/MV/sights/baa-atoll-biosphere-reserve.yaml) 93.15 |
 | MW | cities | 18 | 18 | 72.58 | 0 | 0 | 0 | 18 | [Livingstonia](../../countries/MW/cities/livingstonia.yaml) 82.70; [Zomba](../../countries/MW/cities/zomba.yaml) 80.00; [Chembe (Cape Maclear village)](../../countries/MW/cities/chembe-cape-maclear-village.yaml) 78.45 |
 | MW | sights | 34 | 29 | 81.00 | 2 | 0 | 4 | 34 | [Lake Malawi National Park](../../countries/MW/sights/lake-malawi-national-park.yaml) 93.70; [Mount Mulanje Cultural Landscape](../../countries/MW/sights/mount-mulanje-cultural-landscape.yaml) 92.70; [Nyika National Park](../../countries/MW/sights/nyika-national-park.yaml) 89.60 |
 | MX | cities | 36 | 36 | 81.85 | 1 | 0 | 1 | 36 | [Mexico City](../../countries/MX/cities/mexico-city.yaml) 93.60; [Oaxaca de Juárez](../../countries/MX/cities/oaxaca.yaml) 89.50; [Guanajuato](../../countries/MX/cities/guanajuato.yaml) 88.65 |
