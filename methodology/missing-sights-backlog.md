@@ -366,3 +366,15 @@ Six additions, 24 peer comparisons with ranked dimension values. US now 130 rank
 - [x] US — Golden Gate Park: 87.70/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons; US 136 ranked. Published map coordinates and primary visitor sources inspected. Scope exclusions documented. No existing ratings changed. User-directed stopping rule: [country screening status](missing-sights-country-status.md) records DONE for exhausted high-value queues; do not add filler to meet a quota. KR and ID current queues closed, US paused with known residual candidates rather than falsely marked complete. Rotate to NZ next. Full peer YAML verification, Python validation and diagnostics pending.
+
+
+### Pass 36 — New Zealand high-value omissions
+
+- [x] NZ — Auckland War Memorial Museum: 88.60/100 (source-linked-unverified).
+- [x] NZ — Zealandia Te Māra a Tāne Wildlife Sanctuary: 89.25/100 (source-linked-unverified).
+- [x] NZ — Rakiura National Park: 89.45/100 (source-linked-unverified).
+- [x] NZ — Cape Reinga / Te Rerenga Wairua: 88.20/100 (source-linked-unverified).
+- [x] NZ — Bay of Islands (Northland): 88.85/100 (source-linked-unverified).
+- [x] NZ — Sky Tower (Auckland): 82.95/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons; NZ 42 ranked / 44 total. Auckland Museum restricted galleries documented; all sites independently scoped. Existing NZ candidates resolved by aliases as recorded in the country tracker. Remaining meaningful gaps include missing national parks and selected cultural/nature sights; country remains OPEN, not a quota-driven search. Full peer YAML cross-check, Python validation and diagnostics pending.

@@ -1,0 +1,17 @@
+id: sight-nz-rakiura-national-park
+name: "Rakiura National Park"
+location:
+  country_code: NZ
+  latitude: -46.9763
+  longitude: 167.814
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 9.1
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.1
+    photography: 9.1

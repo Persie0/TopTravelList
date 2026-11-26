@@ -1555,3 +1555,231 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access checks.
+
+## sight-nz-auckland-war-memorial-museum — Auckland War Memorial Museum — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml)
+- Action: new
+- Precise subject: Museum building and public exhibits only; excludes wider Auckland Domain.
+- Location check: -36.86075, 174.77781; [published representative point](https://mapcarta.com/W23906678), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum describes Māori, Pacific and New Zealand historical collections and guided tours. Its ticket page (https://www.aucklandmuseum.com/visit/tickets) states that Māori Court and Pacific galleries are temporarily closed; rating does not assume access to these galleries. [Primary reference](https://www.aucklandmuseum.com/visit/galleries); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | Broader national museum and stronger available visitor experience. |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | Greater focus on military remembrance. |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | Comparable national cultural interpretation, broader available galleries. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | Distinct open-air approach to national culture. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Historic building and collections have substantial impact |
+| Uniqueness | 8.9 | Māori and Pacific cultural focus distinguishes the museum |
+| Significance | 9.1 | national cultural and memorial significance |
+| Experience | 8.7 | current gallery restrictions temper experience |
+| Depth | 9.0 | remaining galleries provide depth. |
+
+- Applicable categories: culture:9.3, history:9.2, architecture:8.9, nature:8.7.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-zealandia-ecosanctuary — Zealandia Te Māra a Tāne Wildlife Sanctuary — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml)
+- Action: new
+- Precise subject: Fenced Wellington urban ecosanctuary and authorized walking routes, excluding other restoration areas. Wildlife encounters are not guaranteed.
+- Location check: -41.29444, 174.75; [published representative point](https://en.wikipedia.org/wiki/Zealandia_%28wildlife_sanctuary%29), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator documents a regenerating forest, rare native birds, reptiles and other wildlife plus track maps. https://www.sanctuariesnz.org/projects/zealandia/ corroborates restoration scope; coordinates are representative of sanctuary, not entry. [Primary reference](https://www.visitzealandia.com/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | 9.0 / 9.2 / 8.8 / 8.9 / 8.5 | Distinct marine wildlife experience. |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | 8.7 / 8.8 / 8.5 / 9.1 / 8.7 | More coastal recreation, different wildlife focus. |
+| [SG/singapore-zoo](../../../countries/SG/sights/singapore-zoo.yaml) | 9.0 / 8.9 / 8.1 / 9.2 / 9.2 | Captive zoological experience rather than ecosystem restoration. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Broader urban park, less specialized restoration. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Regenerating native forest and wildlife encounters offer high impact |
+| Uniqueness | 9.2 | urban fenced restoration model is distinctive |
+| Significance | 9.0 | notable conservation and biodiversity significance |
+| Experience | 8.9 | permitted walks and interpretation reward visits |
+| Depth | 8.8 | varied forest routes give depth. |
+
+- Applicable categories: wildlife:9.3, nature:9.2, adventure:8.6.
+- Computed worldwide overall: 89.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-rakiura-national-park — Rakiura National Park — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/rakiura-national-park.yaml)
+- Action: new
+- Precise subject: Protected terrestrial park on Stewart Island/Rakiura, including permitted coastal and forest routes; excludes separate settlements and marine reserves.
+- Location check: -46.9763, 167.814; [published representative point](https://www.ontheair.nz/assets/NZ-0043), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC documents the park's coastal and forest environments and multi-day tramping routes, including the Rakiura Track (https://www.doc.govt.nz/rakiuratrack). Representative park point rather than trailhead; permits and conditions vary. [Primary reference](https://www.doc.govt.nz/rakiura); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | 9.5 / 9.3 / 9.3 / 9.2 / 9.4 | Fiordland has greater mountainous spectacle and scope. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable coastal forest and trails. |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | Distinct island ecology and more marine-focused experiences. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Tropical island coast versus temperate wilderness. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Remote forest and coast produce strong scenic impact |
+| Uniqueness | 9.0 | island wilderness and endemic wildlife distinguish it |
+| Significance | 8.9 | important protected natural landscape |
+| Experience | 8.7 | remote routes are rewarding but access and weather constrain visits |
+| Depth | 9.1 | several long trails support considerable depth. |
+
+- Applicable categories: nature:9.3, wildlife:9.3, adventure:9.1, photography:9.1.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-cape-reinga — Cape Reinga / Te Rerenga Wairua — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/cape-reinga.yaml)
+- Action: new
+- Precise subject: Sacred headland and public lighthouse walk, excluding Ninety Mile Beach and wider Te Paki. Visitors must respect tikanga, including no eating at the cape.
+- Location check: -34.426639, 172.677639; [published representative point](https://en.wikipedia.org/wiki/Cape_Reinga_Lighthouse), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: DOC confirms high spiritual significance for Māori, panoramic walk and visitor guidance. https://www.newzealand.com/int/cape-reinga/ describes the coastal setting; coordinate represents the lighthouse. [Primary reference](https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/cape-reinga-te-rerenga-wairua); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/waitangi-treaty-grounds](../../../countries/NZ/sights/waitangi-treaty-grounds.yaml) | 8.0 / 8.8 / 9.2 / 8.5 / 8.2 | Stronger documented political history; cape emphasizes sacred landscape. |
+| [US/napali-coast-state-wilderness-park](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml) | 9.4 / 9.2 / 8.8 / 8.9 / 9.0 | Broader and more dramatic coastal wilderness. |
+| [CA/cape-breton-highlands-national-park](../../../countries/CA/sights/cape-breton-highlands-national-park.yaml) | 8.8 / 8.5 / 8.5 / 8.9 / 8.8 | Longer coastal routes, less concentrated spiritual significance. |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | 8.7 / 8.8 / 8.5 / 9.1 / 8.7 | More recreation and wildlife variety. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Meeting of ocean waters and exposed headland produce memorable impact |
+| Uniqueness | 9.0 | sacred setting and distinctive coastal panorama combine uniquely |
+| Significance | 9.0 | Māori spiritual significance adds substantial cultural importance |
+| Experience | 8.6 | respectful short walk and interpretation reward a focused visit |
+| Depth | 7.8 | bounded headland limits depth. |
+
+- Applicable categories: nature:9.1, photography:9.3, culture:9.2, history:8.8.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-bay-of-islands — Bay of Islands (Northland) — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/bay-of-islands.yaml)
+- Action: new
+- Precise subject: Marine island landscape and permitted public island walks and boat excursions; excludes Waitangi Treaty Grounds, Kerikeri and independent town attractions.
+- Location check: -35.30959, 174.20764; [published representative point](https://mapcarta.com/Bay_of_Islands_R2045304), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Tourism New Zealand documents island walking, camping, boat experiences and maritime scenery; https://www.newzealand.com/int/feature/discover-experiences-in-northland/ identifies Urupukapuka recreation. Coordinate is representative of bay, not boarding point. [Primary reference](https://www.newzealand.com/int/bay-of-islands/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | 9.6 / 9.3 / 8.8 / 9.3 / 8.6 | Milford has greater dramatic landscape impact. |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | Comparable island-based marine experience. |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | Different protected marine wilderness. |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | Comparable coastal depth but different terrain. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Island-studded bay offers high scenic impact |
+| Uniqueness | 8.8 | temperate marine archipelago is distinctive though comparable to others |
+| Significance | 8.6 | ecological and historic landscape importance without inheriting Waitangi |
+| Experience | 9.1 | boat and walking experiences support rewarding visits |
+| Depth | 9.0 | multiple islands provide depth. |
+
+- Applicable categories: nature:9.2, beaches:9.0, photography:9.2, adventure:9.0, relaxation:9.1.
+- Computed worldwide overall: 88.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-nz-sky-tower-auckland — Sky Tower (Auckland) — 2026-11-26
+
+- YAML: [source](../../../countries/NZ/sights/sky-tower-auckland.yaml)
+- Action: new
+- Precise subject: Standard observation deck visit; excludes separately ticketed SkyJump, SkyWalk, dining and casino.
+- Location check: -36.84847, 174.76231; [published representative point](https://en.wikipedia.org/wiki/Sky_Tower_%28Auckland%29), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator describes access to three observation levels, highest at 220 metres. Tourism NZ confirms viewing experience (https://www.newzealand.com/int/feature/discover-experiences-in-auckland/). [Primary reference](https://skycityauckland.co.nz/sky-tower/admissions/); source excerpts inspected 2026-11-26. Sources support scope and facts, not numerical judgments.
+- Missing or uncertain facts: complete independent corroboration and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | Greater global architectural significance. |
+| [US/space-needle](../../../countries/US/sights/space-needle.yaml) | 8.6 / 8.6 / 8.4 / 8.8 / 7.6 | Comparable observation visit, greater design heritage. |
+| [CA/cn-tower](../../../countries/CA/sights/cn-tower.yaml) | 8.5 / 8.2 / 8.0 / 8.5 / 7.0 | Comparable observation tower. |
+| [HK/victoria-peak](../../../countries/HK/sights/victoria-peak.yaml) | 8.8 / 8.7 / 8.0 / 9.5 / 8.6 | More varied outdoor viewpoint and surrounding routes. |
+
+Peer dimensions drawn from existing country rankings; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Elevated harbour and city views offer strong impact |
+| Uniqueness | 8.3 | recognizable tower but many comparable examples |
+| Significance | 7.9 | regional architectural and civic significance |
+| Experience | 8.8 | several decks provide rewarding views |
+| Depth | 7.4 | relatively focused observation experience limits depth. |
+
+- Applicable categories: photography:9.0, architecture:8.7, family:8.7.
+- Computed worldwide overall: 82.95/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
