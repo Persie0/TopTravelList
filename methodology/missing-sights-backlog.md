@@ -186,3 +186,8 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 ## Workflow
 
 Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for one hundred and thirty-five additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+
+
+### Integration checkpoint — 2026-11-26
+
+Merged main snapshot `d6da3f69e64e73e7e150180cc8e17d9db27c9502` into the audit branch, preserving all 113 main changes and all existing audit YAML files. Reconciled two generated rankings by taking main's rows for existing records and inserting audit-only YAML records: Egypt 42 ranked / 42 total; Tanzania 24 ranked / 30 total. Full Python generator, diagnostics refresh, and independent factual verification remain pending.
