@@ -457,3 +457,13 @@ Nine additions and 36 peer comparisons matched to ranked rows. UAE 62 ranked / 7
 - [x] AE — LEGOLAND Dubai: 80.00/100 (source-linked-unverified).
 
 Eight additions and 32 peer comparisons matched to current ranked rows. UAE 70 ranked / 80 total; existing ten unassessed unchanged. Al Fahidi Fort Museum newly reopened (official tourism and 26 November 2026 reporting); separate galleries from already listed historic district. Deferred Al Ain Palace Museum: official temporary closure since 1 July 2024 remains posted (https://dct.gov.ae/en/what.we.do/culture/museums/al.ain.palace.museum.aspx). Deferred Ras Al Khor Wildlife Sanctuary: conflicting access information; Dubai Municipality visitor page (https://www.dm.gov.ae/dubai-protected-areas/book-a-visit/) and recent closure reporting (https://uae2day.com/en/attractions/ras-al-khor-wildlife-sanctuary). Verify access before scoring. Federal tourism inventory (https://www.moet.gov.ae/en/tourist-attractions) and emirate-level guide (https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/what-to-do-in-the-uae/explore-the-uae-by-emirate-) consulted. Other major concrete candidates for bounded final review: Burj Al Arab authorized tour, Al Bithnah Fort, and Umm Al Quwain mangrove visitor experience. Do not mark country done with unresolved known priority candidates. Full Python validation and individual peer YAML checks pending.
+
+### Pass 43 — close UAE discovery queue; begin Oman
+
+- [x] AE — Burj Al Arab (Exterior): 85.05/100 (source-linked-unverified).
+- [x] AE — Al Bithnah Fort: 79.15/100 (source-linked-unverified).
+- [x] AE — Khor Al Beidah Mangroves: 83.40/100 (source-linked-unverified).
+- [x] OM — Misfat Al Abriyeen Village: 87.00/100 (source-linked-unverified).
+- [x] OM — Balad Sayt Village: 84.50/100 (source-linked-unverified).
+
+Five additions, 20 peer comparisons matched to current ranked rows. UAE 73 ranked / 83 total; current high-value screen closed with explicit access deferrals (Al Ain Palace Museum, Ras Al Khor, Burj Al Arab interior). Burj Al Arab exterior independently scoped, no hotel visit assumed during restoration. Khor Al Beidah mapped lagoon coordinate selected instead of inconsistent KBA metadata; access and coordinates require further corroboration. UAE prior federal and emirate tourism screens resolved; reopen for concrete substantial omissions only. Oman 61 ranked / 62 total; two mountain villages added, remaining concrete candidates include Wadi Bani Awf / Snake Canyon and other official destination highlights. Existing unassessed records and ratings unchanged. Full Python validation and individual peer YAML checks pending.

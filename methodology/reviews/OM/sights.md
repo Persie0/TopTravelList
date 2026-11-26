@@ -1141,3 +1141,79 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: No independently checked individual source.
 - Remaining gaps: Independent factual, GPS, category and specialist peer verification.
+
+## sight-om-misfat-al-abriyeen — Misfat Al Abriyeen Village — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/misfat-al-abriyeen.yaml)
+- Action: new
+- Precise subject and limitations: Historic mountain settlement, terraced agriculture and permitted public walking lanes. Oman tourism listing https://ironman.experienceoman.om/en/destination/misfatalabriyyin. No entry to private homes or gardens assumed.
+- Location check: 23.1375, 57.30861; [published representative point](https://en.wikipedia.org/wiki/Misfat_al_Abriyeen), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://tourism-villages.unwto.org/en/villages/misfat-al-abriyeen/); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/jebel-akhdar-mountain-landscape](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) | 9.1 / 8.8 / 8.3 / 9.0 / 9.0 | Broader mountain scenery, different village scope. |
+| [OM/aflaj-irrigation-systems-of-oman](../../../countries/OM/sights/aflaj-irrigation-systems-of-oman.yaml) | 7.7 / 9.1 / 9.3 / 7.9 / 8.7 | Broader irrigation heritage significance. |
+| [AE/al-fahidi-historical-neighbourhood](../../../countries/AE/sights/al-fahidi-historical-neighbourhood.yaml) | 8.2 / 8.5 / 8.2 / 8.5 / 7.8 | Different urban vernacular setting. |
+| [HK/tai-o-fishing-village](../../../countries/HK/sights/tai-o-fishing-village.yaml) | 8.6 / 8.8 / 8.2 / 9.0 / 8.4 | Comparable living settlement with different landscape. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Striking terraced village and mountain setting. |
+| Uniqueness | 8.8 | Distinct vernacular building and agricultural landscape. |
+| Significance | 8.6 | Regionally significant living heritage. |
+| Experience | 8.8 | Walkable heritage and oasis setting. |
+| Depth | 8.5 | Several lanes, terraces and cultural experiences. |
+
+- Applicable categories: culture:9.0, history:8.9, photography:9.1, architecture:8.9, nature:8.6.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-om-balad-sayt-village — Balad Sayt Village — 2026-11-26
+
+- YAML: [source](../../../countries/OM/sights/balad-sayt-village.yaml)
+- Action: new
+- Precise subject and limitations: Mountain village and terraced landscape; public views and permitted walking only. Oman Observer describes adventure tourism and recognized mountain path https://www.omanobserver.om/article/1171520/oman/balad-sayt-village-a-hub-for-tourism-adventure. Excludes wider Wadi Bani Awf canyoning, private property and unsafe road access.
+- Location check: 23.19025, 57.387917; [published representative point](https://en.wikipedia.org/wiki/Bilad_Sayt), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://experienceoman.om/en/destinations/al-batinah-south/balad-sayt-village); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/jebel-akhdar-mountain-landscape](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) | 9.1 / 8.8 / 8.3 / 9.0 / 9.0 | More extensive mountain landscape. |
+| [OM/wadi-tiwi](../../../countries/OM/sights/wadi-tiwi.yaml) | 8.7 / 8.5 / 7.6 / 8.5 / 8.1 | Different valley and cultivated landscape. |
+| [AE/al-fahidi-historical-neighbourhood](../../../countries/AE/sights/al-fahidi-historical-neighbourhood.yaml) | 8.2 / 8.5 / 8.2 / 8.5 / 7.8 | More extensive accessible urban heritage. |
+| [HK/tai-o-fishing-village](../../../countries/HK/sights/tai-o-fishing-village.yaml) | 8.6 / 8.8 / 8.2 / 9.0 / 8.4 | Different coastal living settlement. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Impressive cultivated terraces surrounded by mountains. |
+| Uniqueness | 8.6 | Distinct compact mountain village. |
+| Significance | 8.1 | Regional living agricultural heritage. |
+| Experience | 8.4 | Scenic visit with difficult approach. |
+| Depth | 8.1 | Compact village and permitted walks. |
+
+- Applicable categories: photography:9.1, nature:8.8, culture:8.7, architecture:8.5.
+- Computed worldwide overall: 84.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

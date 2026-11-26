@@ -2026,3 +2026,117 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ae-burj-al-arab-exterior — Burj Al Arab (Exterior) — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/burj-al-arab-exterior.yaml)
+- Action: new
+- Precise subject and limitations: Sail-shaped architectural landmark viewed from public areas, not hotel accommodation or interior tour. Marker identifies the building, not a public entrance. Operator announced restoration 15 April 2026 (https://mediahub.jumeirah.com/jumeirah-burj-al-arab-to-undergo-phased-restoration-programme-to-preserve-the-legacy-of-the-icon/?lang=eng); Reuters reported an 18-month closure (https://www.reuters.com/world/middle-east/dubais-landmark-burj-al-arab-hotel-will-shut-18-month-refurb-amid-tourism-2026-04-15/). No interior access assumed.
+- Location check: 25.14145, 55.18547; [published representative point](https://mapcarta.com/29535160), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/en/articles/best-places-for-views-of-burj-al-arab); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/burj-khalifa](../../../countries/AE/sights/burj-khalifa.yaml) | 9.6 / 9.7 / 8.8 / 9.2 / 7.8 | Greater scale and observation experience. |
+| [AE/dubai-frame](../../../countries/AE/sights/dubai-frame.yaml) | 8.4 / 8.7 / 6.6 / 8.3 / 7.0 | More direct visitor experience but less iconic architecture. |
+| [AE/palm-jumeirah](../../../countries/AE/sights/palm-jumeirah.yaml) | 8.8 / 9.4 / 7.3 / 8.5 / 8.5 | Broader engineered landscape. |
+| [OM/al-alam-palace-exterior](../../../countries/OM/sights/al-alam-palace-exterior.yaml) | 7.5 / 7.5 / 7.7 / 7.4 / 6.0 | Comparable exterior-only scope, different architectural significance. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Iconic sail-shaped waterfront silhouette. |
+| Uniqueness | 9.0 | Distinctive artificial-island architectural composition. |
+| Significance | 8.3 | Internationally recognized modern Dubai landmark. |
+| Experience | 8.1 | Public views rewarding but no interior visit. |
+| Depth | 6.5 | Exterior viewing alone limits depth. |
+
+- Applicable categories: architecture:9.3, photography:9.2.
+- Computed worldwide overall: 85.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-al-bithnah-fort — Al Bithnah Fort — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/al-bithnah-fort.yaml)
+- Action: new
+- Precise subject and limitations: Historic fort overlooking Wadi Ham, excluding village and rehabilitation project. WWF documents historic community context at https://emiratesnaturewwf.ae/en/page/environmental-conservation-at-al-bithnah. Interior hours and precise construction date uncertain.
+- Location check: 25.18676, 56.23772; [published representative point](https://mapcarta.com/28384318), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://tourism.fujairah.ae/destinations/al-bithna-fort); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/fujairah-fort](../../../countries/AE/sights/fujairah-fort.yaml) | 8.1 / 8.2 / 8.5 / 8.0 / 7.2 | Larger urban heritage landmark. |
+| [AE/dhayah-fort](../../../countries/AE/sights/dhayah-fort.yaml) | 8.2 / 8.2 / 8.1 / 8.2 / 6.6 | More dramatic hilltop setting. |
+| [OM/nakhal-fort](../../../countries/OM/sights/nakhal-fort.yaml) | 8.3 / 8.1 / 8.4 / 8.3 / 7.7 | More extensive fortified architecture. |
+| [OM/rustaq-fort](../../../countries/OM/sights/rustaq-fort.yaml) | 8.1 / 8.1 / 8.6 / 8.2 / 7.8 | Larger historic complex. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Compact fort in mountain setting. |
+| Uniqueness | 8.1 | Regional defensive architecture and valley context. |
+| Significance | 8.4 | Important historic trade-route defense. |
+| Experience | 7.8 | Short site visit, interior availability uncertain. |
+| Depth | 7.0 | Small fortified complex. |
+
+- Applicable categories: history:8.8, architecture:8.5, photography:8.4.
+- Computed worldwide overall: 79.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-khor-al-beidah-mangroves — Khor Al Beidah Mangroves — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/khor-al-beidah-mangroves.yaml)
+- Action: new
+- Precise subject and limitations: Lagoon and permitted birdwatching or guided paddling around Khor Al Beidah; visitor context https://uae-guide.com/umm-al-quwain/attractions-umm-al-quwain/umm-al-quwain-mangroves-guide/. Excludes separate Khor Al Yeefrah beach and restricted islands; map point represents lagoon, not launch site. KBA published central coordinate appears inconsistent with mapped lagoon, so map point uses GeoNames-linked locator. Exact legal access, routes and tides require confirmation.
+- Location check: 25.58772, 55.64298; [published representative point](https://mapcarta.com/12930736), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.keybiodiversityareas.org/en/site/factsheet/100118); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/jubail-mangrove-park](../../../countries/AE/sights/jubail-mangrove-park.yaml) | 8.2 / 8.4 / 8.2 / 8.5 / 7.9 | More developed boardwalk visitor experience. |
+| [AE/kalba-mangrove-centre](../../../countries/AE/sights/kalba-mangrove-centre.yaml) | 8.0 / 8.2 / 8.2 / 8.3 / 7.7 | More concentrated education facility. |
+| [HK/mai-po-nature-reserve](../../../countries/HK/sights/mai-po-nature-reserve.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.8 | Stronger documented managed reserve access. |
+| [OM/daymaniyat-islands-nature-reserve](../../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 8.6 | Broader protected marine island experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Open tidal landscape and birdlife. |
+| Uniqueness | 8.5 | Distinct coastal wetland mosaic. |
+| Significance | 8.5 | Regional migratory bird significance. |
+| Experience | 8.3 | Nature viewing subject to access and tide. |
+| Depth | 8.4 | Several tidal habitats but limited permitted routes. |
+
+- Applicable categories: nature:9.0, wildlife:8.9, adventure:8.5, photography:8.7.
+- Computed worldwide overall: 83.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

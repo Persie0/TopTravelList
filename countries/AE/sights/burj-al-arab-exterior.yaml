@@ -1,0 +1,15 @@
+id: sight-ae-burj-al-arab-exterior
+name: "Burj Al Arab (Exterior)"
+location:
+  country_code: AE
+  latitude: 25.14145
+  longitude: 55.18547
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 8.1
+  depth: 6.5
+  categories:
+    architecture: 9.3
+    photography: 9.2
