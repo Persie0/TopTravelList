@@ -196,3 +196,8 @@ Merged main snapshot `d6da3f69e64e73e7e150180cc8e17d9db27c9502` into the audit b
 ### Pass 20 — African verification and integration
 
 Ten pass-15 coordinates replaced with published map references and more specific visitor sources. Ratings unchanged; the review evidence status remains source-linked-unverified. Latest inspected main snapshot 311fbba9e001cb296d54409eee0dd372b6efba7d incorporated (27 nonoverlapping changed files). Review heading/dimension format corrected for the 17 audit additions in TZ/MG/EG/MA; full Python workflow report still pending.
+
+
+### Pass 21 — Review normalization and generated-row consistency
+
+Normalized the remaining 118 audit-added reviews (135 including the 17 from pass 20) to the repository's level-two heading and capitalized dimension convention. Compared all 135 new ranking rows against YAML-derived scores, coordinates, category ordering, name search URLs and the generator's current name-based type rules using a connector-side implementation. Five earlier type mismatches corrected, plus 1 in the African cohort. This is not a run of the full Python generator. Known limitation: type inference is lexical; Cathedral Cove is classified as a religious site, despite being a natural attraction. Château des Baux and Blue Grotto fall into the generic Attraction bucket. Improve inference with separate regression tests rather than overriding generated rows manually. The public-runner validation report has not appeared; full schema/benchmark/review checks and diagnostics refresh are still outstanding. No YAML source records or ratings modified in pass 21. Main snapshot ce496658ec484f60b84f978e50078442221d4e42 integrated.
