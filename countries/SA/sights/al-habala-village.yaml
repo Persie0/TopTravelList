@@ -1,0 +1,17 @@
+id: sight-sa-al-habala-village
+name: "Al Habala Historic Village and Cable Car"
+location:
+  country_code: SA
+  latitude: 18.03493
+  longitude: 42.87409
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 8.5
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 8.8
+    photography: 9.2
+    adventure: 8.7

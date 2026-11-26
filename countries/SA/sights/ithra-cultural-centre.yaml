@@ -1,0 +1,17 @@
+id: sight-sa-ithra-cultural-centre
+name: "King Abdulaziz Center for World Culture (Ithra)"
+location:
+  country_code: SA
+  latitude: 26.33523
+  longitude: 50.12143
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 8.9
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    culture: 9.2
+    family: 9.0
+    photography: 9.0

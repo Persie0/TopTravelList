@@ -1772,3 +1772,193 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-sa-sharaan-nature-reserve — Sharaan Nature Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/sharaan-nature-reserve.yaml)
+- Action: new
+- Precise subject and limitations: Protected sandstone desert landscape, guided permitted hikes and safari experiences only. IUCN Green List site profile https://iucngreenlist.org/sites/sharaan-nature-reserve/ and official destination page describe wildlife and conservation. No guaranteed wildlife encounters or unrestricted access. Coordinate is mapped reserve representative point, not meeting point.
+- Location check: 26.866, 38.1912; [representative point source](https://mapcarta.com/W1282434494), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.experiencealula.com/en/places-to-go/sharaan-nature-reserve); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/wadi-disah](../../../countries/SA/sights/wadi-disah.yaml) | 9.1 / 8.7 / 7.8 / 8.5 / 8.3 | More concentrated canyon scenery. |
+| [OM/jabal-samhan-nature-reserve](../../../countries/OM/sights/jabal-samhan-nature-reserve.yaml) | 9.0 / 8.8 / 9.1 / 8.7 / 8.6 | Comparable large conservation landscape. |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | 9.8 / 9.7 / 9.4 / 9.6 / 9.5 | Much broader established desert visitor experience. |
+| [AE/dubai-desert-conservation-reserve](../../../countries/AE/sights/dubai-desert-conservation-reserve.yaml) | 8.7 / 8.4 / 8.5 / 8.7 / 8.6 | Different dune-focused conservation scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic sandstone formations. |
+| Uniqueness | 8.9 | Distinct geological and wildlife landscape. |
+| Significance | 8.8 | Important regional protected ecosystem. |
+| Experience | 8.7 | Guided outdoor experiences with access restrictions. |
+| Depth | 8.8 | Extensive varied terrain. |
+
+- Applicable categories: nature:9.3, wildlife:9.1, photography:9.2, adventure:9.0.
+- Computed worldwide overall: 88.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-ithra-cultural-centre — King Abdulaziz Center for World Culture (Ithra) — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/ithra-cultural-centre.yaml)
+- Action: new
+- Precise subject and limitations: Public cultural complex, including architecture, museum, library and public programmes; excludes adjacent industrial sites. Operator publishes admission and facilities. Map source is third-party directory; corroborating building identity https://mapcarta.com/W711880052. Rotating exhibitions and individual admission rules vary.
+- Location check: 26.33523, 50.12143; [representative point source](https://saudi-arabia.worldplaces.me/review/94643559-ithra.html), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.ithra.com/en/visit-ithra); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/national-museum](../../../countries/SA/sights/national-museum.yaml) | 8.0 / 8.2 / 8.7 / 8.5 / 8.7 | Different national historical collection. |
+| [AE/museum-of-the-future](../../../countries/AE/sights/museum-of-the-future.yaml) | 8.9 / 9.3 / 7.2 / 8.6 / 7.6 | More focused future-themed visitor experience. |
+| [AE/zayed-national-museum](../../../countries/AE/sights/zayed-national-museum.yaml) | 8.7 / 8.8 / 8.7 / 8.8 / 8.8 | More concentrated national history focus. |
+| [OM/oman-across-ages-museum](../../../countries/OM/sights/oman-across-ages-museum.yaml) | 8.7 / 8.6 / 8.4 / 9.0 / 8.8 | Comparable major cultural institution. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinctive contemporary architecture. |
+| Uniqueness | 9.0 | Unusual multi-disciplinary cultural design. |
+| Significance | 8.5 | Major national cultural institution. |
+| Experience | 8.9 | Multiple public cultural experiences. |
+| Depth | 9.0 | Museum, library and performance spaces. |
+
+- Applicable categories: architecture:9.3, culture:9.2, family:9.0, photography:9.0.
+- Computed worldwide overall: 88.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-al-hada-mountain-cable-car — Al Hada Mountain and Cable Car — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/al-hada-mountain-cable-car.yaml)
+- Action: new
+- Precise subject and limitations: Taif escarpment scenery, designated public viewpoints and cable-car experience in one scope. Saudi Press Agency confirms summer visitor activity in 2026. Directory warns its map points may be inaccurate; coordinate is cable-car vicinity, not summit or guaranteed entrance. Weather and operations vary.
+- Location check: 21.364717, 40.267771; [representative point source](https://desertpaths.co/attractions/al-hada-cable-car), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://spa.gov.sa/en/N2636455); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/jebel-jais-mountain-landscape](../../../countries/AE/sights/jebel-jais-mountain-landscape.yaml) | 8.9 / 8.5 / 7.5 / 8.9 / 8.6 | Broader mountain road and adventure offering. |
+| [OM/jebel-akhdar-mountain-landscape](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) | 9.1 / 8.8 / 8.3 / 9.0 / 9.0 | More extensive cultivated highlands. |
+| [SA/edge-of-world](../../../countries/SA/sights/edge-of-world.yaml) | 9.0 / 8.4 / 7.4 / 8.2 / 7.2 | More concentrated cliff panorama. |
+| [SA/asir-national-park](../../../countries/SA/sights/asir-national-park.yaml) | 8.3 / 8.0 / 7.9 / 8.3 / 8.2 | Different southern mountain protected landscape. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Dramatic escarpment and mountain road views. |
+| Uniqueness | 8.5 | Distinct regional highland cable-car landscape. |
+| Significance | 7.6 | Regional scenic and recreational significance. |
+| Experience | 8.6 | Scenic ride and visits when operating. |
+| Depth | 8.4 | Multiple views and mountain experiences. |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.8, family:8.7.
+- Computed worldwide overall: 84.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-al-habala-village — Al Habala Historic Village and Cable Car — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/al-habala-village.yaml)
+- Action: new
+- Precise subject and limitations: Historic cliff settlement and its dedicated cable-car visitor experience, not whole Asir National Park or regional cultural landscape. 2026 Arab News confirms summer activities; Lonely Planet https://www.lonelyplanet.com/points-of-interest/al-habala/1615760 notes seasonal cable car. Current winter access unconfirmed; no unsafe ruins assumed. Point represents village, not upper station.
+- Location check: 18.03493, 42.87409; [representative point source](https://mapcarta.com/W591481544), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.arabnews.com/saudi-arabia/al-habala-park-in-asir-draws-summer-visitors-with-scenic-views-heritage-attractions-2649350); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/rijal-almaa](../../../countries/SA/sights/rijal-almaa.yaml) | 8.7 / 8.8 / 8.5 / 8.2 / 7.7 | More substantial preserved village architecture. |
+| [SA/zee-ain](../../../countries/SA/sights/zee-ain.yaml) | 8.6 / 8.4 / 8.2 / 8.2 / 7.4 | Different stone village and oasis setting. |
+| [OM/misfat-al-abriyeen](../../../countries/OM/sights/misfat-al-abriyeen.yaml) | 8.7 / 8.8 / 8.6 / 8.8 / 8.5 | More integrated living village landscape. |
+| [OM/balad-sayt-village](../../../countries/OM/sights/balad-sayt-village.yaml) | 8.7 / 8.6 / 8.1 / 8.4 / 8.1 | Comparable dramatic mountain settlement. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Striking cliffside settlement. |
+| Uniqueness | 9.0 | Unusual historic access and built setting. |
+| Significance | 8.5 | Regional vernacular heritage. |
+| Experience | 8.5 | Seasonal cable-car and heritage visit. |
+| Depth | 8.0 | Compact settlement and views. |
+
+- Applicable categories: architecture:8.9, history:8.8, photography:9.2, adventure:8.7.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-boulevard-world-riyadh — Boulevard World Riyadh — 2026-11-27
+
+- YAML: [source](../../../countries/SA/sights/boulevard-world-riyadh.yaml)
+- Action: new
+- Precise subject and limitations: Recurring seasonal themed entertainment complex since 2022, confirmed 2026 Riyadh Season opening and expansion. Excludes neighboring Boulevard City, temporary festivals as individual records and unrelated Riyadh Season venues. Themed recreations are not original cultural heritage; availability seasonal.
+- Location check: 24.77668, 46.60096; [representative point source](https://mapcarta.com/W1218670089), source or indexed excerpt inspected 2026-11-27; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://spa.gov.sa/en/N2730843); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/global-village-dubai](../../../countries/AE/sights/global-village-dubai.yaml) | 8.5 / 8.6 / 7.1 / 9.0 / 9.0 | Comparable international-themed entertainment. |
+| [SA/six-flags-qiddiya-city](../../../countries/SA/sights/six-flags-qiddiya-city.yaml) | 9.1 / 9.1 / 6.8 / 9.2 / 9.1 | More dedicated thrill ride park. |
+| [AE/motiongate-dubai](../../../countries/AE/sights/motiongate-dubai.yaml) | 8.6 / 8.4 / 6.8 / 9.0 / 8.9 | Different film-themed entertainment. |
+| [QA/lusail-winter-wonderland](../../../countries/QA/sights/lusail-winter-wonderland.yaml) | 8.1 / 7.9 / 6.2 / 8.8 / 8.3 | Smaller seasonal fair. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large themed environments. |
+| Uniqueness | 8.5 | Varied international-inspired recreation. |
+| Significance | 6.8 | Contemporary entertainment rather than historical significance. |
+| Experience | 9.0 | Extensive family entertainment and dining. |
+| Depth | 9.1 | Multiple themed zones. |
+
+- Applicable categories: family:9.1, nightlife:9.1, food:8.8, photography:8.8.
+- Computed worldwide overall: 83.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
