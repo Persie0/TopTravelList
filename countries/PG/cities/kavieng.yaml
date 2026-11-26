@@ -1,0 +1,13 @@
+id: city-pg-kavieng
+name: "Kavieng"
+location:
+  country_code: PG
+  latitude: -2.57337
+  longitude: 150.79516
+scores:
+  impact: 7.1
+  uniqueness: 7.2
+  significance: 7.0
+  experience: 7.3
+  depth: 6.7
+  categories: {}

@@ -1,0 +1,16 @@
+id: sight-za-augrabies-falls
+name: "Augrabies Falls National Park"
+location:
+  country_code: ZA
+  latitude: -28.59
+  longitude: 20.34
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.1
+    photography: 9.1
+    adventure: 8.6

@@ -1,0 +1,14 @@
+id: city-vu-sola
+name: "Sola"
+location:
+  country_code: VU
+  latitude: -13.87611
+  longitude: 167.55167
+scores:
+  impact: 6.2
+  uniqueness: 6.6
+  significance: 6.4
+  experience: 6.5
+  depth: 5.8
+  categories:
+    culture: 6.9

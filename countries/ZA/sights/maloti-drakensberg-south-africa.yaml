@@ -1,0 +1,17 @@
+id: sight-za-maloti-drakensberg-south-africa
+name: "Maloti-Drakensberg Park (South African sector)"
+location:
+  country_code: ZA
+  latitude: -29.00
+  longitude: 29.25
+scores:
+  impact: 9.5
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 9.1
+  depth: 9.5
+  categories:
+    nature: 9.6
+    history: 9.5
+    adventure: 9.5
+    photography: 9.5

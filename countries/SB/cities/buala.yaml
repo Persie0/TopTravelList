@@ -1,0 +1,14 @@
+id: city-sb-buala
+name: "Buala"
+location:
+  country_code: SB
+  latitude: -8.14497
+  longitude: 159.59212
+scores:
+  impact: 6.3
+  uniqueness: 6.7
+  significance: 6.4
+  experience: 6.7
+  depth: 5.9
+  categories:
+    culture: 7.0

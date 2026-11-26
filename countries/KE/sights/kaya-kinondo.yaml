@@ -1,0 +1,15 @@
+id: sight-ke-kaya-kinondo
+name: "Kaya Kinondo"
+location:
+  country_code: KE
+  latitude: -4.393333
+  longitude: 39.544722
+scores:
+  impact: 8.2
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.5
+  depth: 7.8
+  categories:
+    culture: 9.2
+    nature: 8.8

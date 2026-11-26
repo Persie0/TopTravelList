@@ -1,0 +1,13 @@
+id: sight-eg-ancient-thebes-property
+name: "Ancient Thebes and its Necropolis UNESCO Property"
+location:
+  country_code: EG
+  latitude: 25.70
+  longitude: 32.62
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

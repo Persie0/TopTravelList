@@ -1,0 +1,16 @@
+id: sight-za-kgalagadi-south-africa
+name: "Kgalagadi Transfrontier Park (South African sector)"
+location:
+  country_code: ZA
+  latitude: -25.80
+  longitude: 20.40
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    photography: 9.3

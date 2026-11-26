@@ -1,0 +1,16 @@
+id: sight-tn-douz-dunes
+name: "Douz Sahara Dunes"
+location:
+  country_code: TN
+  latitude: 33.42
+  longitude: 9.02
+scores:
+  impact: 8.7
+  uniqueness: 8.1
+  significance: 7.8
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 8.6
+    adventure: 8.9
+    photography: 9.0

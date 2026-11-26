@@ -1,0 +1,16 @@
+id: sight-nz-waitangi-treaty-grounds
+name: "Waitangi Treaty Grounds historic precinct"
+location:
+  country_code: NZ
+  latitude: -35.266667
+  longitude: 174.083333
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.5
+  depth: 8.2
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 8.2

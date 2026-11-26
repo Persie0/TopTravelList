@@ -1,0 +1,16 @@
+id: sight-au-greater-blue-mountains
+name: "Greater Blue Mountains Area"
+location:
+  country_code: AU
+  latitude: -33.7
+  longitude: 150.3
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.2
+    adventure: 9.0
+    photography: 9.0

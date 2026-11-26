@@ -1,0 +1,16 @@
+id: city-pg-port-moresby
+name: "Port Moresby"
+location:
+  country_code: PG
+  latitude: -9.47723
+  longitude: 147.15089
+scores:
+  impact: 7.0
+  uniqueness: 7.7
+  significance: 7.9
+  experience: 7.8
+  depth: 7.5
+  categories:
+    culture: 8.3
+    history: 7.8
+    food: 7.5

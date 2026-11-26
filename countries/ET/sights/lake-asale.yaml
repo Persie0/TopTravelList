@@ -1,0 +1,15 @@
+id: sight-et-lake-asale
+name: "Lake Asale Salt Flats"
+location:
+  country_code: ET
+  latitude: 14.02
+  longitude: 40.42
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 8.3
+  depth: 7.7
+  categories:
+    nature: 8.9
+    photography: 9.0

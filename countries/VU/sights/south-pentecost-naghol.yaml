@@ -1,0 +1,15 @@
+id: sight-vu-south-pentecost-naghol
+name: "South Pentecost Naghol Cultural Experience"
+location:
+  country_code: VU
+  latitude: -15.94806
+  longitude: 168.19306
+scores:
+  impact: 9
+  uniqueness: 9.5
+  significance: 9
+  experience: 8.6
+  depth: 7.5
+  categories:
+    culture: 9.5
+    history: 8.7

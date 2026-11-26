@@ -1,0 +1,15 @@
+id: city-ws-salelologa
+name: "Salelologa"
+location:
+  country_code: WS
+  latitude: -13.73778
+  longitude: -172.22056
+scores:
+  impact: 6.2
+  uniqueness: 6.8
+  significance: 6.4
+  experience: 7.0
+  depth: 6.4
+  categories:
+    culture: 7.1
+    food: 7.0

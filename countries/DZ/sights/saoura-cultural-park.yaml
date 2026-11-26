@@ -1,0 +1,13 @@
+id: sight-dz-saoura-cultural-park
+name: "Saoura Cultural Park"
+location:
+  country_code: DZ
+  latitude: 30.13
+  longitude: -2.16
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

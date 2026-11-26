@@ -1,0 +1,16 @@
+id: sight-ug-mabamba-bay-wetland
+name: "Mabamba Bay Wetland System"
+location:
+  country_code: UG
+  latitude: 0.116667
+  longitude: 32.35
+scores:
+  impact: 8.6
+  uniqueness: 9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 9
+    wildlife: 9.4
+    photography: 8.7

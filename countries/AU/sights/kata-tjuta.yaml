@@ -1,0 +1,16 @@
+id: sight-au-kata-tjuta
+name: "Kata Tjuṯa"
+location:
+  country_code: AU
+  latitude: -25.3
+  longitude: 130.73
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.3
+    culture: 9.0
+    photography: 9.3

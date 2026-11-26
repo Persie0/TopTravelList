@@ -1,0 +1,16 @@
+id: city-nz-kaikoura
+name: "Kaikōura"
+location:
+  country_code: NZ
+  latitude: -42.4
+  longitude: 173.68
+scores:
+  impact: 8.2
+  uniqueness: 8.0
+  significance: 7.4
+  experience: 8.0
+  depth: 7.3
+  categories:
+    nature: 8.7
+    culture: 7.5
+    photography: 8.5

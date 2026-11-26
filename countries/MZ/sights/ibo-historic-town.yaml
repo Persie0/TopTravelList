@@ -1,0 +1,16 @@
+id: sight-mz-ibo-historic-town
+name: "Ibo Historic Town"
+location:
+  country_code: MZ
+  latitude: -12.3416
+  longitude: 40.58639
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.0
+  depth: 8.1
+  categories:
+    history: 9.2
+    architecture: 8.9
+    culture: 8.8

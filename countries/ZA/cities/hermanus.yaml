@@ -1,0 +1,15 @@
+id: city-za-hermanus
+name: "Hermanus"
+location:
+  country_code: ZA
+  latitude: -34.418
+  longitude: 19.234
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.7
+  depth: 7.7
+  categories:
+    relaxation: 8.6
+    photography: 8.6

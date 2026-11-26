@@ -2,7 +2,7 @@
 
 # Ethiopia (ET) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**8 ranked** · **0 unassessed** · **8 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,18 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (8)
 
-No cities, towns & villages have been assessed for **Ethiopia** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Harar](cities/harar.yaml) | City / town | **88.30** | **Culture 9.2**, **History 9.0**, **Architecture 8.8**, Food 8.4 | 8.8 / 9.1 / 9.0 / 8.5 / 8.4 | [9.31, 42.13](https://www.google.com/maps/search/?api=1&query=9.31,42.13) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Harar%2C%20Ethiopia) |
+| 2 | [Addis Ababa](cities/addis-ababa.yaml) | City / town | **85.30** | **Culture 8.8**, **Food 8.8**, **History 8.6**, Architecture 7.8 | 8.3 / 8.3 / 9.1 / 8.5 / 8.7 | [9.03, 38.74](https://www.google.com/maps/search/?api=1&query=9.03,38.74) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Addis%20Ababa%2C%20Ethiopia) |
+| 3 | [Gondar](cities/gondar.yaml) | City / town | **82.20** | **History 8.8**, **Architecture 8.5**, **Culture 8.2** | 8.1 / 8.4 / 8.5 / 8.0 / 7.9 | [12.6, 37.47](https://www.google.com/maps/search/?api=1&query=12.6,37.47) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gondar%2C%20Ethiopia) |
+| 4 | [Aksum](cities/aksum.yaml) | City / town | **81.00** | **History 8.8**, **Culture 8.4** | 7.9 / 8.3 / 8.7 / 7.7 / 7.6 | [14.12, 38.72](https://www.google.com/maps/search/?api=1&query=14.12,38.72) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aksum%2C%20Ethiopia) |
+| 5 | [Lalibela](cities/lalibela.yaml) | City / town | **79.55** | **Culture 8.5**, **History 8.2** | 7.8 / 8.3 / 8.3 / 7.8 / 7.1 | [12.03, 39.04](https://www.google.com/maps/search/?api=1&query=12.03,39.04) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lalibela%2C%20Ethiopia) |
+| 6 | [Bahir Dar](cities/bahir-dar.yaml) | City / town | **76.95** | **Relaxation 8.2**, **Food 7.8**, **Culture 7.7** | 7.8 / 7.5 / 7.4 / 8.2 / 7.7 | [11.59, 37.39](https://www.google.com/maps/search/?api=1&query=11.59,37.39) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bahir%20Dar%2C%20Ethiopia) |
+| 7 | [Dire Dawa](cities/dire-dawa.yaml) | City / town | **75.85** | **Culture 7.9**, **Food 7.8**, **Architecture 7.7** | 7.5 / 7.7 / 7.6 / 7.6 / 7.5 | [9.6, 41.87](https://www.google.com/maps/search/?api=1&query=9.6,41.87) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dire%20Dawa%2C%20Ethiopia) |
+| 8 | [Arba Minch](cities/arba-minch.yaml) | City / town | **73.15** | **Relaxation 7.5**, **Culture 7.3** | 7.5 / 7.3 / 7.0 / 7.6 / 7.0 | [6.04, 37.55](https://www.google.com/maps/search/?api=1&query=6.04,37.55) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arba%20Minch%2C%20Ethiopia) |
 
 ---
 

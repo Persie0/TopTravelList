@@ -1,0 +1,16 @@
+id: sight-ma-dades-gorges
+name: "Dadès Gorges"
+location:
+  country_code: MA
+  latitude: 31.50
+  longitude: -5.92
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.8

@@ -1,0 +1,16 @@
+id: city-nz-wellington
+name: "Wellington"
+location:
+  country_code: NZ
+  latitude: -41.287
+  longitude: 174.776
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 8.9
+    food: 8.6
+    history: 8.2

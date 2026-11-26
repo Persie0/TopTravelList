@@ -1,0 +1,16 @@
+id: sight-nz-milford-sound
+name: "Milford Sound / Piopiotahi"
+location:
+  country_code: NZ
+  latitude: -44.648281
+  longitude: 167.905777
+scores:
+  impact: 9.6
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.3
+  depth: 8.6
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 8.9

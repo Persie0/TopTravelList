@@ -1,0 +1,16 @@
+id: sight-ws-piula-cave-pool
+name: "Piula Cave Pool"
+location:
+  country_code: WS
+  latitude: -13.87325
+  longitude: -171.59713
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 6.8
+  experience: 8.0
+  depth: 6.8
+  categories:
+    nature: 8.0
+    relaxation: 8.0
+    photography: 7.8

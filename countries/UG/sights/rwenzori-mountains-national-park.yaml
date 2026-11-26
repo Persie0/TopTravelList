@@ -1,0 +1,16 @@
+id: sight-ug-rwenzori-mountains-national-park
+name: "Rwenzori Mountains National Park"
+location:
+  country_code: UG
+  latitude: 0.223611
+  longitude: 29.924167
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.6
+    adventure: 9.5
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-eg-qaitbay-citadel
+name: "Qaitbay Citadel"
+location:
+  country_code: EG
+  latitude: 31.214
+  longitude: 29.885
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 8.9
+    history: 9.0
+    photography: 9.0

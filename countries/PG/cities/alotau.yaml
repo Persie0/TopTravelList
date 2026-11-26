@@ -1,0 +1,13 @@
+id: city-pg-alotau
+name: "Alotau"
+location:
+  country_code: PG
+  latitude: -10.31509
+  longitude: 150.45742
+scores:
+  impact: 7.3
+  uniqueness: 7.4
+  significance: 7.1
+  experience: 7.5
+  depth: 6.9
+  categories: {}

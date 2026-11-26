@@ -1,0 +1,14 @@
+id: sight-ke-kaya-kambe
+name: "Kaya Kambe"
+location:
+  country_code: KE
+  latitude: -3.863611
+  longitude: 39.651944
+scores:
+  impact: null
+  uniqueness: null
+  significance: 8.8
+  experience: null
+  depth: null
+  categories:
+    culture: 8.9
