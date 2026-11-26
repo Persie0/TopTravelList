@@ -1,0 +1,16 @@
+id: sight-ca-bruce-peninsula-national-park
+name: "Bruce Peninsula National Park"
+location:
+  country_code: CA
+  latitude: 45.225937
+  longitude: -81.524772
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.7

@@ -3651,3 +3651,283 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial rating; earlier decision: none.
 - Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-metropolitan-museum-of-art — Metropolitan Museum of Art (Fifth Avenue) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/metropolitan-museum-of-art.yaml)
+- Action: new
+- Precise subject and factual basis: Five millennia of art at Fifth Avenue; exclude the Cloisters. [Visitor information](https://www.metmuseum.org/plan-your-visit); source excerpts inspected 2026-11-26.
+- Location check: 40.7794, -73.9631; [published reference](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Comparable encyclopedic breadth, more iconic building |
+| [GB/british-museum](../../../countries/GB/sights/british-museum.yaml) | Comparable world-historical breadth, different art emphasis |
+| [NL/rijksmuseum](../../../countries/NL/sights/rijksmuseum.yaml) | More concentrated Dutch art focus |
+| [AT/kunsthistorisches-museum](../../../countries/AT/sights/kunsthistorisches-museum.yaml) | Historic collections with narrower geographic breadth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.3 | Exceptional galleries |
+| uniqueness | 9.4 | Rare encyclopedic range |
+| significance | 9.4 | Internationally important collections |
+| experience | 9.3 | Rich thematic visits |
+| depth | 9.6 | Exceptional chronological and geographic breadth |
+
+- Applicable categories: culture:9.4, history:9.4, architecture:8.9.
+- Computed worldwide overall: 93.75/100.
+- High-score challenge: Depth 9.6: five-millennia encyclopedic range supports repeat visits, comparable with Louvre and British Museum, broader geographic coverage than Rijksmuseum. Provisional; further claim-level verification needed.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-us-american-museum-of-natural-history — American Museum of Natural History — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/american-museum-of-natural-history.yaml)
+- Action: new
+- Precise subject and factual basis: Permanent galleries, habitat dioramas, Earth and space and Gilder Center displays. [Visitor information](https://www.amnh.org/exhibitions/permanent); source excerpts inspected 2026-11-26.
+- Location check: 40.7811, -73.97421; [published reference](https://mapcarta.com/22559924); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | Comparable flagship institution |
+| [AT/natural-history-museum-vienna](../../../countries/AT/sights/natural-history-museum-vienna.yaml) | Historic collections with less immersive breadth |
+| [JP/fukui-dinosaur-museum](../../../countries/JP/sights/fukui-dinosaur-museum.yaml) | More concentrated dinosaur focus |
+| [SG/lee-kong-chian-natural-history-museum](../../../countries/SG/sights/lee-kong-chian-natural-history-museum.yaml) | Smaller biodiversity-focused institution |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Immersive displays |
+| uniqueness | 9.2 | Distinctive dioramas and gallery combination |
+| significance | 9.3 | Scientific collections and education |
+| experience | 9.2 | Varied exhibitions |
+| depth | 9.4 | Many complementary subject areas |
+
+- Applicable categories: nature:9.3, culture:9.0, family:9.3.
+- Computed worldwide overall: 92.40/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and comparative breadth; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-us-national-air-and-space-museum-dc — National Air and Space Museum (Washington, DC) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-air-and-space-museum-dc.yaml)
+- Action: new
+- Precise subject and factual basis: DC museum exhibits historic aviation and spaceflight objects; exclude Chantilly branch. [Visitor information](https://airandspace.si.edu/visit/museum-dc); source excerpts inspected 2026-11-26.
+- Location check: 38.88817, -77.0197; [published reference](https://mapcarta.com/20625102); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | Stronger launch-site context |
+| [US/dayton-aviation-heritage](../../../countries/US/sights/dayton-aviation-heritage.yaml) | More concentrated early aviation heritage |
+| [JP/kyoto-railway-museum](../../../countries/JP/sights/kyoto-railway-museum.yaml) | Different transport-history focus |
+| [GB/british-museum](../../../countries/GB/sights/british-museum.yaml) | Broader world history, different subject |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Memorable original aircraft and spacecraft |
+| uniqueness | 9.3 | Rare historic flight objects |
+| significance | 9.4 | International flight heritage |
+| experience | 9.1 | Strong exhibition-led visit |
+| depth | 9.1 | Multiple flight themes |
+
+- Applicable categories: history:9.4, culture:9.1, family:9.1.
+- Computed worldwide overall: 92.10/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and comparative breadth; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-us-national-museum-of-african-american-history-and-culture — National Museum of African American History and Culture — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml)
+- Action: new
+- Precise subject and factual basis: Smithsonian museum dedicated to African American experience; galleries separate from National Mall civic landscape. [Visitor information](https://www.si.edu/museums/african-american-museum); source excerpts inspected 2026-11-26.
+- Location check: 38.89106, -77.0327; [published reference](https://mapcarta.com/W398810868); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ZA/robben-island](../../../countries/ZA/sights/robben-island.yaml) | More concentrated historic site |
+| [US/birmingham-civil-rights-monument](../../../countries/US/sights/birmingham-civil-rights-monument.yaml) | More concentrated civil-rights heritage |
+| [JP/hiroshima-peace-memorial-museum](../../../countries/JP/sights/hiroshima-peace-memorial-museum.yaml) | Different internationally consequential history |
+| [KR/national-museum-of-korea](../../../countries/KR/sights/national-museum-of-korea.yaml) | Broader national artifact collection |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Powerful historical interpretation |
+| uniqueness | 9.2 | Distinctive comprehensive focus |
+| significance | 9.4 | Major historical and cultural significance |
+| experience | 9.1 | Meaningful curated visit |
+| depth | 9.2 | Multiple history and culture levels |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.8.
+- Computed worldwide overall: 91.65/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and comparative breadth; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-us-lincoln-memorial — Lincoln Memorial — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/lincoln-memorial.yaml)
+- Action: new
+- Precise subject and factual basis: Chamber, statue and steps, including civil-rights history (https://www.nps.gov/linc/learn/historyculture/exterior-features.htm); not whole Mall. [Visitor information](https://www.nps.gov/linc/planyourvisit/index.htm); source excerpts inspected 2026-11-26.
+- Location check: 38.889321, -77.050166; [published reference](https://www.recreation.gov/gateways/13957); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | Parent ensemble broader |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | More distinct sculptural form |
+| [US/mount-rushmore-national-memorial](../../../countries/US/sights/mount-rushmore-national-memorial.yaml) | Different presidential commemoration |
+| [JP/hiroshima-peace-memorial-park](../../../countries/JP/sights/hiroshima-peace-memorial-park.yaml) | Broader memorial landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Strong civic setting |
+| uniqueness | 8.8 | Recognizable classical memorial |
+| significance | 9.2 | Presidential and civil-rights significance |
+| experience | 8.7 | Reflective visit and vistas |
+| depth | 7.8 | Focused single memorial |
+
+- Applicable categories: history:9.2, architecture:9.0, photography:8.9.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-us-washington-monument — Washington Monument — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/washington-monument.yaml)
+- Action: new
+- Precise subject and factual basis: Obelisk and elevator observation experience, not whole Mall. [Visitor information](https://www.nps.gov/places/000/washington-monument.htm); source excerpts inspected 2026-11-26.
+- Location check: 38.889463, -77.035237; [published reference](https://www.nps.gov/wamo/planyourvisit/basicinfo.htm); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | Broader parent landscape |
+| [FR/eiffel-tower](../../../countries/FR/sights/eiffel-tower.yaml) | More distinct engineering and silhouette |
+| [CA/cn-tower](../../../countries/CA/sights/cn-tower.yaml) | Different observation experience |
+| [US/space-needle](../../../countries/US/sights/space-needle.yaml) | Different tower form and viewing decks |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Landmark scale and views |
+| uniqueness | 8.6 | Obelisk form has analogues |
+| significance | 8.8 | Important civic commemoration |
+| experience | 8.6 | Panoramic observation |
+| depth | 7.3 | Limited single monument |
+
+- Applicable categories: architecture:8.9, history:8.9, photography:8.9.
+- Computed worldwide overall: 85.40/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-us-disneyland-park-anaheim — Disneyland Park (Anaheim) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/disneyland-park-anaheim.yaml)
+- Action: new
+- Precise subject and factual basis: Original California park with themed lands and entertainment, excluding other resort facilities. [Visitor information](https://disneyexperiences.com/disneyland-press/fact/disneyland-park-fact-sheet-2/); source excerpts inspected 2026-11-26.
+- Location check: 33.812092, -117.918974; [published reference](https://www.findlatitudeandlongitude.com/l/?=loc%3DDisneyland); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [JP/tokyo-disneyland](../../../countries/JP/sights/tokyo-disneyland.yaml) | Related design with less original history |
+| [JP/tokyo-disneysea](../../../countries/JP/sights/tokyo-disneysea.yaml) | More distinctive nautical theming |
+| [NL/efteling](../../../countries/NL/sights/efteling.yaml) | Independent fairy-tale heritage |
+| [SG/universal-studios-singapore](../../../countries/SG/sights/universal-studios-singapore.yaml) | More compact film-themed park |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Immersive themed settings |
+| uniqueness | 9.1 | Original park identity |
+| significance | 8.8 | Influential entertainment-design history |
+| experience | 9.3 | Varied rides and shows |
+| depth | 9.2 | Multiple themed lands |
+
+- Applicable categories: family:9.4, culture:8.8, photography:8.8.
+- Computed worldwide overall: 90.50/100.
+- High-score challenge: 90+ supported by stated intrinsic qualities and comparative breadth; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-us-magic-kingdom-park — Magic Kingdom Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/magic-kingdom-park.yaml)
+- Action: new
+- Precise subject and factual basis: One Florida theme park with rides, themed lands and parades; exclude other parks and hotels. [Visitor information](https://disneyworld.disney.go.com/destinations/magic-kingdom/); source excerpts inspected 2026-11-26.
+- Location check: 28.41909, -81.58143; [published reference](https://mapcarta.com/Walt_Disney_World/Magic_Kingdom); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [JP/tokyo-disneyland](../../../countries/JP/sights/tokyo-disneyland.yaml) | Related park design |
+| [JP/tokyo-disneysea](../../../countries/JP/sights/tokyo-disneysea.yaml) | More unusual nautical setting |
+| [NL/efteling](../../../countries/NL/sights/efteling.yaml) | Distinct fairy-tale identity |
+| [JP/universal-studios-japan](../../../countries/JP/sights/universal-studios-japan.yaml) | Different film-themed experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Memorable themed settings |
+| uniqueness | 8.7 | Shares concepts with other Disney parks |
+| significance | 8.5 | Influential design history |
+| experience | 9.3 | Varied attractions |
+| depth | 9.2 | Multiple themed areas |
+
+- Applicable categories: family:9.4, culture:8.5, photography:8.8.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.

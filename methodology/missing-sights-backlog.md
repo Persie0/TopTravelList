@@ -52,11 +52,23 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] US — Niagara Falls State Park (US side): 90.90/100 (source-linked, full verification pending)
 - [x] US — Space Needle: 84.90/100 (source-linked, full verification pending)
 
+- [x] US — Metropolitan Museum of Art (Fifth Avenue): 93.75/100 (source-linked, full verification pending)
+- [x] US — American Museum of Natural History: 92.40/100 (source-linked, full verification pending)
+- [x] US — National Air and Space Museum (Washington, DC): 92.10/100 (source-linked, full verification pending)
+- [x] US — National Museum of African American History and Culture: 91.65/100 (source-linked, full verification pending)
+- [x] US — Lincoln Memorial: 87.95/100 (source-linked, full verification pending)
+- [x] US — Washington Monument: 85.40/100 (source-linked, full verification pending)
+- [x] US — Disneyland Park (Anaheim): 90.50/100 (source-linked, full verification pending)
+- [x] US — Magic Kingdom Park: 88.60/100 (source-linked, full verification pending)
+- [x] CA — Bruce Peninsula National Park: 85.65/100 (source-linked, full verification pending)
+- [x] CA — Fundy National Park: 88.20/100 (source-linked, full verification pending)
+- [x] CA — Cape Breton Highlands National Park: 86.80/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
 - [ ] US: Canyon de Chelly National Monument (rim overlooks and guided canyon visits; [NPS FAQ](https://www.nps.gov/cach/faqs.htm)); Antelope Canyon X (distinct guided route; [Navajo Nation tour operators](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)); verify separate scope and coordinates before scoring.
 - [ ] US further park review: Valles Caldera National Preserve (caldera, wildlife and hiking; [NPS published coordinates](https://www.nps.gov/articles/parks-in-space.htm), [hiking](https://www.nps.gov/vall/planyourvisit/hiking.htm); no existing US ranking row); Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
-- [ ] CA: Auyuittuq; Bruce Peninsula; Cape Breton Highlands; Fundy; Mingan Archipelago; Pacific Rim; Sable Island; Thousand Islands; Torngat Mountains; Wapusk; Hopewell Rocks; Churchill wildlife experiences; Bay of Fundy visitor coastline.
+- [ ] CA: Auyuittuq; Mingan Archipelago; Pacific Rim ([Parks Canada hiking source](https://www.parcs.canada.ca/pn-np/bc/pacificrim/activ/randonnee-hiking); verify representative point and multi-unit scope); Sable Island; Thousand Islands; Torngat Mountains; Wapusk; Hopewell Rocks; Churchill wildlife experiences; Bay of Fundy visitor coastline.
 - [ ] CA further park review: Akami-Uapishk–KakKasuak–Mealy Mountains; Aulavik; Elk Island; Forillon; Georgian Bay Islands; Glacier; Grasslands; Gulf Islands; Kejimkujik; Kouchibouguac; La Mauricie; Mount Revelstoke; Nááts'įhch'oh; Point Pelee; Prince Albert; Prince Edward Island; Pukaskwa; Qausuittuq; Riding Mountain; Terra Nova; Thaidene Nëné; Tuktut Nogait; Ukkusiksalik. [Parks Canada](https://www.parks.canada.ca/pn-np).
 - [ ] AU: Karijini, Wilsons Promontory, Freycinet/Wineglass Bay, Flinders Chase, Kalbarri, Grampians/Gariwerd, Whitehaven Beach, Whitsundays, Phillip Island Penguin Parade, kunanyi, Rottnest, Cable Beach, Blue Lake Mount Gambier.
 - [ ] NZ: Doubtful Sound, Cathedral Cove, Hooker Valley Track, Moeraki Boulders, Kaikōura marine wildlife, Roys Peak, Bay of Islands, Te Puia, Whakarewarewa Living Māori Village, Hell's Gate, Waimangu, Mokoia Island, Polynesian Spa, Kaituna River, Rotorua Canopy Tours, Whakarewarewa Forest, Mount Ngongotahā.
@@ -69,7 +81,7 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 ## Outstanding cultural and urban coverage
 
 - [ ] All 20 source-supported candidates and wider country queues in [pass 3](missing-sights-audit-pass3-2026-11-26.md).
-- [ ] US: Times Square, Las Vegas Strip, individual Disney/Universal parks; assess distinct National Mall memorials and Smithsonian museums, and separate Apollo/Saturn V Center only after nested-scope review.
+- [ ] US: Times Square, Las Vegas Strip, remaining individual Disney/Universal parks (EPCOT, Animal Kingdom, Hollywood Studios, California Adventure, Universal parks); assess additional distinct National Mall memorials and Smithsonian museums, and separate Apollo/Saturn V Center only after nested-scope review.
 - [ ] CA: Capilano, Parliament Hill, Toronto Islands, Old Montreal, Notre-Dame Basilica.
 - [ ] EG: Cairo Citadel, Muhammad Ali Mosque, Al-Azhar, Dahab Blue Hole; MA: Jemaa el-Fnaa, Chefchaouen individual attractions; RO: Peleș Castle; RU: Catherine Palace, Saint Isaac's Cathedral; GB: White Cliffs of Dover, Buckingham Palace, Harry Potter Studio Tour; FR: Disneyland Paris, Les Baux castle; DE: Rakotzbrücke; IT: Blue Grotto; PT: Oceanário, National Tile Museum; PS: Church of Nativity; IL/PS: Western Wall (resolve geographic registry convention first).
 - [ ] PA: Casco Viejo exact scope; PR: Old San Juan vs fortifications; MP: Banzai Cliff; IR: Shahdad Kaluts vs Lut Desert; MS: Soufrière Hills visitor scope; PH: Banaue rice terraces alias/component scope.
@@ -82,4 +94,4 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for forty-three additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for fifty-four additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.

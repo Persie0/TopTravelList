@@ -1808,3 +1808,108 @@ Four formerly unranked parks have documented authorized visitor experiences; Ivv
 
 ### Further component coverage (2026-11-25)
 All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent serial property remains unranked because there is no coherent ordinary whole-property visit. Forty Mile remains documented as closed in [Yukon government conservation update](https://yukon.ca/en/news/community-engagement-begins-chedahdek-forty-mile-historic-site-conservation-plan); no re-opening evidence checked here.
+
+
+### sight-ca-bruce-peninsula-national-park — Bruce Peninsula National Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/bruce-peninsula-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Georgian Bay shore and Grotto; exclude adjacent marine park. Cyprus Lake access GPS. [Visitor information](https://parks.canada.ca/pn-np/on/bruce/visit); source excerpts inspected 2026-11-26.
+- Location check: 45.225937, -81.524772; [published reference](https://parks.canada.ca/pn-np/on/bruce/visit); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | Longer coastal paths |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Different Atlantic coastline |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | Broader mountain and coast mix |
+| [CA/banff-national-park](../../../countries/CA/sights/banff-national-park.yaml) | More outstanding alpine scenery |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Clear-water rocky shoreline |
+| uniqueness | 8.5 | Comparable coastal caves exist |
+| significance | 8.3 | Coastal ecology and geology |
+| experience | 8.8 | Varied shore walking |
+| depth | 8.5 | Distinct shoreline areas |
+
+- Applicable categories: nature:8.9, photography:9.0, adventure:8.7.
+- Computed worldwide overall: 85.65/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-ca-fundy-national-park — Fundy National Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/fundy-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Extreme tidal range, Acadian forest and waterfall trails; not entire Bay of Fundy. Headquarters visitor centre GPS. [Visitor information](https://parks.canada.ca/pn-np/nb/fundy/nature); source excerpts inspected 2026-11-26.
+- Location check: 45.595575, -64.950832; [published reference](https://parks.canada.ca/pn-np/nb/fundy/visit/centre); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More continuous cliff paths |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | Different coast and mountain mix |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | Greater ecosystem diversity |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Longer coastline, different tidal character |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Dramatic tidal changes and forest |
+| uniqueness | 9.0 | Exceptional tidal range |
+| significance | 8.8 | Coastal and forest ecology |
+| experience | 8.8 | Tidal-flat visits and trails |
+| depth | 8.8 | Coastal and inland trail breadth |
+
+- Applicable categories: nature:9.1, photography:8.9, adventure:8.7.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-ca-cape-breton-highlands-national-park — Cape Breton Highlands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/cape-breton-highlands-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Coastal highlands, Cabot Trail sections and Skyline hiking; exclude rest of island. Chéticamp visitor centre GPS. [Visitor information](https://parks.canada.ca/pn-np/ns/cbreton/activ/randonnee-hiking/skyline); source excerpts inspected 2026-11-26.
+- Location check: 46.646414, -60.950784; [published reference](https://parks.canada.ca/pn-np/ns/cbreton/visit/directions); representative point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and coordinates inspected; complete independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/cairngorms](../../../countries/GB/sights/cairngorms.yaml) | More inland mountain character |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More continuous coast walking |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | Compact coast and forests |
+| [CA/gros-morne-national-park](../../../countries/CA/sights/gros-morne-national-park.yaml) | More distinctive geology and fjord |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Highland coastal vistas |
+| uniqueness | 8.5 | Global coastal analogues |
+| significance | 8.5 | Protected highland ecology |
+| experience | 8.9 | Scenic drives and hiking |
+| depth | 8.8 | Coast and upland paths |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.8.
+- Computed worldwide overall: 86.80/100.
+- High-score challenge: Below 90 overall; no 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: independent corroboration and current visitor access checks.
