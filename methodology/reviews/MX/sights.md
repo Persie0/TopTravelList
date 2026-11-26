@@ -4242,3 +4242,193 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-mx-copper-canyon-divisadero — Copper Canyon (Divisadero) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/copper-canyon-divisadero.yaml)
+- Action: new
+- Precise subject: Divisadero and nearby accessible canyon rim viewpoints and paths; excludes full Sierra Tarahumara and Chepe rail journey.
+- Location check: 27.53468, -107.82296; [representative point](https://mapcarta.com/N1662486536), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Chihuahua tourism identifies three converging ravines, station viewpoints and nearby adventure park; Visit Mexico describes guided walks and cable-car access (https://visitmexico.com/es/itinerario/254/rutas-del-aficionado-2026-los-mochis-barrancas-del-cobre-espectacular). [Visitor reference](https://www.visitachihuahua.mx/en/divisadero); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | 10.0 / 9.7 / 9.6 / 9.4 / 9.6 | World-leading canyon scale and park breadth. |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | Comparable panoramas; broader trail network. |
+| [MX/sumidero-canyon](../../../countries/MX/sights/sumidero-canyon.yaml) | 9.0 / 8.7 / 8.4 / 8.8 / 8.3 | River experience rather than broad rim panorama. |
+| [CA/johnston-canyon](../../../countries/CA/sights/johnston-canyon.yaml) | 8.6 / 8.3 / 7.5 / 8.9 / 8.0 | Smaller and more bounded gorge walk. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Immense canyon panoramas |
+| Uniqueness | 9.1 | distinctive converging ravines |
+| Significance | 8.9 | important regional natural and cultural landscape without claiming world records |
+| Experience | 9.0 | viewpoints and permitted activities offer meaningful access |
+| Depth | 9.1 | multiple rim viewpoints give considerable depth. |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:9.3.
+- Computed worldwide overall: 91.35/100.
+- High-score challenge: Above 90 due to documented specific scope and distinct strengths; below broader world-leading peers as compared above. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-hierve-el-agua — Hierve el Agua (Petrified Waterfalls) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/hierve-el-agua.yaml)
+- Action: new
+- Precise subject: Mineral formations, spring-fed pools and accessible cliff viewpoints; swimming access not guaranteed.
+- Location check: 16.865519, -96.276004; [representative point](https://en.wikipedia.org/wiki/Hierve_el_Agua), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Oaxaca tourism describes two mineral formations resembling waterfalls, natural pools and archaeological interest. Coordinates identify the feature. [Visitor reference](https://www.oaxaca.travel/index.php/en-us/all-destinations/hierve-el-agua-en); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/hierapolis-pamukkale](../../../countries/TR/sights/hierapolis-pamukkale.yaml) | 9.4 / 9.3 / 9.1 / 8.9 / 8.9 | More extensive mineral terraces and ancient ruins. |
+| [MX/las-pozas-xilitla](../../../countries/MX/sights/las-pozas-xilitla.yaml) | 8.8 / 9.0 / 8.4 / 8.7 / 8.0 | Designed architecture rather than natural mineral formations. |
+| [SI/rakov-skocjan](../../../countries/SI/sights/rakov-skocjan.yaml) | 8.9 / 9.0 / 8.6 / 8.7 / 8.4 | Different karst processes and valley walks. |
+| [ID/jomblang-cave](../../../countries/ID/sights/jomblang-cave.yaml) | 8.9 / 9.2 / 8.0 / 9.0 / 7.9 | Comparable focused geological spectacle. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Striking cliffside travertine formations |
+| Uniqueness | 9.3 | unusual frozen-waterfall appearance |
+| Significance | 8.7 | archaeological and geological interest narrower than major heritage ensembles |
+| Experience | 8.8 | viewpoints and pools offer rewarding permitted visits |
+| Depth | 8.2 | bounded terrain limits depth. |
+
+- Applicable categories: nature:9.2, photography:9.4, history:8.5.
+- Computed worldwide overall: 89.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-cenote-dos-ojos — Cenote Dos Ojos — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/cenote-dos-ojos.yaml)
+- Action: new
+- Precise subject: Two named Dos Ojos openings and authorized visitor routes; excludes Jaguar, Nicte Ha and wider connected cave system.
+- Location check: 20.32473, -87.39061; [representative point](https://mapcarta.com/N732995989), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Regional tourism identifies Dos Ojos north of Tulum; excursion provider describes guided snorkeling and qualified-diver cavern routes (https://cenotedosojos.mx/es/). [Visitor reference](https://mexicancaribbean.travel/destinations/tulum); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [VN/tu-lan-cave-system](../../../countries/VN/sights/tu-lan-cave-system.yaml) | 9.2 / 9.4 / 8.7 / 9.1 / 9.2 | Larger documented multi-cave trekking scope. |
+| [SI/postojna-cave](../../../countries/SI/sights/postojna-cave.yaml) | 9.4 / 9.3 / 9.1 / 9.3 / 9.0 | Greater underground gallery scale. |
+| [ID/rangko-cave](../../../countries/ID/sights/rangko-cave.yaml) | 8.6 / 8.8 / 7.0 / 8.8 / 7.5 | Comparable clear-water cavern. |
+| [MX/xel-ha-park](../../../countries/MX/sights/xel-ha-park.yaml) | 8.8 / 8.9 / 7.9 / 9.1 / 8.8 | Broader recreation rather than focused karst experience. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Clear water and limestone chambers create striking scenery |
+| Uniqueness | 9.1 | twin openings and underwater formations distinguish it |
+| Significance | 8.3 | significant karst interest but not scored as entire cave system |
+| Experience | 9.0 | guided permitted snorkeling provides rewarding experience |
+| Depth | 8.5 | two openings and bounded routes provide depth. |
+
+- Applicable categories: nature:9.1, adventure:9.2, photography:9.0.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-gran-cenote — Gran Cenote (Tulum) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/gran-cenote.yaml)
+- Action: new
+- Precise subject: Single named cenote and permitted surface/cavern visitor areas; excludes other entrances to wider cave system.
+- Location check: 20.24656, -87.46411; [representative point](https://mapcarta.com/N976101133), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Regional tourism lists Gran Cenote near Tulum; dive-site guide describes clear cavern water and natural light (https://diveoneclub.com/en/dive-sites/gran-cenote-tulum). [Visitor reference](https://mexicancaribbean.travel/destinations/tulum); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SI/postojna-cave](../../../countries/SI/sights/postojna-cave.yaml) | 9.4 / 9.3 / 9.1 / 9.3 / 9.0 | Larger visitor route and geological interpretation. |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | 8.9 / 9.4 / 8.1 / 9.0 / 7.6 | Distinctive biological phenomenon. |
+| [ID/rangko-cave](../../../countries/ID/sights/rangko-cave.yaml) | 8.6 / 8.8 / 7.0 / 8.8 / 7.5 | Comparable focused clear-water cavern. |
+| [MX/cenote-dos-ojos](../../../countries/MX/sights/cenote-dos-ojos.yaml) | 8.9 / 9.1 / 8.3 / 9.0 / 8.5 | More varied openings and authorized routes. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Clear pools and cavern light create memorable impact |
+| Uniqueness | 8.7 | attractive karst opening with regional analogues |
+| Significance | 8.0 | geological interest assessed for this entrance only |
+| Experience | 8.9 | permitted water-based visits offer strong experience |
+| Depth | 7.8 | bounded visitor area limits exploration. |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.7.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-cenote-ik-kil — Cenote Ik Kil — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/cenote-ik-kil.yaml)
+- Action: new
+- Precise subject: Single sinkhole and permitted swimming/viewing areas; distinct from Chichén Itzá's Sacred Cenote and archaeological zone.
+- Location check: 20.66106, -88.55051; [representative point](https://mapcarta.com/39771308), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator documents swimming, lifejacket requirements and hanging roots; map locates it separately from Sacred Cenote. Religious history claims need corroboration. [Visitor reference](https://cenoteikkil.com/cenote/); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ID/jomblang-cave](../../../countries/ID/sights/jomblang-cave.yaml) | 8.9 / 9.2 / 8.0 / 9.0 / 7.9 | Different descent and cave light experience. |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | 8.9 / 9.4 / 8.1 / 9.0 / 7.6 | Stronger biological distinctiveness. |
+| [MX/gran-cenote](../../../countries/MX/sights/gran-cenote.yaml) | 8.7 / 8.7 / 8.0 / 8.9 / 7.8 | More varied cavern and pool spaces. |
+| [MX/cenote-dos-ojos](../../../countries/MX/sights/cenote-dos-ojos.yaml) | 8.9 / 9.1 / 8.3 / 9.0 / 8.5 | Deeper authorized exploration. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Circular open sinkhole and hanging vegetation produce dramatic impact |
+| Uniqueness | 8.9 | distinctive composition but related cenotes exist |
+| Significance | 8.0 | geological significance without inherited Chichén Itzá history |
+| Experience | 8.7 | permitted swimming and viewing reward short visits |
+| Depth | 7.3 | one principal pool limits depth. |
+
+- Applicable categories: nature:9.0, photography:9.3, relaxation:8.7.
+- Computed worldwide overall: 85.30/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

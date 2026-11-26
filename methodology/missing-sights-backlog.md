@@ -306,3 +306,15 @@ Six additions, 24 peer comparisons. Primary visitor sources and published repres
 - [x] MX — Bacalar Lagoon (Lagoon of Seven Colours): 89.00/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons. Primary visitor references and published coordinates inspected. Butchart uses operator GPS rather than conflicting GeoNames point. Granville Island is a peninsula; lexical Island classification retained pending generator repair. Xplor distinct mapped footprint from Xcaret; Xel-Há excludes ruins; Bacalar excludes town and individual cenotes. Existing ratings unchanged; full Python validation and diagnostics pending. Next: Copper Canyon, Hierve el Agua, major cenotes and remaining US urban landmarks.
+
+
+### Pass 31 — Mexican karst and canyon sites; MoMA
+
+- [x] MX — Copper Canyon (Divisadero): 91.35/100 (source-linked-unverified).
+- [x] MX — Hierve el Agua (Petrified Waterfalls): 89.65/100 (source-linked-unverified).
+- [x] MX — Cenote Dos Ojos: 88.05/100 (source-linked-unverified).
+- [x] MX — Gran Cenote (Tulum): 85.00/100 (source-linked-unverified).
+- [x] MX — Cenote Ik Kil: 85.30/100 (source-linked-unverified).
+- [x] US — Museum of Modern Art (MoMA, New York): 93.55/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons. Peer dimensions drawn from country ranking tables or same-batch assessments; complete source YAML cross-check pending. Divisadero scoped to accessible canyon rim, cenotes to named openings and permitted areas; no full cave-system significance inherited. Hierve el Agua is travertine, not a flowing waterfall; lexical type remains a limitation. MoMA excludes PS1. No existing ratings changed. Full Python validation and diagnostics pending. Next: US urban and cultural omissions, including Times Square, Art Institute of Chicago, Getty Center and other independently visitable landmarks.

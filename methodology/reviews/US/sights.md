@@ -3967,3 +3967,41 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-us-museum-of-modern-art-new-york — Museum of Modern Art (MoMA, New York) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/museum-of-modern-art-new-york.yaml)
+- Action: new
+- Precise subject: Midtown Manhattan museum's permanent and changing galleries; excludes MoMA PS1.
+- Location check: 40.76161, -73.97755; [representative point](https://mapcarta.com/22602100), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: MoMA describes nearly 200,000 modern and contemporary works including The Starry Night; visitor itinerary identifies collection highlights (https://www.moma.org/visit/itineraries/unmissables). Display rotation applies. [Visitor reference](https://www.moma.org/collection/); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | 9.6 / 9.6 / 9.8 / 9.4 / 9.8 | Broader chronological and geographic holdings. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | Larger encyclopedic breadth versus concentrated modern art. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.1 | Singular Spanish modernist anchors versus wider international coverage. |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.8 / 9.0 | Distinct Asian visual-culture focus versus established modernist anchors. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Canonical modern artworks provide exceptional artistic impact |
+| Uniqueness | 9.4 | concentration of defining modern and contemporary works is difficult to substitute |
+| Significance | 9.4 | collections have international art-historical importance |
+| Experience | 9.3 | varied galleries reward sustained visits |
+| Depth | 9.4 | multiple media and periods give extensive depth. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:8.6.
+- Computed worldwide overall: 93.55/100.
+- High-score challenge: Above 90 due to documented specific scope and distinct strengths; below broader world-leading peers as compared above. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
