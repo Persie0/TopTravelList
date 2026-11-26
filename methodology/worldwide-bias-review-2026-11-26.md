@@ -304,3 +304,20 @@ Five records reviewed against specific sources and worldwide peers. Three former
 | The Rise of Systematic Biology (Swedish tentative components) | unranked | 85.85 | completed |
 | David Gareji Monasteries and Hermitage | unranked | unranked | unranked retained |
 | East Atlantic Flyway: England East Coast Wetlands (tentative) | unranked | unranked | unranked retained |
+
+## Seventh pass — Italian incomplete-core review
+
+Ten individual decisions: nine missing-core profiles completed; one retained unranked due to overlapping Asinara visitor scope. Source excerpts inspected; independent full-text checks and GPS remain outstanding. Original coordinates and categories retained, no new 10 anchors. Remaining Italian incomplete queue: 14 records after regeneration.
+
+| Destination ID suffix | Result | Decision |
+| --- | ---: | --- |
+| sacri-monti | 89.75 | completed |
+| longobards | 90.40 | completed |
+| medici-villas | 91.20 | completed |
+| venetian-defences | 89.95 | completed |
+| via-appia | 90.70 | completed |
+| via-francigena | 90.20 | completed |
+| evaporitic-karst | 89.75 | completed |
+| domus-de-janas | 88.80 | completed |
+| pelagos | 89.00 | completed |
+| asinara-island | unranked | retained unranked |
