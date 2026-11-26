@@ -5,12 +5,12 @@ A complete numeric rating is not proof of independent fact-checking.
 Historical dispositions are retained verbatim; overlapping scopes still require editorial review.
 
 - Current source records: **16,269**
-- Complete core ratings: **15,280**
-- All incomplete core ratings: **989**
-- Original inventory resolved: **601 / 1,590**
-- Original inventory still incomplete: **989**
+- Complete core ratings: **15,285**
+- All incomplete core ratings: **984**
+- Original inventory resolved: **606 / 1,590**
+- Original inventory still incomplete: **984**
 - Incomplete outside original inventory: **0**
-- Complete records historically labeled deferred or retain unranked: **510**
+- Complete records historically labeled deferred or retain unranked: **515**
 
 Use [remaining.tsv](remaining.tsv) as the current research queue.
 Use [original-inventory.tsv](original-inventory.tsv) to reconcile historical labels.
@@ -29,7 +29,7 @@ The latter does not change historical review decisions or certify public access.
 | SS | 23 |
 | RU | 21 |
 | ML | 20 |
-| MX | 20 |
+| MX | 19 |
 | NE | 19 |
 | KP | 18 |
 | VC | 18 |
@@ -72,9 +72,7 @@ The latter does not change historical review decisions or certify public access.
 | CG | 6 |
 | CU | 6 |
 | ER | 6 |
-| ES | 6 |
 | ET | 6 |
-| RO | 6 |
 | TF | 6 |
 | TZ | 6 |
 | ZA | 6 |
@@ -84,10 +82,12 @@ The latter does not change historical review decisions or certify public access.
 | LS | 5 |
 | MW | 5 |
 | PA | 5 |
+| RO | 5 |
 | SR | 5 |
 | ZM | 5 |
 | CR | 4 |
 | EH | 4 |
+| ES | 4 |
 | GD | 4 |
 | IS | 4 |
 | KW | 4 |
@@ -125,7 +125,6 @@ The latter does not change historical review decisions or certify public access.
 | BZ | 2 |
 | CK | 2 |
 | EE | 2 |
-| FI | 2 |
 | FJ | 2 |
 | FM | 2 |
 | GT | 2 |
@@ -158,6 +157,7 @@ The latter does not change historical review decisions or certify public access.
 | CX | 1 |
 | DJ | 1 |
 | DZ | 1 |
+| FI | 1 |
 | GH | 1 |
 | GM | 1 |
 | GR | 1 |
@@ -194,18 +194,18 @@ The latter does not change historical review decisions or certify public access.
 
 | Dimension | Missing |
 | --- | ---: |
-| depth | 982 |
-| experience | 989 |
-| impact | 680 |
-| significance | 90 |
-| uniqueness | 168 |
+| depth | 977 |
+| experience | 984 |
+| impact | 679 |
+| significance | 89 |
+| uniqueness | 167 |
 
 ## Original batches
 
 | Batch | Complete now | Incomplete now |
 | --- | ---: | ---: |
-| worldwide-incomplete-batch-100-2026-11-26.md | 38 | 62 |
-| worldwide-incomplete-batch-100-pass10-2026-11-26.md | 68 | 32 |
+| worldwide-incomplete-batch-100-2026-11-26.md | 41 | 59 |
+| worldwide-incomplete-batch-100-pass10-2026-11-26.md | 70 | 30 |
 | worldwide-incomplete-batch-100-pass11-2026-11-26.md | 47 | 53 |
 | worldwide-incomplete-batch-100-pass12-2026-11-26.md | 30 | 70 |
 | worldwide-incomplete-batch-100-pass13-2026-11-26.md | 70 | 30 |
