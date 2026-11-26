@@ -261,3 +261,34 @@ Seven named gardens in China, Japan and South Africa reassessed against four spe
 | Kirstenbosch National Botanical Garden | 90.15 | 90.15 | retained |
 
 Cumulative: 26 score revisions and three additional retained garden decisions; earlier Gornergrat retain decision also remains. Diagnostic and generated ranking files must be refreshed before merging.
+
+## Fifth correction pass — complete initial small-scope queue
+
+Reviewed the 22 remaining flags in the refreshed 28-item queue (the other six already have garden or Gornergrat decisions). Six rescores and 16 retained ratings. All 36 original small-scope flags now have individual decisions across passes 3–5, including records still above 90. This closes the scope-heuristic queue, not the entire worldwide editorial or incomplete-core queue. Sources checked at excerpt level only. No country multiplier or new perfect score.
+
+| Destination | Before | After | Decision |
+| --- | ---: | ---: | --- |
+| Registan | 96.15 | 96.15 | retained |
+| Sistine Chapel | 95.70 | 95.70 | retained |
+| Nongriat Double Decker Living Root Bridge | 94.60 | 90.75 | revised |
+| Saint Peter's Square | 94.25 | 92.35 | revised |
+| Tower of London | 93.75 | 93.75 | retained |
+| Shravanabelagola Bahubali Statue | 93.75 | 91.70 | revised |
+| Saint Mark's Basilica and square | 93.50 | 93.50 | retained |
+| Eiffel Tower | 93.30 | 93.30 | retained |
+| Walled City of Baku | 93.05 | 93.05 | retained |
+| Patan Durbar Square | 92.90 | 92.90 | retained |
+| Kremlin and Red Square | 92.85 | 92.85 | retained |
+| Historic Centre of Oporto | 92.45 | 92.45 | retained |
+| Lumbini Sacred Garden | 92.30 | 90.50 | revised |
+| Jerónimos Monastery and Belém Tower | 92.15 | 92.15 | retained |
+| Bhaktapur Durbar Square | 92.10 | 92.10 | retained |
+| Kathmandu Durbar Square | 92.05 | 92.05 | retained |
+| Guangji Bridge | 91.15 | 89.10 | revised |
+| Old Town Square Prague | 90.70 | 89.25 | revised |
+| Mostar Old Bridge Area | 90.60 | 90.60 | retained |
+| Garden Kingdom of Dessau-Wörlitz | 90.40 | 90.40 | retained |
+| Kröller-Müller Museum and sculpture garden | 90.25 | 90.25 | retained |
+| Garden Route National Park | 90.25 | 90.25 | retained |
+
+The total number of score revisions in the worldwide PR is now 32. Generated files require regeneration.
