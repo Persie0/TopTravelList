@@ -2119,3 +2119,150 @@ All eight Hopewell components are now accounted for: seven individual visitor re
 
 ### Further component coverage (2026-11-25)
 UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes the contiguous park, Kin Bineola, Kin Ya'a, Pueblo Pintado, Aztec Ruins, Casamero, Kin Nizhoni, Pierre’s site, Twin Angels and Halfway House. Four now have public YAML entries. Kin Bineola and Kin Ya'a are explicitly closed per [NPS outliers](https://www.nps.gov/chcu/planyourvisit/outliers.htm); the other four lack verified ordinary public access. NPS also includes Salmon Ruins in its designation narrative, whereas UNESCO's map does not separately list it; rated as a public outlier, not asserted to be a separate component.
+
+### sight-us-bryce-canyon-national-park — Bryce Canyon National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/bryce-canyon-national-park.yaml)
+- Action: new
+- Precise subject and checked factual claims: NPS describes hoodoo viewpoints and amphitheater access. Whole park, not one overlook. [NPS source](https://www.nps.gov/brca/planyourvisit/viewpoints.htm), accessed 2026-11-26.
+- Location check: 37.64, -112.17; [NPS representative coordinates](https://home.nps.gov/brca/planyourvisit/directions.htm), rounded where needed, not an entrance claim.
+- Evidence status: **fact-checked** (material claims from one primary authority; secondary corroboration outstanding; numerical scores editorial).
+- Missing or uncertain facts: current access and secondary corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater continuous canyon scale |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | Similar sandstone but isolated arches rather than hoodoo clusters |
+| [TR/cappadocia](../../../countries/TR/sights/cappadocia.yaml) | Related spires with more cultural heritage |
+| [MG/tsingy-de-bemaraha](../../../countries/MG/sights/tsingy-de-bemaraha.yaml) | Different pinnacled limestone with more unusual traversal |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.4 | Dense hoodoo panorama, below Grand Canyon scale |
+| uniqueness | 9.3 | Unusual clustered spires; related forms elsewhere |
+| significance | 8.4 | Strong geological interest, less stratigraphic breadth than Grand Canyon |
+| experience | 9.1 | Rim and amphitheater routes offer varied views |
+| depth | 8.5 | Good trail depth, less varied than Canyonlands |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:8.8.
+- Computed worldwide overall: 90.40/100.
+- High-score challenge: Above 90 based on the specifically described scenic distinctiveness and exploration; remains below Grand Canyon/Yosemite. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: Include on individual merits. Provisional editorial score.
+- Earlier decision: none.
+- Verification still needed: secondary corroboration and current visitor access.
+
+
+### sight-us-canyonlands-national-park — Canyonlands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/canyonlands-national-park.yaml)
+- Action: new
+- Precise subject and checked factual claims: NPS describes four districts, river-separated canyons, mesas and overlooks; entire park, excluding neighboring Arches. [NPS source](https://www.nps.gov/cany/planyourvisit/placestogo.htm), accessed 2026-11-26.
+- Location check: 38.24556, -109.88016; [NPS representative coordinates](https://www.nps.gov/articles/parks-in-space.htm), rounded where needed, not an entrance claim.
+- Evidence status: **fact-checked** (material claims from one primary authority; secondary corroboration outstanding; numerical scores editorial).
+- Missing or uncertain facts: current access and secondary corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater single-chasm impact |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | More signature arches, less district variety |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | Sandstone towers and cultural routes rather than deep river canyons |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Greener canyon landscape, less desert exploration |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Extensive branching canyon views, below Grand Canyon's singular impact |
+| uniqueness | 9.0 | Distinct river-separated plateaus, with related Colorado Plateau geology |
+| significance | 8.5 | Substantial geological and human history, not a global benchmark |
+| experience | 8.8 | Rewarding overlooks and hikes; separate districts require more travel |
+| depth | 9.1 | Four districts and backcountry routes offer broad exploration |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.2.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: Include on individual merits. Provisional editorial score.
+- Earlier decision: none.
+- Verification still needed: secondary corroboration and current visitor access.
+
+
+### sight-us-death-valley-national-park — Death Valley National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/death-valley-national-park.yaml)
+- Action: new
+- Precise subject and checked factual claims: NPS describes salt flats, dunes and Ubehebe Crater hikes; whole park, not one salt-flat viewpoint. [NPS source](https://www.nps.gov/deva/planyourvisit/hiking.htm), accessed 2026-11-26.
+- Location check: 36.48754, -117.1344; [NPS representative coordinates](https://www.nps.gov/articles/parks-in-space.htm), rounded where needed, not an entrance claim.
+- Evidence status: **fact-checked** (material claims from one primary authority; secondary corroboration outstanding; numerical scores editorial).
+- Missing or uncertain facts: current access and secondary corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NA/namib-sand-sea](../../../countries/NA/sights/namib-sand-sea.yaml) | Stronger uninterrupted dune landscape, less varied desert forms |
+| [BO/salar-de-uyuni](../../../countries/BO/sights/salar-de-uyuni.yaml) | Greater continuous salt-flat scale |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | Sandstone cliffs and cultural routes rather than climatic extremes |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater singular panorama; Death Valley has desert-specific variety |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Contrasting salt flats, dunes and stark mountains |
+| uniqueness | 9.3 | Unusual below-sea-level desert basin and landform combination |
+| significance | 9.0 | Important climatic and geological extremes |
+| experience | 8.8 | Distinct drives and walks, with route-specific limitations |
+| depth | 9.1 | Salt flats, craters, dunes and mountain routes provide variety |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.
+- Computed worldwide overall: 90.85/100.
+- High-score challenge: Above 90 based on the specifically described scenic distinctiveness and exploration; remains below Grand Canyon/Yosemite. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: Include on individual merits. Provisional editorial score.
+- Earlier decision: none.
+- Verification still needed: secondary corroboration and current visitor access.
+
+
+### sight-us-grand-teton-national-park — Grand Teton National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/grand-teton-national-park.yaml)
+- Action: new
+- Precise subject and checked factual claims: NPS describes the fault-block range, glacial lakes and Snake River valley; excludes Yellowstone and Jackson town. [NPS source](https://home.nps.gov/articles/nps-geodiversity-atlas-grand-teton-national-park-wyoming.htm), accessed 2026-11-26.
+- Location check: 43.81854, -110.70547; [NPS representative coordinates](https://www.nps.gov/articles/parks-in-space.htm), rounded where needed, not an entrance claim.
+- Evidence status: **fact-checked** (material claims from one primary authority; secondary corroboration outstanding; numerical scores editorial).
+- Missing or uncertain facts: current access and secondary corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CL/torres-del-paine-national-park](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | More distinctive Patagonian towers and glaciers |
+| [CA/banff-national-park](../../../countries/CA/sights/banff-national-park.yaml) | Comparable alpine lakes; Teton has cohesive abrupt skyline |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | Greater high-alpine glacial specialization |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | More extensive glacial valleys, similarly dramatic mountain routes |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.3 | Sharp peaks above lakes and valley form a striking skyline |
+| uniqueness | 8.8 | Distinct fault-block range but comparable alpine landscapes exist |
+| significance | 8.7 | Ancient rock and glacial geology merit high significance |
+| experience | 9.1 | Lake, mountain and valley routes offer varied experience |
+| depth | 9.1 | Mountain, lake and river environments support exploration |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.1.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: Above 90 based on the specifically described scenic distinctiveness and exploration; remains below Grand Canyon/Yosemite. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: Include on individual merits. Provisional editorial score.
+- Earlier decision: none.
+- Verification still needed: secondary corroboration and current visitor access.
