@@ -5,12 +5,12 @@ A complete numeric rating is not proof of independent fact-checking.
 Historical dispositions are retained verbatim; overlapping scopes still require editorial review.
 
 - Current source records: **16,269**
-- Complete core ratings: **15,340**
-- All incomplete core ratings: **929**
-- Original inventory resolved: **661 / 1,590**
-- Original inventory still incomplete: **929**
+- Complete core ratings: **15,358**
+- All incomplete core ratings: **911**
+- Original inventory resolved: **679 / 1,590**
+- Original inventory still incomplete: **911**
 - Incomplete outside original inventory: **0**
-- Complete records historically labeled deferred or retain unranked: **570**
+- Complete records historically labeled deferred or retain unranked: **588**
 
 Use [remaining.tsv](remaining.tsv) as the current research queue.
 Use [original-inventory.tsv](original-inventory.tsv) to reconcile historical labels.
@@ -20,7 +20,6 @@ The latter does not change historical review decisions or certify public access.
 
 | Area | Incomplete |
 | --- | ---: |
-| IR | 35 |
 | PS | 31 |
 | YE | 29 |
 | BF | 27 |
@@ -31,6 +30,7 @@ The latter does not change historical review decisions or certify public access.
 | ML | 20 |
 | NE | 19 |
 | KP | 18 |
+| IR | 17 |
 | LB | 17 |
 | VC | 17 |
 | AF | 16 |
@@ -190,8 +190,8 @@ The latter does not change historical review decisions or certify public access.
 
 | Dimension | Missing |
 | --- | ---: |
-| depth | 922 |
-| experience | 929 |
+| depth | 904 |
+| experience | 911 |
 | impact | 644 |
 | significance | 75 |
 | uniqueness | 149 |
@@ -200,7 +200,7 @@ The latter does not change historical review decisions or certify public access.
 
 | Batch | Complete now | Incomplete now |
 | --- | ---: | ---: |
-| worldwide-incomplete-batch-100-2026-11-26.md | 51 | 49 |
+| worldwide-incomplete-batch-100-2026-11-26.md | 63 | 37 |
 | worldwide-incomplete-batch-100-pass10-2026-11-26.md | 76 | 24 |
 | worldwide-incomplete-batch-100-pass11-2026-11-26.md | 48 | 52 |
 | worldwide-incomplete-batch-100-pass12-2026-11-26.md | 33 | 67 |
@@ -214,5 +214,5 @@ The latter does not change historical review decisions or certify public access.
 | worldwide-incomplete-batch-100-pass20-2026-11-26.md | 36 | 64 |
 | worldwide-incomplete-batch-100-pass21-2026-11-26.md | 31 | 69 |
 | worldwide-incomplete-batch-100-pass22-2026-11-26.md | 66 | 34 |
-| worldwide-incomplete-batch-100-pass9-2026-11-26.md | 23 | 77 |
+| worldwide-incomplete-batch-100-pass9-2026-11-26.md | 29 | 71 |
 | worldwide-incomplete-batch-final-90-pass23-2026-11-26.md | 37 | 53 |

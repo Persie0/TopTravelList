@@ -570,41 +570,41 @@ countries/IR/cities/qazvin.yaml	city-ir-qazvin	Qazvin	IR	cities		complete	80.20	
 countries/IR/cities/rasht.yaml	city-ir-rasht	Rasht	IR	cities		complete	76.80	worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
 countries/IR/cities/tabriz.yaml	city-ir-tabriz	Tabriz	IR	cities		complete	84.50	worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
 countries/IR/cities/tehran.yaml	city-ir-tehran	Tehran	IR	cities		complete	85.25	worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
-countries/IR/sights/abyaneh-heritage.yaml	sight-ir-abyaneh-heritage	Historical Village of Abyaneh	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/abyaneh-heritage.yaml	sight-ir-abyaneh-heritage	Historical Village of Abyaneh	IR	sights		complete	85.80	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/alamut-fortifications.yaml	sight-ir-alamut-fortifications	Alamut Castle and Related Fortifications	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/ardabil-shrine.yaml	sight-ir-ardabil-shrine	Sheikh Safi al-din Shrine Ensemble in Ardabil	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/armenian-monasteries.yaml	sight-ir-armenian-monasteries	Armenian Monastic Ensembles of Iran	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/asbads-windmills.yaml	sight-ir-asbads-windmills	Asbads (Windmills) of Iran — Nashtifan representative component	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/bam.yaml	sight-ir-bam	Bam and its Cultural Landscape	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/ardabil-shrine.yaml	sight-ir-ardabil-shrine	Sheikh Safi al-din Shrine Ensemble in Ardabil	IR	sights		complete	88.30	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/armenian-monasteries.yaml	sight-ir-armenian-monasteries	Armenian Monastic Ensembles of Iran	IR	sights		complete	87.80	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/asbads-windmills.yaml	sight-ir-asbads-windmills	Asbads (Windmills) of Iran — Nashtifan representative component	IR	sights		complete	83.75	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/bam.yaml	sight-ir-bam	Bam and its Cultural Landscape	IR	sights		complete	89.35	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/chehel-sotoun.yaml	sight-ir-chehel-sotoun	Chehel Sotoun Palace and Garden	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/chogha-zanbil.yaml	sight-ir-chogha-zanbil	Tchogha Zanbil	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/chogha-zanbil.yaml	sight-ir-chogha-zanbil	Tchogha Zanbil	IR	sights		complete	90.25	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/damavand.yaml	sight-ir-damavand	Mount Damavand	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/golestan-palace.yaml	sight-ir-golestan-palace	Golestan Palace	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/gonbad-qabus.yaml	sight-ir-gonbad-qabus	Gonbad-e Qabus	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/gonbad-qabus.yaml	sight-ir-gonbad-qabus	Gonbad-e Qabus	IR	sights		complete	86.50	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/hawraman.yaml	sight-ir-hawraman	Cultural Landscape of Hawraman/Uramanat	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/hegmataneh.yaml	sight-ir-hegmataneh	Hegmataneh	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/hyrcanian-forests.yaml	sight-ir-hyrcanian-forests	Hyrcanian Forests (Iranian components)	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/imam-reza.yaml	sight-ir-imam-reza	Imam Reza Holy Complex	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/imam-reza.yaml	sight-ir-imam-reza	Imam Reza Holy Complex	IR	sights		complete	90.40	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/jameh-isfahan.yaml	sight-ir-jameh-isfahan	Masjed-e Jame of Isfahan	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/khorramabad-valley.yaml	sight-ir-khorramabad-valley	Prehistoric Sites of the Khorramabad Valley	IR	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/lut-desert.yaml	sight-ir-lut-desert	Lut Desert	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/masouleh-heritage.yaml	sight-ir-masouleh-heritage	Historical City of Masouleh	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/maybod-heritage.yaml	sight-ir-maybod-heritage	Historical City of Maybod	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/maymand-landscape.yaml	sight-ir-maymand-landscape	Cultural Landscape of Maymand	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/lut-desert.yaml	sight-ir-lut-desert	Lut Desert	IR	sights		complete	91.85	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/masouleh-heritage.yaml	sight-ir-masouleh-heritage	Historical City of Masouleh	IR	sights		complete	86.60	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/maybod-heritage.yaml	sight-ir-maybod-heritage	Historical City of Maybod	IR	sights		complete	85.45	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
+countries/IR/sights/maymand-landscape.yaml	sight-ir-maymand-landscape	Cultural Landscape of Maymand	IR	sights		complete	86.45	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/naqsh-e-jahan.yaml	sight-ir-naqsh-e-jahan	Meidan Emam (Naqsh-e Jahan Square)	IR	sights		complete	91.90	worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/persian-caravanserai.yaml	sight-ir-persian-caravanserai	The Persian Caravanserai	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/persian-garden.yaml	sight-ir-persian-garden	The Persian Garden	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/persian-qanat.yaml	sight-ir-persian-qanat	The Persian Qanat	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/persian-qanat.yaml	sight-ir-persian-qanat	The Persian Qanat	IR	sights		complete	85.55	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/sassanid-fars.yaml	sight-ir-sassanid-fars	Sassanid Archaeological Landscape of Fars Region	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/shah-cheragh.yaml	sight-ir-shah-cheragh	Shah Cheragh Shrine	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/shahr-i-sokhta.yaml	sight-ir-shahr-i-sokhta	Shahr-i Sokhta (Burnt City)	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/shahr-i-sokhta.yaml	sight-ir-shahr-i-sokhta	Shahr-i Sokhta (Burnt City)	IR	sights		complete	83.75	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/shushtar.yaml	sight-ir-shushtar	Shushtar Historical Hydraulic System	IR	sights		complete	90.25	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/soltaniyeh.yaml	sight-ir-soltaniyeh	Soltaniyeh	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/susa.yaml	sight-ir-susa	Susa	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/soltaniyeh.yaml	sight-ir-soltaniyeh	Soltaniyeh	IR	sights		complete	89.95	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/susa.yaml	sight-ir-susa	Susa	IR	sights		complete	85.85	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/tabriz-bazaar.yaml	sight-ir-tabriz-bazaar	Tabriz Historic Bazaar Complex	IR	sights		complete	89.10	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/takht-e-soleyman.yaml	sight-ir-takht-e-soleyman	Takht-e Soleyman	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/takht-e-soleyman.yaml	sight-ir-takht-e-soleyman	Takht-e Soleyman	IR	sights		complete	89.00	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/tape-sialk.yaml	sight-ir-tape-sialk	Tape Sialk	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/taq-e-bostan.yaml	sight-ir-taq-e-bostan	Taq-e Bostan	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
+countries/IR/sights/taq-e-bostan.yaml	sight-ir-taq-e-bostan	Taq-e Bostan	IR	sights		complete	87.90	worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/trans-iranian-railway.yaml	sight-ir-trans-iranian-railway	Trans-Iranian Railway	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/vank-cathedral.yaml	sight-ir-vank-cathedral	Vank Cathedral and Monastery of St Amenaprkich	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/zandiyeh.yaml	sight-ir-zandiyeh	Zandiyeh Ensemble of Fars Province	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
