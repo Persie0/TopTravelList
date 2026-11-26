@@ -286,17 +286,14 @@ countries/IQ/sights/ahwar.yaml	sight-iq-ahwar	Ahwar of Southern Iraq (Marshes an
 countries/IQ/sights/ashur.yaml	sight-iq-ashur	Ashur (Qal'at Sherqat)	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/bestansur.yaml	sight-iq-bestansur	Bestansur Neolithic Settlement	IQ	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/darb-zubaydah.yaml	sight-iq-darb-zubaydah	Darb Zubaydah Hajj Pilgrimage Routes (Iraqi section)	IQ	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
-countries/IQ/sights/erbil-citadel.yaml	sight-iq-erbil-citadel	Erbil Citadel	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/hatra.yaml	sight-iq-hatra	Hatra	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/iraq-museum.yaml	sight-iq-iraq-museum	Iraq Museum	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	retain unranked — scheduled reopening
 countries/IQ/sights/kirkuk-citadel.yaml	sight-iq-kirkuk-citadel	Kirkuk Citadel	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/malwiya-minaret.yaml	sight-iq-malwiya-minaret	Malwiya Minaret of Samarra	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
-countries/IQ/sights/mosul-old-city.yaml	sight-iq-mosul-old-city	Old City of Mosul	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/nimrud.yaml	sight-iq-nimrud	Nimrud Archaeological Site	IQ	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/nineveh.yaml	sight-iq-nineveh	Ancient City of Nineveh	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/nippur.yaml	sight-iq-nippur	Nippur Archaeological Site	IQ	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/samarra-archaeological-city.yaml	sight-iq-samarra-archaeological-city	Samarra Archaeological City	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
-countries/IQ/sights/taq-kasra.yaml	sight-iq-taq-kasra	Taq Kasra (Arch of Ctesiphon)	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/thilkifl.yaml	sight-iq-thilkifl	Site of Thilkifl (Al-Kifl)	IQ	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IQ/sights/wasit.yaml	sight-iq-wasit	Wasit Archaeological Site	IQ	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/IR/sights/abyaneh-heritage.yaml	sight-ir-abyaneh-heritage	Historical Village of Abyaneh	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
@@ -320,27 +317,22 @@ countries/IR/sights/lut-desert.yaml	sight-ir-lut-desert	Lut Desert	IR	sights	exp
 countries/IR/sights/masouleh-heritage.yaml	sight-ir-masouleh-heritage	Historical City of Masouleh	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/maybod-heritage.yaml	sight-ir-maybod-heritage	Historical City of Maybod	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/maymand-landscape.yaml	sight-ir-maymand-landscape	Cultural Landscape of Maymand	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
-countries/IR/sights/naqsh-e-jahan.yaml	sight-ir-naqsh-e-jahan	Meidan Emam (Naqsh-e Jahan Square)	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IR/sights/persian-caravanserai.yaml	sight-ir-persian-caravanserai	The Persian Caravanserai	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/persian-garden.yaml	sight-ir-persian-garden	The Persian Garden	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/persian-qanat.yaml	sight-ir-persian-qanat	The Persian Qanat	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/sassanid-fars.yaml	sight-ir-sassanid-fars	Sassanid Archaeological Landscape of Fars Region	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/shah-cheragh.yaml	sight-ir-shah-cheragh	Shah Cheragh Shrine	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/shahr-i-sokhta.yaml	sight-ir-shahr-i-sokhta	Shahr-i Sokhta (Burnt City)	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/shushtar.yaml	sight-ir-shushtar	Shushtar Historical Hydraulic System	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/soltaniyeh.yaml	sight-ir-soltaniyeh	Soltaniyeh	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/susa.yaml	sight-ir-susa	Susa	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IR/sights/tabriz-bazaar.yaml	sight-ir-tabriz-bazaar	Tabriz Historic Bazaar Complex	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/takht-e-soleyman.yaml	sight-ir-takht-e-soleyman	Takht-e Soleyman	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/tape-sialk.yaml	sight-ir-tape-sialk	Tape Sialk	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/taq-e-bostan.yaml	sight-ir-taq-e-bostan	Taq-e Bostan	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/trans-iranian-railway.yaml	sight-ir-trans-iranian-railway	Trans-Iranian Railway	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/vank-cathedral.yaml	sight-ir-vank-cathedral	Vank Cathedral and Monastery of St Amenaprkich	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
 countries/IR/sights/zandiyeh.yaml	sight-ir-zandiyeh	Zandiyeh Ensemble of Fars Province	IR	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass9-2026-11-26.md	deferred
-countries/IS/sights/graenavatn.yaml	sight-is-graenavatn	Grænavatn (Turf House Tradition component)	IS	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/IS/sights/nupsstadur.yaml	sight-is-nupsstadur	Núpsstaður (Turf House Tradition component)	IS	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/IS/sights/surtsey.yaml	sight-is-surtsey	Surtsey	IS	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
-countries/IS/sights/thvera.yaml	sight-is-thvera	Þverá (Turf House Tradition component)	IS	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/IT/sights/apulia-caves.yaml	sight-it-apulia-caves	Karstic caves in prehistoric Apulia	IT	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IT/sights/beech-extension.yaml	sight-it-beech-extension	Ancient Beech Forests (Italian tentative extension)	IT	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
 countries/IT/sights/italo-greek.yaml	sight-it-italo-greek	Evidence of Italo-Greek culture in medieval Italy	IT	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-2026-11-26.md	deferred — evidence required
@@ -376,7 +368,6 @@ countries/KM/sights/coelacanth-national-park.yaml	sight-km-coelacanth-national-p
 countries/KM/sights/simamboini-mangrove.yaml	sight-km-simamboini-mangrove	Simamboini Mangrove	KM	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass16-2026-11-26.md	deferred
 countries/KN/sights/charles-fort-st-kitts.yaml	sight-kn-charles-fort-st-kitts	Charles Fort (St Kitts)	KN	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/KN/sights/spooner-s-ginnery.yaml	sight-kn-spooner-s-ginnery	Spooner's Ginnery	KN	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
-countries/KN/sights/stone-fort-ghaut-petroglyphs.yaml	sight-kn-stone-fort-ghaut-petroglyphs	Stone Fort Ghaut Petroglyphs	KN	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/KP/cities/hamhung.yaml	city-kp-hamhung	Hamhung	KP	cities	experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
 countries/KP/cities/kaesong.yaml	city-kp-kaesong	Kaesong	KP	cities	experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
 countries/KP/cities/nampo.yaml	city-kp-nampo	Nampo	KP	cities	experience;depth	incomplete		worldwide-incomplete-batch-100-pass21-2026-11-26.md	deferred
@@ -875,7 +866,6 @@ countries/UM/sights/wake-atoll.yaml	sight-um-wake-atoll	Wake Atoll (restricted n
 countries/UZ/sights/cold-winter-deserts-of-turan-uzbek-components.yaml	sight-uz-cold-winter-deserts-of-turan-uzbek-components	Cold Winter Deserts of Turan (Uzbek components)	UZ	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/UZ/sights/koktepa-archaeological-site.yaml	sight-uz-koktepa-archaeological-site	Koktepa Archaeological Site	UZ	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
 countries/UZ/sights/western-tien-shan-uzbek-components.yaml	sight-uz-western-tien-shan-uzbek-components	Western Tien-Shan (Uzbek components)	UZ	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass12-2026-11-26.md	deferred
-countries/VC/sights/balliceaux-island.yaml	sight-vc-balliceaux-island	Balliceaux Island	VC	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/VC/sights/barrouallie-rock-art.yaml	sight-vc-barrouallie-rock-art	Barrouallie Rock Art	VC	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/VC/sights/buccament-rock-art.yaml	sight-vc-buccament-rock-art	Buccament Rock Art	VC	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/VC/sights/colonarie-rock-art.yaml	sight-vc-colonarie-rock-art	Colonarie Rock Art	VC	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
@@ -893,8 +883,6 @@ countries/VC/sights/savan-island.yaml	sight-vc-savan-island	Savan Island	VC	sigh
 countries/VC/sights/sharpes-stream-rock-art.yaml	sight-vc-sharpes-stream-rock-art	Sharpes Stream Rock Art	VC	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/VC/sights/the-13-stones-rock-art.yaml	sight-vc-the-13-stones-rock-art	The 13 Stones Rock Art	VC	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
 countries/VC/sights/yambou-1-rock-art.yaml	sight-vc-yambou-1-rock-art	Yambou 1 Rock Art	VC	sights	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-100-pass19-2026-11-26.md	deferred
-countries/VE/sights/auyan-tepui-summit-landscape.yaml	sight-ve-auyan-tepui-summit-landscape	Auyán-tepui (summit landscape)	VE	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass18-2026-11-26.md	deferred
-countries/VE/sights/pico-bolivar.yaml	sight-ve-pico-bolivar	Pico Bolívar	VE	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass18-2026-11-26.md	deferred
 countries/VE/sights/santos-luzardo-national-park-cinaruco-capanaparo.yaml	sight-ve-santos-luzardo-national-park-cinaruco-capanaparo	Santos Luzardo National Park (Cinaruco-Capanaparo)	VE	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass18-2026-11-26.md	deferred
 countries/VU/cities/isangel.yaml	city-vu-isangel	Isangel	VU	cities	impact;uniqueness;experience;depth	incomplete		worldwide-incomplete-batch-final-90-pass23-2026-11-26.md	deferred
 countries/VU/sights/nowon-votwos-ureparapara.yaml	sight-vu-nowon-votwos-ureparapara	The Nowon and Votwos of Ureparapara	VU	sights	experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
@@ -937,7 +925,6 @@ countries/ZM/cities/kasama.yaml	city-zm-kasama	Kasama	ZM	cities	impact;experienc
 countries/ZM/sights/ingombe-ilede.yaml	sight-zm-ingombe-ilede	Ing’ombe Ilede Archaeological Site	ZM	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/ZM/sights/luangwa-karoo-fossil-sites.yaml	sight-zm-luangwa-karoo-fossil-sites	Luangwa Basin Karoo Vertebrate Fossil Sites	ZM	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/ZM/sights/sitwe-ntawere-fossil-localities.yaml	sight-zm-sitwe-ntawere-fossil-localities	Sitwe–Ntawere Karoo Localities	ZM	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
-countries/ZM/sights/southern-africa-liberation-heritage.yaml	sight-zm-southern-africa-liberation-heritage	Southern Africa Liberation Heritage Sites in Zambia	ZM	sights	impact;experience;depth	incomplete		worldwide-incomplete-batch-100-pass14-2026-11-26.md	deferred
 countries/ZW/sights/eland-sanctuary.yaml	sight-zw-eland-sanctuary	Chimanimani Eland Sanctuary	ZW	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/ZW/sights/haroni-botanical-reserve.yaml	sight-zw-haroni-botanical-reserve	Haroni Botanical Reserve	ZW	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
 countries/ZW/sights/rusitu-botanical-reserve.yaml	sight-zw-rusitu-botanical-reserve	Rusitu Botanical Reserve	ZW	sights	impact;uniqueness;significance;experience;depth	incomplete		worldwide-incomplete-batch-100-pass20-2026-11-26.md	deferred
