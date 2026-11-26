@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14838; unassessed: 1431.
+Ranked: 14842; unassessed: 1427.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1431 |
+| incomplete-core | 1427 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1800 |
 | overall-95-plus | 159 |
@@ -327,7 +327,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MQ | cities | 4 | 4 | 77.70 | 0 | 0 | 0 | 4 | [Saint-Pierre](../../countries/MQ/cities/saint-pierre.yaml) 83.95; [Fort-de-France](../../countries/MQ/cities/fort-de-france.yaml) 79.55; [Le Diamant (bourg)](../../countries/MQ/cities/le-diamant.yaml) 75.85 |
 | MQ | sights | 11 | 11 | 84.20 | 2 | 0 | 0 | 11 | [Mount Pelée (permitted summit trails)](../../countries/MQ/sights/mount-pelee.yaml) 90.15; [Mount Pelée and Pitons of Northern Martinique](../../countries/MQ/sights/martinique-volcanoes.yaml) 90.10; [Caravelle Peninsula Nature Reserve](../../countries/MQ/sights/caravelle-reserve.yaml) 86.10 |
 | MR | cities | 10 | 7 | 82.20 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Oualata](../../countries/MR/cities/oualata.yaml) 83.40; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95 |
-| MR | sights | 17 | 12 | 84.65 | 1 | 0 | 2 | 17 | [Banc d’Arguin National Park](../../countries/MR/sights/banc-d-arguin-national-park.yaml) 91.90; [Chinguetti Old Ksar](../../countries/MR/sights/chinguetti-old-ksar.yaml) 88.30; [Richat Structure (Eye of the Sahara)](../../countries/MR/sights/richat-structure.yaml) 86.55 |
+| MR | sights | 17 | 13 | 84.55 | 1 | 0 | 2 | 17 | [Banc d’Arguin National Park](../../countries/MR/sights/banc-d-arguin-national-park.yaml) 91.90; [Chinguetti Old Ksar](../../countries/MR/sights/chinguetti-old-ksar.yaml) 88.30; [Richat Structure (Eye of the Sahara)](../../countries/MR/sights/richat-structure.yaml) 86.55 |
 | MS | cities | 2 | 2 | 73.58 | 0 | 0 | 0 | 2 | [Little Bay](../../countries/MS/cities/little-bay.yaml) 76.00; [Brades](../../countries/MS/cities/brades.yaml) 71.15 |
 | MS | sights | 8 | 8 | 82.55 | 0 | 0 | 0 | 8 | [Montserrat Volcano Observatory and Soufrière Hills viewpoint](../../countries/MS/sights/volcano-observatory.yaml) 89.05; [Plymouth buried town (restricted land site)](../../countries/MS/sights/plymouth-buried-city.yaml) 87.75; [Centre Hills forest trails](../../countries/MS/sights/centre-hills.yaml) 86.15 |
 | MT | cities | 23 | 23 | 76.55 | 1 | 0 | 1 | 23 | [Valletta](../../countries/MT/cities/valletta.yaml) 91.80; [Mdina](../../countries/MT/cities/mdina.yaml) 87.10; [Birgu (Vittoriosa)](../../countries/MT/cities/birgu-vittoriosa.yaml) 85.75 |
@@ -352,7 +352,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | NE | sights | 26 | 8 | 85.00 | 1 | 0 | 2 | 26 | [Historic Centre of Agadez](../../countries/NE/sights/agadez-historic-centre.yaml) 90.65; [Dabous Giraffe Rock Art](../../countries/NE/sights/dabous-giraffes.yaml) 89.20; [Kouré Giraffe Zone](../../countries/NE/sights/koure-giraffe-zone.yaml) 87.70 |
 | NF | cities | 1 | 1 | 73.30 | 0 | 0 | 0 | 1 | [Burnt Pine](../../countries/NF/cities/burnt-pine.yaml) 73.30 |
 | NF | sights | 11 | 10 | 82.02 | 0 | 0 | 0 | 11 | [Kingston and Arthur's Vale Historic Area](../../countries/NF/sights/kingston-arthurs-vale.yaml) 89.20; [Norfolk Island National Park (main island forest and summit trails)](../../countries/NF/sights/norfolk-national-park.yaml) 87.00; [Captain Cook Lookout and Bridle Track](../../countries/NF/sights/captain-cook-lookout.yaml) 83.80 |
-| NG | cities | 12 | 10 | 80.68 | 0 | 0 | 0 | 12 | [Lagos](../../countries/NG/cities/lagos.yaml) 86.20; [Kano](../../countries/NG/cities/kano.yaml) 84.95; [Benin City](../../countries/NG/cities/benin-city.yaml) 83.35 |
+| NG | cities | 12 | 12 | 80.68 | 0 | 0 | 0 | 12 | [Lagos](../../countries/NG/cities/lagos.yaml) 86.20; [Kano](../../countries/NG/cities/kano.yaml) 84.95; [Benin City](../../countries/NG/cities/benin-city.yaml) 83.35 |
 | NG | sights | 25 | 14 | 85.42 | 2 | 0 | 3 | 25 | [Osun-Osogbo Sacred Grove](../../countries/NG/sights/osun-osogbo-sacred-grove.yaml) 91.75; [Gashaka Gumti National Park](../../countries/NG/sights/gashaka-gumti-national-park.yaml) 90.65; [Cross River National Park](../../countries/NG/sights/cross-river-national-park.yaml) 89.80 |
 | NI | cities | 13 | 13 | 74.00 | 0 | 0 | 0 | 13 | [Granada](../../countries/NI/cities/granada.yaml) 87.00; [León](../../countries/NI/cities/leon.yaml) 86.25; [El Castillo](../../countries/NI/cities/el-castillo.yaml) 78.80 |
 | NI | sights | 30 | 26 | 83.25 | 1 | 0 | 0 | 30 | [Ometepe Island](../../countries/NI/sights/ometepe-island.yaml) 91.85; [León Cathedral](../../countries/NI/sights/leon-cathedral.yaml) 88.75; [Masaya Volcano National Park](../../countries/NI/sights/masaya-volcano-national-park.yaml) 88.05 |
@@ -427,7 +427,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SI | cities | 18 | 18 | 82.72 | 0 | 0 | 0 | 18 | [Ljubljana](../../countries/SI/cities/ljubljana.yaml) 88.25; [Piran](../../countries/SI/cities/piran.yaml) 87.80; [Ptuj](../../countries/SI/cities/ptuj.yaml) 85.75 |
 | SI | sights | 45 | 42 | 88.05 | 9 | 0 | 8 | 45 | [Škocjan Caves](../../countries/SI/sights/skocjan-caves.yaml) 93.45; [Postojna Cave](../../countries/SI/sights/postojna-cave.yaml) 92.60; [Triglav National Park](../../countries/SI/sights/triglav-national-park.yaml) 92.30 |
 | SJ | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Longyearbyen](../../countries/SJ/cities/longyearbyen.yaml) 82.60; [Barentsburg](../../countries/SJ/cities/barentsburg.yaml) 80.35 |
-| SJ | sights | 12 | 11 | 84.30 | 1 | 0 | 1 | 12 | [Svalbard Archipelago (tentative property)](../../countries/SJ/sights/svalbard.yaml) 93.65; [Pyramiden historic mining settlement](../../countries/SJ/sights/pyramiden.yaml) 87.30; [Nordenskiöldbreen glacier](../../countries/SJ/sights/nordenskioldbreen.yaml) 87.20 |
+| SJ | sights | 12 | 12 | 84.55 | 1 | 0 | 1 | 12 | [Svalbard Archipelago (tentative property)](../../countries/SJ/sights/svalbard.yaml) 93.65; [Jan Mayen (Mid-Atlantic Ridge tentative component)](../../countries/SJ/sights/jan-mayen.yaml) 89.75; [Pyramiden historic mining settlement](../../countries/SJ/sights/pyramiden.yaml) 87.30 |
 | SK | cities | 15 | 15 | 84.30 | 0 | 0 | 0 | 15 | [Banská Štiavnica](../../countries/SK/cities/banska-stiavnica.yaml) 88.80; [Košice](../../countries/SK/cities/kosice.yaml) 87.50; [Levoča](../../countries/SK/cities/levoca.yaml) 87.05 |
 | SK | sights | 61 | 54 | 87.42 | 6 | 0 | 5 | 61 | [Tatra National Park (Slovak section)](../../countries/SK/sights/tatras.yaml) 92.30; [Spiš Castle and associated monuments](../../countries/SK/sights/spis-castle.yaml) 91.85; [Caves of Aggtelek and Slovak Karst (Slovak serial property)](../../countries/SK/sights/karst-caves.yaml) 91.65 |
 | SL | cities | 13 | 13 | 70.10 | 0 | 0 | 0 | 13 | [Freetown](../../countries/SL/cities/freetown.yaml) 83.00; [Bonthe](../../countries/SL/cities/bonthe.yaml) 77.50; [Dublin (Banana Islands)](../../countries/SL/cities/dublin-banana-islands.yaml) 73.95 |
