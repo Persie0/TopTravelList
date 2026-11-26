@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14914; unassessed: 1355.
+Ranked: 14918; unassessed: 1351.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1355 |
+| incomplete-core | 1351 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -175,7 +175,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | FO | cities | 4 | 4 | 78.02 | 0 | 0 | 0 | 4 | [Tórshavn](../../countries/FO/cities/torshavn.yaml) 82.85; [Kirkjubøur](../../countries/FO/cities/kirkjubour.yaml) 80.20; [Gjógv](../../countries/FO/cities/gjogv.yaml) 75.85 |
 | FO | sights | 7 | 7 | 82.05 | 0 | 0 | 0 | 7 | [Mykines Island](../../countries/FO/sights/mykines.yaml) 88.45; [Trælanípa and Sørvágsvatn viewpoint](../../countries/FO/sights/traelanipa-sorvagsvatn.yaml) 86.10; [Kallur Lighthouse and ridge](../../countries/FO/sights/kallur-lighthouse.yaml) 84.10 |
 | FR | cities | 25 | 25 | 87.70 | 3 | 1 | 4 | 25 | [Paris](../../countries/FR/cities/paris.yaml) 97.30; [Lyon](../../countries/FR/cities/lyon.yaml) 90.85; [Strasbourg](../../countries/FR/cities/strasbourg.yaml) 90.60 |
-| FR | sights | 98 | 85 | 90.55 | 54 | 3 | 53 | 98 | [Louvre Museum](../../countries/FR/sights/louvre.yaml) 96.30; [Palace and Park of Versailles](../../countries/FR/sights/versailles.yaml) 96.30; [Paris Banks of the Seine](../../countries/FR/sights/seine-banks.yaml) 95.50 |
+| FR | sights | 98 | 86 | 90.55 | 54 | 3 | 53 | 98 | [Louvre Museum](../../countries/FR/sights/louvre.yaml) 96.30; [Palace and Park of Versailles](../../countries/FR/sights/versailles.yaml) 96.30; [Paris Banks of the Seine](../../countries/FR/sights/seine-banks.yaml) 95.50 |
 | GA | cities | 14 | 14 | 68.28 | 0 | 0 | 0 | 14 | [Lambaréné](../../countries/GA/cities/lambarene.yaml) 79.10; [Libreville](../../countries/GA/cities/libreville.yaml) 77.20; [Mayumba](../../countries/GA/cities/mayumba.yaml) 72.10 |
 | GA | sights | 32 | 22 | 83.42 | 3 | 0 | 5 | 32 | [Loango National Park](../../countries/GA/sights/loango-national-park.yaml) 94.75; [Ivindo National Park](../../countries/GA/sights/ivindo-national-park.yaml) 93.40; [Lopé National Park and Okanda visitor sector](../../countries/GA/sights/lope-national-park-and-okanda-visitor-sector.yaml) 90.95 |
 | GB | cities | 30 | 30 | 85.12 | 5 | 1 | 3 | 30 | [London](../../countries/GB/cities/london.yaml) 96.65; [Edinburgh](../../countries/GB/cities/edinburgh.yaml) 92.90; [Bath](../../countries/GB/cities/bath.yaml) 91.05 |
@@ -221,7 +221,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | HN | cities | 31 | 31 | 74.45 | 0 | 0 | 0 | 31 | [Comayagua](../../countries/HN/cities/comayagua.yaml) 83.15; [Tegucigalpa](../../countries/HN/cities/tegucigalpa.yaml) 79.70; [Trujillo](../../countries/HN/cities/trujillo.yaml) 78.20 |
 | HN | sights | 59 | 56 | 81.25 | 4 | 1 | 3 | 59 | [Maya Site of Copán](../../countries/HN/sights/maya-site-of-copan.yaml) 95.40; [Bay Islands National Marine Park](../../countries/HN/sights/bay-islands-national-marine-park.yaml) 92.35; [Cayos Cochinos Marine Natural Monument](../../countries/HN/sights/cayos-cochinos-marine-natural-monument.yaml) 90.75 |
 | HR | cities | 22 | 22 | 85.68 | 2 | 0 | 2 | 22 | [Dubrovnik](../../countries/HR/cities/dubrovnik.yaml) 92.70; [Split](../../countries/HR/cities/split.yaml) 91.85; [Trogir](../../countries/HR/cities/trogir.yaml) 88.50 |
-| HR | sights | 55 | 52 | 88.00 | 12 | 0 | 10 | 55 | [Plitvice Lakes National Park](../../countries/HR/sights/plitvice-lakes.yaml) 94.85; [Old City of Dubrovnik](../../countries/HR/sights/dubrovnik-old-city.yaml) 94.10; [Historical Complex of Split with Diocletian's Palace](../../countries/HR/sights/diocletian-palace.yaml) 94.05 |
+| HR | sights | 55 | 53 | 87.90 | 12 | 0 | 10 | 55 | [Plitvice Lakes National Park](../../countries/HR/sights/plitvice-lakes.yaml) 94.85; [Old City of Dubrovnik](../../countries/HR/sights/dubrovnik-old-city.yaml) 94.10; [Historical Complex of Split with Diocletian's Palace](../../countries/HR/sights/diocletian-palace.yaml) 94.05 |
 | HT | cities | 12 | 12 | 71.95 | 0 | 0 | 0 | 12 | [Jacmel](../../countries/HT/cities/jacmel.yaml) 84.50; [Cap-Haïtien](../../countries/HT/cities/cap-haitien.yaml) 83.25; [Port-au-Prince](../../countries/HT/cities/port-au-prince.yaml) 81.60 |
 | HT | sights | 32 | 20 | 81.30 | 2 | 0 | 2 | 32 | [National History Park – Citadel, Sans Souci, Ramiers](../../countries/HT/sights/national-history-park.yaml) 92.90; [Citadelle Laferrière](../../countries/HT/sights/citadelle-laferriere.yaml) 92.30; [Sans-Souci Palace](../../countries/HT/sights/sans-souci-palace.yaml) 88.25 |
 | HU | cities | 18 | 18 | 84.12 | 1 | 0 | 1 | 18 | [Budapest](../../countries/HU/cities/budapest.yaml) 93.35; [Pécs](../../countries/HU/cities/pecs.yaml) 87.15; [Eger](../../countries/HU/cities/eger.yaml) 86.10 |
@@ -405,7 +405,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | RO | cities | 20 | 20 | 84.20 | 0 | 0 | 0 | 20 | [Sighișoara](../../countries/RO/cities/sighisoara.yaml) 89.65; [Sibiu](../../countries/RO/cities/sibiu.yaml) 88.80; [Brașov](../../countries/RO/cities/brasov.yaml) 88.30 |
 | RO | sights | 58 | 47 | 88.70 | 11 | 0 | 5 | 58 | [Danube Delta (Romanian section)](../../countries/RO/sights/danube-delta.yaml) 93.55; [Churches of Moldavia (serial property)](../../countries/RO/sights/churches-moldavia.yaml) 91.90; [Retezat National Park (including tentative massif)](../../countries/RO/sights/retezat.yaml) 91.55 |
 | RS | cities | 18 | 18 | 82.12 | 0 | 0 | 0 | 18 | [Belgrade](../../countries/RS/cities/belgrade.yaml) 89.00; [Subotica](../../countries/RS/cities/subotica.yaml) 86.90; [Novi Sad](../../countries/RS/cities/novi-sad.yaml) 86.55 |
-| RS | sights | 43 | 40 | 87.42 | 4 | 0 | 6 | 43 | [Đerdap National Park and Iron Gates landscape](../../countries/RS/sights/djerdap.yaml) 91.30; [Studenica Monastery](../../countries/RS/sights/studenica.yaml) 91.05; [Tara National Park and Drina Canyon](../../countries/RS/sights/tara.yaml) 90.45 |
+| RS | sights | 43 | 42 | 87.28 | 4 | 0 | 6 | 43 | [Đerdap National Park and Iron Gates landscape](../../countries/RS/sights/djerdap.yaml) 91.30; [Studenica Monastery](../../countries/RS/sights/studenica.yaml) 91.05; [Tara National Park and Drina Canyon](../../countries/RS/sights/tara.yaml) 90.45 |
 | RU | cities | 20 | 20 | 81.45 | 2 | 0 | 0 | 20 | [Saint Petersburg](../../countries/RU/cities/saint-petersburg.yaml) 93.20; [Moscow](../../countries/RU/cities/moscow.yaml) 91.75; [Kazan](../../countries/RU/cities/kazan.yaml) 86.95 |
 | RU | sights | 43 | 22 | 88.62 | 6 | 0 | 0 | 43 | [State Hermitage Main Museum Complex](../../countries/RU/sights/hermitage.yaml) 93.60; [Historic Centre of Saint Petersburg and Related Groups of Monuments](../../countries/RU/sights/historic-petersburg.yaml) 93.45; [Lake Baikal](../../countries/RU/sights/baikal.yaml) 93.20 |
 | RW | cities | 18 | 18 | 69.38 | 0 | 0 | 0 | 18 | [Kigali](../../countries/RW/cities/kigali.yaml) 80.25; [Karongi (Kibuye)](../../countries/RW/cities/karongi-kibuye.yaml) 77.15; [Rubavu (Gisenyi)](../../countries/RW/cities/rubavu-gisenyi.yaml) 75.55 |

@@ -2,7 +2,7 @@
 
 # France (FR) — Sights & attractions ranking
 
-**85 ranked** · **13 unassessed** · **98 total** · Worldwide scoring **v2**
+**86 ranked** · **12 unassessed** · **98 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (85)
+## Complete ranked list (86)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -99,8 +99,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 83 | [Hangar Y Meudon](sights/hangar-y.yaml) | Attraction | **86.45** | **Architecture 9.2**, **History 9.2**, **Culture 8.9** | 8.4 / 8.9 / 9.0 / 8.6 / 8.1 | [48.8, 2.229](https://www.google.com/maps/search/?api=1&query=48.8,2.229) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hangar%20Y%20Meudon%2C%20France) |
 | 84 | [Forêts National Park](sights/forets.yaml) | Park / reserve | **86.00** | **Nature 9.2**, **Wildlife 9.1** | 8.4 / 8.6 / 8.8 / 8.6 / 8.8 | [47.87, 4.85](https://www.google.com/maps/search/?api=1&query=47.87,4.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=For%C3%AAts%20National%20Park%2C%20France) |
 | 85 | [Charolais-Brionnais cattle-breeding cultural landscape](sights/charolais.yaml) | Coast | **84.60** | **Culture 9.0**, **Photography 8.8** | 8.2 / 8.6 / 8.6 / 8.4 / 8.7 | [46.3, 4.15](https://www.google.com/maps/search/?api=1&query=46.3,4.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charolais-Brionnais%20cattle-breeding%20cultural%20landscape%2C%20France) |
+| 86 | [Prehistoric Pile Dwellings around the Alps (French components)](sights/pile-dwellings.yaml) | Attraction | **82.30** | **History 9.4** | 7.2 / 8.9 / 9.3 / 7.9 / 8.0 | [45.75, 5.88](https://www.google.com/maps/search/?api=1&query=45.75,5.88) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28French%20components%29%2C%20France) |
 
-## Not yet fully assessed (13)
+## Not yet fully assessed (12)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -117,7 +118,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Material evidence of Andorra co-principality (French tentative components)](sights/andorra-co-principality.yaml) | Attraction | **—** | **History 9.3** | — / 8.8 / 9.2 / — / — | [42.97, 1.61](https://www.google.com/maps/search/?api=1&query=42.97,1.61) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Material%20evidence%20of%20Andorra%20co-principality%20%28French%20tentative%20components%29%2C%20France) |
 | — | [ONERA aerospace research site Meudon](sights/onera-meudon.yaml) | Attraction | **—** | **History 9.2** | — / 8.8 / 9.0 / — / — | [48.81, 2.23](https://www.google.com/maps/search/?api=1&query=48.81,2.23) | [Google Maps](https://www.google.com/maps/search/?api=1&query=ONERA%20aerospace%20research%20site%20Meudon%2C%20France) |
 | — | [Parish closes of Finistère (tentative series)](sights/finistere-enclosures.yaml) | Attraction | **—** | **Architecture 9.3**, **History 9.2** | 8.8 / 9.1 / 9.1 / — / — | [48.5, -4.0](https://www.google.com/maps/search/?api=1&query=48.5,-4.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Parish%20closes%20of%20Finist%C3%A8re%20%28tentative%20series%29%2C%20France) |
-| — | [Prehistoric Pile Dwellings around the Alps (French components)](sights/pile-dwellings.yaml) | Attraction | **—** | **History 9.4** | — / 8.9 / 9.3 / — / — | [45.75, 5.88](https://www.google.com/maps/search/?api=1&query=45.75,5.88) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28French%20components%29%2C%20France) |
 | — | [Southern France concretions caves (tentative series)](sights/southern-caves.yaml) | Attraction | **—** | **Nature 9.4** | — / 9.2 / 9.1 / — / — | [44.1, 3.3](https://www.google.com/maps/search/?api=1&query=44.1,3.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Southern%20France%20concretions%20caves%20%28tentative%20series%29%2C%20France) |
 
 ---
