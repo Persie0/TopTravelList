@@ -1517,3 +1517,5 @@
 - Final decision: Scope-limited editorial rating: Distinct Hungarian Secession synagogue architecture; One building.
 - Earlier decision: none.
 - Verification still needed: independent facts, permitted access and narrower same-type peers.
+
+- [Dated worldwide reassessment pass 58 — 2026-11-26](worldwide-deferred-pass58-2026-11-26.md)

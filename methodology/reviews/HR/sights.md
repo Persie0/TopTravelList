@@ -2040,3 +2040,5 @@ Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 - Final decision: Scope-limited editorial rating: Distinct extensive river barrier waterfall; One waterfall sector not entire Krka.
 - Earlier decision: none.
 - Verification still needed: independent facts, access, GPS and narrower same-type peer comparisons.
+
+- [Dated worldwide reassessment pass 58 — 2026-11-26](worldwide-deferred-pass58-2026-11-26.md)
