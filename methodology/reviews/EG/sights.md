@@ -738,7 +738,7 @@
 
 
 
-### sight-eg-cairo-citadel — Citadel of Saladin (Cairo) — 2026-11-26
+## sight-eg-cairo-citadel — Citadel of Saladin (Cairo) — 2026-11-26
 
 - YAML: [source](../../../countries/EG/sights/cairo-citadel.yaml)
 - Action: new
@@ -759,11 +759,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Monumental skyline |
-| uniqueness | 8.8 | Distinctive fortified ensemble |
-| significance | 9.2 | Major medieval and later Egyptian history |
-| experience | 8.9 | Multiple monuments and views |
-| depth | 9.0 | Extensive complex |
+| Impact | 9.1 | Monumental skyline |
+| Uniqueness | 8.8 | Distinctive fortified ensemble |
+| Significance | 9.2 | Major medieval and later Egyptian history |
+| Experience | 8.9 | Multiple monuments and views |
+| Depth | 9.0 | Extensive complex |
 
 - Applicable categories: architecture:9.2, history:9.3, culture:9.0, photography:9.0.
 - Computed worldwide overall: 90.05/100.
@@ -772,8 +772,10 @@
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
 
+- Follow-up verification (2026-11-26): Ministry confirms medieval fortress, panorama and multiple monuments. [Specific visitor source](https://egymonuments.gov.eg/archaeological-sites/cairo-citadel/); [published representative coordinates](https://mapcarta.com/28173120): 30.02933, 31.26212 (replaces earlier approximate point 30.0299, 31.2612). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
 
-### sight-eg-muhammad-ali-mosque — Mosque of Muhammad Ali — 2026-11-26
+
+## sight-eg-muhammad-ali-mosque — Mosque of Muhammad Ali — 2026-11-26
 
 - YAML: [source](../../../countries/EG/sights/muhammad-ali-mosque.yaml)
 - Action: new
@@ -794,11 +796,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Monumental domed interior and skyline |
-| uniqueness | 8.7 | Ottoman-style mosque analogues exist |
-| significance | 8.9 | Important nineteenth-century heritage |
-| experience | 8.7 | Architecture and city views |
-| depth | 8.1 | Focused building |
+| Impact | 9.0 | Monumental domed interior and skyline |
+| Uniqueness | 8.7 | Ottoman-style mosque analogues exist |
+| Significance | 8.9 | Important nineteenth-century heritage |
+| Experience | 8.7 | Architecture and city views |
+| Depth | 8.1 | Focused building |
 
 - Applicable categories: architecture:9.3, history:8.9, culture:8.9, photography:9.1.
 - Computed worldwide overall: 87.70/100.
@@ -807,8 +809,10 @@
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
 
+- Follow-up verification (2026-11-26): Ministry confirms mosque within citadel; Egyptian state information service https://sis.gov.eg/en/egypt/tourism/religious-tourism/mohamed-ali-mosque/ confirms nineteenth-century architecture. [Specific visitor source](https://egymonuments.gov.eg/en/monuments/muhammad-ali-mosque); [published representative coordinates](https://mapcarta.com/29631838): 30.02779, 31.25816 (replaces earlier approximate point 30.0287, 31.2599). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
 
-### sight-eg-al-azhar-mosque — Al-Azhar Mosque — 2026-11-26
+
+## sight-eg-al-azhar-mosque — Al-Azhar Mosque — 2026-11-26
 
 - YAML: [source](../../../countries/EG/sights/al-azhar-mosque.yaml)
 - Action: new
@@ -829,11 +833,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Historic courtyard and minarets |
-| uniqueness | 8.9 | Distinct scholarly and architectural combination |
-| significance | 9.3 | Major Islamic educational history |
-| experience | 8.7 | Meaningful architecture visit subject to access |
-| depth | 8.6 | Multiple historical layers |
+| Impact | 8.8 | Historic courtyard and minarets |
+| Uniqueness | 8.9 | Distinct scholarly and architectural combination |
+| Significance | 9.3 | Major Islamic educational history |
+| Experience | 8.7 | Meaningful architecture visit subject to access |
+| Depth | 8.6 | Multiple historical layers |
 
 - Applicable categories: architecture:9.0, history:9.3, culture:9.3.
 - Computed worldwide overall: 88.90/100.
@@ -842,8 +846,10 @@
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
 
+- Follow-up verification (2026-11-26): Cairo government confirms Fatimid setting and educational tradition; mapped building footprint. [Specific visitor source](https://cairo.gov.eg/en/tourism/tourism-destinations/cultural/tourist-attractions/); [published representative coordinates](https://mapcarta.com/28173608): 30.04573, 31.26268 (replaces earlier approximate point 30.0458, 31.2625). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
 
-### sight-eg-dahab-blue-hole — Blue Hole (Dahab) — 2026-11-26
+
+## sight-eg-dahab-blue-hole — Blue Hole (Dahab) — 2026-11-26
 
 - YAML: [source](../../../countries/EG/sights/dahab-blue-hole.yaml)
 - Action: new
@@ -864,11 +870,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Striking reef and sinkhole setting |
-| uniqueness | 8.8 | Distinctive coastal marine formation |
-| significance | 8.3 | Marine geology and ecology |
-| experience | 8.5 | Condition-dependent snorkeling and diving |
-| depth | 8.0 | Focused site |
+| Impact | 8.8 | Striking reef and sinkhole setting |
+| Uniqueness | 8.8 | Distinctive coastal marine formation |
+| Significance | 8.3 | Marine geology and ecology |
+| Experience | 8.5 | Condition-dependent snorkeling and diving |
+| Depth | 8.0 | Focused site |
 
 - Applicable categories: nature:9.0, adventure:8.8, photography:8.8.
 - Computed worldwide overall: 85.75/100.
@@ -877,8 +883,10 @@
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
 
+- Follow-up verification (2026-11-26): Official tourism source supports Dahab diving and snorkeling context; published map identifies Blue Hole. No technical dive guidance or water access guarantee. [Specific visitor source](https://www.experienceegypt.eg/en/Attraction-Details/112/dive-into-the-sea); [published representative coordinates](https://mapcarta.com/27684006): 28.57224, 34.53695 (replaces earlier approximate point 28.5725, 34.5369). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
 
-### sight-eg-hanging-church — Hanging Church (Al-Muallaqa) — 2026-11-26
+
+## sight-eg-hanging-church — Hanging Church (Al-Muallaqa) — 2026-11-26
 
 - YAML: [source](../../../countries/EG/sights/hanging-church.yaml)
 - Action: new
@@ -899,11 +907,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Distinctive historic interior |
-| uniqueness | 8.8 | Unusual fortress-gate construction |
-| significance | 9.1 | Important Coptic religious heritage |
-| experience | 8.5 | Focused architectural visit |
-| depth | 8.1 | Single church with rich details |
+| Impact | 8.6 | Distinctive historic interior |
+| Uniqueness | 8.8 | Unusual fortress-gate construction |
+| Significance | 9.1 | Important Coptic religious heritage |
+| Experience | 8.5 | Focused architectural visit |
+| Depth | 8.1 | Single church with rich details |
 
 - Applicable categories: architecture:8.9, history:9.2, culture:9.0.
 - Computed worldwide overall: 86.85/100.
@@ -913,7 +921,7 @@
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-eg-coptic-museum — Coptic Museum — 2026-11-26
+## sight-eg-coptic-museum — Coptic Museum — 2026-11-26
 
 - YAML: [source](../../../countries/EG/sights/coptic-museum.yaml)
 - Action: new
@@ -934,11 +942,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Rich artifact displays |
-| uniqueness | 9.2 | Unusually comprehensive specialist collection |
-| significance | 9.3 | Major Christian Egyptian heritage |
-| experience | 8.8 | Curated collection visit |
-| depth | 9.1 | Extensive historical material |
+| Impact | 8.7 | Rich artifact displays |
+| Uniqueness | 9.2 | Unusually comprehensive specialist collection |
+| Significance | 9.3 | Major Christian Egyptian heritage |
+| Experience | 8.8 | Curated collection visit |
+| Depth | 9.1 | Extensive historical material |
 
 - Applicable categories: history:9.4, culture:9.3, architecture:8.7.
 - Computed worldwide overall: 90.00/100.
@@ -948,7 +956,7 @@
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-eg-khan-el-khalili — Khan el-Khalili Bazaar — 2026-11-26
+## sight-eg-khan-el-khalili — Khan el-Khalili Bazaar — 2026-11-26
 
 - YAML: [source](../../../countries/EG/sights/khan-el-khalili.yaml)
 - Action: new
@@ -969,11 +977,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Vibrant market atmosphere |
-| uniqueness | 8.5 | Comparable historic bazaars |
-| significance | 8.6 | Historic urban commerce |
-| experience | 8.9 | Varied pedestrian exploration |
-| depth | 8.5 | Multiple streets and stalls |
+| Impact | 8.7 | Vibrant market atmosphere |
+| Uniqueness | 8.5 | Comparable historic bazaars |
+| Significance | 8.6 | Historic urban commerce |
+| Experience | 8.9 | Varied pedestrian exploration |
+| Depth | 8.5 | Multiple streets and stalls |
 
 - Applicable categories: culture:9.0, food:8.6, photography:8.8, history:8.7.
 - Computed worldwide overall: 86.40/100.

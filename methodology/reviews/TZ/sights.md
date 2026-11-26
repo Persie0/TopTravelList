@@ -865,7 +865,7 @@ Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, unique
 - Verification still needed: current access, precise representative points, independent claim-level corroboration.
 
 
-### sight-tz-nungwi-beach — Nungwi Beach — 2026-11-26
+## sight-tz-nungwi-beach — Nungwi Beach — 2026-11-26
 
 - YAML: [source](../../../countries/TZ/sights/nungwi-beach.yaml)
 - Action: new
@@ -886,11 +886,11 @@ Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, unique
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | White-sand turquoise coast |
-| uniqueness | 8.2 | Other tropical beaches comparable |
-| significance | 7.7 | Coastal and local cultural context |
-| experience | 8.9 | Beach visits and nearby marine excursions |
-| depth | 8.2 | Beach and village setting |
+| Impact | 8.7 | White-sand turquoise coast |
+| Uniqueness | 8.2 | Other tropical beaches comparable |
+| Significance | 7.7 | Coastal and local cultural context |
+| Experience | 8.9 | Beach visits and nearby marine excursions |
+| Depth | 8.2 | Beach and village setting |
 
 - Applicable categories: beaches:9.1, relaxation:9.0, photography:8.8.
 - Computed worldwide overall: 83.55/100.
@@ -899,8 +899,10 @@ Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, unique
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
 
+- Follow-up verification (2026-11-26): Northern beach and marine excursion scope supported; map point is village center, not beach access. [Specific visitor source](https://nungwi.com/destinations/nungwi-beach/); [published representative coordinates](https://mapcarta.com/Nungwi): -5.7272, 39.2992 (replaces earlier approximate point -5.7265, 39.2924). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
 
-### sight-tz-paje-beach — Paje Beach — 2026-11-26
+
+## sight-tz-paje-beach — Paje Beach — 2026-11-26
 
 - YAML: [source](../../../countries/TZ/sights/paje-beach.yaml)
 - Action: new
@@ -921,11 +923,11 @@ Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, unique
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.5 | Expansive shallow lagoon |
-| uniqueness | 8.1 | Other tropical lagoons comparable |
-| significance | 7.6 | Local coastal context |
-| experience | 8.8 | Water sports and beach recreation |
-| depth | 8.1 | Focused coastal setting |
+| Impact | 8.5 | Expansive shallow lagoon |
+| Uniqueness | 8.1 | Other tropical lagoons comparable |
+| Significance | 7.6 | Local coastal context |
+| Experience | 8.8 | Water sports and beach recreation |
+| Depth | 8.1 | Focused coastal setting |
 
 - Applicable categories: beaches:9.0, adventure:8.9, photography:8.7.
 - Computed worldwide overall: 82.25/100.
@@ -934,8 +936,10 @@ Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, unique
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
 
+- Follow-up verification (2026-11-26): Tidal eastern lagoon and kitesurfing supported; map point is village reference, not beach entrance. [Specific visitor source](https://zanzibartoursandsafaris.co.tz/guide/best-beaches-zanzibar); [published representative coordinates](https://mapcarta.com/Paje): -6.2667, 39.5341 (replaces earlier approximate point -6.2657, 39.5342). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
 
-### sight-tz-mnemba-atoll — Mnemba Island surrounding reef snorkeling — 2026-11-26
+
+## sight-tz-mnemba-atoll — Mnemba Island surrounding reef snorkeling — 2026-11-26
 
 - YAML: [source](../../../countries/TZ/sights/mnemba-atoll.yaml)
 - Action: new
@@ -956,11 +960,11 @@ Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, unique
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Tropical reef scenery |
-| uniqueness | 8.6 | Distinctive reef island setting but analogues |
-| significance | 8.2 | Marine habitat |
-| experience | 8.8 | Guided marine activities vary with conditions |
-| depth | 8.3 | Focused reef visit |
+| Impact | 8.7 | Tropical reef scenery |
+| Uniqueness | 8.6 | Distinctive reef island setting but analogues |
+| Significance | 8.2 | Marine habitat |
+| Experience | 8.8 | Guided marine activities vary with conditions |
+| Depth | 8.3 | Focused reef visit |
 
 - Applicable categories: nature:8.9, wildlife:8.9, adventure:8.8.
 - Computed worldwide overall: 85.50/100.
@@ -968,3 +972,6 @@ Retain 95.50: summit trek adventure matches Sagarmatha 9.8; lower impact, unique
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
+
+- Follow-up verification (2026-11-26): Offshore reef excursions confirmed; island is private and representative map point is not a landing or dive site. [Specific visitor source](https://nungwi.com/destinations/mnemba-atoll/); [published representative coordinates](https://mapcarta.com/12652324): -5.81949, 39.38368 (replaces earlier approximate point -5.817, 39.383). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
+

@@ -2,8 +2,8 @@ id: sight-mg-nosy-be
 name: "Nosy Be island visitor landscape"
 location:
   country_code: MG
-  latitude: -13.3167
-  longitude: 48.25
+  latitude: -13.31421
+  longitude: 48.25899
 scores:
   impact: 8.7
   uniqueness: 8.5

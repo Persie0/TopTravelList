@@ -2,8 +2,8 @@ id: sight-eg-cairo-citadel
 name: "Citadel of Saladin (Cairo)"
 location:
   country_code: EG
-  latitude: 30.0299
-  longitude: 31.2612
+  latitude: 30.02933
+  longitude: 31.26212
 scores:
   impact: 9.1
   uniqueness: 8.8

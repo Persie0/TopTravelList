@@ -931,7 +931,7 @@
 - Verification still needed: current access, location corroboration and full independent claim verification.
 
 
-### sight-mg-nosy-be — Nosy Be island visitor landscape — 2026-11-26
+## sight-mg-nosy-be — Nosy Be island visitor landscape — 2026-11-26
 
 - YAML: [source](../../../countries/MG/sights/nosy-be.yaml)
 - Action: new
@@ -952,11 +952,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Appealing tropical island landscapes |
-| uniqueness | 8.5 | Distinctive volcanic and marine setting |
-| significance | 8.2 | Natural and local heritage |
-| experience | 8.9 | Varied coastal visits |
-| depth | 8.9 | Multiple areas and activities |
+| Impact | 8.7 | Appealing tropical island landscapes |
+| Uniqueness | 8.5 | Distinctive volcanic and marine setting |
+| Significance | 8.2 | Natural and local heritage |
+| Experience | 8.9 | Varied coastal visits |
+| Depth | 8.9 | Multiple areas and activities |
 
 - Applicable categories: beaches:9.0, nature:8.8, relaxation:8.9, wildlife:8.7.
 - Computed worldwide overall: 86.00/100.
@@ -965,8 +965,10 @@
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
 
+- Follow-up verification (2026-11-26): National tourism office supports volcanic landscapes and beach experiences; northwestern island identified, not similarly named southern islets. [Specific visitor source](https://madagascar-tourisme.com/fr/destination/nosy-be/); [published representative coordinates](https://mapcarta.com/14461858): -13.31421, 48.25899 (replaces earlier approximate point -13.3167, 48.25). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
 
-### sight-mg-ile-sainte-marie — Île Sainte-Marie (Nosy Boraha) — 2026-11-26
+
+## sight-mg-ile-sainte-marie — Île Sainte-Marie (Nosy Boraha) — 2026-11-26
 
 - YAML: [source](../../../countries/MG/sights/ile-sainte-marie.yaml)
 - Action: new
@@ -987,11 +989,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Tropical island scenery |
-| uniqueness | 8.6 | Seasonal whale and island combination |
-| significance | 8.4 | Marine and maritime heritage |
-| experience | 8.8 | Varied land and sea visits |
-| depth | 8.7 | Multiple coastal areas |
+| Impact | 8.6 | Tropical island scenery |
+| Uniqueness | 8.6 | Seasonal whale and island combination |
+| Significance | 8.4 | Marine and maritime heritage |
+| Experience | 8.8 | Varied land and sea visits |
+| Depth | 8.7 | Multiple coastal areas |
 
 - Applicable categories: beaches:8.9, wildlife:9.0, nature:8.8, history:8.4.
 - Computed worldwide overall: 86.00/100.
@@ -999,3 +1001,6 @@
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
+
+- Follow-up verification (2026-11-26): National tourism office supports beaches, hiking and seasonal humpback whale excursions; representative island point. [Specific visitor source](https://madagascar-tourisme.com/fr/destination/sainte-marie/); [published representative coordinates](https://mapcarta.com/14460104): -16.91952, 49.89574 (replaces earlier approximate point -16.9167, 49.9). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
+

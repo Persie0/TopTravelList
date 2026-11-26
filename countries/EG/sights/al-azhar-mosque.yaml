@@ -2,8 +2,8 @@ id: sight-eg-al-azhar-mosque
 name: "Al-Azhar Mosque"
 location:
   country_code: EG
-  latitude: 30.0458
-  longitude: 31.2625
+  latitude: 30.04573
+  longitude: 31.26268
 scores:
   impact: 8.8
   uniqueness: 8.9

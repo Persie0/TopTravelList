@@ -163,7 +163,7 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [ ] NZ: Bay of Islands, Mokoia Island, Polynesian Spa, Kaituna River, Rotorua Canopy Tours, Mount Ngongotahā; Te Whanganui-o-Hei Marine Reserve (distinct underwater visitor scope from Cathedral Cove).
 - [ ] AS: National Park of American Samoa (Ofu and Mount Alava components already exist).
 - [ ] ZA: Knysna experiences, Sani Pass SA side; Hermanus boat-based whale watching only if distinct scope justified.
-- [ ] TZ: Kendwa Beach (distinct from Nungwi; verify boundary and GPS), Zanzibar spice farm visitor experiences (define representative scope); MG: Nosy Komba, Île aux Nattes (separate island from Sainte-Marie; verify scope and coordinate).
+- [ ] TZ: Kendwa Beach (distinct from Nungwi; verify boundary and GPS), Zanzibar spice farm visitor experiences (define representative scope); MG: Nosy Komba, Île aux Nattes (separate island from Sainte-Marie; verify scope and coordinate), Nosy Iranja ([national tourism office](https://madagascar-tourisme.com/fr/destination/nosy-iranja/)), Nosy Sakatia ([national tourism office](https://madagascar-tourisme.com/fr/destination/nosy-sakatia/)), Mont Passot ([national tourism office](https://madagascar-tourisme.com/fr/nosy-be-un-nouvel-itineraire-pour-acceder-au-mont-passot/)).
 - [ ] NO: Romsdalen broader valley visitor scope (avoid duplicating Romsdalseggen); PT: PR1 Vereda do Areeiro (distinct full ridge route; [official route](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/)), PR6.1 Levada do Risco (verify precise route and GPS); IS: broader Vestmannaeyjar outer-island boat experience only if distinct from Heimaey.
 - [ ] MQ: Plage des Salines; KY: Stingray City dive site vs sandbar; AG: Stingray City; FJ: Yasawa/Mamanuca/Sabeto specific attractions; FO additional hiking landscapes; CK Te Manga; BS Andros specific attractions; LR Libassa; VG Anegada specific visitor sites; TO whale watching; NC Isle of Pines specific sights; YT lagoon experience.
 
@@ -191,3 +191,8 @@ Verify identity, exact scope, sources and representative GPS, four worldwide pee
 ### Integration checkpoint — 2026-11-26
 
 Merged main snapshot `d6da3f69e64e73e7e150180cc8e17d9db27c9502` into the audit branch, preserving all 113 main changes and all existing audit YAML files. Reconciled two generated rankings by taking main's rows for existing records and inserting audit-only YAML records: Egypt 42 ranked / 42 total; Tanzania 24 ranked / 30 total. Full Python generator, diagnostics refresh, and independent factual verification remain pending.
+
+
+### Pass 20 — African verification and integration
+
+Ten pass-15 coordinates replaced with published map references and more specific visitor sources. Ratings unchanged; the review evidence status remains source-linked-unverified. Latest inspected main snapshot 311fbba9e001cb296d54409eee0dd372b6efba7d incorporated (27 nonoverlapping changed files). Review heading/dimension format corrected for the 17 audit additions in TZ/MG/EG/MA; full Python workflow report still pending.

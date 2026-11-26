@@ -2,8 +2,8 @@ id: sight-ma-jemaa-el-fnaa
 name: "Jemaa el-Fnaa Square"
 location:
   country_code: MA
-  latitude: 31.6258
-  longitude: -7.9892
+  latitude: 31.62582
+  longitude: -7.98924
 scores:
   impact: 8.9
   uniqueness: 9.0

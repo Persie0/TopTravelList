@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15116; unassessed: 1153.
+Ranked: 15131; unassessed: 1138.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 588 |
+| conflicting-declared-status | 603 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2114 |
 | historical-review-only | 2516 |
-| incomplete-core | 1153 |
+| incomplete-core | 1138 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1835 |
 | overall-95-plus | 163 |
@@ -67,7 +67,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BE | cities | 18 | 18 | 84.10 | 3 | 0 | 1 | 18 | [Bruges (Brugge)](../../countries/BE/cities/bruges.yaml) 92.50; [Ghent (Gent)](../../countries/BE/cities/ghent.yaml) 91.45; [Brussels](../../countries/BE/cities/brussels.yaml) 90.10 |
 | BE | sights | 64 | 61 | 86.95 | 5 | 0 | 3 | 64 | [Historic Centre of Bruges](../../countries/BE/sights/historic-bruges.yaml) 93.45; [Medieval Ghent and abbey heritage (tentative)](../../countries/BE/sights/ghent-historic-core.yaml) 91.20; [Grand-Place, Brussels](../../countries/BE/sights/grand-place.yaml) 90.90 |
 | BF | cities | 9 | 4 | 74.90 | 0 | 0 | 0 | 9 | [Bobo-Dioulasso](../../countries/BF/cities/bobo-dioulasso.yaml) 81.55; [Ouagadougou](../../countries/BF/cities/ouagadougou.yaml) 76.30; [Gaoua](../../countries/BF/cities/gaoua.yaml) 73.50 |
-| BF | sights | 35 | 11 | 83.25 | 1 | 0 | 1 | 35 | [Royal Court of Tiébélé](../../countries/BF/sights/royal-court-tiebele.yaml) 90.20; [Sindou Peaks](../../countries/BF/sights/sindou-peaks.yaml) 85.90; [Sya Historic Centre (Dioulassoba)](../../countries/BF/sights/sya-historic-centre.yaml) 85.60 |
+| BF | sights | 35 | 13 | 83.25 | 1 | 0 | 1 | 35 | [Royal Court of Tiébélé](../../countries/BF/sights/royal-court-tiebele.yaml) 90.20; [Sindou Peaks](../../countries/BF/sights/sindou-peaks.yaml) 85.90; [Sya Historic Centre (Dioulassoba)](../../countries/BF/sights/sya-historic-centre.yaml) 85.60 |
 | BG | cities | 18 | 18 | 82.68 | 0 | 0 | 0 | 18 | [Plovdiv](../../countries/BG/cities/plovdiv.yaml) 89.00; [Veliko Tarnovo](../../countries/BG/cities/veliko-tarnovo.yaml) 88.00; [Nessebar](../../countries/BG/cities/nessebar.yaml) 86.95 |
 | BG | sights | 46 | 46 | 86.78 | 6 | 0 | 2 | 46 | [Rila Monastery](../../countries/BG/sights/rila-monastery.yaml) 92.40; [Pirin National Park](../../countries/BG/sights/pirin-national-park.yaml) 91.95; [Rila National Park](../../countries/BG/sights/rila-national-park.yaml) 91.30 |
 | BH | cities | 15 | 15 | 68.75 | 0 | 0 | 0 | 15 | [Muharraq](../../countries/BH/cities/muharraq.yaml) 84.95; [Manama](../../countries/BH/cities/manama.yaml) 83.35; [Awali](../../countries/BH/cities/awali.yaml) 75.05 |
@@ -195,7 +195,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | GL | cities | 7 | 7 | 81.75 | 0 | 0 | 0 | 7 | [Nuuk](../../countries/GL/cities/nuuk.yaml) 85.65; [Ilulissat](../../countries/GL/cities/ilulissat.yaml) 83.10; [Tasiilaq](../../countries/GL/cities/tasiilaq.yaml) 82.20 |
 | GL | sights | 12 | 9 | 90.60 | 5 | 1 | 5 | 12 | [Ilulissat Icefjord](../../countries/GL/sights/ilulissat-icefjord.yaml) 96.80; [Disko Bay (excluding Ilulissat Icefjord)](../../countries/GL/sights/disko-bay.yaml) 91.65; [Eqip Sermia (Eqi Glacier)](../../countries/GL/sights/eqi-glacier.yaml) 90.75 |
 | GM | cities | 16 | 16 | 69.95 | 0 | 0 | 0 | 16 | [Janjanbureh](../../countries/GM/cities/janjanbureh.yaml) 77.40; [Juffureh](../../countries/GM/cities/juffureh.yaml) 75.35; [Albreda](../../countries/GM/cities/albreda.yaml) 74.60 |
-| GM | sights | 31 | 28 | 77.12 | 0 | 0 | 1 | 31 | [Kunta Kinteh Island](../../countries/GM/sights/kunta-kinteh-island.yaml) 86.50; [Wassu Stone Circles](../../countries/GM/sights/wassu-stone-circles.yaml) 86.40; [River Gambia National Park](../../countries/GM/sights/river-gambia-national-park.yaml) 84.45 |
+| GM | sights | 31 | 30 | 77.12 | 0 | 0 | 1 | 31 | [Kunta Kinteh Island](../../countries/GM/sights/kunta-kinteh-island.yaml) 86.50; [Wassu Stone Circles](../../countries/GM/sights/wassu-stone-circles.yaml) 86.40; [River Gambia National Park](../../countries/GM/sights/river-gambia-national-park.yaml) 84.45 |
 | GN | cities | 14 | 14 | 70.65 | 0 | 0 | 0 | 14 | [Dalaba](../../countries/GN/cities/dalaba.yaml) 77.25; [Conakry](../../countries/GN/cities/conakry.yaml) 76.55; [Timbo](../../countries/GN/cities/timbo.yaml) 75.65 |
 | GN | sights | 30 | 22 | 79.32 | 1 | 0 | 2 | 30 | [Fouta Djallon Massif (tentative property)](../../countries/GN/sights/fouta-djallon-massif-tentative-property.yaml) 91.60; [Fouta Djallon Highlands (guided visitor circuits)](../../countries/GN/sights/fouta-djallon-highlands-guided-visitor-circuits.yaml) 88.65; [Timbo to Rio Pongo Slave Route (tentative property)](../../countries/GN/sights/timbo-to-rio-pongo-slave-route-tentative-property.yaml) 86.30 |
 | GP | cities | 5 | 5 | 76.70 | 0 | 0 | 0 | 5 | [Terre-de-Haut (bourg)](../../countries/GP/cities/terre-de-haut.yaml) 81.30; [Pointe-à-Pitre](../../countries/GP/cities/pointe-a-pitre.yaml) 78.55; [Basse-Terre](../../countries/GP/cities/basse-terre.yaml) 76.70 |
@@ -287,7 +287,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | LK | cities | 55 | 55 | 74.60 | 2 | 0 | 1 | 55 | [Anuradhapura](../../countries/LK/cities/anuradhapura.yaml) 91.00; [Kandy](../../countries/LK/cities/kandy.yaml) 90.65; [Galle](../../countries/LK/cities/galle.yaml) 89.55 |
 | LK | sights | 178 | 176 | 82.32 | 21 | 2 | 19 | 178 | [Sigiriya Ancient City and Rock Fortress](../../countries/LK/sights/sigiriya-ancient-city-and-rock-fortress.yaml) 96.50; [Sacred City of Anuradhapura](../../countries/LK/sights/sacred-city-of-anuradhapura.yaml) 95.20; [Ancient City of Polonnaruwa](../../countries/LK/sights/ancient-city-of-polonnaruwa.yaml) 94.15 |
 | LR | cities | 14 | 14 | 70.75 | 0 | 0 | 0 | 14 | [Monrovia](../../countries/LR/cities/monrovia.yaml) 80.20; [Harper](../../countries/LR/cities/harper.yaml) 77.50; [Edina](../../countries/LR/cities/edina.yaml) 76.10 |
-| LR | sights | 26 | 18 | 76.30 | 0 | 0 | 0 | 26 | [East Nimba Nature Reserve (proposed Mount Nimba extension)](../../countries/LR/sights/east-nimba-nature-reserve-proposed-mount-nimba-extension.yaml) 89.40; [Sapo National Park](../../countries/LR/sights/sapo-national-park.yaml) 88.90; [Lake Piso Multi-Use Reserve](../../countries/LR/sights/lake-piso-multi-use-reserve.yaml) 84.45 |
+| LR | sights | 26 | 23 | 78.30 | 0 | 0 | 0 | 26 | [East Nimba Nature Reserve (proposed Mount Nimba extension)](../../countries/LR/sights/east-nimba-nature-reserve-proposed-mount-nimba-extension.yaml) 89.40; [Sapo National Park](../../countries/LR/sights/sapo-national-park.yaml) 88.90; [Gola Rainforest National Park (Liberia)](../../countries/LR/sights/gola-rainforest-national-park-liberia.yaml) 88.70 |
 | LS | cities | 16 | 16 | 68.90 | 0 | 0 | 0 | 16 | [Morija](../../countries/LS/cities/morija.yaml) 76.55; [Semonkong](../../countries/LS/cities/semonkong.yaml) 74.10; [Roma](../../countries/LS/cities/roma.yaml) 72.50 |
 | LS | sights | 38 | 33 | 78.65 | 1 | 0 | 1 | 38 | [Sehlabathebe National Park](../../countries/LS/sights/sehlabathebe-national-park.yaml) 90.10; [Maletsunyane Falls](../../countries/LS/sights/maletsunyane-falls.yaml) 88.35; [Thaba Bosiu National Monument](../../countries/LS/sights/thaba-bosiu-national-monument.yaml) 86.05 |
 | LT | cities | 18 | 18 | 78.10 | 1 | 0 | 0 | 18 | [Vilnius](../../countries/LT/cities/vilnius.yaml) 90.55; [Kaunas](../../countries/LT/cities/kaunas.yaml) 87.65; [Nida](../../countries/LT/cities/nida.yaml) 84.00 |
@@ -315,7 +315,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MK | cities | 14 | 14 | 77.20 | 0 | 0 | 0 | 14 | [Ohrid](../../countries/MK/cities/ohrid.yaml) 89.70; [Skopje](../../countries/MK/cities/skopje.yaml) 83.15; [Bitola](../../countries/MK/cities/bitola.yaml) 82.30 |
 | MK | sights | 33 | 32 | 86.08 | 2 | 0 | 1 | 33 | [Ohrid Historic Centre](../../countries/MK/sights/ohrid-historic-centre.yaml) 91.50; [Lake Ohrid North Macedonian Shore](../../countries/MK/sights/lake-ohrid-north-macedonian-shore.yaml) 90.35; [Saint John at Kaneo](../../countries/MK/sights/saint-john-at-kaneo.yaml) 88.60 |
 | ML | cities | 11 | 10 | 78.58 | 1 | 0 | 2 | 11 | [Djenné](../../countries/ML/cities/djenne.yaml) 90.40; [Timbuktu](../../countries/ML/cities/timbuktu.yaml) 88.30; [Gao](../../countries/ML/cities/gao.yaml) 80.90 |
-| ML | sights | 33 | 11 | 87.20 | 3 | 0 | 6 | 33 | [Cliff of Bandiagara (Land of the Dogons)](../../countries/ML/sights/bandiagara-escarpment.yaml) 93.95; [Djenné Old Town](../../countries/ML/sights/djenne-old-town.yaml) 91.90; [Great Mosque of Djenné](../../countries/ML/sights/djenne-great-mosque.yaml) 91.20 |
+| ML | sights | 33 | 14 | 85.05 | 3 | 0 | 6 | 33 | [Cliff of Bandiagara (Land of the Dogons)](../../countries/ML/sights/bandiagara-escarpment.yaml) 93.95; [Djenné Old Town](../../countries/ML/sights/djenne-old-town.yaml) 91.90; [Great Mosque of Djenné](../../countries/ML/sights/djenne-great-mosque.yaml) 91.20 |
 | MM | cities | 12 | 11 | 75.30 | 0 | 0 | 0 | 12 | [Yangon](../../countries/MM/cities/yangon.yaml) 86.75; [Mandalay](../../countries/MM/cities/mandalay.yaml) 85.60; [Mawlamyine](../../countries/MM/cities/mawlamyine.yaml) 79.90 |
 | MM | sights | 39 | 17 | 84.85 | 2 | 0 | 0 | 39 | [Bagan Archaeological Landscape](../../countries/MM/sights/bagan.yaml) 93.70; [Shwedagon Pagoda on Singuttara Hill](../../countries/MM/sights/shwedagon.yaml) 92.25; [Inle Lake](../../countries/MM/sights/inle-lake.yaml) 89.10 |
 | MN | cities | 18 | 18 | 68.32 | 0 | 0 | 0 | 18 | [Ulaanbaatar](../../countries/MN/cities/ulaanbaatar.yaml) 84.50; [Olgii](../../countries/MN/cities/olgii.yaml) 77.90; [Kharkhorin](../../countries/MN/cities/kharkhorin.yaml) 77.10 |
@@ -435,7 +435,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SM | cities | 14 | 14 | 68.72 | 0 | 0 | 0 | 14 | [City of San Marino](../../countries/SM/cities/city-of-san-marino.yaml) 87.65; [Borgo Maggiore](../../countries/SM/cities/borgo-maggiore.yaml) 76.65; [Montegiardino](../../countries/SM/cities/montegiardino.yaml) 73.10 |
 | SM | sights | 25 | 25 | 77.95 | 1 | 0 | 0 | 25 | [San Marino Historic Centre and Mount Titano](../../countries/SM/sights/san-marino-historic-centre-and-mount-titano.yaml) 90.80; [Guaita (First Tower)](../../countries/SM/sights/guaita-first-tower.yaml) 88.05; [Cesta (Second Tower)](../../countries/SM/sights/cesta-second-tower.yaml) 87.10 |
 | SN | cities | 8 | 8 | 81.08 | 0 | 0 | 0 | 8 | [Dakar](../../countries/SN/cities/dakar.yaml) 87.05; [Saint-Louis](../../countries/SN/cities/saint-louis.yaml) 86.35; [Touba](../../countries/SN/cities/touba.yaml) 83.60 |
-| SN | sights | 23 | 20 | 87.42 | 3 | 0 | 2 | 23 | [Island of Gorée](../../countries/SN/sights/goree-island.yaml) 92.10; [Saloum Delta](../../countries/SN/sights/saloum-delta.yaml) 91.95; [Djoudj National Bird Sanctuary](../../countries/SN/sights/djoudj-bird-sanctuary.yaml) 91.50 |
+| SN | sights | 23 | 22 | 86.90 | 3 | 0 | 2 | 23 | [Island of Gorée](../../countries/SN/sights/goree-island.yaml) 92.10; [Saloum Delta](../../countries/SN/sights/saloum-delta.yaml) 91.95; [Djoudj National Bird Sanctuary](../../countries/SN/sights/djoudj-bird-sanctuary.yaml) 91.50 |
 | SO | cities | 10 | 3 | 74.80 | 0 | 0 | 0 | 10 | [Berbera](../../countries/SO/cities/berbera.yaml) 81.00; [Hargeisa](../../countries/SO/cities/hargeisa.yaml) 74.80; [Sheikh](../../countries/SO/cities/sheikh.yaml) 73.00 |
 | SO | sights | 13 | 5 | 79.80 | 1 | 0 | 1 | 13 | [Laas Geel Rock Art](../../countries/SO/sights/laas-geel.yaml) 92.45; [Old Berbera Heritage Quarter](../../countries/SO/sights/old-berbera.yaml) 83.30; [Sheikh Mountain Pass](../../countries/SO/sights/sheikh-mountain-pass.yaml) 79.80 |
 | SR | cities | 20 | 20 | 67.45 | 0 | 0 | 0 | 20 | [Paramaribo](../../countries/SR/cities/paramaribo.yaml) 84.30; [Kwamalasamutu](../../countries/SR/cities/kwamalasamutu.yaml) 75.25; [Pikin Slee](../../countries/SR/cities/pikin-slee.yaml) 74.65 |
@@ -459,7 +459,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | TF | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | TF | sights | 6 | 0 |  | 0 | 0 | 1 | 6 |  |
 | TG | cities | 16 | 15 | 72.40 | 0 | 0 | 0 | 16 | [Lomé](../../countries/TG/cities/lome.yaml) 79.90; [Aného](../../countries/TG/cities/aneho.yaml) 79.60; [Togoville](../../countries/TG/cities/togoville.yaml) 78.30 |
-| TG | sights | 31 | 28 | 77.15 | 1 | 0 | 1 | 31 | [Koutammakou (Togo sector)](../../countries/TG/sights/koutammakou-togo-sector.yaml) 91.00; [Fazao-Malfakassa National Park](../../countries/TG/sights/fazao-malfakassa-national-park.yaml) 83.85; [Palais de Lomé](../../countries/TG/sights/palais-de-lome.yaml) 83.05 |
+| TG | sights | 31 | 29 | 77.30 | 1 | 0 | 1 | 31 | [Koutammakou (Togo sector)](../../countries/TG/sights/koutammakou-togo-sector.yaml) 91.00; [Nok, Mamproug, Kouba and Bagou Cave Granaries](../../countries/TG/sights/nok-mamproug-kouba-and-bagou-cave-granaries.yaml) 87.00; [Fazao-Malfakassa National Park](../../countries/TG/sights/fazao-malfakassa-national-park.yaml) 83.85 |
 | TH | cities | 69 | 69 | 70.90 | 2 | 0 | 2 | 0 | [Bangkok](../../countries/TH/cities/bangkok.yaml) 91.85; [Ayutthaya](../../countries/TH/cities/ayutthaya.yaml) 91.80; [Chiang Mai](../../countries/TH/cities/chiang-mai.yaml) 89.45 |
 | TH | sights | 206 | 206 | 83.75 | 16 | 2 | 34 | 0 | [Ayutthaya Historical Park](../../countries/TH/sights/ayutthaya-historical-park.yaml) 95.75; [Sukhothai Historical Park](../../countries/TH/sights/sukhothai-historical-park.yaml) 95.55; [Wat Phra Kaew (Temple of the Emerald Buddha)](../../countries/TH/sights/wat-phra-kaew.yaml) 94.80 |
 | TJ | cities | 14 | 14 | 72.88 | 0 | 0 | 0 | 14 | [Khujand](../../countries/TJ/cities/khujand.yaml) 79.65; [Dushanbe](../../countries/TJ/cities/dushanbe.yaml) 78.90; [Istaravshan](../../countries/TJ/cities/istaravshan.yaml) 78.90 |

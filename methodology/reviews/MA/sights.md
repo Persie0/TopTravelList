@@ -653,7 +653,7 @@
 UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and fourteen tentative entries. Thirteen tentative entries represented in MA YAML; Dakhla National Park remains documented separately pending neutral Western Sahara coding. No territorial claim inferred from a State Party submission. Component coverage remains incomplete.
 
 
-### sight-ma-jemaa-el-fnaa — Jemaa el-Fnaa Square — 2026-11-26
+## sight-ma-jemaa-el-fnaa — Jemaa el-Fnaa Square — 2026-11-26
 
 - YAML: [source](../../../countries/MA/sights/jemaa-el-fnaa.yaml)
 - Action: new
@@ -674,11 +674,11 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Lively distinctive public space |
-| uniqueness | 9.0 | Unusual living performance traditions |
-| significance | 9.1 | Important intangible cultural heritage |
-| experience | 9.0 | Changing market and cultural atmosphere |
-| depth | 8.5 | Several activities within one square |
+| Impact | 8.9 | Lively distinctive public space |
+| Uniqueness | 9.0 | Unusual living performance traditions |
+| Significance | 9.1 | Important intangible cultural heritage |
+| Experience | 9.0 | Changing market and cultural atmosphere |
+| Depth | 8.5 | Several activities within one square |
 
 - Applicable categories: culture:9.3, food:8.9, history:8.9, photography:8.9.
 - Computed worldwide overall: 89.40/100.
@@ -687,8 +687,10 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration, GPS and current visitor access.
 
+- Follow-up verification (2026-11-26): UNESCO confirms living cultural space and traditions; mapped square footprint. [Specific visitor source](https://ich.unesco.org/en/RL/cultural-space-of-jemaa-el-fna-square-00014); [published representative coordinates](https://mapcarta.com/27389480): 31.62582, -7.98924 (replaces earlier approximate point 31.6258, -7.9892). Core and category ratings unchanged. Evidence remains **source-linked-unverified** pending complete claim-level corroboration and current access checks.
 
-### sight-ma-bahia-palace — Bahia Palace — 2026-11-26
+
+## sight-ma-bahia-palace — Bahia Palace — 2026-11-26
 
 - YAML: [source](../../../countries/MA/sights/bahia-palace.yaml)
 - Action: new
@@ -709,11 +711,11 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Intricate courtyards and decoration |
-| uniqueness | 8.7 | Distinctive craftsmanship with regional peers |
-| significance | 8.7 | Royal and elite architectural heritage |
-| experience | 8.8 | Several rooms and courtyards |
-| depth | 8.6 | Varied interior ensemble |
+| Impact | 9.0 | Intricate courtyards and decoration |
+| Uniqueness | 8.7 | Distinctive craftsmanship with regional peers |
+| Significance | 8.7 | Royal and elite architectural heritage |
+| Experience | 8.8 | Several rooms and courtyards |
+| Depth | 8.6 | Varied interior ensemble |
 
 - Applicable categories: architecture:9.3, history:8.9, culture:8.9, photography:9.1.
 - Computed worldwide overall: 87.95/100.
@@ -723,7 +725,7 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-ma-ben-youssef-madrasa — Ben Youssef Madrasa — 2026-11-26
+## sight-ma-ben-youssef-madrasa — Ben Youssef Madrasa — 2026-11-26
 
 - YAML: [source](../../../countries/MA/sights/ben-youssef-madrasa.yaml)
 - Action: new
@@ -744,11 +746,11 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Exceptional ornamental courtyard |
-| uniqueness | 8.8 | Distinctive educational architecture |
-| significance | 8.9 | Important religious education history |
-| experience | 8.7 | Focused interior exploration |
-| depth | 8.1 | One richly decorated complex |
+| Impact | 8.9 | Exceptional ornamental courtyard |
+| Uniqueness | 8.8 | Distinctive educational architecture |
+| Significance | 8.9 | Important religious education history |
+| Experience | 8.7 | Focused interior exploration |
+| Depth | 8.1 | One richly decorated complex |
 
 - Applicable categories: architecture:9.3, history:9.0, culture:9.0, photography:9.1.
 - Computed worldwide overall: 87.65/100.
@@ -758,7 +760,7 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-ma-el-badi-palace — El Badi Palace — 2026-11-26
+## sight-ma-el-badi-palace — El Badi Palace — 2026-11-26
 
 - YAML: [source](../../../countries/MA/sights/el-badi-palace.yaml)
 - Action: new
@@ -779,11 +781,11 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.5 | Impressive ruined ensemble |
-| uniqueness | 8.5 | Comparable palace ruins exist |
-| significance | 8.9 | Saadian royal heritage |
-| experience | 8.6 | Walkable monument grounds |
-| depth | 8.4 | Several archaeological features |
+| Impact | 8.5 | Impressive ruined ensemble |
+| Uniqueness | 8.5 | Comparable palace ruins exist |
+| Significance | 8.9 | Saadian royal heritage |
+| Experience | 8.6 | Walkable monument grounds |
+| Depth | 8.4 | Several archaeological features |
 
 - Applicable categories: architecture:8.8, history:9.0, culture:8.8, photography:8.7.
 - Computed worldwide overall: 85.85/100.
@@ -793,7 +795,7 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-ma-chefchaouen-kasbah — Chefchaouen Kasbah and Museum — 2026-11-26
+## sight-ma-chefchaouen-kasbah — Chefchaouen Kasbah and Museum — 2026-11-26
 
 - YAML: [source](../../../countries/MA/sights/chefchaouen-kasbah.yaml)
 - Action: new
@@ -814,11 +816,11 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.1 | Historic fortress and garden |
-| uniqueness | 8.2 | Other regional kasbahs comparable |
-| significance | 8.5 | Local founding and cultural heritage |
-| experience | 8.4 | Museum and architectural visit |
-| depth | 8.0 | Focused fort complex |
+| Impact | 8.1 | Historic fortress and garden |
+| Uniqueness | 8.2 | Other regional kasbahs comparable |
+| Significance | 8.5 | Local founding and cultural heritage |
+| Experience | 8.4 | Museum and architectural visit |
+| Depth | 8.0 | Focused fort complex |
 
 - Applicable categories: architecture:8.6, history:8.7, culture:8.6.
 - Computed worldwide overall: 82.40/100.

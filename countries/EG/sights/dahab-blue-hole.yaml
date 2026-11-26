@@ -2,8 +2,8 @@ id: sight-eg-dahab-blue-hole
 name: "Blue Hole (Dahab)"
 location:
   country_code: EG
-  latitude: 28.5725
-  longitude: 34.5369
+  latitude: 28.57224
+  longitude: 34.53695
 scores:
   impact: 8.8
   uniqueness: 8.8
