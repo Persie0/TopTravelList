@@ -236,3 +236,14 @@ Six additions; 24 individual cross-country peer comparisons. Separate park, pala
 - [x] ES — Reina Sofía Museum: 92.00/100 (source-linked-unverified).
 
 Six additions; 24 peer comparisons; published representative locations and primary visitor evidence checked. Existing UAE waterparks are retained as separate peers. Turin and Madrid museum scopes are independent of existing city and heritage records. Full Python validation and diagnostics remain pending. No existing ratings changed. Next: more European museums and cultural landmarks, including Neues Museum, Jewish Museum Berlin, Topography of Terror, Albertina, and Thyssen-Bornemisza.
+
+
+### Pass 25 — European museums and documentation centres
+
+- [x] DE — Neues Museum (Berlin): 91.75/100 (source-linked-unverified).
+- [x] DE — Jewish Museum Berlin: 91.85/100 (source-linked-unverified).
+- [x] DE — Topography of Terror Documentation Centre: 90.25/100 (source-linked-unverified).
+- [x] AT — Albertina Museum: 90.45/100 (source-linked-unverified).
+- [x] ES — Thyssen-Bornemisza National Museum: 90.55/100 (source-linked-unverified).
+
+Five additions, 20 peer comparisons. Exhibition sources and representative map coordinates inspected; separate scopes for Neues Museum and Museum Island, and main Albertina only. Documentation centre generic inferred type pending classification overhaul. Existing ratings unchanged. Full Python validation and diagnostics remain pending. Next: Accademia Florence, Royal Palace Madrid, National Gallery of Art Washington, Royal Ontario Museum and major Australian museums.

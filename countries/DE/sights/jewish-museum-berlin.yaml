@@ -1,0 +1,16 @@
+id: sight-de-jewish-museum-berlin
+name: "Jewish Museum Berlin"
+location:
+  country_code: DE
+  latitude: 52.50228
+  longitude: 13.39542
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 9.3

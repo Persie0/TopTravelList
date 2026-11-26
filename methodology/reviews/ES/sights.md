@@ -4035,3 +4035,39 @@
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-es-thyssen-bornemisza-museum — Thyssen-Bornemisza National Museum — 2026-11-26
+
+- YAML: [source](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml)
+- Action: new
+- Precise subject: Main Madrid museum, excluding Prado, Reina Sofía and wider Art Walk.
+- Location check: 40.416042, -3.694925; [published representative point](https://www.latlong.net/place/thyssen-bornemisza-museum-madrid-spain-23215.html), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Permanent collection across two upper floors; Western painting from the thirteenth to twentieth centuries. [Reference 1](https://www.museothyssen.org/en/collection/permanent-collection); [Reference 2](https://www.esmadrid.com/en/tourist-information/thyssen-bornemisza-national-museum); inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Greater encyclopedic and archaeological breadth. |
+| [ES/prado](../../../countries/ES/sights/prado.yaml) | Stronger Spanish old-master holdings. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | Deeper Spanish modernist focus; Thyssen spans more centuries. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | More concentrated modernism and state rooms; Thyssen has longer painting chronology. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Strong paintings across eras make a memorable art visit. |
+| Uniqueness | 9.0 | Coherent chronological span is distinctive but comparable galleries exist. |
+| Significance | 9.1 | Important Western art holdings with less singular anchors than leaders. |
+| Experience | 9.1 | Chronological galleries reward stylistic comparisons. |
+| Depth | 9.2 | Long time span and multiple floors give substantial depth. |
+
+- Applicable categories: culture:9.4, history:9.0, architecture:8.3.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: Above 90 based on the specific significance and experience described above; lower than world-leading broad collections in the comparisons. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

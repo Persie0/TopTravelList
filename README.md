@@ -103,7 +103,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Armenia](countries/AM/) (`AM`) | [20](countries/AM/cities.md) | [55](countries/AM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Armenia) |
 | [Aruba](countries/AW/) (`AW`) | [2](countries/AW/cities.md) | [13](countries/AW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Aruba) |
 | [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [52](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
-| [Austria](countries/AT/) (`AT`) | [45](countries/AT/cities.md) | [133](countries/AT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Austria) |
+| [Austria](countries/AT/) (`AT`) | [45](countries/AT/cities.md) | [134](countries/AT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Austria) |
 | [Azerbaijan](countries/AZ/) (`AZ`) | [16](countries/AZ/cities.md) | [40](countries/AZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Azerbaijan) |
 | [Bahamas](countries/BS/) (`BS`) | [12](countries/BS/cities.md) | [34](countries/BS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahamas) |
 | [Bahrain](countries/BH/) (`BH`) | [15](countries/BH/cities.md) | [40](countries/BH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahrain) |
@@ -172,7 +172,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Gabon](countries/GA/) (`GA`) | [14](countries/GA/cities.md) | [32](countries/GA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gabon) |
 | [Gambia](countries/GM/) (`GM`) | [16](countries/GM/cities.md) | [31](countries/GM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gambia) |
 | [Georgia](countries/GE/) (`GE`) | [14](countries/GE/cities.md) | [38](countries/GE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Georgia) |
-| [Germany](countries/DE/) (`DE`) | [30](countries/DE/cities.md) | [98](countries/DE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Germany) |
+| [Germany](countries/DE/) (`DE`) | [30](countries/DE/cities.md) | [101](countries/DE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Germany) |
 | [Ghana](countries/GH/) (`GH`) | [20](countries/GH/cities.md) | [50](countries/GH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ghana) |
 | [Gibraltar](countries/GI/) (`GI`) | [1](countries/GI/cities.md) | [9](countries/GI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gibraltar) |
 | [Greece](countries/GR/) (`GR`) | [18](countries/GR/cities.md) | [65](countries/GR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Greece) |
@@ -298,7 +298,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [South Georgia and the South Sandwich Islands](countries/GS/) (`GS`) | [0](countries/GS/cities.md) | [10](countries/GS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
 | [South Korea](countries/KR/) (`KR`) | [82](countries/KR/cities.md) | [285](countries/KR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=South%20Korea) |
 | [South Sudan](countries/SS/) (`SS`) | [10](countries/SS/cities.md) | [20](countries/SS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=South%20Sudan) |
-| [Spain](countries/ES/) (`ES`) | [22](countries/ES/cities.md) | [115](countries/ES/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Spain) |
+| [Spain](countries/ES/) (`ES`) | [22](countries/ES/cities.md) | [116](countries/ES/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Spain) |
 | [Sri Lanka](countries/LK/) (`LK`) | [55](countries/LK/cities.md) | [178](countries/LK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Sri%20Lanka) |
 | [Sudan](countries/SD/) (`SD`) | [9](countries/SD/cities.md) | [26](countries/SD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Sudan) |
 | [Suriname](countries/SR/) (`SR`) | [20](countries/SR/cities.md) | [37](countries/SR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Suriname) |

@@ -1,0 +1,16 @@
+id: sight-es-thyssen-bornemisza-museum
+name: "Thyssen-Bornemisza National Museum"
+location:
+  country_code: ES
+  latitude: 40.416042
+  longitude: -3.694925
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.0
+    architecture: 8.3
