@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14751; unassessed: 1518.
+Ranked: 14755; unassessed: 1514.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 392 |
+| conflicting-declared-status | 396 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1518 |
+| incomplete-core | 1514 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1794 |
 | overall-95-plus | 159 |
@@ -83,7 +83,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BN | cities | 9 | 9 | 65.20 | 0 | 0 | 0 | 9 | [Bandar Seri Begawan](../../countries/BN/cities/bandar-seri-begawan.yaml) 83.70; [Seria](../../countries/BN/cities/seria.yaml) 68.80; [Kuala Belait](../../countries/BN/cities/kuala-belait.yaml) 67.40 |
 | BN | sights | 41 | 41 | 75.40 | 1 | 0 | 0 | 41 | [Ulu Temburong National Park](../../countries/BN/sights/ulu-temburong-national-park.yaml) 90.00; [Kampong Ayer](../../countries/BN/sights/kampong-ayer.yaml) 87.20; [Omar Ali Saifuddien Mosque](../../countries/BN/sights/omar-ali-saifuddien-mosque.yaml) 86.45 |
 | BO | cities | 33 | 33 | 74.65 | 1 | 0 | 1 | 33 | [La Paz](../../countries/BO/cities/la-paz.yaml) 90.85; [Sucre](../../countries/BO/cities/sucre.yaml) 88.60; [Potosí](../../countries/BO/cities/potosi.yaml) 87.70 |
-| BO | sights | 56 | 52 | 84.98 | 12 | 1 | 16 | 56 | [Salar de Uyuni](../../countries/BO/sights/salar-de-uyuni.yaml) 95.55; [Eduardo Avaroa Andean Fauna National Reserve](../../countries/BO/sights/eduardo-avaroa-andean-fauna-national-reserve.yaml) 93.75; [Madidi National Park](../../countries/BO/sights/madidi-national-park.yaml) 93.25 |
+| BO | sights | 56 | 53 | 85.15 | 12 | 1 | 16 | 56 | [Salar de Uyuni](../../countries/BO/sights/salar-de-uyuni.yaml) 95.55; [Eduardo Avaroa Andean Fauna National Reserve](../../countries/BO/sights/eduardo-avaroa-andean-fauna-national-reserve.yaml) 93.75; [Madidi National Park](../../countries/BO/sights/madidi-national-park.yaml) 93.25 |
 | BQ | cities | 5 | 5 | 77.95 | 0 | 0 | 0 | 5 | [Oranjestad (Sint Eustatius)](../../countries/BQ/cities/oranjestad-statia.yaml) 83.00; [Windwardside (Saba)](../../countries/BQ/cities/windwardside.yaml) 80.20; [Rincon (Bonaire)](../../countries/BQ/cities/rincon.yaml) 77.95 |
 | BQ | sights | 13 | 13 | 85.60 | 0 | 0 | 0 | 13 | [Saba National Marine Park (permitted dive sites)](../../countries/BQ/sights/saba-marine-park.yaml) 88.70; [Bonaire National Marine Park (permitted dive sites)](../../countries/BQ/sights/bonaire-marine-park.yaml) 88.45; [Mount Scenery trail (Saba)](../../countries/BQ/sights/mount-scenery.yaml) 88.20 |
 | BR | cities | 42 | 42 | 77.88 | 2 | 0 | 5 | 42 | [Rio de Janeiro](../../countries/BR/cities/rio-de-janeiro.yaml) 93.50; [Salvador](../../countries/BR/cities/salvador.yaml) 90.05; [Ouro Preto](../../countries/BR/cities/ouro-preto.yaml) 89.85 |
@@ -397,7 +397,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PW | cities | 7 | 5 | 72.55 | 0 | 0 | 0 | 7 | [Koror](../../countries/PW/cities/koror.yaml) 77.50; [Airai Village (Ordomel)](../../countries/PW/cities/airai-village.yaml) 73.30; [Melekeok Village](../../countries/PW/cities/melekeok.yaml) 72.55 |
 | PW | sights | 22 | 16 | 83.58 | 2 | 0 | 2 | 22 | [Rock Islands Southern Lagoon](../../countries/PW/sights/rock-islands-southern-lagoon.yaml) 94.25; [Jellyfish Lake (Ongeim'l Tketau)](../../countries/PW/sights/jellyfish-lake.yaml) 90.80; [Blue Corner](../../countries/PW/sights/blue-corner.yaml) 89.55 |
 | PY | cities | 34 | 34 | 69.85 | 0 | 0 | 0 | 34 | [Asunción](../../countries/PY/cities/asuncion.yaml) 82.50; [Areguá](../../countries/PY/cities/aregua.yaml) 76.85; [Encarnación](../../countries/PY/cities/encarnacion.yaml) 76.75 |
-| PY | sights | 52 | 46 | 78.85 | 1 | 0 | 1 | 52 | [Jesuit Mission of La Santísima Trinidad de Paraná](../../countries/PY/sights/jesuit-mission-of-la-santisima-trinidad-de-parana.yaml) 90.45; [Paraguayan Pantanal](../../countries/PY/sights/paraguayan-pantanal.yaml) 87.50; [Jesuit Mission of Jesús de Tavarangue](../../countries/PY/sights/jesuit-mission-of-jesus-de-tavarangue.yaml) 86.65 |
+| PY | sights | 52 | 47 | 78.85 | 1 | 0 | 1 | 52 | [Jesuit Mission of La Santísima Trinidad de Paraná](../../countries/PY/sights/jesuit-mission-of-la-santisima-trinidad-de-parana.yaml) 90.45; [Paraguayan Pantanal](../../countries/PY/sights/paraguayan-pantanal.yaml) 87.50; [Jesuit Mission of Jesús de Tavarangue](../../countries/PY/sights/jesuit-mission-of-jesus-de-tavarangue.yaml) 86.65 |
 | QA | cities | 14 | 13 | 67.65 | 0 | 0 | 0 | 14 | [Doha](../../countries/QA/cities/doha.yaml) 84.85; [Al Wakrah](../../countries/QA/cities/al-wakrah.yaml) 76.25; [Lusail](../../countries/QA/cities/lusail.yaml) 74.50 |
 | QA | sights | 55 | 51 | 76.45 | 3 | 0 | 1 | 55 | [Museum of Islamic Art](../../countries/QA/sights/museum-of-islamic-art.yaml) 92.95; [Khor Al Adaid (Inland Sea)](../../countries/QA/sights/khor-al-adaid-inland-sea.yaml) 90.50; [National Museum of Qatar](../../countries/QA/sights/national-museum-of-qatar.yaml) 90.50 |
 | RE | cities | 5 | 5 | 79.15 | 0 | 0 | 0 | 5 | [Cilaos](../../countries/RE/cities/cilaos.yaml) 81.05; [Hell-Bourg](../../countries/RE/cities/hell-bourg.yaml) 80.85; [Saint-Denis](../../countries/RE/cities/saint-denis.yaml) 79.15 |
@@ -439,7 +439,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SO | cities | 10 | 3 | 74.80 | 0 | 0 | 0 | 10 | [Berbera](../../countries/SO/cities/berbera.yaml) 81.00; [Hargeisa](../../countries/SO/cities/hargeisa.yaml) 74.80; [Sheikh](../../countries/SO/cities/sheikh.yaml) 73.00 |
 | SO | sights | 13 | 5 | 79.80 | 1 | 0 | 1 | 13 | [Laas Geel Rock Art](../../countries/SO/sights/laas-geel.yaml) 92.45; [Old Berbera Heritage Quarter](../../countries/SO/sights/old-berbera.yaml) 83.30; [Sheikh Mountain Pass](../../countries/SO/sights/sheikh-mountain-pass.yaml) 79.80 |
 | SR | cities | 20 | 19 | 67.05 | 0 | 0 | 0 | 20 | [Paramaribo](../../countries/SR/cities/paramaribo.yaml) 84.30; [Pikin Slee](../../countries/SR/cities/pikin-slee.yaml) 74.65; [Palumeu](../../countries/SR/cities/palumeu.yaml) 73.55 |
-| SR | sights | 37 | 30 | 80.85 | 0 | 0 | 1 | 37 | [Historic Inner City of Paramaribo](../../countries/SR/sights/historic-inner-city-of-paramaribo.yaml) 89.65; [Central Suriname Nature Reserve](../../countries/SR/sights/central-suriname-nature-reserve.yaml) 89.50; [Raleighvallen and Voltzberg Visitor Area](../../countries/SR/sights/raleighvallen-and-voltzberg-visitor-area.yaml) 87.50 |
+| SR | sights | 37 | 31 | 80.25 | 0 | 0 | 1 | 37 | [Historic Inner City of Paramaribo](../../countries/SR/sights/historic-inner-city-of-paramaribo.yaml) 89.65; [Central Suriname Nature Reserve](../../countries/SR/sights/central-suriname-nature-reserve.yaml) 89.50; [Raleighvallen and Voltzberg Visitor Area](../../countries/SR/sights/raleighvallen-and-voltzberg-visitor-area.yaml) 87.50 |
 | SS | cities | 10 | 1 | 71.55 | 0 | 0 | 0 | 10 | [Juba](../../countries/SS/cities/juba.yaml) 71.55 |
 | SS | sights | 20 | 6 | 72.12 | 0 | 0 | 4 | 20 | [Nimule National Park](../../countries/SS/sights/nimule-national-park.yaml) 80.25; [John Garang Mausoleum](../../countries/SS/sights/john-garang-mausoleum.yaml) 76.40; [Fula Rapids](../../countries/SS/sights/fula-rapids.yaml) 73.70 |
 | ST | cities | 12 | 12 | 69.12 | 0 | 0 | 0 | 12 | [Santo António (Príncipe)](../../countries/ST/cities/santo-antonio-principe.yaml) 77.85; [São Tomé](../../countries/ST/cities/sao-tome.yaml) 77.55; [São João dos Angolares](../../countries/ST/cities/sao-joao-dos-angolares.yaml) 74.15 |
@@ -493,7 +493,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | US | cities | 15 | 15 | 85.80 | 2 | 1 | 1 | 15 | [New York City](../../countries/US/cities/new-york-city.yaml) 96.45; [New Orleans](../../countries/US/cities/new-orleans.yaml) 90.00; [Chicago](../../countries/US/cities/chicago.yaml) 89.90 |
 | US | sights | 59 | 59 | 86.35 | 14 | 3 | 7 | 59 | [Grand Canyon National Park](../../countries/US/sights/grand-canyon-national-park.yaml) 97.15; [Yellowstone National Park](../../countries/US/sights/yellowstone-national-park.yaml) 96.80; [Yosemite National Park](../../countries/US/sights/yosemite-national-park.yaml) 95.45 |
 | UY | cities | 33 | 33 | 71.70 | 0 | 0 | 0 | 33 | [Montevideo](../../countries/UY/cities/montevideo.yaml) 85.55; [Colonia del Sacramento](../../countries/UY/cities/colonia-del-sacramento.yaml) 85.10; [Cabo Polonio Village](../../countries/UY/cities/cabo-polonio-village.yaml) 79.60 |
-| UY | sights | 61 | 59 | 78.50 | 0 | 0 | 0 | 61 | [Colonia del Sacramento Historic Quarter](../../countries/UY/sights/colonia-del-sacramento-historic-quarter.yaml) 89.60; [Fray Bentos Industrial Landscape](../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) 87.80; [Cabo Polonio National Park](../../countries/UY/sights/cabo-polonio-national-park.yaml) 87.75 |
+| UY | sights | 61 | 60 | 78.62 | 0 | 0 | 0 | 61 | [Colonia del Sacramento Historic Quarter](../../countries/UY/sights/colonia-del-sacramento-historic-quarter.yaml) 89.60; [Fray Bentos Industrial Landscape](../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) 87.80; [Cabo Polonio National Park](../../countries/UY/sights/cabo-polonio-national-park.yaml) 87.75 |
 | UZ | cities | 20 | 20 | 77.25 | 3 | 0 | 3 | 20 | [Samarkand](../../countries/UZ/cities/samarkand.yaml) 94.15; [Bukhara](../../countries/UZ/cities/bukhara.yaml) 93.80; [Khiva](../../countries/UZ/cities/khiva.yaml) 91.30 |
 | UZ | sights | 56 | 51 | 84.30 | 8 | 1 | 9 | 56 | [Registan Square and Madrasah Ensemble](../../countries/UZ/sights/registan-square-and-madrasah-ensemble.yaml) 96.15; [Samarkand Crossroad of Cultures](../../countries/UZ/sights/samarkand-crossroad-of-cultures.yaml) 94.90; [Itchan Kala](../../countries/UZ/sights/itchan-kala.yaml) 94.65 |
 | VA | cities | 1 | 1 | 93.80 | 1 | 0 | 1 | 1 | [Vatican City](../../countries/VA/cities/vatican-city.yaml) 93.80 |

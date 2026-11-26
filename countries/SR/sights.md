@@ -2,7 +2,7 @@
 
 # Suriname (SR) — Sights & attractions ranking
 
-**30 ranked** · **7 unassessed** · **37 total** · Worldwide scoring **v2**
+**31 ranked** · **6 unassessed** · **37 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (30)
+## Complete ranked list (31)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -42,10 +42,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 26 | [Readytex Art Gallery](sights/readytex-art-gallery.yaml) | Attraction | **73.65** | **Culture 8.3** | 7.2 / 7.4 / 7.5 / 7.7 / 7.0 | [5.824, -55.1575](https://www.google.com/maps/search/?api=1&query=5.824,-55.1575) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Readytex%20Art%20Gallery%2C%20Suriname) |
 | 27 | [Palmentuin](sights/palmentuin.yaml) | Attraction | **73.15** | **Photography 8.2**, **Relaxation 8.0** | 7.4 / 7.3 / 7.2 / 7.8 / 6.6 | [5.8274, -55.1515](https://www.google.com/maps/search/?api=1&query=5.8274,-55.1515) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palmentuin%2C%20Suriname) |
 | 28 | [Afobaka Dam](sights/afobaka-dam.yaml) | Attraction | **71.90** | **History 8.0**, **Architecture 7.6** | 7.2 / 7.4 / 7.8 / 6.8 / 6.0 | [4.986, -54.992](https://www.google.com/maps/search/?api=1&query=4.986,-54.992) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Afobaka%20Dam%2C%20Suriname) |
-| 29 | [Colakreek Recreation Area](sights/colakreek-recreation-area.yaml) | Attraction | **69.70** | **Relaxation 8.3**, **Family 8.0**, **Nature 7.5** | 7.0 / 7.3 / 6.0 / 7.9 / 6.6 | [5.45, -55.2](https://www.google.com/maps/search/?api=1&query=5.45,-55.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Colakreek%20Recreation%20Area%2C%20Suriname) |
-| 30 | [Overbridge River Resort](sights/overbridge-river-resort.yaml) | River / waterway | **68.05** | **Relaxation 8.3**, **Family 7.9** | 7.0 / 6.8 / 5.8 / 7.9 / 6.6 | [5.4333, -55.05](https://www.google.com/maps/search/?api=1&query=5.4333,-55.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Overbridge%20River%20Resort%2C%20Suriname) |
+| 29 | [Numismatic Museum of Suriname](sights/numismatic-museum-of-suriname.yaml) | Museum / heritage | **70.25** | **History 7.9** | 6.7 / 7.0 / 7.5 / 7.3 / 6.7 | [5.8247, -55.1557](https://www.google.com/maps/search/?api=1&query=5.8247,-55.1557) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Numismatic%20Museum%20of%20Suriname%2C%20Suriname) |
+| 30 | [Colakreek Recreation Area](sights/colakreek-recreation-area.yaml) | Attraction | **69.70** | **Relaxation 8.3**, **Family 8.0**, **Nature 7.5** | 7.0 / 7.3 / 6.0 / 7.9 / 6.6 | [5.45, -55.2](https://www.google.com/maps/search/?api=1&query=5.45,-55.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Colakreek%20Recreation%20Area%2C%20Suriname) |
+| 31 | [Overbridge River Resort](sights/overbridge-river-resort.yaml) | River / waterway | **68.05** | **Relaxation 8.3**, **Family 7.9** | 7.0 / 6.8 / 5.8 / 7.9 / 6.6 | [5.4333, -55.05](https://www.google.com/maps/search/?api=1&query=5.4333,-55.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Overbridge%20River%20Resort%2C%20Suriname) |
 
-## Not yet fully assessed (7)
+## Not yet fully assessed (6)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -54,7 +55,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Boven Coesewijne Nature Reserve](sights/boven-coesewijne-nature-reserve.yaml) | Park / reserve | **—** | **Nature 8.6**, **Wildlife 8.5** | — / 8.1 / 8.4 / — / — | [5.4, -55.75](https://www.google.com/maps/search/?api=1&query=5.4,-55.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boven%20Coesewijne%20Nature%20Reserve%2C%20Suriname) |
 | — | [Coppename Mouth Nature Reserve](sights/coppename-mouth-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 9.0**, **Nature 8.6** | — / 8.3 / 8.5 / — / — | [5.9, -55.95](https://www.google.com/maps/search/?api=1&query=5.9,-55.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Coppename%20Mouth%20Nature%20Reserve%2C%20Suriname) |
 | — | [Eilerts de Haan Mountains](sights/eilerts-de-haan-mountains.yaml) | Mountain / peak | **—** | **Nature 8.9** | — / 8.3 / 8.8 / — / — | [3.0, -56.0](https://www.google.com/maps/search/?api=1&query=3.0,-56.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Eilerts%20de%20Haan%20Mountains%2C%20Suriname) |
-| — | [Numismatic Museum of Suriname](sights/numismatic-museum-of-suriname.yaml) | Museum / heritage | **—** | **History 7.9** | — / 7.0 / 7.5 / — / — | [5.8247, -55.1557](https://www.google.com/maps/search/?api=1&query=5.8247,-55.1557) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Numismatic%20Museum%20of%20Suriname%2C%20Suriname) |
 | — | [Sipaliwini Nature Reserve](sights/sipaliwini-nature-reserve.yaml) | Park / reserve | **—** | **Nature 9.0** | — / 8.8 / 8.7 / — / — | [2.0, -55.95](https://www.google.com/maps/search/?api=1&query=2.0,-55.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sipaliwini%20Nature%20Reserve%2C%20Suriname) |
 | — | [Tafelberg Plateau](sights/tafelberg-plateau.yaml) | Attraction | **—** | **Nature 9.3** | — / 9.2 / 9.0 / — / — | [3.9, -56.1833](https://www.google.com/maps/search/?api=1&query=3.9,-56.1833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tafelberg%20Plateau%2C%20Suriname) |
 | — | [Wia Wia Nature Reserve](sights/wia-wia-nature-reserve.yaml) | Park / reserve | **—** | **Wildlife 8.8**, **Nature 8.6** | — / 8.2 / 8.5 / — / — | [5.9, -54.2](https://www.google.com/maps/search/?api=1&query=5.9,-54.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wia%20Wia%20Nature%20Reserve%2C%20Suriname) |
