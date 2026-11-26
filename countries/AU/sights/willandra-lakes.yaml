@@ -1,0 +1,16 @@
+id: sight-au-willandra-lakes
+name: "Willandra Lakes Region"
+location:
+  country_code: AU
+  latitude: -33.9
+  longitude: 143
+scores:
+  impact: 8.3
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.4
+    culture: 9.3
+    nature: 8.8

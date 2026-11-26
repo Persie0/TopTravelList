@@ -1,0 +1,16 @@
+id: sight-pg-kokoda-track
+name: "Kokoda Track"
+location:
+  country_code: PG
+  latitude: -8.86667
+  longitude: 147.75
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.2
+    adventure: 9.2
+    nature: 8.6

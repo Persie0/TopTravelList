@@ -1,0 +1,13 @@
+id: sight-au-flinders-ranges
+name: "Flinders Ranges"
+location:
+  country_code: AU
+  latitude: -31.5
+  longitude: 138.6
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.6
+  depth: 9.0
+  categories: {}

@@ -2,7 +2,7 @@
 
 # Namibia (NA) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**17 ranked** · **4 unassessed** · **21 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,38 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (17)
 
-No sights & attractions have been assessed for **Namibia** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Sossusvlei Dune Landscape](sights/sossusvlei.yaml) | Desert | **95.40** | **Photography 9.8**, **Nature 9.7**, **Adventure 9.2** | 9.8 / 9.7 / 9.2 / 9.5 / 9.1 | [-24.7395, 15.2902](https://www.google.com/maps/search/?api=1&query=-24.7395,15.2902) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sossusvlei%20Dune%20Landscape%2C%20Namibia) |
+| 2 | [Etosha National Park](sights/etosha-national-park.yaml) | Park / reserve | **94.45** | **Wildlife 9.8**, **Nature 9.5**, **Photography 9.5** | 9.5 / 9.5 / 9.4 / 9.4 / 9.3 | [-19, 16](https://www.google.com/maps/search/?api=1&query=-19,16) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Etosha%20National%20Park%2C%20Namibia) |
+| 3 | [Sandwich Harbour](sights/sandwich-harbour.yaml) | Coast | **92.20** | **Photography 9.5**, **Nature 9.4**, **Adventure 9.1**, Wildlife 9.0 | 9.4 / 9.4 / 9.2 / 9.0 / 8.6 | [-23.3333, 14.5](https://www.google.com/maps/search/?api=1&query=-23.3333,14.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sandwich%20Harbour%2C%20Namibia) |
+| 4 | [Fish River Canyon](sights/fish-river-canyon.yaml) | River / waterway | **91.95** | **Nature 9.5**, **Photography 9.5**, **Adventure 9.1** | 9.5 / 9.3 / 9.0 / 9.0 / 8.7 | [-27.589293, 17.597587](https://www.google.com/maps/search/?api=1&query=-27.589293,17.597587) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fish%20River%20Canyon%2C%20Namibia) |
+| 5 | [Deadvlei](sights/deadvlei.yaml) | Attraction | **91.25** | **Photography 9.7**, **Nature 9.3** | 9.6 / 9.5 / 8.7 / 9.0 / 7.8 | [-24.7629, 15.2949](https://www.google.com/maps/search/?api=1&query=-24.7629,15.2949) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Deadvlei%2C%20Namibia) |
+| 6 | [Twyfelfontein /Ui-//aes](sights/twyfelfontein.yaml) | Attraction | **91.20** | **History 9.6**, **Culture 9.4** | 9.0 / 9.4 / 9.5 / 8.8 / 8.5 | [-20.594769, 14.375097](https://www.google.com/maps/search/?api=1&query=-20.594769,14.375097) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Twyfelfontein%20%2FUi-%2F%2Faes%2C%20Namibia) |
+| 7 | [Skeleton Coast National Park](sights/skeleton-coast-national-park.yaml) | Park / reserve | **90.75** | **Nature 9.4**, **Photography 9.3** | 9.2 / 9.4 / 9.0 / 8.5 / 8.9 | [-19.19, 12.72](https://www.google.com/maps/search/?api=1&query=-19.19,12.72) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Skeleton%20Coast%20National%20Park%2C%20Namibia) |
+| 8 | [Brandberg National Monument Area](sights/brandberg.yaml) | Attraction | **90.40** | **History 9.3**, **Culture 9.2**, **Nature 9.2** | 9.0 / 9.3 / 9.3 / 8.7 / 8.5 | [-21.166667, 14.416667](https://www.google.com/maps/search/?api=1&query=-21.166667,14.416667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brandberg%20National%20Monument%20Area%2C%20Namibia) |
+| 9 | [Nkasa Rupara National Park](sights/nkasa-rupara-national-park.yaml) | Park / reserve | **89.65** | **Nature 9.3**, **Wildlife 9.3** | 8.9 / 9.2 / 9.3 / 8.5 / 8.6 | [-18.383333, 23.616667](https://www.google.com/maps/search/?api=1&query=-18.383333,23.616667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nkasa%20Rupara%20National%20Park%2C%20Namibia) |
+| 10 | [Bwabwata National Park – Okavango Core Areas](sights/bwabwata-okavango.yaml) | Park / reserve | **89.40** | **Nature 9.3**, **Wildlife 9.3** | 8.8 / 9.1 / 9.3 / 8.7 / 8.6 | [-18.2, 21.7](https://www.google.com/maps/search/?api=1&query=-18.2,21.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bwabwata%20National%20Park%20%E2%80%93%20Okavango%20Core%20Areas%2C%20Namibia) |
+| 11 | [Spitzkoppe](sights/spitzkoppe.yaml) | Attraction | **89.35** | **Photography 9.4**, **Nature 9.3**, **Adventure 9.1** | 9.2 / 9.1 / 8.4 / 9.0 / 8.7 | [-21.8263, 15.1957](https://www.google.com/maps/search/?api=1&query=-21.8263,15.1957) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spitzkoppe%2C%20Namibia) |
+| 12 | [Kolmanskop Ghost Town](sights/kolmanskop.yaml) | Attraction | **88.70** | **Photography 9.3**, **History 9.0**, **Architecture 8.8** | 9.0 / 9.2 / 8.7 / 8.8 / 8.1 | [-26.7019, 15.23185](https://www.google.com/maps/search/?api=1&query=-26.7019,15.23185) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kolmanskop%20Ghost%20Town%2C%20Namibia) |
+| 13 | [Cape Cross Seal Reserve](sights/cape-cross-seal-reserve.yaml) | Coast | **87.45** | **Wildlife 9.3**, **Nature 9.0** | 8.8 / 9.0 / 8.8 / 8.7 / 7.9 | [-21.7639, 13.9623](https://www.google.com/maps/search/?api=1&query=-21.7639,13.9623) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cape%20Cross%20Seal%20Reserve%2C%20Namibia) |
+| 14 | [Waterberg Plateau Park](sights/waterberg-plateau-park.yaml) | Park / square | **87.10** | **Nature 9.1**, **Wildlife 8.8**, **Adventure 8.7** | 8.7 / 8.8 / 8.8 / 8.6 / 8.5 | [-20.4172, 17.3275](https://www.google.com/maps/search/?api=1&query=-20.4172,17.3275) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Waterberg%20Plateau%20Park%2C%20Namibia) |
+| 15 | [Hoba Meteorite](sights/hoba-meteorite.yaml) | Attraction | **86.15** | **Nature 9.0** | 8.2 / 9.6 / 9.5 / 7.9 / 6.7 | [-19.5925, 17.933611](https://www.google.com/maps/search/?api=1&query=-19.5925,17.933611) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hoba%20Meteorite%2C%20Namibia) |
+| 15 | [Welwitschia Plains](sights/welwitschia-plains.yaml) | Attraction | **86.15** | **Nature 9.2**, **Photography 8.6** | 8.3 / 9.2 / 9.0 / 8.3 / 7.8 | [-22.63583, 15](https://www.google.com/maps/search/?api=1&query=-22.63583,15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Welwitschia%20Plains%2C%20Namibia) |
+| 17 | [Epupa Falls (Namibian side)](sights/epupa-falls.yaml) | Waterfall | **84.90** | **Photography 9.0**, **Nature 8.9** | 8.8 / 8.7 / 8.0 / 8.5 / 8.0 | [-17.0016, 13.2447](https://www.google.com/maps/search/?api=1&query=-17.0016,13.2447) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Epupa%20Falls%20%28Namibian%20side%29%2C%20Namibia) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (4)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Benguela Current Marine Ecosystem Sites (Namibia)](sights/benguela-marine-ecosystem.yaml) | Attraction | **—** | **Nature 9.6**, **Wildlife 9.6** | — / 9.4 / 9.6 / — / — | [-21.775, 13.433333](https://www.google.com/maps/search/?api=1&query=-21.775,13.433333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Benguela%20Current%20Marine%20Ecosystem%20Sites%20%28Namibia%29%2C%20Namibia) |
+| — | [Namib Sand Sea](sights/namib-sand-sea.yaml) | Attraction | **—** | **Nature 9.9**, **Photography 9.8** | 9.8 / 9.9 / 9.7 / — / — | [-24.885278, 15.407778](https://www.google.com/maps/search/?api=1&query=-24.885278,15.407778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Namib%20Sand%20Sea%2C%20Namibia) |
+| — | [Succulent Karoo Protected Areas (Namibia)](sights/succulent-karoo.yaml) | Attraction | **—** | **Nature 9.5** | — / 9.3 / 9.5 / — / — | [-27.908333, 17.25](https://www.google.com/maps/search/?api=1&query=-27.908333,17.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Succulent%20Karoo%20Protected%20Areas%20%28Namibia%29%2C%20Namibia) |
+| — | [Sān Living Cultural Landscape](sights/san-cultural-landscape.yaml) | Coast | **—** | **Culture 9.4** | — / 9.3 / 9.4 / — / — | [-19.75, 20.5](https://www.google.com/maps/search/?api=1&query=-19.75,20.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=S%C4%81n%20Living%20Cultural%20Landscape%2C%20Namibia) |
 
 ---
 

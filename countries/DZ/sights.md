@@ -2,7 +2,7 @@
 
 # Algeria (DZ) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**15 ranked** · **10 unassessed** · **25 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,42 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (15)
 
-No sights & attractions have been assessed for **Algeria** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Tassili n’Ajjer](sights/tassili-n-ajjer.yaml) | Attraction | **96.60** | **Nature 9.8**, **Photography 9.8**, **History 9.7**, Adventure 9.6 | 9.8 / 9.8 / 9.7 / 9.2 / 9.5 | [25.5, 9](https://www.google.com/maps/search/?api=1&query=25.5,9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tassili%20n%E2%80%99Ajjer%2C%20Algeria) |
+| 2 | [Timgad](sights/timgad.yaml) | Attraction | **93.05** | **History 9.5**, **Architecture 9.4**, **Photography 9.3** | 9.3 / 9.4 / 9.5 / 9.1 / 9.0 | [35.484, 6.467](https://www.google.com/maps/search/?api=1&query=35.484,6.467) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Timgad%2C%20Algeria) |
+| 3 | [Djémila](sights/djemila.yaml) | Attraction | **92.90** | **Architecture 9.5**, **History 9.4**, **Photography 9.4** | 9.4 / 9.3 / 9.4 / 9.1 / 9.0 | [36.32, 5.736](https://www.google.com/maps/search/?api=1&query=36.32,5.736) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dj%C3%A9mila%2C%20Algeria) |
+| 4 | [M’Zab Valley](sights/mzab-valley.yaml) | Valley / canyon | **92.30** | **Architecture 9.6**, **Culture 9.5**, **Photography 9.3** | 9.2 / 9.5 / 9.4 / 8.7 / 9.1 | [32.49, 3.68](https://www.google.com/maps/search/?api=1&query=32.49,3.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=M%E2%80%99Zab%20Valley%2C%20Algeria) |
+| 5 | [Ahaggar Mountain Landscape](sights/ahaggar-mountains.yaml) | Mountain / peak | **91.75** | **Nature 9.5**, **Photography 9.5**, **Adventure 9.3** | 9.5 / 9.3 / 8.9 / 8.8 / 9.0 | [23.29, 5.63](https://www.google.com/maps/search/?api=1&query=23.29,5.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ahaggar%20Mountain%20Landscape%2C%20Algeria) |
+| 6 | [Kasbah of Algiers](sights/kasbah-algiers.yaml) | Attraction | **90.95** | **History 9.4**, **Architecture 9.3**, **Culture 9.3** | 9.1 / 9.2 / 9.3 / 8.7 / 9.0 | [36.785, 3.061](https://www.google.com/maps/search/?api=1&query=36.785,3.061) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kasbah%20of%20Algiers%2C%20Algeria) |
+| 7 | [Tipasa Archaeological Site](sights/tipasa.yaml) | Museum / heritage | **90.00** | **History 9.4**, **Photography 9.1**, **Architecture 9.0** | 9.0 / 9.0 / 9.3 / 8.8 / 8.7 | [36.592, 2.449](https://www.google.com/maps/search/?api=1&query=36.592,2.449) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tipasa%20Archaeological%20Site%2C%20Algeria) |
+| 8 | [Djurdjura National Park](sights/djurdjura-national-park.yaml) | Park / reserve | **88.55** | **Nature 9.2**, **Photography 9.0**, **Adventure 8.9** | 8.9 / 8.8 / 9.0 / 8.7 / 8.8 | [36.468889, 4.257222](https://www.google.com/maps/search/?api=1&query=36.468889,4.257222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djurdjura%20National%20Park%2C%20Algeria) |
+| 9 | [Rhoufi and Oued Labiod Oasis Systems](sights/rhoufi-oued-labiod.yaml) | Attraction | **88.15** | **Photography 9.2**, **Nature 9.0**, **Architecture 8.8** | 9.0 / 9.1 / 8.7 / 8.4 / 8.4 | [35.06, 6.17](https://www.google.com/maps/search/?api=1&query=35.06,6.17) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rhoufi%20and%20Oued%20Labiod%20Oasis%20Systems%2C%20Algeria) |
+| 10 | [Hippo Regius Archaeological Site](sights/hippo-regius.yaml) | Museum / heritage | **86.00** | **History 9.3**, **Architecture 8.6** | 8.5 / 8.6 / 9.2 / 8.2 / 8.3 | [36.882, 7.75](https://www.google.com/maps/search/?api=1&query=36.882,7.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hippo%20Regius%20Archaeological%20Site%2C%20Algeria) |
+| 11 | [Al Qal’a of Beni Hammad](sights/al-qala-beni-hammad.yaml) | Attraction | **85.70** | **History 9.3**, **Architecture 8.9** | 8.4 / 8.8 / 9.2 / 8.0 / 8.1 | [35.81844, 4.78684](https://www.google.com/maps/search/?api=1&query=35.81844,4.78684) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al%20Qal%E2%80%99a%20of%20Beni%20Hammad%2C%20Algeria) |
+| 12 | [Taghit Dunes](sights/taghit-dunes.yaml) | Desert | **84.85** | **Photography 9.1**, **Adventure 8.8**, **Nature 8.8** | 8.9 / 8.4 / 8.0 / 8.7 / 8.1 | [30.92, -2.01](https://www.google.com/maps/search/?api=1&query=30.92,-2.01) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taghit%20Dunes%2C%20Algeria) |
+| 13 | [Mansourah Ruins and Minaret](sights/mansourah-ruins.yaml) | Museum / heritage | **83.40** | **History 8.9**, **Architecture 8.8**, **Photography 8.6** | 8.3 / 8.5 / 8.8 / 8.1 / 7.5 | [34.87095, -1.33906](https://www.google.com/maps/search/?api=1&query=34.87095,-1.33906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mansourah%20Ruins%20and%20Minaret%2C%20Algeria) |
+| 14 | [Ighzer Ksar](sights/ighzer-ksar.yaml) | Attraction | **83.25** | **Architecture 8.8**, **Photography 8.6**, **Culture 8.5** | 8.3 / 8.7 / 8.4 / 8.0 / 7.8 | [29.4, 0.2](https://www.google.com/maps/search/?api=1&query=29.4,0.2) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ighzer%20Ksar%2C%20Algeria) |
+| 15 | [Gouraya National Park](sights/gouraya-national-park.yaml) | Park / reserve | **82.95** | **Nature 8.7**, **Photography 8.7**, **Adventure 8.4** | 8.5 / 8.1 / 8.2 / 8.4 / 8.2 | [36.77, 5.08](https://www.google.com/maps/search/?api=1&query=36.77,5.08) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gouraya%20National%20Park%2C%20Algeria) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (10)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Ancient Algerian Royal Mausoleums](sights/ancient-royal-mausoleums.yaml) | Museum / heritage | **—** | — | — / — / — / — / — | [36.57, 2.57](https://www.google.com/maps/search/?api=1&query=36.57,2.57) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Algerian%20Royal%20Mausoleums%2C%20Algeria) |
+| — | [Augustinian Routes in Algeria](sights/augustinian-routes.yaml) | Attraction | **—** | — | — / — / — / — / — | [36.88, 7.75](https://www.google.com/maps/search/?api=1&query=36.88,7.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Augustinian%20Routes%20in%20Algeria%2C%20Algeria) |
+| — | [El Kala National Park](sights/el-kala-national-park.yaml) | Park / reserve | **—** | **Nature 9.2**, **Wildlife 9.1** | 8.6 / 8.9 / 9.2 / — / — | [36.644167, 8.286944](https://www.google.com/maps/search/?api=1&query=36.644167,8.286944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Kala%20National%20Park%2C%20Algeria) |
+| — | [Ighamaouen Collective Fortified Granaries](sights/ighamaouen-granaries.yaml) | Attraction | **—** | — | — / — / — / — / — | [29.25, 0.25](https://www.google.com/maps/search/?api=1&query=29.25,0.25) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ighamaouen%20Collective%20Fortified%20Granaries%2C%20Algeria) |
+| — | [Ksour of the Algerian Saharan Atlas](sights/saharan-atlas-ksour.yaml) | Attraction | **—** | — | — / — / — / — / — | [33.5, 1.0](https://www.google.com/maps/search/?api=1&query=33.5,1.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ksour%20of%20the%20Algerian%20Saharan%20Atlas%2C%20Algeria) |
+| — | [Nedroma and the Trara](sights/nedroma-trara.yaml) | Attraction | **—** | — | — / — / — / — / — | [35.013, -1.747](https://www.google.com/maps/search/?api=1&query=35.013,-1.747) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nedroma%20and%20the%20Trara%2C%20Algeria) |
+| — | [Oued Souf Oasis Landscape](sights/oued-souf-oasis-landscape.yaml) | Coast | **—** | — | — / — / — / — / — | [33.37, 6.86](https://www.google.com/maps/search/?api=1&query=33.37,6.86) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oued%20Souf%20Oasis%20Landscape%2C%20Algeria) |
+| — | [Saoura Cultural Park](sights/saoura-cultural-park.yaml) | Park / square | **—** | — | — / — / — / — / — | [30.13, -2.16](https://www.google.com/maps/search/?api=1&query=30.13,-2.16) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saoura%20Cultural%20Park%2C%20Algeria) |
+| — | [Tefedest Massif](sights/tefedest-massif.yaml) | Attraction | **—** | — | — / — / — / — / — | [24.1, 5.6](https://www.google.com/maps/search/?api=1&query=24.1,5.6) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tefedest%20Massif%2C%20Algeria) |
+| — | [Tébessa Archaeological Heritage](sights/tebessa-archaeological-heritage.yaml) | Museum / heritage | **—** | — | — / — / — / — / — | [35.404, 8.12](https://www.google.com/maps/search/?api=1&query=35.404,8.12) | [Google Maps](https://www.google.com/maps/search/?api=1&query=T%C3%A9bessa%20Archaeological%20Heritage%2C%20Algeria) |
 
 ---
 

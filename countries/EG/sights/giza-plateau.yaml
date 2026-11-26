@@ -1,0 +1,16 @@
+id: sight-eg-giza-plateau
+name: "Giza Pyramid Plateau and Great Sphinx"
+location:
+  country_code: EG
+  latitude: 29.9773
+  longitude: 31.1325
+scores:
+  impact: 9.9
+  uniqueness: 9.9
+  significance: 9.9
+  experience: 9.6
+  depth: 9.5
+  categories:
+    architecture: 9.9
+    history: 9.9
+    photography: 9.8

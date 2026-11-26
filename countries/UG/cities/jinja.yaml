@@ -1,0 +1,15 @@
+id: city-ug-jinja
+name: "Jinja"
+location:
+  country_code: UG
+  latitude: 0.447857
+  longitude: 33.202612
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 8.1
+    culture: 8.0

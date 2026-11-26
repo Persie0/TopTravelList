@@ -1,0 +1,16 @@
+id: sight-eg-wadi-al-hitan
+name: "Wadi Al-Hitan (Whale Valley)"
+location:
+  country_code: EG
+  latitude: 29.27
+  longitude: 30.04
+scores:
+  impact: 9.0
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.4
+    history: 9.1
+    photography: 9.0

@@ -1,0 +1,15 @@
+id: city-za-plettenberg-bay
+name: "Plettenberg Bay"
+location:
+  country_code: ZA
+  latitude: -34.057
+  longitude: 23.372
+scores:
+  impact: 8.3
+  uniqueness: 7.8
+  significance: 7.2
+  experience: 8.7
+  depth: 7.6
+  categories:
+    beaches: 8.8
+    relaxation: 8.7

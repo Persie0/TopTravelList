@@ -1,0 +1,16 @@
+id: sight-eg-white-desert
+name: "White Desert National Park"
+location:
+  country_code: EG
+  latitude: 27.28
+  longitude: 28.18
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 8.9
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.5
+    photography: 9.6
+    adventure: 9.0

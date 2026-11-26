@@ -1,0 +1,15 @@
+id: sight-pg-upper-sepik-river-basin
+name: "Upper Sepik River Basin"
+location:
+  country_code: PG
+  latitude: -4.21804
+  longitude: 142.82253
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.1
+    culture: 9.2

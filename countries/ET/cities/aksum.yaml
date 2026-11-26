@@ -1,0 +1,15 @@
+id: city-et-aksum
+name: "Aksum"
+location:
+  country_code: ET
+  latitude: 14.12
+  longitude: 38.72
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 7.7
+  depth: 7.6
+  categories:
+    history: 8.8
+    culture: 8.4
