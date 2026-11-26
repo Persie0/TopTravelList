@@ -45,3 +45,15 @@ export function gpxExport(stops,name){
  return '<?xml version="1.0" encoding="UTF-8"?>\n<gpx version="1.1" creator="TopTravelList" xmlns="http://www.topografix.com/GPX/1/1"><rte><name>'+xml(name)+'</name>'+stops.map(p=>'<rtept lat="'+p.lat+'" lon="'+p.lon+'"><name>'+xml(p.name)+'</name></rtept>').join('')+'</rte></gpx>';
 }
 export function routeComparison(stops){const rated=stops.filter(p=>Number.isFinite(p.overall));return {count:stops.length,mean:rated.length?rated.reduce((a,b)=>a+b.overall,0)/rated.length:null,high:rated.filter(p=>p.overall>=80).length,km:routeDistance(stops),countries:new Set(stops.map(p=>p.country)).size}}
+
+export function tripCoverage(entries,catalog,min=80){
+ const represented=new Set(entries.map(e=>e.point.country)),counts=new Map([...represented].map(country=>[country,{country,total:0,planned:0}]));
+ for(const p of catalog)if(counts.has(p.country)&&Number.isFinite(p.overall)&&p.overall>=min)counts.get(p.country).total++;
+ for(const e of entries)if(Number.isFinite(e.point.overall)&&e.point.overall>=min)counts.get(e.point.country).planned++;
+ return [...counts.values()].sort((a,b)=>b.planned-a.planned||a.country.localeCompare(b.country));
+}
+export function itineraryText(days,config,countries){
+ const c=cleanConfig(config),lines=[c.name,'Planning estimates only; confirm actual transport, access and opening hours.',''];
+ for(const day of days){lines.push('Day '+day.day+' — '+day.total.toFixed(1)+' h estimated active time');if(!day.stops.length)lines.push('  Rest / buffer day');for(const e of day.stops){lines.push('  '+(e.index+1)+'. '+e.point.name+' ('+(countries[e.point.country]?.name||e.point.country)+')'+(e.priority?' [Must see]':'')+(e.visited?' [Visited]':''));lines.push('     Visit '+e.hours.toFixed(1)+' h'+(e.index?', estimated transfer '+e.travelHours.toFixed(1)+' h ('+modes[e.mode].label+')':''));if(e.notes)lines.push('     Notes: '+e.notes)}lines.push('')}
+ return lines.join('\n');
+}
