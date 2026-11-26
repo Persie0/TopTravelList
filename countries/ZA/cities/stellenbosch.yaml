@@ -1,0 +1,16 @@
+id: city-za-stellenbosch
+name: "Stellenbosch"
+location:
+  country_code: ZA
+  latitude: -33.9321
+  longitude: 18.8602
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 8.7
+    culture: 8.5
+    food: 8.8

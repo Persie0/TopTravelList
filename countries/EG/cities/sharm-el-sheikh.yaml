@@ -1,0 +1,16 @@
+id: city-eg-sharm-el-sheikh
+name: "Sharm El Sheikh"
+location:
+  country_code: EG
+  latitude: 27.9158
+  longitude: 34.33
+scores:
+  impact: 7.8
+  uniqueness: 7.4
+  significance: 7.1
+  experience: 8.7
+  depth: 8.0
+  categories:
+    beaches: 8.7
+    nightlife: 8.4
+    relaxation: 8.7

@@ -21,6 +21,16 @@
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): comparable modest waterfront experience
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger archaeological character, less urban breadth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; much stronger historic architecture and urban exploration.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; more established waterfront heritage and food experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; greater urban and coastal visitor breadth.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; comparable modest coastal settlement with established local food.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; stronger documented archaeological setting.
+
 ### Scoring decisions
 - Impact: 7.4
 - Uniqueness: 8.0
@@ -53,6 +63,16 @@
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): more developed visitor streets
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): more archaeological significance
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; much stronger historic architecture and urban exploration.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; more established waterfront heritage and food experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; greater urban and coastal visitor breadth.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; comparable modest coastal settlement with established local food.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; stronger documented archaeological setting.
+
 ### Scoring decisions
 - Impact: 6.2
 - Uniqueness: 6.8
@@ -84,6 +104,16 @@
 - [Bangkok](../../../countries/TH/cities/bangkok.yaml) (Thailand): more activities
 - [Kampot](../../../countries/KH/cities/kampot.yaml) (Cambodia): greater street and dining range
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): stronger documented heritage
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; much stronger historic architecture and urban exploration.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; more established waterfront heritage and food experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; greater urban and coastal visitor breadth.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; comparable modest coastal settlement with established local food.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; stronger documented archaeological setting.
 
 ### Scoring decisions
 - Impact: 6.7
@@ -196,6 +226,16 @@
 - [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) (Cambodia): more substantial archaeological context
 - [Salzburg](../../../countries/AT/cities/salzburg.yaml) (Austria): much stronger built heritage
 - Ohonua (Tonga): similar compact village scale
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional current-score comparisons are editorial calibration, not new factual verification.
+
+- [Salzburg](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; much stronger historic architecture and urban exploration.
+- [Kampot](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; more established waterfront heritage and food experiences.
+- [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; greater urban and coastal visitor breadth.
+- [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; comparable modest coastal settlement with established local food.
+- [Koh Ker Village](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; stronger documented archaeological setting.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |

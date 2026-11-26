@@ -1,0 +1,15 @@
+id: sight-nz-auckland-volcanic-fields
+name: "Auckland Volcanic Fields"
+location:
+  country_code: NZ
+  latitude: -36.9
+  longitude: 174.783333
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.4
+  depth: 8.5
+  categories:
+    nature: 8.7
+    culture: 8.8

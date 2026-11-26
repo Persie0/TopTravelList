@@ -1,0 +1,17 @@
+id: sight-pg-tufi-fjords
+name: "Tufi Fjords (Cape Nelson)"
+location:
+  country_code: PG
+  latitude: -9.0792
+  longitude: 149.3176
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.6
+  experience: 9
+  depth: 8.9
+  categories:
+    nature: 9.4
+    adventure: 9.2
+    photography: 9.3
+    culture: 8.5

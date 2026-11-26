@@ -1,0 +1,16 @@
+id: city-eg-luxor
+name: "Luxor"
+location:
+  country_code: EG
+  latitude: 25.6872
+  longitude: 32.6396
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.5
+  depth: 8.1
+  categories:
+    culture: 8.6
+    history: 8.9
+    food: 8.1

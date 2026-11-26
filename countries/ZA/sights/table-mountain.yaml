@@ -1,0 +1,16 @@
+id: sight-za-table-mountain
+name: "Table Mountain Summit and Slopes"
+location:
+  country_code: ZA
+  latitude: -33.9628
+  longitude: 18.4098
+scores:
+  impact: 9.6
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.4
+  depth: 8.8
+  categories:
+    nature: 9.5
+    adventure: 9.2
+    photography: 9.6

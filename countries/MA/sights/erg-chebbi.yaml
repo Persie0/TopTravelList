@@ -1,0 +1,16 @@
+id: sight-ma-erg-chebbi
+name: "Erg Chebbi Dunes"
+location:
+  country_code: MA
+  latitude: 31.14
+  longitude: -4.02
+scores:
+  impact: 9.5
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.1
+  depth: 8.6
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.6

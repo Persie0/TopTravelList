@@ -21,6 +21,15 @@
 - Kampot (Cambodia): more varied leisure streets
 - Koh Ker Village (Cambodia): stronger archaeological setting
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2/9.0/9.5/9.2/9.4; Far greater built and civic heritage.
+- [bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1/9.0/9.0/9.5/9.8; Far greater urban exploration and food.
+- [apia (WS)](../../../countries/WS/cities/apia.yaml) — 7.4/8.0/8.0/8.1/7.8; Close Pacific capital with broader visitor institutions.
+- [port vila (VU)](../../../countries/VU/cities/port-vila.yaml) — 7.4/7.7/7.7/8.0/7.6; Comparable harbor capital, more varied urban activities.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -57,6 +66,15 @@
 - Kampot (Cambodia): stronger food and leisure
 - Koh Ker Village (Cambodia): more archaeological context
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [manase (WS)](../../../countries/WS/cities/manase.yaml) — 6.7/7.1/6.0/7.2/6.1; Comparable small Pacific village with more established hosted leisure.
+- [lenakel (VU)](../../../countries/VU/cities/lenakel.yaml) — 6.6/7.1/6.7/7.3/6.5; More commercial village and market breadth.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Modest coastal food and settlement peer.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Broader town heritage and visitor experience, beach park excluded.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -91,6 +109,15 @@
 - Bangkok (Thailand): broader activities
 - Kampot (Cambodia): more town experiences
 - Koh Ker Village (Cambodia): comparable small heritage settlement
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; World-class historic ensemble, far more intact.
+- [koh ker village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; Close small heritage settlement, different archaeological context.
+- [luganville (VU)](../../../countries/VU/cities/luganville.yaml) — 6.4/7.1/7.2/7.2/6.6; Comparable Pacific historical port, less coherent heritage village.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Ordinary island commercial center, less historic built character.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -130,6 +157,15 @@
 - Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
 - Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [rach gia (VN)](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; Greater civic and maritime urban variety.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Comparable modest coastal settlement, stronger leisure and food.
+- [port vila (VU)](../../../countries/VU/cities/port-vila.yaml) — 7.4/7.7/7.7/8.0/7.6; Broader national capital culture.
+- [yaren (NR)](../../../countries/NR/cities/yaren.yaml) — 5.7/7.4/7.1/5.7/4.9; Compact Pacific civic settlement, narrower documented urban experience.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -167,6 +203,15 @@
 - Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: comparable modest waterfront settlement.
 - Laura Village (Marshall Islands), 6.7/7.4/6.2/6.7/5.8: similar village scale with less documented hosted cultural variety.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [manase (WS)](../../../countries/WS/cities/manase.yaml) — 6.7/7.1/6.0/7.2/6.1; Close village-scale hosted experience.
+- [lenakel (VU)](../../../countries/VU/cities/lenakel.yaml) — 6.6/7.1/6.7/7.3/6.5; More established commercial and market activity.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Comparable modest waterfront town with established food visits.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Much greater built heritage and dining breadth.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -203,6 +248,15 @@
 - Kampot (Cambodia): more varied urban visitor experiences
 - Koh Ker Village (Cambodia): more substantial archaeological setting
 - Yaren (Nauru): compact civic settlement with similarly limited depth
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; Far greater interpreted built heritage.
+- [koh ker village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; More visible archaeological setting.
+- [luganville (VU)](../../../countries/VU/cities/luganville.yaml) — 6.4/7.1/7.2/7.2/6.6; Similar historical Pacific port with more urban activities.
+- [yaren (NR)](../../../countries/NR/cities/yaren.yaml) — 5.7/7.4/7.1/5.7/4.9; Compact civic settlement with limited depth.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -242,6 +296,15 @@
 - Koh Ker Village (Cambodia): stronger archaeological context
 - Jabor (Marshall Islands): similarly compact historical port
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; Much greater intact historical ensemble.
+- [koh ker village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; More established heritage interpretation.
+- [luganville (VU)](../../../countries/VU/cities/luganville.yaml) — 6.4/7.1/7.2/7.2/6.6; Close regional wartime port, more documented public activities.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Ordinary commercial village, less distinct historic role.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -278,6 +341,15 @@
 - Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger port with varied public urban activities.
 - Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
 - Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [manase (WS)](../../../countries/WS/cities/manase.yaml) — 6.7/7.1/6.0/7.2/6.1; Documented hosted village leisure, unlike unverified Mili itinerary.
+- [lenakel (VU)](../../../countries/VU/cities/lenakel.yaml) — 6.6/7.1/6.7/7.3/6.5; Documented market and town activities.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Modest established coastal visit.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Broader town heritage, no transfer of atoll surfing to Mili.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
@@ -316,6 +388,15 @@
 - Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
 - Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [manase (WS)](../../../countries/WS/cities/manase.yaml) — 6.7/7.1/6.0/7.2/6.1; Documented compact village stays, not evidence for Namdrik.
+- [lenakel (VU)](../../../countries/VU/cities/lenakel.yaml) — 6.6/7.1/6.7/7.3/6.5; Documented public market rather than atoll conservation projects.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Established modest waterfront visit.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Broader town activities, pearl farming not credited without village scope.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -353,6 +434,15 @@
 - Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
 - Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [koh ker village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; More visible settlement-associated archaeology.
+- [luganville (VU)](../../../countries/VU/cities/luganville.yaml) — 6.4/7.1/7.2/7.2/6.6; Documented town heritage, not atoll-wide mission history.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Comparable small settlement with verified public market activities.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Modest documented visitor breadth, no transfer to Ebon.
+
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
 | --- | ---: | ---: | --- |
@@ -389,6 +479,15 @@
 - Rach Gia (Vietnam), 7.2/7.5/7.3/7.8/7.9: larger port with varied public urban activities.
 - Kuala Perlis (Malaysia), 6.5/6.8/6.5/7.2/6.7: modest waterfront settlement with established food experiences.
 - Majuro (Marshall Islands), 6.5/7.9/7.5/7.1/6.9: regional urban comparator, more documented activities.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D from current YAML; editorial comparisons, not independent factual verification.
+
+- [yaren (NR)](../../../countries/NR/cities/yaren.yaml) — 5.7/7.4/7.1/5.7/4.9; Compact civic settlement with documented national role.
+- [luganville (VU)](../../../countries/VU/cities/luganville.yaml) — 6.4/7.1/7.2/7.2/6.6; Documented local wartime heritage and visitor activities.
+- [koh ker village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; More tangible historical visitor context.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Small island settlement with established commerce, not a proxy for displaced community access.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |

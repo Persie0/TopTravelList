@@ -1,0 +1,16 @@
+id: city-ma-tetouan
+name: "Tétouan"
+location:
+  country_code: MA
+  latitude: 35.5889
+  longitude: -5.3626
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.3
+  depth: 8.3
+  categories:
+    architecture: 8.9
+    culture: 8.8
+    history: 8.8

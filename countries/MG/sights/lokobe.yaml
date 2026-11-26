@@ -1,0 +1,16 @@
+id: sight-mg-lokobe
+name: "Lokobe National Park"
+location:
+  country_code: MG
+  latitude: -13.39917
+  longitude: 48.31833
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 8.6

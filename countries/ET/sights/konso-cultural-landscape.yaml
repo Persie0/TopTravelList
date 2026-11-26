@@ -1,0 +1,16 @@
+id: sight-et-konso-cultural-landscape
+name: "Konso Cultural Landscape"
+location:
+  country_code: ET
+  latitude: 5.31
+  longitude: 37.44
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.3
+  depth: 8.7
+  categories:
+    culture: 9.4
+    history: 9.0
+    nature: 8.6

@@ -1,0 +1,17 @@
+id: city-dz-constantine
+name: "Constantine"
+location:
+  country_code: DZ
+  latitude: 36.365
+  longitude: 6.6147
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.4
+  depth: 8.3
+  categories:
+    architecture: 8.8
+    history: 8.7
+    photography: 9.2
+    culture: 8.5

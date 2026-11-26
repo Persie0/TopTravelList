@@ -1,0 +1,16 @@
+id: sight-au-royal-exhibition-building-carlton-gardens
+name: "Royal Exhibition Building and Carlton Gardens"
+location:
+  country_code: AU
+  latitude: -37.8047
+  longitude: 144.9717
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.2
+  depth: 7.8
+  categories:
+    architecture: 8.9
+    history: 8.9
+    photography: 8.5

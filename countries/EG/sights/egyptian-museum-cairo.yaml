@@ -1,0 +1,15 @@
+id: sight-eg-egyptian-museum-cairo
+name: "Egyptian Museum in Tahrir"
+location:
+  country_code: EG
+  latitude: 30.0478
+  longitude: 31.2336
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.8
+  depth: 9.1
+  categories:
+    history: 9.7
+    culture: 9.5

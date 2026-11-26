@@ -1,0 +1,16 @@
+id: sight-za-golden-gate-highlands
+name: "Golden Gate Highlands National Park"
+location:
+  country_code: ZA
+  latitude: -28.51
+  longitude: 28.62
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.8

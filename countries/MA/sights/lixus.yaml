@@ -1,0 +1,15 @@
+id: sight-ma-lixus
+name: "Lixus Archaeological Site"
+location:
+  country_code: MA
+  latitude: 35.20
+  longitude: -6.11
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 8.0
+  depth: 8.0
+  categories:
+    history: 9.1
+    architecture: 8.3

@@ -1,0 +1,17 @@
+id: sight-eg-ras-mohammed
+name: "Ras Mohammed National Park"
+location:
+  country_code: EG
+  latitude: 27.736
+  longitude: 34.25
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.3
+  depth: 9.0
+  categories:
+    nature: 9.5
+    wildlife: 9.5
+    adventure: 9.4
+    photography: 9.3

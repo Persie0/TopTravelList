@@ -1,0 +1,13 @@
+id: sight-au-cape-york-cultural-landscapes
+name: "Cultural Landscapes of Cape York Peninsula"
+location:
+  country_code: AU
+  latitude: -15
+  longitude: 143.5
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: null
+  depth: null
+  categories: {}

@@ -1,0 +1,15 @@
+id: sight-eg-nmec
+name: "National Museum of Egyptian Civilization"
+location:
+  country_code: EG
+  latitude: 30.006
+  longitude: 31.250
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    history: 9.6
+    culture: 9.5
