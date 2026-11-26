@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15106; unassessed: 1163.
+Ranked: 15116; unassessed: 1153.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 578 |
+| conflicting-declared-status | 588 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2114 |
 | historical-review-only | 2516 |
-| incomplete-core | 1163 |
+| incomplete-core | 1153 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1834 |
+| overall-90-plus | 1835 |
 | overall-95-plus | 163 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -75,7 +75,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BI | cities | 12 | 12 | 65.28 | 0 | 0 | 0 | 12 | [Bujumbura](../../countries/BI/cities/bujumbura.yaml) 75.50; [Gitega](../../countries/BI/cities/gitega.yaml) 72.55; [Rumonge](../../countries/BI/cities/rumonge.yaml) 70.90 |
 | BI | sights | 26 | 25 | 77.25 | 0 | 0 | 0 | 26 | [Lake Tanganyika (Burundian shore and visitor waters)](../../countries/BI/sights/lake-tanganyika-burundian-shore-and-visitor-waters.yaml) 87.60; [Gishora Royal Residence and Drum Sanctuary](../../countries/BI/sights/gishora-royal-residence-and-drum-sanctuary.yaml) 87.05; [Kibira National Park](../../countries/BI/sights/kibira-national-park.yaml) 85.45 |
 | BJ | cities | 18 | 18 | 73.45 | 0 | 0 | 0 | 18 | [Ganvié](../../countries/BJ/cities/ganvie.yaml) 88.20; [Ouidah](../../countries/BJ/cities/ouidah.yaml) 84.60; [Porto-Novo](../../countries/BJ/cities/porto-novo.yaml) 83.00 |
-| BJ | sights | 34 | 26 | 80.45 | 1 | 0 | 2 | 34 | [Koutammakou (Benin sector)](../../countries/BJ/sights/koutammakou-benin-sector.yaml) 91.10; [Sites of the Slave Route in Benin (tentative aggregate)](../../countries/BJ/sights/sites-of-the-slave-route-in-benin-tentative-aggregate.yaml) 88.50; [Royal Palaces of Abomey (main complex)](../../countries/BJ/sights/royal-palaces-of-abomey-main-complex.yaml) 87.90 |
+| BJ | sights | 34 | 27 | 80.55 | 1 | 0 | 2 | 34 | [Koutammakou (Benin sector)](../../countries/BJ/sights/koutammakou-benin-sector.yaml) 91.10; [Sites of the Slave Route in Benin (tentative aggregate)](../../countries/BJ/sights/sites-of-the-slave-route-in-benin-tentative-aggregate.yaml) 88.50; [Royal Palaces of Abomey (main complex)](../../countries/BJ/sights/royal-palaces-of-abomey-main-complex.yaml) 87.90 |
 | BL | cities | 2 | 2 | 78.25 | 0 | 0 | 0 | 2 | [Gustavia](../../countries/BL/cities/gustavia.yaml) 80.85; [Corossol](../../countries/BL/cities/corossol.yaml) 75.65 |
 | BL | sights | 8 | 8 | 79.75 | 0 | 0 | 0 | 8 | [Colombier Beach and Bay](../../countries/BL/sights/colombier-beach.yaml) 85.25; [Grand Cul-de-Sac Lagoon](../../countries/BL/sights/grand-cul-de-sac.yaml) 85.10; [Grande Saline Beach](../../countries/BL/sights/saline-beach.yaml) 81.40 |
 | BM | cities | 3 | 3 | 79.80 | 0 | 0 | 0 | 3 | [St George's](../../countries/BM/cities/st-georges.yaml) 86.65; [Hamilton](../../countries/BM/cities/hamilton.yaml) 79.80; [Flatts Village](../../countries/BM/cities/flatts-village.yaml) 75.80 |
@@ -189,7 +189,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | GG | cities | 4 | 4 | 80.52 | 0 | 0 | 0 | 4 | [St Peter Port](../../countries/GG/cities/st-peter-port.yaml) 86.00; [St Anne (Alderney)](../../countries/GG/cities/st-anne.yaml) 80.60; [Sark village centre (The Avenue)](../../countries/GG/cities/sark-avenue.yaml) 80.45 |
 | GG | sights | 22 | 22 | 84.10 | 0 | 0 | 0 | 22 | [Castle Cornet and its museums](../../countries/GG/sights/castle-cornet.yaml) 88.45; [Hauteville House and Victor Hugo garden](../../countries/GG/sights/hauteville-house.yaml) 88.15; [Sark Dark Sky Community and observatory](../../countries/GG/sights/sark-dark-sky.yaml) 87.85 |
 | GH | cities | 20 | 20 | 72.28 | 0 | 0 | 0 | 20 | [Kumasi](../../countries/GH/cities/kumasi.yaml) 83.50; [Nzulezu](../../countries/GH/cities/nzulezu.yaml) 82.50; [Elmina](../../countries/GH/cities/elmina.yaml) 81.85 |
-| GH | sights | 50 | 48 | 79.52 | 3 | 0 | 3 | 50 | [Forts and Castles of Ghana (serial UNESCO property)](../../countries/GH/sights/forts-and-castles-of-ghana-serial-unesco-property.yaml) 92.80; [Elmina Castle (St George's Castle)](../../countries/GH/sights/elmina-castle-st-george-s-castle.yaml) 92.60; [Cape Coast Castle](../../countries/GH/sights/cape-coast-castle.yaml) 91.95 |
+| GH | sights | 50 | 49 | 79.60 | 3 | 0 | 3 | 50 | [Forts and Castles of Ghana (serial UNESCO property)](../../countries/GH/sights/forts-and-castles-of-ghana-serial-unesco-property.yaml) 92.80; [Elmina Castle (St George's Castle)](../../countries/GH/sights/elmina-castle-st-george-s-castle.yaml) 92.60; [Cape Coast Castle](../../countries/GH/sights/cape-coast-castle.yaml) 91.95 |
 | GI | cities | 1 | 1 | 85.40 | 0 | 0 | 0 | 1 | [Gibraltar](../../countries/GI/cities/gibraltar.yaml) 85.40 |
 | GI | sights | 9 | 9 | 84.80 | 1 | 0 | 1 | 9 | [Upper Rock Nature Reserve](../../countries/GI/sights/upper-rock.yaml) 90.75; [Great Siege Tunnels](../../countries/GI/sights/great-siege-tunnels.yaml) 87.40; [Gorham’s Cave Complex (UNESCO heritage property)](../../countries/GI/sights/gorhams-cave-complex.yaml) 87.05 |
 | GL | cities | 7 | 7 | 81.75 | 0 | 0 | 0 | 7 | [Nuuk](../../countries/GL/cities/nuuk.yaml) 85.65; [Ilulissat](../../countries/GL/cities/ilulissat.yaml) 83.10; [Tasiilaq](../../countries/GL/cities/tasiilaq.yaml) 82.20 |
@@ -197,7 +197,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | GM | cities | 16 | 16 | 69.95 | 0 | 0 | 0 | 16 | [Janjanbureh](../../countries/GM/cities/janjanbureh.yaml) 77.40; [Juffureh](../../countries/GM/cities/juffureh.yaml) 75.35; [Albreda](../../countries/GM/cities/albreda.yaml) 74.60 |
 | GM | sights | 31 | 28 | 77.12 | 0 | 0 | 1 | 31 | [Kunta Kinteh Island](../../countries/GM/sights/kunta-kinteh-island.yaml) 86.50; [Wassu Stone Circles](../../countries/GM/sights/wassu-stone-circles.yaml) 86.40; [River Gambia National Park](../../countries/GM/sights/river-gambia-national-park.yaml) 84.45 |
 | GN | cities | 14 | 14 | 70.65 | 0 | 0 | 0 | 14 | [Dalaba](../../countries/GN/cities/dalaba.yaml) 77.25; [Conakry](../../countries/GN/cities/conakry.yaml) 76.55; [Timbo](../../countries/GN/cities/timbo.yaml) 75.65 |
-| GN | sights | 30 | 20 | 78.48 | 1 | 0 | 2 | 30 | [Fouta Djallon Massif (tentative property)](../../countries/GN/sights/fouta-djallon-massif-tentative-property.yaml) 91.60; [Fouta Djallon Highlands (guided visitor circuits)](../../countries/GN/sights/fouta-djallon-highlands-guided-visitor-circuits.yaml) 88.65; [Bossou Forest Reserve](../../countries/GN/sights/bossou-forest-reserve.yaml) 86.15 |
+| GN | sights | 30 | 22 | 79.32 | 1 | 0 | 2 | 30 | [Fouta Djallon Massif (tentative property)](../../countries/GN/sights/fouta-djallon-massif-tentative-property.yaml) 91.60; [Fouta Djallon Highlands (guided visitor circuits)](../../countries/GN/sights/fouta-djallon-highlands-guided-visitor-circuits.yaml) 88.65; [Timbo to Rio Pongo Slave Route (tentative property)](../../countries/GN/sights/timbo-to-rio-pongo-slave-route-tentative-property.yaml) 86.30 |
 | GP | cities | 5 | 5 | 76.70 | 0 | 0 | 0 | 5 | [Terre-de-Haut (bourg)](../../countries/GP/cities/terre-de-haut.yaml) 81.30; [Pointe-à-Pitre](../../countries/GP/cities/pointe-a-pitre.yaml) 78.55; [Basse-Terre](../../countries/GP/cities/basse-terre.yaml) 76.70 |
 | GP | sights | 11 | 11 | 88.05 | 1 | 0 | 1 | 11 | [Guadeloupe National Park](../../countries/GP/sights/guadeloupe-park.yaml) 91.05; [La Soufrière Volcano](../../countries/GP/sights/la-soufriere.yaml) 89.30; [Pigeon Islets (Cousteau Reserve)](../../countries/GP/sights/pigeon-islets-cousteau.yaml) 88.85 |
 | GQ | cities | 13 | 13 | 71.35 | 0 | 0 | 0 | 13 | [Malabo](../../countries/GQ/cities/malabo.yaml) 78.65; [Moka](../../countries/GQ/cities/moka.yaml) 73.70; [San Antonio de Palé](../../countries/GQ/cities/san-antonio-de-pale.yaml) 73.70 |
@@ -211,7 +211,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | GU | cities | 5 | 5 | 78.25 | 0 | 0 | 0 | 5 | [Hagåtña](../../countries/GU/cities/hagatna.yaml) 82.10; [Inalåhan (Inarajan)](../../countries/GU/cities/inalahan.yaml) 79.75; [Humåtak (Umatac)](../../countries/GU/cities/humatak.yaml) 78.25 |
 | GU | sights | 12 | 11 | 82.75 | 0 | 0 | 0 | 12 | [Puntan Litekyan (Ritidian Point public refuge unit)](../../countries/GU/sights/ritidian-point.yaml) 87.70; [War in the Pacific National Historical Park (public heritage units)](../../countries/GU/sights/war-in-the-pacific.yaml) 87.10; [Valley of the Latte cultural river park](../../countries/GU/sights/valley-of-latte.yaml) 85.30 |
 | GW | cities | 13 | 13 | 71.70 | 0 | 0 | 0 | 13 | [Bolama](../../countries/GW/cities/bolama.yaml) 80.15; [Cacheu](../../countries/GW/cities/cacheu.yaml) 76.70; [Bissau](../../countries/GW/cities/bissau.yaml) 76.65 |
-| GW | sights | 25 | 19 | 78.10 | 3 | 0 | 3 | 25 | [Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô](../../countries/GW/sights/coastal-and-marine-ecosystems-of-the-bijagos-archipelago-omati-minho.yaml) 93.00; [João Vieira and Poilão Marine National Park](../../countries/GW/sights/joao-vieira-and-poilao-marine-national-park.yaml) 90.95; [Orango Islands National Park](../../countries/GW/sights/orango-islands-national-park.yaml) 90.65 |
+| GW | sights | 25 | 22 | 79.90 | 4 | 0 | 3 | 25 | [Coastal and Marine Ecosystems of the Bijagós Archipelago – Omatí Minhô](../../countries/GW/sights/coastal-and-marine-ecosystems-of-the-bijagos-archipelago-omati-minho.yaml) 93.00; [Poilão Island nesting beaches](../../countries/GW/sights/poilao-island-nesting-beaches.yaml) 92.00; [João Vieira and Poilão Marine National Park](../../countries/GW/sights/joao-vieira-and-poilao-marine-national-park.yaml) 90.95 |
 | GY | cities | 18 | 18 | 69.22 | 0 | 0 | 0 | 18 | [Georgetown](../../countries/GY/cities/georgetown.yaml) 83.15; [Surama](../../countries/GY/cities/surama.yaml) 75.00; [Rewa](../../countries/GY/cities/rewa.yaml) 72.85 |
 | GY | sights | 39 | 34 | 79.10 | 2 | 0 | 2 | 39 | [Kaieteur Falls](../../countries/GY/sights/kaieteur-falls.yaml) 92.65; [Kaieteur National Park](../../countries/GY/sights/kaieteur-national-park.yaml) 91.20; [Iwokrama Rainforest](../../countries/GY/sights/iwokrama-rainforest.yaml) 89.15 |
 | HK | cities | 1 | 1 | 92.75 | 1 | 0 | 1 | 1 | [Hong Kong](../../countries/HK/cities/hong-kong.yaml) 92.75 |
@@ -431,7 +431,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SK | cities | 15 | 15 | 84.30 | 0 | 0 | 0 | 15 | [Banská Štiavnica](../../countries/SK/cities/banska-stiavnica.yaml) 88.80; [Košice](../../countries/SK/cities/kosice.yaml) 87.50; [Levoča](../../countries/SK/cities/levoca.yaml) 87.05 |
 | SK | sights | 61 | 58 | 87.42 | 6 | 0 | 5 | 61 | [Tatra National Park (Slovak section)](../../countries/SK/sights/tatras.yaml) 92.30; [Spiš Castle and associated monuments](../../countries/SK/sights/spis-castle.yaml) 91.85; [Caves of Aggtelek and Slovak Karst (Slovak serial property)](../../countries/SK/sights/karst-caves.yaml) 91.65 |
 | SL | cities | 13 | 13 | 70.10 | 0 | 0 | 0 | 13 | [Freetown](../../countries/SL/cities/freetown.yaml) 83.00; [Bonthe](../../countries/SL/cities/bonthe.yaml) 77.50; [Dublin (Banana Islands)](../../countries/SL/cities/dublin-banana-islands.yaml) 73.95 |
-| SL | sights | 33 | 28 | 80.72 | 1 | 0 | 2 | 33 | [Gola-Tiwai Complex (serial World Heritage property)](../../countries/SL/sights/gola-tiwai-complex-serial-world-heritage-property.yaml) 92.25; [Tiwai Island Wildlife Sanctuary](../../countries/SL/sights/tiwai-island-wildlife-sanctuary.yaml) 89.70; [Gola Rainforest National Park](../../countries/SL/sights/gola-rainforest-national-park.yaml) 89.20 |
+| SL | sights | 33 | 31 | 81.50 | 1 | 0 | 2 | 33 | [Gola-Tiwai Complex (serial World Heritage property)](../../countries/SL/sights/gola-tiwai-complex-serial-world-heritage-property.yaml) 92.25; [Tiwai Island Wildlife Sanctuary](../../countries/SL/sights/tiwai-island-wildlife-sanctuary.yaml) 89.70; [Gola Rainforest National Park](../../countries/SL/sights/gola-rainforest-national-park.yaml) 89.20 |
 | SM | cities | 14 | 14 | 68.72 | 0 | 0 | 0 | 14 | [City of San Marino](../../countries/SM/cities/city-of-san-marino.yaml) 87.65; [Borgo Maggiore](../../countries/SM/cities/borgo-maggiore.yaml) 76.65; [Montegiardino](../../countries/SM/cities/montegiardino.yaml) 73.10 |
 | SM | sights | 25 | 25 | 77.95 | 1 | 0 | 0 | 25 | [San Marino Historic Centre and Mount Titano](../../countries/SM/sights/san-marino-historic-centre-and-mount-titano.yaml) 90.80; [Guaita (First Tower)](../../countries/SM/sights/guaita-first-tower.yaml) 88.05; [Cesta (Second Tower)](../../countries/SM/sights/cesta-second-tower.yaml) 87.10 |
 | SN | cities | 8 | 8 | 81.08 | 0 | 0 | 0 | 8 | [Dakar](../../countries/SN/cities/dakar.yaml) 87.05; [Saint-Louis](../../countries/SN/cities/saint-louis.yaml) 86.35; [Touba](../../countries/SN/cities/touba.yaml) 83.60 |
