@@ -1,0 +1,17 @@
+id: sight-je-minquiers
+name: "Les Minquiers tidal reef and sandbanks"
+location:
+  country_code: JE
+  latitude: 48.97
+  longitude: -2.128
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 9.1
+    wildlife: 8.7
+    photography: 9.1
+    adventure: 8.7

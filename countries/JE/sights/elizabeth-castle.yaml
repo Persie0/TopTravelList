@@ -1,0 +1,16 @@
+id: sight-je-elizabeth-castle
+name: "Elizabeth Castle"
+location:
+  country_code: JE
+  latitude: 49.176
+  longitude: -2.125
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.1
+    architecture: 8.8
+    photography: 9.0

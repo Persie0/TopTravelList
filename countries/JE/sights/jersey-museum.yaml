@@ -1,0 +1,16 @@
+id: sight-je-jersey-museum
+name: "Jersey Museum, Art Gallery and Victorian House"
+location:
+  country_code: JE
+  latitude: 49.183
+  longitude: -2.108
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 8.8
+    culture: 8.7
+    architecture: 8.3

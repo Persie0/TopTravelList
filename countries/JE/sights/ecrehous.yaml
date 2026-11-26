@@ -1,0 +1,17 @@
+id: sight-je-ecrehous
+name: "Les Écréhous tidal reefs and islets"
+location:
+  country_code: JE
+  latitude: 49.291
+  longitude: -1.928
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.3
+  depth: 8.3
+  categories:
+    nature: 9.0
+    wildlife: 8.8
+    photography: 9.1
+    adventure: 8.6

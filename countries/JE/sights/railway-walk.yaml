@@ -1,0 +1,16 @@
+id: sight-je-railway-walk
+name: "Jersey Railway Walk"
+location:
+  country_code: JE
+  latitude: 49.194
+  longitude: -2.202
+scores:
+  impact: 7.9
+  uniqueness: 7.8
+  significance: 7.7
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 8.0
+    history: 7.9
+    relaxation: 8.6

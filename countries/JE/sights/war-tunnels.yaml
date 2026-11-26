@@ -1,0 +1,15 @@
+id: sight-je-war-tunnels
+name: "Jersey War Tunnels"
+location:
+  country_code: JE
+  latitude: 49.207
+  longitude: -2.144
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.2
+    culture: 8.7

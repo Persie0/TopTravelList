@@ -1,0 +1,16 @@
+id: city-je-rozel
+name: "Rozel fishing village"
+location:
+  country_code: JE
+  latitude: 49.236
+  longitude: -2.047
+scores:
+  impact: 8.1
+  uniqueness: 7.8
+  significance: 7.3
+  experience: 8.0
+  depth: 6.9
+  categories:
+    photography: 8.4
+    food: 8.0
+    relaxation: 8.3

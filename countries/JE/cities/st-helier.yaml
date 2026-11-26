@@ -1,0 +1,16 @@
+id: city-je-st-helier
+name: "St Helier"
+location:
+  country_code: JE
+  latitude: 49.185
+  longitude: -2.107
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 8.6
+    architecture: 8.2
+    food: 8.7
