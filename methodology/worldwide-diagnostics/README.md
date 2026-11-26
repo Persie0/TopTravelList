@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14968; unassessed: 1301.
+Ranked: 14978; unassessed: 1291.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 444 |
+| conflicting-declared-status | 454 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1301 |
+| incomplete-core | 1291 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1806 |
+| overall-90-plus | 1811 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -87,7 +87,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BQ | cities | 5 | 5 | 77.95 | 0 | 0 | 0 | 5 | [Oranjestad (Sint Eustatius)](../../countries/BQ/cities/oranjestad-statia.yaml) 83.00; [Windwardside (Saba)](../../countries/BQ/cities/windwardside.yaml) 80.20; [Rincon (Bonaire)](../../countries/BQ/cities/rincon.yaml) 77.95 |
 | BQ | sights | 13 | 13 | 85.60 | 0 | 0 | 0 | 13 | [Saba National Marine Park (permitted dive sites)](../../countries/BQ/sights/saba-marine-park.yaml) 88.70; [Bonaire National Marine Park (permitted dive sites)](../../countries/BQ/sights/bonaire-marine-park.yaml) 88.45; [Mount Scenery trail (Saba)](../../countries/BQ/sights/mount-scenery.yaml) 88.20 |
 | BR | cities | 42 | 42 | 77.88 | 2 | 0 | 5 | 42 | [Rio de Janeiro](../../countries/BR/cities/rio-de-janeiro.yaml) 93.50; [Salvador](../../countries/BR/cities/salvador.yaml) 90.05; [Ouro Preto](../../countries/BR/cities/ouro-preto.yaml) 89.85 |
-| BR | sights | 85 | 72 | 86.98 | 15 | 2 | 49 | 85 | [Iguaçu National Park](../../countries/BR/sights/iguacu-national-park.yaml) 95.85; [Lençóis Maranhenses National Park](../../countries/BR/sights/lencois-maranhenses-national-park.yaml) 95.55; [Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea](../../countries/BR/sights/rio-de-janeiro-carioca-landscapes-between-the-mountain-and-the-sea.yaml) 94.85 |
+| BR | sights | 85 | 82 | 87.32 | 20 | 2 | 49 | 85 | [Iguaçu National Park](../../countries/BR/sights/iguacu-national-park.yaml) 95.85; [Lençóis Maranhenses National Park](../../countries/BR/sights/lencois-maranhenses-national-park.yaml) 95.55; [Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea](../../countries/BR/sights/rio-de-janeiro-carioca-landscapes-between-the-mountain-and-the-sea.yaml) 94.85 |
 | BS | cities | 12 | 12 | 71.35 | 0 | 0 | 0 | 12 | [Nassau](../../countries/BS/cities/nassau.yaml) 83.15; [Hope Town](../../countries/BS/cities/hope-town.yaml) 80.00; [Dunmore Town](../../countries/BS/cities/dunmore-town.yaml) 79.70 |
 | BS | sights | 34 | 24 | 81.60 | 1 | 0 | 0 | 34 | [Exuma Cays Land and Sea Park](../../countries/BS/sights/exuma-cays-land-and-sea-park.yaml) 91.90; [Inagua National Park](../../countries/BS/sights/inagua-national-park.yaml) 89.65; [Dean's Blue Hole](../../countries/BS/sights/deans-blue-hole.yaml) 88.40 |
 | BT | cities | 33 | 33 | 77.85 | 0 | 0 | 0 | 33 | [Thimphu](../../countries/BT/cities/thimphu.yaml) 87.45; [Jakar](../../countries/BT/cities/jakar.yaml) 85.30; [Trongsa](../../countries/BT/cities/trongsa.yaml) 85.00 |
