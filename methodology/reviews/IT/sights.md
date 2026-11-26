@@ -4699,3 +4699,5 @@
 - Verification still needed: independent site-specific evidence, access, exact coordinates and narrower worldwide peers.
 
 - [Dated worldwide reassessment pass 57 — 2026-11-26](worldwide-deferred-pass57-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)

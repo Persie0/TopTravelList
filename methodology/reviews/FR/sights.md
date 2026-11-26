@@ -3434,3 +3434,5 @@
 - Verification still needed: independent factual support, access and closer same-type comparisons.
 
 - [Dated worldwide reassessment pass 58 — 2026-11-26](worldwide-deferred-pass58-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)
