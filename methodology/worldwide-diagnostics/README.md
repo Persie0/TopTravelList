@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14783; unassessed: 1486.
+Ranked: 14788; unassessed: 1481.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 421 |
+| conflicting-declared-status | 426 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1486 |
+| incomplete-core | 1481 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1794 |
 | overall-95-plus | 159 |
@@ -369,7 +369,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | NZ | cities | 12 | 12 | 80.40 | 0 | 0 | 0 | 12 | [Rotorua](../../countries/NZ/cities/rotorua.yaml) 85.10; [Queenstown](../../countries/NZ/cities/queenstown.yaml) 84.40; [Wellington](../../countries/NZ/cities/wellington.yaml) 82.45 |
 | NZ | sights | 24 | 22 | 88.38 | 7 | 0 | 5 | 24 | [Te Wāhipounamu – South West New Zealand](../../countries/NZ/sights/te-wahipounamu.yaml) 94.40; [Fiordland National Park](../../countries/NZ/sights/fiordland-national-park.yaml) 93.55; [Tongariro National Park](../../countries/NZ/sights/tongariro-national-park.yaml) 92.35 |
 | OM | cities | 24 | 24 | 75.80 | 0 | 0 | 0 | 24 | [Muscat](../../countries/OM/cities/muscat.yaml) 87.15; [Misfat al Abriyeen](../../countries/OM/cities/misfat-al-abriyeen.yaml) 84.45; [Nizwa](../../countries/OM/cities/nizwa.yaml) 84.30 |
-| OM | sights | 60 | 54 | 82.20 | 2 | 0 | 3 | 60 | [Musandam Fjords (Khor Ash Sham)](../../countries/OM/sights/musandam-fjords-khor-ash-sham.yaml) 91.60; [Jebel Shams and Wadi Ghul Canyon](../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) 91.05; [Daymaniyat Islands Nature Reserve](../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) 89.50 |
+| OM | sights | 60 | 59 | 82.30 | 2 | 0 | 3 | 60 | [Musandam Fjords (Khor Ash Sham)](../../countries/OM/sights/musandam-fjords-khor-ash-sham.yaml) 91.60; [Jebel Shams and Wadi Ghul Canyon](../../countries/OM/sights/jebel-shams-and-wadi-ghul-canyon.yaml) 91.05; [Daymaniyat Islands Nature Reserve](../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) 89.50 |
 | PA | cities | 22 | 22 | 73.80 | 0 | 0 | 0 | 22 | [Panama City](../../countries/PA/cities/panama-city.yaml) 88.20; [Portobelo](../../countries/PA/cities/portobelo.yaml) 81.10; [Bocas Town](../../countries/PA/cities/bocas-town.yaml) 78.75 |
 | PA | sights | 53 | 45 | 83.00 | 4 | 0 | 5 | 53 | [Coiba National Park and Special Zone of Marine Protection](../../countries/PA/sights/coiba-national-park-and-special-zone-of-marine-protection.yaml) 94.15; [Panama Canal (visitor transit and lock experience)](../../countries/PA/sights/panama-canal-visitor-transit-and-lock-experience.yaml) 93.70; [Guna Yala (San Blas visitor islands)](../../countries/PA/sights/guna-yala-san-blas-visitor-islands.yaml) 90.70 |
 | PE | cities | 36 | 36 | 72.32 | 1 | 0 | 3 | 36 | [Cusco](../../countries/PE/cities/cusco.yaml) 93.65; [Arequipa](../../countries/PE/cities/arequipa.yaml) 89.65; [Lima](../../countries/PE/cities/lima.yaml) 87.95 |
