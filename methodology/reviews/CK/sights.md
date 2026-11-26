@@ -742,16 +742,16 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -1.1, S -0.7.
-- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -1.2, S -1.0.
-- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -1.3, S -1.1.
-- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U -0.4, S -0.2.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; targeted editorial comparison: Remote protected atoll with regulated visits. Subject minus peer: U -1.2, S -1.0.
+- [Tubbataha Reefs Natural Park (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; targeted editorial comparison: Much broader documented reef conservation and specialist visits. Subject minus peer: U -0.6, S -0.5.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; targeted editorial comparison: Documented marine recreation, not evidence of access to this reef. Subject minus peer: U -0.7, S -0.3.
+- [Raja Ampat Archipelago (ID)](../../../countries/ID/sights/raja-ampat-archipelago.yaml) — 9.8/9.9/9.5/9.7/9.8; targeted editorial comparison: World-leading reef and island diversity with broad documented visitor scope. Subject minus peer: U -1.3, S -0.7.
 
 Incomplete additional references (not counted toward the four complete profiles):
-- [Ducie Atoll (restricted visitor scope) (PN)](../../../countries/PN/sights/ducie-atoll.yaml) — null/8.9/8.8/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.3, S +0.0.
+- [Oeno Atoll (restricted visitor scope) (PN)](../../../countries/PN/sights/oeno-atoll.yaml) — null/8.5/8.4/null/null; targeted editorial comparison: Comparable uninhabited protected atoll. Subject minus peer: U +0.1, S +0.4.
+- [Pulu Keeling National Park (North Keeling Island) (CC)](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — null/9.3/9.3/null/null; targeted editorial comparison: Remote protected coral island without general tours. Subject minus peer: U -0.7, S -0.5.
+- [Ducie Atoll (restricted visitor scope) (PN)](../../../countries/PN/sights/ducie-atoll.yaml) — null/8.9/8.8/null/null; targeted editorial comparison: Remote seabird and lagoon habitat. Subject minus peer: U -0.3, S +0.0.
 - [Rose Atoll National Wildlife Refuge (Muliāva) (AS)](../../../countries/AS/sights/rose-atoll.yaml) — null/9.2/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.6, S -0.5.
-- [Pulu Keeling National Park (North Keeling Island) (CC)](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — null/9.3/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.7, S -0.5.
-- [Oeno Atoll (restricted visitor scope) (PN)](../../../countries/PN/sights/oeno-atoll.yaml) — null/8.5/8.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.1, S +0.4.
 
 Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
 

@@ -374,10 +374,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -1.3, U -1.1, S -1.3, E -0.7, D -0.9.
-- [Tojinbo Cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; supplementary coast-type numerical anchor. Subject minus peer: I -0.5, U -0.9, S -0.7, E -0.5, D -0.7.
-- [Durdle Door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; supplementary coast-type numerical anchor. Subject minus peer: I -0.8, U -0.9, S -1.0, E -0.4, D -0.3.
-- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary coast-type numerical anchor. Subject minus peer: I -0.9, U -1.0, S -1.1, E -0.7, D -1.2.
+- [Ayo Rock Formations (AW)](../../../countries/AW/sights/ayo-rock-formations.yaml) — 8.3/8.5/8.4/8.3/7.6; targeted editorial comparison: Closest Aruba boulder formation comparison, separate cultural context. Subject minus peer: I -0.1, U -0.5, S -1.0, E +0.0, D -0.3.
+- [Getabergen and Grottstigen Trail (AX)](../../../countries/AX/sights/getabergen-grottstigen.yaml) — 8.1/8.0/7.3/8.2/7.6; targeted editorial comparison: Comparable bounded rocky walking route. Subject minus peer: I +0.1, U +0.0, S +0.1, E +0.1, D -0.3.
+- [Ras Abrouq Rock Formations (QA)](../../../countries/QA/sights/ras-abrouq-rock-formations.yaml) — 8.6/8.8/7.7/8.4/8.0; targeted editorial comparison: Similar compact geological landscape, different erosion and desert context. Subject minus peer: I -0.4, U -0.8, S -0.3, E -0.1, D -0.7.
+- [Nanya Rock Formations (TW)](../../../countries/TW/sights/nanya-rock-formations.yaml) — 8.5/8.8/8.0/8.7/6.8; targeted editorial comparison: Distinctive rock forms, coastal rather than inland boulders. Subject minus peer: I -0.3, U -0.8, S -0.6, E -0.4, D +0.5.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -462,10 +462,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.8, U -0.4, S -0.8, E -0.5, D -1.2.
-- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.8, U -0.5, S -0.6, E -0.4, D -0.5.
-- [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -1.2, U -1.0, S -1.5, E -0.5, D -1.4.
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; supplementary landscape-type numerical anchor. Subject minus peer: I -1.1, U -0.9, S -1.2, E -0.8, D -1.3.
+- [Penang Street Art Armenian Street (MY)](../../../countries/MY/sights/penang-street-art-armenian-street.yaml) — 7.7/7.8/6.8/8.3/7.1; targeted editorial comparison: Comparable street-art walking route within more substantial historic streets. Subject minus peer: I +0.6, U +0.7, S +1.1, E +0.3, D +0.9.
+- [Dongpirang Mural Village (KR)](../../../countries/KR/sights/dongpirang-mural-village.yaml) — 8.0/8.4/7.6/8.7/7.6; targeted editorial comparison: Closest public mural streets with local neighborhood character. Subject minus peer: I +0.3, U +0.1, S +0.3, E -0.1, D +0.4.
+- [Rainbow Village Taichung (TW)](../../../countries/TW/sights/rainbow-village-taichung.yaml) — 7.5/8.1/6.9/8.1/6.8; targeted editorial comparison: Concentrated colorful painted public environment with narrower scope. Subject minus peer: I +0.8, U +0.4, S +1.0, E +0.5, D +1.2.
+- [M+ Museum (HK)](../../../countries/HK/sights/m-plus-museum.yaml) — 8.6/9.0/8.9/8.8/9.0; targeted editorial comparison: Greater institutional art breadth, not public street art. Subject minus peer: I -0.3, U -0.5, S -1.0, E -0.2, D -1.0.
 
 No numerical score or evidence-status changes made by this pass.
 

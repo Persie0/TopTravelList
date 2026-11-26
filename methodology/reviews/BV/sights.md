@@ -20,16 +20,16 @@
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.3, S -0.5.
-- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -0.4, S -0.8.
-- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -0.5, S -0.9.
-- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U +0.4, S +0.0.
+- [Cabo de Hornos National Park (CL)](../../../countries/CL/sights/cabo-de-hornos-national-park.yaml) — 9.1/9.1/8.8/7.5/7.3; targeted editorial comparison: Comparable remote southern ocean island landscape with conditional expeditions. Subject minus peer: U +0.3, S +0.2.
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; targeted editorial comparison: Documented authorized subantarctic wildlife viewing, unlike restricted subject. Subject minus peer: U +0.0, S -0.3.
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; targeted editorial comparison: Managed northern seabird island visitor trail, different climate. Subject minus peer: U +0.4, S +0.4.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; targeted editorial comparison: Remote inscribed island ecology with controlled visits, different geological origin. Subject minus peer: U -0.4, S -0.8.
 
 Incomplete additional references (not counted toward the four complete profiles):
-- [Heard and McDonald Islands (HM)](../../../countries/HM/sights/heard-mcdonald-islands.yaml) — 8.9/9.3/9.2/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.1, S -0.2.
-- [South Sandwich Islands (closed protected island group) (GS)](../../../countries/GS/sights/south-sandwich-islands.yaml) — null/9.4/9.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S -0.4.
+- [Heard and McDonald Islands (HM)](../../../countries/HM/sights/heard-mcdonald-islands.yaml) — 8.9/9.3/9.2/null/null; targeted editorial comparison: Closely comparable remote glaciated volcanism, retain null visitor fields. Subject minus peer: U +0.1, S -0.2.
+- [South Sandwich Islands (closed protected island group) (GS)](../../../countries/GS/sights/south-sandwich-islands.yaml) — null/9.4/9.4/null/null; targeted editorial comparison: Similar protected volcanic islands with no ordinary visitor scope. Subject minus peer: U +0.0, S -0.4.
+- [French Austral Lands and Seas (TF)](../../../countries/TF/sights/austral-lands.yaml) — null/9.5/9.5/null/null; targeted editorial comparison: Much broader inscribed subantarctic marine and terrestrial ecology. Subject minus peer: U -0.1, S -0.5.
 - [Gough and Inaccessible Islands (UNESCO property) (SH)](../../../countries/SH/sights/gough-inaccessible-islands.yaml) — null/9.4/9.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S -0.4.
-- [French Austral Lands and Seas (TF)](../../../countries/TF/sights/austral-lands.yaml) — null/9.5/9.5/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S -0.5.
 
 Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
 

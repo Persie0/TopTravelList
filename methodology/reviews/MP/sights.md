@@ -655,18 +655,18 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Sipadan Island Reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; supplementary marine-type numerical anchor. Subject minus peer: U +0.1, S +0.5.
-- [Tubbataha Reefs Natural Park (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; supplementary marine-type numerical anchor. Subject minus peer: U +0.5, S +0.3.
-- [Misool Marine Reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; supplementary marine-type numerical anchor. Subject minus peer: U +0.1, S +0.5.
-- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary marine-type numerical anchor. Subject minus peer: U +0.4, S +0.5.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; targeted editorial comparison: Remote protected atoll with regulated visits. Subject minus peer: U -0.1, S -0.2.
+- [Tubbataha Reefs Natural Park (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; targeted editorial comparison: Much broader documented reef conservation and specialist visits. Subject minus peer: U +0.5, S +0.3.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; targeted editorial comparison: Documented marine recreation, not evidence of access to this reef. Subject minus peer: U +0.4, S +0.5.
+- [Raja Ampat Archipelago (ID)](../../../countries/ID/sights/raja-ampat-archipelago.yaml) — 9.8/9.9/9.5/9.7/9.8; targeted editorial comparison: World-leading reef and island diversity with broad documented visitor scope. Subject minus peer: U -0.2, S +0.1.
 
 Incomplete additional references (not counted toward the four complete profiles):
-- [Great Chagos Bank (IO)](../../../countries/IO/sights/great-chagos-bank.yaml) — null/9.5/9.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.2, S +0.2.
-- [French Austral Lands and Seas (TF)](../../../countries/TF/sights/austral-lands.yaml) — null/9.5/9.5/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.2, S +0.1.
-- [Kingman Reef National Wildlife Refuge (UM)](../../../countries/UM/sights/kingman-reef.yaml) — null/9.3/9.2/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.4, S +0.4.
-- [Heard and McDonald Islands (HM)](../../../countries/HM/sights/heard-mcdonald-islands.yaml) — 8.9/9.3/9.2/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.4, S +0.4.
+- [Great Chagos Bank (IO)](../../../countries/IO/sights/great-chagos-bank.yaml) — null/9.5/9.4/null/null; targeted editorial comparison: Different largely submerged shallow reef-bank morphology. Subject minus peer: U +0.2, S +0.2.
+- [French Austral Lands and Seas (TF)](../../../countries/TF/sights/austral-lands.yaml) — null/9.5/9.5/null/null; targeted editorial comparison: Much broader surface ecosystems, different deep marine scope. Subject minus peer: U +0.2, S +0.1.
+- [Kingman Reef National Wildlife Refuge (UM)](../../../countries/UM/sights/kingman-reef.yaml) — null/9.3/9.2/null/null; targeted editorial comparison: Near-submerged reef habitat, no conventional deep-trench visitation. Subject minus peer: U +0.4, S +0.4.
+- [Heard and McDonald Islands (HM)](../../../countries/HM/sights/heard-mcdonald-islands.yaml) — 8.9/9.3/9.2/null/null; targeted editorial comparison: Different isolated geological and marine heritage. Subject minus peer: U +0.4, S +0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): uniqueness 9.7 vs Sipadan Island Reefs 9.6; significance 9.6 vs Tubbataha Reefs Natural Park 9.3; nature category 9.6 vs Misool Marine Reserve 9.8.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): uniqueness 9.7 vs Raja Ampat Archipelago 9.9; significance 9.6 vs Aldabra Atoll 9.8; nature category 9.6 vs Raja Ampat Archipelago 9.9.
 
 Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
 

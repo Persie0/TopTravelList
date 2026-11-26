@@ -242,10 +242,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.7, U -0.5, S -0.2, E -0.1, D -0.7.
-- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S +0.0, E +0.0, D +0.0.
-- [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -1.1, U -1.1, S -0.9, E -0.1, D -0.9.
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; supplementary landscape-type numerical anchor. Subject minus peer: I -1.0, U -1.0, S -0.6, E -0.4, D -0.8.
+- [Tai O Fishing Village (HK)](../../../countries/HK/sights/tai-o-fishing-village.yaml) — 8.6/8.8/8.2/9.0/8.4; targeted editorial comparison: Closer small coastal village scope and vernacular fabric, different activities. Subject minus peer: I -0.2, U -0.4, S +0.3, E +0.0, D +0.1.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 9.3/9.5/9.3/9.5/9.2; targeted editorial comparison: Much larger coherent historic mercantile streetscape. Subject minus peer: I -0.9, U -1.1, S -0.8, E -0.5, D -0.7.
+- [Sakitsu Village and Church (JP)](../../../countries/JP/sights/sakitsu-village-and-church.yaml) — 8.4/8.9/9.0/8.6/7.9; targeted editorial comparison: Compact historic village heritage with distinct religious context. Subject minus peer: I +0.0, U -0.5, S -0.5, E +0.4, D +0.6.
+- [Chanthaboon Waterfront Community (TH)](../../../countries/TH/sights/chanthaburi-waterfront-community.yaml) — 8.2/8.6/8.3/8.6/8.2; targeted editorial comparison: Historic local streets and commercial culture, different architecture. Subject minus peer: I +0.2, U -0.2, S +0.2, E +0.4, D +0.3.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -462,10 +462,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.4, U -0.1, S -0.8, E +0.4, D +0.6.
-- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I -0.1, U -0.4, S -1.0, E -0.1, D -0.5.
-- [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S -1.2, E -0.3, D -0.7.
-- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -0.9, U -0.9, S -1.5, E -0.7, D -0.7.
+- [Riga Motor Museum (LV)](../../../countries/LV/sights/riga-motor-museum.yaml) — 8.0/8.3/8.0/8.7/8.4; targeted editorial comparison: Close specialist motor vehicle collection and interpretation. Subject minus peer: I -0.1, U -0.1, S -0.2, E -0.3, D -0.3.
+- [Motorcycle Museum (Canillo) (AD)](../../../countries/AD/sights/motorcycle-museum-canillo.yaml) — 7.3/7.8/7.6/8.1/7.3; targeted editorial comparison: Comparable focused vehicle museum with different subject. Subject minus peer: I +0.6, U +0.4, S +0.2, E +0.3, D +0.8.
+- [Kyoto Railway Museum (JP)](../../../countries/JP/sights/kyoto-railway-museum.yaml) — 8.3/8.5/8.2/9.0/8.9; targeted editorial comparison: Broader transport technology collection, different mode. Subject minus peer: I -0.4, U -0.3, S -0.4, E -0.6, D -0.8.
+- [Toyota Commemorative Museum (JP)](../../../countries/JP/sights/toyota-commemorative-museum.yaml) — 8.3/8.8/8.7/8.8/8.9; targeted editorial comparison: More extensive industrial and automotive interpretation. Subject minus peer: I -0.4, U -0.6, S -0.9, E -0.4, D -0.8.
 
 No numerical score or evidence-status changes made by this pass.
 

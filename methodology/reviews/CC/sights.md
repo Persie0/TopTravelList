@@ -418,15 +418,15 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.4, S -0.2.
-- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -0.5, S -0.5.
-- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -0.6, S -0.6.
-- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U +0.3, S +0.3.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; targeted editorial comparison: Remote protected atoll with regulated visits. Subject minus peer: U -0.5, S -0.5.
+- [Tubbataha Reefs Natural Park (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; targeted editorial comparison: Much broader documented reef conservation and specialist visits. Subject minus peer: U +0.1, S +0.0.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; targeted editorial comparison: Documented marine recreation, not evidence of access to this reef. Subject minus peer: U +0.0, S +0.2.
+- [Raja Ampat Archipelago (ID)](../../../countries/ID/sights/raja-ampat-archipelago.yaml) — 9.8/9.9/9.5/9.7/9.8; targeted editorial comparison: World-leading reef and island diversity with broad documented visitor scope. Subject minus peer: U -0.6, S -0.2.
 
 Incomplete additional references (not counted toward the four complete profiles):
-- [Henderson Island (UNESCO property) (PN)](../../../countries/PN/sights/henderson-island.yaml) — null/9.3/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S -0.1.
+- [Henderson Island (UNESCO property) (PN)](../../../countries/PN/sights/henderson-island.yaml) — null/9.3/9.4/null/null; targeted editorial comparison: Remote protected island and limited ordinary access, different raised coral setting. Subject minus peer: U +0.0, S -0.1.
+- [Phillip Island (restricted visitor scope) (NF)](../../../countries/NF/sights/phillip-island.yaml) — null/8.9/9.0/null/null; targeted editorial comparison: Another restricted offshore island with unavailable public tours. Subject minus peer: U +0.4, S +0.3.
 - [Gough and Inaccessible Islands (UNESCO property) (SH)](../../../countries/SH/sights/gough-inaccessible-islands.yaml) — null/9.4/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S -0.1.
-- [Phillip Island (restricted visitor scope) (NF)](../../../countries/NF/sights/phillip-island.yaml) — null/8.9/9.0/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.4, S +0.3.
 
 Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
 

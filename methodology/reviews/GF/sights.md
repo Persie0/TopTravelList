@@ -281,10 +281,11 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; supplementary forest-type numerical anchor. Subject minus peer: I -0.4, U -0.5, S -0.4, E +0.0, D +0.1.
-- [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0/8.9/8.8/8.9/9.0; supplementary forest-type numerical anchor. Subject minus peer: I -0.4, U -0.2, S -0.2, E -0.1, D -0.3.
-- [Laurisilva of Madeira (PT)](../../../countries/PT/sights/laurisilva.yaml) — 9.2/9.4/9.5/9.1/9.3; supplementary forest-type numerical anchor. Subject minus peer: I -0.6, U -0.7, S -0.9, E -0.3, D -0.6.
-- [Kinabalu Park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; supplementary forest-type numerical anchor. Subject minus peer: I -0.8, U -0.8, S -0.9, E -0.4, D -0.6.
+- [Monteverde Cloud Forest Biological Reserve (CR)](../../../countries/CR/sights/monteverde-cloud-forest-biological-reserve.yaml) — 9.2/9.3/9.4/9.3/8.5; targeted editorial comparison: Comparable forest-trail biodiversity experience with more established visitor interpretation. Subject minus peer: I -0.6, U -0.6, S -0.8, E -0.5, D +0.2.
+- [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0/8.9/8.8/8.9/9.0; targeted editorial comparison: Island native forest trail system with broader park scope. Subject minus peer: I -0.4, U -0.2, S -0.2, E -0.1, D -0.3.
+- [Taman Negara National Park (MY)](../../../countries/MY/sights/taman-negara-national-park.yaml) — 9.0/9.1/9.0/8.9/9.2; targeted editorial comparison: More extensive tropical forest exploration. Subject minus peer: I -0.4, U -0.4, S -0.4, E -0.1, D -0.5.
+- [Khao Yai National Park (TH)](../../../countries/TH/sights/khao-yai-national-park.yaml) — 9.0/9.1/9.0/9.0/9.2; targeted editorial comparison: Broader forest park routes and wildlife encounters. Subject minus peer: I -0.4, U -0.4, S -0.4, E -0.2, D -0.5.
+- [Trésor Nature Reserve (public trails) (GF)](../../../countries/GF/sights/tresor-reserve-trails.yaml) — 8.2/8.6/8.8/8.4/8.0; targeted editorial comparison: Closer local forest trail system, narrower scope. Subject minus peer: I +0.4, U +0.1, S -0.2, E +0.4, D +0.7.
 
 No numerical score or evidence-status changes made by this pass.
 

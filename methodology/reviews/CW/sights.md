@@ -22,12 +22,12 @@ Permitted documented visitor areas only. Marine conditions and wildlife sighting
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Historic Centre of Oporto, Luiz I Bridge and Serra do Pilar Monastery (PT)](../../../countries/PT/sights/porto-historic-centre.yaml) — 9.3/9.2/9.2/9.3/9.2; supplementary historic-type numerical anchor. Subject minus peer: I -0.2, U +0.0, S +0.1, E -0.3, D -0.1.
-- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 9.3/9.5/9.3/9.5/9.2; supplementary historic-type numerical anchor. Subject minus peer: I -0.2, U -0.3, S +0.0, E -0.5, D -0.1.
-- [Galle Old Town and Fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; supplementary historic-type numerical anchor. Subject minus peer: I +0.0, U +0.0, S -0.1, E -0.2, D +0.1.
-- [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; supplementary historic-type numerical anchor. Subject minus peer: I +0.2, U -0.1, S -0.1, E +0.1, D +0.3.
+- [San Juan National Historic Site (Puerto Rico) (PR)](../../../countries/PR/sights/san-juan-national-historic-site.yaml) — 8.9/8.8/9.1/8.7/8.6; targeted editorial comparison: More monumental Atlantic fortification component, narrower town scope. Subject minus peer: I +0.2, U +0.4, S +0.2, E +0.3, D +0.5.
+- [Historic Bridgetown and its Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) — 8.6/9.0/9.4/8.5/8.9; targeted editorial comparison: Comparable colonial Caribbean port and garrison heritage. Subject minus peer: I +0.5, U +0.2, S -0.1, E +0.5, D +0.2.
+- [Historic Inner City of Paramaribo (SR)](../../../countries/SR/sights/historic-inner-city-of-paramaribo.yaml) — 8.9/9.1/9.2/8.8/8.6; targeted editorial comparison: Distinctive historic wooden urban ensemble. Subject minus peer: I +0.2, U +0.1, S +0.1, E +0.2, D +0.5.
+- [Port, Fortresses and Group of Monuments of Cartagena (CO)](../../../countries/CO/sights/port-fortresses-and-group-of-monuments-of-cartagena.yaml) — 9.4/9.2/9.6/9.0/9.3; targeted editorial comparison: Greater concentrated port fortification and monumental urban fabric. Subject minus peer: I -0.3, U +0.0, S -0.3, E +0.0, D -0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 91.50 vs Hoi An Ancient Town 93.70.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 91.50 vs Port, Fortresses and Group of Monuments of Cartagena 93.20.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -288,10 +288,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.8, U +0.7, S +0.5, E +0.4, D +0.3.
-- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.3, U +0.4, S +0.3, E -0.1, D -0.8.
-- [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -0.3, U +0.2, S +0.1, E -0.3, D -1.0.
-- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -0.5, U -0.1, S -0.2, E -0.7, D -1.0.
+- [Nidhe Israel Synagogue and Museum (BB)](../../../countries/BB/sights/nidhe-israel-synagogue-and-museum.yaml) — 7.7/8.8/9.0/8.3/7.4; targeted editorial comparison: Close historic Caribbean Jewish heritage and museum. Subject minus peer: I +0.6, U +0.2, S +0.1, E +0.1, D +0.4.
+- [Paradesi Synagogue (IN)](../../../countries/IN/sights/paradesi-synagogue.yaml) — 8.7/9.2/9.1/8.8/7.2; targeted editorial comparison: Comparable historic maritime diaspora synagogue. Subject minus peer: I -0.4, U -0.2, S +0.0, E -0.4, D +0.6.
+- [Dohány Street Synagogue and memorial complex (HU)](../../../countries/HU/sights/dohany-synagogue.yaml) — 8.8/9.1/9.3/8.8/8.5; targeted editorial comparison: Much larger monumental synagogue and interpreted history. Subject minus peer: I -0.5, U -0.1, S -0.2, E -0.4, D -0.7.
+- [Male Friday Mosque (Hukuru Miskiiy) (MV)](../../../countries/MV/sights/male-friday-mosque-hukuru-miskiiy.yaml) — 8.5/9.3/9.2/8.1/7.3; targeted editorial comparison: Focused historic active religious building, different faith and architecture. Subject minus peer: I -0.2, U -0.3, S -0.1, E +0.3, D +0.5.
 
 No numerical score or evidence-status changes made by this pass.
 

@@ -372,10 +372,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.8, U -0.4, S -0.1, E -0.6, D -1.0.
-- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.7, U -0.2, S +0.2, E -0.5, D -0.7.
-- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.5, U -0.1, S +0.2, E +0.0, D +0.2.
-- [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.0, U +0.3, S +0.7, E -0.2, D +0.5.
+- [Ras Al Jinz Turtle Reserve (OM)](../../../countries/OM/sights/ras-al-jinz-turtle-reserve.yaml) — 8.6/8.8/8.9/8.4/7.3; targeted editorial comparison: Close controlled seasonal turtle nesting experience. Subject minus peer: I +0.0, U +0.2, S +0.3, E +0.1, D +0.5.
+- [Tortuguero National Park (CR)](../../../countries/CR/sights/tortuguero-national-park.yaml) — 9.3/9.3/9.4/9.3/9.2; targeted editorial comparison: Far broader turtle habitat, wetlands and established visitor circuits. Subject minus peer: I -0.7, U -0.3, S -0.2, E -0.8, D -1.4.
+- [Turtle Islands Park Sabah (MY)](../../../countries/MY/sights/turtle-islands-park-sabah.yaml) — 8.8/9.0/8.8/8.8/8.3; targeted editorial comparison: Similar regulated nesting interpretation, different island habitat. Subject minus peer: I -0.2, U +0.0, S +0.4, E -0.3, D -0.5.
+- [Matapica Turtle Beach (SR)](../../../countries/SR/sights/matapica-turtle-beach.yaml) — 8.2/8.8/8.7/8.0/7.3; targeted editorial comparison: Comparable seasonal turtle beach, no guarantee of encounters. Subject minus peer: I +0.4, U +0.2, S +0.5, E +0.5, D +0.5.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -592,13 +592,14 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.3, S -0.1.
-- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -0.4, S -0.4.
-- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -0.5, S -0.5.
-- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U +0.4, S +0.4.
+- [Cabo de Hornos National Park (CL)](../../../countries/CL/sights/cabo-de-hornos-national-park.yaml) — 9.1/9.1/8.8/7.5/7.3; targeted editorial comparison: Comparable remote southern ocean island landscape with conditional expeditions. Subject minus peer: U +0.3, S +0.6.
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; targeted editorial comparison: Documented authorized subantarctic wildlife viewing, unlike restricted subject. Subject minus peer: U +0.0, S +0.1.
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; targeted editorial comparison: Managed northern seabird island visitor trail, different climate. Subject minus peer: U +0.4, S +0.8.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; targeted editorial comparison: Remote inscribed island ecology with controlled visits, different geological origin. Subject minus peer: U -0.4, S -0.4.
 
 Incomplete additional references (not counted toward the four complete profiles):
-- [South Sandwich Islands (closed protected island group) (GS)](../../../countries/GS/sights/south-sandwich-islands.yaml) — null/9.4/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S +0.0.
+- [Henderson Island (UNESCO property) (PN)](../../../countries/PN/sights/henderson-island.yaml) — null/9.3/9.4/null/null; targeted editorial comparison: Comparable inscribed isolated island and restricted ordinary visitor scope. Subject minus peer: U +0.1, S +0.0.
+- [South Sandwich Islands (closed protected island group) (GS)](../../../countries/GS/sights/south-sandwich-islands.yaml) — null/9.4/9.4/null/null; targeted editorial comparison: Similar remote oceanic conservation with incomplete visitor scope. Subject minus peer: U +0.0, S +0.0.
 
 Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
 

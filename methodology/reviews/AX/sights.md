@@ -244,10 +244,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -1.1, U -0.8, S -1.2, E -1.1, D -1.9.
-- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -1.1, U -0.9, S -1.0, E -1.0, D -1.2.
-- [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -1.5, U -1.4, S -1.9, E -1.1, D -2.1.
-- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; supplementary landscape-type numerical anchor. Subject minus peer: I -1.4, U -1.3, S -1.6, E -1.4, D -2.0.
+- [Tai O Fishing Village (HK)](../../../countries/HK/sights/tai-o-fishing-village.yaml) — 8.6/8.8/8.2/9.0/8.4; targeted editorial comparison: Closer living fishing settlement, more distinctive stilt houses. Subject minus peer: I -0.6, U -0.7, S -0.7, E -1.0, D -1.1.
+- [Nanfangao Fishing Harbor (TW)](../../../countries/TW/sights/nanfangao-fishing-harbor.yaml) — 7.9/8.1/7.8/8.5/7.9; targeted editorial comparison: More extensive working harbor and fishery context. Subject minus peer: I +0.1, U +0.0, S -0.3, E -0.5, D -0.6.
+- [Ham Ninh Fishing Village (VN)](../../../countries/VN/sights/ham-ninh-fishing-village.yaml) — 8.0/8.0/7.4/8.7/7.9; targeted editorial comparison: Comparable coastal fishing-village visit, different built heritage. Subject minus peer: I +0.0, U +0.1, S +0.1, E -0.7, D -0.6.
+- [Chanthaboon Waterfront Community (TH)](../../../countries/TH/sights/chanthaburi-waterfront-community.yaml) — 8.2/8.6/8.3/8.6/8.2; targeted editorial comparison: Broader historic waterside architecture and local life. Subject minus peer: I -0.2, U -0.5, S -0.8, E -0.6, D -0.9.
 
 No numerical score or evidence-status changes made by this pass.
 

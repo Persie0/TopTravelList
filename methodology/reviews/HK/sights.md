@@ -20,12 +20,12 @@
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.8, U +1.0, S +0.2, E +1.6, D +1.5.
-- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +1.3, U +0.7, S +0.0, E +1.1, D +0.4.
-- [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I +0.7, U +0.5, S -0.2, E +0.9, D +0.2.
-- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; supplementary museum-type numerical anchor. Subject minus peer: I +0.5, U +0.2, S -0.5, E +0.5, D +0.2.
+- [Marina Bay Waterfront (SG)](../../../countries/SG/sights/marina-bay-waterfront.yaml) — 9.3/9.1/8.2/9.2/8.8; targeted editorial comparison: Comparable dense modern skyline and engineered waterfront, different maritime history. Subject minus peer: I +0.0, U +0.2, S +0.6, E +0.4, D +0.2.
+- [Port Hercule Waterfront (MC)](../../../countries/MC/sights/port-hercule-waterfront.yaml) — 8.4/8.2/7.7/8.6/7.9; targeted editorial comparison: Compact prominent harbor with smaller skyline and visitor scope. Subject minus peer: I +0.9, U +1.1, S +1.1, E +1.0, D +1.1.
+- [Marseille roadstead (tentative) (FR)](../../../countries/FR/sights/marseille-harbor.yaml) — 8.9/8.8/8.8/9.0/9.0; targeted editorial comparison: Historically layered urban port, different visual density. Subject minus peer: I +0.4, U +0.5, S +0.0, E +0.6, D +0.0.
+- [Kuching Waterfront (MY)](../../../countries/MY/sights/kuching-waterfront.yaml) — 8.0/7.9/7.7/8.5/7.8; targeted editorial comparison: More modest city waterfront with narrower harbor-scale experience. Subject minus peer: I +1.3, U +1.4, S +1.1, E +1.1, D +1.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): experience 9.6 vs National Museum of Cambodia 9.1; photography category 9.9: same-category peer still needed; overall 92.15 vs National Museum of Cambodia 90.20.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): experience 9.6 vs Marina Bay Waterfront 9.2; photography category 9.9 vs Marina Bay Waterfront 9.4; overall 92.15 vs Marina Bay Waterfront 89.65.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -156,10 +156,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.6, U -1.0, S -0.9, E +0.1, D +0.0.
-- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.6, U -1.1, S -1.2, E +1.3, D +1.8.
-- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.2, S -1.3, E -0.2, D +0.1.
-- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: I +0.1, U -0.3, S -0.4, E +1.1, D +1.6.
+- [Jeju Island (KR)](../../../countries/KR/sights/jeju-island.yaml) — 9.2/9.2/9.1/9.3/9.6; targeted editorial comparison: Broader volcanic island and visitor landscape with different geological significance. Subject minus peer: I -0.3, U -0.5, S -0.5, E +0.0, D -0.2.
+- [Levadas of Madeira (tentative landscape network) (PT)](../../../countries/PT/sights/madeira-levadas.yaml) — 9.2/9.3/9.0/9.2/9.4; targeted editorial comparison: More extensive developed mountain walking network, narrower route type. Subject minus peer: I -0.3, U -0.6, S -0.4, E +0.1, D +0.0.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; targeted editorial comparison: More distinctive remote endemic island ecology, different settlement character. Subject minus peer: I -0.6, U -1.0, S -0.9, E +0.1, D +0.0.
+- [Ilha Grande (authorized island trails and beaches) (BR)](../../../countries/BR/sights/ilha-grande-authorized-island-trails-and-beaches.yaml) — 9.0/8.7/8.5/8.9/8.8; targeted editorial comparison: Comparable island landscape of permitted coastal and forest trails. Subject minus peer: I -0.1, U +0.0, S +0.1, E +0.4, D +0.6.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -510,10 +510,10 @@ No numerical score or evidence-status changes made by this pass.
 
 Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
 
-- [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; supplementary trail-type numerical anchor. Subject minus peer: I +0.1, U +0.2, S +0.7, E +0.5, D +0.9.
-- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary trail-type numerical anchor. Subject minus peer: I -0.3, U -0.4, S -1.1, E +0.2, D -0.1.
-- [Samaria Gorge National Park (GR)](../../../countries/GR/sights/samaria.yaml) — 9.3/9.1/8.8/9.0/8.8; supplementary trail-type numerical anchor. Subject minus peer: I -0.5, U -0.5, S -1.4, E +0.2, D -0.4.
-- [Nakasendo Magome Tsumago Trail (JP)](../../../countries/JP/sights/nakasendo-magome-tsumago-trail.yaml) — 8.6/8.7/8.8/9.0/8.7; supplementary trail-type numerical anchor. Subject minus peer: I +0.2, U -0.1, S -1.4, E +0.2, D -0.3.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; targeted editorial comparison: Comparable coastal ridge trail with longer exposed geological scenery. Subject minus peer: I -0.3, U -0.4, S -1.1, E +0.2, D -0.1.
+- [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; targeted editorial comparison: Focused coastal nature trail, different tropical landforms. Subject minus peer: I +0.1, U +0.2, S +0.7, E +0.5, D +0.9.
+- [Jogasaki Coast (JP)](../../../countries/JP/sights/jogasaki-coast.yaml) — 8.6/8.5/7.8/8.8/8.5; targeted editorial comparison: Longer coastal rock and walking circuit, less ridge emphasis. Subject minus peer: I +0.2, U +0.1, S -0.4, E +0.4, D -0.1.
+- [Kallur Lighthouse and ridge (FO)](../../../countries/FO/sights/kallur-lighthouse.yaml) — 9.1/8.6/7.2/8.8/7.7; targeted editorial comparison: Comparable coastal ridge and viewpoint, different North Atlantic cliffs. Subject minus peer: I -0.3, U +0.0, S +0.2, E +0.4, D +0.7.
 
 No numerical score or evidence-status changes made by this pass.
 
