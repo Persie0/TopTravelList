@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15039; unassessed: 1230.
+Ranked: 15050; unassessed: 1219.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 514 |
+| conflicting-declared-status | 525 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1230 |
+| incomplete-core | 1219 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1814 |
 | overall-95-plus | 159 |
@@ -379,7 +379,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PG | cities | 7 | 7 | 73.75 | 0 | 0 | 0 | 7 | [Rabaul](../../countries/PG/cities/rabaul.yaml) 79.00; [Port Moresby](../../countries/PG/cities/port-moresby.yaml) 75.25; [Goroka](../../countries/PG/cities/goroka.yaml) 74.60 |
 | PG | sights | 19 | 13 | 85.70 | 2 | 0 | 1 | 19 | [Kimbe Bay Reefs](../../countries/PG/sights/kimbe-bay.yaml) 92.85; [Tufi Fjords (Cape Nelson)](../../countries/PG/sights/tufi-fjords.yaml) 90.45; [Upper Sepik River Basin](../../countries/PG/sights/upper-sepik-river-basin.yaml) 89.60 |
 | PH | cities | 15 | 15 | 76.40 | 0 | 0 | 0 | 15 | [Vigan](../../countries/PH/cities/vigan.yaml) 86.00; [Manila](../../countries/PH/cities/manila.yaml) 84.15; [Cebu City](../../countries/PH/cities/cebu-city.yaml) 80.25 |
-| PH | sights | 50 | 36 | 86.40 | 3 | 0 | 0 | 50 | [Rice Terraces of the Philippine Cordilleras](../../countries/PH/sights/cordillera-rice-terraces.yaml) 92.15; [Tubbataha Reefs Natural Park](../../countries/PH/sights/tubbataha.yaml) 92.15; [El Nido-Taytay Managed Resource Protected Area](../../countries/PH/sights/el-nido-taytay.yaml) 91.45 |
+| PH | sights | 50 | 47 | 86.35 | 3 | 0 | 0 | 50 | [Rice Terraces of the Philippine Cordilleras](../../countries/PH/sights/cordillera-rice-terraces.yaml) 92.15; [Tubbataha Reefs Natural Park](../../countries/PH/sights/tubbataha.yaml) 92.15; [El Nido-Taytay Managed Resource Protected Area](../../countries/PH/sights/el-nido-taytay.yaml) 91.45 |
 | PK | cities | 14 | 14 | 76.75 | 1 | 0 | 0 | 14 | [Lahore](../../countries/PK/cities/lahore.yaml) 90.15; [Peshawar](../../countries/PK/cities/peshawar.yaml) 84.20; [Multan](../../countries/PK/cities/multan.yaml) 83.50 |
 | PK | sights | 58 | 50 | 84.45 | 3 | 0 | 0 | 58 | [Central Karakoram National Park](../../countries/PK/sights/central-karakoram.yaml) 92.20; [K2 Base Camp and Baltoro Trek](../../countries/PK/sights/k2-base-camp.yaml) 92.10; [Fort and Shalamar Gardens in Lahore](../../countries/PK/sights/lahore-fort-and-shalamar.yaml) 90.70 |
 | PL | cities | 22 | 22 | 84.00 | 3 | 0 | 1 | 22 | [Kraków](../../countries/PL/cities/krakow.yaml) 92.65; [Gdańsk](../../countries/PL/cities/gdansk.yaml) 91.50; [Warsaw](../../countries/PL/cities/warsaw.yaml) 90.95 |
