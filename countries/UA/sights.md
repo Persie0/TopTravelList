@@ -2,7 +2,7 @@
 
 # Ukraine (UA) — Sights & attractions ranking
 
-**21 ranked** · **28 unassessed** · **49 total** · Worldwide scoring **v2**
+**26 ranked** · **23 unassessed** · **49 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -12,7 +12,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Access advisory (checked 25 November 2026):** Scores describe normal-condition intrinsic merit, not current safety, accessibility or surviving condition. Active war and serious travel restrictions remain. Consult [current government travel advice](https://www.gov.uk/foreign-travel-advice/ukraine) and [UNESCO conservation reports](https://whc.unesco.org/en/statesparties/ua) before interpreting these rankings.
 
-## Complete ranked list (21)
+## Complete ranked list (26)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -37,8 +37,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 19 | [Lubart Castle](sights/lubart.yaml) | Palace / castle | **87.15** | **Architecture 9.2**, **History 9.2** | 8.7 / 8.8 / 8.9 / 8.7 / 8.2 | [50.739, 25.323](https://www.google.com/maps/search/?api=1&query=50.739,25.323) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lubart%20Castle%2C%20Ukraine) |
 | 20 | [Taras Shevchenko Tomb and State Historical and Natural Museum Reserve](sights/shevchenko-reserve.yaml) | Museum / heritage | **86.75** | **Culture 9.3**, **History 9.3** | 8.5 / 8.8 / 9.1 / 8.5 / 8.3 | [49.728, 31.48](https://www.google.com/maps/search/?api=1&query=49.728,31.48) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taras%20Shevchenko%20Tomb%20and%20State%20Historical%20and%20Natural%20Museum%20Reserve%2C%20Ukraine) |
 | 21 | [Holy Trinity Tserkva, Zhovkva](sights/zhovkva-tserkva.yaml) | Attraction | **85.95** | **Architecture 9.4**, **History 9.2** | 8.6 / 9.0 / 9.1 / 8.1 / 7.3 | [50.055339, 23.982214](https://www.google.com/maps/search/?api=1&query=50.055339,23.982214) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Holy%20Trinity%20Tserkva%2C%20Zhovkva%2C%20Ukraine) |
+| 22 | [Struve Geodetic Arc (Ukrainian stations)](sights/struve-arc.yaml) | Attraction | **78.70** | **History 9.0** | 7.0 / 8.5 / 9.1 / 7.5 / 7.0 | [49.565833, 26.756111](https://www.google.com/maps/search/?api=1&query=49.565833,26.756111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%28Ukrainian%20stations%29%2C%20Ukraine) |
+| 23 | [Struve Geodetic Arc — Stara Nekrasivka station](sights/struve-stara-nekrasivka.yaml) | Attraction | **75.05** | **History 8.6** | 6.8 / 8.1 / 8.6 / 7.4 / 6.1 | [45.332596, 28.927881](https://www.google.com/maps/search/?api=1&query=45.332596,28.927881) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%94%20Stara%20Nekrasivka%20station%2C%20Ukraine) |
+| 24 | [Struve Geodetic Arc — Felschtin station](sights/struve-felschtin.yaml) | Attraction | **74.00** | **History 8.6** | 6.7 / 8.0 / 8.6 / 7.2 / 5.9 | [49.33, 26.681944](https://www.google.com/maps/search/?api=1&query=49.33,26.681944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%94%20Felschtin%20station%2C%20Ukraine) |
+| 25 | [Struve Geodetic Arc — Katerinowka station](sights/struve-katerinowka.yaml) | Attraction | **73.70** | **History 8.6** | 6.6 / 8.0 / 8.6 / 7.2 / 5.9 | [49.565833, 26.756111](https://www.google.com/maps/search/?api=1&query=49.565833,26.756111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%94%20Katerinowka%20station%2C%20Ukraine) |
+| 26 | [Struve Geodetic Arc — Baranowka station](sights/struve-baranowka.yaml) | Attraction | **73.00** | **History 8.6** | 6.5 / 8.0 / 8.6 / 7.0 / 5.8 | [49.148611, 26.991667](https://www.google.com/maps/search/?api=1&query=49.148611,26.991667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%94%20Baranowka%20station%2C%20Ukraine) |
 
-## Not yet fully assessed (28)
+## Not yet fully assessed (23)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -62,11 +67,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Mykolaiv Astronomical Observatory](sights/mykolaiv-observatory.yaml) | Tower / viewpoint | **—** | **History 9.2**, **Architecture 8.8** | 7.9 / 8.8 / 9.1 / — / — | [46.972, 31.971](https://www.google.com/maps/search/?api=1&query=46.972,31.971) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mykolaiv%20Astronomical%20Observatory%2C%20Ukraine) |
 | — | [Nativity of the Blessed Virgin Mary Tserkva, Nyzhniy Verbizh](sights/nyzhniy-verbizh-tserkva.yaml) | Attraction | **—** | **Architecture 9.3** | 8.5 / 8.9 / 9.0 / — / — | [48.498656, 25.011469](https://www.google.com/maps/search/?api=1&query=48.498656,25.011469) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nativity%20of%20the%20Blessed%20Virgin%20Mary%20Tserkva%2C%20Nyzhniy%20Verbizh%2C%20Ukraine) |
 | — | [Stone Tomb archaeological site](sights/stone-tomb.yaml) | Museum / heritage | **—** | **History 9.5** | — / 9.2 / 9.4 / — / — | [46.95, 35.47](https://www.google.com/maps/search/?api=1&query=46.95,35.47) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stone%20Tomb%20archaeological%20site%2C%20Ukraine) |
-| — | [Struve Geodetic Arc (Ukrainian stations)](sights/struve-arc.yaml) | Attraction | **—** | **History 9.4** | — / 8.7 / 9.3 / — / — | [49.565833, 26.756111](https://www.google.com/maps/search/?api=1&query=49.565833,26.756111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%28Ukrainian%20stations%29%2C%20Ukraine) |
-| — | [Struve Geodetic Arc — Baranowka station](sights/struve-baranowka.yaml) | Attraction | **—** | **History 9.1** | — / 8.2 / 9.0 / — / — | [49.148611, 26.991667](https://www.google.com/maps/search/?api=1&query=49.148611,26.991667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%94%20Baranowka%20station%2C%20Ukraine) |
-| — | [Struve Geodetic Arc — Felschtin station](sights/struve-felschtin.yaml) | Attraction | **—** | **History 9.1** | — / 8.2 / 9.0 / — / — | [49.33, 26.681944](https://www.google.com/maps/search/?api=1&query=49.33,26.681944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%94%20Felschtin%20station%2C%20Ukraine) |
-| — | [Struve Geodetic Arc — Katerinowka station](sights/struve-katerinowka.yaml) | Attraction | **—** | **History 9.1** | — / 8.2 / 9.0 / — / — | [49.565833, 26.756111](https://www.google.com/maps/search/?api=1&query=49.565833,26.756111) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%94%20Katerinowka%20station%2C%20Ukraine) |
-| — | [Struve Geodetic Arc — Stara Nekrasivka station](sights/struve-stara-nekrasivka.yaml) | Attraction | **—** | **History 9.2** | — / 8.5 / 9.1 / — / — | [45.332596, 28.927881](https://www.google.com/maps/search/?api=1&query=45.332596,28.927881) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Struve%20Geodetic%20Arc%20%E2%80%94%20Stara%20Nekrasivka%20station%2C%20Ukraine) |
 | — | [Sudak Fortress](sights/sudak-fortress.yaml) | Fortification | **—** | **Architecture 9.3**, **History 9.3** | 8.9 / 9.0 / 9.1 / — / — | [44.842, 34.958](https://www.google.com/maps/search/?api=1&query=44.842,34.958) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sudak%20Fortress%2C%20Ukraine) |
 | — | [Synaxis of the Archangel Michael Tserkva, Uzhok](sights/uzhok-tserkva.yaml) | Attraction | **—** | **Architecture 9.3**, **Photography 9.0** | 8.5 / 9.0 / 9.0 / — / — | [48.984011, 22.854589](https://www.google.com/maps/search/?api=1&query=48.984011,22.854589) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Synaxis%20of%20the%20Archangel%20Michael%20Tserkva%2C%20Uzhok%2C%20Ukraine) |
 | — | [Synaxis of the Blessed Virgin Mary Tserkva, Matkiv](sights/matkiv-tserkva.yaml) | Attraction | **—** | **Architecture 9.3** | 8.4 / 8.9 / 9.0 / — / — | [48.915472, 23.108889](https://www.google.com/maps/search/?api=1&query=48.915472,23.108889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Synaxis%20of%20the%20Blessed%20Virgin%20Mary%20Tserkva%2C%20Matkiv%2C%20Ukraine) |
