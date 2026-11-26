@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15062; unassessed: 1207.
+Ranked: 15072; unassessed: 1197.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 535 |
+| conflicting-declared-status | 544 |
 | evidence-review | 13662 |
-| field-9.5-plus | 2110 |
+| field-9.5-plus | 2111 |
 | historical-review-only | 2516 |
-| incomplete-core | 1207 |
+| incomplete-core | 1197 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1818 |
+| overall-90-plus | 1820 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -411,7 +411,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | RW | cities | 18 | 18 | 69.38 | 0 | 0 | 0 | 18 | [Kigali](../../countries/RW/cities/kigali.yaml) 80.25; [Karongi (Kibuye)](../../countries/RW/cities/karongi-kibuye.yaml) 77.15; [Rubavu (Gisenyi)](../../countries/RW/cities/rubavu-gisenyi.yaml) 75.55 |
 | RW | sights | 47 | 45 | 80.40 | 3 | 1 | 4 | 47 | [Volcanoes National Park](../../countries/RW/sights/volcanoes-national-park.yaml) 95.05; [Nyungwe National Park](../../countries/RW/sights/nyungwe-national-park.yaml) 94.10; [Akagera National Park](../../countries/RW/sights/akagera-national-park.yaml) 91.00 |
 | SA | cities | 18 | 18 | 75.48 | 2 | 0 | 0 | 18 | [Mecca](../../countries/SA/cities/mecca.yaml) 92.85; [Medina](../../countries/SA/cities/medina.yaml) 90.00; [Jeddah](../../countries/SA/cities/jeddah.yaml) 86.50 |
-| SA | sights | 49 | 33 | 82.80 | 1 | 0 | 0 | 49 | [Hegra Archaeological Site](../../countries/SA/sights/hegra.yaml) 91.60; [Rub al Khali (Saudi Empty Quarter)](../../countries/SA/sights/rub-al-khali.yaml) 89.40; [Historic Jeddah (Al-Balad)](../../countries/SA/sights/historic-jeddah.yaml) 89.10 |
+| SA | sights | 49 | 43 | 83.35 | 3 | 0 | 1 | 49 | [Masjid al-Haram (Grand Mosque)](../../countries/SA/sights/masjid-al-haram.yaml) 94.05; [Al-Masjid an-Nabawi (Prophet's Mosque)](../../countries/SA/sights/prophets-mosque.yaml) 92.50; [Hegra Archaeological Site](../../countries/SA/sights/hegra.yaml) 91.60 |
 | SB | cities | 9 | 9 | 66.55 | 0 | 0 | 0 | 9 | [Honiara](../../countries/SB/cities/honiara.yaml) 73.90; [Gizo](../../countries/SB/cities/gizo.yaml) 71.05; [Tulagi](../../countries/SB/cities/tulagi.yaml) 71.05 |
 | SB | sights | 16 | 15 | 85.25 | 2 | 0 | 0 | 16 | [Marovo–Tetepare Complex](../../countries/SB/sights/marovo-tetepare-complex.yaml) 91.20; [Marovo Lagoon](../../countries/SB/sights/marovo-lagoon.yaml) 90.25; [Kolombangara Central Caldera Forests](../../countries/SB/sights/kolombangara-central-caldera-forests.yaml) 88.55 |
 | SC | cities | 14 | 14 | 68.52 | 0 | 0 | 0 | 14 | [La Passe (La Digue)](../../countries/SC/cities/la-passe-la-digue.yaml) 78.65; [Victoria](../../countries/SC/cities/victoria.yaml) 77.90; [Beau Vallon](../../countries/SC/cities/beau-vallon.yaml) 72.30 |
