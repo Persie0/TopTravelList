@@ -2,7 +2,7 @@
 
 # Tunisia (TN) — Sights & attractions ranking
 
-**26 ranked** · **4 unassessed** · **30 total** · Worldwide scoring **v2**
+**27 ranked** · **3 unassessed** · **30 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (26)
+## Complete ranked list (27)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -36,12 +36,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 19 | [Punic Town of Kerkuane and Necropolis](sights/kerkuane.yaml) | Attraction | **85.80** | **History 9.4**, **Architecture 8.5** | 8.1 / 9.1 / 9.3 / 8.1 / 8.0 | [36.946, 11.099](https://www.google.com/maps/search/?api=1&query=36.946,11.099) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Punic%20Town%20of%20Kerkuane%20and%20Necropolis%2C%20Tunisia) |
 | 21 | [Matmata Troglodyte Homes](sights/matmata-troglodyte-homes.yaml) | Attraction | **85.75** | **Architecture 9.1**, **Photography 8.9**, **Culture 8.8** | 8.7 / 9.0 / 8.5 / 8.3 / 7.7 | [33.543, 9.967](https://www.google.com/maps/search/?api=1&query=33.543,9.967) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matmata%20Troglodyte%20Homes%2C%20Tunisia) |
 | 22 | [El Feija National Park](sights/el-feija-national-park.yaml) | Park / reserve | **85.45** | **Nature 9.0** | 8.5 / 8.6 / 8.9 / 8.3 / 8.2 | [36.49, 8.31](https://www.google.com/maps/search/?api=1&query=36.49,8.31) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Feija%20National%20Park%2C%20Tunisia) |
-| 23 | [Oasis of Gabès](sights/gabes-oasis.yaml) | Attraction | **83.90** | — | 8.2 / 8.7 / 8.5 / 8.3 / 8.1 | [33.88, 10.1](https://www.google.com/maps/search/?api=1&query=33.88,10.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oasis%20of%20Gab%C3%A8s%2C%20Tunisia) |
-| 24 | [Douz Sahara Dunes](sights/douz-dunes.yaml) | Desert | **83.10** | **Photography 9.0**, **Adventure 8.9**, **Nature 8.6** | 8.7 / 8.1 / 7.8 / 8.7 / 8.1 | [33.42, 9.02](https://www.google.com/maps/search/?api=1&query=33.42,9.02) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Douz%20Sahara%20Dunes%2C%20Tunisia) |
-| 25 | [Medina of Sfax](sights/medina-sfax.yaml) | Attraction | **82.75** | **Architecture 8.6**, **Culture 8.6**, **History 8.6** | 8.2 / 8.4 / 8.5 / 8.1 / 8.0 | [34.734, 10.761](https://www.google.com/maps/search/?api=1&query=34.734,10.761) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Medina%20of%20Sfax%2C%20Tunisia) |
-| 26 | [Djerba Eastern Beaches](sights/djerba-beaches.yaml) | Beach / bay | **79.85** | **Beaches 8.8**, **Relaxation 8.8** | 8.4 / 7.6 / 7.4 / 8.7 / 7.8 | [33.85, 11.03](https://www.google.com/maps/search/?api=1&query=33.85,11.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djerba%20Eastern%20Beaches%2C%20Tunisia) |
+| 23 | [Roman Limes of Southern Tunisia](sights/southern-tunisia-roman-limes.yaml) | Attraction | **85.40** | — | 8.1 / 8.8 / 9.1 / 8.4 / 8.3 | [33.15, 9.95](https://www.google.com/maps/search/?api=1&query=33.15,9.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roman%20Limes%20of%20Southern%20Tunisia%2C%20Tunisia) |
+| 24 | [Oasis of Gabès](sights/gabes-oasis.yaml) | Attraction | **83.90** | — | 8.2 / 8.7 / 8.5 / 8.3 / 8.1 | [33.88, 10.1](https://www.google.com/maps/search/?api=1&query=33.88,10.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oasis%20of%20Gab%C3%A8s%2C%20Tunisia) |
+| 25 | [Douz Sahara Dunes](sights/douz-dunes.yaml) | Desert | **83.10** | **Photography 9.0**, **Adventure 8.9**, **Nature 8.6** | 8.7 / 8.1 / 7.8 / 8.7 / 8.1 | [33.42, 9.02](https://www.google.com/maps/search/?api=1&query=33.42,9.02) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Douz%20Sahara%20Dunes%2C%20Tunisia) |
+| 26 | [Medina of Sfax](sights/medina-sfax.yaml) | Attraction | **82.75** | **Architecture 8.6**, **Culture 8.6**, **History 8.6** | 8.2 / 8.4 / 8.5 / 8.1 / 8.0 | [34.734, 10.761](https://www.google.com/maps/search/?api=1&query=34.734,10.761) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Medina%20of%20Sfax%2C%20Tunisia) |
+| 27 | [Djerba Eastern Beaches](sights/djerba-beaches.yaml) | Beach / bay | **79.85** | **Beaches 8.8**, **Relaxation 8.8** | 8.4 / 7.6 / 7.4 / 8.7 / 7.8 | [33.85, 11.03](https://www.google.com/maps/search/?api=1&query=33.85,11.03) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Djerba%20Eastern%20Beaches%2C%20Tunisia) |
 
-## Not yet fully assessed (4)
+## Not yet fully assessed (3)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -50,7 +51,6 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Cretaceous–Tertiary Boundary Stratotype](sights/cretaceous-tertiary-boundary.yaml) | Attraction | **—** | — | — / — / — / — / — | [36.17, 8.71](https://www.google.com/maps/search/?api=1&query=36.17,8.71) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cretaceous%E2%80%93Tertiary%20Boundary%20Stratotype%2C%20Tunisia) |
 | — | [El Mekta Capsian Archaeological Site](sights/el-mekta.yaml) | Museum / heritage | **—** | — | — / — / — / — / — | [34.45, 8.77](https://www.google.com/maps/search/?api=1&query=34.45,8.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=El%20Mekta%20Capsian%20Archaeological%20Site%2C%20Tunisia) |
 | — | [Jebel Tebaga Marine Permian Site](sights/jebel-tebaga.yaml) | Attraction | **—** | — | — / — / — / — / — | [33.68, 9.99](https://www.google.com/maps/search/?api=1&query=33.68,9.99) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jebel%20Tebaga%20Marine%20Permian%20Site%2C%20Tunisia) |
-| — | [Roman Limes of Southern Tunisia](sights/southern-tunisia-roman-limes.yaml) | Attraction | **—** | — | — / — / — / — / — | [33.15, 9.95](https://www.google.com/maps/search/?api=1&query=33.15,9.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Roman%20Limes%20of%20Southern%20Tunisia%2C%20Tunisia) |
 
 ---
 
