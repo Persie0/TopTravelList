@@ -1,0 +1,17 @@
+id: sight-au-wilsons-promontory-national-park
+name: "Wilsons Promontory National Park"
+location:
+  country_code: AU
+  latitude: -38.9166
+  longitude: 146.3333
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.1
+    photography: 9.0
+    adventure: 8.9
+    beaches: 8.8

@@ -1770,3 +1770,143 @@ This supplement preserves the prior individual decisions; no YAML ratings change
 ### Heritage inventory recheck (2026-11-26)
 
 UNESCO country inventory https://whc.unesco.org/en/statesparties/au/ confirms 21 inscribed and eight tentative properties; existing property-level coverage retained. Serial components and ordinary visitor access remain incompletely verified.
+
+
+### sight-au-karijini-national-park — Karijini National Park — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/karijini-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Layered Pilbara gorges and walking routes including Kalamina Gorge; follow site-specific safety restrictions. [Visitor information](https://exploreparks.dbca.wa.gov.au/park/karijini-national-park); official page/search excerpts inspected 2026-11-26.
+- Location check: -22.2506, 117.9756; [published reference](https://mapcarta.com/Karijini_National_Park); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/zion-national-park](../../../countries/US/sights/zion-national-park.yaml) | Greater monumental canyon relief |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | More lush canyon panorama |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | Greater desert landscape scale |
+| [AU/purnululu-national-park](../../../countries/AU/sights/purnululu-national-park.yaml) | More globally distinctive banded domes |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Striking layered gorges |
+| uniqueness | 8.9 | Distinctive red rock and pools |
+| significance | 8.7 | Geological landscape |
+| experience | 8.9 | Rewarding varied gorge walks |
+| depth | 9.0 | Multiple gorge systems |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.2.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-freycinet-national-park — Freycinet National Park — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/freycinet-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Granite headlands, white beaches, Wineglass Bay and peninsula hiking circuit; bay included, not separate in this pass. [Visitor information](https://parks.tas.gov.au/explore-our-parks/freycinet-national-park); official page/search excerpts inspected 2026-11-26.
+- Location check: -42.08, 148.28; [published reference](https://mapcarta.com/Freycinet_National_Park); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | More extensive accessible coastal track |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | More iconic rock stacks and road experience |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | Different Atlantic forest and coast |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | More concentrated rocky shore experience |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Exceptional curved bay and granite scenery |
+| uniqueness | 8.7 | Comparable coastal landscapes exist |
+| significance | 8.4 | Protected coastal ecology |
+| experience | 9.0 | Varied walks and beach visits |
+| depth | 8.8 | Peninsula circuit and multiple coves |
+
+- Applicable categories: nature:9.2, photography:9.3, adventure:8.9, beaches:9.1.
+- Computed worldwide overall: 87.85/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-wilsons-promontory-national-park — Wilsons Promontory National Park — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/wilsons-promontory-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Coastal hiking, Tidal River and Squeaky Beach; rate named park rather than entire region. [Visitor information](https://www.parks.vic.gov.au/places-to-see/parks/wilsons-promontory-national-park); official page/search excerpts inspected 2026-11-26.
+- Location check: -38.9166, 146.3333; [published reference](https://mapcarta.com/Wilsons_Promontory_National_Park); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | More continuous coastal track |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | Different Atlantic forest scenery |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | Rainforest and surf focus; new record in same batch |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | More iconic roadside coastline |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Granite coast and beach views |
+| uniqueness | 8.5 | Worldwide peninsula analogues |
+| significance | 8.5 | Protected coastal landscapes |
+| experience | 8.9 | Varied walking and beach recreation |
+| depth | 8.9 | Several trails and coastal areas |
+
+- Applicable categories: nature:9.1, photography:9.0, adventure:8.9, beaches:8.8.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-au-flinders-chase-national-park — Flinders Chase National Park — 2026-11-26
+
+- YAML: [source](../../../countries/AU/sights/flinders-chase-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Kangaroo Island's western park, Remarkable Rocks, coastal viewpoints and walks; exclude separate Ravine des Casoars wilderness area. [Visitor information](https://www.parks.sa.gov.au/parks/flinders-chase-national-park); official page/search excerpts inspected 2026-11-26.
+- Location check: -35.92897, 136.72208; [published reference](https://mapcarta.com/28653110/Map); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/twelve-apostles](../../../countries/AU/sights/twelve-apostles.yaml) | More concentrated sea-stack panorama |
+| [AU/kgari](../../../countries/AU/sights/kgari.yaml) | Greater island landscape breadth |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | Distinct geological rock formations |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | Broader marine and island exploration |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Distinctive coastal rocks |
+| uniqueness | 8.8 | Unusual rock and wildlife combination |
+| significance | 8.6 | Protected island ecology |
+| experience | 8.8 | Walking and viewpoints |
+| depth | 8.7 | Several coastal features |
+
+- Applicable categories: nature:9.1, photography:9.2, wildlife:8.9, adventure:8.6.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.

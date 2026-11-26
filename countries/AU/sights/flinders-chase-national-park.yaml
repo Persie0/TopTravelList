@@ -1,0 +1,17 @@
+id: sight-au-flinders-chase-national-park
+name: "Flinders Chase National Park"
+location:
+  country_code: AU
+  latitude: -35.92897
+  longitude: 136.72208
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.1
+    photography: 9.2
+    wildlife: 8.9
+    adventure: 8.6

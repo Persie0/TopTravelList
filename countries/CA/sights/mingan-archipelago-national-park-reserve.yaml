@@ -1,0 +1,16 @@
+id: sight-ca-mingan-archipelago-national-park-reserve
+name: "Mingan Archipelago National Park Reserve"
+location:
+  country_code: CA
+  latitude: 50.2246
+  longitude: -63.5523
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.0
+    photography: 9.0
+    wildlife: 8.7

@@ -1,0 +1,17 @@
+id: sight-ca-torngat-mountains-national-park
+name: "Torngat Mountains National Park"
+location:
+  country_code: CA
+  latitude: 59.4358
+  longitude: -63.6964
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.2
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    wildlife: 9.0
+    photography: 9.2

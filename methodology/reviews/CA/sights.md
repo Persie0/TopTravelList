@@ -1913,3 +1913,213 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial rating; earlier decision: none.
 - Verification still needed: independent corroboration and current visitor access checks.
+
+
+### sight-ca-auyuittuq-national-park — Auyuittuq National Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/auyuittuq-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Glaciers, fjords and steep peaks surrounding Akshayuk Pass; hiking and skiing require wilderness preparation. [Visitor information](https://parks.canada.ca/pn-np/nu/auyuittuq); official page/search excerpts inspected 2026-11-26.
+- Location check: 67.3683, -66.0107; [published reference](https://parks.canada.ca/pn-np); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | More accessible alpine trails |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | Greater flagship mountain and wildlife scale |
+| [CA/sirmilik-national-park](../../../countries/CA/sights/sirmilik-national-park.yaml) | Different Arctic marine and ice landscapes |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | Comparable alpine wilderness but non-Arctic |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Dramatic glaciated peaks |
+| uniqueness | 9.0 | Distinctive Arctic alpine setting |
+| significance | 8.8 | Protected Arctic geology and ecosystems |
+| experience | 8.2 | Remote expedition access |
+| depth | 8.9 | Extensive mountain routes |
+
+- Applicable categories: nature:9.3, adventure:9.3, photography:9.2.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-ca-mingan-archipelago-national-park-reserve — Mingan Archipelago National Park Reserve — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/mingan-archipelago-national-park-reserve.yaml)
+- Action: new
+- Precise subject and factual basis: Boat-accessed islands, limestone monoliths and seabirds, with shoreline walks; https://parks.canada.ca/pn-np/qc/mingan/activ.aspx. [Visitor information](https://parks.canada.ca/pn-np/qc/mingan); official page/search excerpts inspected 2026-11-26.
+- Location check: 50.2246, -63.5523; [published reference](https://parks.canada.ca/pn-np); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/twelve-apostles](../../../countries/AU/sights/twelve-apostles.yaml) | More concentrated iconic sea stacks |
+| [NZ/pancake-rocks](../../../countries/NZ/sights/pancake-rocks.yaml) | More focused rock formations and blowholes |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | More exceptional tidal landscape |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | Broader island and marine recreation |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Sculptural coastal rocks |
+| uniqueness | 8.9 | Distinctive limestone island formations |
+| significance | 8.6 | Coastal geology and marine habitat |
+| experience | 8.5 | Boat trips and walking |
+| depth | 8.6 | Multiple islands and trails |
+
+- Applicable categories: nature:9.0, photography:9.0, wildlife:8.7.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-ca-pacific-rim-national-park-reserve — Pacific Rim National Park Reserve — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml)
+- Action: new
+- Precise subject and factual basis: Temperate rainforest, sandy ocean beaches and coastal adventures; representative National Information Centre point, not a park centroid. Score entire reserve, not Tofino. [Visitor information](https://parks.canada.ca/pn-np/bc/pacificrim?pmo=BC); official page/search excerpts inspected 2026-11-26.
+- Location check: 49.0606, -125.72274; [published reference](https://parks.canada.ca/pn-np/bc/pacificrim/info/contact); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | Greater ecosystem and mountain breadth |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | More sheltered golden beaches |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | More iconic roadside rock formations |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More continuous coastal walking |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.9 | Memorable forest-ocean contrast |
+| uniqueness | 8.6 | Comparable temperate coasts exist |
+| significance | 8.8 | Protected rainforest and coastal heritage |
+| experience | 9.0 | Varied coastal recreation |
+| depth | 9.1 | Several separate park units |
+
+- Applicable categories: nature:9.2, adventure:9.1, photography:9.0.
+- Computed worldwide overall: 88.40/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-ca-thousand-islands-national-park — Thousand Islands National Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/thousand-islands-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Granite river islands, paddling, boating and mainland trails; scope limited to national park. Visitor centre coordinate. [Visitor information](https://parks.canada.ca/pn-np); official page/search excerpts inspected 2026-11-26.
+- Location check: 44.4523, -75.860317; [published reference](https://parks.canada.ca/pn-np/on/1000/visit/directions); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | More dramatic ocean island ecology |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | More distinctive tides |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | Stronger cliff and clear-water impact |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | More dramatic coastline and coastal walks |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.0 | Attractive island river scenery |
+| uniqueness | 8.2 | Distinctive archipelago but global analogues |
+| significance | 8.1 | Protected ecological transition zone |
+| experience | 8.7 | Paddling and hiking |
+| depth | 8.4 | Several dispersed islands and trails |
+
+- Applicable categories: nature:8.5, adventure:8.5, photography:8.4.
+- Computed worldwide overall: 82.15/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-ca-torngat-mountains-national-park — Torngat Mountains National Park — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/torngat-mountains-national-park.yaml)
+- Action: new
+- Precise subject and factual basis: Glacial valleys, mountains, Inuit cultural landscape and Arctic wildlife; specialized wilderness hiking with access and safety constraints. [Visitor information](https://www.parks.canada.ca/pn-np/nl/torngats/activ); official page/search excerpts inspected 2026-11-26.
+- Location check: 59.4358, -63.6964; [published reference](https://parks.canada.ca/pn-np); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [CA/nahanni-national-park](../../../countries/CA/sights/nahanni-national-park.yaml) | More river-focused wilderness |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | Greater flagship peak and wildlife infrastructure |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | More accessible fjord exploration |
+| [CA/kluane-national-park](../../../countries/CA/sights/kluane-national-park.yaml) | More extensive high alpine icefields |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Exceptional fjord and mountain vistas |
+| uniqueness | 9.0 | Rare Arctic cultural and natural combination |
+| significance | 9.0 | Inuit heritage and Arctic ecosystems |
+| experience | 8.2 | Specialized remote visits |
+| depth | 9.0 | Extensive wilderness exploration |
+
+- Applicable categories: nature:9.3, adventure:9.3, wildlife:9.0, photography:9.2.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
+
+
+### sight-ca-sable-island-national-park-reserve — Sable Island National Park Reserve — 2026-11-26
+
+- YAML: [source](../../../countries/CA/sights/sable-island-national-park-reserve.yaml)
+- Action: new
+- Precise subject and factual basis: Remote Atlantic sand island with free-ranging horses, grey seals and distinctive habitats; visits require arrangements and wildlife protection. [Visitor information](https://www.parks.canada.ca/pn-np/ns/sable); official page/search excerpts inspected 2026-11-26.
+- Location check: 43.92788, -59.91591; [published reference](https://parks.canada.ca/pn-np); representative map point, not necessarily an entrance.
+- Evidence status: **source-linked-unverified**; source excerpts and published coordinates inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/kgari](../../../countries/AU/sights/kgari.yaml) | Greater forest and lake landscape breadth |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | Different marine and fort experience |
+| [CA/gwaii-haanas](../../../countries/CA/sights/gwaii-haanas.yaml) | Greater cultural and forest exploration |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | More extraordinary specialized bear viewing |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.5 | Memorable dunes and horses |
+| uniqueness | 9.1 | Unusual isolated sand island ecology |
+| significance | 8.8 | Important wildlife and habitat |
+| experience | 8.1 | Limited remote visit scope |
+| depth | 8.3 | Coast, dunes and wildlife but restricted routes |
+
+- Applicable categories: nature:8.9, wildlife:9.1, photography:8.9.
+- Computed worldwide overall: 86.30/100.
+- High-score challenge: Below 90 overall. No new 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent factual corroboration and current access.
