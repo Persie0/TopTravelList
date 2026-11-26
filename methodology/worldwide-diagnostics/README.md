@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14691; unassessed: 1578.
+Ranked: 14697; unassessed: 1572.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 334 |
+| conflicting-declared-status | 340 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1578 |
+| incomplete-core | 1572 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1782 |
+| overall-90-plus | 1788 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 46 |
 | shared-representative-gps | 242 |
@@ -161,7 +161,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | ER | cities | 13 | 10 | 69.42 | 1 | 0 | 1 | 13 | [Asmara](../../countries/ER/cities/asmara.yaml) 90.55; [Massawa](../../countries/ER/cities/massawa.yaml) 84.20; [Keren](../../countries/ER/cities/keren.yaml) 78.25 |
 | ER | sights | 30 | 25 | 80.35 | 1 | 0 | 2 | 30 | [Asmara Modernist Historic Urban Ensemble](../../countries/ER/sights/asmara-modernist-historic-urban-ensemble.yaml) 92.75; [Qoahito Cultural Landscape](../../countries/ER/sights/qoahito-cultural-landscape.yaml) 88.20; [Dahlak Archipelago (authorized visitor waters)](../../countries/ER/sights/dahlak-archipelago-authorized-visitor-waters.yaml) 87.30 |
 | ES | cities | 22 | 22 | 88.58 | 7 | 1 | 8 | 22 | [Barcelona](../../countries/ES/cities/barcelona.yaml) 95.20; [Madrid](../../countries/ES/cities/madrid.yaml) 92.85; [Seville](../../countries/ES/cities/seville.yaml) 92.70 |
-| ES | sights | 113 | 95 | 89.70 | 40 | 4 | 49 | 113 | [Alhambra and Generalife palaces and gardens](../../countries/ES/sights/alhambra.yaml) 96.15; [Alhambra Generalife and Albayzín](../../countries/ES/sights/alhambra-ensemble.yaml) 95.40; [Mosque-Cathedral of Córdoba](../../countries/ES/sights/mezquita.yaml) 95.00 |
+| ES | sights | 113 | 97 | 89.80 | 42 | 4 | 49 | 113 | [Alhambra and Generalife palaces and gardens](../../countries/ES/sights/alhambra.yaml) 96.15; [Alhambra Generalife and Albayzín](../../countries/ES/sights/alhambra-ensemble.yaml) 95.40; [Mosque-Cathedral of Córdoba](../../countries/ES/sights/mezquita.yaml) 95.00 |
 | ET | cities | 8 | 8 | 80.28 | 0 | 0 | 0 | 8 | [Harar](../../countries/ET/cities/harar.yaml) 88.30; [Addis Ababa](../../countries/ET/cities/addis-ababa.yaml) 85.30; [Gondar](../../countries/ET/cities/gondar.yaml) 82.20 |
 | ET | sights | 23 | 17 | 89.90 | 8 | 2 | 9 | 23 | [Rock-Hewn Churches, Lalibela](../../countries/ET/sights/rock-hewn-churches-lalibela.yaml) 97.40; [Simien National Park](../../countries/ET/sights/simien-national-park.yaml) 95.10; [Bale Mountains National Park](../../countries/ET/sights/bale-mountains-national-park.yaml) 93.85 |
 | FI | cities | 19 | 19 | 79.95 | 0 | 0 | 0 | 19 | [Helsinki](../../countries/FI/cities/helsinki.yaml) 88.45; [Porvoo](../../countries/FI/cities/porvoo.yaml) 84.30; [Tampere](../../countries/FI/cities/tampere.yaml) 84.05 |
@@ -175,7 +175,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | FO | cities | 4 | 4 | 78.02 | 0 | 0 | 0 | 4 | [Tórshavn](../../countries/FO/cities/torshavn.yaml) 82.85; [Kirkjubøur](../../countries/FO/cities/kirkjubour.yaml) 80.20; [Gjógv](../../countries/FO/cities/gjogv.yaml) 75.85 |
 | FO | sights | 7 | 7 | 82.05 | 0 | 0 | 0 | 7 | [Mykines Island](../../countries/FO/sights/mykines.yaml) 88.45; [Trælanípa and Sørvágsvatn viewpoint](../../countries/FO/sights/traelanipa-sorvagsvatn.yaml) 86.10; [Kallur Lighthouse and ridge](../../countries/FO/sights/kallur-lighthouse.yaml) 84.10 |
 | FR | cities | 25 | 25 | 87.70 | 3 | 1 | 4 | 25 | [Paris](../../countries/FR/cities/paris.yaml) 97.30; [Lyon](../../countries/FR/cities/lyon.yaml) 90.85; [Strasbourg](../../countries/FR/cities/strasbourg.yaml) 90.60 |
-| FR | sights | 98 | 81 | 90.55 | 50 | 3 | 53 | 98 | [Louvre Museum](../../countries/FR/sights/louvre.yaml) 96.30; [Palace and Park of Versailles](../../countries/FR/sights/versailles.yaml) 96.30; [Paris Banks of the Seine](../../countries/FR/sights/seine-banks.yaml) 95.50 |
+| FR | sights | 98 | 85 | 90.55 | 54 | 3 | 53 | 98 | [Louvre Museum](../../countries/FR/sights/louvre.yaml) 96.30; [Palace and Park of Versailles](../../countries/FR/sights/versailles.yaml) 96.30; [Paris Banks of the Seine](../../countries/FR/sights/seine-banks.yaml) 95.50 |
 | GA | cities | 14 | 14 | 68.28 | 0 | 0 | 0 | 14 | [Lambaréné](../../countries/GA/cities/lambarene.yaml) 79.10; [Libreville](../../countries/GA/cities/libreville.yaml) 77.20; [Mayumba](../../countries/GA/cities/mayumba.yaml) 72.10 |
 | GA | sights | 32 | 22 | 83.42 | 3 | 0 | 5 | 32 | [Loango National Park](../../countries/GA/sights/loango-national-park.yaml) 94.75; [Ivindo National Park](../../countries/GA/sights/ivindo-national-park.yaml) 93.40; [Lopé National Park and Okanda visitor sector](../../countries/GA/sights/lope-national-park-and-okanda-visitor-sector.yaml) 90.95 |
 | GB | cities | 30 | 30 | 85.12 | 5 | 1 | 3 | 30 | [London](../../countries/GB/cities/london.yaml) 96.65; [Edinburgh](../../countries/GB/cities/edinburgh.yaml) 92.90; [Bath](../../countries/GB/cities/bath.yaml) 91.05 |
