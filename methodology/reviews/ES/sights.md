@@ -3999,3 +3999,39 @@
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access checks.
+
+## sight-es-reina-sofia-museum — Reina Sofía Museum — 2026-11-26
+
+- YAML: [source](../../../countries/ES/sights/reina-sofia-museum.yaml)
+- Action: new
+- Precise subject: Main Madrid museum of modern and contemporary art; excludes Prado and separately visited external venues.
+- Location check: 40.40805, -3.6946; [published representative point](https://mapcarta.com/25251192), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Madrid tourism authority identifies works by Picasso, Dalí, Miró and Juan Gris, including Guernica; museum research website documents the painting's role in the institution (https://guernica.museoreinasofia.es/en/ubicacion/museo-nacional-centro-de-arte-reina-sofia-5815). [Primary visitor reference](https://www.esmadrid.com/en/tourist-information/reina-sofia-museum), accessed 2026-11-26. Sources support visitor scope, not numerical ratings.
+- Missing or uncertain facts: full independent corroboration and current availability of individual attractions or galleries.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has greater worldwide chronological and collection breadth. |
+| [ES/prado](../../../countries/ES/sights/prado.yaml) | Prado has stronger old-master holdings and longer chronological coverage. |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | M+ offers a broader contemporary visual-culture perspective; Reina Sofía has stronger historical Spanish modernist anchors. |
+| [KR/leeum-museum-of-art](../../../countries/KR/sights/leeum-museum-of-art.yaml) | Leeum combines traditional and contemporary collections; Reina Sofía has more globally consequential twentieth-century Spanish art. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Encountering major modern Spanish artworks creates exceptional artistic impact. |
+| Uniqueness | 9.2 | Guernica and the Spanish modernist collection are distinctive internationally. |
+| Significance | 9.4 | The works and their political and artistic context are internationally consequential. |
+| Experience | 9.0 | Focused galleries provide a meaningful modern-art visit. |
+| Depth | 9.1 | Collection breadth supports extended exploration, but less encyclopedic scope than the Louvre. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:8.5.
+- Computed worldwide overall: 92.00/100.
+- High-score challenge: Above 90 because of the documented collection's international significance and visitor breadth; remains below world-leading broad collections in the comparison table. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

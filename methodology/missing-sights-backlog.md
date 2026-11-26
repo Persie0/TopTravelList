@@ -224,3 +224,15 @@ All five outstanding Madagascar candidates added; separate island and viewpoint 
 - [x] KR — Leeum Museum of Art: 88.40/100 (source-linked-unverified).
 
 Six additions; 24 individual cross-country peer comparisons. Separate park, palace, archaeological museum, tower and art museum scopes. India National Museum Delhi matched existing national-museum-new-delhi.yaml; no duplicate. Remaining candidates include UAE theme parks, Indonesia Waterbom and further cultural institutions. Connector-side ranking updates; full Python validation and diagnostics remain pending. No existing ratings modified.
+
+
+### Pass 24 — UAE and Indonesia leisure; European flagship museums
+
+- [x] AE — Ferrari World Abu Dhabi: 84.70/100 (source-linked-unverified).
+- [x] AE — Warner Bros. World Abu Dhabi: 83.55/100 (source-linked-unverified).
+- [x] AE — SeaWorld Abu Dhabi: 86.45/100 (source-linked-unverified).
+- [x] ID — Waterbom Bali: 79.05/100 (source-linked-unverified).
+- [x] IT — Museo Egizio (Egyptian Museum, Turin): 92.40/100 (source-linked-unverified).
+- [x] ES — Reina Sofía Museum: 92.00/100 (source-linked-unverified).
+
+Six additions; 24 peer comparisons; published representative locations and primary visitor evidence checked. Existing UAE waterparks are retained as separate peers. Turin and Madrid museum scopes are independent of existing city and heritage records. Full Python validation and diagnostics remain pending. No existing ratings changed. Next: more European museums and cultural landmarks, including Neues Museum, Jewish Museum Berlin, Topography of Terror, Albertina, and Thyssen-Bornemisza.

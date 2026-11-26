@@ -4736,3 +4736,39 @@
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access checks.
+
+## sight-it-museo-egizio — Museo Egizio (Egyptian Museum, Turin) — 2026-11-26
+
+- YAML: [source](../../../countries/IT/sights/museo-egizio.yaml)
+- Action: new
+- Precise subject: Turin museum's Egyptian archaeological collection and galleries, excluding other collections in Turin.
+- Location check: 45.06844, 7.68435; [published representative point](https://mapcarta.com/25741450), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Museum's visitor map documents four exhibition floors; its collection catalogue states approximately 40,000 objects (https://collezioni.museoegizio.it/en-GB). [Primary visitor reference](https://www.museoegizio.it/en/explore/map/), accessed 2026-11-26. Sources support visitor scope, not numerical ratings.
+- Missing or uncertain facts: full independent corroboration and current availability of individual attractions or galleries.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [EG/grand-egyptian-museum](../../../countries/EG/sights/grand-egyptian-museum.yaml) | Giza holds more globally exceptional Egyptian heritage and monumental objects. |
+| [EG/egyptian-museum-cairo](../../../countries/EG/sights/egyptian-museum-cairo.yaml) | Cairo has exceptional direct Egyptian heritage holdings; Turin offers unusually extensive specialist interpretation abroad. |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has broader encyclopedic collections; Turin's strength is concentrated Egyptology. |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | Istanbul spans more cultures; Turin is stronger in its specialist Egyptian focus. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Extensive original Egyptian objects create powerful material encounters. |
+| Uniqueness | 9.3 | Specialized Egyptian collection is unusually deep outside Egypt. |
+| Significance | 9.4 | Research and archaeological collection give major international historical importance. |
+| Experience | 9.1 | Multiple curated floors reward sustained engagement. |
+| Depth | 9.4 | Four floors and specialized holdings provide substantial depth. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.4.
+- Computed worldwide overall: 92.40/100.
+- High-score challenge: Above 90 because of the documented collection's international significance and visitor breadth; remains below world-leading broad collections in the comparison table. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

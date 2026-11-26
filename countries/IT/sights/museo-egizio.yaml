@@ -1,0 +1,16 @@
+id: sight-it-museo-egizio
+name: "Museo Egizio (Egyptian Museum, Turin)"
+location:
+  country_code: IT
+  latitude: 45.06844
+  longitude: 7.68435
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.4
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 8.4

@@ -1158,3 +1158,111 @@
 - Screened all 14 settlements and 57 sights; prior Al Ain serial-property correction and Burj Khalifa/Louvre retention remain. Ed-Dur remains unranked because current public access is not established; [UAE Travel Guide](https://uaetravelguide.ae/umm-al-quwain-travel-guide/ed-dur/) explicitly cautions that official heritage records do not establish a visitor route. Remaining uncertain visitor-scope profiles require named evidence before scoring. Targeted editorial review only, not complete independent factual or GPS verification.
 
 - [Dated worldwide reassessment pass 63 — 2026-11-26](worldwide-deferred-pass63-2026-11-26.md)
+
+## sight-ae-ferrari-world-abu-dhabi — Ferrari World Abu Dhabi — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml)
+- Action: new
+- Precise subject: Ticketed Ferrari-themed amusement park; not Yas Island or the adjacent racing circuit.
+- Location check: 24.48397, 54.60731; [published representative point](https://mapcarta.com/35900958), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: The operator lists five zones and more than 44 rides and experiences; its racing zone includes a launched coaster and a motion simulator (https://www.ferrariworldabudhabi.com/en/zones/f1-zone). [Primary visitor reference](https://www.ferrariworldabudhabi.com/en/zones), accessed 2026-11-26. Sources support visitor scope, not numerical ratings.
+- Missing or uncertain facts: full independent corroboration and current availability of individual attractions or galleries.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | Original Disney park has greater cultural history and thematic variety. |
+| [HK/hong-kong-disneyland](../../../countries/HK/sights/hong-kong-disneyland.yaml) | Hong Kong offers broader storytelling and family theming. |
+| [KR/everland-theme-park](../../../countries/KR/sights/everland-theme-park.yaml) | Everland has more outdoor variety; Ferrari offers specialized racing thrills. |
+| [AE/yas-waterworld](../../../countries/AE/sights/yas-waterworld.yaml) | Ferrari's automotive theming adds distinctiveness beyond a slide-based visit. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large indoor setting and racing attractions deliver memorable spectacle. |
+| Uniqueness | 8.9 | Concentrated automotive theme and launch-coaster engineering distinguish it from generic theme parks. |
+| Significance | 6.8 | Modern leisure and motorsport interpretation, not a major historic motorsport site. |
+| Experience | 9.1 | Coasters, simulators and family activities offer contrasting experiences. |
+| Depth | 8.8 | Multiple zones support an extended visit, though the theme is narrower than Disneyland. |
+
+- Applicable categories: family:8.9, adventure:9.3, photography:8.3.
+- Computed worldwide overall: 84.70/100.
+- High-score challenge: Below 90 overall. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-ae-warner-bros-world-abu-dhabi — Warner Bros. World Abu Dhabi — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/warner-bros-world-abu-dhabi.yaml)
+- Action: new
+- Precise subject: Indoor character-themed amusement park; excludes separately booked hotel and neighboring parks.
+- Location check: 24.49201, 54.60008; [published representative point](https://mapcarta.com/35900960), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Operator park map and ride list (https://www.wbworldabudhabi.com/en/rides) identify themed cartoon and superhero rides. [Primary visitor reference](https://www.wbworldabudhabi.com/en/explore-the-lands), accessed 2026-11-26. Sources support visitor scope, not numerical ratings.
+- Missing or uncertain facts: full independent corroboration and current availability of individual attractions or galleries.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | Anaheim has stronger original theme-park historical significance. |
+| [CN/shanghai-disneyland](../../../countries/CN/sights/shanghai-disneyland.yaml) | Shanghai has more extensive outdoor and large-scale attraction variety. |
+| [HK/hong-kong-disneyland](../../../countries/HK/sights/hong-kong-disneyland.yaml) | Both provide immersive franchise environments; indoor layout is Warner's distinguishing feature. |
+| [KR/lotte-world-adventure](../../../countries/KR/sights/lotte-world-adventure.yaml) | Both offer indoor recreation; Warner has more cohesive franchise storytelling. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Immersive indoor sets and attractions create strong visual variety. |
+| Uniqueness | 8.5 | Specific animation and comic-book settings add identity, but comparable franchise parks exist. |
+| Significance | 6.9 | Commercial entertainment culture rather than major original film heritage. |
+| Experience | 9.0 | Character-based and family rides offer an engaging indoor visit. |
+| Depth | 8.9 | Several themed areas provide a full visit without claiming nearby park experiences. |
+
+- Applicable categories: family:9.2, adventure:8.5, photography:8.6.
+- Computed worldwide overall: 83.55/100.
+- High-score challenge: Below 90 overall. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-ae-seaworld-abu-dhabi — SeaWorld Abu Dhabi — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/seaworld-abu-dhabi.yaml)
+- Action: new
+- Precise subject: Public marine-life theme park with eight themed realms, excluding adjacent research and rescue facility.
+- Location check: 24.4856, 54.61928; [published representative point](https://mapcarta.com/W1022397246), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Operator identifies eight marine-themed realms; Abu Dhabi tourism authority describes the same zones (https://visitabudhabi.ae/en/things-to-do/adventure/theme-parks/seaworld-abu-dhabi). [Primary visitor reference](https://www.seaworldabudhabi.com/en/realms), accessed 2026-11-26. Sources support visitor scope, not numerical ratings.
+- Missing or uncertain facts: full independent corroboration and current availability of individual attractions or galleries.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | Lisbon has a more concentrated oceanographic exhibition experience. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | Hong Kong combines open-air animal encounters and coastal scenery; SeaWorld has a more marine-focused indoor layout. |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | Disney offers greater entertainment-history significance, but less marine interpretation. |
+| [AE/yas-waterworld](../../../countries/AE/sights/yas-waterworld.yaml) | Marine exhibit variety provides more educational content than a slide-focused park. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large and varied marine exhibits create substantial visual impact. |
+| Uniqueness | 8.8 | Multiple indoor habitat-themed environments give a distinctive aquarium-scale visit. |
+| Significance | 7.7 | Marine interpretation has educational importance; no conservation outcomes attributed to the park without evidence. |
+| Experience | 8.9 | Exhibits and interactive attractions provide varied experiences; animal welfare not evaluated here. |
+| Depth | 9.0 | Eight realms permit extended exploration without crediting the separate research center. |
+
+- Applicable categories: family:9.2, wildlife:8.8, nature:8.5, photography:8.7.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
