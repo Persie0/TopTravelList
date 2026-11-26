@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14947; unassessed: 1322.
+Ranked: 14949; unassessed: 1320.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1322 |
+| incomplete-core | 1320 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1803 |
 | overall-95-plus | 159 |
@@ -323,7 +323,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MO | cities | 1 | 1 | 89.05 | 0 | 0 | 0 | 1 | [Macau](../../countries/MO/cities/macau.yaml) 89.05 |
 | MO | sights | 12 | 12 | 85.12 | 1 | 0 | 1 | 12 | [Historic Centre of Macau](../../countries/MO/sights/historic-centre-macau.yaml) 92.65; [A-Ma Temple Macau](../../countries/MO/sights/a-ma-temple.yaml) 89.95; [Senado Square Macau](../../countries/MO/sights/senado-square.yaml) 89.90 |
 | MP | cities | 4 | 4 | 77.48 | 0 | 0 | 0 | 4 | [Garapan (Saipan)](../../countries/MP/cities/garapan.yaml) 79.45; [Songsong (Rota)](../../countries/MP/cities/songsong.yaml) 78.25; [San Jose (Tinian)](../../countries/MP/cities/san-jose-tinian.yaml) 76.70 |
-| MP | sights | 15 | 12 | 83.78 | 0 | 0 | 1 | 15 | [Marpi WWII memorial landscape](../../countries/MP/sights/marpi-memorials.yaml) 87.45; [Saipan Grotto (authorized cavern diving and viewpoint)](../../countries/MP/sights/grotto.yaml) 85.85; [Mañagaha Island beach and marine conservation area](../../countries/MP/sights/managaha.yaml) 85.80 |
+| MP | sights | 15 | 13 | 84.05 | 0 | 0 | 1 | 15 | [Marpi WWII memorial landscape](../../countries/MP/sights/marpi-memorials.yaml) 87.45; [Pagan Island (volcanic heritage)](../../countries/MP/sights/pagan.yaml) 86.80; [Saipan Grotto (authorized cavern diving and viewpoint)](../../countries/MP/sights/grotto.yaml) 85.85 |
 | MQ | cities | 4 | 4 | 77.70 | 0 | 0 | 0 | 4 | [Saint-Pierre](../../countries/MQ/cities/saint-pierre.yaml) 83.95; [Fort-de-France](../../countries/MQ/cities/fort-de-france.yaml) 79.55; [Le Diamant (bourg)](../../countries/MQ/cities/le-diamant.yaml) 75.85 |
 | MQ | sights | 11 | 11 | 84.20 | 2 | 0 | 0 | 11 | [Mount Pelée (permitted summit trails)](../../countries/MQ/sights/mount-pelee.yaml) 90.15; [Mount Pelée and Pitons of Northern Martinique](../../countries/MQ/sights/martinique-volcanoes.yaml) 90.10; [Caravelle Peninsula Nature Reserve](../../countries/MQ/sights/caravelle-reserve.yaml) 86.10 |
 | MR | cities | 10 | 10 | 71.78 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Oualata](../../countries/MR/cities/oualata.yaml) 83.40; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95 |
@@ -365,7 +365,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | NR | cities | 6 | 4 | 61.20 | 0 | 0 | 0 | 6 | [Yaren](../../countries/NR/cities/yaren.yaml) 63.25; [Anibare](../../countries/NR/cities/anibare.yaml) 62.95; [Arenibek Village](../../countries/NR/cities/arenibek.yaml) 59.45 |
 | NR | sights | 6 | 6 | 66.45 | 0 | 0 | 0 | 6 | [Topside Phosphate Landscape](../../countries/NR/sights/topside-phosphate-landscape.yaml) 77.40; [Anibare Bay](../../countries/NR/sights/anibare-bay.yaml) 70.75; [Naoero Museum](../../countries/NR/sights/naoero-museum.yaml) 66.60 |
 | NU | cities | 4 | 4 | 74.78 | 0 | 0 | 0 | 4 | [Alofi](../../countries/NU/cities/alofi.yaml) 80.60; [Avatele](../../countries/NU/cities/avatele.yaml) 74.95; [Hakupu](../../countries/NU/cities/hakupu.yaml) 74.60 |
-| NU | sights | 15 | 14 | 85.28 | 0 | 0 | 0 | 15 | [Niue Dark Sky Community and Sanctuary (permitted stargazing)](../../countries/NU/sights/dark-sky-niue.yaml) 89.40; [Niue seasonal humpback whale watching (western coast)](../../countries/NU/sights/whale-watching.yaml) 88.40; [Togo Chasm and limestone pinnacles](../../countries/NU/sights/togo-chasm.yaml) 87.75 |
+| NU | sights | 15 | 15 | 85.40 | 0 | 0 | 0 | 15 | [Niue Dark Sky Community and Sanctuary (permitted stargazing)](../../countries/NU/sights/dark-sky-niue.yaml) 89.40; [Niue seasonal humpback whale watching (western coast)](../../countries/NU/sights/whale-watching.yaml) 88.40; [Togo Chasm and limestone pinnacles](../../countries/NU/sights/togo-chasm.yaml) 87.75 |
 | NZ | cities | 12 | 12 | 80.40 | 0 | 0 | 0 | 12 | [Rotorua](../../countries/NZ/cities/rotorua.yaml) 85.10; [Queenstown](../../countries/NZ/cities/queenstown.yaml) 84.40; [Wellington](../../countries/NZ/cities/wellington.yaml) 82.45 |
 | NZ | sights | 24 | 22 | 88.38 | 7 | 0 | 5 | 24 | [Te Wāhipounamu – South West New Zealand](../../countries/NZ/sights/te-wahipounamu.yaml) 94.40; [Fiordland National Park](../../countries/NZ/sights/fiordland-national-park.yaml) 93.55; [Tongariro National Park](../../countries/NZ/sights/tongariro-national-park.yaml) 92.35 |
 | OM | cities | 24 | 24 | 75.80 | 0 | 0 | 0 | 24 | [Muscat](../../countries/OM/cities/muscat.yaml) 87.15; [Misfat al Abriyeen](../../countries/OM/cities/misfat-al-abriyeen.yaml) 84.45; [Nizwa](../../countries/OM/cities/nizwa.yaml) 84.30 |
