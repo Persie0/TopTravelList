@@ -1722,3 +1722,307 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ae-fujairah-fort — Fujairah Fort — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/fujairah-fort.yaml)
+- Action: new
+- Precise subject and limitations: Hilltop historic fort and permitted visitor areas; excludes adjacent Heritage Village. Ministry of Culture describes historic defensive role and elevated setting (https://moc.gov.ae/en/archaeological_site/klaa-alfjyr/). Current room access uncertain.
+- Location check: 25.13862, 56.33716; [published representative point](https://mapcarta.com/W195209154), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://tourism.fujairah.ae/destinations/fujairah-fort); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/dhayah-fort](../../../countries/AE/sights/dhayah-fort.yaml) | 8.2 / 8.2 / 8.1 / 8.2 / 6.6 | More dramatic isolated hilltop setting. |
+| [AE/al-jahili-fort](../../../countries/AE/sights/al-jahili-fort.yaml) | 7.8 / 7.8 / 8.2 / 8.1 / 7.5 | Comparable regional fort heritage. |
+| [OM/nizwa-fort](../../../countries/OM/sights/nizwa-fort.yaml) | 8.8 / 8.6 / 8.8 / 8.9 / 8.3 | Larger fort and historical visitor experience. |
+| [OM/nakhal-fort](../../../countries/OM/sights/nakhal-fort.yaml) | 8.3 / 8.1 / 8.4 / 8.3 / 7.7 | Comparable mountain-region fort. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Hilltop fort and views. |
+| Uniqueness | 8.2 | Distinct regional defensive architecture. |
+| Significance | 8.5 | Major Fujairah historical monument. |
+| Experience | 8.0 | Compact heritage visit. |
+| Depth | 7.2 | Limited extent compared with large fortified complexes. |
+
+- Applicable categories: history:8.8, architecture:8.6, photography:8.5.
+- Computed worldwide overall: 81.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-snoopy-island-reef — Snoopy Island and Surrounding Reef — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/snoopy-island-reef.yaml)
+- Action: new
+- Precise subject and limitations: Rock islet off Al Aqah and permitted nearby snorkeling/diving, not private resort amenities. Ministry identifies it as a major tourist destination; reef snorkeling described at https://www.sahraandbeyond.ae/locations/snoopy-island/. Coordinate represents islet, not access point. No formal protected designation, wildlife sightings or safe sea conditions assumed.
+- Location check: 25.4922, 56.3642; [published representative point](https://en.wikipedia.org/wiki/Snoopy_Island), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.moet.gov.ae/en/-/snoopy-island); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [OM/daymaniyat-islands-nature-reserve](../../../countries/OM/sights/daymaniyat-islands-nature-reserve.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 8.6 | Much broader protected archipelago and marine diversity. |
+| [TH/ko-tao-island](../../../countries/TH/sights/ko-tao-island.yaml) | 8.9 / 8.9 / 8.0 / 9.3 / 9.0 | More extensive diving and island exploration. |
+| [TH/similan-islands](../../../countries/TH/sights/similan-islands.yaml) | 9.1 / 9.3 / 8.5 / 9.2 / 8.9 | Higher marine and landscape significance. |
+| [AE/saadiyat-beach](../../../countries/AE/sights/saadiyat-beach.yaml) | 8.3 / 7.7 / 6.5 / 8.8 / 7.4 | Different beach relaxation focus. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Attractive rocky coastal and underwater scenery. |
+| Uniqueness | 8.4 | Distinctive nearshore islet and reef in the UAE. |
+| Significance | 7.7 | Regional natural interest without global conservation claims. |
+| Experience | 8.6 | Snorkeling under suitable conditions. |
+| Depth | 7.8 | Compact marine visitor area. |
+
+- Applicable categories: nature:8.8, wildlife:8.7, adventure:8.9, photography:8.6.
+- Computed worldwide overall: 82.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-the-green-planet-dubai — The Green Planet Dubai — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/the-green-planet-dubai.yaml)
+- Action: new
+- Precise subject and limitations: Indoor simulated tropical rainforest biodome and public exhibits; excludes City Walk shopping. Operator visitor information: https://www.thegreenplanetdubai.com/en/information/information-and-faqs. No independent welfare or conservation outcomes assessed.
+- Location check: 25.2062, 55.26052; [published representative point](https://mapcarta.com/W495448048), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/en/articles/indoor-thrills-in-dubai); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SG/rainforest-wild-adventure](../../../countries/SG/sights/rainforest-wild-adventure.yaml) | 8.6 / 8.7 / 7.2 / 8.9 / 8.5 | Broader habitat-based wildlife experience. |
+| [AE/sharjah-desert-park](../../../countries/AE/sights/sharjah-desert-park.yaml) | 8.1 / 8.4 / 8.2 / 8.4 / 8.7 | Different regional natural history and wildlife scope. |
+| [AE/al-ain-zoo](../../../countries/AE/sights/al-ain-zoo.yaml) | 8.3 / 8.2 / 7.9 / 8.6 / 8.9 | Larger outdoor zoo complex. |
+| [SG/river-wonders](../../../countries/SG/sights/river-wonders.yaml) | 8.5 / 8.6 / 7.6 / 8.9 / 8.5 | Broader themed wildlife exhibits. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Immersive vertical rainforest setting. |
+| Uniqueness | 8.5 | Constructed tropical ecosystem in desert city. |
+| Significance | 7.3 | Contemporary educational rather than natural heritage significance. |
+| Experience | 8.5 | Close-range exhibits and family interpretation. |
+| Depth | 7.9 | Compact indoor facility. |
+
+- Applicable categories: wildlife:8.8, nature:8.5, family:8.9.
+- Computed worldwide overall: 81.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-motiongate-dubai — Motiongate Dubai — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/motiongate-dubai.yaml)
+- Action: new
+- Precise subject and limitations: Film-themed amusement park only; excludes other Dubai Parks and Resorts gates. Ride availability and age/height restrictions vary.
+- Location check: 24.9216, 55.003; [published representative point](https://mapcarta.com/W508523718), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/en/places-to-visit/motiongate-park-dubai); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/warner-bros-world-abu-dhabi](../../../countries/AE/sights/warner-bros-world-abu-dhabi.yaml) | 8.7 / 8.5 / 6.9 / 9.0 / 8.9 | Comparable film-themed indoor park. |
+| [AE/img-worlds-of-adventure](../../../countries/AE/sights/img-worlds-of-adventure.yaml) | 8.5 / 8.4 / 6.8 / 8.9 / 8.8 | Similar franchise-based amusement experience. |
+| [SG/universal-studios-singapore](../../../countries/SG/sights/universal-studios-singapore.yaml) | 8.7 / 8.4 / 6.6 / 9.0 / 8.8 | Comparable cinematic park. |
+| [HK/hong-kong-disneyland](../../../countries/HK/sights/hong-kong-disneyland.yaml) | 8.9 / 8.7 / 7.8 / 9.3 / 9.1 | Stronger historical and immersive theme park distinction. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Large themed environments. |
+| Uniqueness | 8.4 | Film-based zones with familiar international franchise concepts. |
+| Significance | 6.8 | Contemporary entertainment significance. |
+| Experience | 9.0 | Varied rides and attractions. |
+| Depth | 8.9 | Several themed areas. |
+
+- Applicable categories: family:9.1, adventure:9.0, photography:8.6.
+- Computed worldwide overall: 82.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-al-fahidi-fort-museum — Al Fahidi Fort Museum (Dubai Museum) — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/al-fahidi-fort-museum.yaml)
+- Action: new
+- Precise subject and limitations: Historic fort and newly reopened museum galleries, not wider Al Fahidi neighborhood. Official tourism confirms reopening following restoration; reporting dated 26 November 2026 describes six galleries and underground extension: https://www.thenationalnews.com/arts-culture/2026/11/26/inside-al-fahidi-fort-museum-dubais-oldest-building-reopens-with-a-new-story-to-tell/. Newly reopened exhibit experience remains provisional.
+- Location check: 25.2636, 55.297213; [published representative point](https://en.wikipedia.org/wiki/List_of_cultural_property_of_national_significance_in_the_United_Arab_Emirates), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/places-to-visit/al-fahidi-fort); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/al-shindagha-museum](../../../countries/AE/sights/al-shindagha-museum.yaml) | 7.9 / 8.2 / 8.5 / 8.4 / 8.4 | Broader creek and maritime interpretation. |
+| [AE/al-ain-museum](../../../countries/AE/sights/al-ain-museum.yaml) | 8.1 / 8.5 / 8.8 / 8.5 / 8.6 | Different archaeological heritage collection. |
+| [AE/qasr-al-hosn](../../../countries/AE/sights/qasr-al-hosn.yaml) | 7.9 / 8.0 / 8.7 / 8.2 / 7.8 | Comparable historic fortified seat. |
+| [HK/hong-kong-museum-of-history](../../../countries/HK/sights/hong-kong-museum-of-history.yaml) | 8.2 / 8.5 / 8.7 / 8.4 / 8.6 | Comparable city history institution. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Historic fort and expanded galleries. |
+| Uniqueness | 8.6 | Historic defensive fabric with new interpretive museum. |
+| Significance | 8.9 | Major Dubai history and heritage institution. |
+| Experience | 8.6 | Restored visitor spaces and exhibitions. |
+| Depth | 8.5 | Multiple galleries, more than exterior fort alone. |
+
+- Applicable categories: history:9.2, culture:9.0, architecture:8.8.
+- Computed worldwide overall: 86.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-al-rafisah-dam — Al Rafisah Dam — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/al-rafisah-dam.yaml)
+- Action: new
+- Precise subject and limitations: Reservoir visitor area, mountain views and permitted recreation, not wider Khor Fakkan city. State tourism describes dam setting and visitor opportunities. Water levels and activity access vary.
+- Location check: 25.34886, 56.31124; [published representative point](https://www.madena.ae/things-to-do/al-rafisah-dam), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitsharjah.com/en/activities/nature-and-wildlife/al-rafisah-dam/); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/hatta-dam](../../../countries/AE/sights/hatta-dam.yaml) | 8.1 / 7.6 / 5.9 / 8.3 / 7.2 | Comparable mountain reservoir recreation. |
+| [AE/jebel-jais-mountain-landscape](../../../countries/AE/sights/jebel-jais-mountain-landscape.yaml) | 8.9 / 8.5 / 7.5 / 8.9 / 8.6 | More extensive mountain landscape. |
+| [NZ/lake-taupo](../../../countries/NZ/sights/lake-taupo.yaml) | 8.9 / 8.9 / 9.0 / 9.0 / 9.0 | Much greater natural and cultural significance. |
+| [OM/masirah-island-natural-landscape](../../../countries/OM/sights/masirah-island-natural-landscape.yaml) | 8.5 / 8.6 / 8.1 / 8.3 / 8.8 | Broader natural landscape and wildlife. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Scenic mountain-framed water. |
+| Uniqueness | 7.9 | Attractive but comparable artificial lake setting. |
+| Significance | 6.7 | Regional recreation rather than exceptional natural heritage. |
+| Experience | 8.5 | Boating and walking when available. |
+| Depth | 7.9 | Several activities in modest area. |
+
+- Applicable categories: nature:8.5, photography:8.8, relaxation:8.8, adventure:8.4.
+- Computed worldwide overall: 79.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-national-aquarium-abu-dhabi — The National Aquarium Abu Dhabi — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/national-aquarium-abu-dhabi.yaml)
+- Action: new
+- Precise subject and limitations: Al Qana aquarium galleries and ecosystem interpretation; separate from SeaWorld and neighboring venues. No independent welfare or conservation performance claims; optional activities vary.
+- Location check: 24.40198, 54.49585; [published representative point](https://mapcarta.com/N9629445887), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitabudhabi.ae/en/things-to-do/nature-and-wildlife/wildlife/the-national-aquarium); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/seaworld-abu-dhabi](../../../countries/AE/sights/seaworld-abu-dhabi.yaml) | 8.9 / 8.8 / 7.7 / 8.9 / 9.0 | Broader marine theme park scope. |
+| [AE/dubai-mall-aquarium-and-underwater-zoo](../../../countries/AE/sights/dubai-mall-aquarium-and-underwater-zoo.yaml) | 8.0 / 7.6 / 6.2 / 8.4 / 7.6 | More compact aquarium experience. |
+| [SG/singapore-oceanarium](../../../countries/SG/sights/singapore-oceanarium.yaml) | 8.9 / 8.7 / 7.6 / 9.1 / 8.8 | Comparable marine visitor institution. |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | Stronger global marine interpretation significance. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Immersive large marine exhibits. |
+| Uniqueness | 8.3 | Regional marine themes within familiar aquarium format. |
+| Significance | 7.6 | Regional education significance. |
+| Experience | 8.8 | Multiple engaging ecosystem zones. |
+| Depth | 8.8 | Several exhibit environments. |
+
+- Applicable categories: wildlife:8.9, family:9.1, nature:8.6.
+- Computed worldwide overall: 83.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-legoland-dubai — LEGOLAND Dubai — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/legoland-dubai.yaml)
+- Action: new
+- Precise subject and limitations: Main brick-themed park, building activities and miniature displays; excludes separately ticketed water park and other resort gates. Dubai tourism identifies the distinct parks at https://www.visitdubai.com/en/places-to-visit/dubai-parks-and-resorts.
+- Location check: 24.91836, 55.01169; [published representative point](https://mapcarta.com/W511043551), source inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.legoland.com/dubai/plan-your-visit/); source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/img-worlds-of-adventure](../../../countries/AE/sights/img-worlds-of-adventure.yaml) | 8.5 / 8.4 / 6.8 / 8.9 / 8.8 | More thrill-focused and larger themed experience. |
+| [AE/warner-bros-world-abu-dhabi](../../../countries/AE/sights/warner-bros-world-abu-dhabi.yaml) | 8.7 / 8.5 / 6.9 / 9.0 / 8.9 | Broader film-based park. |
+| [HK/hong-kong-disneyland](../../../countries/HK/sights/hong-kong-disneyland.yaml) | 8.9 / 8.7 / 7.8 / 9.3 / 9.1 | Greater immersive breadth and cultural significance. |
+| [SG/universal-studios-singapore](../../../countries/SG/sights/universal-studios-singapore.yaml) | 8.7 / 8.4 / 6.6 / 9.0 / 8.8 | More broad-age cinematic attractions. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Colorful miniature and themed settings. |
+| Uniqueness | 8.2 | Distinct construction-play theme. |
+| Significance | 6.6 | Contemporary commercial recreation. |
+| Experience | 8.8 | Strong young-family experience. |
+| Depth | 8.5 | Multiple themed lands with age-specific appeal. |
+
+- Applicable categories: family:9.2, adventure:8.3, photography:8.3.
+- Computed worldwide overall: 80.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

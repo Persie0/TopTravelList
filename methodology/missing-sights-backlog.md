@@ -444,3 +444,16 @@ Nine additions and 36 peer comparisons matched to ranked rows. HK 36 ranked / 36
 - [x] AE — Al Ain Museum: 84.50/100 (source-linked-unverified).
 
 Nine additions and 36 peer comparisons matched to ranked rows. UAE 62 ranked / 72 total, ten existing unassessed unchanged. Al Ain Museum reopening 24 October 2025 confirmed; zoo, wildlife and mangrove scopes avoid unverified animal-welfare/conservation claims. Jubail representative point is monitoring station, not entrance. Screen of Abu Dhabi, Dubai and Sharjah tourism sources identifies remaining candidates (Fujairah Fort, Snoopy Island reef, Al Ain Palace Museum access, Green Planet, Motiongate); UAE remains open for bounded final check, not quota expansion. Full Python validation and individual peer YAML checks pending.
+
+### Pass 42 — UAE final priority batch
+
+- [x] AE — Fujairah Fort: 81.00/100 (source-linked-unverified).
+- [x] AE — Snoopy Island and Surrounding Reef: 82.30/100 (source-linked-unverified).
+- [x] AE — The Green Planet Dubai: 81.40/100 (source-linked-unverified).
+- [x] AE — Motiongate Dubai: 82.80/100 (source-linked-unverified).
+- [x] AE — Al Fahidi Fort Museum (Dubai Museum): 86.20/100 (source-linked-unverified).
+- [x] AE — Al Rafisah Dam: 79.00/100 (source-linked-unverified).
+- [x] AE — The National Aquarium Abu Dhabi: 83.75/100 (source-linked-unverified).
+- [x] AE — LEGOLAND Dubai: 80.00/100 (source-linked-unverified).
+
+Eight additions and 32 peer comparisons matched to current ranked rows. UAE 70 ranked / 80 total; existing ten unassessed unchanged. Al Fahidi Fort Museum newly reopened (official tourism and 26 November 2026 reporting); separate galleries from already listed historic district. Deferred Al Ain Palace Museum: official temporary closure since 1 July 2024 remains posted (https://dct.gov.ae/en/what.we.do/culture/museums/al.ain.palace.museum.aspx). Deferred Ras Al Khor Wildlife Sanctuary: conflicting access information; Dubai Municipality visitor page (https://www.dm.gov.ae/dubai-protected-areas/book-a-visit/) and recent closure reporting (https://uae2day.com/en/attractions/ras-al-khor-wildlife-sanctuary). Verify access before scoring. Federal tourism inventory (https://www.moet.gov.ae/en/tourist-attractions) and emirate-level guide (https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/what-to-do-in-the-uae/explore-the-uae-by-emirate-) consulted. Other major concrete candidates for bounded final review: Burj Al Arab authorized tour, Al Bithnah Fort, and Umm Al Quwain mangrove visitor experience. Do not mark country done with unresolved known priority candidates. Full Python validation and individual peer YAML checks pending.
