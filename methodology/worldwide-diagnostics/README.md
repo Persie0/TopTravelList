@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14898; unassessed: 1371.
+Ranked: 14902; unassessed: 1367.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1371 |
+| incomplete-core | 1367 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -74,7 +74,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BH | sights | 40 | 39 | 78.00 | 0 | 0 | 0 | 40 | [Qalat al-Bahrain Archaeological Site](../../countries/BH/sights/qalat-al-bahrain-archaeological-site.yaml) 89.60; [Pearling Path (Muharraq)](../../countries/BH/sights/pearling-path-muharraq.yaml) 88.05; [Dilmun Burial Mounds](../../countries/BH/sights/dilmun-burial-mounds.yaml) 85.25 |
 | BI | cities | 12 | 12 | 65.28 | 0 | 0 | 0 | 12 | [Bujumbura](../../countries/BI/cities/bujumbura.yaml) 75.50; [Gitega](../../countries/BI/cities/gitega.yaml) 72.55; [Rumonge](../../countries/BI/cities/rumonge.yaml) 70.90 |
 | BI | sights | 26 | 24 | 77.20 | 0 | 0 | 0 | 26 | [Lake Tanganyika (Burundian shore and visitor waters)](../../countries/BI/sights/lake-tanganyika-burundian-shore-and-visitor-waters.yaml) 87.60; [Gishora Royal Residence and Drum Sanctuary](../../countries/BI/sights/gishora-royal-residence-and-drum-sanctuary.yaml) 87.05; [Kibira National Park](../../countries/BI/sights/kibira-national-park.yaml) 85.45 |
-| BJ | cities | 18 | 17 | 72.90 | 0 | 0 | 0 | 18 | [Ganvié](../../countries/BJ/cities/ganvie.yaml) 88.20; [Ouidah](../../countries/BJ/cities/ouidah.yaml) 84.60; [Porto-Novo](../../countries/BJ/cities/porto-novo.yaml) 83.00 |
+| BJ | cities | 18 | 18 | 73.45 | 0 | 0 | 0 | 18 | [Ganvié](../../countries/BJ/cities/ganvie.yaml) 88.20; [Ouidah](../../countries/BJ/cities/ouidah.yaml) 84.60; [Porto-Novo](../../countries/BJ/cities/porto-novo.yaml) 83.00 |
 | BJ | sights | 34 | 23 | 80.05 | 0 | 0 | 2 | 34 | [Royal Palaces of Abomey (main complex)](../../countries/BJ/sights/royal-palaces-of-abomey-main-complex.yaml) 87.90; [Porto-Novo Historic Quarters and Royal Palace](../../countries/BJ/sights/porto-novo-historic-quarters-and-royal-palace.yaml) 84.05; [Lower Ouémé Valley](../../countries/BJ/sights/lower-oueme-valley.yaml) 83.90 |
 | BL | cities | 2 | 2 | 78.25 | 0 | 0 | 0 | 2 | [Gustavia](../../countries/BL/cities/gustavia.yaml) 80.85; [Corossol](../../countries/BL/cities/corossol.yaml) 75.65 |
 | BL | sights | 8 | 8 | 79.75 | 0 | 0 | 0 | 8 | [Colombier Beach and Bay](../../countries/BL/sights/colombier-beach.yaml) 85.25; [Grand Cul-de-Sac Lagoon](../../countries/BL/sights/grand-cul-de-sac.yaml) 85.10; [Grande Saline Beach](../../countries/BL/sights/saline-beach.yaml) 81.40 |
@@ -326,7 +326,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MP | sights | 15 | 12 | 83.78 | 0 | 0 | 1 | 15 | [Marpi WWII memorial landscape](../../countries/MP/sights/marpi-memorials.yaml) 87.45; [Saipan Grotto (authorized cavern diving and viewpoint)](../../countries/MP/sights/grotto.yaml) 85.85; [Mañagaha Island beach and marine conservation area](../../countries/MP/sights/managaha.yaml) 85.80 |
 | MQ | cities | 4 | 4 | 77.70 | 0 | 0 | 0 | 4 | [Saint-Pierre](../../countries/MQ/cities/saint-pierre.yaml) 83.95; [Fort-de-France](../../countries/MQ/cities/fort-de-france.yaml) 79.55; [Le Diamant (bourg)](../../countries/MQ/cities/le-diamant.yaml) 75.85 |
 | MQ | sights | 11 | 11 | 84.20 | 2 | 0 | 0 | 11 | [Mount Pelée (permitted summit trails)](../../countries/MQ/sights/mount-pelee.yaml) 90.15; [Mount Pelée and Pitons of Northern Martinique](../../countries/MQ/sights/martinique-volcanoes.yaml) 90.10; [Caravelle Peninsula Nature Reserve](../../countries/MQ/sights/caravelle-reserve.yaml) 86.10 |
-| MR | cities | 10 | 9 | 72.35 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Oualata](../../countries/MR/cities/oualata.yaml) 83.40; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95 |
+| MR | cities | 10 | 10 | 71.78 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Oualata](../../countries/MR/cities/oualata.yaml) 83.40; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95 |
 | MR | sights | 17 | 13 | 84.55 | 1 | 0 | 2 | 17 | [Banc d’Arguin National Park](../../countries/MR/sights/banc-d-arguin-national-park.yaml) 91.90; [Chinguetti Old Ksar](../../countries/MR/sights/chinguetti-old-ksar.yaml) 88.30; [Richat Structure (Eye of the Sahara)](../../countries/MR/sights/richat-structure.yaml) 86.55 |
 | MS | cities | 2 | 2 | 73.58 | 0 | 0 | 0 | 2 | [Little Bay](../../countries/MS/cities/little-bay.yaml) 76.00; [Brades](../../countries/MS/cities/brades.yaml) 71.15 |
 | MS | sights | 8 | 8 | 82.55 | 0 | 0 | 0 | 8 | [Montserrat Volcano Observatory and Soufrière Hills viewpoint](../../countries/MS/sights/volcano-observatory.yaml) 89.05; [Plymouth buried town (restricted land site)](../../countries/MS/sights/plymouth-buried-city.yaml) 87.75; [Centre Hills forest trails](../../countries/MS/sights/centre-hills.yaml) 86.15 |
@@ -416,7 +416,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SB | sights | 16 | 13 | 79.60 | 1 | 0 | 0 | 16 | [Marovo Lagoon](../../countries/SB/sights/marovo-lagoon.yaml) 90.25; [Kolombangara Central Caldera Forests](../../countries/SB/sights/kolombangara-central-caldera-forests.yaml) 88.55; [Tetepare Island](../../countries/SB/sights/tetepare-island.yaml) 87.60 |
 | SC | cities | 14 | 14 | 68.52 | 0 | 0 | 0 | 14 | [La Passe (La Digue)](../../countries/SC/cities/la-passe-la-digue.yaml) 78.65; [Victoria](../../countries/SC/cities/victoria.yaml) 77.90; [Beau Vallon](../../countries/SC/cities/beau-vallon.yaml) 72.30 |
 | SC | sights | 49 | 48 | 80.80 | 3 | 0 | 4 | 49 | [Aldabra Atoll](../../countries/SC/sights/aldabra-atoll.yaml) 92.20; [Vallée de Mai Nature Reserve](../../countries/SC/sights/vallee-de-mai-nature-reserve.yaml) 91.65; [Anse Source d'Argent](../../countries/SC/sights/anse-source-d-argent.yaml) 90.65 |
-| SD | cities | 9 | 6 | 76.18 | 0 | 0 | 0 | 9 | [Omdurman](../../countries/SD/cities/omdurman.yaml) 80.75; [Suakin](../../countries/SD/cities/suakin.yaml) 80.75; [Kassala](../../countries/SD/cities/kassala.yaml) 79.25 |
+| SD | cities | 9 | 7 | 73.10 | 0 | 0 | 0 | 9 | [Omdurman](../../countries/SD/cities/omdurman.yaml) 80.75; [Suakin](../../countries/SD/cities/suakin.yaml) 80.75; [Kassala](../../countries/SD/cities/kassala.yaml) 79.25 |
 | SD | sights | 26 | 13 | 90.15 | 7 | 0 | 10 | 26 | [Royal Pyramids of Meroë](../../countries/SD/sights/meroe-pyramids.yaml) 94.55; [Jebel Barkal Archaeological Site](../../countries/SD/sights/jebel-barkal.yaml) 93.15; [Sanganeb Marine National Park](../../countries/SD/sights/sanganeb-marine-national-park.yaml) 93.05 |
 | SE | cities | 23 | 23 | 81.35 | 1 | 0 | 1 | 23 | [Stockholm](../../countries/SE/cities/stockholm.yaml) 92.90; [Visby](../../countries/SE/cities/visby.yaml) 89.55; [Uppsala](../../countries/SE/cities/uppsala.yaml) 86.45 |
 | SE | sights | 64 | 64 | 86.10 | 10 | 0 | 3 | 64 | [Laponian Area](../../countries/SE/sights/laponian-area.yaml) 94.75; [Vasa Museum](../../countries/SE/sights/vasa-museum.yaml) 93.60; [Sarek National Park](../../countries/SE/sights/sarek-national-park.yaml) 93.25 |
@@ -454,7 +454,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SZ | sights | 30 | 29 | 78.30 | 0 | 0 | 1 | 30 | [Mkhaya Game Reserve](../../countries/SZ/sights/mkhaya-game-reserve.yaml) 87.15; [Malolotja Nature Reserve](../../countries/SZ/sights/malolotja-nature-reserve.yaml) 86.90; [Ngwenya Mines and Lion Cavern](../../countries/SZ/sights/ngwenya-mines-and-lion-cavern.yaml) 86.50 |
 | TC | cities | 3 | 3 | 77.30 | 0 | 0 | 0 | 3 | [Cockburn Town (Grand Turk)](../../countries/TC/cities/cockburn-town.yaml) 80.40; [Balfour Town (Salt Cay)](../../countries/TC/cities/balfour-town.yaml) 77.30; [Cockburn Harbour (South Caicos)](../../countries/TC/cities/cockburn-harbour.yaml) 76.35 |
 | TC | sights | 12 | 12 | 85.05 | 0 | 0 | 0 | 12 | [Chalk Sound National Park (Providenciales)](../../countries/TC/sights/chalk-sound.yaml) 88.55; [Grand Turk Wall (permitted dive sites)](../../countries/TC/sights/grand-turk-wall.yaml) 87.90; [Little Water Cay (Iguana Island)](../../countries/TC/sights/little-water-cay.yaml) 86.70 |
-| TD | cities | 10 | 8 | 71.28 | 0 | 0 | 0 | 10 | [Abéché](../../countries/TD/cities/abeche.yaml) 80.10; [Ounianga Kébir](../../countries/TD/cities/ounianga-kebir.yaml) 73.85; [N'Djamena](../../countries/TD/cities/n-djamena.yaml) 73.10 |
+| TD | cities | 10 | 9 | 72.20 | 0 | 0 | 0 | 10 | [Abéché](../../countries/TD/cities/abeche.yaml) 80.10; [Bardaï](../../countries/TD/cities/bardai.yaml) 75.20; [Ounianga Kébir](../../countries/TD/cities/ounianga-kebir.yaml) 73.85 |
 | TD | sights | 25 | 14 | 88.28 | 6 | 1 | 9 | 25 | [Ennedi Massif Natural and Cultural Landscape](../../countries/TD/sights/ennedi-massif-natural-and-cultural-landscape.yaml) 95.70; [Lakes of Ounianga](../../countries/TD/sights/lakes-of-ounianga.yaml) 93.85; [Zakouma National Park](../../countries/TD/sights/zakouma-national-park.yaml) 93.05 |
 | TF | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | TF | sights | 6 | 0 |  | 0 | 0 | 1 | 6 |  |

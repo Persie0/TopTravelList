@@ -2,7 +2,7 @@
 
 # Chad (TD) — Cities, towns & villages ranking
 
-**8 ranked** · **2 unassessed** · **10 total** · Worldwide scoring **v2**
+**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,27 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (8)
+## Complete ranked list (9)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Abéché](cities/abeche.yaml) | City / town | **80.10** | **History 8.9**, **Culture 8.6** | 7.8 / 8.2 / 8.5 / 7.8 / 7.5 | [13.83, 20.83](https://www.google.com/maps/search/?api=1&query=13.83,20.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ab%C3%A9ch%C3%A9%2C%20Chad) |
-| 2 | [Ounianga Kébir](cities/ounianga-kebir.yaml) | City / town | **73.85** | **Photography 8.5**, **Culture 8.3** | 7.3 / 8.1 / 7.2 / 7.4 / 6.2 | [19.06, 20.49](https://www.google.com/maps/search/?api=1&query=19.06,20.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ounianga%20K%C3%A9bir%2C%20Chad) |
-| 3 | [N'Djamena](cities/n-djamena.yaml) | City / town | **73.10** | **Culture 8.3**, **History 8.1**, **Food 7.8** | 6.8 / 7.5 / 7.9 / 7.3 / 7.2 | [12.1348, 15.0557](https://www.google.com/maps/search/?api=1&query=12.1348,15.0557) | [Google Maps](https://www.google.com/maps/search/?api=1&query=N%27Djamena%2C%20Chad) |
-| 4 | [Ounianga Sérir](cities/ounianga-serir.yaml) | City / town | **72.20** | **Photography 8.4**, **Culture 8.3** | 7.0 / 8.1 / 7.0 / 7.3 / 6.0 | [18.94, 20.9](https://www.google.com/maps/search/?api=1&query=18.94,20.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ounianga%20S%C3%A9rir%2C%20Chad) |
-| 5 | [Faya-Largeau](cities/faya-largeau.yaml) | City / town | **70.35** | **Culture 8.0**, **History 7.9** | 6.6 / 7.6 / 7.3 / 7.1 / 6.3 | [17.925, 19.105](https://www.google.com/maps/search/?api=1&query=17.925,19.105) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faya-Largeau%2C%20Chad) |
-| 6 | [Fada](cities/fada.yaml) | City / town | **69.15** | **Culture 8.0**, **Photography 7.9** | 6.5 / 7.7 / 6.9 / 7.2 / 5.8 | [17.185, 21.581](https://www.google.com/maps/search/?api=1&query=17.185,21.581) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fada%2C%20Chad) |
-| 7 | [Sarh](cities/sarh.yaml) | City / town | **68.95** | **Culture 7.6**, **History 7.5** | 6.7 / 6.9 / 7.0 / 7.2 / 6.8 | [9.145548, 18.383309](https://www.google.com/maps/search/?api=1&query=9.145548,18.383309) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sarh%2C%20Chad) |
-| 8 | [Moundou](cities/moundou.yaml) | City / town | **67.05** | **Culture 7.4** | 6.6 / 6.6 / 6.8 / 7.1 / 6.5 | [8.574375, 16.077216](https://www.google.com/maps/search/?api=1&query=8.574375,16.077216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moundou%2C%20Chad) |
+| 2 | [Bardaï](cities/bardai.yaml) | City / town | **75.20** | **Culture 8.3**, **Photography 8.0** | 7.6 / 8.0 / 7.5 / 7.2 / 6.6 | [21.35, 17.0](https://www.google.com/maps/search/?api=1&query=21.35,17.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barda%C3%AF%2C%20Chad) |
+| 3 | [Ounianga Kébir](cities/ounianga-kebir.yaml) | City / town | **73.85** | **Photography 8.5**, **Culture 8.3** | 7.3 / 8.1 / 7.2 / 7.4 / 6.2 | [19.06, 20.49](https://www.google.com/maps/search/?api=1&query=19.06,20.49) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ounianga%20K%C3%A9bir%2C%20Chad) |
+| 4 | [N'Djamena](cities/n-djamena.yaml) | City / town | **73.10** | **Culture 8.3**, **History 8.1**, **Food 7.8** | 6.8 / 7.5 / 7.9 / 7.3 / 7.2 | [12.1348, 15.0557](https://www.google.com/maps/search/?api=1&query=12.1348,15.0557) | [Google Maps](https://www.google.com/maps/search/?api=1&query=N%27Djamena%2C%20Chad) |
+| 5 | [Ounianga Sérir](cities/ounianga-serir.yaml) | City / town | **72.20** | **Photography 8.4**, **Culture 8.3** | 7.0 / 8.1 / 7.0 / 7.3 / 6.0 | [18.94, 20.9](https://www.google.com/maps/search/?api=1&query=18.94,20.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ounianga%20S%C3%A9rir%2C%20Chad) |
+| 6 | [Faya-Largeau](cities/faya-largeau.yaml) | City / town | **70.35** | **Culture 8.0**, **History 7.9** | 6.6 / 7.6 / 7.3 / 7.1 / 6.3 | [17.925, 19.105](https://www.google.com/maps/search/?api=1&query=17.925,19.105) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faya-Largeau%2C%20Chad) |
+| 7 | [Fada](cities/fada.yaml) | City / town | **69.15** | **Culture 8.0**, **Photography 7.9** | 6.5 / 7.7 / 6.9 / 7.2 / 5.8 | [17.185, 21.581](https://www.google.com/maps/search/?api=1&query=17.185,21.581) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fada%2C%20Chad) |
+| 8 | [Sarh](cities/sarh.yaml) | City / town | **68.95** | **Culture 7.6**, **History 7.5** | 6.7 / 6.9 / 7.0 / 7.2 / 6.8 | [9.145548, 18.383309](https://www.google.com/maps/search/?api=1&query=9.145548,18.383309) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sarh%2C%20Chad) |
+| 9 | [Moundou](cities/moundou.yaml) | City / town | **67.05** | **Culture 7.4** | 6.6 / 6.6 / 6.8 / 7.1 / 6.5 | [8.574375, 16.077216](https://www.google.com/maps/search/?api=1&query=8.574375,16.077216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moundou%2C%20Chad) |
 
-## Not yet fully assessed (2)
+## Not yet fully assessed (1)
 
 These destinations have no rank until all five core scores are assessed.
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Am Timan](cities/am-timan.yaml) | City / town | **—** | **Culture 7.2** | — / 6.6 / 6.6 / — / — | [11.04, 20.28](https://www.google.com/maps/search/?api=1&query=11.04,20.28) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Am%20Timan%2C%20Chad) |
-| — | [Bardaï](cities/bardai.yaml) | City / town | **—** | **Culture 8.3**, **Photography 8.0** | — / 8.0 / 7.5 / — / — | [21.35, 17.0](https://www.google.com/maps/search/?api=1&query=21.35,17.0) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Barda%C3%AF%2C%20Chad) |
 
 ---
 

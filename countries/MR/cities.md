@@ -2,7 +2,7 @@
 
 # Mauritania (MR) — Cities, towns & villages ranking
 
-**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (9)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -23,14 +23,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 7 | [Kiffa](cities/kiffa.yaml) | City / town | **70.55** | — | 6.7 / 7.8 / 6.6 / 7.3 / 6.8 | [16.621, -11.402](https://www.google.com/maps/search/?api=1&query=16.621,-11.402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kiffa%2C%20Mauritania) |
 | 8 | [Atar](cities/atar.yaml) | City / town | **69.90** | **Culture 7.5** | 6.7 / 7.3 / 7.1 / 7.1 / 6.7 | [20.5186, -13.0539](https://www.google.com/maps/search/?api=1&query=20.5186,-13.0539) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Atar%2C%20Mauritania) |
 | 9 | [Zouérat](cities/zouerat.yaml) | City / town | **69.25** | — | 6.5 / 7.2 / 7.1 / 7.1 / 6.9 | [22.735, -12.471](https://www.google.com/maps/search/?api=1&query=22.735,-12.471) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zou%C3%A9rat%2C%20Mauritania) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Kaédi](cities/kaedi.yaml) | City / town | **—** | — | — / — / 6.8 / — / — | [16.151, -13.506](https://www.google.com/maps/search/?api=1&query=16.151,-13.506) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ka%C3%A9di%2C%20Mauritania) |
+| 10 | [Kaédi](cities/kaedi.yaml) | City / town | **68.80** | — | 6.7 / 7.3 / 6.8 / 6.9 / 6.5 | [16.151, -13.506](https://www.google.com/maps/search/?api=1&query=16.151,-13.506) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ka%C3%A9di%2C%20Mauritania) |
 
 ---
 
