@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14906; unassessed: 1363.
+Ranked: 14910; unassessed: 1359.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1363 |
+| incomplete-core | 1359 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1801 |
 | overall-95-plus | 159 |
@@ -267,7 +267,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | KN | cities | 11 | 11 | 72.60 | 0 | 0 | 0 | 11 | [Charlestown](../../countries/KN/cities/charlestown.yaml) 82.05; [Basseterre](../../countries/KN/cities/basseterre.yaml) 80.55; [Old Road Town](../../countries/KN/cities/old-road-town.yaml) 75.80 |
 | KN | sights | 30 | 27 | 78.65 | 1 | 0 | 1 | 30 | [Brimstone Hill Fortress National Park](../../countries/KN/sights/brimstone-hill-fortress-national-park.yaml) 90.55; [St Kitts Scenic Railway](../../countries/KN/sights/st-kitts-scenic-railway.yaml) 85.40; [Mount Liamuiga Summit Trail](../../countries/KN/sights/mount-liamuiga-summit-trail.yaml) 85.05 |
 | KP | cities | 8 | 1 | 81.90 | 0 | 0 | 0 | 8 | [Pyongyang](../../countries/KP/cities/pyongyang.yaml) 81.90 |
-| KP | sights | 22 | 7 | 78.10 | 0 | 0 | 0 | 22 | [Mount Myohyang](../../countries/KP/sights/mount-myohyang.yaml) 84.55; [Pyongyang Metro (Approved Visitor Stations)](../../countries/KP/sights/pyongyang-metro.yaml) 81.25; [Victorious Fatherland Liberation War Museum](../../countries/KP/sights/war-museum.yaml) 80.90 |
+| KP | sights | 22 | 11 | 80.90 | 0 | 0 | 0 | 22 | [Tomb of King Kongmin](../../countries/KP/sights/tomb-king-kongmin.yaml) 84.80; [Mount Myohyang](../../countries/KP/sights/mount-myohyang.yaml) 84.55; [Ryongmun Cavern and Songam Cave](../../countries/KP/sights/ryongmun-songam.yaml) 84.45 |
 | KR | cities | 82 | 82 | 73.80 | 2 | 0 | 3 | 0 | [Gyeongju](../../countries/KR/cities/gyeongju.yaml) 93.10; [Seoul](../../countries/KR/cities/seoul.yaml) 91.90; [Busan](../../countries/KR/cities/busan.yaml) 89.00 |
 | KR | sights | 284 | 284 | 84.65 | 26 | 1 | 40 | 0 | [Gyeongju Historic Areas](../../countries/KR/sights/gyeongju-historic-areas.yaml) 96.15; [Changdeokgung Palace](../../countries/KR/sights/changdeokgung-palace.yaml) 93.90; [Bulguksa Temple](../../countries/KR/sights/bulguksa-temple.yaml) 93.15 |
 | KW | cities | 12 | 12 | 67.92 | 0 | 0 | 0 | 12 | [Kuwait City](../../countries/KW/cities/kuwait-city.yaml) 82.35; [Ahmadi](../../countries/KW/cities/ahmadi.yaml) 77.45; [Al-Zor Village (Failaka)](../../countries/KW/cities/al-zor-village-failaka.yaml) 77.35 |
