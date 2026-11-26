@@ -654,3 +654,17 @@ Seven additions and 28 peer comparisons. Egypt 85 ranked / 85 total. Abusir pyra
 - [x] TN — Sousse Archaeological Museum: 88.25/100 (source-linked-unverified).
 
 Nine additions and 36 peer comparisons. Tunisia 28 ranked / 39 total. Existing eleven unassessed unchanged. Official tourism mountain oasis and Tataouine inventories and national heritage operator museum/site inventory screened. Chebika circuit grouped, point at Chebika; regional travel restrictions require confirmation. Ksar Ghilane named oasis point preferred over conflicting introductory DMS. El Jem archaeological museum point distinguished from Dar El Jem. Individual southern ksour scopes are potential components of existing unassessed aggregate, not duplicate visitor precincts. El Ghriba visitor access subject to religious and security restrictions (https://www.tourismtunisia.com/el-ghriba-synagogue-djerba/); screen next along with Djerbahood, Guellala Museum, Houmt Souk fort, Tozeur oasis/old town, Sidi Bou Said independent museums, Zaghouan Water Temple, Cap Bon/Tabarka nature and substantial remaining sites. Full Python validation and individual peer YAML checks pending.
+
+### Pass 60 — Djerba, Tozeur and coastal Tunisia
+
+- [x] TN — El Ghriba Synagogue: 86.60/100 (source-linked-unverified).
+- [x] TN — Djerbahood Street Art: 85.65/100 (source-linked-unverified).
+- [x] TN — Guellala Heritage Museum: 85.05/100 (source-linked-unverified).
+- [x] TN — Borj Ghazi Mustapha (Houmt Souk Fort): 84.00/100 (source-linked-unverified).
+- [x] TN — Tozeur Medina and Palm Grove: 88.05/100 (source-linked-unverified).
+- [x] TN — Zaghouan Water Temple: 84.75/100 (source-linked-unverified).
+- [x] TN — Kelibia Fort: 87.15/100 (source-linked-unverified).
+- [x] TN — Tabarka Needles and Coastal Walk: 83.05/100 (source-linked-unverified).
+- [x] TN — Korbous and Ain Atrous Thermal Spring Coast: 81.40/100 (source-linked-unverified).
+
+Nine additions and 36 peer comparisons. Tunisia 37 ranked / 48 total; eleven previously unassessed unchanged. Ghriba 2026 visitor return documented, ordinary access conditional. Tabarka fort interior excluded due conflicting access; needles and permitted coastal walk only. Zaghouan temple distinct visitor component of unassessed hydraulic aggregate. Tozeur grouped with palm grove, excludes separate mountain oasis circuit and salt flat. Type inference labels synagogue and some coastal or religious sites generically; semantic classification review pending. Final bounded screen: El Haouaria quarry caves access, Dar Ennejma Ezzahra and Dar El Annabi in Sidi Bou Said (distinct paid interiors), Hammamet medina and kasbah, Mahdia old town and Borj El Kebir, Jebel Zaghouan trails, Cap Serrat, and other major missing nature/heritage sites. Full Python validation and individual peer YAML checks pending.
