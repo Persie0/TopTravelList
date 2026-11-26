@@ -1,0 +1,17 @@
+id: sight-mg-nosy-tanikely
+name: "Nosy Tanikely National Park"
+location:
+  country_code: MG
+  latitude: -13.4824
+  longitude: 48.2367
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9
+  depth: 7.9
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    adventure: 8.8
+    beaches: 8.8

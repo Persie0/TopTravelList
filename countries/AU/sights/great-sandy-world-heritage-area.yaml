@@ -1,0 +1,13 @@
+id: sight-au-great-sandy-world-heritage-area
+name: "Great Sandy World Heritage Area"
+location:
+  country_code: AU
+  latitude: -25.65
+  longitude: 153
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories: {}

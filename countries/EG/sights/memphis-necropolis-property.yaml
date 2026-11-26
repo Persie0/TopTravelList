@@ -1,0 +1,13 @@
+id: sight-eg-memphis-necropolis-property
+name: "Memphis and its Necropolis UNESCO Property"
+location:
+  country_code: EG
+  latitude: 29.94
+  longitude: 31.20
+scores:
+  impact: null
+  uniqueness: null
+  significance: null
+  experience: null
+  depth: null
+  categories: {}

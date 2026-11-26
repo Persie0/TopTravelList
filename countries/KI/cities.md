@@ -2,7 +2,7 @@
 
 # Kiribati (KI) — Cities, towns & villages ranking
 
-**4 ranked** · **8 unassessed** · **12 total** · Worldwide scoring **v2**
+**8 ranked** · **4 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,16 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (4)
+## Complete ranked list (8)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Betio](cities/betio.yaml) | City / town | **72.20** | **History 8.3**, **Culture 6.9** | 6.6 / 7.6 / 8.2 / 6.8 / 6.8 | [1.35797, 172.92105](https://www.google.com/maps/search/?api=1&query=1.35797,172.92105) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Betio%2C%20Kiribati) |
-| 2 | [London Village (Ronton)](cities/london.yaml) | Village | **66.85** | **Photography 6.8**, **Culture 6.7** | 6.4 / 7.3 / 6.6 / 6.8 / 6.0 | [1.98487, -157.47502](https://www.google.com/maps/search/?api=1&query=1.98487,-157.47502) | [Google Maps](https://www.google.com/maps/search/?api=1&query=London%20Village%20%28Ronton%29%2C%20Kiribati) |
-| 3 | [Bairiki](cities/bairiki.yaml) | City / town | **65.60** | **Culture 6.9**, **Architecture 6.3** | 5.9 / 7.3 / 7.2 / 6.3 / 5.8 | [1.32924, 172.97522](https://www.google.com/maps/search/?api=1&query=1.32924,172.97522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bairiki%2C%20Kiribati) |
-| 4 | [Bikenibeu Village](cities/bikenibeu.yaml) | Village | **64.45** | **Culture 7.3** | 5.9 / 6.8 / 6.9 / 6.5 / 6.2 | [1.3673, 173.12415](https://www.google.com/maps/search/?api=1&query=1.3673,173.12415) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bikenibeu%20Village%2C%20Kiribati) |
+| 2 | [Paelau Village](cities/paelau.yaml) | Village | **69.85** | **Culture 7.7**, **Relaxation 7.4** | 6.8 / 7.4 / 6.6 / 7.5 / 6.5 | [3.85663, -159.36043](https://www.google.com/maps/search/?api=1&query=3.85663,-159.36043) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paelau%20Village%2C%20Kiribati) |
+| 3 | [Poland Village](cities/poland.yaml) | Village | **68.35** | **Culture 7.5**, **History 7.2** | 6.5 / 7.5 / 6.8 / 7.0 / 6.0 | [1.8648, -157.55154](https://www.google.com/maps/search/?api=1&query=1.8648,-157.55154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Poland%20Village%2C%20Kiribati) |
+| 4 | [London Village (Ronton)](cities/london.yaml) | Village | **66.85** | **Photography 6.8**, **Culture 6.7** | 6.4 / 7.3 / 6.6 / 6.8 / 6.0 | [1.98487, -157.47502](https://www.google.com/maps/search/?api=1&query=1.98487,-157.47502) | [Google Maps](https://www.google.com/maps/search/?api=1&query=London%20Village%20%28Ronton%29%2C%20Kiribati) |
+| 5 | [Bairiki](cities/bairiki.yaml) | City / town | **65.60** | **Culture 6.9**, **Architecture 6.3** | 5.9 / 7.3 / 7.2 / 6.3 / 5.8 | [1.32924, 172.97522](https://www.google.com/maps/search/?api=1&query=1.32924,172.97522) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bairiki%2C%20Kiribati) |
+| 5 | [Tabwakea Village](cities/tabwakea.yaml) | Village | **65.60** | **Culture 7.3**, **Food 6.9** | 6.3 / 6.9 / 6.5 / 6.9 / 6.1 | [2.01643, -157.48773](https://www.google.com/maps/search/?api=1&query=2.01643,-157.48773) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabwakea%20Village%2C%20Kiribati) |
+| 7 | [Teaoraereke Village](cities/teaoraereke.yaml) | Village | **65.30** | **Culture 7.4**, **Architecture 6.8** | 6.0 / 6.9 / 7.0 / 6.7 / 6.0 | [1.33309, 173.01162](https://www.google.com/maps/search/?api=1&query=1.33309,173.01162) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Teaoraereke%20Village%2C%20Kiribati) |
+| 8 | [Bikenibeu Village](cities/bikenibeu.yaml) | Village | **64.45** | **Culture 7.3** | 5.9 / 6.8 / 6.9 / 6.5 / 6.2 | [1.3673, 173.12415](https://www.google.com/maps/search/?api=1&query=1.3673,173.12415) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bikenibeu%20Village%2C%20Kiribati) |
 
-## Not yet fully assessed (8)
+## Not yet fully assessed (4)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -28,11 +32,7 @@ These destinations have no rank until all five core scores are assessed.
 | — | [Bonriki Village](cities/bonriki.yaml) | Village | **—** | — | — / — / — / — / — | [1.38081, 173.13887](https://www.google.com/maps/search/?api=1&query=1.38081,173.13887) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bonriki%20Village%2C%20Kiribati) |
 | — | [Kabangaki Village](cities/kabangaki.yaml) | Village | **—** | — | — / — / — / — / — | [0.31394, 173.92913](https://www.google.com/maps/search/?api=1&query=0.31394,173.92913) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kabangaki%20Village%2C%20Kiribati) |
 | — | [Makin Village](cities/makin.yaml) | Village | **—** | — | — / — / — / — / — | [3.3644, 172.98352](https://www.google.com/maps/search/?api=1&query=3.3644,172.98352) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Makin%20Village%2C%20Kiribati) |
-| — | [Paelau Village](cities/paelau.yaml) | Village | **—** | — | — / — / — / — / — | [3.85663, -159.36043](https://www.google.com/maps/search/?api=1&query=3.85663,-159.36043) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paelau%20Village%2C%20Kiribati) |
-| — | [Poland Village](cities/poland.yaml) | Village | **—** | — | — / — / — / — / — | [1.8648, -157.55154](https://www.google.com/maps/search/?api=1&query=1.8648,-157.55154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Poland%20Village%2C%20Kiribati) |
-| — | [Taburao Village](cities/taburao.yaml) | Village | **—** | — | — / — / — / — / — | [1.85372, 172.99744](https://www.google.com/maps/search/?api=1&query=1.85372,172.99744) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taburao%20Village%2C%20Kiribati) |
-| — | [Tabwakea Village](cities/tabwakea.yaml) | Village | **—** | — | — / — / — / — / — | [2.01643, -157.48773](https://www.google.com/maps/search/?api=1&query=2.01643,-157.48773) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tabwakea%20Village%2C%20Kiribati) |
-| — | [Teaoraereke Village](cities/teaoraereke.yaml) | Village | **—** | — | — / — / — / — / — | [1.33309, 173.01162](https://www.google.com/maps/search/?api=1&query=1.33309,173.01162) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Teaoraereke%20Village%2C%20Kiribati) |
+| — | [Taburao Village](cities/taburao.yaml) | Village | **—** | — | — / — / 6.3 / — / — | [1.85372, 172.99744](https://www.google.com/maps/search/?api=1&query=1.85372,172.99744) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taburao%20Village%2C%20Kiribati) |
 
 ---
 

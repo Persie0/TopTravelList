@@ -1,0 +1,15 @@
+id: sight-za-richtersveld-cultural-landscape
+name: "Richtersveld Cultural and Botanical Landscape"
+location:
+  country_code: ZA
+  latitude: -28.6
+  longitude: 17.1
+scores:
+  impact: null
+  uniqueness: 9.2
+  significance: 9.3
+  experience: null
+  depth: null
+  categories:
+    culture: 9.3
+    nature: 9.2

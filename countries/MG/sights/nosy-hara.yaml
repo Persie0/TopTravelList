@@ -1,0 +1,15 @@
+id: sight-mg-nosy-hara
+name: "Nosy Hara National Park"
+location:
+  country_code: MG
+  latitude: -12.20986
+  longitude: 49.01044
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.4
+    wildlife: 9.2

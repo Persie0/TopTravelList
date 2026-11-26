@@ -1,0 +1,16 @@
+id: sight-ma-khnifiss-lagoon
+name: "Khnifiss Lagoon"
+location:
+  country_code: MA
+  latitude: 28.02
+  longitude: -12.23
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9
+  experience: 8.5
+  depth: 8
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-nz-mount-aspiring-national-park
+name: "Mount Aspiring National Park"
+location:
+  country_code: NZ
+  latitude: -44.383
+  longitude: 168.733
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.2
+    adventure: 9.2
+    photography: 9.0

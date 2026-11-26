@@ -1,0 +1,15 @@
+id: sight-tz-nyerere-national-park
+name: "Nyerere National Park"
+location:
+  country_code: TZ
+  latitude: -8.2
+  longitude: 37.8
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.4

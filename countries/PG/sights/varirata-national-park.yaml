@@ -1,0 +1,16 @@
+id: sight-pg-varirata-national-park
+name: "Varirata National Park"
+location:
+  country_code: PG
+  latitude: -9.46375
+  longitude: 147.360139
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 8.0
+  experience: 8.2
+  depth: 7.9
+  categories:
+    nature: 8.5
+    wildlife: 8.6
+    photography: 8.2

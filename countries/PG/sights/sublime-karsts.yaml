@@ -1,0 +1,14 @@
+id: sight-pg-sublime-karsts
+name: "The Sublime Karsts of Papua New Guinea"
+location:
+  country_code: PG
+  latitude: -5.263889
+  longitude: 141.513611
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.2
+  experience: null
+  depth: null
+  categories:
+    nature: 9.2

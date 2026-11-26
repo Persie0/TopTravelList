@@ -1,0 +1,16 @@
+id: sight-za-garden-route-national-park
+name: "Garden Route National Park"
+location:
+  country_code: ZA
+  latitude: -34.02
+  longitude: 23.89
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.2
+    adventure: 9.2
+    photography: 9.2

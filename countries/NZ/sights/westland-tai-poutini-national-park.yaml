@@ -1,0 +1,16 @@
+id: sight-nz-westland-tai-poutini-national-park
+name: "Westland Tai Poutini National Park"
+location:
+  country_code: NZ
+  latitude: -43.4
+  longitude: 170.2
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 9.0

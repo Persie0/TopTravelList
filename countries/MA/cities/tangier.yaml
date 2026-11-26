@@ -1,0 +1,17 @@
+id: city-ma-tangier
+name: "Tangier"
+location:
+  country_code: MA
+  latitude: 35.7595
+  longitude: -5.834
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 8.5
+    history: 8.8
+    culture: 8.9
+    food: 8.7

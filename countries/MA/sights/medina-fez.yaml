@@ -1,0 +1,17 @@
+id: sight-ma-medina-fez
+name: "Medina of Fez"
+location:
+  country_code: MA
+  latitude: 34.064
+  longitude: -4.977
+scores:
+  impact: 9.5
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 9.0
+  depth: 9.4
+  categories:
+    architecture: 9.6
+    history: 9.7
+    culture: 9.7
+    photography: 9.4

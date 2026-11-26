@@ -1,0 +1,15 @@
+id: sight-eg-edfu-temple
+name: "Temple of Edfu"
+location:
+  country_code: EG
+  latitude: 24.978
+  longitude: 32.873
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 8.8
+  categories:
+    architecture: 9.5
+    history: 9.4

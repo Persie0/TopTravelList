@@ -1,0 +1,15 @@
+id: sight-mg-andohahela
+name: "Andohahela National Park"
+location:
+  country_code: MG
+  latitude: -24.752778
+  longitude: 46.785833
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.5
+  depth: 8.7
+  categories:
+    nature: 9.5
+    wildlife: 9.3

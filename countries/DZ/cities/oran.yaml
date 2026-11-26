@@ -1,0 +1,17 @@
+id: city-dz-oran
+name: "Oran"
+location:
+  country_code: DZ
+  latitude: 35.6971
+  longitude: -0.6308
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.4
+  experience: 8.5
+  depth: 8.4
+  categories:
+    architecture: 8.4
+    culture: 8.8
+    food: 8.3
+    history: 8.4

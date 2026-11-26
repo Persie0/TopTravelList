@@ -1,0 +1,15 @@
+id: sight-za-robben-island
+name: "Robben Island"
+location:
+  country_code: ZA
+  latitude: -33.806
+  longitude: 18.367
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.8
+  experience: 8.9
+  depth: 8.4
+  categories:
+    history: 9.8
+    culture: 9.5

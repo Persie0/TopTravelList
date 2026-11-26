@@ -1,0 +1,15 @@
+id: sight-eg-memphis
+name: "Memphis Archaeological Area (Mit Rahina)"
+location:
+  country_code: EG
+  latitude: 29.849
+  longitude: 31.254
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.4
+  experience: 8.0
+  depth: 7.8
+  categories:
+    history: 9.5
+    architecture: 8.5
