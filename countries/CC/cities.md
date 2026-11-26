@@ -2,7 +2,7 @@
 
 # Cocos (Keeling) Islands (CC) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Cocos (Keeling) Islands** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Bantam (Home Island)](cities/bantam.yaml) | City / town | **80.25** | **Culture 8.9**, **History 8.6**, **Food 8.2** | 7.5 / 8.7 / 8.4 / 8.0 / 7.2 | [-12.11764, 96.89642](https://www.google.com/maps/search/?api=1&query=-12.11764,96.89642) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bantam%20%28Home%20Island%29%2C%20Cocos%20%28Keeling%29%20Islands) |
+| 2 | [West Island settlement](cities/west-island-settlement.yaml) | City / town | **72.40** | **Culture 7.8**, **Food 7.6** | 6.8 / 7.7 / 7.3 / 7.5 / 6.9 | [-12.1924, 96.8305](https://www.google.com/maps/search/?api=1&query=-12.1924,96.8305) | [Google Maps](https://www.google.com/maps/search/?api=1&query=West%20Island%20settlement%2C%20Cocos%20%28Keeling%29%20Islands) |
 
 ---
 

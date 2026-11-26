@@ -2,7 +2,7 @@
 
 # Mayotte (YT) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Mayotte** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Dzaoudzi (historic town)](cities/dzaoudzi.yaml) | Town | **77.60** | **History 8.5**, **Architecture 8.2** | 7.6 / 8.1 / 8.3 / 7.3 / 7.0 | [-12.7783, 45.256](https://www.google.com/maps/search/?api=1&query=-12.7783,45.256) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dzaoudzi%20%28historic%20town%29%2C%20Mayotte) |
+| 2 | [Mamoudzou](cities/mamoudzou.yaml) | City / town | **74.40** | **Food 8.2**, **Culture 8.1** | 7.1 / 7.6 / 7.7 / 7.6 / 7.3 | [-12.78056, 45.22778](https://www.google.com/maps/search/?api=1&query=-12.78056,45.22778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mamoudzou%2C%20Mayotte) |
 
 ---
 

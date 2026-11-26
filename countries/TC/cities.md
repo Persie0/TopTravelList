@@ -2,7 +2,7 @@
 
 # Turks and Caicos Islands (TC) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**3 ranked** · **0 unassessed** · **3 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (3)
 
-No cities, towns & villages have been assessed for **Turks and Caicos Islands** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Cockburn Town (Grand Turk)](cities/cockburn-town.yaml) | Town | **80.40** | **History 8.7**, **Architecture 8.3**, **Culture 8.3** | 7.9 / 8.2 / 8.3 / 8.0 / 7.6 | [21.461, -71.138](https://www.google.com/maps/search/?api=1&query=21.461,-71.138) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cockburn%20Town%20%28Grand%20Turk%29%2C%20Turks%20and%20Caicos%20Islands) |
+| 2 | [Balfour Town (Salt Cay)](cities/balfour-town.yaml) | Town | **77.30** | **History 8.4**, **Culture 8.2** | 7.6 / 8.2 / 8.0 / 7.4 / 6.9 | [21.325, -71.213](https://www.google.com/maps/search/?api=1&query=21.325,-71.213) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Balfour%20Town%20%28Salt%20Cay%29%2C%20Turks%20and%20Caicos%20Islands) |
+| 3 | [Cockburn Harbour (South Caicos)](cities/cockburn-harbour.yaml) | City / town | **76.35** | **Culture 8.2**, **History 8.1**, **Food 7.9** | 7.5 / 8.0 / 7.8 / 7.5 / 7.0 | [21.491, -71.533](https://www.google.com/maps/search/?api=1&query=21.491,-71.533) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cockburn%20Harbour%20%28South%20Caicos%29%2C%20Turks%20and%20Caicos%20Islands) |
 
 ---
 

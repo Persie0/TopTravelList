@@ -2,7 +2,7 @@
 
 # Bonaire, Sint Eustatius and Saba (BQ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**5 ranked** · **0 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (5)
 
-No cities, towns & villages have been assessed for **Bonaire, Sint Eustatius and Saba** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Oranjestad (Sint Eustatius)](cities/oranjestad-statia.yaml) | City / town | **83.00** | **History 9.0**, **Architecture 8.5**, **Culture 8.4** | 8.0 / 8.5 / 8.9 / 8.1 / 7.8 | [17.483, -62.983](https://www.google.com/maps/search/?api=1&query=17.483,-62.983) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oranjestad%20%28Sint%20Eustatius%29%2C%20Bonaire%2C%20Sint%20Eustatius%20and%20Saba) |
+| 2 | [Windwardside (Saba)](cities/windwardside.yaml) | City / town | **80.20** | **Photography 8.5**, **Architecture 8.4**, **Culture 8.3** | 8.2 / 8.4 / 7.6 / 8.0 / 7.4 | [17.628, -63.231](https://www.google.com/maps/search/?api=1&query=17.628,-63.231) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Windwardside%20%28Saba%29%2C%20Bonaire%2C%20Sint%20Eustatius%20and%20Saba) |
+| 3 | [Rincon (Bonaire)](cities/rincon.yaml) | City / town | **77.95** | **Culture 8.6**, **History 8.5** | 7.4 / 8.2 / 8.2 / 7.7 / 7.3 | [12.238, -68.331](https://www.google.com/maps/search/?api=1&query=12.238,-68.331) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rincon%20%28Bonaire%29%2C%20Bonaire%2C%20Sint%20Eustatius%20and%20Saba) |
+| 4 | [Kralendijk (Bonaire)](cities/kralendijk.yaml) | City / town | **77.90** | **Culture 8.2**, **Food 8.2**, **Architecture 8.0** | 7.7 / 7.9 / 7.7 / 8.1 / 7.5 | [12.151, -68.276](https://www.google.com/maps/search/?api=1&query=12.151,-68.276) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kralendijk%20%28Bonaire%29%2C%20Bonaire%2C%20Sint%20Eustatius%20and%20Saba) |
+| 5 | [The Bottom (Saba)](cities/the-bottom.yaml) | City / town | **77.55** | **Culture 8.1**, **Photography 8.1**, **Architecture 8.0** | 7.8 / 8.1 / 7.7 / 7.6 / 7.1 | [17.626, -63.249](https://www.google.com/maps/search/?api=1&query=17.626,-63.249) | [Google Maps](https://www.google.com/maps/search/?api=1&query=The%20Bottom%20%28Saba%29%2C%20Bonaire%2C%20Sint%20Eustatius%20and%20Saba) |
 
 ---
 

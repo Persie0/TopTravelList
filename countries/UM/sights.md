@@ -2,7 +2,7 @@
 
 # United States Minor Outlying Islands (UM) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**1 ranked** · **8 unassessed** · **9 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,26 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (1)
 
-No sights & attractions have been assessed for **United States Minor Outlying Islands** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Palmyra Atoll (permitted recreational refuge visit)](sights/palmyra-atoll.yaml) | Attraction | **88.70** | **Nature 9.3**, **Wildlife 9.3**, **Photography 9.1**, Adventure 8.7 | 9.0 / 9.2 / 9.2 / 8.2 / 8.0 | [5.883, -162.083](https://www.google.com/maps/search/?api=1&query=5.883,-162.083) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Palmyra%20Atoll%20%28permitted%20recreational%20refuge%20visit%29%2C%20United%20States%20Minor%20Outlying%20Islands) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (8)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Baker Island National Wildlife Refuge](sights/baker-island.yaml) | Island | **—** | **Wildlife 8.8**, **Nature 8.7**, **History 8.1** | — / 8.5 / 8.7 / — / — | [0.193, -176.476](https://www.google.com/maps/search/?api=1&query=0.193,-176.476) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baker%20Island%20National%20Wildlife%20Refuge%2C%20United%20States%20Minor%20Outlying%20Islands) |
+| — | [Howland Island National Wildlife Refuge](sights/howland-island.yaml) | Island | **—** | **Wildlife 8.9**, **History 8.8**, **Nature 8.8** | — / 8.7 / 8.9 / — / — | [0.807, -176.618](https://www.google.com/maps/search/?api=1&query=0.807,-176.618) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Howland%20Island%20National%20Wildlife%20Refuge%2C%20United%20States%20Minor%20Outlying%20Islands) |
+| — | [Jarvis Island National Wildlife Refuge](sights/jarvis-island.yaml) | Island | **—** | **Nature 9.0**, **Wildlife 9.0**, **History 8.0** | — / 8.8 / 8.9 / — / — | [-0.374, -160.003](https://www.google.com/maps/search/?api=1&query=-0.374,-160.003) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jarvis%20Island%20National%20Wildlife%20Refuge%2C%20United%20States%20Minor%20Outlying%20Islands) |
+| — | [Johnston Atoll National Wildlife Refuge](sights/johnston-atoll.yaml) | Attraction | **—** | **Wildlife 9.0**, **Nature 8.7** | — / 8.5 / 8.9 / — / — | [16.729, -169.533](https://www.google.com/maps/search/?api=1&query=16.729,-169.533) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Johnston%20Atoll%20National%20Wildlife%20Refuge%2C%20United%20States%20Minor%20Outlying%20Islands) |
+| — | [Kingman Reef National Wildlife Refuge](sights/kingman-reef.yaml) | Attraction | **—** | **Nature 9.4**, **Wildlife 9.4** | — / 9.3 / 9.2 / — / — | [6.4, -162.4](https://www.google.com/maps/search/?api=1&query=6.4,-162.4) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kingman%20Reef%20National%20Wildlife%20Refuge%2C%20United%20States%20Minor%20Outlying%20Islands) |
+| — | [Midway Atoll National Wildlife Refuge and Battle of Midway National Memorial](sights/midway-atoll.yaml) | Museum / heritage | **—** | **History 9.4**, **Wildlife 9.4**, **Nature 9.2** | — / 9.3 / 9.4 / — / — | [28.217, -177.367](https://www.google.com/maps/search/?api=1&query=28.217,-177.367) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Midway%20Atoll%20National%20Wildlife%20Refuge%20and%20Battle%20of%20Midway%20National%20Memorial%2C%20United%20States%20Minor%20Outlying%20Islands) |
+| — | [Navassa Island National Wildlife Refuge](sights/navassa-island.yaml) | Island | **—** | **Wildlife 9.0**, **Nature 8.9** | — / 8.7 / 8.9 / — / — | [18.4, -75.017](https://www.google.com/maps/search/?api=1&query=18.4,-75.017) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Navassa%20Island%20National%20Wildlife%20Refuge%2C%20United%20States%20Minor%20Outlying%20Islands) |
+| — | [Wake Atoll (restricted natural heritage)](sights/wake-atoll.yaml) | Attraction | **—** | **Nature 8.9**, **Wildlife 8.9** | — / 8.6 / 8.9 / — / — | [19.29, 166.62](https://www.google.com/maps/search/?api=1&query=19.29,166.62) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Wake%20Atoll%20%28restricted%20natural%20heritage%29%2C%20United%20States%20Minor%20Outlying%20Islands) |
 
 ---
 

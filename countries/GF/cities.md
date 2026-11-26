@@ -2,7 +2,7 @@
 
 # French Guiana (GF) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **0 unassessed** · **4 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **French Guiana** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Saint-Laurent-du-Maroni](cities/saint-laurent-du-maroni.yaml) | City / town | **81.70** | **History 8.8**, **Culture 8.6**, **Architecture 8.2** | 7.9 / 8.4 / 8.6 / 8.0 / 7.8 | [5.504, -54.028](https://www.google.com/maps/search/?api=1&query=5.504,-54.028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Laurent-du-Maroni%2C%20French%20Guiana) |
+| 2 | [Cayenne](cities/cayenne.yaml) | City / town | **78.85** | **Culture 8.5**, **Food 8.3**, **History 8.3** | 7.6 / 8.1 / 8.0 / 8.0 / 7.8 | [4.938, -52.335](https://www.google.com/maps/search/?api=1&query=4.938,-52.335) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cayenne%2C%20French%20Guiana) |
+| 3 | [Saül](cities/saul.yaml) | City / town | **76.45** | **Culture 7.9**, **Relaxation 7.8** | 7.2 / 8.8 / 7.4 / 7.5 / 6.8 | [3.622, -53.208](https://www.google.com/maps/search/?api=1&query=3.622,-53.208) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sa%C3%BCl%2C%20French%20Guiana) |
+| 4 | [Kourou](cities/kourou.yaml) | City / town | **72.80** | **Culture 7.8**, **Relaxation 7.6** | 7.0 / 7.5 / 7.3 / 7.5 / 7.2 | [5.158, -52.643](https://www.google.com/maps/search/?api=1&query=5.158,-52.643) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kourou%2C%20French%20Guiana) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Northern Mariana Islands (MP) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **3 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,32 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No sights & attractions have been assessed for **Northern Mariana Islands** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Marpi WWII memorial landscape](sights/marpi-memorials.yaml) | Museum / heritage | **87.45** | **History 9.4**, **Culture 8.8**, **Photography 8.7** | 8.8 / 8.8 / 9.3 / 8.1 / 8.3 | [15.279, 145.802](https://www.google.com/maps/search/?api=1&query=15.279,145.802) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marpi%20WWII%20memorial%20landscape%2C%20Northern%20Mariana%20Islands) |
+| 2 | [Saipan Grotto (authorized cavern diving and viewpoint)](sights/grotto.yaml) | Cave | **85.85** | **Adventure 9.0**, **Photography 9.0**, **Nature 8.9** | 8.9 / 9.0 / 8.3 / 8.3 / 7.6 | [15.256, 145.817](https://www.google.com/maps/search/?api=1&query=15.256,145.817) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saipan%20Grotto%20%28authorized%20cavern%20diving%20and%20viewpoint%29%2C%20Northern%20Mariana%20Islands) |
+| 3 | [Mañagaha Island beach and marine conservation area](sights/managaha.yaml) | Beach / bay | **85.80** | **Beaches 9.2**, **Photography 9.0**, **Nature 8.8**, Relaxation 8.8 | 9.0 / 8.3 / 8.5 / 8.7 / 8.0 | [15.241, 145.713](https://www.google.com/maps/search/?api=1&query=15.241,145.713) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ma%C3%B1agaha%20Island%20beach%20and%20marine%20conservation%20area%2C%20Northern%20Mariana%20Islands) |
+| 4 | [IʻChenchon Bird Sanctuary (Rota)](sights/rota-bird-sanctuary.yaml) | Park / reserve | **85.60** | **Nature 9.0**, **Wildlife 9.0**, **Photography 8.9** | 8.8 / 8.7 / 8.8 / 8.1 / 7.7 | [14.159, 145.258](https://www.google.com/maps/search/?api=1&query=14.159,145.258) | [Google Maps](https://www.google.com/maps/search/?api=1&query=I%CA%BBChenchon%20Bird%20Sanctuary%20%28Rota%29%2C%20Northern%20Mariana%20Islands) |
+| 5 | [As Nieves Latte Stone Quarry (Rota)](sights/as-nieves-quarry.yaml) | Attraction | **85.25** | **Culture 9.2**, **History 9.2**, **Architecture 8.6** | 8.3 / 9.0 / 9.0 / 8.1 / 7.7 | [14.177, 145.225](https://www.google.com/maps/search/?api=1&query=14.177,145.225) | [Google Maps](https://www.google.com/maps/search/?api=1&query=As%20Nieves%20Latte%20Stone%20Quarry%20%28Rota%29%2C%20Northern%20Mariana%20Islands) |
+| 6 | [Bird Island Overlook (Saipan)](sights/bird-island.yaml) | Island | **84.05** | **Photography 9.0**, **Nature 8.8**, **Wildlife 8.6** | 8.8 / 8.4 / 8.4 / 8.3 / 7.4 | [15.258, 145.81](https://www.google.com/maps/search/?api=1&query=15.258,145.81) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bird%20Island%20Overlook%20%28Saipan%29%2C%20Northern%20Mariana%20Islands) |
+| 7 | [House of Taga (Tinian)](sights/house-of-taga.yaml) | Attraction | **83.50** | **History 9.2**, **Culture 9.1**, **Architecture 8.6** | 8.0 / 8.8 / 9.0 / 8.0 / 7.5 | [14.966, 145.624](https://www.google.com/maps/search/?api=1&query=14.966,145.624) | [Google Maps](https://www.google.com/maps/search/?api=1&query=House%20of%20Taga%20%28Tinian%29%2C%20Northern%20Mariana%20Islands) |
+| 8 | [American Memorial Park (Saipan)](sights/american-memorial-park.yaml) | Museum / heritage | **82.85** | **History 9.2**, **Culture 8.6**, **Relaxation 8.1** | 7.8 / 8.3 / 9.0 / 8.4 / 8.1 | [15.216, 145.719](https://www.google.com/maps/search/?api=1&query=15.216,145.719) | [Google Maps](https://www.google.com/maps/search/?api=1&query=American%20Memorial%20Park%20%28Saipan%29%2C%20Northern%20Mariana%20Islands) |
+| 9 | [Northern Mariana Islands Museum of History and Culture](sights/cnmi-museum.yaml) | Museum / heritage | **80.90** | **History 9.0**, **Culture 8.9** | 7.5 / 8.4 / 8.8 / 8.0 / 7.8 | [15.205, 145.72](https://www.google.com/maps/search/?api=1&query=15.205,145.72) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Northern%20Mariana%20Islands%20Museum%20of%20History%20and%20Culture%2C%20Northern%20Mariana%20Islands) |
+| 10 | [Mount Tapochau viewpoint](sights/tapochau.yaml) | Mountain / peak | **80.65** | **Photography 8.9**, **Nature 8.4** | 8.7 / 8.0 / 7.6 / 8.1 / 7.2 | [15.184, 145.744](https://www.google.com/maps/search/?api=1&query=15.184,145.744) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Tapochau%20viewpoint%2C%20Northern%20Mariana%20Islands) |
+| 11 | [Rota Swimming Hole](sights/rota-swimming-hole.yaml) | Attraction | **80.20** | **Photography 8.7**, **Nature 8.5**, **Relaxation 8.3** | 8.5 / 8.3 / 7.4 / 8.1 / 7.0 | [14.168, 145.183](https://www.google.com/maps/search/?api=1&query=14.168,145.183) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rota%20Swimming%20Hole%2C%20Northern%20Mariana%20Islands) |
+| 12 | [Taga Beach (Tinian)](sights/taga-beach.yaml) | Beach / bay | **79.85** | **Beaches 8.8**, **Photography 8.8**, **Relaxation 8.2** | 8.6 / 8.0 / 7.4 / 8.1 / 7.1 | [14.961, 145.625](https://www.google.com/maps/search/?api=1&query=14.961,145.625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Taga%20Beach%20%28Tinian%29%2C%20Northern%20Mariana%20Islands) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Mariana Trench Marine National Monument (remote marine heritage)](sights/mariana-trench.yaml) | Attraction | **—** | **Nature 9.6** | — / 9.7 / 9.6 / — / — | [20, 145](https://www.google.com/maps/search/?api=1&query=20,145) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mariana%20Trench%20Marine%20National%20Monument%20%28remote%20marine%20heritage%29%2C%20Northern%20Mariana%20Islands) |
+| — | [Northern Mariana volcanic islands (Anatahan–Agrihan arc sector)](sights/northern-volcanic-islands.yaml) | Island | **—** | **Nature 9.2** | — / 9.1 / 9.0 / — / — | [17.1, 145.8](https://www.google.com/maps/search/?api=1&query=17.1,145.8) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Northern%20Mariana%20volcanic%20islands%20%28Anatahan%E2%80%93Agrihan%20arc%20sector%29%2C%20Northern%20Mariana%20Islands) |
+| — | [Pagan Island (volcanic heritage)](sights/pagan.yaml) | Island | **—** | **Nature 9.1** | — / 9.1 / 9.0 / — / — | [18.1, 145.77](https://www.google.com/maps/search/?api=1&query=18.1,145.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pagan%20Island%20%28volcanic%20heritage%29%2C%20Northern%20Mariana%20Islands) |
 
 ---
 

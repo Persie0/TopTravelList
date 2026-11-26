@@ -2,7 +2,7 @@
 
 # Cook Islands (CK) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**14 ranked** · **4 unassessed** · **18 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,35 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (14)
 
-No sights & attractions have been assessed for **Cook Islands** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Aitutaki Lagoon and permitted motu cruise circuit](sights/aitutaki-lagoon.yaml) | Beach / bay | **91.10** | **Beaches 9.4**, **Photography 9.4**, **Nature 9.2**, Relaxation 9.2 | 9.4 / 9.1 / 8.6 / 9.3 / 9.0 | [-18.91, -159.76](https://www.google.com/maps/search/?api=1&query=-18.91,-159.76) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aitutaki%20Lagoon%20and%20permitted%20motu%20cruise%20circuit%2C%20Cook%20Islands) |
+| 2 | [Anatakitaki Cave and kopeka habitat (Atiu)](sights/anatakitaki-cave.yaml) | Cave | **88.60** | **Wildlife 9.2**, **Nature 9.0**, **Adventure 8.8** | 8.8 / 9.3 / 8.9 / 8.5 / 8.4 | [-19.99, -158.11](https://www.google.com/maps/search/?api=1&query=-19.99,-158.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anatakitaki%20Cave%20and%20kopeka%20habitat%20%28Atiu%29%2C%20Cook%20Islands) |
+| 3 | [Manihiki lagoon and black-pearl farming landscape](sights/manihiki-lagoon.yaml) | Beach / bay | **86.70** | **Culture 8.8**, **Photography 8.8**, **Nature 8.7** | 8.8 / 9.0 / 8.7 / 8.0 / 8.4 | [-10.42, -161](https://www.google.com/maps/search/?api=1&query=-10.42,-161) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manihiki%20lagoon%20and%20black-pearl%20farming%20landscape%2C%20Cook%20Islands) |
+| 4 | [Takitumu Conservation Area](sights/takitumu.yaml) | Attraction | **86.55** | **Wildlife 9.2**, **Nature 9.0** | 8.3 / 9.1 / 9.2 / 8.2 / 8.2 | [-21.257, -159.77](https://www.google.com/maps/search/?api=1&query=-21.257,-159.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Takitumu%20Conservation%20Area%2C%20Cook%20Islands) |
+| 5 | [Te Rua Manga (The Needle) and Cross Island Trek](sights/cross-island-trek.yaml) | Island | **85.70** | **Adventure 9.0**, **Photography 8.9**, **Nature 8.8** | 8.9 / 8.6 / 8.1 / 8.6 / 8.4 | [-21.239, -159.778](https://www.google.com/maps/search/?api=1&query=-21.239,-159.778) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Te%20Rua%20Manga%20%28The%20Needle%29%20and%20Cross%20Island%20Trek%2C%20Cook%20Islands) |
+| 6 | [Mangaia makatea cave heritage (authorized guided sites)](sights/mangaia-caves.yaml) | Cave | **84.45** | **Nature 8.7**, **History 8.5**, **Adventure 8.4** | 8.4 / 8.7 / 8.6 / 8.0 / 8.3 | [-21.92, -157.93](https://www.google.com/maps/search/?api=1&query=-21.92,-157.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mangaia%20makatea%20cave%20heritage%20%28authorized%20guided%20sites%29%2C%20Cook%20Islands) |
+| 7 | [Muri Beach and lagoon](sights/muri-lagoon.yaml) | Beach / bay | **84.25** | **Beaches 9.0**, **Relaxation 8.9**, **Photography 8.8**, Nature 8.5 | 8.9 / 8.2 / 7.8 / 8.9 / 8.1 | [-21.258, -159.731](https://www.google.com/maps/search/?api=1&query=-21.258,-159.731) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Muri%20Beach%20and%20lagoon%2C%20Cook%20Islands) |
+| 8 | [Arai-te-Tonga marae and royal court (Rarotonga)](sights/arai-te-tonga.yaml) | Attraction | **83.00** | **Culture 9.0**, **History 9.0** | 7.9 / 8.8 / 9.0 / 7.8 / 7.6 | [-21.215, -159.75](https://www.google.com/maps/search/?api=1&query=-21.215,-159.75) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arai-te-Tonga%20marae%20and%20royal%20court%20%28Rarotonga%29%2C%20Cook%20Islands) |
+| 9 | [Vai Nauri cave pool (Mitiaro)](sights/vai-nauri.yaml) | Cave | **82.80** | **Nature 8.7**, **Photography 8.6**, **Adventure 8.0** | 8.6 / 8.7 / 7.9 / 8.1 / 7.3 | [-19.87, -157.7](https://www.google.com/maps/search/?api=1&query=-19.87,-157.7) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vai%20Nauri%20cave%20pool%20%28Mitiaro%29%2C%20Cook%20Islands) |
+| 10 | [Mauke makatea freshwater caves (Moti and authorized cave visits)](sights/mauke-caves.yaml) | Cave | **82.20** | **Nature 8.5**, **Adventure 8.4** | 8.3 / 8.6 / 7.9 / 8.0 / 8.0 | [-20.16, -157.35](https://www.google.com/maps/search/?api=1&query=-20.16,-157.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mauke%20makatea%20freshwater%20caves%20%28Moti%20and%20authorized%20cave%20visits%29%2C%20Cook%20Islands) |
+| 11 | [Te Ara Museum of Cultural Enterprise](sights/te-ara.yaml) | Museum / heritage | **81.40** | **Culture 8.7**, **History 8.5** | 7.7 / 8.4 / 8.5 / 8.2 / 8.0 | [-21.258, -159.735](https://www.google.com/maps/search/?api=1&query=-21.258,-159.735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Te%20Ara%20Museum%20of%20Cultural%20Enterprise%2C%20Cook%20Islands) |
+| 12 | [Arutanga Cook Islands Christian Church](sights/arutanga-cicc.yaml) | Religious site | **81.30** | **History 8.7**, **Culture 8.6**, **Architecture 8.3** | 7.9 / 8.4 / 8.7 / 8.0 / 7.2 | [-18.863, -159.793](https://www.google.com/maps/search/?api=1&query=-18.863,-159.793) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arutanga%20Cook%20Islands%20Christian%20Church%2C%20Cook%20Islands) |
+| 13 | [Punanga Nui Market (Avarua)](sights/punanga-nui.yaml) | Market | **80.50** | **Food 8.8**, **Culture 8.7** | 7.7 / 8.0 / 8.2 / 8.8 / 7.8 | [-21.204, -159.785](https://www.google.com/maps/search/?api=1&query=-21.204,-159.785) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Punanga%20Nui%20Market%20%28Avarua%29%2C%20Cook%20Islands) |
+| 14 | [Cook Islands National Museum (Avarua)](sights/national-museum.yaml) | Museum / heritage | **79.60** | **Culture 8.6**, **History 8.6** | 7.5 / 8.1 / 8.6 / 7.9 / 7.8 | [-21.209, -159.77](https://www.google.com/maps/search/?api=1&query=-21.209,-159.77) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cook%20Islands%20National%20Museum%20%28Avarua%29%2C%20Cook%20Islands) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (4)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Manuae Atoll (restricted conservation landscape)](sights/manuae.yaml) | Coast | **—** | **Nature 8.9**, **Wildlife 8.8** | — / 8.6 / 8.8 / — / — | [-19.27, -158.95](https://www.google.com/maps/search/?api=1&query=-19.27,-158.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Manuae%20Atoll%20%28restricted%20conservation%20landscape%29%2C%20Cook%20Islands) |
+| — | [Penrhyn (Tongareva) lagoon heritage](sights/penrhyn.yaml) | Beach / bay | **—** | **Nature 8.9**, **Culture 8.6** | — / 8.9 / 8.7 / — / — | [-9, -158](https://www.google.com/maps/search/?api=1&query=-9,-158) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Penrhyn%20%28Tongareva%29%20lagoon%20heritage%2C%20Cook%20Islands) |
+| — | [Suwarrow National Park (seasonal yacht access)](sights/suwarrow.yaml) | Park / reserve | **—** | **Nature 9.1**, **Wildlife 9.1** | — / 9.0 / 9.1 / — / — | [-13.25, -163.1](https://www.google.com/maps/search/?api=1&query=-13.25,-163.1) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Suwarrow%20National%20Park%20%28seasonal%20yacht%20access%29%2C%20Cook%20Islands) |
+| — | [Takutea Wildlife Sanctuary](sights/takutea.yaml) | Park / reserve | **—** | **Wildlife 9.2**, **Nature 8.9** | — / 8.8 / 9.1 / — / — | [-19.82, -158.3](https://www.google.com/maps/search/?api=1&query=-19.82,-158.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Takutea%20Wildlife%20Sanctuary%2C%20Cook%20Islands) |
 
 ---
 

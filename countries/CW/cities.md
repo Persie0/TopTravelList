@@ -2,7 +2,7 @@
 
 # Curaçao (CW) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Curaçao** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Willemstad](cities/willemstad.yaml) | City / town | **89.05** | **Architecture 9.2**, **Culture 9.1**, **History 9.0**, Food 8.7 | 8.8 / 9.0 / 9.0 / 8.9 / 8.8 | [12.107, -68.935](https://www.google.com/maps/search/?api=1&query=12.107,-68.935) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Willemstad%2C%20Cura%C3%A7ao) |
+| 2 | [Sabana Westpunt](cities/westpunt.yaml) | City / town | **74.35** | **Relaxation 8.0**, **Food 7.9**, **Culture 7.8** | 7.5 / 7.8 / 7.0 / 7.7 / 6.8 | [12.368, -69.154](https://www.google.com/maps/search/?api=1&query=12.368,-69.154) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sabana%20Westpunt%2C%20Cura%C3%A7ao) |
 
 ---
 

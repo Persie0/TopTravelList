@@ -2,7 +2,7 @@
 
 # Falkland Islands (Malvinas) (FK) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**3 ranked** · **0 unassessed** · **3 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (3)
 
-No cities, towns & villages have been assessed for **Falkland Islands (Malvinas)** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Stanley](cities/stanley.yaml) | City / town | **82.75** | **History 8.7**, **Culture 8.6**, **Architecture 8.2** | 8.0 / 8.6 / 8.4 / 8.3 / 8.0 | [-51.697, -57.851](https://www.google.com/maps/search/?api=1&query=-51.697,-57.851) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Stanley%2C%20Falkland%20Islands%20%28Malvinas%29) |
+| 2 | [Port Howard](cities/port-howard.yaml) | City / town | **76.90** | **Culture 8.2**, **Photography 8.2**, **History 8.1** | 7.7 / 8.1 / 7.7 / 7.5 / 6.9 | [-51.614, -59.521](https://www.google.com/maps/search/?api=1&query=-51.614,-59.521) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Howard%2C%20Falkland%20Islands%20%28Malvinas%29) |
+| 3 | [Goose Green](cities/goose-green.yaml) | City / town | **76.15** | **History 8.6**, **Culture 8.0** | 7.1 / 8.0 / 8.3 / 7.5 / 7.0 | [-51.827, -58.968](https://www.google.com/maps/search/?api=1&query=-51.827,-58.968) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Goose%20Green%2C%20Falkland%20Islands%20%28Malvinas%29) |
 
 ---
 

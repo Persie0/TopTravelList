@@ -2,7 +2,7 @@
 
 # Bouvet Island (BV) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**0 ranked** · **1 unassessed** · **1 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -15,6 +15,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 No sights & attractions have been assessed for **Bouvet Island** yet.
 
 Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Bouvet Island (Mid-Atlantic Ridge tentative component)](sights/bouvet.yaml) | Island | **—** | **Nature 9.3** | — / 9.4 / 9.0 / — / — | [-54.4167, 3.3333](https://www.google.com/maps/search/?api=1&query=-54.4167,3.3333) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bouvet%20Island%20%28Mid-Atlantic%20Ridge%20tentative%20component%29%2C%20Bouvet%20Island) |
 
 ---
 

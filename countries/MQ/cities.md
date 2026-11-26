@@ -2,7 +2,7 @@
 
 # Martinique (MQ) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **0 unassessed** · **4 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **Martinique** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Saint-Pierre](cities/saint-pierre.yaml) | City / town | **83.95** | **History 9.0**, **Culture 8.5**, **Photography 8.4** | 8.2 / 8.6 / 8.9 / 8.1 / 7.9 | [14.744, -61.175](https://www.google.com/maps/search/?api=1&query=14.744,-61.175) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Pierre%2C%20Martinique) |
+| 2 | [Fort-de-France](cities/fort-de-france.yaml) | City / town | **79.55** | **Culture 8.5**, **Architecture 8.4**, **History 8.4** | 7.7 / 7.9 / 8.2 / 8.2 / 8.0 | [14.604, -61.071](https://www.google.com/maps/search/?api=1&query=14.604,-61.071) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort-de-France%2C%20Martinique) |
+| 3 | [Le Diamant (bourg)](cities/le-diamant.yaml) | City / town | **75.85** | **Relaxation 8.3**, **Photography 8.2**, **Culture 7.8** | 7.8 / 7.6 / 7.2 / 7.9 / 7.2 | [14.479, -61.026](https://www.google.com/maps/search/?api=1&query=14.479,-61.026) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Le%20Diamant%20%28bourg%29%2C%20Martinique) |
+| 4 | [Les Trois-Îlets (bourg)](cities/les-trois-ilets.yaml) | City / town | **74.55** | **Culture 8.0**, **Food 7.9**, **Relaxation 7.8** | 7.3 / 7.5 / 7.5 / 7.8 / 7.2 | [14.539, -61.034](https://www.google.com/maps/search/?api=1&query=14.539,-61.034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Les%20Trois-%C3%8Elets%20%28bourg%29%2C%20Martinique) |
 
 ---
 

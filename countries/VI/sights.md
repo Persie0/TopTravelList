@@ -2,7 +2,7 @@
 
 # Virgin Islands, U.S. (VI) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No sights & attractions have been assessed for **Virgin Islands, U.S.** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Virgin Islands National Park (Saint John)](sights/virgin-islands-national-park.yaml) | Park / reserve | **89.80** | **Beaches 9.2**, **Nature 9.2**, **Adventure 9.1**, History 8.8 | 9.1 / 8.8 / 8.9 / 9.0 / 9.2 | [18.342, -64.733](https://www.google.com/maps/search/?api=1&query=18.342,-64.733) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Virgin%20Islands%20National%20Park%20%28Saint%20John%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 2 | [Buck Island Reef National Monument (Saint Croix)](sights/buck-island-reef.yaml) | Island | **88.90** | **Adventure 9.1**, **Nature 9.0**, **Beaches 8.9**, Wildlife 8.9 | 8.9 / 8.9 / 9.1 / 8.7 / 8.7 | [17.787, -64.62](https://www.google.com/maps/search/?api=1&query=17.787,-64.62) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Buck%20Island%20Reef%20National%20Monument%20%28Saint%20Croix%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 3 | [Reef Bay Trail and Petroglyphs (Saint John)](sights/reef-bay-trail.yaml) | Beach / bay | **86.40** | **History 9.0**, **Adventure 8.8**, **Nature 8.8** | 8.5 / 8.7 / 8.8 / 8.7 / 8.5 | [18.337, -64.737](https://www.google.com/maps/search/?api=1&query=18.337,-64.737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Reef%20Bay%20Trail%20and%20Petroglyphs%20%28Saint%20John%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 4 | [Salt River Bay National Historical Park and Ecological Preserve (Saint Croix)](sights/salt-river-bay.yaml) | Beach / bay | **86.35** | **History 9.1**, **Nature 8.9**, **Wildlife 8.8** | 8.5 / 8.7 / 9.0 / 8.4 / 8.5 | [17.779, -64.758](https://www.google.com/maps/search/?api=1&query=17.779,-64.758) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salt%20River%20Bay%20National%20Historical%20Park%20and%20Ecological%20Preserve%20%28Saint%20Croix%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 5 | [Christiansted National Historic Site (Saint Croix)](sights/christiansted-historic-site.yaml) | Attraction | **85.85** | **History 9.2**, **Architecture 8.9**, **Culture 8.8** | 8.4 / 8.6 / 9.0 / 8.5 / 8.4 | [17.747, -64.703](https://www.google.com/maps/search/?api=1&query=17.747,-64.703) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Christiansted%20National%20Historic%20Site%20%28Saint%20Croix%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 6 | [Trunk Bay (Saint John)](sights/trunk-bay.yaml) | Beach / bay | **85.60** | **Beaches 9.4**, **Photography 9.2**, **Nature 8.8** | 9.2 / 8.5 / 7.7 / 8.9 / 8.0 | [18.353, -64.768](https://www.google.com/maps/search/?api=1&query=18.353,-64.768) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trunk%20Bay%20%28Saint%20John%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 7 | [Salt Pond Bay and Ram Head Trail (Saint John)](sights/ram-head.yaml) | Beach / bay | **84.45** | **Photography 9.0**, **Nature 8.9**, **Adventure 8.8** | 8.8 / 8.4 / 8.0 / 8.7 / 8.0 | [18.307, -64.705](https://www.google.com/maps/search/?api=1&query=18.307,-64.705) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salt%20Pond%20Bay%20and%20Ram%20Head%20Trail%20%28Saint%20John%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 8 | [Annaberg Sugar Plantation Ruins (Saint John)](sights/annaberg.yaml) | Museum / heritage | **84.25** | **History 9.1**, **Culture 8.8**, **Photography 8.6** | 8.2 / 8.5 / 8.9 / 8.4 / 8.0 | [18.363, -64.731](https://www.google.com/maps/search/?api=1&query=18.363,-64.731) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Annaberg%20Sugar%20Plantation%20Ruins%20%28Saint%20John%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 9 | [Fort Frederik (Saint Croix)](sights/fort-frederik.yaml) | Fortification | **83.90** | **History 9.3**, **Culture 8.7**, **Architecture 8.6** | 8.1 / 8.5 / 9.1 / 8.3 / 7.7 | [17.714, -64.883](https://www.google.com/maps/search/?api=1&query=17.714,-64.883) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Frederik%20%28Saint%20Croix%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 10 | [Magens Bay Beach (Saint Thomas)](sights/magens-bay.yaml) | Beach / bay | **82.95** | **Beaches 9.2**, **Photography 9.0**, **Relaxation 9.0** | 8.9 / 8.3 / 7.3 / 8.8 / 7.7 | [18.362, -64.928](https://www.google.com/maps/search/?api=1&query=18.362,-64.928) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Magens%20Bay%20Beach%20%28Saint%20Thomas%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 11 | [Fort Christian (Saint Thomas)](sights/fort-christian.yaml) | Fortification | **82.05** | **History 9.0**, **Architecture 8.7** | 8.0 / 8.3 / 8.7 / 8.2 / 7.6 | [18.34, -64.931](https://www.google.com/maps/search/?api=1&query=18.34,-64.931) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Christian%20%28Saint%20Thomas%29%2C%20Virgin%20Islands%2C%20U.S.) |
 
 ---
 

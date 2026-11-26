@@ -2,7 +2,7 @@
 
 # Pitcairn (PN) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**1 ranked** · **0 unassessed** · **1 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (1)
 
-No cities, towns & villages have been assessed for **Pitcairn** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Adamstown](cities/adamstown.yaml) | City / town | **81.55** | **Culture 8.8**, **History 8.6**, **Photography 8.2** | 7.8 / 9.1 / 8.4 / 7.8 / 6.9 | [-25.066, -130.101](https://www.google.com/maps/search/?api=1&query=-25.066,-130.101) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Adamstown%2C%20Pitcairn) |
 
 ---
 

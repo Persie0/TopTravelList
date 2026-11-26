@@ -2,7 +2,7 @@
 
 # Pitcairn (PN) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**7 ranked** · **3 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (7)
 
-No sights & attractions have been assessed for **Pitcairn** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Mata ki te Rangi (Pitcairn Island stargazing)](sights/dark-sky-pitcairn.yaml) | Island | **86.35** | **Photography 9.1**, **Nature 8.8** | 9.0 / 8.7 / 8.5 / 8.6 / 7.7 | [-25.073, -130.108](https://www.google.com/maps/search/?api=1&query=-25.073,-130.108) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mata%20ki%20te%20Rangi%20%28Pitcairn%20Island%20stargazing%29%2C%20Pitcairn) |
+| 2 | [Down Rope beach and Polynesian petroglyphs](sights/down-rope.yaml) | Beach / bay | **84.70** | **History 8.9**, **Photography 8.8**, **Nature 8.5**, Adventure 8.4 | 8.7 / 8.8 / 8.7 / 7.8 / 7.5 | [-25.08, -130.096](https://www.google.com/maps/search/?api=1&query=-25.08,-130.096) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Down%20Rope%20beach%20and%20Polynesian%20petroglyphs%2C%20Pitcairn) |
+| 3 | [Christian's Cave and Sailors Hide eco trail](sights/christians-cave.yaml) | Cave | **82.35** | **History 8.6**, **Photography 8.5**, **Adventure 8.3**, Nature 8.3 | 8.2 / 8.6 / 8.3 / 8.1 / 7.5 | [-25.065, -130.108](https://www.google.com/maps/search/?api=1&query=-25.065,-130.108) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Christian%27s%20Cave%20and%20Sailors%20Hide%20eco%20trail%2C%20Pitcairn) |
+| 4 | [Bounty Bay and Hill of Difficulty](sights/bounty-bay.yaml) | Beach / bay | **82.30** | **History 8.9**, **Photography 8.6** | 8.2 / 8.6 / 8.7 / 7.8 / 7.1 | [-25.065, -130.095](https://www.google.com/maps/search/?api=1&query=-25.065,-130.095) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bounty%20Bay%20and%20Hill%20of%20Difficulty%2C%20Pitcairn) |
+| 5 | [Pitcairn Island Museum](sights/pitcairn-museum.yaml) | Museum / heritage | **81.20** | **History 9.0**, **Culture 8.7** | 7.4 / 8.8 / 8.8 / 8.0 / 7.4 | [-25.066, -130.101](https://www.google.com/maps/search/?api=1&query=-25.066,-130.101) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pitcairn%20Island%20Museum%2C%20Pitcairn) |
+| 6 | [St Paul's Pool](sights/st-pauls-pool.yaml) | Attraction | **79.10** | **Photography 8.7**, **Nature 8.5**, **Relaxation 7.8** | 8.5 / 8.2 / 7.1 / 8.0 / 6.9 | [-25.075, -130.087](https://www.google.com/maps/search/?api=1&query=-25.075,-130.087) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Paul%27s%20Pool%2C%20Pitcairn) |
+| 7 | [John Adams' grave](sights/john-adams-grave.yaml) | Attraction | **73.80** | **History 8.6**, **Culture 7.8** | 6.8 / 8.0 / 8.3 / 7.2 / 6.0 | [-25.066, -130.103](https://www.google.com/maps/search/?api=1&query=-25.066,-130.103) | [Google Maps](https://www.google.com/maps/search/?api=1&query=John%20Adams%27%20grave%2C%20Pitcairn) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (3)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Ducie Atoll (restricted visitor scope)](sights/ducie-atoll.yaml) | Attraction | **—** | **Nature 9.0**, **Wildlife 9.0** | — / 8.9 / 8.8 / — / — | [-24.674, -124.79](https://www.google.com/maps/search/?api=1&query=-24.674,-124.79) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ducie%20Atoll%20%28restricted%20visitor%20scope%29%2C%20Pitcairn) |
+| — | [Henderson Island (UNESCO property)](sights/henderson-island.yaml) | Island | **—** | **Nature 9.4**, **Wildlife 9.4** | — / 9.3 / 9.4 / — / — | [-24.367, -128.317](https://www.google.com/maps/search/?api=1&query=-24.367,-128.317) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Henderson%20Island%20%28UNESCO%20property%29%2C%20Pitcairn) |
+| — | [Oeno Atoll (restricted visitor scope)](sights/oeno-atoll.yaml) | Attraction | **—** | **Nature 8.7**, **Wildlife 8.6** | — / 8.5 / 8.4 / — / — | [-23.925, -130.738](https://www.google.com/maps/search/?api=1&query=-23.925,-130.738) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oeno%20Atoll%20%28restricted%20visitor%20scope%29%2C%20Pitcairn) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Cayman Islands (KY) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Cayman Islands** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [George Town (Grand Cayman)](cities/george-town.yaml) | Town | **77.80** | **Food 8.3**, **Culture 8.2**, **History 8.1** | 7.7 / 7.7 / 7.8 / 8.1 / 7.7 | [19.296, -81.381](https://www.google.com/maps/search/?api=1&query=19.296,-81.381) | [Google Maps](https://www.google.com/maps/search/?api=1&query=George%20Town%20%28Grand%20Cayman%29%2C%20Cayman%20Islands) |
+| 2 | [Blossom Village (Little Cayman)](cities/blossom-village.yaml) | Village | **72.60** | **Relaxation 8.0**, **Culture 7.7** | 7.2 / 7.8 / 7.0 / 7.4 / 6.4 | [19.664, -80.089](https://www.google.com/maps/search/?api=1&query=19.664,-80.089) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blossom%20Village%20%28Little%20Cayman%29%2C%20Cayman%20Islands) |
 
 ---
 

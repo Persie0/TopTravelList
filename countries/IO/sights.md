@@ -2,7 +2,7 @@
 
 # British Indian Ocean Territory (Chagos Archipelago) (IO) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**0 ranked** · **5 unassessed** · **5 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -15,6 +15,18 @@ This is the **complete ranking for this country's available dataset**, using abs
 No sights & attractions have been assessed for **British Indian Ocean Territory (Chagos Archipelago)** yet.
 
 Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+
+## Not yet fully assessed (5)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Diego Garcia Atoll (restricted natural and cultural heritage)](sights/diego-garcia.yaml) | Attraction | **—** | **History 9.2**, **Nature 9.0**, **Wildlife 9.0** | — / 8.8 / 9.2 / — / — | [-7.35, 72.45](https://www.google.com/maps/search/?api=1&query=-7.35,72.45) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Diego%20Garcia%20Atoll%20%28restricted%20natural%20and%20cultural%20heritage%29%2C%20British%20Indian%20Ocean%20Territory%20%28Chagos%20Archipelago%29) |
+| — | [Egmont Atoll](sights/egmont-atoll.yaml) | Attraction | **—** | **Wildlife 9.1**, **Nature 9.0** | — / 8.8 / 9.0 / — / — | [-6.667, 71.35](https://www.google.com/maps/search/?api=1&query=-6.667,71.35) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Egmont%20Atoll%2C%20British%20Indian%20Ocean%20Territory%20%28Chagos%20Archipelago%29) |
+| — | [Great Chagos Bank](sights/great-chagos-bank.yaml) | Attraction | **—** | **Nature 9.4**, **Wildlife 9.3** | — / 9.5 / 9.4 / — / — | [-6.217, 72.083](https://www.google.com/maps/search/?api=1&query=-6.217,72.083) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Chagos%20Bank%2C%20British%20Indian%20Ocean%20Territory%20%28Chagos%20Archipelago%29) |
+| — | [Peros Banhos Atoll](sights/peros-banhos.yaml) | Attraction | **—** | **History 9.0**, **Nature 8.9**, **Wildlife 8.9** | — / 8.9 / 9.1 / — / — | [-5.333, 71.85](https://www.google.com/maps/search/?api=1&query=-5.333,71.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Peros%20Banhos%20Atoll%2C%20British%20Indian%20Ocean%20Territory%20%28Chagos%20Archipelago%29) |
+| — | [Salomon Atoll](sights/salomon-atoll.yaml) | Attraction | **—** | **Nature 9.0**, **Wildlife 9.0**, **History 8.8** | — / 8.9 / 9.0 / — / — | [-5.367, 72.217](https://www.google.com/maps/search/?api=1&query=-5.367,72.217) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salomon%20Atoll%2C%20British%20Indian%20Ocean%20Territory%20%28Chagos%20Archipelago%29) |
 
 ---
 

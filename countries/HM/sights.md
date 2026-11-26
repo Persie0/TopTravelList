@@ -2,7 +2,7 @@
 
 # Heard Island and McDonald Islands (HM) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**0 ranked** · **1 unassessed** · **1 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -15,6 +15,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 No sights & attractions have been assessed for **Heard Island and McDonald Islands** yet.
 
 Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Heard and McDonald Islands](sights/heard-mcdonald-islands.yaml) | Island | **—** | **Nature 9.2**, **Wildlife 9.1** | 8.9 / 9.3 / 9.2 / — / — | [-53.1, 73.5](https://www.google.com/maps/search/?api=1&query=-53.1,73.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Heard%20and%20McDonald%20Islands%2C%20Heard%20Island%20and%20McDonald%20Islands) |
 
 ---
 

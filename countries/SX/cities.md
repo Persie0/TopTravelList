@@ -2,7 +2,7 @@
 
 # Sint Maarten (Dutch part) (SX) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Sint Maarten (Dutch part)** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Philipsburg](cities/philipsburg.yaml) | City / town | **79.25** | **History 8.4**, **Culture 8.3**, **Food 8.3** | 7.8 / 7.8 / 8.0 / 8.3 / 7.9 | [18.025, -63.045](https://www.google.com/maps/search/?api=1&query=18.025,-63.045) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Philipsburg%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
+| 2 | [Simpson Bay (village)](cities/simpson-bay.yaml) | Village | **74.45** | **Food 8.5**, **Nightlife 8.3**, **Culture 7.9** | 7.3 / 7.6 / 7.0 / 8.1 / 7.4 | [18.041, -63.108](https://www.google.com/maps/search/?api=1&query=18.041,-63.108) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Simpson%20Bay%20%28village%29%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
 
 ---
 

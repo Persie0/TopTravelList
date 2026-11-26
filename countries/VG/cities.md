@@ -2,7 +2,7 @@
 
 # Virgin Islands, British (VG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**3 ranked** · **0 unassessed** · **3 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (3)
 
-No cities, towns & villages have been assessed for **Virgin Islands, British** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Road Town (Tortola)](cities/road-town.yaml) | Town | **76.85** | **Food 8.2**, **History 8.2**, **Culture 8.1** | 7.5 / 7.7 / 7.8 / 8.0 / 7.5 | [18.427, -64.62](https://www.google.com/maps/search/?api=1&query=18.427,-64.62) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Road%20Town%20%28Tortola%29%2C%20Virgin%20Islands%2C%20British) |
+| 2 | [Spanish Town (Virgin Gorda)](cities/spanish-town.yaml) | Town | **74.00** | **Culture 7.9**, **Food 7.9**, **History 7.8** | 7.3 / 7.6 / 7.4 / 7.6 / 6.9 | [18.45, -64.438](https://www.google.com/maps/search/?api=1&query=18.45,-64.438) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spanish%20Town%20%28Virgin%20Gorda%29%2C%20Virgin%20Islands%2C%20British) |
+| 3 | [The Settlement (Anegada)](cities/the-settlement.yaml) | City / town | **72.80** | **Culture 7.9**, **Relaxation 7.8** | 7.0 / 8.0 / 7.3 / 7.2 / 6.4 | [18.723, -64.314](https://www.google.com/maps/search/?api=1&query=18.723,-64.314) | [Google Maps](https://www.google.com/maps/search/?api=1&query=The%20Settlement%20%28Anegada%29%2C%20Virgin%20Islands%2C%20British) |
 
 ---
 

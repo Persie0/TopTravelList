@@ -2,7 +2,7 @@
 
 # Montserrat (MS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Montserrat** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Little Bay](cities/little-bay.yaml) | City / town | **76.00** | **Culture 8.2**, **Food 8.0**, **Relaxation 7.9** | 7.5 / 7.6 / 7.6 / 8.0 / 7.3 | [16.806, -62.205](https://www.google.com/maps/search/?api=1&query=16.806,-62.205) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Little%20Bay%2C%20Montserrat) |
+| 2 | [Brades](cities/brades.yaml) | City / town | **71.15** | **History 7.7**, **Culture 7.6** | 6.8 / 7.3 / 7.7 / 7.0 / 6.6 | [16.792, -62.211](https://www.google.com/maps/search/?api=1&query=16.792,-62.211) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Brades%2C%20Montserrat) |
 
 ---
 

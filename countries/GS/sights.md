@@ -2,7 +2,7 @@
 
 # South Georgia and the South Sandwich Islands (GS) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,27 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (9)
 
-No sights & attractions have been assessed for **South Georgia and the South Sandwich Islands** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [St Andrews Bay (authorized wildlife viewing)](sights/st-andrews-bay.yaml) | Beach / bay | **92.75** | **Nature 9.4**, **Photography 9.4**, **Wildlife 9.4** | 9.4 / 9.4 / 9.3 / 9.1 / 8.8 | [-54.436, -36.181](https://www.google.com/maps/search/?api=1&query=-54.436,-36.181) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Andrews%20Bay%20%28authorized%20wildlife%20viewing%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 2 | [Salisbury Plain (authorized wildlife viewing)](sights/salisbury-plain.yaml) | Attraction | **92.20** | **Photography 9.4**, **Wildlife 9.4**, **Nature 9.3** | 9.4 / 9.3 / 9.2 / 9.1 / 8.7 | [-54.056, -37.343](https://www.google.com/maps/search/?api=1&query=-54.056,-37.343) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Salisbury%20Plain%20%28authorized%20wildlife%20viewing%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 3 | [Gold Harbour (authorized visitor sector)](sights/gold-harbour.yaml) | Coast | **91.70** | **Nature 9.4**, **Photography 9.4**, **Wildlife 9.3** | 9.4 / 9.2 / 9.1 / 9.0 / 8.8 | [-54.627, -35.932](https://www.google.com/maps/search/?api=1&query=-54.627,-35.932) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gold%20Harbour%20%28authorized%20visitor%20sector%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 4 | [Grytviken historic whaling station](sights/grytviken.yaml) | Attraction | **90.90** | **History 9.4**, **Photography 9.1**, **Culture 9.0** | 8.9 / 9.3 / 9.4 / 8.9 / 8.8 | [-54.281, -36.509](https://www.google.com/maps/search/?api=1&query=-54.281,-36.509) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grytviken%20historic%20whaling%20station%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 5 | [Fortuna Bay and Shackleton Walk](sights/fortuna-bay.yaml) | Beach / bay | **89.60** | **History 9.2**, **Adventure 9.1**, **Nature 9.1** | 9.0 / 8.9 / 9.1 / 8.9 / 8.8 | [-54.139, -36.803](https://www.google.com/maps/search/?api=1&query=-54.139,-36.803) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fortuna%20Bay%20and%20Shackleton%20Walk%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 6 | [Elsehul Bay (authorized viewing)](sights/elsehul.yaml) | Beach / bay | **88.40** | **Wildlife 9.2**, **Nature 9.1**, **Photography 9.1** | 9.0 / 9.0 / 8.9 / 8.6 / 8.2 | [-54.027, -37.98](https://www.google.com/maps/search/?api=1&query=-54.027,-37.98) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Elsehul%20Bay%20%28authorized%20viewing%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 7 | [Godthul and authorized ridge walks](sights/godthul.yaml) | Attraction | **87.80** | **Nature 9.0**, **Wildlife 9.0**, **Adventure 8.9** | 8.9 / 8.8 / 8.6 / 8.8 / 8.7 | [-54.28, -36.3](https://www.google.com/maps/search/?api=1&query=-54.28,-36.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Godthul%20and%20authorized%20ridge%20walks%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 8 | [Cooper Bay (authorized visitor sectors)](sights/cooper-bay.yaml) | Beach / bay | **87.60** | **Wildlife 9.1**, **Nature 9.0**, **Photography 9.0** | 8.9 / 8.8 / 8.9 / 8.6 / 8.2 | [-54.789, -35.81](https://www.google.com/maps/search/?api=1&query=-54.789,-35.81) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cooper%20Bay%20%28authorized%20visitor%20sectors%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 9 | [Ocean Harbour and authorized walk](sights/ocean-harbour.yaml) | Coast | **87.30** | **History 9.0**, **Nature 8.9**, **Photography 8.9** | 8.7 / 8.8 / 8.9 / 8.6 / 8.5 | [-54.337, -36.269](https://www.google.com/maps/search/?api=1&query=-54.337,-36.269) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ocean%20Harbour%20and%20authorized%20walk%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (1)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [South Sandwich Islands (closed protected island group)](sights/south-sandwich-islands.yaml) | Island | **—** | **Nature 9.4** | — / 9.4 / 9.4 / — / — | [-57.8, -26.5](https://www.google.com/maps/search/?api=1&query=-57.8,-26.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=South%20Sandwich%20Islands%20%28closed%20protected%20island%20group%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
 
 ---
 

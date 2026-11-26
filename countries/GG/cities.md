@@ -2,7 +2,7 @@
 
 # Guernsey (GG) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **0 unassessed** · **4 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **Guernsey** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [St Peter Port](cities/st-peter-port.yaml) | City / town | **86.00** | **Photography 8.9**, **Architecture 8.7**, **Food 8.7**, Culture 8.6 | 8.6 / 8.5 / 8.5 / 8.9 / 8.6 | [49.455, -2.535](https://www.google.com/maps/search/?api=1&query=49.455,-2.535) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Peter%20Port%2C%20Guernsey) |
+| 2 | [St Anne (Alderney)](cities/st-anne.yaml) | City / town | **80.60** | **Architecture 8.3**, **History 8.3**, **Culture 8.2** | 7.9 / 8.2 / 8.1 / 8.2 / 7.9 | [49.714, -2.201](https://www.google.com/maps/search/?api=1&query=49.714,-2.201) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Anne%20%28Alderney%29%2C%20Guernsey) |
+| 3 | [Sark village centre (The Avenue)](cities/sark-avenue.yaml) | Village | **80.45** | **Culture 8.5**, **Relaxation 8.4**, **Food 8.3** | 7.7 / 8.6 / 7.9 / 8.3 / 7.6 | [49.432, -2.361](https://www.google.com/maps/search/?api=1&query=49.432,-2.361) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sark%20village%20centre%20%28The%20Avenue%29%2C%20Guernsey) |
+| 4 | [St Sampson and The Bridge](cities/st-sampson.yaml) | City / town | **76.95** | **History 8.0**, **Culture 7.9** | 7.5 / 7.7 / 7.8 / 8.0 / 7.6 | [49.481, -2.526](https://www.google.com/maps/search/?api=1&query=49.481,-2.526) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20Sampson%20and%20The%20Bridge%2C%20Guernsey) |
 
 ---
 

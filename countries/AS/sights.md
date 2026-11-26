@@ -2,7 +2,7 @@
 
 # American Samoa (AS) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**10 ranked** · **2 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,29 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (10)
 
-No sights & attractions have been assessed for **American Samoa** yet.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Ofu Beach and fringing reef](sights/ofu-beach.yaml) | Beach / bay | **89.45** | **Beaches 9.4**, **Photography 9.3**, **Nature 9.1**, Wildlife 8.9 | 9.3 / 8.9 / 8.9 / 8.8 / 8.3 | [-14.184, -169.654](https://www.google.com/maps/search/?api=1&query=-14.184,-169.654) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ofu%20Beach%20and%20fringing%20reef%2C%20American%20Samoa) |
+| 2 | [Fagatele Bay marine sanctuary](sights/fagatele-bay.yaml) | Park / reserve | **87.80** | **Nature 9.1**, **Wildlife 9.0**, **Photography 8.9** | 8.9 / 8.9 / 9.1 / 8.3 / 8.2 | [-14.365, -170.766](https://www.google.com/maps/search/?api=1&query=-14.365,-170.766) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fagatele%20Bay%20marine%20sanctuary%2C%20American%20Samoa) |
+| 3 | [Pola Island coastal viewpoint and Sauma Ridge](sights/pola-sauma.yaml) | Island | **86.60** | **Photography 9.2**, **Nature 8.9**, **Wildlife 8.8**, History 8.5 | 9.0 / 8.7 / 8.6 / 8.5 / 7.9 | [-14.229, -170.662](https://www.google.com/maps/search/?api=1&query=-14.229,-170.662) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pola%20Island%20coastal%20viewpoint%20and%20Sauma%20Ridge%2C%20American%20Samoa) |
+| 3 | [Siʻu Point Trail and Saua (Taʻū)](sights/siu-point-saua.yaml) | Trail / walk | **86.60** | **Photography 9.0**, **History 8.9**, **Nature 8.9**, Culture 8.8 | 8.9 / 8.8 / 8.9 / 8.0 / 8.1 | [-14.269, -169.425](https://www.google.com/maps/search/?api=1&query=-14.269,-169.425) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Si%CA%BBu%20Point%20Trail%20and%20Saua%20%28Ta%CA%BB%C5%AB%29%2C%20American%20Samoa) |
+| 5 | [Mount ʻAlava and Fatifati Auala trail network](sights/mount-alava.yaml) | Mountain / peak | **86.55** | **Photography 9.0**, **Adventure 8.9**, **Nature 8.9**, Culture 8.5 | 8.9 / 8.5 / 8.5 / 8.6 / 8.7 | [-14.267, -170.687](https://www.google.com/maps/search/?api=1&query=-14.267,-170.687) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20%CA%BBAlava%20and%20Fatifati%20Auala%20trail%20network%2C%20American%20Samoa) |
+| 6 | [Aunuʻu crater and Faʻamulivai Marsh](sights/aunuu-crater.yaml) | Wetland | **84.30** | **Nature 8.9**, **Photography 8.6**, **Wildlife 8.5** | 8.4 / 8.8 / 8.7 / 8.0 / 7.7 | [-14.289, -170.554](https://www.google.com/maps/search/?api=1&query=-14.289,-170.554) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aunu%CA%BBu%20crater%20and%20Fa%CA%BBamulivai%20Marsh%2C%20American%20Samoa) |
+| 7 | [Fogamaʻa and Fagalua coves (Larson's Cove)](sights/fogamaa-fagalua.yaml) | Attraction | **83.75** | **Photography 8.9**, **Nature 8.8**, **Beaches 8.4** | 8.7 / 8.5 / 8.4 / 8.0 / 7.6 | [-14.363, -170.743](https://www.google.com/maps/search/?api=1&query=-14.363,-170.743) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fogama%CA%BBa%20and%20Fagalua%20coves%20%28Larson%27s%20Cove%29%2C%20American%20Samoa) |
+| 8 | [Tumu Mountain Trail (Ofu)](sights/tumu-mountain.yaml) | Mountain / peak | **83.40** | **Photography 9.0**, **Adventure 8.7**, **Nature 8.7** | 8.9 / 8.4 / 8.0 / 8.0 / 7.7 | [-14.172, -169.657](https://www.google.com/maps/search/?api=1&query=-14.172,-169.657) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tumu%20Mountain%20Trail%20%28Ofu%29%2C%20American%20Samoa) |
+| 9 | [Tuafanua rainforest and coastal trail](sights/tuafanua-trail.yaml) | Forest | **82.45** | **Nature 8.7**, **Photography 8.7**, **Adventure 8.6** | 8.6 / 8.3 / 8.0 / 8.2 / 7.6 | [-14.243, -170.674](https://www.google.com/maps/search/?api=1&query=-14.243,-170.674) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tuafanua%20rainforest%20and%20coastal%20trail%2C%20American%20Samoa) |
+| 10 | [Jean P. Haydon Museum](sights/haydon-museum.yaml) | Museum / heritage | **80.75** | **Culture 8.9**, **History 8.8**, **Architecture 7.8** | 7.5 / 8.4 / 8.7 / 8.1 / 7.7 | [-14.281, -170.692](https://www.google.com/maps/search/?api=1&query=-14.281,-170.692) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jean%20P.%20Haydon%20Museum%2C%20American%20Samoa) |
 
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+## Not yet fully assessed (2)
+
+These destinations have no rank until all five core scores are assessed.
+
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| — | [Rose Atoll National Wildlife Refuge (Muliāva)](sights/rose-atoll.yaml) | Attraction | **—** | **Nature 9.3**, **Wildlife 9.3** | — / 9.2 / 9.3 / — / — | [-14.55, -168.15](https://www.google.com/maps/search/?api=1&query=-14.55,-168.15) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rose%20Atoll%20National%20Wildlife%20Refuge%20%28Muli%C4%81va%29%2C%20American%20Samoa) |
+| — | [Swains Island (Olohega)](sights/swains-island.yaml) | Island | **—** | **Nature 9.0**, **History 8.6** | — / 8.8 / 8.8 / — / — | [-11.055, -171.083](https://www.google.com/maps/search/?api=1&query=-11.055,-171.083) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Swains%20Island%20%28Olohega%29%2C%20American%20Samoa) |
 
 ---
 

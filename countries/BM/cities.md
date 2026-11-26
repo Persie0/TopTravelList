@@ -2,7 +2,7 @@
 
 # Bermuda (BM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**3 ranked** · **0 unassessed** · **3 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,13 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (3)
 
-No cities, towns & villages have been assessed for **Bermuda** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [St George's](cities/st-georges.yaml) | City / town | **86.65** | **History 9.2**, **Architecture 9.0**, **Culture 8.7** | 8.5 / 8.8 / 9.1 / 8.5 / 8.2 | [32.381, -64.677](https://www.google.com/maps/search/?api=1&query=32.381,-64.677) | [Google Maps](https://www.google.com/maps/search/?api=1&query=St%20George%27s%2C%20Bermuda) |
+| 2 | [Hamilton](cities/hamilton.yaml) | City / town | **79.80** | **Architecture 8.4**, **Culture 8.4**, **Food 8.4** | 7.9 / 7.8 / 8.0 / 8.4 / 8.0 | [32.295, -64.783](https://www.google.com/maps/search/?api=1&query=32.295,-64.783) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hamilton%2C%20Bermuda) |
+| 3 | [Flatts Village](cities/flatts-village.yaml) | Village | **75.80** | **Photography 8.4**, **Architecture 8.0**, **Relaxation 8.0** | 7.9 / 7.8 / 7.2 / 7.6 / 6.8 | [32.324, -64.737](https://www.google.com/maps/search/?api=1&query=32.324,-64.737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Flatts%20Village%2C%20Bermuda) |
 
 ---
 

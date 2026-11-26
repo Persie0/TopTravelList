@@ -2,7 +2,7 @@
 
 # Virgin Islands, U.S. (VI) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**4 ranked** · **0 unassessed** · **4 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (4)
 
-No cities, towns & villages have been assessed for **Virgin Islands, U.S.** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Charlotte Amalie (Saint Thomas)](cities/charlotte-amalie.yaml) | City / town | **83.40** | **History 8.8**, **Architecture 8.7**, **Culture 8.6** | 8.2 / 8.3 / 8.5 / 8.5 / 8.3 | [18.341, -64.931](https://www.google.com/maps/search/?api=1&query=18.341,-64.931) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Charlotte%20Amalie%20%28Saint%20Thomas%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 2 | [Christiansted (Saint Croix)](cities/christiansted.yaml) | City / town | **83.35** | **History 8.9**, **Architecture 8.8**, **Culture 8.5** | 8.2 / 8.4 / 8.6 / 8.3 / 8.1 | [17.747, -64.704](https://www.google.com/maps/search/?api=1&query=17.747,-64.704) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Christiansted%20%28Saint%20Croix%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 3 | [Frederiksted (Saint Croix)](cities/frederiksted.yaml) | City / town | **80.75** | **History 8.9**, **Culture 8.5**, **Architecture 8.3** | 7.8 / 8.2 / 8.5 / 8.1 / 7.7 | [17.712, -64.882](https://www.google.com/maps/search/?api=1&query=17.712,-64.882) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Frederiksted%20%28Saint%20Croix%29%2C%20Virgin%20Islands%2C%20U.S.) |
+| 4 | [Cruz Bay (Saint John)](cities/cruz-bay.yaml) | City / town | **76.65** | **Food 8.5**, **Relaxation 8.3**, **Culture 8.0** | 7.8 / 7.7 / 7.2 / 8.2 / 7.3 | [18.331, -64.793](https://www.google.com/maps/search/?api=1&query=18.331,-64.793) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cruz%20Bay%20%28Saint%20John%29%2C%20Virgin%20Islands%2C%20U.S.) |
 
 ---
 

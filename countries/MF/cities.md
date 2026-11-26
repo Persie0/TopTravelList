@@ -2,7 +2,7 @@
 
 # Saint Martin (French part) (MF) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Saint Martin (French part)** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Grand Case](cities/grand-case.yaml) | City / town | **78.70** | **Food 8.9**, **Culture 8.3**, **Relaxation 8.3** | 7.8 / 8.1 / 7.5 / 8.5 / 7.3 | [18.101111, -63.051944](https://www.google.com/maps/search/?api=1&query=18.101111,-63.051944) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20Case%2C%20Saint%20Martin%20%28French%20part%29) |
+| 2 | [Marigot](cities/marigot.yaml) | City / town | **78.60** | **Food 8.4**, **Culture 8.3**, **History 8.2** | 7.7 / 7.8 / 8.0 / 8.2 / 7.7 | [18.0675, -63.083](https://www.google.com/maps/search/?api=1&query=18.0675,-63.083) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marigot%2C%20Saint%20Martin%20%28French%20part%29) |
 
 ---
 

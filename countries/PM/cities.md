@@ -2,7 +2,7 @@
 
 # Saint Pierre and Miquelon (PM) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Saint Pierre and Miquelon** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Saint-Pierre (Saint Pierre and Miquelon)](cities/saint-pierre.yaml) | City / town | **84.10** | **Food 8.8**, **Culture 8.7**, **Photography 8.6**, History 8.4 | 8.1 / 8.7 / 8.3 / 8.7 / 8.4 | [46.779, -56.177](https://www.google.com/maps/search/?api=1&query=46.779,-56.177) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Pierre%20%28Saint%20Pierre%20and%20Miquelon%29%2C%20Saint%20Pierre%20and%20Miquelon) |
+| 2 | [Miquelon village](cities/miquelon.yaml) | Village | **78.85** | **Culture 8.4**, **History 8.3** | 7.7 / 8.3 / 8.1 / 7.6 / 7.4 | [47.103, -56.379](https://www.google.com/maps/search/?api=1&query=47.103,-56.379) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Miquelon%20village%2C%20Saint%20Pierre%20and%20Miquelon) |
 
 ---
 

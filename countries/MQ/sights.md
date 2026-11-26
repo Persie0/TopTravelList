@@ -2,7 +2,7 @@
 
 # Martinique (MQ) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No sights & attractions have been assessed for **Martinique** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Mount Pelée (permitted summit trails)](sights/mount-pelee.yaml) | Mountain / peak | **90.15** | **Nature 9.3**, **Adventure 9.2**, **Photography 9.2** | 9.2 / 8.9 / 9.3 / 8.8 / 8.5 | [14.809, -61.166](https://www.google.com/maps/search/?api=1&query=14.809,-61.166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Pel%C3%A9e%20%28permitted%20summit%20trails%29%2C%20Martinique) |
+| 2 | [Mount Pelée and Pitons of Northern Martinique](sights/martinique-volcanoes.yaml) | Mountain / peak | **90.10** | **Nature 9.4**, **Photography 9.3**, **Adventure 9.1** | 9.0 / 9.0 / 9.2 / 8.8 / 9.0 | [14.81, -61.16](https://www.google.com/maps/search/?api=1&query=14.81,-61.16) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Pel%C3%A9e%20and%20Pitons%20of%20Northern%20Martinique%2C%20Martinique) |
+| 3 | [Caravelle Peninsula Nature Reserve](sights/caravelle-reserve.yaml) | Park / reserve | **86.10** | **Nature 8.9**, **Photography 8.9**, **Adventure 8.7** | 8.7 / 8.5 / 8.6 / 8.7 / 8.5 | [14.768, -60.887](https://www.google.com/maps/search/?api=1&query=14.768,-60.887) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Caravelle%20Peninsula%20Nature%20Reserve%2C%20Martinique) |
+| 4 | [La Savane des Esclaves](sights/savane-des-esclaves.yaml) | Attraction | **85.05** | **Culture 9.0**, **History 9.0** | 8.1 / 8.7 / 8.8 / 8.6 / 8.5 | [14.523, -61.035](https://www.google.com/maps/search/?api=1&query=14.523,-61.035) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Savane%20des%20Esclaves%2C%20Martinique) |
+| 5 | [Habitation Clément](sights/habitation-clement.yaml) | Attraction | **84.50** | **History 8.8**, **Culture 8.7**, **Architecture 8.6** | 8.2 / 8.5 / 8.5 / 8.7 / 8.6 | [14.614, -60.904](https://www.google.com/maps/search/?api=1&query=14.614,-60.904) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Habitation%20Cl%C3%A9ment%2C%20Martinique) |
+| 6 | [1902 Catastrophe Memorial (Frank A. Perret Museum)](sights/memorial-1902.yaml) | Museum / heritage | **84.20** | **History 9.2**, **Culture 8.6** | 7.9 / 8.7 / 9.0 / 8.5 / 8.0 | [14.744, -61.176](https://www.google.com/maps/search/?api=1&query=14.744,-61.176) | [Google Maps](https://www.google.com/maps/search/?api=1&query=1902%20Catastrophe%20Memorial%20%28Frank%20A.%20Perret%20Museum%29%2C%20Martinique) |
+| 7 | [Diamond Rock (coastal and vessel views)](sights/diamond-rock-view.yaml) | Coast | **83.95** | **Photography 9.0**, **Nature 8.7**, **History 8.4** | 8.7 / 8.7 / 8.3 / 8.2 / 7.2 | [14.441, -61.039](https://www.google.com/maps/search/?api=1&query=14.441,-61.039) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Diamond%20Rock%20%28coastal%20and%20vessel%20views%29%2C%20Martinique) |
+| 8 | [Jardin de Balata](sights/jardin-de-balata.yaml) | Attraction | **83.20** | **Nature 8.9**, **Photography 8.9**, **Relaxation 8.7** | 8.6 / 8.2 / 7.7 / 8.8 / 8.3 | [14.681, -61.084](https://www.google.com/maps/search/?api=1&query=14.681,-61.084) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jardin%20de%20Balata%2C%20Martinique) |
+| 9 | [Anse Dufour](sights/anse-dufour.yaml) | Attraction | **81.90** | **Wildlife 8.9**, **Beaches 8.7**, **Nature 8.6** | 8.4 / 8.2 / 7.7 / 8.8 / 7.6 | [14.526, -61.088](https://www.google.com/maps/search/?api=1&query=14.526,-61.088) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20Dufour%2C%20Martinique) |
+| 10 | [Cascade Couleuvre Trail](sights/cascade-couleuvre.yaml) | Trail / walk | **80.80** | **Nature 8.7**, **Photography 8.5**, **Adventure 8.4** | 8.4 / 8.0 / 7.6 / 8.4 / 7.8 | [14.841, -61.212](https://www.google.com/maps/search/?api=1&query=14.841,-61.212) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cascade%20Couleuvre%20Trail%2C%20Martinique) |
+| 11 | [Bibliothèque Schœlcher](sights/schoelcher-library.yaml) | Attraction | **79.45** | **Architecture 8.8**, **History 8.5**, **Culture 8.4** | 7.9 / 8.2 / 8.4 / 7.7 / 6.9 | [14.604, -61.07](https://www.google.com/maps/search/?api=1&query=14.604,-61.07) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Biblioth%C3%A8que%20Sch%C5%93lcher%2C%20Martinique) |
 
 ---
 

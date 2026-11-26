@@ -2,7 +2,7 @@
 
 # Bermuda (BM) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (12)
 
-No sights & attractions have been assessed for **Bermuda** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Historic Town of St George and Related Fortifications](sights/st-george-heritage.yaml) | Attraction | **89.50** | **History 9.4**, **Architecture 9.1**, **Culture 9.0** | 8.8 / 9.0 / 9.4 / 8.6 / 8.9 | [32.381, -64.677](https://www.google.com/maps/search/?api=1&query=32.381,-64.677) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Historic%20Town%20of%20St%20George%20and%20Related%20Fortifications%2C%20Bermuda) |
+| 2 | [National Museum of Bermuda (The Keep)](sights/national-museum.yaml) | Museum / heritage | **87.65** | **History 9.3**, **Culture 9.0**, **Architecture 8.8** | 8.6 / 8.8 / 9.0 / 8.7 / 8.8 | [32.328, -64.833](https://www.google.com/maps/search/?api=1&query=32.328,-64.833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Bermuda%20%28The%20Keep%29%2C%20Bermuda) |
+| 3 | [Crystal and Fantasy Caves](sights/crystal-fantasy-caves.yaml) | Attraction | **86.25** | **Photography 9.1**, **Nature 9.0** | 8.9 / 8.7 / 8.2 / 8.8 / 8.2 | [32.349, -64.712](https://www.google.com/maps/search/?api=1&query=32.349,-64.712) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Crystal%20and%20Fantasy%20Caves%2C%20Bermuda) |
+| 4 | [Fort St Catherine and Museum](sights/fort-st-catherine.yaml) | Fortification | **85.25** | **History 9.1**, **Architecture 8.8**, **Photography 8.8** | 8.5 / 8.5 / 8.9 / 8.4 / 8.1 | [32.391, -64.672](https://www.google.com/maps/search/?api=1&query=32.391,-64.672) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20St%20Catherine%20and%20Museum%2C%20Bermuda) |
+| 4 | [Royal Naval Dockyard (public precinct)](sights/royal-naval-dockyard.yaml) | Attraction | **85.25** | **History 9.0**, **Architecture 8.8**, **Culture 8.6** | 8.4 / 8.5 / 8.8 / 8.6 / 8.3 | [32.325, -64.833](https://www.google.com/maps/search/?api=1&query=32.325,-64.833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Royal%20Naval%20Dockyard%20%28public%20precinct%29%2C%20Bermuda) |
+| 6 | [Cooper's Island Nature Reserve](sights/coopers-island.yaml) | Park / reserve | **85.00** | **Beaches 8.8**, **Nature 8.8**, **Wildlife 8.7** | 8.6 / 8.4 / 8.5 / 8.6 / 8.3 | [32.352, -64.657](https://www.google.com/maps/search/?api=1&query=32.352,-64.657) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cooper%27s%20Island%20Nature%20Reserve%2C%20Bermuda) |
+| 7 | [Spittal Pond Nature Reserve](sights/spittal-pond.yaml) | Park / reserve | **84.55** | **Nature 8.9**, **Wildlife 8.8**, **Photography 8.6** | 8.3 / 8.5 / 8.8 / 8.4 / 8.2 | [32.312, -64.729](https://www.google.com/maps/search/?api=1&query=32.312,-64.729) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Spittal%20Pond%20Nature%20Reserve%2C%20Bermuda) |
+| 8 | [Horseshoe Bay Beach](sights/horseshoe-bay.yaml) | Beach / bay | **84.05** | **Beaches 9.3**, **Photography 9.1**, **Relaxation 9.0** | 9.0 / 8.6 / 7.3 / 8.9 / 7.6 | [32.252, -64.823](https://www.google.com/maps/search/?api=1&query=32.252,-64.823) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Horseshoe%20Bay%20Beach%2C%20Bermuda) |
+| 9 | [Bermuda Railway Trail](sights/railway-trail.yaml) | Trail / walk | **83.20** | **Adventure 8.6**, **History 8.5**, **Nature 8.5** | 8.2 / 8.3 / 8.0 / 8.7 / 8.8 | [32.302, -64.775](https://www.google.com/maps/search/?api=1&query=32.302,-64.775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bermuda%20Railway%20Trail%2C%20Bermuda) |
+| 10 | [Bermuda Aquarium, Museum and Zoo](sights/aquarium-museum-zoo.yaml) | Museum / heritage | **82.85** | **Family 8.9**, **Nature 8.6**, **Wildlife 8.6** | 8.0 / 8.3 / 8.4 / 8.6 / 8.4 | [32.323, -64.737](https://www.google.com/maps/search/?api=1&query=32.323,-64.737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bermuda%20Aquarium%2C%20Museum%20and%20Zoo%2C%20Bermuda) |
+| 11 | [Tobacco Bay Beach](sights/tobacco-bay.yaml) | Beach / bay | **81.25** | **Photography 8.9**, **Beaches 8.8**, **Nature 8.5** | 8.6 / 8.4 / 7.2 / 8.5 / 7.3 | [32.39, -64.678](https://www.google.com/maps/search/?api=1&query=32.39,-64.678) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tobacco%20Bay%20Beach%2C%20Bermuda) |
+| 12 | [Gibbs Hill Lighthouse (exterior viewpoint)](sights/gibbs-hill-lighthouse.yaml) | Tower / viewpoint | **80.40** | **Photography 8.7**, **History 8.6** | 8.3 / 8.1 / 8.3 / 7.9 / 6.8 | [32.252, -64.838](https://www.google.com/maps/search/?api=1&query=32.252,-64.838) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gibbs%20Hill%20Lighthouse%20%28exterior%20viewpoint%29%2C%20Bermuda) |
 
 ---
 

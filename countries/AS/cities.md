@@ -2,7 +2,7 @@
 
 # American Samoa (AS) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**7 ranked** · **0 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (7)
 
-No cities, towns & villages have been assessed for **American Samoa** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Pago Pago](cities/pago-pago.yaml) | City / town | **80.90** | **Culture 8.6**, **Photography 8.5**, **History 8.3** | 8.2 / 8.2 / 8.1 / 8.0 / 7.6 | [-14.252446, -170.701028](https://www.google.com/maps/search/?api=1&query=-14.252446,-170.701028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pago%20Pago%2C%20American%20Samoa) |
+| 2 | [Fagatogo](cities/fagatogo.yaml) | City / town | **79.55** | **History 8.8**, **Culture 8.5**, **Architecture 7.9** | 7.6 / 8.1 / 8.5 / 8.0 / 7.5 | [-14.2817226, -170.6929093](https://www.google.com/maps/search/?api=1&query=-14.2817226,-170.6929093) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fagatogo%2C%20American%20Samoa) |
+| 3 | [Aunuʻu village](cities/aunuu.yaml) | Village | **77.55** | **Culture 8.5**, **Food 8.2** | 7.6 / 8.3 / 7.9 / 7.6 / 6.8 | [-14.2883213, -170.5564138](https://www.google.com/maps/search/?api=1&query=-14.2883213,-170.5564138) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Aunu%CA%BBu%20village%2C%20American%20Samoa) |
+| 4 | [Vatia](cities/vatia.yaml) | City / town | **77.45** | **Photography 8.5**, **Culture 8.4** | 8.0 / 8.0 / 7.7 / 7.5 / 6.8 | [-14.2348405, -170.6709625](https://www.google.com/maps/search/?api=1&query=-14.2348405,-170.6709625) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vatia%2C%20American%20Samoa) |
+| 5 | [Olosega village](cities/olosega.yaml) | Village | **76.70** | **Photography 8.4**, **Culture 8.3** | 7.9 / 8.2 / 7.6 / 7.2 / 6.5 | [-14.1841513, -169.6185244](https://www.google.com/maps/search/?api=1&query=-14.1841513,-169.6185244) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Olosega%20village%2C%20American%20Samoa) |
+| 6 | [Ofu village](cities/ofu.yaml) | Village | **76.65** | **Photography 8.4**, **Culture 8.3** | 7.8 / 8.2 / 7.6 / 7.3 / 6.6 | [-14.1721564, -169.6650186](https://www.google.com/maps/search/?api=1&query=-14.1721564,-169.6650186) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ofu%20village%2C%20American%20Samoa) |
+| 7 | [Faleasao (Taʻū)](cities/faleasao.yaml) | City / town | **75.75** | **Culture 8.3**, **Photography 8.2** | 7.6 / 8.1 / 7.7 / 7.2 / 6.5 | [-14.2198518, -169.5080375](https://www.google.com/maps/search/?api=1&query=-14.2198518,-169.5080375) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faleasao%20%28Ta%CA%BB%C5%AB%29%2C%20American%20Samoa) |
 
 ---
 

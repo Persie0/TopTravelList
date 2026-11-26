@@ -2,7 +2,7 @@
 
 # Guadeloupe (GP) — Sights & attractions ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**11 ranked** · **0 unassessed** · **11 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,21 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (11)
 
-No sights & attractions have been assessed for **Guadeloupe** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Guadeloupe National Park](sights/guadeloupe-park.yaml) | Park / reserve | **91.05** | **Nature 9.5**, **Adventure 9.2**, **Wildlife 9.2** | 9.2 / 9.1 / 9.0 / 9.0 / 9.2 | [16.05, -61.68](https://www.google.com/maps/search/?api=1&query=16.05,-61.68) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Guadeloupe%20National%20Park%2C%20Guadeloupe) |
+| 2 | [La Soufrière Volcano](sights/la-soufriere.yaml) | Mountain / peak | **89.30** | **Nature 9.2**, **Photography 9.2**, **Adventure 9.1** | 9.2 / 8.9 / 8.9 / 8.7 / 8.6 | [16.044, -61.664](https://www.google.com/maps/search/?api=1&query=16.044,-61.664) | [Google Maps](https://www.google.com/maps/search/?api=1&query=La%20Soufri%C3%A8re%20Volcano%2C%20Guadeloupe) |
+| 3 | [Pigeon Islets (Cousteau Reserve)](sights/pigeon-islets-cousteau.yaml) | Island | **88.85** | **Nature 9.2**, **Adventure 9.1**, **Wildlife 9.1** | 9.0 / 8.8 / 8.8 / 9.1 / 8.6 | [16.171, -61.79](https://www.google.com/maps/search/?api=1&query=16.171,-61.79) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pigeon%20Islets%20%28Cousteau%20Reserve%29%2C%20Guadeloupe) |
+| 4 | [Petite-Terre Nature Reserve (permitted sector)](sights/petite-terre.yaml) | Park / reserve | **88.55** | **Wildlife 9.3**, **Nature 9.2**, **Photography 9.0** | 9.0 / 9.0 / 8.9 / 8.7 / 8.2 | [16.17, -61.117](https://www.google.com/maps/search/?api=1&query=16.17,-61.117) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Petite-Terre%20Nature%20Reserve%20%28permitted%20sector%29%2C%20Guadeloupe) |
+| 5 | [Grand Cul-de-Sac Marin](sights/grand-cul-de-sac-marin.yaml) | Attraction | **88.30** | **Nature 9.2**, **Wildlife 9.1**, **Photography 8.9** | 8.9 / 8.8 / 9.0 / 8.6 / 8.7 | [16.365, -61.601](https://www.google.com/maps/search/?api=1&query=16.365,-61.601) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Grand%20Cul-de-Sac%20Marin%2C%20Guadeloupe) |
+| 6 | [Mémorial ACTe](sights/memorial-acte.yaml) | Attraction | **88.05** | **History 9.3**, **Culture 9.2**, **Architecture 8.9** | 8.5 / 9.0 / 9.2 / 8.7 / 8.6 | [16.232, -61.533](https://www.google.com/maps/search/?api=1&query=16.232,-61.533) | [Google Maps](https://www.google.com/maps/search/?api=1&query=M%C3%A9morial%20ACTe%2C%20Guadeloupe) |
+| 7 | [Carbet Falls (permitted visitor viewpoints)](sights/carbet-falls.yaml) | Waterfall | **84.80** | **Nature 9.0**, **Photography 9.0** | 8.9 / 8.5 / 8.1 / 8.5 / 7.9 | [16.044, -61.639](https://www.google.com/maps/search/?api=1&query=16.044,-61.639) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Carbet%20Falls%20%28permitted%20visitor%20viewpoints%29%2C%20Guadeloupe) |
+| 8 | [Pointe des Châteaux](sights/pointe-des-chateaux.yaml) | Attraction | **84.25** | **Photography 9.1**, **Nature 8.9** | 8.9 / 8.5 / 7.9 / 8.6 / 7.6 | [16.247, -61.178](https://www.google.com/maps/search/?api=1&query=16.247,-61.178) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pointe%20des%20Ch%C3%A2teaux%2C%20Guadeloupe) |
+| 9 | [Fort Napoléon (Les Saintes)](sights/fort-napoleon.yaml) | Fortification | **82.50** | **Photography 8.7**, **History 8.6**, **Architecture 8.4** | 8.4 / 8.2 / 8.2 / 8.4 / 7.8 | [15.876, -61.582](https://www.google.com/maps/search/?api=1&query=15.876,-61.582) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Napol%C3%A9on%20%28Les%20Saintes%29%2C%20Guadeloupe) |
+| 10 | [Pain de Sucre Beach](sights/pain-de-sucre.yaml) | Beach / bay | **81.75** | **Beaches 9.0**, **Photography 9.0**, **Relaxation 8.9** | 8.8 / 8.6 / 6.9 / 8.7 / 7.0 | [15.856, -61.595](https://www.google.com/maps/search/?api=1&query=15.856,-61.595) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pain%20de%20Sucre%20Beach%2C%20Guadeloupe) |
+| 11 | [Deshaies Botanical Garden](sights/deshaies-botanical-garden.yaml) | Garden | **80.35** | **Nature 8.6**, **Family 8.4**, **Relaxation 8.4** | 8.2 / 8.0 / 7.5 / 8.5 / 8.0 | [16.298, -61.794](https://www.google.com/maps/search/?api=1&query=16.298,-61.794) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Deshaies%20Botanical%20Garden%2C%20Guadeloupe) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Aruba (AW) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Aruba** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Oranjestad](cities/oranjestad.yaml) | City / town | **80.35** | **Architecture 8.5**, **Culture 8.4**, **Food 8.3** | 7.9 / 8.0 / 8.1 / 8.3 / 8.0 | [12.519, -70.037](https://www.google.com/maps/search/?api=1&query=12.519,-70.037) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oranjestad%2C%20Aruba) |
+| 2 | [San Nicolas](cities/san-nicolas.yaml) | City / town | **79.65** | **Culture 8.7**, **Photography 8.5**, **History 8.1** | 7.7 / 8.3 / 7.9 / 8.2 / 7.7 | [12.436, -69.908](https://www.google.com/maps/search/?api=1&query=12.436,-69.908) | [Google Maps](https://www.google.com/maps/search/?api=1&query=San%20Nicolas%2C%20Aruba) |
 
 ---
 

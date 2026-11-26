@@ -2,7 +2,7 @@
 
 # Saint Barthélemy (BL) — Cities, towns & villages ranking
 
-**0 ranked** · **0 unassessed** · **0 total** · Worldwide scoring **v2**
+**2 ranked** · **0 unassessed** · **2 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,11 +10,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (2)
 
-No cities, towns & villages have been assessed for **Saint Barthélemy** yet.
-
-Add destination YAML files in [cities/](cities/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Gustavia](cities/gustavia.yaml) | City / town | **80.85** | **Food 8.6**, **Culture 8.4**, **History 8.4** | 8.0 / 8.1 / 8.1 / 8.4 / 7.8 | [17.896, -62.851](https://www.google.com/maps/search/?api=1&query=17.896,-62.851) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gustavia%2C%20Saint%20Barth%C3%A9lemy) |
+| 2 | [Corossol](cities/corossol.yaml) | City / town | **75.65** | **Culture 8.3**, **Photography 8.0**, **Relaxation 7.9** | 7.6 / 8.0 / 7.4 / 7.5 / 6.8 | [17.907, -62.851](https://www.google.com/maps/search/?api=1&query=17.907,-62.851) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Corossol%2C%20Saint%20Barth%C3%A9lemy) |
 
 ---
 
