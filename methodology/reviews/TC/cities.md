@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [St George's (BM)](../../../countries/BM/cities/st-georges.yaml) — 8.5/8.8/9.1/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.8, E -0.5, D -0.6.
 - [Philipsburg (SX)](../../../countries/SX/cities/philipsburg.yaml) — 7.8/7.8/8.0/8.3/7.9; existing named editorial peer. Subject minus peer: I +0.1, U +0.4, S +0.3, E -0.3, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 804.00 vs St George's 866.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -71,8 +69,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Grand Case (MF)](../../../countries/MF/cities/grand-case.yaml) — 7.8/8.1/7.5/8.5/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.3, E -1.0, D -0.3.
 - [Cockburn Town (Grand Turk) (TC)](../../../countries/TC/cities/cockburn-town.yaml) — 7.9/8.2/8.3/8.0/7.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.5, E -0.5, D -0.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 763.50 vs Cockburn Town (Grand Turk) 804.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -116,8 +112,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Degerby (Föglö) (AX)](../../../countries/AX/cities/degerby.yaml) — 7.2/7.8/7.6/7.6/6.9; existing named editorial peer. Subject minus peer: I +0.4, U +0.4, S +0.4, E -0.2, D +0.0.
 - [Corossol (BL)](../../../countries/BL/cities/corossol.yaml) — 7.6/8.0/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I +0.0, U +0.2, S +0.6, E -0.1, D +0.1.
 - [St George's (BM)](../../../countries/BM/cities/st-georges.yaml) — 8.5/8.8/9.1/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.9, U -0.6, S -1.1, E -1.1, D -1.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 773.00 vs St George's 866.50.
 
 No numerical score or evidence-status changes made by this pass.
 

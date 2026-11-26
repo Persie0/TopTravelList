@@ -25,7 +25,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Galle Old Town and Fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; supplementary historic-type numerical anchor. Subject minus peer: I +0.0, U +0.2, S +0.1, E -0.1, D +0.2.
 - [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; supplementary historic-type numerical anchor. Subject minus peer: I +0.2, U +0.1, S +0.1, E +0.2, D +0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): significance 9.5 vs Galle Old Town and Fortifications 9.4; architecture category 9.8 vs Hoi An Ancient Town 9.9; history category 9.9 vs Hoi An Ancient Town 9.8; overall 926.50 vs Hoi An Ancient Town 937.00.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): significance 9.5 vs Galle Old Town and Fortifications 9.4; architecture category 9.8 vs Hoi An Ancient Town 9.9; history category 9.9 vs Hoi An Ancient Town 9.8; overall 92.65 vs Hoi An Ancient Town 93.70.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -71,8 +71,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; supplementary religious-type numerical anchor. Subject minus peer: I +1.0, U +0.7, S +1.2, E +0.9, D +1.1.
 - [Hvalsey Church Ruins (GL)](../../../countries/GL/sights/hvalsey-church.yaml) — 8.3/8.9/9.1/8.2/7.8; supplementary religious-type numerical anchor. Subject minus peer: I +0.6, U +0.3, S +0.3, E +0.7, D +0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 899.50 vs Oura Church 864.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -116,8 +114,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Historic Centre of Macau (MO)](../../../countries/MO/sights/historic-centre-macau.yaml) — 9.1/9.4/9.5/9.1/9.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.4, E +0.2, D -0.9.
 - [Lumphini Park (TH)](../../../countries/TH/sights/lumphini-park.yaml) — 7.5/7.4/7.1/8.7/8.1; supplementary park-type numerical anchor. Subject minus peer: I +1.4, U +1.7, S +2.0, E +0.6, D +0.2.
 - [Central Park (US)](../../../countries/US/sights/central-park.yaml) — 8.7/8.7/8.7/9.0/8.8; supplementary park-type numerical anchor. Subject minus peer: I +0.2, U +0.4, S +0.4, E +0.3, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 899.00 vs Historic Centre of Macau 926.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -163,8 +159,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fort Santiago (PH)](../../../countries/PH/sights/fort-santiago.yaml) — 8.1/8.2/8.9/8.4/8.0; existing named editorial peer. Subject minus peer: I +0.8, U +0.8, S +0.2, E +0.6, D +0.6.
 - [Galle Old Town and Fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; supplementary fort-type numerical anchor. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.2, D -0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 895.00 vs Galle Old Town and Fortifications 919.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -208,8 +202,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Historic Centre of Macau (MO)](../../../countries/MO/sights/historic-centre-macau.yaml) — 9.1/9.4/9.5/9.1/9.2; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.2, E +0.1, D -2.5.
 - [Plain of Jars Archaeological Landscape (LA)](../../../countries/LA/sights/plain-of-jars-archaeological-landscape.yaml) — 9.0/9.6/9.5/8.7/9.0; supplementary archaeology-type numerical anchor. Subject minus peer: I +0.0, U -0.3, S -0.2, E +0.5, D -2.3.
 - [Stonehenge and Avebury archaeological landscapes (GB)](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; supplementary archaeology-type numerical anchor. Subject minus peer: I -0.2, U -0.3, S -0.3, E +0.4, D -2.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 893.50 vs Stonehenge and Avebury archaeological landscapes 931.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -255,8 +247,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -1.1, U -1.1, S -0.9, E -0.1, D -0.9.
 - [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; supplementary landscape-type numerical anchor. Subject minus peer: I -1.0, U -1.0, S -0.6, E -0.4, D -0.8.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 852.00 vs Shiretoko National Park 941.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -300,8 +290,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Tokyo Skytree (JP)](../../../countries/JP/sights/tokyo-skytree.yaml) — 8.8/8.6/7.7/8.9/7.8; existing named editorial peer. Subject minus peer: I -0.2, U +0.1, S -0.1, E +0.2, D -0.4.
 - [Victoria Peak Hong Kong (HK)](../../../countries/HK/sights/victoria-peak.yaml) — 8.8/8.7/8.0/9.5/8.6; existing named editorial peer. Subject minus peer: I -0.2, U +0.0, S -0.4, E -0.4, D -1.2.
 - [Asian Civilisations Museum (SG)](../../../countries/SG/sights/asian-civilisations-museum.yaml) — 8.7/8.9/8.9/8.9/8.8; supplementary art-type numerical anchor. Subject minus peer: I -0.1, U -0.2, S -1.3, E +0.2, D -1.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.00 vs Asian Civilisations Museum 883.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -347,8 +335,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [California Lighthouse (AW)](../../../countries/AW/sights/california-lighthouse.yaml) — 8.2/8.0/7.8/8.2/7.0; supplementary lighthouse-type numerical anchor. Subject minus peer: I +0.4, U +0.5, S +1.0, E +0.2, D +0.8.
 - [Kallur Lighthouse and ridge (FO)](../../../countries/FO/sights/kallur-lighthouse.yaml) — 9.1/8.6/7.2/8.8/7.7; supplementary lighthouse-type numerical anchor. Subject minus peer: I -0.5, U -0.1, S +1.6, E -0.4, D +0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 850.50 vs San Juan National Historic Site (Puerto Rico) 885.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -392,8 +378,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Baba Nyonya Heritage Museum (MY)](../../../countries/MY/sights/baba-nyonya-heritage-museum.yaml) — 8.1/8.5/8.5/8.5/7.8; existing named editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.1, E -0.2, D +0.2.
 - [Humble Administrator's Garden (CN)](../../../countries/CN/sights/humble-administrators-garden.yaml) — 9.0/9.4/9.3/9.3/8.5; existing named editorial peer. Subject minus peer: I -1.0, U -0.9, S -0.7, E -1.0, D -0.5.
 - [Lou Kau Mansion (MO)](../../../countries/MO/sights/lou-kau-mansion.yaml) — 7.6/8.0/8.0/7.8/7.1; existing named editorial peer. Subject minus peer: I +0.4, U +0.5, S +0.6, E +0.5, D +0.9.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 829.00 vs Humble Administrator's Garden 915.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -439,8 +423,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Royal Gardens Siem Reap (KH)](../../../countries/KH/sights/siem-reap-royal-gardens.yaml) — 7.0/7.1/6.7/7.9/7.7; existing named editorial peer. Subject minus peer: I +0.7, U +0.6, S +0.7, E -0.1, D -0.6.
 - [Singapore Botanic Gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; supplementary garden-type numerical anchor. Subject minus peer: I -1.4, U -1.5, S -2.0, E -1.4, D -2.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 759.50 vs Singapore Botanic Gardens 922.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -485,8 +467,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S -1.2, E -0.3, D -0.7.
 - [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -0.9, U -0.9, S -1.5, E -0.7, D -0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 805.00 vs National Museum of Cambodia 902.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -530,8 +510,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Baba Nyonya Heritage Museum (MY)](../../../countries/MY/sights/baba-nyonya-heritage-museum.yaml) — 8.1/8.5/8.5/8.5/7.8; existing named editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.5, E -0.7, D -0.7.
 - [Mandarin's House (MO)](../../../countries/MO/sights/mandarins-house.yaml) — 8.0/8.5/8.6/8.3/8.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.5, S -0.6, E -0.5, D -0.9.
 - [Man Mo Temple (HK)](../../../countries/HK/sights/man-mo-temple-hong-kong.yaml) — 8.6/8.8/8.7/9.0/7.7; existing named editorial peer. Subject minus peer: I -1.0, U -0.8, S -0.7, E -1.2, D -0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 776.00 vs Man Mo Temple 864.00.
 
 No numerical score or evidence-status changes made by this pass.
 

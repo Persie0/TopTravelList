@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cartagena (CO)](../../../countries/CO/cities/cartagena.yaml) — 9.2/9.1/9.3/8.8/9.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S -0.3, E +0.1, D -0.2.
 - [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I +0.8, U +0.9, S +0.9, E +0.5, D +1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 890.50 vs Cartagena 911.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Grand Case (MF)](../../../countries/MF/cities/grand-case.yaml) — 7.8/8.1/7.5/8.5/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.5, E -0.8, D -0.5.
 - [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.4, U +0.1, S +0.1, E -0.3, D -0.3.
 - [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -1.3, U -1.2, S -2.0, E -1.2, D -2.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 743.50 vs Willemstad 890.50.
 
 No numerical score or evidence-status changes made by this pass.
 

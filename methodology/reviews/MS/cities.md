@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [The Bottom (Saba) (BQ)](../../../countries/BQ/cities/the-bottom.yaml) — 7.8/8.1/7.7/7.6/7.1; existing named editorial peer. Subject minus peer: I -1.0, U -0.8, S +0.0, E -0.6, D -0.5.
 - [Road Town (Tortola) (VG)](../../../countries/VG/cities/road-town.yaml) — 7.5/7.7/7.8/8.0/7.5; existing named editorial peer. Subject minus peer: I -0.7, U -0.4, S -0.1, E -1.0, D -0.9.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 711.50 vs Hamilton 798.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -70,8 +68,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Sandy Ground (AI)](../../../countries/AI/cities/sandy-ground.yaml) — 7.8/8.0/7.8/8.1/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.2, E -0.1, D +0.0.
 - [Cruz Bay (Saint John) (VI)](../../../countries/VI/cities/cruz-bay.yaml) — 7.8/7.7/7.2/8.2/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.4, E -0.2, D +0.0.
 - [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.5, E -0.4, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 760.00 vs Gustavia 808.50.
 
 No numerical score or evidence-status changes made by this pass.
 

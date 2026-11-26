@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Rincon (Bonaire) (BQ)](../../../countries/BQ/cities/rincon.yaml) — 7.4/8.2/8.2/7.7/7.3; existing named editorial peer. Subject minus peer: I +0.1, U +0.5, S +0.2, E +0.3, D -0.1.
 - [Flying Fish Cove (The Settlement) (CX)](../../../countries/CX/cities/flying-fish-cove.yaml) — 7.9/8.5/8.0/8.0/7.3; existing named editorial peer. Subject minus peer: I -0.4, U +0.2, S +0.4, E +0.0, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 802.50 vs Edinburgh of the Seven Seas 840.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -70,8 +68,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Georgetown (Ascension Island) (SH)](../../../countries/SH/cities/georgetown.yaml) — 7.5/8.3/8.0/7.6/6.9; existing named editorial peer. Subject minus peer: I -0.7, U -0.6, S -0.7, E -0.1, D +0.0.
 - [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing named editorial peer. Subject minus peer: I -0.7, U -1.0, S -1.1, E -0.5, D -0.3.
 - [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing named editorial peer. Subject minus peer: I -1.2, U -0.9, S -1.1, E -0.8, D -1.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 724.00 vs Stanley 827.50.
 
 No numerical score or evidence-status changes made by this pass.
 

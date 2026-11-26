@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Philipsburg (SX)](../../../countries/SX/cities/philipsburg.yaml) — 7.8/7.8/8.0/8.3/7.9; existing named editorial peer. Subject minus peer: I +0.1, U +0.0, S +0.0, E +0.1, D +0.1.
 - [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.9, U -1.2, S -1.0, E -0.5, D -0.8.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 798.00 vs Willemstad 890.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -71,8 +69,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.1, E -0.4, D -0.6.
 - [Saint-Pierre (MQ)](../../../countries/MQ/cities/saint-pierre.yaml) — 8.2/8.6/8.9/8.1/7.9; existing named editorial peer. Subject minus peer: I +0.3, U +0.2, S +0.2, E +0.4, D +0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 866.50 vs Willemstad 890.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -116,8 +112,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Degerby (Föglö) (AX)](../../../countries/AX/cities/degerby.yaml) — 7.2/7.8/7.6/7.6/6.9; existing named editorial peer. Subject minus peer: I +0.7, U +0.0, S -0.4, E +0.0, D -0.1.
 - [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.3, E -0.4, D -0.3.
 - [Hamilton (BM)](../../../countries/BM/cities/hamilton.yaml) — 7.9/7.8/8.0/8.4/8.0; existing named editorial peer. Subject minus peer: I +0.0, U +0.0, S -0.8, E -0.8, D -1.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 758.00 vs Hamilton 798.00.
 
 No numerical score or evidence-status changes made by this pass.
 

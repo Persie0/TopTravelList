@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Saint-Pierre (Saint Pierre and Miquelon) (PM)](../../../countries/PM/cities/saint-pierre.yaml) — 8.1/8.7/8.3/8.7/8.4; existing linked editorial peer. Subject minus peer: I +0.5, U -0.2, S +0.2, E +0.2, D +0.2.
 - [Tórshavn (FO)](../../../countries/FO/cities/torshavn.yaml) — 8.1/8.5/8.3/8.4/8.1; existing linked editorial peer. Subject minus peer: I +0.5, U +0.0, S +0.2, E +0.5, D +0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 860.00 vs Saint-Malo 882.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mariehamn (AX)](../../../countries/AX/cities/mariehamn.yaml) — 7.8/8.1/8.1/8.4/7.8; existing linked editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.3, E -0.4, D -0.2.
 - [Miquelon village (PM)](../../../countries/PM/cities/miquelon.yaml) — 7.7/8.3/8.1/7.6/7.4; existing linked editorial peer. Subject minus peer: I -0.2, U -0.6, S -0.3, E +0.4, D +0.2.
 - [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing linked editorial peer. Subject minus peer: I -0.5, U -0.9, S -0.6, E -0.3, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 769.50 vs Stanley 827.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Kirkjubøur (FO)](../../../countries/FO/cities/kirkjubour.yaml) — 7.8/8.2/8.6/7.8/7.4; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.5, E +0.4, D +0.5.
 - [Karlby (Kökar) (AX)](../../../countries/AX/cities/karlby.yaml) — 7.1/7.5/6.9/7.3/6.5; existing linked editorial peer. Subject minus peer: I +0.8, U +0.7, S +1.2, E +0.9, D +1.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 806.00 vs Tenby 837.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Gjógv (FO)](../../../countries/FO/cities/gjogv.yaml) — 8.1/7.9/6.8/7.8/6.5; existing linked editorial peer. Subject minus peer: I -0.4, U +0.7, S +1.1, E +0.5, D +1.1.
 - [Karlby (Kökar) (AX)](../../../countries/AX/cities/karlby.yaml) — 7.1/7.5/6.9/7.3/6.5; existing linked editorial peer. Subject minus peer: I +0.6, U +1.1, S +1.0, E +1.0, D +1.1.
 - [Miquelon village (PM)](../../../countries/PM/cities/miquelon.yaml) — 7.7/8.3/8.1/7.6/7.4; existing linked editorial peer. Subject minus peer: I +0.0, U +0.3, S -0.2, E +0.7, D +0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 804.50 vs Miquelon village 788.50.
 
 No numerical score or evidence-status changes made by this pass.
 

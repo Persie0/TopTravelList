@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.4, U -0.7, S -0.9, E -0.5, D -1.0.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.4, U -0.8, S -1.2, E +0.7, D +0.8.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 884.50 vs Ogasawara Islands 949.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 #### Scoring decisions
@@ -70,8 +68,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; existing named editorial peer. Subject minus peer: I -0.3, U +0.0, S -1.0, E -0.3, D -0.9.
 - [Dyrhólaey (IS)](../../../countries/IS/sights/dyrholaey.yaml) — 9.0/8.8/8.5/8.6/7.9; existing named editorial peer. Subject minus peer: I +0.2, U +0.3, S -0.8, E +0.1, D -0.6.
 - [Nha Trang Beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) — 8.5/8.0/7.3/9.0/8.7; existing named editorial peer. Subject minus peer: I +0.7, U +1.1, S +0.4, E -0.3, D -1.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.00 vs Ha Long Bay 978.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -117,8 +113,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Erawan Waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; supplementary waterfall-type numerical anchor. Subject minus peer: I +0.2, U -0.2, S -0.1, E -0.9, D -1.4.
 - [Iguazú Falls (Argentine circuits) (AR)](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) — 9.9/9.8/9.2/9.6/8.6; supplementary waterfall-type numerical anchor. Subject minus peer: I -1.0, U -1.3, S -2.2, E -1.5, D -2.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 807.00 vs Iguazú Falls (Argentine circuits) 956.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 #### Scoring decisions
@@ -162,8 +156,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Dyrhólaey (IS)](../../../countries/IS/sights/dyrholaey.yaml) — 9.0/8.8/8.5/8.6/7.9; existing named editorial peer. Subject minus peer: I +0.1, U -0.2, S -1.3, E +0.2, D -0.2.
 - [Nha Trang Beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) — 8.5/8.0/7.3/9.0/8.7; existing named editorial peer. Subject minus peer: I +0.6, U +0.6, S -0.1, E -0.2, D -1.0.
 - [Gibbs Hill Lighthouse (exterior viewpoint) (BM)](../../../countries/BM/sights/gibbs-hill-lighthouse.yaml) — 8.3/8.1/8.3/7.9/6.8; supplementary lighthouse-type numerical anchor. Subject minus peer: I +0.8, U +0.5, S -1.1, E +0.9, D +0.9.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 841.00 vs Cliffs of Moher 903.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -209,8 +201,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Made in Cambodia Market Siem Reap (KH)](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; existing named editorial peer. Subject minus peer: I +0.2, U +0.7, S +1.3, E -0.6, D -0.6.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -1.2, U -0.4, S +0.2, E -1.1, D -1.9.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 820.50 vs Þingvellir National Park 914.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 #### Scoring decisions
@@ -255,8 +245,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Oura Church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; supplementary religious-type numerical anchor. Subject minus peer: I -0.8, U -0.7, S -0.6, E -1.1, D -0.8.
 - [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; supplementary religious-type numerical anchor. Subject minus peer: I -0.2, U -0.4, S +0.3, E -0.4, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 786.50 vs Schönbrunn Palace 942.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 #### Scoring decisions
@@ -300,8 +288,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jökulsárlón Glacier Lagoon (IS)](../../../countries/IS/sights/jokulsarlon.yaml) — 9.6/9.4/9.0/9.2/8.6; existing named editorial peer. Subject minus peer: I -1.0, U -1.3, S -2.0, E -1.1, D -1.5.
 - [Nha Trang Beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) — 8.5/8.0/7.3/9.0/8.7; existing named editorial peer. Subject minus peer: I +0.1, U +0.1, S -0.3, E -0.9, D -1.6.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.9, U -1.1, S -1.0, E -1.2, D -1.7.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 793.00 vs Ha Long Bay 978.50.
 
 No numerical score or evidence-status changes made by this pass.
 

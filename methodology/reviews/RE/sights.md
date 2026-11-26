@@ -27,7 +27,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I +0.4, U +0.5, S +0.6, E +0.1, D +0.2.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I +0.4, U +0.4, S +0.8, E +0.2, D +0.9.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.5 vs Jiuzhaigou Valley 9.8; nature category 9.7 vs Jiuzhaigou Valley 10.0; photography category 9.6 vs Jiuzhaigou Valley 9.7; overall 938.00 vs Jiuzhaigou Valley 962.50.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.5 vs Jiuzhaigou Valley 9.8; nature category 9.7 vs Jiuzhaigou Valley 10.0; photography category 9.6 vs Jiuzhaigou Valley 9.7; overall 93.80 vs Jiuzhaigou Valley 96.25.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -73,7 +73,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hawaiʻi Volcanoes National Park (US)](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) — 9.2/9.5/9.5/8.9/9.0; supplementary volcanic-type numerical anchor. Subject minus peer: I +0.3, U -0.2, S -0.3, E +0.1, D +0.0.
 - [Mount Bromo (ID)](../../../countries/ID/sights/mount-bromo.yaml) — 9.5/9.4/8.5/9.3/8.5; supplementary volcanic-type numerical anchor. Subject minus peer: I +0.0, U -0.1, S +0.7, E -0.3, D +0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.5 vs Mount Etna World Heritage landscape 9.5; photography category 9.5 vs Mount Etna World Heritage landscape 9.6; overall 926.50 vs Mount Etna World Heritage landscape 936.00.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.5 vs Mount Etna World Heritage landscape 9.5; photography category 9.5 vs Mount Etna World Heritage landscape 9.6; overall 92.65 vs Mount Etna World Heritage landscape 93.60.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,7 +119,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I +0.3, U +0.3, S +0.1, E +0.1, D +0.0.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I +0.3, U +0.2, S +0.3, E +0.2, D +0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 918.00 vs Colca Canyon 910.00.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 91.80 vs Colca Canyon 91.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -165,8 +165,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Piton de la Fournaise (RE)](../../../countries/RE/sights/piton-de-la-fournaise.yaml) — 9.5/9.3/9.2/9.0/9.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.6, S -0.5, E -0.2, D -0.6.
 - [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -0.3, U -0.4, S -0.3, E -0.7, D -1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 880.50 vs Teide National Park 937.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -210,8 +208,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Colca Canyon (PE)](../../../countries/PE/sights/colca-canyon.yaml) — 9.4/9.2/8.6/9.0/9.1; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.1, E +0.0, D -0.2.
 - [Cirque de Salazie (RE)](../../../countries/RE/sights/cirque-de-salazie.yaml) — 9.0/8.7/8.5/8.8/8.7; existing named editorial peer. Subject minus peer: I +0.1, U +0.0, S +0.0, E +0.2, D +0.2.
 - [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; supplementary trail-type numerical anchor. Subject minus peer: I +0.4, U +0.3, S +1.8, E +0.3, D +1.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 884.50 vs Cirque de Mafate 918.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -257,8 +253,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.1, U -0.2, S -0.2, E -0.3, D -0.5.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.1, U -0.3, S +0.0, E -0.2, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 876.50 vs Cirque de Mafate 918.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -302,8 +296,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -0.4, U -0.2, S -0.4, E -0.7, D -0.7.
 - [Tojinbo Cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; supplementary coast-type numerical anchor. Subject minus peer: I +0.4, U +0.0, S +0.2, E -0.5, D -0.5.
 - [Durdle Door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; supplementary coast-type numerical anchor. Subject minus peer: I +0.1, U +0.0, S -0.1, E -0.4, D -0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.00 vs Cliffs of Moher 903.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -349,8 +341,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cirque de Mafate (RE)](../../../countries/RE/sights/cirque-de-mafate.yaml) — 9.4/9.2/8.8/9.2/9.2; existing named editorial peer. Subject minus peer: I -0.4, U -0.7, S -1.2, E -0.6, D -1.9.
 - [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -0.5, U -0.6, S -1.1, E -0.4, D -0.9.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 836.50 vs Cirque de Mafate 918.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -395,8 +385,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Kuang Si Waterfalls (LA)](../../../countries/LA/sights/kuang-si-waterfalls.yaml) — 9.4/9.2/8.0/9.3/8.6; supplementary waterfall-type numerical anchor. Subject minus peer: I -0.9, U -1.3, S -1.0, E -1.1, D -1.6.
 - [Erawan Waterfalls (TH)](../../../countries/TH/sights/erawan-waterfalls.yaml) — 8.7/8.7/7.1/9.0/8.0; supplementary waterfall-type numerical anchor. Subject minus peer: I -0.2, U -0.8, S -0.1, E -0.8, D -1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 785.50 vs Kuang Si Waterfalls 897.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -440,8 +428,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Piton de la Fournaise (RE)](../../../countries/RE/sights/piton-de-la-fournaise.yaml) — 9.5/9.3/9.2/9.0/9.0; existing named editorial peer. Subject minus peer: I -0.7, U -0.5, S -1.1, E -0.6, D -1.2.
 - [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -0.6, U -0.3, S -0.9, E -1.1, D -1.6.
 - [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.4, U -0.2, S -0.7, E -0.4, D -0.9.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 850.00 vs Piton de la Fournaise 926.50.
 
 No numerical score or evidence-status changes made by this pass.
 

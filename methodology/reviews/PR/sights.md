@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pigeon Island National Landmark (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) — 8.6/8.5/8.8/8.8/8.3; existing linked editorial peer. Subject minus peer: I +0.3, U +0.3, S +0.3, E -0.1, D +0.3.
 - [Fort Hamilton (Bequia) (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) — 7.6/7.7/8.0/7.9/6.1; existing linked editorial peer. Subject minus peer: I +1.3, U +1.1, S +1.1, E +0.8, D +2.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 885.50 vs Hohensalzburg Fortress 916.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -76,7 +74,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I +0.1, U +0.3, S +0.8, E -0.1, D -1.0.
 - [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I +0.2, U +0.2, S -0.3, E +0.1, D -1.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.6 vs Bora Bora Lagoon 9.5; uniqueness 9.5 vs Tobago Cays Marine Park 9.3; nature category 9.5 vs Tobago Cays Marine Park 9.5; overall 917.50 vs Tobago Cays Marine Park 922.00.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.6 vs Bora Bora Lagoon 9.5; uniqueness 9.5 vs Tobago Cays Marine Park 9.3; nature category 9.5 vs Tobago Cays Marine Park 9.5; overall 91.75 vs Tobago Cays Marine Park 92.20.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -122,8 +120,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0/8.9/8.8/8.9/9.0; supplementary forest-type numerical anchor. Subject minus peer: I +0.0, U -0.1, S +0.0, E +0.1, D +0.0.
 - [Laurisilva of Madeira (PT)](../../../countries/PT/sights/laurisilva.yaml) — 9.2/9.4/9.5/9.1/9.3; supplementary forest-type numerical anchor. Subject minus peer: I -0.2, U -0.6, S -0.7, E -0.1, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 891.00 vs Laurisilva of Madeira 930.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -167,8 +163,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; existing named editorial peer. Subject minus peer: I +0.4, U +0.5, S +0.2, E +0.4, D +0.4.
 - [Nha Trang Beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) — 8.5/8.0/7.3/9.0/8.7; existing named editorial peer. Subject minus peer: I +0.5, U +0.3, S -0.7, E +0.1, D -1.5.
 - [White Beach, Boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; supplementary beach-type numerical anchor. Subject minus peer: I -0.1, U -0.1, S -0.2, E +0.1, D -0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 818.00 vs Anse Source d'Argent 906.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -214,8 +208,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Blue Cave, Biševo (HR)](../../../countries/HR/sights/blue-cave.yaml) — 8.9/9.1/8.4/8.6/6.5; supplementary cave-type numerical anchor. Subject minus peer: I -0.1, U -0.5, S -0.1, E -0.2, D +1.7.
 - [Benagil sea cave (PT)](../../../countries/PT/sights/benagil.yaml) — 9.1/9.0/8.2/8.5/6.8; supplementary cave-type numerical anchor. Subject minus peer: I -0.3, U -0.4, S +0.1, E -0.1, D +1.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 853.00 vs Son Doong Cave 963.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -259,8 +251,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Camargue wetland landscape (FR)](../../../countries/FR/sights/camargue.yaml) — 9.0/9.2/9.1/9.0/9.1; existing named editorial peer. Subject minus peer: I -0.8, U -1.2, S -1.0, E -1.1, D -1.7.
 - [Gibbs Hill Lighthouse (exterior viewpoint) (BM)](../../../countries/BM/sights/gibbs-hill-lighthouse.yaml) — 8.3/8.1/8.3/7.9/6.8; supplementary lighthouse-type numerical anchor. Subject minus peer: I -0.1, U -0.1, S -0.2, E +0.0, D +0.6.
 - [California Lighthouse (AW)](../../../countries/AW/sights/california-lighthouse.yaml) — 8.2/8.0/7.8/8.2/7.0; supplementary lighthouse-type numerical anchor. Subject minus peer: I +0.0, U +0.0, S +0.3, E -0.3, D +0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 800.50 vs Salar de Uyuni 955.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -306,8 +296,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Gibbs Hill Lighthouse (exterior viewpoint) (BM)](../../../countries/BM/sights/gibbs-hill-lighthouse.yaml) — 8.3/8.1/8.3/7.9/6.8; supplementary lighthouse-type numerical anchor. Subject minus peer: I +0.2, U -0.2, S -0.8, E +0.4, D +0.4.
 - [California Lighthouse (AW)](../../../countries/AW/sights/california-lighthouse.yaml) — 8.2/8.0/7.8/8.2/7.0; supplementary lighthouse-type numerical anchor. Subject minus peer: I +0.3, U -0.1, S -0.3, E +0.1, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 799.00 vs Dyrhólaey 868.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -351,8 +339,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Luminous Lagoon (JM)](../../../countries/JM/sights/luminous-lagoon.yaml) — 8.9/9.2/8.3/8.7/7.1; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.3, E +0.0, D +0.4.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.7, U -0.3, S +0.0, E -0.6, D -1.3.
 - [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.6, U -0.4, S -1.1, E -0.4, D -1.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 852.00 vs Tobago Cays Marine Park 922.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -398,8 +384,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Luminous Lagoon (JM)](../../../countries/JM/sights/luminous-lagoon.yaml) — 8.9/9.2/8.3/8.7/7.1; existing named editorial peer. Subject minus peer: I -0.3, U -0.6, S -0.4, E -0.1, D +0.3.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.9, U -0.6, S -0.1, E -0.7, D -1.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 834.00 vs Mosquito Bioluminescent Bay 917.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -444,8 +428,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I -0.4, U -0.6, S -1.0, E -1.1, D -2.1.
 - [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -1.0, U -0.8, S -1.2, E -1.3, D -2.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 760.00 vs National Museum of Bermuda (The Keep) 876.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -489,8 +471,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [El Yunque National Forest (PR)](../../../countries/PR/sights/el-yunque.yaml) — 9.0/8.8/8.8/9.0/9.0; existing named editorial peer. Subject minus peer: I -0.8, U -0.3, S -0.2, E -0.8, D -0.8.
 - [Cabo Rojo Salt Flats (PR)](../../../countries/PR/sights/cabo-rojo-salt-flats.yaml) — 8.2/8.0/8.1/7.9/7.4; existing named editorial peer. Subject minus peer: I +0.0, U +0.5, S +0.5, E +0.3, D +0.8.
 - [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; supplementary forest-type numerical anchor. Subject minus peer: I -0.8, U -0.7, S -0.4, E -0.6, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 835.50 vs Peaks National Park (Diana's Peak trails) 898.00.
 
 No numerical score or evidence-status changes made by this pass.
 

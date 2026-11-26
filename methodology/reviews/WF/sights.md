@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [House of Taga (Tinian) (MP)](../../../countries/MP/sights/house-of-taga.yaml) — 8.0/8.8/9.0/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.5, U +0.2, S +0.2, E +0.2, D +0.8.
 - [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.0, E -0.6, D -0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 870.00 vs Taputapuātea (Raiatea) 898.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Matapa Chasm (NU)](../../../countries/NU/sights/matapa-chasm.yaml) — 8.9/8.7/8.5/8.7/7.9; existing linked editorial peer. Subject minus peer: I +0.2, U +0.1, S -0.2, E -0.4, D -0.1.
 - [Hienghène Rock Formations (La Poule and Lindéralique) (NC)](../../../countries/NC/sights/hienghene-rocks.yaml) — 9.0/9.0/8.2/8.7/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S +0.1, E -0.4, D -0.4.
 - [Vai Nauri cave pool (Mitiaro) (CK)](../../../countries/CK/sights/vai-nauri.yaml) — 8.6/8.7/7.9/8.1/7.3; existing linked editorial peer. Subject minus peer: I +0.5, U +0.1, S +0.4, E +0.2, D +0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.50 vs Hienghène Rock Formations (La Poule and Lindéralique) 871.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing linked editorial peer. Subject minus peer: I +0.1, U -0.1, S -0.4, E -0.2, D +0.2.
 - [Southern atoll lagoon and guided island canoe circuit (CC)](../../../countries/CC/sights/southern-lagoon-canoe.yaml) — 8.9/8.6/8.5/8.7/8.4; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S -0.1, E +0.1, D +0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 875.00 vs Aitutaki Lagoon and permitted motu cruise circuit 911.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing linked editorial peer. Subject minus peer: I +0.1, U +0.1, S +0.2, E -0.1, D +0.5.
 - [Hagåtña heritage walking trail (Plaza de España and Latte Stone Park) (GU)](../../../countries/GU/sights/hagatna-heritage-trail.yaml) — 8.0/8.6/8.8/8.3/8.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.2, S -0.1, E -0.3, D -0.8.
 - [House of Taga (Tinian) (MP)](../../../countries/MP/sights/house-of-taga.yaml) — 8.0/8.8/9.0/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.4, S -0.3, E +0.0, D +0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 830.00 vs Hagåtña heritage walking trail (Plaza de España and Latte Stone Park) 840.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -211,8 +203,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.7, U -0.6, S -0.4, E -0.5, D -0.5.
 - [Hikutavake Sea Track and reef outlook (NU)](../../../countries/NU/sights/hikutavake-sea-track.yaml) — 8.3/8.0/7.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.3, E +0.0, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 781.50 vs Mount ʻAlava and Fatifati Auala trail network 865.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -256,8 +246,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Avaiki Cave and coastal pool (NU)](../../../countries/NU/sights/avaiki-cave.yaml) — 8.9/8.9/8.8/8.4/8.0; existing linked editorial peer. Subject minus peer: I -1.0, U -0.8, S -0.6, E -0.7, D -0.6.
 - [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing linked editorial peer. Subject minus peer: I -0.3, U -0.2, S -0.3, E -0.4, D +0.2.
 - [Mount Tapochau viewpoint (MP)](../../../countries/MP/sights/tapochau.yaml) — 8.7/8.0/7.6/8.1/7.2; existing linked editorial peer. Subject minus peer: I -0.8, U +0.1, S +0.6, E -0.4, D +0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 793.00 vs Avaiki Cave and coastal pool 871.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -303,8 +291,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.3, U +0.0, S +0.1, E +0.2, D +0.6.
 - [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I +0.0, U -0.1, S +0.1, E -0.1, D +0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs War in the Pacific National Historical Park (public heritage units) 871.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -348,8 +334,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anatakitaki Cave and kopeka habitat (Atiu) (CK)](../../../countries/CK/sights/anatakitaki-cave.yaml) — 8.8/9.3/8.9/8.5/8.4; existing linked editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.1, E -0.3, D +0.2.
 - [Ofu Beach and fringing reef (AS)](../../../countries/AS/sights/ofu-beach.yaml) — 9.3/8.9/8.9/8.8/8.3; existing linked editorial peer. Subject minus peer: I -0.4, U +0.0, S -0.1, E -0.6, D +0.3.
 - [Blue River Provincial Park (NC)](../../../countries/NC/sights/blue-river-park.yaml) — 8.9/9.1/9.1/8.7/8.9; existing linked editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.3, E -0.5, D -0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 874.50 vs Blue River Provincial Park 896.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -395,8 +379,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Taputapuātea (Raiatea) (PF)](../../../countries/PF/sights/taputapuatea.yaml) — 8.8/9.3/9.4/8.6/8.5; existing linked editorial peer. Subject minus peer: I -0.1, U -0.7, S -0.4, E -0.3, D -0.4.
 - [Hagåtña heritage walking trail (Plaza de España and Latte Stone Park) (GU)](../../../countries/GU/sights/hagatna-heritage-trail.yaml) — 8.0/8.6/8.8/8.3/8.5; existing linked editorial peer. Subject minus peer: I +0.7, U +0.0, S +0.2, E +0.0, D -0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.50 vs Taputapuātea (Raiatea) 898.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -440,8 +422,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Te Rua Manga (The Needle) and Cross Island Trek (CK)](../../../countries/CK/sights/cross-island-trek.yaml) — 8.9/8.6/8.1/8.6/8.4; existing linked editorial peer. Subject minus peer: I -0.2, U -0.4, S -0.1, E -0.5, D +0.0.
 - [Huvalu Forest Conservation Area (permitted forest routes) (NU)](../../../countries/NU/sights/huvalu-forest.yaml) — 8.4/8.6/8.9/8.2/8.6; existing linked editorial peer. Subject minus peer: I +0.3, U -0.4, S -0.9, E -0.1, D -0.2.
 - [Belvédère d'Opunohu (PF)](../../../countries/PF/sights/opunohu-belvedere.yaml) — 8.8/8.1/6.8/8.2/7.1; existing linked editorial peer. Subject minus peer: I -0.1, U +0.1, S +1.2, E -0.1, D +1.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 831.50 vs Te Rua Manga (The Needle) and Cross Island Trek 857.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -487,8 +467,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.2, E -0.4, D -0.8.
 - [Pola Island coastal viewpoint and Sauma Ridge (AS)](../../../countries/AS/sights/pola-sauma.yaml) — 9.0/8.7/8.6/8.5/7.9; existing linked editorial peer. Subject minus peer: I -0.4, U -0.7, S -0.9, E -0.4, D -0.9.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 803.50 vs Pola Island coastal viewpoint and Sauma Ridge 866.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -532,8 +510,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Tjibaou Cultural Centre (NC)](../../../countries/NC/sights/tjibaou-cultural-centre.yaml) — 8.7/9.1/8.8/8.7/8.6; existing linked editorial peer. Subject minus peer: I -0.7, U -0.6, S -0.3, E -1.1, D -0.9.
 - [Taputapuātea (Raiatea) (PF)](../../../countries/PF/sights/taputapuatea.yaml) — 8.8/9.3/9.4/8.6/8.5; existing linked editorial peer. Subject minus peer: I -0.8, U -0.8, S -0.9, E -1.0, D -0.8.
 - [Arai-te-Tonga marae and royal court (Rarotonga) (CK)](../../../countries/CK/sights/arai-te-tonga.yaml) — 7.9/8.8/9.0/7.8/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U -0.3, S -0.5, E -0.2, D +0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 813.50 vs Taputapuātea (Raiatea) 898.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -624,8 +600,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing linked editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.4, D +0.0.
 - [Fort Nuestra Señora de la Soledad (GU)](../../../countries/GU/sights/fort-soledad.yaml) — 8.3/8.1/8.4/7.9/7.0; existing linked editorial peer. Subject minus peer: I -0.3, U +0.0, S -0.2, E -0.2, D +0.2.
 - [House of Taga (Tinian) (MP)](../../../countries/MP/sights/house-of-taga.yaml) — 8.0/8.8/9.0/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.0, U -0.7, S -0.8, E -0.3, D -0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 794.00 vs House of Taga (Tinian) 835.00.
 
 No numerical score or evidence-status changes made by this pass.
 

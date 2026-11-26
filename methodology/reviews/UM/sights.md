@@ -30,8 +30,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 Incomplete additional references (not counted toward the four complete profiles):
 - [Kingman Reef National Wildlife Refuge (UM)](../../../countries/UM/sights/kingman-reef.yaml) — null/9.3/9.2/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 887.00 vs Galápagos Islands (World Heritage property) 978.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions

@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.3, U +0.0, S +0.1, E -0.2, D -0.1.
 - [Direction Island (Cossie's Beach and heritage trail) (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; existing linked editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.9, E -0.3, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 877.00 vs Ofu Beach and fringing reef 894.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -73,8 +71,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pola Island coastal viewpoint and Sauma Ridge (AS)](../../../countries/AS/sights/pola-sauma.yaml) — 9.0/8.7/8.6/8.5/7.9; existing linked editorial peer. Subject minus peer: I -0.1, U -0.5, S -0.8, E +0.0, D -0.7.
 - [Sandy Bay volcanic coast (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.1, S +0.1, E +0.6, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs Pola Island coastal viewpoint and Sauma Ridge 866.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -118,8 +114,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Direction Island (Cossie's Beach and heritage trail) (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; existing linked editorial peer. Subject minus peer: I -0.4, U -0.7, S -0.2, E +0.0, D +0.1.
 - [Ofu Beach and fringing reef (AS)](../../../countries/AS/sights/ofu-beach.yaml) — 9.3/8.9/8.9/8.8/8.3; existing linked editorial peer. Subject minus peer: I -0.6, U -1.0, S -1.1, E -0.1, D -0.1.
 - [Flying Fish Cove beach and shore reef (CX)](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — 8.6/8.5/8.5/8.6/8.1; existing linked editorial peer. Subject minus peer: I +0.1, U -0.6, S -0.7, E +0.1, D +0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.00 vs Ofu Beach and fringing reef 894.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -168,8 +162,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 Incomplete additional references (not counted toward the four complete profiles):
 - [Midway Atoll National Wildlife Refuge and Battle of Midway National Memorial (UM)](../../../countries/UM/sights/midway-atoll.yaml) — null/9.3/9.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.5, S -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 871.00 vs Hiroshima Peace Memorial Museum 946.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -213,8 +205,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.5, U +0.2, S +0.1, E +0.2, D +0.8.
 - [Jacob's Ladder (SH)](../../../countries/SH/sights/jacobs-ladder.yaml) — 8.4/8.5/8.2/8.3/7.1; existing linked editorial peer. Subject minus peer: I -0.4, U +0.1, S +0.6, E +0.0, D +1.4.
 - [Oceania House historic residence (CC)](../../../countries/CC/sights/oceania-house.yaml) — 7.8/8.6/8.7/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.1, E +0.2, D +1.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 840.50 vs Kingston and Arthur's Vale Historic Area 892.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -260,8 +250,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pulu Cocos Museum (CC)](../../../countries/CC/sights/pulu-cocos-museum.yaml) — 7.1/8.4/8.5/7.8/7.2; existing linked editorial peer. Subject minus peer: I +0.9, U +0.3, S +0.4, E +0.7, D +1.1.
 - [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I +0.6, U -0.1, S +0.1, E +0.5, D +0.9.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 846.00 vs Norfolk Island Museum 826.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -305,8 +293,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fletcher's Mutiny Cyclorama (NF)](../../../countries/NF/sights/fletchers-mutiny-cyclorama.yaml) — 7.8/8.5/7.9/8.4/7.1; existing linked editorial peer. Subject minus peer: I +0.0, U -0.3, S +0.2, E +0.2, D +0.7.
 - [Pulu Cocos Museum (CC)](../../../countries/CC/sights/pulu-cocos-museum.yaml) — 7.1/8.4/8.5/7.8/7.2; existing linked editorial peer. Subject minus peer: I +0.7, U -0.2, S -0.4, E +0.8, D +0.6.
 - [Potato Patches (Tristan da Cunha) (SH)](../../../countries/SH/sights/potato-patches.yaml) — 7.9/8.8/8.2/7.8/7.1; existing linked editorial peer. Subject minus peer: I -0.1, U -0.6, S -0.1, E +0.8, D +0.7.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 808.00 vs Potato Patches (Tristan da Cunha) 809.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -352,8 +338,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Aunuʻu crater and Faʻamulivai Marsh (AS)](../../../countries/AS/sights/aunuu-crater.yaml) — 8.4/8.8/8.7/8.0/7.7; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.2, E +0.6, D +0.7.
 - [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.6, E +0.2, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 853.00 vs Kingston and Arthur's Vale Historic Area 892.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -397,8 +381,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jacob's Ladder (SH)](../../../countries/SH/sights/jacobs-ladder.yaml) — 8.4/8.5/8.2/8.3/7.1; existing linked editorial peer. Subject minus peer: I -0.1, U -0.4, S +0.2, E -0.4, D -0.1.
 - [Bounty Bay and Hill of Difficulty (PN)](../../../countries/PN/sights/bounty-bay.yaml) — 8.2/8.6/8.7/7.8/7.1; existing linked editorial peer. Subject minus peer: I +0.1, U -0.5, S -0.3, E +0.1, D -0.1.
 - [South Point former settlement heritage precinct (CX)](../../../countries/CX/sights/south-point-heritage.yaml) — 7.8/8.4/8.4/7.8/7.4; existing linked editorial peer. Subject minus peer: I +0.5, U -0.3, S +0.0, E +0.1, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 808.00 vs Kingston and Arthur's Vale Historic Area 892.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -444,8 +426,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U +0.0, S -0.6, E +0.0, D -0.4.
 - [Scout Park and Pulu Maraya tidal reef walk (CC)](../../../countries/CC/sights/scout-park-pulu-maraya.yaml) — 8.5/8.4/8.0/8.4/7.7; existing linked editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.7, E -0.4, D -0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 792.50 vs Scout Park and Pulu Maraya tidal reef walk 828.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -489,8 +469,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Tuafanua rainforest and coastal trail (AS)](../../../countries/AS/sights/tuafanua-trail.yaml) — 8.6/8.3/8.0/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U -0.5, S -0.7, E +0.0, D +0.2.
 - [Norfolk Island Botanic Garden (NF)](../../../countries/NF/sights/botanic-garden.yaml) — 7.9/8.5/8.5/8.3/7.6; existing linked editorial peer. Subject minus peer: I +0.3, U -0.7, S -1.2, E -0.1, D +0.2.
 - [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.8, U -1.4, S -1.7, E -0.6, D -0.8.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 788.00 vs Peaks National Park (Diana's Peak trails) 898.00.
 
 No numerical score or evidence-status changes made by this pass.
 

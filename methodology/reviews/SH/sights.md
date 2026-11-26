@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Napoleon's original tomb (Valley of the Tomb) (SH)](../../../countries/SH/sights/napoleons-tomb.yaml) — 7.8/8.7/9.0/7.7/6.5; supplementary tomb-type numerical anchor. Subject minus peer: I +0.7, U +0.5, S +0.3, E +0.8, D +1.7.
 - [Asuka Ishibutai Tomb (JP)](../../../countries/JP/sights/asuka-ishibutai-tomb.yaml) — 8.4/8.9/9.1/8.4/7.6; supplementary tomb-type numerical anchor. Subject minus peer: I +0.1, U +0.3, S +0.2, E +0.1, D +0.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 880.50 vs Anne Frank House 913.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -70,8 +68,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Asuka Ishibutai Tomb (JP)](../../../countries/JP/sights/asuka-ishibutai-tomb.yaml) — 8.4/8.9/9.1/8.4/7.6; supplementary tomb-type numerical anchor. Subject minus peer: I -0.6, U -0.2, S -0.1, E -0.7, D -1.1.
 - [Tomok Batak Royal Tombs (ID)](../../../countries/ID/sights/tomok-batak-royal-tombs.yaml) — 8.1/8.6/8.6/8.3/7.4; supplementary tomb-type numerical anchor. Subject minus peer: I -0.3, U +0.1, S +0.4, E -0.6, D -0.9.
 - [Ming Tombs (CN)](../../../countries/CN/sights/ming-tombs.yaml) — 9.3/9.4/9.7/9.1/9.5; supplementary tomb-type numerical anchor. Subject minus peer: I -1.5, U -0.7, S -0.7, E -1.4, D -3.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 812.00 vs Ming Tombs 939.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -117,8 +113,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Tojinbo Cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; supplementary coast-type numerical anchor. Subject minus peer: I -0.3, U -0.4, S +0.1, E -0.5, D -0.9.
 - [Durdle Door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; supplementary coast-type numerical anchor. Subject minus peer: I -0.6, U -0.4, S -0.2, E -0.4, D -0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 824.00 vs Cliffs of Moher 903.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -162,8 +156,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Oslo Opera House (NO)](../../../countries/NO/sights/oslo-opera-house.yaml) — 8.7/8.8/8.3/8.9/7.9; supplementary building-type numerical anchor. Subject minus peer: I -0.7, U +0.0, S +0.3, E -0.8, D -0.5.
 - [Margravial Opera House Bayreuth (DE)](../../../countries/DE/sights/bayreuth-opera.yaml) — 9.0/9.2/9.3/8.8/8.0; supplementary building-type numerical anchor. Subject minus peer: I -1.0, U -0.4, S -0.7, E -0.7, D -0.6.
 - [Guggenheim Museum Bilbao (ES)](../../../countries/ES/sights/guggenheim.yaml) — 9.2/9.4/9.1/9.0/8.8; supplementary building-type numerical anchor. Subject minus peer: I -1.2, U -0.6, S -0.5, E -0.9, D -1.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs Guggenheim Museum Bilbao 916.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -209,8 +201,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -0.4, U +0.1, S +0.0, E -0.7, D -0.8.
 - [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.2, U +0.2, S +0.2, E +0.0, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 898.00 vs Piton de la Fournaise 926.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -254,8 +244,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.9, U -0.9, S -0.3, E -1.4, D -1.3.
 - [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.8, U -1.0, S -1.4, E -1.2, D -1.4.
 - [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8/9.9/9.7/9.8/9.6; supplementary lagoon-type numerical anchor. Subject minus peer: I -1.2, U -1.6, S -2.0, E -1.9, D -2.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 813.00 vs Ha Long Bay 978.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -301,8 +289,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [National Museum of Singapore (SG)](../../../countries/SG/sights/national-museum-of-singapore.yaml) — 8.5/8.5/8.7/8.7/8.6; existing named editorial peer. Subject minus peer: I -1.0, U -0.2, S -0.1, E -0.7, D -1.1.
 - [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -1.3, U -0.8, S -0.7, E -1.1, D -1.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 799.50 vs National Museum of Cambodia 902.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -346,8 +332,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mount Scenery trail (Saba) (BQ)](../../../countries/BQ/sights/mount-scenery.yaml) — 8.9/9.0/8.7/8.8/8.4; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.3, D -0.2.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.8, U -0.9, S -1.1, E -0.7, D -1.2.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.8, U -1.0, S -1.4, E +0.5, D +0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 858.50 vs Ogasawara Islands 949.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -393,8 +377,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.5, U -0.1, S +0.2, E +0.0, D +0.2.
 - [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.0, U +0.3, S +0.7, E -0.2, D +0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 872.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -438,8 +420,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mount Scenery trail (Saba) (BQ)](../../../countries/BQ/sights/mount-scenery.yaml) — 8.9/9.0/8.7/8.8/8.4; existing named editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.2, E -0.5, D -0.1.
 - [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -0.4, U -0.1, S -0.5, E -1.2, D -1.1.
 - [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.2, U +0.0, S -0.3, E -0.5, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 872.50 vs Hohe Tauern National Park 926.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -485,8 +465,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mount Etna World Heritage landscape (IT)](../../../countries/IT/sights/etna.yaml) — 9.5/9.4/9.4/9.0/9.3; supplementary volcanic-type numerical anchor. Subject minus peer: I -1.2, U -0.7, S -0.6, E -0.8, D -1.8.
 - [Hawaiʻi Volcanoes National Park (US)](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) — 9.2/9.5/9.5/8.9/9.0; supplementary volcanic-type numerical anchor. Subject minus peer: I -0.9, U -0.8, S -0.7, E -0.7, D -1.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 840.50 vs Mount Etna World Heritage landscape 936.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -531,8 +509,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jardin de Balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.7, U +0.6, S +0.5, E -1.0, D -1.2.
 - [Sir Seewoosagur Ramgoolam Botanical Garden (MU)](../../../countries/MU/sights/sir-seewoosagur-ramgoolam-botanical-garden.yaml) — 8.3/8.7/8.7/8.6/8.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.4, U +0.1, S -0.5, E -0.8, D -1.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 809.00 vs Singapore Botanic Gardens 922.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -576,8 +552,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Carcass Island (permitted wildlife walks) (FK)](../../../countries/FK/sights/carcass-island.yaml) — 8.8/8.8/8.9/8.7/8.7; existing named editorial peer. Subject minus peer: I +0.0, U +0.2, S +0.1, E -0.5, D -0.9.
 - [Salisbury Plain (authorized wildlife viewing) (GS)](../../../countries/GS/sights/salisbury-plain.yaml) — 9.4/9.3/9.2/9.1/8.7; existing named editorial peer. Subject minus peer: I -0.6, U -0.3, S -0.2, E -0.9, D -0.9.
 - [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.7, U -0.1, S +0.0, E -0.3, D +0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 870.00 vs Salisbury Plain (authorized wildlife viewing) 922.00.
 
 No numerical score or evidence-status changes made by this pass.
 

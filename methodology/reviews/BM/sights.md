@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; supplementary fort-type numerical anchor. Subject minus peer: I -0.3, U -0.1, S +0.1, E -0.8, D +0.0.
 - [Galle Old Town and Fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; supplementary fort-type numerical anchor. Subject minus peer: I -0.3, U -0.2, S +0.0, E -0.6, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 895.00 vs Galle Old Town and Fortifications 919.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hato Caves (CW)](../../../countries/CW/sights/hato-caves.yaml) — 8.3/8.1/8.0/8.5/7.8; existing named editorial peer. Subject minus peer: I +0.6, U +0.6, S +0.2, E +0.3, D +0.4.
 - [Postojna Cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) — 9.4/9.3/9.1/9.3/9.0; supplementary cave-type numerical anchor. Subject minus peer: I -0.5, U -0.6, S -0.9, E -0.5, D -0.8.
 - [Son Doong Cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; supplementary cave-type numerical anchor. Subject minus peer: I -1.0, U -1.2, S -1.4, E -0.2, D -1.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 862.50 vs Son Doong Cave 963.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I +0.0, U +0.3, S +0.7, E -0.2, D +0.4.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -0.8, U -1.1, S -0.5, E -0.3, D +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 840.50 vs Anse Source d'Argent 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Åland Maritime Museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; existing named editorial peer. Subject minus peer: I +0.6, U +0.3, S +0.5, E +0.0, D +0.4.
 - [Museum Kurá Hulanda (CW)](../../../countries/CW/sights/kura-hulanda.yaml) — 8.2/8.7/9.1/8.5/8.6; existing named editorial peer. Subject minus peer: I +0.4, U +0.1, S -0.1, E +0.2, D +0.2.
 - [Fort St Catherine and Museum (BM)](../../../countries/BM/sights/fort-st-catherine.yaml) — 8.5/8.5/8.9/8.4/8.1; existing named editorial peer. Subject minus peer: I +0.1, U +0.3, S +0.1, E +0.3, D +0.7.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 876.50 vs HMS Victory and Portsmouth Historic Dockyard 902.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -211,8 +203,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.2, E -0.1, D -0.5.
 - [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; supplementary industrial-type numerical anchor. Subject minus peer: I -0.5, U -0.8, S -0.6, E -0.3, D -0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 852.50 vs Historic Area of Willemstad (UNESCO property) 915.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -256,8 +246,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fort Napoléon (Les Saintes) (GP)](../../../countries/GP/sights/fort-napoleon.yaml) — 8.4/8.2/8.2/8.4/7.8; existing named editorial peer. Subject minus peer: I +0.1, U +0.3, S +0.7, E +0.0, D +0.3.
 - [Kastelholm Castle (AX)](../../../countries/AX/sights/kastelholm.yaml) — 8.2/8.3/8.5/8.3/7.9; existing named editorial peer. Subject minus peer: I +0.3, U +0.2, S +0.4, E +0.1, D +0.2.
 - [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; supplementary fort-type numerical anchor. Subject minus peer: I -0.6, U -0.6, S -0.4, E -1.0, D -0.8.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 852.50 vs Hohensalzburg Fortress 916.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -303,8 +291,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cooper's Island Nature Reserve (BM)](../../../countries/BM/sights/coopers-island.yaml) — 8.6/8.4/8.5/8.6/8.3; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S +0.3, E -0.2, D -0.1.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.8, U -0.4, S +0.1, E -0.7, D -1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 845.50 vs Pembrokeshire Coast National Park 898.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -348,8 +334,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing named editorial peer. Subject minus peer: I +0.3, U -0.1, S -0.3, E +0.2, D +0.1.
 - [Île Tintamarre (MF)](../../../countries/MF/sights/tintamarre.yaml) — 8.9/8.7/8.6/8.6/8.0; existing named editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.1, E +0.0, D +0.3.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.9, U -1.3, S -1.0, E -0.6, D -1.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 850.00 vs Ogasawara Islands 949.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -395,8 +379,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Zollverein Coal Mine Industrial Complex (DE)](../../../countries/DE/sights/zollverein.yaml) — 9.0/9.2/9.3/9.0/9.1; supplementary industrial-type numerical anchor. Subject minus peer: I -0.8, U -0.9, S -1.3, E -0.3, D -0.3.
 - [Cornwall and West Devon Mining Landscape (GB)](../../../countries/GB/sights/cornwall-mining.yaml) — 8.6/9.0/9.2/8.7/9.1; supplementary industrial-type numerical anchor. Subject minus peer: I -0.4, U -0.7, S -1.2, E +0.0, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 832.00 vs Zollverein Coal Mine Industrial Complex 912.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -440,8 +422,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fort Karl viewpoint and ruins (BL)](../../../countries/BL/sights/fort-karl.yaml) — 8.0/7.9/8.0/8.1/6.8; existing named editorial peer. Subject minus peer: I +0.3, U +0.2, S +0.3, E -0.2, D +0.0.
 - [Kallur Lighthouse and ridge (FO)](../../../countries/FO/sights/kallur-lighthouse.yaml) — 9.1/8.6/7.2/8.8/7.7; supplementary lighthouse-type numerical anchor. Subject minus peer: I -0.8, U -0.5, S +1.1, E -0.9, D -0.9.
 - [Amédée Lighthouse and Island (NC)](../../../countries/NC/sights/amedee-lighthouse.yaml) — 8.6/8.5/8.0/8.8/8.0; supplementary lighthouse-type numerical anchor. Subject minus peer: I -0.3, U -0.4, S +0.3, E -0.9, D -1.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 804.00 vs Amédée Lighthouse and Island 842.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -487,8 +467,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing named editorial peer. Subject minus peer: I -0.6, U -0.5, S -0.8, E -0.6, D -0.5.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.2, U -1.3, S -0.6, E -0.7, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 812.50 vs Anse Source d'Argent 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -532,8 +510,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Svalbard Museum (SJ)](../../../countries/SJ/sights/svalbard-museum.yaml) — 7.8/8.5/8.4/8.5/8.0; existing named editorial peer. Subject minus peer: I +0.2, U -0.2, S +0.0, E +0.1, D +0.4.
 - [Hong Kong Wetland Park (HK)](../../../countries/HK/sights/hong-kong-wetland-park.yaml) — 7.8/7.9/8.1/8.1/8.0; existing named editorial peer. Subject minus peer: I +0.2, U +0.4, S +0.3, E +0.5, D +0.4.
 - [Okinawa Churaumi Aquarium (JP)](../../../countries/JP/sights/okinawa-churaumi-aquarium.yaml) — 9.0/9.0/7.6/9.3/9.0; supplementary aquarium-type numerical anchor. Subject minus peer: I -1.0, U -0.7, S +0.8, E -0.7, D -0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 828.50 vs Okinawa Churaumi Aquarium 876.50.
 
 No numerical score or evidence-status changes made by this pass.
 

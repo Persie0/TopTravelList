@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Rincon (Bonaire) (BQ)](../../../countries/BQ/cities/rincon.yaml) — 7.4/8.2/8.2/7.7/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.6, S -0.2, E -0.2, D -0.3.
 - [Oranjestad (AW)](../../../countries/AW/cities/oranjestad.yaml) — 7.9/8.0/8.1/8.3/8.0; existing named editorial peer. Subject minus peer: I -0.8, U -0.4, S -0.1, E -0.8, D -1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 745.50 vs Oranjestad 803.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -71,8 +69,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cockburn Harbour (South Caicos) (TC)](../../../countries/TC/cities/cockburn-harbour.yaml) — 7.5/8.0/7.8/7.5/7.0; existing named editorial peer. Subject minus peer: I +0.3, U +0.0, S +0.0, E +0.6, D +0.3.
 - [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.3, E -0.3, D -0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 784.50 vs Gustavia 808.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -116,8 +112,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Sabana Westpunt (CW)](../../../countries/CW/cities/westpunt.yaml) — 7.5/7.8/7.0/7.7/6.8; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.5, E +0.1, D +0.1.
 - [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.3, U +0.3, S +0.6, E -0.2, D -0.2.
 - [Grand Case (MF)](../../../countries/MF/cities/grand-case.yaml) — 7.8/8.1/7.5/8.5/7.3; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.0, E -0.7, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 764.00 vs Grand Case 787.00.
 
 No numerical score or evidence-status changes made by this pass.
 

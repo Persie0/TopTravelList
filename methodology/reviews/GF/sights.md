@@ -66,8 +66,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.4, U +0.2, S +0.8, E -0.2, D -0.1.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.8, U -0.3, S -0.1, E -0.3, D -1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 893.00 vs Shiretoko National Park 941.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -111,8 +109,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.6, U +0.3, S +0.0, E +0.8, D +0.8.
 - [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.1, U +0.0, S -0.2, E +0.3, D -0.3.
 - [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -0.5, U -0.2, S -0.4, E +0.1, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 845.00 vs Guiana Space Centre (guided public tour) 893.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -158,8 +154,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -0.8, S -0.8, E +0.7, D +1.1.
 - [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -1.1, U -0.9, S -0.9, E -0.8, D -0.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 886.50 vs Galápagos Islands (World Heritage property) 978.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -203,8 +197,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Sian Ka'an Biosphere Reserve (MX)](../../../countries/MX/sights/sian-kaan.yaml) — 9.0/8.9/9.2/8.8/9.0; existing named editorial peer. Subject minus peer: I -0.2, U +0.1, S -0.1, E +0.0, D -0.2.
 - [Grand Cul-de-Sac Marin (GP)](../../../countries/GP/sights/grand-cul-de-sac-marin.yaml) — 8.9/8.8/9.0/8.6/8.7; existing named editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.1, E +0.2, D +0.1.
 - [Lake Bled and island landscape (SI)](../../../countries/SI/sights/lake-bled.yaml) — 9.4/9.2/8.7/9.3/8.8; supplementary lake-type numerical anchor. Subject minus peer: I -0.6, U -0.2, S +0.4, E -0.5, D +0.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 891.00 vs Pantanal (Brazilian wildlife routes) 927.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -250,8 +242,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.4, U +0.3, S +0.2, E +0.1, D -0.1.
 - [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -0.2, U +0.1, S +0.0, E -0.1, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 868.50 vs Îles du Salut (Royale and Saint-Joseph visitor areas) 886.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -295,8 +285,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0/8.9/8.8/8.9/9.0; supplementary forest-type numerical anchor. Subject minus peer: I -0.4, U -0.2, S -0.2, E -0.1, D -0.3.
 - [Laurisilva of Madeira (PT)](../../../countries/PT/sights/laurisilva.yaml) — 9.2/9.4/9.5/9.1/9.3; supplementary forest-type numerical anchor. Subject minus peer: I -0.6, U -0.7, S -0.9, E -0.3, D -0.6.
 - [Kinabalu Park (MY)](../../../countries/MY/sights/kinabalu-park.yaml) — 9.4/9.5/9.5/9.2/9.3; supplementary forest-type numerical anchor. Subject minus peer: I -0.8, U -0.8, S -0.9, E -0.4, D -0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 866.50 vs Kinabalu Park 940.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -342,8 +330,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.8, U -0.2, S +0.2, E -0.7, D -0.7.
 - [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.4, U -0.1, S +0.2, E -0.2, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 866.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -388,8 +374,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Blue River Provincial Park (NC)](../../../countries/NC/sights/blue-river-park.yaml) — 8.9/9.1/9.1/8.7/8.9; existing named editorial peer. Subject minus peer: I -0.7, U -0.5, S -0.3, E -0.3, D -0.9.
 - [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; supplementary trail-type numerical anchor. Subject minus peer: I -0.5, U +0.2, S +2.1, E -0.3, D +0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 843.00 vs Blue River Provincial Park 896.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -433,8 +417,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; supplementary trail-type numerical anchor. Subject minus peer: I -0.6, U -0.3, S +1.0, E -0.3, D +0.0.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary trail-type numerical anchor. Subject minus peer: I -1.0, U -0.9, S -0.8, E -0.6, D -1.0.
 - [Samaria Gorge National Park (GR)](../../../countries/GR/sights/samaria.yaml) — 9.3/9.1/8.8/9.0/8.8; supplementary trail-type numerical anchor. Subject minus peer: I -1.2, U -1.0, S -1.1, E -0.6, D -1.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 800.50 vs Samaria Gorge National Park 905.50.
 
 No numerical score or evidence-status changes made by this pass.
 

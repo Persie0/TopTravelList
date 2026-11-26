@@ -25,7 +25,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I +0.7, U +0.5, S -0.2, E +0.9, D +0.2.
 - [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; supplementary museum-type numerical anchor. Subject minus peer: I +0.5, U +0.2, S -0.5, E +0.5, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): experience 9.6 vs National Museum of Cambodia 9.1; photography category 9.9: same-category peer still needed; overall 921.50 vs National Museum of Cambodia 902.00.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): experience 9.6 vs National Museum of Cambodia 9.1; photography category 9.9: same-category peer still needed; overall 92.15 vs National Museum of Cambodia 90.20.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -71,7 +71,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I +0.0, U +0.4, S +0.3, E +0.2, D +0.6.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.4, U -0.1, S -0.6, E +0.1, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 913.00 vs Shiretoko National Park 941.00.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 91.30 vs Shiretoko National Park 94.10.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -117,8 +117,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.4, U +0.7, S +0.3, E +1.2, D +1.4.
 - [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.9, U +0.4, S +0.1, E +0.7, D +0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 897.00 vs National Palace Museum 946.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -162,8 +160,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.6, U -1.1, S -1.2, E +1.3, D +1.8.
 - [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.2, S -1.3, E -0.2, D +0.1.
 - [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: I +0.1, U -0.3, S -0.4, E +1.1, D +1.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 890.00 vs Galápagos Islands (World Heritage property) 978.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -209,8 +205,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -0.7, S -1.4, E +1.3, D +0.4.
 - [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -1.1, U -0.8, S -1.5, E -0.2, D -1.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 879.00 vs Galápagos Islands (World Heritage property) 978.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -254,8 +248,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [MuseumsQuartier (AT)](../../../countries/AT/sights/museumsquartier.yaml) — 8.5/8.7/8.3/9.0/9.0; existing named editorial peer. Subject minus peer: I +0.3, U +0.0, S +0.0, E +0.1, D +0.2.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.3, U +0.4, S -0.3, E +1.1, D +1.7.
 - [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.8, U +0.1, S -0.5, E +0.6, D +0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 876.00 vs Museum Island Berlin 937.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -301,7 +293,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.4, U -0.3, S -0.8, E +0.7, D -0.1.
 - [Mount Kinabalu (MY)](../../../countries/MY/sights/mount-kinabalu.yaml) — 9.4/9.3/8.7/9.1/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.6, U -0.6, S -0.7, E +0.4, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): experience 9.5 vs Hohe Tauern National Park 9.5; overall 870.00 vs Hohe Tauern National Park 926.00.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): experience 9.5 vs Hohe Tauern National Park 9.5.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -347,8 +339,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; supplementary religious-type numerical anchor. Subject minus peer: I +0.7, U +0.3, S +0.5, E +1.0, D +0.7.
 - [Hvalsey Church Ruins (GL)](../../../countries/GL/sights/hvalsey-church.yaml) — 8.3/8.9/9.1/8.2/7.8; supplementary religious-type numerical anchor. Subject minus peer: I +0.3, U -0.1, S -0.4, E +0.8, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 864.00 vs Oura Church 864.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -392,8 +382,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.2, S -0.3, E +0.2, D -1.1.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.3, S -0.1, E +0.3, D -0.4.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.9, U -0.8, S -1.0, E +0.2, D -1.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 864.00 vs Shiretoko National Park 941.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -439,8 +427,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.1, S -0.5, E -0.1, D -0.8.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.2, S -0.3, E +0.0, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.00 vs Pembrokeshire Coast National Park 898.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -484,8 +470,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0/10.0/10.0/9.8/9.5; existing named editorial peer. Subject minus peer: I -1.5, U -1.3, S -1.5, E -0.8, D -1.6.
 - [Oura Church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; supplementary religious-type numerical anchor. Subject minus peer: I +0.0, U -0.1, S -0.6, E +0.3, D +0.2.
 - [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; supplementary religious-type numerical anchor. Subject minus peer: I +0.6, U +0.2, S +0.3, E +1.0, D +0.9.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.50 vs Angkor Wat 992.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -531,8 +515,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Samaria Gorge National Park (GR)](../../../countries/GR/sights/samaria.yaml) — 9.3/9.1/8.8/9.0/8.8; supplementary trail-type numerical anchor. Subject minus peer: I -0.5, U -0.5, S -1.4, E +0.2, D -0.4.
 - [Nakasendo Magome Tsumago Trail (JP)](../../../countries/JP/sights/nakasendo-magome-tsumago-trail.yaml) — 8.6/8.7/8.8/9.0/8.7; supplementary trail-type numerical anchor. Subject minus peer: I +0.2, U -0.1, S -1.4, E +0.2, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 849.00 vs Samaria Gorge National Park 905.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -576,8 +558,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.4, S -1.9, E -0.2, D -0.5.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.5, S -2.2, E +1.0, D +1.3.
 - [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -1.4, U -1.6, S -2.3, E -0.5, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.50 vs Galápagos Islands (World Heritage property) 978.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -623,8 +603,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.4, U -0.4, S -1.4, E +0.2, D -0.9.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.8, U -0.9, S -2.3, E +0.1, D -1.8.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 832.00 vs Shiretoko National Park 941.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -668,8 +646,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Made in Cambodia Market Siem Reap (KH)](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; existing named editorial peer. Subject minus peer: I +0.4, U +0.3, S +0.1, E +0.4, D +0.3.
 - [Chatuchak Weekend Market (TH)](../../../countries/TH/sights/chatuchak-weekend-market.yaml) — 8.8/8.7/8.3/9.3/9.5; supplementary market-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S -0.6, E -0.3, D -1.3.
 - [Ben Thanh Market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2/8.0/8.1/9.0/8.8; supplementary market-type numerical anchor. Subject minus peer: I -0.1, U +0.1, S -0.4, E +0.0, D -0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 816.50 vs Chatuchak Weekend Market 882.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -715,8 +691,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.1, U +0.7, S +0.3, E +0.8, D +1.5.
 - [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.6, U +0.4, S +0.1, E +0.3, D +0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 883.00 vs Tate Modern 917.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -760,8 +734,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Man Mo Temple (HK)](../../../countries/HK/sights/man-mo-temple-hong-kong.yaml) — 8.6/8.8/8.7/9.0/7.7; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.2, E -0.3, D +0.8.
 - [Con Dao Prison Historical Site (VN)](../../../countries/VN/sights/con-dao-prison-complex.yaml) — 8.7/9.1/9.5/8.6/8.8; supplementary prison-type numerical anchor. Subject minus peer: I -0.3, U -0.5, S -1.0, E +0.1, D -0.3.
 - [Abashiri Prison Museum (JP)](../../../countries/JP/sights/abashiri-prison-museum.yaml) — 8.2/8.6/8.4/8.6/8.5; supplementary prison-type numerical anchor. Subject minus peer: I +0.2, U +0.0, S +0.1, E +0.1, D +0.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 852.50 vs Con Dao Prison Historical Site 895.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -807,8 +779,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Singapore Botanic Gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.6, U -0.9, S -1.7, E -0.7, D -1.4.
 - [Jardin de Balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.1, U +0.1, S +0.0, E -0.3, D -0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 823.00 vs Singapore Botanic Gardens 922.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -852,8 +822,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Lantau Island (HK)](../../../countries/HK/sights/lantau-island.yaml) — 8.9/8.7/8.6/9.3/9.4; existing named editorial peer. Subject minus peer: I -0.8, U -0.6, S -1.1, E -0.9, D -1.2.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -1.4, U -1.6, S -2.0, E -0.8, D -1.2.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -1.4, U -1.7, S -2.3, E +0.4, D +0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 803.50 vs Ogasawara Islands 949.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -899,8 +867,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cheow Lan Lake (TH)](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; supplementary lake-type numerical anchor. Subject minus peer: I -1.3, U -1.4, S -0.4, E -1.2, D -0.7.
 - [Weekuri Lagoon (ID)](../../../countries/ID/sights/weekuri-lagoon.yaml) — 9.0/9.0/7.2/9.1/8.0; supplementary lake-type numerical anchor. Subject minus peer: I -1.2, U -1.1, S +0.9, E -1.0, D +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 795.00 vs Lake Bled and island landscape 913.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -944,8 +910,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Oura Church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; supplementary religious-type numerical anchor. Subject minus peer: I +0.3, U +0.1, S -0.5, E +0.3, D +0.5.
 - [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; supplementary religious-type numerical anchor. Subject minus peer: I +0.9, U +0.4, S +0.4, E +1.0, D +1.2.
 - [Hvalsey Church Ruins (GL)](../../../countries/GL/sights/hvalsey-church.yaml) — 8.3/8.9/9.1/8.2/7.8; supplementary religious-type numerical anchor. Subject minus peer: I +0.5, U +0.0, S -0.5, E +0.8, D +0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 875.50 vs Oura Church 864.50.
 
 No numerical score or evidence-status changes made by this pass.
 

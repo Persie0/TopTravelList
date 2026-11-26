@@ -25,7 +25,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Shanghai (CN)](../../../countries/CN/cities/shanghai.yaml) — 9.2/9.0/9.3/9.3/9.9; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S -0.2, E +0.0, D -0.2.
 - [Kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; supplementary urban-type numerical anchor. Subject minus peer: I +1.0, U +0.7, S +0.7, E +0.6, D +1.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): depth 9.7 vs Tokyo 9.9; architecture category 9.7 vs Singapore 9.5; photography category 9.7 vs Shanghai 8.7; overall 927.50 vs Tokyo 957.50.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): depth 9.7 vs Tokyo 9.9; architecture category 9.7 vs Singapore 9.5; photography category 9.7 vs Shanghai 8.7; overall 92.75 vs Tokyo 95.75.
 
 No numerical score or evidence-status changes made by this pass.
 

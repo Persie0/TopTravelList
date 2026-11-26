@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pago Pago (AS)](../../../countries/AS/cities/pago-pago.yaml) — 8.2/8.2/8.1/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.5, U -0.3, S -0.1, E +0.4, D +0.4.
 - [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.8, U +0.2, S +0.6, E +0.7, D +1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 794.50 vs Hagåtña 821.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Tamuning–Tumon (GU)](../../../countries/GU/cities/tamuning-tumon.yaml) — 7.8/7.6/7.3/8.7/8.2; existing linked editorial peer. Subject minus peer: I -0.7, U -0.1, S +0.4, E -1.0, D -1.2.
 - [West Island settlement (CC)](../../../countries/CC/cities/west-island-settlement.yaml) — 6.8/7.7/7.3/7.5/6.9; existing linked editorial peer. Subject minus peer: I +0.3, U -0.2, S +0.4, E +0.2, D +0.1.
 - [Fagatogo (AS)](../../../countries/AS/cities/fagatogo.yaml) — 7.6/8.1/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: I -0.5, U -0.6, S -0.8, E -0.3, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 740.00 vs Fagatogo 795.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fagatogo (AS)](../../../countries/AS/cities/fagatogo.yaml) — 7.6/8.1/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: I -0.3, U -0.1, S -0.3, E -0.4, D -0.5.
 - [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.4, U +0.3, S +0.8, E -0.1, D +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 767.00 vs Bantam (Home Island) 802.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Humåtak (Umatac) (GU)](../../../countries/GU/cities/humatak.yaml) — 7.9/8.1/8.2/7.4/6.8; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.4, E +0.2, D +0.2.
 - [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.5, U -0.6, S -0.6, E -0.4, D -0.2.
 - [Olosega village (AS)](../../../countries/AS/cities/olosega.yaml) — 7.9/8.2/7.6/7.2/6.5; existing linked editorial peer. Subject minus peer: I +0.1, U -0.1, S +0.2, E +0.4, D +0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 782.50 vs Bantam (Home Island) 802.50.
 
 No numerical score or evidence-status changes made by this pass.
 

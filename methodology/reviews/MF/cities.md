@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fort-de-France (MQ)](../../../countries/MQ/cities/fort-de-france.yaml) — 7.7/7.9/8.2/8.2/8.0; existing named editorial peer. Subject minus peer: I +0.0, U -0.1, S -0.2, E +0.0, D -0.3.
 - [Terre-de-Haut (bourg) (GP)](../../../countries/GP/cities/terre-de-haut.yaml) — 8.4/8.2/7.7/8.4/7.6; existing named editorial peer. Subject minus peer: I -0.7, U -0.4, S +0.3, E -0.2, D +0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 786.00 vs Terre-de-Haut (bourg) 813.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -70,8 +68,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.1, U +0.4, S +0.6, E +0.5, D +0.2.
 - [Terre-de-Haut (bourg) (GP)](../../../countries/GP/cities/terre-de-haut.yaml) — 8.4/8.2/7.7/8.4/7.6; existing named editorial peer. Subject minus peer: I -0.6, U -0.1, S -0.2, E +0.1, D -0.3.
 - [Marigot (MF)](../../../countries/MF/cities/marigot.yaml) — 7.7/7.8/8.0/8.2/7.7; existing named editorial peer. Subject minus peer: I +0.1, U +0.3, S -0.5, E +0.3, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 787.00 vs Terre-de-Haut (bourg) 813.00.
 
 No numerical score or evidence-status changes made by this pass.
 

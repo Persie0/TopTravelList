@@ -27,7 +27,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing linked editorial peer. Subject minus peer: I +0.4, U +0.4, S -0.2, E +0.3, D +0.5.
 - [Southern atoll lagoon and guided island canoe circuit (CC)](../../../countries/CC/sights/southern-lagoon-canoe.yaml) — 8.9/8.6/8.5/8.7/8.4; existing linked editorial peer. Subject minus peer: I +0.5, U +0.5, S +0.1, E +0.6, D +0.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 911.00 vs Bora Bora Lagoon 902.50.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 91.10 vs Bora Bora Lagoon 90.25.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -73,8 +73,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mañagaha Island beach and marine conservation area (MP)](../../../countries/MP/sights/managaha.yaml) — 9.0/8.3/8.5/8.7/8.0; existing linked editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.7, E +0.2, D +0.1.
 - [Mouli Beach (NC)](../../../countries/NC/sights/mouli-beach.yaml) — 9.0/8.3/6.8/8.8/7.0; existing linked editorial peer. Subject minus peer: I -0.1, U -0.1, S +1.0, E +0.1, D +1.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 842.50 vs Mañagaha Island beach and marine conservation area 858.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -118,8 +116,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mount ʻAlava and Fatifati Auala trail network (AS)](../../../countries/AS/sights/mount-alava.yaml) — 8.9/8.5/8.5/8.6/8.7; existing linked editorial peer. Subject minus peer: I +0.0, U +0.1, S -0.4, E +0.0, D -0.3.
 - [Belvédère d'Opunohu (PF)](../../../countries/PF/sights/opunohu-belvedere.yaml) — 8.8/8.1/6.8/8.2/7.1; existing linked editorial peer. Subject minus peer: I +0.1, U +0.5, S +1.3, E +0.4, D +1.3.
 - [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.2, U -0.2, S -0.7, E +0.0, D +0.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 857.00 vs Norfolk Island National Park (main island forest and summit trails) 870.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -165,8 +161,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Blue River Provincial Park (NC)](../../../countries/NC/sights/blue-river-park.yaml) — 8.9/9.1/9.1/8.7/8.9; existing linked editorial peer. Subject minus peer: I -0.6, U +0.0, S +0.1, E -0.5, D -0.7.
 - [Tuafanua rainforest and coastal trail (AS)](../../../countries/AS/sights/tuafanua-trail.yaml) — 8.6/8.3/8.0/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.3, U +0.8, S +1.2, E +0.0, D +0.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 865.50 vs Blue River Provincial Park 896.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -210,8 +204,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Christian's Cave and Sailors Hide eco trail (PN)](../../../countries/PN/sights/christians-cave.yaml) — 8.2/8.6/8.3/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.6, U +0.7, S +0.6, E +0.4, D +0.9.
 - [The Grotto (CX)](../../../countries/CX/sights/the-grotto.yaml) — 8.3/8.2/7.3/7.8/6.8; existing linked editorial peer. Subject minus peer: I +0.5, U +1.1, S +1.6, E +0.7, D +1.6.
 - [Aunuʻu crater and Faʻamulivai Marsh (AS)](../../../countries/AS/sights/aunuu-crater.yaml) — 8.4/8.8/8.7/8.0/7.7; existing linked editorial peer. Subject minus peer: I +0.4, U +0.5, S +0.2, E +0.5, D +0.7.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 886.00 vs Saipan Grotto (authorized cavern diving and viewpoint) 858.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -257,8 +249,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing linked editorial peer. Subject minus peer: I -0.6, U -0.2, S -0.1, E -1.0, D -0.5.
 - [St Paul's Pool (PN)](../../../countries/PN/sights/st-pauls-pool.yaml) — 8.5/8.2/7.1/8.0/6.9; existing linked editorial peer. Subject minus peer: I +0.1, U +0.5, S +0.8, E +0.1, D +0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 828.00 vs Oro Natural Pool 873.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -302,8 +292,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [The Grotto (CX)](../../../countries/CX/sights/the-grotto.yaml) — 8.3/8.2/7.3/7.8/6.8; existing linked editorial peer. Subject minus peer: I +0.0, U +0.4, S +0.6, E +0.2, D +1.2.
 - [Christian's Cave and Sailors Hide eco trail (PN)](../../../countries/PN/sights/christians-cave.yaml) — 8.2/8.6/8.3/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.4, E -0.1, D +0.5.
 - [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing linked editorial peer. Subject minus peer: I -0.9, U -0.3, S -0.1, E -1.1, D +0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 822.00 vs Oro Natural Pool 873.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -349,8 +337,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I -0.5, U -0.3, S -0.5, E -0.4, D -0.2.
 - [Saipan Grotto (authorized cavern diving and viewpoint) (MP)](../../../countries/MP/sights/grotto.yaml) — 8.9/9.0/8.3/8.3/7.6; existing linked editorial peer. Subject minus peer: I -0.5, U -0.3, S +0.3, E -0.3, D +0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 844.50 vs The Dales (Hughs Dale and Anderson Dale trails) 885.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -394,8 +380,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [CHamoru Village market (GU)](../../../countries/GU/sights/chamorro-village.yaml) — 7.8/8.2/8.1/8.6/7.8; existing linked editorial peer. Subject minus peer: I -0.1, U -0.2, S +0.1, E +0.2, D +0.0.
 - [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I -0.1, U -0.5, S -0.5, E +0.4, D -0.2.
 - [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.2, U -0.4, S -0.5, E +0.7, D +0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 805.00 vs Norfolk Island Museum 826.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -441,8 +425,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S -0.2, E +0.1, D +0.3.
 - [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I +0.3, U -0.4, S -0.3, E +0.2, D +0.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 814.00 vs Tjibaou Cultural Centre 881.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -486,8 +468,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Northern Mariana Islands Museum of History and Culture (MP)](../../../countries/MP/sights/cnmi-museum.yaml) — 7.5/8.4/8.8/8.0/7.8; existing linked editorial peer. Subject minus peer: I +0.0, U -0.3, S -0.2, E -0.1, D +0.0.
 - [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.0, U -0.3, S -0.1, E -0.2, D +0.1.
 - [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.1, E -0.5, D -0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 796.00 vs Guam Museum 846.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -533,8 +513,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [As Nieves Latte Stone Quarry (Rota) (MP)](../../../countries/MP/sights/as-nieves-quarry.yaml) — 8.3/9.0/9.0/8.1/7.7; existing linked editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.0, E -0.3, D -0.1.
 - [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I -0.9, U -0.2, S -0.2, E -1.0, D -1.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 830.00 vs Taputapuātea (Raiatea) 898.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -579,8 +557,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [John Adams' grave (PN)](../../../countries/PN/sights/john-adams-grave.yaml) — 6.8/8.0/8.3/7.2/6.0; existing linked editorial peer. Subject minus peer: I +1.1, U +0.4, S +0.4, E +0.8, D +1.2.
 - [Oceania House historic residence (CC)](../../../countries/CC/sights/oceania-house.yaml) — 7.8/8.6/8.7/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S +0.0, E -0.1, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 813.00 vs Hagåtña heritage walking trail (Plaza de España and Latte Stone Park) 840.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -624,8 +600,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; existing linked editorial peer. Subject minus peer: I -0.7, U -0.2, S +0.7, E -1.3, D -0.4.
 - [Southern atoll lagoon and guided island canoe circuit (CC)](../../../countries/CC/sights/southern-lagoon-canoe.yaml) — 8.9/8.6/8.5/8.7/8.4; existing linked editorial peer. Subject minus peer: I -0.1, U +0.4, S +0.2, E -0.7, D +0.0.
 - [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing linked editorial peer. Subject minus peer: I -0.2, U +0.3, S -0.1, E -1.0, D -0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 867.00 vs Fakarava South Pass (Tumakohua) 911.50.
 
 No numerical score or evidence-status changes made by this pass.
 

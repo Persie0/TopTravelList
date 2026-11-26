@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Saba National Marine Park (permitted dive sites) (BQ)](../../../countries/BQ/sights/saba-marine-park.yaml) — 8.8/9.0/8.9/8.8/8.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.1, E +0.2, D +0.4.
 - [Cape Kri Dive Site (ID)](../../../countries/ID/sights/cape-kri-dive-site.yaml) — 9.3/9.4/8.5/9.4/8.5; supplementary dive-type numerical anchor. Subject minus peer: I -0.8, U -0.5, S +0.5, E -0.4, D +0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 884.50 vs Cape Kri Dive Site 910.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.3, U -0.2, S +0.1, E -0.4, D -0.2.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.3, U -0.3, S +0.3, E -0.3, D +0.5.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.7, U -0.8, S -0.6, E -0.4, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 878.00 vs Shiretoko National Park 941.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Kaw-Roura Marshes (permitted visitor sectors) (GF)](../../../countries/GF/sights/kaw-roura.yaml) — 8.8/9.0/9.1/8.8/8.8; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.2, E -0.1, D -0.3.
 - [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.1, E -0.3, D +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 872.00 vs Kaw-Roura Marshes (permitted visitor sectors) 891.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Île Tintamarre (MF)](../../../countries/MF/sights/tintamarre.yaml) — 8.9/8.7/8.6/8.6/8.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.3, E +0.1, D -0.2.
 - [Petite-Terre Nature Reserve (permitted sector) (GP)](../../../countries/GP/sights/petite-terre.yaml) — 9.0/9.0/8.9/8.7/8.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.6, S -0.6, E +0.0, D -0.4.
 - [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.6, U -1.0, S -1.0, E -0.4, D -1.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 848.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -211,8 +203,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Lac Bay (Bonaire) (BQ)](../../../countries/BQ/sights/lac-bay.yaml) — 8.7/8.7/8.9/8.7/8.5; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S -0.7, E -0.6, D -1.2.
 - [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -0.8, U -0.3, S -0.5, E -0.9, D -0.9.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 839.50 vs Cliffs of Moher 903.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -256,8 +246,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mémorial ACTe (GP)](../../../countries/GP/sights/memorial-acte.yaml) — 8.5/9.0/9.2/8.7/8.6; existing named editorial peer. Subject minus peer: I -0.7, U -0.2, S -0.2, E -0.9, D -1.1.
 - [La Savane des Esclaves (MQ)](../../../countries/MQ/sights/savane-des-esclaves.yaml) — 8.1/8.7/8.8/8.6/8.5; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S +0.2, E -0.8, D -1.0.
 - [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -1.7, U -0.3, S +0.3, E -1.2, D -0.7.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 826.00 vs Cliffs of Moher 903.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -303,8 +291,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [La Soufrière Volcano (GP)](../../../countries/GP/sights/la-soufriere.yaml) — 9.2/8.9/8.9/8.7/8.6; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S -0.4, E +0.1, D -0.1.
 - [Piton des Neiges (RE)](../../../countries/RE/sights/piton-des-neiges.yaml) — 9.1/8.7/8.7/8.8/8.4; existing named editorial peer. Subject minus peer: I -0.2, U +0.1, S -0.2, E +0.0, D +0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 874.00 vs Mount Pelée (permitted summit trails) 901.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -348,8 +334,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.8, U -0.5, S -0.3, E -0.7, D -1.2.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.8, U -0.6, S -0.1, E -0.6, D -0.5.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -1.2, U -1.1, S -1.0, E -0.7, D -1.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 833.00 vs Shiretoko National Park 941.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -395,8 +379,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Historic Area of Willemstad (UNESCO property) (CW)](../../../countries/CW/sights/historic-willemstad.yaml) — 9.1/9.2/9.3/9.0/9.1; existing named editorial peer. Subject minus peer: I -0.8, U -0.5, S -0.2, E -0.7, D -0.9.
 - [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; supplementary fort-type numerical anchor. Subject minus peer: I -0.8, U -0.4, S -0.2, E -1.1, D -0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 855.00 vs Hohensalzburg Fortress 916.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -440,8 +422,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Bonaire National Marine Park (permitted dive sites) (BQ)](../../../countries/BQ/sights/bonaire-marine-park.yaml) — 8.5/8.9/9.0/9.0/9.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.2, E -0.4, D -0.5.
 - [Man of War Shoal Marine Park (registered dive sites) (SX)](../../../countries/SX/sights/man-of-war-shoal.yaml) — 8.2/8.4/8.8/8.5/8.5; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.0, E +0.1, D +0.2.
 - [Passe en S (Longogori) (YT)](../../../countries/YT/sights/passe-en-s.yaml) — 9.0/9.1/8.9/9.0/8.6; existing named editorial peer. Subject minus peer: I -0.7, U -0.5, S -0.1, E -0.4, D +0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.00 vs Passe en S (Longogori) 896.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -487,8 +467,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mont Choungui (YT)](../../../countries/YT/sights/mont-choungui.yaml) — 8.9/8.4/7.8/8.5/7.6; existing named editorial peer. Subject minus peer: I +0.0, U +0.6, S +0.9, E +0.3, D +0.8.
 - [Mount Pelée (permitted summit trails) (MQ)](../../../countries/MQ/sights/mount-pelee.yaml) — 9.2/8.9/9.3/8.8/8.5; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S -0.6, E +0.0, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 882.00 vs Mount Pelée (permitted summit trails) 901.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -533,8 +511,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Passe en S (Longogori) (YT)](../../../countries/YT/sights/passe-en-s.yaml) — 9.0/9.1/8.9/9.0/8.6; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.0, E -0.2, D +0.2.
 - [Man of War Shoal Marine Park (registered dive sites) (SX)](../../../countries/SX/sights/man-of-war-shoal.yaml) — 8.2/8.4/8.8/8.5/8.5; existing named editorial peer. Subject minus peer: I +0.6, U +0.6, S +0.1, E +0.3, D +0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 887.00 vs Passe en S (Longogori) 896.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -578,8 +554,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Shete Boka National Park (CW)](../../../countries/CW/sights/shete-boka.yaml) — 9.0/8.7/8.6/8.6/8.4; existing named editorial peer. Subject minus peer: I -0.8, U -0.2, S -0.8, E -0.5, D -1.2.
 - [Pointe des Châteaux (GP)](../../../countries/GP/sights/pointe-des-chateaux.yaml) — 8.9/8.5/7.9/8.6/7.6; existing named editorial peer. Subject minus peer: I -0.7, U +0.0, S -0.1, E -0.5, D -0.4.
 - [Weekuri Lagoon (ID)](../../../countries/ID/sights/weekuri-lagoon.yaml) — 9.0/9.0/7.2/9.1/8.0; supplementary water-type numerical anchor. Subject minus peer: I -0.8, U -0.5, S +0.6, E -1.0, D -0.8.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 808.00 vs Shete Boka National Park 872.50.
 
 No numerical score or evidence-status changes made by this pass.
 

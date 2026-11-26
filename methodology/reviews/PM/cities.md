@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing linked editorial peer. Subject minus peer: I +0.1, U +0.1, S -0.1, E +0.4, D +0.4.
 - [Mariehamn (AX)](../../../countries/AX/cities/mariehamn.yaml) — 7.8/8.1/8.1/8.4/7.8; existing linked editorial peer. Subject minus peer: I +0.3, U +0.6, S +0.2, E +0.3, D +0.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 841.00 vs Tórshavn 828.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Port Howard (FK)](../../../countries/FK/cities/port-howard.yaml) — 7.7/8.1/7.7/7.5/6.9; existing linked editorial peer. Subject minus peer: I +0.0, U +0.2, S +0.4, E +0.1, D +0.5.
 - [Karlby (Kökar) (AX)](../../../countries/AX/cities/karlby.yaml) — 7.1/7.5/6.9/7.3/6.5; existing linked editorial peer. Subject minus peer: I +0.6, U +0.8, S +1.2, E +0.3, D +0.9.
 - [Lunenburg (CA)](../../../countries/CA/cities/lunenburg.yaml) — 8.3/8.5/8.5/8.1/7.7; existing linked editorial peer. Subject minus peer: I -0.6, U -0.2, S -0.4, E -0.5, D -0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 788.50 vs Lunenburg 830.00.
 
 No numerical score or evidence-status changes made by this pass.
 

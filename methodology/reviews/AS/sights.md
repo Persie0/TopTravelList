@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: I +0.3, U -0.3, S -0.3, E +0.6, D +0.3.
 - [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I +0.5, U +0.8, S +1.0, E +0.8, D +0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 894.50 vs Palmyra Atoll (permitted recreational refuge visit) 887.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.2, U -0.3, S -0.3, E +0.0, D +0.3.
 - [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.1, U -0.7, S -0.5, E -0.2, D +0.1.
 - [Green Mountain National Park (Ascension Island) (SH)](../../../countries/SH/sights/green-mountain.yaml) — 8.7/8.8/8.4/8.5/8.2; existing linked editorial peer. Subject minus peer: I +0.2, U -0.3, S +0.1, E +0.1, D +0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 865.50 vs Peaks National Park (Diana's Peak trails) 898.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Sandy Bay volcanic coast (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; existing linked editorial peer. Subject minus peer: I +0.4, U +0.4, S +0.9, E +0.6, D +0.4.
 - [Down Rope beach and Polynesian petroglyphs (PN)](../../../countries/PN/sights/down-rope.yaml) — 8.7/8.8/8.7/7.8/7.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.1, S -0.1, E +0.7, D +0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 866.00 vs Down Rope beach and Polynesian petroglyphs 847.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anson Bay Reserve (NF)](../../../countries/NF/sights/anson-bay.yaml) — 8.6/7.9/7.2/7.8/7.1; existing linked editorial peer. Subject minus peer: I +0.0, U +0.4, S +0.8, E +0.4, D +0.5.
 - [Christian's Cave and Sailors Hide eco trail (PN)](../../../countries/PN/sights/christians-cave.yaml) — 8.2/8.6/8.3/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.4, U -0.3, S -0.3, E +0.1, D +0.1.
 - [Sandy Bay volcanic coast (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; existing linked editorial peer. Subject minus peer: I +0.0, U +0.0, S +0.3, E +0.3, D +0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 824.50 vs Dolly Beach 846.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -211,8 +203,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.1, E +0.1, D +0.2.
 - [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U +0.8, S +1.2, E +0.3, D +0.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 878.00 vs Palmyra Atoll (permitted recreational refuge visit) 887.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -256,8 +246,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anson Bay Reserve (NF)](../../../countries/NF/sights/anson-bay.yaml) — 8.6/7.9/7.2/7.8/7.1; existing linked editorial peer. Subject minus peer: I +0.1, U +0.6, S +1.2, E +0.2, D +0.5.
 - [Lily Beach and Ethel Beach coastal circuit (CX)](../../../countries/CX/sights/lily-ethel-beaches.yaml) — 8.3/8.0/7.7/7.9/7.4; existing linked editorial peer. Subject minus peer: I +0.4, U +0.5, S +0.7, E +0.1, D +0.2.
 - [Sandy Bay volcanic coast (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; existing linked editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.7, E +0.1, D +0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 837.50 vs Fagatele Bay marine sanctuary 878.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -303,8 +291,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Norfolk Island Botanic Garden (NF)](../../../countries/NF/sights/botanic-garden.yaml) — 7.9/8.5/8.5/8.3/7.6; existing linked editorial peer. Subject minus peer: I +0.5, U +0.3, S +0.2, E -0.3, D +0.1.
 - [Christian's Cave and Sailors Hide eco trail (PN)](../../../countries/PN/sights/christians-cave.yaml) — 8.2/8.6/8.3/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.4, E -0.1, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 843.00 vs Peaks National Park (Diana's Peak trails) 898.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -348,8 +334,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Down Rope beach and Polynesian petroglyphs (PN)](../../../countries/PN/sights/down-rope.yaml) — 8.7/8.8/8.7/7.8/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.2, E +0.2, D +0.6.
 - [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.3, E -0.8, D -0.6.
 - [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.2, E -0.4, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 866.00 vs Kingston and Arthur's Vale Historic Area 892.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -395,8 +379,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.2, U -0.4, S -0.8, E -0.6, D -0.7.
 - [Margaret Knoll Lookout (CX)](../../../countries/CX/sights/margaret-knoll.yaml) — 8.6/8.5/8.6/8.2/7.3; existing linked editorial peer. Subject minus peer: I +0.3, U -0.1, S -0.6, E -0.2, D +0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 834.00 vs Queen Mary's Peak guided ascent (Tristan da Cunha) 872.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -440,8 +422,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.0, E -0.3, D -0.3.
 - [Pulu Cocos Museum (CC)](../../../countries/CC/sights/pulu-cocos-museum.yaml) — 7.1/8.4/8.5/7.8/7.2; existing linked editorial peer. Subject minus peer: I +0.4, U +0.0, S +0.2, E +0.3, D +0.5.
 - [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.1, E +0.1, D +0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 807.50 vs Norfolk Island Museum 826.50.
 
 No numerical score or evidence-status changes made by this pass.
 

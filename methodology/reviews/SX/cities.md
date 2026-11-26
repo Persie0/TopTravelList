@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -1.0, U -1.2, S -1.0, E -0.6, D -0.9.
 - [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) — 7.7/8.4/8.5/8.2/8.4; existing named editorial peer. Subject minus peer: I +0.1, U -0.6, S -0.5, E +0.1, D -0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 792.50 vs Willemstad 890.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -70,8 +68,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Corossol (BL)](../../../countries/BL/cities/corossol.yaml) — 7.6/8.0/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.4, E +0.6, D +0.6.
 - [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.6, U -0.1, S +0.1, E +0.1, D +0.3.
 - [Philipsburg (SX)](../../../countries/SX/cities/philipsburg.yaml) — 7.8/7.8/8.0/8.3/7.9; existing named editorial peer. Subject minus peer: I -0.5, U -0.2, S -1.0, E -0.2, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 744.50 vs Philipsburg 792.50.
 
 No numerical score or evidence-status changes made by this pass.
 

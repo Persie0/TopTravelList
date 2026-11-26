@@ -20,8 +20,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U +0.5, S +0.5, E +0.2, D +0.8.
 - [Port Louis (MU)](../../../countries/MU/cities/port-louis.yaml) — 8.0/8.2/8.5/8.4/8.2; supplementary capital-type numerical anchor. Subject minus peer: I +0.4, U +0.7, S +0.1, E +0.0, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.50 vs Reykjavík 866.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 - Impact: 8.4 — Colorful Arctic coastal capital and local urban scenery.
@@ -51,8 +49,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.5, D -0.9.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U +0.3, S -0.1, E +0.1, D +0.1.
 - [Hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; supplementary harbor-type numerical anchor. Subject minus peer: I -0.1, U +0.0, S -0.5, E -0.5, D -0.8.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 831.00 vs Reykjavík 866.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -84,8 +80,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.2, U +0.1, S +0.0, E +0.0, D +0.1.
 - [Hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; supplementary harbor-type numerical anchor. Subject minus peer: I -0.4, U -0.2, S -0.4, E -0.6, D -0.8.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 817.50 vs Reykjavík 866.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 - Impact: 8.1 — coastal streets and harbour.
@@ -115,8 +109,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.5, U -0.6, S -0.4, E -0.6, D -1.1.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.2, E +0.0, D -0.1.
 - [Kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; supplementary urban-type numerical anchor. Subject minus peer: I -0.2, U -0.2, S -0.5, E -0.5, D -1.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 806.50 vs Reykjavík 866.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -148,8 +140,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I +0.0, U +0.3, S -0.1, E -0.1, D -0.2.
 - [Kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; supplementary urban-type numerical anchor. Subject minus peer: I +0.0, U +0.2, S -0.4, E -0.6, D -1.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 822.00 vs Reykjavík 866.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 - Impact: 8.3 — settlement in mountain-framed bay.
@@ -180,8 +170,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.1, U +0.1, S -0.1, E -0.2, D -0.3.
 - [Hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; supplementary harbor-type numerical anchor. Subject minus peer: I -0.3, U -0.2, S -0.5, E -0.8, D -1.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 811.50 vs Reykjavík 866.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 - Impact: 8.2 — coastal settlement and colourful buildings.
@@ -211,8 +199,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -1.6, U -1.4, S -1.0, E -1.4, D -1.9.
 - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I -1.3, U -0.9, S -0.8, E -0.8, D -0.9.
 - [Kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; supplementary urban-type numerical anchor. Subject minus peer: I -1.3, U -1.0, S -1.1, E -1.3, D -1.9.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 721.50 vs Reykjavík 866.50.
 
 No numerical score or evidence-status changes made by this pass.
 

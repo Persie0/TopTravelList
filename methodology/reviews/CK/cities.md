@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hagåtña (GU)](../../../countries/GU/cities/hagatna.yaml) — 7.8/8.4/8.7/8.2/8.0; existing linked editorial peer. Subject minus peer: I +0.0, U -0.4, S -0.4, E +0.3, D +0.2.
 - [Fagatogo (AS)](../../../countries/AS/cities/fagatogo.yaml) — 7.6/8.1/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U -0.1, S -0.2, E +0.5, D +0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 809.50 vs Hagåtña 821.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I +0.3, U +0.2, S +0.7, E +0.7, D +0.6.
 - [Songsong (Rota) (MP)](../../../countries/MP/cities/songsong.yaml) — 8.0/8.1/7.8/7.6/7.0; existing linked editorial peer. Subject minus peer: I -0.5, U -0.2, S +0.4, E +0.4, D +0.4.
 - [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.6, U +0.2, S +0.8, E +0.3, D +0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 780.50 vs Songsong (Rota) 782.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Garapan (Saipan) (MP)](../../../countries/MP/cities/garapan.yaml) — 7.7/7.9/8.0/8.4/8.0; existing linked editorial peer. Subject minus peer: I -0.1, U -0.4, S -0.5, E +0.1, D -0.4.
 - [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I +0.4, U -0.2, S +0.0, E +1.2, D +0.8.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 769.00 vs Garapan (Saipan) 794.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I -0.6, U -1.3, S -0.7, E -0.6, D +0.0.
 - [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.2, E -0.1, D +0.1.
 - [Songsong (Rota) (MP)](../../../countries/MP/cities/songsong.yaml) — 8.0/8.1/7.8/7.6/7.0; existing linked editorial peer. Subject minus peer: I -0.8, U -0.3, S -0.1, E -0.4, D -0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 742.00 vs Adamstown 815.50.
 
 No numerical score or evidence-status changes made by this pass.
 

@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I +0.0, U +0.5, S +0.3, E -0.1, D +0.2.
 - [Hamilton (BM)](../../../countries/BM/cities/hamilton.yaml) — 7.9/7.8/8.0/8.4/8.0; existing named editorial peer. Subject minus peer: I +0.1, U +0.8, S +0.4, E -0.1, D +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs Ushuaia 846.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -71,8 +69,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Saül (GF)](../../../countries/GF/cities/saul.yaml) — 7.2/8.8/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I +0.5, U -0.7, S +0.3, E +0.0, D +0.1.
 - [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.7, E -0.8, D -1.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 769.00 vs Stanley 827.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -116,8 +112,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Rincon (Bonaire) (BQ)](../../../countries/BQ/cities/rincon.yaml) — 7.4/8.2/8.2/7.7/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.1, E -0.2, D -0.3.
 - [St George's (BM)](../../../countries/BM/cities/st-georges.yaml) — 8.5/8.8/9.1/8.5/8.2; existing named editorial peer. Subject minus peer: I -1.4, U -0.8, S -0.8, E -1.0, D -1.2.
 - [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing named editorial peer. Subject minus peer: I -0.9, U -0.6, S -0.1, E -0.8, D -1.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 761.50 vs St George's 866.50.
 
 No numerical score or evidence-status changes made by this pass.
 

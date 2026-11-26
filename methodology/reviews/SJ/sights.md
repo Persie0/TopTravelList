@@ -121,8 +121,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Neko Harbour (AQ)](../../../countries/AQ/sights/neko-harbour.yaml) — 9.4/9.1/8.5/9.0/8.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.3, E -0.2, D -0.2.
 - [Geirangerfjord (West Norwegian Fjords) (NO)](../../../countries/NO/sights/geirangerfjord.yaml) — 9.7/9.5/9.3/9.5/9.2; supplementary glacial-type numerical anchor. Subject minus peer: I -0.5, U -0.7, S -1.1, E -0.7, D -1.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 872.00 vs Ilulissat Icefjord 968.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -166,8 +164,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [St Kilda (GB)](../../../countries/GB/sights/st-kilda.yaml) — 9.2/9.5/9.4/8.6/8.4; existing named editorial peer. Subject minus peer: I -0.4, U -0.9, S -0.9, E +0.0, D -0.4.
 - [Baily Head (Deception Island) (AQ)](../../../countries/AQ/sights/baily-head.yaml) — 9.3/9.1/8.7/8.7/7.8; existing named editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.2, E -0.1, D +0.2.
 - [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -0.7, U -0.5, S -0.2, E -0.4, D -0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 858.00 vs St Kilda 914.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -213,8 +209,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jökulsárlón Glacier Lagoon (IS)](../../../countries/IS/sights/jokulsarlon.yaml) — 9.6/9.4/9.0/9.2/8.6; existing named editorial peer. Subject minus peer: I -0.7, U -0.9, S -1.0, E -0.5, D -0.8.
 - [Ilulissat Icefjord (GL)](../../../countries/GL/sights/ilulissat-icefjord.yaml) — 9.9/9.8/9.6/9.4/9.3; existing named editorial peer. Subject minus peer: I -1.0, U -1.3, S -1.6, E -0.7, D -1.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 848.00 vs Ilulissat Icefjord 968.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -258,8 +252,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.6, U -0.2, S -0.2, E -0.3, D -1.0.
 - [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.9, U -0.6, S -0.9, E -0.7, D -1.4.
 - [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.8, U -0.4, S -0.6, E -0.6, D -1.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 843.00 vs St Andrews Bay (authorized wildlife viewing) 927.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -305,8 +297,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Vasa Museum (SE)](../../../countries/SE/sights/vasa-museum.yaml) — 9.4/9.6/9.3/9.2/9.0; existing named editorial peer. Subject minus peer: I -1.6, U -1.1, S -0.9, E -0.7, D -1.0.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.3, U +0.2, S -0.2, E +0.5, D +0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 822.00 vs Vasa Museum 936.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -350,8 +340,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Svalbard Museum (SJ)](../../../countries/SJ/sights/svalbard-museum.yaml) — 7.8/8.5/8.4/8.5/8.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S -0.1, E -0.5, D -0.5.
 - [Vasa Museum (SE)](../../../countries/SE/sights/vasa-museum.yaml) — 9.4/9.6/9.3/9.2/9.0; existing named editorial peer. Subject minus peer: I -2.0, U -1.2, S -1.0, E -1.2, D -1.5.
 - [Port Lockroy (Goudier Island) (AQ)](../../../countries/AQ/sights/port-lockroy.yaml) — 8.6/9.1/8.8/8.8/8.0; existing named editorial peer. Subject minus peer: I -1.2, U -0.7, S -0.5, E -0.8, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 793.00 vs Vasa Museum 936.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -400,8 +388,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 Incomplete additional references (not counted toward the four complete profiles):
 - [Pyramiden historic mining settlement (SJ)](../../../countries/SJ/sights/pyramiden.yaml) — 8.7/9.2/8.6/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: I -0.6, U -0.4, S -0.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 837.00 vs Wieliczka Salt Mine 929.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -445,8 +431,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Svalbard Museum (SJ)](../../../countries/SJ/sights/svalbard-museum.yaml) — 7.8/8.5/8.4/8.5/8.0; existing named editorial peer. Subject minus peer: I -0.5, U +0.4, S +0.9, E -1.7, D -3.2.
 - [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -2.2, U -0.2, S +0.6, E -2.2, D -3.4.
 - [Tojinbo Cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; supplementary coast-type numerical anchor. Subject minus peer: I -1.4, U +0.0, S +1.2, E -2.0, D -3.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 777.50 vs Cliffs of Moher 903.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -494,8 +478,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 
 Incomplete additional references (not counted toward the four complete profiles):
 - [Pyramiden historic mining settlement (SJ)](../../../countries/SJ/sights/pyramiden.yaml) — 8.7/9.2/8.6/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: I -0.6, U -0.2, S +0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 840.50 vs Grytviken historic whaling station 909.00.
 
 No numerical score or evidence-status changes made by this pass.
 

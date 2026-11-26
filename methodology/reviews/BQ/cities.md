@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -1.1, U -1.1, S -1.3, E -0.8, D -1.3.
 - [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S -0.4, E -0.3, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 779.00 vs Willemstad 890.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Grand Case (MF)](../../../countries/MF/cities/grand-case.yaml) — 7.8/8.1/7.5/8.5/7.3; existing named editorial peer. Subject minus peer: I -0.4, U +0.1, S +0.7, E -0.8, D +0.0.
 - [San Nicolas (AW)](../../../countries/AW/cities/san-nicolas.yaml) — 7.7/8.3/7.9/8.2/7.7; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.3, E -0.5, D -0.4.
 - [Kralendijk (Bonaire) (BQ)](../../../countries/BQ/cities/kralendijk.yaml) — 7.7/7.9/7.7/8.1/7.5; existing named editorial peer. Subject minus peer: I -0.3, U +0.3, S +0.5, E -0.4, D -0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 779.50 vs San Nicolas 796.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Saint-Pierre (MQ)](../../../countries/MQ/cities/saint-pierre.yaml) — 8.2/8.6/8.9/8.1/7.9; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.0, E +0.0, D -0.1.
 - [Philipsburg (SX)](../../../countries/SX/cities/philipsburg.yaml) — 7.8/7.8/8.0/8.3/7.9; existing named editorial peer. Subject minus peer: I +0.2, U +0.7, S +0.9, E -0.2, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 830.00 vs Willemstad 890.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -165,8 +159,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Gjógv (FO)](../../../countries/FO/cities/gjogv.yaml) — 8.1/7.9/6.8/7.8/6.5; existing named editorial peer. Subject minus peer: I +0.1, U +0.5, S +0.8, E +0.2, D +0.9.
 - [The Bottom (Saba) (BQ)](../../../countries/BQ/cities/the-bottom.yaml) — 7.8/8.1/7.7/7.6/7.1; existing named editorial peer. Subject minus peer: I +0.4, U +0.3, S -0.1, E +0.4, D +0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 802.00 vs Cilaos 810.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -210,8 +202,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mariehamn (AX)](../../../countries/AX/cities/mariehamn.yaml) — 7.8/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I +0.0, U +0.0, S -0.4, E -0.8, D -0.7.
 - [Saül (GF)](../../../countries/GF/cities/saul.yaml) — 7.2/8.8/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I +0.6, U -0.7, S +0.3, E +0.1, D +0.3.
 - [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing named editorial peer. Subject minus peer: I +0.6, U +0.4, S +0.2, E +0.3, D +0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 775.50 vs Mariehamn 802.50.
 
 No numerical score or evidence-status changes made by this pass.
 

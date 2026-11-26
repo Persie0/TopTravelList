@@ -29,8 +29,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I +0.0, U +0.4, S +0.1, E +0.0, D +0.1.
 - [Cape Kri Dive Site (ID)](../../../countries/ID/sights/cape-kri-dive-site.yaml) — 9.3/9.4/8.5/9.4/8.5; supplementary dive-type numerical anchor. Subject minus peer: I -0.3, U -0.3, S +0.4, E -0.4, D +0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 896.50 vs Cape Kri Dive Site 910.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -74,8 +72,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.7, E -0.3, D +0.3.
 - [Petite-Terre Nature Reserve (permitted sector) (GP)](../../../countries/GP/sights/petite-terre.yaml) — 9.0/9.0/8.9/8.7/8.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.2, E +0.1, D -0.1.
 - [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.2, U +0.0, S -0.1, E -0.2, D -0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 868.50 vs Petite-Terre Nature Reserve (permitted sector) 885.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -121,8 +117,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Lake Bled and island landscape (SI)](../../../countries/SI/sights/lake-bled.yaml) — 9.4/9.2/8.7/9.3/8.8; supplementary lake-type numerical anchor. Subject minus peer: I -0.6, U -0.2, S -0.1, E -0.9, D -1.0.
 - [Cheow Lan Lake (TH)](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; supplementary lake-type numerical anchor. Subject minus peer: I -0.3, U -0.3, S +0.1, E -0.9, D -0.9.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 865.00 vs Lake Bled and island landscape 913.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -166,8 +160,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Piton des Neiges (RE)](../../../countries/RE/sights/piton-des-neiges.yaml) — 9.1/8.7/8.7/8.8/8.4; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.9, E -0.3, D -0.8.
 - [Ghibli Museum (JP)](../../../countries/JP/sights/ghibli-museum.yaml) — 8.5/9.1/7.8/9.0/8.0; supplementary art-type numerical anchor. Subject minus peer: I +0.4, U -0.7, S +0.0, E -0.5, D -0.4.
 - [Asian Civilisations Museum (SG)](../../../countries/SG/sights/asian-civilisations-museum.yaml) — 8.7/8.9/8.9/8.9/8.8; supplementary art-type numerical anchor. Subject minus peer: I +0.2, U -0.5, S -1.1, E -0.4, D -1.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 836.50 vs Asian Civilisations Museum 883.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -213,8 +205,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [N’Gouja Beach and Seagrass Visitor Area (YT)](../../../countries/YT/sights/ngouja.yaml) — 8.8/8.7/8.7/8.8/8.1; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.0, E -0.5, D -0.2.
 - [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -0.9, U -0.6, S +0.0, E -0.7, D -0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 848.00 vs Cliffs of Moher 903.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -258,8 +248,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Îlot de Sable Blanc (Saziley, vessel views) (YT)](../../../countries/YT/sights/sable-blanc-saziley.yaml) — 8.8/8.5/8.0/8.0/6.8; existing named editorial peer. Subject minus peer: I +0.1, U +0.1, S -0.1, E +0.7, D +0.8.
 - [Aitutaki Lagoon and permitted motu cruise circuit (CK)](../../../countries/CK/sights/aitutaki-lagoon.yaml) — 9.4/9.1/8.6/9.3/9.0; existing named editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.7, E -0.6, D -1.4.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.2, U -0.3, S -0.8, E -0.4, D -1.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 846.50 vs Aitutaki Lagoon and permitted motu cruise circuit 911.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -305,8 +293,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.3, U -0.5, S -0.5, E -1.0, D -1.7.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.7, U -1.0, S -1.4, E -1.1, D -2.6.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 824.50 vs Shiretoko National Park 941.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -350,8 +336,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; existing named editorial peer. Subject minus peer: I -0.4, U +0.4, S +0.2, E -0.3, D -0.7.
 - [Mariehamn Maritime Quarter (Sjökvarteret) (AX)](../../../countries/AX/sights/maritime-quarter.yaml) — 7.7/8.0/7.8/8.1/7.6; existing named editorial peer. Subject minus peer: I -0.3, U +0.4, S +0.2, E -0.3, D -0.6.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I -0.1, U +0.1, S -0.6, E -0.2, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 779.00 vs Cabo Rojo Salt Flats 800.50.
 
 No numerical score or evidence-status changes made by this pass.
 

@@ -25,8 +25,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Nuuk (GL)](../../../countries/GL/cities/nuuk.yaml) — 8.4/8.9/8.6/8.4/8.4; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.3, E +0.0, D -0.3.
 - [Salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; existing named editorial peer. Subject minus peer: I -0.9, U -0.4, S -0.7, E -0.4, D -0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 828.50 vs Bergen 907.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 #### Scoring decisions
@@ -70,8 +68,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Akureyri (IS)](../../../countries/IS/cities/akureyri.yaml) — 8.0/8.0/7.8/8.5/8.1; existing named editorial peer. Subject minus peer: I -0.4, U -0.5, S -1.0, E -1.1, D -1.2.
 - [Sisimiut (GL)](../../../countries/GL/cities/sisimiut.yaml) — 8.1/8.5/8.1/8.2/7.7; existing named editorial peer. Subject minus peer: I -0.5, U -1.0, S -1.3, E -0.8, D -0.8.
 - [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) — 9.0/9.3/9.1/9.0/8.7; existing named editorial peer. Subject minus peer: I -1.4, U -1.8, S -2.3, E -1.6, D -1.8.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 731.50 vs Bergen 907.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -117,8 +113,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Portree (GB)](../../../countries/GB/cities/portree.yaml) — 8.0/8.0/7.5/8.2/7.1; existing named editorial peer. Subject minus peer: I +0.1, U -0.1, S -0.7, E -0.4, D -0.6.
 - [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) — 9.0/9.3/9.1/9.0/8.7; existing named editorial peer. Subject minus peer: I -0.9, U -1.4, S -2.3, E -1.2, D -2.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 758.50 vs Hoi An 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 #### Scoring decisions
@@ -162,8 +156,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) — 9.0/9.3/9.1/9.0/8.7; existing named editorial peer. Subject minus peer: I -1.2, U -1.1, S -0.5, E -1.2, D -1.3.
 - [Jamestown (Saint Helena) (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; supplementary historic-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S +0.0, E -0.5, D -0.5.
 - [Hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; supplementary historic-type numerical anchor. Subject minus peer: I -0.7, U -0.5, S +0.1, E -1.0, D -1.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 802.00 vs Gyeongju 931.00.
 
 No numerical score or evidence-status changes made by this pass.
 

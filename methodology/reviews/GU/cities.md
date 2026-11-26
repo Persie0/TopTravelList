@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pago Pago (AS)](../../../countries/AS/cities/pago-pago.yaml) — 8.2/8.2/8.1/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U +0.2, S +0.6, E +0.2, D +0.4.
 - [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing linked editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.3, E -0.1, D +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 821.00 vs Jamestown (Saint Helena) 850.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pago Pago (AS)](../../../countries/AS/cities/pago-pago.yaml) — 8.2/8.2/8.1/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U -0.6, S -0.8, E +0.7, D +0.6.
 - [West Island settlement (CC)](../../../countries/CC/cities/west-island-settlement.yaml) — 6.8/7.7/7.3/7.5/6.9; existing linked editorial peer. Subject minus peer: I +1.0, U -0.1, S +0.0, E +1.2, D +1.3.
 - [Flying Fish Cove (The Settlement) (CX)](../../../countries/CX/cities/flying-fish-cove.yaml) — 7.9/8.5/8.0/8.0/7.3; existing linked editorial peer. Subject minus peer: I -0.1, U -0.9, S -0.7, E +0.7, D +0.9.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 782.50 vs Pago Pago 809.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jamestown (Saint Helena) (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; existing linked editorial peer. Subject minus peer: I -0.7, U -0.4, S -0.3, E -0.6, D -0.7.
 - [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I +0.0, U -0.7, S -0.1, E -0.1, D +0.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 797.50 vs Jamestown (Saint Helena) 850.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -165,8 +159,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Port Howard (FK)](../../../countries/FK/cities/port-howard.yaml) — 7.7/8.1/7.7/7.5/6.9; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.5, E -0.1, D -0.1.
 - [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.4, U -0.6, S -0.2, E -0.6, D -0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 782.50 vs Bantam (Home Island) 802.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -210,8 +202,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Ofu village (AS)](../../../countries/AS/cities/ofu.yaml) — 7.8/8.2/7.6/7.3/6.6; existing linked editorial peer. Subject minus peer: I +0.0, U -0.3, S +0.1, E +0.2, D +0.3.
 - [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.3, U -0.8, S -0.7, E -0.5, D -0.3.
 - [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.9, U +0.2, S +0.3, E -0.2, D -0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 767.00 vs Bantam (Home Island) 802.50.
 
 No numerical score or evidence-status changes made by this pass.
 

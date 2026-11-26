@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.3, U -0.5, S -0.9, E -0.9, D -0.9.
 - [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I -0.1, U +1.4, S +0.5, E -0.4, D -0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 814.50 vs Anse Source d'Argent 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Orient Bay Beach (MF)](../../../countries/MF/sights/orient-bay.yaml) — 8.5/7.9/6.8/8.7/7.6; existing named editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.2, E -0.2, D -0.2.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.1, U -1.7, S -0.8, E -0.7, D -0.2.
 - [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I +0.1, U +0.2, S +0.6, E -0.2, D +0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 802.50 vs Anse Source d'Argent 906.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fort Napoléon (Les Saintes) (GP)](../../../countries/GP/sights/fort-napoleon.yaml) — 8.4/8.2/8.2/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S +0.4, E -0.4, D -0.4.
 - [San Juan National Historic Site (Puerto Rico) (PR)](../../../countries/PR/sights/san-juan-national-historic-site.yaml) — 8.9/8.8/9.1/8.7/8.6; existing named editorial peer. Subject minus peer: I -0.8, U -0.5, S -0.5, E -0.7, D -1.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 816.50 vs San Juan National Historic Site (Puerto Rico) 885.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.8, U -0.3, S +0.0, E -0.5, D +0.0.
 - [Passe en S (Longogori) (YT)](../../../countries/YT/sights/passe-en-s.yaml) — 9.0/9.1/8.9/9.0/8.6; existing named editorial peer. Subject minus peer: I -0.8, U -0.7, S -0.1, E -0.5, D -0.1.
 - [Bonaire National Marine Park (permitted dive sites) (BQ)](../../../countries/BQ/sights/bonaire-marine-park.yaml) — 8.5/8.9/9.0/9.0/9.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.2, E -0.5, D -0.7.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 844.50 vs Passe en S (Longogori) 896.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -211,8 +203,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Ngong Ping 360 Cable Car (HK)](../../../countries/HK/sights/ngong-ping-360.yaml) — 8.7/8.6/7.1/9.2/7.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S +0.6, E -0.4, D +0.7.
 - [Jardin de Balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; existing named editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.0, E +0.0, D +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 823.00 vs Ngong Ping 360 Cable Car 832.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -256,8 +246,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mullet Bay Beach (SX)](../../../countries/SX/sights/mullet-bay.yaml) — 8.7/8.0/7.0/8.5/7.4; existing named editorial peer. Subject minus peer: I -0.1, U +0.3, S +0.0, E -0.3, D -0.4.
 - [Pain de Sucre Beach (GP)](../../../countries/GP/sights/pain-de-sucre.yaml) — 8.8/8.6/6.9/8.7/7.0; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S +0.1, E -0.5, D +0.0.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.2, U -1.4, S -0.8, E -1.0, D -0.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 798.50 vs Anse Source d'Argent 906.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -303,8 +291,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Little Bay Beach (SX)](../../../countries/SX/sights/little-bay.yaml) — 8.3/7.9/7.1/8.5/7.5; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.3, E +0.0, D +0.3.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.8, U -2.2, S -1.0, E -0.7, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 769.00 vs Anse Source d'Argent 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -349,8 +335,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.5, U -1.8, S -0.7, E -0.7, D -0.1.
 - [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I -0.3, U +0.1, S +0.7, E -0.2, D +0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 791.00 vs Anse Source d'Argent 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -394,8 +378,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Åland Maritime Museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.8, U -0.6, S -0.4, E -0.9, D -1.1.
 - [1902 Catastrophe Memorial (Frank A. Perret Museum) (MQ)](../../../countries/MQ/sights/memorial-1902.yaml) — 7.9/8.7/9.0/8.5/8.0; existing named editorial peer. Subject minus peer: I -0.7, U -0.8, S -0.9, E -0.7, D -0.7.
 - [Svalbard Museum (SJ)](../../../countries/SJ/sights/svalbard-museum.yaml) — 7.8/8.5/8.4/8.5/8.0; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.3, E -0.7, D -0.7.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 765.50 vs 1902 Catastrophe Memorial (Frank A. Perret Museum) 842.00.
 
 No numerical score or evidence-status changes made by this pass.
 

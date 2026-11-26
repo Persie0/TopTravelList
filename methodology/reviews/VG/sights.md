@@ -27,7 +27,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Conchi Natural Pool (AW)](../../../countries/AW/sights/conchi.yaml) — 8.8/8.8/7.9/8.4/7.4; existing named editorial peer. Subject minus peer: I +0.6, U +0.6, S +0.6, E +0.6, D +1.1.
 - [Shete Boka National Park (CW)](../../../countries/CW/sights/shete-boka.yaml) — 9.0/8.7/8.6/8.6/8.4; existing named editorial peer. Subject minus peer: I +0.4, U +0.7, S -0.1, E +0.4, D +0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 907.00 vs Anse Source d'Argent 906.50.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 90.70 vs Anse Source d'Argent 90.65.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -73,8 +73,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Bloody Bay Wall (Little Cayman) (KY)](../../../countries/KY/sights/bloody-bay-wall.yaml) — 8.9/9.0/8.8/8.8/8.5; existing named editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.2, E -0.1, D +0.0.
 - [Cape Kri Dive Site (ID)](../../../countries/ID/sights/cape-kri-dive-site.yaml) — 9.3/9.4/8.5/9.4/8.5; supplementary dive-type numerical anchor. Subject minus peer: I -0.5, U -0.4, S +0.5, E -0.7, D +0.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 884.50 vs Cape Kri Dive Site 910.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -118,8 +116,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [The Quill (Sint Eustatius) (BQ)](../../../countries/BQ/sights/quill.yaml) — 8.9/8.8/8.5/8.8/8.5; existing named editorial peer. Subject minus peer: I -0.5, U -0.2, S +0.0, E -0.2, D -0.1.
 - [Gorda Peak National Park (Virgin Gorda) (VG)](../../../countries/VG/sights/gorda-peak.yaml) — 8.4/8.5/8.7/8.4/8.0; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S -0.2, E +0.2, D +0.4.
 - [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -1.0, U -0.5, S -0.5, E -0.9, D -1.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 850.00 vs Hohe Tauern National Park 926.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -165,8 +161,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -1.0, U -0.6, S -0.3, E -1.1, D -1.4.
 - [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.8, U -0.5, S -0.1, E -0.4, D -0.7.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 844.50 vs Hohe Tauern National Park 926.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -210,8 +204,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Eagle Beach (AW)](../../../countries/AW/sights/eagle-beach.yaml) — 9.0/8.3/7.2/8.9/7.7; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.2, E -0.1, D -0.1.
 - [Orient Bay Beach (MF)](../../../countries/MF/sights/orient-bay.yaml) — 8.5/7.9/6.8/8.7/7.6; existing named editorial peer. Subject minus peer: I +0.3, U +0.1, S +0.2, E +0.1, D +0.0.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.0, U -1.7, S -0.8, E -0.4, D +0.0.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 812.00 vs Anse Source d'Argent 906.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -257,8 +249,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [White Bay Beach (Jost Van Dyke) (VG)](../../../countries/VG/sights/white-bay.yaml) — 8.8/8.0/7.0/8.8/7.6; existing named editorial peer. Subject minus peer: I +0.1, U +0.4, S +0.6, E -0.1, D +0.2.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.6, U -0.8, S -0.4, E -0.6, D -1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 837.50 vs Bora Bora Lagoon 902.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -302,8 +292,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Flamingo Pond Overlook (North Caicos) (TC)](../../../countries/TC/sights/flamingo-pond.yaml) — 7.9/8.3/8.6/7.8/6.9; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.1, E +0.3, D +0.1.
 - [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing named editorial peer. Subject minus peer: I -0.3, U +0.0, S -0.1, E -0.3, D -1.2.
 - [Bonaire Salt Pans (public viewpoints) (BQ)](../../../countries/BQ/sights/bonaire-salt-pans.yaml) — 8.7/8.8/8.2/8.1/7.3; existing named editorial peer. Subject minus peer: I -0.7, U -0.3, S +0.5, E +0.0, D -0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 818.00 vs Booby Pond Nature Reserve (Little Cayman) 855.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -349,8 +337,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fort Amsterdam (SX)](../../../countries/SX/sights/fort-amsterdam.yaml) — 8.1/8.3/8.6/8.0/7.4; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S -0.2, E +0.0, D -0.1.
 - [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; supplementary industrial-type numerical anchor. Subject minus peer: I -0.8, U -0.9, S -1.0, E -0.9, D -1.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 814.00 vs Grytviken historic whaling station 909.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -395,8 +381,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.1, U -0.3, S -0.3, E +0.0, D -0.2.
 - [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I -0.4, U -0.6, S -0.5, E -0.5, D -1.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 787.00 vs Historic Dockyard Museum (Stanley) 844.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -440,8 +424,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mullet Bay Beach (SX)](../../../countries/SX/sights/mullet-bay.yaml) — 8.7/8.0/7.0/8.5/7.4; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S +0.0, E +0.2, D +0.1.
 - [Grand Cul-de-Sac Lagoon (BL)](../../../countries/BL/sights/grand-cul-de-sac.yaml) — 8.6/8.5/8.5/8.7/8.0; existing named editorial peer. Subject minus peer: I +0.0, U -0.6, S -1.5, E +0.0, D -0.5.
 - [Grace Bay Beach (Providenciales) (TC)](../../../countries/TC/sights/grace-bay.yaml) — 9.2/8.5/7.4/9.0/8.0; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.4, E -0.3, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 801.00 vs Grace Bay Beach (Providenciales) 851.50.
 
 No numerical score or evidence-status changes made by this pass.
 

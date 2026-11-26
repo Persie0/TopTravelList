@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Brown Bluff (AQ)](../../../countries/AQ/sights/brown-bluff.yaml) — 9.0/8.9/8.7/8.6/8.0; existing named editorial peer. Subject minus peer: I +0.4, U +0.2, S -0.2, E +0.4, D +0.2.
 - [Ghibli Museum (JP)](../../../countries/JP/sights/ghibli-museum.yaml) — 8.5/9.1/7.8/9.0/8.0; supplementary art-type numerical anchor. Subject minus peer: I +0.9, U +0.0, S +0.7, E +0.0, D +0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 896.50 vs Ilulissat Icefjord 968.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Half Moon Island (eastern visitor area) (AQ)](../../../countries/AQ/sights/half-moon-island.yaml) — 8.5/8.3/8.1/8.5/7.5; existing named editorial peer. Subject minus peer: I +0.3, U +0.4, S +0.4, E +0.2, D +0.5.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -1.0, S -1.0, E -0.5, D -1.4.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -1.1, S -1.3, E +0.7, D +0.4.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 862.00 vs Ogasawara Islands 949.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -0.8, U -0.8, S +0.9, E -0.6, D +0.4.
 - [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I +0.4, U +1.1, S +2.3, E -0.1, D +1.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 875.50 vs Anse Source d'Argent 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Cuverville Island (AQ)](../../../countries/AQ/sights/cuverville-island.yaml) — 9.1/8.8/8.5/8.8/7.9; existing named editorial peer. Subject minus peer: I -0.6, U -0.5, S -0.4, E -0.3, D -0.4.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.4, S -1.4, E -0.7, D -1.9.
 - [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.5, S -1.7, E +0.5, D -0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.00 vs Ogasawara Islands 949.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -211,8 +203,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Baily Head (Deception Island) (AQ)](../../../countries/AQ/sights/baily-head.yaml) — 9.3/9.1/8.7/8.7/7.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.2, E +0.1, D +0.1.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.4, U -0.9, S -1.0, E -0.4, D -1.5.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 874.00 vs Ogasawara Islands 949.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -256,8 +246,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.1, E +0.0, D -0.6.
 - [Cuverville Island (AQ)](../../../countries/AQ/sights/cuverville-island.yaml) — 9.1/8.8/8.5/8.8/7.9; existing named editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.2, E -0.1, D -0.1.
 - [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.2, U -0.6, S -0.8, E -0.5, D -1.6.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 889.00 vs Ogasawara Islands 949.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -303,8 +291,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Whalers Bay (Deception Island) (AQ)](../../../countries/AQ/sights/whalers-bay.yaml) — 8.9/9.2/9.0/8.6/8.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.4, E -0.3, D -0.6.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.8, U -0.3, S +0.6, E -1.0, D -1.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.00 vs Vesuvius National Park 916.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -348,8 +334,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Port Lockroy (Goudier Island) (AQ)](../../../countries/AQ/sights/port-lockroy.yaml) — 8.6/9.1/8.8/8.8/8.0; existing named editorial peer. Subject minus peer: I +0.3, U +0.1, S +0.2, E -0.2, D +0.2.
 - [Völklingen Ironworks (DE)](../../../countries/DE/sights/volklingen.yaml) — 9.0/9.3/9.3/8.9/9.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.3, E -0.3, D -0.8.
 - [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.4, U +0.0, S +0.0, E -0.4, D -0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 888.00 vs Völklingen Ironworks 912.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -395,8 +379,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Vasa Museum (SE)](../../../countries/SE/sights/vasa-museum.yaml) — 9.4/9.6/9.3/9.2/9.0; existing named editorial peer. Subject minus peer: I -0.8, U -0.5, S -0.5, E -0.4, D -1.0.
 - [Whalers Bay (Deception Island) (AQ)](../../../countries/AQ/sights/whalers-bay.yaml) — 8.9/9.2/9.0/8.6/8.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S -0.2, E +0.2, D -0.2.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 873.50 vs Vasa Museum 936.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -440,8 +422,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.1, U +0.4, S +0.5, E -0.8, D -1.7.
 - [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.1, U +0.3, S +0.7, E -0.7, D -1.0.
 - [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.2, S -0.2, E -0.8, D -1.9.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 886.00 vs Shiretoko National Park 941.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -585,7 +565,7 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Paradise Harbour (AQ)](../../../countries/AQ/sights/paradise-harbour.yaml) — 9.3/9.0/8.4/8.9/8.4; existing named editorial peer. Subject minus peer: I +0.2, U +0.2, S -0.1, E +0.1, D -0.3.
 - [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I +0.4, U +0.3, S -0.4, E -0.1, D -1.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.5 vs Ilulissat Icefjord 9.9; photography category 9.5 vs Ilulissat Icefjord 9.9; overall 897.00 vs Ilulissat Icefjord 968.00.
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.5 vs Ilulissat Icefjord 9.9; photography category 9.5 vs Ilulissat Icefjord 9.9.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -630,8 +610,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Lemaire Channel (AQ)](../../../countries/AQ/sights/lemaire-channel.yaml) — 9.5/9.2/8.3/9.0/8.1; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.1, E -0.1, D +0.3.
 - [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.2, U -0.2, S +0.4, E -0.4, D -0.4.
 - [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.1, U -0.3, S -0.7, E -0.2, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 889.50 vs Ilulissat Icefjord 968.00.
 
 No numerical score or evidence-status changes made by this pass.
 

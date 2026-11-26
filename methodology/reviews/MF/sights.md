@@ -27,8 +27,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Île Tintamarre (MF)](../../../countries/MF/sights/tintamarre.yaml) — 8.9/8.7/8.6/8.6/8.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.2, E +0.2, D +0.0.
 - [Singapore Botanic Gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.3, U -0.7, S -1.0, E -0.4, D -1.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.50 vs Singapore Botanic Gardens 922.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -72,8 +70,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Îlet Pinel (MF)](../../../countries/MF/sights/pinel-island.yaml) — 8.8/8.5/8.4/8.8/8.0; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.2, E -0.2, D +0.0.
 - [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.5, U -0.7, S -0.7, E -0.5, D -0.8.
 - [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.4, U -0.5, S -0.4, E -0.4, D -0.5.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 865.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -119,8 +115,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.7, U -0.3, S -0.4, E -0.3, D -0.9.
 - [Sipadan Island Reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; supplementary marine-type numerical anchor. Subject minus peer: I -1.2, U -1.2, S -0.7, E -0.8, D -1.3.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 833.50 vs Sipadan Island Reefs 938.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -164,8 +158,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Fort Napoléon (Les Saintes) (GP)](../../../countries/GP/sights/fort-napoleon.yaml) — 8.4/8.2/8.2/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.3, S +0.0, E -0.2, D -0.7.
 - [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; supplementary fort-type numerical anchor. Subject minus peer: I -1.0, U -1.2, S -1.1, E -1.2, D -1.8.
 - [Galle Old Town and Fortifications (LK)](../../../countries/LK/sights/galle-old-town-and-fortifications.yaml) — 9.1/9.2/9.4/9.2/9.0; supplementary fort-type numerical anchor. Subject minus peer: I -1.0, U -1.3, S -1.2, E -1.0, D -1.9.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 798.50 vs Galle Old Town and Fortifications 919.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -211,8 +203,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -1.0, U -1.1, S -1.5, E -1.0, D -1.7.
 - [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.8, U -1.0, S -1.3, E -0.3, D -1.0.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 806.50 vs Hohe Tauern National Park 926.00.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -256,8 +246,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Blue River Provincial Park (NC)](../../../countries/NC/sights/blue-river-park.yaml) — 8.9/9.1/9.1/8.7/8.9; existing named editorial peer. Subject minus peer: I -1.0, U -1.1, S -1.6, E -0.1, D -0.9.
 - [Jardin de Balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; existing named editorial peer. Subject minus peer: I -0.7, U -0.2, S -0.2, E -0.2, D -0.3.
 - [Pic Paradis summit trail (MF)](../../../countries/MF/sights/pic-paradis.yaml) — 8.4/8.0/7.5/8.5/7.7; existing named editorial peer. Subject minus peer: I -0.5, U +0.0, S +0.0, E +0.1, D +0.3.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 796.00 vs Blue River Provincial Park 896.00.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -303,8 +291,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.3, U -1.8, S -1.0, E -0.5, D +0.0.
 - [White Beach, Boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; supplementary beach-type numerical anchor. Subject minus peer: I -0.6, U -0.5, S +0.0, E -0.3, D +0.1.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 795.00 vs Anse Source d'Argent 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -348,8 +334,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Orient Bay Beach (MF)](../../../countries/MF/sights/orient-bay.yaml) — 8.5/7.9/6.8/8.7/7.6; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.1, E -0.4, D -0.6.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.2, U -1.6, S -0.9, E -0.9, D -0.6.
 - [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I +0.0, U +0.3, S +0.5, E -0.4, D +0.2.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 793.00 vs Anse Source d'Argent 906.50.
 
 No numerical score or evidence-status changes made by this pass.
 
@@ -395,8 +379,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Anse Dufour (MQ)](../../../countries/MQ/sights/anse-dufour.yaml) — 8.4/8.2/7.7/8.8/7.6; existing named editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.9, E -0.4, D -0.4.
 - [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.4, U -1.7, S -1.0, E -0.8, D -0.4.
 
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 786.00 vs Anse Source d'Argent 906.50.
-
 No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
@@ -440,8 +422,6 @@ Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer.
 - [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; existing named editorial peer. Subject minus peer: I -0.5, U +0.1, S +0.1, E -0.2, D -0.3.
 - [Bandrélé Salt Ecomuseum (YT)](../../../countries/YT/sights/bandrele-salt-museum.yaml) — 7.4/8.4/8.0/7.8/7.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.1, E +0.1, D +0.4.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I -0.2, U -0.2, S -0.7, E -0.1, D -0.1.
-
-Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 772.00 vs Svalbard Museum 822.00.
 
 No numerical score or evidence-status changes made by this pass.
 
