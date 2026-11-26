@@ -1688,7 +1688,7 @@
 - Verification still needed: independent claim corroboration, permitted access and closer worldwide peer comparisons.
 
 
-### sight-pt-pico-do-areeiro — Pico do Areeiro (Pico do Arieiro) — 2026-11-26
+## sight-pt-pico-do-areeiro — Pico do Areeiro (Pico do Arieiro) — 2026-11-26
 
 - YAML: [source](../../../countries/PT/sights/pico-do-areeiro.yaml)
 - Action: new
@@ -1709,11 +1709,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Exceptional cloud and peak panoramas |
-| uniqueness | 8.7 | Comparable mountain viewpoints |
-| significance | 8.1 | Natural landscape merit |
-| experience | 8.8 | Accessible summit and nearby walks |
-| depth | 8.2 | Focused summit area |
+| Impact | 9.2 | Exceptional cloud and peak panoramas |
+| Uniqueness | 8.7 | Comparable mountain viewpoints |
+| Significance | 8.1 | Natural landscape merit |
+| Experience | 8.8 | Accessible summit and nearby walks |
+| Depth | 8.2 | Focused summit area |
 
 - Applicable categories: nature:9.1, photography:9.3, adventure:8.8.
 - Computed worldwide overall: 86.95/100.
@@ -1723,7 +1723,7 @@
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-pt-seven-hanging-valleys-trail — Seven Hanging Valleys Trail — 2026-11-26
+## sight-pt-seven-hanging-valleys-trail — Seven Hanging Valleys Trail — 2026-11-26
 
 - YAML: [source](../../../countries/PT/sights/seven-hanging-valleys-trail.yaml)
 - Action: new
@@ -1744,11 +1744,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Dramatic limestone coast |
-| uniqueness | 8.6 | Distinctive arches and valleys |
-| significance | 8.1 | Coastal geomorphology |
-| experience | 9.0 | Varied rewarding walk |
-| depth | 8.7 | Several coves and viewpoints |
+| Impact | 8.9 | Dramatic limestone coast |
+| Uniqueness | 8.6 | Distinctive arches and valleys |
+| Significance | 8.1 | Coastal geomorphology |
+| Experience | 9.0 | Varied rewarding walk |
+| Depth | 8.7 | Several coves and viewpoints |
 
 - Applicable categories: nature:9.0, photography:9.2, adventure:8.8.
 - Computed worldwide overall: 86.60/100.
@@ -1758,7 +1758,7 @@
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-pt-levada-das-25-fontes — Levada das 25 Fontes (PR6) — 2026-11-26
+## sight-pt-levada-das-25-fontes — Levada das 25 Fontes (PR6) — 2026-11-26
 
 - YAML: [source](../../../countries/PT/sights/levada-das-25-fontes.yaml)
 - Action: new
@@ -1779,11 +1779,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Lush waterfall and forest setting |
-| uniqueness | 8.6 | Distinctive levada walking context |
-| significance | 8.4 | Water engineering and forest heritage |
-| experience | 8.9 | Rewarding route |
-| depth | 8.5 | Several forest and water features |
+| Impact | 8.7 | Lush waterfall and forest setting |
+| Uniqueness | 8.6 | Distinctive levada walking context |
+| Significance | 8.4 | Water engineering and forest heritage |
+| Experience | 8.9 | Rewarding route |
+| Depth | 8.5 | Several forest and water features |
 
 - Applicable categories: nature:9.0, photography:8.9, adventure:8.8.
 - Computed worldwide overall: 86.25/100.
@@ -1793,7 +1793,7 @@
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-pt-oceanario-de-lisboa — Oceanário de Lisboa — 2026-11-26
+## sight-pt-oceanario-de-lisboa — Oceanário de Lisboa — 2026-11-26
 
 - YAML: [source](../../../countries/PT/sights/oceanario-de-lisboa.yaml)
 - Action: new
@@ -1814,11 +1814,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.8 | Immersive marine displays |
-| uniqueness | 8.6 | Major aquarium with international peers |
-| significance | 8.6 | Marine education and conservation interpretation |
-| experience | 9.0 | Varied accessible exhibitions |
-| depth | 8.8 | Several habitats and educational themes |
+| Impact | 8.8 | Immersive marine displays |
+| Uniqueness | 8.6 | Major aquarium with international peers |
+| Significance | 8.6 | Marine education and conservation interpretation |
+| Experience | 9.0 | Varied accessible exhibitions |
+| Depth | 8.8 | Several habitats and educational themes |
 
 - Applicable categories: wildlife:9.0, family:9.1, nature:8.9.
 - Computed worldwide overall: 87.40/100.
@@ -1828,7 +1828,7 @@
 - Verification still needed: independent factual corroboration and current access checks.
 
 
-### sight-pt-national-tile-museum — National Tile Museum (Museu Nacional do Azulejo) — 2026-11-26
+## sight-pt-national-tile-museum — National Tile Museum (Museu Nacional do Azulejo) — 2026-11-26
 
 - YAML: [source](../../../countries/PT/sights/national-tile-museum.yaml)
 - Action: new
@@ -1849,11 +1849,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Distinctive tile displays and convent |
-| uniqueness | 9.1 | Specialist national collection |
-| significance | 8.9 | Important Portuguese decorative arts |
-| experience | 8.6 | Curated chronological visit in normal conditions |
-| depth | 8.9 | Several periods and techniques |
+| Impact | 8.7 | Distinctive tile displays and convent |
+| Uniqueness | 9.1 | Specialist national collection |
+| Significance | 8.9 | Important Portuguese decorative arts |
+| Experience | 8.6 | Curated chronological visit in normal conditions |
+| Depth | 8.9 | Several periods and techniques |
 
 - Applicable categories: culture:9.2, history:9.0, architecture:9.0, photography:8.8.
 - Computed worldwide overall: 88.45/100.

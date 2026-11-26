@@ -958,7 +958,7 @@ All 20 city and 48 sight core vectors screened. I/U/S, GPS and categories unchan
 Inventory scope: all eight inscribed and six tentative UNESCO properties represented per [UNESCO](https://whc.unesco.org/en/statesparties/no/). The open-air museum is added; the National Museum of Art, Maihaugen, Stegastein, and further national parks are candidates for expansion, not evidence of exhaustive tourism coverage. Source links now exist for every record, but independent factual/GPS verification remains incomplete.
 
 
-### sight-no-segla — Segla summit hike — 2026-11-26
+## sight-no-segla — Segla summit hike — 2026-11-26
 
 - YAML: [source](../../../countries/NO/sights/segla.yaml)
 - Action: new
@@ -979,11 +979,11 @@ Inventory scope: all eight inscribed and six tentative UNESCO properties represe
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Striking fjord relief |
-| uniqueness | 8.7 | Distinctive steep peak |
-| significance | 8.0 | Local mountain landscape |
-| experience | 8.8 | Rewarding demanding hike |
-| depth | 8.0 | Single route |
+| Impact | 9.1 | Striking fjord relief |
+| Uniqueness | 8.7 | Distinctive steep peak |
+| Significance | 8.0 | Local mountain landscape |
+| Experience | 8.8 | Rewarding demanding hike |
+| Depth | 8.0 | Single route |
 
 - Applicable categories: nature:9.1, photography:9.3, adventure:9.0.
 - Computed worldwide overall: 86.25/100.
@@ -993,7 +993,7 @@ Inventory scope: all eight inscribed and six tentative UNESCO properties represe
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-no-romsdalseggen — Romsdalseggen ridge hike — 2026-11-26
+## sight-no-romsdalseggen — Romsdalseggen ridge hike — 2026-11-26
 
 - YAML: [source](../../../countries/NO/sights/romsdalseggen.yaml)
 - Action: new
@@ -1014,11 +1014,11 @@ Inventory scope: all eight inscribed and six tentative UNESCO properties represe
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Outstanding ridge views |
-| uniqueness | 8.7 | Other alpine ridges comparable |
-| significance | 8.1 | Mountain landscape merit |
-| experience | 9.0 | Varied demanding traverse |
-| depth | 8.5 | Long ridge route |
+| Impact | 9.1 | Outstanding ridge views |
+| Uniqueness | 8.7 | Other alpine ridges comparable |
+| Significance | 8.1 | Mountain landscape merit |
+| Experience | 9.0 | Varied demanding traverse |
+| Depth | 8.5 | Long ridge route |
 
 - Applicable categories: nature:9.1, adventure:9.2, photography:9.3.
 - Computed worldwide overall: 87.25/100.
@@ -1028,7 +1028,7 @@ Inventory scope: all eight inscribed and six tentative UNESCO properties represe
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-no-rampestreken — Rampestreken — 2026-11-26
+## sight-no-rampestreken — Rampestreken — 2026-11-26
 
 - YAML: [source](../../../countries/NO/sights/rampestreken.yaml)
 - Action: new
@@ -1049,11 +1049,11 @@ Inventory scope: all eight inscribed and six tentative UNESCO properties represe
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Dramatic fjord panorama |
-| uniqueness | 8.3 | Comparable engineered viewpoints |
-| significance | 7.6 | Local scenic importance |
-| experience | 8.6 | Rewarding steep walk |
-| depth | 7.4 | Focused viewpoint |
+| Impact | 8.7 | Dramatic fjord panorama |
+| Uniqueness | 8.3 | Comparable engineered viewpoints |
+| Significance | 7.6 | Local scenic importance |
+| Experience | 8.6 | Rewarding steep walk |
+| Depth | 7.4 | Focused viewpoint |
 
 - Applicable categories: nature:8.8, photography:9.1, adventure:8.7.
 - Computed worldwide overall: 82.35/100.
@@ -1063,7 +1063,7 @@ Inventory scope: all eight inscribed and six tentative UNESCO properties represe
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-no-nigardsbreen — Nigardsbreen glacier — 2026-11-26
+## sight-no-nigardsbreen — Nigardsbreen glacier — 2026-11-26
 
 - YAML: [source](../../../countries/NO/sights/nigardsbreen.yaml)
 - Action: new
@@ -1084,11 +1084,11 @@ Inventory scope: all eight inscribed and six tentative UNESCO properties represe
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Striking glacial landscape |
-| uniqueness | 8.6 | Comparable glacier tongues |
-| significance | 8.8 | Scientific glacier monitoring context |
-| experience | 8.7 | Valley and guided experiences |
-| depth | 8.4 | Focused glacier valley |
+| Impact | 8.9 | Striking glacial landscape |
+| Uniqueness | 8.6 | Comparable glacier tongues |
+| Significance | 8.8 | Scientific glacier monitoring context |
+| Experience | 8.7 | Valley and guided experiences |
+| Depth | 8.4 | Focused glacier valley |
 
 - Applicable categories: nature:9.1, photography:9.0, adventure:8.9.
 - Computed worldwide overall: 87.25/100.

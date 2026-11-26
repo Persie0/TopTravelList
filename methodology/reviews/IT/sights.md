@@ -4703,7 +4703,7 @@
 - [Dated worldwide reassessment pass 62 — 2026-11-26](worldwide-deferred-pass62-2026-11-26.md)
 
 
-### sight-it-blue-grotto-capri — Blue Grotto (Grotta Azzurra, Capri) — 2026-11-26
+## sight-it-blue-grotto-capri — Blue Grotto (Grotta Azzurra, Capri) — 2026-11-26
 
 - YAML: [source](../../../countries/IT/sights/blue-grotto-capri.yaml)
 - Action: new
@@ -4724,11 +4724,11 @@
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Remarkable blue light |
-| uniqueness | 8.8 | Unusual optical cave experience with analogues |
-| significance | 8.2 | Geological and historical interest |
-| experience | 8.5 | Short condition-dependent boat experience |
-| depth | 7.3 | Single cave |
+| Impact | 9.0 | Remarkable blue light |
+| Uniqueness | 8.8 | Unusual optical cave experience with analogues |
+| Significance | 8.2 | Geological and historical interest |
+| Experience | 8.5 | Short condition-dependent boat experience |
+| Depth | 7.3 | Single cave |
 
 - Applicable categories: nature:9.0, photography:9.1, adventure:8.5.
 - Computed worldwide overall: 85.45/100.

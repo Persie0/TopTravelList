@@ -1983,7 +1983,7 @@
 Direct [Vatnajökull UNESCO description](https://whc.unesco.org/en/list/1604) and [park trail inventory](https://www.vatnajokulsthjodgardur.is/en) support the exceptional fire-and-ice landscape and multiple distinct visitor sectors; [Fjallabak reserve authority](https://www.nattura.is/en/visit/fjallabak-nature-reserve), [Landmannalaugar access](https://www.ust.is/english/visiting-iceland/protected-areas/south/fjallabak-nature-reserve/landmannalaugar/about-the-area) and [Laugavegur trail association](https://www.fi.is/en/hiking-trails/trails/view/laugavegur) document nested but distinct scopes. Do not add their scores together as independent physical coverage. Existing high scores remain provisional; more close international comparators needed. [UNESCO national inventory](https://whc.unesco.org/en/statesparties/IS/) and [turf house nomination](https://whc.unesco.org/en/tentativelists/5589/) confirm property/component coverage. Surtsey, Fagradalsfjall and seven remaining turf components stay unranked pending scope evidence. All 71 entries now have relevant source links, 62 ranked, nine unassessed; zero fully independently fact-checked. National inventory selective beyond designated properties. No change to pre-existing fully assessed vectors, categories, GPS or scoring weights.
 
 
-### sight-is-heimaey — Heimaey (Westman Islands) — 2026-11-26
+## sight-is-heimaey — Heimaey (Westman Islands) — 2026-11-26
 
 - YAML: [source](../../../countries/IS/sights/heimaey.yaml)
 - Action: new
@@ -2004,11 +2004,11 @@ Direct [Vatnajökull UNESCO description](https://whc.unesco.org/en/list/1604) an
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Dramatic volcanic island scenery |
-| uniqueness | 8.8 | Distinctive volcanic and coastal combination |
-| significance | 8.8 | Eruption history and wildlife |
-| experience | 8.9 | Varied island activities |
-| depth | 9.0 | Multiple landscapes and heritage sites |
+| Impact | 8.9 | Dramatic volcanic island scenery |
+| Uniqueness | 8.8 | Distinctive volcanic and coastal combination |
+| Significance | 8.8 | Eruption history and wildlife |
+| Experience | 8.9 | Varied island activities |
+| Depth | 9.0 | Multiple landscapes and heritage sites |
 
 - Applicable categories: nature:9.0, wildlife:9.1, photography:9.1, culture:8.7.
 - Computed worldwide overall: 88.65/100.
@@ -2018,7 +2018,7 @@ Direct [Vatnajökull UNESCO description](https://whc.unesco.org/en/list/1604) an
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-is-hvitserkur — Hvítserkur sea stack — 2026-11-26
+## sight-is-hvitserkur — Hvítserkur sea stack — 2026-11-26
 
 - YAML: [source](../../../countries/IS/sights/hvitserkur.yaml)
 - Action: new
@@ -2039,11 +2039,11 @@ Direct [Vatnajökull UNESCO description](https://whc.unesco.org/en/list/1604) an
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.5 | Memorable rock silhouette |
-| uniqueness | 8.6 | Distinctive form with sea-stack analogues |
-| significance | 7.7 | Local erosion geology |
-| experience | 8.3 | Focused scenic visit |
-| depth | 7.2 | Single formation |
+| Impact | 8.5 | Memorable rock silhouette |
+| Uniqueness | 8.6 | Distinctive form with sea-stack analogues |
+| Significance | 7.7 | Local erosion geology |
+| Experience | 8.3 | Focused scenic visit |
+| Depth | 7.2 | Single formation |
 
 - Applicable categories: nature:8.8, photography:9.0.
 - Computed worldwide overall: 82.05/100.
@@ -2053,7 +2053,7 @@ Direct [Vatnajökull UNESCO description](https://whc.unesco.org/en/list/1604) an
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-is-kerid-crater — Kerið Crater — 2026-11-26
+## sight-is-kerid-crater — Kerið Crater — 2026-11-26
 
 - YAML: [source](../../../countries/IS/sights/kerid-crater.yaml)
 - Action: new
@@ -2074,11 +2074,11 @@ Direct [Vatnajökull UNESCO description](https://whc.unesco.org/en/list/1604) an
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.3 | Colorful crater contrast |
-| uniqueness | 8.1 | Other crater lakes comparable |
-| significance | 7.8 | Local volcanic geology |
-| experience | 8.4 | Short walk and views |
-| depth | 7.5 | Focused feature |
+| Impact | 8.3 | Colorful crater contrast |
+| Uniqueness | 8.1 | Other crater lakes comparable |
+| Significance | 7.8 | Local volcanic geology |
+| Experience | 8.4 | Short walk and views |
+| Depth | 7.5 | Focused feature |
 
 - Applicable categories: nature:8.6, photography:8.8.
 - Computed worldwide overall: 80.85/100.

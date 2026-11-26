@@ -1067,7 +1067,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent claim-level verification and current operating conditions.
 
 
-### sight-nz-doubtful-sound — Doubtful Sound / Patea — 2026-11-26
+## sight-nz-doubtful-sound — Doubtful Sound / Patea — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/doubtful-sound.yaml)
 - Action: new
@@ -1088,11 +1088,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.3 | Exceptional fiord scenery |
-| uniqueness | 9.0 | Distinctive remote branching fiord but analogues exist |
-| significance | 8.8 | Protected marine and forest ecosystems |
-| experience | 8.9 | Rewarding wilderness cruise |
-| depth | 8.9 | Several arms and changing landscapes |
+| Impact | 9.3 | Exceptional fiord scenery |
+| Uniqueness | 9.0 | Distinctive remote branching fiord but analogues exist |
+| Significance | 8.8 | Protected marine and forest ecosystems |
+| Experience | 8.9 | Rewarding wilderness cruise |
+| Depth | 8.9 | Several arms and changing landscapes |
 
 - Applicable categories: nature:9.4, photography:9.3, wildlife:8.9.
 - Computed worldwide overall: 90.25/100.
@@ -1102,7 +1102,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-cathedral-cove — Mautohe / Cathedral Cove — 2026-11-26
+## sight-nz-cathedral-cove — Mautohe / Cathedral Cove — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/cathedral-cove.yaml)
 - Action: new
@@ -1123,11 +1123,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Striking coastal arch |
-| uniqueness | 8.6 | Distinctive composition with global sea-arch analogues |
-| significance | 7.9 | Local geomorphology and coastal habitat |
-| experience | 8.6 | Rewarding coastal walk and beach subject to access |
-| depth | 7.7 | Concentrated cove visit |
+| Impact | 8.9 | Striking coastal arch |
+| Uniqueness | 8.6 | Distinctive composition with global sea-arch analogues |
+| Significance | 7.9 | Local geomorphology and coastal habitat |
+| Experience | 8.6 | Rewarding coastal walk and beach subject to access |
+| Depth | 7.7 | Concentrated cove visit |
 
 - Applicable categories: nature:8.9, photography:9.2, beaches:8.8.
 - Computed worldwide overall: 84.60/100.
@@ -1137,7 +1137,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-hooker-valley-track — Hooker Valley Track — 2026-11-26
+## sight-nz-hooker-valley-track — Hooker Valley Track — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/hooker-valley-track.yaml)
 - Action: new
@@ -1158,11 +1158,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.2 | Outstanding alpine panorama |
-| uniqueness | 8.5 | Comparable glacial valleys elsewhere |
-| significance | 8.1 | Glacial landscape, not entire park's scientific significance |
-| experience | 9.2 | Accessible alpine walking in normal conditions |
-| depth | 8.3 | Focused route with multiple views |
+| Impact | 9.2 | Outstanding alpine panorama |
+| Uniqueness | 8.5 | Comparable glacial valleys elsewhere |
+| Significance | 8.1 | Glacial landscape, not entire park's scientific significance |
+| Experience | 9.2 | Accessible alpine walking in normal conditions |
+| Depth | 8.3 | Focused route with multiple views |
 
 - Applicable categories: nature:9.2, photography:9.3, adventure:9.0.
 - Computed worldwide overall: 87.15/100.
@@ -1172,7 +1172,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-moeraki-boulders — Moeraki Boulders / Kaihinaki — 2026-11-26
+## sight-nz-moeraki-boulders — Moeraki Boulders / Kaihinaki — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/moeraki-boulders.yaml)
 - Action: new
@@ -1193,11 +1193,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.4 | Memorable spherical rocks |
-| uniqueness | 8.8 | Unusual clustered concretions |
-| significance | 8.2 | Geological interest and local cultural context |
-| experience | 8.5 | Short rewarding beach walk |
-| depth | 7.3 | Single concentrated feature |
+| Impact | 8.4 | Memorable spherical rocks |
+| Uniqueness | 8.8 | Unusual clustered concretions |
+| Significance | 8.2 | Geological interest and local cultural context |
+| Experience | 8.5 | Short rewarding beach walk |
+| Depth | 7.3 | Single concentrated feature |
 
 - Applicable categories: nature:8.8, photography:8.9.
 - Computed worldwide overall: 83.65/100.
@@ -1207,7 +1207,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-te-puia — Te Puia (Rotorua geothermal and Maori arts complex) — 2026-11-26
+## sight-nz-te-puia — Te Puia (Rotorua geothermal and Maori arts complex) — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/te-puia.yaml)
 - Action: new
@@ -1228,11 +1228,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Geyser and living craft interpretation |
-| uniqueness | 9.1 | Distinctive geothermal and living culture combination |
-| significance | 9.0 | Indigenous cultural education and geothermal significance |
-| experience | 9.1 | Guided geothermal and cultural experiences |
-| depth | 9.0 | Several complementary visitor themes |
+| Impact | 9.0 | Geyser and living craft interpretation |
+| Uniqueness | 9.1 | Distinctive geothermal and living culture combination |
+| Significance | 9.0 | Indigenous cultural education and geothermal significance |
+| Experience | 9.1 | Guided geothermal and cultural experiences |
+| Depth | 9.0 | Several complementary visitor themes |
 
 - Applicable categories: nature:9.2, culture:9.3, photography:9.0.
 - Computed worldwide overall: 90.40/100.
@@ -1242,7 +1242,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-waimangu-volcanic-valley — Waimangu Volcanic Valley — 2026-11-26
+## sight-nz-waimangu-volcanic-valley — Waimangu Volcanic Valley — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/waimangu-volcanic-valley.yaml)
 - Action: new
@@ -1263,11 +1263,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Colorful thermal landscapes |
-| uniqueness | 9.1 | Young volcanic system and lake combination |
-| significance | 8.9 | Volcanic history and natural processes |
-| experience | 9.0 | Walking and cruise options |
-| depth | 9.0 | Multiple geothermal features and lake |
+| Impact | 9.0 | Colorful thermal landscapes |
+| Uniqueness | 9.1 | Young volcanic system and lake combination |
+| Significance | 8.9 | Volcanic history and natural processes |
+| Experience | 9.0 | Walking and cruise options |
+| Depth | 9.0 | Multiple geothermal features and lake |
 
 - Applicable categories: nature:9.3, photography:9.2, adventure:8.6.
 - Computed worldwide overall: 90.05/100.
@@ -1277,7 +1277,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-hells-gate-geothermal-park — Hell's Gate Geothermal Park — 2026-11-26
+## sight-nz-hells-gate-geothermal-park — Hell's Gate Geothermal Park — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/hells-gate-geothermal-park.yaml)
 - Action: new
@@ -1298,11 +1298,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Active thermal scenery |
-| uniqueness | 8.9 | Distinctive mud and spa combination |
-| significance | 8.5 | Geothermal and cultural context |
-| experience | 8.9 | Complementary walking and bathing |
-| depth | 8.4 | Concentrated park with multiple features |
+| Impact | 8.7 | Active thermal scenery |
+| Uniqueness | 8.9 | Distinctive mud and spa combination |
+| Significance | 8.5 | Geothermal and cultural context |
+| Experience | 8.9 | Complementary walking and bathing |
+| Depth | 8.4 | Concentrated park with multiple features |
 
 - Applicable categories: nature:9.0, relaxation:8.9, photography:8.8.
 - Computed worldwide overall: 87.10/100.
@@ -1312,7 +1312,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-whakarewarewa-living-maori-village — Whakarewarewa Living Māori Village — 2026-11-26
+## sight-nz-whakarewarewa-living-maori-village — Whakarewarewa Living Māori Village — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/whakarewarewa-living-maori-village.yaml)
 - Action: new
@@ -1333,11 +1333,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Memorable living heritage |
-| uniqueness | 9.1 | Unusual inhabited geothermal village |
-| significance | 8.9 | Māori cultural heritage |
-| experience | 9.0 | Guided interpretation |
-| depth | 8.6 | Several cultural and geothermal themes |
+| Impact | 8.6 | Memorable living heritage |
+| Uniqueness | 9.1 | Unusual inhabited geothermal village |
+| Significance | 8.9 | Māori cultural heritage |
+| Experience | 9.0 | Guided interpretation |
+| Depth | 8.6 | Several cultural and geothermal themes |
 
 - Applicable categories: culture:9.3, history:8.9, nature:8.7.
 - Computed worldwide overall: 88.45/100.
@@ -1347,7 +1347,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-whakarewarewa-forest — Tītokorangi / Whakarewarewa Forest — 2026-11-26
+## sight-nz-whakarewarewa-forest — Tītokorangi / Whakarewarewa Forest — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/whakarewarewa-forest.yaml)
 - Action: new
@@ -1368,11 +1368,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.4 | Atmospheric tall forest |
-| uniqueness | 8.0 | Introduced redwoods have analogues |
-| significance | 7.7 | Recreational and forestry interest |
-| experience | 8.9 | Varied walking and cycling |
-| depth | 8.8 | Extensive route network |
+| Impact | 8.4 | Atmospheric tall forest |
+| Uniqueness | 8.0 | Introduced redwoods have analogues |
+| Significance | 7.7 | Recreational and forestry interest |
+| Experience | 8.9 | Varied walking and cycling |
+| Depth | 8.8 | Extensive route network |
 
 - Applicable categories: nature:8.7, adventure:8.9, photography:8.7.
 - Computed worldwide overall: 82.75/100.
@@ -1382,7 +1382,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-roys-peak-track — Roys Peak Track — 2026-11-26
+## sight-nz-roys-peak-track — Roys Peak Track — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/roys-peak-track.yaml)
 - Action: new
@@ -1403,11 +1403,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.1 | Exceptional lake panorama |
-| uniqueness | 8.3 | Other alpine viewpoints comparable |
-| significance | 7.5 | Landscape rather than broad protected heritage |
-| experience | 8.7 | Rewarding strenuous walk |
-| depth | 7.9 | Single summit route |
+| Impact | 9.1 | Exceptional lake panorama |
+| Uniqueness | 8.3 | Other alpine viewpoints comparable |
+| Significance | 7.5 | Landscape rather than broad protected heritage |
+| Experience | 8.7 | Rewarding strenuous walk |
+| Depth | 7.9 | Single summit route |
 
 - Applicable categories: nature:8.9, photography:9.2, adventure:8.8.
 - Computed worldwide overall: 84.00/100.
@@ -1417,7 +1417,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-kaikoura-marine-wildlife-watching — Kaikōura Marine Wildlife Watching — 2026-11-26
+## sight-nz-kaikoura-marine-wildlife-watching — Kaikōura Marine Wildlife Watching — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml)
 - Action: new
@@ -1438,11 +1438,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 9.0 | Memorable whale encounters |
-| uniqueness | 9.2 | Distinctive deep-water wildlife near coast |
-| significance | 8.8 | Marine ecosystem importance |
-| experience | 8.9 | Guided wildlife encounters subject to conditions |
-| depth | 8.5 | Several marine species and interpretation |
+| Impact | 9.0 | Memorable whale encounters |
+| Uniqueness | 9.2 | Distinctive deep-water wildlife near coast |
+| Significance | 8.8 | Marine ecosystem importance |
+| Experience | 8.9 | Guided wildlife encounters subject to conditions |
+| Depth | 8.5 | Several marine species and interpretation |
 
 - Applicable categories: wildlife:9.4, nature:9.1, photography:8.9.
 - Computed worldwide overall: 89.45/100.
@@ -1452,7 +1452,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-kaikoura-peninsula-walkway — Kaikōura Peninsula Walkway — 2026-11-26
+## sight-nz-kaikoura-peninsula-walkway — Kaikōura Peninsula Walkway — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/kaikoura-peninsula-walkway.yaml)
 - Action: new
@@ -1473,11 +1473,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.6 | Coastal and mountain contrast |
-| uniqueness | 8.2 | Comparable wildlife coast walks |
-| significance | 8.0 | Local natural and cultural interest |
-| experience | 8.8 | Varied accessible sections |
-| depth | 8.4 | Several viewpoints and interpretation stops |
+| Impact | 8.6 | Coastal and mountain contrast |
+| Uniqueness | 8.2 | Comparable wildlife coast walks |
+| Significance | 8.0 | Local natural and cultural interest |
+| Experience | 8.8 | Varied accessible sections |
+| Depth | 8.4 | Several viewpoints and interpretation stops |
 
 - Applicable categories: nature:8.8, wildlife:8.8, photography:8.8.
 - Computed worldwide overall: 83.90/100.
@@ -1487,7 +1487,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access.
 
 
-### sight-nz-redwoods-treewalk — Redwoods Treewalk — 2026-11-26
+## sight-nz-redwoods-treewalk — Redwoods Treewalk — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/redwoods-treewalk.yaml)
 - Action: new
@@ -1508,11 +1508,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.4 | Immersive canopy perspective |
-| uniqueness | 8.4 | Other elevated walks exist |
-| significance | 7.6 | Recreation and forestry context |
-| experience | 8.9 | Day and evening experiences |
-| depth | 8.0 | Focused attraction |
+| Impact | 8.4 | Immersive canopy perspective |
+| Uniqueness | 8.4 | Other elevated walks exist |
+| Significance | 7.6 | Recreation and forestry context |
+| Experience | 8.9 | Day and evening experiences |
+| Depth | 8.0 | Focused attraction |
 
 - Applicable categories: nature:8.5, adventure:8.8, family:8.8, photography:8.6.
 - Computed worldwide overall: 82.75/100.
@@ -1522,7 +1522,7 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 - Verification still needed: independent factual corroboration and current access checks.
 
 
-### sight-nz-okere-falls-track — Ōkere Falls Track — 2026-11-26
+## sight-nz-okere-falls-track — Ōkere Falls Track — 2026-11-26
 
 - YAML: [source](../../../countries/NZ/sights/okere-falls-track.yaml)
 - Action: new
@@ -1543,11 +1543,11 @@ Core values I/U/S/E/D from worldwide YAML; original qualitative comparisons reta
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.2 | Attractive river and falls |
-| uniqueness | 8.0 | Comparable waterfall walks |
-| significance | 7.9 | Local cultural and hydroelectric history |
-| experience | 8.6 | Rewarding short walk |
-| depth | 7.8 | Limited route scope |
+| Impact | 8.2 | Attractive river and falls |
+| Uniqueness | 8.0 | Comparable waterfall walks |
+| Significance | 7.9 | Local cultural and hydroelectric history |
+| Experience | 8.6 | Rewarding short walk |
+| Depth | 7.8 | Limited route scope |
 
 - Applicable categories: nature:8.5, photography:8.5, adventure:8.2.
 - Computed worldwide overall: 81.10/100.

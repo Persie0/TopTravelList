@@ -2724,7 +2724,7 @@ All 37 formerly editorial-only records (11 cities, 26 sights) now have supportin
 The British Museum's provisional 94.90 is supported by its multi-gallery, multi-civilization scope; its uniqueness and significance exceed the KHM (9.4 and 9.6) only slightly, while KHM's experience 9.4 exceeds British Museum's 9.3. Current source confirms more than 60 galleries, not unrestricted access to all stored objects. Further close same-type comparison of each of the original 38 exceptional cases remains necessary. Overall inventory now 108 records (30 cities, 78 sights); 107 ranked, one unassessed. No previous numeric vectors or scoring weights changed.
 
 
-### sight-gb-buckingham-palace — Buckingham Palace (State Rooms and exterior) — 2026-11-26
+## sight-gb-buckingham-palace — Buckingham Palace (State Rooms and exterior) — 2026-11-26
 
 - YAML: [source](../../../countries/GB/sights/buckingham-palace.yaml)
 - Action: new
@@ -2745,11 +2745,11 @@ The British Museum's provisional 94.90 is supported by its multi-gallery, multi-
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Iconic palace and interiors |
-| uniqueness | 8.8 | Comparable royal palaces exist |
-| significance | 9.2 | Constitutional and ceremonial significance |
-| experience | 8.8 | Seasonal interior visits and exterior experience |
-| depth | 8.6 | Several State Rooms |
+| Impact | 8.9 | Iconic palace and interiors |
+| Uniqueness | 8.8 | Comparable royal palaces exist |
+| Significance | 9.2 | Constitutional and ceremonial significance |
+| Experience | 8.8 | Seasonal interior visits and exterior experience |
+| Depth | 8.6 | Several State Rooms |
 
 - Applicable categories: architecture:9.0, history:9.2, culture:9.2, photography:8.9.
 - Computed worldwide overall: 88.90/100.
@@ -2759,7 +2759,7 @@ The British Museum's provisional 94.90 is supported by its multi-gallery, multi-
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-gb-white-cliffs-of-dover — White Cliffs of Dover — 2026-11-26
+## sight-gb-white-cliffs-of-dover — White Cliffs of Dover — 2026-11-26
 
 - YAML: [source](../../../countries/GB/sights/white-cliffs-of-dover.yaml)
 - Action: new
@@ -2780,11 +2780,11 @@ The British Museum's provisional 94.90 is supported by its multi-gallery, multi-
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.7 | Iconic chalk coast |
-| uniqueness | 8.4 | Other chalk cliffs comparable |
-| significance | 8.6 | Natural and national historical symbolism |
-| experience | 8.8 | Scenic coastal paths |
-| depth | 8.4 | Several viewpoints and routes |
+| Impact | 8.7 | Iconic chalk coast |
+| Uniqueness | 8.4 | Other chalk cliffs comparable |
+| Significance | 8.6 | Natural and national historical symbolism |
+| Experience | 8.8 | Scenic coastal paths |
+| Depth | 8.4 | Several viewpoints and routes |
 
 - Applicable categories: nature:8.9, photography:9.0, history:8.7, adventure:8.5.
 - Computed worldwide overall: 85.90/100.
@@ -2794,7 +2794,7 @@ The British Museum's provisional 94.90 is supported by its multi-gallery, multi-
 - Verification still needed: independent corroboration and current access.
 
 
-### sight-gb-warner-bros-studio-tour-london — Warner Bros. Studio Tour London — The Making of Harry Potter — 2026-11-26
+## sight-gb-warner-bros-studio-tour-london — Warner Bros. Studio Tour London — The Making of Harry Potter — 2026-11-26
 
 - YAML: [source](../../../countries/GB/sights/warner-bros-studio-tour-london.yaml)
 - Action: new
@@ -2815,11 +2815,11 @@ The British Museum's provisional 94.90 is supported by its multi-gallery, multi-
 
 | Field | Rating | Justification |
 | --- | ---: | --- |
-| impact | 8.9 | Immersive original film sets |
-| uniqueness | 9.1 | Distinct original production material |
-| significance | 8.5 | Influential film heritage |
-| experience | 9.2 | Detailed walk-through exhibition |
-| depth | 9.1 | Numerous sets and filmmaking topics |
+| Impact | 8.9 | Immersive original film sets |
+| Uniqueness | 9.1 | Distinct original production material |
+| Significance | 8.5 | Influential film heritage |
+| Experience | 9.2 | Detailed walk-through exhibition |
+| Depth | 9.1 | Numerous sets and filmmaking topics |
 
 - Applicable categories: culture:8.9, family:9.2, photography:8.9.
 - Computed worldwide overall: 89.35/100.
