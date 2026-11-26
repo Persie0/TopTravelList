@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15267; unassessed: 1002.
+Ranked: 15268; unassessed: 1001.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 737 |
+| conflicting-declared-status | 738 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2121 |
 | historical-review-only | 2516 |
-| incomplete-core | 1002 |
+| incomplete-core | 1001 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1876 |
 | overall-95-plus | 164 |
@@ -515,7 +515,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | WS | cities | 6 | 6 | 67.85 | 0 | 0 | 0 | 6 | [Apia](../../countries/WS/cities/apia.yaml) 78.15; [Lalomanu Village](../../countries/WS/cities/lalomanu.yaml) 69.75; [Mulifanua](../../countries/WS/cities/mulifanua.yaml) 68.95 |
 | WS | sights | 22 | 19 | 79.65 | 0 | 0 | 0 | 22 | [To Sua Ocean Trench](../../countries/WS/sights/to-sua-ocean-trench.yaml) 85.60; [O Le Pupū Puē National Park](../../countries/WS/sights/o-le-pupu-pue-national-park.yaml) 85.30; [Fagaloa Bay–Uafato Tiavea Conservation Zone](../../countries/WS/sights/fagaloa-bay-uafato-tiavea-conservation-zone.yaml) 84.70 |
 | XK | cities | 20 | 20 | 71.08 | 0 | 0 | 0 | 20 | [Prizren](../../countries/XK/cities/prizren.yaml) 87.00; [Pristina](../../countries/XK/cities/pristina.yaml) 80.95; [Gjakova](../../countries/XK/cities/gjakova.yaml) 80.90 |
-| XK | sights | 38 | 37 | 80.55 | 3 | 0 | 3 | 38 | [Visoki Dečani Monastery](../../countries/XK/sights/visoki-decani-monastery.yaml) 91.00; [Patriarchate of Peć Monastery](../../countries/XK/sights/patriarchate-of-pec-monastery.yaml) 90.50; [Bjeshkët e Nemuna National Park](../../countries/XK/sights/bjeshket-e-nemuna-national-park.yaml) 90.30 |
+| XK | sights | 38 | 38 | 81.12 | 3 | 0 | 3 | 38 | [Visoki Dečani Monastery](../../countries/XK/sights/visoki-decani-monastery.yaml) 91.00; [Patriarchate of Peć Monastery](../../countries/XK/sights/patriarchate-of-pec-monastery.yaml) 90.50; [Bjeshkët e Nemuna National Park](../../countries/XK/sights/bjeshket-e-nemuna-national-park.yaml) 90.30 |
 | YE | cities | 10 | 2 | 70.22 | 0 | 0 | 0 | 10 | [Qalansiyah](../../countries/YE/cities/qalansiyah.yaml) 72.75; [Hadibo](../../countries/YE/cities/hadibo.yaml) 67.70 |
 | YE | sights | 34 | 13 | 85.20 | 2 | 0 | 0 | 34 | [Socotra Main Island](../../countries/YE/sights/socotra-island.yaml) 92.75; [Old Walled City of Shibam](../../countries/YE/sights/old-shibam.yaml) 90.55; [Diksam Plateau](../../countries/YE/sights/diksam-plateau.yaml) 89.30 |
 | YT | cities | 2 | 2 | 76.00 | 0 | 0 | 0 | 2 | [Dzaoudzi (historic town)](../../countries/YT/cities/dzaoudzi.yaml) 77.60; [Mamoudzou](../../countries/YT/cities/mamoudzou.yaml) 74.40 |
