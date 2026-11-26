@@ -3266,3 +3266,388 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial rating; earlier decision: none.
 - Verification still needed: independently corroborate claims and location; check current access before visiting.
+
+
+### sight-us-upper-antelope-canyon — Upper Antelope Canyon — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/upper-antelope-canyon.yaml)
+- Action: new
+- Precise subject and factual basis: Navajo-guided visit to sculpted slot canyon, known for light beams under suitable conditions; distinct from Lower Canyon; geographic pin, not tour meeting point. [Visitor information](https://navajonationparks.org/tribal-parks/lake-powell/), official search excerpts checked 2026-11-26.
+- Location check: 36.8619, -111.3744; [published reference](https://antelopecanyontrip.com/places/where-is-antelope-canyon/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | Much larger varied hoodoo landscape |
+| [JO/petra-siq](../../../countries/JO/sights/petra-siq.yaml) | Similar narrow rock passage with greater archaeological significance |
+| [JO/wadi-rum-khazali-canyon](../../../countries/JO/sights/wadi-rum-khazali-canyon.yaml) | Comparable sandstone fissure with rock-art context |
+| [IS/studlagil](../../../countries/IS/sights/studlagil.yaml) | Different basalt forms and wider hiking scope |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.4 | Exceptional light and sandstone forms |
+| uniqueness | 9.3 | Rare concentrated slot-canyon aesthetic |
+| significance | 8.3 | Geological and Navajo landscape context, not a broad heritage complex |
+| experience | 8.6 | Guided traversal rewarding but time and crowd constraints |
+| depth | 7.8 | Short, focused experience |
+
+- Applicable categories: nature:9.2, photography:9.4.
+- Computed worldwide overall: 88.75/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-lower-antelope-canyon — Lower Antelope Canyon — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/lower-antelope-canyon.yaml)
+- Action: new
+- Precise subject and factual basis: Separate guided route through sinuous sandstone passages and stairs, not the flooded lower end near the lake. Pin is not the tour operator check-in. [Visitor information](https://navajonationparks.org/tribal-parks/lake-powell/), official search excerpts checked 2026-11-26.
+- Location check: 36.9037, -111.4138; [published reference](https://antelopecanyontrip.com/places/where-is-antelope-canyon/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | More extensive exploration |
+| [JO/petra-siq](../../../countries/JO/sights/petra-siq.yaml) | Greater cultural significance |
+| [JO/wadi-rum-khazali-canyon](../../../countries/JO/sights/wadi-rum-khazali-canyon.yaml) | Different narrow canyon and rock-art focus |
+| [IS/fjadrargljufur](../../../countries/IS/sights/fjadrargljufur.yaml) | Open green canyon rather than enclosed sandstone |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Memorable layered sandstone |
+| uniqueness | 9.0 | Comparable to Upper but distinctive passage shapes |
+| significance | 8.2 | Geological and cultural landscape context |
+| experience | 8.6 | Guided traversal with stairs |
+| depth | 8.0 | Focused route with changing rock forms |
+
+- Applicable categories: nature:9.1, photography:9.3, adventure:8.4.
+- Computed worldwide overall: 87.40/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-napali-coast-state-wilderness-park — Nāpali Coast State Wilderness Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml)
+- Action: new
+- Precise subject and factual basis: Remote Kauaʻi coastal wilderness with steep cliffs and valleys; Kalalau Trail requires applicable reservations or permits. Published Kalalau Beach point represents park interior. [Visitor information](https://dlnr.hawaii.gov/dsp/home/haena-napali-access/), official search excerpts checked 2026-11-26.
+- Location check: 22.17372, -159.6584; [published reference](https://mapcarta.com/24041076); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | Different fjord scenery and boat access |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | Broader ecosystem variety |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | Less dramatic but more accessible coastal trail network |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Longer and less steep Atlantic coastline |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.4 | Extraordinary coastal relief |
+| uniqueness | 9.2 | Tropical fluted cliffs and valleys are unusual |
+| significance | 8.8 | Coastal ecology and cultural landscape |
+| experience | 8.9 | Outstanding long hike with access restrictions |
+| depth | 9.0 | Substantial trail and valley exploration |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.3.
+- Computed worldwide overall: 91.15/100.
+- High-score challenge: 90+ supported by the stated combination of intrinsic qualities and peer comparisons; provisional, not a world-leading anchor. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-waimea-canyon-state-park — Waimea Canyon State Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/waimea-canyon-state-park.yaml)
+- Action: new
+- Precise subject and factual basis: Colorful eroded canyon and principal lookout; rate state park, not adjacent Kōkeʻe or Nāpali. Representative lookout parking coordinate. [Visitor information](https://dlnr.hawaii.gov/dsp/parks/kauai/waimea-canyon-state-park/), official search excerpts checked 2026-11-26.
+- Location check: 22.071432, -159.66211; [published reference](https://myhikes.org/trails/waimea-canyon-lookout); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater scale and geological exposure |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Comparable green canyon scenery |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | Different limestone and river recreation |
+| [NA/fish-river-canyon](../../../countries/NA/sights/fish-river-canyon.yaml) | More extensive dry canyon |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Striking red-green canyon contrasts |
+| uniqueness | 8.8 | Distinctive tropical erosion but global canyon analogues |
+| significance | 8.6 | Geological landscape of substantial interest |
+| experience | 8.8 | Scenic overlooks and walking |
+| depth | 8.5 | Several viewpoints, less depth than larger canyon parks |
+
+- Applicable categories: nature:9.2, photography:9.2, adventure:8.6.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-big-sur-coast — Big Sur Coast (Highway 1 scenic corridor) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/big-sur-coast.yaml)
+- Action: new
+- Precise subject and factual basis: Scenic Highway 1 coastal corridor with coastal parks, Bixby Bridge and walks. Representative Bixby viewpoint, not the whole region's centroid. Check road access independently. [Visitor information](https://www.visitcalifornia.com/places-to-visit/big-sur/), official search excerpts checked 2026-11-26.
+- Location check: 36.372487, -121.902217; [published reference](https://californiacoastaltrail.org/info-point/bixby-creek-bridge-viewpoint/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | More distinctive offshore stacks |
+| [GB/pembrokeshire-coast](../../../countries/GB/sights/pembrokeshire-coast.yaml) | More continuous trail focus |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Less iconic roadway, extensive coast |
+| [FR/etretat](../../../countries/FR/sights/etretat.yaml) | More concentrated chalk cliffs |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Rugged coastal panoramas |
+| uniqueness | 8.7 | Comparable coastal drives globally |
+| significance | 8.3 | Natural landscape and road heritage |
+| experience | 9.0 | Scenic stops and walking |
+| depth | 8.9 | Multiple coastal parks and overlooks |
+
+- Applicable categories: nature:9.1, photography:9.3, adventure:8.8.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-kennedy-space-center-visitor-complex — Kennedy Space Center Visitor Complex — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml)
+- Action: new
+- Precise subject and factual basis: Public visitor complex and included interpretive bus-tour scope; actual Atlantis orbiter and Apollo/Saturn V displays (https://www.kennedyspacecenter.com/info/plan-your-visit/faqs/). Official directions DMS converted to decimal; not the working spaceport centroid. [Visitor information](https://www.kennedyspacecenter.com/explore-attractions/), official search excerpts checked 2026-11-26.
+- Location check: 28.515556, -80.681667; [published reference](https://www.kennedyspacecenter.com/info/plan-your-visit/travel-information-and-parking/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/dayton-aviation-heritage](../../../countries/US/sights/dayton-aviation-heritage.yaml) | Important early aviation history but fewer large spacecraft exhibits |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | Different globally important historical context |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Industrial engineering heritage with different visitor format |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | World-class museum architecture but different subject and scope |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Full-scale historic spacecraft |
+| uniqueness | 9.4 | Rare original spacecraft and launch-site interpretation |
+| significance | 9.4 | Major human spaceflight milestones |
+| experience | 9.2 | Interactive exhibits and interpretation |
+| depth | 9.3 | Multiple galleries and bus-tour destinations |
+
+- Applicable categories: history:9.4, culture:9.0, family:9.2.
+- Computed worldwide overall: 93.00/100.
+- High-score challenge: 90+ supported by the stated combination of intrinsic qualities and peer comparisons; provisional, not a world-leading anchor. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-empire-state-building — Empire State Building — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/empire-state-building.yaml)
+- Action: new
+- Precise subject and factual basis: Art Deco skyscraper, observation decks and exhibits about construction and cultural history. Mapped building point. [Visitor information](https://www.esbnyc.com/visit/faq), official search excerpts checked 2026-11-26.
+- Location check: 40.74844, -73.98566; [published reference](https://mapcarta.com/22578872); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/golden-gate-bridge](../../../countries/US/sights/golden-gate-bridge.yaml) | Comparable US engineering icon |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | Stronger symbolic and historical narrative |
+| [AU/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Different engineering type and harbor views |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | Greater art collection depth |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Iconic skyline and elevated views |
+| uniqueness | 8.9 | Distinctive Art Deco skyscraper with tower analogues |
+| significance | 9.0 | Important skyscraper engineering and cultural history |
+| experience | 8.8 | Interpretation and observation decks |
+| depth | 8.0 | Focused building visit |
+
+- Applicable categories: architecture:9.3, history:9.0, photography:9.2.
+- Computed worldwide overall: 88.75/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-national-mall-and-memorial-parks — National Mall and Memorial Parks — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-mall-and-memorial-parks.yaml)
+- Action: new
+- Precise subject and factual basis: NPS civic landscape and major memorials; exclude independent Smithsonian museum collections from score. Federal recreation listing provides representative GPS. [Visitor information](https://www.nps.gov/nama/planyourvisit/basicinfo.htm), official search excerpts checked 2026-11-26.
+- Location check: 38.8899, -77.026; [published reference](https://www.recreation.gov/gateways/2870); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | More concentrated founding-era heritage |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | Different recreation and landscape scope |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | Single landmark with narrower visit |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Different coherent heritage landscape |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.0 | Monumental civic vistas |
+| uniqueness | 9.0 | Distinctive integrated commemorative landscape |
+| significance | 9.3 | Important US political history and public memory |
+| experience | 9.0 | Meaningful walking and interpretation |
+| depth | 9.2 | Several major monuments and memorials |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:9.0, photography:9.0.
+- Computed worldwide overall: 90.80/100.
+- High-score challenge: 90+ supported by the stated combination of intrinsic qualities and peer comparisons; provisional, not a world-leading anchor. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-hoover-dam — Hoover Dam — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/hoover-dam.yaml)
+- Action: new
+- Precise subject and factual basis: Major dam and powerplant, visitor interpretation and guided tours; not entire Lake Mead. Federal recreation GPS. [Visitor information](https://www.usbr.gov/lc/hooverdam/service/), official search excerpts checked 2026-11-26.
+- Location check: 36.0160918, -114.7380381; [published reference](https://www.recreation.gov/gateways/29); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/golden-gate-bridge](../../../countries/US/sights/golden-gate-bridge.yaml) | More iconic scenic crossing |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | Earlier industrial revolution importance |
+| [AU/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Different large engineering landmark |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | Greater political significance, different heritage type |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.7 | Monumental engineering setting |
+| uniqueness | 8.8 | Distinctive large dam construction, with international analogues |
+| significance | 9.0 | Major water and power infrastructure history |
+| experience | 8.6 | Tours and observation opportunities |
+| depth | 8.3 | Single infrastructure site with interpretation |
+
+- Applicable categories: architecture:9.1, history:9.0, photography:8.8.
+- Computed worldwide overall: 87.30/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-niagara-falls-state-park — Niagara Falls State Park (US side) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/niagara-falls-state-park.yaml)
+- Action: new
+- Precise subject and factual basis: US state park visitor scope: American-side viewpoints, Cave of the Winds and boat experience; not the Canadian visitor side. Official Goat Island navigation coordinates, west longitude. [Visitor information](https://www.niagarafallsstatepark.com/attractions/), official search excerpts checked 2026-11-26.
+- Location check: 43.081528, -79.06424; [published reference](https://www.niagarafallsstatepark.com/park-information/maps-directions/); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Greater landscape and geological depth |
+| [NA/epupa-falls](../../../countries/NA/sights/epupa-falls.yaml) | More remote natural setting and less developed visitor infrastructure |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | Different water-and-cliff experience with broader fjord setting |
+| [ZA/augrabies-falls](../../../countries/ZA/sights/augrabies-falls.yaml) | Different arid river gorge setting |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.4 | Exceptional waterfall power and close views |
+| uniqueness | 9.0 | Large falls with international analogues |
+| significance | 8.8 | Important landscape and protected park history |
+| experience | 9.2 | Complementary viewpoints and close-up experiences |
+| depth | 8.8 | Multiple paths and visitor activities |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:8.8.
+- Computed worldwide overall: 90.90/100.
+- High-score challenge: 90+ supported by the stated combination of intrinsic qualities and peer comparisons; provisional, not a world-leading anchor. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.
+
+
+### sight-us-space-needle — Space Needle — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/space-needle.yaml)
+- Action: new
+- Precise subject and factual basis: Seattle observation tower, multilevel views and revolving glass floor. GeoNames building coordinate. [Visitor information](https://www.spaceneedle.com/press-faq), official search excerpts checked 2026-11-26.
+- Location check: 47.62051, -122.34928; [published reference](https://www.geonames.org/5811572); representative point, not guaranteed entrance.
+- Evidence status: **source-linked-unverified**; published location and visitor evidence inspected, full independent corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/golden-gate-bridge](../../../countries/US/sights/golden-gate-bridge.yaml) | More internationally iconic engineering scale |
+| [US/statue-of-liberty](../../../countries/US/sights/statue-of-liberty.yaml) | Greater historical symbolism |
+| [AU/sydney-harbour-bridge](../../../countries/AU/sights/sydney-harbour-bridge.yaml) | Different structure and harbor viewing experience |
+| [GB/forth-bridge](../../../countries/GB/sights/forth-bridge.yaml) | Greater railway engineering heritage |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Appealing skyline and mountain views |
+| uniqueness | 8.6 | Distinctive mid-century silhouette and glass-floor experience |
+| significance | 8.4 | Architectural and World's Fair heritage |
+| experience | 8.8 | Observation decks offer rewarding visit |
+| depth | 7.6 | Single tower with limited exploration |
+
+- Applicable categories: architecture:8.9, photography:8.9.
+- Computed worldwide overall: 84.90/100.
+- High-score challenge: Below 90 overall. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial rating; earlier decision: none.
+- Verification still needed: full independent corroboration and current access checks.

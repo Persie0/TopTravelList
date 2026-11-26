@@ -40,9 +40,21 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] US — Alcatraz Island: 88.35/100 (source-linked, full verification pending)
 - [x] US — Golden Gate Bridge: 88.95/100 (source-linked, full verification pending)
 
+- [x] US — Upper Antelope Canyon: 88.75/100 (source-linked, full verification pending)
+- [x] US — Lower Antelope Canyon: 87.40/100 (source-linked, full verification pending)
+- [x] US — Nāpali Coast State Wilderness Park: 91.15/100 (source-linked, full verification pending)
+- [x] US — Waimea Canyon State Park: 88.20/100 (source-linked, full verification pending)
+- [x] US — Big Sur Coast (Highway 1 scenic corridor): 88.05/100 (source-linked, full verification pending)
+- [x] US — Kennedy Space Center Visitor Complex: 93.00/100 (source-linked, full verification pending)
+- [x] US — Empire State Building: 88.75/100 (source-linked, full verification pending)
+- [x] US — National Mall and Memorial Parks: 90.80/100 (source-linked, full verification pending)
+- [x] US — Hoover Dam: 87.30/100 (source-linked, full verification pending)
+- [x] US — Niagara Falls State Park (US side): 90.90/100 (source-linked, full verification pending)
+- [x] US — Space Needle: 84.90/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
-- [ ] US: Upper Antelope Canyon; Nā Pali Coast; Waimea Canyon; Big Sur.
+- [ ] US: Canyon de Chelly National Monument (rim overlooks and guided canyon visits; [NPS FAQ](https://www.nps.gov/cach/faqs.htm)); Antelope Canyon X (distinct guided route; [Navajo Nation tour operators](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)); verify separate scope and coordinates before scoring.
 - [ ] US further park review: Valles Caldera National Preserve (caldera, wildlife and hiking; [NPS published coordinates](https://www.nps.gov/articles/parks-in-space.htm), [hiking](https://www.nps.gov/vall/planyourvisit/hiking.htm); no existing US ranking row); Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
 - [ ] CA: Auyuittuq; Bruce Peninsula; Cape Breton Highlands; Fundy; Mingan Archipelago; Pacific Rim; Sable Island; Thousand Islands; Torngat Mountains; Wapusk; Hopewell Rocks; Churchill wildlife experiences; Bay of Fundy visitor coastline.
 - [ ] CA further park review: Akami-Uapishk–KakKasuak–Mealy Mountains; Aulavik; Elk Island; Forillon; Georgian Bay Islands; Glacier; Grasslands; Gulf Islands; Kejimkujik; Kouchibouguac; La Mauricie; Mount Revelstoke; Nááts'įhch'oh; Point Pelee; Prince Albert; Prince Edward Island; Pukaskwa; Qausuittuq; Riding Mountain; Terra Nova; Thaidene Nëné; Tuktut Nogait; Ukkusiksalik. [Parks Canada](https://www.parks.canada.ca/pn-np).
@@ -57,7 +69,7 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 ## Outstanding cultural and urban coverage
 
 - [ ] All 20 source-supported candidates and wider country queues in [pass 3](missing-sights-audit-pass3-2026-11-26.md).
-- [ ] US: Kennedy Space Center, Empire State Building, National Mall, Hoover Dam, Times Square, Space Needle, Las Vegas Strip, individual Disney/Universal parks, Niagara Falls US side.
+- [ ] US: Times Square, Las Vegas Strip, individual Disney/Universal parks; assess distinct National Mall memorials and Smithsonian museums, and separate Apollo/Saturn V Center only after nested-scope review.
 - [ ] CA: Capilano, Parliament Hill, Toronto Islands, Old Montreal, Notre-Dame Basilica.
 - [ ] EG: Cairo Citadel, Muhammad Ali Mosque, Al-Azhar, Dahab Blue Hole; MA: Jemaa el-Fnaa, Chefchaouen individual attractions; RO: Peleș Castle; RU: Catherine Palace, Saint Isaac's Cathedral; GB: White Cliffs of Dover, Buckingham Palace, Harry Potter Studio Tour; FR: Disneyland Paris, Les Baux castle; DE: Rakotzbrücke; IT: Blue Grotto; PT: Oceanário, National Tile Museum; PS: Church of Nativity; IL/PS: Western Wall (resolve geographic registry convention first).
 - [ ] PA: Casco Viejo exact scope; PR: Old San Juan vs fortifications; MP: Banzai Cliff; IR: Shahdad Kaluts vs Lut Desert; MS: Soufrière Hills visitor scope; PH: Banaue rice terraces alias/component scope.
@@ -70,4 +82,4 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for thirty-two additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for forty-three additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
