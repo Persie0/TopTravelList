@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14798; unassessed: 1471.
+Ranked: 14802; unassessed: 1467.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,7 +13,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1471 |
+| incomplete-core | 1467 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1799 |
 | overall-95-plus | 159 |
@@ -327,7 +327,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MQ | cities | 4 | 4 | 77.70 | 0 | 0 | 0 | 4 | [Saint-Pierre](../../countries/MQ/cities/saint-pierre.yaml) 83.95; [Fort-de-France](../../countries/MQ/cities/fort-de-france.yaml) 79.55; [Le Diamant (bourg)](../../countries/MQ/cities/le-diamant.yaml) 75.85 |
 | MQ | sights | 11 | 11 | 84.20 | 2 | 0 | 0 | 11 | [Mount Pelée (permitted summit trails)](../../countries/MQ/sights/mount-pelee.yaml) 90.15; [Mount Pelée and Pitons of Northern Martinique](../../countries/MQ/sights/martinique-volcanoes.yaml) 90.10; [Caravelle Peninsula Nature Reserve](../../countries/MQ/sights/caravelle-reserve.yaml) 86.10 |
 | MR | cities | 10 | 7 | 82.20 | 0 | 0 | 0 | 10 | [Chinguetti](../../countries/MR/cities/chinguetti.yaml) 85.60; [Oualata](../../countries/MR/cities/oualata.yaml) 83.40; [Ouadane](../../countries/MR/cities/ouadane.yaml) 82.95 |
-| MR | sights | 17 | 10 | 84.65 | 1 | 0 | 2 | 17 | [Banc d’Arguin National Park](../../countries/MR/sights/banc-d-arguin-national-park.yaml) 91.90; [Chinguetti Old Ksar](../../countries/MR/sights/chinguetti-old-ksar.yaml) 88.30; [Richat Structure (Eye of the Sahara)](../../countries/MR/sights/richat-structure.yaml) 86.55 |
+| MR | sights | 17 | 12 | 84.65 | 1 | 0 | 2 | 17 | [Banc d’Arguin National Park](../../countries/MR/sights/banc-d-arguin-national-park.yaml) 91.90; [Chinguetti Old Ksar](../../countries/MR/sights/chinguetti-old-ksar.yaml) 88.30; [Richat Structure (Eye of the Sahara)](../../countries/MR/sights/richat-structure.yaml) 86.55 |
 | MS | cities | 2 | 2 | 73.58 | 0 | 0 | 0 | 2 | [Little Bay](../../countries/MS/cities/little-bay.yaml) 76.00; [Brades](../../countries/MS/cities/brades.yaml) 71.15 |
 | MS | sights | 8 | 8 | 82.55 | 0 | 0 | 0 | 8 | [Montserrat Volcano Observatory and Soufrière Hills viewpoint](../../countries/MS/sights/volcano-observatory.yaml) 89.05; [Plymouth buried town (restricted land site)](../../countries/MS/sights/plymouth-buried-city.yaml) 87.75; [Centre Hills forest trails](../../countries/MS/sights/centre-hills.yaml) 86.15 |
 | MT | cities | 23 | 23 | 76.55 | 1 | 0 | 1 | 23 | [Valletta](../../countries/MT/cities/valletta.yaml) 91.80; [Mdina](../../countries/MT/cities/mdina.yaml) 87.10; [Birgu (Vittoriosa)](../../countries/MT/cities/birgu-vittoriosa.yaml) 85.75 |
@@ -342,7 +342,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | MX | sights | 111 | 82 | 85.68 | 9 | 1 | 5 | 111 | [Teotihuacán](../../countries/MX/sights/teotihuacan.yaml) 95.95; [Chichén Itzá](../../countries/MX/sights/chichen-itza.yaml) 94.30; [Palenque Archaeological City and National Park](../../countries/MX/sights/palenque.yaml) 93.45 |
 | MY | cities | 65 | 65 | 70.25 | 1 | 0 | 1 | 65 | [George Town](../../countries/MY/cities/george-town.yaml) 91.75; [Melaka City](../../countries/MY/cities/melaka-city.yaml) 89.20; [Kuala Lumpur](../../countries/MY/cities/kuala-lumpur.yaml) 87.70 |
 | MY | sights | 213 | 213 | 81.50 | 15 | 1 | 14 | 213 | [Gunung Mulu National Park](../../countries/MY/sights/gunung-mulu-national-park.yaml) 96.65; [Kinabalu Park](../../countries/MY/sights/kinabalu-park.yaml) 94.05; [Sipadan Island Reefs](../../countries/MY/sights/sipadan-island-reefs.yaml) 93.85 |
-| MZ | cities | 7 | 6 | 78.32 | 0 | 0 | 0 | 7 | [Ilha de Moçambique](../../countries/MZ/cities/ilha-de-mocambique.yaml) 89.00; [Maputo](../../countries/MZ/cities/maputo.yaml) 82.50; [Inhambane](../../countries/MZ/cities/inhambane.yaml) 79.50 |
+| MZ | cities | 7 | 7 | 78.80 | 0 | 0 | 0 | 7 | [Ilha de Moçambique](../../countries/MZ/cities/ilha-de-mocambique.yaml) 89.00; [Maputo](../../countries/MZ/cities/maputo.yaml) 82.50; [Inhambane](../../countries/MZ/cities/inhambane.yaml) 79.50 |
 | MZ | sights | 16 | 11 | 87.30 | 4 | 0 | 5 | 16 | [Bazaruto Archipelago National Park](../../countries/MZ/sights/bazaruto-archipelago-national-park.yaml) 93.55; [Gorongosa National Park](../../countries/MZ/sights/gorongosa-national-park.yaml) 92.20; [Island of Mozambique Historic Ensemble](../../countries/MZ/sights/island-of-mozambique-heritage.yaml) 91.65 |
 | NA | cities | 7 | 7 | 78.85 | 0 | 0 | 0 | 7 | [Swakopmund](../../countries/NA/cities/swakopmund.yaml) 84.45; [Lüderitz](../../countries/NA/cities/luderitz.yaml) 83.05; [Windhoek](../../countries/NA/cities/windhoek.yaml) 80.60 |
 | NA | sights | 21 | 17 | 89.65 | 8 | 1 | 10 | 21 | [Sossusvlei Dune Landscape](../../countries/NA/sights/sossusvlei.yaml) 95.40; [Etosha National Park](../../countries/NA/sights/etosha-national-park.yaml) 94.45; [Sandwich Harbour](../../countries/NA/sights/sandwich-harbour.yaml) 92.20 |
@@ -447,7 +447,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SV | cities | 24 | 24 | 73.32 | 0 | 0 | 0 | 24 | [Suchitoto](../../countries/SV/cities/suchitoto.yaml) 82.10; [San Salvador](../../countries/SV/cities/san-salvador.yaml) 81.25; [Santa Ana](../../countries/SV/cities/santa-ana.yaml) 79.80 |
 | SV | sights | 54 | 50 | 79.88 | 0 | 0 | 1 | 54 | [Joya de Cerén Archaeological Site](../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) 89.70; [Santa Ana Volcano (Ilamatepec)](../../countries/SV/sights/santa-ana-volcano-ilamatepec.yaml) 89.60; [Los Volcanes National Park](../../countries/SV/sights/los-volcanes-national-park.yaml) 88.95 |
 | SX | cities | 2 | 2 | 76.85 | 0 | 0 | 0 | 2 | [Philipsburg](../../countries/SX/cities/philipsburg.yaml) 79.25; [Simpson Bay (village)](../../countries/SX/cities/simpson-bay.yaml) 74.45 |
-| SX | sights | 10 | 9 | 80.25 | 0 | 0 | 0 | 10 | [Man of War Shoal Marine Park (registered dive sites)](../../countries/SX/sights/man-of-war-shoal.yaml) 84.45; [Rockland Estate (Rainforest Adventures)](../../countries/SX/sights/rockland-estate.yaml) 82.30; [Fort Amsterdam](../../countries/SX/sights/fort-amsterdam.yaml) 81.65 |
+| SX | sights | 10 | 10 | 80.05 | 0 | 0 | 0 | 10 | [Man of War Shoal Marine Park (registered dive sites)](../../countries/SX/sights/man-of-war-shoal.yaml) 84.45; [Rockland Estate (Rainforest Adventures)](../../countries/SX/sights/rockland-estate.yaml) 82.30; [Fort Amsterdam](../../countries/SX/sights/fort-amsterdam.yaml) 81.65 |
 | SY | cities | 10 | 7 | 80.80 | 0 | 0 | 0 | 10 | [Damascus](../../countries/SY/cities/damascus.yaml) 89.60; [Aleppo](../../countries/SY/cities/aleppo.yaml) 86.10; [Maaloula](../../countries/SY/cities/maaloula.yaml) 83.35 |
 | SY | sights | 31 | 20 | 87.15 | 3 | 0 | 0 | 31 | [Umayyad Mosque, Damascus](../../countries/SY/sights/umayyad-mosque.yaml) 90.75; [Ancient City of Damascus](../../countries/SY/sights/ancient-damascus.yaml) 90.70; [Krak des Chevaliers](../../countries/SY/sights/krak-des-chevaliers.yaml) 90.65 |
 | SZ | cities | 15 | 15 | 68.10 | 0 | 0 | 0 | 15 | [Lobamba](../../countries/SZ/cities/lobamba.yaml) 77.25; [Bulembu](../../countries/SZ/cities/bulembu.yaml) 75.30; [Mbabane](../../countries/SZ/cities/mbabane.yaml) 74.35 |

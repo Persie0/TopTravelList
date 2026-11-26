@@ -2,7 +2,7 @@
 
 # Sint Maarten (Dutch part) (SX) — Sights & attractions ranking
 
-**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (9)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -20,17 +20,10 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 4 | [Maho Beach (lawful aircraft observation)](sights/maho-beach.yaml) | Beach / bay | **81.45** | **Photography 9.1**, **Beaches 7.6** | 8.5 / 9.2 / 6.9 / 8.3 / 6.7 | [18.039, -63.121](https://www.google.com/maps/search/?api=1&query=18.039,-63.121) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maho%20Beach%20%28lawful%20aircraft%20observation%29%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
 | 5 | [Mullet Bay Beach](sights/mullet-bay.yaml) | Beach / bay | **80.25** | **Beaches 8.9**, **Photography 8.8**, **Relaxation 8.7** | 8.7 / 8.0 / 7.0 / 8.5 / 7.4 | [18.047, -63.13](https://www.google.com/maps/search/?api=1&query=18.047,-63.13) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mullet%20Bay%20Beach%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
 | 6 | [Cupecoy Beach](sights/cupecoy-beach.yaml) | Beach / bay | **79.85** | **Photography 8.9**, **Beaches 8.8** | 8.6 / 8.3 / 7.0 / 8.2 / 7.0 | [18.051, -63.137](https://www.google.com/maps/search/?api=1&query=18.051,-63.137) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cupecoy%20Beach%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
-| 7 | [Little Bay Beach](sights/little-bay.yaml) | Beach / bay | **79.10** | **Beaches 8.6**, **Relaxation 8.5**, **Nature 8.2** | 8.3 / 7.9 / 7.1 / 8.5 / 7.5 | [18.016, -63.061](https://www.google.com/maps/search/?api=1&query=18.016,-63.061) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Little%20Bay%20Beach%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
-| 8 | [Great Bay Beach](sights/great-bay-beach.yaml) | Beach / bay | **76.90** | **Beaches 8.4**, **Relaxation 8.3** | 8.0 / 7.5 / 6.8 / 8.5 / 7.8 | [18.023, -63.046](https://www.google.com/maps/search/?api=1&query=18.023,-63.046) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Bay%20Beach%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
-| 9 | [Sint Maarten Heritage Museum](sights/heritage-museum.yaml) | Museum / heritage | **76.55** | **History 8.6**, **Culture 8.3** | 7.2 / 7.9 / 8.1 / 7.8 / 7.3 | [18.024, -63.042](https://www.google.com/maps/search/?api=1&query=18.024,-63.042) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sint%20Maarten%20Heritage%20Museum%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Mullet Pond Ramsar wetland](sights/mullet-pond.yaml) | Wetland | **—** | **Nature 8.7**, **Wildlife 8.7** | 7.6 / 8.2 / 8.8 / — / — | [18.049, -63.123](https://www.google.com/maps/search/?api=1&query=18.049,-63.123) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mullet%20Pond%20Ramsar%20wetland%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
+| 6 | [Mullet Pond Ramsar wetland](sights/mullet-pond.yaml) | Wetland | **79.85** | **Nature 8.7**, **Wildlife 8.7** | 7.6 / 8.2 / 8.8 / 7.9 / 7.1 | [18.049, -63.123](https://www.google.com/maps/search/?api=1&query=18.049,-63.123) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mullet%20Pond%20Ramsar%20wetland%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
+| 8 | [Little Bay Beach](sights/little-bay.yaml) | Beach / bay | **79.10** | **Beaches 8.6**, **Relaxation 8.5**, **Nature 8.2** | 8.3 / 7.9 / 7.1 / 8.5 / 7.5 | [18.016, -63.061](https://www.google.com/maps/search/?api=1&query=18.016,-63.061) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Little%20Bay%20Beach%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
+| 9 | [Great Bay Beach](sights/great-bay-beach.yaml) | Beach / bay | **76.90** | **Beaches 8.4**, **Relaxation 8.3** | 8.0 / 7.5 / 6.8 / 8.5 / 7.8 | [18.023, -63.046](https://www.google.com/maps/search/?api=1&query=18.023,-63.046) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Bay%20Beach%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
+| 10 | [Sint Maarten Heritage Museum](sights/heritage-museum.yaml) | Museum / heritage | **76.55** | **History 8.6**, **Culture 8.3** | 7.2 / 7.9 / 8.1 / 7.8 / 7.3 | [18.024, -63.042](https://www.google.com/maps/search/?api=1&query=18.024,-63.042) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sint%20Maarten%20Heritage%20Museum%2C%20Sint%20Maarten%20%28Dutch%20part%29) |
 
 ---
 
