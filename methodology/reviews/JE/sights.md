@@ -185,6 +185,15 @@ Core I/U/S/E/D, subject minus peer. Numerical profiles verified during the prece
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; subject minus peer: I +0.9, U +0.5, S +0.3, E +0.8, D +1.2.
 - [Bermuda Aquarium, Museum and Zoo (BM)](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — 8.0/8.3/8.4/8.6/8.4; subject minus peer: I +0.4, U +0.5, S +0.5, E +0.2, D +0.3.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Current branch YAML core profiles, I/U/S/E/D. These closer peers supplement the historical comparisons; no score changes or independent factual verification implied.
+
+- [singapore zoo (SG)](../../../countries/SG/sights/singapore-zoo.yaml) — 9.0/8.9/8.1/9.2/9.2; Much larger managed animal collection and visitor activity range, not proof of conservation outcomes.
+- [belize zoo and tropical education center (BZ)](../../../countries/BZ/sights/belize-zoo-and-tropical-education-center.yaml) — 7.9/8.1/8.1/8.5/8.0; Closer conservation-oriented zoo and native fauna interpretation.
+- [prague zoo (CZ)](../../../countries/CZ/sights/prague-zoo.yaml) — 8.5/8.4/7.5/9.0/9.0; Much broader managed collection and developed visitor landscape.
+- [lok kawi wildlife park (MY)](../../../countries/MY/sights/lok-kawi-wildlife-park.yaml) — 7.6/7.6/6.8/8.1/7.8; Smaller managed wildlife collection and regional interpretation.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -225,6 +234,15 @@ Core I/U/S/E/D, subject minus peer. Numerical profiles verified during the prece
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; subject minus peer: I +0.6, U +0.2, S +0.1, E +0.6, D +1.0.
 - [Bermuda Aquarium, Museum and Zoo (BM)](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — 8.0/8.3/8.4/8.6/8.4; subject minus peer: I +0.1, U +0.2, S +0.3, E +0.0, D +0.1.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Current branch YAML core profiles, I/U/S/E/D. These closer peers supplement the historical comparisons; no score changes or independent factual verification implied.
+
+- [seaplane harbour (EE)](../../../countries/EE/sights/seaplane-harbour.yaml) — 8.7/8.9/8.4/9.0/8.6; Much greater collection and monumental maritime museum setting.
+- [maritime museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; Closest island maritime history museum with distinct seafaring context.
+- [galle national maritime museum (LK)](../../../countries/LK/sights/galle-national-maritime-museum.yaml) — 7.5/7.9/8.1/7.9/7.5; Comparable regional marine and maritime collections, different archaeological setting.
+- [maritime museum kotor (ME)](../../../countries/ME/sights/maritime-museum-kotor.yaml) — 7.9/8.2/8.3/8.3/7.8; Comparable historic seafaring collection in a compact building.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -264,6 +282,15 @@ Core I/U/S/E/D, subject minus peer. Numerical profiles verified during the prece
 - [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; subject minus peer: I +0.2, U +0.2, S +0.8, E +0.5, D +0.9.
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; subject minus peer: I +0.5, U -0.1, S +0.0, E +0.6, D +1.1.
 - [Bermuda Aquarium, Museum and Zoo (BM)](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — 8.0/8.3/8.4/8.6/8.4; subject minus peer: I +0.0, U -0.1, S +0.2, E +0.0, D +0.2.
+
+#### Targeted same-type comparison (2026-11-26)
+
+Current branch YAML core profiles, I/U/S/E/D. These closer peers supplement the historical comparisons; no score changes or independent factual verification implied.
+
+- [museum st helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; Closer island-history museum with smaller collection scope.
+- [national museum (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; Greater fort precinct and maritime historical breadth.
+- [pitcairn museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; Smaller remote island collection with distinctive settlement history.
+- [historic dockyard museum (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; Comparable island heritage interpretation with a larger maritime precinct.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
