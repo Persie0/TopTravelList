@@ -156,6 +156,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; subject minus peer: I +0.8, U +0.3, S +0.1, E +0.8, D +1.1.
 - [Bermuda Aquarium, Museum and Zoo (BM)](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — 8.0/8.3/8.4/8.6/8.4; subject minus peer: I +0.3, U +0.3, S +0.3, E +0.2, D +0.2.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current branch YAML; editorial comparison only.
+
+- [JE/maritime-museum](../../../countries/JE/sights/maritime-museum.yaml) — 8.1/8.5/8.7/8.6/8.5: Comparable maritime interpretation.
+- [AX/maritime-museum](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4: More specialized shipping heritage collection.
+- [FK/historic-dockyard-museum](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6: Regional maritime heritage and settlement history.
+- [EE/seaplane-harbour](../../../countries/EE/sights/seaplane-harbour.yaml) — 8.7/8.9/8.4/9.0/8.6: Larger maritime exhibition and vessel collection.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -196,6 +205,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; subject minus peer: I +0.7, U +0.2, S +0.2, E +0.7, D +1.2.
 - [Bermuda Aquarium, Museum and Zoo (BM)](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — 8.0/8.3/8.4/8.6/8.4; subject minus peer: I +0.2, U +0.2, S +0.4, E +0.1, D +0.3.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current branch YAML; editorial comparison only.
+
+- [JE/jersey-museum](../../../countries/JE/sights/jersey-museum.yaml) — 8.0/8.2/8.6/8.6/8.6: Comparable island-wide history museum.
+- [BM/national-museum](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8: More extensive maritime and military heritage campus.
+- [SH/museum-st-helena](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5: Smaller island history institution.
+- [FK/historic-dockyard-museum](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6: Comparable regional social and maritime history.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -235,6 +253,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Château de Vaux-le-Vicomte (FR)](../../../countries/FR/sights/vaux-le-vicomte.yaml) — 9.2/9.1/9.1/9.0/9.1; subject minus peer: I -0.7, U -0.4, S -0.4, E -0.4, D -0.6.
 - [Plantation House and tortoise grounds (SH)](../../../countries/SH/sights/plantation-house.yaml) — 8.0/8.8/8.6/8.1/7.4; subject minus peer: I +0.5, U -0.1, S +0.1, E +0.5, D +1.1.
 - [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; subject minus peer: I +0.7, U +0.7, S +0.9, E +0.5, D +0.8.
+
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current branch YAML; editorial comparison only.
+
+- [JE/hamptonne](../../../countries/JE/sights/hamptonne.yaml) — 8.0/8.3/8.4/8.5/8.3: Comparable preserved rural buildings and farm life.
+- [AX/jan-karlsgarden](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7: Comparable regional open-air folk museum.
+- [EE/estonian-open-air-museum](../../../countries/EE/sights/estonian-open-air-museum.yaml) — 8.2/8.4/8.4/8.7/8.7: Much larger vernacular architectural collection.
+- [MY/sarawak-cultural-village](../../../countries/MY/sights/sarawak-cultural-village.yaml) — 8.4/8.7/8.2/8.8/8.4: Broader living-history interpretation of regional communities.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -355,6 +382,15 @@ Core I/U/S/E/D, subject minus peer. Profiles from preceding audited branch snaps
 - [Hampton Court Palace and Gardens (GB)](../../../countries/GB/sights/hampton-court.yaml) — 9.1/9.0/9.2/9.1/9.0; subject minus peer: I -1.3, U -0.4, S -0.6, E -1.0, D -1.1.
 - [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; subject minus peer: I +0.0, U +0.1, S -0.1, E -0.3, D -0.1.
 - [Musée Héritage (PM)](../../../countries/PM/sights/musee-heritage.yaml) — 7.9/8.5/8.5/8.4/8.2; subject minus peer: I -0.1, U +0.1, S +0.1, E -0.3, D -0.3.
+
+#### Targeted same-type comparison (2026-11-26)
+
+Core I/U/S/E/D from current branch YAML; editorial comparison only.
+
+- [JE/maritime-museum](../../../countries/JE/sights/maritime-museum.yaml) — 8.1/8.5/8.7/8.6/8.5: Broader maritime history and interpretation.
+- [AX/maritime-museum](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4: More substantial shipping collection.
+- [FK/historic-dockyard-museum](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6: Broader regional dockyard heritage.
+- [EE/seaplane-harbour](../../../countries/EE/sights/seaplane-harbour.yaml) — 8.7/8.9/8.4/9.0/8.6: Substantially larger maritime technology museum.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
