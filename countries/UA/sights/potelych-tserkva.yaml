@@ -6,10 +6,10 @@ location:
   longitude: 23.550833
 scores:
   impact: 8.4
-  uniqueness: 9.0
-  significance: 9.1
-  experience: null
-  depth: null
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.0
+  depth: 7.3
   categories:
-    architecture: 9.3
+    architecture: 9.2
     history: 9.2
