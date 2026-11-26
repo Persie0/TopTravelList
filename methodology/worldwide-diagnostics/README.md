@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15028; unassessed: 1241.
+Ranked: 15039; unassessed: 1230.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,11 +9,11 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 503 |
+| conflicting-declared-status | 514 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1241 |
+| incomplete-core | 1230 |
 | no-recognized-review-heading | 65 |
 | overall-90-plus | 1814 |
 | overall-95-plus | 159 |
@@ -381,7 +381,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PH | cities | 15 | 15 | 76.40 | 0 | 0 | 0 | 15 | [Vigan](../../countries/PH/cities/vigan.yaml) 86.00; [Manila](../../countries/PH/cities/manila.yaml) 84.15; [Cebu City](../../countries/PH/cities/cebu-city.yaml) 80.25 |
 | PH | sights | 50 | 36 | 86.40 | 3 | 0 | 0 | 50 | [Rice Terraces of the Philippine Cordilleras](../../countries/PH/sights/cordillera-rice-terraces.yaml) 92.15; [Tubbataha Reefs Natural Park](../../countries/PH/sights/tubbataha.yaml) 92.15; [El Nido-Taytay Managed Resource Protected Area](../../countries/PH/sights/el-nido-taytay.yaml) 91.45 |
 | PK | cities | 14 | 14 | 76.75 | 1 | 0 | 0 | 14 | [Lahore](../../countries/PK/cities/lahore.yaml) 90.15; [Peshawar](../../countries/PK/cities/peshawar.yaml) 84.20; [Multan](../../countries/PK/cities/multan.yaml) 83.50 |
-| PK | sights | 58 | 39 | 84.65 | 3 | 0 | 0 | 58 | [Central Karakoram National Park](../../countries/PK/sights/central-karakoram.yaml) 92.20; [K2 Base Camp and Baltoro Trek](../../countries/PK/sights/k2-base-camp.yaml) 92.10; [Fort and Shalamar Gardens in Lahore](../../countries/PK/sights/lahore-fort-and-shalamar.yaml) 90.70 |
+| PK | sights | 58 | 50 | 84.45 | 3 | 0 | 0 | 58 | [Central Karakoram National Park](../../countries/PK/sights/central-karakoram.yaml) 92.20; [K2 Base Camp and Baltoro Trek](../../countries/PK/sights/k2-base-camp.yaml) 92.10; [Fort and Shalamar Gardens in Lahore](../../countries/PK/sights/lahore-fort-and-shalamar.yaml) 90.70 |
 | PL | cities | 22 | 22 | 84.00 | 3 | 0 | 1 | 22 | [Kraków](../../countries/PL/cities/krakow.yaml) 92.65; [Gdańsk](../../countries/PL/cities/gdansk.yaml) 91.50; [Warsaw](../../countries/PL/cities/warsaw.yaml) 90.95 |
 | PL | sights | 76 | 75 | 88.00 | 16 | 1 | 10 | 76 | [Auschwitz-Birkenau Memorial and Museum](../../countries/PL/sights/auschwitz-birkenau.yaml) 95.75; [Historic Centre of Kraków](../../countries/PL/sights/krakow-historic-centre.yaml) 93.60; [Castle of the Teutonic Order in Malbork](../../countries/PL/sights/malbork-castle.yaml) 93.40 |
 | PM | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Saint-Pierre (Saint Pierre and Miquelon)](../../countries/PM/cities/saint-pierre.yaml) 84.10; [Miquelon village](../../countries/PM/cities/miquelon.yaml) 78.85 |
