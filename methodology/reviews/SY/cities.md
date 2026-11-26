@@ -337,3 +337,5 @@
 - [Raqqa](../../../countries/SY/cities/raqqa.yaml): [UNESCO Raqqa-Rafiqa nomination](https://whc.unesco.org/en/tentativelists/1302/) supports historical identity, not ordinary current city access; retain unranked.
 
 No numerical city changes made. These links support specific historical or visitor claims, not full factual verification; original GPS points and broader visitor circuits remain provisional.
+
+- [Dated worldwide reassessment pass 53 — 2026-11-26](worldwide-deferred-pass53-2026-11-26.md)
