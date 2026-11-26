@@ -23,6 +23,15 @@
 - Kampot (Cambodia): comparable waterfront town; more varied leisure
 - Koh Ker Village (Cambodia): stronger archaeological setting, less civic breadth
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [vienna (AT)](../../../countries/AT/cities/vienna.yaml) — 9.2/9.0/9.5/9.2/9.4; Much greater civic architecture and museum breadth.
+- [bangkok (TH)](../../../countries/TH/cities/bangkok.yaml) — 9.1/9.0/9.0/9.5/9.8; Far greater culinary and urban exploration.
+- [apia (WS)](../../../countries/WS/cities/apia.yaml) — 7.4/8.0/8.0/8.1/7.8; Close Pacific capital with stronger documented cultural institutions.
+- [port vila (VU)](../../../countries/VU/cities/port-vila.yaml) — 7.4/7.7/7.7/8.0/7.6; Comparable harbor capital with broader urban visitor activities.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -58,6 +67,15 @@
 - Bangkok (Thailand): vastly greater urban diversity
 - Kampot (Cambodia): similar waterfront leisure, greater streetscape breadth
 - Koh Ker Village (Cambodia): greater archaeological significance
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Greater heritage streets and waterfront leisure.
+- [rach gia (VN)](../../../countries/VN/cities/rach-gia.yaml) — 7.2/7.5/7.3/7.8/7.9; Broader coastal commercial urban visitor experience.
+- [port vila (VU)](../../../countries/VU/cities/port-vila.yaml) — 7.4/7.7/7.7/8.0/7.6; Larger harbor town with stronger civic role.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Comparable modest waterfront settlement, excludes offshore Neiafu excursions.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -95,6 +113,15 @@
 - Kampot (Cambodia): greater ordinary town leisure
 - Koh Ker Village (Cambodia): comparable historic royal setting, different archaeology
 
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [luang prabang (LA)](../../../countries/LA/cities/luang-prabang.yaml) — 9.2/9.4/9.3/9.2/9.0; Far richer historic living royal townscape.
+- [koh ker village (KH)](../../../countries/KH/cities/koh-ker-village.yaml) — 7.2/8.0/8.3/7.8/6.9; Close separately scoped historic settlement, different archaeological context.
+- [luganville (VU)](../../../countries/VU/cities/luganville.yaml) — 6.4/7.1/7.2/7.2/6.6; Comparable Pacific town heritage and established public activities.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Ordinary island commercial center, less distinctive historic role.
+
 ### Scoring decisions
 | Field | New rating | Individual justification |
 | --- | ---: | --- |
@@ -130,6 +157,15 @@
 - Bangkok (Thailand): broader urban experience
 - Kampot (Cambodia): more varied waterfront and dining
 - Koh Ker Village (Cambodia): greater archaeological context
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; Close regional island commercial center.
+- [lenakel (VU)](../../../countries/VU/cities/lenakel.yaml) — 6.6/7.1/6.7/7.3/6.5; Comparable administrative and market settlement with more documented activities.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Similar modest waterfront visitor scale.
+- [kampot (KH)](../../../countries/KH/cities/kampot.yaml) — 7.6/7.9/7.5/8.3/7.9; Greater established town exploration and historic streets.
 
 ### Scoring decisions
 | Field | New rating | Individual justification |
@@ -168,6 +204,15 @@
 
 - [Rach Gia](../../../countries/VN/cities/rach-gia.yaml) (Vietnam), 7.2/7.5/7.3/7.8/7.9: broader waterfront and urban experiences.
 - [Kuala Perlis](../../../countries/MY/cities/kuala-perlis.yaml) (Malaysia), 6.5/6.8/6.5/7.2/6.7: similarly modest coastal setting, but more established food and waterfront experiences.
+
+#### Current YAML benchmark calibration (2026-11-26)
+
+Core values I/U/S/E/D; editorial comparisons, not independent factual verification.
+
+- [yaren (NR)](../../../countries/NR/cities/yaren.yaml) — 5.7/7.4/7.1/5.7/4.9; Compact civic settlement with limited visitor depth.
+- [salelologa (WS)](../../../countries/WS/cities/salelologa.yaml) — 6.2/6.8/6.4/7.0/6.4; More documented island commercial activities.
+- [lenakel (VU)](../../../countries/VU/cities/lenakel.yaml) — 6.6/7.1/6.7/7.3/6.5; More established settlement-level market and food experiences.
+- [kuala perlis (MY)](../../../countries/MY/cities/kuala-perlis.yaml) — 6.5/6.8/6.5/7.2/6.7; Comparable modest coastal setting, greater visitor breadth.
 
 ### Scoring decisions
 | Field | Before | New rating | Individual justification |
