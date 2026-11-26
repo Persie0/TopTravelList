@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15205; unassessed: 1064.
+Ranked: 15214; unassessed: 1055.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 677 |
+| conflicting-declared-status | 686 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2116 |
 | historical-review-only | 2516 |
-| incomplete-core | 1064 |
+| incomplete-core | 1055 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1846 |
+| overall-90-plus | 1847 |
 | overall-95-plus | 163 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -63,7 +63,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BB | cities | 10 | 10 | 75.50 | 0 | 0 | 0 | 10 | [Bridgetown](../../countries/BB/cities/bridgetown.yaml) 81.80; [Speightstown](../../countries/BB/cities/speightstown.yaml) 80.15; [Bathsheba](../../countries/BB/cities/bathsheba.yaml) 78.50 |
 | BB | sights | 35 | 33 | 80.25 | 0 | 0 | 0 | 35 | [Historic Bridgetown and its Garrison](../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) 88.75; [Scotland District of Barbados](../../countries/BB/sights/scotland-district-of-barbados.yaml) 86.15; [Harrison's Cave](../../countries/BB/sights/harrison-s-cave.yaml) 85.25 |
 | BD | cities | 15 | 15 | 75.10 | 0 | 0 | 0 | 15 | [Dhaka](../../countries/BD/cities/dhaka.yaml) 83.50; [Rangamati](../../countries/BD/cities/rangamati.yaml) 78.65; [Chattogram](../../countries/BD/cities/chattogram.yaml) 76.90 |
-| BD | sights | 42 | 39 | 83.00 | 1 | 0 | 3 | 42 | [The Sundarbans (Bangladesh World Heritage Property)](../../countries/BD/sights/the-sundarbans-bangladesh-world-heritage-property.yaml) 92.35; [Historic Mosque City of Bagerhat](../../countries/BD/sights/historic-mosque-city-of-bagerhat.yaml) 89.05; [Ruins of the Buddhist Vihara at Paharpur](../../countries/BD/sights/ruins-of-the-buddhist-vihara-at-paharpur.yaml) 88.45 |
+| BD | sights | 42 | 41 | 83.00 | 1 | 0 | 3 | 42 | [The Sundarbans (Bangladesh World Heritage Property)](../../countries/BD/sights/the-sundarbans-bangladesh-world-heritage-property.yaml) 92.35; [Historic Mosque City of Bagerhat](../../countries/BD/sights/historic-mosque-city-of-bagerhat.yaml) 89.05; [Ruins of the Buddhist Vihara at Paharpur](../../countries/BD/sights/ruins-of-the-buddhist-vihara-at-paharpur.yaml) 88.45 |
 | BE | cities | 18 | 18 | 84.10 | 3 | 0 | 1 | 18 | [Bruges (Brugge)](../../countries/BE/cities/bruges.yaml) 92.50; [Ghent (Gent)](../../countries/BE/cities/ghent.yaml) 91.45; [Brussels](../../countries/BE/cities/brussels.yaml) 90.10 |
 | BE | sights | 64 | 61 | 86.95 | 5 | 0 | 3 | 64 | [Historic Centre of Bruges](../../countries/BE/sights/historic-bruges.yaml) 93.45; [Medieval Ghent and abbey heritage (tentative)](../../countries/BE/sights/ghent-historic-core.yaml) 91.20; [Grand-Place, Brussels](../../countries/BE/sights/grand-place.yaml) 90.90 |
 | BF | cities | 9 | 4 | 74.90 | 0 | 0 | 0 | 9 | [Bobo-Dioulasso](../../countries/BF/cities/bobo-dioulasso.yaml) 81.55; [Ouagadougou](../../countries/BF/cities/ouagadougou.yaml) 76.30; [Gaoua](../../countries/BF/cities/gaoua.yaml) 73.50 |
@@ -91,7 +91,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BS | cities | 12 | 12 | 71.35 | 0 | 0 | 0 | 12 | [Nassau](../../countries/BS/cities/nassau.yaml) 83.15; [Hope Town](../../countries/BS/cities/hope-town.yaml) 80.00; [Dunmore Town](../../countries/BS/cities/dunmore-town.yaml) 79.70 |
 | BS | sights | 34 | 24 | 81.60 | 1 | 0 | 0 | 34 | [Exuma Cays Land and Sea Park](../../countries/BS/sights/exuma-cays-land-and-sea-park.yaml) 91.90; [Inagua National Park](../../countries/BS/sights/inagua-national-park.yaml) 89.65; [Dean's Blue Hole](../../countries/BS/sights/deans-blue-hole.yaml) 88.40 |
 | BT | cities | 33 | 33 | 77.85 | 0 | 0 | 0 | 33 | [Thimphu](../../countries/BT/cities/thimphu.yaml) 87.45; [Jakar](../../countries/BT/cities/jakar.yaml) 85.30; [Trongsa](../../countries/BT/cities/trongsa.yaml) 85.00 |
-| BT | sights | 89 | 85 | 85.05 | 12 | 0 | 9 | 89 | [Paro Taktsang (Tiger's Nest)](../../countries/BT/sights/paro-taktsang-tigers-nest.yaml) 94.85; [Jigme Dorji National Park](../../countries/BT/sights/jigme-dorji-national-park.yaml) 94.05; [Snowman Trek](../../countries/BT/sights/snowman-trek.yaml) 94.00 |
+| BT | sights | 89 | 86 | 85.08 | 13 | 0 | 9 | 89 | [Paro Taktsang (Tiger's Nest)](../../countries/BT/sights/paro-taktsang-tigers-nest.yaml) 94.85; [Jigme Dorji National Park](../../countries/BT/sights/jigme-dorji-national-park.yaml) 94.05; [Snowman Trek](../../countries/BT/sights/snowman-trek.yaml) 94.00 |
 | BV | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | BV | sights | 1 | 0 |  | 0 | 0 | 0 | 1 |  |
 | BW | cities | 22 | 22 | 68.12 | 0 | 0 | 0 | 22 | [Kasane](../../countries/BW/cities/kasane.yaml) 75.20; [Maun](../../countries/BW/cities/maun.yaml) 74.05; [Serowe](../../countries/BW/cities/serowe.yaml) 73.60 |
@@ -379,9 +379,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | PG | cities | 7 | 7 | 73.75 | 0 | 0 | 0 | 7 | [Rabaul](../../countries/PG/cities/rabaul.yaml) 79.00; [Port Moresby](../../countries/PG/cities/port-moresby.yaml) 75.25; [Goroka](../../countries/PG/cities/goroka.yaml) 74.60 |
 | PG | sights | 19 | 13 | 85.70 | 2 | 0 | 1 | 19 | [Kimbe Bay Reefs](../../countries/PG/sights/kimbe-bay.yaml) 92.85; [Tufi Fjords (Cape Nelson)](../../countries/PG/sights/tufi-fjords.yaml) 90.45; [Upper Sepik River Basin](../../countries/PG/sights/upper-sepik-river-basin.yaml) 89.60 |
 | PH | cities | 15 | 15 | 76.40 | 0 | 0 | 0 | 15 | [Vigan](../../countries/PH/cities/vigan.yaml) 86.00; [Manila](../../countries/PH/cities/manila.yaml) 84.15; [Cebu City](../../countries/PH/cities/cebu-city.yaml) 80.25 |
-| PH | sights | 50 | 47 | 86.35 | 3 | 0 | 0 | 50 | [Rice Terraces of the Philippine Cordilleras](../../countries/PH/sights/cordillera-rice-terraces.yaml) 92.15; [Tubbataha Reefs Natural Park](../../countries/PH/sights/tubbataha.yaml) 92.15; [El Nido-Taytay Managed Resource Protected Area](../../countries/PH/sights/el-nido-taytay.yaml) 91.45 |
+| PH | sights | 50 | 49 | 86.45 | 3 | 0 | 0 | 50 | [Rice Terraces of the Philippine Cordilleras](../../countries/PH/sights/cordillera-rice-terraces.yaml) 92.15; [Tubbataha Reefs Natural Park](../../countries/PH/sights/tubbataha.yaml) 92.15; [El Nido-Taytay Managed Resource Protected Area](../../countries/PH/sights/el-nido-taytay.yaml) 91.45 |
 | PK | cities | 14 | 14 | 76.75 | 1 | 0 | 0 | 14 | [Lahore](../../countries/PK/cities/lahore.yaml) 90.15; [Peshawar](../../countries/PK/cities/peshawar.yaml) 84.20; [Multan](../../countries/PK/cities/multan.yaml) 83.50 |
-| PK | sights | 58 | 50 | 84.45 | 3 | 0 | 0 | 58 | [Central Karakoram National Park](../../countries/PK/sights/central-karakoram.yaml) 92.20; [K2 Base Camp and Baltoro Trek](../../countries/PK/sights/k2-base-camp.yaml) 92.10; [Fort and Shalamar Gardens in Lahore](../../countries/PK/sights/lahore-fort-and-shalamar.yaml) 90.70 |
+| PK | sights | 58 | 54 | 84.10 | 3 | 0 | 0 | 58 | [Central Karakoram National Park](../../countries/PK/sights/central-karakoram.yaml) 92.20; [K2 Base Camp and Baltoro Trek](../../countries/PK/sights/k2-base-camp.yaml) 92.10; [Fort and Shalamar Gardens in Lahore](../../countries/PK/sights/lahore-fort-and-shalamar.yaml) 90.70 |
 | PL | cities | 22 | 22 | 84.00 | 3 | 0 | 1 | 22 | [Kraków](../../countries/PL/cities/krakow.yaml) 92.65; [Gdańsk](../../countries/PL/cities/gdansk.yaml) 91.50; [Warsaw](../../countries/PL/cities/warsaw.yaml) 90.95 |
 | PL | sights | 76 | 75 | 88.00 | 16 | 1 | 10 | 76 | [Auschwitz-Birkenau Memorial and Museum](../../countries/PL/sights/auschwitz-birkenau.yaml) 95.75; [Historic Centre of Kraków](../../countries/PL/sights/krakow-historic-centre.yaml) 93.60; [Castle of the Teutonic Order in Malbork](../../countries/PL/sights/malbork-castle.yaml) 93.40 |
 | PM | cities | 2 | 2 | 81.48 | 0 | 0 | 0 | 2 | [Saint-Pierre (Saint Pierre and Miquelon)](../../countries/PM/cities/saint-pierre.yaml) 84.10; [Miquelon village](../../countries/PM/cities/miquelon.yaml) 78.85 |
