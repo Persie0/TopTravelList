@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14749; unassessed: 1520.
+Ranked: 14751; unassessed: 1518.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 390 |
+| conflicting-declared-status | 392 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1520 |
+| incomplete-core | 1518 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1793 |
+| overall-90-plus | 1794 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 48 |
 | shared-representative-gps | 242 |
@@ -449,7 +449,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SX | cities | 2 | 2 | 76.85 | 0 | 0 | 0 | 2 | [Philipsburg](../../countries/SX/cities/philipsburg.yaml) 79.25; [Simpson Bay (village)](../../countries/SX/cities/simpson-bay.yaml) 74.45 |
 | SX | sights | 10 | 9 | 80.25 | 0 | 0 | 0 | 10 | [Man of War Shoal Marine Park (registered dive sites)](../../countries/SX/sights/man-of-war-shoal.yaml) 84.45; [Rockland Estate (Rainforest Adventures)](../../countries/SX/sights/rockland-estate.yaml) 82.30; [Fort Amsterdam](../../countries/SX/sights/fort-amsterdam.yaml) 81.65 |
 | SY | cities | 10 | 7 | 80.80 | 0 | 0 | 0 | 10 | [Damascus](../../countries/SY/cities/damascus.yaml) 89.60; [Aleppo](../../countries/SY/cities/aleppo.yaml) 86.10; [Maaloula](../../countries/SY/cities/maaloula.yaml) 83.35 |
-| SY | sights | 31 | 19 | 87.30 | 3 | 0 | 0 | 31 | [Umayyad Mosque, Damascus](../../countries/SY/sights/umayyad-mosque.yaml) 90.75; [Ancient City of Damascus](../../countries/SY/sights/ancient-damascus.yaml) 90.70; [Krak des Chevaliers](../../countries/SY/sights/krak-des-chevaliers.yaml) 90.65 |
+| SY | sights | 31 | 20 | 87.15 | 3 | 0 | 0 | 31 | [Umayyad Mosque, Damascus](../../countries/SY/sights/umayyad-mosque.yaml) 90.75; [Ancient City of Damascus](../../countries/SY/sights/ancient-damascus.yaml) 90.70; [Krak des Chevaliers](../../countries/SY/sights/krak-des-chevaliers.yaml) 90.65 |
 | SZ | cities | 15 | 15 | 68.10 | 0 | 0 | 0 | 15 | [Lobamba](../../countries/SZ/cities/lobamba.yaml) 77.25; [Bulembu](../../countries/SZ/cities/bulembu.yaml) 75.30; [Mbabane](../../countries/SZ/cities/mbabane.yaml) 74.35 |
 | SZ | sights | 30 | 29 | 78.30 | 0 | 0 | 1 | 30 | [Mkhaya Game Reserve](../../countries/SZ/sights/mkhaya-game-reserve.yaml) 87.15; [Malolotja Nature Reserve](../../countries/SZ/sights/malolotja-nature-reserve.yaml) 86.90; [Ngwenya Mines and Lion Cavern](../../countries/SZ/sights/ngwenya-mines-and-lion-cavern.yaml) 86.50 |
 | TC | cities | 3 | 3 | 77.30 | 0 | 0 | 0 | 3 | [Cockburn Town (Grand Turk)](../../countries/TC/cities/cockburn-town.yaml) 80.40; [Balfour Town (Salt Cay)](../../countries/TC/cities/balfour-town.yaml) 77.30; [Cockburn Harbour (South Caicos)](../../countries/TC/cities/cockburn-harbour.yaml) 76.35 |
@@ -521,7 +521,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | YT | cities | 2 | 2 | 76.00 | 0 | 0 | 0 | 2 | [Dzaoudzi (historic town)](../../countries/YT/cities/dzaoudzi.yaml) 77.60; [Mamoudzou](../../countries/YT/cities/mamoudzou.yaml) 74.40 |
 | YT | sights | 10 | 8 | 84.72 | 0 | 0 | 0 | 10 | [Passe en S (Longogori)](../../countries/YT/sights/passe-en-s.yaml) 89.65; [N’Gouja Beach and Seagrass Visitor Area](../../countries/YT/sights/ngouja.yaml) 86.85; [Dziani Dzaha Crater Lake](../../countries/YT/sights/dziani-dzaha.yaml) 86.50 |
 | ZA | cities | 12 | 12 | 81.38 | 1 | 0 | 1 | 12 | [Cape Town](../../countries/ZA/cities/cape-town.yaml) 93.30; [Johannesburg](../../countries/ZA/cities/johannesburg.yaml) 84.55; [Stellenbosch](../../countries/ZA/cities/stellenbosch.yaml) 84.20 |
-| ZA | sights | 31 | 24 | 90.02 | 13 | 1 | 13 | 31 | [Kruger National Park](../../countries/ZA/sights/kruger-national-park.yaml) 95.80; [Maloti-Drakensberg Park (South African sector)](../../countries/ZA/sights/maloti-drakensberg-south-africa.yaml) 93.90; [Table Mountain Summit and Slopes](../../countries/ZA/sights/table-mountain.yaml) 93.40 |
+| ZA | sights | 31 | 25 | 90.05 | 14 | 1 | 13 | 31 | [Kruger National Park](../../countries/ZA/sights/kruger-national-park.yaml) 95.80; [Maloti-Drakensberg Park (South African sector)](../../countries/ZA/sights/maloti-drakensberg-south-africa.yaml) 93.90; [Table Mountain Summit and Slopes](../../countries/ZA/sights/table-mountain.yaml) 93.40 |
 | ZM | cities | 5 | 3 | 76.30 | 0 | 0 | 0 | 5 | [Livingstone](../../countries/ZM/cities/livingstone.yaml) 80.20; [Lusaka](../../countries/ZM/cities/lusaka.yaml) 76.30; [Ndola](../../countries/ZM/cities/ndola.yaml) 71.95 |
 | ZM | sights | 20 | 13 | 91.00 | 8 | 1 | 6 | 20 | [Mosi-oa-Tunya / Victoria Falls (Zambian side)](../../countries/ZM/sights/victoria-falls.yaml) 96.75; [South Luangwa National Park](../../countries/ZM/sights/south-luangwa-national-park.yaml) 94.65; [Lower Zambezi National Park](../../countries/ZM/sights/lower-zambezi-national-park.yaml) 94.10 |
 | ZW | cities | 6 | 5 | 77.65 | 0 | 0 | 0 | 6 | [Bulawayo](../../countries/ZW/cities/bulawayo.yaml) 81.95; [Harare](../../countries/ZW/cities/harare.yaml) 80.55; [Victoria Falls (city)](../../countries/ZW/cities/victoria-falls.yaml) 77.65 |

@@ -2,7 +2,7 @@
 
 # Syria (SY) — Sights & attractions ranking
 
-**19 ranked** · **12 unassessed** · **31 total** · Worldwide scoring **v2**
+**20 ranked** · **11 unassessed** · **31 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (19)
+## Complete ranked list (20)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -33,8 +33,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 16 | [Great Mosque of Aleppo](sights/aleppo-great-mosque.yaml) | Religious site | **84.35** | **History 9.2**, **Architecture 8.9**, **Culture 8.8** | 8.4 / 8.7 / 9.0 / 8.0 / 7.4 | [36.199, 37.157](https://www.google.com/maps/search/?api=1&query=36.199,37.157) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Great%20Mosque%20of%20Aleppo%2C%20Syria) |
 | 18 | [Al-Hamidiyah Souq](sights/hamidiyah-souq.yaml) | Attraction | **83.25** | **Culture 8.8**, **History 8.5**, **Food 8.4** | 8.2 / 8.4 / 8.4 / 8.7 / 7.8 | [33.511, 36.303](https://www.google.com/maps/search/?api=1&query=33.511,36.303) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Al-Hamidiyah%20Souq%2C%20Syria) |
 | 19 | [Citadel of Damascus](sights/damascus-citadel.yaml) | Fortification | **82.50** | **History 8.9**, **Architecture 8.7**, **Photography 8.5** | 8.4 / 8.3 / 8.8 / 7.7 / 7.4 | [33.5118, 36.3022](https://www.google.com/maps/search/?api=1&query=33.5118,36.3022) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Citadel%20of%20Damascus%2C%20Syria) |
+| 20 | [Arwad Island](sights/arwad.yaml) | Island | **80.20** | **History 8.5**, **Architecture 8.4**, **Photography 8.4** | 7.9 / 8.2 / 8.2 / 8.0 / 7.6 | [34.857, 35.858](https://www.google.com/maps/search/?api=1&query=34.857,35.858) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arwad%20Island%2C%20Syria) |
 
-## Not yet fully assessed (12)
+## Not yet fully assessed (11)
 
 These destinations have no rank until all five core scores are assessed.
 
@@ -42,7 +43,6 @@ These destinations have no rank until all five core scores are assessed.
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | — | [Ancient Villages of Northern Syria](sights/ancient-villages.yaml) | Historic settlement | **—** | **History 9.3**, **Architecture 9.1** | 8.5 / 9.1 / 9.2 / — / — | [36.3, 36.85](https://www.google.com/maps/search/?api=1&query=36.3,36.85) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Villages%20of%20Northern%20Syria%2C%20Syria) |
 | — | [Apamea (Afamia)](sights/apamea.yaml) | Attraction | **—** | **History 9.3**, **Architecture 9.0** | 8.7 / 8.8 / 9.1 / — / — | [35.418, 36.398](https://www.google.com/maps/search/?api=1&query=35.418,36.398) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Apamea%20%28Afamia%29%2C%20Syria) |
-| — | [Arwad Island](sights/arwad.yaml) | Island | **—** | **History 8.5**, **Architecture 8.4**, **Photography 8.4** | 7.9 / 8.2 / 8.2 / — / — | [34.857, 35.858](https://www.google.com/maps/search/?api=1&query=34.857,35.858) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arwad%20Island%2C%20Syria) |
 | — | [Dura-Europos](sights/dura-europos.yaml) | Attraction | **—** | **History 9.4**, **Culture 9.1** | — / 9.1 / 9.4 / — / — | [34.748, 40.731](https://www.google.com/maps/search/?api=1&query=34.748,40.731) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Dura-Europos%2C%20Syria) |
 | — | [Ebla (Tell Mardikh)](sights/ebla.yaml) | Attraction | **—** | **History 9.4** | — / 9.1 / 9.4 / — / — | [35.798, 36.799](https://www.google.com/maps/search/?api=1&query=35.798,36.799) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ebla%20%28Tell%20Mardikh%29%2C%20Syria) |
 | — | [Margat Castle (Qalaat al-Marqab)](sights/margat-castle.yaml) | Palace / castle | **—** | **Architecture 9.0**, **History 9.0** | 8.8 / 8.8 / 8.8 / — / — | [35.15, 35.95](https://www.google.com/maps/search/?api=1&query=35.15,35.95) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Margat%20Castle%20%28Qalaat%20al-Marqab%29%2C%20Syria) |
