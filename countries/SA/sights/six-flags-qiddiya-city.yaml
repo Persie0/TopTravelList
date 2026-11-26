@@ -1,0 +1,16 @@
+id: sight-sa-six-flags-qiddiya-city
+name: "Six Flags Qiddiya City"
+location:
+  country_code: SA
+  latitude: 24.59033
+  longitude: 46.33527
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 6.8
+  experience: 9.2
+  depth: 9.1
+  categories:
+    adventure: 9.4
+    family: 9.2
+    photography: 8.8

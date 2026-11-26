@@ -1,0 +1,15 @@
+id: sight-sa-harrat-viewpoint
+name: "Harrat Viewpoint"
+location:
+  country_code: SA
+  latitude: 26.63181
+  longitude: 37.89725
+scores:
+  impact: 9.1
+  uniqueness: 8.6
+  significance: 7.3
+  experience: 8.5
+  depth: 6.9
+  categories:
+    photography: 9.4
+    nature: 9.0

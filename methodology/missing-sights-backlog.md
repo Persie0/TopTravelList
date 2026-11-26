@@ -530,3 +530,14 @@ Four additions and 16 peer comparisons matched to ranked rows. Bahrain 45 ranked
 - [x] KW — Museum of Modern Art (Kuwait): 80.25/100 (source-linked-unverified).
 
 Five additions and 20 peer comparisons. Kuwait 43 ranked / 49 total. NCCAL museum inventory (https://www.nccal.gov.kw/en/museums), official operator sources and government visitor inventory screened. Al Shaheed Park phase III opened 1 October 2026; existing parent scope retained, rating follow-up documented. Kuwait Geopark confirmed open January 2026 (https://kuwaittimes.com/article/38001/kuwait/other-news/kuwait-geopark-to-open-to-visitors-on-january-7/amp/), but published short map link inaccessible; keep open as substantial known candidate until representative coordinates located. Winter Wonderland next season still not confirmed (https://kuwaitlocal.com/news/winter-wonder-land-kuwait). Oil exhibition visitor parking coordinate explicitly provisional, Al Salam Palace conflicting locator documented. Full Python validation and individual peer YAML checks pending.
+
+### Pass 50 — Kuwait final candidate and Saudi Arabia expansion
+
+- [x] KW — Kuwait Geopark: 85.00/100 (source-linked-unverified).
+- [x] SA — Six Flags Qiddiya City: 86.55/100 (source-linked-unverified).
+- [x] SA — Aquarabia Qiddiya City: 84.40/100 (source-linked-unverified).
+- [x] SA — AlUla Oasis and Heritage Trail: 87.80/100 (source-linked-unverified).
+- [x] SA — Harrat Viewpoint: 83.05/100 (source-linked-unverified).
+- [x] SA — Fakieh Aquarium: 79.75/100 (source-linked-unverified).
+
+Six additions and 24 peer comparisons matched to ranked rows. Kuwait 44 ranked / 50 total; Geopark coordinate recovered from named Google Maps place redirect, HTTP 500 page itself still unavailable, documented in review. Winter Wonderland 2026/27 opening remains conflicting (https://kuwaitlocal.com/news/winter-wonder-land-kuwait and https://rahhal.wego.com/blog/%D9%88%D9%86%D8%AA%D8%B1%D9%84%D8%A7%D9%86%D8%AF-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-2026-%D9%85%D9%88%D8%B9%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D9%88%D8%A7%D9%84%D8%AA%D8%B0%D8%A7%D9%83%D8%B1-%D9%88%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/); defer until operator confirmation. Close Kuwait current queue, not independent audit. Saudi Arabia 48 ranked / 54 total. Both Qiddiya parks confirmed opened; AlUla Old Town explicitly excludes oasis, new oasis scope and viewpoint separated. Next screen Ashar Valley, Sharaan Nature Reserve, Al Hada and other major distinct tourism highlights; existing unassessed unchanged. Full Python validation and individual peer YAML checks pending.

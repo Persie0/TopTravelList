@@ -1582,3 +1582,193 @@
 - Worldwide peers: [Gobustan (AZ)](../../../countries/AZ/sights/gobustan-rock-art-cultural-landscape.yaml) 8.6/9.4/9.5/8.6/8.0, more clearly established interpreted visit; [Saimaly-Tash (KG)](../../../countries/KG/sights/saimaly-tash-petroglyphs.yaml) 8.7/9.4/9.5/8.7/8.4, stronger alpine concentration; [Tanbaly (KZ)](../../../countries/KZ/sights/petroglyphs-of-tanbaly-tamgaly.yaml) 8.4/9.2/9.5/8.3/8.5, clearer multi-panel circuit; [Sarmishsay (UZ)](../../../countries/UZ/sights/sarmishsay-petroglyphs.yaml) 7.8/8.8/9.0/8.0/7.7, comparable bounded rock-art stop. Current permitted route needs additional confirmation. Categories/GPS unchanged.
 
 All 18 settlement and 49 sight core vectors screened. Hegra exceptional total retained pending specialist comparison. Remaining incomplete pilgrimage and serial-property visitor scopes are not guessed. Targeted editorial review, not comprehensive independent source/GPS verification.
+
+## sight-sa-six-flags-qiddiya-city — Six Flags Qiddiya City — 2026-11-26
+
+- YAML: [source](../../../countries/SA/sights/six-flags-qiddiya-city.yaml)
+- Action: new
+- Precise subject and limitations: Operating theme park, opened 31 December 2025 as confirmed by operator announcement https://www.prnewswire.com/news-releases/six-flags-qiddiya-city-six-flags-entertainment-corporations-first-destination-outside-north-america-is-now-officially-open-302651426.html. Excludes separately admitted Aquarabia and future Qiddiya projects. Current ride availability varies; no unverified record claim.
+- Location check: 24.59033, 46.33527; [representative point source](https://mapcarta.com/W1554323845), source or redirect inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://sixflagsqiddiyacity.com/en/explore/park-map); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | 8.8 / 8.9 / 6.8 / 9.1 / 8.8 | More focused automotive theme. |
+| [AE/motiongate-dubai](../../../countries/AE/sights/motiongate-dubai.yaml) | 8.6 / 8.4 / 6.8 / 9.0 / 8.9 | Different film-themed park. |
+| [HK/hong-kong-disneyland](../../../countries/HK/sights/hong-kong-disneyland.yaml) | 8.9 / 8.7 / 7.8 / 9.3 / 9.1 | Stronger established immersive heritage and brand history. |
+| [QA/lusail-winter-wonderland](../../../countries/QA/sights/lusail-winter-wonderland.yaml) | 8.1 / 7.9 / 6.2 / 8.8 / 8.3 | More limited seasonal amusement experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Large scale themed and mountain setting. |
+| Uniqueness | 9.1 | Distinctive major thrill ride offering. |
+| Significance | 6.8 | Contemporary entertainment significance. |
+| Experience | 9.2 | Extensive thrill and family experiences. |
+| Depth | 9.1 | Multiple themed lands. |
+
+- Applicable categories: adventure:9.4, family:9.2, photography:8.8.
+- Computed worldwide overall: 86.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-aquarabia-qiddiya-city — Aquarabia Qiddiya City — 2026-11-26
+
+- YAML: [source](../../../countries/SA/sights/aquarabia-qiddiya-city.yaml)
+- Action: new
+- Precise subject and limitations: Water theme park opened 23 April 2026, independent admission and attraction mix from Six Flags. Park location from specialist ride database; representative point not entrance. Current operator information https://aquarabiaqiddiyacity.com/en/plan-your-trip/park-information. No guaranteed ride access or size record assumed.
+- Location check: 24.586247, 46.325201; [representative point source](https://coasterpedia.net/wiki/Aquarabia_Qiddiya_City), source or redirect inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://qiddiya.com/media-centre/media-centre-listing/aquarabia-qiddiya-city-officially-welcomes-visitors-/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/meryal-waterpark](../../../countries/QA/sights/meryal-waterpark.yaml) | 8.7 / 8.8 / 6.3 / 9.1 / 8.9 | Comparable large waterpark. |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | 8.6 / 8.4 / 5.5 / 9.3 / 9.0 | Established flagship water recreation. |
+| [AE/yas-waterworld](../../../countries/AE/sights/yas-waterworld.yaml) | 8.3 / 7.7 / 5.3 / 8.9 / 8.4 | Comparable water ride breadth. |
+| [BH/lost-paradise-of-dilmun-water-park](../../../countries/BH/sights/lost-paradise-of-dilmun-water-park.yaml) | 7.6 / 6.8 / 5.2 / 8.4 / 7.7 | Smaller regional facility. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large themed water environments. |
+| Uniqueness | 8.8 | Distinct regional water theme park and ride variety. |
+| Significance | 6.6 | Modern commercial recreation. |
+| Experience | 9.2 | Extensive aquatic recreation. |
+| Depth | 9.0 | Multiple zones and rides. |
+
+- Applicable categories: family:9.3, adventure:9.3, photography:8.6.
+- Computed worldwide overall: 84.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-alula-oasis — AlUla Oasis and Heritage Trail — 2026-11-26
+
+- YAML: [source](../../../countries/SA/sights/alula-oasis.yaml)
+- Action: new
+- Precise subject and limitations: Cultivated oasis and designated heritage walking paths, not separately ranked old town, Hegra or Dadan. Existing Old Town review expressly excludes oasis. Official tourism describes free trails and guided walks through farms and mud-brick remnants. Trail locator representative, not whole oasis center; private farms excluded.
+- Location check: 26.6270084, 37.9167131; [representative point source](https://steller.co/p/oasis-heritage-trail-4Yk8fVkL3fSZS2KNPWcTjJZ), source or redirect inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.experiencealula.com/en/places-to-go/alula-oasis); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/al-ahsa-oasis](../../../countries/SA/sights/al-ahsa-oasis.yaml) | 8.5 / 9.2 / 9.1 / 8.0 / 8.6 | Broader UNESCO agricultural heritage landscape. |
+| [SA/alula-old-town](../../../countries/SA/sights/alula-old-town.yaml) | 8.3 / 8.5 / 8.2 / 8.3 / 7.8 | Separate historic built quarter. |
+| [AE/al-ain-oasis](../../../countries/AE/sights/al-ain-oasis.yaml) | 8.0 / 8.5 / 8.8 / 8.4 / 8.0 | Comparable cultivated oasis experience. |
+| [OM/misfat-al-abriyeen](../../../countries/OM/sights/misfat-al-abriyeen.yaml) | 8.7 / 8.8 / 8.6 / 8.8 / 8.5 | Different terraced mountain agricultural settlement. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Palm groves and desert escarpment contrast. |
+| Uniqueness | 8.8 | Living oasis agricultural landscape. |
+| Significance | 8.8 | Long regional settlement and agricultural history. |
+| Experience | 8.8 | Accessible walking and guided interpretation. |
+| Depth | 8.6 | Several trail sections and living landscape. |
+
+- Applicable categories: culture:9.1, nature:9.0, history:9.0, photography:9.1.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-harrat-viewpoint — Harrat Viewpoint — 2026-11-26
+
+- YAML: [source](../../../countries/SA/sights/harrat-viewpoint.yaml)
+- Action: new
+- Precise subject and limitations: Volcanic plateau viewpoint overlooking the AlUla valley, separate elevated landscape experience from oasis walk and Old Town. Not entire Harrat Uwayrid biosphere reserve; opening and visibility vary.
+- Location check: 26.63181, 37.89725; [representative point source](https://mapcarta.com/N7926424055), source or redirect inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.experiencealula.com/en/places-to-go/harrat-viewpoint); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SA/edge-of-world](../../../countries/SA/sights/edge-of-world.yaml) | 9.0 / 8.4 / 7.4 / 8.2 / 7.2 | More extensive dramatic cliff experience. |
+| [SA/elephant-rock](../../../countries/SA/sights/elephant-rock.yaml) | 8.7 / 8.4 / 6.9 / 7.8 / 6.5 | Different sculptural desert landmark. |
+| [OM/shaat-viewpoint](../../../countries/OM/sights/shaat-viewpoint.yaml) | 9.1 / 8.5 / 7.2 / 8.4 / 6.8 | Comparable dramatic elevated panorama. |
+| [OM/jebel-samhan-viewpoint](../../../countries/OM/sights/jebel-samhan-viewpoint.yaml) | 8.8 / 8.6 / 7.3 / 8.5 / 6.8 | Different escarpment view. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic panorama over oasis and desert. |
+| Uniqueness | 8.6 | Distinct elevated volcanic landscape. |
+| Significance | 7.3 | Regional geological and scenic interest. |
+| Experience | 8.5 | Rewarding sunset and panoramic visit. |
+| Depth | 6.9 | Single viewpoint limits depth. |
+
+- Applicable categories: photography:9.4, nature:9.0.
+- Computed worldwide overall: 83.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-sa-fakieh-aquarium — Fakieh Aquarium — 2026-11-26
+
+- YAML: [source](../../../countries/SA/sights/fakieh-aquarium.yaml)
+- Action: new
+- Precise subject and limitations: Public aquarium on Jeddah north corniche, excludes neighbouring theme park, public corniche and natural Red Sea reef excursions. Operator contact confirms identity https://fakiehaquarium.com//en/contact. No independent animal welfare or conservation outcome claims.
+- Location check: 21.57229, 39.10937; [representative point source](https://mapcarta.com/N2891554426), source or redirect inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitsaudi-migration-a8ehcdbaaug2hzgw.a03.azurefd.net/en/jeddah/attractions/explore-fakieh-aquarium); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/national-aquarium-abu-dhabi](../../../countries/AE/sights/national-aquarium-abu-dhabi.yaml) | 8.6 / 8.3 / 7.6 / 8.8 / 8.8 | Broader dedicated aquarium scope. |
+| [BH/marassi-aquarium](../../../countries/BH/sights/marassi-aquarium.yaml) | 8.2 / 8.0 / 7.1 / 8.6 / 8.4 | Comparable regional aquarium. |
+| [KW/the-scientific-center](../../../countries/KW/sights/the-scientific-center.yaml) | 7.9 / 7.7 / 7.3 / 8.5 / 7.8 | Broader science education scope. |
+| [AE/dubai-mall-aquarium-and-underwater-zoo](../../../countries/AE/sights/dubai-mall-aquarium-and-underwater-zoo.yaml) | 8.0 / 7.6 / 6.2 / 8.4 / 7.6 | Different mall-based setting. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Engaging marine exhibits. |
+| Uniqueness | 8.0 | Regional Red Sea interpretation within familiar format. |
+| Significance | 7.2 | Regional marine education significance. |
+| Experience | 8.5 | Varied family aquarium visit. |
+| Depth | 8.3 | Several exhibit environments. |
+
+- Applicable categories: family:8.9, wildlife:8.6, nature:8.4.
+- Computed worldwide overall: 79.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

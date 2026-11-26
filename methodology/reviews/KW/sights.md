@@ -1064,3 +1064,41 @@ Peer links and dimensions matched to current ranking rows or same-batch YAML; in
 ## Al Shaheed Park — scope follow-up — 2026-11-26
 
 Phase III opened on 1 October 2026, including a theatre, sports and family facilities: https://kuwaittimes.com/article/50810/kuwait/other-news/al-shaheed-park-phase-iii-opens-featuring-new-cultural-landmark/ and https://kuwaittimes.com/article/50804/lifestyle/art-fashion/shaheed-park-levels-up/. Keep landscape and park expansion in existing parent record. Current scores unchanged; flag expanded visitor depth and independently ticketed experiences for rating reassessment, not duplicate park rows.
+
+## sight-kw-kuwait-geopark — Kuwait Geopark — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/kuwait-geopark.yaml)
+- Action: new
+- Precise subject and limitations: Subiya geological and cultural visitor site, opened January 2026. Assess the first visitor phase, not proposed expansion or unrestricted archaeological access. KUNA reporting https://kuwaittimes.com/article/38001/kuwait/other-news/kuwait-geopark-to-open-to-visitors-on-january-7/amp/ describes geological and heritage experiences; visitor guide https://kuwaitlocal.com/news/geo-park-kuwait supplies map link. Redirect returned HTTP 500 but exposed named Kuwait Geopark place coordinates in !3d29.6378616!4d48.0051816, not viewport center. Verify entrance and present booking. No UNESCO Global Geopark designation assumed.
+- Location check: 29.6378616, 48.0051816; [representative point source](https://maps.app.goo.gl/BkTYRqrStWJAfG1X6), source or redirect inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.kockw.com/sites/EN/EMagazine/Pages/Events/1180.aspx); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [KW/jahra-nature-reserve-jahra-pools](../../../countries/KW/sights/jahra-nature-reserve-jahra-pools.yaml) | 7.6 / 8.2 / 8.4 / 7.9 / 7.3 | Different wetland and birdwatching focus. |
+| [AE/mleiha-archaeological-centre-and-sites](../../../countries/AE/sights/mleiha-archaeological-centre-and-sites.yaml) | 7.8 / 8.6 / 9.1 / 8.2 / 8.0 | Broader established archaeology visitor programme. |
+| [OM/tawi-atayr-sinkhole](../../../countries/OM/sights/tawi-atayr-sinkhole.yaml) | 8.5 / 8.8 / 8.0 / 7.8 / 6.7 | More concentrated geological landform. |
+| [SA/al-wahbah-crater](../../../countries/SA/sights/al-wahbah-crater.yaml) | 8.7 / 8.6 / 7.8 / 8.1 / 7.4 | More dramatic singular volcanic landform. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Varied desert formations and interpreted landscape. |
+| Uniqueness | 8.7 | Distinct geological and archaeological education. |
+| Significance | 8.5 | Regional geological and settlement heritage. |
+| Experience | 8.5 | Curated visitor zones and guided activities. |
+| Depth | 8.6 | Multiple subjects within opened visitor area. |
+
+- Applicable categories: nature:8.9, history:8.7, family:8.8, photography:8.7.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
