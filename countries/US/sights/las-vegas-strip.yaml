@@ -1,0 +1,17 @@
+id: sight-us-las-vegas-strip
+name: "Las Vegas Strip"
+location:
+  country_code: US
+  latitude: 36.1192
+  longitude: -115.17
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    photography: 9.3
+    architecture: 8.9
+    nightlife: 8.9
+    culture: 8.6

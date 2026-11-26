@@ -4233,3 +4233,231 @@ Peer assessments compared editorially; complete source YAML recheck pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-us-national-wwii-museum — National WWII Museum (New Orleans) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/national-wwii-museum.yaml)
+- Action: new
+- Precise subject: Main museum campus and permanent historical exhibitions; excludes separately ticketed special experiences.
+- Location check: 29.94306, -90.07028; [published representative point](https://en.wikipedia.org/wiki/The_National_WWII_Museum), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum campus guide documents multiple pavilions, personal accounts and home-front exhibitions; Liberation Pavilion addresses the Holocaust and postwar consequences (https://www.nationalww2museum.org/visit/museum-campus-guide/liberation-pavilion). Council of Europe cultural routes profile corroborates American-centered scope (https://www.coe.int/fr/web/cultural-routes/-/national-wwii-museum). [Primary reference](https://www.nationalww2museum.org/visit/exhibits); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | Broader Australian service history versus concentrated WWII interpretation. |
+| [KR/war-memorial-of-korea](../../../countries/KR/sights/war-memorial-of-korea.yaml) | 8.8 / 8.9 / 9.3 / 9.2 / 9.3 | Comparable national historical museum with different conflict focus. |
+| [DE/topography-of-terror](../../../countries/DE/sights/topography-of-terror.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 8.5 | Authentic site and concentrated documentation of Nazi persecution. |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | Broader social and cultural history across centuries. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Personal accounts and historical objects create substantial emotional impact |
+| Uniqueness | 9.2 | multi-pavilion presentation of American wartime experience is distinctive |
+| Significance | 9.3 | internationally consequential history with a national interpretive focus |
+| Experience | 9.2 | reflective multimedia and historical exhibits support meaningful learning |
+| Depth | 9.4 | several major pavilions support extensive exploration. |
+
+- Applicable categories: history:9.4, culture:9.1.
+- Computed worldwide overall: 92.10/100.
+- High-score challenge: Above 90 reflects the documented specific collection strengths and visitor depth; comparison with world-leading institutions limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-getty-villa — Getty Villa — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/getty-villa.yaml)
+- Action: new
+- Precise subject: Pacific Palisades museum, its antiquities and recreated Roman-style gardens; excludes Getty Center.
+- Location check: 34.04498, -118.56409; [published representative point](https://mapcarta.com/23065726), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Getty describes Greek and Roman antiquities in a recreated Roman country house; visitor highlights include peristyle gardens and sculpture (https://www.getty.edu/visit/villa/top-things-to-do/). Reconstructed building is not an ancient archaeological site. [Primary reference](https://www.getty.edu/visit/villa/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | Greater specialist archaeological collection depth. |
+| [DE/neues-museum](../../../countries/DE/sights/neues-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | Distinctive Egyptian and European archaeology with broader historical depth. |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | Separate hilltop campus with wider later European art and garden scope. |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | Broader art periods and media. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Ancient artworks and landscaped architectural setting create strong impact |
+| Uniqueness | 9.0 | integrated antiquities museum and Roman-inspired design distinguish the site |
+| Significance | 9.1 | internationally relevant original antiquities but no inherited ancient-building significance |
+| Experience | 9.0 | galleries and gardens offer rewarding exploration |
+| Depth | 8.7 | multiple galleries and gardens provide substantial bounded depth. |
+
+- Applicable categories: culture:9.3, history:9.2, architecture:9.1, photography:8.9.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-field-museum — Field Museum of Natural History — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/field-museum.yaml)
+- Action: new
+- Precise subject: Main Chicago museum and public exhibition galleries, not the wider Museum Campus.
+- Location check: 41.86621, -87.6169; [published representative point](https://mapcarta.com/26259110), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Museum identifies SUE's original fossil material and evolution galleries, plus Máximo the Titanosaur and other natural-history exhibits (https://www.fieldmuseum.org/page/visiting-sue-t-rex-what-know-you-go). Changing exhibitions not guaranteed. [Primary reference](https://www.fieldmuseum.org/exhibition/halls-and-galleries/evolving-planet); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | Comparable major natural-history breadth; distinct fossil collections. |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | 9.2 / 9.1 / 9.3 / 9.3 / 9.3 | Comparable world-class natural history with different architectural setting. |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | ROM has wider world-culture emphasis; Field has distinctive paleontology anchors. |
+| [SG/lee-kong-chian-natural-history-museum](../../../countries/SG/sights/lee-kong-chian-natural-history-museum.yaml) | 8.3 / 8.3 / 8.5 / 8.5 / 8.4 | More bounded regional biodiversity institution. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Major fossils and varied natural-history collections create exceptional visual impact |
+| Uniqueness | 9.2 | SUE and extensive scientific collections distinguish the institution |
+| Significance | 9.3 | significant scientific and cultural collections of international relevance |
+| Experience | 9.2 | diverse exhibits reward families and specialist visitors |
+| Depth | 9.4 | multiple large galleries support deep exploration. |
+
+- Applicable categories: nature:9.3, family:9.3, culture:9.0, history:9.1.
+- Computed worldwide overall: 92.40/100.
+- High-score challenge: Above 90 reflects the documented specific collection strengths and visitor depth; comparison with world-leading institutions limits the rating. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-chihuly-garden-and-glass — Chihuly Garden and Glass — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/chihuly-garden-and-glass.yaml)
+- Action: new
+- Precise subject: Ticketed glass-art exhibition, Glasshouse and associated garden; excludes Space Needle and wider Seattle Center.
+- Location check: 47.62054, -122.35018; [published representative point](https://mapcarta.com/35987694), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator describes indoor galleries, Glasshouse, changing garden and demonstrations; visit page identifies eight galleries and notes private-event restrictions (https://www.chihulygardenandglass.com/visit/plan-your-visit). [Primary reference](https://www.chihulygardenandglass.com/about/exhibition); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | Greater artistic and architectural breadth. |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | More extensive historic garden estate. |
+| [SG/gardens-by-the-bay](../../../countries/SG/sights/gardens-by-the-bay.yaml) | 9.5 / 9.5 / 8.4 / 9.4 / 9.3 | Greater landscape and architectural scale. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Public art in larger urban park; Chihuly has concentrated glass-art identity. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large-scale coloured glass installations give strong visual impact |
+| Uniqueness | 9.0 | distinctive integration of glass art and landscape |
+| Significance | 8.2 | important contemporary craft focus but limited collection scope |
+| Experience | 8.9 | multiple environments and demonstrations offer rewarding visits when available |
+| Depth | 8.3 | bounded single-artist exhibition limits breadth. |
+
+- Applicable categories: culture:9.1, photography:9.3, architecture:8.8.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-high-line-park — High Line Park (New York) — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/high-line-park.yaml)
+- Action: new
+- Precise subject: Public elevated park built on former freight railway; excludes Hudson Yards indoor venues, Whitney Museum and separately visited neighbourhoods.
+- Location check: 40.74799, -74.00476; [published representative point](https://mapcarta.com/35985516), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: NYC Parks describes adaptive reuse of abandoned railway, retaining rails and landscape references; official operator site blocked by robots, so current closures not independently established. [Primary reference](https://nycgovparks.org/about/history/before-they-were-parks/manhattan); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | 8.7 / 8.7 / 8.7 / 9.0 / 8.8 | Larger historic landscape park; High Line emphasizes reuse. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Comparable modern public-space design. |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | Natural waterfront recreation rather than elevated urban infrastructure. |
+| [KR/songdo-central-park](../../../countries/KR/sights/songdo-central-park.yaml) | 8.2 / 8.4 / 7.7 / 9.0 / 8.8 | Contemporary urban park with different landscape and water setting. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Elevated urban landscape creates strong visual contrast |
+| Uniqueness | 8.8 | railway-to-park conversion is distinctive although comparable projects exist |
+| Significance | 8.5 | influential contemporary urban design and industrial heritage |
+| Experience | 8.9 | linear planted walking route offers rewarding public-space experience |
+| Depth | 8.4 | multiple segments and views give depth within a narrow corridor. |
+
+- Applicable categories: architecture:8.8, relaxation:8.9, photography:8.8, culture:8.6.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-us-las-vegas-strip — Las Vegas Strip — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/las-vegas-strip.yaml)
+- Action: new
+- Precise subject: Public-facing resort architecture, sidewalks and outdoor spectacles along Las Vegas Boulevard South; excludes gambling, separately ticketed shows, indoor attractions and Fremont Street. Representative route point, not full geographic extent.
+- Location check: 36.1192, -115.17; [published representative point](https://latitude.to/articles-by-country/us/united-states/670/las-vegas-strip), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Tourism authority documents walking routes, resort exteriors and free outdoor spectacles (https://www.visitlasvegas.com/experience/post/free-things-to-do-in-las-vegas/). Coordinate is a published representative point for a linear attraction. [Primary reference](https://www.visitlasvegas.com/experience/post/walking-the-las-vegas-strip/); web sources inspected 2026-11-26. Sources support scope and facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current availability of individual visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | 9.0 / 9.0 / 8.5 / 8.4 / 7.2 | More concentrated illuminated street spectacle. |
+| [HK/victoria-harbour](../../../countries/HK/sights/victoria-harbour.yaml) | 9.3 / 9.3 / 8.8 / 9.6 / 9.0 | Stronger natural waterfront and skyline contrast. |
+| [US/millennium-park-chicago](../../../countries/US/sights/millennium-park-chicago.yaml) | 8.7 / 8.6 / 8.1 / 8.8 / 8.5 | Public art and greenery rather than commercial resort architecture. |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | Greater art-historical significance; different architectural visitor experience. |
+
+Peer dimensions from current country ranking tables; full source YAML recheck pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Large-scale illuminated resort architecture produces strong visual spectacle |
+| Uniqueness | 9.1 | concentration of themed buildings is internationally distinctive |
+| Significance | 8.4 | modern entertainment and urban-design significance without inheriting unrelated attractions |
+| Experience | 8.8 | public streetscape exploration offers variety subject to heat and pedestrian conditions |
+| Depth | 8.7 | long corridor with many outdoor viewpoints supports substantial exploration. |
+
+- Applicable categories: photography:9.3, architecture:8.9, nightlife:8.9, culture:8.6.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.

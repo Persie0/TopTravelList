@@ -1,0 +1,16 @@
+id: sight-us-chihuly-garden-and-glass
+name: "Chihuly Garden and Glass"
+location:
+  country_code: US
+  latitude: 47.62054
+  longitude: -122.35018
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.2
+  experience: 8.9
+  depth: 8.3
+  categories:
+    culture: 9.1
+    photography: 9.3
+    architecture: 8.8

@@ -330,3 +330,15 @@ Six additions, 24 peer comparisons. Peer dimensions drawn from country ranking t
 - [x] US — Pike Place Market: 86.90/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons. US now 118 ranked/118 total. Published points and visitor source excerpts inspected; direct Art Institute and Chicago park pages returned 403, alternatives and search excerpts used. Separate Art Institute and Millennium Park scopes, Getty Center excludes Getty Villa, Griffith excludes wider park, Times Square excludes ticketed shows. Generic Art Institute and Getty Center types match existing lexical generator; classification improvements remain pending. Existing ratings unchanged. Full peer YAML check, Python validation and diagnostics pending. Next: US National WWII Museum, Getty Villa, Field Museum, Chihuly Garden and Glass, High Line, and Las Vegas Strip; review distinct scopes before addition.
+
+
+### Pass 33 — US museums and urban attractions
+
+- [x] US — National WWII Museum (New Orleans): 92.10/100 (source-linked-unverified).
+- [x] US — Getty Villa: 89.60/100 (source-linked-unverified).
+- [x] US — Field Museum of Natural History: 92.40/100 (source-linked-unverified).
+- [x] US — Chihuly Garden and Glass: 87.25/100 (source-linked-unverified).
+- [x] US — High Line Park (New York): 86.25/100 (source-linked-unverified).
+- [x] US — Las Vegas Strip: 89.05/100 (source-linked-unverified).
+
+Six additions, 24 peer comparisons with ranked dimension values. US now 124 ranked/124 total. Official museum and tourism sources and published coordinates inspected. Getty Villa distinct from Getty Center; Chihuly excludes Space Needle; Strip restricted to public-facing urban experience, no gambling or ticketed shows. High Line operator blocked by robots; city parks source used. Generic Getty Villa and Garden type for Chihuly match lexical behavior but remain semantic classification limitations. Existing ratings unchanged. Full peer YAML check, Python validation and diagnostics pending. Next: Monterey Bay Aquarium, Georgia Aquarium, San Diego Zoo, San Diego Balboa Park, New Orleans French Quarter and Savannah Historic District.
