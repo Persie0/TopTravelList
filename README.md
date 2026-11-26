@@ -188,7 +188,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Haiti](countries/HT/) (`HT`) | [12](countries/HT/cities.md) | [32](countries/HT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Haiti) |
 | [Heard Island and McDonald Islands](countries/HM/) (`HM`) | [0](countries/HM/cities.md) | [1](countries/HM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Heard%20Island%20and%20McDonald%20Islands) |
 | [Honduras](countries/HN/) (`HN`) | [31](countries/HN/cities.md) | [59](countries/HN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Honduras) |
-| [Hong Kong](countries/HK/) (`HK`) | [1](countries/HK/cities.md) | [21](countries/HK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Hong%20Kong) |
+| [Hong Kong](countries/HK/) (`HK`) | [1](countries/HK/cities.md) | [23](countries/HK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Hong%20Kong) |
 | [Hungary](countries/HU/) (`HU`) | [18](countries/HU/cities.md) | [50](countries/HU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Hungary) |
 | [Iceland](countries/IS/) (`IS`) | [15](countries/IS/cities.md) | [59](countries/IS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Iceland) |
 | [India](countries/IN/) (`IN`) | [97](countries/IN/cities.md) | [333](countries/IN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=India) |
@@ -296,7 +296,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Somalia](countries/SO/) (`SO`) | [10](countries/SO/cities.md) | [13](countries/SO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Somalia) |
 | [South Africa](countries/ZA/) (`ZA`) | [12](countries/ZA/cities.md) | [34](countries/ZA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=South%20Africa) |
 | [South Georgia and the South Sandwich Islands](countries/GS/) (`GS`) | [0](countries/GS/cities.md) | [10](countries/GS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
-| [South Korea](countries/KR/) (`KR`) | [82](countries/KR/cities.md) | [284](countries/KR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=South%20Korea) |
+| [South Korea](countries/KR/) (`KR`) | [82](countries/KR/cities.md) | [285](countries/KR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=South%20Korea) |
 | [South Sudan](countries/SS/) (`SS`) | [10](countries/SS/cities.md) | [20](countries/SS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=South%20Sudan) |
 | [Spain](countries/ES/) (`ES`) | [22](countries/ES/cities.md) | [114](countries/ES/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Spain) |
 | [Sri Lanka](countries/LK/) (`LK`) | [55](countries/LK/cities.md) | [178](countries/LK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Sri%20Lanka) |
@@ -319,7 +319,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Turkmenistan](countries/TM/) (`TM`) | [12](countries/TM/cities.md) | [40](countries/TM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Turkmenistan) |
 | [Turks and Caicos Islands](countries/TC/) (`TC`) | [3](countries/TC/cities.md) | [12](countries/TC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Turks%20and%20Caicos%20Islands) |
 | [Tuvalu](countries/TV/) (`TV`) | [9](countries/TV/cities.md) | [14](countries/TV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Tuvalu) |
-| [Türkiye](countries/TR/) (`TR`) | [20](countries/TR/cities.md) | [48](countries/TR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=T%C3%BCrkiye) |
+| [Türkiye](countries/TR/) (`TR`) | [20](countries/TR/cities.md) | [51](countries/TR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=T%C3%BCrkiye) |
 | [Uganda](countries/UG/) (`UG`) | [6](countries/UG/cities.md) | [25](countries/UG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Uganda) |
 | [Ukraine](countries/UA/) (`UA`) | [14](countries/UA/cities.md) | [49](countries/UA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ukraine) |
 | [United Arab Emirates](countries/AE/) (`AE`) | [14](countries/AE/cities.md) | [57](countries/AE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20Arab%20Emirates) |

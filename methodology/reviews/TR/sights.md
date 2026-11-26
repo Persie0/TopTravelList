@@ -1550,3 +1550,111 @@
 - [St Nicholas Church](../../../countries/TR/sights/st-nicholas.yaml): **source-linked-unverified** supersedes unassessed. [Ministry monument museum page](https://www.muze.gov.tr/muze-detay?distId=STN&sectionId=STN01) establishes ordinary public access and burial church context. I/U/S/E/D 8.1/8.6/8.9/8.2/7.2; overall 83.10. Compact church and interpretation, not nearby Myra or Andriake. Current peers: [Jvari (GE)](../../../countries/GE/sights/jvari-monastery.yaml) 8.7/8.5/9.0/8.3/7.1, stronger setting; [Kourdali (CY)](../../../countries/CY/sights/kourdali-church.yaml) 7.8/8.3/8.4/8.0/6.8, smaller painted church; [Peristerona (CY)](../../../countries/CY/sights/peristerona-church.yaml) 7.8/8.2/8.3/7.8/6.6, similarly bounded precinct; [Urnes (NO)](../../../countries/NO/sights/urnes-stave-church.yaml) 8.8/9.3/9.3/8.3/7.6, greater architectural rarity.
 
 [UNESCO country inventory](https://whc.unesco.org/en/statesparties/tr/) confirms 22 inscribed and 80 tentative properties. Existing 15 tentative entries represented, 65 deferred. All 68 records have source links, 60 ranked, eight unassessed. No full independent fact verification. All existing GPS remain provisional. Full item-specific and component coverage remains incomplete.
+
+## sight-tr-dolmabahce-palace — Dolmabahçe Palace — 2026-11-26
+
+- YAML: [source](../../../countries/TR/sights/dolmabahce-palace.yaml)
+- Action: new
+- Precise subject: Late Ottoman palace complex, centered on Selamlık and Harem; exclude separately visited nearby mosque and other National Palaces.
+- Location check: 41.03902, 28.99965; [published representative point](https://mapcarta.com/W24826707), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: National Palaces lists visits to Selamlık and Harem; geographic reference identifies the nineteenth-century imperial palace and its administrative function. [Visitor reference](https://www.millisaraylar.gov.tr/Lokasyon/3/Dolmabahce-Sarayi?culture=en), accessed 2026-11-26. Source supports identity and visitor scope, not numerical ratings.
+- Missing or uncertain facts: independently corroborated detailed claims and current availability of specific visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/versailles](../../../countries/FR/sights/versailles.yaml) | Versailles has greater global architectural influence and landscape scale. |
+| [AT/schoenbrunn-palace](../../../countries/AT/sights/schoenbrunn-palace.yaml) | Schönbrunn offers broader imperial gardens and similarly strong palace interiors. |
+| [TR/topkapi](../../../countries/TR/sights/topkapi.yaml) | Topkapi reflects a longer imperial period and broader Ottoman heritage. |
+| [GB/buckingham-palace](../../../countries/GB/sights/buckingham-palace.yaml) | Dolmabahçe offers a more extensive historic palace interior experience. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Grand waterside palace interiors and setting create outstanding visual impact. |
+| Uniqueness | 9.0 | Late Ottoman European-influenced palace design is distinctive but has international equivalents. |
+| Significance | 9.2 | Imperial administrative and court history is globally consequential. |
+| Experience | 9.0 | Substantial ceremonial and residential interiors make the visit rewarding. |
+| Depth | 9.0 | Multiple palace sections provide considerable depth without crediting other palaces. |
+
+- Applicable categories: architecture:9.4, history:9.3, culture:9.1, photography:8.9.
+- Computed worldwide overall: 91.00/100.
+- High-score challenge: Above 90 because of independently assessed major historical significance and visitor depth; remains below the broader leading international comparators in the table. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: detailed independent corroboration and current access.
+
+## sight-tr-istanbul-archaeological-museums — Istanbul Archaeological Museums — 2026-11-26
+
+- YAML: [source](../../../countries/TR/sights/istanbul-archaeological-museums.yaml)
+- Action: new
+- Precise subject: Archaeological museum ensemble, including its three institutional units; excludes Topkapi Palace and the broader Historic Areas of Istanbul.
+- Location check: 41.01169, 28.98121; [published representative point](https://mapcarta.com/26240964), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Turkish Ministry identifies the three museum units and the Alexander Sarcophagus from the Sidon excavations. [Visitor reference](https://muze.gov.tr/muze-detay?DistId=IAR&SectionId=IAR01&sa=X), accessed 2026-11-26. Source supports identity and visitor scope, not numerical ratings.
+- Missing or uncertain facts: independently corroborated detailed claims and current availability of specific visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has wider worldwide collection breadth and canonical art. |
+| [EG/egyptian-museum-cairo](../../../countries/EG/sights/egyptian-museum-cairo.yaml) | Cairo has deeper concentration of Egyptian antiquities; Istanbul spans several ancient cultures. |
+| [KR/national-museum-of-korea](../../../countries/KR/sights/national-museum-of-korea.yaml) | Comparable archaeological interpretation, with different geographic emphasis. |
+| [HK/hong-kong-palace-museum](../../../countries/HK/sights/hong-kong-palace-museum.yaml) | Istanbul's ancient archaeological collections have stronger historical depth than this more exhibition-oriented institution. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Outstanding ancient sculpture and archaeological objects provide strong impact. |
+| Uniqueness | 9.1 | Rare archaeological collections include the distinctive Sidon sarcophagi. |
+| Significance | 9.3 | Major collections document civilizations spanning the ancient eastern Mediterranean and Near East. |
+| Experience | 8.8 | Focused museum experience; actual gallery availability may vary. |
+| Depth | 9.2 | Several collections support meaningful extended exploration. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:8.6.
+- Computed worldwide overall: 90.75/100.
+- High-score challenge: Above 90 because of independently assessed major historical significance and visitor depth; remains below the broader leading international comparators in the table. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: detailed independent corroboration and current access.
+
+## sight-tr-galata-tower — Galata Tower — 2026-11-26
+
+- YAML: [source](../../../countries/TR/sights/galata-tower.yaml)
+- Action: new
+- Precise subject: Historic tower, visitor exhibition and viewpoint; excludes the surrounding Galata district.
+- Location check: 41.02564, 28.97421; [published representative point](https://mapcarta.com/26241002), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Ministry museum portal identifies historical artefacts on display; geographic reference identifies the tower and representative location. [Visitor reference](https://muze.gov.tr/muze-detay?distId=MRK&sa=X&sectionId=GLT04), accessed 2026-11-26. Source supports identity and visitor scope, not numerical ratings.
+- Missing or uncertain facts: independently corroborated detailed claims and current availability of specific visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/eiffel-tower](../../../countries/FR/sights/eiffel-tower.yaml) | Eiffel Tower is a world-leading engineering and city-view landmark. |
+| [CN/xian-bell-tower](../../../countries/CN/sights/xian-bell-tower.yaml) | Comparable historic urban tower with distinct architectural tradition. |
+| [KR/n-seoul-tower](../../../countries/KR/sights/n-seoul-tower.yaml) | Galata has deeper historic significance; Seoul has modern panoramic infrastructure. |
+| [AT/graz-clock-tower](../../../countries/AT/sights/graz-clock-tower.yaml) | Galata provides a broader tower museum and elevated panorama experience. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Recognizable historic silhouette and urban panorama create strong impact. |
+| Uniqueness | 8.7 | Historic masonry tower combined with Bosporus city views is distinctive. |
+| Significance | 8.8 | Urban heritage is substantial but narrower than a major imperial complex. |
+| Experience | 8.6 | Museum and elevated views reward a focused visit. |
+| Depth | 7.6 | Single tower has modest exploration breadth. |
+
+- Applicable categories: architecture:8.9, history:8.9, photography:9.1.
+- Computed worldwide overall: 85.95/100.
+- High-score challenge: Below 90 overall. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: detailed independent corroboration and current access.

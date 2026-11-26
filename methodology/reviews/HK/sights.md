@@ -929,3 +929,75 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 profile; migration does not constitute a numeric reassessment.
 - Earlier decision: Original sight-cn-po-lin-monastery retained in Git history and historical audits.
 - Verification still needed: full source and independent coordinate checks.
+
+## sight-hk-hong-kong-disneyland — Hong Kong Disneyland Park — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/hong-kong-disneyland.yaml)
+- Action: new
+- Precise subject: Individual theme park, excluding resort hotels and wider Lantau Island.
+- Location check: 22.31308, 114.04137; [published representative point](https://mapcarta.com/W377094298), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Operator lists themed rides, including Big Grizzly Mountain and Jungle River Cruise; mapped polygon is the park, not the resort. [Visitor reference](https://www.hongkongdisneyland.com/attractions/), accessed 2026-11-26. Source supports identity and visitor scope, not numerical ratings.
+- Missing or uncertain facts: independently corroborated detailed claims and current availability of specific visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | Original park has greater historical significance. |
+| [CN/shanghai-disneyland](../../../countries/CN/sights/shanghai-disneyland.yaml) | Shanghai has larger-scale exploration and ride breadth. |
+| [FR/disneyland-park-paris](../../../countries/FR/sights/disneyland-park-paris.yaml) | Comparable thematic immersion; different attraction roster. |
+| [KR/lotte-world-adventure](../../../countries/KR/sights/lotte-world-adventure.yaml) | Hong Kong has more extensive outdoor themed environments. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Elaborate themed environments and rides create strong spectacle. |
+| Uniqueness | 8.7 | Distinct local attractions distinguish this park, but Disney's overall concept is replicated internationally. |
+| Significance | 7.8 | Modern entertainment importance rather than major historic heritage. |
+| Experience | 9.3 | Wide range of family attractions and immersive experiences. |
+| Depth | 9.1 | Multiple themed areas support a full-day visit. |
+
+- Applicable categories: family:9.4, photography:8.8, culture:8.3, adventure:8.5.
+- Computed worldwide overall: 87.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: detailed independent corroboration and current access.
+
+## sight-hk-ocean-park — Ocean Park Hong Kong — 2026-11-26
+
+- YAML: [source](../../../countries/HK/sights/ocean-park.yaml)
+- Action: new
+- Precise subject: Main animal and amusement theme park, excluding separately ticketed Water World and hotels.
+- Location check: 22.245861, 114.175917; [published representative point](https://commons.wikimedia.org/wiki/Ocean_Park%2C_Hong_Kong), accessed 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Checked visitor evidence: Hong Kong government visitor page identifies the Waterfront and Summit zones, animal exhibits and thrill rides; operator lists aquarium and panda exhibits at https://www.oceanpark.com.hk/en/a-day-at-the-park/attractions. [Visitor reference](https://www.gohk.gov.hk/en/spots/spot_detail.php?spot=Ocean+Park+and+Water+World+Ocean+Park), accessed 2026-11-26. Source supports identity and visitor scope, not numerical ratings.
+- Missing or uncertain facts: independently corroborated detailed claims and current availability of specific visitor areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | Lisbon has more concentrated marine interpretation. |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | Anaheim has greater historical entertainment significance and immersive theming. |
+| [KR/everland-theme-park](../../../countries/KR/sights/everland-theme-park.yaml) | Comparable variety; Ocean Park's coastal and marine setting is distinctive. |
+| [KR/lotte-world-adventure](../../../countries/KR/sights/lotte-world-adventure.yaml) | Ocean Park adds wildlife and outdoor coastal variety. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Hillside coastal setting and varied exhibits are memorable. |
+| Uniqueness | 8.6 | Combination of aquarium, animal exhibits and amusement rides is less commonplace than a conventional theme park. |
+| Significance | 7.9 | Regional educational significance; global conservation outcomes not independently verified. |
+| Experience | 9.0 | Distinct activity zones offer a varied visit. |
+| Depth | 9.0 | Multiple zones and exhibits support substantial exploration. |
+
+- Applicable categories: family:9.2, wildlife:8.8, adventure:8.8, photography:8.5.
+- Computed worldwide overall: 85.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ scores.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: detailed independent corroboration and current access.

@@ -212,3 +212,15 @@ Normalized the remaining 118 audit-added reviews (135 including the 17 from pass
 - [x] MG — Mont Passot (Bongo Pisa) viewpoint: 79.50/100 (source-linked-unverified).
 
 All five outstanding Madagascar candidates added; separate island and viewpoint scope retained. Twenty peer comparisons added; tourism office descriptions and representative map points checked. No existing ratings changed. Ranking rows and README count updated with connector-side generator-equivalent logic. Full Python validation and diagnostics remain pending. Next: Asian and cultural landmark gaps.
+
+
+### Pass 23 — East Asian and Türkiye flagship visitor attractions
+
+- [x] HK — Hong Kong Disneyland Park: 87.10/100 (source-linked-unverified).
+- [x] HK — Ocean Park Hong Kong: 85.90/100 (source-linked-unverified).
+- [x] TR — Dolmabahçe Palace: 91.00/100 (source-linked-unverified).
+- [x] TR — Istanbul Archaeological Museums: 90.75/100 (source-linked-unverified).
+- [x] TR — Galata Tower: 85.95/100 (source-linked-unverified).
+- [x] KR — Leeum Museum of Art: 88.40/100 (source-linked-unverified).
+
+Six additions; 24 individual cross-country peer comparisons. Separate park, palace, archaeological museum, tower and art museum scopes. India National Museum Delhi matched existing national-museum-new-delhi.yaml; no duplicate. Remaining candidates include UAE theme parks, Indonesia Waterbom and further cultural institutions. Connector-side ranking updates; full Python validation and diagnostics remain pending. No existing ratings modified.
