@@ -16,6 +16,19 @@
 - Grytviken (GS): analogous remote historic precinct with wider industrial fabric
 - Anne Frank House (NL): similarly focused personal historical interpretation
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S -0.1, E -0.4, D -0.6.
+- [Anne Frank House (NL)](../../../countries/NL/sights/anne-frank-house.yaml) — 9.1/9.4/9.5/8.9/8.2; existing named editorial peer. Subject minus peer: I -0.6, U -0.2, S -0.2, E -0.4, D +0.0.
+- [Napoleon's original tomb (Valley of the Tomb) (SH)](../../../countries/SH/sights/napoleons-tomb.yaml) — 7.8/8.7/9.0/7.7/6.5; supplementary tomb-type numerical anchor. Subject minus peer: I +0.7, U +0.5, S +0.3, E +0.8, D +1.7.
+- [Asuka Ishibutai Tomb (JP)](../../../countries/JP/sights/asuka-ishibutai-tomb.yaml) — 8.4/8.9/9.1/8.4/7.6; supplementary tomb-type numerical anchor. Subject minus peer: I +0.1, U +0.3, S +0.2, E +0.1, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 880.50 vs Anne Frank House 913.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Shackleton grave within Grytviken (GS): comparable remote commemorative setting
 - Humayun's Tomb (IN): greater architectural and garden scale
 - Grant's Tomb (US): comparable commemorative focus but different setting
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Humayun's Tomb (IN)](../../../countries/IN/sights/humayun-s-tomb.yaml) — 9.3/9.4/9.4/9.3/8.7; existing named editorial peer. Subject minus peer: I -1.5, U -0.7, S -0.4, E -1.6, D -2.2.
+- [Asuka Ishibutai Tomb (JP)](../../../countries/JP/sights/asuka-ishibutai-tomb.yaml) — 8.4/8.9/9.1/8.4/7.6; supplementary tomb-type numerical anchor. Subject minus peer: I -0.6, U -0.2, S -0.1, E -0.7, D -1.1.
+- [Tomok Batak Royal Tombs (ID)](../../../countries/ID/sights/tomok-batak-royal-tombs.yaml) — 8.1/8.6/8.6/8.3/7.4; supplementary tomb-type numerical anchor. Subject minus peer: I -0.3, U +0.1, S +0.4, E -0.6, D -0.9.
+- [Ming Tombs (CN)](../../../countries/CN/sights/ming-tombs.yaml) — 9.3/9.4/9.7/9.1/9.5; supplementary tomb-type numerical anchor. Subject minus peer: I -1.5, U -0.7, S -0.7, E -1.4, D -3.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 812.00 vs Ming Tombs 939.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -82,6 +108,19 @@
 - Sigiriya (LK): far greater archaeological context
 - Victoria Peak (HK): much broader panorama and visitor options
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Victoria Peak Hong Kong (HK)](../../../countries/HK/sights/victoria-peak.yaml) — 8.8/8.7/8.0/9.5/8.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.2, E -1.2, D -1.5.
+- [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -1.1, U -0.6, S -0.5, E -0.7, D -1.1.
+- [Tojinbo Cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; supplementary coast-type numerical anchor. Subject minus peer: I -0.3, U -0.4, S +0.1, E -0.5, D -0.9.
+- [Durdle Door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; supplementary coast-type numerical anchor. Subject minus peer: I -0.6, U -0.4, S -0.2, E -0.4, D -0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 824.00 vs Cliffs of Moher 903.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -114,6 +153,19 @@
 - Botanical Gardens (SG): much larger botanical experience
 - Aldabra (SC): vastly greater wild tortoise ecosystem
 - Longwood House (SH): stronger focused global historic association
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Longwood House (SH)](../../../countries/SH/sights/longwood-house.yaml) — 8.5/9.2/9.3/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.7, E -0.4, D -0.8.
+- [Oslo Opera House (NO)](../../../countries/NO/sights/oslo-opera-house.yaml) — 8.7/8.8/8.3/8.9/7.9; supplementary building-type numerical anchor. Subject minus peer: I -0.7, U +0.0, S +0.3, E -0.8, D -0.5.
+- [Margravial Opera House Bayreuth (DE)](../../../countries/DE/sights/bayreuth-opera.yaml) — 9.0/9.2/9.3/8.8/8.0; supplementary building-type numerical anchor. Subject minus peer: I -1.0, U -0.4, S -0.7, E -0.7, D -0.6.
+- [Guggenheim Museum Bilbao (ES)](../../../countries/ES/sights/guggenheim.yaml) — 9.2/9.4/9.1/9.0/8.8; supplementary building-type numerical anchor. Subject minus peer: I -1.2, U -0.6, S -0.5, E -0.9, D -1.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs Guggenheim Museum Bilbao 916.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -148,6 +200,19 @@
 - Green Mountain (SH): largely introduced forest, lower native ecological value
 - Piton de la Fournaise (RE): larger dramatic volcanic landscape
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Green Mountain National Park (Ascension Island) (SH)](../../../countries/SH/sights/green-mountain.yaml) — 8.7/8.8/8.4/8.5/8.2; existing named editorial peer. Subject minus peer: I +0.3, U +0.4, S +0.6, E +0.3, D +0.4.
+- [Piton de la Fournaise (RE)](../../../countries/RE/sights/piton-de-la-fournaise.yaml) — 9.5/9.3/9.2/9.0/9.0; existing named editorial peer. Subject minus peer: I -0.5, U -0.1, S -0.2, E -0.2, D -0.4.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -0.4, U +0.1, S +0.0, E -0.7, D -0.8.
+- [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.2, U +0.2, S +0.2, E +0.0, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 898.00 vs Piton de la Fournaise 926.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -180,6 +245,19 @@
 - Anakena (CL): different sandy and archaeological context
 - Etang-Salé (RE): comparable volcanic beach
 - Twelve Apostles (AU): larger distinctive erosional formations
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Reynisfjara black sand beach (IS)](../../../countries/IS/sights/reynisfjara.yaml) — 9.2/9.1/8.4/8.4/7.7; existing named editorial peer. Subject minus peer: I -0.6, U -0.8, S -0.7, E -0.5, D -0.2.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.9, U -0.9, S -0.3, E -1.4, D -1.3.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.8, U -1.0, S -1.4, E -1.2, D -1.4.
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8/9.9/9.7/9.8/9.6; supplementary lagoon-type numerical anchor. Subject minus peer: I -1.2, U -1.6, S -2.0, E -1.9, D -2.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 813.00 vs Ha Long Bay 978.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -214,6 +292,19 @@
 - National Museum of Singapore (SG): wider institutional scope
 - Museum of Saint Martin (MF): analogous focused island history
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing named editorial peer. Subject minus peer: I -0.5, U -0.3, S -0.2, E -0.5, D -1.1.
+- [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; existing named editorial peer. Subject minus peer: I -1.1, U -0.5, S -0.4, E -0.7, D -1.3.
+- [National Museum of Singapore (SG)](../../../countries/SG/sights/national-museum-of-singapore.yaml) — 8.5/8.5/8.7/8.7/8.6; existing named editorial peer. Subject minus peer: I -1.0, U -0.2, S -0.1, E -0.7, D -1.1.
+- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -1.3, U -0.8, S -0.7, E -1.1, D -1.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 799.50 vs National Museum of Cambodia 902.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -246,6 +337,19 @@
 - Madeira Laurisilva (PT): far larger native woodland
 - Mount Scenery (BQ): comparable island summit forest but different ecology
 - Haleakalā (US): broader elevation and volcanic diversity
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.6, E -0.3, D -0.4.
+- [Mount Scenery trail (Saba) (BQ)](../../../countries/BQ/sights/mount-scenery.yaml) — 8.9/9.0/8.7/8.8/8.4; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.3, D -0.2.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.8, U -0.9, S -1.1, E -0.7, D -1.2.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.8, U -1.0, S -1.4, E +0.5, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 858.50 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -280,6 +384,19 @@
 - Mon Repos (AU): comparable seasonal nesting interpretation
 - Grande Anse (RE): less specialized nesting visitor scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.8, U -0.4, S -0.1, E -0.6, D -1.0.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.7, U -0.2, S +0.2, E -0.5, D -0.7.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.5, U -0.1, S +0.2, E +0.0, D +0.2.
+- [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.0, U +0.3, S +0.7, E -0.2, D +0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 872.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -312,6 +429,19 @@
 - Piton des Neiges (RE): broader mountain landscape
 - Mount Teide (ES): more extensive interpreted volcanic terrain
 - Mount Scenery (BQ): smaller island summit climb
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Piton des Neiges (RE)](../../../countries/RE/sights/piton-des-neiges.yaml) — 9.1/8.7/8.7/8.8/8.4; existing named editorial peer. Subject minus peer: I -0.1, U +0.3, S -0.2, E -0.5, D -0.1.
+- [Mount Scenery trail (Saba) (BQ)](../../../countries/BQ/sights/mount-scenery.yaml) — 8.9/9.0/8.7/8.8/8.4; existing named editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.2, E -0.5, D -0.1.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -0.4, U -0.1, S -0.5, E -1.2, D -1.1.
+- [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.2, U +0.0, S -0.3, E -0.5, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 872.50 vs Hohe Tauern National Park 926.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -346,6 +476,19 @@
 - Piton de la Fournaise (RE): much broader active volcanic landscapes
 - Queen Mary's Peak (SH): longer and more varied ascent
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Piton de la Fournaise (RE)](../../../countries/RE/sights/piton-de-la-fournaise.yaml) — 9.5/9.3/9.2/9.0/9.0; existing named editorial peer. Subject minus peer: I -1.2, U -0.6, S -0.4, E -0.8, D -1.5.
+- [Queen Mary's Peak guided ascent (Tristan da Cunha) (SH)](../../../countries/SH/sights/queen-marys-peak.yaml) — 9.0/9.0/8.5/8.3/8.3; existing named editorial peer. Subject minus peer: I -0.7, U -0.3, S +0.3, E -0.1, D -0.8.
+- [Mount Etna World Heritage landscape (IT)](../../../countries/IT/sights/etna.yaml) — 9.5/9.4/9.4/9.0/9.3; supplementary volcanic-type numerical anchor. Subject minus peer: I -1.2, U -0.7, S -0.6, E -0.8, D -1.8.
+- [Hawaiʻi Volcanoes National Park (US)](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) — 9.2/9.5/9.5/8.9/9.0; supplementary volcanic-type numerical anchor. Subject minus peer: I -0.9, U -0.8, S -0.7, E -0.7, D -1.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 840.50 vs Mount Etna World Heritage landscape 936.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -378,6 +521,19 @@
 - Lavaux (CH): broader terraced cultural landscape
 - Port Howard farm landscape (FK): analogous remote agriculture
 - Edinburgh village (SH): complementary built community rather than farmland
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Lavaux Vineyard Terraces (CH)](../../../countries/CH/sights/lavaux.yaml) — 9.0/9.1/9.0/9.1/9.0; existing named editorial peer. Subject minus peer: I -1.1, U -0.3, S -0.8, E -1.3, D -1.9.
+- [Singapore Botanic Gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; supplementary garden-type numerical anchor. Subject minus peer: I -1.2, U -0.4, S -1.2, E -1.4, D -2.2.
+- [Jardin de Balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.7, U +0.6, S +0.5, E -1.0, D -1.2.
+- [Sir Seewoosagur Ramgoolam Botanical Garden (MU)](../../../countries/MU/sights/sir-seewoosagur-ramgoolam-botanical-garden.yaml) — 8.3/8.7/8.7/8.6/8.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.4, U +0.1, S -0.5, E -0.8, D -1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 809.00 vs Singapore Botanic Gardens 922.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -412,6 +568,19 @@
 - Salisbury Plain (GS): stronger large-colony landscape impact
 - Île Bonaventure (CA): more developed seabird viewing
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.4, E -0.5, D -0.6.
+- [Carcass Island (permitted wildlife walks) (FK)](../../../countries/FK/sights/carcass-island.yaml) — 8.8/8.8/8.9/8.7/8.7; existing named editorial peer. Subject minus peer: I +0.0, U +0.2, S +0.1, E -0.5, D -0.9.
+- [Salisbury Plain (authorized wildlife viewing) (GS)](../../../countries/GS/sights/salisbury-plain.yaml) — 9.4/9.3/9.2/9.1/8.7; existing named editorial peer. Subject minus peer: I -0.6, U -0.3, S -0.2, E -0.9, D -0.9.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.7, U -0.1, S +0.0, E -0.3, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 870.00 vs Salisbury Plain (authorized wildlife viewing) 922.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -444,6 +613,22 @@
 - Macquarie Island (AU): comparable remote seabird heritage
 - Galápagos (EC): more extensive established managed visitor network
 - South Sandwich Islands (GS): similarly incomplete ordinary visitor scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.3, S -0.1.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -0.4, S -0.4.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -0.5, S -0.5.
+- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U +0.4, S +0.4.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [South Sandwich Islands (closed protected island group) (GS)](../../../countries/GS/sights/south-sandwich-islands.yaml) — null/9.4/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S +0.0.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

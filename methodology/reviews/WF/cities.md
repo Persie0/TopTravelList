@@ -18,6 +18,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [city-pf-papeete](../../../countries/PF/cities/papeete.yaml) — far larger urban scope.
 - [city-as-fagatogo](../../../countries/AS/cities/fagatogo.yaml) — comparable civic harbor district.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Alofi (NU)](../../../countries/NU/cities/alofi.yaml) — 7.7/8.1/8.4/8.3/8.0; existing linked editorial peer. Subject minus peer: I +0.1, U +0.3, S +0.1, E -0.3, D -0.2.
+- [Avarua (Rarotonga) (CK)](../../../countries/CK/cities/avarua.yaml) — 7.8/8.0/8.3/8.5/8.2; existing linked editorial peer. Subject minus peer: I +0.0, U +0.4, S +0.2, E -0.5, D -0.4.
+- [Papeete (PF)](../../../countries/PF/cities/papeete.yaml) — 7.5/8.0/8.0/8.1/7.8; existing linked editorial peer. Subject minus peer: I +0.3, U +0.4, S +0.5, E -0.1, D +0.0.
+- [Fagatogo (AS)](../../../countries/AS/cities/fagatogo.yaml) — 7.6/8.1/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.0, E +0.0, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 812.00 vs Avarua (Rarotonga) 809.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [city-as-faleasao](../../../countries/AS/cities/faleasao.yaml) — comparable remote settlement.
 - [city-ck-arutanga](../../../countries/CK/cities/arutanga.yaml) — greater visitor services.
 - [city-nc-vao](../../../countries/NC/cities/vao.yaml) — similar local cultural scope.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Avatele (NU)](../../../countries/NU/cities/avatele.yaml) — 7.3/7.8/7.5/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.5, E -0.2, D +0.1.
+- [Faleasao (Taʻū) (AS)](../../../countries/AS/cities/faleasao.yaml) — 7.6/8.1/7.7/7.2/6.5; existing linked editorial peer. Subject minus peer: I -0.1, U -0.2, S +0.3, E +0.3, D +0.6.
+- [Arutanga (Aitutaki) (CK)](../../../countries/CK/cities/arutanga.yaml) — 7.5/7.9/8.2/8.0/7.4; existing linked editorial peer. Subject minus peer: I +0.0, U +0.0, S -0.2, E -0.5, D -0.3.
+- [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I +0.3, U +0.2, S +0.5, E +0.2, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 766.00 vs Arutanga (Aitutaki) 780.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [city-ck-oneroa](../../../countries/CK/cities/oneroa.yaml) — similar island settlement.
 - [city-nc-vao](../../../countries/NC/cities/vao.yaml) — more developed visitor scope.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Hakupu (NU)](../../../countries/NU/cities/hakupu.yaml) — 7.1/7.9/7.8/7.3/7.0; existing linked editorial peer. Subject minus peer: I +0.2, U -0.1, S +0.0, E +0.0, D +0.0.
+- [Olosega village (AS)](../../../countries/AS/cities/olosega.yaml) — 7.9/8.2/7.6/7.2/6.5; existing linked editorial peer. Subject minus peer: I -0.6, U -0.4, S +0.2, E +0.1, D +0.5.
+- [Oneroa (Mangaia) (CK)](../../../countries/CK/cities/oneroa.yaml) — 7.2/7.8/7.7/7.2/6.9; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S +0.1, E +0.1, D +0.1.
+- [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I +0.1, U +0.1, S +0.3, E +0.0, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 749.50 vs Olosega village 767.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [city-as-vatia](../../../countries/AS/cities/vatia.yaml) — more striking mountain setting.
 - [city-ck-oneroa](../../../countries/CK/cities/oneroa.yaml) — older raised island setting.
 - [city-nc-vao](../../../countries/NC/cities/vao.yaml) — greater established visitor facilities.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Hikutavake (NU)](../../../countries/NU/cities/hikutavake.yaml) — 7.2/7.8/7.5/7.5/6.9; existing linked editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.1, E -0.1, D +0.0.
+- [Vatia (AS)](../../../countries/AS/cities/vatia.yaml) — 8.0/8.0/7.7/7.5/6.8; existing linked editorial peer. Subject minus peer: I -0.8, U -0.4, S -0.3, E -0.1, D +0.1.
+- [Oneroa (Mangaia) (CK)](../../../countries/CK/cities/oneroa.yaml) — 7.2/7.8/7.7/7.2/6.9; existing linked editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.3, E +0.2, D +0.0.
+- [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I +0.0, U -0.1, S -0.1, E +0.1, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 734.00 vs Vatia 774.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

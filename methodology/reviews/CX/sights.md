@@ -18,6 +18,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - [Long Beach (SH)](../../../countries/SH/sights/long-beach.yaml) — 8.6/9.0/9.2/8.5/7.8; seasonal turtle nesting, less mass terrestrial movement
 - Serengeti migration (TZ): larger landscape and multi-species safari breadth; comparison qualitative, current YAML unavailable on branch
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; existing linked editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.2, E -0.1, D -0.2.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; existing linked editorial peer. Subject minus peer: I +0.3, U +0.5, S +0.5, E +0.0, D +0.1.
+- [Long Beach green turtle nesting reserve (Ascension) (SH)](../../../countries/SH/sights/long-beach.yaml) — 8.6/9.0/9.2/8.5/7.8; existing linked editorial peer. Subject minus peer: I +1.0, U +0.7, S +0.3, E +0.5, D +0.8.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +1.5, U +0.6, S +0.5, E +0.5, D +1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.6 vs St Andrews Bay (authorized wildlife viewing) 9.4; uniqueness 9.7 vs St Andrews Bay (authorized wildlife viewing) 9.4; significance 9.5 vs St Andrews Bay (authorized wildlife viewing) 9.3; wildlife category 9.7 vs St Andrews Bay (authorized wildlife viewing) 9.4; nature category 9.6 vs St Andrews Bay (authorized wildlife viewing) 9.4; photography category 9.6 vs St Andrews Bay (authorized wildlife viewing) 9.4; overall 941.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - Morne Trois Pitons (DM): larger volcanic forest landscape
 - Madeira Laurisilva (PT): broader native forest extent
 - Norfolk Island National Park (NF): larger trail network but different freshwater habitat
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S +0.1, E -0.4, D -0.1.
+- [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing named editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.3, E -0.2, D +0.1.
+- [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; supplementary trail-type numerical anchor. Subject minus peer: I +0.2, U +0.6, S +2.4, E -0.3, D +1.0.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary trail-type numerical anchor. Subject minus peer: I -0.2, U +0.0, S +0.6, E -0.6, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 885.00 vs Peaks National Park (Diana's Peak trails) 898.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - Down Rope (PN): stronger rock-art heritage
 - Anse Source d'Argent (SC): more distinctive granite formations
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Anse Cocos (SC)](../../../countries/SC/sights/anse-cocos.yaml) — 9.1/8.8/6.4/8.5/7.4; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S +2.1, E -0.4, D +0.2.
+- [Long Beach green turtle nesting reserve (Ascension) (SH)](../../../countries/SH/sights/long-beach.yaml) — 8.6/9.0/9.2/8.5/7.8; existing named editorial peer. Subject minus peer: I +0.2, U -0.4, S -0.7, E -0.4, D -0.2.
+- [Down Rope beach and Polynesian petroglyphs (PN)](../../../countries/PN/sights/down-rope.yaml) — 8.7/8.8/8.7/7.8/7.5; existing named editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.2, E +0.3, D +0.1.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; existing named editorial peer. Subject minus peer: I -1.0, U -1.1, S +0.7, E -1.1, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 846.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - Pancake Rocks (NZ): more extensive distinctive strata
 - Boca Pistol (CW): comparable coastal spray
 - Captain Cook Lookout (NF): longer coastal walk
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.3, E -0.4, D -0.6.
+- [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -0.8, U -0.9, S -1.1, E -0.9, D -1.0.
+- [Tojinbo Cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; supplementary coast-type numerical anchor. Subject minus peer: I +0.0, U -0.7, S -0.5, E -0.7, D -0.8.
+- [Durdle Door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; supplementary coast-type numerical anchor. Subject minus peer: I -0.3, U -0.7, S -0.8, E -0.6, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 811.50 vs Cliffs of Moher 903.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - Captain Cook Lookout (NF): comparable coastal viewpoint
 - Peaks National Park (SH): wider endemic forest interpretation
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.5, U -0.5, S +0.0, E -0.5, D -1.1.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.7, U -0.7, S -0.4, E -0.8, D -1.2.
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing named editorial peer. Subject minus peer: I -0.3, U +0.2, S +0.7, E -0.3, D -0.5.
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.7, S -0.4, E -0.6, D -1.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.50 vs Volunteer Point (permitted wildlife viewing) 909.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - Pigeon Islets (GP): broader guided marine experience
 - Bonaire Marine Park (BQ): much more extensive dive network
 - Aitutaki (CK): larger lagoon scenery
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing named editorial peer. Subject minus peer: I -0.2, U +0.4, S +0.6, E +0.6, D +0.5.
+- [Pigeon Islets (Cousteau Reserve) (GP)](../../../countries/GP/sights/pigeon-islets-cousteau.yaml) — 9.0/8.8/8.8/9.1/8.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.3, S -0.3, E -0.5, D -0.5.
+- [Bonaire National Marine Park (permitted dive sites) (BQ)](../../../countries/BQ/sights/bonaire-marine-park.yaml) — 8.5/8.9/9.0/9.0/9.2; existing named editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.5, E -0.4, D -1.1.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.2, U -1.2, S +0.7, E -0.6, D +0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 850.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - St Paul's Pool (PN): smaller rock pool
 - Anse Cocos (SC): stronger secluded beach experience
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Dolly Beach (CX)](../../../countries/CX/sights/dolly-beach.yaml) — 8.8/8.6/8.5/8.1/7.6; existing named editorial peer. Subject minus peer: I -0.5, U -0.6, S -0.8, E -0.2, D -0.2.
+- [Anson Bay Reserve (NF)](../../../countries/NF/sights/anson-bay.yaml) — 8.6/7.9/7.2/7.8/7.1; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S +0.5, E +0.1, D +0.3.
+- [St Paul's Pool (PN)](../../../countries/PN/sights/st-pauls-pool.yaml) — 8.5/8.2/7.1/8.0/6.9; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.6, E -0.1, D +0.5.
+- [Anse Cocos (SC)](../../../countries/SC/sights/anse-cocos.yaml) — 9.1/8.8/6.4/8.5/7.4; existing named editorial peer. Subject minus peer: I -0.8, U -0.8, S +1.3, E -0.6, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 795.50 vs Dolly Beach 846.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - St Paul's Pool (PN): comparable coastal pool
 - Natural Pool (AW): different exposed rock basin
 - Dos Ojos (MX): far larger cave system
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Paul's Pool (PN)](../../../countries/PN/sights/st-pauls-pool.yaml) — 8.5/8.2/7.1/8.0/6.9; existing named editorial peer. Subject minus peer: I -0.2, U +0.0, S +0.2, E -0.2, D -0.1.
+- [Postojna Cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) — 9.4/9.3/9.1/9.3/9.0; supplementary cave-type numerical anchor. Subject minus peer: I -1.1, U -1.1, S -1.8, E -1.5, D -2.2.
+- [Son Doong Cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; supplementary cave-type numerical anchor. Subject minus peer: I -1.6, U -1.7, S -2.3, E -1.2, D -2.4.
+- [Blue Cave, Biševo (HR)](../../../countries/HR/sights/blue-cave.yaml) — 8.9/9.1/8.4/8.6/6.5; supplementary cave-type numerical anchor. Subject minus peer: I -0.6, U -0.9, S -1.1, E -0.8, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 785.00 vs Son Doong Cave 963.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - Pitcairn Island Museum (PN): similarly focused island heritage
 - Historic Dockyard Museum (FK): broader maritime exhibits
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing named editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.2, E -0.4, D -0.5.
+- [Longwood House (SH)](../../../countries/SH/sights/longwood-house.yaml) — 8.5/9.2/9.3/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.6, U -0.9, S -0.8, E -0.5, D -0.7.
+- [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing named editorial peer. Subject minus peer: I +0.5, U -0.5, S -0.3, E +0.0, D +0.1.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.3, E -0.5, D -1.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 809.50 vs Longwood House 880.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -315,6 +432,22 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - Kingston (NF): stronger intact heritage fabric
 - Tai Jin House (CX): more structured museum interpretation
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; existing named editorial peer. Subject minus peer: I -1.1, U -0.9, S -1.0, E -1.1, D -1.4.
+- [Tai Jin House Museum (CX)](../../../countries/CX/sights/tai-jin-house.yaml) — 7.9/8.3/8.5/8.0/7.5; existing named editorial peer. Subject minus peer: I -0.1, U +0.1, S -0.1, E -0.2, D -0.1.
+- [Historic Centre of Oporto, Luiz I Bridge and Serra do Pilar Monastery (PT)](../../../countries/PT/sights/porto-historic-centre.yaml) — 9.3/9.2/9.2/9.3/9.2; supplementary historic-type numerical anchor. Subject minus peer: I -1.5, U -0.8, S -0.8, E -1.5, D -1.8.
+- [Hoi An Ancient Town (VN)](../../../countries/VN/sights/hoi-an-ancient-town.yaml) — 9.3/9.5/9.3/9.5/9.2; supplementary historic-type numerical anchor. Subject minus peer: I -1.5, U -1.1, S -0.9, E -1.7, D -1.8.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Pyramiden historic mining settlement (SJ)](../../../countries/SJ/sights/pyramiden.yaml) — 8.7/9.2/8.6/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: I -0.9, U -0.8, S -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 803.00 vs Hoi An Ancient Town 937.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -347,6 +480,22 @@ Scores concern long-term documented visitor experiences, not guaranteed access o
 - Anson Bay (NF): public viewpoint and trail
 - Down Rope (PN): guide-only but documented access
 - Phillip Island (NF): similarly incomplete visitor scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Dolly Beach (CX)](../../../countries/CX/sights/dolly-beach.yaml) — 8.8/8.6/8.5/8.1/7.6; existing named editorial peer. Subject minus peer: U -0.6, S -1.0.
+- [Anson Bay Reserve (NF)](../../../countries/NF/sights/anson-bay.yaml) — 8.6/7.9/7.2/7.8/7.1; existing named editorial peer. Subject minus peer: U +0.1, S +0.3.
+- [Down Rope beach and Polynesian petroglyphs (PN)](../../../countries/PN/sights/down-rope.yaml) — 8.7/8.8/8.7/7.8/7.5; existing named editorial peer. Subject minus peer: U -0.8, S -1.2.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: U -1.7, S -0.3.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Phillip Island (restricted visitor scope) (NF)](../../../countries/NF/sights/phillip-island.yaml) — null/8.9/9.0/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.9, S -1.5.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

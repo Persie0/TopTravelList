@@ -18,6 +18,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-mp-house-of-taga](../../../countries/MP/sights/house-of-taga.yaml) — more focused megalithic remains.
 - [sight-nf-kingston-arthurs-vale](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — broader historic precinct.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Taputapuātea (Raiatea) (PF)](../../../countries/PF/sights/taputapuatea.yaml) — 8.8/9.3/9.4/8.6/8.5; existing linked editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.2, E -0.4, D -0.2.
+- [Arai-te-Tonga marae and royal court (Rarotonga) (CK)](../../../countries/CK/sights/arai-te-tonga.yaml) — 7.9/8.8/9.0/7.8/7.6; existing linked editorial peer. Subject minus peer: I +0.6, U +0.2, S +0.2, E +0.4, D +0.7.
+- [House of Taga (Tinian) (MP)](../../../countries/MP/sights/house-of-taga.yaml) — 8.0/8.8/9.0/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.5, U +0.2, S +0.2, E +0.2, D +0.8.
+- [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.0, E -0.6, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 870.00 vs Taputapuātea (Raiatea) 898.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-nu-matapa-chasm](../../../countries/NU/sights/matapa-chasm.yaml) — narrower coastal gorge.
 - [sight-nc-hienghene-rocks](../../../countries/NC/sights/hienghene-rocks.yaml) — larger scenic formations.
 - [sight-ck-vai-nauri](../../../countries/CK/sights/vai-nauri.yaml) — smaller underground pool.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Aunuʻu crater and Faʻamulivai Marsh (AS)](../../../countries/AS/sights/aunuu-crater.yaml) — 8.4/8.8/8.7/8.0/7.7; existing linked editorial peer. Subject minus peer: I +0.7, U +0.0, S -0.4, E +0.3, D +0.1.
+- [Matapa Chasm (NU)](../../../countries/NU/sights/matapa-chasm.yaml) — 8.9/8.7/8.5/8.7/7.9; existing linked editorial peer. Subject minus peer: I +0.2, U +0.1, S -0.2, E -0.4, D -0.1.
+- [Hienghène Rock Formations (La Poule and Lindéralique) (NC)](../../../countries/NC/sights/hienghene-rocks.yaml) — 9.0/9.0/8.2/8.7/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S +0.1, E -0.4, D -0.4.
+- [Vai Nauri cave pool (Mitiaro) (CK)](../../../countries/CK/sights/vai-nauri.yaml) — 8.6/8.7/7.9/8.1/7.3; existing linked editorial peer. Subject minus peer: I +0.5, U +0.1, S +0.4, E +0.2, D +0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.50 vs Hienghène Rock Formations (La Poule and Lindéralique) 871.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-nc-poe-lagoon](../../../countries/NC/sights/poe-lagoon.yaml) — smaller lagoon sector.
 - [sight-cc-southern-lagoon-canoe](../../../countries/CC/sights/southern-lagoon-canoe.yaml) — more focused canoe experience.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Aitutaki Lagoon and permitted motu cruise circuit (CK)](../../../countries/CK/sights/aitutaki-lagoon.yaml) — 9.4/9.1/8.6/9.3/9.0; existing linked editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.2, E -0.5, D -0.3.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; existing linked editorial peer. Subject minus peer: I -0.4, U -0.6, S +0.4, E -0.5, D -0.1.
+- [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing linked editorial peer. Subject minus peer: I +0.1, U -0.1, S -0.4, E -0.2, D +0.2.
+- [Southern atoll lagoon and guided island canoe circuit (CC)](../../../countries/CC/sights/southern-lagoon-canoe.yaml) — 8.9/8.6/8.5/8.7/8.4; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S -0.1, E +0.1, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 875.00 vs Aitutaki Lagoon and permitted motu cruise circuit 911.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-nf-st-barnabas-chapel](../../../countries/NF/sights/st-barnabas-chapel.yaml) — distinct decorated interior.
 - [sight-gu-hagatna-heritage-trail](../../../countries/GU/sights/hagatna-heritage-trail.yaml) — broader civic precinct.
 - [sight-mp-house-of-taga](../../../countries/MP/sights/house-of-taga.yaml) — older archaeological rather than church fabric.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Arutanga Cook Islands Christian Church (CK)](../../../countries/CK/sights/arutanga-cicc.yaml) — 7.9/8.4/8.7/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.4, U +0.0, S +0.0, E +0.0, D +0.5.
+- [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing linked editorial peer. Subject minus peer: I +0.1, U +0.1, S +0.2, E -0.1, D +0.5.
+- [Hagåtña heritage walking trail (Plaza de España and Latte Stone Park) (GU)](../../../countries/GU/sights/hagatna-heritage-trail.yaml) — 8.0/8.6/8.8/8.3/8.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.2, S -0.1, E -0.3, D -0.8.
+- [House of Taga (Tinian) (MP)](../../../countries/MP/sights/house-of-taga.yaml) — 8.0/8.8/9.0/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.4, S -0.3, E +0.0, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 830.00 vs Hagåtña heritage walking trail (Plaza de España and Latte Stone Park) 840.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-nf-captain-cook-lookout](../../../countries/NF/sights/captain-cook-lookout.yaml) — longer coastal route.
 - [sight-nu-hikutavake-sea-track](../../../countries/NU/sights/hikutavake-sea-track.yaml) — more focused coastal view.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mount ʻAlava and Fatifati Auala trail network (AS)](../../../countries/AS/sights/mount-alava.yaml) — 8.9/8.5/8.5/8.6/8.7; existing linked editorial peer. Subject minus peer: I -0.7, U -0.8, S -1.0, E -0.6, D -1.4.
+- [Mount Tapochau viewpoint (MP)](../../../countries/MP/sights/tapochau.yaml) — 8.7/8.0/7.6/8.1/7.2; existing linked editorial peer. Subject minus peer: I -0.5, U -0.3, S -0.1, E -0.1, D +0.1.
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.7, U -0.6, S -0.4, E -0.5, D -0.5.
+- [Hikutavake Sea Track and reef outlook (NU)](../../../countries/NU/sights/hikutavake-sea-track.yaml) — 8.3/8.0/7.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.3, E +0.0, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 781.50 vs Mount ʻAlava and Fatifati Auala trail network 865.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-nu-avaiki-cave](../../../countries/NU/sights/avaiki-cave.yaml) — stronger natural visual impact.
 - [sight-nf-st-barnabas-chapel](../../../countries/NF/sights/st-barnabas-chapel.yaml) — greater architectural detail.
 - [sight-mp-tapochau](../../../countries/MP/sights/tapochau.yaml) — broader panoramic summit.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Arutanga Cook Islands Christian Church (CK)](../../../countries/CK/sights/arutanga-cicc.yaml) — 7.9/8.4/8.7/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.0, U -0.3, S -0.5, E -0.3, D +0.2.
+- [Avaiki Cave and coastal pool (NU)](../../../countries/NU/sights/avaiki-cave.yaml) — 8.9/8.9/8.8/8.4/8.0; existing linked editorial peer. Subject minus peer: I -1.0, U -0.8, S -0.6, E -0.7, D -0.6.
+- [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing linked editorial peer. Subject minus peer: I -0.3, U -0.2, S -0.3, E -0.4, D +0.2.
+- [Mount Tapochau viewpoint (MP)](../../../countries/MP/sights/tapochau.yaml) — 8.7/8.0/7.6/8.1/7.2; existing linked editorial peer. Subject minus peer: I -0.8, U +0.1, S +0.6, E -0.4, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 793.00 vs Avaiki Cave and coastal pool 871.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-as-haydon-museum](../../../countries/AS/sights/haydon-museum.yaml) — broader local cultural collection.
 - [sight-nf-norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) — more extensive historic buildings.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [War in the Pacific National Historical Park (public heritage units) (GU)](../../../countries/GU/sights/war-in-the-pacific.yaml) — 8.3/8.8/9.3/8.6/8.7; existing linked editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.5, E -0.3, D -0.4.
+- [American Memorial Park (Saipan) (MP)](../../../countries/MP/sights/american-memorial-park.yaml) — 7.8/8.3/9.0/8.4/8.1; existing linked editorial peer. Subject minus peer: I +0.0, U +0.1, S -0.2, E -0.1, D +0.2.
+- [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.3, U +0.0, S +0.1, E +0.2, D +0.6.
+- [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I +0.0, U -0.1, S +0.1, E -0.1, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs War in the Pacific National Historical Park (public heritage units) 871.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-ck-anatakitaki-cave](../../../countries/CK/sights/anatakitaki-cave.yaml) — greater endemic cave fauna.
 - [sight-as-ofu-beach](../../../countries/AS/sights/ofu-beach.yaml) — greater mountain-reef setting.
 - [sight-nc-blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) — more developed extensive trails.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Togo Chasm and limestone pinnacles (NU)](../../../countries/NU/sights/togo-chasm.yaml) — 9.1/9.2/8.2/8.5/8.3; existing linked editorial peer. Subject minus peer: I -0.2, U -0.3, S +0.6, E -0.3, D +0.3.
+- [Anatakitaki Cave and kopeka habitat (Atiu) (CK)](../../../countries/CK/sights/anatakitaki-cave.yaml) — 8.8/9.3/8.9/8.5/8.4; existing linked editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.1, E -0.3, D +0.2.
+- [Ofu Beach and fringing reef (AS)](../../../countries/AS/sights/ofu-beach.yaml) — 9.3/8.9/8.9/8.8/8.3; existing linked editorial peer. Subject minus peer: I -0.4, U +0.0, S -0.1, E -0.6, D +0.3.
+- [Blue River Provincial Park (NC)](../../../countries/NC/sights/blue-river-park.yaml) — 8.9/9.1/9.1/8.7/8.9; existing linked editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.3, E -0.5, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 874.50 vs Blue River Provincial Park 896.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-pf-taputapuatea](../../../countries/PF/sights/taputapuatea.yaml) — broader international ceremonial landscape.
 - [sight-gu-hagatna-heritage-trail](../../../countries/GU/sights/hagatna-heritage-trail.yaml) — more varied urban heritage.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Arutanga Cook Islands Christian Church (CK)](../../../countries/CK/sights/arutanga-cicc.yaml) — 7.9/8.4/8.7/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.8, U +0.2, S +0.3, E +0.3, D +0.9.
+- [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing linked editorial peer. Subject minus peer: I +0.5, U +0.3, S +0.5, E +0.2, D +0.9.
+- [Taputapuātea (Raiatea) (PF)](../../../countries/PF/sights/taputapuatea.yaml) — 8.8/9.3/9.4/8.6/8.5; existing linked editorial peer. Subject minus peer: I -0.1, U -0.7, S -0.4, E -0.3, D -0.4.
+- [Hagåtña heritage walking trail (Plaza de España and Latte Stone Park) (GU)](../../../countries/GU/sights/hagatna-heritage-trail.yaml) — 8.0/8.6/8.8/8.3/8.5; existing linked editorial peer. Subject minus peer: I +0.7, U +0.0, S +0.2, E +0.0, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.50 vs Taputapuātea (Raiatea) 898.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-ck-cross-island-trek](../../../countries/CK/sights/cross-island-trek.yaml) — distinctive pinnacle and route.
 - [sight-nu-huvalu-forest](../../../countries/NU/sights/huvalu-forest.yaml) — greater conservation emphasis.
 - [sight-pf-opunohu-belvedere](../../../countries/PF/sights/opunohu-belvedere.yaml) — more spectacular twin-bay vista.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Tumu Mountain Trail (Ofu) (AS)](../../../countries/AS/sights/tumu-mountain.yaml) — 8.9/8.4/8.0/8.0/7.7; existing linked editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.0, E +0.1, D +0.7.
+- [Te Rua Manga (The Needle) and Cross Island Trek (CK)](../../../countries/CK/sights/cross-island-trek.yaml) — 8.9/8.6/8.1/8.6/8.4; existing linked editorial peer. Subject minus peer: I -0.2, U -0.4, S -0.1, E -0.5, D +0.0.
+- [Huvalu Forest Conservation Area (permitted forest routes) (NU)](../../../countries/NU/sights/huvalu-forest.yaml) — 8.4/8.6/8.9/8.2/8.6; existing linked editorial peer. Subject minus peer: I +0.3, U -0.4, S -0.9, E -0.1, D -0.2.
+- [Belvédère d'Opunohu (PF)](../../../countries/PF/sights/opunohu-belvedere.yaml) — 8.8/8.1/6.8/8.2/7.1; existing linked editorial peer. Subject minus peer: I -0.1, U +0.1, S +1.2, E -0.1, D +1.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 831.50 vs Te Rua Manga (The Needle) and Cross Island Trek 857.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -348,6 +478,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-nf-captain-cook-lookout](../../../countries/NF/sights/captain-cook-lookout.yaml) — longer coastal route.
 - [sight-as-pola-sauma](../../../countries/AS/sights/pola-sauma.yaml) — more dramatic ridge.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bird Island Overlook (Saipan) (MP)](../../../countries/MP/sights/bird-island.yaml) — 8.8/8.4/8.4/8.3/7.4; existing linked editorial peer. Subject minus peer: I -0.2, U -0.4, S -0.7, E -0.2, D -0.4.
+- [Puntan Dos Amantes (Two Lovers Point) (GU)](../../../countries/GU/sights/two-lovers-point.yaml) — 8.9/8.2/7.8/8.5/7.2; existing linked editorial peer. Subject minus peer: I -0.3, U -0.2, S -0.1, E -0.4, D -0.2.
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.2, E -0.4, D -0.8.
+- [Pola Island coastal viewpoint and Sauma Ridge (AS)](../../../countries/AS/sights/pola-sauma.yaml) — 9.0/8.7/8.6/8.5/7.9; existing linked editorial peer. Subject minus peer: I -0.4, U -0.7, S -0.9, E -0.4, D -0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 803.50 vs Pola Island coastal viewpoint and Sauma Ridge 866.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -380,6 +523,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-nc-tjibaou-cultural-centre](../../../countries/NC/sights/tjibaou-cultural-centre.yaml) — more formal cultural interpretation.
 - [sight-pf-taputapuatea](../../../countries/PF/sights/taputapuatea.yaml) — greater international heritage significance.
 - [sight-ck-arai-te-tonga](../../../countries/CK/sights/arai-te-tonga.yaml) — more focused ceremonial landscape.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Manihiki lagoon and black-pearl farming landscape (CK)](../../../countries/CK/sights/manihiki-lagoon.yaml) — 8.8/9.0/8.7/8.0/8.4; existing linked editorial peer. Subject minus peer: I -0.8, U -0.5, S -0.2, E -0.4, D -0.7.
+- [Tjibaou Cultural Centre (NC)](../../../countries/NC/sights/tjibaou-cultural-centre.yaml) — 8.7/9.1/8.8/8.7/8.6; existing linked editorial peer. Subject minus peer: I -0.7, U -0.6, S -0.3, E -1.1, D -0.9.
+- [Taputapuātea (Raiatea) (PF)](../../../countries/PF/sights/taputapuatea.yaml) — 8.8/9.3/9.4/8.6/8.5; existing linked editorial peer. Subject minus peer: I -0.8, U -0.8, S -0.9, E -1.0, D -0.8.
+- [Arai-te-Tonga marae and royal court (Rarotonga) (CK)](../../../countries/CK/sights/arai-te-tonga.yaml) — 7.9/8.8/9.0/7.8/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U -0.3, S -0.5, E -0.2, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 813.50 vs Taputapuātea (Raiatea) 898.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -414,6 +570,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-pn-john-adams-grave](../../../countries/PN/sights/john-adams-grave.yaml) — more specifically documented memorial.
 - [sight-mp-house-of-taga](../../../countries/MP/sights/house-of-taga.yaml) — more substantial physical remains.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Taputapuātea (Raiatea) (PF)](../../../countries/PF/sights/taputapuatea.yaml) — 8.8/9.3/9.4/8.6/8.5; existing linked editorial peer. Subject minus peer: U -0.6, S -0.6.
+- [Arai-te-Tonga marae and royal court (Rarotonga) (CK)](../../../countries/CK/sights/arai-te-tonga.yaml) — 7.9/8.8/9.0/7.8/7.6; existing linked editorial peer. Subject minus peer: U -0.1, S -0.2.
+- [John Adams' grave (PN)](../../../countries/PN/sights/john-adams-grave.yaml) — 6.8/8.0/8.3/7.2/6.0; existing linked editorial peer. Subject minus peer: U +0.7, S +0.5.
+- [House of Taga (Tinian) (MP)](../../../countries/MP/sights/house-of-taga.yaml) — 8.0/8.8/9.0/8.0/7.5; existing linked editorial peer. Subject minus peer: U -0.1, S -0.2.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -446,6 +615,19 @@ Source text and search excerpts inspected 2026-11-26. [INSEE 2023 village census
 - [sight-nf-st-barnabas-chapel](../../../countries/NF/sights/st-barnabas-chapel.yaml) — more distinctive interior.
 - [sight-gu-fort-soledad](../../../countries/GU/sights/fort-soledad.yaml) — different historic structure.
 - [sight-mp-house-of-taga](../../../countries/MP/sights/house-of-taga.yaml) — more unique archaeological fabric.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Arutanga Cook Islands Christian Church (CK)](../../../countries/CK/sights/arutanga-cicc.yaml) — 7.9/8.4/8.7/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.1, U -0.3, S -0.5, E -0.3, D +0.0.
+- [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing linked editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.4, D +0.0.
+- [Fort Nuestra Señora de la Soledad (GU)](../../../countries/GU/sights/fort-soledad.yaml) — 8.3/8.1/8.4/7.9/7.0; existing linked editorial peer. Subject minus peer: I -0.3, U +0.0, S -0.2, E -0.2, D +0.2.
+- [House of Taga (Tinian) (MP)](../../../countries/MP/sights/house-of-taga.yaml) — 8.0/8.8/9.0/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.0, U -0.7, S -0.8, E -0.3, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 794.00 vs House of Taga (Tinian) 835.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

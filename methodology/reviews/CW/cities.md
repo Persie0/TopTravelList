@@ -18,6 +18,19 @@ City scope excludes trips beyond the settlement; individual historic property an
 - Cartagena (CO): more extensive monumental fortifications
 - Gustavia (BL): much smaller historic harbour
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) — 7.7/8.4/8.5/8.2/8.4; existing named editorial peer. Subject minus peer: I +1.1, U +0.6, S +0.5, E +0.7, D +0.4.
+- [Paramaribo (SR)](../../../countries/SR/cities/paramaribo.yaml) — 8.3/8.6/8.5/8.4/8.3; existing named editorial peer. Subject minus peer: I +0.5, U +0.4, S +0.5, E +0.5, D +0.5.
+- [Cartagena (CO)](../../../countries/CO/cities/cartagena.yaml) — 9.2/9.1/9.3/8.8/9.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S -0.3, E +0.1, D -0.2.
+- [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I +0.8, U +0.9, S +0.9, E +0.5, D +1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 890.50 vs Cartagena 911.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ City scope excludes trips beyond the settlement; individual historic property an
 - Grand Case (MF): greater culinary depth
 - Deshaies (GP): more developed harbour town
 - Willemstad (CW): much greater urban scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Corossol (BL)](../../../countries/BL/cities/corossol.yaml) — 7.6/8.0/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.4, E +0.2, D +0.0.
+- [Grand Case (MF)](../../../countries/MF/cities/grand-case.yaml) — 7.8/8.1/7.5/8.5/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.5, E -0.8, D -0.5.
+- [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.4, U +0.1, S +0.1, E -0.3, D -0.3.
+- [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -1.3, U -1.2, S -2.0, E -1.2, D -2.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 743.50 vs Willemstad 890.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

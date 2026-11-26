@@ -18,6 +18,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Dolly Beach (CX): more distinctive forest and turtle habitat
 - Matira Beach (PF): comparable tropical lagoon beach
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; existing named editorial peer. Subject minus peer: I -0.7, U -1.1, S +0.2, E -0.5, D +0.5.
+- [Aitutaki Lagoon and permitted motu cruise circuit (CK)](../../../countries/CK/sights/aitutaki-lagoon.yaml) — 9.4/9.1/8.6/9.3/9.0; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.6, E -0.6, D -0.9.
+- [Dolly Beach (CX)](../../../countries/CX/sights/dolly-beach.yaml) — 8.8/8.6/8.5/8.1/7.6; existing named editorial peer. Subject minus peer: I +0.3, U +0.0, S -0.5, E +0.6, D +0.5.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; existing named editorial peer. Subject minus peer: I +0.5, U +0.8, S +1.6, E +0.0, D +1.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 859.50 vs Aitutaki Lagoon and permitted motu cruise circuit 911.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Pigeon Islets (GP): broader dive and snorkel scope
 - Bonaire Marine Park (BQ): far larger dive network
 - Emily and Slaughter Bays (NF): gentler lagoon scope and documented reef stress
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Flying Fish Cove beach and shore reef (CX)](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — 8.6/8.5/8.5/8.6/8.1; existing named editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.2, E -0.2, D -0.5.
+- [Pigeon Islets (Cousteau Reserve) (GP)](../../../countries/GP/sights/pigeon-islets-cousteau.yaml) — 9.0/8.8/8.8/9.1/8.6; existing named editorial peer. Subject minus peer: I -0.2, U +0.0, S -0.1, E -0.7, D -1.0.
+- [Bonaire National Marine Park (permitted dive sites) (BQ)](../../../countries/BQ/sights/bonaire-marine-park.yaml) — 8.5/8.9/9.0/9.0/9.2; existing named editorial peer. Subject minus peer: I +0.3, U -0.1, S -0.3, E -0.6, D -1.6.
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing named editorial peer. Subject minus peer: I +0.0, U +0.7, S +0.8, E +0.4, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 860.00 vs Pigeon Islets (Cousteau Reserve) 888.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Tetiaroa (PF): similar managed atoll landscape
 - Flying Fish Cove reef (CX): narrower shore-based experience
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Aitutaki Lagoon and permitted motu cruise circuit (CK)](../../../countries/CK/sights/aitutaki-lagoon.yaml) — 9.4/9.1/8.6/9.3/9.0; existing named editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.1, E -0.6, D -0.6.
+- [Lan Ha Bay (VN)](../../../countries/VN/sights/lan-ha-bay.yaml) — 9.4/9.5/8.7/9.4/9.0; existing named editorial peer. Subject minus peer: I -0.5, U -0.9, S -0.2, E -0.7, D -0.6.
+- [Flying Fish Cove beach and shore reef (CX)](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — 8.6/8.5/8.5/8.6/8.1; existing named editorial peer. Subject minus peer: I +0.3, U +0.1, S +0.0, E +0.1, D +0.3.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.6, U -0.6, S +0.5, E -0.6, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 866.50 vs Lan Ha Bay 924.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Plantation House (SH): comparable colonial residence
 - St Barnabas Chapel (NF): different focused historic architecture
 - Tai Jin House (CX): similarly scoped former administrative residence
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Longwood House (SH)](../../../countries/SH/sights/longwood-house.yaml) — 8.5/9.2/9.3/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.7, U -0.6, S -0.6, E -0.4, D -0.7.
+- [Plantation House and tortoise grounds (SH)](../../../countries/SH/sights/plantation-house.yaml) — 8.0/8.8/8.6/8.1/7.4; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.1, E +0.0, D +0.1.
+- [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing named editorial peer. Subject minus peer: I -0.4, U +0.3, S +0.2, E +0.0, D +0.3.
+- [Tai Jin House Museum (CX)](../../../countries/CX/sights/tai-jin-house.yaml) — 7.9/8.3/8.5/8.0/7.5; existing named editorial peer. Subject minus peer: I -0.1, U +0.3, S +0.2, E +0.1, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 819.50 vs Longwood House 880.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Norfolk Island Museum (NF): broader multi-building scope
 - Historic Dockyard Museum (FK): greater maritime interpretation
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.3, E -0.2, D -0.2.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; existing named editorial peer. Subject minus peer: I -0.4, U +0.1, S -0.1, E -0.2, D -0.3.
+- [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing named editorial peer. Subject minus peer: I -0.7, U -0.1, S -0.2, E -0.6, D -0.8.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing named editorial peer. Subject minus peer: I -0.9, U -0.2, S -0.3, E -0.7, D -1.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 782.00 vs Historic Dockyard Museum (Stanley) 844.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Emily and Slaughter Bays (NF): wider beach circuit
 - Flying Fish Cove reef (CX): more dramatic island setting
 - Anse Cocos (SC): different forest-framed shore
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [The Rip (Direction Island drift snorkel) (CC)](../../../countries/CC/sights/the-rip.yaml) — 8.8/8.8/8.7/8.4/7.6; existing named editorial peer. Subject minus peer: I -0.5, U -0.8, S -0.6, E -0.2, D -0.3.
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing named editorial peer. Subject minus peer: I -0.5, U -0.1, S +0.2, E +0.2, D -0.3.
+- [Flying Fish Cove beach and shore reef (CX)](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — 8.6/8.5/8.5/8.6/8.1; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.4, E -0.4, D -0.8.
+- [Anse Cocos (SC)](../../../countries/SC/sights/anse-cocos.yaml) — 9.1/8.8/6.4/8.5/7.4; existing named editorial peer. Subject minus peer: I -0.8, U -0.8, S +1.7, E -0.3, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 807.00 vs The Rip (Direction Island drift snorkel) 860.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Pigeon Islets (GP): more extensive marine excursion
 - Direction Island (CC): broader beach and heritage scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Paul's Pool (PN)](../../../countries/PN/sights/st-pauls-pool.yaml) — 8.5/8.2/7.1/8.0/6.9; existing named editorial peer. Subject minus peer: I +0.0, U +0.2, S +0.9, E +0.4, D +0.8.
+- [Trannies Beach and shore reef (CC)](../../../countries/CC/sights/trannies-beach.yaml) — 8.3/8.0/8.1/8.2/7.3; existing named editorial peer. Subject minus peer: I +0.2, U +0.4, S -0.1, E +0.2, D +0.4.
+- [Pigeon Islets (Cousteau Reserve) (GP)](../../../countries/GP/sights/pigeon-islets-cousteau.yaml) — 9.0/8.8/8.8/9.1/8.6; existing named editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.8, E -0.7, D -0.9.
+- [Direction Island (Cossie's Beach and heritage trail) (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; existing named editorial peer. Subject minus peer: I -0.6, U -0.2, S +0.0, E -0.3, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 828.00 vs Pigeon Islets (Cousteau Reserve) 888.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Aitutaki lagoon (CK): broader lagoon recreation
 - Bonaire Lac Bay (BQ): comparable shallow wind-sport venue
 - Scout Park (CC): complementary tide-dependent walk
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Aitutaki Lagoon and permitted motu cruise circuit (CK)](../../../countries/CK/sights/aitutaki-lagoon.yaml) — 9.4/9.1/8.6/9.3/9.0; existing named editorial peer. Subject minus peer: I -1.0, U -1.1, S -1.1, E -0.7, D -1.5.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.4, U -1.7, S -0.3, E -0.6, D -0.1.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I -0.2, U +0.2, S +1.1, E -0.1, D +0.7.
+- [White Beach, Boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; supplementary beach-type numerical anchor. Subject minus peer: I -0.7, U -0.4, S +0.7, E -0.4, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 806.00 vs Aitutaki Lagoon and permitted motu cruise circuit 911.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Nightingale Island (SH): greater seabird conservation significance
 - South Point (CX): comparable focused heritage remnants
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Direction Island (Cossie's Beach and heritage trail) (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; existing named editorial peer. Subject minus peer: I -0.9, U -0.1, S +0.5, E -0.9, D -0.8.
+- [Carcass Island (permitted wildlife walks) (FK)](../../../countries/FK/sights/carcass-island.yaml) — 8.8/8.8/8.9/8.7/8.7; existing named editorial peer. Subject minus peer: I -0.6, U -0.3, S -0.4, E -0.9, D -1.4.
+- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; existing named editorial peer. Subject minus peer: I -0.6, U -0.5, S -0.5, E -0.4, D -0.5.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -1.3, U -1.2, S -1.0, E -1.4, D -2.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 818.50 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,24 @@ The [2025 marine management plan](https://www.legislation.gov.au/F2025L00071/asm
 - Gough and Inaccessible Islands (SH): similarly restricted natural heritage
 - Aldabra (SC): larger globally significant atoll
 - Phillip Island (NF): similarly unavailable public tours
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.4, S -0.2.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -0.5, S -0.5.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -0.6, S -0.6.
+- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U +0.3, S +0.3.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Henderson Island (UNESCO property) (PN)](../../../countries/PN/sights/henderson-island.yaml) — null/9.3/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S -0.1.
+- [Gough and Inaccessible Islands (UNESCO property) (SH)](../../../countries/SH/sights/gough-inaccessible-islands.yaml) — null/9.4/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S -0.1.
+- [Phillip Island (restricted visitor scope) (NF)](../../../countries/NF/sights/phillip-island.yaml) — null/8.9/9.0/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.4, S +0.3.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

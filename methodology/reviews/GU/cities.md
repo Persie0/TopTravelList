@@ -18,6 +18,19 @@ Built settlement scope only; coordinates approximate representative points, not 
 - [city-as-pago-pago](../../../countries/AS/cities/pago-pago.yaml) — more dramatic harbor setting.
 - [city-fk-stanley](../../../countries/FK/cities/stanley.yaml) — broader maritime identity, different climate.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fagatogo (AS)](../../../countries/AS/cities/fagatogo.yaml) — 7.6/8.1/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.2, E +0.2, D +0.5.
+- [Jamestown (Saint Helena) (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; existing linked editorial peer. Subject minus peer: I -0.7, U -0.4, S +0.1, E -0.1, D +0.1.
+- [Pago Pago (AS)](../../../countries/AS/cities/pago-pago.yaml) — 8.2/8.2/8.1/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U +0.2, S +0.6, E +0.2, D +0.4.
+- [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing linked editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.3, E -0.1, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 821.00 vs Jamestown (Saint Helena) 850.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Built settlement scope only; coordinates approximate representative points, not 
 - [city-as-pago-pago](../../../countries/AS/cities/pago-pago.yaml) — stronger natural harbor identity.
 - [city-cc-west-island-settlement](../../../countries/CC/cities/west-island-settlement.yaml) — far fewer services.
 - [city-cx-flying-fish-cove](../../../countries/CX/cities/flying-fish-cove.yaml) — more distinctive small island town.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.9, U -0.1, S -0.1, E +1.0, D +1.2.
+- [Pago Pago (AS)](../../../countries/AS/cities/pago-pago.yaml) — 8.2/8.2/8.1/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U -0.6, S -0.8, E +0.7, D +0.6.
+- [West Island settlement (CC)](../../../countries/CC/cities/west-island-settlement.yaml) — 6.8/7.7/7.3/7.5/6.9; existing linked editorial peer. Subject minus peer: I +1.0, U -0.1, S +0.0, E +1.2, D +1.3.
+- [Flying Fish Cove (The Settlement) (CX)](../../../countries/CX/cities/flying-fish-cove.yaml) — 7.9/8.5/8.0/8.0/7.3; existing linked editorial peer. Subject minus peer: I -0.1, U -0.9, S -0.7, E +0.7, D +0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 782.50 vs Pago Pago 809.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Built settlement scope only; coordinates approximate representative points, not 
 - [city-sh-jamestown](../../../countries/SH/cities/jamestown.yaml) — more extensive built heritage.
 - [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — greater isolation and distinct maritime history.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.3, U -0.3, S -0.1, E -0.3, D +0.0.
+- [Vatia (AS)](../../../countries/AS/cities/vatia.yaml) — 8.0/8.0/7.7/7.5/6.8; existing linked editorial peer. Subject minus peer: I -0.2, U +0.4, S +0.6, E +0.2, D +0.4.
+- [Jamestown (Saint Helena) (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; existing linked editorial peer. Subject minus peer: I -0.7, U -0.4, S -0.3, E -0.6, D -0.7.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I +0.0, U -0.7, S -0.1, E -0.1, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 797.50 vs Jamestown (Saint Helena) 850.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -117,6 +156,19 @@ Built settlement scope only; coordinates approximate representative points, not 
 - [city-fk-port-howard](../../../countries/FK/cities/port-howard.yaml) — similarly modest rural heritage.
 - [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — stronger documented cultural tours.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Aunuʻu village (AS)](../../../countries/AS/cities/aunuu.yaml) — 7.6/8.3/7.9/7.6/6.8; existing linked editorial peer. Subject minus peer: I +0.3, U -0.2, S +0.3, E -0.2, D +0.0.
+- [Vatia (AS)](../../../countries/AS/cities/vatia.yaml) — 8.0/8.0/7.7/7.5/6.8; existing linked editorial peer. Subject minus peer: I -0.1, U +0.1, S +0.5, E -0.1, D +0.0.
+- [Port Howard (FK)](../../../countries/FK/cities/port-howard.yaml) — 7.7/8.1/7.7/7.5/6.9; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.5, E -0.1, D -0.1.
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.4, U -0.6, S -0.2, E -0.6, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 782.50 vs Bantam (Home Island) 802.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -149,6 +201,19 @@ Built settlement scope only; coordinates approximate representative points, not 
 - [city-as-ofu](../../../countries/AS/cities/ofu.yaml) — similar small Polynesian settlement.
 - [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — more distinctive documented cultural visits.
 - [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — broader commercial facilities.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Vatia (AS)](../../../countries/AS/cities/vatia.yaml) — 8.0/8.0/7.7/7.5/6.8; existing linked editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.0, E +0.0, D +0.1.
+- [Ofu village (AS)](../../../countries/AS/cities/ofu.yaml) — 7.8/8.2/7.6/7.3/6.6; existing linked editorial peer. Subject minus peer: I +0.0, U -0.3, S +0.1, E +0.2, D +0.3.
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.3, U -0.8, S -0.7, E -0.5, D -0.3.
+- [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.9, U +0.2, S +0.3, E -0.2, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 767.00 vs Bantam (Home Island) 802.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

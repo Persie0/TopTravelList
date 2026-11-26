@@ -18,6 +18,19 @@ Urban settlement scope excludes island-wide excursions and luxury price as a sco
 - Terre-de-Haut (GP): comparable harbour townscape
 - Bridgetown (BB): stronger extensive historic heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mariehamn (AX)](../../../countries/AX/cities/mariehamn.yaml) — 7.8/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.0, E +0.0, D +0.0.
+- [Ponce (PR)](../../../countries/PR/cities/ponce.yaml) — 7.8/7.9/8.0/8.0/7.8; existing named editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.1, E +0.4, D +0.0.
+- [Terre-de-Haut (bourg) (GP)](../../../countries/GP/cities/terre-de-haut.yaml) — 8.4/8.2/7.7/8.4/7.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S +0.4, E +0.0, D +0.2.
+- [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) — 7.7/8.4/8.5/8.2/8.4; existing named editorial peer. Subject minus peer: I +0.3, U -0.3, S -0.4, E +0.2, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 808.50 vs Bridgetown 818.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Urban settlement scope excludes island-wide excursions and luxury price as a sco
 - Deshaies (GP): comparable Caribbean fishing village
 - Gustavia (BL): broader urban heritage
 - Tai O (HK): more distinctive stilt settlement
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Degerby (Föglö) (AX)](../../../countries/AX/cities/degerby.yaml) — 7.2/7.8/7.6/7.6/6.9; existing named editorial peer. Subject minus peer: I +0.4, U +0.2, S -0.2, E -0.1, D -0.1.
+- [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.3, U +0.3, S +0.5, E -0.5, D -0.3.
+- [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S -0.7, E -0.9, D -1.0.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; supplementary remote-type numerical anchor. Subject minus peer: I -0.2, U -1.1, S -1.0, E -0.3, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 756.50 vs Adamstown 815.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

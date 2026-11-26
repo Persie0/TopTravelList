@@ -11,6 +11,19 @@
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness equal (Greenlandic capital culture and Arctic setting); depth lower (several distinct neighborhoods and institutions).
   - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Greenlandic capital culture and Arctic setting); depth higher (several distinct neighborhoods and institutions).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (Greenlandic capital culture and Arctic setting); depth higher (several distinct neighborhoods and institutions).
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5/8.7/8.5/9.0/8.9; existing linked editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.1, E -0.6, D -0.5.
+- [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.2, U +0.0, S +0.3, E -0.4, D -0.2.
+- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U +0.5, S +0.5, E +0.2, D +0.8.
+- [Port Louis (MU)](../../../countries/MU/cities/port-louis.yaml) — 8.0/8.2/8.5/8.4/8.2; supplementary capital-type numerical anchor. Subject minus peer: I +0.4, U +0.7, S +0.1, E +0.0, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.50 vs Reykjavík 866.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 - Impact: 8.4 — Colorful Arctic coastal capital and local urban scenery.
 - Uniqueness: 8.9 — Greenlandic capital culture and Arctic setting.
 - Significance: 8.6 — political and cultural centre.
@@ -30,6 +43,19 @@
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (Arctic working town character); depth lower (compact settlement).
   - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Arctic working town character); depth lower (compact settlement).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (Arctic working town character); depth higher (compact settlement).
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5/8.7/8.5/9.0/8.9; existing linked editorial peer. Subject minus peer: I -0.1, U +0.0, S -0.5, E -0.7, D -1.2.
+- [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.5, D -0.9.
+- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U +0.3, S -0.1, E +0.1, D +0.1.
+- [Hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; supplementary harbor-type numerical anchor. Subject minus peer: I -0.1, U +0.0, S -0.5, E -0.5, D -0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 831.00 vs Reykjavík 866.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 - Impact: 8.4 — harbour and colourful settlement.
 - Uniqueness: 8.7 — Arctic working town character.
 - Significance: 8.0 — regional fishing and cultural history.
@@ -49,6 +75,19 @@
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (living Greenlandic fishing and hunting culture); depth lower (compact town).
   - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (living Greenlandic fishing and hunting culture); depth lower (compact town).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (living Greenlandic fishing and hunting culture); depth higher (compact town).
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5/8.7/8.5/9.0/8.9; existing linked editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.4, E -0.8, D -1.2.
+- [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.2, E -0.6, D -0.9.
+- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.2, U +0.1, S +0.0, E +0.0, D +0.1.
+- [Hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; supplementary harbor-type numerical anchor. Subject minus peer: I -0.4, U -0.2, S -0.4, E -0.6, D -0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 817.50 vs Reykjavík 866.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 - Impact: 8.1 — coastal streets and harbour.
 - Uniqueness: 8.5 — living Greenlandic fishing and hunting culture.
 - Significance: 8.1 — regional settlement history.
@@ -68,6 +107,19 @@
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (South Greenland townscape); depth lower (compact town excluding Norse sites).
   - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (South Greenland townscape); depth lower (compact town excluding Norse sites).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness lower (South Greenland townscape); depth lower (compact town excluding Norse sites).
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5/8.7/8.5/9.0/8.9; existing linked editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.6, E -0.8, D -1.4.
+- [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.5, U -0.6, S -0.4, E -0.6, D -1.1.
+- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.2, E +0.0, D -0.1.
+- [Kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; supplementary urban-type numerical anchor. Subject minus peer: I -0.2, U -0.2, S -0.5, E -0.5, D -1.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 806.50 vs Reykjavík 866.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 - Impact: 8.1 — colourful hillside settlement.
 - Uniqueness: 8.3 — South Greenland townscape.
 - Significance: 7.9 — regional trading heritage.
@@ -87,6 +139,19 @@
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (East Greenland cultural setting); depth lower (compact settlement excluding hikes and fjord trips).
   - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (East Greenland cultural setting); depth lower (compact settlement excluding hikes and fjord trips).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (East Greenland cultural setting); depth lower (compact settlement excluding hikes and fjord trips).
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5/8.7/8.5/9.0/8.9; existing linked editorial peer. Subject minus peer: I -0.2, U +0.0, S -0.5, E -0.9, D -1.5.
+- [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.3, U -0.2, S -0.3, E -0.7, D -1.2.
+- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I +0.0, U +0.3, S -0.1, E -0.1, D -0.2.
+- [Kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; supplementary urban-type numerical anchor. Subject minus peer: I +0.0, U +0.2, S -0.4, E -0.6, D -1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 822.00 vs Reykjavík 866.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 - Impact: 8.3 — settlement in mountain-framed bay.
 - Uniqueness: 8.7 — East Greenland cultural setting.
 - Significance: 8.0 — regional cultural centre.
@@ -106,6 +171,19 @@
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (Disko Island community and Arctic station); depth lower (small town excluding island excursions).
   - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (Disko Island community and Arctic station); depth lower (small town excluding island excursions).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness higher (Disko Island community and Arctic station); depth lower (small town excluding island excursions).
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5/8.7/8.5/9.0/8.9; existing linked editorial peer. Subject minus peer: I -0.3, U -0.2, S -0.5, E -1.0, D -1.6.
+- [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.3, E -0.8, D -1.3.
+- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.1, U +0.1, S -0.1, E -0.2, D -0.3.
+- [Hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; supplementary harbor-type numerical anchor. Subject minus peer: I -0.3, U -0.2, S -0.5, E -0.8, D -1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 811.50 vs Reykjavík 866.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 - Impact: 8.2 — coastal settlement and colourful buildings.
 - Uniqueness: 8.5 — Disko Island community and Arctic station.
 - Significance: 8.0 — regional history.
@@ -125,6 +203,19 @@
   - [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6 / 8.9 / 8.3 / 8.8 / 8.6; Arctic urban cultural breadth; uniqueness lower (former airbase setting); depth lower (few independent urban attractions).
   - [Longyearbyen (NO)](../../../countries/NO/cities/longyearbyen.yaml) — 7.9 / 9.0 / 8.3 / 8.0 / 7.8; compact high-Arctic settlement; uniqueness lower (former airbase setting); depth lower (few independent urban attractions).
   - [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3 / 8.4 / 8.1 / 8.2 / 7.6; small scenic settlement comparator; uniqueness lower (former airbase setting); depth lower (few independent urban attractions).
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Reykjavík (IS)](../../../countries/IS/cities/reykjavik.yaml) — 8.5/8.7/8.5/9.0/8.9; existing linked editorial peer. Subject minus peer: I -1.5, U -1.2, S -1.2, E -1.6, D -2.2.
+- [Tromsø (NO)](../../../countries/NO/cities/tromso.yaml) — 8.6/8.9/8.3/8.8/8.6; existing linked editorial peer. Subject minus peer: I -1.6, U -1.4, S -1.0, E -1.4, D -1.9.
+- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing linked editorial peer. Subject minus peer: I -1.3, U -0.9, S -0.8, E -0.8, D -0.9.
+- [Kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; supplementary urban-type numerical anchor. Subject minus peer: I -1.3, U -1.0, S -1.1, E -1.3, D -1.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 721.50 vs Reykjavík 866.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 - Impact: 7.0 — functional inland settlement.
 - Uniqueness: 7.5 — former airbase setting.
 - Significance: 7.3 — regional aviation history.

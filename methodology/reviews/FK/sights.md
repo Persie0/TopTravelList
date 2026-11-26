@@ -18,6 +18,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Mykines (FO): different seabird landscape
 - Gypsy Cove (FK): narrower colony scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Salisbury Plain (authorized wildlife viewing) (GS)](../../../countries/GS/sights/salisbury-plain.yaml) — 9.4/9.3/9.2/9.1/8.7; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.2, E -0.1, D -0.2.
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.4, E +0.3, D +0.1.
+- [Gypsy Cove (FK)](../../../countries/FK/sights/gypsy-cove.yaml) — 8.6/8.4/8.3/8.7/7.7; existing named editorial peer. Subject minus peer: I +0.7, U +0.8, S +0.7, E +0.3, D +0.8.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +1.2, U +0.1, S +0.0, E +0.5, D +0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 909.00 vs Salisbury Plain (authorized wildlife viewing) 922.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Península Valdés (AR): broader marine mammal landscape
 - Mykines (FO): narrower seabird emphasis
 - Carcass Island (FK): different bird habitat
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Península Valdés (AR)](../../../countries/AR/sights/peninsula-valdes.yaml) — 9.2/9.4/9.5/8.9/9.2; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.2, E +0.0, D -0.2.
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I +0.0, U +0.2, S +0.7, E +0.2, D +0.6.
+- [Carcass Island (permitted wildlife walks) (FK)](../../../countries/FK/sights/carcass-island.yaml) — 8.8/8.8/8.9/8.7/8.7; existing named editorial peer. Subject minus peer: I +0.3, U +0.4, S +0.4, E +0.2, D +0.3.
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.3, U -0.2, S +0.0, E -0.2, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 912.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Volunteer Point (FK): stronger king penguin focus
 - Península Valdés (AR): broader marine habitat
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I +0.1, U +0.0, S +0.3, E +0.2, D +0.4.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.1, E -0.1, D +0.3.
+- [Península Valdés (AR)](../../../countries/AR/sights/peninsula-valdes.yaml) — 9.2/9.4/9.5/8.9/9.2; existing named editorial peer. Subject minus peer: I +0.0, U -0.4, S -0.6, E +0.0, D -0.4.
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.2, U -0.4, S -0.4, E -0.2, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 900.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - New Island (FK): more dramatic cliff habitat
 - Mykines (FO): comparable bird walks
 - Cousin Island (SC): different endemic bird habitat
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Sea Lion Island (permitted visitor areas) (FK)](../../../countries/FK/sights/sea-lion-island.yaml) — 9.1/9.2/9.3/8.9/9.0; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.4, E -0.2, D -0.3.
+- [New Island (authorized visitor sector) (FK)](../../../countries/FK/sights/new-island.yaml) — 8.9/9.0/9.0/8.5/8.6; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.1, E +0.2, D +0.1.
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.3, E +0.0, D +0.3.
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.6, U -0.6, S -0.4, E -0.4, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 879.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Saunders Island (FK): more varied landscape
 - St Kilda (GB): broader remote island heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S +0.2, E +0.1, D -0.2.
+- [New Island (authorized visitor sector) (FK)](../../../countries/FK/sights/new-island.yaml) — 8.9/9.0/9.0/8.5/8.6; existing named editorial peer. Subject minus peer: I +0.1, U -0.1, S -0.2, E +0.3, D -0.4.
+- [Saunders Island (The Neck and permitted wildlife trails) (FK)](../../../countries/FK/sights/saunders-island-neck.yaml) — 9.2/9.0/8.9/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.1, E -0.1, D -0.6.
+- [St Kilda (GB)](../../../countries/GB/sights/st-kilda.yaml) — 9.2/9.5/9.4/8.6/8.4; existing named editorial peer. Subject minus peer: I -0.2, U -0.6, S -0.6, E +0.2, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 882.50 vs St Kilda 914.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Sea Lion Island (FK): stronger marine mammal scope
 - St Kilda (GB): broader cultural landscape
 - Mykines (FO): comparable seabird visitor setting
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Sea Lion Island (permitted visitor areas) (FK)](../../../countries/FK/sights/sea-lion-island.yaml) — 9.1/9.2/9.3/8.9/9.0; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.4, D -0.4.
+- [St Kilda (GB)](../../../countries/GB/sights/st-kilda.yaml) — 9.2/9.5/9.4/8.6/8.4; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.4, E -0.1, D +0.2.
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.2, U +0.0, S +0.4, E -0.2, D +0.2.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.6, U -0.7, S -0.5, E -0.7, D -0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 885.50 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,20 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Sea Lion Island (FK): higher marine mammal significance
 - Spittal Pond (BM): narrower wetlands
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Saunders Island (The Neck and permitted wildlife trails) (FK)](../../../countries/FK/sights/saunders-island-neck.yaml) — 9.2/9.0/8.9/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.2, E -0.2, D +0.0.
+- [Carcass Island (permitted wildlife walks) (FK)](../../../countries/FK/sights/carcass-island.yaml) — 8.8/8.8/8.9/8.7/8.7; existing named editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.2, E +0.0, D +0.1.
+- [Sea Lion Island (permitted visitor areas) (FK)](../../../countries/FK/sights/sea-lion-island.yaml) — 9.1/9.2/9.3/8.9/9.0; existing named editorial peer. Subject minus peer: I -0.3, U -0.6, S -0.6, E -0.2, D -0.2.
+- [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing named editorial peer. Subject minus peer: I +0.5, U +0.1, S -0.1, E +0.3, D +0.6.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -1.1, S -0.8, E -0.5, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 871.50 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +340,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Volunteer Point (FK): larger colony scope
 - West Point (FK): more dramatic cliff habitat
 - Spittal Pond (BM): broader wetland scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.7, U -0.8, S -0.7, E -0.3, D -0.8.
+- [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing named editorial peer. Subject minus peer: I +0.3, U -0.1, S -0.5, E +0.3, D -0.5.
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.8, U -1.0, S -1.0, E -0.4, D -1.1.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: I +0.5, U -0.7, S -0.7, E +0.2, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 841.50 vs St Andrews Bay (authorized wildlife viewing) 927.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +387,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Åland Maritime Museum (AX): deeper specialist maritime scope
 - Cayman National Museum (KY): smaller regional collection
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; existing named editorial peer. Subject minus peer: I -0.6, U -0.2, S -0.2, E -0.2, D -0.2.
+- [Svalbard Museum (SJ)](../../../countries/SJ/sights/svalbard-museum.yaml) — 7.8/8.5/8.4/8.5/8.0; existing named editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.4, E +0.0, D +0.6.
+- [Åland Maritime Museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.3, E -0.2, D +0.2.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.5, U +0.3, S +0.2, E +0.5, D +1.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 844.50 vs National Museum of Bermuda (The Keep) 876.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +432,19 @@ Geographic ISO FK grouping does not adjudicate sovereignty. Wildlife observation
 - Kirkjubøur (FO): stronger medieval heritage
 - Mikvé Israel-Emanuel (CW): higher international significance
 - Fort Karl (BL): comparable bounded landmark
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Alto Vista Chapel (AW)](../../../countries/AW/sights/alto-vista-chapel.yaml) — 7.8/8.0/8.2/7.8/6.7; existing named editorial peer. Subject minus peer: I +0.1, U +0.5, S +0.0, E +0.2, D +0.3.
+- [Mikvé Israel-Emanuel Synagogue and Jewish Museum (CW)](../../../countries/CW/sights/mikve-israel-emanuel.yaml) — 8.3/9.0/9.1/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.5, S -0.9, E -0.4, D -0.8.
+- [Fort Karl viewpoint and ruins (BL)](../../../countries/BL/sights/fort-karl.yaml) — 8.0/7.9/8.0/8.1/6.8; existing named editorial peer. Subject minus peer: I -0.1, U +0.6, S +0.2, E -0.1, D +0.2.
+- [Oura Church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; supplementary religious-type numerical anchor. Subject minus peer: I -0.6, U -0.3, S -0.9, E -0.7, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 803.50 vs Oura Church 864.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

@@ -18,6 +18,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-fo-tinganes](../../../countries/FO/sights/tinganes.yaml) — more prominent civic architectural history.
 - [sight-ax-jan-karlsgarden](../../../countries/AX/sights/jan-karlsgarden.yaml) — comparable interpreted vernacular buildings.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Red Bay Basque Whaling Station (CA)](../../../countries/CA/sights/red-bay-whaling-station.yaml) — 7.7/8.9/9.1/8.1/7.7; existing linked editorial peer. Subject minus peer: I +1.1, U +0.1, S -0.3, E +0.5, D +1.0.
+- [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I +0.0, U +0.0, S -0.4, E -0.2, D +0.0.
+- [Tinganes (FO)](../../../countries/FO/sights/tinganes.yaml) — 7.9/8.5/8.9/8.0/7.3; existing linked editorial peer. Subject minus peer: I +0.9, U +0.5, S -0.1, E +0.6, D +1.4.
+- [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; existing linked editorial peer. Subject minus peer: I +1.0, U +1.0, S +1.0, E +0.5, D +1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 881.00 vs Kingston and Arthur's Vale Historic Area 892.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-fk-sea-lion-island](../../../countries/FK/sights/sea-lion-island.yaml) — stronger wildlife concentrations.
 - [sight-fo-pollurin](../../../countries/FO/sights/pollurin.yaml) — more focused coastal landform.
 - [sight-bm-spittal-pond](../../../countries/BM/sights/spittal-pond.yaml) — smaller wetland visitor circuit.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Breiðafjörður Nature Reserve (IS)](../../../countries/IS/sights/breidafjordur.yaml) — 8.8/9.0/8.9/8.6/9.0; existing linked editorial peer. Subject minus peer: I +0.2, U -0.1, S +0.0, E +0.1, D -0.2.
+- [Sea Lion Island (permitted visitor areas) (FK)](../../../countries/FK/sights/sea-lion-island.yaml) — 9.1/9.2/9.3/8.9/9.0; existing linked editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.4, E -0.2, D -0.2.
+- [Pollurin tidal lagoon (FO)](../../../countries/FO/sights/pollurin.yaml) — 8.6/8.1/7.0/8.1/7.1; existing linked editorial peer. Subject minus peer: I +0.4, U +0.8, S +1.9, E +0.6, D +1.7.
+- [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing linked editorial peer. Subject minus peer: I +0.7, U +0.4, S +0.1, E +0.3, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 889.00 vs Sea Lion Island (permitted visitor areas) 912.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-fk-west-point-island](../../../countries/FK/sights/west-point-island.yaml) — stronger accessible colony experience.
 - [sight-sj-alkhornet](../../../countries/SJ/sights/alkhornet.yaml) — broader Arctic wildlife setting.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing linked editorial peer. Subject minus peer: I -0.5, U -0.4, S +0.2, E -0.6, D -0.6.
+- [Látrabjarg bird cliffs (IS)](../../../countries/IS/sights/latrabjarg.yaml) — 9.1/9.0/8.8/8.7/8.0; existing linked editorial peer. Subject minus peer: I -0.5, U -0.4, S +0.0, E -0.6, D -0.2.
+- [West Point Island (permitted seabird viewing) (FK)](../../../countries/FK/sights/west-point-island.yaml) — 9.0/8.9/8.8/8.8/8.2; existing linked editorial peer. Subject minus peer: I -0.4, U -0.3, S +0.0, E -0.7, D -0.4.
+- [Alkhornet bird cliff and Trygghamna (SJ)](../../../countries/SJ/sights/alkhornet.yaml) — 8.8/8.6/8.5/8.6/8.0; existing linked editorial peer. Subject minus peer: I -0.2, U +0.0, S +0.3, E -0.5, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 848.50 vs Mykines Island 884.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-nf-captain-cook-lookout](../../../countries/NF/sights/captain-cook-lookout.yaml) — shorter coastal route.
 - [sight-is-arnarstapi-hellnar](../../../countries/IS/sights/arnarstapi-hellnar.yaml) — more dramatic lava coastline.
 - [sight-fk-gypsy-cove](../../../countries/FK/sights/gypsy-cove.yaml) — more specialized wildlife viewing.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Trælanípa and Sørvágsvatn viewpoint (FO)](../../../countries/FO/sights/traelanipa-sorvagsvatn.yaml) — 9.2/9.1/7.7/8.7/7.3; existing linked editorial peer. Subject minus peer: I -0.5, U -0.9, S +0.4, E -0.2, D +1.0.
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.2, E +0.0, D +0.5.
+- [Arnarstapi–Hellnar coastal trail (IS)](../../../countries/IS/sights/arnarstapi-hellnar.yaml) — 8.9/8.8/8.2/8.8/7.8; existing linked editorial peer. Subject minus peer: I -0.2, U -0.6, S -0.1, E -0.3, D +0.5.
+- [Gypsy Cove (FK)](../../../countries/FK/sights/gypsy-cove.yaml) — 8.6/8.4/8.3/8.7/7.7; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.2, E -0.2, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.50 vs Trælanípa and Sørvágsvatn viewpoint 861.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-fo-pollurin](../../../countries/FO/sights/pollurin.yaml) — more focused natural formation.
 - [sight-is-arnarstapi-hellnar](../../../countries/IS/sights/arnarstapi-hellnar.yaml) — more striking coastal geology.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.5, U -0.2, S +0.0, E +0.0, D +0.2.
+- [Getabergen and Grottstigen Trail (AX)](../../../countries/AX/sights/getabergen-grottstigen.yaml) — 8.1/8.0/7.3/8.2/7.6; existing linked editorial peer. Subject minus peer: I +0.3, U +0.1, S +0.6, E +0.3, D +0.4.
+- [Pollurin tidal lagoon (FO)](../../../countries/FO/sights/pollurin.yaml) — 8.6/8.1/7.0/8.1/7.1; existing linked editorial peer. Subject minus peer: I -0.2, U +0.0, S +0.9, E +0.4, D +0.9.
+- [Arnarstapi–Hellnar coastal trail (IS)](../../../countries/IS/sights/arnarstapi-hellnar.yaml) — 8.9/8.8/8.2/8.8/7.8; existing linked editorial peer. Subject minus peer: I -0.5, U -0.7, S -0.3, E -0.3, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 820.00 vs Arnarstapi–Hellnar coastal trail 861.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-fo-traelanipa-sorvagsvatn](../../../countries/FO/sights/traelanipa-sorvagsvatn.yaml) — stronger lake-cliff juxtaposition.
 - [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — broader habitat and trail network.
 - [sight-sh-peaks-national-park](../../../countries/SH/sights/peaks-national-park.yaml) — greater endemic habitat importance.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Getabergen and Grottstigen Trail (AX)](../../../countries/AX/sights/getabergen-grottstigen.yaml) — 8.1/8.0/7.3/8.2/7.6; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.6, E +0.0, D +0.6.
+- [Trælanípa and Sørvágsvatn viewpoint (FO)](../../../countries/FO/sights/traelanipa-sorvagsvatn.yaml) — 9.2/9.1/7.7/8.7/7.3; existing linked editorial peer. Subject minus peer: I -0.9, U -1.1, S +0.2, E -0.5, D +0.9.
+- [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I -0.4, U -0.8, S -0.9, E -0.4, D -0.2.
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.7, U -1.2, S -1.1, E -0.6, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 812.00 vs Peaks National Park (Diana's Peak trails) 898.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-ax-kalen-trail](../../../countries/AX/sights/kalen-trail.yaml) — similar varied island walking route.
 - [sight-is-arnarstapi-hellnar](../../../countries/IS/sights/arnarstapi-hellnar.yaml) — more dramatic geological coast.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing linked editorial peer. Subject minus peer: I +0.0, U -0.4, S -0.7, E +0.0, D +0.1.
+- [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I -0.4, U -0.7, S -0.7, E -0.2, D -0.1.
+- [Kalen Trail (Kökar) (AX)](../../../countries/AX/sights/kalen-trail.yaml) — 8.0/8.2/8.1/8.2/8.0; existing linked editorial peer. Subject minus peer: I +0.3, U -0.1, S +0.0, E +0.2, D +0.3.
+- [Arnarstapi–Hellnar coastal trail (IS)](../../../countries/IS/sights/arnarstapi-hellnar.yaml) — 8.9/8.8/8.2/8.8/7.8; existing linked editorial peer. Subject minus peer: I -0.6, U -0.7, S -0.1, E -0.4, D +0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 822.50 vs Norfolk Island National Park (main island forest and summit trails) 870.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-bm-gibbs-hill-lighthouse](../../../countries/BM/sights/gibbs-hill-lighthouse.yaml) — more developed visitor viewpoint.
 - [sight-ax-kalen-trail](../../../countries/AX/sights/kalen-trail.yaml) — broader trail context.
 - [sight-nf-captain-cook-lookout](../../../countries/NF/sights/captain-cook-lookout.yaml) — comparable coastal views.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kallur Lighthouse and ridge (FO)](../../../countries/FO/sights/kallur-lighthouse.yaml) — 9.1/8.6/7.2/8.8/7.7; existing linked editorial peer. Subject minus peer: I -0.6, U -0.4, S +1.1, E -0.7, D +0.3.
+- [Gibbs Hill Lighthouse (exterior viewpoint) (BM)](../../../countries/BM/sights/gibbs-hill-lighthouse.yaml) — 8.3/8.1/8.3/7.9/6.8; existing linked editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.0, E +0.2, D +1.2.
+- [Kalen Trail (Kökar) (AX)](../../../countries/AX/sights/kalen-trail.yaml) — 8.0/8.2/8.1/8.2/8.0; existing linked editorial peer. Subject minus peer: I +0.5, U +0.0, S +0.2, E -0.1, D +0.0.
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.4, U -0.1, S +0.4, E -0.4, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs Kallur Lighthouse and ridge 841.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-bm-royal-naval-dockyard](../../../countries/BM/sights/royal-naval-dockyard.yaml) — larger naval heritage.
 - [sight-ca-halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) — more substantial military architecture.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mariehamn Maritime Quarter (Sjökvarteret) (AX)](../../../countries/AX/sights/maritime-quarter.yaml) — 7.7/8.0/7.8/8.1/7.6; existing linked editorial peer. Subject minus peer: I +0.4, U +0.4, S +0.6, E +0.4, D +0.4.
+- [Tinganes (FO)](../../../countries/FO/sights/tinganes.yaml) — 7.9/8.5/8.9/8.0/7.3; existing linked editorial peer. Subject minus peer: I +0.2, U -0.1, S -0.5, E +0.5, D +0.7.
+- [Royal Naval Dockyard (public precinct) (BM)](../../../countries/BM/sights/royal-naval-dockyard.yaml) — 8.4/8.5/8.8/8.6/8.3; existing linked editorial peer. Subject minus peer: I -0.3, U -0.1, S -0.4, E -0.1, D -0.3.
+- [Halifax Citadel (CA)](../../../countries/CA/sights/halifax-citadel.yaml) — 8.0/8.1/8.6/8.5/7.8; existing linked editorial peer. Subject minus peer: I +0.1, U +0.3, S -0.2, E +0.0, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 828.50 vs Royal Naval Dockyard (public precinct) 852.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-sh-museum-st-helena](../../../countries/SH/sights/museum-st-helena.yaml) — comparable island history.
 - [sight-nf-norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) — more dispersed heritage sites.
 - [sight-ax-maritime-museum](../../../countries/AX/sights/maritime-museum.yaml) — broader specialized maritime collection.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing linked editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.3, E -0.1, D -0.4.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.4, U +0.2, S -0.1, E +0.4, D +0.7.
+- [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.2, E +0.0, D +0.2.
+- [Åland Maritime Museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; existing linked editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.0, E -0.3, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs Historic Dockyard Museum (Stanley) 844.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -348,6 +478,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-sh-museum-st-helena](../../../countries/SH/sights/museum-st-helena.yaml) — similar island heritage role.
 - [sight-ax-maritime-museum](../../../countries/AX/sights/maritime-museum.yaml) — more focused maritime depth.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Greenland National Museum and Archives (GL)](../../../countries/GL/sights/greenland-national-museum.yaml) — 8.5/9.0/9.2/8.6/8.4; existing linked editorial peer. Subject minus peer: I -0.9, U -0.7, S -0.5, E -0.5, D -0.3.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing linked editorial peer. Subject minus peer: I -0.4, U -0.3, S -0.1, E -0.4, D -0.5.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S +0.1, E +0.1, D +0.6.
+- [Åland Maritime Museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; existing linked editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.2, E -0.6, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 812.00 vs Greenland National Museum and Archives 877.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -380,6 +523,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-sh-museum-st-helena](../../../countries/SH/sights/museum-st-helena.yaml) — broader island history exhibits.
 - [sight-nf-norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) — more buildings.
 - [sight-fk-historic-dockyard-museum](../../../countries/FK/sights/historic-dockyard-museum.yaml) — larger collection scope.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Landscape of Grand Pré (CA)](../../../countries/CA/sights/landscape-grand-pre.yaml) — 7.8/8.5/8.9/8.1/7.8; existing linked editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.4, E -0.1, D +0.1.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S -0.1, E +0.0, D +0.4.
+- [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.2, E -0.4, D -0.1.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing linked editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.3, E -0.5, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 807.50 vs Historic Dockyard Museum (Stanley) 844.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -414,6 +570,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-sj-svalbard-museum](../../../countries/SJ/sights/svalbard-museum.yaml) — greater polar cultural-natural breadth.
 - [sight-fk-historic-dockyard-museum](../../../countries/FK/sights/historic-dockyard-museum.yaml) — more built historical interpretation.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bermuda Aquarium, Museum and Zoo (BM)](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — 8.0/8.3/8.4/8.6/8.4; existing linked editorial peer. Subject minus peer: I -0.4, U -0.3, S -0.1, E -0.3, D -0.5.
+- [Greenland National Museum and Archives (GL)](../../../countries/GL/sights/greenland-national-museum.yaml) — 8.5/9.0/9.2/8.6/8.4; existing linked editorial peer. Subject minus peer: I -0.9, U -1.0, S -0.9, E -0.3, D -0.5.
+- [Svalbard Museum (SJ)](../../../countries/SJ/sights/svalbard-museum.yaml) — 7.8/8.5/8.4/8.5/8.0; existing linked editorial peer. Subject minus peer: I -0.2, U -0.5, S -0.1, E -0.2, D -0.1.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing linked editorial peer. Subject minus peer: I -0.4, U -0.6, S -0.5, E -0.2, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 797.50 vs Greenland National Museum and Archives 877.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -446,6 +615,19 @@ Official tourism attraction and cultural pages opened, other tourism, museum, cu
 - [sight-nf-hundred-acres](../../../countries/NF/sights/hundred-acres.yaml) — more focused forest walk.
 - [sight-fo-pollurin](../../../countries/FO/sights/pollurin.yaml) — more distinctive landform.
 - [sight-is-arnarstapi-hellnar](../../../countries/IS/sights/arnarstapi-hellnar.yaml) — greater geological visual impact.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kalen Trail (Kökar) (AX)](../../../countries/AX/sights/kalen-trail.yaml) — 8.0/8.2/8.1/8.2/8.0; existing linked editorial peer. Subject minus peer: I +0.2, U -0.3, S -0.4, E -0.1, D +0.0.
+- [Hundred Acres Reserve and Rocky Point (NF)](../../../countries/NF/sights/hundred-acres.yaml) — 8.1/8.0/7.7/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.1, U -0.1, S +0.0, E +0.1, D +0.5.
+- [Pollurin tidal lagoon (FO)](../../../countries/FO/sights/pollurin.yaml) — 8.6/8.1/7.0/8.1/7.1; existing linked editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.7, E +0.0, D +0.9.
+- [Arnarstapi–Hellnar coastal trail (IS)](../../../countries/IS/sights/arnarstapi-hellnar.yaml) — 8.9/8.8/8.2/8.8/7.8; existing linked editorial peer. Subject minus peer: I -0.7, U -0.9, S -0.5, E -0.7, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 799.00 vs Arnarstapi–Hellnar coastal trail 861.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

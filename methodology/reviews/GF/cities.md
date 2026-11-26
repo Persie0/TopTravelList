@@ -16,6 +16,19 @@
 - Fort-de-France (MQ): comparable Creole urban scope
 - Saint-Denis (RE): comparable overseas capital
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Paramaribo (SR)](../../../countries/SR/cities/paramaribo.yaml) — 8.3/8.6/8.5/8.4/8.3; existing named editorial peer. Subject minus peer: I -0.7, U -0.5, S -0.5, E -0.4, D -0.5.
+- [Georgetown (GY)](../../../countries/GY/cities/georgetown.yaml) — 8.2/8.5/8.4/8.2/8.2; existing named editorial peer. Subject minus peer: I -0.6, U -0.4, S -0.4, E -0.2, D -0.4.
+- [Fort-de-France (MQ)](../../../countries/MQ/cities/fort-de-france.yaml) — 7.7/7.9/8.2/8.2/8.0; existing named editorial peer. Subject minus peer: I -0.1, U +0.2, S -0.2, E -0.2, D -0.2.
+- [Saint-Denis (RE)](../../../countries/RE/cities/saint-denis.yaml) — 7.6/8.0/8.1/8.1/8.0; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S -0.1, E -0.1, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 788.50 vs Paramaribo 843.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Saint-François (GP): comparable coastal town
 - Cayenne (GF): broader urban heritage
 - Vaitape (PF): comparable gateway settlement
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fajardo (PR)](../../../countries/PR/cities/fajardo.yaml) — 7.0/7.0/6.6/7.4/6.8; existing named editorial peer. Subject minus peer: I +0.0, U +0.5, S +0.7, E +0.1, D +0.4.
+- [Saint-François (GP)](../../../countries/GP/cities/saint-francois.yaml) — 7.3/7.4/6.8/8.0/7.3; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S +0.5, E -0.5, D -0.1.
+- [Cayenne (GF)](../../../countries/GF/cities/cayenne.yaml) — 7.6/8.1/8.0/8.0/7.8; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.7, E -0.5, D -0.6.
+- [Vaitape (PF)](../../../countries/PF/cities/vaitape.yaml) — 7.2/7.1/6.2/7.3/6.4; existing named editorial peer. Subject minus peer: I -0.2, U +0.4, S +1.1, E +0.2, D +0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 728.00 vs Cayenne 788.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -82,6 +108,19 @@
 - Ponce (PR): comparable regional urban heritage
 - Cayenne (GF): broader capital functions
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Saint-Pierre (MQ)](../../../countries/MQ/cities/saint-pierre.yaml) — 8.2/8.6/8.9/8.1/7.9; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S -0.3, E -0.1, D -0.1.
+- [Paramaribo (SR)](../../../countries/SR/cities/paramaribo.yaml) — 8.3/8.6/8.5/8.4/8.3; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.1, E -0.4, D -0.5.
+- [Ponce (PR)](../../../countries/PR/cities/ponce.yaml) — 7.8/7.9/8.0/8.0/7.8; existing named editorial peer. Subject minus peer: I +0.1, U +0.5, S +0.6, E +0.0, D +0.0.
+- [Cayenne (GF)](../../../countries/GF/cities/cayenne.yaml) — 7.6/8.1/8.0/8.0/7.8; existing named editorial peer. Subject minus peer: I +0.3, U +0.3, S +0.6, E +0.0, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 817.00 vs Paramaribo 843.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -114,6 +153,19 @@
 - Karlby (AX): comparable small isolated settlement
 - Cilaos (RE): greater built and craft heritage
 - Hienghène (NC): comparable landscape-framed village
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Longyearbyen (SJ)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9/9.0/8.3/8.0/7.8; existing named editorial peer. Subject minus peer: I -0.7, U -0.2, S -0.9, E -0.5, D -1.0.
+- [Karlby (Kökar) (AX)](../../../countries/AX/cities/karlby.yaml) — 7.1/7.5/6.9/7.3/6.5; existing named editorial peer. Subject minus peer: I +0.1, U +1.3, S +0.5, E +0.2, D +0.3.
+- [Cilaos (RE)](../../../countries/RE/cities/cilaos.yaml) — 8.5/8.3/7.5/8.2/7.5; existing named editorial peer. Subject minus peer: I -1.3, U +0.5, S -0.1, E -0.7, D -0.7.
+- [Hienghène (NC)](../../../countries/NC/cities/hienghene.yaml) — 8.0/8.1/7.6/7.5/6.9; existing named editorial peer. Subject minus peer: I -0.8, U +0.7, S -0.2, E +0.0, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 764.50 vs Longyearbyen 826.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

@@ -16,6 +16,19 @@
 - Moroni (KM): stronger traditional built heritage
 - Saint-Denis (RE): broader architectural inventory
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Cayenne (GF)](../../../countries/GF/cities/cayenne.yaml) — 7.6/8.1/8.0/8.0/7.8; existing named editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.3, E -0.4, D -0.5.
+- [Papeete (PF)](../../../countries/PF/cities/papeete.yaml) — 7.5/8.0/8.0/8.1/7.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.3, E -0.5, D -0.5.
+- [Moroni (KM)](../../../countries/KM/cities/moroni.yaml) — 7.8/8.3/8.4/7.9/7.9; existing named editorial peer. Subject minus peer: I -0.7, U -0.7, S -0.7, E -0.3, D -0.6.
+- [Saint-Denis (RE)](../../../countries/RE/cities/saint-denis.yaml) — 7.6/8.0/8.1/8.1/8.0; existing named editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.4, E -0.5, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 744.00 vs Moroni 807.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Saint-Pierre (MQ): deeper disaster heritage
 - Isabel Segunda (PR): comparable small island town
 - Mamoudzou (YT): broader modern urban services
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Port Louis (MU)](../../../countries/MU/cities/port-louis.yaml) — 8.0/8.2/8.5/8.4/8.2; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S -0.2, E -1.1, D -1.2.
+- [Saint-Pierre (MQ)](../../../countries/MQ/cities/saint-pierre.yaml) — 8.2/8.6/8.9/8.1/7.9; existing named editorial peer. Subject minus peer: I -0.6, U -0.5, S -0.6, E -0.8, D -0.9.
+- [Isabel Segunda (PR)](../../../countries/PR/cities/isabel-segunda.yaml) — 7.2/7.4/7.2/7.4/6.8; existing named editorial peer. Subject minus peer: I +0.4, U +0.7, S +1.1, E -0.1, D +0.2.
+- [Mamoudzou (YT)](../../../countries/YT/cities/mamoudzou.yaml) — 7.1/7.6/7.7/7.6/7.3; existing named editorial peer. Subject minus peer: I +0.5, U +0.5, S +0.6, E -0.3, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 776.00 vs Saint-Pierre 839.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

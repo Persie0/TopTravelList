@@ -20,6 +20,24 @@ The existing ISO code IO is retained for geographic indexing, not a determinatio
 - Pulu Keeling (CC): much smaller coral island and Ramsar habitat
 - Henderson (PN): different raised coral terrestrial ecosystem
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Cape Kri Dive Site (ID)](../../../countries/ID/sights/cape-kri-dive-site.yaml) — 9.3/9.4/8.5/9.4/8.5; supplementary dive-type numerical anchor. Subject minus peer: U +0.1, S +0.9.
+- [Sipadan Island Reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; supplementary dive-type numerical anchor. Subject minus peer: U -0.1, S +0.3.
+- [Tubbataha Reefs Natural Park (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; supplementary dive-type numerical anchor. Subject minus peer: U +0.3, S +0.1.
+- [Tiputa Pass (PF)](../../../countries/PF/sights/tiputa-pass.yaml) — 9.2/9.0/8.5/9.2/8.6; supplementary dive-type numerical anchor. Subject minus peer: U +0.5, S +0.9.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Glorieuses Archipelago nature reserve (TF)](../../../countries/TF/sights/glorieuses.yaml) — null/8.8/9.1/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.7, S +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): uniqueness 9.5 vs Sipadan Island Reefs 9.6.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -52,6 +70,22 @@ The existing ISO code IO is retained for geographic indexing, not a determinatio
 - Oeno (PN): remote coral habitat without comparable displacement history
 - Europa (TF): stronger specialized turtle nesting heritage
 - Tromelin (TF): different remote island heritage of enslavement and survival
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.8, S -0.4.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -0.9, S -0.7.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -1.0, S -0.8.
+- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U -0.1, S +0.1.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Tromelin Island (natural and archaeological heritage) (TF)](../../../countries/TF/sights/tromelin.yaml) — null/8.9/9.0/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S +0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -86,6 +120,22 @@ The existing ISO code IO is retained for geographic indexing, not a determinatio
 - Oeno (PN): comparable remote lagoon
 - Direction Island (CC): established public beach and heritage visits unlike Salomon
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Direction Island (Cossie's Beach and heritage trail) (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; existing named editorial peer. Subject minus peer: U +0.3, S +1.0.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.8, S -0.5.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -0.9, S -0.8.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -1.0, S -0.9.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Peros Banhos Atoll (IO)](../../../countries/IO/sights/peros-banhos.yaml) — null/8.9/9.1/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S -0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -119,6 +169,19 @@ The existing ISO code IO is retained for geographic indexing, not a determinatio
 - Ducie (PN): comparable remote coral island system
 - Pulu Keeling (CC): internationally recognized wetland, different bird assemblage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Long Beach green turtle nesting reserve (Ascension) (SH)](../../../countries/SH/sights/long-beach.yaml) — 8.6/9.0/9.2/8.5/7.8; existing named editorial peer. Subject minus peer: U -0.2, S -0.2.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.9, S -0.5.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -1.0, S -0.8.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -1.1, S -0.9.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -151,6 +214,24 @@ The existing ISO code IO is retained for geographic indexing, not a determinatio
 - Tromelin (TF): different history of forced displacement and survival
 - Henderson (PN): stronger globally listed natural heritage
 - Gough and Inaccessible Islands (SH): similarly restricted conservation site
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.9, S -0.3.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -1.0, S -0.6.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -1.1, S -0.7.
+- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U -0.2, S +0.2.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Peros Banhos Atoll (IO)](../../../countries/IO/sights/peros-banhos.yaml) — null/8.9/9.1/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S +0.1.
+- [Tromelin Island (natural and archaeological heritage) (TF)](../../../countries/TF/sights/tromelin.yaml) — null/8.9/9.0/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S +0.2.
+- [Gough and Inaccessible Islands (UNESCO property) (SH)](../../../countries/SH/sights/gough-inaccessible-islands.yaml) — null/9.4/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.6, S -0.2.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

@@ -40,6 +40,19 @@
 - Røros (NO): deeper preserved mining heritage
 - Kiruna (SE): comparable active northern mining town
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Longyearbyen (SJ)](../../../countries/SJ/cities/longyearbyen.yaml) — 7.9/9.0/8.3/8.0/7.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.2.
+- [Tasiilaq (GL)](../../../countries/GL/cities/tasiilaq.yaml) — 8.3/8.7/8.0/8.1/7.4; existing named editorial peer. Subject minus peer: I -0.6, U +0.1, S +0.1.
+- [Røros (NO)](../../../countries/NO/cities/roros.yaml) — 8.6/9.0/9.0/8.6/8.1; existing named editorial peer. Subject minus peer: I -0.9, U -0.2, S -0.9.
+- [Kiruna (SE)](../../../countries/SE/cities/kiruna.yaml) — 7.5/8.7/8.4/7.9/7.7; existing named editorial peer. Subject minus peer: I +0.2, U +0.1, S -0.3.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |

@@ -18,6 +18,22 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Pulu Keeling (CC): no general-public tours
 - Kingman Reef (UM): no ordinary public access and narrower marine-only character
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.5, U -0.5, S -0.3, E -1.0, D -1.4.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.5, U -0.6, S -0.6, E +0.2, D +0.4.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -0.9, U -0.7, S -0.7, E -1.3, D -1.3.
+- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: I +0.2, U +0.2, S +0.2, E +0.0, D +0.2.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Kingman Reef National Wildlife Refuge (UM)](../../../countries/UM/sights/kingman-reef.yaml) — null/9.3/9.2/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 887.00 vs Galápagos Islands (World Heritage property) 978.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +66,22 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Henderson (PN): different remote inscribed ecosystem
 - Gough and Inaccessible Islands (SH): exceptional seabird conservation scope
 - Kingston (NF): established interpreted heritage precinct
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; existing named editorial peer. Subject minus peer: U -0.1, S +0.1.
+- [Hiroshima Peace Memorial Museum (JP)](../../../countries/JP/sights/hiroshima-peace-memorial-museum.yaml) — 9.3/9.6/9.8/9.4/9.0; supplementary memorial-type numerical anchor. Subject minus peer: U -0.3, S -0.4.
+- [War Remnants Museum (VN)](../../../countries/VN/sights/war-remnants-museum.yaml) — 8.8/9.1/9.5/9.1/8.7; supplementary memorial-type numerical anchor. Subject minus peer: U +0.2, S -0.1.
+- [Mauthausen Memorial (AT)](../../../countries/AT/sights/mauthausen-memorial.yaml) — 9.1/9.4/9.8/9.0/8.8; supplementary memorial-type numerical anchor. Subject minus peer: U -0.1, S -0.4.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Gough and Inaccessible Islands (UNESCO property) (SH)](../../../countries/SH/sights/gough-inaccessible-islands.yaml) — null/9.4/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S +0.0.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +116,24 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Great Chagos Bank (IO): far larger atoll structure
 - Glorieuses (TF): broader emergent island and marine reserve
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.1, S -0.1.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: U +0.1, S +0.2.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: U +0.2, S +0.2.
+- [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: U +0.6, S +0.7.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Bassas da India Atoll (TF)](../../../countries/TF/sights/bassas-da-india.yaml) — null/8.8/8.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.5, S +0.8.
+- [Great Chagos Bank (IO)](../../../countries/IO/sights/great-chagos-bank.yaml) — null/9.5/9.4/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.2, S -0.2.
+- [Glorieuses Archipelago nature reserve (TF)](../../../countries/TF/sights/glorieuses.yaml) — null/8.8/9.1/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.5, S +0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +166,19 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Jarvis (UM): similar isolated equatorial reef
 - Oeno (PN): distinct atoll lagoon system
 - Pulu Keeling (CC): higher internationally recognized wetland value
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.9, S -0.6.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.7, S -0.3.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.6, S -0.3.
+- [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.2, S +0.2.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +213,22 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Tromelin (TF): stronger distinct survival and archaeological history
 - Europa (TF): more specialized Ramsar and turtle significance
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.7, S -0.4.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.5, S -0.1.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.4, S -0.1.
+- [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: U +0.0, S +0.4.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Tromelin Island (natural and archaeological heritage) (TF)](../../../countries/TF/sights/tromelin.yaml) — null/8.9/9.0/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.2, S -0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +261,19 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Howland (UM): comparable habitat and stronger historical association
 - Ducie (PN): remote coral atoll and breeding birds
 - Kingman (UM): more exceptional reef baseline
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.6, S -0.4.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.4, S -0.1.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.3, S -0.1.
+- [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: U +0.1, S +0.4.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +308,22 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Phillip Island (NF): restoration-focused restricted island
 - Egmont (IO): less altered remote reef setting
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.9, S -0.4.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.7, S -0.1.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.6, S -0.1.
+- [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.2, S +0.4.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Phillip Island (restricted visitor scope) (NF)](../../../countries/NF/sights/phillip-island.yaml) — null/8.9/9.0/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.4, S -0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -249,6 +357,19 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Horsburgh (CC): smaller documented guided heritage visit
 - Salomon (IO): similarly restricted atoll
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -1.1, S -0.6.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -1.2, S -0.9.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -1.3, S -1.0.
+- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: U -0.4, S -0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -281,6 +402,22 @@ All nine geographic units in the [UN geographic-code listing](https://service.un
 - Europa (TF): different mangrove and turtle habitat
 - Phillip Island (NF): restricted island refuge
 - Oeno (PN): distinct low coral atoll morphology
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.7, S -0.4.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.5, S -0.1.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.4, S -0.1.
+- [Los Pingüinos Natural Monument (Magdalena Island) (CL)](../../../countries/CL/sights/los-pinguinos-natural-monument-magdalena-island.yaml) — 8.6/8.7/8.5/8.7/7.3; supplementary wildlife-type numerical anchor. Subject minus peer: U +0.0, S +0.4.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Phillip Island (restricted visitor scope) (NF)](../../../countries/NF/sights/phillip-island.yaml) — null/8.9/9.0/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.2, S -0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

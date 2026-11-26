@@ -16,6 +16,19 @@
 - Saint-Denis (RE): comparable island capital
 - Port Louis (MU): broader trading-port heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pointe-à-Pitre (GP)](../../../countries/GP/cities/pointe-a-pitre.yaml) — 7.5/7.9/8.2/8.0/7.9; existing named editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.0, E +0.2, D +0.1.
+- [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) — 7.7/8.4/8.5/8.2/8.4; existing named editorial peer. Subject minus peer: I +0.0, U -0.5, S -0.3, E +0.0, D -0.4.
+- [Saint-Denis (RE)](../../../countries/RE/cities/saint-denis.yaml) — 7.6/8.0/8.1/8.1/8.0; existing named editorial peer. Subject minus peer: I +0.1, U -0.1, S +0.1, E +0.1, D +0.0.
+- [Port Louis (MU)](../../../countries/MU/cities/port-louis.yaml) — 8.0/8.2/8.5/8.4/8.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.3, E -0.2, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 795.50 vs Port Louis 823.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Pompeii (IT): far greater preserved archaeological fabric
 - Basse-Terre (GP): comparable Caribbean historical town
 - Saint-Denis (RE): broader urban cultural offer
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Basse-Terre (GP)](../../../countries/GP/cities/basse-terre.yaml) — 7.5/7.7/8.0/7.7/7.4; existing named editorial peer. Subject minus peer: I +0.7, U +0.9, S +0.9, E +0.4, D +0.5.
+- [Saint-Denis (RE)](../../../countries/RE/cities/saint-denis.yaml) — 7.6/8.0/8.1/8.1/8.0; existing named editorial peer. Subject minus peer: I +0.6, U +0.6, S +0.8, E +0.0, D -0.1.
+- [Jamestown (Saint Helena) (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; supplementary historic-type numerical anchor. Subject minus peer: I -0.3, U -0.2, S +0.3, E -0.2, D +0.0.
+- [Hakodate (JP)](../../../countries/JP/cities/hakodate.yaml) — 8.5/8.7/8.5/8.8/8.5; supplementary historic-type numerical anchor. Subject minus peer: I -0.3, U -0.1, S +0.4, E -0.7, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 839.50 vs Hakodate 859.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -82,6 +108,19 @@
 - Saint-Leu (RE): comparable Creole town
 - Fort-de-France (MQ): much broader urban scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Saint-François (GP)](../../../countries/GP/cities/saint-francois.yaml) — 7.3/7.4/6.8/8.0/7.3; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.7, E -0.2, D -0.1.
+- [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.6, U -0.2, S +0.6, E -0.2, D +0.1.
+- [Saint-Leu (RE)](../../../countries/RE/cities/saint-leu.yaml) — 7.4/7.5/7.0/7.8/7.3; existing named editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.5, E +0.0, D -0.1.
+- [Fort-de-France (MQ)](../../../countries/MQ/cities/fort-de-france.yaml) — 7.7/7.9/8.2/8.2/8.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.7, E -0.4, D -0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 745.50 vs Fort-de-France 795.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -114,6 +153,19 @@
 - Rincón (PR): similar coastal town
 - Terre-de-Haut (GP): more distinctive built harbour
 - Cilaos (RE): greater mountain village character
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S +0.3, E -0.1, D +0.1.
+- [Rincón (PR)](../../../countries/PR/cities/rincon.yaml) — 7.3/7.5/6.6/7.8/7.0; existing named editorial peer. Subject minus peer: I +0.5, U +0.1, S +0.6, E +0.1, D +0.2.
+- [Terre-de-Haut (bourg) (GP)](../../../countries/GP/cities/terre-de-haut.yaml) — 8.4/8.2/7.7/8.4/7.6; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.5, E -0.5, D -0.4.
+- [Cilaos (RE)](../../../countries/RE/cities/cilaos.yaml) — 8.5/8.3/7.5/8.2/7.5; existing named editorial peer. Subject minus peer: I -0.7, U -0.7, S -0.3, E -0.3, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 758.50 vs Terre-de-Haut (bourg) 813.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

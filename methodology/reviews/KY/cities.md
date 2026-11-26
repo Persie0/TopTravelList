@@ -16,6 +16,19 @@
 - Oranjestad (AW): broader architectural heritage
 - Willemstad (CW): far greater historic ensemble
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Hamilton (BM)](../../../countries/BM/cities/hamilton.yaml) — 7.9/7.8/8.0/8.4/8.0; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.2, E -0.3, D -0.3.
+- [Philipsburg (SX)](../../../countries/SX/cities/philipsburg.yaml) — 7.8/7.8/8.0/8.3/7.9; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.2, E -0.2, D -0.2.
+- [Oranjestad (AW)](../../../countries/AW/cities/oranjestad.yaml) — 7.9/8.0/8.1/8.3/8.0; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.3, E -0.2, D -0.3.
+- [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -1.1, U -1.3, S -1.2, E -0.8, D -1.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 778.00 vs Willemstad 890.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Corossol (BL): stronger craft heritage
 - Saül (GF): more unusual forest setting
 - Windwardside (BQ): stronger mountain village scenery
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Karlby (Kökar) (AX)](../../../countries/AX/cities/karlby.yaml) — 7.1/7.5/6.9/7.3/6.5; existing named editorial peer. Subject minus peer: I +0.1, U +0.3, S +0.1, E +0.1, D -0.1.
+- [Corossol (BL)](../../../countries/BL/cities/corossol.yaml) — 7.6/8.0/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.4, E -0.1, D -0.4.
+- [Saül (GF)](../../../countries/GF/cities/saul.yaml) — 7.2/8.8/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I +0.0, U -1.0, S -0.4, E -0.1, D -0.4.
+- [Windwardside (Saba) (BQ)](../../../countries/BQ/cities/windwardside.yaml) — 8.2/8.4/7.6/8.0/7.4; existing named editorial peer. Subject minus peer: I -1.0, U -0.6, S -0.6, E -0.6, D -1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 726.00 vs Windwardside (Saba) 802.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

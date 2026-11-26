@@ -18,6 +18,19 @@
 | [Pigeon Island](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) | larger architecture than Pigeon Island |
 | [Fort Hamilton](../../../countries/VC/sights/fort-hamilton-bequia.yaml) | much more built scope than Fort Hamilton |
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; existing linked editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.2, E -0.7, D -0.3.
+- [Historic Bridgetown and its Garrison (BB)](../../../countries/BB/sights/historic-bridgetown-and-its-garrison.yaml) — 8.6/9.0/9.4/8.5/8.9; existing linked editorial peer. Subject minus peer: I +0.3, U -0.2, S -0.3, E +0.2, D -0.3.
+- [Pigeon Island National Landmark (LC)](../../../countries/LC/sights/pigeon-island-national-landmark.yaml) — 8.6/8.5/8.8/8.8/8.3; existing linked editorial peer. Subject minus peer: I +0.3, U +0.3, S +0.3, E -0.1, D +0.3.
+- [Fort Hamilton (Bequia) (VC)](../../../countries/VC/sights/fort-hamilton-bequia.yaml) — 7.6/7.7/8.0/7.9/6.1; existing linked editorial peer. Subject minus peer: I +1.3, U +1.1, S +1.1, E +0.8, D +2.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 885.50 vs Hohensalzburg Fortress 916.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -54,6 +67,19 @@
 - Luminous Lagoon (JM): directly comparable tropical bioluminescent water
 - Waitomo Glowworm Caves (NZ): different but similarly exceptional biological light experience
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Laguna Grande Bioluminescent Lagoon (PR)](../../../countries/PR/sights/laguna-grande.yaml) — 8.8/8.9/8.0/8.7/7.5; existing named editorial peer. Subject minus peer: I +0.8, U +0.6, S +0.8, E +0.5, D +0.3.
+- [Luminous Lagoon (JM)](../../../countries/JM/sights/luminous-lagoon.yaml) — 8.9/9.2/8.3/8.7/7.1; existing named editorial peer. Subject minus peer: I +0.7, U +0.3, S +0.5, E +0.5, D +0.7.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I +0.1, U +0.3, S +0.8, E -0.1, D -1.0.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I +0.2, U +0.2, S -0.3, E +0.1, D -1.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.6 vs Bora Bora Lagoon 9.5; uniqueness 9.5 vs Tobago Cays Marine Park 9.3; nature category 9.5 vs Tobago Cays Marine Park 9.5; overall 917.50 vs Tobago Cays Marine Park 922.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -86,6 +112,19 @@
 - Khao Sok (TH): larger karst and lake landscape variety
 - Daintree (AU): stronger ancient rainforest significance
 - Guánica Dry Forest (PR): contrasting smaller dry forest experience
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Guánica Dry Forest (PR)](../../../countries/PR/sights/guanica-dry-forest.yaml) — 8.2/8.5/8.6/8.2/8.2; existing named editorial peer. Subject minus peer: I +0.8, U +0.3, S +0.2, E +0.8, D +0.8.
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; supplementary forest-type numerical anchor. Subject minus peer: I +0.0, U -0.4, S -0.2, E +0.2, D +0.4.
+- [Black River Gorges National Park (MU)](../../../countries/MU/sights/black-river-gorges-national-park.yaml) — 9.0/8.9/8.8/8.9/9.0; supplementary forest-type numerical anchor. Subject minus peer: I +0.0, U -0.1, S +0.0, E +0.1, D +0.0.
+- [Laurisilva of Madeira (PT)](../../../countries/PT/sights/laurisilva.yaml) — 9.2/9.4/9.5/9.1/9.3; supplementary forest-type numerical anchor. Subject minus peer: I -0.2, U -0.6, S -0.7, E -0.1, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 891.00 vs Laurisilva of Madeira 930.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -120,6 +159,19 @@
 - Matira Beach (PF): comparable tropical bathing experience
 - Nha Trang Beach (VN): less exceptional urban setting
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; existing named editorial peer. Subject minus peer: I -0.8, U -1.4, S -1.2, E -0.1, D -0.4.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; existing named editorial peer. Subject minus peer: I +0.4, U +0.5, S +0.2, E +0.4, D +0.4.
+- [Nha Trang Beach (VN)](../../../countries/VN/sights/nha-trang-beach.yaml) — 8.5/8.0/7.3/9.0/8.7; existing named editorial peer. Subject minus peer: I +0.5, U +0.3, S -0.7, E +0.1, D -1.5.
+- [White Beach, Boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; supplementary beach-type numerical anchor. Subject minus peer: I -0.1, U -0.1, S -0.2, E +0.1, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 818.00 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -152,6 +204,19 @@
 - Škocjan Caves (SI): globally important underground canyon
 - Waitomo (NZ): distinct biological cave experience
 - Eisriesenwelt (AT): similarly substantial guided underground visit
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Škocjan Caves (SI)](../../../countries/SI/sights/skocjan-caves.yaml) — 9.4/9.6/9.4/9.1/8.8; existing named editorial peer. Subject minus peer: I -0.6, U -1.0, S -1.1, E -0.7, D -0.6.
+- [Son Doong Cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; supplementary cave-type numerical anchor. Subject minus peer: I -1.1, U -1.3, S -1.3, E -0.6, D -1.0.
+- [Blue Cave, Biševo (HR)](../../../countries/HR/sights/blue-cave.yaml) — 8.9/9.1/8.4/8.6/6.5; supplementary cave-type numerical anchor. Subject minus peer: I -0.1, U -0.5, S -0.1, E -0.2, D +1.7.
+- [Benagil sea cave (PT)](../../../countries/PT/sights/benagil.yaml) — 9.1/9.0/8.2/8.5/6.8; supplementary cave-type numerical anchor. Subject minus peer: I -0.3, U -0.4, S +0.1, E -0.1, D +1.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 853.00 vs Son Doong Cave 963.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -186,6 +251,19 @@
 - Suncheon Bay (KR): greater marsh and birdwatching depth
 - Salinas de Janubio (ES): closely comparable coastal saltworks
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Salar de Uyuni (BO)](../../../countries/BO/sights/salar-de-uyuni.yaml) — 9.9/9.9/9.0/9.4/9.0; existing named editorial peer. Subject minus peer: I -1.7, U -1.9, S -0.9, E -1.5, D -1.6.
+- [Camargue wetland landscape (FR)](../../../countries/FR/sights/camargue.yaml) — 9.0/9.2/9.1/9.0/9.1; existing named editorial peer. Subject minus peer: I -0.8, U -1.2, S -1.0, E -1.1, D -1.7.
+- [Gibbs Hill Lighthouse (exterior viewpoint) (BM)](../../../countries/BM/sights/gibbs-hill-lighthouse.yaml) — 8.3/8.1/8.3/7.9/6.8; supplementary lighthouse-type numerical anchor. Subject minus peer: I -0.1, U -0.1, S -0.2, E +0.0, D +0.6.
+- [California Lighthouse (AW)](../../../countries/AW/sights/california-lighthouse.yaml) — 8.2/8.0/7.8/8.2/7.0; supplementary lighthouse-type numerical anchor. Subject minus peer: I +0.0, U +0.0, S +0.3, E -0.3, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 800.50 vs Salar de Uyuni 955.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -218,6 +296,19 @@
 - Cape Reinga (NZ): deeper cultural importance
 - Dyrhólaey (IS): more distinctive volcanic coastal form
 - Punta de Teno (ES): comparable coastal lighthouse landscape
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kallur Lighthouse and ridge (FO)](../../../countries/FO/sights/kallur-lighthouse.yaml) — 9.1/8.6/7.2/8.8/7.7; existing named editorial peer. Subject minus peer: I -0.6, U -0.7, S +0.3, E -0.5, D -0.5.
+- [Dyrhólaey (IS)](../../../countries/IS/sights/dyrholaey.yaml) — 9.0/8.8/8.5/8.6/7.9; existing named editorial peer. Subject minus peer: I -0.5, U -0.9, S -1.0, E -0.3, D -0.7.
+- [Gibbs Hill Lighthouse (exterior viewpoint) (BM)](../../../countries/BM/sights/gibbs-hill-lighthouse.yaml) — 8.3/8.1/8.3/7.9/6.8; supplementary lighthouse-type numerical anchor. Subject minus peer: I +0.2, U -0.2, S -0.8, E +0.4, D +0.4.
+- [California Lighthouse (AW)](../../../countries/AW/sights/california-lighthouse.yaml) — 8.2/8.0/7.8/8.2/7.0; supplementary lighthouse-type numerical anchor. Subject minus peer: I +0.3, U -0.1, S -0.3, E +0.1, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 799.00 vs Dyrhólaey 868.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -252,6 +343,19 @@
 - Luminous Lagoon (JM): similar dinoflagellate experience
 - Waitomo (NZ): more distinctive cave setting
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mosquito Bioluminescent Bay (PR)](../../../countries/PR/sights/mosquito-bay.yaml) — 9.6/9.5/8.8/9.2/7.8; existing named editorial peer. Subject minus peer: I -0.8, U -0.6, S -0.8, E -0.5, D -0.3.
+- [Luminous Lagoon (JM)](../../../countries/JM/sights/luminous-lagoon.yaml) — 8.9/9.2/8.3/8.7/7.1; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.3, E +0.0, D +0.4.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.7, U -0.3, S +0.0, E -0.6, D -1.3.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.6, U -0.4, S -1.1, E -0.4, D -1.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 852.00 vs Tobago Cays Marine Park 922.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -284,6 +388,19 @@
 - Laguna Grande (PR): similar but different lagoon setting
 - Luminous Lagoon (JM): close natural peer
 - Waitomo (NZ): different biological light mechanism
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mosquito Bioluminescent Bay (PR)](../../../countries/PR/sights/mosquito-bay.yaml) — 9.6/9.5/8.8/9.2/7.8; existing named editorial peer. Subject minus peer: I -1.0, U -0.9, S -0.9, E -0.6, D -0.4.
+- [Laguna Grande Bioluminescent Lagoon (PR)](../../../countries/PR/sights/laguna-grande.yaml) — 8.8/8.9/8.0/8.7/7.5; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.1, E -0.1, D -0.1.
+- [Luminous Lagoon (JM)](../../../countries/JM/sights/luminous-lagoon.yaml) — 8.9/9.2/8.3/8.7/7.1; existing named editorial peer. Subject minus peer: I -0.3, U -0.6, S -0.4, E -0.1, D +0.3.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.9, U -0.6, S -0.1, E -0.7, D -1.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 834.00 vs Mosquito Bioluminescent Bay 917.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -318,6 +435,19 @@
 - Hohensalzburg (AT): far broader historic architecture
 - Made in Cambodia Market (KH): similarly brief local visitor stop
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Made in Cambodia Market Siem Reap (KH)](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; existing named editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.2, E -1.2, D -1.4.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.1, U -0.3, S -0.8, E -0.6, D -1.0.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I -0.4, U -0.6, S -1.0, E -1.1, D -2.1.
+- [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I -1.0, U -0.8, S -1.2, E -1.3, D -2.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 760.00 vs National Museum of Bermuda (The Keep) 876.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -350,6 +480,19 @@
 - El Yunque (PR): contrasting wet forest and greater scenic variety
 - Tsingy de Bemaraha (MG): much more distinctive geology
 - Cabo Rojo Salt Flats (PR): narrower coastal habitat
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Santa Rosa National Park (CR)](../../../countries/CR/sights/santa-rosa-national-park.yaml) — 8.4/8.7/9.1/8.5/8.6; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.5, E -0.3, D -0.4.
+- [El Yunque National Forest (PR)](../../../countries/PR/sights/el-yunque.yaml) — 9.0/8.8/8.8/9.0/9.0; existing named editorial peer. Subject minus peer: I -0.8, U -0.3, S -0.2, E -0.8, D -0.8.
+- [Cabo Rojo Salt Flats (PR)](../../../countries/PR/sights/cabo-rojo-salt-flats.yaml) — 8.2/8.0/8.1/7.9/7.4; existing named editorial peer. Subject minus peer: I +0.0, U +0.5, S +0.5, E +0.3, D +0.8.
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; supplementary forest-type numerical anchor. Subject minus peer: I -0.8, U -0.7, S -0.4, E -0.6, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 835.50 vs Peaks National Park (Diana's Peak trails) 898.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

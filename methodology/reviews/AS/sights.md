@@ -18,6 +18,19 @@
 - [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — Palmyra has greater restricted atoll ecological scope, but narrower permitted ordinary access.
 - [sight-nf-emily-slaughter-bays](../../../countries/NF/sights/emily-slaughter-bays.yaml) — Emily and Slaughter Bays offer more convenient lagoon access; both destinations require current reef-condition caveats.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Direction Island (Cossie's Beach and heritage trail) (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; existing linked editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.9, E +0.1, D +0.2.
+- [Dolly Beach (CX)](../../../countries/CX/sights/dolly-beach.yaml) — 8.8/8.6/8.5/8.1/7.6; existing linked editorial peer. Subject minus peer: I +0.5, U +0.3, S +0.4, E +0.7, D +0.7.
+- [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: I +0.3, U -0.3, S -0.3, E +0.6, D +0.3.
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I +0.5, U +0.8, S +1.0, E +0.8, D +0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 894.50 vs Palmyra Atoll (permitted recreational refuge visit) 887.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@
 - [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — Norfolk Island National Park offers a comparable compact forest trail network and endemic biodiversity.
 - [sight-sh-peaks-national-park](../../../countries/SH/sights/peaks-national-park.yaml) — Peaks National Park has stronger endemic cloud-forest significance.
 - [sight-sh-green-mountain](../../../countries/SH/sights/green-mountain.yaml) — Green Mountain has a comparable summit experience, but more introduced vegetation.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I +0.0, U -0.5, S -0.6, E +0.2, D +0.2.
+- [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.2, U -0.3, S -0.3, E +0.0, D +0.3.
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.1, U -0.7, S -0.5, E -0.2, D +0.1.
+- [Green Mountain National Park (Ascension Island) (SH)](../../../countries/SH/sights/green-mountain.yaml) — 8.7/8.8/8.4/8.5/8.2; existing linked editorial peer. Subject minus peer: I +0.2, U -0.3, S +0.1, E +0.1, D +0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 865.50 vs Peaks National Park (Diana's Peak trails) 898.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@
 - [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — Sandy Bay offers similar volcanic coastal scenery without the same nesting-island viewpoint.
 - [sight-pn-down-rope](../../../countries/PN/sights/down-rope.yaml) — Down Rope combines cultural rock art and cliffs but requires a more constrained guided route.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I +0.1, U +0.4, S +0.7, E +0.0, D +0.1.
+- [Margaret Knoll Lookout (CX)](../../../countries/CX/sights/margaret-knoll.yaml) — 8.6/8.5/8.6/8.2/7.3; existing linked editorial peer. Subject minus peer: I +0.4, U +0.2, S +0.0, E +0.3, D +0.6.
+- [Sandy Bay volcanic coast (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; existing linked editorial peer. Subject minus peer: I +0.4, U +0.4, S +0.9, E +0.6, D +0.4.
+- [Down Rope beach and Polynesian petroglyphs (PN)](../../../countries/PN/sights/down-rope.yaml) — 8.7/8.8/8.7/7.8/7.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.1, S -0.1, E +0.7, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 866.00 vs Down Rope beach and Polynesian petroglyphs 847.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@
 - [sight-nf-anson-bay](../../../countries/NF/sights/anson-bay.yaml) — Anson Bay is a shorter cliff-framed beach circuit with less rainforest hiking.
 - [sight-pn-christians-cave](../../../countries/PN/sights/christians-cave.yaml) — Christian's Cave has stronger specific maritime historical associations.
 - [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — Sandy Bay has comparable coastal impact but less varied forest walking.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Dolly Beach (CX)](../../../countries/CX/sights/dolly-beach.yaml) — 8.8/8.6/8.5/8.1/7.6; existing linked editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.5, E +0.1, D +0.0.
+- [Anson Bay Reserve (NF)](../../../countries/NF/sights/anson-bay.yaml) — 8.6/7.9/7.2/7.8/7.1; existing linked editorial peer. Subject minus peer: I +0.0, U +0.4, S +0.8, E +0.4, D +0.5.
+- [Christian's Cave and Sailors Hide eco trail (PN)](../../../countries/PN/sights/christians-cave.yaml) — 8.2/8.6/8.3/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.4, U -0.3, S -0.3, E +0.1, D +0.1.
+- [Sandy Bay volcanic coast (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; existing linked editorial peer. Subject minus peer: I +0.0, U +0.0, S +0.3, E +0.3, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 824.50 vs Dolly Beach 846.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@
 - [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — Palmyra has broader lagoon biodiversity and much more restricted visitor access.
 - [sight-nf-emily-slaughter-bays](../../../countries/NF/sights/emily-slaughter-bays.yaml) — Emily and Slaughter Bays have easier recreational access, but documented environmental pressures constrain reef ratings.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [The Rip (Direction Island drift snorkel) (CC)](../../../countries/CC/sights/the-rip.yaml) — 8.8/8.8/8.7/8.4/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U +0.1, S +0.4, E -0.1, D +0.6.
+- [Flying Fish Cove beach and shore reef (CX)](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — 8.6/8.5/8.5/8.6/8.1; existing linked editorial peer. Subject minus peer: I +0.3, U +0.4, S +0.6, E -0.3, D +0.1.
+- [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.1, E +0.1, D +0.2.
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I +0.1, U +0.8, S +1.2, E +0.3, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 878.00 vs Palmyra Atoll (permitted recreational refuge visit) 887.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@
 - [sight-nf-anson-bay](../../../countries/NF/sights/anson-bay.yaml) — Anson Bay offers comparable coastal scenery but a smaller visitor landscape.
 - [sight-cx-lily-ethel-beaches](../../../countries/CX/sights/lily-ethel-beaches.yaml) — Lily and Ethel Beaches offer a similar two-cove circuit with less distinctive flooded-crater form.
 - [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — Sandy Bay has stronger eroded volcanic-ridge scenery but less reef-focused scope.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fagatele Bay marine sanctuary (AS)](../../../countries/AS/sights/fagatele-bay.yaml) — 8.9/8.9/9.1/8.3/8.2; existing linked editorial peer. Subject minus peer: I -0.2, U -0.4, S -0.7, E -0.3, D -0.6.
+- [Anson Bay Reserve (NF)](../../../countries/NF/sights/anson-bay.yaml) — 8.6/7.9/7.2/7.8/7.1; existing linked editorial peer. Subject minus peer: I +0.1, U +0.6, S +1.2, E +0.2, D +0.5.
+- [Lily Beach and Ethel Beach coastal circuit (CX)](../../../countries/CX/sights/lily-ethel-beaches.yaml) — 8.3/8.0/7.7/7.9/7.4; existing linked editorial peer. Subject minus peer: I +0.4, U +0.5, S +0.7, E +0.1, D +0.2.
+- [Sandy Bay volcanic coast (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; existing linked editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.7, E +0.1, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 837.50 vs Fagatele Bay marine sanctuary 878.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@
 - [sight-nf-botanic-garden](../../../countries/NF/sights/botanic-garden.yaml) — Norfolk Botanic Garden has more structured botanical interpretation but less natural crater habitat.
 - [sight-pn-christians-cave](../../../countries/PN/sights/christians-cave.yaml) — Christian's Cave is a similarly focused geological walk, without the same freshwater wetland.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I -0.5, U -0.2, S -0.4, E -0.4, D -0.8.
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.6, U -0.4, S -0.3, E -0.8, D -0.9.
+- [Norfolk Island Botanic Garden (NF)](../../../countries/NF/sights/botanic-garden.yaml) — 7.9/8.5/8.5/8.3/7.6; existing linked editorial peer. Subject minus peer: I +0.5, U +0.3, S +0.2, E -0.3, D +0.1.
+- [Christian's Cave and Sailors Hide eco trail (PN)](../../../countries/PN/sights/christians-cave.yaml) — 8.2/8.6/8.3/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.4, E -0.1, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 843.00 vs Peaks National Park (Diana's Peak trails) 898.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@
 - [sight-pn-down-rope](../../../countries/PN/sights/down-rope.yaml) — Down Rope combines remote shoreline and Polynesian archaeology with a much shorter visitor route.
 - [sight-nf-kingston-arthurs-vale](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — Kingston has broader interpreted historic buildings but a different heritage context.
 - [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — The Dales have stronger wetland ecology and more clearly established connected walks.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Queen Mary's Peak guided ascent (Tristan da Cunha) (SH)](../../../countries/SH/sights/queen-marys-peak.yaml) — 9.0/9.0/8.5/8.3/8.3; existing linked editorial peer. Subject minus peer: I -0.1, U -0.2, S +0.4, E -0.3, D -0.2.
+- [Down Rope beach and Polynesian petroglyphs (PN)](../../../countries/PN/sights/down-rope.yaml) — 8.7/8.8/8.7/7.8/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.2, E +0.2, D +0.6.
+- [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.3, E -0.8, D -0.6.
+- [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.2, E -0.4, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 866.00 vs Kingston and Arthur's Vale Historic Area 892.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@
 - [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — Norfolk National Park has more maintained trail breadth.
 - [sight-cx-margaret-knoll](../../../countries/CX/sights/margaret-knoll.yaml) — Margaret Knoll is a shorter coastal viewpoint with less elevation and ascent.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Green Mountain National Park (Ascension Island) (SH)](../../../countries/SH/sights/green-mountain.yaml) — 8.7/8.8/8.4/8.5/8.2; existing linked editorial peer. Subject minus peer: I +0.2, U -0.4, S -0.4, E -0.5, D -0.5.
+- [Queen Mary's Peak guided ascent (Tristan da Cunha) (SH)](../../../countries/SH/sights/queen-marys-peak.yaml) — 9.0/9.0/8.5/8.3/8.3; existing linked editorial peer. Subject minus peer: I -0.1, U -0.6, S -0.5, E -0.3, D -0.6.
+- [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.2, U -0.4, S -0.8, E -0.6, D -0.7.
+- [Margaret Knoll Lookout (CX)](../../../countries/CX/sights/margaret-knoll.yaml) — 8.6/8.5/8.6/8.2/7.3; existing linked editorial peer. Subject minus peer: I +0.3, U -0.1, S -0.6, E -0.2, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 834.00 vs Queen Mary's Peak guided ascent (Tristan da Cunha) 872.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@
 - [sight-nf-norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) — Norfolk Museum has broader multi-building exhibits and penal history.
 - [sight-cc-pulu-cocos-museum](../../../countries/CC/sights/pulu-cocos-museum.yaml) — Pulu Cocos Museum has a comparable local island cultural focus.
 - [sight-pn-pitcairn-museum](../../../countries/PN/sights/pitcairn-museum.yaml) — Pitcairn Museum has a smaller collection but particularly distinctive Bounty-era artifacts.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Tai Jin House Museum (CX)](../../../countries/CX/sights/tai-jin-house.yaml) — 7.9/8.3/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: I -0.4, U +0.1, S +0.2, E +0.1, D +0.2.
+- [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.0, E -0.3, D -0.3.
+- [Pulu Cocos Museum (CC)](../../../countries/CC/sights/pulu-cocos-museum.yaml) — 7.1/8.4/8.5/7.8/7.2; existing linked editorial peer. Subject minus peer: I +0.4, U +0.0, S +0.2, E +0.3, D +0.5.
+- [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.1, E +0.1, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 807.50 vs Norfolk Island Museum 826.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -348,6 +478,24 @@
 - [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — Pulu Keeling is a comparable restricted seabird atoll with Ramsar status.
 - [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — Palmyra has a documented permitted recreation scope absent at Rose Atoll.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: U +0.0, S +0.1.
+- [St Andrews Bay (authorized wildlife viewing) (GS)](../../../countries/GS/sights/st-andrews-bay.yaml) — 9.4/9.4/9.3/9.1/8.8; supplementary wildlife-type numerical anchor. Subject minus peer: U -0.2, S +0.0.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: U +0.0, S +0.3.
+- [Cousin Island Special Reserve (SC)](../../../countries/SC/sights/cousin-island-special-reserve.yaml) — 8.1/9.1/9.0/8.5/7.6; supplementary wildlife-type numerical anchor. Subject minus peer: U +0.1, S +0.3.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Kingman Reef National Wildlife Refuge (UM)](../../../countries/UM/sights/kingman-reef.yaml) — null/9.3/9.2/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S +0.1.
+- [Henderson Island (UNESCO property) (PN)](../../../countries/PN/sights/henderson-island.yaml) — null/9.3/9.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S -0.1.
+- [Pulu Keeling National Park (North Keeling Island) (CC)](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — null/9.3/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S +0.0.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -380,6 +528,24 @@
 - [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — Palmyra has more documented permitted recreational access and restoration research.
 - [sight-io-peros-banhos](../../../countries/IO/sights/peros-banhos.yaml) — Peros Banhos has greater documented forced-displacement heritage and restricted access.
 - [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — Pulu Keeling has stronger formally recognized wetland conservation significance.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: U -0.4, S -0.4.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -0.9, S -0.7.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -1.0, S -1.0.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -1.1, S -1.1.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Oeno Atoll (restricted visitor scope) (PN)](../../../countries/PN/sights/oeno-atoll.yaml) — null/8.5/8.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.3, S +0.4.
+- [Peros Banhos Atoll (IO)](../../../countries/IO/sights/peros-banhos.yaml) — null/8.9/9.1/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S -0.3.
+- [Pulu Keeling National Park (North Keeling Island) (CC)](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — null/9.3/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.5, S -0.5.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

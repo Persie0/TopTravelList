@@ -18,6 +18,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Horseshoe Bay (BM): more unusual sand colour
 - Flamenco Beach (PR): comparable natural bay
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Grace Bay Beach (Providenciales) (TC)](../../../countries/TC/sights/grace-bay.yaml) — 9.2/8.5/7.4/9.0/8.0; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.2, E -0.1, D -0.4.
+- [Eagle Beach (AW)](../../../countries/AW/sights/eagle-beach.yaml) — 9.0/8.3/7.2/8.9/7.7; existing named editorial peer. Subject minus peer: I +0.0, U +0.0, S +0.0, E +0.0, D -0.1.
+- [Horseshoe Bay Beach (BM)](../../../countries/BM/sights/horseshoe-bay.yaml) — 9.0/8.6/7.3/8.9/7.6; existing named editorial peer. Subject minus peer: I +0.0, U -0.3, S -0.1, E +0.0, D +0.0.
+- [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I +0.0, U +0.0, S +0.6, E -0.2, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 831.00 vs Grace Bay Beach (Providenciales) 851.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Mullet Bay (SX): comparable sandy shore
 - Flamenco Beach (PR): stronger undeveloped setting
 - Grace Bay (TC): larger shoreline
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Shoal Bay East Beach (AI)](../../../countries/AI/sights/shoal-bay-east.yaml) — 9.0/8.3/7.2/8.9/7.6; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.1, D +0.0.
+- [Mullet Bay Beach (SX)](../../../countries/SX/sights/mullet-bay.yaml) — 8.7/8.0/7.0/8.5/7.4; existing named editorial peer. Subject minus peer: I +0.1, U +0.1, S -0.1, E +0.3, D +0.2.
+- [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.3, E -0.3, D +0.4.
+- [Grace Bay Beach (Providenciales) (TC)](../../../countries/TC/sights/grace-bay.yaml) — 9.2/8.5/7.4/9.0/8.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.5, E -0.2, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 812.50 vs Grace Bay Beach (Providenciales) 851.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Grace Bay (TC): longer beach
 - Eagle Beach (AW): comparable beach experience
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Meads Bay Beach (AI)](../../../countries/AI/sights/meads-bay.yaml) — 8.8/8.1/6.9/8.8/7.6; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.1, E +0.0, D +0.2.
+- [Magens Bay Beach (Saint Thomas) (VI)](../../../countries/VI/sights/magens-bay.yaml) — 8.9/8.3/7.3/8.8/7.7; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.3, E +0.0, D +0.1.
+- [Grace Bay Beach (Providenciales) (TC)](../../../countries/TC/sights/grace-bay.yaml) — 9.2/8.5/7.4/9.0/8.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.3, S -0.4, E -0.2, D -0.2.
+- [Eagle Beach (AW)](../../../countries/AW/sights/eagle-beach.yaml) — 9.0/8.3/7.2/8.9/7.7; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.2, E -0.1, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 819.00 vs Grace Bay Beach (Providenciales) 851.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Pain de Sucre (GP): distinctive volcanic cove
 - Oro Natural Pool (NC): more distinctive basin
 - Cupecoy (SX): comparable limestone coast
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pain de Sucre Beach (GP)](../../../countries/GP/sights/pain-de-sucre.yaml) — 8.8/8.6/6.9/8.7/7.0; existing named editorial peer. Subject minus peer: I +0.0, U +0.0, S +1.1, E -0.2, D +0.5.
+- [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.3, S +0.0, E -0.6, D -0.3.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S +0.0, E -0.8, D -1.3.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.6, U -0.7, S -1.1, E -0.6, D -1.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 841.50 vs Tobago Cays Marine Park 922.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Klein Curaçao (CW): similar offshore beach experience
 - Klein Bonaire (BQ): comparable marine protection
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Petite-Terre Nature Reserve (permitted sector) (GP)](../../../countries/GP/sights/petite-terre.yaml) — 9.0/9.0/8.9/8.7/8.2; existing named editorial peer. Subject minus peer: I -0.1, U -0.5, S -0.4, E -0.1, D -0.2.
+- [Île Tintamarre (MF)](../../../countries/MF/sights/tintamarre.yaml) — 8.9/8.7/8.6/8.6/8.0; existing named editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.1, E +0.0, D +0.0.
+- [Klein Curaçao (permitted island visitor area) (CW)](../../../countries/CW/sights/klein-curacao.yaml) — 9.0/8.7/8.2/8.8/8.2; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S +0.3, E -0.2, D -0.2.
+- [Klein Bonaire (permitted shore visitor area) (BQ)](../../../countries/BQ/sights/klein-bonaire.yaml) — 8.8/8.4/8.3/8.7/7.8; existing named editorial peer. Subject minus peer: I +0.1, U +0.1, S +0.2, E -0.1, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 858.50 vs Petite-Terre Nature Reserve (permitted sector) 885.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Klein Bonaire (BQ): larger island
 - Tintamarre (MF): stronger natural habitat scope
 - Choizil (YT): more varied islets
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Prickly Pear Cays (permitted visitor areas) (AI)](../../../countries/AI/sights/prickly-pear.yaml) — 8.9/8.5/8.5/8.6/8.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -1.0, E +0.0, D -1.1.
+- [Klein Bonaire (permitted shore visitor area) (BQ)](../../../countries/BQ/sights/klein-bonaire.yaml) — 8.8/8.4/8.3/8.7/7.8; existing named editorial peer. Subject minus peer: I +0.0, U +0.0, S -0.8, E -0.1, D -0.9.
+- [Île Tintamarre (MF)](../../../countries/MF/sights/tintamarre.yaml) — 8.9/8.7/8.6/8.6/8.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -1.1, E +0.0, D -1.1.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -1.3, S -2.0, E -0.6, D -2.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 822.00 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Reef Bay petroglyphs (VI): broader trail setting
 - Lascaux interpretation (FR): greater global archaeological significance
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fontein Cave (AW)](../../../countries/AW/sights/fontein-cave.yaml) — 8.0/8.6/8.8/8.2/7.4; existing named editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.1, E -0.1, D +0.0.
+- [Tsodilo Hills (BW)](../../../countries/BW/sights/tsodilo-hills.yaml) — 8.5/9.3/9.6/8.2/8.2; supplementary rockart-type numerical anchor. Subject minus peer: I -0.6, U -0.5, S -0.7, E -0.1, D -0.8.
+- [Rock Art of Alta (NO)](../../../countries/NO/sights/alta-rock-art.yaml) — 8.5/9.1/9.3/8.6/8.5; supplementary rockart-type numerical anchor. Subject minus peer: I -0.6, U -0.3, S -0.4, E -0.5, D -1.1.
+- [Zuojiang Huashan Rock Art (CN)](../../../countries/CN/sights/zuojiang-huashan-rock-art.yaml) — 9.1/9.6/9.4/8.6/8.4; supplementary rockart-type numerical anchor. Subject minus peer: I -1.2, U -0.8, S -0.5, E -0.5, D -1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 830.50 vs Zuojiang Huashan Rock Art 914.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Fontein Cave (AW): documented managed viewing
 - Cueva del Indio (PR): different accessible coastal rock art
 - Lascaux (FR): distinct protected cave with interpretation replica
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Big Spring Heritage Site (AI)](../../../countries/AI/sights/big-spring.yaml) — 7.9/8.8/8.9/8.1/7.4; existing named editorial peer. Subject minus peer: U +0.2, S +0.2.
+- [Fontein Cave (AW)](../../../countries/AW/sights/fontein-cave.yaml) — 8.0/8.6/8.8/8.2/7.4; existing named editorial peer. Subject minus peer: U +0.4, S +0.3.
+- [Postojna Cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) — 9.4/9.3/9.1/9.3/9.0; supplementary cave-type numerical anchor. Subject minus peer: U -0.3, S +0.0.
+- [Son Doong Cave (VN)](../../../countries/VN/sights/son-doong-cave.yaml) — 9.9/9.9/9.6/9.0/9.2; supplementary cave-type numerical anchor. Subject minus peer: U -0.9, S -0.5.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Eckerö Customs House (AX): broader historic building
 - Annaberg (VI): more extensive plantation ruins
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pedro St James National Historic Site (Grand Cayman) (KY)](../../../countries/KY/sights/pedro-st-james.yaml) — 8.0/8.5/8.8/8.4/8.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.4, E -0.8, D -1.2.
+- [Habitation Clément (MQ)](../../../countries/MQ/sights/habitation-clement.yaml) — 8.2/8.5/8.5/8.7/8.6; existing named editorial peer. Subject minus peer: I -0.6, U -0.4, S -0.1, E -1.1, D -1.8.
+- [Annaberg Sugar Plantation Ruins (Saint John) (VI)](../../../countries/VI/sights/annaberg.yaml) — 8.2/8.5/8.9/8.4/8.0; existing named editorial peer. Subject minus peer: I -0.6, U -0.4, S -0.5, E -0.8, D -1.2.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -1.5, U -0.8, S -0.3, E -1.5, D -2.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 780.50 vs Pembrokeshire Coast National Park 898.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@ Named permitted visitor scope only. Marine ratings do not assume pristine reefs 
 - Salt Cay Salinas (TC): broader salt heritage
 - Bandrélé (YT): specialized craft museum
 - Spittal Pond (BM): stronger protected wetland scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bonaire Salt Pans (public viewpoints) (BQ)](../../../countries/BQ/sights/bonaire-salt-pans.yaml) — 8.7/8.8/8.2/8.1/7.3; existing named editorial peer. Subject minus peer: I -1.0, U -0.7, S +0.0, E -0.3, D -0.1.
+- [Salt Cay Salinas (public heritage viewpoints) (TC)](../../../countries/TC/sights/salt-cay-salinas.yaml) — 8.1/8.5/8.7/7.8/7.5; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.5, E +0.0, D -0.3.
+- [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing named editorial peer. Subject minus peer: I -0.6, U -0.4, S -0.6, E -0.6, D -1.0.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -1.4, U -0.8, S -0.5, E -1.3, D -2.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 786.50 vs Pembrokeshire Coast National Park 898.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

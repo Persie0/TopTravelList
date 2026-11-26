@@ -18,6 +18,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Lac Bay (BQ): broader mangrove habitat
 - Grand Cul-de-Sac (BL): smaller lagoon
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.5, E -0.6, D -0.4.
+- [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.5, E -0.4, D +0.6.
+- [Lac Bay (Bonaire) (BQ)](../../../countries/BQ/sights/lac-bay.yaml) — 8.7/8.7/8.9/8.7/8.5; existing named editorial peer. Subject minus peer: I +0.5, U +0.3, S -0.4, E +0.0, D -0.1.
+- [Grand Cul-de-Sac Lagoon (BL)](../../../countries/BL/sights/grand-cul-de-sac.yaml) — 8.6/8.5/8.5/8.7/8.0; existing named editorial peer. Subject minus peer: I +0.6, U +0.5, S +0.0, E +0.0, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 885.50 vs Bora Bora Lagoon 902.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Lékiny Cliffs (NC): comparable limestone landscape
 - Pointe des Châteaux (GP): comparable headland
 - Kallur (FO): more dramatic ridge
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Shete Boka National Park (CW)](../../../countries/CW/sights/shete-boka.yaml) — 9.0/8.7/8.6/8.6/8.4; existing named editorial peer. Subject minus peer: I +0.1, U +0.1, S -0.7, E +0.1, D -0.4.
+- [Lékiny Cliffs (NC)](../../../countries/NC/sights/lekiny-cliffs.yaml) — 8.8/8.5/8.1/8.4/7.6; existing named editorial peer. Subject minus peer: I +0.3, U +0.3, S -0.2, E +0.3, D +0.4.
+- [Pointe des Châteaux (GP)](../../../countries/GP/sights/pointe-des-chateaux.yaml) — 8.9/8.5/7.9/8.6/7.6; existing named editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.0, E +0.1, D +0.4.
+- [Postojna Cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) — 9.4/9.3/9.1/9.3/9.0; supplementary cave-type numerical anchor. Subject minus peer: I -0.3, U -0.5, S -1.2, E -0.6, D -1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.50 vs Postojna Cave 926.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Flamenco Beach (PR): more natural bay
 - Whitehaven (AU): more distinctive sand landscape
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Eagle Beach (AW)](../../../countries/AW/sights/eagle-beach.yaml) — 9.0/8.3/7.2/8.9/7.7; existing named editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.2, E +0.1, D +0.3.
+- [Horseshoe Bay Beach (BM)](../../../countries/BM/sights/horseshoe-bay.yaml) — 9.0/8.6/7.3/8.9/7.6; existing named editorial peer. Subject minus peer: I +0.2, U -0.1, S +0.1, E +0.1, D +0.4.
+- [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.8, E -0.1, D +0.8.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -0.6, U -1.2, S -0.4, E -0.2, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 851.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Crystal and Fantasy Caves (BM): more decorated visitor routes
 - Harrison's Cave (BB): more developed circuit
 - Phong Nha (VN): much greater cave scale
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Hato Caves (CW)](../../../countries/CW/sights/hato-caves.yaml) — 8.3/8.1/8.0/8.5/7.8; existing named editorial peer. Subject minus peer: I +0.3, U +0.7, S +0.6, E -0.2, D +0.4.
+- [Crystal and Fantasy Caves (BM)](../../../countries/BM/sights/crystal-fantasy-caves.yaml) — 8.9/8.7/8.2/8.8/8.2; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S +0.4, E -0.5, D +0.0.
+- [Harrison's Cave (BB)](../../../countries/BB/sights/harrison-s-cave.yaml) — 9.0/8.6/7.7/8.9/8.0; existing named editorial peer. Subject minus peer: I -0.4, U +0.2, S +0.9, E -0.6, D +0.2.
+- [Postojna Cave (SI)](../../../countries/SI/sights/postojna-cave.yaml) — 9.4/9.3/9.1/9.3/9.0; supplementary cave-type numerical anchor. Subject minus peer: I -0.8, U -0.5, S -0.5, E -1.0, D -0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.50 vs Postojna Cave 926.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Klein Bonaire (BQ): broader beach scope
 - Tintamarre (MF): comparable protected island
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Petite-Terre Nature Reserve (permitted sector) (GP)](../../../countries/GP/sights/petite-terre.yaml) — 9.0/9.0/8.9/8.7/8.2; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S +0.1, E -0.2, D -0.3.
+- [Klein Bonaire (permitted shore visitor area) (BQ)](../../../countries/BQ/sights/klein-bonaire.yaml) — 8.8/8.4/8.3/8.7/7.8; existing named editorial peer. Subject minus peer: I -0.2, U +0.5, S +0.7, E -0.2, D +0.1.
+- [Île Tintamarre (MF)](../../../countries/MF/sights/tintamarre.yaml) — 8.9/8.7/8.6/8.6/8.0; existing named editorial peer. Subject minus peer: I -0.3, U +0.2, S +0.4, E -0.1, D -0.1.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.9, U -0.8, S -0.5, E -0.7, D -1.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 867.00 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Saba Marine Park (BQ): distinctive volcanic pinnacles
 - Bonaire Marine Park (BQ): larger shore-access network
 - Passe en S (YT): distinctive reef channel
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bloody Bay Wall (Little Cayman) (KY)](../../../countries/KY/sights/bloody-bay-wall.yaml) — 8.9/9.0/8.8/8.8/8.5; existing named editorial peer. Subject minus peer: I +0.0, U -0.1, S -0.2, E -0.1, D +0.2.
+- [Saba National Marine Park (permitted dive sites) (BQ)](../../../countries/BQ/sights/saba-marine-park.yaml) — 8.8/9.0/8.9/8.8/8.8; existing named editorial peer. Subject minus peer: I +0.1, U -0.1, S -0.3, E -0.1, D -0.1.
+- [Bonaire National Marine Park (permitted dive sites) (BQ)](../../../countries/BQ/sights/bonaire-marine-park.yaml) — 8.5/8.9/9.0/9.0/9.2; existing named editorial peer. Subject minus peer: I +0.4, U +0.0, S -0.4, E -0.3, D -0.5.
+- [Passe en S (Longogori) (YT)](../../../countries/YT/sights/passe-en-s.yaml) — 9.0/9.1/8.9/9.0/8.6; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.3, E -0.3, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 879.00 vs Passe en S (Longogori) 896.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Poé Lagoon (NC): larger lagoon
 - Grand Turk Wall (TC): stronger underwater topography
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mangel Halto (AW)](../../../countries/AW/sights/mangel-halto.yaml) — 8.6/8.5/8.1/8.7/8.0; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.0, E -0.2, D -0.3.
+- [Rocher Créole (permitted marine viewing) (MF)](../../../countries/MF/sights/creole-rock.yaml) — 8.3/8.4/8.4/8.7/7.6; existing named editorial peer. Subject minus peer: I +0.0, U -0.1, S -0.3, E -0.2, D +0.1.
+- [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.7, U -0.4, S -0.7, E -0.5, D -0.8.
+- [Grand Turk Wall (permitted dive sites) (TC)](../../../countries/TC/sights/grand-turk-wall.yaml) — 8.9/8.9/8.6/8.7/8.7; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.5, E -0.2, D -1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 823.00 vs Poé Lagoon 883.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Pointe Saziley (YT): comparable protected coast
 - Shete Boka (CW): more dramatic coastal geology
 - Poé Lagoon (NC): stronger shallow reef scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Caravelle Peninsula Nature Reserve (MQ)](../../../countries/MQ/sights/caravelle-reserve.yaml) — 8.7/8.5/8.6/8.7/8.5; existing named editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.1, E -0.5, D -0.3.
+- [Pointe Saziley (permitted coastal trail) (YT)](../../../countries/YT/sights/pointe-saziley.yaml) — 8.6/8.5/8.7/8.3/7.9; existing named editorial peer. Subject minus peer: I +0.0, U +0.0, S +0.0, E -0.1, D +0.3.
+- [Shete Boka National Park (CW)](../../../countries/CW/sights/shete-boka.yaml) — 9.0/8.7/8.6/8.6/8.4; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.1, E -0.4, D -0.2.
+- [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.1, E -0.8, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 849.50 vs Poé Lagoon 883.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Amuseum Naturalis (MF): smaller collection
 - Åland Maritime Museum (AX): deeper specialist scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Amuseum Naturalis at the Old House (MF)](../../../countries/MF/sights/amuseum-naturalis.yaml) — 7.3/8.1/7.9/7.9/7.4; existing named editorial peer. Subject minus peer: I +0.4, U +0.3, S +0.8, E +0.3, D +0.6.
+- [Åland Maritime Museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.2, E -0.5, D -0.4.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.2, U +0.1, S +0.1, E +0.2, D +0.5.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I -0.3, U -0.2, S -0.1, E -0.3, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 818.00 vs Historic Dockyard Museum (Stanley) 844.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Bandrélé Salt Museum (YT): narrower craft focus
 - Cabo Rojo Salt Flats (PR): stronger wildlife scope
 - Grand Turk Salinas (TC): related industrial heritage
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bonaire Salt Pans (public viewpoints) (BQ)](../../../countries/BQ/sights/bonaire-salt-pans.yaml) — 8.7/8.8/8.2/8.1/7.3; existing named editorial peer. Subject minus peer: I -0.6, U -0.3, S +0.5, E -0.3, D +0.2.
+- [Bandrélé Salt Ecomuseum (YT)](../../../countries/YT/sights/bandrele-salt-museum.yaml) — 7.4/8.4/8.0/7.8/7.0; existing named editorial peer. Subject minus peer: I +0.7, U +0.1, S +0.7, E +0.0, D +0.5.
+- [Cabo Rojo Salt Flats (PR)](../../../countries/PR/sights/cabo-rojo-salt-flats.yaml) — 8.2/8.0/8.1/7.9/7.4; existing named editorial peer. Subject minus peer: I -0.1, U +0.5, S +0.6, E -0.1, D +0.1.
+- [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -1.4, U -0.6, S +0.0, E -1.2, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 821.50 vs Cliffs of Moher 903.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -348,6 +478,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Petite-Terre (GP): broader documented visitor scope
 - Klein Curaçao (CW): comparable offshore island
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Little Water Cay (Iguana Island) (TC)](../../../countries/TC/sights/little-water-cay.yaml) — 8.6/8.9/9.0/8.5/7.9; existing named editorial peer. Subject minus peer: I +0.2, U -0.4, S -0.4, E -0.3, D -0.2.
+- [Île Tintamarre (MF)](../../../countries/MF/sights/tintamarre.yaml) — 8.9/8.7/8.6/8.6/8.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S +0.0, E -0.4, D -0.3.
+- [Petite-Terre Nature Reserve (permitted sector) (GP)](../../../countries/GP/sights/petite-terre.yaml) — 9.0/9.0/8.9/8.7/8.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.5, S -0.3, E -0.5, D -0.5.
+- [Klein Curaçao (permitted island visitor area) (CW)](../../../countries/CW/sights/klein-curacao.yaml) — 9.0/8.7/8.2/8.8/8.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.4, E -0.6, D -0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 848.50 vs Petite-Terre Nature Reserve (permitted sector) 885.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -380,6 +523,19 @@ Protected-area rules apply. No guaranteed wildlife encounters or pristine reefs.
 - Spittal Pond (BM): broader visitor paths
 - Kaw-Roura (GF): much greater wetland scope
 - Bonaire Salt Pans (BQ): comparable bird habitat
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Booby Pond Nature Reserve (Little Cayman) (KY)](../../../countries/KY/sights/booby-pond.yaml) — 8.3/8.8/9.2/8.3/7.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.5, S -0.6, E -0.5, D -0.9.
+- [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.2, E -0.6, D -1.3.
+- [Kaw-Roura Marshes (permitted visitor sectors) (GF)](../../../countries/GF/sights/kaw-roura.yaml) — 8.8/9.0/9.1/8.8/8.8; existing named editorial peer. Subject minus peer: I -0.9, U -0.7, S -0.5, E -1.0, D -1.9.
+- [Bonaire Salt Pans (public viewpoints) (BQ)](../../../countries/BQ/sights/bonaire-salt-pans.yaml) — 8.7/8.8/8.2/8.1/7.3; existing named editorial peer. Subject minus peer: I -0.8, U -0.5, S +0.4, E -0.3, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 802.50 vs Kaw-Roura Marshes (permitted visitor sectors) 891.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

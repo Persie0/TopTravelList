@@ -16,6 +16,19 @@
 - St George's (BM): more extensive preserved heritage
 - Philipsburg (SX): comparable port
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.1, U +0.1, S +0.2, E -0.4, D -0.2.
+- [Oranjestad (Sint Eustatius) (BQ)](../../../countries/BQ/cities/oranjestad-statia.yaml) — 8.0/8.5/8.9/8.1/7.8; existing named editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.6, E -0.1, D -0.2.
+- [St George's (BM)](../../../countries/BM/cities/st-georges.yaml) — 8.5/8.8/9.1/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.8, E -0.5, D -0.6.
+- [Philipsburg (SX)](../../../countries/SX/cities/philipsburg.yaml) — 7.8/7.8/8.0/8.3/7.9; existing named editorial peer. Subject minus peer: I +0.1, U +0.4, S +0.3, E -0.3, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 804.00 vs St George's 866.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -49,6 +62,19 @@
 - Grand Case (MF): broader dining experience
 - Cockburn Town (TC): broader urban heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Corossol (BL)](../../../countries/BL/cities/corossol.yaml) — 7.6/8.0/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.4, E +0.0, D +0.2.
+- [Rincon (Bonaire) (BQ)](../../../countries/BQ/cities/rincon.yaml) — 7.4/8.2/8.2/7.7/7.3; existing named editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.4, E -0.2, D -0.3.
+- [Grand Case (MF)](../../../countries/MF/cities/grand-case.yaml) — 7.8/8.1/7.5/8.5/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.3, E -1.0, D -0.3.
+- [Cockburn Town (Grand Turk) (TC)](../../../countries/TC/cities/cockburn-town.yaml) — 7.9/8.2/8.3/8.0/7.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.5, E -0.5, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 763.50 vs Cockburn Town (Grand Turk) 804.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -81,6 +107,19 @@
 - Degerby (AX): comparable small maritime settlement
 - Corossol (BL): stronger fishing craft context
 - St George's (BM): far broader built heritage
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Cockburn Harbour (South Caicos) (TC)](../../../countries/TC/cities/cockburn-harbour.yaml) — 7.5/8.0/7.8/7.5/7.0; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.2, E -0.1, D -0.1.
+- [Degerby (Föglö) (AX)](../../../countries/AX/cities/degerby.yaml) — 7.2/7.8/7.6/7.6/6.9; existing named editorial peer. Subject minus peer: I +0.4, U +0.4, S +0.4, E -0.2, D +0.0.
+- [Corossol (BL)](../../../countries/BL/cities/corossol.yaml) — 7.6/8.0/7.4/7.5/6.8; existing named editorial peer. Subject minus peer: I +0.0, U +0.2, S +0.6, E -0.1, D +0.1.
+- [St George's (BM)](../../../countries/BM/cities/st-georges.yaml) — 8.5/8.8/9.1/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.9, U -0.6, S -1.1, E -1.1, D -1.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 773.00 vs St George's 866.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

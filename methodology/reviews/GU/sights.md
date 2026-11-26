@@ -18,6 +18,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — broader forest trails.
 - [sight-cc-direction-island](../../../countries/CC/sights/direction-island.yaml) — comparable beach and heritage circuit.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Dolly Beach (CX)](../../../countries/CX/sights/dolly-beach.yaml) — 8.8/8.6/8.5/8.1/7.6; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.4, E +0.3, D +0.7.
+- [Ofu Beach and fringing reef (AS)](../../../countries/AS/sights/ofu-beach.yaml) — 9.3/8.9/8.9/8.8/8.3; existing linked editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.0, E -0.4, D +0.0.
+- [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.3, U +0.0, S +0.1, E -0.2, D -0.1.
+- [Direction Island (Cossie's Beach and heritage trail) (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; existing linked editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.9, E -0.3, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 877.00 vs Ofu Beach and fringing reef 894.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-cx-margaret-knoll](../../../countries/CX/sights/margaret-knoll.yaml) — more bird habitat.
 - [sight-as-pola-sauma](../../../countries/AS/sights/pola-sauma.yaml) — broader archaeological and wildlife context.
 - [sight-sh-sandy-bay](../../../countries/SH/sights/sandy-bay.yaml) — larger volcanic landform setting.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I +0.0, U -0.1, S -0.1, E +0.0, D -0.6.
+- [Margaret Knoll Lookout (CX)](../../../countries/CX/sights/margaret-knoll.yaml) — 8.6/8.5/8.6/8.2/7.3; existing linked editorial peer. Subject minus peer: I +0.3, U -0.3, S -0.8, E +0.3, D -0.1.
+- [Pola Island coastal viewpoint and Sauma Ridge (AS)](../../../countries/AS/sights/pola-sauma.yaml) — 9.0/8.7/8.6/8.5/7.9; existing linked editorial peer. Subject minus peer: I -0.1, U -0.5, S -0.8, E +0.0, D -0.7.
+- [Sandy Bay volcanic coast (SH)](../../../countries/SH/sights/sandy-bay.yaml) — 8.6/8.3/7.7/7.9/7.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.1, S +0.1, E +0.6, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.50 vs Pola Island coastal viewpoint and Sauma Ridge 866.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-as-ofu-beach](../../../countries/AS/sights/ofu-beach.yaml) — more exceptional mountain and reef setting.
 - [sight-cx-flying-fish-cove-reef](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — smaller shore reef with dramatic cliffs.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.1, E +0.7, D +0.6.
+- [Direction Island (Cossie's Beach and heritage trail) (CC)](../../../countries/CC/sights/direction-island.yaml) — 9.1/8.6/8.0/8.7/8.1; existing linked editorial peer. Subject minus peer: I -0.4, U -0.7, S -0.2, E +0.0, D +0.1.
+- [Ofu Beach and fringing reef (AS)](../../../countries/AS/sights/ofu-beach.yaml) — 9.3/8.9/8.9/8.8/8.3; existing linked editorial peer. Subject minus peer: I -0.6, U -1.0, S -1.1, E -0.1, D -0.1.
+- [Flying Fish Cove beach and shore reef (CX)](../../../countries/CX/sights/flying-fish-cove-reef.yaml) — 8.6/8.5/8.5/8.6/8.1; existing linked editorial peer. Subject minus peer: I +0.1, U -0.6, S -0.7, E +0.1, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.00 vs Ofu Beach and fringing reef 894.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,22 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-um-midway-atoll](../../../countries/UM/sights/midway-atoll.yaml) — major war heritage but public closure.
 - [sight-gs-grytviken](../../../countries/GS/sights/grytviken.yaml) — different industrial heritage with concentrated precinct.
 - [sight-sh-longwood-house](../../../countries/SH/sights/longwood-house.yaml) — narrower historic scope, strong global association.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I -0.5, U -0.2, S +0.1, E -0.2, D +0.0.
+- [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; existing linked editorial peer. Subject minus peer: I -0.6, U -0.5, S -0.1, E -0.3, D -0.1.
+- [Longwood House (SH)](../../../countries/SH/sights/longwood-house.yaml) — 8.5/9.2/9.3/8.5/8.2; existing linked editorial peer. Subject minus peer: I -0.2, U -0.4, S +0.0, E +0.1, D +0.5.
+- [Hiroshima Peace Memorial Museum (JP)](../../../countries/JP/sights/hiroshima-peace-memorial-museum.yaml) — 9.3/9.6/9.8/9.4/9.0; supplementary memorial-type numerical anchor. Subject minus peer: I -1.0, U -0.8, S -0.5, E -0.8, D -0.3.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Midway Atoll National Wildlife Refuge and Battle of Midway National Memorial (UM)](../../../countries/UM/sights/midway-atoll.yaml) — null/9.3/9.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.5, S -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 871.00 vs Hiroshima Peace Memorial Museum 946.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +205,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-sh-jacobs-ladder](../../../countries/SH/sights/jacobs-ladder.yaml) — focused engineering heritage.
 - [sight-cc-oceania-house](../../../countries/CC/sights/oceania-house.yaml) — single colonial estate.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I -0.8, U -0.4, S -0.4, E -0.5, D -0.2.
+- [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.5, U +0.2, S +0.1, E +0.2, D +0.8.
+- [Jacob's Ladder (SH)](../../../countries/SH/sights/jacobs-ladder.yaml) — 8.4/8.5/8.2/8.3/7.1; existing linked editorial peer. Subject minus peer: I -0.4, U +0.1, S +0.6, E +0.0, D +1.4.
+- [Oceania House historic residence (CC)](../../../countries/CC/sights/oceania-house.yaml) — 7.8/8.6/8.7/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.1, E +0.2, D +1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 840.50 vs Kingston and Arthur's Vale Historic Area 892.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +250,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-nf-norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) — distributed historical collections.
 - [sight-cc-pulu-cocos-museum](../../../countries/CC/sights/pulu-cocos-museum.yaml) — smaller focused cultural collection.
 - [sight-pn-pitcairn-museum](../../../countries/PN/sights/pitcairn-museum.yaml) — narrower distinctive maritime artifacts.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.5, U +0.3, S +0.2, E +0.4, D +0.6.
+- [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.2, E +0.1, D +0.3.
+- [Pulu Cocos Museum (CC)](../../../countries/CC/sights/pulu-cocos-museum.yaml) — 7.1/8.4/8.5/7.8/7.2; existing linked editorial peer. Subject minus peer: I +0.9, U +0.3, S +0.4, E +0.7, D +1.1.
+- [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I +0.6, U -0.1, S +0.1, E +0.5, D +0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 846.00 vs Norfolk Island Museum 826.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +297,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-cc-pulu-cocos-museum](../../../countries/CC/sights/pulu-cocos-museum.yaml) — narrower museum focus.
 - [sight-sh-potato-patches](../../../countries/SH/sights/potato-patches.yaml) — different living community cultural landscape.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.3, U -0.2, S -0.6, E +0.5, D +0.1.
+- [Fletcher's Mutiny Cyclorama (NF)](../../../countries/NF/sights/fletchers-mutiny-cyclorama.yaml) — 7.8/8.5/7.9/8.4/7.1; existing linked editorial peer. Subject minus peer: I +0.0, U -0.3, S +0.2, E +0.2, D +0.7.
+- [Pulu Cocos Museum (CC)](../../../countries/CC/sights/pulu-cocos-museum.yaml) — 7.1/8.4/8.5/7.8/7.2; existing linked editorial peer. Subject minus peer: I +0.7, U -0.2, S -0.4, E +0.8, D +0.6.
+- [Potato Patches (Tristan da Cunha) (SH)](../../../countries/SH/sights/potato-patches.yaml) — 7.9/8.8/8.2/7.8/7.1; existing linked editorial peer. Subject minus peer: I -0.1, U -0.6, S -0.1, E +0.8, D +0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 808.00 vs Potato Patches (Tristan da Cunha) 809.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +342,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-nf-kingston-arthurs-vale](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — stronger original historic fabric.
 - [sight-as-aunuu-crater](../../../countries/AS/sights/aunuu-crater.yaml) — natural wetland rather than managed interpretation.
 - [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — greater distinctive wetland ecology.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Southern atoll lagoon and guided island canoe circuit (CC)](../../../countries/CC/sights/southern-lagoon-canoe.yaml) — 8.9/8.6/8.5/8.7/8.4; existing linked editorial peer. Subject minus peer: I -0.4, U +0.0, S +0.0, E -0.1, D +0.0.
+- [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.7, E -0.2, D -0.3.
+- [Aunuʻu crater and Faʻamulivai Marsh (AS)](../../../countries/AS/sights/aunuu-crater.yaml) — 8.4/8.8/8.7/8.0/7.7; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.2, E +0.6, D +0.7.
+- [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.6, E +0.2, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 853.00 vs Kingston and Arthur's Vale Historic Area 892.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +389,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-pn-bounty-bay](../../../countries/PN/sights/bounty-bay.yaml) — similar maritime context, different built fabric.
 - [sight-cx-south-point-heritage](../../../countries/CX/sights/south-point-heritage.yaml) — larger dispersed remains.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kingston and Arthur's Vale Historic Area (NF)](../../../countries/NF/sights/kingston-arthurs-vale.yaml) — 8.8/9.0/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I -0.5, U -0.9, S -0.8, E -0.9, D -1.7.
+- [Jacob's Ladder (SH)](../../../countries/SH/sights/jacobs-ladder.yaml) — 8.4/8.5/8.2/8.3/7.1; existing linked editorial peer. Subject minus peer: I -0.1, U -0.4, S +0.2, E -0.4, D -0.1.
+- [Bounty Bay and Hill of Difficulty (PN)](../../../countries/PN/sights/bounty-bay.yaml) — 8.2/8.6/8.7/7.8/7.1; existing linked editorial peer. Subject minus peer: I +0.1, U -0.5, S -0.3, E +0.1, D -0.1.
+- [South Point former settlement heritage precinct (CX)](../../../countries/CX/sights/south-point-heritage.yaml) — 7.8/8.4/8.4/7.8/7.4; existing linked editorial peer. Subject minus peer: I +0.5, U -0.3, S +0.0, E +0.1, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 808.00 vs Kingston and Arthur's Vale Historic Area 892.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +434,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-cx-the-grotto](../../../countries/CX/sights/the-grotto.yaml) — smaller cave pool.
 - [sight-nf-emily-slaughter-bays](../../../countries/NF/sights/emily-slaughter-bays.yaml) — broader lagoon recreation.
 - [sight-cc-scout-park-pulu-maraya](../../../countries/CC/sights/scout-park-pulu-maraya.yaml) — more varied tidal route.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Paul's Pool (PN)](../../../countries/PN/sights/st-pauls-pool.yaml) — 8.5/8.2/7.1/8.0/6.9; existing linked editorial peer. Subject minus peer: I -0.1, U -0.1, S +0.2, E +0.0, D +0.3.
+- [The Grotto (CX)](../../../countries/CX/sights/the-grotto.yaml) — 8.3/8.2/7.3/7.8/6.8; existing linked editorial peer. Subject minus peer: I +0.1, U -0.1, S +0.0, E +0.2, D +0.4.
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U +0.0, S -0.6, E +0.0, D -0.4.
+- [Scout Park and Pulu Maraya tidal reef walk (CC)](../../../countries/CC/sights/scout-park-pulu-maraya.yaml) — 8.5/8.4/8.0/8.4/7.7; existing linked editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.7, E -0.4, D -0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 792.50 vs Scout Park and Pulu Maraya tidal reef walk 828.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -348,6 +481,19 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-nf-botanic-garden](../../../countries/NF/sights/botanic-garden.yaml) — stronger native plant interpretation.
 - [sight-sh-peaks-national-park](../../../countries/SH/sights/peaks-national-park.yaml) — greater endemic forest significance.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I -0.7, U -1.2, S -1.8, E -0.2, D -0.7.
+- [Tuafanua rainforest and coastal trail (AS)](../../../countries/AS/sights/tuafanua-trail.yaml) — 8.6/8.3/8.0/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U -0.5, S -0.7, E +0.0, D +0.2.
+- [Norfolk Island Botanic Garden (NF)](../../../countries/NF/sights/botanic-garden.yaml) — 7.9/8.5/8.5/8.3/7.6; existing linked editorial peer. Subject minus peer: I +0.3, U -0.7, S -1.2, E -0.1, D +0.2.
+- [Peaks National Park (Diana's Peak trails) (SH)](../../../countries/SH/sights/peaks-national-park.yaml) — 9.0/9.2/9.0/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.8, U -1.4, S -1.7, E -0.6, D -0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 788.00 vs Peaks National Park (Diana's Peak trails) 898.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -380,6 +526,24 @@ Evidence consulted 2026-11-26 via source excerpts. The [2026–2030 coastal stra
 - [sight-as-rose-atoll](../../../countries/AS/sights/rose-atoll.yaml) — higher protected natural significance and closure.
 - [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — more internationally recognized wetland.
 - [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — documented limited recreational access.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: U -0.5, S -0.4.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: U -1.0, S -0.7.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: U -1.1, S -1.0.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: U -1.2, S -1.1.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Phillip Island (restricted visitor scope) (NF)](../../../countries/NF/sights/phillip-island.yaml) — null/8.9/9.0/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.2, S -0.2.
+- [Rose Atoll National Wildlife Refuge (Muliāva) (AS)](../../../countries/AS/sights/rose-atoll.yaml) — null/9.2/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.5, S -0.5.
+- [Pulu Keeling National Park (North Keeling Island) (CC)](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — null/9.3/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.6, S -0.5.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

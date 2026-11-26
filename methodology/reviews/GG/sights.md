@@ -18,6 +18,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-ax-bomarsund](../../../countries/AX/sights/bomarsund.yaml) — different ruined fortress scope.
 - [sight-bm-fort-st-catherine](../../../countries/BM/sights/fort-st-catherine.yaml) — smaller individual fort.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Caernarfon Castle (GB)](../../../countries/GB/sights/caernarfon-castle.yaml) — 9.0/9.0/9.2/8.9/8.6; existing linked editorial peer. Subject minus peer: I -0.1, U -0.3, S -0.2, E -0.1, D +0.2.
+- [Halifax Citadel (CA)](../../../countries/CA/sights/halifax-citadel.yaml) — 8.0/8.1/8.6/8.5/7.8; existing linked editorial peer. Subject minus peer: I +0.9, U +0.6, S +0.4, E +0.3, D +1.0.
+- [Bomarsund Fortress Ruins (AX)](../../../countries/AX/sights/bomarsund.yaml) — 8.0/8.3/8.5/8.1/8.0; existing linked editorial peer. Subject minus peer: I +0.9, U +0.4, S +0.5, E +0.7, D +0.8.
+- [Fort St Catherine and Museum (BM)](../../../countries/BM/sights/fort-st-catherine.yaml) — 8.5/8.5/8.9/8.4/8.1; existing linked editorial peer. Subject minus peer: I +0.4, U +0.2, S +0.1, E +0.4, D +0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 884.50 vs Caernarfon Castle 898.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-gb-hampton-court](../../../countries/GB/sights/hampton-court.yaml) — far larger royal palace.
 - [sight-nf-norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) — more dispersed historic scope.
 - [sight-pm-musee-heritage](../../../countries/PM/sights/musee-heritage.yaml) — less singular literary association.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Longwood House (SH)](../../../countries/SH/sights/longwood-house.yaml) — 8.5/9.2/9.3/8.5/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.2, E +0.0, D +0.2.
+- [Hampton Court Palace and Gardens (GB)](../../../countries/GB/sights/hampton-court.yaml) — 9.1/9.0/9.2/9.1/9.0; existing linked editorial peer. Subject minus peer: I -0.5, U +0.2, S -0.1, E -0.6, D -0.6.
+- [Norfolk Island Museum (NF)](../../../countries/NF/sights/norfolk-island-museum.yaml) — 7.8/8.5/8.7/8.4/8.0; existing linked editorial peer. Subject minus peer: I +0.8, U +0.7, S +0.4, E +0.1, D +0.4.
+- [Musée Héritage (PM)](../../../countries/PM/sights/musee-heritage.yaml) — 7.9/8.5/8.5/8.4/8.2; existing linked editorial peer. Subject minus peer: I +0.7, U +0.7, S +0.6, E +0.1, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 881.50 vs Hampton Court Palace and Gardens 908.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-fk-christ-church-cathedral](../../../countries/FK/sights/christ-church-cathedral.yaml) — more civic religious importance.
 - [sight-ck-arutanga-cicc](../../../countries/CK/sights/arutanga-cicc.yaml) — older mission history.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Barnabas Chapel (NF)](../../../countries/NF/sights/st-barnabas-chapel.yaml) — 8.2/8.3/8.5/8.1/7.2; existing linked editorial peer. Subject minus peer: I +0.5, U +0.7, S -0.6, E +0.1, D -0.1.
+- [Magnus Cathedral Ruins (FO)](../../../countries/FO/sights/magnus-cathedral.yaml) — 7.7/8.1/8.5/7.6/6.9; existing linked editorial peer. Subject minus peer: I +1.0, U +0.9, S -0.6, E +0.6, D +0.2.
+- [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; existing linked editorial peer. Subject minus peer: I +0.8, U +0.5, S -0.3, E +0.2, D +0.1.
+- [Arutanga Cook Islands Christian Church (CK)](../../../countries/CK/sights/arutanga-cicc.yaml) — 7.9/8.4/8.7/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.8, U +0.6, S -0.8, E +0.2, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.00 vs St Barnabas Chapel 817.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-fk-historic-dockyard-museum](../../../countries/FK/sights/historic-dockyard-museum.yaml) — broader maritime history.
 - [sight-pm-musee-heritage](../../../countries/PM/sights/musee-heritage.yaml) — less focused wartime narrative.
 - [sight-gu-war-in-the-pacific](../../../countries/GU/sights/war-in-the-pacific.yaml) — broader memorial landscape.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Normandy D-Day Landing Beaches memorial landscape (FR)](../../../countries/FR/sights/dday-beaches.yaml) — 8.8/9.1/9.5/8.8/9.2; existing linked editorial peer. Subject minus peer: I -0.8, U -0.3, S -0.5, E -0.3, D -0.8.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing linked editorial peer. Subject minus peer: I +0.0, U +0.2, S +0.2, E +0.0, D -0.2.
+- [Musée Héritage (PM)](../../../countries/PM/sights/musee-heritage.yaml) — 7.9/8.5/8.5/8.4/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U +0.3, S +0.5, E +0.1, D +0.2.
+- [War in the Pacific National Historical Park (public heritage units) (GU)](../../../countries/GU/sights/war-in-the-pacific.yaml) — 8.3/8.8/9.3/8.6/8.7; existing linked editorial peer. Subject minus peer: I -0.3, U +0.0, S -0.3, E -0.1, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 851.50 vs Normandy D-Day Landing Beaches memorial landscape 905.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-gu-war-in-the-pacific](../../../countries/GU/sights/war-in-the-pacific.yaml) — more dispersed memorial scope.
 - [sight-pm-ile-aux-marins](../../../countries/PM/sights/ile-aux-marins.yaml) — greater vernacular variety.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bomarsund Fortress Ruins (AX)](../../../countries/AX/sights/bomarsund.yaml) — 8.0/8.3/8.5/8.1/8.0; existing linked editorial peer. Subject minus peer: I +0.2, U +0.4, S +0.2, E -0.1, D +0.1.
+- [Hadrian's Wall (Frontiers of the Roman Empire) (GB)](../../../countries/GB/sights/hadrians-wall.yaml) — 8.9/9.2/9.5/8.9/9.3; existing linked editorial peer. Subject minus peer: I -0.7, U -0.5, S -0.8, E -0.9, D -1.2.
+- [War in the Pacific National Historical Park (public heritage units) (GU)](../../../countries/GU/sights/war-in-the-pacific.yaml) — 8.3/8.8/9.3/8.6/8.7; existing linked editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.6, E -0.6, D -0.6.
+- [Île aux Marins fishing heritage and Archipélitude Museum (PM)](../../../countries/PM/sights/ile-aux-marins.yaml) — 8.8/9.0/8.8/8.6/8.7; existing linked editorial peer. Subject minus peer: I -0.6, U -0.3, S -0.1, E -0.6, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.50 vs Hadrian's Wall (Frontiers of the Roman Empire) 913.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-ax-jan-karlsgarden](../../../countries/AX/sights/jan-karlsgarden.yaml) — more distinctive vernacular heritage.
 - [sight-sh-museum-st-helena](../../../countries/SH/sights/museum-st-helena.yaml) — less garden scope.
 - [sight-bm-aquarium-museum-zoo](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — broader live collections.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Royal Botanic Gardens, Kew (GB)](../../../countries/GB/sights/kew-gardens.yaml) — 8.9/9.1/9.4/9.2/9.3; existing linked editorial peer. Subject minus peer: I -0.8, U -1.0, S -1.0, E -0.6, D -0.9.
+- [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.3, U +0.1, S +0.6, E +0.5, D +0.7.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.6, U -0.2, S -0.2, E +0.6, D +0.9.
+- [Bermuda Aquarium, Museum and Zoo (BM)](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — 8.0/8.3/8.4/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S +0.0, E +0.0, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 826.50 vs Royal Botanic Gardens, Kew 913.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-pm-anse-henry](../../../countries/PM/sights/anse-henry.yaml) — shorter individual coastal walk.
 - [sight-nf-captain-cook-lookout](../../../countries/NF/sights/captain-cook-lookout.yaml) — smaller viewpoint route.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; existing linked editorial peer. Subject minus peer: I -0.3, U -0.7, S -0.7, E -0.4, D -0.3.
+- [Étretat chalk cliffs (FR)](../../../countries/FR/sights/etretat.yaml) — 9.3/9.1/8.6/8.9/8.4; existing linked editorial peer. Subject minus peer: I -0.5, U -0.9, S -0.6, E -0.2, D +0.5.
+- [Anse à Henry coastal trail (PM)](../../../countries/PM/sights/anse-henry.yaml) — 8.4/8.1/7.9/8.5/8.0; existing linked editorial peer. Subject minus peer: I +0.4, U +0.1, S +0.1, E +0.2, D +0.9.
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.1, U -0.1, S +0.1, E +0.2, D +1.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 848.50 vs Pembrokeshire Coast National Park 898.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-bm-spittal-pond](../../../countries/BM/sights/spittal-pond.yaml) — more accessible wetland route.
 - [sight-is-breidafjordur](../../../countries/IS/sights/breidafjordur.yaml) — larger island ecosystem.
 - [sight-fr-mont-saint-michel](../../../countries/FR/sights/mont-saint-michel.yaml) — far greater architectural monumentality.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Grand Barachois lagoon and Miquelon–Langlade isthmus (PM)](../../../countries/PM/sights/grand-barachois.yaml) — 9.0/8.9/8.9/8.7/8.8; existing linked editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.0, E -0.7, D -0.3.
+- [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing linked editorial peer. Subject minus peer: I +0.3, U +0.2, S +0.1, E -0.4, D +0.3.
+- [Breiðafjörður Nature Reserve (IS)](../../../countries/IS/sights/breidafjordur.yaml) — 8.8/9.0/8.9/8.6/9.0; existing linked editorial peer. Subject minus peer: I -0.2, U -0.3, S +0.0, E -0.6, D -0.5.
+- [Mont-Saint-Michel and its Bay (FR)](../../../countries/FR/sights/mont-saint-michel.yaml) — 9.7/9.6/9.4/9.3/9.1; existing linked editorial peer. Subject minus peer: I -1.1, U -0.9, S -0.5, E -1.3, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 858.50 vs Mont-Saint-Michel and its Bay 949.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-pm-belliveau](../../../countries/PM/sights/belliveau.yaml) — longer coastal walk.
 - [sight-gb-seven-sisters](../../../countries/GB/sights/seven-sisters.yaml) — greater landscape scale.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Horseshoe Bay Beach (BM)](../../../countries/BM/sights/horseshoe-bay.yaml) — 9.0/8.6/7.3/8.9/7.6; existing linked editorial peer. Subject minus peer: I -0.7, U -1.0, S +0.2, E -0.3, D -0.1.
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.4, E +0.6, D -0.1.
+- [Anse de Belliveau coastal loop (PM)](../../../countries/PM/sights/belliveau.yaml) — 8.2/7.9/7.7/8.1/8.0; existing linked editorial peer. Subject minus peer: I +0.1, U -0.3, S -0.2, E +0.5, D -0.5.
+- [Seven Sisters chalk cliffs (GB)](../../../countries/GB/sights/seven-sisters.yaml) — 9.1/8.8/8.4/8.9/8.3; existing linked editorial peer. Subject minus peer: I -0.8, U -1.2, S -0.9, E -0.3, D -0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 793.00 vs Seven Sisters chalk cliffs 877.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-fr-vaux-le-vicomte](../../../countries/FR/sights/vaux-le-vicomte.yaml) — greater architectural influence.
 - [sight-sh-plantation-house](../../../countries/SH/sights/plantation-house.yaml) — similar island estate heritage.
 - [sight-ax-jan-karlsgarden](../../../countries/AX/sights/jan-karlsgarden.yaml) — more vernacular interpretation.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Blenheim Palace and Park (GB)](../../../countries/GB/sights/blenheim.yaml) — 9.2/9.1/9.2/9.2/9.1; existing linked editorial peer. Subject minus peer: I -1.0, U -0.8, S -0.8, E -0.7, D -0.6.
+- [Château de Vaux-le-Vicomte (FR)](../../../countries/FR/sights/vaux-le-vicomte.yaml) — 9.2/9.1/9.1/9.0/9.1; existing linked editorial peer. Subject minus peer: I -1.0, U -0.8, S -0.7, E -0.5, D -0.6.
+- [Plantation House and tortoise grounds (SH)](../../../countries/SH/sights/plantation-house.yaml) — 8.0/8.8/8.6/8.1/7.4; existing linked editorial peer. Subject minus peer: I +0.2, U -0.5, S -0.2, E +0.4, D +1.1.
+- [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.4, U +0.3, S +0.6, E +0.4, D +0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 834.00 vs Blenheim Palace and Park 916.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -348,6 +478,20 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-gb-stonehenge](../../../countries/GB/sights/stonehenge.yaml) — world-leading monument.
 - [sight-gb-jarlshof](../../../countries/GB/sights/jarlshof.yaml) — more extensive multi-period remains.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Megaliths of Carnac and shores of Morbihan (FR)](../../../countries/FR/sights/carnac.yaml) — 9.0/9.3/9.4/8.8/9.0; existing linked editorial peer. Subject minus peer: I -1.0, U -0.8, S -0.6, E -1.1, D -1.7.
+- [Heart of Neolithic Orkney (GB)](../../../countries/GB/sights/orkney-neolithic.yaml) — 9.0/9.5/9.5/8.8/8.9; existing linked editorial peer. Subject minus peer: I -1.0, U -1.0, S -0.7, E -1.1, D -1.6.
+- [Stonehenge and Avebury archaeological landscapes (GB)](../../../countries/GB/sights/stonehenge.yaml) — 9.2/9.6/9.6/8.8/9.1; existing linked editorial peer. Subject minus peer: I -1.2, U -1.1, S -0.8, E -1.1, D -1.8.
+- [Jarlshof prehistoric and Norse settlement (GB)](../../../countries/GB/sights/jarlshof.yaml) — 8.5/9.0/9.1/8.5/8.4; existing linked editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.3, E -0.8, D -1.1.
+- [Napoleon's original tomb (Valley of the Tomb) (SH)](../../../countries/SH/sights/napoleons-tomb.yaml) — 7.8/8.7/9.0/7.7/6.5; supplementary tomb-type numerical anchor. Subject minus peer: I +0.2, U -0.2, S -0.2, E +0.0, D +0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 817.00 vs Stonehenge and Avebury archaeological landscapes 931.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -380,6 +524,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-ca-halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) — greater scale.
 - [sight-ax-bomarsund](../../../countries/AX/sights/bomarsund.yaml) — broader fortified landscape.
 - [sight-fk-historic-dockyard-museum](../../../countries/FK/sights/historic-dockyard-museum.yaml) — larger maritime collection.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fort St Catherine and Museum (BM)](../../../countries/BM/sights/fort-st-catherine.yaml) — 8.5/8.5/8.9/8.4/8.1; existing linked editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.5, E -0.3, D -0.4.
+- [Halifax Citadel (CA)](../../../countries/CA/sights/halifax-citadel.yaml) — 8.0/8.1/8.6/8.5/7.8; existing linked editorial peer. Subject minus peer: I +0.1, U +0.2, S -0.2, E -0.4, D -0.1.
+- [Bomarsund Fortress Ruins (AX)](../../../countries/AX/sights/bomarsund.yaml) — 8.0/8.3/8.5/8.1/8.0; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.1, E +0.0, D -0.3.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; existing linked editorial peer. Subject minus peer: I +0.1, U -0.3, S -0.4, E -0.4, D -0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 817.00 vs Fort St Catherine and Museum 852.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -414,6 +571,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-fk-west-point-island](../../../countries/FK/sights/west-point-island.yaml) — more accessible terrestrial colony.
 - [sight-is-latrabjarg](../../../countries/IS/sights/latrabjarg.yaml) — larger cliff landscape.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing linked editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.4, E -0.4, D -0.1.
+- [Grand Colombier seabird observation (permitted offshore tours) (PM)](../../../countries/PM/sights/grand-colombier.yaml) — 8.6/8.6/8.8/8.1/7.8; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.2, E +0.2, D +0.5.
+- [West Point Island (permitted seabird viewing) (FK)](../../../countries/FK/sights/west-point-island.yaml) — 9.0/8.9/8.8/8.8/8.2; existing linked editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.2, E -0.5, D +0.1.
+- [Látrabjarg bird cliffs (IS)](../../../countries/IS/sights/latrabjarg.yaml) — 9.1/9.0/8.8/8.7/8.0; existing linked editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.2, E -0.4, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 871.50 vs Mykines Island 884.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -446,6 +616,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-pm-anse-dinand](../../../countries/PM/sights/anse-dinand.yaml) — shorter nature walk.
 - [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — larger forest reserve.
 - [sight-pm-grand-barachois](../../../countries/PM/sights/grand-barachois.yaml) — more striking wetland landform.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Spittal Pond Nature Reserve (BM)](../../../countries/BM/sights/spittal-pond.yaml) — 8.3/8.5/8.8/8.4/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U -0.2, S +0.0, E +0.1, D +0.5.
+- [Anse à Dinand nature trail (PM)](../../../countries/PM/sights/anse-dinand.yaml) — 8.3/8.1/8.1/8.4/8.3; existing linked editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.7, E +0.1, D +0.4.
+- [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I -0.3, U -0.5, S +0.0, E -0.1, D +0.3.
+- [Grand Barachois lagoon and Miquelon–Langlade isthmus (PM)](../../../countries/PM/sights/grand-barachois.yaml) — 9.0/8.9/8.9/8.7/8.8; existing linked editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.1, E -0.2, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 850.00 vs Grand Barachois lagoon and Miquelon–Langlade isthmus 889.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -480,6 +663,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-ax-bomarsund](../../../countries/AX/sights/bomarsund.yaml) — larger later fort.
 - [sight-fr-arles-monuments](../../../countries/FR/sights/arles-monuments.yaml) — greater monumental Roman ensemble.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Hadrian's Wall (Frontiers of the Roman Empire) (GB)](../../../countries/GB/sights/hadrians-wall.yaml) — 8.9/9.2/9.5/8.9/9.3; existing linked editorial peer. Subject minus peer: I -0.9, U -0.4, S -0.5, E -0.9, D -1.5.
+- [Jarlshof prehistoric and Norse settlement (GB)](../../../countries/GB/sights/jarlshof.yaml) — 8.5/9.0/9.1/8.5/8.4; existing linked editorial peer. Subject minus peer: I -0.5, U -0.2, S -0.1, E -0.5, D -0.6.
+- [Bomarsund Fortress Ruins (AX)](../../../countries/AX/sights/bomarsund.yaml) — 8.0/8.3/8.5/8.1/8.0; existing linked editorial peer. Subject minus peer: I +0.0, U +0.5, S +0.5, E -0.1, D -0.2.
+- [Arles Roman and Romanesque Monuments (FR)](../../../countries/FR/sights/arles-monuments.yaml) — 9.0/9.1/9.4/8.9/9.0; existing linked editorial peer. Subject minus peer: I -1.0, U -0.3, S -0.4, E -0.9, D -1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.00 vs Hadrian's Wall (Frontiers of the Roman Empire) 913.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -512,6 +708,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-bm-royal-naval-dockyard](../../../countries/BM/sights/royal-naval-dockyard.yaml) — greater developed maritime precinct.
 - [sight-ca-halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) — more interpreted single fortress.
 - [sight-gb-gwynedd-castles](../../../countries/GB/sights/gwynedd-castles.yaml) — greater medieval ensemble significance.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bomarsund Fortress Ruins (AX)](../../../countries/AX/sights/bomarsund.yaml) — 8.0/8.3/8.5/8.1/8.0; existing linked editorial peer. Subject minus peer: I +0.5, U +0.1, S +0.2, E +0.0, D +0.5.
+- [Royal Naval Dockyard (public precinct) (BM)](../../../countries/BM/sights/royal-naval-dockyard.yaml) — 8.4/8.5/8.8/8.6/8.3; existing linked editorial peer. Subject minus peer: I +0.1, U -0.1, S -0.1, E -0.5, D +0.2.
+- [Halifax Citadel (CA)](../../../countries/CA/sights/halifax-citadel.yaml) — 8.0/8.1/8.6/8.5/7.8; existing linked editorial peer. Subject minus peer: I +0.5, U +0.3, S +0.1, E -0.4, D +0.7.
+- [Castles and Town Walls of King Edward in Gwynedd (GB)](../../../countries/GB/sights/gwynedd-castles.yaml) — 9.1/9.2/9.3/9.0/9.2; existing linked editorial peer. Subject minus peer: I -0.6, U -0.8, S -0.6, E -0.9, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 845.50 vs Castles and Town Walls of King Edward in Gwynedd 916.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -546,6 +755,22 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-mp-american-memorial-park](../../../countries/MP/sights/american-memorial-park.yaml) — more developed memorial precinct.
 - [sight-fr-western-front](../../../countries/FR/sights/western-front.yaml) — larger multi-site remembrance ensemble.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Normandy D-Day Landing Beaches memorial landscape (FR)](../../../countries/FR/sights/dday-beaches.yaml) — 8.8/9.1/9.5/8.8/9.2; existing linked editorial peer. Subject minus peer: I -1.0, U -0.2, S -0.3, E -0.9, D -1.0.
+- [War in the Pacific National Historical Park (public heritage units) (GU)](../../../countries/GU/sights/war-in-the-pacific.yaml) — 8.3/8.8/9.3/8.6/8.7; existing linked editorial peer. Subject minus peer: I -0.5, U +0.1, S -0.1, E -0.7, D -0.5.
+- [American Memorial Park (Saipan) (MP)](../../../countries/MP/sights/american-memorial-park.yaml) — 7.8/8.3/9.0/8.4/8.1; existing linked editorial peer. Subject minus peer: I +0.0, U +0.6, S +0.2, E -0.5, D +0.1.
+- [Hiroshima Peace Memorial Museum (JP)](../../../countries/JP/sights/hiroshima-peace-memorial-museum.yaml) — 9.3/9.6/9.8/9.4/9.0; supplementary memorial-type numerical anchor. Subject minus peer: I -1.5, U -0.7, S -0.6, E -1.5, D -0.8.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [First World War funerary and memory sites (French components) (FR)](../../../countries/FR/sights/western-front.yaml) — 8.7/9.0/9.5/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: I -0.9, U -0.1, S -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 841.00 vs Hiroshima Peace Memorial Museum 946.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -578,6 +803,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-gb-ironbridge](../../../countries/GB/sights/ironbridge.yaml) — broader industrial heritage.
 - [sight-ax-pommern](../../../countries/AX/sights/pommern.yaml) — more distinctive preserved transport artifact.
 - [sight-bm-railway-trail](../../../countries/BM/sights/railway-trail.yaml) — longer former railway route.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Cerdagne Yellow Train railway (FR)](../../../countries/FR/sights/cerdagne-railway.yaml) — 8.8/9.0/8.8/9.0/8.8; existing linked editorial peer. Subject minus peer: I -1.0, U -0.5, S -0.9, E -0.7, D -1.2.
+- [Ironbridge Gorge (GB)](../../../countries/GB/sights/ironbridge.yaml) — 8.5/8.9/9.2/8.8/8.7; existing linked editorial peer. Subject minus peer: I -0.7, U -0.4, S -1.3, E -0.5, D -1.1.
+- [Museum Ship Pommern (AX)](../../../countries/AX/sights/pommern.yaml) — 8.6/9.2/8.9/8.8/8.3; existing linked editorial peer. Subject minus peer: I -0.8, U -0.7, S -1.0, E -0.5, D -0.7.
+- [Bermuda Railway Trail (BM)](../../../countries/BM/sights/railway-trail.yaml) — 8.2/8.3/8.0/8.7/8.8; existing linked editorial peer. Subject minus peer: I -0.4, U +0.2, S -0.1, E -0.4, D -1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 805.00 vs Cerdagne Yellow Train railway 888.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -612,6 +850,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-fr-etretat](../../../countries/FR/sights/etretat.yaml) — more monumental cliffs.
 - [sight-gb-durdle-door](../../../countries/GB/sights/durdle-door.yaml) — more focused coastal arch.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Trælanípa and Sørvágsvatn viewpoint (FO)](../../../countries/FO/sights/traelanipa-sorvagsvatn.yaml) — 9.2/9.1/7.7/8.7/7.3; existing linked editorial peer. Subject minus peer: I -0.2, U -0.3, S +0.3, E -0.2, D +1.1.
+- [Grand Barachois lagoon and Miquelon–Langlade isthmus (PM)](../../../countries/PM/sights/grand-barachois.yaml) — 9.0/8.9/8.9/8.7/8.8; existing linked editorial peer. Subject minus peer: I +0.0, U -0.1, S -0.9, E -0.2, D -0.4.
+- [Étretat chalk cliffs (FR)](../../../countries/FR/sights/etretat.yaml) — 9.3/9.1/8.6/8.9/8.4; existing linked editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.6, E -0.4, D +0.0.
+- [Durdle Door (GB)](../../../countries/GB/sights/durdle-door.yaml) — 9.0/8.9/8.4/8.7/7.6; existing linked editorial peer. Subject minus peer: I +0.0, U -0.1, S -0.4, E -0.2, D +0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.50 vs Étretat chalk cliffs 896.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -644,6 +895,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-pn-dark-sky-pitcairn](../../../countries/PN/sights/dark-sky-pitcairn.yaml) — more remote sky but limited access.
 - [sight-fo-kallur-lighthouse](../../../countries/FO/sights/kallur-lighthouse.yaml) — daytime viewpoint rather than night experience.
 - [sight-is-thingvellir](../../../countries/IS/sights/thingvellir.yaml) — broader geological and cultural daytime scope.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Niue Dark Sky Community and Sanctuary (permitted stargazing) (NU)](../../../countries/NU/sights/dark-sky-niue.yaml) — 9.0/9.2/8.8/8.8/8.6; existing linked editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.0, E -0.1, D -0.3.
+- [Mata ki te Rangi (Pitcairn Island stargazing) (PN)](../../../countries/PN/sights/dark-sky-pitcairn.yaml) — 9.0/8.7/8.5/8.6/7.7; existing linked editorial peer. Subject minus peer: I -0.2, U +0.3, S +0.3, E +0.1, D +0.6.
+- [Kallur Lighthouse and ridge (FO)](../../../countries/FO/sights/kallur-lighthouse.yaml) — 9.1/8.6/7.2/8.8/7.7; existing linked editorial peer. Subject minus peer: I -0.3, U +0.4, S +1.6, E -0.1, D +0.6.
+- [Þingvellir National Park (IS)](../../../countries/IS/sights/thingvellir.yaml) — 9.0/9.3/9.5/9.0/8.7; existing linked editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.7, E -0.3, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 878.50 vs Þingvellir National Park 914.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -678,6 +942,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-ax-jan-karlsgarden](../../../countries/AX/sights/jan-karlsgarden.yaml) — greater heritage building variety.
 - [sight-sh-plantation-house](../../../countries/SH/sights/plantation-house.yaml) — similar island estate context.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Stourhead landscape garden (GB)](../../../countries/GB/sights/stourhead.yaml) — 8.8/8.8/8.9/8.9/8.4; existing linked editorial peer. Subject minus peer: I -0.5, U -0.6, S -0.6, E -0.5, D -0.4.
+- [Château de Vaux-le-Vicomte (FR)](../../../countries/FR/sights/vaux-le-vicomte.yaml) — 9.2/9.1/9.1/9.0/9.1; existing linked editorial peer. Subject minus peer: I -0.9, U -0.9, S -0.8, E -0.6, D -1.1.
+- [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.5, U +0.2, S +0.5, E +0.3, D +0.3.
+- [Plantation House and tortoise grounds (SH)](../../../countries/SH/sights/plantation-house.yaml) — 8.0/8.8/8.6/8.1/7.4; existing linked editorial peer. Subject minus peer: I +0.3, U -0.6, S -0.3, E +0.3, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 826.00 vs Château de Vaux-le-Vicomte 911.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -710,6 +987,19 @@ Source search excerpts inspected 2026-11-26, including official tourism, Paris M
 - [sight-nf-emily-slaughter-bays](../../../countries/NF/sights/emily-slaughter-bays.yaml) — more specialized reef experience.
 - [sight-pm-anse-henry](../../../countries/PM/sights/anse-henry.yaml) — less beach-oriented.
 - [sight-fo-pollurin](../../../countries/FO/sights/pollurin.yaml) — more unusual geological feature.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Horseshoe Bay Beach (BM)](../../../countries/BM/sights/horseshoe-bay.yaml) — 9.0/8.6/7.3/8.9/7.6; existing linked editorial peer. Subject minus peer: I -0.3, U -0.4, S +0.6, E -0.1, D +0.9.
+- [Emily Bay and Slaughter Bay lagoons (NF)](../../../countries/NF/sights/emily-slaughter-bays.yaml) — 8.8/8.1/7.9/8.0/7.6; existing linked editorial peer. Subject minus peer: I -0.1, U +0.1, S +0.0, E +0.8, D +0.9.
+- [Anse à Henry coastal trail (PM)](../../../countries/PM/sights/anse-henry.yaml) — 8.4/8.1/7.9/8.5/8.0; existing linked editorial peer. Subject minus peer: I +0.3, U +0.1, S +0.0, E +0.3, D +0.5.
+- [Pollurin tidal lagoon (FO)](../../../countries/FO/sights/pollurin.yaml) — 8.6/8.1/7.0/8.1/7.1; existing linked editorial peer. Subject minus peer: I +0.1, U +0.1, S +0.9, E +0.7, D +1.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 841.00 vs Horseshoe Bay Beach 840.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

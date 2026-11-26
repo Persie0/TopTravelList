@@ -64,6 +64,19 @@
 - Fram Museum (NO): different expedition heritage
 - HMS Victory (GB): greater naval historical significance
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Vasa Museum (SE)](../../../countries/SE/sights/vasa-museum.yaml) — 9.4/9.6/9.3/9.2/9.0; existing named editorial peer. Subject minus peer: I -0.8, U -0.4, S -0.4, E -0.4, D -0.7.
+- [Fram Museum (NO)](../../../countries/NO/sights/fram-museum.yaml) — 8.8/9.3/9.1/9.0/8.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.2, E -0.2, D -0.5.
+- [HMS Victory and Portsmouth Historic Dockyard (GB)](../../../countries/GB/sights/hms-victory.yaml) — 8.9/9.1/9.2/8.9/9.0; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S -0.3, E -0.1, D -0.7.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.1, U +0.9, S +0.3, E +0.8, D +0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 881.00 vs Vasa Museum 936.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -96,6 +109,19 @@
 - Fram Museum (NO): stronger individual expedition artifact
 - Vasa Museum (SE): greater monumental ship impact
 - Svalbard Museum (SJ): comparable regional specialist museum
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fram Museum (NO)](../../../countries/NO/sights/fram-museum.yaml) — 8.8/9.3/9.1/9.0/8.8; existing named editorial peer. Subject minus peer: I -0.8, U -0.8, S -0.6, E -0.3, D -0.4.
+- [Vasa Museum (SE)](../../../countries/SE/sights/vasa-museum.yaml) — 9.4/9.6/9.3/9.2/9.0; existing named editorial peer. Subject minus peer: I -1.4, U -1.1, S -0.8, E -0.5, D -0.6.
+- [Svalbard Museum (SJ)](../../../countries/SJ/sights/svalbard-museum.yaml) — 7.8/8.5/8.4/8.5/8.0; existing named editorial peer. Subject minus peer: I +0.2, U +0.0, S +0.1, E +0.2, D +0.4.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.5, U +0.2, S -0.1, E +0.7, D +0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 837.00 vs Vasa Museum 936.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -130,6 +156,19 @@
 - Estonian Open Air Museum (EE): greater regional variety
 - Kastelholm Castle (AX): different military heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Skansen Open-Air Museum (SE)](../../../countries/SE/sights/skansen.yaml) — 8.7/9.0/8.9/9.1/9.1; existing named editorial peer. Subject minus peer: I -0.9, U -1.0, S -1.1, E -1.0, D -1.4.
+- [Seurasaari Open-Air Museum (FI)](../../../countries/FI/sights/seurasaari.yaml) — 8.2/8.4/8.4/8.6/8.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.6, E -0.5, D -0.9.
+- [Estonian Open Air Museum (EE)](../../../countries/EE/sights/estonian-open-air-museum.yaml) — 8.2/8.4/8.4/8.7/8.7; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.6, E -0.6, D -1.0.
+- [Kastelholm Castle (AX)](../../../countries/AX/sights/kastelholm.yaml) — 8.2/8.3/8.5/8.3/7.9; existing named editorial peer. Subject minus peer: I -0.4, U -0.3, S -0.7, E -0.2, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 788.50 vs Skansen Open-Air Museum 891.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -162,6 +201,19 @@
 - Kastelholm Castle (AX): older and broader heritage
 - Custom House Dublin (IE): greater urban architectural scale
 - Mandarin's House (MO): comparable historic building scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kastelholm Castle (AX)](../../../countries/AX/sights/kastelholm.yaml) — 8.2/8.3/8.5/8.3/7.9; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.1, E -0.4, D -0.6.
+- [Mandarin's House (MO)](../../../countries/MO/sights/mandarins-house.yaml) — 8.0/8.5/8.6/8.3/8.0; existing named editorial peer. Subject minus peer: I +0.0, U -0.3, S -0.2, E -0.4, D -0.7.
+- [Oslo Opera House (NO)](../../../countries/NO/sights/oslo-opera-house.yaml) — 8.7/8.8/8.3/8.9/7.9; supplementary building-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S +0.1, E -1.0, D -0.6.
+- [Margravial Opera House Bayreuth (DE)](../../../countries/DE/sights/bayreuth-opera.yaml) — 9.0/9.2/9.3/8.8/8.0; supplementary building-type numerical anchor. Subject minus peer: I -1.0, U -1.0, S -0.9, E -0.9, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 804.50 vs Margravial Opera House Bayreuth 898.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -196,6 +248,19 @@
 - Kirkjubøur (FO): greater medieval heritage
 - Degerby (AX): broader village services
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -1.1, U -0.8, S -1.2, E -1.1, D -1.9.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -1.1, U -0.9, S -1.0, E -1.0, D -1.2.
+- [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -1.5, U -1.4, S -1.9, E -1.1, D -2.1.
+- [Khao Sok National Park (TH)](../../../countries/TH/sights/khao-sok-national-park.yaml) — 9.4/9.4/9.1/9.4/9.3; supplementary landscape-type numerical anchor. Subject minus peer: I -1.4, U -1.3, S -1.6, E -1.4, D -2.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 785.50 vs Shiretoko National Park 941.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -228,6 +293,19 @@
 - Kalen Trail (AX): greater archaeological variety
 - Kallur Ridge (FO): much more dramatic coastal landscape
 - Dragon's Back (HK): stronger broad ridge panorama
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Viru Bog Trail (EE)](../../../countries/EE/sights/viru-bog-trail.yaml) — 8.4/8.5/7.8/8.8/7.7; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.5, E -0.6, D -0.1.
+- [Kalen Trail (Kökar) (AX)](../../../countries/AX/sights/kalen-trail.yaml) — 8.0/8.2/8.1/8.2/8.0; existing named editorial peer. Subject minus peer: I +0.1, U -0.2, S -0.8, E +0.0, D -0.4.
+- [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; supplementary trail-type numerical anchor. Subject minus peer: I -0.6, U -0.4, S +0.6, E -0.5, D +0.1.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary trail-type numerical anchor. Subject minus peer: I -1.0, U -1.0, S -1.2, E -0.8, D -0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 788.00 vs Ponta de São Lourenço 888.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -262,6 +340,19 @@
 - Kirkjubøur (FO): stronger built medieval heritage
 - Hadrian's Wall (GB): much greater archaeological scale
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Viru Bog Trail (EE)](../../../countries/EE/sights/viru-bog-trail.yaml) — 8.4/8.5/7.8/8.8/7.7; existing named editorial peer. Subject minus peer: I -0.4, U -0.3, S +0.3, E -0.6, D +0.3.
+- [Hadrian's Wall (Frontiers of the Roman Empire) (GB)](../../../countries/GB/sights/hadrians-wall.yaml) — 8.9/9.2/9.5/8.9/9.3; existing named editorial peer. Subject minus peer: I -0.9, U -1.0, S -1.4, E -0.7, D -1.3.
+- [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; supplementary trail-type numerical anchor. Subject minus peer: I -0.7, U -0.2, S +1.4, E -0.5, D +0.5.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary trail-type numerical anchor. Subject minus peer: I -1.1, U -0.8, S -0.4, E -0.8, D -0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 810.00 vs Hadrian's Wall (Frontiers of the Roman Empire) 913.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -294,6 +385,19 @@
 - Mystic Seaport (US): much broader maritime living museum
 - Käringsund (AX): comparable local maritime setting
 - Åland Maritime Museum (AX): deeper collection-based interpretation
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Viking Ship Museum, Roskilde (DK)](../../../countries/DK/sights/viking-ship-museum.yaml) — 8.6/9.1/9.1/8.9/8.7; existing named editorial peer. Subject minus peer: I -0.9, U -1.1, S -1.3, E -0.8, D -1.1.
+- [Käringsund Fishing Village Heritage (AX)](../../../countries/AX/sights/karingsund.yaml) — 8.0/8.1/7.5/8.0/7.3; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.3, E +0.1, D +0.3.
+- [Åland Maritime Museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.7, E -0.6, D -0.8.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +0.2, U -0.3, S -0.8, E +0.1, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 784.50 vs Viking Ship Museum, Roskilde 888.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

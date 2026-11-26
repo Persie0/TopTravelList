@@ -16,6 +16,19 @@
 - Bosporus (TR): greater historic maritime significance
 - Vancouver Harbour (CA): similar mountain setting, less dense skyline
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.8, U +1.0, S +0.2, E +1.6, D +1.5.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +1.3, U +0.7, S +0.0, E +1.1, D +0.4.
+- [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; supplementary museum-type numerical anchor. Subject minus peer: I +0.7, U +0.5, S -0.2, E +0.9, D +0.2.
+- [National Museum of Cambodia (KH)](../../../countries/KH/sights/national-museum-cambodia.yaml) — 8.8/9.1/9.3/9.1/8.8; supplementary museum-type numerical anchor. Subject minus peer: I +0.5, U +0.2, S -0.5, E +0.5, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): experience 9.6 vs National Museum of Cambodia 9.1; photography category 9.9: same-category peer still needed; overall 921.50 vs National Museum of Cambodia 902.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Fingal's Cave (GB): narrower basalt cave
 - Garni Gorge (AM): related columnar geology without marine scope
 - Dyrhólaey (IS): comparable coastal landforms, different geology
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Giant's Causeway and Causeway Coast (GB)](../../../countries/GB/sights/giants-causeway.yaml) — 9.4/9.5/9.1/9.1/8.7; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S -0.3, E +0.1, D +0.4.
+- [Dyrhólaey (IS)](../../../countries/IS/sights/dyrholaey.yaml) — 9.0/8.8/8.5/8.6/7.9; existing named editorial peer. Subject minus peer: I +0.1, U +0.6, S +0.3, E +0.6, D +1.2.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I +0.0, U +0.4, S +0.3, E +0.2, D +0.6.
+- [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.4, U -0.1, S -0.6, E +0.1, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 913.00 vs Shiretoko National Park 941.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
@@ -82,6 +108,19 @@
 - National Museum of Korea (KR): wider national historical coverage
 - Museum of Asian Art (DE): comparable institutional scope, different focus
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [National Palace Museum (TW)](../../../countries/TW/sights/national-palace-museum.yaml) — 9.3/9.6/9.8/9.2/9.3; existing named editorial peer. Subject minus peer: I -0.4, U -0.6, S -0.9, E +0.0, D -0.4.
+- [National Museum of Korea (KR)](../../../countries/KR/sights/national-museum-of-korea.yaml) — 9.1/9.3/9.4/9.3/9.6; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.5, E -0.1, D -0.7.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.4, U +0.7, S +0.3, E +1.2, D +1.4.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.9, U +0.4, S +0.1, E +0.7, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 897.00 vs National Palace Museum 946.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
 | --- | ---: | --- |
@@ -114,6 +153,19 @@
 - Madeira (PT): more extensive mountain trails
 - Lamma (HK): smaller island experience
 - Sentosa (SG): more resort-focused island
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.6, U -1.0, S -0.9, E +0.1, D +0.0.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.6, U -1.1, S -1.2, E +1.3, D +1.8.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.2, S -1.3, E -0.2, D +0.1.
+- [Nightingale Island guided coastal wildlife visit (SH)](../../../countries/SH/sights/nightingale-island.yaml) — 8.8/9.0/9.0/8.2/7.8; supplementary island-type numerical anchor. Subject minus peer: I +0.1, U -0.3, S -0.4, E +1.1, D +1.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 890.00 vs Galápagos Islands (World Heritage property) 978.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
@@ -148,6 +200,19 @@
 - Wat Muang Great Buddha (TH): comparable statue scope
 - Bulguksa (KR): much deeper historic temple ensemble
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Leshan Giant Buddha (CN)](../../../countries/CN/sights/leshan-giant-buddha.yaml) — 9.2/9.7/9.7/9.2/8.1; existing named editorial peer. Subject minus peer: I -0.4, U -0.6, S -1.3, E +0.1, D -0.1.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S -1.1, E +0.1, D -1.4.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -0.7, S -1.4, E +1.3, D +0.4.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -1.1, U -0.8, S -1.5, E -0.2, D -1.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 879.00 vs Galápagos Islands (World Heritage property) 978.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
 | --- | ---: | --- |
@@ -180,6 +245,19 @@
 - Southbank (GB): comparable arts and riverfront district
 - MuseumsQuartier (AT): comparable cultural cluster
 - M+ (HK): separate single museum with narrower scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Museum Island Berlin (DE)](../../../countries/DE/sights/museum-island.yaml) — 9.3/9.4/9.5/9.2/9.5; existing named editorial peer. Subject minus peer: I -0.5, U -0.7, S -1.2, E -0.1, D -0.3.
+- [MuseumsQuartier (AT)](../../../countries/AT/sights/museumsquartier.yaml) — 8.5/8.7/8.3/9.0/9.0; existing named editorial peer. Subject minus peer: I +0.3, U +0.0, S +0.0, E +0.1, D +0.2.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.3, U +0.4, S -0.3, E +1.1, D +1.7.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.8, U +0.1, S -0.5, E +0.6, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 876.00 vs Museum Island Berlin 937.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
@@ -214,6 +292,19 @@
 - Sugarloaf Mountain (BR): comparable harbour panorama
 - Mount Tapyas (PH): narrower viewpoint experience
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Sugarloaf Mountain (Pão de Açúcar) (BR)](../../../countries/BR/sights/sugarloaf-mountain-pao-de-acucar.yaml) — 9.5/9.1/8.0/9.3/7.6; existing named editorial peer. Subject minus peer: I -0.7, U -0.4, S +0.0, E +0.2, D +1.0.
+- [Hohe Tauern National Park (AT)](../../../countries/AT/sights/hohe-tauern-national-park.yaml) — 9.4/9.1/9.0/9.5/9.4; supplementary mountain-type numerical anchor. Subject minus peer: I -0.6, U -0.4, S -1.0, E +0.0, D -0.8.
+- [Mount Pico (PT)](../../../countries/PT/sights/pico-mountain.yaml) — 9.2/9.0/8.8/8.8/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.4, U -0.3, S -0.8, E +0.7, D -0.1.
+- [Mount Kinabalu (MY)](../../../countries/MY/sights/mount-kinabalu.yaml) — 9.4/9.3/8.7/9.1/8.7; supplementary mountain-type numerical anchor. Subject minus peer: I -0.6, U -0.6, S -0.7, E +0.4, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): experience 9.5 vs Hohe Tauern National Park 9.5; overall 870.00 vs Hohe Tauern National Park 926.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
 | --- | ---: | --- |
@@ -246,6 +337,19 @@
 - Thean Hou Temple (MY): comparable Chinese temple experience
 - Bulguksa (KR): far greater historic significance and breadth
 - Thian Hock Keng (SG): close merchant-temple peer
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Thean Hou Temple (MY)](../../../countries/MY/sights/thean-hou-temple.yaml) — 8.4/8.5/7.8/8.6/7.7; existing named editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.9, E +0.4, D +0.0.
+- [Oura Church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; supplementary religious-type numerical anchor. Subject minus peer: I +0.1, U +0.0, S -0.4, E +0.3, D +0.0.
+- [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; supplementary religious-type numerical anchor. Subject minus peer: I +0.7, U +0.3, S +0.5, E +1.0, D +0.7.
+- [Hvalsey Church Ruins (GL)](../../../countries/GL/sights/hvalsey-church.yaml) — 8.3/8.9/9.1/8.2/7.8; supplementary religious-type numerical anchor. Subject minus peer: I +0.3, U -0.1, S -0.4, E +0.8, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 864.00 vs Oura Church 864.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
@@ -280,6 +384,19 @@
 - Bosphorus ferry (TR): longer maritime heritage perspective
 - Victoria Harbour (HK): broader multi-viewpoint landscape
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Victoria Harbour (HK)](../../../countries/HK/sights/victoria-harbour.yaml) — 9.3/9.3/8.8/9.6/9.0; existing named editorial peer. Subject minus peer: I -0.7, U -0.6, S -0.4, E -0.3, D -0.9.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.2, S -0.3, E +0.2, D -1.1.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.3, S -0.1, E +0.3, D -0.4.
+- [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.9, U -0.8, S -1.0, E +0.2, D -1.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 864.00 vs Shiretoko National Park 941.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
 | --- | ---: | --- |
@@ -312,6 +429,19 @@
 - Chew Jetty (MY): closely comparable stilt housing
 - Cái Bè (VN): comparable riverine trade heritage
 - Lantau Island (HK): broader island scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kampong Ayer (BN)](../../../countries/BN/sights/kampong-ayer.yaml) — 8.5/9.1/8.7/8.7/8.5; existing named editorial peer. Subject minus peer: I +0.1, U -0.3, S -0.5, E +0.3, D -0.1.
+- [Lantau Island (HK)](../../../countries/HK/sights/lantau-island.yaml) — 8.9/8.7/8.6/9.3/9.4; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S -0.4, E -0.3, D -1.0.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.1, S -0.5, E -0.1, D -0.8.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.2, S -0.3, E +0.0, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.00 vs Pembrokeshire Coast National Park 898.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
@@ -346,6 +476,19 @@
 - Thian Hock Keng (SG): comparable historic temple
 - Angkor Wat (KH): incomparable monumental and historical scale
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Erawan Shrine Bangkok (TH)](../../../countries/TH/sights/erawan-shrine.yaml) — 8.0/8.1/8.4/8.4/6.4; existing named editorial peer. Subject minus peer: I +0.5, U +0.6, S +0.1, E +0.6, D +1.5.
+- [Angkor Wat (KH)](../../../countries/KH/sights/angkor-wat.yaml) — 10.0/10.0/10.0/9.8/9.5; existing named editorial peer. Subject minus peer: I -1.5, U -1.3, S -1.5, E -0.8, D -1.6.
+- [Oura Church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; supplementary religious-type numerical anchor. Subject minus peer: I +0.0, U -0.1, S -0.6, E +0.3, D +0.2.
+- [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; supplementary religious-type numerical anchor. Subject minus peer: I +0.6, U +0.2, S +0.3, E +1.0, D +0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.50 vs Angkor Wat 992.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
 | --- | ---: | --- |
@@ -378,6 +521,19 @@
 - Diamond Head trail (US): shorter volcano panorama
 - Kallur ridge (FO): more dramatic polar coast
 - MacLehose Trail (HK): far broader multi-stage hike
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Anse Major Nature Trail (SC)](../../../countries/SC/sights/anse-major-nature-trail.yaml) — 8.7/8.4/6.7/8.7/7.5; supplementary trail-type numerical anchor. Subject minus peer: I +0.1, U +0.2, S +0.7, E +0.5, D +0.9.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary trail-type numerical anchor. Subject minus peer: I -0.3, U -0.4, S -1.1, E +0.2, D -0.1.
+- [Samaria Gorge National Park (GR)](../../../countries/GR/sights/samaria.yaml) — 9.3/9.1/8.8/9.0/8.8; supplementary trail-type numerical anchor. Subject minus peer: I -0.5, U -0.5, S -1.4, E +0.2, D -0.4.
+- [Nakasendo Magome Tsumago Trail (JP)](../../../countries/JP/sights/nakasendo-magome-tsumago-trail.yaml) — 8.6/8.7/8.8/9.0/8.7; supplementary trail-type numerical anchor. Subject minus peer: I +0.2, U -0.1, S -1.4, E +0.2, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 849.00 vs Samaria Gorge National Park 905.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
@@ -412,6 +568,19 @@
 - Gozo (MT): greater archaeological depth
 - Lantau (HK): larger mountain and heritage scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Cheung Chau Island (HK)](../../../countries/HK/sights/cheung-chau.yaml) — 8.1/8.1/7.5/8.4/8.2; existing named editorial peer. Subject minus peer: I +0.4, U +0.2, S +0.1, E +0.6, D +0.7.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.4, S -1.9, E -0.2, D -0.5.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.5, S -2.2, E +1.0, D +1.3.
+- [Galápagos Islands (World Heritage property) (EC)](../../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) — 9.9/9.9/9.9/9.5/9.3; supplementary island-type numerical anchor. Subject minus peer: I -1.4, U -1.6, S -2.3, E -0.5, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.50 vs Galápagos Islands (World Heritage property) 978.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
 | --- | ---: | --- |
@@ -444,6 +613,19 @@
 - Sugarloaf cable car (BR): comparable city-harbour views
 - Tianmen cableway (CN): comparable mountain ride
 - Lantau Island (HK): broader destination scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Lantau Island (HK)](../../../countries/HK/sights/lantau-island.yaml) — 8.9/8.7/8.6/9.3/9.4; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -1.5, E -0.1, D -1.8.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.4, U -0.3, S -1.6, E +0.1, D -1.6.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.4, U -0.4, S -1.4, E +0.2, D -0.9.
+- [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.8, U -0.9, S -2.3, E +0.1, D -1.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 832.00 vs Shiretoko National Park 941.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
@@ -478,6 +660,19 @@
 - Shilin Night Market (TW): comparable food and night culture
 - Made in Cambodia Market (KH): smaller craft-oriented experience
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Shilin Night Market (TW)](../../../countries/TW/sights/shilin-night-market.yaml) — 8.2/7.8/7.8/8.9/8.5; existing named editorial peer. Subject minus peer: I -0.1, U +0.3, S -0.1, E +0.1, D -0.3.
+- [Made in Cambodia Market Siem Reap (KH)](../../../countries/KH/sights/made-in-cambodia-market.yaml) — 7.7/7.8/7.6/8.6/7.9; existing named editorial peer. Subject minus peer: I +0.4, U +0.3, S +0.1, E +0.4, D +0.3.
+- [Chatuchak Weekend Market (TH)](../../../countries/TH/sights/chatuchak-weekend-market.yaml) — 8.8/8.7/8.3/9.3/9.5; supplementary market-type numerical anchor. Subject minus peer: I -0.7, U -0.6, S -0.6, E -0.3, D -1.3.
+- [Ben Thanh Market (VN)](../../../countries/VN/sights/ben-thanh-market.yaml) — 8.2/8.0/8.1/9.0/8.8; supplementary market-type numerical anchor. Subject minus peer: I -0.1, U +0.1, S -0.4, E +0.0, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 816.50 vs Chatuchak Weekend Market 882.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Before and retained | Individual justification |
 | --- | ---: | --- |
@@ -510,6 +705,19 @@
 - Mori Art Museum (JP): comparable contemporary art focus
 - National Museum of Modern and Contemporary Art Seoul (KR): comparable national contemporary collections
 - Hong Kong Palace Museum (HK): separate historical art focus
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Tate Modern (GB)](../../../countries/GB/sights/tate-modern.yaml) — 9.1/9.2/9.2/9.2/9.2; existing named editorial peer. Subject minus peer: I -0.5, U -0.2, S -0.3, E -0.4, D -0.2.
+- [Hong Kong Palace Museum (HK)](../../../countries/HK/sights/hong-kong-palace-museum.yaml) — 8.9/9.0/8.9/9.2/8.9; existing named editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.0, E -0.4, D +0.1.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I +1.1, U +0.7, S +0.3, E +0.8, D +1.5.
+- [Historic Dockyard Museum (Stanley) (FK)](../../../countries/FK/sights/historic-dockyard-museum.yaml) — 8.0/8.6/8.8/8.5/8.6; supplementary museum-type numerical anchor. Subject minus peer: I +0.6, U +0.4, S +0.1, E +0.3, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 883.00 vs Tate Modern 917.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -544,6 +752,19 @@
 - Kunstquartier Bethanien (DE): comparable adaptive cultural use
 - Man Mo Temple (HK): smaller religious heritage scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kilmainham Gaol (IE)](../../../countries/IE/sights/kilmainham-gaol.yaml) — 8.6/8.8/9.2/8.7/8.3; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.7, E +0.0, D +0.2.
+- [Man Mo Temple (HK)](../../../countries/HK/sights/man-mo-temple-hong-kong.yaml) — 8.6/8.8/8.7/9.0/7.7; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.2, E -0.3, D +0.8.
+- [Con Dao Prison Historical Site (VN)](../../../countries/VN/sights/con-dao-prison-complex.yaml) — 8.7/9.1/9.5/8.6/8.8; supplementary prison-type numerical anchor. Subject minus peer: I -0.3, U -0.5, S -1.0, E +0.1, D -0.3.
+- [Abashiri Prison Museum (JP)](../../../countries/JP/sights/abashiri-prison-museum.yaml) — 8.2/8.6/8.4/8.6/8.5; supplementary prison-type numerical anchor. Subject minus peer: I +0.2, U +0.0, S +0.1, E +0.1, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 852.50 vs Con Dao Prison Historical Site 895.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -576,6 +797,19 @@
 - Humble Administrator's Garden (CN): greater classical garden heritage
 - Bulguksa (KR): older temple significance
 - Man Mo Temple (HK): smaller urban religious compound
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Humble Administrator's Garden (CN)](../../../countries/CN/sights/humble-administrators-garden.yaml) — 9.0/9.4/9.3/9.3/8.5; existing named editorial peer. Subject minus peer: I -0.5, U -1.1, S -1.6, E -0.8, D -0.6.
+- [Man Mo Temple (HK)](../../../countries/HK/sights/man-mo-temple-hong-kong.yaml) — 8.6/8.8/8.7/9.0/7.7; existing named editorial peer. Subject minus peer: I -0.1, U -0.5, S -1.0, E -0.5, D +0.2.
+- [Singapore Botanic Gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.6, U -0.9, S -1.7, E -0.7, D -1.4.
+- [Jardin de Balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.1, U +0.1, S +0.0, E -0.3, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 823.00 vs Singapore Botanic Gardens 922.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -610,6 +844,19 @@
 - Koh Rong (KH): stronger beach focus
 - Lantau Island (HK): much greater mountain scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Lamma Island (HK)](../../../countries/HK/sights/lamma-island.yaml) — 8.5/8.3/7.6/9.0/8.9; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.1, E -0.6, D -0.7.
+- [Lantau Island (HK)](../../../countries/HK/sights/lantau-island.yaml) — 8.9/8.7/8.6/9.3/9.4; existing named editorial peer. Subject minus peer: I -0.8, U -0.6, S -1.1, E -0.9, D -1.2.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -1.4, U -1.6, S -2.0, E -0.8, D -1.2.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -1.4, U -1.7, S -2.3, E +0.4, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 803.50 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -643,6 +890,19 @@
 - London Wetland Centre (GB): closely comparable urban wetland education
 - Royal Gardens Siem Reap (KH): less ecological depth
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Royal Gardens Siem Reap (KH)](../../../countries/KH/sights/siem-reap-royal-gardens.yaml) — 7.0/7.1/6.7/7.9/7.7; existing named editorial peer. Subject minus peer: I +0.8, U +0.8, S +1.4, E +0.2, D +0.3.
+- [Lake Bled and island landscape (SI)](../../../countries/SI/sights/lake-bled.yaml) — 9.4/9.2/8.7/9.3/8.8; supplementary lake-type numerical anchor. Subject minus peer: I -1.6, U -1.3, S -0.6, E -1.2, D -0.8.
+- [Cheow Lan Lake (TH)](../../../countries/TH/sights/cheow-lan-lake.yaml) — 9.1/9.3/8.5/9.3/8.7; supplementary lake-type numerical anchor. Subject minus peer: I -1.3, U -1.4, S -0.4, E -1.2, D -0.7.
+- [Weekuri Lagoon (ID)](../../../countries/ID/sights/weekuri-lagoon.yaml) — 9.0/9.0/7.2/9.1/8.0; supplementary lake-type numerical anchor. Subject minus peer: I -1.2, U -1.1, S +0.9, E -1.0, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 795.00 vs Lake Bled and island landscape 913.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -675,6 +935,19 @@
 - Longshan Temple (TW): comparable active religious visitor experience
 - Wong Tai Sin Temple (HK): urban worship counterpart
 - Po Lin's Tian Tan Buddha (HK): distinct monument with narrower scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Wong Tai Sin Temple (HK)](../../../countries/HK/sights/wong-tai-sin-temple.yaml) — 8.5/8.7/8.5/9.0/7.9; existing named editorial peer. Subject minus peer: I +0.3, U +0.2, S +0.1, E +0.0, D +0.3.
+- [Oura Church (JP)](../../../countries/JP/sights/oura-church.yaml) — 8.5/8.8/9.1/8.7/7.7; supplementary religious-type numerical anchor. Subject minus peer: I +0.3, U +0.1, S -0.5, E +0.3, D +0.5.
+- [Christ Church Cathedral and Whalebone Arch (FK)](../../../countries/FK/sights/christ-church-cathedral.yaml) — 7.9/8.5/8.2/8.0/7.0; supplementary religious-type numerical anchor. Subject minus peer: I +0.9, U +0.4, S +0.4, E +1.0, D +1.2.
+- [Hvalsey Church Ruins (GL)](../../../countries/GL/sights/hvalsey-church.yaml) — 8.3/8.9/9.1/8.2/7.8; supplementary religious-type numerical anchor. Subject minus peer: I +0.5, U +0.0, S -0.5, E +0.8, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 875.50 vs Oura Church 864.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

@@ -18,6 +18,19 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — distinct Cocos Malay settlement.
 - [city-as-faleasao](../../../countries/AS/cities/faleasao.yaml) — volcanic coastal village with broader confirmed visitor scope.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Oneroa (Mangaia) (CK)](../../../countries/CK/cities/oneroa.yaml) — 7.2/7.8/7.7/7.2/6.9; existing linked editorial peer. Subject minus peer: U +0.5, S +0.7.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: U -0.8, S +0.0.
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: U -0.4, S +0.0.
+- [Faleasao (Taʻū) (AS)](../../../countries/AS/cities/faleasao.yaml) — 7.6/8.1/7.7/7.2/6.5; existing linked editorial peer. Subject minus peer: U +0.2, S +0.7.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [city-ck-arutanga](../../../countries/CK/cities/arutanga.yaml) — more established tourism and mission heritage.
 - [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — more internationally distinctive history.
 - [city-as-fagatogo](../../../countries/AS/cities/fagatogo.yaml) — larger civic buildings.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: U -0.5, S -0.3.
+- [Arutanga (Aitutaki) (CK)](../../../countries/CK/cities/arutanga.yaml) — 7.5/7.9/8.2/8.0/7.4; existing linked editorial peer. Subject minus peer: U +0.3, S -0.1.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: U -0.9, S -0.3.
+- [Fagatogo (AS)](../../../countries/AS/cities/fagatogo.yaml) — 7.6/8.1/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: U +0.1, S -0.4.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [city-as-olosega](../../../countries/AS/cities/olosega.yaml) — similarly small island village.
 - [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — far greater documented heritage.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [West Island settlement (CC)](../../../countries/CC/cities/west-island-settlement.yaml) — 6.8/7.7/7.3/7.5/6.9; existing linked editorial peer. Subject minus peer: U -0.3, S +0.1.
+- [Ngatangiia and Muri village (CK)](../../../countries/CK/cities/ngatangiia-muri.yaml) — 7.6/7.5/7.5/8.5/7.6; existing linked editorial peer. Subject minus peer: U -0.1, S -0.1.
+- [Olosega village (AS)](../../../countries/AS/cities/olosega.yaml) — 7.9/8.2/7.6/7.2/6.5; existing linked editorial peer. Subject minus peer: U -0.8, S -0.2.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: U -1.7, S -1.0.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -117,6 +156,19 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [city-ck-arutanga](../../../countries/CK/cities/arutanga.yaml) — more established visitor infrastructure.
 - [city-as-fagatogo](../../../countries/AS/cities/fagatogo.yaml) — larger port civic district.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: U -0.5, S +0.3.
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: U -0.1, S +0.3.
+- [Arutanga (Aitutaki) (CK)](../../../countries/CK/cities/arutanga.yaml) — 7.5/7.9/8.2/8.0/7.4; existing linked editorial peer. Subject minus peer: U +0.7, S +0.5.
+- [Fagatogo (AS)](../../../countries/AS/cities/fagatogo.yaml) — 7.6/8.1/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: U +0.5, S +0.2.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -149,6 +201,19 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [city-ck-oneroa](../../../countries/CK/cities/oneroa.yaml) — older raised-island village history.
 - [city-as-olosega](../../../countries/AS/cities/olosega.yaml) — comparable small settlement.
 - [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — more globally distinctive history.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [West Island settlement (CC)](../../../countries/CC/cities/west-island-settlement.yaml) — 6.8/7.7/7.3/7.5/6.9; existing linked editorial peer. Subject minus peer: U -0.2, S +0.3.
+- [Oneroa (Mangaia) (CK)](../../../countries/CK/cities/oneroa.yaml) — 7.2/7.8/7.7/7.2/6.9; existing linked editorial peer. Subject minus peer: U -0.3, S -0.1.
+- [Olosega village (AS)](../../../countries/AS/cities/olosega.yaml) — 7.9/8.2/7.6/7.2/6.5; existing linked editorial peer. Subject minus peer: U -0.7, S +0.0.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: U -1.6, S -0.8.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

@@ -16,6 +16,19 @@
 - Saint-Pierre (RE): less administrative heritage breadth
 - George Town (MY): stronger historic urban ensemble
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Port Louis (MU)](../../../countries/MU/cities/port-louis.yaml) — 8.0/8.2/8.5/8.4/8.2; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.4, E -0.3, D -0.2.
+- [Papeete (PF)](../../../countries/PF/cities/papeete.yaml) — 7.5/8.0/8.0/8.1/7.8; existing named editorial peer. Subject minus peer: I +0.1, U +0.0, S +0.1, E +0.0, D +0.2.
+- [Saint-Pierre (RE)](../../../countries/RE/cities/saint-pierre.yaml) — 7.6/7.6/7.3/8.0/7.6; existing named editorial peer. Subject minus peer: I +0.0, U +0.4, S +0.8, E +0.1, D +0.4.
+- [George Town (MY)](../../../countries/MY/cities/george-town.yaml) — 9.1/9.3/9.2/9.2/9.0; existing named editorial peer. Subject minus peer: I -1.5, U -1.3, S -1.1, E -1.1, D -1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 791.50 vs George Town 917.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Port Louis (MU): broader capital experience
 - Papeete (PF): comparable urban island port
 - Fajardo (PR): narrower service-town scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Saint-Denis (RE)](../../../countries/RE/cities/saint-denis.yaml) — 7.6/8.0/8.1/8.1/8.0; existing named editorial peer. Subject minus peer: I +0.0, U -0.4, S -0.8, E -0.1, D -0.4.
+- [Port Louis (MU)](../../../countries/MU/cities/port-louis.yaml) — 8.0/8.2/8.5/8.4/8.2; existing named editorial peer. Subject minus peer: I -0.4, U -0.6, S -1.2, E -0.4, D -0.6.
+- [Papeete (PF)](../../../countries/PF/cities/papeete.yaml) — 7.5/8.0/8.0/8.1/7.8; existing named editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.7, E -0.1, D -0.2.
+- [Fajardo (PR)](../../../countries/PR/cities/fajardo.yaml) — 7.0/7.0/6.6/7.4/6.8; existing named editorial peer. Subject minus peer: I +0.6, U +0.6, S +0.7, E +0.6, D +0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 760.00 vs Port Louis 823.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -82,6 +108,19 @@
 - Banaue (PH): distinctive mountain settlement but terrace scope separate
 - Taiohaʻe (PF): comparable dramatic settlement backdrop
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Hell-Bourg (RE)](../../../countries/RE/cities/hell-bourg.yaml) — 8.1/8.5/7.8/8.2/7.4; existing named editorial peer. Subject minus peer: I +0.4, U -0.2, S -0.3, E +0.0, D +0.1.
+- [Hallstatt (AT)](../../../countries/AT/cities/hallstatt.yaml) — 8.3/8.4/8.1/8.2/7.6; existing named editorial peer. Subject minus peer: I +0.2, U -0.1, S -0.6, E +0.0, D -0.1.
+- [Banaue (PH)](../../../countries/PH/cities/banaue.yaml) — 8.0/8.0/7.8/7.8/7.0; existing named editorial peer. Subject minus peer: I +0.5, U +0.3, S -0.3, E +0.4, D +0.5.
+- [Taiohaʻe (PF)](../../../countries/PF/cities/taiohae.yaml) — 8.1/8.4/7.7/7.8/7.1; existing named editorial peer. Subject minus peer: I +0.4, U -0.1, S -0.2, E +0.4, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 810.50 vs Hallstatt 820.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -115,6 +154,19 @@
 - Hội An (VN): much greater coherent historic urban scope
 - Gjógv (FO): similarly compact distinctive settlement
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Cilaos (RE)](../../../countries/RE/cities/cilaos.yaml) — 8.5/8.3/7.5/8.2/7.5; existing named editorial peer. Subject minus peer: I -0.4, U +0.2, S +0.3, E +0.0, D -0.1.
+- [Kirkjubøur (FO)](../../../countries/FO/cities/kirkjubour.yaml) — 7.8/8.2/8.6/7.8/7.4; existing named editorial peer. Subject minus peer: I +0.3, U +0.3, S -0.8, E +0.4, D +0.0.
+- [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) — 9.0/9.3/9.1/9.0/8.7; existing named editorial peer. Subject minus peer: I -0.9, U -0.8, S -1.3, E -0.8, D -1.3.
+- [Gjógv (FO)](../../../countries/FO/cities/gjogv.yaml) — 8.1/7.9/6.8/7.8/6.5; existing named editorial peer. Subject minus peer: I +0.0, U +0.6, S +1.0, E +0.4, D +0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 808.50 vs Hoi An 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -147,6 +199,19 @@
 - Saint-Pierre (RE): greater urban breadth
 - Vaitape (PF): comparable gateway scope
 - Port Louis (MU): much greater urban depth
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Rincón (PR)](../../../countries/PR/cities/rincon.yaml) — 7.3/7.5/6.6/7.8/7.0; existing named editorial peer. Subject minus peer: I +0.1, U +0.0, S +0.4, E +0.0, D +0.3.
+- [Saint-Pierre (RE)](../../../countries/RE/cities/saint-pierre.yaml) — 7.6/7.6/7.3/8.0/7.6; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S -0.3, E -0.2, D -0.3.
+- [Vaitape (PF)](../../../countries/PF/cities/vaitape.yaml) — 7.2/7.1/6.2/7.3/6.4; existing named editorial peer. Subject minus peer: I +0.2, U +0.4, S +0.8, E +0.5, D +0.9.
+- [Port Louis (MU)](../../../countries/MU/cities/port-louis.yaml) — 8.0/8.2/8.5/8.4/8.2; existing named editorial peer. Subject minus peer: I -0.6, U -0.7, S -1.5, E -0.6, D -0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 739.50 vs Port Louis 823.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

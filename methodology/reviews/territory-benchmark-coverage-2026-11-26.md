@@ -1,0 +1,707 @@
+# Territory benchmark numerical coverage — 2026-11-26
+
+This pass resolves existing named editorial peers to current YAML and supplements missing comparisons with curated type-based anchors. It verifies numerical coverage, not independent material claims, peer appropriateness for every specialist record, or rating correctness. No YAML values, categories, nulls, evidence statuses, or older decisions changed.
+
+| Code | Settlements | Sights | Ranked | Unranked | Previously covered | Added | Type supplements | No resolved named peer |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| AI | 3 | 10 | 12 | 1 | 0 | 13 | 6 | 0 |
+| AQ | 0 | 14 | 12 | 2 | 0 | 14 | 13 | 0 |
+| AS | 7 | 12 | 17 | 2 | 0 | 19 | 2 | 0 |
+| AW | 2 | 13 | 15 | 0 | 0 | 15 | 10 | 2 |
+| AX | 3 | 10 | 13 | 0 | 3 | 10 | 7 | 1 |
+| BL | 2 | 8 | 10 | 0 | 0 | 10 | 6 | 0 |
+| BM | 3 | 12 | 15 | 0 | 0 | 15 | 11 | 0 |
+| BQ | 5 | 13 | 18 | 0 | 0 | 18 | 8 | 0 |
+| BV | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 1 |
+| CC | 2 | 10 | 11 | 1 | 0 | 12 | 4 | 1 |
+| CK | 4 | 18 | 18 | 4 | 0 | 22 | 4 | 1 |
+| CW | 2 | 13 | 15 | 0 | 0 | 15 | 10 | 2 |
+| CX | 1 | 11 | 11 | 1 | 0 | 12 | 7 | 0 |
+| FK | 3 | 10 | 13 | 0 | 0 | 13 | 9 | 0 |
+| FO | 4 | 7 | 11 | 0 | 0 | 11 | 7 | 0 |
+| GF | 4 | 10 | 14 | 0 | 1 | 13 | 9 | 1 |
+| GG | 4 | 22 | 26 | 0 | 0 | 26 | 2 | 0 |
+| GL | 7 | 12 | 16 | 3 | 12 | 7 | 7 | 0 |
+| GP | 5 | 11 | 16 | 0 | 1 | 15 | 10 | 0 |
+| GS | 0 | 10 | 9 | 1 | 0 | 10 | 7 | 1 |
+| GU | 5 | 12 | 16 | 1 | 0 | 17 | 2 | 0 |
+| HK | 1 | 21 | 22 | 0 | 0 | 22 | 22 | 3 |
+| HM | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 0 |
+| IO | 0 | 5 | 0 | 5 | 0 | 5 | 5 | 3 |
+| KY | 2 | 11 | 13 | 0 | 0 | 13 | 7 | 0 |
+| MF | 2 | 10 | 12 | 0 | 0 | 12 | 9 | 0 |
+| MO | 1 | 12 | 13 | 0 | 0 | 13 | 11 | 2 |
+| MP | 4 | 15 | 16 | 3 | 0 | 19 | 4 | 1 |
+| MQ | 4 | 11 | 15 | 0 | 1 | 14 | 9 | 0 |
+| MS | 2 | 8 | 9 | 1 | 0 | 10 | 6 | 0 |
+| NC | 4 | 11 | 14 | 1 | 15 | 0 | 0 | 0 |
+| NF | 1 | 11 | 11 | 1 | 12 | 0 | 0 | 0 |
+| NU | 4 | 15 | 18 | 1 | 0 | 19 | 1 | 0 |
+| PF | 5 | 11 | 15 | 1 | 16 | 0 | 0 | 0 |
+| PM | 2 | 14 | 16 | 0 | 0 | 16 | 0 | 0 |
+| PN | 1 | 10 | 8 | 3 | 11 | 0 | 0 | 0 |
+| PR | 5 | 11 | 16 | 0 | 0 | 16 | 11 | 0 |
+| RE | 5 | 10 | 15 | 0 | 0 | 15 | 10 | 0 |
+| SH | 4 | 14 | 17 | 1 | 0 | 18 | 14 | 2 |
+| SJ | 2 | 12 | 10 | 4 | 3 | 11 | 8 | 0 |
+| SX | 2 | 10 | 11 | 1 | 0 | 12 | 6 | 0 |
+| TC | 3 | 12 | 15 | 0 | 0 | 15 | 6 | 0 |
+| TF | 0 | 6 | 0 | 6 | 0 | 6 | 6 | 3 |
+| TK | 5 | 4 | 0 | 9 | 0 | 9 | 3 | 0 |
+| UM | 0 | 9 | 1 | 8 | 0 | 9 | 9 | 8 |
+| VG | 3 | 10 | 13 | 0 | 0 | 13 | 7 | 0 |
+| VI | 4 | 11 | 15 | 0 | 0 | 15 | 11 | 0 |
+| WF | 4 | 14 | 17 | 1 | 0 | 18 | 0 | 0 |
+| YT | 2 | 10 | 10 | 2 | 0 | 12 | 9 | 0 |
+
+Total: 676 active reviews; 601 supplemented, 75 already numerically covered. Each active record has four distinct complete peer profiles across at least three geographic codes, checked against the same branch YAML. Incomplete peers are not counted.
+
+Unpopulated registry codes: EH, GI, IM, JE. No new destinations invented.
+
+## Outstanding editorial checks
+
+Records with no resolved existing named peer (supplementary anchors need closer manual review): 32.
+- sight-aw-casibari-rock-formations
+- sight-aw-san-nicolas-murals
+- sight-ax-karingsund
+- sight-bv-bouvet
+- sight-cc-pulu-keeling-national-park
+- sight-ck-manuae
+- sight-cw-historic-willemstad
+- sight-cw-mikve-israel-emanuel
+- sight-gf-saul-trails
+- sight-gs-south-sandwich-islands
+- sight-hk-victoria-harbour
+- sight-hk-lantau-island
+- sight-hk-dragons-back-trail
+- sight-io-great-chagos-bank
+- sight-io-peros-banhos
+- sight-io-diego-garcia
+- sight-mo-taipa-village
+- sight-mo-grand-prix-museum
+- sight-mp-mariana-trench
+- sight-sh-long-beach
+- sight-sh-gough-inaccessible-islands
+- sight-tf-austral-lands
+- sight-tf-juan-de-nova
+- sight-tf-bassas-da-india
+- sight-um-palmyra-atoll
+- sight-um-kingman-reef
+- sight-um-baker-island
+- sight-um-howland-island
+- sight-um-jarvis-island
+- sight-um-johnston-atoll
+- sight-um-wake-atoll
+- sight-um-navassa-island
+
+Review total discrepancies against current YAML (not silently changed): 610.
+- city-ai-the-valley: review 74.55 vs YAML 745.50
+- city-ai-sandy-ground: review 78.45 vs YAML 784.50
+- city-ai-island-harbour: review 76.40 vs YAML 764.00
+- sight-ai-shoal-bay-east: review 83.10 vs YAML 831.00
+- sight-ai-meads-bay: review 81.25 vs YAML 812.50
+- sight-ai-rendezvous-bay: review 81.90 vs YAML 819.00
+- sight-ai-little-bay: review 84.15 vs YAML 841.50
+- sight-ai-prickly-pear: review 85.85 vs YAML 858.50
+- sight-ai-sandy-island: review 82.20 vs YAML 822.00
+- sight-ai-big-spring: review 83.05 vs YAML 830.50
+- sight-ai-wallblake-house: review 78.05 vs YAML 780.50
+- sight-ai-road-pond: review 78.65 vs YAML 786.50
+- sight-aq-neko-harbour: review 89.65 vs YAML 896.50
+- sight-aq-petermann-island: review 86.20 vs YAML 862.00
+- sight-aq-brown-bluff: review 87.55 vs YAML 875.50
+- sight-aq-half-moon-island: review 82.70 vs YAML 827.00
+- sight-aq-cuverville-island: review 87.40 vs YAML 874.00
+- sight-aq-baily-head: review 88.90 vs YAML 889.00
+- sight-aq-telefon-bay: review 85.60 vs YAML 856.00
+- sight-aq-whalers-bay: review 88.80 vs YAML 888.00
+- sight-aq-port-lockroy: review 87.35 vs YAML 873.50
+- sight-aq-taylor-valley: review 88.60 vs YAML 886.00
+- sight-aq-lemaire-channel: review 89.70 vs YAML 897.00
+- sight-aq-paradise-harbour: review 88.95 vs YAML 889.50
+- city-as-pago-pago: review 80.90 vs YAML 809.00
+- city-as-fagatogo: review 79.55 vs YAML 795.50
+- city-as-vatia: review 77.45 vs YAML 774.50
+- city-as-aunuu: review 77.55 vs YAML 775.50
+- city-as-ofu: review 76.65 vs YAML 766.50
+- city-as-olosega: review 76.70 vs YAML 767.00
+- city-as-faleasao: review 75.75 vs YAML 757.50
+- sight-as-ofu-beach: review 89.45 vs YAML 894.50
+- sight-as-mount-alava: review 86.55 vs YAML 865.50
+- sight-as-pola-sauma: review 86.60 vs YAML 866.00
+- sight-as-tuafanua-trail: review 82.45 vs YAML 824.50
+- sight-as-fagatele-bay: review 87.80 vs YAML 878.00
+- sight-as-fogamaa-fagalua: review 83.75 vs YAML 837.50
+- sight-as-aunuu-crater: review 84.30 vs YAML 843.00
+- sight-as-siu-point-saua: review 86.60 vs YAML 866.00
+- sight-as-tumu-mountain: review 83.40 vs YAML 834.00
+- sight-as-haydon-museum: review 80.75 vs YAML 807.50
+- city-aw-oranjestad: review 80.35 vs YAML 803.50
+- city-aw-san-nicolas: review 79.65 vs YAML 796.50
+- sight-aw-arikok-national-park: review 88.50 vs YAML 885.00
+- sight-aw-conchi: review 84.20 vs YAML 842.00
+- sight-aw-eagle-beach: review 83.20 vs YAML 832.00
+- sight-aw-baby-beach: review 81.65 vs YAML 816.50
+- sight-aw-mangel-halto: review 84.30 vs YAML 843.00
+- sight-aw-fontein-cave: review 82.80 vs YAML 828.00
+- sight-aw-quadirikiri-cave: review 82.40 vs YAML 824.00
+- sight-aw-ayo-rock-formations: review 83.00 vs YAML 830.00
+- sight-aw-casibari-rock-formations: review 79.15 vs YAML 791.50
+- sight-aw-california-lighthouse: review 79.50 vs YAML 795.00
+- sight-aw-san-nicolas-murals: review 82.85 vs YAML 828.50
+- sight-aw-archaeological-museum: review 82.10 vs YAML 821.00
+- sight-aw-alto-vista-chapel: review 78.20 vs YAML 782.00
+- city-ax-mariehamn: review 80.25 vs YAML 802.50
+- city-ax-degerby: review 74.60 vs YAML 746.00
+- city-ax-karlby: review 71.30 vs YAML 713.00
+- sight-ax-kastelholm: review 82.70 vs YAML 827.00
+- sight-ax-bomarsund: review 81.90 vs YAML 819.00
+- sight-ax-pommern: review 88.10 vs YAML 881.00
+- sight-ax-maritime-museum: review 83.70 vs YAML 837.00
+- sight-ax-jan-karlsgarden: review 78.85 vs YAML 788.50
+- sight-ax-eckero-post-customs: review 80.45 vs YAML 804.50
+- sight-ax-karingsund: review 78.55 vs YAML 785.50
+- sight-ax-getabergen-grottstigen: review 78.80 vs YAML 788.00
+- sight-ax-kalen-trail: review 81.00 vs YAML 810.00
+- sight-ax-maritime-quarter: review 78.45 vs YAML 784.50
+- city-bl-gustavia: review 80.85 vs YAML 808.50
+- city-bl-corossol: review 75.65 vs YAML 756.50
+- sight-bl-colombier-beach: review 85.25 vs YAML 852.50
+- sight-bl-grand-cul-de-sac: review 85.10 vs YAML 851.00
+- sight-bl-saline-beach: review 81.40 vs YAML 814.00
+- sight-bl-gouverneur-beach: review 80.45 vs YAML 804.50
+- sight-bl-flamands-beach: review 79.00 vs YAML 790.00
+- sight-bl-shell-beach: review 79.05 vs YAML 790.50
+- sight-bl-fort-karl: review 78.70 vs YAML 787.00
+- sight-bl-grand-fond-coast: review 79.00 vs YAML 790.00
+- city-bm-hamilton: review 79.80 vs YAML 798.00
+- city-bm-st-georges: review 86.65 vs YAML 866.50
+- city-bm-flatts-village: review 75.80 vs YAML 758.00
+- sight-bm-st-george-heritage: review 89.50 vs YAML 895.00
+- sight-bm-crystal-fantasy-caves: review 86.25 vs YAML 862.50
+- sight-bm-horseshoe-bay: review 84.05 vs YAML 840.50
+- sight-bm-national-museum: review 87.65 vs YAML 876.50
+- sight-bm-royal-naval-dockyard: review 85.25 vs YAML 852.50
+- sight-bm-fort-st-catherine: review 85.25 vs YAML 852.50
+- sight-bm-spittal-pond: review 84.55 vs YAML 845.50
+- sight-bm-coopers-island: review 85.00 vs YAML 850.00
+- sight-bm-railway-trail: review 83.20 vs YAML 832.00
+- sight-bm-gibbs-hill-lighthouse: review 80.40 vs YAML 804.00
+- sight-bm-tobacco-bay: review 81.25 vs YAML 812.50
+- sight-bm-aquarium-museum-zoo: review 82.85 vs YAML 828.50
+- city-bq-kralendijk: review 77.90 vs YAML 779.00
+- city-bq-rincon: review 77.95 vs YAML 779.50
+- city-bq-oranjestad-statia: review 83.00 vs YAML 830.00
+- city-bq-windwardside: review 80.20 vs YAML 802.00
+- city-bq-the-bottom: review 77.55 vs YAML 775.50
+- sight-bq-bonaire-marine-park: review 88.45 vs YAML 884.50
+- sight-bq-washington-slagbaai: review 87.80 vs YAML 878.00
+- sight-bq-lac-bay: review 87.20 vs YAML 872.00
+- sight-bq-klein-bonaire: review 84.85 vs YAML 848.50
+- sight-bq-bonaire-salt-pans: review 83.95 vs YAML 839.50
+- sight-bq-bonaire-slave-huts: review 82.60 vs YAML 826.00
+- sight-bq-quill: review 87.40 vs YAML 874.00
+- sight-bq-boven: review 83.30 vs YAML 833.00
+- sight-bq-fort-oranje-statia: review 85.50 vs YAML 855.00
+- sight-bq-statia-marine-park: review 85.60 vs YAML 856.00
+- sight-bq-mount-scenery: review 88.20 vs YAML 882.00
+- sight-bq-saba-marine-park: review 88.70 vs YAML 887.00
+- sight-bq-saba-tide-pools: review 80.80 vs YAML 808.00
+- city-cc-bantam: review 80.25 vs YAML 802.50
+- city-cc-west-island-settlement: review 72.40 vs YAML 724.00
+- sight-cc-direction-island: review 85.95 vs YAML 859.50
+- sight-cc-the-rip: review 86.00 vs YAML 860.00
+- sight-cc-southern-lagoon-canoe: review 86.65 vs YAML 866.50
+- sight-cc-oceania-house: review 81.95 vs YAML 819.50
+- sight-cc-pulu-cocos-museum: review 78.20 vs YAML 782.00
+- sight-cc-trannies-beach: review 80.70 vs YAML 807.00
+- sight-cc-scout-park-pulu-maraya: review 82.80 vs YAML 828.00
+- sight-cc-kite-beach: review 80.60 vs YAML 806.00
+- sight-cc-horsburgh-island: review 81.85 vs YAML 818.50
+- city-ck-avarua: review 80.95 vs YAML 809.50
+- city-ck-arutanga: review 78.05 vs YAML 780.50
+- city-ck-ngatangiia-muri: review 76.90 vs YAML 769.00
+- city-ck-oneroa: review 74.20 vs YAML 742.00
+- sight-ck-aitutaki-lagoon: review 91.10 vs YAML 911.00
+- sight-ck-muri-lagoon: review 84.25 vs YAML 842.50
+- sight-ck-cross-island-trek: review 85.70 vs YAML 857.00
+- sight-ck-takitumu: review 86.55 vs YAML 865.50
+- sight-ck-anatakitaki-cave: review 88.60 vs YAML 886.00
+- sight-ck-vai-nauri: review 82.80 vs YAML 828.00
+- sight-ck-mauke-caves: review 82.20 vs YAML 822.00
+- sight-ck-mangaia-caves: review 84.45 vs YAML 844.50
+- sight-ck-punanga-nui: review 80.50 vs YAML 805.00
+- sight-ck-te-ara: review 81.40 vs YAML 814.00
+- sight-ck-national-museum: review 79.60 vs YAML 796.00
+- sight-ck-arai-te-tonga: review 83.00 vs YAML 830.00
+- sight-ck-arutanga-cicc: review 81.30 vs YAML 813.00
+- sight-ck-manihiki-lagoon: review 86.70 vs YAML 867.00
+- city-cw-willemstad: review 89.05 vs YAML 890.50
+- city-cw-westpunt: review 74.35 vs YAML 743.50
+- sight-cw-historic-willemstad: review 91.50 vs YAML 915.00
+- sight-cw-christoffel-park: review 86.75 vs YAML 867.50
+- sight-cw-shete-boka: review 87.25 vs YAML 872.50
+- sight-cw-klein-curacao: review 86.55 vs YAML 865.50
+- sight-cw-grote-knip: review 82.55 vs YAML 825.50
+- sight-cw-kura-hulanda: review 85.90 vs YAML 859.00
+- sight-cw-mikve-israel-emanuel: review 86.00 vs YAML 860.00
+- sight-cw-hato-caves: review 81.70 vs YAML 817.00
+- sight-cw-queen-emma-bridge: review 83.60 vs YAML 836.00
+- sight-cw-playa-lagun: review 81.15 vs YAML 811.50
+- sight-cw-playa-piskado: review 80.45 vs YAML 804.50
+- sight-cw-tugboat: review 81.95 vs YAML 819.50
+- sight-cw-rif-mangrove-park: review 81.00 vs YAML 810.00
+- city-cx-flying-fish-cove: review 80.25 vs YAML 802.50
+- sight-cx-red-crab-migration: review 94.15 vs YAML 941.50
+- sight-cx-the-dales: review 88.50 vs YAML 885.00
+- sight-cx-dolly-beach: review 84.65 vs YAML 846.50
+- sight-cx-blowholes: review 81.15 vs YAML 811.50
+- sight-cx-margaret-knoll: review 83.85 vs YAML 838.50
+- sight-cx-flying-fish-cove-reef: review 85.05 vs YAML 850.50
+- sight-cx-lily-ethel-beaches: review 79.55 vs YAML 795.50
+- sight-cx-the-grotto: review 78.50 vs YAML 785.00
+- sight-cx-tai-jin-house: review 80.95 vs YAML 809.50
+- sight-cx-south-point-heritage: review 80.30 vs YAML 803.00
+- city-fk-stanley: review 82.75 vs YAML 827.50
+- city-fk-port-howard: review 76.90 vs YAML 769.00
+- city-fk-goose-green: review 76.15 vs YAML 761.50
+- sight-fk-volunteer-point: review 90.90 vs YAML 909.00
+- sight-fk-sea-lion-island: review 91.25 vs YAML 912.50
+- sight-fk-saunders-island-neck: review 90.05 vs YAML 900.50
+- sight-fk-carcass-island: review 87.95 vs YAML 879.50
+- sight-fk-west-point-island: review 88.25 vs YAML 882.50
+- sight-fk-new-island: review 88.55 vs YAML 885.50
+- sight-fk-pebble-island: review 87.15 vs YAML 871.50
+- sight-fk-gypsy-cove: review 84.15 vs YAML 841.50
+- sight-fk-historic-dockyard-museum: review 84.45 vs YAML 844.50
+- sight-fk-christ-church-cathedral: review 80.35 vs YAML 803.50
+- city-fo-torshavn: review 82.85 vs YAML 828.50
+- city-fo-klaksvik: review 73.15 vs YAML 731.50
+- city-fo-gjogv: review 75.85 vs YAML 758.50
+- city-fo-kirkjubour: review 80.20 vs YAML 802.00
+- sight-fo-mykines: review 88.45 vs YAML 884.50
+- sight-fo-traelanipa-sorvagsvatn: review 86.10 vs YAML 861.00
+- sight-fo-mulafossur: review 80.70 vs YAML 807.00
+- sight-fo-kallur-lighthouse: review 84.10 vs YAML 841.00
+- sight-fo-tinganes: review 82.05 vs YAML 820.50
+- sight-fo-magnus-cathedral: review 78.65 vs YAML 786.50
+- sight-fo-pollurin: review 79.30 vs YAML 793.00
+- city-gf-cayenne: review 78.85 vs YAML 788.50
+- city-gf-kourou: review 72.80 vs YAML 728.00
+- city-gf-saint-laurent-du-maroni: review 81.70 vs YAML 817.00
+- city-gf-saul: review 76.45 vs YAML 764.50
+- sight-gf-guyane-park: review 89.05 vs YAML 890.50
+- sight-gf-guiana-space-centre-tour: review 89.30 vs YAML 893.00
+- sight-gf-guyaspace-experience: review 84.50 vs YAML 845.00
+- sight-gf-salvation-islands: review 88.65 vs YAML 886.50
+- sight-gf-kaw-roura: review 89.10 vs YAML 891.00
+- sight-gf-camp-de-la-transportation: review 86.85 vs YAML 868.50
+- sight-gf-saul-trails: review 86.65 vs YAML 866.50
+- sight-gf-amana-turtle-beach: review 86.65 vs YAML 866.50
+- sight-gf-tresor-reserve-trails: review 84.30 vs YAML 843.00
+- sight-gf-montagne-des-singes: review 80.05 vs YAML 800.50
+- city-gg-st-peter-port: review 86.00 vs YAML 860.00
+- city-gg-st-sampson: review 76.95 vs YAML 769.50
+- city-gg-st-anne: review 80.60 vs YAML 806.00
+- city-gg-sark-avenue: review 80.45 vs YAML 804.50
+- sight-gg-castle-cornet: review 88.45 vs YAML 884.50
+- sight-gg-hauteville-house: review 88.15 vs YAML 881.50
+- sight-gg-little-chapel: review 83.80 vs YAML 838.00
+- sight-gg-occupation-museum: review 85.15 vs YAML 851.50
+- sight-gg-underground-hospital: review 83.85 vs YAML 838.50
+- sight-gg-candie: review 82.65 vs YAML 826.50
+- sight-gg-south-coast: review 84.85 vs YAML 848.50
+- sight-gg-lihou: review 85.85 vs YAML 858.50
+- sight-gg-cobo-bay: review 79.30 vs YAML 793.00
+- sight-gg-sausmarez-manor: review 83.40 vs YAML 834.00
+- sight-gg-la-varde: review 81.70 vs YAML 817.00
+- sight-gg-fort-grey: review 81.70 vs YAML 817.00
+- sight-gg-alderney-seabirds: review 87.15 vs YAML 871.50
+- sight-gg-longis: review 85.00 vs YAML 850.00
+- sight-gg-roman-fort: review 83.80 vs YAML 838.00
+- sight-gg-alderney-forts: review 84.55 vs YAML 845.50
+- sight-gg-alderney-memorial: review 84.10 vs YAML 841.00
+- sight-gg-alderney-railway: review 80.50 vs YAML 805.00
+- sight-gg-la-coupee: review 86.15 vs YAML 861.50
+- sight-gg-sark-dark-sky: review 87.85 vs YAML 878.50
+- sight-gg-seigneurie: review 82.60 vs YAML 826.00
+- sight-gg-herm-beaches: review 84.10 vs YAML 841.00
+- city-gl-nuuk: review 85.65 vs YAML 856.50
+- city-gl-ilulissat: review 83.10 vs YAML 831.00
+- city-gl-sisimiut: review 81.75 vs YAML 817.50
+- city-gl-qaqortoq: review 80.65 vs YAML 806.50
+- city-gl-tasiilaq: review 82.20 vs YAML 822.00
+- city-gl-qeqertarsuaq: review 81.15 vs YAML 811.50
+- city-gl-kangerlussuaq: review 72.15 vs YAML 721.50
+- sight-gl-ilulissat-icefjord: review 96.80 vs YAML 968.00
+- sight-gl-eqi-glacier: review 90.75 vs YAML 907.50
+- sight-gl-russell-glacier: review 89.00 vs YAML 890.00
+- sight-gl-arctic-circle-trail: review 89.35 vs YAML 893.50
+- sight-gl-nuuk-fjord: review 90.60 vs YAML 906.00
+- sight-gl-disko-bay: review 91.65 vs YAML 916.50
+- sight-gl-greenland-national-museum: review 87.70 vs YAML 877.00
+- sight-gl-hvalsey-church: review 85.45 vs YAML 854.50
+- sight-gl-sermilik-fjord: review 90.65 vs YAML 906.50
+- city-gp-pointe-a-pitre: review 78.55 vs YAML 785.50
+- city-gp-basse-terre: review 76.70 vs YAML 767.00
+- city-gp-deshaies: review 75.85 vs YAML 758.50
+- city-gp-terre-de-haut: review 81.30 vs YAML 813.00
+- city-gp-saint-francois: review 73.30 vs YAML 733.00
+- sight-gp-guadeloupe-park: review 91.05 vs YAML 910.50
+- sight-gp-la-soufriere: review 89.30 vs YAML 893.00
+- sight-gp-carbet-falls: review 84.80 vs YAML 848.00
+- sight-gp-pigeon-islets-cousteau: review 88.85 vs YAML 888.50
+- sight-gp-grand-cul-de-sac-marin: review 88.30 vs YAML 883.00
+- sight-gp-pointe-des-chateaux: review 84.25 vs YAML 842.50
+- sight-gp-petite-terre: review 88.55 vs YAML 885.50
+- sight-gp-memorial-acte: review 88.05 vs YAML 880.50
+- sight-gp-fort-napoleon: review 82.50 vs YAML 825.00
+- sight-gp-pain-de-sucre: review 81.75 vs YAML 817.50
+- sight-gp-deshaies-botanical-garden: review 80.35 vs YAML 803.50
+- sight-gs-grytviken: review 90.90 vs YAML 909.00
+- sight-gs-st-andrews-bay: review 92.75 vs YAML 927.50
+- sight-gs-salisbury-plain: review 92.20 vs YAML 922.00
+- sight-gs-gold-harbour: review 91.70 vs YAML 917.00
+- sight-gs-fortuna-bay: review 89.60 vs YAML 896.00
+- sight-gs-godthul: review 87.80 vs YAML 878.00
+- sight-gs-elsehul: review 88.40 vs YAML 884.00
+- sight-gs-ocean-harbour: review 87.30 vs YAML 873.00
+- sight-gs-cooper-bay: review 87.60 vs YAML 876.00
+- city-gu-hagatna: review 82.10 vs YAML 821.00
+- city-gu-tamuning-tumon: review 78.25 vs YAML 782.50
+- city-gu-inalahan: review 79.75 vs YAML 797.50
+- city-gu-humatak: review 78.25 vs YAML 782.50
+- city-gu-malesso: review 76.70 vs YAML 767.00
+- sight-gu-ritidian-point: review 87.70 vs YAML 877.00
+- sight-gu-two-lovers-point: review 82.75 vs YAML 827.50
+- sight-gu-tumon-bay: review 82.70 vs YAML 827.00
+- sight-gu-war-in-the-pacific: review 87.10 vs YAML 871.00
+- sight-gu-hagatna-heritage-trail: review 84.05 vs YAML 840.50
+- sight-gu-guam-museum: review 84.60 vs YAML 846.00
+- sight-gu-chamorro-village: review 80.80 vs YAML 808.00
+- sight-gu-valley-of-latte: review 85.30 vs YAML 853.00
+- sight-gu-fort-soledad: review 80.80 vs YAML 808.00
+- sight-gu-inalahan-pools: review 79.25 vs YAML 792.50
+- sight-gu-talofofo-falls: review 78.80 vs YAML 788.00
+- city-hk-hong-kong: review 92.75 vs YAML 927.50
+- sight-hk-victoria-harbour: review 92.15 vs YAML 921.50
+- sight-hk-sai-kung-geopark: review 91.30 vs YAML 913.00
+- sight-hk-hong-kong-palace-museum: review 89.70 vs YAML 897.00
+- sight-hk-lantau-island: review 89.00 vs YAML 890.00
+- sight-hk-tian-tan-buddha: review 87.90 vs YAML 879.00
+- sight-hk-west-kowloon-cultural-district: review 87.60 vs YAML 876.00
+- sight-hk-victoria-peak: review 87.00 vs YAML 870.00
+- sight-hk-man-mo-temple-hong-kong: review 86.40 vs YAML 864.00
+- sight-hk-star-ferry: review 86.40 vs YAML 864.00
+- sight-hk-tai-o-fishing-village: review 86.10 vs YAML 861.00
+- sight-hk-wong-tai-sin-temple: review 85.65 vs YAML 856.50
+- sight-hk-dragons-back-trail: review 84.90 vs YAML 849.00
+- sight-hk-lamma-island: review 83.85 vs YAML 838.50
+- sight-hk-ngong-ping-360: review 83.20 vs YAML 832.00
+- sight-hk-temple-street-night-market: review 81.65 vs YAML 816.50
+- sight-hk-m-plus-museum: review 88.30 vs YAML 883.00
+- sight-hk-tai-kwun: review 85.25 vs YAML 852.50
+- sight-hk-chi-lin-nan-lian: review 82.30 vs YAML 823.00
+- sight-hk-cheung-chau: review 80.35 vs YAML 803.50
+- sight-hk-hong-kong-wetland-park: review 79.50 vs YAML 795.00
+- sight-hk-po-lin-monastery: review 87.55 vs YAML 875.50
+- city-ky-george-town: review 77.80 vs YAML 778.00
+- city-ky-blossom-village: review 72.60 vs YAML 726.00
+- sight-ky-stingray-sandbar: review 85.55 vs YAML 855.50
+- sight-ky-seven-mile-beach: review 82.40 vs YAML 824.00
+- sight-ky-bloody-bay-wall: review 88.50 vs YAML 885.00
+- sight-ky-booby-pond: review 85.55 vs YAML 855.50
+- sight-ky-cayman-brac-bluff: review 83.90 vs YAML 839.00
+- sight-ky-brac-parrot-reserve: review 83.35 vs YAML 833.50
+- sight-ky-crystal-caves: review 84.10 vs YAML 841.00
+- sight-ky-pedro-st-james: review 83.45 vs YAML 834.50
+- sight-ky-botanic-park: review 84.55 vs YAML 845.50
+- sight-ky-national-museum: review 78.90 vs YAML 789.00
+- sight-ky-point-of-sand: review 80.45 vs YAML 804.50
+- city-mf-marigot: review 78.60 vs YAML 786.00
+- city-mf-grand-case: review 78.70 vs YAML 787.00
+- sight-mf-pinel-island: review 85.65 vs YAML 856.50
+- sight-mf-tintamarre: review 86.55 vs YAML 865.50
+- sight-mf-creole-rock: review 83.35 vs YAML 833.50
+- sight-mf-fort-louis: review 79.85 vs YAML 798.50
+- sight-mf-pic-paradis: review 80.65 vs YAML 806.50
+- sight-mf-loterie-farm: review 79.60 vs YAML 796.00
+- sight-mf-orient-bay: review 79.50 vs YAML 795.00
+- sight-mf-happy-bay: review 79.30 vs YAML 793.00
+- sight-mf-anse-marcel: review 78.60 vs YAML 786.00
+- sight-mf-amuseum-naturalis: review 77.20 vs YAML 772.00
+- city-mo-macau: review 89.05 vs YAML 890.50
+- sight-mo-historic-centre-macau: review 92.65 vs YAML 926.50
+- sight-mo-a-ma-temple: review 89.95 vs YAML 899.50
+- sight-mo-senado-square: review 89.90 vs YAML 899.00
+- sight-mo-monte-fort-macau: review 89.50 vs YAML 895.00
+- sight-mo-ruins-of-st-pauls: review 89.35 vs YAML 893.50
+- sight-mo-taipa-village: review 85.20 vs YAML 852.00
+- sight-mo-macau-tower: review 83.80 vs YAML 838.00
+- sight-mo-guia-fortress: review 85.05 vs YAML 850.50
+- sight-mo-mandarins-house: review 82.90 vs YAML 829.00
+- sight-mo-lou-lim-ioc-garden: review 75.95 vs YAML 759.50
+- sight-mo-grand-prix-museum: review 80.50 vs YAML 805.00
+- sight-mo-lou-kau-mansion: review 77.60 vs YAML 776.00
+- city-mp-garapan: review 79.45 vs YAML 794.50
+- city-mp-susupe: review 74.00 vs YAML 740.00
+- city-mp-san-jose-tinian: review 76.70 vs YAML 767.00
+- city-mp-songsong: review 78.25 vs YAML 782.50
+- sight-mp-managaha: review 85.80 vs YAML 858.00
+- sight-mp-grotto: review 85.85 vs YAML 858.50
+- sight-mp-bird-island: review 84.05 vs YAML 840.50
+- sight-mp-marpi-memorials: review 87.45 vs YAML 874.50
+- sight-mp-american-memorial-park: review 82.85 vs YAML 828.50
+- sight-mp-tapochau: review 80.65 vs YAML 806.50
+- sight-mp-cnmi-museum: review 80.90 vs YAML 809.00
+- sight-mp-house-of-taga: review 83.50 vs YAML 835.00
+- sight-mp-taga-beach: review 79.85 vs YAML 798.50
+- sight-mp-as-nieves-quarry: review 85.25 vs YAML 852.50
+- sight-mp-rota-bird-sanctuary: review 85.60 vs YAML 856.00
+- sight-mp-rota-swimming-hole: review 80.20 vs YAML 802.00
+- city-mq-fort-de-france: review 79.55 vs YAML 795.50
+- city-mq-saint-pierre: review 83.95 vs YAML 839.50
+- city-mq-les-trois-ilets: review 74.55 vs YAML 745.50
+- city-mq-le-diamant: review 75.85 vs YAML 758.50
+- sight-mq-martinique-volcanoes: review 90.10 vs YAML 901.00
+- sight-mq-mount-pelee: review 90.15 vs YAML 901.50
+- sight-mq-caravelle-reserve: review 86.10 vs YAML 861.00
+- sight-mq-jardin-de-balata: review 83.20 vs YAML 832.00
+- sight-mq-savane-des-esclaves: review 85.05 vs YAML 850.50
+- sight-mq-habitation-clement: review 84.50 vs YAML 845.00
+- sight-mq-memorial-1902: review 84.20 vs YAML 842.00
+- sight-mq-diamond-rock-view: review 83.95 vs YAML 839.50
+- sight-mq-anse-dufour: review 81.90 vs YAML 819.00
+- sight-mq-cascade-couleuvre: review 80.80 vs YAML 808.00
+- sight-mq-schoelcher-library: review 79.45 vs YAML 794.50
+- city-ms-brades: review 71.15 vs YAML 711.50
+- city-ms-little-bay: review 76.00 vs YAML 760.00
+- sight-ms-volcano-observatory: review 89.05 vs YAML 890.50
+- sight-ms-centre-hills: review 86.15 vs YAML 861.50
+- sight-ms-jack-boy-hill: review 84.45 vs YAML 844.50
+- sight-ms-rendezvous-bay: review 80.65 vs YAML 806.50
+- sight-ms-woodlands-beach: review 78.45 vs YAML 784.50
+- sight-ms-national-museum: review 79.55 vs YAML 795.50
+- sight-ms-botanical-gardens: review 79.90 vs YAML 799.00
+- city-nc-noumea: review 81.30 vs YAML 813.00
+- city-nc-bourail: review 73.30 vs YAML 733.00
+- city-nc-hienghene: review 77.60 vs YAML 776.00
+- city-nc-vao: review 73.60 vs YAML 736.00
+- sight-nc-oro-natural-pool: review 87.30 vs YAML 873.00
+- sight-nc-blue-river-park: review 89.60 vs YAML 896.00
+- sight-nc-poe-lagoon: review 88.35 vs YAML 883.50
+- sight-nc-hienghene-rocks: review 87.15 vs YAML 871.50
+- sight-nc-tjibaou-cultural-centre: review 88.10 vs YAML 881.00
+- sight-nc-amedee-lighthouse: review 84.25 vs YAML 842.50
+- sight-nc-jokin-cliffs: review 83.15 vs YAML 831.50
+- sight-nc-mouli-beach: review 81.55 vs YAML 815.50
+- sight-nc-lekiny-cliffs: review 84.05 vs YAML 840.50
+- sight-nc-aquarium-des-lagons: review 81.40 vs YAML 814.00
+- city-nf-burnt-pine: review 73.30 vs YAML 733.00
+- sight-nf-kingston-arthurs-vale: review 89.20 vs YAML 892.00
+- sight-nf-norfolk-island-museum: review 82.65 vs YAML 826.50
+- sight-nf-emily-slaughter-bays: review 82.05 vs YAML 820.50
+- sight-nf-norfolk-national-park: review 87.00 vs YAML 870.00
+- sight-nf-captain-cook-lookout: review 83.80 vs YAML 838.00
+- sight-nf-botanic-garden: review 82.00 vs YAML 820.00
+- sight-nf-st-barnabas-chapel: review 81.70 vs YAML 817.00
+- sight-nf-anson-bay: review 78.75 vs YAML 787.50
+- sight-nf-hundred-acres: review 79.20 vs YAML 792.00
+- sight-nf-fletchers-mutiny-cyclorama: review 80.15 vs YAML 801.50
+- city-nu-alofi: review 80.60 vs YAML 806.00
+- city-nu-avatele: review 74.95 vs YAML 749.50
+- city-nu-hikutavake: review 74.25 vs YAML 742.50
+- city-nu-hakupu: review 74.60 vs YAML 746.00
+- sight-nu-talava-arches: review 87.00 vs YAML 870.00
+- sight-nu-togo-chasm: review 87.75 vs YAML 877.50
+- sight-nu-matapa-chasm: review 86.40 vs YAML 864.00
+- sight-nu-limu-pools: review 85.15 vs YAML 851.50
+- sight-nu-avaiki-cave: review 87.15 vs YAML 871.50
+- sight-nu-palaha-cave: review 81.50 vs YAML 815.00
+- sight-nu-anapala-chasm: review 83.85 vs YAML 838.50
+- sight-nu-huvalu-forest: review 85.40 vs YAML 854.00
+- sight-nu-whale-watching: review 88.40 vs YAML 884.00
+- sight-nu-dark-sky-niue: review 89.40 vs YAML 894.00
+- sight-nu-national-museum: review 80.90 vs YAML 809.00
+- sight-nu-hikulagi: review 80.00 vs YAML 800.00
+- sight-nu-avatele-beach: review 78.95 vs YAML 789.50
+- sight-nu-hikutavake-sea-track: review 79.90 vs YAML 799.00
+- city-pf-papeete: review 78.45 vs YAML 784.50
+- city-pf-vaitape: review 69.10 vs YAML 691.00
+- city-pf-taiohae: review 79.50 vs YAML 795.00
+- city-pf-atuona: review 79.50 vs YAML 795.00
+- city-pf-fare: review 71.35 vs YAML 713.50
+- sight-pf-taputapuatea: review 89.85 vs YAML 898.50
+- sight-pf-bora-bora-lagoon: review 90.25 vs YAML 902.50
+- sight-pf-matira-beach: review 77.95 vs YAML 779.50
+- sight-pf-moorea-lagoon: review 87.30 vs YAML 873.00
+- sight-pf-opunohu-belvedere: review 79.65 vs YAML 796.50
+- sight-pf-tiputa-pass: review 89.50 vs YAML 895.00
+- sight-pf-fakarava-south-pass: review 91.15 vs YAML 911.50
+- sight-pf-papenoo-valley: review 84.15 vs YAML 841.50
+- sight-pf-faarumai-waterfalls: review 76.05 vs YAML 760.50
+- sight-pf-papeete-market: review 75.60 vs YAML 756.00
+- city-pm-saint-pierre: review 84.10 vs YAML 841.00
+- city-pm-miquelon: review 78.85 vs YAML 788.50
+- sight-pm-ile-aux-marins: review 88.10 vs YAML 881.00
+- sight-pm-grand-barachois: review 88.90 vs YAML 889.00
+- sight-pm-grand-colombier: review 84.85 vs YAML 848.50
+- sight-pm-cap-miquelon: review 83.85 vs YAML 838.50
+- sight-pm-anse-henry: review 82.00 vs YAML 820.00
+- sight-pm-cap-diable: review 81.20 vs YAML 812.00
+- sight-pm-anse-dinand: review 82.25 vs YAML 822.50
+- sight-pm-pointe-plate: review 82.75 vs YAML 827.50
+- sight-pm-pointe-aux-canons: review 82.85 vs YAML 828.50
+- sight-pm-musee-heritage: review 82.75 vs YAML 827.50
+- sight-pm-arche: review 81.20 vs YAML 812.00
+- sight-pm-miquelon-museum: review 80.75 vs YAML 807.50
+- sight-pm-nature-center: review 79.75 vs YAML 797.50
+- sight-pm-belliveau: review 79.90 vs YAML 799.00
+- city-pn-adamstown: review 81.55 vs YAML 815.50
+- sight-pn-christians-cave: review 82.35 vs YAML 823.50
+- sight-pn-pitcairn-museum: review 81.20 vs YAML 812.00
+- sight-pn-bounty-bay: review 82.30 vs YAML 823.00
+- sight-pn-st-pauls-pool: review 79.10 vs YAML 791.00
+- sight-pn-down-rope: review 84.70 vs YAML 847.00
+- sight-pn-john-adams-grave: review 73.80 vs YAML 738.00
+- sight-pn-dark-sky-pitcairn: review 86.35 vs YAML 863.50
+- city-pr-san-juan: review 88.25 vs YAML 882.50
+- city-pr-ponce: review 78.95 vs YAML 789.50
+- city-pr-rincon: review 72.55 vs YAML 725.50
+- city-pr-isabel-segunda: review 72.40 vs YAML 724.00
+- city-pr-fajardo: review 69.60 vs YAML 696.00
+- sight-pr-san-juan-national-historic-site: review 88.55 vs YAML 885.50
+- sight-pr-mosquito-bay: review 91.75 vs YAML 917.50
+- sight-pr-el-yunque: review 89.10 vs YAML 891.00
+- sight-pr-flamenco-beach: review 81.80 vs YAML 818.00
+- sight-pr-rio-camuy-cave-park: review 85.30 vs YAML 853.00
+- sight-pr-cabo-rojo-salt-flats: review 80.05 vs YAML 800.50
+- sight-pr-los-morrillos-lighthouse: review 79.90 vs YAML 799.00
+- sight-pr-laguna-grande: review 85.20 vs YAML 852.00
+- sight-pr-la-parguera-bio-bay: review 83.40 vs YAML 834.00
+- sight-pr-parque-de-bombas: review 76.00 vs YAML 760.00
+- sight-pr-guanica-dry-forest: review 83.55 vs YAML 835.50
+- city-re-saint-denis: review 79.15 vs YAML 791.50
+- city-re-saint-pierre: review 76.00 vs YAML 760.00
+- city-re-cilaos: review 81.05 vs YAML 810.50
+- city-re-hell-bourg: review 80.85 vs YAML 808.50
+- city-re-saint-leu: review 73.95 vs YAML 739.50
+- sight-re-reunion-pitons: review 93.80 vs YAML 938.00
+- sight-re-piton-de-la-fournaise: review 92.65 vs YAML 926.50
+- sight-re-cirque-de-mafate: review 91.80 vs YAML 918.00
+- sight-re-piton-des-neiges: review 88.05 vs YAML 880.50
+- sight-re-cirque-de-cilaos: review 88.45 vs YAML 884.50
+- sight-re-cirque-de-salazie: review 87.65 vs YAML 876.50
+- sight-re-trou-de-fer: review 86.10 vs YAML 861.00
+- sight-re-maido: review 83.65 vs YAML 836.50
+- sight-re-grand-galet: review 78.55 vs YAML 785.50
+- sight-re-plaine-des-sables: review 85.00 vs YAML 850.00
+- city-sh-jamestown: review 85.05 vs YAML 850.50
+- city-sh-longwood: review 72.15 vs YAML 721.50
+- city-sh-georgetown: review 77.55 vs YAML 775.50
+- city-sh-edinburgh-seven-seas: review 84.05 vs YAML 840.50
+- sight-sh-longwood-house: review 88.05 vs YAML 880.50
+- sight-sh-napoleons-tomb: review 81.20 vs YAML 812.00
+- sight-sh-jacobs-ladder: review 82.40 vs YAML 824.00
+- sight-sh-plantation-house: review 82.75 vs YAML 827.50
+- sight-sh-peaks-national-park: review 89.80 vs YAML 898.00
+- sight-sh-sandy-bay: review 81.30 vs YAML 813.00
+- sight-sh-museum-st-helena: review 79.95 vs YAML 799.50
+- sight-sh-green-mountain: review 85.85 vs YAML 858.50
+- sight-sh-long-beach: review 87.25 vs YAML 872.50
+- sight-sh-queen-marys-peak: review 87.25 vs YAML 872.50
+- sight-sh-1961-volcano: review 84.05 vs YAML 840.50
+- sight-sh-potato-patches: review 80.90 vs YAML 809.00
+- sight-sh-nightingale-island: review 87.00 vs YAML 870.00
+- city-sj-longyearbyen: review 82.60 vs YAML 826.00
+- sight-sj-nordenskioldbreen: review 87.20 vs YAML 872.00
+- sight-sj-alkhornet: review 85.80 vs YAML 858.00
+- sight-sj-esmarkbreen: review 84.80 vs YAML 848.00
+- sight-sj-poolepynten: review 84.30 vs YAML 843.00
+- sight-sj-svalbard-museum: review 82.20 vs YAML 822.00
+- sight-sj-north-pole-expedition-museum: review 79.30 vs YAML 793.00
+- sight-sj-gruve-3: review 83.70 vs YAML 837.00
+- sight-sj-seed-vault-exterior: review 77.75 vs YAML 777.50
+- sight-sj-ny-alesund-heritage: review 84.05 vs YAML 840.50
+- city-sx-philipsburg: review 79.25 vs YAML 792.50
+- city-sx-simpson-bay: review 74.45 vs YAML 744.50
+- sight-sx-maho-beach: review 81.45 vs YAML 814.50
+- sight-sx-mullet-bay: review 80.25 vs YAML 802.50
+- sight-sx-fort-amsterdam: review 81.65 vs YAML 816.50
+- sight-sx-man-of-war-shoal: review 84.45 vs YAML 844.50
+- sight-sx-rockland-estate: review 82.30 vs YAML 823.00
+- sight-sx-cupecoy-beach: review 79.85 vs YAML 798.50
+- sight-sx-great-bay-beach: review 76.90 vs YAML 769.00
+- sight-sx-little-bay: review 79.10 vs YAML 791.00
+- sight-sx-heritage-museum: review 76.55 vs YAML 765.50
+- city-tc-cockburn-town: review 80.40 vs YAML 804.00
+- city-tc-cockburn-harbour: review 76.35 vs YAML 763.50
+- city-tc-balfour-town: review 77.30 vs YAML 773.00
+- sight-tc-chalk-sound: review 88.55 vs YAML 885.50
+- sight-tc-mudjin-harbour: review 86.15 vs YAML 861.50
+- sight-tc-grace-bay: review 85.15 vs YAML 851.50
+- sight-tc-conch-bar-caves: review 85.65 vs YAML 856.50
+- sight-tc-little-water-cay: review 86.70 vs YAML 867.00
+- sight-tc-grand-turk-wall: review 87.90 vs YAML 879.00
+- sight-tc-smiths-reef: review 82.30 vs YAML 823.00
+- sight-tc-northwest-point: review 84.95 vs YAML 849.50
+- sight-tc-national-museum: review 81.80 vs YAML 818.00
+- sight-tc-salt-cay-salinas: review 82.15 vs YAML 821.50
+- sight-tc-long-cay-south-caicos: review 84.85 vs YAML 848.50
+- sight-tc-flamingo-pond: review 80.25 vs YAML 802.50
+- sight-um-palmyra-atoll: review 88.70 vs YAML 887.00
+- city-vg-road-town: review 76.85 vs YAML 768.50
+- city-vg-spanish-town: review 74.00 vs YAML 740.00
+- city-vg-the-settlement: review 72.80 vs YAML 728.00
+- sight-vg-the-baths-devils-bay: review 90.70 vs YAML 907.00
+- sight-vg-rms-rhone: review 88.45 vs YAML 884.50
+- sight-vg-sage-mountain: review 85.00 vs YAML 850.00
+- sight-vg-gorda-peak: review 84.45 vs YAML 844.50
+- sight-vg-white-bay: review 81.20 vs YAML 812.00
+- sight-vg-loblolly-bay: review 83.75 vs YAML 837.50
+- sight-vg-flamingo-pond: review 81.80 vs YAML 818.00
+- sight-vg-copper-mine: review 81.40 vs YAML 814.00
+- sight-vg-old-government-house: review 78.70 vs YAML 787.00
+- sight-vg-cane-garden-bay: review 80.10 vs YAML 801.00
+- city-vi-charlotte-amalie: review 83.40 vs YAML 834.00
+- city-vi-christiansted: review 83.35 vs YAML 833.50
+- city-vi-frederiksted: review 80.75 vs YAML 807.50
+- city-vi-cruz-bay: review 76.65 vs YAML 766.50
+- sight-vi-virgin-islands-national-park: review 89.80 vs YAML 898.00
+- sight-vi-buck-island-reef: review 88.90 vs YAML 889.00
+- sight-vi-trunk-bay: review 85.60 vs YAML 856.00
+- sight-vi-reef-bay-trail: review 86.40 vs YAML 864.00
+- sight-vi-annaberg: review 84.25 vs YAML 842.50
+- sight-vi-christiansted-historic-site: review 85.85 vs YAML 858.50
+- sight-vi-salt-river-bay: review 86.35 vs YAML 863.50
+- sight-vi-magens-bay: review 82.95 vs YAML 829.50
+- sight-vi-fort-christian: review 82.05 vs YAML 820.50
+- sight-vi-fort-frederik: review 83.90 vs YAML 839.00
+- sight-vi-ram-head: review 84.45 vs YAML 844.50
+- city-wf-mata-utu: review 81.20 vs YAML 812.00
+- city-wf-leava: review 76.60 vs YAML 766.00
+- city-wf-ono: review 74.95 vs YAML 749.50
+- city-wf-vaitupu: review 73.40 vs YAML 734.00
+- sight-wf-talietumu: review 87.00 vs YAML 870.00
+- sight-wf-lalolalo: review 86.15 vs YAML 861.50
+- sight-wf-wallis-lagoon: review 87.50 vs YAML 875.00
+- sight-wf-mata-utu-cathedral: review 83.00 vs YAML 830.00
+- sight-wf-mont-lulu: review 78.15 vs YAML 781.50
+- sight-wf-mont-mauga: review 79.30 vs YAML 793.00
+- sight-wf-uvea-museum: review 82.75 vs YAML 827.50
+- sight-wf-alofi-loka: review 87.45 vs YAML 874.50
+- sight-wf-poi-basilica: review 86.15 vs YAML 861.50
+- sight-wf-mont-puke: review 83.15 vs YAML 831.50
+- sight-wf-mataki-uvea: review 80.35 vs YAML 803.50
+- sight-wf-nuku-taro: review 81.35 vs YAML 813.50
+- sight-wf-ono-church: review 79.40 vs YAML 794.00
+- city-yt-mamoudzou: review 74.40 vs YAML 744.00
+- city-yt-dzaoudzi: review 77.60 vs YAML 776.00
+- sight-yt-passe-en-s: review 89.65 vs YAML 896.50
+- sight-yt-ngouja: review 86.85 vs YAML 868.50
+- sight-yt-dziani-dzaha: review 86.50 vs YAML 865.00
+- sight-yt-mont-choungui: review 83.65 vs YAML 836.50
+- sight-yt-pointe-saziley: review 84.80 vs YAML 848.00
+- sight-yt-choizil-islets: review 84.65 vs YAML 846.50
+- sight-yt-sable-blanc-saziley: review 82.45 vs YAML 824.50
+- sight-yt-bandrele-salt-museum: review 77.90 vs YAML 779.00

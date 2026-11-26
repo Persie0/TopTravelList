@@ -18,6 +18,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Flamands Beach (BL): stronger ordinary beach experience
 - Victoria Peak (HK): broader viewpoint experience
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Flamands Beach (BL)](../../../countries/BL/sights/flamands-beach.yaml) — 8.4/7.9/6.9/8.5/7.5; existing named editorial peer. Subject minus peer: I +0.1, U +1.3, S +0.0, E -0.2, D -0.8.
+- [Victoria Peak Hong Kong (HK)](../../../countries/HK/sights/victoria-peak.yaml) — 8.8/8.7/8.0/9.5/8.6; existing named editorial peer. Subject minus peer: I -0.3, U +0.5, S -1.1, E -1.2, D -1.9.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.3, U -0.5, S -0.9, E -0.9, D -0.9.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I -0.1, U +1.4, S +0.5, E -0.4, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 814.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Flamenco Beach (PR): broader sandy bay
 - Orient Bay (MF): more developed recreation
 - Cupecoy (SX): stronger cliff composition
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.3, S +0.4, E -0.6, D +0.2.
+- [Orient Bay Beach (MF)](../../../countries/MF/sights/orient-bay.yaml) — 8.5/7.9/6.8/8.7/7.6; existing named editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.2, E -0.2, D -0.2.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.1, U -1.7, S -0.8, E -0.7, D -0.2.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I +0.1, U +0.2, S +0.6, E -0.2, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 802.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Fort Napoléon (GP): broader preserved museum complex
 - San Juan National Historic Site (PR): much greater fortification system
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fort Louis (Marigot) (MF)](../../../countries/MF/sights/fort-louis.yaml) — 8.1/7.9/8.2/8.2/7.1; existing named editorial peer. Subject minus peer: I +0.0, U +0.4, S +0.4, E -0.2, D +0.3.
+- [Fort Karl viewpoint and ruins (BL)](../../../countries/BL/sights/fort-karl.yaml) — 8.0/7.9/8.0/8.1/6.8; existing named editorial peer. Subject minus peer: I +0.1, U +0.4, S +0.6, E -0.1, D +0.6.
+- [Fort Napoléon (Les Saintes) (GP)](../../../countries/GP/sights/fort-napoleon.yaml) — 8.4/8.2/8.2/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.3, U +0.1, S +0.4, E -0.4, D -0.4.
+- [San Juan National Historic Site (Puerto Rico) (PR)](../../../countries/PR/sights/san-juan-national-historic-site.yaml) — 8.9/8.8/9.1/8.7/8.6; existing named editorial peer. Subject minus peer: I -0.8, U -0.5, S -0.5, E -0.7, D -1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 816.50 vs San Juan National Historic Site (Puerto Rico) 885.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Poé Lagoon (NC): accessible shallow reef experience
 - Passe en S (YT): more distinctive reef channel
 - Bonaire Marine Park (BQ): broader dive network
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pigeon Islets (Cousteau Reserve) (GP)](../../../countries/GP/sights/pigeon-islets-cousteau.yaml) — 9.0/8.8/8.8/9.1/8.6; existing named editorial peer. Subject minus peer: I -0.8, U -0.4, S +0.0, E -0.6, D -0.1.
+- [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.8, U -0.3, S +0.0, E -0.5, D +0.0.
+- [Passe en S (Longogori) (YT)](../../../countries/YT/sights/passe-en-s.yaml) — 9.0/9.1/8.9/9.0/8.6; existing named editorial peer. Subject minus peer: I -0.8, U -0.7, S -0.1, E -0.5, D -0.1.
+- [Bonaire National Marine Park (permitted dive sites) (BQ)](../../../countries/BQ/sights/bonaire-marine-park.yaml) — 8.5/8.9/9.0/9.0/9.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.2, E -0.5, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 844.50 vs Passe en S (Longogori) 896.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Ngong Ping 360 (HK): narrower cableway scope
 - Jardin de Balata (MQ): stronger cultivated garden scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Loterie Farm (forest estate visitor areas) (MF)](../../../countries/MF/sights/loterie-farm.yaml) — 7.9/8.0/7.5/8.6/8.0; existing named editorial peer. Subject minus peer: I +0.4, U +0.2, S +0.2, E +0.2, D +0.3.
+- [Pic Paradis summit trail (MF)](../../../countries/MF/sights/pic-paradis.yaml) — 8.4/8.0/7.5/8.5/7.7; existing named editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.2, E +0.3, D +0.6.
+- [Ngong Ping 360 Cable Car (HK)](../../../countries/HK/sights/ngong-ping-360.yaml) — 8.7/8.6/7.1/9.2/7.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S +0.6, E -0.4, D +0.7.
+- [Jardin de Balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; existing named editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.0, E +0.0, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 823.00 vs Ngong Ping 360 Cable Car 832.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Jokin Cliffs (NC): more significant raised coral cliff landscape
 - Mullet Bay (SX): broader sandy beach
 - Pain de Sucre (GP): distinctive volcanic cove
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Jokin Cliffs (NC)](../../../countries/NC/sights/jokin-cliffs.yaml) — 8.7/8.4/7.9/8.5/7.5; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.9, E -0.3, D -0.5.
+- [Mullet Bay Beach (SX)](../../../countries/SX/sights/mullet-bay.yaml) — 8.7/8.0/7.0/8.5/7.4; existing named editorial peer. Subject minus peer: I -0.1, U +0.3, S +0.0, E -0.3, D -0.4.
+- [Pain de Sucre Beach (GP)](../../../countries/GP/sights/pain-de-sucre.yaml) — 8.8/8.6/6.9/8.7/7.0; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S +0.1, E -0.5, D +0.0.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.2, U -1.4, S -0.8, E -1.0, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 798.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Matira (PF): stronger lagoon backdrop
 - Little Bay (SX): smaller and more sheltered setting
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Orient Bay Beach (MF)](../../../countries/MF/sights/orient-bay.yaml) — 8.5/7.9/6.8/8.7/7.6; existing named editorial peer. Subject minus peer: I -0.5, U -0.4, S +0.0, E -0.2, D +0.2.
+- [Mullet Bay Beach (SX)](../../../countries/SX/sights/mullet-bay.yaml) — 8.7/8.0/7.0/8.5/7.4; existing named editorial peer. Subject minus peer: I -0.7, U -0.5, S -0.2, E +0.0, D +0.4.
+- [Little Bay Beach (SX)](../../../countries/SX/sights/little-bay.yaml) — 8.3/7.9/7.1/8.5/7.5; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.3, E +0.0, D +0.3.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.8, U -2.2, S -1.0, E -0.7, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 769.00 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Colombier (BL): more dramatic roadless setting
 - Great Bay (SX): broader urban shore
 - Pigeon Islets (GP): much broader specialized dive scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Anse Marcel Beach (MF)](../../../countries/MF/sights/anse-marcel.yaml) — 8.4/8.0/6.8/8.4/7.2; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S +0.3, E +0.1, D +0.3.
+- [Pigeon Islets (Cousteau Reserve) (GP)](../../../countries/GP/sights/pigeon-islets-cousteau.yaml) — 9.0/8.8/8.8/9.1/8.6; existing named editorial peer. Subject minus peer: I -0.7, U -0.9, S -1.7, E -0.6, D -1.1.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.5, U -1.8, S -0.7, E -0.7, D -0.1.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I -0.3, U +0.1, S +0.7, E -0.2, D +0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 791.00 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - 1902 Catastrophe Memorial (MQ): greater international event significance
 - Svalbard Museum (SJ): broader regional interpretation
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Amuseum Naturalis at the Old House (MF)](../../../countries/MF/sights/amuseum-naturalis.yaml) — 7.3/8.1/7.9/7.9/7.4; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S +0.2, E -0.1, D -0.1.
+- [Åland Maritime Museum (AX)](../../../countries/AX/sights/maritime-museum.yaml) — 8.0/8.5/8.5/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.8, U -0.6, S -0.4, E -0.9, D -1.1.
+- [1902 Catastrophe Memorial (Frank A. Perret Museum) (MQ)](../../../countries/MQ/sights/memorial-1902.yaml) — 7.9/8.7/9.0/8.5/8.0; existing named editorial peer. Subject minus peer: I -0.7, U -0.8, S -0.9, E -0.7, D -0.7.
+- [Svalbard Museum (SJ)](../../../countries/SJ/sights/svalbard-museum.yaml) — 7.8/8.5/8.4/8.5/8.0; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.3, E -0.7, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 765.50 vs 1902 Catastrophe Memorial (Frank A. Perret Museum) 842.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@ Dutch-side visitor scope only. Coral condition, public safety restrictions and p
 - Grand Cul-de-Sac Marin (GP): broader wetland scope
 - Suncheon Bay (KR): established visitor network
 - Hong Kong Wetland Park (HK): established interpretation facilities
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Kaw-Roura Marshes (permitted visitor sectors) (GF)](../../../countries/GF/sights/kaw-roura.yaml) — 8.8/9.0/9.1/8.8/8.8; existing named editorial peer. Subject minus peer: I -1.2, U -0.8, S -0.3.
+- [Grand Cul-de-Sac Marin (GP)](../../../countries/GP/sights/grand-cul-de-sac-marin.yaml) — 8.9/8.8/9.0/8.6/8.7; existing named editorial peer. Subject minus peer: I -1.3, U -0.6, S -0.2.
+- [Hong Kong Wetland Park (HK)](../../../countries/HK/sights/hong-kong-wetland-park.yaml) — 7.8/7.9/8.1/8.1/8.0; existing named editorial peer. Subject minus peer: I -0.2, U +0.3, S +0.7.
+- [Lake Bled and island landscape (SI)](../../../countries/SI/sights/lake-bled.yaml) — 9.4/9.2/8.7/9.3/8.8; supplementary lake-type numerical anchor. Subject minus peer: I -1.8, U -1.0, S +0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

@@ -18,6 +18,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Jökulsárlón (IS): similar glacier-ice visual impact, different wildlife
 - Brown Bluff (AQ): comparable continental landing, different geology
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ilulissat Icefjord (GL)](../../../countries/GL/sights/ilulissat-icefjord.yaml) — 9.9/9.8/9.6/9.4/9.3; existing named editorial peer. Subject minus peer: I -0.5, U -0.7, S -1.1, E -0.4, D -1.1.
+- [Jökulsárlón Glacier Lagoon (IS)](../../../countries/IS/sights/jokulsarlon.yaml) — 9.6/9.4/9.0/9.2/8.6; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.5, E -0.2, D -0.4.
+- [Brown Bluff (AQ)](../../../countries/AQ/sights/brown-bluff.yaml) — 9.0/8.9/8.7/8.6/8.0; existing named editorial peer. Subject minus peer: I +0.4, U +0.2, S -0.2, E +0.4, D +0.2.
+- [Ghibli Museum (JP)](../../../countries/JP/sights/ghibli-museum.yaml) — 8.5/9.1/7.8/9.0/8.0; supplementary art-type numerical anchor. Subject minus peer: I +0.9, U +0.0, S +0.7, E +0.0, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 896.50 vs Ilulissat Icefjord 968.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Phillip Island (AU): broader public penguin interpretation
 - Hornøya (NO): closely comparable seabird island
 - Half Moon Island (AQ): comparable island wildlife with less expedition heritage
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.3, U -0.3, S -0.1, E +0.0, D -0.4.
+- [Half Moon Island (eastern visitor area) (AQ)](../../../countries/AQ/sights/half-moon-island.yaml) — 8.5/8.3/8.1/8.5/7.5; existing named editorial peer. Subject minus peer: I +0.3, U +0.4, S +0.4, E +0.2, D +0.5.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -1.0, S -1.0, E -0.5, D -1.4.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -0.7, U -1.1, S -1.3, E +0.7, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 862.00 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Cape Kidnappers (NZ): comparable coastal bird colony and cliffs
 - Neko Harbour (AQ): comparable polar shoreline, stronger glacier backdrop
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Dyrhólaey (IS)](../../../countries/IS/sights/dyrholaey.yaml) — 9.0/8.8/8.5/8.6/7.9; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.2, E +0.0, D +0.1.
+- [Neko Harbour (AQ)](../../../countries/AQ/sights/neko-harbour.yaml) — 9.4/9.1/8.5/9.0/8.2; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S +0.2, E -0.4, D -0.2.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -0.8, U -0.8, S +0.9, E -0.6, D +0.4.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I +0.4, U +1.1, S +2.3, E -0.1, D +1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 875.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Phillip Island (AU): more visitor interpretation
 - Hornøya (NO): comparable nesting seabirds
 - Cuverville Island (AQ): more dramatic glacial setting
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I -0.6, U -0.7, S -0.5, E -0.2, D -0.9.
+- [Cuverville Island (AQ)](../../../countries/AQ/sights/cuverville-island.yaml) — 9.1/8.8/8.5/8.8/7.9; existing named editorial peer. Subject minus peer: I -0.6, U -0.5, S -0.4, E -0.3, D -0.4.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.4, S -1.4, E -0.7, D -1.9.
+- [Aldabra Atoll (SC)](../../../countries/SC/sights/aldabra-atoll.yaml) — 9.5/9.8/9.8/8.0/7.6; supplementary island-type numerical anchor. Subject minus peer: I -1.0, U -1.5, S -1.7, E +0.5, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 827.00 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Phillip Island (AU): different penguin experience with greater interpretation
 - Baily Head (AQ): different species and amphitheatre setting
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I +0.0, U -0.2, S -0.1, E +0.1, D -0.5.
+- [St Kilda (GB)](../../../countries/GB/sights/st-kilda.yaml) — 9.2/9.5/9.4/8.6/8.4; existing named editorial peer. Subject minus peer: I -0.1, U -0.7, S -0.9, E +0.2, D -0.5.
+- [Baily Head (Deception Island) (AQ)](../../../countries/AQ/sights/baily-head.yaml) — 9.3/9.1/8.7/8.7/7.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.2, E +0.1, D +0.1.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.4, U -0.9, S -1.0, E -0.4, D -1.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 874.00 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Cape Kidnappers (NZ): comparable concentrated seabird encounters
 - Mykines (FO): comparable coastal colony scenery
 - Cuverville Island (AQ): different species and ice scenery
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St Kilda (GB)](../../../countries/GB/sights/st-kilda.yaml) — 9.2/9.5/9.4/8.6/8.4; existing named editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.7, E +0.1, D -0.6.
+- [Mykines Island (FO)](../../../countries/FO/sights/mykines.yaml) — 9.1/9.0/8.6/8.7/8.4; existing named editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.1, E +0.0, D -0.6.
+- [Cuverville Island (AQ)](../../../countries/AQ/sights/cuverville-island.yaml) — 9.1/8.8/8.5/8.8/7.9; existing named editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.2, E -0.1, D -0.1.
+- [Ogasawara Islands (JP)](../../../countries/JP/sights/ogasawara-islands.yaml) — 9.5/9.7/9.5/9.2/9.4; supplementary island-type numerical anchor. Subject minus peer: I -0.2, U -0.6, S -0.8, E -0.5, D -1.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 889.00 vs Ogasawara Islands 949.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Vesuvius (IT): stronger global historical significance
 - Whalers Bay (AQ): more historic remains, different experience
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Krafla volcanic area (IS)](../../../countries/IS/sights/krafla.yaml) — 8.9/9.1/8.9/8.6/8.5; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.3, D -0.9.
+- [Vesuvius National Park (IT)](../../../countries/IT/sights/vesuvius.yaml) — 9.2/9.3/9.4/8.8/8.8; existing named editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.8, E -0.5, D -1.2.
+- [Whalers Bay (Deception Island) (AQ)](../../../countries/AQ/sights/whalers-bay.yaml) — 8.9/9.2/9.0/8.6/8.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.4, E -0.3, D -0.6.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.8, U -0.3, S +0.6, E -1.0, D -1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 856.00 vs Vesuvius National Park 916.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Port Lockroy (AQ): smaller site with functioning museum
 - Hashima (JP): comparable abandoned industrial setting, different history
 - Völklingen Ironworks (DE): much deeper industrial interior interpretation
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; existing named editorial peer. Subject minus peer: I +0.0, U -0.1, S -0.4, E -0.3, D -0.6.
+- [Port Lockroy (Goudier Island) (AQ)](../../../countries/AQ/sights/port-lockroy.yaml) — 8.6/9.1/8.8/8.8/8.0; existing named editorial peer. Subject minus peer: I +0.3, U +0.1, S +0.2, E -0.2, D +0.2.
+- [Völklingen Ironworks (DE)](../../../countries/DE/sights/volklingen.yaml) — 9.0/9.3/9.3/8.9/9.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.3, E -0.3, D -0.8.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.4, U +0.0, S +0.0, E -0.4, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 888.00 vs Völklingen Ironworks 912.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Vasa Museum (SE): richer individual maritime collection
 - Whalers Bay (AQ): more extensive exterior remains but no museum interiors
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S -0.6, E -0.1, D -0.8.
+- [Fram Museum (NO)](../../../countries/NO/sights/fram-museum.yaml) — 8.8/9.3/9.1/9.0/8.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.3, E -0.2, D -0.8.
+- [Vasa Museum (SE)](../../../countries/SE/sights/vasa-museum.yaml) — 9.4/9.6/9.3/9.2/9.0; existing named editorial peer. Subject minus peer: I -0.8, U -0.5, S -0.5, E -0.4, D -1.0.
+- [Whalers Bay (Deception Island) (AQ)](../../../countries/AQ/sights/whalers-bay.yaml) — 8.9/9.2/9.0/8.6/8.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S -0.2, E +0.2, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 873.50 vs Vasa Museum 936.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Svalbard polar landscapes (SJ): comparable cold environment, different geology
 - Namib Sand Sea (NA): distinctive desert landscape with broader scale
 - Telefon Bay (AQ): smaller polar geological experience
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Telefon Bay East (Deception Island) (AQ)](../../../countries/AQ/sights/telefon-bay.yaml) — 8.7/8.9/8.6/8.3/7.6; existing named editorial peer. Subject minus peer: I +0.3, U +0.4, S +0.6, E +0.0, D -0.1.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.1, U +0.4, S +0.5, E -0.8, D -1.7.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: I -0.1, U +0.3, S +0.7, E -0.7, D -1.0.
+- [Shiretoko National Park (JP)](../../../countries/JP/sights/shiretoko-national-park.yaml) — 9.5/9.5/9.4/9.1/9.4; supplementary landscape-type numerical anchor. Subject minus peer: I -0.5, U -0.2, S -0.2, E -0.8, D -1.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 886.00 vs Shiretoko National Park 941.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -348,6 +478,22 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Port Lockroy (AQ): established museum access
 - Shackleton's Nimrod Hut (AQ): close historic expedition peer
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fram Museum (NO)](../../../countries/NO/sights/fram-museum.yaml) — 8.8/9.3/9.1/9.0/8.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.2.
+- [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S -0.1.
+- [Port Lockroy (Goudier Island) (AQ)](../../../countries/AQ/sights/port-lockroy.yaml) — 8.6/9.1/8.8/8.8/8.0; existing named editorial peer. Subject minus peer: I -0.1, U +0.1, S +0.5.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I -0.6, U +0.3, S +0.6.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Shackleton's Nimrod Hut (Cape Royds) (AQ)](../../../countries/AQ/sights/cape-royds.yaml) — 8.5/9.2/9.3/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: I +0.0, U +0.0, S +0.0.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -380,6 +526,22 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Grytviken (GS): related Antarctic exploration heritage
 - Port Lockroy (AQ): functioning seasonal museum
 - Scott's Terra Nova Hut (AQ): closely comparable preserved expedition site
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fram Museum (NO)](../../../countries/NO/sights/fram-museum.yaml) — 8.8/9.3/9.1/9.0/8.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.1, S +0.2.
+- [Grytviken historic whaling station (GS)](../../../countries/GS/sights/grytviken.yaml) — 8.9/9.3/9.4/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.1, S -0.1.
+- [Port Lockroy (Goudier Island) (AQ)](../../../countries/AQ/sights/port-lockroy.yaml) — 8.6/9.1/8.8/8.8/8.0; existing named editorial peer. Subject minus peer: I -0.1, U +0.1, S +0.5.
+- [Volunteer Point (permitted wildlife viewing) (FK)](../../../countries/FK/sights/volunteer-point.yaml) — 9.3/9.2/9.0/9.0/8.5; supplementary wildlife-type numerical anchor. Subject minus peer: I -0.8, U +0.0, S +0.3.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Scott's Terra Nova Hut (Cape Evans) (AQ)](../../../countries/AQ/sights/cape-evans.yaml) — 8.5/9.2/9.3/null/null; existing named editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: I +0.0, U +0.0, S +0.0.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -414,6 +576,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Ilulissat Icefjord (GL): greater ice landscape significance
 - Paradise Harbour (AQ): broader bay rather than narrow transit
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Geirangerfjord (West Norwegian Fjords) (NO)](../../../countries/NO/sights/geirangerfjord.yaml) — 9.7/9.5/9.3/9.5/9.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -1.0, E -0.5, D -1.1.
+- [Ilulissat Icefjord (GL)](../../../countries/GL/sights/ilulissat-icefjord.yaml) — 9.9/9.8/9.6/9.4/9.3; existing named editorial peer. Subject minus peer: I -0.4, U -0.6, S -1.3, E -0.4, D -1.2.
+- [Paradise Harbour (AQ)](../../../countries/AQ/sights/paradise-harbour.yaml) — 9.3/9.0/8.4/8.9/8.4; existing named editorial peer. Subject minus peer: I +0.2, U +0.2, S -0.1, E +0.1, D -0.3.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: I +0.4, U +0.3, S -0.4, E -0.1, D -1.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): impact 9.5 vs Ilulissat Icefjord 9.9; photography category 9.5 vs Ilulissat Icefjord 9.9; overall 897.00 vs Ilulissat Icefjord 968.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -446,6 +621,19 @@ Scope: permitted visitor sites, vessel-based scenic experiences and separately u
 - Milford Sound (NZ): strong scenic waterway peer
 - Kenai Fjords (US): broader wildlife and glacier exploration
 - Lemaire Channel (AQ): narrower and more dramatic transit
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ilulissat Icefjord (GL)](../../../countries/GL/sights/ilulissat-icefjord.yaml) — 9.9/9.8/9.6/9.4/9.3; existing named editorial peer. Subject minus peer: I -0.6, U -0.8, S -1.2, E -0.5, D -0.9.
+- [Lemaire Channel (AQ)](../../../countries/AQ/sights/lemaire-channel.yaml) — 9.5/9.2/8.3/9.0/8.1; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S +0.1, E -0.1, D +0.3.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.2, U -0.2, S +0.4, E -0.4, D -0.4.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: I -0.1, U -0.3, S -0.7, E -0.2, D -0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 889.50 vs Ilulissat Icefjord 968.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

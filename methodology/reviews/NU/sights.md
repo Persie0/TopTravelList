@@ -18,6 +18,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-cx-blowholes](../../../countries/CX/sights/blowholes.yaml) — more focused wave feature.
 - [sight-ck-anatakitaki-cave](../../../countries/CK/sights/anatakitaki-cave.yaml) — greater endemic wildlife significance.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Saipan Grotto (authorized cavern diving and viewpoint) (MP)](../../../countries/MP/sights/grotto.yaml) — 8.9/9.0/8.3/8.3/7.6; existing linked editorial peer. Subject minus peer: I +0.2, U +0.0, S -0.1, E +0.1, D +0.6.
+- [Hienghène Rock Formations (La Poule and Lindéralique) (NC)](../../../countries/NC/sights/hienghene-rocks.yaml) — 9.0/9.0/8.2/8.7/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S +0.0, E -0.3, D +0.0.
+- [The Blowholes (CX)](../../../countries/CX/sights/blowholes.yaml) — 8.7/8.2/7.6/8.1/7.2; existing linked editorial peer. Subject minus peer: I +0.4, U +0.8, S +0.6, E +0.3, D +1.0.
+- [Anatakitaki Cave and kopeka habitat (Atiu) (CK)](../../../countries/CK/sights/anatakitaki-cave.yaml) — 8.8/9.3/8.9/8.5/8.4; existing linked editorial peer. Subject minus peer: I +0.3, U -0.3, S -0.7, E -0.1, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 870.00 vs Anatakitaki Cave and kopeka habitat (Atiu) 886.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-nc-hienghene-rocks](../../../countries/NC/sights/hienghene-rocks.yaml) — more expansive rock landscape.
 - [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — broader wet forest trails.
 - [sight-mp-grotto](../../../countries/MP/sights/grotto.yaml) — more specialist aquatic experience.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Te Rua Manga (The Needle) and Cross Island Trek (CK)](../../../countries/CK/sights/cross-island-trek.yaml) — 8.9/8.6/8.1/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.2, U +0.6, S +0.1, E -0.1, D -0.1.
+- [Hienghène Rock Formations (La Poule and Lindéralique) (NC)](../../../countries/NC/sights/hienghene-rocks.yaml) — 9.0/9.0/8.2/8.7/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.0, E -0.2, D +0.1.
+- [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S -0.9, E +0.1, D -0.2.
+- [Saipan Grotto (authorized cavern diving and viewpoint) (MP)](../../../countries/MP/sights/grotto.yaml) — 8.9/9.0/8.3/8.3/7.6; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S -0.1, E +0.2, D +0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 877.50 vs The Dales (Hughs Dale and Anderson Dale trails) 885.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-ck-vai-nauri](../../../countries/CK/sights/vai-nauri.yaml) — enclosed freshwater cave.
 - [sight-gu-inalahan-pools](../../../countries/GU/sights/inalahan-pools.yaml) — more typical open coastal pools.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Saipan Grotto (authorized cavern diving and viewpoint) (MP)](../../../countries/MP/sights/grotto.yaml) — 8.9/9.0/8.3/8.3/7.6; existing linked editorial peer. Subject minus peer: I +0.0, U -0.3, S +0.2, E +0.4, D +0.3.
+- [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing linked editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.5, E -0.4, D +0.1.
+- [Vai Nauri cave pool (Mitiaro) (CK)](../../../countries/CK/sights/vai-nauri.yaml) — 8.6/8.7/7.9/8.1/7.3; existing linked editorial peer. Subject minus peer: I +0.3, U +0.0, S +0.6, E +0.6, D +0.6.
+- [Inalåhan natural pools (GU)](../../../countries/GU/sights/inalahan-pools.yaml) — 8.4/8.1/7.3/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.5, U +0.6, S +1.2, E +0.7, D +0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 864.00 vs Oro Natural Pool 873.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-gu-inalahan-pools](../../../countries/GU/sights/inalahan-pools.yaml) — more developed shoreline.
 - [sight-mp-rota-swimming-hole](../../../countries/MP/sights/rota-swimming-hole.yaml) — smaller focused pool.
 - [sight-cx-the-grotto](../../../countries/CX/sights/the-grotto.yaml) — more enclosed mixing pool.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing linked editorial peer. Subject minus peer: I -0.3, U -0.5, S +0.1, E -0.2, D +0.1.
+- [Inalåhan natural pools (GU)](../../../countries/GU/sights/inalahan-pools.yaml) — 8.4/8.1/7.3/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.5, U +0.3, S +0.8, E +0.9, D +0.7.
+- [Rota Swimming Hole (MP)](../../../countries/MP/sights/rota-swimming-hole.yaml) — 8.5/8.3/7.4/8.1/7.0; existing linked editorial peer. Subject minus peer: I +0.4, U +0.1, S +0.7, E +0.8, D +0.9.
+- [The Grotto (CX)](../../../countries/CX/sights/the-grotto.yaml) — 8.3/8.2/7.3/7.8/6.8; existing linked editorial peer. Subject minus peer: I +0.6, U +0.2, S +0.8, E +1.1, D +1.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 851.50 vs Oro Natural Pool 873.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-pn-christians-cave](../../../countries/PN/sights/christians-cave.yaml) — stronger narrow historical association.
 - [sight-cx-the-grotto](../../../countries/CX/sights/the-grotto.yaml) — smaller natural pool.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Saipan Grotto (authorized cavern diving and viewpoint) (MP)](../../../countries/MP/sights/grotto.yaml) — 8.9/9.0/8.3/8.3/7.6; existing linked editorial peer. Subject minus peer: I +0.0, U -0.1, S +0.5, E +0.1, D +0.4.
+- [Anatakitaki Cave and kopeka habitat (Atiu) (CK)](../../../countries/CK/sights/anatakitaki-cave.yaml) — 8.8/9.3/8.9/8.5/8.4; existing linked editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.1, E -0.1, D -0.4.
+- [Christian's Cave and Sailors Hide eco trail (PN)](../../../countries/PN/sights/christians-cave.yaml) — 8.2/8.6/8.3/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.7, U +0.3, S +0.5, E +0.3, D +0.5.
+- [The Grotto (CX)](../../../countries/CX/sights/the-grotto.yaml) — 8.3/8.2/7.3/7.8/6.8; existing linked editorial peer. Subject minus peer: I +0.6, U +0.7, S +1.5, E +0.6, D +1.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 871.50 vs Anatakitaki Cave and kopeka habitat (Atiu) 886.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-mp-grotto](../../../countries/MP/sights/grotto.yaml) — more dramatic aquatic setting.
 - [sight-pn-christians-cave](../../../countries/PN/sights/christians-cave.yaml) — more historical significance.
 - [sight-cx-the-grotto](../../../countries/CX/sights/the-grotto.yaml) — different pool-centered experience.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Anatakitaki Cave and kopeka habitat (Atiu) (CK)](../../../countries/CK/sights/anatakitaki-cave.yaml) — 8.8/9.3/8.9/8.5/8.4; existing linked editorial peer. Subject minus peer: I -0.3, U -0.9, S -1.1, E -0.5, D -1.0.
+- [Saipan Grotto (authorized cavern diving and viewpoint) (MP)](../../../countries/MP/sights/grotto.yaml) — 8.9/9.0/8.3/8.3/7.6; existing linked editorial peer. Subject minus peer: I -0.4, U -0.6, S -0.5, E -0.3, D -0.2.
+- [Christian's Cave and Sailors Hide eco trail (PN)](../../../countries/PN/sights/christians-cave.yaml) — 8.2/8.6/8.3/8.1/7.5; existing linked editorial peer. Subject minus peer: I +0.3, U -0.2, S -0.5, E -0.1, D -0.1.
+- [The Grotto (CX)](../../../countries/CX/sights/the-grotto.yaml) — 8.3/8.2/7.3/7.8/6.8; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.5, E +0.2, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 815.00 vs Anatakitaki Cave and kopeka habitat (Atiu) 886.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-mp-rota-swimming-hole](../../../countries/MP/sights/rota-swimming-hole.yaml) — less historical freshwater context.
 - [sight-cx-the-grotto](../../../countries/CX/sights/the-grotto.yaml) — smaller accessible pool.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Vai Nauri cave pool (Mitiaro) (CK)](../../../countries/CK/sights/vai-nauri.yaml) — 8.6/8.7/7.9/8.1/7.3; existing linked editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.6, E -0.1, D +0.3.
+- [Mauke makatea freshwater caves (Moti and authorized cave visits) (CK)](../../../countries/CK/sights/mauke-caves.yaml) — 8.3/8.6/7.9/8.0/8.0; existing linked editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.6, E +0.0, D -0.4.
+- [Rota Swimming Hole (MP)](../../../countries/MP/sights/rota-swimming-hole.yaml) — 8.5/8.3/7.4/8.1/7.0; existing linked editorial peer. Subject minus peer: I +0.0, U +0.4, S +1.1, E -0.1, D +0.6.
+- [The Grotto (CX)](../../../countries/CX/sights/the-grotto.yaml) — 8.3/8.2/7.3/7.8/6.8; existing linked editorial peer. Subject minus peer: I +0.2, U +0.5, S +1.2, E +0.2, D +0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 838.50 vs Vai Nauri cave pool (Mitiaro) 828.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-nc-blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) — broader landscape variety.
 - [sight-cx-the-dales](../../../countries/CX/sights/the-dales.yaml) — smaller forest trail zone.
 - [sight-as-tuafanua-trail](../../../countries/AS/sights/tuafanua-trail.yaml) — more focused individual track.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Takitumu Conservation Area (CK)](../../../countries/CK/sights/takitumu.yaml) — 8.3/9.1/9.2/8.2/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U -0.5, S -0.3, E +0.0, D +0.4.
+- [Blue River Provincial Park (NC)](../../../countries/NC/sights/blue-river-park.yaml) — 8.9/9.1/9.1/8.7/8.9; existing linked editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.2, E -0.5, D -0.3.
+- [The Dales (Hughs Dale and Anderson Dale trails) (CX)](../../../countries/CX/sights/the-dales.yaml) — 8.9/9.0/9.1/8.4/8.5; existing linked editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.2, E -0.2, D +0.1.
+- [Tuafanua rainforest and coastal trail (AS)](../../../countries/AS/sights/tuafanua-trail.yaml) — 8.6/8.3/8.0/8.2/7.6; existing linked editorial peer. Subject minus peer: I -0.2, U +0.3, S +0.9, E +0.0, D +1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 854.00 vs Blue River Provincial Park 896.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -282,6 +386,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-mp-rota-bird-sanctuary](../../../countries/MP/sights/rota-bird-sanctuary.yaml) — more predictable habitat-focused viewing.
 - [sight-as-fagatele-bay](../../../countries/AS/sights/fagatele-bay.yaml) — reef-based wildlife experience.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Tiputa Pass (PF)](../../../countries/PF/sights/tiputa-pass.yaml) — 9.2/9.0/8.5/9.2/8.6; existing linked editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.4, E -0.5, D -0.3.
+- [Takitumu Conservation Area (CK)](../../../countries/CK/sights/takitumu.yaml) — 8.3/9.1/9.2/8.2/8.2; existing linked editorial peer. Subject minus peer: I +0.7, U -0.2, S -0.3, E +0.5, D +0.1.
+- [IʻChenchon Bird Sanctuary (Rota) (MP)](../../../countries/MP/sights/rota-bird-sanctuary.yaml) — 8.8/8.7/8.8/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.1, E +0.6, D +0.6.
+- [Fagatele Bay marine sanctuary (AS)](../../../countries/AS/sights/fagatele-bay.yaml) — 8.9/8.9/9.1/8.3/8.2; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.2, E +0.4, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 884.00 vs Tiputa Pass 895.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -314,6 +431,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-ck-aitutaki-lagoon](../../../countries/CK/sights/aitutaki-lagoon.yaml) — different landscape experience of similar breadth.
 - [sight-nf-norfolk-national-park](../../../countries/NF/sights/norfolk-national-park.yaml) — multiple terrestrial nature viewpoints rather than night skies.
 - [sight-as-mount-alava](../../../countries/AS/sights/mount-alava.yaml) — more focused daytime ridge view.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mata ki te Rangi (Pitcairn Island stargazing) (PN)](../../../countries/PN/sights/dark-sky-pitcairn.yaml) — 9.0/8.7/8.5/8.6/7.7; existing linked editorial peer. Subject minus peer: I +0.0, U +0.5, S +0.3, E +0.2, D +0.9.
+- [Aitutaki Lagoon and permitted motu cruise circuit (CK)](../../../countries/CK/sights/aitutaki-lagoon.yaml) — 9.4/9.1/8.6/9.3/9.0; existing linked editorial peer. Subject minus peer: I -0.4, U +0.1, S +0.2, E -0.5, D -0.4.
+- [Norfolk Island National Park (main island forest and summit trails) (NF)](../../../countries/NF/sights/norfolk-national-park.yaml) — 8.7/8.8/8.8/8.6/8.4; existing linked editorial peer. Subject minus peer: I +0.3, U +0.4, S +0.0, E +0.2, D +0.2.
+- [Mount ʻAlava and Fatifati Auala trail network (AS)](../../../countries/AS/sights/mount-alava.yaml) — 8.9/8.5/8.5/8.6/8.7; existing linked editorial peer. Subject minus peer: I +0.1, U +0.7, S +0.3, E +0.2, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 894.00 vs Aitutaki Lagoon and permitted motu cruise circuit 911.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -348,6 +478,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-as-haydon-museum](../../../countries/AS/sights/haydon-museum.yaml) — similar island heritage.
 - [sight-pn-pitcairn-museum](../../../countries/PN/sights/pitcairn-museum.yaml) — smaller specialized collection.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Cook Islands National Museum (Avarua) (CK)](../../../countries/CK/sights/national-museum.yaml) — 7.5/8.1/8.6/7.9/7.8; existing linked editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.1, E +0.2, D +0.0.
+- [Guam Museum (GU)](../../../countries/GU/sights/guam-museum.yaml) — 8.0/8.7/8.9/8.5/8.3; existing linked editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.2, E -0.4, D -0.5.
+- [Jean P. Haydon Museum (AS)](../../../countries/AS/sights/haydon-museum.yaml) — 7.5/8.4/8.7/8.1/7.7; existing linked editorial peer. Subject minus peer: I +0.1, U -0.1, S +0.0, E +0.0, D +0.1.
+- [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I +0.2, U -0.5, S -0.1, E +0.1, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 809.00 vs Guam Museum 846.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -380,6 +523,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-ck-te-ara](../../../countries/CK/sights/te-ara.yaml) — more historical interpretation.
 - [sight-pn-pitcairn-museum](../../../countries/PN/sights/pitcairn-museum.yaml) — more historical but less outdoor art.
 - [sight-gu-guam-museum](../../../countries/GU/sights/guam-museum.yaml) — larger permanent collection.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Tjibaou Cultural Centre (NC)](../../../countries/NC/sights/tjibaou-cultural-centre.yaml) — 8.7/9.1/8.8/8.7/8.6; existing linked editorial peer. Subject minus peer: I -0.8, U -0.6, S -0.9, E -0.8, D -1.2.
+- [Te Ara Museum of Cultural Enterprise (CK)](../../../countries/CK/sights/te-ara.yaml) — 7.7/8.4/8.5/8.2/8.0; existing linked editorial peer. Subject minus peer: I +0.2, U +0.1, S -0.6, E -0.3, D -0.6.
+- [Pitcairn Island Museum (PN)](../../../countries/PN/sights/pitcairn-museum.yaml) — 7.4/8.8/8.8/8.0/7.4; existing linked editorial peer. Subject minus peer: I +0.5, U -0.3, S -0.9, E -0.1, D +0.0.
+- [Guam Museum (GU)](../../../countries/GU/sights/guam-museum.yaml) — 8.0/8.7/8.9/8.5/8.3; existing linked editorial peer. Subject minus peer: I -0.1, U -0.2, S -1.0, E -0.6, D -0.9.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 800.00 vs Tjibaou Cultural Centre 881.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -414,6 +570,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-mp-taga-beach](../../../countries/MP/sights/taga-beach.yaml) — similar compact coastal site.
 - [sight-nc-mouli-beach](../../../countries/NC/sights/mouli-beach.yaml) — larger beach setting.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Muri Beach and lagoon (CK)](../../../countries/CK/sights/muri-lagoon.yaml) — 8.9/8.2/7.8/8.9/8.1; existing linked editorial peer. Subject minus peer: I -0.8, U -0.4, S -0.2, E -0.6, D -0.6.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; existing linked editorial peer. Subject minus peer: I -0.5, U +0.0, S +1.2, E -0.4, D +0.7.
+- [Taga Beach (Tinian) (MP)](../../../countries/MP/sights/taga-beach.yaml) — 8.6/8.0/7.4/8.1/7.1; existing linked editorial peer. Subject minus peer: I -0.5, U -0.2, S +0.2, E +0.2, D +0.4.
+- [Mouli Beach (NC)](../../../countries/NC/sights/mouli-beach.yaml) — 9.0/8.3/6.8/8.8/7.0; existing linked editorial peer. Subject minus peer: I -0.9, U -0.5, S +0.8, E -0.5, D +0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 789.50 vs Muri Beach and lagoon 842.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -447,6 +616,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-as-pola-sauma](../../../countries/AS/sights/pola-sauma.yaml) — more dramatic ridge.
 - [sight-cx-margaret-knoll](../../../countries/CX/sights/margaret-knoll.yaml) — more specialized bird outlook.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bird Island Overlook (Saipan) (MP)](../../../countries/MP/sights/bird-island.yaml) — 8.8/8.4/8.4/8.3/7.4; existing linked editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.6, E -0.3, D +0.0.
+- [Captain Cook Lookout and Bridle Track (NF)](../../../countries/NF/sights/captain-cook-lookout.yaml) — 8.9/8.3/7.9/8.5/7.8; existing linked editorial peer. Subject minus peer: I -0.6, U -0.3, S -0.1, E -0.5, D -0.4.
+- [Pola Island coastal viewpoint and Sauma Ridge (AS)](../../../countries/AS/sights/pola-sauma.yaml) — 9.0/8.7/8.6/8.5/7.9; existing linked editorial peer. Subject minus peer: I -0.7, U -0.7, S -0.8, E -0.5, D -0.5.
+- [Margaret Knoll Lookout (CX)](../../../countries/CX/sights/margaret-knoll.yaml) — 8.6/8.5/8.6/8.2/7.3; existing linked editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.8, E -0.2, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 799.00 vs Pola Island coastal viewpoint and Sauma Ridge 866.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -479,6 +661,24 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — documented conditional recreation.
 - [sight-ck-suwarrow](../../../countries/CK/sights/suwarrow.yaml) — seasonal access rather than unrestricted tourism.
 - [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — no ordinary tours.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: U -0.1, S +0.0.
+- [Sipadan Island Reefs (MY)](../../../countries/MY/sights/sipadan-island-reefs.yaml) — 9.5/9.6/9.1/9.5/8.9; supplementary marine-type numerical anchor. Subject minus peer: U -0.5, S +0.1.
+- [Tubbataha Reefs Natural Park (PH)](../../../countries/PH/sights/tubbataha.yaml) — 9.3/9.2/9.3/9.1/9.0; supplementary marine-type numerical anchor. Subject minus peer: U -0.1, S -0.1.
+- [Misool Marine Reserve (ID)](../../../countries/ID/sights/misool-marine-reserve.yaml) — 9.6/9.6/9.1/9.5/9.4; supplementary marine-type numerical anchor. Subject minus peer: U -0.5, S +0.1.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Rose Atoll National Wildlife Refuge (Muliāva) (AS)](../../../countries/AS/sights/rose-atoll.yaml) — null/9.2/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.1, S -0.1.
+- [Suwarrow National Park (seasonal yacht access) (CK)](../../../countries/CK/sights/suwarrow.yaml) — null/9.0/9.1/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.1, S +0.1.
+- [Pulu Keeling National Park (North Keeling Island) (CC)](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — null/9.3/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.2, S -0.1.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

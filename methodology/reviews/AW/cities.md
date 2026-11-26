@@ -16,6 +16,19 @@
 - Gustavia (BL): comparable small capital
 - Bridgetown (BB): more extensive historic heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.9, U -1.0, S -0.9, E -0.6, D -0.8.
+- [Philipsburg (SX)](../../../countries/SX/cities/philipsburg.yaml) — 7.8/7.8/8.0/8.3/7.9; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.1, E +0.0, D +0.1.
+- [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S +0.0, E -0.1, D +0.2.
+- [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) — 7.7/8.4/8.5/8.2/8.4; existing named editorial peer. Subject minus peer: I +0.2, U -0.4, S -0.4, E +0.1, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 803.50 vs Willemstad 890.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Pointe-à-Pitre (GP): broader urban historical fabric
 - Grand Case (MF): distinctive culinary village
 - George Town (MY): greater historical urban ensemble and street-art breadth
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Oranjestad (AW)](../../../countries/AW/cities/oranjestad.yaml) — 7.9/8.0/8.1/8.3/8.0; existing named editorial peer. Subject minus peer: I -0.2, U +0.3, S -0.2, E -0.1, D -0.3.
+- [Pointe-à-Pitre (GP)](../../../countries/GP/cities/pointe-a-pitre.yaml) — 7.5/7.9/8.2/8.0/7.9; existing named editorial peer. Subject minus peer: I +0.2, U +0.4, S -0.3, E +0.2, D -0.2.
+- [Grand Case (MF)](../../../countries/MF/cities/grand-case.yaml) — 7.8/8.1/7.5/8.5/7.3; existing named editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.4, E -0.3, D +0.4.
+- [George Town (MY)](../../../countries/MY/cities/george-town.yaml) — 9.1/9.3/9.2/9.2/9.0; existing named editorial peer. Subject minus peer: I -1.4, U -1.0, S -1.3, E -1.0, D -1.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 796.50 vs George Town 917.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

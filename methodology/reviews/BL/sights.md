@@ -18,6 +18,19 @@ Named visitor scope only; marine reserve restrictions apply. No guarantee of wil
 - Oro Natural Pool (NC): more distinctive enclosure
 - Poé Lagoon (NC): broader reef visitor scope
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I -0.1, U +0.2, S +1.5, E -0.3, D +0.7.
+- [Pain de Sucre Beach (GP)](../../../countries/GP/sights/pain-de-sucre.yaml) — 8.8/8.6/6.9/8.7/7.0; existing named editorial peer. Subject minus peer: I +0.1, U -0.1, S +1.2, E +0.1, D +0.9.
+- [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S +0.1, E -0.3, D +0.1.
+- [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.7, E -0.2, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 852.50 vs Poé Lagoon 883.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Named visitor scope only; marine reserve restrictions apply. No guarantee of wil
 - N’Gouja (YT): comparable seagrass and nearshore scope
 - Bora Bora Lagoon (PF): greater scenic and geographical scale
 - Petite-Terre (GP): broader protected island habitat
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Poé Lagoon (NC)](../../../countries/NC/sights/poe-lagoon.yaml) — 9.0/8.7/8.8/9.0/8.5; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.3, E -0.3, D -0.5.
+- [N’Gouja Beach and Seagrass Visitor Area (YT)](../../../countries/YT/sights/ngouja.yaml) — 8.8/8.7/8.7/8.8/8.1; existing named editorial peer. Subject minus peer: I -0.2, U -0.2, S -0.2, E -0.1, D -0.1.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; existing named editorial peer. Subject minus peer: I -0.9, U -0.7, S +0.5, E -0.6, D -0.8.
+- [Petite-Terre Nature Reserve (permitted sector) (GP)](../../../countries/GP/sights/petite-terre.yaml) — 9.0/9.0/8.9/8.7/8.2; existing named editorial peer. Subject minus peer: I -0.4, U -0.5, S -0.4, E +0.0, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 851.00 vs Bora Bora Lagoon 902.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Named visitor scope only; marine reserve restrictions apply. No guarantee of wil
 - Whitehaven (AU): greater distinctive sand landscape
 - Gouverneur (BL): smaller enclosed beach
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mouli Beach (NC)](../../../countries/NC/sights/mouli-beach.yaml) — 9.0/8.3/6.8/8.8/7.0; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.3, E -0.2, D +0.4.
+- [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.5, E -0.5, D +0.2.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.0, U -1.5, S -0.7, E -0.6, D -0.2.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I +0.2, U +0.4, S +0.7, E -0.1, D +0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 814.00 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Named visitor scope only; marine reserve restrictions apply. No guarantee of wil
 - Matira Beach (PF): comparable beach experience
 - Pain de Sucre (GP): more distinctive volcanic cove
 - Flamenco Beach (PR): larger bay
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Grande Saline Beach (BL)](../../../countries/BL/sights/saline-beach.yaml) — 8.8/8.2/7.1/8.6/7.4; existing named editorial peer. Subject minus peer: I -0.1, U -0.1, S -0.1, E +0.0, D -0.2.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; existing named editorial peer. Subject minus peer: I +0.1, U +0.3, S +0.6, E -0.1, D +0.4.
+- [Pain de Sucre Beach (GP)](../../../countries/GP/sights/pain-de-sucre.yaml) — 8.8/8.6/6.9/8.7/7.0; existing named editorial peer. Subject minus peer: I -0.1, U -0.5, S +0.1, E -0.1, D +0.2.
+- [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.2, S +0.4, E -0.5, D +0.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 804.50 vs Flamenco Beach 818.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Named visitor scope only; marine reserve restrictions apply. No guarantee of wil
 - Mouli Beach (NC): stronger undeveloped lagoon composition
 - Flamenco Beach (PR): similarly broad tropical bay
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; existing named editorial peer. Subject minus peer: I -0.2, U +0.1, S +0.5, E -0.2, D +0.7.
+- [Mouli Beach (NC)](../../../countries/NC/sights/mouli-beach.yaml) — 9.0/8.3/6.8/8.8/7.0; existing named editorial peer. Subject minus peer: I -0.6, U -0.4, S +0.1, E -0.3, D +0.5.
+- [Flamenco Beach (PR)](../../../countries/PR/sights/flamenco-beach.yaml) — 9.0/8.3/6.6/9.1/7.2; existing named editorial peer. Subject minus peer: I -0.6, U -0.4, S +0.3, E -0.6, D +0.3.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.4, U -1.8, S -0.9, E -0.7, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 790.00 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Named visitor scope only; marine reserve restrictions apply. No guarantee of wil
 - Gouverneur (BL): stronger natural beach panorama
 - Oro Natural Pool (NC): more distinctive basin
 - Anse Dufour (MQ): stronger nearshore wildlife scope
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pain de Sucre Beach (GP)](../../../countries/GP/sights/pain-de-sucre.yaml) — 8.8/8.6/6.9/8.7/7.0; existing named editorial peer. Subject minus peer: I -0.6, U -0.2, S +0.1, E -0.4, D +0.0.
+- [Oro Natural Pool (NC)](../../../countries/NC/sights/oro-natural-pool.yaml) — 9.2/8.9/8.0/9.1/7.8; existing named editorial peer. Subject minus peer: I -1.0, U -0.5, S -1.0, E -0.8, D -0.8.
+- [Anse Dufour (MQ)](../../../countries/MQ/sights/anse-dufour.yaml) — 8.4/8.2/7.7/8.8/7.6; existing named editorial peer. Subject minus peer: I -0.2, U +0.2, S -0.7, E -0.5, D -0.6.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.6, U -1.3, S -0.8, E -0.9, D -0.6.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 790.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Named visitor scope only; marine reserve restrictions apply. No guarantee of wil
 - Guia Fortress (MO): more complete ensemble
 - Maïdo (RE): more dramatic viewpoint, different heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fort Napoléon (Les Saintes) (GP)](../../../countries/GP/sights/fort-napoleon.yaml) — 8.4/8.2/8.2/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.4, U -0.3, S -0.2, E -0.3, D -1.0.
+- [Guia Fortress, Chapel and Lighthouse (MO)](../../../countries/MO/sights/guia-fortress.yaml) — 8.6/8.5/8.8/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.8, E -0.3, D -1.0.
+- [Maïdo viewpoint (RE)](../../../countries/RE/sights/maido.yaml) — 9.0/8.5/7.6/8.6/7.3; existing named editorial peer. Subject minus peer: I -1.0, U -0.6, S +0.4, E -0.5, D -0.5.
+- [Hohensalzburg Fortress (AT)](../../../countries/AT/sights/hohensalzburg-fortress.yaml) — 9.1/9.1/9.3/9.4/8.9; supplementary fort-type numerical anchor. Subject minus peer: I -1.1, U -1.2, S -1.3, E -1.3, D -2.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 787.00 vs Hohensalzburg Fortress 916.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Named visitor scope only; marine reserve restrictions apply. No guarantee of wil
 - Pointe Saziley (YT): more important protected habitat
 - Los Morrillos (PR): comparable rocky coastal views
 - Caravelle Peninsula (MQ): broader trail network
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pointe des Châteaux (GP)](../../../countries/GP/sights/pointe-des-chateaux.yaml) — 8.9/8.5/7.9/8.6/7.6; existing named editorial peer. Subject minus peer: I -0.4, U -0.5, S -0.8, E -0.6, D -0.3.
+- [Pointe Saziley (permitted coastal trail) (YT)](../../../countries/YT/sights/pointe-saziley.yaml) — 8.6/8.5/8.7/8.3/7.9; existing named editorial peer. Subject minus peer: I -0.1, U -0.5, S -1.6, E -0.3, D -0.6.
+- [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -1.0, U -1.1, S -1.6, E -1.0, D -0.9.
+- [Tojinbo Cliffs (JP)](../../../countries/JP/sights/tojinbo-cliffs.yaml) — 8.7/8.9/8.1/8.8/8.0; supplementary coast-type numerical anchor. Subject minus peer: I -0.2, U -0.9, S -1.0, E -0.8, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 790.00 vs Cliffs of Moher 903.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

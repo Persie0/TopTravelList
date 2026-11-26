@@ -16,6 +16,19 @@
 - Hội An (VN): stronger concentrated historic townscape, smaller scale
 - Bridgetown (BB): more modest urban heritage breadth
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Havana (CU)](../../../countries/CU/cities/havana.yaml) — 9.0/9.2/9.3/8.8/9.2; existing named editorial peer. Subject minus peer: I -0.2, U -0.5, S -0.3, E +0.0, D -0.3.
+- [Cartagena (CO)](../../../countries/CO/cities/cartagena.yaml) — 9.2/9.1/9.3/8.8/9.0; existing named editorial peer. Subject minus peer: I -0.4, U -0.4, S -0.3, E +0.0, D -0.1.
+- [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) — 9.0/9.3/9.1/9.0/8.7; existing named editorial peer. Subject minus peer: I -0.2, U -0.6, S -0.1, E -0.2, D +0.2.
+- [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) — 7.7/8.4/8.5/8.2/8.4; existing named editorial peer. Subject minus peer: I +1.1, U +0.3, S +0.5, E +0.6, D +0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 882.50 vs Cartagena 911.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Camagüey (CU): comparable colonial streets, larger historic ensemble
 - Bridgetown (BB): comparable Caribbean urban history
 - Salzburg (AT): substantially deeper world-recognized heritage
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [San Juan (PR)](../../../countries/PR/cities/san-juan.yaml) — 8.8/8.7/9.0/8.8/8.9; existing named editorial peer. Subject minus peer: I -1.0, U -0.8, S -1.0, E -0.8, D -1.1.
+- [Camagüey (CU)](../../../countries/CU/cities/camaguey.yaml) — 8.2/8.5/8.5/8.2/8.1; existing named editorial peer. Subject minus peer: I -0.4, U -0.6, S -0.5, E -0.2, D -0.3.
+- [Bridgetown (BB)](../../../countries/BB/cities/bridgetown.yaml) — 7.7/8.4/8.5/8.2/8.4; existing named editorial peer. Subject minus peer: I +0.1, U -0.5, S -0.5, E -0.2, D -0.6.
+- [Salzburg (AT)](../../../countries/AT/cities/salzburg.yaml) — 9.0/8.9/9.0/8.8/8.5; existing named editorial peer. Subject minus peer: I -1.2, U -1.0, S -1.0, E -0.8, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 789.50 vs Salzburg 889.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -82,6 +108,19 @@
 - Vaitape (PF): comparable small town with lagoon gateway role
 - Hội An (VN): far deeper urban heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Vaitape (PF)](../../../countries/PF/cities/vaitape.yaml) — 7.2/7.1/6.2/7.3/6.4; existing named editorial peer. Subject minus peer: I +0.1, U +0.4, S +0.4, E +0.5, D +0.6.
+- [Hoi An (VN)](../../../countries/VN/cities/hoi-an.yaml) — 9.0/9.3/9.1/9.0/8.7; existing named editorial peer. Subject minus peer: I -1.7, U -1.8, S -2.5, E -1.2, D -1.7.
+- [Kuching (MY)](../../../countries/MY/cities/kuching.yaml) — 8.3/8.5/8.4/8.7/8.6; supplementary urban-type numerical anchor. Subject minus peer: I -1.0, U -1.0, S -1.8, E -0.9, D -1.6.
+- [Yokohama (JP)](../../../countries/JP/cities/yokohama.yaml) — 8.4/8.5/8.5/8.8/8.8; supplementary urban-type numerical anchor. Subject minus peer: I -1.1, U -1.0, S -1.9, E -1.0, D -1.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 725.50 vs Hoi An 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -115,6 +154,19 @@
 - Vaitape (PF): comparable gateway settlement
 - Cartagena (CO): much greater historic fabric
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fare (PF)](../../../countries/PF/cities/fare.yaml) — 7.3/7.4/6.6/7.5/6.5; existing named editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.6, E -0.1, D +0.3.
+- [St George's (GD)](../../../countries/GD/cities/st-george-s.yaml) — 8.4/8.6/8.6/8.4/8.1; existing named editorial peer. Subject minus peer: I -1.2, U -1.2, S -1.4, E -1.0, D -1.3.
+- [Vaitape (PF)](../../../countries/PF/cities/vaitape.yaml) — 7.2/7.1/6.2/7.3/6.4; existing named editorial peer. Subject minus peer: I +0.0, U +0.3, S +1.0, E +0.1, D +0.4.
+- [Cartagena (CO)](../../../countries/CO/cities/cartagena.yaml) — 9.2/9.1/9.3/8.8/9.0; existing named editorial peer. Subject minus peer: I -2.0, U -1.7, S -2.1, E -1.4, D -2.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 724.00 vs Cartagena 911.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -147,6 +199,19 @@
 - Vaitape (PF): similar port scope
 - Isabel Segunda (PR): stronger compact historic identity
 - San Juan (PR): much greater urban depth
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ao Nang (TH)](../../../countries/TH/cities/ao-nang.yaml) — 7.6/7.8/6.4/8.0/7.9; existing named editorial peer. Subject minus peer: I -0.6, U -0.8, S +0.2, E -0.6, D -1.1.
+- [Vaitape (PF)](../../../countries/PF/cities/vaitape.yaml) — 7.2/7.1/6.2/7.3/6.4; existing named editorial peer. Subject minus peer: I -0.2, U -0.1, S +0.4, E +0.1, D +0.4.
+- [Isabel Segunda (PR)](../../../countries/PR/cities/isabel-segunda.yaml) — 7.2/7.4/7.2/7.4/6.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.4, S -0.6, E +0.0, D +0.0.
+- [San Juan (PR)](../../../countries/PR/cities/san-juan.yaml) — 8.8/8.7/9.0/8.8/8.9; existing named editorial peer. Subject minus peer: I -1.8, U -1.7, S -2.4, E -1.4, D -2.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 696.00 vs San Juan 882.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

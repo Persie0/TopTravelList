@@ -18,6 +18,24 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — distinct protected island ecosystem.
 - [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — more documented conservation and conditional recreation.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: U -0.7, S -0.7.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: U -0.7, S +0.5.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: U -0.8, S -0.6.
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8/9.9/9.7/9.8/9.6; supplementary lagoon-type numerical anchor. Subject minus peer: U -1.4, S -1.2.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Suwarrow National Park (seasonal yacht access) (CK)](../../../countries/CK/sights/suwarrow.yaml) — null/9.0/9.1/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.5, S -0.6.
+- [Rose Atoll National Wildlife Refuge (Muliāva) (AS)](../../../countries/AS/sights/rose-atoll.yaml) — null/9.2/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.7, S -0.8.
+- [Pulu Keeling National Park (North Keeling Island) (CC)](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — null/9.3/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.8, S -0.8.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +68,23 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [sight-ck-manihiki-lagoon](../../../countries/CK/sights/manihiki-lagoon.yaml) — distinct pearl farming landscape.
 - [sight-as-rose-atoll](../../../countries/AS/sights/rose-atoll.yaml) — more isolated refuge.
 - [sight-cc-pulu-keeling-national-park](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — more established park designation and restricted access.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Aitutaki Lagoon and permitted motu cruise circuit (CK)](../../../countries/CK/sights/aitutaki-lagoon.yaml) — 9.4/9.1/8.6/9.3/9.0; existing linked editorial peer. Subject minus peer: U -0.6, S -0.1.
+- [Manihiki lagoon and black-pearl farming landscape (CK)](../../../countries/CK/sights/manihiki-lagoon.yaml) — 8.8/9.0/8.7/8.0/8.4; existing linked editorial peer. Subject minus peer: U -0.5, S -0.2.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: U -0.7, S +0.5.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: U -0.8, S -0.6.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Rose Atoll National Wildlife Refuge (Muliāva) (AS)](../../../countries/AS/sights/rose-atoll.yaml) — null/9.2/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.7, S -0.8.
+- [Pulu Keeling National Park (North Keeling Island) (CC)](../../../countries/CC/sights/pulu-keeling-national-park.yaml) — null/9.3/9.3/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.8, S -0.8.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +119,24 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [sight-pn-oeno-atoll](../../../countries/PN/sights/oeno-atoll.yaml) — uninhabited and restricted.
 - [sight-um-palmyra-atoll](../../../countries/UM/sights/palmyra-atoll.yaml) — more documented conservation and permitted recreation.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Palmyra Atoll (permitted recreational refuge visit) (UM)](../../../countries/UM/sights/palmyra-atoll.yaml) — 9.0/9.2/9.2/8.2/8.0; existing linked editorial peer. Subject minus peer: U -0.7, S -0.6.
+- [Bora Bora Lagoon (PF)](../../../countries/PF/sights/bora-bora-lagoon.yaml) — 9.5/9.2/8.0/9.3/8.8; supplementary lagoon-type numerical anchor. Subject minus peer: U -0.7, S +0.6.
+- [Tobago Cays Marine Park (VC)](../../../countries/VC/sights/tobago-cays-marine-park.yaml) — 9.4/9.3/9.1/9.1/8.9; supplementary lagoon-type numerical anchor. Subject minus peer: U -0.8, S -0.5.
+- [Ha Long Bay (VN)](../../../countries/VN/sights/ha-long-bay.yaml) — 9.8/9.9/9.7/9.8/9.6; supplementary lagoon-type numerical anchor. Subject minus peer: U -1.4, S -1.1.
+
+Incomplete additional references (not counted toward the four complete profiles):
+- [Penrhyn (Tongareva) lagoon heritage (CK)](../../../countries/CK/sights/penrhyn.yaml) — null/8.9/8.7/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.4, S -0.1.
+- [Swains Island (Olohega) (AS)](../../../countries/AS/sights/swains-island.yaml) — null/8.8/8.8/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U -0.3, S -0.2.
+- [Oeno Atoll (restricted visitor scope) (PN)](../../../countries/PN/sights/oeno-atoll.yaml) — null/8.5/8.4/null/null; existing linked editorial peer; incomplete profile, not counted toward four complete peers. Subject minus peer: U +0.0, S +0.2.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +169,19 @@ All records remain unranked because ordinary visitor access is insufficiently es
 - [sight-ck-arai-te-tonga](../../../countries/CK/sights/arai-te-tonga.yaml) — more identifiable surviving ceremonial stone site.
 - [sight-mp-house-of-taga](../../../countries/MP/sights/house-of-taga.yaml) — more substantial documented archaeological remains.
 - [sight-pn-john-adams-grave](../../../countries/PN/sights/john-adams-grave.yaml) — more specific verified surviving memorial.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Taputapuātea (Raiatea) (PF)](../../../countries/PF/sights/taputapuatea.yaml) — 8.8/9.3/9.4/8.6/8.5; existing linked editorial peer. Subject minus peer: U -0.5, S -0.5.
+- [Arai-te-Tonga marae and royal court (Rarotonga) (CK)](../../../countries/CK/sights/arai-te-tonga.yaml) — 7.9/8.8/9.0/7.8/7.6; existing linked editorial peer. Subject minus peer: U +0.0, S -0.1.
+- [House of Taga (Tinian) (MP)](../../../countries/MP/sights/house-of-taga.yaml) — 8.0/8.8/9.0/8.0/7.5; existing linked editorial peer. Subject minus peer: U +0.0, S -0.1.
+- [John Adams' grave (PN)](../../../countries/PN/sights/john-adams-grave.yaml) — 6.8/8.0/8.3/7.2/6.0; existing linked editorial peer. Subject minus peer: U +0.8, S +0.6.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

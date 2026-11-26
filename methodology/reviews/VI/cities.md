@@ -16,6 +16,19 @@
 - Philipsburg (SX): comparable port
 - St George's (BM): stronger early colonial town heritage
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.6, U -0.7, S -0.5, E -0.4, D -0.5.
+- [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I +0.2, U +0.2, S +0.4, E +0.1, D +0.5.
+- [Philipsburg (SX)](../../../countries/SX/cities/philipsburg.yaml) — 7.8/7.8/8.0/8.3/7.9; existing named editorial peer. Subject minus peer: I +0.4, U +0.5, S +0.5, E +0.2, D +0.4.
+- [St George's (BM)](../../../countries/BM/cities/st-georges.yaml) — 8.5/8.8/9.1/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.5, S -0.6, E +0.0, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 834.00 vs Willemstad 890.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -48,6 +61,19 @@
 - Gustavia (BL): comparable historic harbour
 - Oranjestad (BQ): comparable historic port
 - Willemstad (CW): larger historic ensemble
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [St George's (BM)](../../../countries/BM/cities/st-georges.yaml) — 8.5/8.8/9.1/8.5/8.2; existing named editorial peer. Subject minus peer: I -0.3, U -0.4, S -0.5, E -0.2, D -0.1.
+- [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I +0.2, U +0.3, S +0.5, E -0.1, D +0.3.
+- [Oranjestad (Sint Eustatius) (BQ)](../../../countries/BQ/cities/oranjestad-statia.yaml) — 8.0/8.5/8.9/8.1/7.8; existing named editorial peer. Subject minus peer: I +0.2, U -0.1, S -0.3, E +0.2, D +0.3.
+- [Willemstad (CW)](../../../countries/CW/cities/willemstad.yaml) — 8.8/9.0/9.0/8.9/8.8; existing named editorial peer. Subject minus peer: I -0.6, U -0.6, S -0.4, E -0.6, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 833.50 vs Willemstad 890.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -82,6 +108,19 @@
 - Gustavia (BL): comparable harbour
 - Oranjestad (BQ): comparable historical town
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Christiansted (Saint Croix) (VI)](../../../countries/VI/cities/christiansted.yaml) — 8.2/8.4/8.6/8.3/8.1; existing named editorial peer. Subject minus peer: I -0.4, U -0.2, S -0.1, E -0.2, D -0.4.
+- [Saint-Laurent-du-Maroni (GF)](../../../countries/GF/cities/saint-laurent-du-maroni.yaml) — 7.9/8.4/8.6/8.0/7.8; existing named editorial peer. Subject minus peer: I -0.1, U -0.2, S -0.1, E +0.1, D -0.1.
+- [Gustavia (BL)](../../../countries/BL/cities/gustavia.yaml) — 8.0/8.1/8.1/8.4/7.8; existing named editorial peer. Subject minus peer: I -0.2, U +0.1, S +0.4, E -0.3, D -0.1.
+- [Oranjestad (Sint Eustatius) (BQ)](../../../countries/BQ/cities/oranjestad-statia.yaml) — 8.0/8.5/8.9/8.1/7.8; existing named editorial peer. Subject minus peer: I -0.2, U -0.3, S -0.4, E +0.0, D -0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 807.50 vs Christiansted (Saint Croix) 833.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -114,6 +153,19 @@
 - Vaitape (PF): similar gateway
 - Deshaies (GP): comparable coastal village
 - Charlotte Amalie (VI): broader urban heritage
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Grand Case (MF)](../../../countries/MF/cities/grand-case.yaml) — 7.8/8.1/7.5/8.5/7.3; existing named editorial peer. Subject minus peer: I +0.0, U -0.4, S -0.3, E -0.3, D +0.0.
+- [Vaitape (PF)](../../../countries/PF/cities/vaitape.yaml) — 7.2/7.1/6.2/7.3/6.4; existing named editorial peer. Subject minus peer: I +0.6, U +0.6, S +1.0, E +0.9, D +0.9.
+- [Deshaies (GP)](../../../countries/GP/cities/deshaies.yaml) — 7.9/7.7/6.9/8.0/7.1; existing named editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.3, E +0.2, D +0.2.
+- [Charlotte Amalie (Saint Thomas) (VI)](../../../countries/VI/cities/charlotte-amalie.yaml) — 8.2/8.3/8.5/8.5/8.3; existing named editorial peer. Subject minus peer: I -0.4, U -0.6, S -1.3, E -0.3, D -1.0.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 766.50 vs Charlotte Amalie (Saint Thomas) 834.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

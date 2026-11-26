@@ -18,6 +18,19 @@ Current official hazard guidance takes precedence over tourism promotion. No ent
 - Maïdo (RE): more expansive natural viewpoint
 - Fort Karl (BL): much narrower interpretation
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mount Pelée (permitted summit trails) (MQ)](../../../countries/MQ/sights/mount-pelee.yaml) — 9.2/8.9/9.3/8.8/8.5; existing named editorial peer. Subject minus peer: I -0.3, U +0.2, S -0.1, E -0.2, D -0.2.
+- [Piton de la Fournaise (RE)](../../../countries/RE/sights/piton-de-la-fournaise.yaml) — 9.5/9.3/9.2/9.0/9.0; existing named editorial peer. Subject minus peer: I -0.6, U -0.2, S +0.0, E -0.4, D -0.7.
+- [Maïdo viewpoint (RE)](../../../countries/RE/sights/maido.yaml) — 9.0/8.5/7.6/8.6/7.3; existing named editorial peer. Subject minus peer: I -0.1, U +0.6, S +1.6, E +0.0, D +1.0.
+- [Fort Karl viewpoint and ruins (BL)](../../../countries/BL/sights/fort-karl.yaml) — 8.0/7.9/8.0/8.1/6.8; existing named editorial peer. Subject minus peer: I +0.9, U +1.2, S +1.2, E +0.5, D +1.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 890.50 vs Piton de la Fournaise 926.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Current official hazard guidance takes precedence over tourism promotion. No ent
 - Saint-Pierre (MQ): accessible historic volcanic disaster heritage
 - Herculaneum (IT): established archaeological circuit
 - MVO (MS): documented alternative observation and interpretation
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Pompeii Archaeological Park (IT)](../../../countries/IT/sights/pompeii.yaml) — 9.6/9.7/9.7/9.3/9.5; existing named editorial peer. Subject minus peer: U -0.4, S -0.5.
+- [Herculaneum Archaeological Park (IT)](../../../countries/IT/sights/herculaneum.yaml) — 9.2/9.5/9.5/9.1/8.8; existing named editorial peer. Subject minus peer: U -0.2, S -0.3.
+- [Pembrokeshire Coast National Park (GB)](../../../countries/GB/sights/pembrokeshire-coast.yaml) — 9.1/8.9/8.7/9.1/9.2; supplementary landscape-type numerical anchor. Subject minus peer: U +0.4, S +0.5.
+- [Ponta de São Lourenço (PT)](../../../countries/PT/sights/ponta-sao-lourenco.yaml) — 9.1/9.0/8.5/9.0/8.5; supplementary landscape-type numerical anchor. Subject minus peer: U +0.3, S +0.7.
+
+Unranked status retained. Comparison with rated peers does not establish missing dimensions or visitor permission.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Current official hazard guidance takes precedence over tourism promotion. No ent
 - Blue River Park (NC): broader endemic ecosystem
 - Sage Mountain (VG): comparable island moist forest
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Mount Scenery trail (Saba) (BQ)](../../../countries/BQ/sights/mount-scenery.yaml) — 8.9/9.0/8.7/8.8/8.4; existing named editorial peer. Subject minus peer: I -0.5, U -0.3, S +0.2, E -0.4, D +0.4.
+- [The Quill (Sint Eustatius) (BQ)](../../../countries/BQ/sights/quill.yaml) — 8.9/8.8/8.5/8.8/8.5; existing named editorial peer. Subject minus peer: I -0.5, U -0.1, S +0.4, E -0.4, D +0.3.
+- [Blue River Provincial Park (NC)](../../../countries/NC/sights/blue-river-park.yaml) — 8.9/9.1/9.1/8.7/8.9; existing named editorial peer. Subject minus peer: I -0.5, U -0.4, S -0.2, E -0.3, D -0.1.
+- [Sage Mountain National Park (Tortola) (VG)](../../../countries/VG/sights/sage-mountain.yaml) — 8.4/8.6/8.5/8.6/8.4; existing named editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.4, E -0.2, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 861.50 vs Blue River Provincial Park 896.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Current official hazard guidance takes precedence over tourism promotion. No ent
 - Fort Karl (BL): narrower coastal viewpoint
 - Maïdo (RE): more dramatic escarpment
 - Pic Paradis (MF): comparable island summit walk
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Fort Karl viewpoint and ruins (BL)](../../../countries/BL/sights/fort-karl.yaml) — 8.0/7.9/8.0/8.1/6.8; existing named editorial peer. Subject minus peer: I +0.6, U +0.8, S +0.4, E +0.3, D +0.7.
+- [Maïdo viewpoint (RE)](../../../countries/RE/sights/maido.yaml) — 9.0/8.5/7.6/8.6/7.3; existing named editorial peer. Subject minus peer: I -0.4, U +0.2, S +0.8, E -0.2, D +0.2.
+- [Pic Paradis summit trail (MF)](../../../countries/MF/sights/pic-paradis.yaml) — 8.4/8.0/7.5/8.5/7.7; existing named editorial peer. Subject minus peer: I +0.2, U +0.7, S +0.9, E -0.1, D -0.2.
+- [Cliffs of Moher (IE)](../../../countries/IE/sights/cliffs-of-moher.yaml) — 9.5/9.1/8.7/9.0/8.2; supplementary coast-type numerical anchor. Subject minus peer: I -0.9, U -0.4, S -0.3, E -0.6, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 844.50 vs Cliffs of Moher 903.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Current official hazard guidance takes precedence over tourism promotion. No ent
 - Grande Saline (BL): broader beach
 - Horseshoe Bay (BM): more distinctive pink sand
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Happy Bay Beach (MF)](../../../countries/MF/sights/happy-bay.yaml) — 8.6/8.1/6.9/8.3/7.0; existing named editorial peer. Subject minus peer: I -0.1, U +0.0, S +0.3, E +0.3, D +0.6.
+- [Horseshoe Bay Beach (BM)](../../../countries/BM/sights/horseshoe-bay.yaml) — 9.0/8.6/7.3/8.9/7.6; existing named editorial peer. Subject minus peer: I -0.5, U -0.5, S -0.1, E -0.3, D +0.0.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.3, U -1.6, S -0.6, E -0.6, D +0.0.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I -0.1, U +0.3, S +0.8, E -0.1, D +0.8.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 806.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -182,6 +247,19 @@ Current official hazard guidance takes precedence over tourism promotion. No ent
 - Anse Couleuvre (MQ): comparable black-sand shore
 - Rendezvous Bay (MS): different sand and approach
 - Punaluʻu (US): more distinctive black-sand setting
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Rendezvous Bay beach and approach trail (MS)](../../../countries/MS/sights/rendezvous-bay.yaml) — 8.5/8.1/7.2/8.6/7.6; existing named editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.1, E -0.6, D -0.6.
+- [Anse Source d'Argent (SC)](../../../countries/SC/sights/anse-source-d-argent.yaml) — 9.8/9.7/7.8/9.2/7.6; supplementary beach-type numerical anchor. Subject minus peer: I -1.6, U -1.6, S -0.5, E -1.2, D -0.6.
+- [Matira Beach (PF)](../../../countries/PF/sights/matira-beach.yaml) — 8.6/7.8/6.4/8.7/6.8; supplementary beach-type numerical anchor. Subject minus peer: I -0.4, U +0.3, S +0.9, E -0.7, D +0.2.
+- [White Beach, Boracay (PH)](../../../countries/PH/sights/white-beach-boracay.yaml) — 9.1/8.4/6.8/9.0/7.5; supplementary beach-type numerical anchor. Subject minus peer: I -0.9, U -0.3, S +0.5, E -1.0, D -0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 784.50 vs Anse Source d'Argent 906.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -216,6 +294,19 @@ Current official hazard guidance takes precedence over tourism promotion. No ent
 - National Museum of Bermuda (BM): broader collections
 - Mémorial ACTe (GP): greater thematic scale
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Amuseum Naturalis at the Old House (MF)](../../../countries/MF/sights/amuseum-naturalis.yaml) — 7.3/8.1/7.9/7.9/7.4; existing named editorial peer. Subject minus peer: I +0.1, U +0.2, S +0.6, E +0.1, D +0.2.
+- [National Museum of Bermuda (The Keep) (BM)](../../../countries/BM/sights/national-museum.yaml) — 8.6/8.8/9.0/8.7/8.8; existing named editorial peer. Subject minus peer: I -1.2, U -0.5, S -0.5, E -0.7, D -1.2.
+- [Mémorial ACTe (GP)](../../../countries/GP/sights/memorial-acte.yaml) — 8.5/9.0/9.2/8.7/8.6; existing named editorial peer. Subject minus peer: I -1.1, U -0.7, S -0.7, E -0.7, D -1.0.
+- [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; supplementary museum-type numerical anchor. Subject minus peer: I -0.1, U +0.0, S -0.1, E +0.0, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 795.50 vs Mémorial ACTe 880.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -248,6 +339,19 @@ Current official hazard guidance takes precedence over tourism promotion. No ent
 - Deshaies (GP): larger garden
 - Queen Elizabeth II Botanic Park (KY): broader habitat scope
 - Singapore Botanic Gardens (SG): much greater botanical significance
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Jardin de Balata (MQ)](../../../countries/MQ/sights/jardin-de-balata.yaml) — 8.6/8.2/7.7/8.8/8.3; existing named editorial peer. Subject minus peer: I -0.9, U -0.1, S +0.7, E -0.7, D -0.7.
+- [Queen Elizabeth II Botanic Park (Grand Cayman) (KY)](../../../countries/KY/sights/botanic-park.yaml) — 8.3/8.5/8.6/8.6/8.3; existing named editorial peer. Subject minus peer: I -0.6, U -0.4, S -0.2, E -0.5, D -0.7.
+- [Singapore Botanic Gardens (SG)](../../../countries/SG/sights/singapore-botanic-gardens.yaml) — 9.1/9.2/9.4/9.2/9.3; existing named editorial peer. Subject minus peer: I -1.4, U -1.1, S -1.0, E -1.1, D -1.7.
+- [Sir Seewoosagur Ramgoolam Botanical Garden (MU)](../../../countries/MU/sights/sir-seewoosagur-ramgoolam-botanical-garden.yaml) — 8.3/8.7/8.7/8.6/8.3; supplementary garden-type numerical anchor. Subject minus peer: I -0.6, U -0.6, S -0.3, E -0.5, D -0.7.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 799.00 vs Singapore Botanic Gardens 922.00.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

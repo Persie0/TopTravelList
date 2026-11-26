@@ -18,6 +18,19 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - [city-fk-stanley](../../../countries/FK/cities/stanley.yaml) — Stanley has a wider interpreted maritime heritage offering but less tropical scenery.
 - [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam is a smaller village with a more focused community-culture experience.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Flying Fish Cove (The Settlement) (CX)](../../../countries/CX/cities/flying-fish-cove.yaml) — 7.9/8.5/8.0/8.0/7.3; existing linked editorial peer. Subject minus peer: I +0.3, U -0.3, S +0.1, E +0.0, D +0.3.
+- [Jamestown (Saint Helena) (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; existing linked editorial peer. Subject minus peer: I -0.3, U -0.6, S -0.5, E -0.3, D -0.3.
+- [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing linked editorial peer. Subject minus peer: I +0.2, U -0.4, S -0.3, E -0.3, D -0.4.
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.7, U -0.5, S -0.3, E +0.0, D +0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 809.00 vs Jamestown (Saint Helena) 850.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - [city-cx-flying-fish-cove](../../../countries/CX/cities/flying-fish-cove.yaml) — Flying Fish Cove offers comparable island administration and multicultural heritage.
 - [city-fk-stanley](../../../countries/FK/cities/stanley.yaml) — Stanley has broader maritime interpretation and a larger townscape.
 - [city-cc-bantam](../../../countries/CC/cities/bantam.yaml) — Bantam is a living cultural village rather than a civic and administrative center.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Jamestown (Saint Helena) (SH)](../../../countries/SH/cities/jamestown.yaml) — 8.5/8.8/8.6/8.3/7.9; existing linked editorial peer. Subject minus peer: I -0.9, U -0.7, S -0.1, E -0.3, D -0.4.
+- [Flying Fish Cove (The Settlement) (CX)](../../../countries/CX/cities/flying-fish-cove.yaml) — 7.9/8.5/8.0/8.0/7.3; existing linked editorial peer. Subject minus peer: I -0.3, U -0.4, S +0.5, E +0.0, D +0.2.
+- [Stanley (FK)](../../../countries/FK/cities/stanley.yaml) — 8.0/8.6/8.4/8.3/8.0; existing linked editorial peer. Subject minus peer: I -0.4, U -0.5, S +0.1, E -0.3, D -0.5.
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.1, U -0.6, S +0.1, E +0.0, D +0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 795.50 vs Jamestown (Saint Helena) 850.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has greater isolation and a more distinctive community history.
 - [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine offers more commercial facilities but less dramatic coastal setting.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.5, U -0.7, S -0.7, E -0.5, D -0.4.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I +0.2, U -1.1, S -0.7, E -0.3, D -0.1.
+- [Edinburgh of the Seven Seas (SH)](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — 8.2/9.3/8.5/8.0/7.2; existing linked editorial peer. Subject minus peer: I -0.2, U -1.3, S -0.8, E -0.5, D -0.4.
+- [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +1.1, U +0.3, S +0.3, E -0.2, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 774.50 vs Edinburgh of the Seven Seas 840.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — Adamstown has stronger globally known maritime history and greater isolation.
 - [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has more unusual geographical isolation.
 - [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine has broader services, but less distinctive local food and cultural identity.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.1, U -0.4, S -0.5, E -0.4, D -0.4.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I -0.2, U -0.8, S -0.5, E -0.2, D -0.1.
+- [Edinburgh of the Seven Seas (SH)](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — 8.2/9.3/8.5/8.0/7.2; existing linked editorial peer. Subject minus peer: I -0.6, U -1.0, S -0.6, E -0.4, D -0.4.
+- [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.7, U +0.6, S +0.5, E -0.1, D -0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 775.50 vs Edinburgh of the Seven Seas 840.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -150,6 +202,19 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has greater isolation and stronger historical context.
 - [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine provides more visitor services, but Ofu has a stronger volcanic setting.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.3, U -0.5, S -0.8, E -0.7, D -0.6.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I +0.0, U -0.9, S -0.8, E -0.5, D -0.3.
+- [Edinburgh of the Seven Seas (SH)](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — 8.2/9.3/8.5/8.0/7.2; existing linked editorial peer. Subject minus peer: I -0.4, U -1.1, S -0.9, E -0.7, D -0.6.
+- [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.9, U +0.5, S +0.2, E -0.4, D -0.4.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 766.50 vs Edinburgh of the Seven Seas 840.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -183,6 +248,19 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has more exceptional isolation and documented village tours.
 - [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine has greater practical visitor services, but a less dramatic backdrop.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.4, U -0.5, S -0.8, E -0.8, D -0.7.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I +0.1, U -0.9, S -0.8, E -0.6, D -0.4.
+- [Edinburgh of the Seven Seas (SH)](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — 8.2/9.3/8.5/8.0/7.2; existing linked editorial peer. Subject minus peer: I -0.3, U -1.1, S -0.9, E -0.8, D -0.7.
+- [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +1.0, U +0.5, S +0.2, E -0.5, D -0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 767.00 vs Edinburgh of the Seven Seas 840.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -215,6 +293,19 @@ Census 2026 internal representative coordinates used for villages. Village cultu
 - [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — Adamstown has greater isolation and a more globally recognized maritime story.
 - [city-sh-edinburgh-seven-seas](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — Edinburgh of the Seven Seas has more exceptional remoteness and settlement history.
 - [city-nf-burnt-pine](../../../countries/NF/cities/burnt-pine.yaml) — Burnt Pine has greater commercial breadth but less distinctive traditional village scenery.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Bantam (Home Island) (CC)](../../../countries/CC/cities/bantam.yaml) — 7.5/8.7/8.4/8.0/7.2; existing linked editorial peer. Subject minus peer: I +0.1, U -0.6, S -0.7, E -0.8, D -0.7.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I -0.2, U -1.0, S -0.7, E -0.6, D -0.4.
+- [Edinburgh of the Seven Seas (SH)](../../../countries/SH/cities/edinburgh-seven-seas.yaml) — 8.2/9.3/8.5/8.0/7.2; existing linked editorial peer. Subject minus peer: I -0.6, U -1.2, S -0.8, E -0.8, D -0.7.
+- [Burnt Pine (NF)](../../../countries/NF/cities/burnt-pine.yaml) — 6.9/7.7/7.4/7.7/7.0; existing linked editorial peer. Subject minus peer: I +0.7, U +0.4, S +0.3, E -0.5, D -0.5.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 757.50 vs Edinburgh of the Seven Seas 840.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |

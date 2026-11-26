@@ -18,6 +18,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [city-as-fagatogo](../../../countries/AS/cities/fagatogo.yaml) — similar compact civic heritage.
 - [city-nc-noumea](../../../countries/NC/cities/noumea.yaml) — more architectural and urban variety.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Avarua (Rarotonga) (CK)](../../../countries/CK/cities/avarua.yaml) — 7.8/8.0/8.3/8.5/8.2; existing linked editorial peer. Subject minus peer: I -0.1, U +0.1, S +0.1, E -0.2, D -0.2.
+- [Papeete (PF)](../../../countries/PF/cities/papeete.yaml) — 7.5/8.0/8.0/8.1/7.8; existing linked editorial peer. Subject minus peer: I +0.2, U +0.1, S +0.4, E +0.2, D +0.2.
+- [Fagatogo (AS)](../../../countries/AS/cities/fagatogo.yaml) — 7.6/8.1/8.5/8.0/7.5; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.1, E +0.3, D +0.5.
+- [Nouméa (NC)](../../../countries/NC/cities/noumea.yaml) — 8.0/8.1/8.0/8.5/8.3; existing linked editorial peer. Subject minus peer: I -0.3, U +0.0, S +0.4, E -0.2, D -0.3.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 806.00 vs Nouméa 813.00.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -50,6 +63,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [city-ck-oneroa](../../../countries/CK/cities/oneroa.yaml) — similar small coral-island village.
 - [city-mp-songsong](../../../countries/MP/cities/songsong.yaml) — larger settlement.
 - [city-nc-vao](../../../countries/NC/cities/vao.yaml) — similar village character.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Vatia (AS)](../../../countries/AS/cities/vatia.yaml) — 8.0/8.0/7.7/7.5/6.8; existing linked editorial peer. Subject minus peer: I -0.7, U -0.2, S -0.2, E +0.2, D +0.2.
+- [Oneroa (Mangaia) (CK)](../../../countries/CK/cities/oneroa.yaml) — 7.2/7.8/7.7/7.2/6.9; existing linked editorial peer. Subject minus peer: I +0.1, U +0.0, S -0.2, E +0.5, D +0.1.
+- [Songsong (Rota) (MP)](../../../countries/MP/cities/songsong.yaml) — 8.0/8.1/7.8/7.6/7.0; existing linked editorial peer. Subject minus peer: I -0.7, U -0.3, S -0.3, E +0.1, D +0.0.
+- [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I +0.1, U +0.1, S +0.0, E +0.4, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 749.50 vs Songsong (Rota) 782.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
@@ -84,6 +110,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [city-mp-songsong](../../../countries/MP/cities/songsong.yaml) — more facilities.
 - [city-nc-vao](../../../countries/NC/cities/vao.yaml) — similar scale.
 
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Ofu village (AS)](../../../countries/AS/cities/ofu.yaml) — 7.8/8.2/7.6/7.3/6.6; existing linked editorial peer. Subject minus peer: I -0.6, U -0.4, S -0.1, E +0.2, D +0.3.
+- [Oneroa (Mangaia) (CK)](../../../countries/CK/cities/oneroa.yaml) — 7.2/7.8/7.7/7.2/6.9; existing linked editorial peer. Subject minus peer: I +0.0, U +0.0, S -0.2, E +0.3, D +0.0.
+- [Songsong (Rota) (MP)](../../../countries/MP/cities/songsong.yaml) — 8.0/8.1/7.8/7.6/7.0; existing linked editorial peer. Subject minus peer: I -0.8, U -0.3, S -0.3, E -0.1, D -0.1.
+- [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I +0.0, U +0.1, S +0.0, E +0.2, D +0.1.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 742.50 vs Songsong (Rota) 782.50.
+
+No numerical score or evidence-status changes made by this pass.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -116,6 +155,19 @@ Source search excerpts inspected 2026-11-26. [Government tourism notice board](h
 - [city-as-faleasao](../../../countries/AS/cities/faleasao.yaml) — comparable remote village.
 - [city-pn-adamstown](../../../countries/PN/cities/adamstown.yaml) — more singular historical narrative.
 - [city-nc-vao](../../../countries/NC/cities/vao.yaml) — more developed visitor amenities.
+
+#### Current YAML benchmark calibration — numerical coverage pass (2026-11-26)
+
+Current branch YAML, core I/U/S/E/D; numeric differences are subject minus peer. Existing qualitative rationale above is preserved. Supplementary anchors are type-based editorial reference candidates, not independent factual or qualitative reassessments.
+
+- [Oneroa (Mangaia) (CK)](../../../countries/CK/cities/oneroa.yaml) — 7.2/7.8/7.7/7.2/6.9; existing linked editorial peer. Subject minus peer: I -0.1, U +0.1, S +0.1, E +0.1, D +0.1.
+- [Faleasao (Taʻū) (AS)](../../../countries/AS/cities/faleasao.yaml) — 7.6/8.1/7.7/7.2/6.5; existing linked editorial peer. Subject minus peer: I -0.5, U -0.2, S +0.1, E +0.1, D +0.5.
+- [Adamstown (PN)](../../../countries/PN/cities/adamstown.yaml) — 7.8/9.1/8.4/7.8/6.9; existing linked editorial peer. Subject minus peer: I -0.7, U -1.2, S -0.6, E -0.5, D +0.1.
+- [Vao (NC)](../../../countries/NC/cities/vao.yaml) — 7.2/7.7/7.5/7.3/6.8; existing linked editorial peer. Subject minus peer: I -0.1, U +0.2, S +0.3, E +0.0, D +0.2.
+
+Exceptional-score numerical challenge (retained provisional, not independently substantiated by this calculation): overall 746.00 vs Adamstown 815.50.
+
+No numerical score or evidence-status changes made by this pass.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
