@@ -784,7 +784,7 @@ No changes to either Lapita YAML record. Both remain unassessed; distinction bet
 - [Rock Islands Southern Lagoon (PW)](../../../countries/PW/sights/rock-islands-southern-lagoon.yaml): 9.5/9.5/9.3/9.4/9.3; more visually distinctive limestone island ensemble and inscribed heritage.
 - [Raja Ampat Archipelago (ID)](../../../countries/ID/sights/raja-ampat-archipelago.yaml): 9.8/9.9/9.5/9.7/9.8; greater reef and visitor breadth.
 - [Tubbataha Reefs Natural Park (PH)](../../../countries/PH/sights/tubbataha.yaml): 9.3/9.2/9.3/9.1/9.0; stronger globally recognized reef heritage, different specialist experience.
-- [Funafuti Conservation Area (TV)](../../../countries/TV/sights/funafuti-conservation-area.yaml): 8.3/8.4/8.7/7.8/7.3; smaller, narrower documented visitor circuit.
+- [Funafuti Conservation Area (TV)](../../../countries/TV/sights/funafuti-conservation-area.yaml): 8.3/8.4/8.7/7.8/7.0; smaller, narrower documented visitor circuit (depth updated to match merged Tuvalu evidence follow-up).
 
 ### Scoring decisions
 - Impact: 9.0 — forested islands, coral gardens, channels and distinctive marine scenery.
