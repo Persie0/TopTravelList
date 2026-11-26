@@ -196,3 +196,5 @@ Follow-up 2026-11-25: Moundou and Sarh now carry named geographic references; bo
 - Remaining gaps: Normal permitted visitor experience and scope not established.
 
 - [Dated worldwide reassessment pass 52 — 2026-11-26](worldwide-deferred-pass52-2026-11-26.md)
+
+- [Dated worldwide reassessment pass 54 — 2026-11-26](worldwide-deferred-pass54-2026-11-26.md)

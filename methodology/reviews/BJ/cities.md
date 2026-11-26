@@ -343,3 +343,5 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Source context](https://whc.unesco.org/en/list/1140/) (search or page reviewed 2026-11-25); identity or regional context only, not full independent factual verification.
 - Remaining gaps: Ordinary authorized visitor scope and current access unresolved.
+
+- [Dated worldwide reassessment pass 54 — 2026-11-26](worldwide-deferred-pass54-2026-11-26.md)
