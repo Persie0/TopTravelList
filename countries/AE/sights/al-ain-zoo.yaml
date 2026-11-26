@@ -1,0 +1,16 @@
+id: sight-ae-al-ain-zoo
+name: "Al Ain Zoo"
+location:
+  country_code: AE
+  latitude: 24.17328
+  longitude: 55.73377
+scores:
+  impact: 8.3
+  uniqueness: 8.2
+  significance: 7.9
+  experience: 8.6
+  depth: 8.9
+  categories:
+    wildlife: 8.8
+    family: 9.0
+    nature: 8.3

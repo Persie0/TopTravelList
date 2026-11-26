@@ -430,3 +430,17 @@ Seven additions; 28 ranked-row peer comparisons. HK 30 ranked. Remaining bounded
 - [x] AE — Jumeirah Mosque: 81.30/100 (source-linked-unverified).
 
 Nine additions and 36 peer comparisons matched to ranked rows. HK 36 ranked / 36 total; close bounded high-value discovery screen after checking tourism board top picks and the remaining trail, museum and religious/garden candidates. Avenue of Stars and Peak Tower not separately added due to harbour and Peak scope overlap; Tai Mo Shan included in MacLehose route experience; ordinary retail streets and city parks not added solely to fill a quota. Maritime Museum redevelopment documented. UAE 53 ranked / 63 total; seasonal floral and cultural entertainment and mosque tour omissions addressed. UAE still OPEN for major distinct candidates including Jubail Mangrove Park. Global Village inferred as Historic settlement by lexical generator; misleading classification, documented here, not a historic village. Existing ratings unchanged. Full Python validation and individual peer YAML checks pending.
+
+### Pass 41 — UAE museums, nature and entertainment
+
+- [x] AE — Jubail Mangrove Park: 82.65/100 (source-linked-unverified).
+- [x] AE — teamLab Phenomena Abu Dhabi: 87.00/100 (source-linked-unverified).
+- [x] AE — Abrahamic Family House: 86.10/100 (source-linked-unverified).
+- [x] AE — Al Ain Zoo: 83.00/100 (source-linked-unverified).
+- [x] AE — IMG Worlds of Adventure: 82.25/100 (source-linked-unverified).
+- [x] AE — Ski Dubai: 81.50/100 (source-linked-unverified).
+- [x] AE — Al Noor Island: 80.90/100 (source-linked-unverified).
+- [x] AE — Sharjah Desert Park: 83.00/100 (source-linked-unverified).
+- [x] AE — Al Ain Museum: 84.50/100 (source-linked-unverified).
+
+Nine additions and 36 peer comparisons matched to ranked rows. UAE 62 ranked / 72 total, ten existing unassessed unchanged. Al Ain Museum reopening 24 October 2025 confirmed; zoo, wildlife and mangrove scopes avoid unverified animal-welfare/conservation claims. Jubail representative point is monitoring station, not entrance. Screen of Abu Dhabi, Dubai and Sharjah tourism sources identifies remaining candidates (Fujairah Fort, Snoopy Island reef, Al Ain Palace Museum access, Green Planet, Motiongate); UAE remains open for bounded final check, not quota expansion. Full Python validation and individual peer YAML checks pending.

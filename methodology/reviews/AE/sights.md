@@ -1380,3 +1380,345 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ae-jubail-mangrove-park — Jubail Mangrove Park — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/jubail-mangrove-park.yaml)
+- Action: new
+- Precise subject and limitations: Mangrove boardwalk and permitted visitor activities; station coordinate is representative, not an entrance. Tides and wildlife sightings vary.
+- Location check: 24.5452, 54.4895; [published representative point](https://dashboard.nyuadmaccess.org/station/jubail-mangrove-park-43eeb934), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitabudhabi.ae/en/things-to-do/nature-and-wildlife/parks/jubail-mangrove-park); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/kalba-mangrove-centre](../../../countries/AE/sights/kalba-mangrove-centre.yaml) | 8.0 / 8.2 / 8.2 / 8.3 / 7.7 | Different mangrove education and location. |
+| [HK/mai-po-nature-reserve](../../../countries/HK/sights/mai-po-nature-reserve.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.8 | Greater migratory wetland significance. |
+| [HK/hong-kong-wetland-park](../../../countries/HK/sights/hong-kong-wetland-park.yaml) | 7.8 / 7.9 / 8.1 / 8.1 / 8.0 | Comparable accessible wetland interpretation. |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | Broader conservation-focused wildlife experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Attractive tidal waterways. |
+| Uniqueness | 8.4 | Accessible mangrove landscape in arid region. |
+| Significance | 8.2 | Regional ecological and educational relevance. |
+| Experience | 8.5 | Gentle nature experience. |
+| Depth | 7.9 | Limited visitor route breadth. |
+
+- Applicable categories: nature:8.9, wildlife:8.5, photography:8.8, relaxation:8.8.
+- Computed worldwide overall: 82.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-teamlab-phenomena-abu-dhabi — teamLab Phenomena Abu Dhabi — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/teamlab-phenomena-abu-dhabi.yaml)
+- Action: new
+- Precise subject and limitations: Permanent immersive digital art venue opened in 2025; excludes neighboring museums. Responsive installations; individual works vary.
+- Location check: 24.52747, 54.40499; [published representative point](https://mapcarta.com/W1389945173), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitabudhabi.ae/en/things-to-do/culture/museums-and-art/teamlab-phenomena); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SG/artscience-museum](../../../countries/SG/sights/artscience-museum.yaml) | 8.7 / 8.7 / 7.8 / 8.9 / 8.4 | Broader rotating science and art exhibitions. |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | Different glass art medium. |
+| [AE/museum-of-the-future](../../../countries/AE/sights/museum-of-the-future.yaml) | 8.9 / 9.3 / 7.2 / 8.6 / 7.6 | Related immersive presentation but future-oriented themes. |
+| [HK/m-plus-museum](../../../countries/HK/sights/m-plus-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.8 / 9.0 | Broader visual culture collection. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Immersive light and spatial environments. |
+| Uniqueness | 9.0 | Responsive installations distinguish it from conventional galleries. |
+| Significance | 7.8 | Contemporary art rather than historic collection significance. |
+| Experience | 9.0 | Interactive multisensory visit. |
+| Depth | 8.7 | Multiple large installation spaces. |
+
+- Applicable categories: culture:9.0, photography:9.3, family:8.8.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-abrahamic-family-house — Abrahamic Family House — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/abrahamic-family-house.yaml)
+- Action: new
+- Precise subject and limitations: Interfaith complex with mosque, church, synagogue and forum; authorized tours only, registration and dress rules apply.
+- Location check: 24.53085, 54.40593; [published representative point](https://www.madena.ae/things-to-do/abrahamic-family-house), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.abrahamicfamilyhouse.ae/visit-us); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/sheikh-zayed-grand-mosque](../../../countries/AE/sights/sheikh-zayed-grand-mosque.yaml) | 9.6 / 9.1 / 8.4 / 9.3 / 8.3 | Greater individual architectural spectacle. |
+| [AE/jumeirah-mosque](../../../countries/AE/sights/jumeirah-mosque.yaml) | 8.1 / 8.3 / 8.0 / 8.5 / 7.5 | Focused mosque cultural tours. |
+| [SG/sultan-mosque](../../../countries/SG/sights/sultan-mosque.yaml) | 8.5 / 8.5 / 8.4 / 8.5 / 7.6 | More established historic religious fabric. |
+| [HK/tsz-shan-monastery](../../../countries/HK/sights/tsz-shan-monastery.yaml) | 8.9 / 8.7 / 7.9 / 8.7 / 8.3 | Different contemporary religious architecture. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Three coherent monumental buildings. |
+| Uniqueness | 9.0 | Distinct shared interfaith architectural program. |
+| Significance | 8.4 | Contemporary interreligious dialogue significance. |
+| Experience | 8.4 | Guided interpretation with access conditions. |
+| Depth | 8.1 | Several worship buildings but focused scope. |
+
+- Applicable categories: architecture:9.1, culture:9.0, photography:8.6.
+- Computed worldwide overall: 86.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-al-ain-zoo — Al Ain Zoo — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/al-ain-zoo.yaml)
+- Action: new
+- Precise subject and limitations: Main zoo and available safari interpretation; no duplicate safari listing. Welfare and conservation outcomes not independently assessed.
+- Location check: 24.17328, 55.73377; [published representative point](https://mapcarta.com/W101518589), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitabudhabi.ae/en/things-to-do/nature-and-wildlife/wildlife/al-ain-zoo); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | Greater global zoological prominence. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | 8.7 / 8.6 / 7.9 / 9.0 / 9.0 | Different combination of wildlife and rides. |
+| [AE/seaworld-abu-dhabi](../../../countries/AE/sights/seaworld-abu-dhabi.yaml) | 8.9 / 8.8 / 7.7 / 8.9 / 9.0 | Marine-focused indoor experience. |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | Different in-situ restoration focus. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Varied exhibits in mountain foothills. |
+| Uniqueness | 8.2 | Arid-region wildlife emphasis. |
+| Significance | 7.9 | Long-established regional zoo. |
+| Experience | 8.6 | Family-oriented exhibits. |
+| Depth | 8.9 | Large complex with several habitats. |
+
+- Applicable categories: wildlife:8.8, family:9.0, nature:8.3.
+- Computed worldwide overall: 83.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-img-worlds-of-adventure — IMG Worlds of Adventure — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/img-worlds-of-adventure.yaml)
+- Action: new
+- Precise subject and limitations: Indoor themed amusement park; excludes nearby Global Village. Ride operations and restrictions vary.
+- Location check: 25.08139, 55.31835; [published representative point](https://mapcarta.com/W360213180), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/en/places-to-visit/img-worlds-of-adventure); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | 8.8 / 8.9 / 6.8 / 9.1 / 8.8 | More distinctive automotive theme. |
+| [AE/warner-bros-world-abu-dhabi](../../../countries/AE/sights/warner-bros-world-abu-dhabi.yaml) | 8.7 / 8.5 / 6.9 / 9.0 / 8.9 | Comparable indoor themed format. |
+| [KR/lotte-world-adventure](../../../countries/KR/sights/lotte-world-adventure.yaml) | 8.4 / 8.4 / 7.1 / 9.0 / 9.1 | Comparable indoor entertainment scope. |
+| [HK/hong-kong-disneyland](../../../countries/HK/sights/hong-kong-disneyland.yaml) | 8.9 / 8.7 / 7.8 / 9.3 / 9.1 | Greater immersive heritage depth. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Large themed indoor environments. |
+| Uniqueness | 8.4 | Indoor multi-zone format with established franchises. |
+| Significance | 6.8 | Contemporary entertainment significance. |
+| Experience | 8.9 | Varied rides and family activities. |
+| Depth | 8.8 | Several themed zones. |
+
+- Applicable categories: family:9.0, adventure:9.0, photography:8.5.
+- Computed worldwide overall: 82.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-ski-dubai — Ski Dubai — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/ski-dubai.yaml)
+- Action: new
+- Precise subject and limitations: Indoor skiing and snow activities within Mall of the Emirates; excludes shopping and animal encounter claims. No sustainability merits assumed.
+- Location check: 25.11734, 55.19861; [published representative point](https://mapcarta.com/W93632515), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitdubai.com/places-to-visit/ski-dubai); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/jais-flight-zipline](../../../countries/AE/sights/jais-flight-zipline.yaml) | 8.7 / 9.0 / 5.5 / 9.1 / 6.5 | Different concentrated adventure activity. |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | 8.6 / 8.4 / 5.5 / 9.3 / 9.0 | Greater water recreation variety. |
+| [KR/lotte-world-adventure](../../../countries/KR/sights/lotte-world-adventure.yaml) | 8.4 / 8.4 / 7.1 / 9.0 / 9.1 | Broader indoor amusement offering. |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | 8.8 / 8.9 / 6.8 / 9.1 / 8.8 | Larger themed ride variety. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Striking indoor snow environment. |
+| Uniqueness | 8.9 | Snow sports in desert climate create distinctive contrast. |
+| Significance | 6.6 | Commercial recreation rather than heritage. |
+| Experience | 8.7 | Varied snow activities and skiing. |
+| Depth | 7.8 | Limited slope relative to mountain resorts. |
+
+- Applicable categories: adventure:9.0, family:8.8.
+- Computed worldwide overall: 81.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-al-noor-island — Al Noor Island — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/al-noor-island.yaml)
+- Action: new
+- Precise subject and limitations: Landscaped lagoon island, public art and butterfly house as one experience; excludes neighboring mosque.
+- Location check: 25.3343834, 55.3848622; [published representative point](https://en.wikipedia.org/wiki/Al_Noor_Island), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitsharjah.com/en/regions/sharjah-city/al-noor-island/); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/dubai-miracle-garden](../../../countries/AE/sights/dubai-miracle-garden.yaml) | 8.8 / 8.6 / 6.9 / 8.7 / 8.2 | Larger themed floral spectacle. |
+| [KR/garden-of-morning-calm](../../../countries/KR/sights/garden-of-morning-calm.yaml) | 8.4 / 8.4 / 7.7 / 9.0 / 8.7 | Broader garden landscape. |
+| [SG/gardens-by-the-bay](../../../countries/SG/sights/gardens-by-the-bay.yaml) | 9.5 / 9.5 / 8.4 / 9.4 / 9.3 | Greater scale and architectural variety. |
+| [HK/kadoorie-farm-botanic-garden](../../../countries/HK/sights/kadoorie-farm-botanic-garden.yaml) | 8.5 / 8.5 / 8.6 / 8.7 / 8.8 | Broader ecological education. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Attractive garden and art setting. |
+| Uniqueness | 8.3 | Integrated island garden and butterfly exhibits. |
+| Significance | 7.3 | Contemporary regional landscape design. |
+| Experience | 8.5 | Relaxed walking and family exhibits. |
+| Depth | 7.9 | Compact landscaped island. |
+
+- Applicable categories: nature:8.5, photography:8.9, relaxation:8.9, family:8.5.
+- Computed worldwide overall: 80.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-sharjah-desert-park — Sharjah Desert Park — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/sharjah-desert-park.yaml)
+- Action: new
+- Precise subject and limitations: Visitor complex including Arabian wildlife and natural history exhibits; excludes neighboring protected areas. No duplicate component wildlife centre or unverified conservation outcomes.
+- Location check: 25.28325, 55.69654; [published representative point](https://mapcarta.com/W250041051), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitsharjah.com/activities/nature-and-wildlife/sharjah-desert-park/); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/al-marmoom-desert-conservation-reserve](../../../countries/AE/sights/al-marmoom-desert-conservation-reserve.yaml) | 8.4 / 8.2 / 8.1 / 8.4 / 8.6 | Outdoor ecosystem rather than visitor complex. |
+| [AE/kalba-mangrove-centre](../../../countries/AE/sights/kalba-mangrove-centre.yaml) | 8.0 / 8.2 / 8.2 / 8.3 / 7.7 | Different habitat and smaller scope. |
+| [HK/hong-kong-wetland-park](../../../countries/HK/sights/hong-kong-wetland-park.yaml) | 7.8 / 7.9 / 8.1 / 8.1 / 8.0 | Comparable habitat education. |
+| [NZ/zealandia-ecosanctuary](../../../countries/NZ/sights/zealandia-ecosanctuary.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.8 | More extensive native habitat restoration. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Interesting desert species and interpretation. |
+| Uniqueness | 8.4 | Regional Arabian wildlife education focus. |
+| Significance | 8.2 | Regional natural history significance. |
+| Experience | 8.4 | Varied educational exhibits. |
+| Depth | 8.7 | Multiple visitor components. |
+
+- Applicable categories: wildlife:8.9, nature:8.7, family:8.7.
+- Computed worldwide overall: 83.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-ae-al-ain-museum — Al Ain Museum — 2026-11-26
+
+- YAML: [source](../../../countries/AE/sights/al-ain-museum.yaml)
+- Action: new
+- Precise subject and limitations: Museum galleries and local archaeology; excludes neighboring oasis and serial UNESCO landscape. Reopened 24 October 2025 after redevelopment: https://www.mediaoffice.abudhabi/en/arts-culture/department-of-culture-and-tourism-abu-dhabi-to-reopen-al-ain-museum-to-public-on-24-october-following-extensive-redevelopment/.
+- Location check: 24.21627, 55.77378; [published representative point](https://mapcarta.com/W256644089), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.alainmuseum.ae/en/visit); visitor source excerpts inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/zayed-national-museum](../../../countries/AE/sights/zayed-national-museum.yaml) | 8.7 / 8.8 / 8.7 / 8.8 / 8.8 | Broader national historical narrative. |
+| [AE/sharjah-archaeology-museum](../../../countries/AE/sights/sharjah-archaeology-museum.yaml) | 7.3 / 7.9 / 8.4 / 7.7 / 7.6 | Comparable regional archaeology focus. |
+| [HK/hong-kong-museum-of-history](../../../countries/HK/sights/hong-kong-museum-of-history.yaml) | 8.2 / 8.5 / 8.7 / 8.4 / 8.6 | Different city history context. |
+| [AE/mleiha-archaeological-centre-and-sites](../../../countries/AE/sights/mleiha-archaeological-centre-and-sites.yaml) | 7.8 / 8.6 / 9.1 / 8.2 / 8.0 | Includes archaeological landscapes beyond galleries. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Renewed exhibition spaces and historic setting. |
+| Uniqueness | 8.5 | Local archaeological collection. |
+| Significance | 8.8 | Foundational UAE museum with regional archaeology significance. |
+| Experience | 8.5 | Redeveloped visitor galleries. |
+| Depth | 8.6 | Multiple periods and historical interpretation. |
+
+- Applicable categories: history:9.2, culture:9.0, architecture:8.5.
+- Computed worldwide overall: 84.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
