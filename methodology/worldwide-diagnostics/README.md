@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15146; unassessed: 1123.
+Ranked: 15160; unassessed: 1109.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 618 |
+| conflicting-declared-status | 632 |
 | evidence-review | 13662 |
-| field-9.5-plus | 2114 |
+| field-9.5-plus | 2115 |
 | historical-review-only | 2516 |
-| incomplete-core | 1123 |
+| incomplete-core | 1109 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1838 |
+| overall-90-plus | 1839 |
 | overall-95-plus | 163 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -149,7 +149,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | DO | cities | 12 | 12 | 74.48 | 0 | 0 | 0 | 12 | [Santo Domingo](../../countries/DO/cities/santo-domingo.yaml) 88.40; [Puerto Plata](../../countries/DO/cities/puerto-plata.yaml) 80.20; [Santiago de los Caballeros](../../countries/DO/cities/santiago-de-los-caballeros.yaml) 77.35 |
 | DO | sights | 34 | 23 | 83.45 | 1 | 0 | 0 | 34 | [Colonial City of Santo Domingo](../../countries/DO/sights/colonial-city-santo-domingo.yaml) 91.25; [Los Haitises National Park](../../countries/DO/sights/los-haitises-national-park.yaml) 89.55; [Jaragua National Park](../../countries/DO/sights/jaragua-national-park.yaml) 87.70 |
 | DZ | cities | 11 | 11 | 83.10 | 0 | 0 | 0 | 11 | [Algiers](../../countries/DZ/cities/algiers.yaml) 88.60; [Constantine](../../countries/DZ/cities/constantine.yaml) 87.85; [Ghardaïa](../../countries/DZ/cities/ghardaia.yaml) 86.60 |
-| DZ | sights | 25 | 15 | 88.55 | 7 | 1 | 5 | 25 | [Tassili n’Ajjer](../../countries/DZ/sights/tassili-n-ajjer.yaml) 96.60; [Timgad](../../countries/DZ/sights/timgad.yaml) 93.05; [Djémila](../../countries/DZ/sights/djemila.yaml) 92.90 |
+| DZ | sights | 25 | 19 | 88.30 | 7 | 1 | 6 | 25 | [Tassili n’Ajjer](../../countries/DZ/sights/tassili-n-ajjer.yaml) 96.60; [Timgad](../../countries/DZ/sights/timgad.yaml) 93.05; [Djémila](../../countries/DZ/sights/djemila.yaml) 92.90 |
 | EC | cities | 36 | 36 | 71.52 | 1 | 0 | 0 | 36 | [Quito](../../countries/EC/cities/quito.yaml) 90.35; [Cuenca](../../countries/EC/cities/cuenca.yaml) 87.85; [Otavalo](../../countries/EC/cities/otavalo.yaml) 82.40 |
 | EC | sights | 55 | 54 | 84.70 | 7 | 1 | 12 | 55 | [Galápagos Islands (World Heritage property)](../../countries/EC/sights/galapagos-islands-world-heritage-property.yaml) 98.00; [Historic Centre of Quito](../../countries/EC/sights/historic-centre-of-quito.yaml) 92.50; [Yasuní National Park](../../countries/EC/sights/yasuni-national-park.yaml) 91.85 |
 | EE | cities | 15 | 15 | 74.15 | 0 | 0 | 0 | 15 | [Tallinn](../../countries/EE/cities/tallinn.yaml) 89.95; [Tartu](../../countries/EE/cities/tartu.yaml) 82.10; [Kuressaare](../../countries/EE/cities/kuressaare.yaml) 80.80 |
@@ -299,7 +299,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | LY | cities | 11 | 4 | 82.52 | 0 | 0 | 0 | 11 | [Ghadamès](../../countries/LY/cities/ghadames.yaml) 89.05; [Tripoli](../../countries/LY/cities/tripoli.yaml) 84.80; [Nalut](../../countries/LY/cities/nalut.yaml) 80.25 |
 | LY | sights | 20 | 15 | 87.40 | 5 | 1 | 6 | 20 | [Leptis Magna Archaeological Site](../../countries/LY/sights/leptis-magna.yaml) 96.30; [Rock-Art Sites of Tadrart Acacus](../../countries/LY/sights/tadrart-acacus.yaml) 93.45; [Cyrene Archaeological Site](../../countries/LY/sights/cyrene.yaml) 93.25 |
 | MA | cities | 12 | 12 | 85.82 | 2 | 0 | 1 | 12 | [Fez](../../countries/MA/cities/fez.yaml) 92.20; [Marrakech](../../countries/MA/cities/marrakech.yaml) 91.20; [Essaouira](../../countries/MA/cities/essaouira.yaml) 87.35 |
-| MA | sights | 32 | 24 | 88.65 | 7 | 0 | 6 | 32 | [Medina of Fez](../../countries/MA/sights/medina-fez.yaml) 94.60; [Medina of Marrakesh](../../countries/MA/sights/medina-marrakech.yaml) 94.10; [Ksar of Ait-Ben-Haddou](../../countries/MA/sights/ait-ben-haddou.yaml) 91.85 |
+| MA | sights | 32 | 27 | 87.55 | 7 | 0 | 6 | 32 | [Medina of Fez](../../countries/MA/sights/medina-fez.yaml) 94.60; [Medina of Marrakesh](../../countries/MA/sights/medina-marrakech.yaml) 94.10; [Ksar of Ait-Ben-Haddou](../../countries/MA/sights/ait-ben-haddou.yaml) 91.85 |
 | MC | cities | 1 | 1 | 84.20 | 0 | 0 | 0 | 1 | [Monaco](../../countries/MC/cities/monaco.yaml) 84.20 |
 | MC | sights | 29 | 27 | 78.35 | 0 | 0 | 0 | 29 | [Oceanographic Museum of Monaco](../../countries/MC/sights/oceanographic-museum-of-monaco.yaml) 88.60; [Prince's Palace State Apartments](../../countries/MC/sights/prince-s-palace-state-apartments.yaml) 85.85; [Monte-Carlo Casino Heritage Visit](../../countries/MC/sights/monte-carlo-casino-heritage-visit.yaml) 85.45 |
 | MD | cities | 18 | 18 | 69.40 | 0 | 0 | 0 | 18 | [Chișinău](../../countries/MD/cities/chisinau.yaml) 80.25; [Butuceni](../../countries/MD/cities/butuceni.yaml) 79.80; [Soroca](../../countries/MD/cities/soroca.yaml) 78.60 |
@@ -471,7 +471,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | TM | cities | 12 | 11 | 69.10 | 0 | 0 | 0 | 12 | [Ashgabat](../../countries/TM/cities/ashgabat.yaml) 83.00; [Nokhur](../../countries/TM/cities/nokhur.yaml) 76.95; [Turkmenbashi](../../countries/TM/cities/turkmenbashi.yaml) 71.30 |
 | TM | sights | 40 | 23 | 82.20 | 1 | 0 | 3 | 40 | [Ancient Merv Historical and Cultural Park](../../countries/TM/sights/ancient-merv-historical-and-cultural-park.yaml) 90.65; [Kunya-Urgench Archaeological Ensemble](../../countries/TM/sights/kunya-urgench-archaeological-ensemble.yaml) 89.55; [Yangykala Canyon](../../countries/TM/sights/yangykala-canyon.yaml) 89.10 |
 | TN | cities | 11 | 11 | 79.95 | 0 | 0 | 0 | 11 | [Tunis](../../countries/TN/cities/tunis.yaml) 88.10; [Kairouan](../../countries/TN/cities/kairouan.yaml) 86.50; [Sousse](../../countries/TN/cities/sousse.yaml) 82.95 |
-| TN | sights | 30 | 19 | 87.70 | 6 | 0 | 5 | 30 | [Dougga / Thugga](../../countries/TN/sights/dougga.yaml) 93.15; [Amphitheatre of El Jem](../../countries/TN/sights/el-jem-amphitheatre.yaml) 93.15; [Bardo National Museum](../../countries/TN/sights/bardo-national-museum.yaml) 91.95 |
+| TN | sights | 30 | 26 | 87.72 | 7 | 0 | 5 | 30 | [Dougga / Thugga](../../countries/TN/sights/dougga.yaml) 93.15; [Amphitheatre of El Jem](../../countries/TN/sights/el-jem-amphitheatre.yaml) 93.15; [Bardo National Museum](../../countries/TN/sights/bardo-national-museum.yaml) 91.95 |
 | TO | cities | 7 | 6 | 69.85 | 0 | 0 | 0 | 7 | [Mu'a](../../countries/TO/cities/mua.yaml) 75.70; [Nuku'alofa](../../countries/TO/cities/nukualofa.yaml) 75.45; [Neiafu](../../countries/TO/cities/neiafu.yaml) 73.50 |
 | TO | sights | 18 | 16 | 79.38 | 0 | 0 | 0 | 18 | [Vavaʻu Marine Landscape](../../countries/TO/sights/vavau-marine-landscape.yaml) 89.85; [The Ancient Capitals of the Kingdom of Tonga](../../countries/TO/sights/ancient-capitals.yaml) 84.90; [Lapaha Royal Tombs](../../countries/TO/sights/lapaha-royal-tombs.yaml) 82.60 |
 | TR | cities | 20 | 20 | 84.02 | 1 | 0 | 1 | 20 | [Istanbul](../../countries/TR/cities/istanbul.yaml) 94.20; [Mardin](../../countries/TR/cities/mardin.yaml) 87.30; [Bursa](../../countries/TR/cities/bursa.yaml) 85.75 |
