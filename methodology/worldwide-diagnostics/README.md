@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 14944; unassessed: 1325.
+Ranked: 14947; unassessed: 1322.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -13,9 +13,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | evidence-review | 13662 |
 | field-9.5-plus | 2110 |
 | historical-review-only | 2516 |
-| incomplete-core | 1325 |
+| incomplete-core | 1322 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1802 |
+| overall-90-plus | 1803 |
 | overall-95-plus | 159 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -413,7 +413,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | SA | cities | 18 | 18 | 75.48 | 2 | 0 | 0 | 18 | [Mecca](../../countries/SA/cities/mecca.yaml) 92.85; [Medina](../../countries/SA/cities/medina.yaml) 90.00; [Jeddah](../../countries/SA/cities/jeddah.yaml) 86.50 |
 | SA | sights | 49 | 33 | 82.80 | 1 | 0 | 0 | 49 | [Hegra Archaeological Site](../../countries/SA/sights/hegra.yaml) 91.60; [Rub al Khali (Saudi Empty Quarter)](../../countries/SA/sights/rub-al-khali.yaml) 89.40; [Historic Jeddah (Al-Balad)](../../countries/SA/sights/historic-jeddah.yaml) 89.10 |
 | SB | cities | 9 | 9 | 66.55 | 0 | 0 | 0 | 9 | [Honiara](../../countries/SB/cities/honiara.yaml) 73.90; [Gizo](../../countries/SB/cities/gizo.yaml) 71.05; [Tulagi](../../countries/SB/cities/tulagi.yaml) 71.05 |
-| SB | sights | 16 | 13 | 79.60 | 1 | 0 | 0 | 16 | [Marovo Lagoon](../../countries/SB/sights/marovo-lagoon.yaml) 90.25; [Kolombangara Central Caldera Forests](../../countries/SB/sights/kolombangara-central-caldera-forests.yaml) 88.55; [Tetepare Island](../../countries/SB/sights/tetepare-island.yaml) 87.60 |
+| SB | sights | 16 | 15 | 85.25 | 2 | 0 | 0 | 16 | [Marovo–Tetepare Complex](../../countries/SB/sights/marovo-tetepare-complex.yaml) 91.20; [Marovo Lagoon](../../countries/SB/sights/marovo-lagoon.yaml) 90.25; [Kolombangara Central Caldera Forests](../../countries/SB/sights/kolombangara-central-caldera-forests.yaml) 88.55 |
 | SC | cities | 14 | 14 | 68.52 | 0 | 0 | 0 | 14 | [La Passe (La Digue)](../../countries/SC/cities/la-passe-la-digue.yaml) 78.65; [Victoria](../../countries/SC/cities/victoria.yaml) 77.90; [Beau Vallon](../../countries/SC/cities/beau-vallon.yaml) 72.30 |
 | SC | sights | 49 | 48 | 80.80 | 3 | 0 | 4 | 49 | [Aldabra Atoll](../../countries/SC/sights/aldabra-atoll.yaml) 92.20; [Vallée de Mai Nature Reserve](../../countries/SC/sights/vallee-de-mai-nature-reserve.yaml) 91.65; [Anse Source d'Argent](../../countries/SC/sights/anse-source-d-argent.yaml) 90.65 |
 | SD | cities | 9 | 7 | 73.10 | 0 | 0 | 0 | 9 | [Omdurman](../../countries/SD/cities/omdurman.yaml) 80.75; [Suakin](../../countries/SD/cities/suakin.yaml) 80.75; [Kassala](../../countries/SD/cities/kassala.yaml) 79.25 |
@@ -467,7 +467,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | TK | cities | 5 | 0 |  | 0 | 0 | 0 | 5 |  |
 | TK | sights | 4 | 0 |  | 0 | 0 | 0 | 4 |  |
 | TL | cities | 24 | 24 | 73.12 | 0 | 0 | 0 | 24 | [Dili](../../countries/TL/cities/dili.yaml) 80.30; [Baucau](../../countries/TL/cities/baucau.yaml) 79.90; [Maubisse](../../countries/TL/cities/maubisse.yaml) 78.60 |
-| TL | sights | 38 | 36 | 78.28 | 2 | 0 | 1 | 38 | [Atauro Island Reefs](../../countries/TL/sights/atauro-island-reefs.yaml) 94.70; [Nino Konis Santana National Park](../../countries/TL/sights/nino-konis-santana-national-park.yaml) 90.30; [Mount Ramelau (Tatamailau)](../../countries/TL/sights/mount-ramelau-tatamailau.yaml) 87.35 |
+| TL | sights | 38 | 37 | 78.35 | 2 | 0 | 1 | 38 | [Atauro Island Reefs](../../countries/TL/sights/atauro-island-reefs.yaml) 94.70; [Nino Konis Santana National Park](../../countries/TL/sights/nino-konis-santana-national-park.yaml) 90.30; [Mount Ramelau (Tatamailau)](../../countries/TL/sights/mount-ramelau-tatamailau.yaml) 87.35 |
 | TM | cities | 12 | 11 | 69.10 | 0 | 0 | 0 | 12 | [Ashgabat](../../countries/TM/cities/ashgabat.yaml) 83.00; [Nokhur](../../countries/TM/cities/nokhur.yaml) 76.95; [Turkmenbashi](../../countries/TM/cities/turkmenbashi.yaml) 71.30 |
 | TM | sights | 40 | 23 | 82.20 | 1 | 0 | 3 | 40 | [Ancient Merv Historical and Cultural Park](../../countries/TM/sights/ancient-merv-historical-and-cultural-park.yaml) 90.65; [Kunya-Urgench Archaeological Ensemble](../../countries/TM/sights/kunya-urgench-archaeological-ensemble.yaml) 89.55; [Yangykala Canyon](../../countries/TM/sights/yangykala-canyon.yaml) 89.10 |
 | TN | cities | 11 | 11 | 79.95 | 0 | 0 | 0 | 11 | [Tunis](../../countries/TN/cities/tunis.yaml) 88.10; [Kairouan](../../countries/TN/cities/kairouan.yaml) 86.50; [Sousse](../../countries/TN/cities/sousse.yaml) 82.95 |
