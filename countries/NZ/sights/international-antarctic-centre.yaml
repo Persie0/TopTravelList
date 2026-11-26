@@ -1,0 +1,16 @@
+id: sight-nz-international-antarctic-centre
+name: "International Antarctic Centre (Christchurch)"
+location:
+  country_code: NZ
+  latitude: -43.48861
+  longitude: 172.54694
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.0
+  experience: 8.9
+  depth: 8.4
+  categories:
+    family: 9.1
+    culture: 8.6
+    nature: 8.3

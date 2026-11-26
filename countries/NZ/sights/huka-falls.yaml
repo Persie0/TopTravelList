@@ -1,0 +1,15 @@
+id: sight-nz-huka-falls
+name: "Huka Falls"
+location:
+  country_code: NZ
+  latitude: -38.64875
+  longitude: 176.08992
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.7
+  depth: 7.4
+  categories:
+    nature: 8.9
+    photography: 9.1

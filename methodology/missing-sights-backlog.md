@@ -378,3 +378,18 @@ Six additions, 24 peer comparisons; US 136 ranked. Published map coordinates and
 - [x] NZ — Sky Tower (Auckland): 82.95/100 (source-linked-unverified).
 
 Six additions, 24 peer comparisons; NZ 42 ranked / 44 total. Auckland Museum restricted galleries documented; all sites independently scoped. Existing NZ candidates resolved by aliases as recorded in the country tracker. Remaining meaningful gaps include missing national parks and selected cultural/nature sights; country remains OPEN, not a quota-driven search. Full peer YAML cross-check, Python validation and diagnostics pending.
+
+
+### Pass 37 — New Zealand national parks and remaining priority institutions
+
+- [x] NZ — Arthur's Pass National Park: 89.15/100 (source-linked-unverified).
+- [x] NZ — Nelson Lakes National Park: 88.10/100 (source-linked-unverified).
+- [x] NZ — Paparoa National Park: 89.00/100 (source-linked-unverified).
+- [x] NZ — Whanganui National Park: 88.85/100 (source-linked-unverified).
+- [x] NZ — Te Papa-Kura-o-Taranaki (formerly Egmont National Park): 90.75/100 (source-linked-unverified).
+- [x] NZ — Huka Falls: 84.15/100 (source-linked-unverified).
+- [x] NZ — Auckland Art Gallery Toi o Tāmaki: 87.95/100 (source-linked-unverified).
+- [x] NZ — Tūhura Otago Museum: 86.45/100 (source-linked-unverified).
+- [x] NZ — International Antarctic Centre (Christchurch): 84.95/100 (source-linked-unverified).
+
+Nine additions, 36 peer comparisons with links and dimensions matched against current country ranking rows. NZ 51 ranked / 53 total. All current DOC national parks represented, including Te Papa-Kura-o-Taranaki under its current legal name. Paparoa excludes Pancake Rocks in assessment. Existing ratings unchanged. Tourism NZ highlights identified concrete remaining natural gaps, tracked for final screen rather than filler. Full Python validation and individual peer YAML checks remain pending.
