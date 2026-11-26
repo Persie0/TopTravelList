@@ -1,7 +1,7 @@
 # Worldwide record-level diagnostic
 
 **250 registered areas; 16269 source records screened.**
-Ranked: 15131; unassessed: 1138.
+Ranked: 15139; unassessed: 1130.
 
 This is an automatically regenerated diagnostic, not an individual editorial reassessment or proof of bias. No scores are changed. Type is inferred from names; missing review headings may be parser limitations. Declared evidence statuses are not independent checks. Shared GPS and nearby names may denote legitimate nested attractions. Country medians depend on selection and are not country quality scores.
 
@@ -9,13 +9,13 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 603 |
+| conflicting-declared-status | 611 |
 | evidence-review | 13662 |
 | field-9.5-plus | 2114 |
 | historical-review-only | 2516 |
-| incomplete-core | 1138 |
+| incomplete-core | 1130 |
 | no-recognized-review-heading | 65 |
-| overall-90-plus | 1835 |
+| overall-90-plus | 1838 |
 | overall-95-plus | 163 |
 | repeated-core-profile | 52 |
 | shared-representative-gps | 242 |
@@ -107,9 +107,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CD | cities | 8 | 5 | 76.05 | 0 | 0 | 0 | 8 | [Kinshasa](../../countries/CD/cities/kinshasa.yaml) 83.05; [Kisangani](../../countries/CD/cities/kisangani.yaml) 77.40; [Boma](../../countries/CD/cities/boma.yaml) 76.05 |
 | CD | sights | 17 | 10 | 87.48 | 4 | 0 | 8 | 17 | [Virunga National Park](../../countries/CD/sights/virunga-national-park.yaml) 94.90; [Nyiragongo Volcano](../../countries/CD/sights/nyiragongo-volcano.yaml) 93.35; [Kahuzi-Biega National Park](../../countries/CD/sights/kahuzi-biega-national-park.yaml) 92.10 |
 | CF | cities | 10 | 2 | 71.02 | 0 | 0 | 0 | 10 | [Bangui](../../countries/CF/cities/bangui.yaml) 73.35; [Bayanga](../../countries/CF/cities/bayanga.yaml) 68.70 |
-| CF | sights | 25 | 8 | 79.48 | 3 | 0 | 3 | 25 | [Dzanga-Ndoki National Park (Sangha Trinational CAR component)](../../countries/CF/sights/dzanga-ndoki-national-park-sangha-trinational-car-component.yaml) 93.80; [Dzanga Bai](../../countries/CF/sights/dzanga-bai.yaml) 92.65; [Bai Hokou Gorilla Tracking](../../countries/CF/sights/bai-hokou-gorilla-tracking.yaml) 90.45 |
+| CF | sights | 25 | 9 | 79.60 | 4 | 0 | 3 | 25 | [Dzanga-Ndoki National Park (Sangha Trinational CAR component)](../../countries/CF/sights/dzanga-ndoki-national-park-sangha-trinational-car-component.yaml) 93.80; [Dzanga Bai](../../countries/CF/sights/dzanga-bai.yaml) 92.65; [Mongambe Gorilla Tracking](../../countries/CF/sights/mongambe-gorilla-tracking.yaml) 91.05 |
 | CG | cities | 12 | 12 | 68.00 | 0 | 0 | 0 | 12 | [Brazzaville](../../countries/CG/cities/brazzaville.yaml) 80.55; [Pointe-Noire](../../countries/CG/cities/pointe-noire.yaml) 74.80; [Mbé](../../countries/CG/cities/mbe.yaml) 73.10 |
-| CG | sights | 29 | 21 | 80.50 | 4 | 0 | 6 | 29 | [Odzala-Kokoua National Park (Forest Massif)](../../countries/CG/sights/odzala-kokoua-national-park-forest-massif.yaml) 94.15; [Nouabalé-Ndoki National Park (Sangha Trinational Congo component)](../../countries/CG/sights/nouabale-ndoki-national-park-sangha-trinational-congo-component.yaml) 93.35; [Ngaga Forest Gorilla Tracking (authorized routes)](../../countries/CG/sights/ngaga-forest-gorilla-tracking-authorized-routes.yaml) 90.60 |
+| CG | sights | 29 | 23 | 81.15 | 4 | 0 | 6 | 29 | [Odzala-Kokoua National Park (Forest Massif)](../../countries/CG/sights/odzala-kokoua-national-park-forest-massif.yaml) 94.15; [Nouabalé-Ndoki National Park (Sangha Trinational Congo component)](../../countries/CG/sights/nouabale-ndoki-national-park-sangha-trinational-congo-component.yaml) 93.35; [Ngaga Forest Gorilla Tracking (authorized routes)](../../countries/CG/sights/ngaga-forest-gorilla-tracking-authorized-routes.yaml) 90.60 |
 | CH | cities | 20 | 20 | 85.18 | 0 | 0 | 0 | 20 | [Bern](../../countries/CH/cities/bern.yaml) 89.50; [Lucerne](../../countries/CH/cities/lucerne.yaml) 88.20; [Basel](../../countries/CH/cities/basel.yaml) 87.75 |
 | CH | sights | 45 | 45 | 88.55 | 17 | 0 | 15 | 45 | [Swiss Alps Jungfrau-Aletsch](../../countries/CH/sights/jungfrau-aletsch.yaml) 94.90; [Matterhorn scenic mountain landscape (Swiss side)](../../countries/CH/sights/matterhorn.yaml) 93.30; [Rhaetian Railway Albula and Bernina landscapes (Swiss section)](../../countries/CH/sights/rhaetian-railway.yaml) 93.10 |
 | CI | cities | 10 | 10 | 78.15 | 0 | 0 | 0 | 10 | [Grand-Bassam](../../countries/CI/cities/grand-bassam.yaml) 85.15; [Abidjan](../../countries/CI/cities/abidjan.yaml) 84.85; [Kong](../../countries/CI/cities/kong.yaml) 79.90 |
@@ -119,7 +119,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | CL | cities | 33 | 33 | 74.90 | 0 | 0 | 0 | 33 | [Valparaíso](../../countries/CL/cities/valparaiso.yaml) 87.75; [Santiago](../../countries/CL/cities/santiago.yaml) 84.70; [Hanga Roa](../../countries/CL/cities/hanga-roa.yaml) 84.35 |
 | CL | sights | 67 | 66 | 85.90 | 8 | 2 | 33 | 67 | [Rapa Nui National Park](../../countries/CL/sights/rapa-nui-national-park.yaml) 96.90; [Torres del Paine National Park](../../countries/CL/sights/torres-del-paine-national-park.yaml) 96.25; [Rano Raraku](../../countries/CL/sights/rano-raraku.yaml) 94.55 |
 | CM | cities | 10 | 10 | 77.92 | 0 | 0 | 0 | 10 | [Foumban](../../countries/CM/cities/foumban.yaml) 83.15; [Limbe](../../countries/CM/cities/limbe.yaml) 80.10; [Douala](../../countries/CM/cities/douala.yaml) 79.75 |
-| CM | sights | 28 | 14 | 88.00 | 3 | 0 | 5 | 28 | [Lobéké National Park](../../countries/CM/sights/lobeke-national-park.yaml) 92.05; [Dja Faunal Reserve](../../countries/CM/sights/dja-faunal-reserve.yaml) 91.00; [Korup National Park](../../countries/CM/sights/korup-national-park.yaml) 90.50 |
+| CM | sights | 28 | 16 | 87.98 | 3 | 0 | 5 | 28 | [Lobéké National Park](../../countries/CM/sights/lobeke-national-park.yaml) 92.05; [Dja Faunal Reserve](../../countries/CM/sights/dja-faunal-reserve.yaml) 91.00; [Korup National Park](../../countries/CM/sights/korup-national-park.yaml) 90.50 |
 | CN | cities | 229 | 229 | 78.90 | 10 | 3 | 13 | 1 | [Beijing](../../countries/CN/cities/beijing.yaml) 97.40; [Lhasa](../../countries/CN/cities/lhasa.yaml) 95.40; [Xi'an](../../countries/CN/cities/xi-an.yaml) 95.20 |
 | CN | sights | 467 | 467 | 88.90 | 170 | 20 | 152 | 9 | [Forbidden City (Palace Museum)](../../countries/CN/sights/forbidden-city.yaml) 98.65; [Terracotta Army of Qin Shi Huang](../../countries/CN/sights/terracotta-army.yaml) 98.35; [Mount Huangshan (Yellow Mountain)](../../countries/CN/sights/mount-huangshan.yaml) 97.65 |
 | CO | cities | 46 | 46 | 74.18 | 1 | 0 | 1 | 46 | [Cartagena](../../countries/CO/cities/cartagena.yaml) 91.15; [Bogotá](../../countries/CO/cities/bogota.yaml) 85.75; [Medellín](../../countries/CO/cities/medellin.yaml) 85.60 |
@@ -177,7 +177,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | FR | cities | 25 | 25 | 87.70 | 3 | 1 | 4 | 25 | [Paris](../../countries/FR/cities/paris.yaml) 97.30; [Lyon](../../countries/FR/cities/lyon.yaml) 90.85; [Strasbourg](../../countries/FR/cities/strasbourg.yaml) 90.60 |
 | FR | sights | 98 | 87 | 90.55 | 54 | 3 | 53 | 98 | [Louvre Museum](../../countries/FR/sights/louvre.yaml) 96.30; [Palace and Park of Versailles](../../countries/FR/sights/versailles.yaml) 96.30; [Paris Banks of the Seine](../../countries/FR/sights/seine-banks.yaml) 95.50 |
 | GA | cities | 14 | 14 | 68.28 | 0 | 0 | 0 | 14 | [Lambaréné](../../countries/GA/cities/lambarene.yaml) 79.10; [Libreville](../../countries/GA/cities/libreville.yaml) 77.20; [Mayumba](../../countries/GA/cities/mayumba.yaml) 72.10 |
-| GA | sights | 32 | 22 | 83.42 | 3 | 0 | 5 | 32 | [Loango National Park](../../countries/GA/sights/loango-national-park.yaml) 94.75; [Ivindo National Park](../../countries/GA/sights/ivindo-national-park.yaml) 93.40; [Lopé National Park and Okanda visitor sector](../../countries/GA/sights/lope-national-park-and-okanda-visitor-sector.yaml) 90.95 |
+| GA | sights | 32 | 24 | 83.82 | 4 | 0 | 5 | 32 | [Loango National Park](../../countries/GA/sights/loango-national-park.yaml) 94.75; [Ivindo National Park](../../countries/GA/sights/ivindo-national-park.yaml) 93.40; [Ecosystem and Relict Cultural Landscape of Lopé-Okanda (serial UNESCO property)](../../countries/GA/sights/ecosystem-and-relict-cultural-landscape-of-lope-okanda-serial-unesco-property.yaml) 93.15 |
 | GB | cities | 30 | 30 | 85.12 | 5 | 1 | 3 | 30 | [London](../../countries/GB/cities/london.yaml) 96.65; [Edinburgh](../../countries/GB/cities/edinburgh.yaml) 92.90; [Bath](../../countries/GB/cities/bath.yaml) 91.05 |
 | GB | sights | 78 | 78 | 88.92 | 33 | 0 | 22 | 78 | [British Museum](../../countries/GB/sights/british-museum.yaml) 94.90; [Palace of Westminster and Westminster Abbey precinct](../../countries/GB/sights/westminster.yaml) 94.30; [Tower of London](../../countries/GB/sights/tower-of-london.yaml) 93.75 |
 | GD | cities | 12 | 12 | 72.18 | 0 | 0 | 0 | 12 | [St George's](../../countries/GD/cities/st-george-s.yaml) 84.60; [Windward (Carriacou)](../../countries/GD/cities/windward-carriacou.yaml) 76.50; [Hillsborough](../../countries/GD/cities/hillsborough.yaml) 75.70 |
@@ -455,7 +455,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | TC | cities | 3 | 3 | 77.30 | 0 | 0 | 0 | 3 | [Cockburn Town (Grand Turk)](../../countries/TC/cities/cockburn-town.yaml) 80.40; [Balfour Town (Salt Cay)](../../countries/TC/cities/balfour-town.yaml) 77.30; [Cockburn Harbour (South Caicos)](../../countries/TC/cities/cockburn-harbour.yaml) 76.35 |
 | TC | sights | 12 | 12 | 85.05 | 0 | 0 | 0 | 12 | [Chalk Sound National Park (Providenciales)](../../countries/TC/sights/chalk-sound.yaml) 88.55; [Grand Turk Wall (permitted dive sites)](../../countries/TC/sights/grand-turk-wall.yaml) 87.90; [Little Water Cay (Iguana Island)](../../countries/TC/sights/little-water-cay.yaml) 86.70 |
 | TD | cities | 10 | 9 | 72.20 | 0 | 0 | 0 | 10 | [Abéché](../../countries/TD/cities/abeche.yaml) 80.10; [Bardaï](../../countries/TD/cities/bardai.yaml) 75.20; [Ounianga Kébir](../../countries/TD/cities/ounianga-kebir.yaml) 73.85 |
-| TD | sights | 25 | 14 | 88.28 | 6 | 1 | 9 | 25 | [Ennedi Massif Natural and Cultural Landscape](../../countries/TD/sights/ennedi-massif-natural-and-cultural-landscape.yaml) 95.70; [Lakes of Ounianga](../../countries/TD/sights/lakes-of-ounianga.yaml) 93.85; [Zakouma National Park](../../countries/TD/sights/zakouma-national-park.yaml) 93.05 |
+| TD | sights | 25 | 15 | 89.65 | 7 | 1 | 9 | 25 | [Ennedi Massif Natural and Cultural Landscape](../../countries/TD/sights/ennedi-massif-natural-and-cultural-landscape.yaml) 95.70; [Lakes of Ounianga](../../countries/TD/sights/lakes-of-ounianga.yaml) 93.85; [Zakouma National Park](../../countries/TD/sights/zakouma-national-park.yaml) 93.05 |
 | TF | cities | 0 | 0 |  | 0 | 0 | 0 | 0 |  |
 | TF | sights | 6 | 0 |  | 0 | 0 | 1 | 6 |  |
 | TG | cities | 16 | 15 | 72.40 | 0 | 0 | 0 | 16 | [Lomé](../../countries/TG/cities/lome.yaml) 79.90; [Aného](../../countries/TG/cities/aneho.yaml) 79.60; [Togoville](../../countries/TG/cities/togoville.yaml) 78.30 |
