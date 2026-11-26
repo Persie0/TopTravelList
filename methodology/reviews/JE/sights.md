@@ -332,6 +332,15 @@ Core I/U/S/E/D, subject minus peer. Numerical profiles verified during the prece
 - [Plantation House and tortoise grounds (SH)](../../../countries/SH/sights/plantation-house.yaml) — 8.0/8.8/8.6/8.1/7.4; subject minus peer: I +0.0, U -0.5, S -0.2, E +0.4, D +0.9.
 - [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; subject minus peer: I +0.2, U +0.3, S +0.6, E +0.4, D +0.6.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Current branch YAML core profiles, I/U/S/E/D. These closer peers supplement the historical comparisons; no score changes or independent factual verification implied.
+
+- [edo tokyo open air architectural museum (JP)](../../../countries/JP/sights/edo-tokyo-open-air-architectural-museum.yaml) — 8.3/8.7/8.4/8.8/8.8; More extensive collection of historical buildings.
+- [yangdong folk village (KR)](../../../countries/KR/sights/yangdong-folk-village.yaml) — 8.9/9.2/9.3/9.1/8.7; Larger living vernacular settlement with greater heritage significance.
+- [jan karlsgarden (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; Closer bounded open-air domestic heritage museum.
+- [sarawak cultural village (MY)](../../../countries/MY/sights/sarawak-cultural-village.yaml) — 8.4/8.7/8.2/8.8/8.4; More extensive interpreted traditional architecture and cultural demonstrations.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -772,6 +781,15 @@ Core I/U/S/E/D, subject minus peer. Numerical profiles verified during the prece
 - [Museum of Saint Helena (SH)](../../../countries/SH/sights/museum-st-helena.yaml) — 7.5/8.3/8.6/8.0/7.5; subject minus peer: I +0.3, U -0.4, S -0.6, E +0.5, D +0.1.
 - [Bermuda Aquarium, Museum and Zoo (BM)](../../../countries/BM/sights/aquarium-museum-zoo.yaml) — 8.0/8.3/8.4/8.6/8.4; subject minus peer: I -0.2, U -0.4, S -0.4, E -0.1, D -0.8.
 
+#### Targeted same-type comparison (2026-11-26)
+
+Current branch YAML core profiles, I/U/S/E/D. These closer peers supplement the historical comparisons; no score changes or independent factual verification implied.
+
+- [riga central market (LV)](../../../countries/LV/sights/riga-central-market.yaml) — 8.2/8.6/8.4/8.7/8.4; Much larger historic market halls and commercial variety.
+- [port louis central market (MU)](../../../countries/MU/sights/port-louis-central-market.yaml) — 7.5/7.9/7.5/8.5/7.3; Larger regional food market and urban cultural breadth.
+- [central market phnom penh (KH)](../../../countries/KH/sights/central-market-phnom-penh.yaml) — 8.3/8.6/8.5/9.0/8.8; More monumental market architecture and wider commercial scope.
+- [central market kuala lumpur (MY)](../../../countries/MY/sights/central-market-kuala-lumpur.yaml) — 7.5/7.4/7.3/8.1/7.7; Comparable adapted heritage market, greater craft rather than fresh food emphasis.
+
 ### Scoring decisions
 | Field | Rating | Individual justification |
 | --- | ---: | --- |
@@ -851,6 +869,15 @@ Core I/U/S/E/D, subject minus peer. Numerical profiles verified during the prece
 - [Château de Vaux-le-Vicomte (FR)](../../../countries/FR/sights/vaux-le-vicomte.yaml) — 9.2/9.1/9.1/9.0/9.1; subject minus peer: I -1.5, U -1.2, S -1.6, E -0.5, D -1.4.
 - [Plantation House and tortoise grounds (SH)](../../../countries/SH/sights/plantation-house.yaml) — 8.0/8.8/8.6/8.1/7.4; subject minus peer: I -0.3, U -0.9, S -1.1, E +0.4, D +0.3.
 - [Jan Karlsgården Open-Air Museum (AX)](../../../countries/AX/sights/jan-karlsgarden.yaml) — 7.8/8.0/7.8/8.1/7.7; subject minus peer: I -0.1, U -0.1, S -0.3, E +0.4, D +0.0.
+
+#### Targeted same-type comparison (2026-11-26)
+
+Current branch YAML core profiles, I/U/S/E/D. These closer peers supplement the historical comparisons; no score changes or independent factual verification implied.
+
+- [pico vineyards (PT)](../../../countries/PT/sights/pico-vineyards.yaml) — 8.9/9.3/9.2/8.8/8.8; Much broader distinctive historical volcanic vineyard landscape.
+- [primosten vineyards (HR)](../../../countries/HR/sights/primosten-vineyards.yaml) — 8.6/9.0/8.7/8.2/8.0; Comparable cultivated coastal landscape, different visitor production interpretation.
+- [negotin wine cellars (RS)](../../../countries/RS/sights/negotin-wine-cellars.yaml) — 8.4/8.9/8.7/8.6/8.5; More distinctive historic wine-production architecture and wider ensemble.
+- [cricova underground wine cellars (MD)](../../../countries/MD/sights/cricova-underground-wine-cellars.yaml) — 8.7/9.1/8.6/8.8/7.9; More unusual underground production and established tour breadth.
 
 ### Scoring decisions
 | Field | Rating | Individual justification |
