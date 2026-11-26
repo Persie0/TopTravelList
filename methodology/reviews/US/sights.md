@@ -2266,3 +2266,268 @@ UNESCO's [ten-component map](https://whc.unesco.org/en/list/353/maps/) includes 
 - Final decision: Include on individual merits. Provisional editorial score.
 - Earlier decision: none.
 - Verification still needed: secondary corroboration and current visitor access.
+
+### sight-us-mount-rainier-national-park — Mount Rainier National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/mount-rainier-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes forest, lake, meadow and glacier hikes, and the aerial feature gives coordinates for the glaciated volcano. Whole park scope. [Primary source](https://www.nps.gov/mora/planyourvisit/day-hiking-at-mount-rainier.htm), search excerpts inspected 2026-11-26.
+- Location check: 46.86075, -121.70439; [published reference](https://www.nps.gov/articles/parks-in-space.htm), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [JP/mount-fuji](../../../countries/JP/sights/mount-fuji.yaml) | Fuji has stronger singular cultural identity; Rainier has broader alpine hiking. |
+| [NZ/aoraki-mount-cook-national-park](../../../countries/NZ/sights/aoraki-mount-cook-national-park.yaml) | Aoraki has greater high-alpine glacier specialization. |
+| [CL/torres-del-paine-national-park](../../../countries/CL/sights/torres-del-paine-national-park.yaml) | Patagonian towers and lakes give more diverse iconic landforms. |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | Comparable alpine hiking; Glacier has more distributed peaks and valleys. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Isolated snowy summit and meadows have strong visual impact |
+| uniqueness | 8.7 | Glaciated volcano is distinctive but international analogues exist |
+| significance | 8.8 | Important volcanic and glacial environment |
+| experience | 9.1 | Varied hikes and mountain views |
+| depth | 9.1 | Multiple trail environments support extensive discovery |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.2.
+- Computed worldwide overall: 89.70/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+### sight-us-sequoia-national-park — Sequoia National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/sequoia-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: Giant Forest has massive sequoia groves including General Sherman, trails, meadows and granite peaks. Coordinates are Giant Forest Museum, a representative in-park point, not park center; exclude Kings Canyon. [Primary source](https://www.nps.gov/seki/planyourvisit/giant-forest-and-lodgepole.htm), search excerpts inspected 2026-11-26.
+- Location check: 36.564688, -118.772683; [published reference](https://www.nps.gov/planyourvisit/event-details.htm?id=F0F2D31A-05FF-2B6A-E6A9D4BEAF6A8FFB), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/redwood-parks](../../../countries/US/sights/redwood-parks.yaml) | Redwood emphasizes tree height, Sequoia volume and montane groves. |
+| [JP/yakushima-ancient-cedar-forest](../../../countries/JP/sights/yakushima-ancient-cedar-forest.yaml) | Yakushima has ancient cedars and mossy forest; sequoia size stands out. |
+| [AU/daintree-rainforest](../../../countries/AU/sights/daintree-rainforest.yaml) | Daintree has greater tropical biodiversity and evolutionary scope. |
+| [NZ/westland-tai-poutini-national-park](../../../countries/NZ/sights/westland-tai-poutini-national-park.yaml) | Westland has more glacial contrast; Sequoia has signature giant trees. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Immense tree and grove scale |
+| uniqueness | 9.4 | Largest trees by volume and concentrated groves are globally rare |
+| significance | 9.2 | Ancient trees and forest ecology have strong significance |
+| experience | 9.0 | Engaging grove walking and interpretation |
+| depth | 9.0 | Groves and mountain trails extend beyond one tree |
+
+- Applicable categories: nature:9.4, photography:9.2, adventure:8.8.
+- Computed worldwide overall: 91.70/100.
+- High-score challenge: 90+ based on specific rare qualities and breadth above; below the world-leading Grand Canyon or Yellowstone benchmarks. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+### sight-us-katmai-national-park — Katmai National Park and Preserve — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/katmai-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes Novarupta volcanic landscape, brown bears and salmon habitat; Brooks Camp hiking page (https://www.nps.gov/katm/planyourvisit/hiking-in-brooks-camp.htm) documents seasonal bear viewing. [Primary source](https://www.nps.gov/katm/index.htm), search excerpts inspected 2026-11-26.
+- Location check: 58.62236, -155.01266; [published reference](https://www.nps.gov/articles/parks-in-space.htm), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [TZ/serengeti-national-park](../../../countries/TZ/sights/serengeti-national-park.yaml) | Serengeti has much broader wildlife diversity; Katmai specializes in bears. |
+| [BW/okavango-delta](../../../countries/BW/sights/okavango-delta.yaml) | Okavango has greater wetland safari diversity; Katmai is volcano and bear focused. |
+| [IS/vatnajokull](../../../countries/IS/sights/vatnajokull.yaml) | Vatnajökull has broader ice-volcano landscapes, not bear-focused. |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | Denali has greater alpine scale, Katmai more specialized salmon-bear viewing. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Bear viewing and volcanic wilderness are memorable |
+| uniqueness | 9.3 | Salmon-feeding bears and recent volcanic terrain are unusual in combination |
+| significance | 9.1 | Important volcanic history and bear habitat |
+| experience | 8.9 | Regulated seasonal viewing and hiking, sightings not guaranteed |
+| depth | 9.1 | Wildlife and volcanic landscapes provide breadth |
+
+- Applicable categories: nature:9.3, wildlife:9.4, photography:9.3, adventure:8.8.
+- Computed worldwide overall: 91.20/100.
+- High-score challenge: 90+ based on specific rare qualities and breadth above; below the world-leading Grand Canyon or Yellowstone benchmarks. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+### sight-us-kenai-fjords-national-park — Kenai Fjords National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/kenai-fjords-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes boat viewing of tidewater glaciers, birds and marine mammals; Recreation.gov supplies GPS. Exit Glacier walking documented at https://www.nps.gov/kefj/planyourvisit/exit-glacier-area.htm. [Primary source](https://home.nps.gov/kefj/planyourvisit/boattours.htm), search excerpts inspected 2026-11-26.
+- Location check: 59.818044, -150.106502; [published reference](https://www.recreation.gov/gateways/2787), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [NZ/fiordland-national-park](../../../countries/NZ/sights/fiordland-national-park.yaml) | Fiordland has temperate rainforest and dramatic fjords; Kenai adds tidewater ice. |
+| [NO/geirangerfjord](../../../countries/NO/sights/geirangerfjord.yaml) | Geiranger has concentrated waterfall views; Kenai more marine wildlife. |
+| [CL/laguna-san-rafael-national-park](../../../countries/CL/sights/laguna-san-rafael-national-park.yaml) | Comparable glacier viewing; Kenai has broader route mix. |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | Glacier Bay has greater glacial basin scale. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.2 | Ice, coastal relief and marine wildlife create strong scenic impact |
+| uniqueness | 8.9 | Tidewater glaciers and wildlife are distinctive but have fjord analogues |
+| significance | 8.8 | Substantial glacial and coastal ecology |
+| experience | 9.0 | Boat trips and Exit Glacier walking complement one another |
+| depth | 8.9 | Coast, icefield and land routes give breadth |
+
+- Applicable categories: nature:9.3, photography:9.3, wildlife:9.1, adventure:8.9.
+- Computed worldwide overall: 89.85/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+### sight-us-crater-lake-national-park — Crater Lake National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/crater-lake-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes rim drive and caldera overlooks; USGS identifies volcanic lake and coordinates. [Primary source](https://www.nps.gov/crla/planyourvisit/scenic-rim-drive.htm), search excerpts inspected 2026-11-26.
+- Location check: 42.93, -122.12; [published reference](https://www.usgs.gov/crater-lake), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ID/lake-toba](../../../countries/ID/sights/lake-toba.yaml) | Toba has greater caldera scale and cultural breadth. |
+| [EC/quilotoa-crater-lake](../../../countries/EC/sights/quilotoa-crater-lake.yaml) | Smaller but similarly vivid crater panorama. |
+| [NZ/waiotapu](../../../countries/NZ/sights/waiotapu.yaml) | Wai-O-Tapu has more varied geothermal features. |
+| [US/yellowstone-national-park](../../../countries/US/sights/yellowstone-national-park.yaml) | Yellowstone has much broader geothermal and wildlife depth. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 9.1 | Deep blue water in a coherent caldera is memorable |
+| uniqueness | 8.9 | Striking volcanic lake but notable analogues exist |
+| significance | 8.7 | Important volcanic geology and lake research |
+| experience | 8.8 | Rewarding rim overlooks and trails |
+| depth | 8.4 | Concentrated landscape has less breadth than larger varied parks |
+
+- Applicable categories: nature:9.2, photography:9.3, adventure:8.3.
+- Computed worldwide overall: 88.55/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+### sight-us-acadia-national-park — Acadia National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/acadia-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS describes Ocean Drive, Jordan Pond, Cadillac Mountain and 45 miles of carriage roads; aerial feature gives coordinates and rocky Atlantic headlands. [Primary source](https://home.nps.gov/acad/planyourvisit/east-side.htm), search excerpts inspected 2026-11-26.
+- Location check: 44.30778, -68.30063; [published reference](https://www.nps.gov/articles/parks-in-space.htm), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [GB/jurassic-coast](../../../countries/GB/sights/jurassic-coast.yaml) | Jurassic Coast has stronger geological record; Acadia adds forests and mountains. |
+| [PT/vicentina](../../../countries/PT/sights/vicentina.yaml) | Vicentina has more extensive wild coastline. |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | Stronger signature rock stacks; Acadia has integrated walking and cycling. |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | Olympic has greater ecosystem variety and wilderness scale. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.6 | Attractive coastal headlands and forest |
+| uniqueness | 8.1 | Excellent landscape combination but Atlantic analogues exist |
+| significance | 8.1 | Coastal ecology and carriage-road heritage are important |
+| experience | 8.9 | Roads cycling and hiking give a particularly varied visit |
+| depth | 8.7 | Coast summit pond and historic routes support discovery |
+
+- Applicable categories: nature:8.8, photography:8.8, adventure:8.7.
+- Computed worldwide overall: 84.30/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.
+
+
+### sight-us-capitol-reef-national-park — Capitol Reef National Park — 2026-11-26
+
+- YAML: [source](../../../countries/US/sights/capitol-reef-national-park.yaml)
+- Action: new
+- Precise subject: named park, not gateway settlement or adjacent park.
+- Factual claims: NPS documents Waterpocket Fold overlooks, narrow gorges, slot canyons and Cathedral Valley routes; aerial feature gives coordinates. [Primary source](https://www.nps.gov/care/planyourvisit/hiking.htm), search excerpts inspected 2026-11-26.
+- Location check: 38.28217, -111.24705; [published reference](https://www.nps.gov/articles/parks-in-space.htm), representative point (rounded where relevant), not a precise entrance unless explicitly noted.
+- Evidence status: **source-linked-unverified** (official excerpts and coordinates checked; full claim-level independent verification outstanding).
+- Missing or uncertain facts: current access and independent corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | Grand Canyon has far greater scale and geological exposure. |
+| [JO/wadi-rum-protected-area](../../../countries/JO/sights/wadi-rum-protected-area.yaml) | Wadi Rum offers more iconic towers and cultural context. |
+| [AR/talampaya-national-park](../../../countries/AR/sights/talampaya-national-park.yaml) | Similar red-rock drama, less district variety. |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | Blyde has lush canyon contrast; Capitol Reef more desert forms. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| impact | 8.8 | Layered cliffs and monoliths are excellent but less iconic than Bryce |
+| uniqueness | 8.7 | Waterpocket Fold is unusual; neighboring parks share sandstone formations |
+| significance | 8.5 | Monocline and erosion support geological merit |
+| experience | 8.5 | Rewarding hikes and viewpoints; remote routes need preparation |
+| depth | 8.8 | Separate districts and canyons provide exploration depth |
+
+- Applicable categories: nature:8.9, photography:9, adventure:8.8.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: Below 90. No field/category 9.5+.
+- Approved 10 registry: none.
+- Final decision: provisional worldwide editorial rating, independent of national park designation.
+- Earlier decision: none.
+- Verification still needed: inspect complete material sources and corroborate coordinates and visit scope; current access before travel.

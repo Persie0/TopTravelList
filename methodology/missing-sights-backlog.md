@@ -9,9 +9,17 @@ Working queue, not a ranking. Initial screen: 250 areas, 958 terms, 148 unmatche
 - [x] US — Death Valley National Park: 90.85/100
 - [x] US — Grand Teton National Park: 90.05/100
 
+- [x] US — Mount Rainier National Park: 89.70/100 (source-linked, full verification pending)
+- [x] US — Sequoia National Park: 91.70/100 (source-linked, full verification pending)
+- [x] US — Katmai National Park and Preserve: 91.20/100 (source-linked, full verification pending)
+- [x] US — Kenai Fjords National Park: 89.85/100 (source-linked, full verification pending)
+- [x] US — Crater Lake National Park: 88.55/100 (source-linked, full verification pending)
+- [x] US — Acadia National Park: 84.30/100 (source-linked, full verification pending)
+- [x] US — Capitol Reef National Park: 86.70/100 (source-linked, full verification pending)
+
 ## Outstanding nature / park candidates
 
-- [ ] US: Acadia; Badlands; Black Canyon of the Gunnison; Capitol Reef; Channel Islands; Crater Lake; Dry Tortugas; Great Basin; Great Sand Dunes; Haleakalā; Joshua Tree; Katmai; Kenai Fjords; Kings Canyon; Lassen Volcanic; Mount Rainier; North Cascades; Rocky Mountain; Saguaro; Sequoia; Monument Valley; Upper Antelope Canyon; Nā Pali Coast; Waimea Canyon; Big Sur.
+- [ ] US: Badlands; Black Canyon of the Gunnison; Channel Islands; Dry Tortugas; Great Basin; Great Sand Dunes; Haleakalā; Joshua Tree; Kings Canyon; Lassen Volcanic; North Cascades; Rocky Mountain; Saguaro; Monument Valley; Upper Antelope Canyon; Nā Pali Coast; Waimea Canyon; Big Sur; Glen Canyon National Recreation Area (Lake Powell visitor scope); Horseshoe Bend (distinct viewpoint, inside Glen Canyon; assess independently). [NPS Horseshoe Bend](https://www.nps.gov/glca/planyourvisit/horseshoe-bend.htm) and [NPS Glen Canyon statistics](https://www.nps.gov/glca/learn/management/statistics.htm), excerpts checked 2026-11-26. Both filenames absent in current branch.
 - [ ] US further park review: Biscayne; Chiricahua (verify designation); Congaree; Cuyahoga Valley; Gates of the Arctic; Gateway Arch; Guadalupe Mountains; Hot Springs; Indiana Dunes; Isle Royale; Kobuk Valley; Lake Clark; New River Gorge; Pinnacles; Shenandoah; Theodore Roosevelt; Voyageurs; Wind Cave. [NPS inventory](https://www.nps.gov/aboutus/national-park-system.htm).
 - [ ] CA: Auyuittuq; Bruce Peninsula; Cape Breton Highlands; Fundy; Mingan Archipelago; Pacific Rim; Sable Island; Thousand Islands; Torngat Mountains; Wapusk; Hopewell Rocks; Churchill wildlife experiences; Bay of Fundy visitor coastline.
 - [ ] CA further park review: Akami-Uapishk–KakKasuak–Mealy Mountains; Aulavik; Elk Island; Forillon; Georgian Bay Islands; Glacier; Grasslands; Gulf Islands; Kejimkujik; Kouchibouguac; La Mauricie; Mount Revelstoke; Nááts'įhch'oh; Point Pelee; Prince Albert; Prince Edward Island; Pukaskwa; Qausuittuq; Riding Mountain; Terra Nova; Thaidene Nëné; Tuktut Nogait; Ukkusiksalik. [Parks Canada](https://www.parks.canada.ca/pn-np).
@@ -37,4 +45,4 @@ BY Belovezhskaya/bialowieza; ET Axum/Aksum; PK Mohenjo-daro/moenjodaro; MM Kyaik
 
 ## Workflow
 
-Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for four additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.
+Verify identity, exact scope, sources and representative GPS, four worldwide peers, five independently justified V2 dimensions; write YAML and individual review, regenerate rankings, run validators and benchmark checks. Unknown fields stay null. No national quotas. Update queue as records land. This branch reproduces deterministic ranking row format and tied ranks for eleven additions; Python generator and full validation not executed (local network unavailable). No GitHub Actions used.

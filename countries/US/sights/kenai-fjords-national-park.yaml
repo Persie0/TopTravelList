@@ -1,0 +1,17 @@
+id: sight-us-kenai-fjords-national-park
+name: "Kenai Fjords National Park"
+location:
+  country_code: US
+  latitude: 59.818044
+  longitude: -150.106502
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.3
+    photography: 9.3
+    wildlife: 9.1
+    adventure: 8.9
