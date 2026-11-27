@@ -9136,3 +9136,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-garenne-lemot — Domaine de la Garenne Lemot Italianate Landscape Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/garenne-lemot.yaml)
+- Action: new
+- Precise subject and limitations: Landscape park, villa and garden structures within the estate; excludes Clisson castle and historic streets already scored. Representative mapped park point.
+- Location check: 47.08482, -1.27365; [published representative point](https://mapcarta.com/W165256181), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.domaine-garenne-lemot.fr/44/preparez-votre-visite/opening-hours-and-access/lem_5128); indexed excerpts or source text inspected 2026-11-27. Ministry of Culture event record describes the park begun in 1805: https://rendezvousauxjardins.culture.gouv.fr/w/386955/evenement/19604116/visites-guidees-ateliers-flash-et-rencontre-avec-les-jardiniers-du-domaine-de-la-garenne-lemot ; garden association describes landscape and villa: https://www.parcsetjardins.fr/jardins/539-la-garenne-lemot. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/jardins-etretat](../../../countries/FR/sights/jardins-etretat.yaml) | 8.9 / 9.2 / 8.5 / 8.9 / 8.4 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [GB/stourhead](../../../countries/GB/sights/stourhead.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.4 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [PT/monte-palace-garden](../../../countries/PT/sights/monte-palace-garden.yaml) | 9.0 / 8.9 / 8.5 / 9.0 / 8.9 | impact: -0.4 vs peer; depth: -0.2 vs peer. |
+| [IE/powerscourt](../../../countries/IE/sights/powerscourt.yaml) | 8.9 / 8.6 / 8.5 / 9.0 / 8.7 | impact: -0.3 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Picturesque river slopes and garden architecture. |
+| Uniqueness | 8.8 | Distinct Italian-inspired composition. |
+| Significance | 8.7 | Regional nineteenth-century landscape design. |
+| Experience | 8.9 | Established walking circuit. |
+| Depth | 8.7 | Multiple garden and architectural features. |
+
+- Applicable categories: architecture:9.0, nature:9.0, photography:9.2, relaxation:9.1, culture:9.0.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-nantes-abolition-memorial — Nantes Memorial to the Abolition of Slavery — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nantes-abolition-memorial.yaml)
+- Action: new
+- Precise subject and limitations: Quayside memorial and underground interpretive passage only; excludes Nantes History Museum and connecting city route. Representative DMS coordinates converted and rounded.
+- Location check: 47.209167, -1.565278; [published representative point](https://fr.wikipedia.org/wiki/M%C3%A9morial_de_l%27abolition_de_l%27esclavage), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://memorial.nantes.fr/decouvrir/); indexed excerpts or source text inspected 2026-11-27. Official memorial explains commemorative purpose and design; https://memoire-esclavage.org/memorial-de-labolition-de-lesclavage corroborates location and public history; official educational itinerary distinguishes memorial visit from castle museum: https://memorial.nantes.fr/propresseedu/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/memorial-caen](../../../countries/FR/sights/memorial-caen.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | depth: -1.2 vs peer; experience: -0.5 vs peer. |
+| [US/lincoln-memorial](../../../countries/US/sights/lincoln-memorial.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 7.8 | depth: +0.3 vs peer; uniqueness: +0.3 vs peer. |
+| [US/uss-arizona-memorial](../../../countries/US/sights/uss-arizona-memorial.yaml) | 9.0 / 9.3 / 9.4 / 8.8 / 7.8 | impact: -0.3 vs peer; depth: +0.3 vs peer. |
+| [ES/rabida](../../../countries/ES/sights/rabida.yaml) | 8.5 / 8.9 / 9.2 / 8.6 / 8.5 | depth: -0.4 vs peer; impact: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Powerful commemorative architecture. |
+| Uniqueness | 9.1 | Distinct below-quay interpretive design. |
+| Significance | 9.3 | Internationally relevant remembrance and abolition history. |
+| Experience | 8.6 | Focused reflective visit. |
+| Depth | 8.1 | Compact memorial rather than full historical museum. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:9.1.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-nantes-natural-history-museum — Muséum de Nantes Natural History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nantes-natural-history-museum.yaml)
+- Action: new
+- Precise subject and limitations: Established pre-renovation permanent visitor galleries; current closure does not penalize score. Future expansion is not assumed finished or rated. DMS coordinates converted to decimal.
+- Location check: 47.212778, -1.565; [published representative point](https://fr.wikipedia.org/wiki/Mus%C3%A9um_d%27histoire_naturelle_de_Nantes), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.archives.nantes.fr/sites/museum/home/museum/presentation.html); indexed excerpts or source text inspected 2026-11-27. Museum archival page describes pre-closure collections; https://museum.nantesmetropole.fr/futur-museum/chantier-des-collections/ confirms building closure and collection move; https://museum.nantesmetropole.fr/collections/ describes proposed 2029 opening and wider future displays, excluded from rating. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/grande-galerie-evolution](../../../countries/FR/sights/grande-galerie-evolution.yaml) | 9.1 / 9.1 / 9.0 / 9.0 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+| [GB/natural-history-museum](../../../countries/GB/sights/natural-history-museum.yaml) | 9.2 / 9.1 / 9.3 / 9.3 / 9.3 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [US/smithsonian-national-museum-of-natural-history](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | uniqueness: -0.7 vs peer; impact: -0.6 vs peer. |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Varied natural history displays. |
+| Uniqueness | 8.6 | Regional collection with comparable museums. |
+| Significance | 8.8 | Established scientific and collecting heritage. |
+| Experience | 8.9 | Educational gallery visit. |
+| Depth | 9.0 | Several natural science disciplines. |
+
+- Applicable categories: nature:9.2, family:9.1, culture:8.9, history:8.9.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-imprimerie-nantes — Musée de l’Imprimerie Nantes Printing Workshop Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-imprimerie-nantes.yaml)
+- Action: new
+- Precise subject and limitations: Printing equipment collections and guided working demonstrations; excludes other Nantes museums.
+- Location check: 47.21097, -1.56208; [published representative point](https://mapcarta.com/36593158), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://musee-imprimerie.com/musee/visites/); indexed excerpts or source text inspected 2026-11-27. Museum operator describes functioning equipment and demonstrations in typography, lithography and mechanical composition; mapped point corresponds to museum, not street midpoint. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | depth: -0.8 vs peer; impact: -0.6 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | depth: -0.8 vs peer; impact: -0.4 vs peer. |
+| [FR/escal-atlantic](../../../countries/FR/sights/escal-atlantic.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | impact: -0.4 vs peer; depth: -0.3 vs peer. |
+| [GB/titanic-belfast](../../../countries/GB/sights/titanic-belfast.yaml) | 8.8 / 9.0 / 8.9 / 9.0 / 8.7 | impact: -0.4 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Engaging working printing machinery. |
+| Uniqueness | 8.9 | Distinct demonstrations of multiple historical techniques. |
+| Significance | 8.6 | Regional industrial and graphic arts heritage. |
+| Experience | 8.9 | Guided interpreted demonstrations. |
+| Depth | 8.5 | Several printing methods within compact museum. |
+
+- Applicable categories: culture:9.1, history:9.1, family:8.8.
+- Computed worldwide overall: 86.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-saint-nazaire-shipyard-tour — Chantiers de l’Atlantique Saint-Nazaire Shipyard Guided Tour — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-nazaire-shipyard-tour.yaml)
+- Action: new
+- Precise subject and limitations: Established guided bus tour of active shipyard, not unguided industrial access; GPS is published departure point at submarine base, not shipyard entrance. Excludes Escal’Atlantic and Espadon admissions.
+- Location check: 47.2756, -2.20353; [published representative point](https://www.pornic.com/visite-des-chantiers-de-l-atlantique-de-saint-nazaire.html), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.saint-nazaire-tourisme.com/les-visites/les-visites-industrielles/chantiers-navals/); indexed excerpts or source text inspected 2026-11-27. Tour operator explicitly describes guided coach visit departing former submarine base; https://www.tourismebretagne.com/preparer-mon-sejour/bouger-visiter/toutes-les-activites/visite-des-chantiers-de-latlantique-saint-nazaire-fr-2109144/ independently corroborates departure location. No guarantee of particular construction activity. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/escal-atlantic](../../../countries/FR/sights/escal-atlantic.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | significance: -0.2 vs peer; impact: +0.2 vs peer. |
+| [FR/espadon-submarine](../../../countries/FR/sights/espadon-submarine.yaml) | 8.7 / 9.0 / 8.9 / 8.8 / 8.2 | depth: +0.5 vs peer; impact: +0.3 vs peer. |
+| [GB/titanic-belfast](../../../countries/GB/sights/titanic-belfast.yaml) | 8.8 / 9.0 / 8.9 / 9.0 / 8.7 | significance: -0.3 vs peer; impact: +0.2 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | depth: -0.6 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Large-scale shipbuilding views. |
+| Uniqueness | 9.2 | Uncommon interpreted access to active shipbuilding. |
+| Significance | 8.6 | Contemporary industrial and maritime significance. |
+| Experience | 8.9 | Dedicated guided industrial circuit. |
+| Depth | 8.7 | Several production stages, variable actual observations. |
+
+- Applicable categories: culture:9.2, history:9.0, architecture:8.9, family:8.9.
+- Computed worldwide overall: 89.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-la-chaume-historic-quarter — La Chaume Historic Fishing Quarter and Harbour Walk — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/la-chaume-historic-quarter.yaml)
+- Action: new
+- Precise subject and limitations: Historic fishing streets, quays and Arundel tower exterior as representative landmark; excludes separately operated indoor attractions and main beach.
+- Location check: 46.493853, -1.795738; [published representative point](https://www.cirkwi.com/en/point-interet/460690-la-tour-d-arundel-le-chateau-saint-clair), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.lessablesdolonne.fr/plages/la-chaume-pcupdl085v50h3j5/); indexed excerpts or source text inspected 2026-11-27. National heritage inventory documents fishing houses and town morphology: https://pop.culture.gouv.fr/notice/merimee/IA85000011. Local tourism supplies tower point via Cirkwi; alternate guide DMS point about 800 m west is not selected. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/honfleur-old-harbour](../../../countries/FR/sights/honfleur-old-harbour.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 8.6 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [FR/saint-goustan-harbour](../../../countries/FR/sights/saint-goustan-harbour.yaml) | 8.7 / 8.6 / 8.7 / 8.9 / 8.4 | depth: +0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/roscoff-historic-centre](../../../countries/FR/sights/roscoff-historic-centre.yaml) | 8.6 / 8.5 / 8.7 / 8.8 / 8.5 | significance: -0.1 vs peer; experience: +0.1 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Fishing quarter streets and harbour views. |
+| Uniqueness | 8.5 | Distinct local maritime character, comparable ports elsewhere. |
+| Significance | 8.6 | Regional fishing and urban history. |
+| Experience | 8.9 | Established walking circuit. |
+| Depth | 8.6 | Several streets and harbour landmarks. |
+
+- Applicable categories: photography:9.1, architecture:9.0, history:8.9, culture:8.9.
+- Computed worldwide overall: 86.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-noirmoutier — Château de Noirmoutier Castle Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-noirmoutier.yaml)
+- Action: new
+- Precise subject and limitations: Castle and museum, explicitly separate from island coastal paths and Passage du Gois; no claim every room or collection always on display.
+- Location check: 47.00048, -2.24214; [published representative point](https://mapcarta.com/35841208), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ville-noirmoutier.fr/expositions-au-chateau/); indexed excerpts or source text inspected 2026-11-27. Municipality provides dedicated castle museum visitor information; mapped castle building representative point. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-vitre](../../../countries/FR/sights/chateau-vitre.yaml) | 8.9 / 8.8 / 9.0 / 8.8 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/chateau-josselin](../../../countries/FR/sights/chateau-josselin.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | significance: +0.4 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Distinct fortified castle in island town. |
+| Uniqueness | 8.6 | Compact regional medieval castle type. |
+| Significance | 8.8 | Regional defensive and island history. |
+| Experience | 8.8 | Dedicated museum visit. |
+| Depth | 8.5 | Focused castle and exhibition circuit. |
+
+- Applicable categories: architecture:9.1, history:9.1, culture:9.0, photography:9.0.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

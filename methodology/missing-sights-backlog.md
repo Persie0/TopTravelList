@@ -1580,3 +1580,15 @@ Six additions, 24 peer rows. France 227 ranked / 238 total; 11 existing unassess
 - [x] FR — Château de la Flocellière Park and Medieval Ruins: 84.70/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 234 ranked / 245 total; 11 existing unassessed unchanged. Maillezais excludes boat trips; Nieul separate abbey; Clisson excludes Garenne Lemot; Flocellière public garden and ruins only, not guest interiors; Jules Verne established museum not future site. Next bounded screen: Domaine de la Garenne Lemot, Nantes Memorial to the Abolition of Slavery, Nantes Natural History Museum, Musée de l’Imprimerie Nantes, Saint-Nazaire shipyard visitor experience, Les Sables-d’Olonne historic La Chaume, and Château de Noirmoutier (scope and duplicate checks). Full Python validation pending.
+
+### Pass 136 — Nantes, maritime industry and Atlantic island heritage
+
+- [x] FR — Domaine de la Garenne Lemot Italianate Landscape Park: 87.25/100 (source-linked-unverified).
+- [x] FR — Nantes Memorial to the Abolition of Slavery: 88.45/100 (source-linked-unverified).
+- [x] FR — Muséum de Nantes Natural History Museum: 87.25/100 (source-linked-unverified).
+- [x] FR — Musée de l’Imprimerie Nantes Printing Workshop Museum: 86.50/100 (source-linked-unverified).
+- [x] FR — Chantiers de l’Atlantique Saint-Nazaire Shipyard Guided Tour: 89.25/100 (source-linked-unverified).
+- [x] FR — La Chaume Historic Fishing Quarter and Harbour Walk: 86.20/100 (source-linked-unverified).
+- [x] FR — Château de Noirmoutier Castle Museum: 86.60/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 241 ranked / 252 total; 11 existing unassessed unchanged. Garenne Lemot excludes Clisson town/castle; Nantes memorial excludes castle museum; natural history museum rated pre-closure galleries not future expansion; shipyard departure coordinate distinct from shipyard itself; Noirmoutier castle excluded from earlier coastal entry. Next bounded screen: Musée Dobrée Nantes, Écomusée de Saint-Nazaire, Musée de la Marine de Loire Châteauneuf-sur-Loire, Château de la Turmelière, Château de Goulaine, Musée du Vignoble Nantais, and Château d’Oudon (scope and duplicate checks). Full Python validation pending.

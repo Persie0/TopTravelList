@@ -1,0 +1,16 @@
+id: sight-fr-musee-imprimerie-nantes
+name: "Musée de l’Imprimerie Nantes Printing Workshop Museum"
+location:
+  country_code: FR
+  latitude: 47.21097
+  longitude: -1.56208
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.9
+  depth: 8.5
+  categories:
+    culture: 9.1
+    history: 9.1
+    family: 8.8
