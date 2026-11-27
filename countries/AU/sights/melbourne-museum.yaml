@@ -1,0 +1,16 @@
+id: sight-au-melbourne-museum
+name: "Melbourne Museum and Bunjilaka Aboriginal Cultural Centre"
+location:
+  country_code: AU
+  latitude: -37.803
+  longitude: 144.972
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3
+    family: 9.3

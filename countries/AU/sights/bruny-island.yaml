@@ -1,0 +1,16 @@
+id: sight-au-bruny-island
+name: "Bruny Island Coastal Landscapes and Wildlife"
+location:
+  country_code: AU
+  latitude: -43.36
+  longitude: 147.29
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    photography: 9.3

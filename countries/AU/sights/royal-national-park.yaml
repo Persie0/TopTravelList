@@ -1,0 +1,16 @@
+id: sight-au-royal-national-park
+name: "Royal National Park Coastal Walks Sydney"
+location:
+  country_code: AU
+  latitude: -34.119
+  longitude: 151.067
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.2

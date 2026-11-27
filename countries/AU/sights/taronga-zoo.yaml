@@ -1,0 +1,16 @@
+id: sight-au-taronga-zoo
+name: "Taronga Zoo Sydney"
+location:
+  country_code: AU
+  latitude: -33.843
+  longitude: 151.241
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 9.1
+  depth: 9.0
+  categories:
+    wildlife: 9.3
+    family: 9.3
+    nature: 9.0

@@ -3375,3 +3375,31 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Petroglyph National Monument Albuquerque: 86.15/100 (desk-based provisional).
 
 22 additions, 4 desk-based provisional, 18 source-informed, 15 90+, 74 domestic ranking-row comparisons. US 548 ranked / 548 total. NPS 64 designated national parks inventory (https://www.nps.gov/aboutus/national-park-system.htm) checked against ranking; all 62 in the 50 states represented; American Samoa and US Virgin Islands belong to separate territory queues. Not a check of every one of 434 NPS units. Ford's Theatre confirmed part of NAMA administrative umbrella (https://www.nps.gov/foth/planyourvisit/index.htm); no duplicate pending experiential scope. Tracy Arm remains deferred: USGS documents lasting 2025 landslide and glacier-related damage (https://www.usgs.gov/programs/landslide-hazards/science/2025-tracy-arm-landslide-generated-tsunami), NOAA 2026 reassessment (https://www.nesdis.noaa.gov/news/noaa-scientists-gain-key-insights-alaska-tsunami-one-year-later) and 2026 cruise diversions (https://alaskapublic.org/news/alaska-desk/2026-04-10/after-last-years-historic-tsunami-some-cruise-lines-say-theyll-avoid-tracy-arm-this-year); no assumption of restored condition or safe passage. Recurring-event policy and legacy overlaps remain unresolved. Long-distance trails rated for continuous journey, not individual park hikes. Current US queue PAUSED, not DONE; remaining known candidates include Continental Divide Trail and other heritage sites; move to other underrepresented areas before another US expansion. No quota. Existing scores retained. Full Python validation pending.
+
+### Pass 201 — Australia flagship nature and national museums
+
+- [x] AU — Australian Museum Sydney: 91.85/100 (source-linked-unverified).
+- [x] AU — Melbourne Museum and Bunjilaka Aboriginal Cultural Centre: 91.80/100 (source-linked-unverified).
+- [x] AU — Nitmiluk National Park Katherine Gorge Cruises and Trails: 91.05/100 (source-linked-unverified).
+- [x] AU — Watarrka National Park Kings Canyon Rim Walk: 90.80/100 (source-linked-unverified).
+- [x] AU — Overland Track Tasmania Multi-Day Wilderness Trek: 91.60/100 (source-linked-unverified).
+- [x] AU — Three Capes Track Tasman Peninsula Multi-Day Coastal Trek: 90.80/100 (source-linked-unverified).
+- [x] AU — Seal Bay Conservation Park Australian Sea Lion Viewing: 90.35/100 (source-linked-unverified).
+- [x] AU — Punamii-Uunpuu Mitchell Falls Kimberley: 90.05/100 (source-linked-unverified).
+- [x] AU — Talbot Bay Horizontal Falls Scenic and Cultural Excursions: 90.60/100 (source-linked-unverified).
+- [x] AU — Art Gallery of New South Wales Sydney and Sydney Modern: 90.80/100 (source-linked-unverified).
+- [x] AU — Australian National Maritime Museum Sydney: 90.70/100 (source-linked-unverified).
+- [x] AU — National Museum of Australia Canberra: 90.55/100 (source-linked-unverified).
+- [x] AU — Litchfield National Park Waterfalls and Termite Mounds: 88.50/100 (desk-based provisional).
+- [x] AU — Tjoritja West MacDonnell National Park Gorge Corridor: 89.00/100 (desk-based provisional).
+- [x] AU — Nambung National Park Pinnacles Desert: 88.35/100 (desk-based provisional).
+- [x] AU — Cape Le Grand National Park Lucky Bay and Granite Peaks: 88.10/100 (desk-based provisional).
+- [x] AU — Bruny Island Coastal Landscapes and Wildlife: 87.70/100 (desk-based provisional).
+- [x] AU — Bay of Fires Conservation Area Tasmania: 87.35/100 (desk-based provisional).
+- [x] AU — Maria Island National Park Tasmania: 88.50/100 (desk-based provisional).
+- [x] AU — Jervis Bay Booderee National Park Beaches and Coastal Trails: 87.20/100 (desk-based provisional).
+- [x] AU — Kosciuszko National Park Alpine Summit Trails: 87.70/100 (desk-based provisional).
+- [x] AU — Royal National Park Coastal Walks Sydney: 87.35/100 (desk-based provisional).
+- [x] AU — Taronga Zoo Sydney: 88.20/100 (desk-based provisional).
+
+23 additions, 11 desk-based provisional, 12 source-linked, 12 90+, 70 ranking-row comparisons including 25 US peers. Australia 80 ranked / 80 total. US remains paused. Existing AU scores retained; legacy overlaps (Uluru/Kata Tjuta vs parent, Daintree vs Wet Tropics, Whitehaven/Hill Inlet vs Whitsundays, Great Sandy vs K'gari, Cradle Mountain vs Tasmanian Wilderness, Twelve Apostles vs Great Ocean Road) documented for separate review. Horizontal Falls excludes assumed passage; Seal Bay temporary beach access pause noted. Overland and Three Capes distinct continuous treks. Next: Australian museums, state parks, wildlife encounters and long-distance journeys; defer UNESCO component duplication and Ningaloo whale shark scope. Full Python validation pending.
