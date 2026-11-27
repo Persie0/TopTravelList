@@ -3975,3 +3975,28 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Kings Landing New Brunswick Living History Museum: 85.90/100 (desk-based provisional).
 
 18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 214 ranked / 217 total. Saguenay terrestrial trails and via ferrata exclude existing whale watching and marine excursions; Fogo excludes hotel and iceberg trips; Drumheller Hoodoos distinct from Royal Tyrrell and Dinosaur Provincial Park; Naikoon excludes Gwaii Haanas; Canadian Grand Prix race weekend only. Cabot Trail and West Coast Trail deferred due to overlap with Cape Breton Highlands and Pacific Rim respectively. Coordinates approximate and access not verified. All four source-backed nature/event candidates plus other researched candidates scored provisionally, not independently verified. Existing scores and three unassessed retained. Regional screen remains open.
+
+### Pass 229 — Canada specialist museums, cultural festivals and heritage
+
+- [x] CA — Festival d’été de Québec Live Music Festival: 92.15/100 (source-linked-unverified).
+- [x] CA — Studio Bell National Music Centre Calgary: 91.70/100 (source-linked-unverified).
+- [x] CA — Pointe-à-Callière Montréal Archaeology and History Museum: 91.65/100 (source-linked-unverified).
+- [x] CA — Celtic Colours International Festival Cape Breton: 91.45/100 (source-linked-unverified).
+- [x] CA — Canada Science and Technology Museum Ottawa: 89.00/100 (desk-based provisional).
+- [x] CA — Manitoba Museum Winnipeg History and Science Galleries: 88.55/100 (desk-based provisional).
+- [x] CA — Royal Alberta Museum Edmonton: 88.30/100 (desk-based provisional).
+- [x] CA — Musée de la civilisation Québec City: 88.85/100 (desk-based provisional).
+- [x] CA — Musée national des beaux-arts du Québec: 88.70/100 (desk-based provisional).
+- [x] CA — Exporail Canadian Railway Museum Saint-Constant: 88.70/100 (desk-based provisional).
+- [x] CA — Britannia Mine Museum Underground Mining Heritage: 88.45/100 (desk-based provisional).
+- [x] CA — Royal Botanical Gardens Burlington Hamilton: 87.80/100 (desk-based provisional).
+- [x] CA — Ukrainian Cultural Heritage Village Alberta: 87.60/100 (desk-based provisional).
+- [x] CA — The Rooms Newfoundland and Labrador Provincial Museum St John’s: 88.30/100 (desk-based provisional).
+- [x] CA — Alexander Graham Bell National Historic Site Baddeck: 87.65/100 (desk-based provisional).
+- [x] CA — Confederation Centre of the Arts Charlottetown: 88.00/100 (desk-based provisional).
+- [x] CA — Ottawa Bluesfest Live Music Festival: 88.30/100 (desk-based provisional).
+- [x] CA — Royal Canadian Mint Winnipeg Coin Production Tour: 86.45/100 (desk-based provisional).
+- [x] CA — Nikka Yuko Japanese Garden Lethbridge: 85.40/100 (desk-based provisional).
+- [x] CA — Cape Bonavista Lighthouse and Coastal Heritage: 87.10/100 (desk-based provisional).
+
+20 additions, 16 desk-based provisional, 4 source-linked, 4 90+, 40 domestic ranking-row comparisons. CA 234 ranked / 237 total. Festival d’été excludes ordinary city/battlefield sightseeing; Celtic Colours excludes independent hikes and heritage visits; Pointe-à-Callière distinct ticketed archaeological complex, not old city walks; Studio Bell collections and halls grouped. Mint Winnipeg production tour separate from Ottawa mint. Ukrainian Cultural Heritage Village current access and condition not checked. New coordinates approximate; current access and schedules not verified. Four high scores based on retrieved official or institutional excerpts, provisional. Existing scores and three unassessed retained. Regional screen remains open.

@@ -5774,3 +5774,430 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 228 scope decisions
 
 18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 214 ranked / 217 total. Saguenay terrestrial trails and via ferrata exclude existing whale watching and marine excursions; Fogo excludes hotel and iceberg trips; Drumheller Hoodoos distinct from Royal Tyrrell and Dinosaur Provincial Park; Naikoon excludes Gwaii Haanas; Canadian Grand Prix race weekend only. Cabot Trail and West Coast Trail deferred due to overlap with Cape Breton Highlands and Pacific Rim respectively. Coordinates approximate and access not verified. All four source-backed nature/event candidates plus other researched candidates scored provisionally, not independently verified. Existing scores and three unassessed retained. Regional screen remains open.
+
+## sight-ca-festival-ete-quebec — Festival d’été de Québec Live Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/festival-ete-quebec.yaml)
+- Action: new
+- Scope: Eleven-day recurring summer music festival since 1968; organizer reports over 150 shows and describes it as Canada's largest outdoor festival. Main-stage locality proxy; exclude ordinary Old Québec and battlefield sightseeing.
+- Representative coordinates: 46.803, -71.214; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 9.1 / 9.4 / 9.2.
+- Categories: culture:9.4 nightlife:9.4 photography:9.2.
+- Overall: 92.15/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.feq.ca/en/about/feq-history, https://www.feq.ca/en/experience.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | impact: +0.1 vs peer; uniqueness: -0.2 vs peer |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-studio-bell — Studio Bell National Music Centre Calgary — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/studio-bell.yaml)
+- Action: new
+- Scope: Five floors of music exhibits and performance facilities, with over 8,000 collection pieces covering more than 450 years of music history; collection size does not imply everything is on display. Halls of fame grouped.
+- Representative coordinates: 51.045, -114.052; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.2 / 9.3.
+- Categories: culture:9.4 architecture:9.3 history:9.3.
+- Overall: 91.70/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.studiobell.ca/our-collection, https://www.studiobell.ca/visitor-information.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-canoe-museum](../../../countries/CA/sights/canadian-canoe-museum.yaml) | 8.9 / 9.4 / 9.3 / 9.0 / 9.3 | impact: +0.1 vs peer; uniqueness: -0.2 vs peer |
+| [CA/aga-khan-museum](../../../countries/CA/sights/aga-khan-museum.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.2 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-pointe-a-calliere — Pointe-à-Callière Montréal Archaeology and History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/pointe-a-calliere.yaml)
+- Action: new
+- Scope: Museum built around the archaeological remains of Montréal's colonial birthplace; seven pavilions and underground links according to tourism board. Separate ticketed interpretation, not generic Old Montréal walks.
+- Representative coordinates: 45.503, -73.554; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.1 / 9.2.
+- Categories: history:9.4 culture:9.4 architecture:9.2.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://pacmusee.qc.ca/en/about/, https://www.mtl.org/en/what-to-do/culture-arts-heritage/pointe-a-calliere.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [CA/fortress-louisbourg](../../../countries/CA/sights/fortress-louisbourg.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-celtic-colours — Celtic Colours International Festival Cape Breton — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/celtic-colours.yaml)
+- Action: new
+- Scope: Nine-day October festival devoted to traditional music, dance and community heritage. Organizer lists 52 concerts in 36 communities for 2026. Representative island locality; do not count independent hikes or historic sites again. Future programmes not assumed.
+- Representative coordinates: 46.21, -60.6; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.1 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.3 nightlife:9.2.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://celtic-colours.com/about/, https://celtic-colours.com/2026-concert-venues-and-communities/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/stratford-festival](../../../countries/CA/sights/stratford-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.3 / 9.2 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [CA/festival-du-voyageur](../../../countries/CA/sights/festival-du-voyageur.yaml) | 8.7 / 8.8 / 8.9 / 9.0 / 8.7 | impact: +0.3 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-science-tech-museum — Canada Science and Technology Museum Ottawa — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/science-tech-museum.yaml)
+- Action: new
+- Scope: National science and technology collection, hands-on exhibits and historic locomotives grouped; separate from aviation museum.
+- Representative coordinates: 45.403, -75.622; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.0 / 9.0 / 9.1.
+- Categories: history:9.3 family:9.4 culture:9.1.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-aviation-space](../../../countries/CA/sights/canadian-aviation-space.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 9.0 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-manitoba-museum — Manitoba Museum Winnipeg History and Science Galleries — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/manitoba-museum.yaml)
+- Action: new
+- Scope: Museum's human and natural history galleries, science gallery and planetarium grouped.
+- Representative coordinates: 49.899, -97.137; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.9 / 9.1.
+- Categories: history:9.3 culture:9.3 family:9.3.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-bc-museum](../../../countries/CA/sights/royal-bc-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/canadian-museum-nature](../../../countries/CA/sights/canadian-museum-nature.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-royal-alberta-museum — Royal Alberta Museum Edmonton — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/royal-alberta-museum.yaml)
+- Action: new
+- Scope: Provincial natural and human history museum and public exhibits.
+- Representative coordinates: 53.546, -113.49; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 9.0 / 8.9 / 9.1.
+- Categories: history:9.3 culture:9.3 nature:9.2.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-bc-museum](../../../countries/CA/sights/royal-bc-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [CA/royal-saskatchewan-museum](../../../countries/CA/sights/royal-saskatchewan-museum.yaml) | 8.5 / 8.6 / 8.7 / 8.7 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-musee-civilisation — Musée de la civilisation Québec City — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/musee-civilisation.yaml)
+- Action: new
+- Scope: Museum's society, cultures and historical exhibitions; excludes public Old Québec streets.
+- Representative coordinates: 46.815, -71.202; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.0 / 8.9 / 9.1.
+- Categories: culture:9.4 history:9.3 family:9.2.
+- Overall: 88.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+| [CA/royal-bc-museum](../../../countries/CA/sights/royal-bc-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mnbaq — Musée national des beaux-arts du Québec — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mnbaq.yaml)
+- Action: new
+- Scope: Fine art museum complex and Québec art collection; distinct from Plains of Abraham sightseeing.
+- Representative coordinates: 46.798, -71.224; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.0 / 8.8 / 9.1.
+- Categories: culture:9.4 architecture:9.3 history:9.2.
+- Overall: 88.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-museum-of-fine-arts](../../../countries/CA/sights/montreal-museum-of-fine-arts.yaml) | 8.9 / 9.0 / 9.1 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+| [CA/national-gallery](../../../countries/CA/sights/national-gallery.yaml) | 8.9 / 8.8 / 9.1 / 8.9 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-exporail — Exporail Canadian Railway Museum Saint-Constant — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/exporail.yaml)
+- Action: new
+- Scope: Preserved rolling stock and railway heritage; museum rides where available, not long-distance scenic rail travel.
+- Representative coordinates: 45.373, -73.56; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.9 / 9.0.
+- Categories: history:9.4 family:9.3 culture:9.2.
+- Overall: 88.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-aviation-space](../../../countries/CA/sights/canadian-aviation-space.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 9.0 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [CA/canadian-bushplane-centre](../../../countries/CA/sights/canadian-bushplane-centre.yaml) | 8.4 / 8.8 / 8.8 / 8.6 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-britannia-mine — Britannia Mine Museum Underground Mining Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/britannia-mine.yaml)
+- Action: new
+- Scope: Former industrial mine with public guided underground experience and historic mill interpretation.
+- Representative coordinates: 49.624, -123.204; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 9.0 / 8.8.
+- Categories: history:9.3 adventure:9.2 family:9.2.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/diefenbunker](../../../countries/CA/sights/diefenbunker.yaml) | 8.9 / 9.3 / 9.3 / 8.9 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.4 vs peer |
+| [CA/barkerville](../../../countries/CA/sights/barkerville.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 9.0 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-royal-botanical-gardens — Royal Botanical Gardens Burlington Hamilton — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/royal-botanical-gardens.yaml)
+- Action: new
+- Scope: Integrated garden collections, public conservation trails and wetlands.
+- Representative coordinates: 43.29, -79.875; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.9 / 9.0.
+- Categories: nature:9.3 photography:9.3 relaxation:9.2.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [CA/montreal-botanical-garden](../../../countries/CA/sights/montreal-botanical-garden.yaml) | 8.8 / 8.7 / 8.8 / 8.9 / 9.0 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-ukrainian-heritage-village — Ukrainian Cultural Heritage Village Alberta — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/ukrainian-heritage-village.yaml)
+- Action: new
+- Scope: Living history interpretation of Ukrainian settlement in Alberta; historical buildings grouped. Current access and physical condition not checked.
+- Representative coordinates: 53.57, -112.82; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.3 family:9.2.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fort-edmonton](../../../countries/CA/sights/fort-edmonton.yaml) | 8.6 / 8.6 / 8.9 / 8.8 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.2 vs peer |
+| [CA/heritage-park-calgary](../../../countries/CA/sights/heritage-park-calgary.yaml) | 8.7 / 8.8 / 8.9 / 8.9 / 9.0 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-the-rooms — The Rooms Newfoundland and Labrador Provincial Museum St John’s — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/the-rooms.yaml)
+- Action: new
+- Scope: Integrated provincial museum and art gallery; archives not rated as a separate tourist attraction.
+- Representative coordinates: 47.568, -52.713; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 9.0.
+- Categories: history:9.3 culture:9.3 architecture:9.2.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-bc-museum](../../../countries/CA/sights/royal-bc-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/maritime-museum-atlantic](../../../countries/CA/sights/maritime-museum-atlantic.yaml) | 8.6 / 8.8 / 9.0 / 8.8 / 9.0 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-alexander-graham-bell — Alexander Graham Bell National Historic Site Baddeck — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/alexander-graham-bell.yaml)
+- Action: new
+- Scope: Public interpretation of Bell's inventions, aviation and experiments.
+- Representative coordinates: 46.101, -60.744; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.1 / 8.7 / 8.9.
+- Categories: history:9.4 culture:9.2 family:9.2.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-aviation-space](../../../countries/CA/sights/canadian-aviation-space.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 9.0 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+| [CA/diefenbunker](../../../countries/CA/sights/diefenbunker.yaml) | 8.9 / 9.3 / 9.3 / 8.9 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-confederation-centre — Confederation Centre of the Arts Charlottetown — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/confederation-centre.yaml)
+- Action: new
+- Scope: Public theatre and art galleries grouped; production schedules not assumed; separate from Green Gables heritage site.
+- Representative coordinates: 46.234, -63.127; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 9.0 / 8.9.
+- Categories: culture:9.3 history:9.2 nightlife:9.2.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/shaw-festival](../../../countries/CA/sights/shaw-festival.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [CA/green-gables](../../../countries/CA/sights/green-gables.yaml) | 8.6 / 9.1 / 9.2 / 8.9 / 8.9 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-ottawa-bluesfest — Ottawa Bluesfest Live Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/ottawa-bluesfest.yaml)
+- Action: new
+- Scope: Annual public music performances, not War Museum visits; representative venue.
+- Representative coordinates: 45.417, -75.716; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.6 / 8.7 / 9.2 / 8.9.
+- Categories: nightlife:9.3 culture:9.3 photography:9.1.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.7 vs peer |
+| [CA/toronto-caribbean-carnival](../../../countries/CA/sights/toronto-caribbean-carnival.yaml) | 9.2 / 9.1 / 9.1 / 9.3 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-mint-winnipeg — Royal Canadian Mint Winnipeg Coin Production Tour — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-mint-winnipeg.yaml)
+- Action: new
+- Scope: Visitor interpretation of circulation coin production; tour availability not assumed.
+- Representative coordinates: 49.842, -97.05; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.7 / 8.6.
+- Categories: history:9.2 culture:9.1 family:9.1.
+- Overall: 86.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-bushplane-centre](../../../countries/CA/sights/canadian-bushplane-centre.yaml) | 8.4 / 8.8 / 8.8 / 8.6 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: -0.1 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-nikka-yuko — Nikka Yuko Japanese Garden Lethbridge — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/nikka-yuko.yaml)
+- Action: new
+- Scope: Japanese-Canadian garden, landscaping and public cultural programming.
+- Representative coordinates: 49.685, -112.809; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.5 / 8.8 / 8.5.
+- Categories: relaxation:9.3 photography:9.2 culture:9.2.
+- Overall: 85.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.6 vs peer; uniqueness: -0.2 vs peer |
+| [CA/montreal-botanical-garden](../../../countries/CA/sights/montreal-botanical-garden.yaml) | 8.8 / 8.7 / 8.8 / 8.9 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-cape-bonavista — Cape Bonavista Lighthouse and Coastal Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/cape-bonavista.yaml)
+- Action: new
+- Scope: Lighthouse and adjacent coastal views, not separate iceberg or offshore wildlife cruises.
+- Representative coordinates: 48.701, -53.086; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.7 / 8.6.
+- Categories: history:9.2 nature:9.3 photography:9.3.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/cape-spear](../../../countries/CA/sights/cape-spear.yaml) | 8.7 / 8.6 / 8.7 / 8.7 / 8.5 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [CA/signal-hill](../../../countries/CA/sights/signal-hill.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 8.7 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 229 scope decisions
+
+20 additions, 16 desk-based provisional, 4 source-linked, 4 90+, 40 domestic ranking-row comparisons. CA 234 ranked / 237 total. Festival d’été excludes ordinary city/battlefield sightseeing; Celtic Colours excludes independent hikes and heritage visits; Pointe-à-Callière distinct ticketed archaeological complex, not old city walks; Studio Bell collections and halls grouped. Mint Winnipeg production tour separate from Ottawa mint. Ukrainian Cultural Heritage Village current access and condition not checked. New coordinates approximate; current access and schedules not verified. Four high scores based on retrieved official or institutional excerpts, provisional. Existing scores and three unassessed retained. Regional screen remains open.

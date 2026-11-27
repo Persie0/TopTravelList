@@ -1,0 +1,16 @@
+id: sight-ca-confederation-centre
+name: "Confederation Centre of the Arts Charlottetown"
+location:
+  country_code: CA
+  latitude: 46.234
+  longitude: -63.127
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.2
+    nightlife: 9.2

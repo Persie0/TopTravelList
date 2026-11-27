@@ -1,0 +1,16 @@
+id: sight-ca-studio-bell
+name: "Studio Bell National Music Centre Calgary"
+location:
+  country_code: CA
+  latitude: 51.045
+  longitude: -114.052
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    history: 9.3

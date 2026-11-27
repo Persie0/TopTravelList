@@ -1,0 +1,16 @@
+id: sight-ca-festival-ete-quebec
+name: "Festival d’été de Québec Live Music Festival"
+location:
+  country_code: CA
+  latitude: 46.803
+  longitude: -71.214
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.4
+  depth: 9.2
+  categories:
+    culture: 9.4
+    nightlife: 9.4
+    photography: 9.2

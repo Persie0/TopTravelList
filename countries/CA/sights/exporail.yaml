@@ -1,0 +1,16 @@
+id: sight-ca-exporail
+name: "Exporail Canadian Railway Museum Saint-Constant"
+location:
+  country_code: CA
+  latitude: 45.373
+  longitude: -73.56
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.4
+    family: 9.3
+    culture: 9.2

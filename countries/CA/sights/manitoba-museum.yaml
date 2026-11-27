@@ -1,0 +1,16 @@
+id: sight-ca-manitoba-museum
+name: "Manitoba Museum Winnipeg History and Science Galleries"
+location:
+  country_code: CA
+  latitude: 49.899
+  longitude: -97.137
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.9
+  depth: 9.1
+  categories:
+    history: 9.3
+    culture: 9.3
+    family: 9.3
