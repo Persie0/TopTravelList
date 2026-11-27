@@ -751,3 +751,29 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 214 scope decisions
 
 Gizo, Munda and Iron Bottom Sound geographically distinct diving circuits; Iron Bottom excludes Bonegi shore wrecks; no wreck penetration, salvage or guaranteed coral health. Marovo/Tetepare parent components not duplicated.
+
+## sight-sb-arnavon-conservation — Arnavon Community Marine Park Guided Turtle Conservation Visit — 2026-11-27
+
+- YAML: [source](../../../countries/SB/sights/arnavon-conservation.yaml)
+- Action: new
+- Scope: Community-authorized education and turtle observation, no handling or guaranteed nesting; regional proxy not nest coordinates.
+- Representative coordinates: -7.5, 158.0; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 8.9 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 culture:9.2.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.visitsolomons.com.sb/tour/arnavon-community-marine-park/, https://marine-conservation.org/blueparks/awardees/arnavon/, https://www.pacificislandsroundtable.com/pacific-conservation-database/sustainable-community-conservation-arnavon-islands.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SB/tetepare-island](../../../countries/SB/sights/tetepare-island.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.7 | uniqueness: +0.5 vs peer; significance: +0.5 vs peer |
+| [SB/marovo-lagoon](../../../countries/SB/sights/marovo-lagoon.yaml) | 9.1 / 9.3 / 8.7 / 9.0 / 8.8 | significance: +0.6 vs peer; depth: +0.2 vs peer |
+| [FJ/yasawa-manta](../../../countries/FJ/sights/yasawa-manta.yaml) | 9.2 / 9.2 / 8.9 / 9.1 / 8.8 | significance: +0.4 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 218 scope decisions
+
+Arnavon public conservation visitor scope only, no handling or precise nesting points. Existing Marovo and other dive scopes retained. Bounded regional screen closed.

@@ -926,3 +926,97 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 214 scope decisions
 
 Goroka and Mount Hagen recurring seasonal events separately scoped, not future confirmed dates; local community consent and travel safety required. Kumul birdwatching distinct from Varirata. Existing restricted or tentative properties left unassessed.
+
+## sight-pg-mask-warwagira — National Mask and Warwagira Cultural Festival Kokopo — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/mask-warwagira.yaml)
+- Action: new
+- Scope: Recurring public festival showcasing Tolai, Baining and Pomio traditions; no future schedule or private rites assumed.
+- Representative coordinates: -4.34, 152.27; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/mask-warwagira-festival/, https://papuanewguinea.travel/cultural-tours/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/goroka-show](../../../countries/PG/sights/goroka-show.yaml) | 9.3 / 9.5 / 9.3 / 9.1 / 8.9 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [PG/mount-hagen-show](../../../countries/PG/sights/mount-hagen-show.yaml) | 9.3 / 9.4 / 9.3 / 9.1 / 8.9 | impact: -0.1 vs peer; depth: +0.1 vs peer |
+| [VU/ambrym-rom](../../../countries/VU/sights/ambrym-rom.yaml) | 8.8 / 9.3 / 9.3 / 9.0 / 8.9 | impact: +0.4 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-kenu-kundu — National Kenu and Kundu Cultural Festival Alotau — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/kenu-kundu.yaml)
+- Action: new
+- Scope: Recurring canoe and cultural festival, separate from marine conservation and other provincial festivals; future dates not assumed.
+- Representative coordinates: -10.31, 150.46; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/national-kenu-and-kundu-festival/, https://ntdp.papuanewguinea.travel/events.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/goroka-show](../../../countries/PG/sights/goroka-show.yaml) | 9.3 / 9.5 / 9.3 / 9.1 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [PG/mount-hagen-show](../../../countries/PG/sights/mount-hagen-show.yaml) | 9.3 / 9.4 / 9.3 / 9.1 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [VU/ambrym-rom](../../../countries/VU/sights/ambrym-rom.yaml) | 8.8 / 9.3 / 9.3 / 9.0 / 8.9 | impact: +0.3 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-kavieng-diving — Kavieng New Ireland Guided Reef and Wreck Diving — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/kavieng-diving.yaml)
+- Action: new
+- Scope: Established New Ireland diving region, distinct from Kimbe Bay and Tufi; regional proxy, no guaranteed coral health, wildlife or wreck penetration.
+- Representative coordinates: -2.59, 150.76; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.9 / 9.1 / 9.0.
+- Categories: nature:9.3 adventure:9.4 wildlife:9.3.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/diving/, https://papuanewguinea.travel/stories/first-time-visitors-guide-papua-new-guinea/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/kimbe-bay](../../../countries/PG/sights/kimbe-bay.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.0 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [PG/tufi-fjords](../../../countries/PG/sights/tufi-fjords.yaml) | 9.2 / 9.3 / 8.6 / 9.0 / 8.9 | significance: +0.3 vs peer; uniqueness: -0.2 vs peer |
+| [SB/gizo-diving](../../../countries/SB/sights/gizo-diving.yaml) | 9.2 / 9.2 / 9.0 / 9.1 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-madang-diving — Madang Offshore Reef and Island Diving — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/madang-diving.yaml)
+- Action: new
+- Scope: Madang reef circuit separate from New Ireland and Kimbe; no pristine coral or wildlife guarantee.
+- Representative coordinates: -5.2, 145.81; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.8 / 9.0 / 8.9.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.2.
+- Overall: 89.25/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/diving/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/kimbe-bay](../../../countries/PG/sights/kimbe-bay.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.0 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer |
+| [PG/conflict-islands](../../../countries/PG/sights/conflict-islands.yaml) | 8.9 / 8.9 / 9.0 / 9.0 / 8.6 | depth: +0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 218 scope decisions
+
+National Mask and Kenu/Kundu festivals separately scoped; distinct regions and traditions. Kavieng and Madang diving separate from Kimbe and Tufi. Remaining Rabaul, Trobriand and other regional candidates require further scope review.

@@ -725,3 +725,73 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 214 scope decisions
 
 Ambrym crater trek deferred: Smithsonian/VMGD 19–25 November 2026 report alert level 3 and exclusion zones (https://volcano.si.edu/showreport.cfm?gvpvar=GVP.WVAR20261119-257040; https://www.vmgd.gov.vu/warnings/volcano); no permitted route assumed. Community Rom tours separate from crater tourism and private rites.
+
+## sight-vu-maskelyne-outrigger — Maskelyne Islands Multi-Day Traditional Outrigger Canoe Journey — 2026-11-27
+
+- YAML: [source](../../../countries/VU/sights/maskelyne-outrigger.yaml)
+- Action: new
+- Scope: Community-hosted paddling, island visits and marine observation grouped; dugongs not guaranteed, no separate Gaspard Bay entry due to overlap.
+- Representative coordinates: -16.52, 167.8; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.0 / 9.2 / 9.2.
+- Categories: culture:9.3 adventure:9.4 nature:9.3.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.vanuatu.travel/en/maskelyne-island-outrigger-canoe-adventure, https://vanuatu.com.au/malekula-island/maskelyne-islands-outrigger-canoe-adventure/, https://www.vanuatu.travel/en/malog-bungalows-tours.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VU/ambrym-rom](../../../countries/VU/sights/ambrym-rom.yaml) | 8.8 / 9.3 / 9.3 / 9.0 / 8.9 | significance: -0.3 vs peer; depth: +0.3 vs peer |
+| [VU/millennium-cave](../../../countries/VU/sights/millennium-cave.yaml) | 8.8 / 8.6 / 7.5 / 9.0 / 8.5 | significance: +1.5 vs peer; uniqueness: +0.7 vs peer |
+| [TO/haapai-kayaking](../../../countries/TO/sights/haapai-kayaking.yaml) | 8.6 / 8.6 / 8.1 / 8.8 / 8.7 | significance: +0.9 vs peer; uniqueness: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-vu-hideaway-island — Hideaway Island Reef Snorkelling and Underwater Post Office — 2026-11-27
+
+- YAML: [source](../../../countries/VU/sights/hideaway-island.yaml)
+- Action: new
+- Scope: Island reef and underwater postal experience grouped; no guaranteed postal staffing or coral condition.
+- Representative coordinates: -17.69, 168.26; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.2 / 8.8 / 8.4.
+- Categories: nature:9.2 family:9.2 adventure:9.1.
+- Overall: 85.75/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.vanuatu.travel/en/plan/planning-tools/guides/how-to-get-to-efate, https://www.vanuatu.travel/en/things-to-do/beaches.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VU/tanna-blue-cave](../../../countries/VU/sights/tanna-blue-cave.yaml) | 8.8 / 8.8 / 8.2 / 8.8 / 8.2 | impact: -0.3 vs peer; depth: +0.2 vs peer |
+| [VU/million-dollar-point](../../../countries/VU/sights/million-dollar-point.yaml) | 7.9 / 8.7 / 8.0 / 8.0 / 7.3 | depth: +1.1 vs peer; experience: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-vu-mount-hope-waterfall — Mount Hope Waterfall Guided River Walk Espiritu Santo — 2026-11-27
+
+- YAML: [source](../../../countries/VU/sights/mount-hope-waterfall.yaml)
+- Action: new
+- Scope: Named guided waterfall experience, separate from blue holes and Millennium Cave; locality proxy, water conditions apply.
+- Representative coordinates: -15.41, 167.17; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.2 / 8.8 / 8.5.
+- Categories: nature:9.2 photography:9.2 adventure:9.2.
+- Overall: 85.65/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.vanuatu.travel/en/mount-hope-waterfall-tours.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VU/millennium-cave](../../../countries/VU/sights/millennium-cave.yaml) | 8.8 / 8.6 / 7.5 / 9.0 / 8.5 | significance: +0.7 vs peer; impact: -0.2 vs peer |
+| [VU/riri-blue-hole](../../../countries/VU/sights/riri-blue-hole.yaml) | 8.7 / 8.3 / 7.0 / 8.7 / 7.5 | significance: +1.2 vs peer; depth: +1.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 218 scope decisions
+
+Maskelyne journey includes marine encounters, not separate Gaspard Bay duplicate. Hideaway reef and post office grouped. Ambrym crater access deferral retained. Bounded regional screen closed.

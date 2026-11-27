@@ -846,3 +846,28 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 214 scope decisions
 
 Haapai regulated whale viewing separate from Vavau licensed marine circuit; Vavau whale watching not duplicated. Haapai kayaking distinct from whale encounters; no guaranteed sightings.
+
+## sight-to-ancient-tonga-centre — Ancient Tonga Cultural Centre Traditional Crafts and Food Experience — 2026-11-27
+
+- YAML: [source](../../../countries/TO/sights/ancient-tonga-centre.yaml)
+- Action: new
+- Scope: Public interactive craft and food interpretation, distinct from archaeological capitals and royal tombs.
+- Representative coordinates: -21.14, -175.18; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.3 / 8.7 / 8.8 / 8.7 / 8.5.
+- Categories: culture:9.3 history:9.0 food:9.1.
+- Overall: 85.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.tongatourism.travel/discover/people-and-culture/authentic-handicrafts.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [TO/ancient-capitals](../../../countries/TO/sights/ancient-capitals.yaml) | 8.1 / 8.9 / 9.1 / 7.9 / 8.3 | experience: +0.8 vs peer; significance: -0.3 vs peer |
+| [TO/talamahu-market](../../../countries/TO/sights/talamahu-market.yaml) | 6.9 / 7.2 / 6.9 / 7.9 / 7.1 | significance: +1.9 vs peer; uniqueness: +1.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 218 scope decisions
+
+Ancient Tonga centre separate from archaeological capital. Tofua active volcano tour advertised but route and permission remain insufficiently established; deferred (https://www.tongatourism.travel/see-and-do/sightseeing-tours). Bounded regional screen closed.
