@@ -11202,7 +11202,7 @@ Ranking rows checked; peer YAML and international calibration pending.
 
 ## sight-fr-mont-lozere — Mont Lozère Granite Highlands and Summit Trails — 2026-11-27
 
-- YAML: [source](../../../countries/FR/sights/mont-lozere.yaml)
+- YAML: Retired in pass 174 (historical record; see consolidation decision below).
 - Action: new
 - Scope: Local summit hiking only; check Cévennes and Causses cultural-landscape overlap.
 - Representative coordinates: 44.426, 3.738; approximate, not independently verified.
@@ -11913,3 +11913,186 @@ Ranking rows checked; factual, coordinate, peer YAML and international calibrati
 
 Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
 
+## sight-fr-elne-cathedral-cloister — Elne Cathedral and Romanesque Marble Cloister — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/elne-cathedral-cloister.yaml)
+- Action: new
+- Scope: Eleventh- and twelfth-century Catalan Romanesque cathedral and marble cloister combined.
+- Representative coordinates: 42.599, 2.971; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.0 / 9.1.
+- Categories: architecture:9.4,history:9.4,culture:9.3.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tourisme-pyrenees-mediterranee.com/en/cultural-site/delne-cloister/ ; https://www.tourisme-pyrenees-mediterranee.com/en/cultural-site/cathedral-of-saint-eulalie-and-saint-julie/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/tournus-abbey](../../../countries/FR/sights/tournus-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [FR/autun-cathedral](../../../countries/FR/sights/autun-cathedral.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/abbaye-saint-michel-cuxa](../../../countries/FR/sights/abbaye-saint-michel-cuxa.yaml) | 8.8 / 9.1 / 9.2 / 8.8 / 8.8 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [FR/cadouin-cloister](../../../countries/FR/sights/cadouin-cloister.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 8.9 | depth: +0.2 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-serrabona-priory — Prieuré de Serrabona Romanesque Marble Sculpture and Priory — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/serrabona-priory.yaml)
+- Action: new
+- Scope: Distinct priory with rare twelfth-century carved marble tribune and sculpture.
+- Representative coordinates: 42.598, 2.586; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.2 / 9.0 / 8.9.
+- Categories: architecture:9.4,culture:9.4,history:9.3.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.ledepartement66.fr/dossier/le-prieure-de-serrabona/ ; https://www.intramuros.org/ille-sur-tet/etablissements_culturels/331963.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/abbaye-saint-michel-cuxa](../../../countries/FR/sights/abbaye-saint-michel-cuxa.yaml) | 8.8 / 9.1 / 9.2 / 8.8 / 8.8 | uniqueness: +0.3 vs peer; experience: +0.2 vs peer |
+| [FR/autun-cathedral](../../../countries/FR/sights/autun-cathedral.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [FR/abbaye-saint-martin-canigou](../../../countries/FR/sights/abbaye-saint-martin-canigou.yaml) | 9.1 / 9.1 / 9.0 / 8.9 / 8.7 | uniqueness: +0.3 vs peer; impact: -0.2 vs peer |
+| [FR/la-brigue-fontaines](../../../countries/FR/sights/la-brigue-fontaines.yaml) | 9.0 / 9.4 / 9.2 / 9.0 / 8.8 | impact: -0.1 vs peer; depth: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-thuir-byrrh — Caves Byrrh Thuir Industrial Cellars and Historic Oak Vat — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/thuir-byrrh.yaml)
+- Action: new
+- Scope: Historic industrial cellars with exceptionally large oak vat and interpretation; no tasting required for intrinsic score.
+- Representative coordinates: 42.634, 2.756; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.0 / 9.1 / 9.0.
+- Categories: culture:9.3,history:9.3,food:9.2.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from indexed official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.lescavesbyrrh.com/en/visites ; https://www.tourisme-pyreneesorientales.com/en/blog/caves-byrrh/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/caves-chartreuse-voiron](../../../countries/FR/sights/caves-chartreuse-voiron.yaml) | 8.5 / 9.0 / 8.7 / 8.8 / 8.6 | impact: +0.4 vs peer; depth: +0.4 vs peer |
+| [FR/grasse-perfume-museum](../../../countries/FR/sights/grasse-perfume-museum.yaml) | 8.9 / 9.4 / 9.1 / 9.1 / 9.1 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer |
+| [FR/michelin-aventure](../../../countries/FR/sights/michelin-aventure.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [FR/aubusson-tapestry](../../../countries/FR/sights/aubusson-tapestry.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.9 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-saissac-castle — Château de Saissac Medieval Castle Ruins and Panoramas — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saissac-castle.yaml)
+- Action: new
+- Scope: Independent castle outside UNESCO eight-component series.
+- Representative coordinates: 43.357, 2.166; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.8 / 8.6.
+- Categories: architecture:9.3,history:9.3,photography:9.3.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/najac-fortress](../../../countries/FR/sights/najac-fortress.yaml) | 8.9 / 8.9 / 9.0 / 8.8 / 8.8 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [FR/capetian-fortresses](../../../countries/FR/sights/capetian-fortresses.yaml) | 9.1 / 9.2 / 9.2 / 8.8 / 9.1 | depth: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-villerouge-termenes-castle — Château de Villerouge-Termenès Medieval Castle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/villerouge-termenes-castle.yaml)
+- Action: new
+- Scope: Independent castle, not Termes fortress or other serial component.
+- Representative coordinates: 43.006, 2.627; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: architecture:9.3,history:9.3,culture:9.2.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/najac-fortress](../../../countries/FR/sights/najac-fortress.yaml) | 8.9 / 8.9 / 9.0 / 8.8 / 8.8 | impact: -0.2 vs peer; depth: -0.1 vs peer |
+| [FR/capetian-fortresses](../../../countries/FR/sights/capetian-fortresses.yaml) | 9.1 / 9.2 / 9.2 / 8.8 / 9.1 | impact: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-arques-castle — Château d’Arques Medieval Castle and Cathar History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/arques-castle.yaml)
+- Action: new
+- Scope: Castle and associated Déodat Roché interpretation; independent of serial property.
+- Representative coordinates: 42.953, 2.368; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.7 / 8.7.
+- Categories: architecture:9.3,history:9.3,culture:9.2.
+- Overall: 87.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/najac-fortress](../../../countries/FR/sights/najac-fortress.yaml) | 8.9 / 8.9 / 9.0 / 8.8 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [FR/capetian-fortresses](../../../countries/FR/sights/capetian-fortresses.yaml) | 9.1 / 9.2 / 9.2 / 8.8 / 9.1 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-eus-village — Eus Historic Terraced Hilltop Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/eus-village.yaml)
+- Action: new
+- Scope: Terraced village and local panoramas; excludes nearby Canigó hiking.
+- Representative coordinates: 42.644, 2.46; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.8 / 8.4.
+- Categories: photography:9.3,architecture:9.2,relaxation:9.1.
+- Overall: 86.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/castelnou-village](../../../countries/FR/sights/castelnou-village.yaml) | 8.8 / 8.8 / 8.7 / 8.8 / 8.5 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+| [FR/saorge-village](../../../countries/FR/sights/saorge-village.yaml) | 8.7 / 8.7 / 8.5 / 8.7 / 8.4 | experience: +0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-saint-hilaire-abbey — Abbaye de Saint-Hilaire Medieval Abbey and Sculptural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-hilaire-abbey.yaml)
+- Action: new
+- Scope: Historic abbey and sculptural heritage; independent of other Aude abbeys.
+- Representative coordinates: 43.092, 2.308; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.8.
+- Categories: architecture:9.3,history:9.3,culture:9.2.
+- Overall: 88.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/abbaye-fontfroide](../../../countries/FR/sights/abbaye-fontfroide.yaml) | 9.0 / 9.0 / 9.1 / 9.0 / 9.0 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+| [FR/lagrasse-abbey-village](../../../countries/FR/sights/lagrasse-abbey-village.yaml) | 8.9 / 8.9 / 8.9 / 8.9 / 8.7 | impact: -0.2 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-mont-lozere — overlap consolidation — 2026-11-27
+
+- Action: retire redundant new standalone YAML; prior score 88.15 retained in audit history only.
+- Retained parent records: [Causses and Cévennes](../../../countries/FR/sights/causses-cevennes.yaml), [Cévennes National Park](../../../countries/FR/sights/cevennes-park.yaml). Neither parent score changed.
+- Evidence: https://whc.unesco.org/en/list/1153/ explicitly places Mont Lozère within the inscribed property; https://www.cevennes-parcnational.fr/votre-visite/decouvrir-les-cevennes/mont-lozere identifies its summit as highest point in park. Broad granite highland and summit-trail experience overlaps park scope; no separately ticketed or distinct interpretation established.
+- Decision: remove standalone record, preserve historical assessment and peer comparisons.

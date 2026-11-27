@@ -2716,3 +2716,21 @@ Next: Return to mainland FR residual high-value coverage and overseas follow-up;
 - [x] FR — Abbaye de Saint-Sever Romanesque Abbey Church: 89.00/100 (desk-based provisional).
 
 18 additions, 12 desk-based provisional, 6 source-informed, 6 90+, 48 domestic ranking-row comparisons. France 1082 ranked / 1093 total; 11 unassessed unchanged. Local visits at pilgrimage components independently scoped from route-level entry; Saint-Bertrand and Valcabrère grouped. Mont Lozère overlap remains pending. Next: final named-candidate and overlap closure check. Full Python validation pending.
+
+
+### Pass 174 — French mainland bounded queue closure
+
+- [x] FR — Elne Cathedral and Romanesque Marble Cloister: 91.20/100 (source-linked-unverified).
+- [x] FR — Prieuré de Serrabona Romanesque Marble Sculpture and Priory: 91.00/100 (source-linked-unverified).
+- [x] FR — Caves Byrrh Thuir Industrial Cellars and Historic Oak Vat: 90.60/100 (source-linked-unverified).
+- [x] FR — Château de Saissac Medieval Castle Ruins and Panoramas: 88.00/100 (desk-based provisional).
+- [x] FR — Château de Villerouge-Termenès Medieval Castle: 88.25/100 (desk-based provisional).
+- [x] FR — Château d’Arques Medieval Castle and Cathar History Museum: 87.35/100 (desk-based provisional).
+- [x] FR — Eus Historic Terraced Hilltop Village: 86.45/100 (desk-based provisional).
+- [x] FR — Abbaye de Saint-Hilaire Medieval Abbey and Sculptural Heritage: 88.35/100 (desk-based provisional).
+
+- [x] FR — Mont Lozère (88.15) retired as overlapping existing Causses and Cévennes and Cévennes National Park: https://whc.unesco.org/en/list/1153/ ; https://www.cevennes-parcnational.fr/votre-visite/decouvrir-les-cevennes/mont-lozere .
+- [x] FR — Seven non-Carcassonne Capetian components excluded as already represented by existing serial property: https://whc.unesco.org/en/list/1755/ . Villefranche and Mont-Louis fortifications remain covered by Vauban.
+- [x] FR — Grandes Canalettes cave deferred pending precise scope of tentative cave series: https://whc.unesco.org/en/tentativelists/1429/ . This is an overlap hold, not a judgment of merit.
+
+8 additions, 1 redundant entry removed, 5 desk-based provisional, 3 source-informed, 3 90+, 22 new domestic ranking-row comparisons. France 1089 ranked / 1100 total; 11 prior unassessed unchanged. 999 net French additions since pass 115. Bounded mainland discovery queue closed; not exhaustive. Existing retained scores unchanged. Next: overseas priority queues, starting Réunion. Full Python validation and independent factual and international calibration pending.
