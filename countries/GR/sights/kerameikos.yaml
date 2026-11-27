@@ -1,0 +1,16 @@
+id: sight-gr-kerameikos
+name: "Kerameikos Archaeological Site and Museum Athens"
+location:
+  country_code: GR
+  latitude: 37.97856
+  longitude: 23.71755
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.1
+    architecture: 8.9

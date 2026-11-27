@@ -1088,3 +1088,16 @@ Eight additions, 32 peer rows. Greece 80 ranked / 81 total. Acrocorinth distinct
 - [x] GR — Kleftiko Sea Caves and Coastal Rock Arches Milos: 89.05/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Greece 88 ranked / 89 total. Dodona theatre covered by existing tentative Greek theatres series (https://whc.unesco.org/en/tentativelists/5869/); defer sanctuary-only record until meaningful separate scope established. Kleftiko substituted as distinct island coastal experience. Roman Agora and Hadrian's Library grouped. Achilleion operator confirms garden/outdoor-only access during restoration; normal-condition score. Next bounded screen: Olympieion, Kerameikos, substantive independent Athens museum, Rhodes Valley of Butterflies, Zakynthos Blue Caves, Preveli, Vai, Paleokastritsa. Full Python validation pending.
+
+### Pass 95 — Greek archaeology, specialist museum and coastal landscapes
+
+- [x] GR — Temple of Olympian Zeus and Hadrian's Arch Athens: 87.00/100 (source-linked-unverified).
+- [x] GR — Kerameikos Archaeological Site and Museum Athens: 88.00/100 (source-linked-unverified).
+- [x] GR — Museum of Greek Folk Musical Instruments Athens: 84.45/100 (source-linked-unverified).
+- [x] GR — Valley of the Butterflies Rhodes: 85.70/100 (source-linked-unverified).
+- [x] GR — Blue Caves of Northern Zakynthos: 87.30/100 (source-linked-unverified).
+- [x] GR — Preveli Palm Beach and River Grove Crete: 87.25/100 (source-linked-unverified).
+- [x] GR — Vai Palm Forest and Beach Crete: 87.40/100 (source-linked-unverified).
+- [x] GR — Paleokastritsa Bays and Monastery Corfu: 88.30/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Greece 96 ranked / 97 total. Olympieion and Hadrian's Arch grouped; Kerameikos museum and excavations grouped; northern Blue Caves separate from southern marine park and Navagio; palm groves grouped with beaches; butterfly aggregation seasonal. Next bounded screen: Ancient Kamiros, Asklepieion of Kos, Nisyros Stefanos crater, Messolonghi or other distinct lagoon scope, Santorini Museum of Prehistoric Thera, Chios medieval mastic villages, Mykonos windmills and Little Venice, and Thessaly Lake Plastiras. Full Python validation pending.

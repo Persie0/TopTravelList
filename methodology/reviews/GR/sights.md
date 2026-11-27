@@ -3218,3 +3218,315 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-gr-olympieion-hadrians-arch — Temple of Olympian Zeus and Hadrian's Arch Athens — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/olympieion-hadrians-arch.yaml)
+- Action: new
+- Precise subject and limitations: Adjacent Olympieion archaeological precinct and arch grouped. Distinct from Acropolis and Roman Agora; no assumption of unrestricted access during conservation.
+- Location check: 37.96929, 23.7331; [published representative point](https://www.allovergreece.com/Archaeological-Site/Descr/54/en), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/the-olympieion-and-the-arch-of-hadrian); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/sounion](../../../countries/GR/sights/sounion.yaml) | 8.9 / 9.0 / 9.1 / 8.8 / 7.9 | uniqueness: -0.3 vs peer; experience: -0.3 vs peer. |
+| [GR/portara-naxos](../../../countries/GR/sights/portara-naxos.yaml) | 8.8 / 8.9 / 8.9 / 8.7 / 7.7 | significance: +0.3 vs peer; depth: +0.3 vs peer. |
+| [GR/ancient-agora](../../../countries/GR/sights/ancient-agora.yaml) | 9.0 / 9.2 / 9.6 / 9.0 / 8.8 | depth: -0.8 vs peer; uniqueness: -0.5 vs peer. |
+| [IT/baths-caracalla](../../../countries/IT/sights/baths-caracalla.yaml) | 9.1 / 8.9 / 9.3 / 8.8 / 8.8 | depth: -0.8 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Monumental surviving columns and arch. |
+| Uniqueness | 8.7 | Distinct giant Corinthian temple remains. |
+| Significance | 9.2 | Important ancient Athenian and Roman heritage. |
+| Experience | 8.5 | Established archaeological and exterior visit. |
+| Depth | 8.0 | Limited surviving structures. |
+
+- Applicable categories: history:9.3, architecture:9.2, photography:9.0.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-kerameikos — Kerameikos Archaeological Site and Museum Athens — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/kerameikos.yaml)
+- Action: new
+- Precise subject and limitations: Ancient cemetery, gates and associated museum grouped under combined admission; excludes modern neighbourhood.
+- Location check: 37.97856, 23.71755; [published representative point](https://mapcarta.com/26241088), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hh.gr/en/destinations/kerameikos/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/ancient-agora](../../../countries/GR/sights/ancient-agora.yaml) | 9.0 / 9.2 / 9.6 / 9.0 / 8.8 | impact: -0.5 vs peer; significance: -0.4 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | impact: -0.4 vs peer; uniqueness: +0.1 vs peer. |
+| [IT/etruscan-necropolises](../../../countries/IT/sights/etruscan-necropolises.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [GR/roman-agora-hadrians-library](../../../countries/GR/sights/roman-agora-hadrians-library.yaml) | 8.6 / 8.7 / 9.0 / 8.7 / 8.6 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Evocative cemetery and archaeological remains. |
+| Uniqueness | 8.9 | Distinct funerary monuments and urban gateway. |
+| Significance | 9.2 | Important Athenian funerary and civic history. |
+| Experience | 8.7 | Dedicated excavation and museum route. |
+| Depth | 8.8 | Several structures and artefact displays. |
+
+- Applicable categories: history:9.3, culture:9.1, architecture:8.9.
+- Computed worldwide overall: 88.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-greek-folk-musical-instruments-museum — Museum of Greek Folk Musical Instruments Athens — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/greek-folk-musical-instruments-museum.yaml)
+- Action: new
+- Precise subject and limitations: Independent ethnomusicological collection with recorded instrument sounds; excludes broader Plaka and Benaki collections.
+- Location check: 37.97448, 23.72755; [published representative point](https://mapcarta.com/W223175510), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://melmo.culture.gov.gr/en/episkepsi/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/benaki-museum-greek-culture](../../../countries/GR/sights/benaki-museum-greek-culture.yaml) | 8.8 / 8.9 / 9.2 / 8.9 / 9.1 | depth: -1.0 vs peer; impact: -0.7 vs peer. |
+| [GR/cycladic-art-museum](../../../countries/GR/sights/cycladic-art-museum.yaml) | 8.8 / 9.2 / 9.2 / 8.8 / 8.8 | impact: -0.7 vs peer; significance: -0.7 vs peer. |
+| [IT/mole-antonelliana](../../../countries/IT/sights/mole-antonelliana.yaml) | 8.9 / 9.0 / 8.7 / 9.0 / 8.8 | impact: -0.8 vs peer; depth: -0.7 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | depth: -0.6 vs peer; impact: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Engaging but compact object displays. |
+| Uniqueness | 8.8 | Distinct traditional instrument collection and audio. |
+| Significance | 8.5 | Important Greek intangible cultural heritage. |
+| Experience | 8.7 | Dedicated exhibits and recorded sound interpretation. |
+| Depth | 8.1 | Focused specialist collection. |
+
+- Applicable categories: culture:9.2, history:8.8, family:8.6.
+- Computed worldwide overall: 84.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-rhodes-butterfly-valley — Valley of the Butterflies Rhodes — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/rhodes-butterfly-valley.yaml)
+- Action: new
+- Precise subject and limitations: Wooded valley paths and associated natural history museum grouped. Seasonal Jersey tiger moth aggregation not guaranteed outside its normal season; avoid disturbance.
+- Location check: 36.34001, 28.05988; [published representative point](https://www.allovergreece.com/Sights/Descr/38/2362/en), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/leisure/parks/valley-of-the-butterflies); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/lesvos-petrified](../../../countries/GR/sights/lesvos-petrified.yaml) | 8.6 / 9.2 / 9.1 / 8.6 / 8.4 | significance: -0.8 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/samaria](../../../countries/GR/sights/samaria.yaml) | 9.3 / 9.1 / 8.8 / 9.0 / 8.8 | impact: -0.8 vs peer; significance: -0.5 vs peer. |
+| [IT/zingaro-nature-reserve](../../../countries/IT/sights/zingaro-nature-reserve.yaml) | 9.0 / 8.8 / 8.5 / 9.0 / 8.7 | impact: -0.5 vs peer; depth: -0.4 vs peer. |
+| [PT/caldeira-velha](../../../countries/PT/sights/caldeira-velha.yaml) | 8.8 / 8.7 / 8.4 / 8.8 / 8.3 | impact: -0.3 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Scenic shaded valley and streams. |
+| Uniqueness | 8.9 | Distinct seasonal moth aggregation. |
+| Significance | 8.3 | Regional habitat significance. |
+| Experience | 8.7 | Established walking paths and museum. |
+| Depth | 8.3 | Bounded valley route. |
+
+- Applicable categories: nature:9.1, wildlife:9.1, photography:9.0.
+- Computed worldwide overall: 85.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-zakynthos-blue-caves — Blue Caves of Northern Zakynthos — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/zakynthos-blue-caves.yaml)
+- Action: new
+- Precise subject and limitations: Northern sea caves near Skinari, distinct from Navagio viewpoints and southern Zakynthos marine park; boat passage and swimming conditional on weather and operator.
+- Location check: 37.92023, 20.70969; [published representative point](https://www.allovergreece.com/Natural-Monument/Descr/16/en), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discovergreece.com/activities-tours/zakynthos-shipwreck-cruise-full-day); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/kleftiko-sea-caves](../../../countries/GR/sights/kleftiko-sea-caves.yaml) | 9.3 / 9.1 / 8.2 / 9.0 / 8.5 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [GR/melissani-lake-cave](../../../countries/GR/sights/melissani-lake-cave.yaml) | 9.2 / 9.1 / 8.3 / 8.8 / 7.8 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/blue-grotto-capri](../../../countries/IT/sights/blue-grotto-capri.yaml) | 9.0 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +0.9 vs peer; experience: +0.4 vs peer. |
+| [IT/neptunes-grotto](../../../countries/IT/sights/neptunes-grotto.yaml) | 9.1 / 8.9 / 8.5 / 8.8 / 8.5 | significance: -0.4 vs peer; depth: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Striking blue water and limestone arches. |
+| Uniqueness | 8.9 | Distinct coastal cave formations. |
+| Significance | 8.1 | Regional geological heritage. |
+| Experience | 8.9 | Established boat-based viewing. |
+| Depth | 8.2 | Bounded cluster of caves. |
+
+- Applicable categories: nature:9.2, photography:9.4, adventure:9.1.
+- Computed worldwide overall: 87.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-preveli-palm-beach — Preveli Palm Beach and River Grove Crete — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/preveli-palm-beach.yaml)
+- Action: new
+- Precise subject and limitations: River mouth, palm-lined gorge and beach grouped; excludes monastery. Path and bathing conditions vary.
+- Location check: 35.15261, 24.47385; [published representative point](https://www.allovergreece.com/Cretan-Beaches/Top/916/en), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discovergreece.com/experiences/experience-palm-fringed-beauty-preveli-beach); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/balos](../../../countries/GR/sights/balos.yaml) | 9.2 / 9.0 / 8.3 / 8.8 / 7.9 | depth: +0.6 vs peer; impact: -0.3 vs peer. |
+| [GR/elafonisi](../../../countries/GR/sights/elafonisi.yaml) | 9.0 / 8.9 / 8.2 / 8.9 / 7.7 | depth: +0.8 vs peer; impact: -0.1 vs peer. |
+| [GR/myrtos-beach](../../../countries/GR/sights/myrtos-beach.yaml) | 9.2 / 8.7 / 8.0 / 8.8 / 7.8 | depth: +0.7 vs peer; impact: -0.3 vs peer. |
+| [PT/porto-santo-beach](../../../countries/PT/sights/porto-santo-beach.yaml) | 8.9 / 8.4 / 8.0 / 9.1 / 8.5 | uniqueness: +0.5 vs peer; significance: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Scenic river and coastal setting. |
+| Uniqueness | 8.9 | Distinct riverbank palm grove and sea. |
+| Significance | 8.3 | Regional ecological heritage. |
+| Experience | 8.8 | Established beach and riverside visit. |
+| Depth | 8.5 | Several connected landscape features. |
+
+- Applicable categories: nature:9.2, photography:9.3, beaches:9.0, adventure:8.8.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-vai-palm-forest — Vai Palm Forest and Beach Crete — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/vai-palm-forest.yaml)
+- Action: new
+- Precise subject and limitations: Native palm grove and adjacent beach grouped; excludes Ancient Itanos and assumes only permitted paths, not unrestricted forest access.
+- Location check: 35.25482, 26.26203; [published representative point](https://www.allovergreece.com/en/beautiful-forests-greece/vai-palm-forest-crete), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/nature/forests/vai-palm-forest-and-ancient-itanos); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/elafonisi](../../../countries/GR/sights/elafonisi.yaml) | 9.0 / 8.9 / 8.2 / 8.9 / 7.7 | depth: +0.6 vs peer; significance: +0.3 vs peer. |
+| [GR/balos](../../../countries/GR/sights/balos.yaml) | 9.2 / 9.0 / 8.3 / 8.8 / 7.9 | impact: -0.4 vs peer; depth: +0.4 vs peer. |
+| [GR/myrtos-beach](../../../countries/GR/sights/myrtos-beach.yaml) | 9.2 / 8.7 / 8.0 / 8.8 / 7.8 | significance: +0.5 vs peer; depth: +0.5 vs peer. |
+| [IT/zingaro-nature-reserve](../../../countries/IT/sights/zingaro-nature-reserve.yaml) | 9.0 / 8.8 / 8.5 / 9.0 / 8.7 | depth: -0.4 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Attractive palm-backed coast. |
+| Uniqueness | 9.0 | Distinct native palm concentration. |
+| Significance | 8.5 | Regional botanical significance. |
+| Experience | 8.8 | Established beach and designated paths. |
+| Depth | 8.3 | Bounded forest and beach precinct. |
+
+- Applicable categories: nature:9.2, beaches:9.1, photography:9.2, relaxation:8.8.
+- Computed worldwide overall: 87.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-paleokastritsa-coast — Paleokastritsa Bays and Monastery Corfu — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/paleokastritsa-coast.yaml)
+- Action: new
+- Precise subject and limitations: Connected coastal bays, immediate sea grottoes and promontory monastery grouped. Representative bay point, not entrance or boat departure. Excludes Corfu Old Town and Achilleion.
+- Location check: 39.6725, 19.7106; [published representative point](https://mapcarta.com/N11901706628), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visit.corfu.gr/beaches/paleokastritsa/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/balos](../../../countries/GR/sights/balos.yaml) | 9.2 / 9.0 / 8.3 / 8.8 / 7.9 | depth: +0.9 vs peer; impact: -0.2 vs peer. |
+| [GR/kleftiko-sea-caves](../../../countries/GR/sights/kleftiko-sea-caves.yaml) | 9.3 / 9.1 / 8.2 / 9.0 / 8.5 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/san-fruttuoso-abbey](../../../countries/IT/sights/san-fruttuoso-abbey.yaml) | 8.9 / 8.8 / 8.6 / 8.9 / 8.4 | depth: +0.4 vs peer; impact: +0.1 vs peer. |
+| [IT/capri](../../../countries/IT/sights/capri.yaml) | 9.3 / 9.2 / 8.9 / 9.1 / 9.0 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic bays and vegetated headlands. |
+| Uniqueness | 8.8 | Distinct monastery and coastal setting. |
+| Significance | 8.5 | Regional religious and scenic heritage. |
+| Experience | 9.0 | Established beaches, walks and conditional boat trips. |
+| Depth | 8.8 | Several connected features. |
+
+- Applicable categories: nature:9.2, photography:9.3, beaches:9.1, culture:8.9.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
