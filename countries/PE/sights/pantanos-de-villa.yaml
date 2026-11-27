@@ -1,0 +1,16 @@
+id: sight-pe-pantanos-de-villa
+name: "Pantanos de Villa Lima Wetland Wildlife Refuge"
+location:
+  country_code: PE
+  latitude: -12.21
+  longitude: -76.99
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    wildlife: 9.3
+    nature: 9.1
+    photography: 9.1

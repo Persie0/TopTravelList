@@ -4673,3 +4673,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — San Francisco Yarinacocha Shipibo-Konibo Community Art Experience: 87.00/100 (desk-based provisional).
 
 12 additions, 6 source-linked provisional, 6 desk-based provisional, 3 90+, 38 ranking-row comparisons (14 international). PE 174 ranked / 176 total, +110 since baseline 66. Áspero and Vichama grouped as separate coastal visit circuit excluding Sacred City of Caral; no UNESCO extension claimed. Peñico deferred for separate scope screen. Raymi Llaqta national-interest legislation is not final designation; Otuzco national heritage not UNESCO inscription. Alto Mayo forest deferred because Abra Patricia overlap is documented; non-overlapping routes require evidence. Villa Rica coffee distinct from wilderness. Alto Shilcayo excludes Ahuashiyacu, Quinua excludes battlefield, community art consent required. Prior UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Previous deferrals preserved. Current queue remains OPEN after three additional 90+ omissions, next screen Peñico, remaining regional heritage and authorized protected-area visitor experiences. Existing scores and two unassessed preserved. Coordinates approximate; current access and schedules unverified.
+
+### Pass 263 — Peru Peñico, regional festivals and protected-area visitor routes
+
+- [x] PE — Huánuco Negritos Christmas Dance and Niño Jesús Festival: 91.90/100 (source-linked-unverified).
+- [x] PE — Cocharcas Apurímac Mamacha Cocharcas Pilgrimage and Festival: 90.55/100 (source-linked-unverified).
+- [x] PE — Junín National Reserve Lake Chinchaycocha Highland Birdwatching: 90.05/100 (source-linked-unverified).
+- [x] PE — Peñico Caral Tradition Archaeological City and Interpretation Centre: 88.85/100 (source-linked-unverified).
+- [x] PE — Tingana Community Wetland Reserve Canoe and Wildlife Experience: 88.45/100 (source-linked-unverified).
+- [x] PE — Laquipampa Wildlife Refuge Dry Forest and White-Winged Guan Trails: 87.45/100 (source-linked-unverified).
+- [x] PE — Punta Coles Ilo Coastal Marine Wildlife Visitor Circuit: 87.15/100 (source-linked-unverified).
+- [x] PE — Guañape Islands Marine Wildlife Boat Circuit La Libertad: 86.70/100 (source-linked-unverified).
+- [x] PE — Pampachiri Pankula Stone Forest Apurímac: 86.85/100 (source-linked-unverified).
+- [x] PE — Pantanos de Villa Lima Wetland Wildlife Refuge: 86.15/100 (source-linked-unverified).
+- [x] PE — Ite Tacna Coastal Wetlands Birdwatching Viewpoints: 84.20/100 (source-linked-unverified).
+- [x] PE — Río Tigre Waterfall Oxapampa Forest Walk: 83.25/100 (desk-based provisional).
+
+12 additions, 11 source-linked provisional, 1 desk-based provisional, 3 90+, 35 ranking-row comparisons (9 international). PE 186 ranked / 188 total, +122 since baseline 66. Peñico independently visitable per official 2025 opening; distinct from Caral and Áspero/Vichama, no extension of UNESCO status. Huánuco and Apurímac festivals restricted to named regional events. Junín birding requires prior coordination; Tingana wetland excludes Abra Patricia and Waqanki. Punta Coles and Guañape represent separate guano reserve sectors; no landing at Guañape, incomplete serial coverage. Prior UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Amarakaeri and other restricted reserves remain deferred pending authorized visitor scope; Calipuy sanctuary and reserve need distinct visitor-route confirmation. Prior deferrals retained. Keep queue OPEN for final targeted screen of Calipuy, distinct Amazon community experiences and regional cultural omissions. Existing scores and two unassessed preserved. Coordinates approximate, schedules and current access unverified.

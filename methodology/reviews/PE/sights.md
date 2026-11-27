@@ -3685,3 +3685,262 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 262 scope decisions
 
 12 additions, 6 source-linked provisional, 6 desk-based provisional, 3 90+, 38 ranking-row comparisons (14 international). PE 174 ranked / 176 total, +110 since baseline 66. Áspero and Vichama grouped as separate coastal visit circuit excluding Sacred City of Caral; no UNESCO extension claimed. Peñico deferred for separate scope screen. Raymi Llaqta national-interest legislation is not final designation; Otuzco national heritage not UNESCO inscription. Alto Mayo forest deferred because Abra Patricia overlap is documented; non-overlapping routes require evidence. Villa Rica coffee distinct from wilderness. Alto Shilcayo excludes Ahuashiyacu, Quinua excludes battlefield, community art consent required. Prior UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Previous deferrals preserved. Current queue remains OPEN after three additional 90+ omissions, next screen Peñico, remaining regional heritage and authorized protected-area visitor experiences. Existing scores and two unassessed preserved. Coordinates approximate; current access and schedules unverified.
+
+## sight-pe-negritos-huanuco — Huánuco Negritos Christmas Dance and Niño Jesús Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/negritos-huanuco.yaml)
+- Action: new
+- Scope: Public Christmas dance tradition of the Huánuco cofradías; 2021 national heritage declaration and 2026 launch documented. Excludes other regional variants.
+- Representative coordinates: -9.93, -76.24; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.90/100.
+- Source: https://www.gob.pe/institucion/cultura/normas-legales/2013244-166-2021-vmpcic-mc
+- Source: https://www.gob.pe/institucion/cultura/noticias/1327197-ministerio-de-cultura-participo-en-el-lanzamiento-oficial-de-la-festividad-de-los-negritos-de-huanuco-patrimonio-cultural-de-la-nacion
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huancavelica-scissors-dance](../../../countries/PE/sights/huancavelica-scissors-dance.yaml) | 9.1 / 9.4 / 9.4 / 9.1 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/huaylarsh-route](../../../countries/PE/sights/huaylarsh-route.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: +0.0; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cocharcas-pilgrimage — Cocharcas Apurímac Mamacha Cocharcas Pilgrimage and Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cocharcas-pilgrimage.yaml)
+- Action: new
+- Scope: Main Apurímac pilgrimage recognized as national cultural heritage in 2009; tourism inventory documents September celebrations and regional participation. Excludes distinct Sapallanga and Lima celebrations; no UNESCO designation claimed.
+- Representative coordinates: -13.611, -73.741; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.1.
+- Overall: 90.55/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7512
+- Source: https://serviciosweb.cultura.gob.pe/dpcn/consulta.jsp?pagina=21
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/virgen-de-chapi](../../../countries/PE/sights/virgen-de-chapi.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/virgen-de-la-puerta-otuzco](../../../countries/PE/sights/virgen-de-la-puerta-otuzco.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [BR/aparecida-national-sanctuary](../../../countries/BR/sights/aparecida-national-sanctuary.yaml) | 9.2 / 9.1 / 9.6 / 9.2 / 9.2 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-junin-national-reserve — Junín National Reserve Lake Chinchaycocha Highland Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/junin-national-reserve.yaml)
+- Action: new
+- Scope: SERNANP documents critically endangered endemic Junín grebe and boat visits by prior coordination with reserve management. No guaranteed sightings or current operating conditions.
+- Representative coordinates: -11.02, -76.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 8.7 / 8.9.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 90.05/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-de-junin/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/salinas-aguada-blanca](../../../countries/PE/sights/salinas-aguada-blanca.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.8 | impact: -0.1; uniqueness: +0.3 vs peer |
+| [PE/lake-titicaca-peruvian-sector](../../../countries/PE/sights/lake-titicaca-peruvian-sector.yaml) | 9.2 / 9.2 / 9.3 / 8.7 / 9.1 | impact: -0.3; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-penico — Peñico Caral Tradition Archaeological City and Interpretation Centre — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/penico.yaml)
+- Action: new
+- Scope: Separate visitor circuit and interpretation museum inaugurated July 2025; pyramidal buildings and evidence of interaction networks. Excludes Caral-Supe, Áspero and Vichama; no UNESCO extension claimed. Coordinates approximate from published site point.
+- Representative coordinates: -10.933, -77.43; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 9.1 / 9.3 / 8.6 / 8.8.
+- Categories: history:9.4 architecture:9.2 culture:9.1.
+- Overall: 88.85/100.
+- Source: https://zonacaral.gob.pe/es/ruta-caral/zona-arqueologica-penico/
+- Source: https://www.gob.pe/institucion/caral/noticias/1214462-penico-ya-es-una-propuesta-turistica-en-el-area-norcentral
+- Source: https://www.megalithic.co.uk/article.php?map=2&sid=43436
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/sacred-city-of-caral-supe](../../../countries/PE/sights/sacred-city-of-caral-supe.yaml) | 8.6 / 9.4 / 9.8 / 8.5 / 8.6 | impact: +0.0; uniqueness: -0.3 vs peer |
+| [PE/aspero-vichama-caral-route](../../../countries/PE/sights/aspero-vichama-caral-route.yaml) | 8.8 / 9.3 / 9.4 / 8.7 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/ventarron](../../../countries/PE/sights/ventarron.yaml) | 8.8 / 9.3 / 9.4 / 8.7 / 9.0 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: +0.2; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-tingana-wetlands — Tingana Community Wetland Reserve Canoe and Wildlife Experience — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/tingana-wetlands.yaml)
+- Action: new
+- Scope: Official tourism listing describes community-run canoe trips through palm and fig wetlands near Moyobamba; separate from Abra Patricia cloud forest and Waqanki gardens.
+- Representative coordinates: -5.95, -77.1; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.7 / 8.9 / 8.8.
+- Categories: wildlife:9.3 nature:9.3 adventure:9.1.
+- Overall: 88.45/100.
+- Source: https://www.peru.travel/es/experiencias/tingana
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/pacaya-samiria-national-reserve](../../../countries/PE/sights/pacaya-samiria-national-reserve.yaml) | 9.0 / 9.1 / 9.3 / 8.5 / 9.2 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/tumbes-mangroves](../../../countries/PE/sights/tumbes-mangroves.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.9 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-laquipampa — Laquipampa Wildlife Refuge Dry Forest and White-Winged Guan Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/laquipampa.yaml)
+- Action: new
+- Scope: Separate protected dry forest with documented Quebrada Shambo route; no sightings guaranteed; not Chaparrí.
+- Representative coordinates: -6.34, -79.47; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.9 / 8.6 / 8.7.
+- Categories: wildlife:9.3 nature:9.2 photography:9.1.
+- Overall: 87.45/100.
+- Source: https://www.peru.travel/es/inspirate/laquipampa-el-primer-refugio-de-vida-silvestre-en-peru
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chaparri-reserve](../../../countries/PE/sights/chaparri-reserve.yaml) | 8.7 / 8.9 / 8.8 / 8.5 / 8.7 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/cerros-de-amotape](../../../countries/PE/sights/cerros-de-amotape.yaml) | 8.6 / 8.8 / 8.8 / 8.4 / 8.8 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-punta-coles — Punta Coles Ilo Coastal Marine Wildlife Visitor Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/punta-coles.yaml)
+- Action: new
+- Scope: Distinct southern coastal reserve sector; official operator guidance; no guarantee of access or wildlife sightings.
+- Representative coordinates: -17.704, -71.38; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.7 / 8.6.
+- Categories: wildlife:9.3 nature:9.2 photography:9.2.
+- Overall: 87.15/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-siipg-punta-coles/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/san-fernando-reserve](../../../countries/PE/sights/san-fernando-reserve.yaml) | 9.2 / 9.2 / 9.0 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.4 vs peer |
+| [PE/palomino-islands](../../../countries/PE/sights/palomino-islands.yaml) | 8.8 / 8.8 / 8.5 / 8.9 / 8.5 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-guanape-islands — Guañape Islands Marine Wildlife Boat Circuit La Libertad — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/guanape-islands.yaml)
+- Action: new
+- Scope: Official marine visitor route, no island landing permitted. Separate from southern and central guano island sectors; partial serial reserve coverage.
+- Representative coordinates: -8.56, -78.96; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.7 / 8.6 / 8.6.
+- Categories: wildlife:9.3 nature:9.2 photography:9.1.
+- Overall: 86.70/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-siipg-islas-guanape/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/palomino-islands](../../../countries/PE/sights/palomino-islands.yaml) | 8.8 / 8.8 / 8.5 / 8.9 / 8.5 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-pampachiri-stone-forest — Pampachiri Pankula Stone Forest Apurímac — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/pampachiri-stone-forest.yaml)
+- Action: new
+- Scope: Pankula rock formations distinct from Huayllay and Imata; official national tourism inventory documents the landscape.
+- Representative coordinates: -14.1, -73.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.4 / 8.6 / 8.5.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 86.85/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=8264
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huayllay](../../../countries/PE/sights/huayllay.yaml) | 9.3 / 9.3 / 8.9 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.4 vs peer |
+| [PE/imata-stone-forest](../../../countries/PE/sights/imata-stone-forest.yaml) | 8.8 / 8.8 / 8.4 / 8.6 / 8.5 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-pantanos-de-villa — Pantanos de Villa Lima Wetland Wildlife Refuge — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/pantanos-de-villa.yaml)
+- Action: new
+- Scope: Ramsar wetland on Lima outskirts distinct from coastal fog oases. Tourism board documents birdwatching; no seasonal sightings guaranteed.
+- Representative coordinates: -12.21, -76.99; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.8 / 8.7 / 8.5.
+- Categories: wildlife:9.3 nature:9.1 photography:9.1.
+- Overall: 86.15/100.
+- Source: https://www.peru.travel/es/eventos/dia-mundial-de-las-aves-migratorias
+- Source: https://www.peru.travel/es/inspirate/las-mejores-rutas-para-avistar-aves-en-el-peru
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tumbes-mangroves](../../../countries/PE/sights/tumbes-mangroves.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.9 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [PE/lomas-de-lachay](../../../countries/PE/sights/lomas-de-lachay.yaml) | 8.7 / 8.8 / 8.5 / 8.7 / 8.6 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-ite-wetlands — Ite Tacna Coastal Wetlands Birdwatching Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/ite-wetlands.yaml)
+- Action: new
+- Scope: Public wetland observation from viewpoints and malecón, restricted habitat not entered. Peru Travel documents over 120 bird species.
+- Representative coordinates: -17.91, -70.98; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.5 / 8.5 / 8.3.
+- Categories: wildlife:9.2 nature:9.0 photography:9.0.
+- Overall: 84.20/100.
+- Source: https://www.peru.travel/es/inspirate/conoce-la-importancia-y-las-especies-que-habitan-en-los-humedales-de-ite
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tumbes-mangroves](../../../countries/PE/sights/tumbes-mangroves.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.9 | impact: -0.6; uniqueness: -0.5 vs peer |
+| [PE/san-fernando-reserve](../../../countries/PE/sights/san-fernando-reserve.yaml) | 9.2 / 9.2 / 9.0 / 8.8 / 9.0 | impact: -0.9; uniqueness: -0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-oxapampa-rio-tigre — Río Tigre Waterfall Oxapampa Forest Walk — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/oxapampa-rio-tigre.yaml)
+- Action: new
+- Scope: Local waterfall and forest walk distinct from Yanachaga national park; desk assessment, exact point and access pending.
+- Representative coordinates: -10.6, -75.39; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.3 / 8.1 / 8.6 / 8.2.
+- Categories: nature:9.1 photography:9.1 relaxation:8.9.
+- Overall: 83.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ahuashiyacu-waterfall](../../../countries/PE/sights/ahuashiyacu-waterfall.yaml) | 7.6 / 7.5 / 6.3 / 8.0 / 6.6 | impact: +0.8; uniqueness: +0.8 vs peer |
+| [PE/yumbilla-waterfalls](../../../countries/PE/sights/yumbilla-waterfalls.yaml) | 9.3 / 9.0 / 8.2 / 8.9 / 8.8 | impact: -0.9; uniqueness: -0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 263 scope decisions
+
+12 additions, 11 source-linked provisional, 1 desk-based provisional, 3 90+, 35 ranking-row comparisons (9 international). PE 186 ranked / 188 total, +122 since baseline 66. Peñico independently visitable per official 2025 opening; distinct from Caral and Áspero/Vichama, no extension of UNESCO status. Huánuco and Apurímac festivals restricted to named regional events. Junín birding requires prior coordination; Tingana wetland excludes Abra Patricia and Waqanki. Punta Coles and Guañape represent separate guano reserve sectors; no landing at Guañape, incomplete serial coverage. Prior UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Amarakaeri and other restricted reserves remain deferred pending authorized visitor scope; Calipuy sanctuary and reserve need distinct visitor-route confirmation. Prior deferrals retained. Keep queue OPEN for final targeted screen of Calipuy, distinct Amazon community experiences and regional cultural omissions. Existing scores and two unassessed preserved. Coordinates approximate, schedules and current access unverified.
