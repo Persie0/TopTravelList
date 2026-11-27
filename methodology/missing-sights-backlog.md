@@ -4523,3 +4523,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] ZA — Paternoster West Coast Fishing Village and Coastal Walks: 85.05/100 (desk-based provisional).
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 29 ranking-row comparisons (3 international). ZA 116 ranked / 122 total, +88 since baseline. UNESCO official country page checked: 12 inscribed and 2 tentative all represented (https://whc.unesco.org/en/statesparties/za/), six original unassessed retained. Richtersveld northern national park separate from southern conservancy, shared cultural/ecological qualities non-additive; boundaries pending independent mapping. SANParks tender lists 22 names including Groenkloof head office and Grasslands (https://www.sanparks.org/corporate/tenders/provision-of-electrical-engineering-services-to-the-regions-of-sanparks-for-a-period-of-3-three-years), profile reports 21 parks; do not equate head office with municipal nature reserve. Grasslands newly declared 9 October 2026 (https://www.sanparks.org/news/minister-maynier-declares-new-national-park-in-eastern-cape), deferred pending public visitor experience; Meerkat likewise deferred. Bontebok existing Cape Floral aggregate component; other prior deferrals retained except Richtersveld resolved narrowly. Soweto Derby safety not guaranteed; Cape Town Carnival separate from Kaapse Klopse. Existing scores preserved, coordinates approximate; access/schedules unverified. Current bounded discovery queue closed after passes 249–254; not exhaustive, reopen on concrete distinct high-value omission or scope evidence. Full Python validation and calibration pending.
+
+### Pass 255 — Peru flagship cultural events, archaeology and mountain journeys
+
+- [x] PE — Inti Raymi Cusco Festival of the Sun and Public Ceremonial Performances: 94.35/100 (source-linked-unverified).
+- [x] PE — Festivity of Virgen de la Candelaria Puno Andean Music and Dance: 93.75/100 (source-linked-unverified).
+- [x] PE — Choquequirao Inca Archaeological Complex and Trek: 93.05/100 (source-linked-unverified).
+- [x] PE — Lord of Qoyllur Rit’i Sinakara Sacred Pilgrimage: 92.65/100 (source-linked-unverified).
+- [x] PE — Señor de los Milagros Lima October Religious Processions: 92.25/100 (source-linked-unverified).
+- [x] PE — El Brujo Archaeological Complex and Lady of Cao Museum: 92.05/100 (source-linked-unverified).
+- [x] PE — Ausangate High Andes Mountain Circuit Trek: 92.10/100 (source-linked-unverified).
+- [x] PE — Museo de Arte de Lima MALI Peruvian Art Collections: 91.50/100 (source-linked-unverified).
+- [x] PE — Paucartambo Virgen del Carmen Andean Religious Festival: 91.05/100 (source-linked-unverified).
+- [x] PE — Chicama Puerto Malabrigo Left-Hand Surf Break: 90.75/100 (source-linked-unverified).
+- [x] PE — Salkantay Mountain Pass and Andean Trekking Route: 89.65/100 (source-linked-unverified).
+- [x] PE — Chaparri Private Conservation Area Dry Forest Wildlife Visits: 87.40/100 (desk-based provisional).
+- [x] PE — Bosque de Pómac Historical Sanctuary Dry Forest and Sicán Pyramids: 88.00/100 (desk-based provisional).
+- [x] PE — Huanchaco Coastal Fishing Heritage and Caballitos de Totora: 86.50/100 (desk-based provisional).
+- [x] PE — Sicán National Museum Ferreñafe Archaeological Collections: 87.70/100 (desk-based provisional).
+- [x] PE — Lugar de la Memoria Lima Museum of Memory Tolerance and Social Inclusion: 86.80/100 (desk-based provisional).
+
+16 additions, 11 source-linked provisional, 5 desk-based provisional, 10 90+, 43 ranking-row comparisons (14 international). PE 80 ranked / 82 total, +16 since baseline 66. Peru selected for major archaeological and cultural omissions. Inti Raymi and other celebrations separated from permanent host sites; Qoyllur Rit’i limited to community-permitted participation. Choquequirao site and approach grouped; Salkantay excludes Machu Picchu destination and Humantay detour; Ausangate excludes Rainbow Mountain and pilgrimage. El Brujo and Cao Museum grouped. Q’eswachaka renewal (https://ich.unesco.org/en/decisions/8.COM/8.22) deferred pending public visitor scope and overlap with Qhapaq Ñan. Existing scores and two unassessed retained. Coordinates approximate; access/schedules unverified. Discovery queue open; further UNESCO, reserves, regional museums and festival screen pending.

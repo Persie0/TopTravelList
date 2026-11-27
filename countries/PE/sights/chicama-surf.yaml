@@ -1,0 +1,16 @@
+id: sight-pe-chicama-surf
+name: "Chicama Puerto Malabrigo Left-Hand Surf Break"
+location:
+  country_code: PE
+  latitude: -7.705
+  longitude: -79.445
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.1
+  depth: 8.8
+  categories:
+    adventure: 9.4
+    beaches: 9.3
+    photography: 9.2

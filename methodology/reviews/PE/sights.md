@@ -1321,3 +1321,343 @@
 - Categories: beaches 8.7, relaxation 8.7. Computed overall: 73.85/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: individual facts, GPS, access and closer peer calibration.
+
+## sight-pe-inti-raymi — Inti Raymi Cusco Festival of the Sun and Public Ceremonial Performances — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/inti-raymi.yaml)
+- Action: new
+- Scope: Annual June 24 staged revival of Inca solar ceremonies; public event only, not uninterrupted ancient ritual or separate scoring of Sacsayhuamán, Qorikancha and Cusco core. Tourism authority documents multi-venue performances.
+- Representative coordinates: -13.509, -71.982; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.5 / 9.5 / 9.4 / 9.4 / 9.2.
+- Categories: culture:9.5 history:9.4 photography:9.4.
+- Overall: 94.35/100.
+- Source: https://www.peru.travel/es/eventos/inti-raymi
+- Source: https://www.peru.travel/es/inspirate/que-es-y-como-se-celebra-el-ano-nuevo-andino-en-peru
+- Decision: provisional worldwide score; temporary access excluded. High-score fields remain provisional: distinct staged multi-venue national Inca heritage celebration; global high-score calibration still pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/sacsayhuaman](../../../countries/PE/sights/sacsayhuaman.yaml) | 9.3 / 9.4 / 9.5 / 9.0 / 8.8 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/city-of-cuzco-world-heritage-core](../../../countries/PE/sights/city-of-cuzco-world-heritage-core.yaml) | 9.4 / 9.5 / 9.8 / 9.1 / 9.4 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-candelaria-puno — Festivity of Virgen de la Candelaria Puno Andean Music and Dance — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/candelaria-puno.yaml)
+- Action: new
+- Scope: Public religious celebrations and dance performances; UNESCO inscribed 2014, documents Quechua and Aymara traditions, dance, music and mask-making. Distinct from Lake Titicaca visits.
+- Representative coordinates: -15.84, -70.021; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.4 / 9.3 / 9.3.
+- Categories: culture:9.4 photography:9.4 history:9.3.
+- Overall: 93.75/100.
+- Source: https://ich.unesco.org/en/RL/festivity-of-virgen-de-la-candelaria-of-puno-00956
+- Source: https://ich.unesco.org/en/decisions/9.COM/10.34
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/lake-titicaca-peruvian-sector](../../../countries/PE/sights/lake-titicaca-peruvian-sector.yaml) | 9.2 / 9.2 / 9.3 / 8.7 / 9.1 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [BR/bumba-meu-boi-maranhao](../../../countries/BR/sights/bumba-meu-boi-maranhao.yaml) | 9.1 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.3; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-choquequirao — Choquequirao Inca Archaeological Complex and Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/choquequirao.yaml)
+- Action: new
+- Scope: Inca archaeological complex and dedicated approach hike grouped. PromPerú documents fifteenth-century development and terraces, ceremonial squares and structures. Not a Machu Picchu visit or general Qhapaq Nan network traversal; no guarantee of trail conditions.
+- Representative coordinates: -13.393, -72.872; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.4 / 8.9 / 9.2.
+- Categories: history:9.4 architecture:9.4 adventure:9.4 photography:9.4.
+- Overall: 93.05/100.
+- Source: https://www.peru.travel/attractions/choquequirao
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/historic-sanctuary-of-machu-picchu](../../../countries/PE/sights/historic-sanctuary-of-machu-picchu.yaml) | 9.9 / 9.8 / 9.9 / 9.5 / 9.4 | impact: -0.5; uniqueness: -0.4 vs peer |
+| [PE/inca-trail-to-machu-picchu](../../../countries/PE/sights/inca-trail-to-machu-picchu.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/kuelap-archaeological-complex](../../../countries/PE/sights/kuelap-archaeological-complex.yaml) | 9.0 / 9.3 / 9.4 / 8.2 / 8.3 | impact: +0.4; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-qoyllur-riti — Lord of Qoyllur Rit’i Sinakara Sacred Pilgrimage — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/qoyllur-riti.yaml)
+- Action: new
+- Scope: Community-permitted public pilgrimage participation only; UNESCO inscription in 2011. Sacred practices reserved for community members excluded; high altitude, cold and access suitability not guaranteed. Coordinate is approximate sanctuary area.
+- Representative coordinates: -13.54, -71.2; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.5 / 9.4 / 8.8 / 9.3.
+- Categories: culture:9.4 history:9.4 photography:9.2.
+- Overall: 92.65/100.
+- Source: https://ich.unesco.org/en/RL/pilgrimage-to-the-sanctuary-of-the-lord-of-qoyllurriti-00567
+- Source: https://andina.pe/ingles/noticia-conozca-ruta-del-peregrinaje-del-senor-qoyllur-riti-755124.aspx
+- Decision: provisional worldwide score; temporary access excluded. High-score fields remain provisional:  documented sacred or dramatic high Andean mountain experience; global high-score calibration still pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/lake-titicaca-peruvian-sector](../../../countries/PE/sights/lake-titicaca-peruvian-sector.yaml) | 9.2 / 9.2 / 9.3 / 8.7 / 9.1 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/festa-iemanja](../../../countries/BR/sights/festa-iemanja.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | impact: +0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-senor-de-los-milagros — Señor de los Milagros Lima October Religious Processions — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/senor-de-los-milagros.yaml)
+- Action: new
+- Scope: Public October procession only, not Lima built heritage. MINCETUR records first procession in 1687 and national heritage declaration in 2005; Andean Parliament recognition delivered October 2026.
+- Representative coordinates: -12.046, -77.036; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.4 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.25/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4001
+- Source: https://www.peru.travel/es/eventos/senor-de-los-milagros
+- Source: https://comunicaciones.congreso.gob.pe/despacho-informa/parlamento-andino-entrego-reconocimiento-al-senor-de-los-milagros-durante-procesion-en-lima/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/historic-centre-of-lima](../../../countries/PE/sights/historic-centre-of-lima.yaml) | 8.8 / 8.6 / 9.4 / 8.5 / 9.0 | impact: +0.4; uniqueness: +0.6 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0; uniqueness: -0.2 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-el-brujo-cao — El Brujo Archaeological Complex and Lady of Cao Museum — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/el-brujo-cao.yaml)
+- Action: new
+- Scope: Visitor-accessible archaeological structures and on-site Cao Museum grouped; official tourism inventory documents multi-period occupation, museum interprets Moche elite burial. No access to closed excavations implied.
+- Representative coordinates: -7.916, -79.306; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.0 / 9.2.
+- Categories: history:9.4 architecture:9.3 culture:9.4.
+- Overall: 92.05/100.
+- Source: https://www.peru.travel/attractions/el-brujo
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=109
+- Source: https://elbrujo.pe/en/visitors/schedule-rates
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huaca-de-la-luna](../../../countries/PE/sights/huaca-de-la-luna.yaml) | 8.7 / 9.1 / 9.3 / 8.5 / 7.9 | impact: +0.4; uniqueness: +0.2 vs peer |
+| [PE/royal-tombs-of-sipan-museum](../../../countries/PE/sights/royal-tombs-of-sipan-museum.yaml) | 8.8 / 9.2 / 9.6 / 9.0 / 8.4 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [PE/chan-chan-archaeological-zone](../../../countries/PE/sights/chan-chan-archaeological-zone.yaml) | 8.7 / 9.4 / 9.6 / 8.2 / 8.5 | impact: +0.4; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-ausangate-trek — Ausangate High Andes Mountain Circuit Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/ausangate-trek.yaml)
+- Action: new
+- Scope: Approximately 70 km high-altitude circuit around sacred glaciated mountain, as documented by national tourism inventory. Excludes separately ranked Rainbow Mountains, summit climbing and Qoyllur Rit’i religious pilgrimage. No safety or eligibility guarantee.
+- Representative coordinates: -13.789, -71.231; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.5 / 9.3 / 8.9 / 8.9 / 9.2.
+- Categories: nature:9.4 adventure:9.4 photography:9.4.
+- Overall: 92.10/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2216
+- Source: https://www.peru.travel/attractions/mount-ausangate
+- Decision: provisional worldwide score; temporary access excluded. High-score fields remain provisional:  documented sacred or dramatic high Andean mountain experience; global high-score calibration still pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cordillera-huayhuash-trek](../../../countries/PE/sights/cordillera-huayhuash-trek.yaml) | 9.5 / 9.2 / 8.3 / 8.9 / 9.4 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/santa-cruz-trek](../../../countries/PE/sights/santa-cruz-trek.yaml) | 9.3 / 9.0 / 7.9 / 8.9 / 9.1 | impact: +0.2; uniqueness: +0.3 vs peer |
+| [PE/vinicunca-rainbow-mountain](../../../countries/PE/sights/vinicunca-rainbow-mountain.yaml) | 9.4 / 9.2 / 7.8 / 8.6 / 7.0 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-mali — Museo de Arte de Lima MALI Peruvian Art Collections — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/mali.yaml)
+- Action: new
+- Scope: Permanent art collections in Palacio de la Exposición grouped with museum experience. Institution documents over 21,000 artworks covering 3,000 years; separate from Lima's general historic centre and archaeology-focused Larco Museum.
+- Representative coordinates: -12.06, -77.037; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.4 / 9.1 / 9.3.
+- Categories: culture:9.4 history:9.4 architecture:9.2.
+- Overall: 91.50/100.
+- Source: https://mali.pe/es/colecciones-y-archivo/coleccion/
+- Source: https://mali.pe/es/colecciones-y-archivo/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/larco-museum](../../../countries/PE/sights/larco-museum.yaml) | 8.6 / 8.9 / 9.2 / 8.9 / 8.4 | impact: +0.4; uniqueness: +0.2 vs peer |
+| [PE/royal-tombs-of-sipan-museum](../../../countries/PE/sights/royal-tombs-of-sipan-museum.yaml) | 8.8 / 9.2 / 9.6 / 9.0 / 8.4 | impact: +0.2; uniqueness: -0.1 vs peer |
+| [BR/pinacoteca-sao-paulo](../../../countries/BR/sights/pinacoteca-sao-paulo.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.3 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-paucartambo-virgen-del-carmen — Paucartambo Virgen del Carmen Andean Religious Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/paucartambo-virgen-del-carmen.yaml)
+- Action: new
+- Scope: Public July procession and traditional dances only; tourism ministry and state broadcaster document event. Distinct from other Andean celebrations; community permissions and schedules respected.
+- Representative coordinates: -13.316, -71.593; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.05/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2563
+- Source: https://www.gob.pe/institucion/irtp/noticias/1207192-festividad-de-la-virgen-del-carmen-de-paucartambo-se-vivira-por-tvperu
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/city-of-cuzco-world-heritage-core](../../../countries/PE/sights/city-of-cuzco-world-heritage-core.yaml) | 9.4 / 9.5 / 9.8 / 9.1 / 9.4 | impact: -0.5; uniqueness: -0.3 vs peer |
+| [BR/pirenopolis-divino](../../../countries/BR/sights/pirenopolis-divino.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/bumba-meu-boi-maranhao](../../../countries/BR/sights/bumba-meu-boi-maranhao.yaml) | 9.1 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chicama-surf — Chicama Puerto Malabrigo Left-Hand Surf Break — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chicama-surf.yaml)
+- Action: new
+- Scope: Permanent surf break and coastal viewing; PromPerú describes exceptional length of left-breaking waves. No independently verified absolute world record, wave length or skill eligibility guarantee.
+- Representative coordinates: -7.705, -79.445; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.4 / 8.6 / 9.1 / 8.8.
+- Categories: adventure:9.4 beaches:9.3 photography:9.2.
+- Overall: 90.75/100.
+- Source: https://www.peru.travel/news/lonely-planet-peru-one-of-the-most-fascinating-countries-in-the-world-to-surf
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/mancora-beach](../../../countries/PE/sights/mancora-beach.yaml) | 7.8 / 7.3 / 6.0 / 8.6 / 7.3 | impact: +1.4; uniqueness: +2.1 vs peer |
+| [ZA/jeffreys-bay-surf](../../../countries/ZA/sights/jeffreys-bay-surf.yaml) | 9.2 / 9.2 / 8.9 / 9.0 / 8.9 | impact: +0.0; uniqueness: +0.2 vs peer |
+| [BR/cumbuco-kitesurf](../../../countries/BR/sights/cumbuco-kitesurf.yaml) | 8.8 / 8.9 / 8.5 / 9.2 / 9.0 | impact: +0.4; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-salkantay-trek — Salkantay Mountain Pass and Andean Trekking Route — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/salkantay-trek.yaml)
+- Action: new
+- Scope: Independent high-mountain approach route; excludes Machu Picchu destination and Humantay Lake detour when aggregating experiences. Tourism authority documents mountain and trekking; specific trail itinerary unverified.
+- Representative coordinates: -13.36, -72.61; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 8.9 / 8.6 / 9.0 / 9.1.
+- Categories: nature:9.4 adventure:9.4 photography:9.4.
+- Overall: 89.65/100.
+- Source: https://www.peru.travel/attractions/mount-salkantay
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/inca-trail-to-machu-picchu](../../../countries/PE/sights/inca-trail-to-machu-picchu.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [PE/cordillera-huayhuash-trek](../../../countries/PE/sights/cordillera-huayhuash-trek.yaml) | 9.5 / 9.2 / 8.3 / 8.9 / 9.4 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chaparri-reserve — Chaparri Private Conservation Area Dry Forest Wildlife Visits — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chaparri-reserve.yaml)
+- Action: new
+- Scope: Community-associated dry forest conservation and guided wildlife interpretation; no bear or endemic bird sightings guaranteed. Current access and management unverified.
+- Representative coordinates: -6.55, -79.49; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.8 / 8.5 / 8.7.
+- Categories: wildlife:9.3 nature:9.2 photography:9.2.
+- Overall: 87.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tambopata-national-reserve](../../../countries/PE/sights/tambopata-national-reserve.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.0 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [PE/pacaya-samiria-national-reserve](../../../countries/PE/sights/pacaya-samiria-national-reserve.yaml) | 9.0 / 9.1 / 9.3 / 8.5 / 9.2 | impact: -0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-bosque-de-pomac — Bosque de Pómac Historical Sanctuary Dry Forest and Sicán Pyramids — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/bosque-de-pomac.yaml)
+- Action: new
+- Scope: Protected dry forest and archaeological landscape grouped; excludes separately located museum collections. Desk assessment.
+- Representative coordinates: -6.48, -79.79; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.5 / 8.7.
+- Categories: history:9.3 nature:9.2 photography:9.2.
+- Overall: 88.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tucume-archaeological-complex](../../../countries/PE/sights/tucume-archaeological-complex.yaml) | 8.4 / 8.8 / 9.2 / 8.3 / 8.3 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [PE/huaca-rajada-sipan](../../../countries/PE/sights/huaca-rajada-sipan.yaml) | 8.3 / 8.8 / 9.4 / 8.3 / 7.7 | impact: +0.4; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-huanchaco — Huanchaco Coastal Fishing Heritage and Caballitos de Totora — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huanchaco.yaml)
+- Action: new
+- Scope: Public coastal fishing heritage and reed craft interpretation; distinct from Chicama and Chan Chan. No fishing participation assumed.
+- Representative coordinates: -8.08, -79.12; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.7 / 8.7 / 8.3.
+- Categories: culture:9.2 beaches:9.1 photography:9.2.
+- Overall: 86.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/mancora-beach](../../../countries/PE/sights/mancora-beach.yaml) | 7.8 / 7.3 / 6.0 / 8.6 / 7.3 | impact: +0.7; uniqueness: +1.6 vs peer |
+| [PE/uros-floating-islands](../../../countries/PE/sights/uros-floating-islands.yaml) | 8.4 / 9.3 / 8.2 / 8.2 / 7.3 | impact: +0.1; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-museo-sican — Sicán National Museum Ferreñafe Archaeological Collections — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/museo-sican.yaml)
+- Action: new
+- Scope: Permanent museum collections and interpretation distinct from in situ Pómac archaeology. Desk-based scope; gallery availability unverified.
+- Representative coordinates: -6.638, -79.787; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.2 / 8.5 / 8.8.
+- Categories: history:9.4 culture:9.3 architecture:8.8.
+- Overall: 87.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/royal-tombs-of-sipan-museum](../../../countries/PE/sights/royal-tombs-of-sipan-museum.yaml) | 8.8 / 9.2 / 9.6 / 9.0 / 8.4 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [PE/larco-museum](../../../countries/PE/sights/larco-museum.yaml) | 8.6 / 8.9 / 9.2 / 8.9 / 8.4 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lugar-de-la-memoria — Lugar de la Memoria Lima Museum of Memory Tolerance and Social Inclusion — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lugar-de-la-memoria.yaml)
+- Action: new
+- Scope: Museum of memory and human rights addressing Peru's internal conflict, separate from general national museum collections and coastal walking. No current exhibition or access guarantee.
+- Representative coordinates: -12.11, -77.062; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 9.2 / 8.5 / 8.7.
+- Categories: history:9.3 culture:9.2 architecture:9.0.
+- Overall: 86.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/larco-museum](../../../countries/PE/sights/larco-museum.yaml) | 8.6 / 8.9 / 9.2 / 8.9 / 8.4 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [ZA/apartheid-museum](../../../countries/ZA/sights/apartheid-museum.yaml) | 9.1 / 9.2 / 9.6 / 9.1 / 9.0 | impact: -0.7; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 255 scope decisions
+
+16 additions, 11 source-linked provisional, 5 desk-based provisional, 10 90+, 43 ranking-row comparisons (14 international). PE 80 ranked / 82 total, +16 since baseline 66. Peru selected for major archaeological and cultural omissions. Inti Raymi and other celebrations separated from permanent host sites; Qoyllur Rit’i limited to community-permitted participation. Choquequirao site and approach grouped; Salkantay excludes Machu Picchu destination and Humantay detour; Ausangate excludes Rainbow Mountain and pilgrimage. El Brujo and Cao Museum grouped. Q’eswachaka renewal (https://ich.unesco.org/en/decisions/8.COM/8.22) deferred pending public visitor scope and overlap with Qhapaq Ñan. Existing scores and two unassessed retained. Coordinates approximate; access/schedules unverified. Discovery queue open; further UNESCO, reserves, regional museums and festival screen pending.
