@@ -4664,3 +4664,187 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 266 scope decisions
 
 9 additions, 5 source-linked provisional, 4 desk-based provisional, 3 90+, 31 ranking-row comparisons (12 international). PE 218 ranked / 220 total, +154 since baseline 66. UNESCO intangible inventory inspected (https://ich.unesco.org/en/state/peru-PE?info=elements-on-the-lists); 2025 Sarawja inscription and public Somoa 2026 festival verified; Corongo inscription refers to water judges system not festival; picanteria national heritage not UNESCO inscription. Zápara oral traditions, Eshuva sacred prayers and Awajún pottery deferred pending consent-based named visitor experiences; no automatic sightseeing entry for safeguarding programmes. Taquile textile heritage covered by existing island scope provisionally, ceviche covered by Surquillo, other previously rated traditions retained. Parón nested in Huascarán, non-additive. Previous UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Queue OPEN pending final named regional candidates and prior deferrals; no quotas. Existing scores and two unassessed preserved. Coordinates approximate; current access/schedules unverified.
+
+## sight-pe-puno-alasitas — Puno Bellavista Alasitas Miniatures Fair and Cross Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/puno-alasitas.yaml)
+- Action: new
+- Scope: Public May miniatures market and procession in Bellavista, recognized under Peru's 2016 national heritage declaration; excludes Candelaria and other towns' related fairs. UNESCO inscription of La Paz Alasita applies to Bolivia, not this event.
+- Representative coordinates: -15.834, -70.025; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.35/100.
+- Source: https://busquedas.elperuano.pe/dispositivo/NL/1459779-1
+- Source: https://www.gob.pe/institucion/munipuno/noticias/950422-miembros-de-serenazgo-municipal-inician-actividades-de-ordenamiento-y-seguridad-por-el-dia-principal-de-la-feria-de-alasitas
+- Source: https://ich.unesco.org/en/RL/ritual-journeys-in-la-paz-during-alasita-01182
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cusco-santurantikuy](../../../countries/PE/sights/cusco-santurantikuy.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.0 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/festival-do-japao](../../../countries/BR/sights/festival-do-japao.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-pucara-kalasaya-ceramics — Pucará Kalasaya Archaeological Complex Museum and Torito Ceramic Workshops — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/pucara-kalasaya-ceramics.yaml)
+- Action: new
+- Scope: Integrated visitor experience of pre-Inca ceremonial architecture, lithic museum and local pottery workshops. No separate score for same village crafts or museum. Distinguish Pupuja's separate patronal celebration.
+- Representative coordinates: -15.041, -70.371; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.4 architecture:9.2.
+- Overall: 90.65/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=460
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4113
+- Source: https://www.peru.travel/stories/toritos-de-pucara-simbols-protection-prosperity
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/raqchi-wiracocha](../../../countries/PE/sights/raqchi-wiracocha.yaml) | 9.0 / 9.1 / 9.2 / 8.9 / 9.1 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/chulucanas-ceramics](../../../countries/PE/sights/chulucanas-ceramics.yaml) | 8.6 / 8.9 / 9.1 / 8.8 / 8.8 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [BO/tiwanaku-archaeological-site](../../../countries/BO/sights/tiwanaku-archaeological-site.yaml) | 9.0 / 9.4 / 9.7 / 8.6 / 8.8 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [BO/incallajta-archaeological-site](../../../countries/BO/sights/incallajta-archaeological-site.yaml) | 8.4 / 8.7 / 9.1 / 8.1 / 7.9 | impact: +0.5; uniqueness: +0.4 vs peer |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: +0.5; uniqueness: +0.4 vs peer |
+| [CO/san-agustin-archaeological-park](../../../countries/CO/sights/san-agustin-archaeological-park.yaml) | 8.8 / 9.4 / 9.6 / 8.7 / 8.5 | impact: +0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chacas-don-bosco — Chacas Historic Village and Don Bosco Woodcarving Workshops — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chacas-don-bosco.yaml)
+- Action: new
+- Scope: Historic Andean village and artisan workshops; UN Tourism Best Tourism Village in 2023, Mincetur Pueblos con Encanto in 2024. Exclude Huascarán park excursions and shared mountain roads; artisan participation by consent.
+- Representative coordinates: -9.163, -77.365; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 9.2 / 9.0.
+- Categories: culture:9.4 architecture:9.3 photography:9.2.
+- Overall: 90.25/100.
+- Source: https://tourism-villages.unwto.org/en/villages/chacas/
+- Source: https://www.gob.pe/institucion/mincetur/noticias/1075341-un-logro-para-ancash-mincetur-reconoce-a-chacas-como-el-decimosegundo-pueblo-con-encanto-del-peru
+- Source: https://www.gob.pe/institucion/mincetur/noticias/1200046-mincetur-inaugura-la-oficina-de-informacion-turistica-del-pueblo-con-encanto-de-chacas
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chinchero-textile-heritage](../../../countries/PE/sights/chinchero-textile-heritage.yaml) | 8.8 / 9.0 / 9.1 / 9.0 / 8.9 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [PE/lamas-wayku](../../../countries/PE/sights/lamas-wayku.yaml) | 8.7 / 9.0 / 9.0 / 8.9 / 8.9 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [BR/vale-dos-vinhedos](../../../countries/BR/sights/vale-dos-vinhedos.yaml) | 8.8 / 8.6 / 8.8 / 9.1 / 9.0 | impact: +0.1; uniqueness: +0.5 vs peer |
+| [CO/coffee-cultural-landscape-of-colombia](../../../countries/CO/sights/coffee-cultural-landscape-of-colombia.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.4 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [CO/coffee-farm-visitor-experiences](../../../countries/CO/sights/coffee-farm-visitor-experiences.yaml) | 7.9 / 8.6 / 8.3 / 8.9 / 8.0 | impact: +1.0; uniqueness: +0.5 vs peer |
+| [BO/valle-de-la-concepcion-wine-area](../../../countries/BO/sights/valle-de-la-concepcion-wine-area.yaml) | 7.7 / 7.8 / 7.2 / 8.5 / 7.8 | impact: +1.2; uniqueness: +1.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-santiago-pupuja-festival — Santiago de Pupuja San Santiago Patronal Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/santiago-pupuja-festival.yaml)
+- Action: new
+- Scope: Public July patronal celebrations with dancing, agricultural and artisan fairs; recognized as national heritage in 2018. Exclude private ceremonies and permanent pottery workshops already represented in Pucará.
+- Representative coordinates: -14.977, -70.283; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 9.0 / 9.1 / 8.9 / 8.8.
+- Categories: culture:9.3 history:9.2 photography:9.2.
+- Overall: 88.95/100.
+- Source: https://www.gob.pe/institucion/cultura/normas-legales/203913-107-2018-vmpcic-mc
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=435
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/yunguyo-tata-pancho](../../../countries/PE/sights/yunguyo-tata-pancho.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.8 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/huamachuco-alta-gracia](../../../countries/PE/sights/huamachuco-alta-gracia.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 8.8 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-qenqo-puka-pukara-tambomachay — Qenqo Puka Pukara and Tambomachay Inca Archaeological Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/qenqo-puka-pukara-tambomachay.yaml)
+- Action: new
+- Scope: Three separately listed stops on official Cusco tourist ticket circuit, grouped to avoid fragmented scoring; excludes Sacsayhuamán main monument, non-additive to broader archaeological park or city itinerary. Existing Sacsayhuamán YAML has no detailed scope; legacy overlap still flagged.
+- Representative coordinates: -13.499, -71.971; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.7 / 8.6.
+- Categories: history:9.3 architecture:9.3 photography:9.2.
+- Overall: 88.40/100.
+- Source: https://cosituccusco.pe/circuitos/1/detalle/
+- Source: https://www.culturacusco.gob.pe/parques/saqsaywaman/
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_ficha=906
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/sacsayhuaman](../../../countries/PE/sights/sacsayhuaman.yaml) | 9.3 / 9.4 / 9.5 / 9.0 / 8.8 | impact: -0.6; uniqueness: -0.5 vs peer |
+| [PE/tipon-water-terraces](../../../countries/PE/sights/tipon-water-terraces.yaml) | 8.8 / 9.0 / 9.1 / 8.5 / 8.5 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lampa-historic-centre — Lampa Pink Historic Centre and Santiago Apóstol Church — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lampa-historic-centre.yaml)
+- Action: new
+- Scope: Pink adobe facades and historic church, treated together. Distinct from Pucará; no current interior access guarantee.
+- Representative coordinates: -15.365, -70.366; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.0 / 8.6 / 8.6.
+- Categories: architecture:9.3 history:9.2 culture:9.1.
+- Overall: 87.00/100.
+- Source: https://www.peru.travel/es/atractivos/lampa
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/moquegua-historic-centre](../../../countries/PE/sights/moquegua-historic-centre.yaml) | 8.3 / 8.5 / 8.8 / 8.6 / 8.6 | impact: +0.2; uniqueness: +0.3 vs peer |
+| [PE/collao-baroque-churches](../../../countries/PE/sights/collao-baroque-churches.yaml) | 9.0 / 9.3 / 9.4 / 8.8 / 9.2 | impact: -0.5; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-carlos-dreyer-museum — Carlos Dreyer Museum Puno Archaeology and Andean Art — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/carlos-dreyer-museum.yaml)
+- Action: new
+- Scope: Dedicated municipal museum collections, separate from Pucará site museum and Lake Titicaca landscape; official museum describes Pukara and Tiwanaku stone sculptures.
+- Representative coordinates: -15.84, -70.029; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.4 / 8.6 / 9.0 / 8.5 / 8.7.
+- Categories: history:9.3 culture:9.2 architecture:8.8.
+- Overall: 86.15/100.
+- Source: https://museodreyer.munipuno.gob.pe/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/leymebamba-museum](../../../countries/PE/sights/leymebamba-museum.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.7 vs peer |
+| [PE/chavin-national-museum](../../../countries/PE/sights/chavin-national-museum.yaml) | 8.6 / 8.9 / 9.3 / 8.7 / 8.9 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-punta-olimpica — Punta Olímpica Cordillera Blanca Scenic Mountain Road — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/punta-olimpica.yaml)
+- Action: new
+- Scope: Scenic highland road journey between Carhuaz and Chacas; only road landscape, not hikes or Chacas artisan experience; non-additive to Huascarán parent park. Desk assessment, current road condition unverified.
+- Representative coordinates: -9.12, -77.52; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 8.6 / 8.1 / 8.5 / 8.1.
+- Categories: nature:9.3 photography:9.4 adventure:9.0.
+- Overall: 85.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/laguna-paron](../../../countries/PE/sights/laguna-paron.yaml) | 9.3 / 8.8 / 8.0 / 8.6 / 7.9 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/cedros-alpamayo-trek](../../../countries/PE/sights/cedros-alpamayo-trek.yaml) | 9.4 / 9.1 / 8.8 / 8.8 / 9.1 | impact: -0.3; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 267 scope decisions
+
+8 additions, 7 source-linked provisional, 1 desk-based provisional, 3 90+, 28 ranking-row comparisons (12 international). PE 226 ranked / 228 total, +162 since baseline 66. Puno Alasitas distinct from Candelaria, national heritage not Bolivian UNESCO inscription. Pucará grouped archaeology/museum/crafts. Chacas excludes mountain excursions. Qenqo/Puka Pukara/Tambomachay exclude Sacsayhuamán main monument, non-additive to park-wide itinerary; legacy scope remains flagged. Santa Bárbara historic significance confirmed, deferred until safe visitor scope established (https://www.digesa.minsa.gob.pe/noticias/Julio2026/nota35.asp); access deferral not a score penalty. Cordillera Azul and Sierra del Divisor remain deferred pending documented authorized visitor routes. Prior UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not independently remapped. PAUSED after 13 targeted passes to diversify worldwide discovery; remaining restricted-area/legacy-scope deferrals explicitly retained, resume on concrete new evidence. Existing scores and two unassessed preserved. Coordinates approximate; current access and schedules unverified.

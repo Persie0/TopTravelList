@@ -1,0 +1,16 @@
+id: sight-pe-punta-olimpica
+name: "Punta Olímpica Cordillera Blanca Scenic Mountain Road"
+location:
+  country_code: PE
+  latitude: -9.12
+  longitude: -77.52
+scores:
+  impact: 9.1
+  uniqueness: 8.6
+  significance: 8.1
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.0
