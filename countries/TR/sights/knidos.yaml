@@ -1,0 +1,17 @@
+id: sight-tr-knidos
+name: "Knidos Archaeological Site and Ancient Harbours"
+location:
+  country_code: TR
+  latitude: 36.6863
+  longitude: 27.37395
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.3
+    architecture: 9.1
+    photography: 9.3
+    nature: 9.0

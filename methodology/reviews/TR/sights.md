@@ -4076,3 +4076,237 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-tr-haci-bektas-veli — Hacı Bektaş Veli Religious Complex and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/haci-bektas-veli.yaml)
+- Action: new
+- Precise subject and limitations: Historic Bektashi lodge, tomb and museum grouped. UNESCO tentative reference https://whc.unesco.org/en/tentativelists/5735/ appears to transpose latitude and longitude; mapped complex point used instead. Religious etiquette applies.
+- Location check: 38.94299, 34.56281; [published representative point](https://mapcarta.com/W168408687), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?distId=MRK&sectionId=HCB01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/mevlana-museum](../../../countries/TR/sights/mevlana-museum.yaml) | 8.9 / 9.2 / 9.3 / 8.9 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TR/turkish-islamic-arts-museum](../../../countries/TR/sights/turkish-islamic-arts-museum.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 9.1 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [TR/selimiye](../../../countries/TR/sights/selimiye.yaml) | 9.1 / 9.1 / 9.3 / 9.0 / 8.7 | impact: -0.4 vs peer; experience: -0.2 vs peer. |
+| [GR/museum-byzantine-culture](../../../countries/GR/sights/museum-byzantine-culture.yaml) | 8.8 / 9.0 / 9.2 / 8.9 / 9.0 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Historic devotional architecture and rooms. |
+| Uniqueness | 9.0 | Distinct Alevi-Bektashi heritage. |
+| Significance | 9.2 | Major significance to Bektashi tradition. |
+| Experience | 8.8 | Established museum and devotional visit. |
+| Depth | 8.8 | Multiple rooms and connected courtyards. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:9.1.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-alanya-castle — Alanya Castle, Red Tower and Shipyard — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/alanya-castle.yaml)
+- Action: new
+- Precise subject and limitations: Fortified peninsula, inner castle, Red Tower and medieval shipyard grouped as described in tentative property. Ministry visitor listing https://muze.gov.tr/muze-detay?DistId=ALN&SectionId=ALN01. Excludes Damlataş Cave and resort beaches; separate admission possible.
+- Location check: 36.53311, 31.99056; [published representative point](https://mapcarta.com/28485482), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://whc.unesco.org/en/tentativelists/1405/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/rumeli-fortress](../../../countries/TR/sights/rumeli-fortress.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 8.6 | depth: +0.5 vs peer; experience: +0.3 vs peer. |
+| [TR/bodrum-castle](../../../countries/TR/sights/bodrum-castle.yaml) | 8.7 / 8.8 / 8.9 / 8.7 / 8.5 | depth: +0.6 vs peer; impact: +0.4 vs peer. |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | experience: +0.2 vs peer; depth: +0.2 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | depth: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Imposing coastal fortifications. |
+| Uniqueness | 8.9 | Distinct connected Seljuk maritime defensive ensemble. |
+| Significance | 9.1 | Important medieval Mediterranean heritage. |
+| Experience | 9.0 | Established castle and harbour monument visit. |
+| Depth | 9.1 | Multiple structures and extensive walls. |
+
+- Applicable categories: history:9.3, architecture:9.3, photography:9.4.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: 90+ provisional; international peer comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-damlatas-cave — Damlataş Cave Alanya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/damlatas-cave.yaml)
+- Action: new
+- Precise subject and limitations: Compact developed limestone cave beside beach; excludes castle and beach. No medical efficacy claims or unrestricted access assumed.
+- Location check: 36.54184, 31.98866; [published representative point](https://www.belka.travel/en/places/damlatas-cave/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://isletmeler.alanya.bel.tr/alanya-oren-yerleri/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/karain](../../../countries/TR/sights/karain.yaml) | 8.1 / 8.5 / 8.9 / 8.0 / 7.3 | significance: -1.0 vs peer; experience: +0.6 vs peer. |
+| [GR/drogarati-cave](../../../countries/GR/sights/drogarati-cave.yaml) | 8.7 / 8.6 / 8.3 / 8.7 / 8.2 | depth: -0.7 vs peer; impact: -0.4 vs peer. |
+| [GR/kastria-cave-lakes](../../../countries/GR/sights/kastria-cave-lakes.yaml) | 8.9 / 9.1 / 8.5 / 8.8 / 8.5 | depth: -1.0 vs peer; uniqueness: -0.9 vs peer. |
+| [TR/upper-duden-waterfall](../../../countries/TR/sights/upper-duden-waterfall.yaml) | 8.5 / 8.5 / 8.0 / 8.8 / 8.2 | depth: -0.7 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Attractive stalactites and stalagmites. |
+| Uniqueness | 8.2 | Familiar show-cave morphology. |
+| Significance | 7.9 | Regional geological interest. |
+| Experience | 8.6 | Established short cave visit. |
+| Depth | 7.5 | Limited developed chamber. |
+
+- Applicable categories: nature:8.9, photography:8.8, family:8.7.
+- Computed worldwide overall: 81.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-knidos — Knidos Archaeological Site and Ancient Harbours — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/knidos.yaml)
+- Action: new
+- Precise subject and limitations: Ancient city at Datça peninsula tip and associated harbour remains; not the Cypriot place of the same name. Excludes wider peninsula and separate cruises.
+- Location check: 36.6863, 27.37395; [published representative point](https://mapcarta.com/W183321146), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/urun-detay?CatalogNo=WEB-KND02-01-009); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/phaselis](../../../countries/TR/sights/phaselis.yaml) | 8.8 / 8.7 / 8.8 / 8.9 / 8.7 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [TR/priene](../../../countries/TR/sights/priene.yaml) | 8.8 / 9.0 / 9.1 / 8.7 / 8.9 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [TR/miletus](../../../countries/TR/sights/miletus.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 9.0 | significance: -0.2 vs peer; depth: -0.2 vs peer. |
+| [TR/patara](../../../countries/TR/sights/patara.yaml) | 9.0 / 8.9 / 9.2 / 8.9 / 9.1 | depth: -0.3 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking exposed coastal ruins. |
+| Uniqueness | 8.9 | Distinct two-harbour peninsula setting. |
+| Significance | 9.0 | Important ancient Carian urban heritage. |
+| Experience | 8.8 | Established archaeological walking visit. |
+| Depth | 8.8 | Varied remains and harbour features. |
+
+- Applicable categories: history:9.3, architecture:9.1, photography:9.3, nature:9.0.
+- Computed worldwide overall: 89.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-karatepe-aslantas — Karatepe-Aslantaş Archaeological Site and Open-Air Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/karatepe-aslantas.yaml)
+- Action: new
+- Precise subject and limitations: Late Hittite citadel reliefs, inscriptions and associated museum. UNESCO tentative reference https://whc.unesco.org/en/tentativelists/6470/ includes Domuztepe and surrounding landscape; no public access to all parts assumed. Do not separately count the museum or national park's same archaeological experience.
+- Location check: 37.3016592, 36.2485736; [published representative point](https://www.aerialviews.org/Karatepe-Aslantas_Open-Air_Museum.htm), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=OKA02); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/hattusha](../../../countries/TR/sights/hattusha.yaml) | 8.8 / 9.0 / 9.4 / 8.6 / 8.8 | uniqueness: +0.3 vs peer; impact: -0.1 vs peer. |
+| [TR/arslantepe](../../../countries/TR/sights/arslantepe.yaml) | 8.1 / 8.9 / 9.2 / 8.4 / 8.1 | impact: +0.6 vs peer; depth: +0.6 vs peer. |
+| [TR/karahantepe](../../../countries/TR/sights/karahantepe.yaml) | 8.7 / 9.3 / 9.3 / 8.5 / 8.0 | depth: +0.7 vs peer; experience: +0.2 vs peer. |
+| [TR/ahlat-seljuk-cemetery](../../../countries/TR/sights/ahlat-seljuk-cemetery.yaml) | 8.7 / 9.1 / 9.1 / 8.5 / 8.7 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Evocative carved gates and reliefs. |
+| Uniqueness | 9.3 | Distinct bilingual inscription and in-situ conservation. |
+| Significance | 9.3 | Major Iron Age linguistic and artistic heritage. |
+| Experience | 8.7 | Established open-air museum visit. |
+| Depth | 8.7 | Several gateways and museum displays. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:9.2.
+- Computed worldwide overall: 89.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-mamure-castle — Mamure Castle Anamur — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/mamure-castle.yaml)
+- Action: new
+- Precise subject and limitations: Coastal castle and interior courtyards; UNESCO tentative coordinate converted from DMS. Distinct from Alanya and Anamurium. No unrestricted rampart access assumed.
+- Location check: 36.080833, 32.894444; [published representative point](https://whc.unesco.org/en/tentativelists/5734/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=MMA01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/rumeli-fortress](../../../countries/TR/sights/rumeli-fortress.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 8.6 | depth: +0.2 vs peer; impact: +0.1 vs peer. |
+| [TR/bodrum-castle](../../../countries/TR/sights/bodrum-castle.yaml) | 8.7 / 8.8 / 8.9 / 8.7 / 8.5 | impact: +0.3 vs peer; depth: +0.3 vs peer. |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | significance: -0.1 vs peer; depth: -0.1 vs peer. |
+| [PT/almourol-castle](../../../countries/PT/sights/almourol-castle.yaml) | 9.0 / 8.9 / 8.7 / 8.5 / 8.0 | depth: +0.8 vs peer; experience: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Impressive intact-looking coastal walls. |
+| Uniqueness | 8.9 | Distinct moat and coastal tower ensemble. |
+| Significance | 8.9 | Important layered medieval fortification heritage. |
+| Experience | 8.8 | Established dedicated monument visit. |
+| Depth | 8.8 | Several courtyards and fortifications. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.3.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

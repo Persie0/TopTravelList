@@ -1227,3 +1227,14 @@ Eight additions, 32 peer rows. Türkiye 105 ranked / 105 total. Konak museum dis
 - [x] TR — Ahlat Seljuk Monumental Cemetery: 88.50/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Türkiye 113 ranked / 113 total. Laodicea and Priene tentative sites distinct; Miletus museum included in shared admission; Didyma independently visited; Karahantepe separate excavation; Ahlat cemetery excludes citadel. İzmir factory and Konak museum separate venues, collection transfer check pending. Next bounded screen: Hacı Bektaş Veli complex, Alanya Castle and Red Tower, Damlataş Cave, Knidos, Aphrodisias Museum (overlap check), Karatepe-Aslantaş, Çatalhöyük visitor scope check, and Hattuşa Yazılıkaya (overlap check). Earlier Ihlara and Antalya museum deferrals unchanged. Full Python validation pending.
+
+### Pass 106 — Türkiye coastal fortifications, religious heritage and archaeology
+
+- [x] TR — Hacı Bektaş Veli Religious Complex and Museum: 89.00/100 (source-linked-unverified).
+- [x] TR — Alanya Castle, Red Tower and Shipyard: 90.35/100 (source-linked-unverified).
+- [x] TR — Damlataş Cave Alanya: 81.60/100 (source-linked-unverified).
+- [x] TR — Knidos Archaeological Site and Ancient Harbours: 89.25/100 (source-linked-unverified).
+- [x] TR — Karatepe-Aslantaş Archaeological Site and Open-Air Museum: 89.70/100 (source-linked-unverified).
+- [x] TR — Mamure Castle Anamur: 89.05/100 (source-linked-unverified).
+
+Six additions, 24 peer rows. Türkiye 119 ranked / 119 total. Yazılıkaya explicitly listed in Hattusha property (https://whc.unesco.org/en/list/377/maps/); Çatalhöyük on-site centre (https://www.catalhoyuk.com/visit) retained within existing site; Aphrodisias museum grouped with site by ministry (https://muze.gov.tr/muze-detay?DistId=AFR&SectionId=AFR01), detailed third-party FAQ returned 403 so separate ticket not asserted. Mamure substituted. Alanya Red Tower and shipyard grouped. Hacı Bektaş UNESCO coordinate labels appear transposed; mapped complex used. Next bounded screen: Ballıca Cave, Dim Cave, Cennet and Cehennem sinkholes, Anamurium, Kızkalesi, Amasya historic riverfront, Odunpazarı historic district and Divriği scope check. Earlier Ihlara and Antalya museum deferrals unchanged. Full Python validation pending.
