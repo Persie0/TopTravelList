@@ -4078,3 +4078,295 @@ Ranking rows and allowed categories checked; independent coordinate, peer YAML, 
 ### Pass 245 scope decisions
 
 15 additions, 6 source-linked provisional, 9 desk-based provisional, 4 90+, 38 ranking-row comparisons (8 international). BR 189 ranked / 192 total. Aparecida basilicas grouped; permanent Paço do Frevo museum excludes Carnival; Monte Alegre separate from Capivara and Acre; Barretos festival assessed for overall cultural experience, animal welfare not independently reviewed. Expoflora excludes permanent town scenery. Cachoeira and São Félix grouped; Pomerode excludes Blumenau festival. Prior deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
+
+## sight-br-sao-paulo-grand-prix — São Paulo Formula One Grand Prix Interlagos Motorsport Spectator Experience — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/sao-paulo-grand-prix.yaml)
+- Action: new
+- Scope: Formula One race weekend only; excludes unrelated use of the circuit. World championship debut in 1973; F1 reports 303,627 cumulative attendance in 2025 and a contract extension through 2035.
+- Representative coordinates: -23.703, -46.699; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.4 / 9.3 / 9.1.
+- Categories: culture:9.4 photography:9.3 nightlife:9.2.
+- Overall: 92.75/100.
+- Source: https://www.formula1.com/en/information/brazil-autodromo-jose-carlos-pace-sao-paulo.5z2RfrmiTTfEP6Wnxv1yIW
+- Source: https://www.formula1.com/en/latest/article/formula-1-to-race-in-sao-paulo-through-to-2035-following-new-five-year-contract-extension.3RBVXeLDp6NMDUQSAIX8TL
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/rock-in-rio](../../../countries/BR/sights/rock-in-rio.yaml) | 9.3 / 9.2 / 9.3 / 9.4 / 9.2 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [BR/barretos-festa-do-peao](../../../countries/BR/sights/barretos-festa-do-peao.yaml) | 9.0 / 8.9 / 9.2 / 9.3 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [CA/canadian-grand-prix](../../../countries/CA/sights/canadian-grand-prix.yaml) | 9.1 / 9.0 / 9.1 / 9.4 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-amazonas-opera-festival — Amazonas Opera Festival Manaus Annual Operatic Performances — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/amazonas-opera-festival.yaml)
+- Action: new
+- Scope: Annual opera programme founded in 1997; festival organizer documents productions and international industry meetings. Score covers event programming, not architecture or routine theatre visits; venue overlap non-additive.
+- Representative coordinates: -3.13, -60.023; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.2 nightlife:9.2.
+- Overall: 90.85/100.
+- Source: https://fundofao.org.br/amazonas-opera-festival/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/theatro-municipal-rio](../../../countries/BR/sights/theatro-municipal-rio.yaml) | 9.0 / 9.0 / 9.3 / 9.2 / 9.1 | impact: -0.1 vs peer; uniqueness: +0.2 vs peer |
+| [BR/campos-jordao-winter-festival](../../../countries/BR/sights/campos-jordao-winter-festival.yaml) | 8.9 / 9.0 / 9.2 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+| [BR/teatro-amazonas-manaus](../../../countries/BR/sights/teatro-amazonas-manaus.yaml) | 8.6 / 9.0 / 9.0 / 8.5 / 7.4 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-festival-de-curitiba — Festival de Curitiba Theatre and Performing Arts Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/festival-de-curitiba.yaml)
+- Action: new
+- Scope: Annual performing arts festival founded in 1992; state cultural department documents 34th edition in 2026 and national importance. Permanent theatre architecture excluded.
+- Representative coordinates: -25.429, -49.265; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.1 / 9.2 / 9.1.
+- Categories: culture:9.4 nightlife:9.3 family:9.0.
+- Overall: 90.85/100.
+- Source: https://festivaldecuritiba.com.br/sobre-o-festival/
+- Source: https://www.cultura.pr.gov.br/Noticia/Um-dos-maiores-do-pais-com-apoio-do-Estado-Festival-de-Curitiba-chega-34a-edicao
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [BR/gramado-film-festival](../../../countries/BR/sights/gramado-film-festival.yaml) | 8.8 / 8.9 / 8.9 / 9.0 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-garanhuns-winter-festival — Garanhuns Winter Festival Pernambuco Music and Multicultural Arts — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/garanhuns-winter-festival.yaml)
+- Action: new
+- Scope: Multidisciplinary festival held since 1991; Senate documents national importance and diverse performance and visual arts. Distinct from regional June festivities.
+- Representative coordinates: -8.89, -36.49; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.1 / 9.3 / 9.1.
+- Categories: culture:9.4 nightlife:9.3 photography:9.1.
+- Overall: 90.50/100.
+- Source: https://www12.senado.leg.br/noticias/materias/2026/03/03/festival-de-inverno-de-garanhuns-pe-como-manifestacao-cultural-vai-a-sancao
+- Source: https://garanhuns.pe.gov.br/prefeitura-lanca-a-programacao-completa-do-34-festival-de-inverno-de-garanhuns/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/sao-joao-campina-grande](../../../countries/BR/sights/sao-joao-campina-grande.yaml) | 9.0 / 9.0 / 9.2 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [BR/campos-jordao-winter-festival](../../../countries/BR/sights/campos-jordao-winter-festival.yaml) | 8.9 / 9.0 / 9.2 / 9.3 / 9.1 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-saquarema-world-surf-league — Saquarema Itaúna World Surf League Championship Surf Spectator Experience — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/saquarema-world-surf-league.yaml)
+- Action: new
+- Scope: Elite surf competition at Saquarema, rather than generic beach recreation; municipal authority confirms Championship Tour partnership through 2028. Future conditions and dates not guaranteed.
+- Representative coordinates: -22.94, -42.48; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.0 / 9.1 / 8.9.
+- Categories: culture:9.2 photography:9.3 adventure:9.2.
+- Overall: 90.30/100.
+- Source: https://www.saquarema.rj.gov.br/saquarema-garante-etapa-do-mundial-de-surfe-ate-2028/
+- Source: https://www.saquarema.rj.gov.br/prefeitura-encerra-com-sucesso-mais-uma-edicao-da-wsl-e-reforca-capacidade-do-municipio-para-receber-grandes-eventos/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/cumbuco-kitesurf](../../../countries/BR/sights/cumbuco-kitesurf.yaml) | 8.8 / 8.9 / 8.5 / 9.2 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [BR/barretos-festa-do-peao](../../../countries/BR/sights/barretos-festa-do-peao.yaml) | 9.0 / 8.9 / 9.2 / 9.3 / 9.0 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+| [CA/tofino-surf](../../../countries/CA/sights/tofino-surf.yaml) | 8.9 / 8.8 / 8.4 / 9.1 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-brasilia-film-festival — Festival de Brasília do Cinema Brasileiro Film Screenings and Cultural Programme — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/brasilia-film-festival.yaml)
+- Action: new
+- Scope: National cinema festival originating in 1965; Agência Brasil confirms September 2026 opening after earlier cancellation/impasse reports. No permanent Brasília architecture included.
+- Representative coordinates: -15.812, -47.89; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.3 / 8.9 / 9.0.
+- Categories: culture:9.3 history:9.2 nightlife:9.0.
+- Overall: 89.05/100.
+- Source: https://festcinebrasilia.com.br/sobre-o-festival/
+- Source: https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/festival-de-brasilia-do-cinema-brasileiro-comeca-nesta-sexta-feira
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/gramado-film-festival](../../../countries/BR/sights/gramado-film-festival.yaml) | 8.8 / 8.9 / 8.9 / 9.0 / 8.9 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-capitolio-furnas-canyons — Capitólio Furnas Reservoir Canyons and Scenic Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/capitolio-furnas-canyons.yaml)
+- Action: new
+- Scope: Reservoir canyon landscape distinct from Serra da Canastra. Geological service documents canyon viewpoints and suspension bridge. Individual boat routes and geotechnical conditions not verified; no safety assurance.
+- Representative coordinates: -20.65, -46.27; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 87.90/100.
+- Source: https://www.sgb.gov.br/geossit/geossitios/ver/2336
+- Source: https://investminas.mg.gov.br/turismo/municipio/Capit%C3%B3lio
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/xingo-canyon](../../../countries/BR/sights/xingo-canyon.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [BR/guartela-canyon](../../../countries/BR/sights/guartela-canyon.yaml) | 8.7 / 8.7 / 8.5 / 8.8 / 8.7 | impact: +0.3 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-serra-do-tepequem — Serra do Tepequém Roraima Tableland Waterfalls and Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/serra-do-tepequem.yaml)
+- Action: new
+- Scope: Amajari tableland landscape and waterfalls; municipal tourism authority identifies a principal regional destination. Separate from Monte Roraima.
+- Representative coordinates: 3.75, -61.72; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.4 / 8.5 / 8.6.
+- Categories: nature:9.2 photography:9.2 adventure:9.1.
+- Overall: 86.25/100.
+- Source: https://amajari.rr.gov.br/turismo/serra-do-tepequem/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/chapada-das-mesas](../../../countries/BR/sights/chapada-das-mesas.yaml) | 9.2 / 9.1 / 8.9 / 9.3 / 9.1 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [BR/serras-gerais](../../../countries/BR/sights/serras-gerais.yaml) | 8.8 / 8.9 / 8.3 / 8.6 / 8.8 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-brotas-adventure — Brotas Jacaré-Pepira River Rafting and Adventure Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/brotas-adventure.yaml)
+- Action: new
+- Scope: Local adventure tourism based on river rafting and waterfall experiences, grouped as a regional circuit; municipality documents adventure activity offerings.
+- Representative coordinates: -22.28, -48.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.1 / 9.0 / 8.7.
+- Categories: adventure:9.4 nature:9.1 family:9.0.
+- Overall: 85.45/100.
+- Source: https://www.brotas.sp.gov.br/secretarias/turismo
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/cumbuco-kitesurf](../../../countries/BR/sights/cumbuco-kitesurf.yaml) | 8.8 / 8.9 / 8.5 / 9.2 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.4 vs peer |
+| [BR/boca-da-onca](../../../countries/BR/sights/boca-da-onca.yaml) | 8.9 / 8.8 / 8.6 / 9.0 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-serra-de-itabaiana — Serra de Itabaiana National Park Mountain Trails and Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/serra-de-itabaiana.yaml)
+- Action: new
+- Scope: Separate Atlantic Forest transition landscape in Sergipe; ICMBio confirms protected area identity. Specific trail access unverified.
+- Representative coordinates: -10.75, -37.34; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.5 / 8.4 / 8.4 / 8.5 / 8.6.
+- Categories: nature:9.1 adventure:9.0 photography:9.0.
+- Overall: 84.65/100.
+- Source: https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/mata-atlantica/lista-de-ucs/parna-serra-de-itabaiana/parna-serra-de-itabaiana
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/serra-do-cipo](../../../countries/BR/sights/serra-do-cipo.yaml) | 8.8 / 8.8 / 8.7 / 8.9 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.4 vs peer |
+| [BR/serra-do-papagaio](../../../countries/BR/sights/serra-do-papagaio.yaml) | 8.7 / 8.6 / 8.4 / 8.5 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-foz-do-sao-francisco — Piaçabuçu São Francisco River Mouth Dunes and Estuary Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/foz-do-sao-francisco.yaml)
+- Action: new
+- Scope: River mouth and dune experience distinct from upstream Xingó and Penedo; no access or boat safety verification.
+- Representative coordinates: -10.5, -36.42; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.4 / 8.7 / 8.6.
+- Categories: nature:9.2 photography:9.3 beaches:9.0.
+- Overall: 86.60/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/delta-do-parnaiba](../../../countries/BR/sights/delta-do-parnaiba.yaml) | 8.8 / 8.8 / 8.4 / 8.7 / 8.6 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [BR/xingo-canyon](../../../countries/BR/sights/xingo-canyon.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.7 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-dunas-do-rosado — Dunas do Rosado Rio Grande do Norte Colored Coastal Dunes — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/dunas-do-rosado.yaml)
+- Action: new
+- Scope: Regional coastal dune landscape near Porto do Mangue, distinct from Genipabu.
+- Representative coordinates: -5.02, -36.85; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.1 / 8.4 / 8.1.
+- Categories: nature:9.1 photography:9.3 beaches:8.9.
+- Overall: 85.00/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/genipabu](../../../countries/BR/sights/genipabu.yaml) | 8.8 / 8.7 / 8.3 / 8.9 / 8.5 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [BR/canoa-quebrada](../../../countries/BR/sights/canoa-quebrada.yaml) | 8.8 / 8.6 / 8.3 / 8.8 / 8.5 | impact: -0.1 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-prainha-rio — Prainha and Grumari Rio de Janeiro Coastal Beach Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/prainha-rio.yaml)
+- Action: new
+- Scope: Western Rio beach circuit outside the central Carioca landscape visitor focus; group adjacent beaches, and treat shared scenery as non-additive.
+- Representative coordinates: -23.041, -43.517; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.4 / 7.9 / 8.7 / 8.4.
+- Categories: beaches:9.3 nature:9.1 photography:9.2.
+- Overall: 84.05/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/lagoinha-do-leste](../../../countries/BR/sights/lagoinha-do-leste.yaml) | 8.8 / 8.7 / 8.3 / 8.9 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+| [BR/ipanema-beach](../../../countries/BR/sights/ipanema-beach.yaml) | 8.8 / 8.4 / 7.3 / 9.0 / 8.0 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-serra-dos-pireneus — Serra dos Pireneus State Park Goiás Quartzite Highlands — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/serra-dos-pireneus.yaml)
+- Action: new
+- Scope: Highland trails and rock formations outside Pirenópolis urban core and distinct from Chapada dos Veadeiros.
+- Representative coordinates: -15.8, -48.87; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.2 / 8.4 / 8.5.
+- Categories: nature:9.1 photography:9.1 adventure:9.0.
+- Overall: 83.95/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/pirenopolis-historic-centre](../../../countries/BR/sights/pirenopolis-historic-centre.yaml) | 8.6 / 8.6 / 8.8 / 8.7 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [BR/pedra-do-bau](../../../countries/BR/sights/pedra-do-bau.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.7 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 246 scope decisions
+
+14 additions, 10 source-linked provisional, 4 desk-based provisional, 5 90+, 34 ranking-row comparisons (3 international). BR 203 ranked / 206 total. Interlagos race weekend only; Amazonas Opera Festival separates programmed event from permanent theatre, shared venue non-additive. Saquarema elite surf event only. Brasília film festival 2026 opening confirmed following prior cancellation report. Furnas distinct from Serra da Canastra; geotechnical conditions and access not verified. Prainha and Grumari grouped; shared Rio scenery non-additive. Prior deferrals retained. Coordinates approximate; access and future schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.

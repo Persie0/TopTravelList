@@ -4344,3 +4344,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Praia do Cassino Rio Grande Coastal Beach and Dune Landscapes: 82.70/100 (desk-based provisional).
 
 15 additions, 6 source-linked provisional, 9 desk-based provisional, 4 90+, 38 ranking-row comparisons (8 international). BR 189 ranked / 192 total. Aparecida basilicas grouped; permanent Paço do Frevo museum excludes Carnival; Monte Alegre separate from Capivara and Acre; Barretos festival assessed for overall cultural experience, animal welfare not independently reviewed. Expoflora excludes permanent town scenery. Cachoeira and São Félix grouped; Pomerode excludes Blumenau festival. Prior deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
+
+### Pass 246 — Brazil sporting events, performance festivals and adventure landscapes
+
+- [x] BR — São Paulo Formula One Grand Prix Interlagos Motorsport Spectator Experience: 92.75/100 (source-linked-unverified).
+- [x] BR — Amazonas Opera Festival Manaus Annual Operatic Performances: 90.85/100 (source-linked-unverified).
+- [x] BR — Festival de Curitiba Theatre and Performing Arts Festival: 90.85/100 (source-linked-unverified).
+- [x] BR — Garanhuns Winter Festival Pernambuco Music and Multicultural Arts: 90.50/100 (source-linked-unverified).
+- [x] BR — Saquarema Itaúna World Surf League Championship Surf Spectator Experience: 90.30/100 (source-linked-unverified).
+- [x] BR — Festival de Brasília do Cinema Brasileiro Film Screenings and Cultural Programme: 89.05/100 (source-linked-unverified).
+- [x] BR — Capitólio Furnas Reservoir Canyons and Scenic Viewpoints: 87.90/100 (source-linked-unverified).
+- [x] BR — Serra do Tepequém Roraima Tableland Waterfalls and Hiking: 86.25/100 (source-linked-unverified).
+- [x] BR — Brotas Jacaré-Pepira River Rafting and Adventure Circuit: 85.45/100 (source-linked-unverified).
+- [x] BR — Serra de Itabaiana National Park Mountain Trails and Waterfalls: 84.65/100 (source-linked-unverified).
+- [x] BR — Piaçabuçu São Francisco River Mouth Dunes and Estuary Excursions: 86.60/100 (desk-based provisional).
+- [x] BR — Dunas do Rosado Rio Grande do Norte Colored Coastal Dunes: 85.00/100 (desk-based provisional).
+- [x] BR — Prainha and Grumari Rio de Janeiro Coastal Beach Landscapes: 84.05/100 (desk-based provisional).
+- [x] BR — Serra dos Pireneus State Park Goiás Quartzite Highlands: 83.95/100 (desk-based provisional).
+
+14 additions, 10 source-linked provisional, 4 desk-based provisional, 5 90+, 34 ranking-row comparisons (3 international). BR 203 ranked / 206 total. Interlagos race weekend only; Amazonas Opera Festival separates programmed event from permanent theatre, shared venue non-additive. Saquarema elite surf event only. Brasília film festival 2026 opening confirmed following prior cancellation report. Furnas distinct from Serra da Canastra; geotechnical conditions and access not verified. Prainha and Grumari grouped; shared Rio scenery non-additive. Prior deferrals retained. Coordinates approximate; access and future schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
