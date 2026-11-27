@@ -2251,3 +2251,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Musée Nicéphore Niépce Chalon-sur-Saône Photography Museum: 89.50/100 (desk-based provisional).
 
 30 additions, 15 desk-based provisional estimates, 15 source-informed candidates, 15 90+, 60 domestic peer ranking-row comparisons. France 775 ranked / 786 total; 11 existing unassessed unchanged. UNESCO explicitly names Dijon ducal palace and Beaune Hospices as Climats attributes (https://whc.unesco.org/en/list/1425/); museum collection scopes only. Bibracte includes Mont Beuvray archaeological trails, Morvan excludes those. Santiago serial religious component scope needs independent verification for Autun. Next: Remaining Burgundy: Chalon photography museum high-score review, Ancy-le-Franc high-score review, Nevers ducal palace and pottery museum, Autun Rolin collections, Mâcon, Saint-Sauveur-en-Puisaye, Tonnerre, La Charité-sur-Loire scope, Château de Bazoches, Cîteaux, Berzé-le-Châtel, Brancion, then Jura and Franche-Comté. Full Python validation pending.
+
+
+### Pass 159 — residual Burgundy and Jura/Franche-Comté audit
+
+- [x] FR — Vallée du Hérisson Waterfalls and Plateau des Sept Lacs: 92.45/100 (source-linked-unverified).
+- [x] FR — Baume-les-Messieurs Karst Valley Abbey Cave and Waterfall: 92.60/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts et d’Archéologie Besançon Collections: 92.40/100 (source-linked-unverified).
+- [x] FR — Musée Rolin Autun Art and Archaeology Collections: 91.30/100 (source-linked-unverified).
+- [x] FR — Musée du Temps Besançon Horology Collections: 91.35/100 (source-linked-unverified).
+- [x] FR — Musée Courbet Ornans Fine Arts and Artist Heritage: 91.00/100 (source-linked-unverified).
+- [x] FR — Musée de L’Aventure Peugeot Sochaux Industrial and Automobile Heritage: 91.95/100 (source-linked-unverified).
+- [x] FR — Saut du Doubs French-side Canyon Waterfall and Boat Excursions: 90.20/100 (source-linked-unverified).
+- [x] FR — Musée de la Résistance et de la Déportation Besançon Collections: 90.95/100 (source-linked-unverified).
+- [x] FR — Palais Ducal Nevers Historic Palace: 87.15/100 (desk-based provisional).
+- [x] FR — Musée de la Faïence et des Beaux-Arts Nevers: 87.80/100 (desk-based provisional).
+- [x] FR — Musée des Ursulines Mâcon Art and Archaeology Museum: 86.70/100 (desk-based provisional).
+- [x] FR — Maison de Colette and Colette Museum Saint-Sauveur-en-Puisaye: 88.20/100 (desk-based provisional).
+- [x] FR — Hôtel-Dieu de Tonnerre Medieval Hospital and Fosse Dionne Spring: 87.70/100 (desk-based provisional).
+- [x] FR — Château de Bazoches Vauban Historic Residence: 88.55/100 (desk-based provisional).
+- [x] FR — Abbaye de Cîteaux Cistercian Monastic Heritage: 87.70/100 (desk-based provisional).
+- [x] FR — Forteresse de Berzé-le-Châtel Medieval Castle: 87.65/100 (desk-based provisional).
+- [x] FR — Brancion Medieval Castle and Historic Village: 87.50/100 (desk-based provisional).
+- [x] FR — Château-Chalon Historic Wine Village and Viewpoints: 87.60/100 (desk-based provisional).
+- [x] FR — Arbois Historic Centre and Jura Wine Heritage: 87.75/100 (desk-based provisional).
+- [x] FR — Reculée des Planches-près-Arbois and Cascade des Tufs: 88.00/100 (desk-based provisional).
+- [x] FR — Lac de Vouglans Lake and Scenic Shore Trails: 87.50/100 (desk-based provisional).
+- [x] FR — Lac de Chalain Lake and Belvédère de Fontenu: 87.20/100 (desk-based provisional).
+- [x] FR — Grottes des Moidons Stalactite Cave: 87.50/100 (desk-based provisional).
+- [x] FR — Source de la Loue Karst Spring and Gorge Trails: 87.75/100 (desk-based provisional).
+- [x] FR — Source du Lison Spring and Creux Billard: 87.00/100 (desk-based provisional).
+- [x] FR — Dole Historic Centre and Canal des Tanneurs: 87.90/100 (desk-based provisional).
+- [x] FR — Haut-Jura Highland Forest and Ridge Trails: 88.15/100 (desk-based provisional).
+- [x] FR — Musée du Jouet Moirans-en-Montagne Toy Heritage Museum: 87.60/100 (desk-based provisional).
+- [x] FR — Besançon Historic Doubs River Loop and Old Town: 87.95/100 (desk-based provisional).
+
+30 additions, 21 desk-based provisional estimates, 9 source-informed candidates, 9 90+, 36 domestic peer ranking-row comparisons. France 805 ranked / 816 total; 11 existing unassessed unchanged. Hérisson and seven-lake plateau integrated, Baume abbey/cave/waterfall/valley integrated; Besançon museum collections separate from Vauban fortifications. Saut du Doubs transboundary duplication check against Switzerland pending. Rolin collections assessed independently of renovation, future expansion not assumed complete. La Charité church remains in Santiago serial scope pending separate secular attraction check. Existing high-score review candidates (scores unchanged pending calibration): Niépce museum — https://www.museeniepce.com/ and https://www.open-museeniepce.com/a-propos confirm substantial specialist collection; Ancy-le-Franc — https://www.chateau-ancy.com/en/decorations/ and https://www.chateau-ancy.com/en/history/ confirm exceptional Renaissance mural ensemble; both merit possible 90+ reassessment. Next: Residual Franche-Comté: Pasteur houses, Joux, Mont d’Or, Les Rousses, Osselle cave, Pontarlier, Belfort, Montbéliard, Luxeuil and Vosges/Alsace. Full Python validation pending.

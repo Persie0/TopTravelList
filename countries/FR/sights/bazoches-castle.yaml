@@ -1,0 +1,15 @@
+id: sight-fr-bazoches-castle
+name: "Château de Bazoches Vauban Historic Residence"
+location:
+  country_code: FR
+  latitude: 47.381
+  longitude: 3.793
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    history: 9.4
