@@ -1645,3 +1645,278 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 269 scope decisions
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 2 90+, 42 ranking-row comparisons (18 international). CO 75 ranked / 79 total, +24 since baseline 55. UNESCO list rechecked https://whc.unesco.org/en/statesparties/co/ : 9/9 inscribed represented (3 unassessed); 13 tentative entries inventoried. Preliminary mapping: Puente de Occidente and University City named properties represented, Seaflower and Tayrona/Sierra Nevada partially represented or parent mapped, South of Ricaurte partly covered by Villa de Leyva (boundary check pending); La Venta museum interpretation is not proof of tentative property coverage. Other tentative entries require detailed mapping: Canal del Dique, San Jorge hydraulics, doctrine temples, United Fruit infrastructure, stilt houses, Salmona, Floresta fossils and La Venta field sites. Macuira cloud forest entry restricted; scores do not imply access. All existing scores and four unassessed preserved. Queue OPEN for remaining tentative entries, national parks, heritage towns and cultural experiences. Coordinates approximate, current access unverified.
+
+## sight-co-cartagena-hay-festival — Cartagena Hay Festival International Literature and Cultural Programme — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cartagena-hay-festival.yaml)
+- Action: new
+- Scope: International literary and multidisciplinary event; organizer confirms 22nd Colombia edition in 2027. Cartagena programme only, excluding other cities and permanent walled-city heritage.
+- Representative coordinates: 10.42, -75.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.2 photography:8.9.
+- Overall: 91.35/100.
+- Source: https://www.hayfestival.com/cartagena/about
+- Source: https://www.hayfestival.com/news/blog.aspx?post=1876
+- Source: https://colombia.travel/es/cartagena/hay-festival
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/vallenato-legend-festival](../../../countries/CO/sights/vallenato-legend-festival.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [CO/petronio-alvarez-festival](../../../countries/CO/sights/petronio-alvarez-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [BR/festival-de-curitiba](../../../countries/BR/sights/festival-de-curitiba.yaml) | 9.0 / 9.1 / 9.1 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/amazonas-opera-festival](../../../countries/BR/sights/amazonas-opera-festival.yaml) | 8.9 / 9.2 / 9.2 / 9.1 / 9.1 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [BR/festival-do-japao](../../../countries/BR/sights/festival-do-japao.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-cienaga-grande-stilt-villages — Ciénaga Grande Nueva Venecia and Buenavista Stilt Village Boat Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cienaga-grande-stilt-villages.yaml)
+- Action: new
+- Scope: Community-led boat and cultural experience in Ciénaga Grande sector of serial tentative property. UNESCO-submitted Nueva Venecia coordinates converted from DMS. Excludes Isla de Salamanca nature routes and Medio Atrato settlements. Official ombudsman reports recent security concerns; no current travel recommendation or access guarantee. Consent and safety checks required.
+- Representative coordinates: 10.829083, -74.574614; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 8.5 / 9.0.
+- Categories: culture:9.4 photography:9.4 history:9.2.
+- Overall: 90.95/100.
+- Source: https://whc.unesco.org/en/tentativelists/5842/
+- Source: https://colombia.travel/en/cienaga/palafito-peoples-great-swamp
+- Source: https://www.mincit.gov.co/prensa/noticias/turismo/el-gobierno-le-apuesta-al-turismo-comunitario-en-l
+- Source: https://www.defensoria.gov.co/web/guest/w/pueblos-palafitos-cienaga-grande-santa-marta?redirect=%2Fes%2F
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/san-basilio-de-palenque](../../../countries/CO/sights/san-basilio-de-palenque.yaml) | 7.7 / 9.2 / 9.2 / 8.4 / 7.3 | impact: +1.4; uniqueness: +0.2 vs peer |
+| [CO/amazon-river-leticia-visitor-routes](../../../countries/CO/sights/amazon-river-leticia-visitor-routes.yaml) | 9.0 / 9.0 / 9.0 / 8.6 / 8.8 | impact: +0.1; uniqueness: +0.4 vs peer |
+| [PE/uros-floating-islands](../../../countries/PE/sights/uros-floating-islands.yaml) | 8.4 / 9.3 / 8.2 / 8.2 / 7.3 | impact: +0.7; uniqueness: +0.1 vs peer |
+| [PE/taquile-island](../../../countries/PE/sights/taquile-island.yaml) | 8.5 / 8.7 / 8.5 / 8.6 / 7.8 | impact: +0.6; uniqueness: +0.7 vs peer |
+| [BR/marajo-island](../../../countries/BR/sights/marajo-island.yaml) | 8.9 / 9.0 / 8.8 / 9.0 / 9.0 | impact: +0.2; uniqueness: +0.4 vs peer |
+| [MX/historic-centre-mexico-city-xochimilco](../../../countries/MX/sights/historic-centre-mexico-city-xochimilco.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.3 | impact: -0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-museo-nacional-colombia — National Museum of Colombia Bogotá History Archaeology and Art Collections — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/museo-nacional-colombia.yaml)
+- Action: new
+- Scope: National museum in historic former prison building, founded 1823. Museum announced online access to over 19,000 objects in 2026; not a claim all are physically displayed. Distinct collections from Gold Museum and Botero Museum.
+- Representative coordinates: 4.6155, -74.0698; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.4 / 9.0 / 9.4.
+- Categories: history:9.4 culture:9.4 architecture:9.2.
+- Overall: 90.90/100.
+- Source: https://www.museonacional.gov.co/el-museo/historia/Paginas/Historia.aspx
+- Source: https://www.museonacional.gov.co/noticias/Paginas/colecciones_en_linea.aspx
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/gold-museum-bogota](../../../countries/CO/sights/gold-museum-bogota.yaml) | 9.1 / 9.5 / 9.6 / 9.1 / 8.8 | impact: -0.2; uniqueness: -0.5 vs peer |
+| [CO/botero-museum-bogota](../../../countries/CO/sights/botero-museum-bogota.yaml) | 8.2 / 8.6 / 8.6 / 8.7 / 7.9 | impact: +0.7; uniqueness: +0.4 vs peer |
+| [PE/mnaahp-lima](../../../countries/PE/sights/mnaahp-lima.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.4 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [PE/mali](../../../countries/PE/sights/mali.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.3 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [BR/pinacoteca-sao-paulo](../../../countries/BR/sights/pinacoteca-sao-paulo.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.3 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/muna](../../../countries/PE/sights/muna.yaml) | 8.6 / 8.6 / 9.0 / 8.5 / 8.8 | impact: +0.3; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-bogota-fiav — Bogotá FIAV International Festival of Live Arts and Theatre — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/bogota-fiav.yaml)
+- Action: new
+- Scope: Current named FIAV event: second edition in 2026, more than 100 productions from 18 countries and over 125,000 attendees reported by city cultural secretariat. Do not transfer older Ibero-American Theatre Festival history or attendance; former event deferred pending separate scope.
+- Representative coordinates: 4.598, -74.075; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.3 / 9.2.
+- Categories: culture:9.4 photography:9.1 nightlife:9.0.
+- Overall: 90.85/100.
+- Source: https://fiavbogota.com/fiav-bogota-2026/
+- Source: https://www.culturarecreacionydeporte.gov.co/es/principal/noticias/fiav-bogota-2026-el-mundo-en-un-escenario
+- Source: https://culturarecreacionydeporte.gov.co/es/principal/noticias/FIAV-bogota-se-consolido-como-cita-imperdible-2026
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/feria-de-cali](../../../countries/CO/sights/feria-de-cali.yaml) | 9.2 / 9.1 / 9.2 / 9.4 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [CO/petronio-alvarez-festival](../../../countries/CO/sights/petronio-alvarez-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [BR/festival-de-curitiba](../../../countries/BR/sights/festival-de-curitiba.yaml) | 9.0 / 9.1 / 9.1 / 9.2 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [BR/amazonas-opera-festival](../../../countries/BR/sights/amazonas-opera-festival.yaml) | 8.9 / 9.2 / 9.2 / 9.1 / 9.1 | impact: +0.1; uniqueness: -0.2 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-aracataca-garcia-marquez — Aracataca Gabriel García Márquez House Museum and Literary Heritage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/aracataca-garcia-marquez.yaml)
+- Action: new
+- Scope: Nobel laureate's birthplace, childhood home museum and telegraph house; official tourism board documents named visits. Group literary circuit; not proof of United Fruit tentative-property coverage.
+- Representative coordinates: 10.591, -74.189; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.4 / 8.7 / 9.0.
+- Categories: culture:9.4 history:9.4 photography:9.0.
+- Overall: 90.25/100.
+- Source: https://colombia.travel/en/santa-marta/aracataca-and-garcia-marquez
+- Source: https://colombia.travel/es/santa-marta/aracataca-y-garcia-marquez
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/villa-de-leyva-historic-centre](../../../countries/CO/sights/villa-de-leyva-historic-centre.yaml) | 8.9 / 8.8 / 9.1 / 8.9 / 8.8 | impact: -0.1; uniqueness: +0.4 vs peer |
+| [CO/gold-museum-bogota](../../../countries/CO/sights/gold-museum-bogota.yaml) | 9.1 / 9.5 / 9.6 / 9.1 / 8.8 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [PE/pedro-de-osma-museum](../../../countries/PE/sights/pedro-de-osma-museum.yaml) | 8.6 / 8.7 / 9.0 / 8.8 / 8.8 | impact: +0.2; uniqueness: +0.5 vs peer |
+| [PE/iquitos-historic-centre](../../../countries/PE/sights/iquitos-historic-centre.yaml) | 8.7 / 8.6 / 9.0 / 8.7 / 8.8 | impact: +0.1; uniqueness: +0.6 vs peer |
+| [BR/historic-centre-of-sao-luis](../../../countries/BR/sights/historic-centre-of-sao-luis.yaml) | 8.5 / 9.1 / 9.3 / 7.9 / 8.2 | impact: +0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-popayan-historic-centre — Popayán Historic Centre Colonial Churches and White Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/popayan-historic-centre.yaml)
+- Action: new
+- Scope: Permanent colonial architecture and public streets; national monument protection documented in Decree 2248 of 1996. Excludes Holy Week processions.
+- Representative coordinates: 2.441, -76.606; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.2 / 8.8 / 8.9.
+- Categories: architecture:9.4 history:9.3 photography:9.3.
+- Overall: 88.90/100.
+- Source: https://normograma.mincultura.gov.co/compilacion/docs/decreto_2248_1996.htm
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/historic-centre-of-santa-cruz-de-mompox](../../../countries/CO/sights/historic-centre-of-santa-cruz-de-mompox.yaml) | 8.6 / 9.0 / 9.3 / 8.3 / 8.5 | impact: +0.2; uniqueness: -0.2 vs peer |
+| [CO/villa-de-leyva-historic-centre](../../../countries/CO/sights/villa-de-leyva-historic-centre.yaml) | 8.9 / 8.8 / 9.1 / 8.9 / 8.8 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-santa-fe-antioquia-historic-centre — Santa Fe de Antioquia Historic Centre Colonial Streets and Mansions — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/santa-fe-antioquia-historic-centre.yaml)
+- Action: new
+- Scope: Permanent colonial architecture and public spaces; excludes separately ranked Puente de Occidente bridge.
+- Representative coordinates: 6.557, -75.828; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.7 / 9.1 / 8.8 / 8.8.
+- Categories: architecture:9.4 history:9.3 photography:9.2.
+- Overall: 88.05/100.
+- Source: https://colombia.travel/en/santa-fe-de-antioquia
+- Source: https://www.wmf.org/monuments/santa-fe-de-antioquia-historic-center
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/historic-centre-of-santa-cruz-de-mompox](../../../countries/CO/sights/historic-centre-of-santa-cruz-de-mompox.yaml) | 8.6 / 9.0 / 9.3 / 8.3 / 8.5 | impact: +0.1; uniqueness: -0.3 vs peer |
+| [CO/barichara-historic-centre](../../../countries/CO/sights/barichara-historic-centre.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.7 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-virgilio-barco-library — Virgilio Barco Library and Park Rogelio Salmona Architectural Landmark — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/virgilio-barco-library.yaml)
+- Action: new
+- Scope: Public library and adjoining park, one of seven components of Salmona tentative serial property. Excludes wider Simón Bolívar park and other components.
+- Representative coordinates: 4.658, -74.093; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: architecture:9.4 culture:9.2 photography:9.2.
+- Overall: 87.65/100.
+- Source: https://whc.unesco.org/en/tentativelists/6600/
+- Source: https://visitbogota.co/en/what-to-do-in-bogota/culture/virgilio-barco-library
+- Source: https://www.idrd.gov.co/parques-y-escenarios/parque-virgilio-barco
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/bogota-university-city](../../../countries/CO/sights/bogota-university-city.yaml) | 8.2 / 8.6 / 9.1 / 8.3 / 8.5 | impact: +0.3; uniqueness: +0.3 vs peer |
+| [CO/botero-museum-bogota](../../../countries/CO/sights/botero-museum-bogota.yaml) | 8.2 / 8.6 / 8.6 / 8.7 / 7.9 | impact: +0.3; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-mompox-jazz-festival — Mompox Jazz Festival Public Music Performances — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/mompox-jazz-festival.yaml)
+- Action: new
+- Scope: Distinct recurring music event in colonial Mompox, not permanent historic centre. Current schedule not checked.
+- Representative coordinates: 9.2414, -74.4267; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.8 / 9.0 / 8.8.
+- Categories: culture:9.3 photography:9.1 nightlife:9.1.
+- Overall: 88.05/100.
+- Source: https://colombia.travel/es/mompox
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/vallenato-legend-festival](../../../countries/CO/sights/vallenato-legend-festival.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.3; uniqueness: -0.6 vs peer |
+| [CO/petronio-alvarez-festival](../../../countries/CO/sights/petronio-alvarez-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.3; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-villa-de-leyva-fossil-museum — Villa de Leyva El Fósil Museum Prehistoric Marine Reptile Collections — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/villa-de-leyva-fossil-museum.yaml)
+- Action: new
+- Scope: Distinct fossil museum outside historic centre; official tourism inventory describes marine reptile specimen. Taxonomic name not asserted. Does not imply Floresta or La Venta property coverage.
+- Representative coordinates: 5.63, -73.567; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.1 / 8.5 / 8.6.
+- Categories: history:9.4 family:9.1 culture:9.0.
+- Overall: 87.60/100.
+- Source: https://situr.boyaca.gov.co/atractivo-turistico/museo-el-fosil/
+- Source: https://apropiaconsentido.minciencias.gov.co/conectar-para-fortalecer/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/villavieja-paleontology-museum](../../../countries/CO/sights/villavieja-paleontology-museum.yaml) | 8.4 / 8.9 / 9.3 / 8.4 / 8.7 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [CO/gold-museum-bogota](../../../countries/CO/sights/gold-museum-bogota.yaml) | 9.1 / 9.5 / 9.6 / 9.1 / 8.8 | impact: -0.5; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-jerico-historic-centre — Jericó Antioquia Historic Town and Carriel Artisan Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/jerico-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based historical town and community-permitted leather artisan experience. Not Hay Festival Jericó or a generic coffee farm route.
+- Representative coordinates: 5.792, -75.786; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.8 / 8.8 / 8.7.
+- Categories: culture:9.3 architecture:9.2 photography:9.2.
+- Overall: 86.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/barichara-historic-centre](../../../countries/CO/sights/barichara-historic-centre.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.7 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [CO/villa-de-leyva-historic-centre](../../../countries/CO/sights/villa-de-leyva-historic-centre.yaml) | 8.9 / 8.8 / 9.1 / 8.9 / 8.8 | impact: -0.5; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-mongui-historic-centre — Monguí Historic Centre Colonial Architecture and Traditional Football Workshops — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/mongui-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based town architecture and artisan football-making tradition; excludes Ocetá páramo landscape, workshop access not guaranteed.
+- Representative coordinates: 5.724, -72.849; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.8 / 8.7 / 8.6.
+- Categories: culture:9.2 architecture:9.2 photography:9.1.
+- Overall: 86.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/barichara-historic-centre](../../../countries/CO/sights/barichara-historic-centre.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.7 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [CO/villa-de-leyva-historic-centre](../../../countries/CO/sights/villa-de-leyva-historic-centre.yaml) | 8.9 / 8.8 / 9.1 / 8.9 / 8.8 | impact: -0.5; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 270 scope decisions
+
+12 additions, 10 source-linked provisional, 2 desk-based provisional, 5 90+, 44 ranking-row comparisons (20 international). CO 87 ranked / 91 total, +36 since baseline 55. Prior 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried; previous preliminary 5/13 mapped plus Ciénaga Grande stilt villages and one Salmona component, 7/13 at least partially mapped provisionally, no full serial-coverage claim. Ciénaga security alert recorded separately from score; consent and current travel checks required. Aracataca literary circuit not evidence of United Fruit property coverage. FIAV is current named event, no older theatre festival history transferred. Floresta fossil sites deferred pending specific authorized visitor scope and reliable coordinates (https://whc.unesco.org/en/tentativelists/6705/); Canal del Dique, San Jorge, doctrine temples, United Fruit, La Venta field sites still require scope mapping. Existing scores and four unassessed preserved. Queue OPEN for remaining regional nature and heritage. Coordinates approximate; schedules and access unverified.

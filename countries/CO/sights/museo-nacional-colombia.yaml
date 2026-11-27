@@ -1,0 +1,16 @@
+id: sight-co-museo-nacional-colombia
+name: "National Museum of Colombia Bogotá History Archaeology and Art Collections"
+location:
+  country_code: CO
+  latitude: 4.6155
+  longitude: -74.0698
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 9.0
+  depth: 9.4
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 9.2

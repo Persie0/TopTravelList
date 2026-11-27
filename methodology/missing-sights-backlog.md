@@ -4784,3 +4784,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — Isla de Salamanca National Park Mangrove and Lagoon Birding: 85.60/100 (desk-based provisional).
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 2 90+, 42 ranking-row comparisons (18 international). CO 75 ranked / 79 total, +24 since baseline 55. UNESCO list rechecked https://whc.unesco.org/en/statesparties/co/ : 9/9 inscribed represented (3 unassessed); 13 tentative entries inventoried. Preliminary mapping: Puente de Occidente and University City named properties represented, Seaflower and Tayrona/Sierra Nevada partially represented or parent mapped, South of Ricaurte partly covered by Villa de Leyva (boundary check pending); La Venta museum interpretation is not proof of tentative property coverage. Other tentative entries require detailed mapping: Canal del Dique, San Jorge hydraulics, doctrine temples, United Fruit infrastructure, stilt houses, Salmona, Floresta fossils and La Venta field sites. Macuira cloud forest entry restricted; scores do not imply access. All existing scores and four unassessed preserved. Queue OPEN for remaining tentative entries, national parks, heritage towns and cultural experiences. Coordinates approximate, current access unverified.
+
+### Pass 270 — Colombia literary heritage, museums, stilt villages and architecture
+
+- [x] CO — Cartagena Hay Festival International Literature and Cultural Programme: 91.35/100 (source-linked-unverified).
+- [x] CO — Ciénaga Grande Nueva Venecia and Buenavista Stilt Village Boat Circuit: 90.95/100 (source-linked-unverified).
+- [x] CO — National Museum of Colombia Bogotá History Archaeology and Art Collections: 90.90/100 (source-linked-unverified).
+- [x] CO — Bogotá FIAV International Festival of Live Arts and Theatre: 90.85/100 (source-linked-unverified).
+- [x] CO — Aracataca Gabriel García Márquez House Museum and Literary Heritage Circuit: 90.25/100 (source-linked-unverified).
+- [x] CO — Popayán Historic Centre Colonial Churches and White Architecture: 88.90/100 (source-linked-unverified).
+- [x] CO — Santa Fe de Antioquia Historic Centre Colonial Streets and Mansions: 88.05/100 (source-linked-unverified).
+- [x] CO — Virgilio Barco Library and Park Rogelio Salmona Architectural Landmark: 87.65/100 (source-linked-unverified).
+- [x] CO — Mompox Jazz Festival Public Music Performances: 88.05/100 (source-linked-unverified).
+- [x] CO — Villa de Leyva El Fósil Museum Prehistoric Marine Reptile Collections: 87.60/100 (source-linked-unverified).
+- [x] CO — Jericó Antioquia Historic Town and Carriel Artisan Heritage: 86.45/100 (desk-based provisional).
+- [x] CO — Monguí Historic Centre Colonial Architecture and Traditional Football Workshops: 86.20/100 (desk-based provisional).
+
+12 additions, 10 source-linked provisional, 2 desk-based provisional, 5 90+, 44 ranking-row comparisons (20 international). CO 87 ranked / 91 total, +36 since baseline 55. Prior 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried; previous preliminary 5/13 mapped plus Ciénaga Grande stilt villages and one Salmona component, 7/13 at least partially mapped provisionally, no full serial-coverage claim. Ciénaga security alert recorded separately from score; consent and current travel checks required. Aracataca literary circuit not evidence of United Fruit property coverage. FIAV is current named event, no older theatre festival history transferred. Floresta fossil sites deferred pending specific authorized visitor scope and reliable coordinates (https://whc.unesco.org/en/tentativelists/6705/); Canal del Dique, San Jorge, doctrine temples, United Fruit, La Venta field sites still require scope mapping. Existing scores and four unassessed preserved. Queue OPEN for remaining regional nature and heritage. Coordinates approximate; schedules and access unverified.
