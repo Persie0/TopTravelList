@@ -22,4 +22,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | ES | DONE — current queue | 192 total (177 ranked); 75 additions in passes 72–81. Final named queue resolved; existing serial overlaps and fifteen prior unassessed remain separate. Reopen on concrete substantial omission. |
 | PT | DONE — current queue | 91 total (90 ranked); 38 additions in passes 82–86. Final eight mainland candidates and two previously deferred caves resolved; closures recorded separately, not a discovery/rating gate. No remaining named high-value candidates in bounded queue. Reopen for concrete substantial omission. One prior unassessed remains separate. |
 
+| IT | OPEN | 145 total (133 ranked); eight major museum, cave, archaeological and palace attractions in pass 87. Next bounded screen: Sansevero Chapel, Naples Underground, Capitoline Museums, Castel Sant’Angelo, Pantelleria/Portofino scope, Grotte di Nettuno, and Gardaland. Existing twelve unassessed remain separate. |
+
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

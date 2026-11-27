@@ -986,3 +986,16 @@ Eight additions, 32 peer rows. Portugal 80 ranked / 81 total. Gruta das Torres J
 - [x] PT — São Vicente Caves and Volcanism Centre: 85.25/100 (source-linked-unverified).
 
 Ten additions, 40 peer rows. Portugal 90 ranked / 91 total, 38 additions since pass 82; current Portugal queue DONE (16 closed queues total). Algar do Carvão and São Vicente Caves now assessed on established experiences irrespective of temporary closure; no reopening date assumed. Queluz outside the Sintra mountain landscape; Clérigos interior and ascent distinct from Porto streets; Gaia cellars grouped separately from Douro vineyards; Mondego built trail distinct from Serra da Estrela landscape; São Mamede nature trails exclude fortified settlements. Existing one unassessed unchanged. Next country: choose an unscreened country from current worldwide inventory; do not reopen a completed queue absent concrete evidence. Full Python validation and independent corroboration pending.
+
+### Pass 87 — Italy independent museum, archaeological, cave and estate experiences
+
+- [x] IT — Borghese Gallery Rome: 91.10/100 (source-linked-unverified).
+- [x] IT — National Archaeological Museum of Naples: 91.95/100 (source-linked-unverified).
+- [x] IT — Ostia Antica Archaeological Park: 90.90/100 (source-linked-unverified).
+- [x] IT — Frasassi Cave System: 90.05/100 (source-linked-unverified).
+- [x] IT — Castellana Cave System: 88.30/100 (source-linked-unverified).
+- [x] IT — Mole Antonelliana and National Cinema Museum: 88.90/100 (source-linked-unverified).
+- [x] IT — Isola Bella Borromeo Palace and Gardens: 89.25/100 (source-linked-unverified).
+- [x] IT — Aquarium of Genoa: 86.10/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows; Italy 133 ranked / 145 total. Existing ratings preserved. Venaria Reale deferred for Savoy series scope, Isola Bella palace/gardens distinct from Maggiore-Orta, Naples museum separate from ruins, Mole museum and monument grouped. Next bounded screen: Sansevero Chapel, Naples Underground, Capitoline Museums, Castel Sant’Angelo, Grotte di Nettuno, Gardaland; inspect Portofino and Pantelleria scopes. Full Python validation and independent corroboration pending.
