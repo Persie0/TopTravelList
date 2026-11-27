@@ -1,0 +1,16 @@
+id: sight-fr-foret-orient
+name: "Forêt d’Orient Lakes and Wetland Nature Trails"
+location:
+  country_code: FR
+  latitude: 48.28
+  longitude: 4.32
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    relaxation: 9.2

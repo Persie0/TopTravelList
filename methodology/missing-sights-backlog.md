@@ -2395,3 +2395,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Abbaye de Clairvaux Historic Cistercian Abbey and Prison Heritage: 88.65/100 (desk-based provisional).
 
 30 additions, 14 desk-based provisional estimates, 16 source-informed candidates, 12 90+, 64 domestic peer ranking-row comparisons. France 895 ranked / 906 total; 11 existing unassessed unchanged. Reims Saint-Remi collections independent from listed abbey architecture; Épernay collections distinct from Champagne UNESCO property (https://www.champagne.fr/en/visit-champagne/life-in-champagne/champagne-world-heritage). Troyes churches integrated into historic centre. Nancy Lorraine Museum renovation ignored as intrinsic penalty, no future extension assumed. Metz cathedral and Longwy deferred to existing serial/urban scope. Official source excerpts used for research, not full on-site validation. Next: Remaining Champagne and Ardennes: Reims fine arts collections, Fort de la Pompelle, Argonne, Châlons-en-Champagne, Aube forest lakes, and remaining Lorraine urban scopes; then Hauts-de-France (Lille, Lens, Arras, Amiens, coastal and mining heritage). Full Python validation pending.
+
+
+### Pass 163 — residual Champagne and Hauts-de-France audit
+
+- [x] FR — Louvre-Lens Galerie du Temps and Exhibition Museum: 92.85/100 (source-linked-unverified).
+- [x] FR — Palais des Beaux-Arts Lille Fine Arts Collections: 93.15/100 (source-linked-unverified).
+- [x] FR — Nausicaá National Sea Centre Boulogne-sur-Mer Aquarium: 92.85/100 (source-linked-unverified).
+- [x] FR — La Piscine Roubaix Art and Industry Museum: 92.60/100 (source-linked-unverified).
+- [x] FR — Baie de Somme Estuary and Parc du Marquenterre Wildlife Trails: 92.15/100 (source-linked-unverified).
+- [x] FR — LaM Lille Métropole Modern Contemporary and Outsider Art Museum: 91.90/100 (source-linked-unverified).
+- [x] FR — Familistère de Guise Social Palace and Industrial Heritage Museum: 92.35/100 (source-linked-unverified).
+- [x] FR — Cap Blanc-Nez and Cap Gris-Nez Opal Coast Cliff Trails: 90.65/100 (source-linked-unverified).
+- [x] FR — La Coupole Saint-Omer History Museum and Planetarium: 91.80/100 (source-linked-unverified).
+- [x] FR — Carrière Wellington Arras Underground Heritage Museum: 91.35/100 (source-linked-unverified).
+- [x] FR — Musée de Picardie Amiens Art and Archaeology Collections: 91.85/100 (source-linked-unverified).
+- [x] FR — Hortillonnages Amiens Floating Gardens and Canal Boat Trails: 90.80/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts Reims Fine Arts Collections: 91.10/100 (source-linked-unverified).
+- [x] FR — Vieux-Lille Historic Centre and Grand Place: 90.40/100 (source-linked-unverified).
+- [x] FR — Arras Grand Place and Place des Héros Flemish Squares: 89.70/100 (source-linked-unverified).
+- [x] FR — Musée Henri Matisse Le Cateau-Cambrésis Art Collections: 91.10/100 (source-linked-unverified).
+- [x] FR — Musée du Fort de la Pompelle Reims Historical Collections: 89.50/100 (source-linked-unverified).
+- [x] FR — Châlons-en-Champagne Historic Centre and Canal Trails: 87.25/100 (desk-based provisional).
+- [x] FR — Forêt d’Orient Lakes and Wetland Nature Trails: 86.85/100 (desk-based provisional).
+- [x] FR — Argonne Forest and Historic Landscape Trails: 87.00/100 (desk-based provisional).
+- [x] FR — Musée de l’Hospice Comtesse Lille Historical Collections: 88.45/100 (desk-based provisional).
+- [x] FR — Muséum d’Histoire Naturelle Lille Collections: 87.80/100 (desk-based provisional).
+- [x] FR — Villa Cavrois Croix Modernist House and Gardens: 88.85/100 (desk-based provisional).
+- [x] FR — Marais Audomarois Saint-Omer Wetland and Boat Trails: 87.95/100 (desk-based provisional).
+- [x] FR — Cathédrale Notre-Dame Saint-Omer Gothic Church: 88.55/100 (desk-based provisional).
+- [x] FR — Boulogne-sur-Mer Walled Upper Town and Castle: 87.90/100 (desk-based provisional).
+- [x] FR — Montreuil-sur-Mer Historic Town and Ramparts: 87.50/100 (desk-based provisional).
+- [x] FR — Saint-Leu Amiens Historic Canal Quarter: 86.15/100 (desk-based provisional).
+- [x] FR — Musée de la Chartreuse Douai Fine Arts Collections: 88.25/100 (desk-based provisional).
+- [x] FR — Cité de la Dentelle et de la Mode Calais Lace and Fashion Museum: 88.65/100 (desk-based provisional).
+
+30 additions, 13 desk-based provisional estimates, 17 source-informed candidates, 15 90+, 68 domestic peer ranking-row comparisons. France 925 ranked / 936 total; 11 existing unassessed unchanged. Marquenterre combined with Baie de Somme; Deux Caps combined. Lewarde industrial architecture already covered by Nord mining UNESCO property (https://www.chm-lewarde.com/fr/le-centre-historique-minier/presentation-et-missions/); independent museum collection scope deferred. Louvre-Lens loans not treated as permanent holdings. Arras and Lille belfries, Vauban citadels excluded from urban scope. Reims fine arts renovation ignored as intrinsic penalty. Villa Cavrois flagged for possible upward review. Next: Remaining Hauts-de-France: Dunkirk, Calais, Laon, Soissons, Saint-Quentin, Cambrai, Compiègne, Gerberoy, Beauvais, Aisne museums, Villa Cavrois high-score review, mining museum collection scope, Somme memorial museum scope; then remaining central/northern regions. Full Python validation pending.

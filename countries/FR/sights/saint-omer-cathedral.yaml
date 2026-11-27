@@ -1,0 +1,16 @@
+id: sight-fr-saint-omer-cathedral
+name: "Cathédrale Notre-Dame Saint-Omer Gothic Church"
+location:
+  country_code: FR
+  latitude: 50.746
+  longitude: 2.252
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.2

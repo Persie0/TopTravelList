@@ -1,0 +1,16 @@
+id: sight-fr-nausicaa
+name: "Nausicaá National Sea Centre Boulogne-sur-Mer Aquarium"
+location:
+  country_code: FR
+  latitude: 50.731
+  longitude: 1.594
+scores:
+  impact: 9.4
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 9.4
+  depth: 9.3
+  categories:
+    wildlife: 9.4
+    family: 9.4
+    nature: 9.3
