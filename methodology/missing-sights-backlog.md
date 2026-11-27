@@ -1273,3 +1273,13 @@ Seven additions, 28 peer rows. Türkiye 133 ranked / 133 total. Alacahöyük loc
 - [x] TR — Antalya Archaeology Museum: 91.40/100 (source-linked-unverified).
 
 Six additions, 24 peer rows. Türkiye 139 ranked / 139 total. Antalya museum ranked on established pre-closure collection, new display scope not assumed. Kayseri museum distinct from Kültepe excavation; Hatay museum uses Maşuklu location; Gaziantep citadel and historic market streets grouped; Dara and Mor Gabriel distinct from Mardin city. Next bounded screen: Van Fortress, Van Museum, Amasya Archaeology Museum, St Pierre Church Antakya, Çevlik/Seleucia Pieria and Titus Tunnel, and Deyrulzafaran Monastery (Mardin scope check). Ihlara scope deferral remains. Full Python validation pending.
+
+### Pass 110 — Türkiye Urartian heritage and Antakya monuments
+
+- [x] TR — Tushpa and Van Fortress Archaeological Landscape: 90.15/100 (source-linked-unverified).
+- [x] TR — Van Museum and Urartian Collections: 89.75/100 (source-linked-unverified).
+- [x] TR — Amasya Archaeology Museum: 85.50/100 (source-linked-unverified).
+- [x] TR — Saint Pierre Cave Church Antakya: 87.55/100 (source-linked-unverified).
+- [x] TR — Seleucia Pieria Titus Tunnel and Beşikli Cave: 89.25/100 (source-linked-unverified).
+
+Five additions, 20 peer rows. Türkiye 144 ranked / 144 total. Deyrulzafaran retained within Mardin Cultural Landscape because the existing tentative-property description expressly includes it (https://whc.unesco.org/en/tentativelists/1406); future Tur Abdin serial scope must not duplicate existing components. Van museum rated on established collection despite official closure notice; Van fortress excludes indoor collection; Amasya museum distinct from historic ensemble; Titus tunnel and Beşikli cave grouped. Next bounded screen: Necmi Asfuroğlu Antakya Museum, Mardin Museum, Çavuştepe Urartian Fortress, Amasra historic harbour and castle, Sinop historic fortress and prison (scope check), and Ihlara Valley parent-scope review. Full Python validation pending.

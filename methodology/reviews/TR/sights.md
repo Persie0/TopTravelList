@@ -5087,3 +5087,197 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+## sight-tr-van-fortress — Tushpa and Van Fortress Archaeological Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/van-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Urartian fortress, mound and old Van ruins grouped within tentative property; published DMS coordinate converted. Excludes independent museum collection and Lake Van shoreline. No unrestricted access to all components assumed.
+- Location check: 38.501019, 43.339322; [published representative point](https://whc.unesco.org/en/tentativelists/6114/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.turkishmuseums.com/museum/detail/2254-van-castle/2254/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/hattusha](../../../countries/TR/sights/hattusha.yaml) | 8.8 / 9.0 / 9.4 / 8.6 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [TR/ani](../../../countries/TR/sights/ani.yaml) | 8.9 / 9.0 / 9.2 / 8.4 / 8.4 | depth: +0.5 vs peer; experience: +0.2 vs peer. |
+| [TR/alanya-castle](../../../countries/TR/sights/alanya-castle.yaml) | 9.1 / 8.9 / 9.1 / 9.0 / 9.1 | experience: -0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Large rock ridge with monumental fortifications. |
+| Uniqueness | 9.1 | Distinct Urartian royal rock-cut monuments. |
+| Significance | 9.3 | Capital of Urartu and layered urban heritage. |
+| Experience | 8.6 | Established outdoor monument visit. |
+| Depth | 8.9 | Extensive archaeological landscape. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.3.
+- Computed worldwide overall: 90.15/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-van-museum — Van Museum and Urartian Collections — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/van-museum.yaml)
+- Action: new
+- Precise subject and limitations: Independent indoor collection in modern museum building, not fortress. Ministry https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=VNM01 lists closure for works; established exhibition experience rated irrespective of closure.
+- Location check: 38.50394, 43.34365; [published representative point](https://mapcarta.com/W895580700), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://turkishmuseums.com/museum/detail/2251-van-museum/2251/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/anatolian-civilizations-museum](../../../countries/TR/sights/anatolian-civilizations-museum.yaml) | 9.1 / 9.3 / 9.4 / 8.9 / 9.3 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+| [TR/kayseri-archaeology-museum](../../../countries/TR/sights/kayseri-archaeology-museum.yaml) | 8.6 / 8.8 / 9.1 / 8.7 / 8.7 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer. |
+| [TR/troy-museum](../../../countries/TR/sights/troy-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 8.9 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer. |
+| [TR/hatay-archaeology-museum](../../../countries/TR/sights/hatay-archaeology-museum.yaml) | 9.2 / 9.2 / 9.3 / 8.9 / 9.2 | impact: -0.4 vs peer; depth: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Substantial archaeological displays. |
+| Uniqueness | 9.1 | Distinct Urartian material culture. |
+| Significance | 9.2 | Important regional archaeological record. |
+| Experience | 8.8 | Established modern galleries. |
+| Depth | 9.0 | Chronological multi-period collection. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:8.8.
+- Computed worldwide overall: 89.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-amasya-archaeology-museum — Amasya Archaeology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/amasya-archaeology-museum.yaml)
+- Action: new
+- Precise subject and limitations: Indoor archaeological and ethnographic collection, distinct from Amasya historic riverfront and rock tombs. Published point approximately matches https://neresigezilir.com.tr/en/turkey/amasya/amasya-museum-archaeology.
+- Location check: 40.64944, 35.82472; [published representative point](https://en.wikipedia.org/wiki/Amasya_Museum), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=AMS02); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/kayseri-archaeology-museum](../../../countries/TR/sights/kayseri-archaeology-museum.yaml) | 8.6 / 8.8 / 9.1 / 8.7 / 8.7 | impact: -0.4 vs peer; significance: -0.3 vs peer. |
+| [TR/troy-museum](../../../countries/TR/sights/troy-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 8.9 | impact: -0.5 vs peer; depth: -0.5 vs peer. |
+| [TR/ephesus-museum-selcuk](../../../countries/TR/sights/ephesus-museum-selcuk.yaml) | 8.8 / 9.0 / 9.2 / 8.9 / 8.8 | impact: -0.6 vs peer; significance: -0.4 vs peer. |
+| [TR/izmir-archaeological-museum](../../../countries/TR/sights/izmir-archaeological-museum.yaml) | 8.5 / 8.7 / 8.9 / 8.7 / 8.8 | depth: -0.4 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Compact regional collection. |
+| Uniqueness | 8.8 | Distinct Hittite bronze and Ilkhanid mummies. |
+| Significance | 8.8 | Regional multi-period heritage. |
+| Experience | 8.6 | Established dedicated museum visit. |
+| Depth | 8.4 | Several periods in modest galleries. |
+
+- Applicable categories: history:9.2, culture:9.0.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-st-pierre-antakya — Saint Pierre Cave Church Antakya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/st-pierre-antakya.yaml)
+- Action: new
+- Precise subject and limitations: Cave church and associated monument visit, tentative property https://whc.unesco.org/en/tentativelists/5613/. Early Christian associations treated as tradition, not proof of exact first-century events. Distinct from Hatay museum.
+- Location check: 36.20938, 36.17824; [published representative point](https://mapcarta.com/N364696567), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.kulturportali.gov.tr/turkiye/hatay/gezilecekyer/saint-pierre-kilisesi?v=1.0.24); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/akdamar](../../../countries/TR/sights/akdamar.yaml) | 8.8 / 8.9 / 9.0 / 8.4 / 7.5 | impact: -0.3 vs peer; significance: +0.3 vs peer. |
+| [TR/st-nicholas](../../../countries/TR/sights/st-nicholas.yaml) | 8.1 / 8.6 / 8.9 / 8.2 / 7.2 | depth: +0.6 vs peer; uniqueness: +0.5 vs peer. |
+| [TR/gumusler-monastery](../../../countries/TR/sights/gumusler-monastery.yaml) | 8.7 / 9.0 / 8.8 / 8.7 / 8.5 | depth: -0.7 vs peer; significance: +0.5 vs peer. |
+| [TR/mor-gabriel-monastery](../../../countries/TR/sights/mor-gabriel-monastery.yaml) | 8.8 / 9.2 / 9.3 / 8.6 / 8.7 | depth: -0.9 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Evocative cave sanctuary and facade. |
+| Uniqueness | 9.1 | Distinct rock-cut pilgrimage church. |
+| Significance | 9.3 | Major early Christian associations. |
+| Experience | 8.6 | Established monument visit. |
+| Depth | 7.8 | Compact interior limits duration. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:8.9.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-titus-tunnel — Seleucia Pieria Titus Tunnel and Beşikli Cave — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/titus-tunnel.yaml)
+- Action: new
+- Precise subject and limitations: Roman water diversion tunnel and nearby rock-cut tombs grouped as documented visitor route. UNESCO tentative listing https://whc.unesco.org/en/tentativelists/5903/ confirms tunnel within Seleucia Pieria. Excludes inaccessible portions of wider ancient city; no current access guarantee.
+- Location check: 36.12056, 35.92194; [published representative point](https://en.wikipedia.org/wiki/Vespasianus_Titus_Tunnel), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.kulturportali.gov.tr/turkiye/hatay/gezilecekyer/titus-tuneli-ve-besikli-magara); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/dara-ancient-city](../../../countries/TR/sights/dara-ancient-city.yaml) | 8.9 / 9.1 / 9.0 / 8.7 / 8.9 | depth: -0.4 vs peer; uniqueness: +0.1 vs peer. |
+| [TR/myra-rock-tombs-theatre](../../../countries/TR/sights/myra-rock-tombs-theatre.yaml) | 8.9 / 9.1 / 8.9 / 8.7 / 8.5 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer. |
+| [TR/aspendos](../../../countries/TR/sights/aspendos.yaml) | 8.9 / 8.8 / 9.1 / 8.7 / 8.1 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer. |
+| [TR/cennet-cehennem](../../../countries/TR/sights/cennet-cehennem.yaml) | 9.0 / 9.0 / 8.7 / 8.7 / 8.6 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Impressive rock-cut channel. |
+| Uniqueness | 9.2 | Distinct ancient hydraulic engineering. |
+| Significance | 9.0 | Important Roman infrastructure. |
+| Experience | 8.7 | Established walking route and tomb visit. |
+| Depth | 8.5 | Complementary tunnel and funerary architecture. |
+
+- Applicable categories: history:9.3, architecture:9.3, photography:9.2, adventure:9.0.
+- Computed worldwide overall: 89.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
