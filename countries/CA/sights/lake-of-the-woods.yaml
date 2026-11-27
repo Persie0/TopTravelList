@@ -1,0 +1,16 @@
+id: sight-ca-lake-of-the-woods
+name: "Lake of the Woods Ontario Island Paddling and Scenic Cruising"
+location:
+  country_code: CA
+  latitude: 49.68
+  longitude: -94.53
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    relaxation: 9.2

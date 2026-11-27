@@ -8872,3 +8872,390 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 236 scope decisions
 
 16 additions, 11 desk-based provisional, 5 source-linked, 5 90+, 32 domestic ranking-row comparisons. CA 358 ranked / 361 total. Niagara power station score excludes previously ranked waterfall views; Chief trails and gondola separated; Halifax waterfront excludes museum interiors; Bard excludes Vanier Park and Museum of Vancouver; Highland Village excludes Celtic Colours. Existing scores and three unassessed retained. Coordinates approximate; access and schedules unverified. Regional queue remains open, deferred overlap and venue decisions retained.
+
+## sight-ca-canadian-national-exhibition — Canadian National Exhibition Toronto Annual Fair — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-national-exhibition.yaml)
+- Action: new
+- Scope: Annual fair founded in 1879; organizer describes it as Canada's largest community event. Includes fair programming only, not permanent Exhibition Place attractions.
+- Representative coordinates: 43.633, -79.418; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 9.3 / 9.3 / 9.2.
+- Categories: culture:9.4 family:9.4 food:9.2.
+- Overall: 91.85/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.theex.com/our-organization/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+| [CA/folklorama](../../../countries/CA/sights/folklorama.yaml) | 9.2 / 9.3 / 9.3 / 9.4 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mcmichael-art-collection — McMichael Canadian Art Collection Kleinburg — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mcmichael-art-collection.yaml)
+- Action: new
+- Scope: Canadian and Indigenous art including Group of Seven, Tom Thomson and more than 7,500 works per collection page. Museum announced temporary closure from July 26 2026 for redevelopment; normal-condition rating, no current access implied.
+- Representative coordinates: 43.84, -79.624; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.0 / 9.3.
+- Categories: culture:9.4 history:9.3 photography:9.1.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://mcmichael.com/collection/, https://mcmichael.com/press-release/mcmichael-canadian-art-collection-announces-temporary-closure-on-july-26-2026-to-begin-landmark-redevelopment/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/art-gallery-of-ontario](../../../countries/CA/sights/art-gallery-of-ontario.yaml) | 8.9 / 9.0 / 9.1 / 9.1 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.2 vs peer |
+| [CA/wag-qaumajuq](../../../countries/CA/sights/wag-qaumajuq.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-osheaga — Osheaga Music and Arts Festival Montréal — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/osheaga.yaml)
+- Action: new
+- Scope: Three-day music festival at Parc Jean-Drapeau; Billboard reports over 151,000 attendees in 2026. Festival performances only, excludes Biosphere and Grand Prix.
+- Representative coordinates: 45.513, -73.532; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 8.9 / 8.9 / 9.4 / 9.1.
+- Categories: culture:9.4 nightlife:9.4 photography:9.2.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://ca.billboard.com/business/touring/osheaga-2026-attendance-record?bil=554&debugld=stickybtest&g=&q=Fay+Olson-Vickery, https://news.pollstar.com/2026/07/30/osheaga-preps-for-best-ticket-sales-in-history-in-festivals-19th-year/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/festival-ete-quebec](../../../countries/CA/sights/festival-ete-quebec.yaml) | 9.3 / 9.1 / 9.1 / 9.4 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [CA/ottawa-bluesfest](../../../countries/CA/sights/ottawa-bluesfest.yaml) | 8.9 / 8.6 / 8.7 / 9.2 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-katannilik-soper — Katannilik Territorial Park and Soper River Arctic Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/katannilik-soper.yaml)
+- Action: new
+- Scope: Southern Baffin Island park and Soper River corridor grouped; Canadian Heritage River since 1992 for natural, Inuit cultural and recreational values. Regional proxy, no sensitive site pins or guaranteed access.
+- Representative coordinates: 63.2, -69.75; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.1 / 8.9 / 9.2.
+- Categories: nature:9.4 adventure:9.4 culture:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.chrs.ca/en/rivers/soper-kuujjuaq-river, https://nunavutparks.com/heritage_rivers/soper-river/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/auyuittuq-national-park](../../../countries/CA/sights/auyuittuq-national-park.yaml) | 9.2 / 9.0 / 8.8 / 8.2 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.3 vs peer |
+| [CA/churchill-river-saskatchewan](../../../countries/CA/sights/churchill-river-saskatchewan.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-chilkoot-canadian — Chilkoot Trail National Historic Site Canadian Wilderness Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/chilkoot-canadian.yaml)
+- Action: new
+- Scope: Canadian trail segment only, not full international traverse or Dawson goldfields. Parks Canada notes international border crossing closed while Canadian portion can be hiked subject to conditions. Representative trail locality. US side not included.
+- Representative coordinates: 59.74, -135.1; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 8.9 / 9.1.
+- Categories: adventure:9.4 history:9.4 nature:9.3.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.parcs.canada.ca/lhn-nhs/yt/chilkoot/activ/randonnee-cdn-hiking, https://parks.canada.ca/lhn-nhs/yt/chilkoot?wbdisable=true, https://www.nps.gov/klgo/learn/news/2026-04-15-chilkoot-reservations.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/east-coast-trail](../../../countries/CA/sights/east-coast-trail.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.3 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+| [CA/tombstone-territorial](../../../countries/CA/sights/tombstone-territorial.yaml) | 9.3 / 9.2 / 9.0 / 8.9 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-cape-chignecto — Cape Chignecto Provincial Park Fundy Coastal Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/cape-chignecto.yaml)
+- Action: new
+- Scope: Nova Scotia coastal park with 52 km hiking loop documented by provincial parks; distinct from New Brunswick Fundy parks and existing Burntcoat Head.
+- Representative coordinates: 45.34, -64.93; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 8.9 / 8.7 / 9.2 / 9.1.
+- Categories: nature:9.4 adventure:9.4 photography:9.3.
+- Overall: 89.85/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.novascotia.ca/cape-chignecto-hiking-trails, https://parks.novascotia.ca/park/cape-chignecto.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fundy-trail-park](../../../countries/CA/sights/fundy-trail-park.yaml) | 9.1 / 8.9 / 8.8 / 9.2 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/east-coast-trail](../../../countries/CA/sights/east-coast-trail.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-juan-de-fuca-park — Juan de Fuca Provincial Park Coastal Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/juan-de-fuca-park.yaml)
+- Action: new
+- Scope: Separate south Vancouver Island park and coastal route, excludes West Coast Trail in Pacific Rim.
+- Representative coordinates: 48.5, -124.3; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.4 adventure:9.3 photography:9.3.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+| [CA/east-coast-trail](../../../countries/CA/sights/east-coast-trail.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-five-islands-park — Five Islands Provincial Park Nova Scotia Tidal Cliffs — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/five-islands-park.yaml)
+- Action: new
+- Scope: Distinct provincial park cliff and tidal landscapes; no entire Cliffs of Fundy geopark umbrella or duplicate Cape Chignecto.
+- Representative coordinates: 45.41, -64.06; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.7 / 8.6.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 86.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/hopewell-rocks-provincial-park](../../../countries/CA/sights/hopewell-rocks-provincial-park.yaml) | 8.9 / 9.1 / 8.5 / 9.0 / 8.1 | impact: -0.2 vs peer; uniqueness: -0.4 vs peer |
+| [CA/burntcoat-head](../../../countries/CA/sights/burntcoat-head.yaml) | 8.8 / 8.9 / 8.7 / 8.7 / 8.3 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-cape-split — Cape Split Provincial Park Bay of Fundy Headland Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/cape-split.yaml)
+- Action: new
+- Scope: Headland hike on Scots Bay peninsula, separate from other Fundy sites.
+- Representative coordinates: 45.32, -64.45; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.3 / 8.8 / 8.5.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/burntcoat-head](../../../countries/CA/sights/burntcoat-head.yaml) | 8.8 / 8.9 / 8.7 / 8.7 / 8.3 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+| [CA/fundy-trail-park](../../../countries/CA/sights/fundy-trail-park.yaml) | 9.1 / 8.9 / 8.8 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-art-gallery-nova-scotia — Art Gallery of Nova Scotia Halifax Maud Lewis Collection — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/art-gallery-nova-scotia.yaml)
+- Action: new
+- Scope: Public art collection including Maud Lewis heritage; no current display availability assumed.
+- Representative coordinates: 44.648, -63.573; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.8 / 8.9.
+- Categories: culture:9.4 history:9.3 architecture:9.1.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/remai-modern](../../../countries/CA/sights/remai-modern.yaml) | 8.9 / 9.2 / 9.2 / 9.0 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.4 vs peer |
+| [CA/beaverbrook-art-gallery](../../../countries/CA/sights/beaverbrook-art-gallery.yaml) | 8.5 / 8.7 / 8.9 / 8.7 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-kusawa-park — Kusawa Territorial Park Yukon Mountain Lake Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/kusawa-park.yaml)
+- Action: new
+- Scope: Publicly accessible portions of territorial park landscape; excludes Kluane. Park boundaries, access and designated visitor areas require verification.
+- Representative coordinates: 60.4, -136.1; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.8 / 8.8.
+- Categories: nature:9.3 adventure:9.3 photography:9.3.
+- Overall: 86.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/kluane-national-park](../../../countries/CA/sights/kluane-national-park.yaml) | 9.4 / 9.2 / 9.2 / 8.6 / 9.0 | impact: -0.7 vs peer; uniqueness: -0.5 vs peer |
+| [CA/tombstone-territorial](../../../countries/CA/sights/tombstone-territorial.yaml) | 9.3 / 9.2 / 9.0 / 8.9 / 9.1 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-sylvia-grinnell — Iqaluit Sylvia Grinnell Territorial Park River Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/sylvia-grinnell.yaml)
+- Action: new
+- Scope: Public river valley trails near Iqaluit; excludes Katannilik and Nunatta Museum.
+- Representative coordinates: 63.75, -68.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.6 / 8.6.
+- Categories: nature:9.3 photography:9.2 adventure:9.1.
+- Overall: 85.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/nunatta-museum](../../../countries/CA/sights/nunatta-museum.yaml) | 8.3 / 8.9 / 9.0 / 8.5 / 8.7 | impact: +0.2 vs peer; uniqueness: -0.3 vs peer |
+| [CA/whitehorse-miles-canyon](../../../countries/CA/sights/whitehorse-miles-canyon.yaml) | 8.5 / 8.6 / 8.4 / 8.7 / 8.4 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-marble-mountain — Marble Mountain Resort Newfoundland Skiing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/marble-mountain.yaml)
+- Action: new
+- Scope: Lift-served ski recreation outside Gros Morne; season and lift access not verified.
+- Representative coordinates: 48.94, -57.83; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.4 / 8.1 / 8.8 / 8.5.
+- Categories: adventure:9.3 nature:9.2 photography:9.2.
+- Overall: 84.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/sun-peaks](../../../countries/CA/sights/sun-peaks.yaml) | 8.8 / 8.5 / 8.3 / 9.2 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [CA/mont-sainte-anne](../../../countries/CA/sights/mont-sainte-anne.yaml) | 8.7 / 8.5 / 8.3 / 9.1 / 8.8 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-international-balloon-festival — International Balloon Festival Saint-Jean-sur-Richelieu — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/international-balloon-festival.yaml)
+- Action: new
+- Scope: Recurring balloon and entertainment festival; flight operations weather-dependent; no future date assumed.
+- Representative coordinates: 45.3, -73.28; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.6 / 8.9 / 8.6.
+- Categories: photography:9.4 family:9.3 culture:9.2.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-fireworks](../../../countries/CA/sights/montreal-fireworks.yaml) | 9.3 / 9.2 / 8.9 / 9.2 / 8.8 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+| [CA/canadian-tulip-festival](../../../countries/CA/sights/canadian-tulip-festival.yaml) | 8.6 / 8.6 / 8.7 / 8.8 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-vancouver-film-festival — Vancouver International Film Festival Public Screenings — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/vancouver-film-festival.yaml)
+- Action: new
+- Scope: Public film festival programme, city locality proxy, no schedule assumed.
+- Representative coordinates: 49.28, -123.12; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.8 / 9.0 / 8.9.
+- Categories: culture:9.3 nightlife:9.2 history:9.1.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/tiff](../../../countries/CA/sights/tiff.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.6 vs peer |
+| [CA/banff-mountain-festival](../../../countries/CA/sights/banff-mountain-festival.yaml) | 9.0 / 9.1 / 9.1 / 9.2 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-grand-manan-land — Grand Manan Island Coastal Trails and Lighthouse Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/grand-manan-land.yaml)
+- Action: new
+- Scope: Land-based coastal trails and lighthouse scenery; excludes already ranked whale-watching cruises.
+- Representative coordinates: 44.72, -66.79; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 86.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/grand-manan-whales](../../../countries/CA/sights/grand-manan-whales.yaml) | 8.9 / 8.9 / 8.8 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+| [CA/fogo-island](../../../countries/CA/sights/fogo-island.yaml) | 8.8 / 8.9 / 8.8 / 8.9 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-lake-of-the-woods — Lake of the Woods Ontario Island Paddling and Scenic Cruising — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/lake-of-the-woods.yaml)
+- Action: new
+- Scope: Canadian side public lake recreation and island landscapes near Kenora; excludes US portion and other wilderness parks.
+- Representative coordinates: 49.68, -94.53; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.5 / 8.9 / 8.8.
+- Categories: nature:9.3 adventure:9.3 relaxation:9.2.
+- Overall: 86.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/muskoka-lakes-cruises](../../../countries/CA/sights/muskoka-lakes-cruises.yaml) | 8.7 / 8.6 / 8.5 / 9.0 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/georgian-bay-islands](../../../countries/CA/sights/georgian-bay-islands.yaml) | 8.7 / 8.8 / 8.8 / 8.9 / 8.7 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-terry-fox-memorial — Terry Fox Memorial and Lookout Thunder Bay — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/terry-fox-memorial.yaml)
+- Action: new
+- Scope: Public memorial and lookout; separate from Fort William and Lake Superior parks.
+- Representative coordinates: 48.49, -89.15; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.6 / 9.1 / 8.4 / 8.3.
+- Categories: history:9.3 culture:9.2 photography:9.1.
+- Overall: 85.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fort-william](../../../countries/CA/sights/fort-william.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [CA/canadian-museum-for-human-rights](../../../countries/CA/sights/canadian-museum-for-human-rights.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 8.9 | impact: -0.7 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 237 scope decisions
+
+18 additions, 12 desk-based provisional, 6 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 376 ranked / 379 total. McMichael temporary redevelopment closure retained as access note, not score penalty; Chilkoot Canadian section only, international crossing closed per Parks Canada. Soper corridor and Katannilik grouped; Grand Manan land trails exclude whale trips; Juan de Fuca excludes Pacific Rim; Cape Chignecto/Five Islands/Cape Split distinct park scopes, no regional geopark umbrella. Existing scores and three unassessed retained. Coordinates approximate; current access not verified for other entries. Regional queue remains open pending explicit bounded closure and prior deferral review.

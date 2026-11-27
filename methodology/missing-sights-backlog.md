@@ -4159,3 +4159,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Nk’Mip Desert Cultural Centre Osoyoos: 87.85/100 (desk-based provisional).
 
 16 additions, 11 desk-based provisional, 5 source-linked, 5 90+, 32 domestic ranking-row comparisons. CA 358 ranked / 361 total. Niagara power station score excludes previously ranked waterfall views; Chief trails and gondola separated; Halifax waterfront excludes museum interiors; Bard excludes Vanier Park and Museum of Vancouver; Highland Village excludes Celtic Colours. Existing scores and three unassessed retained. Coordinates approximate; access and schedules unverified. Regional queue remains open, deferred overlap and venue decisions retained.
+
+### Pass 237 — Canada wilderness trails, art collections and festivals
+
+- [x] CA — Canadian National Exhibition Toronto Annual Fair: 91.85/100 (source-linked-unverified).
+- [x] CA — McMichael Canadian Art Collection Kleinburg: 91.60/100 (source-linked-unverified).
+- [x] CA — Osheaga Music and Arts Festival Montréal: 90.55/100 (source-linked-unverified).
+- [x] CA — Katannilik Territorial Park and Soper River Arctic Wilderness: 91.30/100 (source-linked-unverified).
+- [x] CA — Chilkoot Trail National Historic Site Canadian Wilderness Hiking: 90.80/100 (source-linked-unverified).
+- [x] CA — Cape Chignecto Provincial Park Fundy Coastal Wilderness: 89.85/100 (source-linked-unverified).
+- [x] CA — Juan de Fuca Provincial Park Coastal Hiking: 88.30/100 (desk-based provisional).
+- [x] CA — Five Islands Provincial Park Nova Scotia Tidal Cliffs: 86.50/100 (desk-based provisional).
+- [x] CA — Cape Split Provincial Park Bay of Fundy Headland Trails: 86.20/100 (desk-based provisional).
+- [x] CA — Art Gallery of Nova Scotia Halifax Maud Lewis Collection: 87.70/100 (desk-based provisional).
+- [x] CA — Kusawa Territorial Park Yukon Mountain Lake Wilderness: 86.85/100 (desk-based provisional).
+- [x] CA — Iqaluit Sylvia Grinnell Territorial Park River Trails: 85.50/100 (desk-based provisional).
+- [x] CA — Marble Mountain Resort Newfoundland Skiing: 84.70/100 (desk-based provisional).
+- [x] CA — International Balloon Festival Saint-Jean-sur-Richelieu: 87.30/100 (desk-based provisional).
+- [x] CA — Vancouver International Film Festival Public Screenings: 87.60/100 (desk-based provisional).
+- [x] CA — Grand Manan Island Coastal Trails and Lighthouse Landscapes: 86.50/100 (desk-based provisional).
+- [x] CA — Lake of the Woods Ontario Island Paddling and Scenic Cruising: 86.75/100 (desk-based provisional).
+- [x] CA — Terry Fox Memorial and Lookout Thunder Bay: 85.50/100 (desk-based provisional).
+
+18 additions, 12 desk-based provisional, 6 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 376 ranked / 379 total. McMichael temporary redevelopment closure retained as access note, not score penalty; Chilkoot Canadian section only, international crossing closed per Parks Canada. Soper corridor and Katannilik grouped; Grand Manan land trails exclude whale trips; Juan de Fuca excludes Pacific Rim; Cape Chignecto/Five Islands/Cape Split distinct park scopes, no regional geopark umbrella. Existing scores and three unassessed retained. Coordinates approximate; current access not verified for other entries. Regional queue remains open pending explicit bounded closure and prior deferral review.
