@@ -2187,3 +2187,273 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 271 scope decisions
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 4 90+, 40 ranking-row comparisons (16 international). CO 99 ranked / 103 total, +48 since baseline 55. Prior 9/9 inscribed represented (3 unassessed) and 13 tentative entries inventoried; 8/13 at least partially mapped after adding one doctrine-temple component, based on previous provisional 7/13 mapping; no full serial coverage claim. Other five tentative properties need further mapping: Canal del Dique, San Jorge, United Fruit, Floresta and La Venta. Sumapaz national park deferred because official agency explicitly disallows ecotourism (https://www.parquesnacionales.gov.co/sala-prensa/noticias/el-parque-nacional-natural-sumapaz-no-esta-habilitado-al-ecoturismo/); no intrinsic rating penalty. Güejar rafting non-additive to Sierra de la Macarena parent; Ocetá scoped to authorized trail; Palenque drum festival separate from permanent heritage; Santurbán desk assessment with visitor scope pending. Existing scores and four unassessed preserved. Queue OPEN for remaining regional cultural and natural omissions. Coordinates approximate; schedules and current access unverified.
+
+## sight-co-cartagena-independence-festival — Cartagena November Independence Festival and Grand Bando Parade — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cartagena-independence-festival.yaml)
+- Action: new
+- Scope: Public annual celebration commemorating Cartagena's 1811 independence, grouped Bando, cabildos, public music and nautical festivities; national heritage recognition reported by Ministry of Cultures in November 2026. Exclude permanent historic city, Hay and music festivals.
+- Representative coordinates: 10.422, -75.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.4 / 9.3 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.85/100.
+- Source: https://mincultura.gov.co/noticias/Paginas/mincultura-reconoce-las-fiestas-de-independencia-de-cartagena-como-patrimonio.aspx
+- Source: https://cartagena.gov.co/noticias/alcaldia-cartagena-presento-programacion-oficial-fiestas-independencia-11-noviembre-2026
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/barranquilla-carnival](../../../countries/CO/sights/barranquilla-carnival.yaml) | 9.5 / 9.4 / 9.5 / 9.5 / 9.3 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [CO/pasto-negros-y-blancos](../../../countries/CO/sights/pasto-negros-y-blancos.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [BR/salvador-carnival](../../../countries/BR/sights/salvador-carnival.yaml) | 9.3 / 9.3 / 9.2 / 9.4 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/inti-raymi](../../../countries/PE/sights/inti-raymi.yaml) | 9.5 / 9.5 / 9.4 / 9.4 / 9.2 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-el-dorado-proaves — El Dorado ProAves Cloud Forest Reserve Endemic Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/el-dorado-proaves.yaml)
+- Action: new
+- Scope: Operator identifies 22 Colombian endemic species protected by the reserve (21 exclusive to Sierra Nevada), with visitor birding and lodge. Not guaranteed sightings. Nested within wider Sierra Nevada landscape, non-additive to parent park; reserve boundary relative to park not independently established.
+- Representative coordinates: 11.107, -74.075; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 8.8 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.60/100.
+- Source: https://proaves.org/en/proaves-el-dorado-reserve/
+- Source: https://www.colombiaexotic.com/proaves.php
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/otun-quimbaya](../../../countries/CO/sights/otun-quimbaya.yaml) | 8.8 / 9.0 / 9.1 / 8.8 / 8.9 | impact: +0.3; uniqueness: +0.4 vs peer |
+| [CO/amacayacu-national-natural-park](../../../countries/CO/sights/amacayacu-national-natural-park.yaml) | 8.8 / 8.7 / 9.2 / 8.8 / 8.8 | impact: +0.3; uniqueness: +0.7 vs peer |
+| [PE/abra-patricia-birding](../../../countries/PE/sights/abra-patricia-birding.yaml) | 9.1 / 9.4 / 9.3 / 8.9 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/huembo-reserve](../../../countries/PE/sights/huembo-reserve.yaml) | 8.7 / 9.3 / 8.9 / 8.8 / 8.5 | impact: +0.4; uniqueness: +0.1 vs peer |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/pampa-hermosa](../../../countries/PE/sights/pampa-hermosa.yaml) | 8.9 / 9.1 / 9.1 / 8.6 / 9.0 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-uramba-bahia-malaga — Uramba Bahía Málaga National Natural Park Marine Wildlife and Mangrove Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/uramba-bahia-malaga.yaml)
+- Action: new
+- Scope: Marine park off Buenaventura with community governance, coastal biodiversity and seasonal humpback breeding habitat; geographically separate from Chocó Utría/Nuquí/Bahía Solano and Gorgona. Whale watching included within park entry; no additional duplicate score.
+- Representative coordinates: 3.95, -77.3; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.1 / 8.9 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.60/100.
+- Source: https://www.parquesnacionales.gov.co/nuestros-parques/pnn-uramba-bahia-malaga/
+- Source: https://www.parquesnacionales.gov.co/sala-prensa/noticias/pnn-abre-temporada-de-ballenas-con-turismo-responsable/
+- Source: https://old.parquesnacionales.gov.co/portal/en/ecoturism/pacific-region/uramba-bahia-malaga-national-natural-park/fauna/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/choco-humpback-whale-watching](../../../countries/CO/sights/choco-humpback-whale-watching.yaml) | 9.3 / 9.2 / 9.0 / 9.0 / 8.8 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [CO/gorgona-national-natural-park](../../../countries/CO/sights/gorgona-national-natural-park.yaml) | 8.8 / 8.9 / 8.8 / 8.3 / 8.3 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [PE/northern-peru-whale-watching](../../../countries/PE/sights/northern-peru-whale-watching.yaml) | 9.2 / 9.0 / 9.0 / 9.1 / 9.0 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [PE/san-fernando-reserve](../../../countries/PE/sights/san-fernando-reserve.yaml) | 9.2 / 9.2 / 9.0 / 8.8 / 9.0 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/tumbes-mangroves](../../../countries/PE/sights/tumbes-mangroves.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.9 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/palomino-islands](../../../countries/PE/sights/palomino-islands.yaml) | 8.8 / 8.8 / 8.5 / 8.9 / 8.5 | impact: +0.3; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-la-planada-reserve — La Planada Awá Community Cloud Forest and Birdwatching Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/la-planada-reserve.yaml)
+- Action: new
+- Scope: Regional tourism office describes over 3,200 hectares of community-managed montane forest and more than 400 bird species; community-guided interpretation only, no assumption of access to private cultural practice. Distinct from Río Ñambí.
+- Representative coordinates: 1.155, -77.986; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 8.9 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 culture:9.3.
+- Overall: 90.75/100.
+- Source: https://turismo.narino.gov.co/sitios/reserva-natural-la-planada/
+- Source: https://turismo.narino.gov.co/ruta-turismo-cientifico-y-de-naturaleza/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/otun-quimbaya](../../../countries/CO/sights/otun-quimbaya.yaml) | 8.8 / 9.0 / 9.1 / 8.8 / 8.9 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [CO/macuira-national-park](../../../countries/CO/sights/macuira-national-park.yaml) | 8.8 / 9.3 / 9.0 / 8.5 / 8.8 | impact: +0.2; uniqueness: -0.1 vs peer |
+| [PE/abra-patricia-birding](../../../countries/PE/sights/abra-patricia-birding.yaml) | 9.1 / 9.4 / 9.3 / 8.9 / 9.2 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [PE/pampa-hermosa](../../../countries/PE/sights/pampa-hermosa.yaml) | 8.9 / 9.1 / 9.1 / 8.6 / 9.0 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [PE/yanachaga-chemillen](../../../countries/PE/sights/yanachaga-chemillen.yaml) | 8.8 / 8.9 / 9.0 / 8.7 / 8.9 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-cartagena-music-festival — Cartagena International Music Festival Classical Concerts — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cartagena-music-festival.yaml)
+- Action: new
+- Scope: Annual classical music festival; organizer announces 21st edition in January 2027. Separate from Hay Festival, November independence celebrations and permanent venues.
+- Representative coordinates: 10.424, -75.551; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.3 / 9.1.
+- Categories: culture:9.4 history:9.1 photography:9.0.
+- Overall: 90.95/100.
+- Source: https://cartagenamusicfestival.com/prensa/
+- Source: https://www.cartagena.gov.co/noticias/el-teatro-adolfo-mejia-abrio-su-agenda-cultural-2026-el-cartagena-festival-musica
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/cartagena-hay-festival](../../../countries/CO/sights/cartagena-hay-festival.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [CO/bogota-fiav](../../../countries/CO/sights/bogota-fiav.yaml) | 9.0 / 9.0 / 9.1 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/amazonas-opera-festival](../../../countries/BR/sights/amazonas-opera-festival.yaml) | 8.9 / 9.2 / 9.2 / 9.1 / 9.1 | impact: +0.1; uniqueness: -0.2 vs peer |
+| [BR/campos-jordao-winter-festival](../../../countries/BR/sights/campos-jordao-winter-festival.yaml) | 8.9 / 9.0 / 9.2 / 9.3 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [BR/festival-de-curitiba](../../../countries/BR/sights/festival-de-curitiba.yaml) | 9.0 / 9.1 / 9.1 / 9.2 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-rio-nambi-reserve — Río Ñambí Nature Reserve Pacific Andean Forest Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/rio-nambi-reserve.yaml)
+- Action: new
+- Scope: Official Nariño tourism inventory lists a named birding site near Altaquer. Endemic biodiversity documented by Colombia Travel; sightings and current access unverified. Distinct from La Planada.
+- Representative coordinates: 1.3, -78.11; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 8.8 / 8.9.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 89.55/100.
+- Source: https://turismo.narino.gov.co/sitios/reserva-natural-rio-nambi/
+- Source: https://colombia.travel/en/blog/nature-and-adventure/forests-colombia
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/otun-quimbaya](../../../countries/CO/sights/otun-quimbaya.yaml) | 8.8 / 9.0 / 9.1 / 8.8 / 8.9 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [CO/cueva-de-los-guacharos](../../../countries/CO/sights/cueva-de-los-guacharos.yaml) | 8.9 / 9.2 / 9.1 / 8.7 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/abra-patricia-birding](../../../countries/PE/sights/abra-patricia-birding.yaml) | 9.1 / 9.4 / 9.3 / 8.9 / 9.2 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-cali-delirio — Cali Delirio Salsa Circus and Live Orchestra Show — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cali-delirio.yaml)
+- Action: new
+- Scope: Operator describes two decades of salsa performance with circus and live orchestra. Named recurring performance distinct from December Feria de Cali; no claim of world record or guaranteed dates.
+- Representative coordinates: 3.46, -76.53; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.8 / 9.4 / 8.8.
+- Categories: culture:9.4 nightlife:9.4 photography:9.2.
+- Overall: 89.70/100.
+- Source: https://delirio.com.co/en/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/feria-de-cali](../../../countries/CO/sights/feria-de-cali.yaml) | 9.2 / 9.1 / 9.2 / 9.4 / 9.1 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [CO/bogota-fiav](../../../countries/CO/sights/bogota-fiav.yaml) | 9.0 / 9.0 / 9.1 / 9.3 / 9.2 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-quinta-san-pedro-alejandrino — Quinta de San Pedro Alejandrino Historic Hacienda and Bolivarian Museum — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/quinta-san-pedro-alejandrino.yaml)
+- Action: new
+- Scope: Historic hacienda associated with Simón Bolívar, museum and botanical garden grouped in one visit. Not an independently verified component of the United Fruit tentative property.
+- Representative coordinates: 11.227, -74.183; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.3 / 8.7 / 8.9.
+- Categories: history:9.4 culture:9.3 architecture:9.2.
+- Overall: 88.90/100.
+- Source: https://www.museobolivariano.org.co/laquinta/
+- Source: https://www.museobolivariano.org.co/horariosytarifas/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/aracataca-garcia-marquez](../../../countries/CO/sights/aracataca-garcia-marquez.yaml) | 8.8 / 9.2 / 9.4 / 8.7 / 9.0 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [CO/museo-nacional-colombia](../../../countries/CO/sights/museo-nacional-colombia.yaml) | 8.9 / 9.0 / 9.4 / 9.0 / 9.4 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-santa-marta-historic-centre — Santa Marta Historic Centre Colonial Streets and Waterfront — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/santa-marta-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based permanent urban architecture and waterfront scope; exclude Quinta de San Pedro Alejandrino, Tayrona and beaches.
+- Representative coordinates: 11.243, -74.211; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.9 / 8.7 / 8.6.
+- Categories: history:9.2 architecture:9.1 culture:9.1.
+- Overall: 85.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/historic-centre-of-santa-cruz-de-mompox](../../../countries/CO/sights/historic-centre-of-santa-cruz-de-mompox.yaml) | 8.6 / 9.0 / 9.3 / 8.3 / 8.5 | impact: -0.2; uniqueness: -0.5 vs peer |
+| [CO/popayan-historic-centre](../../../countries/CO/sights/popayan-historic-centre.yaml) | 8.8 / 8.8 / 9.2 / 8.8 / 8.9 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-cienaga-historic-centre — Ciénaga Magdalena Historic Centre Republican Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cienaga-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based town architecture distinct from lagoon stilt villages. United Fruit serial boundaries and relationship not independently established.
+- Representative coordinates: 11.007, -74.247; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 9.0 / 8.5 / 8.5.
+- Categories: architecture:9.3 history:9.2 photography:9.1.
+- Overall: 86.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/santa-fe-antioquia-historic-centre](../../../countries/CO/sights/santa-fe-antioquia-historic-centre.yaml) | 8.7 / 8.7 / 9.1 / 8.8 / 8.8 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [CO/barichara-historic-centre](../../../countries/CO/sights/barichara-historic-centre.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.7 | impact: -0.4; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-parque-explora — Medellín Parque Explora Interactive Science Museum and Aquarium — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/parque-explora.yaml)
+- Action: new
+- Scope: Desk-based interactive science museum and aquarium, grouped; exclude neighboring botanical garden and planetarium as separately operated experiences.
+- Representative coordinates: 6.27, -75.565; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.3 / 9.1 / 8.7.
+- Categories: family:9.4 culture:8.9 wildlife:8.8.
+- Overall: 85.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/plaza-botero-and-museum-of-antioquia](../../../countries/CO/sights/plaza-botero-and-museum-of-antioquia.yaml) | 8.4 / 8.6 / 8.6 / 8.5 / 7.9 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [CO/parque-del-cafe](../../../countries/CO/sights/parque-del-cafe.yaml) | 7.7 / 7.5 / 6.8 / 8.6 / 8.2 | impact: +0.8; uniqueness: +1.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-museo-la-tertulia — Cali La Tertulia Modern and Contemporary Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/museo-la-tertulia.yaml)
+- Action: new
+- Scope: Desk-based permanent art collection and exhibition venue distinct from city festivals; current displays not verified.
+- Representative coordinates: 3.451, -76.544; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.8 / 8.5 / 8.7.
+- Categories: culture:9.3 history:9.0 architecture:8.9.
+- Overall: 85.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/botero-museum-bogota](../../../countries/CO/sights/botero-museum-bogota.yaml) | 8.2 / 8.6 / 8.6 / 8.7 / 7.9 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [CO/plaza-botero-and-museum-of-antioquia](../../../countries/CO/sights/plaza-botero-and-museum-of-antioquia.yaml) | 8.4 / 8.6 / 8.6 / 8.5 / 7.9 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 272 scope decisions
+
+12 additions, 8 source-linked provisional, 4 desk-based provisional, 5 90+, 46 ranking-row comparisons (22 international). CO 111 ranked / 115 total, +60 since baseline 55. Previous 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 provisionally at least partially mapped carried forward, not independently rechecked. Cartagena November event national heritage recognition reported by ministry in 2026; music and Hay separate. Uramba distinct from Chocó and Gorgona, whale watching included in park scope. El Dorado non-additive to wider Sierra Nevada parent; La Planada and Río Ñambí distinct reserves; community consent essential. Quinta and Ciénaga historic centre not assumed to represent United Fruit tentative property. Existing scores and four unassessed preserved. Queue OPEN for further Pacific and Amazon visitor routes, Andean towns and remaining significant events. Coordinates approximate; schedules and current access unverified.

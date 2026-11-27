@@ -1,0 +1,16 @@
+id: sight-co-museo-la-tertulia
+name: "Cali La Tertulia Modern and Contemporary Art Museum"
+location:
+  country_code: CO
+  latitude: 3.451
+  longitude: -76.544
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.5
+  depth: 8.7
+  categories:
+    culture: 9.3
+    history: 9.0
+    architecture: 8.9

@@ -4818,3 +4818,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — Santurbán Páramo Highland Lake Landscape: 87.55/100 (desk-based provisional).
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 4 90+, 40 ranking-row comparisons (16 international). CO 99 ranked / 103 total, +48 since baseline 55. Prior 9/9 inscribed represented (3 unassessed) and 13 tentative entries inventoried; 8/13 at least partially mapped after adding one doctrine-temple component, based on previous provisional 7/13 mapping; no full serial coverage claim. Other five tentative properties need further mapping: Canal del Dique, San Jorge, United Fruit, Floresta and La Venta. Sumapaz national park deferred because official agency explicitly disallows ecotourism (https://www.parquesnacionales.gov.co/sala-prensa/noticias/el-parque-nacional-natural-sumapaz-no-esta-habilitado-al-ecoturismo/); no intrinsic rating penalty. Güejar rafting non-additive to Sierra de la Macarena parent; Ocetá scoped to authorized trail; Palenque drum festival separate from permanent heritage; Santurbán desk assessment with visitor scope pending. Existing scores and four unassessed preserved. Queue OPEN for remaining regional cultural and natural omissions. Coordinates approximate; schedules and current access unverified.
+
+### Pass 272 — Colombia Caribbean festivities, birdwatching reserves and museums
+
+- [x] CO — Cartagena November Independence Festival and Grand Bando Parade: 92.85/100 (source-linked-unverified).
+- [x] CO — El Dorado ProAves Cloud Forest Reserve Endemic Birdwatching: 91.60/100 (source-linked-unverified).
+- [x] CO — Uramba Bahía Málaga National Natural Park Marine Wildlife and Mangrove Circuit: 90.60/100 (source-linked-unverified).
+- [x] CO — La Planada Awá Community Cloud Forest and Birdwatching Reserve: 90.75/100 (source-linked-unverified).
+- [x] CO — Cartagena International Music Festival Classical Concerts: 90.95/100 (source-linked-unverified).
+- [x] CO — Río Ñambí Nature Reserve Pacific Andean Forest Birdwatching: 89.55/100 (source-linked-unverified).
+- [x] CO — Cali Delirio Salsa Circus and Live Orchestra Show: 89.70/100 (source-linked-unverified).
+- [x] CO — Quinta de San Pedro Alejandrino Historic Hacienda and Bolivarian Museum: 88.90/100 (source-linked-unverified).
+- [x] CO — Santa Marta Historic Centre Colonial Streets and Waterfront: 85.90/100 (desk-based provisional).
+- [x] CO — Ciénaga Magdalena Historic Centre Republican Architecture: 86.20/100 (desk-based provisional).
+- [x] CO — Medellín Parque Explora Interactive Science Museum and Aquarium: 85.70/100 (desk-based provisional).
+- [x] CO — Cali La Tertulia Modern and Contemporary Art Museum: 85.20/100 (desk-based provisional).
+
+12 additions, 8 source-linked provisional, 4 desk-based provisional, 5 90+, 46 ranking-row comparisons (22 international). CO 111 ranked / 115 total, +60 since baseline 55. Previous 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 provisionally at least partially mapped carried forward, not independently rechecked. Cartagena November event national heritage recognition reported by ministry in 2026; music and Hay separate. Uramba distinct from Chocó and Gorgona, whale watching included in park scope. El Dorado non-additive to wider Sierra Nevada parent; La Planada and Río Ñambí distinct reserves; community consent essential. Quinta and Ciénaga historic centre not assumed to represent United Fruit tentative property. Existing scores and four unassessed preserved. Queue OPEN for further Pacific and Amazon visitor routes, Andean towns and remaining significant events. Coordinates approximate; schedules and current access unverified.
