@@ -5950,3 +5950,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-saint-malo-intra-muros — Saint-Malo Walled City and Ramparts — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-malo-intra-muros.yaml)
+- Action: new
+- Precise subject and limitations: Intra-Muros streets and rampart circuit grouped; offshore forts and separately ticketed museums excluded. Not a component of the listed Vauban serial property.
+- Location check: 48.64845, -2.02573; [published representative point](https://mapcarta.com/29409190), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.saint-malo-tourisme.co.uk/our-8-preserved-treasures/saint-malo-le-bijou-corsaire/tour-the-ramparts-of-saint-malo/); indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/rouen-ensemble](../../../countries/FR/sights/rouen-ensemble.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.0 | experience: +0.2 vs peer; impact: +0.1 vs peer. |
+| [FR/honfleur-old-harbour](../../../countries/FR/sights/honfleur-old-harbour.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 8.6 | significance: +0.4 vs peer; depth: +0.4 vs peer. |
+| [FR/bayeux-cathedral-old-town](../../../countries/FR/sights/bayeux-cathedral-old-town.yaml) | 9.0 / 8.9 / 9.2 / 9.0 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [TR/amasra-historic-harbour](../../../countries/TR/sights/amasra-historic-harbour.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | significance: +0.4 vs peer; impact: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Dramatic seafront walls. |
+| Uniqueness | 9.1 | Distinct enclosed maritime town. |
+| Significance | 9.1 | Important port and reconstruction heritage. |
+| Experience | 9.2 | Walkable circuit and streets. |
+| Depth | 9.0 | Extensive urban ensemble. |
+
+- Applicable categories: architecture:9.3, history:9.3, photography:9.4, culture:9.2.
+- Computed worldwide overall: 91.35/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-dinan-historic-centre — Dinan Historic Centre and Ramparts — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/dinan-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Medieval streets, ramparts, basilica and river-port walk grouped; basilica point represents historic centre. No separate castle interior score assumed.
+- Location check: 48.45359, -2.04146; [published representative point](https://mapcarta.com/W87505328), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/cap-frehel-saint-malo-mont-saint-michel-bay/dinan/); indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/sarlat-core](../../../countries/FR/sights/sarlat-core.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.5 | depth: +0.5 vs peer; significance: +0.2 vs peer. |
+| [FR/rouen-ensemble](../../../countries/FR/sights/rouen-ensemble.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.0 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer. |
+| [FR/bayeux-cathedral-old-town](../../../countries/FR/sights/bayeux-cathedral-old-town.yaml) | 9.0 / 8.9 / 9.2 / 9.0 / 8.8 | significance: -0.2 vs peer; depth: +0.2 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | experience: +0.3 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Picturesque timber-framed streets. |
+| Uniqueness | 8.9 | Distinct steep river-port layout. |
+| Significance | 9.0 | Important medieval urban fabric. |
+| Experience | 9.1 | Connected walking experience. |
+| Depth | 9.0 | Several streets and monuments. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.3, culture:9.1.
+- Computed worldwide overall: 89.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-pointe-du-raz — Pointe du Raz and Cap Sizun Coastal Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/pointe-du-raz.yaml)
+- Action: new
+- Precise subject and limitations: Headland and adjacent coastal trails, not whole GR34 or offshore islands. Mapped cape used instead of same-name locality 48.04086,-4.67098.
+- Location check: 48.03952, -4.73528; [published representative point](https://mapcarta.com/18314324), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/matching-what-i-want/outdoor-and-nature-activities/the-most-beautiful-areas-to-explore/follow-the-trails-around-the-pointe-du-raz/); indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/etretat](../../../countries/FR/sights/etretat.yaml) | 9.3 / 9.1 / 8.6 / 8.9 / 8.4 | depth: +0.5 vs peer; impact: -0.1 vs peer. |
+| [FR/bonifacio-strait](../../../countries/FR/sights/bonifacio-strait.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.0 | significance: -0.3 vs peer; depth: -0.1 vs peer. |
+| [FR/gulf-porto](../../../countries/FR/sights/gulf-porto.yaml) | 9.5 / 9.3 / 9.1 / 9.2 / 9.1 | significance: -0.5 vs peer; impact: -0.3 vs peer. |
+| [FR/calanques](../../../countries/FR/sights/calanques.yaml) | 9.4 / 9.2 / 8.9 / 9.1 / 9.1 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Dramatic Atlantic headland. |
+| Uniqueness | 9.0 | Distinct exposed rocky cape. |
+| Significance | 8.6 | Recognised landscape heritage. |
+| Experience | 9.0 | Established walking routes. |
+| Depth | 8.9 | Several coastal viewpoints. |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.1.
+- Computed worldwide overall: 89.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-pink-granite-coast — Pink Granite Coast and Ploumanac’h Coastal Trail — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/pink-granite-coast.yaml)
+- Action: new
+- Precise subject and limitations: Ploumanac’h granite formations and local GR34 trail including lighthouse exterior. Village point represents coastal experience; excludes offshore Sept-Îles cruises and broader unrelated coast.
+- Location check: 48.83178, -3.48445; [published representative point](https://mapcarta.com/fr/25739826), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.pleumeur-bodou.com/Ploumanac-h-171.html?lang=en); indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/etretat](../../../countries/FR/sights/etretat.yaml) | 9.3 / 9.1 / 8.6 / 8.9 / 8.4 | depth: +0.6 vs peer; experience: +0.3 vs peer. |
+| [FR/gulf-porto](../../../countries/FR/sights/gulf-porto.yaml) | 9.5 / 9.3 / 9.1 / 9.2 / 9.1 | significance: -0.4 vs peer; impact: -0.2 vs peer. |
+| [FR/bonifacio-strait](../../../countries/FR/sights/bonifacio-strait.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; significance: -0.2 vs peer. |
+| [FR/calanques](../../../countries/FR/sights/calanques.yaml) | 9.4 / 9.2 / 8.9 / 9.1 / 9.1 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Striking pink granite formations. |
+| Uniqueness | 9.3 | Distinct erosion-sculpted rocks. |
+| Significance | 8.7 | Notable geological landscape. |
+| Experience | 9.2 | Accessible coastal walking experience. |
+| Depth | 9.0 | Multiple formations and beaches. |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.1, beaches:8.8.
+- Computed worldwide overall: 91.35/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-cap-frehel-fort-la-latte — Cap Fréhel and Fort La Latte Coastal Walk — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cap-frehel-fort-la-latte.yaml)
+- Action: new
+- Precise subject and limitations: Documented linked headland-to-fort walk grouped, including dedicated fort visit; separate admission may apply. Historic lighthouse representative point. Excludes broader Cap d’Erquy.
+- Location check: 48.68415, -2.31921; [published representative point](https://mapcarta.com/W171634284), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.dinan-capfrehel.com/en/itineraries/from-cap-frehel-to-fort-la-latte/); indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/etretat](../../../countries/FR/sights/etretat.yaml) | 9.3 / 9.1 / 8.6 / 8.9 / 8.4 | depth: +0.7 vs peer; significance: +0.3 vs peer. |
+| [FR/chateau-gaillard](../../../countries/FR/sights/chateau-gaillard.yaml) | 9.0 / 8.9 / 9.1 / 8.8 / 8.4 | depth: +0.7 vs peer; experience: +0.3 vs peer. |
+| [FR/bonifacio-strait](../../../countries/FR/sights/bonifacio-strait.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.0 | experience: +0.1 vs peer; depth: +0.1 vs peer. |
+| [TR/amasra-historic-harbour](../../../countries/TR/sights/amasra-historic-harbour.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | impact: +0.3 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Cliffs and coastal castle. |
+| Uniqueness | 9.0 | Distinct connected nature and heritage walk. |
+| Significance | 8.9 | Important maritime defensive heritage. |
+| Experience | 9.1 | Established coastal trail and monument visit. |
+| Depth | 9.1 | Multiple viewpoints and heritage features. |
+
+- Applicable categories: nature:9.3, photography:9.4, history:9.2, architecture:9.1, adventure:9.1.
+- Computed worldwide overall: 90.65/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-quimper-historic-centre — Quimper Cathedral and Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/quimper-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Cathedral, medieval streets and Odet quays grouped; cathedral point representative. Excludes separately ticketed museums and broader Locmaria district.
+- Location check: 47.99562, -4.10212; [published representative point](https://mapcarta.com/37336094), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.quimper-tourisme.bzh/en/quimper-ville-dart-et-dhistoire/); indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/bayeux-cathedral-old-town](../../../countries/FR/sights/bayeux-cathedral-old-town.yaml) | 9.0 / 8.9 / 9.2 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/sarlat-core](../../../countries/FR/sights/sarlat-core.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.5 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [FR/rouen-ensemble](../../../countries/FR/sights/rouen-ensemble.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.0 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [FR/honfleur-old-harbour](../../../countries/FR/sights/honfleur-old-harbour.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 8.6 | significance: +0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Impressive cathedral and timber-framed streets. |
+| Uniqueness | 8.7 | Distinct Breton episcopal centre. |
+| Significance | 9.0 | Important regional heritage. |
+| Experience | 8.9 | Walkable urban experience. |
+| Depth | 8.8 | Several architectural features. |
+
+- Applicable categories: architecture:9.3, history:9.2, culture:9.1, photography:9.1.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-oceanopolis-brest — Océanopolis Brest Ocean Discovery Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/oceanopolis-brest.yaml)
+- Action: new
+- Precise subject and limitations: Ocean discovery park and its themed aquarium pavilions grouped. Operator renovation programme https://www.oceanopolis.com/en/metamorphose-2-closure-of-the-tropical-and-polar-pavilions/; southern pavilion closure noted at https://www.oceanopolis.com/preparer-votre-visite/. Established full experience assessed independent of temporary closure; future exhibits not assumed.
+- Location check: 48.38997, -4.43615; [published representative point](https://mapcarta.com/W998872051), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.oceanopolis.com/en/plan-your-visit/our-services/); indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/cite-de-la-mer](../../../countries/FR/sights/cite-de-la-mer.yaml) | 9.0 / 9.2 / 9.0 / 9.1 / 9.2 | uniqueness: -0.2 vs peer; significance: -0.1 vs peer. |
+| [FR/cite-des-sciences](../../../countries/FR/sights/cite-des-sciences.yaml) | 8.8 / 8.8 / 8.7 / 9.2 / 9.3 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [FR/grande-galerie-evolution](../../../countries/FR/sights/grande-galerie-evolution.yaml) | 9.1 / 9.1 / 9.0 / 9.0 / 9.0 | experience: +0.2 vs peer; depth: +0.2 vs peer. |
+| [FR/air-space-museum-le-bourget](../../../countries/FR/sights/air-space-museum-le-bourget.yaml) | 9.2 / 9.2 / 9.2 / 9.0 / 9.3 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Extensive marine habitat displays. |
+| Uniqueness | 9.0 | Distinct ocean science interpretation. |
+| Significance | 8.9 | Important regional scientific education institution. |
+| Experience | 9.2 | Dedicated family-friendly aquarium experience. |
+| Depth | 9.2 | Multiple themed pavilions. |
+
+- Applicable categories: family:9.4, nature:9.3, wildlife:9.3, culture:9.0.
+- Computed worldwide overall: 90.30/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

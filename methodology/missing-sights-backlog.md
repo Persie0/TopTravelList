@@ -1434,3 +1434,15 @@ Seven additions, 28 peer rows. France 145 ranked / 156 total; 11 existing unasse
 - [x] FR — La Cité de la Mer Cherbourg: 90.85/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 152 ranked / 163 total; 11 existing unassessed unchanged. Bayeux cathedral and streets exclude tapestry museum; Caen abbeys distinct sites; Giverny house and gardens grouped; Étretat art/topiary garden excludes natural cliff walk; Cité de la Mer includes submarine and aquarium. Next bounded screen: Saint-Malo walled city, Dinan historic centre, Pointe du Raz, Pink Granite Coast, Cap Fréhel and Fort La Latte (scope check), Quimper cathedral and historic centre, and Océanopolis Brest. Full Python validation pending.
+
+### Pass 124 — France Brittany coastal landscapes and heritage
+
+- [x] FR — Saint-Malo Walled City and Ramparts: 91.35/100 (source-linked-unverified).
+- [x] FR — Dinan Historic Centre and Ramparts: 89.90/100 (source-linked-unverified).
+- [x] FR — Pointe du Raz and Cap Sizun Coastal Trails: 89.70/100 (source-linked-unverified).
+- [x] FR — Pink Granite Coast and Ploumanac’h Coastal Trail: 91.35/100 (source-linked-unverified).
+- [x] FR — Cap Fréhel and Fort La Latte Coastal Walk: 90.65/100 (source-linked-unverified).
+- [x] FR — Quimper Cathedral and Historic Centre: 88.30/100 (source-linked-unverified).
+- [x] FR — Océanopolis Brest Ocean Discovery Park: 90.30/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 159 ranked / 170 total; 11 existing unassessed unchanged. Cap Fréhel and Fort La Latte grouped as documented route; Pointe du Raz mapped cape preferred over same-name locality; Océanopolis full established experience rated regardless of temporary pavilion closure. Next bounded screen: Locronan, Vannes historic centre, Belle-Île-en-Mer, Île de Bréhat, Crozon Peninsula, Huelgoat forest, and Josselin Castle. Full Python validation pending.
