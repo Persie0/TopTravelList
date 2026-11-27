@@ -1,0 +1,17 @@
+id: sight-ar-el-chiflon-provincial-park
+name: "El Chiflón Provincial Park Guided Geological and Archaeological Routes"
+location:
+  country_code: AR
+  latitude: -30.24
+  longitude: -67.58
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.2
+    history: 9.1
+    photography: 9.2
+    adventure: 9.0

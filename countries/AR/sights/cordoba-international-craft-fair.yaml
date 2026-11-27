@@ -1,0 +1,15 @@
+id: sight-ar-cordoba-international-craft-fair
+name: "Córdoba International Crafts Fair Public Artisan and Cultural Programme"
+location:
+  country_code: AR
+  latitude: -31.37
+  longitude: -64.25
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    culture: 9.4
+    photography: 9.1

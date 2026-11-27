@@ -5578,3 +5578,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AR — Buenos Aires Museo Evita Biographical and Political History Exhibitions: 84.65/100 (desk-based provisional).
 
 12 provisional additions (4 source-linked, 8 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 165 ranked / 166 total, +101 since baseline 65, 46 new 90+ across eight passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Public Palermo polo, Amaicha Pachamama festival and arteba scoped separately from permanent attractions; Museo de La Plata public exhibitions distinct from Egidio Feruglio. Regional ruins, fossil forest, coastal wildlife, forest parks, historic settlement and Museo Evita are provisional. Existing ratings and one unassessed preserved; prior El Shincal, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+### Pass 315 — Argentina performing arts, archaeological and regional heritage
+
+- [x] AR — Festival Internacional de Buenos Aires (FIBA) Performing Arts Public Programme: 91.80/100 (source-linked provisional).
+- [x] AR — Santiago del Estero National Chacarera Festival Public Music and Dance Programme: 92.05/100 (source-linked provisional).
+- [x] AR — Córdoba International Crafts Fair Public Artisan and Cultural Programme: 90.75/100 (source-linked provisional).
+- [x] AR — Cerro Colorado Cultural and Natural Reserve Guided Rock-Art Heritage: 90.95/100 (source-linked provisional).
+- [x] AR — El Chiflón Provincial Park Guided Geological and Archaeological Routes: 87.15/100 (source-linked provisional).
+- [x] AR — General Roca National Apple Festival Public Cultural Programme: 87.20/100 (desk-based provisional).
+- [x] AR — Mar Chiquita Coastal Lagoon Biosphere Reserve Visitor Landscape: 86.75/100 (desk-based provisional).
+- [x] AR — Villa El Chocón Ernesto Bachmann Paleontological Museum and Dinosaur Heritage: 87.05/100 (desk-based provisional).
+- [x] AR — Las Grutas Coastal Cliffs and Beach Experience: 84.90/100 (desk-based provisional).
+- [x] AR — Termas de Río Hondo Thermal Bathing Experience: 84.75/100 (desk-based provisional).
+- [x] AR — Potrero de Yala Provincial Park Yungas Lakes and Forest Trails: 85.05/100 (desk-based provisional).
+- [x] AR — Punta Rasa Coastal Wetland and Migratory Birdwatching: 85.15/100 (desk-based provisional).
+
+12 provisional additions (5 source-linked, 7 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 177 ranked / 178 total, +113 since baseline 65, 50 new 90+ across nine passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. FIBA, Chacarera, Córdoba crafts fair and Cerro Colorado researched; El Chiflón independently source-linked. Coastal Mar Chiquita (Buenos Aires) distinct from inland Córdoba lagoon. La Salamanca deferred because of repeated cancelled editions, not penalized on access; https://sursantiago.com.ar/noticias/2026/01/07/la-municipalidad-de-la-banda-confirmo-que-no-se-realizara-el-festival-de-la-salamanca-en-2026 . El Shincal deferred for Qhapaq Ñan component scope (https://whc.unesco.org/en/list/1459/maps/). Existing scores and one unassessed preserved; prior Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.

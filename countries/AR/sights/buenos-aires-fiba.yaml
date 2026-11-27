@@ -1,0 +1,15 @@
+id: sight-ar-buenos-aires-fiba
+name: "Festival Internacional de Buenos Aires (FIBA) Performing Arts Public Programme"
+location:
+  country_code: AR
+  latitude: -34.604
+  longitude: -58.38
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.3
+  depth: 9.2
+  categories:
+    culture: 9.4
+    nightlife: 9.1
