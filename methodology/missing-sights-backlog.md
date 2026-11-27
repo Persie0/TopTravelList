@@ -4246,3 +4246,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Morro de São Paulo Tinharé Island Beaches and Village: 87.15/100 (desk-based provisional).
 
 16 additions, 9 source-linked provisional, 7 desk-based provisional, 6 90+, 44 ranking-row comparisons (12 international). BR 116 ranked / 119 total. Chapada das Mesas regional circuit grouped; whale watching shore-based only, separate from Abrolhos; Biennial excludes Ibirapuera scenery and permanent museums; Alcatrazes authorized offshore scope, Ilhabela land-based. Serra da Bocaina deferred as Paraty UNESCO component (https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/mata-atlantica/lista-de-ucs/parna-da-serra-da-bocaina/guia-do); Serra das Confusões deferred pending Caatinga serial scope check; PETAR earlier deferral retained. Existing scores and three unassessed retained. Coordinates approximate; access and schedules unverified. Brazil queue open.
+
+### Pass 241 — Brazil Amazon excursions, festivals and regional nature
+
+- [x] BR — Rock in Rio Music Festival Rio de Janeiro: 92.80/100 (source-linked-unverified).
+- [x] BR — Joinville International Dance Festival Santa Catarina: 92.30/100 (source-linked-unverified).
+- [x] BR — São Paulo LGBT+ Pride Parade and Cultural Festival: 92.25/100 (source-linked-unverified).
+- [x] BR — Cristalino Private Reserve Southern Amazon Birdwatching and Canopy Excursions: 92.00/100 (source-linked-unverified).
+- [x] BR — Oktoberfest Blumenau German-Brazilian Cultural Festival: 90.60/100 (source-linked-unverified).
+- [x] BR — FLIP Paraty International Literary Festival: 90.90/100 (source-linked-unverified).
+- [x] BR — Juma River Amazon Guided Flooded Forest and Canoe Excursions: 90.45/100 (source-linked-unverified).
+- [x] BR — Presidente Figueiredo Amazon Waterfall and Cave Circuit: 88.95/100 (source-linked-unverified).
+- [x] BR — Serra do Cipó National Park Mountain and Waterfall Trails: 88.15/100 (desk-based provisional).
+- [x] BR — Gruta de Maquiné Cordisburgo Cave Tours: 87.60/100 (desk-based provisional).
+- [x] BR — Serra da Piedade Sanctuary and Mountain Viewpoints: 86.85/100 (desk-based provisional).
+- [x] BR — Parque das Aves Foz do Iguaçu Bird Conservation Exhibits: 87.80/100 (desk-based provisional).
+- [x] BR — Museu Paraense Emílio Goeldi Zoobotanical Park Belém: 87.35/100 (desk-based provisional).
+- [x] BR — Mangal das Garças Belém Riverside Nature Park: 85.30/100 (desk-based provisional).
+- [x] BR — Curitiba Botanical Garden Glasshouse and Landscapes: 85.20/100 (desk-based provisional).
+- [x] BR — Gramado Film Festival Public Screenings and Brazilian Cinema: 88.85/100 (desk-based provisional).
+
+16 additions, 8 source-linked provisional, 8 desk-based provisional, 7 90+, 46 ranking-row comparisons (14 international). BR 132 ranked / 135 total. Cristalino and Juma score guided nature experiences not accommodation; Mamirauá/Uakari deferred as Central Amazon UNESCO component (https://whc.unesco.org/en/list/998); Serra das Confusões confirmed component of existing tentative Caatinga serial record (https://whc.unesco.org/en/tentativelists/6896/), no duplicate pending parent split. Serra da Bodoquena Salobra canyon deferred pending boundary review against Boca da Onça, whose Discovery trail also follows Salobra (https://bodoquena.ms.gov.br/turismo/descubra-bodoquena/passeios/cachoeira/cachoeira-boca-da-onca). FLIP excludes Paraty built heritage; Rock in Rio excludes stadium and permanent venue; bird park separate from Iguaçu park. Prior PETAR and Bocaina deferrals retained. Coordinates approximate, future schedules and access not verified. Existing ratings and three unassessed retained. Brazil queue open.

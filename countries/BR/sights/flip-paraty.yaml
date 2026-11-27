@@ -1,0 +1,16 @@
+id: sight-br-flip-paraty
+name: "FLIP Paraty International Literary Festival"
+location:
+  country_code: BR
+  latitude: -23.219
+  longitude: -44.713
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    nightlife: 9.1

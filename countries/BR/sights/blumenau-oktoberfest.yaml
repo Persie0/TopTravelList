@@ -1,0 +1,16 @@
+id: sight-br-blumenau-oktoberfest
+name: "Oktoberfest Blumenau German-Brazilian Cultural Festival"
+location:
+  country_code: BR
+  latitude: -26.919
+  longitude: -49.083
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.3
+  depth: 9.2
+  categories:
+    culture: 9.4
+    food: 9.3
+    nightlife: 9.3

@@ -1,0 +1,16 @@
+id: sight-br-curitiba-botanical-garden
+name: "Curitiba Botanical Garden Glasshouse and Landscapes"
+location:
+  country_code: BR
+  latitude: -25.442
+  longitude: -49.239
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    nature: 9.2
+    photography: 9.3
