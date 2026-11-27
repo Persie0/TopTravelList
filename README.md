@@ -330,7 +330,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Uzbekistan](countries/UZ/) (`UZ`) | [20](countries/UZ/cities.md) | [56](countries/UZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Uzbekistan) |
 | [Vanuatu](countries/VU/) (`VU`) | [6](countries/VU/cities.md) | [21](countries/VU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Vanuatu) |
 | [Vatican City](countries/VA/) (`VA`) | [1](countries/VA/cities.md) | [24](countries/VA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Vatican%20City) |
-| [Venezuela](countries/VE/) (`VE`) | [35](countries/VE/cities.md) | [67](countries/VE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Venezuela) |
+| [Venezuela](countries/VE/) (`VE`) | [35](countries/VE/cities.md) | [79](countries/VE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Venezuela) |
 | [Vietnam](countries/VN/) (`VN`) | [140](countries/VN/cities.md) | [360](countries/VN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Vietnam) |
 | [Virgin Islands, British](countries/VG/) (`VG`) | [3](countries/VG/cities.md) | [10](countries/VG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Virgin%20Islands%2C%20British) |
 | [Virgin Islands, U.S.](countries/VI/) (`VI`) | [4](countries/VI/cities.md) | [11](countries/VI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Virgin%20Islands%2C%20U.S.) |

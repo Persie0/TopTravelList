@@ -1357,3 +1357,250 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 298 scope decisions
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). VE 64 ranked / 67 total, +24 since baseline 43. Prior 3 inscribed and 3 tentative properties represented; boundaries not remapped. Joropo UNESCO Representative List 2025, Elorza named public festival not separately inscribed; excludes bull events. Tamunangue nomination documentation as of 23 Nov 2026, not inscribed. Caucagua and Blessed Palm are safeguarding programme register entries, not Representative List inscriptions. Cubagua guided archaeological route distinct from beach visits. Paria and Turuépano separate from Orinoco Delta; regional tourism sources describe established trails/waterway outings. Inparques current website and secondary park lists screened (https://www.inparques.gob.ve/ ; https://guia.com.ve/venezuela/parques-nacionales/ ; https://ecoturismovenezuela.com/conoce-los-45-parques-nacionales-de-venezuela/), secondary counts disagree 44 vs 45; authoritative exhaustive reconciliation pending. Cueva Quebrada del Toro, Jaua-Sarisariñama, Duida-Marahuaca and Autana deferred pending clear permitted visitor scopes, not a negative intrinsic rating. Current Inparques permit page lists Pico Bolívar high-mountain ascent permit (https://www.inparques.gob.ve/tramites.html); legacy unassessed preserved for separate rating workflow. Prior safety note retained. Existing ratings preserved. OPEN for further national parks, monuments and urban heritage; current permissions, security, coordinates and schedules unverified.
+
+
+## Pass 299 — Venezuela controlled natural heritage, museums and public festivals (2026-11-28)
+
+
+## sight-ve-cerro-autana-river-landscape — Cerro Autana and Sipapo River Authorized Guided Landscape Experience — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/cerro-autana-river-landscape.yaml)
+- Action: new
+- Scope: INPARQUES describes river-based landscape visits and controlled permits via authorized registered operators with river transit permission. Require community consent; no sacred summit, cave entry, precise sensitive sites or private ceremonies. Score applies to river-based exterior landscape, not restricted features.
+- Representative coordinates: 4.89, -67.45; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.inparques.gob.ve/Monumentos%20Nacionales/cerro-autana.html ; https://inparques.gob.ve/tramites.html
+- Core I/U/S/E/D: 9.3 / 9.6 / 9.2 / 8.5 / 9.0.
+- Categories: nature:9.5 photography:9.5 adventure:9.2 culture:9.1.
+- Overall: 92.05/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. High-field challenge: visually isolated sandstone tower and culturally significant river landscape support 9.6 uniqueness and 9.5 nature/photography; cave and summit access excluded; global anchor challenge pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/orinoco-delta](../../../countries/VE/sights/orinoco-delta.yaml) | 8.8 / 9.1 / 8.6 / 8.1 / 8.7 | impact: 0.5; uniqueness: 0.5 vs peer |
+| [UY/quebrada-de-laureles](../../../countries/UY/sights/quebrada-de-laureles.yaml) | 8.8 / 8.9 / 8.7 / 8.7 / 8.8 | impact: 0.5; uniqueness: 0.7 vs peer |
+| [VE/mount-roraima-venezuelan-sector](../../../countries/VE/sights/mount-roraima-venezuelan-sector.yaml) | 9.7 / 9.8 / 9.2 / 8.7 / 8.8 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [VE/canaima-national-park](../../../countries/VE/sights/canaima-national-park.yaml) | 9.8 / 9.8 / 9.7 / 8.7 / 9.5 | impact: -0.5; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-caracas-nazareno-san-pablo — Caracas Nazareno de San Pablo Public Holy Wednesday Procession — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/caracas-nazareno-san-pablo.yaml)
+- Action: new
+- Scope: Tourism ministry documents 351 years of tradition in April 2026; public procession only, no guaranteed crowd access or future schedule.
+- Representative coordinates: 10.5, -66.92; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.mintur.gob.ve/news/a170cb00-9349-4525-af55-87d7aeb7f99b ; https://www.aciprensa.com/noticias/123741/venezuela-351-anos-de-la-procesion-del-nazareno-de-san-pablo-en-caracas
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.4 / 9.2 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.40/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/divina-pastora-pilgrimage](../../../countries/VE/sights/divina-pastora-pilgrimage.yaml) | 9.3 / 9.2 / 9.4 / 9.1 / 9.0 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [UY/florida-san-cono-pilgrimage](../../../countries/UY/sights/florida-san-cono-pilgrimage.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | impact: 0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-cruz-de-mayo-velorio — Caracas and Central Venezuela Cruz de Mayo Public Music and Floral Festivities — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/cruz-de-mayo-velorio.yaml)
+- Action: new
+- Scope: Nationally recognized heritage since 2014 per tourism ministry; representative public performances in Caracas and central region, other local observances grouped; not UNESCO inscription.
+- Representative coordinates: 10.5, -66.9; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.mintur.gob.ve/news/9ed11baa-dadd-45ae-a064-b7d9f3549327 ; https://www.mincultura.gob.ve/noticias/con-un-canto-a-la-identidad-y-paz-se-celebro-el-velorio-de-la-cruz-de-mayo-en-el-eje-del-buen-vivir/
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.2 photography:9.3.
+- Overall: 91.25/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/san-juan-bautista-festivities](../../../countries/VE/sights/san-juan-bautista-festivities.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [UY/dolores-spring-festival](../../../countries/UY/sights/dolores-spring-festival.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 8.9 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-merida-feria-del-sol — Mérida International Sun Fair Public Carnival Parades and Concerts — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/merida-feria-del-sol.yaml)
+- Action: new
+- Scope: Municipality documents public 2026 carnival concerts and programme. Excludes bullfighting and animal competitions; distinct from Andes hiking and cable car.
+- Representative coordinates: 8.59, -71.15; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://alcaldialibertadormerida.com.ve/balance-y-gestion-en-la-feria-internacional-del-sol-2026-2/ ; https://www.mintur.gob.ve/news/a10bf88f-5f86-4e45-9bc3-3d916dd70fd3
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.1 / 9.3 / 9.0.
+- Categories: culture:9.3 photography:9.3 nightlife:9.2.
+- Overall: 90.40/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/el-callao-carnival](../../../countries/VE/sights/el-callao-carnival.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.2 | impact: -0.3; uniqueness: -0.5 vs peer |
+| [UY/artigas-samba-carnival](../../../countries/UY/sights/artigas-samba-carnival.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-museo-jesus-soto — Ciudad Bolívar Jesús Soto Museum of Modern and Kinetic Art — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/museo-jesus-soto.yaml)
+- Action: new
+- Scope: Distinct modern art institution, internationally focused kinetic and abstract collection; 2025 reopening documented, no current opening guarantee. Not part of narrow historic street circuit.
+- Representative coordinates: 8.13, -63.54; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://jesus-soto.com/es/museo-soto/ ; https://www.mincultura.gob.ve/noticias/reinauguracion-del-museo-moderno-jesus-soto-vitrina-de-la-cultura-venezolana-2/
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.1 / 8.6 / 8.7.
+- Categories: culture:9.3 architecture:9.0 history:9.0.
+- Overall: 87.55/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/museo-de-bellas-artes-caracas](../../../countries/VE/sights/museo-de-bellas-artes-caracas.yaml) | 7.8 / 7.5 / 8.0 / 8.0 / 7.9 | impact: 0.7; uniqueness: 1.4 vs peer |
+| [UY/national-museum-of-visual-arts](../../../countries/UY/sights/national-museum-of-visual-arts.yaml) | 7.7 / 7.7 / 8.0 / 8.0 / 7.9 | impact: 0.8; uniqueness: 1.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-caracas-galeria-arte-nacional — Caracas National Art Gallery — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/caracas-galeria-arte-nacional.yaml)
+- Action: new
+- Scope: National art institution distinct from Museum of Fine Arts; documented public 2026 exhibition. No current hours claim.
+- Representative coordinates: 10.5, -66.9; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.mincultura.gob.ve/noticias/la-galeria-de-arte-nacional-despedira-el-salon-elsa-morales-con-una-gran-fiesta-cultural/
+- Core I/U/S/E/D: 8.4 / 8.4 / 9.0 / 8.5 / 8.8.
+- Categories: culture:9.3 history:9.1 architecture:8.7.
+- Overall: 85.75/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/museo-de-bellas-artes-caracas](../../../countries/VE/sights/museo-de-bellas-artes-caracas.yaml) | 7.8 / 7.5 / 8.0 / 8.0 / 7.9 | impact: 0.6; uniqueness: 0.9 vs peer |
+| [UY/national-museum-of-visual-arts](../../../countries/UY/sights/national-museum-of-visual-arts.yaml) | 7.7 / 7.7 / 8.0 / 8.0 / 7.9 | impact: 0.7; uniqueness: 0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-caracas-museo-arte-contemporaneo — Caracas Armando Reverón Museum of Contemporary Art — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/caracas-museo-arte-contemporaneo.yaml)
+- Action: new
+- Scope: Separate contemporary art collection in Parque Central; public exhibition venue documented, no claim of specific works currently displayed.
+- Representative coordinates: 10.5, -66.9; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.mincultura.gob.ve/noticias/inicio-la-recepcion-de-obras-para-el-salon-nacional-de-arte-elsa-morales-2026/ ; https://www.venez.pl/cultura/
+- Core I/U/S/E/D: 8.3 / 8.5 / 9.0 / 8.3 / 8.7.
+- Categories: culture:9.3 history:9.0 architecture:8.7.
+- Overall: 85.30/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/museo-de-bellas-artes-caracas](../../../countries/VE/sights/museo-de-bellas-artes-caracas.yaml) | 7.8 / 7.5 / 8.0 / 8.0 / 7.9 | impact: 0.5; uniqueness: 1.0 vs peer |
+| [UY/montevideo-museo-blanes](../../../countries/UY/sights/montevideo-museo-blanes.yaml) | 8.2 / 8.4 / 8.8 / 8.5 / 8.5 | impact: 0.1; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-cueva-alfredo-jahn — Alfredo Jahn Cave Natural Monument Guided Caving Experience — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/cueva-alfredo-jahn.yaml)
+- Action: new
+- Scope: Specialist operator documents guided cave visits; only legally permitted guided routes, no independent exploration or current availability guarantee.
+- Representative coordinates: 10.49, -66.25; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://climbingvenezuela.com/experiencias/cueva-alfredo-jahn-o-tapa-de-cambural ; https://imerualfonzo.com/excursion-a-la-cueva-alfredo-jahn/
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.5 / 8.2 / 8.5.
+- Categories: nature:9.2 adventure:9.3 photography:9.0.
+- Overall: 85.90/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/cueva-del-guacharo-national-park](../../../countries/VE/sights/cueva-del-guacharo-national-park.yaml) | 8.6 / 8.8 / 8.5 / 8.3 / 7.8 | impact: 0.1; uniqueness: 0.0 vs peer |
+| [UY/grutas-del-palacio](../../../countries/UY/sights/grutas-del-palacio.yaml) | 8.0 / 8.7 / 8.3 / 7.9 / 7.0 | impact: 0.7; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-morros-san-juan — Morros de San Juan Arístides Rojas Natural Monument Rock Landscapes — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/morros-san-juan.yaml)
+- Action: new
+- Scope: Distinct limestone formations; exterior landscape only, climbing requires official permit and no new routes assumed.
+- Representative coordinates: 9.93, -67.36; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://inparques.gob.ve/tramites.html
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.3 / 8.2 / 8.4.
+- Categories: nature:9.1 photography:9.2 adventure:9.0.
+- Overall: 84.85/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/sierra-la-culata](../../../countries/VE/sights/sierra-la-culata.yaml) | 8.9 / 8.6 / 8.7 / 8.3 / 8.8 | impact: -0.3; uniqueness: 0.1 vs peer |
+| [UY/cerro-arequita](../../../countries/UY/sights/cerro-arequita.yaml) | 8.0 / 8.1 / 7.6 / 8.2 / 7.5 | impact: 0.6; uniqueness: 0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-laguna-de-urao — Laguna de Urao Natural Monument Highland Lagoon Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/laguna-de-urao.yaml)
+- Action: new
+- Scope: Desk-based highland lagoon and mineral heritage, representative exterior landscape; variable water conditions and current access not verified.
+- Representative coordinates: 8.5, -71.39; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 7.9 / 8.5 / 8.4 / 7.8 / 8.1.
+- Categories: nature:8.9 photography:8.8 history:8.8.
+- Overall: 81.55/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/laguna-de-mucubaji](../../../countries/VE/sights/laguna-de-mucubaji.yaml) | 8.5 / 8.2 / 7.5 / 8.4 / 7.3 | impact: -0.6; uniqueness: 0.3 vs peer |
+| [UY/laguna-de-rocha](../../../countries/UY/sights/laguna-de-rocha.yaml) | 8.2 / 8.5 / 8.6 / 8.3 / 8.0 | impact: -0.3; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-guatopo-national-park — Guatopo National Park Forest and Agua Blanca Recreation Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/guatopo-national-park.yaml)
+- Action: new
+- Scope: Desk-based forest park scope focused on established recreation areas; current facilities and access unverified.
+- Representative coordinates: 10.04, -66.45; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.7 / 8.1 / 8.5.
+- Categories: nature:9.1 wildlife:9.1 photography:8.8.
+- Overall: 83.95/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/henri-pittier-national-park](../../../countries/VE/sights/henri-pittier-national-park.yaml) | 8.6 / 8.7 / 9.0 / 8.2 / 8.5 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [UY/quebrada-de-laureles](../../../countries/UY/sights/quebrada-de-laureles.yaml) | 8.8 / 8.9 / 8.7 / 8.7 / 8.8 | impact: -0.5; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-choroni-puerto-colombia — Choroní and Puerto Colombia Colonial Village Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/choroni-puerto-colombia.yaml)
+- Action: new
+- Scope: Desk-based public village streets grouped with Puerto Colombia; excludes existing Playa Grande, Chuao plantation and seasonal San Juan festival.
+- Representative coordinates: 10.49, -67.61; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.3 / 8.4 / 8.5 / 8.3.
+- Categories: architecture:9.0 culture:8.9 photography:9.0.
+- Overall: 82.90/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/colonia-tovar](../../../countries/VE/sights/colonia-tovar.yaml) | 8.4 / 8.7 / 8.4 / 8.8 / 8.6 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [UY/san-javier-russian-heritage](../../../countries/UY/sights/san-javier-russian-heritage.yaml) | 8.0 / 8.7 / 8.7 / 8.4 / 8.5 | impact: 0.1; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 299 scope decisions
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 4 90+, 26 ranking-row comparisons (12 international, 14 domestic). VE 76 ranked / 79 total, +36 since baseline 43. Prior UNESCO 3 inscribed and 3 tentative properties represented, no new boundary mapping. Autana previous deferral resolved narrowly for controlled guided river landscape only: INPARQUES explicitly documents registered authorized operator and river transit permit (https://inparques.gob.ve/tramites.html) and sacred summit restrictions (https://www.inparques.gob.ve/Monumentos%20Nacionales/cerro-autana.html); community consent required, no cave/summit access or private rituals. Alfredo Jahn guided routes distinct from Guacharo; permits unverified. Morros exterior landscape only. Cruz de Mayo national heritage, not UNESCO inscription; Merida fair excludes bullfighting. Three distinct art institutions added, existing Bellas Artes preserved. Choroni village excludes Playa Grande and San Juan festival. Cueva Quebrada del Toro, Jaua-Sarisarinama, Duida-Marahuaca deferred. Park counts unresolved; current INPARQUES portal not exhaustive. Existing ratings and three unassessed preserved. OPEN for bounded remaining regional park/cultural screen. Current security, permits, schedules and coordinates unverified; intrinsic rankings not travel advice. Full Python validation and global calibration pending.
