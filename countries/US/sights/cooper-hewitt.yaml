@@ -1,0 +1,16 @@
+id: sight-us-cooper-hewitt
+name: "Cooper Hewitt Smithsonian Design Museum New York"
+location:
+  country_code: US
+  latitude: 40.784
+  longitude: -73.958
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.2

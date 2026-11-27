@@ -1,0 +1,16 @@
+id: sight-us-georgia-okeeffe
+name: "Georgia O'Keeffe Museum Santa Fe"
+location:
+  country_code: US
+  latitude: 35.689
+  longitude: -105.94
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.4
+    history: 9.1
+    photography: 8.8

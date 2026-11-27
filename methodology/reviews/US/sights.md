@@ -13001,3 +13001,366 @@ Ranking rows checked; independent factual, coordinate, peer YAML, international 
 
 Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
 
+## sight-us-academy-museum — Academy Museum of Motion Pictures Los Angeles — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/academy-museum.yaml)
+- Action: new
+- Scope: Cinema history, production and Oscars heritage; core Stories of Cinema and permanent Hollywoodland exhibition; excludes adjacent LACMA and studio tours.
+- Representative coordinates: 34.063, -118.36; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.2 / 9.3.
+- Categories: culture:9.4 history:9.3 family:9.1.
+- Overall: 92.55/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.academymuseum.org/exhibitions/stories-of-cinema; https://www.academymuseum.org/exhibitions/hollywoodland?os=os.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/george-eastman-museum](../../../countries/US/sights/george-eastman-museum.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.2 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/museum-pop-culture](../../../countries/US/sights/museum-pop-culture.yaml) | 8.7 / 8.9 / 8.6 / 8.9 / 8.8 | significance: +0.7 vs peer; impact: +0.5 vs peer |
+| [US/strong-museum-play](../../../countries/US/sights/strong-museum-play.yaml) | 9.2 / 9.4 / 9.2 / 9.4 / 9.2 | experience: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/universal-hollywood](../../../countries/US/sights/universal-hollywood.yaml) | 9.0 / 9.2 / 8.9 / 9.2 / 9.0 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-petersen-automotive — Petersen Automotive Museum and Vault Los Angeles — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/petersen-automotive.yaml)
+- Action: new
+- Scope: Automotive design, engineering and film vehicles; separately ticketed Vault grouped in the museum scope, operator describes over 300 rare vehicles in Vault.
+- Representative coordinates: 34.062, -118.361; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.2 / 9.3 / 9.3.
+- Categories: culture:9.4 history:9.3 family:9.2.
+- Overall: 92.50/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://petersen.org/pages/exhibits; https://petersen.org/pages/petersen-exhibit/the-vault.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+| [US/national-corvette-museum](../../../countries/US/sights/national-corvette-museum.yaml) | 8.7 / 8.9 / 8.7 / 8.9 / 8.8 | impact: +0.5 vs peer; significance: +0.5 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/museum-of-flight](../../../countries/US/sights/museum-of-flight.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.3 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-international-folk-art — Museum of International Folk Art Santa Fe — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/international-folk-art.yaml)
+- Action: new
+- Scope: Museum reports more than 130,000 folk art objects from over 100 countries; public exhibitions, not entire storage holdings.
+- Representative coordinates: 35.665, -105.926; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.1 / 9.3.
+- Categories: culture:9.4 history:9.3 family:9.1.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.moifa.org/collection/about-the-collection/; https://www.nmculture.dca.nm.gov/museums/museum-of-international-folk-art/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bishop-museum](../../../countries/US/sights/bishop-museum.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.4 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/peabody-essex](../../../countries/US/sights/peabody-essex.yaml) | 9.1 / 9.4 / 9.3 / 9.0 / 9.2 | experience: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/heard-museum](../../../countries/US/sights/heard-museum.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/national-mexican-art](../../../countries/US/sights/national-mexican-art.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.1 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-franklin-institute — Franklin Institute Science Museum Philadelphia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/franklin-institute.yaml)
+- Action: new
+- Scope: Three floors of hands-on science, historic scientific artifacts and astronomy exhibits; Benjamin Franklin National Memorial grouped.
+- Representative coordinates: 39.958, -75.173; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.1 / 9.4 / 9.3.
+- Categories: family:9.4 history:9.2 culture:9.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://fi.edu/en/exhibits-experiences; https://fi.edu/en; https://fi.edu/en/exhibits-and-experiences/benjamin-franklin-memorial.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | uniqueness: -0.2 vs peer; significance: +0.2 vs peer |
+| [US/boston-science-museum](../../../countries/US/sights/boston-science-museum.yaml) | 8.9 / 8.9 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/griffin-msi](../../../countries/US/sights/griffin-msi.yaml) | 9.3 / 9.4 / 9.3 / 9.4 / 9.4 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/perot-museum](../../../countries/US/sights/perot-museum.yaml) | 8.9 / 8.9 / 8.9 / 9.2 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-cooper-hewitt — Cooper Hewitt Smithsonian Design Museum New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cooper-hewitt.yaml)
+- Action: new
+- Scope: Design collection spanning 30 centuries, historic Carnegie mansion and permanent collection galleries unveiled in 2026.
+- Representative coordinates: 40.784, -73.958; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 architecture:9.2.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.cooperhewitt.org/design-topics/museum-history/permanent-collection/; https://www.cooperhewitt.org/2026/06/15/cooper-hewitt-unveils-permanent-collection-galleries-showcasing-a-multi-year-presentation-of-the-national-design-collection/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/corning-glass](../../../countries/US/sights/corning-glass.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/frick-collection](../../../countries/US/sights/frick-collection.yaml) | 9.3 / 9.2 / 9.4 / 9.2 / 9.3 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/winterthur](../../../countries/US/sights/winterthur.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-sphere-las-vegas — Sphere Las Vegas Immersive Screen and Performance Experience — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sphere-las-vegas.yaml)
+- Action: new
+- Scope: Ticketed immersive interior screen and sound experience; excludes exterior sightseeing already within Strip scope; no particular residency or film assumed available.
+- Representative coordinates: 36.121, -115.162; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 8.6 / 9.4 / 8.6.
+- Categories: culture:9.3 nightlife:9.3 photography:9.2.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.thesphere.com/shows/the-sphere-experience; https://www.thesphere.com/shows/v-u2-immersive-concert-film?os=ioxa42gdub5u1enqic.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/meow-wolf-omega-mart](../../../countries/US/sights/meow-wolf-omega-mart.yaml) | 9.1 / 9.3 / 8.7 / 9.4 / 9.0 | depth: -0.4 vs peer; impact: +0.3 vs peer |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | significance: -0.6 vs peer; depth: -0.4 vs peer |
+| [US/meow-wolf-denver](../../../countries/US/sights/meow-wolf-denver.yaml) | 9.2 / 9.3 / 8.7 / 9.4 / 9.1 | depth: -0.5 vs peer; impact: +0.2 vs peer |
+| [US/epic-universe](../../../countries/US/sights/epic-universe.yaml) | 9.2 / 9.2 / 8.7 / 9.4 / 9.2 | depth: -0.6 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-eastern-state — Eastern State Penitentiary Historic Site Philadelphia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/eastern-state.yaml)
+- Action: new
+- Scope: Pioneering penitentiary architecture, historic cellblocks and interpretation of justice and incarceration; separate from Old City.
+- Representative coordinates: 39.968, -75.173; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.0.
+- Categories: history:9.4 architecture:9.2 culture:9.1.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://easternstate.org/historic-site; https://easternstate.org/about/history-of-eastern-state-penitentiary.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/alcatraz-island](../../../countries/US/sights/alcatraz-island.yaml) | 8.6 / 9.0 / 9.0 / 9.1 / 8.4 | depth: +0.6 vs peer; impact: +0.4 vs peer |
+| [US/tenement-museum](../../../countries/US/sights/tenement-museum.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | experience: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/manzanar](../../../countries/US/sights/manzanar.yaml) | 8.7 / 8.9 / 9.3 / 8.8 / 8.8 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-sixth-floor-museum — Sixth Floor Museum at Dealey Plaza Dallas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sixth-floor-museum.yaml)
+- Action: new
+- Scope: Museum interpreting John F. Kennedy's presidency, death and historical legacy; Dealey Plaza heritage grouped, no sensationalized interpretation.
+- Representative coordinates: 32.779, -96.808; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.4 / 8.9 / 9.0.
+- Categories: history:9.4 culture:9.1 photography:8.8.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.jfk.org/plan-your-visit/; https://www.jfk.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | uniqueness: -0.2 vs peer; experience: +0.2 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/tenement-museum](../../../countries/US/sights/tenement-museum.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | significance: +0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-amon-carter — Amon Carter Museum of American Art Fort Worth — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/amon-carter.yaml)
+- Action: new
+- Scope: American painting, sculpture and photography, including extensive Remington and Russell collections; separate from Kimbell.
+- Representative coordinates: 32.748, -97.369; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 8.9 / 9.2.
+- Categories: culture:9.3 history:9.2 photography:9.2.
+- Overall: 89.95/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.cartermuseum.org/art-artists/collection-groups; https://www.cartermuseum.org/carter-collection/collection-group/amon-g-carter-collection.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kimbell-art-museum](../../../countries/US/sights/kimbell-art-museum.yaml) | 8.9 / 9.2 / 9.0 / 9.0 / 8.9 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/national-cowboy](../../../countries/US/sights/national-cowboy.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 9.0 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-nasher-sculpture — Nasher Sculpture Center Dallas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/nasher-sculpture.yaml)
+- Action: new
+- Scope: Collection of more than 300 modern and contemporary sculptures, public displays and garden; separate from Dallas Museum of Art.
+- Representative coordinates: 32.787, -96.801; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.9 / 9.0 / 8.9.
+- Categories: culture:9.4 architecture:9.1 photography:9.2.
+- Overall: 89.65/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nashersculpturecenter.org/visit/about-the-nasher; https://www.nashersculpturecenter.org/art/exhibitions/exhibition/id/2314.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/storm-king](../../../countries/US/sights/storm-king.yaml) | 9.1 / 9.2 / 8.9 / 9.2 / 9.0 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [US/walker-art-center](../../../countries/US/sights/walker-art-center.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-modern-fort-worth — Modern Art Museum of Fort Worth — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/modern-fort-worth.yaml)
+- Action: new
+- Scope: Modern and contemporary collections of nearly 3,000 objects and distinctive Tadao Ando building; independent from Kimbell and Amon Carter.
+- Representative coordinates: 32.749, -97.364; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 9.0 / 9.0.
+- Categories: culture:9.3 architecture:9.4 photography:9.1.
+- Overall: 89.45/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.themodern.org/mission; https://www.themodern.org/about-modern.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kimbell-art-museum](../../../countries/US/sights/kimbell-art-museum.yaml) | 8.9 / 9.2 / 9.0 / 9.0 / 8.9 | uniqueness: -0.3 vs peer; depth: +0.1 vs peer |
+| [US/the-broad](../../../countries/US/sights/the-broad.yaml) | 8.9 / 9.1 / 8.9 / 9.1 / 8.8 | uniqueness: -0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-georgia-okeeffe — Georgia O'Keeffe Museum Santa Fe — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/georgia-okeeffe.yaml)
+- Action: new
+- Scope: Santa Fe galleries only; excludes separately located Abiquiu studio and future building assumptions.
+- Representative coordinates: 35.689, -105.94; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.1 / 8.8 / 8.8.
+- Categories: culture:9.4 history:9.1 photography:8.8.
+- Overall: 89.35/100.
+- Decision: Source-informed provisional assessment from retrieved institutional excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.okeeffemuseum.org/hours-and-locations/; https://www.okeeffemuseum.org/news/homecoming-museums-entire-collection-returns-to-santa-fe-in-preparation-for-the-future/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/andy-warhol-museum](../../../countries/US/sights/andy-warhol-museum.yaml) | 9.0 / 9.4 / 9.3 / 9.0 / 9.1 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/heard-museum](../../../countries/US/sights/heard-museum.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.1 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-san-antonio-riverwalk — San Antonio Downtown River Walk — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/san-antonio-riverwalk.yaml)
+- Action: new
+- Scope: Downtown pedestrian river corridor and boat ride; excludes mission trail and Alamo already represented by San Antonio Missions.
+- Representative coordinates: 29.424, -98.489; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.6 / 9.2 / 8.8.
+- Categories: culture:9.1 photography:9.2 relaxation:9.1.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chicago-architecture-cruise](../../../countries/US/sights/chicago-architecture-cruise.yaml) | 9.1 / 9.2 / 9.1 / 9.2 / 8.9 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-new-orleans-garden-district — New Orleans Garden District Historic Architecture and Streetcar — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/new-orleans-garden-district.yaml)
+- Action: new
+- Scope: Historic neighborhood and public streetcar experience outside French Quarter; no private mansion interior assumed.
+- Representative coordinates: 29.929, -90.084; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.9 / 8.7.
+- Categories: architecture:9.2 history:9.1 photography:9.2.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+| [US/charleston-historic-district](../../../countries/US/sights/charleston-historic-district.yaml) | 9.0 / 9.0 / 9.2 / 9.1 / 9.1 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-miami-art-deco — Miami Beach Art Deco Historic District and Ocean Drive — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/miami-art-deco.yaml)
+- Action: new
+- Scope: Historic district architecture and streetscape; excludes separate beach-only attraction and nightlife events.
+- Representative coordinates: 25.78, -80.131; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 8.7.
+- Categories: architecture:9.3 photography:9.3 culture:9.1.
+- Overall: 88.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/charleston-historic-district](../../../countries/US/sights/charleston-historic-district.yaml) | 9.0 / 9.0 / 9.2 / 9.1 / 9.1 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-santa-monica-pier — Santa Monica Pier and Oceanfront Promenade — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/santa-monica-pier.yaml)
+- Action: new
+- Scope: Historic pier and adjacent public promenade, excludes Venice Beach and unrelated amusement parks.
+- Representative coordinates: 34.009, -118.497; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.5 / 9.0 / 8.5.
+- Categories: family:9.1 photography:9.1 beaches:9.
+- Overall: 86.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/waikiki](../../../countries/US/sights/waikiki.yaml) | 8.8 / 8.5 / 8.5 / 9.0 / 8.5 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+| [US/pike-place-market](../../../countries/US/sights/pike-place-market.yaml) | 8.6 / 8.7 / 8.6 / 8.9 / 8.8 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+

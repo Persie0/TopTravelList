@@ -3311,3 +3311,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Valley of the Gods Scenic Drive Utah: 86.80/100 (desk-based provisional).
 
 18 additions, 4 desk-based provisional, 14 source-informed, 8 90+, 54 domestic ranking-row comparisons. US 499 ranked / 499 total. Frick historic mansion reopened 2025; Cedar Point and Dollywood exclude separate waterparks; two Fort Union sites geographically distinct; USS Constitution deferred because Boston Freedom Trail already includes it, pending parent scope review. NPS list consulted, no claim of exhaustive monument or state coverage. Existing scores retained. Next: bounded screen of major urban, natural and cultural omissions; earlier overlap cases and full Python validation pending.
+
+### Pass 198 — US film, design, museums and urban heritage
+
+- [x] US — Academy Museum of Motion Pictures Los Angeles: 92.55/100 (source-linked-unverified).
+- [x] US — Petersen Automotive Museum and Vault Los Angeles: 92.50/100 (source-linked-unverified).
+- [x] US — Museum of International Folk Art Santa Fe: 92.35/100 (source-linked-unverified).
+- [x] US — Franklin Institute Science Museum Philadelphia: 91.65/100 (source-linked-unverified).
+- [x] US — Cooper Hewitt Smithsonian Design Museum New York: 91.50/100 (source-linked-unverified).
+- [x] US — Sphere Las Vegas Immersive Screen and Performance Experience: 91.60/100 (source-linked-unverified).
+- [x] US — Eastern State Penitentiary Historic Site Philadelphia: 91.15/100 (source-linked-unverified).
+- [x] US — Sixth Floor Museum at Dealey Plaza Dallas: 90.85/100 (source-linked-unverified).
+- [x] US — Amon Carter Museum of American Art Fort Worth: 89.95/100 (source-linked-unverified).
+- [x] US — Nasher Sculpture Center Dallas: 89.65/100 (source-linked-unverified).
+- [x] US — Modern Art Museum of Fort Worth: 89.45/100 (source-linked-unverified).
+- [x] US — Georgia O'Keeffe Museum Santa Fe: 89.35/100 (source-linked-unverified).
+- [x] US — San Antonio Downtown River Walk: 87.95/100 (desk-based provisional).
+- [x] US — New Orleans Garden District Historic Architecture and Streetcar: 87.50/100 (desk-based provisional).
+- [x] US — Miami Beach Art Deco Historic District and Ocean Drive: 88.75/100 (desk-based provisional).
+- [x] US — Santa Monica Pier and Oceanfront Promenade: 86.05/100 (desk-based provisional).
+
+16 additions, 4 desk-based provisional, 12 source-informed, 8 90+, 48 domestic ranking-row comparisons. US 515 ranked / 515 total. Alamo not added: NPS confirms all five missions incl. Alamo form existing UNESCO parent https://www.nps.gov/saan/learn/historyculture/world-heritage-site.htm; existing parent review scope requires verification before splitting. Sphere interior ticketed experience excludes Strip exterior; Petersen Vault grouped; River Walk downtown excludes mission trail; O'Keeffe Santa Fe excludes Abiquiu studio. Existing scores retained. Final country closure deferred: earlier overlap cases, flagship state-level candidates and NPS inventory screen remain unresolved; no quota. Full Python validation pending.
