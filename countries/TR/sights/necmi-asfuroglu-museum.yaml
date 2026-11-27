@@ -1,0 +1,17 @@
+id: sight-tr-necmi-asfuroglu-museum
+name: "Necmi Asfuroğlu Archaeology Museum Antakya"
+location:
+  country_code: TR
+  latitude: 36.21107
+  longitude: 36.1742
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.2
+    photography: 9.2

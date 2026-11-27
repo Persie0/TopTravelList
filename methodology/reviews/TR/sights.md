@@ -5281,3 +5281,197 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+## sight-tr-necmi-asfuroglu-museum — Necmi Asfuroğlu Archaeology Museum Antakya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/necmi-asfuroglu-museum.yaml)
+- Action: new
+- Precise subject and limitations: In-situ archaeological museum beneath the hotel, including extensive floor mosaics; excludes hotel accommodation and distinct Hatay Archaeology Museum. Mosaic size reports differ; no superlative or exact area assumed. Corroboration: https://www.hurriyetdailynews.com/amp/mosaic-that-survived-earthquakes-on-display-in-hatay-museum-222421.
+- Location check: 36.21107, 36.1742; [published representative point](https://mapcarta.com/N12840609718), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=NAM01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/hatay-archaeology-museum](../../../countries/TR/sights/hatay-archaeology-museum.yaml) | 9.2 / 9.2 / 9.3 / 8.9 / 9.2 | depth: -0.3 vs peer; significance: -0.2 vs peer. |
+| [TR/zeugma-mosaic-museum](../../../countries/TR/sights/zeugma-mosaic-museum.yaml) | 9.1 / 9.2 / 9.2 / 8.9 / 9.0 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer. |
+| [TR/ephesus-museum-selcuk](../../../countries/TR/sights/ephesus-museum-selcuk.yaml) | 8.8 / 9.0 / 9.2 / 8.9 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer. |
+| [TR/sanliurfa-archaeology-mosaic-museums](../../../countries/TR/sights/sanliurfa-archaeology-mosaic-museums.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.4 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending. All four peers in Türkiye; further cross-country comparison pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Large in-situ mosaic and architectural remains. |
+| Uniqueness | 9.3 | Distinct integration of excavation and contemporary building. |
+| Significance | 9.1 | Important multi-period Antioch archaeology. |
+| Experience | 8.9 | Dedicated museum experience. |
+| Depth | 8.9 | Multiple archaeological layers and displays. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:9.2, photography:9.2.
+- Computed worldwide overall: 91.00/100.
+- High-score challenge: 90+ provisional; further international calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-mardin-museum — Mardin Archaeology and Ethnography Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/mardin-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated collections in former Syriac Catholic patriarchate building, distinct from historic city street experience; independent ministry museum listing https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2148-mardin-muzesi/2148/4. Wikipedia longitude appears erroneous; use published city-centre point.
+- Location check: 37.3135, 40.7348; [published representative point](https://neresigezilir.com.tr/en/turkey/mardin/mardin-museum), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=MRD03); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/amasya-archaeology-museum](../../../countries/TR/sights/amasya-archaeology-museum.yaml) | 8.2 / 8.8 / 8.8 / 8.6 / 8.4 | impact: +0.3 vs peer; depth: +0.2 vs peer. |
+| [TR/kayseri-archaeology-museum](../../../countries/TR/sights/kayseri-archaeology-museum.yaml) | 8.6 / 8.8 / 9.1 / 8.7 / 8.7 | significance: -0.3 vs peer; impact: -0.1 vs peer. |
+| [TR/izmir-archaeological-museum](../../../countries/TR/sights/izmir-archaeological-museum.yaml) | 8.5 / 8.7 / 8.9 / 8.7 / 8.8 | depth: -0.2 vs peer; significance: -0.1 vs peer. |
+| [TR/van-museum](../../../countries/TR/sights/van-museum.yaml) | 8.8 / 9.1 / 9.2 / 8.8 / 9.0 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending. All four peers in Türkiye; further cross-country comparison pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Attractive historic museum and regional displays. |
+| Uniqueness | 8.7 | Distinct local ethnography and archaeology. |
+| Significance | 8.8 | Important Mesopotamian regional heritage. |
+| Experience | 8.7 | Dedicated gallery experience. |
+| Depth | 8.6 | Multiple collections and floors. |
+
+- Applicable categories: history:9.2, culture:9.2, architecture:9.0.
+- Computed worldwide overall: 86.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-cavustepe-fortress — Çavuştepe Urartian Fortress — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/cavustepe-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Upper and lower Urartian fortresses on ridge near Gürpınar; distinct from Tushpa/Van Fortress. Ministry https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2252-van-cavustepe-castle/2252/4 and visitor guide https://turkeyora.com/en/places/cavustepe-kalesi corroborate locality; representative point not necessarily entrance.
+- Location check: 38.35318, 43.45883; [published representative point](https://mapcarta.com/N10998341306), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=VCK01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/van-fortress](../../../countries/TR/sights/van-fortress.yaml) | 9.0 / 9.1 / 9.3 / 8.6 / 8.9 | impact: -0.5 vs peer; depth: -0.4 vs peer. |
+| [TR/hattusha](../../../countries/TR/sights/hattusha.yaml) | 8.8 / 9.0 / 9.4 / 8.6 / 8.8 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [TR/karatepe-aslantas](../../../countries/TR/sights/karatepe-aslantas.yaml) | 8.7 / 9.3 / 9.3 / 8.7 / 8.7 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer. |
+| [TR/gordion](../../../countries/TR/sights/gordion.yaml) | 7.8 / 8.6 / 9.1 / 8.0 / 7.8 | impact: +0.7 vs peer; depth: +0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending. All four peers in Türkiye; further cross-country comparison pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Evocative ridge ruins. |
+| Uniqueness | 8.9 | Distinct Urartian temple and palace plan. |
+| Significance | 9.0 | Significant Urartian royal foundation. |
+| Experience | 8.4 | Established outdoor archaeological visit. |
+| Depth | 8.5 | Multiple architectural remains. |
+
+- Applicable categories: history:9.3, architecture:9.0, photography:9.0.
+- Computed worldwide overall: 86.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-amasra-historic-harbour — Amasra Historic Harbour and Castle — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/amasra-historic-harbour.yaml)
+- Action: new
+- Precise subject and limitations: Two connected fortress sections, Kemere bridge and immediately adjoining harbour townscape grouped. DMS converted from 2026 Genoese maritime network tentative list; no serial aggregate added, no separate castle entry.
+- Location check: 41.750789, 32.384397; [published representative point](https://whc.unesco.org/fr/listesindicatives/7030/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.visitbartin.com/place/amasra-kalesi); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/antalya-kaleici](../../../countries/TR/sights/antalya-kaleici.yaml) | 8.9 / 8.8 / 8.9 / 9.0 / 8.9 | significance: -0.2 vs peer; experience: -0.1 vs peer. |
+| [TR/alanya-castle](../../../countries/TR/sights/alanya-castle.yaml) | 9.1 / 8.9 / 9.1 / 9.0 / 9.1 | significance: -0.4 vs peer; depth: -0.3 vs peer. |
+| [TR/mamure-castle](../../../countries/TR/sights/mamure-castle.yaml) | 9.0 / 8.9 / 8.9 / 8.8 / 8.8 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+| [TR/gaziantep-historic-quarter](../../../countries/TR/sights/gaziantep-historic-quarter.yaml) | 8.8 / 8.8 / 8.8 / 9.0 / 8.9 | impact: +0.1 vs peer; significance: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending. All four peers in Türkiye; further cross-country comparison pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Scenic fortified coastal setting. |
+| Uniqueness | 8.8 | Distinct linked island and mainland fortifications. |
+| Significance | 8.7 | Layered maritime heritage. |
+| Experience | 8.9 | Walkable harbour and castle landscape. |
+| Depth | 8.8 | Multiple connected historic elements. |
+
+- Applicable categories: photography:9.3, architecture:9.2, history:9.1, culture:9.0.
+- Computed worldwide overall: 88.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-sinop-fortress-prison — Sinop Historic Fortress and Prison Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/sinop-fortress-prison.yaml)
+- Action: new
+- Precise subject and limitations: Fortifications and historic prison museum grouped; prison lies within fortress according to ministry https://muze.gov.tr/Language/Index/EN?url=%2Fmuze-detay%3FSectionId%3DSCE01%26DistId%3DMRK. DMS fortress point; not prison entrance. Genoese serial aggregate not added.
+- Location check: 42.028478, 35.146475; [published representative point](https://whc.unesco.org/fr/listesindicatives/7030/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2233-sinop-historical-prison/2233/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/rumeli-fortress](../../../countries/TR/sights/rumeli-fortress.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 8.6 | impact: -0.3 vs peer; significance: -0.1 vs peer. |
+| [TR/mamure-castle](../../../countries/TR/sights/mamure-castle.yaml) | 9.0 / 8.9 / 8.9 / 8.8 / 8.8 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer. |
+| [TR/ankara-castle](../../../countries/TR/sights/ankara-castle.yaml) | 8.7 / 8.6 / 8.8 / 8.8 / 8.5 | uniqueness: +0.2 vs peer; depth: +0.2 vs peer. |
+| [TR/alanya-castle](../../../countries/TR/sights/alanya-castle.yaml) | 9.1 / 8.9 / 9.1 / 9.0 / 9.1 | impact: -0.5 vs peer; depth: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending. All four peers in Türkiye; further cross-country comparison pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Historic coastal walls and prison architecture. |
+| Uniqueness | 8.8 | Distinct layered fortification and penal heritage. |
+| Significance | 8.9 | Important regional maritime and social history. |
+| Experience | 8.7 | Dedicated historic museum and exterior visit. |
+| Depth | 8.7 | Complementary fortifications and museum spaces. |
+
+- Applicable categories: history:9.3, architecture:9.1, culture:9.0, photography:9.0.
+- Computed worldwide overall: 87.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

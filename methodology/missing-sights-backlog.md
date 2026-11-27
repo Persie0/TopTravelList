@@ -1283,3 +1283,13 @@ Six additions, 24 peer rows. Türkiye 139 ranked / 139 total. Antalya museum ran
 - [x] TR — Seleucia Pieria Titus Tunnel and Beşikli Cave: 89.25/100 (source-linked-unverified).
 
 Five additions, 20 peer rows. Türkiye 144 ranked / 144 total. Deyrulzafaran retained within Mardin Cultural Landscape because the existing tentative-property description expressly includes it (https://whc.unesco.org/en/tentativelists/1406); future Tur Abdin serial scope must not duplicate existing components. Van museum rated on established collection despite official closure notice; Van fortress excludes indoor collection; Amasya museum distinct from historic ensemble; Titus tunnel and Beşikli cave grouped. Next bounded screen: Necmi Asfuroğlu Antakya Museum, Mardin Museum, Çavuştepe Urartian Fortress, Amasra historic harbour and castle, Sinop historic fortress and prison (scope check), and Ihlara Valley parent-scope review. Full Python validation pending.
+
+### Pass 111 — Türkiye independent collections, Urartian and Black Sea heritage
+
+- [x] TR — Necmi Asfuroğlu Archaeology Museum Antakya: 91.00/100 (source-linked-unverified).
+- [x] TR — Mardin Archaeology and Ethnography Museum: 86.50/100 (source-linked-unverified).
+- [x] TR — Çavuştepe Urartian Fortress: 86.85/100 (source-linked-unverified).
+- [x] TR — Amasra Historic Harbour and Castle: 88.25/100 (source-linked-unverified).
+- [x] TR — Sinop Historic Fortress and Prison Museum: 87.35/100 (source-linked-unverified).
+
+Five additions, 20 peer rows. Türkiye 149 ranked / 149 total. Ihlara remains overlap-flagged: Turkish National Commission UNESCO publication indexed excerpt (https://unesco.org.tr/Content_Files/Content/Yayinlar/unesco_dma_kitap.pdf) refers to its inclusion in site boundaries, whereas current UNESCO property description (https://whc.unesco.org/en/list/357/) does not explicitly name Ihlara. Exact registered polygon not verified; neither inclusion nor exclusion asserted. Do not create duplicate until scope resolved. Necmi museum independent of Hatay museum; Mardin museum independent collections; Çavuştepe separate from Van fortress; Amasra and Sinop grouped local monuments. Next bounded screen: Çeşme Castle, Foça historic harbour, Güvercinada Castle Kuşadası, Assos archaeological site, Mount Ida scope check, and Sümela/Trabzon Hagia Sophia independent scope check. Full Python validation pending.
