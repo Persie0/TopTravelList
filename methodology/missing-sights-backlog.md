@@ -4487,3 +4487,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] ZA — Knysna Oyster Festival Food and Outdoor Cultural Events: 85.35/100 (desk-based provisional).
 
 15 additions, 8 source-linked provisional, 7 desk-based provisional, 7 90+, 37 ranking-row comparisons (7 international). ZA 90 ranked / 96 total, +62 since baseline. Blue Train and Rovos domestic Pretoria–Cape Town grouped, off-train attractions non-additive. Castle and Slave Lodge separately scoped as distinct museum collections. Bloukrans bridge adventure excludes Garden Route park trails; Swartberg Pass road scope only, broader Cape Floral aggregate overlap non-additive and pending boundary verification. Durban July spectator event excludes gambling, animal welfare unverified. Prior Constitution Hill, Maropeng, De Hoop, Bontebok, Richtersveld, Meerkat and Sani Pass deferrals retained. Coordinates approximate, access and schedules unverified. Six unassessed and existing scores preserved; discovery queue open.
+
+### Pass 253 — South Africa regional wildlife, heritage and sporting experiences
+
+- [x] ZA — Phinda Private Game Reserve Sand Forest and Wildlife Safaris: 92.15/100 (source-linked-unverified).
+- [x] ZA — Freedom Park Pretoria Memorial and //hapo Museum: 91.20/100 (source-linked-unverified).
+- [x] ZA — Market Theatre Johannesburg Live Theatre and Anti-Apartheid Cultural Heritage: 91.25/100 (source-linked-unverified).
+- [x] ZA — Jeffreys Bay Supertubes Surf Break and Coastal Surf Culture: 90.80/100 (source-linked-unverified).
+- [x] ZA — Shamwari Private Game Reserve Eastern Cape Conservation Safaris: 90.45/100 (source-linked-unverified).
+- [x] ZA — Cape Town SVNS International Rugby Sevens Spectator Festival: 90.10/100 (source-linked-unverified).
+- [x] ZA — Wildebeest Kuil Rock Art Centre Kimberley Rock Engravings: 88.60/100 (source-linked-unverified).
+- [x] ZA — South African Air Force Museum Swartkop Aviation Heritage Collections: 86.35/100 (source-linked-unverified).
+- [x] ZA — Stony Point Nature Reserve Betty’s Bay African Penguin Colony: 87.00/100 (desk-based provisional).
+- [x] ZA — Sudwala Caves Mpumalanga Limestone Cave Tours: 86.25/100 (desk-based provisional).
+- [x] ZA — Durban Botanic Gardens Historic Subtropical Plant Collections: 86.25/100 (desk-based provisional).
+- [x] ZA — Wits Art Museum Johannesburg African Art Collections: 87.40/100 (desk-based provisional).
+- [x] ZA — Soutpansberg Limpopo Mountain Forest and Birdwatching Trails: 86.10/100 (desk-based provisional).
+- [x] ZA — Outeniqua Transport Museum George Railway Heritage Collections: 86.45/100 (desk-based provisional).
+
+14 additions, 8 source-linked provisional, 6 desk-based provisional, 6 90+, 34 ranking-row comparisons (6 international). ZA 104 ranked / 110 total, +76 since baseline. Phinda and Shamwari distinct reserves; Freedom Park not a named Mandela Legacy component; Market Theatre separate live performance venue. Jeffreys Bay permanent surfing only; 2026 WSL event loss documented, future return not assumed. Cape Town SVNS recurring event only. Wildebeest Kuil in situ engravings distinct from Origins Centre. Stony Point and Boulders separate colonies, species overlap non-additive. Prior deferrals retained; Hector Pieterson and Liliesleaf not separately added due Mandela serial scope. Coordinates approximate, access and schedules unverified. Six unassessed and existing scores preserved; discovery queue open for targeted final regional and park screen.
