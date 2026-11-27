@@ -4213,3 +4213,254 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 264 scope decisions
 
 12 additions, 11 source-linked provisional, 1 desk-based provisional, 4 90+, 40 ranking-row comparisons (16 international). PE 198 ranked / 200 total, +134 since baseline 66. Corpus Christi, Santurantikuy and Señor de los Temblores are distinct recurring events, no overlapping Cusco Holy Week umbrella. Raqchi and Chinchero combine archaeology and community experiences, exclude Qhapaq Ñan mileage. Calipuy sanctuary and reserve separate visitor scopes. Puerto Prado distinct from Pacaya Samiria; Infierno deferred because SERNANP explicitly includes it in Tambopata visitor scope (https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/). Earlier UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Earlier restricted-area and serial-scope deferrals retained. Queue OPEN: additional high-value omissions found; next bounded screen of Sacred Valley regional routes, highland heritage and significant festivals, no quotas. Existing scores and two unassessed preserved. Coordinates approximate; schedules and current access unverified.
+
+## sight-pe-huaconada-mito — Mito Huaconada January Masked Ritual Dance Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huaconada-mito.yaml)
+- Action: new
+- Scope: Annual masked ritual dance in Mito town centre on the first three days of January; UNESCO intangible heritage inscription in 2010. Separate from Huaylarsh and Tunantada.
+- Representative coordinates: -11.94, -75.34; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.4.
+- Overall: 92.20/100.
+- Source: https://ich.unesco.org/en/RL/huaconada-ritual-dance-of-mito-00390
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2094
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huancavelica-scissors-dance](../../../countries/PE/sights/huancavelica-scissors-dance.yaml) | 9.1 / 9.4 / 9.4 / 9.1 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/negritos-huanuco](../../../countries/PE/sights/negritos-huanuco.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: +0.0; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-el-carmen-hatajo-pallitas — El Carmen Chincha Christmas Hatajo de Negritos and Pallitas Dance Celebrations — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/el-carmen-hatajo-pallitas.yaml)
+- Action: new
+- Scope: Complementary Afro-Peruvian and mestizo musical and dance traditions, UNESCO inscription 2019; public Christmas celebrations in El Carmen documented by official tourism board. Group both expressions; distinct from Huanuco Negritos and Ica harvest festival.
+- Representative coordinates: -13.5, -76.057; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.65/100.
+- Source: https://ich.unesco.org/en/RL/hatajo-de-negritos-and-hatajo-de-pallitas-from-the-peruvian-south-central-coastline-01309
+- Source: https://www.peru.travel/stories/4-peruvian-customs-celebrated-at-christmas
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11878
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/negritos-huanuco](../../../countries/PE/sights/negritos-huanuco.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.1 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/huancavelica-scissors-dance](../../../countries/PE/sights/huancavelica-scissors-dance.yaml) | 9.1 / 9.4 / 9.4 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: -0.1; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chivay-wititi — Chivay Immaculate Conception Festival and Colca Wititi Dance — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chivay-wititi.yaml)
+- Action: new
+- Scope: Named December public festival with Wititi dance contests and processions. UNESCO inscription of the dance in 2015, not festival or canyon. Excludes already-ranked Colca Canyon scenery and other town festivals.
+- Representative coordinates: -15.638, -71.602; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.35/100.
+- Source: https://ich.unesco.org/en/RL/wititi-dance-of-the-colca-valley-01056
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4608
+- Source: https://www.colcaperu.gob.pe/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [PE/huaylarsh-route](../../../countries/PE/sights/huaylarsh-route.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-jauja-tunantada — Jauja Yauyos Tunantada Traditional Dance and Patron Saints Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/jauja-tunantada.yaml)
+- Action: new
+- Scope: January celebrations honoring San Fabian and San Sebastian; dance declared national cultural heritage 2011. Official newspaper reported 39 local dance institutions and projected 70,000 visitors in 2026 (not actual attendance). Separate from Huaconada and Huaylarsh.
+- Representative coordinates: -11.784, -75.49; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.60/100.
+- Source: https://www.gob.pe/institucion/cultura/noticias/5486-ministerio-de-cultura-encabezo-presentacion-oficial-de-festividades-en-honor-a-los-patronos-de-san-sebastian-y-san-fabian-en-jauja
+- Source: https://elperuano.pe/noticia/287059-tunantada-jauja-proyecta-recibir-a-unos-70000-visitantes
+- Source: https://www.regionjunin.gob.pe/noticia/id/2026012143_jauja_vibra_al_ritmo_de_su_majestad_la_tunantada/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/raymi-llaqta-chachapoyas](../../../countries/PE/sights/raymi-llaqta-chachapoyas.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PE/huaylarsh-route](../../../countries/PE/sights/huaylarsh-route.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: +0.0; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-andahuaylas-pukllay — Andahuaylas Pukllay National Traditional Carnival Gathering — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/andahuaylas-pukllay.yaml)
+- Action: new
+- Scope: National carnival gathering, twentieth edition held in 2026, with public dance competition and parades. Does not claim that heritage designation for Pomacocha applies to this event.
+- Representative coordinates: -13.656, -73.387; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.4 photography:9.3 food:9.1.
+- Overall: 91.10/100.
+- Source: https://elperuano.pe/noticia/291250-carnaval-originario-pukllay-2026
+- Source: https://www.gob.pe/institucion/irtp/noticias/1358452-pukllay-2026-sera-transmitido-desde-andahuaylas-a-todo-el-peru-por-multiplataforma-del-irtp
+- Source: https://andina.pe/agencia/noticia-fiesta-desbordante-andahuaylas-pasacalle-empieza-carnaval-originario-pukllay-2026-1066844.aspx
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/raymi-llaqta-chachapoyas](../../../countries/PE/sights/raymi-llaqta-chachapoyas.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/rio-carnival](../../../countries/BR/sights/rio-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.6 / 9.4 | impact: -0.6; uniqueness: -0.4 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: -0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-waqrapukara — Waqrapukara Horn-Shaped Highland Fortress and Archaeological Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/waqrapukara.yaml)
+- Action: new
+- Scope: Separate archaeological landscape in Acos, declared national cultural heritage 2017; official tourism inventory documents walking approach. Exclude other Inca trek routes.
+- Representative coordinates: -13.859, -71.685; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.8 / 8.8 / 8.8.
+- Categories: history:9.3 photography:9.4 adventure:9.3.
+- Overall: 89.95/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1828
+- Source: https://www.peru.travel/stories/waqrapukara-an-imposing-inka-fortress-in-the-heights-of-cusco
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11519
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huchuy-qosqo](../../../countries/PE/sights/huchuy-qosqo.yaml) | 8.8 / 8.8 / 8.8 / 8.6 / 8.5 | impact: +0.4; uniqueness: +0.3 vs peer |
+| [PE/gran-vilaya](../../../countries/PE/sights/gran-vilaya.yaml) | 9.1 / 9.2 / 9.1 / 8.7 / 9.1 | impact: +0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lares-valley-trek — Lares Valley Highland Lakes and Community Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lares-valley-trek.yaml)
+- Action: new
+- Scope: Official tourism board describes glacial lakes, hot springs and trekking routes. Excludes Ollantaytambo ruins, Machu Picchu and overlaps with already-rated Inca Trail; community visits by consent.
+- Representative coordinates: -13.105, -72.045; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.7 / 8.9 / 8.9.
+- Categories: nature:9.3 adventure:9.4 culture:9.2.
+- Overall: 88.90/100.
+- Source: https://www.peru.travel/attractions/lares
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ausangate-trek](../../../countries/PE/sights/ausangate-trek.yaml) | 9.5 / 9.3 / 8.9 / 8.9 / 9.2 | impact: -0.5; uniqueness: -0.4 vs peer |
+| [PE/salkantay-trek](../../../countries/PE/sights/salkantay-trek.yaml) | 9.2 / 8.9 / 8.6 / 9.0 / 9.1 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-tipon-water-terraces — Tipón Inca Archaeological Water Terraces and Hydraulic Engineering — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/tipon-water-terraces.yaml)
+- Action: new
+- Scope: Distinct hydraulic archaeological complex, excludes Pikillacta and the Andean Baroque churches. Desk assessment.
+- Representative coordinates: -13.563, -71.783; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.1 / 8.5 / 8.5.
+- Categories: history:9.3 architecture:9.3 photography:9.2.
+- Overall: 88.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/piquillacta](../../../countries/PE/sights/piquillacta.yaml) | 8.6 / 8.9 / 9.2 / 8.6 / 8.8 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/moray-archaeological-site](../../../countries/PE/sights/moray-archaeological-site.yaml) | 8.8 / 9.2 / 8.6 / 8.5 / 7.4 | impact: +0.0; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-sondor-archaeological-complex — Sóndor Chanka and Inca Archaeological Complex Andahuaylas — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/sondor-archaeological-complex.yaml)
+- Action: new
+- Scope: Separate archaeological complex in Apurimac; no separate Sondor Raymi event score without visitor-scope assessment. Desk assessment.
+- Representative coordinates: -13.655, -73.246; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.9 / 8.4 / 8.4.
+- Categories: history:9.2 architecture:9.1 photography:9.1.
+- Overall: 86.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/vilcashuaman](../../../countries/PE/sights/vilcashuaman.yaml) | 8.9 / 9.1 / 9.3 / 8.8 / 9.1 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [PE/piquillacta](../../../countries/PE/sights/piquillacta.yaml) | 8.6 / 8.9 / 9.2 / 8.6 / 8.8 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-jauja-historic-centre — Jauja Historic Centre and Colonial Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/jauja-historic-centre.yaml)
+- Action: new
+- Scope: Permanent built heritage and public spaces separate from the Tunantada festival; desk assessment.
+- Representative coordinates: -11.775, -75.497; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.3 / 8.7 / 8.6 / 8.5.
+- Categories: history:9.1 culture:9.1 architecture:9.0.
+- Overall: 84.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tarma-historic-centre](../../../countries/PE/sights/tarma-historic-centre.yaml) | 8.4 / 8.4 / 8.3 / 8.6 / 8.5 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/chachapoyas-historic-centre](../../../countries/PE/sights/chachapoyas-historic-centre.yaml) | 8.5 / 8.5 / 8.7 / 8.7 / 8.5 | impact: -0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-killarumiyoq — Killarumiyoq Inca Archaeological Sanctuary and Carved Stone Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/killarumiyoq.yaml)
+- Action: new
+- Scope: Distinct archaeological site near Ancahuasi; no claim of specific astronomical function. Desk assessment.
+- Representative coordinates: -13.454, -72.24; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.7 / 8.3 / 8.2.
+- Categories: history:9.1 culture:9.1 photography:9.0.
+- Overall: 85.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/moray-archaeological-site](../../../countries/PE/sights/moray-archaeological-site.yaml) | 8.8 / 9.2 / 8.6 / 8.5 / 7.4 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [PE/cutimbo](../../../countries/PE/sights/cutimbo.yaml) | 8.5 / 8.9 / 8.9 / 8.4 / 8.4 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 265 scope decisions
+
+11 additions, 7 source-linked provisional, 4 desk-based provisional, 5 90+, 42 ranking-row comparisons (20 international). PE 209 ranked / 211 total, +145 since baseline 66. UNESCO intangible inscriptions apply to Huaconada, Hatajo/Pallitas and Wititi practices, not to a whole destination; Wititi scoped to Chivay December event, Hatajo/Pallitas combined and distinguished from Huanuco Negritos. Tunantada distinct from Huaylarsh. Pukllay Andahuaylas distinguished from Pomacocha local heritage designation. Lares excludes Ollantaytambo and Inca Trail; Tipon excludes Pikillacta. Qenqo/Puka Pukara/Tambomachay grouped candidate deferred pending Sacsayhuaman scope check. Earlier UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Earlier restricted-area and serial-scope deferrals retained. Queue OPEN after five high-value festival omissions; next screen remaining public manifestations from UNESCO intangible inventory and distinctive regional landscapes; no quotas. Existing scores and two unassessed preserved. Coordinates approximate; schedules and current access unverified.

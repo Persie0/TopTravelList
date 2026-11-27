@@ -4707,3 +4707,19 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Huchuy Qosqo Inca Archaeological Site and Highland Trek: 87.40/100 (desk-based provisional).
 
 12 additions, 11 source-linked provisional, 1 desk-based provisional, 4 90+, 40 ranking-row comparisons (16 international). PE 198 ranked / 200 total, +134 since baseline 66. Corpus Christi, Santurantikuy and Señor de los Temblores are distinct recurring events, no overlapping Cusco Holy Week umbrella. Raqchi and Chinchero combine archaeology and community experiences, exclude Qhapaq Ñan mileage. Calipuy sanctuary and reserve separate visitor scopes. Puerto Prado distinct from Pacaya Samiria; Infierno deferred because SERNANP explicitly includes it in Tambopata visitor scope (https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/). Earlier UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Earlier restricted-area and serial-scope deferrals retained. Queue OPEN: additional high-value omissions found; next bounded screen of Sacred Valley regional routes, highland heritage and significant festivals, no quotas. Existing scores and two unassessed preserved. Coordinates approximate; schedules and current access unverified.
+
+### Pass 265 — Peru UNESCO living heritage, highland festivals and archaeological routes
+
+- [x] PE — Mito Huaconada January Masked Ritual Dance Festival: 92.20/100 (source-linked-unverified).
+- [x] PE — El Carmen Chincha Christmas Hatajo de Negritos and Pallitas Dance Celebrations: 91.65/100 (source-linked-unverified).
+- [x] PE — Chivay Immaculate Conception Festival and Colca Wititi Dance: 91.35/100 (source-linked-unverified).
+- [x] PE — Jauja Yauyos Tunantada Traditional Dance and Patron Saints Festival: 91.60/100 (source-linked-unverified).
+- [x] PE — Andahuaylas Pukllay National Traditional Carnival Gathering: 91.10/100 (source-linked-unverified).
+- [x] PE — Waqrapukara Horn-Shaped Highland Fortress and Archaeological Trek: 89.95/100 (source-linked-unverified).
+- [x] PE — Lares Valley Highland Lakes and Community Trek: 88.90/100 (source-linked-unverified).
+- [x] PE — Tipón Inca Archaeological Water Terraces and Hydraulic Engineering: 88.35/100 (desk-based provisional).
+- [x] PE — Sóndor Chanka and Inca Archaeological Complex Andahuaylas: 86.05/100 (desk-based provisional).
+- [x] PE — Jauja Historic Centre and Colonial Architecture: 84.15/100 (desk-based provisional).
+- [x] PE — Killarumiyoq Inca Archaeological Sanctuary and Carved Stone Landscape: 85.25/100 (desk-based provisional).
+
+11 additions, 7 source-linked provisional, 4 desk-based provisional, 5 90+, 42 ranking-row comparisons (20 international). PE 209 ranked / 211 total, +145 since baseline 66. UNESCO intangible inscriptions apply to Huaconada, Hatajo/Pallitas and Wititi practices, not to a whole destination; Wititi scoped to Chivay December event, Hatajo/Pallitas combined and distinguished from Huanuco Negritos. Tunantada distinct from Huaylarsh. Pukllay Andahuaylas distinguished from Pomacocha local heritage designation. Lares excludes Ollantaytambo and Inca Trail; Tipon excludes Pikillacta. Qenqo/Puka Pukara/Tambomachay grouped candidate deferred pending Sacsayhuaman scope check. Earlier UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Earlier restricted-area and serial-scope deferrals retained. Queue OPEN after five high-value festival omissions; next screen remaining public manifestations from UNESCO intangible inventory and distinctive regional landscapes; no quotas. Existing scores and two unassessed preserved. Coordinates approximate; schedules and current access unverified.
