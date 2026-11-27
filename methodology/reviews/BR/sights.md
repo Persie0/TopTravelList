@@ -3561,3 +3561,211 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 243 scope decisions
 
 16 additions, 9 source-linked provisional, 7 desk-based provisional, 7 90+, 46 ranking-row comparisons (14 international). BR 164 ranked / 167 total. Salvador Bonfim and Iemanjá distinct public events, not Carnival or built heritage. Pirenópolis festival excludes permanent historic centre; Caruaru distinct from Campina Grande. Serra Verde Express dedicated rail journey only, Atlantic Forest scenery non-additive; São João del-Rei–Tiradentes railway deferred pending separate experience assessment (https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeituras-de-sao-joao-del-rei-e-tiradentes-assinam-cessao-de-complexo-ferroviario). Boipeba excludes Tinharé. Prior PETAR, Bocaina, Mamirauá, Caatinga, Bodoquena and Roraima deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
+
+## sight-br-turvo-yucuma — Turvo State Park Yucumã Falls Brazilian Riverbank Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/turvo-yucuma.yaml)
+- Action: new
+- Scope: Brazilian riverbank and forest circuit; shared transboundary waterfall non-additive. The state describes a 1.8 km longitudinal cascade formed along a geological fault.
+- Representative coordinates: -27.15, -53.89; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.2 / 9.4 / 8.9 / 8.8 / 8.7.
+- Categories: nature:9.4 photography:9.4 wildlife:9.1.
+- Overall: 90.80/100.
+- Source: https://www.sema.rs.gov.br/parque-estadual-do-turvo
+- Source: https://www.sgb.gov.br/geossit/geossitios/ver/2155
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/iguacu-falls-brazilian-viewpoints](../../../countries/BR/sights/iguacu-falls-brazilian-viewpoints.yaml) | 9.9 / 9.8 / 9.2 / 9.5 / 7.8 | impact: -0.7 vs peer; uniqueness: -0.4 vs peer |
+| [BR/xingo-canyon](../../../countries/BR/sights/xingo-canyon.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.7 | impact: +0.3 vs peer; uniqueness: +0.6 vs peer |
+| [ZA/augrabies-falls](../../../countries/ZA/sights/augrabies-falls.yaml) | 9.0 / 8.8 / 8.6 / 8.7 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.6 vs peer |
+| [AR/iguazu-falls-argentine-circuits](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) | 9.9 / 9.8 / 9.2 / 9.6 / 8.6 | impact: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-lagoa-do-peixe — Lagoa do Peixe National Park Coastal Wetland Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/lagoa-do-peixe.yaml)
+- Action: new
+- Scope: Coastal wetland birding; distinct from Taim. ICMBio documents Ramsar status and international shorebird-network designation.
+- Representative coordinates: -31.31, -51.08; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.4 / 8.8 / 9.1.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 90.25/100.
+- Source: https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-da-lagoa-do-peixe/informacoes-sobre-visitacao-parna-da-lagoa-do-peixe
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/cristalino-reserve](../../../countries/BR/sights/cristalino-reserve.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [BR/southern-right-whales](../../../countries/BR/sights/southern-right-whales.yaml) | 9.2 / 9.2 / 9.1 / 9.1 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer |
+| [AR/ibera-national-park](../../../countries/AR/sights/ibera-national-park.yaml) | 8.9 / 8.9 / 9.2 / 8.8 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.2 vs peer |
+| [ZA/isimangaliso-wetland-park](../../../countries/ZA/sights/isimangaliso-wetland-park.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.3 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-sao-joao-tiradentes-railway — São João del-Rei–Tiradentes Maria Fumaça Heritage Railway — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/sao-joao-tiradentes-railway.yaml)
+- Action: new
+- Scope: Dedicated historic railway ride and railway museum, not either town's architecture. IPHAN documents federal protection of the track, rolling stock and collection; operator describes the riverside journey.
+- Representative coordinates: -21.134, -44.254; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 8.9 / 8.9.
+- Categories: history:9.4 culture:9.3 photography:9.2.
+- Overall: 90.35/100.
+- Source: https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeituras-de-sao-joao-del-rei-e-tiradentes-assinam-cessao-de-complexo-ferroviario
+- Source: https://www.efom.org.br/trajeto/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/serra-verde-express](../../../countries/BR/sights/serra-verde-express.yaml) | 9.1 / 9.1 / 9.1 / 9.3 / 9.1 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [BR/paranapiacaba-railway-village](../../../countries/BR/sights/paranapiacaba-railway-village.yaml) | 7.8 / 8.5 / 8.5 / 7.9 / 7.4 | impact: +1.1 vs peer; uniqueness: +0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-vale-dos-vinhedos — Vale dos Vinhedos Vineyard Landscapes and Winery Visitor Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/vale-dos-vinhedos.yaml)
+- Action: new
+- Scope: Wine estates and cultural landscape; Brazil's first wine denomination of origin according to Embrapa.
+- Representative coordinates: -29.17, -51.56; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.8 / 9.1 / 9.0.
+- Categories: food:9.3 relaxation:9.2 culture:9.0.
+- Overall: 88.15/100.
+- Source: https://www.embrapa.br/web/uva-e-vinho/indicacoes-geograficas-de-vinhos-do-brasil/do-vale-dos-vinhedos
+- Source: https://www.turismo.rs.gov.br/turismo/atrativo/visualizar/3573
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/trancoso-quadrado](../../../countries/BR/sights/trancoso-quadrado.yaml) | 8.7 / 8.6 / 8.7 / 8.8 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [BR/pirenopolis-historic-centre](../../../countries/BR/sights/pirenopolis-historic-centre.yaml) | 8.6 / 8.6 / 8.8 / 8.7 / 8.7 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+| [AR/mendoza-wine-region-participating-estates](../../../countries/AR/sights/mendoza-wine-region-participating-estates.yaml) | 8.5 / 8.6 / 8.2 / 9.4 / 9.1 | impact: +0.3 vs peer; uniqueness: +0.0 vs peer |
+| [ZA/cape-winelands](../../../countries/ZA/sights/cape-winelands.yaml) | 9.0 / 8.7 / 8.7 / 9.3 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-sao-joaquim-national-park — São Joaquim National Park Morro da Igreja and Pedra Furada — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/sao-joaquim-national-park.yaml)
+- Action: new
+- Scope: Highland rock arch and park viewpoints; excludes Serra do Rio do Rastro road. ICMBio documents dedicated visitor scheduling.
+- Representative coordinates: -28.13, -49.47; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 8.7 / 8.9.
+- Categories: nature:9.3 photography:9.4 adventure:9.0.
+- Overall: 88.15/100.
+- Source: https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/mata-atlantica/lista-de-ucs/parna-de-sao-joaquim/agendamento
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/serra-rio-rastro](../../../countries/BR/sights/serra-rio-rastro.yaml) | 8.9 / 8.8 / 8.3 / 8.9 / 8.5 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [BR/itatiaia](../../../countries/BR/sights/itatiaia.yaml) | 8.9 / 8.8 / 8.9 / 8.9 / 9.0 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-caracol-state-park — Caracol State Park Waterfall and Forest Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/caracol-state-park.yaml)
+- Action: new
+- Scope: Waterfall viewpoint and forest visit, excluding other Canela attractions.
+- Representative coordinates: -29.31, -50.86; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.4 / 8.2 / 8.8 / 8.5.
+- Categories: nature:9.1 photography:9.3 family:8.9.
+- Overall: 85.50/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/boca-da-onca](../../../countries/BR/sights/boca-da-onca.yaml) | 8.9 / 8.8 / 8.6 / 9.0 / 8.8 | impact: -0.1 vs peer; uniqueness: -0.4 vs peer |
+| [BR/guartela-canyon](../../../countries/BR/sights/guartela-canyon.yaml) | 8.7 / 8.7 / 8.5 / 8.8 / 8.7 | impact: +0.1 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-caminhos-de-pedra — Caminhos de Pedra Italian-Brazilian Rural Heritage Route — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/caminhos-de-pedra.yaml)
+- Action: new
+- Scope: Historic rural buildings and immigrant traditions, separate from Vale dos Vinhedos winery circuit.
+- Representative coordinates: -29.17, -51.47; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.7 / 8.8 / 8.8 / 8.7.
+- Categories: culture:9.2 history:9.1 food:9.0.
+- Overall: 86.15/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/lapa-historic-centre](../../../countries/BR/sights/lapa-historic-centre.yaml) | 8.3 / 8.6 / 8.9 / 8.5 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [BR/pirenopolis-historic-centre](../../../countries/BR/sights/pirenopolis-historic-centre.yaml) | 8.6 / 8.6 / 8.8 / 8.7 / 8.7 | impact: -0.3 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-serra-do-papagaio — Serra do Papagaio State Park Mantiqueira Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/serra-do-papagaio.yaml)
+- Action: new
+- Scope: Separate protected area and hiking experience outside Itatiaia; coordinates representative.
+- Representative coordinates: -22.08, -44.72; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.4 / 8.5 / 8.8.
+- Categories: nature:9.2 adventure:9.2 photography:9.1.
+- Overall: 85.95/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/itatiaia](../../../countries/BR/sights/itatiaia.yaml) | 8.9 / 8.8 / 8.9 / 8.9 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [BR/caparao-national-park](../../../countries/BR/sights/caparao-national-park.yaml) | 8.8 / 8.7 / 8.8 / 8.9 / 8.9 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-serras-gerais — Serras Gerais Tocantins Canyons Springs and Waterfall Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/serras-gerais.yaml)
+- Action: new
+- Scope: Southeastern Tocantins nature circuit; excludes Jalapão dunes and fervedouros.
+- Representative coordinates: -12.8, -47.1; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.3 / 8.6 / 8.8.
+- Categories: nature:9.2 adventure:9.2 photography:9.2.
+- Overall: 86.95/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/jalapao](../../../countries/BR/sights/jalapao.yaml) | 9.3 / 9.4 / 8.9 / 9.3 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+| [BR/chapada-das-mesas](../../../countries/BR/sights/chapada-das-mesas.yaml) | 9.2 / 9.1 / 8.9 / 9.3 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-sao-miguel-dos-milagres — São Miguel dos Milagres Alagoas Coastal Beaches — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/sao-miguel-dos-milagres.yaml)
+- Action: new
+- Scope: Local beaches and coastal walks; excludes Maragogi reef excursions.
+- Representative coordinates: -9.27, -35.38; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.4 / 8.0 / 8.8 / 8.5.
+- Categories: beaches:9.3 relaxation:9.3 photography:9.1.
+- Overall: 84.80/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/maragogi-natural-pools](../../../countries/BR/sights/maragogi-natural-pools.yaml) | 8.7 / 8.5 / 8.4 / 8.6 / 8.5 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [BR/boipeba](../../../countries/BR/sights/boipeba.yaml) | 8.9 / 8.8 / 8.4 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 244 scope decisions
+
+10 additions, 5 source-linked provisional, 5 desk-based provisional, 3 90+, 26 ranking-row comparisons (6 international). BR 174 ranked / 177 total. Yucumã Brazilian bank only, shared falls non-additive. Lagoa do Peixe separate from Taim. São João del-Rei–Tiradentes rail deferral resolved: federally protected railway and independent ride, excludes town architecture. Vale dos Vinhedos excludes Caminhos de Pedra; São Joaquim excludes Serra do Rio do Rastro. Ubajara and Sete Cidades deferred as components of existing tentative Caatinga serial property (https://whc.unesco.org/en/tentativelists/6896/); prior PETAR, Bocaina, Mamirauá, Bodoquena and Roraima deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.

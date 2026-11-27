@@ -4309,3 +4309,18 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Lapa Paraná Historic Centre and Siege Heritage: 85.65/100 (desk-based provisional).
 
 16 additions, 9 source-linked provisional, 7 desk-based provisional, 7 90+, 46 ranking-row comparisons (14 international). BR 164 ranked / 167 total. Salvador Bonfim and Iemanjá distinct public events, not Carnival or built heritage. Pirenópolis festival excludes permanent historic centre; Caruaru distinct from Campina Grande. Serra Verde Express dedicated rail journey only, Atlantic Forest scenery non-additive; São João del-Rei–Tiradentes railway deferred pending separate experience assessment (https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeituras-de-sao-joao-del-rei-e-tiradentes-assinam-cessao-de-complexo-ferroviario). Boipeba excludes Tinharé. Prior PETAR, Bocaina, Mamirauá, Caatinga, Bodoquena and Roraima deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
+
+### Pass 244 — Brazil southern wilderness, heritage railway and regional landscapes
+
+- [x] BR — Turvo State Park Yucumã Falls Brazilian Riverbank Circuit: 90.80/100 (source-linked-unverified).
+- [x] BR — Lagoa do Peixe National Park Coastal Wetland Birdwatching: 90.25/100 (source-linked-unverified).
+- [x] BR — São João del-Rei–Tiradentes Maria Fumaça Heritage Railway: 90.35/100 (source-linked-unverified).
+- [x] BR — Vale dos Vinhedos Vineyard Landscapes and Winery Visitor Circuit: 88.15/100 (source-linked-unverified).
+- [x] BR — São Joaquim National Park Morro da Igreja and Pedra Furada: 88.15/100 (source-linked-unverified).
+- [x] BR — Caracol State Park Waterfall and Forest Viewpoints: 85.50/100 (desk-based provisional).
+- [x] BR — Caminhos de Pedra Italian-Brazilian Rural Heritage Route: 86.15/100 (desk-based provisional).
+- [x] BR — Serra do Papagaio State Park Mantiqueira Hiking: 85.95/100 (desk-based provisional).
+- [x] BR — Serras Gerais Tocantins Canyons Springs and Waterfall Circuit: 86.95/100 (desk-based provisional).
+- [x] BR — São Miguel dos Milagres Alagoas Coastal Beaches: 84.80/100 (desk-based provisional).
+
+10 additions, 5 source-linked provisional, 5 desk-based provisional, 3 90+, 26 ranking-row comparisons (6 international). BR 174 ranked / 177 total. Yucumã Brazilian bank only, shared falls non-additive. Lagoa do Peixe separate from Taim. São João del-Rei–Tiradentes rail deferral resolved: federally protected railway and independent ride, excludes town architecture. Vale dos Vinhedos excludes Caminhos de Pedra; São Joaquim excludes Serra do Rio do Rastro. Ubajara and Sete Cidades deferred as components of existing tentative Caatinga serial property (https://whc.unesco.org/en/tentativelists/6896/); prior PETAR, Bocaina, Mamirauá, Bodoquena and Roraima deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.

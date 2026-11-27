@@ -1,0 +1,16 @@
+id: sight-br-vale-dos-vinhedos
+name: "Vale dos Vinhedos Vineyard Landscapes and Winery Visitor Circuit"
+location:
+  country_code: BR
+  latitude: -29.17
+  longitude: -51.56
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 9.1
+  depth: 9.0
+  categories:
+    food: 9.3
+    relaxation: 9.2
+    culture: 9.0

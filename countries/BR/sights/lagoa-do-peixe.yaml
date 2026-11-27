@@ -1,0 +1,16 @@
+id: sight-br-lagoa-do-peixe
+name: "Lagoa do Peixe National Park Coastal Wetland Birdwatching"
+location:
+  country_code: BR
+  latitude: -31.31
+  longitude: -51.08
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.8
+  depth: 9.1
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.2
