@@ -739,3 +739,16 @@ Five additions, 20 peer rows. Algeria 37 ranked / 47 total; 22 additions across 
 - [x] MA — Le Jardin Secret Marrakech: 83.65/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Morocco 37 ranked / 45 total; eight prior unassessed unchanged. Official Morocco tourism regional and nature pages screened. Chefchaouen public streets distinct from existing ticketed kasbah. Cape Spartel and Hercules Caves grouped; YSL museum separately ticketed from Majorelle. Dar Si Said and Tiskiwin deferred due to reported renovation closures (https://marrakechauthority.com/en/articles/musees-de-marrakech). Next Skoura Amridil, Taourirt, Atlas Studios, Telouet (check restoration), Paradise Valley, Legzira, American Legation, Dar El Bacha and other substantial regional experiences. Full Python validation and independent corroboration pending.
+
+### Pass 67 — southern Moroccan kasbahs, nature and museums
+
+- [x] MA — Skoura Oasis and Kasbah Amridil: 88.45/100 (source-linked-unverified).
+- [x] MA — Taourirt Kasbah: 86.25/100 (source-linked-unverified).
+- [x] MA — Atlas Film Studios Ouarzazate: 87.00/100 (source-linked-unverified).
+- [x] MA — Telouet Kasbah (Partial Access): 85.50/100 (source-linked-unverified).
+- [x] MA — Paradise Valley near Agadir: 83.05/100 (source-linked-unverified).
+- [x] MA — Legzira Beach and Coastal Arch: 84.30/100 (source-linked-unverified).
+- [x] MA — Tangier American Legation Museum: 85.75/100 (source-linked-unverified).
+- [x] MA — Dar El Bacha Museum of Confluences: 86.80/100 (source-linked-unverified).
+
+Eight additions and 32 peer rows; Morocco 45 ranked / 53 total. Telouet partial reopening documented; Taourirt access requires confirmation; Legzira collapsed arch excluded; Paradise Valley seasonal. Official Ouarzazate regional guide https://www.visitouarzazate.com/en/destinations/ouarzazate identifies further distinct candidates. Next Souss-Massa National Park, Fint Oasis, Draa Valley (bounded scope), Jbel Saghro, Taroudant walls, Tafraoute painted rocks, Agadir Oufella, Oualidia lagoon. Eight prior unassessed unchanged; full Python validation and independent corroboration pending.

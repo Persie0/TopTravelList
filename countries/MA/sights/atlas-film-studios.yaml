@@ -1,0 +1,17 @@
+id: sight-ma-atlas-film-studios
+name: "Atlas Film Studios Ouarzazate"
+location:
+  country_code: MA
+  latitude: 30.94178
+  longitude: -6.96691
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 9.0
+    photography: 9.2
+    family: 8.9
+    architecture: 8.8

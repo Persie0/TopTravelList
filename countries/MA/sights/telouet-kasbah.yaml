@@ -1,0 +1,16 @@
+id: sight-ma-telouet-kasbah
+name: "Telouet Kasbah (Partial Access)"
+location:
+  country_code: MA
+  latitude: 31.28711
+  longitude: -7.23674
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 7.9
+  depth: 7.7
+  categories:
+    architecture: 9.3
+    history: 9.0
+    photography: 9.0

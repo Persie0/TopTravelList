@@ -1139,3 +1139,314 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ma-skoura-amridil — Skoura Oasis and Kasbah Amridil — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/skoura-amridil.yaml)
+- Action: new
+- Precise subject and limitations: Earthen kasbah and nearby palm-grove walking circuit; separate from Ait Ben Haddou. No private gardens assumed accessible.
+- Location check: 31.046361, -6.58125; [published representative point](https://en.wikipedia.org/wiki/Kasbah_Amridil), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitouarzazate.com/en/destinations/skoura); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ait-ben-haddou](../../../countries/MA/sights/ait-ben-haddou.yaml) | 9.4 / 9.4 / 9.2 / 8.9 / 8.4 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [MA/figuig-oasis](../../../countries/MA/sights/figuig-oasis.yaml) | 8.5 / 9.0 / 8.9 / 8.3 / 8.5 | impact: +0.4 vs peer; experience: +0.4 vs peer. |
+| [DZ/timimoun-oasis](../../../countries/DZ/sights/timimoun-oasis.yaml) | 9.0 / 9.1 / 8.7 / 8.7 / 8.8 | depth: -0.2 vs peer; significance: +0.1 vs peer. |
+| [TN/tozeur-medina-palm-grove](../../../countries/TN/sights/tozeur-medina-palm-grove.yaml) | 8.8 / 8.9 / 8.7 / 8.8 / 8.8 | depth: -0.2 vs peer; significance: +0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Palm oasis and earthen towers. |
+| Uniqueness | 9.0 | Distinct oasis architecture. |
+| Significance | 8.8 | Regional fortified settlement heritage. |
+| Experience | 8.7 | Kasbah and palm paths. |
+| Depth | 8.6 | Several linked visitor features. |
+
+- Applicable categories: architecture:9.3, photography:9.3, culture:9.1, nature:8.8.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-taourirt-kasbah — Taourirt Kasbah — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/taourirt-kasbah.yaml)
+- Action: new
+- Precise subject and limitations: Historic earthen palace precinct and permitted rooms; current restoration-related opening must be confirmed. No closed rooms assumed.
+- Location check: 30.92012, -6.89943; [published representative point](https://mapcarta.com/N621322550), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitouarzazate.com/en/destinations/taourirt); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ait-ben-haddou](../../../countries/MA/sights/ait-ben-haddou.yaml) | 9.4 / 9.4 / 9.2 / 8.9 / 8.4 | impact: -0.7 vs peer; uniqueness: -0.7 vs peer. |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | experience: -0.6 vs peer; impact: -0.3 vs peer. |
+| [DZ/el-mechouar-palace](../../../countries/DZ/sights/el-mechouar-palace.yaml) | 8.7 / 8.8 / 8.8 / 8.5 / 8.3 | experience: -0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [DZ/ighzer-ksar](../../../countries/DZ/sights/ighzer-ksar.yaml) | 8.3 / 8.7 / 8.4 / 8.0 / 7.8 | depth: +0.5 vs peer; significance: +0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Impressive earthen palace. |
+| Uniqueness | 8.7 | Distinct regional building style. |
+| Significance | 8.9 | Trade route and Glaoui heritage. |
+| Experience | 8.2 | Focused permitted precinct visit. |
+| Depth | 8.3 | Multiple rooms and courtyards. |
+
+- Applicable categories: architecture:9.2, history:9.1, photography:9.0.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-atlas-film-studios — Atlas Film Studios Ouarzazate — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/atlas-film-studios.yaml)
+- Action: new
+- Precise subject and limitations: Guided tours of film sets; reconstructed sets, not original historical monuments. Individual sets may close during filming; CLA extension not assumed.
+- Location check: 30.94178, -6.96691; [published representative point](https://mapcarta.com/N318771709), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://ouarzazatestudios.com/en/visit-experience/studios-tour/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/yves-saint-laurent-museum](../../../countries/MA/sights/yves-saint-laurent-museum.yaml) | 8.5 / 8.8 / 8.6 / 8.5 / 8.3 | experience: +0.3 vs peer; significance: -0.3 vs peer. |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [DZ/national-museum-fine-arts](../../../countries/DZ/sights/national-museum-fine-arts.yaml) | 8.3 / 8.5 / 8.7 / 8.5 / 8.7 | uniqueness: +0.5 vs peer; impact: +0.4 vs peer. |
+| [TN/djerbahood](../../../countries/TN/sights/djerbahood.yaml) | 8.7 / 8.9 / 7.9 / 8.8 / 8.3 | significance: +0.4 vs peer; depth: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Large cinematic sets. |
+| Uniqueness | 9.0 | Unusual working studio tour. |
+| Significance | 8.3 | International film heritage. |
+| Experience | 8.8 | Guided set exploration. |
+| Depth | 8.6 | Multiple sets and production interpretation. |
+
+- Applicable categories: culture:9.0, photography:9.2, family:8.9, architecture:8.8.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-telouet-kasbah — Telouet Kasbah (Partial Access) — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/telouet-kasbah.yaml)
+- Action: new
+- Precise subject and limitations: Part of interior reportedly reopened after earthquake safety works; see https://marrakechauthority.com/en/attractions/kasbah-de-telouet. Only permitted reception rooms and exterior; check local access.
+- Location check: 31.28711, -7.23674; [published representative point](https://mapcarta.com/28210714), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://beinouarzazate.com/kasbahs/telouet-kasbah/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ait-ben-haddou](../../../countries/MA/sights/ait-ben-haddou.yaml) | 9.4 / 9.4 / 9.2 / 8.9 / 8.4 | experience: -1.0 vs peer; impact: -0.7 vs peer. |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | experience: -0.9 vs peer; depth: -0.9 vs peer. |
+| [DZ/el-mechouar-palace](../../../countries/DZ/sights/el-mechouar-palace.yaml) | 8.7 / 8.8 / 8.8 / 8.5 / 8.3 | depth: -0.6 vs peer; experience: -0.6 vs peer. |
+| [TN/ennejma-ezzahra-palace](../../../countries/TN/sights/ennejma-ezzahra-palace.yaml) | 8.6 / 8.9 / 8.8 / 8.6 / 8.4 | depth: -0.7 vs peer; experience: -0.7 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Ornate surviving reception rooms. |
+| Uniqueness | 8.9 | Distinct High Atlas palace. |
+| Significance | 8.8 | Regional political and caravan history. |
+| Experience | 7.9 | Partial access reduces visit. |
+| Depth | 7.7 | Closed and damaged areas excluded. |
+
+- Applicable categories: architecture:9.3, history:9.0, photography:9.0.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-paradise-valley — Paradise Valley near Agadir — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/paradise-valley.yaml)
+- Action: new
+- Precise subject and limitations: Palm-lined gorge and walking circuit; published access point. Pools and water flow variable, no safe swimming or cliff jumping assumed.
+- Location check: 30.587866, -9.531845; [published representative point](https://explore-agadirsoussmassa.com/en/the-valley-of-paradise-at-the-gates-of-agadir/), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/the-valley-of-paradise-at-the-gates-of-agadir/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/akchour](../../../countries/MA/sights/akchour.yaml) | 8.7 / 8.3 / 8.0 / 8.7 / 8.3 | significance: -0.3 vs peer; depth: -0.2 vs peer. |
+| [MA/todra-gorge](../../../countries/MA/sights/todra-gorge.yaml) | 9.1 / 8.8 / 8.4 / 8.9 / 8.1 | significance: -0.7 vs peer; impact: -0.5 vs peer. |
+| [MA/ouzoud-waterfalls](../../../countries/MA/sights/ouzoud-waterfalls.yaml) | 9.0 / 8.5 / 8.2 / 8.8 / 8.0 | significance: -0.5 vs peer; impact: -0.4 vs peer. |
+| [DZ/el-ourit-waterfalls](../../../countries/DZ/sights/el-ourit-waterfalls.yaml) | 8.3 / 8.0 / 7.5 / 8.0 / 7.7 | experience: +0.5 vs peer; uniqueness: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Rock pools and palm scenery. |
+| Uniqueness | 8.4 | Distinct gorge oasis. |
+| Significance | 7.7 | Regional natural landscape. |
+| Experience | 8.5 | Season-dependent walking experience. |
+| Depth | 8.1 | Bounded gorge circuit. |
+
+- Applicable categories: nature:9.0, photography:9.0, adventure:8.8, relaxation:8.6.
+- Computed worldwide overall: 83.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-legzira-beach — Legzira Beach and Coastal Arch — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/legzira-beach.yaml)
+- Action: new
+- Precise subject and limitations: Beach and remaining arch; one famous arch collapsed in 2016. No safe swimming or walking under unstable formations assumed; tides and local restrictions apply.
+- Location check: 29.4437, -10.11815; [published representative point](https://mapcarta.com/W159192837), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.moroccomuseum.com/en/sites/plage-legzira); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/cape-spartel-hercules-caves](../../../countries/MA/sights/cape-spartel-hercules-caves.yaml) | 8.8 / 8.6 / 8.1 / 8.7 / 8.2 | significance: -0.5 vs peer; depth: -0.3 vs peer. |
+| [TN/tabarka-needles](../../../countries/TN/sights/tabarka-needles.yaml) | 8.7 / 8.4 / 7.7 / 8.5 / 7.8 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer. |
+| [TN/cap-serrat-beach](../../../countries/TN/sights/cap-serrat-beach.yaml) | 8.6 / 8.2 / 7.3 / 8.5 / 7.8 | uniqueness: +0.5 vs peer; impact: +0.3 vs peer. |
+| [MA/khnifiss-lagoon](../../../countries/MA/sights/khnifiss-lagoon.yaml) | 8.7 / 8.9 / 9.0 / 8.5 / 8.0 | significance: -1.4 vs peer; impact: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Striking red coastal cliffs and arch. |
+| Uniqueness | 8.7 | Distinct natural coastal formation. |
+| Significance | 7.6 | Regional geological heritage. |
+| Experience | 8.5 | Scenic beach visit. |
+| Depth | 7.9 | Compact coastal stretch. |
+
+- Applicable categories: nature:8.9, photography:9.3, beaches:9.0, relaxation:8.7.
+- Computed worldwide overall: 84.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-american-legation-museum — Tangier American Legation Museum — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/american-legation-museum.yaml)
+- Action: new
+- Precise subject and limitations: Separate museum in historic diplomatic building; distinct from Tangier medina walking and kasbah museum. Current hours and admission to confirm with operator.
+- Location check: 35.7853, -5.8124; [published representative point](https://www.mytangier.com/place/american-legation), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://legation.org/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/tangier-medina-kasbah](../../../countries/MA/sights/tangier-medina-kasbah.yaml) | 8.8 / 8.8 / 9.0 / 8.8 / 8.8 | impact: -0.6 vs peer; depth: -0.4 vs peer. |
+| [MA/yves-saint-laurent-museum](../../../countries/MA/sights/yves-saint-laurent-museum.yaml) | 8.5 / 8.8 / 8.6 / 8.5 / 8.3 | significance: +0.4 vs peer; impact: -0.3 vs peer. |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.9 vs peer; depth: -0.7 vs peer. |
+| [DZ/bardo-national-museum](../../../countries/DZ/sights/bardo-national-museum.yaml) | 8.4 / 8.8 / 9.0 / 8.5 / 8.7 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Historic interiors and collections. |
+| Uniqueness | 8.8 | Unusual diplomatic heritage. |
+| Significance | 9.0 | Long US-Moroccan diplomatic history. |
+| Experience | 8.5 | Dedicated indoor visit. |
+| Depth | 8.4 | Several collections and rooms. |
+
+- Applicable categories: history:9.3, culture:9.1, architecture:8.8.
+- Computed worldwide overall: 85.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-dar-el-bacha-museum — Dar El Bacha Museum of Confluences — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/dar-el-bacha-museum.yaml)
+- Action: new
+- Precise subject and limitations: Separate palace museum admission and exhibitions, excluding public medina and cafe-only experience. Museum access subject to operator hours.
+- Location check: 31.62974, -7.99266; [published representative point](https://mapcarta.com/W102739972), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.fnm.ma/museums/26); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | impact: -0.2 vs peer; depth: -0.2 vs peer. |
+| [MA/ben-youssef-madrasa](../../../countries/MA/sights/ben-youssef-madrasa.yaml) | 8.9 / 8.8 / 8.9 / 8.7 / 8.1 | significance: -0.3 vs peer; depth: +0.3 vs peer. |
+| [MA/le-jardin-secret](../../../countries/MA/sights/le-jardin-secret.yaml) | 8.4 / 8.4 / 8.2 / 8.7 / 8.0 | impact: +0.4 vs peer; significance: +0.4 vs peer. |
+| [TN/ennejma-ezzahra-palace](../../../countries/TN/sights/ennejma-ezzahra-palace.yaml) | 8.6 / 8.9 / 8.8 / 8.6 / 8.4 | impact: +0.2 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Ornate palace interiors. |
+| Uniqueness | 8.7 | Distinct museum in historic residence. |
+| Significance | 8.6 | Regional art and cultural heritage. |
+| Experience | 8.7 | Dedicated museum visit. |
+| Depth | 8.4 | Courtyards and exhibitions. |
+
+- Applicable categories: architecture:9.3, culture:9.1, photography:9.1, history:8.8.
+- Computed worldwide overall: 86.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
