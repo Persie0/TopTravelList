@@ -1381,3 +1381,267 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 268 scope decisions
 
 12 additions, 12 source-linked provisional, 0 desk-based provisional, 10 90+, 49 ranking-row comparisons (40 international). CO 63 ranked / 67 total, +12 since baseline 55. UNESCO World Heritage official list (https://whc.unesco.org/en/statesparties/co/) checked: 9/9 represented including 3 unassessed properties; 13 tentative properties require targeted mapping. Living heritage recognition distinguished from individual events. Chocó whale watching excludes Gorgona and Utría excursions; Casanare ranch safari grouped. Permanent heritage towns distinct from festivals. Existing scores and four unassessed preserved. Queue OPEN for protected-area, tentative-list, regional heritage and experience screen. Coordinates approximate; access and schedules unverified.
+
+## sight-co-el-tuparro-national-park — El Tuparro National Natural Park Maipures Rapids and Orinoco Savannas — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/el-tuparro-national-park.yaml)
+- Action: new
+- Scope: Protected savannas, rock outcrops and Orinoco rapids; official park describes El Tomo and Maipures visitor sectors. No unrestricted access or wildlife guarantee; exclude Mavecure Hills.
+- Representative coordinates: 5.25, -67.85; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.2 / 8.7 / 9.0.
+- Categories: nature:9.4 wildlife:9.4 adventure:9.3.
+- Overall: 91.30/100.
+- Source: https://www.parquesnacionales.gov.co/nuestros-parques/pnn-el-tuparro/
+- Source: https://colombia.travel/es/guainia/conoce-el-parque-nacional-natural-el-tuparro
+- Source: https://old.parquesnacionales.gov.co/portal/es/ecoturismo/parques/region-amazonia-y-orinoquia/parque-nacional-natural-el-tuparro/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/mavecure-hills](../../../countries/CO/sights/mavecure-hills.yaml) | 9.0 / 9.2 / 8.0 / 8.3 / 7.9 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [CO/casanare-llanero-safari](../../../countries/CO/sights/casanare-llanero-safari.yaml) | 9.4 / 9.2 / 9.1 / 9.1 / 9.3 | impact: -0.2; uniqueness: +0.1 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/pacaya-samiria-national-reserve](../../../countries/PE/sights/pacaya-samiria-national-reserve.yaml) | 9.0 / 9.1 / 9.3 / 8.5 / 9.2 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [PE/manu-national-park](../../../countries/PE/sights/manu-national-park.yaml) | 9.4 / 9.5 / 9.8 / 8.5 / 9.4 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/nor-yauyos-cochas](../../../countries/PE/sights/nor-yauyos-cochas.yaml) | 9.4 / 9.2 / 9.0 / 9.0 / 9.2 | impact: -0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-chingaza-national-park — Chingaza National Natural Park Páramo Lakes and Frailejón Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/chingaza-national-park.yaml)
+- Action: new
+- Scope: High-Andean páramo, lakes and approved routes; community guiding and heritage interpretation. Distinct from El Cocuy and Los Nevados. Current routes and reservations require confirmation.
+- Representative coordinates: 4.68, -73.78; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.2 / 8.8 / 9.0.
+- Categories: nature:9.4 wildlife:9.3 photography:9.3.
+- Overall: 90.65/100.
+- Source: https://www.parquesnacionales.gov.co/nuestros-parques/pnn-chingaza/
+- Source: https://www.parquesnacionales.gov.co/sala-prensa/noticias/vacaciones-visita-los-parques-nacionales/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/los-nevados-national-natural-park](../../../countries/CO/sights/los-nevados-national-natural-park.yaml) | 9.3 / 9.1 / 8.9 / 8.4 / 8.9 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [CO/el-cocuy-national-natural-park](../../../countries/CO/sights/el-cocuy-national-natural-park.yaml) | 9.4 / 9.2 / 9.0 / 8.4 / 8.6 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [PE/huascaran-national-park](../../../countries/PE/sights/huascaran-national-park.yaml) | 9.6 / 9.4 / 9.4 / 9.0 / 9.4 | impact: -0.5; uniqueness: -0.3 vs peer |
+| [PE/salinas-aguada-blanca](../../../countries/PE/sights/salinas-aguada-blanca.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.8 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [PE/las-huaringas](../../../countries/PE/sights/las-huaringas.yaml) | 8.8 / 9.2 / 9.2 / 8.6 / 8.9 | impact: +0.3; uniqueness: -0.1 vs peer |
+| [PE/nor-yauyos-cochas](../../../countries/PE/sights/nor-yauyos-cochas.yaml) | 9.4 / 9.2 / 9.0 / 9.0 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-cueva-de-los-guacharos — Cueva de los Guácharos National Natural Park Oilbird Caves and Andean Forest — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cueva-de-los-guacharos.yaml)
+- Action: new
+- Scope: Andean and sub-Andean forests with cave habitats; official community ecotourism services include guiding and accommodation. No guaranteed oilbird sightings or current cave entry.
+- Representative coordinates: 1.62, -76.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.1 / 8.7 / 9.0.
+- Categories: wildlife:9.4 nature:9.3 adventure:9.2.
+- Overall: 89.95/100.
+- Source: https://www.parquesnacionales.gov.co/nuestros-parques/pnn-cueva-de-los-guacharos/
+- Source: https://old.parquesnacionales.gov.co/portal/es/parques-reabiertos/parque-nacional-natural-cueva-de-los-guacharos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/rio-claro-nature-reserve](../../../countries/CO/sights/rio-claro-nature-reserve.yaml) | 8.6 / 8.5 / 7.3 / 8.6 / 7.9 | impact: +0.3; uniqueness: +0.7 vs peer |
+| [CO/amacayacu-national-natural-park](../../../countries/CO/sights/amacayacu-national-natural-park.yaml) | 8.8 / 8.7 / 9.2 / 8.8 / 8.8 | impact: +0.1; uniqueness: +0.5 vs peer |
+| [PE/cutervo-national-park](../../../countries/PE/sights/cutervo-national-park.yaml) | 8.6 / 8.8 / 8.8 / 8.4 / 8.7 | impact: +0.3; uniqueness: +0.4 vs peer |
+| [PE/tingo-maria](../../../countries/PE/sights/tingo-maria.yaml) | 8.8 / 8.9 / 8.6 / 8.9 / 8.7 | impact: +0.1; uniqueness: +0.3 vs peer |
+| [PE/quiocta-cave](../../../countries/PE/sights/quiocta-cave.yaml) | 8.7 / 8.8 / 8.6 / 8.7 / 8.5 | impact: +0.2; uniqueness: +0.4 vs peer |
+| [PE/pampa-hermosa](../../../countries/PE/sights/pampa-hermosa.yaml) | 8.9 / 9.1 / 9.1 / 8.6 / 9.0 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-macuira-national-park — Macuira National Natural Park Wayuu Desert Mountain Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/macuira-national-park.yaml)
+- Action: new
+- Scope: Distinct dry mountains and low-elevation cloud forest within Wayuu territory. Cloud forest entry is restricted; assessment focuses on designated visitor landscape, with Indigenous consent and guidance. Excludes Punta Gallinas and Cabo de la Vela.
+- Representative coordinates: 12.12, -71.31; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.0 / 8.5 / 8.8.
+- Categories: nature:9.4 culture:9.3 photography:9.3.
+- Overall: 89.20/100.
+- Source: https://www.parquesnacionales.gov.co/nuestros-parques/pnn-macuira/
+- Source: https://old.parquesnacionales.gov.co/portal/es/ecoturismo/parques/region-caribe/parque-nacional-natural-macuira/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/punta-gallinas](../../../countries/CO/sights/punta-gallinas.yaml) | 8.9 / 8.8 / 7.6 / 8.1 / 7.9 | impact: -0.1; uniqueness: +0.5 vs peer |
+| [CO/cabo-de-la-vela](../../../countries/CO/sights/cabo-de-la-vela.yaml) | 8.5 / 8.6 / 7.6 / 8.2 / 7.7 | impact: +0.3; uniqueness: +0.7 vs peer |
+| [PE/lomas-de-lachay](../../../countries/PE/sights/lomas-de-lachay.yaml) | 8.7 / 8.8 / 8.5 / 8.7 / 8.6 | impact: +0.1; uniqueness: +0.5 vs peer |
+| [PE/lomas-atiquipa](../../../countries/PE/sights/lomas-atiquipa.yaml) | 8.7 / 8.9 / 8.7 / 8.4 / 8.6 | impact: +0.1; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-otun-quimbaya — Otún Quimbaya Flora and Fauna Sanctuary Cloud Forest Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/otun-quimbaya.yaml)
+- Action: new
+- Scope: Official sanctuary lists 307 bird species and three visitor trails. Exclude adjacent Los Nevados routes and generic coffee landscape; no sighting guarantee.
+- Representative coordinates: 4.73, -75.58; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.1 / 8.8 / 8.9.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 89.20/100.
+- Source: https://www.parquesnacionales.gov.co/nuestros-parques/sff-otun-quimbaya/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/amacayacu-national-natural-park](../../../countries/CO/sights/amacayacu-national-natural-park.yaml) | 8.8 / 8.7 / 9.2 / 8.8 / 8.8 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [CO/rio-claro-nature-reserve](../../../countries/CO/sights/rio-claro-nature-reserve.yaml) | 8.6 / 8.5 / 7.3 / 8.6 / 7.9 | impact: +0.2; uniqueness: +0.5 vs peer |
+| [PE/abra-patricia-birding](../../../countries/PE/sights/abra-patricia-birding.yaml) | 9.1 / 9.4 / 9.3 / 8.9 / 9.2 | impact: -0.3; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-los-flamencos-sanctuary — Los Flamencos Flora and Fauna Sanctuary Camarones Coastal Lagoon Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/los-flamencos-sanctuary.yaml)
+- Action: new
+- Scope: Coastal birding habitat with flamingos, herons and shorebirds; distinct from northern Guajira desert routes. Seasonal sightings not guaranteed.
+- Representative coordinates: 11.43, -73.08; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.8 / 8.6.
+- Categories: wildlife:9.4 nature:9.2 photography:9.3.
+- Overall: 87.50/100.
+- Source: https://www.parquesnacionales.gov.co/nuestros-parques/sff-los-flamencos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/utria-national-natural-park](../../../countries/CO/sights/utria-national-natural-park.yaml) | 9.0 / 9.0 / 8.9 / 8.4 / 8.3 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [CO/punta-gallinas](../../../countries/CO/sights/punta-gallinas.yaml) | 8.9 / 8.8 / 7.6 / 8.1 / 7.9 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PE/tumbes-mangroves](../../../countries/PE/sights/tumbes-mangroves.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.9 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-guaviare-puerta-de-orion — Guaviare Puerta de Orión Sandstone Formations and Natural Rock Tunnels — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/guaviare-puerta-de-orion.yaml)
+- Action: new
+- Scope: Distinct sandstone formations and walking experience near San José del Guaviare. Exclude Cerro Azul rock art and Nukak reserve; current route authorization not checked.
+- Representative coordinates: 2.49, -72.68; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.3 / 8.8 / 8.4.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 87.15/100.
+- Source: https://colombia.travel/en/san-jose-del-guaviare
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/cerro-azul-rock-art-guaviare](../../../countries/CO/sights/cerro-azul-rock-art-guaviare.yaml) | 8.5 / 9.2 / 9.1 / 8.2 / 7.6 | impact: +0.4; uniqueness: -0.3 vs peer |
+| [CO/mavecure-hills](../../../countries/CO/sights/mavecure-hills.yaml) | 9.0 / 9.2 / 8.0 / 8.3 / 7.9 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-puente-de-occidente — Puente de Occidente Historic Suspension Bridge Antioquia — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/puente-de-occidente.yaml)
+- Action: new
+- Scope: Tentative-list submission describes a late nineteenth-century engineering landmark opened in 1895; representative point converted from UNESCO submitted DMS. Current crossing status not verified; not inscribed.
+- Representative coordinates: 6.57791, -75.79824; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.2 / 8.4 / 8.3.
+- Categories: architecture:9.3 history:9.3 photography:9.1.
+- Overall: 86.55/100.
+- Source: https://whc.unesco.org/en/tentativelists/5772/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/castillo-san-felipe-de-barajas](../../../countries/CO/sights/castillo-san-felipe-de-barajas.yaml) | 8.9 / 9.0 / 9.4 / 8.6 / 8.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [CO/barichara-historic-centre](../../../countries/CO/sights/barichara-historic-centre.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.7 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-bogota-university-city — Bogotá National University Historic Campus Modernist Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/bogota-university-city.yaml)
+- Action: new
+- Scope: Named tentative property; focus on publicly accessible campus architecture, not academic facilities or restricted buildings. Current access not checked.
+- Representative coordinates: 4.638, -74.084; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.2 / 8.6 / 9.1 / 8.3 / 8.5.
+- Categories: architecture:9.3 history:9.2 culture:9.0.
+- Overall: 85.25/100.
+- Source: https://whc.unesco.org/en/tentativelists/5759/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/la-candelaria-historic-district](../../../countries/CO/sights/la-candelaria-historic-district.yaml) | 8.5 / 8.3 / 8.8 / 8.5 / 8.6 | impact: -0.3; uniqueness: +0.3 vs peer |
+| [CO/botero-museum-bogota](../../../countries/CO/sights/botero-museum-bogota.yaml) | 8.2 / 8.6 / 8.6 / 8.7 / 7.9 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-villavieja-paleontology-museum — Villavieja Paleontological Museum and La Venta Fossil Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/villavieja-paleontology-museum.yaml)
+- Action: new
+- Scope: Desk-based museum experience distinct from Tatacoa scenery; tentative La Venta fossil landscape is relevant context only, not proof museum lies within proposed boundary. No collecting or unapproved fossil-site visits.
+- Representative coordinates: 3.22, -75.217; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.9 / 9.3 / 8.4 / 8.7.
+- Categories: history:9.4 culture:9.1 family:9.0.
+- Overall: 87.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/tatacoa-desert](../../../countries/CO/sights/tatacoa-desert.yaml) | 8.9 / 8.7 / 7.7 / 8.7 / 8.0 | impact: -0.5; uniqueness: +0.2 vs peer |
+| [CO/gold-museum-bogota](../../../countries/CO/sights/gold-museum-bogota.yaml) | 9.1 / 9.5 / 9.6 / 9.1 / 8.8 | impact: -0.7; uniqueness: -0.6 vs peer |
+| [PE/sacaco-fossil-museum](../../../countries/PE/sights/sacaco-fossil-museum.yaml) | 8.6 / 9.0 / 9.2 / 8.4 / 8.7 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-san-andres-reef-diving — San Andrés Island Reef Diving and Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/san-andres-reef-diving.yaml)
+- Action: new
+- Scope: Desk-based assessment of San Andrés main island reef experiences outside Johnny Cay; exclude Old Providence and Malpelo. Partial geographic coverage of Seaflower, not whole marine area.
+- Representative coordinates: 12.55, -81.73; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 8.9 / 8.6.
+- Categories: wildlife:9.3 nature:9.3 adventure:9.2.
+- Overall: 87.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/old-providence-mcbean-lagoon-national-natural-park](../../../countries/CO/sights/old-providence-mcbean-lagoon-national-natural-park.yaml) | 8.8 / 8.9 / 8.5 / 8.5 / 7.8 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [CO/rosario-islands](../../../countries/CO/sights/rosario-islands.yaml) | 8.7 / 8.6 / 8.0 / 8.5 / 8.2 | impact: +0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-isla-salamanca — Isla de Salamanca National Park Mangrove and Lagoon Birding — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/isla-salamanca.yaml)
+- Action: new
+- Scope: Desk-based mangrove and lagoon visitor experience; distinct from Ciénaga Grande stilt villages, not a claim of current access.
+- Representative coordinates: 10.99, -74.58; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.9 / 8.4 / 8.5.
+- Categories: wildlife:9.3 nature:9.2 photography:9.0.
+- Overall: 85.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/utria-national-natural-park](../../../countries/CO/sights/utria-national-natural-park.yaml) | 9.0 / 9.0 / 8.9 / 8.4 / 8.3 | impact: -0.6; uniqueness: -0.4 vs peer |
+| [CO/los-nevados-national-natural-park](../../../countries/CO/sights/los-nevados-national-natural-park.yaml) | 9.3 / 9.1 / 8.9 / 8.4 / 8.9 | impact: -0.9; uniqueness: -0.5 vs peer |
+| [PE/tumbes-mangroves](../../../countries/PE/sights/tumbes-mangroves.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.9 | impact: -0.5; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 269 scope decisions
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 2 90+, 42 ranking-row comparisons (18 international). CO 75 ranked / 79 total, +24 since baseline 55. UNESCO list rechecked https://whc.unesco.org/en/statesparties/co/ : 9/9 inscribed represented (3 unassessed); 13 tentative entries inventoried. Preliminary mapping: Puente de Occidente and University City named properties represented, Seaflower and Tayrona/Sierra Nevada partially represented or parent mapped, South of Ricaurte partly covered by Villa de Leyva (boundary check pending); La Venta museum interpretation is not proof of tentative property coverage. Other tentative entries require detailed mapping: Canal del Dique, San Jorge hydraulics, doctrine temples, United Fruit infrastructure, stilt houses, Salmona, Floresta fossils and La Venta field sites. Macuira cloud forest entry restricted; scores do not imply access. All existing scores and four unassessed preserved. Queue OPEN for remaining tentative entries, national parks, heritage towns and cultural experiences. Coordinates approximate, current access unverified.

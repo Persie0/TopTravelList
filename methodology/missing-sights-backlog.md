@@ -4767,3 +4767,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — Barichara Historic Centre Colonial Architecture and Cobblestone Streets: 88.25/100 (source-linked-unverified).
 
 12 additions, 12 source-linked provisional, 0 desk-based provisional, 10 90+, 49 ranking-row comparisons (40 international). CO 63 ranked / 67 total, +12 since baseline 55. UNESCO World Heritage official list (https://whc.unesco.org/en/statesparties/co/) checked: 9/9 represented including 3 unassessed properties; 13 tentative properties require targeted mapping. Living heritage recognition distinguished from individual events. Chocó whale watching excludes Gorgona and Utría excursions; Casanare ranch safari grouped. Permanent heritage towns distinct from festivals. Existing scores and four unassessed preserved. Queue OPEN for protected-area, tentative-list, regional heritage and experience screen. Coordinates approximate; access and schedules unverified.
+
+### Pass 269 — Colombia national parks, tentative properties and natural landscapes
+
+- [x] CO — El Tuparro National Natural Park Maipures Rapids and Orinoco Savannas: 91.30/100 (source-linked-unverified).
+- [x] CO — Chingaza National Natural Park Páramo Lakes and Frailejón Trails: 90.65/100 (source-linked-unverified).
+- [x] CO — Cueva de los Guácharos National Natural Park Oilbird Caves and Andean Forest: 89.95/100 (source-linked-unverified).
+- [x] CO — Macuira National Natural Park Wayuu Desert Mountain Landscape: 89.20/100 (source-linked-unverified).
+- [x] CO — Otún Quimbaya Flora and Fauna Sanctuary Cloud Forest Birdwatching: 89.20/100 (source-linked-unverified).
+- [x] CO — Los Flamencos Flora and Fauna Sanctuary Camarones Coastal Lagoon Birdwatching: 87.50/100 (source-linked-unverified).
+- [x] CO — Guaviare Puerta de Orión Sandstone Formations and Natural Rock Tunnels: 87.15/100 (source-linked-unverified).
+- [x] CO — Puente de Occidente Historic Suspension Bridge Antioquia: 86.55/100 (source-linked-unverified).
+- [x] CO — Bogotá National University Historic Campus Modernist Architecture: 85.25/100 (source-linked-unverified).
+- [x] CO — Villavieja Paleontological Museum and La Venta Fossil Interpretation: 87.35/100 (desk-based provisional).
+- [x] CO — San Andrés Island Reef Diving and Snorkelling: 87.85/100 (desk-based provisional).
+- [x] CO — Isla de Salamanca National Park Mangrove and Lagoon Birding: 85.60/100 (desk-based provisional).
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 2 90+, 42 ranking-row comparisons (18 international). CO 75 ranked / 79 total, +24 since baseline 55. UNESCO list rechecked https://whc.unesco.org/en/statesparties/co/ : 9/9 inscribed represented (3 unassessed); 13 tentative entries inventoried. Preliminary mapping: Puente de Occidente and University City named properties represented, Seaflower and Tayrona/Sierra Nevada partially represented or parent mapped, South of Ricaurte partly covered by Villa de Leyva (boundary check pending); La Venta museum interpretation is not proof of tentative property coverage. Other tentative entries require detailed mapping: Canal del Dique, San Jorge hydraulics, doctrine temples, United Fruit infrastructure, stilt houses, Salmona, Floresta fossils and La Venta field sites. Macuira cloud forest entry restricted; scores do not imply access. All existing scores and four unassessed preserved. Queue OPEN for remaining tentative entries, national parks, heritage towns and cultural experiences. Coordinates approximate, current access unverified.
