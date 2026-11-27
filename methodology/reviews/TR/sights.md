@@ -5475,3 +5475,197 @@ Peer profiles matched to ranking rows; individual YAML checks pending. All four 
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+## sight-tr-cesme-castle — Çeşme Castle and Archaeology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/cesme-castle.yaml)
+- Action: new
+- Precise subject and limitations: Castle and internal museum grouped; resort excluded.
+- Location check: 38.3235, 26.303469; [published representative point](https://whc.unesco.org/fr/listesindicatives/7030/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.kulturportali.gov.tr/portal/cesme-kalesi); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/amasra-historic-harbour](../../../countries/TR/sights/amasra-historic-harbour.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [TR/mamure-castle](../../../countries/TR/sights/mamure-castle.yaml) | 9.0 / 8.9 / 8.9 / 8.8 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | impact: -0.2 vs peer; significance: -0.1 vs peer. |
+
+Peer profiles checked against individual YAMLs and ranking rows at parent commit.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Prominent coastal fortress. |
+| Uniqueness | 8.7 | Layered maritime defence. |
+| Significance | 8.8 | Regional Ottoman and Mediterranean heritage. |
+| Experience | 8.8 | Dedicated museum and monument visit. |
+| Depth | 8.7 | Multiple towers and displays. |
+
+- Applicable categories: architecture:9.2, history:9.2, photography:9.2.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-foca-historic-harbour — Foça Historic Harbour and Beşkapılar Castle — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/foca-historic-harbour.yaml)
+- Action: new
+- Precise subject and limitations: Old Foça harbour bays, historic streets and Beşkapılar fortress grouped; offshore wildlife excursions excluded.
+- Location check: 38.669236, 26.750772; [published representative point](https://whc.unesco.org/fr/listesindicatives/7030/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.foca.gov.tr/foca-sokaklari); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/amasra-historic-harbour](../../../countries/TR/sights/amasra-historic-harbour.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TR/antalya-kaleici](../../../countries/TR/sights/antalya-kaleici.yaml) | 8.9 / 8.8 / 8.9 / 9.0 / 8.9 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [GR/monemvasia-castle-town](../../../countries/GR/sights/monemvasia-castle-town.yaml) | 9.1 / 9.1 / 9.0 / 9.0 / 8.8 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | impact: -0.3 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles checked against individual YAMLs and ranking rows at parent commit.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Scenic harbour and stone streets. |
+| Uniqueness | 8.6 | Distinct two-bay setting. |
+| Significance | 8.7 | Layered maritime heritage. |
+| Experience | 8.9 | Walkable historic waterfront. |
+| Depth | 8.6 | Complementary castle and streets. |
+
+- Applicable categories: photography:9.2, architecture:9.1, culture:9.1, history:9.0.
+- Computed worldwide overall: 86.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-guvercinada-castle — Güvercinada Island Castle Kuşadası — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/guvercinada-castle.yaml)
+- Action: new
+- Precise subject and limitations: Island fortress and causeway; excludes wider city walls, beaches and resort. Coordinate corroborated by https://mapcarta.com/32124256.
+- Location check: 37.863556, 27.247719; [published representative point](https://whc.unesco.org/fr/listesindicatives/7030/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://kulturportali.gov.tr/turkiye/aydin/gezilecekyer/guvercinada); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/kizkalesi](../../../countries/TR/sights/kizkalesi.yaml) | 8.9 / 8.9 / 8.7 / 8.6 / 8.3 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+| [TR/mamure-castle](../../../countries/TR/sights/mamure-castle.yaml) | 9.0 / 8.9 / 8.9 / 8.8 / 8.8 | depth: -0.8 vs peer; impact: -0.4 vs peer. |
+| [PT/almourol-castle](../../../countries/PT/sights/almourol-castle.yaml) | 9.0 / 8.9 / 8.7 / 8.5 / 8.0 | impact: -0.4 vs peer; significance: -0.2 vs peer. |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | depth: -0.9 vs peer; significance: -0.5 vs peer. |
+
+Peer profiles checked against individual YAMLs and ranking rows at parent commit.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Photogenic island silhouette. |
+| Uniqueness | 8.8 | Distinct causeway-linked fortress. |
+| Significance | 8.5 | Regional defensive heritage. |
+| Experience | 8.7 | Established island walking visit. |
+| Depth | 8.0 | Compact monument. |
+
+- Applicable categories: photography:9.2, architecture:9.0, history:9.0.
+- Computed worldwide overall: 85.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-assos — Assos Archaeological Site and Athena Temple — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/assos.yaml)
+- Action: new
+- Precise subject and limitations: Acropolis, temple and settlement remains grouped; overlapping Behram village not separately added.
+- Location check: 39.487778, 26.336944; [published representative point](https://whc.unesco.org/en/tentativelists/6242), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2019-canakkale-assos-archaeological-site/2019/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/knidos](../../../countries/TR/sights/knidos.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.8 | significance: +0.1 vs peer; experience: -0.1 vs peer. |
+| [TR/priene](../../../countries/TR/sights/priene.yaml) | 8.8 / 9.0 / 9.1 / 8.7 / 8.9 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [GR/lindos](../../../countries/GR/sights/lindos.yaml) | 9.0 / 9.0 / 9.1 / 8.9 / 8.3 | depth: +0.6 vs peer; experience: -0.2 vs peer. |
+| [GR/mystras](../../../countries/GR/sights/mystras.yaml) | 9.1 / 9.2 / 9.3 / 8.9 / 9.0 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles checked against individual YAMLs and ranking rows at parent commit.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking temple and coastal outlook. |
+| Uniqueness | 8.9 | Distinct early Doric architecture. |
+| Significance | 9.1 | Important ancient regional heritage. |
+| Experience | 8.7 | Archaeological walking experience. |
+| Depth | 8.9 | Multiple urban features. |
+
+- Applicable categories: history:9.3, architecture:9.3, photography:9.3.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-trabzon-hagia-sophia — Trabzon Hagia Sophia Mosque and Byzantine Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/trabzon-hagia-sophia.yaml)
+- Action: new
+- Precise subject and limitations: Former Byzantine church now mosque; distinct from Istanbul Hagia Sophia and Sümela. No guarantee all paintings visible during worship.
+- Location check: 41.00309, 39.69611; [published representative point](https://mapcarta.com/W220046416), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-99292/trabzon.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/sumela](../../../countries/TR/sights/sumela.yaml) | 9.1 / 9.0 / 8.9 / 8.4 / 8.0 | impact: -0.4 vs peer; depth: +0.3 vs peer. |
+| [TR/akdamar](../../../countries/TR/sights/akdamar.yaml) | 8.8 / 8.9 / 9.0 / 8.4 / 7.5 | depth: +0.8 vs peer; experience: +0.2 vs peer. |
+| [TR/gumusler-monastery](../../../countries/TR/sights/gumusler-monastery.yaml) | 8.7 / 9.0 / 8.8 / 8.7 / 8.5 | significance: +0.3 vs peer; depth: -0.2 vs peer. |
+| [GR/byzantine-monasteries](../../../countries/GR/sights/byzantine-monasteries.yaml) | 8.9 / 9.2 / 9.4 / 8.7 / 8.8 | depth: -0.5 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles checked against individual YAMLs and ranking rows at parent commit.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Evocative Byzantine architecture. |
+| Uniqueness | 9.0 | Distinct Trebizond monument and paintings. |
+| Significance | 9.1 | Important Byzantine religious heritage. |
+| Experience | 8.6 | Dedicated respectful visit. |
+| Depth | 8.3 | Compact church and grounds. |
+
+- Applicable categories: history:9.3, architecture:9.3, culture:9.2.
+- Computed worldwide overall: 88.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

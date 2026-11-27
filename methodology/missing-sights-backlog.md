@@ -1293,3 +1293,13 @@ Five additions, 20 peer rows. Türkiye 144 ranked / 144 total. Deyrulzafaran ret
 - [x] TR — Sinop Historic Fortress and Prison Museum: 87.35/100 (source-linked-unverified).
 
 Five additions, 20 peer rows. Türkiye 149 ranked / 149 total. Ihlara remains overlap-flagged: Turkish National Commission UNESCO publication indexed excerpt (https://unesco.org.tr/Content_Files/Content/Yayinlar/unesco_dma_kitap.pdf) refers to its inclusion in site boundaries, whereas current UNESCO property description (https://whc.unesco.org/en/list/357/) does not explicitly name Ihlara. Exact registered polygon not verified; neither inclusion nor exclusion asserted. Do not create duplicate until scope resolved. Necmi museum independent of Hatay museum; Mardin museum independent collections; Çavuştepe separate from Van fortress; Amasra and Sinop grouped local monuments. Next bounded screen: Çeşme Castle, Foça historic harbour, Güvercinada Castle Kuşadası, Assos archaeological site, Mount Ida scope check, and Sümela/Trabzon Hagia Sophia independent scope check. Full Python validation pending.
+
+### Pass 112 — Türkiye Aegean coastal heritage and Trabzon Byzantine monument
+
+- [x] TR — Çeşme Castle and Archaeology Museum: 87.65/100 (source-linked-unverified).
+- [x] TR — Foça Historic Harbour and Beşkapılar Castle: 86.95/100 (source-linked-unverified).
+- [x] TR — Güvercinada Island Castle Kuşadası: 85.85/100 (source-linked-unverified).
+- [x] TR — Assos Archaeological Site and Athena Temple: 89.40/100 (source-linked-unverified).
+- [x] TR — Trabzon Hagia Sophia Mosque and Byzantine Heritage: 88.00/100 (source-linked-unverified).
+
+Five additions, 20 peer rows; 16 unique peer YAMLs verified. Türkiye 154 ranked / 154 total. Mount Ida walking experience retained within existing Kazdağı National Park based on ministry https://www.ktb.gov.tr/EN-99783/balikesir---kazdagi-national-park.html and https://goturkiye.com/walking/mount-ida; no claim the entire mountain is protected. Çeşme museum and Foça castle grouped locally; Güvercinada island scope bounded; Assos village overlap noted; Trabzon Hagia Sophia independent. Next bounded screen: Yoros Fortress, Çandarlı Fortress, Akçakoca Fortress, Kadıkalesi/Anaia, Erythrai, Teos, and Ihlara parent-scope resolution. Full Python validation pending.

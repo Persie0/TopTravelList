@@ -319,7 +319,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Turkmenistan](countries/TM/) (`TM`) | [12](countries/TM/cities.md) | [40](countries/TM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Turkmenistan) |
 | [Turks and Caicos Islands](countries/TC/) (`TC`) | [3](countries/TC/cities.md) | [12](countries/TC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Turks%20and%20Caicos%20Islands) |
 | [Tuvalu](countries/TV/) (`TV`) | [9](countries/TV/cities.md) | [14](countries/TV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Tuvalu) |
-| [Türkiye](countries/TR/) (`TR`) | [20](countries/TR/cities.md) | [149](countries/TR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=T%C3%BCrkiye) |
+| [Türkiye](countries/TR/) (`TR`) | [20](countries/TR/cities.md) | [154](countries/TR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=T%C3%BCrkiye) |
 | [Uganda](countries/UG/) (`UG`) | [6](countries/UG/cities.md) | [25](countries/UG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Uganda) |
 | [Ukraine](countries/UA/) (`UA`) | [14](countries/UA/cities.md) | [49](countries/UA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ukraine) |
 | [United Arab Emirates](countries/AE/) (`AE`) | [14](countries/AE/cities.md) | [83](countries/AE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=United%20Arab%20Emirates) |
