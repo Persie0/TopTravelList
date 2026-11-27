@@ -778,3 +778,16 @@ Eight additions and 32 peer rows; Morocco 53 ranked / 61 total. Drâa bounded to
 - [x] MA — Imi n’Ifri Natural Bridge: 83.95/100 (source-linked-unverified).
 
 Eight additions and 32 peer rows; Morocco 61 ranked / 69 total. Official Azilal nature inventory https://www.visitmorocco.com/en/travel/azilal/nature and Souss Massa granary route resolved. Imi n'Ifri and Ait Bouguemez bounded as individual sites, no overlapping geopark aggregate. Al Batha reopened February 2025 according to museum operator. Ziz representative viewpoint coordinate source is a visitor report corroborated by nearby geotagged image. Next bounded museum and heritage queue: Nejjarine Museum, Mohammed VI Museum, Bou Inania Madrasa Fez, Al Attarine Madrasa, Tiznit medina, Tizourgane Kasbah, Ammeln Valley, and Oukaimeden (check Toubkal scope). Eight prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 70 — Moroccan final named museum and heritage candidates
+
+- [x] MA — Bou Inania Madrasa of Fez: 88.30/100 (source-linked-unverified).
+- [x] MA — Al-Attarine Madrasa: 86.75/100 (source-linked-unverified).
+- [x] MA — Nejjarine Museum of Wooden Arts and Crafts: 86.40/100 (source-linked-unverified).
+- [x] MA — Mohammed VI Museum of Modern and Contemporary Art: 86.15/100 (source-linked-unverified).
+- [x] MA — Ammeln Valley and Traditional Villages: 85.65/100 (source-linked-unverified).
+- [x] MA — Oukaïmeden Mountain Plateau and Rock Art: 85.85/100 (source-linked-unverified).
+- [x] MA — Tizourgane Fortified Village: 84.80/100 (source-linked-unverified).
+- [x] MA — Tiznit Medina and Historic Walls: 84.30/100 (source-linked-unverified).
+
+Eight additions and 32 peer rows; Morocco 69 ranked / 77 total. Forty additions across passes 66–70. Oukaïmeden lift skiing excluded, Fez interiors separate from medina public walk, Ammeln distinct from Painted Rocks and Ait Mansour. Named final queue resolved. However official Souss-Massa itinerary also explicitly identifies Iriqui National Park; possible overlap with Erg Chigaga requires checking before closing. Additional major candidate Rabat Museum of History and Civilizations identified by MMVI map; leave Morocco open for these two concrete candidates rather than claim exhaustive closure. Eight prior unassessed unchanged. Full Python validation and independent corroboration pending.

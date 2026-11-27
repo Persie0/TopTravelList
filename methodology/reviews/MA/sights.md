@@ -2072,3 +2072,314 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ma-bou-inania-madrasa-fez — Bou Inania Madrasa of Fez — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/bou-inania-madrasa-fez.yaml)
+- Action: new
+- Precise subject and limitations: Separately visitable Marinid madrasa courtyard; prayer areas excluded. Distinct from public Fez streets and Meknes madrasa.
+- Location check: 34.06225, -4.98269; [published representative point](https://mapcarta.com/fr/N13727084754), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.feelmorocco.travel/destinations/fez/bou-inania-madrasa/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ben-youssef-madrasa](../../../countries/MA/sights/ben-youssef-madrasa.yaml) | 8.9 / 8.8 / 8.9 / 8.7 / 8.1 | significance: +0.3 vs peer; experience: -0.2 vs peer. |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | significance: +0.5 vs peer; depth: -0.4 vs peer. |
+| [MA/al-batha-museum](../../../countries/MA/sights/al-batha-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.6 / 8.5 | impact: +0.3 vs peer; depth: -0.3 vs peer. |
+| [DZ/sidi-boumediene-mosque](../../../countries/DZ/sights/sidi-boumediene-mosque.yaml) | 8.5 / 8.8 / 8.9 / 8.0 / 8.2 | experience: +0.5 vs peer; impact: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Ornate courtyard. |
+| Uniqueness | 8.9 | Distinct Marinid architecture. |
+| Significance | 9.2 | Important medieval religious education heritage. |
+| Experience | 8.5 | Focused courtyard visit. |
+| Depth | 8.2 | Compact permitted precinct. |
+
+- Applicable categories: architecture:9.4, history:9.2, culture:9.1, photography:9.1.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-al-attarine-madrasa — Al-Attarine Madrasa — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/al-attarine-madrasa.yaml)
+- Action: new
+- Precise subject and limitations: Separate historic madrasa admission; no adjacent Qarawiyyin mosque prayer hall access assumed.
+- Location check: 34.06513, -4.97357; [published representative point](https://mapcarta.com/N3217569206), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.moroccomuseum.com/en/guides-inspirations/medersa-al-attarine-a-fes-chef-d-uvre-merinide-au-c-ur-de-la-medina); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ben-youssef-madrasa](../../../countries/MA/sights/ben-youssef-madrasa.yaml) | 8.9 / 8.8 / 8.9 / 8.7 / 8.1 | impact: -0.2 vs peer; experience: -0.2 vs peer. |
+| [MA/saadian-tombs](../../../countries/MA/sights/saadian-tombs.yaml) | 8.7 / 8.8 / 9.1 / 8.3 / 8.0 | experience: +0.2 vs peer; significance: -0.1 vs peer. |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | depth: -0.7 vs peer; impact: -0.3 vs peer. |
+| [MA/al-batha-museum](../../../countries/MA/sights/al-batha-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.6 / 8.5 | depth: -0.6 vs peer; impact: +0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Fine decorative interiors. |
+| Uniqueness | 8.8 | Distinct Marinid craftsmanship. |
+| Significance | 9.0 | Important medieval education heritage. |
+| Experience | 8.5 | Focused monument visit. |
+| Depth | 7.9 | Small precinct. |
+
+- Applicable categories: architecture:9.4, history:9.1, culture:9.0, photography:9.1.
+- Computed worldwide overall: 86.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-nejjarine-museum — Nejjarine Museum of Wooden Arts and Crafts — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/nejjarine-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated museum in historic merchants' inn, separate from public square and medina walk. Confirm opening and admission.
+- Location check: 34.0648, -4.97596; [published representative point](https://mapcarta.com/W315627077), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://destination.ma/guides/fes-in-three-days); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/al-batha-museum](../../../countries/MA/sights/al-batha-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.6 / 8.5 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+| [MA/dar-el-bacha-museum](../../../countries/MA/sights/dar-el-bacha-museum.yaml) | 8.8 / 8.7 / 8.6 / 8.7 / 8.4 | impact: -0.3 vs peer; significance: +0.2 vs peer. |
+| [MA/yves-saint-laurent-museum](../../../countries/MA/sights/yves-saint-laurent-museum.yaml) | 8.5 / 8.8 / 8.6 / 8.5 / 8.3 | significance: +0.2 vs peer; experience: +0.1 vs peer. |
+| [TN/ennejma-ezzahra-palace](../../../countries/TN/sights/ennejma-ezzahra-palace.yaml) | 8.6 / 8.9 / 8.8 / 8.6 / 8.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Fine restored courtyard. |
+| Uniqueness | 8.8 | Distinct woodworking collection. |
+| Significance | 8.8 | Important craft heritage. |
+| Experience | 8.6 | Dedicated museum visit. |
+| Depth | 8.4 | Several floors and exhibits. |
+
+- Applicable categories: architecture:9.1, culture:9.2, history:8.9, photography:8.8.
+- Computed worldwide overall: 86.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-mohammed-vi-art-museum — Mohammed VI Museum of Modern and Contemporary Art — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/mohammed-vi-art-museum.yaml)
+- Action: new
+- Precise subject and limitations: National modern art museum, distinct from Rabat historic city heritage; temporary exhibitions and hours variable.
+- Location check: 34.01523, -6.83288; [published representative point](https://mapcarta.com/N13630526273), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.fnm.ma/museums/31); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/yves-saint-laurent-museum](../../../countries/MA/sights/yves-saint-laurent-museum.yaml) | 8.5 / 8.8 / 8.6 / 8.5 / 8.3 | depth: +0.5 vs peer; uniqueness: -0.2 vs peer. |
+| [MA/al-batha-museum](../../../countries/MA/sights/al-batha-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.6 / 8.5 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [DZ/national-museum-fine-arts](../../../countries/DZ/sights/national-museum-fine-arts.yaml) | 8.3 / 8.5 / 8.7 / 8.5 / 8.7 | experience: +0.2 vs peer; significance: +0.1 vs peer. |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | uniqueness: -0.7 vs peer; impact: -0.7 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Architectural and gallery experience. |
+| Uniqueness | 8.6 | Distinct national modern art collection. |
+| Significance | 8.8 | National artistic importance. |
+| Experience | 8.7 | Dedicated gallery visit. |
+| Depth | 8.8 | Permanent and rotating exhibitions. |
+
+- Applicable categories: culture:9.3, architecture:8.8, history:8.7.
+- Computed worldwide overall: 86.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-ammeln-valley — Ammeln Valley and Traditional Villages — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/ammeln-valley.yaml)
+- Action: new
+- Precise subject and limitations: Valley villages and walking routes north of Tafraoute; published road junction representative point. Painted Rocks and Ait Mansour excluded; private homes only with permission.
+- Location check: 29.752882, -8.965273; [published representative point](https://explore-agadirsoussmassa.com/en/family-outings-in-tafraoute/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/family-outings-in-tafraoute/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ait-bouguemez-valley](../../../countries/MA/sights/ait-bouguemez-valley.yaml) | 8.9 / 8.9 / 8.5 / 8.8 / 8.9 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [MA/ait-mansour-gorge](../../../countries/MA/sights/ait-mansour-gorge.yaml) | 8.7 / 8.7 / 8.0 / 8.6 / 8.2 | depth: +0.4 vs peer; significance: +0.2 vs peer. |
+| [MA/fint-oasis](../../../countries/MA/sights/fint-oasis.yaml) | 8.7 / 8.6 / 7.9 / 8.6 / 7.9 | depth: +0.7 vs peer; significance: +0.3 vs peer. |
+| [MA/jbel-saghro](../../../countries/MA/sights/jbel-saghro.yaml) | 9.0 / 8.9 / 8.2 / 8.7 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Granite mountains and villages. |
+| Uniqueness | 8.6 | Distinct Anti-Atlas landscape. |
+| Significance | 8.2 | Regional traditional settlement heritage. |
+| Experience | 8.7 | Varied walking routes. |
+| Depth | 8.6 | Multiple villages and routes. |
+
+- Applicable categories: nature:9.0, photography:9.2, culture:9.0, adventure:8.8.
+- Computed worldwide overall: 85.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-oukaimeden — Oukaïmeden Mountain Plateau and Rock Art — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/oukaimeden.yaml)
+- Action: new
+- Precise subject and limitations: Mountain plateau and permitted rock-art viewing, town representative point. Distinct from Toubkal summit ascent. Lift infrastructure reported out of service (https://marrakechauthority.com/en/attractions/oukaimeden); skiing, lift access and snow not assumed. Protect engravings and confirm local guide access.
+- Location check: 31.2053, -7.8613; [published representative point](https://mapcarta.com/Oukaimeden), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://vr.africanrockart.britishmuseum.org/country/morocco/oukaimeden/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/mount-toubkal](../../../countries/MA/sights/mount-toubkal.yaml) | 9.2 / 8.8 / 8.9 / 8.8 / 8.8 | experience: -0.7 vs peer; depth: -0.6 vs peer. |
+| [MA/jbel-saghro](../../../countries/MA/sights/jbel-saghro.yaml) | 9.0 / 8.9 / 8.2 / 8.7 / 8.9 | depth: -0.7 vs peer; experience: -0.6 vs peer. |
+| [MA/ourika-valley](../../../countries/MA/sights/ourika-valley.yaml) | 8.7 / 8.4 / 8.1 / 8.7 / 8.5 | significance: +0.6 vs peer; experience: -0.6 vs peer. |
+| [MA/ait-bouguemez-valley](../../../countries/MA/sights/ait-bouguemez-valley.yaml) | 8.9 / 8.9 / 8.5 / 8.8 / 8.9 | experience: -0.7 vs peer; depth: -0.7 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | High mountain scenery. |
+| Uniqueness | 8.8 | Unusual plateau and rock-art combination. |
+| Significance | 8.7 | Important prehistoric engravings. |
+| Experience | 8.1 | Season-dependent walking and viewing. |
+| Depth | 8.2 | Bounded plateau and permitted sites. |
+
+- Applicable categories: nature:9.1, history:9.0, photography:9.0, adventure:8.8.
+- Computed worldwide overall: 85.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-tizourgane-kasbah — Tizourgane Fortified Village — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/tizourgane-kasbah.yaml)
+- Action: new
+- Precise subject and limitations: Fortified hilltop village and permitted streets, no lodging stay or private-room access included. Distinct from Amtoudi granaries.
+- Location check: 29.886953, -9.001984; [published representative point](https://explore-agadirsoussmassa.com/en/circuit-the-oasis-route/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/tizourgane-land-of-ida-ougnidif/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ait-ben-haddou](../../../countries/MA/sights/ait-ben-haddou.yaml) | 9.4 / 9.4 / 9.2 / 8.9 / 8.4 | impact: -0.8 vs peer; significance: -0.8 vs peer. |
+| [MA/amtoudi-granaries](../../../countries/MA/sights/amtoudi-granaries.yaml) | 8.8 / 9.1 / 8.8 / 8.4 / 8.3 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+| [MA/skoura-amridil](../../../countries/MA/sights/skoura-amridil.yaml) | 8.9 / 9.0 / 8.8 / 8.7 / 8.6 | depth: -0.7 vs peer; experience: -0.5 vs peer. |
+| [DZ/ighzer-ksar](../../../countries/DZ/sights/ighzer-ksar.yaml) | 8.3 / 8.7 / 8.4 / 8.0 / 7.8 | impact: +0.3 vs peer; experience: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Striking fortified hilltop. |
+| Uniqueness | 8.8 | Distinct stone village form. |
+| Significance | 8.4 | Regional fortified settlement heritage. |
+| Experience | 8.2 | Focused permitted heritage walk. |
+| Depth | 7.9 | Compact settlement. |
+
+- Applicable categories: architecture:9.2, photography:9.1, culture:8.9, history:8.8.
+- Computed worldwide overall: 84.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-tiznit-medina — Tiznit Medina and Historic Walls — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/tiznit-medina.yaml)
+- Action: new
+- Precise subject and limitations: Public walled medina, jewelers' souk and kasbah exterior; representative souk point. No private workshops or separate kasbah rating assumed.
+- Location check: 29.696846, -9.731929; [published representative point](https://explore-agadirsoussmassa.com/en/tiznit-practical-information/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/tiznit-practical-information/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/taroudant-medina-walls](../../../countries/MA/sights/taroudant-medina-walls.yaml) | 8.7 / 8.5 / 8.7 / 8.8 / 8.5 | depth: -0.3 vs peer; impact: -0.3 vs peer. |
+| [MA/asilah-medina-fortress](../../../countries/MA/sights/asilah-medina-fortress.yaml) | 8.7 / 8.5 / 8.4 / 8.8 / 8.3 | impact: -0.3 vs peer; experience: -0.2 vs peer. |
+| [TN/medina-sfax](../../../countries/TN/sights/medina-sfax.yaml) | 8.2 / 8.4 / 8.5 / 8.1 / 8.0 | experience: +0.5 vs peer; impact: +0.2 vs peer. |
+| [MA/medina-tetouan](../../../countries/MA/sights/medina-tetouan.yaml) | 8.8 / 9.0 / 9.1 / 8.6 / 8.6 | uniqueness: -0.6 vs peer; significance: -0.6 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Attractive walls and souks. |
+| Uniqueness | 8.4 | Distinct silverworking heritage. |
+| Significance | 8.5 | Regional historic townscape. |
+| Experience | 8.6 | Public urban walks. |
+| Depth | 8.2 | Several linked streets and landmarks. |
+
+- Applicable categories: architecture:8.9, culture:9.0, history:8.8, photography:8.7.
+- Computed worldwide overall: 84.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
