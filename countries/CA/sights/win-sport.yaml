@@ -1,0 +1,16 @@
+id: sight-ca-win-sport
+name: "WinSport Canada Olympic Park Calgary Public Recreation"
+location:
+  country_code: CA
+  latitude: 51.08
+  longitude: -114.22
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    adventure: 9.3
+    history: 9.2
+    family: 9.2

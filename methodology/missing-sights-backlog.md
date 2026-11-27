@@ -4092,3 +4092,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Sooke Potholes Regional Park River Gorge: 84.90/100 (desk-based provisional).
 
 18 additions, 13 desk-based provisional, 5 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 306 ranked / 309 total. Churchill aurora excludes bear/beluga excursions; Four Seasons Centre ballet and opera grouped by venue; Nism̓aakqin uses current park name and excludes independent Tofino beaches and Pacific Rim; Stonehammer Saint John cluster excludes Fundy Trail and St Martins. Fort Rodd Hill and Fisgard grouped; Olympic Park excludes existing museum and garden entries. Winnipeg railway museum deferred pending operating status verification, not rated down for closure. Existing scores and three unassessed retained. Coordinates approximate; access not verified. Keep queue open; no exhaustive coverage claimed.
+
+### Pass 234 — Canada regional heritage, marine paddling and resort experiences
+
+- [x] CA — Battle Harbour Labrador National Historic District: 91.10/100 (source-linked-unverified).
+- [x] CA — Desolation Sound Marine Park Guided Sea Kayaking: 90.25/100 (source-linked-unverified).
+- [x] CA — Tremblant Resort Laurentian Skiing and Pedestrian Village: 89.70/100 (source-linked-unverified).
+- [x] CA — Íslendingadagurinn Icelandic Festival of Manitoba Gimli: 90.50/100 (source-linked-unverified).
+- [x] CA — Le Massif de Charlevoix Ski Resort St Lawrence Views: 88.65/100 (source-linked-unverified).
+- [x] CA — Twin Falls Territorial Park Alexandra and Louise Falls: 87.20/100 (source-linked-unverified).
+- [x] CA — Science North and Dynamic Earth Sudbury: 88.20/100 (desk-based provisional).
+- [x] CA — RCMP Heritage Centre Regina: 87.05/100 (desk-based provisional).
+- [x] CA — Royal Aviation Museum of Western Canada Winnipeg: 87.15/100 (desk-based provisional).
+- [x] CA — Yukon Beringia Interpretive Centre Whitehorse: 87.40/100 (desk-based provisional).
+- [x] CA — SS Klondike National Historic Site Whitehorse: 86.10/100 (desk-based provisional).
+- [x] CA — Elora Gorge Conservation Area Ontario: 85.65/100 (desk-based provisional).
+- [x] CA — Mont-Sainte-Anne Resort Alpine Skiing and Mountain Biking: 86.40/100 (desk-based provisional).
+- [x] CA — Cap Tourmente National Wildlife Area Snow Goose Migration: 87.70/100 (desk-based provisional).
+- [x] CA — Canyon Sainte-Anne Québec Waterfall and Suspension Bridges: 86.05/100 (desk-based provisional).
+- [x] CA — WinSport Canada Olympic Park Calgary Public Recreation: 86.40/100 (desk-based provisional).
+- [x] CA — Fort Beauséjour – Fort Cumberland National Historic Site: 86.70/100 (desk-based provisional).
+- [x] CA — Coteau-du-Lac National Historic Site Canal and Fortifications: 85.10/100 (desk-based provisional).
+
+18 additions, 12 desk-based provisional, 6 source-linked, 3 90+, 36 domestic ranking-row comparisons. CA 324 ranked / 327 total. Tremblant resort excludes provincial park; Battle Harbour grouped with island walks; Science North and Dynamic Earth grouped. Twin Falls trail closure due to erosion and high-water restrictions recorded, not deducted. Klondike goldfields cluster deferred pending Tr’ondëk-Klondike overlap (https://whc.unesco.org/en/list/1564; https://parks.canada.ca/lhn-nhs/yt/klondike/culture); Broughton Archipelago deferred pending Johnstone Strait and Great Bear overlap (https://bcparks.ca/broughton-archipelago-park/); New Brunswick Museum deferred pending public venue status. Existing scores and three unassessed retained. Coordinates approximate; access not verified. Regional screen remains open; no exhaustive coverage claimed.

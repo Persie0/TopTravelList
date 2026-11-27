@@ -1,0 +1,16 @@
+id: sight-ca-yukon-beringia
+name: "Yukon Beringia Interpretive Centre Whitehorse"
+location:
+  country_code: CA
+  latitude: 60.71
+  longitude: -135.07
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.3
+    nature: 9.3
+    family: 9.2

@@ -1,0 +1,16 @@
+id: sight-ca-science-north
+name: "Science North and Dynamic Earth Sudbury"
+location:
+  country_code: CA
+  latitude: 46.47
+  longitude: -81.0
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 9.0
+  depth: 9.0
+  categories:
+    family: 9.4
+    nature: 9.2
+    history: 9.2

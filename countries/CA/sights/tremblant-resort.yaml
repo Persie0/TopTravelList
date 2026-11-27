@@ -1,0 +1,16 @@
+id: sight-ca-tremblant-resort
+name: "Tremblant Resort Laurentian Skiing and Pedestrian Village"
+location:
+  country_code: CA
+  latitude: 46.21
+  longitude: -74.58
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.4
+  depth: 9.2
+  categories:
+    adventure: 9.4
+    nature: 9.3
+    family: 9.3

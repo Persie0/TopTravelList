@@ -7752,3 +7752,390 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 233 scope decisions
 
 18 additions, 13 desk-based provisional, 5 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 306 ranked / 309 total. Churchill aurora excludes bear/beluga excursions; Four Seasons Centre ballet and opera grouped by venue; Nism̓aakqin uses current park name and excludes independent Tofino beaches and Pacific Rim; Stonehammer Saint John cluster excludes Fundy Trail and St Martins. Fort Rodd Hill and Fisgard grouped; Olympic Park excludes existing museum and garden entries. Winnipeg railway museum deferred pending operating status verification, not rated down for closure. Existing scores and three unassessed retained. Coordinates approximate; access not verified. Keep queue open; no exhaustive coverage claimed.
+
+## sight-ca-battle-harbour — Battle Harbour Labrador National Historic District — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/battle-harbour.yaml)
+- Action: new
+- Scope: Restored island fishing settlement with historic saltfish mercantile premises dating back to the eighteenth century. Public heritage visits and associated island walks grouped; no separate accommodation rating.
+- Representative coordinates: 52.28, -55.59; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 8.9 / 9.1.
+- Categories: history:9.4 culture:9.3 photography:9.3.
+- Overall: 91.10/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.newfoundlandlabrador.com/destinations/battle-harbour, https://nationaltrustcanada.ca/destinations/battle-harbour-national-historic-district.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fogo-island](../../../countries/CA/sights/fogo-island.yaml) | 8.8 / 8.9 / 8.8 / 8.9 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+| [CA/red-bay-whaling-station](../../../countries/CA/sights/red-bay-whaling-station.yaml) | 7.7 / 8.9 / 9.1 / 8.1 / 7.7 | impact: +1.3 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-desolation-sound — Desolation Sound Marine Park Guided Sea Kayaking — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/desolation-sound.yaml)
+- Action: new
+- Scope: Sheltered coastal paddling, anchorages and marine park scenery; BC Parks identifies kayaking and guided tours as key activities. Excludes separate northern Vancouver Island whale tours.
+- Representative coordinates: 50.12, -124.72; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.7 / 9.3 / 9.1.
+- Categories: nature:9.4 adventure:9.4 photography:9.3.
+- Overall: 90.25/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/desolation-sound-marine-park/, https://bcparks.ca/plan-your-trip/things-to-do/marine-recreation/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/lake-superior-nmca](../../../countries/CA/sights/lake-superior-nmca.yaml) | 9.1 / 9.1 / 9.0 / 9.1 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [CA/bowron-lake](../../../countries/CA/sights/bowron-lake.yaml) | 9.2 / 9.3 / 9.0 / 9.3 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-tremblant-resort — Tremblant Resort Laurentian Skiing and Pedestrian Village — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/tremblant-resort.yaml)
+- Action: new
+- Scope: Lift-served resort and associated pedestrian village only; excludes separately ranked provincial national park. Operator lists 309 hectares and 103 trails across four mountain sides.
+- Representative coordinates: 46.21, -74.58; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.7 / 9.4 / 9.2.
+- Categories: adventure:9.4 nature:9.3 family:9.3.
+- Overall: 89.70/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.tremblant.ca/mountain-village/mountain-info/tremblant-statistics.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | impact: -0.3 vs peer; uniqueness: -0.4 vs peer |
+| [CA/revelstoke-mountain-resort](../../../countries/CA/sights/revelstoke-mountain-resort.yaml) | 9.2 / 9.1 / 8.6 / 9.4 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-gimli-icelandic-festival — Íslendingadagurinn Icelandic Festival of Manitoba Gimli — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/gimli-icelandic-festival.yaml)
+- Action: new
+- Scope: Recurring Icelandic-Canadian cultural festival first held in Winnipeg in 1890 and in Gimli since 1932; organizer and provincial historical sources document tradition. Festival only, no separate town rating.
+- Representative coordinates: 50.63, -96.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.3 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.3 food:9.2.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.icelandicfestival.com/about/history, https://www.gimli.ca/p/history-of-the-icelandic-festical, https://manitobalg.ca/speeches/icelandic-festival-of-manitoba/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/folklorama](../../../countries/CA/sights/folklorama.yaml) | 9.2 / 9.3 / 9.3 / 9.4 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer |
+| [CA/festival-du-voyageur](../../../countries/CA/sights/festival-du-voyageur.yaml) | 8.7 / 8.8 / 8.9 / 9.0 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-le-massif — Le Massif de Charlevoix Ski Resort St Lawrence Views — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/le-massif.yaml)
+- Action: new
+- Scope: Lift-served ski terrain overlooking St Lawrence, separate from Charlevoix railway. Operator lists 53 trails and glades spanning 406.3 acres.
+- Representative coordinates: 47.28, -70.62; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.2 / 8.9.
+- Categories: adventure:9.4 photography:9.3 nature:9.3.
+- Overall: 88.65/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.lemassif.com/en/activities-events/charlevoix-attractions/charlevoix-ski.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/kicking-horse-resort](../../../countries/CA/sights/kicking-horse-resort.yaml) | 8.9 / 8.9 / 8.4 / 9.3 / 8.9 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/sun-peaks](../../../countries/CA/sights/sun-peaks.yaml) | 8.8 / 8.5 / 8.3 / 9.2 / 9.0 | impact: +0.1 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-twin-falls-nwt — Twin Falls Territorial Park Alexandra and Louise Falls — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/twin-falls-nwt.yaml)
+- Action: new
+- Scope: Grouped Hay River gorge waterfalls, 32 m Alexandra and 15 m Louise per territorial parks. Trail erosion and high-water closures noted by park authority; normal-condition merit retained, actual access not guaranteed.
+- Representative coordinates: 60.53, -116.32; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.8 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 87.20/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.nwtparks.ca/plan-your-trip/road-trips/waterfalls-route, https://www.nwtparks.ca/visiting-parks/advisories/twin-falls-territorial-park-trail-and-viewing-platform-closure.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wells-gray](../../../countries/CA/sights/wells-gray.yaml) | 9.2 / 9.0 / 8.9 / 9.2 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [CA/montmorency-falls](../../../countries/CA/sights/montmorency-falls.yaml) | 8.8 / 8.6 / 8.3 / 8.8 / 8.5 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-science-north — Science North and Dynamic Earth Sudbury — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/science-north.yaml)
+- Action: new
+- Scope: Two related science centres grouped as a regional science experience; includes public mining interpretation at Dynamic Earth and Big Nickel; representative Science North locality.
+- Representative coordinates: 46.47, -81.0; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 9.0 / 9.0.
+- Categories: family:9.4 nature:9.2 history:9.2.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+| [CA/britannia-mine](../../../countries/CA/sights/britannia-mine.yaml) | 8.7 / 8.9 / 8.9 / 9.0 / 8.8 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-rcmp-heritage-centre — RCMP Heritage Centre Regina — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/rcmp-heritage-centre.yaml)
+- Action: new
+- Scope: Public exhibits interpreting mounted police history, including complex historical context; no access to restricted training facilities assumed.
+- Representative coordinates: 50.45, -104.67; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 9.0 / 8.7 / 8.8.
+- Categories: history:9.3 culture:9.2 family:9.1.
+- Overall: 87.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fort-walsh](../../../countries/CA/sights/fort-walsh.yaml) | 8.3 / 8.7 / 9.0 / 8.6 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/canadian-war-museum](../../../countries/CA/sights/canadian-war-museum.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | impact: -0.6 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-royal-aviation-manitoba — Royal Aviation Museum of Western Canada Winnipeg — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/royal-aviation-manitoba.yaml)
+- Action: new
+- Scope: Public western Canadian aviation collection and exhibits.
+- Representative coordinates: 49.9, -97.22; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.9 / 8.8 / 8.9.
+- Categories: history:9.3 family:9.3 culture:9.1.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-aviation-space](../../../countries/CA/sights/canadian-aviation-space.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [CA/canadian-bushplane-centre](../../../countries/CA/sights/canadian-bushplane-centre.yaml) | 8.4 / 8.8 / 8.8 / 8.6 / 8.8 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-yukon-beringia — Yukon Beringia Interpretive Centre Whitehorse — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/yukon-beringia.yaml)
+- Action: new
+- Scope: Public Ice Age ecology and Beringian paleontology interpretation; not fossil excavation.
+- Representative coordinates: 60.71, -135.07; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.9 / 8.7 / 8.8.
+- Categories: history:9.3 nature:9.3 family:9.2.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-fossil-discovery](../../../countries/CA/sights/canadian-fossil-discovery.yaml) | 8.9 / 9.3 / 9.3 / 8.9 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [CA/royal-saskatchewan-museum](../../../countries/CA/sights/royal-saskatchewan-museum.yaml) | 8.5 / 8.6 / 8.7 / 8.7 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-ss-klondike — SS Klondike National Historic Site Whitehorse — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/ss-klondike.yaml)
+- Action: new
+- Scope: Historic Yukon River sternwheeler and interpretation; no assurance of interior admission or restoration status.
+- Representative coordinates: 60.71, -135.05; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.7 / 9.0 / 8.5 / 8.7.
+- Categories: history:9.3 culture:9.1 photography:9.1.
+- Overall: 86.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/maritime-museum-atlantic](../../../countries/CA/sights/maritime-museum-atlantic.yaml) | 8.6 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [CA/fort-langley](../../../countries/CA/sights/fort-langley.yaml) | 8.5 / 8.6 / 9.0 / 8.8 / 8.8 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-elora-gorge — Elora Gorge Conservation Area Ontario — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/elora-gorge.yaml)
+- Action: new
+- Scope: Public gorge trails and regulated seasonal river recreation; excludes separate town shopping.
+- Representative coordinates: 43.68, -80.44; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.2 / 8.9 / 8.6.
+- Categories: nature:9.2 adventure:9.2 photography:9.2.
+- Overall: 85.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/sooke-potholes](../../../countries/CA/sights/sooke-potholes.yaml) | 8.5 / 8.7 / 8.1 / 8.7 / 8.4 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/johnston-canyon](../../../countries/CA/sights/johnston-canyon.yaml) | 8.6 / 8.3 / 7.5 / 8.9 / 8.0 | impact: +0.0 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mont-sainte-anne — Mont-Sainte-Anne Resort Alpine Skiing and Mountain Biking — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mont-sainte-anne.yaml)
+- Action: new
+- Scope: Lift-served alpine and cycling activities; separate from basilica and other resorts. Current lift status not assessed.
+- Representative coordinates: 47.07, -70.91; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.5 / 8.3 / 9.1 / 8.8.
+- Categories: adventure:9.3 nature:9.2 photography:9.2.
+- Overall: 86.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/sun-peaks](../../../countries/CA/sights/sun-peaks.yaml) | 8.8 / 8.5 / 8.3 / 9.2 / 9.0 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/kicking-horse-resort](../../../countries/CA/sights/kicking-horse-resort.yaml) | 8.9 / 8.9 / 8.4 / 9.3 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-cap-tourmente — Cap Tourmente National Wildlife Area Snow Goose Migration — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/cap-tourmente.yaml)
+- Action: new
+- Scope: Seasonal public snow goose observation and wetland walks; abundance variable and access not assumed.
+- Representative coordinates: 47.08, -70.78; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.7 / 8.8 / 8.7.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/point-pelee](../../../countries/CA/sights/point-pelee.yaml) | 8.8 / 9.2 / 9.2 / 9.0 / 9.0 | impact: +0.0 vs peer; uniqueness: -0.4 vs peer |
+| [CA/narcisse-snake-dens](../../../countries/CA/sights/narcisse-snake-dens.yaml) | 9.1 / 9.4 / 9.1 / 8.9 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canyon-sainte-anne — Canyon Sainte-Anne Québec Waterfall and Suspension Bridges — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canyon-sainte-anne.yaml)
+- Action: new
+- Scope: Separate river gorge visitor experience outside ski resort; grouped suspension bridges and waterfalls.
+- Representative coordinates: 47.07, -70.88; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.3 / 8.9 / 8.5.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 86.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montmorency-falls](../../../countries/CA/sights/montmorency-falls.yaml) | 8.8 / 8.6 / 8.3 / 8.8 / 8.5 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/johnston-canyon](../../../countries/CA/sights/johnston-canyon.yaml) | 8.6 / 8.3 / 7.5 / 8.9 / 8.0 | impact: +0.1 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-win-sport — WinSport Canada Olympic Park Calgary Public Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/win-sport.yaml)
+- Action: new
+- Scope: Public winter and summer sport recreation and Olympic heritage at venue; does not assume admission to closed facilities.
+- Representative coordinates: 51.08, -114.22; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.8 / 8.8 / 8.6.
+- Categories: adventure:9.3 history:9.2 family:9.2.
+- Overall: 86.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-olympic-park](../../../countries/CA/sights/montreal-olympic-park.yaml) | 8.7 / 8.8 / 8.9 / 8.6 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [CA/grouse-mountain](../../../countries/CA/sights/grouse-mountain.yaml) | 8.7 / 8.5 / 8.1 / 8.9 / 8.6 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-beausejour — Fort Beauséjour – Fort Cumberland National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-beausejour.yaml)
+- Action: new
+- Scope: Public historic fort earthworks and interpretation, distinct from Grand Pré and Fort Anne.
+- Representative coordinates: 45.86, -64.29; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 9.1 / 8.5 / 8.8.
+- Categories: history:9.4 culture:9.2 architecture:9.1.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/annapolis-royal-fort-anne](../../../countries/CA/sights/annapolis-royal-fort-anne.yaml) | 8.4 / 8.7 / 9.1 / 8.6 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/fortress-louisbourg](../../../countries/CA/sights/fortress-louisbourg.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fortress-of-coteau-du-lac — Coteau-du-Lac National Historic Site Canal and Fortifications — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fortress-of-coteau-du-lac.yaml)
+- Action: new
+- Scope: Historic canal and defence remains, public heritage interpretation; separate from Rideau Canal.
+- Representative coordinates: 45.29, -74.18; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.9 / 8.4 / 8.6.
+- Categories: history:9.3 architecture:9.1 culture:9.1.
+- Overall: 85.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/rideau-canal](../../../countries/CA/sights/rideau-canal.yaml) | 8.2 / 8.6 / 8.8 / 8.7 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/fort-york](../../../countries/CA/sights/fort-york.yaml) | 8.3 / 8.6 / 9.0 / 8.5 / 8.7 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 234 scope decisions
+
+18 additions, 12 desk-based provisional, 6 source-linked, 3 90+, 36 domestic ranking-row comparisons. CA 324 ranked / 327 total. Tremblant resort excludes provincial park; Battle Harbour grouped with island walks; Science North and Dynamic Earth grouped. Twin Falls trail closure due to erosion and high-water restrictions recorded, not deducted. Klondike goldfields cluster deferred pending Tr’ondëk-Klondike overlap (https://whc.unesco.org/en/list/1564; https://parks.canada.ca/lhn-nhs/yt/klondike/culture); Broughton Archipelago deferred pending Johnstone Strait and Great Bear overlap (https://bcparks.ca/broughton-archipelago-park/); New Brunswick Museum deferred pending public venue status. Existing scores and three unassessed retained. Coordinates approximate; access not verified. Regional screen remains open; no exhaustive coverage claimed.

@@ -1,0 +1,16 @@
+id: sight-ca-elora-gorge
+name: "Elora Gorge Conservation Area Ontario"
+location:
+  country_code: CA
+  latitude: 43.68
+  longitude: -80.44
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.2
+    adventure: 9.2
+    photography: 9.2
