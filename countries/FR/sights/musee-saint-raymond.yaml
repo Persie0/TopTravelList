@@ -1,0 +1,16 @@
+id: sight-fr-musee-saint-raymond
+name: "Musée Saint-Raymond Toulouse Archaeology Museum"
+location:
+  country_code: FR
+  latitude: 43.608
+  longitude: 1.442
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 9.0

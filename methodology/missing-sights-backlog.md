@@ -1750,3 +1750,38 @@ Twenty additions; 16 provisional desk estimates, four researched candidates (2 9
 - [x] FR — Forêt d’Iraty Mountain Forest Trails: 87.40/100 (desk-based provisional).
 
 30 additions, 22 fast provisional estimates, 8 source-informed candidates, 4 90+, 32 peer comparisons. France 349 ranked / 360 total; 11 existing unassessed unchanged. Guéret wolf park aliases consolidated; Bayonne cathedral/cloister and Saint-Jean-Pied-de-Port Porte Saint-Jacques covered by Santiago routes. Corniche historical path closure noted and not penalized. Abbadia castle distinct from nature estate; Bayonne museums separate. Next bounded screen: Béarn and Landes final screen: Kakuetta Gorge (normal historical condition), Artouste railway and Pic du Midi d’Ossau scope check against national park, Oloron cathedral and pilgrimage overlap, Salies-de-Béarn, Musée de la Chalosse, Écomusée de Marquèze, Courant d’Huchet, Étang de Léon, Capbreton and Hossegor, Landes forest trails; then Occitanie. Full Python validation pending.
+
+### Pass 145 — accelerated Béarn, Landes and Toulouse audit
+
+- [x] FR — Gorges de Kakuetta Historic Gorge Trail: 87.95/100 (source-linked-unverified).
+- [x] FR — Petit Train d’Artouste Mountain Railway: 90.40/100 (source-linked-unverified).
+- [x] FR — Salies-de-Béarn Historic Salt Town: 85.90/100 (desk-based provisional).
+- [x] FR — Musée de la Chalosse Rural Heritage Museum: 84.35/100 (desk-based provisional).
+- [x] FR — Écomusée de Marquèze Historic Landes Village and Railway: 88.60/100 (desk-based provisional).
+- [x] FR — Courant d’Huchet Nature Reserve and Traditional Boat Tours: 88.90/100 (source-linked-unverified).
+- [x] FR — Hossegor Atlantic Surf Beaches and Dune Walks: 87.55/100 (desk-based provisional).
+- [x] FR — Capbreton Historic Harbour and Estacade: 84.40/100 (desk-based provisional).
+- [x] FR — Landes de Gascogne Forest and Leyre River Nature Trails: 86.25/100 (desk-based provisional).
+- [x] FR — Oloron-Sainte-Marie Sainte-Croix Historic Quarter: 85.40/100 (desk-based provisional).
+- [x] FR — Château de Laàs Museum and Gardens: 84.85/100 (desk-based provisional).
+- [x] FR — Sanctuary of Our Lady of Lourdes and Massabielle Grotto: 92.20/100 (source-linked-unverified).
+- [x] FR — Château Fort de Lourdes and Pyrenean Museum: 87.35/100 (desk-based provisional).
+- [x] FR — Cité de l’Espace Toulouse Space Science Park: 91.85/100 (source-linked-unverified).
+- [x] FR — Aeroscopia Aviation Museum Blagnac: 92.05/100 (source-linked-unverified).
+- [x] FR — Airbus Toulouse Aircraft Assembly Guided Tour: 89.90/100 (source-linked-unverified).
+- [x] FR — Halle de la Machine Toulouse Mechanical Art Experiences: 90.50/100 (source-linked-unverified).
+- [x] FR — Couvent des Jacobins Toulouse Gothic Convent: 90.75/100 (source-linked-unverified).
+- [x] FR — Musée des Augustins Toulouse Fine Arts Museum: 90.70/100 (source-linked-unverified).
+- [x] FR — Collection Bemberg and Hôtel d’Assézat Toulouse: 89.95/100 (source-linked-unverified).
+- [x] FR — Toulouse Capitole Square and Historic City Hall: 88.25/100 (desk-based provisional).
+- [x] FR — Toulouse Garonne River Quays and Pont Neuf: 87.10/100 (desk-based provisional).
+- [x] FR — Musée Saint-Raymond Toulouse Archaeology Museum: 88.50/100 (desk-based provisional).
+- [x] FR — Muséum de Toulouse Natural History Museum: 88.50/100 (desk-based provisional).
+- [x] FR — L’Envol des Pionniers Toulouse Aviation Heritage Museum: 87.50/100 (desk-based provisional).
+- [x] FR — Les Abattoirs Toulouse Modern and Contemporary Art Museum: 87.50/100 (desk-based provisional).
+- [x] FR — Quai des Savoirs Toulouse Science Exhibition Centre: 85.55/100 (desk-based provisional).
+- [x] FR — Jardin des Plantes and Grand Rond Toulouse Gardens: 84.65/100 (desk-based provisional).
+- [x] FR — Jardin Japonais Pierre Baudis Toulouse: 83.70/100 (desk-based provisional).
+- [x] FR — Cathédrale Saint-Étienne Toulouse: 88.00/100 (desk-based provisional).
+
+30 additions, 19 fast provisional estimates, 11 source-informed candidates, 7 90+, 42 peer comparisons. France 379 ranked / 390 total; 11 existing unassessed unchanged. Oloron Sainte-Marie cathedral, Saint-Sernin and Hôtel-Dieu Toulouse deferred as Santiago components (https://whc.unesco.org/en/list/868/; https://www.toulouse-tourisme.com/nos-incontournables/). Pic du Midi d’Ossau deferred as national park landscape overlap; Artouste railway independently scoped with lake boundary caveat. Lac de Léon protected sector covered by Huchet; independent leisure sector deferred. Kakuetta closure explicitly noted; no access advice. 2 requested peer rows not located and omitted, peer corroboration pending. Next bounded screen: Occitanie: La Verna cave (Nouvelle-Aquitaine carryover), Gouffre de Padirac, Rocamadour (Santiago overlap), Saint-Cirq-Lapopie, Pech Merle, Cahors Pont Valentré (Santiago overlap), Cordes-sur-Ciel, Albi Toulouse-Lautrec Museum scope, Castres Goya Museum, Montauban Ingres Bourdelle Museum, Moissac (Santiago overlap), Gorges de l’Aveyron, Najac, Bruniquel, Penne, and Ariège prehistoric sites. Full Python validation pending.

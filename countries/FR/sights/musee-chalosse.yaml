@@ -1,0 +1,16 @@
+id: sight-fr-musee-chalosse
+name: "Musée de la Chalosse Rural Heritage Museum"
+location:
+  country_code: FR
+  latitude: 43.712
+  longitude: -0.818
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.6
+  depth: 8.6
+  categories:
+    culture: 9.1
+    history: 9.0
+    family: 8.9

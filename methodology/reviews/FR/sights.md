@@ -11933,3 +11933,563 @@ Peer ranking rows checked; individual YAML verification pending.
 - Overall: 87.40/100.
 - Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
+
+## sight-fr-kakuetta-gorge — Gorges de Kakuetta Historic Gorge Trail — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/kakuetta-gorge.yaml)
+- Action: new
+- Scope: Historical two-kilometre gorge trail and waterfall scenery; closed until further notice, not a current access recommendation.
+- Representative coordinates: 42.987, -0.847; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.4 / 9.0 / 8.4.
+- Categories: nature:9.3, photography:9.3, adventure:9.2.
+- Overall: 87.95/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.en-pays-basque.fr/territoires-et-destinations/montagnes-iraty-kakuetta/fermeture-des-gorges-de-kakuetta/ ; https://www.guide-bearn-pyrenees.com/fr/tourisme/decouvrir/sites-touristiques/sites-naturels/lourdios-ichere-232/les-gorges-de-kakuetta-1525.html.
+- Research rationale: Historical trail scenery, short gorge scope; current indefinite closure not penalized. No entry advice.
+- High-score challenge: Source-informed screen; final estimate below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/holtzarte-gorge](../../../countries/FR/sights/holtzarte-gorge.yaml) | 8.9 / 8.9 / 8.3 / 9.0 / 8.5 | impact: +0.1 vs peer; significance: +0.1 vs peer |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | 9.5 / 9.2 / 8.8 / 9.2 / 9.2 | depth: -0.8 vs peer; impact: -0.5 vs peer |
+| [ES/alquezar-vero-gorge](../../../countries/ES/sights/alquezar-vero-gorge.yaml) | 8.9 / 8.9 / 8.6 / 8.9 / 8.7 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+| [FR/gavarnie](../../../countries/FR/sights/gavarnie.yaml) | 9.5 / 9.3 / 9.0 / 9.1 / 8.8 | significance: -0.6 vs peer; impact: -0.5 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-artouste-railway — Petit Train d’Artouste Mountain Railway — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/artouste-railway.yaml)
+- Action: new
+- Scope: Cable car and ten-kilometre high-altitude railway visitor circuit; terminal lake is within national park, not scored as an independent lake or entire park.
+- Representative coordinates: 42.878, -0.396; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.6 / 9.2 / 8.8.
+- Categories: nature:9.3, photography:9.4, adventure:9.3, family:9.1.
+- Overall: 90.40/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://artouste.fr/ete/en/train ; https://en.valleedossau.com/artouste-train.
+- Research rationale: Operator and regional tourism describe high-altitude railway and lake terminus. The tourism source explicitly notes park regulations at lake; independent engineering experience only, no park/lake double credit.
+- High-score challenge: 90+ overall supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/cerdagne-railway](../../../countries/FR/sights/cerdagne-railway.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [FR/la-rhune](../../../countries/FR/sights/la-rhune.yaml) | 9.1 / 9.2 / 8.7 / 9.2 / 8.8 | impact: +0.1 vs peer; significance: -0.1 vs peer |
+| [FR/aiguille-du-midi](../../../countries/FR/sights/aiguille-du-midi.yaml) | 9.6 / 9.2 / 8.9 / 9.2 / 8.5 | impact: -0.4 vs peer; significance: -0.3 vs peer |
+| [ES/montserrat](../../../countries/ES/sights/montserrat.yaml) | 9.3 / 9.2 / 9.2 / 9.0 / 9.1 | significance: -0.6 vs peer; depth: -0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-salies-de-bearn — Salies-de-Béarn Historic Salt Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/salies-de-bearn.yaml)
+- Action: new
+- Scope: Historic salt-related streets and salt heritage interpretation; not all spa services.
+- Representative coordinates: 43.471, -0.925; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.7 / 8.7 / 8.5.
+- Categories: history:9.1, culture:9.1, architecture:9.0, relaxation:9.0.
+- Overall: 85.90/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-musee-chalosse — Musée de la Chalosse Rural Heritage Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-chalosse.yaml)
+- Action: new
+- Scope: Historic agricultural estate and rural heritage exhibits.
+- Representative coordinates: 43.712, -0.818; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.5 / 8.5 / 8.6 / 8.6.
+- Categories: culture:9.1, history:9.0, family:8.9.
+- Overall: 84.35/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-ecomusee-marqueze — Écomusée de Marquèze Historic Landes Village and Railway — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ecomusee-marqueze.yaml)
+- Action: new
+- Scope: Open-air rural heritage museum and heritage railway transfer from Sabres.
+- Representative coordinates: 44.151, -0.791; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 8.8 / 9.0 / 8.9.
+- Categories: culture:9.3, history:9.2, family:9.3, relaxation:9.0.
+- Overall: 88.60/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-courant-huchet — Courant d’Huchet Nature Reserve and Traditional Boat Tours — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/courant-huchet.yaml)
+- Action: new
+- Scope: Reserve waterways, trails and licensed boat tours; includes protected part of Lac de Léon; coordinate is reserve visitor centre.
+- Representative coordinates: 43.886789, -1.319252; official reserve centre GPS, not boat departure.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.7 / 9.0 / 8.8.
+- Categories: nature:9.3, wildlife:9.2, photography:9.3, relaxation:9.2.
+- Overall: 88.90/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.reservenaturelle-couranthuchet.org/ ; https://www.bateliers-courant-huchet.fr/ ; https://www.reservenaturelle-couranthuchet.org/reglementation-et-surveillance/reglementation.
+- Research rationale: Reserve centre GPS supplied by official reserve; boat tours through varied ecosystems, some lake covered. No independent boat access assumption.
+- High-score challenge: Source-informed screen; final estimate below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/marais-poitevin-green-venice](../../../countries/FR/sights/marais-poitevin-green-venice.yaml) | 8.8 / 9.0 / 8.9 / 9.1 / 9.0 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [FR/teich-bird-reserve](../../../countries/FR/sights/teich-bird-reserve.yaml) | 8.6 / 8.9 / 8.8 / 8.9 / 8.7 | impact: +0.3 vs peer; uniqueness: +0.1 vs peer |
+| [FR/camargue](../../../countries/FR/sights/camargue.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 9.1 | significance: -0.4 vs peer; depth: -0.3 vs peer |
+| [FR/marais-brouage](../../../countries/FR/sights/marais-brouage.yaml) | 8.5 / 8.7 / 8.5 / 8.8 / 8.7 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-hossegor-surf-coast — Hossegor Atlantic Surf Beaches and Dune Walks — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/hossegor-surf-coast.yaml)
+- Action: new
+- Scope: Hossegor ocean beaches and surf experience; excludes Capbreton port.
+- Representative coordinates: 43.665, -1.443; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.4 / 9.0 / 8.8.
+- Categories: beaches:9.3, adventure:9.3, photography:9.1, relaxation:9.1.
+- Overall: 87.55/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-capbreton-harbour — Capbreton Historic Harbour and Estacade — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/capbreton-harbour.yaml)
+- Action: new
+- Scope: Harbour and historic pier, not adjacent Hossegor beaches.
+- Representative coordinates: 43.653, -1.446; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.3 / 8.7 / 8.3.
+- Categories: photography:9.0, relaxation:9.1, culture:8.9.
+- Overall: 84.40/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-landes-forest-trails — Landes de Gascogne Forest and Leyre River Nature Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/landes-forest-trails.yaml)
+- Action: new
+- Scope: Representative Leyre valley forest and paddling network; excludes Marquèze museum and Courant d’Huchet reserve.
+- Representative coordinates: 44.455, -0.786; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.5 / 8.8 / 9.0.
+- Categories: nature:9.1, adventure:9.0, wildlife:9.0, relaxation:9.2.
+- Overall: 86.25/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-oloron-sainte-croix — Oloron-Sainte-Marie Sainte-Croix Historic Quarter — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/oloron-sainte-croix.yaml)
+- Action: new
+- Scope: Sainte-Croix church and hilltop quarter; excludes UNESCO Sainte-Marie cathedral.
+- Representative coordinates: 43.188, -0.611; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.7 / 8.6 / 8.4.
+- Categories: architecture:9.1, history:9.1, photography:9.0.
+- Overall: 85.40/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-laas — Château de Laàs Museum and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-laas.yaml)
+- Action: new
+- Scope: Historic estate and decorative arts collections, not whole village.
+- Representative coordinates: 43.381, -0.851; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.5 / 8.6 / 8.5.
+- Categories: culture:9.0, architecture:9.0, photography:9.0, relaxation:8.9.
+- Overall: 84.85/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-lourdes-sanctuary — Sanctuary of Our Lady of Lourdes and Massabielle Grotto — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lourdes-sanctuary.yaml)
+- Action: new
+- Scope: Grotto, three basilicas and pilgrimage rituals; significance of religious tradition, no supernatural claims as established fact.
+- Representative coordinates: 43.097, -0.058; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.1 / 9.2.
+- Categories: history:9.3, architecture:9.4, culture:9.4.
+- Overall: 92.20/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.lourdes-france.org/en/lourdes-pilgrimage/our-mission-welcome-pilgrims/ ; https://en.lourdes-infotourisme.com/finding-your-light/pilgrimage-to-lourdes/ ; https://en.lourdes-infotourisme.com/finding-your-light/must-see-attractions-at-the-sanctuary-of-our-lady-of-lourdes/the-basilicas/.
+- Research rationale: Long-established international pilgrimage destination with grotto, three basilicas and processions. Historical and cultural significance of pilgrimage, independent of visitor religious affiliation.
+- High-score challenge: 90+ overall supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | depth: +0.7 vs peer; experience: +0.3 vs peer |
+| [FR/mont-saint-michel](../../../countries/FR/sights/mont-saint-michel.yaml) | 9.7 / 9.6 / 9.4 / 9.3 / 9.1 | impact: -0.6 vs peer; uniqueness: -0.3 vs peer |
+| [ES/guadalupe](../../../countries/ES/sights/guadalupe.yaml) | 8.9 / 9.0 / 9.3 / 8.7 / 8.5 | depth: +0.7 vs peer; experience: +0.4 vs peer |
+| [PT/jeronimos](../../../countries/PT/sights/jeronimos.yaml) | 9.3 / 9.3 / 9.4 / 9.0 / 8.8 | depth: +0.4 vs peer; impact: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-lourdes-fortified-castle — Château Fort de Lourdes and Pyrenean Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lourdes-fortified-castle.yaml)
+- Action: new
+- Scope: Castle and regional ethnographic museum, excludes sanctuary.
+- Representative coordinates: 43.096, -0.049; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.8 / 8.7.
+- Categories: history:9.2, architecture:9.2, photography:9.2, culture:9.1.
+- Overall: 87.35/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-cite-espace-toulouse — Cité de l’Espace Toulouse Space Science Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cite-espace-toulouse.yaml)
+- Action: new
+- Scope: Space exhibits, full-scale models, authentic objects and planetarium, excludes aviation venues.
+- Representative coordinates: 43.587, 1.482; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.0 / 9.3 / 9.3.
+- Categories: culture:9.3, family:9.4, adventure:9.1.
+- Overall: 91.85/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://metropole.toulouse.fr/annuaire/cite-de-lespace ; https://www.toulouse-tourisme.com/en/activite/cite-de-lespace/ ; https://www.toulouse-tourisme.com/en/exploring-outer-space/.
+- Research rationale: Real Mir modules and lunar sample, full-scale spacecraft reproductions, interactive exhibits and planetarium distinguish the extensive science park.
+- High-score challenge: 90+ overall supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/air-space-museum-le-bourget](../../../countries/FR/sights/air-space-museum-le-bourget.yaml) | 9.2 / 9.2 / 9.2 / 9.0 / 9.3 | experience: +0.3 vs peer; significance: -0.2 vs peer |
+| [FR/cite-des-sciences](../../../countries/FR/sights/cite-des-sciences.yaml) | 8.8 / 8.8 / 8.7 / 9.2 / 9.3 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | experience: +0.3 vs peer; impact: +0.2 vs peer |
+| [FR/cite-de-la-mer](../../../countries/FR/sights/cite-de-la-mer.yaml) | 9.0 / 9.2 / 9.0 / 9.1 / 9.2 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-aeroscopia — Aeroscopia Aviation Museum Blagnac — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/aeroscopia.yaml)
+- Action: new
+- Scope: Aircraft museum and display areas, excludes operational Airbus factory tours.
+- Representative coordinates: 43.66, 1.358; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.1 / 9.2 / 9.2.
+- Categories: culture:9.3, history:9.3, family:9.4, photography:9.1.
+- Overall: 92.05/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://metropole.toulouse.fr/annuaire/musee-aeroscopia ; https://www.aeroscopia.fr/musee-collections/ ; https://www.toulouse-tourisme.com/en/activite/aeroscopia-aeronautical-museum/.
+- Research rationale: Original Concorde, Caravelle, A300B, A380 and other historic aircraft; selected aircraft interiors, substantial collection. No factory access credit.
+- High-score challenge: 90+ overall supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/air-space-museum-le-bourget](../../../countries/FR/sights/air-space-museum-le-bourget.yaml) | 9.2 / 9.2 / 9.2 / 9.0 / 9.3 | experience: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+| [FR/cite-de-la-mer](../../../countries/FR/sights/cite-de-la-mer.yaml) | 9.0 / 9.2 / 9.0 / 9.1 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/escal-atlantic](../../../countries/FR/sights/escal-atlantic.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | impact: +0.4 vs peer; depth: +0.4 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-airbus-factory-tour — Airbus Toulouse Aircraft Assembly Guided Tour — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/airbus-factory-tour.yaml)
+- Action: new
+- Scope: Authorized guided factory visitor routes only, no unescorted or production access assumption; distinct from Aeroscopia.
+- Representative coordinates: 43.655, 1.367; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.0 / 8.8 / 8.5.
+- Categories: culture:9.2, history:9.1, family:8.9.
+- Overall: 89.90/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.toulouse-tourisme.com/en/activite/lets-visit-airbus/ ; https://www.meetings-toulouse.fr/en/imagine/airbus/.
+- Research rationale: Authorized guided routes through operational industrial heritage; rare manufacturing viewpoint, limited by guided tour scope, not comprehensive factory access.
+- High-score challenge: Source-informed screen; final estimate below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/saint-nazaire-shipyard-tour](../../../countries/FR/sights/saint-nazaire-shipyard-tour.yaml) | 9.0 / 9.2 / 8.6 / 8.9 / 8.7 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [FR/air-space-museum-le-bourget](../../../countries/FR/sights/air-space-museum-le-bourget.yaml) | 9.2 / 9.2 / 9.2 / 9.0 / 9.3 | depth: -0.8 vs peer; impact: -0.3 vs peer |
+| [FR/rochefort-arsenal](../../../countries/FR/sights/rochefort-arsenal.yaml) | 8.7 / 9.0 / 9.2 / 8.7 / 9.0 | depth: -0.5 vs peer; uniqueness: +0.4 vs peer |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | depth: -0.8 vs peer; uniqueness: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-halle-machine-toulouse — Halle de la Machine Toulouse Mechanical Art Experiences — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/halle-machine-toulouse.yaml)
+- Action: new
+- Scope: Mechanical art performances and Minotaur experience, excludes Nantes installation.
+- Representative coordinates: 43.566, 1.478; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 8.6 / 9.3 / 8.8.
+- Categories: culture:9.4, family:9.4, photography:9.2.
+- Overall: 90.50/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://metropole.toulouse.fr/annuaire/halle-de-la-machine ; https://www.halledelamachine.fr/en/la-piste-des-geants/voyagez-a-dos-de-minotaure/ ; https://www.lamachine.fr/en/projets-urbains/la-halle-de-la-machine/.
+- Research rationale: Distinctive large moving sculptures and visitor ride, strong uniqueness and participatory experience; narrower historic significance than traditional museums.
+- High-score challenge: 90+ overall supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/machines-ile-nantes](../../../countries/FR/sights/machines-ile-nantes.yaml) | 9.3 / 9.4 / 8.4 / 9.3 / 9.0 | impact: -0.2 vs peer; significance: +0.2 vs peer |
+| [FR/puy-du-fou](../../../countries/FR/sights/puy-du-fou.yaml) | 9.3 / 9.4 / 8.1 / 9.4 / 9.3 | significance: +0.5 vs peer; depth: -0.5 vs peer |
+| [FR/parc-asterix](../../../countries/FR/sights/parc-asterix.yaml) | 9.0 / 8.9 / 8.1 / 9.3 / 9.2 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [FR/clos-luce](../../../countries/FR/sights/clos-luce.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | significance: -0.7 vs peer; depth: -0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-couvent-jacobins — Couvent des Jacobins Toulouse Gothic Convent — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/couvent-jacobins.yaml)
+- Action: new
+- Scope: Church, palm-shaped vault, cloister and chapels; not Saint-Sernin.
+- Representative coordinates: 43.604, 1.44; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 8.9 / 8.8.
+- Categories: architecture:9.4, history:9.4, culture:9.2, photography:9.2.
+- Overall: 90.75/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.toulouse-tourisme.com/en/unmissables/must-see-the-jacobins-convent/ ; https://metropole.toulouse.fr/annuaire/couvent-des-jacobins ; https://www.visit-occitanie.com/en/discovering/major-sites/toulouse/toulouse-overview-its-greatest-monuments/.
+- Research rationale: 28-metre palm vault, Dominican convent, relics and cloister; rare Southern Gothic architecture with significant religious history.
+- High-score challenge: 90+ overall supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/fontevraud-abbey](../../../countries/FR/sights/fontevraud-abbey.yaml) | 9.1 / 9.2 / 9.4 / 9.0 / 9.0 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [ES/poblet](../../../countries/ES/sights/poblet.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.6 | uniqueness: +0.2 vs peer; depth: +0.2 vs peer |
+| [PT/batalha](../../../countries/PT/sights/batalha.yaml) | 9.2 / 9.2 / 9.3 / 9.0 / 8.7 | impact: -0.2 vs peer; experience: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-musee-augustins — Musée des Augustins Toulouse Fine Arts Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-augustins.yaml)
+- Action: new
+- Scope: Historic convent and fine arts collection; normal full museum scope, not assumed all galleries currently open.
+- Representative coordinates: 43.601, 1.446; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 9.0 / 9.1.
+- Categories: culture:9.4, history:9.4, architecture:9.3.
+- Overall: 90.70/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://augustins.toulouse.fr/en/selected-works/ ; https://augustins.toulouse.fr/en/quick-intro/ ; https://augustins.toulouse.fr/en/plan-your-visit/.
+- Research rationale: Over 4,000 works, distinctive Romanesque sculpture and medieval convent setting; partial gallery closure recorded without intrinsic penalty.
+- High-score challenge: 90+ overall supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-cluny](../../../countries/FR/sights/musee-cluny.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/rouen-fine-arts](../../../countries/FR/sights/rouen-fine-arts.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.1 | uniqueness: +0.3 vs peer; significance: +0.1 vs peer |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; significance: +0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-fondation-bemberg — Collection Bemberg and Hôtel d’Assézat Toulouse — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/fondation-bemberg.yaml)
+- Action: new
+- Scope: Fine arts collection and Renaissance mansion as one integrated visit.
+- Representative coordinates: 43.6, 1.442; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 9.0 / 9.0.
+- Categories: culture:9.4, architecture:9.3, history:9.2.
+- Overall: 89.95/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.fondation-bemberg.fr/en ; https://metropole.toulouse.fr/annuaire/collection-bemberg-hotel-dassezat ; https://www.culture.gouv.fr/regions/drac-occitanie/actualites/actualite-a-la-une/a-toulouse-la-fondation-bemberg-rouvre-apres-trois-ans-de-travaux.
+- Research rationale: Renaissance mansion and distinctive collection including major Bonnard group and Renaissance painting. Smaller scale than major national museums.
+- High-score challenge: Source-informed screen; final estimate below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.0 | uniqueness: +0.2 vs peer; significance: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-toulouse-capitole — Toulouse Capitole Square and Historic City Hall — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/toulouse-capitole.yaml)
+- Action: new
+- Scope: Square and normally visitable civic interiors; excludes separate churches and museums.
+- Representative coordinates: 43.604, 1.444; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.9 / 8.9 / 8.4.
+- Categories: architecture:9.3, photography:9.3, history:9.2, culture:9.1.
+- Overall: 88.25/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-toulouse-garonne-quays — Toulouse Garonne River Quays and Pont Neuf — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/toulouse-garonne-quays.yaml)
+- Action: new
+- Scope: Riverside walks and viewpoints, not Canal du Midi or UNESCO Hôtel-Dieu interiors.
+- Representative coordinates: 43.601, 1.438; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.5 / 9.0 / 8.7.
+- Categories: photography:9.3, relaxation:9.3, architecture:9.1.
+- Overall: 87.10/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-musee-saint-raymond — Musée Saint-Raymond Toulouse Archaeology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-saint-raymond.yaml)
+- Action: new
+- Scope: Roman archaeological collections including sculpture; excludes adjacent basilica.
+- Representative coordinates: 43.608, 1.442; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.9 / 8.8.
+- Categories: history:9.3, culture:9.2, architecture:9.0.
+- Overall: 88.50/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-museum-toulouse — Muséum de Toulouse Natural History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/museum-toulouse.yaml)
+- Action: new
+- Scope: Natural history displays and associated botanical interpretation, not separate public gardens.
+- Representative coordinates: 43.594, 1.45; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.8 / 9.0 / 9.0.
+- Categories: nature:9.3, culture:9.2, family:9.3, wildlife:9.0.
+- Overall: 88.50/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-envol-pionniers — L’Envol des Pionniers Toulouse Aviation Heritage Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/envol-pionniers.yaml)
+- Action: new
+- Scope: Aéropostale history and exhibitions; excludes Halle de la Machine and Aeroscopia.
+- Representative coordinates: 43.568, 1.474; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.8 / 8.7.
+- Categories: history:9.3, culture:9.2, family:9.0.
+- Overall: 87.50/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-les-abattoirs — Les Abattoirs Toulouse Modern and Contemporary Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/les-abattoirs.yaml)
+- Action: new
+- Scope: Museum and exhibitions in converted slaughterhouse.
+- Representative coordinates: 43.601, 1.429; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.8 / 8.8.
+- Categories: culture:9.3, architecture:9.1, photography:9.0.
+- Overall: 87.50/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-quai-savoirs — Quai des Savoirs Toulouse Science Exhibition Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/quai-savoirs.yaml)
+- Action: new
+- Scope: Interactive science exhibitions distinct from adjacent natural history museum; coordinates approximate.
+- Representative coordinates: 43.594, 1.45; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.3 / 8.9 / 8.6.
+- Categories: family:9.3, culture:9.1.
+- Overall: 85.55/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-toulouse-jardin-plantes — Jardin des Plantes and Grand Rond Toulouse Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/toulouse-jardin-plantes.yaml)
+- Action: new
+- Scope: Public garden walks, excludes paid museum and dedicated botanical interpretation.
+- Representative coordinates: 43.594, 1.451; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.3 / 8.3 / 8.8 / 8.6.
+- Categories: relaxation:9.2, nature:9.0, photography:9.0.
+- Overall: 84.65/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-toulouse-jardin-japonais — Jardin Japonais Pierre Baudis Toulouse — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/toulouse-jardin-japonais.yaml)
+- Action: new
+- Scope: Japanese-style garden within Compans-Caffarelli, not whole surrounding park.
+- Representative coordinates: 43.613, 1.433; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.0 / 8.7 / 8.2.
+- Categories: relaxation:9.2, photography:9.1, nature:8.9.
+- Overall: 83.70/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-toulouse-cathedrale-saint-etienne — Cathédrale Saint-Étienne Toulouse — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/toulouse-cathedrale-saint-etienne.yaml)
+- Action: new
+- Scope: Cathedral interior and exterior, independent of Saint-Sernin Santiago component.
+- Representative coordinates: 43.6, 1.45; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 8.7 / 8.5.
+- Categories: architecture:9.3, history:9.2, culture:9.1.
+- Overall: 88.00/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
