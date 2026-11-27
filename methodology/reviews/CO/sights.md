@@ -3242,3 +3242,302 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 275 scope decisions
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 45 ranking-row comparisons (22 international). CO 146 ranked / 150 total, +95 since baseline 55. Prior UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 partial mapping carried forward without recheck. Popayán congress date conflict (tourism calendar vs ministry October report) recorded; UNESCO Creative City not event inscription. Buga structural damage and closure documented after August 2026 earthquake; reopening not confirmed, no score penalty. Tarapoto lake scope non-additive to broader Leticia river itinerary; Juanchaco/Ladrilleros/La Barra deferred because park agency includes them in Uramba visitor scope (https://www.parquesnacionales.gov.co/nuestros-parques/pnn-uramba-bahia-malaga/). Salento and Filandia built heritage only, non-additive to overlapping coffee landscape. Existing scores and four unassessed preserved. Earlier tentative-property deferrals retained. Queue OPEN for final targeted screen of remaining major regional festivals, heritage and natural routes; no fixed quota. Coordinates approximate; schedules, security and current access unverified.
+
+## sight-co-riosucio-carnival — Riosucio Biennial Carnival Public Masked Parades and Satirical Traditions — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/riosucio-carnival.yaml)
+- Action: new
+- Scope: Biennial public carnival, recognized by Law 1736 of 2014 as national cultural and artistic heritage. Distinct from Pasto and Barranquilla. Event-specific performances and satire, not a separate museum rating.
+- Representative coordinates: 5.421, -75.703; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.4.
+- Overall: 92.90/100.
+- Source: https://normograma.mincultura.gov.co/mincultura/compilacion/docs/ley_1736_2014.htm
+- Source: https://caldas.gov.co/process-page-2/1170-riosucio
+- Source: https://carnavalderiosuciocaldas.org/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/barranquilla-carnival](../../../countries/CO/sights/barranquilla-carnival.yaml) | 9.5 / 9.4 / 9.5 / 9.5 / 9.3 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [CO/pasto-negros-y-blancos](../../../countries/CO/sights/pasto-negros-y-blancos.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.2 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PE/huaconada-mito](../../../countries/PE/sights/huaconada-mito.yaml) | 9.1 / 9.4 / 9.4 / 9.0 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: +0.1; uniqueness: +0.3 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-manizales-fair — Feria de Manizales Public Parades Music and Coffee Culture — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/manizales-fair.yaml)
+- Action: new
+- Scope: Public music, parades, coffee traditions and trova; national heritage according to tourism board. Municipality announces 70th edition January 3–10 2027. Scope excludes bullfighting and permanent coffee landscape experiences.
+- Representative coordinates: 5.068, -75.517; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.1 / 9.2 / 9.3 / 9.2.
+- Categories: culture:9.4 photography:9.3 food:9.2.
+- Overall: 92.20/100.
+- Source: https://centrodeinformacion.manizales.gov.co/manizales-presento-la-programacion-de-su-feria-numero-70-una-celebracion-historica-que-llegara-a-toda-la-ciudad/
+- Source: https://colombia.travel/es/ferias-y-fiestas/feria-de-manizales
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/feria-de-cali](../../../countries/CO/sights/feria-de-cali.yaml) | 9.2 / 9.1 / 9.2 / 9.4 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [CO/medellin-flower-festival](../../../countries/CO/sights/medellin-flower-festival.yaml) | 9.3 / 9.3 / 9.2 / 9.4 / 9.2 | impact: +0.0; uniqueness: -0.2 vs peer |
+| [PE/trujillo-spring-festival](../../../countries/PE/sights/trujillo-spring-festival.yaml) | 8.9 / 9.0 / 9.2 / 9.2 / 9.0 | impact: +0.4; uniqueness: +0.1 vs peer |
+| [PE/raymi-llaqta-chachapoyas](../../../countries/PE/sights/raymi-llaqta-chachapoyas.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.3; uniqueness: -0.1 vs peer |
+| [BR/holambra-expoflora](../../../countries/BR/sights/holambra-expoflora.yaml) | 8.9 / 8.8 / 8.8 / 9.1 / 8.9 | impact: +0.4; uniqueness: +0.3 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: +0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-el-banco-cumbia-festival — El Banco José Barros National Cumbia Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/el-banco-cumbia-festival.yaml)
+- Action: new
+- Scope: National cultural heritage under Law 1701 of 2013. Department documents August 2026 programme and community tourism. Named cumbia event independent of Barranquilla carnival.
+- Representative coordinates: 9.004, -73.975; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 92.10/100.
+- Source: https://normograma.mincultura.gov.co/compilacion/docs/ley_1701_2013.htm
+- Source: https://www.gobernaciondelmagdalena.gov.co/gobernacion-del-magdalena-reafirma-su-compromiso-con-la-salvaguardia-y-apoya-el-festival-nacional-de-la-cumbia/
+- Source: https://colombia.travel/es/santa-marta/festival-de-la-cumbia
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/vallenato-legend-festival](../../../countries/CO/sights/vallenato-legend-festival.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [CO/san-jacinto-gaita-festival](../../../countries/CO/sights/san-jacinto-gaita-festival.yaml) | 8.8 / 9.0 / 9.0 / 8.9 / 8.8 | impact: +0.3; uniqueness: +0.3 vs peer |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/jauja-tunantada](../../../countries/PE/sights/jauja-tunantada.yaml) | 9.1 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-tatama-montezuma — Tatamá National Natural Park Montezuma Authorized Cloud Forest Birding Route — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/tatama-montezuma.yaml)
+- Action: new
+- Scope: Park authority documents important bird area and authorized ecotourism providers; named Montezuma route, not unrestricted páramo or military area access. No guaranteed species sightings.
+- Representative coordinates: 5.17, -76.05; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 8.8 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.25/100.
+- Source: https://www.parquesnacionales.gov.co/nuestros-parques/pnn-tatama/
+- Source: https://old.parquesnacionales.gov.co/portal/es/parques-nacionales/parque-nacional-natural-tatama/informacion-y-reservas/
+- Source: https://colombiabirdwatch.com/birding-routes/central-andes-and-northern-portion-of-western-andes/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/rio-blanco-birding](../../../countries/CO/sights/rio-blanco-birding.yaml) | 9.0 / 9.2 / 9.1 / 8.9 / 9.0 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [CO/el-dorado-proaves](../../../countries/CO/sights/el-dorado-proaves.yaml) | 9.1 / 9.4 / 9.3 / 8.8 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/abra-patricia-birding](../../../countries/PE/sights/abra-patricia-birding.yaml) | 9.1 / 9.4 / 9.3 / 8.9 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/huembo-reserve](../../../countries/PE/sights/huembo-reserve.yaml) | 8.7 / 9.3 / 8.9 / 8.8 / 8.5 | impact: +0.4; uniqueness: +0.0 vs peer |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PE/yanachaga-chemillen](../../../countries/PE/sights/yanachaga-chemillen.yaml) | 8.8 / 8.9 / 9.0 / 8.7 / 8.9 | impact: +0.3; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-cartagena-ficci — Cartagena International Film Festival FICCI Public Cinema Programme — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cartagena-ficci.yaml)
+- Action: new
+- Scope: Latin America's oldest film festival according to organizer and Proimágenes; 66th edition announced April 6–11 2027. Separate from Hay, classical music and independence celebrations.
+- Representative coordinates: 10.423, -75.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.3 nightlife:9.0.
+- Overall: 91.25/100.
+- Source: https://ficcifestival.com/articulos/ficci-66-abre-su-convocatoria-oficial-para-peliculas-de-colombia-iberoamerica-y-el-mundo
+- Source: https://proimagenescolombia.com/secciones/eventos/evento_interna.php?lang=en&ntd=1265
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/cartagena-hay-festival](../../../countries/CO/sights/cartagena-hay-festival.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [CO/bogota-fiav](../../../countries/CO/sights/bogota-fiav.yaml) | 9.0 / 9.0 / 9.1 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [BR/festival-de-curitiba](../../../countries/BR/sights/festival-de-curitiba.yaml) | 9.0 / 9.1 / 9.1 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-san-pelayo-porro — San Pelayo National Porro Festival Traditional Brass Band Performances — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/san-pelayo-porro.yaml)
+- Action: new
+- Scope: Law 2259 of 2022 recognizes Porro and festival as safeguarding action; no claim that separate representative-list registration was completed. Tourism board documents 2026 public programme. Separate from cumbia and gaita festivals.
+- Representative coordinates: 8.958, -75.836; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.05/100.
+- Source: https://normograma.mincultura.gov.co/mincultura/compilacion/docs/ley_2259_2022.htm
+- Source: https://colombia.travel/es/ferias-y-fiestas/festival-nacional-del-porro
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/san-jacinto-gaita-festival](../../../countries/CO/sights/san-jacinto-gaita-festival.yaml) | 8.8 / 9.0 / 9.0 / 8.9 / 8.8 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [CO/vallenato-legend-festival](../../../countries/CO/sights/vallenato-legend-festival.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-ginebra-mono-nunez — Ginebra Mono Núñez Andean Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/ginebra-mono-nunez.yaml)
+- Action: new
+- Scope: Organizer documents recurring Andean music competition since 1975; tourism board traces origins to 1974. Fontur reports national cultural heritage declaration in 2003. Distinct from Aguadas pasillo and other regional festivals.
+- Representative coordinates: 3.725, -76.267; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.0.
+- Overall: 90.90/100.
+- Source: https://funmusica.org/mono-nunez/
+- Source: https://calendarioferiasyfiestas.fontur.com.co/agenda/festival-de-musica-andina-colombiana-mono-nunez
+- Source: https://colombia.travel/en/fairs-and-festivals/colombian-music-festival-mono-nunez
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/neiva-bambuco](../../../countries/CO/sights/neiva-bambuco.yaml) | 9.2 / 9.2 / 9.4 / 9.2 / 9.1 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [CO/vallenato-legend-festival](../../../countries/CO/sights/vallenato-legend-festival.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-aguadas-pasillo — Aguadas National Colombian Pasillo Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/aguadas-pasillo.yaml)
+- Action: new
+- Scope: Law 983 of 2005 declares festival national cultural heritage. Department documents 35th edition in 2026; event separate from permanent Aguadas town and Ginebra festival.
+- Representative coordinates: 5.61, -75.456; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.0.
+- Overall: 90.50/100.
+- Source: https://normograma.mincultura.gov.co/mincultura/compilacion/docs/ley_0983_2005.htm
+- Source: https://www.caldas.gov.co/noticias-gobernacion/141-cultura/17078-con-el-respaldo-de-la-gobernacion-de-caldas-aguadas-celebro-los-35-anos-del-festival-nacional-del-pasillo-colombiano
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/aguadas-historic-centre](../../../countries/CO/sights/aguadas-historic-centre.yaml) | 8.3 / 8.7 / 8.9 / 8.6 / 8.6 | impact: +0.5; uniqueness: +0.4 vs peer |
+| [CO/neiva-bambuco](../../../countries/CO/sights/neiva-bambuco.yaml) | 9.2 / 9.2 / 9.4 / 9.2 / 9.1 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-lago-de-tota — Lago de Tota Highland Lake and Playa Blanca Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/lago-de-tota.yaml)
+- Action: new
+- Scope: Colombia's largest natural freshwater lake per tourism board, grouped with southern Playa Blanca. Distinct from Caribbean Playa Blanca. Water quality and swimming safety not verified.
+- Representative coordinates: 5.52, -72.96; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.3 photography:9.4 relaxation:9.2.
+- Overall: 87.05/100.
+- Source: https://colombia.travel/en/tota
+- Source: https://situr.boyaca.gov.co/atractivo-turistico/lago-de-tota/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/laguna-de-la-cocha](../../../countries/CO/sights/laguna-de-la-cocha.yaml) | 8.4 / 8.2 / 7.9 / 8.4 / 8.0 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [CO/guatavita-lagoon](../../../countries/CO/sights/guatavita-lagoon.yaml) | 8.3 / 8.4 / 8.6 / 8.0 / 7.1 | impact: +0.5; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-pantano-de-vargas — Pantano de Vargas Independence Battlefield and Monument to the Lancers — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/pantano-de-vargas.yaml)
+- Action: new
+- Scope: Historic independence battlefield and public monument grouped. Regional tourism inventory supplies representative coordinates; no separate sculpture rating.
+- Representative coordinates: 5.739139, -73.071861; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.3 / 8.6 / 8.7.
+- Categories: history:9.4 culture:9.2 photography:9.2.
+- Overall: 87.70/100.
+- Source: https://situr.boyaca.gov.co/atractivo-turistico/pantano-de-vargas/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/quinta-san-pedro-alejandrino](../../../countries/CO/sights/quinta-san-pedro-alejandrino.yaml) | 8.7 / 8.9 / 9.3 / 8.7 / 8.9 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [CO/museo-nacional-colombia](../../../countries/CO/sights/museo-nacional-colombia.yaml) | 8.9 / 9.0 / 9.4 / 9.0 / 9.4 | impact: -0.4; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-puente-de-boyaca — Puente de Boyacá Independence Historic Battlefield and Memorial Park — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/puente-de-boyaca.yaml)
+- Action: new
+- Scope: Desk-based distinct independence battlefield and memorials, not Pantano de Vargas. Approximate coordinates; current facilities unverified.
+- Representative coordinates: 5.45, -73.43; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 9.4 / 8.4 / 8.7.
+- Categories: history:9.4 culture:9.2 architecture:9.0.
+- Overall: 86.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/quinta-san-pedro-alejandrino](../../../countries/CO/sights/quinta-san-pedro-alejandrino.yaml) | 8.7 / 8.9 / 9.3 / 8.7 / 8.9 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [CO/museo-nacional-colombia](../../../countries/CO/sights/museo-nacional-colombia.yaml) | 8.9 / 9.0 / 9.4 / 9.0 / 9.4 | impact: -0.5; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-jardin-cueva-del-esplendor — Jardín Cueva del Esplendor Cave Waterfall and Forest Walk — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/jardin-cueva-del-esplendor.yaml)
+- Action: new
+- Scope: Cave with waterfall entering roof opening; excludes Jardín built heritage. Route authorization and coordinates require independent verification.
+- Representative coordinates: 5.65, -75.8; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.0 / 8.8 / 8.4.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 86.25/100.
+- Source: https://www.colparques.net/ESPLENDOR
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/mocoa-fin-del-mundo](../../../countries/CO/sights/mocoa-fin-del-mundo.yaml) | 8.9 / 8.8 / 8.2 / 8.8 / 8.6 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [CO/la-chorrera-waterfall](../../../countries/CO/sights/la-chorrera-waterfall.yaml) | 8.5 / 8.2 / 6.9 / 8.4 / 7.3 | impact: +0.3; uniqueness: +0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-paipa-hot-springs — Paipa Thermal Springs and Sochagota Lake Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/paipa-hot-springs.yaml)
+- Action: new
+- Scope: Desk-based thermal and lake leisure circuit, excludes independence battlefield. No claims about therapeutic efficacy or current opening.
+- Representative coordinates: 5.76, -73.12; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.3 / 8.1 / 9.0 / 8.6.
+- Categories: relaxation:9.4 nature:8.9 family:9.1.
+- Overall: 83.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/termales-de-santa-rosa-de-cabal](../../../countries/CO/sights/termales-de-santa-rosa-de-cabal.yaml) | 8.3 / 8.0 / 6.5 / 9.0 / 7.5 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [CO/laguna-de-la-cocha](../../../countries/CO/sights/laguna-de-la-cocha.yaml) | 8.4 / 8.2 / 7.9 / 8.4 / 8.0 | impact: -0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 276 scope decisions
+
+13 additions, 11 source-linked provisional, 2 desk-based provisional, 8 90+, 50 ranking-row comparisons (24 international). CO 159 ranked / 163 total, +108 since baseline 55. Prior UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 partial mapping carried forward without recheck. National heritage festival laws and named current programmes checked; Manizales excludes bullfighting, Tatamá restricted to authorized ecotourism route. Earlier access, security, overlapping route and tentative property deferrals retained. Existing scores and four unassessed preserved. PAUSED after nine discovery passes to diversify worldwide screening; not exhaustive, unresolved tentative property mapping and further regional omissions remain. Coordinates approximate; schedules, security and current access unverified.

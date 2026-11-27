@@ -4885,3 +4885,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — Girón Historic Centre Colonial Whitewashed Architecture: 85.20/100 (desk-based provisional).
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 45 ranking-row comparisons (22 international). CO 146 ranked / 150 total, +95 since baseline 55. Prior UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 partial mapping carried forward without recheck. Popayán congress date conflict (tourism calendar vs ministry October report) recorded; UNESCO Creative City not event inscription. Buga structural damage and closure documented after August 2026 earthquake; reopening not confirmed, no score penalty. Tarapoto lake scope non-additive to broader Leticia river itinerary; Juanchaco/Ladrilleros/La Barra deferred because park agency includes them in Uramba visitor scope (https://www.parquesnacionales.gov.co/nuestros-parques/pnn-uramba-bahia-malaga/). Salento and Filandia built heritage only, non-additive to overlapping coffee landscape. Existing scores and four unassessed preserved. Earlier tentative-property deferrals retained. Queue OPEN for final targeted screen of remaining major regional festivals, heritage and natural routes; no fixed quota. Coordinates approximate; schedules, security and current access unverified.
+
+### Pass 276 — Colombia regional festivals, Tatamá and highland heritage
+
+- [x] CO — Riosucio Biennial Carnival Public Masked Parades and Satirical Traditions: 92.90/100 (source-linked-unverified).
+- [x] CO — Feria de Manizales Public Parades Music and Coffee Culture: 92.20/100 (source-linked-unverified).
+- [x] CO — El Banco José Barros National Cumbia Festival: 92.10/100 (source-linked-unverified).
+- [x] CO — Tatamá National Natural Park Montezuma Authorized Cloud Forest Birding Route: 91.25/100 (source-linked-unverified).
+- [x] CO — Cartagena International Film Festival FICCI Public Cinema Programme: 91.25/100 (source-linked-unverified).
+- [x] CO — San Pelayo National Porro Festival Traditional Brass Band Performances: 91.05/100 (source-linked-unverified).
+- [x] CO — Ginebra Mono Núñez Andean Music Festival: 90.90/100 (source-linked-unverified).
+- [x] CO — Aguadas National Colombian Pasillo Music Festival: 90.50/100 (source-linked-unverified).
+- [x] CO — Lago de Tota Highland Lake and Playa Blanca Landscape: 87.05/100 (source-linked-unverified).
+- [x] CO — Pantano de Vargas Independence Battlefield and Monument to the Lancers: 87.70/100 (source-linked-unverified).
+- [x] CO — Puente de Boyacá Independence Historic Battlefield and Memorial Park: 86.55/100 (desk-based provisional).
+- [x] CO — Jardín Cueva del Esplendor Cave Waterfall and Forest Walk: 86.25/100 (source-linked-unverified).
+- [x] CO — Paipa Thermal Springs and Sochagota Lake Recreation: 83.95/100 (desk-based provisional).
+
+13 additions, 11 source-linked provisional, 2 desk-based provisional, 8 90+, 50 ranking-row comparisons (24 international). CO 159 ranked / 163 total, +108 since baseline 55. Prior UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 partial mapping carried forward without recheck. National heritage festival laws and named current programmes checked; Manizales excludes bullfighting, Tatamá restricted to authorized ecotourism route. Earlier access, security, overlapping route and tentative property deferrals retained. Existing scores and four unassessed preserved. PAUSED after nine discovery passes to diversify worldwide screening; not exhaustive, unresolved tentative property mapping and further regional omissions remain. Coordinates approximate; schedules, security and current access unverified.
