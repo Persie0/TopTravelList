@@ -1659,3 +1659,28 @@ Seven additions, 28 peer rows. France 273 ranked / 284 total; 11 existing unasse
 ### Fast assessment policy — effective after pass 141 (2026-11-27)
 
 User-directed priority: estimate sub-90 sights from overview or existing knowledge; reserve detailed individual source research and calibration for plausible 90+ overall scores and proposed 9.5+ individual fields. Do not suppress a plausible high score to avoid research. Lower scores remain explicitly provisional, with unverified coordinates or references labeled accordingly. Use existing global scale and schema; check duplicates, scope, numerical scores and rankings. Existing validation and verification requirements remain open; fast assessments are not independently verified audits. Aim for 20–40 candidates per pass where practical. Temporary access restrictions do not reduce intrinsic quality. No geographic quotas or changes to weights.
+
+### Pass 142 — accelerated Charente-Maritime and Dordogne
+
+- [x] FR — Meschers-sur-Gironde Troglodyte Caves of Régulus and Matata: 85.75/100 (desk-based provisional).
+- [x] FR — Barzan Fâ Gallo-Roman Archaeological Site and Museum: 84.00/100 (desk-based provisional).
+- [x] FR — Phare de la Coubre Lighthouse and Viewpoint: 84.50/100 (desk-based provisional).
+- [x] FR — Pons Medieval Keep and Castle Grounds: 83.90/100 (desk-based provisional).
+- [x] FR — Château de Jonzac Castle and Historic Courtyard: 82.80/100 (desk-based provisional).
+- [x] FR — Marais de Brouage Wetland Nature Trails: 86.15/100 (desk-based provisional).
+- [x] FR — Lascaux IV International Centre for Cave Art: 89.70/100 (source-linked-unverified).
+- [x] FR — Château de Castelnaud Castle and Medieval Warfare Museum: 90.25/100 (source-linked-unverified).
+- [x] FR — Château de Beynac Medieval Castle: 89.35/100 (source-linked-unverified).
+- [x] FR — Jardins de Marqueyssac Topiary Gardens and Valley Viewpoints: 90.40/100 (source-linked-unverified).
+- [x] FR — Eyrignac Manor Formal Gardens: 88.00/100 (desk-based provisional).
+- [x] FR — Château de Hautefort Castle and Gardens: 88.65/100 (desk-based provisional).
+- [x] FR — Château des Milandes Castle and Josephine Baker Museum: 88.60/100 (desk-based provisional).
+- [x] FR — La Roque-Gageac Cliffside Historic Village: 88.10/100 (desk-based provisional).
+- [x] FR — Domme Medieval Bastide and Viewpoints: 88.25/100 (desk-based provisional).
+- [x] FR — Vesunna Gallo-Roman Archaeological Museum Périgueux: 87.80/100 (desk-based provisional).
+- [x] FR — Brantôme Abbey and Dronne Riverside Historic Ensemble: 88.90/100 (desk-based provisional).
+- [x] FR — Château de Bourdeilles Medieval and Renaissance Castle: 87.35/100 (desk-based provisional).
+- [x] FR — Monpazier Historic Bastide Town: 88.25/100 (desk-based provisional).
+- [x] FR — Château de Monbazillac Castle and Wine Heritage: 87.20/100 (desk-based provisional).
+
+Twenty additions; 16 provisional desk estimates, four researched candidates (2 90+); 16 peer rows. France 293 ranked / 304 total; 11 existing unassessed unchanged. Pons pilgrims hospital and Saintes Saint-Eutrope deferred as Santiago serial property components (https://whc.unesco.org/en/list/868, https://whc.unesco.org/document/154481); Cadouin also deferred. Lascaux IV distinct replica centre; no original cave credit. Brouage marsh distinct from citadel. Next bounded screen: Remaining Dordogne: National Museum of Prehistory Les Eyzies, Gouffre de Proumeyssac, Grotte de Villars, Château de Biron, Limeuil, Bergerac historic riverfront, Château de Bridoire, Parc du Bournat, Eymet, Saint-Jean-de-Côle; Vézère component overlap screen and remaining Limousin/Lot-et-Garonne. Full Python validation pending.

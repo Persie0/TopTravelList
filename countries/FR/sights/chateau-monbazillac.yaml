@@ -1,0 +1,18 @@
+id: sight-fr-chateau-monbazillac
+name: "Château de Monbazillac Castle and Wine Heritage"
+location:
+  country_code: FR
+  latitude: 44.794
+  longitude: 0.493
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.0
+    photography: 9.1
+    food: 9.1
+    culture: 9.0

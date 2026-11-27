@@ -10651,3 +10651,334 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration and any parent-boundary ambiguity.
+
+## sight-fr-meschers-troglodyte-caves — Meschers-sur-Gironde Troglodyte Caves of Régulus and Matata — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/meschers-troglodyte-caves.yaml)
+- Action: new
+- Scope: Cliff dwellings and interpreted cave rooms; excludes Talmont.
+- Representative coordinates: 45.554, -0.958; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.3 / 8.7 / 8.3.
+- Categories: photography:9.1, history:8.9, architecture:8.8, adventure:8.7.
+- Overall: 85.75/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-barzan-fa — Barzan Fâ Gallo-Roman Archaeological Site and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/barzan-fa.yaml)
+- Action: new
+- Scope: Archaeological remains and interpretation of ancient settlement.
+- Representative coordinates: 45.535, -0.868; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.4 / 8.8 / 8.4 / 8.5.
+- Categories: history:9.1, culture:8.9, architecture:8.5.
+- Overall: 84.00/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-phare-coubre — Phare de la Coubre Lighthouse and Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/phare-coubre.yaml)
+- Action: new
+- Scope: Lighthouse and nearby views, not all Côte Sauvage.
+- Representative coordinates: 45.696, -1.233; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.3 / 8.7 / 8.1.
+- Categories: photography:9.2, architecture:8.9, nature:8.8.
+- Overall: 84.50/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-pons-medieval-keep — Pons Medieval Keep and Castle Grounds — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/pons-medieval-keep.yaml)
+- Action: new
+- Scope: Keep and immediate castle grounds; excludes UNESCO pilgrims hospital.
+- Representative coordinates: 45.58, -0.548; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.7 / 8.4 / 8.0.
+- Categories: history:9.0, architecture:9.0, photography:8.9.
+- Overall: 83.90/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-jonzac — Château de Jonzac Castle and Historic Courtyard — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-jonzac.yaml)
+- Action: new
+- Scope: Historic castle exterior and visitable portions; no private interior assumption.
+- Representative coordinates: 45.446, -0.433; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.3 / 8.5 / 8.3 / 8.0.
+- Categories: architecture:8.9, history:8.8, photography:8.8.
+- Overall: 82.80/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-marais-brouage — Marais de Brouage Wetland Nature Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/marais-brouage.yaml)
+- Action: new
+- Scope: Managed marsh and wildlife viewing outside citadel, excludes fortified town.
+- Representative coordinates: 45.886, -1.046; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.5 / 8.8 / 8.7.
+- Categories: wildlife:9.2, nature:9.1, photography:9.1, relaxation:9.0.
+- Overall: 86.15/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-lascaux-iv — Lascaux IV International Centre for Cave Art — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lascaux-iv.yaml)
+- Action: new
+- Scope: Full replica and interpretation centre only; original cave covered by Vézère property.
+- Representative coordinates: 45.05859, 1.1684; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 8.6 / 9.2 / 9.0.
+- Categories: culture:9.4, history:9.3, architecture:9.0, family:9.2.
+- Overall: 89.70/100.
+- Decision: source-informed editorial assessment; current access excluded as a penalty.
+
+- Sources inspected: https://lascaux.fr/en/visit-lascaux-iv/ ; https://archeologie.culture.gouv.fr/lascaux/en/practical-information ; https://www.lascaux-dordogne.com/en/a-voir-a-faire/decouvrir/les-grottes/lascaux/lascaux-iv-et-le-centre-international-de-lart-parietal/.
+- Research rationale: Full-scale reproduction and substantial interpretive centre; higher experience and depth than a simple reproduction, but historical significance is of the replica and centre, not the original prehistoric artwork. Coordinates approximate.
+- High-score challenge: Researched as plausible 90+; final assessment below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/chauvet-replica](../../../countries/FR/sights/chauvet-replica.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.5 | depth: +0.5 vs peer; uniqueness: +0.2 vs peer |
+| [FR/vezere-caves](../../../countries/FR/sights/vezere-caves.yaml) | 8.7 / 9.3 / 9.6 / 8.8 / 8.9 | significance: -1.0 vs peer; experience: +0.4 vs peer |
+| [FR/musee-cluny](../../../countries/FR/sights/musee-cluny.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | significance: -0.7 vs peer; experience: +0.2 vs peer |
+| [FR/musee-de-lhomme](../../../countries/FR/sights/musee-de-lhomme.yaml) | 8.8 / 9.0 / 9.1 / 9.0 / 9.0 | significance: -0.5 vs peer; uniqueness: +0.2 vs peer |
+
+Peer ranking rows used; individual YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-castelnaud — Château de Castelnaud Castle and Medieval Warfare Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-castelnaud.yaml)
+- Action: new
+- Scope: Fortress and collections, not neighboring castles or villages.
+- Representative coordinates: 44.815, 1.14953; coordinate reference inspected in source list.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.9 / 9.1 / 9.0.
+- Categories: architecture:9.4, history:9.4, culture:9.2, photography:9.3, family:9.2.
+- Overall: 90.25/100.
+- Decision: source-informed editorial assessment; current access excluded as a penalty.
+
+- Sources inspected: https://castelnaud.com/?lang=en ; https://castelnaud.com/the-museum/?lang=en ; https://www.dordogne-perigord-tourisme.fr/chateaux-en-fete/tous-les-chateaux-participants/chateau-de-castelnaud/ ; https://www.cirkwi.com/en/point-interet/878869-chateau-de-castelnaud-musee-de-la-guerre-au-moyen-age.
+- Research rationale: 13th-century fortress with panoramic valley setting, substantial collection of historical arms and reconstructed siege engines; impact and depth above Tiffauges, significance below Chinon. CZ Pernstejn and Karlstejn anchor similar castles.
+- High-score challenge: 90+ overall justified by the distinct visitor experience, with comparison to existing ranked peers; not independently verified at claim level. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-tiffauges](../../../countries/FR/sights/chateau-tiffauges.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.8 | impact: +0.3 vs peer; depth: +0.2 vs peer |
+| [FR/chinon-fortress](../../../countries/FR/sights/chinon-fortress.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.0 | significance: -0.4 vs peer; experience: +0.2 vs peer |
+| [CZ/pernstejn-castle](../../../countries/CZ/sights/pernstejn-castle.yaml) | 8.9 / 8.9 / 9.1 / 8.8 / 8.6 | depth: +0.4 vs peer; experience: +0.3 vs peer |
+| [CZ/karlstejn-castle](../../../countries/CZ/sights/karlstejn-castle.yaml) | 9.1 / 9.0 / 9.3 / 8.9 / 8.5 | depth: +0.5 vs peer; significance: -0.4 vs peer |
+
+Peer ranking rows used; individual YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-beynac — Château de Beynac Medieval Castle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-beynac.yaml)
+- Action: new
+- Scope: Cliff-top fortress and visitor interiors, excludes village below.
+- Representative coordinates: 44.8407, 1.1462; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 8.9 / 9.0 / 8.8 / 8.6.
+- Categories: architecture:9.4, history:9.3, photography:9.4.
+- Overall: 89.35/100.
+- Decision: source-informed editorial assessment; current access excluded as a penalty.
+
+- Sources inspected: https://chateau-beynac.com/contact/?lang=en ; https://chateau-beynac.com/infos-pratiques/?lang=en ; https://www.dordogne-perigord-tourisme.fr/chateaux-en-fete/tous-les-chateaux-participants/chateau-de-beynac/.
+- Research rationale: Dramatic cliff-top medieval fortress and historical interiors; less interpretive breadth than Castelnaud. Coordinate approximate.
+- High-score challenge: Researched as plausible 90+; final assessment below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-gaillard](../../../countries/FR/sights/chateau-gaillard.yaml) | 9.0 / 8.9 / 9.1 / 8.8 / 8.4 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/chateau-fougeres](../../../countries/FR/sights/chateau-fougeres.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 8.9 | depth: -0.3 vs peer; impact: +0.1 vs peer |
+| [FR/chinon-fortress](../../../countries/FR/sights/chinon-fortress.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.0 | depth: -0.4 vs peer; significance: -0.3 vs peer |
+| [CZ/pernstejn-castle](../../../countries/CZ/sights/pernstejn-castle.yaml) | 8.9 / 8.9 / 9.1 / 8.8 / 8.6 | impact: +0.2 vs peer; significance: -0.1 vs peer |
+
+Peer ranking rows used; individual YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-jardins-marqueyssac — Jardins de Marqueyssac Topiary Gardens and Valley Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/jardins-marqueyssac.yaml)
+- Action: new
+- Scope: Garden estate and overlooks only, not neighboring castles.
+- Representative coordinates: 44.823889, 1.162778; coordinate reference inspected in source list.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.6 / 9.2 / 8.8.
+- Categories: nature:9.2, photography:9.4, relaxation:9.4, architecture:9.0, family:9.1.
+- Overall: 90.40/100.
+- Decision: source-informed editorial assessment; current access excluded as a penalty.
+
+- Sources inspected: https://www.marqueyssac.com/garden-presentation/?lang=en ; https://www.marqueyssac.com/individual-visitors/?lang=en ; https://www.dordogne-perigord-tourisme.fr/the-must-see-visitor-sites/jardins-de-marqueyssac-contenu-duplique/ ; https://www.cirkwi.com/en/point-interet/2712792-les-jardins-de-marqueyssac.
+- Research rationale: Distinct sculpted boxwood landscape, six kilometres of trails and extensive panoramic views; significance below Villandry, strong visual and experiential merit. Miramare comparison includes castle, so garden-only scope differs.
+- High-score challenge: 90+ overall justified by the distinct visitor experience, with comparison to existing ranked peers; not independently verified at claim level. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-villandry](../../../countries/FR/sights/chateau-villandry.yaml) | 9.2 / 9.3 / 8.9 / 9.2 / 9.1 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [FR/jardins-etretat](../../../countries/FR/sights/jardins-etretat.yaml) | 8.9 / 9.2 / 8.5 / 8.9 / 8.4 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [FR/parc-oriental-maulevrier](../../../countries/FR/sights/parc-oriental-maulevrier.yaml) | 8.9 / 8.9 / 8.5 / 9.1 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [IT/miramare-castle](../../../countries/IT/sights/miramare-castle.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.7 | uniqueness: +0.3 vs peer; experience: +0.3 vs peer |
+
+Peer ranking rows used; individual YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-jardins-eyrignac — Eyrignac Manor Formal Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/jardins-eyrignac.yaml)
+- Action: new
+- Scope: Formal topiary gardens and estate walks.
+- Representative coordinates: 44.955, 1.337; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 8.9 / 8.7.
+- Categories: photography:9.3, relaxation:9.2, nature:9.1, architecture:9.0.
+- Overall: 88.00/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-hautefort — Château de Hautefort Castle and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-hautefort.yaml)
+- Action: new
+- Scope: Castle interiors and formal gardens.
+- Representative coordinates: 45.259, 1.145; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.9 / 8.9 / 8.8.
+- Categories: architecture:9.3, photography:9.3, history:9.2, relaxation:9.0.
+- Overall: 88.65/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-milandes — Château des Milandes Castle and Josephine Baker Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-milandes.yaml)
+- Action: new
+- Scope: Castle, Baker interpretation and estate experience.
+- Representative coordinates: 44.823, 1.115; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 8.9 / 8.8.
+- Categories: history:9.3, culture:9.3, architecture:9.2, photography:9.1.
+- Overall: 88.60/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-la-roque-gageac — La Roque-Gageac Cliffside Historic Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/la-roque-gageac.yaml)
+- Action: new
+- Scope: Cliffside streets and waterfront, excludes other Dordogne villages.
+- Representative coordinates: 44.825, 1.183; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.5 / 8.9 / 8.5.
+- Categories: photography:9.4, architecture:9.2, relaxation:9.1, culture:9.0.
+- Overall: 88.10/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-domme-bastide — Domme Medieval Bastide and Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/domme-bastide.yaml)
+- Action: new
+- Scope: Bastide streets and overlooks, includes local visitor circuit.
+- Representative coordinates: 44.802, 1.214; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.8 / 8.9 / 8.6.
+- Categories: photography:9.3, architecture:9.2, history:9.2, culture:9.0.
+- Overall: 88.25/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-vesunna-museum — Vesunna Gallo-Roman Archaeological Museum Périgueux — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/vesunna-museum.yaml)
+- Action: new
+- Scope: Museum over ancient domus remains, excludes wider city.
+- Representative coordinates: 45.179, 0.711; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.8 / 8.8.
+- Categories: history:9.3, culture:9.2, architecture:9.1.
+- Overall: 87.80/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-brantome-abbey — Brantôme Abbey and Dronne Riverside Historic Ensemble — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/brantome-abbey.yaml)
+- Action: new
+- Scope: Abbey and immediately adjacent riverfront.
+- Representative coordinates: 45.365, 0.647; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.9 / 8.9 / 8.8.
+- Categories: architecture:9.3, photography:9.3, history:9.2, culture:9.1.
+- Overall: 88.90/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-bourdeilles — Château de Bourdeilles Medieval and Renaissance Castle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-bourdeilles.yaml)
+- Action: new
+- Scope: Paired medieval and Renaissance castle structures.
+- Representative coordinates: 45.323, 0.587; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.7 / 8.6.
+- Categories: architecture:9.2, history:9.2, photography:9.1, culture:9.0.
+- Overall: 87.35/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-monpazier-bastide — Monpazier Historic Bastide Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/monpazier-bastide.yaml)
+- Action: new
+- Scope: Preserved grid-plan town and market square.
+- Representative coordinates: 44.682, 0.895; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 8.8 / 8.6.
+- Categories: architecture:9.3, history:9.2, photography:9.2, culture:9.0.
+- Overall: 88.25/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-monbazillac — Château de Monbazillac Castle and Wine Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-monbazillac.yaml)
+- Action: new
+- Scope: Castle and wine interpretation, excludes entire appellation.
+- Representative coordinates: 44.794, 0.493; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.9 / 8.6.
+- Categories: architecture:9.2, history:9.0, photography:9.1, food:9.1, culture:9.0.
+- Overall: 87.20/100.
+- Decision: fast editorial estimate based on overview/general knowledge and existing scale; no individual source verification or detailed peer research; current access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
