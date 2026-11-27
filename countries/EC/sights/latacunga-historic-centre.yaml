@@ -1,0 +1,16 @@
+id: sight-ec-latacunga-historic-centre
+name: "Latacunga Historic Centre"
+location:
+  country_code: EC
+  latitude: -0.935
+  longitude: -78.615
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.3
+  depth: 8.2
+  categories:
+    architecture: 8.9
+    history: 8.9
+    culture: 8.7

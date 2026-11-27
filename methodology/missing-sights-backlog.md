@@ -4903,3 +4903,19 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — Paipa Thermal Springs and Sochagota Lake Recreation: 83.95/100 (desk-based provisional).
 
 13 additions, 11 source-linked provisional, 2 desk-based provisional, 8 90+, 50 ranking-row comparisons (24 international). CO 159 ranked / 163 total, +108 since baseline 55. Prior UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 partial mapping carried forward without recheck. National heritage festival laws and named current programmes checked; Manizales excludes bullfighting, Tatamá restricted to authorized ecotourism route. Earlier access, security, overlapping route and tentative property deferrals retained. Existing scores and four unassessed preserved. PAUSED after nine discovery passes to diversify worldwide screening; not exhaustive, unresolved tentative property mapping and further regional omissions remain. Coordinates approximate; schedules, security and current access unverified.
+
+### Pass 277 — Ecuador public festivals and built heritage
+
+- [x] EC — Latacunga Mama Negra Public Festival Processions: 92.20/100 (source-linked-unverified).
+- [x] EC — Píllaro Diablada Public Masked Dance Festival: 92.00/100 (source-linked-unverified).
+- [x] EC — Ambato Festival of Fruit and Flowers Public Parades: 91.55/100 (source-linked-unverified).
+- [x] EC — Cuenca Pase del Niño Viajero Christmas Procession: 91.30/100 (source-linked-unverified).
+- [x] EC — Pujilí Corpus Christi Danzante Festival: 90.85/100 (source-linked-unverified).
+- [x] EC — Cotacachi Inti Raymi and Hatun Puncha Public Celebrations: 90.85/100 (source-linked-unverified).
+- [x] EC — Guaranda Carnival Public Music and Parade Traditions: 90.80/100 (source-linked-unverified).
+- [x] EC — Esmeraldas Public Marimba Music and Dance Performances: 90.05/100 (source-linked-unverified).
+- [x] EC — Machalilla San Pedro and San Pablo Public Festival: 89.05/100 (source-linked-unverified).
+- [x] EC — Guaranda Historic Centre: 82.95/100 (source-linked-unverified).
+- [x] EC — Latacunga Historic Centre: 82.65/100 (desk-based provisional).
+
+11 additions, 10 source-linked provisional, 1 desk-based provisional, 8 90+, 38 ranking-row comparisons (16 international). EC 65 ranked / 66 total, +11 since baseline 55. Existing five inscribed World Heritage properties represented per initial inventory (Qhapaq Ñan unassessed); not independently remapped. Festivals scoped to public programmes and distinguished from permanent heritage. Esmeraldas public performances distinct from the UNESCO shared tradition as a whole; no future event guaranteed. Cotacachi excludes private and confrontational activities. Existing scores and one unassessed preserved. OPEN for natural parks, Galápagos visitor sites, archaeology, crafts and tentative properties. Coordinates approximate; schedules, permissions and current safety unverified.

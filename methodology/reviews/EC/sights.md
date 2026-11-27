@@ -1164,3 +1164,252 @@
 | [Khao Sok National Park](../../../countries/TH/sights/khao-sok-national-park.yaml) | 9.4 / 9.4 / 9.1 / 9.4 / 9.3 | 93.30 | More varied known routes and activities. |
 | [Dana Biosphere Reserve](../../../countries/JO/sights/dana-biosphere-reserve.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.1 | 89.40 | Defined multi-route visitor landscape. |
 | [Aldabra Atoll](../../../countries/SC/sights/aldabra-atoll.yaml) | 9.5 / 9.8 / 9.8 / 8.0 / 7.6 | 92.20 | Exceptional conservation value with limited authorized routes. |
+
+
+## sight-ec-latacunga-mama-negra — Latacunga Mama Negra Public Festival Processions — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/latacunga-mama-negra.yaml)
+- Action: new
+- Scope: INPC identifies this as Latacunga's emblematic intangible heritage; city festival site confirms public celebration. Scope public processions, not private rites or endorsement of contested representations.
+- Representative coordinates: -0.935, -78.615; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.4.
+- Overall: 92.20/100.
+- Source: https://www.patrimoniocultural.gob.ec/fiesta-de-la-mama-negra-o-fiesta-de-la-capitania/
+- Source: https://mamanegra.latacunga.gob.ec/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: strong public cultural identity and distinctive performances; conservative depth and experience relative to larger international peers. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/pillaro-diablada](../../../countries/EC/sights/pillaro-diablada.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.0 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [EC/ambato-fruit-flower-festival](../../../countries/EC/sights/ambato-fruit-flower-festival.yaml) | 9.2 / 9.1 / 9.2 / 9.2 / 9.0 | impact: +0.0; uniqueness: +0.2 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-pillaro-diablada — Píllaro Diablada Public Masked Dance Festival — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/pillaro-diablada.yaml)
+- Action: new
+- Scope: Municipal tourism and national tourism describe masked dance and national intangible heritage; January festival public performances only.
+- Representative coordinates: -1.174, -78.546; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.2 / 9.0.
+- Categories: culture:9.4 photography:9.4 history:9.2.
+- Overall: 92.00/100.
+- Source: https://pillaroturistico.gob.ec/
+- Source: https://ecuador.travel/vive-una-fiesta-de-diablos/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: strong public cultural identity and distinctive performances; conservative depth and experience relative to larger international peers. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/latacunga-mama-negra](../../../countries/EC/sights/latacunga-mama-negra.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.1 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [EC/ambato-fruit-flower-festival](../../../countries/EC/sights/ambato-fruit-flower-festival.yaml) | 9.2 / 9.1 / 9.2 / 9.2 / 9.0 | impact: -0.1; uniqueness: +0.3 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.3; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-cuenca-pase-nino-viajero — Cuenca Pase del Niño Viajero Christmas Procession — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/cuenca-pase-nino-viajero.yaml)
+- Action: new
+- Scope: National heritage institute documents a major ritual with thousands attending; city confirms public December 24 procession. Distinct event from permanent Cuenca heritage.
+- Representative coordinates: -2.897, -79.005; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.30/100.
+- Source: https://www.patrimoniocultural.gob.ec/pase-del-nino-viajero/
+- Source: https://www.cuenca.gob.ec/page_patrimoniointangible
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: strong public cultural identity and distinctive performances; conservative depth and experience relative to larger international peers. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/ambato-fruit-flower-festival](../../../countries/EC/sights/ambato-fruit-flower-festival.yaml) | 9.2 / 9.1 / 9.2 / 9.2 / 9.0 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [EC/pujili-corpus-christi](../../../countries/EC/sights/pujili-corpus-christi.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: +0.2; uniqueness: -0.2 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-pujili-corpus-christi — Pujilí Corpus Christi Danzante Festival — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/pujili-corpus-christi.yaml)
+- Action: new
+- Scope: National heritage institute identifies Octavas del Corpus Christi or Danzante; public dance and costume programme distinct from Cuenca Corpus Christi.
+- Representative coordinates: -0.957, -78.696; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.2 / 9.0 / 9.0.
+- Categories: culture:9.4 photography:9.3 history:9.2.
+- Overall: 90.85/100.
+- Source: https://www.patrimoniocultural.gob.ec/la-fiesta-de-las-octavas-del-corpus-christi-o-del-danzante/
+- Source: https://www.patrimoniocultural.gob.ec/la-lista-de-patrimonio-cultural-inmaterial-del-pais-aumenta-con-la-inclusion-de-la-manifestacion-del-maiz-del-canton-ruminahui/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: strong public cultural identity and distinctive performances; conservative depth and experience relative to larger international peers. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/cotacachi-inti-raymi](../../../countries/EC/sights/cotacachi-inti-raymi.yaml) | 8.9 / 9.3 / 9.3 / 8.8 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [EC/guaranda-carnival](../../../countries/EC/sights/guaranda-carnival.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: -0.1; uniqueness: +0.2 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.5; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-ambato-fruit-flower-festival — Ambato Festival of Fruit and Flowers Public Parades — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/ambato-fruit-flower-festival.yaml)
+- Action: new
+- Scope: INPC traces festival to reconstruction following the 1949 earthquake, established 1951; floral parades and public events distinct from ordinary Carnival.
+- Representative coordinates: -1.242, -78.628; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.2 / 9.2 / 9.0.
+- Categories: culture:9.4 photography:9.4 food:9.0.
+- Overall: 91.55/100.
+- Source: https://www.patrimoniocultural.gob.ec/ambato/
+- Source: https://www.patrimoniocultural.gob.ec/fiesta-de-la-fruta-y-de-las-flores/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: strong public cultural identity and distinctive performances; conservative depth and experience relative to larger international peers. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/cuenca-pase-nino-viajero](../../../countries/EC/sights/cuenca-pase-nino-viajero.yaml) | 9.1 / 9.1 / 9.3 / 9.1 / 9.0 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [EC/pillaro-diablada](../../../countries/EC/sights/pillaro-diablada.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.0 | impact: +0.1; uniqueness: -0.3 vs peer |
+| [CO/manizales-fair](../../../countries/CO/sights/manizales-fair.yaml) | 9.3 / 9.1 / 9.2 / 9.3 / 9.2 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-guaranda-carnival — Guaranda Carnival Public Music and Parade Traditions — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/guaranda-carnival.yaml)
+- Action: new
+- Scope: INPC identifies Taita Carnaval as national heritage and the principal festival in Guaranda and surrounding Bolívar communities; only public city programme.
+- Representative coordinates: -1.592, -79; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 9.1 / 9.0.
+- Categories: culture:9.4 photography:9.3 history:9.2.
+- Overall: 90.80/100.
+- Source: https://www.patrimoniocultural.gob.ec/carnaval-de-guaranda/
+- Source: https://ecuador.travel/conoce-los-carnavales-de-ecuador/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: strong public cultural identity and distinctive performances; conservative depth and experience relative to larger international peers. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/pujili-corpus-christi](../../../countries/EC/sights/pujili-corpus-christi.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: +0.1; uniqueness: -0.2 vs peer |
+| [EC/cotacachi-inti-raymi](../../../countries/EC/sights/cotacachi-inti-raymi.yaml) | 8.9 / 9.3 / 9.3 / 8.8 / 9.1 | impact: +0.1; uniqueness: -0.2 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-cotacachi-inti-raymi — Cotacachi Inti Raymi and Hatun Puncha Public Celebrations — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/cotacachi-inti-raymi.yaml)
+- Action: new
+- Scope: Municipal and parish sources document solstice and harvest celebrations, including several locally distinct days; only public community-approved observation, no private bathing rites or confrontational activities.
+- Representative coordinates: 0.301, -78.264; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 8.8 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 90.85/100.
+- Source: https://cotacachi.gob.ec/cotacachi/
+- Source: https://quiroga.gob.ec/pagina/inty-raimy
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: strong public cultural identity and distinctive performances; conservative depth and experience relative to larger international peers. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/pujili-corpus-christi](../../../countries/EC/sights/pujili-corpus-christi.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [EC/guaranda-carnival](../../../countries/EC/sights/guaranda-carnival.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: -0.1; uniqueness: +0.2 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.5; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-machalilla-san-pedro-pablo — Machalilla San Pedro and San Pablo Public Festival — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/machalilla-san-pedro-pablo.yaml)
+- Action: new
+- Scope: INPC identifies Machalilla parish as one of the participating coastal communities; specific public religious and fishing-community traditions, distinct from national park scenery.
+- Representative coordinates: -1.477, -80.765; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 9.1 / 9.1 / 8.8 / 8.8.
+- Categories: culture:9.4 history:9.2 photography:9.1.
+- Overall: 89.05/100.
+- Source: https://www.patrimoniocultural.gob.ec/inpc-conmemora-los-14-anos-de-la-declaratoria-patrimonial-de-las-festividades-de-pedro-y-pablo/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/esmeraldas-marimba](../../../countries/EC/sights/esmeraldas-marimba.yaml) | 8.8 / 9.2 / 9.4 / 8.7 / 8.8 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [EC/guaranda-carnival](../../../countries/EC/sights/guaranda-carnival.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: -0.3; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-esmeraldas-marimba — Esmeraldas Public Marimba Music and Dance Performances — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/esmeraldas-marimba.yaml)
+- Action: new
+- Scope: UNESCO inscribes the shared Colombian-Ecuadorian tradition; Ecuador tourism and municipal site establish public performances. Scope named city performances rather than guaranteed festival dates or all regional traditions.
+- Representative coordinates: 0.968, -79.652; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.4 / 8.7 / 8.8.
+- Categories: culture:9.4 history:9.3 photography:9.0.
+- Overall: 90.05/100.
+- Source: https://ich.unesco.org/en/RL/marimba-music-traditional-chants-and-dances-from-the-colombia-south-pacific-region-01099
+- Source: https://ecuador.travel/esmeraldas-donde-la-naturaleza-y-la-cultura-afroecuatoriana-te-esperan/
+- Source: https://www.esmeraldas.gob.ec/primer-festival-al-ritmo-de-marimba.html
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: strong public cultural identity and distinctive performances; conservative depth and experience relative to larger international peers. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/guaranda-carnival](../../../countries/EC/sights/guaranda-carnival.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: -0.2; uniqueness: +0.1 vs peer |
+| [EC/pujili-corpus-christi](../../../countries/EC/sights/pujili-corpus-christi.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [CO/el-banco-cumbia-festival](../../../countries/CO/sights/el-banco-cumbia-festival.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-guaranda-historic-centre — Guaranda Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/guaranda-historic-centre.yaml)
+- Action: new
+- Scope: INPC describes 148 inventoried built heritage assets; built fabric only, not Carnival or surrounding archaeological sites.
+- Representative coordinates: -1.592, -79; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.0 / 8.3 / 8.7 / 8.4 / 8.2.
+- Categories: architecture:8.9 history:9.0 culture:8.8.
+- Overall: 82.95/100.
+- Source: https://www.patrimoniocultural.gob.ec/guaranda/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/historic-centre-of-quito](../../../countries/EC/sights/historic-centre-of-quito.yaml) | 9.3 / 9.0 / 9.6 / 9.0 / 9.4 | impact: -1.3; uniqueness: -0.7 vs peer |
+| [EC/historic-centre-of-cuenca](../../../countries/EC/sights/historic-centre-of-cuenca.yaml) | 8.9 / 8.7 / 9.2 / 8.9 / 8.9 | impact: -0.9; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-latacunga-historic-centre — Latacunga Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/latacunga-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based provisional built heritage and public streets; excludes Mama Negra event, no specific monument or opening claims.
+- Representative coordinates: -0.935, -78.615; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.2 / 8.6 / 8.3 / 8.2.
+- Categories: architecture:8.9 history:8.9 culture:8.7.
+- Overall: 82.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/historic-centre-of-quito](../../../countries/EC/sights/historic-centre-of-quito.yaml) | 9.3 / 9.0 / 9.6 / 9.0 / 9.4 | impact: -1.2; uniqueness: -0.8 vs peer |
+| [EC/historic-centre-of-cuenca](../../../countries/EC/sights/historic-centre-of-cuenca.yaml) | 8.9 / 8.7 / 9.2 / 8.9 / 8.9 | impact: -0.8; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 277 scope decisions
+
+11 additions, 10 source-linked provisional, 1 desk-based provisional, 8 90+, 38 ranking-row comparisons (16 international). EC 65 ranked / 66 total, +11 since baseline 55. Existing five inscribed World Heritage properties represented per initial inventory (Qhapaq Ñan unassessed); not independently remapped. Festivals scoped to public programmes and distinguished from permanent heritage. Esmeraldas public performances distinct from the UNESCO shared tradition as a whole; no future event guaranteed. Cotacachi excludes private and confrontational activities. Existing scores and one unassessed preserved. OPEN for natural parks, Galápagos visitor sites, archaeology, crafts and tentative properties. Coordinates approximate; schedules, permissions and current safety unverified.

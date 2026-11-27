@@ -1,0 +1,16 @@
+id: sight-ec-guaranda-historic-centre
+name: "Guaranda Historic Centre"
+location:
+  country_code: EC
+  latitude: -1.592
+  longitude: -79
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.4
+  depth: 8.2
+  categories:
+    architecture: 8.9
+    history: 9.0
+    culture: 8.8
