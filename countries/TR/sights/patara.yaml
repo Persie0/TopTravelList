@@ -1,0 +1,18 @@
+id: sight-tr-patara
+name: "Patara Archaeological Site and Beach"
+location:
+  country_code: TR
+  latitude: 36.261
+  longitude: 29.3163
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 9.1
+  categories:
+    history: 9.4
+    architecture: 9.2
+    nature: 9.1
+    photography: 9.3
+    beaches: 9.1

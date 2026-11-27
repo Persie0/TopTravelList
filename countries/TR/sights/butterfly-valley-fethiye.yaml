@@ -1,0 +1,17 @@
+id: sight-tr-butterfly-valley-fethiye
+name: "Butterfly Valley Fethiye"
+location:
+  country_code: TR
+  latitude: 36.49747
+  longitude: 29.12717
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.1
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 9.2
+    photography: 9.4
+    beaches: 9.1
+    adventure: 8.9

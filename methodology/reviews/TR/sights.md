@@ -2243,3 +2243,315 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-tr-phaselis — Phaselis Archaeological Site and Harbours — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/phaselis.yaml)
+- Action: new
+- Precise subject and limitations: Ancient port ruins and immediate harbour landscape; separate from Olympos, no wider park aggregate.
+- Location check: 36.52436, 30.55026; [published representative point](https://mapcarta.com/12975708), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.muze.gov.tr/muze-detay?DistId=PHS&SectionId=PHS01); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/olympos-archaeological-site](../../../countries/TR/sights/olympos-archaeological-site.yaml) | 8.7 / 8.7 / 8.8 / 8.8 / 8.8 | impact: +0.1 vs peer; experience: +0.1 vs peer. |
+| [TR/side-ancient-city](../../../countries/TR/sights/side-ancient-city.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 9.0 | significance: -0.3 vs peer; depth: -0.3 vs peer. |
+| [TR/perge](../../../countries/TR/sights/perge.yaml) | 8.7 / 8.5 / 8.9 / 8.6 / 8.6 | experience: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/ancient-kamiros](../../../countries/GR/sights/ancient-kamiros.yaml) | 8.7 / 8.8 / 9.0 / 8.7 / 8.8 | significance: -0.2 vs peer; experience: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Scenic archaeological waterfront. |
+| Uniqueness | 8.7 | Distinct three-harbour setting. |
+| Significance | 8.8 | Important ancient Lycian trade heritage. |
+| Experience | 8.9 | Established open-air visit. |
+| Depth | 8.7 | Several ruins and harbour features. |
+
+- Applicable categories: history:9.2, architecture:9.0, photography:9.1, nature:9.0.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-yanartas — Yanartaş Chimaera Natural Flames — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/yanartas.yaml)
+- Action: new
+- Precise subject and limitations: Natural gas vents and designated approach paths, separate from Olympos ruins; no assumption of safe contact with flames.
+- Location check: 36.4315, 30.45601; [published representative point](https://mapcarta.com/W238778994), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://goturkiye.com/culturaljourneys/lycian-way); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/olympos-archaeological-site](../../../countries/TR/sights/olympos-archaeological-site.yaml) | 8.7 / 8.7 / 8.8 / 8.8 / 8.8 | depth: -0.9 vs peer; uniqueness: +0.6 vs peer. |
+| [GR/nisyros-stefanos-crater](../../../countries/GR/sights/nisyros-stefanos-crater.yaml) | 9.1 / 9.3 / 8.6 / 8.8 / 8.5 | depth: -0.6 vs peer; impact: -0.3 vs peer. |
+| [PT/algar-do-carvao](../../../countries/PT/sights/algar-do-carvao.yaml) | 9.1 / 9.3 / 8.8 / 8.8 / 8.4 | depth: -0.5 vs peer; impact: -0.3 vs peer. |
+| [PT/capelinhos-volcano](../../../countries/PT/sights/capelinhos-volcano.yaml) | 9.0 / 9.2 / 9.0 / 8.8 / 8.8 | depth: -0.9 vs peer; significance: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Unusual visible natural flames. |
+| Uniqueness | 9.3 | Rare persistent gas-fed flames. |
+| Significance | 8.5 | Regional geological and mythological heritage. |
+| Experience | 8.7 | Established walking experience. |
+| Depth | 7.9 | Compact natural feature. |
+
+- Applicable categories: nature:9.3, photography:9.1, adventure:9.0.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-koprulu-canyon — Köprülü Canyon National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/koprulu-canyon.yaml)
+- Action: new
+- Precise subject and limitations: Park landscape, river canyon, bridges and established outdoor activities; representative park point, not rafting launch. Water activities conditional; Selge not independently scored here.
+- Location check: 37.27161, 31.14396; [published representative point](https://mapcarta.com/28491872), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://goturkiye.com/nationalparks/national-parks-mediterranean); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/saklikent](../../../countries/TR/sights/saklikent.yaml) | 8.7 / 8.3 / 7.5 / 8.4 / 7.6 | depth: +1.4 vs peer; significance: +1.1 vs peer. |
+| [GR/vikos](../../../countries/GR/sights/vikos.yaml) | 9.2 / 9.0 / 8.8 / 8.9 / 8.7 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [GR/samaria](../../../countries/GR/sights/samaria.yaml) | 9.3 / 9.1 / 8.8 / 9.0 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/acheron-springs](../../../countries/GR/sights/acheron-springs.yaml) | 8.8 / 8.7 / 8.3 / 8.9 / 8.6 | depth: +0.4 vs peer; significance: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic canyon and river. |
+| Uniqueness | 8.8 | Distinct river and historic bridge setting. |
+| Significance | 8.6 | Regional natural and cultural heritage. |
+| Experience | 9.1 | Established rafting and walking opportunities. |
+| Depth | 9.0 | Extensive park landscape. |
+
+- Applicable categories: nature:9.3, adventure:9.4, photography:9.3.
+- Computed worldwide overall: 88.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-butterfly-valley-fethiye — Butterfly Valley Fethiye — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/butterfly-valley-fethiye.yaml)
+- Action: new
+- Precise subject and limitations: Valley, beach and immediate viewpoints grouped; boat access conditional, no unsafe cliff descent assumed; distinct from Ölüdeniz. Butterfly sightings not guaranteed.
+- Location check: 36.49747, 29.12717; [published representative point](https://mapcarta.com/N676515551), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://goturkiye.com/gocek/listen); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/oludeniz](../../../countries/TR/sights/oludeniz.yaml) | 8.9 / 8.4 / 7.0 / 8.9 / 7.7 | significance: +1.1 vs peer; depth: +0.6 vs peer. |
+| [GR/myrtos-beach](../../../countries/GR/sights/myrtos-beach.yaml) | 9.2 / 8.7 / 8.0 / 8.8 / 7.8 | depth: +0.5 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/porto-katsiki-beach](../../../countries/GR/sights/porto-katsiki-beach.yaml) | 9.2 / 8.7 / 8.0 / 8.8 / 7.8 | depth: +0.5 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/preveli-palm-beach](../../../countries/GR/sights/preveli-palm-beach.yaml) | 8.9 / 8.9 / 8.3 / 8.8 / 8.5 | impact: +0.2 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic steep-sided coastal valley. |
+| Uniqueness | 8.9 | Distinct enclosed beach setting. |
+| Significance | 8.1 | Regional ecological value. |
+| Experience | 8.7 | Established scenic boat or viewpoint visit. |
+| Depth | 8.3 | Bounded coastal landscape. |
+
+- Applicable categories: nature:9.2, photography:9.4, beaches:9.1, adventure:8.9.
+- Computed worldwide overall: 87.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-patara — Patara Archaeological Site and Beach — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/patara.yaml)
+- Action: new
+- Precise subject and limitations: Ancient city and adjoining beach grouped; https://goturkiye.com/culturaljourneys/patara and official Lycian Way overview support scope. Excludes Xanthos-Letoon, no turtle sightings or unrestricted nesting-beach access promised.
+- Location check: 36.261, 29.3163; [published representative point](https://mapcarta.com/Patara), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://muze.gov.tr/muze-detay?DistId=PTR&SectionId=PTR01); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/xanthos-letoon](../../../countries/TR/sights/xanthos-letoon.yaml) | 8.5 / 8.8 / 9.2 / 8.4 / 8.3 | depth: +0.8 vs peer; impact: +0.5 vs peer. |
+| [TR/side-ancient-city](../../../countries/TR/sights/side-ancient-city.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 9.0 | significance: +0.1 vs peer; depth: +0.1 vs peer. |
+| [TR/ephesus](../../../countries/TR/sights/ephesus.yaml) | 9.4 / 9.2 / 9.4 / 9.2 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/ancient-kamiros](../../../countries/GR/sights/ancient-kamiros.yaml) | 8.7 / 8.8 / 9.0 / 8.7 / 8.8 | impact: +0.3 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Strong monumental ruins and coastal setting. |
+| Uniqueness | 8.9 | Distinct ancient port and dunes. |
+| Significance | 9.2 | Major Lycian civic heritage. |
+| Experience | 8.9 | Established site visit and permitted beach access. |
+| Depth | 9.1 | Several monuments and coastal features. |
+
+- Applicable categories: history:9.4, architecture:9.2, nature:9.1, photography:9.3, beaches:9.1.
+- Computed worldwide overall: 90.10/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-lycian-way — Lycian Way Long-Distance Trail — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/lycian-way.yaml)
+- Action: new
+- Precise subject and limitations: Long-distance waymarked hiking experience only; representative Ovacık gate point. Route variants and lengths differ. Individual stops remain independently rated; do not sum their attraction scores.
+- Location check: 36.5664, 29.1379; [published representative point](https://dalaman.info/en/routes/trekking), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://goturkiye.com/mediterranean/routes); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/via-appia](../../../countries/IT/sights/via-appia.yaml) | 8.8 / 9.2 / 9.5 / 8.8 / 9.1 | significance: -0.7 vs peer; impact: +0.3 vs peer. |
+| [GR/samaria](../../../countries/GR/sights/samaria.yaml) | 9.3 / 9.1 / 8.8 / 9.0 / 8.8 | depth: +0.6 vs peer; impact: -0.2 vs peer. |
+| [PT/seven-hanging-valleys-trail](../../../countries/PT/sights/seven-hanging-valleys-trail.yaml) | 8.9 / 8.6 / 8.1 / 9.0 / 8.7 | significance: +0.7 vs peer; depth: +0.7 vs peer. |
+| [PT/mondego-walkways](../../../countries/PT/sights/mondego-walkways.yaml) | 8.6 / 8.4 / 8.1 / 8.9 / 8.6 | depth: +0.8 vs peer; significance: +0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Varied mountain and coastal scenery. |
+| Uniqueness | 9.0 | Distinct ancient-route trekking context. |
+| Significance | 8.8 | Significant regional cultural landscape. |
+| Experience | 9.1 | Established multi-day hiking experience. |
+| Depth | 9.4 | Extensive route network and varied sections. |
+
+- Applicable categories: adventure:9.4, nature:9.3, photography:9.4, history:9.0.
+- Computed worldwide overall: 90.45/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-mount-erciyes — Mount Erciyes Mountain and Ski Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/mount-erciyes.yaml)
+- Action: new
+- Precise subject and limitations: Volcanic mountain scenery, seasonal skiing and established guided hiking; summit representative point, not ski entrance. Ski and summit access conditional.
+- Location check: 38.53195, 35.44895; [published representative point](https://mapcarta.com/12976734), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://goturkiye.com/central/touch); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/tahtali-cable-car](../../../countries/TR/sights/tahtali-cable-car.yaml) | 9.1 / 8.7 / 8.1 / 9.1 / 8.2 | depth: +0.6 vs peer; significance: +0.4 vs peer. |
+| [GR/mount-olympus](../../../countries/GR/sights/mount-olympus.yaml) | 9.2 / 9.1 / 9.3 / 9.0 / 9.2 | significance: -0.8 vs peer; uniqueness: -0.5 vs peer. |
+| [IT/dolomites](../../../countries/IT/sights/dolomites.yaml) | 9.7 / 9.5 / 9.4 / 9.4 / 9.6 | uniqueness: -0.9 vs peer; significance: -0.9 vs peer. |
+| [IT/seceda](../../../countries/IT/sights/seceda.yaml) | 9.5 / 9.2 / 8.7 / 9.1 / 8.4 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Impressive high volcanic mountain. |
+| Uniqueness | 8.6 | Distinct regional mountain but familiar alpine recreation. |
+| Significance | 8.5 | Regional geological heritage. |
+| Experience | 9.0 | Established seasonal recreation. |
+| Depth | 8.8 | Multiple slopes and mountain routes. |
+
+- Applicable categories: nature:9.2, adventure:9.3, photography:9.2.
+- Computed worldwide overall: 87.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-mount-ararat — Mount Ararat and National Park Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/mount-ararat.yaml)
+- Action: new
+- Precise subject and limitations: Greater Ararat mountain landscape and established permitted mountaineering experience; summit point not access point. Official permit requirements https://www.mfa.gov.tr/this-is-the-protocol-concerning-mountaineering-activities-of-foreign-national-citizens-for-tourism-and-sports-purposes-at-the-mo.en.mfa; no current permission, safety or summit access guaranteed.
+- Location check: 39.70194, 44.2984; [published representative point](https://mapcarta.com/de/12996006), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.ktb.gov.tr/EN-99411/agri---mount-ararat.html); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/mount-olympus](../../../countries/GR/sights/mount-olympus.yaml) | 9.2 / 9.1 / 9.3 / 9.0 / 9.2 | experience: -0.5 vs peer; depth: -0.3 vs peer. |
+| [IT/dolomites](../../../countries/IT/sights/dolomites.yaml) | 9.7 / 9.5 / 9.4 / 9.4 / 9.6 | experience: -0.9 vs peer; depth: -0.7 vs peer. |
+| [TR/tahtali-cable-car](../../../countries/TR/sights/tahtali-cable-car.yaml) | 9.1 / 8.7 / 8.1 / 9.1 / 8.2 | significance: +1.0 vs peer; depth: +0.7 vs peer. |
+| [PT/pico-mountain](../../../countries/PT/sights/pico-mountain.yaml) | 9.2 / 9.0 / 8.8 / 8.8 / 8.7 | significance: +0.3 vs peer; experience: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Exceptional mountain scale and snow-covered summit. |
+| Uniqueness | 9.2 | Distinct isolated major volcanic massif. |
+| Significance | 9.1 | Internationally recognized geographic and cultural significance. |
+| Experience | 8.5 | Established guided mountaineering and scenic observation. |
+| Depth | 8.9 | Substantial mountain landscape and routes. |
+
+- Applicable categories: nature:9.4, adventure:9.4, photography:9.4, history:9.0.
+- Computed worldwide overall: 90.75/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

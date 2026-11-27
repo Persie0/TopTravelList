@@ -1150,3 +1150,16 @@ Eight additions, 32 peer rows. Türkiye 59 ranked / 59 total. Museum collections
 - [x] TR — Lake Salda Protected Shoreline Landscape: 88.10/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Türkiye 66 ranked / 66 total. Ihlara deferred because Cappadocia scope overlap remains unresolved (https://whc.unesco.org/en/list/0357/maps/); do not claim precise component boundary confirmed. Side theatre restoration closure documented, Kaleiçi includes Hadrian's Gate and harbour, Myra excludes St Nicholas Church, Olympos ruins distinct from Tahtalı cable car, Salda protected access constraints. Next bounded screen: Phaselis, Çıralı Yanartaş, Köprülü Canyon, Butterfly Valley Fethiye, Patara ancient city and beach, Lycian Way (scope check), Mount Erciyes and Mount Ararat. Full Python validation pending.
+
+### Pass 100 — Türkiye coastal heritage, trails and mountains
+
+- [x] TR — Phaselis Archaeological Site and Harbours: 87.80/100 (source-linked-unverified).
+- [x] TR — Yanartaş Chimaera Natural Flames: 87.60/100 (source-linked-unverified).
+- [x] TR — Köprülü Canyon National Park: 88.85/100 (source-linked-unverified).
+- [x] TR — Butterfly Valley Fethiye: 87.10/100 (source-linked-unverified).
+- [x] TR — Patara Archaeological Site and Beach: 90.10/100 (source-linked-unverified).
+- [x] TR — Lycian Way Long-Distance Trail: 90.45/100 (source-linked-unverified).
+- [x] TR — Mount Erciyes Mountain and Ski Landscape: 87.50/100 (source-linked-unverified).
+- [x] TR — Mount Ararat and National Park Landscape: 90.75/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Türkiye 74 ranked / 74 total. Lycian Way walking route only, not sum of individual stops; Patara city and beach grouped; Ararat permit required, no current access guarantee; Erciyes seasonal recreation; Köprülü park representative point. Next bounded screen: Mount Kaçkar, Lake Van (Akdamar overlap), Uzungöl, Yedigöller National Park, Abant Lake, Lake Eğirdir, Dilek Peninsula National Park, and Kazdağı National Park. Full Python validation pending.
