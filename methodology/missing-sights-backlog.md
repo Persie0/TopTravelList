@@ -1530,3 +1530,16 @@ Seven additions, 28 peer rows. France 201 ranked / 212 total; 11 existing unasse
 - [x] FR — Marais Poitevin Green Venice Wetland Boat Trails: 89.35/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 208 ranked / 219 total; 11 existing unassessed unchanged. Nantes castle and museum grouped; Machines integrated mechanical art complex; Puy du Fou theatrical experience distinct from historical fact; island scopes exclude independent museums; Green Venice uses Coulon pier representative point, not whole regional park. Next bounded screen: Escal’Atlantic Saint-Nazaire, Guérande medieval town, Guérande salt marshes, Bioparc de Doué-la-Fontaine, Cadre Noir de Saumur, Château de Brissac, and Terra Botanica Angers (scope and duplicate checks). Full Python validation pending.
+
+### Pass 132 — Pays de la Loire maritime, fortified and specialist visitor experiences
+
+- [x] FR — Escal’Atlantic Saint-Nazaire Ocean Liner Museum: 88.80/100 (source-linked-unverified).
+- [x] FR — Guérande Medieval Walled Town and Porte Saint-Michel: 88.80/100 (source-linked-unverified).
+- [x] FR — Bioparc de Doué-la-Fontaine Troglodyte Zoo: 89.35/100 (source-linked-unverified).
+- [x] FR — Cadre Noir de Saumur Riding School Visits and Galas: 88.05/100 (source-linked-unverified).
+- [x] FR — Château de Brissac Castle and Park: 88.80/100 (source-linked-unverified).
+- [x] FR — Terra Botanica Angers Botanical Theme Park: 87.65/100 (source-linked-unverified).
+
+- [x] FR — Guérande salt marshes: already present at 87.40/100 (guerande.yaml); no duplicate or rescore.
+
+Six additions, 24 peer rows. France 214 ranked / 225 total; 11 existing unassessed unchanged. Medieval Guérande distinct from salt marshes; Escal’Atlantic excludes Espadon; Cadre Noir UNESCO status is intangible tradition, not a World Heritage property; Bioparc captive animal experience; invalid Cirkwi coordinates rejected. Next bounded screen: Espadon submarine Saint-Nazaire, Parc Oriental de Maulévrier, Château de Montsoreau, Château de Serrant, Château du Plessis-Bourré, Angers Musée des Beaux-Arts, and Brière marsh boat trails (scope and duplicate checks). Full Python validation pending.

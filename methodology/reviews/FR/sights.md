@@ -8126,3 +8126,236 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-escal-atlantic — Escal’Atlantic Saint-Nazaire Ocean Liner Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/escal-atlantic.yaml)
+- Action: new
+- Precise subject and limitations: Immersive ocean liner museum inside former submarine base; excludes separate submarine Espadon and shipyard excursions.
+- Location check: 47.275771, -2.203393; [published representative point](https://www.outdooractive.com/en/poi/loire-atlantique/escal-atlantic/45287859/), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.cirkwi.com/en/point-interet/451049-escal-atlantic); indexed excerpt or page text inspected 2026-11-27. Regional tourism listing on Cirkwi describes reconstructed decks, cabins, lounges, authentic objects and 1–1.5 hour visit. Its invalid 0,0 GPS rejected; Outdooractive Atout-France record supplies mapped coordinates. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/cite-de-la-mer](../../../countries/FR/sights/cite-de-la-mer.yaml) | 9.0 / 9.2 / 9.0 / 9.1 / 9.2 | depth: -0.4 vs peer; impact: -0.2 vs peer. |
+| [GB/titanic-belfast](../../../countries/GB/sights/titanic-belfast.yaml) | 8.8 / 9.0 / 8.9 / 9.0 / 8.7 | depth: +0.1 vs peer; significance: -0.1 vs peer. |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+| [TR/rahmi-koc-museum-istanbul](../../../countries/TR/sights/rahmi-koc-museum-istanbul.yaml) | 8.9 / 9.0 / 8.9 / 9.1 / 9.2 | depth: -0.4 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Evocative reconstructed ship interiors. |
+| Uniqueness | 9.0 | Distinct immersive liner interpretation and authentic objects. |
+| Significance | 8.8 | Transatlantic passenger shipping history. |
+| Experience | 9.0 | Self-guided interactive visit. |
+| Depth | 8.8 | Several themed interiors and collections. |
+
+- Applicable categories: history:9.2, culture:9.1, family:9.1, photography:8.9.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-guerande-medieval-town — Guérande Medieval Walled Town and Porte Saint-Michel — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/guerande-medieval-town.yaml)
+- Action: new
+- Precise subject and limitations: Medieval streets, walls and gate museum grouped; excludes the existing FR/guerande salt marsh record, which remains unchanged.
+- Location check: 47.32728, -2.42712; [published representative point](https://aroundus.com/p/7524251-porte-saint-michel), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.labaule-guerande.com/en/discover/the-destination/guerande/the-medieval-town-of-guerande/); indexed excerpt or page text inspected 2026-11-27. Local tourism describes preserved ramparts and access via gate museum; municipal heritage https://www.ville-guerande.fr/mes-loisirs/tourisme-et-decouvertes/la-cite-medievale/ corroborates urban scope. AroundUs gives gate GPS; Cirkwi 0,0 rejected. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/dinan-historic-centre](../../../countries/FR/sights/dinan-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.0 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/concarneau-ville-close](../../../countries/FR/sights/concarneau-ville-close.yaml) | 8.9 / 8.9 / 8.8 / 9.0 / 8.6 | depth: +0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | experience: +0.2 vs peer; depth: +0.1 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | depth: +0.2 vs peer; significance: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Preserved walled urban ensemble. |
+| Uniqueness | 8.8 | Distinct Breton fortified town with international peers. |
+| Significance | 8.9 | Medieval urban defensive history. |
+| Experience | 9.0 | Walkable core and rampart museum. |
+| Depth | 8.8 | Connected gates, streets and heritage interiors. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.2, culture:9.1.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-bioparc-doue — Bioparc de Doué-la-Fontaine Troglodyte Zoo — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bioparc-doue.yaml)
+- Action: new
+- Precise subject and limitations: Zoo in former stone quarries, habitat exhibits and educational routes; captive wildlife experience, not a wild ecosystem or guarantee of animal sightings.
+- Location check: 47.19061, -0.29975; [published representative point](https://en.ot-cholet.fr/sites-visites/biopark-zoo-at-doue-la-fontaine-doue-en-anjou.html), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.bioparc-zoo.fr/en/your-visit/); indexed excerpt or page text inspected 2026-11-27. Operator describes quarry setting and collection; Cholet tourism corroborates educational park and troglodyte setting and gives GPS. No independent claim of global exclusivity or animal welfare certification. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | depth: -0.3 vs peer; uniqueness: +0.3 vs peer. |
+| [SG/singapore-zoo](../../../countries/SG/sights/singapore-zoo.yaml) | 9.0 / 8.9 / 8.1 / 9.2 / 9.2 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer. |
+| [SG/night-safari](../../../countries/SG/sights/night-safari.yaml) | 8.9 / 9.3 / 7.9 / 9.1 / 8.8 | significance: +0.4 vs peer; depth: +0.3 vs peer. |
+| [FR/oceanopolis-brest](../../../countries/FR/sights/oceanopolis-brest.yaml) | 9.0 / 9.0 / 8.9 / 9.2 / 9.2 | significance: -0.6 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking quarry habitats. |
+| Uniqueness | 9.2 | Uncommon troglodyte zoo setting. |
+| Significance | 8.3 | Conservation education, not equivalent to a major natural reserve. |
+| Experience | 9.1 | Varied animal viewing and interpretation. |
+| Depth | 9.1 | Extensive habitat circuits. |
+
+- Applicable categories: wildlife:9.3, family:9.4, nature:9.1, photography:9.1.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-cadre-noir-saumur — Cadre Noir de Saumur Riding School Visits and Galas — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cadre-noir-saumur.yaml)
+- Action: new
+- Precise subject and limitations: Guided riding school visit and established equestrian demonstrations; excludes Château de Saumur and other offsite equestrian venues. UNESCO recognition applies to living French equitation tradition, not a World Heritage property.
+- Location check: 47.26359, -0.13419; [published representative point](https://mapcarta.com/fr/N12119294340), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ifce.fr/en/cadre-noir/visits-galas/); indexed excerpt or page text inspected 2026-11-27. IFCE documents guided visits and galas; UNESCO https://ich.unesco.org/fr/RL/l-equitation-de-tradition-francaise-00440 identifies Cadre Noir's role. Mapcarta coordinates checked; performances seasonal, not scored on current availability. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AT/spanish-riding-school](../../../countries/AT/sights/spanish-riding-school.yaml) | 8.5 / 9.1 / 9.0 / 8.5 / 8.2 | depth: +0.3 vs peer; experience: +0.2 vs peer. |
+| [FR/puy-du-fou](../../../countries/FR/sights/puy-du-fou.yaml) | 9.3 / 9.4 / 8.1 / 9.4 / 9.3 | significance: +1.0 vs peer; depth: -0.8 vs peer. |
+| [FR/chateau-saumur](../../../countries/FR/sights/chateau-saumur.yaml) | 9.0 / 8.9 / 8.9 / 8.8 / 8.8 | impact: -0.4 vs peer; depth: -0.3 vs peer. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | depth: -0.5 vs peer; experience: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Memorable skilled equestrian performance. |
+| Uniqueness | 9.0 | Distinct riding-school tradition. |
+| Significance | 9.1 | Important transmission of French equitation. |
+| Experience | 8.7 | Guided visits and scheduled performances. |
+| Depth | 8.5 | Training facilities, stables and demonstrations. |
+
+- Applicable categories: culture:9.4, history:9.2, family:8.8, photography:8.8.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-brissac — Château de Brissac Castle and Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-brissac.yaml)
+- Action: new
+- Precise subject and limitations: Castle visitor rooms, theatre and park in Brissac Loire Aubance; excludes private rooms and other similarly named castles.
+- Location check: 47.35285, -0.44994; [published representative point](https://mapcarta.com/W235531456), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://brissac.net/en/the-castle/); indexed excerpt or page text inspected 2026-11-27. Operator describes seven floors, furnished spaces and Belle Époque theatre; https://en.francevelotourisme.com/leasure/sites-and-historical-monuments/chateau-de-brissac corroborates chapel, theatre and furnishings. Operator visit page https://brissac.net/en/opening-and-rates/ identifies park access; no assumption that all rooms are open. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-cheverny](../../../countries/FR/sights/chateau-cheverny.yaml) | 8.9 / 8.9 / 8.7 / 9.0 / 9.0 | significance: +0.1 vs peer; experience: -0.1 vs peer. |
+| [FR/chateau-josselin](../../../countries/FR/sights/chateau-josselin.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | depth: +0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | uniqueness: +0.2 vs peer; significance: -0.1 vs peer. |
+| [GB/hampton-court](../../../countries/GB/sights/hampton-court.yaml) | 9.1 / 9.0 / 9.2 / 9.1 / 9.0 | significance: -0.4 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Monumental tall façade and decorated rooms. |
+| Uniqueness | 8.9 | Unusual vertical château and theatre. |
+| Significance | 8.8 | Regional aristocratic history. |
+| Experience | 8.9 | Documented interior and park visit. |
+| Depth | 8.9 | Several historical rooms and grounds. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.3, culture:9.1.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-terra-botanica — Terra Botanica Angers Botanical Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/terra-botanica.yaml)
+- Action: new
+- Precise subject and limitations: Integrated plant-themed park gardens, greenhouses, interactive exhibits and attractions; excludes Angers city gardens and separately operated evening experiences.
+- Location check: 47.51215, -0.57771; [published representative point](https://en.ot-cholet.fr/sites-visites/terra-botanica-angers.html), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.terrabotanica.fr/en/); indexed excerpt or page text inspected 2026-11-27. Operator describes plant-themed adventures and botanical discovery; Cholet tourism corroborates rides, films, interactive games and trails and publishes GPS. No unsupported claim about current plant counts. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GB/kew-gardens](../../../countries/GB/sights/kew-gardens.yaml) | 8.9 / 9.1 / 9.4 / 9.2 / 9.3 | significance: -1.4 vs peer; depth: -0.2 vs peer. |
+| [PT/monte-palace-garden](../../../countries/PT/sights/monte-palace-garden.yaml) | 9.0 / 8.9 / 8.5 / 9.0 / 8.9 | significance: -0.5 vs peer; impact: -0.2 vs peer. |
+| [ES/portaventura-world](../../../countries/ES/sights/portaventura-world.yaml) | 9.1 / 8.9 / 7.9 / 9.4 / 9.3 | experience: -0.3 vs peer; impact: -0.3 vs peer. |
+| [FR/disneyland-park-paris](../../../countries/FR/sights/disneyland-park-paris.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | significance: -0.5 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Varied themed plant landscapes. |
+| Uniqueness | 9.0 | Unusual combination of horticulture and theme park. |
+| Significance | 8.0 | Educational horticulture, not equivalent to historic scientific collections. |
+| Experience | 9.1 | Interactive trails and attractions. |
+| Depth | 9.1 | Multiple gardens and visitor environments. |
+
+- Applicable categories: nature:9.2, family:9.4, photography:9.1, relaxation:9.1.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
