@@ -3764,3 +3764,315 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-tr-karahantepe — Karahantepe Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/karahantepe.yaml)
+- Action: new
+- Precise subject and limitations: Separate early Neolithic excavation and established visitor site, not Göbekli Tepe or museum artefacts. Active excavation; no claim that it predates Göbekli Tepe or that all excavated structures are accessible.
+- Location check: 37.09286, 39.30356; [published representative point](https://turkeyora.com/en/places/karahantepe-orenyeri), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=KRH01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/gobekli-tepe](../../../countries/TR/sights/gobekli-tepe.yaml) | 8.7 / 9.4 / 9.4 / 8.5 / 7.9 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer. |
+| [TR/catalhoyuk](../../../countries/TR/sights/catalhoyuk.yaml) | 7.9 / 9.0 / 9.4 / 8.1 / 7.8 | impact: +0.8 vs peer; experience: +0.4 vs peer. |
+| [TR/arslantepe](../../../countries/TR/sights/arslantepe.yaml) | 8.1 / 8.9 / 9.2 / 8.4 / 8.1 | impact: +0.6 vs peer; uniqueness: +0.4 vs peer. |
+| [GR/akrotiri](../../../countries/GR/sights/akrotiri.yaml) | 8.9 / 9.3 / 9.4 / 8.9 / 8.7 | depth: -0.7 vs peer; experience: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Striking carved structures. |
+| Uniqueness | 9.3 | Distinct early Neolithic rock-cut features. |
+| Significance | 9.3 | Major evidence of early settled communities. |
+| Experience | 8.5 | Established archaeological visit, limited accessible scope. |
+| Depth | 8.0 | Currently bounded excavated visitor area. |
+
+- Applicable categories: history:9.4, architecture:9.2, photography:8.9.
+- Computed worldwide overall: 88.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-laodicea — Laodicea Archaeological Site Denizli — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/laodicea.yaml)
+- Action: new
+- Precise subject and limitations: Ancient city, theatres, colonnaded streets and churches; UNESCO tentative listing separate from Hierapolis-Pamukkale. UNESCO representative point converted from DMS, not entrance.
+- Location check: 37.83444, 29.109375; [published representative point](https://whc.unesco.org/en/tentativelists/5823/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?distId=MRK&sectionId=DLO01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/ephesus](../../../countries/TR/sights/ephesus.yaml) | 9.4 / 9.2 / 9.4 / 9.2 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [TR/hierapolis-pamukkale](../../../countries/TR/sights/hierapolis-pamukkale.yaml) | 9.4 / 9.3 / 9.1 / 8.9 / 8.9 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [TR/side-ancient-city](../../../countries/TR/sights/side-ancient-city.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 9.0 | depth: +0.2 vs peer; significance: +0.1 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Substantial monumental urban remains. |
+| Uniqueness | 8.9 | Distinct integrated ancient urban landscape. |
+| Significance | 9.2 | Important Roman and early Christian heritage. |
+| Experience | 8.9 | Established archaeological visit. |
+| Depth | 9.2 | Extensive variety of public and sacred structures. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.1.
+- Computed worldwide overall: 90.20/100.
+- High-score challenge: 90+ provisional; international peer comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-priene — Priene Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/priene.yaml)
+- Action: new
+- Precise subject and limitations: Hillside city, Athena temple and grid-plan residential remains; separate from Miletus and Didyma. UNESCO representative point converted from DMS.
+- Location check: 37.65879, 27.29759; [published representative point](https://whc.unesco.org/en/tentativelists/6348/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=PRI02); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/perge](../../../countries/TR/sights/perge.yaml) | 8.7 / 8.5 / 8.9 / 8.6 / 8.6 | uniqueness: +0.5 vs peer; depth: +0.3 vs peer. |
+| [TR/ephesus](../../../countries/TR/sights/ephesus.yaml) | 9.4 / 9.2 / 9.4 / 9.2 / 9.3 | impact: -0.6 vs peer; experience: -0.5 vs peer. |
+| [GR/ancient-kamiros](../../../countries/GR/sights/ancient-kamiros.yaml) | 8.7 / 8.8 / 9.0 / 8.7 / 8.8 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer. |
+| [GR/messene](../../../countries/GR/sights/messene.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | experience: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Evocative ruins and hillside views. |
+| Uniqueness | 9.0 | Distinct preserved ancient grid and residences. |
+| Significance | 9.1 | Significant Hellenistic urban planning heritage. |
+| Experience | 8.7 | Established archaeological circuit. |
+| Depth | 8.9 | Multiple urban structures and residential quarters. |
+
+- Applicable categories: history:9.3, architecture:9.3, photography:9.1.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-miletus — Miletus Archaeological Site and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/miletus.yaml)
+- Action: new
+- Precise subject and limitations: Ancient city, theatre, public structures and associated museum grouped because the official ticket covers both. Excludes independently visited Didyma and Priene sites.
+- Location check: 37.53192, 27.27961; [published representative point](https://mapcarta.com/32710892), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.muze.gov.tr/muze-detay?DistId=MLT&SectionId=MLT01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/perge](../../../countries/TR/sights/perge.yaml) | 8.7 / 8.5 / 8.9 / 8.6 / 8.6 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [TR/aspendos](../../../countries/TR/sights/aspendos.yaml) | 8.9 / 8.8 / 9.1 / 8.7 / 8.1 | depth: +0.9 vs peer; significance: +0.1 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | depth: +0.1 vs peer; impact: +0.0 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Imposing theatre and urban remains. |
+| Uniqueness | 8.8 | Distinct former Ionian port setting. |
+| Significance | 9.2 | Major ancient Ionian intellectual and civic heritage. |
+| Experience | 8.8 | Established site and museum visit. |
+| Depth | 9.0 | Multiple monuments and collections. |
+
+- Applicable categories: history:9.4, architecture:9.2, culture:9.1.
+- Computed worldwide overall: 89.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-didyma — Temple of Apollo at Didyma — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/didyma.yaml)
+- Action: new
+- Precise subject and limitations: Separate oracle sanctuary with monumental columns, courtyard and architectural remains; excludes Miletus and its museum.
+- Location check: 37.38512, 27.25681; [published representative point](https://belka.travel/en/places/temple-of-apollo-didyma/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.muze.gov.tr/muze-detay?DistId=DDM&SectionId=DDM01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/sounion](../../../countries/GR/sights/sounion.yaml) | 8.9 / 9.0 / 9.1 / 8.8 / 7.9 | depth: +0.4 vs peer; impact: +0.1 vs peer. |
+| [GR/epidaurus](../../../countries/GR/sights/epidaurus.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 8.8 | depth: -0.5 vs peer; impact: -0.2 vs peer. |
+| [GR/bassae](../../../countries/GR/sights/bassae.yaml) | 8.5 / 9.1 / 9.4 / 8.2 / 7.8 | experience: +0.6 vs peer; impact: +0.5 vs peer. |
+| [IT/agrigento](../../../countries/IT/sights/agrigento.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | depth: -0.9 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental temple scale. |
+| Uniqueness | 9.1 | Distinct monumental oracle sanctuary. |
+| Significance | 9.2 | Important ancient religious heritage. |
+| Experience | 8.8 | Established archaeological visit. |
+| Depth | 8.3 | Focused temple precinct. |
+
+- Applicable categories: architecture:9.4, history:9.4, photography:9.2.
+- Computed worldwide overall: 89.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-ephesus-museum-selcuk — Ephesus Archaeological Museum Selçuk — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/ephesus-museum-selcuk.yaml)
+- Action: new
+- Precise subject and limitations: Independent collection in Selçuk, including Artemis statues and regional finds; excludes Ephesus ruins and the on-site Ephesus Experience Museum.
+- Location check: 37.94853, 27.36774; [published representative point](https://mapcarta.com/36270996), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?distid=efm&sectionid=efm01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/troy-museum](../../../countries/TR/sights/troy-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [TR/izmir-archaeological-museum](../../../countries/TR/sights/izmir-archaeological-museum.yaml) | 8.5 / 8.7 / 8.9 / 8.7 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer. |
+| [GR/acropolis-museum](../../../countries/GR/sights/acropolis-museum.yaml) | 9.1 / 9.2 / 9.5 / 9.2 / 9.0 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+| [GR/museum-prehistoric-thera](../../../countries/GR/sights/museum-prehistoric-thera.yaml) | 8.8 / 9.2 / 9.3 / 8.8 / 8.7 | uniqueness: -0.2 vs peer; significance: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Strong original sculpture and artefacts. |
+| Uniqueness | 9.0 | Distinct Ephesian collection. |
+| Significance | 9.2 | Significant ancient religious and civic material. |
+| Experience | 8.9 | Established gallery visit. |
+| Depth | 8.8 | Several thematic displays. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:8.7.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-izmir-culture-arts-factory — İzmir Culture and Arts Factory Museums — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/izmir-culture-arts-factory.yaml)
+- Action: new
+- Precise subject and limitations: Restored Alsancak tobacco factory with archaeological, ethnographic and fine-art collections and public grounds. Separate physical venue from Konak Archaeological Museum; provenance and collection transfers need further checking. Temporary events excluded.
+- Location check: 38.43629, 27.14766; [published representative point](https://turkeyora.com/en/places/muze-izmir-kultur-sanat-fabrikasi), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=ITK01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/izmir-archaeological-museum](../../../countries/TR/sights/izmir-archaeological-museum.yaml) | 8.5 / 8.7 / 8.9 / 8.7 / 8.8 | significance: -0.3 vs peer; experience: +0.2 vs peer. |
+| [TR/istanbul-modern](../../../countries/TR/sights/istanbul-modern.yaml) | 8.6 / 8.6 / 8.6 / 8.9 / 8.7 | depth: +0.2 vs peer; impact: -0.1 vs peer. |
+| [GR/stavros-niarchos-cultural-center](../../../countries/GR/sights/stavros-niarchos-cultural-center.yaml) | 8.8 / 8.7 / 8.6 / 9.0 / 8.9 | impact: -0.3 vs peer; experience: -0.1 vs peer. |
+| [PT/serralves-art-park](../../../countries/PT/sights/serralves-art-park.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 9.0 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Attractive adaptive reuse and gallery displays. |
+| Uniqueness | 8.7 | Distinct industrial heritage cultural complex. |
+| Significance | 8.6 | Important regional cultural collections. |
+| Experience | 8.9 | Established museums and public spaces. |
+| Depth | 8.9 | Multiple complementary venues. |
+
+- Applicable categories: culture:9.2, history:9.0, architecture:9.0, family:8.9.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-ahlat-seljuk-cemetery — Ahlat Seljuk Monumental Cemetery — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/ahlat-seljuk-cemetery.yaml)
+- Action: new
+- Precise subject and limitations: Medieval carved tombstones and cemetery grounds only; broader UNESCO tentative property 1401 also includes citadel, not rated here. Distinct from Lake Van landscape.
+- Location check: 38.7425, 42.4578; [published representative point](https://meridiela.com/turkey/ahlat-seljuk-cemetery/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=BAS01&ya_src=serp300); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/kerameikos](../../../countries/GR/sights/kerameikos.yaml) | 8.5 / 8.9 / 9.2 / 8.7 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [IT/etruscan-necropolises](../../../countries/IT/sights/etruscan-necropolises.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | significance: -0.3 vs peer; experience: -0.3 vs peer. |
+| [TR/myra-rock-tombs-theatre](../../../countries/TR/sights/myra-rock-tombs-theatre.yaml) | 8.9 / 9.1 / 8.9 / 8.7 / 8.5 | impact: -0.2 vs peer; significance: +0.2 vs peer. |
+| [TR/harran-historic-town](../../../countries/TR/sights/harran-historic-town.yaml) | 8.8 / 9.2 / 9.1 / 8.7 / 8.7 | experience: -0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Striking field of carved monuments. |
+| Uniqueness | 9.1 | Distinct concentrated Seljuk funerary sculpture. |
+| Significance | 9.1 | Important medieval Anatolian heritage. |
+| Experience | 8.5 | Established respectful open-air visit. |
+| Depth | 8.7 | Extensive cemetery with varied stonework. |
+
+- Applicable categories: history:9.4, architecture:9.3, culture:9.2, photography:9.0.
+- Computed worldwide overall: 88.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

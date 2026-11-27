@@ -1214,3 +1214,16 @@ Eight additions, 32 peer rows. Türkiye 97 ranked / 97 total. Chora excluded as 
 - [x] TR — Harran Traditional Beehive Houses and Historic Town: 89.35/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Türkiye 105 ranked / 105 total. Konak museum distinct from Culture and Arts Factory; Urfa archaeological and mosaic museums grouped; Harran and Balıklıgöl separately bounded, future UNESCO tentative umbrella would duplicate them. Halfeti old-town map centre, not new settlement. Harran restoration access secondary report, official confirmation pending. Next bounded screen: Karahantepe, Laodicea, Priene, Miletus, Didyma, Ephesus Museum Selçuk, İzmir Culture and Arts Factory, and Ahlat monumental tombstones. Full Python validation pending.
+
+### Pass 105 — Türkiye Ionian archaeology and independent collections
+
+- [x] TR — Karahantepe Archaeological Site: 88.70/100 (source-linked-unverified).
+- [x] TR — Laodicea Archaeological Site Denizli: 90.20/100 (source-linked-unverified).
+- [x] TR — Priene Archaeological Site: 89.05/100 (source-linked-unverified).
+- [x] TR — Miletus Archaeological Site and Museum: 89.30/100 (source-linked-unverified).
+- [x] TR — Temple of Apollo at Didyma: 89.65/100 (source-linked-unverified).
+- [x] TR — Ephesus Archaeological Museum Selçuk: 89.45/100 (source-linked-unverified).
+- [x] TR — İzmir Culture and Arts Factory Museums: 86.70/100 (source-linked-unverified).
+- [x] TR — Ahlat Seljuk Monumental Cemetery: 88.50/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Türkiye 113 ranked / 113 total. Laodicea and Priene tentative sites distinct; Miletus museum included in shared admission; Didyma independently visited; Karahantepe separate excavation; Ahlat cemetery excludes citadel. İzmir factory and Konak museum separate venues, collection transfer check pending. Next bounded screen: Hacı Bektaş Veli complex, Alanya Castle and Red Tower, Damlataş Cave, Knidos, Aphrodisias Museum (overlap check), Karatepe-Aslantaş, Çatalhöyük visitor scope check, and Hattuşa Yazılıkaya (overlap check). Earlier Ihlara and Antalya museum deferrals unchanged. Full Python validation pending.
