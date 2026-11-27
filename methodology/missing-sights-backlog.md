@@ -668,3 +668,15 @@ Nine additions and 36 peer comparisons. Tunisia 28 ranked / 39 total. Existing e
 - [x] TN — Korbous and Ain Atrous Thermal Spring Coast: 81.40/100 (source-linked-unverified).
 
 Nine additions and 36 peer comparisons. Tunisia 37 ranked / 48 total; eleven previously unassessed unchanged. Ghriba 2026 visitor return documented, ordinary access conditional. Tabarka fort interior excluded due conflicting access; needles and permitted coastal walk only. Zaghouan temple distinct visitor component of unassessed hydraulic aggregate. Tozeur grouped with palm grove, excludes separate mountain oasis circuit and salt flat. Type inference labels synagogue and some coastal or religious sites generically; semantic classification review pending. Final bounded screen: El Haouaria quarry caves access, Dar Ennejma Ezzahra and Dar El Annabi in Sidi Bou Said (distinct paid interiors), Hammamet medina and kasbah, Mahdia old town and Borj El Kebir, Jebel Zaghouan trails, Cap Serrat, and other major missing nature/heritage sites. Full Python validation and individual peer YAML checks pending.
+
+### Pass 61 — final named Tunisia coastal and heritage candidates
+
+- [x] TN — Ennejma Ezzahra Palace and Music Museum: 869.50/100 (source-linked-unverified).
+- [x] TN — Mahdia Old Town and Fortress: 869.50/100 (source-linked-unverified).
+- [x] TN — Hammamet Medina and Kasbah: 847.00/100 (source-linked-unverified).
+- [x] TN — El Haouaria Ancient Quarry Caves: 857.00/100 (source-linked-unverified).
+- [x] TN — Jebel Zaghouan Mountain: 839.00/100 (source-linked-unverified).
+- [x] TN — Dar El Annabi Heritage Museum: 820.00/100 (source-linked-unverified).
+- [x] TN — Cap Serrat Beach and Coastal Forest: 814.50/100 (source-linked-unverified).
+
+Seven additions; 28 peer rows. Tunisia 44 ranked / 55 total; 11 prior unassessed unchanged. El Haouaria access conditional; Cap Serrat excludes lighthouse and private camps; Sidi Bou Said museums separate from public village walk; medina/fort bundles prevent duplicate records. New concrete candidates from official regional overview https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga: Utica archaeological site, Bizerte old town/fort, Ghar el-Melh fortifications and Testour historic centre. Keep Tunisia open for that bounded screen rather than falsely declaring the queue exhausted. Full Python validation and independent corroboration pending.

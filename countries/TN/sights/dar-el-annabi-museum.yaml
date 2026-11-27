@@ -1,0 +1,16 @@
+id: sight-tn-dar-el-annabi-museum
+name: "Dar El Annabi Heritage Museum"
+location:
+  country_code: TN
+  latitude: 36.87095
+  longitude: 10.3474
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.2
+  experience: 8.5
+  depth: 7.8
+  categories:
+    culture: 8.9
+    architecture: 8.8
+    history: 8.5

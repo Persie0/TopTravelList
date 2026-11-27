@@ -1289,3 +1289,275 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-tn-ennejma-ezzahra-palace — Ennejma Ezzahra Palace and Music Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/ennejma-ezzahra-palace.yaml)
+- Action: new
+- Precise subject and limitations: Separate ticketed palace interiors and musical heritage collection; village street experience excluded. Operator publishes visiting schedule (https://www.cmam.tn/content/en/32/Rates-and-schedule.html).
+- Location check: 36.86919, 10.34821; [published representative point](https://mapcarta.com/W209175154), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.cmam.tn/content/en/4/Museum.html); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/sidi-bou-said](../../../countries/TN/sights/sidi-bou-said.yaml) | 9.0 / 8.8 / 8.7 / 8.8 / 7.9 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/guellala-heritage-museum](../../../countries/TN/sights/guellala-heritage-museum.yaml) | 8.3 / 8.7 / 8.5 / 8.6 / 8.5 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [OM/nizwa-fort](../../../countries/OM/sights/nizwa-fort.yaml) | 8.8 / 8.6 / 8.8 / 8.9 / 8.3 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Ornate palace interiors. |
+| Uniqueness | 8.9 | Unusual palace and music collection. |
+| Significance | 8.8 | Important musical and artistic heritage. |
+| Experience | 8.6 | Dedicated indoor museum visit. |
+| Depth | 8.4 | Multiple rooms and collection. |
+
+- Applicable categories: architecture:9.3, culture:9.1, history:8.8, photography:8.9.
+- Computed worldwide overall: 869.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-mahdia-medina-fortress — Mahdia Old Town and Fortress — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/mahdia-medina-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Grouped peninsula medina, historic gate, and Ottoman fortress; fort representative point; old town walk documented at https://www.tourismtunisia.com/mahdia-travel-guide/. No separate fort record.
+- Location check: 35.5053, 11.0763; [published representative point](https://tunis.events/tn/explore/heritage/monument-borj-el-kebir-mahdia), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.patrimoinedetunisie.com.tn/en/monuments/borj-el-kebir-mahdia/overview/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/medina-sousse](../../../countries/TN/sights/medina-sousse.yaml) | 8.8 / 8.7 / 9.0 / 8.7 / 8.5 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/medina-tunis](../../../countries/TN/sights/medina-tunis.yaml) | 9.1 / 9.1 / 9.3 / 9.0 / 9.2 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/monastir-ribat](../../../countries/TN/sights/monastir-ribat.yaml) | 8.8 / 8.8 / 9.1 / 8.7 / 8.5 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [OM/bahla-fort](../../../countries/OM/sights/bahla-fort.yaml) | 8.8 / 8.8 / 9.2 / 8.6 / 8.5 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Coastal fort and historic urban fabric. |
+| Uniqueness | 8.6 | Distinct peninsula setting. |
+| Significance | 8.9 | Fatimid and Ottoman heritage. |
+| Experience | 8.7 | Walk and fortress visit. |
+| Depth | 8.5 | Several interconnected historic features. |
+
+- Applicable categories: history:9.1, architecture:9.0, culture:8.8, photography:9.1.
+- Computed worldwide overall: 869.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-hammamet-medina-kasbah — Hammamet Medina and Kasbah — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/hammamet-medina-kasbah.yaml)
+- Action: new
+- Precise subject and limitations: Group walled old town and kasbah; point at fort. Visitor listing publishes admission; excludes resort beaches.
+- Location check: 36.3948, 10.6123; [published representative point](https://tunis.events/en/explore/heritage/monument-kasbah-hammamet), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.inp2020.tn/en/blog_inp/_hammamet/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/medina-sfax](../../../countries/TN/sights/medina-sfax.yaml) | 8.2 / 8.4 / 8.5 / 8.1 / 8.0 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/medina-sousse](../../../countries/TN/sights/medina-sousse.yaml) | 8.8 / 8.7 / 9.0 / 8.7 / 8.5 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/kelibia-fort](../../../countries/TN/sights/kelibia-fort.yaml) | 8.7 / 8.7 / 9.0 / 8.6 / 8.4 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [OM/nizwa-fort](../../../countries/OM/sights/nizwa-fort.yaml) | 8.8 / 8.6 / 8.8 / 8.9 / 8.3 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Attractive seafront walls. |
+| Uniqueness | 8.3 | Familiar but distinctive coastal medina. |
+| Significance | 8.6 | Historic fortified settlement. |
+| Experience | 8.7 | Walkable lanes and fort. |
+| Depth | 8.2 | Compact heritage precinct. |
+
+- Applicable categories: architecture:8.9, history:8.8, culture:8.7, photography:9.0.
+- Computed worldwide overall: 847.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-el-haouaria-quarries — El Haouaria Ancient Quarry Caves — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/el-haouaria-quarries.yaml)
+- Action: new
+- Precise subject and limitations: Ancient coastal extraction chambers associated with Carthage. Published visitor listing and official visit cost support site inclusion, but historical rockfall/closure reports conflict (https://www.showcaves.com/english/other/mines/El-Haouaria.html); no guaranteed cave entry; verify conditions locally.
+- Location check: 37.0594, 10.9967; [published representative point](https://tunis.events/tn/explore/heritage/monument-haouaria-quarries), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.patrimoinedetunisie.com.tn/en/monuments/the-quarries-of-el-haouaria/overview/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/chemtou-quarries](../../../countries/TN/sights/chemtou-quarries.yaml) | 8.3 / 9.1 / 9.2 / 8.6 / 8.3 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/matmata-troglodyte-homes](../../../countries/TN/sights/matmata-troglodyte-homes.yaml) | 8.7 / 9.0 / 8.5 / 8.3 / 7.7 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/carthage-archaeological-site](../../../countries/TN/sights/carthage-archaeological-site.yaml) | 8.9 / 9.4 / 9.8 / 8.7 / 9.1 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [OM/al-mughsail-beach-and-blowholes](../../../countries/OM/sights/al-mughsail-beach-and-blowholes.yaml) | 8.9 / 8.7 / 7.4 / 8.8 / 7.9 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Coastal excavated chambers. |
+| Uniqueness | 9.0 | Unusual historic quarry form. |
+| Significance | 8.9 | Punic and Roman stone extraction. |
+| Experience | 8.0 | Conditional permitted visit. |
+| Depth | 7.9 | Focused quarry complex. |
+
+- Applicable categories: history:9.2, architecture:8.7, photography:9.0.
+- Computed worldwide overall: 857.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-jebel-zaghouan — Jebel Zaghouan Mountain — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/jebel-zaghouan.yaml)
+- Action: new
+- Precise subject and limitations: Mountain hiking and climbing landscape; summit representative point, not trailhead. Excludes separately rated Water Temple; specialist routes require suitable conditions and experience.
+- Location check: 36.35055, 10.11179; [published representative point](https://mydreampeaks.com/peak/3032859/djebel-zaghouan), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://tunis.events/explore/nature/peak-jebel-zaghouan); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/table-jugurtha](../../../countries/TN/sights/table-jugurtha.yaml) | 9.0 / 9.0 / 8.7 / 8.6 / 8.2 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/mountain-oases-chebika-tamerza-mides](../../../countries/TN/sights/mountain-oases-chebika-tamerza-mides.yaml) | 9.1 / 9.0 / 8.3 / 8.8 / 8.9 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/ichkeul-national-park](../../../countries/TN/sights/ichkeul-national-park.yaml) | 8.5 / 8.9 / 9.1 / 8.2 / 8.1 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [OM/jebel-akhdar-mountain-landscape](../../../countries/OM/sights/jebel-akhdar-mountain-landscape.yaml) | 9.1 / 8.8 / 8.3 / 9.0 / 9.0 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Prominent limestone relief. |
+| Uniqueness | 8.4 | Distinct regional massif. |
+| Significance | 7.9 | Regional natural heritage. |
+| Experience | 8.6 | Mountain walking and climbing. |
+| Depth | 8.4 | Multiple routes and terrain. |
+
+- Applicable categories: nature:9.0, adventure:9.0, photography:9.1.
+- Computed worldwide overall: 839.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-dar-el-annabi-museum — Dar El Annabi Heritage Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/dar-el-annabi-museum.yaml)
+- Action: new
+- Precise subject and limitations: Separate historic domestic interiors museum and roof terrace, distinct from public village streets and palace music collection. Confirm current opening before travel.
+- Location check: 36.87095, 10.3474; [published representative point](https://mapcarta.com/N6274661845), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.tourismtunisia.com/dar-el-annabi-sidi-bou-said/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/guellala-heritage-museum](../../../countries/TN/sights/guellala-heritage-museum.yaml) | 8.3 / 8.7 / 8.5 / 8.6 / 8.5 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/sidi-bou-said](../../../countries/TN/sights/sidi-bou-said.yaml) | 9.0 / 8.8 / 8.7 / 8.8 / 7.9 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/sousse-archaeological-museum](../../../countries/TN/sights/sousse-archaeological-museum.yaml) | 8.7 / 8.9 / 9.0 / 8.8 / 8.7 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [OM/nizwa-fort](../../../countries/OM/sights/nizwa-fort.yaml) | 8.8 / 8.6 / 8.8 / 8.9 / 8.3 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Intimate historic interiors. |
+| Uniqueness | 8.3 | Domestic cultural interpretation. |
+| Significance | 8.2 | Traditional household heritage. |
+| Experience | 8.5 | Accessible focused museum visit. |
+| Depth | 7.8 | Limited house-scale collection. |
+
+- Applicable categories: culture:8.9, architecture:8.8, history:8.5.
+- Computed worldwide overall: 820.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-cap-serrat-beach — Cap Serrat Beach and Coastal Forest — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/cap-serrat-beach.yaml)
+- Action: new
+- Precise subject and limitations: Wild sand bay backed by wooded hills, independently highlighted by Lonely Planet (https://www.lonelyplanet.com/articles/best-beaches-in-tunisia). Excludes private camping venues and lighthouse interior; no lifeguard or safe swimming assumed.
+- Location check: 37.21844, 9.22591; [published representative point](https://mapcarta.com/N10585459509), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://discovertunisia.com/en/tunisie-beach/tour-tunisias-beaches); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/tabarka-needles](../../../countries/TN/sights/tabarka-needles.yaml) | 8.7 / 8.4 / 7.7 / 8.5 / 7.8 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/djerba-beaches](../../../countries/TN/sights/djerba-beaches.yaml) | 8.4 / 7.6 / 7.4 / 8.7 / 7.8 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [TN/korbous-ain-atrous](../../../countries/TN/sights/korbous-ain-atrous.yaml) | 8.3 / 8.5 / 7.5 / 8.3 / 7.8 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+| [OM/al-mughsail-beach-and-blowholes](../../../countries/OM/sights/al-mughsail-beach-and-blowholes.yaml) | 8.9 / 8.7 / 7.4 / 8.8 / 7.9 | Distinct comparator; compare the five dimensions above against the candidate’s visitor scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Scenic wild bay. |
+| Uniqueness | 8.2 | Forest-backed beach. |
+| Significance | 7.3 | Regional natural landscape. |
+| Experience | 8.5 | Beach walk and coastal relaxation. |
+| Depth | 7.8 | Limited beach and coastal scope. |
+
+- Applicable categories: beaches:9.0, nature:8.8, photography:8.9, relaxation:8.8.
+- Computed worldwide overall: 814.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

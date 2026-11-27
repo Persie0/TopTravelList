@@ -1,0 +1,17 @@
+id: sight-tn-hammamet-medina-kasbah
+name: "Hammamet Medina and Kasbah"
+location:
+  country_code: TN
+  latitude: 36.3948
+  longitude: 10.6123
+scores:
+  impact: 8.5
+  uniqueness: 8.3
+  significance: 8.6
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 8.9
+    history: 8.8
+    culture: 8.7
+    photography: 9.0

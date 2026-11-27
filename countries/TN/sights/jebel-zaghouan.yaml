@@ -1,0 +1,16 @@
+id: sight-tn-jebel-zaghouan
+name: "Jebel Zaghouan Mountain"
+location:
+  country_code: TN
+  latitude: 36.35055
+  longitude: 10.11179
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.0
+    adventure: 9.0
+    photography: 9.1
