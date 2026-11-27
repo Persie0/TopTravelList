@@ -1,0 +1,15 @@
+id: sight-fr-orleans-beaux-arts
+name: "Musée des Beaux-Arts Orléans European Fine Arts Collections"
+location:
+  country_code: FR
+  latitude: 47.902
+  longitude: 1.91
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3

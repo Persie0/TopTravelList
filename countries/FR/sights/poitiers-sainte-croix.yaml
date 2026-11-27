@@ -1,0 +1,15 @@
+id: sight-fr-poitiers-sainte-croix
+name: "Musée Sainte-Croix Poitiers Archaeology and Fine Arts Collections"
+location:
+  country_code: FR
+  latitude: 46.579
+  longitude: 0.348
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4

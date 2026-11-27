@@ -2620,3 +2620,33 @@ Next: Return to mainland FR residual high-value coverage and overseas follow-up;
 - [x] FR — Abbaye Royale de Chaalis Ruins Chapel and Art Collections: 88.15/100 (desk-based provisional).
 
 25 additions, 11 desk-based provisional estimates, 14 source-informed candidates, 13 90+, 56 domestic peer ranking-row comparisons. France 1010 ranked / 1021 total; 11 existing unassessed unchanged. Paris-region residual screen. Paleontology gallery and Nissim de Camondo renovation ignored as rating penalty. Separate Jardin des Plantes grounds from museum galleries. Auvers linked artist heritage grouped. No new scores for Versailles, Paris Seine or existing serial components. Existing scores preserved. Next: Remaining high-value omissions outside Île-de-France, verify residual candidate list, then consider closing bounded FR queue; 11 existing unassessed remain separate. Full Python validation pending.
+
+
+### Pass 170 — mainland France residual western and central regions
+
+- [x] FR — ZooParc de Beauval Zoological Park and Conservation Collections: 93.15/100 (source-linked-unverified).
+- [x] FR — M24 Musée du Sport Automobile Le Mans Motorsport Museum: 93.05/100 (source-linked-unverified).
+- [x] FR — Le Mans Cité Plantagenêt Roman Walls Historic Quarter and Cathedral: 92.45/100 (source-linked-unverified).
+- [x] FR — Musée des Blindés Saumur Armoured Vehicle Historical Collections: 92.15/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts Rennes Fine Arts and Robien Collections: 92.10/100 (source-linked-unverified).
+- [x] FR — Musée Sainte-Croix Poitiers Archaeology and Fine Arts Collections: 91.55/100 (source-linked-unverified).
+- [x] FR — Futuroscope Chasseneuil-du-Poitou Immersive Science and Technology Theme Park: 90.90/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts Orléans European Fine Arts Collections: 91.35/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts Tours Fine Arts Collections: 91.25/100 (source-linked-unverified).
+- [x] FR — Église Notre-Dame-la-Grande Poitiers Romanesque Sculptural Heritage: 91.15/100 (source-linked-unverified).
+- [x] FR — Lorient La Base Maritime Heritage Museums and Cité de la Voile: 91.30/100 (source-linked-unverified).
+- [x] FR — Musée de Bretagne Rennes Regional History and Archaeology Collections: 90.20/100 (source-linked-unverified).
+- [x] FR — Château de Brest and Musée National de la Marine Maritime Collections: 89.75/100 (source-linked-unverified).
+- [x] FR — Musée de la Cavalerie Saumur Equestrian Military Heritage Collections: 87.15/100 (desk-based provisional).
+- [x] FR — Musée de Tessé Le Mans Fine Arts and Egyptian Collections: 88.15/100 (desk-based provisional).
+- [x] FR — Baptistère Saint-Jean Poitiers Early Christian Heritage: 89.10/100 (desk-based provisional).
+- [x] FR — Cathédrale Saint-Pierre Poitiers Gothic Cathedral: 88.55/100 (desk-based provisional).
+- [x] FR — Écomusée de la Bintinais Rennes Rural Heritage Farm: 86.90/100 (desk-based provisional).
+- [x] FR — Citadelle de Port-Louis and Musée de la Compagnie des Indes: 89.40/100 (desk-based provisional).
+- [x] FR — Zoo de La Flèche Wildlife Park: 87.05/100 (desk-based provisional).
+- [x] FR — Aquascope Futuroscope Immersive Indoor Water Park: 87.45/100 (desk-based provisional).
+- [x] FR — Muséum d’Orléans pour la Biodiversité et l’Environnement: 87.20/100 (desk-based provisional).
+- [x] FR — Palais Jacques-Cœur Bourges Late Gothic Mansion: 89.40/100 (desk-based provisional).
+- [x] FR — Musée du Compagnonnage Tours Traditional Master Crafts Collections: 88.75/100 (desk-based provisional).
+
+24 additions, 11 desk-based provisional estimates, 13 source-informed candidates, 12 90+, 52 domestic peer ranking-row comparisons. France 1034 ranked / 1045 total; 11 existing unassessed unchanged. Western and central France residual screen; Le Mans walls, cathedral and historic core combined; M24 replacement of former 24 Hours museum, no duplicate; separate Aquascope scope; Loire Valley collections independently scored, no repeat architectural scores. Poitiers Notre-Dame restoration not penalized. Port-Louis museum complex distinct from Lorient La Base. Existing scores preserved. Next: Check further regional omissions (northern/central historic towns, national maritime museums, Alpine hikes and named natural sites) and resolve bounded French discovery queue; existing 11 unassessed separate. Full Python validation pending.

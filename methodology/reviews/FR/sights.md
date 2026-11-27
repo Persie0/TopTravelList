@@ -10402,3 +10402,495 @@ Ranking rows checked; peer YAML and international calibration pending.
 - Overall: 88.15/100.
 - Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
 - Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-beauval-zoo — ZooParc de Beauval Zoological Park and Conservation Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/beauval-zoo.yaml)
+- Action: new
+- Scope: Zoological park and educational collections; species counts operator-reported.
+- Representative coordinates: 47.248, 1.353; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.1 / 9.4 / 9.4.
+- Categories: wildlife:9.4,family:9.4,nature:9.3.
+- Overall: 93.15/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.zoobeauval.com/en/prepare-your-visit/frequently-asked-questions ; https://www.zoobeauval.com/protection-des-animaux/clinique-veterinaire.
+- Rationale: Operator reports 35,000 animals, 800 species and 46 hectares, with conservation and veterinary research.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/nausicaa](../../../countries/FR/sights/nausicaa.yaml) | 9.4 / 9.3 / 9.0 / 9.4 / 9.3 | significance: +0.1 vs peer; depth: +0.1 vs peer |
+| [FR/bioparc-doue](../../../countries/FR/sights/bioparc-doue.yaml) | 9.0 / 9.2 / 8.3 / 9.1 / 9.1 | significance: +0.8 vs peer; impact: +0.4 vs peer |
+| [FR/amneville-zoo](../../../countries/FR/sights/amneville-zoo.yaml) | 9.0 / 8.9 / 8.4 / 9.2 / 9.1 | significance: +0.7 vs peer; impact: +0.4 vs peer |
+| [FR/zoo-la-palmyre](../../../countries/FR/sights/zoo-la-palmyre.yaml) | 8.7 / 8.5 / 8.2 / 9.0 / 8.9 | significance: +0.9 vs peer; uniqueness: +0.8 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-m24-le-mans — M24 Musée du Sport Automobile Le Mans Motorsport Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/m24-le-mans.yaml)
+- Action: new
+- Scope: Museum only, no motorsport race attendance included; incorporates former 24 Hours museum.
+- Representative coordinates: 47.957, 0.207; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.2 / 9.3 / 9.3.
+- Categories: culture:9.4,history:9.4,family:9.3.
+- Overall: 93.05/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.m24-musee.com/nos-collections/ ; https://www.lemans.org/fr/actualites/aco/le-m24-musee-du-sport-automobile-est-inaugure-60617 ; https://www.sarthe.fr/sarthe-sportive/24-heures-du-Mans/musee-des-24-heures-du-mans-circuit-de-la-sarthe.
+- Rationale: Opened 28 May 2026, 8,600 square metres and 4,667 scale models alongside full-size racing cars.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/mulhouse-automobile](../../../countries/FR/sights/mulhouse-automobile.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.4 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [FR/aventure-peugeot](../../../countries/FR/sights/aventure-peugeot.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/cite-train-mulhouse](../../../countries/FR/sights/cite-train-mulhouse.yaml) | 9.4 / 9.4 / 9.3 / 9.3 / 9.4 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [FR/michelin-aventure](../../../countries/FR/sights/michelin-aventure.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | impact: +0.3 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-lemans-plantagenet — Le Mans Cité Plantagenêt Roman Walls Historic Quarter and Cathedral — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lemans-plantagenet.yaml)
+- Action: new
+- Scope: Historic core including Roman walls and Saint-Julien cathedral; do not separately add tentative wall nomination.
+- Representative coordinates: 48.007, 0.197; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.2 / 9.2.
+- Categories: architecture:9.4,history:9.4,photography:9.4.
+- Overall: 92.45/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.lemans-tourisme.com/en/discover/architecture-heritage.html ; https://www.sarthetourisme.com/en/incontournables/le-mans-la-cite-plantagenet/.
+- Rationale: Preserved Roman enclosure, medieval timber houses, Renaissance mansions and Romanesque-Gothic cathedral.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/troyes-old-town](../../../countries/FR/sights/troyes-old-town.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.2 | uniqueness: +0.2 vs peer; significance: +0.1 vs peer |
+| [FR/colmar-old-town](../../../countries/FR/sights/colmar-old-town.yaml) | 9.3 / 9.1 / 9.0 / 9.3 / 9.0 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [FR/rouen-ensemble](../../../countries/FR/sights/rouen-ensemble.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.0 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+| [FR/langres-ramparts](../../../countries/FR/sights/langres-ramparts.yaml) | 9.0 / 9.0 / 9.1 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-saumur-blindes — Musée des Blindés Saumur Armoured Vehicle Historical Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saumur-blindes.yaml)
+- Action: new
+- Scope: Historical museum experience only.
+- Representative coordinates: 47.245, -0.072; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.1 / 9.3.
+- Categories: history:9.4,culture:9.4.
+- Overall: 92.15/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.terre.defense.gouv.fr/art-patrimoine-terre/nos-musees/musees-larmee-terre/musee-blindes-cavalerie-site-blindes ; https://museedesblindes.fr/.
+- Rationale: National authority describes roughly 800 historical vehicles and more than 200 exhibited.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/aventure-peugeot](../../../countries/FR/sights/aventure-peugeot.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.2 | uniqueness: +0.1 vs peer; experience: -0.1 vs peer |
+| [FR/mulhouse-automobile](../../../countries/FR/sights/mulhouse-automobile.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.4 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [FR/invalides-army-museum](../../../countries/FR/sights/invalides-army-museum.yaml) | 9.2 / 9.1 / 9.4 / 9.0 / 9.3 | uniqueness: +0.3 vs peer; significance: -0.2 vs peer |
+| [FR/meaux-great-war](../../../countries/FR/sights/meaux-great-war.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-rennes-beaux-arts — Musée des Beaux-Arts Rennes Fine Arts and Robien Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rennes-beaux-arts.yaml)
+- Action: new
+- Scope: Collections only; independent from existing Rennes historic centre.
+- Representative coordinates: 48.109, -1.675; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.1 / 9.3.
+- Categories: culture:9.4,history:9.4.
+- Overall: 92.10/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://mba.rennes.fr/expositions-collections-menu/parcours-permanent ; https://bretagnemusees.bzh/musee/musee-des-beaux-arts-de-rennes/.
+- Rationale: Rare historic cabinet of curiosities and major European drawings and paintings.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dijon-beaux-arts](../../../countries/FR/sights/dijon-beaux-arts.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/lille-beaux-arts](../../../countries/FR/sights/lille-beaux-arts.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+| [FR/musee-grenoble](../../../countries/FR/sights/musee-grenoble.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 9.4 | significance: +0.1 vs peer; depth: -0.1 vs peer |
+| [FR/besancon-beaux-arts](../../../countries/FR/sights/besancon-beaux-arts.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-poitiers-sainte-croix — Musée Sainte-Croix Poitiers Archaeology and Fine Arts Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/poitiers-sainte-croix.yaml)
+- Action: new
+- Scope: Collections only; baptistery and cathedral excluded.
+- Representative coordinates: 46.579, 0.348; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.3.
+- Categories: culture:9.4,history:9.4.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://pop.culture.gouv.fr/notice/museo/M0852 ; https://www.visitpoitiers.fr/en/decouvrir/les-incontournables/musee-sainte-croix/.
+- Rationale: Major regional archaeology and fine arts collections including third-largest French public Camille Claudel collection.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/amiens-picardie](../../../countries/FR/sights/amiens-picardie.yaml) | 9.1 / 9.2 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [FR/besancon-beaux-arts](../../../countries/FR/sights/besancon-beaux-arts.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/dijon-beaux-arts](../../../countries/FR/sights/dijon-beaux-arts.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-futuroscope — Futuroscope Chasseneuil-du-Poitou Immersive Science and Technology Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/futuroscope.yaml)
+- Action: new
+- Scope: Main theme park attractions, not separately ticketed Aquascope.
+- Representative coordinates: 46.67, 0.366; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.5 / 9.4 / 9.2.
+- Categories: family:9.4,adventure:9.3.
+- Overall: 90.90/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.futuroscope.com/en/xperiences/futuroscope ; https://www.futuroscope.com/en/xperiences/theme/sensational-attractions.
+- Rationale: Documented immersive technology rides, shows and family attractions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/puy-du-fou](../../../countries/FR/sights/puy-du-fou.yaml) | 9.3 / 9.4 / 8.1 / 9.4 / 9.3 | significance: +0.4 vs peer; uniqueness: -0.2 vs peer |
+| [FR/parc-asterix](../../../countries/FR/sights/parc-asterix.yaml) | 9.0 / 8.9 / 8.1 / 9.3 / 9.2 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [FR/disneyland-park-paris](../../../countries/FR/sights/disneyland-park-paris.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.5 vs peer; impact: +0.3 vs peer |
+| [FR/cite-espace-toulouse](../../../countries/FR/sights/cite-espace-toulouse.yaml) | 9.2 / 9.2 / 9.0 / 9.3 / 9.3 | significance: -0.5 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-orleans-beaux-arts — Musée des Beaux-Arts Orléans European Fine Arts Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/orleans-beaux-arts.yaml)
+- Action: new
+- Scope: Museum collections only; Loire Valley urban architecture excluded.
+- Representative coordinates: 47.902, 1.91; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.3.
+- Categories: culture:9.4,history:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.orleans.fr/que-faire-a-orleans/musees/musee-des-beaux-arts ; https://pop.culture.gouv.fr/notice/museo/M0286.
+- Rationale: Major European paintings and a particularly substantial pastel cabinet.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dijon-beaux-arts](../../../countries/FR/sights/dijon-beaux-arts.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/nancy-beaux-arts](../../../countries/FR/sights/nancy-beaux-arts.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/musee-fabre](../../../countries/FR/sights/musee-fabre.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [FR/rennes-beaux-arts](../../../countries/FR/sights/rennes-beaux-arts.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-tours-beaux-arts — Musée des Beaux-Arts Tours Fine Arts Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/tours-beaux-arts.yaml)
+- Action: new
+- Scope: Collections only; archbishop palace exterior and historic Loire urban fabric excluded.
+- Representative coordinates: 47.395, 0.694; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.2.
+- Categories: culture:9.4,history:9.3.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://musees.tours.fr/visiter/musees-et-centre-d-exposition/musee-des-beaux-arts/ ; https://www.tours-tourisme.fr/preparez-votre-sejour/musees-and-sites-culturels/musee-des-beaux-arts-de-tours-et-son-jardin/.
+- Rationale: Important Mantegna panels, European paintings and medieval sculpture.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/orleans-beaux-arts](../../../countries/FR/sights/orleans-beaux-arts.yaml) | 9.0 / 9.2 / 9.2 / 9.1 / 9.3 | depth: -0.1 vs peer; impact: +0.0 vs peer |
+| [FR/rennes-beaux-arts](../../../countries/FR/sights/rennes-beaux-arts.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/musee-fabre](../../../countries/FR/sights/musee-fabre.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 9.3 | impact: -0.1 vs peer; depth: -0.1 vs peer |
+| [FR/nancy-beaux-arts](../../../countries/FR/sights/nancy-beaux-arts.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-poitiers-notre-dame — Église Notre-Dame-la-Grande Poitiers Romanesque Sculptural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/poitiers-notre-dame.yaml)
+- Action: new
+- Scope: Church fabric and sculpture; restoration not penalized; separate from pilgrimage serial churches.
+- Representative coordinates: 46.583, 0.342; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.0.
+- Categories: architecture:9.4,history:9.4,culture:9.3.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visitpoitiers.fr/en/decouvrir/les-incontournables/eglise-notre-dame-la-grande/ ; https://www.visitpoitiers.fr/patrimoine-culturel/eglise-notre-dame-la-grande/.
+- Rationale: Eleventh-century Romanesque church with remarkable carved facade.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/autun-cathedral](../../../countries/FR/sights/autun-cathedral.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [FR/brioude-basilica](../../../countries/FR/sights/brioude-basilica.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | uniqueness: +0.2 vs peer; significance: -0.1 vs peer |
+| [FR/issoire-abbey](../../../countries/FR/sights/issoire-abbey.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | uniqueness: +0.2 vs peer; impact: +0.0 vs peer |
+| [FR/tournus-abbey](../../../countries/FR/sights/tournus-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-lorient-maritime-base — Lorient La Base Maritime Heritage Museums and Cité de la Voile — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lorient-maritime-base.yaml)
+- Action: new
+- Scope: Combined maritime interpretation, sailing museum and historic submarine museum; no separate scores for constituent museums.
+- Representative coordinates: 47.728, -3.371; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.2 / 9.3.
+- Categories: history:9.4,culture:9.3,family:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.lorient-agglo.bzh/a-vivre/nautisme/lorient-la-base/ ; https://lorientlabase.fr/la-base-visites_activites/.
+- Rationale: Integrated industrial and maritime history campus, sailing interpretation and historic museum vessels.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/cite-de-la-mer](../../../countries/FR/sights/cite-de-la-mer.yaml) | 9.0 / 9.2 / 9.0 / 9.1 / 9.2 | significance: +0.1 vs peer; experience: +0.1 vs peer |
+| [FR/dunkerque-maritime](../../../countries/FR/sights/dunkerque-maritime.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.1 | depth: +0.2 vs peer; impact: +0.0 vs peer |
+| [FR/escal-atlantic](../../../countries/FR/sights/escal-atlantic.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | depth: +0.5 vs peer; significance: +0.3 vs peer |
+| [FR/espadon-submarine](../../../countries/FR/sights/espadon-submarine.yaml) | 8.7 / 9.0 / 8.9 / 8.8 / 8.2 | depth: +1.1 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-rennes-musee-bretagne — Musée de Bretagne Rennes Regional History and Archaeology Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rennes-musee-bretagne.yaml)
+- Action: new
+- Scope: Museum collections only, separate from city architecture.
+- Representative coordinates: 48.105, -1.674; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.1 / 8.9 / 9.2.
+- Categories: history:9.4,culture:9.3.
+- Overall: 90.20/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.culture.gouv.fr/thematiques/musees/Les-musees-en-France/les-collections-des-musees-de-france/decouvrir-les-collections/catalogues-en-ligne-de-collections-musees-de-france?switchTo=eng-GB.
+- Rationale: Large regional collection; ministry lists over 406,000 combined catalogue records with the Bintinais ecomuseum, not all held at or displayed by this museum.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/poitiers-sainte-croix](../../../countries/FR/sights/poitiers-sainte-croix.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.3 | significance: -0.2 vs peer; experience: -0.2 vs peer |
+| [FR/musee-carnavalet](../../../countries/FR/sights/musee-carnavalet.yaml) | 8.9 / 9.0 / 9.2 / 9.1 / 9.3 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+| [FR/amiens-picardie](../../../countries/FR/sights/amiens-picardie.yaml) | 9.1 / 9.2 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-brest-marine — Château de Brest and Musée National de la Marine Maritime Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/brest-marine.yaml)
+- Action: new
+- Scope: Castle and marine museum combined; not an inscribed Vauban component.
+- Representative coordinates: 48.383, -4.495; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 8.9 / 9.0.
+- Categories: history:9.4,architecture:9.3,culture:9.3.
+- Overall: 89.75/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://musee.brest.fr/musee-national-de-la-marine-chateau-de-brest.
+- Rationale: Historic castle and collections on naval history, science and maritime culture.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dunkerque-maritime](../../../countries/FR/sights/dunkerque-maritime.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.1 | experience: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/toulon-naval-museum](../../../countries/FR/sights/toulon-naval-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.8 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [FR/belfort-citadel](../../../countries/FR/sights/belfort-citadel.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [FR/cite-de-la-mer](../../../countries/FR/sights/cite-de-la-mer.yaml) | 9.0 / 9.2 / 9.0 / 9.1 / 9.2 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-saumur-cavalry — Musée de la Cavalerie Saumur Equestrian Military Heritage Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saumur-cavalry.yaml)
+- Action: new
+- Scope: Historical collections distinct from armoured vehicle museum and Cadre Noir demonstrations.
+- Representative coordinates: 47.261, -0.086; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.7 / 8.8.
+- Categories: history:9.3,culture:9.2.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-lemans-tesse — Musée de Tessé Le Mans Fine Arts and Egyptian Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lemans-tesse.yaml)
+- Action: new
+- Scope: Fine arts and Egyptology, independent from old town.
+- Representative coordinates: 48.009, 0.205; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 8.8 / 8.8.
+- Categories: culture:9.3,history:9.3.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-poitiers-baptistery — Baptistère Saint-Jean Poitiers Early Christian Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/poitiers-baptistery.yaml)
+- Action: new
+- Scope: Early Christian baptistery and historic decoration; separate from Sainte-Croix collections.
+- Representative coordinates: 46.58, 0.348; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.1 / 8.7 / 8.7.
+- Categories: architecture:9.4,history:9.4.
+- Overall: 89.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-poitiers-cathedral — Cathédrale Saint-Pierre Poitiers Gothic Cathedral — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/poitiers-cathedral.yaml)
+- Action: new
+- Scope: Cathedral and stained glass; separate from Notre-Dame-la-Grande.
+- Representative coordinates: 46.58, 0.349; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: architecture:9.4,history:9.3.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-rennes-bintinais — Écomusée de la Bintinais Rennes Rural Heritage Farm — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rennes-bintinais.yaml)
+- Action: new
+- Scope: Historic working farm setting and rural interpretation, excludes museum of Brittany displays.
+- Representative coordinates: 48.071, -1.667; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.7 / 8.8 / 8.8.
+- Categories: history:9.3,culture:9.2,family:9.2.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-port-louis-indes — Citadelle de Port-Louis and Musée de la Compagnie des Indes — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/port-louis-indes.yaml)
+- Action: new
+- Scope: Citadel and linked maritime and trade collections combined; separate from Lorient La Base.
+- Representative coordinates: 47.708, -3.363; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 8.8 / 8.8.
+- Categories: history:9.4,culture:9.3,architecture:9.3.
+- Overall: 89.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-lafleche-zoo — Zoo de La Flèche Wildlife Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lafleche-zoo.yaml)
+- Action: new
+- Scope: Zoological park, no accommodation experience included.
+- Representative coordinates: 47.675, -0.058; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.3 / 9.0 / 8.8.
+- Categories: wildlife:9.3,family:9.4.
+- Overall: 87.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-aquascope — Aquascope Futuroscope Immersive Indoor Water Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/aquascope.yaml)
+- Action: new
+- Scope: Separately ticketed water park, excludes main Futuroscope rides.
+- Representative coordinates: 46.673, 0.365; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.1 / 9.2 / 8.8.
+- Categories: family:9.4,adventure:9.3,relaxation:9.2.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-orleans-mobe — Muséum d’Orléans pour la Biodiversité et l’Environnement — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/orleans-mobe.yaml)
+- Action: new
+- Scope: Natural history collections and biodiversity exhibits.
+- Representative coordinates: 47.908, 1.907; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.7 / 8.8 / 8.8.
+- Categories: nature:9.3,family:9.2,culture:9.2.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-bourges-jacques-coeur — Palais Jacques-Cœur Bourges Late Gothic Mansion — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bourges-jacques-coeur.yaml)
+- Action: new
+- Scope: Mansion and interiors, independent from cathedral.
+- Representative coordinates: 47.084, 2.395; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 8.8 / 8.8.
+- Categories: architecture:9.4,history:9.3.
+- Overall: 89.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-tours-compagnonnage — Musée du Compagnonnage Tours Traditional Master Crafts Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/tours-compagnonnage.yaml)
+- Action: new
+- Scope: Craft objects and training traditions, excludes Loire urban architecture.
+- Representative coordinates: 47.396, 0.685; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.1 / 8.9 / 8.8 / 8.9.
+- Categories: culture:9.4,history:9.3.
+- Overall: 88.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
