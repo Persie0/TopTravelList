@@ -3452,3 +3452,315 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-tr-izmir-agora — Agora of Smyrna Archaeological Site İzmir — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/izmir-agora.yaml)
+- Action: new
+- Precise subject and limitations: Ticketed Roman agora and surviving basilica substructures; separate from Ephesus, museum collections and modern market district.
+- Location check: 38.418705, 27.138527; [published representative point](https://turkisharchaeonews.net/object/agora-smyrna), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=AGR01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/roman-agora-hadrians-library](../../../countries/GR/sights/roman-agora-hadrians-library.yaml) | 8.6 / 8.7 / 9.0 / 8.7 / 8.6 | impact: -0.1 vs peer; significance: -0.1 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | impact: -0.4 vs peer; significance: -0.3 vs peer. |
+| [GR/kerameikos](../../../countries/GR/sights/kerameikos.yaml) | 8.5 / 8.9 / 9.2 / 8.7 / 8.8 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [TR/perge](../../../countries/TR/sights/perge.yaml) | 8.7 / 8.5 / 8.9 / 8.6 / 8.6 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Substantial arcades and remains. |
+| Uniqueness | 8.7 | Distinct surviving commercial civic complex. |
+| Significance | 8.9 | Important Smyrna urban archaeology. |
+| Experience | 8.7 | Dedicated archaeological circuit. |
+| Depth | 8.6 | Multiple structures and levels. |
+
+- Applicable categories: history:9.2, architecture:9.0, photography:8.8.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-izmir-archaeological-museum — İzmir Archaeological Museum Konak — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/izmir-archaeological-museum.yaml)
+- Action: new
+- Precise subject and limitations: Bahribaba Park museum only, not the newer İzmir Culture and Arts Factory or ruins from which objects originated. Ministry lists separate venue.
+- Location check: 38.41394, 27.12807; [published representative point](https://mapcarta.com/34769080), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2080-izmir-archaeology-museum/2080/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/thessaloniki-archaeological-museum](../../../countries/GR/sights/thessaloniki-archaeological-museum.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [TR/troy-museum](../../../countries/TR/sights/troy-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [GR/archaeological-museum-thera](../../../countries/GR/sights/archaeological-museum-thera.yaml) | 8.6 / 8.9 / 9.0 / 8.7 / 8.4 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Strong regional sculptures and artefacts. |
+| Uniqueness | 8.7 | Distinct regional archaeological collection. |
+| Significance | 8.9 | Significant Aegean heritage. |
+| Experience | 8.7 | Dedicated museum visit. |
+| Depth | 8.8 | Several historical periods and media. |
+
+- Applicable categories: history:9.2, culture:9.2, architecture:8.6.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-ankara-castle — Ankara Castle and Historic Citadel — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/ankara-castle.yaml)
+- Action: new
+- Precise subject and limitations: Citadel walls, streets and viewpoints; excludes independently rated nearby museums and wooden hypostyle mosque component. No unsafe wall access assumed.
+- Location check: 39.941422, 32.865494; [published representative point](https://www.latlong.net/place/ankara-castle-ankara-turkey-23629.html), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/ankara/routes); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/rumeli-fortress](../../../countries/TR/sights/rumeli-fortress.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | depth: -0.4 vs peer; impact: -0.3 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | impact: -0.3 vs peer; depth: -0.2 vs peer. |
+| [TR/antalya-kaleici](../../../countries/TR/sights/antalya-kaleici.yaml) | 8.9 / 8.8 / 8.9 / 9.0 / 8.9 | depth: -0.4 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Scenic elevated fortifications. |
+| Uniqueness | 8.6 | Distinct capital city citadel setting. |
+| Significance | 8.8 | Significant regional defensive history. |
+| Experience | 8.8 | Established walking and viewing. |
+| Depth | 8.5 | Several connected walls and streets. |
+
+- Applicable categories: architecture:9.1, history:9.1, photography:9.2.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-rahmi-koc-museum-ankara — Rahmi M. Koç Industrial Museum Ankara — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/rahmi-koc-museum-ankara.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated Ankara industrial and transport collection in historic han buildings; excludes Istanbul branch and citadel streets.
+- Location check: 39.93707, 32.86343; [published representative point](https://mapcarta.com/W874846748), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://rmk-museum.org.tr/ankara/en/about-us/museums-of-rahmi-m-koc); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/rahmi-koc-museum-istanbul](../../../countries/TR/sights/rahmi-koc-museum-istanbul.yaml) | 8.9 / 9.0 / 8.9 / 9.1 / 9.2 | impact: -0.4 vs peer; depth: -0.4 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+| [IT/turin-automobile-museum](../../../countries/IT/sights/turin-automobile-museum.yaml) | 8.7 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Engaging transport and industrial displays. |
+| Uniqueness | 8.7 | Distinct historic caravanserai setting. |
+| Significance | 8.6 | Regional industrial heritage. |
+| Experience | 8.9 | Established varied museum visit. |
+| Depth | 8.8 | Multiple exhibit sections. |
+
+- Applicable categories: culture:9.1, history:9.0, family:9.2.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-sanliurfa-archaeology-mosaic-museums — Şanlıurfa Archaeology and Haleplibahçe Mosaic Museums — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/sanliurfa-archaeology-mosaic-museums.yaml)
+- Action: new
+- Precise subject and limitations: Two museums in one grounds grouped; https://muze.gov.tr/muze-detay?DistId=SUM&SectionId=SUM01 confirms mosaic venue. Original prehistoric and later artefacts and mosaics, distinct from Göbekli Tepe and other excavations.
+- Location check: 37.15371, 38.78233; [published representative point](https://tr.geoview.info/sanlurfa_arkeoloji_muezesi%2C7745955r), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=SUM&SectionId=SUM02); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/zeugma-mosaic-museum](../../../countries/TR/sights/zeugma-mosaic-museum.yaml) | 9.1 / 9.2 / 9.2 / 8.9 / 9.0 | depth: +0.3 vs peer; significance: +0.2 vs peer. |
+| [TR/anatolian-civilizations-museum](../../../countries/TR/sights/anatolian-civilizations-museum.yaml) | 9.1 / 9.3 / 9.4 / 8.9 / 9.3 | impact: +0.1 vs peer; experience: +0.1 vs peer. |
+| [GR/heraklion-archaeological-museum](../../../countries/GR/sights/heraklion-archaeological-museum.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.2 | depth: +0.1 vs peer; impact: +0.0 vs peer. |
+| [IT/naples-archaeological-museum](../../../countries/IT/sights/naples-archaeological-museum.yaml) | 9.2 / 9.2 / 9.4 / 8.9 / 9.2 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Outstanding prehistoric and mosaic displays. |
+| Uniqueness | 9.3 | Distinct concentration of early Neolithic material. |
+| Significance | 9.4 | International significance of early settlement evidence. |
+| Experience | 9.0 | Established dual-museum visit. |
+| Depth | 9.3 | Extensive collections across periods. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.9.
+- Computed worldwide overall: 92.45/100.
+- High-score challenge: 90+ provisional; international peer comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-balikligol — Balıklıgöl Sacred Pools and Mosque Precinct — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/balikligol.yaml)
+- Action: new
+- Precise subject and limitations: Sacred pools and immediate religious precinct grouped; Abraham association described as religious tradition, not historical proof. UNESCO tentative Harran and Sanliurfa not currently represented; do not double count if umbrella added later.
+- Location check: 37.1477, 38.78445; [published representative point](https://mapcarta.com/W188098897), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/tastepeler/legendary-balikligol); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/mevlana-museum](../../../countries/TR/sights/mevlana-museum.yaml) | 8.9 / 9.2 / 9.3 / 8.9 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [TR/blue-mosque](../../../countries/TR/sights/blue-mosque.yaml) | 9.1 / 8.9 / 9.1 / 8.7 / 8.1 | impact: -0.4 vs peer; depth: +0.3 vs peer. |
+| [GR/patmos-chora](../../../countries/GR/sights/patmos-chora.yaml) | 9.0 / 9.2 / 9.4 / 8.9 / 8.8 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+| [TR/antalya-kaleici](../../../countries/TR/sights/antalya-kaleici.yaml) | 8.9 / 8.8 / 8.9 / 9.0 / 8.9 | depth: -0.5 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Distinctive poolside architecture. |
+| Uniqueness | 8.9 | Distinct sacred fish and pilgrimage tradition. |
+| Significance | 9.0 | Important religious and cultural heritage. |
+| Experience | 8.8 | Established precinct visit. |
+| Depth | 8.4 | Several connected spaces. |
+
+- Applicable categories: culture:9.3, history:9.1, architecture:9.1, photography:9.1.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-halfeti-euphrates — Old Halfeti and Euphrates Scenic Boat Route — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/halfeti-euphrates.yaml)
+- Action: new
+- Precise subject and limitations: Old riverside settlement and established boat excursion to partially submerged landmarks; excludes Yeni Halfeti and separate Zeugma archaeology. Representative old-town map centre converted from DMS; no assumption of landing at fortress.
+- Location check: 37.24389, 37.87; [published representative point](https://en.wikivoyage.org/wiki/Halfeti), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/routes/2-days-in-halfeti); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/kekova](../../../countries/TR/sights/kekova.yaml) | 8.8 / 8.7 / 8.2 / 8.5 / 8.0 | depth: +0.6 vs peer; experience: +0.5 vs peer. |
+| [TR/bosphorus-cruise](../../../countries/TR/sights/bosphorus-cruise.yaml) | 9.3 / 9.1 / 8.9 / 9.1 / 8.8 | impact: -0.4 vs peer; significance: -0.4 vs peer. |
+| [GR/kleftiko-sea-caves](../../../countries/GR/sights/kleftiko-sea-caves.yaml) | 9.3 / 9.1 / 8.2 / 9.0 / 8.5 | impact: -0.4 vs peer; significance: +0.3 vs peer. |
+| [GR/symi-historic-harbour](../../../countries/GR/sights/symi-historic-harbour.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.6 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Striking flooded river gorge and architecture. |
+| Uniqueness | 9.0 | Distinct partly submerged settlement. |
+| Significance | 8.5 | Regional cultural and engineering history. |
+| Experience | 9.0 | Established boat and town experience. |
+| Depth | 8.6 | Multiple shoreline features. |
+
+- Applicable categories: photography:9.3, nature:9.1, culture:9.0, relaxation:8.9.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-harran-historic-town — Harran Traditional Beehive Houses and Historic Town — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/harran-historic-town.yaml)
+- Action: new
+- Precise subject and limitations: Traditional conical-roof houses and historic town ensemble; UNESCO tentative property https://whc.unesco.org/en/tentativelists/1400 not in current inventory. https://gottagoturkey.com/sanliurfa/harran/ reports archaeological precinct restoration closure; no current access guarantee. Future parent must exclude duplicate scope.
+- Location check: 36.86, 39.032; [published representative point](https://neresigezilir.com/en/turkey/sanliurfa/harran-beehive-houses), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/sanliurfa/10-vibes-for-sanliurfa-like-locals); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/safranbolu-historic](../../../countries/TR/sights/safranbolu-historic.yaml) | 8.7 / 8.9 / 8.8 / 8.6 / 8.4 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer. |
+| [TR/mardin-landscape](../../../countries/TR/sights/mardin-landscape.yaml) | 8.9 / 9.0 / 8.9 / 9.0 / 8.8 | experience: -0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/chios-mastic-villages](../../../countries/GR/sights/chios-mastic-villages.yaml) | 8.8 / 9.1 / 8.9 / 8.9 / 8.8 | significance: +0.2 vs peer; experience: -0.2 vs peer. |
+| [IT/erice-historic-town](../../../countries/IT/sights/erice-historic-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.8 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Distinctive conical earthen architecture. |
+| Uniqueness | 9.2 | Unusual surviving building tradition. |
+| Significance | 9.1 | Important ancient and medieval settlement history. |
+| Experience | 8.7 | Established traditional house and town visits. |
+| Depth | 8.7 | Multiple heritage features. |
+
+- Applicable categories: architecture:9.4, history:9.3, culture:9.3, photography:9.2.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

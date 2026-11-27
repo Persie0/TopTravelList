@@ -1201,3 +1201,16 @@ Seven additions, 28 peer rows. Türkiye 89 ranked / 89 total. Valla Canyon exclu
 - [x] TR — Museum of Turkish and Islamic Arts Istanbul: 90.60/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Türkiye 97 ranked / 97 total. Chora excluded as named component of https://whc.unesco.org/en/list/356; Turkish and Islamic Arts Museum substituted for its independent collections. Spice Bazaar distinct commercial experience from Grand Bazaar; exact UNESCO boundary unresolved. Maiden's Tower and Rumeli dedicated monument visits distinguished from cruise. Rumeli access reports conflict; Büyükada only. Next bounded screen: İzmir Agora, İzmir archaeological museum, Ankara Castle, Ankara Rahmi Koç Museum, Şanlıurfa Archaeology Museum and Haleplibahçe, Balıklıgöl, Halfeti, and Harran. Full Python validation pending.
+
+### Pass 104 — Türkiye regional museums and historic sites
+
+- [x] TR — Agora of Smyrna Archaeological Site İzmir: 86.70/100 (source-linked-unverified).
+- [x] TR — İzmir Archaeological Museum Konak: 86.90/100 (source-linked-unverified).
+- [x] TR — Ankara Castle and Historic Citadel: 86.90/100 (source-linked-unverified).
+- [x] TR — Rahmi M. Koç Industrial Museum Ankara: 86.60/100 (source-linked-unverified).
+- [x] TR — Şanlıurfa Archaeology and Haleplibahçe Mosaic Museums: 92.45/100 (source-linked-unverified).
+- [x] TR — Balıklıgöl Sacred Pools and Mosque Precinct: 87.95/100 (source-linked-unverified).
+- [x] TR — Old Halfeti and Euphrates Scenic Boat Route: 88.30/100 (source-linked-unverified).
+- [x] TR — Harran Traditional Beehive Houses and Historic Town: 89.35/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Türkiye 105 ranked / 105 total. Konak museum distinct from Culture and Arts Factory; Urfa archaeological and mosaic museums grouped; Harran and Balıklıgöl separately bounded, future UNESCO tentative umbrella would duplicate them. Halfeti old-town map centre, not new settlement. Harran restoration access secondary report, official confirmation pending. Next bounded screen: Karahantepe, Laodicea, Priene, Miletus, Didyma, Ephesus Museum Selçuk, İzmir Culture and Arts Factory, and Ahlat monumental tombstones. Full Python validation pending.
