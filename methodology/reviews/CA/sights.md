@@ -3452,3 +3452,403 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 222 scope decisions
 
 Whistler skiing and gondola grouped, Fathom Five includes Flowerpot Island and wreck viewing, distinct marine designation from Bruce Peninsula. Fort Henry separately scoped component of Rideau Canal World Heritage site, non-additive. Three seasonal festivals separate from permanent sites, no future dates guaranteed. Quebec Winter Carnival distinct from Old Quebec built heritage. Cabot Trail and West Coast Trail earlier parent deferrals retained. All high ratings provisional from actual retrieved indexed excerpts, no independent coordinate or current visitor access verification. Existing three unassessed and prior scores preserved.
+
+## sight-ca-bowron-lake — Bowron Lake Provincial Park Multi-Day Canoe Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/bowron-lake.yaml)
+- Action: new
+- Scope: Ten-lake wilderness circuit, paddling and portages grouped; reservations and wilderness skills required; no separate individual lakes.
+- Representative coordinates: 53.26, -121.45; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.0 / 9.3 / 9.4.
+- Categories: nature:9.4 adventure:9.4 photography:9.3.
+- Overall: 92.20/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/bowron-lake-park/, https://bcparks.ca/bowron-lake-park/paddling-camping-skills-bowron-lake-canoe-circuit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | uniqueness: +0.3 vs peer; significance: -0.1 vs peer |
+| [CA/killarney-provincial](../../../countries/CA/sights/killarney-provincial.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | uniqueness: +0.5 vs peer; depth: +0.4 vs peer |
+| [NZ/otago-central-rail-trail](../../../countries/NZ/sights/otago-central-rail-trail.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-dempster-highway — Dempster Highway and Inuvik–Tuktoyaktuk Arctic Ocean Scenic Drive — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/dempster-highway.yaml)
+- Action: new
+- Scope: Overland drive from Klondike region to Arctic coast including connecting highway; 737 km Dempster portion, seasonal and road conditions apply. Tombstone park hiking excluded, geographical overlap non-additive; midroute proxy.
+- Representative coordinates: 66.0, -136.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.0 / 9.1 / 9.3.
+- Categories: nature:9.4 adventure:9.4 photography:9.4.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://travel.destinationcanada.com/en-us/things-to-do/yukon-iconic-drives, https://travel.destinationcanada.com/en-ca/things-to-do/best-road-trips-in-canada.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/icefields-parkway](../../../countries/CA/sights/icefields-parkway.yaml) | 9.4 / 9.2 / 8.6 / 9.3 / 9.0 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+| [CA/tombstone-territorial](../../../countries/CA/sights/tombstone-territorial.yaml) | 9.3 / 9.2 / 9.0 / 8.9 / 9.1 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+| [NZ/glenorchy-road](../../../countries/NZ/sights/glenorchy-road.yaml) | 9.1 / 8.7 / 8.3 / 8.9 / 8.7 | uniqueness: +0.7 vs peer; significance: +0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-khutzeymateen — Khutzeymateen K’tzim-a-deen Grizzly Sanctuary Guided Wildlife Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/khutzeymateen.yaml)
+- Action: new
+- Scope: Sanctuary and inlet permitted guided viewing grouped; first Canadian protected area specifically established for grizzlies and habitat. No land access or sightings guaranteed; separate northern coastal region from central Great Bear tours, potential broader ecosystem overlap non-additive.
+- Representative coordinates: 54.59, -130.0; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.2 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 92.20/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/khutzeymateen-park-aka-khutzeymateen-ktzim-a-deen-grizzly-sanctuary/, https://bcparks.ca/khutzeymateen-inlet-conservancy/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/great-bear-rainforest](../../../countries/CA/sights/great-bear-rainforest.yaml) | 9.4 / 9.4 / 9.3 / 9.1 / 9.3 | depth: -0.3 vs peer; impact: -0.1 vs peer |
+| [CA/churchill-polar-bears](../../../countries/CA/sights/churchill-polar-bears.yaml) | 9.6 / 9.6 / 9.2 / 9.4 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [NZ/kapiti-island](../../../countries/NZ/sights/kapiti-island.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | impact: +0.4 vs peer; significance: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-wells-gray — Wells Gray Provincial Park Waterfalls and Wilderness Lakes — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/wells-gray.yaml)
+- Action: new
+- Scope: Whole park includes Helmcken Falls, Clearwater/Azure and Murtle lakes, hiking and paddling; no individual component duplication. BC Parks documents 145 m Helmcken drop and temporary reduced parking fall 2026.
+- Representative coordinates: 52.13, -120.1; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.9 / 9.2 / 9.3.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/wells-gray-park/, https://bcparks.ca/wells-gray-park/corridor-area/, https://bcparks.ca/wells-gray-park/clearwater-azure-marine/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/yoho-national-park](../../../countries/CA/sights/yoho-national-park.yaml) | 9.2 / 9.0 / 9.2 / 9.0 / 8.9 | depth: +0.4 vs peer; significance: -0.3 vs peer |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | impact: +0.5 vs peer; depth: +0.5 vs peer |
+| [NZ/nelson-lakes-national-park](../../../countries/NZ/sights/nelson-lakes-national-park.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-garibaldi — Garibaldi Provincial Park Alpine Lakes and Hiking Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/garibaldi.yaml)
+- Action: new
+- Scope: Park-level alpine hiking including Garibaldi Lake, Panorama Ridge and Black Tusk; over 90 km of established hiking routes. Excludes Whistler resort terrain and independent resort gondola.
+- Representative coordinates: 49.96, -123.01; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.8 / 9.2 / 9.2.
+- Categories: nature:9.4 adventure:9.4 photography:9.4.
+- Overall: 90.70/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/garibaldi-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | significance: -0.3 vs peer; experience: -0.3 vs peer |
+| [CA/mount-assiniboine-provincial-park](../../../countries/CA/sights/mount-assiniboine-provincial-park.yaml) | 9.3 / 9.1 / 8.6 / 8.8 / 8.7 | depth: +0.5 vs peer; experience: +0.4 vs peer |
+| [NZ/mount-aspiring-national-park](../../../countries/NZ/sights/mount-aspiring-national-park.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 9.0 | experience: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-glacier-national-park-bc — Glacier National Park and Rogers Pass British Columbia — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/glacier-national-park-bc.yaml)
+- Action: new
+- Scope: Canadian Columbia Mountains park, not US Glacier; Rogers Pass heritage and hiking grouped. Glacier recession and seasonal safety restrictions noted; not assumed accessible ice.
+- Representative coordinates: 51.3, -117.52; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.1 / 9.0 / 9.2.
+- Categories: nature:9.4 adventure:9.3 history:9.3.
+- Overall: 90.70/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/bc/glacier, https://parks.canada.ca/pn-np/bc/glacier/activ/randonee-hiking/journee-day, https://parks.canada.ca/lhn-nhs/bc/rogers.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/yoho-national-park](../../../countries/CA/sights/yoho-national-park.yaml) | 9.2 / 9.0 / 9.2 / 9.0 / 8.9 | depth: +0.3 vs peer; impact: -0.1 vs peer |
+| [CA/kootenay-national-park](../../../countries/CA/sights/kootenay-national-park.yaml) | 8.8 / 8.5 / 8.6 / 8.8 / 8.6 | depth: +0.6 vs peer; uniqueness: +0.5 vs peer |
+| [NZ/arthurs-pass-national-park](../../../countries/NZ/sights/arthurs-pass-national-park.yaml) | 9.1 / 8.8 / 8.7 / 8.9 / 9.1 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-grasslands-national-park — Grasslands National Park Prairie Badlands and Dark Sky — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/grasslands-national-park.yaml)
+- Action: new
+- Scope: East and West blocks grouped; mixed-grass prairie, badlands, reintroduced plains bison and dark-sky preserve. No guaranteed wildlife or clear skies.
+- Representative coordinates: 49.15, -107.43; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 9.0 / 9.0.
+- Categories: nature:9.4 wildlife:9.4 photography:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/sk/grasslands/nature, https://parks.canada.ca/pn-np/sk/grasslands/activ/experiences/observation-viewing, https://www.parks.canada.ca/pn-np/sk/grasslands/nature/environnement-environment/etoile-sky.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/dinosaur-provincial-park](../../../countries/CA/sights/dinosaur-provincial-park.yaml) | 8.8 / 9.1 / 9.4 / 8.8 / 8.6 | depth: +0.4 vs peer; significance: -0.2 vs peer |
+| [CA/wood-buffalo-national-park](../../../countries/CA/sights/wood-buffalo-national-park.yaml) | 8.6 / 9.0 / 9.4 / 8.0 / 8.5 | experience: +1.0 vs peer; depth: +0.5 vs peer |
+| [NZ/aotea-dark-sky](../../../countries/NZ/sights/aotea-dark-sky.yaml) | 9.1 / 9.2 / 9.0 / 9.0 / 9.0 | impact: -0.2 vs peer; significance: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mount-revelstoke — Mount Revelstoke National Park Meadows in the Sky Parkway — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mount-revelstoke.yaml)
+- Action: new
+- Scope: Entire park with 26 km parkway and meadow/forest walks; separate from Glacier National Park, seasonal opening.
+- Representative coordinates: 51.01, -118.15; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 88.30/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/bc/revelstoke/activ/promenade-parkway, https://parks.canada.ca/pn-np/bc/revelstoke/activ/itineraries.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/yoho-national-park](../../../countries/CA/sights/yoho-national-park.yaml) | 9.2 / 9.0 / 9.2 / 9.0 / 8.9 | significance: -0.6 vs peer; impact: -0.3 vs peer |
+| [CA/icefields-parkway](../../../countries/CA/sights/icefields-parkway.yaml) | 9.4 / 9.2 / 8.6 / 9.3 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-riding-mountain — Riding Mountain National Park Forest and Prairie Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/riding-mountain.yaml)
+- Action: new
+- Scope: Forest, grassland and lakes grouped; Lake Audy bison herd is enclosed, not wild-ranging. Trail restrictions apply.
+- Representative coordinates: 50.66, -100.0; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.8 / 9.0.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.1.
+- Overall: 87.65/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/mb/riding/nature, https://www.parks.canada.ca/pn-np/mb/riding/nature/animals/mammals/bison.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wood-buffalo-national-park](../../../countries/CA/sights/wood-buffalo-national-park.yaml) | 8.6 / 9.0 / 9.4 / 8.0 / 8.5 | experience: +0.8 vs peer; significance: -0.6 vs peer |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | impact: -0.5 vs peer; experience: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-prince-albert-national-park — Prince Albert National Park Boreal Lakes and Grey Owl Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/prince-albert-national-park.yaml)
+- Action: new
+- Scope: Park-wide boreal lake paddling, trails and Grey Owl cabin grouped; interpretive context, no wildlife guarantee.
+- Representative coordinates: 53.91, -106.25; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.8 / 9.0.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.2.
+- Overall: 87.65/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/sk/princealbert/activ/experiences/randonee-hiking/grey-owl.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | impact: -0.5 vs peer; experience: -0.5 vs peer |
+| [CA/wood-buffalo-national-park](../../../countries/CA/sights/wood-buffalo-national-park.yaml) | 8.6 / 9.0 / 9.4 / 8.0 / 8.5 | experience: +0.8 vs peer; significance: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-liard-hot-springs — Liard River Hot Springs Provincial Park — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/liard-hot-springs.yaml)
+- Action: new
+- Scope: Natural thermal bathing and boardwalk experience; not adjacent corridor park or general Alaska Highway drive.
+- Representative coordinates: 59.42, -126.1; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.4 / 8.9 / 8.5.
+- Categories: relaxation:9.4 nature:9.2 photography:9.1.
+- Overall: 87.00/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/liard-river-hot-springs-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | significance: -0.4 vs peer; depth: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-barkerville — Barkerville Historic Town and Gold Rush Living History — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/barkerville.yaml)
+- Action: new
+- Scope: Preserved and interpreted Cariboo gold-rush settlement, not nearby Bowron Lake; public exhibits only.
+- Representative coordinates: 53.07, -121.52; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.9 / 9.0.
+- Categories: history:9.4 culture:9.3 family:9.2.
+- Overall: 88.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/heritage-park-calgary](../../../countries/CA/sights/heritage-park-calgary.yaml) | 8.7 / 8.8 / 8.9 / 8.9 / 9.0 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [CA/trondek-klondike](../../../countries/CA/sights/trondek-klondike.yaml) | 8.1 / 8.9 / 9.2 / 8.3 / 8.5 | impact: +0.6 vs peer; experience: +0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-langley — Fort Langley National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-langley.yaml)
+- Action: new
+- Scope: Public fur-trade fort and colonial history interpretation; separate from Vancouver museum sites.
+- Representative coordinates: 49.17, -122.57; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 9.0 / 8.8 / 8.8.
+- Categories: history:9.3 culture:9.2 family:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fortress-louisbourg](../../../countries/CA/sights/fortress-louisbourg.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | 8.0 / 8.1 / 8.6 / 8.5 / 7.8 | depth: +1.0 vs peer; impact: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-batoche — Batoche National Historic Site Métis Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/batoche.yaml)
+- Action: new
+- Scope: Public Métis settlement and 1885 resistance interpretation; no private cultural access presumed.
+- Representative coordinates: 52.75, -106.11; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.3 / 8.7 / 8.8.
+- Categories: history:9.4 culture:9.3 photography:9.0.
+- Overall: 87.95/100.
+- Decision: Source-informed provisional estimate based on retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://www.parks.canada.ca/lhn-nhs.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wanuskewin](../../../countries/CA/sights/wanuskewin.yaml) | 8.1 / 8.7 / 9.0 / 8.5 / 8.1 | depth: +0.7 vs peer; impact: +0.4 vs peer |
+| [CA/head-smashed-in-buffalo-jump](../../../countries/CA/sights/head-smashed-in-buffalo-jump.yaml) | 8.0 / 8.8 / 9.2 / 8.5 / 7.8 | depth: +1.0 vs peer; impact: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-elk-island — Elk Island National Park Bison and Aspen Parkland — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/elk-island.yaml)
+- Action: new
+- Scope: Park-wide bison conservation landscape, lake and walking trails; wildlife encounters conditional.
+- Representative coordinates: 53.61, -112.86; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.8 / 8.8 / 8.6.
+- Categories: wildlife:9.3 nature:9.2 family:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wood-buffalo-national-park](../../../countries/CA/sights/wood-buffalo-national-park.yaml) | 8.6 / 9.0 / 9.4 / 8.0 / 8.5 | experience: +0.8 vs peer; significance: -0.6 vs peer |
+| [CA/wapusk-national-park](../../../countries/CA/sights/wapusk-national-park.yaml) | 8.8 / 9.2 / 9.1 / 8.0 / 8.6 | experience: +0.8 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-whitehorse-miles-canyon — Miles Canyon and Yukon River Whitehorse Walking Routes — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/whitehorse-miles-canyon.yaml)
+- Action: new
+- Scope: Named basalt canyon and river trails, separate from Dempster Highway and Klondike historical sites.
+- Representative coordinates: 60.66, -135.04; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.4 / 8.7 / 8.4.
+- Categories: nature:9.2 photography:9.2 history:9.1.
+- Overall: 85.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/johnston-canyon](../../../countries/CA/sights/johnston-canyon.yaml) | 8.6 / 8.3 / 7.5 / 8.9 / 8.0 | significance: +0.9 vs peer; depth: +0.4 vs peer |
+| [CA/tombstone-territorial](../../../countries/CA/sights/tombstone-territorial.yaml) | 9.3 / 9.2 / 9.0 / 8.9 / 9.1 | impact: -0.8 vs peer; depth: -0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-yukon-wildlife-preserve — Yukon Wildlife Preserve Interpretive Wildlife Walk — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/yukon-wildlife-preserve.yaml)
+- Action: new
+- Scope: Managed wildlife enclosures and educational tours; not wild encounters or guaranteed animal activity.
+- Representative coordinates: 60.87, -135.33; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.7 / 8.7.
+- Categories: wildlife:9.3 nature:9.1 family:9.2.
+- Overall: 85.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-museum-nature](../../../countries/CA/sights/canadian-museum-nature.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | significance: -0.6 vs peer; depth: -0.5 vs peer |
+| [CA/wapusk-national-park](../../../countries/CA/sights/wapusk-national-park.yaml) | 8.8 / 9.2 / 9.1 / 8.0 / 8.6 | experience: +0.7 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-edmonton — Fort Edmonton Park Living History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-edmonton.yaml)
+- Action: new
+- Scope: Living-history park with distinct historical eras and Indigenous interpretation; separate from Calgary Heritage Park.
+- Representative coordinates: 53.5, -113.58; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.9 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.2 family:9.2.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/heritage-park-calgary](../../../countries/CA/sights/heritage-park-calgary.yaml) | 8.7 / 8.8 / 8.9 / 8.9 / 9.0 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+| [CA/fort-henry](../../../countries/CA/sights/fort-henry.yaml) | 8.6 / 8.6 / 9.0 / 8.8 / 8.8 | significance: -0.1 vs peer; depth: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 223 scope decisions
+
+Bowron canoe circuit, Wells Gray waterfalls/lakes, Garibaldi trails, Glacier/Rogers Pass and Grasslands dark sky grouped within respective park scopes. Dempster drive excludes Tombstone park hiking; non-additive geographical overlap. Khutzeymateen permitted northern sanctuary trips distinct from central Great Bear tours; broader ecosystem overlap flagged. Riding Mountain bison herd enclosed. Cross-border White Pass railway deferred pending existing US record scope. No new separate park components, glacier trails or Cabot/West Coast Trail additions. Existing three unassessed and prior scores preserved. Generator classification bug remains deferred. Search excerpts retrieved for all new 90+; no independent coordinate, access or physical condition verification.

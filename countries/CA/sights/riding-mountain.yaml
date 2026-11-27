@@ -1,0 +1,16 @@
+id: sight-ca-riding-mountain
+name: "Riding Mountain National Park Forest and Prairie Wilderness"
+location:
+  country_code: CA
+  latitude: 50.66
+  longitude: -100.0
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.1

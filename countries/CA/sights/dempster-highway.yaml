@@ -1,0 +1,16 @@
+id: sight-ca-dempster-highway
+name: "Dempster Highway and Inuvik–Tuktoyaktuk Arctic Ocean Scenic Drive"
+location:
+  country_code: CA
+  latitude: 66.0
+  longitude: -136.3
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4

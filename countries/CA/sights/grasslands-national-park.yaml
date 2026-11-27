@@ -1,0 +1,16 @@
+id: sight-ca-grasslands-national-park
+name: "Grasslands National Park Prairie Badlands and Dark Sky"
+location:
+  country_code: CA
+  latitude: 49.15
+  longitude: -107.43
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.3

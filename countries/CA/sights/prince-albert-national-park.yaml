@@ -1,0 +1,16 @@
+id: sight-ca-prince-albert-national-park
+name: "Prince Albert National Park Boreal Lakes and Grey Owl Heritage"
+location:
+  country_code: CA
+  latitude: 53.91
+  longitude: -106.25
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 9.2

@@ -1,0 +1,16 @@
+id: sight-ca-glacier-national-park-bc
+name: "Glacier National Park and Rogers Pass British Columbia"
+location:
+  country_code: CA
+  latitude: 51.3
+  longitude: -117.52
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    history: 9.3

@@ -3839,3 +3839,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Niagara-on-the-Lake Historic Town and Heritage Streets: 86.35/100 (desk-based provisional).
 
 20 additions, 6 desk-based provisional, 14 source-linked, 11 90+, 47 ranking-row comparisons including 7 international. CA 108 ranked / 111 total. Whistler skiing and gondola grouped, Fathom Five includes Flowerpot Island and wreck viewing, distinct marine designation from Bruce Peninsula. Fort Henry separately scoped component of Rideau Canal World Heritage site, non-additive. Three seasonal festivals separate from permanent sites, no future dates guaranteed. Quebec Winter Carnival distinct from Old Quebec built heritage. Cabot Trail and West Coast Trail earlier parent deferrals retained. All high ratings provisional from actual retrieved indexed excerpts, no independent coordinate or current visitor access verification. Existing three unassessed and prior scores preserved. Next: western Canada, mountain trails, national parks and northern scenic journeys.
+
+### Pass 223 — Western and northern Canada wilderness and heritage
+
+- [x] CA — Bowron Lake Provincial Park Multi-Day Canoe Circuit: 92.20/100 (source-linked-unverified).
+- [x] CA — Dempster Highway and Inuvik–Tuktoyaktuk Arctic Ocean Scenic Drive: 92.35/100 (source-linked-unverified).
+- [x] CA — Khutzeymateen K’tzim-a-deen Grizzly Sanctuary Guided Wildlife Viewing: 92.20/100 (source-linked-unverified).
+- [x] CA — Wells Gray Provincial Park Waterfalls and Wilderness Lakes: 91.00/100 (source-linked-unverified).
+- [x] CA — Garibaldi Provincial Park Alpine Lakes and Hiking Trails: 90.70/100 (source-linked-unverified).
+- [x] CA — Glacier National Park and Rogers Pass British Columbia: 90.70/100 (source-linked-unverified).
+- [x] CA — Grasslands National Park Prairie Badlands and Dark Sky: 90.60/100 (source-linked-unverified).
+- [x] CA — Mount Revelstoke National Park Meadows in the Sky Parkway: 88.30/100 (source-linked-unverified).
+- [x] CA — Riding Mountain National Park Forest and Prairie Wilderness: 87.65/100 (source-linked-unverified).
+- [x] CA — Prince Albert National Park Boreal Lakes and Grey Owl Heritage: 87.65/100 (source-linked-unverified).
+- [x] CA — Liard River Hot Springs Provincial Park: 87.00/100 (source-linked-unverified).
+- [x] CA — Barkerville Historic Town and Gold Rush Living History: 88.90/100 (desk-based provisional).
+- [x] CA — Fort Langley National Historic Site: 87.00/100 (desk-based provisional).
+- [x] CA — Batoche National Historic Site Métis Heritage: 87.95/100 (source-linked-unverified).
+- [x] CA — Elk Island National Park Bison and Aspen Parkland: 87.00/100 (desk-based provisional).
+- [x] CA — Miles Canyon and Yukon River Whitehorse Walking Routes: 85.25/100 (desk-based provisional).
+- [x] CA — Yukon Wildlife Preserve Interpretive Wildlife Walk: 85.75/100 (desk-based provisional).
+- [x] CA — Fort Edmonton Park Living History Museum: 87.20/100 (desk-based provisional).
+
+18 additions, 6 desk-based provisional, 12 source-linked, 7 90+, 43 ranking-row comparisons including 7 international. CA 126 ranked / 129 total. Bowron canoe circuit, Wells Gray waterfalls/lakes, Garibaldi trails, Glacier/Rogers Pass and Grasslands dark sky grouped within respective park scopes. Dempster drive excludes Tombstone park hiking; non-additive geographical overlap. Khutzeymateen permitted northern sanctuary trips distinct from central Great Bear tours; broader ecosystem overlap flagged. Riding Mountain bison herd enclosed. Cross-border White Pass railway deferred pending existing US record scope. No new separate park components, glacier trails or Cabot/West Coast Trail additions. Existing three unassessed and prior scores preserved. Generator classification bug remains deferred. Search excerpts retrieved for all new 90+; no independent coordinate, access or physical condition verification. Next: Atlantic Canada, Quebec and Ontario regional landscapes and museums.

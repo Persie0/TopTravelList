@@ -1,0 +1,16 @@
+id: sight-ca-fort-langley
+name: "Fort Langley National Historic Site"
+location:
+  country_code: CA
+  latitude: 49.17
+  longitude: -122.57
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.1
