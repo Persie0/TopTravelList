@@ -1,0 +1,16 @@
+id: sight-us-andy-warhol-museum
+name: "Andy Warhol Museum Pittsburgh"
+location:
+  country_code: US
+  latitude: 40.448
+  longitude: -80.002
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.2
+    photography: 9.1

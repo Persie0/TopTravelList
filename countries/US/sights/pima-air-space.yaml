@@ -1,0 +1,16 @@
+id: sight-us-pima-air-space
+name: "Pima Air and Space Museum Tucson"
+location:
+  country_code: US
+  latitude: 32.139
+  longitude: -110.868
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.2
+  depth: 9.3
+  categories:
+    history: 9.4
+    family: 9.3
+    photography: 9.2

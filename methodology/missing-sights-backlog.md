@@ -3203,3 +3203,31 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Tallulah Gorge State Park Georgia: 86.50/100 (desk-based provisional).
 
 23 additions, 15 desk-based provisional, 8 source-informed, 6 90+, 58 domestic ranking-row comparisons. United States 411 ranked / 411 total. Preservation Hall dedicated jazz performance distinct from French Quarter; separate San Diego Safari Park and zoo; Renwick separate venue; Fremont downtown separate from Strip; Omaha zoo and aquarium grouped. Existing scores retained. US queue remains open: remaining major museums (e.g. Carnegie museums, Peabody Essex, Portland Art Museum), aviation and natural sites require a bounded final screen. Full Python validation pending.
+
+### Pass 194 — US specialist museums and regional landscapes
+
+- [x] US — Carnegie Museum of Natural History Pittsburgh: 93.15/100 (source-linked-unverified).
+- [x] US — The Strong National Museum of Play Rochester: 92.80/100 (source-linked-unverified).
+- [x] US — Pima Air and Space Museum Tucson: 92.35/100 (source-linked-unverified).
+- [x] US — Peabody Essex Museum Salem and Yin Yu Tang House: 92.10/100 (source-linked-unverified).
+- [x] US — National Naval Aviation Museum Pensacola: 92.05/100 (source-linked-unverified).
+- [x] US — Andy Warhol Museum Pittsburgh: 91.70/100 (source-linked-unverified).
+- [x] US — George Eastman Museum Rochester Photography and Cinema: 91.55/100 (source-linked-unverified).
+- [x] US — Arizona-Sonora Desert Museum Tucson: 91.10/100 (source-linked-unverified).
+- [x] US — Museum of the Rockies Bozeman: 91.15/100 (source-linked-unverified).
+- [x] US — Heard Museum Phoenix Indigenous Art and Culture: 90.90/100 (source-linked-unverified).
+- [x] US — Carnegie Museum of Art Pittsburgh: 89.70/100 (source-linked-unverified).
+- [x] US — Portland Art Museum Oregon: 89.30/100 (source-linked-unverified).
+- [x] US — National Museum of the Marine Corps Triangle Virginia: 89.75/100 (source-linked-unverified).
+- [x] US — National Museum of the American Indian New York Heye Center: 88.70/100 (source-linked-unverified).
+- [x] US — National Museum of the Great Lakes Toledo: 87.55/100 (source-linked-unverified).
+- [x] US — National Mississippi River Museum and Aquarium Dubuque: 87.90/100 (source-linked-unverified).
+- [x] US — Philbrook Museum of Art Tulsa: 87.50/100 (desk-based provisional).
+- [x] US — National Cowboy and Western Heritage Museum Oklahoma City: 88.80/100 (desk-based provisional).
+- [x] US — Evergreen Aviation and Space Museum McMinnville: 88.95/100 (desk-based provisional).
+- [x] US — National Comedy Center Jamestown New York: 88.35/100 (desk-based provisional).
+- [x] US — Crazy Horse Memorial Black Hills: 88.15/100 (desk-based provisional).
+- [x] US — Kasha-Katuwe Tent Rocks National Monument: 88.45/100 (desk-based provisional).
+- [x] US — Silver Falls State Park Oregon Trail of Ten Falls: 87.95/100 (desk-based provisional).
+
+23 additions, 7 desk-based provisional, 16 source-informed, 10 90+, 66 domestic ranking-row comparisons. United States 434 ranked / 434 total. Carnegie art and natural history distinct institutions sharing building/admission; coordinate duplication intentional. Yin Yu Tang included within PEM; Heye Center is separate NYC venue; aviation base access not presumed; Crazy Horse unfinished condition reflected. Queue remains open for final state-by-state coverage screen, particularly regional destinations, science and maritime museums, urban heritage and outstanding overlap cases. Existing scores retained. Full Python validation pending.

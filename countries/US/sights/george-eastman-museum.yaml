@@ -1,0 +1,16 @@
+id: sight-us-george-eastman-museum
+name: "George Eastman Museum Rochester Photography and Cinema"
+location:
+  country_code: US
+  latitude: 43.153
+  longitude: -77.58
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-us-carnegie-natural-history
+name: "Carnegie Museum of Natural History Pittsburgh"
+location:
+  country_code: US
+  latitude: 40.443
+  longitude: -79.95
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.4
+  categories:
+    history: 9.4
+    nature: 9.3
+    family: 9.4

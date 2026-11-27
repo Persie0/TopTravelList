@@ -1,0 +1,16 @@
+id: sight-us-national-cowboy
+name: "National Cowboy and Western Heritage Museum Oklahoma City"
+location:
+  country_code: US
+  latitude: 35.535
+  longitude: -97.483
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.2
+    family: 9.0

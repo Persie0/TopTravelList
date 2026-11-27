@@ -1,0 +1,16 @@
+id: sight-us-national-comedy-center
+name: "National Comedy Center Jamestown New York"
+location:
+  country_code: US
+  latitude: 42.096
+  longitude: -79.242
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.1
+  depth: 8.7
+  categories:
+    culture: 9.3
+    history: 9.0
+    family: 8.8
