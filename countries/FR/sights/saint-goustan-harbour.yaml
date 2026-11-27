@@ -1,0 +1,17 @@
+id: sight-fr-saint-goustan-harbour
+name: "Saint-Goustan Historic Harbour and Quays"
+location:
+  country_code: FR
+  latitude: 47.66279
+  longitude: -2.9782
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.9
+  depth: 8.4
+  categories:
+    photography: 9.2
+    architecture: 9.1
+    history: 9.0
+    culture: 8.9

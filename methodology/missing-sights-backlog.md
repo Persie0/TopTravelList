@@ -1482,3 +1482,15 @@ Seven additions, 28 peer rows. France 173 ranked / 184 total; 11 existing unasse
 - [x] FR — La Roche-aux-Fées Megalithic Dolmen: 86.80/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 180 ranked / 191 total; 11 existing unassessed unchanged. Quiberon natural coastal walk excludes Carnac megalithic structures; exact UNESCO boundaries remain unverified. Pont-Aven excludes separate art museum; Roscoff excludes offshore Batz and separate gardens; Vitré includes history museum; Roche-aux-Fées independent single dolmen near Essé. Next bounded screen: Saint-Goustan harbour in Auray, Île de Batz, Morlaix historic centre, Château du Taureau, Les Abers coastal landscapes, Pointe Saint-Mathieu, and Monts d’Arrée (scope and duplicate checks). Full Python validation pending.
+
+### Pass 128 — Brittany maritime heritage and moorland trails
+
+- [x] FR — Saint-Goustan Historic Harbour and Quays: 86.75/100 (source-linked-unverified).
+- [x] FR — Île de Batz Island Coastal Walks and Lighthouse: 87.40/100 (source-linked-unverified).
+- [x] FR — Morlaix Historic Centre and Viaduct: 88.60/100 (source-linked-unverified).
+- [x] FR — Château du Taureau Sea Fort and Boat Visit: 88.40/100 (source-linked-unverified).
+- [x] FR — Les Abers Estuary Landscapes and Coastal Trails: 88.20/100 (source-linked-unverified).
+- [x] FR — Pointe Saint-Mathieu Abbey Ruins and Lighthouse: 89.00/100 (source-linked-unverified).
+- [x] FR — Monts d’Arrée Moorland Ridges and Hiking Trails: 87.65/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 187 ranked / 198 total; 11 existing unassessed unchanged. Taureau distinct from UNESCO Vauban serial property; Batz excludes separate garden; Abers scope limited to two northern estuaries; Saint-Mathieu grouped local monuments; Monts d’Arrée excludes Huelgoat. Next bounded screen: Cairn de Barnenez, Sainte-Anne-d’Auray sanctuary, Château de Kerjean, Vallée des Saints, Île Vierge lighthouse, Jardin Georges Delaselle, and Saint-Pol-de-Léon historic centre (scope and duplicate checks). Full Python validation pending.

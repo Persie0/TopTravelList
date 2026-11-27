@@ -7038,3 +7038,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-saint-goustan-harbour — Saint-Goustan Historic Harbour and Quays — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-goustan-harbour.yaml)
+- Action: new
+- Precise subject and limitations: Historic port quarter, bridge, cobbled streets and quays; excludes wider Auray, river cruises and nearby Sainte-Anne-d’Auray.
+- Location check: 47.66279, -2.9782; [published representative point](https://mapcarta.com/37335526), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/southern-brittany-morbihan-gulf/auray-port-of-saint-goustan/); indexed excerpts inspected 2026-11-27. Regional tourism describes the port's trade history and preserved streets; https://labellebretagne.bzh/en/villages/morbihan/village-saint-goustan-auray corroborates the walking experience. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/honfleur-old-harbour](../../../countries/FR/sights/honfleur-old-harbour.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 8.6 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [FR/roscoff-historic-centre](../../../countries/FR/sights/roscoff-historic-centre.yaml) | 8.6 / 8.5 / 8.7 / 8.8 / 8.5 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Picturesque riverside houses and stone bridge. |
+| Uniqueness | 8.6 | Compact historic port, comparable elsewhere. |
+| Significance | 8.7 | Historic wine and grain trade. |
+| Experience | 8.9 | Walkable quays and streets. |
+| Depth | 8.4 | Limited but varied port circuit. |
+
+- Applicable categories: photography:9.2, architecture:9.1, history:9.0, culture:8.9.
+- Computed worldwide overall: 86.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-ile-de-batz — Île de Batz Island Coastal Walks and Lighthouse — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ile-de-batz.yaml)
+- Action: new
+- Precise subject and limitations: Island coastal circuit and lighthouse visitor experience; excludes separately operated Georges Delaselle garden and mainland Roscoff. Lighthouse representative point.
+- Location check: 48.74532, -4.02691; [published representative point](https://mapcarta.com/W72268409), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/pink-granite-coast-morlaix-bay/the-isle-of-batz/); indexed excerpts inspected 2026-11-27. Regional tourism describes a half-day island circuit; local tourism confirms lighthouse ascent and island boat access: https://www.baiedemorlaix.bzh/en/sinspirer/les-sauvages/les-iles/ile-de-batz/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/ile-de-brehat](../../../countries/FR/sights/ile-de-brehat.yaml) | 8.9 / 8.9 / 8.4 / 9.1 / 8.8 | depth: -0.1 vs peer; impact: -0.1 vs peer. |
+| [FR/ile-de-groix](../../../countries/FR/sights/ile-de-groix.yaml) | 9.0 / 9.0 / 8.6 / 9.0 / 8.9 | depth: -0.2 vs peer; impact: -0.2 vs peer. |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | significance: -0.4 vs peer; impact: -0.4 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.4 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Low island coastline and maritime views. |
+| Uniqueness | 8.8 | Distinct coastal and agricultural island mix. |
+| Significance | 8.4 | Regional maritime heritage. |
+| Experience | 9.0 | Half-day coastal circuit and lighthouse ascent. |
+| Depth | 8.7 | Several coastal sectors, compact island. |
+
+- Applicable categories: nature:9.2, photography:9.2, relaxation:9.1, adventure:8.9.
+- Computed worldwide overall: 87.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-morlaix-historic-centre — Morlaix Historic Centre and Viaduct — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/morlaix-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Historic centre, alleys, pondalez houses viewed in streets and viaduct viewpoints; excludes independent science centre and separate interior museums. Viaduct representative point.
+- Location check: 48.57914, -3.82891; [published representative point](https://mapcarta.com/37375268), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.baiedemorlaix.bzh/en/sinspirer/plonger-dans-la-baie-de-morlaix/morlaix/); indexed excerpts inspected 2026-11-27. Local tourism describes pondalez houses and the viaduct; regional tourism corroborates the urban walking experience: https://www.brittanytourism.com/plan-my-holiday/itineraries-and-trip-ideas/trip-ideas/discover-morlaix-its-bay-and-its-wonders/. No assumption of permanent pedestrian access to viaduct. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/dinan-historic-centre](../../../countries/FR/sights/dinan-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.0 | impact: -0.2 vs peer; experience: -0.2 vs peer. |
+| [FR/quimper-historic-centre](../../../countries/FR/sights/quimper-historic-centre.yaml) | 8.8 / 8.7 / 9.0 / 8.9 / 8.8 | uniqueness: +0.2 vs peer; significance: -0.1 vs peer. |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | impact: -0.2 vs peer; depth: +0.1 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | depth: +0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Steep streets, timber houses and imposing viaduct. |
+| Uniqueness | 8.9 | Distinctive pondalez urban architecture. |
+| Significance | 8.9 | Linen trade and nineteenth-century railway heritage. |
+| Experience | 8.9 | Established walking routes and viewpoints. |
+| Depth | 8.8 | Several linked historic streets and hills. |
+
+- Applicable categories: architecture:9.3, history:9.1, photography:9.2, culture:9.1.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-du-taureau — Château du Taureau Sea Fort and Boat Visit — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-du-taureau.yaml)
+- Action: new
+- Precise subject and limitations: Offshore fortress and its dedicated boat visit; excludes general Morlaix Bay cruises. Vauban-associated but not one of the twelve UNESCO serial components per https://whc.unesco.org/en/list/1283/maps/. Mapped classification is imprecise; coordinates corroborated by Vauban network.
+- Location check: 48.67571, -3.88435; [published representative point](https://mapcarta.com/18292270), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://chateaudutaureau.bzh/preparez-votre-visite/); indexed excerpts inspected 2026-11-27. Operator confirms boat access; https://sites-vauban.org/en/resources/vauban-site/chateau-du-taureau documents defensive history and museum restoration. Longitude convention in network HTML inconsistent; mapped west longitude retained. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/cap-frehel-fort-la-latte](../../../countries/FR/sights/cap-frehel-fort-la-latte.yaml) | 9.2 / 9.0 / 8.9 / 9.1 / 9.1 | depth: -0.7 vs peer; impact: -0.3 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | depth: -0.3 vs peer; experience: +0.2 vs peer. |
+| [IE/spike-island](../../../countries/IE/sights/spike-island.yaml) | 8.5 / 8.7 / 8.9 / 8.7 / 8.6 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [GB/dunluce-castle](../../../countries/GB/sights/dunluce-castle.yaml) | 8.8 / 8.7 / 8.6 / 8.6 / 7.7 | depth: +0.7 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Striking fort on isolated rock. |
+| Uniqueness | 9.0 | Distinct boat-access defensive structure. |
+| Significance | 8.8 | Regional maritime defense and Vauban engineering. |
+| Experience | 8.8 | Dedicated boat and fort experience. |
+| Depth | 8.4 | Focused fort visit, not a large fortress ensemble. |
+
+- Applicable categories: architecture:9.2, history:9.2, photography:9.3, adventure:9.0.
+- Computed worldwide overall: 88.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-les-abers — Les Abers Estuary Landscapes and Coastal Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/les-abers.yaml)
+- Action: new
+- Precise subject and limitations: Aber Wrac’h and Aber Benoît estuarine coastal paths only; excludes independent offshore lighthouse visits, Aber Ildut, Pointe Saint-Mathieu and other Iroise attractions. Corniche de l’Aber Wrac’h viewpoint representative.
+- Location check: 48.59545, -4.57352; [published representative point](https://mapcarta.com/N8494752224), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/brest-terres-oceanes/the-abers-and-the-lighthouse-trail/); indexed excerpts inspected 2026-11-27. Brittany tourism describes the estuaries and walks; Maison des Abers distinguishes the three abers and offers nature and heritage outings: https://www.maisondesabers.fr/abers/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/pointe-du-raz](../../../countries/FR/sights/pointe-du-raz.yaml) | 9.2 / 9.0 / 8.6 / 9.0 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/crozon-peninsula](../../../countries/FR/sights/crozon-peninsula.yaml) | 9.3 / 9.1 / 8.7 / 9.2 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [ES/costa-quebrada](../../../countries/ES/sights/costa-quebrada.yaml) | 9.0 / 8.9 / 8.6 / 8.8 / 8.7 | depth: +0.3 vs peer; experience: +0.2 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | depth: +0.6 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Tidal creeks and rocky estuarine views. |
+| Uniqueness | 8.8 | Distinct river-sea transition but not globally singular. |
+| Significance | 8.5 | Regional maritime and estuarine heritage. |
+| Experience | 9.0 | Established coastal walking. |
+| Depth | 9.0 | Multiple estuary and shoreline routes. |
+
+- Applicable categories: nature:9.3, photography:9.2, adventure:9.1, relaxation:9.0.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-pointe-saint-mathieu — Pointe Saint-Mathieu Abbey Ruins and Lighthouse — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/pointe-saint-mathieu.yaml)
+- Action: new
+- Precise subject and limitations: Headland, adjacent abbey ruins, lighthouse and maritime memorial as coherent cluster; excludes wider Iroise coastal routes and offshore islands. Cape representative point. No independent Santiago route rating transferred.
+- Location check: 48.33064, -4.77373; [published representative point](https://mapcarta.com/18302078), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/brest-terres-oceanes/la-pointe-saint-mathieu/); indexed excerpts inspected 2026-11-27. Regional tourism describes the ruins, lighthouse and chapel museum; https://www.patrimoine-iroise.fr/culturel/maritime/Phare-Mathieu.php?lang=en corroborates lighthouse and abbey relationship. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/cap-frehel-fort-la-latte](../../../countries/FR/sights/cap-frehel-fort-la-latte.yaml) | 9.2 / 9.0 / 8.9 / 9.1 / 9.1 | depth: -0.5 vs peer; impact: -0.2 vs peer. |
+| [FR/jumieges-abbey](../../../countries/FR/sights/jumieges-abbey.yaml) | 9.0 / 9.0 / 9.1 / 8.8 / 8.7 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [GB/dunluce-castle](../../../countries/GB/sights/dunluce-castle.yaml) | 8.8 / 8.7 / 8.6 / 8.6 / 7.7 | depth: +0.9 vs peer; significance: +0.3 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | significance: +0.4 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Clifftop lighthouse and abbey silhouette. |
+| Uniqueness | 8.9 | Unusual juxtaposition of maritime and religious heritage. |
+| Significance | 8.9 | Historic abbey and maritime memorial. |
+| Experience | 8.9 | Connected walking and monument visits. |
+| Depth | 8.6 | Compact multi-feature headland. |
+
+- Applicable categories: photography:9.4, architecture:9.2, history:9.2, nature:9.1.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-monts-arree — Monts d’Arrée Moorland Ridges and Hiking Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/monts-arree.yaml)
+- Action: new
+- Precise subject and limitations: Moorland ridges, rocky summits and established trails of Monts d’Arrée; representative Mont Saint-Michel de Brasparts summit, not Normandy Mont-Saint-Michel. Excludes Huelgoat boulder trails and wider Armorique geopark.
+- Location check: 48.35038, -3.94566; [published representative point](https://mapcarta.com/18301692), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.pnr-armorique.fr/destination-parc/nos-ambiances/montagnes/monts-darree/); indexed excerpts inspected 2026-11-27. Armorique park describes upland landscape; its geopark identifies the ridges and summit viewpoint: https://www.geopark-armorique.fr/point-d-interet/montagne-saint-michel-sommets-des-monts-darree/. Local tourism documents hiking: https://www.carhaixpohertourisme.bzh/en/all-our-must-sees/the-monts-darree/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/huelgoat-forest](../../../countries/FR/sights/huelgoat-forest.yaml) | 8.8 / 9.0 / 8.4 / 8.9 / 8.7 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [GB/dartmoor](../../../countries/GB/sights/dartmoor.yaml) | 8.7 / 8.7 / 8.5 / 8.8 / 9.0 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer. |
+| [GB/exmoor](../../../countries/GB/sights/exmoor.yaml) | 8.6 / 8.5 / 8.3 / 8.7 / 8.7 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer. |
+| [ES/ancares-somiedo](../../../countries/ES/sights/ancares-somiedo.yaml) | 9.0 / 8.9 / 8.9 / 9.0 / 9.1 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Open moorlands and rocky ridges. |
+| Uniqueness | 8.8 | Distinct low-elevation Atlantic upland scenery. |
+| Significance | 8.6 | Regional landscape and natural heritage. |
+| Experience | 8.9 | Established hiking routes. |
+| Depth | 9.0 | Multiple ridges and moorland routes. |
+
+- Applicable categories: nature:9.2, photography:9.2, adventure:9.1, relaxation:8.8.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
