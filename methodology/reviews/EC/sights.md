@@ -2328,3 +2328,263 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 280 scope decisions
 
 14 additions, 8 source-linked provisional, 6 desk-based provisional, 5 90+, 36 ranking-row comparisons (8 international). EC 108 ranked / 109 total, +54 since baseline 55. Prior 15 UNESCO tentative entries mapped 12/15 at least partially; Vinces now adds partial Ecuadorian Cacao Cultural Landscape representation (https://whc.unesco.org/en/tentativelists/7003/), yielding 13/15 at least partial; El Quimi and Galápagos extension unresolved, serial boundaries not verified. Prior five inscribed properties represented (Qhapaq Ñan unassessed). El Cisne permanent shrine distinct from pilgrimage, not additive during same visit. Quito processions grouped and separate from historic centre; Agua Blanca distinct cultural visit within Machalilla, non-additive to parent. Prior access and overlap deferrals retained. OPEN for further bounded regional screen. Existing scores and one unassessed preserved. Coordinates approximate; schedules, permissions and safety unverified.
+
+
+## sight-ec-kapawi-achuar-community — Kapawi Achuar Community Rainforest and Cultural Immersion — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/kapawi-achuar-community.yaml)
+- Action: new
+- Scope: Achuar-owned and operated visitor programme, community and river/forest exploration, not hotel amenities. Equator Initiative documents transfer to Achuar association in 2008; participation only with host consent; private ceremonies excluded.
+- Representative coordinates: -2.54, -76.86; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.3 / 9.0 / 9.2.
+- Categories: culture:9.4 nature:9.4 wildlife:9.3 adventure:9.1.
+- Overall: 92.40/100.
+- Source: https://www.kapawi.com/achuar-cultural-immersion
+- Source: https://www.equatorinitiative.org/2017/05/29/reserva-y-ecolodge-kapawi-kapawi-ecolodge-and-reserve/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive local visitor experience, conservation or cultural value and substantial depth; relative dimensions shown below, further like-for-like calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/yasuni-national-park](../../../countries/EC/sights/yasuni-national-park.yaml) | 9.3 / 9.4 / 9.7 / 8.5 / 8.3 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [EC/cuyabeno-wildlife-reserve](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | impact: +0.3; uniqueness: +0.5 vs peer |
+| [PE/qeswachaka-renewal](../../../countries/PE/sights/qeswachaka-renewal.yaml) | 9.1 / 9.5 / 9.4 / 8.8 / 9.1 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [CO/palenque-drum-festival](../../../countries/CO/sights/palenque-drum-festival.yaml) | 9.0 / 9.3 / 9.4 / 9.1 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-coangos-tayos-cave — Coangos Cueva de los Tayos Shuar-Guided Cave Expedition — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/coangos-tayos-cave.yaml)
+- Action: new
+- Scope: Named Coangos cave in Morona Santiago, distinct from other oilbird caves. Regional tourism documents specialized vertical descent and contacting Kuankus community; local Cuenca library catalogue gives approximate coordinates. Subject to community authorization and qualified expedition leadership; unsupported lost civilization claims excluded.
+- Representative coordinates: -3.083, -78.217; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.0 / 8.5 / 9.0.
+- Categories: adventure:9.4 nature:9.3 history:9.1 photography:9.2.
+- Overall: 90.65/100.
+- Source: https://www.amazoniaturistica.org/cueva-de-los-tayos/
+- Source: https://www.lonelyplanet.com/points-of-interest/cueva-de-los-tayos/1607538
+- Source: https://biblioteca.cuenca.gob.ec/opac_css/index.php?id=133&l_typdoc=&lvl=author_see
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive local visitor experience, conservation or cultural value and substantial depth; relative dimensions shown below, further like-for-like calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/jumandy-caves](../../../countries/EC/sights/jumandy-caves.yaml) | 8.5 / 8.6 / 8.1 / 8.7 / 8.2 | impact: +0.8; uniqueness: +0.6 vs peer |
+| [EC/iliniza-peaks](../../../countries/EC/sights/iliniza-peaks.yaml) | 8.9 / 8.8 / 8.5 / 8.3 / 8.5 | impact: +0.4; uniqueness: +0.4 vs peer |
+| [CO/cueva-de-los-guacharos](../../../countries/CO/sights/cueva-de-los-guacharos.yaml) | 8.9 / 9.2 / 9.1 / 8.7 / 9.0 | impact: +0.4; uniqueness: +0.0 vs peer |
+| [CO/jardin-cueva-del-esplendor](../../../countries/CO/sights/jardin-cueva-del-esplendor.yaml) | 8.8 / 8.9 / 8.0 / 8.8 / 8.4 | impact: +0.5; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-saraguro-community-tourism — Saraguro Community-Led Andean Cultural Experiences — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/saraguro-community-tourism.yaml)
+- Action: new
+- Scope: Municipal and tourism ministry sources document community tourism network, host-family visits, local gastronomy and crafts. Named Saraguro public programmes only, private rituals and uninvited visits excluded.
+- Representative coordinates: -3.62, -79.24; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 food:9.2 photography:9.1.
+- Overall: 91.05/100.
+- Source: https://visitsaraguro.com.ec/turismo-comunitario/
+- Source: https://visitsaraguro.com.ec/travesiadelosincas/
+- Source: https://historicomintur.produccion.gob.ec/saraguro-la-tierra-del-maiz-un-destino-con-raices-propias/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive local visitor experience, conservation or cultural value and substantial depth; relative dimensions shown below, further like-for-like calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/montecristi-toquilla](../../../countries/EC/sights/montecristi-toquilla.yaml) | 8.2 / 8.9 / 9.1 / 8.6 / 8.3 | impact: +0.7; uniqueness: +0.3 vs peer |
+| [EC/cotacachi-inti-raymi](../../../countries/EC/sights/cotacachi-inti-raymi.yaml) | 8.9 / 9.3 / 9.3 / 8.8 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/qeswachaka-renewal](../../../countries/PE/sights/qeswachaka-renewal.yaml) | 9.1 / 9.5 / 9.4 / 8.8 / 9.1 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [CO/palenque-drum-festival](../../../countries/CO/sights/palenque-drum-festival.yaml) | 9.0 / 9.3 / 9.4 / 9.1 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-bellavista-tandayapa — Bellavista Tandayapa Cloud Forest Guided Birding Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/bellavista-tandayapa.yaml)
+- Action: new
+- Scope: UNESCO tentative serial soundscape explicitly names Bellavista-Tandayapa alongside Mashpi-Tayra. Named guided trails and birding, not lodge luxury or whole Chocó biosphere; overlap with broad Mindo trip non-additive.
+- Representative coordinates: -0.013, -78.687; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.15/100.
+- Source: https://whc.unesco.org/en/tentativelists/6988/
+- Source: https://bellavistacloudforest.com/senderos-y-caminatas-guiadas/
+- Source: https://visitquito.ec/es/bellavista-cloud-forest-in-tandayapa-cloud-forest-90-minutes-from-quito/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive local visitor experience, conservation or cultural value and substantial depth; relative dimensions shown below, further like-for-like calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/mashpi-tayra-cloud-forest](../../../countries/EC/sights/mashpi-tayra-cloud-forest.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [EC/mindo-cloud-forest](../../../countries/EC/sights/mindo-cloud-forest.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.3; uniqueness: +0.4 vs peer |
+| [CO/tatama-montezuma](../../../countries/CO/sights/tatama-montezuma.yaml) | 9.1 / 9.3 / 9.2 / 8.8 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-jatun-sacha-napo — Jatun Sacha Upper Napo Biological Reserve Forest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/jatun-sacha-napo.yaml)
+- Action: new
+- Scope: Upper Napo research reserve with forest trails and conservation context; historical visitor study gives representative coordinates; current public day visit conditions unverified.
+- Representative coordinates: -1.067, -77.6; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.5 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 photography:9.0.
+- Overall: 87.90/100.
+- Source: https://www.lonelyplanet.com/points-of-interest/reserva-biologica-jatun-sacha/1170462
+- Source: https://academic.oup.com/condor/article/107/3/617/5563599
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/cuyabeno-wildlife-reserve](../../../countries/EC/sights/cuyabeno-wildlife-reserve.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [EC/mindo-cloud-forest](../../../countries/EC/sights/mindo-cloud-forest.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-cerro-blanco-dry-forest — Cerro Blanco Protected Tropical Dry Forest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/cerro-blanco-dry-forest.yaml)
+- Action: new
+- Scope: Foundation documents 6000-hectare dry forest and visits near Guayaquil; authorized trails only. Distinct habitat from Churute mangroves.
+- Representative coordinates: -2.18, -80.01; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.7 / 8.6.
+- Categories: nature:9.3 wildlife:9.2 photography:9.0.
+- Overall: 87.25/100.
+- Source: https://www.bosqueprotectorcerroblanco.org/
+- Source: https://bosquecerroblanco.org/?page_id=2383
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/manglares-churute-ecological-reserve](../../../countries/EC/sights/manglares-churute-ecological-reserve.yaml) | 8.1 / 8.3 / 8.5 / 8.1 / 7.8 | impact: +0.5; uniqueness: +0.5 vs peer |
+| [EC/pasochoa-wildlife-refuge](../../../countries/EC/sights/pasochoa-wildlife-refuge.yaml) | 8.3 / 8.4 / 8.3 / 8.6 / 8.4 | impact: +0.3; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-cerro-de-arcos — Cerro de Arcos Highland Rock Formations and Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/cerro-de-arcos.yaml)
+- Action: new
+- Scope: Saraguro tourism documents rock formations, páramo, lakes and hiking; distinct physical excursion from community tourism. Coordinates approximate regional reference, not verified trailhead.
+- Representative coordinates: -3.51, -79.43; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.2 / 8.6 / 8.4.
+- Categories: nature:9.2 photography:9.4 adventure:9.2.
+- Overall: 86.65/100.
+- Source: https://visitsaraguro.com.ec/experiencias-cerrodearcos/
+- Source: https://visitsaraguro.com.ec/laberintodelosarcos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/iliniza-peaks](../../../countries/EC/sights/iliniza-peaks.yaml) | 8.9 / 8.8 / 8.5 / 8.3 / 8.5 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [EC/el-angel-ecological-reserve](../../../countries/EC/sights/el-angel-ecological-reserve.yaml) | 8.5 / 8.8 / 8.6 / 8.3 / 7.9 | impact: +0.4; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-amazoonico-ahuano — Ahuano AmaZOOnico Wildlife Rescue Education Visit — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/amazoonico-ahuano.yaml)
+- Action: new
+- Scope: Rescue centre documents educational public visits; no animal contact or feeding included; independent animal welfare review pending. Representative Ahuano area only.
+- Representative coordinates: -1.06, -77.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.1 / 8.4 / 8.7 / 8.6 / 8.4.
+- Categories: wildlife:9.0 nature:8.8 family:9.0.
+- Overall: 84.00/100.
+- Source: https://www.amazoonicorescue.org/visit-us
+- Source: https://www.visitatena.com/en/atractivo/amazoonico
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/charles-darwin-research-station](../../../countries/EC/sights/charles-darwin-research-station.yaml) | 8.0 / 8.7 / 9.2 / 8.3 / 7.5 | impact: +0.1; uniqueness: -0.3 vs peer |
+| [EC/galapaguera-de-cerro-colorado](../../../countries/EC/sights/galapaguera-de-cerro-colorado.yaml) | 8.0 / 8.6 / 8.6 / 8.2 / 7.1 | impact: +0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-puyo-omaere — Puyo Omaere Ethnobotanical Park — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/puyo-omaere.yaml)
+- Action: new
+- Scope: Desk-based ethnobotanical interpretation and forest garden; excludes claims of medicinal efficacy or current hours.
+- Representative coordinates: -1.48, -77.99; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 7.9 / 8.5 / 8.7 / 8.5 / 8.3.
+- Categories: culture:9.1 nature:9.0 family:8.8.
+- Overall: 83.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/montecristi-toquilla](../../../countries/EC/sights/montecristi-toquilla.yaml) | 8.2 / 8.9 / 9.1 / 8.6 / 8.3 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [EC/pasochoa-wildlife-refuge](../../../countries/EC/sights/pasochoa-wildlife-refuge.yaml) | 8.3 / 8.4 / 8.3 / 8.6 / 8.4 | impact: -0.4; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-canelos-pottery — Canelos Kichwa Pottery and Artisan Workshops — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/canelos-pottery.yaml)
+- Action: new
+- Scope: Desk-based traditional ceramics; consenting workshops only, no specific vendor or availability asserted.
+- Representative coordinates: -1.6, -77.75; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.0 / 8.8 / 8.9 / 8.5 / 8.4.
+- Categories: culture:9.3 history:9.1 photography:8.8.
+- Overall: 84.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/montecristi-toquilla](../../../countries/EC/sights/montecristi-toquilla.yaml) | 8.2 / 8.9 / 9.1 / 8.6 / 8.3 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [EC/gualaceo-chordeleg-crafts](../../../countries/EC/sights/gualaceo-chordeleg-crafts.yaml) | 8.2 / 8.6 / 8.8 / 8.7 / 8.6 | impact: -0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-jerusalem-dry-forest — Jerusalem Protected Dry Forest and Highland Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/jerusalem-dry-forest.yaml)
+- Action: new
+- Scope: Desk-based distinct inter-Andean dry forest and recreation trails; no current access verified.
+- Representative coordinates: 0.03, -78.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.5 / 8.3 / 8.5 / 8.1.
+- Categories: nature:9.0 photography:8.9 family:8.8.
+- Overall: 83.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/pululahua-geobotanical-reserve](../../../countries/EC/sights/pululahua-geobotanical-reserve.yaml) | 8.8 / 8.8 / 8.4 / 8.6 / 8.3 | impact: -0.7; uniqueness: -0.3 vs peer |
+| [EC/pasochoa-wildlife-refuge](../../../countries/EC/sights/pasochoa-wildlife-refuge.yaml) | 8.3 / 8.4 / 8.3 / 8.6 / 8.4 | impact: -0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-el-chorro-giron — Girón El Chorro Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/el-chorro-giron.yaml)
+- Action: new
+- Scope: Desk-based waterfall and permitted walking route near Girón; no claim of current trail safety or swimming access.
+- Representative coordinates: -3.15, -79.17; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.5 / 7.9 / 8.6 / 8.2.
+- Categories: nature:9.1 photography:9.3 adventure:9.0.
+- Overall: 84.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/pailon-del-diablo](../../../countries/EC/sights/pailon-del-diablo.yaml) | 8.7 / 8.2 / 7.0 / 8.7 / 7.2 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [EC/cascada-de-peguche](../../../countries/EC/sights/cascada-de-peguche.yaml) | 7.8 / 7.9 / 7.3 / 8.2 / 6.8 | impact: +0.9; uniqueness: +0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 281 scope decisions
+
+12 additions, 8 source-linked provisional, 4 desk-based provisional, 4 90+, 32 ranking-row comparisons (8 international). EC 120 ranked / 121 total, +66 since baseline 55. Prior 15 UNESCO tentative entries mapped 13/15 at least partially; Bellavista now represents the second named Chocó Soundscape component alongside Mashpi (https://whc.unesco.org/en/tentativelists/6988/); both component names represented, boundaries not independently verified. El Quimi and Galápagos extension unresolved. Five inscribed properties represented per prior inventory (Qhapaq Ñan unassessed). Kapawi and Saraguro scoped to consenting community programmes; no private rites. Sarayaku deferred pending ordinary visitor permission (https://sarayaku.org/en/tayjasaruta/); Bilsa deferred pending contemporary visitor authorization, not a score penalty (https://www.rainforesttrust.org/urgent-projects/bilsa-biological-reserve/). Coangos cave distinct from other oilbird caves; myths excluded, specialist and community permission required. Prior access/overlap deferrals retained. OPEN for final bounded regional screen; existing scores and one unassessed preserved. Coordinates approximate; current schedules, permissions and safety unverified.

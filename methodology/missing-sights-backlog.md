@@ -4977,3 +4977,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] EC — Loja Historic Centre and Traditional Streets: 83.85/100 (desk-based provisional).
 
 14 additions, 8 source-linked provisional, 6 desk-based provisional, 5 90+, 36 ranking-row comparisons (8 international). EC 108 ranked / 109 total, +54 since baseline 55. Prior 15 UNESCO tentative entries mapped 12/15 at least partially; Vinces now adds partial Ecuadorian Cacao Cultural Landscape representation (https://whc.unesco.org/en/tentativelists/7003/), yielding 13/15 at least partial; El Quimi and Galápagos extension unresolved, serial boundaries not verified. Prior five inscribed properties represented (Qhapaq Ñan unassessed). El Cisne permanent shrine distinct from pilgrimage, not additive during same visit. Quito processions grouped and separate from historic centre; Agua Blanca distinct cultural visit within Machalilla, non-additive to parent. Prior access and overlap deferrals retained. OPEN for further bounded regional screen. Existing scores and one unassessed preserved. Coordinates approximate; schedules, permissions and safety unverified.
+
+### Pass 281 — Ecuador community-led experiences, caves and forest reserves
+
+- [x] EC — Kapawi Achuar Community Rainforest and Cultural Immersion: 92.40/100 (source-linked-unverified).
+- [x] EC — Bellavista Tandayapa Cloud Forest Guided Birding Trails: 91.15/100 (source-linked-unverified).
+- [x] EC — Saraguro Community-Led Andean Cultural Experiences: 91.05/100 (source-linked-unverified).
+- [x] EC — Coangos Cueva de los Tayos Shuar-Guided Cave Expedition: 90.65/100 (source-linked-unverified).
+- [x] EC — Jatun Sacha Upper Napo Biological Reserve Forest Trails: 87.90/100 (source-linked-unverified).
+- [x] EC — Cerro Blanco Protected Tropical Dry Forest Trails: 87.25/100 (source-linked-unverified).
+- [x] EC — Cerro de Arcos Highland Rock Formations and Trails: 86.65/100 (source-linked-unverified).
+- [x] EC — Canelos Kichwa Pottery and Artisan Workshops: 84.95/100 (desk-based provisional).
+- [x] EC — Girón El Chorro Waterfalls: 84.25/100 (desk-based provisional).
+- [x] EC — Ahuano AmaZOOnico Wildlife Rescue Education Visit: 84.00/100 (source-linked-unverified).
+- [x] EC — Puyo Omaere Ethnobotanical Park: 83.40/100 (desk-based provisional).
+- [x] EC — Jerusalem Protected Dry Forest and Highland Trails: 83.00/100 (desk-based provisional).
+
+12 additions, 8 source-linked provisional, 4 desk-based provisional, 4 90+, 32 ranking-row comparisons (8 international). EC 120 ranked / 121 total, +66 since baseline 55. Prior 15 UNESCO tentative entries mapped 13/15 at least partially; Bellavista now represents the second named Chocó Soundscape component alongside Mashpi (https://whc.unesco.org/en/tentativelists/6988/); both component names represented, boundaries not independently verified. El Quimi and Galápagos extension unresolved. Five inscribed properties represented per prior inventory (Qhapaq Ñan unassessed). Kapawi and Saraguro scoped to consenting community programmes; no private rites. Sarayaku deferred pending ordinary visitor permission (https://sarayaku.org/en/tayjasaruta/); Bilsa deferred pending contemporary visitor authorization, not a score penalty (https://www.rainforesttrust.org/urgent-projects/bilsa-biological-reserve/). Coangos cave distinct from other oilbird caves; myths excluded, specialist and community permission required. Prior access/overlap deferrals retained. OPEN for final bounded regional screen; existing scores and one unassessed preserved. Coordinates approximate; current schedules, permissions and safety unverified.
