@@ -1,0 +1,16 @@
+id: sight-us-adirondack-high-peaks
+name: "Adirondack High Peaks Wilderness Mountain Hiking"
+location:
+  country_code: US
+  latitude: 44.11
+  longitude: -73.92
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    photography: 9.3

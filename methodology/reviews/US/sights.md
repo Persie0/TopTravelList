@@ -9020,3 +9020,504 @@ Ranking rows checked; independent factual, coordinate, peer YAML, international 
 
 Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
 
+## sight-us-platte-cranes — Central Platte River Sandhill Crane Migration Nebraska — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/platte-cranes.yaml)
+- Action: new
+- Scope: Seasonal migration and authorized viewing hides including Rowe Sanctuary; not guaranteed sightings or private land access.
+- Representative coordinates: 40.667, -98.874; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.3 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.4.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://visitnebraska.com/sandhill-crane-migration ; https://visitnebraska.com/trip-idea/experience-nebraskas-sandhill-crane-migration.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | significance: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/admiralty-pack-creek](../../../countries/US/sights/admiralty-pack-creek.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.0 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/maui-whales](../../../countries/US/sights/maui-whales.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 8.9 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/boundary-waters](../../../countries/US/sights/boundary-waters.yaml) | 9.1 / 9.3 / 9.1 / 9.1 / 9.2 | significance: +0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-crystal-river-manatees — Crystal River National Wildlife Refuge Manatee Observation — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/crystal-river-manatees.yaml)
+- Action: new
+- Scope: Kings Bay and Three Sisters Springs grouped; regulated viewing from boardwalk and permitted water areas; no touching or sanctuary intrusion.
+- Representative coordinates: 28.888, -82.589; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.2.
+- Overall: 91.85/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.fws.gov/refuge/crystal-river/visit-us ; https://www.fws.gov/refuge/crystal-river/visit-us/activities/wildlife-watching ; https://www.fws.gov/refuge/crystal-river/visit-us/activities/scuba-diving.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kona-manta](../../../countries/US/sights/kona-manta.yaml) | 9.3 / 9.4 / 9.0 / 9.3 / 9.0 | impact: -0.2 vs peer; significance: +0.2 vs peer |
+| [US/maui-whales](../../../countries/US/sights/maui-whales.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 8.9 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | experience: +0.6 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-blue-ridge-parkway — Blue Ridge Parkway Appalachian Scenic Drive — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/blue-ridge-parkway.yaml)
+- Action: new
+- Scope: 469-mile corridor only, excludes endpoint national parks and separately operated destinations; representative visitor center area.
+- Representative coordinates: 35.568, -82.488; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.1 / 9.2 / 9.3.
+- Categories: nature:9.4 photography:9.4 relaxation:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/blri/planyourvisit/basicinfo.htm ; https://www.nps.gov/articles/blri_landscapes.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.8 vs peer; uniqueness: +0.4 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.2 vs peer |
+| [US/shenandoah](../../../countries/US/sights/shenandoah.yaml) | 8.7 / 8.5 / 8.6 / 8.9 / 8.9 | uniqueness: +0.6 vs peer; significance: +0.5 vs peer |
+| [US/great-smoky-mountains-national-park](../../../countries/US/sights/great-smoky-mountains-national-park.yaml) | 8.8 / 8.6 / 9.1 / 8.8 / 9.1 | uniqueness: +0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-san-juan-whales — San Juan Islands Salish Sea Orca and Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/san-juan-whales.yaml)
+- Action: new
+- Scope: US island shore and lawful boat-based observation grouped; no guarantee of orcas, no Canadian duplication, observe distance rules.
+- Representative coordinates: 48.535, -123.15; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.visitsanjuans.com/whale-watching ; https://www.visitsanjuans.com/be-whale-wise ; https://www.visitsanjuans.com/follow-the-whale-trail.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/maui-whales](../../../countries/US/sights/maui-whales.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 8.9 | depth: +0.1 vs peer; impact: +0.0 vs peer |
+| [US/juneau-whales](../../../countries/US/sights/juneau-whales.yaml) | 9.0 / 9.1 / 8.8 / 9.1 / 8.9 | significance: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/prince-william-sound](../../../countries/US/sights/prince-william-sound.yaml) | 9.3 / 9.2 / 9.0 / 9.2 / 9.2 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-monterey-whales — Monterey Bay Marine Sanctuary Offshore Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/monterey-whales.yaml)
+- Action: new
+- Scope: Dedicated offshore wildlife observation, excludes aquarium and terrestrial Big Sur coast; no guaranteed species.
+- Representative coordinates: 36.607, -121.89; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://montereybay.noaa.gov/visitor/whalewatching/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/maui-whales](../../../countries/US/sights/maui-whales.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 8.9 | depth: +0.2 vs peer; impact: +0.0 vs peer |
+| [US/juneau-whales](../../../countries/US/sights/juneau-whales.yaml) | 9.0 / 9.1 / 8.8 / 9.1 / 8.9 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-durango-silverton — Durango and Silverton Narrow Gauge Railroad Historic Scenic Journey — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/durango-silverton.yaml)
+- Action: new
+- Scope: Historic 45-mile railroad journey and depot interpretation grouped; no separate steam excursion entries.
+- Representative coordinates: 37.269, -107.882; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.2 / 9.0.
+- Categories: history:9.4 photography:9.4 nature:9.3.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://durangotrain.com/history/ ; https://durangotrain.com/summer-fall/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/white-pass-railway](../../../countries/US/sights/white-pass-railway.yaml) | 9.0 / 9.0 / 8.8 / 9.1 / 8.9 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [US/road-to-hana](../../../countries/US/sights/road-to-hana.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | significance: +0.4 vs peer; impact: -0.3 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.9 vs peer; uniqueness: +0.5 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-john-pennekamp — John Pennekamp Coral Reef State Park Key Largo — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/john-pennekamp.yaml)
+- Action: new
+- Scope: Distinct state park and reef tours; current coral condition not independently evaluated, no pristine reef assumption.
+- Representative coordinates: 25.124, -80.407; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 8.8 / 8.7.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.2.
+- Overall: 89.10/100.
+- Decision: Source-informed provisional assessment from retrieved official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.floridastateparks.org/parks-and-trails/john-pennekamp-coral-reef-state-park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | depth: -0.2 vs peer; experience: -0.1 vs peer |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.5 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-overseas-highway — Florida Keys Overseas Highway and Seven Mile Bridge — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/overseas-highway.yaml)
+- Action: new
+- Scope: Road and bridge experience only; excludes reef trips and Key West heritage.
+- Representative coordinates: 24.698, -81.18; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 9.0 / 8.7.
+- Categories: photography:9.3 architecture:9.1 relaxation:9.2.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.4 vs peer; impact: -0.2 vs peer |
+| [US/road-to-hana](../../../countries/US/sights/road-to-hana.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-san-juan-skyway — San Juan Skyway and Million Dollar Highway Colorado — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/san-juan-skyway.yaml)
+- Action: new
+- Scope: Scenic road and mountain stops grouped; excludes Durango railroad.
+- Representative coordinates: 37.93, -107.67; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 9.0 / 8.9.
+- Categories: photography:9.4 nature:9.3 adventure:9.2.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.3 vs peer; impact: -0.2 vs peer |
+| [US/maroon-bells](../../../countries/US/sights/maroon-bells.yaml) | 9.2 / 8.9 / 8.5 / 9.0 / 8.8 | impact: -0.3 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mount-washington — Mount Washington Summit and Presidential Range Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mount-washington.yaml)
+- Action: new
+- Scope: Summit, trails, historic cog railway and auto road grouped; weather-dependent.
+- Representative coordinates: 44.27, -71.303; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-hood](../../../countries/US/sights/mount-hood.yaml) | 9.0 / 8.8 / 8.6 / 9.0 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/mount-shasta](../../../countries/US/sights/mount-shasta.yaml) | 9.0 / 8.9 / 8.5 / 8.8 / 8.8 | significance: +0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-franconia-notch — Franconia Notch State Park Flume Gorge and Mountain Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/franconia-notch.yaml)
+- Action: new
+- Scope: Flume Gorge, notch and park trails grouped; excludes Presidential Range.
+- Representative coordinates: 44.14, -71.69; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.5 vs peer; depth: -0.4 vs peer |
+| [US/shenandoah](../../../countries/US/sights/shenandoah.yaml) | 8.7 / 8.5 / 8.6 / 8.9 / 8.9 | uniqueness: +0.3 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-adirondack-high-peaks — Adirondack High Peaks Wilderness Mountain Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/adirondack-high-peaks.yaml)
+- Action: new
+- Scope: High Peaks trail network, not entire Adirondack Park.
+- Representative coordinates: 44.11, -73.92; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 9.0.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | 9.1 / 8.5 / 8.7 / 9.1 / 9.0 | uniqueness: +0.3 vs peer; impact: -0.2 vs peer |
+| [US/shenandoah](../../../countries/US/sights/shenandoah.yaml) | 8.7 / 8.5 / 8.6 / 8.9 / 8.9 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-finger-lakes-gorges — Finger Lakes Watkins Glen and Regional Gorge Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/finger-lakes-gorges.yaml)
+- Action: new
+- Scope: Watkins Glen and regional accessible gorge trails combined; no separate waterfall scores.
+- Representative coordinates: 42.372, -76.873; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.4 vs peer; significance: -0.3 vs peer |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-letchworth — Letchworth State Park Genesee River Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/letchworth.yaml)
+- Action: new
+- Scope: Genesee gorge and waterfalls distinct from Finger Lakes drainage.
+- Representative coordinates: 42.58, -78.04; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | experience: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/black-canyon-of-the-gunnison-national-park](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml) | 9.0 / 8.8 / 8.5 / 8.7 / 8.4 | depth: +0.3 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-white-mountains-kancamagus — Kancamagus Highway White Mountain Scenic Drive — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/white-mountains-kancamagus.yaml)
+- Action: new
+- Scope: Route-specific scenery, excludes Franconia Notch and Presidential Range.
+- Representative coordinates: 44.005, -71.47; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.3 / 8.9 / 8.6.
+- Categories: photography:9.3 nature:9.2 relaxation:9.1.
+- Overall: 86.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/blue-ridge-parkway](../../../countries/US/sights/blue-ridge-parkway.yaml) | 9.1 / 9.1 / 9.1 / 9.2 / 9.3 | significance: -0.8 vs peer; depth: -0.7 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | impact: -0.5 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-bosque-del-apache — Bosque del Apache National Wildlife Refuge Winter Bird Migration — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bosque-del-apache.yaml)
+- Action: new
+- Scope: Seasonal waterbird roosts and visitor loop; no guaranteed crane counts.
+- Representative coordinates: 33.804, -106.891; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.9 / 8.8.
+- Categories: wildlife:9.4 nature:9.3 photography:9.4.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.4 vs peer; experience: +0.4 vs peer |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ano-nuevo — Año Nuevo State Park Elephant Seal Observation — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ano-nuevo.yaml)
+- Action: new
+- Scope: Regulated shore-based seal colony viewing, separate from offshore Monterey trips.
+- Representative coordinates: 37.115, -122.306; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.8 / 8.8 / 8.7.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/point-reyes](../../../countries/US/sights/point-reyes.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.0 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/admiralty-pack-creek](../../../countries/US/sights/admiralty-pack-creek.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.0 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-santa-cruz-elkhorn — Elkhorn Slough National Estuarine Research Reserve Kayaking and Wildlife — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/santa-cruz-elkhorn.yaml)
+- Action: new
+- Scope: Estuary and permitted paddling, separate from offshore whale watching; avoid wildlife disturbance.
+- Representative coordinates: 36.811, -121.738; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.7 / 8.9 / 8.7.
+- Categories: wildlife:9.3 nature:9.3 adventure:9.2.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/congaree](../../../countries/US/sights/congaree.yaml) | 8.6 / 8.9 / 8.8 / 8.7 / 8.7 | experience: +0.2 vs peer; significance: -0.1 vs peer |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-tallgrass-prairie — Tallgrass Prairie National Preserve Kansas — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tallgrass-prairie.yaml)
+- Action: new
+- Scope: Preserved prairie, ranch heritage and bison habitat.
+- Representative coordinates: 38.432, -96.558; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.9 / 9.0 / 8.5 / 8.8.
+- Categories: nature:9.3 wildlife:9.2 history:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/carrizo-plain](../../../countries/US/sights/carrizo-plain.yaml) | 8.8 / 9.0 / 8.8 / 8.7 / 8.7 | impact: -0.4 vs peer; significance: +0.2 vs peer |
+| [US/theodore-roosevelt](../../../countries/US/sights/theodore-roosevelt.yaml) | 8.8 / 8.7 / 8.7 / 8.8 / 8.8 | impact: -0.4 vs peer; significance: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-niobrara-river — Niobrara National Scenic River Nebraska Paddling and Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/niobrara-river.yaml)
+- Action: new
+- Scope: River paddling and waterfall landscape; no separate Smith Falls record.
+- Representative coordinates: 42.88, -100.26; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.6 / 8.9 / 8.7.
+- Categories: nature:9.3 adventure:9.3 photography:9.2.
+- Overall: 86.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/buffalo-national-river](../../../countries/US/sights/buffalo-national-river.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-garden-of-gods — Garden of the Gods Colorado Springs Red Rock Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/garden-of-gods.yaml)
+- Action: new
+- Scope: Independent sandstone park, excludes Pikes Peak.
+- Representative coordinates: 38.878, -104.87; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.9 / 8.5.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 87.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/sedona-red-rock](../../../countries/US/sights/sedona-red-rock.yaml) | 9.3 / 9.1 / 8.6 / 9.3 / 9.2 | depth: -0.7 vs peer; impact: -0.4 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-pikes-peak — Pikes Peak Summit Highway and Cog Railway — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pikes-peak.yaml)
+- Action: new
+- Scope: Mountain summit and transport experiences combined, separate from Garden of the Gods.
+- Representative coordinates: 38.841, -105.043; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.8 / 8.9 / 8.8.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/mount-shasta](../../../countries/US/sights/mount-shasta.yaml) | 9.0 / 8.9 / 8.5 / 8.8 / 8.8 | significance: +0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-spearfish-canyon — Black Hills Spearfish Canyon Scenic Byway — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/spearfish-canyon.yaml)
+- Action: new
+- Scope: Separate northern Black Hills canyon and waterfall road; excludes Custer and cave parks.
+- Representative coordinates: 44.35, -103.93; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.4 / 8.8 / 8.6.
+- Categories: nature:9.2 photography:9.3 relaxation:9.1.
+- Overall: 85.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/custer-state-park](../../../countries/US/sights/custer-state-park.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.6 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+

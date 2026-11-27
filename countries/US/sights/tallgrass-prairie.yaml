@@ -1,0 +1,16 @@
+id: sight-us-tallgrass-prairie
+name: "Tallgrass Prairie National Preserve Kansas"
+location:
+  country_code: US
+  latitude: 38.432
+  longitude: -96.558
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    history: 9.1

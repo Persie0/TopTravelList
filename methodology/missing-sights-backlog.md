@@ -3091,3 +3091,31 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Kachemak Bay State Park Coastal Wilderness and Kayaking: 88.45/100 (desk-based provisional).
 
 27 additions, 10 desk-based provisional, 17 source-informed, 12 90+, 78 domestic ranking-row comparisons. United States 319 ranked / 319 total. Hāna excludes Haleakalā NP; Maunakea visitor station and permitted mountain experience only; Kalaupapa public overlook without ground access. Tracy Arm deferred for physical condition assessment following landslide and tsunami impacts (https://apnews.com/article/b7d5171aed649de82b52bf4138a69919). Existing scores retained. Next: continental regional scenic routes, wildlife and heritage. Full Python validation pending.
+
+### Pass 190 — Continental US scenic routes and wildlife
+
+- [x] US — Central Platte River Sandhill Crane Migration Nebraska: 92.35/100 (source-linked-unverified).
+- [x] US — Crystal River National Wildlife Refuge Manatee Observation: 91.85/100 (source-linked-unverified).
+- [x] US — Blue Ridge Parkway Appalachian Scenic Drive: 91.35/100 (source-linked-unverified).
+- [x] US — San Juan Islands Salish Sea Orca and Whale Watching: 90.95/100 (source-linked-unverified).
+- [x] US — Monterey Bay Marine Sanctuary Offshore Whale Watching: 91.05/100 (source-linked-unverified).
+- [x] US — Durango and Silverton Narrow Gauge Railroad Historic Scenic Journey: 91.20/100 (source-linked-unverified).
+- [x] US — John Pennekamp Coral Reef State Park Key Largo: 89.10/100 (source-linked-unverified).
+- [x] US — Florida Keys Overseas Highway and Seven Mile Bridge: 88.55/100 (desk-based provisional).
+- [x] US — San Juan Skyway and Million Dollar Highway Colorado: 88.55/100 (desk-based provisional).
+- [x] US — Mount Washington Summit and Presidential Range Trails: 88.50/100 (desk-based provisional).
+- [x] US — Franconia Notch State Park Flume Gorge and Mountain Trails: 87.15/100 (desk-based provisional).
+- [x] US — Adirondack High Peaks Wilderness Mountain Hiking: 88.40/100 (desk-based provisional).
+- [x] US — Finger Lakes Watkins Glen and Regional Gorge Trails: 87.95/100 (desk-based provisional).
+- [x] US — Letchworth State Park Genesee River Gorge: 87.75/100 (desk-based provisional).
+- [x] US — Kancamagus Highway White Mountain Scenic Drive: 86.10/100 (desk-based provisional).
+- [x] US — Bosque del Apache National Wildlife Refuge Winter Bird Migration: 88.40/100 (desk-based provisional).
+- [x] US — Año Nuevo State Park Elephant Seal Observation: 88.40/100 (desk-based provisional).
+- [x] US — Elkhorn Slough National Estuarine Research Reserve Kayaking and Wildlife: 87.50/100 (desk-based provisional).
+- [x] US — Tallgrass Prairie National Preserve Kansas: 87.00/100 (desk-based provisional).
+- [x] US — Niobrara National Scenic River Nebraska Paddling and Waterfalls: 86.80/100 (desk-based provisional).
+- [x] US — Garden of the Gods Colorado Springs Red Rock Park: 87.35/100 (desk-based provisional).
+- [x] US — Pikes Peak Summit Highway and Cog Railway: 88.45/100 (desk-based provisional).
+- [x] US — Black Hills Spearfish Canyon Scenic Byway: 85.90/100 (desk-based provisional).
+
+23 additions, 16 desk-based provisional, 7 source-informed, 6 90+, 58 domestic ranking-row comparisons. United States 342 ranked / 342 total. Blue Ridge excludes national park endpoints; Crystal River viewing and springs grouped; Monterey offshore distinct from aquarium; San Juan Skyway excludes Durango railroad. Chincoteague deferred pending Assateague scope. No guaranteed wildlife sightings. Existing scores retained. Next: major historic sites, culture/urban attractions and remaining nature. Full Python validation pending.
