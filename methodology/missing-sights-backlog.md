@@ -1075,3 +1075,16 @@ Eight additions, 32 peer rows; Greece 72 ranked / 73 total. Heraklion museum dis
 - [x] GR — Porto Katsiki Beach Lefkada: 86.35/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Greece 80 ranked / 81 total. Acrocorinth distinct from Ancient Corinth and absent from UNESCO tentative list 5855; Nafplio lower town and Chania waterfront exclude listed fortifications. Museum branches and separate archaeology excluded. Next bounded screen: Cycladic Art Museum, Roman Agora and Hadrian's Library, Panathenaic Stadium, Ancient Nemea, Ancient Dodona, Sarakiniko, Portara and Achilleion. Full Python validation pending.
+
+### Pass 94 — Greek Olympic heritage, art, archaeology, palace and island coastal attractions
+
+- [x] GR — Museum of Cycladic Art Athens: 89.80/100 (source-linked-unverified).
+- [x] GR — Roman Agora and Hadrian's Library Athens: 87.20/100 (source-linked-unverified).
+- [x] GR — Panathenaic Stadium Athens: 90.35/100 (source-linked-unverified).
+- [x] GR — Ancient Nemea Sanctuary and Stadium: 88.05/100 (source-linked-unverified).
+- [x] GR — Sarakiniko Beach and White Rock Coast Milos: 88.60/100 (source-linked-unverified).
+- [x] GR — Portara Temple of Apollo Naxos: 87.20/100 (source-linked-unverified).
+- [x] GR — Achilleion Palace and Imperial Gardens Corfu: 88.20/100 (source-linked-unverified).
+- [x] GR — Kleftiko Sea Caves and Coastal Rock Arches Milos: 89.05/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Greece 88 ranked / 89 total. Dodona theatre covered by existing tentative Greek theatres series (https://whc.unesco.org/en/tentativelists/5869/); defer sanctuary-only record until meaningful separate scope established. Kleftiko substituted as distinct island coastal experience. Roman Agora and Hadrian's Library grouped. Achilleion operator confirms garden/outdoor-only access during restoration; normal-condition score. Next bounded screen: Olympieion, Kerameikos, substantive independent Athens museum, Rhodes Valley of Butterflies, Zakynthos Blue Caves, Preveli, Vai, Paleokastritsa. Full Python validation pending.

@@ -2906,3 +2906,315 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-gr-cycladic-art-museum — Museum of Cycladic Art Athens — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/cycladic-art-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated Cycladic and ancient art collections, distinct from National Archaeological Museum; museum building access and exhibitions subject to works.
+- Location check: 37.975875, 23.742251; [published representative point](https://www.religiousgreece.gr/en/attractions/museum-cycladic-art-0), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://cycladic.gr/en/ektheseis/kykladiki-techni/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/national-arch-museum](../../../countries/GR/sights/national-arch-museum.yaml) | 9.0 / 9.2 / 9.6 / 9.0 / 9.2 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+| [GR/heraklion-archaeological-museum](../../../countries/GR/sights/heraklion-archaeological-museum.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.2 | impact: -0.4 vs peer; depth: -0.4 vs peer. |
+| [GR/benaki-museum-greek-culture](../../../countries/GR/sights/benaki-museum-greek-culture.yaml) | 8.8 / 8.9 / 9.2 / 8.9 / 9.1 | uniqueness: +0.3 vs peer; depth: -0.3 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | impact: -0.3 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Strong sculptural objects and galleries. |
+| Uniqueness | 9.2 | Distinct concentration of Cycladic art. |
+| Significance | 9.2 | Major prehistoric art collection. |
+| Experience | 8.8 | Dedicated museum visit. |
+| Depth | 8.8 | Several collections and periods. |
+
+- Applicable categories: history:9.3, culture:9.4, architecture:8.8.
+- Computed worldwide overall: 89.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-roman-agora-hadrians-library — Roman Agora and Hadrian's Library Athens — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/roman-agora-hadrians-library.yaml)
+- Action: new
+- Precise subject and limitations: Two adjacent Roman archaeological precincts grouped; excludes the separately ranked Ancient Agora. Representative Roman Agora point; separate entry conditions possible.
+- Location check: 37.974257, 23.726095; [published representative point](https://www.religiousgreece.gr/en/attractions/roman-agora-athens-0), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/the-roman-agora-and-hadrians-library); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/ancient-agora](../../../countries/GR/sights/ancient-agora.yaml) | 9.0 / 9.2 / 9.6 / 9.0 / 8.8 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+| [IT/baths-caracalla](../../../countries/IT/sights/baths-caracalla.yaml) | 9.1 / 8.9 / 9.3 / 8.8 / 8.8 | impact: -0.5 vs peer; significance: -0.3 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | depth: -0.6 vs peer; impact: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Evocative Roman monumental remains. |
+| Uniqueness | 8.7 | Distinct Roman civic and educational buildings. |
+| Significance | 9.0 | Important Athenian Roman heritage. |
+| Experience | 8.7 | Two established archaeological visits. |
+| Depth | 8.6 | Several connected structures across two sites. |
+
+- Applicable categories: history:9.3, architecture:9.1, photography:8.9.
+- Computed worldwide overall: 87.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-panathenaic-stadium — Panathenaic Stadium Athens — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/panathenaic-stadium.yaml)
+- Action: new
+- Precise subject and limitations: Marble stadium and Olympic history interpretation; no assumption of access to track during events. Separate from ancient theatre series.
+- Location check: 37.968346, 23.741113; [published representative point](https://www.religiousgreece.gr/en/attractions/panathenaic-stadium-0), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.panathenaicstadium.gr/en/visit/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/verona-arena](../../../countries/IT/sights/verona-arena.yaml) | 9.1 / 9.0 / 9.2 / 8.9 / 8.6 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer. |
+| [IT/colosseum-forum](../../../countries/IT/sights/colosseum-forum.yaml) | 9.7 / 9.6 / 9.8 / 9.3 / 9.5 | depth: -1.1 vs peer; impact: -0.7 vs peer. |
+| [GR/olympia](../../../countries/GR/sights/olympia.yaml) | 8.8 / 9.3 / 9.7 / 9.0 / 9.0 | depth: -0.6 vs peer; significance: -0.4 vs peer. |
+| [GR/epidaurus](../../../countries/GR/sights/epidaurus.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 8.8 | depth: -0.4 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Large marble arena. |
+| Uniqueness | 9.2 | Distinct modern Olympic heritage and ancient stadium setting. |
+| Significance | 9.3 | International Olympic historical importance. |
+| Experience | 8.9 | Established audio tour and visitor circuit. |
+| Depth | 8.4 | Single stadium and associated interpretation. |
+
+- Applicable categories: history:9.3, architecture:9.2, culture:9.2, photography:9.2.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: 90+ provisional; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-ancient-nemea — Ancient Nemea Sanctuary and Stadium — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/ancient-nemea.yaml)
+- Action: new
+- Precise subject and limitations: Sanctuary of Zeus, ancient stadium and museum grouped as documented combined visit. Distinct from Olympia and theatre series; representative archaeological site point.
+- Location check: 37.80904, 22.71054; [published representative point](https://www.allovergreece.com/Archaeological-Site/Descr/49/en), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hh.gr/en/destinations/zeus-sanctuary-nemea/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/olympia](../../../countries/GR/sights/olympia.yaml) | 8.8 / 9.3 / 9.7 / 9.0 / 9.0 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | impact: -0.2 vs peer; depth: -0.2 vs peer. |
+| [GR/messene](../../../countries/GR/sights/messene.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/sounion](../../../countries/GR/sights/sounion.yaml) | 8.9 / 9.0 / 9.1 / 8.8 / 7.9 | depth: +0.8 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Temple and open archaeological setting. |
+| Uniqueness | 8.8 | Distinct ancient athletic sanctuary. |
+| Significance | 9.1 | Significant Panhellenic games heritage. |
+| Experience | 8.7 | Established site and museum circuit. |
+| Depth | 8.7 | Multiple connected monuments. |
+
+- Applicable categories: history:9.3, architecture:9.1, culture:9.0.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-sarakiniko-milos — Sarakiniko Beach and White Rock Coast Milos — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/sarakiniko-milos.yaml)
+- Action: new
+- Precise subject and limitations: White coastal rock formations and beach grouped; excludes Kleftiko elsewhere on island. Sea and rock access conditional.
+- Location check: 36.74282, 24.45833; [published representative point](https://www.allovergreece.com/Beaches/Descr/14/886/en), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/milos-beaches); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/myrtos-beach](../../../countries/GR/sights/myrtos-beach.yaml) | 9.2 / 8.7 / 8.0 / 8.8 / 7.8 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer. |
+| [GR/porto-katsiki-beach](../../../countries/GR/sights/porto-katsiki-beach.yaml) | 9.2 / 8.7 / 8.0 / 8.8 / 7.8 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer. |
+| [IT/scala-dei-turchi](../../../countries/IT/sights/scala-dei-turchi.yaml) | 9.0 / 8.9 / 8.4 / 8.4 / 7.8 | experience: +0.5 vs peer; depth: +0.4 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | significance: -0.3 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Striking white sculpted terrain. |
+| Uniqueness | 9.1 | Distinctive lunar-like coastal forms. |
+| Significance | 8.2 | Regional geological heritage. |
+| Experience | 8.9 | Established coastal observation and bathing where safe. |
+| Depth | 8.2 | Bounded but varied coastal rock landscape. |
+
+- Applicable categories: nature:9.3, photography:9.4, beaches:9.1.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-portara-naxos — Portara Temple of Apollo Naxos — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/portara-naxos.yaml)
+- Action: new
+- Precise subject and limitations: Surviving monumental marble gateway and temple foundations on Palatia islet; excludes Naxos town and unrestricted access to protected foundations.
+- Location check: 37.1103, 25.37226; [published representative point](https://culturalos.gr/poi/portara-44624?lang=en), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://cyclades.culture.gov.gr/en/location/the-sanctuary-of-delian-apollo-portara-naxos/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/sounion](../../../countries/GR/sights/sounion.yaml) | 8.9 / 9.0 / 9.1 / 8.8 / 7.9 | significance: -0.2 vs peer; depth: -0.2 vs peer. |
+| [GR/bassae](../../../countries/GR/sights/bassae.yaml) | 8.5 / 9.1 / 9.4 / 8.2 / 7.8 | significance: -0.5 vs peer; experience: +0.5 vs peer. |
+| [GR/lindos](../../../countries/GR/sights/lindos.yaml) | 9.0 / 9.0 / 9.1 / 8.9 / 8.3 | depth: -0.6 vs peer; impact: -0.2 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | depth: -1.2 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Iconic marble gateway and maritime view. |
+| Uniqueness | 8.9 | Distinct isolated unfinished temple remains. |
+| Significance | 8.9 | Important archaic sanctuary. |
+| Experience | 8.7 | Established exterior visit. |
+| Depth | 7.7 | Limited surviving structures. |
+
+- Applicable categories: history:9.2, architecture:9.1, photography:9.3.
+- Computed worldwide overall: 87.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-achilleion-palace — Achilleion Palace and Imperial Gardens Corfu — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/achilleion-palace.yaml)
+- Action: new
+- Precise subject and limitations: Palace and imperial gardens grouped. Operator currently states outdoor areas and gardens only due to restoration; established interior experience documented by https://hppc.gr/business-units/moyseio-achilleio-tis-kerkyras/?lang=en. No reopening date assumed.
+- Location check: 39.56273, 19.90421; [published representative point](https://mapcarta.com/27811308), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://achillion-corfu.gr/?lang=en); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/miramare-castle](../../../countries/IT/sights/miramare-castle.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.7 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer. |
+| [IT/isola-bella-palace](../../../countries/IT/sights/isola-bella-palace.yaml) | 9.1 / 9.0 / 8.7 / 8.9 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/ajuda-national-palace](../../../countries/PT/sights/ajuda-national-palace.yaml) | 8.7 / 8.5 / 8.9 / 8.7 / 8.8 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinct palace and sculpture gardens. |
+| Uniqueness | 8.8 | Unusual classical-themed imperial residence. |
+| Significance | 8.8 | Significant nineteenth-century dynastic heritage. |
+| Experience | 8.8 | Established palace and garden circuit. |
+| Depth | 8.7 | Several rooms and landscaped areas. |
+
+- Applicable categories: architecture:9.2, history:9.1, photography:9.2, culture:9.0.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-kleftiko-sea-caves — Kleftiko Sea Caves and Coastal Rock Arches Milos — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/kleftiko-sea-caves.yaml)
+- Action: new
+- Precise subject and limitations: Sea arches, rock formations and boat excursion at Kleftiko; excludes other tour stops and separately rated Sarakiniko. Weather-dependent bathing and boat access.
+- Location check: 36.65222, 24.33303; [published representative point](https://mapcarta.com/N2450251279), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discovergreece.com/activities-tours/milos-kleftiko-morning-cruise); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/neptunes-grotto](../../../countries/IT/sights/neptunes-grotto.yaml) | 9.1 / 8.9 / 8.5 / 8.8 / 8.5 | significance: -0.3 vs peer; impact: +0.2 vs peer. |
+| [IT/blue-grotto-capri](../../../countries/IT/sights/blue-grotto-capri.yaml) | 9.0 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +1.2 vs peer; experience: +0.5 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | significance: -0.3 vs peer; impact: +0.1 vs peer. |
+| [GR/balos](../../../countries/GR/sights/balos.yaml) | 9.2 / 9.0 / 8.3 / 8.8 / 7.9 | depth: +0.6 vs peer; experience: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Dramatic white sea cliffs and arches. |
+| Uniqueness | 9.1 | Distinct coastal erosional formations. |
+| Significance | 8.2 | Regional geological heritage. |
+| Experience | 9.0 | Established scenic boat excursion. |
+| Depth | 8.5 | Several rock formations and sea caves. |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.2, beaches:8.9.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
