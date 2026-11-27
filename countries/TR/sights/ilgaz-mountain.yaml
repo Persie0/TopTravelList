@@ -1,0 +1,17 @@
+id: sight-tr-ilgaz-mountain
+name: "Ilgaz Mountain National Park"
+location:
+  country_code: TR
+  latitude: 41.0682
+  longitude: 33.734
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    photography: 9.0
+    relaxation: 8.9

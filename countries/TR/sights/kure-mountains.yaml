@@ -1,0 +1,17 @@
+id: sight-tr-kure-mountains
+name: "Küre Mountains National Park"
+location:
+  country_code: TR
+  latitude: 41.65556
+  longitude: 33.15611
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.2
+    wildlife: 9.2

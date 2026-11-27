@@ -1176,3 +1176,15 @@ Eight additions, 32 peer rows. Türkiye 74 ranked / 74 total. Lycian Way walking
 - [x] TR — Kazdağı National Park: 87.95/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Türkiye 82 ranked / 82 total. Lake Van excludes Akdamar Church; Abant lake and park grouped; Dilek peninsula and delta grouped, restricted habitat access not assumed. Next bounded screen: Nemrut Crater Lake (distinct from Nemrut Dağ monument), Valla Canyon, Küre Mountains National Park, Ilgaz Mountain National Park, Munzur Valley National Park, Tortum Waterfall, Karagöl Borçka and Şavşat Karagöl. Full Python validation pending.
+
+### Pass 102 — Türkiye volcanic, canyon and forest landscapes
+
+- [x] TR — Nemrut Volcanic Caldera and Crater Lakes Bitlis: 90.20/100 (source-linked-unverified).
+- [x] TR — Küre Mountains National Park: 90.00/100 (source-linked-unverified).
+- [x] TR — Ilgaz Mountain National Park: 86.35/100 (source-linked-unverified).
+- [x] TR — Munzur Valley National Park: 89.65/100 (source-linked-unverified).
+- [x] TR — Tortum Waterfall and Lake Outlet: 86.05/100 (source-linked-unverified).
+- [x] TR — Borçka Karagöl Lake and Nature Park: 85.30/100 (source-linked-unverified).
+- [x] TR — Şavşat Karagöl-Sahara National Park: 87.00/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Türkiye 89 ranked / 89 total. Valla Canyon excluded as independent entry because the [tourism ministry](https://www.ktb.gov.tr/EN-99796/kastamonu---kure-mountain-national-park.html) includes it in Küre Mountains National Park. Bitlis Nemrut caldera separate from Adıyaman monument. Şavşat and Borçka lakes separate; Şavşat Sahara plateau grouped. Next bounded screen: Chora Mosque, Rahmi M. Koç Museum, Pera Museum, Istanbul Spice Bazaar, Maiden's Tower, Rumeli Fortress, Istanbul Aquarium, Princes' Islands (scope checks). Full Python validation pending.

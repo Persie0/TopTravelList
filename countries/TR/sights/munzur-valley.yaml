@@ -1,0 +1,17 @@
+id: sight-tr-munzur-valley
+name: "Munzur Valley National Park"
+location:
+  country_code: TR
+  latitude: 39.27694
+  longitude: 39.2925
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    adventure: 9.2
+    photography: 9.3

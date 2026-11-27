@@ -2867,3 +2867,276 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-tr-nemrut-caldera — Nemrut Volcanic Caldera and Crater Lakes Bitlis — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/nemrut-caldera.yaml)
+- Action: new
+- Precise subject and limitations: Bitlis volcanic caldera and crater lakes, distinct from Adıyaman's Nemrut Dağ monument and Lake Van shoreline. Ramsar representative coordinates converted from DMS; no assumption of bathing or year-round road access.
+- Location check: 38.61944, 42.23167; [published representative point](https://www.ramsar.org/news/turkey-designates-unique-volcano-caldera), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/tr/bitlis/bitliste-yapmadan-donme); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/lake-salda](../../../countries/TR/sights/lake-salda.yaml) | 9.0 / 9.0 / 8.6 / 8.6 / 8.5 | depth: +0.4 vs peer; significance: +0.3 vs peer. |
+| [TR/lake-van](../../../countries/TR/sights/lake-van.yaml) | 9.0 / 9.0 / 8.8 / 8.8 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/nisyros-stefanos-crater](../../../countries/GR/sights/nisyros-stefanos-crater.yaml) | 9.1 / 9.3 / 8.6 / 8.8 / 8.5 | depth: +0.4 vs peer; significance: +0.3 vs peer. |
+| [GR/santorini-caldera](../../../countries/GR/sights/santorini-caldera.yaml) | 9.6 / 9.5 / 9.0 / 9.2 / 9.2 | experience: -0.6 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows, except same-pass Borçka comparison uses new provisional score; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Dramatic crater and lake setting. |
+| Uniqueness | 9.2 | Distinct extensive volcanic caldera with lakes. |
+| Significance | 8.9 | Internationally recognized wetland and geological heritage. |
+| Experience | 8.6 | Established scenic visits with seasonal access. |
+| Depth | 8.9 | Multiple volcanic features and lakes. |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.1.
+- Computed worldwide overall: 90.20/100.
+- High-score challenge: 90+ provisional; international peer comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-kure-mountains — Küre Mountains National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/kure-mountains.yaml)
+- Action: new
+- Precise subject and limitations: Forested karst landscapes, designated canyon viewpoints and walks. Valla, Aydos, Horma canyons and Ilıca waterfall included rather than duplicate records; technical canyon access not assumed. Park representative point.
+- Location check: 41.65556, 33.15611; [published representative point](https://en.wikipedia.org/wiki/K%C3%BCre_Mountains_National_Park), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-99796/kastamonu---kure-mountain-national-park.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/kackar-mountains](../../../countries/TR/sights/kackar-mountains.yaml) | 9.3 / 9.1 / 8.9 / 9.0 / 9.3 | impact: -0.2 vs peer; experience: -0.2 vs peer. |
+| [TR/koprulu-canyon](../../../countries/TR/sights/koprulu-canyon.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | significance: +0.3 vs peer; experience: -0.3 vs peer. |
+| [GR/pindos](../../../countries/GR/sights/pindos.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.3 | experience: -0.2 vs peer; impact: -0.1 vs peer. |
+| [PT/peneda-geres](../../../countries/PT/sights/peneda-geres.yaml) | 9.1 / 9.0 / 8.9 / 9.1 / 9.3 | experience: -0.3 vs peer; depth: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows, except same-pass Borçka comparison uses new provisional score; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic deep canyons and forest. |
+| Uniqueness | 9.0 | Distinct karst and forest combination. |
+| Significance | 8.9 | Important protected habitats. |
+| Experience | 8.8 | Established scenic walks and viewpoints. |
+| Depth | 9.2 | Multiple canyons and extensive park terrain. |
+
+- Applicable categories: nature:9.4, photography:9.3, adventure:9.2, wildlife:9.2.
+- Computed worldwide overall: 90.00/100.
+- High-score challenge: 90+ provisional; international peer comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-ilgaz-mountain — Ilgaz Mountain National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/ilgaz-mountain.yaml)
+- Action: new
+- Precise subject and limitations: Forested mountain park, seasonal winter sports and scenic recreation. Representative park point; ski operations and conditions vary.
+- Location check: 41.0682, 33.734; [published representative point](https://mapcarta.com/Ilgaz_National_Park), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-99795/kastamonu---ilgaz-mountain-national-park.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/mount-erciyes](../../../countries/TR/sights/mount-erciyes.yaml) | 8.9 / 8.6 / 8.5 / 9.0 / 8.8 | impact: -0.2 vs peer; experience: -0.2 vs peer. |
+| [TR/kazdagi](../../../countries/TR/sights/kazdagi.yaml) | 8.8 / 8.8 / 8.8 / 8.7 / 8.9 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [IT/sila](../../../countries/IT/sights/sila.yaml) | 8.8 / 8.8 / 8.8 / 8.9 / 9.0 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [GR/parnassos](../../../countries/GR/sights/parnassos.yaml) | 8.7 / 8.6 / 8.6 / 8.8 / 8.8 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows, except same-pass Borçka comparison uses new provisional score; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Attractive mountain forest landscapes. |
+| Uniqueness | 8.5 | Familiar forested mountain setting. |
+| Significance | 8.5 | Regional conservation significance. |
+| Experience | 8.8 | Established year-round recreation with seasonal variation. |
+| Depth | 8.8 | Multiple slopes and forest routes. |
+
+- Applicable categories: nature:9.2, adventure:9.1, photography:9.0, relaxation:8.9.
+- Computed worldwide overall: 86.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-munzur-valley — Munzur Valley National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/munzur-valley.yaml)
+- Action: new
+- Precise subject and limitations: Protected river valleys and mountain landscape, scenic walks and established trekking; representative park point. No assumption of unrestricted backcountry access.
+- Location check: 39.27694, 39.2925; [published representative point](https://en.wikipedia.org/wiki/Munzur_Valley_National_Park), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-99806/tunceli---munzur-mountain-national-park.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/kackar-mountains](../../../countries/TR/sights/kackar-mountains.yaml) | 9.3 / 9.1 / 8.9 / 9.0 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [GR/pindos](../../../countries/GR/sights/pindos.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.3 | impact: -0.2 vs peer; experience: -0.2 vs peer. |
+| [TR/koprulu-canyon](../../../countries/TR/sights/koprulu-canyon.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | significance: +0.4 vs peer; experience: -0.3 vs peer. |
+| [IT/pollino](../../../countries/IT/sights/pollino.yaml) | 9.0 / 9.0 / 9.0 / 9.0 / 9.3 | experience: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows, except same-pass Borçka comparison uses new provisional score; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Strong mountain and river scenery. |
+| Uniqueness | 8.9 | Distinct valley and mountain ecosystem. |
+| Significance | 9.0 | Important endemic flora and protected habitats. |
+| Experience | 8.8 | Established trekking and riverside recreation. |
+| Depth | 9.2 | Extensive valleys, mountains and glacial lakes. |
+
+- Applicable categories: nature:9.4, wildlife:9.3, adventure:9.2, photography:9.3.
+- Computed worldwide overall: 89.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-tortum-waterfall — Tortum Waterfall and Lake Outlet — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/tortum-waterfall.yaml)
+- Action: new
+- Precise subject and limitations: Waterfall and adjacent observation paths at lake outlet; seasonal flow peaks in spring and early summer. Excludes wider lake basin and unrelated valley sights.
+- Location check: 40.6575, 41.6587; [published representative point](https://neresigezilir.com/en/turkey/erzurum/tortum-waterfall), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://erzurum.ktb.gov.tr/TR-174618/tortum-selalesi.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/lower-duden-waterfall](../../../countries/TR/sights/lower-duden-waterfall.yaml) | 8.8 / 8.7 / 8.0 / 8.7 / 8.0 | significance: +0.2 vs peer; impact: +0.1 vs peer. |
+| [TR/upper-duden-waterfall](../../../countries/TR/sights/upper-duden-waterfall.yaml) | 8.5 / 8.5 / 8.0 / 8.8 / 8.2 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [IT/marmore](../../../countries/IT/sights/marmore.yaml) | 9.0 / 9.0 / 9.0 / 8.9 / 8.9 | depth: -0.9 vs peer; significance: -0.8 vs peer. |
+| [GR/acheron-springs](../../../countries/GR/sights/acheron-springs.yaml) | 8.8 / 8.7 / 8.3 / 8.9 / 8.6 | depth: -0.6 vs peer; impact: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows, except same-pass Borçka comparison uses new provisional score; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large scenic cascade. |
+| Uniqueness | 8.7 | Distinct landslide-dammed lake outlet. |
+| Significance | 8.2 | Regional geological significance. |
+| Experience | 8.8 | Established stairs and observation facilities. |
+| Depth | 8.0 | Compact waterfall precinct. |
+
+- Applicable categories: nature:9.2, photography:9.3, relaxation:8.8.
+- Computed worldwide overall: 86.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-borcka-karagol — Borçka Karagöl Lake and Nature Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/borcka-karagol.yaml)
+- Action: new
+- Precise subject and limitations: Forest lake and immediate nature park paths grouped; separate from Şavşat Karagöl. Lake representative point; no guaranteed wildlife sightings.
+- Location check: 41.38557, 41.85394; [published representative point](https://aroundus.com/p/9647821-karagol), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://artvin.ktb.gov.tr/TR-55893/borcka--karagol.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/uzungol](../../../countries/TR/sights/uzungol.yaml) | 8.8 / 8.5 / 8.2 / 8.8 / 8.4 | impact: -0.1 vs peer; significance: +0.1 vs peer. |
+| [TR/lake-abant](../../../countries/TR/sights/lake-abant.yaml) | 8.5 / 8.4 / 8.2 / 8.8 / 8.5 | impact: +0.2 vs peer; depth: -0.2 vs peer. |
+| [TR/yedigoller](../../../countries/TR/sights/yedigoller.yaml) | 8.8 / 8.8 / 8.5 / 8.9 / 8.8 | depth: -0.5 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/lake-braies](../../../countries/IT/sights/lake-braies.yaml) | 9.4 / 9.0 / 8.5 / 9.0 / 8.2 | impact: -0.7 vs peer; uniqueness: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows, except same-pass Borçka comparison uses new provisional score; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Attractive reflective forest lake. |
+| Uniqueness | 8.5 | Distinct local landslide lake setting. |
+| Significance | 8.3 | Regional habitat importance. |
+| Experience | 8.7 | Established shoreline recreation. |
+| Depth | 8.3 | Compact lake and woodland paths. |
+
+- Applicable categories: nature:9.1, photography:9.3, relaxation:9.0.
+- Computed worldwide overall: 85.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-karagol-sahara — Şavşat Karagöl-Sahara National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/karagol-sahara.yaml)
+- Action: new
+- Precise subject and limitations: Karagöl lake and Sahara plateau within same national park grouped; distinct from Borçka lake. Representative park point, not lake entrance. Local district site returned HTTP 500; ministry and provincial tourism listings used instead.
+- Location check: 41.24048, 42.42858; [published representative point](https://mapcarta.com/27440166), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-99779/artvin---karagol-national-park.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/borcka-karagol](../../../countries/TR/sights/borcka-karagol.yaml) | 8.7 / 8.5 / 8.3 / 8.7 / 8.3 | depth: +0.5 vs peer; uniqueness: +0.2 vs peer. |
+| [TR/yedigoller](../../../countries/TR/sights/yedigoller.yaml) | 8.8 / 8.8 / 8.5 / 8.9 / 8.8 | experience: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [TR/kazdagi](../../../countries/TR/sights/kazdagi.yaml) | 8.8 / 8.8 / 8.8 / 8.7 / 8.9 | significance: -0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/sila](../../../countries/IT/sights/sila.yaml) | 8.8 / 8.8 / 8.8 / 8.9 / 9.0 | significance: -0.3 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows, except same-pass Borçka comparison uses new provisional score; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Scenic lake, woodland and highland plateau. |
+| Uniqueness | 8.7 | Distinct complementary plateau and lake settings. |
+| Significance | 8.5 | Regional protected landscape. |
+| Experience | 8.7 | Established outdoor recreation. |
+| Depth | 8.8 | Multiple separated park landscapes. |
+
+- Applicable categories: nature:9.2, photography:9.2, adventure:9.0, relaxation:8.9.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
