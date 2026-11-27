@@ -4750,3 +4750,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Punta Olímpica Cordillera Blanca Scenic Mountain Road: 85.85/100 (desk-based provisional).
 
 8 additions, 7 source-linked provisional, 1 desk-based provisional, 3 90+, 28 ranking-row comparisons (12 international). PE 226 ranked / 228 total, +162 since baseline 66. Puno Alasitas distinct from Candelaria, national heritage not Bolivian UNESCO inscription. Pucará grouped archaeology/museum/crafts. Chacas excludes mountain excursions. Qenqo/Puka Pukara/Tambomachay exclude Sacsayhuamán main monument, non-additive to park-wide itinerary; legacy scope remains flagged. Santa Bárbara historic significance confirmed, deferred until safe visitor scope established (https://www.digesa.minsa.gob.pe/noticias/Julio2026/nota35.asp); access deferral not a score penalty. Cordillera Azul and Sierra del Divisor remain deferred pending documented authorized visitor routes. Prior UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not independently remapped. PAUSED after 13 targeted passes to diversify worldwide discovery; remaining restricted-area/legacy-scope deferrals explicitly retained, resume on concrete new evidence. Existing scores and two unassessed preserved. Coordinates approximate; current access and schedules unverified.
+
+### Pass 268 — Colombia flagship festivals, wildlife experiences and heritage towns
+
+- [x] CO — Barranquilla Carnival Grand Parades Music and Dance: 94.55/100 (source-linked-unverified).
+- [x] CO — Pasto Carnaval de Negros y Blancos Public Parades and Carnival Arts: 93.65/100 (source-linked-unverified).
+- [x] CO — Medellín Feria de las Flores and Silleteros Flower Parade: 92.85/100 (source-linked-unverified).
+- [x] CO — Popayán Holy Week Historic Religious Processions: 92.50/100 (source-linked-unverified).
+- [x] CO — Quibdó San Pacho Saint Francis of Assisi Festival: 92.20/100 (source-linked-unverified).
+- [x] CO — Valledupar Festival de la Leyenda Vallenata Traditional Music Competitions: 92.25/100 (source-linked-unverified).
+- [x] CO — Cali Petronio Álvarez Pacific Music and Afro-Colombian Cultural Festival: 92.30/100 (source-linked-unverified).
+- [x] CO — Feria de Cali Salsódromo Salsa Dance and Music Festival: 91.95/100 (source-linked-unverified).
+- [x] CO — Casanare Llanos Wildlife Safari and Traditional Ranch Landscapes: 92.35/100 (source-linked-unverified).
+- [x] CO — Nuquí and Bahía Solano Pacific Humpback Whale Watching: 91.20/100 (source-linked-unverified).
+- [x] CO — Villa de Leyva Historic Centre and Plaza Mayor: 89.05/100 (source-linked-unverified).
+- [x] CO — Barichara Historic Centre Colonial Architecture and Cobblestone Streets: 88.25/100 (source-linked-unverified).
+
+12 additions, 12 source-linked provisional, 0 desk-based provisional, 10 90+, 49 ranking-row comparisons (40 international). CO 63 ranked / 67 total, +12 since baseline 55. UNESCO World Heritage official list (https://whc.unesco.org/en/statesparties/co/) checked: 9/9 represented including 3 unassessed properties; 13 tentative properties require targeted mapping. Living heritage recognition distinguished from individual events. Chocó whale watching excludes Gorgona and Utría excursions; Casanare ranch safari grouped. Permanent heritage towns distinct from festivals. Existing scores and four unassessed preserved. Queue OPEN for protected-area, tentative-list, regional heritage and experience screen. Coordinates approximate; access and schedules unverified.

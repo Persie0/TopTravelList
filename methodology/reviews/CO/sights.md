@@ -1101,3 +1101,283 @@
 - Categories: nature 9.6, photography 9.6, adventure 9.4. Computed overall: 90.40/100.
 - High-score challenge: 90+ reflects glaciated peaks and highland lakes and large tropical alpine landscape; depth based on several permitted routes. nature 9.6: large tropical alpine landscape; photography 9.6: glaciated peaks and highland lakes More specific same-type comparisons remain pending. Approved 10 registry: none.
 - Verification still needed: individual facts, GPS, access and closer peer calibration.
+
+## sight-co-barranquilla-carnival — Barranquilla Carnival Grand Parades Music and Dance — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/barranquilla-carnival.yaml)
+- Action: new
+- Scope: Pre-Lent public carnival with diverse Colombian music and dance traditions; UNESCO representative list 2008, originally proclaimed 2003. Group its parades into one event.
+- Representative coordinates: 10.982, -74.8; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.5 / 9.4 / 9.5 / 9.5 / 9.3.
+- Categories: culture:9.5 photography:9.5 history:9.3.
+- Overall: 94.55/100.
+- Source: https://ich.unesco.org/en/RL/carnival-of-barranquilla-00051?RL=00051
+- Source: https://www.mincultura.gov.co/direcciones/patrimonio-y-memoria/Paginas/servicios-informacion/LRPCI/carnaval-de-barranquilla.aspx
+- Decision: provisional worldwide score; temporary access excluded. 9.5 fields provisional: large-scale distinctive public procession and music/dance heritage; UNESCO inscription supports significance, and Rio Carnival remains the higher-impact peer. Additional high-score calibration required.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/rio-carnival](../../../countries/BR/sights/rio-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.6 / 9.4 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [BR/salvador-carnival](../../../countries/BR/sights/salvador-carnival.yaml) | 9.3 / 9.3 / 9.2 / 9.4 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: +0.4; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-pasto-negros-y-blancos — Pasto Carnaval de Negros y Blancos Public Parades and Carnival Arts — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/pasto-negros-y-blancos.yaml)
+- Action: new
+- Scope: Distinct Pasto carnival and collectively produced parade art; UNESCO representative list 2009. Group all public carnival days, not permanent museums.
+- Representative coordinates: 1.214, -77.278; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.4 / 9.3 / 9.2.
+- Categories: culture:9.4 photography:9.4 history:9.3.
+- Overall: 93.65/100.
+- Source: https://ich.unesco.org/es/RL/el-carnaval-de-negros-y-blancos-00287?RL=00287
+- Source: https://ich.unesco.org/en-state/colombia-CO?info=periodic-reporting
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/rio-carnival](../../../countries/BR/sights/rio-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.6 / 9.4 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: +0.3; uniqueness: +0.3 vs peer |
+| [PE/andahuaylas-pukllay](../../../countries/PE/sights/andahuaylas-pukllay.yaml) | 9.0 / 9.1 / 9.2 / 9.3 / 9.0 | impact: +0.4; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-medellin-flower-festival — Medellín Feria de las Flores and Silleteros Flower Parade — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/medellin-flower-festival.yaml)
+- Action: new
+- Scope: Annual festival dating to 1957; national heritage silletero tradition and parade central to the event. Exclude permanent urban attractions and separate farm visits.
+- Representative coordinates: 6.247, -75.57; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.2 / 9.4 / 9.2.
+- Categories: culture:9.4 photography:9.4 family:9.3.
+- Overall: 92.85/100.
+- Source: https://www.medellin.gov.co/es/eventos/feria-de-las-flores/
+- Source: https://colombia.travel/es/ferias-y-fiestas/feria-de-las-flores
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/comuna-13-medellin](../../../countries/CO/sights/comuna-13-medellin.yaml) | 8.1 / 8.9 / 8.3 / 8.5 / 7.5 | impact: +1.2; uniqueness: +0.4 vs peer |
+| [BR/holambra-expoflora](../../../countries/BR/sights/holambra-expoflora.yaml) | 8.9 / 8.8 / 8.8 / 9.1 / 8.9 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PE/trujillo-spring-festival](../../../countries/PE/sights/trujillo-spring-festival.yaml) | 8.9 / 9.0 / 9.2 / 9.2 / 9.0 | impact: +0.4; uniqueness: +0.3 vs peer |
+| [PE/raymi-llaqta-chachapoyas](../../../countries/PE/sights/raymi-llaqta-chachapoyas.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-popayan-holy-week — Popayán Holy Week Historic Religious Processions — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/popayan-holy-week.yaml)
+- Action: new
+- Scope: Colonial-era processional tradition with ceremonial floats, UNESCO representative list 2009. Event only; permanent historic centre not included.
+- Representative coordinates: 2.441, -76.606; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.50/100.
+- Source: https://ich.unesco.org/en/RL/holy-week-processions-in-popayan-00259
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/semana-santa-ayacucho](../../../countries/PE/sights/semana-santa-ayacucho.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/cusco-corpus-christi](../../../countries/PE/sights/cusco-corpus-christi.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.2 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-quibdo-san-pacho — Quibdó San Pacho Saint Francis of Assisi Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/quibdo-san-pacho.yaml)
+- Action: new
+- Scope: Public festival combining Catholic devotion, traditional chirimía music, dancing and processions; UNESCO representative list 2012. No private ritual participation assumed.
+- Representative coordinates: 5.694, -76.66; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 92.20/100.
+- Source: https://ich.unesco.org/en/RL/festival-of-saint-francis-of-assisi-quibdo-00640
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/virgen-de-la-puerta-otuzco](../../../countries/PE/sights/virgen-de-la-puerta-otuzco.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [PE/paucartambo-virgen-del-carmen](../../../countries/PE/sights/paucartambo-virgen-del-carmen.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-vallenato-legend-festival — Valledupar Festival de la Leyenda Vallenata Traditional Music Competitions — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/vallenato-legend-festival.yaml)
+- Action: new
+- Scope: Traditional music competition and performances in Valledupar. UNESCO 2015 urgent safeguarding inscription concerns traditional Vallenato music, not the entire festival.
+- Representative coordinates: 10.477, -73.25; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 92.25/100.
+- Source: https://colombia.travel/es/valledupar/vive-el-festival-de-la-leyenda-vallenata-en-valledupar
+- Source: https://ich.unesco.org/en/USL/traditional-vallenato-music-of-the-greater-magdalena-region-01095?USL=01095
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BR/amazonas-opera-festival](../../../countries/BR/sights/amazonas-opera-festival.yaml) | 8.9 / 9.2 / 9.2 / 9.1 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-petronio-alvarez-festival — Cali Petronio Álvarez Pacific Music and Afro-Colombian Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/petronio-alvarez-festival.yaml)
+- Action: new
+- Scope: Cali's public Pacific music and cultural exhibition, 30th edition documented in 2026. Regional marimba heritage is distinct from event inscription. Exclude Feria de Cali.
+- Representative coordinates: 3.451, -76.532; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.3 / 9.2.
+- Categories: culture:9.4 food:9.3 photography:9.3.
+- Overall: 92.30/100.
+- Source: https://www.cali.gov.co/boletines/publicaciones/193580/con-petronito-y-desfile-de-colonias-este-fin-de-semana-inicia-la-programacion-de-la-version-30-del-festival-petronio-alvarez/
+- Source: https://www.cali.gov.co/boletines/publicaciones/193368/183-portadores-y-portadoras-de-tradicion-haran-parte-de-la-muestra-de-expresiones-tradicionales-del-xxx-festival-petronio-alvarez/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/san-juan-amazon](../../../countries/PE/sights/san-juan-amazon.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: +0.0; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-feria-de-cali — Feria de Cali Salsódromo Salsa Dance and Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/feria-de-cali.yaml)
+- Action: new
+- Scope: December 25–30 traditional fair originating in 1957, with Salsódromo and music events. Excludes Petronio and year-round salsa venues.
+- Representative coordinates: 3.451, -76.532; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.2 / 9.4 / 9.1.
+- Categories: culture:9.4 nightlife:9.4 photography:9.3.
+- Overall: 91.95/100.
+- Source: https://colombia.travel/es/cali/disfruta-de-la-feria-de-cali
+- Source: https://colombia.travel/es/vacacional/ferias-y-fiestas/feria-de-cali
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: +0.1; uniqueness: -0.2 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: +0.1; uniqueness: -0.2 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: +0.0; uniqueness: -0.2 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-casanare-llanero-safari — Casanare Llanos Wildlife Safari and Traditional Ranch Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/casanare-llanero-safari.yaml)
+- Action: new
+- Scope: Regional guided ranch and reserve safaris including Hato La Aurora and El Encanto de Guanapalo. Yopal representative gateway, not exact ranch coordinates. Group comparable ranch experiences to avoid double-counting; no jaguar or other sightings guaranteed.
+- Representative coordinates: 5.337, -72.395; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.2 / 9.1 / 9.1 / 9.3.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.3.
+- Overall: 92.35/100.
+- Source: https://colombia.travel/en/llanos-orientales-region
+- Source: https://hatolaaurora.com/actividades/
+- Source: https://colombia.travel/en/yopal
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/amacayacu-national-natural-park](../../../countries/CO/sights/amacayacu-national-natural-park.yaml) | 8.8 / 8.7 / 9.2 / 8.8 / 8.8 | impact: +0.6; uniqueness: +0.5 vs peer |
+| [CO/amazon-river-leticia-visitor-routes](../../../countries/CO/sights/amazon-river-leticia-visitor-routes.yaml) | 9.0 / 9.0 / 9.0 / 8.6 / 8.8 | impact: +0.4; uniqueness: +0.2 vs peer |
+| [BR/pantanal-brazilian-wildlife-routes](../../../countries/BR/sights/pantanal-brazilian-wildlife-routes.yaml) | 9.3 / 9.4 / 9.2 / 9.1 / 9.3 | impact: +0.1; uniqueness: -0.2 vs peer |
+| [PE/pacaya-samiria-national-reserve](../../../countries/PE/sights/pacaya-samiria-national-reserve.yaml) | 9.0 / 9.1 / 9.3 / 8.5 / 9.2 | impact: +0.4; uniqueness: +0.1 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [PE/tambopata-national-reserve](../../../countries/PE/sights/tambopata-national-reserve.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.0 | impact: +0.4; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-choco-humpback-whale-watching — Nuquí and Bahía Solano Pacific Humpback Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/choco-humpback-whale-watching.yaml)
+- Action: new
+- Scope: Seasonal guided whale observation from Nuquí and Bahía Solano; exclude Utría and Gorgona park-specific excursions and ordinary beaches. No sighting guarantee.
+- Representative coordinates: 5.711, -77.268; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.0 / 9.0 / 8.8.
+- Categories: wildlife:9.4 photography:9.4 nature:9.3.
+- Overall: 91.20/100.
+- Source: https://colombia.travel/en/whale-watching
+- Source: https://colombia.travel/en/choco/contemplate-stunning-humpback-whales-in-el-choco
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/utria-national-natural-park](../../../countries/CO/sights/utria-national-natural-park.yaml) | 9.0 / 9.0 / 8.9 / 8.4 / 8.3 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [CO/gorgona-national-natural-park](../../../countries/CO/sights/gorgona-national-natural-park.yaml) | 8.8 / 8.9 / 8.8 / 8.3 / 8.3 | impact: +0.5; uniqueness: +0.3 vs peer |
+| [PE/northern-peru-whale-watching](../../../countries/PE/sights/northern-peru-whale-watching.yaml) | 9.2 / 9.0 / 9.0 / 9.1 / 9.0 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [PE/san-fernando-reserve](../../../countries/PE/sights/san-fernando-reserve.yaml) | 9.2 / 9.2 / 9.0 / 8.8 / 9.0 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PE/palomino-islands](../../../countries/PE/sights/palomino-islands.yaml) | 8.8 / 8.8 / 8.5 / 8.9 / 8.5 | impact: +0.5; uniqueness: +0.4 vs peer |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.7; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-villa-de-leyva-historic-centre — Villa de Leyva Historic Centre and Plaza Mayor — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/villa-de-leyva-historic-centre.yaml)
+- Action: new
+- Scope: Colonial-era streets, churches and central plaza. Exclude nearby fossil museums and surrounding landscapes.
+- Representative coordinates: 5.633, -73.524; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 8.8 / 9.1 / 8.9 / 8.8.
+- Categories: architecture:9.4 history:9.3 photography:9.3.
+- Overall: 89.05/100.
+- Source: https://colombia.travel/en/villa-de-leyva
+- Source: https://colombia.travel/en/where-to-go/colombian-eastern-andes
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/historic-centre-of-santa-cruz-de-mompox](../../../countries/CO/sights/historic-centre-of-santa-cruz-de-mompox.yaml) | 8.6 / 9.0 / 9.3 / 8.3 / 8.5 | impact: +0.3; uniqueness: -0.2 vs peer |
+| [CO/la-candelaria-historic-district](../../../countries/CO/sights/la-candelaria-historic-district.yaml) | 8.5 / 8.3 / 8.8 / 8.5 / 8.6 | impact: +0.4; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-barichara-historic-centre — Barichara Historic Centre Colonial Architecture and Cobblestone Streets — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/barichara-historic-centre.yaml)
+- Action: new
+- Scope: Historic heritage town with cobbled streets and colonial houses. Exclude separate Camino Real hike and Chicamocha Canyon.
+- Representative coordinates: 6.636, -73.223; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.9 / 8.7.
+- Categories: architecture:9.4 photography:9.4 culture:9.2.
+- Overall: 88.25/100.
+- Source: https://colombia.travel/en/barichara
+- Source: https://colombia.travel/en/barichara/transport-yourself-back-in-time-walking-through-beautiful-streets
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/historic-centre-of-santa-cruz-de-mompox](../../../countries/CO/sights/historic-centre-of-santa-cruz-de-mompox.yaml) | 8.6 / 9.0 / 9.3 / 8.3 / 8.5 | impact: +0.2; uniqueness: -0.2 vs peer |
+| [CO/la-candelaria-historic-district](../../../countries/CO/sights/la-candelaria-historic-district.yaml) | 8.5 / 8.3 / 8.8 / 8.5 / 8.6 | impact: +0.3; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 268 scope decisions
+
+12 additions, 12 source-linked provisional, 0 desk-based provisional, 10 90+, 49 ranking-row comparisons (40 international). CO 63 ranked / 67 total, +12 since baseline 55. UNESCO World Heritage official list (https://whc.unesco.org/en/statesparties/co/) checked: 9/9 represented including 3 unassessed properties; 13 tentative properties require targeted mapping. Living heritage recognition distinguished from individual events. Chocó whale watching excludes Gorgona and Utría excursions; Casanare ranch safari grouped. Permanent heritage towns distinct from festivals. Existing scores and four unassessed preserved. Queue OPEN for protected-area, tentative-list, regional heritage and experience screen. Coordinates approximate; access and schedules unverified.
