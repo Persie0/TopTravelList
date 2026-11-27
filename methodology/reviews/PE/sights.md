@@ -2585,3 +2585,302 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 258 scope decisions
 
 13 additions, 10 source-linked provisional, 3 desk-based provisional, 5 90+, 31 domestic ranking-row comparisons (0 international this pass; international calibration pending). PE 123 ranked / 125 total, +59 since baseline. Collao Juli–Pomata partial serial coverage; Utcubamba separate component experiences, no duplicate aggregate. Cerro Sechín distinct from currently inscribed Chankillo; proposed 11-component 2026 extension (https://whc.unesco.org/en/tentativelists/7055/) must not be separately aggregated. Huánuco Pampa and Aypate deferred as Qhapaq Ñan components (https://whc.unesco.org/en/list/1459/maps/ and https://whc.unesco.org/en/documents/209587). Vilcashuamán limited to central site, possible road-system boundary overlap pending. La Leche tentative aggregate overlaps Bosque de Pómac; residual Huaca Lucía–Chólope, Huaca Soledad and historic productive complexes deferred until discrete visitor offering documented (https://whc.unesco.org/en/tentativelists/6419/). Sierra del Divisor deferred: park zoning and Contamana access inventory do not establish a distinct authorized park visitor circuit, no access assumption (https://www.gob.pe/institucion/sernanp/normas-legales/7424609-115-2025-sernanp and https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=12551). Prior mining and fossil deferrals retained. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified. Discovery queue open; remaining tentative and regional screen needed.
+
+## sight-pe-bahuaja-sonene — Bahuaja Sonene National Park Heath River Wilderness and Wildlife Expeditions — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/bahuaja-sonene.yaml)
+- Action: new
+- Scope: Designated park visitor sectors, especially authorized Heath River excursions, excluding Tambopata National Reserve proper. SERNANP documents wildlife and authorized Heath-sector operators. Shared Amazon ecosystem non-additive; sightings not guaranteed.
+- Representative coordinates: -12.9, -68.85; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 8.7 / 9.3.
+- Categories: nature:9.4 wildlife:9.4 adventure:9.3 photography:9.3.
+- Overall: 92.30/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/en/anps/bahuaja-sonene-national-park/
+- Source: https://visitaareasnaturales.sernanp.gob.pe/anps/parque-nacional-bahuaja-sonene/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/manu-national-park](../../../countries/PE/sights/manu-national-park.yaml) | 9.4 / 9.5 / 9.8 / 8.5 / 9.4 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [PE/tambopata-national-reserve](../../../countries/PE/sights/tambopata-national-reserve.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.0 | impact: +0.3; uniqueness: +0.3 vs peer |
+| [PE/pacaya-samiria-national-reserve](../../../countries/PE/sights/pacaya-samiria-national-reserve.yaml) | 9.0 / 9.1 / 9.3 / 8.5 / 9.2 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [BR/cristalino-reserve](../../../countries/BR/sights/cristalino-reserve.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 9.3 | impact: +0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-nor-yauyos-cochas — Nor Yauyos Cochas Landscape Reserve Huancaya Turquoise Lakes and Waterfall Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/nor-yauyos-cochas.yaml)
+- Action: new
+- Scope: Huancaya, Vilca and designated water landscapes grouped; SERNANP documents 54 evaluated tourism resources, Huancaya recognized by UN Tourism in 2024. Excludes separately inscribed Qhapaq Ñan route components.
+- Representative coordinates: -12.203, -75.803; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.2 / 9.0 / 9.0 / 9.2.
+- Categories: nature:9.4 photography:9.4 culture:9.3 adventure:9.2.
+- Overall: 91.90/100.
+- Source: https://www.gob.pe/institucion/sernanp/noticias/873140-mas-de-40-atractivos-de-reserva-paisajistica-nor-yauyos-cochas-son-jerarquizados-por-su-gran-potencial-para-el-desarrollo-turistico
+- Source: https://www.gob.pe/institucion/sernanp/noticias/1058611-comunidad-de-huancaya-de-la-reserva-paisajistica-nor-yauyos-cochas-reconocido-entre-mejores-pueblos-turisticos-del-mundo
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/sondondo-valley](../../../countries/PE/sights/sondondo-valley.yaml) | 9.0 / 9.2 / 9.3 / 8.8 / 9.2 | impact: +0.4; uniqueness: +0.0 vs peer |
+| [PE/colca-canyon](../../../countries/PE/sights/colca-canyon.yaml) | 9.4 / 9.2 / 8.6 / 9.0 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/huascaran-national-park](../../../countries/PE/sights/huascaran-national-park.yaml) | 9.6 / 9.4 / 9.4 / 9.0 / 9.4 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-marinera-national-contest — National and World Marinera Dance Competition Peru Club Libertad Spectator Event — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/marinera-national-contest.yaml)
+- Action: new
+- Scope: Recurring Club Libertad competitions grouped. 65th national and 15th world edition documented in 2025; 2026 edition held in Callao. Representative Callao point, future venue variable. Separate municipal Trujillo event deferred; no UNESCO inscription asserted.
+- Representative coordinates: -12.056, -77.11; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.2 / 9.1.
+- Categories: culture:9.4 photography:9.4 history:9.2.
+- Overall: 92.25/100.
+- Source: https://www.gob.pe/institucion/regioncallao/noticias/1098355-se-presento-oficialmemte-el-65-concurso-nacional-y-15-mundial-de-marinera-en-el-callao
+- Source: https://www.gob.pe/institucion/irtp/noticias/1332011-tvperu-transmitira-el-concurso-nacional-y-mundial-de-marinera-2026
+- Source: https://www.gob.pe/institucion/cultura/noticias/890579-ministra-de-cultura-vamos-a-trabajar-para-presentar-un-expediente-ante-unesco-para-declarar-a-la-marinera-como-patrimonio-de-la-humanidad
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: +0.0; uniqueness: +0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-san-juan-amazon — Iquitos Amazon Fiesta de San Juan Religious Food and Cultural Celebrations — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/san-juan-amazon.yaml)
+- Action: new
+- Scope: Iquitos and its San Juan Bautista district representative public June 24 festivities, not all Amazon towns. PromPeru and regional authorities document celebrations; separate from city heritage and Carnival.
+- Representative coordinates: -3.76, -73.27; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.2 / 9.1.
+- Categories: culture:9.4 food:9.3 photography:9.2.
+- Overall: 91.80/100.
+- Source: https://target2.promperu.gob.pe/blog-viajero/loreto/-que-hacer-en-iquitos-siete-actividades-que-puedes-hacer-en-la-capital-loretana/
+- Source: https://www.gob.pe/institucion/rree/noticias/972072-loreto-diversidad-y-esplendor-de-la-amazonia-en-la-fiesta-patronal-san-juan-bautista
+- Source: https://www.gob.pe/institucion/regionloreto/noticias/1195711-con-gran-algarabia-culmina-celebracion-de-la-fiesta-de-san-juan-en-iquitos
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/paucartambo-virgen-del-carmen](../../../countries/PE/sights/paucartambo-virgen-del-carmen.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/pirenopolis-divino](../../../countries/BR/sights/pirenopolis-divino.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.2 | impact: +0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-virgen-de-chapi — Virgen de Chapi Arequipa Pilgrimage and Annual Public Religious Celebration — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/virgen-de-chapi.yaml)
+- Action: new
+- Scope: Annual May pilgrimage and public celebration; national heritage since 2012 per PromPeru. Tourism inventory estimates 200,000 visitors over two main days; estimates vary by source and period. Coordinate approximate sanctuary; route suitability unverified.
+- Representative coordinates: -16.72, -71.36; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.0 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.05/100.
+- Source: https://target2.promperu.gob.pe/blog-viajero/arequipa/virgen-de-chapi-una-peregrinacion-que-mueve-el-corazon-de-arequipa
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=6738
+- Source: https://www.gob.pe/institucion/sutran/noticias/1383667-sutran-mas-de-100-inspectores-fiscalizaran-la-via-arequipa-moquegua-por-la-festividad-de-la-virgen-de-chapi
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/qoyllur-riti](../../../countries/PE/sights/qoyllur-riti.yaml) | 9.2 / 9.5 / 9.4 / 8.8 / 9.3 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [PE/senor-de-los-milagros](../../../countries/PE/sights/senor-de-los-milagros.yaml) | 9.2 / 9.2 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-san-fernando-reserve — San Fernando National Reserve Ica Desert Coast Condor and Marine Wildlife Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/san-fernando-reserve.yaml)
+- Action: new
+- Scope: Distinct authorized coastal reserve with marine wildlife and condors descending to coast, documented by SERNANP. Excludes Paracas and Ballestas; sightings not guaranteed. Advance request documented; access unverified.
+- Representative coordinates: -15.09, -75.37; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.0 / 8.8 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.4.
+- Overall: 90.80/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/en/anps/san-fernando-national-reserve/
+- Source: https://visitaareasnaturales.sernanp.gob.pe/en/special-notes/san-fernando-2/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/paracas-national-reserve](../../../countries/PE/sights/paracas-national-reserve.yaml) | 8.9 / 8.9 / 8.8 / 8.7 / 8.6 | impact: +0.3; uniqueness: +0.3 vs peer |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.6; uniqueness: +0.5 vs peer |
+| [ZA/cape-point](../../../countries/ZA/sights/cape-point.yaml) | 9.3 / 8.9 / 8.8 / 9.1 / 8.6 | impact: -0.1; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-pampa-hermosa — Pampa Hermosa National Sanctuary Relict Cedar Cloud Forest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/pampa-hermosa.yaml)
+- Action: new
+- Scope: Relict cedar forest trails; SERNANP documents trees reaching 51 m and previous temporary closure of centennial cedar trail. No reopening assumption; temporary restrictions excluded from score.
+- Representative coordinates: -11.05, -75.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.1 / 8.6 / 9.0.
+- Categories: nature:9.4 wildlife:9.3 photography:9.2.
+- Overall: 89.55/100.
+- Source: https://www.gob.pe/institucion/sernanp/noticias/1133644-hoy-celebramos-el-16-aniversario-del-santuario-nacional-pampa-hermosa-un-verdadero-tesoro-de-biodiversidad
+- Source: https://www.gob.pe/institucion/sernanp/noticias/1090369-junin-cierre-temporal-del-sendero-turistico-pampa-de-los-cedros-centenarios-en-el-santuario-nacional-pampa-hermosa
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/yanachaga-chemillen](../../../countries/PE/sights/yanachaga-chemillen.yaml) | 8.8 / 8.9 / 9.0 / 8.7 / 8.9 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: +0.0; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-ampay-national-sanctuary — Ampay National Sanctuary Intimpa Forest and Andean Lakes Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/ampay-national-sanctuary.yaml)
+- Action: new
+- Scope: Lake and forest routes documented by SERNANP; published visitor days limited. No current entry or glacier access implied.
+- Representative coordinates: -13.59, -72.9; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.7 / 8.6 / 8.7.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 87.65/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/anps/santuario-nacional-de-ampay/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huayllay](../../../countries/PE/sights/huayllay.yaml) | 9.3 / 9.3 / 8.9 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.4 vs peer |
+| [PE/humantay-lake](../../../countries/PE/sights/humantay-lake.yaml) | 9.1 / 8.8 / 7.4 / 8.6 / 7.2 | impact: -0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-iquitos-amazon-carnival — Iquitos Amazon Carnival Public Music Dance and Street Celebrations — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/iquitos-amazon-carnival.yaml)
+- Action: new
+- Scope: Separate carnival declared national cultural heritage in 2023; not June San Juan celebrations.
+- Representative coordinates: -3.75, -73.25; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.8 / 8.8.
+- Categories: culture:9.3 photography:9.2 nightlife:9.1.
+- Overall: 88.55/100.
+- Source: https://www.gob.pe/institucion/cultura/normas-legales/4245418-126-2023-vmpcic-mc
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/san-juan-amazon](../../../countries/PE/sights/san-juan-amazon.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.4; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-iquitos-historic-centre — Iquitos Monumental Zone Rubber Boom Architecture and Riverfront — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/iquitos-historic-centre.yaml)
+- Action: new
+- Scope: Public streets and permitted interiors only; official heritage zone and recent building damage documented. Separate from Amazon festivals and protected forests.
+- Representative coordinates: -3.749, -73.245; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.6 / 9.0 / 8.7 / 8.8.
+- Categories: architecture:9.3 history:9.3 culture:9.2.
+- Overall: 87.45/100.
+- Source: https://planmaynas.munimaynas.gob.pe/src/pages/pmzm-iquitos.html
+- Source: https://www.gob.pe/institucion/cultura/noticias/1417740-mincul-recupera-bienes-con-valor-cultural-y-evalua-danos-tras-el-derrumbe-parcial-del-techo-de-un-inmueble-en-zona-monumental-de-iquitos
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/trujillo-historic-centre](../../../countries/PE/sights/trujillo-historic-centre.yaml) | 8.7 / 8.6 / 9.1 / 8.7 / 8.9 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/ayacucho-historic-centre](../../../countries/PE/sights/ayacucho-historic-centre.yaml) | 8.7 / 8.7 / 9.1 / 8.7 / 8.9 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-salinas-aguada-blanca — Salinas and Aguada Blanca National Reserve Highland Salt Lagoons and Vicuña Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/salinas-aguada-blanca.yaml)
+- Action: new
+- Scope: High-altitude salt lake and reserve-specific landscapes, not general Colca access road. Desk rating; sightings, water conditions and access unverified.
+- Representative coordinates: -16.35, -71.16; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.7 / 8.6 / 8.8.
+- Categories: nature:9.4 photography:9.4 wildlife:9.3.
+- Overall: 88.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/pampa-galeras](../../../countries/PE/sights/pampa-galeras.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: +0.5; uniqueness: +0.2 vs peer |
+| [PE/colca-canyon](../../../countries/PE/sights/colca-canyon.yaml) | 9.4 / 9.2 / 8.6 / 9.0 / 9.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-amano-textile-museum — Amano Pre-Columbian Textile Museum Lima Andean Textile Collections — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/amano-textile-museum.yaml)
+- Action: new
+- Scope: Dedicated textile collection independent from Larco and national museums; current displays and photography permissions unverified. Desk rating.
+- Representative coordinates: -12.116, -77.044; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 9.0 / 9.2 / 8.7 / 8.8.
+- Categories: culture:9.4 history:9.3 photography:9.0.
+- Overall: 88.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/larco-museum](../../../countries/PE/sights/larco-museum.yaml) | 8.6 / 8.9 / 9.2 / 8.9 / 8.4 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [PE/mnaahp-lima](../../../countries/PE/sights/mnaahp-lima.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.4 | impact: -0.5; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-muna — Museo Nacional del Perú MUNA Pachacamac National Museum Exhibitions — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/muna.yaml)
+- Action: new
+- Scope: Separate national museum and established exhibition scope only, not planned capacity or Pachacamac archaeological sanctuary. Official profile confirms institution; specific galleries and access unverified.
+- Representative coordinates: -12.253, -76.901; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.6 / 9.0 / 8.5 / 8.8.
+- Categories: history:9.3 culture:9.2 architecture:9.2.
+- Overall: 86.85/100.
+- Source: https://museos.cultura.pe/node/909
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/mnaahp-lima](../../../countries/PE/sights/mnaahp-lima.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.4 | impact: -0.4; uniqueness: -0.6 vs peer |
+| [PE/pachacamac-archaeological-sanctuary](../../../countries/PE/sights/pachacamac-archaeological-sanctuary.yaml) | 8.3 / 8.8 / 9.2 / 8.3 / 8.2 | impact: +0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cutervo-national-park — Cutervo National Park Cloud Forest and Oilbird Cave Visitor Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cutervo-national-park.yaml)
+- Action: new
+- Scope: Established cave and forest visitor experience, not unrestricted protected-area access. Desk rating; authorization and sightings unverified.
+- Representative coordinates: -6.05, -78.72; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.4 / 8.7.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.1.
+- Overall: 86.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tingo-maria](../../../countries/PE/sights/tingo-maria.yaml) | 8.8 / 8.9 / 8.6 / 8.9 / 8.7 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/pampa-hermosa](../../../countries/PE/sights/pampa-hermosa.yaml) | 8.9 / 9.1 / 9.1 / 8.6 / 9.0 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 259 scope decisions
+
+14 additions, 11 source-linked provisional, 3 desk-based provisional, 6 90+, 35 ranking-row comparisons (5 international). PE 137 ranked / 139 total, +73 since baseline. Bahuaja Sonene distinct authorized sectors from Tambopata; Nor Yauyos grouped waterfalls, lakes and villages, excludes Qhapaq Ñan components. Club Libertad Marinera 2026 in Callao, venue variable; separate Trujillo municipal competition deferred pending recurring scope (https://www.gob.pe/institucion/munitrujillo/noticias/1358835-la-marinera-regreso-a-trujillo-con-un-coliseo-gran-chimu-lleno-de-emocion-y-tradicion). San Juan and Amazon Carnival separate. Pampa Hermosa previous temporary trail closure and Ampay limited visitor days documented. Megantoni/Pongo de Mainique deferred pending authorized community-permitted visitor circuit (https://www.gob.pe/institucion/sernanp/informes-publicaciones/1928755-santuario-nacional-megantoni and https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=14381). Prior deferrals retained; no claim of complete park or tentative coverage. Existing scores and two unassessed retained. Coordinates approximate, access/schedules unverified. Queue open for remaining regional and protected-area screen.
