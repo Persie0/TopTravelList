@@ -2792,3 +2792,19 @@ Regional overview screen: https://www.lesilesdeguadeloupe.com/en/explore/what-to
 - [x] MQ — Saint-James Rum Museum and Industrial Heritage Sainte-Marie: 87.25/100 (desk-based provisional).
 
 Regional overview sources: https://www.martinique.org/fr ; https://www.martinique.org/en/things-to-do/nature-environment/hiking ; https://www.culture.gouv.fr/regions/dac-martinique/la-direction-des-affaires-culturelles-dac/la-martinique-en-bref ; https://pnr-martinique.com/visiter/venez-decouvrir/ ; https://www.france.fr/fr/article/martinique-que-faire-que-voir/ . 14 additions, 10 desk-based provisional, 4 source-informed, 2 90+, 32 domestic ranking-row comparisons. Martinique 35 ranked / 35 total. Bounded queue closed; no Anse Noire/Anse Dufour duplicate or generic island reserve entry. Existing Mount Pelée summit/UNESCO property overlap is legacy and needs separate review; retained unchanged. Next: French Guiana. Full Python validation pending.
+
+
+### Pass 178 — French Guiana remaining priority queue
+
+- [x] GF — Maroni River Pirogue Expedition and Maroon Cultural Heritage: 91.80/100 (source-linked-unverified).
+- [x] GF — Camp Canopée Kourou River Treetop and Rainforest Expedition: 90.55/100 (source-linked-unverified).
+- [x] GF — Pripris de Yiyi Wetlands and Maison de la Nature: 88.35/100 (source-linked-unverified).
+- [x] GF — Îlet la Mère Island Wildlife and Historic Trails: 87.60/100 (desk-based provisional).
+- [x] GF — Cayenne Historic Centre Place des Palmistes and Fort Cépérou: 87.20/100 (desk-based provisional).
+- [x] GF — Musée Alexandre Franconie Cayenne Natural and Cultural History: 87.00/100 (desk-based provisional).
+- [x] GF — Église Saint-Joseph Iracoubo Painted Church: 87.60/100 (desk-based provisional).
+- [x] GF — Bagne des Annamites Crique Anguille Historic Ruins and Forest Trail: 86.90/100 (desk-based provisional).
+- [x] GF — Saut Maripa Oyapock River Rapids and Botanical Trail: 86.30/100 (desk-based provisional).
+- [x] GF — Écomusée d’Approuague-Kaw Régina Cultural and Industrial History: 86.40/100 (desk-based provisional).
+
+Regional overview sources: https://www.france.fr/en/article/french-guiana-amazonia-what-to-do-what-to-see/ ; https://parcnaturel-guyane.fr/le-territoire/sentiers-a-decouvrir/ ; https://hellosaintlau.fr/en/incontournables/ ; https://pop.culture.gouv.fr/notice/museo/M1063 ; https://pop.culture.gouv.fr/notice/museo/M1095 . 10 additions, 7 desk-based provisional, 3 source-informed, 2 90+, 24 domestic ranking-row comparisons. French Guiana 24 ranked / 24 total. Bounded queue closed; Crique Gabriel and Rorota deferred pending existing Kaw-Roura and Remire coastal scope respectively; restricted scientific reserve not presumed public. No guaranteed wildlife sightings or community access. Prior scores preserved. Next: Mayotte. Full Python validation pending.

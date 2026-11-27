@@ -1,0 +1,16 @@
+id: sight-gf-cayenne-historic-centre
+name: "Cayenne Historic Centre Place des Palmistes and Fort Cépérou"
+location:
+  country_code: GF
+  latitude: 4.938
+  longitude: -52.335
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    history: 9.3
+    culture: 9.3
