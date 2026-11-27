@@ -1,0 +1,16 @@
+id: sight-py-mbatovi-ecoreserve
+name: "Mbatoví Ecological Reserve Forest and Adventure Trails"
+location:
+  country_code: PY
+  latitude: -25.59
+  longitude: -57.12
+scores:
+  impact: 8.2
+  uniqueness: 8.3
+  significance: 7.9
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 8.9
+    adventure: 9.1
+    photography: 8.8

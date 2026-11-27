@@ -5116,3 +5116,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BO — Obrajes Thermal Springs Recreation: 79.50/100 (desk-based provisional).
 
 11 additions, 9 source-linked provisional, 2 desk-based provisional, 6 90+, 34 ranking-row comparisons (12 international). BO 130 ranked / 132 total, +76 since baseline 56. Prior seven inscribed and five tentative World Heritage properties represented at property scope, Chiquitos six components individually represented; other serial components not independently mapped. Kallawaya deferral narrowed to documented Pacha Trek consent-based cultural walks, not private healing rites or guaranteed programme. Uru Chipaya community tourism documented but current host confirmation pending. Torotoro Ciudad de Itas April 2026 expanded route, non-additive to parent; Kari Kari non-additive to Potosí ensemble. Otuquis and San Matías remain overlapping Pantanal, Chalalán overlaps Madidi, Aguaragüe and Serranía del Iñao named visitor scope remains unresolved despite general SERNAP 2026 invitation (https://www.sernap.gob.bo/index.php/nota_prensa/el-sernap-invita-a-las-familias-bolivianas-a-conectar-con-la-naturaleza-este-feriado-de-semana-santa/). Existing scores and two unassessed preserved. PAUSED after six targeted passes to diversify worldwide discovery; not exhaustive, unresolved cases retained; next Paraguay. Coordinates approximate, permissions and future events unverified.
+
+### Pass 289 — Paraguay flagship festivals and protected landscapes
+
+- [x] PY — Caacupé Virgen de los Milagros Public Pilgrimage: 92.55/100 (source-linked-unverified).
+- [x] PY — Asunción Semana de la Guarania Public Concerts and Cultural Programme: 91.90/100 (source-linked-unverified).
+- [x] PY — Piribebuy Poncho Para'i de 60 Listas Public Festival and Craft Fair: 91.50/100 (source-linked-unverified).
+- [x] PY — Encarnación Carnival Public Corsos and Performances: 91.25/100 (source-linked-unverified).
+- [x] PY — Itauguá National Ñandutí Lace Festival Public Craft and Music Programme: 90.85/100 (source-linked-unverified).
+- [x] PY — San Rafael Atlantic Forest Pro Cosara Guided Nature Experience: 89.40/100 (source-linked-unverified).
+- [x] PY — Central Chaco Salt Lagoons Birdwatching Circuit: 89.25/100 (source-linked-unverified).
+- [x] PY — Caazapá National Park Cerro Tupasy and Forest Trails: 84.70/100 (source-linked-unverified).
+- [x] PY — Filadelfia Mennonite Settlement Heritage and Pioneer Museums: 84.25/100 (desk-based provisional).
+- [x] PY — Areguá Cerro Kõi and Chororĩ Sandstone Formations: 83.75/100 (desk-based provisional).
+- [x] PY — Asunción Manzana de la Rivera Cultural Centre and Historic Houses: 83.35/100 (desk-based provisional).
+- [x] PY — Asunción El Cabildo Cultural Centre and Historic Building: 82.90/100 (desk-based provisional).
+- [x] PY — Mbatoví Ecological Reserve Forest and Adventure Trails: 82.30/100 (desk-based provisional).
+
+13 additions, 8 source-linked provisional, 5 desk-based provisional, 5 90+, 36 ranking-row comparisons (10 international). PY 62 ranked / 65 total, +13 since baseline 52. UNESCO official list https://whc.unesco.org/en/statesparties/py checked against existing inventory: 1 inscribed property (both Jesuit mission components) and 12 tentative represented; three tentative unassessed (Médanos, Tinfunqué, rock art). No serial-boundary verification. Caacupé pilgrimage distinct from basilica; Guarania and Poncho techniques have UNESCO intangible recognition, named public programmes are not themselves inscribed properties. Ñandutí festival no inscription claim. Chaco salt lagoons grouped distinct from Pantanal; San Rafael limited to arranged authorized visitor trails, not whole reserve. Filadelfia circuit excludes already listed Jakob Unger museum. Existing ratings and three unassessed preserved. OPEN for other public festivals, named wildlife reserves and regional heritage. Coordinates approximate; permissions, future schedules and access unverified.
