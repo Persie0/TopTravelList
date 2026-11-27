@@ -2259,3 +2259,578 @@ Peer ranking rows checked; individual YAML and international calibration pending
 - Overall: 85.85/100.
 - Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
+
+## sight-fr-abbaye-thoronet — Abbaye du Thoronet Cistercian Abbey — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/abbaye-thoronet.yaml)
+- Action: new
+- Scope: Abbey complex and distinctive acoustics, not guaranteed musical performance.
+- Representative coordinates: 43.459, 6.264; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.1 / 8.9.
+- Categories: architecture:9.4, history:9.3, culture:9.3, photography:9.2.
+- Overall: 91.20/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.monuments-nationaux.fr/en/conservation-and-research/built-heritage/monument-families/the-monasteries/thoronet-abbey ; https://www.le-thoronet.fr/en/decouvrir/understanding-the-acoustics-of-le-thoronet-abbey.
+- Rationale: CMN documents medieval Cistercian architecture and unusually long church reverberation; acoustics provide distinctive additional experience.
+- High-score challenge: 90+ provisional editorial assessment informed by sources and domestic peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/abbaye-fontfroide](../../../countries/FR/sights/abbaye-fontfroide.yaml) | 9.0 / 9.0 / 9.1 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; significance: +0.1 vs peer |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [FR/abbaye-senanque](../../../countries/FR/sights/abbaye-senanque.yaml) | 9.0 / 9.0 / 9.0 / 8.9 / 8.6 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer |
+| [FR/abbaye-silvacane](../../../countries/FR/sights/abbaye-silvacane.yaml) | 8.7 / 8.9 / 8.9 / 8.7 / 8.6 | uniqueness: +0.4 vs peer; experience: +0.4 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-mamac-nice — MAMAC Nice Modern and Contemporary Art Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/mamac-nice.yaml)
+- Action: new
+- Scope: Permanent collections and normal museum experience, building temporarily closed for renovation; excludes UNESCO resort architecture.
+- Representative coordinates: 43.701, 7.278; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.1 / 9.3.
+- Categories: culture:9.4, history:9.2.
+- Overall: 91.15/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.nice.fr/lieux/musee-dart-moderne-et-dart-contemporain/ ; https://www.mamac-nice.org/en/the-collection/ ; https://www.explorenicecotedazur.com/en/culture/musee-dart-moderne-et-dart-contemporain-de-nice-mamac-ferme-pour-travaux/.
+- Rationale: City reports more than 1,400 works and 370 artists, including major Klein and Saint Phalle holdings. Renovation closure recorded, not penalized.
+- High-score challenge: 90+ provisional editorial assessment informed by sources and domestic peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/fondation-maeght](../../../countries/FR/sights/fondation-maeght.yaml) | 9.2 / 9.4 / 9.3 / 9.2 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [FR/musee-soulages](../../../countries/FR/sights/musee-soulages.yaml) | 9.0 / 9.4 / 9.2 / 9.1 / 9.1 | uniqueness: -0.2 vs peer; depth: +0.2 vs peer |
+| [FR/les-abattoirs](../../../countries/FR/sights/les-abattoirs.yaml) | 8.7 / 8.8 / 8.7 / 8.8 / 8.8 | depth: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [FR/luma-arles](../../../countries/FR/sights/luma-arles.yaml) | 9.0 / 9.2 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-claree-valley — Haute Vallée de la Clarée Alpine Lakes and Hiking Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/claree-valley.yaml)
+- Action: new
+- Scope: Protected upper valley and lake hikes, excludes independently rated mountain lifts and Écrins.
+- Representative coordinates: 45.048, 6.547; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.7 / 9.2 / 9.1.
+- Categories: nature:9.4, photography:9.4, adventure:9.3.
+- Overall: 90.95/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.hautesvallees.com/la-claree/en/decouvrir/nos-incontournables/haute-vallee-de-la-claree/ ; https://provence-alpes-cotedazur.com/decouvrir/espaces-naturels/patrimoine-naturel/les-16-lacs-classes-de-la-haute-vallee-de-la-claree-nevache-fr-3260817/.
+- Rationale: Local tourism describes protected Natura 2000 upper valley and sixteen designated alpine lakes.
+- High-score challenge: 90+ provisional editorial assessment informed by sources and domestic peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/neouvielle-reserve](../../../countries/FR/sights/neouvielle-reserve.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.2 | significance: -0.2 vs peer; depth: -0.1 vs peer |
+| [FR/bouillouses-lakes](../../../countries/FR/sights/bouillouses-lakes.yaml) | 9.3 / 9.0 / 8.6 / 9.2 / 9.1 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [FR/ecrins](../../../countries/FR/sights/ecrins.yaml) | 9.4 / 9.1 / 9.0 / 9.2 / 9.4 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [FR/mercantour](../../../countries/FR/sights/mercantour.yaml) | 9.2 / 9.1 / 9.0 / 9.1 / 9.3 | significance: -0.3 vs peer; depth: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-meije-cable-car — La Grave Glaciers de la Meije Cable Cars and Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/meije-cable-car.yaml)
+- Action: new
+- Scope: Lift journey and authorized station viewpoints; excludes glacier trekking and broader Écrins nature scope.
+- Representative coordinates: 45.044, 6.305; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 8.7 / 9.2 / 8.8.
+- Categories: nature:9.4, photography:9.4, adventure:9.2.
+- Overall: 90.90/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.hautesvallees.com/la-grave/que-faire/telepheriques-des-glaciers-de-la-meije/ ; https://www.hautesvallees.com/la-grave/equipement/telepheriques-des-glaciers-de-la-meije-la-grave/.
+- Rationale: Lift reaches approximately 3,200 m with views toward Meije and Girose; no glacier travel assumed. Natural overlap flagged.
+- High-score challenge: 90+ provisional editorial assessment informed by sources and domestic peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/artouste-railway](../../../countries/FR/sights/artouste-railway.yaml) | 9.2 / 9.2 / 8.6 / 9.2 / 8.8 | impact: +0.1 vs peer; significance: +0.1 vs peer |
+| [FR/la-rhune](../../../countries/FR/sights/la-rhune.yaml) | 9.1 / 9.2 / 8.7 / 9.2 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+| [FR/ecrins](../../../countries/FR/sights/ecrins.yaml) | 9.4 / 9.1 / 9.0 / 9.2 / 9.4 | depth: -0.6 vs peer; significance: -0.3 vs peer |
+| [FR/neouvielle-reserve](../../../countries/FR/sights/neouvielle-reserve.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.2 | depth: -0.4 vs peer; significance: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-queyras-mountain-trails — Queyras Regional Natural Park Alpine Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/queyras-mountain-trails.yaml)
+- Action: new
+- Scope: Park mountain trails and lakes; excludes separate Saint-Véran built heritage.
+- Representative coordinates: 44.75, 6.83; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.8 / 9.2 / 9.3.
+- Categories: nature:9.4, adventure:9.3, photography:9.4.
+- Overall: 90.50/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.pnr-queyras.fr/informations-pratiques/ ; https://www.pnr-queyras.fr/visiter-le-parc/reglementation-et-infos-pratiques/.
+- Rationale: Park authority documents established hiking network and protected landscape; provisional breadth estimate, no individual trail verification.
+- High-score challenge: 90+ provisional editorial assessment informed by sources and domestic peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/ecrins](../../../countries/FR/sights/ecrins.yaml) | 9.4 / 9.1 / 9.0 / 9.2 / 9.4 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [FR/mercantour](../../../countries/FR/sights/mercantour.yaml) | 9.2 / 9.1 / 9.0 / 9.1 / 9.3 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+| [FR/pyrenees-park](../../../countries/FR/sights/pyrenees-park.yaml) | 9.3 / 9.1 / 9.0 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [FR/neouvielle-reserve](../../../countries/FR/sights/neouvielle-reserve.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-gorges-daluis — Gorges de Daluis Red Rock Canyon Nature Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/gorges-daluis.yaml)
+- Action: new
+- Scope: Protected red rock gorge and authorized viewpoints and marked trails; not unqualified canyoning.
+- Representative coordinates: 44.027, 6.821; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 8.6 / 9.0 / 8.7.
+- Categories: nature:9.4, photography:9.4, adventure:9.2.
+- Overall: 90.25/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://randoxygene.departement06.fr/gorges-de-daluis ; https://randoxygene.departement06.fr/itinerance/balcons-des-gorges-de-daluis.
+- Rationale: Department confirms designated regional reserve and two-day red-rock gorge trail.
+- High-score challenge: 90+ provisional editorial assessment informed by sources and domestic peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/gorges-du-tarn](../../../countries/FR/sights/gorges-du-tarn.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.1 | depth: -0.4 vs peer; experience: -0.3 vs peer |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | 9.5 / 9.2 / 8.8 / 9.2 / 9.2 | depth: -0.5 vs peer; impact: -0.3 vs peer |
+| [FR/cirque-navacelles](../../../countries/FR/sights/cirque-navacelles.yaml) | 9.3 / 9.1 / 8.6 / 9.1 / 8.8 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+| [FR/esterel-massif](../../../countries/FR/sights/esterel-massif.yaml) | 9.3 / 9.1 / 8.6 / 9.2 / 9.0 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-trophee-auguste — Trophée d’Auguste La Turbie Roman Monument — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/trophee-auguste.yaml)
+- Action: new
+- Scope: Ancient trophy, reconstructed portions and interpretation, not fully original intact monument.
+- Representative coordinates: 43.744, 7.401; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 8.7 / 8.4.
+- Categories: history:9.4, architecture:9.4, photography:9.2.
+- Overall: 90.50/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.trophee-auguste.fr/decouvrir/histoire-du-trophee-d-auguste ; https://www.ville-la-turbie.fr/trophee-dauguste/ ; https://www.trophee-auguste.fr/decouvrir/la-renaissance-du-trophee.
+- Rationale: Roman monument dedicated in 7/6 BCE, significant surviving and reconstructed architecture and coastal panorama.
+- High-score challenge: 90+ provisional editorial assessment informed by sources and domestic peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/maison-carree](../../../countries/FR/sights/maison-carree.yaml) | 8.9 / 9.2 / 9.4 / 8.6 / 7.7 | depth: +0.7 vs peer; impact: +0.1 vs peer |
+| [FR/pont-du-gard](../../../countries/FR/sights/pont-du-gard.yaml) | 9.4 / 9.2 / 9.4 / 9.1 / 8.5 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+| [FR/orange](../../../countries/FR/sights/orange.yaml) | 9.1 / 9.1 / 9.3 / 8.9 / 8.4 | uniqueness: +0.2 vs peer; experience: -0.2 vs peer |
+| [FR/glanum](../../../countries/FR/sights/glanum.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.1 | depth: -0.7 vs peer; uniqueness: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-musee-merveilles-tende — Musée Départemental des Merveilles Tende Archaeology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-merveilles-tende.yaml)
+- Action: new
+- Scope: Museum objects and interpretation; excludes in situ rock carvings inside Mercantour.
+- Representative coordinates: 44.088, 7.596; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 9.2 / 9.2 / 8.9 / 9.0.
+- Categories: history:9.4, culture:9.3, family:9.0.
+- Overall: 89.85/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.departement06.fr/musee-departemental-des-merveilles ; https://portail-savoirs.departement06.fr/annuaire-general/les-gravures-du-mont-bego.
+- Rationale: Museum preserves original rock art evidence; in situ carvings excluded from museum score.
+- High-score challenge: Source-informed screen below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-fenaille](../../../countries/FR/sights/musee-fenaille.yaml) | 8.8 / 9.3 / 9.3 / 8.9 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/musee-national-prehistoire](../../../countries/FR/sights/musee-national-prehistoire.yaml) | 8.8 / 9.2 / 9.4 / 8.9 / 9.2 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [FR/musee-tautavel](../../../countries/FR/sights/musee-tautavel.yaml) | 8.6 / 9.1 / 9.2 / 8.8 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/musee-prehistoire-quinson](../../../countries/FR/sights/musee-prehistoire-quinson.yaml) | 8.7 / 9.0 / 9.1 / 8.9 / 9.0 | uniqueness: +0.2 vs peer; significance: +0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-serre-poncon-lake — Lac de Serre-Ponçon Lake and Dam Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/serre-poncon-lake.yaml)
+- Action: new
+- Scope: Reservoir, dam viewpoints and public recreation; not entire Durance basin.
+- Representative coordinates: 44.515, 6.346; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 9.2 / 9.1.
+- Categories: nature:9.2, photography:9.3, relaxation:9.3, adventure:9.2.
+- Overall: 89.10/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.serreponconvallees.com/s-inspirer/idees-experiences/decouvrir-lac-serre-poncon ; https://www.blancheserreponcon-tourisme.com/decouvrir/les-incontournables/lac-de-serre-poncon/.
+- Rationale: Tourism documents reservoir panoramas, water recreation and twentieth-century dam heritage; no size record asserted.
+- High-score challenge: Source-informed screen below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/lac-payolle](../../../countries/FR/sights/lac-payolle.yaml) | 8.6 / 8.5 / 8.1 / 8.8 / 8.5 | depth: +0.6 vs peer; significance: +0.5 vs peer |
+| [FR/salagou-moureze](../../../countries/FR/sights/salagou-moureze.yaml) | 9.0 / 8.9 / 8.4 / 9.0 / 8.8 | depth: +0.3 vs peer; significance: +0.2 vs peer |
+| [FR/bouillouses-lakes](../../../countries/FR/sights/bouillouses-lakes.yaml) | 9.3 / 9.0 / 8.6 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/lac-vassiviere](../../../countries/FR/sights/lac-vassiviere.yaml) | 8.7 / 8.6 / 8.3 / 9.0 / 8.9 | impact: +0.3 vs peer; significance: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-frejus-roman-sites — Fréjus Roman Amphitheatre and Archaeological Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/frejus-roman-sites.yaml)
+- Action: new
+- Scope: Roman amphitheatre, theatre and aqueduct heritage; excludes cathedral.
+- Representative coordinates: 43.434, 6.729; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.8 / 8.9.
+- Categories: history:9.4, architecture:9.2, culture:9.1.
+- Overall: 88.85/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.frejus.fr/decouvrir/patrimoine-historique/patrimoine-romain/ ; https://billetterie.frejus.fr/20-frejus-ville-romaine.
+- Rationale: Municipal tourism confirms amphitheatre, aqueduct and theatre in ancient heritage circuit.
+- High-score challenge: Source-informed screen below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/glanum](../../../countries/FR/sights/glanum.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.1 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [FR/vaison-roman-sites](../../../countries/FR/sights/vaison-roman-sites.yaml) | 9.2 / 9.2 / 9.4 / 9.1 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [FR/arles-monuments](../../../countries/FR/sights/arles-monuments.yaml) | 9.0 / 9.1 / 9.4 / 8.9 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/nimes-arena](../../../countries/FR/sights/nimes-arena.yaml) | 9.4 / 9.3 / 9.4 / 9.0 / 8.8 | impact: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saint-veran-village — Saint-Véran Historic Alpine Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-veran-village.yaml)
+- Action: new
+- Scope: Traditional mountain architecture and streets only; excludes Queyras nature trails.
+- Representative coordinates: 44.7, 6.868; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.8 / 8.9 / 8.7.
+- Categories: architecture:9.3, photography:9.3, culture:9.2.
+- Overall: 88.85/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.mairie-saintveran.fr/.
+- Rationale: Municipality identifies distinctive larch-log houses and elevation of 2,042 m; no highest-village record claimed.
+- High-score challenge: Source-informed screen below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/cordes-sur-ciel](../../../countries/FR/sights/cordes-sur-ciel.yaml) | 9.1 / 9.0 / 9.0 / 9.0 / 8.9 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [FR/gordes-village](../../../countries/FR/sights/gordes-village.yaml) | 9.0 / 8.8 / 8.6 / 8.9 / 8.5 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [FR/moustiers-sainte-marie](../../../countries/FR/sights/moustiers-sainte-marie.yaml) | 9.2 / 9.0 / 8.8 / 9.1 / 8.9 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+| [FR/castelnou-village](../../../countries/FR/sights/castelnou-village.yaml) | 8.8 / 8.8 / 8.7 / 8.8 / 8.5 | uniqueness: +0.2 vs peer; depth: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-musee-massena-nice — Musée Masséna Nice Riviera Art and History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-massena-nice.yaml)
+- Action: new
+- Scope: Collections and interpretation only; UNESCO resort architecture excluded.
+- Representative coordinates: 43.695, 7.258; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.9 / 8.8 / 8.8.
+- Categories: culture:9.3, history:9.2.
+- Overall: 87.85/100.
+- Decision: source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed search excerpts, 2026-11-27): https://www.nice.fr/lieux/musee-massena/.
+- Rationale: City describes Riviera history collections, independently scoped away from resort architecture.
+- High-score challenge: Source-informed screen below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-basque-bayonne](../../../countries/FR/sights/musee-basque-bayonne.yaml) | 8.7 / 9.0 / 9.0 / 8.8 / 9.0 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [FR/museon-arlaten](../../../countries/FR/sights/museon-arlaten.yaml) | 8.7 / 8.9 / 8.9 / 8.9 / 9.0 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [FR/musee-reattu](../../../countries/FR/sights/musee-reattu.yaml) | 8.7 / 8.9 / 8.9 / 8.8 / 8.9 | impact: -0.1 vs peer; depth: -0.1 vs peer |
+| [FR/musee-calvet](../../../countries/FR/sights/musee-calvet.yaml) | 8.7 / 8.9 / 9.0 / 8.8 / 9.0 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-cimiez-archaeology — Cimiez Roman Archaeological Site and Museum Nice — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cimiez-archaeology.yaml)
+- Action: new
+- Scope: Roman remains and archaeological collection, excludes Matisse museum.
+- Representative coordinates: 43.72, 7.277; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.7 / 8.7.
+- Categories: history:9.3, culture:9.1, architecture:9.1.
+- Overall: 87.55/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-villefranche-citadel — Citadelle Saint-Elme Villefranche-sur-Mer — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/villefranche-citadel.yaml)
+- Action: new
+- Scope: Fortified precinct and visitor exhibits.
+- Representative coordinates: 43.702, 7.313; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.8 / 8.6.
+- Categories: architecture:9.2, history:9.2, photography:9.3.
+- Overall: 87.70/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chartreuse-verne — Chartreuse de la Verne Historic Monastery — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chartreuse-verne.yaml)
+- Action: new
+- Scope: Monastery public visitor areas, not surrounding forest.
+- Representative coordinates: 43.238, 6.386; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.6 / 8.6.
+- Categories: architecture:9.3, history:9.2, photography:9.1.
+- Overall: 87.20/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-gorges-loup — Gorges du Loup and Saut du Loup Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/gorges-loup.yaml)
+- Action: new
+- Scope: Gorge and designated waterfall viewpoints, not uncontrolled water access.
+- Representative coordinates: 43.725, 6.999; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.3 / 8.8 / 8.5.
+- Categories: nature:9.2, photography:9.3, adventure:9.1.
+- Overall: 86.45/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-gourdon-village — Gourdon Historic Hilltop Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/gourdon-village.yaml)
+- Action: new
+- Scope: Village public streets and viewpoints, excludes gorge.
+- Representative coordinates: 43.72, 6.978; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.5 / 8.8 / 8.4.
+- Categories: photography:9.3, architecture:9.1, relaxation:9.1.
+- Overall: 86.75/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saorge-monastery — Saorge Historic Franciscan Monastery — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saorge-monastery.yaml)
+- Action: new
+- Scope: Monastery visitor circuit and interiors.
+- Representative coordinates: 43.986, 7.552; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.9 / 8.7 / 8.6.
+- Categories: architecture:9.3, history:9.2, culture:9.1.
+- Overall: 87.50/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saorge-village — Saorge Historic Terraced Mountain Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saorge-village.yaml)
+- Action: new
+- Scope: Village street fabric, excludes monastery.
+- Representative coordinates: 43.988, 7.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.7 / 8.4.
+- Categories: photography:9.3, architecture:9.1, relaxation:9.0.
+- Overall: 86.30/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-gorges-cians — Gorges du Cians Scenic Red Rock Canyon Route — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/gorges-cians.yaml)
+- Action: new
+- Scope: Distinct Cians river canyon, not Daluis; road closures not penalized.
+- Representative coordinates: 44.031, 7.011; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.8 / 8.5.
+- Categories: nature:9.3, photography:9.3, adventure:9.1.
+- Overall: 87.20/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-sospel-old-town — Sospel Historic Town and Old Bridge — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sospel-old-town.yaml)
+- Action: new
+- Scope: Old bridge and streets.
+- Representative coordinates: 43.878, 7.449; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.7 / 8.7 / 8.4.
+- Categories: architecture:9.1, history:9.1, photography:9.1.
+- Overall: 85.30/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-tende-old-town — Tende Historic Alpine Town and Collegiate Church — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/tende-old-town.yaml)
+- Action: new
+- Scope: Town and religious architecture, excludes archaeology museum.
+- Representative coordinates: 44.087, 7.594; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.8 / 8.7 / 8.5.
+- Categories: architecture:9.2, history:9.2, photography:9.1.
+- Overall: 86.40/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-frejus-cathedral — Fréjus Cathedral and Medieval Cloister — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/frejus-cathedral.yaml)
+- Action: new
+- Scope: Medieval episcopal complex and baptistery, separate from Roman sites.
+- Representative coordinates: 43.433, 6.736; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.7 / 8.5.
+- Categories: architecture:9.3, history:9.3, culture:9.1.
+- Overall: 87.90/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-fondation-carmignac — Villa Carmignac Porquerolles Contemporary Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/fondation-carmignac.yaml)
+- Action: new
+- Scope: Art exhibition and sculpture garden only, excludes island natural landscape already within Port-Cros.
+- Representative coordinates: 43.002, 6.212; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 8.6 / 8.9 / 8.7.
+- Categories: culture:9.3, architecture:9.2, photography:9.1.
+- Overall: 87.85/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-massif-maures — Massif des Maures Forest and Mountain Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/massif-maures.yaml)
+- Action: new
+- Scope: Forest hiking landscapes excluding separate monastery.
+- Representative coordinates: 43.258, 6.351; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.4 / 8.8 / 8.8.
+- Categories: nature:9.2, adventure:9.1, relaxation:9.1.
+- Overall: 86.10/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-embrun-cathedral — Embrun Historic Cathedral and Old Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/embrun-cathedral.yaml)
+- Action: new
+- Scope: Cathedral and town historic fabric, excludes reservoir.
+- Representative coordinates: 44.565, 6.496; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.9 / 8.7 / 8.6.
+- Categories: architecture:9.2, history:9.2, photography:9.1.
+- Overall: 86.75/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-picomtal — Château de Picomtal Historic Castle and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-picomtal.yaml)
+- Action: new
+- Scope: Historic castle visitor experience, no lodging assumption.
+- Representative coordinates: 44.538, 6.474; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.6 / 8.7 / 8.4.
+- Categories: architecture:9.1, history:9.0, photography:9.1.
+- Overall: 85.35/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-col-izoard — Col d’Izoard Casse Déserte Mountain Pass — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/col-izoard.yaml)
+- Action: new
+- Scope: Pass and Casse Déserte roadside geological landscape; Queyras geographic overlap flagged.
+- Representative coordinates: 44.819, 6.735; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.9 / 8.5.
+- Categories: nature:9.3, photography:9.4, adventure:9.2.
+- Overall: 87.25/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-domaine-charance — Domaine de Charance Gap Gardens and Mountain Walks — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/domaine-charance.yaml)
+- Action: new
+- Scope: Estate gardens and local trail network.
+- Representative coordinates: 44.583, 6.044; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.3 / 8.7 / 8.7.
+- Categories: nature:9.1, photography:9.1, relaxation:9.2.
+- Overall: 85.10/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-demoiselles-coiffees-theus — Demoiselles Coiffées de Théus Eroded Rock Formations — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/demoiselles-coiffees-theus.yaml)
+- Action: new
+- Scope: Distinct erosion pillars and authorized viewpoints.
+- Representative coordinates: 44.482, 6.193; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.3 / 8.6 / 8.3.
+- Categories: nature:9.2, photography:9.3.
+- Overall: 86.15/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.

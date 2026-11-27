@@ -2038,3 +2038,38 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Bormes-les-Mimosas Historic Hill Village: 85.85/100 (desk-based provisional).
 
 30 additions, 19 fast provisional estimates, 11 source-informed candidates, 9 90+, 43 peer comparisons. France 595 ranked / 606 total; 11 existing unassessed unchanged. Nice resort architecture excluded from new museum scope (https://whc.unesco.org/en/list/1635/maps/). Porquerolles deferred pending Port-Cros scope review (https://portcros-parcnational.fr/votre-visite/informations-pratiques). 1 peer references not located (grasse-perfume-museum/musee-champollion); domestic calibration only. Next bounded screen: Riviera remaining: Nice MAMAC and other collections, archaeological museum Cimiez, Musée Masséna collection scope, Villefranche citadel, Trophée des Alpes, Fréjus Roman monuments, Thoronet Abbey, Chartreuse de la Verne, Gorges du Loup, Gourdon, Saorge, inland Roya sites, then Hautes-Alpes and Auvergne-Rhône-Alpes. Full Python validation pending.
+
+### Pass 153 — accelerated remaining Riviera and Hautes-Alpes audit
+
+- [x] FR — Abbaye du Thoronet Cistercian Abbey: 91.20/100 (source-linked-unverified).
+- [x] FR — MAMAC Nice Modern and Contemporary Art Collections: 91.15/100 (source-linked-unverified).
+- [x] FR — Haute Vallée de la Clarée Alpine Lakes and Hiking Trails: 90.95/100 (source-linked-unverified).
+- [x] FR — La Grave Glaciers de la Meije Cable Cars and Viewpoints: 90.90/100 (source-linked-unverified).
+- [x] FR — Queyras Regional Natural Park Alpine Trails: 90.50/100 (source-linked-unverified).
+- [x] FR — Gorges de Daluis Red Rock Canyon Nature Reserve: 90.25/100 (source-linked-unverified).
+- [x] FR — Trophée d’Auguste La Turbie Roman Monument: 90.50/100 (source-linked-unverified).
+- [x] FR — Musée Départemental des Merveilles Tende Archaeology Museum: 89.85/100 (source-linked-unverified).
+- [x] FR — Lac de Serre-Ponçon Lake and Dam Viewpoints: 89.10/100 (source-linked-unverified).
+- [x] FR — Fréjus Roman Amphitheatre and Archaeological Heritage: 88.85/100 (source-linked-unverified).
+- [x] FR — Saint-Véran Historic Alpine Village: 88.85/100 (source-linked-unverified).
+- [x] FR — Musée Masséna Nice Riviera Art and History Collections: 87.85/100 (source-linked-unverified).
+- [x] FR — Cimiez Roman Archaeological Site and Museum Nice: 87.55/100 (desk-based provisional).
+- [x] FR — Citadelle Saint-Elme Villefranche-sur-Mer: 87.70/100 (desk-based provisional).
+- [x] FR — Chartreuse de la Verne Historic Monastery: 87.20/100 (desk-based provisional).
+- [x] FR — Gorges du Loup and Saut du Loup Waterfalls: 86.45/100 (desk-based provisional).
+- [x] FR — Gourdon Historic Hilltop Village: 86.75/100 (desk-based provisional).
+- [x] FR — Saorge Historic Franciscan Monastery: 87.50/100 (desk-based provisional).
+- [x] FR — Saorge Historic Terraced Mountain Village: 86.30/100 (desk-based provisional).
+- [x] FR — Gorges du Cians Scenic Red Rock Canyon Route: 87.20/100 (desk-based provisional).
+- [x] FR — Sospel Historic Town and Old Bridge: 85.30/100 (desk-based provisional).
+- [x] FR — Tende Historic Alpine Town and Collegiate Church: 86.40/100 (desk-based provisional).
+- [x] FR — Fréjus Cathedral and Medieval Cloister: 87.90/100 (desk-based provisional).
+- [x] FR — Villa Carmignac Porquerolles Contemporary Art Museum: 87.85/100 (desk-based provisional).
+- [x] FR — Massif des Maures Forest and Mountain Trails: 86.10/100 (desk-based provisional).
+- [x] FR — Embrun Historic Cathedral and Old Town: 86.75/100 (desk-based provisional).
+- [x] FR — Château de Picomtal Historic Castle and Gardens: 85.35/100 (desk-based provisional).
+- [x] FR — Col d’Izoard Casse Déserte Mountain Pass: 87.25/100 (desk-based provisional).
+- [x] FR — Domaine de Charance Gap Gardens and Mountain Walks: 85.10/100 (desk-based provisional).
+- [x] FR — Demoiselles Coiffées de Théus Eroded Rock Formations: 86.15/100 (desk-based provisional).
+
+30 additions, 18 fast provisional estimates, 12 source-informed candidates, 7 90+, 48 peer comparisons. France 625 ranked / 636 total; 11 existing unassessed unchanged. Porquerolles core park confirmed (https://destination.portcros-parcnational.fr/fr/trek/654-Sentier-des-cretes-de-Porquerolles); Carmignac art separately scoped. Briançon and Mont-Dauphin fortifications covered by Vauban (https://whc.unesco.org/en/list/1283/maps/). In situ Merveilles carvings deferred under Mercantour overlap (https://mercantour-parcnational.fr/votre-visite/decouvrir-le-parc-national/vallees-des-merveilles-et-de-fontanalba); museum separate. Meije lift scope excludes glacier trekking and existing park nature; MAMAC renovation excluded as intrinsic penalty. 0 peer references not located (); domestic calibration only. Next bounded screen: Auvergne-Rhône-Alpes: Alpine independent sites in Isère, Savoie and Haute-Savoie; Grenoble museums and Bastille cable car, Chartreuse and Vercors (park overlap), Chambéry, Annecy, Chamonix separate lift/rail experiences, Lyon independent museums and UNESCO scope, plus residual Hautes-Alpes. Full Python validation pending.
