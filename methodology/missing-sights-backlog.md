@@ -4023,3 +4023,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Roosevelt Campobello International Park Heritage Estate: 87.10/100 (desk-based provisional).
 
 18 additions, 10 desk-based provisional, 8 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 252 ranked / 255 total. Tumbler Ridge geosites grouped; Kinngait centre excludes private studios; Revelstoke resort excludes national park; Churchill Saskatchewan excludes Manitoba estuary; Fundy Trail excludes Fundy National Park and whole Fundy Footpath; St Martins village caves outside park. Citadelle of Québec deferred pending Old Québec overlap audit (https://www.lacitadelle.qc.ca/en/the-fortress). Kicking Horse vertical superlative omitted due to conflicting operator pages. New coordinates approximate; access and schedules not verified. Existing scores and three unassessed retained. Regional screen remains open.
+
+### Pass 231 — Canada specialist collections, festivals and regional landscapes
+
+- [x] CA — Hockey Hall of Fame Toronto: 92.45/100 (source-linked-unverified).
+- [x] CA — Edmonton International Fringe Theatre Festival: 92.20/100 (source-linked-unverified).
+- [x] CA — Pride Toronto Festival and Parade: 91.60/100 (source-linked-unverified).
+- [x] CA — Bata Shoe Museum Toronto: 90.85/100 (source-linked-unverified).
+- [x] CA — Discovery UNESCO Global Geopark Bonavista Peninsula Geological Trails: 91.75/100 (source-linked-unverified).
+- [x] CA — Okanagan Valley Vineyard Landscapes and Culinary Heritage: 90.20/100 (source-linked-unverified).
+- [x] CA — Niagara Peninsula Vineyard and Icewine Heritage: 88.65/100 (desk-based provisional).
+- [x] CA — Peggy’s Cove Lighthouse and Granite Coastal Landscape: 86.90/100 (desk-based provisional).
+- [x] CA — Fort William Historical Park Thunder Bay: 88.90/100 (desk-based provisional).
+- [x] CA — Fort Walsh National Historic Site Saskatchewan: 86.15/100 (desk-based provisional).
+- [x] CA — Basilica of Sainte-Anne-de-Beaupré: 87.75/100 (desk-based provisional).
+- [x] CA — VanDusen Botanical Garden Vancouver: 86.00/100 (desk-based provisional).
+- [x] CA — Muskoka Lakes Scenic Heritage Cruises: 86.80/100 (desk-based provisional).
+- [x] CA — Montréal Insectarium: 87.70/100 (desk-based provisional).
+- [x] CA — Queen Elizabeth Park Vancouver Quarry Gardens and Viewpoints: 83.35/100 (desk-based provisional).
+- [x] CA — National Arts Centre Ottawa Public Performing Arts: 87.60/100 (desk-based provisional).
+- [x] CA — Takhini Hot Springs Whitehorse Thermal Bathing: 84.75/100 (desk-based provisional).
+- [x] CA — Pinery Provincial Park Lake Huron Dunes and Oak Savanna: 86.95/100 (desk-based provisional).
+
+18 additions, 12 desk-based provisional, 6 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 270 ranked / 273 total. Discovery geopark excludes Cape Bonavista lighthouse/adjacent viewpoints and iceberg cruises; Okanagan excludes Myra Canyon; Niagara vineyards exclude historic town and Shaw Festival. Vancouver Celebration of Light indefinitely cancelled (https://vancouver.citynews.ca/2025/11/26/vancouvers-honda-celebration-of-light-fireworks-cancelled-indefinitely/); one-night 2026 replacement not same event (https://vancouver.ca/news-calendar/announcing-summer-lights-in-english-bay-june-2026.aspx). Defer until permanent event status/scope assessed; not a score reduction due to temporary closure. Existing scores and three unassessed retained. New coordinates approximate; current access and schedules not verified. Regional screen remains open.

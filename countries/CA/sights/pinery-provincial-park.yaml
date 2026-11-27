@@ -1,0 +1,16 @@
+id: sight-ca-pinery-provincial-park
+name: "Pinery Provincial Park Lake Huron Dunes and Oak Savanna"
+location:
+  country_code: CA
+  latitude: 43.25
+  longitude: -81.82
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    beaches: 9.2
+    wildlife: 9.2

@@ -6590,3 +6590,390 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 230 scope decisions
 
 18 additions, 10 desk-based provisional, 8 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 252 ranked / 255 total. Tumbler Ridge geosites grouped; Kinngait centre excludes private studios; Revelstoke resort excludes national park; Churchill Saskatchewan excludes Manitoba estuary; Fundy Trail excludes Fundy National Park and whole Fundy Footpath; St Martins village caves outside park. Citadelle of Québec deferred pending Old Québec overlap audit (https://www.lacitadelle.qc.ca/en/the-fortress). Kicking Horse vertical superlative omitted due to conflicting operator pages. New coordinates approximate; access and schedules not verified. Existing scores and three unassessed retained. Regional screen remains open.
+
+## sight-ca-hockey-hall-of-fame — Hockey Hall of Fame Toronto — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/hockey-hall-of-fame.yaml)
+- Action: new
+- Scope: Museum reports world's largest hockey collection, including Stanley Cup exhibits and interactive displays; not live hockey matches.
+- Representative coordinates: 43.647, -79.377; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.2 / 9.3.
+- Categories: culture:9.4 history:9.4 family:9.3.
+- Overall: 92.45/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.hhof.com/visit/exhibitsandinteractives.html, https://www.hhof.com/thecollection/thecollection.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/studio-bell](../../../countries/CA/sights/studio-bell.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/canadian-canoe-museum](../../../countries/CA/sights/canadian-canoe-museum.yaml) | 8.9 / 9.4 / 9.3 / 9.0 / 9.3 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-edmonton-fringe — Edmonton International Fringe Theatre Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/edmonton-fringe.yaml)
+- Action: new
+- Scope: Annual independent theatre festival since 1982; organizer reports more than 200 productions across 37+ venues over 11 days and describes it as North America's largest and longest-running Fringe. Venue proxy.
+- Representative coordinates: 53.52, -113.49; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 9.3 / 9.3.
+- Categories: culture:9.4 nightlife:9.3 history:9.2.
+- Overall: 92.20/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.fringetheatre.ca/about-us/, https://www.fringetheatre.ca/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/shaw-festival](../../../countries/CA/sights/shaw-festival.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.2 vs peer |
+| [CA/stratford-festival](../../../countries/CA/sights/stratford-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.3 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-pride-toronto — Pride Toronto Festival and Parade — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/pride-toronto.yaml)
+- Action: new
+- Scope: Public annual LGBTQ+ cultural celebration and parade, founded 1981; historical community significance documented by organizer. No future dates or attendance estimates assumed.
+- Representative coordinates: 43.66, -79.38; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 9.3 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.3 nightlife:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.pridetoronto.com/about-us/, https://www.pridetoronto.com/home-festival-theme/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/toronto-caribbean-carnival](../../../countries/CA/sights/toronto-caribbean-carnival.yaml) | 9.2 / 9.1 / 9.1 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-bata-shoe-museum — Bata Shoe Museum Toronto — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/bata-shoe-museum.yaml)
+- Action: new
+- Scope: Specialist footwear museum with nearly 15,000 objects spanning 4,500 years, over 1,000 regularly on display; collection and architecture grouped.
+- Representative coordinates: 43.668, -79.4; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.4 / 9.2 / 8.9 / 9.2.
+- Categories: history:9.4 culture:9.4 architecture:9.2.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://batashoemuseum.ca/about-us/, https://batashoemuseum.ca/allaboutshoes/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/aga-khan-museum](../../../countries/CA/sights/aga-khan-museum.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+| [CA/canadian-canoe-museum](../../../countries/CA/sights/canadian-canoe-museum.yaml) | 8.9 / 9.4 / 9.3 / 9.0 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-discovery-geopark — Discovery UNESCO Global Geopark Bonavista Peninsula Geological Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/discovery-geopark.yaml)
+- Action: new
+- Scope: Public Ediacaran interpretation and geological coastal trails in Bonavista Peninsula; UNESCO documents over 280 km of coastline and exceptionally preserved fossils. Exclude already ranked Cape Bonavista lighthouse and adjacent coastal viewpoints, and separate iceberg cruises. Regional proxy; no fossil collection or sensitive locality pins.
+- Representative coordinates: 48.48, -53.15; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.0 / 9.1.
+- Categories: nature:9.4 photography:9.4 history:9.3.
+- Overall: 91.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.unesco.org/en/articles/unesco-designates-15-new-geoparks-asia-europe-and-latin-america, https://discoverygeopark.com/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/tumbler-ridge-geopark](../../../countries/CA/sights/tumbler-ridge-geopark.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/mistaken-point](../../../countries/CA/sights/mistaken-point.yaml) | 8.1 / 9.2 / 9.4 / 8.0 / 7.6 | impact: +1.0 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-okanagan-wine-country — Okanagan Valley Vineyard Landscapes and Culinary Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/okanagan-wine-country.yaml)
+- Action: new
+- Scope: Regional vineyard landscape, public estate visits and culinary experiences grouped. BC Wine Authority describes region as its largest, extending over 250 km. No product recommendations; excludes Myra Canyon cycling and independent lake recreation.
+- Representative coordinates: 49.57, -119.64; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 9.3 / 9.3.
+- Categories: food:9.4 photography:9.3 relaxation:9.3.
+- Overall: 90.20/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcvqa.ca/geo_indication/okanagan-valley/, https://winebc.com/wine-regions/okanagan-valley/?gad=1.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/rocky-mountaineer](../../../countries/CA/sights/rocky-mountaineer.yaml) | 9.3 / 9.1 / 8.9 / 9.3 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [CA/niagara-on-the-lake](../../../countries/CA/sights/niagara-on-the-lake.yaml) | 8.6 / 8.5 / 8.7 / 8.8 / 8.7 | impact: +0.3 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-niagara-vineyards — Niagara Peninsula Vineyard and Icewine Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/niagara-vineyards.yaml)
+- Action: new
+- Scope: Regional vineyard visits and production heritage; excludes Niagara-on-the-Lake historic streets and Shaw Festival.
+- Representative coordinates: 43.18, -79.4; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 9.0 / 8.9.
+- Categories: food:9.4 relaxation:9.2 photography:9.2.
+- Overall: 88.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/niagara-on-the-lake](../../../countries/CA/sights/niagara-on-the-lake.yaml) | 8.6 / 8.5 / 8.7 / 8.8 / 8.7 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-peggys-cove — Peggy’s Cove Lighthouse and Granite Coastal Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/peggys-cove.yaml)
+- Action: new
+- Scope: Public coastal landscape and lighthouse exterior; no unsafe rock access.
+- Representative coordinates: 44.492, -63.918; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.6 / 8.6 / 8.8 / 8.3.
+- Categories: photography:9.4 nature:9.2 history:9.1.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/cape-spear](../../../countries/CA/sights/cape-spear.yaml) | 8.7 / 8.6 / 8.7 / 8.7 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+| [CA/cape-bonavista](../../../countries/CA/sights/cape-bonavista.yaml) | 8.7 / 8.7 / 8.8 / 8.7 / 8.6 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-william — Fort William Historical Park Thunder Bay — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-william.yaml)
+- Action: new
+- Scope: Reconstructed fur trade post and public living history interpretation.
+- Representative coordinates: 48.35, -89.36; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.9 / 9.0.
+- Categories: history:9.4 culture:9.3 family:9.3.
+- Overall: 88.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fort-edmonton](../../../countries/CA/sights/fort-edmonton.yaml) | 8.6 / 8.6 / 8.9 / 8.8 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.3 vs peer |
+| [CA/fortress-louisbourg](../../../countries/CA/sights/fortress-louisbourg.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-walsh — Fort Walsh National Historic Site Saskatchewan — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-walsh.yaml)
+- Action: new
+- Scope: Historic mounted police post interpretation; separately managed site within broader Cypress Hills landscape; excludes park recreation.
+- Representative coordinates: 49.57, -109.88; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.7 / 9.0 / 8.6 / 8.6.
+- Categories: history:9.3 culture:9.2 family:9.1.
+- Overall: 86.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fort-henry](../../../countries/CA/sights/fort-henry.yaml) | 8.6 / 8.6 / 9.0 / 8.8 / 8.8 | impact: -0.3 vs peer; uniqueness: +0.1 vs peer |
+| [CA/batoche](../../../countries/CA/sights/batoche.yaml) | 8.5 / 8.8 / 9.3 / 8.7 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-sainte-anne-beaupre — Basilica of Sainte-Anne-de-Beaupré — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/sainte-anne-beaupre.yaml)
+- Action: new
+- Scope: Public pilgrimage basilica and architecture; respectful visit only.
+- Representative coordinates: 47.023, -70.928; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 9.0 / 8.6 / 8.7.
+- Categories: architecture:9.4 culture:9.3 history:9.2.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/st-joseph-oratory](../../../countries/CA/sights/st-joseph-oratory.yaml) | 8.7 / 8.6 / 9.0 / 8.7 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/notre-dame-basilica-montreal](../../../countries/CA/sights/notre-dame-basilica-montreal.yaml) | 9.1 / 8.8 / 8.8 / 8.8 / 7.9 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-vandusen-garden — VanDusen Botanical Garden Vancouver — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/vandusen-garden.yaml)
+- Action: new
+- Scope: Botanical collections and seasonal public displays, including garden light events if offered.
+- Representative coordinates: 49.239, -123.128; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.4 / 8.9 / 8.8.
+- Categories: nature:9.3 photography:9.3 relaxation:9.2.
+- Overall: 86.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [CA/royal-botanical-gardens](../../../countries/CA/sights/royal-botanical-gardens.yaml) | 8.7 / 8.7 / 8.8 / 8.9 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-muskoka-lakes-cruises — Muskoka Lakes Scenic Heritage Cruises — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/muskoka-lakes-cruises.yaml)
+- Action: new
+- Scope: Scenic public cruises on Muskoka lakes; excludes Algonquin and Georgian Bay paddling.
+- Representative coordinates: 45.02, -79.62; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.5 / 9.0 / 8.7.
+- Categories: nature:9.3 relaxation:9.3 photography:9.2.
+- Overall: 86.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/georgian-bay-islands](../../../countries/CA/sights/georgian-bay-islands.yaml) | 8.7 / 8.8 / 8.8 / 8.9 / 8.7 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+| [CA/rocky-mountaineer](../../../countries/CA/sights/rocky-mountaineer.yaml) | 9.3 / 9.1 / 8.9 / 9.3 / 9.3 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montreal-insectarium — Montréal Insectarium — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montreal-insectarium.yaml)
+- Action: new
+- Scope: Separately ticketed insect exhibits, distinct from botanical garden and Biodôme; avoid counting shared admission as independent value.
+- Representative coordinates: 45.559, -73.553; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.6 / 8.9 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 family:9.3.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-biodome](../../../countries/CA/sights/montreal-biodome.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [CA/canadian-museum-nature](../../../countries/CA/sights/canadian-museum-nature.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-queen-elizabeth-park — Queen Elizabeth Park Vancouver Quarry Gardens and Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/queen-elizabeth-park.yaml)
+- Action: new
+- Scope: Public park gardens and vistas; excludes VanDusen.
+- Representative coordinates: 49.241, -123.112; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.0 / 8.7 / 8.4.
+- Categories: photography:9.2 relaxation:9.2 nature:9.1.
+- Overall: 83.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | impact: -0.1 vs peer; uniqueness: +0.3 vs peer |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-national-arts-centre — National Arts Centre Ottawa Public Performing Arts — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/national-arts-centre.yaml)
+- Action: new
+- Scope: Public concerts and theatre at national performing arts centre; no specific future programme assumed.
+- Representative coordinates: 45.423, -75.693; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.9 / 9.0 / 9.0.
+- Categories: culture:9.3 nightlife:9.2 architecture:9.1.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/stratford-festival](../../../countries/CA/sights/stratford-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.3 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.6 vs peer |
+| [CA/confederation-centre](../../../countries/CA/sights/confederation-centre.yaml) | 8.6 / 8.8 / 8.9 / 9.0 / 8.9 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-takhini-hot-springs — Takhini Hot Springs Whitehorse Thermal Bathing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/takhini-hot-springs.yaml)
+- Action: new
+- Scope: Thermal bathing destination, distinct from nearby Yukon Wildlife Preserve; current operator and access unverified.
+- Representative coordinates: 60.879, -135.358; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.1 / 8.9 / 8.5.
+- Categories: relaxation:9.4 nature:9.1 photography:9.0.
+- Overall: 84.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/liard-hot-springs](../../../countries/CA/sights/liard-hot-springs.yaml) | 8.7 / 8.9 / 8.4 / 8.9 / 8.5 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [CA/yukon-wildlife-preserve](../../../countries/CA/sights/yukon-wildlife-preserve.yaml) | 8.5 / 8.6 / 8.5 / 8.7 / 8.7 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-pinery-provincial-park — Pinery Provincial Park Lake Huron Dunes and Oak Savanna — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/pinery-provincial-park.yaml)
+- Action: new
+- Scope: Public Lake Huron dune and oak savanna trails and beach recreation.
+- Representative coordinates: 43.25, -81.82; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.7 / 8.8 / 8.8.
+- Categories: nature:9.3 beaches:9.2 wildlife:9.2.
+- Overall: 86.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/point-pelee](../../../countries/CA/sights/point-pelee.yaml) | 8.8 / 9.2 / 9.2 / 9.0 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.5 vs peer |
+| [CA/kouchibouguac](../../../countries/CA/sights/kouchibouguac.yaml) | 8.6 / 8.7 / 8.6 / 8.8 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 231 scope decisions
+
+18 additions, 12 desk-based provisional, 6 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 270 ranked / 273 total. Discovery geopark excludes Cape Bonavista lighthouse/adjacent viewpoints and iceberg cruises; Okanagan excludes Myra Canyon; Niagara vineyards exclude historic town and Shaw Festival. Vancouver Celebration of Light indefinitely cancelled (https://vancouver.citynews.ca/2025/11/26/vancouvers-honda-celebration-of-light-fireworks-cancelled-indefinitely/); one-night 2026 replacement not same event (https://vancouver.ca/news-calendar/announcing-summer-lights-in-english-bay-june-2026.aspx). Defer until permanent event status/scope assessed; not a score reduction due to temporary closure. Existing scores and three unassessed retained. New coordinates approximate; current access and schedules not verified. Regional screen remains open.

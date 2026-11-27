@@ -1,0 +1,16 @@
+id: sight-ca-hockey-hall-of-fame
+name: "Hockey Hall of Fame Toronto"
+location:
+  country_code: CA
+  latitude: 43.647
+  longitude: -79.377
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4
+    family: 9.3
