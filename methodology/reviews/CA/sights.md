@@ -4644,3 +4644,358 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 225 scope decisions
 
 Qaumajuq integrated with Winnipeg Art Gallery; The Forks excludes human rights museum. Tofino municipal Cox Bay/Chesterman only, excludes Pacific Rim beaches. Lake Superior NMCA separate from Pukaskwa and provincial park. Kluane flightseeing and Alsek rafting deferred as existing park activities (https://parks.canada.ca/pn-np/yt/kluane/activ), cross-border river scope requires separate review. Current exhibition schedules, access and GPS not verified. Existing scores and three unassessed entries preserved. Earlier evidence claims not independently revalidated. Regional screen remains open.
+
+## sight-ca-thaidene-nene — Thaıdene Nëné National Park Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/thaidene-nene.yaml)
+- Action: new
+- Scope: East Arm freshwater cliffs, boreal forest and tundra; park reserve only, excluding restricted cultural sites and adjacent protected areas. Shared Indigenous stewardship; no Parks Canada visitor facilities.
+- Representative coordinates: 62.40354, -110.694782; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.2 / 8.7 / 9.2.
+- Categories: nature:9.4 adventure:9.3 culture:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.parks.canada.ca/pn-np/nt/thaidene-nene/info, https://parks.canada.ca/pn-np/nt/thaidene-nene/visit?wbdisable=true.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/nahanni-national-park](../../../countries/CA/sights/nahanni-national-park.yaml) | 9.5 / 9.3 / 9.3 / 8.6 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer |
+| [CA/bowron-lake](../../../countries/CA/sights/bowron-lake.yaml) | 9.2 / 9.3 / 9.0 / 9.3 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-bugaboo-park — Bugaboo Provincial Park Granite Spires and Alpine Climbing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/bugaboo-park.yaml)
+- Action: new
+- Scope: Glacier-carved Purcell granite spires and specialist alpine climbing; separate from Rocky Mountain parks. Technical routes are not general hiking.
+- Representative coordinates: 50.75, -116.8; approximate, independently unverified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.8 / 9.0 / 9.1.
+- Categories: nature:9.4 adventure:9.4 photography:9.4.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/bugaboo-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/garibaldi](../../../countries/CA/sights/garibaldi.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.3 vs peer |
+| [CA/mount-assiniboine-provincial-park](../../../countries/CA/sights/mount-assiniboine-provincial-park.yaml) | 9.3 / 9.1 / 8.6 / 8.8 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-point-pelee — Point Pelee National Park Bird Migration and Wetlands — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/point-pelee.yaml)
+- Action: new
+- Scope: Mainland peninsula bird migration, marsh and seasonal bird festival grouped; Parks Canada records over 390 species in the wider birding area.
+- Representative coordinates: 41.96284, -82.51847; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.2 / 9.0 / 9.0.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/on/pelee/activ/oiseaux-birds, https://parks.canada.ca/voyage-travel/experiences/nature/observation-oiseaux-birds.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/witless-bay](../../../countries/CA/sights/witless-bay.yaml) | 9.3 / 9.3 / 9.2 / 9.1 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.1 vs peer |
+| [CA/elk-island](../../../countries/CA/sights/elk-island.yaml) | 8.7 / 8.6 / 8.8 / 8.8 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-aulavik — Aulavik National Park Thomsen River and Arctic Wildlife — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/aulavik.yaml)
+- Action: new
+- Scope: Banks Island tundra and the 160-km Thomsen River paddling corridor, exceptional muskox density. No separate sensitive archaeological site pins.
+- Representative coordinates: 73.727, -119.5956; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.1 / 8.7 / 9.1.
+- Categories: nature:9.4 wildlife:9.4 adventure:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/nt/aulavik/activ, https://parks.canada.ca/pn-np/nt/aulavik/gestion-management.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/ivvavik-national-park](../../../countries/CA/sights/ivvavik-national-park.yaml) | 8.8 / 9.1 / 8.8 / 8.5 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [CA/quttinirpaaq](../../../countries/CA/sights/quttinirpaaq.yaml) | 9.0 / 9.3 / 8.9 / 8.2 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mealy-mountains — Akami-Uapishkᵁ-KakKasuak-Mealy Mountains National Park Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mealy-mountains.yaml)
+- Action: new
+- Scope: Labrador mountain tundra and coast; remote with no road access; visitor services developing.
+- Representative coordinates: 53.572076, -58.348138; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 8.4 / 8.8.
+- Categories: nature:9.3 adventure:9.2 photography:9.2.
+- Overall: 88.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np, https://parks.canada.ca/pn-np/nl/mealy/visit/visit2.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/torngat-mountains-national-park](../../../countries/CA/sights/torngat-mountains-national-park.yaml) | 9.2 / 9.0 / 9.0 / 8.2 / 9.0 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+| [CA/pukaskwa](../../../countries/CA/sights/pukaskwa.yaml) | 8.9 / 8.8 / 8.6 / 8.8 / 9.0 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-gulf-islands — Gulf Islands National Park Reserve Salish Sea Islands — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/gulf-islands.yaml)
+- Action: new
+- Scope: Federal island park lands and paddling, excluding unrelated island settlements and separate whale tours.
+- Representative coordinates: 48.66552, -123.407929; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 9.0 / 8.9.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.2.
+- Overall: 88.10/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/georgian-bay-islands](../../../countries/CA/sights/georgian-bay-islands.yaml) | 8.7 / 8.8 / 8.8 / 8.9 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-naatsihchoh — Nááts’įhch’oh National Park Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/naatsihchoh.yaml)
+- Action: new
+- Scope: Upper headwaters and hikes within this separate reserve only. Through-river expeditions shared with Nahanni are non-additive and not a new attraction.
+- Representative coordinates: 62.74438, -128.20169; approximate, independently unverified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.0 / 8.6 / 9.0.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 89.40/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/nt/naatsihchoh/activ, https://parks.canada.ca/pn-np/nt/nahanni/activ/pagayer-paddle.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/nahanni-national-park](../../../countries/CA/sights/nahanni-national-park.yaml) | 9.5 / 9.3 / 9.3 / 8.6 / 9.1 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [CA/ivvavik-national-park](../../../countries/CA/sights/ivvavik-national-park.yaml) | 8.8 / 9.1 / 8.8 / 8.5 / 8.5 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-qausuittuq — Qausuittuq National Park Bathurst Island — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/qausuittuq.yaml)
+- Action: new
+- Scope: High Arctic wilderness and Peary caribou habitat; charter aircraft access and registration; sightings not guaranteed.
+- Representative coordinates: 76.0, -100.0; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 9.0 / 9.0 / 8.1 / 8.5.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.1.
+- Overall: 86.65/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np, https://parks.canada.ca/pn-np/nu/qausuittuq/visit/directions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/quttinirpaaq](../../../countries/CA/sights/quttinirpaaq.yaml) | 9.0 / 9.3 / 8.9 / 8.2 / 8.7 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [CA/vuntut-national-park](../../../countries/CA/sights/vuntut-national-park.yaml) | 8.3 / 8.8 / 8.7 / 7.2 / 7.7 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-rouge-national-urban — Rouge National Urban Park Toronto — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/rouge-national-urban.yaml)
+- Action: new
+- Scope: Urban-protected marshes, forest, farmland and trails; distinct from Toronto city parks.
+- Representative coordinates: 43.848142, -79.199373; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.2 / 8.5 / 8.7 / 8.6 / 8.6.
+- Categories: nature:9.1 family:9.1 wildlife:9.0.
+- Overall: 84.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/elk-island](../../../countries/CA/sights/elk-island.yaml) | 8.7 / 8.6 / 8.8 / 8.8 / 8.6 | impact: -0.5 vs peer; uniqueness: -0.1 vs peer |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | impact: -0.2 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-terra-nova — Terra Nova National Park Atlantic Coast and Forest — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/terra-nova.yaml)
+- Action: new
+- Scope: Newfoundland boreal forests, bays and coastal hiking; not separate iceberg boat tours.
+- Representative coordinates: 48.5256, -53.9638; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.9 / 8.9.
+- Categories: nature:9.3 adventure:9.2 photography:9.2.
+- Overall: 87.50/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/forillon](../../../countries/CA/sights/forillon.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-tuktut-nogait — Tuktut Nogait National Park Arctic River Canyons — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/tuktut-nogait.yaml)
+- Action: new
+- Scope: Remote Arctic river canyons, tundra and caribou habitat; permit-based access.
+- Representative coordinates: 68.75, -121.8127; Parks Canada directory point where applicable.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.9 / 8.5 / 8.8.
+- Categories: nature:9.3 adventure:9.3 wildlife:9.3.
+- Overall: 88.55/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np, https://parks.canada.ca/pn-np/nt/tuktutnogait/visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/ivvavik-national-park](../../../countries/CA/sights/ivvavik-national-park.yaml) | 8.8 / 9.1 / 8.8 / 8.5 / 8.5 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/vuntut-national-park](../../../countries/CA/sights/vuntut-national-park.yaml) | 8.3 / 8.8 / 8.7 / 7.2 / 7.7 | impact: +0.6 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-ukkusiksalik — Ukkusiksalik National Park Wager Bay — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/ukkusiksalik.yaml)
+- Action: new
+- Scope: Wager Bay wildlife and Inuit heritage; licensed guide required, no independent visits to sensitive cultural sites.
+- Representative coordinates: 65.85, -89.76; approximate, independently unverified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.1 / 8.6 / 9.0.
+- Categories: nature:9.3 wildlife:9.4 culture:9.3.
+- Overall: 89.80/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.parks.canada.ca/pn-np/nu/ukkusiksalik, https://www.parks.canada.ca/pn-np/nu/ukkusiksalik/securite-safety/comportements-guidelines.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wapusk-national-park](../../../countries/CA/sights/wapusk-national-park.yaml) | 8.8 / 9.2 / 9.1 / 8.0 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/sirmilik-national-park](../../../countries/CA/sights/sirmilik-national-park.yaml) | 9.0 / 9.1 / 8.9 / 8.4 / 8.7 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-joffre-lakes — Joffre Lakes Provincial Park Alpine Lakes — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/joffre-lakes.yaml)
+- Action: new
+- Scope: Three alpine lakes and glacier views grouped; temporary closures and entry rules are separate.
+- Representative coordinates: 50.35, -122.48; approximate, independently unverified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.7 / 8.3 / 8.9 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 87.30/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/joffre-lakes-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/garibaldi](../../../countries/CA/sights/garibaldi.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+| [CA/moraine-lake](../../../countries/CA/sights/moraine-lake.yaml) | 9.5 / 9.2 / 7.8 / 8.9 / 7.8 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-cathedral-grove — Cathedral Grove MacMillan Provincial Park — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/cathedral-grove.yaml)
+- Action: new
+- Scope: Old-growth forest at Cameron Lake; separate from Great Bear Rainforest.
+- Representative coordinates: 49.288, -124.668; approximate, independently unverified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.7 / 8.4.
+- Categories: nature:9.3 photography:9.2 family:9.1.
+- Overall: 87.15/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/macmillan-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/great-bear-rainforest](../../../countries/CA/sights/great-bear-rainforest.yaml) | 9.4 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.7 vs peer; uniqueness: -0.6 vs peer |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | impact: +0.3 vs peer; uniqueness: +0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mont-tremblant-park — Parc national du Mont-Tremblant Laurentian Lakes and Forest — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mont-tremblant-park.yaml)
+- Action: new
+- Scope: Quebec provincial park, not ski resort; forest trails, canoeing and lakes.
+- Representative coordinates: 46.34, -74.49; approximate, independently unverified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.7 / 8.9 / 9.0.
+- Categories: nature:9.3 adventure:9.2 photography:9.2.
+- Overall: 87.35/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.sepaq.com/en/destinations/national-parks/mont-tremblant/activities/hiking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/la-mauricie](../../../countries/CA/sights/la-mauricie.yaml) | 8.8 / 8.6 / 8.5 / 8.9 / 9.0 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-bic-park — Parc national du Bic St Lawrence Coastal Headlands — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/bic-park.yaml)
+- Action: new
+- Scope: Quebec provincial park estuary headlands and coastal trails; separate from Saguenay marine park.
+- Representative coordinates: 48.34, -68.8; approximate, independently unverified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.6 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.3 wildlife:9.2.
+- Overall: 87.10/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.sepaq.com/pq/bic/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/forillon](../../../countries/CA/sights/forillon.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 226 scope decisions
+
+16 additions, 16 source-linked provisional, 4 90+, 32 domestic ranking-row comparisons. CA 178 ranked / 181 total. Parks Canada federal directory checked: all 48 listed national parks/reserves and urban park represented. Nááts’įhch’oh restricted to its own upper basin; full South Nahanni trips are non-additive. Gulf Islands park only; Mont-Tremblant provincial park excludes resort. Qausuittuq charter and registration, Ukkusiksalik licensed guide; temporary restrictions separate. Existing ratings and three unassessed retained. Federal directory points used for 11 federal additions; provincial points approximate. Prior evidence labels and full Python validation not independently verified. Regional screen remains open.

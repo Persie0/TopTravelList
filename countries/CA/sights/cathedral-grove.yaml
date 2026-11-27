@@ -1,0 +1,16 @@
+id: sight-ca-cathedral-grove
+name: "Cathedral Grove MacMillan Provincial Park"
+location:
+  country_code: CA
+  latitude: 49.288
+  longitude: -124.668
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.3
+    photography: 9.2
+    family: 9.1

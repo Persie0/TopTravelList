@@ -3908,3 +3908,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Sainte-Marie among the Hurons Midland: 87.65/100 (desk-based provisional).
 
 17 additions, 9 desk-based provisional, 8 source-linked, 4 90+, 37 ranking-row comparisons including 3 international. CA 162 ranked / 165 total. Qaumajuq integrated with Winnipeg Art Gallery; The Forks excludes human rights museum. Tofino municipal Cox Bay/Chesterman only, excludes Pacific Rim beaches. Lake Superior NMCA separate from Pukaskwa and provincial park. Kluane flightseeing and Alsek rafting deferred as existing park activities (https://parks.canada.ca/pn-np/yt/kluane/activ), cross-border river scope requires separate review. Current exhibition schedules, access and GPS not verified. Existing scores and three unassessed entries preserved. Earlier evidence claims not independently revalidated. Regional screen remains open. Next: remaining national park and regional high-priority omissions.
+
+### Pass 226 — Canada federal park coverage and regional nature
+
+- [x] CA — Thaıdene Nëné National Park Reserve: 90.95/100 (source-linked-unverified).
+- [x] CA — Bugaboo Provincial Park Granite Spires and Alpine Climbing: 91.35/100 (source-linked-unverified).
+- [x] CA — Point Pelee National Park Bird Migration and Wetlands: 90.30/100 (source-linked-unverified).
+- [x] CA — Aulavik National Park Thomsen River and Arctic Wildlife: 90.60/100 (source-linked-unverified).
+- [x] CA — Akami-Uapishkᵁ-KakKasuak-Mealy Mountains National Park Reserve: 88.60/100 (source-linked-unverified).
+- [x] CA — Gulf Islands National Park Reserve Salish Sea Islands: 88.10/100 (source-linked-unverified).
+- [x] CA — Nááts’įhch’oh National Park Reserve: 89.40/100 (source-linked-unverified).
+- [x] CA — Qausuittuq National Park Bathurst Island: 86.65/100 (source-linked-unverified).
+- [x] CA — Rouge National Urban Park Toronto: 84.75/100 (source-linked-unverified).
+- [x] CA — Terra Nova National Park Atlantic Coast and Forest: 87.50/100 (source-linked-unverified).
+- [x] CA — Tuktut Nogait National Park Arctic River Canyons: 88.55/100 (source-linked-unverified).
+- [x] CA — Ukkusiksalik National Park Wager Bay: 89.80/100 (source-linked-unverified).
+- [x] CA — Joffre Lakes Provincial Park Alpine Lakes: 87.30/100 (source-linked-unverified).
+- [x] CA — Cathedral Grove MacMillan Provincial Park: 87.15/100 (source-linked-unverified).
+- [x] CA — Parc national du Mont-Tremblant Laurentian Lakes and Forest: 87.35/100 (source-linked-unverified).
+- [x] CA — Parc national du Bic St Lawrence Coastal Headlands: 87.10/100 (source-linked-unverified).
+
+16 additions, 16 source-linked provisional, 4 90+, 32 domestic ranking-row comparisons. CA 178 ranked / 181 total. Parks Canada federal directory checked: all 48 listed national parks/reserves and urban park represented. Nááts’įhch’oh restricted to its own upper basin; full South Nahanni trips are non-additive. Gulf Islands park only; Mont-Tremblant provincial park excludes resort. Qausuittuq charter and registration, Ukkusiksalik licensed guide; temporary restrictions separate. Existing ratings and three unassessed retained. Federal directory points used for 11 federal additions; provincial points approximate. Prior evidence labels and full Python validation not independently verified. Regional screen remains open.

@@ -1,0 +1,16 @@
+id: sight-ca-rouge-national-urban
+name: "Rouge National Urban Park Toronto"
+location:
+  country_code: CA
+  latitude: 43.848142
+  longitude: -79.199373
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.1
+    family: 9.1
+    wildlife: 9.0
