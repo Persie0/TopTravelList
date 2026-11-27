@@ -1,0 +1,15 @@
+id: sight-fr-strasbourg-fine-arts
+name: "Musée des Beaux-Arts Strasbourg European Painting Collections"
+location:
+  country_code: FR
+  latitude: 48.581
+  longitude: 7.751
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3

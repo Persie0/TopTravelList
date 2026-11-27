@@ -1,0 +1,15 @@
+id: sight-fr-strasbourg-alsacien
+name: "Musée Alsacien Strasbourg Regional Heritage Collections"
+location:
+  country_code: FR
+  latitude: 48.58
+  longitude: 7.75
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.9
+  categories:
+    culture: 9.4
+    history: 9.3

@@ -1,0 +1,15 @@
+id: sight-fr-lalique-museum
+name: "Musée Lalique Wingen-sur-Moder Glass and Jewellery Collections"
+location:
+  country_code: FR
+  latitude: 48.916
+  longitude: 7.378
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3

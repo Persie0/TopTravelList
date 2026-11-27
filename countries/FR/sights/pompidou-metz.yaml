@@ -1,0 +1,15 @@
+id: sight-fr-pompidou-metz
+name: "Centre Pompidou-Metz Contemporary Art Exhibition Centre"
+location:
+  country_code: FR
+  latitude: 49.109
+  longitude: 6.183
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.4
+    architecture: 9.4

@@ -2323,3 +2323,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Obernai Historic Centre and Medieval Ramparts: 87.35/100 (desk-based provisional).
 
 30 additions, 17 desk-based provisional estimates, 13 source-informed candidates, 12 90+, 52 domestic peer ranking-row comparisons. France 835 ranked / 846 total; 11 existing unassessed unchanged. Swiss ranking at parent commit checked: no row mentioning Doubs, so no current cross-border duplicate found; keep shared natural feature caveat. Hartmannswillerkopf cemetery, national monument and crypt remain in Western Front UNESCO serial property; separate battlefield trails and Historial only. Vosges ridge summits integrated; Lac Blanc basin overlap flagged. Pasteur houses combined. Ronchamp chapel and Neuf-Brisach remain in Le Corbusier and Vauban serial entries. Next: Alsace remaining: Strasbourg independent museums, Rohan collections, Musée Alsacien, Œuvre Notre-Dame, MAMCS, historical museum, Mulhouse textile and electricity museums, Wesserling, Natzweiler, northern Vosges, Lalique, Meisenthal, then Lorraine and Champagne. Full Python validation pending.
+
+
+### Pass 161 — accelerated residual Alsace and Lorraine audit
+
+- [x] FR — Natzweiler-Struthof Memorial and European Centre of Deported Resistance Members: 92.50/100 (source-linked-unverified).
+- [x] FR — Verdun Memorial Museum and Douaumont and Vaux Fort Heritage: 92.85/100 (source-linked-unverified).
+- [x] FR — Musée de l’Œuvre Notre-Dame Strasbourg Medieval and Renaissance Art Collections: 92.65/100 (source-linked-unverified).
+- [x] FR — Centre Pompidou-Metz Contemporary Art Exhibition Centre: 91.60/100 (source-linked-unverified).
+- [x] FR — Musée de la Cour d’Or Metz Archaeology and Art Collections: 92.60/100 (source-linked-unverified).
+- [x] FR — Musée de l’École de Nancy and Villa Majorelle Art Nouveau Collections: 92.60/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts Nancy Fine Arts and Daum Glass Collections: 91.90/100 (source-linked-unverified).
+- [x] FR — Musée Lalique Wingen-sur-Moder Glass and Jewellery Collections: 91.30/100 (source-linked-unverified).
+- [x] FR — Musée Electropolis Mulhouse Electricity and Industrial Heritage: 91.65/100 (source-linked-unverified).
+- [x] FR — Musée de l’Impression sur Étoffes Mulhouse Textile Printing Collections: 91.15/100 (source-linked-unverified).
+- [x] FR — Ouvrage du Hackenberg Maginot Line Historical Fortification: 92.00/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts Strasbourg European Painting Collections: 90.85/100 (source-linked-unverified).
+- [x] FR — Musée d’Art Moderne et Contemporain Strasbourg: 90.70/100 (source-linked-unverified).
+- [x] FR — Château de Lunéville Ducal Palace and Gardens: 90.70/100 (source-linked-unverified).
+- [x] FR — Château de Fleckenstein Sandstone Rock Fortress: 90.65/100 (source-linked-unverified).
+- [x] FR — Musée Tomi Ungerer Strasbourg Illustration Collections: 89.85/100 (source-linked-unverified).
+- [x] FR — Site Verrier de Meisenthal Glass Museum and Workshops: 90.05/100 (source-linked-unverified).
+- [x] FR — Musée Alsacien Strasbourg Regional Heritage Collections: 88.90/100 (desk-based provisional).
+- [x] FR — Musée Historique de Strasbourg City History Collections: 89.20/100 (desk-based provisional).
+- [x] FR — Palais Rohan Strasbourg Decorative Arts and Archaeology Collections: 89.30/100 (desk-based provisional).
+- [x] FR — Musée Zoologique Strasbourg Natural History Collections: 88.20/100 (desk-based provisional).
+- [x] FR — Parc de Wesserling Textile Heritage Gardens and Museum: 88.90/100 (desk-based provisional).
+- [x] FR — La Grande Place Saint-Louis Crystal Museum: 88.95/100 (desk-based provisional).
+- [x] FR — Citadelle de Bitche Historic Fortress: 89.30/100 (desk-based provisional).
+- [x] FR — Northern Vosges Sandstone Forest and Rock Trails: 87.55/100 (desk-based provisional).
+- [x] FR — Chapelle des Cordeliers Sarrebourg Chagall Stained Glass and Museum: 88.60/100 (desk-based provisional).
+- [x] FR — Musée de la Faïence and Moulin de la Blies Sarreguemines: 88.25/100 (desk-based provisional).
+- [x] FR — Château de Malbrouck Manderen Historic Castle: 88.05/100 (desk-based provisional).
+- [x] FR — Rodemack Medieval Fortified Village: 86.65/100 (desk-based provisional).
+- [x] FR — Lac de Madine Lake and Nature Recreation: 84.95/100 (desk-based provisional).
+
+30 additions, 13 desk-based provisional estimates, 17 source-informed candidates, 16 90+, 68 domestic peer ranking-row comparisons. France 865 ranked / 876 total; 11 existing unassessed unchanged. Strasbourg, Nancy and Metz independently scoped museum collections excluded from existing urban/UNESCO architecture. École de Nancy and Villa Majorelle combined to avoid shared collections duplication. Verdun museum and forts integrated; Douaumont ossuary and necropolis remain in Western Front serial entry; precise boundaries pending. Paris Pompidou collection not assumed permanently held in Metz. Next: Residual Lorraine (Nancy Lorraine Museum, Metz cathedral scope, Amnéville, Saint-Nicolas-de-Port, Bar-le-Duc, Domrémy, Épinal, Saint-Dié, Fermont scope), Champagne and Ardennes (Reims collections, Épernay wine scope, Troyes, Sedan, Charleville-Mézières, Colombey, Lac du Der), then northern France. Full Python validation pending.
