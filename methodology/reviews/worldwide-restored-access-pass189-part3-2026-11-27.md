@@ -1,0 +1,10 @@
+# Pass 189 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial scores based on retrieved UNESCO and national protected-area descriptions. Hypothetical lawful conservation-compatible interpretation only, no current admission claims. Existing numerical fields and coordinates preserved. Qualitative comparisons only; numerical peer verification pending.
+
+## ML/sights/tonomba
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/list/116/maps/ ; https://whc.unesco.org/pg.cfm?cid=31&id_site=116. Distinct archaeological mound included in the Djenné serial property; hypothetical supervised surface interpretation of pre-Islamic settlement evidence. Component-specific visitor facilities not established. Comparisons: Less visible urban fabric than Djenné-Djeno; less monumental than Mohenjo-daro; less standing stone architecture than Great Zimbabwe; less extensive interpreted excavation than Catalhoyuk. I/U/S/E/D: 6.8, 8.3, 8.8, 7.2, 8. Overall 77.55.
+
+## ML/sights/wongo-national-park
+Status: source-linked-unverified. Sources: https://ml.chm-cbd.net/en/protected-areas/protected-area ; https://whc.unesco.org/en/tentativelists/6161. National park within the Bafing conservation landscape; hypothetical authorized nature observation and habitat interpretation, not a guaranteed safari or wildlife encounter. Parent overlap and boundary checks pending. Comparisons: Less conspicuous wildlife than Serengeti; less varied visitor routes than Nyungwe; less extensive rainforest than Manu; less established wildlife observation than Kruger. I/U/S/E/D: 7.9, 8.3, 8.8, 8, 8.4. Overall 82.45.
+
+6 null-only core fields filled. Pass total: 20 records, 57 core fields (17 with three missing fields, three with two), 80 qualitative comparisons. Existing scores and coordinates preserved. Inner Niger Delta exceeds 90; pre-existing 9.5+ fields also require numerical review. Bafing/Manden umbrella and individual components overlap; not additive. Mali recorded incomplete queue provisionally exhausted across pending batches. Full validation, ranking regeneration and merge pending. No Actions manually dispatched.
