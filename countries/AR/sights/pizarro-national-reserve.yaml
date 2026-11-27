@@ -1,0 +1,16 @@
+id: sight-ar-pizarro-national-reserve
+name: "Pizarro National Reserve Chaco and Yungas Birdwatching Trails"
+location:
+  country_code: AR
+  latitude: -24.17
+  longitude: -64.06249
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.2
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    photography: 8.8
