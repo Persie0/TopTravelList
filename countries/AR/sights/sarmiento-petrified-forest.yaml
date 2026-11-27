@@ -1,0 +1,16 @@
+id: sight-ar-sarmiento-petrified-forest
+name: "Sarmiento Petrified Forest Provincial Natural Monument"
+location:
+  country_code: AR
+  latitude: -45.82
+  longitude: -69.13
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 9.2
+    history: 9.1
+    photography: 9.1

@@ -5561,3 +5561,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AR — Bariloche National Snow Festival Public Cultural Programme: 86.85/100 (source-linked provisional).
 
 12 source-linked provisional additions, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 153 ranked / 154 total, +89 since baseline 65, 42 new 90+ across seven passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Mar del Plata 41st edition confirmed and BAFICI 27th edition distinct public cinema programmes. Manka Fiesta ancestral producer/ceramics heritage, 2026 edition confirmed. Laguna de los Pozuelos official monument visitor trails distinct from prior lagoons. Batea Mahuida community-managed snow park, no unrestricted cultural access; Las Lenas, Castor and Chapelco distinct designated ski resorts, shared regional scenery non-additive. Iruya distinct historic settlement, Caverna guide-required and Salto Encantado distinct park. Bariloche snow festival separate public seasonal programme. El Shincal documented visitor site (https://www.argentina.travel/actividades/qhapaq-nan-el-shincal) deferred pending Qhapaq Nan component and existing scope reconciliation. Existing ratings and one unassessed preserved; prior Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. OPEN for remaining archaeological, provincial and cultural sites; non-exhaustive. Coordinates approximate, current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type international calibration pending.
+
+### Pass 314 — Argentina sporting, museum, cultural and provincial heritage
+
+- [x] AR — Buenos Aires Argentine Open Polo Championship Public Spectator Experience: 92.75/100 (source-linked provisional).
+- [x] AR — Amaicha del Valle National Pachamama Festival Public Cultural Programme: 92.25/100 (source-linked provisional).
+- [x] AR — Museo de La Plata Natural History and Paleontology Exhibitions: 90.55/100 (source-linked provisional).
+- [x] AR — Buenos Aires arteba Contemporary Art Fair Public Exhibition Programme: 90.40/100 (source-linked provisional).
+- [x] AR — Villa Epecuén Flooded Resort Ruins and Salt Lake Heritage: 87.40/100 (desk-based provisional).
+- [x] AR — Cabo Vírgenes Coastal Penguin Reserve and Lighthouse Landscape: 86.75/100 (desk-based provisional).
+- [x] AR — Sarmiento Petrified Forest Provincial Natural Monument: 86.35/100 (desk-based provisional).
+- [x] AR — Teyú Cuaré Provincial Park Paraná River Sandstone and Forest Trails: 86.25/100 (desk-based provisional).
+- [x] AR — Urugua-í Provincial Park Atlantic Forest Visitor Landscape: 85.25/100 (desk-based provisional).
+- [x] AR — La Cumbrecita Pedestrian Mountain Village and Forest Walks: 84.60/100 (desk-based provisional).
+- [x] AR — Yavi San Francisco de Asís Church and Historic Settlement: 84.40/100 (desk-based provisional).
+- [x] AR — Buenos Aires Museo Evita Biographical and Political History Exhibitions: 84.65/100 (desk-based provisional).
+
+12 provisional additions (12 source-linked, 0 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 165 ranked / 166 total, +101 since baseline 65, 46 new 90+ across eight passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Public Palermo polo, Amaicha Pachamama festival and arteba scoped separately from permanent attractions; Museo de La Plata public exhibitions distinct from Egidio Feruglio. Regional ruins, fossil forest, coastal wildlife, forest parks, historic settlement and Museo Evita are provisional. Existing ratings and one unassessed preserved; prior El Shincal, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
