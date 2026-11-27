@@ -1,0 +1,15 @@
+id: sight-fr-caverne-dragon
+name: "Caverne du Dragon Chemin des Dames History Museum"
+location:
+  country_code: FR
+  latitude: 49.441
+  longitude: 3.733
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3

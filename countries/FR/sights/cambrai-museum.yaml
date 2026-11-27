@@ -1,0 +1,15 @@
+id: sight-fr-cambrai-museum
+name: "Musée des Beaux-Arts Cambrai Art and Archaeology Collections"
+location:
+  country_code: FR
+  latitude: 50.175
+  longitude: 3.23
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.3

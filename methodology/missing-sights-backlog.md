@@ -2431,3 +2431,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Cité de la Dentelle et de la Mode Calais Lace and Fashion Museum: 88.65/100 (desk-based provisional).
 
 30 additions, 13 desk-based provisional estimates, 17 source-informed candidates, 15 90+, 68 domestic peer ranking-row comparisons. France 925 ranked / 936 total; 11 existing unassessed unchanged. Marquenterre combined with Baie de Somme; Deux Caps combined. Lewarde industrial architecture already covered by Nord mining UNESCO property (https://www.chm-lewarde.com/fr/le-centre-historique-minier/presentation-et-missions/); independent museum collection scope deferred. Louvre-Lens loans not treated as permanent holdings. Arras and Lille belfries, Vauban citadels excluded from urban scope. Reims fine arts renovation ignored as intrinsic penalty. Villa Cavrois flagged for possible upward review. Next: Remaining Hauts-de-France: Dunkirk, Calais, Laon, Soissons, Saint-Quentin, Cambrai, Compiègne, Gerberoy, Beauvais, Aisne museums, Villa Cavrois high-score review, mining museum collection scope, Somme memorial museum scope; then remaining central/northern regions. Full Python validation pending.
+
+
+### Pass 164 — Hauts-de-France residual audit
+
+- [x] FR — Château de Compiègne Imperial Palace Museums and Gardens: 93.15/100 (source-linked-unverified).
+- [x] FR — Historial de la Grande Guerre Péronne and Thiepval Museums: 92.85/100 (source-linked-unverified).
+- [x] FR — Centre Historique Minier Lewarde Mining Collections and Interpretation: 92.25/100 (source-linked-unverified).
+- [x] FR — Cathédrale Saint-Pierre Beauvais Gothic Choir and Astronomical Clock: 92.20/100 (source-linked-unverified).
+- [x] FR — Cathédrale Notre-Dame Laon Early Gothic Cathedral and Treasury: 91.65/100 (source-linked-unverified).
+- [x] FR — Caverne du Dragon Chemin des Dames History Museum: 91.50/100 (source-linked-unverified).
+- [x] FR — Musée Dunkerque 1940 Operation Dynamo Historical Collections: 90.75/100 (source-linked-unverified).
+- [x] FR — Musée Maritime et Portuaire Dunkerque and Historic Museum Ships: 91.10/100 (source-linked-unverified).
+- [x] FR — Château de Coucy Medieval Fortress Ruins and Archaeological Trails: 89.90/100 (source-linked-unverified).
+- [x] FR — Laon Medieval Upper Town Ramparts and Historic Streets: 88.35/100 (desk-based provisional).
+- [x] FR — Abbaye Saint-Jean-des-Vignes Soissons Gothic Abbey Ruins: 88.35/100 (desk-based provisional).
+- [x] FR — Cathédrale Saint-Gervais-et-Saint-Protais Soissons: 88.50/100 (desk-based provisional).
+- [x] FR — Basilique Saint-Quentin Gothic Church and Historic Interiors: 88.55/100 (desk-based provisional).
+- [x] FR — Saint-Quentin Art Deco Architecture and Historic Town Trails: 87.95/100 (desk-based provisional).
+- [x] FR — Musée des Beaux-Arts Cambrai Art and Archaeology Collections: 87.55/100 (desk-based provisional).
+- [x] FR — Musée des Beaux-Arts Valenciennes Fine Arts Collections: 88.75/100 (desk-based provisional).
+- [x] FR — Gerberoy Historic Rose Village and Gardens: 87.20/100 (desk-based provisional).
+- [x] FR — Cathédrale Notre-Dame Noyon Early Gothic Cathedral and Cloister: 88.75/100 (desk-based provisional).
+- [x] FR — Senlis Historic Centre Cathedral and Gallo-Roman Walls: 88.90/100 (desk-based provisional).
+- [x] FR — Clairière de l’Armistice Compiègne Historical Museum: 89.60/100 (desk-based provisional).
+- [x] FR — Forêt de Compiègne Historic Forest Trails: 86.20/100 (desk-based provisional).
+- [x] FR — LAAC Dunkerque Modern and Contemporary Art Museum: 87.80/100 (desk-based provisional).
+- [x] FR — Musée des Beaux-Arts Calais Rodin and Fine Arts Collections: 87.45/100 (desk-based provisional).
+- [x] FR — Musée de Flandre Cassel Flemish Art Collections: 88.15/100 (desk-based provisional).
+- [x] FR — Bergues Walled Historic Town and Canal Trails: 87.50/100 (desk-based provisional).
+- [x] FR — Gravelines Historic Fortified Town and Waterways: 87.50/100 (desk-based provisional).
+- [x] FR — Le Touquet Paris-Plage Beach Dunes and Forest Walks: 86.50/100 (desk-based provisional).
+- [x] FR — Berck-sur-Mer Beach and Authie Bay Seal Watching: 87.05/100 (desk-based provisional).
+- [x] FR — Mers-les-Bains Belle Époque Seafront and Cliffs: 87.55/100 (desk-based provisional).
+- [x] FR — Musée Franco-Américain Château de Blérancourt History Collections: 88.05/100 (desk-based provisional).
+
+30 additions, 21 desk-based provisional estimates, 9 source-informed candidates, 8 90+, 36 domestic peer ranking-row comparisons. France 955 ranked / 966 total; 11 existing unassessed unchanged. Compiègne national museums combined with palace. Historial Péronne/Thiepval linked museums only, excludes funerary monuments. Lewarde independent collection and interpretation only, no Delloye architecture duplicate. Villa Cavrois existing score retained; CMN describes architectural masterpiece and documented restoration (https://www.monuments-nationaux.fr/en/conservation-and-research/built-heritage/major-projects/cmn-s-major-projects ; https://www.villa-cavrois.fr/en/discover/the-restoration-of-the-villa-cavrois), flagged for upward reassessment. Coucy surviving ruins only. Armistice clearing precise serial scope pending. Next: Final northern residuals (Saint-Valery-sur-Somme, Saint-Amand, Valenciennes collection review, Guise castle, Boulogne museum collection scope, Thiepval/Vimy interpretation scope), then regional coverage and remaining high-priority omissions, including Corsica/overseas and 11 existing unassessed entries separately. Full Python validation pending.

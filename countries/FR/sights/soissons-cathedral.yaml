@@ -1,0 +1,15 @@
+id: sight-fr-soissons-cathedral
+name: "Cathédrale Saint-Gervais-et-Saint-Protais Soissons"
+location:
+  country_code: FR
+  latitude: 49.382
+  longitude: 3.326
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.3
