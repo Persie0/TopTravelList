@@ -226,7 +226,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Mali](countries/ML/) (`ML`) | [11](countries/ML/cities.md) | [33](countries/ML/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mali) |
 | [Malta](countries/MT/) (`MT`) | [23](countries/MT/cities.md) | [37](countries/MT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Malta) |
 | [Marshall Islands](countries/MH/) (`MH`) | [11](countries/MH/cities.md) | [22](countries/MH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Marshall%20Islands) |
-| [Martinique](countries/MQ/) (`MQ`) | [4](countries/MQ/cities.md) | [21](countries/MQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Martinique) |
+| [Martinique](countries/MQ/) (`MQ`) | [4](countries/MQ/cities.md) | [35](countries/MQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Martinique) |
 | [Mauritania](countries/MR/) (`MR`) | [10](countries/MR/cities.md) | [17](countries/MR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritania) |
 | [Mauritius](countries/MU/) (`MU`) | [22](countries/MU/cities.md) | [63](countries/MU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritius) |
 | [Mayotte](countries/YT/) (`YT`) | [2](countries/YT/cities.md) | [13](countries/YT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mayotte) |

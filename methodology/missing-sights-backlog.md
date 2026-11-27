@@ -2772,3 +2772,23 @@ Official regional/activity overview screen: https://www.reunion.fr/organisez/vos
 - [x] GP — Distillerie Damoiseau Bellevue Le Moule Sugarcane Rum Heritage: 86.75/100 (desk-based provisional).
 
 Regional overview screen: https://www.lesilesdeguadeloupe.com/en/explore/what-to-do-in-guadeloupe/ ; https://www.lesilesdeguadeloupe.com/en/islands/marie-galante-island/what-to-do-in-marie-galante/ ; https://www.lesilesdeguadeloupe.com/en/islands/la-desirade-island/what-to-do-in-la-desirade/ ; https://www.lesilesdeguadeloupe.com/en/experiences/hikes/ ; https://www.cg971.fr/culture-tourisme/musees/ ; https://www.lesilesdeguadeloupe.com/planifier/toutes-les-activites/ . 12 additions, 9 desk-based provisional, 3 source-informed, 2 90+, 28 domestic ranking-row comparisons. Guadeloupe 32 ranked / 32 total. Bounded queue closed; excludes duplicate national park forest trails, Cousteau diving and Grand Cul-de-Sac Marin mangroves. Prior scores preserved. Next: Martinique. Full Python validation pending.
+
+
+### Pass 177 — Martinique remaining priority queue
+
+- [x] MQ — Saint-Pierre Bay 1902 Historic Shipwreck Scuba Diving: 92.20/100 (source-linked-unverified).
+- [x] MQ — Martinique Caribbean Coast Whale and Dolphin Watching: 90.15/100 (source-linked-unverified).
+- [x] MQ — Baie de Génipa Mangrove Kayaking and Interpretation: 89.20/100 (source-linked-unverified).
+- [x] MQ — Habitation Céron Tropical Garden and Historic Estate: 88.55/100 (source-linked-unverified).
+- [x] MQ — Fort Saint-Louis Fort-de-France Historic Fortress: 88.70/100 (desk-based provisional).
+- [x] MQ — Savane des Pétrifications Arid Coastal Geological Trail: 87.95/100 (desk-based provisional).
+- [x] MQ — Morne Larcher Steep Coastal Mountain Hiking: 87.45/100 (desk-based provisional).
+- [x] MQ — Zoo de Martinique Habitation Latouche Wildlife and Estate Heritage: 87.45/100 (desk-based provisional).
+- [x] MQ — Maison de la Canne Trois-Îlets Sugar Industry Museum: 87.15/100 (desk-based provisional).
+- [x] MQ — Musée Départemental d’Archéologie Précolombienne Fort-de-France: 88.75/100 (desk-based provisional).
+- [x] MQ — Écomusée de Martinique Anse Figuier Cultural History Collections: 86.40/100 (desk-based provisional).
+- [x] MQ — Domaine d’Émeraude Rainforest Botanical Interpretation: 86.55/100 (desk-based provisional).
+- [x] MQ — Château Dubuc Caravelle Historic Plantation Ruins: 87.20/100 (desk-based provisional).
+- [x] MQ — Saint-James Rum Museum and Industrial Heritage Sainte-Marie: 87.25/100 (desk-based provisional).
+
+Regional overview sources: https://www.martinique.org/fr ; https://www.martinique.org/en/things-to-do/nature-environment/hiking ; https://www.culture.gouv.fr/regions/dac-martinique/la-direction-des-affaires-culturelles-dac/la-martinique-en-bref ; https://pnr-martinique.com/visiter/venez-decouvrir/ ; https://www.france.fr/fr/article/martinique-que-faire-que-voir/ . 14 additions, 10 desk-based provisional, 4 source-informed, 2 90+, 32 domestic ranking-row comparisons. Martinique 35 ranked / 35 total. Bounded queue closed; no Anse Noire/Anse Dufour duplicate or generic island reserve entry. Existing Mount Pelée summit/UNESCO property overlap is legacy and needs separate review; retained unchanged. Next: French Guiana. Full Python validation pending.

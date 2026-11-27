@@ -1,0 +1,15 @@
+id: sight-mq-martinique-archaeology-museum
+name: "Musée Départemental d’Archéologie Précolombienne Fort-de-France"
+location:
+  country_code: MQ
+  latitude: 14.604
+  longitude: -61.071
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.4
