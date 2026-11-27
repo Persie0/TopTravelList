@@ -704,3 +704,15 @@ Four additions and 16 peer rows. Tunisia 48 ranked / 59 total; 29 additions acro
 - [x] DZ — National Museum of Fine Arts of Algiers: 85.00/100 (source-linked-unverified).
 
 Ten additions, 40 peer rows. Algeria 25 ranked / 35 total; ten prior unassessed unchanged. [National tourism map](https://www.visitalgeria.dz/en/map) and [tourism ministry regional overview](https://www.mta.gov.dz/presentation-of-algeria/?lang=en) used. Tadrart Rouge explicitly marketed as a separate guided 4x4 circuit (https://www.dalil.travel/en/sahara/djanet) but overlap with existing Tassili n’Ajjer scope requires review before adding. Next Cirta museum, Royal Mausoleum of Mauretania (check serial property scope), Great Mosque of Algiers, Annaba basilica (check Hippo and Augustinian scope), Tlemcen Lalla Setti and caves, Timimoun oasis (check Ighzer scope). Current access and independent corroboration pending; full Python validation pending. Automatic type inference misclassifies basilica/viewpoint and bridge/gorge compound; preserved generator behavior.
+
+### Pass 64 — Algerian oasis, natural and religious heritage
+
+- [x] DZ — Timimoun Historic Oasis and Ksar: 89.00/100 (source-linked-unverified).
+- [x] DZ — Djamaa el Djazair (Great Mosque of Algiers): 86.70/100 (source-linked-unverified).
+- [x] DZ — Royal Mausoleum of Mauretania (Exterior): 86.50/100 (source-linked-unverified).
+- [x] DZ — Beni Add Cave: 85.20/100 (source-linked-unverified).
+- [x] DZ — Basilica of Saint Augustine, Annaba: 85.90/100 (source-linked-unverified).
+- [x] DZ — Cirta National Museum: 85.00/100 (source-linked-unverified).
+- [x] DZ — Lalla Setti Plateau and Viewpoint: 80.80/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Algeria 32 ranked / 42 total; ten prior unassessed unchanged. Tadrart Rouge deferred as potential overlap with broad rated Tassili n’Ajjer sandstone/rock-art landscape, despite separately marketed 4x4 circuit (https://www.dalil.travel/en/sahara/djanet). Royal Mausoleum distinct from coastal Tipasa ruins but UNESCO serial component; unassessed royal mausoleum aggregate preserved. Annaba basilica separated from ruins; unassessed Augustinian route preserved. Timimoun town core excludes Ighzer. Next bounded regional screen: Tiddis archaeological site, Cherchell museum, Oran historic center, Bejaia Cap Carbon (check Gouraya scope), Chréa National Park and El Ourit waterfalls. Full Python validation, current access and independent corroboration pending.
