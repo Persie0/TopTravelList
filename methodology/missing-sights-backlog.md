@@ -1446,3 +1446,15 @@ Seven additions, 28 peer rows. France 152 ranked / 163 total; 11 existing unasse
 - [x] FR — Océanopolis Brest Ocean Discovery Park: 90.30/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 159 ranked / 170 total; 11 existing unassessed unchanged. Cap Fréhel and Fort La Latte grouped as documented route; Pointe du Raz mapped cape preferred over same-name locality; Océanopolis full established experience rated regardless of temporary pavilion closure. Next bounded screen: Locronan, Vannes historic centre, Belle-Île-en-Mer, Île de Bréhat, Crozon Peninsula, Huelgoat forest, and Josselin Castle. Full Python validation pending.
+
+### Pass 125 — Brittany island, woodland and historic town experiences
+
+- [x] FR — Locronan Historic Village and Parish Close: 87.75/100 (source-linked-unverified).
+- [x] FR — Vannes Historic Centre and Cathedral: 89.35/100 (source-linked-unverified).
+- [x] FR — Belle-Île-en-Mer Coastal Trails and Landscapes: 90.15/100 (source-linked-unverified).
+- [x] FR — Île de Bréhat Island Walking and Cycling: 88.20/100 (source-linked-unverified).
+- [x] FR — Crozon Peninsula Coastal Trails and Headlands: 91.05/100 (source-linked-unverified).
+- [x] FR — Huelgoat Forest and Granite Boulder Trails: 87.75/100 (source-linked-unverified).
+- [x] FR — Château de Josselin and Gardens: 88.35/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 166 ranked / 177 total; 11 existing unassessed unchanged. Vannes medieval town distinguished from Carnac serial property; Locronan parish-close component membership not confirmed, independent village scope; Crozon excludes Vauban component; Josselin includes toy museum and gardens; Belle-Île and Crozon representative landmarks. Next bounded screen: Rochefort-en-Terre, Brocéliande forest visitor trails, Sept-Îles wildlife cruises, Ouessant coastal trails, Îles de Glénan, Château de Fougères, and Rennes historic centre. Full Python validation pending.

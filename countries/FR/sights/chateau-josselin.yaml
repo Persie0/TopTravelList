@@ -1,0 +1,18 @@
+id: sight-fr-chateau-josselin
+name: "Château de Josselin and Gardens"
+location:
+  country_code: FR
+  latitude: 47.95215
+  longitude: -2.54712
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.2
+    culture: 9.1
+    family: 9.0
