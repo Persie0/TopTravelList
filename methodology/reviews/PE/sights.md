@@ -2307,3 +2307,281 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 257 scope decisions
 
 14 additions, 12 source-linked provisional, 2 desk-based provisional, 7 90+, 36 ranking-row comparisons (8 international). PE 110 ranked / 112 total, +46 since baseline. Central Railway 2026 tourist departures cancelled per operator, no future availability assumed; intrinsic established journey retained. Andean Explorer corridor grouped, off-train attractions non-additive. Ica pisco, Palomino and Sacaco partial tentative coverage only. Huaringas community-permitted cultural landscape, no medicinal claims. Santa Bárbara mining deferred pending safe visitor scope and environmental remediation (https://www.digesa.minsa.gob.pe/noticias/Julio2026/nota35.asp); full fossil basin and Ocucaje field access not asserted (https://whc.unesco.org/en/tentativelists/6418/). Remaining tentative screen: Collao churches, Utcubamba, Sierra del Divisor, La Leche, expanded Chankillo and remaining Lomas components. Prior UNESCO inscribed representation finding retained; not independently repeated. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified except documented rail cancellation. Discovery queue open.
+
+## sight-pe-collao-baroque-churches — Juli and Pomata Baroque Churches of Collao Lakeside Architectural Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/collao-baroque-churches.yaml)
+- Action: new
+- Scope: Representative Juli–Pomata circuit, not all tentative serial components. UNESCO dossier documents four Juli churches and Jesuit mission heritage; tourism inventory documents Pomata Santiago Apóstol and permission-based access to Juli San Pedro. Excludes lake scenery and sacred services as independent score bonuses.
+- Representative coordinates: -16.213, -69.458; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 8.8 / 9.2.
+- Categories: architecture:9.4 history:9.4 culture:9.3.
+- Overall: 91.45/100.
+- Source: https://whc.unesco.org/en/tentativelists/6410
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=441
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=446
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=442
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/andean-baroque-south-valley](../../../countries/PE/sights/andean-baroque-south-valley.yaml) | 9.0 / 9.2 / 9.2 / 8.9 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/santa-catalina-monastery-arequipa](../../../countries/PE/sights/santa-catalina-monastery-arequipa.yaml) | 9.0 / 9.1 / 9.0 / 8.9 / 8.5 | impact: +0.0; uniqueness: +0.2 vs peer |
+| [PE/cusco-cathedral](../../../countries/PE/sights/cusco-cathedral.yaml) | 8.7 / 8.6 / 9.1 / 8.5 / 7.7 | impact: +0.3; uniqueness: +0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cerro-sechin — Cerro Sechín Archaeological Complex and Max Uhle Museum Casma — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cerro-sechin.yaml)
+- Action: new
+- Scope: Monumental stone-carved facade and site interpretation grouped. World Monuments Fund documents conservation and multiple building phases. Cerro Sechín is among eleven components proposed in the 2026 Chankillo extension, not the currently inscribed Chankillo complex; do not independently add the proposed aggregate. Graphic ancient reliefs interpreted historically, no excavation access implied.
+- Representative coordinates: -9.476, -78.266; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 8.7 / 9.0.
+- Categories: history:9.4 architecture:9.4 culture:9.3.
+- Overall: 91.10/100.
+- Source: https://www.wmf.org/projects/cerro-sechin
+- Source: https://whc.unesco.org/en/tentativelists/7055/
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=223
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chavin-archaeological-site](../../../countries/PE/sights/chavin-archaeological-site.yaml) | 8.5 / 9.2 / 9.6 / 8.3 / 8.5 | impact: +0.5; uniqueness: +0.1 vs peer |
+| [PE/chankillo-archaeoastronomical-complex](../../../countries/PE/sights/chankillo-archaeoastronomical-complex.yaml) | 8.3 / 9.5 / 9.6 / 8.0 / 7.8 | impact: +0.7; uniqueness: -0.2 vs peer |
+| [PE/toro-muerto](../../../countries/PE/sights/toro-muerto.yaml) | 9.0 / 9.4 / 9.3 / 8.6 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-laguna-de-los-condores — Lake of the Condors Chachapoyas Cloud Forest Trek and Archaeological Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/laguna-de-los-condores.yaml)
+- Action: new
+- Scope: Designated community-guided approach and permitted lake landscape interpretation; museum's rescued collections excluded, burial interiors and remains not promoted. Tourism inventory documents 2024 access improvements; UNESCO tentative Utcubamba serial component. Approximate coordinate; route suitability and permissions unverified.
+- Representative coordinates: -6.837, -77.707; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 8.5 / 9.0.
+- Categories: history:9.4 nature:9.4 adventure:9.3 photography:9.3.
+- Overall: 90.90/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=530
+- Source: https://whc.unesco.org/en/tentativelists/6411/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/leymebamba-museum](../../../countries/PE/sights/leymebamba-museum.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PE/revash-mausoleums](../../../countries/PE/sights/revash-mausoleums.yaml) | 8.2 / 8.8 / 8.7 / 8.2 / 7.0 | impact: +0.9; uniqueness: +0.5 vs peer |
+| [PE/choquequirao](../../../countries/PE/sights/choquequirao.yaml) | 9.4 / 9.4 / 9.4 / 8.9 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-kotosh — Kotosh Archaeological Site Temple of the Crossed Hands and Interpretation Centre — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/kotosh.yaml)
+- Action: new
+- Scope: Early ceremonial archaeological complex and on-site interpretation. Tourism inventory describes six development levels identified by Japanese research; national tourism overview recognizes its early antiquity. No access to restricted archaeological areas.
+- Representative coordinates: -9.932, -76.28; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.4 / 8.7 / 9.0.
+- Categories: history:9.4 architecture:9.3 culture:9.2.
+- Overall: 90.50/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=683
+- Source: https://www.peru.travel/about-peru/history
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chavin-archaeological-site](../../../countries/PE/sights/chavin-archaeological-site.yaml) | 8.5 / 9.2 / 9.6 / 8.3 / 8.5 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [PE/sacred-city-of-caral-supe](../../../countries/PE/sights/sacred-city-of-caral-supe.yaml) | 8.6 / 9.4 / 9.8 / 8.5 / 8.6 | impact: +0.2; uniqueness: -0.1 vs peer |
+| [PE/cerro-sechin](../../../countries/PE/sights/cerro-sechin.yaml) | 9.0 / 9.3 / 9.4 / 8.7 / 9.0 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-vilcashuaman — Vilcashuamán Inca Administrative and Ceremonial Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/vilcashuaman.yaml)
+- Action: new
+- Scope: Central public archaeological sectors including Ushnu and Temple of the Sun and Moon grouped, excluding any Qhapaq Ñan road traversal. Ministry documents protected sectors and administrative significance; possible serial association requires boundary review. Conservation projects do not establish current access.
+- Representative coordinates: -13.651, -73.953; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 8.8 / 9.1.
+- Categories: history:9.4 architecture:9.4 culture:9.2.
+- Overall: 90.35/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1137
+- Source: https://www.gob.pe/institucion/sunarp/noticias/506501-sunarp-inscribio-cuatro-sectores-del-complejo-arqueologico-de-vilcashuaman
+- Source: https://www.gob.pe/institucion/cultura/noticias/506523-concluye-el-saneamiento-fisico-legal-de-los-monumentos-arqueologicos-de-la-ciudad-de-vilcas-huaman-en-ayacucho
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ollantaytambo-archaeological-site](../../../countries/PE/sights/ollantaytambo-archaeological-site.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 8.5 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/wari-archaeological-complex](../../../countries/PE/sights/wari-archaeological-complex.yaml) | 8.3 / 8.8 / 9.3 / 8.0 / 8.2 | impact: +0.6; uniqueness: +0.3 vs peer |
+| [PE/qhapaq-nan-peruvian-inscribed-sections](../../../countries/PE/sights/qhapaq-nan-peruvian-inscribed-sections.yaml) | 8.9 / 9.5 / 9.8 / 8.8 / 8.8 | impact: +0.0; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-yumbilla-waterfalls — Cuispes Yumbilla Waterfall and Cloud Forest Waterfall Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/yumbilla-waterfalls.yaml)
+- Action: new
+- Scope: Group Yumbilla and nearby Cuispes waterfall circuit, distinct from Gocta. Tourism inventory cites 895.4 m total four-stage drop measured by IGN in 2007; no claim of single drop or global rank. No guaranteed flow or trail access.
+- Representative coordinates: -5.905, -77.893; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.0 / 8.2 / 8.9 / 8.8.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 88.95/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5882
+- Source: https://www.conservamospornaturaleza.org/destino/cataratas-de-yumbilla/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/gocta-waterfall](../../../countries/PE/sights/gocta-waterfall.yaml) | 9.2 / 8.8 / 7.8 / 8.8 / 8.0 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [PE/tingo-maria](../../../countries/PE/sights/tingo-maria.yaml) | 8.8 / 8.9 / 8.6 / 8.9 / 8.7 | impact: +0.5; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-pueblo-de-los-muertos — Pueblo de los Muertos Chachapoyas Cliff Mausoleum Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/pueblo-de-los-muertos.yaml)
+- Action: new
+- Scope: Distinct cliff mausoleum and sarcophagus viewing experience; national inventory documents limestone ledges and protected status. No access to remains or unsafe cliff ledges; overlap with wider Utcubamba cultural landscape non-additive.
+- Representative coordinates: -6.139, -77.954; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 9.0 / 9.1 / 8.3 / 8.3.
+- Categories: history:9.4 architecture:9.1 photography:9.2.
+- Overall: 86.95/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5804
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/revash-mausoleums](../../../countries/PE/sights/revash-mausoleums.yaml) | 8.2 / 8.8 / 8.7 / 8.2 / 7.0 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [PE/karajia-sarcophagi](../../../countries/PE/sights/karajia-sarcophagi.yaml) | 8.1 / 9.1 / 8.8 / 7.9 / 6.5 | impact: +0.4; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-quiocta-cave — Quiocta Cave Lámud Limestone Cavern and Guided Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/quiocta-cave.yaml)
+- Action: new
+- Scope: Specific guided cave visitor circuit; national inventory documents illumination and protected status. Archaeological remains respected; no claim of current lighting or unrestricted access.
+- Representative coordinates: -6.108, -78.027; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 8.7 / 8.5.
+- Categories: nature:9.3 adventure:9.2 photography:9.2.
+- Overall: 86.85/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5267
+- Source: https://www.gob.pe/institucion/regionamazonas/noticias/553364-gorea-y-cooperacion-japonesa-impulsan-dos-proyectos-de-desarrollo-turistico
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huayllay](../../../countries/PE/sights/huayllay.yaml) | 9.3 / 9.3 / 8.9 / 8.8 / 9.0 | impact: -0.6; uniqueness: -0.5 vs peer |
+| [PE/karajia-sarcophagi](../../../countries/PE/sights/karajia-sarcophagi.yaml) | 8.1 / 9.1 / 8.8 / 7.9 / 6.5 | impact: +0.6; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chavin-national-museum — National Museum of Chavín Archaeological and Cultural Collections — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chavin-national-museum.yaml)
+- Action: new
+- Scope: Separate off-site national museum collections and cultural interpretation, excluding archaeological monument and in situ Lanzón. Regional authority documents Chavín chronology and regional collections; shared culture non-additive.
+- Representative coordinates: -9.583, -77.177; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.3 / 8.7 / 8.9.
+- Categories: history:9.4 culture:9.3 architecture:9.0.
+- Overall: 88.60/100.
+- Source: https://regionancash.gob.pe/dircetur/public_html/destino.php?id=11
+- Source: https://museos.cultura.pe/index.php/museos/museo-nacional-chav%C3%ADn
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chavin-archaeological-site](../../../countries/PE/sights/chavin-archaeological-site.yaml) | 8.5 / 9.2 / 9.6 / 8.3 / 8.5 | impact: +0.1; uniqueness: -0.3 vs peer |
+| [PE/museo-sican](../../../countries/PE/sights/museo-sican.yaml) | 8.5 / 8.9 / 9.2 / 8.5 / 8.8 | impact: +0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-huallamarca — Huaca Huallamarca Lima Archaeological Pyramid and Site Museum — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huallamarca.yaml)
+- Action: new
+- Scope: Pyramid and site museum grouped; MINCETUR identifies multiple occupation periods and museum inaugurated 1960. No excavation access implied.
+- Representative coordinates: -12.098, -77.039; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.9 / 8.5 / 8.2.
+- Categories: history:9.2 architecture:9.1 culture:9.1.
+- Overall: 84.85/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5236
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huaca-pucllana](../../../countries/PE/sights/huaca-pucllana.yaml) | 8.0 / 8.5 / 8.6 / 8.5 / 7.3 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/pachacamac-archaeological-sanctuary](../../../countries/PE/sights/pachacamac-archaeological-sanctuary.yaml) | 8.3 / 8.8 / 9.2 / 8.3 / 8.2 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-sonche-canyon — Huancas Sonche Canyon Viewpoints and Pottery Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/sonche-canyon.yaml)
+- Action: new
+- Scope: Public canyon viewpoints and adjacent pottery village interpretation; no cliff access or private workshop visit assumed. Desk assessment.
+- Representative coordinates: -6.174, -77.851; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.1 / 8.7 / 8.4.
+- Categories: nature:9.2 photography:9.3 culture:9.1.
+- Overall: 85.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/colca-canyon](../../../countries/PE/sights/colca-canyon.yaml) | 9.4 / 9.2 / 8.6 / 9.0 / 9.1 | impact: -0.6; uniqueness: -0.6 vs peer |
+| [PE/cotahuasi-canyon](../../../countries/PE/sights/cotahuasi-canyon.yaml) | 9.1 / 8.8 / 8.2 / 8.3 / 8.6 | impact: -0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chachapoyas-historic-centre — Chachapoyas Historic Centre Colonial Architecture and Public Spaces — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chachapoyas-historic-centre.yaml)
+- Action: new
+- Scope: Historic town centre public spaces only; excludes surrounding archaeological destinations. Desk assessment.
+- Representative coordinates: -6.229, -77.872; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.7 / 8.7 / 8.5.
+- Categories: architecture:9.2 culture:9.2 history:9.1.
+- Overall: 85.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/trujillo-historic-centre](../../../countries/PE/sights/trujillo-historic-centre.yaml) | 8.7 / 8.6 / 9.1 / 8.7 / 8.9 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/cajamarca-historic-centre](../../../countries/PE/sights/cajamarca-historic-centre.yaml) | 8.6 / 8.6 / 9.1 / 8.6 / 8.7 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-puruchuco — Puruchuco Archaeological Palace and Arturo Jiménez Borja Site Museum Lima — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/puruchuco.yaml)
+- Action: new
+- Scope: Site palace and museum grouped; separate from Pachacamac and Huaca Pucllana. Desk assessment, gallery access unverified.
+- Representative coordinates: -12.053, -76.927; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.9 / 8.5 / 8.6.
+- Categories: history:9.3 architecture:9.2 culture:9.1.
+- Overall: 86.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huaca-pucllana](../../../countries/PE/sights/huaca-pucllana.yaml) | 8.0 / 8.5 / 8.6 / 8.5 / 7.3 | impact: +0.4; uniqueness: +0.2 vs peer |
+| [PE/huallamarca](../../../countries/PE/sights/huallamarca.yaml) | 8.2 / 8.6 / 8.9 / 8.5 / 8.2 | impact: +0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 258 scope decisions
+
+13 additions, 10 source-linked provisional, 3 desk-based provisional, 5 90+, 31 domestic ranking-row comparisons (0 international this pass; international calibration pending). PE 123 ranked / 125 total, +59 since baseline. Collao Juli–Pomata partial serial coverage; Utcubamba separate component experiences, no duplicate aggregate. Cerro Sechín distinct from currently inscribed Chankillo; proposed 11-component 2026 extension (https://whc.unesco.org/en/tentativelists/7055/) must not be separately aggregated. Huánuco Pampa and Aypate deferred as Qhapaq Ñan components (https://whc.unesco.org/en/list/1459/maps/ and https://whc.unesco.org/en/documents/209587). Vilcashuamán limited to central site, possible road-system boundary overlap pending. La Leche tentative aggregate overlaps Bosque de Pómac; residual Huaca Lucía–Chólope, Huaca Soledad and historic productive complexes deferred until discrete visitor offering documented (https://whc.unesco.org/en/tentativelists/6419/). Sierra del Divisor deferred: park zoning and Contamana access inventory do not establish a distinct authorized park visitor circuit, no access assumption (https://www.gob.pe/institucion/sernanp/normas-legales/7424609-115-2025-sernanp and https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=12551). Prior mining and fossil deferrals retained. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified. Discovery queue open; remaining tentative and regional screen needed.
