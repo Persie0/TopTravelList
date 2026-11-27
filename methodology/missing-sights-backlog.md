@@ -1386,3 +1386,15 @@ Seven additions, 28 peer rows. France 117 ranked / 128 total; 11 existing unasse
 - [x] FR — Musée des Arts Décoratifs Paris: 91.20/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 124 ranked / 135 total; 11 existing unassessed unchanged. Chantilly estate and Condé collection grouped, Écouen castle and Renaissance museum grouped, Pierrefonds reconstruction disclosed, Malmaison excludes Bois-Préau, Arts Décoratifs independent Louvre palace tenant museum, MAM independent from Pompidou. Next bounded screen: Château d'Amboise, Clos Lucé, Château de Cheverny, Château de Blois, Château d'Azay-le-Rideau, Château de Villandry, and Château de Chaumont-sur-Loire (Loire Valley parent scope checks). Full Python validation pending.
+
+### Pass 120 — France Loire Valley individual château visitor experiences
+
+- [x] FR — Royal Château of Amboise and Saint-Hubert Chapel: 91.10/100 (source-linked-unverified).
+- [x] FR — Château du Clos Lucé and Leonardo da Vinci Park: 91.30/100 (source-linked-unverified).
+- [x] FR — Château de Cheverny and Estate: 88.85/100 (source-linked-unverified).
+- [x] FR — Royal Château of Blois: 91.25/100 (source-linked-unverified).
+- [x] FR — Château d’Azay-le-Rideau and Park: 90.05/100 (source-linked-unverified).
+- [x] FR — Château and Gardens of Villandry: 91.55/100 (source-linked-unverified).
+- [x] FR — Domaine de Chaumont-sur-Loire Castle and Gardens: 90.75/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 131 ranked / 142 total; 11 existing unassessed unchanged. Individual château visitor scopes distinguished from UNESCO Loire cultural landscape following existing Chambord and Chenonceau precedent. Clos Lucé separate from Amboise; gardens and collections grouped within estates. Blois and Chaumont official indexed excerpts available but direct fetch timed out. Exact UNESCO polygons not verified. Next bounded screen: Royal Fortress of Chinon, Château d’Angers and Apocalypse Tapestry, Fontevraud Abbey, Château de Saumur, Château de Langeais, Château d’Ussé, and Château de Sully-sur-Loire. Full Python validation pending.

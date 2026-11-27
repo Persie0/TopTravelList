@@ -4862,3 +4862,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-chateau-amboise — Royal Château of Amboise and Saint-Hubert Chapel — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-amboise.yaml)
+- Action: new
+- Precise subject and limitations: Royal residence, chapel and terraces grouped; excludes Clos Lucé and historic town. Explicitly named in Loire UNESCO landscape. Regional [Loire Valley landscape](https://whc.unesco.org/en/list/933) retained separately under existing Chambord/Chenonceau precedent; individual estate visits, not duplicate landscape ratings.
+- Location check: 47.41368, 0.98603; [published representative point](https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27Amboise), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateau-amboise.com/en/your-visit/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chambord](../../../countries/FR/sights/chambord.yaml) | 9.3 / 9.3 / 9.2 / 9.0 / 9.0 | uniqueness: -0.3 vs peer; impact: -0.1 vs peer. |
+| [FR/chenonceau](../../../countries/FR/sights/chenonceau.yaml) | 9.3 / 9.2 / 9.0 / 9.0 / 8.8 | significance: +0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/fontainebleau](../../../countries/FR/sights/fontainebleau.yaml) | 9.2 / 9.1 / 9.4 / 9.1 / 9.3 | depth: -0.4 vs peer; uniqueness: -0.1 vs peer. |
+| [ES/royal-palace-madrid](../../../countries/ES/sights/royal-palace-madrid.yaml) | 9.2 / 9.0 / 9.3 / 9.1 / 9.0 | experience: -0.1 vs peer; depth: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Elevated royal residence and river views. |
+| Uniqueness | 9.0 | Distinct royal chapel and hilltop setting. |
+| Significance | 9.3 | Major royal Renaissance heritage. |
+| Experience | 9.0 | Dedicated residence and chapel route. |
+| Depth | 8.9 | Multiple rooms and terraces. |
+
+- Applicable categories: architecture:9.4, history:9.4, photography:9.3.
+- Computed worldwide overall: 91.10/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-clos-luce — Château du Clos Lucé and Leonardo da Vinci Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/clos-luce.yaml)
+- Action: new
+- Precise subject and limitations: Last residence, reconstructed invention displays, park and galleries grouped; independent from royal château with separate admission. Models are reconstructions, not original inventions. Regional [Loire Valley landscape](https://whc.unesco.org/en/list/933) retained separately under existing Chambord/Chenonceau precedent; individual estate visits, not duplicate landscape ratings.
+- Location check: 47.410278, 0.991389; [published representative point](https://www.vinci-closluce.com/informations-pratiques/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.vinci-closluce.com/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-chantilly](../../../countries/FR/sights/chateau-chantilly.yaml) | 9.3 / 9.2 / 9.2 / 9.1 / 9.3 | impact: -0.4 vs peer; depth: -0.2 vs peer. |
+| [FR/chateau-malmaison](../../../countries/FR/sights/chateau-malmaison.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 8.6 | depth: +0.5 vs peer; uniqueness: +0.4 vs peer. |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Historic house and outdoor inventions. |
+| Uniqueness | 9.3 | Distinct Leonardo interpretation. |
+| Significance | 9.3 | Major Renaissance intellectual associations. |
+| Experience | 9.1 | Interactive house, galleries and park. |
+| Depth | 9.1 | Varied interpretive exhibits. |
+
+- Applicable categories: history:9.4, culture:9.4, family:9.2, architecture:9.0.
+- Computed worldwide overall: 91.30/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-cheverny — Château de Cheverny and Estate — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-cheverny.yaml)
+- Action: new
+- Precise subject and limitations: Furnished residence, gardens and estate exhibitions grouped; no separate Tintin exhibition rating. Operator contact point used; DMS access page differs slightly. No exact UNESCO polygon claim. Regional [Loire Valley landscape](https://whc.unesco.org/en/list/933) retained separately under existing Chambord/Chenonceau precedent; individual estate visits, not duplicate landscape ratings.
+- Location check: 47.5002778, 1.4580556; [published representative point](https://www.chateau-cheverny.fr/en/contact-us), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateau-cheverny.fr/en/practical-information/map); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/vaux-le-vicomte](../../../countries/FR/sights/vaux-le-vicomte.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.1 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [FR/chateau-chantilly](../../../countries/FR/sights/chateau-chantilly.yaml) | 9.3 / 9.2 / 9.2 / 9.1 / 9.3 | significance: -0.5 vs peer; impact: -0.4 vs peer. |
+| [FR/chateau-malmaison](../../../countries/FR/sights/chateau-malmaison.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 8.6 | significance: -0.5 vs peer; depth: +0.4 vs peer. |
+| [IT/isola-bella-palace](../../../countries/IT/sights/isola-bella-palace.yaml) | 9.1 / 9.0 / 8.7 / 8.9 / 8.7 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Rich furnished residence and grounds. |
+| Uniqueness | 8.9 | Distinct lived-in château and comic association. |
+| Significance | 8.7 | Important regional aristocratic heritage. |
+| Experience | 9.0 | Multiple visitor offerings. |
+| Depth | 9.0 | Rooms, gardens and exhibitions. |
+
+- Applicable categories: architecture:9.3, culture:9.2, history:9.1, photography:9.2, family:9.1.
+- Computed worldwide overall: 88.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-blois — Royal Château of Blois — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-blois.yaml)
+- Action: new
+- Precise subject and limitations: Castle wings, royal rooms and museum collections grouped; excludes town and seasonal sound-and-light show as a separate rating. Named within UNESCO Loire landscape. Operator page search excerpt available but direct fetch timed out. Regional [Loire Valley landscape](https://whc.unesco.org/en/list/933) retained separately under existing Chambord/Chenonceau precedent; individual estate visits, not duplicate landscape ratings.
+- Location check: 47.58559, 1.33078; [published representative point](https://mapcarta.com/36677840), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://en.chateaudeblois.fr/2040-prepare-your-visit.htm); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chambord](../../../countries/FR/sights/chambord.yaml) | 9.3 / 9.3 / 9.2 / 9.0 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/fontainebleau](../../../countries/FR/sights/fontainebleau.yaml) | 9.2 / 9.1 / 9.4 / 9.1 / 9.3 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/chateau-chantilly](../../../countries/FR/sights/chateau-chantilly.yaml) | 9.3 / 9.2 / 9.2 / 9.1 / 9.3 | impact: -0.2 vs peer; depth: -0.2 vs peer. |
+| [ES/royal-palace-madrid](../../../countries/ES/sights/royal-palace-madrid.yaml) | 9.2 / 9.0 / 9.3 / 9.1 / 9.0 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Impressive courtyard and royal interiors. |
+| Uniqueness | 9.1 | Distinct juxtaposition of four architectural periods. |
+| Significance | 9.3 | Major French royal heritage. |
+| Experience | 9.0 | Dedicated interpreted castle visit. |
+| Depth | 9.1 | Multiple wings and historic collections. |
+
+- Applicable categories: architecture:9.4, history:9.4, culture:9.3.
+- Computed worldwide overall: 91.25/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-azay-le-rideau — Château d’Azay-le-Rideau and Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-azay-le-rideau.yaml)
+- Action: new
+- Precise subject and limitations: Renaissance island château, furnished rooms and immediate park; excludes nearby Islette castle and village. Explicitly named in UNESCO Loire landscape. Regional [Loire Valley landscape](https://whc.unesco.org/en/list/933) retained separately under existing Chambord/Chenonceau precedent; individual estate visits, not duplicate landscape ratings.
+- Location check: 47.25905, 0.46591; [published representative point](https://mapcarta.com/W70020621), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.azay-le-rideau.fr/en/visit/practical-information); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chenonceau](../../../countries/FR/sights/chenonceau.yaml) | 9.3 / 9.2 / 9.0 / 9.0 / 8.8 | uniqueness: -0.2 vs peer; depth: -0.2 vs peer. |
+| [FR/chambord](../../../countries/FR/sights/chambord.yaml) | 9.3 / 9.3 / 9.2 / 9.0 / 9.0 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [FR/vaux-le-vicomte](../../../countries/FR/sights/vaux-le-vicomte.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.1 | depth: -0.5 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/miramare-castle](../../../countries/IT/sights/miramare-castle.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.7 | impact: +0.2 vs peer; significance: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Elegant river-reflected château. |
+| Uniqueness | 9.0 | Distinct island Renaissance architecture. |
+| Significance | 9.0 | Important French architectural heritage. |
+| Experience | 8.9 | Dedicated house and park visit. |
+| Depth | 8.6 | Compact estate with several rooms. |
+
+- Applicable categories: architecture:9.4, photography:9.4, history:9.2.
+- Computed worldwide overall: 90.05/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-villandry — Château and Gardens of Villandry — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-villandry.yaml)
+- Action: new
+- Precise subject and limitations: Château and formal gardens grouped; ornamental kitchen gardens and seasonal planting are integral to visit. No exact UNESCO boundary claim. Regional [Loire Valley landscape](https://whc.unesco.org/en/list/933) retained separately under existing Chambord/Chenonceau precedent; individual estate visits, not duplicate landscape ratings.
+- Location check: 47.339853, 0.514315; [published representative point](https://www.chateauvillandry.fr/useful-information/prices-opening-times-how-to-get-there-how-to-visit-villandry/?lang=en), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateauvillandry.fr/useful-information/prices-opening-times-how-to-get-there-how-to-visit-villandry/?lang=en); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/vaux-le-vicomte](../../../countries/FR/sights/vaux-le-vicomte.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.1 | uniqueness: +0.2 vs peer; significance: -0.2 vs peer. |
+| [FR/chateau-chantilly](../../../countries/FR/sights/chateau-chantilly.yaml) | 9.3 / 9.2 / 9.2 / 9.1 / 9.3 | significance: -0.3 vs peer; depth: -0.2 vs peer. |
+| [FR/chenonceau](../../../countries/FR/sights/chenonceau.yaml) | 9.3 / 9.2 / 9.0 / 9.0 / 8.8 | depth: +0.3 vs peer; experience: +0.2 vs peer. |
+| [IT/isola-bella-palace](../../../countries/IT/sights/isola-bella-palace.yaml) | 9.1 / 9.0 / 8.7 / 8.9 / 8.7 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Striking geometric garden design. |
+| Uniqueness | 9.3 | Distinct ornamental kitchen garden ensemble. |
+| Significance | 8.9 | Important garden and Renaissance heritage. |
+| Experience | 9.2 | Extensive house and garden route. |
+| Depth | 9.1 | Several themed gardens and furnished rooms. |
+
+- Applicable categories: photography:9.4, architecture:9.3, nature:9.1, culture:9.2, relaxation:9.2.
+- Computed worldwide overall: 91.55/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-chaumont-sur-loire — Domaine de Chaumont-sur-Loire Castle and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-chaumont-sur-loire.yaml)
+- Action: new
+- Precise subject and limitations: Castle, estate gardens and art programme grouped; seasonal International Garden Festival included as characteristic experience, not guaranteed year-round. Official indexed excerpt inspected; direct fetch timed out. No separate event rating. Regional [Loire Valley landscape](https://whc.unesco.org/en/list/933) retained separately under existing Chambord/Chenonceau precedent; individual estate visits, not duplicate landscape ratings.
+- Location check: 47.47916, 1.18184; [published representative point](https://mapcarta.com/36658334), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.domaine-chaumont.fr/article-16/informations-pratiques-1114); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-chantilly](../../../countries/FR/sights/chateau-chantilly.yaml) | 9.3 / 9.2 / 9.2 / 9.1 / 9.3 | significance: -0.4 vs peer; impact: -0.2 vs peer. |
+| [FR/vaux-le-vicomte](../../../countries/FR/sights/vaux-le-vicomte.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.1 | significance: -0.3 vs peer; impact: -0.1 vs peer. |
+| [FR/chenonceau](../../../countries/FR/sights/chenonceau.yaml) | 9.3 / 9.2 / 9.0 / 9.0 / 8.8 | depth: +0.4 vs peer; impact: -0.2 vs peer. |
+| [IT/isola-bella-palace](../../../countries/IT/sights/isola-bella-palace.yaml) | 9.1 / 9.0 / 8.7 / 8.9 / 8.7 | depth: +0.5 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Scenic château and gardens. |
+| Uniqueness | 9.2 | Distinct contemporary garden and art programme. |
+| Significance | 8.8 | Important architectural and horticultural heritage. |
+| Experience | 9.1 | Varied estate experience. |
+| Depth | 9.2 | Multiple gardens, artworks and historic interiors. |
+
+- Applicable categories: architecture:9.3, culture:9.3, photography:9.3, nature:9.1.
+- Computed worldwide overall: 90.75/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

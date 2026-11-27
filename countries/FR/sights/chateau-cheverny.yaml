@@ -1,0 +1,18 @@
+id: sight-fr-chateau-cheverny
+name: "Château de Cheverny and Estate"
+location:
+  country_code: FR
+  latitude: 47.5002778
+  longitude: 1.4580556
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    culture: 9.2
+    history: 9.1
+    photography: 9.2
+    family: 9.1
