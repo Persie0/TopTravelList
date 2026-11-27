@@ -20,6 +20,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | DZ | DONE — current queue | 47 total (37 ranked); 22 additions in passes 63–65. Cap Carbon covered by Gouraya; Tadrart Rouge deferred for possible overlap. Ten prior unassessed separate; reopen for concrete substantial omission. |
 | MA | DONE — current queue | 79 total (71 ranked); 42 additions in passes 66–71. Iriqui lakebed separate from dune field, park aggregate excluded; Rabat archaeology museum resolved. Eight prior unassessed separate. Reopen on concrete substantial omission. |
 | ES | DONE — current queue | 192 total (177 ranked); 75 additions in passes 72–81. Final named queue resolved; existing serial overlaps and fifteen prior unassessed remain separate. Reopen on concrete substantial omission. |
-| PT | OPEN | 67 total (66 ranked); seven additions in pass 83. Cabo da Roca deferred for possible Sintra overlap; next bounded Madeira and Azores screen. One prior unassessed unchanged. |
+| PT | OPEN | 73 total (72 ranked); six island attractions in pass 84. São Vicente and Algar do Carvão deferred for confirmed closure; next bounded island screen. One prior unassessed unchanged. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

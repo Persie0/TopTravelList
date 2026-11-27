@@ -1,0 +1,17 @@
+id: sight-pt-monte-palace-garden
+name: "Monte Palace Tropical Garden Madeira"
+location:
+  country_code: PT
+  latitude: 32.67529
+  longitude: -16.90103
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.2
+    photography: 9.3
+    culture: 9.1
+    relaxation: 9.1

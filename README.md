@@ -266,7 +266,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Philippines](countries/PH/) (`PH`) | [15](countries/PH/cities.md) | [50](countries/PH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Philippines) |
 | [Pitcairn](countries/PN/) (`PN`) | [1](countries/PN/cities.md) | [10](countries/PN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Pitcairn) |
 | [Poland](countries/PL/) (`PL`) | [22](countries/PL/cities.md) | [76](countries/PL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Poland) |
-| [Portugal](countries/PT/) (`PT`) | [20](countries/PT/cities.md) | [67](countries/PT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Portugal) |
+| [Portugal](countries/PT/) (`PT`) | [20](countries/PT/cities.md) | [73](countries/PT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Portugal) |
 | [Puerto Rico](countries/PR/) (`PR`) | [5](countries/PR/cities.md) | [11](countries/PR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Puerto%20Rico) |
 | [Qatar](countries/QA/) (`QA`) | [14](countries/QA/cities.md) | [64](countries/QA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Qatar) |
 | [Romania](countries/RO/) (`RO`) | [20](countries/RO/cities.md) | [59](countries/RO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Romania) |

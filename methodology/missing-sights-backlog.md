@@ -947,3 +947,14 @@ Seven additions, 28 peer rows. Portugal 59 ranked / 60 total. Marvão deferred d
 - [x] PT — Costa Nova Striped Houses and Waterfront: 83.80/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Portugal 66 ranked / 67 total. Cabo da Roca deferred for potential broad Sintra landscape overlap; precise UNESCO boundary not resolved (https://whc.unesco.org/en/list/723/maps). Berlengas authorization and sea conditions documented. Serralves art and park exclude Siza building assessment; Lello interior distinct from urban streets. Next bounded screen: Funchal Monte Palace Tropical Garden, Madeira Cabo Girão, Porto Moniz lava pools, Santana traditional houses, São Vicente caves (access check), Azores Algar do Carvão (access check), Caldeira Velha (Furnas/Fogo scope check), and Faial Capelinhos. One prior unassessed unchanged. Full Python validation pending.
+
+### Pass 84 — Madeira and Azores gardens, coastal and volcanic attractions
+
+- [x] PT — Monte Palace Tropical Garden Madeira: 88.65/100 (source-linked-unverified).
+- [x] PT — Cabo Girão Skywalk and Cliffs: 85.10/100 (source-linked-unverified).
+- [x] PT — Porto Moniz Volcanic Natural Pools: 86.65/100 (source-linked-unverified).
+- [x] PT — Santana Traditional Thatched Houses: 84.30/100 (source-linked-unverified).
+- [x] PT — Caldeira Velha Thermal Natural Monument: 86.45/100 (source-linked-unverified).
+- [x] PT — Capelinhos Volcano and Interpretation Centre: 90.00/100 (source-linked-unverified).
+
+Six additions, 24 peer rows. Portugal 72 ranked / 73 total. São Vicente caves deferred as officially closed (https://visitmadeira.com/en/where-to-go/madeira/north-coast/sao-vicente/sao-vicente-caves/); Algar do Carvão closed again 1 November 2026 for visitor centre works (https://www.montanheiros.com/en/algarcarvao/), defer until confirmed reopening. Caldeira Velha distinct thermal precinct 3.5 km from Lagoa do Fogo. Next bounded screen: Madeira Botanical Garden, Porto Santo beach, Curral das Freiras, Funchal historic centre, Gruta das Torres, Faial Caldeira, São Jorge fajãs, and Azores Gorreana tea plantation. One prior unassessed unchanged. Full Python validation pending.

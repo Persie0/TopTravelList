@@ -2405,3 +2405,236 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-pt-monte-palace-garden — Monte Palace Tropical Garden Madeira — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/monte-palace-garden.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated landscaped garden, art and permitted museum spaces; distinct from native Laurisilva and levada trails. Opening and individual exhibits conditional.
+- Location check: 32.67529, -16.90103; [published representative point](https://mapcarta.com/35753188), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitmadeira.com/en/what-to-do/culture-passionates/gardens/monte-palace-madeira-garden/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.0 | significance: -0.6 vs peer; impact: +0.1 vs peer. |
+| [PT/serralves-art-park](../../../countries/PT/sights/serralves-art-park.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 9.0 | significance: -0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [ES/turia-gardens](../../../countries/ES/sights/turia-gardens.yaml) | 8.6 / 8.7 / 8.3 / 9.1 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [ES/jameos-del-agua](../../../countries/ES/sights/jameos-del-agua.yaml) | 9.0 / 9.2 / 8.7 / 8.8 / 8.2 | depth: +0.7 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Rich landscaped gardens and artistic features. |
+| Uniqueness | 8.9 | Distinct garden and art ensemble. |
+| Significance | 8.5 | Regional cultural and botanical heritage. |
+| Experience | 9.0 | Varied garden routes. |
+| Depth | 8.9 | Multiple themed areas. |
+
+- Applicable categories: nature:9.2, photography:9.3, culture:9.1, relaxation:9.1.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-cabo-girao — Cabo Girão Skywalk and Cliffs — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/cabo-girao.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated glass-platform viewpoint and cliff panorama. Distinct from central mountain peaks. Visibility and access conditional; no unsupported height superlatives.
+- Location check: 32.65648, -17.00445; [published representative point](https://mapcarta.com/W985980180), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmadeira.com/en/where-to-go/madeira/south-coast/camara-de-lobos/cabo-girao/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/los-gigantes-cliffs](../../../countries/ES/sights/los-gigantes-cliffs.yaml) | 9.2 / 8.8 / 8.3 / 8.7 / 8.2 | depth: -0.5 vs peer; significance: -0.3 vs peer. |
+| [ES/mirador-del-rio](../../../countries/ES/sights/mirador-del-rio.yaml) | 9.0 / 8.8 / 8.3 / 8.7 / 7.9 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | depth: -0.7 vs peer; significance: -0.5 vs peer. |
+| [PT/nazare-sitio-praia-norte](../../../countries/PT/sights/nazare-sitio-praia-norte.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.5 | depth: -0.8 vs peer; uniqueness: -0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic elevated coastal view. |
+| Uniqueness | 8.6 | Distinct glass platform and cliff setting. |
+| Significance | 8.0 | Regional geological significance. |
+| Experience | 8.6 | Focused viewpoint experience. |
+| Depth | 7.7 | Compact visitor site. |
+
+- Applicable categories: nature:9.1, photography:9.3, adventure:8.6.
+- Computed worldwide overall: 85.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-porto-moniz-lava-pools — Porto Moniz Volcanic Natural Pools — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/porto-moniz-lava-pools.yaml)
+- Action: new
+- Precise subject and limitations: Managed seawater pools and neighboring Cachalote volcanic pools grouped as one local excursion (https://www.visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/cachalote-natural-swimming-pools/). Swimming only when authorized and safe; sea conditions conditional.
+- Location check: 32.86809, -17.16633; [published representative point](https://mapcarta.com/36119290), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/jandia-cofete](../../../countries/ES/sights/jandia-cofete.yaml) | 9.2 / 8.9 / 8.6 / 8.7 / 8.8 | significance: -0.5 vs peer; depth: -0.5 vs peer. |
+| [ES/siam-park-tenerife](../../../countries/ES/sights/siam-park-tenerife.yaml) | 8.9 / 8.8 / 7.8 / 9.3 / 8.9 | depth: -0.6 vs peer; experience: -0.3 vs peer. |
+| [ES/la-concha-bay](../../../countries/ES/sights/la-concha-bay.yaml) | 8.9 / 8.6 / 8.3 / 9.0 / 8.4 | uniqueness: +0.3 vs peer; significance: -0.2 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | significance: -0.4 vs peer; impact: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Striking volcanic pool scenery. |
+| Uniqueness | 8.9 | Distinct lava-formed bathing experience. |
+| Significance | 8.1 | Regional geological heritage. |
+| Experience | 9.0 | Managed pools and waterfront experience. |
+| Depth | 8.3 | Several pool areas. |
+
+- Applicable categories: nature:9.0, photography:9.2, relaxation:9.2, family:8.9.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-santana-traditional-houses — Santana Traditional Thatched Houses — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/santana-traditional-houses.yaml)
+- Action: new
+- Precise subject and limitations: Central traditional house visitor precinct; public exteriors and permitted craft displays. No private dwelling access or entire municipality included.
+- Location check: 32.80526, -16.88241; [published representative point](https://mapcarta.com/N327489133), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmadeira.com/en/where-to-go/madeira/north-coast/santana/casas-de-santana/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/costa-nova](../../../countries/PT/sights/costa-nova.yaml) | 8.4 / 8.6 / 8.1 / 8.6 / 8.0 | depth: -0.5 vs peer; significance: +0.4 vs peer. |
+| [PT/monsanto-historic-village](../../../countries/PT/sights/monsanto-historic-village.yaml) | 8.9 / 9.2 / 8.6 / 8.7 / 8.4 | depth: -0.9 vs peer; impact: -0.5 vs peer. |
+| [ES/frigiliana-historic-quarter](../../../countries/ES/sights/frigiliana-historic-quarter.yaml) | 8.7 / 8.6 / 8.5 / 8.8 / 8.3 | depth: -0.8 vs peer; experience: -0.4 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | depth: -1.1 vs peer; impact: -0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Colorful distinctive house forms. |
+| Uniqueness | 8.8 | Unusual triangular thatched vernacular. |
+| Significance | 8.5 | Regional domestic heritage. |
+| Experience | 8.4 | Focused cultural visit. |
+| Depth | 7.5 | Small group of houses. |
+
+- Applicable categories: architecture:9.0, culture:9.1, photography:9.1, history:8.7.
+- Computed worldwide overall: 84.30/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-caldeira-velha — Caldeira Velha Thermal Natural Monument — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/caldeira-velha.yaml)
+- Action: new
+- Precise subject and limitations: Distinct ticketed thermal natural monument and interpretation centre, separated from Lagoa do Fogo crater lake and Furnas valley. Timed capacity, bathing eligibility and weather closures per https://parquesnaturais.azores.gov.pt/en/parques/9/centro/21/horarios; no guaranteed bathing.
+- Location check: 37.78442, -25.50098; [published representative point](https://mapcarta.com/36099040), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitazores.com/en/explore/caldeira-velha-environmental-interpretation-centre); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/furnas](../../../countries/PT/sights/furnas.yaml) | 9.0 / 9.2 / 8.8 / 9.2 / 9.0 | depth: -0.7 vs peer; uniqueness: -0.5 vs peer. |
+| [PT/lagoa-fogo](../../../countries/PT/sights/lagoa-fogo.yaml) | 9.1 / 9.0 / 8.7 / 8.8 / 8.4 | uniqueness: -0.3 vs peer; impact: -0.3 vs peer. |
+| [ES/garrotxa-volcanic-park](../../../countries/ES/sights/garrotxa-volcanic-park.yaml) | 8.8 / 8.9 / 8.7 / 8.8 / 8.9 | depth: -0.6 vs peer; significance: -0.3 vs peer. |
+| [ES/jameos-del-agua](../../../countries/ES/sights/jameos-del-agua.yaml) | 9.0 / 9.2 / 8.7 / 8.8 / 8.2 | uniqueness: -0.5 vs peer; significance: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Lush thermal waterfall and forest. |
+| Uniqueness | 8.7 | Distinct geothermal bathing precinct. |
+| Significance | 8.4 | Regional volcanic heritage. |
+| Experience | 8.8 | Timed interpreted visit and conditional bathing. |
+| Depth | 8.3 | Bounded reserve. |
+
+- Applicable categories: nature:9.1, relaxation:9.2, photography:9.1.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-capelinhos-volcano — Capelinhos Volcano and Interpretation Centre — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/capelinhos-volcano.yaml)
+- Action: new
+- Precise subject and limitations: 1957–58 eruption landscape, interpretation centre and permitted viewpoints and trails. Museum representative point; no unrestricted volcanic terrain or guaranteed lighthouse ascent. Distinct from other Azorean islands and marine property.
+- Location check: 38.59679, -28.82544; [published representative point](https://mapcarta.com/W366186010), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitazores.com/en/explore/capelinhos-volcano-interpretation-centre); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/timanfaya](../../../countries/ES/sights/timanfaya.yaml) | 9.3 / 9.4 / 9.1 / 8.8 / 8.6 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/bardenas-reales](../../../countries/ES/sights/bardenas-reales.yaml) | 9.2 / 9.1 / 8.5 / 8.8 / 8.8 | significance: +0.5 vs peer; impact: -0.2 vs peer. |
+| [PT/sete-cidades](../../../countries/PT/sights/sete-cidades.yaml) | 9.3 / 9.2 / 8.8 / 9.2 / 9.0 | experience: -0.4 vs peer; impact: -0.3 vs peer. |
+| [ES/cueva-de-los-verdes](../../../countries/ES/sights/cueva-de-los-verdes.yaml) | 8.8 / 8.9 / 8.5 / 8.8 / 8.3 | significance: +0.5 vs peer; depth: +0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic young volcanic landscape. |
+| Uniqueness | 9.2 | Distinct recent eruption and buried landscape. |
+| Significance | 9.0 | Important volcanological and historical heritage. |
+| Experience | 8.8 | Interpretation and permitted outdoor views. |
+| Depth | 8.8 | Several linked experiences. |
+
+- Applicable categories: nature:9.3, photography:9.3, history:9.1, culture:8.9, adventure:8.8.
+- Computed worldwide overall: 90.00/100.
+- High-score challenge: 90 or higher: distinctive recent volcanic landscape and dedicated interpretation, comparable to major volcanic sites but below Timanfaya; independent challenge pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
