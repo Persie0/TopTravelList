@@ -1561,3 +1561,158 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-tn-utica-archaeological-site — Utica Archaeological Site and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/utica-archaeological-site.yaml)
+- Action: new
+- Precise subject and limitations: Punic and Roman archaeological remains and associated small site museum, grouped as one visit; National Heritage Institute museum listing https://www.inp2020.tn/en/inp_tunisie/musees/_musee_archeologique_utique/. Current individual access not guaranteed.
+- Location check: 37.05556, 10.05889; [published representative point](https://mapcarta.com/W97779337), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.patrimoinedetunisie.com.tn/en/sites/archaeological-site-of-utique/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/carthage-archaeological-site](../../../countries/TN/sights/carthage-archaeological-site.yaml) | 8.9 / 9.4 / 9.8 / 8.7 / 9.1 | uniqueness: -0.8 vs peer; significance: -0.7 vs peer. |
+| [TN/bulla-regia](../../../countries/TN/sights/bulla-regia.yaml) | 8.8 / 9.2 / 9.1 / 8.7 / 8.4 | uniqueness: -0.6 vs peer; impact: -0.5 vs peer. |
+| [TN/kerkuane](../../../countries/TN/sights/kerkuane.yaml) | 8.1 / 9.1 / 9.3 / 8.1 / 8.0 | uniqueness: -0.5 vs peer; depth: +0.4 vs peer. |
+| [TN/oudhna-archaeological-site](../../../countries/TN/sights/oudhna-archaeological-site.yaml) | 8.9 / 8.6 / 9.0 / 8.7 / 8.8 | impact: -0.6 vs peer; depth: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Substantial but less monumental exposed remains. |
+| Uniqueness | 8.6 | Layered Punic and Roman site. |
+| Significance | 9.1 | Major early Mediterranean settlement. |
+| Experience | 8.4 | Archaeological walk and museum. |
+| Depth | 8.4 | Multiple remains and small collection. |
+
+- Applicable categories: history:9.3, architecture:8.8, culture:8.6, photography:8.5.
+- Computed worldwide overall: 85.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-bizerte-medina-old-port — Bizerte Medina, Old Port and Kasbah — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/bizerte-medina-old-port.yaml)
+- Action: new
+- Precise subject and limitations: Historic streets, old fishing harbor and kasbah exterior; representative old-port point. Public walking scope documented at https://etunisie.net/visit/bizerte. No separate fort entry or restricted interiors assumed.
+- Location check: 37.27679, 9.8753; [published representative point](https://mapcarta.com/17274054), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/mahdia-medina-fortress](../../../countries/TN/sights/mahdia-medina-fortress.yaml) | 8.7 / 8.6 / 8.9 / 8.7 / 8.5 | significance: -0.5 vs peer; depth: -0.3 vs peer. |
+| [TN/hammamet-medina-kasbah](../../../countries/TN/sights/hammamet-medina-kasbah.yaml) | 8.5 / 8.3 / 8.6 / 8.7 / 8.2 | significance: -0.2 vs peer; impact: 0.0 vs peer. |
+| [TN/medina-sousse](../../../countries/TN/sights/medina-sousse.yaml) | 8.8 / 8.7 / 9.0 / 8.7 / 8.5 | significance: -0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [TN/medina-sfax](../../../countries/TN/sights/medina-sfax.yaml) | 8.2 / 8.4 / 8.5 / 8.1 / 8.0 | experience: +0.6 vs peer; impact: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Picturesque fishing harbor and walls. |
+| Uniqueness | 8.3 | Distinct coastal urban ensemble. |
+| Significance | 8.4 | Regional Ottoman and maritime heritage. |
+| Experience | 8.7 | Walkable public streets and waterfront. |
+| Depth | 8.2 | Compact connected urban precinct. |
+
+- Applicable categories: architecture:8.8, history:8.8, culture:8.7, photography:9.0.
+- Computed worldwide overall: 84.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-ghar-el-melh-fortifications — Ghar el-Melh Ottoman Fortifications and Old Port — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/ghar-el-melh-fortifications.yaml)
+- Action: new
+- Precise subject and limitations: Three Ottoman forts and old harbor grouped; published camera point near Borj El Woustani, not entrance. Municipal profile https://oidp-afrique.org/2022/06/03/commune-de-ghar-el-melh/ confirms three forts. Wetland interpretation center documented at https://www.zones-humides.org/centre-tunisien-des-zones-humides-de-ghar-el-melh; opening and individual fort access conditional.
+- Location check: 37.169057, 10.191686; [published representative point](https://commons.wikimedia.org/wiki/File:Fort_lazret_ghar_el_melh.jpg), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/kelibia-fort](../../../countries/TN/sights/kelibia-fort.yaml) | 8.7 / 8.7 / 9.0 / 8.6 / 8.4 | impact: -0.6 vs peer; experience: -0.5 vs peer. |
+| [TN/borj-ghazi-mustapha](../../../countries/TN/sights/borj-ghazi-mustapha.yaml) | 8.3 / 8.5 / 8.8 / 8.3 / 7.8 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [TN/mahdia-medina-fortress](../../../countries/TN/sights/mahdia-medina-fortress.yaml) | 8.7 / 8.6 / 8.9 / 8.7 / 8.5 | impact: -0.6 vs peer; experience: -0.6 vs peer. |
+| [OM/nakhal-fort](../../../countries/OM/sights/nakhal-fort.yaml) | 8.3 / 8.1 / 8.4 / 8.3 / 7.7 | uniqueness: +0.5 vs peer; depth: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Interesting fort architecture and lagoon setting. |
+| Uniqueness | 8.6 | Unusual three-fort port ensemble. |
+| Significance | 8.7 | Ottoman coastal defense heritage. |
+| Experience | 8.1 | Public exterior circuit; interior conditional. |
+| Depth | 8.1 | Several nearby monuments. |
+
+- Applicable categories: architecture:8.9, history:9.0, photography:8.6, culture:8.5.
+- Computed worldwide overall: 83.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-tn-testour-historic-centre — Testour Historic Centre and Great Mosque Exterior — 2026-11-27
+
+- YAML: [source](../../../countries/TN/sights/testour-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Historic Andalusian settlement, public square, streets and mosque exterior; mosque architecture independently documented at https://islamicart.museumwnf.org/database_item.php?id=monument%3BISL%3Btn%3BMon01%3B3%3Ben. No non-Muslim prayer hall admission assumed.
+- Location check: 36.55389, 9.44694; [published representative point](https://en.wikipedia.org/wiki/Great_Mosque_of_Testour), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/sidi-bou-said](../../../countries/TN/sights/sidi-bou-said.yaml) | 9.0 / 8.8 / 8.7 / 8.8 / 7.9 | impact: -1.0 vs peer; experience: -0.6 vs peer. |
+| [TN/medina-sfax](../../../countries/TN/sights/medina-sfax.yaml) | 8.2 / 8.4 / 8.5 / 8.1 / 8.0 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [TN/chenini-heritage-village](../../../countries/TN/sights/chenini-heritage-village.yaml) | 8.8 / 9.1 / 8.7 / 8.5 / 8.3 | impact: -0.8 vs peer; uniqueness: -0.5 vs peer. |
+| [TN/medina-tunis](../../../countries/TN/sights/medina-tunis.yaml) | 9.1 / 9.1 / 9.3 / 9.0 / 9.2 | depth: -1.3 vs peer; impact: -1.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Distinctive architecture at town scale. |
+| Uniqueness | 8.6 | Unusual Morisco architectural heritage. |
+| Significance | 8.6 | Important regional Andalusian settlement. |
+| Experience | 8.2 | Public historic town walk. |
+| Depth | 7.9 | Compact visitor precinct. |
+
+- Applicable categories: architecture:9.0, culture:8.9, history:8.8, photography:8.5.
+- Computed worldwide overall: 82.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

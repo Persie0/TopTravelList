@@ -680,3 +680,12 @@ Nine additions and 36 peer comparisons. Tunisia 37 ranked / 48 total; eleven pre
 - [x] TN — Cap Serrat Beach and Coastal Forest: 81.45/100 (source-linked-unverified).
 
 Seven additions; 28 peer rows. Tunisia 44 ranked / 55 total; 11 prior unassessed unchanged. El Haouaria access conditional; Cap Serrat excludes lighthouse and private camps; Sidi Bou Said museums separate from public village walk; medina/fort bundles prevent duplicate records. New concrete candidates from official regional overview https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga: Utica archaeological site, Bizerte old town/fort, Ghar el-Melh fortifications and Testour historic centre. Keep Tunisia open for that bounded screen rather than falsely declaring the queue exhausted. Full Python validation and independent corroboration pending.
+
+### Pass 62 — Bizerte–Dougga regional screen and Tunisia queue closure
+
+- [x] TN — Utica Archaeological Site and Museum: 85.60/100 (source-linked-unverified).
+- [x] TN — Bizerte Medina, Old Port and Kasbah: 84.30/100 (source-linked-unverified).
+- [x] TN — Ghar el-Melh Ottoman Fortifications and Old Port: 83.45/100 (source-linked-unverified).
+- [x] TN — Testour Historic Centre and Great Mosque Exterior: 82.90/100 (source-linked-unverified).
+
+Four additions and 16 peer rows. Tunisia 48 ranked / 59 total; 29 additions across passes 59–62; eleven prior unassessed unchanged. Official Bizerte–Dougga regional inventory checked: Dougga and Ichkeul already present; Utica, Bizerte, Ghar el-Melh and Testour now covered. Avoid splitting linked fort complexes, small site museums and generic beaches; no further high-priority distinct candidate in current named queue. Close Tunisia discovery queue and rotate to Algeria; reopen on concrete new substantial omission or access change. Full Python validation, individual peer YAML checks and independent corroboration remain pending.

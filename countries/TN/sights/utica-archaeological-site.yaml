@@ -1,0 +1,17 @@
+id: sight-tn-utica-archaeological-site
+name: "Utica Archaeological Site and Museum"
+location:
+  country_code: TN
+  latitude: 37.05556
+  longitude: 10.05889
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9.1
+  experience: 8.4
+  depth: 8.4
+  categories:
+    history: 9.3
+    architecture: 8.8
+    culture: 8.6
+    photography: 8.5
