@@ -1,0 +1,10 @@
+# Pass 197 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial estimates based on UNESCO nomination and historical tour operator description. No current admission or safety claim. Existing numeric fields and coordinates retained. Qualitative comparisons only; numerical calibration pending.
+
+## KP/sights/paektu
+Status: source-linked-unverified. Sources: https://koryogroup.com/travel-guide/samjiyon-north-korea-a-complete-guide. DPRK side of volcanic summit and Heaven Lake. Historically documented guided mountain viewpoints; no transfer of Chinese-side facilities or routes, no guaranteed clear weather or unrestricted descent to lake. Comparisons: Less extensive volcanic landscape than Kamchatka; less varied geothermal features than Yellowstone; less concentrated rock scenery than Huangshan; distinctive crater-lake setting relative to Teide. I/U/S/E/D: 9.3, 9.1, 9, 9, 8.9. Overall 91.05. 90+ numerical benchmark review pending.
+
+## KP/sights/west-sea-wetlands
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/6963/. Two nominated estuarine wetland areas important for migratory shorebirds. Hypothetical approved shore-based habitat interpretation only; no promise of bird sightings or unrestricted access to protected or border areas. Comparisons: Less varied wetland landscape than Okavango; less documented birdwatching access than Wadden Sea; less concentrated scenery than Ha Long Bay; less established visitor infrastructure than Suncheon Bay. I/U/S/E/D: 8.1, 8.7, 9.1, 8, 8.6. Overall 84.85. 
+
+5 null-only core fields filled. Pass total: 20 records (5 Tajikistan, 15 North Korea), 46 missing core fields and 80 qualitative comparisons. Existing scores and coordinates retained. Tajikistan backlog provisionally exhausted; Rason, Samjiyon and Wonsan remain. High-score numerical calibration required for Mount Kumgang and paektu. Serial/individual heritage overlaps flagged. Historical operator accounts are not independent verification of current visitor conditions. Full validation, ranking regeneration and merge pending. No Actions manually dispatched.

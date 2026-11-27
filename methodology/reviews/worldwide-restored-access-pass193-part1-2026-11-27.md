@@ -1,0 +1,31 @@
+# Pass 193 — access-independent reassessment, part 1
+2026-11-27. Provisional editorial estimates, not current visitor access or safety claims. Official heritage and conservation descriptions establish identity and habitat but do not establish all visitor activities. Existing scores and coordinates preserved. Four qualitative comparisons per entry; numeric peer verification pending.
+
+## SS/sights/badingilo-national-park
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/list/1808/ ; https://www.africanparks.org/the-parks/badingilo-boma. Wet-season migration aggregation habitat; authorized viewing scenario, seasonal herds not guaranteed. Only named park, not whole migration landscape. Comparisons: Less predictable viewing than Chobe; less diverse wetland safari than Moremi; less established walking circuit than Khao Sok; greater migration scale than Dibeen. I/U/S/E/D: 9, 9.6, 9.7, 8.8, 8.8. Overall 92.40. 90+ numerical benchmark review pending.
+
+## SS/sights/boma-badingilo-migratory-landscape
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/list/1808/ ; https://www.africanparks.org/great-nile-migration-south-sudan. Inscribed ecosystem encompassing both parks and corridors; exceptionally large antelope migration. Hypothetical conservation-approved observation of selected habitats, not guaranteed migration sightings or traversing whole property. Overlap with parks and Maruwa flagged. Comparisons: Less varied documented visitor circuit than Okavango; larger migratory ecological scope than Linyanti; less diverse accessible landscape than Yellowstone; less established safari experience than Serengeti. I/U/S/E/D: 9.3, 9.9, 9.9, 8.9, 9.2. Overall 95.00. 90+ numerical benchmark review pending.
+
+## SS/sights/boma-national-park
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/list/1808/ ; https://www.africanparks.org/the-parks/badingilo-boma ; https://atta.travel/resource/south-sudan-opens-first-community-centred-tourist-camp-in-boma-s-great-nile-migration-landscape.html. Migration habitat and documented community tourism initiative. Hypothetical approved park viewing, excluding other parks and guaranteed animal sightings. Comparisons: Less established safari than Chobe; less varied water-based viewing than Moremi; less documented trails than Khao Sok; greater migration relevance than Dibeen. I/U/S/E/D: 9.1, 9.7, 9.7, 8.9, 8.9. Overall 93.20. 90+ numerical benchmark review pending.
+
+## SS/sights/deim-zubeir-slave-route-site
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/6275/. Historic slavery-related trench and fortification remains; respectful hypothetical commemorative interpretation, surviving fabric and local permission required. No claim of museum or guided program. Comparisons: Less extensive surviving monuments than Angkor; less dramatic visible landscape than Tsodilo; less developed memorial interpretation than Robben Island; less intact built fabric than Cape Coast Castle. I/U/S/E/D: 7.3, 8.7, 9.4, 7.8, 8.6. Overall 82.75. 
+
+## SS/sights/fanyikang-game-reserve
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/6276/. Named reserve within Sudd landscape; habitat significance supported by nomination, but specific visitor routes and species observation not established. Hypothetical approved observation only. Comparisons: Less varied wildlife than Chobe; less extensive wetland experience than Moremi; less developed trails than Khao Sok; larger wetland context than Dibeen. I/U/S/E/D: 7.5, 8.4, 8.8, 7.8, 8. Overall 80.80. 
+
+## SS/sights/imatong-central-forest-reserve
+Status: source-linked-unverified. Sources: https://www.keybiodiversityareas.org/en/site/factsheet/6819 ; https://gda.esa.int/story/earth-observation-brings-south-sudans-forests-into-view/. Montane forest and important endemic biodiversity; hypothetical low-impact approved forest interpretation, not automatically including Kinyeti summit. Comparisons: Less extensive visitor trail system than Khao Sok; less varied observable wildlife than Chobe; less varied water habitats than Moremi; more extensive montane ecology than Dibeen. I/U/S/E/D: 8.4, 8.6, 8.9, 8.4, 8.7. Overall 85.80. 
+
+## SS/sights/lantoto-national-park
+Status: source-linked-unverified. Sources: https://www.protectedplanet.net/10737 ; https://radioyei.org/news/environment/yeis-lantoto-game-park-records-decline-in-wildlife-poaching/ ; https://www.cambridge.org/core/journals/african-studies-review/article/wildlife-management-in-south-sudan-19012021-conservation-amidst-conflict/80F69E855F4003020A315146880CD8E7. Protected forest and woodland habitat; legal gazettement and exact boundaries need review. Community permission and habitat protection retained; historical wildlife not guaranteed. Comparisons: Less established game viewing than Chobe; less varied wetlands than Moremi; less established forest trails than Khao Sok; larger landscape context than Dibeen. I/U/S/E/D: 7.8, 8, 8.4, 7.9, 8.1. Overall 80.15. 
+
+## SS/sights/maruwa-hills-visitor-sector-boma
+Status: source-linked-unverified. Sources: https://atta.travel/resource/south-sudan-opens-first-community-centred-tourist-camp-in-boma-s-great-nile-migration-landscape.html. Community-focused camp opened March 2026, supporting a visitor-sector concept, not proof of a repeatable itinerary or camp quality. Hypothetical approved landscape observation; overlaps Boma. Comparisons: Less diverse safari scope than Chobe; less varied water landscapes than Moremi; less extensive trails than Khao Sok; greater savanna context than Dibeen. I/U/S/E/D: 8.3, 8.5, 8.3, 8.5, 8.2. Overall 83.70. 
+
+## SS/sights/meshra-game-reserve
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/6276/. Named wetland reserve. Hypothetical conservation-compatible viewing; site-specific routes and wildlife observation unresolved. Excludes entire Sudd as additive scope. Comparisons: Less established wildlife viewing than Chobe; less varied documented wetland tours than Moremi; less varied trails than Khao Sok; broader floodplain context than Dibeen. I/U/S/E/D: 7.7, 8.5, 8.8, 8, 8.2. Overall 82.15. 
+
+27 null-only core fields filled. Full validation and ranking regeneration pending.

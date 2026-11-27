@@ -1,0 +1,10 @@
+# Pass 191 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial estimates; UNESCO property descriptions and prior repository documentation. Historical or hypothetical lawful experiences, not current access or safety. Existing numerical values and coordinates retained. Qualitative comparisons only; numerical benchmarks pending.
+
+## NE/sights/w-national-park-archaeological-sites
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/5054/. Dispersed prehistoric and historical archaeological evidence in Niger's W park. Hypothetical supervised interpretation of conserved surface remains, not the natural park experience or access to excavations. Comparisons: Less monumental than Great Zimbabwe; less legible urban archaeology than Djenné-Djeno; less extensive visible remains than Kilwa; less developed visitor interpretation than Mapungubwe. I/U/S/E/D: 7.3, 8.7, 9.1, 7.7, 8.5. Overall 81.90. 
+
+## NE/sights/w-national-park-niger
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/list/749/ ; https://whc.unesco.org/en/decisions/6867/. Niger's W sector of the transnational conservation complex. Hypothetical lawful nature observation of riverine and savanna habitats; excludes Arly and Pendjari and does not promise wildlife encounters or current admission. Comparisons: Less concentrated wildlife than Serengeti; less extensive established game-viewing circuits than Kruger; less varied wetland environments than Okavango; less dramatic terrain than Ngorongoro. I/U/S/E/D: 8.8, 8.8, 9.1, 8.6, 8.8. Overall 88.30. 
+
+5 null-only core fields filled. Pass total: 20 records (7 Burkina Faso, 13 Niger), 57 missing core fields, 80 qualitative comparisons. Burkina Faso queue provisionally exhausted; six Niger records remain (five towns and Lake Chad cultural landscape). Rock-art and salt-route parent/component overlaps flagged; no additive ranking. Aïr and Ténéré high score and inherited 9.6 fields require numerical benchmark review. Full validation, ranking regeneration and merge pending. No Actions manually dispatched.

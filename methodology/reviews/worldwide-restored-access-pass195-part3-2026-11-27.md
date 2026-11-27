@@ -1,0 +1,10 @@
+# Pass 195 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial scores from UNESCO nomination and Smithsonian Global Volcanism Program. Hypothetical lawful normal access, not current access or safety. Existing scores and coordinates retained. Four qualitative comparisons per entry; numerical verification pending.
+
+## LY/sights/sayeda-mariam-square
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/7020/. Compact restored historic square in Tripoli with varied religious, commercial and diplomatic architectural fabric; nomination documents cultural activities. Ordinary public exterior interpretation, no guarantee of access to adjoining interiors. Overlap with medina record flagged. Comparisons: Less monumental than Grand Place; less extensive civic architecture than Piazza San Marco; less varied public museum circuit than Sultanahmet; less extensive historic urban scope than Tripoli medina. I/U/S/E/D: 7.6, 8, 8.3, 8.5, 8.2. Overall 80.35. 
+
+## LY/sights/waw-an-namus
+Status: source-linked-unverified. Sources: https://volcano.si.edu/volcano.cfm?vn=225008. Isolated Sahara caldera and dark volcanic deposits contrasting with light desert sands; hypothetical authorized geological landscape interpretation, without claiming established access, guaranteed water conditions or unrestricted crater descent. Comparisons: Less varied geothermal activity than Yellowstone; less extensive volcanic mountain scenery than Kamchatka; less varied volcanic visitor circuit than Iceland's highlands; distinctive desert contrast relative to Teide. I/U/S/E/D: 9.1, 9.3, 8.5, 9, 8.7. Overall 89.75. 
+
+4 null-only core fields filled. Pass total: 20 records (8 Somalia, 12 Libya), 51 missing core fields, 80 qualitative peer comparisons. Existing numeric values and coordinates retained. Somalia and Libya incomplete queues provisionally exhausted across pending passes. Museum collection inventory, modern settlement visitor evidence and permanent conservation restrictions require further checks. Full numerical calibration, validation, ranking regeneration and merge pending. No Actions manually dispatched.
