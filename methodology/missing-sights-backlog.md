@@ -4994,3 +4994,19 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] EC — Jerusalem Protected Dry Forest and Highland Trails: 83.00/100 (desk-based provisional).
 
 12 additions, 8 source-linked provisional, 4 desk-based provisional, 4 90+, 32 ranking-row comparisons (8 international). EC 120 ranked / 121 total, +66 since baseline 55. Prior 15 UNESCO tentative entries mapped 13/15 at least partially; Bellavista now represents the second named Chocó Soundscape component alongside Mashpi (https://whc.unesco.org/en/tentativelists/6988/); both component names represented, boundaries not independently verified. El Quimi and Galápagos extension unresolved. Five inscribed properties represented per prior inventory (Qhapaq Ñan unassessed). Kapawi and Saraguro scoped to consenting community programmes; no private rites. Sarayaku deferred pending ordinary visitor permission (https://sarayaku.org/en/tayjasaruta/); Bilsa deferred pending contemporary visitor authorization, not a score penalty (https://www.rainforesttrust.org/urgent-projects/bilsa-biological-reserve/). Coangos cave distinct from other oilbird caves; myths excluded, specialist and community permission required. Prior access/overlap deferrals retained. OPEN for final bounded regional screen; existing scores and one unassessed preserved. Coordinates approximate; current schedules, permissions and safety unverified.
+
+### Pass 282 — Ecuador final bounded regional screen and park deferral review
+
+- [x] EC — El Quinche Virgin Pilgrimage Public Procession: 91.45/100 (source-linked-unverified).
+- [x] EC — Machachi Paseo Procesional del Chagra Public Equestrian Parade: 91.05/100 (source-linked-unverified).
+- [x] EC — El Altar Laguna Amarilla and Collanes Valley Trek: 91.00/100 (source-linked-unverified).
+- [x] EC — Chota Valley Carnaval Coangue Public Bomba Music and Dance: 90.65/100 (source-linked-unverified).
+- [x] EC — Río Negro Sopladora National Park Authorized Forest and Highland Trails: 88.00/100 (source-linked-unverified).
+- [x] EC — San Antonio de Ibarra Woodcarving Workshops and Galleries: 87.30/100 (source-linked-unverified).
+- [x] EC — Riobamba Historic Centre and Traditional Streets: 84.85/100 (source-linked-unverified).
+- [x] EC — Baños Casa del Árbol Volcano Viewpoint and Swing: 83.65/100 (source-linked-unverified).
+- [x] EC — San Gabriel Historic Centre and Traditional Architecture: 83.60/100 (source-linked-unverified).
+- [x] EC — Yahuarcocha Lake Landscape and Historical Interpretation: 83.45/100 (source-linked-unverified).
+- [x] EC — Chachimbiro Highland Thermal Springs: 80.95/100 (desk-based provisional).
+
+11 additions, 10 source-linked provisional, 1 desk-based provisional, 4 90+, 30 ranking-row comparisons (8 international). EC 131 ranked / 132 total, +77 since baseline 55. Prior 13/15 tentative properties at least partially represented; Chocó named components both represented. Rechecked El Quimi (https://whc.unesco.org/en/tentativelists/6986/) and Hermandad Galápagos extension (https://whc.unesco.org/en/tentativelists/6928/): natural heritage significance established but ordinary visitor scope unconfirmed, both deferred. Biosphere extension is not World Heritage inscription. Five inscribed properties represented per prior inventory (Qhapaq Ñan unassessed). Río Negro Sopladora prior deferral resolved narrowly to ranger-confirmed guided trails; El Altar non-additive to Sangay, Machachi excludes bull events and roping. Cotacachi-Cayapas lower zone, Bilsa and Sarayaku prior deferrals retained. PAUSED after six targeted passes to prioritize worldwide discovery; not exhaustive, known access and tentative-property questions remain. Existing scores and one unassessed preserved. Coordinates approximate; current schedules, permissions and safety unverified. Next country Bolivia.

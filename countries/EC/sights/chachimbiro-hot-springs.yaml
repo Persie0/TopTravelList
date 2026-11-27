@@ -1,0 +1,16 @@
+id: sight-ec-chachimbiro-hot-springs
+name: "Chachimbiro Highland Thermal Springs"
+location:
+  country_code: EC
+  latitude: 0.47
+  longitude: -78.22
+scores:
+  impact: 8.0
+  uniqueness: 8.1
+  significance: 7.7
+  experience: 8.8
+  depth: 8.1
+  categories:
+    relaxation: 9.3
+    nature: 8.7
+    family: 8.8

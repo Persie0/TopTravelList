@@ -2588,3 +2588,244 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 281 scope decisions
 
 12 additions, 8 source-linked provisional, 4 desk-based provisional, 4 90+, 32 ranking-row comparisons (8 international). EC 120 ranked / 121 total, +66 since baseline 55. Prior 15 UNESCO tentative entries mapped 13/15 at least partially; Bellavista now represents the second named Chocó Soundscape component alongside Mashpi (https://whc.unesco.org/en/tentativelists/6988/); both component names represented, boundaries not independently verified. El Quimi and Galápagos extension unresolved. Five inscribed properties represented per prior inventory (Qhapaq Ñan unassessed). Kapawi and Saraguro scoped to consenting community programmes; no private rites. Sarayaku deferred pending ordinary visitor permission (https://sarayaku.org/en/tayjasaruta/); Bilsa deferred pending contemporary visitor authorization, not a score penalty (https://www.rainforesttrust.org/urgent-projects/bilsa-biological-reserve/). Coangos cave distinct from other oilbird caves; myths excluded, specialist and community permission required. Prior access/overlap deferrals retained. OPEN for final bounded regional screen; existing scores and one unassessed preserved. Coordinates approximate; current schedules, permissions and safety unverified.
+
+
+## sight-ec-el-quinche-pilgrimage — El Quinche Virgin Pilgrimage Public Procession — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/el-quinche-pilgrimage.yaml)
+- Action: new
+- Scope: Quito municipal authorities documented public pilgrimage 13–15 November 2026. Scope public procession and voluntary participation; sanctuary not separately scored here, future schedule and traffic arrangements unverified.
+- Representative coordinates: -0.108, -78.295; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.4 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.4 photography:9.2.
+- Overall: 91.45/100.
+- Source: https://quitoinforma.quito.gob.ec/2026/11/13/romeria-de-el-quinche-control-y-rutas-de-transporte-publico-facilitaran-el-retorno-de-los-peregrinos/
+- Source: https://www.patrimoniocultural.gob.ec/9631-2/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive named cultural or natural visitor experience; relative dimensions shown below, broader like-for-like international calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/el-cisne-pilgrimage](../../../countries/EC/sights/el-cisne-pilgrimage.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [EC/quito-jesus-gran-poder](../../../countries/EC/sights/quito-jesus-gran-poder.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.0 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-el-altar-laguna-amarilla — El Altar Laguna Amarilla and Collanes Valley Trek — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/el-altar-laguna-amarilla.yaml)
+- Action: new
+- Scope: Riobamba visitor information documents named Collanes and Laguna Amarilla trekking route; La Candelaria parish documents registration requirement. Defined multi-day trek, no summit climbing or current trail guarantee. Within Sangay, non-additive to park-wide itinerary.
+- Representative coordinates: -1.677, -78.42; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.2 / 8.8 / 8.8 / 9.0.
+- Categories: nature:9.4 photography:9.4 adventure:9.4.
+- Overall: 91.00/100.
+- Source: https://riobamba.com.ec/es-ec/chimborazo/riobamba/volcanes/volcan-altar-adc5c8c8e
+- Source: https://www.lacandelaria.gob.ec/index.php/turismo/atractivos-turisticos
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive named cultural or natural visitor experience; relative dimensions shown below, broader like-for-like international calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/sangay-national-park](../../../countries/EC/sights/sangay-national-park.yaml) | 9.1 / 9.2 / 9.5 / 8.0 / 8.9 | impact: +0.3; uniqueness: +0.0 vs peer |
+| [EC/iliniza-peaks](../../../countries/EC/sights/iliniza-peaks.yaml) | 8.9 / 8.8 / 8.5 / 8.3 / 8.5 | impact: +0.5; uniqueness: +0.4 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [CO/tatama-montezuma](../../../countries/CO/sights/tatama-montezuma.yaml) | 9.1 / 9.3 / 9.2 / 8.8 / 9.1 | impact: +0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-machachi-chagra-parade — Machachi Paseo Procesional del Chagra Public Equestrian Parade — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/machachi-chagra-parade.yaml)
+- Action: new
+- Scope: National Assembly recognizes festival as intangible cultural heritage; INPC and provincial tourism document Machachi celebration. Score applies to traditional costumes, procession and public culture; bull events and roping excluded.
+- Representative coordinates: -0.511, -78.568; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.05/100.
+- Source: https://www.asambleanacional.gob.ec/es/noticia/55354-pleno-reconoce-el-paseo-procesional-del-chagra-como
+- Source: https://www.patrimoniocultural.gob.ec/paseo-procesional-del-chagra-de-machachi/
+- Source: https://pichinchaesturismo.com/es-ec/pichincha/mejia/fiestas-tradicionales/paseo-chagra-aacd5ce54
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive named cultural or natural visitor experience; relative dimensions shown below, broader like-for-like international calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/latacunga-mama-negra](../../../countries/EC/sights/latacunga-mama-negra.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [EC/ambato-fruit-flower-festival](../../../countries/EC/sights/ambato-fruit-flower-festival.yaml) | 9.2 / 9.1 / 9.2 / 9.2 / 9.0 | impact: -0.2; uniqueness: +0.1 vs peer |
+| [CO/manizales-fair](../../../countries/CO/sights/manizales-fair.yaml) | 9.3 / 9.1 / 9.2 / 9.3 / 9.2 | impact: -0.3; uniqueness: +0.1 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-chota-coangue-carnival — Chota Valley Carnaval Coangue Public Bomba Music and Dance — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/chota-coangue-carnival.yaml)
+- Action: new
+- Scope: Municipal tourism documents distinctive bomba music; reporting documents annual community-led Coangue carnival and 2003 origins. Public festival only, not private community rituals or river swimming; past cancellation documented and future programme unverified.
+- Representative coordinates: 0.47, -78.02; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 9.1 / 8.9.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 90.65/100.
+- Source: https://visitibarra.ec/atractivos_detalle.php?id=21
+- Source: https://www.lahora.com.ec/imbaburacarchi/El-Carnaval-Coangue-cumple-20-anos-20230217-0049.html
+- Source: https://www.lahora.com.ec/imbaburacarchi/Se-cancela-el-Carnaval-Coangue-2024-20240129-0021.html
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive named cultural or natural visitor experience; relative dimensions shown below, broader like-for-like international calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/esmeraldas-marimba](../../../countries/EC/sights/esmeraldas-marimba.yaml) | 8.8 / 9.2 / 9.4 / 8.7 / 8.8 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [EC/guaranda-carnival](../../../countries/EC/sights/guaranda-carnival.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [CO/el-banco-cumbia-festival](../../../countries/CO/sights/el-banco-cumbia-festival.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-rio-negro-sopladora-park — Río Negro Sopladora National Park Authorized Forest and Highland Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/rio-negro-sopladora-park.yaml)
+- Action: new
+- Scope: Santiago municipal tourism describes arranging visits through its tourism unit and confirming enabled routes with rangers; 2018 tourism ministry documents protected area. Scope authorized guided trails only, not entire protected habitat or unverified through-hike. Representative regional point, entrance unverified.
+- Representative coordinates: -3.08, -78.65; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.3 / 8.9.
+- Categories: nature:9.4 wildlife:9.3 adventure:9.0.
+- Overall: 88.00/100.
+- Source: https://mendez.gob.ec/atractivos-turisticos/
+- Source: https://historicomintur.produccion.gob.ec/parque-nacional-rio-negro-sopladora-nueva-alternativa-turistica-en-azuay-y-morona-santiago/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/sangay-national-park](../../../countries/EC/sights/sangay-national-park.yaml) | 9.1 / 9.2 / 9.5 / 8.0 / 8.9 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [EC/yacuri-national-park](../../../countries/EC/sights/yacuri-national-park.yaml) | 8.7 / 8.6 / 8.8 / 8.4 / 8.5 | impact: +0.1; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-san-antonio-ibarra-woodcarving — San Antonio de Ibarra Woodcarving Workshops and Galleries — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/san-antonio-ibarra-woodcarving.yaml)
+- Action: new
+- Scope: INPC records recognition of woodcarving as intangible heritage; municipal tourism documents artisan workshops. Consent-based demonstrations and public galleries only.
+- Representative coordinates: 0.33, -78.17; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.3 / 8.9 / 9.2 / 8.7 / 8.7.
+- Categories: culture:9.4 history:9.2 photography:8.9.
+- Overall: 87.30/100.
+- Source: https://www.patrimoniocultural.gob.ec/el-tallado-de-san-antonio-de-ibarra-patrimonio-cultural-inmaterial-del-ecuador/
+- Source: https://visitibarra.ec/atractivos_detalle.php?id=45&idioma=en
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/montecristi-toquilla](../../../countries/EC/sights/montecristi-toquilla.yaml) | 8.2 / 8.9 / 9.1 / 8.6 / 8.3 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [EC/gualaceo-chordeleg-crafts](../../../countries/EC/sights/gualaceo-chordeleg-crafts.yaml) | 8.2 / 8.6 / 8.8 / 8.7 / 8.6 | impact: +0.1; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-yahuarcocha-lake — Yahuarcocha Lake Landscape and Historical Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/yahuarcocha-lake.yaml)
+- Action: new
+- Scope: Municipal tourism identifies lake and historical context. Scope lake walks and public interpretation, no water quality, swimming or specific boat operation claim.
+- Representative coordinates: 0.38, -78.1; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.1 / 8.3 / 8.8 / 8.4 / 8.2.
+- Categories: nature:8.9 history:9.0 photography:8.9.
+- Overall: 83.45/100.
+- Source: https://visitibarra.ec/atractivos_detalle.php?id=56&idioma=es
+- Source: https://visitibarra.ec/atractivos_detalle.php?id=2
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/cuicocha-crater-lake](../../../countries/EC/sights/cuicocha-crater-lake.yaml) | 8.8 / 8.7 / 7.8 / 8.7 / 7.8 | impact: -0.7; uniqueness: -0.4 vs peer |
+| [EC/quilotoa-crater-lake](../../../countries/EC/sights/quilotoa-crater-lake.yaml) | 9.4 / 9.0 / 8.1 / 9.0 / 7.9 | impact: -1.3; uniqueness: -0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-san-gabriel-historic-centre — San Gabriel Historic Centre and Traditional Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/san-gabriel-historic-centre.yaml)
+- Action: new
+- Scope: Tourism ministry describes historic colonial buildings and streets. Built heritage only; no guaranteed interior admission.
+- Representative coordinates: 0.593, -77.83; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.1 / 8.4 / 8.7 / 8.4 / 8.3.
+- Categories: architecture:9.1 history:9.0 culture:8.9.
+- Overall: 83.60/100.
+- Source: https://historicomintur.produccion.gob.ec/destinos-turisticos-sostenibles/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/loja-historic-centre](../../../countries/EC/sights/loja-historic-centre.yaml) | 8.1 / 8.3 / 8.8 / 8.4 / 8.6 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [EC/latacunga-historic-centre](../../../countries/EC/sights/latacunga-historic-centre.yaml) | 8.1 / 8.2 / 8.6 / 8.3 / 8.2 | impact: +0.0; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-banos-casa-del-arbol — Baños Casa del Árbol Volcano Viewpoint and Swing — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/banos-casa-del-arbol.yaml)
+- Action: new
+- Scope: Local chamber of tourism lists named viewpoint attraction. No guarantee of visibility or safe/available swing operation; distinct from waterfall route.
+- Representative coordinates: -1.419, -78.427; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.5 / 7.5 / 8.8 / 7.8.
+- Categories: photography:9.4 adventure:9.0 nature:8.9.
+- Overall: 83.65/100.
+- Source: https://www.banostravel.com/banos?category=Atractivos
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/teleferiqo](../../../countries/EC/sights/teleferiqo.yaml) | 8.5 / 8.2 / 6.8 / 8.6 / 7.3 | impact: +0.3; uniqueness: +0.3 vs peer |
+| [EC/ruta-de-las-cascadas-banos](../../../countries/EC/sights/ruta-de-las-cascadas-banos.yaml) | 8.7 / 8.3 / 7.2 / 8.9 / 8.4 | impact: +0.1; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-riobamba-historic-centre — Riobamba Historic Centre and Traditional Streets — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/riobamba-historic-centre.yaml)
+- Action: new
+- Scope: Tourism ministry lists historic city experiences; built environment and public streets only, excludes El Altar and Chimborazo excursions.
+- Representative coordinates: -1.67, -78.65; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.2 / 8.4 / 8.9 / 8.5 / 8.7.
+- Categories: architecture:9.1 history:9.2 culture:9.0.
+- Overall: 84.85/100.
+- Source: https://historicomintur.produccion.gob.ec/destinos-turisticos-sostenibles/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/loja-historic-centre](../../../countries/EC/sights/loja-historic-centre.yaml) | 8.1 / 8.3 / 8.8 / 8.4 / 8.6 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [EC/historic-centre-of-cuenca](../../../countries/EC/sights/historic-centre-of-cuenca.yaml) | 8.9 / 8.7 / 9.2 / 8.9 / 8.9 | impact: -0.7; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-chachimbiro-hot-springs — Chachimbiro Highland Thermal Springs — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/chachimbiro-hot-springs.yaml)
+- Action: new
+- Scope: Desk-based thermal recreation near Urcuquí, not medical treatment; facility selection and opening unverified.
+- Representative coordinates: 0.47, -78.22; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.0 / 8.1 / 7.7 / 8.8 / 8.1.
+- Categories: relaxation:9.3 nature:8.7 family:8.8.
+- Overall: 80.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/papallacta-hot-springs](../../../countries/EC/sights/papallacta-hot-springs.yaml) | 7.9 / 7.6 / 6.4 / 8.7 / 7.5 | impact: +0.1; uniqueness: +0.5 vs peer |
+| [EC/agua-blanca-community](../../../countries/EC/sights/agua-blanca-community.yaml) | 8.2 / 8.7 / 9.0 / 8.7 / 8.7 | impact: -0.2; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 282 scope decisions
+
+11 additions, 10 source-linked provisional, 1 desk-based provisional, 4 90+, 30 ranking-row comparisons (8 international). EC 131 ranked / 132 total, +77 since baseline 55. Prior 13/15 tentative properties at least partially represented; Chocó named components both represented. Rechecked El Quimi (https://whc.unesco.org/en/tentativelists/6986/) and Hermandad Galápagos extension (https://whc.unesco.org/en/tentativelists/6928/): natural heritage significance established but ordinary visitor scope unconfirmed, both deferred. Biosphere extension is not World Heritage inscription. Five inscribed properties represented per prior inventory (Qhapaq Ñan unassessed). Río Negro Sopladora prior deferral resolved narrowly to ranger-confirmed guided trails; El Altar non-additive to Sangay, Machachi excludes bull events and roping. Cotacachi-Cayapas lower zone, Bilsa and Sarayaku prior deferrals retained. PAUSED after six targeted passes to prioritize worldwide discovery; not exhaustive, known access and tentative-property questions remain. Existing scores and one unassessed preserved. Coordinates approximate; current schedules, permissions and safety unverified. Next country Bolivia.
