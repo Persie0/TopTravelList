@@ -1933,3 +1933,38 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Salin de Gruissan Saltworks and Heritage Tours: 86.30/100 (desk-based provisional).
 
 30 additions, 19 fast provisional estimates, 11 source-informed candidates, 6 90+, 44 peer comparisons. France 505 ranked / 516 total; 11 existing unassessed unchanged. UNESCO confirms Quéribus, Peyrepertuse, Puilaurens, Aguilar, Lastours and Termes within Capetian series (https://whc.unesco.org/en/list/1755/); no duplicate. Villefranche and Mont-Louis fortifications deferred under Vauban property; Espiguette and Collioure coastal townscape deferred for broader coastal overlap; Paulilles industrial interpretation independent. Canigó summit scope excludes abbey. Cave tentative-series boundaries unresolved. 0 peer references not located; domestic calibration only. Next bounded screen: Provence-Alpes-Côte d’Azur: Marseille museums and monuments (Mucem, Notre-Dame de la Garde, Palais Longchamp, Château d'If scope), Aix-en-Provence, Luberon villages, ochre trails, Sénanque, Les Baux, Arles museums, Avignon independent collections, Camargue scope, Verdon and Riviera residuals; remaining Occitanie flags (Villefranche non-fortification sites, Espiguette boundary, Aude coast and inland villages). Full Python validation pending.
+
+### Pass 150 — accelerated Marseille, Aix, Luberon and Arles audit
+
+- [x] FR — Mucem Marseille Mediterranean Civilizations Museum and Fort Saint-Jean: 92.60/100 (source-linked-unverified).
+- [x] FR — Notre-Dame de la Garde Basilica and Panoramic Viewpoint Marseille: 90.90/100 (source-linked-unverified).
+- [x] FR — Musée Départemental Arles Antique Archaeology Museum: 91.80/100 (source-linked-unverified).
+- [x] FR — Musée Granet and Granet XXe Aix-en-Provence Fine Arts Museum: 91.25/100 (source-linked-unverified).
+- [x] FR — Carrières des Lumières Immersive Digital Art Centre: 90.90/100 (source-linked-unverified).
+- [x] FR — LUMA Arles Contemporary Art Centre and Parc des Ateliers: 90.50/100 (source-linked-unverified).
+- [x] FR — Colorado Provençal Rustrel Ochre Quarry Trails: 89.90/100 (source-linked-unverified).
+- [x] FR — Glanum Ancient Archaeological City Saint-Rémy-de-Provence: 90.40/100 (source-linked-unverified).
+- [x] FR — Château d’If Island Fortress and Literary Heritage: 89.60/100 (source-linked-unverified).
+- [x] FR — Abbaye Notre-Dame de Sénanque Cistercian Abbey: 89.45/100 (source-linked-unverified).
+- [x] FR — Roussillon Sentier des Ocres and Historic Ochre Village: 89.25/100 (source-linked-unverified).
+- [x] FR — Palais Longchamp Gardens and Museums Marseille: 89.00/100 (source-linked-unverified).
+- [x] FR — Aix-en-Provence Historic Centre and Cours Mirabeau: 88.90/100 (desk-based provisional).
+- [x] FR — Cathédrale de la Major Marseille: 88.00/100 (desk-based provisional).
+- [x] FR — Le Panier Historic Quarter Marseille: 86.90/100 (desk-based provisional).
+- [x] FR — Centre de la Vieille Charité Marseille Museums: 87.95/100 (desk-based provisional).
+- [x] FR — Abbaye Saint-Victor Marseille and Ancient Crypts: 87.70/100 (desk-based provisional).
+- [x] FR — Musée Cantini Marseille Modern Art Museum: 85.95/100 (desk-based provisional).
+- [x] FR — Gordes Historic Hilltop Village: 88.05/100 (desk-based provisional).
+- [x] FR — Village des Bories Dry Stone Heritage Site: 86.65/100 (desk-based provisional).
+- [x] FR — Mines de Bruoux Ochre Mining Heritage: 88.50/100 (desk-based provisional).
+- [x] FR — Lourmarin Historic Village and Renaissance Castle: 87.25/100 (desk-based provisional).
+- [x] FR — Bonnieux Historic Hilltop Village: 86.20/100 (desk-based provisional).
+- [x] FR — Ménerbes Historic Hilltop Village: 86.00/100 (desk-based provisional).
+- [x] FR — Fontaine-de-Vaucluse Karst Spring and Riverside Walk: 87.55/100 (desk-based provisional).
+- [x] FR — L’Isle-sur-la-Sorgue Historic Canals and Antique Markets: 87.45/100 (desk-based provisional).
+- [x] FR — Saint-Rémy-de-Provence Historic Centre: 86.70/100 (desk-based provisional).
+- [x] FR — Saint-Paul-de-Mausole Van Gogh Heritage Site: 88.55/100 (desk-based provisional).
+- [x] FR — Abbaye de Silvacane Cistercian Abbey: 87.80/100 (desk-based provisional).
+- [x] FR — Museon Arlaten Provençal Ethnography Museum: 88.50/100 (desk-based provisional).
+
+30 additions, 18 fast provisional estimates, 12 source-informed candidates, 7 90+, 48 peer comparisons. France 535 ranked / 546 total; 11 existing unassessed unchanged. Mucem includes Fort Saint-Jean, château d'If fortress distinct from roadstead landscape but overlap flagged; Carrières distinct from existing Baux castle. Arles Montmajour deferred as UNESCO overlap (https://whc.unesco.org/en/list/164/); Cézanne artist sites deferred pending existing Sainte-Victoire scope. 0 peer references not located (); domestic calibration only. Next bounded screen: Provence remaining: Avignon independent museums and collections, Villeneuve-lès-Avignon, Arles Réattu, Fondation Vincent van Gogh, Camargue scoped attractions, Luberon residuals, Orange independent sites, Vaison-la-Romaine, Mont Ventoux, Dentelles de Montmirail, Forcalquier, Moustiers-Sainte-Marie, upper Verdon and Alpes-de-Haute-Provence. Full Python validation pending.

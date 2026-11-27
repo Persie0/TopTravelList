@@ -1,0 +1,16 @@
+id: sight-fr-menerbes-village
+name: "Ménerbes Historic Hilltop Village"
+location:
+  country_code: FR
+  latitude: 43.832
+  longitude: 5.206
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    photography: 9.2
+    architecture: 9.1
+    relaxation: 9.1

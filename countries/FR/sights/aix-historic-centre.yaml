@@ -1,0 +1,17 @@
+id: sight-fr-aix-historic-centre
+name: "Aix-en-Provence Historic Centre and Cours Mirabeau"
+location:
+  country_code: FR
+  latitude: 43.527
+  longitude: 5.449
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    photography: 9.3
+    culture: 9.2
+    relaxation: 9.2

@@ -1,0 +1,16 @@
+id: sight-fr-saint-paul-mausole
+name: "Saint-Paul-de-Mausole Van Gogh Heritage Site"
+location:
+  country_code: FR
+  latitude: 43.776
+  longitude: 4.835
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.4
+    history: 9.3
+    photography: 9.1

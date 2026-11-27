@@ -1,0 +1,16 @@
+id: sight-fr-gordes-village
+name: "Gordes Historic Hilltop Village"
+location:
+  country_code: FR
+  latitude: 43.912
+  longitude: 5.2
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.9
+  depth: 8.5
+  categories:
+    photography: 9.4
+    architecture: 9.3
+    relaxation: 9.1
