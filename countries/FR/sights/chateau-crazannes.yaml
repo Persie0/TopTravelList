@@ -1,0 +1,17 @@
+id: sight-fr-chateau-crazannes
+name: "Château de Crazannes Castle and Gardens"
+location:
+  country_code: FR
+  latitude: 45.84475
+  longitude: -0.69397
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.1
+    history: 9.0
+    photography: 9.1
+    relaxation: 8.9

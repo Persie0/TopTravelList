@@ -9913,3 +9913,236 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-la-rochelle-old-port — La Rochelle Historic Harbour and Medieval Towers — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/la-rochelle-old-port.yaml)
+- Action: new
+- Precise subject and limitations: Old Port quays and three medieval towers; excludes aquarium and inland city museums. Saint-Nicolas closure does not penalize established tower visit.
+- Location check: 46.15577, -1.15317; [published representative point](https://mapcarta.com/fr/39370576), source inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.tours-la-rochelle.fr/en/discover/history-of-towers-of-la-rochelle); indexed excerpts or page text inspected 2026-11-27. CMN identifies three towers and medieval origins; https://www.tours-la-rochelle.fr/en/visit/practical-information documents Saint-Nicolas closure. Further calibration: visually stronger and more architecturally varied than Honfleur, with lower regional breadth than a full city landscape. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/honfleur-old-harbour](../../../countries/FR/sights/honfleur-old-harbour.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 8.6 | significance: +0.3 vs peer; depth: +0.2 vs peer. |
+| [FR/saint-goustan-harbour](../../../countries/FR/sights/saint-goustan-harbour.yaml) | 8.7 / 8.6 / 8.7 / 8.9 / 8.4 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer. |
+| [ES/cudillero-harbour](../../../countries/ES/sights/cudillero-harbour.yaml) | 8.9 / 8.7 / 8.2 / 8.8 / 8.1 | significance: +0.8 vs peer; depth: +0.7 vs peer. |
+| [IE/spike-island](../../../countries/IE/sights/spike-island.yaml) | 8.5 / 8.7 / 8.9 / 8.7 / 8.6 | impact: +0.6 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Strong harbour gateway silhouette. |
+| Uniqueness | 9.0 | Three complementary maritime towers. |
+| Significance | 9.0 | Medieval port defensive history. |
+| Experience | 9.0 | Harbour walk and established tower visits. |
+| Depth | 8.8 | Several distinct monuments and quays. |
+
+- Applicable categories: architecture:9.3, history:9.3, photography:9.4, culture:9.1.
+- Computed worldwide overall: 90.10/100.
+- High-score challenge: 90+ provisional; further calibration required; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-hermione-frigate — L’Hermione Replica Frigate Maritime Heritage Visit — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/hermione-frigate.yaml)
+- Action: new
+- Precise subject and limitations: Modern sailing replica, shipboard and construction interpretation only; excludes Rochefort arsenal and other museums. Location is operator's Anglet dry dock, subject to future relocation; no assumption of current sailing or specific open dates.
+- Location check: 43.50886, -1.49814; [published representative point](https://fregate-hermione.com/en/practical-info/), source inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://fregate-hermione.com/en/lhermione/); indexed excerpts or page text inspected 2026-11-27. Operator documents reconstruction and refit in Anglet; https://www.visitbayonne.com/en/discover/what-to-see-and-do-in-bayonne/visit-bayonne/visit-the-hermione/ confirms restoration-focused visits. Operator GPS explicitly verified. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/espadon-submarine](../../../countries/FR/sights/espadon-submarine.yaml) | 8.7 / 9.0 / 8.9 / 8.8 / 8.2 | depth: +0.3 vs peer; impact: +0.2 vs peer. |
+| [FR/escal-atlantic](../../../countries/FR/sights/escal-atlantic.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [GB/titanic-belfast](../../../countries/GB/sights/titanic-belfast.yaml) | 8.8 / 9.0 / 8.9 / 9.0 / 8.7 | significance: -0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [FR/saint-nazaire-shipyard-tour](../../../countries/FR/sights/saint-nazaire-shipyard-tour.yaml) | 9.0 / 9.2 / 8.6 / 8.9 / 8.7 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large traditional wooden vessel. |
+| Uniqueness | 9.2 | Distinct full-size reconstructed frigate. |
+| Significance | 8.7 | Maritime craft and interpretation, not original eighteenth-century ship. |
+| Experience | 8.8 | Established shipboard and workshop visits. |
+| Depth | 8.5 | Focused vessel and interpretation. |
+
+- Applicable categories: history:9.2, culture:9.2, family:9.0, photography:9.1.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-phare-des-baleines — Phare des Baleines Lighthouse and Maritime Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/phare-des-baleines.yaml)
+- Action: new
+- Precise subject and limitations: Main lighthouse ascent, old tower and integrated museum. Excluded from earlier Île de Ré coastal cycling entry; offshore Baleineaux lighthouse excluded.
+- Location check: 46.24419, -1.56112; [published representative point](https://mapcarta.com/W611318589), source inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.pharedesbaleines.com/); indexed excerpts or page text inspected 2026-11-27. Operator describes museum and old tower; https://www.iledere.com/en/organizing-activities-and-leisure/places-to-visit-heritage-culture/museums-and-monuments/phare-des-baleines-lighthouse-the-large-lighthouse-saint-clement-des-baleines-en-107514/ confirms main tower visit. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/ile-vierge-lighthouse](../../../countries/FR/sights/ile-vierge-lighthouse.yaml) | 8.9 / 9.1 / 8.8 / 8.8 / 8.3 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/phare-eckmuhl](../../../countries/FR/sights/phare-eckmuhl.yaml) | 8.9 / 8.9 / 8.7 / 8.8 / 8.1 | depth: +0.6 vs peer; significance: +0.1 vs peer. |
+| [FR/cordouan](../../../countries/FR/sights/cordouan.yaml) | 8.8 / 9.1 / 9.2 / 8.6 / 7.9 | depth: +0.8 vs peer; significance: -0.4 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Tall lighthouse and coastal views. |
+| Uniqueness | 8.9 | Two historic lighthouse generations. |
+| Significance | 8.8 | Maritime navigation heritage. |
+| Experience | 8.9 | Established tower and museum visits. |
+| Depth | 8.7 | Several linked components. |
+
+- Applicable categories: architecture:9.2, history:9.1, photography:9.3, family:9.0.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-ile-oleron-coastal-trails — Île d’Oléron Coastal Cycling and Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ile-oleron-coastal-trails.yaml)
+- Action: new
+- Precise subject and limitations: Island coastal cycling, beaches and headlands. Chassiron lighthouse exterior representative landmark only; excludes separately operated interiors, oyster museums and fortifications.
+- Location check: 46.04669, -1.41028; [published representative point](https://mapcarta.com/W77810428), source inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.oleron-island.com/node/44); indexed excerpts or page text inspected 2026-11-27. Official tourism describes cycling across island to Chassiron and along west coast; quoted network length covers island plus Marennes basin and is not attributed to island alone. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/ile-de-re-coastal-trails](../../../countries/FR/sights/ile-de-re-coastal-trails.yaml) | 9.0 / 8.9 / 8.6 / 9.2 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/ile-de-groix](../../../countries/FR/sights/ile-de-groix.yaml) | 9.0 / 9.0 / 8.6 / 9.0 / 8.9 | uniqueness: -0.2 vs peer; depth: +0.2 vs peer. |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | depth: +0.5 vs peer; significance: -0.3 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.5 vs peer; depth: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Varied Atlantic coast. |
+| Uniqueness | 8.8 | Distinct connected island routes with comparable Atlantic peers. |
+| Significance | 8.5 | Regional maritime landscape. |
+| Experience | 9.1 | Extensive documented cycling. |
+| Depth | 9.1 | Multiple coastal sectors. |
+
+- Applicable categories: nature:9.2, photography:9.2, relaxation:9.3, beaches:9.1, adventure:9.0.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-crazannes — Château de Crazannes Castle and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-crazannes.yaml)
+- Action: new
+- Precise subject and limitations: Castle visitor circuit, chapel, keep, dovecote and gardens; excludes nearby Pierre de Crazannes quarry attraction and accommodation.
+- Location check: 45.84475, -0.69397; [published representative point](https://mapcarta.com/W122721117), source inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://chateaucrazannes.fr/visite/chateau-jardin); indexed excerpts or page text inspected 2026-11-27. Operator confirms self-guided castle and grounds route; https://www.parcsetjardins.fr/jardins/589-chateau-de-crazannes corroborates historic structures. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-goulaine](../../../countries/FR/sights/chateau-goulaine.yaml) | 8.6 / 8.7 / 8.7 / 8.7 / 8.6 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/chateau-kerjean](../../../countries/FR/sights/chateau-kerjean.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | impact: -0.4 vs peer; significance: -0.2 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | significance: +0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Ornate historic facade and grounds. |
+| Uniqueness | 8.6 | Distinct sculptural details within comparable castle type. |
+| Significance | 8.7 | Regional medieval and later estate heritage. |
+| Experience | 8.7 | Documented castle and garden visit. |
+| Depth | 8.6 | Several structures and grounds. |
+
+- Applicable categories: architecture:9.1, history:9.0, photography:9.1, relaxation:8.9.
+- Computed worldwide overall: 86.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-aquitaine-bordeaux — Musée d’Aquitaine Bordeaux History and Archaeology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-aquitaine-bordeaux.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated main museum galleries; excludes broader Bordeaux urban landscape and offsite collections. GPS tourism listing corroborated by second nearby listing.
+- Location check: 44.8354248, -0.5749079; [published representative point](https://www.cirkwi.com/fr/point-interet/880961-musee-d-aquitaine), source inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.musee-aquitaine-bordeaux.fr/musee-aquitaine); indexed excerpts or page text inspected 2026-11-27. Museum documents collections from prehistory to present; https://pop.culture.gouv.fr/notice/museo/M0064 corroborates collection history; https://www.cirkwi.com/fr/point-interet/3495340-musee-d-aquitaine corroborates location. A conflicting listing west of museum not used. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-dobree-nantes](../../../countries/FR/sights/musee-dobree-nantes.yaml) | 8.8 / 8.9 / 9.1 / 8.9 / 9.1 | significance: +0.1 vs peer; depth: +0.1 vs peer. |
+| [FR/historial-vendee](../../../countries/FR/sights/historial-vendee.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 9.0 | significance: +0.3 vs peer; impact: +0.2 vs peer. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | significance: +0.4 vs peer; impact: +0.2 vs peer. |
+| [IE/national-museum-archaeology](../../../countries/IE/sights/national-museum-archaeology.yaml) | 8.5 / 8.7 / 9.1 / 8.7 / 8.8 | depth: +0.4 vs peer; impact: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Substantial historical and archaeological displays. |
+| Uniqueness | 8.9 | Regional Atlantic and world history collections. |
+| Significance | 9.2 | Important regional archaeology and historical interpretation. |
+| Experience | 8.9 | Dedicated multi-gallery visit. |
+| Depth | 9.2 | Broad chronology and several disciplines. |
+
+- Applicable categories: history:9.4, culture:9.3, family:9.0.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

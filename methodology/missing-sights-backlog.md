@@ -1617,3 +1617,16 @@ Seven additions, 28 peer rows. France 248 ranked / 259 total; 11 existing unasse
 - [x] FR — Dune du Pilat already ranked 89.70; no duplicate or rescore.
 
 Six additions, 24 peer rows. France 254 ranked / 265 total; 11 existing unassessed unchanged. Saint-Émilion tour nested in broader landscape, separately scored; Ré excludes Vauban fortifications and separately operated attractions. Next bounded screen: La Rochelle historic harbour and towers, Rochefort Corderie Royale scope check, Hermione maritime experience scope check, Phare des Baleines, Île d’Oléron coastal trails, Château de Crazannes, and Bordeaux Musée d’Aquitaine (scope and duplicate checks). Full Python validation pending.
+
+### Pass 139 — Charente-Maritime and Bordeaux heritage
+
+- [x] FR — La Rochelle Historic Harbour and Medieval Towers: 90.10/100 (source-linked-unverified).
+- [x] FR — L’Hermione Replica Frigate Maritime Heritage Visit: 88.80/100 (source-linked-unverified).
+- [x] FR — Phare des Baleines Lighthouse and Maritime Museum: 88.30/100 (source-linked-unverified).
+- [x] FR — Île d’Oléron Coastal Cycling and Landscapes: 88.45/100 (source-linked-unverified).
+- [x] FR — Château de Crazannes Castle and Gardens: 86.05/100 (source-linked-unverified).
+- [x] FR — Musée d’Aquitaine Bordeaux History and Archaeology Museum: 89.60/100 (source-linked-unverified).
+
+- [x] FR — Corderie Royale already covered by Rochefort Arsenal and Charente estuary fortifications (89.05), expressly identified in UNESCO tentative entry https://whc.unesco.org/fr/listesindicatives/1668/. No duplicate or rescore.
+
+Six additions, 24 peer rows. France 260 ranked / 271 total; 11 existing unassessed unchanged. Hermione is replica at operator-published Anglet dry dock, relocation watch; Saint-Nicolas closure not penalized; Baleines separate from Ré coastal trails; Oléron excludes lighthouse interiors; Crazannes excludes quarry. Next bounded screen: Bordeaux Musée des Beaux-Arts, CAPC contemporary art museum, Bordeaux Saint-André Cathedral and Pey-Berland tower scope check, Arcachon Ville d’Hiver, Cap Ferret peninsula coastal trails, Teich bird reserve, and Saintes Roman amphitheatre (scope and duplicate checks). Full Python validation pending.
