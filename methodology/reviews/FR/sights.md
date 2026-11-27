@@ -5134,3 +5134,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-chinon-fortress — Royal Fortress of Chinon — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chinon-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Three connected fortress sections and interpretation route grouped; excludes historic town. Access point from regional tourism booking. Interpretation reference https://www.chateauxplorer.com/en/chateau/forteresse-royale-de-chinon. Regional [Loire Valley cultural landscape](https://whc.unesco.org/en/list/933) retained separately following Chambord/Chenonceau precedent. Exact property polygons not checked.
+- Location check: 47.168, 0.23693; [published representative point](https://booking.ot-saumur.fr/booking/visits/zsforteressechinon.html), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://forteressechinon.fr/en/useful-information/access-how-get-fortress); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-vincennes](../../../countries/FR/sights/chateau-vincennes.yaml) | 9.0 / 8.9 / 9.2 / 8.8 / 8.9 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer. |
+| [FR/chateau-amboise](../../../countries/FR/sights/chateau-amboise.yaml) | 9.2 / 9.0 / 9.3 / 9.0 / 8.9 | impact: -0.2 vs peer; experience: -0.1 vs peer. |
+| [FR/chateau-pierrefonds](../../../countries/FR/sights/chateau-pierrefonds.yaml) | 9.1 / 9.0 / 8.8 / 8.9 / 8.7 | significance: +0.5 vs peer; depth: +0.3 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.6 vs peer; significance: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic ridge fortress. |
+| Uniqueness | 9.0 | Distinct connected medieval defensive complexes. |
+| Significance | 9.3 | Major Plantagenet and French royal history. |
+| Experience | 8.9 | Dedicated interpreted visitor route. |
+| Depth | 9.0 | Extensive ruins and restored spaces. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.3.
+- Computed worldwide overall: 90.45/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-angers — Château d’Angers and Apocalypse Tapestry — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-angers.yaml)
+- Action: new
+- Precise subject and limitations: Fortress, ramparts, gardens and Apocalypse Tapestry gallery grouped under operator's single admission. Excludes separate Jean-Lurçat museum and wider Angers old town. Regional [Loire Valley cultural landscape](https://whc.unesco.org/en/list/933) retained separately following Chambord/Chenonceau precedent. Exact property polygons not checked.
+- Location check: 47.47049, -0.55858; [published representative point](https://booking.ot-saumur.fr/booking/visits/zschateauangers.html), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateau-angers.fr/en/visit/practical-information); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-chantilly](../../../countries/FR/sights/chateau-chantilly.yaml) | 9.3 / 9.2 / 9.2 / 9.1 / 9.3 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/musee-cluny](../../../countries/FR/sights/musee-cluny.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | impact: +0.2 vs peer; depth: +0.2 vs peer. |
+| [FR/chateau-vincennes](../../../countries/FR/sights/chateau-vincennes.yaml) | 9.0 / 8.9 / 9.2 / 8.8 / 8.9 | uniqueness: +0.5 vs peer; experience: +0.3 vs peer. |
+| [IT/doges-palace](../../../countries/IT/sights/doges-palace.yaml) | 9.4 / 9.4 / 9.5 / 9.2 / 9.0 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Massive fortress and exceptional tapestry. |
+| Uniqueness | 9.4 | Distinct monumental medieval textile collection. |
+| Significance | 9.3 | Major medieval artistic and political heritage. |
+| Experience | 9.1 | Combined fortress and gallery visit. |
+| Depth | 9.2 | Multiple substantial visitor spaces. |
+
+- Applicable categories: history:9.4, architecture:9.4, culture:9.4, photography:9.2.
+- Computed worldwide overall: 92.55/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-fontevraud-abbey — Royal Abbey of Fontevraud — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/fontevraud-abbey.yaml)
+- Action: new
+- Precise subject and limitations: Abbey church, royal effigies and monastic complex grouped; excludes separately ticketed Museum of Modern Art and hotel. Combined admission also exists (https://billet.fontevraud.fr/detail-activite/abbaye-musee). Regional [Loire Valley cultural landscape](https://whc.unesco.org/en/list/933) retained separately following Chambord/Chenonceau precedent. Exact property polygons not checked.
+- Location check: 47.18139, 0.05167; [published representative point](https://en.wikipedia.org/wiki/Fontevraud_Abbey), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.fontevraud.fr/en/royal-abbey-of-fontevraud/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | depth: +0.5 vs peer; impact: +0.2 vs peer. |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | depth: +0.5 vs peer; experience: +0.2 vs peer. |
+| [FR/vezelay](../../../countries/FR/sights/vezelay.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 8.4 | depth: +0.6 vs peer; impact: +0.1 vs peer. |
+| [FR/mont-saint-michel](../../../countries/FR/sights/mont-saint-michel.yaml) | 9.7 / 9.6 / 9.4 / 9.3 / 9.1 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Impressive monastic architecture and royal effigies. |
+| Uniqueness | 9.2 | Distinct large monastic and royal funerary complex. |
+| Significance | 9.4 | Major Plantagenet and religious heritage. |
+| Experience | 9.0 | Dedicated abbey visit. |
+| Depth | 9.0 | Extensive interconnected monastic spaces. |
+
+- Applicable categories: architecture:9.4, history:9.4, culture:9.3, photography:9.2.
+- Computed worldwide overall: 91.60/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-saumur — Château de Saumur and Castle Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-saumur.yaml)
+- Action: new
+- Precise subject and limitations: Castle, grounds, decorative arts and horse-related collections grouped. Excludes Cadre Noir and wider Saumur city; rotating collection displays. Regional [Loire Valley cultural landscape](https://whc.unesco.org/en/list/933) retained separately following Chambord/Chenonceau precedent. Exact property polygons not checked.
+- Location check: 47.25702, -0.07234; [published representative point](https://mapcarta.com/36738246), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateau-saumur.fr/en/discover/the-visit); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-amboise](../../../countries/FR/sights/chateau-amboise.yaml) | 9.2 / 9.0 / 9.3 / 9.0 / 8.9 | significance: -0.4 vs peer; impact: -0.2 vs peer. |
+| [FR/chateau-blois](../../../countries/FR/sights/chateau-blois.yaml) | 9.1 / 9.1 / 9.3 / 9.0 / 9.1 | significance: -0.4 vs peer; depth: -0.3 vs peer. |
+| [FR/chateau-pierrefonds](../../../countries/FR/sights/chateau-pierrefonds.yaml) | 9.1 / 9.0 / 8.8 / 8.9 / 8.7 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/miramare-castle](../../../countries/IT/sights/miramare-castle.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.7 | significance: +0.1 vs peer; experience: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Distinctive hilltop silhouette. |
+| Uniqueness | 8.9 | Regional castle with decorative and equestrian collections. |
+| Significance | 8.9 | Important regional royal heritage. |
+| Experience | 8.8 | Dedicated castle museum and outlook. |
+| Depth | 8.8 | Multiple rooms and collections. |
+
+- Applicable categories: photography:9.3, architecture:9.3, history:9.2, culture:9.1.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-langeais — Château and Park of Langeais — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-langeais.yaml)
+- Action: new
+- Precise subject and limitations: Castle rooms, medieval remains and park grouped; wedding interpretation is a reconstruction, not original event. Regional visitor reference https://reservation.tourainenature.com/billetterie-tarifs-reduits/pass-chateaux-de-la-loire/chateau-de-langeais. Regional [Loire Valley cultural landscape](https://whc.unesco.org/en/list/933) retained separately following Chambord/Chenonceau precedent. Exact property polygons not checked.
+- Location check: 47.32471, 0.4062; [published representative point](https://mapcarta.com/27551904), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://billetterie.chateau-de-langeais.com/fr/produit/visite-libre); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-blois](../../../countries/FR/sights/chateau-blois.yaml) | 9.1 / 9.1 / 9.3 / 9.0 / 9.1 | significance: -0.4 vs peer; depth: -0.3 vs peer. |
+| [FR/chateau-cheverny](../../../countries/FR/sights/chateau-cheverny.yaml) | 8.9 / 8.9 / 8.7 / 9.0 / 9.0 | significance: +0.2 vs peer; depth: -0.2 vs peer. |
+| [FR/chateau-vincennes](../../../countries/FR/sights/chateau-vincennes.yaml) | 9.0 / 8.9 / 9.2 / 8.8 / 8.9 | significance: -0.3 vs peer; experience: +0.2 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.4 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Furnished late medieval castle. |
+| Uniqueness | 8.9 | Distinct fortified residence and wedding interpretation. |
+| Significance | 8.9 | Important royal dynastic associations. |
+| Experience | 9.0 | Established castle and park visit. |
+| Depth | 8.8 | Several rooms and outdoor areas. |
+
+- Applicable categories: architecture:9.3, history:9.3, culture:9.1, family:9.1.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-usse — Château d’Ussé and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-usse.yaml)
+- Action: new
+- Precise subject and limitations: Private château, gardens and fairy-tale displays grouped; Sleeping Beauty inspiration treated as tradition rather than proven literary fact. Official access coordinates converted from DMS. Regional [Loire Valley cultural landscape](https://whc.unesco.org/en/list/933) retained separately following Chambord/Chenonceau precedent. Exact property polygons not checked.
+- Location check: 47.250833, 0.2925; [published representative point](https://www.chateaudusse.fr/acces/?lang=en), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateaudusse.fr/?lang=en); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-cheverny](../../../countries/FR/sights/chateau-cheverny.yaml) | 8.9 / 8.9 / 8.7 / 9.0 / 9.0 | depth: -0.3 vs peer; impact: +0.2 vs peer. |
+| [FR/chateau-azay-le-rideau](../../../countries/FR/sights/chateau-azay-le-rideau.yaml) | 9.2 / 9.0 / 9.0 / 8.9 / 8.6 | significance: -0.4 vs peer; impact: -0.1 vs peer. |
+| [FR/chateau-pierrefonds](../../../countries/FR/sights/chateau-pierrefonds.yaml) | 9.1 / 9.0 / 8.8 / 8.9 / 8.7 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/miramare-castle](../../../countries/IT/sights/miramare-castle.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.7 | significance: -0.2 vs peer; impact: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Striking turreted castle. |
+| Uniqueness | 8.9 | Distinct fairy-tale interpretation. |
+| Significance | 8.6 | Regional aristocratic heritage. |
+| Experience | 8.9 | Dedicated furnished castle visit. |
+| Depth | 8.7 | Rooms and gardens. |
+
+- Applicable categories: photography:9.4, architecture:9.3, history:9.1, family:9.1.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-sully-sur-loire — Château de Sully-sur-Loire and Grounds — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-sully-sur-loire.yaml)
+- Action: new
+- Precise subject and limitations: Moated fortress, furnished interiors and immediately adjoining grounds grouped. Distinct dedicated monument visit at eastern end of UNESCO landscape; operator access coordinates converted from DMS. Regional [Loire Valley cultural landscape](https://whc.unesco.org/en/list/933) retained separately following Chambord/Chenonceau precedent. Exact property polygons not checked.
+- Location check: 47.7681, 2.377043; [published representative point](https://www.chateausully.fr/preparer-sa-visite/acces), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateausully.fr/en/prepare-your-visit/castle-opening-hours-2026); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-vincennes](../../../countries/FR/sights/chateau-vincennes.yaml) | 9.0 / 8.9 / 9.2 / 8.8 / 8.9 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/chateau-pierrefonds](../../../countries/FR/sights/chateau-pierrefonds.yaml) | 9.1 / 9.0 / 8.8 / 8.9 / 8.7 | uniqueness: -0.2 vs peer; significance: +0.2 vs peer. |
+| [FR/chateau-cheverny](../../../countries/FR/sights/chateau-cheverny.yaml) | 8.9 / 8.9 / 8.7 / 9.0 / 9.0 | significance: +0.3 vs peer; experience: -0.2 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Photogenic moated fortress. |
+| Uniqueness | 8.8 | Distinct defensive and residential fabric. |
+| Significance | 9.0 | Important French political and architectural heritage. |
+| Experience | 8.8 | Established interpreted castle visit. |
+| Depth | 8.8 | Several furnished rooms and towers. |
+
+- Applicable categories: architecture:9.3, history:9.3, photography:9.3.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

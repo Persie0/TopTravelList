@@ -1398,3 +1398,15 @@ Seven additions, 28 peer rows. France 124 ranked / 135 total; 11 existing unasse
 - [x] FR — Domaine de Chaumont-sur-Loire Castle and Gardens: 90.75/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 131 ranked / 142 total; 11 existing unassessed unchanged. Individual château visitor scopes distinguished from UNESCO Loire cultural landscape following existing Chambord and Chenonceau precedent. Clos Lucé separate from Amboise; gardens and collections grouped within estates. Blois and Chaumont official indexed excerpts available but direct fetch timed out. Exact UNESCO polygons not verified. Next bounded screen: Royal Fortress of Chinon, Château d’Angers and Apocalypse Tapestry, Fontevraud Abbey, Château de Saumur, Château de Langeais, Château d’Ussé, and Château de Sully-sur-Loire. Full Python validation pending.
+
+### Pass 121 — France Loire fortresses, abbey and château museums
+
+- [x] FR — Royal Fortress of Chinon: 90.45/100 (source-linked-unverified).
+- [x] FR — Château d’Angers and Apocalypse Tapestry: 92.55/100 (source-linked-unverified).
+- [x] FR — Royal Abbey of Fontevraud: 91.60/100 (source-linked-unverified).
+- [x] FR — Château de Saumur and Castle Museum: 89.05/100 (source-linked-unverified).
+- [x] FR — Château and Park of Langeais: 89.05/100 (source-linked-unverified).
+- [x] FR — Château d’Ussé and Gardens: 88.80/100 (source-linked-unverified).
+- [x] FR — Château de Sully-sur-Loire and Grounds: 89.00/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 138 ranked / 149 total; 11 existing unassessed unchanged. Angers castle and Apocalypse Tapestry grouped under single admission; Fontevraud abbey excludes independent modern art museum and hotel; Saumur castle includes museum but excludes Cadre Noir; Ussé literary association treated as tradition. Exact UNESCO polygons not checked. Next bounded screen: Bayeux Tapestry Museum (historical experience), Caen Memorial, Caen Castle and museums (scope check), Honfleur Old Harbour, Château de Falaise, Jumièges Abbey, and Rouen Museum of Fine Arts. Full Python validation pending.
