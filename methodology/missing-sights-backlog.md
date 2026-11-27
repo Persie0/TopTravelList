@@ -1422,3 +1422,15 @@ Seven additions, 28 peer rows. France 138 ranked / 149 total; 11 existing unasse
 - [x] FR — Musée des Beaux-Arts de Rouen: 89.75/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 145 ranked / 156 total; 11 existing unassessed unchanged. Bayeux rated on established museum experience despite renovation closure, historic site point retained. Caen castle and two museums grouped under combined admission; Memorial independently bounded; Rouen fine arts independent of urban ensemble. Jumièges invalid 0,0 tourism point rejected in favour of mapped abbey. Next bounded screen: Bayeux Cathedral and historic centre, Caen Abbaye aux Hommes, Abbaye aux Dames, Giverny Monet House and Gardens, Château de Gaillard, Les Jardins d’Étretat (parent overlap), and Cité de la Mer Cherbourg. Full Python validation pending.
+
+### Pass 123 — France Normandy abbeys, gardens and maritime museum
+
+- [x] FR — Bayeux Cathedral and Historic Centre: 89.95/100 (source-linked-unverified).
+- [x] FR — Abbaye aux Hommes and Saint-Étienne Church Caen: 90.10/100 (source-linked-unverified).
+- [x] FR — Abbaye aux Dames and Sainte-Trinité Church Caen: 87.95/100 (source-linked-unverified).
+- [x] FR — Claude Monet’s House and Gardens Giverny: 92.25/100 (source-linked-unverified).
+- [x] FR — Château Gaillard and Seine Viewpoint Les Andelys: 89.05/100 (source-linked-unverified).
+- [x] FR — Jardins d’Étretat Topiary and Contemporary Art Gardens: 88.45/100 (source-linked-unverified).
+- [x] FR — La Cité de la Mer Cherbourg: 90.85/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 152 ranked / 163 total; 11 existing unassessed unchanged. Bayeux cathedral and streets exclude tapestry museum; Caen abbeys distinct sites; Giverny house and gardens grouped; Étretat art/topiary garden excludes natural cliff walk; Cité de la Mer includes submarine and aquarium. Next bounded screen: Saint-Malo walled city, Dinan historic centre, Pointe du Raz, Pink Granite Coast, Cap Fréhel and Fort La Latte (scope check), Quimper cathedral and historic centre, and Océanopolis Brest. Full Python validation pending.

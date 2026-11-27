@@ -5678,3 +5678,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-bayeux-cathedral-old-town — Bayeux Cathedral and Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bayeux-cathedral-old-town.yaml)
+- Action: new
+- Precise subject and limitations: Cathedral and immediately adjoining historic streets grouped; excludes independently rated Bayeux Tapestry Museum. Historic urban ensemble supported by https://www.cirkwi.com/en/point-interet/1590621-vieux-bayeux.
+- Location check: 49.27559, -0.70352; [published representative point](https://mapcarta.com/W132132649), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.normandie-tourisme.fr/sites-lieux-de-visites/cathedrale-de-bayeux/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/rouen-ensemble](../../../countries/FR/sights/rouen-ensemble.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.0 | uniqueness: -0.2 vs peer; depth: -0.2 vs peer. |
+| [FR/sarlat-core](../../../countries/FR/sights/sarlat-core.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.5 | significance: +0.4 vs peer; depth: +0.3 vs peer. |
+| [FR/amiens-cathedral](../../../countries/FR/sights/amiens-cathedral.yaml) | 9.3 / 9.1 / 9.3 / 9.0 / 8.6 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | significance: +0.3 vs peer; experience: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Impressive cathedral and historic streets. |
+| Uniqueness | 8.9 | Distinct Norman Gothic urban setting. |
+| Significance | 9.2 | Major Norman religious heritage. |
+| Experience | 9.0 | Walkable cathedral and town experience. |
+| Depth | 8.8 | Multiple architectural features. |
+
+- Applicable categories: architecture:9.4, history:9.4, photography:9.2, culture:9.1.
+- Computed worldwide overall: 89.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-abbaye-aux-hommes — Abbaye aux Hommes and Saint-Étienne Church Caen — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/abbaye-aux-hommes.yaml)
+- Action: new
+- Precise subject and limitations: Former abbey buildings and Saint-Étienne church grouped; documented public rooms and cloister, not unrestricted access to working municipal offices. Separate from Caen Castle and Abbaye aux Dames.
+- Location check: 49.181029, -0.371116; [published representative point](https://booking.caenlamer-tourisme.fr/self-guided-tour-of-the-abbaye-aux-hommes.html), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://caen.fr/abbaye-aux-hommes); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontevraud-abbey](../../../countries/FR/sights/fontevraud-abbey.yaml) | 9.1 / 9.2 / 9.4 / 9.0 / 9.0 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer. |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | depth: +0.3 vs peer; impact: +0.1 vs peer. |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | depth: +0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/jumieges-abbey](../../../countries/FR/sights/jumieges-abbey.yaml) | 9.0 / 9.0 / 9.1 / 8.8 / 8.7 | significance: +0.2 vs peer; depth: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental Norman architecture. |
+| Uniqueness | 9.0 | Distinct monastic and civic ensemble. |
+| Significance | 9.3 | Major Norman ducal heritage. |
+| Experience | 8.8 | Dedicated abbey and church visit. |
+| Depth | 8.8 | Several historic rooms and cloister. |
+
+- Applicable categories: architecture:9.4, history:9.4, culture:9.2.
+- Computed worldwide overall: 90.10/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-abbaye-aux-dames — Abbaye aux Dames and Sainte-Trinité Church Caen — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/abbaye-aux-dames.yaml)
+- Action: new
+- Precise subject and limitations: Former women's abbey and church, including royal funerary heritage, grouped; independent complex on separate hill from Abbaye aux Hommes. Guided access to regional offices not assumed unrestricted. Additional reference https://www.normandie-tourisme.fr/sites-lieux-de-visites/abbaye-aux-dames/.
+- Location check: 49.18697, -0.35223; [published representative point](https://mapcarta.com/36643472), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.normandie.fr/visites-de-labbaye-aux-dames); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | impact: -0.2 vs peer; experience: -0.2 vs peer. |
+| [FR/jumieges-abbey](../../../countries/FR/sights/jumieges-abbey.yaml) | 9.0 / 9.0 / 9.1 / 8.8 / 8.7 | impact: -0.3 vs peer; experience: -0.2 vs peer. |
+| [FR/fontevraud-abbey](../../../countries/FR/sights/fontevraud-abbey.yaml) | 9.1 / 9.2 / 9.4 / 9.0 / 9.0 | depth: -0.5 vs peer; impact: -0.4 vs peer. |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Attractive Romanesque church. |
+| Uniqueness | 8.9 | Distinct former women's abbey. |
+| Significance | 9.1 | Important Norman royal associations. |
+| Experience | 8.6 | Established guided monument experience. |
+| Depth | 8.5 | Compact historic route. |
+
+- Applicable categories: architecture:9.3, history:9.3, culture:9.1.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-giverny-monet — Claude Monet’s House and Gardens Giverny — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/giverny-monet.yaml)
+- Action: new
+- Precise subject and limitations: Monet's restored house, flower garden and water garden grouped. Separate from Musée des Impressionnismes Giverny and Paris collections; seasonal floral displays vary. University garden inventory point represents estate.
+- Location check: 49.096785, 1.568253; [published representative point](https://pdn-patrimonia.unicaen.fr/iejp/france/inventaires/Normandie/Eure/FRIEJP_INVEure.xml/FRIEJP_INVEure_J74.html), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://claudemonetgiverny.fr/en/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-villandry](../../../countries/FR/sights/chateau-villandry.yaml) | 9.2 / 9.3 / 8.9 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: -0.3 vs peer. |
+| [FR/musee-orangerie](../../../countries/FR/sights/musee-orangerie.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 8.6 | depth: +0.2 vs peer; impact: +0.1 vs peer. |
+| [FR/marmottan-monet](../../../countries/FR/sights/marmottan-monet.yaml) | 9.0 / 9.3 / 9.2 / 8.9 / 8.8 | impact: +0.3 vs peer; experience: +0.2 vs peer. |
+| [IT/isola-bella-palace](../../../countries/IT/sights/isola-bella-palace.yaml) | 9.1 / 9.0 / 8.7 / 8.9 / 8.7 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Iconic water garden and house. |
+| Uniqueness | 9.4 | Distinct landscape associated with Monet paintings. |
+| Significance | 9.2 | Major Impressionist cultural heritage. |
+| Experience | 9.1 | Dedicated house and garden experience. |
+| Depth | 8.8 | Compact estate with complementary gardens. |
+
+- Applicable categories: photography:9.4, culture:9.4, nature:9.2, history:9.2, relaxation:9.1.
+- Computed worldwide overall: 92.25/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-gaillard — Château Gaillard and Seine Viewpoint Les Andelys — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-gaillard.yaml)
+- Action: new
+- Precise subject and limitations: Fortress ruins and immediate hilltop outlook over Seine bend; excludes wider river landscape and town. Coordinate from tourism trail listing, not necessarily entrance. Municipality https://www.ville-andelys.fr/chateau-gaillard/ corroborates site history.
+- Location check: 49.2384212, 1.403378; [published representative point](https://www.cirkwi.com/fr/point-interet/3074858-chateau-gaillard), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.normandie-tourisme.fr/sites-lieux-de-visites/chateau-gaillard/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chinon-fortress](../../../countries/FR/sights/chinon-fortress.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.0 | depth: -0.6 vs peer; significance: -0.2 vs peer. |
+| [FR/chateau-falaise](../../../countries/FR/sights/chateau-falaise.yaml) | 8.9 / 8.9 / 9.2 / 8.8 / 8.7 | depth: -0.3 vs peer; impact: +0.1 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [TR/yoros-fortress](../../../countries/TR/sights/yoros-fortress.yaml) | 8.6 / 8.6 / 8.7 / 8.5 / 8.0 | impact: +0.4 vs peer; significance: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic hilltop ruins and river bend. |
+| Uniqueness | 8.9 | Distinct defensive setting. |
+| Significance | 9.1 | Important Anglo-Norman military heritage. |
+| Experience | 8.8 | Dedicated ruins and viewpoint visit. |
+| Depth | 8.4 | Limited surviving fabric. |
+
+- Applicable categories: photography:9.4, history:9.3, architecture:9.1.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-jardins-etretat — Jardins d’Étretat Topiary and Contemporary Art Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/jardins-etretat.yaml)
+- Action: new
+- Precise subject and limitations: Separately ticketed designed garden and contemporary art route across seven themed areas; score excludes the natural chalk-cliff walk and coastal panorama as a standalone experience. https://etretatgarden.fr/en/tickets documents admission.
+- Location check: 49.7105, 0.20652; [published representative point](https://mapcarta.com/de/W827362061), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://etretatgarden.fr/en); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-villandry](../../../countries/FR/sights/chateau-villandry.yaml) | 9.2 / 9.3 / 8.9 / 9.2 / 9.1 | depth: -0.7 vs peer; significance: -0.4 vs peer. |
+| [FR/chateau-chaumont-sur-loire](../../../countries/FR/sights/chateau-chaumont-sur-loire.yaml) | 9.1 / 9.2 / 8.8 / 9.1 / 9.2 | depth: -0.8 vs peer; significance: -0.3 vs peer. |
+| [FR/etretat](../../../countries/FR/sights/etretat.yaml) | 9.3 / 9.1 / 8.6 / 8.9 / 8.4 | impact: -0.4 vs peer; uniqueness: +0.1 vs peer. |
+| [IT/isola-bella-palace](../../../countries/IT/sights/isola-bella-palace.yaml) | 9.1 / 9.0 / 8.7 / 8.9 / 8.7 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinctive sculpted gardens and art. |
+| Uniqueness | 9.2 | Unusual contemporary topiary composition. |
+| Significance | 8.5 | Notable garden design heritage. |
+| Experience | 8.9 | Dedicated themed garden route. |
+| Depth | 8.4 | Compact site with varied sections. |
+
+- Applicable categories: photography:9.3, culture:9.2, nature:9.0, relaxation:9.1.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-cite-de-la-mer — La Cité de la Mer Cherbourg — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cite-de-la-mer.yaml)
+- Action: new
+- Precise subject and limitations: Maritime museum within former transatlantic terminal, Le Redoutable submarine visit, ocean exhibits and aquariums grouped; no separate submarine or aquarium entry. Location published by conference organiser for same venue; submarine access restrictions acknowledged. Corroboration https://www.encotentin.fr/cherbourg/musees/la-cite-de-la-mer/.
+- Location check: 49.6462527, -1.6205303; [published representative point](https://www.alphavisa.com/atsr/2026/lieu.php), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.citedelamer.com/en/spaces-cite-de-la-mer/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/air-space-museum-le-bourget](../../../countries/FR/sights/air-space-museum-le-bourget.yaml) | 9.2 / 9.2 / 9.2 / 9.0 / 9.3 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+| [FR/cite-des-sciences](../../../countries/FR/sights/cite-des-sciences.yaml) | 8.8 / 8.8 / 8.7 / 9.2 / 9.3 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | significance: -0.4 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Large submarine and maritime exhibits. |
+| Uniqueness | 9.2 | Distinct integrated naval and ocean experience. |
+| Significance | 9.0 | Important maritime heritage. |
+| Experience | 9.1 | Extensive dedicated visitor experience. |
+| Depth | 9.2 | Multiple substantial exhibition areas. |
+
+- Applicable categories: family:9.4, history:9.3, culture:9.2, nature:9.1.
+- Computed worldwide overall: 90.85/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
