@@ -1885,3 +1885,222 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 291 scope decisions
 
 13 additions, 10 source-linked provisional, 3 desk-based provisional, 5 90+, 36 ranking-row comparisons (10 international). PY 88 ranked / 91 total, +39 since baseline 52. Prior one inscribed property (2 components) and 12 tentative represented at property scope; no new serial mapping. Four Misiones Jesuit museum/heritage settlements distinct from inscribed Trinidad and Jesús; no UNESCO status claim. Guavirami public artisan and consent-based interpretation only; Enxet El Estribo initiative deferred pending defined visitor programme (https://senatur.gov.py/noticias/comunidad-de-mujeres-indigenas-enxet-busca-impulsar-su-potencial-turistico-y-artesanal/). Rally restricted to authorized spectator experiences, 2026 unique people count and cumulative attendance distinguished; future hosting unverified. Isla Yacyretá trail distinct from dam, non-additive if bundled. Atinguy captive wildlife experience deferred pending independent welfare/visitor scope; earlier Morombí and closure deferrals retained. Existing three unassessed and ratings preserved. OPEN for remaining protected areas, regional heritage and final bounded screening. Coordinates approximate; current permissions, schedules and safety unverified.
+
+
+## sight-py-yataity-ao-poi — Yataity Ao Po'i Textile Craft Circuit and Public Fair — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/yataity-ao-poi.yaml)
+- Action: new
+- Scope: Official Agencia IP documents July 2026 guided circuit with safeguarding school, fair and production workshop; November reporting announces 29th expo. Group overlapping fair and year-round craft circuit; consent-based workshops only.
+- Representative coordinates: -25.79, -56.47; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.1.
+- Overall: 91.30/100.
+- Source: https://www.ip.gov.py/ip/2026/06/16/invitan-a-descubrir-el-origen-del-autentico-ao-poi-en-una-experiencia-cultural-en-yataity-del-guaira/
+- Source: https://artesania.gov.py/expo-feria-de-ao-poi-tesoros-del-paraguay/
+- Source: https://www.abc.com.py/nacionales/2026/11/21/yataity-prepara-la-xxix-expo-ao-poi-con-diez-dias-de-feria-y-eleccion-de-miss/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive public craft or music experience and cultural significance; ranking-row peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/piribebuy-poncho-festival](../../../countries/PY/sights/piribebuy-poncho-festival.yaml) | 8.9 / 9.4 / 9.4 / 9.0 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PY/itaugua-nanduti-festival](../../../countries/PY/sights/itaugua-nanduti-festival.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BO/sucre-asur-textile-museum](../../../countries/BO/sights/sucre-asur-textile-museum.yaml) | 8.6 / 9.2 / 9.3 / 8.8 / 9.0 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [EC/montecristi-toquilla](../../../countries/EC/sights/montecristi-toquilla.yaml) | 8.2 / 8.9 / 9.1 / 8.6 / 8.3 | impact: +0.7; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-san-miguel-ovecha-rague — San Miguel Ovecha Ragüe Woolcraft and Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/san-miguel-ovecha-rague.yaml)
+- Action: new
+- Scope: Municipality confirms 35th edition held June 2026; national tourism lists craft exhibitions, music, food and demonstrations, government agency reports recognition of master wool artisans. Public performances and consenting craft demonstrations only; no future dates guaranteed.
+- Representative coordinates: -26.5, -57.05; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.2 photography:9.1.
+- Overall: 90.95/100.
+- Source: https://sanmiguel.gov.py/xxxv-festival-del-ovecha-rague-meses-de-trabajo-conjunto-hicieron-posible-una-nueva-edicion-historica-en-san-miguel/
+- Source: https://visitparaguay.travel/events/festival-del-ovecha-rague-edicion-xxxv
+- Source: https://www.ip.gov.py/ip/2026/06/17/festival-ovecha-rague-distinguen-a-dos-referentes-de-la-artesania-lanar-de-san-miguel/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive public craft or music experience and cultural significance; ranking-row peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/piribebuy-poncho-festival](../../../countries/PY/sights/piribebuy-poncho-festival.yaml) | 8.9 / 9.4 / 9.4 / 9.0 / 9.0 | impact: +0.0; uniqueness: -0.2 vs peer |
+| [PY/itaugua-nanduti-festival](../../../countries/PY/sights/itaugua-nanduti-festival.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BO/aiquile-charango-festival](../../../countries/BO/sights/aiquile-charango-festival.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [EC/montecristi-toquilla](../../../countries/EC/sights/montecristi-toquilla.yaml) | 8.2 / 8.9 / 9.1 / 8.6 / 8.3 | impact: +0.7; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-villarrica-festival-de-la-raza — Villarrica Festival de la Raza Public Concert and Dance Programme — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/villarrica-festival-de-la-raza.yaml)
+- Action: new
+- Scope: Chamber of Deputies approved declaration of cultural interest; 43rd edition first night held October 17 2026 per ABC, closing night postponed again due to weather. Retain intrinsic score; no claim of final closing date or future programme.
+- Representative coordinates: -25.75, -56.44; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.2 / 9.0.
+- Categories: culture:9.3 history:9.1 photography:9.0.
+- Overall: 90.50/100.
+- Source: https://diputados.gov.py/noticias/noticias/2943
+- Source: https://www.abc.com.py/nacionales/2026/10/18/multitudinaria-concurrencia-marco-la-primera-noche-del-festival-de-la-raza-en-villarrica/
+- Source: https://www.abc.com.py/nacionales/2026/10/29/vuelve-a-postergarse-la-clausura-del-festival-de-la-raza-por-el-mal-tiempo/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive public craft or music experience and cultural significance; ranking-row peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/ypacarai-lake-festival](../../../countries/PY/sights/ypacarai-lake-festival.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PY/caazapa-ykua-bolanos-festival](../../../countries/PY/sights/caazapa-ykua-bolanos-festival.yaml) | 9.1 / 9.0 / 9.1 / 9.2 / 8.9 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BO/aiquile-charango-festival](../../../countries/BO/sights/aiquile-charango-festival.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.4 vs peer |
+| [EC/loja-artes-vivas](../../../countries/EC/sights/loja-artes-vivas.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-luque-filigree-circuit — Luque Traditional Filigree Jewellery Guided Artisan Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/luque-filigree-circuit.yaml)
+- Action: new
+- Scope: SENATUR describes March 2026 artisan circuit organized with national craft institute, railway and municipality, and previous silver/gold filigree route. Consent-based workshop visits only; transport and operating schedules unverified; distinct from national railway system.
+- Representative coordinates: -25.27, -57.49; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.2 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.2 photography:9.1.
+- Overall: 90.30/100.
+- Source: https://senatur.gov.py/noticias/circuito-de-la-filigrana-una-experiencia-turistica-unica-en-luque/
+- Source: https://senatur.gov.py/uncategorized/luque-mostro-la-magia-del-arte-de-la-filigrana/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinctive public craft or music experience and cultural significance; ranking-row peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/aregua-ceramics-workshops](../../../countries/PY/sights/aregua-ceramics-workshops.yaml) | 7.5 / 8.1 / 7.4 / 8.1 / 7.3 | impact: +1.3; uniqueness: +1.1 vs peer |
+| [PY/piribebuy-poncho-festival](../../../countries/PY/sights/piribebuy-poncho-festival.yaml) | 8.9 / 9.4 / 9.4 / 9.0 / 9.0 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [EC/gualaceo-chordeleg-crafts](../../../countries/EC/sights/gualaceo-chordeleg-crafts.yaml) | 8.2 / 8.6 / 8.8 / 8.7 / 8.6 | impact: +0.6; uniqueness: +0.6 vs peer |
+| [EC/montecristi-toquilla](../../../countries/EC/sights/montecristi-toquilla.yaml) | 8.2 / 8.9 / 9.1 / 8.6 / 8.3 | impact: +0.6; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-fuerte-olimpo-heritage — Fuerte Olimpo Fort Borbón Cathedral and Hill Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/fuerte-olimpo-heritage.yaml)
+- Action: new
+- Scope: Municipal and national tourism sources identify fort, stone cathedral and Tres Hermanos hill views. Group built heritage and viewpoint walk; no boat wildlife tour, non-additive where bundled with Pantanal; current trail and interior access unverified.
+- Representative coordinates: -21.04, -57.87; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.6 / 8.6.
+- Categories: history:9.3 photography:9.3 architecture:9.0 nature:9.0.
+- Overall: 87.70/100.
+- Source: https://www.municipios.gov.py/fuerteolimpo/
+- Source: https://visitparaguay.travel/places/catedral-maria-auxiliadora
+- Source: https://www.abc.com.py/viajes/2026/03/23/turismo-interno-semana-santa-recorriendo-el-chaco/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/humaita-ruins](../../../countries/PY/sights/humaita-ruins.yaml) | 8.5 / 8.9 / 9.3 / 8.4 / 8.5 | impact: +0.3; uniqueness: -0.1 vs peer |
+| [PY/paraguayan-pantanal](../../../countries/PY/sights/paraguayan-pantanal.yaml) | 8.7 / 8.9 / 9.0 / 8.3 / 8.7 | impact: +0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-itaipu-mbaracayu-refuge — Itaipú Binational Mbaracayú Biological Refuge Nature Visit — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/itaipu-mbaracayu-refuge.yaml)
+- Action: new
+- Scope: Itaipú identifies this separate binational refuge near Saltos del Guairá and notes public-use emphasis on this refuge and Tatí Yupí. Scope authorized Paraguayan visitor experience only; not the Mbaracayú Forest Nature Reserve, no border crossing or sightings guaranteed; representative regional location.
+- Representative coordinates: -24.05, -54.3; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.8 / 8.4 / 8.4.
+- Categories: nature:9.2 wildlife:9.2 photography:8.9.
+- Overall: 85.55/100.
+- Source: https://www.itaipu.gov.py/noticias/unesco/itaipu-integra-la-red-mundial-de-reservas-de-biosfera-de-la-unesco-con-ocho-areas-protegidas
+- Source: https://www.itaipu.gov.py/noticias/medio-ambiente/areas-protegidas-de-itaipu-cumplen-40-anos-contribuyendo-a-la-conservacion-de-la-biodiversidad
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/refugio-biologico-tati-yupi](../../../countries/PY/sights/refugio-biologico-tati-yupi.yaml) | 7.7 / 7.9 / 8.2 / 8.1 / 7.6 | impact: +0.7; uniqueness: +0.8 vs peer |
+| [PY/mbaracayu-forest-nature-reserve](../../../countries/PY/sights/mbaracayu-forest-nature-reserve.yaml) | 8.4 / 8.6 / 9.0 / 8.3 / 8.4 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-villarrica-historic-centre — Villarrica Historic Centre and Public Heritage Streets — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/villarrica-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based permanent urban heritage, separate from Festival de la Raza; no museum or church admission guarantee.
+- Representative coordinates: -25.75, -56.44; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.3 / 8.8 / 8.5 / 8.4.
+- Categories: architecture:9.0 history:9.1 culture:9.0.
+- Overall: 83.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/pilar-historic-centre](../../../countries/PY/sights/pilar-historic-centre.yaml) | 7.9 / 8.3 / 8.8 / 8.4 / 8.4 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PY/piribebuy-historic-heritage](../../../countries/PY/sights/piribebuy-historic-heritage.yaml) | 8.1 / 8.3 / 8.8 / 8.4 / 8.3 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-concepcion-historic-centre — Concepción Historic Centre and Paraguay River Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/concepcion-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based public river-port historic streets and built heritage; excludes separate wilderness trips. Current opening and access unverified.
+- Representative coordinates: -23.41, -57.44; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.4 / 8.8 / 8.4 / 8.4.
+- Categories: architecture:9.0 history:9.1 photography:8.9.
+- Overall: 84.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/pilar-historic-centre](../../../countries/PY/sights/pilar-historic-centre.yaml) | 7.9 / 8.3 / 8.8 / 8.4 / 8.4 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [PY/humaita-ruins](../../../countries/PY/sights/humaita-ruins.yaml) | 8.5 / 8.9 / 9.3 / 8.4 / 8.5 | impact: -0.3; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-asuncion-botanical-garden — Asunción Botanical Garden Public Grounds and Historic Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/asuncion-botanical-garden.yaml)
+- Action: new
+- Scope: Desk-based public botanical grounds, excludes zoo and captive animal experiences; admission and garden condition unverified.
+- Representative coordinates: -25.25, -57.57; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 7.9 / 8.1 / 8.2 / 8.5 / 8.2.
+- Categories: nature:8.9 family:8.9 relaxation:8.8.
+- Overall: 81.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/nu-guasu-park](../../../countries/PY/sights/nu-guasu-park.yaml) | 6.8 / 6.6 / 6.3 / 7.7 / 7.2 | impact: +1.1; uniqueness: +1.5 vs peer |
+| [PY/asuncion-costanera](../../../countries/PY/sights/asuncion-costanera.yaml) | 7.4 / 7.1 / 6.5 / 8.0 / 7.6 | impact: +0.5; uniqueness: +1.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-py-san-bernardino-historic-town — San Bernardino Historic Town and Lakeside Public Promenade — 2026-11-27
+
+- YAML: [source](../../../countries/PY/sights/san-bernardino-historic-town.yaml)
+- Action: new
+- Scope: Desk-based historic town public streets and promenade, distinct from broad lake landscape, non-additive for same visit. No swimming or venue availability asserted.
+- Representative coordinates: -25.31, -57.3; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.0 / 8.1 / 8.3 / 8.6 / 8.2.
+- Categories: architecture:8.8 relaxation:9.0 culture:8.8.
+- Overall: 81.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PY/lake-ypacarai](../../../countries/PY/sights/lake-ypacarai.yaml) | 7.6 / 7.6 / 7.2 / 7.4 / 7.8 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [PY/pilar-historic-centre](../../../countries/PY/sights/pilar-historic-centre.yaml) | 7.9 / 8.3 / 8.8 / 8.4 / 8.4 | impact: +0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 292 scope decisions
+
+10 additions, 6 source-linked provisional, 4 desk-based provisional, 4 90+, 28 ranking-row comparisons (8 international). PY 98 ranked / 101 total, +49 since baseline 52. Prior 1 inscribed property (2 components) and 12 tentative represented; not independently remapped. Three unassessed retained. Itaipú identifies eight biosphere units (https://www.itaipu.gov.py/noticias/unesco/itaipu-integra-la-red-mundial-de-reservas-de-biosfera-de-la-unesco-con-ocho-areas-protegidas); Tatí Yupí existing and binational Mbaracayú refuge now added, six other units deferred pending specific visitor scopes; biosphere designation not World Heritage inscription. Río Negro overlaps Pantanal/Tres Gigantes; Ñacunday park overlaps waterfall; Cerro Chovoreca and Lago Ypoá deferred pending defined authorized visitor routes; Ypoá legally managed resource reserve per SIAM (https://apps.mades.gov.py/siam/portal/area-protegida/15). Chaco community proposal not yet defined visitor experience; prior Enxet, Morombí, Atinguy, and closure deferrals retained. Yataity craft fair and workshops grouped; Villarrica closing event weather postponement documented without intrinsic score penalty. Existing scores preserved. PAUSED after four targeted passes to diversify worldwide discovery, not exhaustive; next Uruguay. Coordinates approximate; access and future schedules unverified.
