@@ -553,7 +553,7 @@ No numerical score or evidence-status changes made by this pass.
 - YAML: [source](../../../countries/GP/sights/fort-delgres.yaml)
 - Action: new
 - Scope: Historic fort and remembrance interpretation.
-- Representative coordinates: -16.005, -61.731; approximate, not independently verified.
+- Representative coordinates: 15.989, -61.723; approximate, not independently verified.
 - Evidence status: **desk-based provisional**
 - Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.7 / 8.7.
 - Categories: history:9.4,architecture:9.3.
@@ -602,3 +602,7 @@ No numerical score or evidence-status changes made by this pass.
 - Overall: 86.65/100.
 - Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
+
+### Pass 167 coordinate correction — Fort Delgrès
+
+Corrected hemisphere and approximate location to 15.989, -61.723, consistent with [published coordinates](https://en.wikipedia.org/wiki/Fort_Delgr%C3%A8s) and [Guadeloupe tourism](https://www.lesilesdeguadeloupe.com/patrimoine-culturel/fort-delgres/). Score unchanged.
