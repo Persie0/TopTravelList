@@ -4447,3 +4447,23 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] ZA — uShaka Marine World Durban Aquarium and Waterpark: 86.20/100 (desk-based provisional).
 
 16 additions, 11 source-linked provisional, 5 desk-based provisional, 6 90+, 39 ranking-row comparisons (13 international). ZA 60 ranked / 66 total, +32 since baseline. Sardine Run grouped, excludes Aliwal reef dives; Gansbaai present-day multispecies encounters only. Kaapse Klopse separate from built heritage, Cycle Tour separate from road scenery. Two Oceans Aquarium excludes public waterfront. Isandlwana and Rorke’s Drift grouped. Constitution Hill still deferred; official serial component confirmed (https://whc.unesco.org/en/list/1676/maps/). Prior Maropeng and De Hoop deferrals retained. Coordinates approximate; access/schedules unverified. Six unassessed and existing scores preserved; discovery queue open.
+
+### Pass 251 — South Africa astronomy, museums, arts and mountain sports
+
+- [x] ZA — AfrikaBurn Tankwa Karoo Participatory Desert Art Gathering: 92.45/100 (source-linked-unverified).
+- [x] ZA — Sutherland South African Astronomical Observatory SALT Tours and Stargazing: 91.80/100 (source-linked-unverified).
+- [x] ZA — Origins Centre Johannesburg Human Origins and Southern African Rock Art Museum: 91.45/100 (source-linked-unverified).
+- [x] ZA — Absa Cape Epic Western Cape Mountain Bike Stage Race: 91.05/100 (source-linked-unverified).
+- [x] ZA — Kimberley Big Hole and Diamond Mining Museum: 90.85/100 (source-linked-unverified).
+- [x] ZA — Camdeboo National Park Valley of Desolation Dolerite Cliffs: 88.35/100 (source-linked-unverified).
+- [x] ZA — William Humphreys Art Gallery Kimberley National Art Collections: 86.65/100 (source-linked-unverified).
+- [x] ZA — McGregor Museum Kimberley Natural and Cultural Heritage Collections: 86.50/100 (source-linked-unverified).
+- [x] ZA — Iziko South African National Gallery Cape Town Art Collections: 88.50/100 (desk-based provisional).
+- [x] ZA — Walter Sisulu National Botanical Garden Waterfall and Birding: 86.55/100 (desk-based provisional).
+- [x] ZA — Gold Reef City Johannesburg Theme Park and Mining Heritage Tours: 87.70/100 (desk-based provisional).
+- [x] ZA — Franschhoek Motor Museum Historic Automobile Collections: 87.00/100 (desk-based provisional).
+- [x] ZA — Graaff-Reinet Historic Town Cape Dutch Architecture and Heritage Museums: 86.65/100 (desk-based provisional).
+- [x] ZA — Durban Golden Mile Beachfront Promenade and Indian Ocean Beaches: 84.45/100 (desk-based provisional).
+- [x] ZA — National Museum Bloemfontein Natural History and Cultural Collections: 86.20/100 (desk-based provisional).
+
+15 additions, 8 source-linked provisional, 7 desk-based provisional, 5 90+, 35 ranking-row comparisons (8 international). ZA 75 ranked / 81 total, +47 since baseline. AfrikaBurn distinct from Tankwa Karoo National Park; SALT day tour distinguished from night stargazing using other telescopes; Origins Centre museum distinct from fossil sites. Cape Epic moving route represented in Western Cape only. Camdeboo grouped with Valley of Desolation, excludes Graaff-Reinet town. SANParks lists 21 national parks (https://www.sanparks.org/corporate/about/profile/overview); Bontebok deferred as Cape Floral component (https://www.sanparks.org/corporate/about/operations/sustainable-conservation), temporary flood damage not a score penalty; Richtersveld park deferred pending boundary reconciliation with existing Richtersveld property (https://www.sanparks.org/news/sanparks-showcases-inclusive-conservation-through-influencer-and-media-excursion-in-richtersveld-national-park); Meerkat deferred pending verified public visitor offering. Sani Pass deferred pending transboundary road scope versus Maloti-Drakensberg (https://www.southafrica.net/gl/en/travel/article/sani-pass-kwazulu-natal-gateway-to-the-mountain-kingdom-of-lesotho). Prior Constitution Hill, Maropeng and De Hoop deferrals retained. No blanket national park completeness asserted. Coordinates approximate except source-linked AfrikaBurn gate; access/schedules unverified. Six unassessed and existing scores preserved; discovery queue open.
