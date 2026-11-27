@@ -5669,3 +5669,275 @@ Peer profiles checked against individual YAMLs and ranking rows at parent commit
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-tr-yoros-fortress — Yoros Fortress and Bosphorus Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/yoros-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Hilltop fortress and land-based viewpoint; distinct from Bosphorus cruise; no interior access assumed.
+- Location check: 41.180392, 29.096358; [published representative point](https://whc.unesco.org/fr/listesindicatives/7030/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.beykoz.bel.tr/tarihi-yerler/yoros-kalesi); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/rumeli-fortress](../../../countries/TR/sights/rumeli-fortress.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 8.6 | depth: -0.6 vs peer; impact: -0.3 vs peer. |
+| [TR/amasra-historic-harbour](../../../countries/TR/sights/amasra-historic-harbour.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | depth: -0.8 vs peer; experience: -0.4 vs peer. |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | depth: -0.9 vs peer; impact: -0.4 vs peer. |
+| [PT/almourol-castle](../../../countries/PT/sights/almourol-castle.yaml) | 9.0 / 8.9 / 8.7 / 8.5 / 8.0 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Scenic strait outlook. |
+| Uniqueness | 8.6 | Distinct strategic setting. |
+| Significance | 8.7 | Byzantine and Genoese heritage. |
+| Experience | 8.5 | Dedicated hilltop visit. |
+| Depth | 8.0 | Limited surviving structures. |
+
+- Applicable categories: photography:9.2, history:9.1, architecture:8.8.
+- Computed worldwide overall: 85.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-candarli-fortress — Çandarlı Fortress — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/candarli-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Fortress only, including exterior and historically available monument experience; no unrestricted interior access assumed.
+- Location check: 38.933803, 26.93375; [published representative point](https://whc.unesco.org/fr/listesindicatives/7030/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.kulturportali.gov.tr/turkiye/izmir/gezilecekyer/candarli); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/cesme-castle](../../../countries/TR/sights/cesme-castle.yaml) | 8.8 / 8.7 / 8.8 / 8.8 / 8.7 | depth: -0.8 vs peer; experience: -0.5 vs peer. |
+| [TR/guvercinada-castle](../../../countries/TR/sights/guvercinada-castle.yaml) | 8.6 / 8.8 / 8.5 / 8.7 / 8.0 | experience: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [PT/almourol-castle](../../../countries/PT/sights/almourol-castle.yaml) | 9.0 / 8.9 / 8.7 / 8.5 / 8.0 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [TR/kizkalesi](../../../countries/TR/sights/kizkalesi.yaml) | 8.9 / 8.9 / 8.7 / 8.6 / 8.3 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Prominent coastal walls. |
+| Uniqueness | 8.5 | Layered Genoese and Ottoman fabric. |
+| Significance | 8.5 | Regional maritime heritage. |
+| Experience | 8.3 | Compact dedicated monument visit. |
+| Depth | 7.9 | Limited footprint. |
+
+- Applicable categories: architecture:9.0, history:9.0, photography:8.9.
+- Computed worldwide overall: 83.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-akcakoca-fortress — Akçakoca Genoese Fortress and Coastal Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/akcakoca-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Cliff-top ruins and immediate coastal outlook; excludes wider resort and beaches.
+- Location check: 41.086333, 31.092328; [published representative point](https://whc.unesco.org/fr/listesindicatives/7030/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.kulturportali.gov.tr/turkiye/duzce/gezilecekyer/akcakoca-ceneviz-kalesi); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/cesme-castle](../../../countries/TR/sights/cesme-castle.yaml) | 8.8 / 8.7 / 8.8 / 8.8 / 8.7 | depth: -0.9 vs peer; impact: -0.4 vs peer. |
+| [TR/guvercinada-castle](../../../countries/TR/sights/guvercinada-castle.yaml) | 8.6 / 8.8 / 8.5 / 8.7 / 8.0 | uniqueness: -0.3 vs peer; experience: -0.3 vs peer. |
+| [PT/almourol-castle](../../../countries/PT/sights/almourol-castle.yaml) | 9.0 / 8.9 / 8.7 / 8.5 / 8.0 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [TR/amasra-historic-harbour](../../../countries/TR/sights/amasra-historic-harbour.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | depth: -1.0 vs peer; impact: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Cliff-top coastal setting. |
+| Uniqueness | 8.5 | Distinct fortification setting. |
+| Significance | 8.4 | Regional maritime history. |
+| Experience | 8.4 | Established recreation and monument stop. |
+| Depth | 7.8 | Limited surviving fabric. |
+
+- Applicable categories: photography:9.0, history:8.9, architecture:8.7.
+- Computed worldwide overall: 83.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-kadikalesi-anaia — Kadıkalesi / Anaia Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/kadikalesi-anaia.yaml)
+- Action: new
+- Precise subject and limitations: Fortified mound, Byzantine church complex and settlement layers grouped; UNESCO tentative coordinate conflicts with archaeological guide and mapped site (https://mapcarta.com/W752693825), use guide point. Distinct from Güvercinada.
+- Location check: 37.791405, 27.27047; [published representative point](https://turkisharchaeonews.net/site/kad%C4%B1kalesi-anaia), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=KDK01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/arslantepe](../../../countries/TR/sights/arslantepe.yaml) | 8.1 / 8.9 / 9.2 / 8.4 / 8.1 | significance: -0.5 vs peer; experience: -0.5 vs peer. |
+| [TR/zeugma](../../../countries/TR/sights/zeugma.yaml) | 8.2 / 8.8 / 9.1 / 8.2 / 7.5 | depth: +0.6 vs peer; significance: -0.4 vs peer. |
+| [TR/kultepe-kanesh](../../../countries/TR/sights/kultepe-kanesh.yaml) | 8.1 / 9.1 / 9.4 / 8.2 / 8.4 | significance: -0.7 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/mystras](../../../countries/GR/sights/mystras.yaml) | 9.1 / 9.2 / 9.3 / 8.9 / 9.0 | impact: -1.2 vs peer; experience: -1.0 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Low excavated remains. |
+| Uniqueness | 8.8 | Distinct fortified multi-period mound. |
+| Significance | 8.7 | Important regional trade and Byzantine history. |
+| Experience | 7.9 | Modest dedicated archaeological visit. |
+| Depth | 8.1 | Several settlement layers. |
+
+- Applicable categories: history:9.2, architecture:8.8, culture:8.8.
+- Computed worldwide overall: 83.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-erythrai — Erythrai Ancient City and Acropolis — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/erythrai.yaml)
+- Action: new
+- Precise subject and limitations: Ancient theatre, acropolis and immediate archaeological landscape; excludes modern village recreation.
+- Location check: 38.38226, 26.47995; [published representative point](https://mapcarta.com/W1278163500), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.kulturportali.gov.tr/turkiye/izmir/gezilecekyer/erythrai-antik-kenti-); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/priene](../../../countries/TR/sights/priene.yaml) | 8.8 / 9.0 / 9.1 / 8.7 / 8.9 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+| [TR/knidos](../../../countries/TR/sights/knidos.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.8 | impact: -0.7 vs peer; experience: -0.5 vs peer. |
+| [TR/assos](../../../countries/TR/sights/assos.yaml) | 9.0 / 8.9 / 9.1 / 8.7 / 8.9 | impact: -0.7 vs peer; significance: -0.5 vs peer. |
+| [GR/lindos](../../../countries/GR/sights/lindos.yaml) | 9.0 / 9.0 / 9.1 / 8.9 / 8.3 | impact: -0.7 vs peer; experience: -0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Scenic hillside ruins. |
+| Uniqueness | 8.5 | Characteristic Ionian settlement. |
+| Significance | 8.6 | Regional ancient heritage. |
+| Experience | 8.3 | Dedicated outdoor visit. |
+| Depth | 8.4 | Multiple surviving features. |
+
+- Applicable categories: history:9.1, architecture:8.9, photography:9.0.
+- Computed worldwide overall: 84.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-teos — Teos Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/teos.yaml)
+- Action: new
+- Precise subject and limitations: Temple of Dionysus, theatre, agora and excavated urban landscape; separate from Sığacık Castle. Ministry admission reference https://muze.gov.tr/Language/Index/EN?url=%2Fmuze-detay%3FDistId%3DMRK%26SectionId%3DTEO01.
+- Location check: 38.17974, 26.78307; [published representative point](https://mapcarta.com/28794580), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://teos.ankara.edu.tr/en/teos-en/the-landscaping-project-at-teos/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/priene](../../../countries/TR/sights/priene.yaml) | 8.8 / 9.0 / 9.1 / 8.7 / 8.9 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [TR/miletus](../../../countries/TR/sights/miletus.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 9.0 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [TR/assos](../../../countries/TR/sights/assos.yaml) | 9.0 / 8.9 / 9.1 / 8.7 / 8.9 | impact: -0.4 vs peer; significance: -0.3 vs peer. |
+| [GR/lindos](../../../countries/GR/sights/lindos.yaml) | 9.0 / 9.0 / 9.1 / 8.9 / 8.3 | impact: -0.4 vs peer; depth: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Varied classical remains. |
+| Uniqueness | 8.7 | Distinct Dionysian cultural associations. |
+| Significance | 8.8 | Important Ionian urban heritage. |
+| Experience | 8.7 | Developed visitor walking routes. |
+| Depth | 8.7 | Multiple monuments. |
+
+- Applicable categories: history:9.2, architecture:9.1, photography:9.0.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-ihlara-valley — Ihlara Valley Rock Churches and Canyon Trail — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/ihlara-valley.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated Aksaray canyon and rock churches, not wider Cappadocia. Current UNESCO property description https://whc.unesco.org/en/list/357/ omits Ihlara; geographical study https://www.academia.edu/38197312/2_formate_IJHSS_ASSESSMENT_OF_CULTURAL_LANDSCAPE_VALUES_AND_THEIR_PROTECTION_STATUS_IN_IHLARA_VALLEY_pdf explicitly places it outside property. Older national commission text conflicts; exact polygon not independently checked. Separate visitor route supports distinct scope; no current access guarantee.
+- Location check: 38.2536, 34.305; [published representative point](https://ecoturkiye.com/en/ihlara-valley/map), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?DistId=IH1&SectionId=IH101); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/koprulu-canyon](../../../countries/TR/sights/koprulu-canyon.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer. |
+| [TR/saklikent](../../../countries/TR/sights/saklikent.yaml) | 8.7 / 8.3 / 7.5 / 8.4 / 7.6 | depth: +1.6 vs peer; significance: +1.5 vs peer. |
+| [TR/goreme-open-air](../../../countries/TR/sights/goreme-open-air.yaml) | 9.0 / 9.2 / 9.2 / 8.7 / 8.4 | depth: +0.8 vs peer; experience: +0.3 vs peer. |
+| [GR/mystras](../../../countries/GR/sights/mystras.yaml) | 9.1 / 9.2 / 9.3 / 8.9 / 9.0 | significance: -0.3 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Dramatic canyon and rock churches. |
+| Uniqueness | 9.2 | Distinct combined natural and religious landscape. |
+| Significance | 9.0 | Important Byzantine heritage. |
+| Experience | 9.0 | Established canyon walking route. |
+| Depth | 9.2 | Extensive trail and multiple churches. |
+
+- Applicable categories: nature:9.4, photography:9.4, history:9.3, adventure:9.2, architecture:9.2.
+- Computed worldwide overall: 91.30/100.
+- High-score challenge: 90+ provisional; additional worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

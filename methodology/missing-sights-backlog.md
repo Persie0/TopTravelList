@@ -1303,3 +1303,15 @@ Five additions, 20 peer rows. Türkiye 149 ranked / 149 total. Ihlara remains ov
 - [x] TR — Trabzon Hagia Sophia Mosque and Byzantine Heritage: 88.00/100 (source-linked-unverified).
 
 Five additions, 20 peer rows; 16 unique peer YAMLs verified. Türkiye 154 ranked / 154 total. Mount Ida walking experience retained within existing Kazdağı National Park based on ministry https://www.ktb.gov.tr/EN-99783/balikesir---kazdagi-national-park.html and https://goturkiye.com/walking/mount-ida; no claim the entire mountain is protected. Çeşme museum and Foça castle grouped locally; Güvercinada island scope bounded; Assos village overlap noted; Trabzon Hagia Sophia independent. Next bounded screen: Yoros Fortress, Çandarlı Fortress, Akçakoca Fortress, Kadıkalesi/Anaia, Erythrai, Teos, and Ihlara parent-scope resolution. Full Python validation pending.
+
+### Pass 113 — Türkiye remaining maritime fortifications, Ionian sites and Ihlara
+
+- [x] TR — Yoros Fortress and Bosphorus Viewpoint: 85.45/100 (source-linked-unverified).
+- [x] TR — Çandarlı Fortress: 83.80/100 (source-linked-unverified).
+- [x] TR — Akçakoca Genoese Fortress and Coastal Viewpoint: 83.65/100 (source-linked-unverified).
+- [x] TR — Kadıkalesi / Anaia Archaeological Site: 83.05/100 (source-linked-unverified).
+- [x] TR — Erythrai Ancient City and Acropolis: 84.20/100 (source-linked-unverified).
+- [x] TR — Teos Archaeological Site: 86.90/100 (source-linked-unverified).
+- [x] TR — Ihlara Valley Rock Churches and Canyon Trail: 91.30/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Türkiye 161 ranked / 161 total. Ihlara separately rated on dedicated Aksaray canyon route; current UNESCO description and geographical study support distinct scope, conflicting older national commission statement retained as caveat; exact polygon not verified. Kadıkalesi mapped archaeology point preferred over discrepant UNESCO coordinate. Genoese serial aggregate not added. Next: final bounded screen of Sığacık Castle, Lake Manyas Bird Paradise, Sultan Marshes, and major remaining distinct nature/heritage candidates before moving to next country. Full Python validation pending.
