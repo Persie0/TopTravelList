@@ -477,3 +477,17 @@ No numerical score or evidence-status changes made by this pass.
 - Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
 
 - Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-yt-moya-beaches — Moya Beaches Petite-Terre Coastal Crater Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/moya-beaches.yaml)
+- Action: new
+- Scope: Beach and coastal cliff landscape; excludes Dziani crater lake.
+- Representative coordinates: -12.783, 45.298; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.4 / 8.8 / 8.5.
+- Categories: nature:9.3,beaches:9.3,photography:9.3.
+- Overall: 86.35/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.

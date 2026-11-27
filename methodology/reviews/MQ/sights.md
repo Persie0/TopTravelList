@@ -576,3 +576,59 @@ No numerical score or evidence-status changes made by this pass.
 Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
 
 - Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-mq-depaz-estate — Habitation Depaz Saint-Pierre Rum Distillery and Estate Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/depaz-estate.yaml)
+- Action: new
+- Scope: Historic estate and production interpretation.
+- Representative coordinates: 14.768, -61.166; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.8 / 8.8.
+- Categories: history:9.3,culture:9.3,food:9.2.
+- Overall: 87.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-mq-habitation-saint-etienne — Habitation Saint-Étienne Industrial Heritage and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/habitation-saint-etienne.yaml)
+- Action: new
+- Scope: Industrial heritage and gardens, separate from Depaz and Clément.
+- Representative coordinates: 14.679, -60.995; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.8 / 8.7 / 8.7.
+- Categories: history:9.3,culture:9.2,architecture:9.2.
+- Overall: 86.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-mq-gorges-falaise — Gorges de la Falaise Ajoupa-Bouillon River Canyon — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/gorges-falaise.yaml)
+- Action: new
+- Scope: River canyon experience only; precise UNESCO forest boundary pending.
+- Representative coordinates: 14.815, -61.114; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.3 / 8.9 / 8.5.
+- Categories: nature:9.3,adventure:9.3,photography:9.3.
+- Overall: 86.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-mq-banana-museum — Musée de la Banane Sainte-Marie Agricultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/banana-museum.yaml)
+- Action: new
+- Scope: Agricultural interpretation and garden.
+- Representative coordinates: 14.778, -61.005; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.6 / 8.5 / 8.7 / 8.6.
+- Categories: food:9.2,culture:9.2,family:9.2.
+- Overall: 85.05/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.

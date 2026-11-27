@@ -29,10 +29,12 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | FR | OPEN | 996 total (985 ranked); 895 additions in passes 115–165. Overseas territory codes confirmed separate; pass 166 adds no FR entries. Next: national residuals and overseas queues separately. Eleven existing unassessed separate. |
 
 | RE | OPEN | 16 total (16 ranked); 6 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
-| GP | OPEN | 16 total (16 ranked); 5 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
-| MQ | OPEN | 17 total (17 ranked); 6 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
+| GP | OPEN | 20 total (20 ranked); 4 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |
+| MQ | OPEN | 21 total (21 ranked); 4 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |
 | GF | OPEN | 14 total (14 ranked); 4 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
-| YT | OPEN | 12 total (11 ranked); 2 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
-| PF | OPEN | 18 total (18 ranked); 7 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
+| YT | OPEN | 13 total (12 ranked); 1 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |
+| PF | OPEN | 25 total (25 ranked); 7 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |
+
+| NC | OPEN | 19 total (19 ranked); 8 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

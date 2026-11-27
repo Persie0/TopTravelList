@@ -663,3 +663,161 @@ Ranking rows checked; peer YAML and independent factual/coordinate verification 
 Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
 
 - Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-pf-rurutu-whales — Rurutu Humpback Whale Observation and Coastal Wildlife Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/rurutu-whales.yaml)
+- Action: new
+- Scope: Seasonal whale observation from cliffs and guided boats; no guaranteed encounter.
+- Representative coordinates: -22.45, -151.34; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.0 / 9.3 / 9.2.
+- Categories: wildlife:9.4,nature:9.4,photography:9.4.
+- Overall: 92.25/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/activities/underwater-exploration/whale-season/ ; https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-austral-islands/rurutu/what-to-do-in-rurutu/.
+- Research rationale: Official tourism identifies Rurutu as particularly important for whale viewing.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/mayotte-cetaceans](../../../countries/YT/sights/mayotte-cetaceans.yaml) | 9.0 / 9.1 / 8.6 / 8.9 / 8.7 | depth: +0.5 vs peer; significance: +0.4 vs peer |
+| [PF/tetiaroa-atoll](../../../countries/PF/sights/tetiaroa-atoll.yaml) | 9.1 / 9.2 / 8.9 / 9.1 / 9.1 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+| [PF/fakarava-south-pass](../../../countries/PF/sights/fakarava-south-pass.yaml) | 9.4 / 9.2 / 8.7 / 9.3 / 8.6 | depth: +0.6 vs peer; significance: +0.3 vs peer |
+| [PF/tiputa-pass](../../../countries/PF/sights/tiputa-pass.yaml) | 9.2 / 9.0 / 8.5 / 9.2 / 8.6 | depth: +0.6 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-raivavae-lagoon — Raivavae Lagoon Motu and Mount Hiro Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/raivavae-lagoon.yaml)
+- Action: new
+- Scope: Integrated lagoon and mountain experience.
+- Representative coordinates: -23.87, -147.65; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.7 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3,beaches:9.3.
+- Overall: 90.65/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-austral-islands/raivavae/what-to-do-in-raivavae/ ; https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-austral-islands/raivavae/escape-to-raivavae/.
+- Research rationale: Official tourism identifies lagoon excursions, archaeological remains and summit hiking.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [PF/bora-bora-lagoon](../../../countries/PF/sights/bora-bora-lagoon.yaml) | 9.5 / 9.2 / 8.0 / 9.3 / 8.8 | significance: +0.7 vs peer; impact: -0.3 vs peer |
+| [PF/tetiaroa-atoll](../../../countries/PF/sights/tetiaroa-atoll.yaml) | 9.1 / 9.2 / 8.9 / 9.1 / 9.1 | significance: -0.2 vs peer; impact: +0.1 vs peer |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | significance: +0.7 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-fautaua-valley — Fautaua Valley Waterfall and Rainforest Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/fautaua-valley.yaml)
+- Action: new
+- Scope: Valley and waterfall walks together, not Papenoo Valley.
+- Representative coordinates: -17.58, -149.53; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.6 / 9.2 / 9.1.
+- Categories: nature:9.4,adventure:9.3,photography:9.4.
+- Overall: 89.90/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/activities/points-of-interest/vallee-de-la-fautaua-pirae-en-en-pf-3337319/.
+- Research rationale: Official trail description documents routes toward the waterfall from below and above.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +1.0 vs peer; uniqueness: +0.6 vs peer |
+| [PF/faarumai-waterfalls](../../../countries/PF/sights/faarumai-waterfalls.yaml) | 8.2 / 7.5 / 6.7 / 8.0 / 7.3 | significance: +1.9 vs peer; depth: +1.8 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [NC/grandes-fougeres](../../../countries/NC/sights/grandes-fougeres.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-aorai-mountain — Mont Aorai Tahiti Mountain Ridge Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/aorai-mountain.yaml)
+- Action: new
+- Scope: Mountain ridge trek only; no valley waterfall overlap.
+- Representative coordinates: -17.61, -149.51; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.6 / 9.2 / 9.2.
+- Categories: nature:9.4,adventure:9.4,photography:9.3.
+- Overall: 90.00/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/activities/points-of-interest/mont-aorai-pirae-en-en-pf-3347583/.
+- Research rationale: Official tourism identifies mountain trekking and extensive views.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/fautaua-valley](../../../countries/PF/sights/fautaua-valley.yaml) | 9.1 / 9.0 / 8.6 / 9.2 / 9.1 | depth: +0.1 vs peer; impact: +0.0 vs peer |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +1.0 vs peer; depth: +0.7 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [NC/grandes-fougeres](../../../countries/NC/sights/grandes-fougeres.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-tubuai-taitaa — Tubuai Mount Taita’a and Lagoon Motu Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/tubuai-taitaa.yaml)
+- Action: new
+- Scope: Integrated island hiking and lagoon excursions.
+- Representative coordinates: -23.37, -149.48; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 9.0 / 8.9.
+- Categories: nature:9.3,adventure:9.3,beaches:9.3.
+- Overall: 88.10/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-austral-islands/tubuai/ ; https://tahititourisme.pf/en-pf/activities/points-of-interest/mont-taitaa-tubuai-en-en-pf-5464106/.
+- Research rationale: Tourism sources document summit panorama and eight lagoon motu.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PF/raivavae-lagoon](../../../countries/PF/sights/raivavae-lagoon.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [PF/moorea-lagoon](../../../countries/PF/sights/moorea-lagoon.yaml) | 9.1 / 8.7 / 8.0 / 9.1 / 8.6 | significance: +0.5 vs peer; depth: +0.3 vs peer |
+| [PF/tetiaroa-atoll](../../../countries/PF/sights/tetiaroa-atoll.yaml) | 9.1 / 9.2 / 8.9 / 9.1 / 9.1 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-marae-arahurahu — Marae Arahurahu Tahiti Archaeological and Ceremonial Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/marae-arahurahu.yaml)
+- Action: new
+- Scope: Restored ceremonial site and interpretation.
+- Representative coordinates: -17.766, -149.482; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.1 / 8.8 / 8.6.
+- Categories: history:9.4,culture:9.3.
+- Overall: 88.30/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-pf-vaipahi-garden — Jardins d’Eau de Vaipahi Tahiti Botanical and Waterfall Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PF/sights/vaipahi-garden.yaml)
+- Action: new
+- Scope: Botanical garden and water trails.
+- Representative coordinates: -17.764, -149.419; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.3 / 8.9 / 8.7.
+- Categories: nature:9.3,photography:9.3,relaxation:9.2.
+- Overall: 86.50/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.

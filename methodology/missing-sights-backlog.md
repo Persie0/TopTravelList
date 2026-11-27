@@ -2541,3 +2541,35 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 30 additions, 21 desk-based provisional, 9 source-informed, 6 90+, 36 cross-territory/domestic numerical peer comparisons. All 12 French overseas territory codes exist independently of FR. No FR records added or moved; mainland France remains 996 total. Six territory rankings expanded. Existing umbrella/child overlaps are not resolved by this batch; new scopes exclude existing named reef passes, volcano surface and separately ranked museums. Older access-dependent unassessed entries remain in separate workflow.
 RE: 16 total (16 ranked, 0 unassessed), +6; GP: 16 total (16 ranked, 0 unassessed), +5; MQ: 17 total (17 ranked, 0 unassessed), +6; GF: 14 total (14 ranked, 0 unassessed), +4; YT: 12 total (11 ranked, 1 unassessed), +2; PF: 18 total (18 ranked, 0 unassessed), +7.
 Next: Remaining overseas coverage, especially New Caledonia, French Polynesia residuals, Guadeloupe/Martinique and Mayotte, then French national residuals and 11 FR unassessed serial entries.
+
+
+### Pass 167 — French overseas territory residual expansion
+
+- [x] PF — Rurutu Humpback Whale Observation and Coastal Wildlife Excursions: 92.25/100 (source-linked-unverified).
+- [x] NC — Parc Provincial des Grandes Fougères Rainforest and Endemic Wildlife Trails: 91.35/100 (source-linked-unverified).
+- [x] PF — Raivavae Lagoon Motu and Mount Hiro Hiking: 90.65/100 (source-linked-unverified).
+- [x] PF — Fautaua Valley Waterfall and Rainforest Hiking: 89.90/100 (source-linked-unverified).
+- [x] PF — Mont Aorai Tahiti Mountain Ridge Trek: 90.00/100 (source-linked-unverified).
+- [x] NC — Domaine de Deva Dry Forest and Mountain Trails: 89.15/100 (source-linked-unverified).
+- [x] NC — Musée Maritime de Nouvelle-Calédonie Nouméa Maritime Heritage Collections: 88.45/100 (desk-based provisional).
+- [x] NC — Musée de la Seconde Guerre Mondiale Nouméa History Collections: 86.50/100 (desk-based provisional).
+- [x] NC — Fort Téremba Historic Fort and Penal Heritage Museum: 87.80/100 (desk-based provisional).
+- [x] NC — Grottes de Koumac Limestone Caves and Rock Landscape: 86.25/100 (desk-based provisional).
+- [x] NC — Pic N’Ga Isle of Pines Summit Trail: 86.90/100 (desk-based provisional).
+- [x] NC — Prony Historic Village and Mining Heritage Ruins: 86.30/100 (desk-based provisional).
+- [x] PF — Tubuai Mount Taita’a and Lagoon Motu Excursions: 88.10/100 (source-linked-unverified).
+- [x] PF — Marae Arahurahu Tahiti Archaeological and Ceremonial Heritage: 88.30/100 (desk-based provisional).
+- [x] PF — Jardins d’Eau de Vaipahi Tahiti Botanical and Waterfall Trails: 86.50/100 (desk-based provisional).
+- [x] GP — Fort Delgrès Basse-Terre Historical Fortification: 88.30/100 (desk-based provisional).
+- [x] GP — Musée Schœlcher Pointe-à-Pitre Art and History Collections: 86.20/100 (desk-based provisional).
+- [x] GP — Maison du Cacao Pointe-Noire Cocoa Heritage Garden: 85.45/100 (desk-based provisional).
+- [x] GP — Beauport Pays de la Canne Sugar Industry Heritage Museum: 86.65/100 (desk-based provisional).
+- [x] MQ — Habitation Depaz Saint-Pierre Rum Distillery and Estate Heritage: 87.70/100 (desk-based provisional).
+- [x] MQ — Habitation Saint-Étienne Industrial Heritage and Gardens: 86.85/100 (desk-based provisional).
+- [x] MQ — Gorges de la Falaise Ajoupa-Bouillon River Canyon: 86.85/100 (desk-based provisional).
+- [x] MQ — Musée de la Banane Sainte-Marie Agricultural Heritage: 85.05/100 (desk-based provisional).
+- [x] YT — Moya Beaches Petite-Terre Coastal Crater Landscape: 86.35/100 (desk-based provisional).
+
+24 additions, 17 desk-based provisional, 7 source-informed, 4 90+, 28 numerical peer comparisons. Existing FR and prior scores unchanged. Trois Cocotiers starts at Opunohu viewpoint, so deferred rather than duplicate its landscape; Upi Bay deferred for Oro/UNESCO lagoon overlap. Deva scoped to terrestrial trails. Austral island lagoons and whale experience independently scoped. Existing Marquesas UNESCO components not duplicated. Other existing umbrella/child overlaps retained for follow-up. Mayotte MuMa unassessed remains separate. No arbitrary target of 30: 24 concrete additions.
+NC: 19 total (19 ranked, 0 unassessed), +8; PF: 25 total (25 ranked, 0 unassessed), +7; GP: 20 total (20 ranked, 0 unassessed), +4; MQ: 21 total (21 ranked, 0 unassessed), +4; YT: 13 total (12 ranked, 1 unassessed), +1.
+Next: Remaining overseas territorial queues: NC and PF high-value residuals, smaller BL/MF/PM/WF/TF and FR national residual review. Reassess access-dependent unranked entries separately.

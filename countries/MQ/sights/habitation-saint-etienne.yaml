@@ -1,0 +1,16 @@
+id: sight-mq-habitation-saint-etienne
+name: "Habitation Saint-Étienne Industrial Heritage and Gardens"
+location:
+  country_code: MQ
+  latitude: 14.679
+  longitude: -60.995
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 9.2

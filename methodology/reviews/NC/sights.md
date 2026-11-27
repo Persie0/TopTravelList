@@ -471,3 +471,139 @@ Core values I/U/S/E/D from territory branch YAML; prior comparisons retained. Ed
 - Final decision: provisional worldwide V2 assessment of specified visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent coordinate, source and visitor scope checks.
+
+
+## sight-nc-grandes-fougeres — Parc Provincial des Grandes Fougères Rainforest and Endemic Wildlife Trails — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/grandes-fougeres.yaml)
+- Action: new
+- Scope: Terrestrial rainforest and hiking only.
+- Representative coordinates: -21.62, 165.77; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.2.
+- Categories: nature:9.4,wildlife:9.4,adventure:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.newcaledonia.travel/activities/sustainable-tourism/preserved-natural-spaces/ ; https://www.sudtourisme.nc/explorez/lieux-incontournables/parc-provincial-des-grandes-fougeres/.
+- Research rationale: Around 4,535 hectares of rainforest, high endemism and documented trails.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | experience: +0.3 vs peer; depth: +0.3 vs peer |
+| [NC/hienghene-rocks](../../../countries/NC/sights/hienghene-rocks.yaml) | 9.0 / 9.0 / 8.2 / 8.7 / 8.2 | significance: +1.0 vs peer; depth: +1.0 vs peer |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +1.6 vs peer; uniqueness: +0.9 vs peer |
+| [PF/maupiti-lagoon](../../../countries/PF/sights/maupiti-lagoon.yaml) | 9.3 / 9.1 / 8.8 / 9.3 / 9.2 | significance: +0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-nc-deva-forest — Domaine de Deva Dry Forest and Mountain Trails — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/deva-forest.yaml)
+- Action: new
+- Scope: Terrestrial trails only; Poé Lagoon excluded.
+- Representative coordinates: -21.61, 165.43; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 9.1.
+- Categories: nature:9.3,adventure:9.3,wildlife:9.3.
+- Overall: 89.15/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.newcaledonia.travel/activities/sustainable-tourism/preserved-natural-spaces/.
+- Research rationale: 158 km of marked walking, riding and cycling routes with endemic species.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/grandes-fougeres](../../../countries/NC/sights/grandes-fougeres.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+| [NC/blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | significance: -0.3 vs peer; experience: +0.3 vs peer |
+| [NC/poe-lagoon](../../../countries/NC/sights/poe-lagoon.yaml) | 9.0 / 8.7 / 8.8 / 9.0 / 8.5 | depth: +0.6 vs peer; uniqueness: +0.2 vs peer |
+| [PF/papenoo-valley](../../../countries/PF/sights/papenoo-valley.yaml) | 8.8 / 8.4 / 7.6 / 8.7 / 8.5 | significance: +1.2 vs peer; depth: +0.6 vs peer |
+
+Ranking rows checked; peer YAML verification pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-nc-noumea-maritime — Musée Maritime de Nouvelle-Calédonie Nouméa Maritime Heritage Collections — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/noumea-maritime.yaml)
+- Action: new
+- Scope: Maritime history collections including expedition archaeology.
+- Representative coordinates: -22.27, 166.438; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3,culture:9.3.
+- Overall: 88.45/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-nc-noumea-wwii-museum — Musée de la Seconde Guerre Mondiale Nouméa History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/noumea-wwii-museum.yaml)
+- Action: new
+- Scope: Historical museum collections.
+- Representative coordinates: -22.271, 166.441; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.9 / 8.7 / 8.7.
+- Categories: history:9.3,culture:9.2.
+- Overall: 86.50/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-nc-fort-teremba — Fort Téremba Historic Fort and Penal Heritage Museum — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/fort-teremba.yaml)
+- Action: new
+- Scope: Fort and historical interpretation.
+- Representative coordinates: -21.717, 165.719; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.8 / 8.8.
+- Categories: history:9.3,culture:9.3,architecture:9.2.
+- Overall: 87.80/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-nc-koumac-caves — Grottes de Koumac Limestone Caves and Rock Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/koumac-caves.yaml)
+- Action: new
+- Scope: Cave and immediate limestone landscape.
+- Representative coordinates: -20.56, 164.37; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.4 / 8.7 / 8.6.
+- Categories: nature:9.3,adventure:9.2,photography:9.2.
+- Overall: 86.25/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-nc-pic-nga — Pic N’Ga Isle of Pines Summit Trail — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/pic-nga.yaml)
+- Action: new
+- Scope: Terrestrial summit trail; no separate lagoon score.
+- Representative coordinates: -22.62, 167.47; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.4 / 8.9 / 8.6.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 86.90/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-nc-prony-village — Prony Historic Village and Mining Heritage Ruins — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/prony-village.yaml)
+- Action: new
+- Scope: Historic settlement ruins only, excludes Prony Bay marine landscape.
+- Representative coordinates: -22.329, 166.819; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.6 / 8.6.
+- Categories: history:9.3,culture:9.2,photography:9.2.
+- Overall: 86.30/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.

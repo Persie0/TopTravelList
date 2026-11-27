@@ -546,3 +546,59 @@ No numerical score or evidence-status changes made by this pass.
 - Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
 
 - Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-gp-fort-delgres — Fort Delgrès Basse-Terre Historical Fortification — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/fort-delgres.yaml)
+- Action: new
+- Scope: Historic fort and remembrance interpretation.
+- Representative coordinates: -16.005, -61.731; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.7 / 8.7.
+- Categories: history:9.4,architecture:9.3.
+- Overall: 88.30/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-gp-schoelcher-museum — Musée Schœlcher Pointe-à-Pitre Art and History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/schoelcher-museum.yaml)
+- Action: new
+- Scope: Museum collections; temporary renovation not a rating penalty.
+- Representative coordinates: 16.237, -61.536; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.9 / 8.5 / 8.7.
+- Categories: culture:9.3,history:9.3.
+- Overall: 86.20/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-gp-maison-cacao — Maison du Cacao Pointe-Noire Cocoa Heritage Garden — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/maison-cacao.yaml)
+- Action: new
+- Scope: Cultivation and processing interpretation.
+- Representative coordinates: 16.222, -61.789; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.7 / 8.5 / 8.8 / 8.6.
+- Categories: food:9.3,culture:9.2,family:9.2.
+- Overall: 85.45/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-gp-beauport-sugar — Beauport Pays de la Canne Sugar Industry Heritage Museum — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/beauport-sugar.yaml)
+- Action: new
+- Scope: Historic sugar factory and industrial museum.
+- Representative coordinates: 16.412, -61.526; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.7 / 8.8.
+- Categories: history:9.3,culture:9.3.
+- Overall: 86.65/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
