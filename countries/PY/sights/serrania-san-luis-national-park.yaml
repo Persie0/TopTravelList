@@ -1,0 +1,16 @@
+id: sight-py-serrania-san-luis-national-park
+name: "Serranía de San Luis National Park Forest and Hill Trails"
+location:
+  country_code: PY
+  latitude: -22.6
+  longitude: -57.37
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.4
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    photography: 9.0

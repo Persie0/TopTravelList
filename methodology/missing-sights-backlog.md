@@ -5134,3 +5134,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PY — Mbatoví Ecological Reserve Forest and Adventure Trails: 82.30/100 (desk-based provisional).
 
 13 additions, 8 source-linked provisional, 5 desk-based provisional, 5 90+, 36 ranking-row comparisons (10 international). PY 62 ranked / 65 total, +13 since baseline 52. UNESCO official list https://whc.unesco.org/en/statesparties/py checked against existing inventory: 1 inscribed property (both Jesuit mission components) and 12 tentative represented; three tentative unassessed (Médanos, Tinfunqué, rock art). No serial-boundary verification. Caacupé pilgrimage distinct from basilica; Guarania and Poncho techniques have UNESCO intangible recognition, named public programmes are not themselves inscribed properties. Ñandutí festival no inscription claim. Chaco salt lagoons grouped distinct from Pantanal; San Rafael limited to arranged authorized visitor trails, not whole reserve. Filadelfia circuit excludes already listed Jakob Unger museum. Existing ratings and three unassessed preserved. OPEN for other public festivals, named wildlife reserves and regional heritage. Coordinates approximate; permissions, future schedules and access unverified.
+
+### Pass 290 — Paraguay regional festivals, Chaco reserves and historical heritage
+
+- [x] PY — Asunción World Harp Festival Public Concert Programme: 91.85/100 (source-linked-unverified).
+- [x] PY — Kamba Kua San Baltasar Public Afro-Paraguayan Music and Dance Festival: 91.80/100 (source-linked-unverified).
+- [x] PY — Asunción Sanjuanazo Public June Heritage Festival: 90.70/100 (source-linked-unverified).
+- [x] PY — Caazapá Ykua Bolaños Public Music Festival: 90.70/100 (source-linked-unverified).
+- [x] PY — Paso Bravo National Park Cerrado Landscapes and Authorized Nature Trails: 88.30/100 (source-linked-unverified).
+- [x] PY — Puerto Bertoni Moisés Bertoni Scientific Monument and Museum: 87.60/100 (source-linked-unverified).
+- [x] PY — Humaitá San Carlos Borromeo Ruins and Local History Museum: 87.45/100 (source-linked-unverified).
+- [x] PY — Teniente Agripino Enciso National Park Dry Chaco Nature and Heritage Trails: 86.65/100 (source-linked-unverified).
+- [x] PY — Serranía de San Luis National Park Forest and Hill Trails: 86.15/100 (source-linked-unverified).
+- [x] PY — Vapor Cué Historic Steamship Memorial Park: 84.30/100 (desk-based provisional).
+- [x] PY — Macizo Acahay Natural Monument Hill Landscape: 83.50/100 (source-linked-unverified).
+- [x] PY — Pilar Historic Centre and Public Riverfront Heritage: 83.05/100 (desk-based provisional).
+- [x] PY — Atyrá Historic Town Church and Artisan Shops: 82.50/100 (desk-based provisional).
+
+13 additions, 10 source-linked provisional, 3 desk-based provisional, 4 90+, 34 ranking-row comparisons (8 international). PY 75 ranked / 78 total, +26 since baseline 52. Prior 1 inscribed property (2 components) and 12 tentative represented; no new serial mapping. MADES December 18 2025 temporary suspension affects Defensores del Chaco, Teniente Enciso and Cerro Kõi/Chororĩ; Ybycuí museum and old foundry area closed from January 6 2026 (https://www.mades.gov.py/2025/12/18/suspension-de-visitas-en-parques-nacionales-por-trabajos-de-puesta-en-valor/). Reopening not verified, intrinsic scores unchanged; prior La Rosada entry flagged. Sanjuanazo limited to named municipal programme, fire games excluded as participation; Kamba Kua consenting public performances. Puerto Bertoni scientific monument distinct from Mbaracayú; tourism directory conflates museum location, prefer MADES. Morombí private reserve deferred pending specific visitor permission. Existing scores and three unassessed preserved. OPEN for other regional heritage and protected-area scopes. Coordinates approximate; permissions, future schedules and access unverified.
