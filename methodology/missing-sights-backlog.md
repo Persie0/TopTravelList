@@ -2692,3 +2692,27 @@ Next: Return to mainland FR residual high-value coverage and overseas follow-up;
 - [x] FR — Musée de la Résistance Nationale Champigny-sur-Marne Collections: 88.50/100 (desk-based provisional).
 
 12 additions, 8 desk-based provisional, 4 source-informed, 4 90+, 32 domestic peer ranking-row comparisons. France 1064 ranked / 1075 total; 11 existing unassessed unchanged. Maritime museum at Chaillot scoped separately from other branches. Jean-Lurçat distinct from Angers castle tapestry. Quimper museums individually scoped; La Rochelle maritime collection separate from aquarium and old port; Limoges enamel collection separate from ceramics museum. Existing scores preserved. Mont Lozère overlap remains pending. Next: bounded remaining heritage screen before closure. Full Python validation pending.
+
+
+### Pass 173 — French residual religious and settlement heritage audit
+
+- [x] FR — Cathédrale Saint-Étienne Sens Gothic Cathedral and Treasury: 92.05/100 (source-linked-unverified).
+- [x] FR — Saint-Bertrand-de-Comminges Cathedral and Valcabrère Basilica: 91.50/100 (source-linked-unverified).
+- [x] FR — Abbaye de Cadouin Flamboyant Gothic Cloister: 90.80/100 (source-linked-unverified).
+- [x] FR — Chapelle Notre-Dame des Fontaines La Brigue Painted Chapel: 91.20/100 (source-linked-unverified).
+- [x] FR — Abbaye de Fleury Saint-Benoît-sur-Loire Romanesque Church: 90.95/100 (source-linked-unverified).
+- [x] FR — La Charité-sur-Loire Priory Church and Monastic Heritage: 90.55/100 (source-linked-unverified).
+- [x] FR — Joigny Historic Centre and Timber-Framed Houses: 86.50/100 (desk-based provisional).
+- [x] FR — Avallon Historic Centre and Ramparts: 86.80/100 (desk-based provisional).
+- [x] FR — Belvès Medieval Village and Troglodyte Dwellings: 87.85/100 (desk-based provisional).
+- [x] FR — Olargues Historic Village and Medieval Bridge: 86.90/100 (desk-based provisional).
+- [x] FR — Minerve Historic Village and Gorge Viewpoints: 88.50/100 (desk-based provisional).
+- [x] FR — Villefranche-de-Rouergue Historic Bastide and Collegiate Church: 88.10/100 (desk-based provisional).
+- [x] FR — Abbaye-École de Sorèze Historic School and Tapestry Museum: 88.50/100 (desk-based provisional).
+- [x] FR — Cotignac Cliffside Village and Troglodyte Heritage: 87.30/100 (desk-based provisional).
+- [x] FR — Tourtour Hilltop Village and Panoramas: 86.20/100 (desk-based provisional).
+- [x] FR — Montrésor Historic Village and Riverside Walk: 86.75/100 (desk-based provisional).
+- [x] FR — Cathédrale Saint-Jean-Baptiste Bazas and Historic Square: 88.55/100 (desk-based provisional).
+- [x] FR — Abbaye de Saint-Sever Romanesque Abbey Church: 89.00/100 (desk-based provisional).
+
+18 additions, 12 desk-based provisional, 6 source-informed, 6 90+, 48 domestic ranking-row comparisons. France 1082 ranked / 1093 total; 11 unassessed unchanged. Local visits at pilgrimage components independently scoped from route-level entry; Saint-Bertrand and Valcabrère grouped. Mont Lozère overlap remains pending. Next: final named-candidate and overlap closure check. Full Python validation pending.

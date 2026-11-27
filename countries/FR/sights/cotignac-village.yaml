@@ -1,0 +1,16 @@
+id: sight-fr-cotignac-village
+name: "Cotignac Cliffside Village and Troglodyte Heritage"
+location:
+  country_code: FR
+  latitude: 43.529
+  longitude: 6.15
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    photography: 9.3
+    architecture: 9.2
+    history: 9.1

@@ -1,0 +1,16 @@
+id: sight-fr-joigny-centre
+name: "Joigny Historic Centre and Timber-Framed Houses"
+location:
+  country_code: FR
+  latitude: 47.984
+  longitude: 3.397
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.7
+  depth: 8.5
+  categories:
+    photography: 9.3
+    architecture: 9.2
+    history: 9.1

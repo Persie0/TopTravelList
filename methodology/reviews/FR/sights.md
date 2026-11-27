@@ -11518,3 +11518,398 @@ Ranking rows checked; peer YAML, factual and coordinate verification, internatio
 
 Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
 
+## sight-fr-sens-cathedral — Cathédrale Saint-Étienne Sens Gothic Cathedral and Treasury — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sens-cathedral.yaml)
+- Action: new
+- Scope: Early major Gothic cathedral begun around 1130, with treasury and ecclesiastical complex.
+- Representative coordinates: 48.197, 3.283; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.0 / 9.2.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 92.05/100.
+- Decision: Source-informed provisional assessment from indexed official tourism excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://en.tourisme-sens.com/i-discover/my-essentials/the-cathedral-of-saint-stephen-of-sens/ ; https://en.tourisme-sens.com/visit-museum-park/cathedrale-saint-etienne/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/auxerre-cathedral](../../../countries/FR/sights/auxerre-cathedral.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [FR/bourges-cathedral](../../../countries/FR/sights/bourges-cathedral.yaml) | 9.1 / 9.1 / 9.3 / 8.8 / 8.4 | depth: +0.8 vs peer; uniqueness: +0.2 vs peer |
+| [FR/autun-cathedral](../../../countries/FR/sights/autun-cathedral.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | significance: +0.1 vs peer; depth: +0.1 vs peer |
+| [FR/vezelay](../../../countries/FR/sights/vezelay.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 8.4 | depth: +0.8 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-saint-bertrand-comminges — Saint-Bertrand-de-Comminges Cathedral and Valcabrère Basilica — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-bertrand-comminges.yaml)
+- Action: new
+- Scope: Combined local cathedral and basilica circuit; UNESCO route components, not a second route-level score.
+- Representative coordinates: 43.027, 0.572; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.0 / 9.1.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from indexed official tourism excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-occitanie.com/en/discovering/major-sites/saint-bertrand-de-comminges-valcabrere/ ; https://www.st-bertrand.com/tourisme/accueil-touristique/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/autun-cathedral](../../../countries/FR/sights/autun-cathedral.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | uniqueness: -0.1 vs peer; impact: +0.0 vs peer |
+| [FR/vezelay](../../../countries/FR/sights/vezelay.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 8.4 | depth: +0.7 vs peer; impact: +0.1 vs peer |
+| [FR/tournus-abbey](../../../countries/FR/sights/tournus-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [FR/santiago-routes](../../../countries/FR/sights/santiago-routes.yaml) | 8.7 / 9.0 / 9.4 / 9.0 / 9.2 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-cadouin-cloister — Abbaye de Cadouin Flamboyant Gothic Cloister — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cadouin-cloister.yaml)
+- Action: new
+- Scope: Distinct abbey and sculpted late Gothic cloister visit; overlaps serial pilgrimage designation only.
+- Representative coordinates: 44.811, 0.873; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.0 / 8.9.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional assessment from indexed official tourism excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.dordogne.fr/que-faire-en-dordogne/les-incontournables/cloitre-de-cadouin ; https://cloitre-cadouin.fr/en/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/tournus-abbey](../../../countries/FR/sights/tournus-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | depth: -0.2 vs peer; significance: -0.1 vs peer |
+| [FR/saint-savin](../../../countries/FR/sights/saint-savin.yaml) | 8.7 / 9.1 / 9.3 / 8.6 / 8.0 | depth: +0.9 vs peer; experience: +0.4 vs peer |
+| [FR/vezelay](../../../countries/FR/sights/vezelay.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 8.4 | depth: +0.5 vs peer; uniqueness: +0.1 vs peer |
+| [FR/santiago-routes](../../../countries/FR/sights/santiago-routes.yaml) | 8.7 / 9.0 / 9.4 / 9.0 / 9.2 | impact: +0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-la-brigue-fontaines — Chapelle Notre-Dame des Fontaines La Brigue Painted Chapel — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/la-brigue-fontaines.yaml)
+- Action: new
+- Scope: Late medieval fresco cycle, including Last Judgment; chapel rather than village streets.
+- Representative coordinates: 44.062, 7.671; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.2 / 9.0 / 8.8.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from indexed official tourism excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.menton-riviera-merveilles.co.uk/get-inspired/art-and-inspiration/art-in-chapels-and-churches/notre-dame-des-fontaines/ ; https://www.vermenagna-roya.eu/en/heritage/notre-dame-des-fontaines-chapel-our-lady-of-fountains/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/saint-savin](../../../countries/FR/sights/saint-savin.yaml) | 8.7 / 9.1 / 9.3 / 8.6 / 8.0 | depth: +0.8 vs peer; experience: +0.4 vs peer |
+| [FR/brioude-basilica](../../../countries/FR/sights/brioude-basilica.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; depth: -0.2 vs peer |
+| [FR/autun-cathedral](../../../countries/FR/sights/autun-cathedral.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | depth: -0.3 vs peer; impact: -0.1 vs peer |
+| [FR/tende-old-town](../../../countries/FR/sights/tende-old-town.yaml) | 8.5 / 8.7 / 8.8 / 8.7 / 8.5 | uniqueness: +0.7 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-fleury-abbey — Abbaye de Fleury Saint-Benoît-sur-Loire Romanesque Church — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/fleury-abbey.yaml)
+- Action: new
+- Scope: Eleventh- and twelfth-century church with carved capitals and dedicated heritage interpretation.
+- Representative coordinates: 47.81, 2.306; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 8.9 / 9.0.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from indexed official tourism excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tourismeloiret.com/fr/diffusio/visites/abbaye-de-fleury-saint-benoit-sur-loire_TFOPCUCEN0450100144 ; https://www.tourismeloiret.com/fr/diffusio/visites/le-belvedere-saint-benoit-sur-loire_TFOPCUCEN045V503FBT.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/tournus-abbey](../../../countries/FR/sights/tournus-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | experience: -0.1 vs peer; depth: -0.1 vs peer |
+| [FR/paray-basilica](../../../countries/FR/sights/paray-basilica.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 8.9 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [FR/issoire-abbey](../../../countries/FR/sights/issoire-abbey.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [FR/brioude-basilica](../../../countries/FR/sights/brioude-basilica.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | uniqueness: +0.1 vs peer; experience: -0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-la-charite-priory — La Charité-sur-Loire Priory Church and Monastic Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/la-charite-priory.yaml)
+- Action: new
+- Scope: Cluniac priory church and monastic precinct; local visit distinct from national pilgrimage route.
+- Representative coordinates: 47.178, 3.018; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.0 / 9.0.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from indexed official tourism excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.lacharitesurloire-tourisme.com/profiter/a-la-decouverte-du-prieure-de-la-charite/ ; https://citedumot.fr/visiter/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/tournus-abbey](../../../countries/FR/sights/tournus-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/paray-basilica](../../../countries/FR/sights/paray-basilica.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 8.9 | impact: -0.1 vs peer; significance: +0.1 vs peer |
+| [FR/santiago-routes](../../../countries/FR/sights/santiago-routes.yaml) | 8.7 / 9.0 / 9.4 / 9.0 / 9.2 | impact: +0.2 vs peer; depth: -0.2 vs peer |
+| [FR/souvigny-priory](../../../countries/FR/sights/souvigny-priory.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 9.0 | significance: -0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-joigny-centre — Joigny Historic Centre and Timber-Framed Houses — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/joigny-centre.yaml)
+- Action: new
+- Scope: Old streets and timber-framed buildings.
+- Representative coordinates: 47.984, 3.397; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.7 / 8.7 / 8.5.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 86.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/noyers-village](../../../countries/FR/sights/noyers-village.yaml) | 8.8 / 8.8 / 8.7 / 8.9 / 8.5 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [FR/semur-auxois](../../../countries/FR/sights/semur-auxois.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-avallon-centre — Avallon Historic Centre and Ramparts — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/avallon-centre.yaml)
+- Action: new
+- Scope: Fortified hill town and historic streets.
+- Representative coordinates: 47.488, 3.908; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.7 / 8.5.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 86.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/semur-auxois](../../../countries/FR/sights/semur-auxois.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [FR/dole-centre](../../../countries/FR/sights/dole-centre.yaml) | 8.8 / 8.8 / 8.8 / 8.8 / 8.7 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-belves-village — Belvès Medieval Village and Troglodyte Dwellings — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/belves-village.yaml)
+- Action: new
+- Scope: Hilltop medieval streets and underground dwellings.
+- Representative coordinates: 44.776, 1.005; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.7 / 8.8 / 8.6.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/domme-bastide](../../../countries/FR/sights/domme-bastide.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/monpazier-bastide](../../../countries/FR/sights/monpazier-bastide.yaml) | 8.8 / 8.9 / 8.9 / 8.8 / 8.6 | significance: -0.2 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-olargues-village — Olargues Historic Village and Medieval Bridge — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/olargues-village.yaml)
+- Action: new
+- Scope: Historic village streets and bridge.
+- Representative coordinates: 43.557, 2.913; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 8.8 / 8.4.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/noyers-village](../../../countries/FR/sights/noyers-village.yaml) | 8.8 / 8.8 / 8.7 / 8.9 / 8.5 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [FR/larressingle-village](../../../countries/FR/sights/larressingle-village.yaml) | 8.7 / 8.8 / 8.7 / 8.7 / 8.3 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-minerve-village — Minerve Historic Village and Gorge Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/minerve-village.yaml)
+- Action: new
+- Scope: Fortified settlement above river gorges; no broad regional canyon claim.
+- Representative coordinates: 43.354, 2.747; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 8.9 / 8.6.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/saint-cirq-lapopie](../../../countries/FR/sights/saint-cirq-lapopie.yaml) | 9.3 / 9.0 / 8.8 / 9.1 / 8.8 | impact: -0.4 vs peer; experience: -0.2 vs peer |
+| [FR/domme-bastide](../../../countries/FR/sights/domme-bastide.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | uniqueness: +0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-villefranche-rouergue-bastide — Villefranche-de-Rouergue Historic Bastide and Collegiate Church — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/villefranche-rouergue-bastide.yaml)
+- Action: new
+- Scope: Bastide square, streets and collegiate church.
+- Representative coordinates: 44.352, 2.036; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.8 / 8.7.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/monpazier-bastide](../../../countries/FR/sights/monpazier-bastide.yaml) | 8.8 / 8.9 / 8.9 / 8.8 / 8.6 | uniqueness: -0.1 vs peer; depth: +0.1 vs peer |
+| [FR/figeac-old-town](../../../countries/FR/sights/figeac-old-town.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 8.8 | depth: -0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-soreze-abbey-school — Abbaye-École de Sorèze Historic School and Tapestry Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/soreze-abbey-school.yaml)
+- Action: new
+- Scope: Historic school and Dom Robert tapestry collections treated together.
+- Representative coordinates: 43.452, 2.067; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 8.9 / 8.8 / 8.9.
+- Categories: culture:9.3,history:9.3,architecture:9.1.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/aubusson-tapestry](../../../countries/FR/sights/aubusson-tapestry.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.9 | uniqueness: -0.2 vs peer; significance: -0.1 vs peer |
+| [FR/angers-jean-lurcat](../../../countries/FR/sights/angers-jean-lurcat.yaml) | 8.9 / 9.3 / 9.1 / 9.0 / 9.1 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-cotignac-village — Cotignac Cliffside Village and Troglodyte Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cotignac-village.yaml)
+- Action: new
+- Scope: Village streets and cliff dwellings.
+- Representative coordinates: 43.529, 6.15; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.6 / 8.8 / 8.5.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/moustiers-sainte-marie](../../../countries/FR/sights/moustiers-sainte-marie.yaml) | 9.2 / 9.0 / 8.8 / 9.1 / 8.9 | impact: -0.4 vs peer; depth: -0.4 vs peer |
+| [FR/gourdon-village](../../../countries/FR/sights/gourdon-village.yaml) | 8.8 / 8.7 / 8.5 / 8.8 / 8.4 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-tourtour-village — Tourtour Hilltop Village and Panoramas — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/tourtour-village.yaml)
+- Action: new
+- Scope: Hilltop streets and Provence panoramas.
+- Representative coordinates: 43.59, 6.301; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.5 / 8.8 / 8.4.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/gourdon-village](../../../countries/FR/sights/gourdon-village.yaml) | 8.8 / 8.7 / 8.5 / 8.8 / 8.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/saorge-village](../../../countries/FR/sights/saorge-village.yaml) | 8.7 / 8.7 / 8.5 / 8.7 / 8.4 | uniqueness: -0.1 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-montresor-village — Montrésor Historic Village and Riverside Walk — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/montresor-village.yaml)
+- Action: new
+- Scope: Village streets and riverside walk; excludes separately ranked castle if present.
+- Representative coordinates: 47.156, 1.202; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.6 / 8.8 / 8.5.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 86.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/noyers-village](../../../countries/FR/sights/noyers-village.yaml) | 8.8 / 8.8 / 8.7 / 8.9 / 8.5 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/larressingle-village](../../../countries/FR/sights/larressingle-village.yaml) | 8.7 / 8.8 / 8.7 / 8.7 / 8.3 | depth: +0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-bazas-cathedral — Cathédrale Saint-Jean-Baptiste Bazas and Historic Square — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bazas-cathedral.yaml)
+- Action: new
+- Scope: Cathedral and surrounding square; local visit rather than serial pilgrimage route.
+- Representative coordinates: 44.432, -0.211; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: photography:9.3,architecture:9.2,history:9.1.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/auxerre-cathedral](../../../countries/FR/sights/auxerre-cathedral.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [FR/santiago-routes](../../../countries/FR/sights/santiago-routes.yaml) | 8.7 / 9.0 / 9.4 / 9.0 / 9.2 | depth: -0.5 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-fr-saint-sever-abbey — Abbaye de Saint-Sever Romanesque Abbey Church — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-sever-abbey.yaml)
+- Action: new
+- Scope: Romanesque abbey church; local architectural experience distinct from route designation.
+- Representative coordinates: 43.757, -0.571; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.1 / 8.8 / 8.7.
+- Categories: architecture:9.4,history:9.3,culture:9.3.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/tournus-abbey](../../../countries/FR/sights/tournus-abbey.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+| [FR/santiago-routes](../../../countries/FR/sights/santiago-routes.yaml) | 8.7 / 9.0 / 9.4 / 9.0 / 9.2 | depth: -0.5 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

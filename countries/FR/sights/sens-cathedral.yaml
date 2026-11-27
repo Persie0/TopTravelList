@@ -1,0 +1,16 @@
+id: sight-fr-sens-cathedral
+name: "Cathédrale Saint-Étienne Sens Gothic Cathedral and Treasury"
+location:
+  country_code: FR
+  latitude: 48.197
+  longitude: 3.283
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    architecture: 9.4
+    history: 9.3
+    culture: 9.3
