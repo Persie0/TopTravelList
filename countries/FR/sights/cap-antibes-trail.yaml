@@ -1,0 +1,17 @@
+id: sight-fr-cap-antibes-trail
+name: "Cap d’Antibes Sentier du Littoral Coastal Walk"
+location:
+  country_code: FR
+  latitude: 43.551
+  longitude: 7.136
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.2
+    adventure: 9.1

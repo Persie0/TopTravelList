@@ -2003,3 +2003,38 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Gréoux-les-Bains Historic Thermal Town and Castle Exterior: 83.80/100 (desk-based provisional).
 
 30 additions, 19 fast provisional estimates, 11 source-informed candidates, 6 90+, 44 peer comparisons. France 565 ranked / 576 total; 11 existing unassessed unchanged. Petit Palais collections distinct from listed episcopal palace architecture (https://whc.unesco.org/en/list/228); Lac d'Allos deferred as Mercantour core (https://www.tourisme-alpes-haute-provence.com/grands-espaces-naturels/7458028_lac-allos-lac-dallos/). Pont de Gau observation circuit independently scoped but Camargue natural overlap flagged; Mont Ventoux summit excludes entire biosphere reserve. Moustiers excludes Verdon canyon. 0 peer references not located (); domestic calibration only. Next bounded screen: Var and Alpes-Maritimes: Toulon naval museum, Mont Faron, Hyères old town and Villa Noailles, Porquerolles and Port-Cros park scope, Saint-Tropez, Massif des Maures, Esterel, Cannes, Grasse perfume museums, Antibes Picasso museum, Nice museums and UNESCO scope, Èze, Menton, Saint-Paul-de-Vence, Fondation Maeght, Villa Ephrussi, and other Riviera sights. Full Python validation pending.
+
+### Pass 152 — accelerated French Riviera audit
+
+- [x] FR — Fondation Maeght Saint-Paul-de-Vence Modern Art and Sculpture Gardens: 92.80/100 (source-linked-unverified).
+- [x] FR — Musée National Marc Chagall Nice Biblical Message Museum: 92.30/100 (source-linked-unverified).
+- [x] FR — Villa Ephrussi de Rothschild and Themed Gardens: 91.65/100 (source-linked-unverified).
+- [x] FR — Villa Kérylos Greek Revival Villa Beaulieu-sur-Mer: 90.90/100 (source-linked-unverified).
+- [x] FR — Musée Picasso Antibes Château Grimaldi: 91.25/100 (source-linked-unverified).
+- [x] FR — Musée Matisse Nice Art Collections: 90.95/100 (source-linked-unverified).
+- [x] FR — Musée International de la Parfumerie Grasse: 91.15/100 (source-linked-unverified).
+- [x] FR — Èze Medieval Village and Exotic Garden: 90.55/100 (source-linked-unverified).
+- [x] FR — Massif de l’Estérel Red Rock Coastal Trails: 90.65/100 (source-linked-unverified).
+- [x] FR — Fort Royal and Iron Mask Museum Île Sainte-Marguerite: 89.50/100 (source-linked-unverified).
+- [x] FR — Saint-Paul-de-Vence Historic Walled Village: 88.85/100 (source-linked-unverified).
+- [x] FR — Chapelle du Rosaire de Vence Matisse Chapel: 88.30/100 (desk-based provisional).
+- [x] FR — Musée National Fernand Léger Biot: 88.20/100 (desk-based provisional).
+- [x] FR — Musée Renoir Cagnes-sur-Mer House and Gardens: 88.30/100 (desk-based provisional).
+- [x] FR — Antibes Historic Old Town and Ramparts: 87.95/100 (desk-based provisional).
+- [x] FR — Fort Carré Antibes Historic Fortress: 87.15/100 (desk-based provisional).
+- [x] FR — Cap d’Antibes Sentier du Littoral Coastal Walk: 87.65/100 (desk-based provisional).
+- [x] FR — Cannes Le Suquet Historic Quarter and Waterfront: 85.80/100 (desk-based provisional).
+- [x] FR — Abbaye de Lérins Saint-Honorat Island Monastery: 88.60/100 (desk-based provisional).
+- [x] FR — Menton Historic Old Town and Basilica Quarter: 88.05/100 (desk-based provisional).
+- [x] FR — Jardin Botanique Val Rahmeh Menton: 86.90/100 (desk-based provisional).
+- [x] FR — Saint-Jean-Cap-Ferrat Coastal Walking Trails: 87.35/100 (desk-based provisional).
+- [x] FR — Musée National de la Marine Toulon: 87.80/100 (desk-based provisional).
+- [x] FR — Mont Faron Cable Car and Panoramic Viewpoints Toulon: 86.80/100 (desk-based provisional).
+- [x] FR — Villa Noailles Hyères Modernist Art and Design Centre: 87.85/100 (desk-based provisional).
+- [x] FR — Hyères Medieval Old Town and Castle Ruins: 86.65/100 (desk-based provisional).
+- [x] FR — Citadelle de Saint-Tropez Maritime History Museum: 87.60/100 (desk-based provisional).
+- [x] FR — Saint-Tropez Historic Harbour and Old Town: 86.75/100 (desk-based provisional).
+- [x] FR — Domaine du Rayol Mediterranean Gardens: 88.50/100 (desk-based provisional).
+- [x] FR — Bormes-les-Mimosas Historic Hill Village: 85.85/100 (desk-based provisional).
+
+30 additions, 19 fast provisional estimates, 11 source-informed candidates, 9 90+, 43 peer comparisons. France 595 ranked / 606 total; 11 existing unassessed unchanged. Nice resort architecture excluded from new museum scope (https://whc.unesco.org/en/list/1635/maps/). Porquerolles deferred pending Port-Cros scope review (https://portcros-parcnational.fr/votre-visite/informations-pratiques). 1 peer references not located (grasse-perfume-museum/musee-champollion); domestic calibration only. Next bounded screen: Riviera remaining: Nice MAMAC and other collections, archaeological museum Cimiez, Musée Masséna collection scope, Villefranche citadel, Trophée des Alpes, Fréjus Roman monuments, Thoronet Abbey, Chartreuse de la Verne, Gorges du Loup, Gourdon, Saorge, inland Roya sites, then Hautes-Alpes and Auvergne-Rhône-Alpes. Full Python validation pending.
