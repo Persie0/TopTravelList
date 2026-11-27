@@ -6201,3 +6201,392 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 229 scope decisions
 
 20 additions, 16 desk-based provisional, 4 source-linked, 4 90+, 40 domestic ranking-row comparisons. CA 234 ranked / 237 total. Festival d’été excludes ordinary city/battlefield sightseeing; Celtic Colours excludes independent hikes and heritage visits; Pointe-à-Callière distinct ticketed archaeological complex, not old city walks; Studio Bell collections and halls grouped. Mint Winnipeg production tour separate from Ottawa mint. Ukrainian Cultural Heritage Village current access and condition not checked. New coordinates approximate; current access and schedules not verified. Four high scores based on retrieved official or institutional excerpts, provisional. Existing scores and three unassessed retained. Regional screen remains open.
+
+## sight-ca-tumbler-ridge-geopark — Tumbler Ridge UNESCO Global Geopark Fossils and Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/tumbler-ridge-geopark.yaml)
+- Action: new
+- Scope: Geopark's public geological trails, dinosaur track interpretation and Kinuseo Falls grouped; no separate fossil collecting or sensitive fossil locality coordinates. UNESCO documents globally significant tracks and a 60 m waterfall.
+- Representative coordinates: 55.13, -120.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.3 / 9.1 / 9.3.
+- Categories: nature:9.4 adventure:9.3 history:9.3 photography:9.3.
+- Overall: 92.65/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.unesco.org/en/iggp/tumbler-ridge-unesco-global-geopark, https://visitnortheastbc.ca/experiences/tumbler-ridge-global-geopark/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/dinosaur-provincial-park](../../../countries/CA/sights/dinosaur-provincial-park.yaml) | 8.8 / 9.1 / 9.4 / 8.8 / 8.6 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [CA/wells-gray](../../../countries/CA/sights/wells-gray.yaml) | 9.2 / 9.0 / 8.9 / 9.2 / 9.3 | impact: +0.0 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-kinngait-cultural-centre — Kenojuak Cultural Centre and Kinngait Studios Nunavut — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/kinngait-cultural-centre.yaml)
+- Action: new
+- Scope: Public cultural centre and printmaking heritage; Government of Canada describes Kinngait Studios as Canada's oldest fine art printmaking facility. No assumption of private artist access or active studio tours.
+- Representative coordinates: 64.23, -76.54; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.4 / 9.4 / 8.9 / 9.2.
+- Categories: culture:9.4 history:9.3 architecture:9.1.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://cannor.gc.ca/eng/1619201754482/1619201818362, https://www.westbaffin.com/kenojuak-cultural-centre, https://destinationnunavut.ca/discover/decades-rich-culture-art-history-youll-see-kinngait.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wag-qaumajuq](../../../countries/CA/sights/wag-qaumajuq.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.4 | impact: -0.4 vs peer; uniqueness: +0.0 vs peer |
+| [CA/haida-heritage-centre](../../../countries/CA/sights/haida-heritage-centre.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-revelstoke-mountain-resort — Revelstoke Mountain Resort Skiing and Alpine Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/revelstoke-mountain-resort.yaml)
+- Action: new
+- Scope: Lift-accessed ski terrain, alpine bowls and resort recreation; operator documents 1,713 m vertical descent and 3,121 acres of terrain. Excludes Mount Revelstoke National Park and separately operated heli-ski trips.
+- Representative coordinates: 50.96, -118.16; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.6 / 9.4 / 9.2.
+- Categories: adventure:9.4 nature:9.3 photography:9.3.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.revelstokemountainresort.com/winter-activities/skiing-snowboarding/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/bugaboo-park](../../../countries/CA/sights/bugaboo-park.yaml) | 9.3 / 9.3 / 8.8 / 9.0 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-churchill-river-saskatchewan — Churchill River Saskatchewan Wilderness Canoeing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/churchill-river-saskatchewan.yaml)
+- Action: new
+- Scope: Northern Saskatchewan river-system paddling, historic trade routes and authorized cultural interpretation; Tourism Saskatchewan documents a 1,600 km system. Representative Missinipe locality, excludes Manitoba Churchill estuary and other separately ranked parks.
+- Representative coordinates: 55.59, -104.75; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.2 / 9.3.
+- Categories: adventure:9.4 nature:9.4 history:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.tourismsaskatchewan.com/listings/3041/churchill-river--wilderness-canoeing, https://www.tourismsaskatchewan.com/blog/history-of-the-churchill-river.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/bowron-lake](../../../countries/CA/sights/bowron-lake.yaml) | 9.2 / 9.3 / 9.0 / 9.3 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fundy-trail-park — Fundy Trail Provincial Park Coastal Parkway and Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fundy-trail-park.yaml)
+- Action: new
+- Scope: Provincial park coastal drive, lookouts and its own walking trails; government documents 35+ km trails and 20+ lookouts. Excludes Fundy National Park, Hopewell Rocks and full cross-boundary Fundy Footpath trek.
+- Representative coordinates: 45.42, -65.4; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 8.9 / 8.8 / 9.2 / 9.1.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 90.05/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.nbparks.ca/en/parks/35/fundy-trail-provincial-park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | impact: +0.4 vs peer; uniqueness: -0.1 vs peer |
+| [CA/east-coast-trail](../../../countries/CA/sights/east-coast-trail.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-val-jalbert — Historic Village of Val-Jalbert Québec Industrial Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/val-jalbert.yaml)
+- Action: new
+- Scope: Historic pulp mill settlement, public interpretation, historic buildings and adjacent falls within the designated site; operator identifies over 40 preserved historic buildings.
+- Representative coordinates: 48.44, -72.16; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.1 / 9.1 / 9.0.
+- Categories: history:9.4 culture:9.3 photography:9.3.
+- Overall: 89.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=15736, https://valjalbert.com/en/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/barkerville](../../../countries/CA/sights/barkerville.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 9.0 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/upper-canada-village](../../../countries/CA/sights/upper-canada-village.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-skookumchuck-narrows — Skookumchuck Narrows Provincial Park Tidal Rapids — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/skookumchuck-narrows.yaml)
+- Action: new
+- Scope: Shore-based observation of tidal rapids and whirlpools from public park trails, not whitewater entry.
+- Representative coordinates: 49.74, -123.9; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.5 / 8.8 / 8.4.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 88.05/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/skookumchuck-narrows-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/hopewell-rocks-provincial-park](../../../countries/CA/sights/hopewell-rocks-provincial-park.yaml) | 8.9 / 9.1 / 8.5 / 9.0 / 8.1 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/shubenacadie-tidal-bore](../../../countries/CA/sights/shubenacadie-tidal-bore.yaml) | 9.0 / 9.4 / 8.8 / 9.2 / 8.7 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-kicking-horse-resort — Kicking Horse Mountain Resort Golden Alpine Skiing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/kicking-horse-resort.yaml)
+- Action: new
+- Scope: Purcell Mountains lift-accessed recreation, distinct from Yoho and Glacier national parks; no superlative vertical ranking because operator pages conflict.
+- Representative coordinates: 51.3, -117.05; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.4 / 9.3 / 8.9.
+- Categories: adventure:9.4 nature:9.3 photography:9.2.
+- Overall: 88.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://kickinghorseresort.com/discover-kickinghorse/mountain-stats/, https://www.tourismgolden.com/activities/winter/skiing/kicking-horse-mountain-resort.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [CA/grouse-mountain](../../../countries/CA/sights/grouse-mountain.yaml) | 8.7 / 8.5 / 8.1 / 8.9 / 8.6 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-sun-peaks — Sun Peaks Resort Alpine Skiing and Mountain Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/sun-peaks.yaml)
+- Action: new
+- Scope: Lift-served ski and summer recreation, separate from other BC resorts.
+- Representative coordinates: 50.88, -119.89; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.5 / 8.3 / 9.2 / 9.0.
+- Categories: adventure:9.3 nature:9.2 family:9.2.
+- Overall: 87.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | impact: -0.5 vs peer; uniqueness: -0.7 vs peer |
+| [CA/grouse-mountain](../../../countries/CA/sights/grouse-mountain.yaml) | 8.7 / 8.5 / 8.1 / 8.9 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-st-martins-sea-caves — St Martins Sea Caves and Tidal Beach New Brunswick — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/st-martins-sea-caves.yaml)
+- Action: new
+- Scope: Separate village coastal caves outside Fundy Trail park, tide-dependent safe shore viewing; no duplicate parkway drive.
+- Representative coordinates: 45.36, -65.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.4 / 8.8 / 8.3.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/hopewell-rocks-provincial-park](../../../countries/CA/sights/hopewell-rocks-provincial-park.yaml) | 8.9 / 9.1 / 8.5 / 9.0 / 8.1 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+| [CA/burntcoat-head](../../../countries/CA/sights/burntcoat-head.yaml) | 8.8 / 8.9 / 8.7 / 8.7 / 8.3 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-prince-wales-heritage — Prince of Wales Northern Heritage Centre Yellowknife — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/prince-wales-heritage.yaml)
+- Action: new
+- Scope: Territorial museum and public northern heritage exhibitions; no claim of access to archives.
+- Representative coordinates: 62.46, -114.38; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 9.0 / 8.6 / 8.9.
+- Categories: culture:9.3 history:9.3 family:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/the-rooms](../../../countries/CA/sights/the-rooms.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+| [CA/manitoba-museum](../../../countries/CA/sights/manitoba-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.9 / 9.1 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-nunatta-museum — Nunatta Sunakkutaangit Museum Iqaluit — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/nunatta-museum.yaml)
+- Action: new
+- Scope: Public museum in Iqaluit with Inuit art and regional heritage; distinct from Kinngait printmaking centre.
+- Representative coordinates: 63.73, -68.52; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.9 / 9.0 / 8.5 / 8.7.
+- Categories: culture:9.3 history:9.3 architecture:9.0.
+- Overall: 86.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/haida-heritage-centre](../../../countries/CA/sights/haida-heritage-centre.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | impact: -0.7 vs peer; uniqueness: -0.3 vs peer |
+| [CA/the-rooms](../../../countries/CA/sights/the-rooms.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.4 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mccord-stewart — McCord Stewart Museum Montréal Social History — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mccord-stewart.yaml)
+- Action: new
+- Scope: Public social history exhibitions and material culture collections.
+- Representative coordinates: 45.5, -73.57; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.8 / 9.0.
+- Categories: history:9.3 culture:9.3 photography:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pointe-a-calliere](../../../countries/CA/sights/pointe-a-calliere.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-calgary-zoo — Wilder Institute Calgary Zoo Wildlife Exhibits — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/calgary-zoo.yaml)
+- Action: new
+- Scope: Managed zoo and conservation interpretation; not wild animal viewing.
+- Representative coordinates: 51.045, -114.026; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.6 / 9.0 / 8.8.
+- Categories: wildlife:9.3 family:9.3 nature:9.1.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/assy-park-zoo](../../../countries/CA/sights/assy-park-zoo.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.8 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+| [CA/vancouver-aquarium](../../../countries/CA/sights/vancouver-aquarium.yaml) | 8.7 / 8.7 / 8.8 / 9.0 / 8.9 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-muttart-conservatory — Muttart Conservatory Edmonton Botanical Pyramids — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/muttart-conservatory.yaml)
+- Action: new
+- Scope: Indoor botanical pyramid exhibits grouped.
+- Representative coordinates: 53.536, -113.477; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.3 / 8.7 / 8.5.
+- Categories: architecture:9.2 nature:9.1 photography:9.2.
+- Overall: 85.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-botanical-garden](../../../countries/CA/sights/montreal-botanical-garden.yaml) | 8.8 / 8.7 / 8.8 / 8.9 / 9.0 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+| [CA/royal-botanical-gardens](../../../countries/CA/sights/royal-botanical-gardens.yaml) | 8.7 / 8.7 / 8.8 / 8.9 / 9.0 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-horne-lake-caves — Horne Lake Caves Provincial Park Guided Cave Exploration — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/horne-lake-caves.yaml)
+- Action: new
+- Scope: Managed public cave exploration within provincial park; no unverified route access or independent technical cave advice.
+- Representative coordinates: 49.34, -124.75; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.4 / 9.0 / 8.6.
+- Categories: adventure:9.3 nature:9.2 photography:9.1.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/garibaldi](../../../countries/CA/sights/garibaldi.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.2 | impact: -0.6 vs peer; uniqueness: -0.2 vs peer |
+| [CA/britannia-mine](../../../countries/CA/sights/britannia-mine.yaml) | 8.7 / 8.9 / 8.9 / 9.0 / 8.8 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-metepenagiag — Metepenagiag Heritage Park Mi’kmaq Cultural Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/metepenagiag.yaml)
+- Action: new
+- Scope: Community-run public interpretation of Mi'kmaq heritage; representative visitor centre only, excludes sensitive archaeological sites.
+- Representative coordinates: 46.95, -65.83; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.9 / 9.2 / 8.7 / 8.8.
+- Categories: culture:9.4 history:9.4 family:9.1.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/blackfoot-crossing](../../../countries/CA/sights/blackfoot-crossing.yaml) | 8.6 / 8.9 / 9.2 / 8.7 / 8.9 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+| [CA/wanuskewin](../../../countries/CA/sights/wanuskewin.yaml) | 8.1 / 8.7 / 9.0 / 8.5 / 8.1 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-roosevelt-campobello — Roosevelt Campobello International Park Heritage Estate — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/roosevelt-campobello.yaml)
+- Action: new
+- Scope: Historic estate and its public park grounds, on Canadian territory; distinct from Fundy marine excursions.
+- Representative coordinates: 44.88, -66.96; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.0 / 8.7 / 8.8.
+- Categories: history:9.3 culture:9.2 photography:9.1.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fort-henry](../../../countries/CA/sights/fort-henry.yaml) | 8.6 / 8.6 / 9.0 / 8.8 / 8.8 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/green-gables](../../../countries/CA/sights/green-gables.yaml) | 8.6 / 9.1 / 9.2 / 8.9 / 8.9 | impact: -0.1 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 230 scope decisions
+
+18 additions, 10 desk-based provisional, 8 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 252 ranked / 255 total. Tumbler Ridge geosites grouped; Kinngait centre excludes private studios; Revelstoke resort excludes national park; Churchill Saskatchewan excludes Manitoba estuary; Fundy Trail excludes Fundy National Park and whole Fundy Footpath; St Martins village caves outside park. Citadelle of Québec deferred pending Old Québec overlap audit (https://www.lacitadelle.qc.ca/en/the-fortress). Kicking Horse vertical superlative omitted due to conflicting operator pages. New coordinates approximate; access and schedules not verified. Existing scores and three unassessed retained. Regional screen remains open.

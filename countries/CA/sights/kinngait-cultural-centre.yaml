@@ -1,0 +1,16 @@
+id: sight-ca-kinngait-cultural-centre
+name: "Kenojuak Cultural Centre and Kinngait Studios Nunavut"
+location:
+  country_code: CA
+  latitude: 64.23
+  longitude: -76.54
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

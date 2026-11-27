@@ -1,0 +1,16 @@
+id: sight-ca-mccord-stewart
+name: "McCord Stewart Museum Montréal Social History"
+location:
+  country_code: CA
+  latitude: 45.5
+  longitude: -73.57
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.3
+    photography: 9.1

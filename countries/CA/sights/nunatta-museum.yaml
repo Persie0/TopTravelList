@@ -1,0 +1,16 @@
+id: sight-ca-nunatta-museum
+name: "Nunatta Sunakkutaangit Museum Iqaluit"
+location:
+  country_code: CA
+  latitude: 63.73
+  longitude: -68.52
+scores:
+  impact: 8.3
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.7
+  categories:
+    culture: 9.3
+    history: 9.3
+    architecture: 9.0

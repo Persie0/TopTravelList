@@ -1,0 +1,16 @@
+id: sight-ca-calgary-zoo
+name: "Wilder Institute Calgary Zoo Wildlife Exhibits"
+location:
+  country_code: CA
+  latitude: 51.045
+  longitude: -114.026
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    family: 9.3
+    nature: 9.1

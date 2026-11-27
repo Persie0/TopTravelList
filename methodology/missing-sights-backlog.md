@@ -4000,3 +4000,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Cape Bonavista Lighthouse and Coastal Heritage: 87.10/100 (desk-based provisional).
 
 20 additions, 16 desk-based provisional, 4 source-linked, 4 90+, 40 domestic ranking-row comparisons. CA 234 ranked / 237 total. Festival d’été excludes ordinary city/battlefield sightseeing; Celtic Colours excludes independent hikes and heritage visits; Pointe-à-Callière distinct ticketed archaeological complex, not old city walks; Studio Bell collections and halls grouped. Mint Winnipeg production tour separate from Ottawa mint. Ukrainian Cultural Heritage Village current access and condition not checked. New coordinates approximate; current access and schedules not verified. Four high scores based on retrieved official or institutional excerpts, provisional. Existing scores and three unassessed retained. Regional screen remains open.
+
+### Pass 230 — Canada geoparks, northern heritage and regional recreation
+
+- [x] CA — Tumbler Ridge UNESCO Global Geopark Fossils and Waterfalls: 92.65/100 (source-linked-unverified).
+- [x] CA — Kenojuak Cultural Centre and Kinngait Studios Nunavut: 91.25/100 (source-linked-unverified).
+- [x] CA — Revelstoke Mountain Resort Skiing and Alpine Recreation: 90.85/100 (source-linked-unverified).
+- [x] CA — Churchill River Saskatchewan Wilderness Canoeing: 91.30/100 (source-linked-unverified).
+- [x] CA — Fundy Trail Provincial Park Coastal Parkway and Trails: 90.05/100 (source-linked-unverified).
+- [x] CA — Historic Village of Val-Jalbert Québec Industrial Heritage: 89.75/100 (source-linked-unverified).
+- [x] CA — Skookumchuck Narrows Provincial Park Tidal Rapids: 88.05/100 (source-linked-unverified).
+- [x] CA — Kicking Horse Mountain Resort Golden Alpine Skiing: 88.60/100 (source-linked-unverified).
+- [x] CA — Sun Peaks Resort Alpine Skiing and Mountain Recreation: 87.05/100 (desk-based provisional).
+- [x] CA — St Martins Sea Caves and Tidal Beach New Brunswick: 86.70/100 (desk-based provisional).
+- [x] CA — Prince of Wales Northern Heritage Centre Yellowknife: 87.00/100 (desk-based provisional).
+- [x] CA — Nunatta Sunakkutaangit Museum Iqaluit: 86.60/100 (desk-based provisional).
+- [x] CA — McCord Stewart Museum Montréal Social History: 88.00/100 (desk-based provisional).
+- [x] CA — Wilder Institute Calgary Zoo Wildlife Exhibits: 87.10/100 (desk-based provisional).
+- [x] CA — Muttart Conservatory Edmonton Botanical Pyramids: 85.40/100 (desk-based provisional).
+- [x] CA — Horne Lake Caves Provincial Park Guided Cave Exploration: 86.70/100 (desk-based provisional).
+- [x] CA — Metepenagiag Heritage Park Mi’kmaq Cultural Interpretation: 87.70/100 (desk-based provisional).
+- [x] CA — Roosevelt Campobello International Park Heritage Estate: 87.10/100 (desk-based provisional).
+
+18 additions, 10 desk-based provisional, 8 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 252 ranked / 255 total. Tumbler Ridge geosites grouped; Kinngait centre excludes private studios; Revelstoke resort excludes national park; Churchill Saskatchewan excludes Manitoba estuary; Fundy Trail excludes Fundy National Park and whole Fundy Footpath; St Martins village caves outside park. Citadelle of Québec deferred pending Old Québec overlap audit (https://www.lacitadelle.qc.ca/en/the-fortress). Kicking Horse vertical superlative omitted due to conflicting operator pages. New coordinates approximate; access and schedules not verified. Existing scores and three unassessed retained. Regional screen remains open.
