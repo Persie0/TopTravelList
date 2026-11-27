@@ -26,6 +26,13 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | GR | DONE — current queue | 111 total (110 ranked); 46 additions in passes 92–97. Seven final named candidates resolved. Ancient Thera current closure notice recorded; Cave of the Lakes dedicated tour separate from park; mastic museum separate from village streets. No remaining named candidates in bounded queue; reopen on concrete substantial omission. One prior unassessed unchanged. |
 | TR | DONE — current queue | 168 ranked / 168 total; 117 additions in passes 98–114. Named queue resolved; distinct wetlands and mountain parks screened, Kapuzbaşı included in Aladağlar. Ihlara precise boundary caveat remains. Reopen for concrete significant omissions; not an exhaustive inventory. |
 
-| FR | OPEN | 996 total (985 ranked); 895 additions in passes 115–165. Fast assessment active; 14 new 90+ source-informed. Prior overlap flags retained. Next: Overseas France coverage: verify country-code separation for Réunion, Guadeloupe, Martinique, French Guiana, Mayotte and other territories; then 11 existing unassessed serial entries and residual gaps. Eleven existing unassessed separate. |
+| FR | OPEN | 996 total (985 ranked); 895 additions in passes 115–165. Overseas territory codes confirmed separate; pass 166 adds no FR entries. Next: national residuals and overseas queues separately. Eleven existing unassessed separate. |
+
+| RE | OPEN | 16 total (16 ranked); 6 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
+| GP | OPEN | 16 total (16 ranked); 5 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
+| MQ | OPEN | 17 total (17 ranked); 6 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
+| GF | OPEN | 14 total (14 ranked); 4 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
+| YT | OPEN | 12 total (11 ranked); 2 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
+| PF | OPEN | 18 total (18 ranked); 7 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

@@ -449,3 +449,31 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Unranked until ordinary permitted visitor scope is corroborated.
 - Earlier decision: none.
 - Verification still needed: independently confirm GPS, post-cyclone conditions, claims and visitor scope.
+
+
+## sight-yt-mayotte-cetaceans — Mayotte Offshore Whale and Dolphin Observation — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/mayotte-cetaceans.yaml)
+- Action: new
+- Scope: Seasonal offshore wildlife excursions only, excluding existing reef, pass and beach scores.
+- Representative coordinates: -12.82, 45.32; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.6 / 8.9 / 8.7.
+- Categories: wildlife:9.4,nature:9.3,photography:9.3.
+- Overall: 89.00/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-yt-combani-forest — Mont Combani Forest Ridge and Viewpoint Trails — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/combani-forest.yaml)
+- Action: new
+- Scope: Forest ridge trails distinct from Mont Choungui.
+- Representative coordinates: -12.793, 45.145; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.4 / 8.7 / 8.6.
+- Categories: nature:9.2,adventure:9.2,photography:9.1.
+- Overall: 85.45/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.

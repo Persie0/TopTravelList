@@ -447,3 +447,113 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 editorial assessment, specified scope only.
 - Earlier decision: none.
 - Verification still needed: independent coordinate, visitor scope and full claim checks.
+
+
+## sight-re-sainte-rose-lava-tubes — Sainte-Rose 2004 Lava Flow Underground Lava Tube Tours — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/sainte-rose-lava-tubes.yaml)
+- Action: new
+- Scope: Underground geological circuit only; no surface volcano or park landscape duplicate.
+- Representative coordinates: -21.202, 55.796; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.0 / 9.2 / 9.0.
+- Categories: nature:9.4,adventure:9.4,photography:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-re-cite-volcan — Cité du Volcan Réunion Volcanology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/cite-volcan.yaml)
+- Action: new
+- Scope: Museum exhibits only, independent of the actual volcano.
+- Representative coordinates: -21.202, 55.574; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 9.0 / 9.0.
+- Categories: nature:9.3,family:9.3,culture:9.2.
+- Overall: 87.90/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-re-kelonia — Kélonia Saint-Leu Sea Turtle Observatory and Rehabilitation Centre — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/kelonia.yaml)
+- Action: new
+- Scope: Education and conservation centre, not wild turtle encounters.
+- Representative coordinates: -21.151, 55.283; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.9 / 8.6.
+- Categories: wildlife:9.3,nature:9.2,family:9.3.
+- Overall: 87.45/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-re-stella-matutina — Musée Stella Matutina Sugar and Industrial Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/stella-matutina.yaml)
+- Action: new
+- Scope: Historic sugar industry museum.
+- Representative coordinates: -21.185, 55.3; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.8 / 8.9.
+- Categories: history:9.3,culture:9.3.
+- Overall: 87.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-re-hermitage-lagoon — L’Ermitage and La Saline Lagoon and Reef Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/hermitage-lagoon.yaml)
+- Action: new
+- Scope: Adjacent lagoon beaches combined; no separate marine reserve umbrella.
+- Representative coordinates: -21.085, 55.229; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.3 / 9.1 / 8.7.
+- Categories: beaches:9.3,nature:9.3,wildlife:9.2.
+- Overall: 87.40/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-re-villele-museum — Musée de Villèle Plantation History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/RE/sights/villele-museum.yaml)
+- Action: new
+- Scope: Plantation history and slavery interpretation.
+- Representative coordinates: -21.055, 55.265; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.0 / 8.6 / 8.8.
+- Categories: history:9.4,culture:9.3.
+- Overall: 87.20/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+### Source and calibration follow-up: sainte-rose-lava-tubes
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.reunion.fr/organisez/vos-activites/le-tour-de-l-ile-de-la-reunion/route-des-laves/ ; https://www.reunion.fr/offres/volcanorun-saint-gilles-les-bains-saint-paul-fr-557980/.
+- Research rationale: Young lava tube network, guided subterranean geology; 6.4 km network, not all accessible.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [RE/piton-de-la-fournaise](../../../countries/RE/sights/piton-de-la-fournaise.yaml) | 9.5 / 9.3 / 9.2 / 9.0 / 9.0 | impact: -0.5 vs peer; significance: -0.2 vs peer |
+| [RE/plaine-des-sables](../../../countries/RE/sights/plaine-des-sables.yaml) | 8.8 / 8.8 / 8.1 / 8.4 / 7.8 | depth: +1.2 vs peer; significance: +0.9 vs peer |
+| [FR/volcan-lemptegy](../../../countries/FR/sights/volcan-lemptegy.yaml) | 9.2 / 9.4 / 9.1 / 9.2 / 9.2 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [FR/grotte-saint-marcel](../../../countries/FR/sights/grotte-saint-marcel.yaml) | 9.3 / 9.4 / 9.0 / 9.3 / 9.3 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+### Source and calibration follow-up: cite-volcan
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.reunion.fr/offres/cite-du-volcan-la-la-plaine-des-cafres-le-tampon-fr-570267/.
+- Research rationale: 6,000 m² interactive volcanology museum with immersive interpretation.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/vulcania](../../../countries/FR/sights/vulcania.yaml) | 9.1 / 9.3 / 8.8 / 9.3 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+| [FR/cite-espace-toulouse](../../../countries/FR/sights/cite-espace-toulouse.yaml) | 9.2 / 9.2 / 9.0 / 9.3 / 9.3 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer |
+| [RE/piton-de-la-fournaise](../../../countries/RE/sights/piton-de-la-fournaise.yaml) | 9.5 / 9.3 / 9.2 / 9.0 / 9.0 | impact: -0.9 vs peer; uniqueness: -0.5 vs peer |
+| [FR/electropolis](../../../countries/FR/sights/electropolis.yaml) | 9.0 / 9.3 / 9.2 / 9.2 / 9.2 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.

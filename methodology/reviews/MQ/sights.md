@@ -481,3 +481,98 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 editorial assessment of specified visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent coordinates, material claims and visitor-scope checks.
+
+
+## sight-mq-saint-pierre-ruins — Saint-Pierre Historic Ruins and Urban Heritage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/saint-pierre-ruins.yaml)
+- Action: new
+- Scope: Ruined town architecture only; excludes Frank A. Perret museum.
+- Representative coordinates: 14.746, -61.176; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.3 / 8.8 / 8.9.
+- Categories: history:9.4,culture:9.3,photography:9.2.
+- Overall: 89.85/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+
+## sight-mq-salines-beach — Grande Anse des Salines Beach and Salt Pond — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/salines-beach.yaml)
+- Action: new
+- Scope: Beach and adjacent salt pond.
+- Representative coordinates: 14.399, -60.878; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.6 / 8.3 / 9.0 / 8.6.
+- Categories: beaches:9.4,relaxation:9.3,photography:9.3.
+- Overall: 86.90/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-mq-pagerie-museum — Musée de la Pagerie Trois-Îlets Historic Estate Museum — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/pagerie-museum.yaml)
+- Action: new
+- Scope: Historic estate museum and interpretation.
+- Representative coordinates: 14.53, -61.04; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.0 / 8.6 / 8.7.
+- Categories: history:9.4,culture:9.3.
+- Overall: 87.10/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-mq-fort-de-france-centre — Fort-de-France Historic Centre Cathedral and Market — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/fort-de-france-centre.yaml)
+- Action: new
+- Scope: Urban heritage circuit excluding separately ranked Schœlcher library.
+- Representative coordinates: 14.604, -61.072; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.7 / 8.7 / 8.6.
+- Categories: architecture:9.2,culture:9.3,history:9.2.
+- Overall: 86.05/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-mq-diamant-beach — Grande Anse du Diamant Beach and Memorial Cap 110 — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/diamant-beach.yaml)
+- Action: new
+- Scope: Beach and onshore memorial; no separate Diamond Rock viewing score.
+- Representative coordinates: 14.476, -61.044; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.8 / 8.7 / 8.6.
+- Categories: beaches:9.3,history:9.3,photography:9.3.
+- Overall: 87.40/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-mq-fonds-blancs — Le François Fonds Blancs Shallow Lagoon Sandbanks — 2026-11-27
+
+- YAML: [source](../../../countries/MQ/sights/fonds-blancs.yaml)
+- Action: new
+- Scope: Shallow offshore sandbanks and marine landscape.
+- Representative coordinates: 14.61, -60.865; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.2 / 8.9 / 8.5.
+- Categories: nature:9.2,relaxation:9.3,photography:9.3.
+- Overall: 86.10/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+### Source and calibration follow-up: saint-pierre-ruins
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.martinique.org/fr/circuits/visiter-saint-pierre ; https://www.martinique.org/fr/communes/saint-pierre.
+- Research rationale: Historic urban ruins beside rebuilt city; interpreted legacy of 1902 catastrophe.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MQ/memorial-1902](../../../countries/MQ/sights/memorial-1902.yaml) | 7.9 / 8.7 / 9.0 / 8.5 / 8.0 | impact: +0.9 vs peer; depth: +0.9 vs peer |
+| [MQ/mount-pelee](../../../countries/MQ/sights/mount-pelee.yaml) | 9.2 / 8.9 / 9.3 / 8.8 / 8.5 | impact: -0.4 vs peer; depth: +0.4 vs peer |
+| [FR/oradour-memorial](../../../countries/FR/sights/oradour-memorial.yaml) | 9.2 / 9.4 / 9.3 / 8.9 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [FR/autun-roman-sites](../../../countries/FR/sights/autun-roman-sites.yaml) | 8.9 / 8.9 / 9.3 / 8.7 / 8.8 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and independent factual/coordinate verification pending.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.

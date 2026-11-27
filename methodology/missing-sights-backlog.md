@@ -2503,3 +2503,41 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Château-Thierry Medieval Castle Ruins and Historic Town: 87.50/100 (desk-based provisional).
 
 30 additions, 16 desk-based provisional estimates, 14 source-informed candidates, 14 90+, 56 domestic peer ranking-row comparisons. France 985 ranked / 996 total; 11 existing unassessed unchanged. GR20 full traverse independently scoped from local Restonica and Bavella day hikes; shared route sections acknowledged, no separate individual summit scores. Lavezzi and marine cliffs remain in Bonifacio Strait; Scandola/Piana unchanged. Adjacent beaches and hill villages grouped. Boulogne castle collections independent of old town fabric. Thiepval and Vimy funerary heritage remains in existing serial entry, no new duplicate. Coordinates approximate. Next: Overseas France coverage: verify country-code separation for Réunion, Guadeloupe, Martinique, French Guiana, Mayotte and other territories; then 11 existing unassessed serial entries and residual gaps. Full Python validation pending.
+
+
+### Pass 166 — French overseas territory expansion (separate ISO codes)
+
+- [x] RE — Sainte-Rose 2004 Lava Flow Underground Lava Tube Tours: 91.30/100 (source-linked-unverified).
+- [x] RE — Cité du Volcan Réunion Volcanology Museum: 87.90/100 (source-linked-unverified).
+- [x] RE — Kélonia Saint-Leu Sea Turtle Observatory and Rehabilitation Centre: 87.45/100 (desk-based provisional).
+- [x] RE — Musée Stella Matutina Sugar and Industrial Heritage: 87.70/100 (desk-based provisional).
+- [x] RE — L’Ermitage and La Saline Lagoon and Reef Snorkelling: 87.40/100 (desk-based provisional).
+- [x] RE — Musée de Villèle Plantation History Museum: 87.20/100 (desk-based provisional).
+- [x] GP — Le Chameau Terre-de-Haut Summit and Bay View Trails: 87.55/100 (desk-based provisional).
+- [x] GP — Marie-Galante Habitation Murat and Windmill Heritage Circuit: 87.45/100 (desk-based provisional).
+- [x] GP — Grande Anse Deshaies Beach and Coastal Views: 86.30/100 (desk-based provisional).
+- [x] GP — Plage du Souffleur Port-Louis Beach and Reef: 85.10/100 (desk-based provisional).
+- [x] GP — Parc Archéologique des Roches Gravées Trois-Rivières Petroglyphs: 87.80/100 (desk-based provisional).
+- [x] MQ — Saint-Pierre Historic Ruins and Urban Heritage Circuit: 89.85/100 (source-linked-unverified).
+- [x] MQ — Grande Anse des Salines Beach and Salt Pond: 86.90/100 (desk-based provisional).
+- [x] MQ — Musée de la Pagerie Trois-Îlets Historic Estate Museum: 87.10/100 (desk-based provisional).
+- [x] MQ — Fort-de-France Historic Centre Cathedral and Market: 86.05/100 (desk-based provisional).
+- [x] MQ — Grande Anse du Diamant Beach and Memorial Cap 110: 87.40/100 (desk-based provisional).
+- [x] MQ — Le François Fonds Blancs Shallow Lagoon Sandbanks: 86.10/100 (desk-based provisional).
+- [x] GF — Zoo de Guyane Macouria Native Wildlife Park: 86.15/100 (desk-based provisional).
+- [x] GF — Cacao Hmong Village and Market Cultural Heritage: 86.35/100 (desk-based provisional).
+- [x] GF — Fort Diamant and Rémire-Montjoly Coastal Heritage: 85.70/100 (desk-based provisional).
+- [x] GF — Mont Grand Matoury Nature Reserve Rainforest Trails: 87.10/100 (desk-based provisional).
+- [x] YT — Mayotte Offshore Whale and Dolphin Observation: 89.00/100 (desk-based provisional).
+- [x] YT — Mont Combani Forest Ridge and Viewpoint Trails: 85.45/100 (desk-based provisional).
+- [x] PF — Maupiti Lagoon Motu and Mount Teurafaatiu Trails: 91.40/100 (source-linked-unverified).
+- [x] PF — Te Fare Iamanaha Museum of Tahiti and the Islands: 92.30/100 (source-linked-unverified).
+- [x] PF — Rangiroa Blue Lagoon and Reef Island Excursions: 91.05/100 (source-linked-unverified).
+- [x] PF — Taha’a Coral Garden and Lagoon Snorkelling: 90.70/100 (source-linked-unverified).
+- [x] PF — Tetiaroa Atoll Lagoon and Bird Island Nature Excursions: 90.85/100 (source-linked-unverified).
+- [x] PF — Maeva Huahine Marae Archaeological Sites and Fare Pote’e Museum: 89.65/100 (source-linked-unverified).
+- [x] PF — Teahupo’o Reef Surf Break and Tahiti Iti Coastal Scenery: 88.50/100 (desk-based provisional).
+
+30 additions, 21 desk-based provisional, 9 source-informed, 6 90+, 36 cross-territory/domestic numerical peer comparisons. All 12 French overseas territory codes exist independently of FR. No FR records added or moved; mainland France remains 996 total. Six territory rankings expanded. Existing umbrella/child overlaps are not resolved by this batch; new scopes exclude existing named reef passes, volcano surface and separately ranked museums. Older access-dependent unassessed entries remain in separate workflow.
+RE: 16 total (16 ranked, 0 unassessed), +6; GP: 16 total (16 ranked, 0 unassessed), +5; MQ: 17 total (17 ranked, 0 unassessed), +6; GF: 14 total (14 ranked, 0 unassessed), +4; YT: 12 total (11 ranked, 1 unassessed), +2; PF: 18 total (18 ranked, 0 unassessed), +7.
+Next: Remaining overseas coverage, especially New Caledonia, French Polynesia residuals, Guadeloupe/Martinique and Mayotte, then French national residuals and 11 FR unassessed serial entries.

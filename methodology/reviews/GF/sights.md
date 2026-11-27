@@ -437,3 +437,57 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 editorial rating of defined visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent coordinates, material claims and visitor scope checks.
+
+
+## sight-gf-zoo-guyane — Zoo de Guyane Macouria Native Wildlife Park — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/zoo-guyane.yaml)
+- Action: new
+- Scope: Native wildlife collections and education.
+- Representative coordinates: 5.026, -52.5; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.5 / 8.8 / 8.7.
+- Categories: wildlife:9.3,family:9.2,nature:9.2.
+- Overall: 86.15/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gf-cacao-village — Cacao Hmong Village and Market Cultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/cacao-village.yaml)
+- Action: new
+- Scope: Village and traditional market, not surrounding rainforest.
+- Representative coordinates: 4.573, -52.48; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.7 / 8.5.
+- Categories: culture:9.3,food:9.2,history:9.2.
+- Overall: 86.35/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gf-fort-diamant-remire — Fort Diamant and Rémire-Montjoly Coastal Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/fort-diamant-remire.yaml)
+- Action: new
+- Scope: Historic fort and immediate coastal views.
+- Representative coordinates: 4.884, -52.25; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.8 / 8.6 / 8.5.
+- Categories: history:9.3,architecture:9.1,photography:9.2.
+- Overall: 85.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gf-grand-matoury — Mont Grand Matoury Nature Reserve Rainforest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/GF/sights/grand-matoury.yaml)
+- Action: new
+- Scope: Local reserve forest trails distinct from Saül and Amazonian Park.
+- Representative coordinates: 4.851, -52.348; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.7 / 8.8.
+- Categories: nature:9.3,wildlife:9.2,adventure:9.2.
+- Overall: 87.10/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.

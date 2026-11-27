@@ -479,3 +479,70 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 editorial rating of specified visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent coordinate, claims and visitor-scope checks.
+
+
+## sight-gp-chameau-saintes — Le Chameau Terre-de-Haut Summit and Bay View Trails — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/chameau-saintes.yaml)
+- Action: new
+- Scope: Summit trail and panoramic bay views only; excludes Fort Napoléon and Pain de Sucre.
+- Representative coordinates: 15.857, -61.593; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.9 / 8.7.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 87.55/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gp-marie-galante-heritage — Marie-Galante Habitation Murat and Windmill Heritage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/marie-galante-heritage.yaml)
+- Action: new
+- Scope: Named industrial and estate heritage, not island-wide landscape.
+- Representative coordinates: 15.883, -61.302; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.7 / 8.8.
+- Categories: history:9.3,culture:9.3.
+- Overall: 87.45/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gp-grande-anse-deshaies — Grande Anse Deshaies Beach and Coastal Views — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/grande-anse-deshaies.yaml)
+- Action: new
+- Scope: Beach and immediate views.
+- Representative coordinates: 16.323, -61.787; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.2 / 9.0 / 8.5.
+- Categories: beaches:9.4,photography:9.3,relaxation:9.3.
+- Overall: 86.30/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gp-souffleur-port-louis — Plage du Souffleur Port-Louis Beach and Reef — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/souffleur-port-louis.yaml)
+- Action: new
+- Scope: Local beach and reef experience, Grand Cul-de-Sac broader overlap flagged.
+- Representative coordinates: 16.426, -61.533; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.1 / 8.9 / 8.5.
+- Categories: beaches:9.3,relaxation:9.3,nature:9.2.
+- Overall: 85.10/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+
+## sight-gp-roches-gravees — Parc Archéologique des Roches Gravées Trois-Rivières Petroglyphs — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/roches-gravees.yaml)
+- Action: new
+- Scope: Rock engravings and archaeological interpretation.
+- Representative coordinates: 15.98, -61.643; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 9.0 / 9.1 / 8.6 / 8.7.
+- Categories: history:9.4,culture:9.3.
+- Overall: 87.80/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+
+- Pass 166 verification pending: independent factual and coordinate checks, full Python validation.
