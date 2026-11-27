@@ -1,0 +1,16 @@
+id: sight-us-organ-pipe-cactus
+name: "Organ Pipe Cactus National Monument"
+location:
+  country_code: US
+  latitude: 31.95
+  longitude: -112.8
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.1

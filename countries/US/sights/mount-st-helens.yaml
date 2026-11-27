@@ -1,0 +1,17 @@
+id: sight-us-mount-st-helens
+name: "Mount St. Helens National Volcanic Monument"
+location:
+  country_code: US
+  latitude: 46.191
+  longitude: -122.194
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.4
+    history: 9.3

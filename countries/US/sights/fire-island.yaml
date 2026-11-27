@@ -1,0 +1,16 @@
+id: sight-us-fire-island
+name: "Fire Island National Seashore"
+location:
+  country_code: US
+  latitude: 40.65
+  longitude: -73.11
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    beaches: 9.2
+    nature: 9.1
+    relaxation: 9.2

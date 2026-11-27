@@ -6275,3 +6275,488 @@ Ranking rows checked; independent factual, coordinate, peer YAML and internation
 
 Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
 
+## sight-us-mount-st-helens — Mount St. Helens National Volcanic Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mount-st-helens.yaml)
+- Action: new
+- Scope: Volcanic landscape and ecological recovery from 1980 eruption, summit and interpretation combined; current access restrictions separate.
+- Representative coordinates: 46.191, -122.194; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.4 / 9.0 / 9.2.
+- Categories: nature:9.4,adventure:9.3,photography:9.4,history:9.3.
+- Overall: 92.90/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.usgs.gov/geology-and-ecology-of-national-parks/mount-st-helens-national-volcanic-monument ; https://research.fs.usda.gov/pnw/projects/mountsthelens.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | 9.2 / 9.5 / 9.5 / 8.9 / 9.0 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | significance: +0.6 vs peer; impact: +0.5 vs peer |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | impact: +0.3 vs peer; significance: +0.3 vs peer |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | uniqueness: +0.7 vs peer; significance: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-misty-fiords — Misty Fiords National Monument Boat and Flightseeing Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/misty-fiords.yaml)
+- Action: new
+- Scope: Distinct fjords, tall rock walls and rainforest; boat and air excursions grouped.
+- Representative coordinates: 55.58, -130.91; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 8.9 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.travelalaska.com/destinations/parks-public-lands/misty-fjords-national-monument ; https://www.nps.gov/anch/planyourvisit/ketchikan-alaska.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | significance: -0.5 vs peer; experience: +0.3 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; experience: +0.2 vs peer |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.3 | significance: -0.2 vs peer; experience: +0.2 vs peer |
+| [US/lake-clark](../../../countries/US/sights/lake-clark.yaml) | 9.2 / 9.2 / 9.1 / 8.9 / 9.2 | experience: +0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-aniakchak — Aniakchak National Monument and Preserve Caldera Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/aniakchak.yaml)
+- Action: new
+- Scope: Rare caldera-to-ocean river journey and wilderness hiking; no access penalty or guaranteed wildlife. Uniqueness 9.5 proposed for combination of caldera and river breach, international calibration pending.
+- Representative coordinates: 56.91, -158.21; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.5 / 9.1 / 8.8 / 9.1.
+- Categories: nature:9.4,adventure:9.4,photography:9.3.
+- Overall: 91.85/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/aniakchak-caldera.htm ; https://www.nps.gov/ania/planyourvisit/rafting.htm ; https://www.nps.gov/thingstodo/hike-in-aniakchak-s-wilderness.htm.
+- 9.5+ field requires further international peer calibration.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gates-of-the-arctic](../../../countries/US/sights/gates-of-the-arctic.yaml) | 9.3 / 9.4 / 9.2 / 8.6 / 9.1 | experience: +0.2 vs peer; impact: -0.1 vs peer |
+| [US/lake-clark](../../../countries/US/sights/lake-clark.yaml) | 9.2 / 9.2 / 9.1 / 8.9 / 9.2 | uniqueness: +0.3 vs peer; experience: -0.1 vs peer |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-admiralty-pack-creek — Admiralty Island National Monument and Pack Creek Bear Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/admiralty-pack-creek.yaml)
+- Action: new
+- Scope: Pack Creek regulated bear viewing and island rainforest grouped; no guaranteed wildlife.
+- Representative coordinates: 57.9, -134.25; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.0.
+- Categories: wildlife:9.4,nature:9.4,photography:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.recreation.gov/permits/233328 ; https://www.adfg.alaska.gov/index.cfm?adfg=stanprice.main.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | experience: +0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/lake-clark](../../../countries/US/sights/lake-clark.yaml) | 9.2 / 9.2 / 9.1 / 8.9 / 9.2 | experience: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | experience: +0.4 vs peer; impact: -0.2 vs peer |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.3 | depth: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-apostle-islands — Apostle Islands National Lakeshore Sea Caves and Lighthouse Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/apostle-islands.yaml)
+- Action: new
+- Scope: 21 islands, sea caves, lighthouses and associated water activities combined; winter ice caves not guaranteed.
+- Representative coordinates: 46.96, -90.67; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.0 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.4,history:9.2.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/apostle-islands-national-lakeshore.htm ; https://www.nps.gov/apis/learn/nature/caves.htm?unit=m ; https://www.nps.gov/apis/planyourvisit/diving.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/isle-royale](../../../countries/US/sights/isle-royale.yaml) | 9.0 / 9.1 / 9.0 / 9.0 / 9.2 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | uniqueness: +0.5 vs peer; impact: +0.4 vs peer |
+| [US/voyageurs](../../../countries/US/sights/voyageurs.yaml) | 8.8 / 8.9 / 8.6 / 9.0 / 9.0 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-pictured-rocks — Pictured Rocks National Lakeshore Cliffs and Kayaking — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pictured-rocks.yaml)
+- Action: new
+- Scope: Multicolored sandstone cliffs, dunes, waterfalls and kayaking grouped; guide or experienced sea kayaker only.
+- Representative coordinates: 46.56, -86.45; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.7 / 9.2 / 9.0.
+- Categories: photography:9.4,nature:9.4,adventure:9.3.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/pictured-rocks-national-lakeshore.htm ; https://www.nps.gov/piro/planyourvisit/kayaking-boating.htm ; https://www.nps.gov/piro/planyourvisit/index.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/isle-royale](../../../countries/US/sights/isle-royale.yaml) | 9.0 / 9.1 / 9.0 / 9.0 / 9.2 | significance: -0.3 vs peer; impact: +0.2 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sleeping-bear-dunes — Sleeping Bear Dunes National Lakeshore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sleeping-bear-dunes.yaml)
+- Action: new
+- Scope: Perched dunes and island/shore trails, no separate overlooks.
+- Representative coordinates: 44.91, -86.04; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.6 / 9.1 / 8.9.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 89.55/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/slbe/faqs.htm?fullweb=1.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/great-sand-dunes-national-park](../../../countries/US/sights/great-sand-dunes-national-park.yaml) | 8.9 / 8.8 / 8.5 / 8.8 / 8.7 | experience: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/indiana-dunes](../../../countries/US/sights/indiana-dunes.yaml) | 8.5 / 8.6 / 8.5 / 8.8 / 8.6 | impact: +0.6 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-muir-woods — Muir Woods National Monument Old-Growth Redwood Forest — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/muir-woods.yaml)
+- Action: new
+- Scope: Separate Marin County old-growth stand, geographically distinct from Redwood National and State Parks; no new Golden Gate recreation umbrella.
+- Representative coordinates: 37.897, -122.58; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.9 / 9.0 / 8.7.
+- Categories: nature:9.4,photography:9.3,relaxation:9.2.
+- Overall: 89.25/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/muwo/learn/index.htm ; https://www.nps.gov/muwo/learn/nature/old-growth.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/redwood-parks](../../../countries/US/sights/redwood-parks.yaml) | 9.1 / 9.3 / 9.2 / 9.0 / 8.9 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+| [US/sequoia-national-park](../../../countries/US/sights/sequoia-national-park.yaml) | 9.1 / 9.4 / 9.2 / 9.0 / 9.0 | uniqueness: -0.5 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-point-reyes — Point Reyes National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/point-reyes.yaml)
+- Action: new
+- Scope: Coastal scenery, wildlife, lighthouse and tectonic landscape grouped.
+- Representative coordinates: 38.04, -122.96; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.9 / 9.0 / 9.0.
+- Categories: nature:9.3,wildlife:9.3,photography:9.3.
+- Overall: 89.30/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/pore/planyourvisit/wildlife_viewing.htm ; https://www.nps.gov/articles/nps-geodiversity-atlas-point-reyes-national-seashore-california.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.6 vs peer; impact: -0.1 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.3 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-organ-pipe-cactus — Organ Pipe Cactus National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/organ-pipe-cactus.yaml)
+- Action: new
+- Scope: Sonoran Desert biosphere reserve and natural stands of organ pipe cactus, no border travel presumed.
+- Representative coordinates: 31.95, -112.8; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.0 / 8.6 / 8.8.
+- Categories: nature:9.4,photography:9.3,adventure:9.1.
+- Overall: 88.85/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/orpi/learn/nature/organ-pipe-cactus.htm ; https://www.nps.gov/orpi/learn/news/presskit.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/saguaro-national-park](../../../countries/US/sights/saguaro-national-park.yaml) | 8.5 / 8.8 / 8.6 / 8.7 / 8.4 | significance: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/joshua-tree-national-park](../../../countries/US/sights/joshua-tree-national-park.yaml) | 8.7 / 8.8 / 8.5 / 8.8 / 8.6 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-carrizo-plain — Carrizo Plain National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/carrizo-plain.yaml)
+- Action: new
+- Scope: Grassland, San Andreas Fault and seasonal wildflowers; superbloom not guaranteed.
+- Representative coordinates: 35.15, -119.83; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.8 / 8.7 / 8.7.
+- Categories: nature:9.3,photography:9.4,wildlife:9.2.
+- Overall: 88.25/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.blm.gov/programs/national-conservation-lands/california/carrizo-plain-national-monument.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | impact: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | 9.1 / 9.3 / 9.0 / 8.8 / 9.1 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mojave-preserve — Mojave National Preserve Kelso Dunes and Volcanic Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mojave-preserve.yaml)
+- Action: new
+- Scope: Preserve dunes, Joshua tree stands and lava tube grouped; separate from national parks.
+- Representative coordinates: 35.05, -115.47; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 8.8 / 8.9.
+- Categories: nature:9.3,photography:9.3,adventure:9.3.
+- Overall: 88.45/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/moja/index.htm ; https://www.nps.gov/moja/planyourvisit/kelso-dunes.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/joshua-tree-national-park](../../../countries/US/sights/joshua-tree-national-park.yaml) | 8.7 / 8.8 / 8.5 / 8.8 / 8.6 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | 9.1 / 9.3 / 9.0 / 8.8 / 9.1 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-devils-postpile — Devils Postpile National Monument and Rainbow Falls — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/devils-postpile.yaml)
+- Action: new
+- Scope: Columnar basalt and waterfall grouped, distinct from Yosemite.
+- Representative coordinates: 37.63, -119.09; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.7 / 8.4.
+- Categories: nature:9.3,photography:9.3,adventure:9.1.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/yosemite-national-park](../../../countries/US/sights/yosemite-national-park.yaml) | 9.8 / 9.5 / 9.3 / 9.4 / 9.6 | depth: -1.2 vs peer; impact: -1.0 vs peer |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | depth: -0.7 vs peer; significance: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cape-cod — Cape Cod National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cape-cod.yaml)
+- Action: new
+- Scope: Atlantic shore, dunes, historic lighthouses and coastal trails grouped.
+- Representative coordinates: 41.91, -70.03; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.8 / 9.0 / 8.8.
+- Categories: beaches:9.3,nature:9.2,history:9.1.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | significance: +0.7 vs peer; uniqueness: +0.5 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cape-hatteras — Cape Hatteras National Seashore and Lighthouse Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cape-hatteras.yaml)
+- Action: new
+- Scope: Outer Banks beaches and historic lights grouped; lighthouse climbing conditional.
+- Representative coordinates: 35.25, -75.53; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.9 / 8.9 / 8.8.
+- Categories: beaches:9.3,history:9.3,photography:9.2.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.6 vs peer; uniqueness: -0.3 vs peer |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | significance: +0.8 vs peer; uniqueness: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-assateague — Assateague Island National Seashore and Wild Horse Observation — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/assateague.yaml)
+- Action: new
+- Scope: Barrier island and feral horse observation, no touching or sighting guarantee; adjacent refuge not duplicated.
+- Representative coordinates: 38.13, -75.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 8.9 / 8.7.
+- Categories: wildlife:9.3,beaches:9.3,nature:9.3.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.2 vs peer; significance: -0.2 vs peer |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.6 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cumberland-island — Cumberland Island National Seashore and Dungeness Ruins — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cumberland-island.yaml)
+- Action: new
+- Scope: Maritime forest, beach, feral horses and estate ruins grouped.
+- Representative coordinates: 30.78, -81.46; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.8 / 8.8.
+- Categories: nature:9.3,history:9.2,wildlife:9.3.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.4 vs peer; experience: +0.3 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | significance: -0.3 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cape-lookout — Cape Lookout National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cape-lookout.yaml)
+- Action: new
+- Scope: Separate Outer Banks barrier islands, lighthouse and Shackleford Banks.
+- Representative coordinates: 34.61, -76.53; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.8 / 8.6.
+- Categories: beaches:9.3,nature:9.2,photography:9.2.
+- Overall: 86.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | significance: -0.3 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-fire-island — Fire Island National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fire-island.yaml)
+- Action: new
+- Scope: Barrier island beaches, Sunken Forest and lighthouse grouped.
+- Representative coordinates: 40.65, -73.11; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.8 / 8.6.
+- Categories: beaches:9.2,nature:9.1,relaxation:9.2.
+- Overall: 85.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+| [US/indiana-dunes](../../../countries/US/sights/indiana-dunes.yaml) | 8.5 / 8.6 / 8.5 / 8.8 / 8.6 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-gulf-islands — Gulf Islands National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gulf-islands.yaml)
+- Action: new
+- Scope: Florida and Mississippi units combined; forts included.
+- Representative coordinates: 30.33, -87.3; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.6 / 8.9 / 8.7.
+- Categories: beaches:9.3,nature:9.2,history:9.1.
+- Overall: 86.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-padre-island — Padre Island National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/padre-island.yaml)
+- Action: new
+- Scope: Long undeveloped barrier island, birdlife and turtle conservation; no guaranteed hatchling release.
+- Representative coordinates: 27.03, -97.37; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.8 / 8.7.
+- Categories: nature:9.3,beaches:9.3,wildlife:9.3.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-canaveral-seashore — Canaveral National Seashore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/canaveral-seashore.yaml)
+- Action: new
+- Scope: Distinct protected coastline and lagoon habitat; no space center experience credit.
+- Representative coordinates: 28.81, -80.8; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.5 / 8.8 / 8.7.
+- Categories: beaches:9.3,nature:9.2,wildlife:9.2.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.9 vs peer; uniqueness: -0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

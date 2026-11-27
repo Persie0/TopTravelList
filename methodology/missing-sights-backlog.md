@@ -2940,3 +2940,31 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Lava Beds National Monument: 88.50/100 (desk-based provisional).
 
 24 additions, 16 desk-based provisional, 8 source-informed, 7 90+, 62 domestic ranking-row comparisons. United States 197 ranked / 197 total. No new individual Wave/White Pocket, Dinosaur quarry, Painted Hills or Natural Bridges components. Grand Staircase July 2026 boundary change noted; Bears Ears deferred pending distinct scope including Natural Bridges relationship (https://home.nps.gov/articles/nps-geodiversity-atlas-natural-bridges-national-monument-utah.htm). Rainbow Bridge counted for separate heritage experience, excludes Glen Canyon boating. Existing scores retained. Next: remaining major monuments including Mount St Helens, Muir Woods (redwood scope check), Organ Pipe, Carrizo Plain, and national seashores/recreation areas. Full Python validation pending.
+
+
+### Pass 185 — US national seashores, lakeshores and major western/Alaskan monuments
+
+- [x] US — Mount St. Helens National Volcanic Monument: 92.90/100 (source-linked-unverified).
+- [x] US — Misty Fiords National Monument Boat and Flightseeing Excursions: 91.60/100 (source-linked-unverified).
+- [x] US — Aniakchak National Monument and Preserve Caldera Wilderness: 91.85/100 (source-linked-unverified).
+- [x] US — Admiralty Island National Monument and Pack Creek Bear Viewing: 90.95/100 (source-linked-unverified).
+- [x] US — Apostle Islands National Lakeshore Sea Caves and Lighthouse Heritage: 91.45/100 (source-linked-unverified).
+- [x] US — Pictured Rocks National Lakeshore Cliffs and Kayaking: 90.55/100 (source-linked-unverified).
+- [x] US — Sleeping Bear Dunes National Lakeshore: 89.55/100 (source-linked-unverified).
+- [x] US — Muir Woods National Monument Old-Growth Redwood Forest: 89.25/100 (source-linked-unverified).
+- [x] US — Point Reyes National Seashore: 89.30/100 (source-linked-unverified).
+- [x] US — Organ Pipe Cactus National Monument: 88.85/100 (source-linked-unverified).
+- [x] US — Carrizo Plain National Monument: 88.25/100 (source-linked-unverified).
+- [x] US — Mojave National Preserve Kelso Dunes and Volcanic Landscapes: 88.45/100 (source-linked-unverified).
+- [x] US — Devils Postpile National Monument and Rainbow Falls: 87.10/100 (desk-based provisional).
+- [x] US — Cape Cod National Seashore: 87.80/100 (desk-based provisional).
+- [x] US — Cape Hatteras National Seashore and Lighthouse Heritage: 88.10/100 (desk-based provisional).
+- [x] US — Assateague Island National Seashore and Wild Horse Observation: 88.20/100 (desk-based provisional).
+- [x] US — Cumberland Island National Seashore and Dungeness Ruins: 88.25/100 (desk-based provisional).
+- [x] US — Cape Lookout National Seashore: 86.65/100 (desk-based provisional).
+- [x] US — Fire Island National Seashore: 85.80/100 (desk-based provisional).
+- [x] US — Gulf Islands National Seashore: 86.85/100 (desk-based provisional).
+- [x] US — Padre Island National Seashore: 87.40/100 (desk-based provisional).
+- [x] US — Canaveral National Seashore: 86.20/100 (desk-based provisional).
+
+22 additions, 10 desk-based provisional, 12 source-informed, 6 90+, 56 domestic ranking-row comparisons. United States 219 ranked / 219 total. All 10 national seashores and 3 national lakeshores represented by one record per unit, compared against NPS inventory https://www.nps.gov/aboutus/national-park-system.htm . Muir Woods geographically distinct from Redwood National and State Parks; no duplicate Golden Gate NRA umbrella. Seasonal wildlife, ice caves, superblooms and access not guaranteed. Existing scores retained. Next: remaining monuments, recreation areas and major regional natural attractions. Full Python validation pending.

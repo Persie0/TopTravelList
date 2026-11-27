@@ -1,0 +1,16 @@
+id: sight-us-carrizo-plain
+name: "Carrizo Plain National Monument"
+location:
+  country_code: US
+  latitude: 35.15
+  longitude: -119.83
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.4
+    wildlife: 9.2
