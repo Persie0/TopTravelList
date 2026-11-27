@@ -4267,3 +4267,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Gramado Film Festival Public Screenings and Brazilian Cinema: 88.85/100 (desk-based provisional).
 
 16 additions, 8 source-linked provisional, 8 desk-based provisional, 7 90+, 46 ranking-row comparisons (14 international). BR 132 ranked / 135 total. Cristalino and Juma score guided nature experiences not accommodation; Mamirauá/Uakari deferred as Central Amazon UNESCO component (https://whc.unesco.org/en/list/998); Serra das Confusões confirmed component of existing tentative Caatinga serial record (https://whc.unesco.org/en/tentativelists/6896/), no duplicate pending parent split. Serra da Bodoquena Salobra canyon deferred pending boundary review against Boca da Onça, whose Discovery trail also follows Salobra (https://bodoquena.ms.gov.br/turismo/descubra-bodoquena/passeios/cachoeira/cachoeira-boca-da-onca). FLIP excludes Paraty built heritage; Rock in Rio excludes stadium and permanent venue; bird park separate from Iguaçu park. Prior PETAR and Bocaina deferrals retained. Coordinates approximate, future schedules and access not verified. Existing ratings and three unassessed retained. Brazil queue open.
+
+### Pass 242 — Brazil engineering, museums and coastal experiences
+
+- [x] BR — Instituto Ricardo Brennand Recife Art and Historical Collections: 92.05/100 (source-linked-unverified).
+- [x] BR — Itaipu Hydroelectric Dam Brazilian Technical Visitor Circuit: 91.60/100 (source-linked-unverified).
+- [x] BR — Theatro Municipal Rio de Janeiro Opera Ballet and Guided Heritage Visits: 91.00/100 (source-linked-unverified).
+- [x] BR — Sala São Paulo Concert Hall Symphony Performances and Architecture: 90.70/100 (source-linked-unverified).
+- [x] BR — Museu do Homem Americano and Museu da Natureza Piauí Regional Museum Circuit: 90.45/100 (source-linked-unverified).
+- [x] BR — Cumbuco and Cauípe Lagoon Kitesurfing Ceará: 88.45/100 (source-linked-unverified).
+- [x] BR — Maragogi Natural Pools Authorized Reef Excursions: 85.55/100 (source-linked-unverified).
+- [x] BR — Oficina Francisco Brennand Recife Ceramic Art and Sculpture Complex: 88.85/100 (desk-based provisional).
+- [x] BR — Cais do Sertão Recife Museum of Northeastern Brazilian Culture: 88.15/100 (desk-based provisional).
+- [x] BR — Buraco das Araras Jardim Sinkhole and Macaw Watching: 87.55/100 (desk-based provisional).
+- [x] BR — Rio Sucuri Bonito Freshwater Snorkeling: 87.75/100 (desk-based provisional).
+- [x] BR — Projeto Tamar Praia do Forte Sea Turtle Conservation Visitor Centre: 88.00/100 (desk-based provisional).
+- [x] BR — Guartelá State Park Canyon and River Viewpoints: 86.75/100 (desk-based provisional).
+- [x] BR — Pedra do Baú Natural Monument Mantiqueira Rock Formations: 87.55/100 (desk-based provisional).
+- [x] BR — Trancoso Quadrado Historic Square and Coastal Viewpoint: 86.80/100 (desk-based provisional).
+- [x] BR — Canoa Quebrada Coastal Cliffs and Beach Landscapes: 86.20/100 (desk-based provisional).
+
+16 additions, 7 source-linked provisional, 9 desk-based provisional, 5 90+, 42 ranking-row comparisons (10 international). BR 148 ranked / 151 total. Itaipu Brazilian technical tour distinguished from existing Paraguayan visitor circuit, shared landscape non-additive. Capivara museums grouped; no park archaeology landscape duplication. Maragogi monitored reef damage reflected conservatively, recovery unknown; authorized pools only. Monte Roraima Brazilian ascent deferred pending distinct permitted visitor scope; Venezuelan sector already ranked. Existing PETAR, Bocaina, Mamirauá, Caatinga and Bodoquena deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.

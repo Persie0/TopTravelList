@@ -1,0 +1,16 @@
+id: sight-br-rio-sucuri
+name: "Rio Sucuri Bonito Freshwater Snorkeling"
+location:
+  country_code: BR
+  latitude: -21.226
+  longitude: -56.579
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.1
+  depth: 8.7
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    wildlife: 9.2

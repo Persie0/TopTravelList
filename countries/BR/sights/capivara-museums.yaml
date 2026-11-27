@@ -1,0 +1,16 @@
+id: sight-br-capivara-museums
+name: "Museu do Homem Americano and Museu da Natureza Piauí Regional Museum Circuit"
+location:
+  country_code: BR
+  latitude: -9.016
+  longitude: -42.699
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3
+    nature: 9.3
