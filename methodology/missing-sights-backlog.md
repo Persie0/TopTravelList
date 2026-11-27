@@ -1824,3 +1824,40 @@ Twenty additions; 16 provisional desk estimates, four researched candidates (2 9
 - [x] FR — Saint-Lizier Bishops’ Palace Museum: 86.35/100 (desk-based provisional).
 
 34 additions, 21 fast provisional estimates, 13 source-informed candidates, 12 90+, 52 peer comparisons. France 413 ranked / 424 total; 11 existing unassessed unchanged. Moissac abbey/cloister, Cahors cathedral and Valentré Bridge, Rocamadour church/crypt and Figeac Saint-Sauveur excluded as Santiago components (https://whc.unesco.org/document/154481); Montségur is a Capetian component (https://whc.unesco.org/en/list/1755/maps/). Albi museum collection distinct from palace; Saint-Lizier museum scope overlap flagged. Cave tentative-series list lacks names (https://whc.unesco.org/en/tentativelists/1429/); cave overlap uncertainty retained. 0 peer rows not located and omitted. Next bounded screen: Aveyron, Hautes-Pyrénées and Gers: Musée Soulages, Millau Viaduct, Roquefort caves, Conques Santiago overlap, Belcastel, Estaing, Laguiole, Aubrac plateau, Gorges du Tarn, Montpellier and Nîmes later; investigate Cirque de Troumouse and Pont d’Espagne park overlap, Auch cathedral, La Romieu, Flaran abbey and Armagnac. Full Python validation pending.
+
+### Pass 147 — accelerated Aveyron, Hautes-Pyrénées, Gers and Grands Causses audit
+
+- [x] FR — Millau Viaduct Engineering Viewpoints and Visitor Centre: 91.75/100 (source-linked-unverified).
+- [x] FR — Musée Soulages Rodez Modern Art Museum: 91.65/100 (source-linked-unverified).
+- [x] FR — Roquefort-sur-Soulzon Cheese Cellars and Tastings: 90.15/100 (source-linked-unverified).
+- [x] FR — Gorges du Tarn River Canyon and Canoeing: 91.30/100 (source-linked-unverified).
+- [x] FR — Aven Armand Stalagmite Forest and Cave Tours: 91.95/100 (source-linked-unverified).
+- [x] FR — Grottes de Bétharram Underground Boat and Train Circuit: 91.20/100 (source-linked-unverified).
+- [x] FR — Néouvielle Nature Reserve Alpine Lakes and Trails: 91.45/100 (source-linked-unverified).
+- [x] FR — Musée Fenaille Rodez Archaeology Museum: 90.60/100 (source-linked-unverified).
+- [x] FR — Conques Medieval Village and Historic Streets: 88.80/100 (source-linked-unverified).
+- [x] FR — Trou de Bozouls Horseshoe Canyon and Trails: 88.70/100 (source-linked-unverified).
+- [x] FR — Cité de Pierres Montpellier-le-Vieux Rock Formations: 89.45/100 (source-linked-unverified).
+- [x] FR — Aubrac Plateau Burons and Highland Trails: 88.70/100 (source-linked-unverified).
+- [x] FR — Belcastel Historic Village and Castle: 87.80/100 (desk-based provisional).
+- [x] FR — Estaing Historic Village and Castle: 87.25/100 (desk-based provisional).
+- [x] FR — Laguiole Knife-making Heritage and Workshops: 86.75/100 (desk-based provisional).
+- [x] FR — Cathédrale Notre-Dame de Rodez: 88.35/100 (desk-based provisional).
+- [x] FR — La Couvertoirade Templar and Hospitaller Fortified Village: 88.55/100 (desk-based provisional).
+- [x] FR — Sainte-Eulalie-de-Cernon Templar Commandery: 86.55/100 (desk-based provisional).
+- [x] FR — Abbaye de Sylvanès Historic Abbey and Music Heritage: 86.50/100 (desk-based provisional).
+- [x] FR — Brousse-le-Château Fortified Village: 86.20/100 (desk-based provisional).
+- [x] FR — Micropolis Insect Discovery Park: 86.30/100 (desk-based provisional).
+- [x] FR — Grotte de Dargilan Pink Cave: 88.00/100 (desk-based provisional).
+- [x] FR — Peyre Cliffside Village and Troglodyte Church: 85.70/100 (desk-based provisional).
+- [x] FR — Lac de Payolle Highland Lake and Forest Walks: 84.95/100 (desk-based provisional).
+- [x] FR — Grottes de Médous Cave and Underground River: 84.85/100 (desk-based provisional).
+- [x] FR — Abbaye de Flaran Cistercian Abbey and Art Collections: 87.90/100 (desk-based provisional).
+- [x] FR — Auch Historic Upper Town and Monumental Stairway: 86.45/100 (desk-based provisional).
+- [x] FR — Lectoure Historic Hilltop Town: 86.00/100 (desk-based provisional).
+- [x] FR — Fourcès Circular Historic Bastide: 86.05/100 (desk-based provisional).
+- [x] FR — Larressingle Medieval Fortified Village: 86.85/100 (desk-based provisional).
+- [x] FR — Sarrant Circular Medieval Village: 84.80/100 (desk-based provisional).
+- [x] FR — Armagnac Ecomuseum and Distillation Heritage: 85.70/100 (desk-based provisional).
+
+32 additions, 20 fast provisional estimates, 12 source-informed candidates, 8 90+, 47 peer comparisons. France 445 ranked / 456 total; 11 existing unassessed unchanged. Millau uniqueness 9.5 reviewed against operator 343m structural height and visitor route; international comparison outstanding. Conques abbey and bridge, Auch cathedral, La Romieu collegiate church and Larressingle Pont d'Artigues retained under Santiago property (https://whc.unesco.org/en/decisions/7982/ and https://www.tourisme-conques.fr/en/en-conques/the-village-of-conques); independent ratings limited to distinct townscape. Troumouse and Pont d'Espagne deferred to national park/UNESCO overlap review. Néouvielle reserve specifically outside national park core (https://pyrenees-parcnational.fr/qui-sommes-nous/le-territoire-du-parc-national); distinct scope. Tarn recreation and Cité de Pierres geology distinguished from agro-pastoral heritage; overlapping geography flagged. Tentative cave-series boundaries unresolved. 1 peer rows not located and omitted. Next bounded screen: Occitanie Mediterranean and Cévennes: Montpellier Musée Fabre, historic Écusson, Jardin des Plantes, aquarium, Nîmes arena and gardens, Musée de la Romanité, Uzès, Haribo museum, Aigues-Mortes, Sète, Étang de Thau, Saint-Guilhem-le-Désert Santiago overlap, Cirque de Navacelles, Grotte des Demoiselles and Clamouse, Gorges de l'Hérault, Lodève, Le Salagou, Pézenas, Narbonne, Carcassonne non-UNESCO venues, and Pyrénées-Orientales. Full Python validation pending.

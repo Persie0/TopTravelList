@@ -1,0 +1,16 @@
+id: sight-fr-roquefort-cellars
+name: "Roquefort-sur-Soulzon Cheese Cellars and Tastings"
+location:
+  country_code: FR
+  latitude: 43.975
+  longitude: 2.993
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.0
+  depth: 8.8
+  categories:
+    food: 9.4
+    culture: 9.3
+    history: 9.1

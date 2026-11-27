@@ -1,0 +1,16 @@
+id: sight-fr-larressingle-village
+name: "Larressingle Medieval Fortified Village"
+location:
+  country_code: FR
+  latitude: 43.944
+  longitude: 0.311
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.2
