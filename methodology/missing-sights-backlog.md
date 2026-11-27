@@ -4202,3 +4202,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - **Full Fundy Footpath — DEFERRED — PARENT SCOPE:** Existing Fundy Trail and Fundy National Park cover major portions; separate through-hike not scored until non-additive scope policy resolved.
 
 5 source-linked provisional additions, 3 90+, 10 domestic ranking-row comparisons. CA 381 ranked / 384 total; +310 since original 74. Bounded discovery queue from passes 221–238 closed, not exhaustive. Prior named deferrals assessed: five added with narrow scopes/access notes; nine non-additive or deferred scope/event decisions recorded. Existing three unassessed and scores retained. Reopen on concrete substantial omission or new scope evidence. Coordinates approximate; full Python validation, independent peer YAML/coordinate verification, international calibration and historical evidence labels pending.
+
+### Pass 239 — Brazil first priority screen: festivals, wilderness and museums
+
+- [x] BR — Rio de Janeiro Carnival Samba School Parades and Street Festivities: 95.35/100 (source-linked-unverified).
+- [x] BR — Parintins Folklore Festival Boi-Bumbá Performances: 93.60/100 (source-linked-unverified).
+- [x] BR — Círio de Nazaré Belém Religious Festival and Processions: 92.90/100 (source-linked-unverified).
+- [x] BR — Salvador Bahia Carnival Trio Elétrico and Afro-Brazilian Street Festivities: 92.75/100 (source-linked-unverified).
+- [x] BR — Bumba-meu-boi Maranhão São Luís June Festivities: 92.60/100 (source-linked-unverified).
+- [x] BR — Recife and Olinda Carnival Frevo and Maracatu Street Performances: 92.50/100 (source-linked-unverified).
+- [x] BR — Jalapão Tocantins Dunes and Fervedouros Nature Circuit: 92.35/100 (source-linked-unverified).
+- [x] BR — São João Campina Grande June Festival and Forró: 90.95/100 (source-linked-unverified).
+- [x] BR — Pinacoteca de São Paulo Brazilian Art Museum: 90.60/100 (source-linked-unverified).
+- [x] BR — Marajó Island Soure and Salvaterra Cultural and Coastal Circuit: 89.30/100 (source-linked-unverified).
+- [x] BR — Chapada dos Guimarães National Park Waterfalls and Sandstone Cliffs: 88.80/100 (source-linked-unverified).
+- [x] BR — Serra dos Órgãos National Park Mountain Hiking: 88.40/100 (desk-based provisional).
+- [x] BR — Itatiaia National Park Mantiqueira Alpine Landscapes: 88.85/100 (desk-based provisional).
+- [x] BR — Ibitipoca State Park Quartzite Caves and Waterfalls: 87.50/100 (desk-based provisional).
+- [x] BR — Museu Afro Brasil Emanoel Araujo São Paulo: 88.95/100 (desk-based provisional).
+- [x] BR — Imperial Museum Petrópolis Historic Palace and Collections: 88.20/100 (desk-based provisional).
+- [x] BR — Serra do Rio do Rastro Scenic Mountain Road: 87.15/100 (desk-based provisional).
+- [x] BR — Beto Carrero World Penha Theme Park: 86.55/100 (desk-based provisional).
+
+18 additions, 11 source-linked provisional, 7 desk-based provisional, 9 90+, 36 domestic ranking-row comparisons. BR 100 ranked / 103 total. Brazil selected for low baseline (85) and major missing public cultural events. Rio, Salvador and Recife/Olinda separate traditions, latter grouped; permanent historic centres not duplicated. Parintins distinct from Maranhão Bumba-meu-boi; Jalapão regional circuit grouped; Marajó limited to eastern visitor circuit. PETAR deferred pending Atlantic Forest South-East Reserves parent-scope review. Existing scores and three unassessed retained. Coordinates approximate, current access and future event dates unverified. Regional discovery queue open; independent validation and international anchor calibration pending.

@@ -1731,3 +1731,394 @@
 | [My Lai Massacre Memorial](../../../countries/VN/sights/my-lai-massacre-memorial.yaml) | 8.6 / 9.2 / 9.6 / 8.6 / 8.1 | 89.00/100 | International historical significance with broader site interpretation. |
 | [Zoungbodji Memorial Sites](../../../countries/BJ/sights/zoungbodji-memorial-sites.yaml) | 7.0 / 8.4 / 9.1 / 7.7 / 6.3 | 78.05/100 | Related remembrance scope, distinct historical evidence. |
 
+## sight-br-rio-carnival — Rio de Janeiro Carnival Samba School Parades and Street Festivities — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/rio-carnival.yaml)
+- Action: new
+- Scope: Annual public Carnival programme, especially competitive samba-school performances at the Sambódromo and city street festivities; excludes permanent Carioca landscape, stadium and ordinary beach visits. Official Visit Brasil describes purpose-built parade venue and distinctive samba tradition. Exceptional global event; 9.5+ fields provisional, international calibration pending.
+- Representative coordinates: -22.911, -43.197; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.6 / 9.5 / 9.5 / 9.6 / 9.4.
+- Categories: culture:9.6 nightlife:9.6 photography:9.4.
+- Overall: 95.35/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.visitbrasil.com/en/festivity/carnival-en/, https://www.rio.com/rio-carnival/about-rio-samba-parade.
+- High-score reasoning in scope; independent international anchor calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/historic-centre-of-salvador-de-bahia](../../../countries/BR/sights/historic-centre-of-salvador-de-bahia.yaml) | 9.2 / 9.2 / 9.5 / 8.5 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [BR/rio-de-janeiro-carioca-landscapes-between-the-mountain-and-the-sea](../../../countries/BR/sights/rio-de-janeiro-carioca-landscapes-between-the-mountain-and-the-sea.yaml) | 9.6 / 9.6 / 9.5 / 9.1 / 9.4 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-parintins-festival — Parintins Folklore Festival Boi-Bumbá Performances — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/parintins-festival.yaml)
+- Action: new
+- Scope: Annual June festival with competing Caprichoso and Garantido groups presenting Amazonian folklore through music, dance, costumes and stagecraft. Distinct from Maranhão Bumba-meu-boi; festival only.
+- Representative coordinates: -2.628, -56.735; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.3 / 9.4 / 9.2.
+- Categories: culture:9.4 photography:9.4 nightlife:9.3.
+- Overall: 93.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.visitbrasil.com/en/festivity/parintins-festival/, https://www.visitbrasil.com/pt/festivity/festival-de-parintins-pt/, https://www.gov.br/turismo/pt-br/assuntos/ultimas-noticia/festival-de-parintins-deve-atrair-70-mil-turistas.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/teatro-amazonas-manaus](../../../countries/BR/sights/teatro-amazonas-manaus.yaml) | 8.6 / 9.0 / 9.0 / 8.5 / 7.4 | impact: +0.8 vs peer; uniqueness: +0.4 vs peer |
+| [BR/historic-centre-of-sao-luis](../../../countries/BR/sights/historic-centre-of-sao-luis.yaml) | 8.5 / 9.1 / 9.3 / 7.9 / 8.2 | impact: +0.9 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-cirio-de-nazare — Círio de Nazaré Belém Religious Festival and Processions — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/cirio-de-nazare.yaml)
+- Action: new
+- Scope: Public October religious festival inscribed on UNESCO's intangible heritage list in 2013. Ministry of Culture estimated 2.3 million participants in main 2026 procession. Respectful public observation; no private rites or future attendance assumptions.
+- Representative coordinates: -1.452, -48.477; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.2.
+- Overall: 92.90/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://ich.unesco.org/en/RL/cirio-de-nazare-the-taper-of-our-lady-of-nazareth-in-the-city-of-belem-para-00602?RL=00602, https://www.gov.br/cultura/pt-br/assuntos/noticias/patrimonio-cultural-do-brasil-e-imaterial-do-humanidade-cirio-de-nazare-leva-cerca-de-2-3-milhoes-de-pessoas-as-ruas-de-belem.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sanctuary-of-bom-jesus-do-congonhas](../../../countries/BR/sights/sanctuary-of-bom-jesus-do-congonhas.yaml) | 8.8 / 9.2 / 9.4 / 8.6 / 7.7 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [BR/historic-centre-of-sao-luis](../../../countries/BR/sights/historic-centre-of-sao-luis.yaml) | 8.5 / 9.1 / 9.3 / 7.9 / 8.2 | impact: +0.7 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-salvador-carnival — Salvador Bahia Carnival Trio Elétrico and Afro-Brazilian Street Festivities — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/salvador-carnival.yaml)
+- Action: new
+- Scope: Salvador's public Carnival performances including trio elétrico and Afro-Brazilian musical traditions. Excludes permanently ranked historic centre and Pelourinho sightseeing; Barra locality proxy.
+- Representative coordinates: -13.01, -38.53; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.2 / 9.4 / 9.1.
+- Categories: culture:9.4 nightlife:9.4 photography:9.3.
+- Overall: 92.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.visitbrasil.com/en/festivity/carnival-en/, https://www.ba.gov.br/sufotur/noticias/2026-02/23249/governo-da-bahia-confirma-programacao-de-trios-no-carnaval-2026-em-salvador.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/historic-centre-of-salvador-de-bahia](../../../countries/BR/sights/historic-centre-of-salvador-de-bahia.yaml) | 9.2 / 9.2 / 9.5 / 8.5 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [BR/pelourinho](../../../countries/BR/sights/pelourinho.yaml) | 8.9 / 8.9 / 9.1 / 8.4 / 7.9 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-bumba-meu-boi-maranhao — Bumba-meu-boi Maranhão São Luís June Festivities — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/bumba-meu-boi-maranhao.yaml)
+- Action: new
+- Scope: Public performances in São Luís during the June festival cycle; UNESCO intangible heritage since 2019, involving music, choreography, theatre and craft. Excludes permanent city architecture and distinct Parintins event.
+- Representative coordinates: -2.53, -44.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://ich.unesco.org/en/RL/cultural-complex-of-bumba-meu-boi-from-maranhao-01510, https://turismo.ma.gov.br/programas-ou-campanhas/cultura-e-festas-populares.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/historic-centre-of-sao-luis](../../../countries/BR/sights/historic-centre-of-sao-luis.yaml) | 8.5 / 9.1 / 9.3 / 7.9 / 8.2 | impact: +0.6 vs peer; uniqueness: +0.3 vs peer |
+| [BR/historic-centre-of-olinda](../../../countries/BR/sights/historic-centre-of-olinda.yaml) | 8.9 / 9.0 / 9.4 / 8.6 / 8.3 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-recife-olinda-carnival — Recife and Olinda Carnival Frevo and Maracatu Street Performances — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/recife-olinda-carnival.yaml)
+- Action: new
+- Scope: Connected public Carnival programme across Recife and Olinda, grouped to avoid duplicate event scores; distinctive frevo and maracatu traditions. Excludes permanent Olinda historic district.
+- Representative coordinates: -8.06, -34.88; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.3 / 9.1.
+- Categories: culture:9.4 nightlife:9.3 photography:9.4.
+- Overall: 92.50/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.visitbrasil.com/en/5-must-know-tips-to-enjoy-carnival-in-recife-and-olinda, https://www.visitbrasil.com/en/festivity/carnival-en/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/historic-centre-of-olinda](../../../countries/BR/sights/historic-centre-of-olinda.yaml) | 8.9 / 9.0 / 9.4 / 8.6 / 8.3 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [BR/historic-centre-of-salvador-de-bahia](../../../countries/BR/sights/historic-centre-of-salvador-de-bahia.yaml) | 9.2 / 9.2 / 9.5 / 8.5 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-jalapao — Jalapão Tocantins Dunes and Fervedouros Nature Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/jalapao.yaml)
+- Action: new
+- Scope: Regional visitor circuit with Cerrado dunes, natural buoyant springs and waterfalls; group the linked experiences, no assumption of access to private/community lands. Approximate regional coordinate.
+- Representative coordinates: -10.54, -46.49; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 8.9 / 9.3 / 9.2.
+- Categories: nature:9.4 photography:9.4 adventure:9.4.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.visitbrasil.com/en/location/jalapao/, https://www.gov.br/turismo/pt-br/assuntos/noticias/jalapao-e-capim-dourado-tesouros-naturais-do-coracao-do-brasil.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/lencois-maranhenses-national-park](../../../countries/BR/sights/lencois-maranhenses-national-park.yaml) | 9.8 / 9.8 / 9.4 / 9.1 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [BR/chapada-dos-veadeiros-national-park](../../../countries/BR/sights/chapada-dos-veadeiros-national-park.yaml) | 9.0 / 9.0 / 8.9 / 8.8 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-sao-joao-campina-grande — São João Campina Grande June Festival and Forró — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/sao-joao-campina-grande.yaml)
+- Action: new
+- Scope: Recurring public June festival centred on Parque do Povo, with regional music, dancing and food. Municipality confirmed 2026 edition and reported over 300,000 attendees in its first four days. No future schedule guaranteed.
+- Representative coordinates: -7.22, -35.88; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.3 / 9.1.
+- Categories: culture:9.4 nightlife:9.3 food:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://campinagrande.pb.gov.br/mais-de-300-mil-pessoas-vivem-a-experiencia-do-maior-sao-joao-do-mundo-nos-primeiros-quatro-dias-da-festa/, https://campinagrande.pb.gov.br/o-maior-sao-joao-do-mundo-primeiro-sextou-reune-multidao-no-parque-do-povo/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/historic-centre-of-olinda](../../../countries/BR/sights/historic-centre-of-olinda.yaml) | 8.9 / 9.0 / 9.4 / 8.6 / 8.3 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [BR/historic-centre-of-sao-luis](../../../countries/BR/sights/historic-centre-of-sao-luis.yaml) | 8.5 / 9.1 / 9.3 / 7.9 / 8.2 | impact: +0.5 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-pinacoteca-sao-paulo — Pinacoteca de São Paulo Brazilian Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/pinacoteca-sao-paulo.yaml)
+- Action: new
+- Scope: Founded in 1905; oldest art museum in São Paulo and collection of more than 10,000 items per museum. Public exhibition buildings grouped; not a claim all objects are displayed.
+- Representative coordinates: -23.534, -46.633; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.3 / 9.0 / 9.3.
+- Categories: culture:9.4 history:9.3 architecture:9.2.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://pinacoteca.org.br/pina/acervo/visite-o-acervo/, https://pinacoteca.org.br/pina/o-museu/institucional/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sao-paulo-museum-of-art-masp](../../../countries/BR/sights/sao-paulo-museum-of-art-masp.yaml) | 8.5 / 8.9 / 9.2 / 8.7 / 8.4 | impact: +0.4 vs peer; uniqueness: +0.1 vs peer |
+| [BR/inhotim-institute](../../../countries/BR/sights/inhotim-institute.yaml) | 9.1 / 9.4 / 8.8 / 9.0 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-marajo-island — Marajó Island Soure and Salvaterra Cultural and Coastal Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/marajo-island.yaml)
+- Action: new
+- Scope: Public visitor circuit in eastern Marajó including mangroves, beaches, locally hosted cultural experiences and buffalo-related agricultural heritage. No entire island conservation umbrella or unrestricted ranch access.
+- Representative coordinates: -0.73, -48.52; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.8 / 9.0 / 9.0.
+- Categories: culture:9.3 nature:9.3 food:9.2 photography:9.3.
+- Overall: 89.30/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.visitbrasil.com/en/experience-a-4-day-immersion-on-marajo-island/, https://www.visitbrasil.com/en/location/ilha-de-marajo.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/delta-do-parnaiba](../../../countries/BR/sights/delta-do-parnaiba.yaml) | 8.8 / 8.8 / 8.4 / 8.7 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.2 vs peer |
+| [BR/meeting-of-the-waters-manaus](../../../countries/BR/sights/meeting-of-the-waters-manaus.yaml) | 8.8 / 9.4 / 8.3 / 8.5 / 6.6 | impact: +0.1 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-chapada-guimaraes — Chapada dos Guimarães National Park Waterfalls and Sandstone Cliffs — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/chapada-guimaraes.yaml)
+- Action: new
+- Scope: National park scenery and established waterfall trails; distinct from Chapada dos Veadeiros and Pantanal.
+- Representative coordinates: -15.4, -55.84; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.7 / 9.0 / 8.9.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 88.80/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://visitbrasil.com/en/explore-the-waterfalls-of-chapada-dos-guimaraes-national-park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/chapada-diamantina-national-park](../../../countries/BR/sights/chapada-diamantina-national-park.yaml) | 9.4 / 9.1 / 8.7 / 9.0 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [BR/chapada-dos-veadeiros-national-park](../../../countries/BR/sights/chapada-dos-veadeiros-national-park.yaml) | 9.0 / 9.0 / 8.9 / 8.8 / 8.8 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-serra-dos-orgaos — Serra dos Órgãos National Park Mountain Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/serra-dos-orgaos.yaml)
+- Action: new
+- Scope: Mountain hiking and granitic peaks in separate national park; no route/access guarantee.
+- Representative coordinates: -22.47, -43.02; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 9.0.
+- Categories: nature:9.4 adventure:9.4 photography:9.3.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/tijuca-national-park](../../../countries/BR/sights/tijuca-national-park.yaml) | 8.8 / 8.7 / 8.8 / 8.6 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [BR/serra-geral-national-park](../../../countries/BR/sights/serra-geral-national-park.yaml) | 9.1 / 8.9 / 8.4 / 8.5 / 8.5 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-itatiaia — Itatiaia National Park Mantiqueira Alpine Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/itatiaia.yaml)
+- Action: new
+- Scope: Upper and lower park trails grouped, distinct from Serra dos Órgãos.
+- Representative coordinates: -22.38, -44.66; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.9 / 8.9 / 9.0.
+- Categories: nature:9.4 adventure:9.3 photography:9.3.
+- Overall: 88.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/serra-da-canastra-national-park](../../../countries/BR/sights/serra-da-canastra-national-park.yaml) | 8.9 / 8.8 / 8.5 / 8.6 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [BR/serra-geral-national-park](../../../countries/BR/sights/serra-geral-national-park.yaml) | 9.1 / 8.9 / 8.4 / 8.5 / 8.5 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-ibitipoca — Ibitipoca State Park Quartzite Caves and Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/ibitipoca.yaml)
+- Action: new
+- Scope: Established park trail circuit, caves and streams grouped.
+- Representative coordinates: -21.71, -43.89; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.4 / 9.0 / 8.8.
+- Categories: nature:9.3 photography:9.3 adventure:9.3.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/chapada-diamantina-national-park](../../../countries/BR/sights/chapada-diamantina-national-park.yaml) | 9.4 / 9.1 / 8.7 / 9.0 / 9.4 | impact: -0.6 vs peer; uniqueness: -0.3 vs peer |
+| [BR/vila-velha-state-park](../../../countries/BR/sights/vila-velha-state-park.yaml) | 8.5 / 8.6 / 7.8 / 8.4 / 7.7 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-museu-afro-brasil — Museu Afro Brasil Emanoel Araujo São Paulo — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/museu-afro-brasil.yaml)
+- Action: new
+- Scope: Dedicated Afro-Brazilian art and history museum; separate from Ibirapuera outdoor park, non-additive location overlap.
+- Representative coordinates: -23.584, -46.66; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.8 / 9.0.
+- Categories: culture:9.4 history:9.4 architecture:9.1.
+- Overall: 88.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sao-paulo-museum-of-art-masp](../../../countries/BR/sights/sao-paulo-museum-of-art-masp.yaml) | 8.5 / 8.9 / 9.2 / 8.7 / 8.4 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+| [BR/valongo-wharf-archaeological-site](../../../countries/BR/sights/valongo-wharf-archaeological-site.yaml) | 7.5 / 8.9 / 9.7 / 7.8 / 6.1 | impact: +1.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-imperial-museum-petropolis — Imperial Museum Petrópolis Historic Palace and Collections — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/imperial-museum-petropolis.yaml)
+- Action: new
+- Scope: Public former imperial palace and historical exhibits, not whole city sightseeing.
+- Representative coordinates: -22.51, -43.18; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3 architecture:9.3 culture:9.2.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/pampulha-modern-ensemble](../../../countries/BR/sights/pampulha-modern-ensemble.yaml) | 8.2 / 9.0 / 9.3 / 8.3 / 7.9 | impact: +0.5 vs peer; uniqueness: -0.2 vs peer |
+| [BR/sanctuary-of-bom-jesus-do-congonhas](../../../countries/BR/sights/sanctuary-of-bom-jesus-do-congonhas.yaml) | 8.8 / 9.2 / 9.4 / 8.6 / 7.7 | impact: -0.1 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-serra-rio-rastro — Serra do Rio do Rastro Scenic Mountain Road — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/serra-rio-rastro.yaml)
+- Action: new
+- Scope: Scenic road and designated viewpoints, separate from Aparados da Serra and Serra Geral park routes.
+- Representative coordinates: -28.39, -49.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.3 / 8.9 / 8.5.
+- Categories: photography:9.4 nature:9.3 adventure:9.2.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/aparados-da-serra-national-park](../../../countries/BR/sights/aparados-da-serra-national-park.yaml) | 9.2 / 8.9 / 8.3 / 8.7 / 8.4 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [BR/serra-geral-national-park](../../../countries/BR/sights/serra-geral-national-park.yaml) | 9.1 / 8.9 / 8.4 / 8.5 / 8.5 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-beto-carrero-world — Beto Carrero World Penha Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/beto-carrero-world.yaml)
+- Action: new
+- Scope: Public theme park rides and performances grouped; no guarantee of specific ride availability.
+- Representative coordinates: -26.8, -48.62; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.5 / 8.1 / 9.2 / 8.9.
+- Categories: family:9.4 adventure:9.3 photography:9.1.
+- Overall: 86.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/ibirapuera-park](../../../countries/BR/sights/ibirapuera-park.yaml) | 8.2 / 7.8 / 7.6 / 8.8 / 8.6 | impact: +0.6 vs peer; uniqueness: +0.7 vs peer |
+| [BR/museu-do-amanha](../../../countries/BR/sights/museu-do-amanha.yaml) | 8.2 / 8.4 / 8.0 / 8.4 / 7.8 | impact: +0.6 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 239 scope decisions
+
+18 additions, 11 source-linked provisional, 7 desk-based provisional, 9 90+, 36 domestic ranking-row comparisons. BR 100 ranked / 103 total. Brazil selected for low baseline (85) and major missing public cultural events. Rio, Salvador and Recife/Olinda separate traditions, latter grouped; permanent historic centres not duplicated. Parintins distinct from Maranhão Bumba-meu-boi; Jalapão regional circuit grouped; Marajó limited to eastern visitor circuit. PETAR deferred pending Atlantic Forest South-East Reserves parent-scope review. Existing scores and three unassessed retained. Coordinates approximate, current access and future event dates unverified. Regional discovery queue open; independent validation and international anchor calibration pending.
