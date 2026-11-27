@@ -11254,3 +11254,267 @@ Ranking rows checked; peer YAML and international calibration pending.
 - Overall: 88.85/100.
 - Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
 - Verification pending: independent factual and coordinate checks, full Python validation.
+
+## sight-fr-paris-national-marine — Musée National de la Marine Paris Naval and Maritime Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-national-marine.yaml)
+- Action: new
+- Scope: National maritime collections at Chaillot, including historic ship models, navigation instruments and Vernet port paintings; reopened in 2023. Only Paris displays; excludes other branches and exterior Trocadéro architecture.
+- Representative coordinates: 48.862, 2.288; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.2 / 9.3.
+- Categories: history:9.4,culture:9.4,family:9.3.
+- Overall: 92.25/100.
+- Decision: Source-informed provisional editorial assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.musee-marine.fr/nos-musees/paris/le-musee-a-paris/a-propos/lieu-et-parcours.html ; https://www.musee-marine.fr/nos-musees/paris/le-musee-a-paris/a-propos/la-renovation.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dunkerque-maritime](../../../countries/FR/sights/dunkerque-maritime.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.1 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [FR/brest-marine](../../../countries/FR/sights/brest-marine.yaml) | 8.9 / 9.0 / 9.1 / 8.9 / 9.0 | uniqueness: +0.3 vs peer; experience: +0.3 vs peer |
+| [FR/toulon-naval-museum](../../../countries/FR/sights/toulon-naval-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.8 / 8.8 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer |
+| [FR/cite-de-la-mer](../../../countries/FR/sights/cite-de-la-mer.yaml) | 9.0 / 9.2 / 9.0 / 9.1 / 9.2 | significance: +0.3 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-paris-gustave-moreau — Musée Gustave Moreau Paris Artist House and Symbolist Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-gustave-moreau.yaml)
+- Action: new
+- Scope: Preserved artist-designed home and studios with extensive paintings and drawings; distinct from the general Paris art museums.
+- Representative coordinates: 48.878, 2.334; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.3.
+- Categories: culture:9.4,history:9.3,architecture:9.2.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional editorial assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://musee-moreau.fr/en/artists-house-museum-house ; https://musee-moreau.fr/en/studios.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-rodin](../../../countries/FR/sights/musee-rodin.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 8.8 | depth: +0.5 vs peer; impact: -0.1 vs peer |
+| [FR/musee-chagall-nice](../../../countries/FR/sights/musee-chagall-nice.yaml) | 9.2 / 9.4 / 9.3 / 9.0 / 9.1 | impact: -0.2 vs peer; depth: +0.2 vs peer |
+| [FR/nissim-camondo](../../../countries/FR/sights/nissim-camondo.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | depth: +0.1 vs peer; impact: +0.0 vs peer |
+| [FR/paris-petit-musee-bourdelle](../../../countries/FR/sights/paris-petit-musee-bourdelle.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-nogent-camille-claudel — Musée Camille Claudel Nogent-sur-Seine Sculpture Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nogent-camille-claudel.yaml)
+- Action: new
+- Scope: Museum describes the largest public collection of Claudel works, contextualized with other late nineteenth-century sculpture.
+- Representative coordinates: 48.494, 3.502; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.2 / 9.0 / 9.2.
+- Categories: culture:9.4,history:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional editorial assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.museecamilleclaudel.fr/fr/collection-camille-claudel ; https://www.museecamilleclaudel.fr/en/collections/visitors-trails/museum-sculpture.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-rodin](../../../countries/FR/sights/musee-rodin.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 8.8 | depth: +0.4 vs peer; impact: -0.2 vs peer |
+| [FR/paris-petit-musee-bourdelle](../../../countries/FR/sights/paris-petit-musee-bourdelle.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 8.9 | uniqueness: +0.5 vs peer; depth: +0.3 vs peer |
+| [FR/musee-ingres-bourdelle](../../../countries/FR/sights/musee-ingres-bourdelle.yaml) | 8.9 / 9.2 / 9.2 / 9.0 / 9.2 | uniqueness: +0.2 vs peer; impact: +0.0 vs peer |
+| [FR/courbet-ornans](../../../countries/FR/sights/courbet-ornans.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.1 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-angers-jean-lurcat — Musée Jean-Lurçat Angers Contemporary Tapestry Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/angers-jean-lurcat.yaml)
+- Action: new
+- Scope: Contemporary tapestry collection including Le Chant du Monde in the medieval Saint-Jean hospital; separate from the Apocalypse Tapestry in the castle. Temporary closure not scored.
+- Representative coordinates: 47.479, -0.557; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.1 / 9.0 / 9.1.
+- Categories: culture:9.4,history:9.3,architecture:9.2.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional editorial assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://musees.angers.fr/lieux/musee-jean-lurcat-et-de-la-tapisserie-contemporaine/ ; https://musees.angers.fr/english/index.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/aubusson-tapestry](../../../countries/FR/sights/aubusson-tapestry.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.9 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+| [FR/chateau-angers](../../../countries/FR/sights/chateau-angers.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.2 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [FR/tours-compagnonnage](../../../countries/FR/sights/tours-compagnonnage.yaml) | 8.7 / 9.1 / 8.9 / 8.8 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [FR/calais-lace](../../../countries/FR/sights/calais-lace.yaml) | 8.7 / 9.0 / 8.9 / 8.9 / 8.9 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-quimper-fine-arts — Musée des Beaux-Arts Quimper Fine Arts Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/quimper-fine-arts.yaml)
+- Action: new
+- Scope: Independent fine arts collections, excluding the cathedral and historic streets.
+- Representative coordinates: 47.996, -4.102; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 8.8 / 8.9.
+- Categories: culture:9.3,history:9.2.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/angers-fine-arts](../../../countries/FR/sights/angers-fine-arts.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 9.0 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/bordeaux-fine-arts](../../../countries/FR/sights/bordeaux-fine-arts.yaml) | 8.7 / 8.8 / 9.0 / 8.9 / 9.0 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-quimper-breton-museum — Musée Départemental Breton Quimper Regional Heritage Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/quimper-breton-museum.yaml)
+- Action: new
+- Scope: Breton archaeology, costume and regional heritage collections; excludes fine arts museum and cathedral.
+- Representative coordinates: 47.995, -4.102; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.9 / 8.8 / 8.9.
+- Categories: history:9.3,culture:9.3.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/rennes-musee-bretagne](../../../countries/FR/sights/rennes-musee-bretagne.yaml) | 8.9 / 9.1 / 9.1 / 8.9 / 9.2 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [FR/strasbourg-alsacien](../../../countries/FR/sights/strasbourg-alsacien.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 8.9 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-la-rochelle-maritime — Musée Maritime La Rochelle Historic Ships and Maritime Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/la-rochelle-maritime.yaml)
+- Action: new
+- Scope: Museum ships and maritime collections independently scoped from old harbour towers and aquarium.
+- Representative coordinates: 46.151, -1.152; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.9 / 9.0 / 8.8.
+- Categories: history:9.3,culture:9.2,family:9.2.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dunkerque-maritime](../../../countries/FR/sights/dunkerque-maritime.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.1 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [FR/espadon-submarine](../../../countries/FR/sights/espadon-submarine.yaml) | 8.7 / 9.0 / 8.9 / 8.8 / 8.2 | depth: +0.6 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-limoges-fine-arts — Musée des Beaux-Arts Limoges Enamel and Art Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/limoges-fine-arts.yaml)
+- Action: new
+- Scope: Fine arts and historic enamel collections, separate from ceramics museum and cathedral quarter.
+- Representative coordinates: 45.828, 1.265; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 9.0 / 8.8 / 8.9.
+- Categories: culture:9.3,history:9.3.
+- Overall: 88.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/limoges-adrien-dubouche](../../../countries/FR/sights/limoges-adrien-dubouche.yaml) | 8.8 / 9.2 / 9.2 / 9.0 / 9.2 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/nevers-faience](../../../countries/FR/sights/nevers-faience.yaml) | 8.6 / 8.9 / 8.9 / 8.7 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-verdun-princerie — Musée de la Princerie Verdun Art and Archaeology Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/verdun-princerie.yaml)
+- Action: new
+- Scope: Local art and archaeology museum distinct from battlefield memorials.
+- Representative coordinates: 49.161, 5.383; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.9 / 8.6 / 8.7.
+- Categories: history:9.2,culture:9.2.
+- Overall: 86.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/bastia-museum](../../../countries/FR/sights/bastia-museum.yaml) | 8.7 / 8.9 / 9.0 / 8.8 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.8 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-saint-claude-abbaye-museum — Musée de l’Abbaye Saint-Claude Art and Archaeology Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-claude-abbaye-museum.yaml)
+- Action: new
+- Scope: Fine art and archaeological remains in the former abbey complex.
+- Representative coordinates: 46.386, 5.864; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.8 / 8.7 / 8.8.
+- Categories: culture:9.3,history:9.2.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/vesunna-museum](../../../countries/FR/sights/vesunna-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.8 / 8.8 | significance: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/nevers-faience](../../../countries/FR/sights/nevers-faience.yaml) | 8.6 / 8.9 / 8.9 / 8.7 / 8.9 | significance: -0.1 vs peer; depth: -0.1 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-grand-pressigny-prehistory — Musée de Préhistoire du Grand-Pressigny Flint and Archaeology Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/grand-pressigny-prehistory.yaml)
+- Action: new
+- Scope: Prehistory museum focused on regional flint tools and archaeology; castle setting included only as part of visit.
+- Representative coordinates: 46.922, 0.803; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.1 / 9.0 / 8.8 / 9.0.
+- Categories: history:9.4,culture:9.3.
+- Overall: 89.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-national-prehistoire](../../../countries/FR/sights/musee-national-prehistoire.yaml) | 8.8 / 9.2 / 9.4 / 8.9 / 9.2 | significance: -0.4 vs peer; depth: -0.2 vs peer |
+| [FR/musee-tautavel](../../../countries/FR/sights/musee-tautavel.yaml) | 8.6 / 9.1 / 9.2 / 8.8 / 8.9 | significance: -0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+
+
+## sight-fr-champigny-resistance — Musée de la Résistance Nationale Champigny-sur-Marne Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/champigny-resistance.yaml)
+- Action: new
+- Scope: National resistance history collections; distinct from other regional memorials.
+- Representative coordinates: 48.816, 2.514; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.2 / 8.7 / 9.0.
+- Categories: history:9.4,culture:9.3.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/besancon-resistance](../../../countries/FR/sights/besancon-resistance.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 9.2 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [FR/paris-liberation-museum](../../../countries/FR/sights/paris-liberation-museum.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 9.2 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; peer YAML, factual and coordinate verification, international calibration and full Python validation pending.
+

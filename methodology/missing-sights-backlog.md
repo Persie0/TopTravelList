@@ -2674,3 +2674,21 @@ Next: Return to mainland FR residual high-value coverage and overseas follow-up;
 - [x] FR — Sainte-Baume Mountain Forest and Grotte Sainte-Marie-Madeleine: 88.85/100 (desk-based provisional).
 
 18 additions, 9 desk-based provisional, 9 source-informed, 8 90+, 36 domestic peer ranking-row comparisons. France 1052 ranked / 1063 total; 11 existing unassessed unchanged. Alpine and natural residual screen: Lac Blanc and Chéserys grouped; geographically distinct Aiguilles Rouges from Mont Blanc massif though views overlap. Bauges excludes existing named outer sites. Arcy original cave distinct from Vézère and Chauvet. Railway experiences independently scoped; no separate stops. Mont Lozère and existing Cévennes heritage landscape potential overlap flagged; precise boundaries pending. Duplicate exclusions: none. Next: Final residual check of regional museums, outstanding named attractions and current FR queue; existing 11 unassessed handled separately. Full Python validation pending.
+
+
+### Pass 172 — French national and regional museum residual audit
+
+- [x] FR — Musée National de la Marine Paris Naval and Maritime Collections: 92.25/100 (source-linked-unverified).
+- [x] FR — Musée Gustave Moreau Paris Artist House and Symbolist Collections: 91.45/100 (source-linked-unverified).
+- [x] FR — Musée Camille Claudel Nogent-sur-Seine Sculpture Collections: 91.30/100 (source-linked-unverified).
+- [x] FR — Musée Jean-Lurçat Angers Contemporary Tapestry Collections: 90.75/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts Quimper Fine Arts Museum: 88.25/100 (desk-based provisional).
+- [x] FR — Musée Départemental Breton Quimper Regional Heritage Collections: 87.95/100 (desk-based provisional).
+- [x] FR — Musée Maritime La Rochelle Historic Ships and Maritime Museum: 89.00/100 (desk-based provisional).
+- [x] FR — Musée des Beaux-Arts Limoges Enamel and Art Collections: 88.70/100 (desk-based provisional).
+- [x] FR — Musée de la Princerie Verdun Art and Archaeology Collections: 86.35/100 (desk-based provisional).
+- [x] FR — Musée de l’Abbaye Saint-Claude Art and Archaeology Collections: 87.50/100 (desk-based provisional).
+- [x] FR — Musée de Préhistoire du Grand-Pressigny Flint and Archaeology Collections: 89.05/100 (desk-based provisional).
+- [x] FR — Musée de la Résistance Nationale Champigny-sur-Marne Collections: 88.50/100 (desk-based provisional).
+
+12 additions, 8 desk-based provisional, 4 source-informed, 4 90+, 32 domestic peer ranking-row comparisons. France 1064 ranked / 1075 total; 11 existing unassessed unchanged. Maritime museum at Chaillot scoped separately from other branches. Jean-Lurçat distinct from Angers castle tapestry. Quimper museums individually scoped; La Rochelle maritime collection separate from aquarium and old port; Limoges enamel collection separate from ceramics museum. Existing scores preserved. Mont Lozère overlap remains pending. Next: bounded remaining heritage screen before closure. Full Python validation pending.
