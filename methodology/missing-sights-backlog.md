@@ -4324,3 +4324,23 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — São Miguel dos Milagres Alagoas Coastal Beaches: 84.80/100 (desk-based provisional).
 
 10 additions, 5 source-linked provisional, 5 desk-based provisional, 3 90+, 26 ranking-row comparisons (6 international). BR 174 ranked / 177 total. Yucumã Brazilian bank only, shared falls non-additive. Lagoa do Peixe separate from Taim. São João del-Rei–Tiradentes rail deferral resolved: federally protected railway and independent ride, excludes town architecture. Vale dos Vinhedos excludes Caminhos de Pedra; São Joaquim excludes Serra do Rio do Rastro. Ubajara and Sete Cidades deferred as components of existing tentative Caatinga serial property (https://whc.unesco.org/en/tentativelists/6896/); prior PETAR, Bocaina, Mamirauá, Bodoquena and Roraima deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
+
+### Pass 245 — Brazil pilgrimage, archaeology, wetland and regional culture
+
+- [x] BR — Aparecida National Sanctuary and Historic Basilica Pilgrimage Circuit: 92.55/100 (source-linked-unverified).
+- [x] BR — Monte Alegre State Park Amazon Prehistoric Rock Art and Sandstone Landscapes: 91.05/100 (source-linked-unverified).
+- [x] BR — Viruá National Park Roraima Wetland Forest and Birdwatching: 90.30/100 (source-linked-unverified).
+- [x] BR — Festa do Peão de Barretos Rodeo Music and Rural Cultural Festival: 90.60/100 (source-linked-unverified).
+- [x] BR — Holambra Expoflora Flower Exhibition and Dutch-Brazilian Cultural Festival: 88.85/100 (source-linked-unverified).
+- [x] BR — Paço do Frevo Recife Music and Dance Heritage Museum: 89.35/100 (source-linked-unverified).
+- [x] BR — Alcântara Maranhão Historic Centre Colonial Ruins and Streets: 86.25/100 (desk-based provisional).
+- [x] BR — Cachoeira and São Félix Recôncavo Historic Towns and River Heritage: 87.40/100 (desk-based provisional).
+- [x] BR — Penedo Alagoas Historic Centre São Francisco River Heritage: 85.85/100 (desk-based provisional).
+- [x] BR — Laranjeiras Sergipe Historic Centre and Afro-Brazilian Cultural Heritage: 85.05/100 (desk-based provisional).
+- [x] BR — Pomerode German-Brazilian Half-Timbered Rural Heritage Route: 86.10/100 (desk-based provisional).
+- [x] BR — Museu da República Catete Palace Rio de Janeiro Political History: 86.60/100 (desk-based provisional).
+- [x] BR — Mercado Municipal São Paulo Food Market and Architecture: 84.35/100 (desk-based provisional).
+- [x] BR — Pico do Jabre Paraíba Mountain Viewpoints and Hiking: 82.30/100 (desk-based provisional).
+- [x] BR — Praia do Cassino Rio Grande Coastal Beach and Dune Landscapes: 82.70/100 (desk-based provisional).
+
+15 additions, 6 source-linked provisional, 9 desk-based provisional, 4 90+, 38 ranking-row comparisons (8 international). BR 189 ranked / 192 total. Aparecida basilicas grouped; permanent Paço do Frevo museum excludes Carnival; Monte Alegre separate from Capivara and Acre; Barretos festival assessed for overall cultural experience, animal welfare not independently reviewed. Expoflora excludes permanent town scenery. Cachoeira and São Félix grouped; Pomerode excludes Blumenau festival. Prior deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.

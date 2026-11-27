@@ -120,7 +120,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Bosnia and Herzegovina](countries/BA/) (`BA`) | [44](countries/BA/cities.md) | [101](countries/BA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bosnia%20and%20Herzegovina) |
 | [Botswana](countries/BW/) (`BW`) | [22](countries/BW/cities.md) | [38](countries/BW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Botswana) |
 | [Bouvet Island](countries/BV/) (`BV`) | [0](countries/BV/cities.md) | [1](countries/BV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bouvet%20Island) |
-| [Brazil](countries/BR/) (`BR`) | [42](countries/BR/cities.md) | [177](countries/BR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Brazil) |
+| [Brazil](countries/BR/) (`BR`) | [42](countries/BR/cities.md) | [192](countries/BR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Brazil) |
 | [British Indian Ocean Territory (Chagos Archipelago)](countries/IO/) (`IO`) | [0](countries/IO/cities.md) | [5](countries/IO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=British%20Indian%20Ocean%20Territory%20%28Chagos%20Archipelago%29) |
 | [Brunei](countries/BN/) (`BN`) | [9](countries/BN/cities.md) | [41](countries/BN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Brunei) |
 | [Bulgaria](countries/BG/) (`BG`) | [18](countries/BG/cities.md) | [46](countries/BG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bulgaria) |

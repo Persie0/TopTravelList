@@ -3769,3 +3769,312 @@ Ranking rows and allowed categories checked; independent coordinate, peer YAML, 
 ### Pass 244 scope decisions
 
 10 additions, 5 source-linked provisional, 5 desk-based provisional, 3 90+, 26 ranking-row comparisons (6 international). BR 174 ranked / 177 total. Yucumã Brazilian bank only, shared falls non-additive. Lagoa do Peixe separate from Taim. São João del-Rei–Tiradentes rail deferral resolved: federally protected railway and independent ride, excludes town architecture. Vale dos Vinhedos excludes Caminhos de Pedra; São Joaquim excludes Serra do Rio do Rastro. Ubajara and Sete Cidades deferred as components of existing tentative Caatinga serial property (https://whc.unesco.org/en/tentativelists/6896/); prior PETAR, Bocaina, Mamirauá, Bodoquena and Roraima deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
+
+## sight-br-aparecida-national-sanctuary — Aparecida National Sanctuary and Historic Basilica Pilgrimage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/aparecida-national-sanctuary.yaml)
+- Action: new
+- Scope: Permanent pilgrimage complex including historic and modern basilicas, grouped to avoid duplication; municipal sources document the scale and transfer of the original image in 1982.
+- Representative coordinates: -22.85, -45.233; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.6 / 9.2 / 9.2.
+- Categories: architecture:9.4 culture:9.4 history:9.3.
+- Overall: 92.55/100.
+- Source: https://www.aparecida.sp.gov.br/portal/turismo/0/9/2696/
+- Source: https://www.aparecida.sp.gov.br/portal/turismo/0/9/2699/basilica-historica
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. Significance 9.6 provisional: national pilgrimage importance and exceptional scale documented; independent global calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sanctuary-of-bom-jesus-do-congonhas](../../../countries/BR/sights/sanctuary-of-bom-jesus-do-congonhas.yaml) | 8.8 / 9.2 / 9.4 / 8.6 / 7.7 | impact: +0.4 vs peer; uniqueness: -0.1 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+| [FR/lourdes-sanctuary](../../../countries/FR/sights/lourdes-sanctuary.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.2 | impact: +0.1 vs peer; uniqueness: -0.2 vs peer |
+| [PT/bom-jesus](../../../countries/PT/sights/bom-jesus.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 8.6 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-monte-alegre-rock-art — Monte Alegre State Park Amazon Prehistoric Rock Art and Sandstone Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/monte-alegre-rock-art.yaml)
+- Action: new
+- Scope: Guided archaeological and sandstone landscape circuit; state management documents ancient paintings, caves and monitored visitation; distinct from Acre and Capivara.
+- Representative coordinates: -2.0, -54.2; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 8.8 / 9.0.
+- Categories: history:9.4 nature:9.2 photography:9.3.
+- Overall: 91.05/100.
+- Source: https://ideflorbio.pa.gov.br/parque-estadual-monte-alegre-pema/
+- Source: https://ideflorbio.pa.gov.br/ideflor-bio-destaca-protagonismo-comunitario-e-preservacao-no-parque-de-monte-alegre/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/serra-da-capivara-national-park](../../../countries/BR/sights/serra-da-capivara-national-park.yaml) | 8.9 / 9.4 / 9.7 / 8.5 / 8.8 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/geoglyphs-of-acre](../../../countries/BR/sights/geoglyphs-of-acre.yaml) | 8.0 / 9.1 / 9.4 / 8.0 / 7.8 | impact: +1.0 vs peer; uniqueness: +0.2 vs peer |
+| [PT/coa-rock-art](../../../countries/PT/sights/coa-rock-art.yaml) | 8.4 / 9.3 / 9.5 / 8.7 / 8.8 | impact: +0.6 vs peer; uniqueness: +0.0 vs peer |
+| [MX/sierra-de-san-francisco-rock-paintings](../../../countries/MX/sights/sierra-de-san-francisco-rock-paintings.yaml) | 8.7 / 9.1 / 9.3 / 8.2 / 8.3 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-virua-national-park — Viruá National Park Roraima Wetland Forest and Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/virua-national-park.yaml)
+- Action: new
+- Scope: Distinct northern Amazon wetland and forest ecosystems with documented trails, flooded forest boardwalk and nonmotorized or electric lake excursions; not a Central Amazon UNESCO component.
+- Representative coordinates: 1.3, -61.15; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.2 / 8.9 / 9.1.
+- Categories: nature:9.4 wildlife:9.4 photography:9.2.
+- Overall: 90.30/100.
+- Source: https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/parna-do-virua/informacoes-sobre-visitacao-2013-parna-do-virua
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/cristalino-reserve](../../../countries/BR/sights/cristalino-reserve.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [BR/lagoa-do-peixe](../../../countries/BR/sights/lagoa-do-peixe.yaml) | 8.8 / 9.1 / 9.4 / 8.8 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [FR/camargue](../../../countries/FR/sights/camargue.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-barretos-festa-do-peao — Festa do Peão de Barretos Rodeo Music and Rural Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/barretos-festa-do-peao.yaml)
+- Action: new
+- Scope: Annual festival combining rural traditions, rodeo and musical performances; animal welfare considerations not independently reviewed; no individual activity endorsement.
+- Representative coordinates: -20.52, -48.6; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.3 history:9.2 nightlife:9.3.
+- Overall: 90.60/100.
+- Source: https://turismo.barretos.sp.gov.br/atrativos-turisticos
+- Source: https://barretos.sp.gov.br/barretos/festa-do-peao
+- Source: https://www.turismo.sp.gov.br/sec_turismo/noticias/festa%2Bdo%2Bpeao%2Blugares%2Bna%2Bregiao%2Bde%2Bbarretos%2Bpara%2Bconhecer
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/blumenau-oktoberfest](../../../countries/BR/sights/blumenau-oktoberfest.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.2 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-holambra-expoflora — Holambra Expoflora Flower Exhibition and Dutch-Brazilian Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/holambra-expoflora.yaml)
+- Action: new
+- Scope: Seasonal flower exhibition and cultural programme; municipal description identifies major ornamental plant exhibition; permanent town scenery not counted separately.
+- Representative coordinates: -22.63, -47.05; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.8 / 9.1 / 8.9.
+- Categories: photography:9.4 culture:9.2 nature:9.1.
+- Overall: 88.85/100.
+- Source: https://holambra.sp.gov.br/turismo/
+- Source: https://www.holambra.sp.gov.br/noticia/turismo-e-cultura/2973/novo-horario-de-onibus-entre-holambra-e-sao-paulo-sera-disponibilizado-durante-a-expoflora.html
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/blumenau-oktoberfest](../../../countries/BR/sights/blumenau-oktoberfest.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/campos-jordao-winter-festival](../../../countries/BR/sights/campos-jordao-winter-festival.yaml) | 8.9 / 9.0 / 9.2 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+| [NL/keukenhof](../../../countries/NL/sights/keukenhof.yaml) | 9.2 / 9.1 / 8.1 / 9.1 / 8.5 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [CA/canadian-tulip-festival](../../../countries/CA/sights/canadian-tulip-festival.yaml) | 8.6 / 8.6 / 8.7 / 8.8 / 8.5 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-paco-do-frevo — Paço do Frevo Recife Music and Dance Heritage Museum — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/paco-do-frevo.yaml)
+- Action: new
+- Scope: Permanent museum and interpretation of UNESCO-listed intangible Frevo tradition; excludes Carnival street events.
+- Representative coordinates: -8.063, -34.871; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.6 / 9.1 / 9.3 / 8.8 / 9.0.
+- Categories: culture:9.4 history:9.3 family:9.1.
+- Overall: 89.35/100.
+- Source: https://visite.museus.gov.br/instituicoes/paco-do-frevo/
+- Source: https://www2.recife.pe.gov.br/servico/paco-do-frevo?op=NTY0Nw%3D%3D
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: -0.6 vs peer; uniqueness: -0.2 vs peer |
+| [BR/cais-do-sertao](../../../countries/BR/sights/cais-do-sertao.yaml) | 8.7 / 8.9 / 8.9 / 8.8 / 8.8 | impact: -0.1 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-alcantara-historic-centre — Alcântara Maranhão Historic Centre Colonial Ruins and Streets — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/alcantara-historic-centre.yaml)
+- Action: new
+- Scope: Historic urban ensemble across the bay from São Luís; excludes any restricted aerospace facilities.
+- Representative coordinates: -2.41, -44.415; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.3 / 8.5.
+- Categories: history:9.3 architecture:9.2 photography:9.1.
+- Overall: 86.25/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/historic-centre-of-sao-luis](../../../countries/BR/sights/historic-centre-of-sao-luis.yaml) | 8.5 / 9.1 / 9.3 / 7.9 / 8.2 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+| [BR/lapa-historic-centre](../../../countries/BR/sights/lapa-historic-centre.yaml) | 8.3 / 8.6 / 8.9 / 8.5 / 8.7 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-cachoeira-sao-felix — Cachoeira and São Félix Recôncavo Historic Towns and River Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/cachoeira-sao-felix.yaml)
+- Action: new
+- Scope: Connected historic riverside towns treated as one regional circuit, excludes Salvador built heritage.
+- Representative coordinates: -12.6, -38.97; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.6 / 8.7.
+- Categories: history:9.3 culture:9.3 architecture:9.2.
+- Overall: 87.40/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sao-joao-del-rei-historic-centre](../../../countries/BR/sights/sao-joao-del-rei-historic-centre.yaml) | 8.7 / 8.7 / 9.1 / 8.7 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [BR/historic-centre-of-goias](../../../countries/BR/sights/historic-centre-of-goias.yaml) | 8.1 / 8.7 / 9.1 / 8.1 / 7.6 | impact: +0.5 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-penedo-historic-centre — Penedo Alagoas Historic Centre São Francisco River Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/penedo-historic-centre.yaml)
+- Action: new
+- Scope: Historic riverside ensemble distinct from Xingó canyon excursions.
+- Representative coordinates: -10.29, -36.58; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.8 / 8.5 / 8.5.
+- Categories: history:9.2 architecture:9.2 photography:9.1.
+- Overall: 85.85/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/lapa-historic-centre](../../../countries/BR/sights/lapa-historic-centre.yaml) | 8.3 / 8.6 / 8.9 / 8.5 / 8.7 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+| [BR/xingo-canyon](../../../countries/BR/sights/xingo-canyon.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.7 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-laranjeiras-historic-centre — Laranjeiras Sergipe Historic Centre and Afro-Brazilian Cultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/laranjeiras-historic-centre.yaml)
+- Action: new
+- Scope: Built and interpreted cultural heritage, separate from São Cristóvão; no specific festival inclusion.
+- Representative coordinates: -10.8, -37.17; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.7 / 8.8 / 8.4 / 8.5.
+- Categories: history:9.2 culture:9.2 architecture:9.1.
+- Overall: 85.05/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sao-francisco-square-sao-cristovao](../../../countries/BR/sights/sao-francisco-square-sao-cristovao.yaml) | 7.7 / 8.4 / 9.0 / 8.0 / 6.8 | impact: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [BR/pirenopolis-historic-centre](../../../countries/BR/sights/pirenopolis-historic-centre.yaml) | 8.6 / 8.6 / 8.8 / 8.7 / 8.7 | impact: -0.4 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-pomerode-heritage — Pomerode German-Brazilian Half-Timbered Rural Heritage Route — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/pomerode-heritage.yaml)
+- Action: new
+- Scope: Rural half-timbered architecture and immigrant heritage, not the Blumenau Oktoberfest event.
+- Representative coordinates: -26.74, -49.18; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.5 / 8.8 / 8.7.
+- Categories: architecture:9.3 culture:9.2 food:9.0.
+- Overall: 86.10/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/caminhos-de-pedra](../../../countries/BR/sights/caminhos-de-pedra.yaml) | 8.3 / 8.7 / 8.8 / 8.8 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [BR/paranapiacaba-railway-village](../../../countries/BR/sights/paranapiacaba-railway-village.yaml) | 7.8 / 8.5 / 8.5 / 7.9 / 7.4 | impact: +0.6 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-museu-da-republica-catete — Museu da República Catete Palace Rio de Janeiro Political History — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/museu-da-republica-catete.yaml)
+- Action: new
+- Scope: Museum collections and palace gardens; excludes broader Rio landscape experience.
+- Representative coordinates: -22.926, -43.176; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 9.0 / 8.6 / 8.7.
+- Categories: history:9.3 architecture:9.2 culture:9.1.
+- Overall: 86.60/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/imperial-museum-petropolis](../../../countries/BR/sights/imperial-museum-petropolis.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [BR/museu-ipiranga](../../../countries/BR/sights/museu-ipiranga.yaml) | 8.9 / 8.8 / 9.3 / 9.0 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-mercado-municipal-sao-paulo — Mercado Municipal São Paulo Food Market and Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/mercado-municipal-sao-paulo.yaml)
+- Action: new
+- Scope: Permanent food market, local cuisine and architecture, not a general city food ranking.
+- Representative coordinates: -23.541, -46.63; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.3 / 8.5 / 8.8 / 8.2.
+- Categories: food:9.3 culture:9.1 architecture:9.0.
+- Overall: 84.35/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/mercado-ver-o-peso](../../../countries/BR/sights/mercado-ver-o-peso.yaml) | 8.1 / 8.9 / 8.5 / 8.2 / 7.7 | impact: +0.3 vs peer; uniqueness: -0.6 vs peer |
+| [BR/museu-lingua-portuguesa](../../../countries/BR/sights/museu-lingua-portuguesa.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | impact: -0.5 vs peer; uniqueness: -1.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-pico-do-jabreu — Pico do Jabre Paraíba Mountain Viewpoints and Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/pico-do-jabreu.yaml)
+- Action: new
+- Scope: Regional mountain trail; approximate representative point, no route or access guarantee.
+- Representative coordinates: -7.26, -37.39; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.0 / 8.2 / 8.1.
+- Categories: nature:8.9 photography:9.0 adventure:8.8.
+- Overall: 82.30/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/serra-da-piedade](../../../countries/BR/sights/serra-da-piedade.yaml) | 8.6 / 8.7 / 8.8 / 8.8 / 8.5 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [BR/serra-do-papagaio](../../../countries/BR/sights/serra-do-papagaio.yaml) | 8.7 / 8.6 / 8.4 / 8.5 / 8.8 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-praia-do-cassino — Praia do Cassino Rio Grande Coastal Beach and Dune Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/praia-do-cassino.yaml)
+- Action: new
+- Scope: Main coastal visitor beach and dune landscapes near Rio Grande; excludes Taim ecological station.
+- Representative coordinates: -32.19, -52.16; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.5 / 7.8 / 8.5 / 8.2.
+- Categories: beaches:9.1 photography:9.0 nature:8.9.
+- Overall: 82.70/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/sao-miguel-dos-milagres](../../../countries/BR/sights/sao-miguel-dos-milagres.yaml) | 8.7 / 8.4 / 8.0 / 8.8 / 8.5 | impact: -0.4 vs peer; uniqueness: +0.1 vs peer |
+| [BR/canoa-quebrada](../../../countries/BR/sights/canoa-quebrada.yaml) | 8.8 / 8.6 / 8.3 / 8.8 / 8.5 | impact: -0.5 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 245 scope decisions
+
+15 additions, 6 source-linked provisional, 9 desk-based provisional, 4 90+, 38 ranking-row comparisons (8 international). BR 189 ranked / 192 total. Aparecida basilicas grouped; permanent Paço do Frevo museum excludes Carnival; Monte Alegre separate from Capivara and Acre; Barretos festival assessed for overall cultural experience, animal welfare not independently reviewed. Expoflora excludes permanent town scenery. Cachoeira and São Félix grouped; Pomerode excludes Blumenau festival. Prior deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.

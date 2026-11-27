@@ -1,0 +1,16 @@
+id: sight-br-virua-national-park
+name: "Viruá National Park Roraima Wetland Forest and Birdwatching"
+location:
+  country_code: BR
+  latitude: 1.3
+  longitude: -61.15
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.2
