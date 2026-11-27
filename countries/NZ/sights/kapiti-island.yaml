@@ -1,0 +1,16 @@
+id: sight-nz-kapiti-island
+name: "Kapiti Island Nature Reserve Guided Birdwatching and Kiwi Tours"
+location:
+  country_code: NZ
+  latitude: -40.85
+  longitude: 174.92
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 9.1
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.2

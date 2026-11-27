@@ -3614,3 +3614,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] NZ — Kaituna River Guided Whitewater Rafting: 87.85/100 (desk-based provisional).
 
 18 additions, 6 desk-based provisional, 12 source-linked, 9 90+, 45 ranking-row comparisons including 9 international. NZ 74 ranked / 76 total. NZ reopened on concrete omissions: Poor Knights, Mount John and TranzAlpine. Five named multi-day trek routes separately scoped from parent parks, not additive to parent; legacy overlap unresolved. Whanganui Journey deferred: existing park scope explicitly includes authorized river journeys (https://www.doc.govt.nz/whanganuijourney). Abel Tasman Coast Track deferred because existing park scope includes coastal forest trails. Mount John excludes shoreline; Ruakuri tubing excludes named Waitomo Glowworm Cave. TranzAlpine service notices describe a rail/bus substitution; intrinsic full-route rating separate from current operation. Existing two unassessed remote island entries and all prior scores preserved. Next: remaining North and South Island cultural, adventure and scenic experiences. Independent validation pending.
+
+### Pass 211 — New Zealand cycling, conservation, culture and adventure
+
+- [x] NZ — Sanctuary Mountain Maungatautari Native Forest and Wildlife Sanctuary: 91.75/100 (source-linked-unverified).
+- [x] NZ — Alps 2 Ocean End-to-End Cycle Trail: 91.15/100 (source-linked-unverified).
+- [x] NZ — Kapiti Island Nature Reserve Guided Birdwatching and Kiwi Tours: 91.30/100 (source-linked-unverified).
+- [x] NZ — Lake Waikaremoana Great Walk Te Urewera: 90.80/100 (source-linked-unverified).
+- [x] NZ — Te Pā Tū Rotorua Māori Cultural and Kai Experience: 90.85/100 (source-linked-unverified).
+- [x] NZ — Otago Central Rail Trail Multi-Day Cycling Journey: 90.45/100 (source-linked-unverified).
+- [x] NZ — Tuatapere Hump Ridge Track Multi-Day Great Walk: 90.25/100 (source-linked-unverified).
+- [x] NZ — Kawarau Bridge Original Commercial Bungy Jump: 90.30/100 (source-linked-unverified).
+- [x] NZ — Shotover Canyons Guided Jet Boat Experience Queenstown: 89.35/100 (source-linked-unverified).
+- [x] NZ — Nevis Bungy Queenstown Canyon Jump: 88.40/100 (source-linked-unverified).
+- [x] NZ — Te Kauwae-a-Māui Cape Kidnappers Guided Gannet Colony Visit: 88.45/100 (source-linked-unverified).
+- [x] NZ — Queenstown to Glenorchy Lake Wakatipu Scenic Drive: 87.70/100 (desk-based provisional).
+- [x] NZ — Lake Pūkaki Alpine Lake Shoreline and Viewpoints: 87.35/100 (desk-based provisional).
+- [x] NZ — Kura Tāwhiti Castle Hill Limestone Rock Formations: 87.80/100 (desk-based provisional).
+- [x] NZ — Orokonui Ecosanctuary Dunedin Native Forest and Wildlife: 87.30/100 (desk-based provisional).
+- [x] NZ — Skyline Queenstown Gondola and Bob's Peak Luge: 86.30/100 (desk-based provisional).
+- [x] NZ — Buried Village of Te Wairoa Archaeological Museum Rotorua: 86.80/100 (desk-based provisional).
+- [x] NZ — Otago Peninsula Sandfly Bay and Allans Beach Coastal Walks: 86.20/100 (desk-based provisional).
+
+18 additions, 7 desk-based provisional, 11 source-linked, 8 90+, 44 ranking-row comparisons including 8 international. NZ 92 ranked / 94 total. Hump Ridge separately scoped multi-day trek, Fiordland parent overlap flagged. Te Urewera named walk respects local governance. Alps 2 Ocean and Lake Pukaki shoreline distinct but overlap geographically; non-additive. Kawarau and Nevis differ in historical significance and venue, not grouped; no current operating guarantee. Cape Kidnappers uses overland visitor option rather than hazardous beach access. Whanganui and Abel Tasman parent scope deferrals retained; glacier heli-hiking deferred pending physical-condition and parent-scope review. Existing two unassessed remote island entries and all prior scores preserved. Next: targeted regional and remaining cultural screen. Independent validation pending.
