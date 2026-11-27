@@ -1,0 +1,10 @@
+# Pass 190 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial estimates based on retrieved UNESCO individual listing and tentative nomination. Hypothetical lawful conservation-compatible viewing only, no present admission or safety claim. Existing numeric fields and coordinates retained. Qualitative comparisons only; numerical peer calibration pending.
+
+## BF/sights/wempea-rock-engravings
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/6937/. Multiple nominated western engraving locations, interpreted through authorized observation of conserved panels. Regional geometric motifs documented; no guarantee that all panels are visible. Potential spatial overlap with Dramandougou flagged. Comparisons: Less extensive rock-art landscape than Twyfelfontein; less dramatic geology than Gobustan; less concentrated figurative paintings than Lascaux; less established visitor interpretation than Tanum. I/U/S/E/D: 7.5, 8.5, 8.7, 7.8, 8.3. Overall 81.15.
+
+## BF/sights/yamane-metallurgy
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/list/1602/ ; https://whc.unesco.org/en/list/1602/maps/. Individual later iron-production component with preserved furnace heritage and local smithing tradition. Hypothetical supervised observation and explanation; no promised demonstration or access to excavations. Comparisons: Less imposing than Zollverein; less extensive mining landscape than Rammelsberg; less varied industrial fabric than Ironbridge; less extensive exposed settlement fabric than Great Zimbabwe. I/U/S/E/D: 7.8, 8.7, 8.6, 8, 8.5. Overall 82.85.
+
+6 null-only core fields filled. Total: 20 records, 56 missing core fields (16 with three missing and 4 with two), 80 qualitative comparisons. Existing numerical fields and coordinates retained. Seven Burkina Faso backlog records remain (five settlements, two rock-art umbrella records). No 90+ scores. Full validation, numeric peer calibration, ranking regeneration and merging pending. No Actions manually dispatched.
