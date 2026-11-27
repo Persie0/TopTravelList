@@ -1,0 +1,17 @@
+id: sight-gr-chios-mastic-museum
+name: "Chios Mastic Museum"
+location:
+  country_code: GR
+  latitude: 38.2152
+  longitude: 26.01262
+scores:
+  impact: 8.4
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 9.3
+    history: 9.0
+    food: 9.0
+    family: 8.9

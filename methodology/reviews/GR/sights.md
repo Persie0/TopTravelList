@@ -3803,3 +3803,276 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-gr-ancient-thera — Ancient Thera Archaeological Site Santorini — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/ancient-thera.yaml)
+- Action: new
+- Precise subject and limitations: Mesa Vouno ancient city ruins and hilltop views; excludes Akrotiri and caldera landscape. Official site describes visitor route but homepage https://www.hh.gr/en/ reports closure; no current access assumed.
+- Location check: 36.36332, 25.4793; [published representative point](https://mapcarta.com/28614172), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hh.gr/en/destinations/ancient-thera/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/ancient-kamiros](../../../countries/GR/sights/ancient-kamiros.yaml) | 8.7 / 8.8 / 9.0 / 8.7 / 8.8 | impact: +0.2 vs peer; depth: +0.1 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | significance: -0.2 vs peer; experience: -0.1 vs peer. |
+| [GR/akrotiri](../../../countries/GR/sights/akrotiri.yaml) | 8.9 / 9.3 / 9.4 / 8.9 / 8.7 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer. |
+| [IT/segesta-archaeological-park](../../../countries/IT/sights/segesta-archaeological-park.yaml) | 9.0 / 8.9 / 9.1 / 8.8 / 8.7 | depth: +0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dramatic hilltop ruins and views. |
+| Uniqueness | 8.8 | Distinct island city layout. |
+| Significance | 9.0 | Important archaic through Roman heritage. |
+| Experience | 8.7 | Established archaeological walking route. |
+| Depth | 8.9 | Multiple streets, sanctuaries and public structures. |
+
+- Applicable categories: history:9.3, architecture:9.1, photography:9.2.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-archaeological-museum-thera — Archaeological Museum of Thera Santorini — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/archaeological-museum-thera.yaml)
+- Action: new
+- Precise subject and limitations: Archaic and later island artefacts including the Kore; renovated museum reopened June 2026 according to Hellenic Heritage. Separate from Museum of Prehistoric Thera and Ancient Thera ruins.
+- Location check: 36.42011, 25.43104; [published representative point](https://www.allovergreece.com/Museum/Descr/175/en), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hh.gr/en/destinations/thera-museum/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/museum-prehistoric-thera](../../../countries/GR/sights/museum-prehistoric-thera.yaml) | 8.8 / 9.2 / 9.3 / 8.8 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [GR/cycladic-art-museum](../../../countries/GR/sights/cycladic-art-museum.yaml) | 8.8 / 9.2 / 9.2 / 8.8 / 8.8 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/thessaloniki-archaeological-museum](../../../countries/GR/sights/thessaloniki-archaeological-museum.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 9.0 | depth: -0.6 vs peer; impact: -0.3 vs peer. |
+| [IT/bargello-national-museum](../../../countries/IT/sights/bargello-national-museum.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.9 | depth: -0.5 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Strong ancient sculpture and artefacts. |
+| Uniqueness | 8.9 | Distinct post-prehistoric island collection. |
+| Significance | 9.0 | Significant archaic heritage. |
+| Experience | 8.7 | Dedicated exhibition visit. |
+| Depth | 8.4 | Focused regional collection. |
+
+- Applicable categories: history:9.3, culture:9.2, architecture:8.5.
+- Computed worldwide overall: 87.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-symi-historic-harbour — Symi Gialos Harbour and Neoclassical Town — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/symi-historic-harbour.yaml)
+- Action: new
+- Precise subject and limitations: Gialos waterfront and adjoining neoclassical settlement streets grouped; marina representative point, not entire island or Panormitis monastery.
+- Location check: 36.61601, 27.83681; [published representative point](https://mapcarta.com/N4219292365), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/islands/dodecanese/symi); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/chania-venetian-harbour](../../../countries/GR/sights/chania-venetian-harbour.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 8.7 | significance: -0.2 vs peer; impact: +0.1 vs peer. |
+| [GR/nafplio-historic-centre](../../../countries/GR/sights/nafplio-historic-centre.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 8.8 | significance: -0.4 vs peer; impact: +0.2 vs peer. |
+| [IT/bosa-historic-centre](../../../countries/IT/sights/bosa-historic-centre.yaml) | 8.7 / 8.7 / 8.5 / 8.8 / 8.6 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/corfu-old-town](../../../countries/GR/sights/corfu-old-town.yaml) | 9.2 / 9.1 / 9.2 / 9.1 / 9.0 | significance: -0.7 vs peer; depth: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking harbour framed by colourful houses. |
+| Uniqueness | 8.9 | Distinct neoclassical island townscape. |
+| Significance | 8.5 | Regional maritime heritage. |
+| Experience | 8.9 | Established waterfront and town walks. |
+| Depth | 8.6 | Multiple streets and viewpoints. |
+
+- Applicable categories: architecture:9.3, photography:9.4, culture:9.1, history:8.9.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-acheron-springs — Acheron Springs and River Gorge Glyki — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/acheron-springs.yaml)
+- Action: new
+- Precise subject and limitations: Springs and accessible riverside paths near Glyki; river walking or rafting conditional on conditions and operator advice. Excludes downstream necromanteion and entire river basin.
+- Location check: 39.32822, 20.61923; [published representative point](https://www.allovergreece.com/Region-Nature/Spring/2/en), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/nature/rivers/acherodas-river); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/vikos](../../../countries/GR/sights/vikos.yaml) | 9.2 / 9.0 / 8.8 / 8.9 / 8.7 | significance: -0.5 vs peer; impact: -0.4 vs peer. |
+| [GR/samaria](../../../countries/GR/sights/samaria.yaml) | 9.3 / 9.1 / 8.8 / 9.0 / 8.8 | impact: -0.5 vs peer; significance: -0.5 vs peer. |
+| [PT/mondego-walkways](../../../countries/PT/sights/mondego-walkways.yaml) | 8.6 / 8.4 / 8.1 / 8.9 / 8.6 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer. |
+| [IT/zingaro-nature-reserve](../../../countries/IT/sights/zingaro-nature-reserve.yaml) | 9.0 / 8.8 / 8.5 / 9.0 / 8.7 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Clear river and steep wooded gorge. |
+| Uniqueness | 8.7 | Distinct spring-fed canyon setting. |
+| Significance | 8.3 | Regional natural and mythological heritage. |
+| Experience | 8.9 | Established walking and conditional water activities. |
+| Depth | 8.6 | Several connected natural features. |
+
+- Applicable categories: nature:9.2, adventure:9.2, photography:9.2.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-kastria-cave-lakes — Cave of the Lakes Kastria — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/kastria-cave-lakes.yaml)
+- Action: new
+- Precise subject and limitations: Developed underground visitor circuit with tiered lakes and bridges, distinct from general Chelmos-Vouraikos landscape rating; cave is explicitly a geopark geosite https://www.kastriacave.gr/en/geopark.html. No assumption all 13 lakes are visited.
+- Location check: 37.960516, 22.140307; [published representative point](https://www.religiousgreece.gr/en/attractions/cave-lakes), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/nature/caves/cave-of-the-lakes); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/diros-caves](../../../countries/GR/sights/diros-caves.yaml) | 9.0 / 9.0 / 8.6 / 9.0 / 8.8 | depth: -0.3 vs peer; experience: -0.2 vs peer. |
+| [GR/melissani-lake-cave](../../../countries/GR/sights/melissani-lake-cave.yaml) | 9.2 / 9.1 / 8.3 / 8.8 / 7.8 | depth: +0.7 vs peer; impact: -0.3 vs peer. |
+| [IT/castellana-caves](../../../countries/IT/sights/castellana-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.7 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer. |
+| [PT/gruta-das-torres](../../../countries/PT/sights/gruta-das-torres.yaml) | 8.8 / 8.9 / 8.6 / 8.6 / 8.3 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinctive underground lakes and formations. |
+| Uniqueness | 9.1 | Unusual multi-level lake system. |
+| Significance | 8.5 | Important regional karst geology. |
+| Experience | 8.8 | Established bridge and walking route. |
+| Depth | 8.5 | Bounded developed cave circuit. |
+
+- Applicable categories: nature:9.3, photography:9.1, adventure:9.0.
+- Computed worldwide overall: 88.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-chios-mastic-museum — Chios Mastic Museum — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/chios-mastic-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated museum of cultivation and processing traditions at Pyrgi, separate from Mesta and Pyrgi street ensembles. No duplicate rating of village architecture.
+- Location check: 38.2152, 26.01262; [published representative point](https://mapcarta.com/W425736860), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.piop.gr/en/diktuo-mouseion/chios-mastic-museum/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/chios-mastic-villages](../../../countries/GR/sights/chios-mastic-villages.yaml) | 8.8 / 9.1 / 8.9 / 8.9 / 8.8 | impact: -0.4 vs peer; depth: -0.2 vs peer. |
+| [GR/greek-folk-musical-instruments-museum](../../../countries/GR/sights/greek-folk-musical-instruments-museum.yaml) | 8.1 / 8.8 / 8.5 / 8.7 / 8.1 | depth: +0.5 vs peer; impact: +0.3 vs peer. |
+| [PT/gorreana-tea-plantation](../../../countries/PT/sights/gorreana-tea-plantation.yaml) | 8.6 / 8.9 / 8.5 / 8.8 / 8.4 | significance: +0.3 vs peer; impact: -0.2 vs peer. |
+| [GR/benaki-museum-greek-culture](../../../countries/GR/sights/benaki-museum-greek-culture.yaml) | 8.8 / 8.9 / 9.2 / 8.9 / 9.1 | depth: -0.5 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Engaging specialized exhibits. |
+| Uniqueness | 9.0 | Distinct mastic production tradition. |
+| Significance | 8.8 | Important regional intangible heritage. |
+| Experience | 8.8 | Dedicated museum and interpretation. |
+| Depth | 8.6 | Several cultivation and processing themes. |
+
+- Applicable categories: culture:9.3, history:9.0, food:9.0, family:8.9.
+- Computed worldwide overall: 87.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-stavros-niarchos-cultural-center — Stavros Niarchos Foundation Cultural Center and Park Athens — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/stavros-niarchos-cultural-center.yaml)
+- Action: new
+- Precise subject and limitations: Renzo Piano cultural complex, public park and designated interior tours grouped; performances and guided interior access conditional. Greek National Opera description https://www.nationalopera.gr/en/snfcc.
+- Location check: 37.94098, 23.69307; [published representative point](https://mapcarta.com/W265733746), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.thisisathens.org/attractions/stavros-niarchos-foundation-cultural-centre); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/maat-lisbon](../../../countries/PT/sights/maat-lisbon.yaml) | 8.7 / 8.9 / 8.7 / 8.8 / 8.8 | uniqueness: -0.2 vs peer; experience: +0.2 vs peer. |
+| [PT/serralves-art-park](../../../countries/PT/sights/serralves-art-park.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 9.0 | significance: -0.3 vs peer; experience: +0.1 vs peer. |
+| [IT/mole-antonelliana](../../../countries/IT/sights/mole-antonelliana.yaml) | 8.9 / 9.0 / 8.7 / 9.0 / 8.8 | uniqueness: -0.3 vs peer; impact: -0.1 vs peer. |
+| [GR/benaki-museum-greek-culture](../../../countries/GR/sights/benaki-museum-greek-culture.yaml) | 8.8 / 8.9 / 9.2 / 8.9 / 9.1 | significance: -0.6 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Striking contemporary architecture and grounds. |
+| Uniqueness | 8.7 | Distinct cultural complex and landscaped roof. |
+| Significance | 8.6 | Significant modern Greek cultural institution. |
+| Experience | 9.0 | Established public park and tours. |
+| Depth | 8.9 | Multiple connected cultural and recreation spaces. |
+
+- Applicable categories: architecture:9.3, culture:9.1, family:9.1, relaxation:9.0.
+- Computed worldwide overall: 87.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

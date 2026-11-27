@@ -1113,3 +1113,15 @@ Eight additions, 32 peer rows. Greece 96 ranked / 97 total. Olympieion and Hadri
 - [x] GR — Lake Plastiras and Shoreline Trails: 84.90/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Greece 103 ranked / 104 total. Messolonghi lagoon skipped as existing park scope; Mesta and Pyrgi grouped; Mykonos adjacent waterfront and windmills grouped; Thera museum separate from Akrotiri; Nisyros crater only. Next bounded screen: Ancient Thera, Archaeological Museum of Thera, Symi harbour, Acheron Springs, Cave of the Lakes at Kastria (park overlap check), Chios Mastic Museum and Athens Stavros Niarchos cultural centre. Full Python validation pending.
+
+### Pass 97 — final bounded Greek discovery screen
+
+- [x] GR — Ancient Thera Archaeological Site Santorini: 88.65/100 (source-linked-unverified).
+- [x] GR — Archaeological Museum of Thera Santorini: 87.50/100 (source-linked-unverified).
+- [x] GR — Symi Gialos Harbour and Neoclassical Town: 88.20/100 (source-linked-unverified).
+- [x] GR — Acheron Springs and River Gorge Glyki: 86.70/100 (source-linked-unverified).
+- [x] GR — Cave of the Lakes Kastria: 88.15/100 (source-linked-unverified).
+- [x] GR — Chios Mastic Museum: 87.10/100 (source-linked-unverified).
+- [x] GR — Stavros Niarchos Foundation Cultural Center and Park Athens: 87.75/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Greece 110 ranked / 111 total, 46 additions since pass 92; current named queue DONE (18 closed queues). Ancient Thera closure notice conflicts with routine hours; established experience scored, no access promise. Archaeological Museum of Thera reopened June 2026 according to Hellenic Heritage; separate from prehistoric museum. Cave of the Lakes distinct developed cave experience, Chios museum distinct from villages. Next unscreened country. Full Python validation pending.
