@@ -1543,3 +1543,15 @@ Seven additions, 28 peer rows. France 208 ranked / 219 total; 11 existing unasse
 - [x] FR — Guérande salt marshes: already present at 87.40/100 (guerande.yaml); no duplicate or rescore.
 
 Six additions, 24 peer rows. France 214 ranked / 225 total; 11 existing unassessed unchanged. Medieval Guérande distinct from salt marshes; Escal’Atlantic excludes Espadon; Cadre Noir UNESCO status is intangible tradition, not a World Heritage property; Bioparc captive animal experience; invalid Cirkwi coordinates rejected. Next bounded screen: Espadon submarine Saint-Nazaire, Parc Oriental de Maulévrier, Château de Montsoreau, Château de Serrant, Château du Plessis-Bourré, Angers Musée des Beaux-Arts, and Brière marsh boat trails (scope and duplicate checks). Full Python validation pending.
+
+### Pass 133 — Loire museums, gardens, castles and Brière wetlands
+
+- [x] FR — Espadon Submarine Museum Saint-Nazaire: 87.80/100 (source-linked-unverified).
+- [x] FR — Parc Oriental de Maulévrier Japanese Landscape Garden: 88.60/100 (source-linked-unverified).
+- [x] FR — Château de Montsoreau and Contemporary Art Museum: 88.60/100 (source-linked-unverified).
+- [x] FR — Château de Serrant Castle and Historic Collections: 88.45/100 (source-linked-unverified).
+- [x] FR — Château du Plessis-Bourré Moated Castle: 88.95/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts d’Angers Fine Arts Museum: 87.55/100 (source-linked-unverified).
+- [x] FR — Brière Marsh Traditional Boat Trails: 87.25/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 221 ranked / 232 total; 11 existing unassessed unchanged. Espadon separate from Escal’Atlantic; conflicting Espadon and Plessis-Bourré coordinates recorded and corroborated alternatives used; Montsoreau independent castle museum, not whole Loire landscape; Angers excludes David d’Angers gallery; Brière distinct from Guérande and Poitevin wetlands. Next bounded screen: Nantes Musée d’Arts, Nantes Jardin des Plantes, Nantes Cathedral, Passage du Gois scope check, Château de Tiffauges, Logis de la Chabotterie, and Historial de la Vendée (scope and duplicate checks). Full Python validation pending.

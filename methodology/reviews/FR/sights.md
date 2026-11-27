@@ -8359,3 +8359,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-espadon-submarine — Espadon Submarine Museum Saint-Nazaire — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/espadon-submarine.yaml)
+- Action: new
+- Precise subject and limitations: Actual preserved submarine interior and interpretation, separate from Escal’Atlantic liner museum; no overlap of admission experience.
+- Location check: 47.27557, -2.19892; [published representative point](https://en.pornic.com/booking/ssnztourisme-snzespadon/visite-du-sous-marin-espadon-a-saint-nazaire.html), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.saint-nazaire-tourisme.com/les-visites/les-sites-de-visite/espadon/); indexed excerpts or source text inspected 2026-11-27. Tourist office confirms authentic vessel visit; Pornic tourism GPS corroborated by https://mapcarta.com/N2372996119 (its regional label is erroneous); alternate Batz tourism longitude -2.20383 rejected in favor of consistent vessel location. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/escal-atlantic](../../../countries/FR/sights/escal-atlantic.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | depth: -0.6 vs peer; experience: -0.2 vs peer. |
+| [FR/cite-de-la-mer](../../../countries/FR/sights/cite-de-la-mer.yaml) | 9.0 / 9.2 / 9.0 / 9.1 / 9.2 | depth: -1.0 vs peer; impact: -0.3 vs peer. |
+| [GB/titanic-belfast](../../../countries/GB/sights/titanic-belfast.yaml) | 8.8 / 9.0 / 8.9 / 9.0 / 8.7 | depth: -0.5 vs peer; experience: -0.2 vs peer. |
+| [TR/rahmi-koc-museum-istanbul](../../../countries/TR/sights/rahmi-koc-museum-istanbul.yaml) | 8.9 / 9.0 / 8.9 / 9.1 / 9.2 | depth: -1.0 vs peer; experience: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Memorable confined preserved vessel. |
+| Uniqueness | 9.0 | Distinct authentic submarine interior. |
+| Significance | 8.9 | French naval and exploration history. |
+| Experience | 8.8 | Dedicated onboard visit. |
+| Depth | 8.2 | Focused single vessel. |
+
+- Applicable categories: history:9.2, culture:9.0, family:8.8.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-parc-oriental-maulevrier — Parc Oriental de Maulévrier Japanese Landscape Garden — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/parc-oriental-maulevrier.yaml)
+- Action: new
+- Precise subject and limitations: Japanese-style garden circuit and established seasonal evening experience, no separate night attraction; tourism access point.
+- Location check: 47.00569, -0.74457; [published representative point](https://www.ot-cholet.fr/sites-visites/parc-oriental-de-maulevrier-maulevrier.html), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.parc-oriental.com/visiter-le-parc/); indexed excerpts or source text inspected 2026-11-27. Operator describes classified Japanese garden and seasonal plantings https://www.parc-oriental.com/jardin-de-jour/; Cholet tourism supplies GPS and garden restoration context. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [JP/kenrokuen-garden](../../../countries/JP/sights/kenrokuen-garden.yaml) | 9.2 / 9.3 / 9.0 / 9.3 / 8.8 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [JP/korakuen-garden-okayama](../../../countries/JP/sights/korakuen-garden-okayama.yaml) | 9.0 / 8.9 / 8.8 / 9.1 / 8.7 | significance: -0.3 vs peer; depth: +0.3 vs peer. |
+| [PT/monte-palace-garden](../../../countries/PT/sights/monte-palace-garden.yaml) | 9.0 / 8.9 / 8.5 / 9.0 / 8.9 | impact: -0.1 vs peer; experience: +0.1 vs peer. |
+| [GB/stourhead](../../../countries/GB/sights/stourhead.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.4 | depth: +0.6 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Composed pond and seasonal plant scenery. |
+| Uniqueness | 8.9 | Distinct Japanese-inspired historic garden in Europe. |
+| Significance | 8.5 | Regional garden design and restoration history. |
+| Experience | 9.1 | Dedicated contemplative walking circuit. |
+| Depth | 9.0 | Numerous landscaped vistas. |
+
+- Applicable categories: nature:9.2, photography:9.3, relaxation:9.3, culture:9.0.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-montsoreau — Château de Montsoreau and Contemporary Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-montsoreau.yaml)
+- Action: new
+- Precise subject and limitations: Individual castle and contemporary art collection; nested in Loire Valley landscape but no transfer of parent score, excludes village and river landscape touring.
+- Location check: 47.21549, 0.06266; [published representative point](https://booking.ot-saumur.fr/booking/visits/zschateaumontsoreau.html), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.maine-et-loire.fr/conseil-departemental/patrimoine-immobilier/le-chateau-de-montsoreau); indexed excerpts or source text inspected 2026-11-27. Department describes castle built around 1455 and museum reopening in 2016 with Art & Language collection; Saumur booking site gives GPS. Operator practical details https://www.chateau-montsoreau.com/wordpress/fr/informations-pratiques/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-saumur](../../../countries/FR/sights/chateau-saumur.yaml) | 9.0 / 8.9 / 8.9 / 8.8 / 8.8 | impact: -0.2 vs peer; depth: -0.1 vs peer. |
+| [FR/chateau-angers](../../../countries/FR/sights/chateau-angers.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.2 | depth: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [JP/chichu-art-museum](../../../countries/JP/sights/chichu-art-museum.yaml) | 9.0 / 9.5 / 8.0 / 9.2 / 8.2 | significance: +0.9 vs peer; uniqueness: -0.5 vs peer. |
+| [TR/istanbul-modern](../../../countries/TR/sights/istanbul-modern.yaml) | 8.6 / 8.6 / 8.6 / 8.9 / 8.7 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Riverside castle and art displays. |
+| Uniqueness | 9.0 | Historic residence combined with conceptual art. |
+| Significance | 8.9 | Late medieval residence and contemporary art collection. |
+| Experience | 8.8 | Museum and castle visit. |
+| Depth | 8.7 | Several exhibition spaces. |
+
+- Applicable categories: architecture:9.2, culture:9.3, history:9.1, photography:9.1.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-serrant — Château de Serrant Castle and Historic Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-serrant.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated castle guided visit, furnishings and park where included; excludes unrelated vineyard and general Loire touring. Operator GPS rounded to six decimal places.
+- Location check: 47.41523, -0.744039; [published representative point](https://www.chateau-serrant.net/en/visit), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateau-serrant.net/fr/visiter-un-chateau); indexed excerpts or source text inspected 2026-11-27. Operator describes guided history and furniture collection, park activities and GPS; not a claim all rooms are accessible. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-cheverny](../../../countries/FR/sights/chateau-cheverny.yaml) | 8.9 / 8.9 / 8.7 / 9.0 / 9.0 | significance: +0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/chateau-brissac](../../../countries/FR/sights/chateau-brissac.yaml) | 8.9 / 8.9 / 8.8 / 8.9 / 8.9 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | uniqueness: +0.1 vs peer; impact: -0.1 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | significance: +0.5 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Furnished historic residence. |
+| Uniqueness | 8.8 | Preserved interiors and collection. |
+| Significance | 8.9 | Regional aristocratic history. |
+| Experience | 8.9 | Guided interpretation. |
+| Depth | 8.9 | Multiple decorated spaces and grounds. |
+
+- Applicable categories: architecture:9.2, history:9.2, culture:9.1, photography:9.0.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-plessis-bourre — Château du Plessis-Bourré Moated Castle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-plessis-bourre.yaml)
+- Action: new
+- Precise subject and limitations: Moated castle and documented interior visitor circuit; current closure if any not scored. Excludes broader Loire Valley landscape.
+- Location check: 47.600834, -0.544444; [published representative point](https://guidevoyageur.fr/poi-16354-chateau-du-plessis-bourre), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.plessis-bourre.com/preparer-ma-visite/infos-pratiques/); indexed excerpts or source text inspected 2026-11-27. Operator documents interior visit and preservation. GuideVoyageur GPS consistent with https://commons.wikimedia.org/wiki/Category%3ACh%C3%A2teau_du_Plessis-Bourr%C3%A9; inconsistent coordinates 47.5614,-0.4633 on Chateauxplorer rejected. Outdooractive confirms moated fifteenth-century castle https://www.outdooractive.com/en/poi/angers-loire/plessis-bourre-castle/801485851/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-suscinio](../../../countries/FR/sights/chateau-suscinio.yaml) | 9.0 / 8.9 / 9.0 / 8.9 / 8.8 | depth: -0.1 vs peer; significance: -0.1 vs peer. |
+| [FR/chateau-josselin](../../../countries/FR/sights/chateau-josselin.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.3 vs peer; significance: -0.2 vs peer. |
+| [GB/hampton-court](../../../countries/GB/sights/hampton-court.yaml) | 9.1 / 9.0 / 9.2 / 9.1 / 9.0 | depth: -0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking symmetrical moated setting. |
+| Uniqueness | 8.9 | Coherent late medieval castle design. |
+| Significance | 8.9 | Late medieval French court history. |
+| Experience | 8.8 | Dedicated castle visit. |
+| Depth | 8.7 | Several interior and exterior features. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.3, culture:9.0.
+- Computed worldwide overall: 88.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-angers-fine-arts — Musée des Beaux-Arts d’Angers Fine Arts Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/angers-fine-arts.yaml)
+- Action: new
+- Precise subject and limitations: Fine arts and city history collections in Logis Barrault; excludes independently operated Galerie David d’Angers and castle.
+- Location check: 47.469188, -0.554429; [published representative point](https://data.maine-et-loire.fr/explore/dataset/224900019_musees-en-maine-et-loire/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://musees.angers.fr/lieux/musee-des-beaux-arts); indexed excerpts or source text inspected 2026-11-27. Municipal museum describes permanent galleries and historic mansion; departmental open data supplies museum GPS, distinguishing nearby David d’Angers gallery. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/rouen-fine-arts](../../../countries/FR/sights/rouen-fine-arts.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/petit-palais](../../../countries/FR/sights/petit-palais.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.1 | impact: -0.4 vs peer; experience: -0.3 vs peer. |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [TR/istanbul-modern](../../../countries/TR/sights/istanbul-modern.yaml) | 8.6 / 8.6 / 8.6 / 8.9 / 8.7 | significance: +0.3 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Historic building and quality art galleries. |
+| Uniqueness | 8.7 | Regional collection with comparable museums. |
+| Significance | 8.9 | French fine art and local history. |
+| Experience | 8.8 | Dedicated museum visit. |
+| Depth | 9.0 | Multiple galleries and periods. |
+
+- Applicable categories: culture:9.3, history:9.1, architecture:9.0.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-briere-marsh-boat-trails — Brière Marsh Traditional Boat Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/briere-marsh-boat-trails.yaml)
+- Action: new
+- Precise subject and limitations: Traditional chaland routes in Brière marsh, representative Port de la Chaussée Neuve departure point; excludes Guérande salt marshes, Marais Poitevin and unrelated village activities.
+- Location check: 47.34071, -2.28849; [published representative point](https://www.pornic.com/anthony-mahe-balade-commentee-en-chaland-dans-le-marais-de-briere.html), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.faunebrieronne.fr/); indexed excerpts or source text inspected 2026-11-27. Local operator describes traditional boat and marsh discovery; Pornic tourism describes reed beds, peatlands and GPS of alternative established departure. No guaranteed wildlife sightings. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/marais-poitevin-green-venice](../../../countries/FR/sights/marais-poitevin-green-venice.yaml) | 8.8 / 9.0 / 8.9 / 9.1 / 9.0 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [FR/camargue](../../../countries/FR/sights/camargue.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 9.1 | impact: -0.4 vs peer; significance: -0.4 vs peer. |
+| [GB/broads](../../../countries/GB/sights/broads.yaml) | 8.2 / 8.7 / 8.5 / 8.6 / 8.6 | impact: +0.4 vs peer; experience: +0.3 vs peer. |
+| [PT/ria-formosa](../../../countries/PT/sights/ria-formosa.yaml) | 8.5 / 8.9 / 8.8 / 8.8 / 9.0 | depth: -0.3 vs peer; significance: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Reed beds and open canals. |
+| Uniqueness | 8.8 | Traditional flat-bottomed boat experience. |
+| Significance | 8.7 | Regional wetland and cultural landscape. |
+| Experience | 8.9 | Guided quiet boat routes. |
+| Depth | 8.7 | Several navigable marsh sectors. |
+
+- Applicable categories: nature:9.2, wildlife:9.1, photography:9.1, relaxation:9.2, culture:8.9.
+- Computed worldwide overall: 87.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
