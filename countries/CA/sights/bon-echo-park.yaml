@@ -1,0 +1,16 @@
+id: sight-ca-bon-echo-park
+name: "Bon Echo Provincial Park Mazinaw Lake and Cliffs"
+location:
+  country_code: CA
+  latitude: 44.9
+  longitude: -77.21
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.3
+    history: 9.3
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: sight-ca-glenbow
+name: "Glenbow Museum Calgary Art and Cultural History"
+location:
+  country_code: CA
+  latitude: 51.046
+  longitude: -114.062
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.3
+    architecture: 9.1

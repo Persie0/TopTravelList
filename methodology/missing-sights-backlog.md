@@ -4115,3 +4115,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Coteau-du-Lac National Historic Site Canal and Fortifications: 85.10/100 (desk-based provisional).
 
 18 additions, 12 desk-based provisional, 6 source-linked, 3 90+, 36 domestic ranking-row comparisons. CA 324 ranked / 327 total. Tremblant resort excludes provincial park; Battle Harbour grouped with island walks; Science North and Dynamic Earth grouped. Twin Falls trail closure due to erosion and high-water restrictions recorded, not deducted. Klondike goldfields cluster deferred pending Tr’ondëk-Klondike overlap (https://whc.unesco.org/en/list/1564; https://parks.canada.ca/lhn-nhs/yt/klondike/culture); Broughton Archipelago deferred pending Johnstone Strait and Great Bear overlap (https://bcparks.ca/broughton-archipelago-park/); New Brunswick Museum deferred pending public venue status. Existing scores and three unassessed retained. Coordinates approximate; access not verified. Regional screen remains open; no exhaustive coverage claimed.
+
+### Pass 235 — Canada canoe wilderness, northern parks and cultural festivals
+
+- [x] CA — Quetico Provincial Park Wilderness Canoe Routes: 91.85/100 (source-linked-unverified).
+- [x] CA — Wabakimi Provincial Park Remote Canoe Wilderness: 91.25/100 (source-linked-unverified).
+- [x] CA — Tweedsmuir South Provincial Park Atnarko Wildlife Viewing and Wilderness: 91.70/100 (source-linked-unverified).
+- [x] CA — Montréal Complètement Cirque International Circus Festival: 91.90/100 (source-linked-unverified).
+- [x] CA — Just For Laughs Montréal International Comedy Festival: 91.35/100 (source-linked-unverified).
+- [x] CA — Northern Rocky Mountains Provincial Park Remote Mountain Wilderness: 90.00/100 (source-linked-unverified).
+- [x] CA — Muncho Lake Provincial Park Jade Lake and Mountain Scenery: 88.50/100 (source-linked-unverified).
+- [x] CA — Stone Mountain Provincial Park Summit Lake and Alpine Trails: 86.75/100 (source-linked-unverified).
+- [x] CA — Sunshine Coast Trail qathet Multi-day Hiking: 88.10/100 (desk-based provisional).
+- [x] CA — Strathcona Provincial Park Vancouver Island Alpine Wilderness: 88.65/100 (desk-based provisional).
+- [x] CA — Cathedral Provincial Park Alpine Lakes and Ridge Trails: 87.40/100 (desk-based provisional).
+- [x] CA — Missinaibi Provincial Park River Canoe Expedition Ontario: 88.60/100 (desk-based provisional).
+- [x] CA — Bon Echo Provincial Park Mazinaw Lake and Cliffs: 87.60/100 (desk-based provisional).
+- [x] CA — Petroglyphs Provincial Park Ontario Indigenous Rock Art Interpretation: 88.00/100 (desk-based provisional).
+- [x] CA — Textile Museum of Canada Toronto: 86.30/100 (desk-based provisional).
+- [x] CA — Glenbow Museum Calgary Art and Cultural History: 87.75/100 (desk-based provisional).
+- [x] CA — Beaverbrook Art Gallery Fredericton: 87.00/100 (desk-based provisional).
+- [x] CA — The Fluvarium St John’s Freshwater Ecology Exhibits: 83.05/100 (desk-based provisional).
+
+18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 342 ranked / 345 total. Quetico Canadian side only; Tweedsmuir southern interior excludes coastal Great Bear; Northern Rocky Mountains, Stone Mountain and Muncho Lake separate parks, larger Muskwa-Kechika umbrella deferred; Woodland Caribou deferred pending Pimachiowin Aki overlap review. Just For Laughs organiser confirms July 2026 edition; no future schedule assumed. Glenbow normal-condition rating, redevelopment/access unverified. Existing scores and three unassessed retained. Coordinates approximate. Queue remains open for explicit remaining scope and overlap screening; no exhaustive coverage claimed.

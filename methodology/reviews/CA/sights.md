@@ -8139,3 +8139,392 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 234 scope decisions
 
 18 additions, 12 desk-based provisional, 6 source-linked, 3 90+, 36 domestic ranking-row comparisons. CA 324 ranked / 327 total. Tremblant resort excludes provincial park; Battle Harbour grouped with island walks; Science North and Dynamic Earth grouped. Twin Falls trail closure due to erosion and high-water restrictions recorded, not deducted. Klondike goldfields cluster deferred pending Tr’ondëk-Klondike overlap (https://whc.unesco.org/en/list/1564; https://parks.canada.ca/lhn-nhs/yt/klondike/culture); Broughton Archipelago deferred pending Johnstone Strait and Great Bear overlap (https://bcparks.ca/broughton-archipelago-park/); New Brunswick Museum deferred pending public venue status. Existing scores and three unassessed retained. Coordinates approximate; access not verified. Regional screen remains open; no exhaustive coverage claimed.
+
+## sight-ca-quetico-park — Quetico Provincial Park Wilderness Canoe Routes — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/quetico-park.yaml)
+- Action: new
+- Scope: Remote Canadian-side canoe wilderness with cliffs, waterfalls and forests; Ontario management plan gives about 4,758 square kilometres. Excludes US Boundary Waters and other provincial parks.
+- Representative coordinates: 48.38, -91.48; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.0 / 9.3 / 9.3.
+- Categories: nature:9.4 adventure:9.4 photography:9.3.
+- Overall: 91.85/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.ontarioparks.ca/park/quetico/activities, https://www.ontario.ca/page/quetico-provincial-park-management-plan.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/bowron-lake](../../../countries/CA/sights/bowron-lake.yaml) | 9.2 / 9.3 / 9.0 / 9.3 / 9.4 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-wabakimi-park — Wabakimi Provincial Park Remote Canoe Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/wabakimi-park.yaml)
+- Action: new
+- Scope: Ontario Parks documents more than 1,500 km of paddling routes and identifies it as Ontario's second-largest provincial park. Distinct northern Ontario wilderness; coordinates approximate regional centre.
+- Representative coordinates: 50.46, -89.48; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.3.
+- Categories: nature:9.4 adventure:9.4 wildlife:9.3.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.ontarioparks.ca/park/wabakimi/activities, https://www.ontario.ca/page/wabakimi-provincial-park-management-statement, https://www.ontarioparks.ca/park/wabakimi/camping.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/churchill-river-saskatchewan](../../../countries/CA/sights/churchill-river-saskatchewan.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | impact: -0.1 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-tweedsmuir-south — Tweedsmuir South Provincial Park Atnarko Wildlife Viewing and Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/tweedsmuir-south.yaml)
+- Action: new
+- Scope: Southern park interior landscapes and managed Belarko bear viewing, jointly managed with Nuxalk Nation. Excludes coastal Great Bear Rainforest itineraries and northern park; viewing and trail access not guaranteed.
+- Representative coordinates: 52.4, -125.8; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 9.1 / 9.1 / 9.2.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.3 photography:9.4.
+- Overall: 91.70/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/tweedsmuir-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/khutzeymateen](../../../countries/CA/sights/khutzeymateen.yaml) | 9.3 / 9.3 / 9.2 / 9.1 / 9.0 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+| [CA/wells-gray](../../../countries/CA/sights/wells-gray.yaml) | 9.2 / 9.0 / 8.9 / 9.2 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montreal-circus-festival — Montréal Complètement Cirque International Circus Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montreal-circus-festival.yaml)
+- Action: new
+- Scope: International circus arts festival created in 2010, described by organiser as first North American international festival dedicated to circus arts. Eleven-day citywide programme, TOHU locality proxy; exclude unrelated touring shows.
+- Representative coordinates: 45.56, -73.62; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.1 / 9.3 / 9.2.
+- Categories: culture:9.4 nightlife:9.3 family:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://montrealcompletementcirque.com/en/the-festival, https://tohu.ca/en/season/festival, https://www.mtl.org/en/experience/montreal-year-round-circus-hub.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/edmonton-fringe](../../../countries/CA/sights/edmonton-fringe.yaml) | 9.1 / 9.3 / 9.2 / 9.3 / 9.3 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-just-for-laughs-montreal — Just For Laughs Montréal International Comedy Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/just-for-laughs-montreal.yaml)
+- Action: new
+- Scope: Recurring public comedy performances; organiser documents July 15–26 2026 festival and describes it as largest comedy festival globally. Future programme not assumed; city venue proxy.
+- Representative coordinates: 45.51, -73.57; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.2 / 9.3 / 9.2.
+- Categories: culture:9.4 nightlife:9.4 history:9.1.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://montreal.hahaha.com/en/page/festival-954/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/edmonton-fringe](../../../countries/CA/sights/edmonton-fringe.yaml) | 9.1 / 9.3 / 9.2 / 9.3 / 9.3 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+| [CA/tiff](../../../countries/CA/sights/tiff.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 9.1 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-northern-rocky-mountains-park — Northern Rocky Mountains Provincial Park Remote Mountain Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/northern-rocky-mountains-park.yaml)
+- Action: new
+- Scope: BC Parks identifies it as third-largest provincial park in BC and largest park within Muskwa-Kechika. Remote park only; excludes Muncho Lake, Stone Mountain and Liard Hot Springs. Larger management-area umbrella not added.
+- Representative coordinates: 58.05, -124.2; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.8 / 9.0 / 9.1.
+- Categories: nature:9.4 adventure:9.4 wildlife:9.3.
+- Overall: 90.00/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/northern-rocky-mountains-park/, https://engage.gov.bc.ca/bcparksblog/2022/04/19/protected-area-management-effectiveness-in-the-muskwa-kechika/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/mount-robson-provincial-park](../../../countries/CA/sights/mount-robson-provincial-park.yaml) | 9.3 / 9.1 / 8.8 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [CA/tombstone-territorial](../../../countries/CA/sights/tombstone-territorial.yaml) | 9.3 / 9.2 / 9.0 / 8.9 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-muncho-lake — Muncho Lake Provincial Park Jade Lake and Mountain Scenery — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/muncho-lake.yaml)
+- Action: new
+- Scope: BC Parks describes 12 km jade-coloured lake and surrounding wildlife; park scenery only, excluding other Alaska Highway parks.
+- Representative coordinates: 58.98, -125.77; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 9.0 / 8.8.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 88.50/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/muncho-lake-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/mount-robson-provincial-park](../../../countries/CA/sights/mount-robson-provincial-park.yaml) | 9.3 / 9.1 / 8.8 / 9.0 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [CA/joffre-lakes](../../../countries/CA/sights/joffre-lakes.yaml) | 9.0 / 8.7 / 8.3 / 8.9 / 8.6 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-stone-mountain-park — Stone Mountain Provincial Park Summit Lake and Alpine Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/stone-mountain-park.yaml)
+- Action: new
+- Scope: Separate park along Alaska Highway; BC Parks documents 25,691 hectares of mountainous terrain. Excludes Northern Rocky Mountains and Muncho Lake parks.
+- Representative coordinates: 58.65, -124.72; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.3 adventure:9.3 photography:9.3.
+- Overall: 86.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/stone-mountain-park/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/tombstone-territorial](../../../countries/CA/sights/tombstone-territorial.yaml) | 9.3 / 9.2 / 9.0 / 8.9 / 9.1 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer |
+| [CA/peter-lougheed](../../../countries/CA/sights/peter-lougheed.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 9.0 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-qathet-sunshine-coast-trail — Sunshine Coast Trail qathet Multi-day Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/qathet-sunshine-coast-trail.yaml)
+- Action: new
+- Scope: Land-based long-distance hiking route in qathet; excludes Desolation Sound kayaking and individual coastal attractions.
+- Representative coordinates: 49.96, -124.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.6 / 9.0 / 9.0.
+- Categories: adventure:9.3 nature:9.3 photography:9.2.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/east-coast-trail](../../../countries/CA/sights/east-coast-trail.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.3 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [CA/the-boreal-trail](../../../countries/CA/sights/the-boreal-trail.yaml) | 8.6 / 8.6 / 8.4 / 8.8 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-strathcona-park — Strathcona Provincial Park Vancouver Island Alpine Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/strathcona-park.yaml)
+- Action: new
+- Scope: Island interior mountains, lakes and wilderness trails grouped; no overlap with Pacific Rim coastal sites.
+- Representative coordinates: 49.7, -125.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.8 / 8.9 / 9.0.
+- Categories: nature:9.4 adventure:9.3 photography:9.3.
+- Overall: 88.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/garibaldi](../../../countries/CA/sights/garibaldi.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [CA/wells-gray](../../../countries/CA/sights/wells-gray.yaml) | 9.2 / 9.0 / 8.9 / 9.2 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-cathedral-provincial-park — Cathedral Provincial Park Alpine Lakes and Ridge Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/cathedral-provincial-park.yaml)
+- Action: new
+- Scope: South Okanagan-Similkameen alpine park and walking routes, separate from vineyard experience; access and restoration not assessed.
+- Representative coordinates: 49.07, -120.2; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.8 / 8.8.
+- Categories: nature:9.3 adventure:9.3 photography:9.3.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/garibaldi](../../../countries/CA/sights/garibaldi.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [CA/joffre-lakes](../../../countries/CA/sights/joffre-lakes.yaml) | 9.0 / 8.7 / 8.3 / 8.9 / 8.6 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-missinaibi-river — Missinaibi Provincial Park River Canoe Expedition Ontario — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/missinaibi-river.yaml)
+- Action: new
+- Scope: Northern Ontario river paddling and associated provincial park corridor; representative regional coordinate, no route or access guarantee.
+- Representative coordinates: 49.48, -83.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.9 / 9.0.
+- Categories: adventure:9.4 nature:9.3 history:9.2.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/churchill-river-saskatchewan](../../../countries/CA/sights/churchill-river-saskatchewan.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-bon-echo-park — Bon Echo Provincial Park Mazinaw Lake and Cliffs — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/bon-echo-park.yaml)
+- Action: new
+- Scope: Mazinaw cliff scenery and authorized public cultural interpretation; no sensitive rock art coordinates or access assumptions.
+- Representative coordinates: 44.9, -77.21; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.8 / 8.7.
+- Categories: nature:9.3 history:9.3 photography:9.3.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/killarney-provincial](../../../countries/CA/sights/killarney-provincial.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+| [CA/writing-on-stone](../../../countries/CA/sights/writing-on-stone.yaml) | 8.4 / 8.8 / 9.2 / 8.2 / 8.0 | impact: +0.3 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-petroglyphs-park — Petroglyphs Provincial Park Ontario Indigenous Rock Art Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/petroglyphs-park.yaml)
+- Action: new
+- Scope: Public authorized interpretive centre and park, no sensitive panel coordinates or photography claims.
+- Representative coordinates: 44.61, -78.04; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 9.0 / 9.2 / 8.6 / 8.7.
+- Categories: culture:9.4 history:9.4 nature:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/writing-on-stone](../../../countries/CA/sights/writing-on-stone.yaml) | 8.4 / 8.8 / 9.2 / 8.2 / 8.0 | impact: +0.1 vs peer; uniqueness: +0.2 vs peer |
+| [CA/wanuskewin](../../../countries/CA/sights/wanuskewin.yaml) | 8.1 / 8.7 / 9.0 / 8.5 / 8.1 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-textile-museum-canada — Textile Museum of Canada Toronto — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/textile-museum-canada.yaml)
+- Action: new
+- Scope: Specialist textile collection and public exhibitions; separate from Bata and AGO.
+- Representative coordinates: 43.654, -79.387; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.8 / 8.8 / 8.6 / 8.9.
+- Categories: culture:9.3 history:9.2 photography:9.1.
+- Overall: 86.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/bata-shoe-museum](../../../countries/CA/sights/bata-shoe-museum.yaml) | 8.8 / 9.4 / 9.2 / 8.9 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.6 vs peer |
+| [CA/art-gallery-of-ontario](../../../countries/CA/sights/art-gallery-of-ontario.yaml) | 8.9 / 9.0 / 9.1 / 9.1 / 9.2 | impact: -0.6 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-glenbow — Glenbow Museum Calgary Art and Cultural History — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/glenbow.yaml)
+- Action: new
+- Scope: Museum collection and exhibition experience in normal operating conditions; redevelopment and public venue status unverified. No assurance of current access.
+- Representative coordinates: 51.046, -114.062; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 9.0 / 8.8 / 9.0.
+- Categories: culture:9.3 history:9.3 architecture:9.1.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-alberta-museum](../../../countries/CA/sights/royal-alberta-museum.yaml) | 8.7 / 8.7 / 9.0 / 8.9 / 9.1 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/royal-bc-museum](../../../countries/CA/sights/royal-bc-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-beaverbrook-art-gallery — Beaverbrook Art Gallery Fredericton — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/beaverbrook-art-gallery.yaml)
+- Action: new
+- Scope: Public art collections and exhibitions; separate from provincial historical sites.
+- Representative coordinates: 45.96, -66.64; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.9 / 8.7 / 8.9.
+- Categories: culture:9.3 history:9.2 architecture:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/remai-modern](../../../countries/CA/sights/remai-modern.yaml) | 8.9 / 9.2 / 9.2 / 9.0 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.5 vs peer |
+| [CA/mnbaq](../../../countries/CA/sights/mnbaq.yaml) | 8.8 / 8.8 / 9.0 / 8.8 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-newfoundland-fluvarium — The Fluvarium St John’s Freshwater Ecology Exhibits — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/newfoundland-fluvarium.yaml)
+- Action: new
+- Scope: Freshwater ecology interpretation and public displays, separate from coastal wildlife viewing.
+- Representative coordinates: 47.59, -52.73; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.0 / 8.5 / 8.2 / 8.6 / 8.5.
+- Categories: nature:9.2 family:9.2 wildlife:9.1.
+- Overall: 83.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/vancouver-aquarium](../../../countries/CA/sights/vancouver-aquarium.yaml) | 8.7 / 8.7 / 8.8 / 9.0 / 8.9 | impact: -0.7 vs peer; uniqueness: -0.2 vs peer |
+| [CA/montreal-biodome](../../../countries/CA/sights/montreal-biodome.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: -0.7 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 235 scope decisions
+
+18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 342 ranked / 345 total. Quetico Canadian side only; Tweedsmuir southern interior excludes coastal Great Bear; Northern Rocky Mountains, Stone Mountain and Muncho Lake separate parks, larger Muskwa-Kechika umbrella deferred; Woodland Caribou deferred pending Pimachiowin Aki overlap review. Just For Laughs organiser confirms July 2026 edition; no future schedule assumed. Glenbow normal-condition rating, redevelopment/access unverified. Existing scores and three unassessed retained. Coordinates approximate. Queue remains open for explicit remaining scope and overlap screening; no exhaustive coverage claimed.
