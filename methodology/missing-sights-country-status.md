@@ -43,6 +43,12 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | PM | DONE — current queue | 15 total (15 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 0 existing unassessed separate. |
 | TF | DONE — current queue | 7 total (1 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 6 existing unassessed separate. |
 
-| AU | OPEN | 215 ranked; pass 208 adds 16 regional heritage and distinct wilderness experiences. 4 source-linked 90+; 10 desk-based provisional; 4 international comparisons. Remaining targeted candidates and parent-scope questions, Whyalla condition reassessment and independent validation pending. |
+| AU | PAUSED | 222 ranked / 222 total; pass 209 adds 7. Rowley Shoals deferred: AIMS reports 61–90% coral mortality across monitored sites at Mermaid and Clerke reefs after the 2025 heatwave (https://www.aims.gov.au/information-centre/news-and-stories/worst-bleaching-event-record-wa-coral-reefs-following-long-lasting-and-widespread-marine-heatwave); no assumption of recovery. Abrolhos condition separately checked with 2026 study. Whyalla, Lady Elliot, Ball's Pyramid and convict-site components remain deferred; pause mainland discovery, not exhaustive. Independent factual, coordinate and scoring validation pending; reopen on concrete substantial omission. |
+
+| CX | DONE — current queue | 12 ranked / 13 total; pass 209 adds 2. Existing red crab migration 94.15 retained, not duplicated. Offshore dive scope excludes Flying Fish Cove, dedicated birding circuit excludes individual walk scope; heat stress alerts are not site-level coral health data. Winifred Beach unassessed retained. Independent factual, coordinate and scoring validation pending; reopen on concrete substantial omission. |
+
+| CC | DONE — current queue | 11 ranked / 12 total; pass 209 adds 2. Separate guided diving from existing snorkel/canoe routes and community-led culture tour from heritage interiors. Historical seagrass loss retained as caveat; Pulu Keeling restricted visitor scope remains unassessed. Independent factual, coordinate and scoring validation pending; reopen on concrete substantial omission. |
+
+| NF | DONE — current queue | 12 ranked / 13 total; pass 209 adds 2. Distinct literary and folk museum tours. Kingston serial heritage overlap unchanged; Phillip Island restricted visitor scope remains unassessed. Independent factual, coordinate and scoring validation pending; reopen on concrete substantial omission. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

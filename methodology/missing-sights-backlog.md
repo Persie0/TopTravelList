@@ -3573,3 +3573,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AU — Morialta Conservation Park Gorge and Waterfall Walks: 85.25/100 (desk-based provisional).
 
 16 additions, 10 desk-based provisional, 6 source-linked, 4 90+, 36 ranking-row comparisons including 4 international. Australia 215 ranked / 215 total. Port Arthur and Fremantle Prison included in Australian Convict Sites parent review; defer separate components (https://portarthur.org.au/what-to-do/; https://fremantleprison.com.au/about/). Melaleuca flights deferred due to South Coast Track access and Tasmanian Wilderness parent scope (https://parks.tas.gov.au/explore-our-parks/southwest-national-park/melaleuca). Central Walls Circuit is a distinct trek; Tasman cruise offshore only. Nullarbor excludes Head of Bight whale watching. Mutawintji guided entry only; no sensitive art coordinates. Whyalla, Lady Elliot and Ball's Pyramid remain deferred. Existing scores retained. Next: remaining targeted Australian candidates, then territory queues. Independent validation pending.
+
+### Pass 209 — Australian final targeted candidates and external territories
+
+- [x] AU — Houtman Abrolhos Islands Coral Reefs and Maritime Heritage: 92.15/100 (source-linked-unverified).
+- [x] AU — Takayna Tarkine Rainforest Drive and Arthur River Public Trails: 90.80/100 (source-linked-unverified).
+- [x] AU — Lake Argyle and Ord River Scenic Wildlife Cruises: 88.45/100 (source-linked-unverified).
+- [x] AU — Pichi Richi Railway Heritage Journey: 87.55/100 (desk-based provisional).
+- [x] AU — Stanley The Nut Volcanic Plateau and Coastal Walk: 86.35/100 (desk-based provisional).
+- [x] AU — National Arboretum Canberra Living Tree Collections: 86.55/100 (desk-based provisional).
+- [x] AU — Royal Australian Mint Canberra Coin and Currency Museum: 87.20/100 (desk-based provisional).
+- [x] CX — Christmas Island Offshore Wall and Cave Scuba Diving: 91.60/100 (source-linked-unverified).
+- [x] CX — Christmas Island Guided Endemic Birdwatching Circuit: 91.60/100 (source-linked-unverified).
+- [x] CC — Cocos Keeling Islands Guided Outer Reef Scuba Diving: 89.00/100 (source-linked-unverified).
+- [x] CC — Home Island Cocos Malay Community Guided Cultural Tour: 85.05/100 (source-linked-unverified).
+- [x] NF — Bounty Folk Museum Norfolk Island: 81.70/100 (source-linked-unverified).
+- [x] NF — Colleen McCullough Home Literary Heritage Tour: 81.55/100 (source-linked-unverified).
+
+13 additions, 4 desk-based provisional, 9 source-linked, 4 90+, 32 ranking-row comparisons including 7 cross-area. AU paused at 222; CX 12/13, CC 11/12, NF 12/13. Three bounded territory queues closed. Rowley Shoals deferred: AIMS reports 61–90% coral mortality across monitored sites at Mermaid and Clerke reefs after the 2025 heatwave (https://www.aims.gov.au/information-centre/news-and-stories/worst-bleaching-event-record-wa-coral-reefs-following-long-lasting-and-widespread-marine-heatwave); no assumption of recovery. Abrolhos condition separately checked with 2026 study. Whyalla, Lady Elliot, Ball's Pyramid and convict-site components remain deferred; pause mainland discovery, not exhaustive. Existing red crab migration 94.15 retained, not duplicated. Offshore dive scope excludes Flying Fish Cove, dedicated birding circuit excludes individual walk scope; heat stress alerts are not site-level coral health data. Winifred Beach unassessed retained. Separate guided diving from existing snorkel/canoe routes and community-led culture tour from heritage interiors. Historical seagrass loss retained as caveat; Pulu Keeling restricted visitor scope remains unassessed. Distinct literary and folk museum tours. Kingston serial heritage overlap unchanged; Phillip Island restricted visitor scope remains unassessed. Existing scores retained. Next: New Zealand targeted screen. Independent validation pending.

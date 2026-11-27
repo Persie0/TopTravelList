@@ -495,3 +495,52 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Partial assessment only.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent full claims and current access.
+
+## sight-cx-offshore-wall-diving — Christmas Island Offshore Wall and Cave Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/CX/sights/offshore-wall-diving.yaml)
+- Action: new
+- Scope: Boat-access offshore wall and cave dive sites, excludes Flying Fish Cove nearshore scope; cave dives only within training; no guaranteed whale sharks or coral condition. NOAA heat watch is not mortality data.
+- Representative coordinates: -10.45, 105.71; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.0 / 9.1 / 9.1.
+- Categories: nature:9.4 wildlife:9.4 adventure:9.4.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.christmas.net.au/scuba-diving, https://www.padi.com/diving-in/christmas-island/, https://www.legislation.gov.au/F2025L00070/asmade/2025-02-11/text/original/epub/OEBPS/document_1/document_1.html, https://www.ospo.noaa.gov/data/ocean/crw/alerts/2026/SBA_alerts_20260316.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CX/flying-fish-cove-reef](../../../countries/CX/sights/flying-fish-cove-reef.yaml) | 8.6 / 8.5 / 8.5 / 8.6 / 8.1 | depth: +1.0 vs peer; uniqueness: +0.8 vs peer |
+| [AU/ningaloo-coast](../../../countries/AU/sights/ningaloo-coast.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.0 | significance: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [AU/yongala-wreck-dive](../../../countries/AU/sights/yongala-wreck-dive.yaml) | 9.3 / 9.4 / 9.2 / 9.2 / 9.1 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-cx-endemic-birding — Christmas Island Guided Endemic Birdwatching Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/CX/sights/endemic-birding.yaml)
+- Action: new
+- Scope: Dedicated island-wide guided birdwatching targeting endemic species and multiple public habitats, not individual lookout or Dales walk; no nest coordinates or guaranteed sightings. Abbott's booby breeding restricted to island.
+- Representative coordinates: -10.46, 105.65; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.4 / 9.0 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://christmasislandnationalpark.gov.au/things-do/activities/birdwatching/, https://christmasislandnationalpark.gov.au/plan/plan-your-trip/visitor-guides/birding-guide/, https://christmasislandnationalpark.gov.au/discover/nature/animals/birds/abbotts-booby/, https://www.indianoceanexperiences.com.au/tours/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CX/margaret-knoll](../../../countries/CX/sights/margaret-knoll.yaml) | 8.6 / 8.5 / 8.6 / 8.2 / 7.3 | depth: +1.8 vs peer; uniqueness: +0.9 vs peer |
+| [CX/red-crab-migration](../../../countries/CX/sights/red-crab-migration.yaml) | 9.6 / 9.7 / 9.5 / 9.0 / 8.6 | impact: -0.7 vs peer; depth: +0.5 vs peer |
+| [AU/mon-repos-turtles](../../../countries/AU/sights/mon-repos-turtles.yaml) | 8.8 / 9.0 / 8.8 / 8.9 / 8.6 | significance: +0.6 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 209 scope decisions
+
+Existing red crab migration 94.15 retained, not duplicated. Offshore dive scope excludes Flying Fish Cove, dedicated birding circuit excludes individual walk scope; heat stress alerts are not site-level coral health data. Winifred Beach unassessed retained.

@@ -1,0 +1,16 @@
+id: sight-nf-bounty-folk-museum
+name: "Bounty Folk Museum Norfolk Island"
+location:
+  country_code: NF
+  latitude: -29.04
+  longitude: 167.96
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.2
+  depth: 8.0
+  categories:
+    history: 8.9
+    culture: 8.7
+    family: 8.5

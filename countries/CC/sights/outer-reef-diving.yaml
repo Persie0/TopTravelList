@@ -1,0 +1,16 @@
+id: sight-cc-outer-reef-diving
+name: "Cocos Keeling Islands Guided Outer Reef Scuba Diving"
+location:
+  country_code: CC
+  latitude: -12.14
+  longitude: 96.85
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.3

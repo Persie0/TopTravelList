@@ -1,0 +1,16 @@
+id: sight-au-national-arboretum
+name: "National Arboretum Canberra Living Tree Collections"
+location:
+  country_code: AU
+  latitude: -35.29
+  longitude: 149.07
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    relaxation: 9.2
+    family: 9.1

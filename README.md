@@ -102,7 +102,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Argentina](countries/AR/) (`AR`) | [40](countries/AR/cities.md) | [65](countries/AR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Argentina) |
 | [Armenia](countries/AM/) (`AM`) | [20](countries/AM/cities.md) | [55](countries/AM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Armenia) |
 | [Aruba](countries/AW/) (`AW`) | [2](countries/AW/cities.md) | [13](countries/AW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Aruba) |
-| [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [215](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
+| [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [222](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
 | [Austria](countries/AT/) (`AT`) | [45](countries/AT/cities.md) | [134](countries/AT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Austria) |
 | [Azerbaijan](countries/AZ/) (`AZ`) | [16](countries/AZ/cities.md) | [40](countries/AZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Azerbaijan) |
 | [Bahamas](countries/BS/) (`BS`) | [12](countries/BS/cities.md) | [34](countries/BS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahamas) |
@@ -135,8 +135,8 @@ Every registered country has a linked folder below. The status is determined fro
 | [Chad](countries/TD/) (`TD`) | [10](countries/TD/cities.md) | [25](countries/TD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chad) |
 | [Chile](countries/CL/) (`CL`) | [33](countries/CL/cities.md) | [67](countries/CL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chile) |
 | [China](countries/CN/) (`CN`) | [229](countries/CN/cities.md) | [467](countries/CN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=China) |
-| [Christmas Island](countries/CX/) (`CX`) | [1](countries/CX/cities.md) | [11](countries/CX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Christmas%20Island) |
-| [Cocos (Keeling) Islands](countries/CC/) (`CC`) | [2](countries/CC/cities.md) | [10](countries/CC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cocos%20%28Keeling%29%20Islands) |
+| [Christmas Island](countries/CX/) (`CX`) | [1](countries/CX/cities.md) | [13](countries/CX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Christmas%20Island) |
+| [Cocos (Keeling) Islands](countries/CC/) (`CC`) | [2](countries/CC/cities.md) | [12](countries/CC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cocos%20%28Keeling%29%20Islands) |
 | [Colombia](countries/CO/) (`CO`) | [46](countries/CO/cities.md) | [55](countries/CO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Colombia) |
 | [Comoros](countries/KM/) (`KM`) | [14](countries/KM/cities.md) | [31](countries/KM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Comoros) |
 | [Congo](countries/CG/) (`CG`) | [12](countries/CG/cities.md) | [29](countries/CG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Congo) |
@@ -250,7 +250,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Niger](countries/NE/) (`NE`) | [10](countries/NE/cities.md) | [26](countries/NE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Niger) |
 | [Nigeria](countries/NG/) (`NG`) | [12](countries/NG/cities.md) | [25](countries/NG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nigeria) |
 | [Niue](countries/NU/) (`NU`) | [4](countries/NU/cities.md) | [15](countries/NU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Niue) |
-| [Norfolk Island](countries/NF/) (`NF`) | [1](countries/NF/cities.md) | [11](countries/NF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Norfolk%20Island) |
+| [Norfolk Island](countries/NF/) (`NF`) | [1](countries/NF/cities.md) | [13](countries/NF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Norfolk%20Island) |
 | [North Korea](countries/KP/) (`KP`) | [8](countries/KP/cities.md) | [22](countries/KP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=North%20Korea) |
 | [North Macedonia](countries/MK/) (`MK`) | [14](countries/MK/cities.md) | [33](countries/MK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=North%20Macedonia) |
 | [Northern Mariana Islands](countries/MP/) (`MP`) | [4](countries/MP/cities.md) | [15](countries/MP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Northern%20Mariana%20Islands) |

@@ -1,0 +1,16 @@
+id: sight-au-stanley-nut
+name: "Stanley The Nut Volcanic Plateau and Coastal Walk"
+location:
+  country_code: AU
+  latitude: -40.76
+  longitude: 145.31
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 9.0
