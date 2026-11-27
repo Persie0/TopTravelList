@@ -4801,3 +4801,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — Monguí Historic Centre Colonial Architecture and Traditional Football Workshops: 86.20/100 (desk-based provisional).
 
 12 additions, 10 source-linked provisional, 2 desk-based provisional, 5 90+, 44 ranking-row comparisons (20 international). CO 87 ranked / 91 total, +36 since baseline 55. Prior 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried; previous preliminary 5/13 mapped plus Ciénaga Grande stilt villages and one Salmona component, 7/13 at least partially mapped provisionally, no full serial-coverage claim. Ciénaga security alert recorded separately from score; consent and current travel checks required. Aracataca literary circuit not evidence of United Fruit property coverage. FIAV is current named event, no older theatre festival history transferred. Floresta fossil sites deferred pending specific authorized visitor scope and reliable coordinates (https://whc.unesco.org/en/tentativelists/6705/); Canal del Dique, San Jorge, doctrine temples, United Fruit, La Venta field sites still require scope mapping. Existing scores and four unassessed preserved. Queue OPEN for remaining regional nature and heritage. Coordinates approximate; schedules and access unverified.
+
+### Pass 271 — Colombia páramo landscapes, regional festivals and wilderness routes
+
+- [x] CO — Villavicencio International Joropo Tournament and Joropódromo: 93.05/100 (source-linked-unverified).
+- [x] CO — Neiva Bambuco Folklore Festival and National Dance Celebrations: 92.30/100 (source-linked-unverified).
+- [x] CO — San Basilio de Palenque Drum and Cultural Expressions Festival: 91.80/100 (source-linked-unverified).
+- [x] CO — Ocetá Páramo Frailejón Highland Hiking Trail: 90.05/100 (source-linked-unverified).
+- [x] CO — Güejar River Canyon Guided Rafting and Waterfalls: 89.45/100 (source-linked-unverified).
+- [x] CO — San Jacinto National Traditional Gaita Music and Dance Festival: 89.05/100 (source-linked-unverified).
+- [x] CO — Mocoa Fin del Mundo Waterfall and Forest Trail: 86.90/100 (source-linked-unverified).
+- [x] CO — San Andrés de Pisimbalá Historic Doctrine Church and Village Heritage: 87.10/100 (source-linked-unverified).
+- [x] CO — Barichara to Guane Historic Camino Real Stone Trail: 86.60/100 (source-linked-unverified).
+- [x] CO — La Miel River Norcasia Rainforest and Reservoir Experiences: 85.20/100 (desk-based provisional).
+- [x] CO — Pance River Cali Foothill Forest Recreation: 81.30/100 (desk-based provisional).
+- [x] CO — Santurbán Páramo Highland Lake Landscape: 87.55/100 (desk-based provisional).
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 4 90+, 40 ranking-row comparisons (16 international). CO 99 ranked / 103 total, +48 since baseline 55. Prior 9/9 inscribed represented (3 unassessed) and 13 tentative entries inventoried; 8/13 at least partially mapped after adding one doctrine-temple component, based on previous provisional 7/13 mapping; no full serial coverage claim. Other five tentative properties need further mapping: Canal del Dique, San Jorge, United Fruit, Floresta and La Venta. Sumapaz national park deferred because official agency explicitly disallows ecotourism (https://www.parquesnacionales.gov.co/sala-prensa/noticias/el-parque-nacional-natural-sumapaz-no-esta-habilitado-al-ecoturismo/); no intrinsic rating penalty. Güejar rafting non-additive to Sierra de la Macarena parent; Ocetá scoped to authorized trail; Palenque drum festival separate from permanent heritage; Santurbán desk assessment with visitor scope pending. Existing scores and four unassessed preserved. Queue OPEN for remaining regional cultural and natural omissions. Coordinates approximate; schedules and current access unverified.
