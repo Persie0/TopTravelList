@@ -1,0 +1,16 @@
+id: sight-gr-museum-byzantine-culture
+name: "Museum of Byzantine Culture Thessaloniki"
+location:
+  country_code: GR
+  latitude: 40.623973
+  longitude: 22.955219
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.9

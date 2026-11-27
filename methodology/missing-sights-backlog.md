@@ -1062,3 +1062,16 @@ Six additions, 24 peer rows. Italy 163 ranked / 175 total, 38 additions since pa
 - [x] GR — Ancient Corinth Archaeological Site and Museum: 89.20/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows; Greece 72 ranked / 73 total. Heraklion museum distinct from Minoan palaces, Thessaloniki archaeological museum distinct from Byzantine monuments, White Tower and Monemvasia absent from named UNESCO component lists checked; Ancient Corinth site and museum grouped, beach and adjacent viewpoints grouped. Next bounded screen: Corinth Canal, Acrocorinth (series overlap check), Nafplio historic town, Chania Venetian harbour, Museum of Byzantine Culture Thessaloniki, Benaki Museum Athens, Drogarati Cave and Porto Katsiki beach. One prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 93 — Greek engineering, historic towns, museums and natural sites
+
+- [x] GR — Corinth Canal: 86.90/100 (source-linked-unverified).
+- [x] GR — Acrocorinth Fortress: 89.35/100 (source-linked-unverified).
+- [x] GR — Nafplio Historic Centre and Lower Town: 88.10/100 (source-linked-unverified).
+- [x] GR — Chania Venetian Harbour and Waterfront: 88.30/100 (source-linked-unverified).
+- [x] GR — Museum of Byzantine Culture Thessaloniki: 89.65/100 (source-linked-unverified).
+- [x] GR — Benaki Museum of Greek Culture Athens: 89.50/100 (source-linked-unverified).
+- [x] GR — Drogarati Cave Kefalonia: 85.45/100 (source-linked-unverified).
+- [x] GR — Porto Katsiki Beach Lefkada: 86.35/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Greece 80 ranked / 81 total. Acrocorinth distinct from Ancient Corinth and absent from UNESCO tentative list 5855; Nafplio lower town and Chania waterfront exclude listed fortifications. Museum branches and separate archaeology excluded. Next bounded screen: Cycladic Art Museum, Roman Agora and Hadrian's Library, Panathenaic Stadium, Ancient Nemea, Ancient Dodona, Sarakiniko, Portara and Achilleion. Full Python validation pending.

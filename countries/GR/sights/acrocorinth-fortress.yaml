@@ -1,0 +1,16 @@
+id: sight-gr-acrocorinth-fortress
+name: "Acrocorinth Fortress"
+location:
+  country_code: GR
+  latitude: 37.890995
+  longitude: 22.870032
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    architecture: 9.2
+    photography: 9.3
