@@ -1,0 +1,16 @@
+id: sight-us-lowell-observatory
+name: "Lowell Observatory Flagstaff and Astronomy Discovery Center"
+location:
+  country_code: US
+  latitude: 35.203
+  longitude: -111.664
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.3
+  depth: 9.3
+  categories:
+    history: 9.3
+    family: 9.4
+    culture: 9.0

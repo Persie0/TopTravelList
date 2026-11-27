@@ -1,0 +1,16 @@
+id: sight-us-dead-horse-point
+name: "Dead Horse Point State Park Utah"
+location:
+  country_code: US
+  latitude: 38.47
+  longitude: -109.74
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 8.9

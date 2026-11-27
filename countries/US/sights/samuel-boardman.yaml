@@ -1,0 +1,16 @@
+id: sight-us-samuel-boardman
+name: "Samuel H Boardman State Scenic Corridor Oregon"
+location:
+  country_code: US
+  latitude: 42.152
+  longitude: -124.36
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.0

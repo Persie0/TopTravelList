@@ -1,0 +1,16 @@
+id: sight-us-oregon-dunes
+name: "Oregon Dunes National Recreation Area"
+location:
+  country_code: US
+  latitude: 43.797
+  longitude: -124.164
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.3

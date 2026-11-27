@@ -3260,3 +3260,31 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Bison Range Flathead Reservation Montana: 87.85/100 (desk-based provisional).
 
 24 additions, 11 desk-based provisional, 13 source-informed, 10 90+, 68 domestic ranking-row comparisons. United States 458 ranked / 458 total. Vicksburg includes USS Cairo; Mississippi two museums grouped; Kentucky Horse Park includes equine museums; Meow Wolf Santa Fe excludes other branches; Churchill Downs tours exclude Derby event and gambling; Sun Studio and Stax distinct. Targeted state-level additions, not exhaustive state-by-state screen. Remaining known candidates: National Museum of Wildlife Art, National Museum of Mathematics, Meow Wolf other distinct venues, regional science museums, maritime heritage and western landscapes. Existing scores retained. Full Python validation pending.
+
+### Pass 196 — US science, immersive art, maritime and western landscapes
+
+- [x] US — Lowell Observatory Flagstaff and Astronomy Discovery Center: 92.40/100 (source-linked-unverified).
+- [x] US — Meow Wolf Convergence Station Denver: 91.45/100 (source-linked-unverified).
+- [x] US — Meow Wolf Omega Mart Las Vegas: 91.05/100 (source-linked-unverified).
+- [x] US — Very Large Array Radio Astronomy Observatory New Mexico: 91.10/100 (source-linked-unverified).
+- [x] US — National Museum of Mathematics New York MoMath: 91.00/100 (source-linked-unverified).
+- [x] US — Luray Caverns Virginia: 90.55/100 (source-linked-unverified).
+- [x] US — Wright Brothers National Memorial Kill Devil Hills: 90.20/100 (source-linked-unverified).
+- [x] US — Crater of Diamonds State Park Arkansas: 89.75/100 (source-linked-unverified).
+- [x] US — Oregon Dunes National Recreation Area: 89.80/100 (source-linked-unverified).
+- [x] US — Kartchner Caverns State Park Arizona: 89.30/100 (source-linked-unverified).
+- [x] US — National Museum of Wildlife Art Jackson Wyoming: 88.90/100 (source-linked-unverified).
+- [x] US — Meow Wolf Radio Tave Houston: 88.65/100 (source-linked-unverified).
+- [x] US — Meow Wolf The Real Unreal Grapevine Texas: 88.30/100 (source-linked-unverified).
+- [x] US — Maritime Museum of San Diego Historic Ships: 88.85/100 (desk-based provisional).
+- [x] US — Patriots Point Naval and Maritime Museum Charleston Harbor: 88.80/100 (desk-based provisional).
+- [x] US — Great Lakes Shipwreck Museum Whitefish Point Michigan: 88.05/100 (desk-based provisional).
+- [x] US — The Tech Interactive San Jose: 87.85/100 (desk-based provisional).
+- [x] US — Oregon Museum of Science and Industry Portland: 88.20/100 (desk-based provisional).
+- [x] US — Cannon Beach Haystack Rock and Ecola State Park Oregon: 87.70/100 (desk-based provisional).
+- [x] US — Samuel H Boardman State Scenic Corridor Oregon: 88.10/100 (desk-based provisional).
+- [x] US — Mono Lake Tufa State Natural Reserve California: 88.90/100 (desk-based provisional).
+- [x] US — Beartooth Highway Alpine Scenic Drive Montana Wyoming: 88.75/100 (desk-based provisional).
+- [x] US — Dead Horse Point State Park Utah: 87.75/100 (desk-based provisional).
+
+23 additions, 10 desk-based provisional, 13 source-informed, 7 90+, 60 domestic ranking-row comparisons. US 481 ranked / 481 total. MoMath current Sixth Avenue venue; distinct Meow Wolf installations; Wright Brothers Memorial separate from Dayton; Luray outside Shenandoah; Beartooth excludes Yellowstone; Oregon coastal segments nonoverlapping; no guaranteed diamonds or stargazing. Existing scores retained. Final bounded coverage screen and earlier overlap cases remain open. Full Python validation pending.

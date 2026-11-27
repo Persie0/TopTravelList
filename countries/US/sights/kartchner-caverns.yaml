@@ -1,0 +1,16 @@
+id: sight-us-kartchner-caverns
+name: "Kartchner Caverns State Park Arizona"
+location:
+  country_code: US
+  latitude: 31.838
+  longitude: -110.348
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.3
+    family: 9.1
+    adventure: 9.0

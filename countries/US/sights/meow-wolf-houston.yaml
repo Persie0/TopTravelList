@@ -1,0 +1,16 @@
+id: sight-us-meow-wolf-houston
+name: "Meow Wolf Radio Tave Houston"
+location:
+  country_code: US
+  latitude: 29.772
+  longitude: -95.352
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.2
+  depth: 8.9
+  categories:
+    culture: 9.2
+    family: 9.1
+    photography: 9.2
