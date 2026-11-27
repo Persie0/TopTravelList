@@ -4107,3 +4107,314 @@
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-es-city-arts-sciences — City of Arts and Sciences Valencia — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/city-arts-sciences.yaml)
+- Action: new
+- Precise subject and limitations: Modern architecture, science museum, aquarium and public precinct as one complex; operator general GPS converted from DMS. Individual tickets and performances conditional; do not separately count included venues.
+- Location check: 39.453056, -0.351111; [published representative point](https://cac.es/en/informacion-de-interes/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/city-arts-sciences/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/sagrada-familia](../../../countries/ES/sights/sagrada-familia.yaml) | 9.7 / 9.7 / 9.4 / 9.3 / 8.9 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [ES/guggenheim](../../../countries/ES/sights/guggenheim.yaml) | 9.2 / 9.4 / 9.1 / 9.0 / 8.8 | experience: +0.3 vs peer; depth: +0.3 vs peer. |
+| [ES/prado](../../../countries/ES/sights/prado.yaml) | 9.4 / 9.4 / 9.7 / 9.3 / 9.6 | significance: -0.8 vs peer; depth: -0.5 vs peer. |
+| [ES/palau-sant-pau](../../../countries/ES/sights/palau-sant-pau.yaml) | 9.2 / 9.3 / 9.2 / 9.0 / 8.9 | experience: +0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Monumental modern architectural ensemble. |
+| Uniqueness | 9.3 | Distinct integrated science and arts complex. |
+| Significance | 8.9 | Important contemporary architecture and science interpretation. |
+| Experience | 9.3 | Varied indoor and outdoor experiences. |
+| Depth | 9.1 | Several independently ticketed venues. |
+
+- Applicable categories: architecture:9.5, culture:9.1, family:9.4, photography:9.4.
+- Computed worldwide overall: 92.30/100.
+- High-score challenge: Above 90: significant distinct visitor ensemble; compare listed peers, without implying equal global significance to top-ranked heritage. Independent challenge pending. Architecture 9.5 is provisional for distinct integrated monumental modern architecture, below the highest Gaudi examples; further corroboration required.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-montserrat — Montserrat Monastery and Mountain — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/montserrat.yaml)
+- Action: new
+- Precise subject and limitations: Abbey precinct, permitted basilica visit and accessible mountain paths. Representative abbey point; funiculars, performances and religious access conditional.
+- Location check: 41.59356, 1.83862; [published representative point](https://mapcarta.com/36120134), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/destination/montserrat/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/el-escorial](../../../countries/ES/sights/el-escorial.yaml) | 9.2 / 9.2 / 9.5 / 9.0 / 9.1 | significance: -0.3 vs peer; impact: +0.1 vs peer. |
+| [ES/picos](../../../countries/ES/sights/picos.yaml) | 9.4 / 9.2 / 9.0 / 9.3 / 9.4 | experience: -0.3 vs peer; depth: -0.3 vs peer. |
+| [ES/poblet](../../../countries/ES/sights/poblet.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.6 | depth: +0.5 vs peer; impact: +0.4 vs peer. |
+| [ES/tramuntana](../../../countries/ES/sights/tramuntana.yaml) | 9.2 / 9.0 / 9.0 / 9.1 / 9.3 | depth: -0.2 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Distinctive serrated mountain and abbey setting. |
+| Uniqueness | 9.2 | Unusual natural and religious combination. |
+| Significance | 9.2 | Longstanding Catalan religious heritage. |
+| Experience | 9.0 | Varied cultural and walking visit. |
+| Depth | 9.1 | Multiple paths and heritage spaces. |
+
+- Applicable categories: architecture:9.2, nature:9.3, history:9.3, photography:9.4.
+- Computed worldwide overall: 91.90/100.
+- High-score challenge: Above 90: significant distinct visitor ensemble; compare listed peers, without implying equal global significance to top-ranked heritage. Independent challenge pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-ronda-gorge-old-town — Ronda Old Town and Puente Nuevo Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/ronda-gorge-old-town.yaml)
+- Action: new
+- Precise subject and limitations: Public historic streets, bridges and permitted gorge viewpoints; bridge representative point. No unsafe paths or bullfight attendance assumed.
+- Location check: 36.74072, -5.16588; [published representative point](https://mapcarta.com/30284480), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/destination/ronda/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/toledo-core](../../../countries/ES/sights/toledo-core.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | significance: -0.5 vs peer; depth: -0.5 vs peer. |
+| [ES/cuenca-core](../../../countries/ES/sights/cuenca-core.yaml) | 9.1 / 9.1 / 9.1 / 8.8 / 8.5 | impact: +0.2 vs peer; significance: -0.2 vs peer. |
+| [ES/caminito-del-rey](../../../countries/ES/sights/caminito-del-rey.yaml) | 9.0 / 8.8 / 8.2 / 9.0 / 8.3 | significance: +0.7 vs peer; depth: +0.4 vs peer. |
+| [DZ/constantine-bridges-rhumel-gorge](../../../countries/DZ/sights/constantine-bridges-rhumel-gorge.yaml) | 9.4 / 9.2 / 8.7 / 9.0 / 8.7 | significance: +0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Dramatic urban gorge and historic bridge. |
+| Uniqueness | 9.1 | Distinctive urban setting. |
+| Significance | 8.9 | Important regional historic architecture. |
+| Experience | 9.0 | Varied public walks. |
+| Depth | 8.7 | Multiple viewpoints and streets. |
+
+- Applicable categories: photography:9.4, architecture:9.2, history:9.0, nature:9.0.
+- Computed worldwide overall: 90.65/100.
+- High-score challenge: Above 90: significant distinct visitor ensemble; compare listed peers, without implying equal global significance to top-ranked heritage. Independent challenge pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-nerja-cave — Nerja Cave — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/nerja-cave.yaml)
+- Action: new
+- Precise subject and limitations: Public show cave halls and interpretation; prehistoric paintings not assumed directly viewable, closed galleries excluded.
+- Location check: 36.76175, -3.84484; [published representative point](https://mapcarta.com/17372156), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/cave-nerja/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/pulpi](../../../countries/ES/sights/pulpi.yaml) | 8.9 / 9.4 / 9.1 / 8.3 / 7.5 | depth: +1.2 vs peer; experience: +0.6 vs peer. |
+| [ES/altamira-replica](../../../countries/ES/sights/altamira-replica.yaml) | 8.7 / 8.9 / 8.8 / 8.8 / 8.4 | impact: +0.4 vs peer; depth: +0.3 vs peer. |
+| [DZ/beni-add-cave](../../../countries/DZ/sights/beni-add-cave.yaml) | 8.8 / 8.6 / 7.9 / 8.8 / 8.3 | significance: +0.9 vs peer; depth: +0.4 vs peer. |
+| [MA/imi-n-ifri-natural-bridge](../../../countries/MA/sights/imi-n-ifri-natural-bridge.yaml) | 8.6 / 8.8 / 8.0 / 8.3 / 7.7 | depth: +1.0 vs peer; significance: +0.8 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Large chambers and formations. |
+| Uniqueness | 8.9 | Distinct geological scale. |
+| Significance | 8.8 | Prehistoric and geological importance. |
+| Experience | 8.9 | Developed cave visit. |
+| Depth | 8.7 | Multiple public halls. |
+
+- Applicable categories: nature:9.3, photography:9.2, history:9.0, adventure:8.8.
+- Computed worldwide overall: 89.20/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-jameos-del-agua — Jameos del Agua — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/jameos-del-agua.yaml)
+- Action: new
+- Precise subject and limitations: Manrique-designed volcanic cave cultural precinct and underground lake; independently visited from Cueva de los Verdes. No access to submerged tunnel or guaranteed concert.
+- Location check: 29.15722, -13.43222; [published representative point](https://mapcarta.com/36093806), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/jameos-agua/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/timanfaya](../../../countries/ES/sights/timanfaya.yaml) | 9.3 / 9.4 / 9.1 / 8.8 / 8.6 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+| [ES/park-guell](../../../countries/ES/sights/park-guell.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 8.7 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+| [ES/pulpi](../../../countries/ES/sights/pulpi.yaml) | 8.9 / 9.4 / 9.1 / 8.3 / 7.5 | depth: +0.7 vs peer; experience: +0.5 vs peer. |
+| [MA/tafraoute-painted-rocks](../../../countries/MA/sights/tafraoute-painted-rocks.yaml) | 8.5 / 8.9 / 7.5 / 8.3 / 7.5 | significance: +1.2 vs peer; depth: +0.7 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking lava and designed spaces. |
+| Uniqueness | 9.2 | Distinct integration of art and lava tube. |
+| Significance | 8.7 | Significant Manrique cultural heritage. |
+| Experience | 8.8 | Focused interpreted visitor precinct. |
+| Depth | 8.2 | Several designed spaces. |
+
+- Applicable categories: architecture:9.3, nature:9.1, photography:9.4, culture:9.0.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-cueva-de-los-verdes — Cueva de los Verdes — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/cueva-de-los-verdes.yaml)
+- Action: new
+- Precise subject and limitations: Guided lava-tube route, distinct visitor section from Jameos del Agua; closed sections and concerts not assumed.
+- Location check: 29.16042, -13.43937; [published representative point](https://mapcarta.com/36093804), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/top/famous-caves-spain/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/timanfaya](../../../countries/ES/sights/timanfaya.yaml) | 9.3 / 9.4 / 9.1 / 8.8 / 8.6 | significance: -0.6 vs peer; impact: -0.5 vs peer. |
+| [ES/pulpi](../../../countries/ES/sights/pulpi.yaml) | 8.9 / 9.4 / 9.1 / 8.3 / 7.5 | depth: +0.8 vs peer; significance: -0.6 vs peer. |
+| [DZ/beni-add-cave](../../../countries/DZ/sights/beni-add-cave.yaml) | 8.8 / 8.6 / 7.9 / 8.8 / 8.3 | significance: +0.6 vs peer; uniqueness: +0.3 vs peer. |
+| [MA/imi-n-ifri-natural-bridge](../../../countries/MA/sights/imi-n-ifri-natural-bridge.yaml) | 8.6 / 8.8 / 8.0 / 8.3 / 7.7 | depth: +0.6 vs peer; significance: +0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Dramatic lava passages. |
+| Uniqueness | 8.9 | Distinct volcanic cave geology. |
+| Significance | 8.5 | Regional volcanic heritage. |
+| Experience | 8.8 | Guided underground experience. |
+| Depth | 8.3 | Bounded visitor route. |
+
+- Applicable categories: nature:9.2, photography:9.1, adventure:8.9.
+- Computed worldwide overall: 87.15/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-drach-caves — Caves of Drach — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/drach-caves.yaml)
+- Action: new
+- Precise subject and limitations: Linked show caves and underground lake; concert and boat arrangements subject to operator availability. Excludes nearby Coves dels Hams.
+- Location check: 39.5355, 3.3303; [published representative point](https://costamap.com/destination/cuevas-del-drach-porto-cristo-mallorca/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/caves-drach/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/pulpi](../../../countries/ES/sights/pulpi.yaml) | 8.9 / 9.4 / 9.1 / 8.3 / 7.5 | depth: +1.0 vs peer; significance: -0.6 vs peer. |
+| [DZ/beni-add-cave](../../../countries/DZ/sights/beni-add-cave.yaml) | 8.8 / 8.6 / 7.9 / 8.8 / 8.3 | significance: +0.6 vs peer; uniqueness: +0.3 vs peer. |
+| [MA/imi-n-ifri-natural-bridge](../../../countries/MA/sights/imi-n-ifri-natural-bridge.yaml) | 8.6 / 8.8 / 8.0 / 8.3 / 7.7 | depth: +0.8 vs peer; experience: +0.6 vs peer. |
+| [ES/altamira-replica](../../../countries/ES/sights/altamira-replica.yaml) | 8.7 / 8.9 / 8.8 / 8.8 / 8.4 | impact: +0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Extensive cave formations and lake. |
+| Uniqueness | 8.9 | Distinct lake and cave experience. |
+| Significance | 8.5 | Regional geological heritage. |
+| Experience | 8.9 | Developed show-cave tour. |
+| Depth | 8.5 | Several interconnected chambers. |
+
+- Applicable categories: nature:9.3, photography:9.2, family:8.9, adventure:8.8.
+- Computed worldwide overall: 88.10/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-la-concha-bay — La Concha Beach and Bay Promenade — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/la-concha-bay.yaml)
+- Action: new
+- Precise subject and limitations: Public beach and waterfront promenade. Excludes private spa, separately visitable island and old town. Swimming conditional on sea conditions.
+- Location check: 43.31772, -1.99152; [published representative point](https://mapcarta.com/25260282), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/beach/concha-san-sebastian/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [MA/oualidia-lagoon](../../../countries/MA/sights/oualidia-lagoon.yaml) | 8.7 / 8.5 / 8.1 / 8.8 / 8.3 | impact: +0.2 vs peer; significance: +0.2 vs peer. |
+| [MA/legzira-beach](../../../countries/MA/sights/legzira-beach.yaml) | 8.9 / 8.7 / 7.6 / 8.5 / 7.9 | significance: +0.7 vs peer; experience: +0.5 vs peer. |
+| [TN/cap-serrat-beach](../../../countries/TN/sights/cap-serrat-beach.yaml) | 8.6 / 8.2 / 7.3 / 8.5 / 7.8 | significance: +1.0 vs peer; depth: +0.6 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Scenic crescent bay. |
+| Uniqueness | 8.6 | Distinct urban beach setting. |
+| Significance | 8.3 | Important regional seafront identity. |
+| Experience | 9.0 | Public beach and promenade. |
+| Depth | 8.4 | Bounded waterfront. |
+
+- Applicable categories: beaches:9.3, photography:9.2, relaxation:9.2.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

@@ -798,3 +798,16 @@ Eight additions and 32 peer rows; Morocco 69 ranked / 77 total. Forty additions 
 - [x] MA — Lake Iriqui Desert Salt Flat: 84.85/100 (source-linked-unverified).
 
 Two additions and eight peer rows; Morocco 71 ranked / 79 total. Forty-two additions across passes 66–71. Iriqui park aggregate excluded due to Erg Chigaga overlap; lakebed supported as standalone excursion with separate geography. Rabat museum independently ticketed. Current named high-priority queue exhausted, not an exhaustive nationwide inventory. Close Morocco and rotate to another country; next Spain for bounded screening. Eight prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 72 — major Spanish cultural, mountain and cave attractions
+
+- [x] ES — City of Arts and Sciences Valencia: 92.30/100 (source-linked-unverified).
+- [x] ES — Montserrat Monastery and Mountain: 91.90/100 (source-linked-unverified).
+- [x] ES — Ronda Old Town and Puente Nuevo Gorge: 90.65/100 (source-linked-unverified).
+- [x] ES — Nerja Cave: 89.20/100 (source-linked-unverified).
+- [x] ES — Jameos del Agua: 88.80/100 (source-linked-unverified).
+- [x] ES — Cueva de los Verdes: 87.15/100 (source-linked-unverified).
+- [x] ES — Caves of Drach: 88.10/100 (source-linked-unverified).
+- [x] ES — La Concha Beach and Bay Promenade: 86.70/100 (source-linked-unverified).
+
+Eight additions and 32 peer rows; Spain 110 ranked / 125 total. Official Spain tourism inventory screened. Valencia complex grouped; two Lanzarote lava-tube visitor venues distinct; Ronda precinct grouped. Existing serial/component overlaps (Gaudi, Alhambra, Ordesa, Cies) left unchanged as separate consistency work. Next bounded museums, city and coastal screen: Picasso Museum Barcelona, Dali Theatre-Museum, Santiago Bernabeu tour, Albufera, Palma Cathedral, San Sebastian old town, Gaztelugatxe, and Cabo de Gata. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.

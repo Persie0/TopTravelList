@@ -1,0 +1,17 @@
+id: sight-es-jameos-del-agua
+name: "Jameos del Agua"
+location:
+  country_code: ES
+  latitude: 29.15722
+  longitude: -13.43222
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    nature: 9.1
+    photography: 9.4
+    culture: 9.0
