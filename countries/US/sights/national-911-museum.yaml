@@ -1,0 +1,15 @@
+id: sight-us-national-911-museum
+name: "National September 11 Memorial and Museum New York"
+location:
+  country_code: US
+  latitude: 40.711
+  longitude: -74.013
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3

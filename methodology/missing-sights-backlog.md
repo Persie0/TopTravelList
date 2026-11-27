@@ -2861,3 +2861,29 @@ Regional overview: https://www.france.fr/fr/destination/mayotte/ ; https://touri
 - [x] NC — Wadiana Goro Waterfall and Forest Pools: 85.60/100 (desk-based provisional).
 
 Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-see-and-do-in-lifou/ ; https://www.newcaledonia.travel/destination/east-coast/top-east-coast-experiences/ ; https://www.newcaledonia.travel/destination/great-south/top-experiences/ ; https://www.newcaledonia.travel/activities/preserved-nature/top-hiking-trails/ ; https://whc.unesco.org/en/list/1115/maps/ . 13 additions, 7 desk-based provisional, 6 source-informed, 4 90+, 34 domestic ranking-row comparisons. New Caledonia 32 ranked / 32 total. Bounded queue closed; no generic reef duplicates or individual GR Nord stages. Mont Panié summit deferred pending customary access, GR Sud pending parent scope; Jinek and Upi Bay not duplicated. Exact UNESCO boundaries not spatially verified. Existing scores preserved. All previously open French overseas priority queues now closed. Next: review remaining paused worldwide country queues and select next country; unassessed records remain separate. Full Python validation pending.
+
+
+### Pass 182 — United States resumed landmark, museum and theme park queue
+
+- [x] US — Steven F. Udvar-Hazy Center Chantilly Aviation and Space Museum: 93.40/100 (source-linked-unverified).
+- [x] US — Smithsonian National Museum of American History: 92.15/100 (source-linked-unverified).
+- [x] US — National Museum of the United States Air Force Dayton: 92.20/100 (source-linked-unverified).
+- [x] US — Broadway Theatre Performances New York: 91.95/100 (source-linked-unverified).
+- [x] US — National September 11 Memorial and Museum New York: 91.60/100 (source-linked-unverified).
+- [x] US — Universal Epic Universe Orlando: 91.30/100 (source-linked-unverified).
+- [x] US — Library of Congress Thomas Jefferson Building and Exhibitions: 90.95/100 (source-linked-unverified).
+- [x] US — Universal Islands of Adventure Orlando: 90.40/100 (source-linked-unverified).
+- [x] US — Universal Studios Hollywood Theme Park and Studio Tour: 90.60/100 (source-linked-unverified).
+- [x] US — Disney’s Animal Kingdom Theme Park Florida: 90.30/100 (source-linked-unverified).
+- [x] US — EPCOT Theme Park Florida: 89.35/100 (source-linked-unverified).
+- [x] US — Disney’s Hollywood Studios Florida: 89.25/100 (source-linked-unverified).
+- [x] US — Universal Studios Florida Theme Park: 88.85/100 (source-linked-unverified).
+- [x] US — Disney California Adventure Park Anaheim: 88.20/100 (source-linked-unverified).
+- [x] US — Rockefeller Center Art Deco Complex and Top of the Rock: 88.95/100 (source-linked-unverified).
+- [x] US — White House and President’s Park Visitor Heritage: 89.05/100 (source-linked-unverified).
+- [x] US — United States Capitol Guided Tour and Visitor Center: 89.90/100 (source-linked-unverified).
+- [x] US — New York Public Library Stephen A. Schwarzman Building and Bryant Park: 87.20/100 (desk-based provisional).
+- [x] US — One World Observatory New York: 86.70/100 (desk-based provisional).
+- [x] US — Smithsonian National Portrait Gallery and American Art Museum Washington: 90.10/100 (source-linked-unverified).
+
+20 additions, 2 desk-based provisional, 18 source-informed, 11 90+, 62 domestic ranking-row comparisons. United States 156 ranked / 156 total. Jefferson Memorial excluded as National Mall component (https://www.nps.gov/thje/planyourvisit/directions.htm); Rockefeller Center and observation deck grouped; Broadway performance distinct from Times Square; individually ticketed theme parks assessed separately, no separate rides or resort umbrellas. Existing scores retained. Next: missing national parks and regional museum/landmark screen. Full Python validation pending.

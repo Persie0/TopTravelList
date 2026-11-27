@@ -1,0 +1,16 @@
+id: sight-us-national-usaf-museum
+name: "National Museum of the United States Air Force Dayton"
+location:
+  country_code: US
+  latitude: 39.782
+  longitude: -84.11
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 9.4
+  categories:
+    history: 9.4
+    family: 9.3
+    culture: 9.1

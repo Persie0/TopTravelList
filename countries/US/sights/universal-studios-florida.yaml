@@ -1,0 +1,16 @@
+id: sight-us-universal-studios-florida
+name: "Universal Studios Florida Theme Park"
+location:
+  country_code: US
+  latitude: 28.475
+  longitude: -81.469
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.2
+  depth: 9.1
+  categories:
+    family: 9.4
+    adventure: 9.1
+    culture: 9.0

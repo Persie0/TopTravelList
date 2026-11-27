@@ -4917,3 +4917,463 @@ Peer dimensions from existing ranking tables; full source YAML recheck pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-us-udvar-hazy-center — Steven F. Udvar-Hazy Center Chantilly Aviation and Space Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/udvar-hazy-center.yaml)
+- Action: new
+- Scope: Separate Smithsonian campus and full-size aircraft and spacecraft collections including Discovery; no duplicated DC exhibits.
+- Representative coordinates: 38.911, -77.444; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.4 / 9.2 / 9.4.
+- Categories: history:9.4,family:9.3,culture:9.1.
+- Overall: 93.40/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.si.edu/newsdesk/factsheets/national-air-and-space-museum-s-steven-f-udvar-hazy-center ; https://airandspace.si.edu/visit/udvar-hazy-center.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | impact: +0.4 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-museum-american-history — Smithsonian National Museum of American History — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-museum-american-history.yaml)
+- Action: new
+- Scope: Independent Smithsonian museum; more than three million historical objects in collection, not all displayed.
+- Representative coordinates: 38.8913, -77.03; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.4 / 9.1 / 9.4.
+- Categories: history:9.4,culture:9.4,family:9.2.
+- Overall: 92.15/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.si.edu/museums/american-history-museum ; https://www.americanhistory.si.edu/explore/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/smithsonian-national-museum-of-natural-history](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | significance: +0.1 vs peer; experience: -0.1 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-usaf-museum — National Museum of the United States Air Force Dayton — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-usaf-museum.yaml)
+- Action: new
+- Scope: Four hangar buildings, extensive aviation history; separate from Dayton Aviation Heritage historical park.
+- Representative coordinates: 39.782, -84.11; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.1 / 9.4.
+- Categories: history:9.4,family:9.3,culture:9.1.
+- Overall: 92.20/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nationalmuseum.af.mil/Visit/Questions.aspx ; https://www.destinationdayton.org/things-to-do/attractions/air-force-museum/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | depth: +0.3 vs peer; significance: -0.1 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/dayton-aviation-heritage](../../../countries/US/sights/dayton-aviation-heritage.yaml) | 7.9 / 8.6 / 9.1 / 8.3 / 8.3 | impact: +1.2 vs peer; depth: +1.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-broadway-theatre — Broadway Theatre Performances New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/broadway-theatre.yaml)
+- Action: new
+- Scope: Live professional theatre performance, representative theatre district point; not Times Square street experience or individual productions.
+- Representative coordinates: 40.759, -73.985; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.4,nightlife:9.3,family:9.0.
+- Overall: 91.95/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.broadway.org/broadway-theatres ; https://www.broadway.org/shows.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-orleans-french-quarter](../../../countries/US/sights/new-orleans-french-quarter.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/times-square](../../../countries/US/sights/times-square.yaml) | 9.0 / 9.0 / 8.5 / 8.4 / 7.2 | depth: +1.8 vs peer; experience: +0.9 vs peer |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | depth: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: +0.4 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-911-museum — National September 11 Memorial and Museum New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-911-museum.yaml)
+- Action: new
+- Scope: Combined memorial and museum; historical artifacts, testimony and remembrance; commemorative experience.
+- Representative coordinates: 40.711, -74.013; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 8.9 / 9.2.
+- Categories: history:9.4,culture:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://911memorial.org/visit/museum/exhibitions ; https://collection.911memorial.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | experience: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/uss-arizona-memorial](../../../countries/US/sights/uss-arizona-memorial.yaml) | 9.0 / 9.3 / 9.4 / 8.8 / 7.8 | depth: +1.4 vs peer; experience: +0.1 vs peer |
+| [US/ellis-island](../../../countries/US/sights/ellis-island.yaml) | 8.1 / 8.8 / 9.3 / 8.6 / 8.3 | impact: +0.9 vs peer; depth: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-epic-universe — Universal Epic Universe Orlando — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/epic-universe.yaml)
+- Action: new
+- Scope: Independent ticketed park with five themed worlds; no individual rides or resort umbrella.
+- Representative coordinates: 28.469, -81.447; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.7 / 9.4 / 9.2.
+- Categories: family:9.4,adventure:9.3,photography:9.2.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.universalorlando.com/web/en/US/theme-parks/epic-universe ; https://www.universalorlando.com/web/en/us/things-to-do/whats-happening.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.5 vs peer; impact: +0.3 vs peer |
+| [US/las-vegas-strip](../../../countries/US/sights/las-vegas-strip.yaml) | 9.2 / 9.1 / 8.4 / 8.8 / 8.7 | experience: +0.6 vs peer; depth: +0.5 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.7 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-library-of-congress — Library of Congress Thomas Jefferson Building and Exhibitions — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/library-of-congress.yaml)
+- Action: new
+- Scope: Architecture and public exhibitions; excludes restricted research collections and Capitol tour.
+- Representative coordinates: 38.8887, -77.0047; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 8.9 / 9.0.
+- Categories: architecture:9.4,history:9.4,culture:9.4.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.loc.gov/exhibits/ ; https://www.loc.gov/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +1.2 vs peer; uniqueness: +0.4 vs peer |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | depth: -0.4 vs peer; experience: -0.3 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +1.2 vs peer; impact: +0.9 vs peer |
+| [US/guggenheim-museum-new-york](../../../countries/US/sights/guggenheim-museum-new-york.yaml) | 8.9 / 9.1 / 9.2 / 8.8 / 8.5 | depth: +0.5 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-islands-of-adventure — Universal Islands of Adventure Orlando — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/islands-of-adventure.yaml)
+- Action: new
+- Scope: Independent themed park distinct from adjacent Universal Studios Florida and Epic Universe.
+- Representative coordinates: 28.471, -81.471; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.7 / 9.4 / 9.1.
+- Categories: family:9.4,adventure:9.3,photography:9.1.
+- Overall: 90.40/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.universalorlando.com/web/en/gb/theme-parks/islands-of-adventure ; https://www.universalorlando.com/web/en/us/tickets-packages/park-tickets.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | depth: -0.3 vs peer; significance: +0.2 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-universal-hollywood — Universal Studios Hollywood Theme Park and Studio Tour — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/universal-hollywood.yaml)
+- Action: new
+- Scope: Theme park including its working movie studio backlot tour counted once.
+- Representative coordinates: 34.138, -118.353; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 8.9 / 9.2 / 9.0.
+- Categories: family:9.4,culture:9.2,adventure:9.1.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour?attraction_experience=rides-attractions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | depth: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | significance: -0.5 vs peer; depth: -0.3 vs peer |
+| [US/getty-center](../../../countries/US/sights/getty-center.yaml) | 9.1 / 9.1 / 9.0 / 9.2 / 9.1 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-disney-animal-kingdom — Disney’s Animal Kingdom Theme Park Florida — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/disney-animal-kingdom.yaml)
+- Action: new
+- Scope: Independent park combining wildlife experiences and immersive themed attractions; no separate Pandora or safari entries.
+- Representative coordinates: 28.358, -81.59; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.7 / 9.3 / 9.2.
+- Categories: family:9.4,wildlife:9.3,nature:9.2.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://disneyworld.disney.go.com/destinations/animal-kingdom/?CMP=ILC-DPFY21Q1wo1022200011A.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-epcot — EPCOT Theme Park Florida — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/epcot.yaml)
+- Action: new
+- Scope: World Showcase, technology-themed experiences and rides in one independently ticketed park.
+- Representative coordinates: 28.3747, -81.5494; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 9.2 / 9.2.
+- Categories: family:9.4,culture:9.1,food:9.1.
+- Overall: 89.35/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://disneyworld.disney.go.com/attractions/epcot/ ; https://disneyworld.disney.go.com/dining/animal-kingdom/epcot/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-hollywood-studios-florida — Disney’s Hollywood Studios Florida — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hollywood-studios-florida.yaml)
+- Action: new
+- Scope: Separate Disney park; Star Wars and other themed lands included, not individually ranked.
+- Representative coordinates: 28.3575, -81.558; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.5 / 9.3 / 9.1.
+- Categories: family:9.4,adventure:9.2,photography:9.1.
+- Overall: 89.25/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://disneyworld.disney.go.com/destinations/hollywood-studios/?CMP=ILC-DPFY20Q1wo1226190101200088E.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.3 vs peer; depth: -0.1 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-universal-studios-florida — Universal Studios Florida Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/universal-studios-florida.yaml)
+- Action: new
+- Scope: Distinct ticketed park; no cross-park duplicate Hogwarts Express or individual rides.
+- Representative coordinates: 28.475, -81.469; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.2 / 9.1.
+- Categories: family:9.4,adventure:9.1,culture:9.0.
+- Overall: 88.85/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.2 vs peer; experience: -0.1 vs peer |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-disney-california-adventure — Disney California Adventure Park Anaheim — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/disney-california-adventure.yaml)
+- Action: new
+- Scope: Independent park adjacent to Disneyland; Cars Land included within parent.
+- Representative coordinates: 33.805, -117.918; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 9.2 / 9.0.
+- Categories: family:9.4,adventure:9.1,photography:9.0.
+- Overall: 88.20/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://disneyland.disney.go.com/en_CA/destinations/disney-california-adventure/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/magic-kingdom-park](../../../countries/US/sights/magic-kingdom-park.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-rockefeller-center — Rockefeller Center Art Deco Complex and Top of the Rock — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/rockefeller-center.yaml)
+- Action: new
+- Scope: Art Deco architecture, artwork and observation deck combined; no separate deck score.
+- Representative coordinates: 40.759, -73.979; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 9.0 / 8.5.
+- Categories: architecture:9.4,photography:9.3,history:9.2.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.rockefellercenter.com/history/ ; https://www.rockefellercenter.com/plan-your-day/history-and-art/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | depth: +0.5 vs peer; impact: -0.2 vs peer |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +0.7 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-white-house-presidents-park — White House and President’s Park Visitor Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/white-house-presidents-park.yaml)
+- Action: new
+- Scope: Public views and visitor center interpretation; authorized house tour conditional, no guaranteed access. Separate NPS site from Mall.
+- Representative coordinates: 38.8977, -77.0365; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.4 / 8.4 / 8.2.
+- Categories: history:9.4,architecture:9.2,culture:9.2.
+- Overall: 89.05/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/whho/planyourvisit/basicinfo.htm ; https://www.nps.gov/thingstodo/explore-the-white-house-visitor-center.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.2 | depth: -1.0 vs peer; experience: -0.6 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | impact: +0.8 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-us-capitol — United States Capitol Guided Tour and Visitor Center — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/us-capitol.yaml)
+- Action: new
+- Scope: Dedicated interior tour and Exhibition Hall, distinct from outdoor Mall experience.
+- Representative coordinates: 38.8899, -77.0091; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.4 / 8.8 / 8.7.
+- Categories: history:9.4,architecture:9.4,culture:9.2.
+- Overall: 89.90/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visitthecapitol.gov/visit ; https://www.visitthecapitol.gov/visit/know-before-you-go/tips-for-visiting-the-capitol.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-mall-and-memorial-parks](../../../countries/US/sights/national-mall-and-memorial-parks.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.2 | depth: -0.5 vs peer; experience: -0.2 vs peer |
+| [US/independence-hall](../../../countries/US/sights/independence-hall.yaml) | 8.1 / 8.8 / 9.4 / 8.4 / 7.8 | depth: +0.9 vs peer; impact: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-bryant-park-nypl — New York Public Library Stephen A. Schwarzman Building and Bryant Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bryant-park-nypl.yaml)
+- Action: new
+- Scope: Library architecture, public exhibits and adjacent park grouped.
+- Representative coordinates: 40.7532, -73.9822; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.8 / 8.6.
+- Categories: architecture:9.3,culture:9.2,history:9.2.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +0.8 vs peer; impact: -0.2 vs peer |
+| [US/central-park](../../../countries/US/sights/central-park.yaml) | 8.7 / 8.7 / 8.7 / 9.0 / 8.8 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-one-world-observatory — One World Observatory New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/one-world-observatory.yaml)
+- Action: new
+- Scope: Dedicated skyscraper viewing experience, not memorial or museum.
+- Representative coordinates: 40.713, -74.0135; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.4 / 8.9 / 8.1.
+- Categories: photography:9.3,architecture:9.2.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | significance: -0.6 vs peer; impact: -0.2 vs peer |
+| [US/space-needle](../../../countries/US/sights/space-needle.yaml) | 8.6 / 8.6 / 8.4 / 8.8 / 7.6 | depth: +0.5 vs peer; impact: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-national-portrait-gallery — Smithsonian National Portrait Gallery and American Art Museum Washington — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-portrait-gallery.yaml)
+- Action: new
+- Scope: Shared historic building and complementary portrait/American art collections grouped; excludes Renwick Gallery.
+- Representative coordinates: 38.8979, -77.0227; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.1 / 9.0 / 9.2.
+- Categories: culture:9.4,history:9.3,architecture:9.1.
+- Overall: 90.10/100.
+- Decision: Source-informed provisional assessment from indexed official/operator excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://americanart.si.edu/about ; https://fellowships.si.edu/SORSNPG.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

@@ -1,0 +1,16 @@
+id: sight-us-white-house-presidents-park
+name: "White House and President’s Park Visitor Heritage"
+location:
+  country_code: US
+  latitude: 38.8977
+  longitude: -77.0365
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.4
+  depth: 8.2
+  categories:
+    history: 9.4
+    architecture: 9.2
+    culture: 9.2
