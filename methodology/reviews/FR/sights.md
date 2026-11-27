@@ -7471,3 +7471,631 @@ Peer ranking rows checked; individual YAML and international calibration pending
 - Overall: 84.95/100.
 - Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-sedan-castle — Château Fort de Sedan Medieval Fortress and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sedan-castle.yaml)
+- Action: new
+- Scope: Fortress and museum combined.
+- Representative coordinates: 49.702, 4.949; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.2 / 9.2.
+- Categories: architecture:9.4,history:9.4,photography:9.3.
+- Overall: 92.95/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.chateau-fort-sedan.fr/en/tour-itinerary/.
+- Research rationale: 35,000 m² fortress with 3,000 m² interpreted circuit.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/joux-castle](../../../countries/FR/sights/joux-castle.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+| [FR/haut-koenigsbourg](../../../countries/FR/sights/haut-koenigsbourg.yaml) | 9.3 / 9.2 / 9.2 / 9.2 / 9.1 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/salses-fortress](../../../countries/FR/sights/salses-fortress.yaml) | 9.2 / 9.3 / 9.3 / 9.0 / 9.0 | experience: +0.2 vs peer; depth: +0.2 vs peer |
+| [FR/chinon-fortress](../../../countries/FR/sights/chinon-fortress.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-troyes-old-town — Troyes Historic Centre and Gothic Churches — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/troyes-old-town.yaml)
+- Action: new
+- Scope: Historic streets, cathedral and churches; separate museum collections excluded.
+- Representative coordinates: 48.299, 4.079; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.2 / 9.3 / 9.2.
+- Categories: architecture:9.4,photography:9.4,history:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://visitgrandest.fr/en/lieux/troyes/ ; https://en.troyeslachampagne.com/discover/historical-centre/.
+- Research rationale: Medieval timber houses, Gothic churches, cathedral stained glass and stone rood screen.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/rouen-ensemble](../../../countries/FR/sights/rouen-ensemble.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.0 | experience: +0.3 vs peer; depth: +0.2 vs peer |
+| [FR/colmar-old-town](../../../countries/FR/sights/colmar-old-town.yaml) | 9.3 / 9.1 / 9.0 / 9.3 / 9.0 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [FR/annecy-old-town](../../../countries/FR/sights/annecy-old-town.yaml) | 9.2 / 9.0 / 9.0 / 9.2 / 9.0 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [FR/vannes-historic-centre](../../../countries/FR/sights/vannes-historic-centre.yaml) | 8.9 / 8.8 / 9.0 / 9.1 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-reims-reddition — Musée de la Reddition Reims Historic Surrender Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/reims-reddition.yaml)
+- Action: new
+- Scope: Historical signing room and museum, independent from UNESCO cathedral ensemble.
+- Representative coordinates: 49.262, 4.024; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4,culture:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://musees-reims.fr/fr/musees/musee-de-la-reddition-du-7-mai-1945 ; https://musees-reims.fr/fr/la-vie-des-musees/actus/article/reouverture-du-musee-de-la-reddition.
+- Research rationale: Historic signing room preserved and interpreted, museum renewed in 2026.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/memorial-caen](../../../countries/FR/sights/memorial-caen.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | uniqueness: +0.4 vs peer; depth: -0.2 vs peer |
+| [FR/verdun-memorial](../../../countries/FR/sights/verdun-memorial.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [FR/lyon-chrd](../../../countries/FR/sights/lyon-chrd.yaml) | 8.8 / 8.9 / 9.2 / 8.8 / 9.0 | uniqueness: +0.5 vs peer; impact: +0.2 vs peer |
+| [FR/besancon-resistance](../../../countries/FR/sights/besancon-resistance.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 9.2 | uniqueness: +0.3 vs peer; impact: +0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-nancy-musee-lorrain — Musée Lorrain Nancy Ducal Palace History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nancy-musee-lorrain.yaml)
+- Action: new
+- Scope: Existing collections only; no assumed completion of future extension; renovation not penalized.
+- Representative coordinates: 48.697, 6.179; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.0 / 9.3.
+- Categories: history:9.4,culture:9.4.
+- Overall: 91.40/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://musee-lorrain.nancy.fr/en/visit ; https://www.museesgrandest.org/les-musees/musee-lorrain-palais-des-ducs-de-lorraine/ ; https://musee-lorrain.nancy.fr/en/the-museum/the-renovation-project/key-dates.
+- Research rationale: Rich archaeology, art and ethnography; renovation involved moving 2,500 previously displayed items.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/rolin-autun](../../../countries/FR/sights/rolin-autun.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.2 | depth: +0.1 vs peer; impact: +0.0 vs peer |
+| [FR/dijon-beaux-arts](../../../countries/FR/sights/dijon-beaux-arts.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/besancon-beaux-arts](../../../countries/FR/sights/besancon-beaux-arts.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-troyes-modern-art — Musée d’Art Moderne Troyes Pierre and Denise Lévy Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/troyes-modern-art.yaml)
+- Action: new
+- Scope: Permanent collections, separate from cathedral and historic centre.
+- Representative coordinates: 48.302, 4.085; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 9.1 / 9.3.
+- Categories: culture:9.4,history:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://musees-troyes.com/a-propos-musee-dart-moderne/ ; https://www.ville-troyes.fr/decouvrir-troyes/troyes-un-patrimoine-et-une-architecture-exceptionnels/le-patrimoine-museal/.
+- Research rationale: Around 2,000 donated works spanning 1850–1950, including paintings, glass and sculpture.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-fabre](../../../countries/FR/sights/musee-fabre.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 9.3 | uniqueness: +0.1 vs peer; impact: +0.0 vs peer |
+| [FR/musee-soulages](../../../countries/FR/sights/musee-soulages.yaml) | 9.0 / 9.4 / 9.2 / 9.1 / 9.1 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/mac-lyon](../../../countries/FR/sights/mac-lyon.yaml) | 8.6 / 8.8 / 8.6 / 8.8 / 8.9 | significance: +0.6 vs peer; impact: +0.5 vs peer |
+| [FR/unterlinden-colmar](../../../countries/FR/sights/unterlinden-colmar.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-epernay-archeochampagne — Musée du Vin de Champagne et d’Archéologie Régionale Épernay Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/epernay-archeochampagne.yaml)
+- Action: new
+- Scope: Collections only, excludes Château Perrier exterior and cellar/vineyard experiences in UNESCO Champagne.
+- Representative coordinates: 49.043, 3.965; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.3.
+- Categories: history:9.4,culture:9.4,food:9.2.
+- Overall: 91.35/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://archeochampagne.epernay.fr/en/home/ ; https://www.culture.gouv.fr/regions/drac-grand-est/actu/an/2021/musee-Epernay.
+- Research rationale: 2,000 displayed objects with geological, archaeological and winemaking interpretation.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/cite-du-vin-bordeaux](../../../countries/FR/sights/cite-du-vin-bordeaux.yaml) | 9.0 / 9.1 / 8.7 / 9.1 / 9.1 | significance: +0.5 vs peer; depth: +0.2 vs peer |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [FR/musee-fenaille](../../../countries/FR/sights/musee-fenaille.yaml) | 8.8 / 9.3 / 9.3 / 8.9 / 9.0 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [FR/burgundy-climats](../../../countries/FR/sights/burgundy-climats.yaml) | 8.7 / 9.1 / 9.2 / 8.9 / 9.2 | impact: +0.3 vs peer; experience: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-reims-saint-remi-museum — Musée Saint-Remi Reims Archaeology and History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/reims-saint-remi-museum.yaml)
+- Action: new
+- Scope: Collections only; abbey architecture remains in Reims ensemble.
+- Representative coordinates: 49.242, 4.043; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.0 / 9.2.
+- Categories: history:9.4,culture:9.4.
+- Overall: 91.05/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://musees-reims.fr/fr/musees/musee-saint-remi/ ; https://musees-reims.fr/fr/centres-de-ressources/article/histoire-des-collections.
+- Research rationale: Archaeology and historical collections from antiquity to medieval period, including regional sculpture.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/lugdunum-collections](../../../countries/FR/sights/lugdunum-collections.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.3 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [FR/rolin-autun](../../../countries/FR/sights/rolin-autun.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.2 | uniqueness: -0.1 vs peer; impact: +0.0 vs peer |
+| [FR/besancon-beaux-arts](../../../countries/FR/sights/besancon-beaux-arts.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-troyes-cite-vitrail — Cité du Vitrail Troyes Stained Glass and Apothicary Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/troyes-cite-vitrail.yaml)
+- Action: new
+- Scope: Original glass displayed at eye level, excludes church glass already in old town; apothecary included.
+- Representative coordinates: 48.3, 4.081; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.0 / 9.1 / 9.2.
+- Categories: culture:9.4,history:9.3.
+- Overall: 90.80/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://cite-vitrail.fr/fr ; https://www.ville-troyes.fr/decouvrir-troyes/troyes-un-patrimoine-et-une-architecture-exceptionnels/le-patrimoine-museal/.
+- Research rationale: Specialist exhibition interpreting historical and contemporary stained glass.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/lalique-museum](../../../countries/FR/sights/lalique-museum.yaml) | 9.0 / 9.3 / 9.1 / 9.1 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [FR/nancy-ecole](../../../countries/FR/sights/nancy-ecole.yaml) | 9.2 / 9.4 / 9.2 / 9.2 / 9.3 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [FR/meisenthal-glass](../../../countries/FR/sights/meisenthal-glass.yaml) | 8.9 / 9.1 / 9.0 / 9.0 / 9.1 | uniqueness: +0.2 vs peer; experience: +0.1 vs peer |
+| [FR/musee-arts-decoratifs](../../../countries/FR/sights/musee-arts-decoratifs.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-colombey-de-gaulle — Mémorial Charles de Gaulle and La Boisserie Colombey-les-Deux-Églises — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/colombey-de-gaulle.yaml)
+- Action: new
+- Scope: Memorial, cross and historic residence combined; residence scope provisionally assessed.
+- Representative coordinates: 48.225, 4.882; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.4 / 9.0 / 9.2.
+- Categories: history:9.4,culture:9.3.
+- Overall: 91.25/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.memorial-charlesdegaulle.fr/le-memorial-charles-de-gaulle/lexposition-permanente/.
+- Research rationale: Permanent exhibition interprets twentieth-century French history through de Gaulle's life.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/memorial-caen](../../../countries/FR/sights/memorial-caen.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [FR/reims-reddition](../../../countries/FR/sights/reims-reddition.yaml) | 9.0 / 9.4 / 9.4 / 9.0 / 9.1 | uniqueness: -0.3 vs peer; depth: +0.1 vs peer |
+| [FR/verdun-memorial](../../../countries/FR/sights/verdun-memorial.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [FR/chavaniac-lafayette](../../../countries/FR/sights/chavaniac-lafayette.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.7 | depth: +0.5 vs peer; impact: +0.4 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-lac-du-der — Lac du Der Champagne Lake Birdwatching and Cycling — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lac-du-der.yaml)
+- Action: new
+- Scope: Lake, birdwatching and shore cycling; seasonal crane spectacle intrinsic.
+- Representative coordinates: 48.595, 4.754; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.7 / 9.2 / 9.2.
+- Categories: wildlife:9.4,nature:9.3,photography:9.4,relaxation:9.3.
+- Overall: 90.15/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://visitgrandest.fr/en/activites/lac/ ; https://www.lacduder.com/en/discover/birdwatching/the-best-places-for-birdwatching/4-strategic-places-to-see-the-cranes/ ; https://www.lacduder.com/en/frequently-asked-questions/.
+- Research rationale: Major artificial lake, common crane migration and 38 km circuit.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dombes-ponds](../../../countries/FR/sights/dombes-ponds.yaml) | 8.6 / 8.7 / 8.5 / 8.8 / 8.9 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+| [FR/camargue](../../../countries/FR/sights/camargue.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 9.1 | significance: -0.4 vs peer; experience: +0.2 vs peer |
+| [FR/teich-bird-reserve](../../../countries/FR/sights/teich-bird-reserve.yaml) | 8.6 / 8.9 / 8.8 / 8.9 / 8.7 | depth: +0.5 vs peer; impact: +0.4 vs peer |
+| [FR/lac-annecy](../../../countries/FR/sights/lac-annecy.yaml) | 9.3 / 9.0 / 8.7 / 9.4 / 9.2 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-langres-ramparts — Langres Historic Fortified Town and Ramparts — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/langres-ramparts.yaml)
+- Action: new
+- Scope: Town and ramparts combined; Vauban serial list does not include Langres.
+- Representative coordinates: 47.864, 5.333; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.0 / 9.0.
+- Categories: architecture:9.4,history:9.3,photography:9.3.
+- Overall: 90.20/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://visitgrandest.fr/en/lieux/langres/ ; https://visitgrandest.fr/en/activites/patrimoine/citadelles/.
+- Research rationale: More than 3.5 km of encircling ramparts, towers and gates.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/aigues-mortes-ramparts](../../../countries/FR/sights/aigues-mortes-ramparts.yaml) | 9.2 / 9.2 / 9.2 / 9.1 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [FR/saint-malo-intra-muros](../../../countries/FR/sights/saint-malo-intra-muros.yaml) | 9.2 / 9.1 / 9.1 / 9.2 / 9.0 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [FR/dinan-historic-centre](../../../countries/FR/sights/dinan-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.0 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [FR/semur-auxois](../../../countries/FR/sights/semur-auxois.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-amneville-zoo — Zoo d’Amnéville Wildlife Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/amneville-zoo.yaml)
+- Action: new
+- Scope: Zoo collections and interpretation.
+- Representative coordinates: 49.247, 6.132; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.4 / 9.2 / 9.1.
+- Categories: wildlife:9.4,family:9.4.
+- Overall: 88.95/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://zoo-amneville.com/en/faq-3/ ; https://zoo-amneville.com/en/all-our-animals/.
+- Research rationale: Operator states about 2,000 animals of 200 species over 18 hectares.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/sigean-wildlife-park](../../../countries/FR/sights/sigean-wildlife-park.yaml) | 9.0 / 9.0 / 8.5 / 9.3 / 9.3 | depth: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/safari-peaugres](../../../countries/FR/sights/safari-peaugres.yaml) | 8.8 / 8.7 / 8.4 / 9.0 / 8.8 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [FR/le-pal](../../../countries/FR/sights/le-pal.yaml) | 9.1 / 9.0 / 8.5 / 9.4 / 9.3 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+| [FR/bioparc-doue](../../../countries/FR/sights/bioparc-doue.yaml) | 9.0 / 9.2 / 8.3 / 9.1 / 9.1 | uniqueness: -0.3 vs peer; significance: +0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-domremy-jeanne — Maison Natale de Jeanne d’Arc Domrémy and Interpretation Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/domremy-jeanne.yaml)
+- Action: new
+- Scope: Birthplace and interpretation centre combined.
+- Representative coordinates: 48.442, 5.675; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.4 / 8.9 / 8.8.
+- Categories: history:9.4,culture:9.3.
+- Overall: 90.10/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.tourisme-ouest-vosges.fr/espace-groupes/nos-visites-guidees/decouverte-de-louest-des-vosges/la-maison-natale-de-jeanne-darc/.
+- Research rationale: Historic birthplace and modern interpretation of Joan of Arc.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/pasteur-houses](../../../countries/FR/sights/pasteur-houses.yaml) | 8.9 / 9.3 / 9.4 / 9.0 / 9.2 | depth: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [FR/chavaniac-lafayette](../../../countries/FR/sights/chavaniac-lafayette.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.7 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [FR/colette-house](../../../countries/FR/sights/colette-house.yaml) | 8.6 / 9.0 / 9.0 / 8.8 / 8.7 | significance: +0.4 vs peer; impact: +0.2 vs peer |
+| [FR/clos-luce](../../../countries/FR/sights/clos-luce.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-nigloland — Nigloland Family Amusement Park Dolancourt — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nigloland.yaml)
+- Action: new
+- Scope: Theme park only.
+- Representative coordinates: 48.263, 4.615; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.0 / 9.3 / 9.1.
+- Categories: family:9.4,adventure:9.3.
+- Overall: 87.75/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nigloland.com/map ; https://www.nigloland.fr/.
+- Research rationale: Substantial ride inventory documented by operator map.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/le-pal](../../../countries/FR/sights/le-pal.yaml) | 9.1 / 9.0 / 8.5 / 9.4 / 9.3 | significance: -0.5 vs peer; impact: -0.2 vs peer |
+| [FR/puy-du-fou](../../../countries/FR/sights/puy-du-fou.yaml) | 9.3 / 9.4 / 8.1 / 9.4 / 9.3 | uniqueness: -0.6 vs peer; impact: -0.4 vs peer |
+| [FR/fraispertuis-city](../../../countries/FR/sights/fraispertuis-city.yaml) | 8.6 / 8.6 / 8.0 / 9.1 / 8.8 | impact: +0.3 vs peer; depth: +0.3 vs peer |
+| [FR/disney-adventure-world](../../../countries/FR/sights/disney-adventure-world.yaml) | 8.7 / 8.6 / 8.2 / 9.1 / 8.8 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-charleville-ducal — Charleville-Mézières Place Ducale and Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/charleville-ducal.yaml)
+- Action: new
+- Scope: Square and surrounding historic streets.
+- Representative coordinates: 49.773, 4.721; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.9 / 8.9 / 8.6.
+- Categories: architecture:9.4,photography:9.3,history:9.2.
+- Overall: 88.70/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.ardennes.com/patrimoine-culturel/place-ducale/.
+- Research rationale: Seventeenth-century square with 26 pavilions and arcades.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/nancy-squares](../../../countries/FR/sights/nancy-squares.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 8.3 | impact: -0.3 vs peer; depth: +0.3 vs peer |
+| [FR/troyes-old-town](../../../countries/FR/sights/troyes-old-town.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.2 | depth: -0.6 vs peer; experience: -0.4 vs peer |
+| [FR/montauban-place-nationale](../../../countries/FR/sights/montauban-place-nationale.yaml) | 8.7 / 8.6 / 8.8 / 8.8 / 8.6 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [FR/vannes-historic-centre](../../../countries/FR/sights/vannes-historic-centre.yaml) | 8.9 / 8.8 / 9.0 / 9.1 / 9.0 | depth: -0.4 vs peer; experience: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-rimbaud-museum — Musée Arthur Rimbaud and Maison des Ailleurs Charleville — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rimbaud-museum.yaml)
+- Action: new
+- Scope: Literary collections and associated house combined.
+- Representative coordinates: 49.776, 4.722; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 9.0 / 9.1 / 8.8 / 8.8.
+- Categories: culture:9.4,history:9.3.
+- Overall: 88.80/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.ardennes.com/patrimoine-culturel/musee-arthur-rimbaud/.
+- Research rationale: Manuscripts and art inspired by Rimbaud; house scope provisional.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/colette-house](../../../countries/FR/sights/colette-house.yaml) | 8.6 / 9.0 / 9.0 / 8.8 / 8.7 | impact: +0.1 vs peer; significance: +0.1 vs peer |
+| [FR/chavaniac-lafayette](../../../countries/FR/sights/chavaniac-lafayette.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.7 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/musee-jules-verne-nantes](../../../countries/FR/sights/musee-jules-verne-nantes.yaml) | 8.5 / 8.9 / 9.0 / 8.5 / 8.4 | depth: +0.4 vs peer; experience: +0.3 vs peer |
+| [FR/pasteur-houses](../../../countries/FR/sights/pasteur-houses.yaml) | 8.9 / 9.3 / 9.4 / 9.0 / 9.2 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-bar-le-duc-upper — Bar-le-Duc Renaissance Upper Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bar-le-duc-upper.yaml)
+- Action: new
+- Scope: Upper town and historic architecture.
+- Representative coordinates: 48.768, 5.158; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.8 / 8.6.
+- Categories: architecture:9.3,history:9.3,photography:9.2.
+- Overall: 87.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saint-nicolas-port — Basilique Saint-Nicolas-de-Port Gothic Church — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-nicolas-port.yaml)
+- Action: new
+- Scope: Basilica and sculpture.
+- Representative coordinates: 48.632, 6.302; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: architecture:9.4,history:9.3,culture:9.2.
+- Overall: 88.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-toul-cathedral — Toul Cathedral and Gothic Cloister — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/toul-cathedral.yaml)
+- Action: new
+- Scope: Cathedral and cloister.
+- Representative coordinates: 48.674, 5.891; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: architecture:9.4,history:9.3,culture:9.2.
+- Overall: 88.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-epinal-museum-art — Musée Départemental d’Art Ancien et Contemporain Épinal — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/epinal-museum-art.yaml)
+- Action: new
+- Scope: Art collections; independent from print museum.
+- Representative coordinates: 48.173, 6.449; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.8 / 8.9.
+- Categories: culture:9.3,history:9.2.
+- Overall: 87.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-fermont-fort — Ouvrage de Fermont Maginot Line Heritage Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/fermont-fort.yaml)
+- Action: new
+- Scope: Historical fortification and interpretation.
+- Representative coordinates: 49.399, 5.714; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3,culture:9.2.
+- Overall: 88.75/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saint-die-cathedral — Saint-Dié-des-Vosges Cathedral and Cloister — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-die-cathedral.yaml)
+- Action: new
+- Scope: Cathedral complex; excludes Le Corbusier serial component.
+- Representative coordinates: 48.286, 6.949; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.7 / 8.6.
+- Categories: architecture:9.3,history:9.2.
+- Overall: 87.05/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-reims-foujita — Chapelle Foujita Reims Frescoes and Chapel — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/reims-foujita.yaml)
+- Action: new
+- Scope: Chapel and frescoes; Champagne property buffer overlap pending.
+- Representative coordinates: 49.266, 4.039; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 8.8 / 8.7 / 8.6.
+- Categories: culture:9.4,architecture:9.3.
+- Overall: 87.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-reims-vergeur — Musée-Hôtel Le Vergeur Reims Historic House Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/reims-vergeur.yaml)
+- Action: new
+- Scope: Historic house and collection.
+- Representative coordinates: 49.259, 4.033; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.7 / 8.8.
+- Categories: culture:9.3,history:9.3.
+- Overall: 87.25/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-troyes-saint-loup — Musée Saint-Loup Troyes Art Archaeology and Natural History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/troyes-saint-loup.yaml)
+- Action: new
+- Scope: Collections only, separate from old town.
+- Representative coordinates: 48.301, 4.086; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 9.0.
+- Categories: culture:9.3,history:9.3,nature:9.2.
+- Overall: 88.55/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-troyes-tool-museum — Maison de l’Outil et de la Pensée Ouvrière Troyes Craft Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/troyes-tool-museum.yaml)
+- Action: new
+- Scope: Craft tool collections, building exterior excluded.
+- Representative coordinates: 48.296, 4.074; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.1 / 8.9 / 8.8 / 8.9.
+- Categories: history:9.3,culture:9.4.
+- Overall: 88.75/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-rocroi — Rocroi Star-shaped Fortified Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rocroi.yaml)
+- Action: new
+- Scope: Fortified town and ramparts; not inscribed Vauban component.
+- Representative coordinates: 49.926, 4.522; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 8.8 / 8.6.
+- Categories: architecture:9.3,history:9.3,photography:9.3.
+- Overall: 88.25/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-montherme-meuse — Monthermé Meuse and Semoy River Meanders and Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/montherme-meuse.yaml)
+- Action: new
+- Scope: River scenery and regional hiking; excludes towns and museums.
+- Representative coordinates: 49.884, 4.736; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.9 / 8.8.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 87.65/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-ardenne-museum — Musée de l’Ardenne Charleville-Mézières Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ardenne-museum.yaml)
+- Action: new
+- Scope: Museum collections, excludes Place Ducale architecture.
+- Representative coordinates: 49.773, 4.721; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.8 / 8.7 / 8.8.
+- Categories: culture:9.2,history:9.3.
+- Overall: 86.70/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-clairvaux-abbey — Abbaye de Clairvaux Historic Cistercian Abbey and Prison Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/clairvaux-abbey.yaml)
+- Action: new
+- Scope: Historic abbey and later prison interpretation; current access not penalized.
+- Representative coordinates: 48.148, 4.789; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.3 / 8.6 / 8.8.
+- Categories: history:9.4,architecture:9.3.
+- Overall: 88.65/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.

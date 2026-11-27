@@ -1,0 +1,15 @@
+id: sight-fr-nancy-musee-lorrain
+name: "Musée Lorrain Nancy Ducal Palace History Collections"
+location:
+  country_code: FR
+  latitude: 48.697
+  longitude: 6.179
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.4

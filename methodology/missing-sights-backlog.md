@@ -2359,3 +2359,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Lac de Madine Lake and Nature Recreation: 84.95/100 (desk-based provisional).
 
 30 additions, 13 desk-based provisional estimates, 17 source-informed candidates, 16 90+, 68 domestic peer ranking-row comparisons. France 865 ranked / 876 total; 11 existing unassessed unchanged. Strasbourg, Nancy and Metz independently scoped museum collections excluded from existing urban/UNESCO architecture. École de Nancy and Villa Majorelle combined to avoid shared collections duplication. Verdun museum and forts integrated; Douaumont ossuary and necropolis remain in Western Front serial entry; precise boundaries pending. Paris Pompidou collection not assumed permanently held in Metz. Next: Residual Lorraine (Nancy Lorraine Museum, Metz cathedral scope, Amnéville, Saint-Nicolas-de-Port, Bar-le-Duc, Domrémy, Épinal, Saint-Dié, Fermont scope), Champagne and Ardennes (Reims collections, Épernay wine scope, Troyes, Sedan, Charleville-Mézières, Colombey, Lac du Der), then northern France. Full Python validation pending.
+
+
+### Pass 162 — accelerated Lorraine, Champagne and Ardennes audit
+
+- [x] FR — Château Fort de Sedan Medieval Fortress and Museum: 92.95/100 (source-linked-unverified).
+- [x] FR — Troyes Historic Centre and Gothic Churches: 91.90/100 (source-linked-unverified).
+- [x] FR — Musée de la Reddition Reims Historic Surrender Museum: 91.90/100 (source-linked-unverified).
+- [x] FR — Musée Lorrain Nancy Ducal Palace History Collections: 91.40/100 (source-linked-unverified).
+- [x] FR — Musée d’Art Moderne Troyes Pierre and Denise Lévy Collections: 91.90/100 (source-linked-unverified).
+- [x] FR — Musée du Vin de Champagne et d’Archéologie Régionale Épernay Collections: 91.35/100 (source-linked-unverified).
+- [x] FR — Musée Saint-Remi Reims Archaeology and History Collections: 91.05/100 (source-linked-unverified).
+- [x] FR — Cité du Vitrail Troyes Stained Glass and Apothicary Collections: 90.80/100 (source-linked-unverified).
+- [x] FR — Mémorial Charles de Gaulle and La Boisserie Colombey-les-Deux-Églises: 91.25/100 (source-linked-unverified).
+- [x] FR — Lac du Der Champagne Lake Birdwatching and Cycling: 90.15/100 (source-linked-unverified).
+- [x] FR — Langres Historic Fortified Town and Ramparts: 90.20/100 (source-linked-unverified).
+- [x] FR — Zoo d’Amnéville Wildlife Park: 88.95/100 (source-linked-unverified).
+- [x] FR — Maison Natale de Jeanne d’Arc Domrémy and Interpretation Centre: 90.10/100 (source-linked-unverified).
+- [x] FR — Nigloland Family Amusement Park Dolancourt: 87.75/100 (source-linked-unverified).
+- [x] FR — Charleville-Mézières Place Ducale and Historic Centre: 88.70/100 (source-linked-unverified).
+- [x] FR — Musée Arthur Rimbaud and Maison des Ailleurs Charleville: 88.80/100 (source-linked-unverified).
+- [x] FR — Bar-le-Duc Renaissance Upper Town: 87.70/100 (desk-based provisional).
+- [x] FR — Basilique Saint-Nicolas-de-Port Gothic Church: 88.85/100 (desk-based provisional).
+- [x] FR — Toul Cathedral and Gothic Cloister: 88.85/100 (desk-based provisional).
+- [x] FR — Musée Départemental d’Art Ancien et Contemporain Épinal: 87.70/100 (desk-based provisional).
+- [x] FR — Ouvrage de Fermont Maginot Line Heritage Museum: 88.75/100 (desk-based provisional).
+- [x] FR — Saint-Dié-des-Vosges Cathedral and Cloister: 87.05/100 (desk-based provisional).
+- [x] FR — Chapelle Foujita Reims Frescoes and Chapel: 87.85/100 (desk-based provisional).
+- [x] FR — Musée-Hôtel Le Vergeur Reims Historic House Collections: 87.25/100 (desk-based provisional).
+- [x] FR — Musée Saint-Loup Troyes Art Archaeology and Natural History Collections: 88.55/100 (desk-based provisional).
+- [x] FR — Maison de l’Outil et de la Pensée Ouvrière Troyes Craft Museum: 88.75/100 (desk-based provisional).
+- [x] FR — Rocroi Star-shaped Fortified Town: 88.25/100 (desk-based provisional).
+- [x] FR — Monthermé Meuse and Semoy River Meanders and Viewpoints: 87.65/100 (desk-based provisional).
+- [x] FR — Musée de l’Ardenne Charleville-Mézières Collections: 86.70/100 (desk-based provisional).
+- [x] FR — Abbaye de Clairvaux Historic Cistercian Abbey and Prison Heritage: 88.65/100 (desk-based provisional).
+
+30 additions, 14 desk-based provisional estimates, 16 source-informed candidates, 12 90+, 64 domestic peer ranking-row comparisons. France 895 ranked / 906 total; 11 existing unassessed unchanged. Reims Saint-Remi collections independent from listed abbey architecture; Épernay collections distinct from Champagne UNESCO property (https://www.champagne.fr/en/visit-champagne/life-in-champagne/champagne-world-heritage). Troyes churches integrated into historic centre. Nancy Lorraine Museum renovation ignored as intrinsic penalty, no future extension assumed. Metz cathedral and Longwy deferred to existing serial/urban scope. Official source excerpts used for research, not full on-site validation. Next: Remaining Champagne and Ardennes: Reims fine arts collections, Fort de la Pompelle, Argonne, Châlons-en-Champagne, Aube forest lakes, and remaining Lorraine urban scopes; then Hauts-de-France (Lille, Lens, Arras, Amiens, coastal and mining heritage). Full Python validation pending.

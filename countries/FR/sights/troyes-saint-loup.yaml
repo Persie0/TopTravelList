@@ -1,0 +1,16 @@
+id: sight-fr-troyes-saint-loup
+name: "Musée Saint-Loup Troyes Art Archaeology and Natural History Collections"
+location:
+  country_code: FR
+  latitude: 48.301
+  longitude: 4.086
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.3
+    nature: 9.2

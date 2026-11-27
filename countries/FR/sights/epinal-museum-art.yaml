@@ -1,0 +1,15 @@
+id: sight-fr-epinal-museum-art
+name: "Musée Départemental d’Art Ancien et Contemporain Épinal"
+location:
+  country_code: FR
+  latitude: 48.173
+  longitude: 6.449
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.2
