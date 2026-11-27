@@ -1,0 +1,16 @@
+id: sight-ar-cosquin-rock
+name: "Santa María de Punilla Cosquín Rock Music Festival"
+location:
+  country_code: AR
+  latitude: -31.25
+  longitude: -64.47
+scores:
+  impact: 9.3
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.4
+  depth: 9.1
+  categories:
+    culture: 9.3
+    nightlife: 9.4
+    photography: 9.2

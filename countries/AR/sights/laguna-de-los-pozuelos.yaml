@@ -1,0 +1,16 @@
+id: sight-ar-laguna-de-los-pozuelos
+name: "Laguna de los Pozuelos Natural Monument High-Andean Flamingo Wetland"
+location:
+  country_code: AR
+  latitude: -22.35
+  longitude: -66
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.3

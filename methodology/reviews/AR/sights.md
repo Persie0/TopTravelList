@@ -2369,3 +2369,765 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 310 scope decisions
 
 13 additions, 9 source-linked provisional and 4 desk-based provisional, 5 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 116 ranked / 117 total, +52 since baseline 65, 26 new 90+ across four passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Lujan basilica and pilgrimage grouped, Obera distinct from Rosario festival, Areco public heritage excludes animal competitions, Mataderos fair and museum grouped. Mocona provincial park and Yaboti visitor circuit grouped, no unrestricted reserve access; border river water levels affect falls. APN northeast list (https://www.argentina.gob.ar/parquesnacionales/nea) and national overview (https://www.argentina.gob.ar/ambiente/contenidos/areas-protegidas) identify six named national parks in Northeast: Chaco, El Impenetrable, Iguazu, Ibera, Mburucuya, Rio Pilcomayo now represented; educational and strict reserves not counted as parks. Pre-Delta added in central region; remaining central and northwest parks pending. Four sub-90 urban landmarks desk-based, interior access and exact coordinates pending. Existing scores and one unassessed preserved. OPEN for remaining protected areas, regional landscapes and cultural heritage. Current permissions and schedules unverified; full Python validation and international calibration pending.
+
+
+## Pass 311 — Argentina astronomy, mountain routes and central parks (2026-11-28)
+
+
+## sight-ar-el-leoncito-national-park — El Leoncito National Park and Astronomical Observatories — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/el-leoncito-national-park.yaml)
+- Action: new
+- Scope: Park trails and public daytime and reserved nighttime visits to CASLEO and CESCO grouped; no observation conditions or specific telescope access guaranteed.
+- Representative coordinates: -31.8, -69.3; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-el-leoncito/actividades ; https://www.argentina.gob.ar/node/467867 ; https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-el-leoncito/tarifas
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.3 / 9.1 / 9.1.
+- Categories: nature:9.3 photography:9.4 history:9.0 adventure:9.1.
+- Overall: 92.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/campo-de-piedra-pomez](../../../countries/AR/sights/campo-de-piedra-pomez.yaml) | 9.4 / 9.5 / 9.2 / 8.7 / 8.8 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [GY/iwokrama-rainforest](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | impact: 0.3; uniqueness: 0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-campo-del-cielo — Campo del Cielo Pigüen N’Onaxá Meteorite Park and Interpretation Centre — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/campo-del-cielo.yaml)
+- Action: new
+- Scope: Scientific and educational park, major meteorites and interpretive displays grouped; no collection or disturbance. Provincial tourism identifies El Chaco and Gancedo among world's largest meteorites.
+- Representative coordinates: -27.63, -61.7; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://turismo.chaco.gob.ar/destinations/campo-del-cielo/ ; https://turismo.chaco.gob.ar/tour-item/universo-y-meteoritos/ ; https://www.argentina.gob.ar/jefatura/turismo-y-ambiente/turismo/viaja-por-argentina/conocer-los-meteoritos-en-el-campo-del-cielo
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.4 / 8.9 / 8.8.
+- Categories: nature:9.3 history:9.2 photography:9.1 culture:9.0.
+- Overall: 91.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/bosques-petrificados-jaramillo](../../../countries/AR/sights/bosques-petrificados-jaramillo.yaml) | 8.8 / 9.1 / 9.0 / 8.3 / 8.4 | impact: 0.2; uniqueness: 0.3 vs peer |
+| [GY/aishalton-petroglyphs](../../../countries/GY/sights/aishalton-petroglyphs.yaml) | 7.6 / 8.5 / 8.5 / 7.6 / 6.8 | impact: 1.4; uniqueness: 0.9 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-cosquin-rock — Santa María de Punilla Cosquín Rock Music Festival — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/cosquin-rock.yaml)
+- Action: new
+- Scope: Separate February multi-stage music festival, not the January national folklore festival. 2026 edition documented; conflicting attendance estimates omitted.
+- Representative coordinates: -31.25, -64.47; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://cordobaturismo.gov.ar/evento/cosquin-rock-2026/ ; https://www.cadena3.com/noticia/siempre-juntos/las-sierras-vuelven-a-rugir-con-el-cosquin-rock-2026-todo-lo-que-hay-que-saber_519051
+- Core I/U/S/E/D: 9.3 / 8.9 / 9.1 / 9.4 / 9.1.
+- Categories: culture:9.3 nightlife:9.4 photography:9.2.
+- Overall: 91.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/cosquin-folklore-festival](../../../countries/AR/sights/cosquin-folklore-festival.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.3 | impact: 0.0; uniqueness: -0.4 vs peer |
+| [GY/rupununi-music-arts-festival](../../../countries/GY/sights/rupununi-music-arts-festival.yaml) | 8.9 / 9.0 / 9.0 / 9.2 / 9.1 | impact: 0.4; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-san-juan-fiesta-del-sol — San Juan National Sun Festival Public Cultural and Music Programme — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/san-juan-fiesta-del-sol.yaml)
+- Action: new
+- Scope: Annual provincial festival; November 19–22 2026 programme advertised with Parque Triásico theme (official event listings differ on first date). Occurrence and actual attendance not verified; separate from fossil park visit.
+- Representative coordinates: -31.64, -68.53; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://sanjuan.tur.ar/planifica-tu-viaje/promociones/paquetes-fns-2026 ; https://deporte.sanjuan.gob.ar/actividades/fiesta-nacional-del-sol-2026/ ; https://argentina.travel/actividades/fiesta-nacional-del-sol-en-san-juan
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.1 / 9.2 / 9.1.
+- Categories: culture:9.3 photography:9.3 nightlife:9.2.
+- Overall: 90.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/mendoza-vendimia](../../../countries/AR/sights/mendoza-vendimia.yaml) | 9.5 / 9.4 / 9.3 / 9.4 / 9.3 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [GY/georgetown-mashramani](../../../countries/GY/sights/georgetown-mashramani.yaml) | 9.3 / 9.2 / 9.3 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-cerro-tronador-pampa-linda — Cerro Tronador Pampa Linda and Ventisquero Negro Glacier Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/cerro-tronador-pampa-linda.yaml)
+- Action: new
+- Scope: Established road and viewpoint circuit to Pampa Linda and dark glacier; separate sector of Nahuel Huapi, shared park values non-additive. No summit or cross-border access assumed.
+- Representative coordinates: -41.21, -71.81; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.barilocheturismo.gob.ar/es/actividades-cerro-tronador
+- Core I/U/S/E/D: 9.4 / 9.1 / 8.8 / 8.8 / 8.8.
+- Categories: nature:9.4 photography:9.4 adventure:9.1.
+- Overall: 90.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/cerro-torre-and-laguna-torre](../../../countries/AR/sights/cerro-torre-and-laguna-torre.yaml) | 9.4 / 9.3 / 8.2 / 8.8 / 8.2 | impact: 0.0; uniqueness: -0.2 vs peer |
+| [GY/kanuku-mountains-protected-area](../../../countries/GY/sights/kanuku-mountains-protected-area.yaml) | 8.6 / 8.8 / 9.0 / 8.2 / 8.3 | impact: 0.8; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-volcan-lanin-mountain-route — Volcán Lanín Authorized Mountain and Base Trail Experience — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/volcan-lanin-mountain-route.yaml)
+- Action: new
+- Scope: Documented base trail and registered high-difficulty mountain ascent, subject to reservations, equipment and conditions; no climb guaranteed. Shared Lanín park values non-additive.
+- Representative coordinates: -39.64, -71.5; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-lanin/actividades ; https://www.argentina.gob.ar/viaja-por-argentina/que-hacer/ascender-el-volcan-lanin
+- Core I/U/S/E/D: 9.4 / 9.1 / 8.8 / 8.5 / 8.8.
+- Categories: nature:9.4 photography:9.3 adventure:9.4.
+- Overall: 90.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/aconcagua-provincial-park](../../../countries/AR/sights/aconcagua-provincial-park.yaml) | 9.5 / 9.1 / 9.2 / 8.2 / 8.7 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [GY/moco-moco-mountain-waterfall](../../../countries/GY/sights/moco-moco-mountain-waterfall.yaml) | 8.5 / 8.5 / 8.2 / 8.5 / 8.4 | impact: 0.9; uniqueness: 0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-la-trochita — La Trochita Old Patagonian Express Heritage Railway — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/la-trochita.yaml)
+- Action: new
+- Scope: Historic narrow-gauge steam railway Esquel and El Maitén visitor services grouped; original full line not assumed operational. Nahuel Pan museum and craft visit part of route, subject to local permission.
+- Representative coordinates: -42.91, -71.31; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/capital-humano/cultura/monumentos/la-trochita ; https://www.argentina.gob.ar/viaja-por-argentina/que-hacer/viajar-en-el-tren-la-trochita ; https://www.esquel.tur.ar/disfruta/excursiones-aventura/expreso-patagonico
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 8.8 / 8.7.
+- Categories: history:9.3 culture:9.2 photography:9.2.
+- Overall: 89.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/tren-a-las-nubes](../../../countries/AR/sights/tren-a-las-nubes.yaml) | 8.5 / 8.9 / 7.9 / 8.4 / 7.4 | impact: 0.4; uniqueness: 0.2 vs peer |
+| [GY/diamond-demerara-distillery-heritage](../../../countries/GY/sights/diamond-demerara-distillery-heritage.yaml) | 8.6 / 9.2 / 9.2 / 8.5 / 8.8 | impact: 0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-san-guillermo-national-park — San Guillermo National Park Guided High Andes Wildlife Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/san-guillermo-national-park.yaml)
+- Action: new
+- Scope: Official guide-coordinated daytime entry, authorized routes only; remote high-altitude park. Current opening, guide availability and wildlife sightings unverified.
+- Representative coordinates: -29.25, -69.5; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-san-guillermo/horarios-como-llegar ; https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-san-guillermo/actividades
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 8.0 / 8.5.
+- Categories: nature:9.4 wildlife:9.4 photography:9.3.
+- Overall: 88.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/laguna-brava-reserve](../../../countries/AR/sights/laguna-brava-reserve.yaml) | 9.1 / 9.0 / 8.8 / 8.4 / 8.7 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [GY/kanuku-mountains-protected-area](../../../countries/GY/sights/kanuku-mountains-protected-area.yaml) | 8.6 / 8.8 / 9.0 / 8.2 / 8.3 | impact: 0.4; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-aconquija-national-park — Aconquija National Park Yungas and Mountain Trail Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/aconquija-national-park.yaml)
+- Action: new
+- Scope: Established Cochuna and Campo de Los Alisos visitor trails; former Campo de Los Alisos park included. No separate restricted archaeological route or Qhapaq Ñan component rating; river crossing conditional.
+- Representative coordinates: -27.18, -65.95; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/region-noroeste/parque-nacional-aconquija/actividades ; https://www.argentina.gob.ar/parquesnacionales/region-noroeste/parque-nacional-aconquija/horarios-como-llegar
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.5 / 8.8.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.1 photography:9.1.
+- Overall: 87.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/calilegua-national-park](../../../countries/AR/sights/calilegua-national-park.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 9.0 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [GY/iwokrama-rainforest](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | impact: -0.1; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-copo-national-park — Copo National Park Dry Chaco Forest and Wildlife Trails — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/copo-national-park.yaml)
+- Action: new
+- Scope: Official visitor hiking and wildlife observation experience. No guaranteed rare animal encounters or unrestricted remote trails.
+- Representative coordinates: -25.95, -61.85; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/conocer-el-parque-nacional-copo ; https://www.argentina.gob.ar/parquesnacionales/region-noroeste/parque-nacional-copo
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.8 / 8.2 / 8.4.
+- Categories: nature:9.2 wildlife:9.3 photography:8.9.
+- Overall: 85.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/chaco-national-park](../../../countries/AR/sights/chaco-national-park.yaml) | 8.3 / 8.5 / 8.7 / 8.4 / 8.5 | impact: 0.1; uniqueness: 0.1 vs peer |
+| [GY/iwokrama-rainforest](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | impact: -0.5; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-traslasierra-national-park — Traslasierra National Park Dry Chaco and Estancia Pinas Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/traslasierra-national-park.yaml)
+- Action: new
+- Scope: Official established visitor scope at historic estancia and protected dry forest. No private archaeological site access; current days/hours unverified.
+- Representative coordinates: -31.29, -65.38; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-traslasierra/actividades ; https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-traslasierra
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.8 / 8.2 / 8.5.
+- Categories: nature:9.1 wildlife:9.2 history:8.9.
+- Overall: 84.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/copo-national-park](../../../countries/AR/sights/copo-national-park.yaml) | 8.4 / 8.6 / 8.8 / 8.2 / 8.4 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [GY/surama-community-ecotourism](../../../countries/GY/sights/surama-community-ecotourism.yaml) | 8.8 / 9.0 / 8.9 / 8.7 / 8.9 | impact: -0.5; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-islas-de-santa-fe-national-park — Islas de Santa Fe National Park Paraná Island and Wetland Routes — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/islas-de-santa-fe-national-park.yaml)
+- Action: new
+- Scope: Official island visitor areas and authorized nature guide services, distinct from Pre-Delta mainland routes and Tigre. No guaranteed boat service or restricted landing.
+- Representative coordinates: -32.41, -60.73; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-islas-de-santa-fe/actividades ; https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-islas-de-santa-fe/servicios
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.6 / 8.3 / 8.4.
+- Categories: nature:9.1 wildlife:9.1 photography:9.0.
+- Overall: 84.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/pre-delta-national-park](../../../countries/AR/sights/pre-delta-national-park.yaml) | 8.3 / 8.4 / 8.5 / 8.5 / 8.4 | impact: 0.0; uniqueness: 0.1 vs peer |
+| [GY/north-rupununi-wetlands](../../../countries/GY/sights/north-rupununi-wetlands.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-ciervo-de-los-pantanos-national-park — Ciervo de los Pantanos National Park Wetland and Pampas Trails — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/ciervo-de-los-pantanos-national-park.yaml)
+- Action: new
+- Scope: Official marsh viewpoints and former Otamendi estate interpretation grouped. No guaranteed marsh deer encounter.
+- Representative coordinates: -34.23, -58.89; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-ciervo-de-los-pantanos/actividades
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.7 / 8.5 / 8.5.
+- Categories: nature:9.1 wildlife:9.3 photography:9.0.
+- Overall: 84.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/pre-delta-national-park](../../../countries/AR/sights/pre-delta-national-park.yaml) | 8.3 / 8.4 / 8.5 / 8.5 / 8.4 | impact: 0.0; uniqueness: 0.0 vs peer |
+| [GY/north-rupununi-wetlands](../../../countries/GY/sights/north-rupununi-wetlands.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 311 scope decisions
+
+13 source-linked provisional additions, 6 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 129 ranked / 130 total, +65 since baseline 65, 32 new 90+ across five passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. El Leoncito observatories and park grouped, Campo del Cielo distinct scientific heritage; Cosquin Rock distinct from folklore festival, San Juan Sun Festival official dates conflict and actual occurrence unverified. Tronador and Lanin mountain experiences distinct but non-additive to existing national park parents. La Trochita tourist services grouped, full historic line not assumed operational. Historical central inventory of 11 named national parks (https://www.argentina.gob.ar/ambiente/contenidos/areas-protegidas): 10 represented, Campos del Tuyu deferred because APN visitor page lists nearby attractions rather than clear current in-park itinerary (https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-campos-del-tuyu/actividades). Current administrative inventory may differ; no claim of exhaustive nationwide reconciliation. San Guillermo guide-coordinated routes, Aconquija includes former Campo de Los Alisos, Copo and Traslasierra separate, Islas de Santa Fe distinct from Pre-Delta, Ciervo de los Pantanos grouped with Otamendi heritage. Prior Ansenuza, Islote Lobos and Isla de los Estados deferrals retained. Existing scores and one unassessed preserved. OPEN for remaining Argentine regional sights and reserve inventory. Current permissions, schedules, coordinates and international calibration unverified; full Python validation pending.
+
+
+## Pass 312 — Argentina literary, archaeological and coastal heritage (2026-11-28)
+
+
+## sight-ar-buenos-aires-international-book-fair — Buenos Aires International Book Fair Public Literary and Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/buenos-aires-international-book-fair.yaml)
+- Action: new
+- Scope: Annual international literary fair, public readings, exhibitions and cultural talks grouped. 50th edition in 2026 confirmed; organizer figures reported by university radio exceed 1.34 million visits and 633 cultural acts, not independently audited unique people. No future admission guarantee.
+- Representative coordinates: -34.58, -58.42; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/noticias/cifelli-recorrio-los-pabellones-de-la-feria-del-libro-en-su-50a-edicion ; https://www.radiouniversidad.unlp.edu.ar/culmina-la-feria-internacional-del-libro/
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.4 / 9.3 / 9.4.
+- Categories: culture:9.4 history:9.1 family:9.0.
+- Overall: 91.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/catamarca-poncho-festival](../../../countries/AR/sights/catamarca-poncho-festival.yaml) | 9.2 / 9.2 / 9.3 / 9.3 / 9.4 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [GY/georgetown-emancipation-festival](../../../countries/GY/sights/georgetown-emancipation-festival.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.1 | impact: 0.0; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-salta-maam — Salta Museo de Arqueología de Alta Montaña — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/salta-maam.yaml)
+- Action: new
+- Scope: National tourism documents the Llullaillaco archaeological collection and museum established in 2004. Assessment is of contextual archaeological interpretation and material culture, with respect for Indigenous perspectives on ancestral remains; no specific human-remains display guaranteed.
+- Representative coordinates: -24.789, -65.411; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/actividades/museo-de-arqueologia-de-alta-montana ; https://www.argentina.travel/novedades/cinco-museos-de-argentina-que-hay-que-visitar-fuera-de-buenos-aires
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.4 / 8.8 / 9.0.
+- Categories: history:9.4 culture:9.3.
+- Overall: 91.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/paleontological-museum-egidio-feruglio](../../../countries/AR/sights/paleontological-museum-egidio-feruglio.yaml) | 8.4 / 8.9 / 9.1 / 8.6 / 8.0 | impact: 0.5; uniqueness: 0.5 vs peer |
+| [GY/museum-african-heritage](../../../countries/GY/sights/museum-african-heritage.yaml) | 7.9 / 8.4 / 8.8 / 8.1 / 8.4 | impact: 1.0; uniqueness: 1.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-el-doradillo-whales — El Doradillo Protected Area Shore-based Southern Right Whale Watching — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/el-doradillo-whales.yaml)
+- Action: new
+- Scope: Municipal protected area near Puerto Madryn, established public shore viewing at El Doradillo and Las Canteras grouped; separate from Puerto Pirámides marine excursions and Peninsula Valdés parent. Shared species and Gulf Nuevo ecosystem values non-additive; no sightings or close approach guaranteed.
+- Representative coordinates: -42.66, -64.98; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://madryn.travel/anp-el-doradillo/ ; https://turismo.madryn.gob.ar/puerto-madryn-potencio-el-doradillo-como-escenario-central-del-lanzamiento-de-la-temporada-de-ballenas-2026/
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.0 / 9.0 / 8.6.
+- Categories: wildlife:9.4 nature:9.3 photography:9.4.
+- Overall: 91.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/peninsula-valdes](../../../countries/AR/sights/peninsula-valdes.yaml) | 9.2 / 9.4 / 9.5 / 8.9 / 9.2 | impact: 0.1; uniqueness: -0.1 vs peer |
+| [GY/shell-beach-protected-area](../../../countries/GY/sights/shell-beach-protected-area.yaml) | 8.5 / 8.9 / 8.9 / 8.2 / 7.8 | impact: 0.8; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-villa-general-belgrano-oktoberfest — Villa General Belgrano National Oktoberfest Public Music and Culinary Festival — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/villa-general-belgrano-oktoberfest.yaml)
+- Action: new
+- Scope: Public music, dance, Central European heritage and culinary programme, 62nd edition advertised October 2026. Alcohol consumption not required; no global attendance ranking claimed. Ordinary village heritage non-additive.
+- Representative coordinates: -31.98, -64.56; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://cordobaturismo.gov.ar/novedades/villa-general-belgrano-se-prepara-para-una-nueva-edicion-de-la-oktoberfest-2026/ ; https://cordobaturismo.gov.ar/evento/62-oktoberfest-en-villa-general-belgrano/
+- Core I/U/S/E/D: 9.1 / 8.9 / 9.1 / 9.3 / 9.1.
+- Categories: culture:9.3 food:9.3 nightlife:9.2 photography:9.1.
+- Overall: 90.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/obera-immigrant-festival](../../../countries/AR/sights/obera-immigrant-festival.yaml) | 9.2 / 9.2 / 9.3 / 9.3 / 9.3 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [GY/georgetown-curry-fest](../../../countries/GY/sights/georgetown-curry-fest.yaml) | 8.4 / 8.6 / 8.6 / 8.9 / 8.4 | impact: 0.7; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-chubut-welsh-heritage — Chubut Welsh Heritage and Eisteddfod Public Cultural Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/chubut-welsh-heritage.yaml)
+- Action: new
+- Scope: Regional Welsh heritage circuit grouped around Gaiman, Trelew and Trevelin, including public Eisteddfod poetry, music and language programmes, historic chapels and tea traditions. 2026 calendar documented by Welsh association; no private religious access assumed. Trelew representative point; dispersed venues, no same-day itinerary implied.
+- Representative coordinates: -43.25, -65.31; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://asociaciongalesamadryn.org/eisteddfod-2026/ ; https://chubutpatagonia.gob.ar/experiencia/galeses-en-chubut/ ; https://chubutpatagonia.gob.ar/experiencia/cultura-galesa/
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.3 food:9.2 architecture:8.9.
+- Overall: 91.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/obera-immigrant-festival](../../../countries/AR/sights/obera-immigrant-festival.yaml) | 9.2 / 9.2 / 9.3 / 9.3 / 9.3 | impact: -0.3; uniqueness: 0.1 vs peer |
+| [GY/indigenous-heritage-month](../../../countries/GY/sights/indigenous-heritage-month.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.1; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-piedra-parada-buitrera — Piedra Parada and Cañadón de la Buitrera Protected Geological Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/piedra-parada-buitrera.yaml)
+- Action: new
+- Scope: Provincial source documents 240-m volcanic rock formation and established canyon walking route. Grouped rock and canyon, no technical climbing or exact trail length guarantee; current conditions unverified.
+- Representative coordinates: -42.65, -70.1; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chubutpatagonia.gob.ar/destino/area-natural-protegida-piedra-parada/ ; https://argentina.travel/actividades/piedra-parada
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.8 / 8.6 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:9.3.
+- Overall: 89.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/campo-de-piedra-pomez](../../../countries/AR/sights/campo-de-piedra-pomez.yaml) | 9.4 / 9.5 / 9.2 / 8.7 / 8.8 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [GY/moco-moco-mountain-waterfall](../../../countries/GY/sights/moco-moco-mountain-waterfall.yaml) | 8.5 / 8.5 / 8.2 / 8.5 / 8.4 | impact: 0.7; uniqueness: 0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-islote-lobos-national-park — Islote Lobos National Park Arroyo Salado Coastal Wildlife Experience — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/islote-lobos-national-park.yaml)
+- Action: new
+- Scope: Prior deferral resolved: APN identifies public southern Arroyo Salado sector, self-guided interpretive trail and authorized marine fauna excursion provider. No offshore island landing, independent access to breeding colonies or guaranteed sightings. Representative southern visitor area, coordinates approximate.
+- Representative coordinates: -41.68, -65.01; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-islote-lobos/actividades ; https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-islote-lobos/servicios
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.4 / 8.5.
+- Categories: nature:9.2 wildlife:9.3 photography:9.1.
+- Overall: 86.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/isla-pinguino-marine-park](../../../countries/AR/sights/isla-pinguino-marine-park.yaml) | 9.1 / 9.3 / 9.1 / 8.8 / 8.7 | impact: -0.5; uniqueness: -0.5 vs peer |
+| [GY/shell-beach-protected-area](../../../countries/GY/sights/shell-beach-protected-area.yaml) | 8.5 / 8.9 / 8.9 / 8.2 / 7.8 | impact: 0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-tafi-valle-menhires — Tafí del Valle and Los Menhires Archaeological Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/tafi-valle-menhires.yaml)
+- Action: new
+- Scope: Tafí valley and El Mollar's archaeological monolith interpretation grouped. National tourism documents carved monoliths over two thousand years old; no claims of confirmed specific ritual meaning, private archaeological access or artifact contact.
+- Representative coordinates: -26.95, -65.68; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/actividades/tafi-del-valle ; https://www.argentina.travel/novedades/ocho-pueblos-argentinos-postulados-entre-los-mejores-destinos-turisticos-rurales-del-mundo
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.5 / 8.7.
+- Categories: history:9.3 culture:9.2 nature:9.0 photography:9.0.
+- Overall: 86.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/ruins-of-quilmes](../../../countries/AR/sights/ruins-of-quilmes.yaml) | 8.5 / 9.0 / 9.0 / 8.2 / 7.8 | impact: 0.0; uniqueness: -0.2 vs peer |
+| [GY/aishalton-petroglyphs](../../../countries/GY/sights/aishalton-petroglyphs.yaml) | 7.6 / 8.5 / 8.5 / 7.6 / 6.8 | impact: 0.9; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-salta-historic-centre — Salta Historic Centre Cathedral Cabildo and Colonial Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/salta-historic-centre.yaml)
+- Action: new
+- Scope: Ordinary historic centre including Cabildo and cathedral public heritage, separate from MAAM museum and seasonal Milagro pilgrimage; shared architecture values non-additive, individual interior hours unverified.
+- Representative coordinates: -24.789, -65.411; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/actividades/salta-y-san-lorenzo
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.9 / 8.7 / 8.7.
+- Categories: architecture:9.2 history:9.2 culture:9.1.
+- Overall: 86.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/jesuit-block-and-estancias-of-cordoba](../../../countries/AR/sights/jesuit-block-and-estancias-of-cordoba.yaml) | 8.6 / 9.0 / 9.4 / 8.6 / 9.1 | impact: -0.1; uniqueness: -0.5 vs peer |
+| [GY/new-amsterdam-heritage-trail](../../../countries/GY/sights/new-amsterdam-heritage-trail.yaml) | 8.0 / 8.3 / 8.7 / 8.2 / 8.4 | impact: 0.5; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-sierra-de-la-ventana — Sierra de la Ventana and Ventania Mountain Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/sierra-de-la-ventana.yaml)
+- Action: new
+- Scope: Regional mountain trails and viewpoints grouped; authorized routes only, no guarantee of Cerro Ventana or Tres Picos summit access.
+- Representative coordinates: -38.12, -61.79; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/actividades/sierras-de-la-provincia-de-buenos-aires ; https://www.argentina.travel/novedades/mar-sierras-y-bosques-descubri-donde-encontrar-los-mas-bellos-paisajes-de-la-provincia-de-buenos-aires
+- Core I/U/S/E/D: 8.5 / 8.4 / 8.2 / 8.7 / 8.5.
+- Categories: nature:9.1 photography:9.1 adventure:9.0.
+- Overall: 84.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/quebrada-del-condorito-national-park](../../../countries/AR/sights/quebrada-del-condorito-national-park.yaml) | 8.8 / 8.7 / 8.8 / 8.7 / 8.6 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [GY/moco-moco-mountain-waterfall](../../../countries/GY/sights/moco-moco-mountain-waterfall.yaml) | 8.5 / 8.5 / 8.2 / 8.5 / 8.4 | impact: 0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-ria-deseado — Ría Deseado Protected Estuary and Guided Coastal Wildlife Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/ria-deseado.yaml)
+- Action: new
+- Scope: Desk-based provisional: distinct mainland estuary and guided wildlife observation scope, excludes offshore Isla Pingüino and any separate Darwin viewpoint rating. Provider permissions, current access and precise routes unverified.
+- Representative coordinates: -47.76, -65.94; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.5 / 8.6.
+- Categories: nature:9.3 wildlife:9.4 photography:9.2.
+- Overall: 86.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/makenke-marine-park](../../../countries/AR/sights/makenke-marine-park.yaml) | 8.6 / 8.8 / 8.8 / 8.4 / 8.5 | impact: 0.1; uniqueness: 0.0 vs peer |
+| [GY/rewa-river-wildlife-area](../../../countries/GY/sights/rewa-river-wildlife-area.yaml) | 8.4 / 8.6 / 8.3 / 8.6 / 8.2 | impact: 0.3; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-laguna-del-diamante — Laguna del Diamante Provincial Reserve and Maipo Volcano Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/laguna-del-diamante.yaml)
+- Action: new
+- Scope: Desk-based provisional high-Andean lake and volcano exterior views on designated reserve routes. Distinct from Aconcagua and Laguna Brava; seasonal access, permits, coordinates and road condition unverified.
+- Representative coordinates: -34.17, -69.7; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 8.4 / 8.4.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 87.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/laguna-brava-reserve](../../../countries/AR/sights/laguna-brava-reserve.yaml) | 9.1 / 9.0 / 8.8 / 8.4 / 8.7 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [GY/north-rupununi-wetlands](../../../countries/GY/sights/north-rupununi-wetlands.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: 0.5; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 312 scope decisions
+
+12 additions, 10 source-linked provisional and 2 desk-based provisional, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 141 ranked / 142 total, +77 since baseline 65, 37 new 90+ across six passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Book Fair 50th edition documented, visits not unique persons; MAAM archaeological interpretation assessed respectfully, no specific ancestral remains display guaranteed. El Doradillo distinct protected mainland shore viewing, non-additive to shared Peninsula Valdes wildlife values. Villa General Belgrano public cultural festival only, no alcohol consumption requirement. Welsh heritage and Eisteddfod regional programmes grouped; dispersed locations not a single-site itinerary. Piedra Parada and Buitrera canyon grouped. Islote Lobos prior deferral resolved for APN public Arroyo Salado self-guided trail and authorized marine excursion, no colony landing. Tafí and Menhires grouped; Salta ordinary centre excludes MAAM and seasonal procession. Quebrada de las Flechas documented as existing Valle Calchaqui component (https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/transitar-por-la-quebrada-de-las-flechas), not split in this pass. Isla de los Estados official protected-area page (https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/reserva-natural-silvestre-isla-de-los-estados) still does not establish ordinary authorized tourism scope, deferred along with Campos del Tuyu and Ansenuza. Existing ratings and one unassessed preserved. OPEN for further Argentina landscape and cultural discovery. Coordinates approximate, permissions, conditions and future schedules unverified. Full Python validation, peer YAML checks and international calibration pending.
+
+
+## Pass 313 — Argentina film festivals, Puna wetlands and winter landscapes (2026-11-28)
+
+
+## sight-ar-mar-del-plata-film-festival — Mar del Plata International Film Festival Public Screening Programme — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/mar-del-plata-film-festival.yaml)
+- Action: new
+- Scope: International competitive film festival, public screenings and talks grouped; national authority confirms 41st edition concluded November 2026 and describes FIAPF A-category status. No future schedule or admission guarantee.
+- Representative coordinates: -38.005, -57.55; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/noticias/cerro-la-41a-edicion-del-festival-internacional-de-cine-de-mar-del-plata ; https://www.argentina.gob.ar/noticias/el-festival-internacional-de-cine-de-mar-del-plata-abre-la-convocatoria-para-su-41a-edicion
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.2 / 9.3.
+- Categories: culture:9.4 nightlife:9.1.
+- Overall: 92.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/buenos-aires-international-book-fair](../../../countries/AR/sights/buenos-aires-international-book-fair.yaml) | 9.1 / 9.0 / 9.4 / 9.3 / 9.4 | impact: 0.1; uniqueness: 0.3 vs peer |
+| [GY/rupununi-music-arts-festival](../../../countries/GY/sights/rupununi-music-arts-festival.yaml) | 8.9 / 9.0 / 9.0 / 9.2 / 9.1 | impact: 0.3; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-buenos-aires-bafici — Buenos Aires International Independent Film Festival (BAFICI) — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/buenos-aires-bafici.yaml)
+- Action: new
+- Scope: Distinct city festival with public screenings and discussions, 27th edition in April 2026 featured 327 titles per organizer. 2027 date announced but not guaranteed. Representative city point.
+- Representative coordinates: -34.6, -58.39; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://bafici.org/apertura-del-bafici-2026/ ; https://bafici.org/edicion/edicion-27/
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 9.2 / 9.3.
+- Categories: culture:9.4 nightlife:9.2.
+- Overall: 91.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/buenos-aires-international-book-fair](../../../countries/AR/sights/buenos-aires-international-book-fair.yaml) | 9.1 / 9.0 / 9.4 / 9.3 / 9.4 | impact: -0.1; uniqueness: 0.1 vs peer |
+| [GY/rupununi-music-arts-festival](../../../countries/GY/sights/rupununi-music-arts-festival.yaml) | 8.9 / 9.0 / 9.0 / 9.2 / 9.1 | impact: 0.1; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-la-quiaca-manka-fiesta — La Quiaca Manka Fiesta Ancestral Pottery and Exchange Fair — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/la-quiaca-manka-fiesta.yaml)
+- Action: new
+- Scope: Ancestral Puna fair for pottery, producers, exchange and public cultural traditions; provincial government confirms 2026 edition. No animal contests or private rites assessed. Distinct from Humahuaca carnival.
+- Representative coordinates: -22.1, -65.6; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.gajujuy.gob.ar/noticias/173/ ; https://laquiaca.gob.ar/dante-velazquez-invita-a-todo-jujuy-a-vivir-la-manka-fiesta-la-quiaca-quiere-mostrar-que-su-ancestralidad-tambien-es-futuro/
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.3 / 8.9 / 9.1.
+- Categories: culture:9.4 history:9.3 food:9.2 photography:9.2.
+- Overall: 91.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/catamarca-poncho-festival](../../../countries/AR/sights/catamarca-poncho-festival.yaml) | 9.2 / 9.2 / 9.3 / 9.3 / 9.4 | impact: -0.3; uniqueness: 0.2 vs peer |
+| [GY/indigenous-heritage-month](../../../countries/GY/sights/indigenous-heritage-month.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.1; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-laguna-de-los-pozuelos — Laguna de los Pozuelos Natural Monument High-Andean Flamingo Wetland — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/laguna-de-los-pozuelos.yaml)
+- Action: new
+- Scope: Official park authority documents a 9 km visitor route and bird observation. High-altitude wetland distinct from Catamarca lagoon circuits; no guaranteed sightings or water levels, no disturbance of nesting areas.
+- Representative coordinates: -22.35, -66; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/region-noroeste/monumento-natural-laguna-de-los-pozuelos/actividades ; https://www.argentina.gob.ar/viaja-por-argentina/que-hacer/explorar-la-laguna-de-los-pozuelos
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 8.6 / 8.8.
+- Categories: nature:9.4 wildlife:9.4 photography:9.3.
+- Overall: 90.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/banado-la-estrella](../../../countries/AR/sights/banado-la-estrella.yaml) | 9.1 / 9.1 / 9.1 / 8.9 / 9.0 | impact: -0.1; uniqueness: 0.1 vs peer |
+| [GY/north-rupununi-wetlands](../../../countries/GY/sights/north-rupununi-wetlands.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: 0.5; uniqueness: 0.5 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-batea-mahuida — Batea Mahuida Puel Community Snow Park and Araucaria Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/batea-mahuida.yaml)
+- Action: new
+- Scope: Community Mapuche Puel manages designated ski and snow park in araucaria landscape; 2026 winter opening documented. Community permission and seasonal operating conditions required; no access to private ceremonial sites. Distinct from Caviahue.
+- Representative coordinates: -38.83, -71.18; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://turismo.neuquen.gob.ar/que-hacer-nieve-batea-mahuida/ ; https://www.neuqueninforma.gob.ar/amp/noticias/2026/06/29/259849-batea-mahuida-abre-el-1-de-julio-con-pases-accesibles-y-nuevas-propuestas
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.1 / 8.9 / 8.8.
+- Categories: nature:9.2 culture:9.3 adventure:9.2 photography:9.2.
+- Overall: 90.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/cerro-catedral](../../../countries/AR/sights/cerro-catedral.yaml) | 8.9 / 8.4 / 7.0 / 8.9 / 8.3 | impact: 0.0; uniqueness: 1.0 vs peer |
+| [GY/surama-community-ecotourism](../../../countries/GY/sights/surama-community-ecotourism.yaml) | 8.8 / 9.0 / 8.9 / 8.7 / 8.9 | impact: 0.1; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-las-lenas — Las Leñas Andean Ski and Mountain Resort Experience — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/las-lenas.yaml)
+- Action: new
+- Scope: Established ski terrain and mountain scenery, no accommodation rating or unguided off-piste activity assumed; seasonal operations and conditions unverified.
+- Representative coordinates: -35.15, -70.08; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/novedades/los-9-mejores-centros-de-esqui-de-argentina-aventura-nieve-y-paisajes-inolvidables
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.3 / 9.0 / 8.7.
+- Categories: nature:9.2 adventure:9.4 photography:9.1.
+- Overall: 87.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/cerro-catedral](../../../countries/AR/sights/cerro-catedral.yaml) | 8.9 / 8.4 / 7.0 / 8.9 / 8.3 | impact: 0.0; uniqueness: 0.3 vs peer |
+| [GY/saddle-mountain-trail](../../../countries/GY/sights/saddle-mountain-trail.yaml) | 8.4 / 8.5 / 8.3 / 8.5 / 8.2 | impact: 0.5; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-cerro-castor — Cerro Castor Fuegian Ski and Mountain Experience — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/cerro-castor.yaml)
+- Action: new
+- Scope: Established Tierra del Fuego ski area, separate from Tierra del Fuego National Park and Laguna Esmeralda. No future snow or operations guarantee.
+- Representative coordinates: -54.72, -68.02; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/novedades/los-9-mejores-centros-de-esqui-de-argentina-aventura-nieve-y-paisajes-inolvidables
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.4 / 8.9 / 8.7.
+- Categories: nature:9.2 adventure:9.3 photography:9.1.
+- Overall: 87.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/cerro-catedral](../../../countries/AR/sights/cerro-catedral.yaml) | 8.9 / 8.4 / 7.0 / 8.9 / 8.3 | impact: -0.1; uniqueness: 0.4 vs peer |
+| [GY/saddle-mountain-trail](../../../countries/GY/sights/saddle-mountain-trail.yaml) | 8.4 / 8.5 / 8.3 / 8.5 / 8.2 | impact: 0.4; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-cerro-chapelco — Cerro Chapelco Patagonian Ski and Mountain Experience — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/cerro-chapelco.yaml)
+- Action: new
+- Scope: Established ski and mountain terrain above San Martín de los Andes; no accommodation or general lake circuit rating, shared regional landscape non-additive.
+- Representative coordinates: -40.2, -71.3; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/novedades/los-9-mejores-centros-de-esqui-de-argentina-aventura-nieve-y-paisajes-inolvidables
+- Core I/U/S/E/D: 8.7 / 8.5 / 8.3 / 8.9 / 8.7.
+- Categories: nature:9.2 adventure:9.3 photography:9.1.
+- Overall: 86.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/cerro-catedral](../../../countries/AR/sights/cerro-catedral.yaml) | 8.9 / 8.4 / 7.0 / 8.9 / 8.3 | impact: -0.2; uniqueness: 0.1 vs peer |
+| [GY/saddle-mountain-trail](../../../countries/GY/sights/saddle-mountain-trail.yaml) | 8.4 / 8.5 / 8.3 / 8.5 / 8.2 | impact: 0.3; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-iruya-historic-settlement — Iruya Historic Mountain Settlement and Guided Valley Walks — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/iruya-historic-settlement.yaml)
+- Action: new
+- Scope: Official national monument and tourism route. Distinct Salta mountain settlement and permitted walks, no private Indigenous community entry or river-crossing safety guarantee.
+- Representative coordinates: -22.79, -65.22; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/capital-humano/cultura/monumentos/poblado-de-iruya ; https://www.argentina.travel/actividades/iruya
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.7 / 8.5 / 8.7.
+- Categories: architecture:9.1 culture:9.2 nature:9.2 photography:9.3.
+- Overall: 87.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/salta-historic-centre](../../../countries/AR/sights/salta-historic-centre.yaml) | 8.5 / 8.5 / 8.9 / 8.7 / 8.7 | impact: 0.3; uniqueness: 0.5 vs peer |
+| [GY/moraikobai-community](../../../countries/GY/sights/moraikobai-community.yaml) | 8.3 / 8.7 / 8.6 / 8.6 / 8.6 | impact: 0.5; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-caverna-de-las-brujas — Caverna de las Brujas Natural Reserve Guided Limestone Cave — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/caverna-de-las-brujas.yaml)
+- Action: new
+- Scope: Official partial and full designated guided routes, authorized guide and reservation required; no access to sensitive chambers outside visitor itinerary.
+- Representative coordinates: -35.8, -69.83; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://actividadesanp.mendoza.gov.ar/anp/reservas/CAVERNA ; https://informacionoficial.mendoza.gob.ar/energiayambiente/caverna-de-brujas/
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.5 / 8.6.
+- Categories: nature:9.3 adventure:9.1 photography:9.0.
+- Overall: 87.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/campo-de-piedra-pomez](../../../countries/AR/sights/campo-de-piedra-pomez.yaml) | 9.4 / 9.5 / 9.2 / 8.7 / 8.8 | impact: -0.6; uniqueness: -0.6 vs peer |
+| [GY/bartica-mazaruni-waterfalls](../../../countries/GY/sights/bartica-mazaruni-waterfalls.yaml) | 8.3 / 8.3 / 7.9 / 8.5 / 8.3 | impact: 0.5; uniqueness: 0.6 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-salto-encantado — Salto Encantado Provincial Park Waterfall and Forest Trails — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/salto-encantado.yaml)
+- Action: new
+- Scope: Named provincial park and visitor trails; distinct from Moconá and Iguazú, no access outside designated trails or wildlife guarantees.
+- Representative coordinates: -27.06, -54.83; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/actividades/salto-encantado
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.3 / 8.7 / 8.5.
+- Categories: nature:9.2 photography:9.2 adventure:8.9 wildlife:8.9.
+- Overall: 85.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/mocona-yaboti](../../../countries/AR/sights/mocona-yaboti.yaml) | 9.3 / 9.5 / 8.9 / 8.6 / 8.8 | impact: -0.7; uniqueness: -1.0 vs peer |
+| [GY/bartica-mazaruni-waterfalls](../../../countries/GY/sights/bartica-mazaruni-waterfalls.yaml) | 8.3 / 8.3 / 7.9 / 8.5 / 8.3 | impact: 0.3; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-bariloche-snow-festival — Bariloche National Snow Festival Public Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/bariloche-snow-festival.yaml)
+- Action: new
+- Scope: Public seasonal music, community parades and cultural programme documented for 2026. Separate from Cerro Catedral ski experience and Circuito Chico; no animal events or future schedule assumed.
+- Representative coordinates: -41.13, -71.31; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.fiestanacionaldelanieve.ar/index.html ; https://www.fiestanacionaldelanieve.ar/cronograma.html
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.6 / 8.9 / 8.7.
+- Categories: culture:9.2 photography:9.1 nightlife:9.0.
+- Overall: 86.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/san-juan-fiesta-del-sol](../../../countries/AR/sights/san-juan-fiesta-del-sol.yaml) | 9.1 / 9.0 / 9.1 / 9.2 / 9.1 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [GY/georgetown-mashramani](../../../countries/GY/sights/georgetown-mashramani.yaml) | 9.3 / 9.2 / 9.3 / 9.3 / 9.1 | impact: -0.6; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+### Pass 313 scope decisions
+
+12 source-linked provisional additions, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 153 ranked / 154 total, +89 since baseline 65, 42 new 90+ across seven passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Mar del Plata 41st edition confirmed and BAFICI 27th edition distinct public cinema programmes. Manka Fiesta ancestral producer/ceramics heritage, 2026 edition confirmed. Laguna de los Pozuelos official monument visitor trails distinct from prior lagoons. Batea Mahuida community-managed snow park, no unrestricted cultural access; Las Lenas, Castor and Chapelco distinct designated ski resorts, shared regional scenery non-additive. Iruya distinct historic settlement, Caverna guide-required and Salto Encantado distinct park. Bariloche snow festival separate public seasonal programme. El Shincal documented visitor site (https://www.argentina.travel/actividades/qhapaq-nan-el-shincal) deferred pending Qhapaq Nan component and existing scope reconciliation. Existing ratings and one unassessed preserved; prior Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. OPEN for remaining archaeological, provincial and cultural sites; non-exhaustive. Coordinates approximate, current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type international calibration pending.

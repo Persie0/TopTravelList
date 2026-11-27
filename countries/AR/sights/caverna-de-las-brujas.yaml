@@ -1,0 +1,16 @@
+id: sight-ar-caverna-de-las-brujas
+name: "Caverna de las Brujas Natural Reserve Guided Limestone Cave"
+location:
+  country_code: AR
+  latitude: -35.8
+  longitude: -69.83
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.5
+  depth: 8.6
+  categories:
+    nature: 9.3
+    adventure: 9.1
+    photography: 9.0

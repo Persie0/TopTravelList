@@ -1,0 +1,16 @@
+id: sight-ar-islas-de-santa-fe-national-park
+name: "Islas de Santa Fe National Park Paraná Island and Wetland Routes"
+location:
+  country_code: AR
+  latitude: -32.41
+  longitude: -60.73
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    photography: 9.0

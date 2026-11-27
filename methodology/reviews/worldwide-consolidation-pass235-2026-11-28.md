@@ -1,0 +1,5 @@
+# Pass 235 — exact numerical recount and incremental sync
+
+Pinned input `194e641a020424d3e676b2ed8a4d3e9107244a61`: Playground run [46083118547](https://github.com/Persie0/Playground/actions/runs/46083118547) verified 20,162 destinations, 20,161 complete, 1 incomplete (1,589/1,590 original resolved, zero outside inventory). 1,498 now complete historically deferred/unranked. Baseline and backlog consistency passed. Rankings failed because YAML 1.1 parses bare NO as boolean false in Nigardsbreen. Quote the code, preserve all scores and coordinates. Publication also failed due to untracked files; generated outputs not committed. Exact counts apply only to pinned input.
+
+Imported 37 new Argentine sights and one review from #249 through `fba2b9dfc77b2a7a6519c08cd10436556cb85cf7` (42 changed paths, four derived paths deferred, no deletions). New tree counts: 15,880 sights, 4,319 cities, 20,199 total. No previously existing numerical scores changed. New completeness recount and validation required.

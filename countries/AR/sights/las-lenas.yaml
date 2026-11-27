@@ -1,0 +1,16 @@
+id: sight-ar-las-lenas
+name: "Las Leñas Andean Ski and Mountain Resort Experience"
+location:
+  country_code: AR
+  latitude: -35.15
+  longitude: -70.08
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.2
+    adventure: 9.4
+    photography: 9.1

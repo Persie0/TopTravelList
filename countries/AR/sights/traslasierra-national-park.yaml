@@ -1,0 +1,16 @@
+id: sight-ar-traslasierra-national-park
+name: "Traslasierra National Park Dry Chaco and Estancia Pinas Heritage"
+location:
+  country_code: AR
+  latitude: -31.29
+  longitude: -65.38
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.2
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    history: 8.9

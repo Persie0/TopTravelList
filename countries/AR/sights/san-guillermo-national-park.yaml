@@ -1,0 +1,16 @@
+id: sight-ar-san-guillermo-national-park
+name: "San Guillermo National Park Guided High Andes Wildlife Landscape"
+location:
+  country_code: AR
+  latitude: -29.25
+  longitude: -69.5
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.0
+  depth: 8.5
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.3

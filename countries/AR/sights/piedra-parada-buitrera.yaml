@@ -1,0 +1,16 @@
+id: sight-ar-piedra-parada-buitrera
+name: "Piedra Parada and Cañadón de la Buitrera Protected Geological Landscape"
+location:
+  country_code: AR
+  latitude: -42.65
+  longitude: -70.1
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.3
