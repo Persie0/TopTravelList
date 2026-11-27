@@ -4363,3 +4363,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Serra dos Pireneus State Park Goiás Quartzite Highlands: 83.95/100 (desk-based provisional).
 
 14 additions, 10 source-linked provisional, 4 desk-based provisional, 5 90+, 34 ranking-row comparisons (3 international). BR 203 ranked / 206 total. Interlagos race weekend only; Amazonas Opera Festival separates programmed event from permanent theatre, shared venue non-additive. Saquarema elite surf event only. Brasília film festival 2026 opening confirmed following prior cancellation report. Furnas distinct from Serra da Canastra; geotechnical conditions and access not verified. Prainha and Grumari grouped; shared Rio scenery non-additive. Prior deferrals retained. Coordinates approximate; access and future schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
+
+### Pass 247 — Brazil flagship celebrations, museums, freshwater and northern heritage
+
+- [x] BR — Rio de Janeiro Copacabana Réveillon New Year Music and Fireworks Celebration: 94.15/100 (source-linked-unverified).
+- [x] BR — Festival do Japão São Paulo Japanese-Brazilian Cultural Exhibition: 91.30/100 (source-linked-unverified).
+- [x] BR — Bioparque Pantanal Campo Grande Freshwater Aquarium and Conservation Exhibits: 91.80/100 (source-linked-unverified).
+- [x] BR — Museu Histórico Nacional Rio de Janeiro Brazilian History Collections: 90.95/100 (source-linked-unverified).
+- [x] BR — Lagoa Misteriosa Jardim Flooded Sinkhole Snorkeling and Diving: 90.65/100 (source-linked-unverified).
+- [x] BR — Ciclo do Marabaixo Macapá Afro-Amapaense Music Dance and Religious Celebrations: 90.60/100 (source-linked-unverified).
+- [x] BR — Caldas Novas and Rio Quente Geothermal Bathing and Water Leisure Circuit: 89.45/100 (source-linked-unverified).
+- [x] BR — Arraial do Cabo Marine Reserve Beaches and Authorized Diving Circuit: 89.15/100 (source-linked-unverified).
+- [x] BR — Rio Doce State Park Atlantic Forest Lakes and Wildlife Trails: 88.65/100 (source-linked-unverified).
+- [x] BR — Museu de Arte Contemporânea Niterói Niemeyer Architecture and Art Collections: 88.55/100 (source-linked-unverified).
+- [x] BR — Madeira-Mamoré Railway Museum and Historic Complex Porto Velho: 87.55/100 (source-linked-unverified).
+- [x] BR — Liberdade São Paulo Asian-Brazilian Cultural District and Weekend Market: 88.90/100 (source-linked-unverified).
+- [x] BR — Campos Gerais National Park Buraco do Padre Sinkhole Waterfall Circuit: 86.55/100 (source-linked-unverified).
+- [x] BR — Marco Zero do Equador Macapá Equator Monument and Public Visitor Park: 81.55/100 (source-linked-unverified).
+- [x] BR — Xapuri Chico Mendes Memorial and Rubber-Tapper Heritage Circuit: 85.30/100 (source-linked-unverified).
+- [x] BR — Brasília National Park Cerrado Trails and Mineral Pools: 84.15/100 (source-linked-unverified).
+- [x] BR — Armação dos Búzios Coastal Beaches and Orla Bardot Walk: 84.80/100 (desk-based provisional).
+- [x] BR — Ponta Negra Beach and Morro do Careca Viewpoints Natal: 83.55/100 (desk-based provisional).
+
+18 additions, 16 source-linked provisional, 2 desk-based provisional, 6 90+, 45 ranking-row comparisons (4 international). BR 221 ranked / 224 total. UNESCO official country list checked: all 26 inscribed properties and 18 tentative entries represented, including three unassessed (https://whc.unesco.org/en/statesparties/br). Catimbau deferred as existing Caatinga serial component (https://whc.unesco.org/en/tentativelists/6896/). Lagoa Misteriosa distinct underwater circuit despite shared Rio da Prata reception; Réveillon separate from Carnival; Festival do Japão separate from Liberdade; Bioparque aquarium separate from wild Pantanal; Marabaixo public-facing only. North coverage expanded to Amapá, Rondônia and Acre. Prior deferrals retained. Coordinates approximate; access and future schedules unverified. Existing scores and three unassessed retained. Queue stays open for targeted final regional screen because this pass still identified multiple 90+ omissions; UNESCO representation is not completeness.
