@@ -3619,3 +3619,247 @@ Independent coordinates, peer YAML, same-type global calibration and full Python
 ### Pass 315 scope decisions
 
 12 provisional additions (5 source-linked, 7 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 177 ranked / 178 total, +113 since baseline 65, 50 new 90+ across nine passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. FIBA, Chacarera, Córdoba crafts fair and Cerro Colorado researched; El Chiflón independently source-linked. Coastal Mar Chiquita (Buenos Aires) distinct from inland Córdoba lagoon. La Salamanca deferred because of repeated cancelled editions, not penalized on access; https://sursantiago.com.ar/noticias/2026/01/07/la-municipalidad-de-la-banda-confirmo-que-no-se-realizara-el-festival-de-la-salamanca-en-2026 . El Shincal deferred for Qhapaq Ñan component scope (https://whc.unesco.org/en/list/1459/maps/). Existing scores and one unassessed preserved; prior Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+## sight-ar-laborde-malambo-festival — Laborde National Malambo Festival Public Dance Competition — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/laborde-malambo-festival.yaml)
+- Action: new
+- Scope: National dance competition with public performances; 58th edition held January 2026. Separate from Chacarera and Cosquín festivals.
+- Representative coordinates: -33.15, -62.86; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://prensa.rionegro.gov.ar/articulo/57525/rio-negro-se-destaco-en-el-festival-nacional-del-malambo-en-laborde ; https://cordobaturismo.gov.ar/evento/festival-nacional-del-malambo-en-laborde-2/
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.2 / 9.1.
+- Categories: culture:9.4 photography:9.2 history:9.1.
+- Overall: 92.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/santiago-del-estero-chacarera](../../../countries/AR/sights/santiago-del-estero-chacarera.yaml) | 9.1 / 9.3 / 9.3 / 9.2 / 9.1 | impact: 0.0; uniqueness: 0.1 vs peer |
+| [UY/durazno-folklore-festival](../../../countries/UY/sights/durazno-folklore-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.1 | impact: 0.1; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-alumine-rafting — Aluminé River Guided Whitewater Rafting Experience — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/alumine-rafting.yaml)
+- Action: new
+- Scope: Established guided rafting on designated river stretches; national tourism authority documents world championships in 2018 and 2025. No guarantee of water level or participant eligibility.
+- Representative coordinates: -39.23, -70.92; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/viaja-por-argentina/que-hacer/vivir-una-aventura-de-rafting-en-el-rio-alumine ; https://www.hcdn.gob.ar/comisiones/permanentes/cdhygarantias/proyecto.html?exp=2450-D-2018
+- Core I/U/S/E/D: 9.2 / 9.0 / 9.1 / 9.2 / 8.6.
+- Categories: adventure:9.4 nature:9.2 photography:9.0.
+- Overall: 90.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/batea-mahuida](../../../countries/AR/sights/batea-mahuida.yaml) | 8.9 / 9.4 / 9.1 / 8.9 / 8.8 | impact: 0.3; uniqueness: -0.4 vs peer |
+| [UY/cabo-polonio-national-park](../../../countries/UY/sights/cabo-polonio-national-park.yaml) | 8.9 / 8.9 / 8.6 / 8.8 / 8.4 | impact: 0.3; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-mendoza-river-rafting — Potrerillos Mendoza River Guided Whitewater Rafting — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/mendoza-river-rafting.yaml)
+- Action: new
+- Scope: Guided river descents upstream of Potrerillos reservoir; no shared credit with general wine tourism or Aconcagua.
+- Representative coordinates: -32.95, -69.2; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/en/activities/rafting-in-the-mendoza-river ; https://lujandecuyo.gob.ar/aventura-2/
+- Core I/U/S/E/D: 8.8 / 8.5 / 8.4 / 9.1 / 8.5.
+- Categories: adventure:9.3 nature:9.1 photography:9.0.
+- Overall: 86.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/canon-del-atuel](../../../countries/AR/sights/canon-del-atuel.yaml) | 8.9 / 8.6 / 8.3 / 8.9 / 8.6 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [UY/cabo-polonio-national-park](../../../countries/UY/sights/cabo-polonio-national-park.yaml) | 8.9 / 8.9 / 8.6 / 8.8 / 8.4 | impact: -0.1; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-juramento-river-rafting — Juramento River Guided Rafting and Canyon Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/juramento-river-rafting.yaml)
+- Action: new
+- Scope: Public guided rafting below Cabra Corral in designated sections; no unverified canyon access or safety assurances.
+- Representative coordinates: -25.28, -65.27; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://visitsalta.ar/naturaleza/aventura/actividades_agua/ ; https://www.argentina.travel/actividades/aventura-en-salta
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.3 / 8.9 / 8.5.
+- Categories: adventure:9.3 nature:9.2 photography:9.1.
+- Overall: 86.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/canon-del-atuel](../../../countries/AR/sights/canon-del-atuel.yaml) | 8.9 / 8.6 / 8.3 / 8.9 / 8.6 | impact: -0.1; uniqueness: 0.1 vs peer |
+| [UY/cabo-polonio-national-park](../../../countries/UY/sights/cabo-polonio-national-park.yaml) | 8.9 / 8.9 / 8.6 / 8.8 / 8.4 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-cacheuta-thermal-baths — Cacheuta Thermal Bathing and Andean Mountain Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/cacheuta-thermal-baths.yaml)
+- Action: new
+- Scope: Established public thermal bathing facilities, distinct from whitewater rafting; no medical benefit claims.
+- Representative coordinates: -33.04, -69.12; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/novedades/thermal-tourism-in-argentina-relaxation-and-nature-all-year-round
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.3 / 9.1 / 8.5.
+- Categories: relaxation:9.4 nature:9.1 family:9.1.
+- Overall: 85.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/termas-rio-hondo](../../../countries/AR/sights/termas-rio-hondo.yaml) | 8.4 / 8.3 / 8.5 / 9.0 / 8.3 | impact: 0.2; uniqueness: 0.2 vs peer |
+| [UY/piriapolis-waterfront](../../../countries/UY/sights/piriapolis-waterfront.yaml) | 8.2 / 8.3 / 8.5 / 8.6 / 8.3 | impact: 0.4; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-termas-de-reyes — Termas de Reyes Mountain Thermal Bathing Experience — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/termas-de-reyes.yaml)
+- Action: new
+- Scope: Thermal bathing and mountain setting; distinct from Potrero de Yala. No medical claims.
+- Representative coordinates: -24.17, -65.49; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://turismo.sansalvadordejujuy.gob.ar/jujuy-natural-termas-de-reyes/
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.2 / 8.8 / 8.3.
+- Categories: relaxation:9.3 nature:9.1 photography:8.9.
+- Overall: 84.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/termas-rio-hondo](../../../countries/AR/sights/termas-rio-hondo.yaml) | 8.4 / 8.3 / 8.5 / 9.0 / 8.3 | impact: 0.1; uniqueness: 0.2 vs peer |
+| [UY/piriapolis-waterfront](../../../countries/UY/sights/piriapolis-waterfront.yaml) | 8.2 / 8.3 / 8.5 / 8.6 / 8.3 | impact: 0.3; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-buenos-aires-feja — Buenos Aires Festival de Jazz Argentino (FEJA) Public Concert Programme — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/buenos-aires-feja.yaml)
+- Action: new
+- Scope: Argentine Jazz Festival fourth edition documented for November 2026; not conflated with the separate Buenos Aires International Jazz Festival.
+- Representative coordinates: -34.59, -58.42; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://casadelbicentenario.cultura.gob.ar/actividad/musica-ekathe/ ; https://linda.buenosaires.gob.ar/eventos/feja-festival-de-jazz-argentino
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 9.0 / 8.8.
+- Categories: culture:9.2 nightlife:9.2.
+- Overall: 87.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/buenos-aires-fiba](../../../countries/AR/sights/buenos-aires-fiba.yaml) | 9.1 / 9.1 / 9.3 / 9.3 / 9.2 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [UY/punta-del-este-jazz-festival](../../../countries/UY/sights/punta-del-este-jazz-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.0 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-cordon-del-plata — Cordón del Plata Provincial Park Mountain Trekking Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/cordon-del-plata.yaml)
+- Action: new
+- Scope: Distinct mountain park with established routes; no summit, unrestricted access or safety guarantee.
+- Representative coordinates: -33, -69.4; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General overview; individual source verification pending.
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.5 / 8.6 / 8.8.
+- Categories: adventure:9.3 nature:9.3 photography:9.3.
+- Overall: 87.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/aconcagua-provincial-park](../../../countries/AR/sights/aconcagua-provincial-park.yaml) | 9.5 / 9.1 / 9.2 / 8.2 / 8.7 | impact: -0.5; uniqueness: -0.3 vs peer |
+| [UY/cabo-polonio-national-park](../../../countries/UY/sights/cabo-polonio-national-park.yaml) | 8.9 / 8.9 / 8.6 / 8.8 / 8.4 | impact: 0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-mendoza-general-san-martin-park — Mendoza General San Martín Park and Monumental Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/mendoza-general-san-martin-park.yaml)
+- Action: new
+- Scope: Historic designed urban park and publicly accessible monuments; no separate credit for private clubs.
+- Representative coordinates: -32.89, -68.87; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General overview; individual source verification pending.
+- Core I/U/S/E/D: 8.2 / 8.3 / 8.5 / 8.8 / 8.4.
+- Categories: architecture:8.9 relaxation:9.1 photography:9.0.
+- Overall: 83.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/buenos-aires-congress](../../../countries/AR/sights/buenos-aires-congress.yaml) | 8.5 / 8.4 / 9.0 / 8.2 / 8.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [UY/montevideo-museo-blanes](../../../countries/UY/sights/montevideo-museo-blanes.yaml) | 8.2 / 8.4 / 8.8 / 8.5 / 8.5 | impact: 0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-buenos-aires-national-history-museum — Buenos Aires National Historical Museum Public Exhibitions — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/buenos-aires-national-history-museum.yaml)
+- Action: new
+- Scope: Permanent national history museum, not a duplicate of the San Telmo district or Plaza de Mayo.
+- Representative coordinates: -34.63, -58.37; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General overview; individual source verification pending.
+- Core I/U/S/E/D: 8.1 / 8.5 / 9.1 / 8.4 / 8.6.
+- Categories: history:9.4 culture:9.2.
+- Overall: 84.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/buenos-aires-museo-evita](../../../countries/AR/sights/buenos-aires-museo-evita.yaml) | 8.2 / 8.5 / 8.9 / 8.4 / 8.4 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [UY/montevideo-museo-blanes](../../../countries/UY/sights/montevideo-museo-blanes.yaml) | 8.2 / 8.4 / 8.8 / 8.5 / 8.5 | impact: -0.1; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-buenos-aires-parque-memoria — Buenos Aires Parque de la Memoria Memorial and Public Art Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/buenos-aires-parque-memoria.yaml)
+- Action: new
+- Scope: Public riverside memorial and sculpture park; distinct from ESMA's former detention site.
+- Representative coordinates: -34.54, -58.44; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General overview; individual source verification pending.
+- Core I/U/S/E/D: 8.3 / 8.5 / 9.1 / 8.5 / 8.4.
+- Categories: history:9.4 culture:9.1 photography:8.9.
+- Overall: 85.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/esma-museum-and-site-of-memory](../../../countries/AR/sights/esma-museum-and-site-of-memory.yaml) | 8.1 / 8.6 / 9.5 / 8.4 / 7.7 | impact: 0.2; uniqueness: -0.1 vs peer |
+| [UY/estadio-centenario-and-football-museum](../../../countries/UY/sights/estadio-centenario-and-football-museum.yaml) | 7.9 / 8.8 / 9.2 / 8.2 / 7.5 | impact: 0.4; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+## sight-ar-chascomus-lagoon — Chascomús Lagoon Lakeshore and Public Recreation — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/chascomus-lagoon.yaml)
+- Action: new
+- Scope: Public lakeshore and designated recreation; no hotel or water-quality claims.
+- Representative coordinates: -35.59, -58.04; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General overview; individual source verification pending.
+- Core I/U/S/E/D: 8.0 / 8.1 / 7.9 / 8.7 / 8.2.
+- Categories: relaxation:9.1 nature:8.9 photography:8.8.
+- Overall: 81.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/mar-chiquita-miramar-wildlife](../../../countries/AR/sights/mar-chiquita-miramar-wildlife.yaml) | 8.8 / 9.0 / 9.1 / 8.7 / 8.6 | impact: -0.8; uniqueness: -0.9 vs peer |
+| [UY/piriapolis-waterfront](../../../countries/UY/sights/piriapolis-waterfront.yaml) | 8.2 / 8.3 / 8.5 / 8.6 / 8.3 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, same-type global calibration and full Python validation pending.
+
+### Pass 316 scope decisions
+
+12 provisional additions (7 source-linked, 5 desk-based), 2 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 189 ranked / 190 total, +125 since baseline 65, 52 new 90+ across ten passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Laborde Malambo and Aluminé rafting researched; 2018/2025 championships establish sporting heritage, not automatic visitor difficulty. Potrerillos, Juramento, Cacheuta, Reyes and FEJA source-linked. FEJA distinct from international jazz festival; no future schedule inferred. Tastil deferred because it belongs to Qhapaq Ñan (https://culturasalta.gov.ar/organismos_cultura/museo-de-sitio-de-santa-rosa-de-tastil/); rotating national theatre festival deferred pending location convention. Prior El Shincal, La Salamanca, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Existing scores and one unassessed preserved. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.

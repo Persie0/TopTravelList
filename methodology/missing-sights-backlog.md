@@ -5595,3 +5595,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AR — Punta Rasa Coastal Wetland and Migratory Birdwatching: 85.15/100 (desk-based provisional).
 
 12 provisional additions (5 source-linked, 7 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 177 ranked / 178 total, +113 since baseline 65, 50 new 90+ across nine passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. FIBA, Chacarera, Córdoba crafts fair and Cerro Colorado researched; El Chiflón independently source-linked. Coastal Mar Chiquita (Buenos Aires) distinct from inland Córdoba lagoon. La Salamanca deferred because of repeated cancelled editions, not penalized on access; https://sursantiago.com.ar/noticias/2026/01/07/la-municipalidad-de-la-banda-confirmo-que-no-se-realizara-el-festival-de-la-salamanca-en-2026 . El Shincal deferred for Qhapaq Ñan component scope (https://whc.unesco.org/en/list/1459/maps/). Existing scores and one unassessed preserved; prior Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+### Pass 316 — Argentina rafting, dance and regional heritage
+
+- [x] AR — Laborde National Malambo Festival Public Dance Competition: 92.50/100 (source-linked provisional).
+- [x] AR — Aluminé River Guided Whitewater Rafting Experience: 90.70/100 (source-linked provisional).
+- [x] AR — Potrerillos Mendoza River Guided Whitewater Rafting: 86.60/100 (source-linked provisional).
+- [x] AR — Juramento River Guided Rafting and Canyon Landscape: 86.60/100 (source-linked provisional).
+- [x] AR — Cacheuta Thermal Bathing and Andean Mountain Landscape: 85.80/100 (source-linked provisional).
+- [x] AR — Termas de Reyes Mountain Thermal Bathing Experience: 84.65/100 (source-linked provisional).
+- [x] AR — Buenos Aires Festival de Jazz Argentino (FEJA) Public Concert Programme: 87.75/100 (source-linked provisional).
+- [x] AR — Cordón del Plata Provincial Park Mountain Trekking Landscape: 87.70/100 (desk-based provisional).
+- [x] AR — Mendoza General San Martín Park and Monumental Landscape: 83.95/100 (desk-based provisional).
+- [x] AR — Buenos Aires National Historical Museum Public Exhibitions: 84.95/100 (desk-based provisional).
+- [x] AR — Buenos Aires Parque de la Memoria Memorial and Public Art Landscape: 85.50/100 (desk-based provisional).
+- [x] AR — Chascomús Lagoon Lakeshore and Public Recreation: 81.30/100 (desk-based provisional).
+
+12 provisional additions (7 source-linked, 5 desk-based), 2 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 189 ranked / 190 total, +125 since baseline 65, 52 new 90+ across ten passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Laborde Malambo and Aluminé rafting researched; 2018/2025 championships establish sporting heritage, not automatic visitor difficulty. Potrerillos, Juramento, Cacheuta, Reyes and FEJA source-linked. FEJA distinct from international jazz festival; no future schedule inferred. Tastil deferred because it belongs to Qhapaq Ñan (https://culturasalta.gov.ar/organismos_cultura/museo-de-sitio-de-santa-rosa-de-tastil/); rotating national theatre festival deferred pending location convention. Prior El Shincal, La Salamanca, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Existing scores and one unassessed preserved. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.

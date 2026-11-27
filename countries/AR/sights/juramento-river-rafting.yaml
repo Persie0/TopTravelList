@@ -1,0 +1,16 @@
+id: sight-ar-juramento-river-rafting
+name: "Juramento River Guided Rafting and Canyon Landscape"
+location:
+  country_code: AR
+  latitude: -25.28
+  longitude: -65.27
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.9
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    photography: 9.1

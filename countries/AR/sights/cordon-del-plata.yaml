@@ -1,0 +1,16 @@
+id: sight-ar-cordon-del-plata
+name: "Cordón del Plata Provincial Park Mountain Trekking Landscape"
+location:
+  country_code: AR
+  latitude: -33
+  longitude: -69.4
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.6
+  depth: 8.8
+  categories:
+    adventure: 9.3
+    nature: 9.3
+    photography: 9.3
