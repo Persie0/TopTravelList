@@ -1338,3 +1338,15 @@ Seven additions, 28 peer rows. Türkiye 168 ranked / 168 total. Sığacık disti
 - [x] FR — Paris Catacombs: 90.10/100 (source-linked-unverified).
 
 Six additions, 24 peer rows. France 96 ranked / 107 total; eleven existing unassessed unchanged. Independent museum collections distinguished from Seine landscape, Orangerie separate from Orsay, Invalides dome included in army museum, Pompidou scored on established experience despite renovation. Next bounded screen: Musée Carnavalet, Musée Guimet, Musée de Cluny, Musée Picasso Paris, Cité des Sciences, Grande Galerie de l’Évolution, and Arc de Triomphe (Seine parent-scope check). Full Python validation pending.
+
+### Pass 116 — France independent Paris museum collections and Arc de Triomphe
+
+- [x] FR — Musée Carnavalet – History of Paris: 90.55/100 (source-linked-unverified).
+- [x] FR — Musée Guimet – National Museum of Asian Arts Paris: 91.15/100 (source-linked-unverified).
+- [x] FR — Musée de Cluny – National Museum of the Middle Ages: 91.35/100 (source-linked-unverified).
+- [x] FR — Musée national Picasso-Paris: 90.85/100 (source-linked-unverified).
+- [x] FR — Cité des Sciences et de l’Industrie Paris: 88.90/100 (source-linked-unverified).
+- [x] FR — Grande Galerie de l’Évolution Paris: 90.55/100 (source-linked-unverified).
+- [x] FR — Arc de Triomphe and Rooftop Viewpoint Paris: 90.30/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 103 ranked / 114 total; 11 existing unassessed unchanged. Guimet main venue only; Cluny collections and historic building grouped; Cité science exhibits and planetarium grouped; Grande Galerie bounded independently of other natural history facilities; Arc de Triomphe dedicated monument and terrace separate from Seine landscape, exact UNESCO polygon not checked. Next bounded screen: Sainte-Chapelle (independent monument scope), Panthéon, Sacré-Cœur and Montmartre, Père-Lachaise, Opéra Garnier, Petit Palais collections, and Musée de l’Homme. Full Python validation pending.

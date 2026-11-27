@@ -26,6 +26,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | GR | DONE — current queue | 111 total (110 ranked); 46 additions in passes 92–97. Seven final named candidates resolved. Ancient Thera current closure notice recorded; Cave of the Lakes dedicated tour separate from park; mastic museum separate from village streets. No remaining named candidates in bounded queue; reopen on concrete substantial omission. One prior unassessed unchanged. |
 | TR | DONE — current queue | 168 ranked / 168 total; 117 additions in passes 98–114. Named queue resolved; distinct wetlands and mountain parks screened, Kapuzbaşı included in Aladağlar. Ihlara precise boundary caveat remains. Reopen for concrete significant omissions; not an exhaustive inventory. |
 
-| FR | OPEN | 107 total (96 ranked); six additions in pass 115. Next bounded screen: Musée Carnavalet, Musée Guimet, Musée de Cluny, Musée Picasso Paris, Cité des Sciences, Grande Galerie de l’Évolution, and Arc de Triomphe (Seine parent-scope check). Eleven existing unassessed separate. |
+| FR | OPEN | 114 total (103 ranked); 13 additions in passes 115–116. Next bounded screen: Sainte-Chapelle (independent monument scope), Panthéon, Sacré-Cœur and Montmartre, Père-Lachaise, Opéra Garnier, Petit Palais collections, and Musée de l’Homme. Eleven existing unassessed separate. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

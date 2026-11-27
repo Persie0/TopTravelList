@@ -3774,3 +3774,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-musee-carnavalet — Musée Carnavalet – History of Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-carnavalet.yaml)
+- Action: new
+- Precise subject and limitations: Two historic mansions and dedicated Paris history collections; excludes the wider Marais streets.
+- Location check: 48.8574, 2.36214; [published representative point](https://en.wikipedia.org/wiki/Mus%C3%A9e_Carnavalet), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.carnavalet.paris.fr/en); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/invalides-army-museum](../../../countries/FR/sights/invalides-army-museum.yaml) | 9.2 / 9.1 / 9.4 / 9.0 / 9.3 | impact: -0.3 vs peer; significance: -0.2 vs peer. |
+| [FR/quai-branly-museum](../../../countries/FR/sights/quai-branly-museum.yaml) | 9.0 / 9.2 / 9.2 / 8.9 / 9.2 | uniqueness: -0.2 vs peer; experience: +0.2 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Historic interiors and diverse city artifacts. |
+| Uniqueness | 9.0 | Distinct chronological interpretation of Paris. |
+| Significance | 9.2 | Major municipal historical collection. |
+| Experience | 9.1 | Extensive dedicated museum visit. |
+| Depth | 9.3 | Numerous periods and rooms. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:9.1.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: 90+ provisional; international comparisons documented where available; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-guimet — Musée Guimet – National Museum of Asian Arts Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-guimet.yaml)
+- Action: new
+- Precise subject and limitations: Place d’Iéna galleries and Asian art collections only; Maison Guimet and Musée d’Ennery excluded, as they have separate visitor arrangements.
+- Location check: 48.86539, 2.29356; [published representative point](https://mapcarta.com/W79641993), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.guimet.fr/en/access-and-opening-hours); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/quai-branly-museum](../../../countries/FR/sights/quai-branly-museum.yaml) | 9.0 / 9.2 / 9.2 / 8.9 / 9.2 | significance: +0.1 vs peer; impact: +0.0 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | experience: -0.2 vs peer; depth: -0.2 vs peer. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | experience: -0.4 vs peer; depth: -0.4 vs peer. |
+| [FR/musee-orsay](../../../countries/FR/sights/musee-orsay.yaml) | 9.2 / 9.3 / 9.5 / 9.2 / 9.2 | experience: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Substantial Asian sculpture and art collections. |
+| Uniqueness | 9.2 | Distinct specialist Asian art institution. |
+| Significance | 9.3 | Internationally significant collection. |
+| Experience | 8.9 | Dedicated galleries. |
+| Depth | 9.2 | Broad geographic and chronological coverage. |
+
+- Applicable categories: culture:9.4, history:9.4, architecture:8.8.
+- Computed worldwide overall: 91.15/100.
+- High-score challenge: 90+ provisional; international comparisons documented where available; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-cluny — Musée de Cluny – National Museum of the Middle Ages — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-cluny.yaml)
+- Action: new
+- Precise subject and limitations: Medieval collection and Hôtel de Cluny with Roman baths as a combined museum experience. Not Cluny Abbey in Burgundy.
+- Location check: 48.85048, 2.344081; [published representative point](https://www.compagnie-acmh.fr/les-monuments/musee-de-cluny-paris/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://billetterie.musee-moyenage.fr/en/visit/71); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-rodin](../../../countries/FR/sights/musee-rodin.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 8.8 | depth: +0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/invalides-army-museum](../../../countries/FR/sights/invalides-army-museum.yaml) | 9.2 / 9.1 / 9.4 / 9.0 / 9.3 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.3 vs peer; impact: -0.1 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Exceptional medieval artworks and historic building. |
+| Uniqueness | 9.3 | Distinct tapestry and architectural ensemble. |
+| Significance | 9.3 | Major European medieval collection. |
+| Experience | 9.0 | Dedicated museum galleries. |
+| Depth | 9.0 | Varied collections and historic spaces. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:9.2.
+- Computed worldwide overall: 91.35/100.
+- High-score challenge: 90+ provisional; international comparisons documented where available; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-picasso-paris — Musée national Picasso-Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-picasso-paris.yaml)
+- Action: new
+- Precise subject and limitations: Hôtel Salé and its Picasso collection; independent from Centre Pompidou. Exhibits rotate; no assumption all holdings are on display.
+- Location check: 48.85988, 2.36209; [published representative point](https://mapcarta.com/25584986), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.museepicassoparis.fr/en/visit/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/centre-pompidou](../../../countries/FR/sights/centre-pompidou.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.4 | depth: -0.5 vs peer; impact: -0.3 vs peer. |
+| [FR/musee-rodin](../../../countries/FR/sights/musee-rodin.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 8.8 | experience: -0.2 vs peer; impact: -0.1 vs peer. |
+| [ES/picasso-museum-barcelona](../../../countries/ES/sights/picasso-museum-barcelona.yaml) | 8.8 / 9.0 / 9.2 / 8.8 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [ES/picasso-museum-malaga](../../../countries/ES/sights/picasso-museum-malaga.yaml) | 8.7 / 8.8 / 9.2 / 8.8 / 8.8 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Significant art collection in historic mansion. |
+| Uniqueness | 9.2 | Distinct single-artist collection. |
+| Significance | 9.3 | Major twentieth-century art heritage. |
+| Experience | 8.9 | Dedicated museum visit. |
+| Depth | 8.9 | Substantial specialist collections. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:9.0.
+- Computed worldwide overall: 90.85/100.
+- High-score challenge: 90+ provisional; international comparisons documented where available; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-cite-des-sciences — Cité des Sciences et de l’Industrie Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cite-des-sciences.yaml)
+- Action: new
+- Precise subject and limitations: Science and technology exhibitions, planetarium and children’s museum treated as one institution; excludes wider Parc de la Villette and independently operated attractions. Separate tickets may apply.
+- Location check: 48.89575, 2.38798; [published representative point](https://mapcarta.com/N253065826), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.cite-sciences.fr/en/explore/permanent-exhibitions); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/city-arts-sciences](../../../countries/ES/sights/city-arts-sciences.yaml) | 9.4 / 9.3 / 8.9 / 9.3 / 9.1 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | significance: -0.6 vs peer; impact: -0.4 vs peer. |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | significance: -0.6 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large interactive exhibitions. |
+| Uniqueness | 8.8 | Distinct multidisciplinary science centre. |
+| Significance | 8.7 | Major public science education institution. |
+| Experience | 9.2 | Hands-on and family-friendly interpretation. |
+| Depth | 9.3 | Numerous exhibition topics and programmes. |
+
+- Applicable categories: family:9.4, culture:9.1, architecture:8.8.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-grande-galerie-evolution — Grande Galerie de l’Évolution Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/grande-galerie-evolution.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated biodiversity and evolution gallery, not whole Jardin des Plantes or the national museum’s dispersed facilities.
+- Location check: 48.84212, 2.35624; [published representative point](https://mapcarta.com/32903748), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.mnhn.fr/en/grande-galerie-de-l-evolution-gallery-of-evolution); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/smithsonian-national-museum-of-natural-history](../../../countries/US/sights/smithsonian-national-museum-of-natural-history.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | depth: -0.4 vs peer; significance: -0.3 vs peer. |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | depth: -0.4 vs peer; significance: -0.3 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | impact: +0.3 vs peer; depth: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Impressive central specimen display. |
+| Uniqueness | 9.1 | Distinct historic gallery and biodiversity interpretation. |
+| Significance | 9.0 | Major natural-history education collection. |
+| Experience | 9.0 | Dedicated multi-level museum visit. |
+| Depth | 9.0 | Broad thematic specimen displays. |
+
+- Applicable categories: nature:9.4, family:9.3, culture:9.1, architecture:9.0.
+- Computed worldwide overall: 90.55/100.
+- High-score challenge: 90+ provisional; international comparisons documented where available; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-arc-de-triomphe — Arc de Triomphe and Rooftop Viewpoint Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/arc-de-triomphe.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated monument interior, commemorative reliefs and rooftop terrace at Place Charles de Gaulle, distinct from a Seine riverbank walk. UNESCO urban atlas https://whc.unesco.org/en/urban-heritage-atlas/Paris/ discusses the broader urban axis; exact registered polygon not verified. Does not include the entire Champs-Élysées.
+- Location check: 48.87378, 2.29504; [published representative point](https://mapcarta.com/24884744), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.paris-arc-de-triomphe.fr/en/visit/informations-pratiques); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/eiffel-tower](../../../countries/FR/sights/eiffel-tower.yaml) | 9.5 / 9.6 / 9.4 / 9.2 / 8.2 | uniqueness: -0.6 vs peer; impact: -0.3 vs peer. |
+| [FR/orange](../../../countries/FR/sights/orange.yaml) | 9.1 / 9.1 / 9.3 / 8.9 / 8.4 | depth: -0.3 vs peer; impact: +0.1 vs peer. |
+| [FR/pic-du-midi](../../../countries/FR/sights/pic-du-midi.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 8.5 | depth: -0.4 vs peer; significance: +0.2 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: -0.6 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Iconic monumental arch and panoramic view. |
+| Uniqueness | 9.0 | Distinct radial urban setting. |
+| Significance | 9.3 | Important national commemorative monument. |
+| Experience | 9.0 | Dedicated rooftop and monument visit. |
+| Depth | 8.1 | Compact monument and exhibition scope. |
+
+- Applicable categories: architecture:9.4, history:9.4, photography:9.4.
+- Computed worldwide overall: 90.30/100.
+- High-score challenge: 90+ provisional; international comparisons documented where available; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
