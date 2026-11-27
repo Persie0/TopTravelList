@@ -886,3 +886,16 @@ Eight additions, 32 peer rows. Spain 148 ranked / 163 total. Summit viewpoint al
 - [x] ES — Zahara de la Sierra Historic Village and Castle: 86.70/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Spain 155 ranked / 170 total. El Torcal explicitly included in existing Antequera property scope (https://whc.unesco.org/en/list/1501); Aljafería Mudéjar features included in existing Aragon serial property (https://whc.unesco.org/en/list/378/); both deferred pending narrower scope review. No generic Pueblos Blancos aggregate: individual villages distinct from Ronda. Grazalema natural routes exclude Zahara urban precinct. Next screen: Albarracín, Besalú, Cadaqués, Santillana del Mar, Cudillero, Playa de las Catedrales, Costa Quebrada, and Hoces del Río Duratón. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 79 — Spanish historic villages, coastal geology and river gorges
+
+- [x] ES — Albarracín Historic Town and Walls: 89.15/100 (source-linked-unverified).
+- [x] ES — Besalú Medieval Town and Bridge: 87.45/100 (source-linked-unverified).
+- [x] ES — Cadaqués Historic Village and Waterfront: 87.45/100 (source-linked-unverified).
+- [x] ES — Santillana del Mar Historic Village: 87.10/100 (source-linked-unverified).
+- [x] ES — Cudillero Fishing Village and Harbour: 86.15/100 (source-linked-unverified).
+- [x] ES — As Catedrais Beach and Sea Arches: 88.10/100 (source-linked-unverified).
+- [x] ES — Costa Quebrada Coastal Geosite and Liencres Dunes: 88.35/100 (source-linked-unverified).
+- [x] ES — Hoces del Río Duratón Natural Park: 88.00/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Spain 163 ranked / 178 total. Cadaqués excludes Portlligat and Cap de Creus; Santillana excludes Altamira. Costa Quebrada bounded to official Liencres coastal geosite, not entire geopark. As Catedrais tide and seasonal reservations documented. Next bounded major city and heritage screen: Basilica del Pilar (check Mudéjar overlap), Valencia Cathedral and historic core (exclude Lonja), Tossa de Mar, Templo de Debod, National Museum of Roman Art Mérida (separate collections), Museum of Human Evolution Burgos, Madrid Retiro individual scope check, and Alquézar. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.

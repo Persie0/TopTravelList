@@ -1,0 +1,17 @@
+id: sight-es-besalu-historic-town
+name: "Besalú Medieval Town and Bridge"
+location:
+  country_code: ES
+  latitude: 42.1986
+  longitude: 2.696
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.2
+    culture: 8.9
