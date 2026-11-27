@@ -1,0 +1,16 @@
+id: sight-nz-heaphy-track
+name: "Heaphy Track Multi-Day Wilderness Trek"
+location:
+  country_code: NZ
+  latitude: -41.04
+  longitude: 172.21
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    photography: 9.3

@@ -3591,3 +3591,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] NF — Colleen McCullough Home Literary Heritage Tour: 81.55/100 (source-linked-unverified).
 
 13 additions, 4 desk-based provisional, 9 source-linked, 4 90+, 32 ranking-row comparisons including 7 cross-area. AU paused at 222; CX 12/13, CC 11/12, NF 12/13. Three bounded territory queues closed. Rowley Shoals deferred: AIMS reports 61–90% coral mortality across monitored sites at Mermaid and Clerke reefs after the 2025 heatwave (https://www.aims.gov.au/information-centre/news-and-stories/worst-bleaching-event-record-wa-coral-reefs-following-long-lasting-and-widespread-marine-heatwave); no assumption of recovery. Abrolhos condition separately checked with 2026 study. Whyalla, Lady Elliot, Ball's Pyramid and convict-site components remain deferred; pause mainland discovery, not exhaustive. Existing red crab migration 94.15 retained, not duplicated. Offshore dive scope excludes Flying Fish Cove, dedicated birding circuit excludes individual walk scope; heat stress alerts are not site-level coral health data. Winifred Beach unassessed retained. Separate guided diving from existing snorkel/canoe routes and community-led culture tour from heritage interiors. Historical seagrass loss retained as caveat; Pulu Keeling restricted visitor scope remains unassessed. Distinct literary and folk museum tours. Kingston serial heritage overlap unchanged; Phillip Island restricted visitor scope remains unassessed. Existing scores retained. Next: New Zealand targeted screen. Independent validation pending.
+
+### Pass 210 — Reopened New Zealand priority experience screen
+
+- [x] NZ — Milford Track Multi-Day Fiordland Trek: 93.00/100 (source-linked-unverified).
+- [x] NZ — Poor Knights Islands Marine Reserve Diving and Snorkelling: 92.70/100 (source-linked-unverified).
+- [x] NZ — Routeburn Track Multi-Day Alpine Trek: 91.45/100 (source-linked-unverified).
+- [x] NZ — Aoraki Mackenzie Dark Sky Reserve Mount John Observatory Stargazing: 91.65/100 (source-linked-unverified).
+- [x] NZ — TranzAlpine Scenic Railway Christchurch to Greymouth: 91.05/100 (source-linked-unverified).
+- [x] NZ — Pukekura Taiaroa Head Royal Albatross Centre: 91.10/100 (source-linked-unverified).
+- [x] NZ — Ruakuri Cave Waitomo Guided Black Water Rafting: 90.90/100 (source-linked-unverified).
+- [x] NZ — Kepler Track Fiordland Multi-Day Alpine Circuit: 90.25/100 (source-linked-unverified).
+- [x] NZ — Wētā Workshop Wellington Film Effects and Studio Tours: 90.40/100 (source-linked-unverified).
+- [x] NZ — Tiritiri Matangi Island Open Wildlife Sanctuary: 89.70/100 (source-linked-unverified).
+- [x] NZ — Heaphy Track Multi-Day Wilderness Trek: 89.35/100 (source-linked-unverified).
+- [x] NZ — Paparoa Track Multi-Day Hiking and Mountain Biking: 89.10/100 (source-linked-unverified).
+- [x] NZ — Oamaru Blue Penguin Colony Guided Evening Viewing: 87.20/100 (desk-based provisional).
+- [x] NZ — Larnach Castle and Gardens Dunedin: 87.40/100 (desk-based provisional).
+- [x] NZ — Hamilton Gardens Themed Garden Collections: 88.15/100 (desk-based provisional).
+- [x] NZ — Toitū Otago Settlers Museum Dunedin: 87.45/100 (desk-based provisional).
+- [x] NZ — Hot Water Beach Coromandel Geothermal Sand Springs: 86.35/100 (desk-based provisional).
+- [x] NZ — Kaituna River Guided Whitewater Rafting: 87.85/100 (desk-based provisional).
+
+18 additions, 6 desk-based provisional, 12 source-linked, 9 90+, 45 ranking-row comparisons including 9 international. NZ 74 ranked / 76 total. NZ reopened on concrete omissions: Poor Knights, Mount John and TranzAlpine. Five named multi-day trek routes separately scoped from parent parks, not additive to parent; legacy overlap unresolved. Whanganui Journey deferred: existing park scope explicitly includes authorized river journeys (https://www.doc.govt.nz/whanganuijourney). Abel Tasman Coast Track deferred because existing park scope includes coastal forest trails. Mount John excludes shoreline; Ruakuri tubing excludes named Waitomo Glowworm Cave. TranzAlpine service notices describe a rail/bus substitution; intrinsic full-route rating separate from current operation. Existing two unassessed remote island entries and all prior scores preserved. Next: remaining North and South Island cultural, adventure and scenic experiences. Independent validation pending.
