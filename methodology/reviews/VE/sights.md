@@ -1604,3 +1604,246 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 299 scope decisions
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 4 90+, 26 ranking-row comparisons (12 international, 14 domestic). VE 76 ranked / 79 total, +36 since baseline 43. Prior UNESCO 3 inscribed and 3 tentative properties represented, no new boundary mapping. Autana previous deferral resolved narrowly for controlled guided river landscape only: INPARQUES explicitly documents registered authorized operator and river transit permit (https://inparques.gob.ve/tramites.html) and sacred summit restrictions (https://www.inparques.gob.ve/Monumentos%20Nacionales/cerro-autana.html); community consent required, no cave/summit access or private rituals. Alfredo Jahn guided routes distinct from Guacharo; permits unverified. Morros exterior landscape only. Cruz de Mayo national heritage, not UNESCO inscription; Merida fair excludes bullfighting. Three distinct art institutions added, existing Bellas Artes preserved. Choroni village excludes Playa Grande and San Juan festival. Cueva Quebrada del Toro, Jaua-Sarisarinama, Duida-Marahuaca deferred. Park counts unresolved; current INPARQUES portal not exhaustive. Existing ratings and three unassessed preserved. OPEN for bounded remaining regional park/cultural screen. Current security, permits, schedules and coordinates unverified; intrinsic rankings not travel advice. Full Python validation and global calibration pending.
+
+
+## Pass 300 — Venezuela final bounded regional screen (2026-11-28)
+
+
+## sight-ve-maria-lionza-sorte — Cerro María Lionza Sorte and Quibayo Regulated Pilgrimage Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/maria-lionza-sorte.yaml)
+- Action: new
+- Scope: INPARQUES explicitly describes regulated public lower sectors Sorte, Quibayo and El Loro and annual pilgrimage. Public landscape only; no participation in fire rituals, private ceremonies, photography without permission or protected upper forest access. Seasonal and ordinary visits grouped.
+- Representative coordinates: 10.15, -68.78; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.inparques.gob.ve/Monumentos%20Nacionales/maria-lionza.html
+- Core I/U/S/E/D: 9.1 / 9.5 / 9.3 / 8.8 / 9.1.
+- Categories: culture:9.4 nature:9.2 history:9.1 photography:9.1.
+- Overall: 91.95/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. 9.5 uniqueness provisional: distinctive syncretic spiritual landscape integrated with regulated protected-area access; same-type global calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/cerro-autana-river-landscape](../../../countries/VE/sights/cerro-autana-river-landscape.yaml) | 9.3 / 9.6 / 9.2 / 8.5 / 9.0 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [UY/florida-san-cono-pilgrimage](../../../countries/UY/sights/florida-san-cono-pilgrimage.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | impact: 0.1; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-sanare-zaragozas — Sanare Los Zaragozas Holy Innocents Public Masked Festival — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/sanare-zaragozas.yaml)
+- Action: new
+- Scope: Distinct local masked December 28 celebration, Lara living cultural heritage since 2020 per tourism ministry. Not an independent UNESCO inscription; Tamunangue music shared but annual June devotional event separate.
+- Representative coordinates: 9.75, -69.65; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.mintur.gob.ve/news/9e0bc885-a681-4e72-a448-77c36f67a2f8 ; https://laprensadelara.com/locales/sanare-zaragozas-este-28-de-diciembre/
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.2 / 9.0.
+- Categories: culture:9.4 history:9.1 photography:9.3.
+- Overall: 91.20/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/caucagua-holy-innocents](../../../countries/VE/sights/caucagua-holy-innocents.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | impact: 0.0; uniqueness: -0.1 vs peer |
+| [UY/artigas-samba-carnival](../../../countries/UY/sights/artigas-samba-carnival.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.2; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-la-vela-locos — La Vela de Coro Locos and Locainas Public Masked Parades — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/la-vela-locos.yaml)
+- Action: new
+- Scope: Distinct port-town annual masked public festival, not ordinary historic streets; organizers announced December 27–28 2026 edition. No UNESCO inscription claimed; shared Holy Innocents tradition not additive when bundled.
+- Representative coordinates: 11.46, -69.57; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.mintur.gob.ve/news/9e0bc885-a681-4e72-a448-77c36f67a2f8 ; https://radio.otilca.org/presentan-la-marca-oficial-locos-por-la-vela-para-la-xi-fiesta-internacional-de-locos-y-locainas/
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.4 photography:9.3 history:9.1.
+- Overall: 91.30/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/caucagua-holy-innocents](../../../countries/VE/sights/caucagua-holy-innocents.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.0 | impact: 0.0; uniqueness: -0.1 vs peer |
+| [UY/dolores-spring-festival](../../../countries/UY/sights/dolores-spring-festival.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 8.9 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-caicara-baile-mono — Caicara de Maturín Baile del Mono Public Dance Festival — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/caicara-baile-mono.yaml)
+- Action: new
+- Scope: Distinct communal dance and music festival, national heritage certification delivered November 25 2025; public December festivities only. No UNESCO inscription claimed.
+- Representative coordinates: 9.82, -63.62; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.mincultura.gob.ve/noticias/declarado-baile-del-mono-de-caicara-como-bien-de-interes-cultural/ ; https://www.mintur.gob.ve/news/9e0bc885-a681-4e72-a448-77c36f67a2f8
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.2 / 9.1 / 9.0.
+- Categories: culture:9.4 photography:9.2 history:9.2.
+- Overall: 91.00/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/guarenas-guatire-parranda](../../../countries/VE/sights/guarenas-guatire-parranda.yaml) | 9.1 / 9.4 / 9.4 / 9.1 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [UY/treinta-y-tres-olimar-festival](../../../countries/UY/sights/treinta-y-tres-olimar-festival.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.1 | impact: -0.1; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-san-cristobal-san-sebastian — San Cristóbal International San Sebastián Fair Public Parades and Music — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/san-cristobal-san-sebastian.yaml)
+- Action: new
+- Scope: 2026 61st edition announced more than 150 activities; public parade and music programme only, excludes bullfighting and other animal events. No future schedule guarantee.
+- Representative coordinates: 7.77, -72.23; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://fronteradigital.com.ve/index.php/entrada/65570 ; https://www.tachiranews.com/3-mil-800-personas-participaran-en-el-desfile-de-la-fiss-2026/
+- Core I/U/S/E/D: 9.0 / 8.8 / 9.1 / 9.3 / 9.0.
+- Categories: culture:9.3 photography:9.2 nightlife:9.2.
+- Overall: 90.15/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/merida-feria-del-sol](../../../countries/VE/sights/merida-feria-del-sol.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.0 | impact: 0.0; uniqueness: -0.1 vs peer |
+| [UY/artigas-samba-carnival](../../../countries/UY/sights/artigas-samba-carnival.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-dinira-national-park — Dinira National Park Cascada del Vino and Established Recreation Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/dinira-national-park.yaml)
+- Action: new
+- Scope: Regional tourism chamber identifies Cascada del Vino within park; waterfall and park recreation grouped, authorized paths only. No swimming or current access guarantee.
+- Representative coordinates: 9.6, -70.05; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://camaradeturismodelara.com/
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 8.4 / 8.5.
+- Categories: nature:9.2 photography:9.2 adventure:8.9.
+- Overall: 86.40/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/sierra-la-culata](../../../countries/VE/sights/sierra-la-culata.yaml) | 8.9 / 8.6 / 8.7 / 8.3 / 8.8 | impact: -0.2; uniqueness: 0.2 vs peer |
+| [UY/salto-del-penitente](../../../countries/UY/sights/salto-del-penitente.yaml) | 7.8 / 7.7 / 6.8 / 8.1 / 7.4 | impact: 0.9; uniqueness: 1.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-cueva-quebrada-toro — Cueva de la Quebrada del Toro National Park Ranger Approved Cave Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/cueva-quebrada-toro.yaml)
+- Action: new
+- Scope: Previous deferral narrowed: regional reporting describes ranger-directed trail to cave. No claim of current permission, underground boating or unsupervised entry; only ranger-approved routes.
+- Representative coordinates: 10.81, -69.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://elaragueno.com.ve/descubra-los-misterios-de-las-cuevas-del-toro-en-falcon/ ; https://noticias251.com/2022/01/15/parque-nacional-cueva-de-la-quebrada-el-toro/
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.7 / 8.1 / 8.4.
+- Categories: nature:9.3 adventure:9.1 photography:9.0.
+- Overall: 86.30/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/cueva-del-guacharo-national-park](../../../countries/VE/sights/cueva-del-guacharo-national-park.yaml) | 8.6 / 8.8 / 8.5 / 8.3 / 7.8 | impact: 0.1; uniqueness: 0.1 vs peer |
+| [UY/grutas-del-palacio](../../../countries/UY/sights/grutas-del-palacio.yaml) | 8.0 / 8.7 / 8.3 / 7.9 / 7.0 | impact: 0.7; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-yurubi-national-park — Yurubí National Park Forest and Established Recreation Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/yurubi-national-park.yaml)
+- Action: new
+- Scope: Desk-based forest and lower established recreational areas near San Felipe. No restricted highland trails or wildlife sightings assumed.
+- Representative coordinates: 10.37, -68.77; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.4 / 8.6 / 8.1 / 8.4.
+- Categories: nature:9.1 wildlife:9.0 photography:8.8.
+- Overall: 83.35/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/guatopo-national-park](../../../countries/VE/sights/guatopo-national-park.yaml) | 8.3 / 8.4 / 8.7 / 8.1 / 8.5 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [UY/quebrada-de-laureles](../../../countries/UY/sights/quebrada-de-laureles.yaml) | 8.8 / 8.9 / 8.7 / 8.7 / 8.8 | impact: -0.6; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-guaramacal-national-park — Guaramacal National Park Andean Cloud Forest and Highland Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/guaramacal-national-park.yaml)
+- Action: new
+- Scope: Desk-based distinct mountain park, permitted established routes only. Current access unverified.
+- Representative coordinates: 9.25, -70.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.6 / 8.1 / 8.5.
+- Categories: nature:9.2 wildlife:9.1 photography:9.0.
+- Overall: 84.60/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/sierra-la-culata](../../../countries/VE/sights/sierra-la-culata.yaml) | 8.9 / 8.6 / 8.7 / 8.3 / 8.8 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [UY/valle-del-lunarejo](../../../countries/UY/sights/valle-del-lunarejo.yaml) | 8.3 / 8.4 / 8.5 / 8.4 / 8.2 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-chorro-el-indio-national-park — Chorro El Indio National Park Waterfall and Forest Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/chorro-el-indio-national-park.yaml)
+- Action: new
+- Scope: Desk-based waterfall and park grouped as one, legally accessible recreation scope only. No current access guarantee.
+- Representative coordinates: 7.79, -72.15; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.3 / 8.2 / 8.3 / 8.2.
+- Categories: nature:9.0 photography:9.0 adventure:8.7.
+- Overall: 82.70/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/salto-la-llovizna](../../../countries/VE/sights/salto-la-llovizna.yaml) | 8.4 / 8.2 / 7.1 / 8.4 / 7.5 | impact: -0.1; uniqueness: 0.1 vs peer |
+| [UY/salto-del-penitente](../../../countries/UY/sights/salto-del-penitente.yaml) | 7.8 / 7.7 / 6.8 / 8.1 / 7.4 | impact: 0.5; uniqueness: 0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-merida-historic-centre — Mérida Historic Centre University and Cathedral Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/merida-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based public historic streets, university heritage and cathedral exterior grouped. Excludes cable car and seasonal Sun Fair.
+- Representative coordinates: 8.6, -71.14; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.3 / 8.8 / 8.4 / 8.6.
+- Categories: architecture:9.1 history:9.2 culture:9.1.
+- Overall: 84.15/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/ciudad-bolivar-historic-centre](../../../countries/VE/sights/ciudad-bolivar-historic-centre.yaml) | 8.6 / 8.8 / 9.1 / 8.5 / 8.7 | impact: -0.4; uniqueness: -0.5 vs peer |
+| [UY/maldonado-historic-centre](../../../countries/UY/sights/maldonado-historic-centre.yaml) | 7.9 / 8.1 / 8.6 / 8.3 / 8.2 | impact: 0.3; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-mucuchies-apartaderos — Mucuchíes and Apartaderos Andean Village Heritage Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/mucuchies-apartaderos.yaml)
+- Action: new
+- Scope: Desk-based public village and agricultural landscape circuit, no Sierra Nevada summit, lake or park duplication.
+- Representative coordinates: 8.8, -70.91; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.3 / 8.5 / 8.5.
+- Categories: photography:9.2 culture:9.0 architecture:8.9 nature:9.0.
+- Overall: 84.55/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VE/colonia-tovar](../../../countries/VE/sights/colonia-tovar.yaml) | 8.4 / 8.7 / 8.4 / 8.8 / 8.6 | impact: 0.0; uniqueness: -0.1 vs peer |
+| [UY/villa-serrana](../../../countries/UY/sights/villa-serrana.yaml) | 8.5 / 8.6 / 8.1 / 8.7 / 8.5 | impact: -0.1; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 300 scope decisions
+
+12 additions, 7 source-linked provisional, 5 desk-based provisional, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). VE 88 ranked / 91 total, +48 since baseline 43, 18 new 90+ across four passes. Prior UNESCO 3 inscribed and 3 tentative properties represented, boundaries not remapped. UNESCO living heritage list rechecked (https://ich.unesco.org/en/state/venezuela-bolivarian-republic-of-VE?info=elements-on-the-lists); do not convert craft, oral or community safeguarding listings into visitor attractions without defined public experience. Maria Lionza regulated lower landscape grouped with pilgrimage, private rituals and restricted forest excluded. Sanare, La Vela and Caicara local public festivals distinct from Caucagua, shared Holy Innocents traditions non-additive when bundled; no new UNESCO inscription claimed. San Sebastian excludes bullfighting. Cueva Quebrada del Toro previous deferral narrowed to ranger-approved approach and cave landscape, underground boating and independent access excluded; actual permission unverified. Jaua-Sarisarinama and Duida-Marahuaca remain deferred, Autana prior narrow permit scope retained. Aponwao and other Gran Sabana waterfall components not split in this pass (https://guia.com.ve/venezuela/lugares/gran-sabana/). Park inventory secondary counts unresolved, remote parks and Las Aves visitor scopes not exhaustively screened. PAUSED after four targeted passes to diversify worldwide discovery; not a closed queue or exhaustive audit. Existing scores and three unassessed preserved. Coordinates approximate, current access, security and schedules unverified. Full Python validation and international calibration pending. Next proposed country Guyana.
