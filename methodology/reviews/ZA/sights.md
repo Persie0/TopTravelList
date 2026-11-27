@@ -1803,3 +1803,320 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 251 scope decisions
 
 15 additions, 8 source-linked provisional, 7 desk-based provisional, 5 90+, 35 ranking-row comparisons (8 international). ZA 75 ranked / 81 total, +47 since baseline. AfrikaBurn distinct from Tankwa Karoo National Park; SALT day tour distinguished from night stargazing using other telescopes; Origins Centre museum distinct from fossil sites. Cape Epic moving route represented in Western Cape only. Camdeboo grouped with Valley of Desolation, excludes Graaff-Reinet town. SANParks lists 21 national parks (https://www.sanparks.org/corporate/about/profile/overview); Bontebok deferred as Cape Floral component (https://www.sanparks.org/corporate/about/operations/sustainable-conservation), temporary flood damage not a score penalty; Richtersveld park deferred pending boundary reconciliation with existing Richtersveld property (https://www.sanparks.org/news/sanparks-showcases-inclusive-conservation-through-influencer-and-media-excursion-in-richtersveld-national-park); Meerkat deferred pending verified public visitor offering. Sani Pass deferred pending transboundary road scope versus Maloti-Drakensberg (https://www.southafrica.net/gl/en/travel/article/sani-pass-kwazulu-natal-gateway-to-the-mountain-kingdom-of-lesotho). Prior Constitution Hill, Maropeng and De Hoop deferrals retained. No blanket national park completeness asserted. Coordinates approximate except source-linked AfrikaBurn gate; access/schedules unverified. Six unassessed and existing scores preserved; discovery queue open.
+
+## sight-za-tswalu-kalahari — Tswalu Kalahari Reserve Guided Wildlife and Conservation Safaris — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/tswalu-kalahari.yaml)
+- Action: new
+- Scope: Operator reports approximately 1,200 square kilometres of private conservation land and guided safaris for rare desert species; exclude lodging luxury, no sightings guaranteed.
+- Representative coordinates: -27.22, 22.47; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.2 / 9.2 / 9.3.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 92.65/100.
+- Source: https://tswalu.com/
+- Source: https://tswalu.com/experience-tswalu/safari/
+- Source: https://tswalu.com/wildlife/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kgalagadi-south-africa](../../../countries/ZA/sights/kgalagadi-south-africa.yaml) | 9.2 / 9.2 / 8.9 / 8.8 / 9.2 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [ZA/sabi-sand](../../../countries/ZA/sights/sabi-sand.yaml) | 9.3 / 9.0 / 8.9 / 9.4 / 9.1 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [BR/cristalino-reserve](../../../countries/BR/sights/cristalino-reserve.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 9.3 | impact: +0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-slave-lodge — Iziko Slave Lodge Cape Town Slavery and Human Rights Museum — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/slave-lodge.yaml)
+- Action: new
+- Scope: Historic building and museum interpreting enslavement, resistance and human rights; distinct from Castle collections and District Six forced-removal history.
+- Representative coordinates: -33.925, 18.42; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.4 architecture:9.1.
+- Overall: 91.10/100.
+- Source: https://www.iziko.org.za/museums/slave-lodge/
+- Source: https://www.iziko.org.za/exhibitions/making-freedom-from-a-history-of-slavery-to-a-peoples-history/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/apartheid-museum](../../../countries/ZA/sights/apartheid-museum.yaml) | 9.1 / 9.2 / 9.6 / 9.1 / 9.0 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [ZA/district-six-museum](../../../countries/ZA/sights/district-six-museum.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 8.2 | impact: +0.2; uniqueness: +0.3 vs peer |
+| [BR/museu-afro-brasil](../../../countries/BR/sights/museu-afro-brasil.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 9.0 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-castle-of-good-hope — Castle of Good Hope Cape Town Colonial Fortification and Museum Collections — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/castle-of-good-hope.yaml)
+- Action: new
+- Scope: Seventeenth-century bastion fort built 1666–1679; Iziko documents William Fehr collections and contested colonial past. Group collections with fort, not nearby Slave Lodge.
+- Representative coordinates: -33.925, 18.428; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 8.9 / 9.0.
+- Categories: history:9.4 architecture:9.4 culture:9.2.
+- Overall: 90.70/100.
+- Source: https://www.iziko.org.za/museums/the-castle-of-good-hope/
+- Source: https://www.sahra.org.za/castle-of-goodhope/
+- Source: https://www.iziko.org.za/exhibitions/rethinking-the-william-fehr-collection/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/voortrekker-monument](../../../countries/ZA/sights/voortrekker-monument.yaml) | 8.6 / 8.8 / 9.0 / 8.4 / 8.6 | impact: +0.4; uniqueness: +0.3 vs peer |
+| [ZA/robben-island](../../../countries/ZA/sights/robben-island.yaml) | 8.8 / 9.3 / 9.8 / 8.9 / 8.4 | impact: +0.2; uniqueness: -0.2 vs peer |
+| [BR/imperial-museum-petropolis](../../../countries/BR/sights/imperial-museum-petropolis.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 8.9 | impact: +0.3; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-pretoria-cape-town-rail — Pretoria to Cape Town Historic Scenic Luxury Railway Journey — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/pretoria-cape-town-rail.yaml)
+- Action: new
+- Scope: Grouped Blue Train and Rovos Rail versions of the same domestic corridor; Rovos lists 1,600 km and three nights, Blue Train traces distinctive identity to 1946. Rail journey only; off-train Kimberley and other attractions non-additive, luxury accommodation not independent scoring bonus. Coordinate represents Pretoria departure area, not whole route.
+- Representative coordinates: -25.758, 28.19; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.9 / 9.3 / 9.1.
+- Categories: photography:9.4 culture:9.2 relaxation:9.3.
+- Overall: 90.90/100.
+- Source: https://rovos.com/journeys/cape-town/
+- Source: https://www.bluetrain.co.za/
+- Source: https://www.southafrica.net/gl/en/travel/category/what-you-need-to-know/getting-around-south-africa-by-train
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/chapmans-peak-drive](../../../countries/ZA/sights/chapmans-peak-drive.yaml) | 9.0 / 8.5 / 8.2 / 8.8 / 8.2 | impact: +0.1; uniqueness: +0.6 vs peer |
+| [BR/serra-verde-express](../../../countries/BR/sights/serra-verde-express.yaml) | 9.1 / 9.1 / 9.1 / 9.3 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/sao-joao-tiradentes-railway](../../../countries/BR/sights/sao-joao-tiradentes-railway.yaml) | 8.9 / 9.2 / 9.2 / 8.9 / 8.9 | impact: +0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-anglo-boer-war-museum — Anglo-Boer War Museum and National Women’s Memorial Bloemfontein — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/anglo-boer-war-museum.yaml)
+- Action: new
+- Scope: Adjacent museum and memorial grouped; museum documents South African War and suffering across black and white concentration camps. No endorsement of historical nationalist symbolism.
+- Representative coordinates: -29.145, 26.214; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.4 / 8.9 / 9.2.
+- Categories: history:9.4 culture:9.3 architecture:9.1.
+- Overall: 90.50/100.
+- Source: https://www.wmbr.org.za/
+- Source: https://www.wmbr.org.za/national-womens-memorial/
+- Source: https://www.dsac.gov.za/war-museum-boer-republics
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/voortrekker-monument](../../../countries/ZA/sights/voortrekker-monument.yaml) | 8.6 / 8.8 / 9.0 / 8.4 / 8.6 | impact: +0.2; uniqueness: +0.3 vs peer |
+| [ZA/isandlwana-rorkes-drift](../../../countries/ZA/sights/isandlwana-rorkes-drift.yaml) | 8.6 / 9.0 / 9.3 / 8.5 / 8.8 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [ZA/apartheid-museum](../../../countries/ZA/sights/apartheid-museum.yaml) | 9.1 / 9.2 / 9.6 / 9.1 / 9.0 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-kknk-oudtshoorn — Klein Karoo National Arts Festival Oudtshoorn Afrikaans Performing Arts — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/kknk-oudtshoorn.yaml)
+- Action: new
+- Scope: Recurring arts festival with Afrikaans-language emphasis; 2026 thirtieth anniversary programme documents theatre, art and music; 2027 edition announced. Excludes Cango Caves and permanent Oudtshoorn sites.
+- Representative coordinates: -33.59, 22.2; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.4 nightlife:9.2 history:9.1.
+- Overall: 90.75/100.
+- Source: https://kknk2026.kknk.co.za/en/
+- Source: https://www.kknk.co.za/en/feesmark-2026/
+- Source: https://sahistory.org.za/article/kknk-klein-karoo-nasionale-kunstefees
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/national-arts-festival](../../../countries/ZA/sights/national-arts-festival.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [ZA/cape-town-jazz-festival](../../../countries/ZA/sights/cape-town-jazz-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.3 / 9.0 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [BR/festival-de-curitiba](../../../countries/BR/sights/festival-de-curitiba.yaml) | 9.0 / 9.1 / 9.1 / 9.2 / 9.1 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-bloukrans-bridge — Bloukrans Bridge Bungy and Suspended Skywalk Adventure — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/bloukrans-bridge.yaml)
+- Action: new
+- Scope: Commercial bridge adventure separate from Garden Route National Park trails; operator documents 216-metre bungy and skywalk. No highest-world claim or guarantee of safety or eligibility; shared gorge scenery non-additive.
+- Representative coordinates: -33.968, 23.645; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.3 / 8.5 / 9.4 / 8.5.
+- Categories: adventure:9.4 photography:9.3 nature:9.1.
+- Overall: 90.45/100.
+- Source: https://bloukransbungy.com/bungy/
+- Source: https://bloukransbungy.com/skywalk/
+- Source: https://bloukransbungy.com/location/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/storms-river-mouth-trail](../../../countries/ZA/sights/storms-river-mouth-trail.yaml) | 8.8 / 8.4 / 8.1 / 8.8 / 8.1 | impact: +0.4; uniqueness: +0.9 vs peer |
+| [ZA/oribi-gorge](../../../countries/ZA/sights/oribi-gorge.yaml) | 8.7 / 8.6 / 8.2 / 8.7 / 8.5 | impact: +0.5; uniqueness: +0.7 vs peer |
+| [BR/abismo-anhumas](../../../countries/BR/sights/abismo-anhumas.yaml) | 9.1 / 9.3 / 7.9 / 8.6 / 7.2 | impact: +0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-durban-july — Durban July Horse Racing and Fashion Spectator Event — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/durban-july.yaml)
+- Action: new
+- Scope: Spectator sport and fashion event only, excludes gambling; attendance reporting has been corrected, no unsupported scale superlative; animal welfare not independently assessed.
+- Representative coordinates: -29.838, 31.018; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.0 / 9.0 / 8.7.
+- Categories: culture:9.3 photography:9.2 nightlife:9.0.
+- Overall: 88.60/100.
+- Source: https://www.sahracing.com/index/contents/news/34269
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/comrades-marathon](../../../countries/ZA/sights/comrades-marathon.yaml) | 9.0 / 9.3 / 9.4 / 9.0 / 9.0 | impact: -0.2; uniqueness: -0.5 vs peer |
+| [ZA/cape-town-cycle-tour](../../../countries/ZA/sights/cape-town-cycle-tour.yaml) | 9.1 / 8.9 / 9.0 / 9.2 / 9.0 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-swartberg-pass — Swartberg Pass Mountain Road and Scenic Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/swartberg-pass.yaml)
+- Action: new
+- Scope: Historic road traversal and designated viewpoints only, not the entire protected Swartberg mountain complex or its Cape Floral biodiversity; overlap with aggregate flagged non-additive, road condition unverified.
+- Representative coordinates: -33.348, 22.062; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.5 / 8.7 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 87.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/chapmans-peak-drive](../../../countries/ZA/sights/chapmans-peak-drive.yaml) | 9.0 / 8.5 / 8.2 / 8.8 / 8.2 | impact: +0.0; uniqueness: +0.4 vs peer |
+| [ZA/cederberg](../../../countries/ZA/sights/cederberg.yaml) | 9.2 / 9.0 / 8.8 / 8.9 / 9.0 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-magoebaskloof — Magoebaskloof Forest and Mountain Waterfall Trails — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/magoebaskloof.yaml)
+- Action: new
+- Scope: Regional forest and waterfall visitor circuit grouped; access unverified.
+- Representative coordinates: -23.88, 30.01; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.3 / 8.7 / 8.7.
+- Categories: nature:9.2 photography:9.2 adventure:9.1.
+- Overall: 85.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/cederberg](../../../countries/ZA/sights/cederberg.yaml) | 9.2 / 9.0 / 8.8 / 8.9 / 9.0 | impact: -0.6; uniqueness: -0.4 vs peer |
+| [ZA/walter-sisulu-botanical-garden](../../../countries/ZA/sights/walter-sisulu-botanical-garden.yaml) | 8.7 / 8.6 / 8.5 / 8.9 / 8.6 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-simonstown-naval-museum — Simon’s Town South African Naval Museum and Maritime Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/simonstown-naval-museum.yaml)
+- Action: new
+- Scope: Museum only, no restricted naval installation access implied; excludes Boulders penguins.
+- Representative coordinates: -34.193, 18.431; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.5 / 8.8 / 8.4 / 8.6.
+- Categories: history:9.2 culture:9.0 family:8.9.
+- Overall: 84.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kimberley-big-hole](../../../countries/ZA/sights/kimberley-big-hole.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 8.9 | impact: -0.8; uniqueness: -0.7 vs peer |
+| [ZA/iziko-south-african-museum](../../../countries/ZA/sights/iziko-south-african-museum.yaml) | 8.6 / 8.7 / 9.0 / 8.7 / 9.0 | impact: -0.4; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-oliewenhuis-art-museum — Oliewenhuis Art Museum Bloemfontein South African Art and Sculpture Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/oliewenhuis-art-museum.yaml)
+- Action: new
+- Scope: Separate art museum and sculpture gardens, excludes National Museum main galleries.
+- Representative coordinates: -29.099, 26.221; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.7 / 8.7 / 8.7.
+- Categories: culture:9.3 architecture:9.1 photography:9.0.
+- Overall: 85.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/south-african-national-gallery](../../../countries/ZA/sights/south-african-national-gallery.yaml) | 8.7 / 8.8 / 9.1 / 8.8 / 9.0 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [ZA/national-museum-bloemfontein](../../../countries/ZA/sights/national-museum-bloemfontein.yaml) | 8.4 / 8.6 / 8.9 / 8.6 / 8.8 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-ditsong-natural-history — Ditsong National Museum of Natural History Pretoria — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/ditsong-natural-history.yaml)
+- Action: new
+- Scope: Museum collections distinct from in situ fossil sites, no specific gallery availability assured.
+- Representative coordinates: -25.751, 28.188; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.9 / 8.5 / 8.9.
+- Categories: nature:9.3 history:9.2 family:9.1.
+- Overall: 86.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/iziko-south-african-museum](../../../countries/ZA/sights/iziko-south-african-museum.yaml) | 8.6 / 8.7 / 9.0 / 8.7 / 9.0 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [ZA/origins-centre](../../../countries/ZA/sights/origins-centre.yaml) | 8.9 / 9.3 / 9.4 / 9.0 / 9.2 | impact: -0.5; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-port-elizabeth-donkin — Donkin Reserve and Gqeberha Heritage Trail — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/port-elizabeth-donkin.yaml)
+- Action: new
+- Scope: Public memorial, heritage streets and interpretation only, excludes private buildings; access unverified.
+- Representative coordinates: -33.962, 25.62; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.6 / 8.5 / 8.4.
+- Categories: history:9.1 culture:9.1 photography:9.0.
+- Overall: 84.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/bo-kaap](../../../countries/ZA/sights/bo-kaap.yaml) | 8.6 / 8.8 / 8.9 / 8.7 / 8.3 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [ZA/graaff-reinet-heritage](../../../countries/ZA/sights/graaff-reinet-heritage.yaml) | 8.5 / 8.7 / 8.9 / 8.6 / 8.7 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-knysna-oyster-festival — Knysna Oyster Festival Food and Outdoor Cultural Events — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/knysna-oyster-festival.yaml)
+- Action: new
+- Scope: Recurring food and sport festival only, excludes permanent Garden Route landscapes; programme unverified.
+- Representative coordinates: -34.036, 23.047; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.4 / 8.8 / 8.6.
+- Categories: food:9.3 culture:9.1 family:9.1.
+- Overall: 85.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kknk-oudtshoorn](../../../countries/ZA/sights/kknk-oudtshoorn.yaml) | 8.9 / 9.1 / 9.2 / 9.2 / 9.1 | impact: -0.4; uniqueness: -0.6 vs peer |
+| [ZA/national-arts-festival](../../../countries/ZA/sights/national-arts-festival.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.6; uniqueness: -0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 252 scope decisions
+
+15 additions, 8 source-linked provisional, 7 desk-based provisional, 7 90+, 37 ranking-row comparisons (7 international). ZA 90 ranked / 96 total, +62 since baseline. Blue Train and Rovos domestic Pretoria–Cape Town grouped, off-train attractions non-additive. Castle and Slave Lodge separately scoped as distinct museum collections. Bloukrans bridge adventure excludes Garden Route park trails; Swartberg Pass road scope only, broader Cape Floral aggregate overlap non-additive and pending boundary verification. Durban July spectator event excludes gambling, animal welfare unverified. Prior Constitution Hill, Maropeng, De Hoop, Bontebok, Richtersveld, Meerkat and Sani Pass deferrals retained. Coordinates approximate, access and schedules unverified. Six unassessed and existing scores preserved; discovery queue open.

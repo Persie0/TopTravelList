@@ -4467,3 +4467,23 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] ZA — National Museum Bloemfontein Natural History and Cultural Collections: 86.20/100 (desk-based provisional).
 
 15 additions, 8 source-linked provisional, 7 desk-based provisional, 5 90+, 35 ranking-row comparisons (8 international). ZA 75 ranked / 81 total, +47 since baseline. AfrikaBurn distinct from Tankwa Karoo National Park; SALT day tour distinguished from night stargazing using other telescopes; Origins Centre museum distinct from fossil sites. Cape Epic moving route represented in Western Cape only. Camdeboo grouped with Valley of Desolation, excludes Graaff-Reinet town. SANParks lists 21 national parks (https://www.sanparks.org/corporate/about/profile/overview); Bontebok deferred as Cape Floral component (https://www.sanparks.org/corporate/about/operations/sustainable-conservation), temporary flood damage not a score penalty; Richtersveld park deferred pending boundary reconciliation with existing Richtersveld property (https://www.sanparks.org/news/sanparks-showcases-inclusive-conservation-through-influencer-and-media-excursion-in-richtersveld-national-park); Meerkat deferred pending verified public visitor offering. Sani Pass deferred pending transboundary road scope versus Maloti-Drakensberg (https://www.southafrica.net/gl/en/travel/article/sani-pass-kwazulu-natal-gateway-to-the-mountain-kingdom-of-lesotho). Prior Constitution Hill, Maropeng and De Hoop deferrals retained. No blanket national park completeness asserted. Coordinates approximate except source-linked AfrikaBurn gate; access/schedules unverified. Six unassessed and existing scores preserved; discovery queue open.
+
+### Pass 252 — South Africa scenic journeys, cultural heritage and wilderness
+
+- [x] ZA — Tswalu Kalahari Reserve Guided Wildlife and Conservation Safaris: 92.65/100 (source-linked-unverified).
+- [x] ZA — Iziko Slave Lodge Cape Town Slavery and Human Rights Museum: 91.10/100 (source-linked-unverified).
+- [x] ZA — Castle of Good Hope Cape Town Colonial Fortification and Museum Collections: 90.70/100 (source-linked-unverified).
+- [x] ZA — Pretoria to Cape Town Historic Scenic Luxury Railway Journey: 90.90/100 (source-linked-unverified).
+- [x] ZA — Anglo-Boer War Museum and National Women’s Memorial Bloemfontein: 90.50/100 (source-linked-unverified).
+- [x] ZA — Klein Karoo National Arts Festival Oudtshoorn Afrikaans Performing Arts: 90.75/100 (source-linked-unverified).
+- [x] ZA — Bloukrans Bridge Bungy and Suspended Skywalk Adventure: 90.45/100 (source-linked-unverified).
+- [x] ZA — Durban July Horse Racing and Fashion Spectator Event: 88.60/100 (source-linked-unverified).
+- [x] ZA — Swartberg Pass Mountain Road and Scenic Viewpoints: 87.90/100 (desk-based provisional).
+- [x] ZA — Magoebaskloof Forest and Mountain Waterfall Trails: 85.65/100 (desk-based provisional).
+- [x] ZA — Simon’s Town South African Naval Museum and Maritime Heritage: 84.65/100 (desk-based provisional).
+- [x] ZA — Oliewenhuis Art Museum Bloemfontein South African Art and Sculpture Gardens: 85.85/100 (desk-based provisional).
+- [x] ZA — Ditsong National Museum of Natural History Pretoria: 86.40/100 (desk-based provisional).
+- [x] ZA — Donkin Reserve and Gqeberha Heritage Trail: 84.50/100 (desk-based provisional).
+- [x] ZA — Knysna Oyster Festival Food and Outdoor Cultural Events: 85.35/100 (desk-based provisional).
+
+15 additions, 8 source-linked provisional, 7 desk-based provisional, 7 90+, 37 ranking-row comparisons (7 international). ZA 90 ranked / 96 total, +62 since baseline. Blue Train and Rovos domestic Pretoria–Cape Town grouped, off-train attractions non-additive. Castle and Slave Lodge separately scoped as distinct museum collections. Bloukrans bridge adventure excludes Garden Route park trails; Swartberg Pass road scope only, broader Cape Floral aggregate overlap non-additive and pending boundary verification. Durban July spectator event excludes gambling, animal welfare unverified. Prior Constitution Hill, Maropeng, De Hoop, Bontebok, Richtersveld, Meerkat and Sani Pass deferrals retained. Coordinates approximate, access and schedules unverified. Six unassessed and existing scores preserved; discovery queue open.
