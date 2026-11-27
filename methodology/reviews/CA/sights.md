@@ -6977,3 +6977,392 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 231 scope decisions
 
 18 additions, 12 desk-based provisional, 6 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 270 ranked / 273 total. Discovery geopark excludes Cape Bonavista lighthouse/adjacent viewpoints and iceberg cruises; Okanagan excludes Myra Canyon; Niagara vineyards exclude historic town and Shaw Festival. Vancouver Celebration of Light indefinitely cancelled (https://vancouver.citynews.ca/2025/11/26/vancouvers-honda-celebration-of-light-fireworks-cancelled-indefinitely/); one-night 2026 replacement not same event (https://vancouver.ca/news-calendar/announcing-summer-lights-in-english-bay-june-2026.aspx). Defer until permanent event status/scope assessed; not a score reduction due to temporary closure. Existing scores and three unassessed retained. New coordinates approximate; current access and schedules not verified. Regional screen remains open.
+
+## sight-ca-folklorama — Folklorama Winnipeg Multicultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/folklorama.yaml)
+- Action: new
+- Scope: Recurring multicultural pavilions, performances and culinary traditions. Organizer reports 45 pavilions and 972 shows and late-night parties in 2026. City locality proxy; festival only.
+- Representative coordinates: 49.89, -97.14; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 9.4 / 9.2.
+- Categories: culture:9.4 food:9.4 nightlife:9.2.
+- Overall: 92.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://folklorama.ca/festival/plan-your-visit/, https://folklorama.ca/folkloramas-2026-pavilion-lineup/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/toronto-caribbean-carnival](../../../countries/CA/sights/toronto-caribbean-carnival.yaml) | 9.2 / 9.1 / 9.1 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+| [CA/festival-du-voyageur](../../../countries/CA/sights/festival-du-voyageur.yaml) | 8.7 / 8.8 / 8.9 / 9.0 / 8.7 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-adams-river-salmon — Tsútswecw Provincial Park Adams River Sockeye Salmon Run — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/adams-river-salmon.yaml)
+- Action: new
+- Scope: Seasonal public observation of salmon spawning and associated interpretation; BC Parks reports dominant cycles every four years. Actual numbers vary; 2026 reported lower than expected. Representative festival point rounded from Salmon Society, no guaranteed abundance.
+- Representative coordinates: 50.901, -119.569; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.2 / 9.0 / 8.9.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/tsutswecw-park/, https://www.salmonsociety.com/salute-to-the-sockeye/visitors/, https://www.castanetkamloops.net/edition/news-story-635505-1157-.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/narcisse-snake-dens](../../../countries/CA/sights/narcisse-snake-dens.yaml) | 9.1 / 9.4 / 9.1 / 8.9 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/churchill-belugas](../../../countries/CA/sights/churchill-belugas.yaml) | 9.3 / 9.4 / 9.1 / 9.2 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-ancient-forest — Ancient Forest Chun T’oh Whudujut Provincial Park and Protected Area — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/ancient-forest.yaml)
+- Action: new
+- Scope: Inland temperate rainforest with ancient western red cedars in Lheidli T'enneh territory; public boardwalks, park and protected area grouped. BC Parks describes the boardwalk as 2.3 km.
+- Representative coordinates: 53.76, -121.24; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 8.9 / 9.0.
+- Categories: nature:9.4 photography:9.3 adventure:9.1.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/ancient-forest-chun-toh-whudujut-protected-area/, https://helpshapebc.gov.bc.ca/ancient-forest, https://www.lheidli.ca/about/ancient-forest/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/cathedral-grove](../../../countries/CA/sights/cathedral-grove.yaml) | 8.7 / 8.8 / 8.8 / 8.7 / 8.4 | impact: +0.3 vs peer; uniqueness: +0.5 vs peer |
+| [CA/great-bear-rainforest](../../../countries/CA/sights/great-bear-rainforest.yaml) | 9.4 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-fossil-discovery — Canadian Fossil Discovery Centre Morden — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-fossil-discovery.yaml)
+- Action: new
+- Scope: Marine reptile fossil collection; Guinness documents Bruce, a 13.05 m mosasaur specimen, as largest on display. No private excavation access assumed.
+- Representative coordinates: 49.19, -98.1; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 8.9 / 9.1.
+- Categories: nature:9.4 history:9.3 family:9.3.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.guinnessworldrecords.com/world-records/118041-largest-mosasaur-on-display, https://discoverfossils.com/history/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-tyrrell](../../../countries/CA/sights/royal-tyrrell.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.4 vs peer; uniqueness: +0.0 vs peer |
+| [CA/royal-saskatchewan-museum](../../../countries/CA/sights/royal-saskatchewan-museum.yaml) | 8.5 / 8.6 / 8.7 / 8.7 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-remai-modern — Remai Modern Art Museum Saskatoon — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/remai-modern.yaml)
+- Action: new
+- Scope: Modern and contemporary art collection, including museum's comprehensive Picasso linocut holdings; individual works rotate and are not guaranteed on view.
+- Representative coordinates: 52.123, -106.668; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 9.0 / 9.2.
+- Categories: culture:9.4 architecture:9.3 history:9.2.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.remaimodern.net/art-artists/the-collection/, https://collections.remaimodern.org/collections/9162/the-picasso-collection.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wag-qaumajuq](../../../countries/CA/sights/wag-qaumajuq.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.4 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [CA/art-gallery-of-ontario](../../../countries/CA/sights/art-gallery-of-ontario.yaml) | 8.9 / 9.0 / 9.1 / 9.1 / 9.2 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-banff-mountain-festival — Banff Centre Mountain Film and Book Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/banff-mountain-festival.yaml)
+- Action: new
+- Scope: Public film screenings, talks and literary events at the Banff festival; 51st annual edition in 2026. Excludes national park sightseeing and international touring screenings.
+- Representative coordinates: 51.17, -115.56; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.1 / 9.2 / 9.3.
+- Categories: culture:9.4 adventure:9.2 nightlife:9.2.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.banffcentre.ca/articles/mountain-festival/2026-banff-centre-mountain-film-and-book-festival-lineup-announced-and, https://www.banffcentre.ca/banffmountainfestival?scontent=link.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/tiff](../../../countries/CA/sights/tiff.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/stratford-festival](../../../countries/CA/sights/stratford-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.3 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-agawa-canyon-train — Agawa Canyon Tour Train Ontario — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/agawa-canyon-train.yaml)
+- Action: new
+- Scope: Seasonal rail trip from Sault Ste Marie to rail-accessed canyon park, including park stop; 114 miles each way per operator. Excludes Lake Superior Provincial Park and other independent Agawa coastal attractions. Departure city proxy.
+- Representative coordinates: 46.51, -84.34; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 9.1 / 8.9.
+- Categories: nature:9.3 photography:9.4 relaxation:9.3.
+- Overall: 88.70/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://saulttourism.com/agawa-train/, https://agawatrain.com/one-day-scenic-rail-adventure/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/rocky-mountaineer](../../../countries/CA/sights/rocky-mountaineer.yaml) | 9.3 / 9.1 / 8.9 / 9.3 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [CA/charlevoix-train](../../../countries/CA/sights/charlevoix-train.yaml) | 8.8 / 8.7 / 8.4 / 8.9 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-north-pacific-cannery — North Pacific Cannery National Historic Site Port Edward — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/north-pacific-cannery.yaml)
+- Action: new
+- Scope: Preserved industrial salmon cannery complex and public historical interpretation; operator describes nearly 90 years of production.
+- Representative coordinates: 54.19, -130.24; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.2 / 8.8 / 9.0.
+- Categories: history:9.4 culture:9.3 architecture:9.2.
+- Overall: 88.90/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://northpacificcannery.ca/, https://northpacificcannery.ca/cannery-history/npcs-story/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/britannia-mine](../../../countries/CA/sights/britannia-mine.yaml) | 8.7 / 8.9 / 8.9 / 9.0 / 8.8 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/val-jalbert](../../../countries/CA/sights/val-jalbert.yaml) | 8.8 / 9.0 / 9.1 / 9.1 / 9.0 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-edmonton-folk-festival — Edmonton Folk Music Festival Gallagher Park — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/edmonton-folk-festival.yaml)
+- Action: new
+- Scope: Recurring folk music performances at Gallagher Park, not independent park sightseeing; future schedule not assumed.
+- Representative coordinates: 53.53, -113.48; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.8 / 9.2 / 8.9.
+- Categories: culture:9.3 nightlife:9.3 photography:9.1.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/edmonton-fringe](../../../countries/CA/sights/edmonton-fringe.yaml) | 9.1 / 9.3 / 9.2 / 9.3 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.6 vs peer |
+| [CA/ottawa-bluesfest](../../../countries/CA/sights/ottawa-bluesfest.yaml) | 8.9 / 8.6 / 8.7 / 9.2 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mont-royal-park — Mount Royal Park Montréal Summit Viewpoints and Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mont-royal-park.yaml)
+- Action: new
+- Scope: Public summit park and trails; excludes separate Saint Joseph's Oratory.
+- Representative coordinates: 45.5, -73.59; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.4 / 8.6 / 8.8 / 8.8.
+- Categories: nature:9.2 photography:9.3 relaxation:9.2.
+- Overall: 86.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [CA/grouse-mountain](../../../countries/CA/sights/grouse-mountain.yaml) | 8.7 / 8.5 / 8.1 / 8.9 / 8.6 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-toronto-zoo — Toronto Zoo Wildlife and Conservation Exhibits — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/toronto-zoo.yaml)
+- Action: new
+- Scope: Managed zoo exhibits, separate from Rouge National Urban Park trails.
+- Representative coordinates: 43.82, -79.18; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.6 / 9.0 / 8.9.
+- Categories: wildlife:9.3 family:9.3 nature:9.1.
+- Overall: 87.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/calgary-zoo](../../../countries/CA/sights/calgary-zoo.yaml) | 8.7 / 8.6 / 8.6 / 9.0 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/assy-park-zoo](../../../countries/CA/sights/assy-park-zoo.yaml) | 8.7 / 8.8 / 8.7 / 8.9 / 8.8 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-la-ronde — La Ronde Montréal Amusement Park — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/la-ronde.yaml)
+- Action: new
+- Scope: Amusement rides only; excludes already ranked fireworks competition.
+- Representative coordinates: 45.52, -73.535; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.4 / 8.2 / 9.1 / 8.8.
+- Categories: family:9.3 adventure:9.3 photography:9.1.
+- Overall: 85.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadas-wonderland](../../../countries/CA/sights/canadas-wonderland.yaml) | 8.9 / 8.6 / 8.3 / 9.2 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [CA/west-edmonton-mall](../../../countries/CA/sights/west-edmonton-mall.yaml) | 8.9 / 9.0 / 8.5 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-spirit-sands — Spruce Woods Provincial Park Spirit Sands and Devil’s Punch Bowl — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/spirit-sands.yaml)
+- Action: new
+- Scope: Public Manitoba sandhill and spring-fed landscape trails, grouped within provincial park.
+- Representative coordinates: 49.67, -99.28; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.5 / 8.8 / 8.6.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/great-sand-hills](../../../countries/CA/sights/great-sand-hills.yaml) | 8.7 / 8.8 / 8.4 / 8.6 / 8.3 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [CA/athabasca-sand-dunes](../../../countries/CA/sights/athabasca-sand-dunes.yaml) | 9.2 / 9.3 / 9.1 / 8.5 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-frank-slide — Frank Slide Interpretive Centre and Rockslide Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/frank-slide.yaml)
+- Action: new
+- Scope: Public interpretation and observation of the historic rockslide landscape; no separate Crowsnest Pass route rating.
+- Representative coordinates: 49.59, -114.39; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.7 / 8.8.
+- Categories: history:9.3 nature:9.2 photography:9.2.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/dinosaur-provincial-park](../../../countries/CA/sights/dinosaur-provincial-park.yaml) | 8.8 / 9.1 / 9.4 / 8.8 / 8.6 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+| [CA/drumheller-hoodoos](../../../countries/CA/sights/drumheller-hoodoos.yaml) | 8.9 / 8.9 / 8.7 / 8.7 / 8.3 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-peter-lougheed — Peter Lougheed Provincial Park Kananaskis Lakes and Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/peter-lougheed.yaml)
+- Action: new
+- Scope: Kananaskis public park lakes and trails, distinct from Banff and existing Rocky Mountain World Heritage park entries.
+- Representative coordinates: 50.65, -115.12; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.5 / 9.0 / 9.0.
+- Categories: nature:9.4 adventure:9.3 photography:9.3.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/garibaldi](../../../countries/CA/sights/garibaldi.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [CA/waterton-lakes-national-park](../../../countries/CA/sights/waterton-lakes-national-park.yaml) | 8.9 / 8.7 / 8.8 / 8.8 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-gulf-georgia-cannery — Gulf of Georgia Cannery National Historic Site Steveston — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/gulf-georgia-cannery.yaml)
+- Action: new
+- Scope: Separate Fraser River historic cannery museum; not a general Steveston village visit.
+- Representative coordinates: 49.125, -123.187; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.0 / 8.7 / 8.8.
+- Categories: history:9.3 culture:9.2 family:9.2.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/britannia-mine](../../../countries/CA/sights/britannia-mine.yaml) | 8.7 / 8.9 / 8.9 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [CA/fort-langley](../../../countries/CA/sights/fort-langley.yaml) | 8.5 / 8.6 / 9.0 / 8.8 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-hr-macmillan-space — H R MacMillan Space Centre Vancouver Planetarium — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/hr-macmillan-space.yaml)
+- Action: new
+- Scope: Public astronomy exhibits and planetarium programs; distinct from Science World and adjacent Museum of Vancouver.
+- Representative coordinates: 49.276, -123.144; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.4 / 8.7 / 8.6.
+- Categories: family:9.2 culture:9.0 architecture:9.0.
+- Overall: 84.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [CA/canadian-aviation-space](../../../countries/CA/sights/canadian-aviation-space.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 9.0 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-museum-vancouver — Museum of Vancouver Local History and Culture — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/museum-vancouver.yaml)
+- Action: new
+- Scope: Public city history and cultural exhibitions; separate institution from planetarium; shared building not independent architecture.
+- Representative coordinates: 49.276, -123.145; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.8 / 8.7 / 8.8.
+- Categories: history:9.2 culture:9.2 family:9.1.
+- Overall: 86.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/mccord-stewart](../../../countries/CA/sights/mccord-stewart.yaml) | 8.6 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [CA/royal-bc-museum](../../../countries/CA/sights/royal-bc-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 232 scope decisions
+
+18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 288 ranked / 291 total. Adams River normal dominant-cycle merit retained, 2026 weaker than expected per regional reporting; long-term population trend requires separate review. Ancient Forest park/protected area grouped. Agawa rail/canyon stop excludes Lake Superior Provincial Park. Banff festival excludes park sightseeing. La Ronde excludes fireworks. Toronto Zoo excludes Rouge trails. Museum of Vancouver and space centre separate public institutions, shared architecture not double counted. Existing scores and three unassessed retained. Coordinates approximate; event schedules and access not verified. Keep queue open for remaining regional omissions and explicit overlap review; no exhaustive coverage claimed.

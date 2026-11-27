@@ -1,0 +1,16 @@
+id: sight-ca-la-ronde
+name: "La Ronde Montréal Amusement Park"
+location:
+  country_code: CA
+  latitude: 45.52
+  longitude: -73.535
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 9.1
+  depth: 8.8
+  categories:
+    family: 9.3
+    adventure: 9.3
+    photography: 9.1

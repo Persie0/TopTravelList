@@ -4046,3 +4046,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Pinery Provincial Park Lake Huron Dunes and Oak Savanna: 86.95/100 (desk-based provisional).
 
 18 additions, 12 desk-based provisional, 6 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 270 ranked / 273 total. Discovery geopark excludes Cape Bonavista lighthouse/adjacent viewpoints and iceberg cruises; Okanagan excludes Myra Canyon; Niagara vineyards exclude historic town and Shaw Festival. Vancouver Celebration of Light indefinitely cancelled (https://vancouver.citynews.ca/2025/11/26/vancouvers-honda-celebration-of-light-fireworks-cancelled-indefinitely/); one-night 2026 replacement not same event (https://vancouver.ca/news-calendar/announcing-summer-lights-in-english-bay-june-2026.aspx). Defer until permanent event status/scope assessed; not a score reduction due to temporary closure. Existing scores and three unassessed retained. New coordinates approximate; current access and schedules not verified. Regional screen remains open.
+
+### Pass 232 — Canada specialist collections, seasonal wildlife and regional experiences
+
+- [x] CA — Folklorama Winnipeg Multicultural Festival: 92.75/100 (source-linked-unverified).
+- [x] CA — Tsútswecw Provincial Park Adams River Sockeye Salmon Run: 91.90/100 (source-linked-unverified).
+- [x] CA — Ancient Forest Chun T’oh Whudujut Provincial Park and Protected Area: 91.00/100 (source-linked-unverified).
+- [x] CA — Canadian Fossil Discovery Centre Morden: 91.00/100 (source-linked-unverified).
+- [x] CA — Remai Modern Art Museum Saskatoon: 90.80/100 (source-linked-unverified).
+- [x] CA — Banff Centre Mountain Film and Book Festival: 91.05/100 (source-linked-unverified).
+- [x] CA — Agawa Canyon Tour Train Ontario: 88.70/100 (source-linked-unverified).
+- [x] CA — North Pacific Cannery National Historic Site Port Edward: 88.90/100 (source-linked-unverified).
+- [x] CA — Edmonton Folk Music Festival Gallagher Park: 88.45/100 (desk-based provisional).
+- [x] CA — Mount Royal Park Montréal Summit Viewpoints and Trails: 86.30/100 (desk-based provisional).
+- [x] CA — Toronto Zoo Wildlife and Conservation Exhibits: 87.20/100 (desk-based provisional).
+- [x] CA — La Ronde Montréal Amusement Park: 85.65/100 (desk-based provisional).
+- [x] CA — Spruce Woods Provincial Park Spirit Sands and Devil’s Punch Bowl: 87.15/100 (desk-based provisional).
+- [x] CA — Frank Slide Interpretive Centre and Rockslide Landscape: 88.20/100 (desk-based provisional).
+- [x] CA — Peter Lougheed Provincial Park Kananaskis Lakes and Trails: 87.95/100 (desk-based provisional).
+- [x] CA — Gulf of Georgia Cannery National Historic Site Steveston: 87.10/100 (desk-based provisional).
+- [x] CA — H R MacMillan Space Centre Vancouver Planetarium: 84.60/100 (desk-based provisional).
+- [x] CA — Museum of Vancouver Local History and Culture: 86.15/100 (desk-based provisional).
+
+18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 288 ranked / 291 total. Adams River normal dominant-cycle merit retained, 2026 weaker than expected per regional reporting; long-term population trend requires separate review. Ancient Forest park/protected area grouped. Agawa rail/canyon stop excludes Lake Superior Provincial Park. Banff festival excludes park sightseeing. La Ronde excludes fireworks. Toronto Zoo excludes Rouge trails. Museum of Vancouver and space centre separate public institutions, shared architecture not double counted. Existing scores and three unassessed retained. Coordinates approximate; event schedules and access not verified. Keep queue open for remaining regional omissions and explicit overlap review; no exhaustive coverage claimed.
