@@ -1,0 +1,16 @@
+id: sight-za-groenkloof-nature-reserve
+name: "Groenkloof Nature Reserve Pretoria Wildlife Trails"
+location:
+  country_code: ZA
+  latitude: -25.79
+  longitude: 28.2
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    wildlife: 9.0
+    adventure: 9.0

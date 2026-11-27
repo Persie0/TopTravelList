@@ -4506,3 +4506,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] ZA — Outeniqua Transport Museum George Railway Heritage Collections: 86.45/100 (desk-based provisional).
 
 14 additions, 8 source-linked provisional, 6 desk-based provisional, 6 90+, 34 ranking-row comparisons (6 international). ZA 104 ranked / 110 total, +76 since baseline. Phinda and Shamwari distinct reserves; Freedom Park not a named Mandela Legacy component; Market Theatre separate live performance venue. Jeffreys Bay permanent surfing only; 2026 WSL event loss documented, future return not assumed. Cape Town SVNS recurring event only. Wildebeest Kuil in situ engravings distinct from Origins Centre. Stony Point and Boulders separate colonies, species overlap non-additive. Prior deferrals retained; Hector Pieterson and Liliesleaf not separately added due Mandela serial scope. Coordinates approximate, access and schedules unverified. Six unassessed and existing scores preserved; discovery queue open for targeted final regional and park screen.
+
+### Pass 254 — South Africa park and UNESCO screen; bounded queue closure
+
+- [x] ZA — Richtersveld National Park South African Orange River Desert Mountain Circuit: 91.90/100 (source-linked-unverified).
+- [x] ZA — !Khwa ttu San Heritage Centre Museum and Community-Guided Experiences: 91.60/100 (source-linked-unverified).
+- [x] ZA — Soweto Derby Kaizer Chiefs and Orlando Pirates Football Spectator Event: 91.75/100 (source-linked-unverified).
+- [x] ZA — Two Oceans Marathon Cape Peninsula Ultramarathon and Spectator Event: 90.50/100 (source-linked-unverified).
+- [x] ZA — Johannesburg Standard Bank Joy of Jazz Festival: 90.50/100 (source-linked-unverified).
+- [x] ZA — Johannesburg Holocaust and Genocide Centre Permanent Historical Exhibitions: 89.60/100 (source-linked-unverified).
+- [x] ZA — Splashy Fen Underberg Outdoor Music Festival: 87.90/100 (source-linked-unverified).
+- [x] ZA — Cape Town Carnival Green Point Fan Walk Parade: 87.70/100 (source-linked-unverified).
+- [x] ZA — Groenkloof Nature Reserve Pretoria Wildlife Trails: 84.70/100 (source-linked-unverified).
+- [x] ZA — Pilgrim’s Rest Mpumalanga Historic Gold Mining Town: 86.75/100 (desk-based provisional).
+- [x] ZA — Hogsback Amathole Mountains Forest and Waterfall Trails: 85.35/100 (desk-based provisional).
+- [x] ZA — Paternoster West Coast Fishing Village and Coastal Walks: 85.05/100 (desk-based provisional).
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 29 ranking-row comparisons (3 international). ZA 116 ranked / 122 total, +88 since baseline. UNESCO official country page checked: 12 inscribed and 2 tentative all represented (https://whc.unesco.org/en/statesparties/za/), six original unassessed retained. Richtersveld northern national park separate from southern conservancy, shared cultural/ecological qualities non-additive; boundaries pending independent mapping. SANParks tender lists 22 names including Groenkloof head office and Grasslands (https://www.sanparks.org/corporate/tenders/provision-of-electrical-engineering-services-to-the-regions-of-sanparks-for-a-period-of-3-three-years), profile reports 21 parks; do not equate head office with municipal nature reserve. Grasslands newly declared 9 October 2026 (https://www.sanparks.org/news/minister-maynier-declares-new-national-park-in-eastern-cape), deferred pending public visitor experience; Meerkat likewise deferred. Bontebok existing Cape Floral aggregate component; other prior deferrals retained except Richtersveld resolved narrowly. Soweto Derby safety not guaranteed; Cape Town Carnival separate from Kaapse Klopse. Existing scores preserved, coordinates approximate; access/schedules unverified. Current bounded discovery queue closed after passes 249–254; not exhaustive, reopen on concrete distinct high-value omission or scope evidence. Full Python validation and calibration pending.
