@@ -1,0 +1,16 @@
+id: sight-ar-cerro-castor
+name: "Cerro Castor Fuegian Ski and Mountain Experience"
+location:
+  country_code: AR
+  latitude: -54.72
+  longitude: -68.02
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.2
+    adventure: 9.3
+    photography: 9.1
