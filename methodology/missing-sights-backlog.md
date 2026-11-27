@@ -4835,3 +4835,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — Cali La Tertulia Modern and Contemporary Art Museum: 85.20/100 (desk-based provisional).
 
 12 additions, 8 source-linked provisional, 4 desk-based provisional, 5 90+, 46 ranking-row comparisons (22 international). CO 111 ranked / 115 total, +60 since baseline 55. Previous 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 provisionally at least partially mapped carried forward, not independently rechecked. Cartagena November event national heritage recognition reported by ministry in 2026; music and Hay separate. Uramba distinct from Chocó and Gorgona, whale watching included in park scope. El Dorado non-additive to wider Sierra Nevada parent; La Planada and Río Ñambí distinct reserves; community consent essential. Quinta and Ciénaga historic centre not assumed to represent United Fruit tentative property. Existing scores and four unassessed preserved. Queue OPEN for further Pacific and Amazon visitor routes, Andean towns and remaining significant events. Coordinates approximate; schedules and current access unverified.
+
+### Pass 273 — Colombia cross-border festivals, coastal trails and heritage towns
+
+- [x] CO — Leticia International Amazonian Fellowship Festival: 92.05/100 (source-linked-unverified).
+- [x] CO — Uribia Wayúu Culture Festival Public Arts and Traditions: 91.75/100 (source-linked-unverified).
+- [x] CO — Cali World Salsa Festival International Dance Competitions and Performances: 90.90/100 (source-linked-unverified).
+- [x] CO — Villa de Leyva Wind and Kite Festival: 89.20/100 (source-linked-unverified).
+- [x] CO — Nuquí Guachalito Beach and Termales Coastal Forest Walk: 87.85/100 (source-linked-unverified).
+- [x] CO — Capurganá and Sapzurro Caribbean Coastal Forest Trails and Reefs: 87.15/100 (source-linked-unverified).
+- [x] CO — Jardín Antioquia Historic Centre Colorful Balconies and Public Square: 88.15/100 (source-linked-unverified).
+- [x] CO — Salamina Caldas Historic Centre Bahareque Architecture and Carved Balconies: 87.00/100 (source-linked-unverified).
+- [x] CO — Honda Historic River Port and Colonial Bridges: 87.60/100 (source-linked-unverified).
+- [x] CO — Aguadas Historic Centre and Traditional Hat Artisan Heritage: 85.95/100 (desk-based provisional).
+- [x] CO — Guaviare Pozos Naturales Sandstone Pools and Forest Walk: 84.70/100 (source-linked-unverified).
+- [x] CO — Tanimboca Amazon Forest Canopy and Treehouse Experience: 86.35/100 (desk-based provisional).
+
+12 additions, 10 source-linked provisional, 2 desk-based provisional, 3 90+, 37 ranking-row comparisons (13 international). CO 123 ranked / 127 total, +72 since baseline 55. Previous 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 provisionally at least partially mapped carried forward without independent recheck. Leticia and Wayúu national heritage statutes checked; Cali World Salsa distinct from Feria and Delirio. Sibundoy Bëtscnaté recognized by Resolution 3471 of 2013 (https://normograma.mincultura.gov.co/mincultura/compilacion/docs/resolucion_mincultura_3471_2013.htm), deferred pending explicit community-approved visitor scope, not score penalty. Capurganá Caribbean side, excludes Panama. Guachalito excludes whale watching; Tanimboca excludes river trips. Salamina and other coffee region towns non-additive to overlapping parent itineraries; security, current access and coordinates unverified. Existing scores and four unassessed preserved. Queue OPEN for targeted remaining priority national parks, regional craft and festival experiences, and unresolved tentative heritage.

@@ -2457,3 +2457,268 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 272 scope decisions
 
 12 additions, 8 source-linked provisional, 4 desk-based provisional, 5 90+, 46 ranking-row comparisons (22 international). CO 111 ranked / 115 total, +60 since baseline 55. Previous 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 provisionally at least partially mapped carried forward, not independently rechecked. Cartagena November event national heritage recognition reported by ministry in 2026; music and Hay separate. Uramba distinct from Chocó and Gorgona, whale watching included in park scope. El Dorado non-additive to wider Sierra Nevada parent; La Planada and Río Ñambí distinct reserves; community consent essential. Quinta and Ciénaga historic centre not assumed to represent United Fruit tentative property. Existing scores and four unassessed preserved. Queue OPEN for further Pacific and Amazon visitor routes, Andean towns and remaining significant events. Coordinates approximate; schedules and current access unverified.
+
+## sight-co-leticia-confraternidad-amazonica — Leticia International Amazonian Fellowship Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/leticia-confraternidad-amazonica.yaml)
+- Action: new
+- Scope: Annual July festival bringing together communities from Colombia, Brazil and Peru. National cultural heritage under Law 1706 of 2014; public broadcaster documents July 2026 event. Separate from Amazon river wildlife and town visits.
+- Representative coordinates: -4.215, -69.94; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.2 / 9.1.
+- Categories: culture:9.4 photography:9.3 history:9.1.
+- Overall: 92.05/100.
+- Source: https://normograma.mincultura.gov.co/compilacion/docs/ley_1706_2014.htm
+- Source: https://www.rtvc.gov.co/noticias/amazonas-festival-confraternidad-inravision
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/petronio-alvarez-festival](../../../countries/CO/sights/petronio-alvarez-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [CO/villavicencio-joropo](../../../countries/CO/sights/villavicencio-joropo.yaml) | 9.3 / 9.3 / 9.3 / 9.4 / 9.2 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PE/san-juan-amazon](../../../countries/PE/sights/san-juan-amazon.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/iquitos-amazon-carnival](../../../countries/PE/sights/iquitos-amazon-carnival.yaml) | 8.7 / 8.9 / 9.1 / 8.8 / 8.8 | impact: +0.4; uniqueness: +0.4 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-uribia-wayuu-festival — Uribia Wayúu Culture Festival Public Arts and Traditions — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/uribia-wayuu-festival.yaml)
+- Action: new
+- Scope: Public arts, craft exhibitions and traditional competitions. Law 1022 of 2006 declares national cultural heritage; local reporting documents the 31st edition in June 2026. No claim of inclusion in a separate national representative intangible list or UNESCO; private and sacred practices excluded.
+- Representative coordinates: 11.714, -72.266; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.75/100.
+- Source: https://normograma.mincultura.gov.co/compilacion/docs/ley_1022_2006.htm
+- Source: https://www.uribia-laguajira.gov.co/MiMunicipio/Paginas/Fiestas-y-Celebraciones.aspx
+- Source: https://elheraldoco-elheraldo-prod.web.arc-cdn.net/la-guajira/2026/06/06/inicio-el-trigesimo-primero-festival-de-la-cultura-wayuu-en-uribia-la-guajira/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/palenque-drum-festival](../../../countries/CO/sights/palenque-drum-festival.yaml) | 9.0 / 9.3 / 9.4 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [CO/macuira-national-park](../../../countries/CO/sights/macuira-national-park.yaml) | 8.8 / 9.3 / 9.0 / 8.5 / 8.8 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/raymi-llaqta-chachapoyas](../../../countries/PE/sights/raymi-llaqta-chachapoyas.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.2 vs peer |
+| [PE/huaconada-mito](../../../countries/PE/sights/huaconada-mito.yaml) | 9.1 / 9.4 / 9.4 / 9.0 / 9.1 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.4; uniqueness: +0.0 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-cali-world-salsa-festival — Cali World Salsa Festival International Dance Competitions and Performances — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/cali-world-salsa-festival.yaml)
+- Action: new
+- Scope: Municipal cultural secretariat announced 21st edition for October and November 2026, with local and international dance competitions and public performances. Distinct calendar and organizer programme from December Feria de Cali and ongoing Delirio shows.
+- Representative coordinates: 3.427, -76.558; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.4 / 9.1.
+- Categories: culture:9.4 nightlife:9.3 photography:9.3.
+- Overall: 90.90/100.
+- Source: https://www.cali.gov.co/boletines/publicaciones/194548/festival-mundial-de-salsa-se-realizara-del-23-al-25-de-octubre-y-tendra-espacios-adicionales-para-dinamizar-el-sector-salsero-de-la-ciudad/
+- Source: https://www.cali.gov.co/boletines/publicaciones/193246/ya-estan-abiertas-las-convocatorias-locales-regionales-nacionales-e-internacionales-para-la-edicion-21-del-festival-mundial-de-salsa-2026/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/feria-de-cali](../../../countries/CO/sights/feria-de-cali.yaml) | 9.2 / 9.1 / 9.2 / 9.4 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [CO/cali-delirio](../../../countries/CO/sights/cali-delirio.yaml) | 8.9 / 9.0 / 8.8 / 9.4 / 8.8 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [PE/jauja-tunantada](../../../countries/PE/sights/jauja-tunantada.yaml) | 9.1 / 9.2 / 9.2 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [BR/festival-de-curitiba](../../../countries/BR/sights/festival-de-curitiba.yaml) | 9.0 / 9.1 / 9.1 / 9.2 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-villa-de-leyva-kite-festival — Villa de Leyva Wind and Kite Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/villa-de-leyva-kite-festival.yaml)
+- Action: new
+- Scope: Public kite displays and competitions; municipality confirms 49th edition in 2026. Separate recurring event from town built heritage. Future dates not verified.
+- Representative coordinates: 5.633, -73.524; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.7 / 9.2 / 8.8.
+- Categories: photography:9.4 culture:9.2 family:9.3.
+- Overall: 89.20/100.
+- Source: https://villadeleyva-boyaca.gov.co/NuestraAlcaldia/SaladePrensa/Paginas/Festival-del-Cometas-2026.aspx
+- Source: https://colombia.travel/es/ferias-y-fiestas/festival-del-viento-y-de-las-cometas
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/medellin-flower-festival](../../../countries/CO/sights/medellin-flower-festival.yaml) | 9.3 / 9.3 / 9.2 / 9.4 / 9.2 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [CO/villa-de-leyva-historic-centre](../../../countries/CO/sights/villa-de-leyva-historic-centre.yaml) | 8.9 / 8.8 / 9.1 / 8.9 / 8.8 | impact: +0.0; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-nuqui-guachalito-termales — Nuquí Guachalito Beach and Termales Coastal Forest Walk — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/nuqui-guachalito-termales.yaml)
+- Action: new
+- Scope: Named beach walk and thermal pool in tropical coastal forest; official tourism board describes the route. Exclude marine whale excursions and Utría park; tides and bathing conditions unverified.
+- Representative coordinates: 5.585, -77.358; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.3 / 9.0 / 8.8.
+- Categories: nature:9.3 beaches:9.3 relaxation:9.4.
+- Overall: 87.85/100.
+- Source: https://colombia.travel/es/nuqui
+- Source: https://colombia.travel/es/choco/termales
+- Source: https://colombia.travel/es/choco/playa-guachalito
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/choco-humpback-whale-watching](../../../countries/CO/sights/choco-humpback-whale-watching.yaml) | 9.3 / 9.2 / 9.0 / 9.0 / 8.8 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [CO/tayrona-national-natural-park](../../../countries/CO/sights/tayrona-national-natural-park.yaml) | 9.3 / 9.1 / 8.8 / 8.8 / 8.8 | impact: -0.4; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-capurgana-sapzurro — Capurganá and Sapzurro Caribbean Coastal Forest Trails and Reefs — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/capurgana-sapzurro.yaml)
+- Action: new
+- Scope: Caribbean side of Chocó, not Pacific. Official tourism board describes village-to-village forest trail and coral scenery. Exclude La Miel beach in Panama, border crossings and unrelated park visits. Security and transport conditions unverified.
+- Representative coordinates: 8.65, -77.354; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.2 / 8.9 / 8.7.
+- Categories: nature:9.3 beaches:9.3 adventure:9.2.
+- Overall: 87.15/100.
+- Source: https://colombia.travel/es/acandi
+- Source: https://colombia.travel/es/choco/capurgana
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/tayrona-national-natural-park](../../../countries/CO/sights/tayrona-national-natural-park.yaml) | 9.3 / 9.1 / 8.8 / 8.8 / 8.8 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [CO/rosario-islands](../../../countries/CO/sights/rosario-islands.yaml) | 8.7 / 8.6 / 8.0 / 8.5 / 8.2 | impact: +0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-jardin-historic-centre — Jardín Antioquia Historic Centre Colorful Balconies and Public Square — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/jardin-historic-centre.yaml)
+- Action: new
+- Scope: Heritage town architecture and main plaza. Separate from neighboring coffee farms, waterfalls and wider coffee landscape; non-additive if a larger itinerary already includes town.
+- Representative coordinates: 5.599, -75.819; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.9 / 9.0 / 8.7.
+- Categories: architecture:9.3 photography:9.4 culture:9.2.
+- Overall: 88.15/100.
+- Source: https://colombia.travel/es/jardin-antioquia
+- Source: https://caldas.gov.co/index.php/noticias-gobernacion/15775-en-colombia-travel-expo-la-rap-del-agua-y-la-montana-lanzo-la-ruta-de-pueblos-patrimonio-de-caldas-y-antioquia
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/jerico-historic-centre](../../../countries/CO/sights/jerico-historic-centre.yaml) | 8.4 / 8.7 / 8.8 / 8.8 / 8.7 | impact: +0.4; uniqueness: +0.0 vs peer |
+| [CO/barichara-historic-centre](../../../countries/CO/sights/barichara-historic-centre.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.7 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-salamina-historic-centre — Salamina Caldas Historic Centre Bahareque Architecture and Carved Balconies — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/salamina-historic-centre.yaml)
+- Action: new
+- Scope: Heritage town architecture; exclude generic coffee farms and separate wax-palm forest visits. Nested landscape non-additive to Coffee Cultural Landscape.
+- Representative coordinates: 5.407, -75.488; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.0 / 8.7 / 8.7.
+- Categories: architecture:9.3 culture:9.2 photography:9.2.
+- Overall: 87.00/100.
+- Source: https://colombia.travel/es/salamina
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/jerico-historic-centre](../../../countries/CO/sights/jerico-historic-centre.yaml) | 8.4 / 8.7 / 8.8 / 8.8 / 8.7 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [CO/santa-fe-antioquia-historic-centre](../../../countries/CO/sights/santa-fe-antioquia-historic-centre.yaml) | 8.7 / 8.7 / 9.1 / 8.8 / 8.8 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-honda-historic-centre — Honda Historic River Port and Colonial Bridges — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/honda-historic-centre.yaml)
+- Action: new
+- Scope: Historic Magdalena river port streets, market architecture and named bridges as one built heritage visit. No claim of tentative Canal del Dique or United Fruit coverage.
+- Representative coordinates: 5.208, -74.736; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.1 / 8.6 / 8.7.
+- Categories: history:9.4 architecture:9.3 photography:9.2.
+- Overall: 87.60/100.
+- Source: https://www.redturisticadepueblospatrimonio.com.co/es/pueblos/honda
+- Source: https://tolima.gov.co/tolima/informacion-general/turismo/1862-turis
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/historic-centre-of-santa-cruz-de-mompox](../../../countries/CO/sights/historic-centre-of-santa-cruz-de-mompox.yaml) | 8.6 / 9.0 / 9.3 / 8.3 / 8.5 | impact: +0.0; uniqueness: -0.2 vs peer |
+| [CO/santa-fe-antioquia-historic-centre](../../../countries/CO/sights/santa-fe-antioquia-historic-centre.yaml) | 8.7 / 8.7 / 9.1 / 8.8 / 8.8 | impact: -0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-aguadas-historic-centre — Aguadas Historic Centre and Traditional Hat Artisan Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/aguadas-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based heritage town and Aguadeño hat craftsmanship, community-approved workshop visits only; exclude festival and generic coffee farm tours.
+- Representative coordinates: 5.61, -75.456; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.7 / 8.9 / 8.6 / 8.6.
+- Categories: culture:9.3 architecture:9.1 history:9.2.
+- Overall: 85.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/jerico-historic-centre](../../../countries/CO/sights/jerico-historic-centre.yaml) | 8.4 / 8.7 / 8.8 / 8.8 / 8.7 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [CO/mongui-historic-centre](../../../countries/CO/sights/mongui-historic-centre.yaml) | 8.4 / 8.7 / 8.8 / 8.7 / 8.6 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-guaviare-pozos-naturales — Guaviare Pozos Naturales Sandstone Pools and Forest Walk — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/guaviare-pozos-naturales.yaml)
+- Action: new
+- Scope: Natural rock pools near San José del Guaviare; national tourism board documents site. Exclude Puerta de Orión rock formations, Cerro Azul rock art and restricted areas. Current water and access conditions unverified.
+- Representative coordinates: 2.504, -72.683; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.1 / 8.8 / 8.3.
+- Categories: nature:9.2 photography:9.2 adventure:9.1.
+- Overall: 84.70/100.
+- Source: https://colombia.travel/es/san-jose-del-guaviare/refrescate-en-los-pozos-naturales
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/guaviare-puerta-de-orion](../../../countries/CO/sights/guaviare-puerta-de-orion.yaml) | 8.9 / 8.9 / 8.3 / 8.8 / 8.4 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [CO/rio-claro-nature-reserve](../../../countries/CO/sights/rio-claro-nature-reserve.yaml) | 8.6 / 8.5 / 7.3 / 8.6 / 7.9 | impact: -0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-tanimboca-canopy — Tanimboca Amazon Forest Canopy and Treehouse Experience — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/tanimboca-canopy.yaml)
+- Action: new
+- Scope: Desk-based inland forest canopy activity near Leticia distinct from Amazon River boat routes and Amacayacu; representative coordinate approximate, current operator availability unverified.
+- Representative coordinates: -4.105, -69.96; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.2 / 9.0 / 8.6.
+- Categories: nature:9.3 adventure:9.3 wildlife:9.2.
+- Overall: 86.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/amazon-river-leticia-visitor-routes](../../../countries/CO/sights/amazon-river-leticia-visitor-routes.yaml) | 9.0 / 9.0 / 9.0 / 8.6 / 8.8 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [CO/amacayacu-national-natural-park](../../../countries/CO/sights/amacayacu-national-natural-park.yaml) | 8.8 / 8.7 / 9.2 / 8.8 / 8.8 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/inkaterra-canopy-walkway](../../../countries/PE/sights/inkaterra-canopy-walkway.yaml) | 8.8 / 8.8 / 8.5 / 9.0 / 8.8 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 273 scope decisions
+
+12 additions, 10 source-linked provisional, 2 desk-based provisional, 3 90+, 37 ranking-row comparisons (13 international). CO 123 ranked / 127 total, +72 since baseline 55. Previous 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 provisionally at least partially mapped carried forward without independent recheck. Leticia and Wayúu national heritage statutes checked; Cali World Salsa distinct from Feria and Delirio. Sibundoy Bëtscnaté recognized by Resolution 3471 of 2013 (https://normograma.mincultura.gov.co/mincultura/compilacion/docs/resolucion_mincultura_3471_2013.htm), deferred pending explicit community-approved visitor scope, not score penalty. Capurganá Caribbean side, excludes Panama. Guachalito excludes whale watching; Tanimboca excludes river trips. Salamina and other coffee region towns non-additive to overlapping parent itineraries; security, current access and coordinates unverified. Existing scores and four unassessed preserved. Queue OPEN for targeted remaining priority national parks, regional craft and festival experiences, and unresolved tentative heritage.
