@@ -3660,3 +3660,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] NZ — Wairere Falls Kaimai Range Walking Track: 85.20/100 (desk-based provisional).
 
 18 additions, 13 desk-based provisional, 5 source-linked, 3 90+, 39 ranking-row comparisons including 3 international. NZ 110 ranked / 112 total. Omaka exhibits grouped; separate from Wētā tour. Queen Charlotte Track walking and cycling grouped; not entire Marlborough Sounds. Forgotten World rail cart distinct from conventional trains. Te Paki dunes distinct from Cape Reinga headland; Wharariki beach distinct from Farewell Spit reserve. Existing remote island unassessed entries and prior scores preserved. Parent overlap questions from earlier passes remain deferred. Inferred type labels can be misleading (e.g. Christchurch railway matching church); generator change deferred to separate review. Next: final targeted NZ regional and cultural screen. Independent validation pending.
+
+### Pass 213 — New Zealand final targeted regional screen
+
+- [x] NZ — Pureora Timber Trail Multi-Day Forest Cycling: 90.45/100 (source-linked-unverified).
+- [x] NZ — Aotea Great Barrier Island Dark Sky Sanctuary Stargazing: 90.80/100 (source-linked-unverified).
+- [x] NZ — Kōpinga Marae Guided Moriori Cultural Heritage Chatham Islands: 89.00/100 (source-linked-unverified).
+- [x] NZ — Ōhiro Bay Chatham Islands Basalt Columns: 86.10/100 (source-linked-unverified).
+- [x] NZ — Mavora Lakes Conservation Park Scenic Walks: 86.25/100 (desk-based provisional).
+- [x] NZ — Putangirua Pinnacles Erosion Landscape: 87.05/100 (desk-based provisional).
+- [x] NZ — Cape Palliser Lighthouse and Fur Seal Coast: 85.95/100 (desk-based provisional).
+- [x] NZ — Waipoua Forest Tāne Mahuta and Kauri Heritage Walks: 88.60/100 (desk-based provisional).
+- [x] NZ — Puzzling World Wānaka Illusion Rooms and Maze: 85.80/100 (desk-based provisional).
+- [x] NZ — Polynesian Spa Rotorua Geothermal Bathing: 85.60/100 (desk-based provisional).
+- [x] NZ — Marlborough Wine Heritage and Cellar Door Route: 87.70/100 (desk-based provisional).
+- [x] NZ — Arrowtown Historic Gold Mining Precinct: 87.05/100 (desk-based provisional).
+- [x] NZ — Steampunk HQ Oamaru Creative Art Experience: 85.75/100 (desk-based provisional).
+- [x] NZ — Wellington Cable Car and Cable Car Museum: 85.55/100 (desk-based provisional).
+
+14 additions, 10 desk-based provisional, 4 source-linked, 2 90+, 32 ranking-row comparisons including 4 international. NZ 124 ranked / 126 total. Ulva Island deferred because DOC confirms most is within Rakiura National Park (https://www.doc.govt.nz/documents/about-doc/role/policies-and-plans/cms/stewart-island-rakiura-cms-and-rakiura-np-mp-2012.pdf); Blue Pools deferred as Mount Aspiring parent day walk. Hāpūpū tree carvings need condition/access assessment before scoring (https://www.doc.govt.nz/parks-and-recreation/places-to-go/chatham-islands/places/hapupu-jm-barker-historic-reserve/). Kōpinga Marae booked group experience only. Aotea dark sky scope excludes day attractions. Existing remote island unassessed entries and prior scores preserved. Parent overlap questions and generator type bug remain deferred. NZ bounded discovery queue closed; reopen on concrete substantial omission, not exhaustive. Next: targeted Pacific island country screening. Independent validation pending.

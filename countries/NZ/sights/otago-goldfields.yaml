@@ -1,0 +1,16 @@
+id: sight-nz-otago-goldfields
+name: "Arrowtown Historic Gold Mining Precinct"
+location:
+  country_code: NZ
+  latitude: -44.94
+  longitude: 168.83
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 9.1

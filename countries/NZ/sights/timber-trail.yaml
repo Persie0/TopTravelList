@@ -1,0 +1,16 @@
+id: sight-nz-timber-trail
+name: "Pureora Timber Trail Multi-Day Forest Cycling"
+location:
+  country_code: NZ
+  latitude: -38.66
+  longitude: 175.6
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    history: 9.2
