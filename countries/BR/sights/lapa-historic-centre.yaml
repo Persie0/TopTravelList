@@ -1,0 +1,16 @@
+id: sight-br-lapa-historic-centre
+name: "Lapa Paraná Historic Centre and Siege Heritage"
+location:
+  country_code: BR
+  latitude: -25.769
+  longitude: -49.716
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 9.2
+    culture: 9.1

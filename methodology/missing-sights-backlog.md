@@ -4288,3 +4288,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Canoa Quebrada Coastal Cliffs and Beach Landscapes: 86.20/100 (desk-based provisional).
 
 16 additions, 7 source-linked provisional, 9 desk-based provisional, 5 90+, 42 ranking-row comparisons (10 international). BR 148 ranked / 151 total. Itaipu Brazilian technical tour distinguished from existing Paraguayan visitor circuit, shared landscape non-additive. Capivara museums grouped; no park archaeology landscape duplication. Maragogi monitored reef damage reflected conservatively, recovery unknown; authorized pools only. Monte Roraima Brazilian ascent deferred pending distinct permitted visitor scope; Venezuelan sector already ranked. Existing PETAR, Bocaina, Mamirauá, Caatinga and Bodoquena deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
+
+### Pass 243 — Brazil regional festivals, caves and heritage settlements
+
+- [x] BR — Terra Ronca State Park Goiás Guided Cave Circuit: 91.65/100 (source-linked-unverified).
+- [x] BR — São João Caruaru Pernambuco June Festival and Forró: 91.50/100 (source-linked-unverified).
+- [x] BR — Lavagem do Bonfim Salvador Religious and Cultural Procession: 91.20/100 (source-linked-unverified).
+- [x] BR — Festa de Iemanjá Salvador Rio Vermelho Coastal Celebration: 91.30/100 (source-linked-unverified).
+- [x] BR — Serra Verde Express Curitiba Morretes Historic Mountain Railway: 91.30/100 (source-linked-unverified).
+- [x] BR — Festa do Divino and Cavalhadas Pirenópolis Goiás: 91.00/100 (source-linked-unverified).
+- [x] BR — Campos do Jordão International Winter Classical Music Festival: 90.65/100 (source-linked-unverified).
+- [x] BR — Tiradentes Historic Centre Baroque Churches and Colonial Streets: 88.70/100 (desk-based provisional).
+- [x] BR — São João del-Rei Historic Centre Baroque Churches and Streets: 88.00/100 (source-linked-unverified).
+- [x] BR — Pirenópolis Historic Centre Goiás Colonial Architecture: 86.65/100 (desk-based provisional).
+- [x] BR — Boipeba Island Bahia Beaches and Coastal Walks: 87.80/100 (source-linked-unverified).
+- [x] BR — Xingó São Francisco River Canyon Boat Excursions: 87.55/100 (desk-based provisional).
+- [x] BR — Lagoinha do Leste Florianópolis Coastal Hiking and Beach: 86.70/100 (desk-based provisional).
+- [x] BR — Museu de Arte do Rio Rio de Janeiro Art and Urban Culture: 87.00/100 (desk-based provisional).
+- [x] BR — PUCRS Museum of Science and Technology Porto Alegre: 87.10/100 (desk-based provisional).
+- [x] BR — Lapa Paraná Historic Centre and Siege Heritage: 85.65/100 (desk-based provisional).
+
+16 additions, 9 source-linked provisional, 7 desk-based provisional, 7 90+, 46 ranking-row comparisons (14 international). BR 164 ranked / 167 total. Salvador Bonfim and Iemanjá distinct public events, not Carnival or built heritage. Pirenópolis festival excludes permanent historic centre; Caruaru distinct from Campina Grande. Serra Verde Express dedicated rail journey only, Atlantic Forest scenery non-additive; São João del-Rei–Tiradentes railway deferred pending separate experience assessment (https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeituras-de-sao-joao-del-rei-e-tiradentes-assinam-cessao-de-complexo-ferroviario). Boipeba excludes Tinharé. Prior PETAR, Bocaina, Mamirauá, Caatinga, Bodoquena and Roraima deferrals retained. Coordinates approximate; access and schedules unverified. Existing scores and three unassessed retained. Brazil discovery queue open.
