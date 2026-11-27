@@ -1,0 +1,17 @@
+id: sight-ar-museo-de-la-plata
+name: "Museo de La Plata Natural History and Paleontology Exhibitions"
+location:
+  country_code: AR
+  latitude: -34.909
+  longitude: -57.935
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3
+    family: 9.2
+    architecture: 9.1

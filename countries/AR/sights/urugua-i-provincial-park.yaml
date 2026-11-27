@@ -1,0 +1,16 @@
+id: sight-ar-urugua-i-provincial-park
+name: "Urugua-í Provincial Park Atlantic Forest Visitor Landscape"
+location:
+  country_code: AR
+  latitude: -25.86
+  longitude: -54.23
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.1
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    photography: 8.9
