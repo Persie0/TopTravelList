@@ -2105,3 +2105,267 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 309 scope decisions
 
 13 source-linked provisional additions, 5 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 103 ranked / 104 total, +39 since baseline 65, 21 new 90+ across three passes. Prior UNESCO 12 inscribed and 8 tentative represented, component mapping incomplete. Monumental distinct from Bombonera, same match non-additive. Rosario 42nd edition and >50 communities documented; La Chaya recurring regional event, Jesús María concert scope only excludes equestrian contests; no assumption of separately sold admission. Three interjurisdictional marine parks listed by government now represented (https://www.argentina.gob.ar/ambiente/contenidos/areas-protegidas), Isla Pingüino authorized excursion, Makenke mainland routes, Cabo Dos Bahías gateway grouped with Patagonia Austral. Lago Puelo, Laguna Blanca Neuquén, Lihué Calel added; regional APN inventory screened (https://www.argentina.gob.ar/parquesnacionales/regionpatagonia ; https://www.argentina.gob.ar/parquesnacionales/patagonia-austral), Islote Lobos and Isla de los Estados still need visitor-scope verification, no open-sea reserve access presumed. Caviahue and Atuel grouped regional landscapes, Nao Victoria separate from Makenke. Existing scores and one unassessed preserved. OPEN for remaining northeast parks, urban heritage and regional cultural events. Approximate coordinates, current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML and international calibration pending.
+
+
+## Pass 310 — Argentina northeast parks, architecture and regional heritage (2026-11-28)
+
+
+## sight-ar-lujan-pilgrimage-basilica — Luján Basilica and Annual Public Youth Pilgrimage — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/lujan-pilgrimage-basilica.yaml)
+- Action: new
+- Scope: Basilica destination and annual public pilgrimage grouped, not separate independent ratings. Sanctuary confirms 52nd pilgrimage in October 2026 and hundreds of thousands of participants; no precise independent attendance or future schedule guarantee.
+- Representative coordinates: -34.564, -59.121; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://santuariodelujan.org.ar/peregrinacion-juvenil/ ; https://santuariodelujan.org.ar/novedades/lo-que-necesitas-saber-para-peregrinar-011026/
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.5 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.3 architecture:9.2 photography:9.2.
+- Overall: 93.15/100.
+- Decision: provisional worldwide score; temporary access excluded. 9.5 significance provisional for enduring large-scale national pilgrimage and basilica heritage; global anchors pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/salta-milagro-procession](../../../countries/AR/sights/salta-milagro-procession.yaml) | 9.2 / 9.1 / 9.4 / 9.1 / 9.0 | impact: 0.1; uniqueness: 0.2 vs peer |
+| [GY/georgetown-emancipation-festival](../../../countries/GY/sights/georgetown-emancipation-festival.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.1 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-obera-immigrant-festival — Oberá National Immigrant Festival and Parque de las Naciones Heritage Programme — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/obera-immigrant-festival.yaml)
+- Action: new
+- Scope: Recurring September public festival, traditional houses, dance, culinary and craft programmes grouped; 46th edition scheduled September 3–13 2026. Distinct from Rosario festival; ordinary park visit non-additive.
+- Representative coordinates: -27.49, -55.12; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.obera.tur.ar/fiestas-y-festividad/fiesta-nacional-del-inmigrante/ ; https://misiones.gob.ar/misiones-se-prepara-para-la-46a-edicion-de-la-fiesta-nacional-del-inmigrante/
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.3 / 9.3 / 9.3.
+- Categories: culture:9.4 food:9.4 photography:9.2.
+- Overall: 92.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/rosario-colectividades](../../../countries/AR/sights/rosario-colectividades.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.3 | impact: 0.0; uniqueness: 0.1 vs peer |
+| [GY/indigenous-heritage-month](../../../countries/GY/sights/indigenous-heritage-month.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-san-antonio-de-areco-tradicion — San Antonio de Areco National Tradition Festival and Gaucho Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/san-antonio-de-areco-tradicion.yaml)
+- Action: new
+- Scope: Public folklore music, dances, craft exhibitions and historic settlement heritage grouped; 87th edition held November 13–15 2026. Excludes animal competitions and does not assume separate ticket for every activity.
+- Representative coordinates: -34.25, -59.47; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://sanantoniodeareco.tur.ar/fiesta ; https://www.sanantoniodeareco.com/fiesta-de-la-tradicion
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 92.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/jesus-maria-folklore](../../../countries/AR/sights/jesus-maria-folklore.yaml) | 9.2 / 8.9 / 9.2 / 9.2 / 9.2 | impact: -0.1; uniqueness: 0.4 vs peer |
+| [GY/lethem-ranchers-cultural-fair](../../../countries/GY/sights/lethem-ranchers-cultural-fair.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.0 | impact: 0.1; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-mocona-yaboti — Saltos del Moconá and Yabotí Guided Forest and River Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/mocona-yaboti.yaml)
+- Action: new
+- Scope: Official tourism describes approximately 1.9-km canyon with falls parallel to river course. Established provincial park visitor trails and authorized boat viewing grouped; water levels affect visibility. No unrestricted biosphere reserve or cross-border access.
+- Representative coordinates: -27.15, -53.89; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.travel/actividades/reserva-de-biosfera-yaboti ; https://www.argentina.travel/novedades/water-from-heaven-argentinas-eight-most-impressive-waterfalls-and-cascades
+- Core I/U/S/E/D: 9.3 / 9.5 / 8.9 / 8.6 / 8.8.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 91.15/100.
+- Decision: provisional worldwide score; temporary access excluded. 9.5 uniqueness provisional for unusual longitudinal falls; global geological anchors pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/iguazu-falls-argentine-circuits](../../../countries/AR/sights/iguazu-falls-argentine-circuits.yaml) | 9.9 / 9.8 / 9.2 / 9.6 / 8.6 | impact: -0.6; uniqueness: -0.3 vs peer |
+| [GY/orinduik-falls](../../../countries/GY/sights/orinduik-falls.yaml) | 8.5 / 8.2 / 7.5 / 8.4 / 7.4 | impact: 0.8; uniqueness: 1.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-feria-de-mataderos — Buenos Aires Feria de Mataderos and Criollo Heritage Museum — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/feria-de-mataderos.yaml)
+- Action: new
+- Scope: Established Sunday craft, food and folk music fair; museum and interpretive heritage grouped. Excludes animal competitions; ordinary neighborhood sightseeing non-additive, future schedule unverified.
+- Representative coordinates: -34.66, -58.5; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://turismo.buenosaires.gob.ar/en/otros-establecimientos/feria-de-mataderos ; https://turismo.buenosaires.gob.ar/es/otros-establecimientos/museo-criollo-de-los-corrales ; https://turismo.buenosaires.gob.ar/es/barrios/mataderos
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.1 / 9.3 / 9.0.
+- Categories: culture:9.4 food:9.3 photography:9.2.
+- Overall: 90.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/buenos-aires-fileteado](../../../countries/AR/sights/buenos-aires-fileteado.yaml) | 8.7 / 9.2 / 9.2 / 8.7 / 8.8 | impact: 0.3; uniqueness: -0.1 vs peer |
+| [GY/georgetown-curry-fest](../../../countries/GY/sights/georgetown-curry-fest.yaml) | 8.4 / 8.6 / 8.6 / 8.9 / 8.4 | impact: 0.6; uniqueness: 0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-rio-pilcomayo-national-park — Río Pilcomayo National Park Chaco Wetlands and Palm Savanna — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/rio-pilcomayo-national-park.yaml)
+- Action: new
+- Scope: Official park documents interpretive trails, 332 recorded bird species and internationally important wetlands. Separate from Bañado La Estrella; no cross-border access or wildlife guarantees.
+- Representative coordinates: -25.06, -58.12; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-rio-pilcomayo/actividades ; https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-rio-pilcomayo
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.5 / 8.6.
+- Categories: nature:9.3 wildlife:9.3 photography:9.1.
+- Overall: 87.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/banado-la-estrella](../../../countries/AR/sights/banado-la-estrella.yaml) | 9.1 / 9.1 / 9.1 / 8.9 / 9.0 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [GY/north-rupununi-wetlands](../../../countries/GY/sights/north-rupununi-wetlands.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-mburucuya-national-park — Mburucuyá National Park Wetlands and Estancia Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/mburucuya-national-park.yaml)
+- Action: new
+- Scope: APN documents interpretive trails and former estancia heritage. Separate administrative park within greater Iberá region; overlapping ecosystem values non-additive.
+- Representative coordinates: -28.02, -58.05; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-mburucuya/actividades ; https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-mburucuya
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.9 / 8.5 / 8.6.
+- Categories: nature:9.2 wildlife:9.3 photography:9.0.
+- Overall: 86.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/ibera-national-park](../../../countries/AR/sights/ibera-national-park.yaml) | 8.9 / 8.9 / 9.2 / 8.8 / 8.9 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [GY/north-rupununi-wetlands](../../../countries/GY/sights/north-rupununi-wetlands.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: 0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-chaco-national-park — Chaco National Park Quebracho Forest and Wetland Trails — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/chaco-national-park.yaml)
+- Action: new
+- Scope: APN documents walking and vehicle visitor routes; distinct park from El Impenetrable. Current trail conditions unverified.
+- Representative coordinates: -26.8, -59.63; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-chaco/actividades
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.7 / 8.4 / 8.5.
+- Categories: nature:9.1 wildlife:9.2 photography:8.9.
+- Overall: 84.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/el-impenetrable-national-park](../../../countries/AR/sights/el-impenetrable-national-park.yaml) | 8.7 / 8.9 / 9.1 / 8.6 / 8.8 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [GY/iwokrama-rainforest](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | impact: -0.6; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-pre-delta-national-park — Pre-Delta National Park Paraná Floodplain Trails — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/pre-delta-national-park.yaml)
+- Action: new
+- Scope: Official trails in Paraná delta transition landscape; geographically distinct from Tigre river circuits. No current waterway availability assumed.
+- Representative coordinates: -32.12, -60.64; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-pre-delta/actividades ; https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-pre-delta
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.5 / 8.5 / 8.4.
+- Categories: nature:9.1 wildlife:9.1 photography:8.9.
+- Overall: 84.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/delta-del-parana-tigre-visitor-routes](../../../countries/AR/sights/delta-del-parana-tigre-visitor-routes.yaml) | 8.2 / 8.3 / 7.3 / 8.7 / 8.3 | impact: 0.1; uniqueness: 0.1 vs peer |
+| [GY/essequibo-river-lower-river-islands](../../../countries/GY/sights/essequibo-river-lower-river-islands.yaml) | 7.9 / 8.1 / 7.7 / 8.4 / 8.2 | impact: 0.4; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-buenos-aires-congress — Buenos Aires Palace of the National Congress and Congress Square — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/buenos-aires-congress.yaml)
+- Action: new
+- Scope: Desk-based assessment of public exterior and civic architecture, grouped with square; guided interior tours not verified. Distinct from Plaza de Mayo.
+- Representative coordinates: -34.609, -58.393; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.4 / 9.0 / 8.2 / 8.2.
+- Categories: architecture:9.3 history:9.2 photography:9.0.
+- Overall: 85.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/palacio-barolo](../../../countries/AR/sights/palacio-barolo.yaml) | 8.3 / 9.0 / 8.4 / 8.5 / 7.2 | impact: 0.2; uniqueness: -0.6 vs peer |
+| [GY/georgetown-city-hall](../../../countries/GY/sights/georgetown-city-hall.yaml) | 8.3 / 8.6 / 8.4 / 7.7 / 6.9 | impact: 0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-buenos-aires-palacio-libertad — Buenos Aires Palacio Libertad Former Central Post Office Cultural Centre — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/buenos-aires-palacio-libertad.yaml)
+- Action: new
+- Scope: Desk-based building and public cultural programme; no specific exhibition, performance or opening claim. Former CCK name recognized, not a duplicate.
+- Representative coordinates: -34.603, -58.369; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.7 / 8.7 / 8.5.
+- Categories: architecture:9.2 culture:9.2 history:8.9.
+- Overall: 85.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/teatro-colon](../../../countries/AR/sights/teatro-colon.yaml) | 8.9 / 8.9 / 9.4 / 8.8 / 7.9 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [GY/museum-african-heritage](../../../countries/GY/sights/museum-african-heritage.yaml) | 7.9 / 8.4 / 8.8 / 8.1 / 8.4 | impact: 0.6; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-buenos-aires-palacio-aguas — Buenos Aires Palacio de las Aguas Corrientes Architectural and Waterworks Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/buenos-aires-palacio-aguas.yaml)
+- Action: new
+- Scope: Desk-based ornate historic waterworks exterior and interpretation; interior museum access not independently verified.
+- Representative coordinates: -34.599, -58.394; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.6 / 8.0 / 7.8.
+- Categories: architecture:9.3 history:9.0 photography:9.1.
+- Overall: 84.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/palacio-barolo](../../../countries/AR/sights/palacio-barolo.yaml) | 8.3 / 9.0 / 8.4 / 8.5 / 7.2 | impact: 0.3; uniqueness: -0.2 vs peer |
+| [GY/georgetown-city-hall](../../../countries/GY/sights/georgetown-city-hall.yaml) | 8.3 / 8.6 / 8.4 / 7.7 / 6.9 | impact: 0.3; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ar-rosario-monumento-bandera — Rosario National Flag Memorial and Historic Waterfront — 2026-11-28
+
+- YAML: [source](../../../countries/AR/sights/rosario-monumento-bandera.yaml)
+- Action: new
+- Scope: Desk-based monumental civic heritage and surrounding public waterfront; excludes seasonal Colectividades festival. Tower access and opening not verified.
+- Representative coordinates: -32.947, -60.63; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 9.1 / 8.4 / 8.5.
+- Categories: history:9.3 architecture:9.1 photography:9.0.
+- Overall: 86.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/plaza-de-mayo](../../../countries/AR/sights/plaza-de-mayo.yaml) | 8.0 / 7.9 / 9.3 / 8.2 / 7.3 | impact: 0.6; uniqueness: 0.6 vs peer |
+| [GY/georgetown-1763-monument](../../../countries/GY/sights/georgetown-1763-monument.yaml) | 8.0 / 8.6 / 9.0 / 7.9 / 7.6 | impact: 0.6; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 310 scope decisions
+
+13 additions, 9 source-linked provisional and 4 desk-based provisional, 5 90+, 26 ranking-row comparisons (13 international, 13 domestic). AR 116 ranked / 117 total, +52 since baseline 65, 26 new 90+ across four passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Lujan basilica and pilgrimage grouped, Obera distinct from Rosario festival, Areco public heritage excludes animal competitions, Mataderos fair and museum grouped. Mocona provincial park and Yaboti visitor circuit grouped, no unrestricted reserve access; border river water levels affect falls. APN northeast list (https://www.argentina.gob.ar/parquesnacionales/nea) and national overview (https://www.argentina.gob.ar/ambiente/contenidos/areas-protegidas) identify six named national parks in Northeast: Chaco, El Impenetrable, Iguazu, Ibera, Mburucuya, Rio Pilcomayo now represented; educational and strict reserves not counted as parks. Pre-Delta added in central region; remaining central and northwest parks pending. Four sub-90 urban landmarks desk-based, interior access and exact coordinates pending. Existing scores and one unassessed preserved. OPEN for remaining protected areas, regional landscapes and cultural heritage. Current permissions and schedules unverified; full Python validation and international calibration pending.

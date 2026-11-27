@@ -99,7 +99,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Anguilla](countries/AI/) (`AI`) | [3](countries/AI/cities.md) | [10](countries/AI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Anguilla) |
 | [Antarctica](countries/AQ/) (`AQ`) | [0](countries/AQ/cities.md) | [14](countries/AQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Antarctica) |
 | [Antigua and Barbuda](countries/AG/) (`AG`) | [10](countries/AG/cities.md) | [32](countries/AG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Antigua%20and%20Barbuda) |
-| [Argentina](countries/AR/) (`AR`) | [40](countries/AR/cities.md) | [104](countries/AR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Argentina) |
+| [Argentina](countries/AR/) (`AR`) | [40](countries/AR/cities.md) | [117](countries/AR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Argentina) |
 | [Armenia](countries/AM/) (`AM`) | [20](countries/AM/cities.md) | [55](countries/AM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Armenia) |
 | [Aruba](countries/AW/) (`AW`) | [2](countries/AW/cities.md) | [13](countries/AW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Aruba) |
 | [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [222](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
