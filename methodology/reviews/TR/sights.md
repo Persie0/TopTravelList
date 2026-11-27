@@ -1970,3 +1970,276 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-tr-upper-duden-waterfall — Upper Düden Waterfall and Cave Park Antalya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/upper-duden-waterfall.yaml)
+- Action: new
+- Precise subject and limitations: Inland Kepez waterfall and park with cave-side paths; separate from coastal Lower Düden. Path access and flow conditional. Coordinate at waterfall.
+- Location check: 36.96382, 30.72691; [published representative point](https://mapcarta.com/28494114), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.kulturportali.gov.tr/turkiye/antalya/gezilecekyer/duden-selalesi); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/lower-duden-waterfall](../../../countries/TR/sights/lower-duden-waterfall.yaml) | 8.8 / 8.7 / 8.0 / 8.7 / 8.0 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/marmore](../../../countries/IT/sights/marmore.yaml) | 9.0 / 9.0 / 9.0 / 8.9 / 8.9 | significance: -1.0 vs peer; depth: -0.7 vs peer. |
+| [PT/caldeira-velha](../../../countries/PT/sights/caldeira-velha.yaml) | 8.8 / 8.7 / 8.4 / 8.8 / 8.3 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [GR/acheron-springs](../../../countries/GR/sights/acheron-springs.yaml) | 8.8 / 8.7 / 8.3 / 8.9 / 8.6 | depth: -0.4 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Attractive wooded cascade. |
+| Uniqueness | 8.5 | Distinct karst spring setting but familiar waterfall form. |
+| Significance | 8.0 | Regional geological value. |
+| Experience | 8.8 | Established park walks and views. |
+| Depth | 8.2 | Compact visitor precinct. |
+
+- Applicable categories: nature:9.0, photography:9.1, relaxation:8.9.
+- Computed worldwide overall: 84.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-antalya-kaleici — Kaleiçi Historic District and Harbour Antalya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/antalya-kaleici.yaml)
+- Action: new
+- Precise subject and limitations: Walled historic streets, Hadrian's Gate and old harbour grouped; representative gateway point, excludes separately ticketed museums and wider Antalya.
+- Location check: 36.88527, 30.70856; [published representative point](https://belka.travel/en/places/hadrians-gate/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.antalya.gov.tr/kaleici); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/chania-venetian-harbour](../../../countries/GR/sights/chania-venetian-harbour.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 8.7 | significance: +0.2 vs peer; depth: +0.2 vs peer. |
+| [GR/nafplio-historic-centre](../../../countries/GR/sights/nafplio-historic-centre.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [TR/safranbolu-historic](../../../countries/TR/sights/safranbolu-historic.yaml) | 8.7 / 8.9 / 8.8 / 8.6 / 8.4 | depth: +0.5 vs peer; experience: +0.4 vs peer. |
+| [GR/corfu-old-town](../../../countries/GR/sights/corfu-old-town.yaml) | 9.2 / 9.1 / 9.2 / 9.1 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Scenic old harbour and historic streets. |
+| Uniqueness | 8.8 | Distinct layered port town architecture. |
+| Significance | 8.9 | Significant Roman through Ottoman heritage. |
+| Experience | 9.0 | Established walking experience. |
+| Depth | 8.9 | Multiple connected landmarks. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.3, culture:9.1.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-side-ancient-city — Side Ancient City and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/side-ancient-city.yaml)
+- Action: new
+- Precise subject and limitations: Ancient peninsula, temple precinct, theatre and bathhouse museum (https://muze.gov.tr/muze-detay?distId=SDO&sectionId=SDM01) grouped; excludes resort beaches. Ministry reports theatre closed since 29 November 2024 pending restoration; normal-condition score, no reopening assumed. Representative theatre point.
+- Location check: 36.76803, 31.39063; [published representative point](https://www.belka.travel/en/places/side-ancient-theatre/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/1971-antalya-side-archeological-site/1971/4); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/aspendos](../../../countries/TR/sights/aspendos.yaml) | 8.9 / 8.8 / 9.1 / 8.7 / 8.1 | depth: +0.9 vs peer; experience: +0.2 vs peer. |
+| [TR/perge](../../../countries/TR/sights/perge.yaml) | 8.7 / 8.5 / 8.9 / 8.6 / 8.6 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer. |
+| [TR/ephesus](../../../countries/TR/sights/ephesus.yaml) | 9.4 / 9.2 / 9.4 / 9.2 / 9.3 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Impressive ruins and seaside temples. |
+| Uniqueness | 8.9 | Distinct ancient port ensemble. |
+| Significance | 9.1 | Important Pamphylian and Roman heritage. |
+| Experience | 8.9 | Established archaeological and museum visits. |
+| Depth | 9.0 | Multiple monuments and museum. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.2, culture:9.0.
+- Computed worldwide overall: 89.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-myra-rock-tombs-theatre — Myra Archaeological Site and Rock Tombs — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/myra-rock-tombs-theatre.yaml)
+- Action: new
+- Precise subject and limitations: Rock-cut Lycian tombs and theatre grouped; excludes separately ranked St Nicholas Church and Kekova. Published car park representative point.
+- Location check: 36.257495, 29.986615; [published representative point](https://www.antalya-tourisme.com/en/myra.html), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/1966-antalya-myra-archaeological-site/1966/4); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/xanthos-letoon](../../../countries/TR/sights/xanthos-letoon.yaml) | 8.5 / 8.8 / 9.2 / 8.4 / 8.3 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [TR/aspendos](../../../countries/TR/sights/aspendos.yaml) | 8.9 / 8.8 / 9.1 / 8.7 / 8.1 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [GR/kerameikos](../../../countries/GR/sights/kerameikos.yaml) | 8.5 / 8.9 / 9.2 / 8.7 / 8.8 | impact: +0.4 vs peer; significance: -0.3 vs peer. |
+| [IT/etruscan-necropolises](../../../countries/IT/sights/etruscan-necropolises.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | significance: -0.5 vs peer; depth: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dramatic cliff-cut tomb facades and theatre. |
+| Uniqueness | 9.1 | Distinct Lycian funerary architecture. |
+| Significance | 8.9 | Significant regional ancient heritage. |
+| Experience | 8.7 | Established archaeological visit. |
+| Depth | 8.5 | Several complementary monuments. |
+
+- Applicable categories: history:9.3, architecture:9.3, photography:9.2.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-olympos-archaeological-site — Olympos Archaeological Site Antalya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/olympos-archaeological-site.yaml)
+- Action: new
+- Precise subject and limitations: Ancient Lycian ruins along river within coastal valley; excludes Tahtalı cable car and wider coastal national park, beach recreation not separately scored.
+- Location check: 36.393567, 30.470335; [published representative point](https://www.antalya-tourisme.com/en/olympos.html), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/1967-antalya-olympos-archaeological-site/1967/4); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/termessos](../../../countries/TR/sights/termessos.yaml) | 9.0 / 8.8 / 8.8 / 8.5 / 8.5 | impact: -0.3 vs peer; experience: +0.3 vs peer. |
+| [TR/perge](../../../countries/TR/sights/perge.yaml) | 8.7 / 8.5 / 8.9 / 8.6 / 8.6 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer. |
+| [TR/sagalassos](../../../countries/TR/sights/sagalassos.yaml) | 8.9 / 8.7 / 8.9 / 8.6 / 8.5 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [GR/ancient-kamiros](../../../countries/GR/sights/ancient-kamiros.yaml) | 8.7 / 8.8 / 9.0 / 8.7 / 8.8 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Evocative ruins in wooded valley. |
+| Uniqueness | 8.7 | Distinct riverine ancient city setting. |
+| Significance | 8.8 | Significant Lycian heritage. |
+| Experience | 8.8 | Established archaeological walking visit. |
+| Depth | 8.8 | Numerous scattered structures. |
+
+- Applicable categories: history:9.2, architecture:9.0, nature:9.0, photography:9.1.
+- Computed worldwide overall: 87.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-tahtali-cable-car — Tahtalı Mountain and Olympos Cable Car — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/tahtali-cable-car.yaml)
+- Action: new
+- Precise subject and limitations: Cable car ascent and summit panorama, representative summit point; distinct from ancient Olympos ruins. Within Beydağları coastal national park; future park aggregate must distinguish broader landscape. Weather-dependent operation; optional extreme activities excluded.
+- Location check: 36.53629, 30.442181; [published representative point](https://www.outdooractive.com/en/poi/antalya/mount-tahtali/803985900/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.olymposteleferik.com/en/aboutus.html); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/seceda](../../../countries/IT/sights/seceda.yaml) | 9.5 / 9.2 / 8.7 / 9.1 / 8.4 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [GR/mount-olympus](../../../countries/GR/sights/mount-olympus.yaml) | 9.2 / 9.1 / 9.3 / 9.0 / 9.2 | significance: -1.2 vs peer; depth: -1.0 vs peer. |
+| [PT/cabo-girao](../../../countries/PT/sights/cabo-girao.yaml) | 9.0 / 8.6 / 8.0 / 8.6 / 7.7 | experience: +0.5 vs peer; depth: +0.5 vs peer. |
+| [TR/lower-duden-waterfall](../../../countries/TR/sights/lower-duden-waterfall.yaml) | 8.8 / 8.7 / 8.0 / 8.7 / 8.0 | experience: +0.4 vs peer; impact: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic coastal mountain panorama. |
+| Uniqueness | 8.7 | Distinct sea-to-summit setting. |
+| Significance | 8.1 | Regional natural significance. |
+| Experience | 9.1 | Established cable car excursion. |
+| Depth | 8.2 | Focused summit experience. |
+
+- Applicable categories: nature:9.2, photography:9.4, adventure:9.1.
+- Computed worldwide overall: 87.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-lake-salda — Lake Salda Protected Shoreline Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/lake-salda.yaml)
+- Action: new
+- Precise subject and limitations: Protected lake and permitted shoreline viewpoints; representative lake centre. No unrestricted bathing, camping or access to fragile white shores assumed. Separate from Lake Tuz and Pamukkale.
+- Location check: 37.55, 29.6833; [published representative point](https://www.keybiodiversityareas.org/en/site/factsheet/770/site), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://goturkiye.com/routes/1-day-route-lake-salda); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/lake-tuz](../../../countries/TR/sights/lake-tuz.yaml) | 8.5 / 8.5 / 8.4 / 8.2 / 7.5 | depth: +1.0 vs peer; impact: +0.5 vs peer. |
+| [GR/prespa](../../../countries/GR/sights/prespa.yaml) | 8.8 / 9.0 / 9.0 / 8.8 / 9.0 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+| [IT/lake-braies](../../../countries/IT/sights/lake-braies.yaml) | 9.4 / 9.0 / 8.5 / 9.0 / 8.2 | impact: -0.4 vs peer; experience: -0.4 vs peer. |
+| [GR/sarakiniko-milos](../../../countries/GR/sights/sarakiniko-milos.yaml) | 9.3 / 9.1 / 8.2 / 8.9 / 8.2 | significance: +0.4 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking white mineral shore and blue water. |
+| Uniqueness | 9.0 | Distinct mineral lake landscape. |
+| Significance | 8.6 | Important regional ecological and geological heritage. |
+| Experience | 8.6 | Established scenic observation in designated areas. |
+| Depth | 8.5 | Multiple shoreline views within protected basin. |
+
+- Applicable categories: nature:9.4, photography:9.4, relaxation:8.8.
+- Computed worldwide overall: 88.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

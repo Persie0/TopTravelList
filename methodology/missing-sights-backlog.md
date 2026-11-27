@@ -1138,3 +1138,15 @@ Seven additions, 28 peer rows. Greece 110 ranked / 111 total, 46 additions since
 - [x] TR — Lower Düden Waterfall and Coastal Park Antalya: 85.20/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Türkiye 59 ranked / 59 total. Museum collections distinguished from ruins; Bosphorus cruise exterior water views only; Lower Düden distinct from Upper Düden. Chora deferred for parent overlap check (UNESCO https://whc.unesco.org/en/list/356); Antalya archaeological museum replacement deferred pending defined exhibition scope (https://www.antalyakorfez.com/antalya-arkeoloji-muzesinin-acilisi-2027ye-kaldi-nedenini-bakan-ersoy-acikladi). Partial Anatolian Civilizations hall closure documented. Next bounded screen: Upper Düden Waterfall, Antalya Kaleiçi, Side ancient city, Myra rock tombs and theatre, Ihlara Valley (Cappadocia overlap), Olympos archaeological site, Tahtalı cable car and Lake Salda. Full Python validation pending.
+
+### Pass 99 — Türkiye Mediterranean heritage and natural landscapes
+
+- [x] TR — Upper Düden Waterfall and Cave Park Antalya: 84.15/100 (source-linked-unverified).
+- [x] TR — Kaleiçi Historic District and Harbour Antalya: 88.90/100 (source-linked-unverified).
+- [x] TR — Side Ancient City and Museum: 89.80/100 (source-linked-unverified).
+- [x] TR — Myra Archaeological Site and Rock Tombs: 88.80/100 (source-linked-unverified).
+- [x] TR — Olympos Archaeological Site Antalya: 87.45/100 (source-linked-unverified).
+- [x] TR — Tahtalı Mountain and Olympos Cable Car: 87.10/100 (source-linked-unverified).
+- [x] TR — Lake Salda Protected Shoreline Landscape: 88.10/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Türkiye 66 ranked / 66 total. Ihlara deferred because Cappadocia scope overlap remains unresolved (https://whc.unesco.org/en/list/0357/maps/); do not claim precise component boundary confirmed. Side theatre restoration closure documented, Kaleiçi includes Hadrian's Gate and harbour, Myra excludes St Nicholas Church, Olympos ruins distinct from Tahtalı cable car, Salda protected access constraints. Next bounded screen: Phaselis, Çıralı Yanartaş, Köprülü Canyon, Butterfly Valley Fethiye, Patara ancient city and beach, Lycian Way (scope check), Mount Erciyes and Mount Ararat. Full Python validation pending.
