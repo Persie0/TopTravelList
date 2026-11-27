@@ -4723,3 +4723,17 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Killarumiyoq Inca Archaeological Sanctuary and Carved Stone Landscape: 85.25/100 (desk-based provisional).
 
 11 additions, 7 source-linked provisional, 4 desk-based provisional, 5 90+, 42 ranking-row comparisons (20 international). PE 209 ranked / 211 total, +145 since baseline 66. UNESCO intangible inscriptions apply to Huaconada, Hatajo/Pallitas and Wititi practices, not to a whole destination; Wititi scoped to Chivay December event, Hatajo/Pallitas combined and distinguished from Huanuco Negritos. Tunantada distinct from Huaylarsh. Pukllay Andahuaylas distinguished from Pomacocha local heritage designation. Lares excludes Ollantaytambo and Inca Trail; Tipon excludes Pikillacta. Qenqo/Puka Pukara/Tambomachay grouped candidate deferred pending Sacsayhuaman scope check. Earlier UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Earlier restricted-area and serial-scope deferrals retained. Queue OPEN after five high-value festival omissions; next screen remaining public manifestations from UNESCO intangible inventory and distinctive regional landscapes; no quotas. Existing scores and two unassessed preserved. Coordinates approximate; schedules and current access unverified.
+
+### Pass 266 — Peru living heritage, culinary route and regional landscapes
+
+- [x] PE — Moquegua Sarawja Charango de Oro Aymara Music and Dance Festival: 91.55/100 (source-linked-unverified).
+- [x] PE — Corongo San Pedro Festival Water Judges and Pallas Dance: 91.20/100 (source-linked-unverified).
+- [x] PE — Arequipa Traditional Picantería Culinary Heritage Route: 91.25/100 (source-linked-unverified).
+- [x] PE — Marcahuasi Highland Stone Plateau and Camping Trails: 88.70/100 (source-linked-unverified).
+- [x] PE — Chulucanas and La Encantada Traditional Ceramic Artisan Workshops: 88.25/100 (source-linked-unverified).
+- [x] PE — Laguna Parón Cordillera Blanca Glacial Lake Viewpoints: 86.70/100 (desk-based provisional).
+- [x] PE — Atiquipa Coastal Fog Forest Conservation Landscape: 86.95/100 (desk-based provisional).
+- [x] PE — Moquegua Historic Centre and Traditional Adobe Architecture: 85.25/100 (desk-based provisional).
+- [x] PE — Canta Obrajillo Chillón Valley Highland Village and River Landscape: 83.60/100 (desk-based provisional).
+
+9 additions, 5 source-linked provisional, 4 desk-based provisional, 3 90+, 31 ranking-row comparisons (12 international). PE 218 ranked / 220 total, +154 since baseline 66. UNESCO intangible inventory inspected (https://ich.unesco.org/en/state/peru-PE?info=elements-on-the-lists); 2025 Sarawja inscription and public Somoa 2026 festival verified; Corongo inscription refers to water judges system not festival; picanteria national heritage not UNESCO inscription. Zápara oral traditions, Eshuva sacred prayers and Awajún pottery deferred pending consent-based named visitor experiences; no automatic sightseeing entry for safeguarding programmes. Taquile textile heritage covered by existing island scope provisionally, ceviche covered by Surquillo, other previously rated traditions retained. Parón nested in Huascarán, non-additive. Previous UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Queue OPEN pending final named regional candidates and prior deferrals; no quotas. Existing scores and two unassessed preserved. Coordinates approximate; current access/schedules unverified.

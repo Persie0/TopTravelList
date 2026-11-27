@@ -4464,3 +4464,203 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 265 scope decisions
 
 11 additions, 7 source-linked provisional, 4 desk-based provisional, 5 90+, 42 ranking-row comparisons (20 international). PE 209 ranked / 211 total, +145 since baseline 66. UNESCO intangible inscriptions apply to Huaconada, Hatajo/Pallitas and Wititi practices, not to a whole destination; Wititi scoped to Chivay December event, Hatajo/Pallitas combined and distinguished from Huanuco Negritos. Tunantada distinct from Huaylarsh. Pukllay Andahuaylas distinguished from Pomacocha local heritage designation. Lares excludes Ollantaytambo and Inca Trail; Tipon excludes Pikillacta. Qenqo/Puka Pukara/Tambomachay grouped candidate deferred pending Sacsayhuaman scope check. Earlier UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Earlier restricted-area and serial-scope deferrals retained. Queue OPEN after five high-value festival omissions; next screen remaining public manifestations from UNESCO intangible inventory and distinctive regional landscapes; no quotas. Existing scores and two unassessed preserved. Coordinates approximate; schedules and current access unverified.
+
+## sight-pe-moquegua-sarawja — Moquegua Sarawja Charango de Oro Aymara Music and Dance Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/moquegua-sarawja.yaml)
+- Action: new
+- Scope: Public regional Charango de Oro festival, 25th edition in Somoa in 2026. UNESCO inscription of the Sarawja practice in 2025; no claim of event inscription or access to private rituals. Representative point is Carumas district, not fixed festival venue.
+- Representative coordinates: -16.81, -70.69; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.55/100.
+- Source: https://ich.unesco.org/en/Decisions/20.COM/7.b.35
+- Source: https://www.gob.pe/institucion/regionmoquegua/noticias/1383379-gobernadora-participo-del-xxv-festival-del-sarawja-charango-de-oro-somoa-2026
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huaconada-mito](../../../countries/PE/sights/huaconada-mito.yaml) | 9.1 / 9.4 / 9.4 / 9.0 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/chivay-wititi](../../../countries/PE/sights/chivay-wititi.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: -0.1; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-corongo-san-pedro — Corongo San Pedro Festival Water Judges and Pallas Dance — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/corongo-san-pedro.yaml)
+- Action: new
+- Scope: Public June patronal festival with Pallas dancers and water judges organizing celebrations. UNESCO inscription in 2017 applies to the traditional water management system, not the whole festival. Exclude private ceremonies and ordinary administration.
+- Representative coordinates: -8.57, -77.9; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.4 / 8.9 / 9.1.
+- Categories: culture:9.4 history:9.4 photography:9.2.
+- Overall: 91.20/100.
+- Source: https://ich.unesco.org/en/RL/traditional-system-of-corongo-s-water-judges-01155
+- Source: https://www.gob.pe/institucion/municorongo/campa%C3%B1as/39244-conoce-el-tradicional-baile-de-las-pallas-de-corongo
+- Source: https://www.unilim.fr/trahs/7270
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huaconada-mito](../../../countries/PE/sights/huaconada-mito.yaml) | 9.1 / 9.4 / 9.4 / 9.0 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/cocharcas-pilgrimage](../../../countries/PE/sights/cocharcas-pilgrimage.yaml) | 8.9 / 9.1 / 9.3 / 9.0 / 9.0 | impact: +0.0; uniqueness: +0.2 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [BR/aparecida-national-sanctuary](../../../countries/BR/sights/aparecida-national-sanctuary.yaml) | 9.2 / 9.1 / 9.6 / 9.2 / 9.2 | impact: -0.3; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-arequipa-picanteria-route — Arequipa Traditional Picantería Culinary Heritage Route — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/arequipa-picanteria-route.yaml)
+- Action: new
+- Scope: Wood-fired regional culinary tradition, nationally designated in 2014, with dedicated tourism route. Distinct from architectural city core and Lima market experience; no UNESCO intangible inscription claimed.
+- Representative coordinates: -16.4, -71.54; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.2 / 9.1.
+- Categories: food:9.4 culture:9.4 history:9.2.
+- Overall: 91.25/100.
+- Source: https://www.peru.travel/experiences/tour-of-arequipa-s-traditional-restaurants
+- Source: https://sociedadpicanteradearequipa.pe/picanteria/
+- Source: https://www.peru.travel/es/inspirate/picanterias-arequipenas-simbolo-de-sabor-y-tradicion
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/lima-surquillo-culinary](../../../countries/PE/sights/lima-surquillo-culinary.yaml) | 9.0 / 9.2 / 9.4 / 9.3 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/ica-pisco-route](../../../countries/PE/sights/ica-pisco-route.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PE/villa-rica-coffee](../../../countries/PE/sights/villa-rica-coffee.yaml) | 8.7 / 8.9 / 9.0 / 9.1 / 9.0 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [CO/coffee-cultural-landscape-of-colombia](../../../countries/CO/sights/coffee-cultural-landscape-of-colombia.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.4 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [CO/coffee-farm-visitor-experiences](../../../countries/CO/sights/coffee-farm-visitor-experiences.yaml) | 7.9 / 8.6 / 8.3 / 8.9 / 8.0 | impact: +1.1; uniqueness: +0.5 vs peer |
+| [BR/vale-dos-vinhedos](../../../countries/BR/sights/vale-dos-vinhedos.yaml) | 8.8 / 8.6 / 8.8 / 9.1 / 9.0 | impact: +0.2; uniqueness: +0.5 vs peer |
+| [BO/valle-de-la-concepcion-wine-area](../../../countries/BO/sights/valle-de-la-concepcion-wine-area.yaml) | 7.7 / 7.8 / 7.2 / 8.5 / 7.8 | impact: +1.3; uniqueness: +1.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-marcahuasi — Marcahuasi Highland Stone Plateau and Camping Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/marcahuasi.yaml)
+- Action: new
+- Scope: Distinct highland rock formations reached from San Pedro de Casta; official tourism sources describe trails and camping. No claim of artificial origin for rock figures.
+- Representative coordinates: -11.78, -76.58; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.6 / 8.8 / 8.8.
+- Categories: nature:9.3 photography:9.4 adventure:9.3.
+- Overall: 88.70/100.
+- Source: https://www.gob.pe/institucion/mincetur/noticias/184936-cinco-bosques-de-piedra-que-cautivan-la-imaginacion-de-sus-visitantes
+- Source: https://www.peru.travel/stories/here-are-the-impressive-stone-forests-of-peru
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huayllay](../../../countries/PE/sights/huayllay.yaml) | 9.3 / 9.3 / 8.9 / 8.8 / 9.0 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [PE/pampachiri-stone-forest](../../../countries/PE/sights/pampachiri-stone-forest.yaml) | 8.8 / 8.9 / 8.4 / 8.6 / 8.5 | impact: +0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chulucanas-ceramics — Chulucanas and La Encantada Traditional Ceramic Artisan Workshops — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chulucanas-ceramics.yaml)
+- Action: new
+- Scope: Ceramic heritage and visitor workshops; Chulucanas pottery protected denomination of origin since 2006. Community and artisan consent required.
+- Representative coordinates: -5.09, -80.16; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.1 / 8.8 / 8.8.
+- Categories: culture:9.3 history:9.2 photography:9.1.
+- Overall: 88.25/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_ficha=13983
+- Source: https://www.mipiura.com/en/places/chulucanas-y-la-encantada/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/quinua-artisan-village](../../../countries/PE/sights/quinua-artisan-village.yaml) | 8.4 / 8.6 / 8.9 / 8.7 / 8.6 | impact: +0.2; uniqueness: +0.3 vs peer |
+| [PE/chazuta-ceramics](../../../countries/PE/sights/chazuta-ceramics.yaml) | 8.4 / 8.8 / 9.0 / 8.7 / 8.7 | impact: +0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-laguna-paron — Laguna Parón Cordillera Blanca Glacial Lake Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/laguna-paron.yaml)
+- Action: new
+- Scope: Separate scenic lake visit from Laguna 69 and Santa Cruz; nested in Huascaran and non-additive to parent park. Desk assessment; no current access claim.
+- Representative coordinates: -8.99, -77.68; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.3 / 8.8 / 8.0 / 8.6 / 7.9.
+- Categories: nature:9.4 photography:9.4 adventure:9.1.
+- Overall: 86.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/laguna-69](../../../countries/PE/sights/laguna-69.yaml) | 9.2 / 8.8 / 7.5 / 8.6 / 7.3 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PE/llanganuco-lakes](../../../countries/PE/sights/llanganuco-lakes.yaml) | 8.9 / 8.4 / 7.6 / 8.6 / 7.6 | impact: +0.4; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lomas-atiquipa — Atiquipa Coastal Fog Forest Conservation Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lomas-atiquipa.yaml)
+- Action: new
+- Scope: Distinct southern fog oasis and community conservation landscape, visits only with permission; no guarantee of current trails. Desk assessment.
+- Representative coordinates: -15.78, -74.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.7 / 8.4 / 8.6.
+- Categories: nature:9.3 wildlife:9.2 photography:9.2.
+- Overall: 86.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/lomas-de-lachay](../../../countries/PE/sights/lomas-de-lachay.yaml) | 8.7 / 8.8 / 8.5 / 8.7 / 8.6 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/lomas-lucumo](../../../countries/PE/sights/lomas-lucumo.yaml) | 8.5 / 8.6 / 8.3 / 8.7 / 8.5 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-moquegua-historic-centre — Moquegua Historic Centre and Traditional Adobe Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/moquegua-historic-centre.yaml)
+- Action: new
+- Scope: Historic streets and public architectural heritage distinct from Sarawja regional event. Desk assessment.
+- Representative coordinates: -17.19, -70.93; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.8 / 8.6 / 8.6.
+- Categories: architecture:9.2 history:9.2 culture:9.1.
+- Overall: 85.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huancavelica-historic-centre](../../../countries/PE/sights/huancavelica-historic-centre.yaml) | 8.5 / 8.6 / 8.9 / 8.5 / 8.7 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/cajamarca-historic-centre](../../../countries/PE/sights/cajamarca-historic-centre.yaml) | 8.6 / 8.6 / 9.1 / 8.6 / 8.7 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-canta-obrajillo — Canta Obrajillo Chillón Valley Highland Village and River Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/canta-obrajillo.yaml)
+- Action: new
+- Scope: River valley and village scenery separate from Marcahuasi and Nor Yauyos; desk assessment.
+- Representative coordinates: -11.47, -76.62; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.3 / 8.2 / 8.7 / 8.5.
+- Categories: nature:9.1 photography:9.1 relaxation:9.0.
+- Overall: 83.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tarma-historic-centre](../../../countries/PE/sights/tarma-historic-centre.yaml) | 8.4 / 8.4 / 8.3 / 8.6 / 8.5 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/nor-yauyos-cochas](../../../countries/PE/sights/nor-yauyos-cochas.yaml) | 9.4 / 9.2 / 9.0 / 9.0 / 9.2 | impact: -1.1; uniqueness: -0.9 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 266 scope decisions
+
+9 additions, 5 source-linked provisional, 4 desk-based provisional, 3 90+, 31 ranking-row comparisons (12 international). PE 218 ranked / 220 total, +154 since baseline 66. UNESCO intangible inventory inspected (https://ich.unesco.org/en/state/peru-PE?info=elements-on-the-lists); 2025 Sarawja inscription and public Somoa 2026 festival verified; Corongo inscription refers to water judges system not festival; picanteria national heritage not UNESCO inscription. Zápara oral traditions, Eshuva sacred prayers and Awajún pottery deferred pending consent-based named visitor experiences; no automatic sightseeing entry for safeguarding programmes. Taquile textile heritage covered by existing island scope provisionally, ceviche covered by Surquillo, other previously rated traditions retained. Parón nested in Huascarán, non-additive. Previous UNESCO World Heritage 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Queue OPEN pending final named regional candidates and prior deferrals; no quotas. Existing scores and two unassessed preserved. Coordinates approximate; current access/schedules unverified.
