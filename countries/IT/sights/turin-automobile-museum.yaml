@@ -1,0 +1,16 @@
+id: sight-it-turin-automobile-museum
+name: "National Automobile Museum Turin"
+location:
+  country_code: IT
+  latitude: 45.03186
+  longitude: 7.67349
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.2
+    history: 9.1
+    family: 9.0

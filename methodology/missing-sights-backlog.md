@@ -1012,3 +1012,16 @@ Eight additions, 32 peer rows; Italy 133 ranked / 145 total. Existing ratings pr
 - [x] IT — Catacombs of San Gennaro and San Gaudioso Naples: 89.10/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows; Italy 141 ranked / 153 total. Existing ratings preserved. San Fruttuoso abbey and immediate cove distinct from provisional Portofino park; Pantelleria already represented. Catacombs of San Gennaro and San Gaudioso grouped; Piazza San Gaetano tour distinct. Gardaland main park only. Next bounded screen: Milan Brera, Sforza Castle, Turin National Automobile Museum, Florence Pitti/Boboli, Bologna Asinelli (access advisory), Segesta, Selinunte, Sardinia Cala Goloritzé scope. Full Python validation and independent corroboration pending.
+
+### Pass 89 — Italian museum, archaeology, tower and thermal sites
+
+- [x] IT — Pinacoteca di Brera Milan: 90.25/100 (source-linked-unverified).
+- [x] IT — Sforza Castle and Museums Milan: 90.10/100 (source-linked-unverified).
+- [x] IT — National Automobile Museum Turin: 88.35/100 (source-linked-unverified).
+- [x] IT — Pitti Palace Museums Florence: 91.40/100 (source-linked-unverified).
+- [x] IT — Two Towers of Bologna (Asinelli and Garisenda): 87.35/100 (source-linked-unverified).
+- [x] IT — Segesta Archaeological Park: 89.35/100 (source-linked-unverified).
+- [x] IT — Selinunte Archaeological Park: 90.20/100 (source-linked-unverified).
+- [x] IT — Saturnia Cascate del Mulino Thermal Pools: 86.60/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Italy 149 ranked / 161 total. Boboli already within Medici serial property (https://whc.unesco.org/en/list/0175/maps/); Pitti interiors only. Cala Goloritzé excluded as overlapping Gulf of Orosei coastline (https://www.sardegnaturismo.it/en/explore/cala-goloritze). Asinelli currently closed per official tourism page, established experience rated without assuming reopening. Selinunte excludes Cave di Cusa and Pantelleria. Next bounded screen: Milan science and technology museum, Turin Superga, Bologna Archiginnasio, Florence Bargello, Rome Baths of Caracalla, Sicily Zingaro Reserve, Scala dei Turchi, Erice historic town. Full Python validation pending.

@@ -5432,3 +5432,315 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-it-pinacoteca-brera — Pinacoteca di Brera Milan — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/pinacoteca-brera.yaml)
+- Action: new
+- Precise subject and limitations: Gallery of Italian and European painting in Palazzo Brera; excludes wider Brera district.
+- Location check: 45.47224, 9.18841; [published representative point](https://mapcarta.com/26244550/Map), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://pinacotecabrera.org/en/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | 9.4 / 9.4 / 9.7 / 9.2 / 9.5 | significance: -0.5 vs peer; depth: -0.5 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/accademia-gallery-florence](../../../countries/IT/sights/accademia-gallery-florence.yaml) | 9.3 / 9.4 / 9.4 / 8.9 / 8.4 | depth: +0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | significance: -0.2 vs peer; depth: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Exceptional painting collection. |
+| Uniqueness | 9.0 | Distinct Italian painting holdings. |
+| Significance | 9.2 | Important national collection. |
+| Experience | 8.9 | Dedicated gallery route. |
+| Depth | 9.0 | Multiple substantial galleries. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:8.9.
+- Computed worldwide overall: 90.25/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-sforza-castle — Sforza Castle and Museums Milan — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/sforza-castle.yaml)
+- Action: new
+- Precise subject and limitations: Castle courtyards and eight museums as one ensemble; excludes separate Sempione park.
+- Location check: 45.4706, 9.1797; [published representative point](https://castello-sforzesco.milano.it/en/come-arrivare/), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.milanocastello.it/i-musei/i-musei-del-castello-sforzesco); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/castel-sant-angelo](../../../countries/IT/sights/castel-sant-angelo.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.9 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | depth: +0.5 vs peer; significance: +0.3 vs peer. |
+| [IT/castel-del-monte](../../../countries/IT/sights/castel-del-monte.yaml) | 9.1 / 9.3 / 9.3 / 8.7 / 8.0 | depth: +1.2 vs peer; uniqueness: -0.5 vs peer. |
+| [ES/alcazar-seville](../../../countries/ES/sights/alcazar-seville.yaml) | 9.4 / 9.3 / 9.3 / 9.2 / 9.0 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental brick fortress. |
+| Uniqueness | 8.8 | Distinct Renaissance complex. |
+| Significance | 9.2 | Important Milanese heritage. |
+| Experience | 9.0 | Courtyard and museum circuits. |
+| Depth | 9.2 | Multiple museum collections. |
+
+- Applicable categories: history:9.3, architecture:9.3, culture:9.2, photography:9.1.
+- Computed worldwide overall: 90.10/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-turin-automobile-museum — National Automobile Museum Turin — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/turin-automobile-museum.yaml)
+- Action: new
+- Precise subject and limitations: Automotive history and design galleries, not Turin industrial heritage landscape.
+- Location check: 45.03186, 7.67349; [published representative point](https://mapcarta.com/36025284), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.museoauto.com/en/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/mole-antonelliana](../../../countries/IT/sights/mole-antonelliana.yaml) | 8.9 / 9.0 / 8.7 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | significance: -0.6 vs peer; depth: -0.5 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | experience: +0.3 vs peer; depth: +0.2 vs peer. |
+| [IT/genoa-aquarium](../../../countries/IT/sights/genoa-aquarium.yaml) | 8.7 / 8.4 / 8.3 / 9.0 / 8.9 | uniqueness: +0.5 vs peer; significance: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Strong vehicle displays. |
+| Uniqueness | 8.9 | Distinct automotive history collection. |
+| Significance | 8.8 | Important industrial design heritage. |
+| Experience | 9.0 | Engaging museum route. |
+| Depth | 8.9 | Extensive historical and technical exhibits. |
+
+- Applicable categories: culture:9.2, history:9.1, family:9.0.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-pitti-palace-museums — Pitti Palace Museums Florence — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/pitti-palace-museums.yaml)
+- Action: new
+- Precise subject and limitations: Royal palace interiors, Palatine Gallery and other palace collections; excludes Boboli Gardens already in Medici serial property (https://whc.unesco.org/en/list/0175/maps/) and separately rated Uffizi.
+- Location check: 43.76506, 11.24982; [published representative point](https://mapcarta.com/25741578), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.uffizi.it/en/pitti-palace); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/uffizi](../../../countries/IT/sights/uffizi.yaml) | 9.4 / 9.4 / 9.7 / 9.2 / 9.5 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.5 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/caserta](../../../countries/IT/sights/caserta.yaml) | 9.4 / 9.2 / 9.3 / 9.1 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/ajuda-national-palace](../../../countries/PT/sights/ajuda-national-palace.yaml) | 8.7 / 8.5 / 8.9 / 8.7 / 8.8 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Exceptional furnished rooms and paintings. |
+| Uniqueness | 9.0 | Distinct royal collection display. |
+| Significance | 9.3 | Major Florentine and Italian royal history. |
+| Experience | 9.0 | Multiple museum circuits. |
+| Depth | 9.2 | Extensive palace collections. |
+
+- Applicable categories: culture:9.4, architecture:9.3, history:9.3.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-bologna-two-towers — Two Towers of Bologna (Asinelli and Garisenda) — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/bologna-two-towers.yaml)
+- Action: new
+- Precise subject and limitations: Paired medieval towers and established Asinelli ascent (currently closed for maintenance per official tourism notice); no reopening assumed. Separate from portico network.
+- Location check: 44.4925, 11.346667; [published representative point](https://www.wikidata.org/wiki/Q16902146), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.bolognawelcome.com/en/places/towers-historic-buildings/the-two-towers-garisenda-and-degli-asinelli-eng); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/clerigos-church-tower](../../../countries/PT/sights/clerigos-church-tower.yaml) | 8.7 / 8.6 / 8.7 / 8.8 / 8.2 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer. |
+| [ES/tower-hercules](../../../countries/ES/sights/tower-hercules.yaml) | 8.8 / 9.1 / 9.3 / 8.7 / 7.9 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/bologna-porticoes](../../../countries/IT/sights/bologna-porticoes.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.1 | depth: -1.1 vs peer; experience: -0.5 vs peer. |
+| [IT/mole-antonelliana](../../../countries/IT/sights/mole-antonelliana.yaml) | 8.9 / 9.0 / 8.7 / 9.0 / 8.8 | depth: -0.8 vs peer; experience: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Striking medieval skyline. |
+| Uniqueness | 8.9 | Distinct leaning paired towers. |
+| Significance | 8.9 | Important medieval city heritage. |
+| Experience | 8.6 | Established ascent and exterior landmark. |
+| Depth | 8.0 | Compact tower experience. |
+
+- Applicable categories: architecture:9.2, history:9.1, photography:9.1.
+- Computed worldwide overall: 87.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-segesta-archaeological-park — Segesta Archaeological Park — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/segesta-archaeological-park.yaml)
+- Action: new
+- Precise subject and limitations: Doric temple, theatre and acropolis grouped; separate ancient city from Selinunte and Agrigento.
+- Location check: 37.94148, 12.83511; [published representative point](https://mapcarta.com/N6379006586), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://parchiarcheologici.regione.sicilia.it/en/parco-archeologico-segesta/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/agrigento](../../../countries/IT/sights/agrigento.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | depth: -0.5 vs peer; impact: -0.4 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | depth: -0.5 vs peer; experience: -0.2 vs peer. |
+| [IT/aquileia](../../../countries/IT/sights/aquileia.yaml) | 8.7 / 9.0 / 9.3 / 8.7 / 8.6 | impact: +0.3 vs peer; significance: -0.2 vs peer. |
+| [PT/conimbriga-roman-ruins](../../../countries/PT/sights/conimbriga-roman-ruins.yaml) | 8.8 / 8.8 / 9.1 / 8.8 / 8.9 | impact: +0.2 vs peer; depth: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Exceptional temple in rural setting. |
+| Uniqueness | 8.9 | Distinct temple and theatre landscape. |
+| Significance | 9.1 | Important ancient Sicilian history. |
+| Experience | 8.8 | Walkable archaeological visit. |
+| Depth | 8.7 | Multiple monuments within a bounded site. |
+
+- Applicable categories: history:9.3, architecture:9.3, photography:9.2.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-selinunte-archaeological-park — Selinunte Archaeological Park — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/selinunte-archaeological-park.yaml)
+- Action: new
+- Precise subject and limitations: Acropolis, temples and ancient city remains; excludes separate Cave di Cusa quarry and Pantelleria despite shared administration.
+- Location check: 37.5889, 12.8246; [published representative point](https://mapcarta.com/Selinunte), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitsicily.info/en/attrazione/selinunte/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/agrigento](../../../countries/IT/sights/agrigento.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | experience: -0.2 vs peer; impact: -0.1 vs peer. |
+| [IT/villa-adriana](../../../countries/IT/sights/villa-adriana.yaml) | 9.2 / 9.3 / 9.5 / 9.0 / 9.2 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [IT/etruscan-necropolises](../../../countries/IT/sights/etruscan-necropolises.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Extensive monumental ruins. |
+| Uniqueness | 9.0 | Distinct coastal Greek urban setting. |
+| Significance | 9.2 | Major ancient Greek colonial heritage. |
+| Experience | 8.8 | Substantial open-air visit. |
+| Depth | 9.1 | Large multi-zone archaeological precinct. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.2.
+- Computed worldwide overall: 90.20/100.
+- High-score challenge: 90+ provisional; compared with established anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-it-saturnia-mulino-springs — Saturnia Cascate del Mulino Thermal Pools — 2026-11-27
+
+- YAML: [source](../../../countries/IT/sights/saturnia-mulino-springs.yaml)
+- Action: new
+- Precise subject and limitations: Natural travertine terraces and public bathing pools; excludes separate paid spa resort.
+- Location check: 42.6485, 11.5129; [published representative point](https://www.hotspringsguides.com/hot-springs/cascate-del-mulino-saturnia-italy), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visittuscany.com/en/attractions/cascate-del-mulino-hot-springs/); source or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/caldeira-velha](../../../countries/PT/sights/caldeira-velha.yaml) | 8.8 / 8.7 / 8.4 / 8.8 / 8.3 | depth: -0.3 vs peer; significance: -0.2 vs peer. |
+| [PT/furnas](../../../countries/PT/sights/furnas.yaml) | 9.0 / 9.2 / 8.8 / 9.2 / 9.0 | depth: -1.0 vs peer; significance: -0.6 vs peer. |
+| [PT/porto-moniz-lava-pools](../../../countries/PT/sights/porto-moniz-lava-pools.yaml) | 8.8 / 8.9 / 8.1 / 9.0 / 8.3 | depth: -0.3 vs peer; impact: +0.1 vs peer. |
+| [IT/spa-towns](../../../countries/IT/sights/spa-towns.yaml) | 8.5 / 8.8 / 9.0 / 8.6 / 8.5 | significance: -0.8 vs peer; depth: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinct cascading travertine pools. |
+| Uniqueness | 8.8 | Unusual thermal landscape. |
+| Significance | 8.2 | Regional geological and bathing heritage. |
+| Experience | 9.0 | Established open-air bathing experience. |
+| Depth | 8.0 | Compact natural precinct. |
+
+- Applicable categories: nature:9.2, relaxation:9.3, photography:9.2.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
