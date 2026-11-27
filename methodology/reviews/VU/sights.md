@@ -655,3 +655,73 @@ Sources reviewed as pages or search excerpts on 2026-11-25. No aggregate YAML ra
 ### Museum relocation recheck (2026-11-26)
 
 The Cultural Centre's relocation announcement remains visible in indexed excerpts (https://vanuatuculturalcentre.gov.vu/index.php/tamtam-news/national-museum-new-location), but direct retrieval returned 404. Retain normal-condition institution rating and existing representative location, not a verified current admission point; do not treat the original building as open or infer current exhibit inventory. The two sacred properties remain incomplete because visitor scope is not established.
+
+## sight-vu-ambrym-rom — Ambrym Community-Hosted Rom Dance and Cultural Tours — 2026-11-27
+
+- YAML: [source](../../../countries/VU/sights/ambrym-rom.yaml)
+- Action: new
+- Scope: Public community-consented Rom dance and interpretation, not private initiation ceremonies or crater tours; broad north Ambrym locality.
+- Representative coordinates: -16.14, 168.12; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.3 / 9.0 / 8.9.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.vanuatu.travel/en/rom-dance-and-black-magic-tour, https://www.vanuatu.travel/en/hawor-cultural-tour, https://www.vanuatu.travel/en/things-to-do/culture.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VU/south-pentecost-naghol](../../../countries/VU/sights/south-pentecost-naghol.yaml) | 9.0 / 9.5 / 9.0 / 8.6 / 7.5 | depth: +1.4 vs peer; experience: +0.4 vs peer |
+| [VU/chief-roi-matas-domain](../../../countries/VU/sights/chief-roi-matas-domain.yaml) | 8.3 / 9.1 / 9.1 / 8.1 / 8.2 | experience: +0.9 vs peer; depth: +0.7 vs peer |
+| [PG/upper-sepik-river-basin](../../../countries/PG/sights/upper-sepik-river-basin.yaml) | 8.7 / 9.1 / 9.2 / 8.9 / 9.0 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-vu-tanna-blue-cave — Tanna Blue Cave Guided Coastal Grotto Visit — 2026-11-27
+
+- YAML: [source](../../../countries/VU/sights/tanna-blue-cave.yaml)
+- Action: new
+- Scope: Boat-access natural grotto, appropriate conditions only; no underwater passage assumed safe.
+- Representative coordinates: -19.39, 169.23; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.2 / 8.8 / 8.2.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 86.20/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.vanuatu.travel/en/plan/suggested-itineraries/three-days-on-tanna.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VU/millennium-cave](../../../countries/VU/sights/millennium-cave.yaml) | 8.8 / 8.6 / 7.5 / 9.0 / 8.5 | significance: +0.7 vs peer; depth: -0.3 vs peer |
+| [VU/riri-blue-hole](../../../countries/VU/sights/riri-blue-hole.yaml) | 8.7 / 8.3 / 7.0 / 8.7 / 7.5 | significance: +1.2 vs peer; depth: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-vu-imaio-cultural — Imaio Tanna Community Cultural Village Experience — 2026-11-27
+
+- YAML: [source](../../../countries/VU/sights/imaio-cultural.yaml)
+- Action: new
+- Scope: Community-hosted public dance, fire-making and food; no private rituals presumed.
+- Representative coordinates: -19.53, 169.39; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.3 / 8.8 / 8.8 / 8.7 / 8.6.
+- Categories: culture:9.3 history:9.2 family:9.0.
+- Overall: 86.15/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.vanuatu.travel/en/imaio-cultural-village.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [VU/south-pentecost-naghol](../../../countries/VU/sights/south-pentecost-naghol.yaml) | 9.0 / 9.5 / 9.0 / 8.6 / 7.5 | depth: +1.1 vs peer; impact: -0.7 vs peer |
+| [VU/national-museum-vanuatu](../../../countries/VU/sights/national-museum-vanuatu.yaml) | 7.0 / 8.1 / 8.3 / 8.0 / 7.5 | impact: +1.3 vs peer; depth: +1.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 214 scope decisions
+
+Ambrym crater trek deferred: Smithsonian/VMGD 19–25 November 2026 report alert level 3 and exclusion zones (https://volcano.si.edu/showreport.cfm?gvpvar=GVP.WVAR20261119-257040; https://www.vmgd.gov.vu/warnings/volcano); no permitted route assumed. Community Rom tours separate from crater tourism and private rites.

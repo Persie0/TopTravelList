@@ -832,3 +832,97 @@ These are scope decisions, not safety assessments or access guarantees. Sources 
 ### Heritage inventory recheck (2026-11-26)
 
 UNESCO country list https://whc.unesco.org/en/statesparties/pg (opened) confirms one inscribed and seven tentative properties, all represented at property level in this inventory. Six larger proposed areas retain incomplete visitor dimensions. Separate component inventory, full claim verification, precise representative points and visitor conditions remain outstanding.
+
+## sight-pg-goroka-show — Goroka Annual Cultural Show — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/goroka-show.yaml)
+- Action: new
+- Scope: Established recurring cultural gathering and public sing-sing performances; past edition supports intrinsic rating, no future event date assumed. 9.5 uniqueness/culture justified by distinctive gathering of diverse Highlands traditions, not assumed universal access.
+- Representative coordinates: -6.08, 145.39; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.5 / 9.3 / 9.1 / 8.9.
+- Categories: culture:9.5 photography:9.4 history:9.2.
+- Overall: 92.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/goroka-show/, https://www.dfa.gov.pg/cultural-events/.
+- 9.5 uniqueness and culture provisional, supported by distinct multi-community living traditions and recurring public gathering; independent high-score calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/upper-sepik-river-basin](../../../countries/PG/sights/upper-sepik-river-basin.yaml) | 8.7 / 9.1 / 9.2 / 8.9 / 9.0 | impact: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [PG/national-museum-art-gallery](../../../countries/PG/sights/national-museum-art-gallery.yaml) | 7.5 / 8.4 / 8.6 / 8.0 / 7.7 | impact: +1.8 vs peer; depth: +1.2 vs peer |
+| [VU/south-pentecost-naghol](../../../countries/VU/sights/south-pentecost-naghol.yaml) | 9.0 / 9.5 / 9.0 / 8.6 / 7.5 | depth: +1.4 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-mount-hagen-show — Mount Hagen Annual Cultural Show — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/mount-hagen-show.yaml)
+- Action: new
+- Scope: Recurring public cultural gathering at Queen's Park, distinct location and participating groups from Goroka; no future dates or guaranteed performances.
+- Representative coordinates: -5.86, 144.23; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.3 / 9.1 / 8.9.
+- Categories: culture:9.4 photography:9.4 history:9.2.
+- Overall: 92.55/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/hagen-show/, https://papuanewguinea.travel/cultural-tours/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/upper-sepik-river-basin](../../../countries/PG/sights/upper-sepik-river-basin.yaml) | 8.7 / 9.1 / 9.2 / 8.9 / 9.0 | impact: +0.6 vs peer; uniqueness: +0.3 vs peer |
+| [PG/national-museum-art-gallery](../../../countries/PG/sights/national-museum-art-gallery.yaml) | 7.5 / 8.4 / 8.6 / 8.0 / 7.7 | impact: +1.8 vs peer; depth: +1.2 vs peer |
+| [VU/south-pentecost-naghol](../../../countries/VU/sights/south-pentecost-naghol.yaml) | 9.0 / 9.5 / 9.0 / 8.6 / 7.5 | depth: +1.4 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-kumul-birdwatching — Kumul Lodge Highland Forest Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/kumul-birdwatching.yaml)
+- Action: new
+- Scope: Established highland forest birding, lodge is access base not hotel ranking; no guaranteed species encounters. Approximate highland locality.
+- Representative coordinates: -5.83, 143.97; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.2 / 9.0 / 8.9.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/business/kumul-lodge/, https://papuanewguinea.travel/stories/welcome-to-mount-hagen/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/varirata-national-park](../../../countries/PG/sights/varirata-national-park.yaml) | 8.0 / 8.1 / 8.0 / 8.2 / 7.9 | uniqueness: +1.2 vs peer; significance: +1.2 vs peer |
+| [PG/mount-wilhelm](../../../countries/PG/sights/mount-wilhelm.yaml) | 8.8 / 8.5 / 7.8 / 8.6 / 8.3 | significance: +1.4 vs peer; uniqueness: +0.8 vs peer |
+| [NZ/kapiti-island](../../../countries/NZ/sights/kapiti-island.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | depth: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-mount-giluwe — Mount Giluwe Guided Multi-Day Highland Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/mount-giluwe.yaml)
+- Action: new
+- Scope: Guided ascent of eroded volcanic massif, local permission and safety conditions required; separate from Mount Wilhelm.
+- Representative coordinates: -6.04, 143.89; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.7 / 8.7 / 9.0.
+- Categories: nature:9.3 adventure:9.4 photography:9.2.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/natural-landmarks/mount-giluwe/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/mount-wilhelm](../../../countries/PG/sights/mount-wilhelm.yaml) | 8.8 / 8.5 / 7.8 / 8.6 / 8.3 | significance: +0.9 vs peer; depth: +0.7 vs peer |
+| [PG/kokoda-track](../../../countries/PG/sights/kokoda-track.yaml) | 8.5 / 8.9 / 9.0 / 9.0 / 9.1 | impact: +0.5 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 214 scope decisions
+
+Goroka and Mount Hagen recurring seasonal events separately scoped, not future confirmed dates; local community consent and travel safety required. Kumul birdwatching distinct from Varirata. Existing restricted or tentative properties left unassessed.

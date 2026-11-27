@@ -51,4 +51,14 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 
 | NF | DONE — current queue | 12 ranked / 13 total; pass 209 adds 2. Distinct literary and folk museum tours. Kingston serial heritage overlap unchanged; Phillip Island restricted visitor scope remains unassessed. Independent factual, coordinate and scoring validation pending; reopen on concrete substantial omission. |
 
+| FJ | OPEN | 20 ranked / 22 total; pass 214 adds 4. Beqa shark diving deferred as existing lagoon scope already incorporates specialist shark diving context; Great White Wall within Rainbow Reef also deferred. Drawaqa manta route separate from other reef systems; no guaranteed sightings or pristine reef health. Upper Navua rafting distinct from Sigatoka River. Further regional screen and independent factual, coordinate and scoring validation pending. |
+
+| PG | OPEN | 17 ranked / 23 total; pass 214 adds 4. Goroka and Mount Hagen recurring seasonal events separately scoped, not future confirmed dates; local community consent and travel safety required. Kumul birdwatching distinct from Varirata. Existing restricted or tentative properties left unassessed. Further regional screen and independent factual, coordinate and scoring validation pending. |
+
+| VU | OPEN | 16 ranked / 18 total; pass 214 adds 3. Ambrym crater trek deferred: Smithsonian/VMGD 19–25 November 2026 report alert level 3 and exclusion zones (https://volcano.si.edu/showreport.cfm?gvpvar=GVP.WVAR20261119-257040; https://www.vmgd.gov.vu/warnings/volcano); no permitted route assumed. Community Rom tours separate from crater tourism and private rites. Further regional screen and independent factual, coordinate and scoring validation pending. |
+
+| TO | OPEN | 18 ranked / 20 total; pass 214 adds 2. Haapai regulated whale viewing separate from Vavau licensed marine circuit; Vavau whale watching not duplicated. Haapai kayaking distinct from whale encounters; no guaranteed sightings. Further regional screen and independent factual, coordinate and scoring validation pending. |
+
+| SB | OPEN | 18 ranked / 19 total; pass 214 adds 3. Gizo, Munda and Iron Bottom Sound geographically distinct diving circuits; Iron Bottom excludes Bonegi shore wrecks; no wreck penetration, salvage or guaranteed coral health. Marovo/Tetepare parent components not duplicated. Further regional screen and independent factual, coordinate and scoring validation pending. |
+
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

@@ -679,3 +679,75 @@ For sight-sb-marovo-tetepare-complex, UNESCO's tentative description (https://wh
 - Verification still needed: full independent claim verification and current visitor conditions.
 
 - [Dated worldwide reassessment pass 66 — 2026-11-26](worldwide-deferred-pass66-2026-11-26.md)
+
+## sight-sb-gizo-diving — Gizo Offshore Reefs and Historic Wreck Diving — 2026-11-27
+
+- YAML: [source](../../../countries/SB/sights/gizo-diving.yaml)
+- Action: new
+- Scope: Gizo offshore reefs and historic wreck dives grouped, excludes Kennedy Island land visit and Marovo region; no guaranteed reef health or wreck penetration.
+- Representative coordinates: -8.11, 156.83; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.0 / 9.1 / 9.1.
+- Categories: nature:9.3 adventure:9.4 history:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.visitsolomons.com.sb/tour/dive-gizo-adventure-sports/, https://www.visitsolomons.com.sb/fatboys-the-new-kid-on-the-solomon-islands-dive-scene/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SB/marovo-lagoon](../../../countries/SB/sights/marovo-lagoon.yaml) | 9.1 / 9.3 / 8.7 / 9.0 / 8.8 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+| [SB/bonegi-beach](../../../countries/SB/sights/bonegi-beach.yaml) | 7.6 / 8.0 / 7.5 / 8.0 / 7.3 | depth: +1.8 vs peer; impact: +1.6 vs peer |
+| [VU/ss-president-coolidge](../../../countries/VU/sights/ss-president-coolidge.yaml) | 8.9 / 9.2 / 8.7 / 9.0 / 8.8 | impact: +0.3 vs peer; significance: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-sb-munda-diving — Munda Roviana Lagoon Outer Reef and Wreck Diving — 2026-11-27
+
+- YAML: [source](../../../countries/SB/sights/munda-diving.yaml)
+- Action: new
+- Scope: Munda and Roviana diving circuit, not Marovo or Gizo; no guaranteed coral condition or wreck penetration.
+- Representative coordinates: -8.36, 157.27; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.9 / 9.1 / 9.1.
+- Categories: nature:9.4 wildlife:9.3 adventure:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.visitsolomons.com.sb/tour/dive-munda/, https://www.visitsolomons.com.sb/about-the-solomon/under-the-water/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SB/marovo-lagoon](../../../countries/SB/sights/marovo-lagoon.yaml) | 9.1 / 9.3 / 8.7 / 9.0 / 8.8 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer |
+| [SB/bonegi-beach](../../../countries/SB/sights/bonegi-beach.yaml) | 7.6 / 8.0 / 7.5 / 8.0 / 7.3 | depth: +1.8 vs peer; impact: +1.5 vs peer |
+| [PG/kimbe-bay](../../../countries/PG/sights/kimbe-bay.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.0 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-sb-iron-bottom-sound — Iron Bottom Sound Offshore Historic Wreck Diving — 2026-11-27
+
+- YAML: [source](../../../countries/SB/sights/iron-bottom-sound.yaml)
+- Action: new
+- Scope: Offshore authorized wreck dive circuit, excludes Bonegi shore wrecks; respect war graves, no salvage or penetration assumed.
+- Representative coordinates: -9.36, 159.87; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.1 / 8.8 / 8.7.
+- Categories: history:9.4 adventure:9.3 nature:9.1.
+- Overall: 89.55/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.visitsolomons.com.sb/about-the-solomon/provinces/, https://www.visitsolomons.com.sb/about-the-solomon/under-the-water/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [SB/bonegi-beach](../../../countries/SB/sights/bonegi-beach.yaml) | 7.6 / 8.0 / 7.5 / 8.0 / 7.3 | significance: +1.6 vs peer; depth: +1.4 vs peer |
+| [SB/vilu-war-museum](../../../countries/SB/sights/vilu-war-museum.yaml) | 7.2 / 7.9 / 8.2 / 7.4 / 7.0 | impact: +1.7 vs peer; depth: +1.7 vs peer |
+| [VU/ss-president-coolidge](../../../countries/VU/sights/ss-president-coolidge.yaml) | 8.9 / 9.2 / 8.7 / 9.0 / 8.8 | significance: +0.4 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 214 scope decisions
+
+Gizo, Munda and Iron Bottom Sound geographically distinct diving circuits; Iron Bottom excludes Bonegi shore wrecks; no wreck penetration, salvage or guaranteed coral health. Marovo/Tetepare parent components not duplicated.

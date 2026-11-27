@@ -798,3 +798,51 @@ No changes to either Lapita YAML record. Both remain unassessed; distinction bet
 - Approved 10 registry: none.
 - Final decision: provisional editorial rating of documented marine landscape, no guaranteed animal encounter.
 - Verification still needed: seasonal visitor conditions and permissions.
+
+## sight-to-haapai-whales — Haʻapai Licensed Seasonal Humpback Whale Encounters — 2026-11-27
+
+- YAML: [source](../../../countries/TO/sights/haapai-whales.yaml)
+- Action: new
+- Scope: Licensed operator whale observation and regulated swimming, Haʻapai waters only, distinct from Vavaʻu. No guaranteed encounter or unauthorized interaction.
+- Representative coordinates: -19.85, -174.41; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.1 / 9.2 / 8.9.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.3.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.tongatourism.travel/see-and-do/swim-with-whales, https://wwhandbook.iwc.int/en/country-profiles/tonga, https://www.gov.uk/foreign-travel-advice/tonga/safety-and-security.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [TO/vavau-marine-landscape](../../../countries/TO/sights/vavau-marine-landscape.yaml) | 9.0 / 9.1 / 8.8 / 9.0 / 9.0 | impact: +0.4 vs peer; significance: +0.3 vs peer |
+| [TO/uoleva-island](../../../countries/TO/sights/uoleva-island.yaml) | 8.4 / 7.9 / 6.9 / 8.5 / 7.8 | significance: +2.2 vs peer; uniqueness: +1.4 vs peer |
+| [AU/hervey-bay-whales](../../../countries/AU/sights/hervey-bay-whales.yaml) | 9.2 / 9.2 / 9.1 / 9.3 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-to-haapai-kayaking — Haʻapai Guided Outer Island Sea Kayaking Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/TO/sights/haapai-kayaking.yaml)
+- Action: new
+- Scope: Guided island-to-island paddling, excludes beach-only visits and whale encounters; no unverified specific island access.
+- Representative coordinates: -19.8, -174.42; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.1 / 8.8 / 8.7.
+- Categories: adventure:9.2 nature:9.1 photography:9.1.
+- Overall: 85.40/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.tongatourism.travel/our-islands/haapai.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [TO/uoleva-island](../../../countries/TO/sights/uoleva-island.yaml) | 8.4 / 7.9 / 6.9 / 8.5 / 7.8 | significance: +1.2 vs peer; depth: +0.9 vs peer |
+| [TO/vavau-marine-landscape](../../../countries/TO/sights/vavau-marine-landscape.yaml) | 9.0 / 9.1 / 8.8 / 9.0 / 9.0 | significance: -0.7 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 214 scope decisions
+
+Haapai regulated whale viewing separate from Vavau licensed marine circuit; Vavau whale watching not duplicated. Haapai kayaking distinct from whale encounters; no guaranteed sightings.

@@ -3679,3 +3679,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] NZ — Wellington Cable Car and Cable Car Museum: 85.55/100 (desk-based provisional).
 
 14 additions, 10 desk-based provisional, 4 source-linked, 2 90+, 32 ranking-row comparisons including 4 international. NZ 124 ranked / 126 total. Ulva Island deferred because DOC confirms most is within Rakiura National Park (https://www.doc.govt.nz/documents/about-doc/role/policies-and-plans/cms/stewart-island-rakiura-cms-and-rakiura-np-mp-2012.pdf); Blue Pools deferred as Mount Aspiring parent day walk. Hāpūpū tree carvings need condition/access assessment before scoring (https://www.doc.govt.nz/parks-and-recreation/places-to-go/chatham-islands/places/hapupu-jm-barker-historic-reserve/). Kōpinga Marae booked group experience only. Aotea dark sky scope excludes day attractions. Existing remote island unassessed entries and prior scores preserved. Parent overlap questions and generator type bug remain deferred. NZ bounded discovery queue closed; reopen on concrete substantial omission, not exhaustive. Next: targeted Pacific island country screening. Independent validation pending.
+
+### Pass 214 — Pacific islands first targeted screen
+
+- [x] PG — Goroka Annual Cultural Show: 92.80/100 (source-linked-unverified).
+- [x] PG — Mount Hagen Annual Cultural Show: 92.55/100 (source-linked-unverified).
+- [x] PG — Kumul Lodge Highland Forest Birdwatching: 90.75/100 (source-linked-unverified).
+- [x] PG — Mount Giluwe Guided Multi-Day Highland Trek: 88.95/100 (source-linked-unverified).
+- [x] FJ — Upper Navua Conservation Area Guided Gorge Rafting: 90.95/100 (source-linked-unverified).
+- [x] FJ — Drawaqa Yasawa Seasonal Manta Ray Snorkelling: 90.85/100 (source-linked-unverified).
+- [x] FJ — Koroyanitu Heritage Park Abaca Village and Forest Trails: 87.00/100 (source-linked-unverified).
+- [x] FJ — Sigatoka River Community-Guided Village Safari: 85.90/100 (desk-based provisional).
+- [x] VU — Ambrym Community-Hosted Rom Dance and Cultural Tours: 90.65/100 (source-linked-unverified).
+- [x] VU — Tanna Blue Cave Guided Coastal Grotto Visit: 86.20/100 (source-linked-unverified).
+- [x] VU — Imaio Tanna Community Cultural Village Experience: 86.15/100 (source-linked-unverified).
+- [x] TO — Haʻapai Licensed Seasonal Humpback Whale Encounters: 92.35/100 (source-linked-unverified).
+- [x] TO — Haʻapai Guided Outer Island Sea Kayaking Circuit: 85.40/100 (source-linked-unverified).
+- [x] SB — Gizo Offshore Reefs and Historic Wreck Diving: 91.35/100 (source-linked-unverified).
+- [x] SB — Munda Roviana Lagoon Outer Reef and Wreck Diving: 90.60/100 (source-linked-unverified).
+- [x] SB — Iron Bottom Sound Offshore Historic Wreck Diving: 89.55/100 (source-linked-unverified).
+
+16 additions, 1 desk-based provisional, 15 source-linked, 9 90+, 42 ranking-row comparisons including 10 cross-area. Five Pacific country queues opened. Goroka and Mount Hagen recurring seasonal events separately scoped, not future confirmed dates; local community consent and travel safety required. Kumul birdwatching distinct from Varirata. Existing restricted or tentative properties left unassessed. Beqa shark diving deferred as existing lagoon scope already incorporates specialist shark diving context; Great White Wall within Rainbow Reef also deferred. Drawaqa manta route separate from other reef systems; no guaranteed sightings or pristine reef health. Upper Navua rafting distinct from Sigatoka River. Ambrym crater trek deferred: Smithsonian/VMGD 19–25 November 2026 report alert level 3 and exclusion zones (https://volcano.si.edu/showreport.cfm?gvpvar=GVP.WVAR20261119-257040; https://www.vmgd.gov.vu/warnings/volcano); no permitted route assumed. Community Rom tours separate from crater tourism and private rites. Haapai regulated whale viewing separate from Vavau licensed marine circuit; Vavau whale watching not duplicated. Haapai kayaking distinct from whale encounters; no guaranteed sightings. Gizo, Munda and Iron Bottom Sound geographically distinct diving circuits; Iron Bottom excludes Bonegi shore wrecks; no wreck penetration, salvage or guaranteed coral health. Marovo/Tetepare parent components not duplicated. Existing scores and unassessed rows retained. Next: further Pacific regional and cultural screening. Independent validation pending.
