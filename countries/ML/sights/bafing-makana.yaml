@@ -5,11 +5,11 @@ location:
   latitude: 14.08333
   longitude: -8.88333
 scores:
-  impact: null
+  impact: 8.1
   uniqueness: 8.6
   significance: 8.8
-  experience: null
-  depth: null
+  experience: 8.1
+  depth: 8.6
   categories:
     nature: 9.0
     wildlife: 9.0
