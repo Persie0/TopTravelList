@@ -1,0 +1,15 @@
+id: sight-fr-musee-ceret
+name: "Musée d’Art Moderne de Céret"
+location:
+  country_code: FR
+  latitude: 42.486
+  longitude: 2.748
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.2

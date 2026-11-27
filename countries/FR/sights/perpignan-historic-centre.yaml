@@ -1,0 +1,16 @@
+id: sight-fr-perpignan-historic-centre
+name: "Perpignan Historic Centre and Castillet"
+location:
+  country_code: FR
+  latitude: 42.7
+  longitude: 2.895
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.1

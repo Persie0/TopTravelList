@@ -1,0 +1,16 @@
+id: sight-fr-lussan-village
+name: "Lussan Fortified Hill Village"
+location:
+  country_code: FR
+  latitude: 44.152
+  longitude: 4.368
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.6
+  depth: 8.3
+  categories:
+    architecture: 9.1
+    photography: 9.1
+    history: 8.9

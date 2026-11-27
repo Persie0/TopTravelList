@@ -1,0 +1,15 @@
+id: sight-fr-musee-hyacinthe-rigaud
+name: "Musée Hyacinthe Rigaud Perpignan Art Museum"
+location:
+  country_code: FR
+  latitude: 42.697
+  longitude: 2.894
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.1

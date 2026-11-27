@@ -1898,3 +1898,38 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Train à Vapeur des Cévennes Heritage Railway: 87.20/100 (desk-based provisional).
 
 30 additions, 18 fast provisional estimates, 12 source-informed candidates, 10 90+, 48 peer comparisons. France 475 ranked / 486 total; 11 existing unassessed unchanged. Navacelles canyon geology separately scoped with UNESCO landscape geographic overlap flagged; Saint-Guilhem village excludes Santiago-listed abbey and Pont du Diable. Saltworks excludes Camargue broad wildlife credit. Narbo Via independent of palace collections; cave-series boundaries unresolved. 0 requested peer rows not located; domestic comparisons only, international calibration pending. Next bounded screen: Remaining Mediterranean Occitanie: Trabuc cave, Musée du Désert, Pont du Gard ancillary scope, Cèze cascades, La Roque-sur-Cèze, Lussan, Montclus, Maguelone cathedral, Espiguette dunes (Camargue overlap), La Grande Motte architecture, Agde, Carcassonne Bastide Saint-Louis, Lagrasse, Château de Quéribus/Peyrepertuse serial overlap, Sigean reserve, Collioure, Perpignan, Villefranche-de-Conflent Vauban overlap, and eastern Pyrenees. Full Python validation pending.
+
+### Pass 149 — accelerated eastern Occitanie audit
+
+- [x] FR — Forteresse de Salses Transitional Military Fortress: 91.95/100 (source-linked-unverified).
+- [x] FR — Grotte de Trabuc Underground Waterfalls and Concretions: 90.50/100 (source-linked-unverified).
+- [x] FR — Lac des Bouillouses and Carlit Alpine Lake Trails: 90.50/100 (source-linked-unverified).
+- [x] FR — Réserve Africaine de Sigean Wildlife Safari Park: 89.75/100 (source-linked-unverified).
+- [x] FR — Château Royal de Collioure Coastal Royal Castle: 90.15/100 (source-linked-unverified).
+- [x] FR — Palais des Rois de Majorque Perpignan Royal Palace: 90.50/100 (source-linked-unverified).
+- [x] FR — Abbaye Saint-Martin du Canigou Mountain Abbey: 90.10/100 (source-linked-unverified).
+- [x] FR — Abbaye Saint-Michel de Cuxa Romanesque Abbey: 89.55/100 (source-linked-unverified).
+- [x] FR — Orgues d’Ille-sur-Têt Eroded Rock Formations: 88.20/100 (source-linked-unverified).
+- [x] FR — Musée d’Art Moderne de Céret: 88.95/100 (source-linked-unverified).
+- [x] FR — Musée de Préhistoire de Tautavel: 89.05/100 (source-linked-unverified).
+- [x] FR — Musée du Désert Mialet Protestant Heritage Museum: 86.40/100 (desk-based provisional).
+- [x] FR — Cascades du Sautadet River Rock Formations: 86.40/100 (desk-based provisional).
+- [x] FR — La Roque-sur-Cèze Medieval Hill Village: 85.20/100 (desk-based provisional).
+- [x] FR — Lussan Fortified Hill Village: 85.20/100 (desk-based provisional).
+- [x] FR — Montclus Medieval Riverside Village: 84.45/100 (desk-based provisional).
+- [x] FR — Cathédrale de Maguelone Historic Island Cathedral: 88.15/100 (desk-based provisional).
+- [x] FR — La Grande Motte Modernist Architecture Walk: 87.45/100 (desk-based provisional).
+- [x] FR — Agde Historic Basalt Town and Cathedral: 86.25/100 (desk-based provisional).
+- [x] FR — Carcassonne Bastide Saint-Louis Historic Lower Town: 85.95/100 (desk-based provisional).
+- [x] FR — Lagrasse Medieval Village and Sainte-Marie Abbey: 88.80/100 (desk-based provisional).
+- [x] FR — Perpignan Historic Centre and Castillet: 87.80/100 (desk-based provisional).
+- [x] FR — Musée Hyacinthe Rigaud Perpignan Art Museum: 86.50/100 (desk-based provisional).
+- [x] FR — Castelnou Medieval Village and Castle: 87.50/100 (desk-based provisional).
+- [x] FR — Gorges de Galamus Canyon and Hermitage: 87.95/100 (desk-based provisional).
+- [x] FR — Canigó Summit and Mountain Hiking Trails: 88.90/100 (desk-based provisional).
+- [x] FR — Odeillo Solar Furnace and Science Heritage: 86.75/100 (desk-based provisional).
+- [x] FR — Paulilles Historic Dynamite Factory Heritage Site: 87.35/100 (desk-based provisional).
+- [x] FR — Gruissan Historic Circular Village and Barberousse Tower: 86.65/100 (desk-based provisional).
+- [x] FR — Salin de Gruissan Saltworks and Heritage Tours: 86.30/100 (desk-based provisional).
+
+30 additions, 19 fast provisional estimates, 11 source-informed candidates, 6 90+, 44 peer comparisons. France 505 ranked / 516 total; 11 existing unassessed unchanged. UNESCO confirms Quéribus, Peyrepertuse, Puilaurens, Aguilar, Lastours and Termes within Capetian series (https://whc.unesco.org/en/list/1755/); no duplicate. Villefranche and Mont-Louis fortifications deferred under Vauban property; Espiguette and Collioure coastal townscape deferred for broader coastal overlap; Paulilles industrial interpretation independent. Canigó summit scope excludes abbey. Cave tentative-series boundaries unresolved. 0 peer references not located; domestic calibration only. Next bounded screen: Provence-Alpes-Côte d’Azur: Marseille museums and monuments (Mucem, Notre-Dame de la Garde, Palais Longchamp, Château d'If scope), Aix-en-Provence, Luberon villages, ochre trails, Sénanque, Les Baux, Arles museums, Avignon independent collections, Camargue scope, Verdon and Riviera residuals; remaining Occitanie flags (Villefranche non-fortification sites, Espiguette boundary, Aude coast and inland villages). Full Python validation pending.
