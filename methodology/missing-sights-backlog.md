@@ -874,3 +874,15 @@ Six additions, 24 peer rows. Spain 140 ranked / 155 total. Cofete grouped with J
 - [x] ES — Mar de las Calmas Marine Reserve: 88.30/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Spain 148 ranked / 163 total. Summit viewpoint already covered by Caldera de Taburiente; only scientific observatory/visitor centre added. Masca and Lobos access controlled, La Geria bounded to vineyards, Mar de las Calmas diving conditional. Next bounded mainland screen: El Torcal de Antequera (check dolmens property landscape), Cuenca Enchanted City, Pueblos Blancos (avoid Ronda overlap), Frigiliana, Setenil de las Bodegas, El Capricho de Gaudí, Aljafería Palace (check Mudéjar aggregate), and National Archaeological Museum Madrid. Fifteen prior unassessed unchanged; full Python validation and independent corroboration pending.
+
+### Pass 78 — mainland Spain geological, village and cultural attractions
+
+- [x] ES — National Archaeological Museum Madrid: 90.75/100 (source-linked-unverified).
+- [x] ES — Ciudad Encantada Rock Formations: 87.60/100 (source-linked-unverified).
+- [x] ES — Setenil de las Bodegas Rock-Sheltered Historic Village: 88.25/100 (source-linked-unverified).
+- [x] ES — Frigiliana Historic Quarter: 86.10/100 (source-linked-unverified).
+- [x] ES — El Capricho de Gaudí Comillas: 87.95/100 (source-linked-unverified).
+- [x] ES — Sierra de Grazalema Natural Park: 88.40/100 (source-linked-unverified).
+- [x] ES — Zahara de la Sierra Historic Village and Castle: 86.70/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Spain 155 ranked / 170 total. El Torcal explicitly included in existing Antequera property scope (https://whc.unesco.org/en/list/1501); Aljafería Mudéjar features included in existing Aragon serial property (https://whc.unesco.org/en/list/378/); both deferred pending narrower scope review. No generic Pueblos Blancos aggregate: individual villages distinct from Ronda. Grazalema natural routes exclude Zahara urban precinct. Next screen: Albarracín, Besalú, Cadaqués, Santillana del Mar, Cudillero, Playa de las Catedrales, Costa Quebrada, and Hoces del Río Duratón. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.

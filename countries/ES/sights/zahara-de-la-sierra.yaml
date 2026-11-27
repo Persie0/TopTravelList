@@ -1,0 +1,17 @@
+id: sight-es-zahara-de-la-sierra
+name: "Zahara de la Sierra Historic Village and Castle"
+location:
+  country_code: ES
+  latitude: 36.8406
+  longitude: -5.3905
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.7
+  depth: 8.3
+  categories:
+    architecture: 9.0
+    photography: 9.3
+    history: 8.9
+    culture: 8.8
