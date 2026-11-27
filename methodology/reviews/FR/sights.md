@@ -6766,3 +6766,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-concarneau-ville-close — Concarneau Ville Close and Ramparts — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/concarneau-ville-close.yaml)
+- Action: new
+- Precise subject and limitations: Fortified islet and its streets, gates and ramparts; excludes fishing museum collections, wider port and offshore excursions.
+- Location check: 47.87281, -3.91376; [published representative point](https://mapcarta.com/fr/36969544), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.deconcarneauapontaven.com/en/explore/brittany/visiter-concarneau/); indexed excerpts inspected 2026-11-27. Local tourism describes granite ramparts, nine towers and three gates; municipal heritage office separately confirms the fortified island and walking routes: https://billetterie-mp.concarneau.fr/foire_aux_questions. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/dinan-historic-centre](../../../countries/FR/sights/dinan-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.0 | depth: -0.4 vs peer; significance: -0.2 vs peer. |
+| [FR/honfleur-old-harbour](../../../countries/FR/sights/honfleur-old-harbour.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 8.6 | significance: +0.1 vs peer; impact: -0.1 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | experience: +0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Granite walls surrounded by harbour water. |
+| Uniqueness | 8.9 | Distinct compact fortified islet with nine towers and three gates. |
+| Significance | 8.8 | Breton defensive heritage. |
+| Experience | 9.0 | Walkable streets and ramparts. |
+| Depth | 8.6 | Small enclosed historic area. |
+
+- Applicable categories: architecture:9.2, photography:9.3, history:9.1, culture:9.0.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-pont-aven-riverside — Pont-Aven Historic Village and Bois d’Amour Riverside Walk — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/pont-aven-riverside.yaml)
+- Action: new
+- Precise subject and limitations: Historic riverside streets and connected Bois d’Amour walk, represented by woodland point; excludes museum and separately visited galleries or chapel interiors.
+- Location check: 47.8711, -3.7388; [published representative point](https://mapcarta.com/fr/W42140383), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/quimper-cornouaille/pont-aven/); indexed excerpts inspected 2026-11-27. Brittany tourism documents the painter colony; local tourism describes the woodland, river and artistic associations: https://www.deconcarneauapontaven.com/explorer/randonnee-nature/bois-damour/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/locronan](../../../countries/FR/sights/locronan.yaml) | 8.8 / 8.8 / 8.8 / 8.9 / 8.4 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/broceliande-forest](../../../countries/FR/sights/broceliande-forest.yaml) | 8.6 / 8.9 / 8.6 / 8.9 / 9.0 | depth: -0.5 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer. |
+| [PT/bussaco](../../../countries/PT/sights/bussaco.yaml) | 8.8 / 8.9 / 8.8 / 8.7 / 8.8 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Rocky river, trees and picturesque streets. |
+| Uniqueness | 8.7 | Specific painter-associated river landscape. |
+| Significance | 8.8 | Pont-Aven artistic colony since the nineteenth century. |
+| Experience | 8.9 | Established riverside walking route. |
+| Depth | 8.5 | Compact town and adjoining woodland. |
+
+- Applicable categories: culture:9.2, photography:9.0, nature:8.8, history:8.9, relaxation:8.9.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-quiberon-cote-sauvage — Quiberon Côte Sauvage Coastal Walk — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/quiberon-cote-sauvage.yaml)
+- Action: new
+- Precise subject and limitations: Western peninsula coastal path between Portivy and Château Turpault, representative Pointe du Percho; excludes individual Neolithic structures and their significance, castle interiors and bathing. Potential geographic overlap with Carnac serial property is acknowledged; only distinct natural walk is rated.
+- Location check: 47.52353, -3.15907; [published representative point](https://mapcarta.com/34492360), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.baiedequiberon.bzh/cote-sauvage-quiberon); indexed excerpts inspected 2026-11-27. Local tourism describes marked paths and the western coast; departmental tourism confirms the coastal route, caves and unsuitable bathing: https://morbihan.com/a-voir-a-faire/suivez-le-guide/les-sites-naturels/la-cote-sauvage-a-quiberon-quiberon-fr-4389223/. UNESCO property includes areas of Quiberon; exact polygons not assessed: https://whc.unesco.org/en/decisions/8957. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/pointe-du-raz](../../../countries/FR/sights/pointe-du-raz.yaml) | 9.2 / 9.0 / 8.6 / 9.0 / 8.9 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/crozon-peninsula](../../../countries/FR/sights/crozon-peninsula.yaml) | 9.3 / 9.1 / 8.7 / 9.2 / 9.2 | depth: -0.4 vs peer; impact: -0.2 vs peer. |
+| [ES/costa-quebrada](../../../countries/ES/sights/costa-quebrada.yaml) | 9.0 / 8.9 / 8.6 / 8.8 / 8.7 | experience: +0.2 vs peer; depth: +0.1 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | depth: +0.4 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Atlantic cliffs and sea arches. |
+| Uniqueness | 8.9 | Varied but comparable Atlantic coastline. |
+| Significance | 8.5 | Regional coastal geomorphology, not megalithic significance. |
+| Experience | 9.0 | Marked coastal routes. |
+| Depth | 8.8 | Several linked headlands and viewpoints. |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:9.1.
+- Computed worldwide overall: 88.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-ile-de-groix — Île de Groix Island Coastal Trails and Beaches — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ile-de-groix.yaml)
+- Action: new
+- Precise subject and limitations: Island coastal paths, geological landscapes and beaches; Grands Sables beach representative point (mobile shoreline); excludes ferry experience and standalone museum collections.
+- Location check: 47.63798, -3.42236; [published representative point](https://mapcarta.com/fr/W1094614721), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/southern-brittany-morbihan-gulf/groix/); indexed excerpts inspected 2026-11-27. Regional tourism describes the moving convex beach and geological attractions; the departmental overview documents coastal trails, coves and Trou de l’Enfer: https://www.brittanytourism.com/destinations/departments/morbihan/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/belle-ile-en-mer](../../../countries/FR/sights/belle-ile-en-mer.yaml) | 9.2 / 9.0 / 8.6 / 9.1 / 9.2 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [FR/glenan-islands](../../../countries/FR/sights/glenan-islands.yaml) | 9.1 / 8.8 / 8.4 / 9.0 / 8.5 | depth: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | depth: +0.3 vs peer; significance: -0.2 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.4 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Varied coves, cliffs and contrasting beaches. |
+| Uniqueness | 9.0 | Unusual moving convex beach and island geology. |
+| Significance | 8.6 | Regional geological and natural heritage. |
+| Experience | 9.0 | Coastal walking and beach visits. |
+| Depth | 8.9 | Multiple connected coastal landscapes. |
+
+- Applicable categories: nature:9.3, photography:9.3, beaches:9.2, adventure:9.0.
+- Computed worldwide overall: 89.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-roscoff-historic-centre — Roscoff Historic Centre and Old Harbour — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/roscoff-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Historic shipowners’ houses, old harbour and church exterior, represented by Notre-Dame-de-Croaz-Batz; excludes Île de Batz, ferry and independent gardens. Parish-close serial overlap not established; no separate church rating.
+- Location check: 48.72655, -3.98566; [published representative point](https://mapcarta.com/37415118), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/pink-granite-coast-morlaix-bay/roscoff/); indexed excerpts inspected 2026-11-27. Brittany tourism describes former shipowners’ houses, Gothic church and old harbour; regional departmental overview confirms: https://www.brittanytourism.com/destinations/departments/finistere/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/honfleur-old-harbour](../../../countries/FR/sights/honfleur-old-harbour.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 8.6 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [FR/quimper-historic-centre](../../../countries/FR/sights/quimper-historic-centre.yaml) | 8.8 / 8.7 / 9.0 / 8.9 / 8.8 | significance: -0.3 vs peer; depth: -0.3 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Decorated granite houses and harbour views. |
+| Uniqueness | 8.5 | Distinct but relatively substitutable Breton port. |
+| Significance | 8.7 | Maritime trading heritage. |
+| Experience | 8.8 | Walkable streets and harbour. |
+| Depth | 8.5 | Compact historic core. |
+
+- Applicable categories: architecture:9.1, history:9.0, photography:9.1, culture:8.9.
+- Computed worldwide overall: 86.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-vitre — Château de Vitré Castle and History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-vitre.yaml)
+- Action: new
+- Precise subject and limitations: Castle complex and city history museum grouped; excludes wider historic town and Château des Rochers. Current entrance restoration notice does not reduce intrinsic score.
+- Location check: 48.12444, -1.21536; [published representative point](https://mapcarta.com/37415776), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.bretagne-vitre.com/patrimoine-culturel/chateau-de-vitre-et-son-musee/); indexed excerpts inspected 2026-11-27. Tourism office identifies classified castle and Musée de France; municipal community describes seven rooms in three towers: https://www.vitrecommunaute.org/les-chateaux-et-musees-de-vitre/. Municipal current restoration notice: https://www.vitre.bzh/infos-pratiques. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-fougeres](../../../countries/FR/sights/chateau-fougeres.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 8.9 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/chateau-josselin](../../../countries/FR/sights/chateau-josselin.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | significance: +0.2 vs peer; experience: -0.1 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [GB/caernarfon-castle](../../../countries/GB/sights/caernarfon-castle.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.6 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinctive fortified silhouette. |
+| Uniqueness | 8.8 | Medieval castle with museum interiors. |
+| Significance | 9.0 | Breton defensive and urban history. |
+| Experience | 8.8 | Dedicated castle and museum visit. |
+| Depth | 8.7 | Seven exhibition rooms and exterior fortifications. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.2, culture:9.1.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-roche-aux-fees — La Roche-aux-Fées Megalithic Dolmen — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/roche-aux-fees.yaml)
+- Action: new
+- Precise subject and limitations: Single Neolithic gallery grave near Essé and site interpretation, not other similarly named dolmens or Carnac property. Mapped point labels nearby Boistrudan but description identifies Essé; coordinate agrees approximately with separate encyclopedia.
+- Location check: 47.93654, -1.40488; [published representative point](https://mapcarta.com/N375900720), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ille-et-vilaine-tourisme.bzh/partez-a-la-decouverte-de-lille-et-vilaine/sites-remarquables/vitre/la-roche-aux-fees/); indexed excerpts inspected 2026-11-27. Departmental tourism describes approximately 20 by 6 by 4 metres and free visit; national heritage inventory confirms covered gallery grave in Essé: https://pop.culture.gouv.fr/notice/merimee/IA00007313. Separate coordinates: https://fr.wikipedia.org/wiki/La_Roche-aux-F%C3%A9es. No claim of proven astronomical intention. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/carnac](../../../countries/FR/sights/carnac.yaml) | 9.0 / 9.3 / 9.4 / 8.8 / 9.0 | depth: -1.0 vs peer; impact: -0.5 vs peer. |
+| [ES/antequera-dolmens](../../../countries/ES/sights/antequera-dolmens.yaml) | 8.7 / 9.1 / 9.3 / 8.6 / 8.5 | depth: -0.5 vs peer; significance: -0.2 vs peer. |
+| [GB/stonehenge](../../../countries/GB/sights/stonehenge.yaml) | 9.2 / 9.6 / 9.6 / 8.8 / 9.1 | depth: -1.1 vs peer; impact: -0.7 vs peer. |
+| [IE/carrowmore](../../../countries/IE/sights/carrowmore.yaml) | 8.1 / 8.7 / 9.1 / 8.3 / 8.2 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Large preserved stone gallery grave. |
+| Uniqueness | 9.0 | Unusually substantial single dolmen. |
+| Significance | 9.1 | Neolithic funerary architecture and protected heritage. |
+| Experience | 8.4 | Focused outdoor monument visit. |
+| Depth | 8.0 | Single chamber monument rather than archaeological landscape. |
+
+- Applicable categories: history:9.3, culture:9.0, photography:8.9.
+- Computed worldwide overall: 86.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

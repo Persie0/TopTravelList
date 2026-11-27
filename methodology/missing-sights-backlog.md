@@ -1470,3 +1470,15 @@ Seven additions, 28 peer rows. France 166 ranked / 177 total; 11 existing unasse
 - [x] FR — Rennes Historic Centre and Royal Squares: 88.45/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 173 ranked / 184 total; 11 existing unassessed unchanged. Rochefort village excludes separate museum and castle interiors; Brocéliande folklore distinguished from fact; Sept-Îles offshore viewing separate from Pink Granite Coast; Glénan landing scope limited to Saint-Nicolas; Ouessant trails exclude separate museum interiors; Rennes historic core excludes Thabor and museums. Next bounded screen: Concarneau Ville Close, Pont-Aven historic riverside and art heritage, Quiberon Côte Sauvage, Île de Groix, Roscoff historic centre, Vitré Castle, and Roche-aux-Fées megalithic monument (scope and duplicate checks). Full Python validation pending.
+
+### Pass 127 — Brittany fortified ports, coastal walks and megalithic heritage
+
+- [x] FR — Concarneau Ville Close and Ramparts: 88.65/100 (source-linked-unverified).
+- [x] FR — Pont-Aven Historic Village and Bois d’Amour Riverside Walk: 86.70/100 (source-linked-unverified).
+- [x] FR — Quiberon Côte Sauvage Coastal Walk: 88.85/100 (source-linked-unverified).
+- [x] FR — Île de Groix Island Coastal Trails and Beaches: 89.10/100 (source-linked-unverified).
+- [x] FR — Roscoff Historic Centre and Old Harbour: 86.15/100 (source-linked-unverified).
+- [x] FR — Château de Vitré Castle and History Museum: 88.60/100 (source-linked-unverified).
+- [x] FR — La Roche-aux-Fées Megalithic Dolmen: 86.80/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 180 ranked / 191 total; 11 existing unassessed unchanged. Quiberon natural coastal walk excludes Carnac megalithic structures; exact UNESCO boundaries remain unverified. Pont-Aven excludes separate art museum; Roscoff excludes offshore Batz and separate gardens; Vitré includes history museum; Roche-aux-Fées independent single dolmen near Essé. Next bounded screen: Saint-Goustan harbour in Auray, Île de Batz, Morlaix historic centre, Château du Taureau, Les Abers coastal landscapes, Pointe Saint-Mathieu, and Monts d’Arrée (scope and duplicate checks). Full Python validation pending.
