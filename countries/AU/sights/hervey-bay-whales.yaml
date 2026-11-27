@@ -1,0 +1,16 @@
+id: sight-au-hervey-bay-whales
+name: "Hervey Bay Seasonal Humpback Whale Watching"
+location:
+  country_code: AU
+  latitude: -25.292
+  longitude: 152.91
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.3
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

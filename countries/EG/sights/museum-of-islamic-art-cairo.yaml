@@ -1,0 +1,16 @@
+id: sight-eg-museum-of-islamic-art-cairo
+name: "Museum of Islamic Art (Cairo)"
+location:
+  country_code: EG
+  latitude: 30.04465
+  longitude: 31.25272
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 8.9

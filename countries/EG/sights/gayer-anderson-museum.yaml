@@ -1,0 +1,16 @@
+id: sight-eg-gayer-anderson-museum
+name: "Gayer-Anderson Museum"
+location:
+  country_code: EG
+  latitude: 30.02838
+  longitude: 31.25073
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    culture: 9.1
+    history: 8.9

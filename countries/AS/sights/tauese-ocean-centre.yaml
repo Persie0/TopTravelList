@@ -1,0 +1,16 @@
+id: sight-as-tauese-ocean-centre
+name: "Tauese P F Sunia Ocean Center Pago Pago"
+location:
+  country_code: AS
+  latitude: -14.28
+  longitude: -170.69
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.3
+  depth: 8.2
+  categories:
+    nature: 8.9
+    culture: 8.8
+    family: 8.9

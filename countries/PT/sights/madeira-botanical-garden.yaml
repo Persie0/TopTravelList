@@ -1,0 +1,16 @@
+id: sight-pt-madeira-botanical-garden
+name: "Madeira Botanical Garden"
+location:
+  country_code: PT
+  latitude: 32.66222
+  longitude: -16.89556
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.1
+    photography: 9.2
+    relaxation: 8.9

@@ -1,0 +1,16 @@
+id: sight-ca-whitehorse-miles-canyon
+name: "Miles Canyon and Yukon River Whitehorse Walking Routes"
+location:
+  country_code: CA
+  latitude: 60.66
+  longitude: -135.04
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.2
+    photography: 9.2
+    history: 9.1

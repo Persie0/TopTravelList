@@ -1,0 +1,16 @@
+id: sight-us-el-malpais
+name: "El Malpais National Monument"
+location:
+  country_code: US
+  latitude: 34.93
+  longitude: -108
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

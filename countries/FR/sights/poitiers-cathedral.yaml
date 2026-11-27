@@ -1,0 +1,15 @@
+id: sight-fr-poitiers-cathedral
+name: "Cathédrale Saint-Pierre Poitiers Gothic Cathedral"
+location:
+  country_code: FR
+  latitude: 46.58
+  longitude: 0.349
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    history: 9.3

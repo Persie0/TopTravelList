@@ -1,0 +1,17 @@
+id: sight-es-bardenas-reales
+name: "Bardenas Reales Natural Park"
+location:
+  country_code: ES
+  latitude: 42.17963
+  longitude: -1.53332
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1
+    wildlife: 8.6

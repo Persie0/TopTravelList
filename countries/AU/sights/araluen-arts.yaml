@@ -1,0 +1,16 @@
+id: sight-au-araluen-arts
+name: "Araluen Cultural Precinct Alice Springs"
+location:
+  country_code: AU
+  latitude: -23.701
+  longitude: 133.857
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.1
+    architecture: 8.8

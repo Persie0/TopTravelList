@@ -1,0 +1,16 @@
+id: sight-us-haleakala-national-park
+name: "Haleakalā National Park"
+location:
+  country_code: US
+  latitude: 20.70693
+  longitude: -156.159177
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 8.9

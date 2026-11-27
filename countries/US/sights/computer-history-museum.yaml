@@ -1,0 +1,16 @@
+id: sight-us-computer-history-museum
+name: "Computer History Museum Mountain View"
+location:
+  country_code: US
+  latitude: 37.4145
+  longitude: -122.0769
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.3
+    family: 9.1

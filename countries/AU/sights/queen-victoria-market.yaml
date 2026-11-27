@@ -1,0 +1,16 @@
+id: sight-au-queen-victoria-market
+name: "Queen Victoria Market Melbourne Historic Market"
+location:
+  country_code: AU
+  latitude: -37.807
+  longitude: 144.956
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.1
+  depth: 8.8
+  categories:
+    food: 9.4
+    culture: 9.2
+    history: 9.1

@@ -1,0 +1,16 @@
+id: sight-ca-canadian-museum-of-history
+name: "Canadian Museum of History"
+location:
+  country_code: CA
+  latitude: 45.42985
+  longitude: -75.70818
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.0

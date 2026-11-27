@@ -1,0 +1,17 @@
+id: sight-nz-redwoods-treewalk
+name: "Redwoods Treewalk"
+location:
+  country_code: NZ
+  latitude: -38.156699
+  longitude: 176.273242
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 7.6
+  experience: 8.9
+  depth: 8.0
+  categories:
+    nature: 8.5
+    adventure: 8.8
+    family: 8.8
+    photography: 8.6

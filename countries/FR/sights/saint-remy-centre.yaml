@@ -1,0 +1,16 @@
+id: sight-fr-saint-remy-centre
+name: "Saint-Rémy-de-Provence Historic Centre"
+location:
+  country_code: FR
+  latitude: 43.789
+  longitude: 4.832
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.1
+    culture: 9.2
+    history: 9.1

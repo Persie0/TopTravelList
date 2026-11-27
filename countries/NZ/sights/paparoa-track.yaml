@@ -1,0 +1,16 @@
+id: sight-nz-paparoa-track
+name: "Paparoa Track Multi-Day Hiking and Mountain Biking"
+location:
+  country_code: NZ
+  latitude: -42.18
+  longitude: 171.46
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    photography: 9.3

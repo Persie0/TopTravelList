@@ -1,0 +1,16 @@
+id: sight-it-naples-catacombs
+name: "Catacombs of San Gennaro and San Gaudioso Naples"
+location:
+  country_code: IT
+  latitude: 40.86378
+  longitude: 14.24706
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 9.0

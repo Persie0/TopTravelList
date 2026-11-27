@@ -1,0 +1,16 @@
+id: sight-au-cable-beach
+name: "Cable Beach (Broome)"
+location:
+  country_code: AU
+  latitude: -17.84911
+  longitude: 122.21047
+scores:
+  impact: 8.7
+  uniqueness: 8.2
+  significance: 7.8
+  experience: 8.8
+  depth: 7.9
+  categories:
+    beaches: 9.0
+    photography: 9.0
+    relaxation: 8.8

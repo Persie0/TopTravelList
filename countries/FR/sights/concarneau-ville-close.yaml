@@ -1,0 +1,17 @@
+id: sight-fr-concarneau-ville-close
+name: "Concarneau Ville Close and Ramparts"
+location:
+  country_code: FR
+  latitude: 47.87281
+  longitude: -3.91376
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    photography: 9.3
+    history: 9.1
+    culture: 9.0

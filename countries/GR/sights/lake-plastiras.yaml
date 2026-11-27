@@ -1,0 +1,17 @@
+id: sight-gr-lake-plastiras
+name: "Lake Plastiras and Shoreline Trails"
+location:
+  country_code: GR
+  latitude: 39.3
+  longitude: 21.75
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 9.0
+    relaxation: 9.0

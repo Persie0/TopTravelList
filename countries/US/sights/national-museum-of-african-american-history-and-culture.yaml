@@ -1,0 +1,16 @@
+id: sight-us-national-museum-of-african-american-history-and-culture
+name: "National Museum of African American History and Culture"
+location:
+  country_code: US
+  latitude: 38.89106
+  longitude: -77.0327
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 8.8

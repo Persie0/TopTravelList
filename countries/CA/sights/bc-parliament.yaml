@@ -1,0 +1,16 @@
+id: sight-ca-bc-parliament
+name: "British Columbia Parliament Buildings Victoria"
+location:
+  country_code: CA
+  latitude: 48.42
+  longitude: -123.37
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.2
+    culture: 9.1

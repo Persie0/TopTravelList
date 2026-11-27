@@ -1,0 +1,16 @@
+id: sight-au-acmi
+name: "ACMI Australian Centre for the Moving Image Melbourne"
+location:
+  country_code: AU
+  latitude: -37.818
+  longitude: 144.969
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.2
+    family: 9.2

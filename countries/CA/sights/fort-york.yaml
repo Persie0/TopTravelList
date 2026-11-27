@@ -1,0 +1,16 @@
+id: sight-ca-fort-york
+name: "Fort York National Historic Site Toronto"
+location:
+  country_code: CA
+  latitude: 43.639
+  longitude: -79.403
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.1
+    architecture: 9.1

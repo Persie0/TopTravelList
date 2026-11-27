@@ -1,0 +1,16 @@
+id: sight-us-cannon-beach
+name: "Cannon Beach Haystack Rock and Ecola State Park Oregon"
+location:
+  country_code: US
+  latitude: 45.884
+  longitude: -123.968
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.4
+    beaches: 9.2

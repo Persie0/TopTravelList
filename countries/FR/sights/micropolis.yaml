@@ -1,0 +1,16 @@
+id: sight-fr-micropolis
+name: "Micropolis Insect Discovery Park"
+location:
+  country_code: FR
+  latitude: 44.214
+  longitude: 2.958
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 9.0
+  depth: 8.7
+  categories:
+    family: 9.3
+    wildlife: 9.2
+    nature: 9.1

@@ -1,0 +1,16 @@
+id: sight-ca-fundy-national-park
+name: "Fundy National Park"
+location:
+  country_code: CA
+  latitude: 45.595575
+  longitude: -64.950832
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.1
+    photography: 8.9
+    adventure: 8.7

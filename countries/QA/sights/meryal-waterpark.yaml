@@ -1,0 +1,16 @@
+id: sight-qa-meryal-waterpark
+name: "Meryal Waterpark"
+location:
+  country_code: QA
+  latitude: 25.43189
+  longitude: 51.53255
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 6.3
+  experience: 9.1
+  depth: 8.9
+  categories:
+    family: 9.2
+    adventure: 9.2
+    photography: 8.5

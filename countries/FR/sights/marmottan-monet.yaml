@@ -1,0 +1,16 @@
+id: sight-fr-marmottan-monet
+name: "Musée Marmottan Monet Paris"
+location:
+  country_code: FR
+  latitude: 48.8593
+  longitude: 2.2673
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 8.8

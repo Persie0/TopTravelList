@@ -1,0 +1,16 @@
+id: sight-fr-musee-national-prehistoire
+name: "Musée national de Préhistoire Les Eyzies"
+location:
+  country_code: FR
+  latitude: 44.936
+  longitude: 1.013
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    family: 9.0

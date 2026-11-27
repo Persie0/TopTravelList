@@ -1,0 +1,16 @@
+id: sight-pg-madang-diving
+name: "Madang Offshore Reef and Island Diving"
+location:
+  country_code: PG
+  latitude: -5.2
+  longitude: 145.81
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.2

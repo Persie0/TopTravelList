@@ -1,0 +1,16 @@
+id: sight-au-hastings-caves
+name: "Hastings Caves and Thermal Springs Tasmania"
+location:
+  country_code: AU
+  latitude: -43.42
+  longitude: 146.93
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.6
+  categories:
+    nature: 9.2
+    relaxation: 9.1
+    photography: 9.0

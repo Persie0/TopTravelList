@@ -1,0 +1,16 @@
+id: sight-fr-sigean-wildlife-park
+name: "Réserve Africaine de Sigean Wildlife Safari Park"
+location:
+  country_code: FR
+  latitude: 43.061
+  longitude: 2.963
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.3
+  depth: 9.3
+  categories:
+    wildlife: 9.4
+    family: 9.4
+    nature: 9.1

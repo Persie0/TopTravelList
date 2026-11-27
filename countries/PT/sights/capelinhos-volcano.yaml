@@ -1,0 +1,18 @@
+id: sight-pt-capelinhos-volcano
+name: "Capelinhos Volcano and Interpretation Centre"
+location:
+  country_code: PT
+  latitude: 38.59679
+  longitude: -28.82544
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.3
+    history: 9.1
+    culture: 8.9
+    adventure: 8.8

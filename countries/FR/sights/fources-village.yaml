@@ -1,0 +1,16 @@
+id: sight-fr-fources-village
+name: "Fourcès Circular Historic Bastide"
+location:
+  country_code: FR
+  latitude: 43.993
+  longitude: 0.23
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.7
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    photography: 9.2
+    culture: 9.0

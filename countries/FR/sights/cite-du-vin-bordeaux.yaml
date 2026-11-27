@@ -1,0 +1,17 @@
+id: sight-fr-cite-du-vin-bordeaux
+name: "Cité du Vin Bordeaux Wine Culture Museum"
+location:
+  country_code: FR
+  latitude: 44.86237
+  longitude: -0.55002
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 9.1
+  depth: 9.1
+  categories:
+    culture: 9.3
+    architecture: 9.3
+    food: 9.2
+    photography: 9.1

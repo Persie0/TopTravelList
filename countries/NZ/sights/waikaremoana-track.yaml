@@ -1,0 +1,16 @@
+id: sight-nz-waikaremoana-track
+name: "Lake Waikaremoana Great Walk Te Urewera"
+location:
+  country_code: NZ
+  latitude: -38.76
+  longitude: 177.05
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.9
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    culture: 9.3

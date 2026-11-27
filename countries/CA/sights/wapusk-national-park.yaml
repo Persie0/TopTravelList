@@ -1,0 +1,16 @@
+id: sight-ca-wapusk-national-park
+name: "Wapusk National Park"
+location:
+  country_code: CA
+  latitude: 57.8
+  longitude: -93.23
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.0
+  depth: 8.6
+  categories:
+    wildlife: 9.3
+    nature: 9.0
+    photography: 8.9

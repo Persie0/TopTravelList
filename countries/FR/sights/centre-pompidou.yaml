@@ -1,0 +1,17 @@
+id: sight-fr-centre-pompidou
+name: "Centre Pompidou and National Museum of Modern Art Paris"
+location:
+  country_code: FR
+  latitude: 48.8606723
+  longitude: 2.3523745
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 9.4
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    history: 9.3
+    photography: 9.1

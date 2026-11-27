@@ -1,0 +1,16 @@
+id: sight-us-heard-museum
+name: "Heard Museum Phoenix Indigenous Art and Culture"
+location:
+  country_code: US
+  latitude: 33.472
+  longitude: -112.073
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 8.8

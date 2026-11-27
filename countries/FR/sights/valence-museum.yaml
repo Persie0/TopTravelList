@@ -1,0 +1,15 @@
+id: sight-fr-valence-museum
+name: "Musée de Valence Art and Archaeology Museum"
+location:
+  country_code: FR
+  latitude: 44.932
+  longitude: 4.89
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.2

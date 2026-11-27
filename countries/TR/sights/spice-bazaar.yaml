@@ -1,0 +1,17 @@
+id: sight-tr-spice-bazaar
+name: "Spice Bazaar Istanbul"
+location:
+  country_code: TR
+  latitude: 41.0165
+  longitude: 28.97052
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.0
+  depth: 8.0
+  categories:
+    food: 9.3
+    culture: 9.1
+    architecture: 8.8
+    photography: 8.8

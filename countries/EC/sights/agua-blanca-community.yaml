@@ -1,0 +1,16 @@
+id: sight-ec-agua-blanca-community
+name: "Agua Blanca Community Archaeology and Sulphur Lagoon"
+location:
+  country_code: EC
+  latitude: -1.529
+  longitude: -80.724
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9.3
+    history: 9.2
+    nature: 8.9

@@ -1,0 +1,17 @@
+id: sight-tr-izmir-culture-arts-factory
+name: "İzmir Culture and Arts Factory Museums"
+location:
+  country_code: TR
+  latitude: 38.43629
+  longitude: 27.14766
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.9
+  depth: 8.9
+  categories:
+    culture: 9.2
+    history: 9.0
+    architecture: 9.0
+    family: 8.9

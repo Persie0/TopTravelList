@@ -1,0 +1,16 @@
+id: sight-br-museu-da-republica-catete
+name: "Museu da República Catete Palace Rio de Janeiro Political History"
+location:
+  country_code: BR
+  latitude: -22.926
+  longitude: -43.176
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 9.2
+    culture: 9.1

@@ -1,0 +1,16 @@
+id: sight-au-australian-reptile-park
+name: "Australian Reptile Park Somersby New South Wales"
+location:
+  country_code: AU
+  latitude: -33.414
+  longitude: 151.276
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.7
+  categories:
+    wildlife: 9.2
+    family: 9.2
+    nature: 8.9

@@ -1,0 +1,16 @@
+id: sight-ca-national-arts-centre
+name: "National Arts Centre Ottawa Public Performing Arts"
+location:
+  country_code: CA
+  latitude: 45.423
+  longitude: -75.693
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.3
+    nightlife: 9.2
+    architecture: 9.1

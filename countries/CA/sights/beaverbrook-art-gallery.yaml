@@ -1,0 +1,16 @@
+id: sight-ca-beaverbrook-art-gallery
+name: "Beaverbrook Art Gallery Fredericton"
+location:
+  country_code: CA
+  latitude: 45.96
+  longitude: -66.64
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 9.1

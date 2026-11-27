@@ -1,0 +1,16 @@
+id: sight-ca-the-rooms
+name: "The Rooms Newfoundland and Labrador Provincial Museum St John’s"
+location:
+  country_code: CA
+  latitude: 47.568
+  longitude: -52.713
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.3
+    architecture: 9.2

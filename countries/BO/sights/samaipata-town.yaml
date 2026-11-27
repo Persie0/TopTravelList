@@ -1,0 +1,16 @@
+id: sight-bo-samaipata-town
+name: "Samaipata Historic Town and Market Streets"
+location:
+  country_code: BO
+  latitude: -18.18
+  longitude: -63.88
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.4
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 8.9
+    architecture: 8.8
+    relaxation: 8.8

@@ -1,0 +1,15 @@
+id: sight-fr-musee-du-desert
+name: "Musée du Désert Mialet Protestant Heritage Museum"
+location:
+  country_code: FR
+  latitude: 44.107
+  longitude: 3.94
+scores:
+  impact: 8.3
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.2

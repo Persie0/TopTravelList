@@ -1,0 +1,16 @@
+id: sight-au-litchfield-national-park
+name: "Litchfield National Park Waterfalls and Termite Mounds"
+location:
+  country_code: AU
+  latitude: -13.16
+  longitude: 130.77
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.1

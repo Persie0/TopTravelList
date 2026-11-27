@@ -1,0 +1,16 @@
+id: sight-us-black-canyon-of-the-gunnison-national-park
+name: "Black Canyon of the Gunnison National Park"
+location:
+  country_code: US
+  latitude: 38.577799
+  longitude: -107.724276
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.1
+    photography: 9.2
+    adventure: 8.7

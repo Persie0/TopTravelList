@@ -1,0 +1,16 @@
+id: sight-us-ryman-auditorium
+name: "Ryman Auditorium Nashville Historic Venue Tours"
+location:
+  country_code: US
+  latitude: 36.161
+  longitude: -86.778
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    culture: 9.2
+    history: 9.2
+    architecture: 9.0

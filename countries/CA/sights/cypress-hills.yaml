@@ -1,0 +1,16 @@
+id: sight-ca-cypress-hills
+name: "Cypress Hills Interprovincial Park Upland Forest and Dark Sky"
+location:
+  country_code: CA
+  latitude: 49.66
+  longitude: -109.5
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 9.2

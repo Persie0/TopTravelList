@@ -1,0 +1,16 @@
+id: sight-nz-maungatautari
+name: "Sanctuary Mountain Maungatautari Native Forest and Wildlife Sanctuary"
+location:
+  country_code: NZ
+  latitude: -38.045
+  longitude: 175.56
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.2

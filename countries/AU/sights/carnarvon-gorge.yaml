@@ -1,0 +1,16 @@
+id: sight-au-carnarvon-gorge
+name: "Carnarvon Gorge National Park Queensland"
+location:
+  country_code: AU
+  latitude: -25.072
+  longitude: 148.245
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.9
+  depth: 8.9
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

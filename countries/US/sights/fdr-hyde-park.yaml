@@ -1,0 +1,16 @@
+id: sight-us-fdr-hyde-park
+name: "Franklin D Roosevelt Presidential Library Museum and Springwood Home Hyde Park"
+location:
+  country_code: US
+  latitude: 41.766
+  longitude: -73.936
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 9.0

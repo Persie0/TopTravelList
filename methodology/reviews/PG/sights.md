@@ -832,3 +832,262 @@ These are scope decisions, not safety assessments or access guarantees. Sources 
 ### Heritage inventory recheck (2026-11-26)
 
 UNESCO country list https://whc.unesco.org/en/statesparties/pg (opened) confirms one inscribed and seven tentative properties, all represented at property level in this inventory. Six larger proposed areas retain incomplete visitor dimensions. Separate component inventory, full claim verification, precise representative points and visitor conditions remain outstanding.
+
+## sight-pg-goroka-show — Goroka Annual Cultural Show — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/goroka-show.yaml)
+- Action: new
+- Scope: Established recurring cultural gathering and public sing-sing performances; past edition supports intrinsic rating, no future event date assumed. 9.5 uniqueness/culture justified by distinctive gathering of diverse Highlands traditions, not assumed universal access.
+- Representative coordinates: -6.08, 145.39; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.5 / 9.3 / 9.1 / 8.9.
+- Categories: culture:9.5 photography:9.4 history:9.2.
+- Overall: 92.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/goroka-show/, https://www.dfa.gov.pg/cultural-events/.
+- 9.5 uniqueness and culture provisional, supported by distinct multi-community living traditions and recurring public gathering; independent high-score calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/upper-sepik-river-basin](../../../countries/PG/sights/upper-sepik-river-basin.yaml) | 8.7 / 9.1 / 9.2 / 8.9 / 9.0 | impact: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [PG/national-museum-art-gallery](../../../countries/PG/sights/national-museum-art-gallery.yaml) | 7.5 / 8.4 / 8.6 / 8.0 / 7.7 | impact: +1.8 vs peer; depth: +1.2 vs peer |
+| [VU/south-pentecost-naghol](../../../countries/VU/sights/south-pentecost-naghol.yaml) | 9.0 / 9.5 / 9.0 / 8.6 / 7.5 | depth: +1.4 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-mount-hagen-show — Mount Hagen Annual Cultural Show — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/mount-hagen-show.yaml)
+- Action: new
+- Scope: Recurring public cultural gathering at Queen's Park, distinct location and participating groups from Goroka; no future dates or guaranteed performances.
+- Representative coordinates: -5.86, 144.23; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.3 / 9.1 / 8.9.
+- Categories: culture:9.4 photography:9.4 history:9.2.
+- Overall: 92.55/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/hagen-show/, https://papuanewguinea.travel/cultural-tours/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/upper-sepik-river-basin](../../../countries/PG/sights/upper-sepik-river-basin.yaml) | 8.7 / 9.1 / 9.2 / 8.9 / 9.0 | impact: +0.6 vs peer; uniqueness: +0.3 vs peer |
+| [PG/national-museum-art-gallery](../../../countries/PG/sights/national-museum-art-gallery.yaml) | 7.5 / 8.4 / 8.6 / 8.0 / 7.7 | impact: +1.8 vs peer; depth: +1.2 vs peer |
+| [VU/south-pentecost-naghol](../../../countries/VU/sights/south-pentecost-naghol.yaml) | 9.0 / 9.5 / 9.0 / 8.6 / 7.5 | depth: +1.4 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-kumul-birdwatching — Kumul Lodge Highland Forest Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/kumul-birdwatching.yaml)
+- Action: new
+- Scope: Established highland forest birding, lodge is access base not hotel ranking; no guaranteed species encounters. Approximate highland locality.
+- Representative coordinates: -5.83, 143.97; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.2 / 9.0 / 8.9.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/business/kumul-lodge/, https://papuanewguinea.travel/stories/welcome-to-mount-hagen/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/varirata-national-park](../../../countries/PG/sights/varirata-national-park.yaml) | 8.0 / 8.1 / 8.0 / 8.2 / 7.9 | uniqueness: +1.2 vs peer; significance: +1.2 vs peer |
+| [PG/mount-wilhelm](../../../countries/PG/sights/mount-wilhelm.yaml) | 8.8 / 8.5 / 7.8 / 8.6 / 8.3 | significance: +1.4 vs peer; uniqueness: +0.8 vs peer |
+| [NZ/kapiti-island](../../../countries/NZ/sights/kapiti-island.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | depth: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-mount-giluwe — Mount Giluwe Guided Multi-Day Highland Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/mount-giluwe.yaml)
+- Action: new
+- Scope: Guided ascent of eroded volcanic massif, local permission and safety conditions required; separate from Mount Wilhelm.
+- Representative coordinates: -6.04, 143.89; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.7 / 8.7 / 9.0.
+- Categories: nature:9.3 adventure:9.4 photography:9.2.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/natural-landmarks/mount-giluwe/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/mount-wilhelm](../../../countries/PG/sights/mount-wilhelm.yaml) | 8.8 / 8.5 / 7.8 / 8.6 / 8.3 | significance: +0.9 vs peer; depth: +0.7 vs peer |
+| [PG/kokoda-track](../../../countries/PG/sights/kokoda-track.yaml) | 8.5 / 8.9 / 9.0 / 9.0 / 9.1 | impact: +0.5 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 214 scope decisions
+
+Goroka and Mount Hagen recurring seasonal events separately scoped, not future confirmed dates; local community consent and travel safety required. Kumul birdwatching distinct from Varirata. Existing restricted or tentative properties left unassessed.
+
+## sight-pg-mask-warwagira — National Mask and Warwagira Cultural Festival Kokopo — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/mask-warwagira.yaml)
+- Action: new
+- Scope: Recurring public festival showcasing Tolai, Baining and Pomio traditions; no future schedule or private rites assumed.
+- Representative coordinates: -4.34, 152.27; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/mask-warwagira-festival/, https://papuanewguinea.travel/cultural-tours/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/goroka-show](../../../countries/PG/sights/goroka-show.yaml) | 9.3 / 9.5 / 9.3 / 9.1 / 8.9 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [PG/mount-hagen-show](../../../countries/PG/sights/mount-hagen-show.yaml) | 9.3 / 9.4 / 9.3 / 9.1 / 8.9 | impact: -0.1 vs peer; depth: +0.1 vs peer |
+| [VU/ambrym-rom](../../../countries/VU/sights/ambrym-rom.yaml) | 8.8 / 9.3 / 9.3 / 9.0 / 8.9 | impact: +0.4 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-kenu-kundu — National Kenu and Kundu Cultural Festival Alotau — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/kenu-kundu.yaml)
+- Action: new
+- Scope: Recurring canoe and cultural festival, separate from marine conservation and other provincial festivals; future dates not assumed.
+- Representative coordinates: -10.31, 150.46; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/national-kenu-and-kundu-festival/, https://ntdp.papuanewguinea.travel/events.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/goroka-show](../../../countries/PG/sights/goroka-show.yaml) | 9.3 / 9.5 / 9.3 / 9.1 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [PG/mount-hagen-show](../../../countries/PG/sights/mount-hagen-show.yaml) | 9.3 / 9.4 / 9.3 / 9.1 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [VU/ambrym-rom](../../../countries/VU/sights/ambrym-rom.yaml) | 8.8 / 9.3 / 9.3 / 9.0 / 8.9 | impact: +0.3 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-kavieng-diving — Kavieng New Ireland Guided Reef and Wreck Diving — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/kavieng-diving.yaml)
+- Action: new
+- Scope: Established New Ireland diving region, distinct from Kimbe Bay and Tufi; regional proxy, no guaranteed coral health, wildlife or wreck penetration.
+- Representative coordinates: -2.59, 150.76; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.9 / 9.1 / 9.0.
+- Categories: nature:9.3 adventure:9.4 wildlife:9.3.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/diving/, https://papuanewguinea.travel/stories/first-time-visitors-guide-papua-new-guinea/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/kimbe-bay](../../../countries/PG/sights/kimbe-bay.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.0 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [PG/tufi-fjords](../../../countries/PG/sights/tufi-fjords.yaml) | 9.2 / 9.3 / 8.6 / 9.0 / 8.9 | significance: +0.3 vs peer; uniqueness: -0.2 vs peer |
+| [SB/gizo-diving](../../../countries/SB/sights/gizo-diving.yaml) | 9.2 / 9.2 / 9.0 / 9.1 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-madang-diving — Madang Offshore Reef and Island Diving — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/madang-diving.yaml)
+- Action: new
+- Scope: Madang reef circuit separate from New Ireland and Kimbe; no pristine coral or wildlife guarantee.
+- Representative coordinates: -5.2, 145.81; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.8 / 9.0 / 8.9.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.2.
+- Overall: 89.25/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/diving/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/kimbe-bay](../../../countries/PG/sights/kimbe-bay.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.0 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer |
+| [PG/conflict-islands](../../../countries/PG/sights/conflict-islands.yaml) | 8.9 / 8.9 / 9.0 / 9.0 / 8.6 | depth: +0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 218 scope decisions
+
+National Mask and Kenu/Kundu festivals separately scoped; distinct regions and traditions. Kavieng and Madang diving separate from Kimbe and Tufi. Remaining Rabaul, Trobriand and other regional candidates require further scope review.
+
+## sight-pg-kiriwina-show — Kiriwina Trobriand Islands Annual Cultural Show — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/kiriwina-show.yaml)
+- Action: new
+- Scope: Former Milamala Yam Festival, public performances and island traditions; no future date or private ceremony assumed. Kiriwina locality proxy.
+- Representative coordinates: -8.48, 151.08; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/kiriwina-cultural-show/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/goroka-show](../../../countries/PG/sights/goroka-show.yaml) | 9.3 / 9.5 / 9.3 / 9.1 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [PG/kenu-kundu](../../../countries/PG/sights/kenu-kundu.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 9.0 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [WS/samoa-cultural-village](../../../countries/WS/sights/samoa-cultural-village.yaml) | 8.6 / 9.0 / 9.0 / 8.9 / 8.7 | impact: +0.5 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-ambua-birdwatching — Ambua Tari Highland Forest Guided Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/ambua-birdwatching.yaml)
+- Action: new
+- Scope: Forest birdwatching with local guides; distinct from Kumul; tourism authority reports 217 recorded species including 13 birds-of-paradise species. No guaranteed sightings. Australian and Austrian travel advice warns about unrest in Hela; defer travel while applicable advice stands. Broad Tari locality proxy.
+- Representative coordinates: -5.95, 143.02; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.0 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/business/ambua-lodge/, https://papuanewguinea.travel/bird-watching/, https://www.smartraveller.gov.au/destinations/pacific/papua-new-guinea, https://www.bmeia.gv.at/reise-services/reiseinformation/land/papua-neuguinea/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/kumul-birdwatching](../../../countries/PG/sights/kumul-birdwatching.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 8.9 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+| [PG/varirata-national-park](../../../countries/PG/sights/varirata-national-park.yaml) | 8.0 / 8.1 / 8.0 / 8.2 / 7.9 | uniqueness: +1.3 vs peer; significance: +1.2 vs peer |
+| [CK/takitumu](../../../countries/CK/sights/takitumu.yaml) | 8.3 / 9.1 / 9.2 / 8.2 / 8.2 | depth: +0.9 vs peer; impact: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-rabaul-historic-tour — Rabaul and Kokopo Guided Historical Heritage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/rabaul-historic-tour.yaml)
+- Action: new
+- Scope: Public museum, commemorative and historical interpretation circuit, excludes Tavurvur volcano, mask festival and restricted facilities; no unsafe tunnel access assumed.
+- Representative coordinates: -4.25, 152.19; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.3 / 8.7 / 9.0.
+- Categories: history:9.4 culture:9.2 photography:9.1.
+- Overall: 89.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/business/rabaul-historical-tours/, https://papuanewguinea.travel/stories/east-new-britain-a-living-museum/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/national-museum-art-gallery](../../../countries/PG/sights/national-museum-art-gallery.yaml) | 7.5 / 8.4 / 8.6 / 8.0 / 7.7 | depth: +1.3 vs peer; impact: +1.2 vs peer |
+| [PG/tavurvur](../../../countries/PG/sights/tavurvur.yaml) | 8.8 / 8.6 / 8.1 / 8.0 / 7.4 | depth: +1.6 vs peer; significance: +1.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 219 scope decisions
+
+Kiriwina show and Rabaul heritage circuit separate from other festivals and volcanic sites. Ambua distinct from Kumul; Hela security concerns verified as of 27 November 2026 (https://www.smartraveller.gov.au/destinations/pacific/papua-new-guinea). Intrinsic scores not travel advice. Six preexisting unassessed retained. Bounded queue closed.

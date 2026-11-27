@@ -1,0 +1,16 @@
+id: sight-fr-musee-granet
+name: "Musée Granet and Granet XXe Aix-en-Provence Fine Arts Museum"
+location:
+  country_code: FR
+  latitude: 43.524
+  longitude: 5.452
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

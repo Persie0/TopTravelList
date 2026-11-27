@@ -1,0 +1,16 @@
+id: sight-es-caminito-del-rey
+name: "Caminito del Rey"
+location:
+  country_code: ES
+  latitude: 36.92417
+  longitude: -4.77833
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 9.0
+  depth: 8.3
+  categories:
+    adventure: 9.2
+    nature: 9.0
+    photography: 9.2

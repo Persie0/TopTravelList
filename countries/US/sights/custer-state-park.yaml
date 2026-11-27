@@ -1,0 +1,16 @@
+id: sight-us-custer-state-park
+name: "Custer State Park Needles Highway and Bison Wildlife Loop"
+location:
+  country_code: US
+  latitude: 43.76
+  longitude: -103.38
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

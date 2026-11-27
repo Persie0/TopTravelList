@@ -1,0 +1,17 @@
+id: sight-ae-al-noor-island
+name: "Al Noor Island"
+location:
+  country_code: AE
+  latitude: 25.3343834
+  longitude: 55.3848622
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 7.3
+  experience: 8.5
+  depth: 7.9
+  categories:
+    nature: 8.5
+    photography: 8.9
+    relaxation: 8.9
+    family: 8.5

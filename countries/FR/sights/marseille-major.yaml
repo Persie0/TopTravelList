@@ -1,0 +1,16 @@
+id: sight-fr-marseille-major
+name: "Cathédrale de la Major Marseille"
+location:
+  country_code: FR
+  latitude: 43.299
+  longitude: 5.365
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.4
+    photography: 9.3
+    history: 9.1

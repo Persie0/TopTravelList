@@ -1,0 +1,16 @@
+id: sight-tr-lower-duden-waterfall
+name: "Lower Düden Waterfall and Coastal Park Antalya"
+location:
+  country_code: TR
+  latitude: 36.85096
+  longitude: 30.7835
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.0
+  experience: 8.7
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.3
+    relaxation: 8.8

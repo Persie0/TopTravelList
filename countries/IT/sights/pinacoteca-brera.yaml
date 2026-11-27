@@ -1,0 +1,16 @@
+id: sight-it-pinacoteca-brera
+name: "Pinacoteca di Brera Milan"
+location:
+  country_code: IT
+  latitude: 45.47224
+  longitude: 9.18841
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 8.9

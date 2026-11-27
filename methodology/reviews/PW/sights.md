@@ -969,3 +969,120 @@ Core values I/U/S/E/D; original qualitative comparisons retained. Editorial comp
 ## Inventory coverage and backlog
 
 UNESCO country register https://whc.unesco.org/en/statesparties/pw/ confirms one inscription and four tentative properties; both explicitly named quarry components represented. No component-specific visitor access inferred. Other regional attractions and additional archaeological components remain backlog.
+
+## sight-pw-peleliu-outer-reef — Peleliu Southern Outer Reef Guided Advanced Diving — 2026-11-27
+
+- YAML: [source](../../../countries/PW/sights/peleliu-outer-reef.yaml)
+- Action: new
+- Scope: Southern Peleliu reef walls only, excludes land battlefield and Rock Islands lagoon circuit. Strong currents, serious September 2026 diving incident; advanced guided diving conditional on local safety advice. No guaranteed reef condition.
+- Representative coordinates: 6.9833, 134.2; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.8 / 8.8 / 8.9.
+- Categories: nature:9.4 wildlife:9.3 adventure:9.3.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.padi.com/dive-site/palau/peleliu-wall/, https://pristineparadisepalau.com/experience/peleliu-divers/, https://world.dan.org/alert-diver/article/palau/, https://islandtimes.org/day-8-search-ends-for-two-experienced-divers-missing-at-palaus-peleliu-wall/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PW/blue-corner](../../../countries/PW/sights/blue-corner.yaml) | 9.3 / 9.0 / 8.3 / 9.3 / 8.6 | significance: +0.5 vs peer; experience: -0.5 vs peer |
+| [PW/ulong-channel](../../../countries/PW/sights/ulong-channel.yaml) | 9.0 / 8.8 / 8.1 / 9.1 / 8.3 | significance: +0.7 vs peer; depth: +0.6 vs peer |
+| [FM/miil-channel](../../../countries/FM/sights/miil-channel.yaml) | 9.1 / 9.1 / 8.6 / 9.0 / 7.9 | depth: +1.0 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pw-angaur-heritage — Angaur Island Guided Historical and Coastal Tour — 2026-11-27
+
+- YAML: [source](../../../countries/PW/sights/angaur-heritage.yaml)
+- Action: new
+- Scope: Community-permitted historical and coastal visits; no unexploded ordnance or restricted sites credited. Separate from Peleliu battlefield.
+- Representative coordinates: 6.91, 134.14; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.3 / 8.6 / 8.6 / 8.4 / 8.3.
+- Categories: history:9.1 nature:9.0 photography:9.0.
+- Overall: 84.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://pristineparadisepalau.com/experience/peleliu-adventures/, https://pristineparadisepalau.com/experience/ramm-dream-catcher-boats/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PW/peleliu-battlefield](../../../countries/PW/sights/peleliu-battlefield.yaml) | 8.5 / 8.7 / 9.2 / 8.5 / 8.6 | significance: -0.6 vs peer; depth: -0.3 vs peer |
+| [PW/kayangel-atoll](../../../countries/PW/sights/kayangel-atoll.yaml) | 8.6 / 8.3 / 7.9 / 8.3 / 8.0 | significance: +0.7 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pw-ngatpang-falls — Ngatpang Waterfall Babeldaob Forest Walk — 2026-11-27
+
+- YAML: [source](../../../countries/PW/sights/ngatpang-falls.yaml)
+- Action: new
+- Scope: Distinct waterfall, not Ngardmau; representative state locality pending exact GPS, permitted access only.
+- Representative coordinates: 7.48, 134.52; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.2 / 7.7 / 8.3 / 7.8.
+- Categories: nature:8.9 photography:8.8 adventure:8.6.
+- Overall: 80.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PW/ngardmau-waterfall](../../../countries/PW/sights/ngardmau-waterfall.yaml) | 8.0 / 7.4 / 6.7 / 8.1 / 7.4 | significance: +1.0 vs peer; uniqueness: +0.8 vs peer |
+| [PW/lake-ngardok](../../../countries/PW/sights/lake-ngardok.yaml) | 7.2 / 7.6 / 8.0 / 7.7 / 6.9 | impact: +0.9 vs peer; depth: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 215 scope decisions
+
+Peleliu southern reef distinct from battlefield and lagoon, advanced conditions and September 2026 incident noted. Ebiil conservation importance documented but permitted visitor experience not established; deferred. No duplicated Rock Islands kayaking or named existing dives.
+
+## sight-pw-koror-wreck-diving — Koror Inner Lagoon Historic Shipwreck Diving Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PW/sights/koror-wreck-diving.yaml)
+- Action: new
+- Scope: Specialist guided historical wreck circuit around Koror and inner lagoon, including Iro; excludes reef dives and land battlefield. Parent Rock Islands geographical overlap documented, not additive. No penetration, salvage, current site access or intact condition assumed; regional proxy not dive point.
+- Representative coordinates: 7.32, 134.45; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.0 / 9.1.
+- Categories: history:9.4 adventure:9.3 culture:9.2.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://pristineparadisepalau.com/dive-palau/, https://pristineparadisepalau.com/special-events/wrexpedition-palau-2025/, https://www.scubadiving.com/travel/ultimate-palau-dive-guide.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PW/peleliu-battlefield](../../../countries/PW/sights/peleliu-battlefield.yaml) | 8.5 / 8.7 / 9.2 / 8.5 / 8.6 | impact: +0.6 vs peer; uniqueness: +0.5 vs peer |
+| [PW/blue-corner](../../../countries/PW/sights/blue-corner.yaml) | 9.3 / 9.0 / 8.3 / 9.3 / 8.6 | significance: +1.0 vs peer; depth: +0.5 vs peer |
+| [MH/bikini-atoll-nuclear-test-site](../../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml) | 8.8 / 9.4 / 9.6 / 8.7 / 8.8 | impact: +0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pw-palau-aquarium — Palau Aquarium and Coral Reef Research Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/PW/sights/palau-aquarium.yaml)
+- Action: new
+- Scope: Five ecosystem exhibits at public research centre aquarium; no access to restricted labs assumed. Distinct indoor educational experience from reef diving.
+- Representative coordinates: 7.34, 134.47; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.2 / 8.5 / 8.7 / 8.6 / 8.5.
+- Categories: nature:9.1 wildlife:9.1 family:9.1.
+- Overall: 84.65/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://picrc.org/PalauAquarium/, https://picrc.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PW/belau-national-museum](../../../countries/PW/sights/belau-national-museum.yaml) | 7.3 / 8.2 / 8.3 / 7.9 / 7.7 | impact: +0.9 vs peer; depth: +0.8 vs peer |
+| [PW/lake-ngardok](../../../countries/PW/sights/lake-ngardok.yaml) | 7.2 / 7.6 / 8.0 / 7.7 / 6.9 | depth: +1.6 vs peer; impact: +1.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 220 scope decisions
+
+Historic wreck dives grouped and separately scoped; nested Rock Islands parent overlap flagged. Aquarium public educational exhibits separate. Ebiil and other restricted sites remain deferred. River cruise deferred pending contemporary operating evidence.

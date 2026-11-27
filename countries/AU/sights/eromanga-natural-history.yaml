@@ -1,0 +1,16 @@
+id: sight-au-eromanga-natural-history
+name: "Eromanga Natural History Museum and Dinosaur Fossil Labs"
+location:
+  country_code: AU
+  latitude: -26.67
+  longitude: 143.27
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    history: 9.2
+    family: 9.3

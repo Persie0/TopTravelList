@@ -1,0 +1,16 @@
+id: sight-it-pitti-palace-museums
+name: "Pitti Palace Museums Florence"
+location:
+  country_code: IT
+  latitude: 43.76506
+  longitude: 11.24982
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    history: 9.3

@@ -1,0 +1,16 @@
+id: sight-au-national-library-australia
+name: "National Library of Australia Treasures Gallery Canberra"
+location:
+  country_code: AU
+  latitude: -35.296
+  longitude: 149.13
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 8.9

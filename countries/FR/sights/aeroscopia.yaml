@@ -1,0 +1,17 @@
+id: sight-fr-aeroscopia
+name: "Aeroscopia Aviation Museum Blagnac"
+location:
+  country_code: FR
+  latitude: 43.66
+  longitude: 1.358
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.3
+    history: 9.3
+    family: 9.4
+    photography: 9.1

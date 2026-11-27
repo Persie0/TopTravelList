@@ -1,0 +1,17 @@
+id: sight-pt-aveiro-canals
+name: "Aveiro Canals and Art Nouveau Streets"
+location:
+  country_code: PT
+  latitude: 40.64122
+  longitude: -8.65485
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.0
+    culture: 9.0
+    photography: 9.1
+    relaxation: 9.0

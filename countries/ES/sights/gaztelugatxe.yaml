@@ -1,0 +1,16 @@
+id: sight-es-gaztelugatxe
+name: "San Juan de Gaztelugatxe"
+location:
+  country_code: ES
+  latitude: 43.44741
+  longitude: -2.78483
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 9.2
+    photography: 9.4
+    architecture: 9.0

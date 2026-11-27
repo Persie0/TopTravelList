@@ -1,0 +1,15 @@
+id: sight-nz-moeraki-boulders
+name: "Moeraki Boulders / Kaihinaki"
+location:
+  country_code: NZ
+  latitude: -45.347008
+  longitude: 170.826096
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.5
+  depth: 7.3
+  categories:
+    nature: 8.8
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-us-evergreen-aviation
+name: "Evergreen Aviation and Space Museum McMinnville"
+location:
+  country_code: US
+  latitude: 45.205
+  longitude: -123.144
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.2
+    family: 9.2
+    photography: 9.1

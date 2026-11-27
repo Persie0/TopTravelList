@@ -1,0 +1,16 @@
+id: sight-ca-four-seasons-performing-arts
+name: "Four Seasons Centre Toronto National Ballet and Opera Performances"
+location:
+  country_code: CA
+  latitude: 43.65
+  longitude: -79.386
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.3
+  depth: 9.3
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    nightlife: 9.3

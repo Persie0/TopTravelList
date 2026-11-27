@@ -1,0 +1,17 @@
+id: sight-us-smithsonian-national-museum-of-natural-history
+name: "Smithsonian National Museum of Natural History"
+location:
+  country_code: US
+  latitude: 38.89125
+  longitude: -77.02597
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.4
+  categories:
+    nature: 9.4
+    family: 9.3
+    history: 9.1
+    culture: 9.0

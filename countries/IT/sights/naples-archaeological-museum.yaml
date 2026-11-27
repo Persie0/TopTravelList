@@ -1,0 +1,16 @@
+id: sight-it-naples-archaeological-museum
+name: "National Archaeological Museum of Naples"
+location:
+  country_code: IT
+  latitude: 40.85338
+  longitude: 14.25049
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 8.8

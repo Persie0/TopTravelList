@@ -1,0 +1,16 @@
+id: sight-us-epic-universe
+name: "Universal Epic Universe Orlando"
+location:
+  country_code: US
+  latitude: 28.469
+  longitude: -81.447
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.4
+  depth: 9.2
+  categories:
+    family: 9.4
+    adventure: 9.3
+    photography: 9.2

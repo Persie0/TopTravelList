@@ -1,0 +1,16 @@
+id: sight-fr-lac-bourget
+name: "Lac du Bourget Lake and Scenic Shores"
+location:
+  country_code: FR
+  latitude: 45.736
+  longitude: 5.876
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.1
+  depth: 8.9
+  categories:
+    nature: 9.3
+    photography: 9.3
+    relaxation: 9.3

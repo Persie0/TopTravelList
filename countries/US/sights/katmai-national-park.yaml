@@ -1,0 +1,17 @@
+id: sight-us-katmai-national-park
+name: "Katmai National Park and Preserve"
+location:
+  country_code: US
+  latitude: 58.62236
+  longitude: -155.01266
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.9
+  depth: 9.1
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    photography: 9.3
+    adventure: 8.8

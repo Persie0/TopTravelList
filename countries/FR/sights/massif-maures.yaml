@@ -1,0 +1,16 @@
+id: sight-fr-massif-maures
+name: "Massif des Maures Forest and Mountain Trails"
+location:
+  country_code: FR
+  latitude: 43.258
+  longitude: 6.351
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.2
+    adventure: 9.1
+    relaxation: 9.1

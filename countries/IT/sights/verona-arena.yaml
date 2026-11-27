@@ -1,0 +1,16 @@
+id: sight-it-verona-arena
+name: "Verona Arena Amphitheatre"
+location:
+  country_code: IT
+  latitude: 45.43889
+  longitude: 10.99417
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.2

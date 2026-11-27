@@ -1,0 +1,16 @@
+id: sight-au-wallaman-falls
+name: "Wallaman Falls Girringun National Park"
+location:
+  country_code: AU
+  latitude: -18.59
+  longitude: 145.8
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.0

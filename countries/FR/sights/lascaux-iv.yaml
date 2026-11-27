@@ -1,0 +1,17 @@
+id: sight-fr-lascaux-iv
+name: "Lascaux IV International Centre for Cave Art"
+location:
+  country_code: FR
+  latitude: 45.05859
+  longitude: 1.1684
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 9.2
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.0
+    family: 9.2

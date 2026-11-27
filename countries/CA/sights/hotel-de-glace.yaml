@@ -1,0 +1,16 @@
+id: sight-ca-hotel-de-glace
+name: "Hôtel de Glace Valcartier Seasonal Ice Architecture"
+location:
+  country_code: CA
+  latitude: 46.944
+  longitude: -71.474
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.2
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    photography: 9.4
+    adventure: 9.2

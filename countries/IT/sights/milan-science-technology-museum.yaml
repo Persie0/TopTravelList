@@ -1,0 +1,16 @@
+id: sight-it-milan-science-technology-museum
+name: "Leonardo da Vinci National Museum of Science and Technology Milan"
+location:
+  country_code: IT
+  latitude: 45.46179
+  longitude: 9.17097
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.3
+    history: 9.1
+    family: 9.4

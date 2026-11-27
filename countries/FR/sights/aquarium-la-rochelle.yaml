@@ -1,0 +1,16 @@
+id: sight-fr-aquarium-la-rochelle
+name: "Aquarium La Rochelle Marine Discovery Museum"
+location:
+  country_code: FR
+  latitude: 46.15329
+  longitude: -1.15061
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    family: 9.4

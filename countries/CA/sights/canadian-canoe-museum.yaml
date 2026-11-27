@@ -1,0 +1,16 @@
+id: sight-ca-canadian-canoe-museum
+name: "Canadian Canoe Museum Peterborough"
+location:
+  country_code: CA
+  latitude: 44.286
+  longitude: -78.308
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4
+    family: 9.2

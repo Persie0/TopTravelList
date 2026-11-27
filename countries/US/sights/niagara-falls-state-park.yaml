@@ -1,0 +1,16 @@
+id: sight-us-niagara-falls-state-park
+name: "Niagara Falls State Park (US side)"
+location:
+  country_code: US
+  latitude: 43.081528
+  longitude: -79.06424
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.2
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 8.8

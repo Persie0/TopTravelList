@@ -1,0 +1,16 @@
+id: sight-au-echuca-paddlesteamers
+name: "Port of Echuca Historic Wharf and Murray River Paddle Steamer Cruises"
+location:
+  country_code: AU
+  latitude: -36.12
+  longitude: 144.75
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.1
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.2

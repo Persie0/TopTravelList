@@ -1,0 +1,16 @@
+id: sight-fr-porto-vecchio-town
+name: "Porto-Vecchio Historic Citadel and Harbour"
+location:
+  country_code: FR
+  latitude: 41.592
+  longitude: 9.28
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    photography: 9.2
+    history: 9.1

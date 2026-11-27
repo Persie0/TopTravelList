@@ -1046,3 +1046,345 @@
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Visit Qatar town and regional attractions inventory](https://visitqatar.com/intl-en/about-qatar/cities), consulted via page or excerpt 2026-11-25; possible identity/context only, individual claims and coordinate match not comprehensively checked.
 - Remaining gaps: Independent per-claim sourcing, GPS and specialist cross-country/category calibration.
+
+## sight-qa-meryal-waterpark — Meryal Waterpark — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/meryal-waterpark.yaml)
+- Action: new
+- Precise subject and limitations: Waterpark on Qetaifan Island North, not the surrounding resort. Tourism board documents extensive slide and family offerings; no record-size claim assumed. Ride access varies.
+- Location check: 25.43189, 51.53255; [published representative point](https://mapcarta.com/W1281219270), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitqatar.com/intl-en/things-to-do/family-break/amusement-parks/meryal-waterpark); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | 8.6 / 8.4 / 5.5 / 9.3 / 9.0 | Comparable large waterpark experience. |
+| [AE/yas-waterworld](../../../countries/AE/sights/yas-waterworld.yaml) | 8.3 / 7.7 / 5.3 / 8.9 / 8.4 | Comparable range of slides. |
+| [SG/adventure-cove-waterpark](../../../countries/SG/sights/adventure-cove-waterpark.yaml) | 8.0 / 7.7 / 6.1 / 8.7 / 8.2 | Smaller aquatic entertainment scope. |
+| [BH/lost-paradise-of-dilmun-water-park](../../../countries/BH/sights/lost-paradise-of-dilmun-water-park.yaml) | 7.6 / 6.8 / 5.2 / 8.4 / 7.7 | Smaller regional waterpark. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Large-scale slide architecture. |
+| Uniqueness | 8.8 | Distinctive slide tower and themed water rides. |
+| Significance | 6.3 | Modern recreation, limited historic significance. |
+| Experience | 9.1 | Extensive family and thrill rides. |
+| Depth | 8.9 | Multiple zones and slides. |
+
+- Applicable categories: family:9.2, adventure:9.2, photography:8.5.
+- Computed worldwide overall: 83.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-desert-falls-water-adventure-park — Desert Falls Water & Adventure Park — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/desert-falls-water-adventure-park.yaml)
+- Action: new
+- Precise subject and limitations: Water and adventure park at Salwa Beach Resort, excludes hotel and beach. Park-specific map point consistent with nearby resort locator https://mapcarta.com/36771220; generator labels Falls as Waterfall, a known lexical error. Optional activities may cost extra.
+- Location check: 24.84918, 50.86153; [published representative point](https://aroundus.com/p/171422402-desert-falls-water-and-adventure-park), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://salwabeachresort.qa/en/desert-falls-water-adventure-park/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | 8.6 / 8.4 / 5.5 / 9.3 / 9.0 | Broader flagship scale. |
+| [AE/yas-waterworld](../../../countries/AE/sights/yas-waterworld.yaml) | 8.3 / 7.7 / 5.3 / 8.9 / 8.4 | Comparable regional theme. |
+| [SG/adventure-cove-waterpark](../../../countries/SG/sights/adventure-cove-waterpark.yaml) | 8.0 / 7.7 / 6.1 / 8.7 / 8.2 | Comparable family aquatic attraction. |
+| [BH/lost-paradise-of-dilmun-water-park](../../../countries/BH/sights/lost-paradise-of-dilmun-water-park.yaml) | 7.6 / 6.8 / 5.2 / 8.4 / 7.7 | Smaller slide range. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Large themed water recreation setting. |
+| Uniqueness | 8.1 | Cave-themed attractions within familiar waterpark format. |
+| Significance | 6.1 | Contemporary recreation. |
+| Experience | 8.9 | Varied slides and adventure activities. |
+| Depth | 8.6 | Several ride areas. |
+
+- Applicable categories: family:9.0, adventure:8.9.
+- Computed worldwide overall: 79.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-al-shaqab-equestrian-center — Al Shaqab Equestrian Center — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/al-shaqab-equestrian-center.yaml)
+- Action: new
+- Precise subject and limitations: Authorized guided visit to Arabian horse heritage and training facilities; excludes other Education City landmarks. Qatar Tourism https://visitqatar.com/intl-en/things-to-do/adventure-sports/sports-venues/al-shaqab confirms heritage role. Tour arrangements vary; no independent welfare claims.
+- Location check: 25.30828, 51.43851; [published representative point](https://mapcarta.com/W155013306), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://alshaqab.com/en/tours); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/3-2-1-qatar-olympic-and-sports-museum](../../../countries/QA/sights/3-2-1-qatar-olympic-and-sports-museum.yaml) | 8.2 / 8.5 / 8.4 / 8.7 / 8.2 | Broader indoor sporting history. |
+| [QA/sheikh-faisal-bin-qassim-al-thani-museum](../../../countries/QA/sights/sheikh-faisal-bin-qassim-al-thani-museum.yaml) | 8.0 / 8.3 / 8.2 / 8.4 / 8.6 | Broader material culture collection. |
+| [AE/al-ain-zoo](../../../countries/AE/sights/al-ain-zoo.yaml) | 8.3 / 8.2 / 7.9 / 8.6 / 8.9 | Different animal visitor experience. |
+| [BH/bahrain-national-museum](../../../countries/BH/sights/bahrain-national-museum.yaml) | 8.3 / 8.4 / 8.9 / 8.6 / 8.5 | Broader national heritage. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Distinctive equestrian facilities. |
+| Uniqueness | 8.7 | Specialized Arabian horse heritage. |
+| Significance | 8.4 | Regional cultural and sporting significance. |
+| Experience | 8.3 | Guided interpretation subject to booking. |
+| Depth | 8.2 | Several related facilities. |
+
+- Applicable categories: culture:8.9, architecture:8.5, family:8.4.
+- Computed worldwide overall: 84.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-al-shahaniya-camel-racetrack — Al Shahaniya Camel Racetrack — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/al-shahaniya-camel-racetrack.yaml)
+- Action: new
+- Precise subject and limitations: Permitted spectator viewing at mapped camel racetrack, not farms or unrestricted track access. Seasonal schedule varies; no welfare or race availability guarantees.
+- Location check: 25.42191, 51.198; [published representative point](https://mapcarta.com/W808097048), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitqatar.com/intl-en/things-to-do/adventure-sports/sports-venues/al-shahaniya-camel-racetrack); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/al-bayt-stadium](../../../countries/QA/sights/al-bayt-stadium.yaml) | 8.0 / 8.4 / 8.0 / 7.7 / 6.9 | More monumental football architecture. |
+| [QA/lusail-stadium](../../../countries/QA/sights/lusail-stadium.yaml) | 8.1 / 7.9 / 8.2 / 7.8 / 7.0 | Different international sporting heritage. |
+| [BH/bahrain-international-circuit](../../../countries/BH/sights/bahrain-international-circuit.yaml) | 8.2 / 7.8 / 8.0 / 8.5 / 7.8 | Different motorsport focus. |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | 8.8 / 8.9 / 6.8 / 9.1 / 8.8 | Broader manufactured entertainment. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Distinctive desert sporting landscape. |
+| Uniqueness | 8.8 | Traditional camel sport with modern racing technology. |
+| Significance | 8.2 | Regional sporting heritage. |
+| Experience | 8.0 | Event-dependent spectator experience. |
+| Depth | 7.4 | Focused race viewing rather than extensive attractions. |
+
+- Applicable categories: culture:8.8, photography:8.4.
+- Computed worldwide overall: 81.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-lusail-international-circuit — Lusail International Circuit — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/lusail-international-circuit.yaml)
+- Action: new
+- Precise subject and limitations: Motorsport circuit with scheduled spectator events and public karting when offered; distinct from football stadium. Venue operator https://www.lcsc.qa/ confirms international racing calendar. Ordinary-day access differs from event days.
+- Location check: 25.48955, 51.45283; [published representative point](https://mapcarta.com/W152483594), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.lcsc.qa/circuit-experience); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/bahrain-international-circuit](../../../countries/BH/sights/bahrain-international-circuit.yaml) | 8.2 / 7.8 / 8.0 / 8.5 / 7.8 | Comparable international racing venue. |
+| [QA/lusail-stadium](../../../countries/QA/sights/lusail-stadium.yaml) | 8.1 / 7.9 / 8.2 / 7.8 / 7.0 | Different football venue. |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | 8.8 / 8.9 / 6.8 / 9.1 / 8.8 | Theme park rather than race circuit. |
+| [QA/3-2-1-qatar-olympic-and-sports-museum](../../../countries/QA/sights/3-2-1-qatar-olympic-and-sports-museum.yaml) | 8.2 / 8.5 / 8.4 / 8.7 / 8.2 | Different sports history experience. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Large international racing facility. |
+| Uniqueness | 8.2 | Distinct national circuit but similar venues globally. |
+| Significance | 8.2 | International motorsport importance. |
+| Experience | 8.7 | Ticketed racing and karting opportunities. |
+| Depth | 8.1 | Several circuit experiences depending on schedule. |
+
+- Applicable categories: adventure:8.9, culture:8.3, photography:8.5.
+- Computed worldwide overall: 83.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-lusail-winter-wonderland — Lusail Winter Wonderland — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/lusail-winter-wonderland.yaml)
+- Action: new
+- Precise subject and limitations: Recurring seasonal amusement park on Al Maha Island, excludes unrelated island dining. 2026–27 operator season listed at https://www.discoverqatar.qa/lusail-winter-wonderland-1/overview; dates and operations vary.
+- Location check: 25.39826, 51.52909; [published representative point](https://nearme.qa/place/lusail-winter-wonderland-lusail-doha-border/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitqatar.com/intl-en/events-calendar/lusail-winter-wonderland); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/doha-quest](../../../countries/QA/sights/doha-quest.yaml) | 7.7 / 7.4 / 6.0 / 8.4 / 7.6 | Different indoor amusement setting. |
+| [AE/global-village-dubai](../../../countries/AE/sights/global-village-dubai.yaml) | 8.5 / 8.6 / 7.1 / 9.0 / 9.0 | Broader themed commercial and cultural pavilions. |
+| [AE/motiongate-dubai](../../../countries/AE/sights/motiongate-dubai.yaml) | 8.6 / 8.4 / 6.8 / 9.0 / 8.9 | More permanent film-themed environments. |
+| [BH/adhari-park](../../../countries/BH/sights/adhari-park.yaml) | 6.9 / 6.5 / 5.5 / 7.9 / 7.3 | Smaller amusement complex. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Colorful waterfront amusement rides. |
+| Uniqueness | 7.9 | Familiar seasonal fair concept in Gulf setting. |
+| Significance | 6.2 | Contemporary recreation. |
+| Experience | 8.8 | Family rides and entertainment. |
+| Depth | 8.3 | Several ride zones. |
+
+- Applicable categories: family:9.0, adventure:8.6, nightlife:8.5.
+- Computed worldwide overall: 77.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-heenat-salma-farm — Heenat Salma Farm — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/heenat-salma-farm.yaml)
+- Action: new
+- Precise subject and limitations: Visitor farm workshops, agriculture and food interpretation, not accommodation or general private farmland access. Operator https://heenatsalma.earth/ confirms farm and camp. Activities depend on booking; no environmental impact claims.
+- Location check: 25.39793, 51.26201; [published representative point](https://mapcarta.com/W225205492), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitqatar.com/intl-en/things-to-do/family-break/heenat-salma-farm); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/msheireb-museums](../../../countries/QA/sights/msheireb-museums.yaml) | 7.8 / 8.2 / 8.3 / 8.4 / 7.9 | Stronger urban history focus. |
+| [AE/al-ain-oasis](../../../countries/AE/sights/al-ain-oasis.yaml) | 8.0 / 8.5 / 8.8 / 8.4 / 8.0 | Greater historical agricultural significance. |
+| [AE/sharjah-desert-park](../../../countries/AE/sights/sharjah-desert-park.yaml) | 8.1 / 8.4 / 8.2 / 8.4 / 8.7 | Different wildlife and educational focus. |
+| [QA/al-khor-park-and-zoo](../../../countries/QA/sights/al-khor-park-and-zoo.yaml) | 6.9 / 6.5 / 6.2 / 7.8 / 7.3 | Different family recreation offering. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.7 | Pleasant desert farm setting. |
+| Uniqueness | 8.3 | Combination of cultivation and cultural workshops. |
+| Significance | 7.9 | Regional food and craft interpretation. |
+| Experience | 8.3 | Participatory experiences when booked. |
+| Depth | 8.0 | Several workshop and farm activities. |
+
+- Applicable categories: culture:8.6, nature:8.4, food:8.5, family:8.3.
+- Computed worldwide overall: 80.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-angry-birds-world — Angry Birds World — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/angry-birds-world.yaml)
+- Action: new
+- Precise subject and limitations: Indoor and outdoor branded family attraction at Doha Festival City, excluding mall shopping. Individual rides and age restrictions vary. Venue coordinates from third-party directory, not independently corroborated.
+- Location check: 25.3905, 51.4344; [representative point source](https://plizio.com/en/qatar/qa-da/angry-birds-world/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitqatar.com/intl-en/things-to-do/family-fun/angry-birds-theme-park-doha); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/doha-quest](../../../countries/QA/sights/doha-quest.yaml) | 7.7 / 7.4 / 6.0 / 8.4 / 7.6 | Comparable indoor family recreation. |
+| [QA/lusail-winter-wonderland](../../../countries/QA/sights/lusail-winter-wonderland.yaml) | 8.1 / 7.9 / 6.2 / 8.8 / 8.3 | More seasonal outdoor amusement. |
+| [AE/img-worlds-of-adventure](../../../countries/AE/sights/img-worlds-of-adventure.yaml) | 8.5 / 8.4 / 6.8 / 8.9 / 8.8 | Much broader themed park. |
+| [BH/adhari-park](../../../countries/BH/sights/adhari-park.yaml) | 6.9 / 6.5 / 5.5 / 7.9 / 7.3 | Comparable regional family entertainment. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.9 | Colourful indoor and outdoor play areas. |
+| Uniqueness | 8.1 | Distinct game-themed recreation but familiar ride formats. |
+| Significance | 6.1 | Contemporary commercial entertainment. |
+| Experience | 8.7 | Varied family and thrill activities. |
+| Depth | 8.2 | Several indoor and outdoor zones. |
+
+- Applicable categories: family:9.0, adventure:8.5.
+- Computed worldwide overall: 77.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-qa-dadu-gardens — Dadu Gardens — 2026-11-26
+
+- YAML: [source](../../../countries/QA/sights/dadu-gardens.yaml)
+- Action: new
+- Precise subject and limitations: Seasonal outdoor living classrooms and garden activities, not unopened indoor Dadu museum. Operator visitor policy limits entry to children under 12 accompanied by guardians; adults without children cannot enter. Coordinate extracted from official map redirect, map endpoint returned HTTP 500. Ticketed programmes and weather closures vary.
+- Location check: 25.3075469, 51.5093018; [representative point source](https://qm.org.qa/en/about-us/dadu-childrens-museum-qatar/visitor-guidelines/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://qm.org.qa/en/about-us/dadu-childrens-museum-qatar/dadu-gardens/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/heenat-salma-farm](../../../countries/QA/sights/heenat-salma-farm.yaml) | 7.7 / 8.3 / 7.9 / 8.3 / 8.0 | Broader cultivation and workshops. |
+| [QA/aspire-park](../../../countries/QA/sights/aspire-park.yaml) | 7.0 / 6.4 / 6.0 / 8.0 / 7.5 | Larger general park but less focused interpretation. |
+| [AE/sharjah-desert-park](../../../countries/AE/sights/sharjah-desert-park.yaml) | 8.1 / 8.4 / 8.2 / 8.4 / 8.7 | Broader natural history and wildlife displays. |
+| [SG/jurong-lake-gardens](../../../countries/SG/sights/jurong-lake-gardens.yaml) | 8.2 / 8.0 / 7.1 / 8.6 / 8.5 | Larger public gardens with broader access. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.6 | Appealing landscaped learning spaces. |
+| Uniqueness | 8.2 | Purpose-built outdoor children's museum concept. |
+| Significance | 7.6 | Regional education and garden interpretation. |
+| Experience | 8.3 | Participatory family activities, restricted audience. |
+| Depth | 7.7 | Several garden and learning areas. |
+
+- Applicable categories: family:9.0, culture:8.3, nature:8.3.
+- Computed worldwide overall: 78.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

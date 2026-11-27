@@ -1,0 +1,16 @@
+id: sight-ae-abrahamic-family-house
+name: "Abrahamic Family House"
+location:
+  country_code: AE
+  latitude: 24.53085
+  longitude: 54.40593
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.4
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    culture: 9.0
+    photography: 8.6

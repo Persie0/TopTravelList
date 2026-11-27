@@ -1,0 +1,16 @@
+id: sight-us-universal-hollywood
+name: "Universal Studios Hollywood Theme Park and Studio Tour"
+location:
+  country_code: US
+  latitude: 34.138
+  longitude: -118.353
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.2
+  depth: 9.0
+  categories:
+    family: 9.4
+    culture: 9.2
+    adventure: 9.1

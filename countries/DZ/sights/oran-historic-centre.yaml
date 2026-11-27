@@ -1,0 +1,17 @@
+id: sight-dz-oran-historic-centre
+name: "Oran Historic Centre and Sidi El Houari"
+location:
+  country_code: DZ
+  latitude: 35.70324
+  longitude: -0.64926
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.1
+    culture: 8.9
+    photography: 9.0

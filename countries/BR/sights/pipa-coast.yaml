@@ -1,0 +1,16 @@
+id: sight-br-pipa-coast
+name: "Pipa Coastal Cliffs Beaches and Dolphin Viewpoints"
+location:
+  country_code: BR
+  latitude: -6.23
+  longitude: -35.05
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.7
+  categories:
+    beaches: 9.4
+    nature: 9.3
+    wildlife: 9.2

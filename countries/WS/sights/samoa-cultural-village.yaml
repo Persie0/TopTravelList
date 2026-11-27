@@ -1,0 +1,16 @@
+id: sight-ws-samoa-cultural-village
+name: "Samoa Cultural Village Apia Traditional Arts and Umu"
+location:
+  country_code: WS
+  latitude: -13.833
+  longitude: -171.766
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.9
+  depth: 8.7
+  categories:
+    culture: 9.4
+    history: 9.2
+    food: 9.1

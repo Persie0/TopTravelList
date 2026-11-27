@@ -1,0 +1,16 @@
+id: sight-tr-mevlana-museum
+name: "Mevlana Museum and Rumi Mausoleum Konya"
+location:
+  country_code: TR
+  latitude: 37.8706
+  longitude: 32.5047
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.9
+  depth: 8.7
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.2

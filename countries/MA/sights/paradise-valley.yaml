@@ -1,0 +1,17 @@
+id: sight-ma-paradise-valley
+name: "Paradise Valley near Agadir"
+location:
+  country_code: MA
+  latitude: 30.587866
+  longitude: -9.531845
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.5
+  depth: 8.1
+  categories:
+    nature: 9.0
+    photography: 9.0
+    adventure: 8.8
+    relaxation: 8.6

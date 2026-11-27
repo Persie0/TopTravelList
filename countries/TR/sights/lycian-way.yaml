@@ -1,0 +1,17 @@
+id: sight-tr-lycian-way
+name: "Lycian Way Long-Distance Trail"
+location:
+  country_code: TR
+  latitude: 36.5664
+  longitude: 29.1379
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.1
+  depth: 9.4
+  categories:
+    adventure: 9.4
+    nature: 9.3
+    photography: 9.4
+    history: 9.0

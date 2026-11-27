@@ -1,0 +1,16 @@
+id: sight-ca-cape-st-marys
+name: "Cape St Mary’s Ecological Reserve Seabird Colony"
+location:
+  country_code: CA
+  latitude: 46.823
+  longitude: -54.193
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.0
+  depth: 8.9
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.4

@@ -1,0 +1,17 @@
+id: sight-is-heimaey
+name: "Heimaey (Westman Islands)"
+location:
+  country_code: IS
+  latitude: 63.43036
+  longitude: -20.2745
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.0
+    wildlife: 9.1
+    photography: 9.1
+    culture: 8.7

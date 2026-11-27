@@ -1,0 +1,17 @@
+id: sight-fr-rochefort-en-terre
+name: "Rochefort-en-Terre Historic Village"
+location:
+  country_code: FR
+  latitude: 47.6991
+  longitude: -2.3373
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.0
+    photography: 9.2
+    history: 8.8
+    culture: 8.9

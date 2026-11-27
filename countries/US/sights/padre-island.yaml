@@ -1,0 +1,16 @@
+id: sight-us-padre-island
+name: "Padre Island National Seashore"
+location:
+  country_code: US
+  latitude: 27.03
+  longitude: -97.37
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.3
+    beaches: 9.3
+    wildlife: 9.3

@@ -1,0 +1,17 @@
+id: sight-fr-escal-atlantic
+name: "Escal’Atlantic Saint-Nazaire Ocean Liner Museum"
+location:
+  country_code: FR
+  latitude: 47.275771
+  longitude: -2.203393
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.2
+    culture: 9.1
+    family: 9.1
+    photography: 8.9

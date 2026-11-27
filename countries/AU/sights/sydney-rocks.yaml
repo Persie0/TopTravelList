@@ -1,0 +1,16 @@
+id: sight-au-sydney-rocks
+name: "The Rocks Historic District Sydney"
+location:
+  country_code: AU
+  latitude: -33.859
+  longitude: 151.208
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 8.8
+  categories:
+    history: 9.2
+    architecture: 9.1
+    culture: 9.0

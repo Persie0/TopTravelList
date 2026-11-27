@@ -1,0 +1,16 @@
+id: sight-us-peabody-essex
+name: "Peabody Essex Museum Salem and Yin Yu Tang House"
+location:
+  country_code: US
+  latitude: 42.521
+  longitude: -70.894
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.3

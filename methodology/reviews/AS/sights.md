@@ -543,3 +543,72 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Partial assessment only.
 - Earlier decision: none.
 - Verification still needed: full independent material claims, exact sight coordinates, current access/conditions and numerical benchmark calibration.
+
+## sight-as-flag-day-fautasi — American Samoa Flag Day Cultural Festival and Fautasi Regatta — 2026-11-27
+
+- YAML: [source](../../../countries/AS/sights/flag-day-fautasi.yaml)
+- Action: new
+- Scope: Recurring public cultural events and traditional longboat racing grouped; 2026 edition documented, no future schedule or fixed venue assumed.
+- Representative coordinates: -14.27, -170.7; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.0 / 9.0 / 8.8.
+- Categories: culture:9.4 history:9.2 photography:9.2.
+- Overall: 89.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.asgpressrelease.com/americansamoacelebrates126thflagday, https://americansamoa.noaa.gov/explore/maritime-heritage.html, https://www.visitamericansamoa.org/news/azamara-onwards-maiden-voyage-p98p2-8nxme.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AS/haydon-museum](../../../countries/AS/sights/haydon-museum.yaml) | 7.5 / 8.4 / 8.7 / 8.1 / 7.7 | impact: +1.3 vs peer; depth: +1.1 vs peer |
+| [AS/siu-point-saua](../../../countries/AS/sights/siu-point-saua.yaml) | 8.9 / 8.8 / 8.9 / 8.0 / 8.1 | experience: +1.0 vs peer; depth: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-as-alega-sanctuary — Alega Community Marine Sanctuary and Coastal Experience — 2026-11-27
+
+- YAML: [source](../../../countries/AS/sights/alega-sanctuary.yaml)
+- Action: new
+- Scope: Community-managed reef and permitted shore experience, excludes Fagatele Bay and Ofu; no guaranteed wildlife, swimming safety or coral condition.
+- Representative coordinates: -14.29, -170.65; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.7 / 8.6.
+- Categories: nature:9.3 wildlife:9.2 culture:9.2.
+- Overall: 87.15/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.visitamericansamoa.org/alega, https://www.nps.gov/npsa/planyourvisit/water-recreation.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AS/fagatele-bay](../../../countries/AS/sights/fagatele-bay.yaml) | 8.9 / 8.9 / 9.1 / 8.3 / 8.2 | significance: -0.4 vs peer; experience: +0.4 vs peer |
+| [AS/ofu-beach](../../../countries/AS/sights/ofu-beach.yaml) | 9.3 / 8.9 / 8.9 / 8.8 / 8.3 | impact: -0.6 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-as-tauese-ocean-centre — Tauese P F Sunia Ocean Center Pago Pago — 2026-11-27
+
+- YAML: [source](../../../countries/AS/sights/tauese-ocean-centre.yaml)
+- Action: new
+- Scope: NOAA public marine education exhibits, distinct from Haydon Museum and actual sanctuary dives.
+- Representative coordinates: -14.28, -170.69; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 7.8 / 8.4 / 8.5 / 8.3 / 8.2.
+- Categories: nature:8.9 culture:8.8 family:8.9.
+- Overall: 82.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://americansamoa.noaa.gov/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AS/haydon-museum](../../../countries/AS/sights/haydon-museum.yaml) | 7.5 / 8.4 / 8.7 / 8.1 / 7.7 | depth: +0.5 vs peer; impact: +0.3 vs peer |
+| [AS/fagatele-bay](../../../countries/AS/sights/fagatele-bay.yaml) | 8.9 / 8.9 / 9.1 / 8.3 / 8.2 | impact: -1.1 vs peer; significance: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 217 scope decisions
+
+Flag Day and fautasi regatta grouped as recurring public event. Alega community sanctuary distinct from Fagatele and Ofu. Homestay deferred pending current host programme confirmation; no blanket national park or marine sanctuary parent added. Two existing remote unassessed unchanged.

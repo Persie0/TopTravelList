@@ -1,0 +1,16 @@
+id: sight-us-national-constitution-center
+name: "National Constitution Center Philadelphia"
+location:
+  country_code: US
+  latitude: 39.954
+  longitude: -75.149
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.0
+    family: 9.0

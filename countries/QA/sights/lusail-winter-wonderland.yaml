@@ -1,0 +1,16 @@
+id: sight-qa-lusail-winter-wonderland
+name: "Lusail Winter Wonderland"
+location:
+  country_code: QA
+  latitude: 25.39826
+  longitude: 51.52909
+scores:
+  impact: 8.1
+  uniqueness: 7.9
+  significance: 6.2
+  experience: 8.8
+  depth: 8.3
+  categories:
+    family: 9.0
+    adventure: 8.6
+    nightlife: 8.5

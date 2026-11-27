@@ -1,0 +1,16 @@
+id: sight-br-caracol-state-park
+name: "Caracol State Park Waterfall and Forest Viewpoints"
+location:
+  country_code: BR
+  latitude: -29.31
+  longitude: -50.86
+scores:
+  impact: 8.8
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.1
+    photography: 9.3
+    family: 8.9

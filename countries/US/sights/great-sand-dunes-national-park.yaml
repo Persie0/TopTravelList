@@ -1,0 +1,16 @@
+id: sight-us-great-sand-dunes-national-park
+name: "Great Sand Dunes National Park and Preserve"
+location:
+  country_code: US
+  latitude: 37.74908
+  longitude: -105.532775
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 9.0

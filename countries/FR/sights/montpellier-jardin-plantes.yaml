@@ -1,0 +1,16 @@
+id: sight-fr-montpellier-jardin-plantes
+name: "Jardin des Plantes Montpellier Botanical Garden"
+location:
+  country_code: FR
+  latitude: 43.614
+  longitude: 3.872
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.2
+    history: 9.2
+    relaxation: 9.1

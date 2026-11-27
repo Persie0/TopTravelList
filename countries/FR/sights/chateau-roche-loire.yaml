@@ -1,0 +1,16 @@
+id: sight-fr-chateau-roche-loire
+name: "Château de la Roche Loire River Castle"
+location:
+  country_code: FR
+  latitude: 45.898
+  longitude: 4.099
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    photography: 9.4
+    architecture: 9.3
+    history: 9.1

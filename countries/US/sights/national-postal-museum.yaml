@@ -1,0 +1,16 @@
+id: sight-us-national-postal-museum
+name: "Smithsonian National Postal Museum Washington DC"
+location:
+  country_code: US
+  latitude: 38.898
+  longitude: -77.008
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.1

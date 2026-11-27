@@ -1,0 +1,16 @@
+id: sight-ca-canadian-museum-nature
+name: "Canadian Museum of Nature Ottawa"
+location:
+  country_code: CA
+  latitude: 45.413
+  longitude: -75.688
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    family: 9.3
+    architecture: 9.2

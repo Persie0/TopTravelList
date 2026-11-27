@@ -1,0 +1,16 @@
+id: sight-us-kimbell-art-museum
+name: "Kimbell Art Museum Fort Worth"
+location:
+  country_code: US
+  latitude: 32.7485
+  longitude: -97.3654
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    history: 9.2

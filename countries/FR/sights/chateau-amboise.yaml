@@ -1,0 +1,16 @@
+id: sight-fr-chateau-amboise
+name: "Royal Château of Amboise and Saint-Hubert Chapel"
+location:
+  country_code: FR
+  latitude: 47.41368
+  longitude: 0.98603
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.4
+    photography: 9.3

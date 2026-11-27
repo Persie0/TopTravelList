@@ -1,0 +1,15 @@
+id: sight-au-mona-hobart
+name: "Museum of Old and New Art (MONA)"
+location:
+  country_code: AU
+  latitude: -42.81269
+  longitude: 147.26127
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.3
+    architecture: 9.2

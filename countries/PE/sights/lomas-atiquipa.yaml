@@ -1,0 +1,16 @@
+id: sight-pe-lomas-atiquipa
+name: "Atiquipa Coastal Fog Forest Conservation Landscape"
+location:
+  country_code: PE
+  latitude: -15.78
+  longitude: -74.35
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.4
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    photography: 9.2

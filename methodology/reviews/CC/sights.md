@@ -448,3 +448,52 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Partial assessment only.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent material claims and current permitted visitor access/condition.
+
+## sight-cc-outer-reef-diving — Cocos Keeling Islands Guided Outer Reef Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/CC/sights/outer-reef-diving.yaml)
+- Action: new
+- Scope: Boat-access reef walls and dive sites, excludes The Rip drift snorkel and southern lagoon canoe route. Historical lagoon seagrass loss noted; no claim of pristine current condition.
+- Representative coordinates: -12.14, 96.85; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.7 / 9.0 / 8.9.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.3.
+- Overall: 89.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://cocoskeelingislands.com.au/things-to-do/see-do/activities/scuba-diving/, https://cocoskeelingislands.com.au/travel-tips/scuba-diving-the-cocos-keeling-islands/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CC/the-rip](../../../countries/CC/sights/the-rip.yaml) | 8.8 / 8.8 / 8.7 / 8.4 / 7.6 | depth: +1.3 vs peer; experience: +0.6 vs peer |
+| [CC/southern-lagoon-canoe](../../../countries/CC/sights/southern-lagoon-canoe.yaml) | 8.9 / 8.6 / 8.5 / 8.7 / 8.4 | depth: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [CX/flying-fish-cove-reef](../../../countries/CX/sights/flying-fish-cove-reef.yaml) | 8.6 / 8.5 / 8.5 / 8.6 / 8.1 | depth: +0.8 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-cc-home-island-cultural-tour — Home Island Cocos Malay Community Guided Cultural Tour — 2026-11-27
+
+- YAML: [source](../../../countries/CC/sights/home-island-cultural-tour.yaml)
+- Action: new
+- Scope: Community-led traditions, food and oral history, distinct from Oceania House and museum collections; no private access assumed.
+- Representative coordinates: -12.12, 96.9; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.0 / 8.9 / 8.8 / 8.6 / 8.3.
+- Categories: culture:9.2 history:9.0 food:9.0.
+- Overall: 85.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://cocoskeelingislands.com.au/operator/ossies-cultural-tour/, https://cocoskeelingislands.com.au/about/the-islands/home-island/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CC/oceania-house](../../../countries/CC/sights/oceania-house.yaml) | 7.8 / 8.6 / 8.7 / 8.1 / 7.5 | depth: +0.8 vs peer; experience: +0.5 vs peer |
+| [CC/pulu-cocos-museum](../../../countries/CC/sights/pulu-cocos-museum.yaml) | 7.1 / 8.4 / 8.5 / 7.8 / 7.2 | depth: +1.1 vs peer; impact: +0.9 vs peer |
+| [AU/tiwi-islands-culture](../../../countries/AU/sights/tiwi-islands-culture.yaml) | 8.9 / 9.3 / 9.2 / 9.1 / 8.9 | impact: -0.9 vs peer; depth: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 209 scope decisions
+
+Separate guided diving from existing snorkel/canoe routes and community-led culture tour from heritage interiors. Historical seagrass loss retained as caveat; Pulu Keeling restricted visitor scope remains unassessed.

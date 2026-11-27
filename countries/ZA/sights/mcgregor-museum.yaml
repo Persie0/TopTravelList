@@ -1,0 +1,16 @@
+id: sight-za-mcgregor-museum
+name: "McGregor Museum Kimberley Natural and Cultural Heritage Collections"
+location:
+  country_code: ZA
+  latitude: -28.75
+  longitude: 24.778
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.1
+    nature: 9.0

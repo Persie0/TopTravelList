@@ -1,0 +1,16 @@
+id: sight-fr-saorge-village
+name: "Saorge Historic Terraced Mountain Village"
+location:
+  country_code: FR
+  latitude: 43.988
+  longitude: 7.55
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    photography: 9.3
+    architecture: 9.1
+    relaxation: 9.0

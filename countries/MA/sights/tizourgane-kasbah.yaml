@@ -1,0 +1,17 @@
+id: sight-ma-tizourgane-kasbah
+name: "Tizourgane Fortified Village"
+location:
+  country_code: MA
+  latitude: 29.886953
+  longitude: -9.001984
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 8.2
+  depth: 7.9
+  categories:
+    architecture: 9.2
+    photography: 9.1
+    culture: 8.9
+    history: 8.8

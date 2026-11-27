@@ -1,0 +1,16 @@
+id: sight-us-ocmulgee-mounds
+name: "Ocmulgee Mounds National Historical Park Georgia"
+location:
+  country_code: US
+  latitude: 32.838
+  longitude: -83.603
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.2
+    nature: 8.8

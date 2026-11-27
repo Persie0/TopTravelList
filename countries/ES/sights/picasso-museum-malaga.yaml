@@ -1,0 +1,16 @@
+id: sight-es-picasso-museum-malaga
+name: "Picasso Museum Málaga"
+location:
+  country_code: ES
+  latitude: 36.72174
+  longitude: -4.41839
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.4
+    history: 9.1
+    architecture: 8.9

@@ -1,0 +1,15 @@
+id: sight-fr-pompelle-museum
+name: "Musée du Fort de la Pompelle Reims Historical Collections"
+location:
+  country_code: FR
+  latitude: 49.209
+  longitude: 4.126
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3

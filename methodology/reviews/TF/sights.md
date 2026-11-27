@@ -306,3 +306,18 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Partial assessment only; retain nulls.
 - Earlier decision: none.
 - Verification still needed: independent material claims, exact GPS and established lawful visitor activities.
+
+
+## sight-tf-port-jeanne-arc — Port Jeanne d’Arc Kerguelen Historic Whaling Station — 2026-11-27
+
+- YAML: [source](../../../countries/TF/sights/port-jeanne-arc.yaml)
+- Action: new
+- Scope: Surviving industrial archaeology and historical interpretation, not the UNESCO natural landscape; intrinsic rating does not imply permission or public access.
+- Representative coordinates: -49.5544, 69.8228; approximate, not independently verified.
+- Evidence status: **desk-based provisional; scope source-linked**
+- Sources (search excerpts, 2026-11-27): https://taaf.fr/missions-et-activites/gestion-du-patrimoine-historique/les-principaux-sites-historiques/ ; https://taaf.fr/missions-et-activites/gestion-du-patrimoine-historique/expositions/ ; https://taaf.fr/acceder-aux-territoires/demandes-dactivites-et-dacces/acces-et-mouillage-dans-les-australes/.
+- Core I/U/S/E/D: 8.5 / 9.2 / 8.9 / 8.2 / 8.5.
+- Categories: history:9.3,culture:9.0,photography:8.8.
+- Overall: 87.10/100.
+- Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
+- Verification pending: factual/coordinate checks and full Python validation.

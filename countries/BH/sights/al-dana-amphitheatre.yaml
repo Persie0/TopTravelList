@@ -1,0 +1,16 @@
+id: sight-bh-al-dana-amphitheatre
+name: "Beyon Al Dana Amphitheatre"
+location:
+  country_code: BH
+  latitude: 26.037206111
+  longitude: 50.514681111
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.6
+  depth: 7.7
+  categories:
+    culture: 8.8
+    architecture: 8.6
+    nightlife: 8.8

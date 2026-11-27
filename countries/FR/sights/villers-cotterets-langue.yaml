@@ -1,0 +1,16 @@
+id: sight-fr-villers-cotterets-langue
+name: "Cité Internationale de la Langue Française Château de Villers-Cotterêts"
+location:
+  country_code: FR
+  latitude: 49.258
+  longitude: 3.091
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.3

@@ -1,0 +1,16 @@
+id: sight-eg-st-simeon-monastery-aswan
+name: "Monastery of St Simeon (Anba Hadra)"
+location:
+  country_code: EG
+  latitude: 24.094722
+  longitude: 32.875917
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.4
+  depth: 8.5
+  categories:
+    history: 9.3
+    architecture: 9.0
+    culture: 9.0

@@ -1,0 +1,16 @@
+id: sight-mx-cenote-ik-kil
+name: "Cenote Ik Kil"
+location:
+  country_code: MX
+  latitude: 20.66106
+  longitude: -88.55051
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.0
+  experience: 8.7
+  depth: 7.3
+  categories:
+    nature: 9.0
+    photography: 9.3
+    relaxation: 8.7

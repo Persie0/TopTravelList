@@ -1,0 +1,16 @@
+id: sight-gr-greek-folk-musical-instruments-museum
+name: "Museum of Greek Folk Musical Instruments Athens"
+location:
+  country_code: GR
+  latitude: 37.97448
+  longitude: 23.72755
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.7
+  depth: 8.1
+  categories:
+    culture: 9.2
+    history: 8.8
+    family: 8.6

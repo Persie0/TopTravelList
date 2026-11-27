@@ -1,0 +1,17 @@
+id: sight-es-valencia-cathedral-historic-centre
+name: "Valencia Cathedral and Historic Centre"
+location:
+  country_code: ES
+  latitude: 39.475601
+  longitude: -0.375073
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.2
+    photography: 9.1

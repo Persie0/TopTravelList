@@ -1,0 +1,16 @@
+id: sight-fr-air-space-museum-le-bourget
+name: "Musée de l’Air et de l’Espace Le Bourget"
+location:
+  country_code: FR
+  latitude: 48.9479878
+  longitude: 2.4370116
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.3
+  categories:
+    history: 9.4
+    family: 9.3
+    culture: 9.1

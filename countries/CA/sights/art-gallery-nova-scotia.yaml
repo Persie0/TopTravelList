@@ -1,0 +1,16 @@
+id: sight-ca-art-gallery-nova-scotia
+name: "Art Gallery of Nova Scotia Halifax Maud Lewis Collection"
+location:
+  country_code: CA
+  latitude: 44.648
+  longitude: -63.573
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-wupatki
+name: "Wupatki National Monument"
+location:
+  country_code: US
+  latitude: 35.526
+  longitude: -111.374
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 9.2

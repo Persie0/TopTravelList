@@ -1015,3 +1015,77 @@ Core values I/U/S/E/D from current YAML; editorial comparisons only. Original qu
 ## Inventory coverage and backlog
 
 UNESCO country register (https://whc.unesco.org/en/statesparties/mh) confirms one inscribed and three tentative properties. The northern tentative submission lists coordinates and names for seven components (six atolls and Jemo Island) despite its narrative saying seven atolls plus one island; all seven explicitly named locations are represented. Do not invent the unidentified eighth component. Both Mili/Nadrikdrik components and their aggregate remain separately scoped and unranked. Bikar and Bokak are explicitly closed to authorized tourism in the national tourism strategy; other uninhabited atolls require individual access evidence. More granular outer-island inventory remains incomplete.
+
+## sight-mh-wam-canoe-house — Waan Aelõñ in Majel Canoe House and Heritage Visitor Centre — 2026-11-27
+
+- YAML: [source](../../../countries/MH/sights/wam-canoe-house.yaml)
+- Action: new
+- Scope: Land-based canoe-building workshop, visitor centre and interpretation only; existing Majuro Lagoon scope covers sailing, so water circuit not credited. Locality proxy.
+- Representative coordinates: 7.09, 171.38; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.4 / 9.1 / 9.2 / 8.8 / 8.7.
+- Categories: culture:9.4 history:9.3 family:9.0.
+- Overall: 88.25/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.canoesmarshallislands.com/, https://www.canoesmarshallislands.com/2014/09/visitors-center/, https://southpacificislands.travel/canoes-of-the-marshall-islands-waan-aelon-in-majol/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MH/alele-museum](../../../countries/MH/sights/alele-museum.yaml) | 6.9 / 8.1 / 8.1 / 7.3 / 7.0 | depth: +1.7 vs peer; impact: +1.5 vs peer |
+| [MH/majuro-lagoon](../../../countries/MH/sights/majuro-lagoon.yaml) | 8.0 / 7.8 / 6.9 / 8.0 / 7.5 | significance: +2.3 vs peer; uniqueness: +1.3 vs peer |
+| [FM/yap-living-history-museum](../../../countries/FM/sights/yap-living-history-museum.yaml) | 7.3 / 8.4 / 7.9 / 7.8 / 7.3 | depth: +1.4 vs peer; significance: +1.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-mh-eneko-island — Eneko Island Beach and Land-Based Day Visit — 2026-11-27
+
+- YAML: [source](../../../countries/MH/sights/eneko-island.yaml)
+- Action: new
+- Scope: Specific island beach day visit, excludes lagoon-wide boating and diving; tourism authority lists day trips.
+- Representative coordinates: 7.15, 171.38; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.2 / 8.1 / 7.8 / 8.5 / 7.8.
+- Categories: beaches:8.8 relaxation:8.9 photography:8.8.
+- Overall: 81.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.visitmarshallislands.mh/things-to-do, https://www.visitmarshallislands.mh/plan-your-trip.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MH/laura-beach-park](../../../countries/MH/sights/laura-beach-park.yaml) | 7.8 / 7.1 / 5.8 / 7.9 / 6.3 | significance: +2.0 vs peer; depth: +1.5 vs peer |
+| [MH/arno-atoll](../../../countries/MH/sights/arno-atoll.yaml) | 8.2 / 8.1 / 7.3 / 8.0 / 7.9 | significance: +0.5 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 215 scope decisions
+
+WAM land-based cultural centre separately scoped from lagoon sailing. Eneko land/shore visit only. No duplicate Bikini wreck fleet, no assumed remote atoll access. Existing 12 unassessed unchanged.
+
+## sight-mh-majuro-outer-reef — Majuro Ocean-Facing Reef and Calalin Channel Guided Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/MH/sights/majuro-outer-reef.yaml)
+- Action: new
+- Scope: Ocean-facing reef and main pass only, not lagoon sailing or other atolls. Established operator, current reef health and dive conditions unverified; regional proxy.
+- Representative coordinates: 7.15, 171.2; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.2.
+- Overall: 87.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://raycrew.jp/our-services/scuba-diving/, https://www.infomarshallislands.com/diving-in-the-marshall-islands/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MH/majuro-lagoon](../../../countries/MH/sights/majuro-lagoon.yaml) | 8.0 / 7.8 / 6.9 / 8.0 / 7.5 | significance: +1.6 vs peer; depth: +1.2 vs peer |
+| [MH/arno-atoll](../../../countries/MH/sights/arno-atoll.yaml) | 8.2 / 8.1 / 7.3 / 8.0 / 7.9 | significance: +1.2 vs peer; experience: +0.9 vs peer |
+| [PW/blue-corner](../../../countries/PW/sights/blue-corner.yaml) | 9.3 / 9.0 / 8.3 / 9.3 / 8.6 | impact: -0.5 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 220 scope decisions
+
+Outer reef and channel diving excludes lagoon sailing and other atolls. No remote conservation island or Bikini duplicate. Twelve unassessed retained.

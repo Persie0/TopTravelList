@@ -1,0 +1,16 @@
+id: sight-fr-musee-ingres-bourdelle
+name: "Musée Ingres Bourdelle Montauban Art Museum"
+location:
+  country_code: FR
+  latitude: 44.017
+  longitude: 1.351
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

@@ -1,0 +1,16 @@
+id: sight-eg-sataya-reef
+name: "Sataya Reef (Dolphin Reef)"
+location:
+  country_code: EG
+  latitude: 24.16568
+  longitude: 35.69421
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.0
+  categories:
+    nature: 9.1
+    wildlife: 9.3
+    adventure: 9.0

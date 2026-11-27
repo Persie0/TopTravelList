@@ -1,0 +1,16 @@
+id: sight-hk-hong-kong-maritime-museum
+name: "Hong Kong Maritime Museum"
+location:
+  country_code: HK
+  latitude: 22.28639
+  longitude: 114.16194
+scores:
+  impact: 7.9
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.2
+  depth: 8.2
+  categories:
+    history: 8.8
+    culture: 8.6
+    family: 8.2

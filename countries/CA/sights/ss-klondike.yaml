@@ -1,0 +1,16 @@
+id: sight-ca-ss-klondike
+name: "SS Klondike National Historic Site Whitehorse"
+location:
+  country_code: CA
+  latitude: 60.71
+  longitude: -135.05
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.1
+    photography: 9.1

@@ -1,0 +1,15 @@
+id: sight-hk-hong-kong-science-museum
+name: "Hong Kong Science Museum"
+location:
+  country_code: HK
+  latitude: 22.301021
+  longitude: 114.17751
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    family: 9.1
+    culture: 8.3

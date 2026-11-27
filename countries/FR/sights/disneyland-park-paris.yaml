@@ -1,0 +1,16 @@
+id: sight-fr-disneyland-park-paris
+name: "Disneyland Park (Paris)"
+location:
+  country_code: FR
+  latitude: 48.87229
+  longitude: 2.77605
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.3
+  depth: 9.2
+  categories:
+    family: 9.4
+    culture: 8.5
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-br-alcatrazes-archipelago
+name: "Alcatrazes Archipelago Wildlife Refuge Authorized Marine Excursions"
+location:
+  country_code: BR
+  latitude: -24.1
+  longitude: -45.7
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 8.9
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    adventure: 9.3

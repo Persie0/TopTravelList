@@ -1,0 +1,16 @@
+id: sight-pe-salkantay-trek
+name: "Salkantay Mountain Pass and Andean Trekking Route"
+location:
+  country_code: PE
+  latitude: -13.36
+  longitude: -72.61
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4

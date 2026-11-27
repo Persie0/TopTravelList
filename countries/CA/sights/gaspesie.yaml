@@ -1,0 +1,16 @@
+id: sight-ca-gaspesie
+name: "Gaspésie National Park Chic-Chocs and McGerrigle Mountains"
+location:
+  country_code: CA
+  latitude: 48.94
+  longitude: -66.14
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    adventure: 9.3

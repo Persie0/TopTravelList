@@ -1,0 +1,16 @@
+id: sight-fr-musee-basque-bayonne
+name: "Musée Basque et de l’Histoire de Bayonne"
+location:
+  country_code: FR
+  latitude: 43.49
+  longitude: -1.475
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

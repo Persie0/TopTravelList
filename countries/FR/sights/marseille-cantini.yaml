@@ -1,0 +1,15 @@
+id: sight-fr-marseille-cantini
+name: "Musée Cantini Marseille Modern Art Museum"
+location:
+  country_code: FR
+  latitude: 43.293
+  longitude: 5.379
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.6
+  depth: 8.7
+  categories:
+    culture: 9.2
+    history: 9.1

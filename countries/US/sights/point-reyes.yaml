@@ -1,0 +1,16 @@
+id: sight-us-point-reyes
+name: "Point Reyes National Seashore"
+location:
+  country_code: US
+  latitude: 38.04
+  longitude: -122.96
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    photography: 9.3

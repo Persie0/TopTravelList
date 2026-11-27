@@ -1,0 +1,16 @@
+id: sight-ca-sable-island-national-park-reserve
+name: "Sable Island National Park Reserve"
+location:
+  country_code: CA
+  latitude: 43.92788
+  longitude: -59.91591
+scores:
+  impact: 8.5
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 8.1
+  depth: 8.3
+  categories:
+    nature: 8.9
+    wildlife: 9.1
+    photography: 8.9

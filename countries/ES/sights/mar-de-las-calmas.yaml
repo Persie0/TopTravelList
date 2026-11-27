@@ -1,0 +1,17 @@
+id: sight-es-mar-de-las-calmas
+name: "Mar de las Calmas Marine Reserve"
+location:
+  country_code: ES
+  latitude: 27.635
+  longitude: -17.985
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.3
+    photography: 9.1

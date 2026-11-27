@@ -1,0 +1,16 @@
+id: sight-bo-barba-azul-reserve
+name: "Barba Azul Nature Reserve Beni Savanna Guided Birding"
+location:
+  country_code: BO
+  latitude: -13.75
+  longitude: -66.05
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    photography: 9.3

@@ -1,0 +1,16 @@
+id: sight-pe-el-brujo-cao
+name: "El Brujo Archaeological Complex and Lady of Cao Museum"
+location:
+  country_code: PE
+  latitude: -7.916
+  longitude: -79.306
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.4

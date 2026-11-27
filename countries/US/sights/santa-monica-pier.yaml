@@ -1,0 +1,16 @@
+id: sight-us-santa-monica-pier
+name: "Santa Monica Pier and Oceanfront Promenade"
+location:
+  country_code: US
+  latitude: 34.009
+  longitude: -118.497
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 9.0
+  depth: 8.5
+  categories:
+    family: 9.1
+    photography: 9.1
+    beaches: 9.0

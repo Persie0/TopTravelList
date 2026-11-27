@@ -1,0 +1,16 @@
+id: sight-fr-argonne-forest
+name: "Argonne Forest and Historic Landscape Trails"
+location:
+  country_code: FR
+  latitude: 49.13
+  longitude: 4.94
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.2
+    history: 9.3
+    adventure: 9.1

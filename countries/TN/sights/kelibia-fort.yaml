@@ -1,0 +1,16 @@
+id: sight-tn-kelibia-fort
+name: "Kelibia Fort"
+location:
+  country_code: TN
+  latitude: 36.83772
+  longitude: 11.11587
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.1

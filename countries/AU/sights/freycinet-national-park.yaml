@@ -1,0 +1,17 @@
+id: sight-au-freycinet-national-park
+name: "Freycinet National Park"
+location:
+  country_code: AU
+  latitude: -42.08
+  longitude: 148.28
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 8.9
+    beaches: 9.1

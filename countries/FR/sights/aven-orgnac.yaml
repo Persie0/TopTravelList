@@ -1,0 +1,17 @@
+id: sight-fr-aven-orgnac
+name: "Aven d’Orgnac Cave and Cité de la Préhistoire"
+location:
+  country_code: FR
+  latitude: 44.321
+  longitude: 4.413
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.3
+  depth: 9.2
+  categories:
+    nature: 9.4
+    history: 9.3
+    adventure: 9.3
+    family: 9.3

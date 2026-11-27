@@ -1,0 +1,16 @@
+id: sight-bo-chiquitos-baroque-festival
+name: "Chiquitos International Renaissance and Baroque Music Festival"
+location:
+  country_code: BO
+  latitude: -17.783
+  longitude: -63.182
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.2

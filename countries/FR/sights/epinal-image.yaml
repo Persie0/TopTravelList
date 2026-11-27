@@ -1,0 +1,16 @@
+id: sight-fr-epinal-image
+name: "Musée de l’Image and Imagerie Épinal Print Heritage"
+location:
+  country_code: FR
+  latitude: 48.181
+  longitude: 6.449
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.3
+    family: 9.2

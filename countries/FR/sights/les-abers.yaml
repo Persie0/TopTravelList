@@ -1,0 +1,17 @@
+id: sight-fr-les-abers
+name: "Les Abers Estuary Landscapes and Coastal Trails"
+location:
+  country_code: FR
+  latitude: 48.59545
+  longitude: -4.57352
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 9.1
+    relaxation: 9.0

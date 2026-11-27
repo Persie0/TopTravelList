@@ -1,0 +1,16 @@
+id: sight-es-los-gigantes-cliffs
+name: "Los Gigantes Cliffs"
+location:
+  country_code: ES
+  latitude: 28.24062
+  longitude: -16.84236
+scores:
+  impact: 9.2
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.7
+  depth: 8.2
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 8.8

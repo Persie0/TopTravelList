@@ -1,0 +1,16 @@
+id: sight-ma-souss-massa-national-park
+name: "Souss-Massa National Park"
+location:
+  country_code: MA
+  latitude: 30.289792
+  longitude: -9.56127
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.2
+    photography: 9.0

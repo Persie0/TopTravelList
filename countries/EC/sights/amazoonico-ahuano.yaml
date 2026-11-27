@@ -1,0 +1,16 @@
+id: sight-ec-amazoonico-ahuano
+name: "Ahuano AmaZOOnico Wildlife Rescue Education Visit"
+location:
+  country_code: EC
+  latitude: -1.06
+  longitude: -77.55
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 8.6
+  depth: 8.4
+  categories:
+    wildlife: 9.0
+    nature: 8.8
+    family: 9.0

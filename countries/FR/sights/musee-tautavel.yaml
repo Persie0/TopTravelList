@@ -1,0 +1,16 @@
+id: sight-fr-musee-tautavel
+name: "Musée de Préhistoire de Tautavel"
+location:
+  country_code: FR
+  latitude: 42.813
+  longitude: 2.749
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.3
+    family: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-great-basin-national-park
+name: "Great Basin National Park"
+location:
+  country_code: US
+  latitude: 38.946174
+  longitude: -114.257978
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 8.9
+    adventure: 8.7
+    photography: 8.7

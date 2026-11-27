@@ -1,0 +1,16 @@
+id: sight-nc-prony-village
+name: "Prony Historic Village and Mining Heritage Ruins"
+location:
+  country_code: NC
+  latitude: -22.329
+  longitude: 166.819
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.3
+    culture: 9.2
+    photography: 9.2

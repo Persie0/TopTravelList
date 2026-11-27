@@ -1,0 +1,16 @@
+id: sight-au-yongala-wreck-dive
+name: "SS Yongala Historic Shipwreck Diving Queensland"
+location:
+  country_code: AU
+  latitude: -19.307
+  longitude: 147.626
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    wildlife: 9.4
+    adventure: 9.4
+    history: 9.3

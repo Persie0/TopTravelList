@@ -1,0 +1,16 @@
+id: sight-nz-tiritiri-matangi
+name: "Tiritiri Matangi Island Open Wildlife Sanctuary"
+location:
+  country_code: NZ
+  latitude: -36.602
+  longitude: 174.89
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.9
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.2

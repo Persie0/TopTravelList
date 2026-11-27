@@ -1,0 +1,16 @@
+id: sight-gr-portara-naxos
+name: "Portara Temple of Apollo Naxos"
+location:
+  country_code: GR
+  latitude: 37.1103
+  longitude: 25.37226
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.7
+  depth: 7.7
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.3

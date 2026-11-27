@@ -1,0 +1,16 @@
+id: sight-br-pedra-azul-state-park
+name: "Pedra Azul State Park Espírito Santo Granite Mountains and Trails"
+location:
+  country_code: BR
+  latitude: -20.4
+  longitude: -41.02
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

@@ -1,0 +1,17 @@
+id: sight-fr-phare-des-baleines
+name: "Phare des Baleines Lighthouse and Maritime Museum"
+location:
+  country_code: FR
+  latitude: 46.24419
+  longitude: -1.56112
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.3
+    family: 9.0

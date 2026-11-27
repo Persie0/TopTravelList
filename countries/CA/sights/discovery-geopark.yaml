@@ -1,0 +1,16 @@
+id: sight-ca-discovery-geopark
+name: "Discovery UNESCO Global Geopark Bonavista Peninsula Geological Trails"
+location:
+  country_code: CA
+  latitude: 48.48
+  longitude: -53.15
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.4
+    history: 9.3

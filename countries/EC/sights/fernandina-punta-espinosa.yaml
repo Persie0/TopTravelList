@@ -1,0 +1,16 @@
+id: sight-ec-fernandina-punta-espinosa
+name: "Fernandina Island Punta Espinosa Wildlife Landing"
+location:
+  country_code: EC
+  latitude: -0.27
+  longitude: -91.44
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.0
+  depth: 8.5
+  categories:
+    wildlife: 9.6
+    nature: 9.4
+    photography: 9.4

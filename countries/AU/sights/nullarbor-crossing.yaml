@@ -1,0 +1,16 @@
+id: sight-au-nullarbor-crossing
+name: "Nullarbor Plain Eyre Highway and Bunda Cliffs Road Journey"
+location:
+  country_code: AU
+  latitude: -31.57
+  longitude: 129.0
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.3

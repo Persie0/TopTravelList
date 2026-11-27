@@ -1,0 +1,16 @@
+id: sight-hk-hong-kong-museum-of-history
+name: "Hong Kong Museum of History"
+location:
+  country_code: HK
+  latitude: 22.30159
+  longitude: 114.17711
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 9.1
+    culture: 8.8
+    family: 8.3

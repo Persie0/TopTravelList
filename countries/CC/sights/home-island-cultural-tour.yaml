@@ -1,0 +1,16 @@
+id: sight-cc-home-island-cultural-tour
+name: "Home Island Cocos Malay Community Guided Cultural Tour"
+location:
+  country_code: CC
+  latitude: -12.12
+  longitude: 96.9
+scores:
+  impact: 8.0
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 9.2
+    history: 9.0
+    food: 9.0

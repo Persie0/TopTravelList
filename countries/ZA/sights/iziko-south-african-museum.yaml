@@ -1,0 +1,16 @@
+id: sight-za-iziko-south-african-museum
+name: "Iziko South African Museum Cape Town Natural and Cultural History"
+location:
+  country_code: ZA
+  latitude: -33.929
+  longitude: 18.417
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.7
+  depth: 9.0
+  categories:
+    history: 9.3
+    nature: 9.3
+    family: 9.2

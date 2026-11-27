@@ -1,0 +1,16 @@
+id: sight-fr-chateau-falaise
+name: "Château Guillaume-le-Conquérant Falaise"
+location:
+  country_code: FR
+  latitude: 48.893456
+  longitude: -0.20284
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.3
+    photography: 9.1

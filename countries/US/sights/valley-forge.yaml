@@ -1,0 +1,16 @@
+id: sight-us-valley-forge
+name: "Valley Forge National Historical Park"
+location:
+  country_code: US
+  latitude: 40.102
+  longitude: -75.443
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    nature: 9.0

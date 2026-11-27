@@ -1,0 +1,16 @@
+id: sight-br-pinacoteca-sao-paulo
+name: "Pinacoteca de São Paulo Brazilian Art Museum"
+location:
+  country_code: BR
+  latitude: -23.534
+  longitude: -46.633
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.2

@@ -1,0 +1,16 @@
+id: sight-za-cape-town-jazz-festival
+name: "Cape Town International Jazz Festival"
+location:
+  country_code: ZA
+  latitude: -33.92
+  longitude: 18.43
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.3
+  depth: 9.0
+  categories:
+    culture: 9.4
+    nightlife: 9.3
+    photography: 9.0

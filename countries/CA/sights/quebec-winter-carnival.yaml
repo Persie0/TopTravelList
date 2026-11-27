@@ -1,0 +1,16 @@
+id: sight-ca-quebec-winter-carnival
+name: "Québec Winter Carnival Annual Festival"
+location:
+  country_code: CA
+  latitude: 46.81
+  longitude: -71.21
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.2
+  depth: 9.0
+  categories:
+    culture: 9.4
+    family: 9.3
+    photography: 9.3

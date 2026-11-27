@@ -1,0 +1,17 @@
+id: sight-fr-saint-nazaire-shipyard-tour
+name: "Chantiers de l’Atlantique Saint-Nazaire Shipyard Guided Tour"
+location:
+  country_code: FR
+  latitude: 47.2756
+  longitude: -2.20353
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.6
+  experience: 8.9
+  depth: 8.7
+  categories:
+    culture: 9.2
+    history: 9.0
+    architecture: 8.9
+    family: 8.9

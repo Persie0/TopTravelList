@@ -1,0 +1,16 @@
+id: sight-fr-salses-fortress
+name: "Forteresse de Salses Transitional Military Fortress"
+location:
+  country_code: FR
+  latitude: 42.839
+  longitude: 2.918
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.4
+    photography: 9.2

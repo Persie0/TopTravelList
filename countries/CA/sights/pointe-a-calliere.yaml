@@ -1,0 +1,16 @@
+id: sight-ca-pointe-a-calliere
+name: "Pointe-à-Callière Montréal Archaeology and History Museum"
+location:
+  country_code: CA
+  latitude: 45.503
+  longitude: -73.554
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 9.2

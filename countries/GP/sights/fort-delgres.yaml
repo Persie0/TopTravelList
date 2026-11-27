@@ -1,0 +1,15 @@
+id: sight-gp-fort-delgres
+name: "Fort Delgrès Basse-Terre Historical Fortification"
+location:
+  country_code: GP
+  latitude: 15.989
+  longitude: -61.723
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.3

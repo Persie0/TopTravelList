@@ -1,0 +1,16 @@
+id: sight-au-wa-shipwrecks-museum
+name: "WA Shipwrecks Museum Fremantle"
+location:
+  country_code: AU
+  latitude: -32.057
+  longitude: 115.741
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.1
+    architecture: 8.8

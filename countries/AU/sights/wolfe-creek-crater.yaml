@@ -1,0 +1,16 @@
+id: sight-au-wolfe-creek-crater
+name: "Wolfe Creek Meteorite Crater National Park"
+location:
+  country_code: AU
+  latitude: -19.171
+  longitude: 127.795
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

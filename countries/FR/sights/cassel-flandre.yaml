@@ -1,0 +1,15 @@
+id: sight-fr-cassel-flandre
+name: "Musée de Flandre Cassel Flemish Art Collections"
+location:
+  country_code: FR
+  latitude: 50.8
+  longitude: 2.487
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.3

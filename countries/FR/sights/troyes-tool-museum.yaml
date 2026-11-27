@@ -1,0 +1,15 @@
+id: sight-fr-troyes-tool-museum
+name: "Maison de l’Outil et de la Pensée Ouvrière Troyes Craft Museum"
+location:
+  country_code: FR
+  latitude: 48.296
+  longitude: 4.074
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.4

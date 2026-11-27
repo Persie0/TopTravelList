@@ -1,0 +1,16 @@
+id: sight-gr-ancient-thera
+name: "Ancient Thera Archaeological Site Santorini"
+location:
+  country_code: GR
+  latitude: 36.36332
+  longitude: 25.4793
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.3
+    architecture: 9.1
+    photography: 9.2

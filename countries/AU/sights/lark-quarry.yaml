@@ -1,0 +1,16 @@
+id: sight-au-lark-quarry
+name: "Lark Quarry Dinosaur Trackways National Heritage Site"
+location:
+  country_code: AU
+  latitude: -23.02
+  longitude: 142.412
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.4
+    nature: 9.3
+    family: 9.1

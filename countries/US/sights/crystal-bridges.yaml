@@ -1,0 +1,16 @@
+id: sight-us-crystal-bridges
+name: "Crystal Bridges Museum of American Art Bentonville"
+location:
+  country_code: US
+  latitude: 36.3825
+  longitude: -94.203
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.3
+    architecture: 9.3
+    nature: 9.1

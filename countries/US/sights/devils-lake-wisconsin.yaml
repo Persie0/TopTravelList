@@ -1,0 +1,16 @@
+id: sight-us-devils-lake-wisconsin
+name: "Devils Lake State Park Baraboo Wisconsin"
+location:
+  country_code: US
+  latitude: 43.418
+  longitude: -89.73
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.2
+    adventure: 9.2
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-us-charles-wright-museum
+name: "Charles H Wright Museum of African American History Detroit"
+location:
+  country_code: US
+  latitude: 42.359
+  longitude: -83.062
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-ca-whistler-blackcomb
+name: "Whistler Blackcomb Skiing and Alpine Gondola Experience"
+location:
+  country_code: CA
+  latitude: 50.09
+  longitude: -122.95
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.5
+  depth: 9.4
+  categories:
+    adventure: 9.5
+    nature: 9.4
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-dz-royal-mausoleum-mauretania
+name: "Royal Mausoleum of Mauretania (Exterior)"
+location:
+  country_code: DZ
+  latitude: 36.574722
+  longitude: 2.553333
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 7.9
+  depth: 7.6
+  categories:
+    architecture: 9.2
+    history: 9.4
+    photography: 9.0

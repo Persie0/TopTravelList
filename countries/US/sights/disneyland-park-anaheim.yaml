@@ -1,0 +1,16 @@
+id: sight-us-disneyland-park-anaheim
+name: "Disneyland Park (Anaheim)"
+location:
+  country_code: US
+  latitude: 33.812092
+  longitude: -117.918974
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.3
+  depth: 9.2
+  categories:
+    family: 9.4
+    culture: 8.8
+    photography: 8.8

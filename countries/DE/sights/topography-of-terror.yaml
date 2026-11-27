@@ -1,0 +1,15 @@
+id: sight-de-topography-of-terror
+name: "Topography of Terror Documentation Centre"
+location:
+  country_code: DE
+  latitude: 52.50619
+  longitude: 13.38434
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.0
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.0

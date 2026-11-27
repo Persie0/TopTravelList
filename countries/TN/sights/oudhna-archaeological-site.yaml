@@ -1,0 +1,16 @@
+id: sight-tn-oudhna-archaeological-site
+name: "Oudhna (Uthina) Archaeological Site"
+location:
+  country_code: TN
+  latitude: 36.60902
+  longitude: 10.17312
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.0

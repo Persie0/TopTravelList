@@ -1,0 +1,16 @@
+id: sight-us-north-cascades-national-park
+name: "North Cascades National Park"
+location:
+  country_code: US
+  latitude: 48.711718
+  longitude: -121.206942
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.3
+  depth: 9.0
+  categories:
+    nature: 9.2
+    photography: 9.1
+    adventure: 9.2

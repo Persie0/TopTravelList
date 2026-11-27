@@ -1,0 +1,17 @@
+id: sight-it-bosa-historic-centre
+name: "Bosa Historic Centre and Serravalle Castle"
+location:
+  country_code: IT
+  latitude: 40.297
+  longitude: 8.4986
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.0
+    photography: 9.2
+    culture: 9.0
+    history: 8.9

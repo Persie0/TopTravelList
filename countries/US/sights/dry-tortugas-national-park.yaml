@@ -1,0 +1,17 @@
+id: sight-us-dry-tortugas-national-park
+name: "Dry Tortugas National Park"
+location:
+  country_code: US
+  latitude: 24.628741
+  longitude: -82.87319
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 9.0
+    history: 8.7
+    photography: 9.1
+    adventure: 8.7

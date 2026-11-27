@@ -1,0 +1,18 @@
+id: sight-es-maspalomas-dunes
+name: "Maspalomas Dunes Special Nature Reserve"
+location:
+  country_code: ES
+  latitude: 27.74393
+  longitude: -15.58253
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.7
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.4
+    beaches: 9.1
+    relaxation: 8.9
+    wildlife: 8.6

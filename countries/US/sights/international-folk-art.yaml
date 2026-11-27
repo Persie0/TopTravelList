@@ -1,0 +1,16 @@
+id: sight-us-international-folk-art
+name: "Museum of International Folk Art Santa Fe"
+location:
+  country_code: US
+  latitude: 35.665
+  longitude: -105.926
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3
+    family: 9.1

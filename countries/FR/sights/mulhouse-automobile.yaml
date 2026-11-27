@@ -1,0 +1,16 @@
+id: sight-fr-mulhouse-automobile
+name: "Musée National de l’Automobile Mulhouse Schlumpf Collection"
+location:
+  country_code: FR
+  latitude: 47.761
+  longitude: 7.329
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.4
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.4
+    family: 9.4

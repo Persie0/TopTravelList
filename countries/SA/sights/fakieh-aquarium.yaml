@@ -1,0 +1,16 @@
+id: sight-sa-fakieh-aquarium
+name: "Fakieh Aquarium"
+location:
+  country_code: SA
+  latitude: 21.57229
+  longitude: 39.10937
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.5
+  depth: 8.3
+  categories:
+    family: 8.9
+    wildlife: 8.6
+    nature: 8.4

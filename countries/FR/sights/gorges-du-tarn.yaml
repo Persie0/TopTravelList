@@ -1,0 +1,17 @@
+id: sight-fr-gorges-du-tarn
+name: "Gorges du Tarn River Canyon and Canoeing"
+location:
+  country_code: FR
+  latitude: 44.338
+  longitude: 3.386
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.3
+  depth: 9.1
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4
+    relaxation: 9.2

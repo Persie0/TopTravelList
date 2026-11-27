@@ -833,3 +833,272 @@
 | [Pella Archaeological Site](../../../countries/JO/sights/pella-archaeological-site.yaml) | 7.9 / 8.4 / 8.9 / 8.0 / 8.3 | 82.80/100 | Regional multiperiod archaeology. |
 | [Joya de Cerén Archaeological Site](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70/100 | Exceptional domestic archaeological preservation with bounded depth. |
 
+## sight-kw-kuwait-motor-town — Kuwait Motor Town — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/kuwait-motor-town.yaml)
+- Action: new
+- Precise subject and limitations: Circuit complex and public karting where available; excludes unrelated racing events as standalone records. Official operator documents karting facilities; October 2026 reporting describes public sessions (https://kwt.one/en/karting-king-fahad-road/). Schedules and eligibility vary; no race admission guaranteed.
+- Location check: 28.92819, 48.14148; [representative point source](https://mapcarta.com/W745246568), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.kmt.kw/racetrack/karting/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [BH/bahrain-international-circuit](../../../countries/BH/sights/bahrain-international-circuit.yaml) | 8.2 / 7.8 / 8.0 / 8.5 / 7.8 | Greater established international event significance. |
+| [QA/lusail-international-circuit](../../../countries/QA/sights/lusail-international-circuit.yaml) | 8.5 / 8.2 / 8.2 / 8.7 / 8.1 | Broader international racing profile. |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | 8.8 / 8.9 / 6.8 / 9.1 / 8.8 | Different themed amusement experience. |
+| [QA/doha-quest](../../../countries/QA/sights/doha-quest.yaml) | 7.7 / 7.4 / 6.0 / 8.4 / 7.6 | Different indoor recreation scope. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Substantial purpose-built racing venue. |
+| Uniqueness | 8.0 | International circuit format but similar venues elsewhere. |
+| Significance | 7.5 | Regional motorsport significance. |
+| Experience | 8.6 | Participatory karting and event-dependent viewing. |
+| Depth | 8.0 | Several circuit facilities. |
+
+- Applicable categories: adventure:8.8, photography:8.2.
+- Computed worldwide overall: 80.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-kw-amricani-cultural-centre — Amricani Cultural Centre — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/amricani-cultural-centre.yaml)
+- Action: new
+- Precise subject and limitations: Dar al-Athar al-Islamiyyah exhibitions in former American hospital buildings, distinct from Kuwait National Museum and Tareq Rajab Museum. Mapping source misclassifies venue as mosque; coordinates corroborated by https://www.hotelinmap.com/country/kw/tourist_attraction/. Operator museum visit and tour booking documented. Rotating exhibitions vary.
+- Location check: 29.36805, 47.9624; [representative point source](https://mapcarta.com/36093764), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://daralatharalislamiyyah.com/en/plan-your-visit-en/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [KW/tareq-rajab-museum](../../../countries/KW/sights/tareq-rajab-museum.yaml) | 8.0 / 8.6 / 8.7 / 8.3 / 8.3 | Comparable Islamic art focus, different collection. |
+| [KW/kuwait-national-museum](../../../countries/KW/sights/kuwait-national-museum.yaml) | 7.5 / 8.0 / 8.7 / 7.8 / 7.9 | Broader national history. |
+| [BH/beit-al-quran](../../../countries/BH/sights/beit-al-quran.yaml) | 7.9 / 8.4 / 8.8 / 8.2 / 7.9 | More focused manuscript heritage. |
+| [AE/sharjah-museum-of-islamic-civilization](../../../countries/AE/sights/sharjah-museum-of-islamic-civilization.yaml) | 8.1 / 8.5 / 8.6 / 8.4 / 8.4 | Broader Islamic civilization museum. |
+
+Peer links and dimensions matched to current ranking rows or same-batch YAML; individual existing peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.0 | Restored historic hospital and art displays. |
+| Uniqueness | 8.7 | Combination of Islamic art and medical heritage. |
+| Significance | 8.7 | Important Kuwait cultural institution. |
+| Experience | 8.5 | Interpretive galleries and organized tours. |
+| Depth | 8.5 | Multiple exhibition subjects. |
+
+- Applicable categories: culture:9.0, history:8.9, architecture:8.5.
+- Computed worldwide overall: 84.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-kw-al-salam-palace-museum — Al Salam Palace Museum — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/al-salam-palace-museum.yaml)
+- Action: new
+- Precise subject and limitations: Historic palace museum in Shuwaikh, not Seif Palace or adjacent Sheikh Jaber Cultural Centre. Museum maps describe civilizations, palace history and historical exhibitions; visitor terms https://aspm.com.kw/en/terms-of-use/ document tickets. Alternate directory coordinate 29.3796532,47.9734174 conflicts with Shuwaikh location; selected published palace point near cultural centre. Exact entrance and booking availability not guaranteed.
+- Location check: 29.357694, 47.952944; [representative point source](https://en.wikipedia.org/wiki/Al_Salam_Palace_(Kuwait)), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://aspm.com.kw/en/map/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [KW/seif-palace](../../../countries/KW/sights/seif-palace.yaml) | 7.4 / 7.7 / 8.3 / 7.2 / 6.3 | Exterior-focused different palace. |
+| [KW/kuwait-national-museum](../../../countries/KW/sights/kuwait-national-museum.yaml) | 7.5 / 8.0 / 8.7 / 7.8 / 7.9 | Different broader archaeological collection. |
+| [BH/bahrain-national-museum](../../../countries/BH/sights/bahrain-national-museum.yaml) | 8.3 / 8.4 / 8.9 / 8.6 / 8.5 | Broader national museum rather than palace. |
+| [AE/qasr-al-watan](../../../countries/AE/sights/qasr-al-watan.yaml) | 9.0 / 8.5 / 7.8 / 8.8 / 7.9 | Larger contemporary ceremonial architecture. |
+
+Peer links and dimensions matched to current ranking rows or same-batch YAML; individual existing peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Impressive historic interiors and architecture. |
+| Uniqueness | 8.6 | Distinct restored palace museum. |
+| Significance | 8.7 | Regional political and national heritage. |
+| Experience | 8.6 | Interpreted galleries and ticketed visit. |
+| Depth | 8.5 | Several major museum themes. |
+
+- Applicable categories: history:9.1, architecture:9.0, culture:8.8.
+- Computed worldwide overall: 86.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-kw-ahmad-al-jaber-oil-gas-exhibition — Ahmad Al-Jaber Oil and Gas Exhibition — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/ahmad-al-jaber-oil-gas-exhibition.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated museum exhibition in Ahmadi, separate from listed company town landscape. Operator offers guided tours: https://kocexhibit.com/EmailVerify. September 2026 visitor guide describes nine galleries https://kwt.one/en/ahmad-al-jaber-oil-gas-exhibition/. Coordinate is nearby visitor parking, not building centroid, from user-contributed map; verify later. Company interpretation does not imply independent environmental claims.
+- Location check: 29.0957, 48.0768; [representative point source](https://park4night.com/en/place/649483), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://kocexhibit.com/); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [KW/ahmadi-company-town-heritage-area](../../../countries/KW/sights/ahmadi-company-town-heritage-area.yaml) | 7.5 / 8.3 / 8.6 / 7.5 / 7.5 | Distinct outdoor planned town fabric. |
+| [BH/oil-museum-and-first-oil-well](../../../countries/BH/sights/oil-museum-and-first-oil-well.yaml) | 7.2 / 8.2 / 8.7 / 7.4 / 6.9 | Smaller historical petroleum site. |
+| [KW/the-scientific-center](../../../countries/KW/sights/the-scientific-center.yaml) | 7.9 / 7.7 / 7.3 / 8.5 / 7.8 | Different science education scope. |
+| [QA/3-2-1-qatar-olympic-and-sports-museum](../../../countries/QA/sights/3-2-1-qatar-olympic-and-sports-museum.yaml) | 8.2 / 8.5 / 8.4 / 8.7 / 8.2 | Comparable specialized museum breadth. |
+
+Peer links and dimensions matched to current ranking rows or same-batch YAML; individual existing peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Modern industrial exhibits. |
+| Uniqueness | 8.6 | Specialized petroleum history interpretation. |
+| Significance | 8.7 | Central role of oil in Kuwaiti modern history. |
+| Experience | 8.5 | Guided multimedia experience. |
+| Depth | 8.7 | Several galleries and industry topics. |
+
+- Applicable categories: history:8.9, culture:8.6, family:8.7.
+- Computed worldwide overall: 84.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-kw-al-qurain-martyrs-museum — Al Qurain Martyrs Museum — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/al-qurain-martyrs-museum.yaml)
+- Action: new
+- Precise subject and limitations: Preserved historic residence and museum documenting 1991 resistance and national memory. Government museum listing and https://www.lonelyplanet.com/points-of-interest/al-qurain-martyrs-museum/451603 support visitor scope. Secondary museum directory confirms approximate coordinates https://atthemuseum.org/museums/al-qurain-martyrs-museum. Current room access uncertain.
+- Location check: 29.1969275, 48.0706247; [representative point source](https://www.hotelinmap.com/country/kw/tourist_attraction/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.nccal.gov.kw/en/museums); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [KW/kuwait-national-museum](../../../countries/KW/sights/kuwait-national-museum.yaml) | 7.5 / 8.0 / 8.7 / 7.8 / 7.9 | Wider historical chronology. |
+| [KW/dickson-house-cultural-centre](../../../countries/KW/sights/dickson-house-cultural-centre.yaml) | 7.0 / 7.6 / 8.1 / 7.3 / 6.5 | Different historic residence. |
+| [BH/bahrain-military-museum](../../../countries/BH/sights/bahrain-military-museum.yaml) | 7.0 / 7.2 / 7.7 / 7.3 / 7.1 | Broader military history museum. |
+| [AE/etihad-museum](../../../countries/AE/sights/etihad-museum.yaml) | 7.6 / 8.0 / 8.5 / 8.1 / 7.7 | Different national founding history. |
+
+Peer links and dimensions matched to current ranking rows or same-batch YAML; individual existing peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.7 | Powerful preserved memorial setting. |
+| Uniqueness | 8.5 | Distinct authentic historic residence. |
+| Significance | 9.0 | Major national historical significance. |
+| Experience | 8.0 | Focused educational and commemorative visit. |
+| Depth | 7.3 | Compact museum rather than large complex. |
+
+- Applicable categories: history:9.2, culture:8.6.
+- Computed worldwide overall: 81.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-kw-museum-of-modern-art-kuwait — Museum of Modern Art (Kuwait) — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/museum-of-modern-art-kuwait.yaml)
+- Action: new
+- Precise subject and limitations: Modern art galleries in former Sharqiya Girls School, separate from nearby Maritime Museum. Government historic building inventory https://nccal.gov.kw/en/historic-buildings and virtual tour https://www.nccal.gov.kw/en/virtual-tour document identity. Current exhibitions and hours uncertain.
+- Location check: 29.3846901, 47.9833466; [representative point source](https://www.hotelinmap.com/country/kw/tourist_attraction/), source or indexed excerpt inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.nccal.gov.kw/en/museums); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [QA/mathaf-arab-museum-of-modern-art](../../../countries/QA/sights/mathaf-arab-museum-of-modern-art.yaml) | 8.3 / 8.8 / 8.9 / 8.4 / 8.3 | Larger regional modern art institution. |
+| [BH/al-riwaq-art-space](../../../countries/BH/sights/al-riwaq-art-space.yaml) | 7.6 / 8.4 / 8.2 / 8.3 / 7.9 | Different contemporary art programme. |
+| [KW/amricani-cultural-centre](../../../countries/KW/sights/amricani-cultural-centre.yaml) | 8.0 / 8.7 / 8.7 / 8.5 / 8.5 | Different exhibition and hospital heritage scope. |
+| [AE/sharjah-museum-of-islamic-civilization](../../../countries/AE/sights/sharjah-museum-of-islamic-civilization.yaml) | 8.1 / 8.5 / 8.6 / 8.4 / 8.4 | Different historical art tradition. |
+
+Peer links and dimensions matched to current ranking rows or same-batch YAML; individual existing peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 7.8 | Historic school building and artworks. |
+| Uniqueness | 8.2 | Regional modern art in adapted heritage building. |
+| Significance | 8.2 | National modern arts significance. |
+| Experience | 8.1 | Focused gallery experience. |
+| Depth | 7.8 | Several exhibition spaces. |
+
+- Applicable categories: culture:8.8, architecture:8.3.
+- Computed worldwide overall: 80.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## Al Shaheed Park — scope follow-up — 2026-11-26
+
+Phase III opened on 1 October 2026, including a theatre, sports and family facilities: https://kuwaittimes.com/article/50810/kuwait/other-news/al-shaheed-park-phase-iii-opens-featuring-new-cultural-landmark/ and https://kuwaittimes.com/article/50804/lifestyle/art-fashion/shaheed-park-levels-up/. Keep landscape and park expansion in existing parent record. Current scores unchanged; flag expanded visitor depth and independently ticketed experiences for rating reassessment, not duplicate park rows.
+
+## sight-kw-kuwait-geopark — Kuwait Geopark — 2026-11-26
+
+- YAML: [source](../../../countries/KW/sights/kuwait-geopark.yaml)
+- Action: new
+- Precise subject and limitations: Subiya geological and cultural visitor site, opened January 2026. Assess the first visitor phase, not proposed expansion or unrestricted archaeological access. KUNA reporting https://kuwaittimes.com/article/38001/kuwait/other-news/kuwait-geopark-to-open-to-visitors-on-january-7/amp/ describes geological and heritage experiences; visitor guide https://kuwaitlocal.com/news/geo-park-kuwait supplies map link. Redirect returned HTTP 500 but exposed named Kuwait Geopark place coordinates in !3d29.6378616!4d48.0051816, not viewport center. Verify entrance and present booking. No UNESCO Global Geopark designation assumed.
+- Location check: 29.6378616, 48.0051816; [representative point source](https://maps.app.goo.gl/BkTYRqrStWJAfG1X6), source or redirect inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.kockw.com/sites/EN/EMagazine/Pages/Events/1180.aspx); source or indexed excerpt inspected 2026-11-26. Sources support factual scope, not ratings.
+- Missing or uncertain facts: independent corroboration and exact current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [KW/jahra-nature-reserve-jahra-pools](../../../countries/KW/sights/jahra-nature-reserve-jahra-pools.yaml) | 7.6 / 8.2 / 8.4 / 7.9 / 7.3 | Different wetland and birdwatching focus. |
+| [AE/mleiha-archaeological-centre-and-sites](../../../countries/AE/sights/mleiha-archaeological-centre-and-sites.yaml) | 7.8 / 8.6 / 9.1 / 8.2 / 8.0 | Broader established archaeology visitor programme. |
+| [OM/tawi-atayr-sinkhole](../../../countries/OM/sights/tawi-atayr-sinkhole.yaml) | 8.5 / 8.8 / 8.0 / 7.8 / 6.7 | More concentrated geological landform. |
+| [SA/al-wahbah-crater](../../../countries/SA/sights/al-wahbah-crater.yaml) | 8.7 / 8.6 / 7.8 / 8.1 / 7.4 | More dramatic singular volcanic landform. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Varied desert formations and interpreted landscape. |
+| Uniqueness | 8.7 | Distinct geological and archaeological education. |
+| Significance | 8.5 | Regional geological and settlement heritage. |
+| Experience | 8.5 | Curated visitor zones and guided activities. |
+| Depth | 8.6 | Multiple subjects within opened visitor area. |
+
+- Applicable categories: nature:8.9, history:8.7, family:8.8, photography:8.7.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

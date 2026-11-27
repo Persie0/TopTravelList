@@ -1,0 +1,16 @@
+id: sight-br-bioparque-pantanal
+name: "Bioparque Pantanal Campo Grande Freshwater Aquarium and Conservation Exhibits"
+location:
+  country_code: BR
+  latitude: -20.451
+  longitude: -54.565
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    family: 9.4

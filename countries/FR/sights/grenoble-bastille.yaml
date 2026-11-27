@@ -1,0 +1,17 @@
+id: sight-fr-grenoble-bastille
+name: "Grenoble Bastille Fortress and Cable Car"
+location:
+  country_code: FR
+  latitude: 45.198
+  longitude: 5.725
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.1
+  depth: 8.8
+  categories:
+    photography: 9.4
+    architecture: 9.2
+    history: 9.2
+    family: 9.2

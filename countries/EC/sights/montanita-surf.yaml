@@ -1,0 +1,16 @@
+id: sight-ec-montanita-surf
+name: "Montañita Surf Beach and Village Nightlife"
+location:
+  country_code: EC
+  latitude: -1.827
+  longitude: -80.755
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 9.0
+  depth: 8.6
+  categories:
+    beaches: 9.2
+    adventure: 9.2
+    nightlife: 9.1

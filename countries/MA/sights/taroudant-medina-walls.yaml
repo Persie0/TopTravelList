@@ -1,0 +1,17 @@
+id: sight-ma-taroudant-medina-walls
+name: "Taroudant Medina and Historic Walls"
+location:
+  country_code: MA
+  latitude: 30.469444
+  longitude: -8.882591
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.0
+    culture: 9.1
+    photography: 8.9

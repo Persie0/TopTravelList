@@ -1,0 +1,18 @@
+id: sight-om-misfat-al-abriyeen
+name: "Misfat Al Abriyeen Village"
+location:
+  country_code: OM
+  latitude: 23.1375
+  longitude: 57.30861
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    culture: 9.0
+    history: 8.9
+    photography: 9.1
+    architecture: 8.9
+    nature: 8.6

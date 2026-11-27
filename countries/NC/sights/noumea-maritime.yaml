@@ -1,0 +1,15 @@
+id: sight-nc-noumea-maritime
+name: "Musée Maritime de Nouvelle-Calédonie Nouméa Maritime Heritage Collections"
+location:
+  country_code: NC
+  latitude: -22.27
+  longitude: 166.438
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.3

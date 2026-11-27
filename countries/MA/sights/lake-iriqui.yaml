@@ -1,0 +1,17 @@
+id: sight-ma-lake-iriqui
+name: "Lake Iriqui Desert Salt Flat"
+location:
+  country_code: MA
+  latitude: 29.812698
+  longitude: -6.50469
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.2
+  experience: 8.3
+  depth: 7.9
+  categories:
+    nature: 9.0
+    photography: 9.2
+    adventure: 8.9
+    wildlife: 8.6

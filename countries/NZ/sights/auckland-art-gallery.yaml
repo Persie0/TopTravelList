@@ -1,0 +1,16 @@
+id: sight-nz-auckland-art-gallery
+name: "Auckland Art Gallery Toi o Tāmaki"
+location:
+  country_code: NZ
+  latitude: -36.85128
+  longitude: 174.76637
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.2
+    history: 8.8
+    architecture: 8.8

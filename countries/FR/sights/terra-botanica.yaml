@@ -1,0 +1,17 @@
+id: sight-fr-terra-botanica
+name: "Terra Botanica Angers Botanical Theme Park"
+location:
+  country_code: FR
+  latitude: 47.51215
+  longitude: -0.57771
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.0
+  experience: 9.1
+  depth: 9.1
+  categories:
+    nature: 9.2
+    family: 9.4
+    photography: 9.1
+    relaxation: 9.1

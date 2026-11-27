@@ -1,0 +1,17 @@
+id: sight-tr-phaselis
+name: "Phaselis Archaeological Site and Harbours"
+location:
+  country_code: TR
+  latitude: 36.52436
+  longitude: 30.55026
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    history: 9.2
+    architecture: 9.0
+    photography: 9.1
+    nature: 9.0

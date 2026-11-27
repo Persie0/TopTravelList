@@ -1,0 +1,16 @@
+id: sight-ca-athabasca-sand-dunes
+name: "Athabasca Sand Dunes Provincial Park"
+location:
+  country_code: CA
+  latitude: 59.05
+  longitude: -109.1
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.5
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

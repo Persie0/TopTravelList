@@ -1,0 +1,17 @@
+id: sight-fr-cite-de-la-mer
+name: "La Cité de la Mer Cherbourg"
+location:
+  country_code: FR
+  latitude: 49.6462527
+  longitude: -1.6205303
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.1
+  depth: 9.2
+  categories:
+    family: 9.4
+    history: 9.3
+    culture: 9.2
+    nature: 9.1

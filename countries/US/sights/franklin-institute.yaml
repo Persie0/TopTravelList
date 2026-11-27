@@ -1,0 +1,16 @@
+id: sight-us-franklin-institute
+name: "Franklin Institute Science Museum Philadelphia"
+location:
+  country_code: US
+  latitude: 39.958
+  longitude: -75.173
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.4
+  depth: 9.3
+  categories:
+    family: 9.4
+    history: 9.2
+    culture: 9.0

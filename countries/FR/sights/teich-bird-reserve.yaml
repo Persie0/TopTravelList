@@ -1,0 +1,17 @@
+id: sight-fr-teich-bird-reserve
+name: "Réserve Ornithologique du Teich Wetland Birdwatching Trails"
+location:
+  country_code: FR
+  latitude: 44.6402091
+  longitude: -1.0188125
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 9.1
+    relaxation: 9.0

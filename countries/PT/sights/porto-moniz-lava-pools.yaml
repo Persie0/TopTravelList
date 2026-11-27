@@ -1,0 +1,17 @@
+id: sight-pt-porto-moniz-lava-pools
+name: "Porto Moniz Volcanic Natural Pools"
+location:
+  country_code: PT
+  latitude: 32.86809
+  longitude: -17.16633
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.1
+  experience: 9.0
+  depth: 8.3
+  categories:
+    nature: 9.0
+    photography: 9.2
+    relaxation: 9.2
+    family: 8.9

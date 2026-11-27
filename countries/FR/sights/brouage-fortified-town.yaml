@@ -1,0 +1,17 @@
+id: sight-fr-brouage-fortified-town
+name: "Brouage Fortified Town and Halle aux Vivres"
+location:
+  country_code: FR
+  latitude: 45.86638
+  longitude: -1.07008
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.2
+    culture: 9.1

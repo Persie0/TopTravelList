@@ -1,0 +1,17 @@
+id: sight-ca-notre-dame-basilica-montreal
+name: "Notre-Dame Basilica of Montréal"
+location:
+  country_code: CA
+  latitude: 45.50444
+  longitude: -73.55601
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 7.9
+  categories:
+    architecture: 9.3
+    history: 8.9
+    culture: 8.9
+    photography: 9.1

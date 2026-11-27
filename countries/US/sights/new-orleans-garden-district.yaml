@@ -1,0 +1,16 @@
+id: sight-us-new-orleans-garden-district
+name: "New Orleans Garden District Historic Architecture and Streetcar"
+location:
+  country_code: US
+  latitude: 29.929
+  longitude: -90.084
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.2

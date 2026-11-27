@@ -1,0 +1,16 @@
+id: sight-nz-glenorchy-road
+name: "Queenstown to Glenorchy Lake Wakatipu Scenic Drive"
+location:
+  country_code: NZ
+  latitude: -45.0
+  longitude: 168.47
+scores:
+  impact: 9.1
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.4
+    relaxation: 9.1

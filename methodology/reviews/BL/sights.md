@@ -353,3 +353,33 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 editorial assessment of specified visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent coordinates, claims and visitor scope.
+
+
+## sight-bl-gustavia-heritage — Gustavia Historic Harbour and Swedish-Era Heritage Museums — 2026-11-27
+
+- YAML: [source](../../../countries/BL/sights/gustavia-heritage.yaml)
+- Action: new
+- Scope: Historic streets and museum collections at Brigantin and Wall House; excludes Fort Karl and Shell Beach.
+- Representative coordinates: 17.898, -62.85; approximate, not independently verified.
+- Evidence status: **desk-based provisional; scope source-linked**
+- Sources (search excerpts, 2026-11-27): https://www.saintbarth-tourisme.com/locations/gustavia ; https://www.saintbarth-tourisme.com/discover.
+- Core I/U/S/E/D: 8.3 / 8.6 / 8.6 / 8.7 / 8.3.
+- Categories: history:8.9,culture:8.9,architecture:8.7.
+- Overall: 84.95/100.
+- Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
+- Verification pending: factual/coordinate checks and full Python validation.
+
+
+## sight-bl-saint-jean-beach — Saint-Jean Bay Beach and Coastal Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/BL/sights/saint-jean-beach.yaml)
+- Action: new
+- Scope: Beach and bay, separate from Grand Cul-de-Sac lagoon.
+- Representative coordinates: 17.904, -62.837; approximate, not independently verified.
+- Evidence status: **desk-based provisional; scope source-linked**
+- Sources (search excerpts, 2026-11-27): https://www.saintbarth-tourisme.com/discover.
+- Core I/U/S/E/D: 8.4 / 8.1 / 7.5 / 8.8 / 8.1.
+- Categories: beaches:9.1,relaxation:9.1,photography:8.8.
+- Overall: 81.75/100.
+- Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
+- Verification pending: factual/coordinate checks and full Python validation.

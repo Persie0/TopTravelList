@@ -1,0 +1,16 @@
+id: sight-pt-clerigos-church-tower
+name: "Clérigos Church, Tower and Museum"
+location:
+  country_code: PT
+  latitude: 41.14567
+  longitude: -8.61468
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    photography: 9.2
+    history: 8.9

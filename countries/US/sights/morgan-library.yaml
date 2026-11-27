@@ -1,0 +1,16 @@
+id: sight-us-morgan-library
+name: "Morgan Library and Museum New York"
+location:
+  country_code: US
+  latitude: 40.749
+  longitude: -73.981
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.3

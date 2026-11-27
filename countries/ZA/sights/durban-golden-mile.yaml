@@ -1,0 +1,16 @@
+id: sight-za-durban-golden-mile
+name: "Durban Golden Mile Beachfront Promenade and Indian Ocean Beaches"
+location:
+  country_code: ZA
+  latitude: -29.852
+  longitude: 31.039
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 8.1
+  experience: 8.8
+  depth: 8.5
+  categories:
+    beaches: 9.3
+    relaxation: 9.2
+    photography: 9.0

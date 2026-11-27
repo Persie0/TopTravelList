@@ -1,0 +1,17 @@
+id: sight-fr-chateau-gavaudun
+name: "Château de Gavaudun Rock Fortress"
+location:
+  country_code: FR
+  latitude: 44.56
+  longitude: 0.886
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    photography: 9.2
+    history: 9.0
+    adventure: 8.8

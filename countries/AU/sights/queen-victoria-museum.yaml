@@ -1,0 +1,16 @@
+id: sight-au-queen-victoria-museum
+name: "Queen Victoria Museum and Art Gallery Launceston"
+location:
+  country_code: AU
+  latitude: -41.431
+  longitude: 147.147
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.2
+    history: 9.1
+    nature: 9.1

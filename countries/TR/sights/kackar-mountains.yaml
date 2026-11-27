@@ -1,0 +1,16 @@
+id: sight-tr-kackar-mountains
+name: "Kaçkar Mountains National Park"
+location:
+  country_code: TR
+  latitude: 40.8323
+  longitude: 41.0473
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.5
+    adventure: 9.4
+    photography: 9.4

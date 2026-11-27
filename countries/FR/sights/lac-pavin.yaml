@@ -1,0 +1,16 @@
+id: sight-fr-lac-pavin
+name: "Lac Pavin Volcanic Crater Lake"
+location:
+  country_code: FR
+  latitude: 45.497
+  longitude: 2.888
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.4
+    relaxation: 9.2

@@ -1,0 +1,16 @@
+id: sight-es-siam-park-tenerife
+name: "Siam Park Tenerife"
+location:
+  country_code: ES
+  latitude: 28.0722
+  longitude: -16.72556
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 7.8
+  experience: 9.3
+  depth: 8.9
+  categories:
+    family: 9.3
+    adventure: 9.3
+    relaxation: 8.8

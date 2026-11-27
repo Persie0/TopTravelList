@@ -1,0 +1,17 @@
+id: sight-pt-serralves-art-park
+name: "Serralves Contemporary Art Collections and Park"
+location:
+  country_code: PT
+  latitude: 41.159477
+  longitude: -8.659605
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.3
+    nature: 8.8
+    relaxation: 9.0
+    photography: 8.9

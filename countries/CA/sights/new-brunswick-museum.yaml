@@ -1,0 +1,16 @@
+id: sight-ca-new-brunswick-museum
+name: "New Brunswick Museum Saint John Natural and Cultural Heritage Collections"
+location:
+  country_code: CA
+  latitude: 45.276
+  longitude: -66.077
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.6
+  depth: 8.9
+  categories:
+    history: 9.3
+    nature: 9.3
+    culture: 9.2

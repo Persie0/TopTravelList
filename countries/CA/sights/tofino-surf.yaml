@@ -1,0 +1,16 @@
+id: sight-ca-tofino-surf
+name: "Tofino Cox Bay and Chesterman Beach Surfing and Storm Watching"
+location:
+  country_code: CA
+  latitude: 49.1
+  longitude: -125.87
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.1
+  depth: 8.9
+  categories:
+    adventure: 9.3
+    nature: 9.3
+    photography: 9.3

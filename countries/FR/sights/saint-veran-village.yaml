@@ -1,0 +1,16 @@
+id: sight-fr-saint-veran-village
+name: "Saint-Véran Historic Alpine Village"
+location:
+  country_code: FR
+  latitude: 44.7
+  longitude: 6.868
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    photography: 9.3
+    culture: 9.2

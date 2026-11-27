@@ -1,0 +1,15 @@
+id: sight-fr-limoges-fine-arts
+name: "Musée des Beaux-Arts Limoges Enamel and Art Collections"
+location:
+  country_code: FR
+  latitude: 45.828
+  longitude: 1.265
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.3

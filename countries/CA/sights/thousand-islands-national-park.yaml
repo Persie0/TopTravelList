@@ -1,0 +1,16 @@
+id: sight-ca-thousand-islands-national-park
+name: "Thousand Islands National Park"
+location:
+  country_code: CA
+  latitude: 44.4523
+  longitude: -75.860317
+scores:
+  impact: 8.0
+  uniqueness: 8.2
+  significance: 8.1
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 8.5
+    adventure: 8.5
+    photography: 8.4

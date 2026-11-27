@@ -1,0 +1,16 @@
+id: sight-es-nacimiento-rio-cuervo
+name: "Nacimiento del Río Cuervo Natural Monument"
+location:
+  country_code: ES
+  latitude: 40.42764
+  longitude: -1.88688
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.2
+    adventure: 8.6

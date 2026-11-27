@@ -1,0 +1,16 @@
+id: sight-br-amazonas-opera-festival
+name: "Amazonas Opera Festival Manaus Annual Operatic Performances"
+location:
+  country_code: BR
+  latitude: -3.13
+  longitude: -60.023
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.2
+    nightlife: 9.2

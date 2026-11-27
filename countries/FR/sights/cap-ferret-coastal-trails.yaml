@@ -1,0 +1,18 @@
+id: sight-fr-cap-ferret-coastal-trails
+name: "Cap Ferret Peninsula Coastal Trails and Oyster Villages"
+location:
+  country_code: FR
+  latitude: 44.6221894
+  longitude: -1.2472916
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.2
+    beaches: 9.1
+    adventure: 8.9

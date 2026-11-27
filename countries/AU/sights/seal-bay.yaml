@@ -1,0 +1,16 @@
+id: sight-au-seal-bay
+name: "Seal Bay Conservation Park Australian Sea Lion Viewing"
+location:
+  country_code: AU
+  latitude: -35.992
+  longitude: 137.321
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

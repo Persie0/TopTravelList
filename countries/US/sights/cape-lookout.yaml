@@ -1,0 +1,16 @@
+id: sight-us-cape-lookout
+name: "Cape Lookout National Seashore"
+location:
+  country_code: US
+  latitude: 34.61
+  longitude: -76.53
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    beaches: 9.3
+    nature: 9.2
+    photography: 9.2

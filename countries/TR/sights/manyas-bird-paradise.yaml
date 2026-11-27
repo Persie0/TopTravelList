@@ -1,0 +1,16 @@
+id: sight-tr-manyas-bird-paradise
+name: "Lake Manyas Bird Paradise National Park"
+location:
+  country_code: TR
+  latitude: 40.2319
+  longitude: 28.0401
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.5
+  depth: 8.2
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 9.1

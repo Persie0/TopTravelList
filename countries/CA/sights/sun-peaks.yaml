@@ -1,0 +1,16 @@
+id: sight-ca-sun-peaks
+name: "Sun Peaks Resort Alpine Skiing and Mountain Recreation"
+location:
+  country_code: CA
+  latitude: 50.88
+  longitude: -119.89
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 9.2
+  depth: 9.0
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    family: 9.2

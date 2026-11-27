@@ -1,0 +1,16 @@
+id: sight-us-wadsworth-atheneum
+name: "Wadsworth Atheneum Museum of Art Hartford"
+location:
+  country_code: US
+  latitude: 41.764
+  longitude: -72.673
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.2
+    history: 9.1
+    architecture: 8.8

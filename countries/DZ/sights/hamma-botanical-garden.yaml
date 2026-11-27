@@ -1,0 +1,17 @@
+id: sight-dz-hamma-botanical-garden
+name: "Hamma Botanical Garden"
+location:
+  country_code: DZ
+  latitude: 36.74819
+  longitude: 3.07569
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.1
+    photography: 9.2
+    relaxation: 9.0
+    history: 8.6

@@ -3918,3 +3918,517 @@ See [60-component coverage register](camino-real-coverage.md). Existing overlapp
 - Final decision: Retain unranked; coordinate is an official heritage reference, not visitor access or navigation guidance.
 - Earlier decision: Inventory-only in component register.
 - Verification still needed: Independent factual and access verification.
+
+## sight-mx-frida-kahlo-museum-casa-azul — Frida Kahlo Museum (Casa Azul) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/frida-kahlo-museum-casa-azul.yaml)
+- Action: new
+- Precise subject: Coyoacán Casa Azul historic home and garden; distinct from the Rivera–Kahlo Home-Study Museum in San Ángel.
+- Location check: 19.35514, -99.16236; [published representative point](https://mapcarta.com/W176482295), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Kahlo and Rivera lived in this house, which became a museum in 1958; the national historic-monument catalogue identifies Casa Azul as the named property. [Reference 1](https://www.museofridakahlo.org.mx/?lang=en); [Reference 2](https://www.mexicocity.cdmx.gob.mx/venues/frida-kahlo-museum-casa-azul/?lang=en); [Reference 3](https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/10869); search excerpts inspected 2026-11-26. Sources support visitor scope, not numerical scores.
+- Missing or uncertain facts: complete independent corroboration and current gallery/object availability.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | Larger modern-art collection; Casa Azul has a singular biographical setting. |
+| [IT/accademia-gallery-florence](../../../countries/IT/sights/accademia-gallery-florence.yaml) | Both have concentrated artistic identity, but Accademia centers on original Renaissance sculpture rather than a home. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | Albertina offers broader galleries; Casa Azul has stronger personal association with one artist. |
+| [MX/rivera-kahlo-home-study](../../../countries/MX/sights/rivera-kahlo-home-study.yaml) | Separate studio complex; Casa Azul has a different domestic history and visitor setting. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Intimate domestic setting and association with Kahlo provide emotional and artistic impact. |
+| Uniqueness | 9.3 | Authentic home of an internationally renowned artist is difficult to substitute. |
+| Significance | 9.2 | Kahlo's artistic and cultural legacy is globally significant; the house has its own historical association. |
+| Experience | 8.8 | Preserved home and interpretation support a focused, meaningful visit. |
+| Depth | 7.9 | Bounded domestic-scale site has less depth than a large gallery. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:8.5.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-mx-national-museum-of-anthropology — National Museum of Anthropology (Mexico City) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/national-museum-of-anthropology.yaml)
+- Action: new
+- Precise subject: Museum institution and galleries in Chapultepec; excludes the park and castle and original archaeological sites.
+- Location check: 19.426111, -99.186111; [published representative point](https://es.wikipedia.org/wiki/Museo_Nacional_de_Antropolog%C3%ADa_%28M%C3%A9xico%29), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: INAH describes eleven archaeological and five ethnographic rooms and major Mexica monoliths; the visitor program identifies the Sun Stone and Maya objects (https://mna.inah.gob.mx/agenda_detalle_v1.php?pl=Voces_de_otro_tiempo). [Primary visitor or collection reference](https://mna.inah.gob.mx/informacion_general.php/el_museo.php); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Louvre has broader worldwide collections; Mexico has a much more concentrated Mesoamerican corpus. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | Comparable specialist ancient-civilization holdings; Mexico combines multiple living and ancient cultures. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | Met has broader arts coverage; Mexico's original Mexica monuments give it singular historical strengths. |
+| [MX/templo-mayor](../../../countries/MX/sights/templo-mayor.yaml) | Original archaeological site is narrower; museum spans numerous civilizations. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Monumental original artifacts and varied galleries produce exceptional impact. |
+| Uniqueness | 9.4 | Mexica monoliths and Mesoamerican collections are difficult to substitute. |
+| Significance | 9.5 | Original central artifacts of multiple Mesoamerican civilizations establish rare worldwide historical significance. |
+| Experience | 9.3 | Extensive archaeological and ethnographic displays reward prolonged visits. |
+| Depth | 9.4 | Many galleries span distinct cultures and periods. |
+
+- Applicable categories: culture:9.4, history:9.5, architecture:9.0.
+- Computed worldwide overall: 94.05/100.
+- High-score challenge: Above 90 based on specific collection strengths and scope in the comparisons. Significance and history 9.5: the original Sun Stone, Coatlicue and other major pre-Hispanic monoliths and comprehensive archaeology collections support rare worldwide historical importance, comparable in specialist scope to Museo Egizio; below Grand Egyptian Museum and global encyclopedic leaders overall.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-palacio-de-bellas-artes — Palacio de Bellas Artes (Museum and architecture) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/palacio-de-bellas-artes.yaml)
+- Action: new
+- Precise subject: Museum murals and accessible palace architecture; excludes separately scheduled performances and broader historic centre.
+- Location check: 19.43547, -99.14128; [published representative point](https://mapcarta.com/26259846), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: INBA describes permanent murals by major Mexican artists, temporary exhibitions and guided visits covering architecture and murals (https://inba.gob.mx/actividad/14986/visitas-guiadas-museo-del-palacio-de-bellas-artes). [Primary visitor or collection reference](https://inba.gob.mx/recinto/67/museo-del-palacio-de-bellas-artes); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Broader historical and geographical art holdings. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | Similar modern art significance but Reina Sofía has wider gallery breadth. |
+| [AT/belvedere-palace](../../../countries/AT/sights/belvedere-palace.yaml) | Comparable architecture and art integration; different royal and artistic traditions. |
+| [MX/frida-kahlo-museum-casa-azul](../../../countries/MX/sights/frida-kahlo-museum-casa-azul.yaml) | Casa Azul offers intimate biographical context rather than monumental public art. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental architecture and in-situ murals produce striking visual impact. |
+| Uniqueness | 9.1 | Mexican muralism in a purpose-built cultural palace is distinctive. |
+| Significance | 9.2 | Important original works of twentieth-century Mexican art carry international cultural significance. |
+| Experience | 8.8 | Architecture and exhibitions offer rewarding exploration without assuming a performance ticket. |
+| Depth | 8.5 | Museum visit has narrower breadth than encyclopedic galleries. |
+
+- Applicable categories: architecture:9.3, culture:9.4, history:9.1.
+- Computed worldwide overall: 89.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-museo-soumaya-plaza-carso — Museo Soumaya (Plaza Carso) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/museo-soumaya-plaza-carso.yaml)
+- Action: new
+- Precise subject: Plaza Carso venue only; excludes Plaza Loreto, other affiliated venues and nearby Jumex.
+- Location check: 19.44083, -99.20464; [published representative point](https://www.dookinternational.com/poi/museo-soumaya-plaza-carso/1409), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Mexican culture ministry identifies six exhibition floors; foundation describes Mexican and European holdings (https://fundacioncarlosslim.org/conoce-las-salas-y-exhibiciones-del-museo-soumaya-en-plaza-carso/). [Primary visitor or collection reference](https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1478); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual exhibits.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | Much greater encyclopedic and historical breadth. |
+| [CA/art-gallery-of-ontario](../../../countries/CA/sights/art-gallery-of-ontario.yaml) | Comparable cross-media collection; AGO emphasizes Canadian and Indigenous art. |
+| [AU/mona-hobart](../../../countries/AU/sights/mona-hobart.yaml) | MONA has a more experimental spatial and curatorial approach. |
+| [AT/albertina-museum](../../../countries/AT/sights/albertina-museum.yaml) | Albertina has deeper modernist anchors and historic state rooms. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Sculptural exterior and extensive displays provide strong visual impact. |
+| Uniqueness | 8.8 | Distinctive building gives identity to otherwise comparable private art collections. |
+| Significance | 8.7 | Mexican and European holdings are important but less singular than leading specialist museums. |
+| Experience | 8.9 | Varied galleries support an engaging art visit. |
+| Depth | 9.0 | Six floors offer considerable exploration. |
+
+- Applicable categories: culture:9.2, architecture:9.1, history:8.7.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ field.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-chapultepec-castle-museum — Chapultepec Castle (National Museum of History) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/chapultepec-castle-museum.yaml)
+- Action: new
+- Precise subject: Separately ticketed National Museum of History within the castle and its historic interiors; excludes Chapultepec woods and wider hill landscape. Nested within existing Chapultepec ensemble.
+- Location check: 19.421, -99.182; [published representative point](https://mapcarta.com/26259838), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: INAH identifies former vice-regal, presidential and imperial residence and national history collection (https://lugares.inah.gob.mx/es/node/4682). [Primary visitor reference](https://inah.gob.mx/museos/museo-nacional-de-historia-castillo-de-chapultepec); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [ES/royal-palace-madrid](../../../countries/ES/sights/royal-palace-madrid.yaml) | Madrid has more extensive royal ceremonial architecture. |
+| [GB/windsor-castle](../../../countries/GB/sights/windsor-castle.yaml) | Windsor has a longer royal architectural history. |
+| [AT/schoenbrunn-palace](../../../countries/AT/sights/schoenbrunn-palace.yaml) | Schönbrunn has broader palace and garden scale. |
+| [MX/chapultepec](../../../countries/MX/sights/chapultepec.yaml) | Existing parent includes wider woods and hill; museum is separately visitable. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Hilltop palace interiors and museum objects produce strong visual and historic impact. |
+| Uniqueness | 9.0 | Mexican imperial and presidential residence combined with national history exhibits is distinctive. |
+| Significance | 9.2 | Important national political and institutional history has international relevance. |
+| Experience | 8.9 | Historical rooms and collections provide meaningful exploration. |
+| Depth | 8.8 | Multiple galleries and residential rooms give depth without counting surrounding park. |
+
+- Applicable categories: architecture:9.1, history:9.4, culture:9.1, photography:8.8.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-xcaret-park — Xcaret Park — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/xcaret-park.yaml)
+- Action: new
+- Precise subject: Modern ticketed nature and culture theme park only; excludes separately ticketed Xplor, Xel-Há and hotels; no inherited ancient-site significance.
+- Location check: 20.57806, -87.11917; [published representative point](https://en.wikipedia.org/wiki/Xcaret_Park), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator lists three underground rivers, aviary, butterfly pavilion, aquarium and cultural show in basic admission (https://www.xcaret.com/en/faqs/xcaret/); no conservation or animal welfare outcome inferred. [Primary visitor reference](https://www.xcaret.com/en/xcaret-admission/); search excerpts inspected 2026-11-26. Sources support facts, not numeric judgments.
+- Missing or uncertain facts: full independent corroboration and current access to individual areas.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | Anaheim has greater theme-park historical significance, Xcaret emphasizes nature and Mexican culture. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | Both combine recreation and animal displays; Xcaret offers underground river experiences. |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | Aquaventure emphasizes water rides; Xcaret has broader cultural offerings. |
+| [ID/waterbom-bali](../../../countries/ID/sights/waterbom-bali.yaml) | Waterbom is a narrower slide-based attraction. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | River swimming, coastal scenery and cultural performances make a memorable varied visit. |
+| Uniqueness | 9.1 | Integration of underground rivers with contemporary Mexican cultural presentation is distinctive. |
+| Significance | 7.9 | Cultural interpretation has value, but the modern park is not itself an ancient heritage ensemble. |
+| Experience | 9.2 | A wide variety of included land and water activities offers a rewarding visit. |
+| Depth | 9.3 | Numerous activity zones and shows support full-day exploration. |
+
+- Applicable categories: nature:9.0, culture:9.1, family:9.2, adventure:9.1.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-xel-ha-park — Xel-Há Park — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/xel-ha-park.yaml)
+- Action: new
+- Precise subject: Ticketed natural inlet and water recreation park; excludes nearby archaeological ruins and separately ticketed parks.
+- Location check: 20.32167, -87.36118; [published representative point](https://mapcarta.com/34885948), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator describes freshwater channels flowing into the sea, snorkeling and floating activities (https://www.xelha.com/en/attractions-water-activities-xelha-park/). Commercial park; no conservation outcomes assumed. [Primary visitor reference](https://www.xelha.com/en/attractions/xelha-inlet/); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MX/xcaret-park](../../../countries/MX/sights/xcaret-park.yaml) | Xcaret provides greater cultural variety; Xel-Há concentrates on inlet recreation. |
+| [HK/ocean-park](../../../countries/HK/sights/ocean-park.yaml) | Hong Kong has broader animal displays and rides; Xel-Há emphasizes natural water recreation. |
+| [AE/aquaventure-world](../../../countries/AE/sights/aquaventure-world.yaml) | Aquaventure has more engineered rides; Xel-Há has a natural setting. |
+| [ID/waterbom-bali](../../../countries/ID/sights/waterbom-bali.yaml) | Xel-Há has stronger natural-water distinctiveness. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Clear inlet and tropical surroundings create strong natural impact. |
+| Uniqueness | 8.9 | Freshwater-seawater inlet recreation is less replaceable than a conventional waterpark. |
+| Significance | 7.9 | Natural habitat interest is substantial but independent ecological significance requires corroboration. |
+| Experience | 9.1 | Swimming, snorkeling and floating make a rewarding water-centered visit. |
+| Depth | 8.8 | Multiple routes and activities offer breadth, less cultural variety than Xcaret. |
+
+- Applicable categories: nature:9.0, adventure:8.9, relaxation:8.8, family:9.1.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-mx-xplor-park — Xplor Park — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/xplor-park.yaml)
+- Action: new
+- Precise subject: Separately ticketed adventure park and its zip-lines, subterranean swimming and amphibious vehicle routes; excludes Xcaret and Xenses.
+- Location check: 20.5928, -87.12429; [published representative point](https://mapcarta.com/W550358722), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator lists zip-line circuits, amphibious vehicles, underground river swimming and rafting. Distinct mapped footprint, not same as Xcaret. [Primary visitor reference](https://www.xplor.travel/en/xplor-admission/); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [MX/xcaret-park](../../../countries/MX/sights/xcaret-park.yaml) | Xcaret has greater cultural scope; Xplor is more adventure-focused. |
+| [CA/capilano-suspension-bridge-park](../../../countries/CA/sights/capilano-suspension-bridge-park.yaml) | Capilano offers forest walks; Xplor has broader active experiences. |
+| [AE/ferrari-world-abu-dhabi](../../../countries/AE/sights/ferrari-world-abu-dhabi.yaml) | Ferrari World provides engineered thrills; Xplor integrates natural terrain. |
+| [ID/waterbom-bali](../../../countries/ID/sights/waterbom-bali.yaml) | Xplor offers greater land and underground adventure variety. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Canopy and cave experiences produce strong visual and physical impact. |
+| Uniqueness | 8.7 | Combination of underground rivers and elevated routes distinguishes the park. |
+| Significance | 6.8 | Commercial adventure use does not by itself establish exceptional geological significance. |
+| Experience | 9.2 | Varied adventure activities offer a highly rewarding active visit. |
+| Depth | 8.8 | Multiple circuits provide extended exploration. |
+
+- Applicable categories: adventure:9.4, nature:8.6, family:8.6, photography:8.5.
+- Computed worldwide overall: 84.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-mx-bacalar-lagoon — Bacalar Lagoon (Lagoon of Seven Colours) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/bacalar-lagoon.yaml)
+- Action: new
+- Precise subject: Freshwater lagoon landscape and low-impact visitor activities; excludes Bacalar town, separately visited fort and individual cenotes.
+- Location check: 18.77789, -88.30599; [published representative point](https://mapcarta.com/Lake_Bacalar_R10271432), inspected 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Regional tourism site identifies colour variation with water depth and light, kayaking and sailing; national tourism site corroborates (https://visitmexico.com/en/destino/1999/bacalar). Access and conservation restrictions vary; avoid disturbing sensitive habitats. [Primary visitor reference](https://mexicancaribbean.travel/destinations/bacalar); source excerpts inspected 2026-11-26. Sources support visitor scope, not numerical judgments.
+- Missing or uncertain facts: independent corroboration of detailed ecological/historical claims and current access.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | Whitsundays offer wider island and marine variety; Bacalar is a freshwater landscape. |
+| [CA/lake-louise](../../../countries/CA/sights/lake-louise.yaml) | Lake Louise has dramatic alpine scenery; Bacalar offers warmer-water recreational variety. |
+| [ID/lake-toba](../../../countries/ID/sights/lake-toba.yaml) | Toba has broader volcanic geological scale; Bacalar has distinctive water colours. |
+| [MX/xel-ha-park](../../../countries/MX/sights/xel-ha-park.yaml) | Xel-Há is a bounded commercial inlet; Bacalar is a broader freshwater landscape. |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Colour gradients and clear freshwater create exceptional visual appeal. |
+| Uniqueness | 9.0 | Large multicoloured freshwater lagoon is distinctive internationally. |
+| Significance | 8.6 | Important freshwater ecology; precise global scientific claims need further corroboration. |
+| Experience | 9.0 | Low-impact paddling and scenic exploration reward visitors. |
+| Depth | 8.8 | Long lagoon shoreline offers multiple exploration areas without counting adjacent town attractions. |
+
+- Applicable categories: nature:9.2, photography:9.3, relaxation:9.2, adventure:8.6.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: full independent corroboration and current access.
+
+## sight-mx-copper-canyon-divisadero — Copper Canyon (Divisadero) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/copper-canyon-divisadero.yaml)
+- Action: new
+- Precise subject: Divisadero and nearby accessible canyon rim viewpoints and paths; excludes full Sierra Tarahumara and Chepe rail journey.
+- Location check: 27.53468, -107.82296; [representative point](https://mapcarta.com/N1662486536), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Chihuahua tourism identifies three converging ravines, station viewpoints and nearby adventure park; Visit Mexico describes guided walks and cable-car access (https://visitmexico.com/es/itinerario/254/rutas-del-aficionado-2026-los-mochis-barrancas-del-cobre-espectacular). [Visitor reference](https://www.visitachihuahua.mx/en/divisadero); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | 10.0 / 9.7 / 9.6 / 9.4 / 9.6 | World-leading canyon scale and park breadth. |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | Comparable panoramas; broader trail network. |
+| [MX/sumidero-canyon](../../../countries/MX/sights/sumidero-canyon.yaml) | 9.0 / 8.7 / 8.4 / 8.8 / 8.3 | River experience rather than broad rim panorama. |
+| [CA/johnston-canyon](../../../countries/CA/sights/johnston-canyon.yaml) | 8.6 / 8.3 / 7.5 / 8.9 / 8.0 | Smaller and more bounded gorge walk. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Immense canyon panoramas |
+| Uniqueness | 9.1 | distinctive converging ravines |
+| Significance | 8.9 | important regional natural and cultural landscape without claiming world records |
+| Experience | 9.0 | viewpoints and permitted activities offer meaningful access |
+| Depth | 9.1 | multiple rim viewpoints give considerable depth. |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:9.3.
+- Computed worldwide overall: 91.35/100.
+- High-score challenge: Above 90 due to documented specific scope and distinct strengths; below broader world-leading peers as compared above. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-hierve-el-agua — Hierve el Agua (Petrified Waterfalls) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/hierve-el-agua.yaml)
+- Action: new
+- Precise subject: Mineral formations, spring-fed pools and accessible cliff viewpoints; swimming access not guaranteed.
+- Location check: 16.865519, -96.276004; [representative point](https://en.wikipedia.org/wiki/Hierve_el_Agua), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Oaxaca tourism describes two mineral formations resembling waterfalls, natural pools and archaeological interest. Coordinates identify the feature. [Visitor reference](https://www.oaxaca.travel/index.php/en-us/all-destinations/hierve-el-agua-en); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/hierapolis-pamukkale](../../../countries/TR/sights/hierapolis-pamukkale.yaml) | 9.4 / 9.3 / 9.1 / 8.9 / 8.9 | More extensive mineral terraces and ancient ruins. |
+| [MX/las-pozas-xilitla](../../../countries/MX/sights/las-pozas-xilitla.yaml) | 8.8 / 9.0 / 8.4 / 8.7 / 8.0 | Designed architecture rather than natural mineral formations. |
+| [SI/rakov-skocjan](../../../countries/SI/sights/rakov-skocjan.yaml) | 8.9 / 9.0 / 8.6 / 8.7 / 8.4 | Different karst processes and valley walks. |
+| [ID/jomblang-cave](../../../countries/ID/sights/jomblang-cave.yaml) | 8.9 / 9.2 / 8.0 / 9.0 / 7.9 | Comparable focused geological spectacle. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Striking cliffside travertine formations |
+| Uniqueness | 9.3 | unusual frozen-waterfall appearance |
+| Significance | 8.7 | archaeological and geological interest narrower than major heritage ensembles |
+| Experience | 8.8 | viewpoints and pools offer rewarding permitted visits |
+| Depth | 8.2 | bounded terrain limits depth. |
+
+- Applicable categories: nature:9.2, photography:9.4, history:8.5.
+- Computed worldwide overall: 89.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-cenote-dos-ojos — Cenote Dos Ojos — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/cenote-dos-ojos.yaml)
+- Action: new
+- Precise subject: Two named Dos Ojos openings and authorized visitor routes; excludes Jaguar, Nicte Ha and wider connected cave system.
+- Location check: 20.32473, -87.39061; [representative point](https://mapcarta.com/N732995989), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Regional tourism identifies Dos Ojos north of Tulum; excursion provider describes guided snorkeling and qualified-diver cavern routes (https://cenotedosojos.mx/es/). [Visitor reference](https://mexicancaribbean.travel/destinations/tulum); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [VN/tu-lan-cave-system](../../../countries/VN/sights/tu-lan-cave-system.yaml) | 9.2 / 9.4 / 8.7 / 9.1 / 9.2 | Larger documented multi-cave trekking scope. |
+| [SI/postojna-cave](../../../countries/SI/sights/postojna-cave.yaml) | 9.4 / 9.3 / 9.1 / 9.3 / 9.0 | Greater underground gallery scale. |
+| [ID/rangko-cave](../../../countries/ID/sights/rangko-cave.yaml) | 8.6 / 8.8 / 7.0 / 8.8 / 7.5 | Comparable clear-water cavern. |
+| [MX/xel-ha-park](../../../countries/MX/sights/xel-ha-park.yaml) | 8.8 / 8.9 / 7.9 / 9.1 / 8.8 | Broader recreation rather than focused karst experience. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Clear water and limestone chambers create striking scenery |
+| Uniqueness | 9.1 | twin openings and underwater formations distinguish it |
+| Significance | 8.3 | significant karst interest but not scored as entire cave system |
+| Experience | 9.0 | guided permitted snorkeling provides rewarding experience |
+| Depth | 8.5 | two openings and bounded routes provide depth. |
+
+- Applicable categories: nature:9.1, adventure:9.2, photography:9.0.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-gran-cenote — Gran Cenote (Tulum) — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/gran-cenote.yaml)
+- Action: new
+- Precise subject: Single named cenote and permitted surface/cavern visitor areas; excludes other entrances to wider cave system.
+- Location check: 20.24656, -87.46411; [representative point](https://mapcarta.com/N976101133), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Regional tourism lists Gran Cenote near Tulum; dive-site guide describes clear cavern water and natural light (https://diveoneclub.com/en/dive-sites/gran-cenote-tulum). [Visitor reference](https://mexicancaribbean.travel/destinations/tulum); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [SI/postojna-cave](../../../countries/SI/sights/postojna-cave.yaml) | 9.4 / 9.3 / 9.1 / 9.3 / 9.0 | Larger visitor route and geological interpretation. |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | 8.9 / 9.4 / 8.1 / 9.0 / 7.6 | Distinctive biological phenomenon. |
+| [ID/rangko-cave](../../../countries/ID/sights/rangko-cave.yaml) | 8.6 / 8.8 / 7.0 / 8.8 / 7.5 | Comparable focused clear-water cavern. |
+| [MX/cenote-dos-ojos](../../../countries/MX/sights/cenote-dos-ojos.yaml) | 8.9 / 9.1 / 8.3 / 9.0 / 8.5 | More varied openings and authorized routes. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Clear pools and cavern light create memorable impact |
+| Uniqueness | 8.7 | attractive karst opening with regional analogues |
+| Significance | 8.0 | geological interest assessed for this entrance only |
+| Experience | 8.9 | permitted water-based visits offer strong experience |
+| Depth | 7.8 | bounded visitor area limits exploration. |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.7.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+## sight-mx-cenote-ik-kil — Cenote Ik Kil — 2026-11-26
+
+- YAML: [source](../../../countries/MX/sights/cenote-ik-kil.yaml)
+- Action: new
+- Precise subject: Single sinkhole and permitted swimming/viewing areas; distinct from Chichén Itzá's Sacred Cenote and archaeological zone.
+- Location check: 20.66106, -88.55051; [representative point](https://mapcarta.com/39771308), checked 2026-11-26; not an entrance guarantee.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: Operator documents swimming, lifejacket requirements and hanging roots; map locates it separately from Sacred Cenote. Religious history claims need corroboration. [Visitor reference](https://cenoteikkil.com/cenote/); accessed 2026-11-26. Sources support scope and facts, not scores.
+- Missing or uncertain facts: current access and complete independent corroboration; cave activities subject to restrictions and qualifications.
+
+#### Worldwide peer comparisons
+
+| Peer | Ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ID/jomblang-cave](../../../countries/ID/sights/jomblang-cave.yaml) | 8.9 / 9.2 / 8.0 / 9.0 / 7.9 | Different descent and cave light experience. |
+| [NZ/waitomo-glowworm-caves](../../../countries/NZ/sights/waitomo-glowworm-caves.yaml) | 8.9 / 9.4 / 8.1 / 9.0 / 7.6 | Stronger biological distinctiveness. |
+| [MX/gran-cenote](../../../countries/MX/sights/gran-cenote.yaml) | 8.7 / 8.7 / 8.0 / 8.9 / 7.8 | More varied cavern and pool spaces. |
+| [MX/cenote-dos-ojos](../../../countries/MX/sights/cenote-dos-ojos.yaml) | 8.9 / 9.1 / 8.3 / 9.0 / 8.5 | Deeper authorized exploration. |
+
+Peer values from country ranking tables or same-batch assessments; complete source YAML cross-check pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Circular open sinkhole and hanging vegetation produce dramatic impact |
+| Uniqueness | 8.9 | distinctive composition but related cenotes exist |
+| Significance | 8.0 | geological significance without inherited Chichén Itzá history |
+| Experience | 8.7 | permitted swimming and viewing reward short visits |
+| Depth | 7.3 | one principal pool limits depth. |
+
+- Applicable categories: nature:9.0, photography:9.3, relaxation:8.7.
+- Computed worldwide overall: 85.30/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

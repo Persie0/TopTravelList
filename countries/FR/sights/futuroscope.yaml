@@ -1,0 +1,15 @@
+id: sight-fr-futuroscope
+name: "Futuroscope Chasseneuil-du-Poitou Immersive Science and Technology Theme Park"
+location:
+  country_code: FR
+  latitude: 46.67
+  longitude: 0.366
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.5
+  experience: 9.4
+  depth: 9.2
+  categories:
+    family: 9.4
+    adventure: 9.3

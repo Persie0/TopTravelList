@@ -1,0 +1,17 @@
+id: sight-gr-monemvasia-castle-town
+name: "Monemvasia Medieval Castle Town"
+location:
+  country_code: GR
+  latitude: 36.68733
+  longitude: 23.05544
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.4
+    culture: 9.1

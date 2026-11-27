@@ -1,0 +1,17 @@
+id: sight-ae-global-village-dubai
+name: "Global Village (Dubai)"
+location:
+  country_code: AE
+  latitude: 25.06814
+  longitude: 55.30645
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 7.1
+  experience: 9.0
+  depth: 9.0
+  categories:
+    family: 9.0
+    culture: 8.3
+    food: 8.7
+    nightlife: 8.7

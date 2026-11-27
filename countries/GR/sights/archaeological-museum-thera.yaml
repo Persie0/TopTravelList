@@ -1,0 +1,16 @@
+id: sight-gr-archaeological-museum-thera
+name: "Archaeological Museum of Thera Santorini"
+location:
+  country_code: GR
+  latitude: 36.42011
+  longitude: 25.43104
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 8.5

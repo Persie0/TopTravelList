@@ -1,0 +1,16 @@
+id: sight-us-monterey-whales
+name: "Monterey Bay Marine Sanctuary Offshore Whale Watching"
+location:
+  country_code: US
+  latitude: 36.607
+  longitude: -121.89
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.1
+  depth: 9.1
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.3

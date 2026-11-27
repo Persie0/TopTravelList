@@ -1,0 +1,16 @@
+id: sight-us-bryant-park-nypl
+name: "New York Public Library Stephen A. Schwarzman Building and Bryant Park"
+location:
+  country_code: US
+  latitude: 40.7532
+  longitude: -73.9822
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    culture: 9.2
+    history: 9.2

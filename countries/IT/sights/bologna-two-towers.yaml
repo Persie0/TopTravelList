@@ -1,0 +1,16 @@
+id: sight-it-bologna-two-towers
+name: "Two Towers of Bologna (Asinelli and Garisenda)"
+location:
+  country_code: IT
+  latitude: 44.4925
+  longitude: 11.346667
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.6
+  depth: 8.0
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.1

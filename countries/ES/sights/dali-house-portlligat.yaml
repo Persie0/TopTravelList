@@ -1,0 +1,17 @@
+id: sight-es-dali-house-portlligat
+name: "Salvador Dalí House Museum Portlligat"
+location:
+  country_code: ES
+  latitude: 42.293216
+  longitude: 3.28606
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 8.7
+  depth: 8.4
+  categories:
+    culture: 9.3
+    architecture: 9.1
+    history: 9.0
+    photography: 9.0

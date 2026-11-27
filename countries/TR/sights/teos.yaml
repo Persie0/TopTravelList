@@ -1,0 +1,16 @@
+id: sight-tr-teos
+name: "Teos Archaeological Site"
+location:
+  country_code: TR
+  latitude: 38.17974
+  longitude: 26.78307
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.0

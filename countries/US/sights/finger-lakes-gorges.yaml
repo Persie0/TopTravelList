@@ -1,0 +1,16 @@
+id: sight-us-finger-lakes-gorges
+name: "Finger Lakes Watkins Glen and Regional Gorge Trails"
+location:
+  country_code: US
+  latitude: 42.372
+  longitude: -76.873
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.2

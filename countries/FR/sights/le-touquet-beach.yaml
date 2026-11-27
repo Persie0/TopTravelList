@@ -1,0 +1,16 @@
+id: sight-fr-le-touquet-beach
+name: "Le Touquet Paris-Plage Beach Dunes and Forest Walks"
+location:
+  country_code: FR
+  latitude: 50.521
+  longitude: 1.579
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 9.0
+  depth: 8.7
+  categories:
+    beaches: 9.3
+    relaxation: 9.4
+    nature: 9.2

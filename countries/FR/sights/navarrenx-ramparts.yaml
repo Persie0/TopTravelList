@@ -1,0 +1,16 @@
+id: sight-fr-navarrenx-ramparts
+name: "Navarrenx Fortified Town and Ramparts"
+location:
+  country_code: FR
+  latitude: 43.322
+  longitude: -0.762
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.0

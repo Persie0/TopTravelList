@@ -1,0 +1,17 @@
+id: sight-dz-ahmed-bey-palace
+name: "Ahmed Bey Palace"
+location:
+  country_code: DZ
+  latitude: 36.3678
+  longitude: 6.6116
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.6
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    history: 9.0
+    culture: 9.0
+    photography: 9.0

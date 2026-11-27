@@ -1,0 +1,16 @@
+id: sight-bo-illimani-expedition
+name: "Illimani Mountain Guided High-altitude Expedition"
+location:
+  country_code: BO
+  latitude: -16.65
+  longitude: -67.79
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.4
+  depth: 9.0
+  categories:
+    adventure: 9.4
+    nature: 9.3
+    photography: 9.4

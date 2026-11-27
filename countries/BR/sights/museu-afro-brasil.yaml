@@ -1,0 +1,16 @@
+id: sight-br-museu-afro-brasil
+name: "Museu Afro Brasil Emanoel Araujo São Paulo"
+location:
+  country_code: BR
+  latitude: -23.584
+  longitude: -46.66
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.1

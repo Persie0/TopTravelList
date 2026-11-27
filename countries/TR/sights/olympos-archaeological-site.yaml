@@ -1,0 +1,17 @@
+id: sight-tr-olympos-archaeological-site
+name: "Olympos Archaeological Site Antalya"
+location:
+  country_code: TR
+  latitude: 36.393567
+  longitude: 30.470335
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.2
+    architecture: 9.0
+    nature: 9.0
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-eg-al-azhar-park
+name: "Al-Azhar Park"
+location:
+  country_code: EG
+  latitude: 30.04012
+  longitude: 31.26481
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.7
+  experience: 8.7
+  depth: 8.3
+  categories:
+    photography: 9.0
+    relaxation: 9.0
+    family: 8.8

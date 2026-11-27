@@ -1,0 +1,16 @@
+id: sight-ca-gulf-islands
+name: "Gulf Islands National Park Reserve Salish Sea Islands"
+location:
+  country_code: CA
+  latitude: 48.66552
+  longitude: -123.407929
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    adventure: 9.2

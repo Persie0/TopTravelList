@@ -1,0 +1,16 @@
+id: sight-us-jewel-cave-national-monument
+name: "Jewel Cave National Monument"
+location:
+  country_code: US
+  latitude: 43.731029
+  longitude: -103.829994
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 8.9
+    adventure: 8.5
+    photography: 8.6

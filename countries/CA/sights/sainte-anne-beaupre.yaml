@@ -1,0 +1,16 @@
+id: sight-ca-sainte-anne-beaupre
+name: "Basilica of Sainte-Anne-de-Beaupré"
+location:
+  country_code: CA
+  latitude: 47.023
+  longitude: -70.928
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    culture: 9.3
+    history: 9.2

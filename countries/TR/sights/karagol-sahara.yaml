@@ -1,0 +1,17 @@
+id: sight-tr-karagol-sahara
+name: "Şavşat Karagöl-Sahara National Park"
+location:
+  country_code: TR
+  latitude: 41.24048
+  longitude: 42.42858
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.0
+    relaxation: 8.9

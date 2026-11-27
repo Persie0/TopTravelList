@@ -1,0 +1,16 @@
+id: sight-ca-pukaskwa
+name: "Pukaskwa National Park Lake Superior Coastal Wilderness"
+location:
+  country_code: CA
+  latitude: 48.26
+  longitude: -85.89
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.3

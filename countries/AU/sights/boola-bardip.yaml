@@ -1,0 +1,16 @@
+id: sight-au-boola-bardip
+name: "WA Museum Boola Bardip Perth"
+location:
+  country_code: AU
+  latitude: -31.95
+  longitude: 115.861
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.3
+    history: 9.3
+    nature: 9.2

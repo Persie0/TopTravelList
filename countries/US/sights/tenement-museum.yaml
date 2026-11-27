@@ -1,0 +1,16 @@
+id: sight-us-tenement-museum
+name: "Lower East Side Tenement Museum New York"
+location:
+  country_code: US
+  latitude: 40.718
+  longitude: -73.99
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    architecture: 8.9

@@ -1,0 +1,16 @@
+id: sight-ca-pei-national-park
+name: "Prince Edward Island National Park Coastal Dunes and Beaches"
+location:
+  country_code: CA
+  latitude: 46.44
+  longitude: -63.07
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.3
+    beaches: 9.3
+    photography: 9.3

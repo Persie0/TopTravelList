@@ -1,0 +1,17 @@
+id: sight-es-drach-caves
+name: "Caves of Drach"
+location:
+  country_code: ES
+  latitude: 39.5355
+  longitude: 3.3303
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.2
+    family: 8.9
+    adventure: 8.8

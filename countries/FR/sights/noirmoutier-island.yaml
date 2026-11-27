@@ -1,0 +1,18 @@
+id: sight-fr-noirmoutier-island
+name: "Noirmoutier Island Coastal Walks and Passage du Gois"
+location:
+  country_code: FR
+  latitude: 47.009
+  longitude: -2.2216
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    photography: 9.3
+    beaches: 9.1
+    relaxation: 9.2
+    adventure: 8.9

@@ -1,0 +1,16 @@
+id: sight-us-fort-ticonderoga
+name: "Fort Ticonderoga Historic Fort and Museum"
+location:
+  country_code: US
+  latitude: 43.842
+  longitude: -73.388
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.2
+    architecture: 9.0
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-us-mount-hood
+name: "Mount Hood Alpine Landscape and Timberline Trails"
+location:
+  country_code: US
+  latitude: 45.37
+  longitude: -121.7
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.3

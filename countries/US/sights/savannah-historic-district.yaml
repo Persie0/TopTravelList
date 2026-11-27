@@ -1,0 +1,18 @@
+id: sight-us-savannah-historic-district
+name: "Savannah Historic District"
+location:
+  country_code: US
+  latitude: 32.0799299
+  longitude: -81.0915009
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.3
+    culture: 8.9
+    photography: 9.1
+    relaxation: 8.8

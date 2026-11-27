@@ -1,0 +1,17 @@
+id: sight-it-isola-bella-palace
+name: "Isola Bella Borromeo Palace and Gardens"
+location:
+  country_code: IT
+  latitude: 45.895326
+  longitude: 8.527166
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    photography: 9.4
+    culture: 9.0
+    nature: 8.9

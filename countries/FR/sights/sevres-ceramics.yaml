@@ -1,0 +1,15 @@
+id: sight-fr-sevres-ceramics
+name: "Musée National de Céramique and Manufacture de Sèvres Collections"
+location:
+  country_code: FR
+  latitude: 48.828
+  longitude: 2.222
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.4

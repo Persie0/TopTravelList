@@ -1,0 +1,16 @@
+id: sight-us-badlands-national-park
+name: "Badlands National Park"
+location:
+  country_code: US
+  latitude: 43.68585
+  longitude: -102.48294
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 8.9
+    photography: 9.0
+    adventure: 8.4

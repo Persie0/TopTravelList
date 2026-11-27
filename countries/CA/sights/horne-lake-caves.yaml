@@ -1,0 +1,16 @@
+id: sight-ca-horne-lake-caves
+name: "Horne Lake Caves Provincial Park Guided Cave Exploration"
+location:
+  country_code: CA
+  latitude: 49.34
+  longitude: -124.75
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.6
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    photography: 9.1

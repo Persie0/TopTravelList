@@ -1,0 +1,16 @@
+id: sight-tr-yoros-fortress
+name: "Yoros Fortress and Bosphorus Viewpoint"
+location:
+  country_code: TR
+  latitude: 41.180392
+  longitude: 29.096358
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.5
+  depth: 8.0
+  categories:
+    photography: 9.2
+    history: 9.1
+    architecture: 8.8

@@ -1,0 +1,16 @@
+id: sight-ma-saadian-tombs
+name: "Saadian Tombs"
+location:
+  country_code: MA
+  latitude: 31.6173
+  longitude: -7.9887
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.3
+  depth: 8.0
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-py-paso-bravo-national-park
+name: "Paso Bravo National Park Cerrado Landscapes and Authorized Nature Trails"
+location:
+  country_code: PY
+  latitude: -22.18
+  longitude: -57.12
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.4
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 8.9

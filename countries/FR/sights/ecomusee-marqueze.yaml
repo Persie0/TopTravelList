@@ -1,0 +1,17 @@
+id: sight-fr-ecomusee-marqueze
+name: "Écomusée de Marquèze Historic Landes Village and Railway"
+location:
+  country_code: FR
+  latitude: 44.151
+  longitude: -0.791
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.2
+    family: 9.3
+    relaxation: 9.0

@@ -1,0 +1,16 @@
+id: sight-za-national-museum-bloemfontein
+name: "National Museum Bloemfontein Natural History and Cultural Collections"
+location:
+  country_code: ZA
+  latitude: -29.118
+  longitude: 26.219
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.3
+    nature: 9.2
+    family: 9.1

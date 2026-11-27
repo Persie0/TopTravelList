@@ -1,0 +1,16 @@
+id: sight-fr-citeaux-abbey
+name: "Abbaye de Cîteaux Cistercian Monastic Heritage"
+location:
+  country_code: FR
+  latitude: 47.127
+  longitude: 5.094
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.4
+    architecture: 9.1
+    culture: 9.2

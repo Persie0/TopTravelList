@@ -1,0 +1,16 @@
+id: sight-us-juneau-whales
+name: "Juneau Offshore Humpback Whale Watching"
+location:
+  country_code: US
+  latitude: 58.39
+  longitude: -134.75
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.1
+  depth: 8.9
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    photography: 9.3

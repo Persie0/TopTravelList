@@ -1,0 +1,16 @@
+id: sight-pt-oceanario-de-lisboa
+name: "Oceanário de Lisboa"
+location:
+  country_code: PT
+  latitude: 38.76352
+  longitude: -9.09372
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.0
+    family: 9.1
+    nature: 8.9

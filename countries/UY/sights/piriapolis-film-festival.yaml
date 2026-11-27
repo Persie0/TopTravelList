@@ -1,0 +1,16 @@
+id: sight-uy-piriapolis-film-festival
+name: "Piriápolis de Película International Independent Film Festival"
+location:
+  country_code: UY
+  latitude: -34.87
+  longitude: -55.28
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.9
+  depth: 8.7
+  categories:
+    culture: 9.2
+    nightlife: 8.8
+    history: 8.8

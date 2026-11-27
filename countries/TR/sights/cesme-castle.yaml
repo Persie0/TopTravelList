@@ -1,0 +1,16 @@
+id: sight-tr-cesme-castle
+name: "Çeşme Castle and Archaeology Museum"
+location:
+  country_code: TR
+  latitude: 38.3235
+  longitude: 26.303469
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.2

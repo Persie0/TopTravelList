@@ -1,0 +1,16 @@
+id: sight-us-pinnacles
+name: "Pinnacles National Park"
+location:
+  country_code: US
+  latitude: 36.49
+  longitude: -121.18
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    wildlife: 9.2

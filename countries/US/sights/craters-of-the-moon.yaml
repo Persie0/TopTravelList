@@ -1,0 +1,16 @@
+id: sight-us-craters-of-the-moon
+name: "Craters of the Moon National Monument and Preserve"
+location:
+  country_code: US
+  latitude: 43.416
+  longitude: -113.516
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.3

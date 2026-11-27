@@ -1,0 +1,17 @@
+id: sight-fr-courant-huchet
+name: "Courant d’Huchet Nature Reserve and Traditional Boat Tours"
+location:
+  country_code: FR
+  latitude: 43.886789
+  longitude: -1.319252
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    photography: 9.3
+    relaxation: 9.2

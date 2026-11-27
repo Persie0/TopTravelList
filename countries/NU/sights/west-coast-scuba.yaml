@@ -1,0 +1,16 @@
+id: sight-nu-west-coast-scuba
+name: "Niue Western Coast Offshore Reef and Cavern Scuba Diving"
+location:
+  country_code: NU
+  latitude: -19.06
+  longitude: -169.94
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.2
+  depth: 9.1
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    wildlife: 9.3

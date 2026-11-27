@@ -1,0 +1,17 @@
+id: sight-pt-serra-sao-mamede
+name: "Serra de São Mamede Natural Park"
+location:
+  country_code: PT
+  latitude: 39.3135
+  longitude: -7.36055
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.1
+    adventure: 8.9
+    wildlife: 8.8
+    photography: 9.0

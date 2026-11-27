@@ -1,0 +1,16 @@
+id: sight-us-crater-lake-national-park
+name: "Crater Lake National Park"
+location:
+  country_code: US
+  latitude: 42.93
+  longitude: -122.12
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.4
+  categories:
+    nature: 9.2
+    photography: 9.3
+    adventure: 8.3

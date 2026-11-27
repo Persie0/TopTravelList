@@ -1,0 +1,16 @@
+id: sight-ca-montreal-museum-of-fine-arts
+name: "Montreal Museum of Fine Arts"
+location:
+  country_code: CA
+  latitude: 45.498508
+  longitude: -73.579552
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.1
+    architecture: 8.8

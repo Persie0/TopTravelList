@@ -1,0 +1,16 @@
+id: sight-fr-trophee-auguste
+name: "Trophée d’Auguste La Turbie Roman Monument"
+location:
+  country_code: FR
+  latitude: 43.744
+  longitude: 7.401
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.7
+  depth: 8.4
+  categories:
+    history: 9.4
+    architecture: 9.4
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-za-durban-botanic-gardens
+name: "Durban Botanic Gardens Historic Subtropical Plant Collections"
+location:
+  country_code: ZA
+  latitude: -29.847
+  longitude: 31.006
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.3
+    relaxation: 9.1
+    history: 9.0

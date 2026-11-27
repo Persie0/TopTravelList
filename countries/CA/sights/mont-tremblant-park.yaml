@@ -1,0 +1,16 @@
+id: sight-ca-mont-tremblant-park
+name: "Parc national du Mont-Tremblant Laurentian Lakes and Forest"
+location:
+  country_code: CA
+  latitude: 46.34
+  longitude: -74.49
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.2

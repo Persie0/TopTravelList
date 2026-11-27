@@ -1,0 +1,16 @@
+id: sight-nz-pukaha
+name: "Pūkaha National Wildlife Centre Mount Bruce"
+location:
+  country_code: NZ
+  latitude: -40.719
+  longitude: 175.643
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.9
+  depth: 8.8
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    family: 9.2

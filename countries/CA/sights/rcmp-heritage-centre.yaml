@@ -1,0 +1,16 @@
+id: sight-ca-rcmp-heritage-centre
+name: "RCMP Heritage Centre Regina"
+location:
+  country_code: CA
+  latitude: 50.45
+  longitude: -104.67
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.1

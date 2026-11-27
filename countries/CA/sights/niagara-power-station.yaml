@@ -1,0 +1,16 @@
+id: sight-ca-niagara-power-station
+name: "Niagara Parks Power Station Industrial Heritage and Tunnel"
+location:
+  country_code: CA
+  latitude: 43.077
+  longitude: -79.077
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.1
+  depth: 9.0
+  categories:
+    history: 9.4
+    architecture: 9.3
+    adventure: 9.2

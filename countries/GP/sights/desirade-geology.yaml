@@ -1,0 +1,16 @@
+id: sight-gp-desirade-geology
+name: "La Désirade Geological Nature Reserve and Coastal Trails"
+location:
+  country_code: GP
+  latitude: 16.334
+  longitude: -61.007
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.2

@@ -1,0 +1,16 @@
+id: sight-it-capitoline-museums
+name: "Capitoline Museums Rome"
+location:
+  country_code: IT
+  latitude: 41.89302
+  longitude: 12.48259
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 9.2

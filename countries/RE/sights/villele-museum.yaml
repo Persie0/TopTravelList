@@ -1,0 +1,15 @@
+id: sight-re-villele-museum
+name: "Musée de Villèle Plantation History Museum"
+location:
+  country_code: RE
+  latitude: -21.055
+  longitude: 55.265
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.3

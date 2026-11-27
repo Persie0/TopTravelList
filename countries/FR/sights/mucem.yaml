@@ -1,0 +1,17 @@
+id: sight-fr-mucem
+name: "Mucem Marseille Mediterranean Civilizations Museum and Fort Saint-Jean"
+location:
+  country_code: FR
+  latitude: 43.296
+  longitude: 5.361
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    architecture: 9.4
+    history: 9.3
+    photography: 9.3

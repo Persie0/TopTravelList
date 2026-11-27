@@ -1,0 +1,16 @@
+id: sight-us-lower-antelope-canyon
+name: "Lower Antelope Canyon"
+location:
+  country_code: US
+  latitude: 36.9037
+  longitude: -111.4138
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.2
+  experience: 8.6
+  depth: 8.0
+  categories:
+    nature: 9.1
+    photography: 9.3
+    adventure: 8.4

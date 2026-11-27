@@ -1,0 +1,16 @@
+id: sight-nz-alps-to-ocean
+name: "Alps 2 Ocean End-to-End Cycle Trail"
+location:
+  country_code: NZ
+  latitude: -44.3
+  longitude: 170.1
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.2
+  depth: 9.4
+  categories:
+    adventure: 9.4
+    nature: 9.4
+    photography: 9.4

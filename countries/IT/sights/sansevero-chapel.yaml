@@ -1,0 +1,16 @@
+id: sight-it-sansevero-chapel
+name: "Sansevero Chapel Museum"
+location:
+  country_code: IT
+  latitude: 40.8493
+  longitude: 14.2549
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.0
+  experience: 8.7
+  depth: 8.0
+  categories:
+    culture: 9.4
+    architecture: 9.1
+    history: 9.0

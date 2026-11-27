@@ -1,0 +1,16 @@
+id: sight-us-manzanar
+name: "Manzanar National Historic Site"
+location:
+  country_code: US
+  latitude: 36.728
+  longitude: -118.147
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.3
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2
+    photography: 8.7

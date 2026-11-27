@@ -1,0 +1,16 @@
+id: sight-us-philbrook
+name: "Philbrook Museum of Art Tulsa"
+location:
+  country_code: US
+  latitude: 36.125
+  longitude: -95.976
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.9
+  depth: 8.9
+  categories:
+    culture: 9.2
+    architecture: 9.1
+    photography: 9.1

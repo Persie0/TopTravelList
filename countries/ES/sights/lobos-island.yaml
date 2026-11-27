@@ -1,0 +1,17 @@
+id: sight-es-lobos-island
+name: "Lobos Island Natural Park"
+location:
+  country_code: ES
+  latitude: 28.75022
+  longitude: -13.82052
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.2
+    beaches: 9.1
+    photography: 9.2
+    adventure: 8.7

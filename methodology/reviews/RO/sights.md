@@ -2156,3 +2156,38 @@ Impact, Uniqueness, Significance, Experience, Depth (worldwide v2 core fields).
 - Verification still needed: independent facts, permitted access, GPS and narrower same-type peer comparisons.
 
 - [Dated worldwide reassessment pass 61 — 2026-11-26](worldwide-deferred-pass61-2026-11-26.md)
+
+
+## sight-ro-peles-castle — Peleș Castle — 2026-11-26
+
+- YAML: [source](../../../countries/RO/sights/peles-castle.yaml)
+- Action: new
+- Precise subject and factual basis: Neo-Renaissance royal residence and museum, excluding Pelișor and wider Sinaia estate. Coordinates published in castle article. [Visitor information](https://peles.ro/en/despre/istoricul-castelului-peles/); source excerpts inspected 2026-11-26.
+- Location check: 45.35984, 25.54265; [published reference](https://en.wikipedia.org/wiki/Pele%C8%99_Castle); coordinate value checked in published source, representative point rather than guaranteed entrance.
+- Evidence status: **source-linked-unverified**; source and map references inspected; independent claim-level corroboration pending.
+
+#### Worldwide peer comparisons
+
+| Peer | Relative comparison |
+| --- | --- |
+| [RO/sinaia-royal-residences](../../../countries/RO/sights/sinaia-royal-residences.yaml) | Parent estate broader |
+| [RO/corvin-castle](../../../countries/RO/sights/corvin-castle.yaml) | More medieval defensive character |
+| [RO/bran-castle](../../../countries/RO/sights/bran-castle.yaml) | Smaller and different heritage scope |
+| [GB/hampton-court](../../../countries/GB/sights/hampton-court.yaml) | Greater long-duration royal estate history |
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Exceptional ornate royal interiors |
+| Uniqueness | 8.9 | Distinctive architectural combination with peers |
+| Significance | 9.0 | Modern Romanian royal history |
+| Experience | 8.9 | Rich museum visit |
+| Depth | 9.0 | Numerous decorated rooms and collections |
+
+- Applicable categories: architecture:9.3, history:9.1, culture:9.0, photography:9.1.
+- Computed worldwide overall: 90.20/100.
+- High-score challenge: 90+ justified provisionally by combined collection, architectural or historical merits and comparative breadth. No 9.5+ field or category.
+- Approved 10 registry: none.
+- Final decision: provisional V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

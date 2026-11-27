@@ -1,0 +1,16 @@
+id: sight-us-florissant-fossil-beds
+name: "Florissant Fossil Beds National Monument"
+location:
+  country_code: US
+  latitude: 38.912
+  longitude: -105.28
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.3
+    history: 9.2
+    family: 9.1

@@ -1,0 +1,16 @@
+id: sight-tr-priene
+name: "Priene Archaeological Site"
+location:
+  country_code: TR
+  latitude: 37.65879
+  longitude: 27.29759
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.3
+    architecture: 9.3
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-national-air-and-space-museum-dc
+name: "National Air and Space Museum (Washington, DC)"
+location:
+  country_code: US
+  latitude: 38.88817
+  longitude: -77.0197
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.1
+  categories:
+    history: 9.4
+    culture: 9.1
+    family: 9.1

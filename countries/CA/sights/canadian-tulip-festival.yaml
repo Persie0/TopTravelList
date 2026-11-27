@@ -1,0 +1,16 @@
+id: sight-ca-canadian-tulip-festival
+name: "Canadian Tulip Festival Ottawa"
+location:
+  country_code: CA
+  latitude: 45.394
+  longitude: -75.704
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.5
+  categories:
+    photography: 9.3
+    culture: 9.1
+    nature: 9.1

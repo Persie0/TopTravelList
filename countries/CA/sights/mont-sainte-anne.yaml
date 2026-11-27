@@ -1,0 +1,16 @@
+id: sight-ca-mont-sainte-anne
+name: "Mont-Sainte-Anne Resort Alpine Skiing and Mountain Biking"
+location:
+  country_code: CA
+  latitude: 47.07
+  longitude: -70.91
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.3
+  experience: 9.1
+  depth: 8.8
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    photography: 9.2

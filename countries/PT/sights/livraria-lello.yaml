@@ -1,0 +1,16 @@
+id: sight-pt-livraria-lello
+name: "Livraria Lello Porto"
+location:
+  country_code: PT
+  latitude: 41.14723
+  longitude: -8.61466
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.2
+  depth: 7.6
+  categories:
+    architecture: 9.2
+    culture: 8.9
+    photography: 9.1

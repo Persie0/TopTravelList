@@ -1,0 +1,16 @@
+id: sight-za-ditsong-natural-history
+name: "Ditsong National Museum of Natural History Pretoria"
+location:
+  country_code: ZA
+  latitude: -25.751
+  longitude: 28.188
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.5
+  depth: 8.9
+  categories:
+    nature: 9.3
+    history: 9.2
+    family: 9.1

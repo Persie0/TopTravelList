@@ -1,0 +1,16 @@
+id: sight-tr-didyma
+name: "Temple of Apollo at Didyma"
+location:
+  country_code: TR
+  latitude: 37.38512
+  longitude: 27.25681
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 8.3
+  categories:
+    architecture: 9.4
+    history: 9.4
+    photography: 9.2

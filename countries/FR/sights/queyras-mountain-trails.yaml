@@ -1,0 +1,16 @@
+id: sight-fr-queyras-mountain-trails
+name: "Queyras Regional Natural Park Alpine Trails"
+location:
+  country_code: FR
+  latitude: 44.75
+  longitude: 6.83
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.4

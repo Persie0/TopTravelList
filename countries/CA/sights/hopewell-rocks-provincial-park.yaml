@@ -1,0 +1,16 @@
+id: sight-ca-hopewell-rocks-provincial-park
+name: "Hopewell Rocks Provincial Park"
+location:
+  country_code: CA
+  latitude: 45.81781
+  longitude: -64.57829
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.5
+  experience: 9.0
+  depth: 8.1
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 8.6

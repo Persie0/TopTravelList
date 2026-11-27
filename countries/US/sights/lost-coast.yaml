@@ -1,0 +1,16 @@
+id: sight-us-lost-coast
+name: "California Lost Coast King Range Wilderness Trek"
+location:
+  country_code: US
+  latitude: 40.114
+  longitude: -124.092
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.3
+    adventure: 9.4
+    photography: 9.3

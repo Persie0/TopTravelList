@@ -1,0 +1,16 @@
+id: sight-au-royal-botanic-sydney
+name: "Royal Botanic Garden Sydney"
+location:
+  country_code: AU
+  latitude: -33.864
+  longitude: 151.216
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.3
+    history: 9.2
+    relaxation: 9.3

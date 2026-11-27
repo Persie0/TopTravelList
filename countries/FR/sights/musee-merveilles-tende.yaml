@@ -1,0 +1,16 @@
+id: sight-fr-musee-merveilles-tende
+name: "Musée Départemental des Merveilles Tende Archaeology Museum"
+location:
+  country_code: FR
+  latitude: 44.088
+  longitude: 7.596
+scores:
+  impact: 8.7
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    family: 9.0

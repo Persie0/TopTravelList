@@ -1,0 +1,16 @@
+id: sight-us-intrepid-museum
+name: "Intrepid Museum New York Aircraft and Spaceflight Collections"
+location:
+  country_code: US
+  latitude: 40.7645
+  longitude: -74.0008
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    history: 9.4
+    family: 9.3
+    culture: 9.1

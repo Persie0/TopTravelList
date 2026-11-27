@@ -1,0 +1,16 @@
+id: sight-us-exploratorium
+name: "Exploratorium San Francisco Pier 15"
+location:
+  country_code: US
+  latitude: 37.8014
+  longitude: -122.3977
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 9.4
+  depth: 9.3
+  categories:
+    family: 9.4
+    culture: 9.2
+    history: 9.1

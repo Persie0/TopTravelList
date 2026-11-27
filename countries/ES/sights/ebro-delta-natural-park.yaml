@@ -1,0 +1,17 @@
+id: sight-es-ebro-delta-natural-park
+name: "Ebro Delta Natural Park"
+location:
+  country_code: ES
+  latitude: 40.6942
+  longitude: 0.7214
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    photography: 9.2
+    relaxation: 8.9

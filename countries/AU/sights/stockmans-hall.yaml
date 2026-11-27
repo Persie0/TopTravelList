@@ -1,0 +1,16 @@
+id: sight-au-stockmans-hall
+name: "Australian Stockmans Hall of Fame and Outback Heritage Centre Longreach"
+location:
+  country_code: AU
+  latitude: -23.444
+  longitude: 144.287
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.2
+    culture: 9.2
+    family: 9.0

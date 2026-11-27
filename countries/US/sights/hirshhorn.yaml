@@ -1,0 +1,16 @@
+id: sight-us-hirshhorn
+name: "Hirshhorn Museum and Sculpture Garden Washington DC"
+location:
+  country_code: US
+  latitude: 38.888
+  longitude: -77.023
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    architecture: 9.2
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-pe-mali
+name: "Museo de Arte de Lima MALI Peruvian Art Collections"
+location:
+  country_code: PE
+  latitude: -12.06
+  longitude: -77.037
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.2

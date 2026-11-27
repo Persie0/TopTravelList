@@ -1,0 +1,16 @@
+id: sight-uy-punta-del-este-film-festival
+name: "Punta del Este International Film Festival Public Screenings"
+location:
+  country_code: UY
+  latitude: -34.96
+  longitude: -54.94
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 9.2
+  depth: 9.1
+  categories:
+    culture: 9.4
+    nightlife: 9.0
+    history: 9.0

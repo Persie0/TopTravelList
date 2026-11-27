@@ -1,0 +1,16 @@
+id: sight-us-fairbanks-aurora
+name: "Fairbanks Region Aurora Borealis Viewing"
+location:
+  country_code: US
+  latitude: 64.95
+  longitude: -147.85
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.7
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3

@@ -1,0 +1,16 @@
+id: sight-us-grand-central-terminal
+name: "Grand Central Terminal"
+location:
+  country_code: US
+  latitude: 40.75265
+  longitude: -73.97728
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 7.8
+  categories:
+    architecture: 9.3
+    history: 9.1
+    photography: 9.0

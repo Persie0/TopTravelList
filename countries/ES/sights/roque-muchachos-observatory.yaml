@@ -1,0 +1,16 @@
+id: sight-es-roque-muchachos-observatory
+name: "Roque de los Muchachos Observatory and Visitor Centre"
+location:
+  country_code: ES
+  latitude: 28.756111
+  longitude: -17.891667
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.6
+  depth: 8.5
+  categories:
+    culture: 9.2
+    architecture: 8.8
+    photography: 9.0

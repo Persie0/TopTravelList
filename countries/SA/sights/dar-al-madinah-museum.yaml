@@ -1,0 +1,16 @@
+id: sight-sa-dar-al-madinah-museum
+name: "Dar Al Madinah Museum"
+location:
+  country_code: SA
+  latitude: 24.47676
+  longitude: 39.68768
+scores:
+  impact: 8.1
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.1
+    culture: 9.2
+    family: 8.6

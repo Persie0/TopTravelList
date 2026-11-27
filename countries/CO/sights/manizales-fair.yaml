@@ -1,0 +1,16 @@
+id: sight-co-manizales-fair
+name: "Feria de Manizales Public Parades Music and Coffee Culture"
+location:
+  country_code: CO
+  latitude: 5.068
+  longitude: -75.517
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.3
+  depth: 9.2
+  categories:
+    culture: 9.4
+    photography: 9.3
+    food: 9.2

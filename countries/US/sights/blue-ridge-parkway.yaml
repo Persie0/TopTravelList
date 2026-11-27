@@ -1,0 +1,16 @@
+id: sight-us-blue-ridge-parkway
+name: "Blue Ridge Parkway Appalachian Scenic Drive"
+location:
+  country_code: US
+  latitude: 35.568
+  longitude: -82.488
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.4
+    photography: 9.4
+    relaxation: 9.3

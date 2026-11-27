@@ -1,0 +1,16 @@
+id: sight-ca-bugaboo-park
+name: "Bugaboo Provincial Park Granite Spires and Alpine Climbing"
+location:
+  country_code: CA
+  latitude: 50.75
+  longitude: -116.8
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 8.8
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4

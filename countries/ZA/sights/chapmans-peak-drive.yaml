@@ -1,0 +1,16 @@
+id: sight-za-chapmans-peak-drive
+name: "Chapman's Peak Drive"
+location:
+  country_code: ZA
+  latitude: -34.089
+  longitude: 18.36
+scores:
+  impact: 9.0
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.8
+  depth: 8.2
+  categories:
+    nature: 8.9
+    photography: 9.2
+    adventure: 8.4

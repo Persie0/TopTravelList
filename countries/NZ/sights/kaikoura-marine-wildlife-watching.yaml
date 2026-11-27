@@ -1,0 +1,16 @@
+id: sight-nz-kaikoura-marine-wildlife-watching
+name: "Kaikōura Marine Wildlife Watching"
+location:
+  country_code: NZ
+  latitude: -42.39592
+  longitude: 173.68076
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    wildlife: 9.4
+    nature: 9.1
+    photography: 8.9

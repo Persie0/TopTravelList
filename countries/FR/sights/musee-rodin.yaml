@@ -1,0 +1,17 @@
+id: sight-fr-musee-rodin
+name: "Musée Rodin Paris"
+location:
+  country_code: FR
+  latitude: 48.855278
+  longitude: 2.315833
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 8.8
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.0
+    photography: 9.1

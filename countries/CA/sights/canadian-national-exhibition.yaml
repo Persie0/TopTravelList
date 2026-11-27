@@ -1,0 +1,16 @@
+id: sight-ca-canadian-national-exhibition
+name: "Canadian National Exhibition Toronto Annual Fair"
+location:
+  country_code: CA
+  latitude: 43.633
+  longitude: -79.418
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.3
+  depth: 9.2
+  categories:
+    culture: 9.4
+    family: 9.4
+    food: 9.2

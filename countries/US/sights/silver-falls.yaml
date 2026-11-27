@@ -1,0 +1,16 @@
+id: sight-us-silver-falls
+name: "Silver Falls State Park Oregon Trail of Ten Falls"
+location:
+  country_code: US
+  latitude: 44.878
+  longitude: -122.655
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.1
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.1

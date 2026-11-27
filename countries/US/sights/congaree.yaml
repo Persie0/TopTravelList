@@ -1,0 +1,16 @@
+id: sight-us-congaree
+name: "Congaree National Park"
+location:
+  country_code: US
+  latitude: 33.79
+  longitude: -80.75
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    photography: 9.0

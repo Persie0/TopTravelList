@@ -1,0 +1,16 @@
+id: sight-eg-ibn-tulun-mosque
+name: "Mosque of Ibn Tulun"
+location:
+  country_code: EG
+  latitude: 30.02889
+  longitude: 31.24944
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.7
+  depth: 8.1
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.2

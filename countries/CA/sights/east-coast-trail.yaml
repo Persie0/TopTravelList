@@ -1,0 +1,16 @@
+id: sight-ca-east-coast-trail
+name: "Newfoundland East Coast Trail Avalon Peninsula"
+location:
+  country_code: CA
+  latitude: 47.27
+  longitude: -52.84
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.2
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4

@@ -1,0 +1,16 @@
+id: sight-pe-ite-wetlands
+name: "Ite Tacna Coastal Wetlands Birdwatching Viewpoints"
+location:
+  country_code: PE
+  latitude: -17.91
+  longitude: -70.98
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.5
+  depth: 8.3
+  categories:
+    wildlife: 9.2
+    nature: 9.0
+    photography: 9.0

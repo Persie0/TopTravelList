@@ -1,0 +1,15 @@
+id: sight-fr-reims-saint-remi-museum
+name: "Musée Saint-Remi Reims Archaeology and History Collections"
+location:
+  country_code: FR
+  latitude: 49.242
+  longitude: 4.043
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4

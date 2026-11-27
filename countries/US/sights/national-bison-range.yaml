@@ -1,0 +1,16 @@
+id: sight-us-national-bison-range
+name: "Bison Range Flathead Reservation Montana"
+location:
+  country_code: US
+  latitude: 47.342
+  longitude: -114.222
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.9
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 9.2

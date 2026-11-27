@@ -1,0 +1,15 @@
+id: sight-fr-safari-peaugres
+name: "Safari de Peaugres Wildlife Park"
+location:
+  country_code: FR
+  latitude: 45.289
+  longitude: 4.725
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    family: 9.4

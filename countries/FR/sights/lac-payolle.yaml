@@ -1,0 +1,16 @@
+id: sight-fr-lac-payolle
+name: "Lac de Payolle Highland Lake and Forest Walks"
+location:
+  country_code: FR
+  latitude: 42.937
+  longitude: 0.295
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.1
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.1
+    relaxation: 9.2
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-nz-hamilton-gardens
+name: "Hamilton Gardens Themed Garden Collections"
+location:
+  country_code: NZ
+  latitude: -37.806
+  longitude: 175.303
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.2
+    architecture: 9.3
+    culture: 9.2

@@ -1,0 +1,16 @@
+id: sight-br-goeldi-museum
+name: "Museu Paraense Emílio Goeldi Zoobotanical Park Belém"
+location:
+  country_code: BR
+  latitude: -1.452
+  longitude: -48.475
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.3
+    history: 9.3
+    culture: 9.2

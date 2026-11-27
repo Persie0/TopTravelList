@@ -1,0 +1,16 @@
+id: sight-ca-royal-bc-museum
+name: "Royal BC Museum Victoria"
+location:
+  country_code: CA
+  latitude: 48.42
+  longitude: -123.368
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.3
+    family: 9.2

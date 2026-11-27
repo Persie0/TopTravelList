@@ -1,0 +1,17 @@
+id: sight-fr-mas-azil-cave
+name: "Grotte du Mas-d’Azil and Prehistory Museum"
+location:
+  country_code: FR
+  latitude: 43.069
+  longitude: 1.357
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    history: 9.4
+    nature: 9.3
+    culture: 9.3
+    adventure: 9.1

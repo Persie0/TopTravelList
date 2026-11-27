@@ -1,0 +1,16 @@
+id: sight-mx-frida-kahlo-museum-casa-azul
+name: "Frida Kahlo Museum (Casa Azul)"
+location:
+  country_code: MX
+  latitude: 19.35514
+  longitude: -99.16236
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 8.8
+  depth: 7.9
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 8.5

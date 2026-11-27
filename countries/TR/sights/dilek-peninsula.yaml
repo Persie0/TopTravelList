@@ -1,0 +1,18 @@
+id: sight-tr-dilek-peninsula
+name: "Dilek Peninsula and Büyük Menderes Delta National Park"
+location:
+  country_code: TR
+  latitude: 37.6689278
+  longitude: 27.1617556
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    photography: 9.3
+    beaches: 9.1
+    adventure: 9.0

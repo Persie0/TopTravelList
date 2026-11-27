@@ -1,0 +1,16 @@
+id: sight-eg-ramesseum
+name: "Ramesseum (Mortuary Temple of Ramesses II)"
+location:
+  country_code: EG
+  latitude: 25.72794
+  longitude: 32.61019
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.4
+    architecture: 9.2
+    photography: 9.0

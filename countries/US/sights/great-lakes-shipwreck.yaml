@@ -1,0 +1,16 @@
+id: sight-us-great-lakes-shipwreck
+name: "Great Lakes Shipwreck Museum Whitefish Point Michigan"
+location:
+  country_code: US
+  latitude: 46.771
+  longitude: -84.957
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.0
+    photography: 9.0

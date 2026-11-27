@@ -1,0 +1,16 @@
+id: sight-fr-saint-gervais-tramway
+name: "Tramway du Mont-Blanc Historic Mountain Railway"
+location:
+  country_code: FR
+  latitude: 45.889
+  longitude: 6.719
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    history: 9.3
+    photography: 9.4
+    adventure: 9.2

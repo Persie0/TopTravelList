@@ -1,0 +1,15 @@
+id: sight-fr-nevers-faience
+name: "Musée de la Faïence et des Beaux-Arts Nevers"
+location:
+  country_code: FR
+  latitude: 46.986
+  longitude: 3.155
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    culture: 9.3
+    history: 9.3

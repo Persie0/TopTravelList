@@ -1,0 +1,16 @@
+id: sight-ca-bard-on-the-beach
+name: "Bard on the Beach Shakespeare Festival Vancouver"
+location:
+  country_code: CA
+  latitude: 49.277
+  longitude: -123.144
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.3
+  depth: 9.2
+  categories:
+    culture: 9.4
+    nightlife: 9.2
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-crystal-river-manatees
+name: "Crystal River National Wildlife Refuge Manatee Observation"
+location:
+  country_code: US
+  latitude: 28.888
+  longitude: -82.589
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.1
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    adventure: 9.2

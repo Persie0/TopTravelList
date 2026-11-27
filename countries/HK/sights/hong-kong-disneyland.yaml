@@ -1,0 +1,17 @@
+id: sight-hk-hong-kong-disneyland
+name: "Hong Kong Disneyland Park"
+location:
+  country_code: HK
+  latitude: 22.31308
+  longitude: 114.04137
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 7.8
+  experience: 9.3
+  depth: 9.1
+  categories:
+    family: 9.4
+    photography: 8.8
+    culture: 8.3
+    adventure: 8.5

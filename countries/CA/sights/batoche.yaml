@@ -1,0 +1,16 @@
+id: sight-ca-batoche
+name: "Batoche National Historic Site Métis Heritage"
+location:
+  country_code: CA
+  latitude: 52.75
+  longitude: -106.11
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.3
+    photography: 9.0

@@ -1,0 +1,16 @@
+id: sight-tr-ballica-cave
+name: "Ballıca Cave Nature Park Tokat"
+location:
+  country_code: TR
+  latitude: 40.22731
+  longitude: 36.3015
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.7
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.4
+    photography: 9.2
+    adventure: 9.0

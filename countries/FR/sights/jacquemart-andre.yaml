@@ -1,0 +1,16 @@
+id: sight-fr-jacquemart-andre
+name: "Musée Jacquemart-André Paris"
+location:
+  country_code: FR
+  latitude: 48.87543
+  longitude: 2.31051
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.3
+    architecture: 9.2
+    history: 9.1

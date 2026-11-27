@@ -467,3 +467,50 @@ Retain null visitor fields: authorized visits on other remote islands cannot est
 - Final decision: Partial assessment only.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent full claims and current access.
+
+## sight-nf-bounty-folk-museum — Bounty Folk Museum Norfolk Island — 2026-11-27
+
+- YAML: [source](../../../countries/NF/sights/bounty-folk-museum.yaml)
+- Action: new
+- Scope: Independent folk history collection, not Norfolk Island Museum's Kingston collections.
+- Representative coordinates: -29.04, 167.96; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 7.8 / 8.4 / 8.5 / 8.2 / 8.0.
+- Categories: history:8.9 culture:8.7 family:8.5.
+- Overall: 81.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.norfolkisland.com.au/101-things-to-do/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NF/norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) | 7.8 / 8.5 / 8.7 / 8.4 / 8.0 | significance: -0.2 vs peer; experience: -0.2 vs peer |
+| [NF/fletchers-mutiny-cyclorama](../../../countries/NF/sights/fletchers-mutiny-cyclorama.yaml) | 7.8 / 8.5 / 7.9 / 8.4 / 7.1 | depth: +0.9 vs peer; significance: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nf-colleen-mccullough-home — Colleen McCullough Home Literary Heritage Tour — 2026-11-27
+
+- YAML: [source](../../../countries/NF/sights/colleen-mccullough-home.yaml)
+- Action: new
+- Scope: Guided public literary heritage experience only; coordinate is broad locality proxy, not private residence location.
+- Representative coordinates: -29.04, 167.94; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 7.8 / 8.5 / 8.4 / 8.2 / 7.8.
+- Categories: culture:8.9 history:8.7 architecture:8.4.
+- Overall: 81.55/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.norfolkisland.com.au/things-to-do/tours/colleen-mccullough-home-tour-baunti-tours/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NF/norfolk-island-museum](../../../countries/NF/sights/norfolk-island-museum.yaml) | 7.8 / 8.5 / 8.7 / 8.4 / 8.0 | significance: -0.3 vs peer; experience: -0.2 vs peer |
+| [NF/st-barnabas-chapel](../../../countries/NF/sights/st-barnabas-chapel.yaml) | 8.2 / 8.3 / 8.5 / 8.1 / 7.2 | depth: +0.6 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 209 scope decisions
+
+Distinct literary and folk museum tours. Kingston serial heritage overlap unchanged; Phillip Island restricted visitor scope remains unassessed.

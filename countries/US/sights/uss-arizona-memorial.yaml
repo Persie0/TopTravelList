@@ -1,0 +1,15 @@
+id: sight-us-uss-arizona-memorial
+name: "USS Arizona Memorial (Pearl Harbor)"
+location:
+  country_code: US
+  latitude: 21.36488
+  longitude: -157.95001
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.8
+  depth: 7.8
+  categories:
+    history: 9.4
+    culture: 9.1

@@ -1,0 +1,17 @@
+id: sight-fr-saint-malo-intra-muros
+name: "Saint-Malo Walled City and Ramparts"
+location:
+  country_code: FR
+  latitude: 48.64845
+  longitude: -2.02573
+scores:
+  impact: 9.2
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 9.2
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.4
+    culture: 9.2

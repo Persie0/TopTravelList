@@ -1,0 +1,16 @@
+id: sight-us-ny-botanical-garden
+name: "New York Botanical Garden Bronx Conservatory and Collections"
+location:
+  country_code: US
+  latitude: 40.862
+  longitude: -73.877
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.3
+    relaxation: 9.2

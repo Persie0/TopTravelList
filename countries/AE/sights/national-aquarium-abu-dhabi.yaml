@@ -1,0 +1,16 @@
+id: sight-ae-national-aquarium-abu-dhabi
+name: "The National Aquarium Abu Dhabi"
+location:
+  country_code: AE
+  latitude: 24.40198
+  longitude: 54.49585
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    wildlife: 8.9
+    family: 9.1
+    nature: 8.6

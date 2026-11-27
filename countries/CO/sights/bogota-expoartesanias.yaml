@@ -1,0 +1,16 @@
+id: sight-co-bogota-expoartesanias
+name: "Bogotá Expoartesanías National Artisan and Cultural Fair"
+location:
+  country_code: CO
+  latitude: 4.629
+  longitude: -74.09
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.3
+  depth: 9.2
+  categories:
+    culture: 9.4
+    photography: 9.2
+    family: 9.1

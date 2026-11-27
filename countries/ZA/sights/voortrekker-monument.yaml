@@ -1,0 +1,16 @@
+id: sight-za-voortrekker-monument
+name: "Voortrekker Monument Pretoria Historical Architecture and Interpretation"
+location:
+  country_code: ZA
+  latitude: -25.776
+  longitude: 28.176
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.4
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.3
+    culture: 9.0

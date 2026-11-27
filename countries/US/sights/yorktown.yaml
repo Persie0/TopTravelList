@@ -1,0 +1,15 @@
+id: sight-us-yorktown
+name: "Yorktown Battlefield Colonial National Historical Park"
+location:
+  country_code: US
+  latitude: 37.229
+  longitude: -76.495
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.2

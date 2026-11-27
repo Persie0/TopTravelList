@@ -1,0 +1,16 @@
+id: sight-tn-tabarka-needles
+name: "Tabarka Needles and Coastal Walk"
+location:
+  country_code: TN
+  latitude: 36.9577
+  longitude: 8.7577
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 7.7
+  experience: 8.5
+  depth: 7.8
+  categories:
+    nature: 8.8
+    photography: 9.1
+    relaxation: 8.7

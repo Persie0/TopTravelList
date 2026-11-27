@@ -1,0 +1,17 @@
+id: sight-us-canyon-de-chelly
+name: "Canyon de Chelly National Monument Navajo Cultural Landscape"
+location:
+  country_code: US
+  latitude: 36.155
+  longitude: -109.44
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.4
+    culture: 9.4
+    photography: 9.4
+    nature: 9.3

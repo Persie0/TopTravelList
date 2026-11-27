@@ -1,0 +1,16 @@
+id: sight-es-santa-barbara-castle-alicante
+name: "Santa Bárbara Castle Alicante"
+location:
+  country_code: ES
+  latitude: 38.34909
+  longitude: -0.47818
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 8.8
+  depth: 8.5
+  categories:
+    architecture: 9.1
+    history: 9.0
+    photography: 9.3

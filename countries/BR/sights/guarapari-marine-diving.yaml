@@ -1,0 +1,16 @@
+id: sight-br-guarapari-marine-diving
+name: "Guarapari Espírito Santo Marine Diving and Offshore Reef Excursions"
+location:
+  country_code: BR
+  latitude: -20.67
+  longitude: -40.46
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    adventure: 9.2

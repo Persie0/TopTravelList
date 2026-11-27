@@ -1,0 +1,16 @@
+id: sight-tr-mardin-museum
+name: "Mardin Archaeology and Ethnography Museum"
+location:
+  country_code: TR
+  latitude: 37.3135
+  longitude: 40.7348
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.2
+    culture: 9.2
+    architecture: 9.0

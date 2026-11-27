@@ -1,0 +1,17 @@
+id: sight-pt-queluz-national-palace
+name: "National Palace and Gardens of Queluz"
+location:
+  country_code: PT
+  latitude: 38.750406
+  longitude: -9.257889
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.1
+    photography: 9.2
+    culture: 9.0

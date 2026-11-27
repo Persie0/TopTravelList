@@ -1,0 +1,17 @@
+id: sight-us-national-mall-and-memorial-parks
+name: "National Mall and Memorial Parks"
+location:
+  country_code: US
+  latitude: 38.8899
+  longitude: -77.026
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 9.0
+    photography: 9.0

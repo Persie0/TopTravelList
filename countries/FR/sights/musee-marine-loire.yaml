@@ -1,0 +1,16 @@
+id: sight-fr-musee-marine-loire
+name: "Musée de la Marine de Loire River Navigation Museum"
+location:
+  country_code: FR
+  latitude: 47.86452923
+  longitude: 2.21758604
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.1
+    culture: 9.0
+    family: 8.8

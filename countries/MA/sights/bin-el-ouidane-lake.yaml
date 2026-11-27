@@ -1,0 +1,17 @@
+id: sight-ma-bin-el-ouidane-lake
+name: "Bin el Ouidane Lake"
+location:
+  country_code: MA
+  latitude: 32.1075
+  longitude: -6.4483
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.8
+  experience: 8.7
+  depth: 8.3
+  categories:
+    nature: 8.9
+    photography: 9.1
+    relaxation: 9.0
+    adventure: 8.7

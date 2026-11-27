@@ -1,0 +1,15 @@
+id: sight-fr-louvre-lens
+name: "Louvre-Lens Galerie du Temps and Exhibition Museum"
+location:
+  country_code: FR
+  latitude: 50.429
+  longitude: 2.804
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4

@@ -1,0 +1,16 @@
+id: sight-ae-fujairah-fort
+name: "Fujairah Fort"
+location:
+  country_code: AE
+  latitude: 25.13862
+  longitude: 56.33716
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.5
+  experience: 8.0
+  depth: 7.2
+  categories:
+    history: 8.8
+    architecture: 8.6
+    photography: 8.5

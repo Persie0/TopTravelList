@@ -1,0 +1,16 @@
+id: sight-pe-laquipampa
+name: "Laquipampa Wildlife Refuge Dry Forest and White-Winged Guan Trails"
+location:
+  country_code: PE
+  latitude: -6.34
+  longitude: -79.47
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.6
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-national-building-museum
+name: "National Building Museum Washington DC"
+location:
+  country_code: US
+  latitude: 38.897
+  longitude: -77.017
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.0
+    culture: 9.1

@@ -1,0 +1,16 @@
+id: sight-au-magnt-darwin
+name: "Museum and Art Gallery of the Northern Territory Darwin"
+location:
+  country_code: AU
+  latitude: -12.436
+  longitude: 130.834
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    nature: 9.2

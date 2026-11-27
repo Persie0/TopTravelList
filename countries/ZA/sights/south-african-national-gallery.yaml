@@ -1,0 +1,16 @@
+id: sight-za-south-african-national-gallery
+name: "Iziko South African National Gallery Cape Town Art Collections"
+location:
+  country_code: ZA
+  latitude: -33.929
+  longitude: 18.418
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.0

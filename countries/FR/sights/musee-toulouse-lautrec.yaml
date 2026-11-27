@@ -1,0 +1,15 @@
+id: sight-fr-musee-toulouse-lautrec
+name: "Musée Toulouse-Lautrec Albi Art Collections"
+location:
+  country_code: FR
+  latitude: 43.928
+  longitude: 2.143
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3

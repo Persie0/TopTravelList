@@ -1,0 +1,16 @@
+id: sight-gp-maison-cacao
+name: "Maison du Cacao Pointe-Noire Cocoa Heritage Garden"
+location:
+  country_code: GP
+  latitude: 16.222
+  longitude: -61.789
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    food: 9.3
+    culture: 9.2
+    family: 9.2

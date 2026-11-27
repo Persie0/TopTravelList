@@ -1,0 +1,16 @@
+id: sight-pt-ajuda-national-palace
+name: "Ajuda National Palace"
+location:
+  country_code: PT
+  latitude: 38.70747
+  longitude: -9.19776
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.1

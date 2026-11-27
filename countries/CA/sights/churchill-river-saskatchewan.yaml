@@ -1,0 +1,16 @@
+id: sight-ca-churchill-river-saskatchewan
+name: "Churchill River Saskatchewan Wilderness Canoeing"
+location:
+  country_code: CA
+  latitude: 55.59
+  longitude: -104.75
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.2
+  depth: 9.3
+  categories:
+    adventure: 9.4
+    nature: 9.4
+    history: 9.3

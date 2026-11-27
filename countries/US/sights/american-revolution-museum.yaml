@@ -1,0 +1,16 @@
+id: sight-us-american-revolution-museum
+name: "Museum of the American Revolution Philadelphia"
+location:
+  country_code: US
+  latitude: 39.9488
+  longitude: -75.1454
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.2
+    family: 9.1

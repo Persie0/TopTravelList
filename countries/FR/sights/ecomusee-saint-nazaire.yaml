@@ -1,0 +1,16 @@
+id: sight-fr-ecomusee-saint-nazaire
+name: "Écomusée de Saint-Nazaire Port and Industrial History Museum"
+location:
+  country_code: FR
+  latitude: 47.27406
+  longitude: -2.19857
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.1
+    culture: 9.0
+    family: 8.8

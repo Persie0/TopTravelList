@@ -1,0 +1,16 @@
+id: sight-pe-sacaco-fossil-museum
+name: "Sacaco Paleontological Site Museum and Fossil Interpretation"
+location:
+  country_code: PE
+  latitude: -15.55
+  longitude: -74.75
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 8.4
+  depth: 8.7
+  categories:
+    history: 9.3
+    nature: 9.3
+    family: 9.0

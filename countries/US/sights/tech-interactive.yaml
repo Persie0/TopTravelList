@@ -1,0 +1,16 @@
+id: sight-us-tech-interactive
+name: "The Tech Interactive San Jose"
+location:
+  country_code: US
+  latitude: 37.331
+  longitude: -121.89
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.1
+  depth: 8.9
+  categories:
+    family: 9.3
+    culture: 9.0
+    adventure: 8.8

@@ -1,0 +1,17 @@
+id: sight-fr-phare-eckmuhl
+name: "Phare d’Eckmühl Lighthouse and Panorama"
+location:
+  country_code: FR
+  latitude: 47.7982
+  longitude: -4.37277
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.1
+  categories:
+    architecture: 9.1
+    photography: 9.3
+    history: 9.0
+    adventure: 8.8

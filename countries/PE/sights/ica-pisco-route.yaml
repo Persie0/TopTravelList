@@ -1,0 +1,16 @@
+id: sight-pe-ica-pisco-route
+name: "Ica Traditional Pisco Vineyards and Historic Distillery Route"
+location:
+  country_code: PE
+  latitude: -14.067
+  longitude: -75.72
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.1
+  depth: 9.1
+  categories:
+    food: 9.4
+    culture: 9.4
+    history: 9.2

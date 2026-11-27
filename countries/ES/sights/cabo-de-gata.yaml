@@ -1,0 +1,17 @@
+id: sight-es-cabo-de-gata
+name: "Cabo de Gata-Níjar Natural Park"
+location:
+  country_code: ES
+  latitude: 36.8782
+  longitude: -2.0931
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.3
+    beaches: 9.2
+    adventure: 9.0

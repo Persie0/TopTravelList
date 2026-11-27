@@ -1,0 +1,16 @@
+id: sight-ca-liard-hot-springs
+name: "Liard River Hot Springs Provincial Park"
+location:
+  country_code: CA
+  latitude: 59.42
+  longitude: -126.1
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.9
+  depth: 8.5
+  categories:
+    relaxation: 9.4
+    nature: 9.2
+    photography: 9.1

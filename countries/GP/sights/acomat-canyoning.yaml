@@ -1,0 +1,16 @@
+id: sight-gp-acomat-canyoning
+name: "Acomat River Guided Canyoning Pointe-Noire"
+location:
+  country_code: GP
+  latitude: 16.216
+  longitude: -61.761
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 9.1
+  depth: 8.8
+  categories:
+    adventure: 9.3
+    nature: 9.3
+    photography: 9.2

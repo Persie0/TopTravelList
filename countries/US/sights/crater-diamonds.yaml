@@ -1,0 +1,16 @@
+id: sight-us-crater-diamonds
+name: "Crater of Diamonds State Park Arkansas"
+location:
+  country_code: US
+  latitude: 34.033
+  longitude: -93.674
+scores:
+  impact: 8.8
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.1
+  depth: 8.6
+  categories:
+    adventure: 9.2
+    family: 9.3
+    nature: 9.0

@@ -1,0 +1,15 @@
+id: sight-mq-ecomusee-martinique
+name: "Écomusée de Martinique Anse Figuier Cultural History Collections"
+location:
+  country_code: MQ
+  latitude: 14.467
+  longitude: -60.914
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.7
+  categories:
+    culture: 9.3
+    history: 9.3

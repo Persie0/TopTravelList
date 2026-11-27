@@ -1,0 +1,16 @@
+id: sight-us-pacific-crest-thru-hike
+name: "Pacific Crest Trail Long-Distance Thru-Hiking Experience"
+location:
+  country_code: US
+  latitude: 32.607
+  longitude: -116.466
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.2
+  depth: 9.4
+  categories:
+    adventure: 9.4
+    nature: 9.4
+    photography: 9.4

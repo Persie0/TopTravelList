@@ -1,0 +1,16 @@
+id: sight-gr-zakynthos-blue-caves
+name: "Blue Caves of Northern Zakynthos"
+location:
+  country_code: GR
+  latitude: 37.92023
+  longitude: 20.70969
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.1
+  experience: 8.9
+  depth: 8.2
+  categories:
+    nature: 9.2
+    photography: 9.4
+    adventure: 9.1

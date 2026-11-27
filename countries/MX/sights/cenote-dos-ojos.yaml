@@ -1,0 +1,16 @@
+id: sight-mx-cenote-dos-ojos
+name: "Cenote Dos Ojos"
+location:
+  country_code: MX
+  latitude: 20.32473
+  longitude: -87.39061
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.3
+  experience: 9.0
+  depth: 8.5
+  categories:
+    nature: 9.1
+    adventure: 9.2
+    photography: 9.0

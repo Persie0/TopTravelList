@@ -1,0 +1,17 @@
+id: sight-ma-tangier-medina-kasbah
+name: "Tangier Medina and Kasbah"
+location:
+  country_code: MA
+  latitude: 35.78833
+  longitude: -5.81254
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.1
+    history: 9.2
+    culture: 9.2
+    photography: 9.1

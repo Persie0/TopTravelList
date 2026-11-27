@@ -1,0 +1,17 @@
+id: sight-mx-bacalar-lagoon
+name: "Bacalar Lagoon (Lagoon of Seven Colours)"
+location:
+  country_code: MX
+  latitude: 18.77789
+  longitude: -88.30599
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.2
+    adventure: 8.6

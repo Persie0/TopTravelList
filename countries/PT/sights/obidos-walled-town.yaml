@@ -1,0 +1,17 @@
+id: sight-pt-obidos-walled-town
+name: "Óbidos Walled Historic Town"
+location:
+  country_code: PT
+  latitude: 39.36344
+  longitude: -9.15693
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.1
+    photography: 9.3
+    culture: 9.0

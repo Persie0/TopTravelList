@@ -1,0 +1,16 @@
+id: sight-us-library-of-congress
+name: "Library of Congress Thomas Jefferson Building and Exhibitions"
+location:
+  country_code: US
+  latitude: 38.8887
+  longitude: -77.0047
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.9
+  depth: 9.0
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.4

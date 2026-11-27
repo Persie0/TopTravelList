@@ -1,0 +1,16 @@
+id: sight-us-walters-art-museum
+name: "Walters Art Museum Baltimore"
+location:
+  country_code: US
+  latitude: 39.296
+  longitude: -76.617
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.2
+    history: 9.2
+    architecture: 8.8

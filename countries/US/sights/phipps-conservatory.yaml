@@ -1,0 +1,16 @@
+id: sight-us-phipps-conservatory
+name: "Phipps Conservatory and Botanical Gardens Pittsburgh"
+location:
+  country_code: US
+  latitude: 40.439
+  longitude: -79.948
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.1

@@ -1,0 +1,16 @@
+id: sight-py-moises-bertoni-monument
+name: "Puerto Bertoni Moisés Bertoni Scientific Monument and Museum"
+location:
+  country_code: PY
+  latitude: -25.65
+  longitude: -54.6
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.3
+    nature: 9.1
+    culture: 9.2

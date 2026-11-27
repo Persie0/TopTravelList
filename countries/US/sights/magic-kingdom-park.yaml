@@ -1,0 +1,16 @@
+id: sight-us-magic-kingdom-park
+name: "Magic Kingdom Park"
+location:
+  country_code: US
+  latitude: 28.41909
+  longitude: -81.58143
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.3
+  depth: 9.2
+  categories:
+    family: 9.4
+    culture: 8.5
+    photography: 8.8

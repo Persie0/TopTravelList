@@ -1,0 +1,16 @@
+id: sight-us-kennedy-space-center-visitor-complex
+name: "Kennedy Space Center Visitor Complex"
+location:
+  country_code: US
+  latitude: 28.515556
+  longitude: -80.681667
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.2
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.0
+    family: 9.2

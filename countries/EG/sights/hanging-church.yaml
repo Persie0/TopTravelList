@@ -1,0 +1,16 @@
+id: sight-eg-hanging-church
+name: "Hanging Church (Al-Muallaqa)"
+location:
+  country_code: EG
+  latitude: 30.00525
+  longitude: 31.23017
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.5
+  depth: 8.1
+  categories:
+    architecture: 8.9
+    history: 9.2
+    culture: 9.0

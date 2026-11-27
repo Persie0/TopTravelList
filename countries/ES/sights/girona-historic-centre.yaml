@@ -1,0 +1,17 @@
+id: sight-es-girona-historic-centre
+name: "Girona Historic Centre"
+location:
+  country_code: ES
+  latitude: 41.9875
+  longitude: 2.826389
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.0
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.1
+    photography: 9.3

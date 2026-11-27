@@ -1,0 +1,18 @@
+id: sight-es-madrid-historic-core
+name: "Madrid Historic Centre (Plaza Mayor and Sol)"
+location:
+  country_code: ES
+  latitude: 40.41544
+  longitude: -3.70736
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 9.2
+  depth: 9.0
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.3
+    food: 9.1
+    photography: 9.1

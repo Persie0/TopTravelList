@@ -1,0 +1,16 @@
+id: sight-fr-villa-noailles
+name: "Villa Noailles Hyères Modernist Art and Design Centre"
+location:
+  country_code: FR
+  latitude: 43.123
+  longitude: 6.128
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.7
+  depth: 8.7
+  categories:
+    architecture: 9.3
+    culture: 9.3
+    history: 9.1

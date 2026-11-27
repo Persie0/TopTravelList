@@ -1,0 +1,16 @@
+id: sight-ca-fort-walsh
+name: "Fort Walsh National Historic Site Saskatchewan"
+location:
+  country_code: CA
+  latitude: 49.57
+  longitude: -109.88
+scores:
+  impact: 8.3
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.1

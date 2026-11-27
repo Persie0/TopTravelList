@@ -1,0 +1,17 @@
+id: sight-es-masca-gorge
+name: "Masca Gorge and Mountain Village"
+location:
+  country_code: ES
+  latitude: 28.3053
+  longitude: -16.8405
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.4
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.3
+    culture: 8.8
