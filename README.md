@@ -237,7 +237,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Mongolia](countries/MN/) (`MN`) | [18](countries/MN/cities.md) | [50](countries/MN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mongolia) |
 | [Montenegro](countries/ME/) (`ME`) | [33](countries/ME/cities.md) | [94](countries/ME/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Montenegro) |
 | [Montserrat](countries/MS/) (`MS`) | [2](countries/MS/cities.md) | [8](countries/MS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Montserrat) |
-| [Morocco](countries/MA/) (`MA`) | [12](countries/MA/cities.md) | [53](countries/MA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Morocco) |
+| [Morocco](countries/MA/) (`MA`) | [12](countries/MA/cities.md) | [61](countries/MA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Morocco) |
 | [Mozambique](countries/MZ/) (`MZ`) | [7](countries/MZ/cities.md) | [16](countries/MZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mozambique) |
 | [Myanmar](countries/MM/) (`MM`) | [12](countries/MM/cities.md) | [39](countries/MM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Myanmar) |
 | [Namibia](countries/NA/) (`NA`) | [7](countries/NA/cities.md) | [21](countries/NA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Namibia) |

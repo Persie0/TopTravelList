@@ -1450,3 +1450,314 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ma-draa-valley — Drâa Valley Oasis Corridor (Agdz–Zagora) — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/draa-valley.yaml)
+- Action: new
+- Precise subject and limitations: Agdz–Zagora inhabited palm corridor including Tamnougalt; representative point at Tamnougalt. Excludes Erg Chigaga, Skoura and Fint. Private dwellings and fragile kasbah areas excluded; guided permitted visits only.
+- Location check: 30.6839, -6.4217; [published representative point](https://www.ksour.org/atlas/tamnougalt), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitouarzazate.com/en/destinations/draa-valley); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/skoura-amridil](../../../countries/MA/sights/skoura-amridil.yaml) | 8.9 / 9.0 / 8.8 / 8.7 / 8.6 | depth: +0.4 vs peer; impact: +0.1 vs peer. |
+| [MA/figuig-oasis](../../../countries/MA/sights/figuig-oasis.yaml) | 8.5 / 9.0 / 8.9 / 8.3 / 8.5 | impact: +0.5 vs peer; depth: +0.5 vs peer. |
+| [DZ/timimoun-oasis](../../../countries/DZ/sights/timimoun-oasis.yaml) | 9.0 / 9.1 / 8.7 / 8.7 / 8.8 | depth: +0.2 vs peer; significance: +0.1 vs peer. |
+| [DZ/rhoufi-oued-labiod](../../../countries/DZ/sights/rhoufi-oued-labiod.yaml) | 9.0 / 9.1 / 8.7 / 8.4 / 8.4 | depth: +0.6 vs peer; experience: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Extensive palm-lined earthen landscape. |
+| Uniqueness | 9.0 | Distinct oasis corridor. |
+| Significance | 8.8 | Historic caravan and settlement heritage. |
+| Experience | 8.7 | Varied oasis and village visits. |
+| Depth | 9.0 | Multiple settlements and landscapes. |
+
+- Applicable categories: photography:9.3, culture:9.2, architecture:9.1, nature:9.0.
+- Computed worldwide overall: 89.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-jbel-saghro — Jbel Saghro Mountain Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/jbel-saghro.yaml)
+- Action: new
+- Precise subject and limitations: Bounded trekking massif with rocky pinnacles; representative point Bab n’Ali. Distinct from High Atlas Toubkal and Drâa oasis corridor; guided trekking route depends on conditions and land access. https://www.marokko.com/reisen/djabal-saghro-wandern-im-wuestengebirge confirms trekking.
+- Location check: 31.04934, -5.81654; [published representative point](https://en.wikipedia.org/wiki/Id_Bab_N_Ali), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitouarzazate.com/en/destinations/jbel-saghro); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/mount-toubkal](../../../countries/MA/sights/mount-toubkal.yaml) | 9.2 / 8.8 / 8.9 / 8.8 / 8.8 | significance: -0.7 vs peer; impact: -0.2 vs peer. |
+| [MA/todra-gorge](../../../countries/MA/sights/todra-gorge.yaml) | 9.1 / 8.8 / 8.4 / 8.9 / 8.1 | depth: +0.8 vs peer; significance: -0.2 vs peer. |
+| [DZ/ahaggar-mountains](../../../countries/DZ/sights/ahaggar-mountains.yaml) | 9.5 / 9.3 / 8.9 / 8.8 / 9.0 | significance: -0.7 vs peer; impact: -0.5 vs peer. |
+| [MA/dades-gorges](../../../countries/MA/sights/dades-gorges.yaml) | 9.0 / 8.7 / 8.3 / 8.8 / 8.5 | depth: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic arid mountain forms. |
+| Uniqueness | 8.9 | Distinct volcanic massif. |
+| Significance | 8.2 | Regional geological and pastoral heritage. |
+| Experience | 8.7 | Varied trekking. |
+| Depth | 8.9 | Extensive mountain routes. |
+
+- Applicable categories: nature:9.2, adventure:9.3, photography:9.4.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-souss-massa-national-park — Souss-Massa National Park — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/souss-massa-national-park.yaml)
+- Action: new
+- Precise subject and limitations: Documented Rokein visitor circuit and Oued Massa birdwatching trail; point at Rokein information center. Wildlife sightings and circuit availability not guaranteed.
+- Location check: 30.289792, -9.56127; [published representative point](https://explore-agadirsoussmassa.com/en/souss-massa-national-park-presentation/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/souss-massa-national-park-circuits-information/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ifrane-cedar-forest](../../../countries/MA/sights/ifrane-cedar-forest.yaml) | 8.8 / 8.7 / 8.6 / 8.7 / 8.8 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [MA/khnifiss-lagoon](../../../countries/MA/sights/khnifiss-lagoon.yaml) | 8.7 / 8.9 / 9.0 / 8.5 / 8.0 | depth: +0.8 vs peer; experience: +0.1 vs peer. |
+| [DZ/chrea-national-park](../../../countries/DZ/sights/chrea-national-park.yaml) | 8.7 / 8.5 / 8.8 / 8.6 / 8.7 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer. |
+| [TN/ichkeul-national-park](../../../countries/TN/sights/ichkeul-national-park.yaml) | 8.5 / 8.9 / 9.1 / 8.2 / 8.1 | depth: +0.7 vs peer; experience: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Varied coastal habitats and fauna. |
+| Uniqueness | 8.9 | Distinct rare wildlife habitats. |
+| Significance | 9.0 | Important protected biodiversity. |
+| Experience | 8.6 | Permitted wildlife circuits. |
+| Depth | 8.8 | Multiple visitor zones. |
+
+- Applicable categories: wildlife:9.4, nature:9.2, photography:9.0.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-taroudant-medina-walls — Taroudant Medina and Historic Walls — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/taroudant-medina-walls.yaml)
+- Action: new
+- Precise subject and limitations: Public walled medina and permanent souks; representative Assarag Square point. No separate wall or market rating, no guaranteed weekly market.
+- Location check: 30.469444, -8.882591; [published representative point](https://explore-agadirsoussmassa.com/en/walls-medina-and-souks-in-taroudant/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/walls-medina-and-souks-in-taroudant/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/medina-tetouan](../../../countries/MA/sights/medina-tetouan.yaml) | 8.8 / 9.0 / 9.1 / 8.6 / 8.6 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer. |
+| [MA/asilah-medina-fortress](../../../countries/MA/sights/asilah-medina-fortress.yaml) | 8.7 / 8.5 / 8.4 / 8.8 / 8.3 | significance: +0.3 vs peer; depth: +0.2 vs peer. |
+| [MA/historic-meknes](../../../countries/MA/sights/historic-meknes.yaml) | 9.0 / 9.0 / 9.2 / 8.6 / 8.8 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer. |
+| [TN/medina-sfax](../../../countries/TN/sights/medina-sfax.yaml) | 8.2 / 8.4 / 8.5 / 8.1 / 8.0 | experience: +0.7 vs peer; impact: +0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Impressive walls and living streets. |
+| Uniqueness | 8.5 | Distinct regional fortified townscape. |
+| Significance | 8.7 | Historic Saadian heritage. |
+| Experience | 8.8 | Public walking and markets. |
+| Depth | 8.5 | Multiple interconnected quarters. |
+
+- Applicable categories: architecture:9.1, history:9.0, culture:9.1, photography:8.9.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-oualidia-lagoon — Oualidia Lagoon — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/oualidia-lagoon.yaml)
+- Action: new
+- Precise subject and limitations: Lagoon shore, permitted boat excursions and birdwatching; point from published geosite figure 32°44′21″ N, 9°02′13″ W, decimal rounded. No guaranteed bird sightings or safe swimming; tides and boat availability vary. https://www.nationalgeographic.com/travel/article/oualidia-moroccan-oyster-destination.
+- Location check: 32.739167, -9.036944; [published representative point](https://www.mdpi.com/2071-1050/18/10/4934), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitcasablanca.ma/en/circuits/oualidia/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/khnifiss-lagoon](../../../countries/MA/sights/khnifiss-lagoon.yaml) | 8.7 / 8.9 / 9.0 / 8.5 / 8.0 | significance: -0.9 vs peer; uniqueness: -0.4 vs peer. |
+| [TN/ichkeul-national-park](../../../countries/TN/sights/ichkeul-national-park.yaml) | 8.5 / 8.9 / 9.1 / 8.2 / 8.1 | significance: -1.0 vs peer; experience: +0.6 vs peer. |
+| [MA/legzira-beach](../../../countries/MA/sights/legzira-beach.yaml) | 8.9 / 8.7 / 7.6 / 8.5 / 7.9 | significance: +0.5 vs peer; depth: +0.4 vs peer. |
+| [MA/cape-spartel-hercules-caves](../../../countries/MA/sights/cape-spartel-hercules-caves.yaml) | 8.8 / 8.6 / 8.1 / 8.7 / 8.2 | impact: -0.1 vs peer; experience: +0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Scenic sandbar and sheltered waters. |
+| Uniqueness | 8.5 | Distinct lagoon setting. |
+| Significance | 8.1 | Regional wetland heritage. |
+| Experience | 8.8 | Varied shore and boat experiences. |
+| Depth | 8.3 | Bounded coastal ecosystem. |
+
+- Applicable categories: nature:9.0, wildlife:8.9, photography:9.1, relaxation:9.0.
+- Computed worldwide overall: 85.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-agadir-oufella — Agadir Oufella Kasbah and Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/agadir-oufella.yaml)
+- Action: new
+- Precise subject and limitations: Restored hilltop fortress interior and panorama; official reopening 2024 and guided interpretation https://www.agadir-oufella.ma/en/opening-of-the-kasbah-agadir-oufella/. Distinguish restoration from surviving original walls; current admission conditional.
+- Location check: 30.429581, -9.624212; [published representative point](https://explore-agadirsoussmassa.com/en/idea-walk-architecture-of-agadir/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.agadir-oufella.ma/en/useful-information/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [DZ/santa-cruz-fort](../../../countries/DZ/sights/santa-cruz-fort.yaml) | 9.0 / 8.7 / 8.9 / 8.8 / 8.5 | depth: -0.5 vs peer; impact: -0.4 vs peer. |
+| [TN/kelibia-fort](../../../countries/TN/sights/kelibia-fort.yaml) | 8.7 / 8.7 / 9.0 / 8.6 / 8.4 | depth: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [MA/taourirt-kasbah](../../../countries/MA/sights/taourirt-kasbah.yaml) | 8.7 / 8.7 / 8.9 / 8.2 / 8.3 | experience: +0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [DZ/lalla-setti-viewpoint](../../../countries/DZ/sights/lalla-setti-viewpoint.yaml) | 8.5 / 7.9 / 7.5 / 8.5 / 7.8 | significance: +1.3 vs peer; uniqueness: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Broad city and bay panorama. |
+| Uniqueness | 8.3 | Distinct restored hilltop precinct. |
+| Significance | 8.8 | Important Agadir heritage and memory. |
+| Experience | 8.6 | Interpreted fort visit. |
+| Depth | 8.0 | Compact hilltop site. |
+
+- Applicable categories: history:9.1, photography:9.2, architecture:8.8.
+- Computed worldwide overall: 85.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-fint-oasis — Fint Oasis — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/fint-oasis.yaml)
+- Action: new
+- Precise subject and limitations: Small palm oasis and permitted village paths south of Ouarzazate; distinct from Skoura and Drâa corridor. No private farmland access or water flow guarantee.
+- Location check: 30.81867, -6.96482; [published representative point](https://mapcarta.com/36184828), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitouarzazate.com/en/destinations/fint-oasis); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/skoura-amridil](../../../countries/MA/sights/skoura-amridil.yaml) | 8.9 / 9.0 / 8.8 / 8.7 / 8.6 | significance: -0.9 vs peer; depth: -0.7 vs peer. |
+| [MA/figuig-oasis](../../../countries/MA/sights/figuig-oasis.yaml) | 8.5 / 9.0 / 8.9 / 8.3 / 8.5 | significance: -1.0 vs peer; depth: -0.6 vs peer. |
+| [MA/paradise-valley](../../../countries/MA/sights/paradise-valley.yaml) | 8.6 / 8.4 / 7.7 / 8.5 / 8.1 | significance: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [DZ/timimoun-oasis](../../../countries/DZ/sights/timimoun-oasis.yaml) | 9.0 / 9.1 / 8.7 / 8.7 / 8.8 | depth: -0.9 vs peer; significance: -0.8 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Striking palms against arid hills. |
+| Uniqueness | 8.6 | Distinct intimate oasis setting. |
+| Significance | 7.9 | Regional living landscape. |
+| Experience | 8.6 | Guided or permitted walks. |
+| Depth | 7.9 | Small oasis precinct. |
+
+- Applicable categories: nature:8.9, photography:9.1, culture:8.7, relaxation:8.7.
+- Computed worldwide overall: 84.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-tafraoute-painted-rocks — Tafraoute Painted Rocks — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/tafraoute-painted-rocks.yaml)
+- Action: new
+- Precise subject and limitations: Jean Vérame outdoor painted granite installation; published access track point, not exact sculpture coordinates. Excludes Ammeln valley, Ait Mansour gorge and separate rock art; no climbing or repainting assumed.
+- Location check: 29.672352, -8.972628; [published representative point](https://explore-agadirsoussmassa.com/en/the-painted-rocks-tafraoute/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/the-painted-rocks-tafraoute/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/djerbahood](../../../countries/TN/sights/djerbahood.yaml) | 8.7 / 8.9 / 7.9 / 8.8 / 8.3 | depth: -0.8 vs peer; experience: -0.5 vs peer. |
+| [MA/legzira-beach](../../../countries/MA/sights/legzira-beach.yaml) | 8.9 / 8.7 / 7.6 / 8.5 / 7.9 | impact: -0.4 vs peer; depth: -0.4 vs peer. |
+| [DZ/lalla-setti-viewpoint](../../../countries/DZ/sights/lalla-setti-viewpoint.yaml) | 8.5 / 7.9 / 7.5 / 8.5 / 7.8 | uniqueness: +1.0 vs peer; depth: -0.3 vs peer. |
+| [TN/table-jugurtha](../../../countries/TN/sights/table-jugurtha.yaml) | 9.0 / 9.0 / 8.7 / 8.6 / 8.2 | significance: -1.2 vs peer; depth: -0.7 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Colorful installation amid granite. |
+| Uniqueness | 8.9 | Unusual outdoor land art. |
+| Significance | 7.5 | Regional artistic significance. |
+| Experience | 8.3 | Focused outdoor exploration. |
+| Depth | 7.5 | Compact dispersed installation. |
+
+- Applicable categories: photography:9.1, culture:8.8, nature:8.4.
+- Computed worldwide overall: 82.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

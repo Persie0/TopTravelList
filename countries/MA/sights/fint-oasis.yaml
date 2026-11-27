@@ -1,0 +1,17 @@
+id: sight-ma-fint-oasis
+name: "Fint Oasis"
+location:
+  country_code: MA
+  latitude: 30.81867
+  longitude: -6.96482
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 7.9
+  experience: 8.6
+  depth: 7.9
+  categories:
+    nature: 8.9
+    photography: 9.1
+    culture: 8.7
+    relaxation: 8.7

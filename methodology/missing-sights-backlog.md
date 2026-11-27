@@ -752,3 +752,16 @@ Eight additions, 32 peer rows. Morocco 37 ranked / 45 total; eight prior unasses
 - [x] MA — Dar El Bacha Museum of Confluences: 86.80/100 (source-linked-unverified).
 
 Eight additions and 32 peer rows; Morocco 45 ranked / 53 total. Telouet partial reopening documented; Taourirt access requires confirmation; Legzira collapsed arch excluded; Paradise Valley seasonal. Official Ouarzazate regional guide https://www.visitouarzazate.com/en/destinations/ouarzazate identifies further distinct candidates. Next Souss-Massa National Park, Fint Oasis, Draa Valley (bounded scope), Jbel Saghro, Taroudant walls, Tafraoute painted rocks, Agadir Oufella, Oualidia lagoon. Eight prior unassessed unchanged; full Python validation and independent corroboration pending.
+
+### Pass 68 — Moroccan regional oasis, nature and heritage attractions
+
+- [x] MA — Drâa Valley Oasis Corridor (Agdz–Zagora): 89.15/100 (source-linked-unverified).
+- [x] MA — Jbel Saghro Mountain Landscape: 87.60/100 (source-linked-unverified).
+- [x] MA — Souss-Massa National Park: 88.05/100 (source-linked-unverified).
+- [x] MA — Taroudant Medina and Historic Walls: 86.45/100 (source-linked-unverified).
+- [x] MA — Oualidia Lagoon: 85.05/100 (source-linked-unverified).
+- [x] MA — Agadir Oufella Kasbah and Viewpoint: 85.05/100 (source-linked-unverified).
+- [x] MA — Fint Oasis: 84.20/100 (source-linked-unverified).
+- [x] MA — Tafraoute Painted Rocks: 82.70/100 (source-linked-unverified).
+
+Eight additions and 32 peer rows; Morocco 53 ranked / 61 total. Drâa bounded to Agdz–Zagora, distinct from existing oases and dunes. Agadir Oufella official reopened interior, Tafraoute point access track, Souss-Massa point Rokein visitor center. Regional official itinerary https://explore-agadirsoussmassa.com/en/circuit-the-souss-massa-between-sea-and-mountain/ also identifies distinct Ait Mansour Gorge and fortified granary sites; remaining high-priority screen includes Ourika Valley, Ait Bouguemez, Ait Mansour Gorge, Bin el Ouidane, Imi n’Ifri bridge, Ziz Valley, Amtoudi granaries, and separately visitable major museums. Eight prior unassessed unchanged. Full Python validation and independent corroboration pending.
