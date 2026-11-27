@@ -629,7 +629,7 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Verification still needed: independent corroboration and current access.
 
 
-## sight-dz-notre-dame-afrique-basilica — Notre-Dame d Afrique Basilica and Viewpoint — 2026-11-27
+## sight-dz-notre-dame-afrique-basilica — Notre-Dame d'Afrique Basilica and Viewpoint — 2026-11-27
 
 - YAML: [source](../../../countries/DZ/sights/notre-dame-afrique-basilica.yaml)
 - Action: new

@@ -17,7 +17,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | SA | DONE — current queue | 70 total (64 ranked); named regional heritage candidates resolved, Shubra Palace deferred for restoration. Access and overlap caveats retained; reopen on concrete substantial omission or verified access change. |
 | EG | DONE — current queue | 85 ranked / 85 total; 43 additions since start of Egypt screen. Alexandria and Siwa final candidates resolved; Abusir and Islamic Cemetery deferred for access; Saint Catherine parent retained. Reopen on concrete substantial omission. |
 | TN | DONE — current queue | 59 total (48 ranked); 29 additions in passes 59–62. [Bizerte–Dougga regional inventory](https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga) resolved. Eleven prior unassessed remain separate; El Haouaria and Ghriba access conditional. Reopen on concrete substantial omission. |
-
 | DZ | OPEN | 35 total (25 ranked); ten major urban attractions added. Next bounded regional, museum and distinct desert circuit screen; ten prior unassessed unchanged. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

@@ -695,7 +695,7 @@ Four additions and 16 peer rows. Tunisia 48 ranked / 59 total; 29 additions acro
 - [x] DZ — Constantine Suspension Bridges and Rhumel Gorge: 90.80/100 (source-linked-unverified).
 - [x] DZ — Santa Cruz Fort and Hilltop Chapel: 88.25/100 (source-linked-unverified).
 - [x] DZ — Hamma Botanical Garden: 87.05/100 (source-linked-unverified).
-- [x] DZ — Notre-Dame d Afrique Basilica and Viewpoint: 86.65/100 (source-linked-unverified).
+- [x] DZ — Notre-Dame d'Afrique Basilica and Viewpoint: 86.65/100 (source-linked-unverified).
 - [x] DZ — El Mechouar Palace: 86.75/100 (source-linked-unverified).
 - [x] DZ — Ahmed Bey Palace: 86.75/100 (source-linked-unverified).
 - [x] DZ — Bardo National Museum of Prehistory and Ethnography: 86.65/100 (source-linked-unverified).
