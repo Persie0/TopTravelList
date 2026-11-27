@@ -1,0 +1,17 @@
+id: sight-es-jandia-cofete
+name: "Jandía Natural Park and Cofete Beach"
+location:
+  country_code: ES
+  latitude: 28.108056
+  longitude: -14.396389
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.4
+    beaches: 9.2
+    adventure: 9.0

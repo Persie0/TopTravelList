@@ -850,3 +850,14 @@ Eight additions, 32 peer rows. Spain 126 ranked / 141 total. PortAventura parks 
 - [x] ES — Maspalomas Dunes Special Nature Reserve: 88.10/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Spain 134 ranked / 149 total. Gothic Quarter excludes El Born; Peñíscola castle and old town grouped; Cap de Creus excludes Dalí home; Garrotxa included forest and crater routes. Bardenas military zone excluded; Maspalomas marked paths only. Next high-priority screen: Siam Park Tenerife, Loro Parque (visitor welfare considerations), Anaga Rural Park, Los Gigantes cliffs, Roque Nublo (check Risco Caído scope), Cofete Beach, Jandía, and Corralejo Dunes. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 76 — Canary Islands protected landscapes and leisure attractions
+
+- [x] ES — Anaga Rural Park: 91.30/100 (source-linked-unverified).
+- [x] ES — Los Gigantes Cliffs: 87.45/100 (source-linked-unverified).
+- [x] ES — Jandía Natural Park and Cofete Beach: 88.90/100 (source-linked-unverified).
+- [x] ES — Corralejo Dunes Natural Park: 87.60/100 (source-linked-unverified).
+- [x] ES — Siam Park Tenerife: 87.15/100 (source-linked-unverified).
+- [x] ES — Loro Parque Tenerife: 81.90/100 (source-linked-unverified).
+
+Six additions, 24 peer rows. Spain 140 ranked / 155 total. Cofete grouped with Jandía; Roque Nublo deferred for possible overlap with existing broad Risco Caído/Sacred Mountains landscape, UNESCO astronomy heritage reference https://web.astronomicalheritage.net/show-entity?identity=77&idsubentity=1 links them; exact boundary and visitor-scope distinction unresolved. Current trail reservations https://www.grancanaria.com/turismo/en/naturaleza/deportes-de-montana/senderismo/. Loro Parque welfare dispute documented with both positions, no performance or wild wildlife credit; experience adjusted editorially. Next bounded island screen: Masca gorge (distinct from Los Gigantes cliff viewpoints), Lobos Island, La Geria vineyards, Mirador del Río, César Manrique Foundation, Cueva del Viento, La Palma Roque de los Muchachos (check park overlap), and El Hierro marine excursions. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.

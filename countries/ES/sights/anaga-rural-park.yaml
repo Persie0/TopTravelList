@@ -1,0 +1,17 @@
+id: sight-es-anaga-rural-park
+name: "Anaga Rural Park"
+location:
+  country_code: ES
+  latitude: 28.53086
+  longitude: -16.2802
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.0
+  depth: 9.1
+  categories:
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.3
+    wildlife: 8.8

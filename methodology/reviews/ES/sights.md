@@ -5351,3 +5351,236 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-es-anaga-rural-park — Anaga Rural Park — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/anaga-rural-park.yaml)
+- Action: new
+- Precise subject and limitations: Laurel forest, rugged ridges, coastal villages and authorized hiking routes; Cruz del Carmen visitor centre reference. Permit-only routes and temporary closures respected; no access to protected restricted areas.
+- Location check: 28.53086, -16.2802; [published representative point](https://mapcarta.com/W124733325), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.webtenerife.co.uk/what-see/outdoor-attractions/parque-rural-de-anaga/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/garajonay](../../../countries/ES/sights/garajonay.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 8.8 | significance: -0.4 vs peer; impact: +0.3 vs peer. |
+| [ES/picos](../../../countries/ES/sights/picos.yaml) | 9.4 / 9.2 / 9.0 / 9.3 / 9.4 | experience: -0.3 vs peer; depth: -0.3 vs peer. |
+| [ES/garrotxa-volcanic-park](../../../countries/ES/sights/garrotxa-volcanic-park.yaml) | 8.8 / 8.9 / 8.7 / 8.8 / 8.9 | impact: +0.5 vs peer; uniqueness: +0.3 vs peer. |
+| [MA/talassemtane-national-park](../../../countries/MA/sights/talassemtane-national-park.yaml) | 9.0 / 8.8 / 8.8 / 8.8 / 8.9 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Dramatic ridges and forest. |
+| Uniqueness | 9.2 | Distinct island laurel forest and rugged coast. |
+| Significance | 8.9 | Protected biodiversity and traditional landscape. |
+| Experience | 9.0 | Extensive permitted walks and viewpoints. |
+| Depth | 9.1 | Multiple habitats and routes. |
+
+- Applicable categories: nature:9.4, photography:9.4, adventure:9.3, wildlife:8.8.
+- Computed worldwide overall: 91.30/100.
+- High-score challenge: Above 90: compare Garajonay and other major forest and mountain landscapes; independent challenge pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-los-gigantes-cliffs — Los Gigantes Cliffs — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/los-gigantes-cliffs.yaml)
+- Action: new
+- Precise subject and limitations: Cliff scenery from public shore viewpoints and permitted boat trips; point at published scenic viewpoint. No cliff climbing, wildlife sightings or boat availability guaranteed.
+- Location check: 28.24062, -16.84236; [published representative point](https://mapcarta.com/N947003145), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hellocanaryislands.com/nature-spaces/tenerife/los-gigantes-cliffs/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/gaztelugatxe](../../../countries/ES/sights/gaztelugatxe.yaml) | 9.3 / 9.0 / 8.3 / 8.7 / 8.1 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer. |
+| [ES/cap-de-creus](../../../countries/ES/sights/cap-de-creus.yaml) | 9.0 / 8.8 / 8.7 / 8.8 / 8.8 | depth: -0.6 vs peer; significance: -0.4 vs peer. |
+| [ES/cabo-de-gata](../../../countries/ES/sights/cabo-de-gata.yaml) | 9.0 / 8.8 / 8.6 / 8.9 / 9.0 | depth: -0.8 vs peer; significance: -0.3 vs peer. |
+| [MA/legzira-beach](../../../countries/MA/sights/legzira-beach.yaml) | 8.9 / 8.7 / 7.6 / 8.5 / 7.9 | significance: +0.7 vs peer; impact: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Massive sea cliffs. |
+| Uniqueness | 8.8 | Distinct volcanic coastal escarpment. |
+| Significance | 8.3 | Regional geological heritage. |
+| Experience | 8.7 | Public viewpoints and conditional boat trips. |
+| Depth | 8.2 | Focused coastal scenery. |
+
+- Applicable categories: nature:9.2, photography:9.4, adventure:8.8.
+- Computed worldwide overall: 87.45/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-jandia-cofete — Jandía Natural Park and Cofete Beach — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/jandia-cofete.yaml)
+- Action: new
+- Precise subject and limitations: Jandía massif, permitted walking routes, Cofete viewpoints and beach grouped. Beach point from Spanish meteorological agency. No separate Cofete entry; official trail https://www.visitfuerteventura.com/en/hiking/fuerteventura/gran-valle/ links park and beach. Strong surf, road and trail conditions; swimming not assumed.
+- Location check: 28.108056, -14.396389; [published representative point](https://www.aemet.es/en/eltiempo/prediccion/playas/el-cofete-3501503), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitfuerteventura.com/en/nature-spaces/fuerteventura/jandia-natural-park/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/cabo-de-gata](../../../countries/ES/sights/cabo-de-gata.yaml) | 9.0 / 8.8 / 8.6 / 8.9 / 9.0 | experience: -0.2 vs peer; impact: +0.2 vs peer. |
+| [ES/maspalomas-dunes](../../../countries/ES/sights/maspalomas-dunes.yaml) | 9.1 / 8.9 / 8.5 / 8.7 / 8.5 | depth: +0.3 vs peer; impact: +0.1 vs peer. |
+| [ES/cap-de-creus](../../../countries/ES/sights/cap-de-creus.yaml) | 9.0 / 8.8 / 8.7 / 8.8 / 8.8 | impact: +0.2 vs peer; experience: -0.1 vs peer. |
+| [MA/legzira-beach](../../../countries/MA/sights/legzira-beach.yaml) | 8.9 / 8.7 / 7.6 / 8.5 / 7.9 | significance: +1.0 vs peer; depth: +0.9 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Remote mountain and coastal scenery. |
+| Uniqueness | 8.9 | Distinct wild peninsula landscape. |
+| Significance | 8.6 | Protected regional habitats. |
+| Experience | 8.7 | Varied authorized walks and viewpoints. |
+| Depth | 8.8 | Extensive coast and massif. |
+
+- Applicable categories: nature:9.3, photography:9.4, beaches:9.2, adventure:9.0.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-corralejo-dunes — Corralejo Dunes Natural Park — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/corralejo-dunes.yaml)
+- Action: new
+- Precise subject and limitations: Protected dune field and adjacent beaches; representative interior point corroborated approximately by geotagged photographs https://commons.wikimedia.org/wiki/File:Dunas_de_Corralejo.jpg. Authorized access only; not an entrance or recommended cross-country route.
+- Location check: 28.683827, -13.84878; [published representative point](https://turisonroad.com/modules/turismo/ficha.php?slug=parque-natural-dunas-de-corralejo), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/nature/dunas-corralejo-natural-park/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/maspalomas-dunes](../../../countries/ES/sights/maspalomas-dunes.yaml) | 9.1 / 8.9 / 8.5 / 8.7 / 8.5 | experience: +0.1 vs peer; impact: -0.1 vs peer. |
+| [MA/erg-chebbi](../../../countries/MA/sights/erg-chebbi.yaml) | 9.5 / 9.0 / 8.5 / 9.1 / 8.6 | impact: -0.5 vs peer; experience: -0.3 vs peer. |
+| [ES/cabo-de-gata](../../../countries/ES/sights/cabo-de-gata.yaml) | 9.0 / 8.8 / 8.6 / 8.9 / 9.0 | depth: -0.6 vs peer; significance: -0.1 vs peer. |
+| [MA/oualidia-lagoon](../../../countries/MA/sights/oualidia-lagoon.yaml) | 8.7 / 8.5 / 8.1 / 8.8 / 8.3 | significance: +0.4 vs peer; impact: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Wide dunes and turquoise coast. |
+| Uniqueness | 8.8 | Distinct island sand field. |
+| Significance | 8.5 | Protected coastal habitats. |
+| Experience | 8.8 | Permitted dune and shore visits. |
+| Depth | 8.4 | Several landscapes within reserve. |
+
+- Applicable categories: nature:9.1, photography:9.3, beaches:9.2, relaxation:9.0.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-siam-park-tenerife — Siam Park Tenerife — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/siam-park-tenerife.yaml)
+- Action: new
+- Precise subject and limitations: Water park with themed rides, wave pools and family areas; current operating attractions and height/health restrictions conditional. Operator visitor information https://www.siam-park.com/info.
+- Location check: 28.0722, -16.72556; [published representative point](https://mapcarta.com/27600708), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.webtenerife.co.uk/what-to-do/leisure/parks/siam-park/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/portaventura-world](../../../countries/ES/sights/portaventura-world.yaml) | 9.1 / 8.9 / 7.9 / 9.4 / 9.3 | depth: -0.4 vs peer; impact: -0.2 vs peer. |
+| [ES/city-arts-sciences](../../../countries/ES/sights/city-arts-sciences.yaml) | 9.4 / 9.3 / 8.9 / 9.3 / 9.1 | significance: -1.1 vs peer; impact: -0.5 vs peer. |
+| [MA/atlas-film-studios](../../../countries/MA/sights/atlas-film-studios.yaml) | 8.7 / 9.0 / 8.3 / 8.8 / 8.6 | significance: -0.5 vs peer; experience: +0.5 vs peer. |
+| [ES/drach-caves](../../../countries/ES/sights/drach-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | significance: -0.7 vs peer; experience: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large themed water park. |
+| Uniqueness | 8.8 | Distinct water ride and theming combination. |
+| Significance | 7.8 | Regional leisure significance. |
+| Experience | 9.3 | Wide range of water attractions. |
+| Depth | 8.9 | Multiple visitor zones. |
+
+- Applicable categories: family:9.3, adventure:9.3, relaxation:8.8.
+- Computed worldwide overall: 87.15/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-loro-parque — Loro Parque Tenerife — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/loro-parque.yaml)
+- Action: new
+- Precise subject and limitations: Zoo exhibits and landscaped grounds, not a wild wildlife experience. Captive cetacean welfare is disputed: animal welfare NGO https://www.worldanimalprotection.org/latest/news/marineland-orcas-loro-parque-transfer-concerns/ and park response https://www.loroparque.com/en/in-relation-to-dolphins-project-article-complex-animals-barren-enclosures-at-loro-parque/. No credit for cetacean performances or assumed conservation outcomes; experience rating reduced for documented ethical concern. Not an unqualified recommendation.
+- Location check: 28.40861, -16.5649; [published representative point](https://mapcarta.com/27600702), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.loroparque.com/en/plan-visit-loro-parque/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/city-arts-sciences](../../../countries/ES/sights/city-arts-sciences.yaml) | 9.4 / 9.3 / 8.9 / 9.3 / 9.1 | experience: -1.5 vs peer; uniqueness: -1.1 vs peer. |
+| [ES/portaventura-world](../../../countries/ES/sights/portaventura-world.yaml) | 9.1 / 8.9 / 7.9 / 9.4 / 9.3 | experience: -1.6 vs peer; depth: -0.8 vs peer. |
+| [MA/atlas-film-studios](../../../countries/MA/sights/atlas-film-studios.yaml) | 8.7 / 9.0 / 8.3 / 8.8 / 8.6 | experience: -1.0 vs peer; uniqueness: -0.8 vs peer. |
+| [ES/bernabeu-tour](../../../countries/ES/sights/bernabeu-tour.yaml) | 8.8 / 8.9 / 8.8 / 8.6 / 8.3 | significance: -0.8 vs peer; experience: -0.8 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Varied landscaped exhibits. |
+| Uniqueness | 8.2 | Large but familiar zoo format. |
+| Significance | 8.0 | Regional leisure and educational significance. |
+| Experience | 7.8 | Welfare concerns reduce visitor recommendation. |
+| Depth | 8.5 | Multiple exhibits and grounds. |
+
+- Applicable categories: family:8.3, culture:8.0.
+- Computed worldwide overall: 81.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
