@@ -607,3 +607,290 @@ Ranking rows checked; peer YAML verification pending.
 - Overall: 86.30/100.
 - Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
+
+## sight-nc-prony-needle — Aiguille de Prony Hydrothermal Chimney Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/prony-needle.yaml)
+- Action: new
+- Scope: Dedicated hydrothermal mineral chimney dive in Prony Bay; no generic coral reef or terrestrial village heritage credit. Representative bay coordinate, exact dive location unverified.
+- Representative coordinates: -22.35, 166.82; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.1 / 9.0.
+- Categories: adventure:9.4,nature:9.4,wildlife:9.3.
+- Overall: 92.05/100.
+- Decision: Source-informed provisional assessment from indexed tourism/scientific excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.newcaledonia.travel/offers/aiguille-de-prony-mont-dore-en-3913613/ ; https://www.newcaledonia.travel/offers/diving-trip-to-the-aiguille-de-prony-mobula-diving-mont-dore-en-4152501/ ; https://pmc.ncbi.nlm.nih.gov/articles/PMC4551099/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/new-caledonia-lagoons](../../../countries/NC/sights/new-caledonia-lagoons.yaml) | 9.4 / 9.4 / 9.5 / 9.3 / 9.2 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [NC/oro-natural-pool](../../../countries/NC/sights/oro-natural-pool.yaml) | 9.2 / 8.9 / 8.0 / 9.1 / 7.8 | significance: +1.3 vs peer; depth: +1.2 vs peer |
+| [NC/koumac-caves](../../../countries/NC/sights/koumac-caves.yaml) | 8.6 / 8.8 / 8.4 / 8.7 / 8.6 | significance: +0.9 vs peer; uniqueness: +0.6 vs peer |
+| [NC/prony-village](../../../countries/NC/sights/prony-village.yaml) | 8.4 / 8.8 / 8.8 / 8.6 / 8.6 | impact: +0.7 vs peer; uniqueness: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-gr-nord — GR Nord Central Range Trek and Kanak Community Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/gr-nord.yaml)
+- Action: new
+- Scope: Multistage northern traverse with community-hosted cultural encounters by arrangement; distinct from single park day hikes. No assumption of unrestricted customary land access; representative northern route area.
+- Representative coordinates: -21.1, 165.31; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.1 / 9.2 / 9.3.
+- Categories: adventure:9.4,culture:9.4,nature:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from indexed tourism/scientific excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.newcaledonia.travel/activities/preserved-nature/gr-north/ ; https://www.newcaledonia.travel/offers/gr-nord-kone-en-4059053/ ; https://www.newcaledonia.travel/activities/preserved-nature/top-hiking-trails/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/grandes-fougeres](../../../countries/NC/sights/grandes-fougeres.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [NC/blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | experience: +0.5 vs peer; depth: +0.4 vs peer |
+| [NC/deva-forest](../../../countries/NC/sights/deva-forest.yaml) | 8.9 / 8.9 / 8.8 / 9.0 / 9.1 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+| [NC/hienghene-rocks](../../../countries/NC/sights/hienghene-rocks.yaml) | 9.0 / 9.0 / 8.2 / 8.7 / 8.2 | depth: +1.1 vs peer; significance: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-southern-whales — Great South Seasonal Humpback Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/southern-whales.yaml)
+- Action: new
+- Scope: Seasonal dedicated boat-based wildlife observation departing Prony or Nouméa; no guaranteed sightings, swimming, or independent generic lagoon scenery credit. Representative Prony departure area.
+- Representative coordinates: -22.35, 166.82; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.8 / 9.2 / 8.9.
+- Categories: wildlife:9.4,nature:9.3,photography:9.3.
+- Overall: 90.35/100.
+- Decision: Source-informed provisional assessment from indexed tourism/scientific excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.newcaledonia.travel/activities/heavenly-lagoon/whale-watching/ ; https://www.newcaledonia.travel/offers/caledonie-charter-noumea-en-3914212/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/new-caledonia-lagoons](../../../countries/NC/sights/new-caledonia-lagoons.yaml) | 9.4 / 9.4 / 9.5 / 9.3 / 9.2 | significance: -0.7 vs peer; impact: -0.3 vs peer |
+| [NC/amedee-lighthouse](../../../countries/NC/sights/amedee-lighthouse.yaml) | 8.6 / 8.5 / 8.0 / 8.8 / 8.0 | depth: +0.9 vs peer; significance: +0.8 vs peer |
+| [NC/lekiny-cliffs](../../../countries/NC/sights/lekiny-cliffs.yaml) | 8.8 / 8.5 / 8.1 / 8.4 / 7.6 | depth: +1.3 vs peer; experience: +0.8 vs peer |
+| [NC/blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | experience: +0.5 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-luengoni-caves — Luengöni Jewels Limestone Caves and Beach Lifou — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/luengoni-caves.yaml)
+- Action: new
+- Scope: Guided limestone galleries and subterranean pools combined with adjacent beach; customary permission and qualified guide as applicable, no generic reef credit.
+- Representative coordinates: -21.02, 167.4; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 8.7 / 9.2 / 9.0.
+- Categories: adventure:9.4,nature:9.4,photography:9.3.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from indexed tourism/scientific excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.newcaledonia.travel/destination/the-islands/luengoni-jewels-and-beach/ ; https://www.newcaledonia.travel/offers/luengoni-cave-lifou-en-3915343/ ; https://www.newcaledonia.travel/offers/visit-of-the-jewels-of-luengoni-lifou-en-3914644/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/oro-natural-pool](../../../countries/NC/sights/oro-natural-pool.yaml) | 9.2 / 8.9 / 8.0 / 9.1 / 7.8 | depth: +1.2 vs peer; significance: +0.7 vs peer |
+| [NC/koumac-caves](../../../countries/NC/sights/koumac-caves.yaml) | 8.6 / 8.8 / 8.4 / 8.7 / 8.6 | uniqueness: +0.5 vs peer; experience: +0.5 vs peer |
+| [NC/mouli-beach](../../../countries/NC/sights/mouli-beach.yaml) | 9.0 / 8.3 / 6.8 / 8.8 / 7.0 | depth: +2.0 vs peer; significance: +1.9 vs peer |
+| [NC/jokin-cliffs](../../../countries/NC/sights/jokin-cliffs.yaml) | 8.7 / 8.4 / 7.9 / 8.5 / 7.5 | depth: +1.5 vs peer; uniqueness: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-madeleine-falls — Chutes de la Madeleine Endemic Flora Reserve and Waterfall — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/madeleine-falls.yaml)
+- Action: new
+- Scope: Separate reserve and maquis minier botanical trail, not Blue River park or generic Great South scenery.
+- Representative coordinates: -22.22, 166.86; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.0 / 8.8 / 8.9.
+- Categories: nature:9.4,photography:9.3,wildlife:9.2.
+- Overall: 89.25/100.
+- Decision: Source-informed provisional assessment from indexed tourism/scientific excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.newcaledonia.travel/offers/madeleine-falls-yate-en-3914693/ ; https://www.newcaledonia.travel/destination/great-south/yate-guide/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [NC/grandes-fougeres](../../../countries/NC/sights/grandes-fougeres.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-heart-of-voh — Heart of Voh Mangrove Landscape and Mount Kathépaï Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/heart-of-voh.yaml)
+- Action: new
+- Scope: Natural mangrove formation and terrestrial observation route; no guarantee of aerial visibility from ground.
+- Representative coordinates: -20.98, 164.67; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.5 / 8.7 / 8.6.
+- Categories: photography:9.4,nature:9.3,adventure:9.1.
+- Overall: 88.10/100.
+- Decision: Source-informed provisional assessment from indexed tourism/scientific excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.newcaledonia.travel/destination/west-coast/heart-of-voh/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/hienghene-rocks](../../../countries/NC/sights/hienghene-rocks.yaml) | 9.0 / 9.0 / 8.2 / 8.7 / 8.2 | depth: +0.4 vs peer; significance: +0.3 vs peer |
+| [NC/deva-forest](../../../countries/NC/sights/deva-forest.yaml) | 8.9 / 8.9 / 8.8 / 9.0 / 9.1 | depth: -0.5 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-dogny-plateau — Dogny Plateau Sarraméa Mountain Trail — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/dogny-plateau.yaml)
+- Action: new
+- Scope: Separate strenuous plateau trail and local waterfall landscape.
+- Representative coordinates: -21.63, 165.88; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.0 / 8.9.
+- Categories: adventure:9.3,nature:9.3,photography:9.3.
+- Overall: 88.35/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/grandes-fougeres](../../../countries/NC/sights/grandes-fougeres.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer |
+| [NC/pic-nga](../../../countries/NC/sights/pic-nga.yaml) | 8.8 / 8.7 / 8.4 / 8.9 / 8.6 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-tao-waterfall — Tao Waterfall and Ouaième Valley Scenic Trails — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/tao-waterfall.yaml)
+- Action: new
+- Scope: Waterfall and nearby valley scenery; access subject to local manager and weather.
+- Representative coordinates: -20.57, 164.78; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.4 / 8.8 / 8.6.
+- Categories: photography:9.3,nature:9.3,adventure:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/hienghene-rocks](../../../countries/NC/sights/hienghene-rocks.yaml) | 9.0 / 9.0 / 8.2 / 8.7 / 8.2 | depth: +0.4 vs peer; impact: -0.2 vs peer |
+| [NC/koumac-caves](../../../countries/NC/sights/koumac-caves.yaml) | 8.6 / 8.8 / 8.4 / 8.7 / 8.6 | impact: +0.2 vs peer; experience: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-dumbea-park — Dumbéa Natural Park River Valley and Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/dumbea-park.yaml)
+- Action: new
+- Scope: Separate river valley and terrestrial trails; no GR Sud full traverse duplicate.
+- Representative coordinates: -22.12, 166.49; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.9 / 8.8.
+- Categories: nature:9.3,adventure:9.3,photography:9.2.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | significance: -0.6 vs peer; uniqueness: -0.4 vs peer |
+| [NC/deva-forest](../../../countries/NC/sights/deva-forest.yaml) | 8.9 / 8.9 / 8.8 / 9.0 / 9.1 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-mare-shabadran — Shabadran Maré Coastal Cliffs and Terrace Hike — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/mare-shabadran.yaml)
+- Action: new
+- Scope: Customary guided coastal hike; no additional whale watching score.
+- Representative coordinates: -21.63, 168.08; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.3 / 8.9 / 8.6.
+- Categories: photography:9.4,nature:9.3,adventure:9.2.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/jokin-cliffs](../../../countries/NC/sights/jokin-cliffs.yaml) | 8.7 / 8.4 / 7.9 / 8.5 / 7.5 | depth: +1.1 vs peer; uniqueness: +0.6 vs peer |
+| [NC/lekiny-cliffs](../../../countries/NC/sights/lekiny-cliffs.yaml) | 8.8 / 8.5 / 8.1 / 8.4 / 7.6 | depth: +1.0 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-lifou-vanilla — Maison de la Vanille Lifou Vanilla Cultivation and Kanak Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/lifou-vanilla.yaml)
+- Action: new
+- Scope: Named vanilla interpretation and cultivation visit, distinct from coastal scenery; exact entrance pending.
+- Representative coordinates: -20.8, 167.15; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.7 / 8.7 / 8.7.
+- Categories: culture:9.3,food:9.2,history:9.1.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/tjibaou-cultural-centre](../../../countries/NC/sights/tjibaou-cultural-centre.yaml) | 8.7 / 9.1 / 8.8 / 8.7 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [NC/prony-village](../../../countries/NC/sights/prony-village.yaml) | 8.4 / 8.8 / 8.8 / 8.6 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-noumea-city-museum — Musée de la Ville de Nouméa Urban History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/noumea-city-museum.yaml)
+- Action: new
+- Scope: Independent city history collections in historic building; current access to be verified.
+- Representative coordinates: -22.271, 166.442; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.8 / 8.5 / 8.7.
+- Categories: history:9.3,culture:9.2,architecture:9.1.
+- Overall: 85.75/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/noumea-wwii-museum](../../../countries/NC/sights/noumea-wwii-museum.yaml) | 8.4 / 8.7 / 8.9 / 8.7 / 8.7 | experience: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [NC/noumea-maritime](../../../countries/NC/sights/noumea-maritime.yaml) | 8.7 / 8.9 / 9.0 / 8.8 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-nc-goro-wadiana — Wadiana Goro Waterfall and Forest Pools — 2026-11-27
+
+- YAML: [source](../../../countries/NC/sights/goro-wadiana.yaml)
+- Action: new
+- Scope: Separate named waterfall and local pools; customary permissions and safety conditions apply.
+- Representative coordinates: -22.28, 166.96; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.3 / 8.8 / 8.5.
+- Categories: nature:9.2,photography:9.3,relaxation:9.0.
+- Overall: 85.60/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NC/blue-river-park](../../../countries/NC/sights/blue-river-park.yaml) | 8.9 / 9.1 / 9.1 / 8.7 / 8.9 | significance: -0.8 vs peer; uniqueness: -0.5 vs peer |
+| [NC/koumac-caves](../../../countries/NC/sights/koumac-caves.yaml) | 8.6 / 8.8 / 8.4 / 8.7 / 8.6 | uniqueness: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

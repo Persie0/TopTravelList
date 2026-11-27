@@ -2842,3 +2842,22 @@ Regional overview: https://www.france.fr/fr/destination/mayotte/ ; https://touri
 - [x] PF — Rurutu Ana Aeo and Ana Taupee Limestone Caves: 88.30/100 (desk-based provisional).
 
 15 additions, 5 desk-based provisional, 10 source-informed, 9 90+, 48 domestic ranking-row comparisons. French Polynesia 40 ranked / 40 total. Bounded queue closed; separate northern Fakarava pass, Tikehau combined, no repeated Marquesas UNESCO components, Te Pari and Otemanu deferred for coastal/lagoon scope uncertainty. Rapa fortified landscape documented (https://whc.unesco.org/document/10062) but community visitor access/permissions and distinct route need confirmation. No generic archipelago-wide whale or diving duplicates. Prior scores preserved. Next: New Caledonia. Full Python validation pending.
+
+
+### Pass 181 — New Caledonia remaining priority queue
+
+- [x] NC — Aiguille de Prony Hydrothermal Chimney Scuba Diving: 92.05/100 (source-linked-unverified).
+- [x] NC — GR Nord Central Range Trek and Kanak Community Heritage: 91.60/100 (source-linked-unverified).
+- [x] NC — Great South Seasonal Humpback Whale Watching: 90.35/100 (source-linked-unverified).
+- [x] NC — Luengöni Jewels Limestone Caves and Beach Lifou: 90.45/100 (source-linked-unverified).
+- [x] NC — Chutes de la Madeleine Endemic Flora Reserve and Waterfall: 89.25/100 (source-linked-unverified).
+- [x] NC — Heart of Voh Mangrove Landscape and Mount Kathépaï Viewpoint: 88.10/100 (source-linked-unverified).
+- [x] NC — Dogny Plateau Sarraméa Mountain Trail: 88.35/100 (desk-based provisional).
+- [x] NC — Tao Waterfall and Ouaième Valley Scenic Trails: 87.00/100 (desk-based provisional).
+- [x] NC — Dumbéa Natural Park River Valley and Hiking: 87.00/100 (desk-based provisional).
+- [x] NC — Shabadran Maré Coastal Cliffs and Terrace Hike: 87.75/100 (desk-based provisional).
+- [x] NC — Maison de la Vanille Lifou Vanilla Cultivation and Kanak Heritage: 86.90/100 (desk-based provisional).
+- [x] NC — Musée de la Ville de Nouméa Urban History Collections: 85.75/100 (desk-based provisional).
+- [x] NC — Wadiana Goro Waterfall and Forest Pools: 85.60/100 (desk-based provisional).
+
+Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-see-and-do-in-lifou/ ; https://www.newcaledonia.travel/destination/east-coast/top-east-coast-experiences/ ; https://www.newcaledonia.travel/destination/great-south/top-experiences/ ; https://www.newcaledonia.travel/activities/preserved-nature/top-hiking-trails/ ; https://whc.unesco.org/en/list/1115/maps/ . 13 additions, 7 desk-based provisional, 6 source-informed, 4 90+, 34 domestic ranking-row comparisons. New Caledonia 32 ranked / 32 total. Bounded queue closed; no generic reef duplicates or individual GR Nord stages. Mont Panié summit deferred pending customary access, GR Sud pending parent scope; Jinek and Upi Bay not duplicated. Exact UNESCO boundaries not spatially verified. Existing scores preserved. All previously open French overseas priority queues now closed. Next: review remaining paused worldwide country queues and select next country; unassessed records remain separate. Full Python validation pending.
