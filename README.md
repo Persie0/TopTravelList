@@ -301,7 +301,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Spain](countries/ES/) (`ES`) | [22](countries/ES/cities.md) | [192](countries/ES/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Spain) |
 | [Sri Lanka](countries/LK/) (`LK`) | [55](countries/LK/cities.md) | [178](countries/LK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Sri%20Lanka) |
 | [Sudan](countries/SD/) (`SD`) | [9](countries/SD/cities.md) | [26](countries/SD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Sudan) |
-| [Suriname](countries/SR/) (`SR`) | [20](countries/SR/cities.md) | [37](countries/SR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Suriname) |
+| [Suriname](countries/SR/) (`SR`) | [20](countries/SR/cities.md) | [49](countries/SR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Suriname) |
 | [Svalbard and Jan Mayen](countries/SJ/) (`SJ`) | [2](countries/SJ/cities.md) | [12](countries/SJ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Svalbard%20and%20Jan%20Mayen) |
 | [Sweden](countries/SE/) (`SE`) | [23](countries/SE/cities.md) | [66](countries/SE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Sweden) |
 | [Switzerland](countries/CH/) (`CH`) | [20](countries/CH/cities.md) | [46](countries/CH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Switzerland) |
