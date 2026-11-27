@@ -8528,3 +8528,347 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 235 scope decisions
 
 18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 342 ranked / 345 total. Quetico Canadian side only; Tweedsmuir southern interior excludes coastal Great Bear; Northern Rocky Mountains, Stone Mountain and Muncho Lake separate parks, larger Muskwa-Kechika umbrella deferred; Woodland Caribou deferred pending Pimachiowin Aki overlap review. Just For Laughs organiser confirms July 2026 edition; no future schedule assumed. Glenbow normal-condition rating, redevelopment/access unverified. Existing scores and three unassessed retained. Coordinates approximate. Queue remains open for explicit remaining scope and overlap screening; no exhaustive coverage claimed.
+
+## sight-ca-manito-ahbee — Manito Ahbee Festival Winnipeg Indigenous Arts and Powwow — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/manito-ahbee.yaml)
+- Action: new
+- Scope: Public Indigenous arts, music and dance festival; Tourism Winnipeg identifies the powwow as among Canada's largest; 2026 edition documented. No private ceremonial access or photography permissions assumed.
+- Representative coordinates: 49.893, -97.143; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 92.15/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.manitoahbee.com/about-us/history, https://www.manitoahbee.com/events/pow-wow/about, https://www.tourismwinnipeg.com/festivals-and-events/annual-festivals-and-events/display%2Clisting/05925/manito-ahbee-festival.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/folklorama](../../../countries/CA/sights/folklorama.yaml) | 9.2 / 9.3 / 9.3 / 9.4 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [CA/festival-du-voyageur](../../../countries/CA/sights/festival-du-voyageur.yaml) | 8.7 / 8.8 / 8.9 / 9.0 / 8.7 | impact: +0.4 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-nova-scotia-tattoo — Royal Nova Scotia International Tattoo Halifax — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/nova-scotia-tattoo.yaml)
+- Action: new
+- Scope: Indoor music, dance and military heritage event since 1979. Organizer and Department of National Defence describe it as the largest annual indoor show globally; attributed claim, not independently measured.
+- Representative coordinates: 44.647, -63.577; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.1 / 9.3 / 9.1.
+- Categories: culture:9.4 history:9.3 nightlife:9.2.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://nstattoo.ca/corporate-giving/, https://www.canada.ca/en/department-national-defence/corporate/video/dt-news/2023/07-13-dtnews.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/celtic-colours](../../../countries/CA/sights/celtic-colours.yaml) | 9.0 / 9.3 / 9.1 / 9.2 / 9.2 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-village-historique-acadien — Village Historique Acadien New Brunswick Living History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/village-historique-acadien.yaml)
+- Action: new
+- Scope: Approximately forty historic buildings along a 2.2 km path interpreting Acadian life from 1770 to 1949. Separate from Grand Pré.
+- Representative coordinates: 47.788, -65.141; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.2 / 9.2.
+- Categories: history:9.4 culture:9.4 family:9.3.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://villagehistoriqueacadien.com/en/site/, https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=6222.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/upper-canada-village](../../../countries/CA/sights/upper-canada-village.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 8.9 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [CA/val-jalbert](../../../countries/CA/sights/val-jalbert.yaml) | 8.8 / 9.0 / 9.1 / 9.1 / 9.0 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-niagara-power-station — Niagara Parks Power Station Industrial Heritage and Tunnel — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/niagara-power-station.yaml)
+- Action: new
+- Scope: Hydroelectric machinery, engineering history and former discharge tunnel, about 2,200 feet long per Niagara Parks. Excludes already-ranked terminal waterfall views from assessment.
+- Representative coordinates: 43.077, -79.077; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.0.
+- Categories: history:9.4 architecture:9.3 adventure:9.2.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.niagaraparks.com/attractions/niagara-parks-power-station/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/britannia-mine](../../../countries/CA/sights/britannia-mine.yaml) | 8.7 / 8.9 / 8.9 / 9.0 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [CA/diefenbunker](../../../countries/CA/sights/diefenbunker.yaml) | 8.9 / 9.3 / 9.3 / 8.9 / 9.2 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-bard-on-the-beach — Bard on the Beach Shakespeare Festival Vancouver — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/bard-on-the-beach.yaml)
+- Action: new
+- Scope: Professional summer theatre festival since 1990; organizer reports two performance tents and average attendance of 80,000. Excludes Vanier Park and Museum of Vancouver sightseeing.
+- Representative coordinates: 49.277, -123.144; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 9.3 / 9.2.
+- Categories: culture:9.4 nightlife:9.2 photography:9.1.
+- Overall: 90.35/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bardonthebeach.org/about-us/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/shaw-festival](../../../countries/CA/sights/shaw-festival.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/stratford-festival](../../../countries/CA/sights/stratford-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.3 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-sea-to-sky-gondola — Sea to Sky Gondola Squamish Alpine Viewpoints and Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/sea-to-sky-gondola.yaml)
+- Action: new
+- Scope: Gondola and summit trails only; excludes independent Chief hiking.
+- Representative coordinates: 49.676, -123.156; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.6 / 8.3 / 9.0 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:9.2.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/grouse-mountain](../../../countries/CA/sights/grouse-mountain.yaml) | 8.7 / 8.5 / 8.1 / 8.9 / 8.6 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-stawamus-chief — Stawamus Chief Provincial Park Granite Summit Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/stawamus-chief.yaml)
+- Action: new
+- Scope: Independent granite summit trails and climbing landscape; excludes gondola experience.
+- Representative coordinates: 49.683, -123.147; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 8.8 / 8.6.
+- Categories: adventure:9.3 photography:9.4 nature:9.3.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/garibaldi](../../../countries/CA/sights/garibaldi.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [CA/bugaboo-park](../../../countries/CA/sights/bugaboo-park.yaml) | 9.3 / 9.3 / 8.8 / 9.0 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-gatineau-park — Gatineau Park Forest Lakes and Lookouts — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/gatineau-park.yaml)
+- Action: new
+- Scope: Conservation park trails and viewpoints; excludes Ottawa urban sights.
+- Representative coordinates: 45.52, -75.91; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.5 / 8.9 / 8.8.
+- Categories: nature:9.3 adventure:9.2 photography:9.2.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/jacques-cartier-park](../../../countries/CA/sights/jacques-cartier-park.yaml) | 8.8 / 8.7 / 8.5 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [CA/mont-royal-park](../../../countries/CA/sights/mont-royal-park.yaml) | 8.7 / 8.4 / 8.6 / 8.8 / 8.8 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-centre-architecture — Canadian Centre for Architecture Montréal — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-centre-architecture.yaml)
+- Action: new
+- Scope: Public architectural exhibitions and collections; no private archive access assumed.
+- Representative coordinates: 45.491, -73.578; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.0 / 8.6 / 9.0.
+- Categories: architecture:9.4 culture:9.3 history:9.2.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/studio-bell](../../../countries/CA/sights/studio-bell.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [CA/mnbaq](../../../countries/CA/sights/mnbaq.yaml) | 8.8 / 8.8 / 9.0 / 8.8 / 9.1 | impact: -0.3 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montreal-biosphere — Biosphère Montréal Environment Museum and Geodesic Dome — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montreal-biosphere.yaml)
+- Action: new
+- Scope: Environmental museum in former Expo 67 dome, separate from Biodôme and Olympic Park.
+- Representative coordinates: 45.514, -73.531; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.8 / 8.8 / 8.7.
+- Categories: architecture:9.4 nature:9.2 family:9.2.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-biodome](../../../countries/CA/sights/montreal-biodome.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-rideau-hall — Rideau Hall Ottawa Official Residence and Grounds — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/rideau-hall.yaml)
+- Action: new
+- Scope: Public heritage interpretation and grounds; no private access assumed.
+- Representative coordinates: 45.444, -75.686; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 9.0 / 8.5 / 8.6.
+- Categories: history:9.3 architecture:9.2 culture:9.1.
+- Overall: 86.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/parliament-hill](../../../countries/CA/sights/parliament-hill.yaml) | 8.8 / 8.8 / 9.1 / 8.6 / 8.4 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [CA/bc-parliament](../../../countries/CA/sights/bc-parliament.yaml) | 8.5 / 8.6 / 8.9 / 8.7 / 8.6 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-highland-village — Highland Village Museum Iona Cape Breton Gaelic Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/highland-village.yaml)
+- Action: new
+- Scope: Gaelic living history and historic buildings; excludes Celtic Colours performances.
+- Representative coordinates: 45.956, -60.807; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.9 / 8.8 / 8.9.
+- Categories: culture:9.3 history:9.3 photography:9.2.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/sherbrooke-village](../../../countries/CA/sights/sherbrooke-village.yaml) | 8.4 / 8.5 / 8.8 / 8.7 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.3 vs peer |
+| [CA/celtic-colours](../../../countries/CA/sights/celtic-colours.yaml) | 9.0 / 9.3 / 9.1 / 9.2 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-halifax-waterfront — Halifax Waterfront Boardwalk and Harbour Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/halifax-waterfront.yaml)
+- Action: new
+- Scope: Public waterfront walk and harbour; excludes Pier 21 and Maritime Museum interiors.
+- Representative coordinates: 44.646, -63.571; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.3 / 8.5 / 8.9 / 8.5.
+- Categories: photography:9.2 food:9.1 relaxation:9.2.
+- Overall: 85.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/granville-island](../../../countries/CA/sights/granville-island.yaml) | 8.1 / 8.2 / 7.8 / 8.8 / 8.7 | impact: +0.4 vs peer; uniqueness: +0.1 vs peer |
+| [CA/forks-winnipeg](../../../countries/CA/sights/forks-winnipeg.yaml) | 8.5 / 8.6 / 9.0 / 8.8 / 8.8 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-lennox — Fort Lennox National Historic Site Île aux Noix — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-lennox.yaml)
+- Action: new
+- Scope: Island fort and public heritage interpretation.
+- Representative coordinates: 45.12, -73.27; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 9.0 / 8.6 / 8.8.
+- Categories: history:9.3 architecture:9.2 culture:9.1.
+- Overall: 86.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fortress-of-coteau-du-lac](../../../countries/CA/sights/fortress-of-coteau-du-lac.yaml) | 8.2 / 8.6 / 8.9 / 8.4 / 8.6 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [CA/fort-henry](../../../countries/CA/sights/fort-henry.yaml) | 8.6 / 8.6 / 9.0 / 8.8 / 8.8 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-inuvik-igloo-church — Our Lady of Victory Igloo Church Inuvik — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/inuvik-igloo-church.yaml)
+- Action: new
+- Scope: Distinctive church architecture, separate from highway route; respectful exterior or authorized interior visit only.
+- Representative coordinates: 68.36, -133.72; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.9 / 8.5 / 8.3 / 8.2.
+- Categories: architecture:9.3 history:9.1 photography:9.1.
+- Overall: 84.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/st-joseph-oratory](../../../countries/CA/sights/st-joseph-oratory.yaml) | 8.7 / 8.6 / 9.0 / 8.7 / 8.8 | impact: -0.5 vs peer; uniqueness: +0.3 vs peer |
+| [CA/dempster-highway](../../../countries/CA/sights/dempster-highway.yaml) | 9.3 / 9.4 / 9.0 / 9.1 / 9.3 | impact: -1.1 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-nk-mip-desert-centre — Nk’Mip Desert Cultural Centre Osoyoos — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/nk-mip-desert-centre.yaml)
+- Action: new
+- Scope: Osoyoos Indian Band cultural and desert ecology interpretation; excludes vineyard visits and private cultural sites.
+- Representative coordinates: 49.04, -119.43; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.9 / 8.8 / 8.8.
+- Categories: culture:9.4 nature:9.3 history:9.2.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/blackfoot-crossing](../../../countries/CA/sights/blackfoot-crossing.yaml) | 8.6 / 8.9 / 9.2 / 8.7 / 8.9 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/okanagan-wine-country](../../../countries/CA/sights/okanagan-wine-country.yaml) | 8.9 / 8.9 / 9.0 / 9.3 / 9.3 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 236 scope decisions
+
+16 additions, 11 desk-based provisional, 5 source-linked, 5 90+, 32 domestic ranking-row comparisons. CA 358 ranked / 361 total. Niagara power station score excludes previously ranked waterfall views; Chief trails and gondola separated; Halifax waterfront excludes museum interiors; Bard excludes Vanier Park and Museum of Vancouver; Highland Village excludes Celtic Colours. Existing scores and three unassessed retained. Coordinates approximate; access and schedules unverified. Regional queue remains open, deferred overlap and venue decisions retained.

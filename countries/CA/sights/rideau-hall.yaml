@@ -1,0 +1,16 @@
+id: sight-ca-rideau-hall
+name: "Rideau Hall Ottawa Official Residence and Grounds"
+location:
+  country_code: CA
+  latitude: 45.444
+  longitude: -75.686
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.5
+  depth: 8.6
+  categories:
+    history: 9.3
+    architecture: 9.2
+    culture: 9.1

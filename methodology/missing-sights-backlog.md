@@ -4138,3 +4138,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — The Fluvarium St John’s Freshwater Ecology Exhibits: 83.05/100 (desk-based provisional).
 
 18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 342 ranked / 345 total. Quetico Canadian side only; Tweedsmuir southern interior excludes coastal Great Bear; Northern Rocky Mountains, Stone Mountain and Muncho Lake separate parks, larger Muskwa-Kechika umbrella deferred; Woodland Caribou deferred pending Pimachiowin Aki overlap review. Just For Laughs organiser confirms July 2026 edition; no future schedule assumed. Glenbow normal-condition rating, redevelopment/access unverified. Existing scores and three unassessed retained. Coordinates approximate. Queue remains open for explicit remaining scope and overlap screening; no exhaustive coverage claimed.
+
+### Pass 236 — Canada cultural festivals, industrial heritage and regional attractions
+
+- [x] CA — Manito Ahbee Festival Winnipeg Indigenous Arts and Powwow: 92.15/100 (source-linked-unverified).
+- [x] CA — Royal Nova Scotia International Tattoo Halifax: 91.55/100 (source-linked-unverified).
+- [x] CA — Village Historique Acadien New Brunswick Living History Museum: 91.05/100 (source-linked-unverified).
+- [x] CA — Niagara Parks Power Station Industrial Heritage and Tunnel: 91.05/100 (source-linked-unverified).
+- [x] CA — Bard on the Beach Shakespeare Festival Vancouver: 90.35/100 (source-linked-unverified).
+- [x] CA — Sea to Sky Gondola Squamish Alpine Viewpoints and Trails: 86.90/100 (desk-based provisional).
+- [x] CA — Stawamus Chief Provincial Park Granite Summit Hiking: 87.50/100 (desk-based provisional).
+- [x] CA — Gatineau Park Forest Lakes and Lookouts: 86.20/100 (desk-based provisional).
+- [x] CA — Canadian Centre for Architecture Montréal: 87.65/100 (desk-based provisional).
+- [x] CA — Biosphère Montréal Environment Museum and Geodesic Dome: 87.55/100 (desk-based provisional).
+- [x] CA — Rideau Hall Ottawa Official Residence and Grounds: 86.05/100 (desk-based provisional).
+- [x] CA — Highland Village Museum Iona Cape Breton Gaelic Heritage: 87.40/100 (desk-based provisional).
+- [x] CA — Halifax Waterfront Boardwalk and Harbour Heritage: 85.10/100 (desk-based provisional).
+- [x] CA — Fort Lennox National Historic Site Île aux Noix: 86.65/100 (desk-based provisional).
+- [x] CA — Our Lady of Victory Igloo Church Inuvik: 84.50/100 (desk-based provisional).
+- [x] CA — Nk’Mip Desert Cultural Centre Osoyoos: 87.85/100 (desk-based provisional).
+
+16 additions, 11 desk-based provisional, 5 source-linked, 5 90+, 32 domestic ranking-row comparisons. CA 358 ranked / 361 total. Niagara power station score excludes previously ranked waterfall views; Chief trails and gondola separated; Halifax waterfront excludes museum interiors; Bard excludes Vanier Park and Museum of Vancouver; Highland Village excludes Celtic Colours. Existing scores and three unassessed retained. Coordinates approximate; access and schedules unverified. Regional queue remains open, deferred overlap and venue decisions retained.

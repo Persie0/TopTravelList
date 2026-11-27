@@ -1,0 +1,16 @@
+id: sight-ca-montreal-biosphere
+name: "Biosphère Montréal Environment Museum and Geodesic Dome"
+location:
+  country_code: CA
+  latitude: 45.514
+  longitude: -73.531
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 8.8
+  depth: 8.7
+  categories:
+    architecture: 9.4
+    nature: 9.2
+    family: 9.2
