@@ -9259,3 +9259,126 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 237 scope decisions
 
 18 additions, 12 desk-based provisional, 6 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 376 ranked / 379 total. McMichael temporary redevelopment closure retained as access note, not score penalty; Chilkoot Canadian section only, international crossing closed per Parks Canada. Soper corridor and Katannilik grouped; Grand Manan land trails exclude whale trips; Juan de Fuca excludes Pacific Rim; Cape Chignecto/Five Islands/Cape Split distinct park scopes, no regional geopark umbrella. Existing scores and three unassessed retained. Coordinates approximate; current access not verified for other entries. Regional queue remains open pending explicit bounded closure and prior deferral review.
+
+## sight-ca-citadelle-quebec — Citadelle of Québec Guided Fortress Tour and Royal 22e Régiment Museum — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/citadelle-quebec.yaml)
+- Action: new
+- Scope: Distinct ticketed guided tour of active star-shaped fortress built 1820–1831 and its regiment museum; excludes ordinary Old Québec streets, exterior fortification views and broad urban district significance counted by parent. Non-additive with Old Québec for itinerary scoring.
+- Representative coordinates: 46.807, -71.208; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.3 / 9.0 / 9.1.
+- Categories: history:9.4 architecture:9.3 culture:9.2.
+- Overall: 90.70/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts and UNESCO property text retrieved 2026-11-27): https://www.lacitadelle.qc.ca/en/the-fortress, https://www.lacitadelle.qc.ca/en/admission-hours.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fortress-louisbourg](../../../countries/CA/sights/fortress-louisbourg.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [CA/fort-henry](../../../countries/CA/sights/fort-henry.yaml) | 8.6 / 8.6 / 9.0 / 8.8 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-klondike-goldfields — Klondike Goldfields Discovery Claim and Dredge No 4 National Historic Sites — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/klondike-goldfields.yaml)
+- Action: new
+- Scope: Bonanza Creek mining sites grouped: Discovery Claim and preserved eight-storey Dredge No 4. UNESCO's eight Tr’ondëk-Klondike components do not include either; exclude Dawson town and all serial components. Separate industrial extraction interpretation; access not guaranteed.
+- Representative coordinates: 64.01, -139.29; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.3 architecture:9.1.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts and UNESCO property text retrieved 2026-11-27): https://whc.unesco.org/en/list/1564, https://parks.canada.ca/lhn-nhs/yt/klondike/gestion-management/gestion-management-2018, https://parks.canada.ca/lhn-nhs/yt/klondike/activ/champs-auriferes-goldfields?wbdisable=true.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/barkerville](../../../countries/CA/sights/barkerville.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+| [CA/britannia-mine](../../../countries/CA/sights/britannia-mine.yaml) | 8.7 / 8.9 / 8.9 / 9.0 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-broughton-archipelago — Broughton Archipelago Marine Park Island Kayaking and Camping — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/broughton-archipelago.yaml)
+- Action: new
+- Scope: Island paddling and camping in BC's largest marine park; explicitly exclude dedicated Johnstone Strait whale-watching and central coast Great Bear wildlife trips. Incidental wildlife not basis for separate score. Marine park and adjacent conservancy grouped where itinerary overlaps.
+- Representative coordinates: 50.77, -126.73; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.8 / 9.3 / 9.1.
+- Categories: nature:9.4 adventure:9.4 photography:9.3.
+- Overall: 90.40/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts and UNESCO property text retrieved 2026-11-27): https://bcparks.ca/broughton-archipelago-park/, https://bcparks.ca/broughton-archipelago-conservancy/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/desolation-sound](../../../countries/CA/sights/desolation-sound.yaml) | 9.1 / 9.0 / 8.7 / 9.3 / 9.1 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/lake-superior-nmca](../../../countries/CA/sights/lake-superior-nmca.yaml) | 9.1 / 9.1 / 9.0 / 9.1 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-winnipeg-railway-museum — Winnipeg Railway Museum Historic Union Station Collection — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/winnipeg-railway-museum.yaml)
+- Action: new
+- Scope: Preserved railway collection including Countess of Dufferin. Closed since December 2021; Heritage Winnipeg reports continuing work toward reopening in August 2026. Normal-condition rating only, not currently verified accessible.
+- Representative coordinates: 49.887, -97.135; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.1 / 8.6 / 8.9 / 8.4 / 8.6.
+- Categories: history:9.3 culture:9.1 family:9.1.
+- Overall: 84.80/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts and UNESCO property text retrieved 2026-11-27): https://heritagewinnipeg.com/news/railway-museum-streetcar356-update2/, https://mhs.mb.ca/docs/sites/winnipegrailwaymuseum.shtml.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/exporail](../../../countries/CA/sights/exporail.yaml) | 8.7 / 8.9 / 9.0 / 8.9 / 9.0 | impact: -0.6 vs peer; uniqueness: -0.3 vs peer |
+| [CA/royal-aviation-manitoba](../../../countries/CA/sights/royal-aviation-manitoba.yaml) | 8.5 / 8.7 / 8.9 / 8.8 / 8.9 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-new-brunswick-museum — New Brunswick Museum Saint John Natural and Cultural Heritage Collections — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/new-brunswick-museum.yaml)
+- Action: new
+- Scope: Established provincial museum collections with more than 180 years of history; museum is rebuilding at historic Douglas Avenue site. Normal historical exhibition merit only; no score credit for future promised facilities and no current public galleries assumed. Approximate future site coordinate, not current entrance.
+- Representative coordinates: 45.276, -66.077; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.1 / 8.6 / 8.9.
+- Categories: history:9.3 nature:9.3 culture:9.2.
+- Overall: 87.25/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts and UNESCO property text retrieved 2026-11-27): https://www.nbm-mnb.ca/en/collections/, https://www.nbm-mnb.ca/en/about-us/making-history-now/, https://www.nbm-mnb.ca/en/2026/02/18/new-brunswick-museum-nbm-update-capital-campaign-build-progress-and-economic-impact-study-results/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-bc-museum](../../../countries/CA/sights/royal-bc-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [CA/manitoba-museum](../../../countries/CA/sights/manitoba-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.9 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 238 bounded closure decisions
+
+- **West Coast Trail — COVERED:** Pacific Rim review explicitly scores entire reserve; Parks Canada lists trail as reserve unit. No new separate trail score; future component split requires parent recalibration. References: https://parks.canada.ca/pn-np/bc/pacificrim/activ/ssco-wctu
+- **Cabot Trail — COVERED / NON-ADDITIVE:** Cape Breton Highlands review explicitly credits Cabot Trail sections and Skyline hiking. Whole 300 km loop would duplicate core park merit; out-of-park scenic segments not separately evaluated. No new umbrella. References: https://parks.canada.ca/pn-np/ns/cbreton/visit
+- **Woodland Caribou Provincial Park — COVERED:** Included in Pimachiowin Aki World Heritage property; existing community-based landscape scope. No separate park without parent split. References: https://whc.unesco.org/en/list/1415/, https://whc.unesco.org/document/168677
+- **White Pass and Yukon Route — COVERED / CROSS-BORDER:** US white-pass-railway review explicitly includes Canadian track segments; no duplicate Canadian departure record. References: ../../../countries/US/sights/white-pass-railway.yaml
+- **Kluane flightseeing and Alsek rafting — COVERED / CROSS-BORDER:** Parks Canada lists both as park activities; existing Kluane and Tatshenshini-Alsek scope retained. Full cross-border river route not added. References: https://parks.canada.ca/pn-np/yt/kluane/activ
+- **Muskwa-Kechika umbrella — COVERED / NON-ADDITIVE:** Existing Northern Rocky Mountains, Stone Mountain and Muncho Lake parks represent key separate visitor scopes; no duplicate regional umbrella.
+- **Celebration of Light — DEFERRED — EVENT IDENTITY:** Indefinite cancellation confirmed in 2026 city council minutes; single-night 2026 replacement is not established as equivalent recurring competition. No penalty for temporary closure; reopen on evidence of restoration or stable successor. References: https://council.vancouver.ca/20260401/documents/pspc20260401minutes.pdf, https://vancouver.ca/news-calendar/announcing-summer-lights-in-english-bay-june-2026.aspx
+- **Cliffs of Fundy geopark umbrella — COVERED / NON-ADDITIVE:** Existing Cape Chignecto, Five Islands and other separately scoped Fundy sites remain; no broad umbrella score without boundary and incremental merit review.
+- **Full Fundy Footpath — DEFERRED — PARENT SCOPE:** Existing Fundy Trail and Fundy National Park cover major portions; separate through-hike not scored until non-additive scope policy resolved.
+
+5 source-linked provisional additions, 3 90+, 10 domestic ranking-row comparisons. CA 381 ranked / 384 total; +310 since original 74. Bounded discovery queue from passes 221–238 closed, not exhaustive. Prior named deferrals assessed: five added with narrow scopes/access notes; nine non-additive or deferred scope/event decisions recorded. Existing three unassessed and scores retained. Reopen on concrete substantial omission or new scope evidence. Coordinates approximate; full Python validation, independent peer YAML/coordinate verification, international calibration and historical evidence labels pending.

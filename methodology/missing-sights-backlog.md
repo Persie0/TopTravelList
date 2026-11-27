@@ -4182,3 +4182,23 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Terry Fox Memorial and Lookout Thunder Bay: 85.50/100 (desk-based provisional).
 
 18 additions, 12 desk-based provisional, 6 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 376 ranked / 379 total. McMichael temporary redevelopment closure retained as access note, not score penalty; Chilkoot Canadian section only, international crossing closed per Parks Canada. Soper corridor and Katannilik grouped; Grand Manan land trails exclude whale trips; Juan de Fuca excludes Pacific Rim; Cape Chignecto/Five Islands/Cape Split distinct park scopes, no regional geopark umbrella. Existing scores and three unassessed retained. Coordinates approximate; current access not verified for other entries. Regional queue remains open pending explicit bounded closure and prior deferral review.
+
+### Pass 238 — Canada named deferral resolution and bounded closure
+
+- [x] CA — Citadelle of Québec Guided Fortress Tour and Royal 22e Régiment Museum: 90.70/100 (source-linked-unverified).
+- [x] CA — Klondike Goldfields Discovery Claim and Dredge No 4 National Historic Sites: 91.15/100 (source-linked-unverified).
+- [x] CA — Broughton Archipelago Marine Park Island Kayaking and Camping: 90.40/100 (source-linked-unverified).
+- [x] CA — Winnipeg Railway Museum Historic Union Station Collection: 84.80/100 (source-linked-unverified).
+- [x] CA — New Brunswick Museum Saint John Natural and Cultural Heritage Collections: 87.25/100 (source-linked-unverified).
+
+- **West Coast Trail — COVERED:** Pacific Rim review explicitly scores entire reserve; Parks Canada lists trail as reserve unit. No new separate trail score; future component split requires parent recalibration. References: https://parks.canada.ca/pn-np/bc/pacificrim/activ/ssco-wctu
+- **Cabot Trail — COVERED / NON-ADDITIVE:** Cape Breton Highlands review explicitly credits Cabot Trail sections and Skyline hiking. Whole 300 km loop would duplicate core park merit; out-of-park scenic segments not separately evaluated. No new umbrella. References: https://parks.canada.ca/pn-np/ns/cbreton/visit
+- **Woodland Caribou Provincial Park — COVERED:** Included in Pimachiowin Aki World Heritage property; existing community-based landscape scope. No separate park without parent split. References: https://whc.unesco.org/en/list/1415/, https://whc.unesco.org/document/168677
+- **White Pass and Yukon Route — COVERED / CROSS-BORDER:** US white-pass-railway review explicitly includes Canadian track segments; no duplicate Canadian departure record. References: ../../../countries/US/sights/white-pass-railway.yaml
+- **Kluane flightseeing and Alsek rafting — COVERED / CROSS-BORDER:** Parks Canada lists both as park activities; existing Kluane and Tatshenshini-Alsek scope retained. Full cross-border river route not added. References: https://parks.canada.ca/pn-np/yt/kluane/activ
+- **Muskwa-Kechika umbrella — COVERED / NON-ADDITIVE:** Existing Northern Rocky Mountains, Stone Mountain and Muncho Lake parks represent key separate visitor scopes; no duplicate regional umbrella.
+- **Celebration of Light — DEFERRED — EVENT IDENTITY:** Indefinite cancellation confirmed in 2026 city council minutes; single-night 2026 replacement is not established as equivalent recurring competition. No penalty for temporary closure; reopen on evidence of restoration or stable successor. References: https://council.vancouver.ca/20260401/documents/pspc20260401minutes.pdf, https://vancouver.ca/news-calendar/announcing-summer-lights-in-english-bay-june-2026.aspx
+- **Cliffs of Fundy geopark umbrella — COVERED / NON-ADDITIVE:** Existing Cape Chignecto, Five Islands and other separately scoped Fundy sites remain; no broad umbrella score without boundary and incremental merit review.
+- **Full Fundy Footpath — DEFERRED — PARENT SCOPE:** Existing Fundy Trail and Fundy National Park cover major portions; separate through-hike not scored until non-additive scope policy resolved.
+
+5 source-linked provisional additions, 3 90+, 10 domestic ranking-row comparisons. CA 381 ranked / 384 total; +310 since original 74. Bounded discovery queue from passes 221–238 closed, not exhaustive. Prior named deferrals assessed: five added with narrow scopes/access notes; nine non-additive or deferred scope/event decisions recorded. Existing three unassessed and scores retained. Reopen on concrete substantial omission or new scope evidence. Coordinates approximate; full Python validation, independent peer YAML/coordinate verification, international calibration and historical evidence labels pending.
