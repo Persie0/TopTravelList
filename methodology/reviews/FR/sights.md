@@ -10385,9 +10385,9 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - YAML: [source](../../../countries/FR/sights/saintes-abbaye-aux-dames.yaml)
 - Action: new
 - Precise subject and limitations: Historic Benedictine women's abbey founded in 1047, with musical interpretation; excludes Saint-Eutrope and Roman amphitheatre.
-- Location check: 45.744671, -0.624796; [published representative point](https://www.outdooractive.com/en/poi/agglomeration-de-saintes/abbaye-aux-dames-la-cite-musicale/809830012/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
-- Evidence status: **source-linked-unverified**
-- Visitor evidence: [reference](https://abbayeauxdames.org/preparez-votre-venue/); source excerpts inspected 2026-11-27. Historic Benedictine women's abbey founded in 1047, with musical interpretation; excludes Saint-Eutrope and Roman amphitheatre. Sources support scope, not ratings.
+- Location check: 45.744671, -0.624796; [published representative point](https://www.outdooractive.com/en/poi/agglomeration-de-saintes/abbaye-aux-dames-la-cite-musicale/809830012/), provisional representative coordinates; linked source not independently inspected in pass 141.
+- Evidence status: **desk-based provisional**
+- Visitor evidence: [reference](https://abbayeauxdames.org/preparez-votre-venue/); reference suggested for subsequent verification; not independently inspected in pass 141. Historic Benedictine women's abbey founded in 1047, with musical interpretation; excludes Saint-Eutrope and Roman amphitheatre. Scope and ratings are editorial estimates; links remain unverified.
 - Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
 
 #### Worldwide peer comparisons
@@ -10424,9 +10424,9 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - YAML: [source](../../../countries/FR/sights/rochefort-transporter-bridge.yaml)
 - Action: new
 - Precise subject and limitations: Specific surviving transporter bridge, gondola crossing and interpretation; within broader Grand Site but excludes arsenal and defensive forts. The 2002 tentative description concerns naval arsenal and forts (https://whc.unesco.org/en/tentativelists/1668/); boundary flag retained.
-- Location check: 45.91692, -0.96088; [published representative point](https://mapcarta.com/36024708), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
-- Evidence status: **source-linked-unverified**
-- Visitor evidence: [reference](https://www.pont-transbordeur.fr/rochefort-transporter-bridge); source excerpts inspected 2026-11-27. Specific surviving transporter bridge, gondola crossing and interpretation; within broader Grand Site but excludes arsenal and defensive forts. The 2002 tentative description concerns naval arsenal and forts (https://whc.unesco.org/en/tentativelists/1668/); boundary flag retained. Sources support scope, not ratings.
+- Location check: 45.91692, -0.96088; [published representative point](https://mapcarta.com/36024708), provisional representative coordinates; linked source not independently inspected in pass 141.
+- Evidence status: **desk-based provisional**
+- Visitor evidence: [reference](https://www.pont-transbordeur.fr/rochefort-transporter-bridge); reference suggested for subsequent verification; not independently inspected in pass 141. Specific surviving transporter bridge, gondola crossing and interpretation; within broader Grand Site but excludes arsenal and defensive forts. The 2002 tentative description concerns naval arsenal and forts (https://whc.unesco.org/en/tentativelists/1668/); boundary flag retained. Scope and ratings are editorial estimates; links remain unverified.
 - Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
 
 #### Worldwide peer comparisons
@@ -10463,9 +10463,9 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - YAML: [source](../../../countries/FR/sights/brouage-fortified-town.yaml)
 - Action: new
 - Precise subject and limitations: Salt-port citadel, ramparts and exhibition; historically competing arsenal rather than Rochefort naval arsenal itself (https://sites-vauban.org/en/resources/vauban-site/brouage); excludes surrounding marsh.
-- Location check: 45.86638, -1.07008; [published representative point](https://mapcarta.com/18405472), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
-- Evidence status: **source-linked-unverified**
-- Visitor evidence: [reference](https://www.brouage-tourisme.fr/les-visites-guidees); source excerpts inspected 2026-11-27. Salt-port citadel, ramparts and exhibition; historically competing arsenal rather than Rochefort naval arsenal itself (https://sites-vauban.org/en/resources/vauban-site/brouage); excludes surrounding marsh. Sources support scope, not ratings.
+- Location check: 45.86638, -1.07008; [published representative point](https://mapcarta.com/18405472), provisional representative coordinates; linked source not independently inspected in pass 141.
+- Evidence status: **desk-based provisional**
+- Visitor evidence: [reference](https://www.brouage-tourisme.fr/les-visites-guidees); reference suggested for subsequent verification; not independently inspected in pass 141. Salt-port citadel, ramparts and exhibition; historically competing arsenal rather than Rochefort naval arsenal itself (https://sites-vauban.org/en/resources/vauban-site/brouage); excludes surrounding marsh. Scope and ratings are editorial estimates; links remain unverified.
 - Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
 
 #### Worldwide peer comparisons
@@ -10502,9 +10502,9 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - YAML: [source](../../../countries/FR/sights/talmont-sur-gironde.yaml)
 - Action: new
 - Precise subject and limitations: Village, Sainte-Radegonde church and immediate cliffside views; excludes Meschers caves and general estuary cruises.
-- Location check: 45.534916, -0.907786; [published representative point](https://mapcarta.com/18292626), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
-- Evidence status: **source-linked-unverified**
-- Visitor evidence: [reference](https://www.outdooractive.com/fr/poi/royan-atlantique/village-de-talmont-sur-gironde/807054828/); source excerpts inspected 2026-11-27. Village, Sainte-Radegonde church and immediate cliffside views; excludes Meschers caves and general estuary cruises. Sources support scope, not ratings.
+- Location check: 45.534916, -0.907786; [published representative point](https://mapcarta.com/18292626), provisional representative coordinates; linked source not independently inspected in pass 141.
+- Evidence status: **desk-based provisional**
+- Visitor evidence: [reference](https://www.outdooractive.com/fr/poi/royan-atlantique/village-de-talmont-sur-gironde/807054828/); reference suggested for subsequent verification; not independently inspected in pass 141. Village, Sainte-Radegonde church and immediate cliffside views; excludes Meschers caves and general estuary cruises. Scope and ratings are editorial estimates; links remain unverified.
 - Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
 
 #### Worldwide peer comparisons
@@ -10541,9 +10541,9 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - YAML: [source](../../../countries/FR/sights/chateau-roche-courbon.yaml)
 - Action: new
 - Precise subject and limitations: Integrated estate visit, guided interiors, formal gardens and prehistoric caves; no independent cave-art claim.
-- Location check: 45.8362, -0.7819; [published representative point](https://www.larochecourbon.fr/en/coming-chateau-roche-courbon-charente-maritime), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
-- Evidence status: **source-linked-unverified**
-- Visitor evidence: [reference](https://www.larochecourbon.fr/en/opening-times-castle-roche-courbon-charente-maritime); source excerpts inspected 2026-11-27. Integrated estate visit, guided interiors, formal gardens and prehistoric caves; no independent cave-art claim. Sources support scope, not ratings.
+- Location check: 45.8362, -0.7819; [published representative point](https://www.larochecourbon.fr/en/coming-chateau-roche-courbon-charente-maritime), provisional representative coordinates; linked source not independently inspected in pass 141.
+- Evidence status: **desk-based provisional**
+- Visitor evidence: [reference](https://www.larochecourbon.fr/en/opening-times-castle-roche-courbon-charente-maritime); reference suggested for subsequent verification; not independently inspected in pass 141. Integrated estate visit, guided interiors, formal gardens and prehistoric caves; no independent cave-art claim. Scope and ratings are editorial estimates; links remain unverified.
 - Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
 
 #### Worldwide peer comparisons
@@ -10580,9 +10580,9 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - YAML: [source](../../../countries/FR/sights/zoo-la-palmyre.yaml)
 - Action: new
 - Precise subject and limitations: Managed zoo in 18-hectare pine forest; no wild-safari equivalence or unsupported animal welfare claim.
-- Location check: 45.686739, -1.164917; [published representative point](https://www.outdooractive.com/en/poi/royan-atlantique/zoo-de-la-palmyre/807055278/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
-- Evidence status: **source-linked-unverified**
-- Visitor evidence: [reference](https://www.zoo-palmyre.fr/en); source excerpts inspected 2026-11-27. Managed zoo in 18-hectare pine forest; no wild-safari equivalence or unsupported animal welfare claim. Sources support scope, not ratings.
+- Location check: 45.686739, -1.164917; [published representative point](https://www.outdooractive.com/en/poi/royan-atlantique/zoo-de-la-palmyre/807055278/), provisional representative coordinates; linked source not independently inspected in pass 141.
+- Evidence status: **desk-based provisional**
+- Visitor evidence: [reference](https://www.zoo-palmyre.fr/en); reference suggested for subsequent verification; not independently inspected in pass 141. Managed zoo in 18-hectare pine forest; no wild-safari equivalence or unsupported animal welfare claim. Scope and ratings are editorial estimates; links remain unverified.
 - Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
 
 #### Worldwide peer comparisons
@@ -10619,9 +10619,9 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - YAML: [source](../../../countries/FR/sights/mornac-sur-seudre.yaml)
 - Action: new
 - Precise subject and limitations: Historic streets, artisan quarter, oyster port and immediate marsh views; excludes broader Seudre estuary.
-- Location check: 45.717175, -1.01683; [published representative point](https://www.outdooractive.com/en/poi/royan-atlantique/point-de-vue-le-port-de-mornac-sur-seudre/807055677/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
-- Evidence status: **source-linked-unverified**
-- Visitor evidence: [reference](https://www.les-plus-beaux-villages-de-france.org/en/our-villages/mornac-sur-seudre/); source excerpts inspected 2026-11-27. Historic streets, artisan quarter, oyster port and immediate marsh views; excludes broader Seudre estuary. Sources support scope, not ratings.
+- Location check: 45.717175, -1.01683; [published representative point](https://www.outdooractive.com/en/poi/royan-atlantique/point-de-vue-le-port-de-mornac-sur-seudre/807055677/), provisional representative coordinates; linked source not independently inspected in pass 141.
+- Evidence status: **desk-based provisional**
+- Visitor evidence: [reference](https://www.les-plus-beaux-villages-de-france.org/en/our-villages/mornac-sur-seudre/); reference suggested for subsequent verification; not independently inspected in pass 141. Historic streets, artisan quarter, oyster port and immediate marsh views; excludes broader Seudre estuary. Scope and ratings are editorial estimates; links remain unverified.
 - Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
 
 #### Worldwide peer comparisons

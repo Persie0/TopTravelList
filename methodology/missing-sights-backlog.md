@@ -1646,12 +1646,16 @@ Six additions, 24 peer rows. France 266 ranked / 277 total; 11 existing unassess
 
 ### Pass 141 — Saintes, Rochefort and Charente-Maritime
 
-- [x] FR — Abbaye aux Dames Saintes Romanesque Abbey and Music Centre: 88.20/100 (source-linked-unverified).
-- [x] FR — Rochefort Martrou Transporter Bridge and Crossing: 87.80/100 (source-linked-unverified).
-- [x] FR — Brouage Fortified Town and Halle aux Vivres: 89.10/100 (source-linked-unverified).
-- [x] FR — Talmont-sur-Gironde Historic Village and Estuary Cliffs: 87.75/100 (source-linked-unverified).
-- [x] FR — Château de la Roche Courbon Castle, Gardens and Prehistoric Caves: 89.05/100 (source-linked-unverified).
-- [x] FR — Zoo de La Palmyre Wildlife Park: 86.15/100 (source-linked-unverified).
-- [x] FR — Mornac-sur-Seudre Historic Village and Oyster Port: 85.85/100 (source-linked-unverified).
+- [x] FR — Abbaye aux Dames Saintes Romanesque Abbey and Music Centre: 88.20/100 (desk-based provisional).
+- [x] FR — Rochefort Martrou Transporter Bridge and Crossing: 87.80/100 (desk-based provisional).
+- [x] FR — Brouage Fortified Town and Halle aux Vivres: 89.10/100 (desk-based provisional).
+- [x] FR — Talmont-sur-Gironde Historic Village and Estuary Cliffs: 87.75/100 (desk-based provisional).
+- [x] FR — Château de la Roche Courbon Castle, Gardens and Prehistoric Caves: 89.05/100 (desk-based provisional).
+- [x] FR — Zoo de La Palmyre Wildlife Park: 86.15/100 (desk-based provisional).
+- [x] FR — Mornac-sur-Seudre Historic Village and Oyster Port: 85.85/100 (desk-based provisional).
 
 Seven additions, 28 peer rows. France 273 ranked / 284 total; 11 existing unassessed unchanged. Transporter bridge independently scoped to engineering and crossing; broader Grand Site overlap flagged. Brouage citadel distinct from Rochefort arsenal; excludes marsh. Talmont excludes Meschers caves. Mornac excludes broader estuary. Next bounded screen: Meschers-sur-Gironde troglodyte caves, Barzan archaeological site (Fâ), Phare de la Coubre, Pons medieval keep and hospital scope check, Château de Jonzac, Marais de Brouage nature trails scope check, and Saintes Saint-Eutrope overlap check. Full Python validation pending.
+
+### Fast assessment policy — effective after pass 141 (2026-11-27)
+
+User-directed priority: estimate sub-90 sights from overview or existing knowledge; reserve detailed individual source research and calibration for plausible 90+ overall scores and proposed 9.5+ individual fields. Do not suppress a plausible high score to avoid research. Lower scores remain explicitly provisional, with unverified coordinates or references labeled accordingly. Use existing global scale and schema; check duplicates, scope, numerical scores and rankings. Existing validation and verification requirements remain open; fast assessments are not independently verified audits. Aim for 20–40 candidates per pass where practical. Temporary access restrictions do not reduce intrinsic quality. No geographic quotas or changes to weights.
