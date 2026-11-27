@@ -2133,3 +2133,275 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-pt-berlengas-reserve — Berlengas Nature Reserve and Island Fort — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/berlengas-reserve.yaml)
+- Action: new
+- Precise subject and limitations: Permitted Berlenga island paths, coastal scenery and fort exterior; fort reference. Access authorization and sea conditions apply; https://www.icnf.pt/imprensa/acessoailhadaberlenga. No other island landings or wildlife sightings assumed.
+- Location check: 39.41147, -9.50994; [published representative point](https://mapcarta.com/36095082), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitportugal.com/en/node/156072); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/lobos-island](../../../countries/ES/sights/lobos-island.yaml) | 8.8 / 8.7 / 8.5 / 8.7 / 8.4 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | experience: -0.4 vs peer; impact: -0.2 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | experience: -0.5 vs peer; depth: +0.3 vs peer. |
+| [ES/gaztelugatxe](../../../countries/ES/sights/gaztelugatxe.yaml) | 9.3 / 9.0 / 8.3 / 8.7 / 8.1 | depth: +0.6 vs peer; significance: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic island and fort scenery. |
+| Uniqueness | 8.9 | Distinct protected Atlantic island. |
+| Significance | 8.7 | Important ecological and defensive heritage. |
+| Experience | 8.6 | Controlled boat and walking visit. |
+| Depth | 8.7 | Several permitted island experiences. |
+
+- Applicable categories: nature:9.3, photography:9.3, wildlife:9.1, adventure:9.0, history:8.8.
+- Computed worldwide overall: 88.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-padrao-descobrimentos — Monument to the Discoveries Lisbon — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/padrao-descobrimentos.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated twentieth-century monument, exhibition and viewpoint; not Jerónimos or Belém Tower. Historical interpretation includes imperial context; opening and lift access conditional.
+- Location check: 38.69359, -9.20572; [published representative point](https://mapcarta.com/26239054), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://padraodosdescobrimentos.pt/en/contacts-schedules/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/belem-tower](../../../countries/PT/sights/belem-tower.yaml) | 8.9 / 9.0 / 9.2 / 8.5 / 7.8 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [ES/temple-debod](../../../countries/ES/sights/temple-debod.yaml) | 8.5 / 9.0 / 8.9 / 8.2 / 7.8 | experience: +0.4 vs peer; impact: +0.3 vs peer. |
+| [ES/santa-barbara-castle-alicante](../../../countries/ES/sights/santa-barbara-castle-alicante.yaml) | 8.8 / 8.5 / 8.7 / 8.8 / 8.5 | depth: -0.5 vs peer; significance: +0.2 vs peer. |
+| [ES/basilica-del-pilar](../../../countries/ES/sights/basilica-del-pilar.yaml) | 9.2 / 8.8 / 9.2 / 8.8 / 8.8 | depth: -0.8 vs peer; impact: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Monumental riverside sculpture. |
+| Uniqueness | 8.7 | Distinct commemorative design. |
+| Significance | 8.9 | Important twentieth-century historical narrative. |
+| Experience | 8.6 | Focused visitor experience. |
+| Depth | 8.0 | Compact monument. |
+
+- Applicable categories: architecture:9.0, history:9.1, photography:9.2, culture:8.9.
+- Computed worldwide overall: 86.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-national-coach-museum — National Coach Museum Lisbon — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/national-coach-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated collection of historic royal and court vehicles in the new museum; excludes separately rated Belém monuments. Displays and access conditional.
+- Location check: 38.69662, -9.19815; [published representative point](https://mapcarta.com/35966042), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.museusemonumentos.pt/en/museus-e-monumentos/museu-nacional-dos-coches); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/national-tile-museum](../../../countries/PT/sights/national-tile-museum.yaml) | 8.7 / 9.1 / 8.9 / 8.6 / 8.9 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [ES/national-archaeological-museum-madrid](../../../countries/ES/sights/national-archaeological-museum-madrid.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.3 | depth: -0.6 vs peer; impact: -0.4 vs peer. |
+| [ES/national-sculpture-museum-valladolid](../../../countries/ES/sights/national-sculpture-museum-valladolid.yaml) | 8.8 / 9.0 / 9.1 / 8.7 / 9.0 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [PT/maat-lisbon](../../../countries/PT/sights/maat-lisbon.yaml) | 8.7 / 8.9 / 8.7 / 8.8 / 8.8 | significance: +0.2 vs peer; experience: -0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Ornate historic vehicles. |
+| Uniqueness | 9.0 | Distinct court transport collection. |
+| Significance | 8.9 | Important European decorative and transport heritage. |
+| Experience | 8.7 | Dedicated gallery visit. |
+| Depth | 8.7 | Multiple periods and objects. |
+
+- Applicable categories: history:9.3, culture:9.3, photography:8.8, architecture:8.6.
+- Computed worldwide overall: 87.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-serralves-art-park — Serralves Contemporary Art Collections and Park — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/serralves-art-park.yaml)
+- Action: new
+- Precise subject and limitations: Art exhibitions, outdoor sculpture and park routes, including villa exhibitions when open. Existing Siza architectural series excluded from architectural scoring; no separate building rating. Park scope https://www.serralves.pt/en/institucional-serralves/parque-apresentacao/.
+- Location check: 41.159477, -8.659605; [published representative point](https://fundacaolivrarialello.pt/en/serralves-museum), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.serralves.pt/en/visitar-serralves/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.0 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer. |
+| [PT/maat-lisbon](../../../countries/PT/sights/maat-lisbon.yaml) | 8.7 / 8.9 / 8.7 / 8.8 / 8.8 | uniqueness: -0.2 vs peer; significance: +0.2 vs peer. |
+| [ES/guggenheim](../../../countries/ES/sights/guggenheim.yaml) | 9.2 / 9.4 / 9.1 / 9.0 / 8.8 | uniqueness: -0.7 vs peer; impact: -0.4 vs peer. |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Varied art and designed landscape. |
+| Uniqueness | 8.7 | Distinct art and garden experience. |
+| Significance | 8.9 | Important Portuguese contemporary art heritage. |
+| Experience | 8.9 | Several galleries and outdoor routes. |
+| Depth | 9.0 | Substantial park and exhibitions. |
+
+- Applicable categories: culture:9.3, nature:8.8, relaxation:9.0, photography:8.9.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-livraria-lello — Livraria Lello Porto — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/livraria-lello.yaml)
+- Action: new
+- Precise subject and limitations: Ticket-voucher interior visit of historic bookstore, distinct from public Porto historic streets. Crowding and limited space considered; no unsubstantiated literary inspiration claim.
+- Location check: 41.14723, -8.61466; [published representative point](https://mapcarta.com/pt/35990270), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://livrarialello.pt/edificio-neogotico/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/el-capricho-gaudi](../../../countries/ES/sights/el-capricho-gaudi.yaml) | 8.8 / 9.0 / 8.9 / 8.7 / 8.2 | depth: -0.6 vs peer; experience: -0.5 vs peer. |
+| [ES/casa-vicens](../../../countries/ES/sights/casa-vicens.yaml) | 8.8 / 9.1 / 9.0 / 8.7 / 8.1 | significance: -0.5 vs peer; experience: -0.5 vs peer. |
+| [PT/carmo-convent-museum](../../../countries/PT/sights/carmo-convent-museum.yaml) | 8.8 / 8.9 / 8.8 / 8.6 / 8.2 | depth: -0.6 vs peer; experience: -0.4 vs peer. |
+| [PT/national-tile-museum](../../../countries/PT/sights/national-tile-museum.yaml) | 8.7 / 9.1 / 8.9 / 8.6 / 8.9 | depth: -1.3 vs peer; significance: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Ornate interior and staircase. |
+| Uniqueness | 8.9 | Distinct historic bookstore design. |
+| Significance | 8.5 | Regional literary and architectural heritage. |
+| Experience | 8.2 | Capacity-limited interior visit. |
+| Depth | 7.6 | Compact single interior. |
+
+- Applicable categories: architecture:9.2, culture:8.9, photography:9.1.
+- Computed worldwide overall: 85.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-aveiro-canals — Aveiro Canals and Art Nouveau Streets — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/aveiro-canals.yaml)
+- Action: new
+- Precise subject and limitations: Central canals, public streets, Art Nouveau exteriors and conditional moliceiro excursions. Canal reference, not boarding point. Excludes Costa Nova and entire lagoon.
+- Location check: 40.64122, -8.65485; [published representative point](https://mapcarta.com/W299011612), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitportugal.com/en/NR/exeres/0DC0B310-FFC8-41FE-9EA3-9F5CF48639F8); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/cadaques-historic-waterfront](../../../countries/ES/sights/cadaques-historic-waterfront.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 8.5 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [ES/san-sebastian-old-town](../../../countries/ES/sights/san-sebastian-old-town.yaml) | 8.7 / 8.5 / 8.7 / 9.0 / 8.6 | significance: -0.3 vs peer; uniqueness: +0.1 vs peer. |
+| [PT/guimaraes-core](../../../countries/PT/sights/guimaraes-core.yaml) | 8.9 / 8.9 / 9.1 / 8.8 / 8.8 | significance: -0.7 vs peer; uniqueness: -0.3 vs peer. |
+| [ES/la-concha-bay](../../../countries/ES/sights/la-concha-bay.yaml) | 8.9 / 8.6 / 8.3 / 9.0 / 8.4 | impact: -0.2 vs peer; depth: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Colorful canals and streets. |
+| Uniqueness | 8.6 | Distinct local boat and architectural heritage. |
+| Significance | 8.4 | Regional maritime trading history. |
+| Experience | 8.9 | Public walking and conditional boat tours. |
+| Depth | 8.6 | Several connected canals. |
+
+- Applicable categories: architecture:9.0, culture:9.0, photography:9.1, relaxation:9.0.
+- Computed worldwide overall: 86.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-costa-nova — Costa Nova Striped Houses and Waterfront — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/costa-nova.yaml)
+- Action: new
+- Precise subject and limitations: Public waterfront and striped fishing-house exteriors, adjacent permitted beach access. Private dwellings excluded; separate from central Aveiro canals.
+- Location check: 40.614613, -8.749475; [published representative point](https://euroveloportugal.com/en/poi/costa-nova), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitportugal.com/en/node/139287); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/cudillero-harbour](../../../countries/ES/sights/cudillero-harbour.yaml) | 8.9 / 8.7 / 8.2 / 8.8 / 8.1 | impact: -0.5 vs peer; experience: -0.2 vs peer. |
+| [ES/cadaques-historic-waterfront](../../../countries/ES/sights/cadaques-historic-waterfront.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 8.5 | impact: -0.5 vs peer; depth: -0.5 vs peer. |
+| [ES/la-concha-bay](../../../countries/ES/sights/la-concha-bay.yaml) | 8.9 / 8.6 / 8.3 / 9.0 / 8.4 | impact: -0.5 vs peer; experience: -0.4 vs peer. |
+| [PT/nazare-sitio-praia-norte](../../../countries/PT/sights/nazare-sitio-praia-norte.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.5 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Colorful streets and coast. |
+| Uniqueness | 8.6 | Distinct striped vernacular houses. |
+| Significance | 8.1 | Regional fishing heritage. |
+| Experience | 8.6 | Public waterfront walks. |
+| Depth | 8.0 | Compact settlement and beach. |
+
+- Applicable categories: photography:9.1, architecture:8.8, beaches:8.7, relaxation:8.8.
+- Computed worldwide overall: 83.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

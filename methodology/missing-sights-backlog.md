@@ -935,3 +935,15 @@ Eight additions and 32 peer rows. Spain 177 ranked / 192 total, 75 additions acr
 - [x] PT — MAAT Lisbon (Art, Architecture and Technology): 87.75/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Portugal 59 ranked / 60 total. Marvão deferred due to explicit inclusion in Raia fortifications (https://whc.unesco.org/en/tentativelists/6218/). Arouca grouped bridge and walkway; separate ticket and weather constraints. Next bounded screen: Cabo da Roca (Sintra boundary), Berlengas, Padrão dos Descobrimentos, National Coach Museum, Porto Serralves (Siza series overlap check), Livraria Lello (Porto core overlap), Aveiro canals, and Costa Nova. One prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 83 — Portuguese island, museum and coastal urban attractions
+
+- [x] PT — Berlengas Nature Reserve and Island Fort: 88.25/100 (source-linked-unverified).
+- [x] PT — Monument to the Discoveries Lisbon: 86.85/100 (source-linked-unverified).
+- [x] PT — National Coach Museum Lisbon: 87.85/100 (source-linked-unverified).
+- [x] PT — Serralves Contemporary Art Collections and Park: 88.30/100 (source-linked-unverified).
+- [x] PT — Livraria Lello Porto: 85.25/100 (source-linked-unverified).
+- [x] PT — Aveiro Canals and Art Nouveau Streets: 86.35/100 (source-linked-unverified).
+- [x] PT — Costa Nova Striped Houses and Waterfront: 83.80/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Portugal 66 ranked / 67 total. Cabo da Roca deferred for potential broad Sintra landscape overlap; precise UNESCO boundary not resolved (https://whc.unesco.org/en/list/723/maps). Berlengas authorization and sea conditions documented. Serralves art and park exclude Siza building assessment; Lello interior distinct from urban streets. Next bounded screen: Funchal Monte Palace Tropical Garden, Madeira Cabo Girão, Porto Moniz lava pools, Santana traditional houses, São Vicente caves (access check), Azores Algar do Carvão (access check), Caldeira Velha (Furnas/Fogo scope check), and Faial Capelinhos. One prior unassessed unchanged. Full Python validation pending.
