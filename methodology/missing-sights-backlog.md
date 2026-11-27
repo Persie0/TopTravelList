@@ -3792,3 +3792,25 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] KI — Tabuaeran Fanning Island Outer Reef Surfing: 86.00/100 (source-linked-unverified).
 
 6 additions, 1 90+, 14 comparisons including 2 cross-area. Five bounded queues closed; all previously open Pacific queues now closed. Historic wreck dives grouped and separately scoped; nested Rock Islands parent overlap flagged. Aquarium public educational exhibits separate. Ebiil and other restricted sites remain deferred. River cruise deferred pending contemporary operating evidence. Outer reef and channel diving excludes lagoon sailing and other atolls. No remote conservation island or Bikini duplicate. Twelve unassessed retained. Village show days grouped island-wide as recurring cultural tradition; Uluvehi separately scoped. Beveridge Reef visitor evidence inconsistency remains deferred. Tabuaeran surf explicitly excluded by lagoon scope. No Phoenix Islands access assumed; existing unassessed retained. No additional substantial distinct candidate; community fatele performances documented in national celebrations (https://cove.army.gov.au/article/kyr-tuvalu-information), but separate consistent visitor experience insufficiently established. Avoid generic national celebration and overlapping island cultural landscapes. Nine unassessed retained. Existing scores and unassessed rows retained. Next: identify highest-priority unclassified country queue from status inventory. Independent validation pending.
+
+### Pass 221 — Canada first priority screen
+
+- [x] CA — Churchill Wildlife Management Area Guided Polar Bear Viewing: 94.50/100 (source-linked-unverified).
+- [x] CA — Churchill River Estuary Seasonal Beluga Whale Watching: 92.30/100 (source-linked-unverified).
+- [x] CA — Royal Tyrrell Museum of Palaeontology Drumheller: 93.15/100 (source-linked-unverified).
+- [x] CA — Great Bear Rainforest Indigenous-Guided Spirit Bear and Wildlife Tours: 93.25/100 (source-linked-unverified).
+- [x] CA — Yellowknife Northern Lights Guided Viewing: 92.05/100 (source-linked-unverified).
+- [x] CA — Rocky Mountaineer Pacific to Canadian Rockies Scenic Railway: 91.70/100 (source-linked-unverified).
+- [x] CA — Twillingate Iceberg Alley Seasonal Coastal Boat Tours: 91.30/100 (source-linked-unverified).
+- [x] CA — Johnstone Strait Northern Vancouver Island Guided Whale Watching: 91.35/100 (source-linked-unverified).
+- [x] CA — Saguenay–St Lawrence Marine Park Whale Watching: 91.45/100 (source-linked-unverified).
+- [x] CA — Haida Heritage Centre at Ḵay Llnagaay Skidegate: 91.50/100 (source-linked-unverified).
+- [x] CA — Canadian War Museum Ottawa: 91.05/100 (source-linked-unverified).
+- [x] CA — Canadian Museum of Nature Ottawa: 89.85/100 (source-linked-unverified).
+- [x] CA — National Gallery of Canada Ottawa: 89.45/100 (desk-based provisional).
+- [x] CA — Signal Hill National Historic Site St John's: 88.00/100 (desk-based provisional).
+- [x] CA — Cape Spear Lighthouse National Historic Site: 86.55/100 (desk-based provisional).
+- [x] CA — Montmorency Falls Park Québec: 86.20/100 (desk-based provisional).
+- [x] CA — Grouse Mountain Vancouver Summit and Alpine Recreation: 85.50/100 (desk-based provisional).
+
+17 additions, 5 desk-based provisional, 12 source-linked, 11 90+, 45 ranking-row comparisons including 11 international. CA 88 ranked / 91 total. Churchill polar bear viewing scoped to Wildlife Management Area outside existing Wapusk maternity-den visitor scope, beluga estuary separate; regional coordinate proxies, no guaranteed wildlife. Haida Heritage Centre outside Gwaii Haanas. Rocky Mountaineer separately scoped rail journey; non-additive overlap with parks. Cabot Trail deferred: existing Cape Breton Highlands record explicitly credits sections; West Coast Trail deferred pending parent scope (Parks Canada lists as reserve unit: https://parks.canada.ca/pn-np/bc/pacificrim/activ/ssco-wctu). Existing three unassessed and all prior scores preserved. All high ratings provisional from indexed excerpts, not independently audited; high anchor calibration pending. Canada selected based on low baseline and substantial identified omissions. Next: Canada's major regional attractions, museums, historical sites and outdoor experiences.

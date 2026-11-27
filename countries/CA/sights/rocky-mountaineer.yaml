@@ -1,0 +1,16 @@
+id: sight-ca-rocky-mountaineer
+name: "Rocky Mountaineer Pacific to Canadian Rockies Scenic Railway"
+location:
+  country_code: CA
+  latitude: 50.68
+  longitude: -120.34
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 9.3
+  depth: 9.3
+  categories:
+    nature: 9.4
+    photography: 9.4
+    relaxation: 9.3

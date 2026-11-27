@@ -1,0 +1,16 @@
+id: sight-ca-signal-hill
+name: "Signal Hill National Historic Site St John's"
+location:
+  country_code: CA
+  latitude: 47.57
+  longitude: -52.681
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.3
+    photography: 9.3
+    nature: 9.1

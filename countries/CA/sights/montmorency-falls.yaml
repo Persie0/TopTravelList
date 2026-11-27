@@ -1,0 +1,16 @@
+id: sight-ca-montmorency-falls
+name: "Montmorency Falls Park Québec"
+location:
+  country_code: CA
+  latitude: 46.89
+  longitude: -71.15
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.3
+    family: 9.1

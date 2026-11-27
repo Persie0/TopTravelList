@@ -2625,3 +2625,386 @@ All three components of Ivvavik/Vuntut/Herschel now separately rated; the parent
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: full independent corroboration and current access.
+
+## sight-ca-churchill-polar-bears — Churchill Wildlife Management Area Guided Polar Bear Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/churchill-polar-bears.yaml)
+- Action: new
+- Scope: Seasonal tundra vehicle and authorized guided viewing outside Wapusk National Park; no maternity-den excursions or guaranteed sightings. Regional proxy. Destination Canada documents established trips and the migration; 9.5+ impact/uniqueness and categories provisional, reflecting exceptional wild polar bear viewing at seasonal congregation, not guaranteed proximity.
+- Representative coordinates: 58.68, -93.65; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.6 / 9.6 / 9.2 / 9.4 / 9.2.
+- Categories: wildlife:9.6 nature:9.5 photography:9.5.
+- Overall: 94.50/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://travel.destinationcanada.com/en-ca/things-to-do/get-wild-arctic-safari, https://travel.destinationcanada.com/en-us/things-to-do/which-is-the-right-lodge-for-you-tundra-buggy-lodge-vs-lazy-bear-lodge-vs-nanuk-polar-bear-lodge, https://www.travelmanitoba.com/directory/great-white-bear-tours-inc/.
+- High-score reasoning in scope; independent international calibration required.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wapusk-national-park](../../../countries/CA/sights/wapusk-national-park.yaml) | 8.8 / 9.2 / 9.1 / 8.0 / 8.6 | experience: +1.4 vs peer; impact: +0.8 vs peer |
+| [CA/torngat-mountains-national-park](../../../countries/CA/sights/torngat-mountains-national-park.yaml) | 9.2 / 9.0 / 9.0 / 8.2 / 9.0 | experience: +1.2 vs peer; uniqueness: +0.6 vs peer |
+| [NZ/kapiti-island](../../../countries/NZ/sights/kapiti-island.yaml) | 8.9 / 9.3 / 9.3 / 9.1 / 9.1 | impact: +0.7 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-churchill-belugas — Churchill River Estuary Seasonal Beluga Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/churchill-belugas.yaml)
+- Action: new
+- Scope: Regulated boat and shore observation during seasonal congregation, separate from terrestrial polar bear tours; no in-water encounters or guaranteed sightings assumed.
+- Representative coordinates: 58.78, -94.18; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.1 / 9.2 / 8.9.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 92.30/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.travelmanitoba.com/manitoba-north/places/churchill/, https://travel.destinationcanada.com/en-gb/things-to-do/ultimate-summer-guide-to-churchill-manitoba.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wapusk-national-park](../../../countries/CA/sights/wapusk-national-park.yaml) | 8.8 / 9.2 / 9.1 / 8.0 / 8.6 | experience: +1.2 vs peer; impact: +0.5 vs peer |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | impact: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | 9.0 / 9.2 / 8.8 / 8.9 / 8.5 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-royal-tyrrell — Royal Tyrrell Museum of Palaeontology Drumheller — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/royal-tyrrell.yaml)
+- Action: new
+- Scope: Public galleries and interpretation of fossil specimens; museum reports over 160,000 research specimens, not all displayed. Separate from Dinosaur Provincial Park.
+- Representative coordinates: 51.479, -112.789; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.2 / 9.4.
+- Categories: history:9.4 nature:9.4 family:9.4.
+- Overall: 93.15/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.tyrrellmuseum.com/research/collections, https://www.tyrrellmuseum.com/whats_on/exhibits/dinosaur_hall, https://www.tyrrellmuseum.com/about/museum_history.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [CA/dinosaur-provincial-park](../../../countries/CA/sights/dinosaur-provincial-park.yaml) | 8.8 / 9.1 / 9.4 / 8.8 / 8.6 | depth: +0.8 vs peer; impact: +0.5 vs peer |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | impact: +0.5 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-great-bear-rainforest — Great Bear Rainforest Indigenous-Guided Spirit Bear and Wildlife Tours — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/great-bear-rainforest.yaml)
+- Action: new
+- Scope: Central mainland coastal rainforest and Princess Royal Island guided wildlife routes; exclude Gwaii Haanas. No unrestricted access or guaranteed Kermode bear sightings. 9.5 wildlife provisional due to geographically restricted white-coated black bear population combined with rich coastal wildlife.
+- Representative coordinates: 52.85, -128.5; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.3 / 9.1 / 9.3.
+- Categories: wildlife:9.5 nature:9.4 photography:9.4.
+- Overall: 93.25/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://travel.destinationcanada.com/en-ca/things-to-do/quick-guide-to-the-great-bear-rainforest, https://travel.destinationcanada.com/en-ca/things-to-do/6-breathtaking-canadian-wildlife-experiences, https://travel.destinationcanada.com/en-ca/things-to-do/quick-guide-aboriginal-tourism-bc.
+- High-score reasoning in scope; independent international calibration required.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/gwaii-haanas](../../../countries/CA/sights/gwaii-haanas.yaml) | 9.0 / 9.2 / 9.2 / 8.5 / 8.8 | experience: +0.6 vs peer; depth: +0.5 vs peer |
+| [CA/wapusk-national-park](../../../countries/CA/sights/wapusk-national-park.yaml) | 8.8 / 9.2 / 9.1 / 8.0 / 8.6 | experience: +1.1 vs peer; depth: +0.7 vs peer |
+| [NZ/maungatautari](../../../countries/NZ/sights/maungatautari.yaml) | 9.0 / 9.3 / 9.4 / 9.0 / 9.2 | impact: +0.4 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-yellowknife-aurora — Yellowknife Northern Lights Guided Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/yellowknife-aurora.yaml)
+- Action: new
+- Scope: Dedicated land-based aurora excursions including Indigenous-led interpretation; no guaranteed clear skies, auroral activity, or specific operator availability.
+- Representative coordinates: 62.45, -114.37; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.2 / 8.9 / 9.3 / 9.1.
+- Categories: nature:9.4 photography:9.4 culture:9.2.
+- Overall: 92.05/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://travel.destinationcanada.com/en-us/things-to-do/the-best-time-to-see-the-aurora-in-yellowknife-a-month-by-month-guide, https://travel.destinationcanada.com/en-us/things-to-do/indigenous-led-aurora-trips-in-yellowknife-northstar-adventures-and-b-dene-adventures, https://www.iti.gov.nt.ca/en/newsroom/safe-aurora-viewing-map.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/torngat-mountains-national-park](../../../countries/CA/sights/torngat-mountains-national-park.yaml) | 9.2 / 9.0 / 9.0 / 8.2 / 9.0 | experience: +1.1 vs peer; impact: +0.2 vs peer |
+| [CA/kluane-national-park](../../../countries/CA/sights/kluane-national-park.yaml) | 9.4 / 9.2 / 9.2 / 8.6 / 9.0 | experience: +0.7 vs peer; significance: -0.3 vs peer |
+| [NZ/aotea-dark-sky](../../../countries/NZ/sights/aotea-dark-sky.yaml) | 9.1 / 9.2 / 9.0 / 9.0 / 9.0 | impact: +0.3 vs peer; experience: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-rocky-mountaineer — Rocky Mountaineer Pacific to Canadian Rockies Scenic Railway — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/rocky-mountaineer.yaml)
+- Action: new
+- Scope: Through rail journey across western Canada, grouped Canadian routes, not individual station destinations, road trips or park trails. Midroute proxy.
+- Representative coordinates: 50.68, -120.34; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.9 / 9.3 / 9.3.
+- Categories: nature:9.4 photography:9.4 relaxation:9.3.
+- Overall: 91.70/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://travel.destinationcanada.com/en-gb/things-to-do/canadas-extraordinary-train-trips, https://travel.destinationcanada.com/en-gb/things-to-do/how-to-experience-slow-travel-in-canada.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/icefields-parkway](../../../countries/CA/sights/icefields-parkway.yaml) | 9.4 / 9.2 / 8.6 / 9.3 / 9.0 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+| [CA/canadian-rocky-mountain-parks](../../../countries/CA/sights/canadian-rocky-mountain-parks.yaml) | 9.8 / 9.6 / 9.5 / 9.4 / 9.7 | significance: -0.6 vs peer; impact: -0.5 vs peer |
+| [NZ/tranzalpine](../../../countries/NZ/sights/tranzalpine.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-iceberg-alley — Twillingate Iceberg Alley Seasonal Coastal Boat Tours — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/iceberg-alley.yaml)
+- Action: new
+- Scope: Twillingate-based seasonal iceberg observations, excludes other Newfoundland regions, no guaranteed icebergs or wildlife.
+- Representative coordinates: 49.65, -54.77; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.8 / 9.1 / 8.9.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.newfoundlandlabrador.com/destinations/twillingate, https://www.newfoundlandlabrador.com/things-to-do/iceberg-viewing, https://www.newfoundlandlabrador.com/plan-and-book/tours/11648830.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/gros-morne-national-park](../../../countries/CA/sights/gros-morne-national-park.yaml) | 9.2 / 9.2 / 9.3 / 8.9 / 9.0 | significance: -0.5 vs peer; experience: +0.2 vs peer |
+| [CA/mingan-archipelago-national-park-reserve](../../../countries/CA/sights/mingan-archipelago-national-park-reserve.yaml) | 8.7 / 8.9 / 8.6 / 8.5 / 8.6 | impact: +0.6 vs peer; experience: +0.6 vs peer |
+| [NZ/milford-sound](../../../countries/NZ/sights/milford-sound.yaml) | 9.6 / 9.3 / 8.8 / 9.3 / 8.6 | impact: -0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-johnstone-strait — Johnstone Strait Northern Vancouver Island Guided Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/johnstone-strait.yaml)
+- Action: new
+- Scope: Boat and shore wildlife observation in Johnstone Strait; exclude Great Bear Rainforest tours and other coastal regions. Respect marine mammal regulations, no guaranteed sightings.
+- Representative coordinates: 50.5, -126.5; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.0 / 9.1 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://travel.destinationcanada.com/en-ca/things-to-do/pacific-wildlife-viewing-grizzlies-orcas, https://vancouverisland.travel/regions/telegraph-cove.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | uniqueness: +0.6 vs peer; impact: +0.3 vs peer |
+| [CA/gwaii-haanas](../../../countries/CA/sights/gwaii-haanas.yaml) | 9.0 / 9.2 / 9.2 / 8.5 / 8.8 | experience: +0.6 vs peer; depth: +0.3 vs peer |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | 9.0 / 9.2 / 8.8 / 8.9 / 8.5 | depth: +0.6 vs peer; impact: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-saguenay-whales — Saguenay–St Lawrence Marine Park Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/saguenay-whales.yaml)
+- Action: new
+- Scope: Regulated marine park whale-viewing circuit, boat and shore grouped; excludes terrestrial fjord park, no sightings guaranteed.
+- Representative coordinates: 48.14, -69.68; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.1 / 9.2 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://parks.canada.ca/amnc-nmca/qc/saguenay/activ/observation-watching, https://parks.canada.ca/amnc-nmca/qc/saguenay/visit/heures-hours.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | impact: +0.5 vs peer; experience: +0.4 vs peer |
+| [CA/mingan-archipelago-national-park-reserve](../../../countries/CA/sights/mingan-archipelago-national-park-reserve.yaml) | 8.7 / 8.9 / 8.6 / 8.5 / 8.6 | experience: +0.7 vs peer; impact: +0.5 vs peer |
+| [NZ/kaikoura-marine-wildlife-watching](../../../countries/NZ/sights/kaikoura-marine-wildlife-watching.yaml) | 9.0 / 9.2 / 8.8 / 8.9 / 8.5 | depth: +0.6 vs peer; significance: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-haida-heritage-centre — Haida Heritage Centre at Ḵay Llnagaay Skidegate — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/haida-heritage-centre.yaml)
+- Action: new
+- Scope: Public living-culture centre, ancestral village site, museum and interpretation; distinct from Gwaii Haanas protected landscape and SGang Gwaay.
+- Representative coordinates: 53.25, -131.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.0 / 9.2.
+- Categories: culture:9.4 history:9.4 architecture:9.2.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.haidaheritagecentre.com/explore/, https://www.haidaheritagecentre.com/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/gwaii-haanas](../../../countries/CA/sights/gwaii-haanas.yaml) | 9.0 / 9.2 / 9.2 / 8.5 / 8.8 | experience: +0.5 vs peer; depth: +0.4 vs peer |
+| [CA/wanuskewin](../../../countries/CA/sights/wanuskewin.yaml) | 8.1 / 8.7 / 9.0 / 8.5 / 8.1 | depth: +1.1 vs peer; impact: +0.9 vs peer |
+| [NZ/te-pa-tu](../../../countries/NZ/sights/te-pa-tu.yaml) | 8.9 / 9.2 / 9.1 / 9.3 / 9.0 | significance: +0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-war-museum — Canadian War Museum Ottawa — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-war-museum.yaml)
+- Action: new
+- Scope: Public galleries, artefacts, art and historical interpretation; independent from Museum of History and Parliament Hill.
+- Representative coordinates: 45.417, -75.718; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.3 / 9.1 / 9.3.
+- Categories: history:9.4 culture:9.3 architecture:9.1.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.canada.ca/en/canadian-heritage/campaigns/canada-pass/museums-galleries.html, https://www.canada.ca/en/services/culture/cultural-attractions/museums-galleries/national-museums.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [NZ/auckland-war-memorial-museum](../../../countries/NZ/sights/auckland-war-memorial-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.7 / 9.0 | experience: +0.4 vs peer; impact: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-museum-nature — Canadian Museum of Nature Ottawa — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-museum-nature.yaml)
+- Action: new
+- Scope: Natural history galleries in historic building; distinct from Royal Ontario Museum and War Museum.
+- Representative coordinates: 45.413, -75.688; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.1 / 9.0 / 9.2.
+- Categories: nature:9.4 family:9.3 architecture:9.2.
+- Overall: 89.85/100.
+- Decision: Source-informed provisional assessment from search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.canada.ca/en/canadian-heritage/campaigns/canada-pass/museums-galleries.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [CA/dinosaur-provincial-park](../../../countries/CA/sights/dinosaur-provincial-park.yaml) | 8.8 / 9.1 / 9.4 / 8.8 / 8.6 | depth: +0.6 vs peer; significance: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-national-gallery — National Gallery of Canada Ottawa — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/national-gallery.yaml)
+- Action: new
+- Scope: National art collections and gallery architecture; distinct from AGO and Montreal fine arts museum.
+- Representative coordinates: 45.429, -75.698; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 9.1 / 8.9 / 9.2.
+- Categories: culture:9.3 architecture:9.3 history:9.1.
+- Overall: 89.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/art-gallery-of-ontario](../../../countries/CA/sights/art-gallery-of-ontario.yaml) | 8.9 / 9.0 / 9.1 / 9.1 / 9.2 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer |
+| [CA/montreal-museum-of-fine-arts](../../../countries/CA/sights/montreal-museum-of-fine-arts.yaml) | 8.9 / 9.0 / 9.1 / 9.1 / 9.3 | uniqueness: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-signal-hill — Signal Hill National Historic Site St John's — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/signal-hill.yaml)
+- Action: new
+- Scope: Historic communications and fortification interpretation and public coastal views; not Cape Spear.
+- Representative coordinates: 47.57, -52.681; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 8.7.
+- Categories: history:9.3 photography:9.3 nature:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/hearts-content-cable-station](../../../countries/CA/sights/hearts-content-cable-station.yaml) | 7.3 / 8.5 / 8.9 / 8.0 / 7.4 | impact: +1.4 vs peer; depth: +1.3 vs peer |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | 8.0 / 8.1 / 8.6 / 8.5 / 7.8 | depth: +0.9 vs peer; impact: +0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-cape-spear — Cape Spear Lighthouse National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/cape-spear.yaml)
+- Action: new
+- Scope: Lighthouse heritage and coastal headland; separate from St John's Signal Hill.
+- Representative coordinates: 47.52, -52.62; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.7 / 8.7 / 8.5.
+- Categories: history:9.2 photography:9.3 nature:9.1.
+- Overall: 86.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/hearts-content-cable-station](../../../countries/CA/sights/hearts-content-cable-station.yaml) | 7.3 / 8.5 / 8.9 / 8.0 / 7.4 | impact: +1.4 vs peer; depth: +1.1 vs peer |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | 8.0 / 8.1 / 8.6 / 8.5 / 7.8 | impact: +0.7 vs peer; depth: +0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montmorency-falls — Montmorency Falls Park Québec — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montmorency-falls.yaml)
+- Action: new
+- Scope: Waterfall and public viewpoints, separate from Old Québec; no guaranteed seasonal activities.
+- Representative coordinates: 46.89, -71.15; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.3 / 8.8 / 8.5.
+- Categories: nature:9.3 photography:9.3 family:9.1.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/niagara-falls-canadian-viewpoints](../../../countries/CA/sights/niagara-falls-canadian-viewpoints.yaml) | 9.6 / 9.4 / 8.8 / 9.3 / 8.6 | impact: -0.8 vs peer; uniqueness: -0.8 vs peer |
+| [CA/hopewell-rocks-provincial-park](../../../countries/CA/sights/hopewell-rocks-provincial-park.yaml) | 8.9 / 9.1 / 8.5 / 9.0 / 8.1 | uniqueness: -0.5 vs peer; depth: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-grouse-mountain — Grouse Mountain Vancouver Summit and Alpine Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/grouse-mountain.yaml)
+- Action: new
+- Scope: Summit recreation and scenic views, not Capilano suspension bridge; seasonal conditions apply.
+- Representative coordinates: 49.38, -123.08; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.5 / 8.1 / 8.9 / 8.6.
+- Categories: nature:9.2 adventure:9.2 photography:9.2.
+- Overall: 85.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/capilano-suspension-bridge-park](../../../countries/CA/sights/capilano-suspension-bridge-park.yaml) | 8.7 / 8.5 / 7.5 / 8.9 / 8.4 | significance: +0.6 vs peer; depth: +0.2 vs peer |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 221 scope decisions
+
+Churchill polar bear viewing scoped to Wildlife Management Area outside existing Wapusk maternity-den visitor scope, beluga estuary separate; regional coordinate proxies, no guaranteed wildlife. Haida Heritage Centre outside Gwaii Haanas. Rocky Mountaineer separately scoped rail journey; non-additive overlap with parks. Cabot Trail deferred: existing Cape Breton Highlands record explicitly credits sections; West Coast Trail deferred pending parent scope (Parks Canada lists as reserve unit: https://parks.canada.ca/pn-np/bc/pacificrim/activ/ssco-wctu). Existing three unassessed and all prior scores preserved. All high ratings provisional from indexed excerpts, not independently audited; high anchor calibration pending. Canada selected based on low baseline and substantial identified omissions.

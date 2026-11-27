@@ -1,0 +1,16 @@
+id: sight-ca-haida-heritage-centre
+name: "Haida Heritage Centre at Ḵay Llnagaay Skidegate"
+location:
+  country_code: CA
+  latitude: 53.25
+  longitude: -131.99
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.2

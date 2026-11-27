@@ -1,0 +1,16 @@
+id: sight-ca-royal-tyrrell
+name: "Royal Tyrrell Museum of Palaeontology Drumheller"
+location:
+  country_code: CA
+  latitude: 51.479
+  longitude: -112.789
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.4
+  categories:
+    history: 9.4
+    nature: 9.4
+    family: 9.4
