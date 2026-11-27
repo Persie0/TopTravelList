@@ -2467,3 +2467,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Musée Franco-Américain Château de Blérancourt History Collections: 88.05/100 (desk-based provisional).
 
 30 additions, 21 desk-based provisional estimates, 9 source-informed candidates, 8 90+, 36 domestic peer ranking-row comparisons. France 955 ranked / 966 total; 11 existing unassessed unchanged. Compiègne national museums combined with palace. Historial Péronne/Thiepval linked museums only, excludes funerary monuments. Lewarde independent collection and interpretation only, no Delloye architecture duplicate. Villa Cavrois existing score retained; CMN describes architectural masterpiece and documented restoration (https://www.monuments-nationaux.fr/en/conservation-and-research/built-heritage/major-projects/cmn-s-major-projects ; https://www.villa-cavrois.fr/en/discover/the-restoration-of-the-villa-cavrois), flagged for upward reassessment. Coucy surviving ruins only. Armistice clearing precise serial scope pending. Next: Final northern residuals (Saint-Valery-sur-Somme, Saint-Amand, Valenciennes collection review, Guise castle, Boulogne museum collection scope, Thiepval/Vimy interpretation scope), then regional coverage and remaining high-priority omissions, including Corsica/overseas and 11 existing unassessed entries separately. Full Python validation pending.
+
+
+### Pass 165 — Corsica and northern residual audit
+
+- [x] FR — GR20 Corsica Multi-day Mountain Traverse: 93.60/100 (source-linked-unverified).
+- [x] FR — Bonifacio Historic Citadel and King of Aragon Staircase: 93.00/100 (source-linked-unverified).
+- [x] FR — Palais Fesch Ajaccio Italian Masters and Fine Arts Museum: 92.60/100 (source-linked-unverified).
+- [x] FR — Restonica Valley and Melo Capitello Lake Day Hikes: 91.65/100 (source-linked-unverified).
+- [x] FR — Aiguilles de Bavella Granite Needles and Local Mountain Trails: 91.90/100 (source-linked-unverified).
+- [x] FR — Désert des Agriates Saleccia Lotu and Ostriconi Coastal Trails: 91.45/100 (source-linked-unverified).
+- [x] FR — Palombaggia and Santa Giulia Bays and Beaches: 90.85/100 (source-linked-unverified).
+- [x] FR — Filitosa Prehistoric Statue-Menhirs Archaeological Site and Museum: 91.80/100 (source-linked-unverified).
+- [x] FR — Cap Corse Sentier des Douaniers Coastal Trails and Headlands: 90.60/100 (source-linked-unverified).
+- [x] FR — Calvi Historic Citadel and Upper Town: 90.45/100 (source-linked-unverified).
+- [x] FR — Corte Citadel and Musée de la Corse: 91.10/100 (source-linked-unverified).
+- [x] FR — Maison Bonaparte Ajaccio National Historic House Museum: 91.10/100 (source-linked-unverified).
+- [x] FR — Cité Internationale de la Langue Française Château de Villers-Cotterêts: 91.50/100 (source-linked-unverified).
+- [x] FR — Musée de Boulogne-sur-Mer Castle Museum Art and Ethnography Collections: 91.65/100 (source-linked-unverified).
+- [x] FR — Bastia Historic Port Terra Vecchia and Citadel: 88.90/100 (desk-based provisional).
+- [x] FR — Musée de Bastia Palais des Gouverneurs History Collections: 88.45/100 (desk-based provisional).
+- [x] FR — Ajaccio Historic Centre Cathedral and Harbour: 87.80/100 (desk-based provisional).
+- [x] FR — Pointe de la Parata and Îles Sanguinaires Coastal Viewpoints: 88.25/100 (desk-based provisional).
+- [x] FR — Aléria Roman Archaeological Site and Jérôme Carcopino Museum: 88.85/100 (desk-based provisional).
+- [x] FR — Cucuruzzu and Capula Bronze Age Archaeological Circuit: 88.90/100 (desk-based provisional).
+- [x] FR — Sartène Historic Granite Town: 87.50/100 (desk-based provisional).
+- [x] FR — Roccapina Lion Rock and Beach Trails: 87.80/100 (desk-based provisional).
+- [x] FR — Ospédale Forest Lake and Piscia di Gallu Waterfall Trails: 87.60/100 (desk-based provisional).
+- [x] FR — Nonza Historic Cliff Village and Black Beach Viewpoints: 87.65/100 (desk-based provisional).
+- [x] FR — Porto-Vecchio Historic Citadel and Harbour: 86.45/100 (desk-based provisional).
+- [x] FR — Balagne Hill Villages Pigna Sant’Antonino and Artisan Heritage: 87.85/100 (desk-based provisional).
+- [x] FR — Saint-Valery-sur-Somme Medieval Town and Harbour: 87.50/100 (desk-based provisional).
+- [x] FR — Château Fort de Guise Historic Fortress: 87.65/100 (desk-based provisional).
+- [x] FR — Tour Abbatiale Saint-Amand-les-Eaux Abbey Tower and Museum: 87.00/100 (desk-based provisional).
+- [x] FR — Château-Thierry Medieval Castle Ruins and Historic Town: 87.50/100 (desk-based provisional).
+
+30 additions, 16 desk-based provisional estimates, 14 source-informed candidates, 14 90+, 56 domestic peer ranking-row comparisons. France 985 ranked / 996 total; 11 existing unassessed unchanged. GR20 full traverse independently scoped from local Restonica and Bavella day hikes; shared route sections acknowledged, no separate individual summit scores. Lavezzi and marine cliffs remain in Bonifacio Strait; Scandola/Piana unchanged. Adjacent beaches and hill villages grouped. Boulogne castle collections independent of old town fabric. Thiepval and Vimy funerary heritage remains in existing serial entry, no new duplicate. Coordinates approximate. Next: Overseas France coverage: verify country-code separation for Réunion, Guadeloupe, Martinique, French Guiana, Mayotte and other territories; then 11 existing unassessed serial entries and residual gaps. Full Python validation pending.

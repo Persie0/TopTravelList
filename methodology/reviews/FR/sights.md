@@ -9282,3 +9282,605 @@ Peer ranking rows checked; individual YAML and international calibration pending
 ### Pass 164 follow-up
 
 Compiègne national museums combined with palace. Historial Péronne/Thiepval linked museums only, excludes funerary monuments. Lewarde independent collection and interpretation only, no Delloye architecture duplicate. Villa Cavrois existing score retained; CMN describes architectural masterpiece and documented restoration (https://www.monuments-nationaux.fr/en/conservation-and-research/built-heritage/major-projects/cmn-s-major-projects ; https://www.villa-cavrois.fr/en/discover/the-restoration-of-the-villa-cavrois), flagged for upward reassessment. Coucy surviving ruins only. Armistice clearing precise serial scope pending.
+
+
+## sight-fr-corsica-gr20 — GR20 Corsica Multi-day Mountain Traverse — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/corsica-gr20.yaml)
+- Action: new
+- Scope: Full long-distance traverse experience, not separate summits/day hikes.
+- Representative coordinates: 42.25, 9.05; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.2 / 9.4 / 9.4.
+- Categories: adventure:9.4,nature:9.4,photography:9.4.
+- Overall: 93.60/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Sports-inspiration/Hiking-and-the-mountains.
+- Research rationale: 180 km high mountain route in 16 stages; distinctive sustained trekking experience.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/puy-sancy](../../../countries/FR/sights/puy-sancy.yaml) | 9.3 / 9.1 / 9.0 / 9.3 / 9.3 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+| [FR/puy-mary](../../../countries/FR/sights/puy-mary.yaml) | 9.3 / 9.3 / 9.1 / 9.3 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/vosges-cretes](../../../countries/FR/sights/vosges-cretes.yaml) | 9.2 / 9.0 / 8.7 / 9.3 / 9.3 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [FR/haut-jura-trails](../../../countries/FR/sights/haut-jura-trails.yaml) | 8.9 / 8.8 / 8.5 / 8.9 / 9.1 | significance: +0.7 vs peer; uniqueness: +0.6 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-bonifacio-citadel — Bonifacio Historic Citadel and King of Aragon Staircase — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bonifacio-citadel.yaml)
+- Action: new
+- Scope: Historic town and land-based architectural visit; marine cliffs, island excursions and Lavezzi remain in Bonifacio Strait.
+- Representative coordinates: 41.387, 9.157; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.2 / 9.3 / 9.2.
+- Categories: architecture:9.4,photography:9.4,history:9.3.
+- Overall: 93.00/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/Travel-to-the-heart-of-history-Corsica-8-unmissable-cities-of-art ; https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Sports-inspiration/A-walkway-between-earth-and-sea-in-Bonifacio.
+- Research rationale: Medieval town above limestone cliffs, rock-cut stairway and historic streets.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/colmar-old-town](../../../countries/FR/sights/colmar-old-town.yaml) | 9.3 / 9.1 / 9.0 / 9.3 / 9.0 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [FR/sedan-castle](../../../countries/FR/sights/sedan-castle.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.2 | significance: -0.2 vs peer; impact: +0.1 vs peer |
+| [FR/haut-koenigsbourg](../../../countries/FR/sights/haut-koenigsbourg.yaml) | 9.3 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/bonifacio-strait](../../../countries/FR/sights/bonifacio-strait.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-fesch-ajaccio — Palais Fesch Ajaccio Italian Masters and Fine Arts Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/fesch-ajaccio.yaml)
+- Action: new
+- Scope: Museum collections only.
+- Representative coordinates: 41.922, 8.738; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.1 / 9.3.
+- Categories: culture:9.4,history:9.4.
+- Overall: 92.60/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/The-best-of-Corsican-museums-and-sites.
+- Research rationale: Major Italian painting collection, Napoleonic and Corsican collections; tourism authority describes Italian holdings as second to Louvre in France.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dijon-beaux-arts](../../../countries/FR/sights/dijon-beaux-arts.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/lille-beaux-arts](../../../countries/FR/sights/lille-beaux-arts.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; experience: -0.1 vs peer |
+| [FR/unterlinden-colmar](../../../countries/FR/sights/unterlinden-colmar.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/besancon-beaux-arts](../../../countries/FR/sights/besancon-beaux-arts.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.3 | significance: +0.1 vs peer; impact: +0.0 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-restonica-valley — Restonica Valley and Melo Capitello Lake Day Hikes — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/restonica-valley.yaml)
+- Action: new
+- Scope: Local valley and lake walks only, not GR20 traverse; route connectivity overlap documented.
+- Representative coordinates: 42.218, 9.033; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 8.8 / 9.3 / 9.2.
+- Categories: nature:9.4,adventure:9.4,photography:9.4.
+- Overall: 91.65/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-naturel/Tout-le-patrimoine-naturel/VALLEE-DE-LA-RESTONICA.
+- Research rationale: Glacial lakes, pine forest, high mountain scenery and river pools.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/puy-sancy](../../../countries/FR/sights/puy-sancy.yaml) | 9.3 / 9.1 / 9.0 / 9.3 / 9.3 | significance: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/herisson-seven-lakes](../../../countries/FR/sights/herisson-seven-lakes.yaml) | 9.4 / 9.3 / 8.8 / 9.4 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/vosges-cretes](../../../countries/FR/sights/vosges-cretes.yaml) | 9.2 / 9.0 / 8.7 / 9.3 / 9.3 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/corsica-gr20](../../../countries/FR/sights/corsica-gr20.yaml) | 9.4 / 9.4 / 9.2 / 9.4 / 9.4 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-bavella-day-hikes — Aiguilles de Bavella Granite Needles and Local Mountain Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bavella-day-hikes.yaml)
+- Action: new
+- Scope: Local needle viewpoints and day hikes; excludes full GR20 trek.
+- Representative coordinates: 41.795, 9.225; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.8 / 9.3 / 9.2.
+- Categories: nature:9.4,adventure:9.4,photography:9.4.
+- Overall: 91.90/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Inspirations-and-encounters/Corsica-s-most-beautiful-natural-sites ; https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Sports-inspiration/Hiking-and-the-mountains.
+- Research rationale: Distinctive granite needles, pine forest and rock formations.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/puy-sancy](../../../countries/FR/sights/puy-sancy.yaml) | 9.3 / 9.1 / 9.0 / 9.3 / 9.3 | uniqueness: +0.2 vs peer; significance: -0.2 vs peer |
+| [FR/restonica-valley](../../../countries/FR/sights/restonica-valley.yaml) | 9.3 / 9.2 / 8.8 / 9.3 / 9.2 | uniqueness: +0.1 vs peer; impact: +0.0 vs peer |
+| [FR/corsica-gr20](../../../countries/FR/sights/corsica-gr20.yaml) | 9.4 / 9.4 / 9.2 / 9.4 / 9.4 | significance: -0.4 vs peer; depth: -0.2 vs peer |
+| [FR/vosges-cretes](../../../countries/FR/sights/vosges-cretes.yaml) | 9.2 / 9.0 / 8.7 / 9.3 / 9.3 | uniqueness: +0.3 vs peer; impact: +0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-agriates-coast — Désert des Agriates Saleccia Lotu and Ostriconi Coastal Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/agriates-coast.yaml)
+- Action: new
+- Scope: Connected wild coast, beaches and access trails combined.
+- Representative coordinates: 42.724, 9.194; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 8.7 / 9.3 / 9.2.
+- Categories: beaches:9.4,nature:9.4,photography:9.4.
+- Overall: 91.45/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Inspirations-and-encounters/Corsica-s-most-beautiful-natural-sites ; https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Inspirations-Sea-and-rivers/Beaches-The-Coast.
+- Research rationale: Remote coastline and three notable beaches amid undeveloped scrubland.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/deux-caps](../../../countries/FR/sights/deux-caps.yaml) | 9.3 / 9.0 / 8.6 / 9.3 / 9.1 | uniqueness: +0.2 vs peer; significance: +0.1 vs peer |
+| [FR/baie-somme](../../../countries/FR/sights/baie-somme.yaml) | 9.3 / 9.2 / 9.0 / 9.3 / 9.3 | significance: -0.3 vs peer; depth: -0.1 vs peer |
+| [FR/bonifacio-strait](../../../countries/FR/sights/bonifacio-strait.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.0 | experience: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [FR/gulf-porto](../../../countries/FR/sights/gulf-porto.yaml) | 9.5 / 9.3 / 9.1 / 9.2 / 9.1 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-palombaggia-santa-giulia — Palombaggia and Santa Giulia Bays and Beaches — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/palombaggia-santa-giulia.yaml)
+- Action: new
+- Scope: Two nearby beach destinations grouped; excludes Bonifacio marine reserve.
+- Representative coordinates: 41.555, 9.314; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.5 / 9.4 / 9.1.
+- Categories: beaches:9.4,photography:9.4,relaxation:9.4.
+- Overall: 90.85/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Inspirations-Sea-and-rivers/Beaches-The-Coast ; https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/Road-trip-in-Corsica-1-week-to-discover-South-Corsica.
+- Research rationale: Fine sand, clear shallow water and pine-lined shores; distinct beach recreation.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/agriates-coast](../../../countries/FR/sights/agriates-coast.yaml) | 9.3 / 9.2 / 8.7 / 9.3 / 9.2 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/bonifacio-strait](../../../countries/FR/sights/bonifacio-strait.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.0 | significance: -0.4 vs peer; experience: +0.4 vs peer |
+| [FR/glenan-islands](../../../countries/FR/sights/glenan-islands.yaml) | 9.1 / 8.8 / 8.4 / 9.0 / 8.5 | depth: +0.6 vs peer; experience: +0.4 vs peer |
+| [FR/baie-somme](../../../countries/FR/sights/baie-somme.yaml) | 9.3 / 9.2 / 9.0 / 9.3 / 9.3 | significance: -0.5 vs peer; depth: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-filitosa — Filitosa Prehistoric Statue-Menhirs Archaeological Site and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/filitosa.yaml)
+- Action: new
+- Scope: Archaeological site and museum together.
+- Representative coordinates: 41.745, 8.871; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 9.0 / 9.2.
+- Categories: history:9.4,culture:9.4,photography:9.2.
+- Overall: 91.80/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/Corsica-s-6-cultural-treasures-must-see-archaeological-sites-and-museums ; https://www.ajaccio-tourisme.com/en/visites-loisirs/site-prehistorique-filitosa/.
+- Research rationale: Major prehistoric statuary site with interpretation of eight millennia of history.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/bibracte](../../../countries/FR/sights/bibracte.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.4 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+| [FR/alesia-museoparc](../../../countries/FR/sights/alesia-museoparc.yaml) | 9.0 / 9.2 / 9.4 / 9.2 / 9.3 | uniqueness: +0.2 vs peer; experience: -0.2 vs peer |
+| [FR/solutre-rock](../../../countries/FR/sights/solutre-rock.yaml) | 9.1 / 9.1 / 9.2 / 9.1 / 9.1 | uniqueness: +0.3 vs peer; impact: -0.1 vs peer |
+| [FR/vix-museum](../../../countries/FR/sights/vix-museum.yaml) | 9.0 / 9.4 / 9.4 / 9.0 / 9.1 | significance: -0.1 vs peer; depth: +0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-cap-corse-trails — Cap Corse Sentier des Douaniers Coastal Trails and Headlands — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cap-corse-trails.yaml)
+- Action: new
+- Scope: Northern coastal trail and viewpoints, not whole peninsula villages.
+- Representative coordinates: 43, 9.43; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.7 / 9.3 / 9.2.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/fr/Mon-sejour/Itineraires/Tous-les-itineraires/SENTIER-DES-DOUANIERS.
+- Research rationale: 19 km protected shoreline trail from Macinaggio toward Centuri.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/deux-caps](../../../countries/FR/sights/deux-caps.yaml) | 9.3 / 9.0 / 8.6 / 9.3 / 9.1 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/agriates-coast](../../../countries/FR/sights/agriates-coast.yaml) | 9.3 / 9.2 / 8.7 / 9.3 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/vosges-cretes](../../../countries/FR/sights/vosges-cretes.yaml) | 9.2 / 9.0 / 8.7 / 9.3 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/baie-somme](../../../countries/FR/sights/baie-somme.yaml) | 9.3 / 9.2 / 9.0 / 9.3 / 9.3 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-calvi-citadel — Calvi Historic Citadel and Upper Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/calvi-citadel.yaml)
+- Action: new
+- Scope: Historic fortified town and harbour viewpoints.
+- Representative coordinates: 42.569, 8.759; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.0 / 9.1 / 9.0.
+- Categories: architecture:9.4,photography:9.4,history:9.3.
+- Overall: 90.45/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/The-citadels-of-Corsica.
+- Research rationale: Genoese citadel overlooking the bay and mountain landscape.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/bonifacio-citadel](../../../countries/FR/sights/bonifacio-citadel.yaml) | 9.4 / 9.3 / 9.2 / 9.3 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [FR/belfort-citadel](../../../countries/FR/sights/belfort-citadel.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/colmar-old-town](../../../countries/FR/sights/colmar-old-town.yaml) | 9.3 / 9.1 / 9.0 / 9.3 / 9.0 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [FR/troyes-old-town](../../../countries/FR/sights/troyes-old-town.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.2 | significance: -0.2 vs peer; experience: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-corte-citadel-museum — Corte Citadel and Musée de la Corse — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/corte-citadel-museum.yaml)
+- Action: new
+- Scope: Inland citadel and ethnographic museum combined.
+- Representative coordinates: 42.304, 9.15; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.0 / 9.2.
+- Categories: history:9.4,culture:9.4,architecture:9.3.
+- Overall: 91.10/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.museudiacorsica.corsica/en/ ; https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/The-best-of-Corsican-museums-and-sites.
+- Research rationale: Unique inland Corsican citadel and regional ethnographic collections.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/calvi-citadel](../../../countries/FR/sights/calvi-citadel.yaml) | 9.1 / 9.0 / 9.0 / 9.1 / 9.0 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [FR/besancon-beaux-arts](../../../countries/FR/sights/besancon-beaux-arts.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/filitosa](../../../countries/FR/sights/filitosa.yaml) | 9.0 / 9.4 / 9.3 / 9.0 / 9.2 | uniqueness: -0.2 vs peer; significance: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-maison-bonaparte — Maison Bonaparte Ajaccio National Historic House Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/maison-bonaparte.yaml)
+- Action: new
+- Scope: Historic birthplace and museum, separate from Fesch collections.
+- Representative coordinates: 41.918, 8.738; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4,culture:9.3.
+- Overall: 91.10/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://musees-nationaux-malmaison.fr/musee-maisonbonaparte/en ; https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/Heritage-and-Museums.
+- Research rationale: National museum preserving Napoleon's family house and its interpretation.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/pasteur-houses](../../../countries/FR/sights/pasteur-houses.yaml) | 8.9 / 9.3 / 9.4 / 9.0 / 9.2 | uniqueness: -0.1 vs peer; depth: -0.1 vs peer |
+| [FR/chavaniac-lafayette](../../../countries/FR/sights/chavaniac-lafayette.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.7 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+| [FR/domremy-jeanne](../../../countries/FR/sights/domremy-jeanne.yaml) | 8.8 / 9.1 / 9.4 / 8.9 / 8.8 | depth: +0.3 vs peer; impact: +0.1 vs peer |
+| [FR/colombey-de-gaulle](../../../countries/FR/sights/colombey-de-gaulle.yaml) | 9.0 / 9.1 / 9.4 / 9.0 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-villers-cotterets-langue — Cité Internationale de la Langue Française Château de Villers-Cotterêts — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/villers-cotterets-langue.yaml)
+- Action: new
+- Scope: Restored château and language exhibitions combined.
+- Representative coordinates: 49.258, 3.091; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.1 / 9.2.
+- Categories: culture:9.4,history:9.4,architecture:9.3.
+- Overall: 91.50/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.cite-langue-francaise.fr/decouvrir/la-cite-internationale-de-la-langue-francaise ; https://www.monuments-nationaux.fr/actualites-du-cmn/le-chateau-de-villers-cotterets-devient-la-cite-internationale-de-la-langue-francaise.
+- Research rationale: Dedicated French language cultural institution in restored royal château.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/compiegne-palace](../../../countries/FR/sights/compiegne-palace.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [FR/cncs-moulins](../../../countries/FR/sights/cncs-moulins.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/guedelon](../../../countries/FR/sights/guedelon.yaml) | 9.2 / 9.4 / 9.0 / 9.4 / 9.3 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+| [FR/familistere-guise](../../../countries/FR/sights/familistere-guise.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-boulogne-museum-collections — Musée de Boulogne-sur-Mer Castle Museum Art and Ethnography Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/boulogne-museum-collections.yaml)
+- Action: new
+- Scope: Collections only; castle architecture already in upper-town entry.
+- Representative coordinates: 50.726, 1.617; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.0 / 9.3.
+- Categories: culture:9.4,history:9.4.
+- Overall: 91.65/100.
+- Decision: Source-informed editorial assessment from indexed excerpts; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://musee.boulogne-sur-mer.fr/collections/ ; https://www.boulonnaisautop.com/en/boulogne-sur-mer-ville-d-art-et-d-histoire-english/a-fortified-city/the-castle-museum.
+- Research rationale: More than 100,000 objects with notable Greek, Egyptian and Alaskan collections.
+- High-score challenge: provisional editorial assessment; no 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+| [FR/besancon-beaux-arts](../../../countries/FR/sights/besancon-beaux-arts.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; experience: -0.1 vs peer |
+| [FR/amiens-picardie](../../../countries/FR/sights/amiens-picardie.yaml) | 9.1 / 9.2 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/dijon-beaux-arts](../../../countries/FR/sights/dijon-beaux-arts.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-bastia-old-town — Bastia Historic Port Terra Vecchia and Citadel — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bastia-old-town.yaml)
+- Action: new
+- Scope: Port, citadel, churches and town streets; museum collections distinct.
+- Representative coordinates: 42.694, 9.451; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.9 / 8.9 / 8.8.
+- Categories: architecture:9.3,photography:9.3,history:9.2.
+- Overall: 88.90/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-bastia-museum — Musée de Bastia Palais des Gouverneurs History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bastia-museum.yaml)
+- Action: new
+- Scope: Collections only, excludes citadel fabric.
+- Representative coordinates: 42.692, 9.451; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3,culture:9.3.
+- Overall: 88.45/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-ajaccio-centre — Ajaccio Historic Centre Cathedral and Harbour — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ajaccio-centre.yaml)
+- Action: new
+- Scope: Historic streets and harbour, excludes Fesch and Maison Bonaparte.
+- Representative coordinates: 41.918, 8.739; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.8 / 8.7.
+- Categories: architecture:9.3,history:9.3,photography:9.2.
+- Overall: 87.80/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-sanguinaires-parata — Pointe de la Parata and Îles Sanguinaires Coastal Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sanguinaires-parata.yaml)
+- Action: new
+- Scope: Headland walks and island viewpoints.
+- Representative coordinates: 41.89, 8.605; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 88.25/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-aleria-archaeology — Aléria Roman Archaeological Site and Jérôme Carcopino Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/aleria-archaeology.yaml)
+- Action: new
+- Scope: Roman ruins and museum together.
+- Representative coordinates: 42.102, 9.513; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.8 / 8.9.
+- Categories: history:9.4,culture:9.3.
+- Overall: 88.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-cucuruzzu-capula — Cucuruzzu and Capula Bronze Age Archaeological Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cucuruzzu-capula.yaml)
+- Action: new
+- Scope: Linked archaeological sites; forest route included.
+- Representative coordinates: 41.718, 9.159; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.0 / 8.8 / 8.8.
+- Categories: history:9.4,nature:9.2,culture:9.3.
+- Overall: 88.90/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-sartene-centre — Sartène Historic Granite Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sartene-centre.yaml)
+- Action: new
+- Scope: Old town only.
+- Representative coordinates: 41.62, 8.974; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.8 / 8.6.
+- Categories: architecture:9.3,photography:9.3,history:9.2.
+- Overall: 87.50/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-roccapina — Roccapina Lion Rock and Beach Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/roccapina.yaml)
+- Action: new
+- Scope: Rock formation and immediate beach.
+- Representative coordinates: 41.51, 8.937; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.4 / 8.9 / 8.7.
+- Categories: nature:9.3,beaches:9.3,photography:9.4.
+- Overall: 87.80/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-ospedale-forest — Ospédale Forest Lake and Piscia di Gallu Waterfall Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ospedale-forest.yaml)
+- Action: new
+- Scope: Local forest and waterfall trail.
+- Representative coordinates: 41.69, 9.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.4 / 8.9 / 8.8.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 87.60/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-nonza-village — Nonza Historic Cliff Village and Black Beach Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nonza-village.yaml)
+- Action: new
+- Scope: Village and black beach views, outside northern customs trail.
+- Representative coordinates: 42.785, 9.344; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 8.8 / 8.6.
+- Categories: architecture:9.3,photography:9.4,nature:9.2.
+- Overall: 87.65/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-porto-vecchio-town — Porto-Vecchio Historic Citadel and Harbour — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/porto-vecchio-town.yaml)
+- Action: new
+- Scope: Town, not beaches.
+- Representative coordinates: 41.592, 9.28; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.6 / 8.8 / 8.5.
+- Categories: architecture:9.2,photography:9.2,history:9.1.
+- Overall: 86.45/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-balagne-villages — Balagne Hill Villages Pigna Sant’Antonino and Artisan Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/balagne-villages.yaml)
+- Action: new
+- Scope: Linked hill villages and craft heritage, excludes Calvi.
+- Representative coordinates: 42.6, 8.91; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.7 / 8.9 / 8.7.
+- Categories: architecture:9.3,photography:9.4,culture:9.2.
+- Overall: 87.85/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saint-valery-somme — Saint-Valery-sur-Somme Medieval Town and Harbour — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-valery-somme.yaml)
+- Action: new
+- Scope: Historic town only, estuary already covered.
+- Representative coordinates: 50.187, 1.633; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.8 / 8.6.
+- Categories: architecture:9.3,photography:9.3,history:9.2.
+- Overall: 87.50/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-guise-castle — Château Fort de Guise Historic Fortress — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/guise-castle.yaml)
+- Action: new
+- Scope: Fortress distinct from Familistère.
+- Representative coordinates: 49.897, 3.624; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.7 / 8.7.
+- Categories: architecture:9.3,history:9.3.
+- Overall: 87.65/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saint-amand-abbey — Tour Abbatiale Saint-Amand-les-Eaux Abbey Tower and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-amand-abbey.yaml)
+- Action: new
+- Scope: Abbey tower and ceramics museum, separate from mining basin.
+- Representative coordinates: 50.448, 3.426; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.6 / 8.7.
+- Categories: architecture:9.3,history:9.2,culture:9.2.
+- Overall: 87.00/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-thierry — Château-Thierry Medieval Castle Ruins and Historic Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-thierry.yaml)
+- Action: new
+- Scope: Castle and town, excludes funerary monuments.
+- Representative coordinates: 49.047, 3.402; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.8 / 8.6.
+- Categories: history:9.3,architecture:9.2,photography:9.2.
+- Overall: 87.50/100.
+- Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.

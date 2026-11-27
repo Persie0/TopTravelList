@@ -1,0 +1,16 @@
+id: sight-fr-corsica-gr20
+name: "GR20 Corsica Multi-day Mountain Traverse"
+location:
+  country_code: FR
+  latitude: 42.25
+  longitude: 9.05
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.4
+  depth: 9.4
+  categories:
+    adventure: 9.4
+    nature: 9.4
+    photography: 9.4
