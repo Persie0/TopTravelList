@@ -18,6 +18,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | EG | DONE — current queue | 85 ranked / 85 total; 43 additions since start of Egypt screen. Alexandria and Siwa final candidates resolved; Abusir and Islamic Cemetery deferred for access; Saint Catherine parent retained. Reopen on concrete substantial omission. |
 | TN | DONE — current queue | 59 total (48 ranked); 29 additions in passes 59–62. [Bizerte–Dougga regional inventory](https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga) resolved. Eleven prior unassessed remain separate; El Haouaria and Ghriba access conditional. Reopen on concrete substantial omission. |
 | DZ | DONE — current queue | 47 total (37 ranked); 22 additions in passes 63–65. Cap Carbon covered by Gouraya; Tadrart Rouge deferred for possible overlap. Ten prior unassessed separate; reopen for concrete substantial omission. |
-| MA | OPEN | 77 total (69 ranked); eight additions in pass 70. Final named queue resolved; two concrete candidates remain (Iriqui overlap check and Rabat Museum of History and Civilizations). Eight prior unassessed unchanged. |
+| MA | DONE — current queue | 79 total (71 ranked); 42 additions in passes 66–71. Iriqui lakebed separate from dune field, park aggregate excluded; Rabat archaeology museum resolved. Eight prior unassessed separate. Reopen on concrete substantial omission. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

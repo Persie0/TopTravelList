@@ -791,3 +791,10 @@ Eight additions and 32 peer rows; Morocco 61 ranked / 69 total. Official Azilal 
 - [x] MA — Tiznit Medina and Historic Walls: 84.30/100 (source-linked-unverified).
 
 Eight additions and 32 peer rows; Morocco 69 ranked / 77 total. Forty additions across passes 66–70. Oukaïmeden lift skiing excluded, Fez interiors separate from medina public walk, Ammeln distinct from Painted Rocks and Ait Mansour. Named final queue resolved. However official Souss-Massa itinerary also explicitly identifies Iriqui National Park; possible overlap with Erg Chigaga requires checking before closing. Additional major candidate Rabat Museum of History and Civilizations identified by MMVI map; leave Morocco open for these two concrete candidates rather than claim exhaustive closure. Eight prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 71 — Morocco final lake and archaeology candidates, queue closure
+
+- [x] MA — Rabat Museum of History and Civilizations: 87.60/100 (source-linked-unverified).
+- [x] MA — Lake Iriqui Desert Salt Flat: 84.85/100 (source-linked-unverified).
+
+Two additions and eight peer rows; Morocco 71 ranked / 79 total. Forty-two additions across passes 66–71. Iriqui park aggregate excluded due to Erg Chigaga overlap; lakebed supported as standalone excursion with separate geography. Rabat museum independently ticketed. Current named high-priority queue exhausted, not an exhaustive nationwide inventory. Close Morocco and rotate to another country; next Spain for bounded screening. Eight prior unassessed unchanged. Full Python validation and independent corroboration pending.

@@ -2383,3 +2383,80 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ma-rabat-history-civilizations-museum — Rabat Museum of History and Civilizations — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/rabat-history-civilizations-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated archaeological collection from prehistory to Islamic periods, including Roman bronzes from Volubilis; separately ticketed museum rather than Rabat's urban heritage ensemble or Volubilis ruins. Operator publishes hours and admission; current opening conditional.
+- Location check: 34.01377, -6.83159; [published representative point](https://mapcarta.com/W42354863), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.fnm.ma/museums/27); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/al-batha-museum](../../../countries/MA/sights/al-batha-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.6 / 8.5 | depth: +0.3 vs peer; significance: +0.2 vs peer. |
+| [MA/mohammed-vi-art-museum](../../../countries/MA/sights/mohammed-vi-art-museum.yaml) | 8.4 / 8.6 / 8.8 / 8.7 / 8.8 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [DZ/cirta-national-museum](../../../countries/DZ/sights/cirta-national-museum.yaml) | 8.2 / 8.5 / 8.9 / 8.5 / 8.6 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Important archaeological displays. |
+| Uniqueness | 8.8 | Distinct national archaeological collection. |
+| Significance | 9.2 | Nationally significant archaeological material. |
+| Experience | 8.6 | Dedicated chronological galleries. |
+| Depth | 8.8 | Multiple periods and sculpture collections. |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:8.4.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-lake-iriqui — Lake Iriqui Desert Salt Flat — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/lake-iriqui.yaml)
+- Action: new
+- Precise subject and limitations: Seasonal lakebed and salt-flat landscape within Iriqui National Park, distinct from already rated Erg Chigaga dune field. Published academic lake reference point, not an access point. Standalone lake excursion documented by https://desert.foumzguid.com/en/destinations/lake-iriqui/; exclude dunes and entire park aggregate. Guided permitted off-road access conditional; lake inundation, wildlife and safe crossing not guaranteed.
+- Location check: 29.812698, -6.50469; [published representative point](https://www.mdpi.com/2073-445x/14/1/104), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/iriki-national-park-crossing-foum-zguid-mhamid/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/erg-chigaga](../../../countries/MA/sights/erg-chigaga.yaml) | 9.3 / 8.9 / 8.3 / 8.9 / 8.7 | depth: -0.8 vs peer; impact: -0.6 vs peer. |
+| [MA/khnifiss-lagoon](../../../countries/MA/sights/khnifiss-lagoon.yaml) | 8.7 / 8.9 / 9.0 / 8.5 / 8.0 | significance: -0.8 vs peer; experience: -0.2 vs peer. |
+| [TN/chott-el-jerid](../../../countries/TN/sights/chott-el-jerid.yaml) | 8.9 / 8.8 / 8.5 / 8.2 / 7.8 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+| [DZ/taghit-dunes](../../../countries/DZ/sights/taghit-dunes.yaml) | 8.9 / 8.4 / 8.0 / 8.7 / 8.1 | uniqueness: +0.4 vs peer; experience: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Vast flat desert horizon. |
+| Uniqueness | 8.8 | Unusual seasonal Saharan basin. |
+| Significance | 8.2 | Regional wetland and desert heritage. |
+| Experience | 8.3 | Focused remote excursion. |
+| Depth | 7.9 | Bounded lakebed landscape. |
+
+- Applicable categories: nature:9.0, photography:9.2, adventure:8.9, wildlife:8.6.
+- Computed worldwide overall: 84.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
