@@ -1592,3 +1592,15 @@ Seven additions, 28 peer rows. France 234 ranked / 245 total; 11 existing unasse
 - [x] FR — Château de Noirmoutier Castle Museum: 86.60/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 241 ranked / 252 total; 11 existing unassessed unchanged. Garenne Lemot excludes Clisson town/castle; Nantes memorial excludes castle museum; natural history museum rated pre-closure galleries not future expansion; shipyard departure coordinate distinct from shipyard itself; Noirmoutier castle excluded from earlier coastal entry. Next bounded screen: Musée Dobrée Nantes, Écomusée de Saint-Nazaire, Musée de la Marine de Loire Châteauneuf-sur-Loire, Château de la Turmelière, Château de Goulaine, Musée du Vignoble Nantais, and Château d’Oudon (scope and duplicate checks). Full Python validation pending.
+
+### Pass 137 — specialist Loire museums and heritage sites
+
+- [x] FR — Musée Dobrée Nantes Archaeology and Art Museum: 89.30/100 (source-linked-unverified).
+- [x] FR — Écomusée de Saint-Nazaire Port and Industrial History Museum: 85.50/100 (source-linked-unverified).
+- [x] FR — Musée de la Marine de Loire River Navigation Museum: 85.00/100 (source-linked-unverified).
+- [x] FR — Domaine de la Turmelière Park and Historic Manor Ruins: 84.10/100 (source-linked-unverified).
+- [x] FR — Château de Goulaine Renaissance Castle and Gardens: 86.60/100 (source-linked-unverified).
+- [x] FR — Musée du Vignoble Nantais Wine Heritage Museum: 84.05/100 (source-linked-unverified).
+- [x] FR — Château d’Oudon Medieval Keep and Panorama: 86.20/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 248 ranked / 259 total; 11 existing unassessed unchanged. Écomusée excludes three other Saint-Nazaire attractions; Turmelière excludes lodging; Marine de Loire is in Centre-Val de Loire. Next bounded screen: Rotate to Nouvelle-Aquitaine priority gaps: Bordeaux Cité du Vin, Bassins des Lumières, Dune du Pilat, Saint-Émilion underground monuments, La Rochelle aquarium, Île de Ré coastal trails, and Château de la Rochefoucauld (scope and duplicate checks). Full Python validation pending.

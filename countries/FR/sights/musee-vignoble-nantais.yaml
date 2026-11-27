@@ -1,0 +1,16 @@
+id: sight-fr-musee-vignoble-nantais
+name: "Musée du Vignoble Nantais Wine Heritage Museum"
+location:
+  country_code: FR
+  latitude: 47.134658
+  longitude: -1.3300684
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.6
+  depth: 8.6
+  categories:
+    history: 8.9
+    culture: 9.0
+    family: 8.7

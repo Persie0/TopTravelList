@@ -9408,3 +9408,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-musee-dobree-nantes — Musée Dobrée Nantes Archaeology and Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-dobree-nantes.yaml)
+- Action: new
+- Precise subject and limitations: Renovated museum, integrated manor, galleries and collection; excludes nearby natural history museum.
+- Location check: 47.212417, -1.566457; [published representative point](https://www.outdooractive.com/en/poi/nantes-metropole/musee-dobree/807651460/), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.musee-dobree.fr/44/musee-et-collections/museum-collections/dobree_6424); indexed excerpts or source text inspected 2026-11-27. Operator identifies international collections and Anne of Brittany funerary reliquary; https://www.musee-dobree.fr/ describes the renovated buildings and gardens. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-arts-nantes](../../../countries/FR/sights/musee-arts-nantes.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | impact: -0.1 vs peer; experience: -0.1 vs peer. |
+| [FR/angers-fine-arts](../../../countries/FR/sights/angers-fine-arts.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [IE/national-museum-archaeology](../../../countries/IE/sights/national-museum-archaeology.yaml) | 8.5 / 8.7 / 9.1 / 8.7 / 8.8 | impact: +0.3 vs peer; depth: +0.3 vs peer. |
+| [PT/carmo-convent-museum](../../../countries/PT/sights/carmo-convent-museum.yaml) | 8.8 / 8.9 / 8.8 / 8.6 / 8.2 | depth: +0.9 vs peer; experience: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Historic mansion and varied galleries. |
+| Uniqueness | 8.9 | Distinct eclectic archaeological and decorative art collections. |
+| Significance | 9.1 | Regional and international collection heritage. |
+| Experience | 8.9 | Dedicated museum circuit. |
+| Depth | 9.1 | Multiple periods and collection disciplines. |
+
+- Applicable categories: culture:9.3, history:9.3, architecture:9.1.
+- Computed worldwide overall: 89.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-ecomusee-saint-nazaire — Écomusée de Saint-Nazaire Port and Industrial History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ecomusee-saint-nazaire.yaml)
+- Action: new
+- Precise subject and limitations: Port and city history collections, excludes Escal’Atlantic, Espadon and guided shipyard tours.
+- Location check: 47.27406, -2.19857; [published representative point](https://www.pornic.com/resa/ssnztourisme-snzecomusee/visite-de-l-ecomusee-de-saint-nazaire.html), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.saint-nazaire-tourisme.uk/attractions-and-tours/attractions/ecomusee/); indexed excerpts or source text inspected 2026-11-27. Local tourism confirms distinct museum at 15 avenue de Saint-Hubert. https://mapcarta.com/W120513260 corroborates coordinates but has erroneous region label; conflicting Batz tourism longitude rejected. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/escal-atlantic](../../../countries/FR/sights/escal-atlantic.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [FR/espadon-submarine](../../../countries/FR/sights/espadon-submarine.yaml) | 8.7 / 9.0 / 8.9 / 8.8 / 8.2 | uniqueness: -0.4 vs peer; depth: +0.4 vs peer. |
+| [GB/titanic-belfast](../../../countries/GB/sights/titanic-belfast.yaml) | 8.8 / 9.0 / 8.9 / 9.0 / 8.7 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | experience: -0.4 vs peer; depth: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Focused port history displays. |
+| Uniqueness | 8.6 | Distinct local industrial and city history. |
+| Significance | 8.8 | Regional maritime and industrial heritage. |
+| Experience | 8.6 | Dedicated interpretive museum. |
+| Depth | 8.6 | Several historical themes. |
+
+- Applicable categories: history:9.1, culture:9.0, family:8.8.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-marine-loire — Musée de la Marine de Loire River Navigation Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-marine-loire.yaml)
+- Action: new
+- Precise subject and limitations: Three-level museum in Châteauneuf-sur-Loire, Centre-Val de Loire; no broader Loire Valley landscape score transferred.
+- Location check: 47.86452923, 2.21758604; [published representative point](https://www.musee-marinedeloire.fr/le-musee/the-loire-marine-museum/), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.musee-marinedeloire.fr/le-musee/the-loire-marine-museum/); indexed excerpts or source text inspected 2026-11-27. Operator publishes coordinates and one-to-one-and-a-half-hour visit; https://www.cirkwi.com/fr/point-interet/380091-musee-de-la-marine-de-loire corroborates collections and nearby point. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/escal-atlantic](../../../countries/FR/sights/escal-atlantic.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.8 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [FR/historial-vendee](../../../countries/FR/sights/historial-vendee.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 9.0 | impact: -0.4 vs peer; depth: -0.4 vs peer. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | impact: -0.4 vs peer; experience: -0.4 vs peer. |
+| [PT/carmo-convent-museum](../../../countries/PT/sights/carmo-convent-museum.yaml) | 8.8 / 8.9 / 8.8 / 8.6 / 8.2 | impact: -0.6 vs peer; depth: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | River transport artifacts and reconstructions. |
+| Uniqueness | 8.6 | Specialist inland navigation collection. |
+| Significance | 8.7 | Regional river trade and boatbuilding history. |
+| Experience | 8.6 | Dedicated educational circuit. |
+| Depth | 8.6 | Three levels and multiple themes. |
+
+- Applicable categories: history:9.1, culture:9.0, family:8.8.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-turmeliere-park — Domaine de la Turmelière Park and Historic Manor Ruins — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/turmeliere-park.yaml)
+- Action: new
+- Precise subject and limitations: Park and medieval manor ruins associated with Joachim du Bellay; excludes accommodation interiors and separate literary museum.
+- Location check: 47.3349856, -1.1848713; [published representative point](https://www.cirkwi.com/en/point-interet/451241-ruines-du-manoir-de-la-turmeliere), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.anjou-loire-valley.co.uk/diffusio/visit/parc-du-chateau-de-la-turmeliere-oree-d-anjou_TFOPCUPDL049V50H2TP); indexed excerpts or source text inspected 2026-11-27. Anjou tourism confirms path to former manor and exterior circuit; https://www.turmeliere.org/ identifies modern château accommodation, excluded. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/garenne-lemot](../../../countries/FR/sights/garenne-lemot.yaml) | 8.6 / 8.8 / 8.7 / 8.9 / 8.7 | impact: -0.4 vs peer; experience: -0.4 vs peer. |
+| [FR/logis-chabotterie](../../../countries/FR/sights/logis-chabotterie.yaml) | 8.5 / 8.6 / 8.8 / 8.8 / 8.7 | depth: -0.4 vs peer; impact: -0.3 vs peer. |
+| [GB/dunluce-castle](../../../countries/GB/sights/dunluce-castle.yaml) | 8.8 / 8.7 / 8.6 / 8.6 / 7.7 | impact: -0.6 vs peer; depth: +0.6 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | impact: -0.5 vs peer; experience: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.2 | Wooded park and historic ruins. |
+| Uniqueness | 8.5 | Literary association adds distinction. |
+| Significance | 8.6 | Regional literary and manor heritage. |
+| Experience | 8.5 | Documented exterior walk. |
+| Depth | 8.3 | Compact ruins and park circuit. |
+
+- Applicable categories: history:8.9, culture:8.9, nature:8.8, relaxation:8.9.
+- Computed worldwide overall: 84.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-goulaine — Château de Goulaine Renaissance Castle and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-goulaine.yaml)
+- Action: new
+- Precise subject and limitations: Castle visitor rooms and gardens only; excludes independent vineyard museum and obsolete attractions not confirmed in current visitor description.
+- Location check: 47.20435, -1.40283; [published representative point](https://mapcarta.com/W61329148), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateaudegoulaine.fr/visites-animations); indexed excerpts or source text inspected 2026-11-27. Operator describes rooms and gardens; mapped castle coordinates corroborate heritage location. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-kerjean](../../../countries/FR/sights/chateau-kerjean.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 8.8 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+| [FR/chateau-serrant](../../../countries/FR/sights/chateau-serrant.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.9 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | impact: -0.3 vs peer; significance: -0.2 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | significance: +0.3 vs peer; experience: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Decorated Renaissance residence. |
+| Uniqueness | 8.7 | Distinct regional château setting. |
+| Significance | 8.7 | Regional architectural and family heritage. |
+| Experience | 8.7 | Dedicated interior and garden visit. |
+| Depth | 8.6 | Several rooms and grounds. |
+
+- Applicable categories: architecture:9.1, history:9.1, photography:9.0, culture:9.0.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-vignoble-nantais — Musée du Vignoble Nantais Wine Heritage Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-vignoble-nantais.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated viticultural equipment and regional wine history museum in Le Pallet; excludes broader vineyards and winery tours.
+- Location check: 47.134658, -1.3300684; [published representative point](https://www.cirkwi.com/en/point-interet/450887-musee-du-vignoble-nantais), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.musee-vignoble-nantais.eu/en/); indexed excerpts or source text inspected 2026-11-27. Municipality https://www.lepallet.fr/tourisme/sortir-bouger/musee-du-vignoble-nantais/ confirms preservation role; tourism record describes over 500 objects and gives coordinates. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-imprimerie-nantes](../../../countries/FR/sights/musee-imprimerie-nantes.yaml) | 8.4 / 8.9 / 8.6 / 8.9 / 8.5 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [PT/gaia-port-wine-lodges](../../../countries/PT/sights/gaia-port-wine-lodges.yaml) | 8.5 / 8.8 / 8.8 / 8.9 / 8.7 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | impact: -0.5 vs peer; experience: -0.4 vs peer. |
+| [FR/historial-vendee](../../../countries/FR/sights/historial-vendee.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 9.0 | impact: -0.5 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.1 | Specialist historic tools and displays. |
+| Uniqueness | 8.5 | Coherent vine-to-wine industrial collection. |
+| Significance | 8.5 | Regional viticultural heritage. |
+| Experience | 8.6 | Educational museum and workshops. |
+| Depth | 8.6 | Multiple production stages. |
+
+- Applicable categories: history:8.9, culture:9.0, family:8.7.
+- Computed worldwide overall: 84.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-oudon — Château d’Oudon Medieval Keep and Panorama — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-oudon.yaml)
+- Action: new
+- Precise subject and limitations: Fortified enclosure, octagonal keep, exhibits and terrace; excludes wider Loire paths and village.
+- Location check: 47.3460045, -1.2899309; [published representative point](https://www.cirkwi.com/en/point-interet/450866-chateau-medieval-d-oudon), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.oudon.fr/tourisme-culture/tourisme/a-voir-a-visiter/chateau-medieval); indexed excerpts or source text inspected 2026-11-27. Municipality documents keep, construction beginning in 1392 and terrace; regional tourism confirms dedicated visit and point. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-noirmoutier](../../../countries/FR/sights/chateau-noirmoutier.yaml) | 8.6 / 8.6 / 8.8 / 8.8 / 8.5 | depth: -0.3 vs peer; significance: -0.1 vs peer. |
+| [FR/chateau-tiffauges](../../../countries/FR/sights/chateau-tiffauges.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.8 | depth: -0.6 vs peer; experience: -0.3 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | impact: -0.5 vs peer; significance: -0.4 vs peer. |
+| [GB/dunluce-castle](../../../countries/GB/sights/dunluce-castle.yaml) | 8.8 / 8.7 / 8.6 / 8.6 / 7.7 | depth: +0.5 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Distinctive keep and river panorama. |
+| Uniqueness | 8.7 | Unusual octagonal tower. |
+| Significance | 8.7 | Regional medieval defensive history. |
+| Experience | 8.7 | Dedicated tower and family visit. |
+| Depth | 8.2 | Focused single fortress circuit. |
+
+- Applicable categories: architecture:9.1, history:9.0, photography:9.1, family:8.8.
+- Computed worldwide overall: 86.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
