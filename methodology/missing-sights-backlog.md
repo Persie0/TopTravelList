@@ -1863,3 +1863,38 @@ Twenty additions; 16 provisional desk estimates, four researched candidates (2 9
 32 additions, 20 fast provisional estimates, 12 source-informed candidates, 8 90+, 47 peer comparisons. France 445 ranked / 456 total; 11 existing unassessed unchanged. Millau uniqueness 9.5 reviewed against operator 343m structural height and visitor route; international comparison outstanding. Conques abbey and bridge, Auch cathedral, La Romieu collegiate church and Larressingle Pont d'Artigues retained under Santiago property (https://whc.unesco.org/en/decisions/7982/ and https://www.tourisme-conques.fr/en/en-conques/the-village-of-conques); independent ratings limited to distinct townscape. Troumouse and Pont d'Espagne deferred to national park/UNESCO overlap review. Néouvielle reserve specifically outside national park core (https://pyrenees-parcnational.fr/qui-sommes-nous/le-territoire-du-parc-national); distinct scope. Tarn recreation and Cité de Pierres geology distinguished from agro-pastoral heritage; overlapping geography flagged. Tentative cave-series boundaries unresolved. 1 peer rows not located and omitted. Next bounded screen: Occitanie Mediterranean and Cévennes: Montpellier Musée Fabre, historic Écusson, Jardin des Plantes, aquarium, Nîmes arena and gardens, Musée de la Romanité, Uzès, Haribo museum, Aigues-Mortes, Sète, Étang de Thau, Saint-Guilhem-le-Désert Santiago overlap, Cirque de Navacelles, Grotte des Demoiselles and Clamouse, Gorges de l'Hérault, Lodève, Le Salagou, Pézenas, Narbonne, Carcassonne non-UNESCO venues, and Pyrénées-Orientales. Full Python validation pending.
 
 Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Bridge, ES Vizcaya Bridge for Millau; FR Laguiole for Roquefort, now available after first commit). Pass 147 total 50 peer comparisons. Millau 9.5 uniqueness retained provisionally; international bridge-type comparison added. Removed inapplicable food category from newly added Laguiole cutlery-workshop record without changing core scores. Full validation still pending.
+
+### Pass 148 — accelerated Mediterranean Occitanie audit
+
+- [x] FR — Nîmes Roman Amphitheatre: 92.55/100 (source-linked-unverified).
+- [x] FR — Musée Fabre Montpellier Fine Arts Museum: 91.65/100 (source-linked-unverified).
+- [x] FR — Musée de la Romanité Nîmes Archaeology Museum: 91.40/100 (source-linked-unverified).
+- [x] FR — Aigues-Mortes Fortified Town and Ramparts: 91.55/100 (source-linked-unverified).
+- [x] FR — Narbo Via Roman Archaeology Museum Narbonne: 91.20/100 (source-linked-unverified).
+- [x] FR — La Bambouseraie en Cévennes Botanical Gardens: 90.75/100 (source-linked-unverified).
+- [x] FR — Grotte des Demoiselles Cathedral Cave and Funicular: 91.10/100 (source-linked-unverified).
+- [x] FR — Grotte de Clamouse Crystal Cave: 90.15/100 (source-linked-unverified).
+- [x] FR — Cirque de Navacelles Canyon Viewpoints and Trails: 90.30/100 (source-linked-unverified).
+- [x] FR — Abbaye de Fontfroide Cistercian Abbey and Gardens: 90.20/100 (source-linked-unverified).
+- [x] FR — Uzès Historic Centre and Ducal Castle: 89.65/100 (source-linked-unverified).
+- [x] FR — Salins d’Aigues-Mortes Saltworks and Visitor Tours: 89.30/100 (source-linked-unverified).
+- [x] FR — Montpellier Écusson Historic Centre and Cathedral: 88.80/100 (desk-based provisional).
+- [x] FR — Jardin des Plantes Montpellier Botanical Garden: 87.25/100 (desk-based provisional).
+- [x] FR — Planet Ocean Montpellier Aquarium and Planetarium: 86.45/100 (desk-based provisional).
+- [x] FR — Jardins de la Fontaine and Tour Magne Nîmes: 88.85/100 (desk-based provisional).
+- [x] FR — Carré d’Art Nîmes Contemporary Art Museum: 86.35/100 (desk-based provisional).
+- [x] FR — Musée du Bonbon Haribo Uzès: 83.05/100 (desk-based provisional).
+- [x] FR — Sète Historic Canals and Mont Saint-Clair Viewpoints: 88.20/100 (desk-based provisional).
+- [x] FR — Étang de Thau Lagoon and Oyster Heritage: 88.25/100 (desk-based provisional).
+- [x] FR — Lac du Salagou and Cirque de Mourèze Red Landscapes: 88.35/100 (desk-based provisional).
+- [x] FR — Pic Saint-Loup Mountain Hiking Trails: 86.80/100 (desk-based provisional).
+- [x] FR — Saint-Guilhem-le-Désert Medieval Village Streets: 87.95/100 (desk-based provisional).
+- [x] FR — Gorges de l’Hérault River Canyon and Trails: 87.15/100 (desk-based provisional).
+- [x] FR — Pézenas Historic Centre and Artisan Streets: 87.35/100 (desk-based provisional).
+- [x] FR — Musée de Lodève Art and Earth History Museum: 87.20/100 (desk-based provisional).
+- [x] FR — Abbaye de Valmagne Cistercian Abbey: 88.25/100 (desk-based provisional).
+- [x] FR — Narbonne Archbishops’ Palace and Saint-Just Cathedral: 88.95/100 (desk-based provisional).
+- [x] FR — Horreum Roman Underground Galleries Narbonne: 86.30/100 (desk-based provisional).
+- [x] FR — Train à Vapeur des Cévennes Heritage Railway: 87.20/100 (desk-based provisional).
+
+30 additions, 18 fast provisional estimates, 12 source-informed candidates, 10 90+, 48 peer comparisons. France 475 ranked / 486 total; 11 existing unassessed unchanged. Navacelles canyon geology separately scoped with UNESCO landscape geographic overlap flagged; Saint-Guilhem village excludes Santiago-listed abbey and Pont du Diable. Saltworks excludes Camargue broad wildlife credit. Narbo Via independent of palace collections; cave-series boundaries unresolved. 0 requested peer rows not located; domestic comparisons only, international calibration pending. Next bounded screen: Remaining Mediterranean Occitanie: Trabuc cave, Musée du Désert, Pont du Gard ancillary scope, Cèze cascades, La Roque-sur-Cèze, Lussan, Montclus, Maguelone cathedral, Espiguette dunes (Camargue overlap), La Grande Motte architecture, Agde, Carcassonne Bastide Saint-Louis, Lagrasse, Château de Quéribus/Peyrepertuse serial overlap, Sigean reserve, Collioure, Perpignan, Villefranche-de-Conflent Vauban overlap, and eastern Pyrenees. Full Python validation pending.
