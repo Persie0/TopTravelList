@@ -910,3 +910,16 @@ Eight additions, 32 peer rows. Spain 163 ranked / 178 total. Cadaqués excludes 
 - [x] ES — Alquézar Historic Village and Vero Gorge Walkways: 88.20/100 (source-linked-unverified).
 
 Six additions and 24 peer rows. Spain 169 ranked / 184 total. Retiro explicitly within existing landscape https://whc.unesco.org/en/list/1618; Mérida National Museum of Roman Art listed component 664-017 https://whc.unesco.org/en/list/664/maps/; no new overlapping entries. Pilar excluded from Mudéjar component list, independently added. Next bounded screen: Turia Gardens, Montjuïc park and castle (exclude MNAC and already rated venues), Tibidabo, Madrid historic core (exclude palace and Prado-Retiro), Cuenca Serranía other natural sights, National Sculpture Museum Valladolid, Monastery of Santo Domingo de Silos, and A Coruña coastal walks (exclude Tower of Hercules). Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 81 — Spanish urban, museum and natural attractions; current queue closure
+
+- [x] ES — Turia Gardens Valencia: 86.60/100 (source-linked-unverified).
+- [x] ES — Montjuïc Castle and Hilltop Gardens: 87.65/100 (source-linked-unverified).
+- [x] ES — Tibidabo Amusement Park and Panoramic Area: 86.80/100 (source-linked-unverified).
+- [x] ES — Madrid Historic Centre (Plaza Mayor and Sol): 89.55/100 (source-linked-unverified).
+- [x] ES — Nacimiento del Río Cuervo Natural Monument: 84.65/100 (source-linked-unverified).
+- [x] ES — National Sculpture Museum Valladolid: 89.15/100 (source-linked-unverified).
+- [x] ES — Santo Domingo de Silos Monastery: 87.95/100 (source-linked-unverified).
+- [x] ES — Riazor and Orzán Beach Promenade A Coruña: 84.05/100 (source-linked-unverified).
+
+Eight additions and 32 peer rows. Spain 177 ranked / 192 total, 75 additions across passes 72–81. Current bounded candidate queue resolved; close Spain and rotate to an unreviewed country (next Portugal, subject to existing status check). This is not an exhaustive nationwide inventory. Madrid and Montjuïc scope excludes existing attractions; Riazor–Orzán excludes Tower of Hercules; Silos potential overlap with unassessed regional series flagged. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
