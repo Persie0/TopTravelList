@@ -1,0 +1,16 @@
+id: sight-us-national-civil-war-museum
+name: "National Civil War Museum Harrisburg Pennsylvania"
+location:
+  country_code: US
+  latitude: 40.271
+  longitude: -76.855
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.0
+    family: 8.8

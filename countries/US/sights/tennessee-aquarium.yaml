@@ -1,0 +1,16 @@
+id: sight-us-tennessee-aquarium
+name: "Tennessee Aquarium River Journey and Ocean Journey Chattanooga"
+location:
+  country_code: US
+  latitude: 35.055
+  longitude: -85.311
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.3
+  depth: 9.2
+  categories:
+    wildlife: 9.4
+    family: 9.3
+    nature: 9.2

@@ -13364,3 +13364,260 @@ Ranking rows checked; independent factual, coordinate, peer YAML, international 
 
 Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
 
+## sight-us-lincoln-presidential-museum — Abraham Lincoln Presidential Library and Museum Springfield Illinois — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lincoln-presidential-museum.yaml)
+- Action: new
+- Scope: Permanent historical exhibitions and immersive interpretation of Lincoln's life and presidency; library research holdings not equated with public displays.
+- Representative coordinates: 39.803, -89.648; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.4 / 9.2 / 9.2.
+- Categories: history:9.4 culture:9.3 family:9.1.
+- Overall: 92.10/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://presidentlincoln.illinois.gov/exhibits/; https://presidentlincoln.illinois.gov/exhibits/museum/; https://www.visitspringfieldillinois.com/LocationDetails/?id=Abraham-Lincoln-Presidential-Museum.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; experience: +0.1 vs peer |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | experience: +0.5 vs peer; depth: +0.3 vs peer |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | experience: +0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | depth: -0.2 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fdr-hyde-park — Franklin D Roosevelt Presidential Library Museum and Springwood Home Hyde Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fdr-hyde-park.yaml)
+- Action: new
+- Scope: First presidential library, historic Springwood residence, grounds and public museum exhibitions grouped; excludes separately located Val-Kill and Vanderbilt Mansion.
+- Representative coordinates: 41.766, -73.936; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.0 / 9.2.
+- Categories: history:9.4 culture:9.2 architecture:9.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/places/franklin-d-roosevelt-presidential-library-and-museum.htm; https://www.fdrlibrary.org/roosevelt-homes; https://www.hydeparkny.gov/325/Franklin-D-Roosevelt-Home.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-archives](../../../countries/US/sights/national-archives.yaml) | 9.0 / 9.4 / 9.4 / 8.7 / 8.9 | experience: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/lincoln-presidential-museum](../../../countries/US/sights/lincoln-presidential-museum.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.2 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/monticello](../../../countries/US/sights/monticello.yaml) | 8.2 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +1.2 vs peer; impact: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-reagan-presidential-library — Ronald Reagan Presidential Library and Museum Simi Valley — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/reagan-presidential-library.yaml)
+- Action: new
+- Scope: Presidential history exhibits and Air Force One Pavilion grouped; historically used presidential aircraft accessible on museum terms.
+- Representative coordinates: 34.26, -118.82; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.1 / 9.1.
+- Categories: history:9.3 culture:9.1 family:9.1.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://reaganlibrary.archives.gov/permanent-exhibits/air-force-one-pavilion; https://www.reaganlibrary.gov/frequently-asked-questions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/lincoln-presidential-museum](../../../countries/US/sights/lincoln-presidential-museum.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.2 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+| [US/fdr-hyde-park](../../../countries/US/sights/fdr-hyde-park.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | significance: -0.3 vs peer; experience: +0.1 vs peer |
+| [US/museum-of-flight](../../../countries/US/sights/museum-of-flight.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.3 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-army-museum — National Museum of the United States Army Fort Belvoir Virginia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-army-museum.yaml)
+- Action: new
+- Scope: Public military history museum, permanent galleries covering service across periods and society; no access assumed to restricted installations.
+- Representative coordinates: 38.724, -77.168; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.3 / 9.1 / 9.2.
+- Categories: history:9.4 culture:9.1 family:9.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.thenmusa.org/exhibits/; https://history.army.mil/Army-Museum-Enterprise/Find-an-Army-Museum/National-Museum-of-the-United-States-Army/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/national-wwi-museum](../../../countries/US/sights/national-wwi-museum.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/marine-corps-museum](../../../countries/US/sights/marine-corps-museum.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.1 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-charles-wright-museum — Charles H Wright Museum of African American History Detroit — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/charles-wright-museum.yaml)
+- Action: new
+- Scope: Long-term And Still We Rise exhibition and complementary public galleries; independent of nearby Detroit Institute of Arts.
+- Representative coordinates: 42.359, -83.062; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.0 / 9.2.
+- Categories: history:9.4 culture:9.3 architecture:8.8.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.thewright.org/exhibitions/and-still-we-rise; https://www.thewright.org/visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/national-underground-railroad](../../../countries/US/sights/national-underground-railroad.yaml) | 8.8 / 8.9 / 9.1 / 8.8 / 8.9 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/montgomery-legacy-sites](../../../countries/US/sights/montgomery-legacy-sites.yaml) | 9.3 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-tennessee-aquarium — Tennessee Aquarium River Journey and Ocean Journey Chattanooga — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tennessee-aquarium.yaml)
+- Action: new
+- Scope: Two aquarium buildings grouped, with substantial freshwater and marine collections; distinctive river ecology interpretation.
+- Representative coordinates: 35.055, -85.311; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.9 / 9.3 / 9.2.
+- Categories: wildlife:9.4 family:9.3 nature:9.2.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://tnaqua.org/explore/; https://tnaqua.org/visitor-information/; https://tnaqua.org/exhibit/tennessee-river/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-aquarium](../../../countries/US/sights/national-aquarium.yaml) | 9.0 / 8.9 / 9.0 / 9.3 / 9.1 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer |
+| [US/shedd-aquarium](../../../countries/US/sights/shedd-aquarium.yaml) | 8.9 / 8.7 / 8.9 / 9.1 / 9.0 | uniqueness: +0.3 vs peer; experience: +0.2 vs peer |
+| [US/new-england-aquarium](../../../countries/US/sights/new-england-aquarium.yaml) | 8.8 / 8.6 / 8.7 / 9.0 / 8.8 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+| [US/arizona-sonora-desert](../../../countries/US/sights/arizona-sonora-desert.yaml) | 9.1 / 9.2 / 8.9 / 9.2 / 9.2 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-truman-presidential-library — Harry S Truman Presidential Library and Museum Independence Missouri — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/truman-presidential-library.yaml)
+- Action: new
+- Scope: Presidential museum with interactive interpretation and replica Oval Office; separate from Truman's residence.
+- Representative coordinates: 39.104, -94.421; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.9 / 9.1.
+- Categories: history:9.3 culture:9.1 family:8.8.
+- Overall: 89.20/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.trumanlibraryinstitute.org/library-museum/museum-exhibits/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lincoln-presidential-museum](../../../countries/US/sights/lincoln-presidential-museum.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/fdr-hyde-park](../../../countries/US/sights/fdr-hyde-park.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-eisenhower-presidential-library — Dwight D Eisenhower Presidential Library Museum and Boyhood Home Abilene — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/eisenhower-presidential-library.yaml)
+- Action: new
+- Scope: Presidential museum and childhood residence on one campus; separate from other presidential sites.
+- Representative coordinates: 38.911, -97.212; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.8 / 9.0.
+- Categories: history:9.3 culture:9.1 architecture:8.8.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.archives.gov/presidential-libraries/visit/eisenhower.html; https://www.archives.gov/about/speeches/ferriero/eisenhower-leader-free-world.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lincoln-presidential-museum](../../../countries/US/sights/lincoln-presidential-museum.yaml) | 9.1 / 9.2 / 9.4 / 9.2 / 9.2 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-civil-war-museum — National Civil War Museum Harrisburg Pennsylvania — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-civil-war-museum.yaml)
+- Action: new
+- Scope: Public Civil War exhibitions, artifacts and interpretation; geographically separate from Gettysburg and Vicksburg.
+- Representative coordinates: 40.271, -76.855; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.7 / 9.1 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9 family:8.8.
+- Overall: 87.85/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nationalcivilwarmuseum.org/events-exhibits/exhibits/; https://www.nationalcivilwarmuseum.org/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gettysburg](../../../countries/US/sights/gettysburg.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.3 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/vicksburg](../../../countries/US/sights/vicksburg.yaml) | 8.9 / 9.1 / 9.4 / 8.9 / 9.2 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-lincoln-park-zoo — Lincoln Park Zoo Chicago — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lincoln-park-zoo.yaml)
+- Action: new
+- Scope: Urban zoo with approximately 200 species, diverse habitats and conservation interpretation; excludes surrounding general park.
+- Representative coordinates: 41.921, -87.633; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.7 / 9.0 / 8.9.
+- Categories: wildlife:9.2 family:9.3 nature:8.9.
+- Overall: 87.40/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.lpzoo.org/animals-gardens/animals-exhibits/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bronx-zoo](../../../countries/US/sights/bronx-zoo.yaml) | 9.0 / 8.9 / 9.1 / 9.2 / 9.3 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+| [US/national-zoo](../../../countries/US/sights/national-zoo.yaml) | 8.8 / 8.7 / 8.9 / 9.0 / 8.9 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-balloon-museum — Anderson Abruzzo Albuquerque International Balloon Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/balloon-museum.yaml)
+- Action: new
+- Scope: Permanent ballooning history museum and exhibits only; annual Balloon Fiesta deferred for recurring-event inclusion policy.
+- Representative coordinates: 35.189, -106.598; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.7 / 8.8 / 8.7.
+- Categories: history:9.1 culture:9 family:9.
+- Overall: 87.05/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://balloonmuseum.com/; https://balloonmuseum.com/admissions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | significance: -0.7 vs peer; impact: -0.6 vs peer |
+| [US/wright-brothers-memorial](../../../countries/US/sights/wright-brothers-memorial.yaml) | 8.8 / 9.2 / 9.4 / 8.8 / 8.8 | significance: -0.7 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+### Pass 199 scope decisions
+
+Chincoteague refuge not separately added: NPS identifies the Virginia district and beach inside the refuge, covered by existing Assateague island and horse experience (https://www.nps.gov/asis/planyourvisit/basicinfo.htm). USS Constitution confirmed as Freedom Trail component (https://www.thefreedomtrail.org/trail-sites/uss-constitution), no new row; independent ship museum scope remains a potential future split. Ford's Theatre deferred for National Mall parent-scope review (https://www.nps.gov/foth/planyourvisit/index.htm); temporary museum/theatre closure notice not used as an intrinsic score deduction. Balloon Fiesta deferred pending consistent worldwide recurring-event inclusion policy despite official documentation of more than 500 balloons (https://www.balloonfiesta.com/plan-your-visit/faqs/).

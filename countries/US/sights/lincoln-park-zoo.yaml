@@ -1,0 +1,16 @@
+id: sight-us-lincoln-park-zoo
+name: "Lincoln Park Zoo Chicago"
+location:
+  country_code: US
+  latitude: 41.921
+  longitude: -87.633
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.0
+  depth: 8.9
+  categories:
+    wildlife: 9.2
+    family: 9.3
+    nature: 8.9

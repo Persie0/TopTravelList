@@ -3332,3 +3332,19 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Santa Monica Pier and Oceanfront Promenade: 86.05/100 (desk-based provisional).
 
 16 additions, 4 desk-based provisional, 12 source-informed, 8 90+, 48 domestic ranking-row comparisons. US 515 ranked / 515 total. Alamo not added: NPS confirms all five missions incl. Alamo form existing UNESCO parent https://www.nps.gov/saan/learn/historyculture/world-heritage-site.htm; existing parent review scope requires verification before splitting. Sphere interior ticketed experience excludes Strip exterior; Petersen Vault grouped; River Walk downtown excludes mission trail; O'Keeffe Santa Fe excludes Abiquiu studio. Existing scores retained. Final country closure deferred: earlier overlap cases, flagship state-level candidates and NPS inventory screen remain unresolved; no quota. Full Python validation pending.
+
+### Pass 199 — US presidential, historical and science museums
+
+- [x] US — Abraham Lincoln Presidential Library and Museum Springfield Illinois: 92.10/100 (source-linked-unverified).
+- [x] US — Franklin D Roosevelt Presidential Library Museum and Springwood Home Hyde Park: 91.50/100 (source-linked-unverified).
+- [x] US — Ronald Reagan Presidential Library and Museum Simi Valley: 90.95/100 (source-linked-unverified).
+- [x] US — National Museum of the United States Army Fort Belvoir Virginia: 90.65/100 (source-linked-unverified).
+- [x] US — Charles H Wright Museum of African American History Detroit: 90.75/100 (source-linked-unverified).
+- [x] US — Tennessee Aquarium River Journey and Ocean Journey Chattanooga: 90.45/100 (source-linked-unverified).
+- [x] US — Harry S Truman Presidential Library and Museum Independence Missouri: 89.20/100 (source-linked-unverified).
+- [x] US — Dwight D Eisenhower Presidential Library Museum and Boyhood Home Abilene: 88.95/100 (source-linked-unverified).
+- [x] US — National Civil War Museum Harrisburg Pennsylvania: 87.85/100 (source-linked-unverified).
+- [x] US — Lincoln Park Zoo Chicago: 87.40/100 (source-linked-unverified).
+- [x] US — Anderson Abruzzo Albuquerque International Balloon Museum: 87.05/100 (source-linked-unverified).
+
+11 additions, 11 source-linked provisional, 6 90+, 34 domestic ranking-row comparisons. US 526 ranked / 526 total. Chincoteague refuge not separately added: NPS identifies the Virginia district and beach inside the refuge, covered by existing Assateague island and horse experience (https://www.nps.gov/asis/planyourvisit/basicinfo.htm). USS Constitution confirmed as Freedom Trail component (https://www.thefreedomtrail.org/trail-sites/uss-constitution), no new row; independent ship museum scope remains a potential future split. Ford's Theatre deferred for National Mall parent-scope review (https://www.nps.gov/foth/planyourvisit/index.htm); temporary museum/theatre closure notice not used as an intrinsic score deduction. Balloon Fiesta deferred pending consistent worldwide recurring-event inclusion policy despite official documentation of more than 500 balloons (https://www.balloonfiesta.com/plan-your-visit/faqs/). Existing scores retained. Remaining flagship state-level screen and Tracy Arm reassessment unresolved; no quota. Full Python validation pending.
