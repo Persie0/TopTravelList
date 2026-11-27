@@ -1,0 +1,16 @@
+id: sight-us-waipio-overlook
+name: "Waipiʻo Valley Lookout and Hāmākua Coastal Scenery"
+location:
+  country_code: US
+  latitude: 20.118
+  longitude: -155.586
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.5
+  depth: 8.4
+  categories:
+    photography: 9.4
+    nature: 9.3
+    culture: 9.1

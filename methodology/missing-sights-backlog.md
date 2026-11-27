@@ -3059,3 +3059,35 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — City Museum St Louis: 88.50/100 (desk-based provisional).
 
 27 additions, 7 desk-based provisional, 20 source-informed, 18 90+, 88 domestic ranking-row comparisons. United States 292 ranked / 292 total. Dedicated California Academy and de Young museum experiences separate from Golden Gate Park landscape; Huntington campus and Intrepid collections grouped; Chicago architecture cruise scoped to interpretation rather than individual building interiors. Philadelphia Old City street scope excludes previously ranked interiors; further overlap check pending. Existing scores retained. Next: Hawaii, Alaska and regional scenic/natural gaps. Full Python validation pending.
+
+### Pass 189 — Hawaii and Alaska regional attractions
+
+- [x] US — Bishop Museum Honolulu Hawaiian and Pacific Heritage: 92.95/100 (source-linked-unverified).
+- [x] US — Kona Coast Manta Ray Night Snorkelling and Diving: 92.35/100 (source-linked-unverified).
+- [x] US — Road to Hāna East Maui Rainforest and Waterfall Corridor: 91.40/100 (source-linked-unverified).
+- [x] US — Maunakea Visitor Information Station Stargazing and Mountain Landscape: 91.75/100 (source-linked-unverified).
+- [x] US — Prince William Sound Glacier and Wildlife Cruises: 91.90/100 (source-linked-unverified).
+- [x] US — Fairbanks Region Aurora Borealis Viewing: 91.20/100 (source-linked-unverified).
+- [x] US — ʻIolani Palace Honolulu Royal Residence and Museum: 91.65/100 (source-linked-unverified).
+- [x] US — Puʻuhonua o Hōnaunau National Historical Park Royal Grounds: 91.55/100 (source-linked-unverified).
+- [x] US — Alaska Native Heritage Center Anchorage: 91.15/100 (source-linked-unverified).
+- [x] US — Polynesian Cultural Center Oʻahu Living Cultural Presentations: 90.95/100 (source-linked-unverified).
+- [x] US — Molokini Crater Marine Conservation District Snorkelling and Diving: 90.35/100 (source-linked-unverified).
+- [x] US — Maui Nui Seasonal Humpback Whale Watching: 90.85/100 (source-linked-unverified).
+- [x] US — Juneau Offshore Humpback Whale Watching: 89.90/100 (source-linked-unverified).
+- [x] US — Hanauma Bay Nature Preserve Reef Snorkelling: 88.65/100 (source-linked-unverified).
+- [x] US — Diamond Head State Monument Crater Summit Trail: 87.10/100 (desk-based provisional).
+- [x] US — Oʻahu North Shore Surfing Beaches and Coastal Scenery: 88.25/100 (desk-based provisional).
+- [x] US — Waikīkī Beach and Historic Oceanfront Promenade: 86.65/100 (desk-based provisional).
+- [x] US — Kealakekua Bay Marine Reserve and Historic Coastal Landscape: 89.00/100 (desk-based provisional).
+- [x] US — Waipiʻo Valley Lookout and Hāmākua Coastal Scenery: 87.05/100 (source-linked-unverified).
+- [x] US — Kaloko-Honokōhau National Historical Park Hawaiian Fishponds: 87.55/100 (source-linked-unverified).
+- [x] US — Pālāʻau State Park Kalaupapa Peninsula Lookout: 86.95/100 (source-linked-unverified).
+- [x] US — Turnagain Arm Seward Highway Scenic Corridor: 88.60/100 (desk-based provisional).
+- [x] US — Matanuska Glacier Guided Ice Hiking: 89.45/100 (desk-based provisional).
+- [x] US — White Pass and Yukon Route Scenic Railway Skagway: 89.65/100 (desk-based provisional).
+- [x] US — Anchorage Museum Alaska Art History and Science: 88.20/100 (desk-based provisional).
+- [x] US — Sitka National Historical Park Totem Trail and Cultural Heritage: 88.00/100 (desk-based provisional).
+- [x] US — Kachemak Bay State Park Coastal Wilderness and Kayaking: 88.45/100 (desk-based provisional).
+
+27 additions, 10 desk-based provisional, 17 source-informed, 12 90+, 78 domestic ranking-row comparisons. United States 319 ranked / 319 total. Hāna excludes Haleakalā NP; Maunakea visitor station and permitted mountain experience only; Kalaupapa public overlook without ground access. Tracy Arm deferred for physical condition assessment following landslide and tsunami impacts (https://apnews.com/article/b7d5171aed649de82b52bf4138a69919). Existing scores retained. Next: continental regional scenic routes, wildlife and heritage. Full Python validation pending.

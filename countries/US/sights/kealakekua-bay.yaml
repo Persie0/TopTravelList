@@ -1,0 +1,16 @@
+id: sight-us-kealakekua-bay
+name: "Kealakekua Bay Marine Reserve and Historic Coastal Landscape"
+location:
+  country_code: US
+  latitude: 19.475
+  longitude: -155.927
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    history: 9.2

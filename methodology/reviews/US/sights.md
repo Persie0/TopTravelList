@@ -8413,3 +8413,610 @@ Ranking rows checked; independent factual, coordinate, peer YAML and internation
 
 Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
 
+## sight-us-bishop-museum — Bishop Museum Honolulu Hawaiian and Pacific Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bishop-museum.yaml)
+- Action: new
+- Scope: Hawaiian and Pacific cultural and natural history collections; not all holdings displayed.
+- Representative coordinates: 21.333, -157.87; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.1 / 9.4.
+- Categories: culture:9.4 history:9.4 nature:9.3.
+- Overall: 92.95/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.bishopmuseum.org/about/ ; https://www.bishopmuseum.org/exhibits-and-programs/galleries/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; significance: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kona-manta — Kona Coast Manta Ray Night Snorkelling and Diving — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kona-manta.yaml)
+- Action: new
+- Scope: Dedicated nighttime manta encounters at authorized sites; no touching or guaranteed sightings.
+- Representative coordinates: 19.56, -155.963; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.0 / 9.3 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.4.
+- Overall: 92.35/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gohawaii.com/marine-life-of-hawaii ; https://www.gohawaii.com/islands/hawaii-big-island/things-to-do/water-activities/snorkeling-scuba.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | experience: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/admiralty-pack-creek](../../../countries/US/sights/admiralty-pack-creek.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-road-to-hana — Road to Hāna East Maui Rainforest and Waterfall Corridor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/road-to-hana.yaml)
+- Action: new
+- Scope: Public road and permitted stops including Waiʻānapanapa; excludes Haleakalā NP Kīpahulu district.
+- Representative coordinates: 20.795, -156.04; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.8 / 9.3 / 9.2.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 91.40/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gohawaii.com/couples-getaways/maui ; https://www.gohawaii.com/islands/maui/regions/east-maui.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/sedona-red-rock](../../../countries/US/sights/sedona-red-rock.yaml) | 9.3 / 9.1 / 8.6 / 9.3 / 9.2 | significance: +0.2 vs peer; impact: +0.0 vs peer |
+| [US/napali-coast-state-wilderness-park](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml) | 9.4 / 9.2 / 8.8 / 8.9 / 9.0 | experience: +0.4 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-maunakea — Maunakea Visitor Information Station Stargazing and Mountain Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/maunakea.yaml)
+- Action: new
+- Scope: Visitor station and permitted mountain experience, sacred mountain; no summit or observatory interior access assumed.
+- Representative coordinates: 19.76, -155.456; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.3 / 8.8 / 9.1.
+- Categories: nature:9.4 photography:9.4 culture:9.3.
+- Overall: 91.75/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gohawaii.com/islands/hawaii-big-island/regions/hilo/maunakea ; https://media.gohawaii.com/island-of-hawaii/media-support/media-tips.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | 9.2 / 9.5 / 9.5 / 8.9 / 9.0 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/haleakala-national-park](../../../countries/US/sights/haleakala-national-park.yaml) | 9.1 / 9.0 / 8.9 / 8.8 / 8.9 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | significance: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | uniqueness: +0.6 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-prince-william-sound — Prince William Sound Glacier and Wildlife Cruises — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/prince-william-sound.yaml)
+- Action: new
+- Scope: Whittier and Valdez cruises grouped; excludes separate national parks; no guaranteed calving or wildlife.
+- Representative coordinates: 60.78, -148.68; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.0 / 9.2 / 9.2.
+- Categories: nature:9.4 photography:9.4 wildlife:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.anchorage.net/outdoors/glaciers/prince-william-sound/ ; https://www.travelalaska.com/destinations/cities-towns/whittier ; https://phillipscruises.com/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | significance: -0.4 vs peer; experience: +0.3 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer |
+| [US/misty-fiords](../../../countries/US/sights/misty-fiords.yaml) | 9.3 / 9.2 / 8.9 / 9.2 / 9.1 | significance: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/wrangell-st-elias](../../../countries/US/sights/wrangell-st-elias.yaml) | 9.4 / 9.4 / 9.3 / 8.6 / 9.2 | experience: +0.6 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fairbanks-aurora — Fairbanks Region Aurora Borealis Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fairbanks-aurora.yaml)
+- Action: new
+- Scope: Dedicated aurora outings near Fairbanks; seasonal and weather dependent; no national park duplication.
+- Representative coordinates: 64.95, -147.85; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.7 / 9.1 / 9.0.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.travelalaska.com/things-to-do/northern-lights ; https://www.travelalaska.com/explore-alaska/articles/northern-lights-viewing-tips.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/gates-of-the-arctic](../../../countries/US/sights/gates-of-the-arctic.yaml) | 9.3 / 9.4 / 9.2 / 8.6 / 9.1 | significance: -0.5 vs peer; experience: +0.5 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | significance: -0.5 vs peer; experience: +0.4 vs peer |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+| [US/lake-clark](../../../countries/US/sights/lake-clark.yaml) | 9.2 / 9.2 / 9.1 / 8.9 / 9.2 | significance: -0.4 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-iolani-palace — ʻIolani Palace Honolulu Royal Residence and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/iolani-palace.yaml)
+- Action: new
+- Scope: Royal residence and public museum, monarchy and overthrow interpretation.
+- Representative coordinates: 21.3067, -157.8587; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.4 architecture:9.4.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.iolanipalace.org/ ; https://www.nps.gov/places/iolanipalace.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-vernon](../../../countries/US/sights/mount-vernon.yaml) | 8.1 / 8.5 / 9.0 / 8.5 / 8.2 | impact: +0.9 vs peer; depth: +0.9 vs peer |
+| [US/monticello](../../../countries/US/sights/monticello.yaml) | 8.2 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +1.1 vs peer; impact: +0.8 vs peer |
+| [US/library-of-congress](../../../countries/US/sights/library-of-congress.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 9.0 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-puuhonua-honaunau — Puʻuhonua o Hōnaunau National Historical Park Royal Grounds — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/puuhonua-honaunau.yaml)
+- Action: new
+- Scope: Sacred place of refuge and royal grounds; excludes offshore snorkelling.
+- Representative coordinates: 19.421, -155.91; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.4 architecture:9.3.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/puho/planyourvisit/royalgrounds.htm ; https://www.nps.gov/puho/learn/management/puho-foundation-document.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.2 vs peer; experience: +0.8 vs peer |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | depth: +0.3 vs peer; experience: +0.2 vs peer |
+| [US/canyon-de-chelly](../../../countries/US/sights/canyon-de-chelly.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.2 vs peer; depth: -0.1 vs peer |
+| [US/san-antonio-missions](../../../countries/US/sights/san-antonio-missions.yaml) | 8.4 / 8.8 / 9.0 / 8.6 / 8.7 | impact: +0.6 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-alaska-native-heritage — Alaska Native Heritage Center Anchorage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/alaska-native-heritage.yaml)
+- Action: new
+- Scope: Native-led galleries and cultural interpretation, independent center.
+- Representative coordinates: 61.233, -149.717; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.4 architecture:9.2.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.alaskanative.net/visit/ ; https://www.alaskanative.net/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.4 vs peer; experience: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-polynesian-cultural-center — Polynesian Cultural Center Oʻahu Living Cultural Presentations — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/polynesian-cultural-center.yaml)
+- Action: new
+- Scope: Six represented island cultures and performances; not original archaeological sites.
+- Representative coordinates: 21.638, -157.92; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 8.9 / 9.3 / 9.2.
+- Categories: culture:9.4 family:9.3 history:9.2.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.polynesia.com/villages ; https://www.gohawaii.com/islands/oahu/regions/north-shore/polynesian-cultural-center.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | significance: -0.5 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-molokini — Molokini Crater Marine Conservation District Snorkelling and Diving — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/molokini.yaml)
+- Action: new
+- Scope: Regulated reef excursions; no assumption of pristine coral or guaranteed wildlife.
+- Representative coordinates: 20.632, -156.497; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.8 / 9.1 / 8.8.
+- Categories: nature:9.4 wildlife:9.4 adventure:9.3.
+- Overall: 90.35/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gohawaii.com/islands/maui/regions/south-maui/Molokini.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.6 vs peer; impact: +0.3 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | depth: -0.3 vs peer; uniqueness: +0.1 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-maui-whales — Maui Nui Seasonal Humpback Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/maui-whales.yaml)
+- Action: new
+- Scope: Seasonal regulated observation; no swimming or guaranteed sightings.
+- Representative coordinates: 20.791, -156.512; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 8.9.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://sanctuaries.noaa.gov/hawaii-humpback-whale/visit/visitor-center.html ; https://dar.hawaii.gov/learn-explore/species/marine-mammals/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | experience: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/admiralty-pack-creek](../../../countries/US/sights/admiralty-pack-creek.yaml) | 9.1 / 9.2 / 9.0 / 9.1 / 9.0 | depth: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | significance: +0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-juneau-whales — Juneau Offshore Humpback Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/juneau-whales.yaml)
+- Action: new
+- Scope: Dedicated Juneau-area whale observation distinct from glacier excursions.
+- Representative coordinates: 58.39, -134.75; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.8 / 9.1 / 8.9.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 89.90/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.travelalaska.com/explore-alaska/articles/alaska-whale-watching.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | significance: -0.6 vs peer; impact: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hanauma-bay — Hanauma Bay Nature Preserve Reef Snorkelling — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hanauma-bay.yaml)
+- Action: new
+- Scope: Regulated volcanic bay and reef; coral health not assumed pristine.
+- Representative coordinates: 21.269, -157.694; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 8.6.
+- Categories: nature:9.3 wildlife:9.3 beaches:9.2.
+- Overall: 88.65/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://honolulu.gov/parks-hbay/home.html ; https://dlnr.hawaii.gov/dar/marine-managed-areas/hawaii-marine-life-conservation-districts/oahu-hanauma-bay/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-diamond-head — Diamond Head State Monument Crater Summit Trail — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/diamond-head.yaml)
+- Action: new
+- Scope: Crater trail and city views, excludes Waikīkī beach.
+- Representative coordinates: 21.262, -157.805; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.6 / 8.8 / 8.3.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/waimea-canyon-state-park](../../../countries/US/sights/waimea-canyon-state-park.yaml) | 9.1 / 8.8 / 8.6 / 8.8 / 8.5 | impact: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/haleakala-national-park](../../../countries/US/sights/haleakala-national-park.yaml) | 9.1 / 9.0 / 8.9 / 8.8 / 8.9 | depth: -0.6 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-oahu-north-shore — Oʻahu North Shore Surfing Beaches and Coastal Scenery — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/oahu-north-shore.yaml)
+- Action: new
+- Scope: Waimea Bay, Sunset Beach and Pipeline grouped; no unsafe swimming or surf assumed.
+- Representative coordinates: 21.67, -158.046; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.7 / 8.8 / 8.7.
+- Categories: beaches:9.4 adventure:9.3 photography:9.3.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.4 vs peer; impact: -0.2 vs peer |
+| [US/napali-coast-state-wilderness-park](../../../countries/US/sights/napali-coast-state-wilderness-park.yaml) | 9.4 / 9.2 / 8.8 / 8.9 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-waikiki — Waikīkī Beach and Historic Oceanfront Promenade — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/waikiki.yaml)
+- Action: new
+- Scope: Beach and promenade; excludes Diamond Head and hotels.
+- Representative coordinates: 21.275, -157.826; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.5 / 8.5 / 9.0 / 8.5.
+- Categories: beaches:9.3 relaxation:9.3 culture:9.0.
+- Overall: 86.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/cape-cod](../../../countries/US/sights/cape-cod.yaml) | 8.8 / 8.6 / 8.8 / 9.0 / 8.8 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/gulf-islands](../../../countries/US/sights/gulf-islands.yaml) | 8.7 / 8.6 / 8.6 / 8.9 / 8.7 | depth: -0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kealakekua-bay — Kealakekua Bay Marine Reserve and Historic Coastal Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kealakekua-bay.yaml)
+- Action: new
+- Scope: Daytime marine and coastal heritage, distinct from Kona manta experience.
+- Representative coordinates: 19.475, -155.927; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.9 / 8.8 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 history:9.2.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/biscayne](../../../countries/US/sights/biscayne.yaml) | 8.9 / 9.0 / 9.0 / 8.9 / 8.9 | significance: -0.1 vs peer; experience: -0.1 vs peer |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.6 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-waipio-overlook — Waipiʻo Valley Lookout and Hāmākua Coastal Scenery — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/waipio-overlook.yaml)
+- Action: new
+- Scope: Public overlook and nearby scenery; restricted valley road not counted.
+- Representative coordinates: 20.118, -155.586; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 8.5 / 8.4.
+- Categories: photography:9.4 nature:9.3 culture:9.1.
+- Overall: 87.05/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://agents.gohawaii.com/our-islands/top-10/island-of-hawai-top-10.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/waimea-canyon-state-park](../../../countries/US/sights/waimea-canyon-state-park.yaml) | 9.1 / 8.8 / 8.6 / 8.8 / 8.5 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | experience: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kaloko-honokohau — Kaloko-Honokōhau National Historical Park Hawaiian Fishponds — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kaloko-honokohau.yaml)
+- Action: new
+- Scope: Historic fishponds and settlement; distinct from Puʻuhonua.
+- Representative coordinates: 19.68, -156.022; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.1 / 8.6 / 8.7.
+- Categories: history:9.4 culture:9.3 nature:9.2.
+- Overall: 87.55/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/havo/learn/historyculture/olelo-hawaii.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.9 vs peer; experience: +0.4 vs peer |
+| [US/san-antonio-missions](../../../countries/US/sights/san-antonio-missions.yaml) | 8.4 / 8.8 / 9.0 / 8.6 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kalaupapa-overlook — Pālāʻau State Park Kalaupapa Peninsula Lookout — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kalaupapa-overlook.yaml)
+- Action: new
+- Scope: Public overlook only; ground access to Kalaupapa historical park not assumed or counted.
+- Representative coordinates: 21.173, -157.007; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.3 / 8.4.
+- Categories: history:9.3 photography:9.3 nature:9.2.
+- Overall: 86.95/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://dlnr.hawaii.gov/dsp/camping-lodging/molokai/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/canyon-de-chelly](../../../countries/US/sights/canyon-de-chelly.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.1 | experience: -0.7 vs peer; depth: -0.7 vs peer |
+| [US/waimea-canyon-state-park](../../../countries/US/sights/waimea-canyon-state-park.yaml) | 9.1 / 8.8 / 8.6 / 8.8 / 8.5 | experience: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-turnagain-arm — Turnagain Arm Seward Highway Scenic Corridor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/turnagain-arm.yaml)
+- Action: new
+- Scope: Anchorage to Portage coastal scenery, excludes Prince William Sound and Kenai Fjords.
+- Representative coordinates: 60.97, -149.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.3 photography:9.4 wildlife:9.2.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.3 vs peer; impact: -0.1 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-matanuska-glacier — Matanuska Glacier Guided Ice Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/matanuska-glacier.yaml)
+- Action: new
+- Scope: Guided glacier trek; no independent unsafe glacier travel.
+- Representative coordinates: 61.77, -147.76; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.6 / 9.1 / 8.8.
+- Categories: adventure:9.4 nature:9.3 photography:9.4.
+- Overall: 89.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mendenhall-glacier](../../../countries/US/sights/mendenhall-glacier.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-white-pass-railway — White Pass and Yukon Route Scenic Railway Skagway — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/white-pass-railway.yaml)
+- Action: new
+- Scope: US departure; Canadian track segments not separately counted.
+- Representative coordinates: 59.459, -135.317; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.8 / 9.1 / 8.9.
+- Categories: history:9.3 photography:9.4 nature:9.3.
+- Overall: 89.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [US/columbia-gorge](../../../countries/US/sights/columbia-gorge.yaml) | 9.2 / 9.0 / 8.8 / 9.2 / 9.1 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-anchorage-museum — Anchorage Museum Alaska Art History and Science — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/anchorage-museum.yaml)
+- Action: new
+- Scope: Independent museum; separate from Alaska Native Heritage Center.
+- Representative coordinates: 61.216, -149.884; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 8.9.
+- Categories: culture:9.3 history:9.3 nature:9.1.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-sitka-historical-park — Sitka National Historical Park Totem Trail and Cultural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sitka-historical-park.yaml)
+- Action: new
+- Scope: Totem trail and historic landscape; no individual poles.
+- Representative coordinates: 57.046, -135.316; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.1 / 8.7 / 8.7.
+- Categories: culture:9.4 history:9.3 nature:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.9 vs peer; experience: +0.5 vs peer |
+| [US/harpers-ferry](../../../countries/US/sights/harpers-ferry.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 8.8 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-kachemak-bay — Kachemak Bay State Park Coastal Wilderness and Kayaking — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kachemak-bay.yaml)
+- Action: new
+- Scope: Distinct Homer-area coastal trails and water trips.
+- Representative coordinates: 59.58, -151.24; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 9.0 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.3.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | impact: +0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+

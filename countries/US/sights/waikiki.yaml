@@ -1,0 +1,16 @@
+id: sight-us-waikiki
+name: "Waikīkī Beach and Historic Oceanfront Promenade"
+location:
+  country_code: US
+  latitude: 21.275
+  longitude: -157.826
+scores:
+  impact: 8.8
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 9.0
+  depth: 8.5
+  categories:
+    beaches: 9.3
+    relaxation: 9.3
+    culture: 9.0

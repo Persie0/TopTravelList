@@ -1,0 +1,16 @@
+id: sight-us-sitka-historical-park
+name: "Sitka National Historical Park Totem Trail and Cultural Heritage"
+location:
+  country_code: US
+  latitude: 57.046
+  longitude: -135.316
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9.4
+    history: 9.3
+    nature: 9.1

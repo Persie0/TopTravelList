@@ -1,0 +1,16 @@
+id: sight-us-alaska-native-heritage
+name: "Alaska Native Heritage Center Anchorage"
+location:
+  country_code: US
+  latitude: 61.233
+  longitude: -149.717
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.2

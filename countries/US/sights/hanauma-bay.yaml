@@ -1,0 +1,16 @@
+id: sight-us-hanauma-bay
+name: "Hanauma Bay Nature Preserve Reef Snorkelling"
+location:
+  country_code: US
+  latitude: 21.269
+  longitude: -157.694
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    beaches: 9.2
