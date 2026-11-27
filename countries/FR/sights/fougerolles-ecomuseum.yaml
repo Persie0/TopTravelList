@@ -1,0 +1,16 @@
+id: sight-fr-fougerolles-ecomuseum
+name: "Écomusée du Pays de la Cerise Fougerolles Distilling Heritage"
+location:
+  country_code: FR
+  latitude: 47.889
+  longitude: 6.402
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.8
+  depth: 8.7
+  categories:
+    food: 9.3
+    culture: 9.2
+    history: 9.2

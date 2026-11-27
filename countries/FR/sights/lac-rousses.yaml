@@ -1,0 +1,16 @@
+id: sight-fr-lac-rousses
+name: "Lac des Rousses Lake and Peatland Trails"
+location:
+  country_code: FR
+  latitude: 46.5
+  longitude: 6.08
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.2
+    relaxation: 9.3
+    photography: 9.2

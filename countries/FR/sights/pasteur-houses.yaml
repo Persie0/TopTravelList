@@ -1,0 +1,16 @@
+id: sight-fr-pasteur-houses
+name: "Louis Pasteur Houses and Laboratory Arbois and Dole"
+location:
+  country_code: FR
+  latitude: 46.906
+  longitude: 5.77
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.4
+    family: 9.2

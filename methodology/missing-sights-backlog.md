@@ -2287,3 +2287,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Besançon Historic Doubs River Loop and Old Town: 87.95/100 (desk-based provisional).
 
 30 additions, 21 desk-based provisional estimates, 9 source-informed candidates, 9 90+, 36 domestic peer ranking-row comparisons. France 805 ranked / 816 total; 11 existing unassessed unchanged. Hérisson and seven-lake plateau integrated, Baume abbey/cave/waterfall/valley integrated; Besançon museum collections separate from Vauban fortifications. Saut du Doubs transboundary duplication check against Switzerland pending. Rolin collections assessed independently of renovation, future expansion not assumed complete. La Charité church remains in Santiago serial scope pending separate secular attraction check. Existing high-score review candidates (scores unchanged pending calibration): Niépce museum — https://www.museeniepce.com/ and https://www.open-museeniepce.com/a-propos confirm substantial specialist collection; Ancy-le-Franc — https://www.chateau-ancy.com/en/decorations/ and https://www.chateau-ancy.com/en/history/ confirm exceptional Renaissance mural ensemble; both merit possible 90+ reassessment. Next: Residual Franche-Comté: Pasteur houses, Joux, Mont d’Or, Les Rousses, Osselle cave, Pontarlier, Belfort, Montbéliard, Luxeuil and Vosges/Alsace. Full Python validation pending.
+
+
+### Pass 160 — accelerated Franche-Comté, Vosges and Alsace audit
+
+- [x] FR — Musée National de l’Automobile Mulhouse Schlumpf Collection: 93.80/100 (source-linked-unverified).
+- [x] FR — Cité du Train Mulhouse Railway Heritage Museum: 93.65/100 (source-linked-unverified).
+- [x] FR — Musée Unterlinden Colmar Isenheim Altarpiece and Art Collections: 93.40/100 (source-linked-unverified).
+- [x] FR — Écomusée d’Alsace Ungersheim Living Open-Air Museum: 92.55/100 (source-linked-unverified).
+- [x] FR — Château du Haut-Koenigsbourg Restored Mountain Fortress: 92.20/100 (source-linked-unverified).
+- [x] FR — Colmar Historic Centre and Petite Venise Canals: 91.60/100 (source-linked-unverified).
+- [x] FR — Vosges Route des Crêtes Hohneck and Grand Ballon Ridge Trails: 90.75/100 (source-linked-unverified).
+- [x] FR — Louis Pasteur Houses and Laboratory Arbois and Dole: 91.45/100 (source-linked-unverified).
+- [x] FR — Château de Joux Mountain Fortress and Historic Prison: 91.50/100 (source-linked-unverified).
+- [x] FR — Citadelle de Belfort Lion Monument and History Museum: 91.20/100 (source-linked-unverified).
+- [x] FR — Mont Sainte-Odile Sanctuary and Mur Païen Trails: 91.25/100 (source-linked-unverified).
+- [x] FR — Hartmannswillerkopf Battlefield Trails and Franco-German Historial: 91.10/100 (source-linked-unverified).
+- [x] FR — Riquewihr Fortified Historic Wine Village: 89.55/100 (source-linked-unverified).
+- [x] FR — Château des Ducs de Wurtemberg Montbéliard Museum: 88.75/100 (desk-based provisional).
+- [x] FR — Mont d’Or Jura Summit and Cliff Trails: 87.65/100 (desk-based provisional).
+- [x] FR — Lac des Rousses Lake and Peatland Trails: 85.70/100 (desk-based provisional).
+- [x] FR — Grotte d’Osselle Mineral Cave and Guided Tours: 87.55/100 (desk-based provisional).
+- [x] FR — Musée Municipal de Pontarlier Art and Absinthe Heritage: 87.20/100 (desk-based provisional).
+- [x] FR — Luxeuil-les-Bains Historic Abbey and Archaeological Heritage: 88.10/100 (desk-based provisional).
+- [x] FR — Écomusée du Pays de la Cerise Fougerolles Distilling Heritage: 86.50/100 (desk-based provisional).
+- [x] FR — Lac de Gérardmer Lake and Shore Trails: 86.70/100 (desk-based provisional).
+- [x] FR — Lac de Longemer Forest Lake and Shore Trails: 86.40/100 (desk-based provisional).
+- [x] FR — Lac Blanc Vosges Glacial Lake and Rock Trails: 87.55/100 (desk-based provisional).
+- [x] FR — Musée de l’Image and Imagerie Épinal Print Heritage: 88.25/100 (desk-based provisional).
+- [x] FR — Fraispertuis City Family Theme Park: 85.75/100 (desk-based provisional).
+- [x] FR — Eguisheim Circular Medieval Wine Village: 88.40/100 (desk-based provisional).
+- [x] FR — Kaysersberg Historic Town and Castle Ruins: 88.35/100 (desk-based provisional).
+- [x] FR — Ribeauvillé Historic Town and Three Castles Trails: 88.80/100 (desk-based provisional).
+- [x] FR — Bergheim Medieval Walled Wine Village: 87.30/100 (desk-based provisional).
+- [x] FR — Obernai Historic Centre and Medieval Ramparts: 87.35/100 (desk-based provisional).
+
+30 additions, 17 desk-based provisional estimates, 13 source-informed candidates, 12 90+, 52 domestic peer ranking-row comparisons. France 835 ranked / 846 total; 11 existing unassessed unchanged. Swiss ranking at parent commit checked: no row mentioning Doubs, so no current cross-border duplicate found; keep shared natural feature caveat. Hartmannswillerkopf cemetery, national monument and crypt remain in Western Front UNESCO serial property; separate battlefield trails and Historial only. Vosges ridge summits integrated; Lac Blanc basin overlap flagged. Pasteur houses combined. Ronchamp chapel and Neuf-Brisach remain in Le Corbusier and Vauban serial entries. Next: Alsace remaining: Strasbourg independent museums, Rohan collections, Musée Alsacien, Œuvre Notre-Dame, MAMCS, historical museum, Mulhouse textile and electricity museums, Wesserling, Natzweiler, northern Vosges, Lalique, Meisenthal, then Lorraine and Champagne. Full Python validation pending.

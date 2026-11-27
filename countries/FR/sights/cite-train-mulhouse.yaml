@@ -1,0 +1,16 @@
+id: sight-fr-cite-train-mulhouse
+name: "Cité du Train Mulhouse Railway Heritage Museum"
+location:
+  country_code: FR
+  latitude: 47.749
+  longitude: 7.293
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.3
+  depth: 9.4
+  categories:
+    culture: 9.4
+    history: 9.4
+    family: 9.4
