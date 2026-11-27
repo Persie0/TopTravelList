@@ -1101,3 +1101,15 @@ Eight additions, 32 peer rows. Greece 88 ranked / 89 total. Dodona theatre cover
 - [x] GR — Paleokastritsa Bays and Monastery Corfu: 88.30/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Greece 96 ranked / 97 total. Olympieion and Hadrian's Arch grouped; Kerameikos museum and excavations grouped; northern Blue Caves separate from southern marine park and Navagio; palm groves grouped with beaches; butterfly aggregation seasonal. Next bounded screen: Ancient Kamiros, Asklepieion of Kos, Nisyros Stefanos crater, Messolonghi or other distinct lagoon scope, Santorini Museum of Prehistoric Thera, Chios medieval mastic villages, Mykonos windmills and Little Venice, and Thessaly Lake Plastiras. Full Python validation pending.
+
+### Pass 96 — Greek island archaeology, volcanic crater, museums and historic landscapes
+
+- [x] GR — Ancient Kamiros Archaeological Site Rhodes: 87.95/100 (source-linked-unverified).
+- [x] GR — Asklepieion of Kos Archaeological Site: 88.95/100 (source-linked-unverified).
+- [x] GR — Nisyros Stefanos Volcanic Crater: 89.45/100 (source-linked-unverified).
+- [x] GR — Museum of Prehistoric Thera Santorini: 89.90/100 (source-linked-unverified).
+- [x] GR — Chios Medieval Mastic Villages of Mesta and Pyrgi: 89.10/100 (source-linked-unverified).
+- [x] GR — Mykonos Windmills and Little Venice Waterfront: 86.70/100 (source-linked-unverified).
+- [x] GR — Lake Plastiras and Shoreline Trails: 84.90/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Greece 103 ranked / 104 total. Messolonghi lagoon skipped as existing park scope; Mesta and Pyrgi grouped; Mykonos adjacent waterfront and windmills grouped; Thera museum separate from Akrotiri; Nisyros crater only. Next bounded screen: Ancient Thera, Archaeological Museum of Thera, Symi harbour, Acheron Springs, Cave of the Lakes at Kastria (park overlap check), Chios Mastic Museum and Athens Stavros Niarchos cultural centre. Full Python validation pending.

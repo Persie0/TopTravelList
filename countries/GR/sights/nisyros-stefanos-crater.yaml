@@ -1,0 +1,16 @@
+id: sight-gr-nisyros-stefanos-crater
+name: "Nisyros Stefanos Volcanic Crater"
+location:
+  country_code: GR
+  latitude: 36.57806
+  longitude: 27.16833
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.1

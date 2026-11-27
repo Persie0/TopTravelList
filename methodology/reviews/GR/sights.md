@@ -3530,3 +3530,276 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-gr-ancient-kamiros — Ancient Kamiros Archaeological Site Rhodes — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/ancient-kamiros.yaml)
+- Action: new
+- Precise subject and limitations: Terraced ancient city remains, distinct from Lindos and Rhodes medieval town. Not named in Greek theatres tentative list 5869.
+- Location check: 36.33694, 27.92135; [published representative point](https://mapcarta.com/35137746), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hh.gr/en/destinations/kamiros/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+| [GR/messene](../../../countries/GR/sights/messene.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/lindos](../../../countries/GR/sights/lindos.yaml) | 9.0 / 9.0 / 9.1 / 8.9 / 8.3 | depth: +0.5 vs peer; impact: -0.3 vs peer. |
+| [IT/segesta-archaeological-park](../../../countries/IT/sights/segesta-archaeological-park.yaml) | 9.0 / 8.9 / 9.1 / 8.8 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Substantial visible urban remains. |
+| Uniqueness | 8.8 | Distinct terraced ancient urban layout. |
+| Significance | 9.0 | Important ancient Rhodian heritage. |
+| Experience | 8.7 | Established archaeological visit. |
+| Depth | 8.8 | Multiple urban levels and structures. |
+
+- Applicable categories: history:9.3, architecture:9.1, photography:9.0.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-asklepieion-kos — Asklepieion of Kos Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/asklepieion-kos.yaml)
+- Action: new
+- Precise subject and limitations: Terraced ancient healing sanctuary with views; separate site from Epidaurus. Official national reference https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/asklepieion.
+- Location check: 36.87542, 27.2569; [published representative point](https://mapcarta.com/13163044), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://kos.gr/historical-monuments-and-museums/asclepieion); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/epidaurus](../../../countries/GR/sights/epidaurus.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 8.8 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/sounion](../../../countries/GR/sights/sounion.yaml) | 8.9 / 9.0 / 9.1 / 8.8 / 7.9 | depth: +0.8 vs peer; impact: -0.1 vs peer. |
+| [GR/ancient-nemea](../../../countries/GR/sights/ancient-nemea.yaml) | 8.7 / 8.8 / 9.1 / 8.7 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [GR/ancient-corinth](../../../countries/GR/sights/ancient-corinth.yaml) | 8.9 / 8.8 / 9.2 / 8.8 / 8.9 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Impressive terraced sanctuary. |
+| Uniqueness | 8.9 | Distinct ancient healing complex. |
+| Significance | 9.2 | Major medical and religious heritage. |
+| Experience | 8.8 | Established open-air archaeological circuit. |
+| Depth | 8.7 | Multiple sanctuary levels. |
+
+- Applicable categories: history:9.4, architecture:9.2, culture:9.0.
+- Computed worldwide overall: 88.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-nisyros-stefanos-crater — Nisyros Stefanos Volcanic Crater — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/nisyros-stefanos-crater.yaml)
+- Action: new
+- Precise subject and limitations: Stefanos hydrothermal crater and designated visitor route, not entire Nisyros island. Gas, volcanic and access restrictions conditional; no unrestricted entry assumed.
+- Location check: 36.57806, 27.16833; [published representative point](https://mapcarta.com/13169688), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/routes/nisyros-a-living-page-of-geological-history); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/santorini-caldera](../../../countries/GR/sights/santorini-caldera.yaml) | 9.6 / 9.5 / 9.0 / 9.2 / 9.2 | depth: -0.7 vs peer; impact: -0.5 vs peer. |
+| [PT/capelinhos-volcano](../../../countries/PT/sights/capelinhos-volcano.yaml) | 9.0 / 9.2 / 9.0 / 8.8 / 8.8 | significance: -0.4 vs peer; depth: -0.3 vs peer. |
+| [PT/algar-do-carvao](../../../countries/PT/sights/algar-do-carvao.yaml) | 9.1 / 9.3 / 8.8 / 8.8 / 8.4 | significance: -0.2 vs peer; depth: +0.1 vs peer. |
+| [IT/vesuvius](../../../countries/IT/sights/vesuvius.yaml) | 9.2 / 9.3 / 9.4 / 8.8 / 8.8 | significance: -0.8 vs peer; depth: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic hydrothermal crater setting. |
+| Uniqueness | 9.3 | Distinct large phreatic crater. |
+| Significance | 8.6 | Important geological heritage. |
+| Experience | 8.8 | Established crater observation and permitted route. |
+| Depth | 8.5 | Bounded volcanic landscape. |
+
+- Applicable categories: nature:9.4, photography:9.3, adventure:9.1.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-museum-prehistoric-thera — Museum of Prehistoric Thera Santorini — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/museum-prehistoric-thera.yaml)
+- Action: new
+- Precise subject and limitations: Original prehistoric wall paintings and artefacts in Fira; separate from Akrotiri excavation and Archaeological Museum of Thera. Does not claim all Akrotiri finds are here.
+- Location check: 36.4165, 25.4326; [published representative point](https://mapcarta.com/W142786287), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hh.gr/en/destinations/prehistoric-thera-museum/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/heraklion-archaeological-museum](../../../countries/GR/sights/heraklion-archaeological-museum.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.2 | depth: -0.5 vs peer; impact: -0.4 vs peer. |
+| [GR/cycladic-art-museum](../../../countries/GR/sights/cycladic-art-museum.yaml) | 8.8 / 9.2 / 9.2 / 8.8 / 8.8 | significance: +0.1 vs peer; depth: -0.1 vs peer. |
+| [GR/acropolis-museum](../../../countries/GR/sights/acropolis-museum.yaml) | 9.1 / 9.2 / 9.5 / 9.2 / 9.0 | experience: -0.4 vs peer; impact: -0.3 vs peer. |
+| [IT/naples-archaeological-museum](../../../countries/IT/sights/naples-archaeological-museum.yaml) | 9.2 / 9.2 / 9.4 / 8.9 / 9.2 | depth: -0.5 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Striking prehistoric paintings and artefacts. |
+| Uniqueness | 9.2 | Distinct Aegean prehistoric collection. |
+| Significance | 9.3 | Internationally significant Bronze Age evidence. |
+| Experience | 8.8 | Dedicated gallery visit. |
+| Depth | 8.7 | Two complementary exhibitions. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.7.
+- Computed worldwide overall: 89.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-chios-mastic-villages — Chios Medieval Mastic Villages of Mesta and Pyrgi — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/chios-mastic-villages.yaml)
+- Action: new
+- Precise subject and limitations: Two representative southern Chios villages grouped; fortified lanes of Mesta and geometric facade decoration of Pyrgi, not all island settlements or Nea Moni. Mesta representative point. Mastic context https://www.visitgreece.gr/en/experiences/architecture/traditional-settlements/mastic.
+- Location check: 38.26, 25.9227; [published representative point](https://mapcarta.com/Mesta), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/mainland/north-aegean-islands); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/monemvasia-castle-town](../../../countries/GR/sights/monemvasia-castle-town.yaml) | 9.1 / 9.1 / 9.0 / 9.0 / 8.8 | impact: -0.3 vs peer; significance: -0.1 vs peer. |
+| [GR/corfu-old-town](../../../countries/GR/sights/corfu-old-town.yaml) | 9.2 / 9.1 / 9.2 / 9.1 / 9.0 | impact: -0.4 vs peer; significance: -0.3 vs peer. |
+| [IT/erice-historic-town](../../../countries/IT/sights/erice-historic-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.8 | uniqueness: +0.3 vs peer; impact: -0.1 vs peer. |
+| [PT/monsanto-historic-village](../../../countries/PT/sights/monsanto-historic-village.yaml) | 8.9 / 9.2 / 8.6 / 8.7 / 8.4 | depth: +0.4 vs peer; significance: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Distinctive streets and decorated facades. |
+| Uniqueness | 9.1 | Unusual fortified village and decorative traditions. |
+| Significance | 8.9 | Important local agricultural and architectural heritage. |
+| Experience | 8.9 | Established village walking experience. |
+| Depth | 8.8 | Two complementary historic settlements. |
+
+- Applicable categories: architecture:9.3, culture:9.3, photography:9.3, history:9.1.
+- Computed worldwide overall: 89.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-mykonos-windmills-little-venice — Mykonos Windmills and Little Venice Waterfront — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/mykonos-windmills-little-venice.yaml)
+- Action: new
+- Precise subject and limitations: Adjacent windmills and Little Venice exterior streets and waterfront grouped; excludes nightlife, entire island and Delos. Representative Kato Myloi point.
+- Location check: 37.4446, 25.32561; [published representative point](https://mapcarta.com/W299878763), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/mainland/Cyclades/Mykonos); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/chania-venetian-harbour](../../../countries/GR/sights/chania-venetian-harbour.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 8.7 | depth: -0.7 vs peer; significance: -0.3 vs peer. |
+| [GR/nafplio-historic-centre](../../../countries/GR/sights/nafplio-historic-centre.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 8.8 | depth: -0.8 vs peer; significance: -0.5 vs peer. |
+| [PT/costa-nova](../../../countries/PT/sights/costa-nova.yaml) | 8.4 / 8.6 / 8.1 / 8.6 / 8.0 | impact: +0.5 vs peer; significance: +0.3 vs peer. |
+| [PT/aveiro-canals](../../../countries/PT/sights/aveiro-canals.yaml) | 8.7 / 8.6 / 8.4 / 8.9 / 8.6 | depth: -0.6 vs peer; impact: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Iconic seaside townscape. |
+| Uniqueness | 8.8 | Distinct Cycladic windmill and waterfront ensemble. |
+| Significance | 8.4 | Regional maritime and architectural heritage. |
+| Experience | 8.8 | Established walking and viewing experience. |
+| Depth | 8.0 | Compact waterfront precinct. |
+
+- Applicable categories: photography:9.3, architecture:9.1, culture:9.0.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-lake-plastiras — Lake Plastiras and Shoreline Trails — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/lake-plastiras.yaml)
+- Action: new
+- Precise subject and limitations: Artificial reservoir and established shoreline paths, cycling and conditional water activities, not wider Agrafa mountains or all villages. Published lake centre representative point, not access point.
+- Location check: 39.3, 21.75; [published representative point](https://mapcarta.com/Plastira_Lake), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://plastiras-ota.gr/en/cat-building/activities/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/prespa](../../../countries/GR/sights/prespa.yaml) | 8.8 / 9.0 / 9.0 / 8.8 / 9.0 | significance: -0.9 vs peer; uniqueness: -0.7 vs peer. |
+| [IT/lake-garda](../../../countries/IT/sights/lake-garda.yaml) | 9.2 / 8.9 / 8.7 / 9.2 / 9.3 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer. |
+| [IT/maggiore-orta](../../../countries/IT/sights/maggiore-orta.yaml) | 9.2 / 9.0 / 8.7 / 9.2 / 9.2 | uniqueness: -0.7 vs peer; impact: -0.6 vs peer. |
+| [GR/pindos](../../../countries/GR/sights/pindos.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.3 | significance: -0.8 vs peer; uniqueness: -0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Scenic mountain-framed water. |
+| Uniqueness | 8.3 | Attractive but familiar reservoir landscape. |
+| Significance | 8.1 | Regional engineering and recreation heritage. |
+| Experience | 8.9 | Established outdoor activities. |
+| Depth | 8.8 | Multiple shoreline routes and viewpoints. |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:9.0, relaxation:9.0.
+- Computed worldwide overall: 84.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

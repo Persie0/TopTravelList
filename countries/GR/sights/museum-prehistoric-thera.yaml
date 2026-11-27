@@ -1,0 +1,16 @@
+id: sight-gr-museum-prehistoric-thera
+name: "Museum of Prehistoric Thera Santorini"
+location:
+  country_code: GR
+  latitude: 36.4165
+  longitude: 25.4326
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 8.7
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 8.7
