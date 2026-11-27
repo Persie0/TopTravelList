@@ -1322,7 +1322,7 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 | Depth | 8.4 | Multiple rooms and collection. |
 
 - Applicable categories: architecture:9.3, culture:9.1, history:8.8, photography:8.9.
-- Computed worldwide overall: 869.50/100.
+- Computed worldwide overall: 86.95/100.
 - High-score challenge: below 90 overall; no 9.5+ fields.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
@@ -1361,7 +1361,7 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 | Depth | 8.5 | Several interconnected historic features. |
 
 - Applicable categories: history:9.1, architecture:9.0, culture:8.8, photography:9.1.
-- Computed worldwide overall: 869.50/100.
+- Computed worldwide overall: 86.95/100.
 - High-score challenge: below 90 overall; no 9.5+ fields.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
@@ -1400,7 +1400,7 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 | Depth | 8.2 | Compact heritage precinct. |
 
 - Applicable categories: architecture:8.9, history:8.8, culture:8.7, photography:9.0.
-- Computed worldwide overall: 847.00/100.
+- Computed worldwide overall: 84.70/100.
 - High-score challenge: below 90 overall; no 9.5+ fields.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
@@ -1439,7 +1439,7 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 | Depth | 7.9 | Focused quarry complex. |
 
 - Applicable categories: history:9.2, architecture:8.7, photography:9.0.
-- Computed worldwide overall: 857.00/100.
+- Computed worldwide overall: 85.70/100.
 - High-score challenge: below 90 overall; no 9.5+ fields.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
@@ -1478,7 +1478,7 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 | Depth | 8.4 | Multiple routes and terrain. |
 
 - Applicable categories: nature:9.0, adventure:9.0, photography:9.1.
-- Computed worldwide overall: 839.00/100.
+- Computed worldwide overall: 83.90/100.
 - High-score challenge: below 90 overall; no 9.5+ fields.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
@@ -1517,7 +1517,7 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 | Depth | 7.8 | Limited house-scale collection. |
 
 - Applicable categories: culture:8.9, architecture:8.8, history:8.5.
-- Computed worldwide overall: 820.00/100.
+- Computed worldwide overall: 82.00/100.
 - High-score challenge: below 90 overall; no 9.5+ fields.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
@@ -1556,7 +1556,7 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 | Depth | 7.8 | Limited beach and coastal scope. |
 
 - Applicable categories: beaches:9.0, nature:8.8, photography:8.9, relaxation:8.8.
-- Computed worldwide overall: 814.50/100.
+- Computed worldwide overall: 81.45/100.
 - High-score challenge: below 90 overall; no 9.5+ fields.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.

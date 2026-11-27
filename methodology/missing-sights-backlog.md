@@ -671,12 +671,12 @@ Nine additions and 36 peer comparisons. Tunisia 37 ranked / 48 total; eleven pre
 
 ### Pass 61 — final named Tunisia coastal and heritage candidates
 
-- [x] TN — Ennejma Ezzahra Palace and Music Museum: 869.50/100 (source-linked-unverified).
-- [x] TN — Mahdia Old Town and Fortress: 869.50/100 (source-linked-unverified).
-- [x] TN — Hammamet Medina and Kasbah: 847.00/100 (source-linked-unverified).
-- [x] TN — El Haouaria Ancient Quarry Caves: 857.00/100 (source-linked-unverified).
-- [x] TN — Jebel Zaghouan Mountain: 839.00/100 (source-linked-unverified).
-- [x] TN — Dar El Annabi Heritage Museum: 820.00/100 (source-linked-unverified).
-- [x] TN — Cap Serrat Beach and Coastal Forest: 814.50/100 (source-linked-unverified).
+- [x] TN — Ennejma Ezzahra Palace and Music Museum: 86.95/100 (source-linked-unverified).
+- [x] TN — Mahdia Old Town and Fortress: 86.95/100 (source-linked-unverified).
+- [x] TN — Hammamet Medina and Kasbah: 84.70/100 (source-linked-unverified).
+- [x] TN — El Haouaria Ancient Quarry Caves: 85.70/100 (source-linked-unverified).
+- [x] TN — Jebel Zaghouan Mountain: 83.90/100 (source-linked-unverified).
+- [x] TN — Dar El Annabi Heritage Museum: 82.00/100 (source-linked-unverified).
+- [x] TN — Cap Serrat Beach and Coastal Forest: 81.45/100 (source-linked-unverified).
 
 Seven additions; 28 peer rows. Tunisia 44 ranked / 55 total; 11 prior unassessed unchanged. El Haouaria access conditional; Cap Serrat excludes lighthouse and private camps; Sidi Bou Said museums separate from public village walk; medina/fort bundles prevent duplicate records. New concrete candidates from official regional overview https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga: Utica archaeological site, Bizerte old town/fort, Ghar el-Melh fortifications and Testour historic centre. Keep Tunisia open for that bounded screen rather than falsely declaring the queue exhausted. Full Python validation and independent corroboration pending.
