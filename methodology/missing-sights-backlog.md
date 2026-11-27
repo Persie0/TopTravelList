@@ -1125,3 +1125,16 @@ Seven additions, 28 peer rows. Greece 103 ranked / 104 total. Messolonghi lagoon
 - [x] GR — Stavros Niarchos Foundation Cultural Center and Park Athens: 87.75/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Greece 110 ranked / 111 total, 46 additions since pass 92; current named queue DONE (18 closed queues). Ancient Thera closure notice conflicts with routine hours; established experience scored, no access promise. Archaeological Museum of Thera reopened June 2026 according to Hellenic Heritage; separate from prehistoric museum. Cave of the Lakes distinct developed cave experience, Chios museum distinct from villages. Next unscreened country. Full Python validation pending.
+
+### Pass 98 — Türkiye museums, memorial, cruise and waterfall
+
+- [x] TR — Zeugma Mosaic Museum Gaziantep: 91.05/100 (source-linked-unverified).
+- [x] TR — Museum of Anatolian Civilizations Ankara: 92.00/100 (source-linked-unverified).
+- [x] TR — Mevlana Museum and Rumi Mausoleum Konya: 90.35/100 (source-linked-unverified).
+- [x] TR — Anıtkabir Mausoleum and Museum Ankara: 90.35/100 (source-linked-unverified).
+- [x] TR — Troy Museum Tevfikiye: 88.80/100 (source-linked-unverified).
+- [x] TR — Istanbul Modern Art Museum: 86.55/100 (source-linked-unverified).
+- [x] TR — Bosphorus Strait Scenic Cruise Istanbul: 90.90/100 (source-linked-unverified).
+- [x] TR — Lower Düden Waterfall and Coastal Park Antalya: 85.20/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Türkiye 59 ranked / 59 total. Museum collections distinguished from ruins; Bosphorus cruise exterior water views only; Lower Düden distinct from Upper Düden. Chora deferred for parent overlap check (UNESCO https://whc.unesco.org/en/list/356); Antalya archaeological museum replacement deferred pending defined exhibition scope (https://www.antalyakorfez.com/antalya-arkeoloji-muzesinin-acilisi-2027ye-kaldi-nedenini-bakan-ersoy-acikladi). Partial Anatolian Civilizations hall closure documented. Next bounded screen: Upper Düden Waterfall, Antalya Kaleiçi, Side ancient city, Myra rock tombs and theatre, Ihlara Valley (Cappadocia overlap), Olympos archaeological site, Tahtalı cable car and Lake Salda. Full Python validation pending.

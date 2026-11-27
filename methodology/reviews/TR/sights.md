@@ -1658,3 +1658,315 @@
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: detailed independent corroboration and current access.
+
+
+## sight-tr-zeugma-mosaic-museum — Zeugma Mosaic Museum Gaziantep — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/zeugma-mosaic-museum.yaml)
+- Action: new
+- Precise subject and limitations: Original Roman mosaics from Zeugma and regional churches in Gaziantep museum, separate from Zeugma archaeological site. Ministry describes separate exhibition blocks.
+- Location check: 37.07562, 37.3859; [published representative point](https://mapcarta.com/34019284), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://muze.gov.tr/muze-detay?DistId=GZN&SectionId=GZN01); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/zeugma](../../../countries/TR/sights/zeugma.yaml) | 8.2 / 8.8 / 9.1 / 8.2 / 7.5 | depth: +1.5 vs peer; impact: +0.9 vs peer. |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 9.2 | depth: -0.2 vs peer; impact: +0.1 vs peer. |
+| [GR/heraklion-archaeological-museum](../../../countries/GR/sights/heraklion-archaeological-museum.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.2 | significance: -0.2 vs peer; depth: -0.2 vs peer. |
+| [IT/naples-archaeological-museum](../../../countries/IT/sights/naples-archaeological-museum.yaml) | 9.2 / 9.2 / 9.4 / 8.9 / 9.2 | significance: -0.2 vs peer; depth: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Exceptional mosaic presentation. |
+| Uniqueness | 9.2 | Distinct concentrated Roman mosaic collection. |
+| Significance | 9.2 | Major evidence of ancient regional art. |
+| Experience | 8.9 | Dedicated museum circuit. |
+| Depth | 9.0 | Multiple collections and exhibition spaces. |
+
+- Applicable categories: history:9.4, culture:9.4, photography:9.1.
+- Computed worldwide overall: 91.05/100.
+- High-score challenge: 90+ provisional; established international peer comparisons documented; further calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-anatolian-civilizations-museum — Museum of Anatolian Civilizations Ankara — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/anatolian-civilizations-museum.yaml)
+- Action: new
+- Precise subject and limitations: Chronological Anatolian archaeological collections in historic market buildings; separate from excavation sites. Ministry specifically reports Ankara and Classical halls closed 14 September 2026–2 March 2027; established full collection experience rated, no assumption of access to these galleries.
+- Location check: 39.93795, 32.86176; [published representative point](https://mapcarta.com/34821044), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://muze.gov.tr/muze-detay?DistId=AMM&SectionId=AMM01); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 9.2 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer. |
+| [GR/national-arch-museum](../../../countries/GR/sights/national-arch-museum.yaml) | 9.0 / 9.2 / 9.6 / 9.0 / 9.2 | significance: -0.2 vs peer; impact: +0.1 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | experience: -0.2 vs peer; depth: -0.1 vs peer. |
+| [GR/heraklion-archaeological-museum](../../../countries/GR/sights/heraklion-archaeological-museum.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.2 | impact: -0.1 vs peer; experience: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Exceptional archaeological objects. |
+| Uniqueness | 9.3 | Distinct concentration of early Anatolian civilizations. |
+| Significance | 9.4 | International importance of prehistoric and Hittite material. |
+| Experience | 8.9 | Established dedicated museum galleries. |
+| Depth | 9.3 | Extensive chronological collection. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:9.0.
+- Computed worldwide overall: 92.00/100.
+- High-score challenge: 90+ provisional; established international peer comparisons documented; further calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-mevlana-museum — Mevlana Museum and Rumi Mausoleum Konya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/mevlana-museum.yaml)
+- Action: new
+- Precise subject and limitations: Former Mevlevi lodge, Rumi tomb and museum exhibits grouped; excludes separate whirling-dervish performances. Heritage and religious etiquette respected.
+- Location check: 37.8706, 32.5047; [published representative point](https://thayungkhiem.vn/en/van-dao/places/lang-mevlana-konya), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2131-konya-mevlana-museum/2131/4); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/sumela](../../../countries/TR/sights/sumela.yaml) | 9.1 / 9.0 / 8.9 / 8.4 / 8.0 | depth: +0.7 vs peer; experience: +0.5 vs peer. |
+| [TR/selimiye](../../../countries/TR/sights/selimiye.yaml) | 9.1 / 9.1 / 9.3 / 9.0 / 8.7 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [GR/patmos-chora](../../../countries/GR/sights/patmos-chora.yaml) | 9.0 / 9.2 / 9.4 / 8.9 / 8.8 | impact: -0.1 vs peer; significance: -0.1 vs peer. |
+| [TR/topkapi](../../../countries/TR/sights/topkapi.yaml) | 9.2 / 9.1 / 9.4 / 9.2 / 9.2 | depth: -0.5 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Distinctive dome and decorated interiors. |
+| Uniqueness | 9.2 | Unusual Sufi lodge and devotional heritage. |
+| Significance | 9.3 | Internationally important Mevlevi cultural history. |
+| Experience | 8.9 | Established museum and shrine visit. |
+| Depth | 8.7 | Several connected historic rooms and exhibits. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:9.2.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: 90+ provisional; established international peer comparisons documented; further calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-anitkabir — Anıtkabir Mausoleum and Museum Ankara — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/anitkabir.yaml)
+- Action: new
+- Precise subject and limitations: Mausoleum, ceremonial axis and museum grouped; excludes wider Ankara city. Public visitation schedule documented at https://www.anitkabir.tsk.tr/06_hizmetlerimiz/ziyaret_saatleri.html.
+- Location check: 39.92501, 32.8369; [published representative point](https://mapcarta.com/N34668145), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.anitkabir.tsk.tr/20_ingilizce/03_muzeler/muze_hakkinda.html); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/topkapi](../../../countries/TR/sights/topkapi.yaml) | 9.2 / 9.1 / 9.4 / 9.2 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TR/dolmabahce-palace](../../../countries/TR/sights/dolmabahce-palace.yaml) | 9.2 / 9.0 / 9.2 / 9.0 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [TR/gallipoli](../../../countries/TR/sights/gallipoli.yaml) | 8.3 / 8.6 / 9.3 / 8.5 / 8.7 | impact: +0.7 vs peer; experience: +0.5 vs peer. |
+| [GR/panathenaic-stadium](../../../countries/GR/sights/panathenaic-stadium.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 8.4 | depth: +0.6 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental architectural composition. |
+| Uniqueness | 8.9 | Distinct republican memorial ensemble. |
+| Significance | 9.3 | Central significance to modern Turkish history. |
+| Experience | 9.0 | Established public monument and museum visit. |
+| Depth | 9.0 | Several connected ceremonial and exhibition spaces. |
+
+- Applicable categories: history:9.4, architecture:9.3, culture:9.2, photography:9.2.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: 90+ provisional; established international peer comparisons documented; further calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-troy-museum — Troy Museum Tevfikiye — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/troy-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated museum near Troy, separate from archaeological ruins; regional artifacts and interpretation. Coordinate represents museum building, not ruins entrance.
+- Location check: 39.95528, 26.24917; [published representative point](https://en.wikipedia.org/wiki/Troy_Museum), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2021-troy-museum-canakkale/2021/4); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/troy](../../../countries/TR/sights/troy.yaml) | 8.0 / 8.8 / 9.4 / 8.2 / 8.3 | impact: +0.7 vs peer; experience: +0.7 vs peer. |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 9.2 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+| [GR/museum-prehistoric-thera](../../../countries/GR/sights/museum-prehistoric-thera.yaml) | 8.8 / 9.2 / 9.3 / 8.8 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer. |
+| [GR/acropolis-museum](../../../countries/GR/sights/acropolis-museum.yaml) | 9.1 / 9.2 / 9.5 / 9.2 / 9.0 | impact: -0.4 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Strong archaeological exhibits. |
+| Uniqueness | 8.9 | Distinct Troy-focused interpretation. |
+| Significance | 9.1 | Important ancient regional collections. |
+| Experience | 8.9 | Dedicated museum circuit. |
+| Depth | 8.9 | Several floors and archaeological periods. |
+
+- Applicable categories: history:9.3, culture:9.2, architecture:9.0.
+- Computed worldwide overall: 88.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-istanbul-modern — Istanbul Modern Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/istanbul-modern.yaml)
+- Action: new
+- Precise subject and limitations: Contemporary and modern art museum at Galataport; excludes general waterfront, separately rated Galata Tower and Historic Areas of Istanbul.
+- Location check: 41.02591, 28.98281; [published representative point](https://mapcarta.com/26241010), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.istanbulmodern.org/en/visit/museum); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/peggy-guggenheim-collection](../../../countries/IT/sights/peggy-guggenheim-collection.yaml) | 8.8 / 9.0 / 9.1 / 8.9 / 8.6 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [PT/maat-lisbon](../../../countries/PT/sights/maat-lisbon.yaml) | 8.7 / 8.9 / 8.7 / 8.8 / 8.8 | uniqueness: -0.3 vs peer; impact: -0.1 vs peer. |
+| [GR/stavros-niarchos-cultural-center](../../../countries/GR/sights/stavros-niarchos-cultural-center.yaml) | 8.8 / 8.7 / 8.6 / 9.0 / 8.9 | impact: -0.2 vs peer; depth: -0.2 vs peer. |
+| [IT/pinacoteca-brera](../../../countries/IT/sights/pinacoteca-brera.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 9.0 | significance: -0.6 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Strong contemporary galleries and setting. |
+| Uniqueness | 8.6 | Distinct Turkish modern art focus. |
+| Significance | 8.6 | Important modern cultural institution. |
+| Experience | 8.9 | Established dedicated museum visit. |
+| Depth | 8.7 | Multiple gallery spaces. |
+
+- Applicable categories: culture:9.2, architecture:9.1, photography:8.9.
+- Computed worldwide overall: 86.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-bosphorus-cruise — Bosphorus Strait Scenic Cruise Istanbul — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/bosphorus-cruise.yaml)
+- Action: new
+- Precise subject and limitations: Scenic public ferry excursion along Bosphorus from Eminönü; pier is representative boarding point. Exterior water views only; no duplicate scoring of individual palace or fortress interiors. Schedule and weather conditional.
+- Location check: 41.01787, 28.97402; [published representative point](https://mapcarta.com/W338641294), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://sehirhatlari.istanbul/en/seferler/bogaz-turlari/full-bosphorus-tour-91); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/historic-istanbul](../../../countries/TR/sights/historic-istanbul.yaml) | 9.4 / 9.4 / 9.4 / 9.1 / 9.1 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/santorini-caldera](../../../countries/GR/sights/santorini-caldera.yaml) | 9.6 / 9.5 / 9.0 / 9.2 / 9.2 | uniqueness: -0.4 vs peer; depth: -0.4 vs peer. |
+| [GR/kleftiko-sea-caves](../../../countries/GR/sights/kleftiko-sea-caves.yaml) | 9.3 / 9.1 / 8.2 / 9.0 / 8.5 | significance: +0.7 vs peer; depth: +0.3 vs peer. |
+| [IT/capri](../../../countries/IT/sights/capri.yaml) | 9.3 / 9.2 / 8.9 / 9.1 / 9.0 | depth: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Dramatic intercontinental waterway and skyline. |
+| Uniqueness | 9.1 | Distinct strait setting and maritime perspective. |
+| Significance | 8.9 | Major historical geographic corridor. |
+| Experience | 9.1 | Established extended ferry excursion. |
+| Depth | 8.8 | Varied shoreline scenery and architecture. |
+
+- Applicable categories: photography:9.4, architecture:9.2, culture:9.0, relaxation:9.0.
+- Computed worldwide overall: 90.90/100.
+- High-score challenge: 90+ provisional; established international peer comparisons documented; further calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-lower-duden-waterfall — Lower Düden Waterfall and Coastal Park Antalya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/lower-duden-waterfall.yaml)
+- Action: new
+- Precise subject and limitations: Waterfall where river drops into sea and adjacent cliff-top viewpoints; excludes Upper Düden inland waterfall, a separate precinct. Boat viewing conditional.
+- Location check: 36.85096, 30.7835; [published representative point](https://mapcarta.com/N27597250), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://kulturportali.gov.tr/turkiye/antalya/gezilecekyer/asagi-duden-selalesi); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/marmore](../../../countries/IT/sights/marmore.yaml) | 9.0 / 9.0 / 9.0 / 8.9 / 8.9 | significance: -1.0 vs peer; depth: -0.9 vs peer. |
+| [IT/scala-dei-turchi](../../../countries/IT/sights/scala-dei-turchi.yaml) | 9.0 / 8.9 / 8.4 / 8.4 / 7.8 | significance: -0.4 vs peer; experience: +0.3 vs peer. |
+| [GR/myrtos-beach](../../../countries/GR/sights/myrtos-beach.yaml) | 9.2 / 8.7 / 8.0 / 8.8 / 7.8 | impact: -0.4 vs peer; depth: +0.2 vs peer. |
+| [PT/porto-moniz-lava-pools](../../../countries/PT/sights/porto-moniz-lava-pools.yaml) | 8.8 / 8.9 / 8.1 / 9.0 / 8.3 | experience: -0.3 vs peer; depth: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Dramatic coastal cascade. |
+| Uniqueness | 8.7 | Distinct waterfall into sea. |
+| Significance | 8.0 | Regional scenic and geological value. |
+| Experience | 8.7 | Established viewpoints and park. |
+| Depth | 8.0 | Compact coastal site. |
+
+- Applicable categories: nature:9.1, photography:9.3, relaxation:8.8.
+- Computed worldwide overall: 85.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
