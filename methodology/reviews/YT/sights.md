@@ -491,3 +491,155 @@ No numerical score or evidence-status changes made by this pass.
 - Overall: 86.35/100.
 - Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
+
+## sight-yt-southern-double-barrier — Southern Double Barrier Reef and Bouéni Pass Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/southern-double-barrier.yaml)
+- Action: new
+- Scope: Southern reef diving only, excludes Passe en S, N’Gouja seagrass and boat-based cetacean watching. Rare internal double reef, named dive sites documented. Actual ecological degradation from 2024 bleaching and Chido considered in impact and experience, not a temporary access penalty; no pristine reef assumption. Coordinate is representative of Bouéni reef, not a dive entry.
+- Representative coordinates: -12.90351, 45.0443; approximate, not necessarily entrance.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.0 / 8.6 / 8.5.
+- Categories: adventure:9.2,nature:9.2,wildlife:9.1.
+- Overall: 89.05/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://ofb.gouv.fr/le-parc-naturel-marin-de-mayotte ; https://parc-marin-mayotte.fr/editorial/le-recif-corallien-quest-ce-que-cest ; https://lagonmaore.com/le-lagon-maore/sites-de-plongee-mayotte/ ; https://temeum.ofb.fr/actualites/cyclone-chido-et-blanchissement-etat-des-recifs-coralliens-de-mayotte-en-2025 ; https://lejournaldemayotte.yt/index.php/articles/mayotte-le-rapport-ifrecor-2026-signale-une-chute-spectaculaire-des-recifs-coralliens.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/passe-en-s](../../../countries/YT/sights/passe-en-s.yaml) | 9.0 / 9.1 / 8.9 / 9.0 / 8.6 | experience: -0.4 vs peer; impact: -0.2 vs peer |
+| [YT/ngouja](../../../countries/YT/sights/ngouja.yaml) | 8.8 / 8.7 / 8.7 / 8.8 / 8.1 | uniqueness: +0.6 vs peer; depth: +0.4 vs peer |
+| [YT/mayotte-cetaceans](../../../countries/YT/sights/mayotte-cetaceans.yaml) | 9.0 / 9.1 / 8.6 / 8.9 / 8.7 | significance: +0.4 vs peer; experience: -0.3 vs peer |
+| [YT/choizil-islets](../../../countries/YT/sights/choizil-islets.yaml) | 8.9 / 8.6 / 7.9 / 8.7 / 7.6 | significance: +1.1 vs peer; depth: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-yt-boueni-mangroves — Baie de Bouéni Mangrove Trails and Kayaking — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/boueni-mangroves.yaml)
+- Action: new
+- Scope: Mangrove and back-mangrove visitor experience, representative Miréréni trail; no offshore reef credit.
+- Representative coordinates: -12.9071, 45.1516; approximate, not necessarily entrance.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.7 / 8.7 / 8.6.
+- Categories: nature:9.2,wildlife:9.2,adventure:9.0.
+- Overall: 86.55/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.mayotte-tourisme.com/explorez/le-lagon-un-terrain-de-jeu-unique/la-mangrove-rempart-contre-locean/ ; https://zones-humides.org/zones-humides-de-la-baie-de-boueni.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/pointe-saziley](../../../countries/YT/sights/pointe-saziley.yaml) | 8.6 / 8.5 / 8.7 / 8.3 / 7.9 | depth: +0.7 vs peer; experience: +0.4 vs peer |
+| [YT/ngouja](../../../countries/YT/sights/ngouja.yaml) | 8.8 / 8.7 / 8.7 / 8.8 / 8.1 | depth: +0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-yt-mont-benara — Mont Bénara Summit and Forest Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/mont-benara.yaml)
+- Action: new
+- Scope: Highest mountain in Mayotte, separate massif from Combani and Choungui; permitted trails only.
+- Representative coordinates: -12.88002, 45.16262; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.5 / 8.5 / 8.5.
+- Categories: adventure:9.2,nature:9.2,photography:9.1.
+- Overall: 85.55/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/mont-choungui](../../../countries/YT/sights/mont-choungui.yaml) | 8.9 / 8.4 / 7.8 / 8.5 / 7.6 | depth: +0.9 vs peer; significance: +0.7 vs peer |
+| [YT/combani-forest](../../../countries/YT/sights/combani-forest.yaml) | 8.5 / 8.6 / 8.4 / 8.7 / 8.6 | experience: -0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-yt-jardin-imany — Jardin d’Imany Combani Ylang-Ylang Plantation and Distillation — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/jardin-imany.yaml)
+- Action: new
+- Scope: Named plantation and traditional distillation experience, not a general forest visit. Coordinate approximate Combani area, exact plantation entrance unverified.
+- Representative coordinates: -12.793, 45.141; approximate, not necessarily entrance.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 9.0 / 8.8 / 8.7 / 8.7.
+- Categories: culture:9.3,history:9.1,nature:9.0.
+- Overall: 87.35/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://tourisme-centreouest.yt/activites/le-jardin-dimany/ ; https://lejardindimany.com/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/bandrele-salt-museum](../../../countries/YT/sights/bandrele-salt-museum.yaml) | 7.4 / 8.4 / 8.0 / 7.8 / 7.0 | depth: +1.7 vs peer; impact: +1.1 vs peer |
+| [YT/combani-forest](../../../countries/YT/sights/combani-forest.yaml) | 8.5 / 8.6 / 8.4 / 8.7 / 8.6 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-yt-soulou-waterfall — Cascade de Soulou Beach and Historic Bay — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/soulou-waterfall.yaml)
+- Action: new
+- Scope: Coastal waterfall, beach and adjacent historic bay; one combined record.
+- Representative coordinates: -12.78048, 45.10182; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.2 / 8.6 / 8.3.
+- Categories: photography:9.2,nature:9.1,relaxation:8.9.
+- Overall: 85.15/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/moya-beaches](../../../countries/YT/sights/moya-beaches.yaml) | 8.7 / 8.7 / 8.4 / 8.8 / 8.5 | significance: -0.2 vs peer; experience: -0.2 vs peer |
+| [YT/pointe-saziley](../../../countries/YT/sights/pointe-saziley.yaml) | 8.6 / 8.5 / 8.7 / 8.3 / 7.9 | significance: -0.5 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-yt-coconi-garden — Jardin Botanique de Coconi — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/coconi-garden.yaml)
+- Action: new
+- Scope: Managed botanical collections, not duplicate of ylang-ylang production tour.
+- Representative coordinates: -12.83466, 45.13437; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.5 / 8.6 / 8.5.
+- Categories: nature:9.1,family:9.0,relaxation:9.0.
+- Overall: 84.50/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/combani-forest](../../../countries/YT/sights/combani-forest.yaml) | 8.5 / 8.6 / 8.4 / 8.7 / 8.6 | impact: -0.3 vs peer; significance: +0.1 vs peer |
+| [YT/bandrele-salt-museum](../../../countries/YT/sights/bandrele-salt-museum.yaml) | 7.4 / 8.4 / 8.0 / 7.8 / 7.0 | depth: +1.5 vs peer; impact: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-yt-lac-karihani — Lac Karihani Freshwater Wetland and Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/YT/sights/lac-karihani.yaml)
+- Action: new
+- Scope: Natural freshwater lake, distinct from saline volcanic Dziani Dzaha; birdwatching without sighting guarantee.
+- Representative coordinates: -12.79629, 45.12081; approximate, not necessarily entrance.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.7 / 8.7 / 8.4 / 8.3.
+- Categories: wildlife:9.2,nature:9.2,photography:9.0.
+- Overall: 84.95/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [YT/dziani-dzaha](../../../countries/YT/sights/dziani-dzaha.yaml) | 8.8 / 9.0 / 8.6 / 8.4 / 7.8 | impact: -0.5 vs peer; depth: +0.5 vs peer |
+| [YT/pointe-saziley](../../../countries/YT/sights/pointe-saziley.yaml) | 8.6 / 8.5 / 8.7 / 8.3 / 7.9 | depth: +0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

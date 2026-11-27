@@ -229,7 +229,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Martinique](countries/MQ/) (`MQ`) | [4](countries/MQ/cities.md) | [35](countries/MQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Martinique) |
 | [Mauritania](countries/MR/) (`MR`) | [10](countries/MR/cities.md) | [17](countries/MR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritania) |
 | [Mauritius](countries/MU/) (`MU`) | [22](countries/MU/cities.md) | [63](countries/MU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritius) |
-| [Mayotte](countries/YT/) (`YT`) | [2](countries/YT/cities.md) | [13](countries/YT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mayotte) |
+| [Mayotte](countries/YT/) (`YT`) | [2](countries/YT/cities.md) | [20](countries/YT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mayotte) |
 | [Mexico](countries/MX/) (`MX`) | [36](countries/MX/cities.md) | [125](countries/MX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mexico) |
 | [Micronesia, Federated States of](countries/FM/) (`FM`) | [6](countries/FM/cities.md) | [14](countries/FM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Micronesia%2C%20Federated%20States%20of) |
 | [Moldova](countries/MD/) (`MD`) | [18](countries/MD/cities.md) | [33](countries/MD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Moldova) |

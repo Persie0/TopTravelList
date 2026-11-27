@@ -2808,3 +2808,16 @@ Regional overview sources: https://www.martinique.org/fr ; https://www.martiniqu
 - [x] GF — Écomusée d’Approuague-Kaw Régina Cultural and Industrial History: 86.40/100 (desk-based provisional).
 
 Regional overview sources: https://www.france.fr/en/article/french-guiana-amazonia-what-to-do-what-to-see/ ; https://parcnaturel-guyane.fr/le-territoire/sentiers-a-decouvrir/ ; https://hellosaintlau.fr/en/incontournables/ ; https://pop.culture.gouv.fr/notice/museo/M1063 ; https://pop.culture.gouv.fr/notice/museo/M1095 . 10 additions, 7 desk-based provisional, 3 source-informed, 2 90+, 24 domestic ranking-row comparisons. French Guiana 24 ranked / 24 total. Bounded queue closed; Crique Gabriel and Rorota deferred pending existing Kaw-Roura and Remire coastal scope respectively; restricted scientific reserve not presumed public. No guaranteed wildlife sightings or community access. Prior scores preserved. Next: Mayotte. Full Python validation pending.
+
+
+### Pass 179 — Mayotte remaining priority queue
+
+- [x] YT — Southern Double Barrier Reef and Bouéni Pass Scuba Diving: 89.05/100 (source-linked-unverified).
+- [x] YT — Baie de Bouéni Mangrove Trails and Kayaking: 86.55/100 (source-linked-unverified).
+- [x] YT — Mont Bénara Summit and Forest Hiking: 85.55/100 (desk-based provisional).
+- [x] YT — Jardin d’Imany Combani Ylang-Ylang Plantation and Distillation: 87.35/100 (source-linked-unverified).
+- [x] YT — Cascade de Soulou Beach and Historic Bay: 85.15/100 (desk-based provisional).
+- [x] YT — Jardin Botanique de Coconi: 84.50/100 (desk-based provisional).
+- [x] YT — Lac Karihani Freshwater Wetland and Birdwatching: 84.95/100 (desk-based provisional).
+
+Regional overview: https://www.france.fr/fr/destination/mayotte/ ; https://tourisme-centreouest.yt/nos-5-plus-belles-balades/ ; https://tourisme-centreouest.yt/a-lassaut-de-lilot/ ; https://ccsud.yt/attractivite/tourisme/a-faire/activites-terrestres . 7 additions, 4 desk-based provisional, 3 source-informed, 0 90+, 16 domestic ranking-row comparisons. Mayotte 19 ranked / 20 total. Researched potential 90+ double barrier reef but score held below 90 due to actual ecological degradation, not access restrictions. Existing reef scores preserved pending separate condition reassessment. No whole marine park umbrella or adjacent islet duplicates; separate forestry reserve umbrella would overlap named hikes. MuMa remains unassessed. Bounded queue closed. Next: French Polynesia. Full Python validation pending.

@@ -1,0 +1,16 @@
+id: sight-yt-coconi-garden
+name: "Jardin Botanique de Coconi"
+location:
+  country_code: YT
+  latitude: -12.83466
+  longitude: 45.13437
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.6
+  depth: 8.5
+  categories:
+    nature: 9.1
+    family: 9.0
+    relaxation: 9.0
