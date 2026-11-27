@@ -1,0 +1,16 @@
+id: sight-ar-el-rey-national-park
+name: "El Rey National Park Yungas and Chaco Forest Trails"
+location:
+  country_code: AR
+  latitude: -24.72
+  longitude: -64.65
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.4
+  depth: 8.7
+  categories:
+    nature: 9.2
+    wildlife: 9.3
+    photography: 9.0

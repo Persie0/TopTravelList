@@ -1,15 +1,15 @@
 id: sight-tg-fosse-aux-lions-national-park
-name: "Fosse aux Lions National Park"
+name: "Fosse aux Lions Gazetted Forest (former wildlife park)"
 location:
   country_code: TG
   latitude: 10.75
   longitude: 0.18
 scores:
-  impact: null
-  uniqueness: null
+  impact: 5.8
+  uniqueness: 6.3
   significance: 7.8
-  experience: null
-  depth: null
+  experience: 5.8
+  depth: 5.7
   categories:
-    nature: 8.3
-    wildlife: 8.4
+    nature: 6.0
+    wildlife: 5.5
