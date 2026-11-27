@@ -2215,3 +2215,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Château de la Roche Loire River Castle: 87.45/100 (desk-based provisional).
 
 30 additions, 19 desk-based provisional estimates, 11 source-informed candidates, 10 90+, 44 domestic peer ranking-row comparisons. France 745 ranked / 756 total; 11 existing unassessed unchanged. Saint-Marcel and Madeleine scored for underground circuits only, separate from surface gorge; UNESCO tentative 19-cave component membership remains unresolved (https://whc.unesco.org/en/tentativelists/1429/). Lemptégy independently scoped to excavated volcanic anatomy and industrial interpretation; Puy de Dôme general landscape remains in Chaîne des Puys. Moulins triptych temporary loan excluded from penalty, planned return 2028; not counted in Beaujeu collections. Haut-Allier railway integrated with canyon. Next: Burgundy: Dijon independent collections, Beaune, Cluny, Autun, Bibracte, Morvan, Auxerre, Vézelay scope, Nevers, Chalon-sur-Saône and Mâcon; then northeastern France. Full Python validation pending.
+
+
+### Pass 158 — accelerated Burgundy audit
+
+- [x] FR — Musée des Beaux-Arts Dijon Fine Arts and Ducal Tomb Collections: 93.40/100 (source-linked-unverified).
+- [x] FR — Abbaye de Cluny and Museum of Art and Archaeology: 92.85/100 (source-linked-unverified).
+- [x] FR — Guédelon Medieval Castle Construction and Craft Workshops: 92.50/100 (source-linked-unverified).
+- [x] FR — Bibracte Celtic Archaeological Site and Museum Mont Beuvray: 92.55/100 (source-linked-unverified).
+- [x] FR — MuséoParc Alésia Archaeological Site and Museum: 91.90/100 (source-linked-unverified).
+- [x] FR — Musée du Pays Châtillonnais Treasure of Vix: 91.90/100 (source-linked-unverified).
+- [x] FR — Cathédrale Saint-Lazare Autun Romanesque Sculpture and Treasury: 91.75/100 (source-linked-unverified).
+- [x] FR — Abbaye Saint-Germain Auxerre Carolingian Crypts and Museum: 91.75/100 (source-linked-unverified).
+- [x] FR — Abbaye Saint-Philibert Tournus Romanesque Church and Crypt: 91.20/100 (source-linked-unverified).
+- [x] FR — Roche de Solutré and Prehistory Museum: 91.20/100 (source-linked-unverified).
+- [x] FR — Hôtel-Dieu Beaune Hospital History and Art Collections: 91.75/100 (source-linked-unverified).
+- [x] FR — Château de Cormatin Historic Interiors and Gardens: 90.55/100 (source-linked-unverified).
+- [x] FR — Basilique du Sacré-Cœur Paray-le-Monial Romanesque Church: 90.55/100 (source-linked-unverified).
+- [x] FR — Cité Internationale de la Gastronomie et du Vin Dijon: 90.15/100 (source-linked-unverified).
+- [x] FR — Musée National Magnin Dijon Art Collections: 88.25/100 (desk-based provisional).
+- [x] FR — Musée Archéologique Dijon Archaeology Collections: 88.20/100 (desk-based provisional).
+- [x] FR — Musée de la Vie Bourguignonne Dijon Ethnography Collections: 86.95/100 (desk-based provisional).
+- [x] FR — Autun Roman Gates Theatre and Temple of Janus Archaeological Circuit: 89.40/100 (desk-based provisional).
+- [x] FR — Morvan Highlands Forest and Lake Hiking Trails: 87.50/100 (desk-based provisional).
+- [x] FR — Semur-en-Auxois Medieval Town and Ramparts: 88.35/100 (desk-based provisional).
+- [x] FR — Flavigny-sur-Ozerain Historic Village and Abbey Heritage: 87.20/100 (desk-based provisional).
+- [x] FR — Châteauneuf-en-Auxois Hilltop Castle and Village: 88.10/100 (desk-based provisional).
+- [x] FR — Château de Bussy-Rabutin Historic Portrait Collections and Gardens: 88.15/100 (desk-based provisional).
+- [x] FR — Château de Tanlay Renaissance Castle: 87.80/100 (desk-based provisional).
+- [x] FR — Château d’Ancy-le-Franc Renaissance Castle and Painted Interiors: 89.10/100 (desk-based provisional).
+- [x] FR — Noyers-sur-Serein Medieval Village: 87.65/100 (desk-based provisional).
+- [x] FR — Château de Saint-Fargeau Castle and Historic Interiors: 88.05/100 (desk-based provisional).
+- [x] FR — Cathédrale Saint-Étienne Auxerre Gothic Cathedral and Crypt: 90.65/100 (source-linked-unverified).
+- [x] FR — Cathédrale Saint-Cyr-et-Sainte-Julitte Nevers: 88.80/100 (desk-based provisional).
+- [x] FR — Musée Nicéphore Niépce Chalon-sur-Saône Photography Museum: 89.50/100 (desk-based provisional).
+
+30 additions, 15 desk-based provisional estimates, 15 source-informed candidates, 15 90+, 60 domestic peer ranking-row comparisons. France 775 ranked / 786 total; 11 existing unassessed unchanged. UNESCO explicitly names Dijon ducal palace and Beaune Hospices as Climats attributes (https://whc.unesco.org/en/list/1425/); museum collection scopes only. Bibracte includes Mont Beuvray archaeological trails, Morvan excludes those. Santiago serial religious component scope needs independent verification for Autun. Next: Remaining Burgundy: Chalon photography museum high-score review, Ancy-le-Franc high-score review, Nevers ducal palace and pottery museum, Autun Rolin collections, Mâcon, Saint-Sauveur-en-Puisaye, Tonnerre, La Charité-sur-Loire scope, Château de Bazoches, Cîteaux, Berzé-le-Châtel, Brancion, then Jura and Franche-Comté. Full Python validation pending.

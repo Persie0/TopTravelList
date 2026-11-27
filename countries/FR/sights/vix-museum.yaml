@@ -1,0 +1,15 @@
+id: sight-fr-vix-museum
+name: "Musée du Pays Châtillonnais Treasure of Vix"
+location:
+  country_code: FR
+  latitude: 47.858
+  longitude: 4.571
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.4
+    culture: 9.4
