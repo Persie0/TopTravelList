@@ -4729,3 +4729,314 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-es-girona-historic-centre — Girona Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/girona-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Public medieval streets, Jewish quarter, walls and Onyar river views; cathedral representative point from published DMS. Cathedral admission and wall access conditional; no separate component added here.
+- Location check: 41.9875, 2.826389; [published representative point](https://commons.wikimedia.org/wiki/Institution:Cathedral_of_Girona), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/destination/girona/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/toledo-core](../../../countries/ES/sights/toledo-core.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [ES/cuenca-core](../../../countries/ES/sights/cuenca-core.yaml) | 9.1 / 9.1 / 9.1 / 8.8 / 8.5 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/ronda-gorge-old-town](../../../countries/ES/sights/ronda-gorge-old-town.yaml) | 9.3 / 9.1 / 8.9 / 9.0 / 8.7 | impact: -0.3 vs peer; depth: +0.2 vs peer. |
+| [ES/salamanca-core](../../../countries/ES/sights/salamanca-core.yaml) | 9.2 / 9.2 / 9.3 / 9.0 / 9.0 | significance: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Medieval streets and colorful riverfront. |
+| Uniqueness | 8.9 | Distinct layered historic townscape. |
+| Significance | 9.0 | Important Roman, medieval and Jewish heritage. |
+| Experience | 9.0 | Varied walkable heritage precinct. |
+| Depth | 8.9 | Multiple historic quarters. |
+
+- Applicable categories: architecture:9.3, history:9.2, culture:9.1, photography:9.3.
+- Computed worldwide overall: 89.65/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-portaventura-world — PortAventura World Theme Parks — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/portaventura-world.yaml)
+- Action: new
+- Precise subject and limitations: Grouped PortAventura Park, Ferrari Land and Caribe Aquatic Park; excludes lodging. Seasonal operation, height restrictions and ride availability vary.
+- Location check: 41.08433, 1.15133; [published representative point](https://mapcarta.com/27599502/Map), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.portaventuraworld.com/en/parks); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/city-arts-sciences](../../../countries/ES/sights/city-arts-sciences.yaml) | 9.4 / 9.3 / 8.9 / 9.3 / 9.1 | significance: -1.0 vs peer; uniqueness: -0.4 vs peer. |
+| [ES/bernabeu-tour](../../../countries/ES/sights/bernabeu-tour.yaml) | 8.8 / 8.9 / 8.8 / 8.6 / 8.3 | depth: +1.0 vs peer; significance: -0.9 vs peer. |
+| [MA/atlas-film-studios](../../../countries/MA/sights/atlas-film-studios.yaml) | 8.7 / 9.0 / 8.3 / 8.8 / 8.6 | depth: +0.7 vs peer; experience: +0.6 vs peer. |
+| [ES/drach-caves](../../../countries/ES/sights/drach-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | depth: +0.8 vs peer; significance: -0.6 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Large themed environments. |
+| Uniqueness | 8.9 | Distinct multi-park resort. |
+| Significance | 7.9 | Major regional leisure destination. |
+| Experience | 9.4 | Varied rides and entertainment. |
+| Depth | 9.3 | Three parks and numerous attractions. |
+
+- Applicable categories: family:9.4, adventure:9.4, photography:8.7.
+- Computed worldwide overall: 88.75/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-dali-house-portlligat — Salvador Dalí House Museum Portlligat — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/dali-house-portlligat.yaml)
+- Action: new
+- Precise subject and limitations: Former home and studio, separate from Figueres Theatre-Museum. Timed entry and restricted rooms conditional; listed heritage coordinates. Operator FAQ https://www.salvador-dali.org/en/visit/faqs/.
+- Location check: 42.293216, 3.28606; [published representative point](https://en.wikipedia.org/wiki/List_of_Bienes_de_Inter%C3%A9s_Cultural_in_the_Province_of_Girona), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/salvador-dali-house-portlligat/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/dali-theatre-museum](../../../countries/ES/sights/dali-theatre-museum.yaml) | 9.2 / 9.5 / 9.2 / 9.0 / 8.9 | depth: -0.5 vs peer; impact: -0.4 vs peer. |
+| [ES/picasso-museum-barcelona](../../../countries/ES/sights/picasso-museum-barcelona.yaml) | 8.8 / 9.0 / 9.2 / 8.8 / 9.0 | depth: -0.6 vs peer; uniqueness: +0.2 vs peer. |
+| [ES/casa-batllo](../../../countries/ES/sights/casa-batllo.yaml) | 9.3 / 9.4 / 9.1 / 9.1 / 8.4 | impact: -0.5 vs peer; experience: -0.4 vs peer. |
+| [MA/yves-saint-laurent-museum](../../../countries/MA/sights/yves-saint-laurent-museum.yaml) | 8.5 / 8.8 / 8.6 / 8.5 / 8.3 | significance: +0.4 vs peer; uniqueness: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Unusual domestic interiors and coastal setting. |
+| Uniqueness | 9.2 | Distinct artist-designed home and studio. |
+| Significance | 9.0 | International artistic heritage. |
+| Experience | 8.7 | Focused house museum visit. |
+| Depth | 8.4 | Several interconnected rooms. |
+
+- Applicable categories: culture:9.3, architecture:9.1, history:9.0, photography:9.0.
+- Computed worldwide overall: 88.85/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-mnac-barcelona — National Art Museum of Catalonia — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/mnac-barcelona.yaml)
+- Action: new
+- Precise subject and limitations: Palau Nacional galleries, especially original Romanesque mural collections and modern art. Separate from Vall de Boí churches themselves and public Montjuïc landscape. Tourism overview https://www.spain.info/en/places-of-interest/mnac-national-art-museum-catalonia/.
+- Location check: 41.3686, 2.15346; [published representative point](https://mapcarta.com/N14075577293), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.museunacional.cat/en/collections/medieval-romanesque-art); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/prado](../../../countries/ES/sights/prado.yaml) | 9.4 / 9.4 / 9.7 / 9.3 / 9.6 | impact: -0.4 vs peer; experience: -0.4 vs peer. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.1 | depth: +0.2 vs peer; impact: -0.2 vs peer. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | significance: +0.2 vs peer; experience: -0.2 vs peer. |
+| [ES/picasso-museum-barcelona](../../../countries/ES/sights/picasso-museum-barcelona.yaml) | 8.8 / 9.0 / 9.2 / 8.8 / 9.0 | depth: +0.3 vs peer; impact: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Outstanding collections and monumental building. |
+| Uniqueness | 9.1 | Unusually rich Romanesque murals. |
+| Significance | 9.3 | International medieval and Catalan art heritage. |
+| Experience | 8.9 | Extensive gallery visit. |
+| Depth | 9.3 | Multiple periods and media. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:9.1.
+- Computed worldwide overall: 91.00/100.
+- High-score challenge: Above 90: extensive internationally important art holdings with distinctive Romanesque collection; compare listed peers, independent challenge pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-picasso-museum-malaga — Picasso Museum Málaga — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/picasso-museum-malaga.yaml)
+- Action: new
+- Precise subject and limitations: Buenavista Palace museum and art collections, distinct from Barcelona Picasso Museum and Málaga birthplace museum. Current exhibits and hours conditional.
+- Location check: 36.72174, -4.41839; [published representative point](https://mapcarta.com/26241124), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/museum-picasso-malaga/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/picasso-museum-barcelona](../../../countries/ES/sights/picasso-museum-barcelona.yaml) | 8.8 / 9.0 / 9.2 / 8.8 / 9.0 | uniqueness: -0.2 vs peer; depth: -0.2 vs peer. |
+| [ES/dali-theatre-museum](../../../countries/ES/sights/dali-theatre-museum.yaml) | 9.2 / 9.5 / 9.2 / 9.0 / 8.9 | uniqueness: -0.7 vs peer; impact: -0.5 vs peer. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | depth: -0.4 vs peer; impact: -0.3 vs peer. |
+| [MA/al-batha-museum](../../../countries/MA/sights/al-batha-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.6 / 8.5 | depth: +0.3 vs peer; experience: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Important art collection and palace. |
+| Uniqueness | 8.8 | Distinct collection in artist's birth city. |
+| Significance | 9.2 | International artistic significance. |
+| Experience | 8.8 | Dedicated gallery experience. |
+| Depth | 8.8 | Varied galleries and periods. |
+
+- Applicable categories: culture:9.4, history:9.1, architecture:8.9.
+- Computed worldwide overall: 88.50/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-malaga-alcazaba-gibralfaro — Málaga Alcazaba and Gibralfaro Castle — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/malaga-alcazaba-gibralfaro.yaml)
+- Action: new
+- Precise subject and limitations: Linked historic palatial fortification and hilltop castle, grouped as one excursion; castle reference https://www.spain.info/en/places-of-interest/gibralfaro-castle/. Official archive point at Alcazaba. Tickets, routes and opening vary; excludes Roman theatre as separate potential scope.
+- Location check: 36.721054, -4.415864; [published representative point](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/137873), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/alcazaba-malaga/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/alcazar-seville](../../../countries/ES/sights/alcazar-seville.yaml) | 9.4 / 9.3 / 9.3 / 9.2 / 9.0 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [MA/taourirt-kasbah](../../../countries/MA/sights/taourirt-kasbah.yaml) | 8.7 / 8.7 / 8.9 / 8.2 / 8.3 | experience: +0.7 vs peer; depth: +0.5 vs peer. |
+| [DZ/santa-cruz-fort](../../../countries/DZ/sights/santa-cruz-fort.yaml) | 9.0 / 8.7 / 8.9 / 8.8 / 8.5 | depth: +0.3 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking fortifications and city panorama. |
+| Uniqueness | 8.8 | Distinct linked palace and castle. |
+| Significance | 9.0 | Important Andalusi military heritage. |
+| Experience | 8.9 | Varied heritage walk. |
+| Depth | 8.8 | Two related precincts. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.3.
+- Computed worldwide overall: 89.15/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-bellver-castle — Bellver Castle Palma — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/bellver-castle.yaml)
+- Action: new
+- Precise subject and limitations: Circular Gothic castle, museum and permitted panoramic viewpoints; separate from Palma Cathedral. Current terrace and museum opening conditional.
+- Location check: 39.56378, 2.61942; [published representative point](https://mapcarta.com/17388016), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/bellver-castle/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | impact: -0.4 vs peer; significance: -0.3 vs peer. |
+| [ES/palma-cathedral](../../../countries/ES/sights/palma-cathedral.yaml) | 9.2 / 8.8 / 9.1 / 8.8 / 8.7 | impact: -0.5 vs peer; depth: -0.4 vs peer. |
+| [DZ/santa-cruz-fort](../../../countries/DZ/sights/santa-cruz-fort.yaml) | 9.0 / 8.7 / 8.9 / 8.8 / 8.5 | impact: -0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [TN/kelibia-fort](../../../countries/TN/sights/kelibia-fort.yaml) | 8.7 / 8.7 / 9.0 / 8.6 / 8.4 | uniqueness: +0.2 vs peer; significance: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Distinct circular silhouette. |
+| Uniqueness | 8.9 | Unusual circular Gothic castle. |
+| Significance | 8.8 | Regional royal and civic heritage. |
+| Experience | 8.7 | Focused monument and views. |
+| Depth | 8.3 | Compact castle complex. |
+
+- Applicable categories: architecture:9.3, history:9.0, photography:9.1.
+- Computed worldwide overall: 87.30/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-ebro-delta-natural-park — Ebro Delta Natural Park — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/ebro-delta-natural-park.yaml)
+- Action: new
+- Precise subject and limitations: Wetlands, lagoons, permitted cycling and birdwatching, including designated visitor trails. Park representative point not entrance. Wildlife, flooding and boat access conditional.
+- Location check: 40.6942, 0.7214; [published representative point](https://mapcarta.com/Delta_de_l%27Ebre_Natural_Park), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/nature/delta-ebre-natural-park/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/donana](../../../countries/ES/sights/donana.yaml) | 8.8 / 9.2 / 9.4 / 8.7 / 9.0 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [ES/albufera-valencia](../../../countries/ES/sights/albufera-valencia.yaml) | 8.7 / 8.6 / 8.7 / 8.8 / 8.7 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer. |
+| [ES/tablas-daimiel](../../../countries/ES/sights/tablas-daimiel.yaml) | 8.3 / 8.8 / 8.9 / 8.5 / 8.3 | depth: +0.6 vs peer; impact: +0.5 vs peer. |
+| [MA/oualidia-lagoon](../../../countries/MA/sights/oualidia-lagoon.yaml) | 8.7 / 8.5 / 8.1 / 8.8 / 8.3 | significance: +0.8 vs peer; depth: +0.6 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Extensive lagoon and delta scenery. |
+| Uniqueness | 8.8 | Distinct river delta ecosystem. |
+| Significance | 8.9 | Important protected wetland. |
+| Experience | 8.8 | Varied outdoor visitor routes. |
+| Depth | 8.9 | Multiple habitats and visitor zones. |
+
+- Applicable categories: nature:9.3, wildlife:9.3, photography:9.2, relaxation:8.9.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

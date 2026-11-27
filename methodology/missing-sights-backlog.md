@@ -824,3 +824,16 @@ Eight additions and 32 peer rows; Spain 110 ranked / 125 total. Official Spain t
 - [x] ES — San Sebastián Old Town (Parte Vieja): 86.85/100 (source-linked-unverified).
 
 Eight additions and 32 peer rows; Spain 118 ranked / 133 total. Bernabéu tour restricted to advertised museum and panorama scope, Gaztelugatxe controlled access, La Concha excluded from Old Town. Next bounded screen includes Girona historic centre, PortAventura, Dalí House Portlligat, MNAC Barcelona, Picasso Museum Málaga, Alcazaba of Málaga, Bellver Castle and Ebro Delta. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 74 — Spanish regional heritage, art museums, theme parks and wetlands
+
+- [x] ES — Girona Historic Centre: 89.65/100 (source-linked-unverified).
+- [x] ES — PortAventura World Theme Parks: 88.75/100 (source-linked-unverified).
+- [x] ES — Salvador Dalí House Museum Portlligat: 88.85/100 (source-linked-unverified).
+- [x] ES — National Art Museum of Catalonia: 91.00/100 (source-linked-unverified).
+- [x] ES — Picasso Museum Málaga: 88.50/100 (source-linked-unverified).
+- [x] ES — Málaga Alcazaba and Gibralfaro Castle: 89.15/100 (source-linked-unverified).
+- [x] ES — Bellver Castle Palma: 87.30/100 (source-linked-unverified).
+- [x] ES — Ebro Delta Natural Park: 88.30/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Spain 126 ranked / 141 total. PortAventura parks grouped; Málaga Alcazaba and Gibralfaro grouped as connected fortifications. Museum holdings distinct from source monuments and other museum visits. Next bounded regional screen: Barcelona Gothic Quarter, Santa Maria del Mar, Bardenas Reales, Garrotxa volcanic zone, Cap de Creus, Peñíscola Castle, Santa Bárbara Castle Alicante, and Maspalomas Dunes. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.

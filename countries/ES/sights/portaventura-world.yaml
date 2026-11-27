@@ -1,0 +1,16 @@
+id: sight-es-portaventura-world
+name: "PortAventura World Theme Parks"
+location:
+  country_code: ES
+  latitude: 41.08433
+  longitude: 1.15133
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 7.9
+  experience: 9.4
+  depth: 9.3
+  categories:
+    family: 9.4
+    adventure: 9.4
+    photography: 8.7
