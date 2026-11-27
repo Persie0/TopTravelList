@@ -5064,3 +5064,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BO — San Lorenzo Tarija Historic Village and Local Crafts: 82.30/100 (desk-based provisional).
 
 13 additions, 10 source-linked provisional, 3 desk-based provisional, 4 90+, 34 ranking-row comparisons (8 international). BO 93 ranked / 95 total, +39 since baseline 56. Prior 7 inscribed and 5 tentative World Heritage properties represented at property scope; serial components not independently mapped. Two additional UNESCO intangible festivals (Ch'utillos and San Roque) distinct from permanent urban heritage. Manuripi and Tariquía prior deferrals narrowed to documented Lago Bay and Pampa Grande visitor routes; actual permissions and access unverified. Takesi and Yunga Cruz distinct from Choro, no claim individually inscribed Qhapaq Ñan components. Illampu circuit excludes summit climbing. Otuquis and San Matías overlap deferrals retained. Existing two unassessed preserved. OPEN for further regional nature and heritage. Coordinates approximate; permissions, altitude safety and future programmes unverified.
+
+### Pass 286 — Bolivia Chiquitos components, cultural events and river wildlife
+
+- [x] BO — Santa Cruz Carnaval Cruceño Public Corso and Street Celebrations: 92.30/100 (source-linked-unverified).
+- [x] BO — La Paz UMSA Entrada Folklórica Universitaria Public Parade: 91.00/100 (source-linked-unverified).
+- [x] BO — Trinidad Ibaré Mamoré Ruta del Bufeo River Wildlife Watching: 90.75/100 (source-linked-unverified).
+- [x] BO — San José de Chiquitos Stone Jesuit Mission Church and Settlement: 89.90/100 (source-linked-unverified).
+- [x] BO — San Javier Jesuit Mission Church and Settlement: 89.65/100 (source-linked-unverified).
+- [x] BO — Concepción Jesuit Mission Church and Settlement: 89.05/100 (source-linked-unverified).
+- [x] BO — Santa Ana de Velasco Jesuit Mission Church and Settlement: 87.60/100 (source-linked-unverified).
+- [x] BO — San Rafael de Velasco Jesuit Mission Church and Settlement: 87.10/100 (source-linked-unverified).
+- [x] BO — San Miguel de Velasco Jesuit Mission Church and Settlement: 87.05/100 (source-linked-unverified).
+- [x] BO — La Paz Valle de las Ánimas Eroded Rock Formations: 86.80/100 (source-linked-unverified).
+- [x] BO — San Ignacio de Velasco Reconstructed Mission Cathedral: 85.80/100 (source-linked-unverified).
+- [x] BO — Palca Canyon Rock Formations and Hiking: 85.50/100 (desk-based provisional).
+- [x] BO — Samaipata Las Cuevas Waterfalls and Forest Walk: 83.05/100 (source-linked-unverified).
+- [x] BO — Trinidad Laguna Suárez Lakeside Recreation: 79.85/100 (source-linked-unverified).
+
+14 additions, 13 source-linked provisional, 1 desk-based provisional, 3 90+, 34 ranking-row comparisons (6 international). BO 107 ranked / 109 total, +53 since baseline 56. Prior 7 inscribed and 5 tentative properties represented at property scope. Chiquitos six named UNESCO components checked against https://whc.unesco.org/en/list/0529/maps/ and represented separately, non-additive to retained umbrella; San Ignacio de Velasco reconstructed cathedral is not an inscribed component. Other serial properties not independently mapped. Santa Cruz Carnival national heritage, distinct UMSA parade; Ibaré-Mamoré distinct from Yacuma, no wildlife interaction. Chalalán deferred as overlapping Madidi, Kallawaya private practices not assumed visitor access; Aguaragüe historical trails identified but current visitor scope insufficient. Prior Pantanal overlap deferrals retained. Existing two unassessed preserved. OPEN for additional bounded regional screen. Coordinates approximate, current permissions and future events unverified.

@@ -1969,3 +1969,311 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 285 scope decisions
 
 13 additions, 10 source-linked provisional, 3 desk-based provisional, 4 90+, 34 ranking-row comparisons (8 international). BO 93 ranked / 95 total, +39 since baseline 56. Prior 7 inscribed and 5 tentative World Heritage properties represented at property scope; serial components not independently mapped. Two additional UNESCO intangible festivals (Ch'utillos and San Roque) distinct from permanent urban heritage. Manuripi and Tariquía prior deferrals narrowed to documented Lago Bay and Pampa Grande visitor routes; actual permissions and access unverified. Takesi and Yunga Cruz distinct from Choro, no claim individually inscribed Qhapaq Ñan components. Illampu circuit excludes summit climbing. Otuquis and San Matías overlap deferrals retained. Existing two unassessed preserved. OPEN for further regional nature and heritage. Coordinates approximate; permissions, altitude safety and future programmes unverified.
+
+
+## sight-bo-santa-cruz-carnival — Santa Cruz Carnaval Cruceño Public Corso and Street Celebrations — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/santa-cruz-carnival.yaml)
+- Action: new
+- Scope: Public carnival recognized nationally by law 340 (2013); includes major corso and public comparsas, grouped with associated neighborhood processions; no future programme guarantee.
+- Representative coordinates: -17.783, -63.182; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.1 / 9.3 / 9.3 / 9.1.
+- Categories: culture:9.4 photography:9.3 nightlife:9.2.
+- Overall: 92.30/100.
+- Source: https://www.lexivox.org/norms/BO-L-N340.xhtml
+- Source: https://www.lexivox.org/norms/BO-L-N1034.html
+- Source: https://santacruz.bo/cultura-y-eventos/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: named distinct visitor experience supported by public sources; compare dimensions with peers, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/oruro-carnival](../../../countries/BO/sights/oruro-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.4 / 9.2 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [BO/la-paz-gran-poder](../../../countries/BO/sights/la-paz-gran-poder.yaml) | 9.4 / 9.3 / 9.4 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [EC/guaranda-carnival](../../../countries/EC/sights/guaranda-carnival.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.0 | impact: +0.3; uniqueness: +0.0 vs peer |
+| [EC/otavalo-yamor](../../../countries/EC/sights/otavalo-yamor.yaml) | 8.9 / 9.1 / 9.2 / 9.1 / 8.9 | impact: +0.4; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-la-paz-entrada-universitaria — La Paz UMSA Entrada Folklórica Universitaria Public Parade — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/la-paz-entrada-universitaria.yaml)
+- Action: new
+- Scope: University official festival platform documents 2026 edition; municipal calendar recognizes separate university procession. Public dance and music, distinct from Gran Poder; no future date asserted.
+- Representative coordinates: -16.5, -68.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.2 / 9.0.
+- Categories: culture:9.4 photography:9.3 history:9.1.
+- Overall: 91.00/100.
+- Source: https://culturas.fcpn.edu.bo/
+- Source: https://sitservicios.lapaz.bo/sit/mapacultural/mapa/Festividades.html
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: named distinct visitor experience supported by public sources; compare dimensions with peers, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/la-paz-gran-poder](../../../countries/BO/sights/la-paz-gran-poder.yaml) | 9.4 / 9.3 / 9.4 / 9.3 / 9.2 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [BO/oruro-carnival](../../../countries/BO/sights/oruro-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.4 / 9.2 | impact: -0.6; uniqueness: -0.3 vs peer |
+| [EC/loja-artes-vivas](../../../countries/EC/sights/loja-artes-vivas.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.2 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [EC/ambato-fruit-flower-festival](../../../countries/EC/sights/ambato-fruit-flower-festival.yaml) | 9.2 / 9.1 / 9.2 / 9.2 / 9.0 | impact: -0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-ibare-mamore-bufeo — Trinidad Ibaré Mamoré Ruta del Bufeo River Wildlife Watching — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/ibare-mamore-bufeo.yaml)
+- Action: new
+- Scope: Municipal protected area and published named dolphin observation route; distinct Mamoré watershed experience near Trinidad from Yacuma pampas. Broad river area only; no guaranteed sightings, swimming with or feeding wildlife excluded.
+- Representative coordinates: -14.83, -64.98; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.1 / 8.9 / 8.9.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 90.75/100.
+- Source: https://www.apmim.cibioma.edu.bo/
+- Source: https://www.trinidad.gob.bo/gobierno-mcpal/actividad-municipal/7434-proteccion-bufeo.html
+- Source: https://www.laregion.bo/ruta-del-bufeo-volver-a-la-naturaleza-para-curar-cuerpo-y-alma/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: named distinct visitor experience supported by public sources; compare dimensions with peers, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/pampas-del-yacuma](../../../countries/BO/sights/pampas-del-yacuma.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.6 | impact: +0.3; uniqueness: +0.6 vs peer |
+| [BO/pilon-lajas-mapajo](../../../countries/BO/sights/pilon-lajas-mapajo.yaml) | 9.0 / 9.2 / 9.3 / 8.7 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [EC/puerto-lopez-whale-watching](../../../countries/EC/sights/puerto-lopez-whale-watching.yaml) | 9.3 / 9.1 / 8.8 / 9.2 / 8.5 | impact: -0.2; uniqueness: +0.1 vs peer |
+| [EC/el-morro-mangrove-refuge](../../../countries/EC/sights/el-morro-mangrove-refuge.yaml) | 8.4 / 8.6 / 8.5 / 8.7 / 8.3 | impact: +0.7; uniqueness: +0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-san-javier-mission — San Javier Jesuit Mission Church and Settlement — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/san-javier-mission.yaml)
+- Action: new
+- Scope: One of six UNESCO components, earliest mission foundation; permanent architecture and public heritage, non-additive to aggregate Chiquitos rating.
+- Representative coordinates: -16.27, -62.5; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.3 / 8.7 / 8.8.
+- Categories: architecture:9.4 history:9.4 culture:9.2.
+- Overall: 89.65/100.
+- Source: https://whc.unesco.org/en/list/529/
+- Source: https://whc.unesco.org/en/list/0529/maps/
+- Source: https://www.caminodelosjesuitas.com/atractivo-turistico/misiones-jesuiticas-de-chiquitos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [BO/san-ignacio-moxos-mission](../../../countries/BO/sights/san-ignacio-moxos-mission.yaml) | 8.4 / 8.7 / 9.1 / 8.5 / 8.7 | impact: +0.5; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-concepcion-mission — Concepción Jesuit Mission Church and Settlement — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/concepcion-mission.yaml)
+- Action: new
+- Scope: Named inscribed component, distinct settlement and church. Non-additive to aggregate mission itinerary; interior admission unverified.
+- Representative coordinates: -16.13, -62.02; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.2 / 8.8 / 8.8.
+- Categories: architecture:9.4 history:9.3 culture:9.2.
+- Overall: 89.05/100.
+- Source: https://whc.unesco.org/en/list/529/
+- Source: https://whc.unesco.org/en/list/0529/maps/
+- Source: https://www.caminodelosjesuitas.com/atractivo-turistico/misiones-jesuiticas-de-chiquitos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [BO/san-ignacio-moxos-mission](../../../countries/BO/sights/san-ignacio-moxos-mission.yaml) | 8.4 / 8.7 / 9.1 / 8.5 / 8.7 | impact: +0.4; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-san-jose-chiquitos-mission — San José de Chiquitos Stone Jesuit Mission Church and Settlement — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/san-jose-chiquitos-mission.yaml)
+- Action: new
+- Scope: UNESCO identifies distinctive stone construction unlike other components. Independent town visit, non-additive to aggregate.
+- Representative coordinates: -17.85, -60.74; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 8.7 / 8.8.
+- Categories: architecture:9.4 history:9.4 culture:9.2.
+- Overall: 89.90/100.
+- Source: https://whc.unesco.org/en/list/529/
+- Source: https://whc.unesco.org/en/list/0529/maps/
+- Source: https://www.caminodelosjesuitas.com/atractivo-turistico/misiones-jesuiticas-de-chiquitos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [BO/copacabana-basilica](../../../countries/BO/sights/copacabana-basilica.yaml) | 8.5 / 8.7 / 9.2 / 8.6 / 8.5 | impact: +0.4; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-santa-ana-velasco-mission — Santa Ana de Velasco Jesuit Mission Church and Settlement — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/santa-ana-velasco-mission.yaml)
+- Action: new
+- Scope: Named UNESCO component, permanent built and living heritage only; no private ceremony access; non-additive to aggregate.
+- Representative coordinates: -16.58, -60.7; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 9.0 / 9.2 / 8.4 / 8.6.
+- Categories: architecture:9.3 history:9.4 culture:9.2.
+- Overall: 87.60/100.
+- Source: https://whc.unesco.org/en/list/529/
+- Source: https://whc.unesco.org/en/list/0529/maps/
+- Source: https://www.caminodelosjesuitas.com/atractivo-turistico/misiones-jesuiticas-de-chiquitos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: -0.5; uniqueness: -0.3 vs peer |
+| [BO/san-ignacio-moxos-mission](../../../countries/BO/sights/san-ignacio-moxos-mission.yaml) | 8.4 / 8.7 / 9.1 / 8.5 / 8.7 | impact: +0.1; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-san-miguel-velasco-mission — San Miguel de Velasco Jesuit Mission Church and Settlement — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/san-miguel-velasco-mission.yaml)
+- Action: new
+- Scope: Named UNESCO component and distinct settlement; non-additive to umbrella. Admission unverified.
+- Representative coordinates: -16.7, -60.97; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.1 / 8.5 / 8.6.
+- Categories: architecture:9.3 history:9.3 culture:9.1.
+- Overall: 87.05/100.
+- Source: https://whc.unesco.org/en/list/529/
+- Source: https://whc.unesco.org/en/list/0529/maps/
+- Source: https://www.caminodelosjesuitas.com/atractivo-turistico/misiones-jesuiticas-de-chiquitos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: -0.5; uniqueness: -0.5 vs peer |
+| [BO/san-ignacio-moxos-mission](../../../countries/BO/sights/san-ignacio-moxos-mission.yaml) | 8.4 / 8.7 / 9.1 / 8.5 / 8.7 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-san-rafael-velasco-mission — San Rafael de Velasco Jesuit Mission Church and Settlement — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/san-rafael-velasco-mission.yaml)
+- Action: new
+- Scope: Named UNESCO component, permanent church and settlement, non-additive to umbrella. Admission unverified.
+- Representative coordinates: -16.78, -60.68; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.2 / 8.4 / 8.6.
+- Categories: architecture:9.3 history:9.3 culture:9.1.
+- Overall: 87.10/100.
+- Source: https://whc.unesco.org/en/list/529/
+- Source: https://whc.unesco.org/en/list/0529/maps/
+- Source: https://www.caminodelosjesuitas.com/atractivo-turistico/misiones-jesuiticas-de-chiquitos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: -0.5; uniqueness: -0.5 vs peer |
+| [BO/san-ignacio-moxos-mission](../../../countries/BO/sights/san-ignacio-moxos-mission.yaml) | 8.4 / 8.7 / 9.1 / 8.5 / 8.7 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-san-ignacio-velasco-cathedral — San Ignacio de Velasco Reconstructed Mission Cathedral — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/san-ignacio-velasco-cathedral.yaml)
+- Action: new
+- Scope: Distinct reconstructed church outside the six inscribed components; scholarly source documents original church demolition in 1948. No claim of original fabric or inscription.
+- Representative coordinates: -16.37, -60.96; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.9 / 8.6 / 8.4.
+- Categories: architecture:9.2 history:9.1 culture:9.1.
+- Overall: 85.80/100.
+- Source: https://www.scielo.org.bo/scielo.php?pid=S2077-33232022000100161&script=sci_arttext
+- Source: https://whc.unesco.org/en/list/529/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: -0.6; uniqueness: -0.7 vs peer |
+| [BO/copacabana-basilica](../../../countries/BO/sights/copacabana-basilica.yaml) | 8.5 / 8.7 / 9.2 / 8.6 / 8.5 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-valle-de-las-animas — La Paz Valle de las Ánimas Eroded Rock Formations — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/valle-de-las-animas.yaml)
+- Action: new
+- Scope: Distinct eroded pinnacles landscape from Valle de la Luna; separate from Palca canyon; permitted walks only, conditions unverified.
+- Representative coordinates: -16.53, -68.02; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.1 / 8.7 / 8.3.
+- Categories: nature:9.3 photography:9.4 adventure:9.0.
+- Overall: 86.80/100.
+- Source: https://www.turismolapaz.com/valle-de-las-animas/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/valle-de-la-luna-la-paz](../../../countries/BO/sights/valle-de-la-luna-la-paz.yaml) | 8.3 / 8.3 / 7.2 / 8.3 / 7.0 | impact: +0.7; uniqueness: +0.6 vs peer |
+| [BO/el-vergel-canyon](../../../countries/BO/sights/el-vergel-canyon.yaml) | 8.6 / 8.4 / 7.6 / 8.7 / 7.7 | impact: +0.4; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-palca-canyon — Palca Canyon Rock Formations and Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/palca-canyon.yaml)
+- Action: new
+- Scope: Desk-based distinct canyon route; non-additive where combined with Valle de las Ánimas; no guarantee of safe trail access.
+- Representative coordinates: -16.56, -67.96; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.0 / 8.7 / 8.3.
+- Categories: nature:9.2 photography:9.3 adventure:9.1.
+- Overall: 85.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/el-vergel-canyon](../../../countries/BO/sights/el-vergel-canyon.yaml) | 8.6 / 8.4 / 7.6 / 8.7 / 7.7 | impact: +0.2; uniqueness: +0.3 vs peer |
+| [BO/valle-de-la-luna-la-paz](../../../countries/BO/sights/valle-de-la-luna-la-paz.yaml) | 8.3 / 8.3 / 7.2 / 8.3 / 7.0 | impact: +0.5; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-las-cuevas-waterfalls — Samaipata Las Cuevas Waterfalls and Forest Walk — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/las-cuevas-waterfalls.yaml)
+- Action: new
+- Scope: Local tourism lists waterfall trail east of Samaipata. No swimming safety or current admission claim.
+- Representative coordinates: -18.15, -63.7; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.3 / 7.8 / 8.8 / 8.0.
+- Categories: nature:9.0 photography:9.1 relaxation:8.9.
+- Overall: 83.05/100.
+- Source: https://www.samaipata.city/atr.html
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/el-vergel-canyon](../../../countries/BO/sights/el-vergel-canyon.yaml) | 8.6 / 8.4 / 7.6 / 8.7 / 7.7 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [BO/amboro-national-park](../../../countries/BO/sights/amboro-national-park.yaml) | 8.9 / 8.9 / 9.1 / 8.6 / 8.9 | impact: -0.4; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-laguna-suarez — Trinidad Laguna Suárez Lakeside Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/laguna-suarez.yaml)
+- Action: new
+- Scope: National tourism lists Laguna Suárez; distinct recreation from Ibaré–Mamoré route; no swimming conditions or boat operation asserted.
+- Representative coordinates: -14.86, -64.86; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 7.9 / 8.0 / 7.7 / 8.5 / 8.0.
+- Categories: nature:8.7 relaxation:9.0 family:8.8.
+- Overall: 79.85/100.
+- Source: https://boliviatravel.gob.bo/12moxos/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/pampas-del-yacuma](../../../countries/BO/sights/pampas-del-yacuma.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.6 | impact: -0.9; uniqueness: -0.6 vs peer |
+| [BO/cordillera-de-sama-reserve](../../../countries/BO/sights/cordillera-de-sama-reserve.yaml) | 8.8 / 8.8 / 8.7 / 8.5 / 8.5 | impact: -0.9; uniqueness: -0.8 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 286 scope decisions
+
+14 additions, 13 source-linked provisional, 1 desk-based provisional, 3 90+, 34 ranking-row comparisons (6 international). BO 107 ranked / 109 total, +53 since baseline 56. Prior 7 inscribed and 5 tentative properties represented at property scope. Chiquitos six named UNESCO components checked against https://whc.unesco.org/en/list/0529/maps/ and represented separately, non-additive to retained umbrella; San Ignacio de Velasco reconstructed cathedral is not an inscribed component. Other serial properties not independently mapped. Santa Cruz Carnival national heritage, distinct UMSA parade; Ibaré-Mamoré distinct from Yacuma, no wildlife interaction. Chalalán deferred as overlapping Madidi, Kallawaya private practices not assumed visitor access; Aguaragüe historical trails identified but current visitor scope insufficient. Prior Pantanal overlap deferrals retained. Existing two unassessed preserved. OPEN for additional bounded regional screen. Coordinates approximate, current permissions and future events unverified.
