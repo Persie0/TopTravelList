@@ -1,0 +1,16 @@
+id: sight-us-caddo-lake
+name: "Caddo Lake Cypress Swamp Paddling"
+location:
+  country_code: US
+  latitude: 32.681
+  longitude: -94.176
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.3
+    wildlife: 9.0

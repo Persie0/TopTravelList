@@ -1,0 +1,16 @@
+id: sight-us-country-music-hall
+name: "Country Music Hall of Fame and Museum Nashville"
+location:
+  country_code: US
+  latitude: 36.159
+  longitude: -86.776
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    family: 8.9

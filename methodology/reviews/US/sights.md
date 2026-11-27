@@ -10002,3 +10002,528 @@ Ranking rows checked; independent factual, coordinate, peer YAML, international 
 
 Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
 
+## sight-us-longwood-gardens — Longwood Gardens Conservatories and Fountain Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/longwood-gardens.yaml)
+- Action: new
+- Scope: Garden estate, conservatories and fountain shows grouped; 1,100-acre estate, not all open to visitors.
+- Representative coordinates: 39.872, -75.674; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.1 / 9.4 / 9.2.
+- Categories: nature:9.4 photography:9.4 relaxation:9.3.
+- Overall: 92.40/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://extension.psu.edu/great-greenhouses-of-pennsylvania-longwood-gardens; https://www.visitphilly.com/things-to-do/attractions/longwood-gardens/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | depth: -0.2 vs peer; impact: +0.1 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | significance: +0.9 vs peer; depth: +0.9 vs peer |
+| [US/golden-gate-park](../../../countries/US/sights/golden-gate-park.yaml) | 8.7 / 8.6 / 8.7 / 9.0 / 9.2 | impact: +0.6 vs peer; uniqueness: +0.6 vs peer |
+| [US/vizcaya](../../../countries/US/sights/vizcaya.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 8.8 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ny-botanical-garden — New York Botanical Garden Bronx Conservatory and Collections — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ny-botanical-garden.yaml)
+- Action: new
+- Scope: 250-acre botanical institution with conservatory, native plant gardens and old-growth woodland.
+- Representative coordinates: 40.862, -73.877; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.2 / 9.2 / 9.2.
+- Categories: nature:9.4 photography:9.3 relaxation:9.2.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nybg.org/gardens/gardens-collections/; https://www.nybg.org/about/institutional-information.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | uniqueness: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/golden-gate-park](../../../countries/US/sights/golden-gate-park.yaml) | 8.7 / 8.6 / 8.7 / 9.0 / 9.2 | significance: +0.5 vs peer; impact: +0.4 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | significance: +1.0 vs peer; depth: +0.9 vs peer |
+| [US/vizcaya](../../../countries/US/sights/vizcaya.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 8.8 | significance: +0.6 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-country-music-hall — Country Music Hall of Fame and Museum Nashville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/country-music-hall.yaml)
+- Action: new
+- Scope: Museum, affiliated RCA Studio B tour and Hatch Show Print interpretation grouped; excludes separate live concert venues.
+- Representative coordinates: 36.159, -86.776; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 family:8.9.
+- Overall: 91.70/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.countrymusichalloffame.org/press/museum-information; https://countrymusichalloffame.org/experiences/calendar/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | significance: +0.3 vs peer; experience: -0.2 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | depth: +0.6 vs peer; impact: +0.3 vs peer |
+| [US/museum-pop-culture](../../../countries/US/sights/museum-pop-culture.yaml) | 8.7 / 8.9 / 8.6 / 8.9 / 8.8 | significance: +0.7 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-graceland — Graceland Elvis Presley Mansion and Museum Memphis — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/graceland.yaml)
+- Action: new
+- Scope: Preserved mansion and adjacent exhibition complex grouped.
+- Representative coordinates: 35.047, -90.023; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.2 architecture:8.8.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.graceland.com/mansion; https://www.graceland.com/live-the-legacy.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | experience: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/newport-mansions](../../../countries/US/sights/newport-mansions.yaml) | 9.0 / 8.9 / 9.0 / 9.0 / 9.0 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-missouri-botanical — Missouri Botanical Garden St Louis — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/missouri-botanical.yaml)
+- Action: new
+- Scope: Historic botanical gardens and conservatories, including Japanese garden; 79 acres.
+- Representative coordinates: 38.615, -90.259; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.1 / 9.1.
+- Categories: nature:9.4 photography:9.3 relaxation:9.2.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.missouribotanicalgarden.org/gardens-gardening/our-garden/gardens-conservatories/japanese-garden.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/golden-gate-park](../../../countries/US/sights/golden-gate-park.yaml) | 8.7 / 8.6 / 8.7 / 9.0 / 9.2 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | significance: +0.9 vs peer; depth: +0.8 vs peer |
+| [US/vizcaya](../../../countries/US/sights/vizcaya.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 8.8 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-aquarium — National Aquarium Baltimore Inner Harbor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-aquarium.yaml)
+- Action: new
+- Scope: Aquatic habitats and conservation exhibitions, including reef and rainforest; excludes general harbor.
+- Representative coordinates: 39.285, -76.608; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.0 / 9.3 / 9.1.
+- Categories: wildlife:9.3 family:9.4 nature:9.0.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://aqua.org/explore/exhibits; https://aqua.org/explore.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | uniqueness: -0.2 vs peer; significance: +0.2 vs peer |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.6 vs peer; impact: -0.2 vs peer |
+| [US/california-academy-sciences](../../../countries/US/sights/california-academy-sciences.yaml) | 9.1 / 9.3 / 9.1 / 9.3 / 9.3 | uniqueness: -0.4 vs peer; depth: -0.2 vs peer |
+| [US/san-diego-zoo](../../../countries/US/sights/san-diego-zoo.yaml) | 9.0 / 8.9 / 8.5 / 9.3 / 9.4 | significance: +0.5 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-bisti-badlands — Bisti De-Na-Zin Wilderness Badlands New Mexico — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bisti-badlands.yaml)
+- Action: new
+- Scope: Distinct eroded badlands and fossil-bearing landforms; not adjacent Ah-Shi-Sle-Pah or Chaco archaeological area.
+- Representative coordinates: 36.259, -108.249; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 8.6 / 8.9 / 8.9.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.blm.gov/programs/national-conservation-lands/new-mexico/bisti-de-na-zin-wilderness; https://geoinfo.nmt.edu/tour/home.cfml?id=34&site=BistiDeNaZin+Wilderness.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/goblin-valley](../../../countries/US/sights/goblin-valley.yaml) | 8.9 / 9.1 / 8.4 / 8.9 / 8.6 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [US/vermilion-cliffs](../../../countries/US/sights/vermilion-cliffs.yaml) | 9.5 / 9.4 / 8.8 / 9.2 / 9.1 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | uniqueness: +0.8 vs peer; impact: +0.6 vs peer |
+| [US/john-day-fossil-beds](../../../countries/US/sights/john-day-fossil-beds.yaml) | 8.9 / 9.0 / 8.9 / 8.8 / 8.9 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-eaa-aviation — EAA Aviation Museum Oshkosh — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/eaa-aviation.yaml)
+- Action: new
+- Scope: Permanent aircraft collection and seasonal Pioneer Airport; not temporary AirVenture event.
+- Representative coordinates: 43.984, -88.577; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 9.0 / 9.0.
+- Categories: history:9.2 culture:9.0 family:9.3.
+- Overall: 89.70/100.
+- Decision: Source-informed provisional assessment from retrieved official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.eaa.org/eaa-museum/visitor-information; https://www.eaa.org/eaa-museum/museum-collection/aircraft-collection.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | depth: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [US/udvar-hazy-center](../../../countries/US/sights/udvar-hazy-center.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-shedd-aquarium — Shedd Aquarium Chicago — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/shedd-aquarium.yaml)
+- Action: new
+- Scope: Aquarium separate from Field Museum and neighboring lakefront parks.
+- Representative coordinates: 41.867, -87.614; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.9 / 9.1 / 9.0.
+- Categories: wildlife:9.2 family:9.3 nature:9.0.
+- Overall: 88.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | significance: +0.5 vs peer; uniqueness: -0.4 vs peer |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-nashville-opry — Grand Ole Opry Live Music Performances Nashville — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/nashville-opry.yaml)
+- Action: new
+- Scope: Live music show experience rather than museum or general nightlife.
+- Representative coordinates: 36.207, -86.692; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 9.1 / 8.6.
+- Categories: culture:9.4 nightlife:9.2 history:9.0.
+- Overall: 89.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/broadway-theatre](../../../countries/US/sights/broadway-theatre.yaml) | 9.2 / 9.2 / 9.2 / 9.3 / 9.0 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ryman-auditorium — Ryman Auditorium Nashville Historic Venue Tours — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ryman-auditorium.yaml)
+- Action: new
+- Scope: Historic auditorium and interpretation, excluding Grand Ole Opry performances and hall of fame.
+- Representative coordinates: 36.161, -86.778; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: culture:9.2 history:9.2 architecture:9.0.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chicago-auditorium-building](../../../countries/US/sights/chicago-auditorium-building.yaml) | 8.2 / 8.5 / 8.8 / 8.0 / 7.5 | depth: +1.2 vs peer; experience: +0.8 vs peer |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-smithsonian-asian-art — Smithsonian National Museum of Asian Art Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/smithsonian-asian-art.yaml)
+- Action: new
+- Scope: Freer and Sackler galleries grouped as one institution.
+- Representative coordinates: 38.888, -77.027; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.1 / 8.9 / 9.2.
+- Categories: culture:9.3 history:9.3 architecture:8.8.
+- Overall: 89.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-gallery-of-art-washington](../../../countries/US/sights/national-gallery-of-art-washington.yaml) | 9.1 / 9.1 / 9.3 / 9.2 / 9.4 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/met-cloisters](../../../countries/US/sights/met-cloisters.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | uniqueness: -0.4 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-smithsonian-african-art — Smithsonian National Museum of African Art Washington DC — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/smithsonian-african-art.yaml)
+- Action: new
+- Scope: African art collections, distinct from African American history museum.
+- Representative coordinates: 38.888, -77.025; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.9.
+- Categories: culture:9.3 history:9.1 family:8.7.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/national-american-indian-museum](../../../countries/US/sights/national-american-indian-museum.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.2 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-cincinnati-museum-center — Cincinnati Museum Center at Union Terminal — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cincinnati-museum-center.yaml)
+- Action: new
+- Scope: Art Deco terminal and resident museums grouped; separate from downtown Freedom Center.
+- Representative coordinates: 39.11, -84.537; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 9.1.
+- Categories: architecture:9.3 history:9.1 family:9.3.
+- Overall: 89.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/griffin-msi](../../../countries/US/sights/griffin-msi.yaml) | 9.3 / 9.4 / 9.3 / 9.4 / 9.4 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer |
+| [US/grand-central-terminal](../../../countries/US/sights/grand-central-terminal.yaml) | 8.8 / 8.8 / 9.0 / 8.6 / 7.8 | depth: +1.3 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-phipps-conservatory — Phipps Conservatory and Botanical Gardens Pittsburgh — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/phipps-conservatory.yaml)
+- Action: new
+- Scope: Historic conservatory and botanical displays grouped.
+- Representative coordinates: 40.439, -79.948; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.6 / 9.0 / 8.8.
+- Categories: nature:9.2 photography:9.3 relaxation:9.1.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | uniqueness: -0.7 vs peer; significance: -0.6 vs peer |
+| [US/chihuly-garden-and-glass](../../../countries/US/sights/chihuly-garden-and-glass.yaml) | 8.9 / 9.0 / 8.2 / 8.9 / 8.3 | depth: +0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-bonneville-salt-flats — Bonneville Salt Flats Utah — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bonneville-salt-flats.yaml)
+- Action: new
+- Scope: Salt pan landscape and public viewpoints; no assumed driving on wet salt.
+- Representative coordinates: 40.762, -113.887; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 9.3 / 8.4 / 8.6 / 8.2.
+- Categories: nature:9.3 photography:9.4 adventure:8.9.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/white-sands](../../../countries/US/sights/white-sands.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.1 | uniqueness: +0.2 vs peer; experience: -0.2 vs peer |
+| [US/death-valley-national-park](../../../countries/US/sights/death-valley-national-park.yaml) | 9.1 / 9.3 / 9.0 / 8.8 / 9.1 | depth: -0.9 vs peer; significance: -0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-antelope-island — Antelope Island State Park Great Salt Lake — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/antelope-island.yaml)
+- Action: new
+- Scope: Island trails, bison and saline lake scenery grouped; no guarantee of wildlife sightings.
+- Representative coordinates: 40.962, -112.207; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 8.8 / 8.7.
+- Categories: nature:9.3 wildlife:9.1 photography:9.2.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/custer-state-park](../../../countries/US/sights/custer-state-park.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | depth: -0.3 vs peer; experience: -0.2 vs peer |
+| [US/carrizo-plain](../../../countries/US/sights/carrizo-plain.yaml) | 8.8 / 9.0 / 8.8 / 8.7 / 8.7 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-caddo-lake — Caddo Lake Cypress Swamp Paddling — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/caddo-lake.yaml)
+- Action: new
+- Scope: Cypress wetland paddling on Texas-Louisiana border, grouped across state lines.
+- Representative coordinates: 32.681, -94.176; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.5 / 9.0 / 8.7.
+- Categories: nature:9.3 photography:9.3 wildlife:9.0.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/okefenokee](../../../countries/US/sights/okefenokee.yaml) | 8.7 / 8.9 / 9.2 / 8.5 / 8.7 | significance: -0.7 vs peer; experience: +0.5 vs peer |
+| [US/congaree](../../../countries/US/sights/congaree.yaml) | 8.6 / 8.9 / 8.8 / 8.7 / 8.7 | impact: +0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hocking-hills — Hocking Hills State Park Ohio — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hocking-hills.yaml)
+- Action: new
+- Scope: Old Man's Cave, Ash Cave and associated gorge trails grouped.
+- Representative coordinates: 39.437, -82.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.3 photography:9.3 adventure:9.0.
+- Overall: 87.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/red-river-gorge](../../../countries/US/sights/red-river-gorge.yaml) | 8.9 / 8.9 / 8.5 / 9.0 / 8.9 | uniqueness: -0.2 vs peer; depth: -0.1 vs peer |
+| [US/finger-lakes-gorges](../../../countries/US/sights/finger-lakes-gorges.yaml) | 8.8 / 8.9 / 8.5 / 9.0 / 8.8 | uniqueness: -0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-ricketts-glen — Ricketts Glen State Park Waterfall Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/ricketts-glen.yaml)
+- Action: new
+- Scope: Waterfalls and ravine trails grouped.
+- Representative coordinates: 41.329, -76.281; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.4 / 9.0 / 8.7.
+- Categories: nature:9.2 photography:9.3 adventure:9.1.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/finger-lakes-gorges](../../../countries/US/sights/finger-lakes-gorges.yaml) | 8.8 / 8.9 / 8.5 / 9.0 / 8.8 | uniqueness: -0.3 vs peer; significance: -0.1 vs peer |
+| [US/letchworth](../../../countries/US/sights/letchworth.yaml) | 8.9 / 8.8 / 8.5 / 8.9 / 8.7 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-minnesota-north-shore — Minnesota North Shore Lake Superior Scenic Corridor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/minnesota-north-shore.yaml)
+- Action: new
+- Scope: Minnesota shoreline waterfalls and public parks grouped; excludes inland Boundary Waters.
+- Representative coordinates: 47.51, -90.93; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [US/blue-ridge-parkway](../../../countries/US/sights/blue-ridge-parkway.yaml) | 9.1 / 9.1 / 9.1 / 9.2 / 9.3 | significance: -0.5 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-lost-coast — California Lost Coast King Range Wilderness Trek — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lost-coast.yaml)
+- Action: new
+- Scope: Remote coastal trek distinct from Big Sur and redwood parks; tides and permits may restrict access.
+- Representative coordinates: 40.114, -124.092; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.6 / 8.8 / 8.9.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 88.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+| [US/point-reyes](../../../countries/US/sights/point-reyes.yaml) | 9.0 / 8.8 / 8.9 / 9.0 / 9.0 | significance: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-wisconsin-dells — Wisconsin Dells River Sandstone Gorge Boat Tours — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/wisconsin-dells.yaml)
+- Action: new
+- Scope: Natural river gorge boat tours, excludes unrelated waterpark resorts.
+- Representative coordinates: 43.633, -89.777; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.4 / 8.9 / 8.6.
+- Categories: nature:9.1 photography:9.2 family:9.0.
+- Overall: 86.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/niobrara-river](../../../countries/US/sights/niobrara-river.yaml) | 8.6 / 8.7 / 8.6 / 8.9 / 8.7 | significance: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | impact: -0.6 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-city-of-rocks — City of Rocks National Reserve Idaho — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/city-of-rocks.yaml)
+- Action: new
+- Scope: Granite formations, climbing and historic emigrant trail traces.
+- Representative coordinates: 42.077, -113.718; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.1 adventure:9.3 photography:9.2.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/goblin-valley](../../../countries/US/sights/goblin-valley.yaml) | 8.9 / 9.1 / 8.4 / 8.9 / 8.6 | uniqueness: -0.3 vs peer; significance: +0.3 vs peer |
+| [US/garden-of-gods](../../../countries/US/sights/garden-of-gods.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.5 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+

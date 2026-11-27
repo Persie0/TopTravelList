@@ -1,0 +1,16 @@
+id: sight-us-graceland
+name: "Graceland Elvis Presley Mansion and Museum Memphis"
+location:
+  country_code: US
+  latitude: 35.047
+  longitude: -90.023
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 8.8

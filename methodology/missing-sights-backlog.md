@@ -3146,3 +3146,32 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — National Museum of the Pacific War Fredericksburg: 89.05/100 (desk-based provisional).
 
 22 additions, 12 desk-based provisional, 10 source-informed, 5 90+, 54 domestic ranking-row comparisons. United States 364 ranked / 364 total. Legacy Sites, Newport mansions and Plimoth Patuxet campuses grouped; Hearst Castle distinct from Big Sur corridor, Angel Island distinct from Alcatraz, Tenement Museum distinct from Ellis Island. Existing scores retained. Next: remaining regional urban and natural attractions. Full Python validation pending.
+
+### Pass 192 — US gardens, music heritage, regional nature
+
+- [x] US — Longwood Gardens Conservatories and Fountain Gardens: 92.40/100 (source-linked-unverified).
+- [x] US — New York Botanical Garden Bronx Conservatory and Collections: 91.20/100 (source-linked-unverified).
+- [x] US — Country Music Hall of Fame and Museum Nashville: 91.70/100 (source-linked-unverified).
+- [x] US — Graceland Elvis Presley Mansion and Museum Memphis: 91.15/100 (source-linked-unverified).
+- [x] US — Missouri Botanical Garden St Louis: 90.45/100 (source-linked-unverified).
+- [x] US — National Aquarium Baltimore Inner Harbor: 90.30/100 (source-linked-unverified).
+- [x] US — Bisti De-Na-Zin Wilderness Badlands New Mexico: 90.55/100 (source-linked-unverified).
+- [x] US — EAA Aviation Museum Oshkosh: 89.70/100 (source-linked-unverified).
+- [x] US — Shedd Aquarium Chicago: 88.90/100 (desk-based provisional).
+- [x] US — Grand Ole Opry Live Music Performances Nashville: 89.70/100 (desk-based provisional).
+- [x] US — Ryman Auditorium Nashville Historic Venue Tours: 87.95/100 (desk-based provisional).
+- [x] US — Smithsonian National Museum of Asian Art Washington DC: 89.70/100 (desk-based provisional).
+- [x] US — Smithsonian National Museum of African Art Washington DC: 88.45/100 (desk-based provisional).
+- [x] US — Cincinnati Museum Center at Union Terminal: 89.15/100 (desk-based provisional).
+- [x] US — Phipps Conservatory and Botanical Gardens Pittsburgh: 87.40/100 (desk-based provisional).
+- [x] US — Bonneville Salt Flats Utah: 88.45/100 (desk-based provisional).
+- [x] US — Antelope Island State Park Great Salt Lake: 87.75/100 (desk-based provisional).
+- [x] US — Caddo Lake Cypress Swamp Paddling: 88.40/100 (desk-based provisional).
+- [x] US — Hocking Hills State Park Ohio: 87.75/100 (desk-based provisional).
+- [x] US — Ricketts Glen State Park Waterfall Trails: 86.90/100 (desk-based provisional).
+- [x] US — Minnesota North Shore Lake Superior Scenic Corridor: 88.30/100 (desk-based provisional).
+- [x] US — California Lost Coast King Range Wilderness Trek: 88.80/100 (desk-based provisional).
+- [x] US — Wisconsin Dells River Sandstone Gorge Boat Tours: 86.55/100 (desk-based provisional).
+- [x] US — City of Rocks National Reserve Idaho: 87.65/100 (desk-based provisional).
+
+24 additions, 16 desk-based provisional, 8 source-informed, 7 90+, 62 domestic ranking-row comparisons. United States 388 ranked / 388 total. Nashville museum includes Studio B, Opry is live performance, Ryman is historic venue tour; Bisti excludes neighboring wilderness and archaeological sites; North Shore excludes Boundary Waters; EAA excludes temporary AirVenture event. Existing scores retained. Next: additional regional high-value gaps and country queue closure screen. Full Python validation pending.
