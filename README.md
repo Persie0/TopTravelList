@@ -184,7 +184,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Guernsey](countries/GG/) (`GG`) | [4](countries/GG/cities.md) | [22](countries/GG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guernsey) |
 | [Guinea](countries/GN/) (`GN`) | [14](countries/GN/cities.md) | [30](countries/GN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guinea) |
 | [Guinea-Bissau](countries/GW/) (`GW`) | [13](countries/GW/cities.md) | [25](countries/GW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guinea-Bissau) |
-| [Guyana](countries/GY/) (`GY`) | [18](countries/GY/cities.md) | [39](countries/GY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guyana) |
+| [Guyana](countries/GY/) (`GY`) | [18](countries/GY/cities.md) | [51](countries/GY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guyana) |
 | [Haiti](countries/HT/) (`HT`) | [12](countries/HT/cities.md) | [32](countries/HT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Haiti) |
 | [Heard Island and McDonald Islands](countries/HM/) (`HM`) | [0](countries/HM/cities.md) | [1](countries/HM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Heard%20Island%20and%20McDonald%20Islands) |
 | [Honduras](countries/HN/) (`HN`) | [31](countries/HN/cities.md) | [59](countries/HN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Honduras) |
