@@ -4565,3 +4565,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Pampa Galeras Bárbara D’Achille National Reserve Vicuña Conservation: 86.20/100 (desk-based provisional).
 
 16 additions, 13 source-linked provisional, 3 desk-based provisional, 8 90+, 40 ranking-row comparisons (4 international). PE 96 ranked / 98 total, +32 since baseline. All 13 inscribed UNESCO properties already represented, Río Abiseo unassessed; UNESCO reports 25 tentative properties (https://whc.unesco.org/en/statesparties/pe), not all represented. New full or partial tentative-property coverage added; no claim of complete tentative coverage. Remaining screen: Santa Bárbara mining, Collao churches, Utcubamba aggregate scope, pisco vineyards, Huaringas, Central Railway, Sondondo, fossil basins, Sierra del Divisor, La Leche, guano reserve, Lomas, expanded Chankillo and other tentative components. Q’eswachaka annual renewal deferral resolved via documented regional tourism promotion and separate event scope; permanent bridge stays within Qhapaq Ñan. Rural Baroque circuit excludes Cusco core; Cantalloc and Lachay represent partial tentative sites only. Inkaterra canopy is adjacent to Tambopata, not a second ranking for same reserve. Coordinates approximate; access/schedules unverified. Existing scores and two unassessed preserved. Discovery queue open.
+
+### Pass 257 — Peru railways, cultural landscapes, fossil museums and marine reserves
+
+- [x] PE — Peruvian Central Railway Lima–Huancayo Historic Mountain Railway Journey: 92.75/100 (source-linked-unverified).
+- [x] PE — Ayacucho Holy Week Public Religious Processions and Cultural Celebration: 92.65/100 (source-linked-unverified).
+- [x] PE — Cajamarca Carnival Music Dance and Street Celebrations: 91.50/100 (source-linked-unverified).
+- [x] PE — Cusco Puno Arequipa Scenic Andean Railway Journey: 91.05/100 (source-linked-unverified).
+- [x] PE — Sondondo Valley Living Andean Agricultural Landscape and Condor Viewpoints: 91.00/100 (source-linked-unverified).
+- [x] PE — San Marcos Natural History Museum Lima Peruvian Fossils and Biodiversity: 91.15/100 (source-linked-unverified).
+- [x] PE — Ica Traditional Pisco Vineyards and Historic Distillery Route: 90.80/100 (source-linked-unverified).
+- [x] PE — Las Huaringas Sacred Lagoons and Northern Andean Páramo Landscape: 89.60/100 (source-linked-unverified).
+- [x] PE — Tumbes Mangroves National Sanctuary Authorized Boat and Birdwatching Circuit: 89.30/100 (source-linked-unverified).
+- [x] PE — Cavinzas and Palomino Islands Callao Marine Wildlife Boat Circuit: 87.25/100 (source-linked-unverified).
+- [x] PE — Sacaco Paleontological Site Museum and Fossil Interpretation: 88.00/100 (source-linked-unverified).
+- [x] PE — Cañón de los Perdidos Ica Desert Canyon Viewpoints: 86.05/100 (source-linked-unverified).
+- [x] PE — Cerros de Amotape National Park Tumbes Dry Forest Visitor Trails: 86.80/100 (desk-based provisional).
+- [x] PE — Ayacucho Historic Centre Colonial Churches and Public Squares: 88.00/100 (desk-based provisional).
+
+14 additions, 12 source-linked provisional, 2 desk-based provisional, 7 90+, 36 ranking-row comparisons (8 international). PE 110 ranked / 112 total, +46 since baseline. Central Railway 2026 tourist departures cancelled per operator, no future availability assumed; intrinsic established journey retained. Andean Explorer corridor grouped, off-train attractions non-additive. Ica pisco, Palomino and Sacaco partial tentative coverage only. Huaringas community-permitted cultural landscape, no medicinal claims. Santa Bárbara mining deferred pending safe visitor scope and environmental remediation (https://www.digesa.minsa.gob.pe/noticias/Julio2026/nota35.asp); full fossil basin and Ocucaje field access not asserted (https://whc.unesco.org/en/tentativelists/6418/). Remaining tentative screen: Collao churches, Utcubamba, Sierra del Divisor, La Leche, expanded Chankillo and remaining Lomas components. Prior UNESCO inscribed representation finding retained; not independently repeated. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified except documented rail cancellation. Discovery queue open.

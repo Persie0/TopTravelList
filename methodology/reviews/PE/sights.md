@@ -2004,3 +2004,306 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 256 scope decisions
 
 16 additions, 13 source-linked provisional, 3 desk-based provisional, 8 90+, 40 ranking-row comparisons (4 international). PE 96 ranked / 98 total, +32 since baseline. All 13 inscribed UNESCO properties already represented, Río Abiseo unassessed; UNESCO reports 25 tentative properties (https://whc.unesco.org/en/statesparties/pe), not all represented. New full or partial tentative-property coverage added; no claim of complete tentative coverage. Remaining screen: Santa Bárbara mining, Collao churches, Utcubamba aggregate scope, pisco vineyards, Huaringas, Central Railway, Sondondo, fossil basins, Sierra del Divisor, La Leche, guano reserve, Lomas, expanded Chankillo and other tentative components. Q’eswachaka annual renewal deferral resolved via documented regional tourism promotion and separate event scope; permanent bridge stays within Qhapaq Ñan. Rural Baroque circuit excludes Cusco core; Cantalloc and Lachay represent partial tentative sites only. Inkaterra canopy is adjacent to Tambopata, not a second ranking for same reserve. Coordinates approximate; access/schedules unverified. Existing scores and two unassessed preserved. Discovery queue open.
+
+## sight-pe-central-railway — Peruvian Central Railway Lima–Huancayo Historic Mountain Railway Journey — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/central-railway.yaml)
+- Action: new
+- Scope: Historic passenger corridor with Galera tunnel at 4,781 m; UNESCO tentative dossier documents 58 viaducts, 66 tunnels and six zigzags on Lima–La Galera. Operator cancels 2026 tourist departures due to weather and unauthorized works; no future service assumed. Intrinsic established experience only, no access penalty. Approximate mountain corridor point.
+- Representative coordinates: -11.6, -76.2; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.4 / 8.9 / 9.2.
+- Categories: history:9.4 photography:9.4 adventure:9.2.
+- Overall: 92.75/100.
+- Source: https://whc.unesco.org/en/tentativelists/6416/
+- Source: https://www.ferrocarrilcentral.com.pe/
+- Source: https://www.gob.pe/institucion/mtc/noticias/1117896-tren-de-pasajeros-lima-huancayo-lima-brindara-servicio-turistico-en-semana-santa-y-fiestas-patrias
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cordillera-huayhuash-trek](../../../countries/PE/sights/cordillera-huayhuash-trek.yaml) | 9.5 / 9.2 / 8.3 / 8.9 / 9.4 | impact: -0.2; uniqueness: +0.2 vs peer |
+| [ZA/pretoria-cape-town-rail](../../../countries/ZA/sights/pretoria-cape-town-rail.yaml) | 9.1 / 9.1 / 8.9 / 9.3 / 9.1 | impact: +0.2; uniqueness: +0.3 vs peer |
+| [BR/serra-verde-express](../../../countries/BR/sights/serra-verde-express.yaml) | 9.1 / 9.1 / 9.1 / 9.3 / 9.1 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-semana-santa-ayacucho — Ayacucho Holy Week Public Religious Processions and Cultural Celebration — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/semana-santa-ayacucho.yaml)
+- Action: new
+- Scope: Recurring public liturgical and popular festivities, declared national cultural heritage in 2022. Separate from permanent churches and battlefield; community traditions respected.
+- Representative coordinates: -13.161, -74.225; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.65/100.
+- Source: https://www.gob.pe/institucion/cultura/noticias/663446-ministerio-de-cultura-declara-patrimonio-cultural-de-la-nacion-a-la-semana-santa-de-ayacucho
+- Source: https://andina.pe/agencia/noticia-semana-santa-conoce-celebracion-ayacucho-declarada-patrimonio-cultural-de-nacion-978003.aspx
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/senor-de-los-milagros](../../../countries/PE/sights/senor-de-los-milagros.yaml) | 9.2 / 9.2 / 9.4 / 9.1 / 9.2 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/paucartambo-virgen-del-carmen](../../../countries/PE/sights/paucartambo-virgen-del-carmen.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cajamarca-carnival — Cajamarca Carnival Music Dance and Street Celebrations — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cajamarca-carnival.yaml)
+- Action: new
+- Scope: Recurring festival separate from historic centre; MINCETUR reports about 116,000 participants including 79,691 tourists in 2026.
+- Representative coordinates: -7.157, -78.517; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.2 / 9.3 / 9.1.
+- Categories: culture:9.4 photography:9.4 nightlife:9.2.
+- Overall: 91.50/100.
+- Source: https://www.gob.pe/institucion/mincetur/noticias/1362733-mincetur-carnaval-de-cajamarca-2026-genero-un-impacto-economico-de-s-75-millones-y-atrajo-a-cerca-de-80-mil-turistas
+- Source: https://www.gob.pe/institucion/municajamarca/noticias/1334566-programa-oficial-del-carnaval-2026
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [PE/inti-raymi](../../../countries/PE/sights/inti-raymi.yaml) | 9.5 / 9.5 / 9.4 / 9.4 / 9.2 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-andean-explorer-rail — Cusco Puno Arequipa Scenic Andean Railway Journey — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/andean-explorer-rail.yaml)
+- Action: new
+- Scope: Group overlapping day and sleeper routes through southern Andes; operator documents Cusco, Puno and Arequipa journeys. Exclude separate off-train sights and accommodation luxury bonus; distinct from Central Railway.
+- Representative coordinates: -15.15, -70.85; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.9 / 9.2 / 9.1.
+- Categories: photography:9.4 relaxation:9.3 culture:9.2.
+- Overall: 91.05/100.
+- Source: https://www.belmond.com/en/trains/south-america/peru/andean-explorer/journeys
+- Source: https://www.perurail.com/es/preguntas-frecuentes/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/central-railway](../../../countries/PE/sights/central-railway.yaml) | 9.3 / 9.4 / 9.4 / 8.9 / 9.2 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [PE/lake-titicaca-peruvian-sector](../../../countries/PE/sights/lake-titicaca-peruvian-sector.yaml) | 9.2 / 9.2 / 9.3 / 8.7 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [ZA/pretoria-cape-town-rail](../../../countries/ZA/sights/pretoria-cape-town-rail.yaml) | 9.1 / 9.1 / 8.9 / 9.3 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-sondondo-valley — Sondondo Valley Living Andean Agricultural Landscape and Condor Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/sondondo-valley.yaml)
+- Action: new
+- Scope: Tentative cultural landscape of ancient terraces, living agricultural traditions and designated condor-viewing routes; no guaranteed sightings or private land access.
+- Representative coordinates: -14.3, -73.94; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 8.8 / 9.2.
+- Categories: culture:9.4 nature:9.3 photography:9.4.
+- Overall: 91.00/100.
+- Source: https://patrimoniomundial.cultura.pe/listaindicativa/paisaje-cultural-valle-del-sondondo
+- Source: https://www.ifea.org.pe/investigacion/sondondo/
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_ficha=13545
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/colca-canyon](../../../countries/PE/sights/colca-canyon.yaml) | 9.4 / 9.2 / 8.6 / 9.0 / 9.1 | impact: -0.4; uniqueness: +0.0 vs peer |
+| [PE/moray-archaeological-site](../../../countries/PE/sights/moray-archaeological-site.yaml) | 8.8 / 9.2 / 8.6 / 8.5 / 7.4 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PE/andean-baroque-south-valley](../../../countries/PE/sights/andean-baroque-south-valley.yaml) | 9.0 / 9.2 / 9.2 / 8.9 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-san-marcos-natural-history — San Marcos Natural History Museum Lima Peruvian Fossils and Biodiversity — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/san-marcos-natural-history.yaml)
+- Action: new
+- Scope: Public scientific museum founded 1918, national tourism inventory documents fossil galleries including Sacaco and Ocucaje material. No claim Perucetus is currently exhibited or largest animal.
+- Representative coordinates: -12.078, -77.036; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.4 / 8.9 / 9.3.
+- Categories: nature:9.4 history:9.3 family:9.2.
+- Overall: 91.15/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13634
+- Source: https://www.gob.pe/institucion/ingemmet/noticias/812962-impresionante-hallazgo-fosil-de-hace-39-millones-de-anos-en-el-desierto-de-ocucaje-ica
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/mnaahp-lima](../../../countries/PE/sights/mnaahp-lima.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.4 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/leymebamba-museum](../../../countries/PE/sights/leymebamba-museum.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [ZA/ditsong-natural-history](../../../countries/ZA/sights/ditsong-natural-history.yaml) | 8.4 / 8.7 / 8.9 / 8.5 / 8.9 | impact: +0.5; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-ica-pisco-route — Ica Traditional Pisco Vineyards and Historic Distillery Route — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/ica-pisco-route.yaml)
+- Action: new
+- Scope: Ica visitor circuit only, not entire five-region tentative serial property. UNESCO submission documents over four centuries of viticulture; ministry documents visitor experiences and national heritage recognition. Cultural interpretation independent of alcohol consumption.
+- Representative coordinates: -14.067, -75.72; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.3 / 9.1 / 9.1.
+- Categories: food:9.4 culture:9.4 history:9.2.
+- Overall: 90.80/100.
+- Source: https://whc.unesco.org/en/tentativelists/6414/
+- Source: https://www.gob.pe/institucion/mincetur/informes-publicaciones/7913928-diseno-de-experiencias-de-las-rutas-del-pisco-ica
+- Source: https://www.gob.pe/institucion/cultura/noticias/1116337-declaran-patrimonio-cultural-a-los-conocimientos-tecnicas-y-valores-en-la-produccion-del-pisco-en-lima-ica-moquegua-arequipa-y-tacna
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/maras-salt-pans](../../../countries/PE/sights/maras-salt-pans.yaml) | 9.0 / 9.1 / 8.1 / 8.5 / 7.5 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [ZA/cape-winelands](../../../countries/ZA/sights/cape-winelands.yaml) | 9.0 / 8.7 / 8.7 / 9.3 / 9.1 | impact: -0.1; uniqueness: +0.4 vs peer |
+| [BR/vale-dos-vinhedos](../../../countries/BR/sights/vale-dos-vinhedos.yaml) | 8.8 / 8.6 / 8.8 / 9.1 / 9.0 | impact: +0.1; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-las-huaringas — Las Huaringas Sacred Lagoons and Northern Andean Páramo Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/las-huaringas.yaml)
+- Action: new
+- Scope: Sacred landscape in UNESCO tentative dossier; coordinates converted from submission. Designated visitor landscapes and community-permitted interpretation only; no medicinal claims, restricted rituals or ingestion advice.
+- Representative coordinates: -5.0039, -79.4606; UNESCO submission coordinate, rounded.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.2 / 8.6 / 8.9.
+- Categories: nature:9.3 culture:9.4 photography:9.2.
+- Overall: 89.60/100.
+- Source: https://whc.unesco.org/en/tentativelists/6415/
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7362
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/qoyllur-riti](../../../countries/PE/sights/qoyllur-riti.yaml) | 9.2 / 9.5 / 9.4 / 8.8 / 9.3 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [PE/huayllay](../../../countries/PE/sights/huayllay.yaml) | 9.3 / 9.3 / 8.9 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.1 vs peer |
+| [PE/humantay-lake](../../../countries/PE/sights/humantay-lake.yaml) | 9.1 / 8.8 / 7.4 / 8.6 / 7.2 | impact: -0.3; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-tumbes-mangroves — Tumbes Mangroves National Sanctuary Authorized Boat and Birdwatching Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/tumbes-mangroves.yaml)
+- Action: new
+- Scope: SERNANP documents authorized boat operators and mangrove habitat; WHSRN describes only national protected mangrove ecosystem. No sightings guaranteed.
+- Representative coordinates: -3.425, -80.27; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 8.8 / 8.9.
+- Categories: nature:9.3 wildlife:9.4 photography:9.2.
+- Overall: 89.30/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/en/anps/los-manglares-de-tumbes-national-sanctuary/
+- Source: https://whsrn.org/whsrn_sites/tumbes-mangroves-national-sanctuary/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: +0.0; uniqueness: -0.3 vs peer |
+| [PE/pacaya-samiria-national-reserve](../../../countries/PE/sights/pacaya-samiria-national-reserve.yaml) | 9.0 / 9.1 / 9.3 / 8.5 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-palomino-islands — Cavinzas and Palomino Islands Callao Marine Wildlife Boat Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/palomino-islands.yaml)
+- Action: new
+- Scope: Specific Guano Islands reserve visitor sector; sea lion and Humboldt penguin habitat, separate from Ballestas. Shared species non-additive, no swimming or sightings guaranteed.
+- Representative coordinates: -12.12, -77.23; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.9 / 8.5.
+- Categories: wildlife:9.4 nature:9.2 photography:9.2.
+- Overall: 87.25/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/en/anps/system-of-guano-islands-islets-and-peninsulas-national-reserve-cavinzas-islands-and-palomino-islets-sector/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/paracas-national-reserve](../../../countries/PE/sights/paracas-national-reserve.yaml) | 8.9 / 8.9 / 8.8 / 8.7 / 8.6 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-sacaco-fossil-museum — Sacaco Paleontological Site Museum and Fossil Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/sacaco-fossil-museum.yaml)
+- Action: new
+- Scope: Documented site museum established 1989, fossil specimens and replicas. Narrow visitor scope; not full Pisco and Camaná basins, no unrestricted field fossil access.
+- Representative coordinates: -15.55, -74.75; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.2 / 8.4 / 8.7.
+- Categories: history:9.3 nature:9.3 family:9.0.
+- Overall: 88.00/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2747
+- Source: https://whc.unesco.org/en/tentativelists/6418/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/san-marcos-natural-history](../../../countries/PE/sights/san-marcos-natural-history.yaml) | 8.9 / 9.2 / 9.4 / 8.9 / 9.3 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [PE/leymebamba-museum](../../../countries/PE/sights/leymebamba-museum.yaml) | 8.9 / 9.3 / 9.4 / 8.8 / 9.0 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-canon-de-los-perdidos — Cañón de los Perdidos Ica Desert Canyon Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/canon-de-los-perdidos.yaml)
+- Action: new
+- Scope: Designated canyon scenic visit only, not fossil collecting or unrestricted desert driving; tourism inventory documents access route. Road and weather unverified.
+- Representative coordinates: -14.9, -75.58; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.3 / 8.5 / 8.3.
+- Categories: nature:9.2 photography:9.3 adventure:9.1.
+- Overall: 86.05/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11220
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cotahuasi-canyon](../../../countries/PE/sights/cotahuasi-canyon.yaml) | 9.1 / 8.8 / 8.2 / 8.3 / 8.6 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [PE/huacachina-oasis-and-dunes](../../../countries/PE/sights/huacachina-oasis-and-dunes.yaml) | 8.9 / 8.7 / 7.0 / 8.8 / 7.6 | impact: -0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cerros-de-amotape — Cerros de Amotape National Park Tumbes Dry Forest Visitor Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cerros-de-amotape.yaml)
+- Action: new
+- Scope: Distinct dry forest park, designated trails only. Desk-based assessment; current visitor access not confirmed.
+- Representative coordinates: -4.0, -80.53; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.4 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 photography:9.1.
+- Overall: 86.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chaparri-reserve](../../../countries/PE/sights/chaparri-reserve.yaml) | 8.7 / 8.9 / 8.8 / 8.5 / 8.7 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/tumbes-mangroves](../../../countries/PE/sights/tumbes-mangroves.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.9 | impact: -0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-ayacucho-historic-centre — Ayacucho Historic Centre Colonial Churches and Public Squares — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/ayacucho-historic-centre.yaml)
+- Action: new
+- Scope: Permanent historic urban experience distinct from Holy Week and Pampa de Ayacucho; desk assessment of public spaces and permitted interiors.
+- Representative coordinates: -13.161, -74.225; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 9.1 / 8.7 / 8.9.
+- Categories: architecture:9.3 history:9.3 culture:9.2.
+- Overall: 88.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/historic-centre-of-arequipa](../../../countries/PE/sights/historic-centre-of-arequipa.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 8.9 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [PE/trujillo-historic-centre](../../../countries/PE/sights/trujillo-historic-centre.yaml) | 8.7 / 8.6 / 9.1 / 8.7 / 8.9 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 257 scope decisions
+
+14 additions, 12 source-linked provisional, 2 desk-based provisional, 7 90+, 36 ranking-row comparisons (8 international). PE 110 ranked / 112 total, +46 since baseline. Central Railway 2026 tourist departures cancelled per operator, no future availability assumed; intrinsic established journey retained. Andean Explorer corridor grouped, off-train attractions non-additive. Ica pisco, Palomino and Sacaco partial tentative coverage only. Huaringas community-permitted cultural landscape, no medicinal claims. Santa Bárbara mining deferred pending safe visitor scope and environmental remediation (https://www.digesa.minsa.gob.pe/noticias/Julio2026/nota35.asp); full fossil basin and Ocucaje field access not asserted (https://whc.unesco.org/en/tentativelists/6418/). Remaining tentative screen: Collao churches, Utcubamba, Sierra del Divisor, La Leche, expanded Chankillo and remaining Lomas components. Prior UNESCO inscribed representation finding retained; not independently repeated. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified except documented rail cancellation. Discovery queue open.
