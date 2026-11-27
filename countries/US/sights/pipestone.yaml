@@ -1,0 +1,16 @@
+id: sight-us-pipestone
+name: "Pipestone National Monument Minnesota"
+location:
+  country_code: US
+  latitude: 44.013
+  longitude: -96.325
+scores:
+  impact: 8.2
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.5
+  categories:
+    history: 9.2
+    culture: 9.2
+    nature: 8.8

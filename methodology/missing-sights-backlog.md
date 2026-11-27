@@ -3288,3 +3288,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Dead Horse Point State Park Utah: 87.75/100 (desk-based provisional).
 
 23 additions, 10 desk-based provisional, 13 source-informed, 7 90+, 60 domestic ranking-row comparisons. US 481 ranked / 481 total. MoMath current Sixth Avenue venue; distinct Meow Wolf installations; Wright Brothers Memorial separate from Dayton; Luray outside Shenandoah; Beartooth excludes Yellowstone; Oregon coastal segments nonoverlapping; no guaranteed diamonds or stargazing. Existing scores retained. Final bounded coverage screen and earlier overlap cases remain open. Full Python validation pending.
+
+### Pass 197 — US major art, amusement parks and national monuments
+
+- [x] US — The Frick Collection New York: 92.80/100 (source-linked-unverified).
+- [x] US — Morgan Library and Museum New York: 92.85/100 (source-linked-unverified).
+- [x] US — Brooklyn Museum New York: 91.60/100 (source-linked-unverified).
+- [x] US — Cedar Point Amusement Park Sandusky Ohio: 91.75/100 (source-linked-unverified).
+- [x] US — Dollywood Theme Park Pigeon Forge Tennessee: 91.20/100 (source-linked-unverified).
+- [x] US — Dallas Museum of Art: 90.70/100 (source-linked-unverified).
+- [x] US — National Museum of Mexican Art Chicago: 90.95/100 (source-linked-unverified).
+- [x] US — National Museum of Women in the Arts Washington DC: 90.70/100 (source-linked-unverified).
+- [x] US — Perot Museum of Nature and Science Dallas: 89.75/100 (source-linked-unverified).
+- [x] US — Scotts Bluff National Monument Nebraska: 86.80/100 (source-linked-unverified).
+- [x] US — Effigy Mounds National Monument Iowa: 86.35/100 (source-linked-unverified).
+- [x] US — Pipestone National Monument Minnesota: 86.10/100 (source-linked-unverified).
+- [x] US — Fort Union Trading Post National Historic Site North Dakota: 85.25/100 (source-linked-unverified).
+- [x] US — Fort Union National Monument New Mexico: 85.30/100 (source-linked-unverified).
+- [x] US — New England Aquarium Boston: 87.60/100 (desk-based provisional).
+- [x] US — Hersheypark Pennsylvania: 87.85/100 (desk-based provisional).
+- [x] US — Busch Gardens Williamsburg Theme Park Virginia: 88.20/100 (desk-based provisional).
+- [x] US — Valley of the Gods Scenic Drive Utah: 86.80/100 (desk-based provisional).
+
+18 additions, 4 desk-based provisional, 14 source-informed, 8 90+, 54 domestic ranking-row comparisons. US 499 ranked / 499 total. Frick historic mansion reopened 2025; Cedar Point and Dollywood exclude separate waterparks; two Fort Union sites geographically distinct; USS Constitution deferred because Boston Freedom Trail already includes it, pending parent scope review. NPS list consulted, no claim of exhaustive monument or state coverage. Existing scores retained. Next: bounded screen of major urban, natural and cultural omissions; earlier overlap cases and full Python validation pending.
