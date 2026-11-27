@@ -1,0 +1,16 @@
+id: sight-ar-bosques-petrificados-jaramillo
+name: "Bosques Petrificados de Jaramillo National Park"
+location:
+  country_code: AR
+  latitude: -47.67
+  longitude: -68.07
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 9.2
+    history: 9.0
+    photography: 9.1

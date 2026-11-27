@@ -1,0 +1,16 @@
+id: sight-ar-mar-chiquita-miramar-wildlife
+name: "Laguna Mar Chiquita Miramar Lakeshore and Birdwatching"
+location:
+  country_code: AR
+  latitude: -30.92
+  longitude: -62.67
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    photography: 9.2

@@ -1,0 +1,17 @@
+id: sight-ar-el-impenetrable-national-park
+name: "El Impenetrable National Park Chaco Forest and Wildlife"
+location:
+  country_code: AR
+  latitude: -25
+  longitude: -61.1
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    adventure: 9.0
+    photography: 9.1

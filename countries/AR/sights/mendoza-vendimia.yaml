@@ -1,0 +1,17 @@
+id: sight-ar-mendoza-vendimia
+name: "Mendoza National Grape Harvest Festival (Vendimia)"
+location:
+  country_code: AR
+  latitude: -32.9
+  longitude: -68.88
+scores:
+  impact: 9.5
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.4
+  depth: 9.3
+  categories:
+    culture: 9.4
+    photography: 9.4
+    food: 9.2
+    nightlife: 9.2
