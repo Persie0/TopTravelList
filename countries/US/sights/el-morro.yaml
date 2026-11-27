@@ -1,0 +1,16 @@
+id: sight-us-el-morro
+name: "El Morro National Monument"
+location:
+  country_code: US
+  latitude: 35.039
+  longitude: -108.35
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 8.7
+  depth: 8.6
+  categories:
+    history: 9.4
+    culture: 9.3
+    photography: 9.1

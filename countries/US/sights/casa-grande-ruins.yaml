@@ -1,0 +1,16 @@
+id: sight-us-casa-grande-ruins
+name: "Casa Grande Ruins National Monument"
+location:
+  country_code: US
+  latitude: 32.995
+  longitude: -111.535
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.4
+  depth: 8.5
+  categories:
+    history: 9.3
+    culture: 9.3
+    architecture: 9.2

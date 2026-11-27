@@ -1,0 +1,17 @@
+id: sight-us-dinosaur-monument
+name: "Dinosaur National Monument Fossil Quarry and River Canyons"
+location:
+  country_code: US
+  latitude: 40.44
+  longitude: -109.3
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    nature: 9.4
+    history: 9.3
+    family: 9.3
+    adventure: 9.2

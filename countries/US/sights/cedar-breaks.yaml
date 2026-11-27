@@ -1,0 +1,16 @@
+id: sight-us-cedar-breaks
+name: "Cedar Breaks National Monument"
+location:
+  country_code: US
+  latitude: 37.635
+  longitude: -112.85
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

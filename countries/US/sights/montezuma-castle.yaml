@@ -1,0 +1,16 @@
+id: sight-us-montezuma-castle
+name: "Montezuma Castle National Monument"
+location:
+  country_code: US
+  latitude: 34.612
+  longitude: -111.834
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.3
+  categories:
+    history: 9.3
+    culture: 9.3
+    architecture: 9.2

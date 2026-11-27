@@ -1,0 +1,16 @@
+id: sight-us-natural-bridges
+name: "Natural Bridges National Monument"
+location:
+  country_code: US
+  latitude: 37.606
+  longitude: -110.01
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.8
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.3

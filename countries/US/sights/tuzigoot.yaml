@@ -1,0 +1,16 @@
+id: sight-us-tuzigoot
+name: "Tuzigoot National Monument"
+location:
+  country_code: US
+  latitude: 34.772
+  longitude: -112.028
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-sunset-crater
+name: "Sunset Crater Volcano National Monument"
+location:
+  country_code: US
+  latitude: 35.364
+  longitude: -111.502
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.7
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.2
+    adventure: 9.1

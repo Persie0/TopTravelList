@@ -2910,3 +2910,33 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Gateway Arch National Park: 87.90/100 (desk-based provisional).
 
 17 additions, 10 desk-based provisional, 7 source-informed, 5 90+, 44 domestic ranking-row comparisons. United States 173 ranked / 173 total. NPS list now contains 64 national parks (https://www.nps.gov/aboutus/national-park-system.htm); 62 in the US country file, one in VI, and AS park represented by Ofu, Pola/Sauma, Mount Alava, Siu Point and Tuafanua experiences rather than duplicate umbrella. Chiricahua redesignation confirmed by NPS. Existing scores unchanged. Next: national monuments, seashores and recreation areas, regional museums and landmarks. Full Python validation pending.
+
+
+### Pass 184 — US western national monuments
+
+- [x] US — Dinosaur National Monument Fossil Quarry and River Canyons: 92.95/100 (source-linked-unverified).
+- [x] US — Vermilion Cliffs National Monument Coyote Buttes and White Pocket: 92.50/100 (source-linked-unverified).
+- [x] US — Grand Staircase–Escalante National Monument Canyon and Desert Landscapes: 92.05/100 (source-linked-unverified).
+- [x] US — Canyon de Chelly National Monument Navajo Cultural Landscape: 92.25/100 (source-linked-unverified).
+- [x] US — Craters of the Moon National Monument and Preserve: 91.05/100 (source-linked-unverified).
+- [x] US — Bandelier National Monument Ancestral Puebloan Dwellings: 90.95/100 (source-linked-unverified).
+- [x] US — Devils Tower National Monument (Bear Lodge): 90.45/100 (source-linked-unverified).
+- [x] US — Natural Bridges National Monument: 89.65/100 (source-linked-unverified).
+- [x] US — Rainbow Bridge National Monument: 88.15/100 (desk-based provisional).
+- [x] US — Walnut Canyon National Monument: 88.25/100 (desk-based provisional).
+- [x] US — Wupatki National Monument: 88.20/100 (desk-based provisional).
+- [x] US — Sunset Crater Volcano National Monument: 86.95/100 (desk-based provisional).
+- [x] US — Montezuma Castle National Monument: 87.10/100 (desk-based provisional).
+- [x] US — Tuzigoot National Monument: 86.15/100 (desk-based provisional).
+- [x] US — El Malpais National Monument: 88.05/100 (desk-based provisional).
+- [x] US — El Morro National Monument: 87.95/100 (desk-based provisional).
+- [x] US — Gila Cliff Dwellings National Monument: 88.00/100 (desk-based provisional).
+- [x] US — Casa Grande Ruins National Monument: 86.60/100 (desk-based provisional).
+- [x] US — Cedar Breaks National Monument: 87.85/100 (desk-based provisional).
+- [x] US — Colorado National Monument: 87.85/100 (desk-based provisional).
+- [x] US — Florissant Fossil Beds National Monument: 87.45/100 (desk-based provisional).
+- [x] US — John Day Fossil Beds National Monument: 89.10/100 (desk-based provisional).
+- [x] US — Oregon Caves National Monument and Preserve: 87.45/100 (desk-based provisional).
+- [x] US — Lava Beds National Monument: 88.50/100 (desk-based provisional).
+
+24 additions, 16 desk-based provisional, 8 source-informed, 7 90+, 62 domestic ranking-row comparisons. United States 197 ranked / 197 total. No new individual Wave/White Pocket, Dinosaur quarry, Painted Hills or Natural Bridges components. Grand Staircase July 2026 boundary change noted; Bears Ears deferred pending distinct scope including Natural Bridges relationship (https://home.nps.gov/articles/nps-geodiversity-atlas-natural-bridges-national-monument-utah.htm). Rainbow Bridge counted for separate heritage experience, excludes Glen Canyon boating. Existing scores retained. Next: remaining major monuments including Mount St Helens, Muir Woods (redwood scope check), Organ Pipe, Carrizo Plain, and national seashores/recreation areas. Full Python validation pending.

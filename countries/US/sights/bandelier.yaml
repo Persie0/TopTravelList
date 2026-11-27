@@ -1,0 +1,17 @@
+id: sight-us-bandelier
+name: "Bandelier National Monument Ancestral Puebloan Dwellings"
+location:
+  country_code: US
+  latitude: 35.778
+  longitude: -106.27
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 9.2
+    photography: 9.2

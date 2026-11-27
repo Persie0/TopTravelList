@@ -5750,3 +5750,528 @@ Ranking rows checked; independent factual, coordinate, peer YAML and internation
 
 Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
 
+## sight-us-dinosaur-monument — Dinosaur National Monument Fossil Quarry and River Canyons — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/dinosaur-monument.yaml)
+- Action: new
+- Scope: Combined fossil quarry, Green/Yampa river canyons, and monument trails; no individual quarry or river canyon duplicate.
+- Representative coordinates: 40.44, -109.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.3 / 9.1 / 9.3.
+- Categories: nature:9.4,history:9.3,family:9.3,adventure:9.2.
+- Overall: 92.95/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/dino/planyourvisit/quarry-exhibit-hall.htm ; https://www.nps.gov/dino/planyourvisit/basicinfo.htm ; https://www.nps.gov/articles/nps-geodiversity-atlas-dinosaur-national-monument-colorado-and-utah.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | depth: +1.0 vs peer; impact: +0.9 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | significance: +0.8 vs peer; uniqueness: +0.4 vs peer |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | uniqueness: +0.8 vs peer; depth: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-vermilion-cliffs — Vermilion Cliffs National Monument Coyote Buttes and White Pocket — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/vermilion-cliffs.yaml)
+- Action: new
+- Scope: Wave, Coyote Buttes, White Pocket and monument Paria Canyon sectors combined; separate permits and land boundaries apply; no separate Wave score.
+- Representative coordinates: 36.98, -111.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.5 / 9.4 / 8.8 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 92.50/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.blm.gov/national-conservation-lands/arizona/vermilion-cliffs ; https://www.blm.gov/programs/recreation/permits-and-passes/lotteries-and-permit-systems/arizona/coyote-buttes-north ; https://www.blm.gov/visit/white-pocket-trailhead.
+- Impact 9.5 justified provisionally by BLM documentation of internationally distinctive sandstone formations; international calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/upper-antelope-canyon](../../../countries/US/sights/upper-antelope-canyon.yaml) | 9.4 / 9.3 / 8.3 / 8.6 / 7.8 | depth: +1.3 vs peer; experience: +0.6 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | depth: +0.6 vs peer; significance: +0.4 vs peer |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | depth: +0.5 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-grand-staircase-escalante — Grand Staircase–Escalante National Monument Canyon and Desert Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/grand-staircase-escalante.yaml)
+- Action: new
+- Scope: Monument landscape and permitted canyon routes; July 2026 boundary change documented; exact spatial verification pending. Excludes neighboring Glen Canyon, Vermilion Cliffs, Bryce and Capitol Reef.
+- Representative coordinates: 37.45, -111.55; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.1 / 9.1 / 9.3.
+- Categories: nature:9.4,adventure:9.4,photography:9.4.
+- Overall: 92.05/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.blm.gov/programs/national-conservation-lands/utah/grand-staircase-escalante-national-monument ; https://www.blm.gov/visit/grand-staircase-escalante-national-monument.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | significance: +0.6 vs peer; experience: +0.3 vs peer |
+| [US/capitol-reef-national-park](../../../countries/US/sights/capitol-reef-national-park.yaml) | 8.8 / 8.7 / 8.5 / 8.5 / 8.8 | significance: +0.6 vs peer; experience: +0.6 vs peer |
+| [US/glen-canyon-national-recreation-area](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml) | 8.9 / 8.7 / 8.3 / 8.8 / 9.0 | significance: +0.8 vs peer; uniqueness: +0.5 vs peer |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | depth: +0.8 vs peer; significance: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-canyon-de-chelly — Canyon de Chelly National Monument Navajo Cultural Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/canyon-de-chelly.yaml)
+- Action: new
+- Scope: Canyon scenery, living Navajo heritage and archaeological sites combined; guided and authorized access only, no private residence visits presumed.
+- Representative coordinates: 36.155, -109.44; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4,culture:9.4,photography:9.4,nature:9.3.
+- Overall: 92.25/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/articles/dechelly.htm ; https://www.nps.gov/cach/learn/historyculture/index.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | impact: +0.7 vs peer; experience: +0.7 vs peer |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | significance: +0.6 vs peer; depth: +0.5 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.3 vs peer; experience: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-craters-of-the-moon — Craters of the Moon National Monument and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/craters-of-the-moon.yaml)
+- Action: new
+- Scope: Young lava fields, cinder cones and lava tubes; cave closures separate from intrinsic rating.
+- Representative coordinates: 43.416, -113.516; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.1 / 9.0 / 9.1.
+- Categories: nature:9.4,photography:9.3,adventure:9.3.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/crmo/learn/nature/cave.htm ; https://www.nps.gov/crmo/learn/education/geology-for-students.htm ; https://www.nps.gov/crmo/planyourvisit/conditions.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer |
+| [US/hawaii-volcanoes-national-park](../../../countries/US/sights/hawaii-volcanoes-national-park.yaml) | 9.2 / 9.5 / 9.5 / 8.9 / 9.0 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+| [US/great-basin-national-park](../../../countries/US/sights/great-basin-national-park.yaml) | 8.5 / 8.8 / 8.7 / 8.6 / 8.8 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-bandelier — Bandelier National Monument Ancestral Puebloan Dwellings — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bandelier.yaml)
+- Action: new
+- Scope: Cliff dwellings, Frijoles Canyon and park trails; no separate Alcove House credit.
+- Representative coordinates: 35.778, -106.27; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.0 / 9.1.
+- Categories: history:9.4,culture:9.4,architecture:9.2,photography:9.2.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/articles/bandelier.htm ; https://www.nps.gov/band/planyourvisit/hiking.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | depth: +0.4 vs peer; experience: +0.2 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.7 vs peer; impact: +0.5 vs peer |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +1.0 vs peer; impact: +0.7 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +1.3 vs peer; experience: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-devils-tower — Devils Tower National Monument (Bear Lodge) — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/devils-tower.yaml)
+- Action: new
+- Scope: Distinctive rock formation and sacred Indigenous landscape; respect tribal requests and climbing restrictions.
+- Representative coordinates: 44.59, -104.715; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.1 / 8.8 / 8.2.
+- Categories: nature:9.4,photography:9.4,culture:9.3.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/deto/faqs.htm ; https://www.nps.gov/articles/devilstower.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | depth: -0.6 vs peer; significance: +0.4 vs peer |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | depth: -0.4 vs peer; significance: +0.3 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | depth: -0.6 vs peer; significance: +0.4 vs peer |
+| [US/mount-rushmore-national-memorial](../../../countries/US/sights/mount-rushmore-national-memorial.yaml) | 8.6 / 8.9 / 8.8 / 8.2 / 7.8 | impact: +0.6 vs peer; experience: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-natural-bridges — Natural Bridges National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/natural-bridges.yaml)
+- Action: new
+- Scope: Three stream-eroded bridges and associated trails, one park record; excludes Bears Ears outside unit.
+- Representative coordinates: 37.606, -110.01; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.8 / 9.0 / 8.8.
+- Categories: nature:9.4,photography:9.3,adventure:9.3.
+- Overall: 89.65/100.
+- Decision: Source-informed provisional assessment from official indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/nabr/learn/management/foundation-document.htm ; https://www.nps.gov/nabr/planyourvisit/hiking.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | significance: +0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-rainbow-bridge — Rainbow Bridge National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/rainbow-bridge.yaml)
+- Action: new
+- Scope: Distinct sacred natural bridge under separate NPS unit; overlap with Glen Canyon approach acknowledged, no lake recreation credit.
+- Representative coordinates: 37.077, -110.964; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.8 / 8.6 / 8.2.
+- Categories: nature:9.3,photography:9.4,culture:9.2.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | depth: -0.6 vs peer; impact: -0.4 vs peer |
+| [US/glen-canyon-national-recreation-area](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml) | 8.9 / 8.7 / 8.3 / 8.8 / 9.0 | depth: -0.8 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-walnut-canyon — Walnut Canyon National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/walnut-canyon.yaml)
+- Action: new
+- Scope: Cliff dwellings and canyon trail, distinct unit.
+- Representative coordinates: 35.172, -111.51; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: history:9.3,culture:9.3,nature:9.2.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.6 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-wupatki — Wupatki National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/wupatki.yaml)
+- Action: new
+- Scope: Pueblo archaeological sites in one unit, excludes Sunset Crater.
+- Representative coordinates: 35.526, -111.374; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.7 / 8.8.
+- Categories: history:9.4,culture:9.3,architecture:9.2.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.4 vs peer; significance: -0.3 vs peer |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.7 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sunset-crater — Sunset Crater Volcano National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sunset-crater.yaml)
+- Action: new
+- Scope: Volcanic cinder cone and lava landscape; no summit access presumed.
+- Representative coordinates: 35.364, -111.502; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 8.7 / 8.6.
+- Categories: nature:9.3,photography:9.2,adventure:9.1.
+- Overall: 86.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | significance: -0.4 vs peer; impact: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-montezuma-castle — Montezuma Castle National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/montezuma-castle.yaml)
+- Action: new
+- Scope: Cliff dwelling and separate Montezuma Well unit grouped.
+- Representative coordinates: 34.612, -111.834; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.0 / 8.5 / 8.3.
+- Categories: history:9.3,culture:9.3,architecture:9.2.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-tuzigoot — Tuzigoot National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tuzigoot.yaml)
+- Action: new
+- Scope: Hilltop Sinagua pueblo and interpretation.
+- Representative coordinates: 34.772, -112.028; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 8.9 / 8.6 / 8.5.
+- Categories: history:9.3,culture:9.2,architecture:9.1.
+- Overall: 86.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.4 vs peer; significance: -0.2 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | significance: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-el-malpais — El Malpais National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/el-malpais.yaml)
+- Action: new
+- Scope: Lava flows, sandstone bluffs and permitted caves.
+- Representative coordinates: 34.93, -108; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.7 / 8.8 / 8.8.
+- Categories: nature:9.3,adventure:9.2,photography:9.3.
+- Overall: 88.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | significance: -0.1 vs peer; impact: +0.0 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-el-morro — El Morro National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/el-morro.yaml)
+- Action: new
+- Scope: Inscription Rock, ancestral pueblo and historic inscriptions grouped.
+- Representative coordinates: 35.039, -108.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.0 / 8.7 / 8.6.
+- Categories: history:9.4,culture:9.3,photography:9.1.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.5 vs peer; impact: +0.3 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-gila-cliff-dwellings — Gila Cliff Dwellings National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gila-cliff-dwellings.yaml)
+- Action: new
+- Scope: Mogollon dwellings and adjacent trail, no separate forest umbrella.
+- Representative coordinates: 33.227, -108.275; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.7 / 8.6.
+- Categories: history:9.3,culture:9.3,nature:9.2.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mesa-verde](../../../countries/US/sights/mesa-verde.yaml) | 8.9 / 9.2 / 9.3 / 8.8 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/chaco-culture](../../../countries/US/sights/chaco-culture.yaml) | 8.5 / 9.0 / 9.3 / 8.3 / 8.6 | experience: +0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-casa-grande-ruins — Casa Grande Ruins National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/casa-grande-ruins.yaml)
+- Action: new
+- Scope: Great House archaeological site and interpretation.
+- Representative coordinates: 32.995, -111.535; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.0 / 8.4 / 8.5.
+- Categories: history:9.3,culture:9.3,architecture:9.2.
+- Overall: 86.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/aztec-ruins-national-monument](../../../countries/US/sights/aztec-ruins-national-monument.yaml) | 8.3 / 8.8 / 9.1 / 8.5 / 8.1 | depth: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/taos-pueblo](../../../countries/US/sights/taos-pueblo.yaml) | 8.5 / 9.2 / 9.3 / 8.2 / 7.8 | depth: +0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cedar-breaks — Cedar Breaks National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cedar-breaks.yaml)
+- Action: new
+- Scope: Separate high-elevation amphitheater and trails.
+- Representative coordinates: 37.635, -112.85; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.4 / 8.8 / 8.6.
+- Categories: nature:9.3,photography:9.4,adventure:9.1.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-colorado-monument — Colorado National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/colorado-monument.yaml)
+- Action: new
+- Scope: Independent sandstone canyon and scenic Rim Rock Drive.
+- Representative coordinates: 39.04, -108.69; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 8.9 / 8.8.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [US/black-canyon-of-the-gunnison-national-park](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml) | 9.0 / 8.8 / 8.5 / 8.7 / 8.4 | depth: +0.4 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-florissant-fossil-beds — Florissant Fossil Beds National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/florissant-fossil-beds.yaml)
+- Action: new
+- Scope: Fossil flora and petrified redwood stumps with interpretation.
+- Representative coordinates: 38.912, -105.28; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.0 / 8.6 / 8.8.
+- Categories: nature:9.3,history:9.2,family:9.1.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | depth: +0.5 vs peer; experience: +0.2 vs peer |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-john-day-fossil-beds — John Day Fossil Beds National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/john-day-fossil-beds.yaml)
+- Action: new
+- Scope: Painted Hills, Sheep Rock and Clarno units grouped; fossil visitor center included.
+- Representative coordinates: 44.56, -119.64; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.9 / 8.8 / 8.9.
+- Categories: nature:9.4,photography:9.4,history:9.2.
+- Overall: 89.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | depth: +0.6 vs peer; impact: +0.5 vs peer |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-oregon-caves — Oregon Caves National Monument and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/oregon-caves.yaml)
+- Action: new
+- Scope: Marble cave and surrounding forest, separate from other cave parks.
+- Representative coordinates: 42.098, -123.407; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.6 / 8.8 / 8.7.
+- Categories: nature:9.3,adventure:9.2,photography:9.1.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | 9.0 / 9.1 / 9.0 / 8.9 / 8.6 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/mammoth-cave](../../../countries/US/sights/mammoth-cave.yaml) | 8.5 / 9.3 / 9.3 / 8.7 / 8.8 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-lava-beds — Lava Beds National Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lava-beds.yaml)
+- Action: new
+- Scope: Lava tube network and Modoc War heritage grouped; permitted cave access only.
+- Representative coordinates: 41.714, -121.508; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.9 / 8.9.
+- Categories: nature:9.3,adventure:9.3,history:9.2.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | experience: +0.1 vs peer; depth: +0.1 vs peer |
+| [US/jewel-cave-national-monument](../../../countries/US/sights/jewel-cave-national-monument.yaml) | 8.5 / 8.9 / 8.8 / 8.4 / 8.3 | depth: +0.6 vs peer; experience: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

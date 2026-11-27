@@ -1,0 +1,16 @@
+id: sight-us-john-day-fossil-beds
+name: "John Day Fossil Beds National Monument"
+location:
+  country_code: US
+  latitude: 44.56
+  longitude: -119.64
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.4
+    photography: 9.4
+    history: 9.2
