@@ -1,0 +1,16 @@
+id: sight-fr-musee-gassendi
+name: "Musée Gassendi Digne Art and Science Museum"
+location:
+  country_code: FR
+  latitude: 44.092
+  longitude: 6.236
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.6
+  depth: 8.7
+  categories:
+    culture: 9.2
+    nature: 9.0
+    history: 9.0

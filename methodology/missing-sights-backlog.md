@@ -1968,3 +1968,38 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Museon Arlaten Provençal Ethnography Museum: 88.50/100 (desk-based provisional).
 
 30 additions, 18 fast provisional estimates, 12 source-informed candidates, 7 90+, 48 peer comparisons. France 535 ranked / 546 total; 11 existing unassessed unchanged. Mucem includes Fort Saint-Jean, château d'If fortress distinct from roadstead landscape but overlap flagged; Carrières distinct from existing Baux castle. Arles Montmajour deferred as UNESCO overlap (https://whc.unesco.org/en/list/164/); Cézanne artist sites deferred pending existing Sainte-Victoire scope. 0 peer references not located (); domestic calibration only. Next bounded screen: Provence remaining: Avignon independent museums and collections, Villeneuve-lès-Avignon, Arles Réattu, Fondation Vincent van Gogh, Camargue scoped attractions, Luberon residuals, Orange independent sites, Vaison-la-Romaine, Mont Ventoux, Dentelles de Montmirail, Forcalquier, Moustiers-Sainte-Marie, upper Verdon and Alpes-de-Haute-Provence. Full Python validation pending.
+
+### Pass 151 — accelerated Vaucluse and Alpes-de-Haute-Provence audit
+
+- [x] FR — Vaison-la-Romaine Puymin and La Villasse Archaeological Sites: 92.25/100 (source-linked-unverified).
+- [x] FR — Fondation Vasarely Aix-en-Provence Architectonic Centre: 91.80/100 (source-linked-unverified).
+- [x] FR — Mont Ventoux Summit and Mountain Routes: 90.55/100 (source-linked-unverified).
+- [x] FR — Musée du Petit Palais Avignon Medieval Art Collections: 91.10/100 (source-linked-unverified).
+- [x] FR — Citadelle de Sisteron Fortress and Museum: 90.10/100 (source-linked-unverified).
+- [x] FR — Moustiers-Sainte-Marie Cliffside Village and Faience Heritage: 90.25/100 (source-linked-unverified).
+- [x] FR — Plateau de Valensole Lavender Landscape: 89.10/100 (source-linked-unverified).
+- [x] FR — Musée Promenade Digne Geological Museum and Ammonite Slab Trail: 89.75/100 (source-linked-unverified).
+- [x] FR — Musée de Préhistoire des Gorges du Verdon Quinson: 89.15/100 (source-linked-unverified).
+- [x] FR — Fort Saint-André Villeneuve-lès-Avignon: 88.75/100 (source-linked-unverified).
+- [x] FR — Musée Calvet Avignon Fine Arts Museum: 88.55/100 (desk-based provisional).
+- [x] FR — Musée Réattu Arles Fine Arts and Photography Museum: 88.25/100 (desk-based provisional).
+- [x] FR — Fondation Vincent van Gogh Arles Art Exhibitions: 87.70/100 (desk-based provisional).
+- [x] FR — Chartreuse du Val de Bénédiction Villeneuve-lès-Avignon: 88.85/100 (desk-based provisional).
+- [x] FR — Parc Ornithologique du Pont de Gau Birdwatching Trails: 87.75/100 (source-linked-unverified).
+- [x] FR — Saintes-Maries-de-la-Mer Fortified Church and Pilgrimage Heritage: 87.15/100 (desk-based provisional).
+- [x] FR — Vaison-la-Romaine Medieval Upper Town and Castle Ruins: 86.95/100 (desk-based provisional).
+- [x] FR — Dentelles de Montmirail Limestone Ridge Trails: 88.35/100 (desk-based provisional).
+- [x] FR — Gorges de la Nesque Scenic Canyon Route: 86.90/100 (desk-based provisional).
+- [x] FR — Séguret Historic Hilltop Village: 85.35/100 (desk-based provisional).
+- [x] FR — Venasque Historic Village and Baptistery: 86.15/100 (desk-based provisional).
+- [x] FR — Oppède-le-Vieux Medieval Village and Ruins: 85.80/100 (desk-based provisional).
+- [x] FR — Forcalquier Historic Centre and Citadel Hill: 85.40/100 (desk-based provisional).
+- [x] FR — Salagon Ethnobotanical Gardens and Priory Museum: 87.55/100 (desk-based provisional).
+- [x] FR — Prieuré de Ganagobie Romanesque Monastery: 87.15/100 (desk-based provisional).
+- [x] FR — Simiane-la-Rotonde Historic Village and Rotunda: 85.65/100 (desk-based provisional).
+- [x] FR — Grès d’Annot Sandstone Rock Trails: 86.95/100 (desk-based provisional).
+- [x] FR — Musée Gassendi Digne Art and Science Museum: 85.80/100 (desk-based provisional).
+- [x] FR — Castellane Historic Town and Notre-Dame du Roc Trail: 86.75/100 (desk-based provisional).
+- [x] FR — Gréoux-les-Bains Historic Thermal Town and Castle Exterior: 83.80/100 (desk-based provisional).
+
+30 additions, 19 fast provisional estimates, 11 source-informed candidates, 6 90+, 44 peer comparisons. France 565 ranked / 576 total; 11 existing unassessed unchanged. Petit Palais collections distinct from listed episcopal palace architecture (https://whc.unesco.org/en/list/228); Lac d'Allos deferred as Mercantour core (https://www.tourisme-alpes-haute-provence.com/grands-espaces-naturels/7458028_lac-allos-lac-dallos/). Pont de Gau observation circuit independently scoped but Camargue natural overlap flagged; Mont Ventoux summit excludes entire biosphere reserve. Moustiers excludes Verdon canyon. 0 peer references not located (); domestic calibration only. Next bounded screen: Var and Alpes-Maritimes: Toulon naval museum, Mont Faron, Hyères old town and Villa Noailles, Porquerolles and Port-Cros park scope, Saint-Tropez, Massif des Maures, Esterel, Cannes, Grasse perfume museums, Antibes Picasso museum, Nice museums and UNESCO scope, Èze, Menton, Saint-Paul-de-Vence, Fondation Maeght, Villa Ephrussi, and other Riviera sights. Full Python validation pending.
