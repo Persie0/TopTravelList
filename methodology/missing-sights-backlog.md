@@ -3552,3 +3552,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AU — Adelaide Botanic Garden and Palm House: 87.15/100 (desk-based provisional).
 
 18 additions, 13 desk-based provisional, 5 source-linked, 4 90+, 41 ranking-row comparisons including 5 international. Australia 199 ranked / 199 total. Simpson crossing spans SA and QLD in one experience; annual heat closure (SA source lists 1 Dec 2026–15 Mar 2027) excluded from intrinsic score. Kanku distinct from Coober Pedy underground heritage; MCG museum and stadium grouped. Eromanga distinct from Winton and Lark Quarry. Wolfe Creek claim limited to craters with recovered meteorite fragments. No separate Mungo entry (Willandra Lakes parent), Dorrigo (Gondwana parent), Cape Range (Ningaloo parent), or other legacy parent components pending scope resolution. Whyalla condition, Lady Elliot and Ball's Pyramid remain deferred. Existing scores retained. Next: targeted remaining state screening and then territory queues; independent validation pending.
+
+### Pass 208 — Australian regional heritage and distinct wilderness routes
+
+- [x] AU — Tasman Island Sea Cliffs and Wildlife Wilderness Cruise: 91.00/100 (source-linked-unverified).
+- [x] AU — Mutawintji Guided Aboriginal Rock Art and Cultural Landscape: 90.70/100 (source-linked-unverified).
+- [x] AU — Nullarbor Plain Eyre Highway and Bunda Cliffs Road Journey: 90.30/100 (source-linked-unverified).
+- [x] AU — Walls of Jerusalem National Park Central Walls Multi-Day Trek: 90.15/100 (source-linked-unverified).
+- [x] AU — Port of Echuca Historic Wharf and Murray River Paddle Steamer Cruises: 89.25/100 (source-linked-unverified).
+- [x] AU — Lightning Ridge Black Opal Mining Heritage and Underground Tours: 89.30/100 (source-linked-unverified).
+- [x] AU — Queen Victoria Market Melbourne Historic Market: 87.90/100 (desk-based provisional).
+- [x] AU — Adelaide Central Market Food and Cultural Heritage: 87.45/100 (desk-based provisional).
+- [x] AU — Broken Hill Mining Heritage and Line of Lode Memorial: 88.20/100 (desk-based provisional).
+- [x] AU — Royal Flying Doctor Service Outback Heritage Experience Broken Hill: 88.20/100 (desk-based provisional).
+- [x] AU — Murray to Mountains Rail Trail Victoria: 87.15/100 (desk-based provisional).
+- [x] AU — Hunter Valley Wine Heritage and Cellar Door Trail: 87.45/100 (desk-based provisional).
+- [x] AU — Australian National Surfing Museum Torquay: 87.10/100 (desk-based provisional).
+- [x] AU — Dandenong Ranges National Park Forest Walks: 86.25/100 (desk-based provisional).
+- [x] AU — Kiama Blowhole and Coastal Viewpoints: 85.90/100 (desk-based provisional).
+- [x] AU — Morialta Conservation Park Gorge and Waterfall Walks: 85.25/100 (desk-based provisional).
+
+16 additions, 10 desk-based provisional, 6 source-linked, 4 90+, 36 ranking-row comparisons including 4 international. Australia 215 ranked / 215 total. Port Arthur and Fremantle Prison included in Australian Convict Sites parent review; defer separate components (https://portarthur.org.au/what-to-do/; https://fremantleprison.com.au/about/). Melaleuca flights deferred due to South Coast Track access and Tasmanian Wilderness parent scope (https://parks.tas.gov.au/explore-our-parks/southwest-national-park/melaleuca). Central Walls Circuit is a distinct trek; Tasman cruise offshore only. Nullarbor excludes Head of Bight whale watching. Mutawintji guided entry only; no sensitive art coordinates. Whyalla, Lady Elliot and Ball's Pyramid remain deferred. Existing scores retained. Next: remaining targeted Australian candidates, then territory queues. Independent validation pending.

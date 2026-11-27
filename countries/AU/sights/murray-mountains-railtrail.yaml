@@ -1,0 +1,16 @@
+id: sight-au-murray-mountains-railtrail
+name: "Murray to Mountains Rail Trail Victoria"
+location:
+  country_code: AU
+  latitude: -36.62
+  longitude: 146.7
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 9.0
+  depth: 9.0
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    relaxation: 9.0

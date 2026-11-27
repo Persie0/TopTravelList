@@ -43,6 +43,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | PM | DONE — current queue | 15 total (15 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 0 existing unassessed separate. |
 | TF | DONE — current queue | 7 total (1 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 6 existing unassessed separate. |
 
-| AU | OPEN | 199 ranked; pass 207 adds 18 inland landscapes and cultural institutions. 4 source-linked 90+; 13 desk-based provisional; 5 international ranking-row comparisons. Remaining targeted state screen, Whyalla physical-condition reassessment, legacy overlaps and independent validation pending. |
+| AU | OPEN | 215 ranked; pass 208 adds 16 regional heritage and distinct wilderness experiences. 4 source-linked 90+; 10 desk-based provisional; 4 international comparisons. Remaining targeted candidates and parent-scope questions, Whyalla condition reassessment and independent validation pending. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

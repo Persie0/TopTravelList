@@ -1,0 +1,16 @@
+id: sight-au-adelaide-central-market
+name: "Adelaide Central Market Food and Cultural Heritage"
+location:
+  country_code: AU
+  latitude: -34.929
+  longitude: 138.598
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 9.1
+  depth: 8.8
+  categories:
+    food: 9.4
+    culture: 9.2
+    history: 9.0
