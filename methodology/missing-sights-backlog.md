@@ -1458,3 +1458,15 @@ Seven additions, 28 peer rows. France 159 ranked / 170 total; 11 existing unasse
 - [x] FR — Château de Josselin and Gardens: 88.35/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 166 ranked / 177 total; 11 existing unassessed unchanged. Vannes medieval town distinguished from Carnac serial property; Locronan parish-close component membership not confirmed, independent village scope; Crozon excludes Vauban component; Josselin includes toy museum and gardens; Belle-Île and Crozon representative landmarks. Next bounded screen: Rochefort-en-Terre, Brocéliande forest visitor trails, Sept-Îles wildlife cruises, Ouessant coastal trails, Îles de Glénan, Château de Fougères, and Rennes historic centre. Full Python validation pending.
+
+### Pass 126 — Brittany forest, islands and fortified heritage
+
+- [x] FR — Rochefort-en-Terre Historic Village: 85.80/100 (source-linked-unverified).
+- [x] FR — Brocéliande Forest and Legendary Walking Trails: 87.60/100 (source-linked-unverified).
+- [x] FR — Sept-Îles Nature Reserve Wildlife Cruises: 88.90/100 (source-linked-unverified).
+- [x] FR — Ouessant Island Coastal Trails and Headlands: 89.60/100 (source-linked-unverified).
+- [x] FR — Glénan Islands and Saint-Nicolas Beach Excursions: 88.10/100 (source-linked-unverified).
+- [x] FR — Château de Fougères Medieval Castle: 89.70/100 (source-linked-unverified).
+- [x] FR — Rennes Historic Centre and Royal Squares: 88.45/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 173 ranked / 184 total; 11 existing unassessed unchanged. Rochefort village excludes separate museum and castle interiors; Brocéliande folklore distinguished from fact; Sept-Îles offshore viewing separate from Pink Granite Coast; Glénan landing scope limited to Saint-Nicolas; Ouessant trails exclude separate museum interiors; Rennes historic core excludes Thabor and museums. Next bounded screen: Concarneau Ville Close, Pont-Aven historic riverside and art heritage, Quiberon Côte Sauvage, Île de Groix, Roscoff historic centre, Vitré Castle, and Roche-aux-Fées megalithic monument (scope and duplicate checks). Full Python validation pending.

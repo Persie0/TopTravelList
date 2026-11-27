@@ -6494,3 +6494,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-rochefort-en-terre — Rochefort-en-Terre Historic Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rochefort-en-terre.yaml)
+- Action: new
+- Precise subject and limitations: Historic village streets, church and castle grounds; excludes castle interiors and separately ticketed Naia Museum. Village centre point; not Rochefort naval arsenal.
+- Location check: 47.6991, -2.3373; [published representative point](https://mapcarta.com/25220402), coordinates inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://en.rochefortenterre-tourisme.bzh/getting-organised/our-cities-and-villages/rochefort-en-terre/); indexed excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: full independent claim-level corroboration and exact parent boundaries where applicable; temporary access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/locronan](../../../countries/FR/sights/locronan.yaml) | 8.8 / 8.8 / 8.8 / 8.9 / 8.4 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | depth: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+| [PT/monsanto-historic-village](../../../countries/PT/sights/monsanto-historic-village.yaml) | 8.9 / 9.2 / 8.6 / 8.7 / 8.4 | uniqueness: -0.6 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Stone village streets and flowers. |
+| Uniqueness | 8.6 | Compact Breton architectural ensemble, not globally singular. |
+| Significance | 8.4 | Regional medieval and later heritage. |
+| Experience | 8.8 | Walkable streets and grounds. |
+| Depth | 8.2 | Small village circuit. |
+
+- Applicable categories: architecture:9.0, photography:9.2, history:8.8, culture:8.9.
+- Computed worldwide overall: 85.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-broceliande-forest — Brocéliande Forest and Legendary Walking Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/broceliande-forest.yaml)
+- Action: new
+- Precise subject and limitations: Established visitor trails around the Paimpont forest, including Val sans Retour; Arthurian associations are literary folklore, not historical proof. Excludes private forest sections and standalone exhibitions. Val sans Retour representative point.
+- Location check: 47.99996, -2.28333; [published representative point](https://mapcarta.com/27806418), coordinates inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://broceliande-outdoor.com/fr/parcours/264501); indexed excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: full independent claim-level corroboration and exact parent boundaries where applicable; temporary access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/huelgoat-forest](../../../countries/FR/sights/huelgoat-forest.yaml) | 8.8 / 9.0 / 8.4 / 8.9 / 8.7 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+| [FR/fontainebleau-forest](../../../countries/FR/sights/fontainebleau-forest.yaml) | 9.1 / 9.1 / 9.2 / 9.1 / 9.4 | significance: -0.6 vs peer; impact: -0.5 vs peer. |
+| [PT/bussaco](../../../countries/PT/sights/bussaco.yaml) | 8.8 / 8.9 / 8.8 / 8.7 / 8.8 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+| [GB/new-forest](../../../countries/GB/sights/new-forest.yaml) | 8.3 / 8.6 / 8.5 / 8.8 / 8.7 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Woodland, schist and ponds. |
+| Uniqueness | 8.9 | Unusual literary landscape and trail combination. |
+| Significance | 8.6 | Arthurian cultural associations, not historical events. |
+| Experience | 8.9 | Established routes such as the eight-kilometre Val sans Retour circuit. |
+| Depth | 9.0 | Multiple distinct trails and landscape stops. |
+
+- Applicable categories: nature:9.0, culture:9.1, adventure:9.0, photography:8.9.
+- Computed worldwide overall: 87.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-sept-iles-wildlife-cruises — Sept-Îles Nature Reserve Wildlife Cruises — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sept-iles-wildlife-cruises.yaml)
+- Action: new
+- Precise subject and limitations: Guided offshore wildlife viewing, not landing on protected seabird colonies; excludes Pink Granite Coast land trail. Île Rouzic representative point, not boarding location. LPO reserve overview: https://www.lpo.fr/la-lpo-en-actions/preservation-des-espaces-naturels/nos-reserves-naturelles/rnn-des-sept-iles.
+- Location check: 48.89921, -3.43788; [published representative point](https://mapcarta.com/fr/18310396), coordinates inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.lpo.fr/sites-naturels/reserve-naturelle-des-sept-iles/animation-nature-et-education-a-l-environnement/sorties-nature-pour-le-grand-public); indexed excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: full independent claim-level corroboration and exact parent boundaries where applicable; temporary access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/camargue](../../../countries/FR/sights/camargue.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 9.1 | depth: -0.6 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | significance: +0.3 vs peer; experience: +0.2 vs peer. |
+| [GB/st-kilda](../../../countries/GB/sights/st-kilda.yaml) | 9.2 / 9.5 / 9.4 / 8.6 / 8.4 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer. |
+| [ES/donana](../../../countries/ES/sights/donana.yaml) | 8.8 / 9.2 / 9.4 / 8.7 / 9.0 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Memorable offshore seabird colonies. |
+| Uniqueness | 9.0 | Concentrated seabird watching in an island reserve. |
+| Significance | 9.0 | Nationally important breeding colonies and conservation. |
+| Experience | 8.8 | Dedicated guided boat observation; sightings not guaranteed. |
+| Depth | 8.5 | Focused excursion rather than whole accessible marine park. |
+
+- Applicable categories: wildlife:9.4, nature:9.3, photography:9.1, adventure:8.8.
+- Computed worldwide overall: 88.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-ouessant-coastal-trails — Ouessant Island Coastal Trails and Headlands — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ouessant-coastal-trails.yaml)
+- Action: new
+- Precise subject and limitations: Island coastal walking and maritime landscapes; excludes offshore islands and separately operated lighthouse museum interiors. Pointe de Créac’h representative point; coastal paths pedestrian-only per https://pennarbed.breizhgo.bzh/en/our-islands/isle-of-ouessant/visit-ouessant/getting-around-on-ouessant/.
+- Location check: 48.45911, -5.13246; [published representative point](https://mapcarta.com/18390980), coordinates inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ouessant-tourisme.com/preparer-son-sejour-a-ouessant/se-deplacer-sur-lile/randonnees/); indexed excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: full independent claim-level corroboration and exact parent boundaries where applicable; temporary access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/belle-ile-en-mer](../../../countries/FR/sights/belle-ile-en-mer.yaml) | 9.2 / 9.0 / 8.6 / 9.1 / 9.2 | impact: -0.1 vs peer; experience: -0.1 vs peer. |
+| [FR/pointe-du-raz](../../../countries/FR/sights/pointe-du-raz.yaml) | 9.2 / 9.0 / 8.6 / 9.0 / 8.9 | depth: +0.2 vs peer; impact: -0.1 vs peer. |
+| [PT/flores-landscape](../../../countries/PT/sights/flores-landscape.yaml) | 9.3 / 9.2 / 8.7 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [GB/st-kilda](../../../countries/GB/sights/st-kilda.yaml) | 9.2 / 9.5 / 9.4 / 8.6 / 8.4 | significance: -0.8 vs peer; depth: +0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Exposed Atlantic headlands and sea views. |
+| Uniqueness | 9.0 | Distinct island maritime landscape. |
+| Significance | 8.6 | Regional maritime and natural heritage. |
+| Experience | 9.0 | Dedicated pedestrian coastal trails. |
+| Depth | 9.1 | Multiple coastal routes and headlands. |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.2, history:8.8.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-glenan-islands — Glénan Islands and Saint-Nicolas Beach Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/glenan-islands.yaml)
+- Action: new
+- Precise subject and limitations: Boat excursions around the archipelago and Saint-Nicolas visit, not unrestricted land access to protected islets. Saint-Nicolas beach representative point. Local visitor scope: https://www.tourisme-fouesnant.fr/en/discover/the-destination/the-glenan-archipelago/how-do-i-get-to-les-glenan/.
+- Location check: 47.72535, -4.00164; [published representative point](https://mapcarta.com/34549826), coordinates inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/quimper-cornouaille/larchipel-des-glenan/); indexed excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: full independent claim-level corroboration and exact parent boundaries where applicable; temporary access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/atlantic-islands](../../../countries/ES/sights/atlantic-islands.yaml) | 9.1 / 9.0 / 8.9 / 9.0 / 8.9 | significance: -0.5 vs peer; depth: -0.4 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.4 vs peer; significance: -0.3 vs peer. |
+| [FR/ile-de-brehat](../../../countries/FR/sights/ile-de-brehat.yaml) | 8.9 / 8.9 / 8.4 / 9.1 / 8.8 | depth: -0.3 vs peer; impact: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Clear water and white sand. |
+| Uniqueness | 8.8 | Distinct temperate archipelago but comparable elsewhere. |
+| Significance | 8.4 | Regional marine and island ecology. |
+| Experience | 9.0 | Boat excursions and beach walking. |
+| Depth | 8.5 | Compact landing experience with optional sea tours. |
+
+- Applicable categories: beaches:9.3, nature:9.2, photography:9.3, relaxation:9.1, adventure:8.8.
+- Computed worldwide overall: 88.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-fougeres — Château de Fougères Medieval Castle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-fougeres.yaml)
+- Action: new
+- Precise subject and limitations: Medieval defensive castle complex and visitor route; excludes wider Fougères streets. Representative castle point. Operator access reference: https://chateau-fougeres.fr/acces/.
+- Location check: 48.35388, -1.20959; [published representative point](https://mapcarta.com/37428862), coordinates inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/rennes-and-brittanys-historic-gateways/fougeres/); indexed excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: full independent claim-level corroboration and exact parent boundaries where applicable; temporary access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chinon-fortress](../../../countries/FR/sights/chinon-fortress.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.0 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.5 vs peer; impact: -0.1 vs peer. |
+| [GB/caernarfon-castle](../../../countries/GB/sights/caernarfon-castle.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.6 | depth: +0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | uniqueness: +0.2 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Large defensive ensemble on a rocky spur. |
+| Uniqueness | 8.9 | Substantial medieval fortification with multiple towers. |
+| Significance | 9.1 | Breton defensive heritage, 12th–15th centuries. |
+| Experience | 8.9 | Dedicated castle visit and viewpoints. |
+| Depth | 8.9 | Multiple towers and defensive spaces. |
+
+- Applicable categories: architecture:9.3, history:9.3, photography:9.2, culture:9.0.
+- Computed worldwide overall: 89.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-rennes-historic-centre — Rennes Historic Centre and Royal Squares — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rennes-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Pedestrian historic centre, half-timbered streets and royal squares; excludes separately rated museums, Thabor gardens and wider city. Place des Lices representative point.
+- Location check: 48.1128, -1.6835; [published representative point](https://commons.wikimedia.org/wiki/Category:Place_des_Lices_%28Rennes%29), coordinates inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.tourisme-rennes.com/en/); indexed excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: full independent claim-level corroboration and exact parent boundaries where applicable; temporary access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/vannes-historic-centre](../../../countries/FR/sights/vannes-historic-centre.yaml) | 8.9 / 8.8 / 9.0 / 9.1 / 9.0 | uniqueness: -0.1 vs peer; impact: -0.1 vs peer. |
+| [ES/girona-historic-centre](../../../countries/ES/sights/girona-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.0 / 8.9 | uniqueness: -0.2 vs peer; impact: -0.2 vs peer. |
+| [PT/evora-core](../../../countries/PT/sights/evora-core.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 8.6 | depth: +0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/porto-historic-centre](../../../countries/PT/sights/porto-historic-centre.yaml) | 9.3 / 9.2 / 9.2 / 9.3 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Varied historic street architecture. |
+| Uniqueness | 8.7 | Distinct medieval and later urban fabric, comparable European centres. |
+| Significance | 8.9 | Regional capital heritage. |
+| Experience | 9.0 | Pedestrian streets and market squares. |
+| Depth | 9.0 | Multiple connected historic urban spaces. |
+
+- Applicable categories: architecture:9.2, history:9.1, culture:9.2, photography:9.1, food:8.9.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

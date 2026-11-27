@@ -1,0 +1,18 @@
+id: sight-fr-glenan-islands
+name: "Glénan Islands and Saint-Nicolas Beach Excursions"
+location:
+  country_code: FR
+  latitude: 47.72535
+  longitude: -4.00164
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 8.4
+  experience: 9.0
+  depth: 8.5
+  categories:
+    beaches: 9.3
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.1
+    adventure: 8.8
