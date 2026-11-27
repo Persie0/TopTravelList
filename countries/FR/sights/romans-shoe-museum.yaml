@@ -1,0 +1,15 @@
+id: sight-fr-romans-shoe-museum
+name: "Musée International de la Chaussure Romans-sur-Isère"
+location:
+  country_code: FR
+  latitude: 45.043
+  longitude: 5.052
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.2

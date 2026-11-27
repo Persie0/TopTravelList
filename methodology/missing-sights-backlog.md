@@ -2143,3 +2143,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Balazuc Medieval Cliffside Village: 87.20/100 (desk-based provisional).
 
 30 additions, 20 fast provisional estimates, 10 source-informed candidates, 9 90+, 40 peer comparisons. France 685 ranked / 696 total; 11 existing unassessed unchanged. Lyon museum collections distinct from historic architecture, Roman theatres already in UNESCO Lyon property (https://whc.unesco.org/en/list/872/). Le Corbusier La Tourette and Firminy UNESCO components deferred under serial property (https://whc.unesco.org/en/list/1321/maps). Pont d'Arc integrated into Ardèche gorge, excludes Chauvet original and replica. Orgnac and Cerdon tentative cave series unresolved. 0 peer references not located (); domestic calibration only. Next bounded screen: Ardèche and Drôme residuals: Grotte Saint-Marcel, Grotte de la Madeleine, Bois de Païolive, Mont Gerbier-de-Jonc, Cascade du Ray-Pic, Mont Mézenc, Safari de Peaugres, Train de l'Ardèche, Ferme aux Crocodiles, Montélimar nougat heritage, Romans shoe museum, Nyons, Die; then Loire and Auvergne: Saint-Étienne, Le Puy-en-Velay, Cantal, Clermont-Ferrand and Puy de Dôme scope. Full Python validation pending.
+
+
+### Pass 156 — accelerated Ardèche, Drôme, Loire and Auvergne audit
+
+- [x] FR — Puy Mary Cantal Volcano Mountain Trails: 92.60/100 (source-linked-unverified).
+- [x] FR — Puy de Sancy Mountain and Glacial Valley Trails: 91.90/100 (source-linked-unverified).
+- [x] FR — Rocher Saint-Michel d’Aiguilhe Volcanic Rock and Chapel: 92.25/100 (source-linked-unverified).
+- [x] FR — Abbaye de La Chaise-Dieu Tapestries and Gothic Abbey: 91.85/100 (source-linked-unverified).
+- [x] FR — Vulcania Volcano Science Theme Park: 91.30/100 (source-linked-unverified).
+- [x] FR — L’Aventure Michelin Clermont-Ferrand Industrial Heritage Museum: 91.50/100 (source-linked-unverified).
+- [x] FR — Gergovia Plateau and Archaeological Museum: 90.95/100 (source-linked-unverified).
+- [x] FR — Couriot Saint-Étienne Mining Museum and Industrial Heritage: 91.15/100 (source-linked-unverified).
+- [x] FR — Musée d’Art Moderne et Contemporain Saint-Étienne Métropole: 91.20/100 (source-linked-unverified).
+- [x] FR — Viaduc de Garabit Eiffel Engineering Viewpoints: 90.30/100 (source-linked-unverified).
+- [x] FR — Bois de Païolive Limestone Forest Trails: 87.85/100 (desk-based provisional).
+- [x] FR — Mont Gerbier-de-Jonc Volcano and Loire Sources: 88.35/100 (desk-based provisional).
+- [x] FR — Cascade du Ray-Pic Basalt Waterfall: 87.10/100 (desk-based provisional).
+- [x] FR — Mont Mézenc Mountain Trails: 87.60/100 (desk-based provisional).
+- [x] FR — Safari de Peaugres Wildlife Park: 87.25/100 (desk-based provisional).
+- [x] FR — Train de l’Ardèche Doux Gorge Heritage Railway: 88.55/100 (desk-based provisional).
+- [x] FR — Ferme aux Crocodiles Pierrelatte Wildlife Park: 87.00/100 (desk-based provisional).
+- [x] FR — Musée International de la Chaussure Romans-sur-Isère: 87.45/100 (desk-based provisional).
+- [x] FR — Nyons Historic Centre and Romanesque Bridge: 86.25/100 (desk-based provisional).
+- [x] FR — Die Historic Centre and Roman Ramparts: 85.60/100 (desk-based provisional).
+- [x] FR — Montélimar Nougat Heritage and Artisan Workshops: 85.25/100 (desk-based provisional).
+- [x] FR — Musée d’Art et d’Industrie Saint-Étienne: 88.45/100 (desk-based provisional).
+- [x] FR — Forteresse de Polignac Volcanic Plateau Fortress: 88.55/100 (desk-based provisional).
+- [x] FR — Musée Crozatier Le Puy-en-Velay: 87.80/100 (desk-based provisional).
+- [x] FR — Salers Historic Volcanic Stone Village: 88.50/100 (desk-based provisional).
+- [x] FR — Lac Pavin Volcanic Crater Lake: 88.45/100 (desk-based provisional).
+- [x] FR — Château de Murol Medieval Castle: 88.15/100 (desk-based provisional).
+- [x] FR — Église de Saint-Nectaire Romanesque Church: 88.60/100 (desk-based provisional).
+- [x] FR — Clermont-Ferrand Gothic Lava Stone Cathedral: 88.95/100 (desk-based provisional).
+- [x] FR — Basilique Notre-Dame d’Orcival Romanesque Church: 87.75/100 (desk-based provisional).
+
+30 additions, 20 desk-based provisional estimates, 10 source-informed candidates, 10 90+, 40 domestic peer ranking-row comparisons. France 715 ranked / 726 total; 11 existing unassessed unchanged. Le Puy cathedral and Hôtel-Dieu covered by Santiago serial property (https://whc.unesco.org/en/list/868); Aiguilhe separately scoped. Chaudefour and Chastreix-Sancy folded into Sancy massif; Plomb du Cantal folded into Cantal massif. Vulcania independent science park, excludes Chaîne des Puys landscape. Saint-Marcel and Madeleine cave candidates deferred for tentative-series boundary check, not closure. Next: Remaining Loire/Haute-Loire/Cantal/Puy-de-Dôme: cave-series scope (Saint-Marcel/Madeleine), Lac Chambon, Saint-Flour, Murat, Chaudes-Aigues, Château de Val, Besse, Issoire, Brioude, Livradois-Forez and Allier; then Burgundy and northeastern France. Full Python validation pending.

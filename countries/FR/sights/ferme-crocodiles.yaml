@@ -1,0 +1,15 @@
+id: sight-fr-ferme-crocodiles
+name: "Ferme aux Crocodiles Pierrelatte Wildlife Park"
+location:
+  country_code: FR
+  latitude: 44.354
+  longitude: 4.706
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.3
+  experience: 8.9
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    family: 9.3
