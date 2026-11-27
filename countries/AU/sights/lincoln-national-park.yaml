@@ -1,0 +1,16 @@
+id: sight-au-lincoln-national-park
+name: "Lincoln National Park Eyre Peninsula Coastal Trails"
+location:
+  country_code: AU
+  latitude: -34.823
+  longitude: 135.891
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.2
+    beaches: 9.2
+    photography: 9.3

@@ -3505,3 +3505,27 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AU — Darwin Aviation Museum and Aircraft Collection: 87.40/100 (desk-based provisional).
 
 18 additions, 4 desk-based provisional, 14 source-linked, 6 90+, 48 ranking-row comparisons including 16 US peers. Australia 162 ranked / 162 total. Ningaloo whale sharks: existing whole-property review explicitly includes guided marine activities and wildlife; retain 91.80, document seasonal operator swim experiences (https://www.ningalooreefwhalesharks.au/) without duplicate entry or guaranteed sighting. Lady Elliot manta dives deferred for GBR parent scope; tourism source confirms distinct concentration (https://www.queensland.com/gb/en/places-to-see/experiences/great-barrier-reef/marine-life/swim-with-manta-rays-great-barrier-reef). Sovereign Hill separate from Victorian Goldfields six tentative components, whose existing review explicitly excludes Ballarat. Tasman Arch circuit excludes Three Capes route. Indigenous land access and permissions separate from intrinsic scoring. Existing scores retained. Next: remaining state-level flagship parks, museums and regional experiences; independent overlap and full Python validation pending.
+
+### Pass 206 — Australian astronomy, regional parks, family attractions and museums
+
+- [x] AU — Murriyang Parkes Radio Telescope and Observatory Visitor Centre: 91.40/100 (source-linked-unverified).
+- [x] AU — Warrumbungle National Park Dark Sky Stargazing and Siding Spring Observatory: 91.05/100 (source-linked-unverified).
+- [x] AU — Gordon River and Macquarie Harbour Wilderness Cruise Strahan: 90.70/100 (source-linked-unverified).
+- [x] AU — Warner Bros Movie World Gold Coast Theme Park: 90.10/100 (source-linked-unverified).
+- [x] AU — Dreamworld Gold Coast Theme Park: 88.65/100 (desk-based provisional).
+- [x] AU — Sea World Gold Coast Marine Theme Park: 87.80/100 (desk-based provisional).
+- [x] AU — West Coast Wilderness Railway Tasmania Heritage Rack Railway: 89.40/100 (desk-based provisional).
+- [x] AU — Scienceworks Melbourne and Planetarium: 88.95/100 (source-linked-unverified).
+- [x] AU — Tasmanian Museum and Art Gallery Hobart: 88.80/100 (source-linked-unverified).
+- [x] AU — Mount Field Russell Falls and Lake Dobson Day Walks Tasmania: 88.30/100 (source-linked-unverified).
+- [x] AU — Great Otway National Park Hinterland Forest and Waterfall Walks: 88.10/100 (source-linked-unverified).
+- [x] AU — Art Gallery of Western Australia Perth: 87.70/100 (desk-based provisional).
+- [x] AU — Immigration Museum Melbourne Old Customs House: 87.80/100 (desk-based provisional).
+- [x] AU — Bendigo Art Gallery Victoria: 87.30/100 (desk-based provisional).
+- [x] AU — Queen Victoria Museum and Art Gallery Launceston: 87.50/100 (desk-based provisional).
+- [x] AU — Mount Buffalo National Park Granite Plateau and Alpine Trails: 87.65/100 (desk-based provisional).
+- [x] AU — Lincoln National Park Eyre Peninsula Coastal Trails: 87.00/100 (desk-based provisional).
+- [x] AU — Coffin Bay National Park Coastal Dunes and Oyster Heritage: 87.00/100 (desk-based provisional).
+- [x] AU — Little Sahara Kangaroo Island Sand Dune Adventure: 86.35/100 (desk-based provisional).
+
+19 additions, 11 desk-based provisional, 8 source-linked, 4 90+, 46 ranking-row comparisons including 9 US peers. Australia 181 ranked / 181 total. Whyalla giant Australian cuttlefish aggregation deferred for physical-condition reassessment: SA government reports 1,811 in 2026, lowest on record, ongoing investigation including possible algal bloom effects (https://www.environment.sa.gov.au/news-hub/news/articles/2026/09/more-monitoring-and-research-for-giant-australian-cuttlefish-as-numbers-reach-historic-lows). This is not merely a temporary visitor closure. Christmas Island red crab migration belongs to CX territory queue (https://parksaustralia.gov.au/news/millions-of-crabs-march-on-christmas-island/), not mainland AU. Mount Field confirmed within Tasmanian Wilderness (https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/mount-field-history), specific day-walk scope only. Otways excludes coastal drive; Gordon cruise includes Sarah Island, excludes Franklin rafting. Ball's Pyramid already within Lord Howe island group scope, no duplicate pending specialist experience review. Lady Elliot still deferred; no existing score changes. Next: bounded state and territory screen, remaining inland natural landscapes and flagship museums; independent validation pending.

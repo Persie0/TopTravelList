@@ -4791,3 +4791,422 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 205 scope decisions
 
 Ningaloo whale sharks: existing whole-property review explicitly includes guided marine activities and wildlife; retain 91.80, document seasonal operator swim experiences (https://www.ningalooreefwhalesharks.au/) without duplicate entry or guaranteed sighting. Lady Elliot manta dives deferred for GBR parent scope; tourism source confirms distinct concentration (https://www.queensland.com/gb/en/places-to-see/experiences/great-barrier-reef/marine-life/swim-with-manta-rays-great-barrier-reef). Sovereign Hill separate from Victorian Goldfields six tentative components, whose existing review explicitly excludes Ballarat. Tasman Arch circuit excludes Three Capes route. Indigenous land access and permissions separate from intrinsic scoring.
+
+## sight-au-parkes-observatory — Murriyang Parkes Radio Telescope and Observatory Visitor Centre — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/parkes-observatory.yaml)
+- Action: new
+- Scope: Public visitor centre and views of the 64-metre radio telescope, National Heritage listed in 2020, with Apollo 11 association; no access to restricted research equipment assumed.
+- Representative coordinates: -32.998, 148.263; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 8.9 / 9.0.
+- Categories: history:9.4 family:9.2 photography:9.1.
+- Overall: 91.40/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.csiro.au/en/about/facilities-collections/ATNF/Parkes-radio-telescope-Murriyang/Visitors-Centre; https://www.dcceew.gov.au/parks-heritage/heritage/places/national/parkes-observatory; https://www.space.gov.au/news-and-media/australian-role-in-moon-missions-apollo-to-artemis.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/questacon](../../../countries/AU/sights/questacon.yaml) | 8.9 / 9.0 / 8.8 / 9.3 / 9.1 | significance: +0.6 vs peer; experience: -0.4 vs peer |
+| [AU/qantas-founders](../../../countries/AU/sights/qantas-founders.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.1 | significance: +0.2 vs peer; experience: -0.1 vs peer |
+| [US/very-large-array](../../../countries/US/sights/very-large-array.yaml) | 9.0 / 9.4 / 9.3 / 8.8 / 8.8 | depth: +0.2 vs peer; uniqueness: -0.1 vs peer |
+| [US/lowell-observatory](../../../countries/US/sights/lowell-observatory.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.3 | experience: -0.4 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-warrumbungle-dark-sky — Warrumbungle National Park Dark Sky Stargazing and Siding Spring Observatory — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/warrumbungle-dark-sky.yaml)
+- Action: new
+- Scope: Volcanic mountain walks and dedicated dark-sky experience with public astronomy interpretation at neighbouring Siding Spring. Australia's first International Dark Sky Park (2016); no nighttime research-telescope access or clear sky guaranteed.
+- Representative coordinates: -31.273, 149.063; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 9.1.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.visitnsw.com/articles/hiking-and-stargazing-in-warrumbungle-national-park; https://www.visitnsw.com/destinations/country-nsw/warrumbungle-area/coonabarabran/attractions/siding-spring-observatory.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/parkes-observatory](../../../countries/AU/sights/parkes-observatory.yaml) | 9.0 / 9.3 / 9.4 / 8.9 / 9.0 | significance: -0.4 vs peer; experience: +0.2 vs peer |
+| [AU/kosciuszko-national-park](../../../countries/AU/sights/kosciuszko-national-park.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 9.0 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+| [US/lowell-observatory](../../../countries/US/sights/lowell-observatory.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.3 | significance: -0.3 vs peer; experience: -0.2 vs peer |
+| [US/griffith-observatory](../../../countries/US/sights/griffith-observatory.yaml) | 8.9 / 8.9 / 8.7 / 9.1 / 8.8 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-gordon-river-cruise — Gordon River and Macquarie Harbour Wilderness Cruise Strahan — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/gordon-river-cruise.yaml)
+- Action: new
+- Scope: Dedicated lower Gordon River cruise including rainforest landing and Sarah Island interpretation, grouped; geographically and experientially distinct from Franklin River rafting. Representative Strahan departure; Tasmanian Wilderness parent scope noted.
+- Representative coordinates: -42.151, 145.327; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.0 / 9.2 / 9.1.
+- Categories: nature:9.3 photography:9.3 history:9.1.
+- Overall: 90.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.gordonrivercruises.com.au/; https://www.worldheritagecruises.com.au/cruises; https://parks.tas.gov.au/explore-our-parks/sarah-island.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/franklin-river-rafting](../../../countries/AU/sights/franklin-river-rafting.yaml) | 9.2 / 9.3 / 9.2 / 9.1 / 9.3 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer |
+| [AU/nitmiluk-gorge](../../../countries/AU/sights/nitmiluk-gorge.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | significance: +0.2 vs peer; experience: +0.2 vs peer |
+| [US/blue-ridge-parkway](../../../countries/US/sights/blue-ridge-parkway.yaml) | 9.1 / 9.1 / 9.1 / 9.2 / 9.3 | depth: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-movie-world — Warner Bros Movie World Gold Coast Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/movie-world.yaml)
+- Action: new
+- Scope: Film-themed rides, DC and Wizard of Oz areas and shows; distinct ticketed park, no particular ride guaranteed and no studio backstage access assumed.
+- Representative coordinates: -27.907, 153.312; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.7 / 9.4 / 9.1.
+- Categories: family:9.4 adventure:9.3 culture:9.0.
+- Overall: 90.10/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.australia.com/en-gb/places/gold-coast-and-surrounds/theme-parks.html; https://movieworld.com.au/park-info/maintenance-schedule; https://themeparks.com.au/attractions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/australia-zoo](../../../countries/AU/sights/australia-zoo.yaml) | 8.9 / 8.7 / 8.6 / 9.1 / 9.0 | uniqueness: +0.3 vs peer; experience: +0.3 vs peer |
+| [AU/acmi](../../../countries/AU/sights/acmi.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.2 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/cedar-point](../../../countries/US/sights/cedar-point.yaml) | 9.2 / 9.3 / 8.8 / 9.4 / 9.2 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/dollywood](../../../countries/US/sights/dollywood.yaml) | 9.1 / 9.2 / 8.8 / 9.4 / 9.2 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-dreamworld — Dreamworld Gold Coast Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/dreamworld.yaml)
+- Action: new
+- Scope: Distinct theme park with rides and wildlife exhibits; separately ticketed WhiteWater World excluded.
+- Representative coordinates: -27.864, 153.316; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 9.3 / 9.0.
+- Categories: family:9.3 adventure:9.3 wildlife:8.8.
+- Overall: 88.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/movie-world](../../../countries/AU/sights/movie-world.yaml) | 9.0 / 9.0 / 8.7 / 9.4 / 9.1 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/dollywood](../../../countries/US/sights/dollywood.yaml) | 9.1 / 9.2 / 8.8 / 9.4 / 9.2 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-sea-world-gold-coast — Sea World Gold Coast Marine Theme Park — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/sea-world-gold-coast.yaml)
+- Action: new
+- Scope: Marine exhibits, rides and conservation interpretation; excludes resort and separately booked wildlife encounters.
+- Representative coordinates: -27.956, 153.427; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.5 / 9.1 / 9.0.
+- Categories: family:9.3 wildlife:9.2 adventure:9.0.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/sea-life-sydney](../../../countries/AU/sights/sea-life-sydney.yaml) | 8.7 / 8.7 / 8.5 / 9.0 / 8.8 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [AU/movie-world](../../../countries/AU/sights/movie-world.yaml) | 9.0 / 9.0 / 8.7 / 9.4 / 9.1 | uniqueness: -0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-west-coast-wilderness-railway — West Coast Wilderness Railway Tasmania Heritage Rack Railway — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/west-coast-wilderness-railway.yaml)
+- Action: new
+- Scope: Heritage rack railway and rainforest journey departing Queenstown; operating sections vary, no full through journey presumed.
+- Representative coordinates: -42.081, 145.553; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.9 / 9.0 / 8.9.
+- Categories: history:9.3 photography:9.3 nature:9.1.
+- Overall: 89.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/puffing-billy](../../../countries/AU/sights/puffing-billy.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 8.9 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [AU/kuranda-rail-skyrail](../../../countries/AU/sights/kuranda-rail-skyrail.yaml) | 9.1 / 9.2 / 8.9 / 9.3 / 9.0 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-scienceworks — Scienceworks Melbourne and Planetarium — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/scienceworks.yaml)
+- Action: new
+- Scope: Interactive science exhibits, planetarium and historic Spotswood Pumping Station grouped; distinct museum campus from Melbourne Museum.
+- Representative coordinates: -37.831, 144.893; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.7 / 9.2 / 9.1.
+- Categories: family:9.4 history:9.0 culture:9.0.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://museumsvictoria.com.au/scienceworks/whats-on/exhibitions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/questacon](../../../countries/AU/sights/questacon.yaml) | 8.9 / 9.0 / 8.8 / 9.3 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [AU/melbourne-museum](../../../countries/AU/sights/melbourne-museum.yaml) | 9.1 / 9.2 / 9.2 / 9.2 / 9.3 | significance: -0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-tmag-hobart — Tasmanian Museum and Art Gallery Hobart — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/tmag-hobart.yaml)
+- Action: new
+- Scope: Tasmanian natural history, art and heritage buildings; distinct institution from MONA.
+- Representative coordinates: -42.881, 147.332; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.9 / 9.1.
+- Categories: culture:9.3 history:9.2 nature:9.2.
+- Overall: 88.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.tmag.tas.gov.au/visit; https://www.tmag.tas.gov.au/whats-on/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/magnt-darwin](../../../countries/AU/sights/magnt-darwin.yaml) | 8.9 / 9.1 / 9.2 / 9.0 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [AU/south-australian-museum](../../../countries/AU/sights/south-australian-museum.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-mount-field — Mount Field Russell Falls and Lake Dobson Day Walks Tasmania — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/mount-field.yaml)
+- Action: new
+- Scope: Specific forest waterfall and alpine day-walk circuit within Tasmanian Wilderness; no whole-property duplicate intended; parent scope flagged.
+- Representative coordinates: -42.683, 146.717; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 88.30/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://parks.tas.gov.au/explore-our-parks/mount-field-national-park; https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/russell-falls.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/litchfield-national-park](../../../countries/AU/sights/litchfield-national-park.yaml) | 8.9 / 8.9 / 8.5 / 9.1 / 8.9 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+| [AU/cradle-mountain](../../../countries/AU/sights/cradle-mountain.yaml) | 9.1 / 8.7 / 8.4 / 8.8 / 8.4 | depth: +0.5 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-otway-forest — Great Otway National Park Hinterland Forest and Waterfall Walks — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/otway-forest.yaml)
+- Action: new
+- Scope: Hinterland mountain ash and rainforest trails including Triplet and Hopetoun Falls, excludes coastal road journey and Twelve Apostles; legacy parent scope flagged.
+- Representative coordinates: -38.67, 143.49; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 9.0 / 8.9.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 88.10/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.parks.vic.gov.au/places-to-see/parks/great-otway-national-park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/valley-giants](../../../countries/AU/sights/valley-giants.yaml) | 8.9 / 9.0 / 8.5 / 9.0 / 8.6 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer |
+| [AU/mount-field](../../../countries/AU/sights/mount-field.yaml) | 8.9 / 8.8 / 8.6 / 9.0 / 8.9 | significance: -0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-art-gallery-wa — Art Gallery of Western Australia Perth — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/art-gallery-wa.yaml)
+- Action: new
+- Scope: State art museum, including Aboriginal and contemporary Australian art; independent from Boola Bardip.
+- Representative coordinates: -31.949, 115.86; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.8 / 8.9.
+- Categories: culture:9.3 history:9.0 architecture:8.9.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/art-gallery-sa](../../../countries/AU/sights/art-gallery-sa.yaml) | 9.0 / 9.0 / 9.2 / 9.0 / 9.2 | impact: -0.4 vs peer; significance: -0.3 vs peer |
+| [AU/qagoma](../../../countries/AU/sights/qagoma.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | impact: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-immigration-museum-melbourne — Immigration Museum Melbourne Old Customs House — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/immigration-museum-melbourne.yaml)
+- Action: new
+- Scope: Migration history and identity galleries in historic Customs House; distinct from Melbourne Museum.
+- Representative coordinates: -37.819, 144.961; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.8 / 8.8.
+- Categories: history:9.2 culture:9.3 architecture:9.0.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/melbourne-museum](../../../countries/AU/sights/melbourne-museum.yaml) | 9.1 / 9.2 / 9.2 / 9.2 / 9.3 | impact: -0.5 vs peer; depth: -0.5 vs peer |
+| [AU/national-museum-australia](../../../countries/AU/sights/national-museum-australia.yaml) | 8.9 / 9.1 / 9.2 / 9.0 / 9.2 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-bendigo-art-gallery — Bendigo Art Gallery Victoria — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/bendigo-art-gallery.yaml)
+- Action: new
+- Scope: Distinct permanent art institution; temporary blockbuster exhibitions not assumed. Existing Goldfields landscape does not include its collection.
+- Representative coordinates: -36.758, 144.275; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.7 / 8.8 / 8.9.
+- Categories: culture:9.2 history:9.0 architecture:8.8.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/art-gallery-sa](../../../countries/AU/sights/art-gallery-sa.yaml) | 9.0 / 9.0 / 9.2 / 9.0 / 9.2 | significance: -0.5 vs peer; impact: -0.4 vs peer |
+| [AU/mca-sydney](../../../countries/AU/sights/mca-sydney.yaml) | 8.7 / 8.9 / 8.8 / 8.9 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-queen-victoria-museum — Queen Victoria Museum and Art Gallery Launceston — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/queen-victoria-museum.yaml)
+- Action: new
+- Scope: Museum and gallery's two public campuses grouped; Tasmanian history, science and art.
+- Representative coordinates: -41.431, 147.147; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.8 / 8.9.
+- Categories: culture:9.2 history:9.1 nature:9.1.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/tmag-hobart](../../../countries/AU/sights/tmag-hobart.yaml) | 8.7 / 8.9 / 9.0 / 8.9 / 9.1 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [AU/magnt-darwin](../../../countries/AU/sights/magnt-darwin.yaml) | 8.9 / 9.1 / 9.2 / 9.0 / 9.2 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-mount-buffalo — Mount Buffalo National Park Granite Plateau and Alpine Trails — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/mount-buffalo.yaml)
+- Action: new
+- Scope: Granite tors, alpine trails and waterfalls, separate from Kosciuszko. Seasonal road restrictions not assumed away.
+- Representative coordinates: -36.728, 146.816; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.9 / 8.8.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/kosciuszko-national-park](../../../countries/AU/sights/kosciuszko-national-park.yaml) | 8.8 / 8.7 / 8.6 / 8.9 / 9.0 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [AU/grampians-gariwerd-national-park](../../../countries/AU/sights/grampians-gariwerd-national-park.yaml) | 8.8 / 8.7 / 8.9 / 8.8 / 9.0 | significance: -0.5 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-lincoln-national-park — Lincoln National Park Eyre Peninsula Coastal Trails — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/lincoln-national-park.yaml)
+- Action: new
+- Scope: Coastal dunes and accessible walking routes; no guaranteed wildlife sightings or restricted wilderness vehicle access.
+- Representative coordinates: -34.823, 135.891; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.4 / 8.9 / 8.7.
+- Categories: nature:9.2 beaches:9.2 photography:9.3.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/torndirrup](../../../countries/AU/sights/torndirrup.yaml) | 9.0 / 8.7 / 8.4 / 8.9 / 8.5 | impact: -0.2 vs peer; depth: +0.2 vs peer |
+| [AU/cape-le-grand](../../../countries/AU/sights/cape-le-grand.yaml) | 9.0 / 8.8 / 8.4 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-coffin-bay — Coffin Bay National Park Coastal Dunes and Oyster Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/coffin-bay.yaml)
+- Action: new
+- Scope: Park coastal scenery and nearby oyster interpretation grouped; separate from Lincoln National Park, no individual farm duplication.
+- Representative coordinates: -34.594, 135.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.4 / 8.9 / 8.7.
+- Categories: nature:9.2 beaches:9.2 food:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/lincoln-national-park](../../../countries/AU/sights/lincoln-national-park.yaml) | 8.8 / 8.7 / 8.4 / 8.9 / 8.7 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [AU/cape-le-grand](../../../countries/AU/sights/cape-le-grand.yaml) | 9.0 / 8.8 / 8.4 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-kangaroo-island-little-sahara — Little Sahara Kangaroo Island Sand Dune Adventure — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/kangaroo-island-little-sahara.yaml)
+- Action: new
+- Scope: Dedicated sandboarding and dune activities, geographically distinct from Flinders Chase and Seal Bay.
+- Representative coordinates: -35.985, 137.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.2 / 9.1 / 8.5.
+- Categories: adventure:9.3 family:9.1 photography:9.1.
+- Overall: 86.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/moreton-island](../../../countries/AU/sights/moreton-island.yaml) | 8.9 / 8.9 / 8.4 / 9.0 / 8.8 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [AU/pinnacles-desert](../../../countries/AU/sights/pinnacles-desert.yaml) | 9.1 / 9.1 / 8.4 / 8.8 / 8.3 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+### Pass 206 scope decisions
+
+Whyalla giant Australian cuttlefish aggregation deferred for physical-condition reassessment: SA government reports 1,811 in 2026, lowest on record, ongoing investigation including possible algal bloom effects (https://www.environment.sa.gov.au/news-hub/news/articles/2026/09/more-monitoring-and-research-for-giant-australian-cuttlefish-as-numbers-reach-historic-lows). This is not merely a temporary visitor closure. Christmas Island red crab migration belongs to CX territory queue (https://parksaustralia.gov.au/news/millions-of-crabs-march-on-christmas-island/), not mainland AU. Mount Field confirmed within Tasmanian Wilderness (https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/mount-field-history), specific day-walk scope only. Otways excludes coastal drive; Gordon cruise includes Sarah Island, excludes Franklin rafting. Ball's Pyramid already within Lord Howe island group scope, no duplicate pending specialist experience review. Lady Elliot still deferred; no existing score changes.

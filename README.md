@@ -102,7 +102,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Argentina](countries/AR/) (`AR`) | [40](countries/AR/cities.md) | [65](countries/AR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Argentina) |
 | [Armenia](countries/AM/) (`AM`) | [20](countries/AM/cities.md) | [55](countries/AM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Armenia) |
 | [Aruba](countries/AW/) (`AW`) | [2](countries/AW/cities.md) | [13](countries/AW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Aruba) |
-| [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [162](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
+| [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [181](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
 | [Austria](countries/AT/) (`AT`) | [45](countries/AT/cities.md) | [134](countries/AT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Austria) |
 | [Azerbaijan](countries/AZ/) (`AZ`) | [16](countries/AZ/cities.md) | [40](countries/AZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Azerbaijan) |
 | [Bahamas](countries/BS/) (`BS`) | [12](countries/BS/cities.md) | [34](countries/BS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bahamas) |

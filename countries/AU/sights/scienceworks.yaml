@@ -1,0 +1,16 @@
+id: sight-au-scienceworks
+name: "Scienceworks Melbourne and Planetarium"
+location:
+  country_code: AU
+  latitude: -37.831
+  longitude: 144.893
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.2
+  depth: 9.1
+  categories:
+    family: 9.4
+    history: 9.0
+    culture: 9.0
