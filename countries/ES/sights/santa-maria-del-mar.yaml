@@ -1,0 +1,17 @@
+id: sight-es-santa-maria-del-mar
+name: "Santa Maria del Mar Church Barcelona"
+location:
+  country_code: ES
+  latitude: 41.3838
+  longitude: 2.182
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.6
+  depth: 8.2
+  categories:
+    architecture: 9.3
+    history: 9.1
+    culture: 9.0
+    photography: 9.0

@@ -837,3 +837,16 @@ Eight additions and 32 peer rows; Spain 118 ranked / 133 total. Bernabéu tour r
 - [x] ES — Ebro Delta Natural Park: 88.30/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Spain 126 ranked / 141 total. PortAventura parks grouped; Málaga Alcazaba and Gibralfaro grouped as connected fortifications. Museum holdings distinct from source monuments and other museum visits. Next bounded regional screen: Barcelona Gothic Quarter, Santa Maria del Mar, Bardenas Reales, Garrotxa volcanic zone, Cap de Creus, Peñíscola Castle, Santa Bárbara Castle Alicante, and Maspalomas Dunes. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 75 — Spanish urban heritage, coastal and geological landscapes
+
+- [x] ES — Barcelona Gothic Quarter: 91.25/100 (source-linked-unverified).
+- [x] ES — Santa Maria del Mar Church Barcelona: 87.80/100 (source-linked-unverified).
+- [x] ES — Bardenas Reales Natural Park: 89.35/100 (source-linked-unverified).
+- [x] ES — Garrotxa Volcanic Zone Natural Park: 88.15/100 (source-linked-unverified).
+- [x] ES — Cap de Creus Natural Park: 88.40/100 (source-linked-unverified).
+- [x] ES — Peñíscola Castle and Walled Old Town: 88.40/100 (source-linked-unverified).
+- [x] ES — Santa Bárbara Castle Alicante: 86.75/100 (source-linked-unverified).
+- [x] ES — Maspalomas Dunes Special Nature Reserve: 88.10/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Spain 134 ranked / 149 total. Gothic Quarter excludes El Born; Peñíscola castle and old town grouped; Cap de Creus excludes Dalí home; Garrotxa included forest and crater routes. Bardenas military zone excluded; Maspalomas marked paths only. Next high-priority screen: Siam Park Tenerife, Loro Parque (visitor welfare considerations), Anaga Rural Park, Los Gigantes cliffs, Roque Nublo (check Risco Caído scope), Cofete Beach, Jandía, and Corralejo Dunes. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
