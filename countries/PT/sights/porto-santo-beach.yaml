@@ -1,0 +1,16 @@
+id: sight-pt-porto-santo-beach
+name: "Porto Santo Golden Sand Beach"
+location:
+  country_code: PT
+  latitude: 33.05197
+  longitude: -16.34287
+scores:
+  impact: 8.9
+  uniqueness: 8.4
+  significance: 8.0
+  experience: 9.1
+  depth: 8.5
+  categories:
+    beaches: 9.4
+    relaxation: 9.3
+    photography: 9.0

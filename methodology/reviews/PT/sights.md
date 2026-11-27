@@ -2638,3 +2638,314 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-pt-madeira-botanical-garden — Madeira Botanical Garden — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/madeira-botanical-garden.yaml)
+- Action: new
+- Precise subject and limitations: Public botanical collections and formal gardens at Quinta do Bom Sucesso; distinct from Monte Palace and native Laurisilva. Museum access conditional.
+- Location check: 32.66222, -16.89556; [published representative point](https://mapcarta.com/35736368), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmadeira.com/en/what-to-do/culture-passionates/gardens/madeira-botanical-garden/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/monte-palace-garden](../../../countries/PT/sights/monte-palace-garden.yaml) | 9.0 / 8.9 / 8.5 / 9.0 / 8.9 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.0 | significance: -0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [PT/serralves-art-park](../../../countries/PT/sights/serralves-art-park.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 9.0 | significance: -0.4 vs peer; depth: -0.3 vs peer. |
+| [ES/turia-gardens](../../../countries/ES/sights/turia-gardens.yaml) | 8.6 / 8.7 / 8.3 / 9.1 / 8.8 | uniqueness: -0.2 vs peer; significance: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Colorful gardens and city views. |
+| Uniqueness | 8.5 | Distinct botanical collections. |
+| Significance | 8.5 | Regional botanical heritage. |
+| Experience | 8.9 | Varied garden walks. |
+| Depth | 8.7 | Several themed collections. |
+
+- Applicable categories: nature:9.1, photography:9.2, relaxation:8.9.
+- Computed worldwide overall: 86.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-porto-santo-beach — Porto Santo Golden Sand Beach — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/porto-santo-beach.yaml)
+- Action: new
+- Precise subject and limitations: Nine-kilometre southern sandy shore, representative Pedras Pretas beach section. No separate beach subsections or unverified therapeutic benefit. Swimming conditional on local conditions.
+- Location check: 33.05197, -16.34287; [published representative point](https://mapcarta.com/W142722041), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitmadeira.com/en/where-to-go/porto-santo/porto-santo-beach/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/la-concha-bay](../../../countries/ES/sights/la-concha-bay.yaml) | 8.9 / 8.6 / 8.3 / 9.0 / 8.4 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/jandia-cofete](../../../countries/ES/sights/jandia-cofete.yaml) | 9.2 / 8.9 / 8.6 / 8.7 / 8.8 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [ES/corralejo-dunes](../../../countries/ES/sights/corralejo-dunes.yaml) | 9.0 / 8.8 / 8.5 / 8.8 / 8.4 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [PT/costa-nova](../../../countries/PT/sights/costa-nova.yaml) | 8.4 / 8.6 / 8.1 / 8.6 / 8.0 | impact: +0.5 vs peer; experience: +0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Expansive sandy shoreline. |
+| Uniqueness | 8.4 | Distinct island beach setting. |
+| Significance | 8.0 | Regional coastal significance. |
+| Experience | 9.1 | Accessible beach recreation. |
+| Depth | 8.5 | Long linked shore sections. |
+
+- Applicable categories: beaches:9.4, relaxation:9.3, photography:9.0.
+- Computed worldwide overall: 85.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-curral-das-freiras — Curral das Freiras Valley and Eira do Serrado Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/curral-das-freiras.yaml)
+- Action: new
+- Precise subject and limitations: Valley settlement and dedicated public overlook, distinct from central peak summit hikes and levada network. Village heritage https://www.visitmadeira.com/pt/onde-ir/madeira/costa-sul/camara-de-lobos/curral-das-freiras/. Access and visibility conditional.
+- Location check: 32.71035, -16.96576; [published representative point](https://mapcarta.com/N4764637164), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmadeira.com/en/where-to-go/madeira/south-coast/camara-de-lobos/eira-do-serrado-viewpoint/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/madeira-peaks](../../../countries/PT/sights/madeira-peaks.yaml) | 9.5 / 9.2 / 8.8 / 9.0 / 9.2 | depth: -0.7 vs peer; impact: -0.5 vs peer. |
+| [ES/masca-gorge](../../../countries/ES/sights/masca-gorge.yaml) | 9.2 / 9.0 / 8.4 / 8.7 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/ronda-gorge-old-town](../../../countries/ES/sights/ronda-gorge-old-town.yaml) | 9.3 / 9.1 / 8.9 / 9.0 / 8.7 | significance: -0.5 vs peer; impact: -0.3 vs peer. |
+| [PT/cabo-girao](../../../countries/PT/sights/cabo-girao.yaml) | 9.0 / 8.6 / 8.0 / 8.6 / 7.7 | depth: +0.8 vs peer; significance: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic mountain-enclosed village. |
+| Uniqueness | 8.8 | Distinct deep valley setting. |
+| Significance | 8.4 | Regional settlement heritage. |
+| Experience | 8.8 | Public valley and overlook visit. |
+| Depth | 8.5 | Linked village and viewpoint. |
+
+- Applicable categories: nature:9.2, photography:9.4, culture:8.8, adventure:8.7.
+- Computed worldwide overall: 87.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-funchal-historic-centre — Funchal Historic Centre and Old Town — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/funchal-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Public old town streets, historic facades and chapel exterior, central historic civic streets; reference at Corpo Santo Chapel. Excludes Monte Palace and Botanical Garden and separately ticketed attractions. No private interior admission assumed.
+- Location check: 32.64755, -16.89988; [published representative point](https://mapcarta.com/W120832837), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitmadeira.com/en/what-to-do/experiencing-the-city-of-funchal/exploring-the-city/funchal-streets/funchal-downtown/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/alfama](../../../countries/PT/sights/alfama.yaml) | 8.9 / 9.0 / 8.8 / 9.1 / 8.6 | uniqueness: -0.5 vs peer; impact: -0.3 vs peer. |
+| [PT/guimaraes-core](../../../countries/PT/sights/guimaraes-core.yaml) | 8.9 / 8.9 / 9.1 / 8.8 / 8.8 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [ES/cadaques-historic-waterfront](../../../countries/ES/sights/cadaques-historic-waterfront.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 8.5 | impact: -0.3 vs peer; significance: +0.3 vs peer. |
+| [ES/san-sebastian-old-town](../../../countries/ES/sights/san-sebastian-old-town.yaml) | 8.7 / 8.5 / 8.7 / 9.0 / 8.6 | significance: +0.1 vs peer; impact: -0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Attractive historic streets. |
+| Uniqueness | 8.5 | Distinct Atlantic port town character. |
+| Significance | 8.8 | Important regional settlement heritage. |
+| Experience | 8.9 | Varied public walking. |
+| Depth | 8.7 | Several connected historic precincts. |
+
+- Applicable categories: architecture:9.0, culture:9.2, history:9.0, food:8.9.
+- Computed worldwide overall: 86.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-gruta-das-torres — Gruta das Torres Lava Tube — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/gruta-das-torres.yaml)
+- Action: new
+- Precise subject and limitations: Guided lava-tube visitor route and interpretation, entrance reference; authority search excerpt announces resumption on 19 July 2026. English schedule page returns HTTP 403 on direct fetch; booking https://parquesnaturais.azores.gov.pt/bilheteira/grutadastorres/?lang=en and tourism listing https://www.visitportugal.com/en/NR/exeres/A2E62E95-9921-4D33-BF85-36FEC4FB35EA support scope. Confirm availability before travel. No unrestricted cave entry. Separate from Mount Pico ascent and vineyard landscapes.
+- Location check: 38.49437, -28.50235; [published representative point](https://mapcarta.com/25736894), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://parquesnaturais.azores.gov.pt/pt/parques/5/centro/8/horarios); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/cueva-del-viento](../../../countries/ES/sights/cueva-del-viento.yaml) | 8.8 / 9.0 / 8.6 / 8.7 / 8.4 | uniqueness: -0.1 vs peer; experience: -0.1 vs peer. |
+| [ES/cueva-de-los-verdes](../../../countries/ES/sights/cueva-de-los-verdes.yaml) | 8.8 / 8.9 / 8.5 / 8.8 / 8.3 | experience: -0.2 vs peer; significance: +0.1 vs peer. |
+| [ES/nerja-cave](../../../countries/ES/sights/nerja-cave.yaml) | 9.1 / 8.9 / 8.8 / 8.9 / 8.7 | depth: -0.4 vs peer; experience: -0.3 vs peer. |
+| [PT/capelinhos-volcano](../../../countries/PT/sights/capelinhos-volcano.yaml) | 9.0 / 9.2 / 9.0 / 8.8 / 8.8 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Impressive volcanic passage. |
+| Uniqueness | 8.9 | Distinct extensive lava-tube system. |
+| Significance | 8.6 | Regional geological significance. |
+| Experience | 8.6 | Controlled guided experience. |
+| Depth | 8.3 | Bounded permitted cave section. |
+
+- Applicable categories: nature:9.2, adventure:9.0, photography:8.6.
+- Computed worldwide overall: 87.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-faial-caldeira — Faial Caldeira Nature Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/faial-caldeira.yaml)
+- Action: new
+- Precise subject and limitations: Crater rim trail and public viewpoint; no unrestricted interior access. Interior guided only and capacity regulated per https://parquesnaturais.azores.gov.pt/en/parques/3/trilho/18. Distinct from Capelinhos eruption landscape; weather and trail conditions conditional.
+- Location check: 38.58069, -28.70657; [published representative point](https://mapcarta.com/N1123717809), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://trails.visitazores.com/en/trails-azores/faial/caldeira); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/sete-cidades](../../../countries/PT/sights/sete-cidades.yaml) | 9.3 / 9.2 / 8.8 / 9.2 / 9.0 | experience: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [PT/lagoa-fogo](../../../countries/PT/sights/lagoa-fogo.yaml) | 9.1 / 9.0 / 8.7 / 8.8 / 8.4 | depth: +0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/capelinhos-volcano](../../../countries/PT/sights/capelinhos-volcano.yaml) | 9.0 / 9.2 / 9.0 / 8.8 / 8.8 | uniqueness: -0.4 vs peer; significance: -0.2 vs peer. |
+| [ES/taburiente](../../../countries/ES/sights/taburiente.yaml) | 9.2 / 9.1 / 9.0 / 9.0 / 9.1 | depth: -0.4 vs peer; experience: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Large dramatic green caldera. |
+| Uniqueness | 8.8 | Distinct protected volcanic crater. |
+| Significance | 8.8 | Important geological and ecological heritage. |
+| Experience | 8.7 | Permitted rim hiking. |
+| Depth | 8.7 | Substantial crater landscape. |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.1.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-sao-jorge-fajas — São Jorge Fajãs of Santo Cristo and Cubres — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/sao-jorge-fajas.yaml)
+- Action: new
+- Precise subject and limitations: Two linked coastal debris plains, lagoons and permitted walking route, not entire island. Official trail https://trails.visitazores.com/en/trails-azores/sao-jorge/serra-do-topo-caldeira-de-santo-cristo-faj%C3%A3-dos-cubres; hamlet reference, not trailhead. Trail closures and protected wetland access conditional.
+- Location check: 38.62471, -27.9287; [published representative point](https://mapcarta.com/19091884), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitazores.com/en/explore/fajas-dos-cubres-and-faja-da-caldeira-do-sto-cristo); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/masca-gorge](../../../countries/ES/sights/masca-gorge.yaml) | 9.2 / 9.0 / 8.4 / 8.7 / 8.7 | significance: +0.3 vs peer; experience: +0.1 vs peer. |
+| [ES/anaga-rural-park](../../../countries/ES/sights/anaga-rural-park.yaml) | 9.3 / 9.2 / 8.9 / 9.0 / 9.1 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [PT/flores-landscape](../../../countries/PT/sights/flores-landscape.yaml) | 9.3 / 9.2 / 8.7 / 9.0 / 9.2 | depth: -0.4 vs peer; impact: -0.2 vs peer. |
+| [ES/albufera-valencia](../../../countries/ES/sights/albufera-valencia.yaml) | 8.7 / 8.6 / 8.7 / 8.8 / 8.7 | uniqueness: +0.5 vs peer; impact: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic coastal plains beneath cliffs. |
+| Uniqueness | 9.1 | Distinct fajã and lagoon landscape. |
+| Significance | 8.7 | Important ecological and settlement heritage. |
+| Experience | 8.8 | Linked permitted hiking route. |
+| Depth | 8.8 | Two connected landscapes. |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:9.2, culture:8.8.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-gorreana-tea-plantation — Gorreana Tea Plantation and Factory Trail — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/gorreana-tea-plantation.yaml)
+- Action: new
+- Precise subject and limitations: Marked plantation trail and permitted tea-factory visitor experience; factory reference. Official biking route https://biking.visitazores.com/en/route/pdl-nordeste notes tea tasting. Hours, production activity and access conditional; no private field access.
+- Location check: 37.81842, -25.40243; [published representative point](https://mapcarta.com/de/N598955794), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://trails.visitazores.com/en/trails-azores/sao-miguel/ch%C3%A1-gorreana); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/pico-vineyards](../../../countries/PT/sights/pico-vineyards.yaml) | 8.9 / 9.3 / 9.2 / 8.8 / 8.8 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer. |
+| [PT/douro-valley](../../../countries/PT/sights/douro-valley.yaml) | 9.3 / 9.3 / 9.2 / 9.2 / 9.4 | depth: -1.0 vs peer; impact: -0.7 vs peer. |
+| [ES/la-geria-vineyards](../../../countries/ES/sights/la-geria-vineyards.yaml) | 9.0 / 9.3 / 8.7 / 8.7 / 8.5 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [ES/rioja](../../../countries/ES/sights/rioja.yaml) | 8.8 / 8.9 / 9.0 / 9.0 / 9.1 | depth: -0.7 vs peer; significance: -0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Scenic patterned tea fields. |
+| Uniqueness | 8.9 | Distinct regional tea cultivation. |
+| Significance | 8.5 | Important agricultural heritage. |
+| Experience | 8.8 | Marked walking and conditional tasting. |
+| Depth | 8.4 | Bounded working estate. |
+
+- Applicable categories: culture:9.1, photography:9.1, food:8.9, nature:8.8.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

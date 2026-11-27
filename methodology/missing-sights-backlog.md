@@ -958,3 +958,16 @@ Seven additions, 28 peer rows. Portugal 66 ranked / 67 total. Cabo da Roca defer
 - [x] PT — Capelinhos Volcano and Interpretation Centre: 90.00/100 (source-linked-unverified).
 
 Six additions, 24 peer rows. Portugal 72 ranked / 73 total. São Vicente caves deferred as officially closed (https://visitmadeira.com/en/where-to-go/madeira/north-coast/sao-vicente/sao-vicente-caves/); Algar do Carvão closed again 1 November 2026 for visitor centre works (https://www.montanheiros.com/en/algarcarvao/), defer until confirmed reopening. Caldeira Velha distinct thermal precinct 3.5 km from Lagoa do Fogo. Next bounded screen: Madeira Botanical Garden, Porto Santo beach, Curral das Freiras, Funchal historic centre, Gruta das Torres, Faial Caldeira, São Jorge fajãs, and Azores Gorreana tea plantation. One prior unassessed unchanged. Full Python validation pending.
+
+### Pass 85 — Madeira and Azores coastal, botanical, cultural and geological attractions
+
+- [x] PT — Madeira Botanical Garden: 86.40/100 (source-linked-unverified).
+- [x] PT — Porto Santo Golden Sand Beach: 85.85/100 (source-linked-unverified).
+- [x] PT — Curral das Freiras Valley and Eira do Serrado Viewpoint: 87.50/100 (source-linked-unverified).
+- [x] PT — Funchal Historic Centre and Old Town: 86.70/100 (source-linked-unverified).
+- [x] PT — Gruta das Torres Lava Tube: 87.05/100 (source-linked-unverified).
+- [x] PT — Faial Caldeira Nature Reserve: 88.65/100 (source-linked-unverified).
+- [x] PT — São Jorge Fajãs of Santo Cristo and Cubres: 89.45/100 (source-linked-unverified).
+- [x] PT — Gorreana Tea Plantation and Factory Trail: 86.65/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Portugal 80 ranked / 81 total. Gruta das Torres July 2026 resumption notice inspected via indexed excerpt; direct schedule page returned 403, current booking not confirmed. Faial interior guided and regulated; São Jorge two linked fajãs grouped; Porto Santo entire southern beach grouped. Next bounded mainland screen: Castelo de Almourol, Conímbriga Roman ruins, Palácio Nacional de Queluz, Palácio Nacional da Ajuda, Porto Clérigos (scope check), Gaia port wine lodges (scope check), Passadiços do Mondego, and Serra de São Mamede (Raia scope check). One prior unassessed unchanged. Full Python validation pending.
