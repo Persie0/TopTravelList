@@ -441,3 +441,48 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: provisional worldwide V2 assessment of defined visitor scope.
 - Earlier decision: none.
 - Verification still needed: independent coordinate, current condition, claims and access checks.
+
+
+## sight-mf-grand-case-village — Grand Case Historic Fishing Village and Creole Culinary Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/MF/sights/grand-case-village.yaml)
+- Action: new
+- Scope: Village culinary traditions and streets; excludes Rocher Créole marine attraction.
+- Representative coordinates: 18.101, -63.055; approximate, not independently verified.
+- Evidence status: **desk-based provisional; scope source-linked**
+- Sources (search excerpts, 2026-11-27): https://www.lonelyplanet.com/articles/guide-to-st-martin ; https://www.visitstmaarten.com/cosmopolitan-culture/.
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.3 / 8.9 / 8.3.
+- Categories: food:9.3,culture:8.9,relaxation:8.7.
+- Overall: 84.95/100.
+- Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
+- Verification pending: factual/coordinate checks and full Python validation.
+
+
+## sight-mf-baie-rouge — Baie Rouge Beach and Coastal Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/MF/sights/baie-rouge.yaml)
+- Action: new
+- Scope: Distinct western coast beach.
+- Representative coordinates: 18.066, -63.109; approximate, not independently verified.
+- Evidence status: **desk-based provisional; scope source-linked**
+- Sources (search excerpts, 2026-11-27): https://www.visitstmaarten.com/beaches/baie-rouge/.
+- Core I/U/S/E/D: 8.4 / 8.2 / 7.6 / 8.7 / 8.1.
+- Categories: beaches:9.1,photography:8.9,relaxation:9.0.
+- Overall: 82.05/100.
+- Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
+- Verification pending: factual/coordinate checks and full Python validation.
+
+
+## sight-mf-marigot-market — Marigot Historic Market and Harbour Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/MF/sights/marigot-market.yaml)
+- Action: new
+- Scope: Market, streets and waterfront; excludes Fort Louis.
+- Representative coordinates: 18.067, -63.084; approximate, not independently verified.
+- Evidence status: **desk-based provisional; scope source-linked**
+- Sources (search excerpts, 2026-11-27): https://www.lonelyplanet.com/articles/guide-to-st-martin.
+- Core I/U/S/E/D: 8.1 / 8.1 / 8.0 / 8.5 / 8.0.
+- Categories: culture:8.8,food:8.8,photography:8.5.
+- Overall: 81.30/100.
+- Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
+- Verification pending: factual/coordinate checks and full Python validation.

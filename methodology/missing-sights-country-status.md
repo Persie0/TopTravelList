@@ -37,4 +37,10 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 
 | NC | OPEN | 19 total (19 ranked); 8 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |
 
+| BL | DONE — current queue | 10 total (10 ranked); 2 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 0 existing unassessed separate. |
+| MF | DONE — current queue | 13 total (13 ranked); 3 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 0 existing unassessed separate. |
+| WF | DONE — current queue | 15 total (14 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 1 existing unassessed separate. |
+| PM | DONE — current queue | 15 total (15 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 0 existing unassessed separate. |
+| TF | DONE — current queue | 7 total (1 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 6 existing unassessed separate. |
+
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

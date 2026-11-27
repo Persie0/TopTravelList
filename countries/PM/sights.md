@@ -2,7 +2,7 @@
 
 # Saint Pierre and Miquelon (PM) — Sights & attractions ranking
 
-**14 ranked** · **0 unassessed** · **14 total** · Worldwide scoring **v2**
+**15 ranked** · **0 unassessed** · **15 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (14)
+## Complete ranked list (15)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -23,11 +23,12 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 6 | [Pointe Plate lighthouse and Langlade coastal trail](sights/pointe-plate.yaml) | Trail / walk | **82.75** | **Photography 8.8**, **Nature 8.5**, **History 8.4** | 8.5 / 8.2 / 8.3 / 8.1 / 8.0 | [46.811, -56.394](https://www.google.com/maps/search/?api=1&query=46.811,-56.394) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pointe%20Plate%20lighthouse%20and%20Langlade%20coastal%20trail%2C%20Saint%20Pierre%20and%20Miquelon) |
 | 8 | [Anse à Dinand nature trail](sights/anse-dinand.yaml) | Trail / walk | **82.25** | **Nature 8.6**, **Photography 8.5**, **Wildlife 8.2** | 8.3 / 8.1 / 8.1 / 8.4 / 8.3 | [46.768, -56.221](https://www.google.com/maps/search/?api=1&query=46.768,-56.221) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20%C3%A0%20Dinand%20nature%20trail%2C%20Saint%20Pierre%20and%20Miquelon) |
 | 9 | [Anse à Henry coastal trail](sights/anse-henry.yaml) | Trail / walk | **82.00** | **Photography 8.6**, **Nature 8.5**, **Adventure 8.2** | 8.4 / 8.1 / 7.9 / 8.5 / 8.0 | [46.807, -56.177](https://www.google.com/maps/search/?api=1&query=46.807,-56.177) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20%C3%A0%20Henry%20coastal%20trail%2C%20Saint%20Pierre%20and%20Miquelon) |
-| 10 | [Cap au Diable trail and lakes](sights/cap-diable.yaml) | Lake | **81.20** | **Nature 8.5**, **Photography 8.5**, **Adventure 8.3** | 8.3 / 8.0 / 7.9 / 8.2 / 8.2 | [46.802, -56.215](https://www.google.com/maps/search/?api=1&query=46.802,-56.215) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cap%20au%20Diable%20trail%20and%20lakes%2C%20Saint%20Pierre%20and%20Miquelon) |
-| 10 | [L’Arche Museum and Archives](sights/arche.yaml) | Museum / heritage | **81.20** | **History 8.8**, **Culture 8.6** | 7.6 / 8.3 / 8.7 / 8.1 / 8.1 | [46.78, -56.175](https://www.google.com/maps/search/?api=1&query=46.78,-56.175) | [Google Maps](https://www.google.com/maps/search/?api=1&query=L%E2%80%99Arche%20Museum%20and%20Archives%2C%20Saint%20Pierre%20and%20Miquelon) |
-| 12 | [Miquelon Museum and historic cemetery](sights/miquelon-museum.yaml) | Museum / heritage | **80.75** | **History 8.7**, **Culture 8.6** | 7.7 / 8.3 / 8.5 / 8.0 / 7.9 | [47.102, -56.378](https://www.google.com/maps/search/?api=1&query=47.102,-56.378) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Miquelon%20Museum%20and%20historic%20cemetery%2C%20Saint%20Pierre%20and%20Miquelon) |
-| 13 | [Anse de Belliveau coastal loop](sights/belliveau.yaml) | Coast | **79.90** | **Photography 8.4**, **Nature 8.3**, **Adventure 8.1** | 8.2 / 7.9 / 7.7 / 8.1 / 8.0 | [47.059, -56.31](https://www.google.com/maps/search/?api=1&query=47.059,-56.31) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20de%20Belliveau%20coastal%20loop%2C%20Saint%20Pierre%20and%20Miquelon) |
-| 14 | [Maison de la Nature et de l’Environnement (Miquelon)](sights/nature-center.yaml) | Attraction | **79.75** | **Nature 8.5**, **Family 8.4** | 7.6 / 8.0 / 8.3 / 8.3 / 7.9 | [47.104, -56.379](https://www.google.com/maps/search/?api=1&query=47.104,-56.379) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maison%20de%20la%20Nature%20et%20de%20l%E2%80%99Environnement%20%28Miquelon%29%2C%20Saint%20Pierre%20and%20Miquelon) |
+| 10 | [Saint-Pierre Cathedral and Historic Central Streets](sights/saint-pierre-cathedral.yaml) | Religious site | **81.50** | **Architecture 8.8**, **History 8.7**, **Culture 8.6** | 8.0 / 8.1 / 8.4 / 8.3 / 8.0 | [46.779, -56.176](https://www.google.com/maps/search/?api=1&query=46.779,-56.176) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Saint-Pierre%20Cathedral%20and%20Historic%20Central%20Streets%2C%20Saint%20Pierre%20and%20Miquelon) |
+| 11 | [Cap au Diable trail and lakes](sights/cap-diable.yaml) | Lake | **81.20** | **Nature 8.5**, **Photography 8.5**, **Adventure 8.3** | 8.3 / 8.0 / 7.9 / 8.2 / 8.2 | [46.802, -56.215](https://www.google.com/maps/search/?api=1&query=46.802,-56.215) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cap%20au%20Diable%20trail%20and%20lakes%2C%20Saint%20Pierre%20and%20Miquelon) |
+| 11 | [L’Arche Museum and Archives](sights/arche.yaml) | Museum / heritage | **81.20** | **History 8.8**, **Culture 8.6** | 7.6 / 8.3 / 8.7 / 8.1 / 8.1 | [46.78, -56.175](https://www.google.com/maps/search/?api=1&query=46.78,-56.175) | [Google Maps](https://www.google.com/maps/search/?api=1&query=L%E2%80%99Arche%20Museum%20and%20Archives%2C%20Saint%20Pierre%20and%20Miquelon) |
+| 13 | [Miquelon Museum and historic cemetery](sights/miquelon-museum.yaml) | Museum / heritage | **80.75** | **History 8.7**, **Culture 8.6** | 7.7 / 8.3 / 8.5 / 8.0 / 7.9 | [47.102, -56.378](https://www.google.com/maps/search/?api=1&query=47.102,-56.378) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Miquelon%20Museum%20and%20historic%20cemetery%2C%20Saint%20Pierre%20and%20Miquelon) |
+| 14 | [Anse de Belliveau coastal loop](sights/belliveau.yaml) | Coast | **79.90** | **Photography 8.4**, **Nature 8.3**, **Adventure 8.1** | 8.2 / 7.9 / 7.7 / 8.1 / 8.0 | [47.059, -56.31](https://www.google.com/maps/search/?api=1&query=47.059,-56.31) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Anse%20de%20Belliveau%20coastal%20loop%2C%20Saint%20Pierre%20and%20Miquelon) |
+| 15 | [Maison de la Nature et de l’Environnement (Miquelon)](sights/nature-center.yaml) | Attraction | **79.75** | **Nature 8.5**, **Family 8.4** | 7.6 / 8.0 / 8.3 / 8.3 / 7.9 | [47.104, -56.379](https://www.google.com/maps/search/?api=1&query=47.104,-56.379) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Maison%20de%20la%20Nature%20et%20de%20l%E2%80%99Environnement%20%28Miquelon%29%2C%20Saint%20Pierre%20and%20Miquelon) |
 
 ---
 

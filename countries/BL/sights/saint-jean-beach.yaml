@@ -1,0 +1,16 @@
+id: sight-bl-saint-jean-beach
+name: "Saint-Jean Bay Beach and Coastal Recreation"
+location:
+  country_code: BL
+  latitude: 17.904
+  longitude: -62.837
+scores:
+  impact: 8.4
+  uniqueness: 8.1
+  significance: 7.5
+  experience: 8.8
+  depth: 8.1
+  categories:
+    beaches: 9.1
+    relaxation: 9.1
+    photography: 8.8

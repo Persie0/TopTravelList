@@ -2,7 +2,7 @@
 
 # French Southern Territories (TF) — Sights & attractions ranking
 
-**0 ranked** · **6 unassessed** · **6 total** · Worldwide scoring **v2**
+**1 ranked** · **6 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,11 +10,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (0)
+## Complete ranked list (1)
 
-No sights & attractions have been assessed for **French Southern Territories** yet.
-
-Add destination YAML files in [sights/](sights/), then regenerate the overview files.
+| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
+| ---: | --- | --- | ---: | --- | --- | --- | --- |
+| 1 | [Port Jeanne d’Arc Kerguelen Historic Whaling Station](sights/port-jeanne-arc.yaml) | Attraction | **87.10** | **History 9.3**, **Culture 9.0**, **Photography 8.8** | 8.5 / 9.2 / 8.9 / 8.2 / 8.5 | [-49.5544, 69.8228](https://www.google.com/maps/search/?api=1&query=-49.5544,69.8228) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Jeanne%20d%E2%80%99Arc%20Kerguelen%20Historic%20Whaling%20Station%2C%20French%20Southern%20Territories) |
 
 ## Not yet fully assessed (6)
 

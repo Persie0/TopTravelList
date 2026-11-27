@@ -617,3 +617,18 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Provisional worldwide V2 assessment of defined visitor scope.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent material claims, numerical peer calibration and current access.
+
+
+## sight-pm-saint-pierre-cathedral — Saint-Pierre Cathedral and Historic Central Streets — 2026-11-27
+
+- YAML: [source](../../../countries/PM/sights/saint-pierre-cathedral.yaml)
+- Action: new
+- Scope: Cathedral and surrounding streets; excludes museum collections and Pointe aux Canons waterfront.
+- Representative coordinates: 46.779, -56.176; approximate, not independently verified.
+- Evidence status: **desk-based provisional; scope source-linked**
+- Sources (search excerpts, 2026-11-27): https://pop.culture.gouv.fr/notice/merimee/PA97500014.
+- Core I/U/S/E/D: 8.0 / 8.1 / 8.4 / 8.3 / 8.0.
+- Categories: architecture:8.8,history:8.7,culture:8.6.
+- Overall: 81.50/100.
+- Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
+- Verification pending: factual/coordinate checks and full Python validation.

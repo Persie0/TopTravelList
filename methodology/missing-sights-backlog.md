@@ -2573,3 +2573,19 @@ Next: Remaining overseas coverage, especially New Caledonia, French Polynesia re
 24 additions, 17 desk-based provisional, 7 source-informed, 4 90+, 28 numerical peer comparisons. Existing FR and prior scores unchanged. Trois Cocotiers starts at Opunohu viewpoint, so deferred rather than duplicate its landscape; Upi Bay deferred for Oro/UNESCO lagoon overlap. Deva scoped to terrestrial trails. Austral island lagoons and whale experience independently scoped. Existing Marquesas UNESCO components not duplicated. Other existing umbrella/child overlaps retained for follow-up. Mayotte MuMa unassessed remains separate. No arbitrary target of 30: 24 concrete additions.
 NC: 19 total (19 ranked, 0 unassessed), +8; PF: 25 total (25 ranked, 0 unassessed), +7; GP: 20 total (20 ranked, 0 unassessed), +4; MQ: 21 total (21 ranked, 0 unassessed), +4; YT: 13 total (12 ranked, 1 unassessed), +1.
 Next: Remaining overseas territorial queues: NC and PF high-value residuals, smaller BL/MF/PM/WF/TF and FR national residual review. Reassess access-dependent unranked entries separately.
+
+
+### Pass 168 — small French overseas territory priority screen
+
+- [x] BL — Gustavia Historic Harbour and Swedish-Era Heritage Museums: 84.95/100 (desk-based provisional; scope source-linked).
+- [x] BL — Saint-Jean Bay Beach and Coastal Recreation: 81.75/100 (desk-based provisional; scope source-linked).
+- [x] MF — Grand Case Historic Fishing Village and Creole Culinary Heritage: 84.95/100 (desk-based provisional; scope source-linked).
+- [x] MF — Baie Rouge Beach and Coastal Landscape: 82.05/100 (desk-based provisional; scope source-linked).
+- [x] MF — Marigot Historic Market and Harbour Heritage: 81.30/100 (desk-based provisional; scope source-linked).
+- [x] WF — Tonga Toto Archaeological Fort and Lake Lanutavake: 86.35/100 (desk-based provisional; scope source-linked).
+- [x] PM — Saint-Pierre Cathedral and Historic Central Streets: 81.50/100 (desk-based provisional; scope source-linked).
+- [x] TF — Port Jeanne d’Arc Kerguelen Historic Whaling Station: 87.10/100 (desk-based provisional; scope source-linked).
+
+8 additions, all desk-based provisional below 90 with scope sources; no new numerical peer comparisons. Small-territory priority screen only, no filler. TAAF administration confirms Crozet, Kerguelen, Saint-Paul and Amsterdam covered by existing Austral Lands and Seas UNESCO natural property; Port Jeanne d’Arc independently scoped as cultural industrial archaeology; access strictly regulated, no visit assumed. PM Mirande/Belliveau and Télégraphe/Cap au Diable overlap existing trail circuits and were not added. Tonga Toto separate from Talietumu, representative lake coordinate flagged. Existing unassessed remain separate. FR unchanged. Reopen on concrete major omissions.
+BL: 10 total (10 ranked, 0 unassessed), +2; MF: 13 total (13 ranked, 0 unassessed), +3; WF: 15 total (14 ranked, 1 unassessed), +1; PM: 15 total (15 ranked, 0 unassessed), +1; TF: 7 total (1 ranked, 6 unassessed), +1.
+Next: Return to mainland FR residual high-value coverage and overseas follow-up; resolve access-dependent unassessed in separate rating workflow.

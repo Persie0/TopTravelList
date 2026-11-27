@@ -168,7 +168,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [France](countries/FR/) (`FR`) | [25](countries/FR/cities.md) | [996](countries/FR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=France) |
 | [French Guiana](countries/GF/) (`GF`) | [4](countries/GF/cities.md) | [14](countries/GF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Guiana) |
 | [French Polynesia](countries/PF/) (`PF`) | [5](countries/PF/cities.md) | [25](countries/PF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Polynesia) |
-| [French Southern Territories](countries/TF/) (`TF`) | [0](countries/TF/cities.md) | [6](countries/TF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Southern%20Territories) |
+| [French Southern Territories](countries/TF/) (`TF`) | [0](countries/TF/cities.md) | [7](countries/TF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Southern%20Territories) |
 | [Gabon](countries/GA/) (`GA`) | [14](countries/GA/cities.md) | [32](countries/GA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gabon) |
 | [Gambia](countries/GM/) (`GM`) | [16](countries/GM/cities.md) | [31](countries/GM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gambia) |
 | [Georgia](countries/GE/) (`GE`) | [14](countries/GE/cities.md) | [38](countries/GE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Georgia) |
@@ -273,12 +273,12 @@ Every registered country has a linked folder below. The status is determined fro
 | [Russia](countries/RU/) (`RU`) | [20](countries/RU/cities.md) | [43](countries/RU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Russia) |
 | [Rwanda](countries/RW/) (`RW`) | [18](countries/RW/cities.md) | [47](countries/RW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Rwanda) |
 | [Réunion](countries/RE/) (`RE`) | [5](countries/RE/cities.md) | [16](countries/RE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=R%C3%A9union) |
-| [Saint Barthélemy](countries/BL/) (`BL`) | [2](countries/BL/cities.md) | [8](countries/BL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Barth%C3%A9lemy) |
+| [Saint Barthélemy](countries/BL/) (`BL`) | [2](countries/BL/cities.md) | [10](countries/BL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Barth%C3%A9lemy) |
 | [Saint Helena, Ascension and Tristan da Cunha](countries/SH/) (`SH`) | [4](countries/SH/cities.md) | [14](countries/SH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Helena%2C%20Ascension%20and%20Tristan%20da%20Cunha) |
 | [Saint Kitts and Nevis](countries/KN/) (`KN`) | [11](countries/KN/cities.md) | [30](countries/KN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Kitts%20and%20Nevis) |
 | [Saint Lucia](countries/LC/) (`LC`) | [12](countries/LC/cities.md) | [27](countries/LC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Lucia) |
-| [Saint Martin (French part)](countries/MF/) (`MF`) | [2](countries/MF/cities.md) | [10](countries/MF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Martin%20%28French%20part%29) |
-| [Saint Pierre and Miquelon](countries/PM/) (`PM`) | [2](countries/PM/cities.md) | [14](countries/PM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Pierre%20and%20Miquelon) |
+| [Saint Martin (French part)](countries/MF/) (`MF`) | [2](countries/MF/cities.md) | [13](countries/MF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Martin%20%28French%20part%29) |
+| [Saint Pierre and Miquelon](countries/PM/) (`PM`) | [2](countries/PM/cities.md) | [15](countries/PM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Pierre%20and%20Miquelon) |
 | [Saint Vincent and the Grenadines](countries/VC/) (`VC`) | [13](countries/VC/cities.md) | [51](countries/VC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Saint%20Vincent%20and%20the%20Grenadines) |
 | [Samoa](countries/WS/) (`WS`) | [6](countries/WS/cities.md) | [22](countries/WS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Samoa) |
 | [San Marino](countries/SM/) (`SM`) | [14](countries/SM/cities.md) | [25](countries/SM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=San%20Marino) |
@@ -334,7 +334,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Vietnam](countries/VN/) (`VN`) | [140](countries/VN/cities.md) | [360](countries/VN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Vietnam) |
 | [Virgin Islands, British](countries/VG/) (`VG`) | [3](countries/VG/cities.md) | [10](countries/VG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Virgin%20Islands%2C%20British) |
 | [Virgin Islands, U.S.](countries/VI/) (`VI`) | [4](countries/VI/cities.md) | [11](countries/VI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Virgin%20Islands%2C%20U.S.) |
-| [Wallis and Futuna](countries/WF/) (`WF`) | [4](countries/WF/cities.md) | [14](countries/WF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Wallis%20and%20Futuna) |
+| [Wallis and Futuna](countries/WF/) (`WF`) | [4](countries/WF/cities.md) | [15](countries/WF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Wallis%20and%20Futuna) |
 | [Western Sahara](countries/EH/) (`EH`) | [4](countries/EH/cities.md) | [5](countries/EH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Western%20Sahara) |
 | [Yemen](countries/YE/) (`YE`) | [10](countries/YE/cities.md) | [34](countries/YE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Yemen) |
 | [Zambia](countries/ZM/) (`ZM`) | [5](countries/ZM/cities.md) | [20](countries/ZM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Zambia) |
