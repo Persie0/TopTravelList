@@ -2122,3 +2122,363 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 239 scope decisions
 
 18 additions, 11 source-linked provisional, 7 desk-based provisional, 9 90+, 36 domestic ranking-row comparisons. BR 100 ranked / 103 total. Brazil selected for low baseline (85) and major missing public cultural events. Rio, Salvador and Recife/Olinda separate traditions, latter grouped; permanent historic centres not duplicated. Parintins distinct from Maranhão Bumba-meu-boi; Jalapão regional circuit grouped; Marajó limited to eastern visitor circuit. PETAR deferred pending Atlantic Forest South-East Reserves parent-scope review. Existing scores and three unassessed retained. Coordinates approximate, current access and future event dates unverified. Regional discovery queue open; independent validation and international anchor calibration pending.
+
+## sight-br-sao-paulo-biennial — São Paulo Biennial Contemporary Art Exhibition — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/sao-paulo-biennial.yaml)
+- Action: new
+- Scope: Recurring contemporary art exhibition established in 1951, second oldest art biennial according to Biennial Foundation. Excludes Ibirapuera scenery and permanent museums.
+- Representative coordinates: -23.587, -46.655; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.2 / 9.3.
+- Categories: culture:9.4 architecture:9.2 photography:9.2.
+- Overall: 92.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bienal.org.br/en/about-us/, https://biennialfoundation.org/biennials/sao-paolo-biennial/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/pinacoteca-sao-paulo](../../../countries/BR/sights/pinacoteca-sao-paulo.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.3 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [BR/inhotim-institute](../../../countries/BR/sights/inhotim-institute.yaml) | 9.1 / 9.4 / 8.8 / 9.0 / 9.3 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/tiff](../../../countries/CA/sights/tiff.yaml) | 9.1 / 9.2 / 9.2 / 9.1 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/remai-modern](../../../countries/CA/sights/remai-modern.yaml) | 8.9 / 9.2 / 9.2 / 9.0 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-southern-right-whales — Santa Catarina Southern Right Whale Shore Watching Imbituba and Garopaba — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/southern-right-whales.yaml)
+- Action: new
+- Scope: Seasonal shore observation, July–November per IWC handbook; group Imbituba, Garopaba and Laguna; separate from Abrolhos humpbacks. No guaranteed sightings.
+- Representative coordinates: -28.13, -48.65; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.1 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://wwhandbook.iwc.int/en/country-profiles/brazil, https://baleiafranca.org.br/a-baleia/turismo-de-observacao/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/abrolhos-marine-national-park](../../../countries/BR/sights/abrolhos-marine-national-park.yaml) | 8.9 / 9.1 / 9.1 / 8.3 / 8.0 | impact: +0.3 vs peer; uniqueness: +0.1 vs peer |
+| [BR/pantanal-brazilian-wildlife-routes](../../../countries/BR/sights/pantanal-brazilian-wildlife-routes.yaml) | 9.3 / 9.4 / 9.2 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+| [CA/grand-manan-whales](../../../countries/CA/sights/grand-manan-whales.yaml) | 8.9 / 8.9 / 8.8 / 9.0 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [CA/saguenay-whales](../../../countries/CA/sights/saguenay-whales.yaml) | 9.2 / 9.1 / 9.1 / 9.2 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-chapada-das-mesas — Chapada das Mesas Maranhão Waterfall and Tableland Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/chapada-das-mesas.yaml)
+- Action: new
+- Scope: National park and regional authorized visitor circuit grouped, including São Romão, Prata, Pedra Caída and Riachão springs; no duplicate waterfall entries.
+- Representative coordinates: -7.2, -47.35; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.9 / 9.3 / 9.1.
+- Categories: nature:9.4 photography:9.4 adventure:9.4.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://turismo.ma.gov.br/programas-ou-campanhas/chapada-das-mesas, https://www.gov.br/turismo/pt-br/assuntos/noticias/cerrado-brasileiro-destinos-que-revelam-a-riqueza-do-berco-das-aguas/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/chapada-diamantina-national-park](../../../countries/BR/sights/chapada-diamantina-national-park.yaml) | 9.4 / 9.1 / 8.7 / 9.0 / 9.4 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+| [BR/jalapao](../../../countries/BR/sights/jalapao.yaml) | 9.3 / 9.4 / 8.9 / 9.3 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+| [CA/wells-gray](../../../countries/CA/sights/wells-gray.yaml) | 9.2 / 9.0 / 8.9 / 9.2 / 9.3 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [CA/tumbler-ridge-geopark](../../../countries/CA/sights/tumbler-ridge-geopark.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.3 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-museu-lingua-portuguesa — Museum of the Portuguese Language São Paulo — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/museu-lingua-portuguesa.yaml)
+- Action: new
+- Scope: Dedicated language museum with 14-module historical exhibition on origins, expansion and Brazilian linguistic development; excludes adjacent Pinacoteca.
+- Representative coordinates: -23.535, -46.634; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.4 family:9.2.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://acervo.museudalinguaportuguesa.org.br/exposicoes/portugues-do-brasil, https://www.museudalinguaportuguesa.org.br/acervo-digital-do-museu/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/pinacoteca-sao-paulo](../../../countries/BR/sights/pinacoteca-sao-paulo.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.3 | impact: +0.0 vs peer; uniqueness: +0.3 vs peer |
+| [BR/museu-afro-brasil](../../../countries/BR/sights/museu-afro-brasil.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+| [CA/bata-shoe-museum](../../../countries/CA/sights/bata-shoe-museum.yaml) | 8.8 / 9.4 / 9.2 / 8.9 / 9.2 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/studio-bell](../../../countries/CA/sights/studio-bell.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-alter-do-chao — Alter do Chão Tapajós Freshwater Beaches and Forest Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/alter-do-chao.yaml)
+- Action: new
+- Scope: Seasonal freshwater sandbanks and public river excursions near Alter do Chão, distinct from Manaus and central Amazon UNESCO property. Seasonal water levels affect beach exposure.
+- Representative coordinates: -2.5, -54.95; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.7 / 9.2 / 9.1.
+- Categories: beaches:9.4 nature:9.4 photography:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.visitbrasil.com/en/location/alter-do-chao/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/lencois-maranhenses-national-park](../../../countries/BR/sights/lencois-maranhenses-national-park.yaml) | 9.8 / 9.8 / 9.4 / 9.1 / 9.2 | impact: -0.7 vs peer; uniqueness: -0.6 vs peer |
+| [BR/meeting-of-the-waters-manaus](../../../countries/BR/sights/meeting-of-the-waters-manaus.yaml) | 8.8 / 9.4 / 8.3 / 8.5 / 6.6 | impact: +0.3 vs peer; uniqueness: -0.2 vs peer |
+| [CA/magdalen-islands](../../../countries/CA/sights/magdalen-islands.yaml) | 9.1 / 9.0 / 8.8 / 9.1 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+| [CA/desolation-sound](../../../countries/CA/sights/desolation-sound.yaml) | 9.1 / 9.0 / 8.7 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-alcatrazes-archipelago — Alcatrazes Archipelago Wildlife Refuge Authorized Marine Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/alcatrazes-archipelago.yaml)
+- Action: new
+- Scope: Authorized offshore boat and diving experiences only; Ilhabela municipality reports major frigatebird colony and over 10,000 seabirds using islands. No landing or coral health assurance.
+- Representative coordinates: -24.1, -45.7; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 8.9 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.3.
+- Overall: 90.55/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/refugio-de-alcatrazes/informacoes-sobre-visitacao-2013-refugio-de-alcatrazes, https://www.ilhabela.sp.gov.br/portal/noticias/0/3/18243/bird-week-atrai-44-mil-pessoas-e-fortalece-o-turismo-de-natureza-em-ilhabela.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/abrolhos-marine-national-park](../../../countries/BR/sights/abrolhos-marine-national-park.yaml) | 8.9 / 9.1 / 9.1 / 8.3 / 8.0 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [BR/fernando-de-noronha-authorized-island-visitor-sites](../../../countries/BR/sights/fernando-de-noronha-authorized-island-visitor-sites.yaml) | 9.4 / 9.3 / 9.1 / 9.1 / 8.9 | impact: -0.4 vs peer; uniqueness: -0.1 vs peer |
+| [CA/witless-bay](../../../countries/CA/sights/witless-bay.yaml) | 9.3 / 9.3 / 9.2 / 9.1 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [CA/fathom-five](../../../countries/CA/sights/fathom-five.yaml) | 9.0 / 9.1 / 9.0 / 9.1 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-museu-ipiranga — Museu do Ipiranga São Paulo History Museum and Monument Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/museu-ipiranga.yaml)
+- Action: new
+- Scope: Public Museu Paulista history and material culture exhibits and associated gardens.
+- Representative coordinates: -23.585, -46.609; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 9.3 / 9.0 / 9.0.
+- Categories: history:9.4 architecture:9.3 culture:9.3.
+- Overall: 89.80/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://visite.museus.gov.br/instituicoes/museu-do-ipiranga/, https://www.sp.gov.br/sp/conheca-sp/museus.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/imperial-museum-petropolis](../../../countries/BR/sights/imperial-museum-petropolis.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+| [BR/pinacoteca-sao-paulo](../../../countries/BR/sights/pinacoteca-sao-paulo.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.3 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-boca-da-onca — Boca da Onça Bodoquena Waterfall Trail — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/boca-da-onca.yaml)
+- Action: new
+- Scope: Separate 156 m waterfall trail; excludes Bonito snorkeling and caves; private authorized route.
+- Representative coordinates: -20.78, -56.71; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 9.0 / 8.8.
+- Categories: nature:9.4 adventure:9.3 photography:9.3.
+- Overall: 88.20/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bodoquena.ms.gov.br/turismo/descubra-bodoquena/passeios/cachoeira/cachoeira-boca-da-onca.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/rio-da-prata-snorkeling-jardim](../../../countries/BR/sights/rio-da-prata-snorkeling-jardim.yaml) | 9.0 / 9.2 / 7.9 / 9.2 / 7.5 | impact: -0.1 vs peer; uniqueness: -0.4 vs peer |
+| [BR/cachoeira-da-fumaca](../../../countries/BR/sights/cachoeira-da-fumaca.yaml) | 9.2 / 9.0 / 7.7 / 8.5 / 7.5 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-pipa-coast — Pipa Coastal Cliffs Beaches and Dolphin Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/pipa-coast.yaml)
+- Action: new
+- Scope: Grouped coastal beaches and cliff trails, including shore dolphin observation; no guaranteed sightings.
+- Representative coordinates: -6.23, -35.05; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 9.0 / 8.7.
+- Categories: beaches:9.4 nature:9.3 wildlife:9.2.
+- Overall: 87.70/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.visitbrasil.com/en/location/pipa-en/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/jericoacoara-national-park](../../../countries/BR/sights/jericoacoara-national-park.yaml) | 8.7 / 8.6 / 7.7 / 8.8 / 8.4 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [BR/praia-dos-carneiros](../../../countries/BR/sights/praia-dos-carneiros.yaml) | 8.7 / 8.3 / 6.3 / 8.9 / 7.3 | impact: +0.2 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-caparao-national-park — Caparaó National Park Pico da Bandeira Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/caparao-national-park.yaml)
+- Action: new
+- Scope: Mountain park trails and summit landscapes grouped.
+- Representative coordinates: -20.44, -41.8; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.8 / 8.9 / 8.9.
+- Categories: nature:9.4 adventure:9.3 photography:9.3.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/itatiaia](../../../countries/BR/sights/itatiaia.yaml) | 8.9 / 8.8 / 8.9 / 8.9 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/serra-dos-orgaos](../../../countries/BR/sights/serra-dos-orgaos.yaml) | 8.9 / 8.8 / 8.6 / 9.0 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-genipabu — Genipabu Dunes and Coastal Lagoon Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/genipabu.yaml)
+- Action: new
+- Scope: Grouped dune and coastal lagoon scenery and regulated recreation.
+- Representative coordinates: -5.7, -35.2; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.3 / 8.9 / 8.5.
+- Categories: nature:9.3 adventure:9.3 photography:9.3.
+- Overall: 86.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/jericoacoara-national-park](../../../countries/BR/sights/jericoacoara-national-park.yaml) | 8.7 / 8.6 / 7.7 / 8.8 / 8.4 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [BR/jalapao](../../../countries/BR/sights/jalapao.yaml) | 9.3 / 9.4 / 8.9 / 9.3 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-lagoa-do-paraiso — Lagoa do Paraíso Jijoca de Jericoacoara Freshwater Lagoon — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/lagoa-do-paraiso.yaml)
+- Action: new
+- Scope: Inland freshwater lagoon outside coastal national park; no beach duplication.
+- Representative coordinates: -2.86, -40.49; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.3 / 8.9 / 8.5.
+- Categories: relaxation:9.4 nature:9.3 photography:9.2.
+- Overall: 86.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/jericoacoara-national-park](../../../countries/BR/sights/jericoacoara-national-park.yaml) | 8.7 / 8.6 / 7.7 / 8.8 / 8.4 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [BR/porto-de-galinhas-natural-pools](../../../countries/BR/sights/porto-de-galinhas-natural-pools.yaml) | 8.5 / 8.3 / 6.7 / 8.6 / 7.3 | impact: +0.2 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-museu-oscar-niemeyer — Oscar Niemeyer Museum Curitiba — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/museu-oscar-niemeyer.yaml)
+- Action: new
+- Scope: Distinct art and architecture museum; separate from Brasília and Pampulha.
+- Representative coordinates: -25.41, -49.267; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.9 / 9.0.
+- Categories: architecture:9.4 culture:9.3 photography:9.3.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/pampulha-modern-ensemble](../../../countries/BR/sights/pampulha-modern-ensemble.yaml) | 8.2 / 9.0 / 9.3 / 8.3 / 7.9 | impact: +0.6 vs peer; uniqueness: -0.2 vs peer |
+| [BR/sao-paulo-museum-of-art-masp](../../../countries/BR/sights/sao-paulo-museum-of-art-masp.yaml) | 8.5 / 8.9 / 9.2 / 8.7 / 8.4 | impact: +0.3 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-museu-futebol — Football Museum São Paulo Pacaembu — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/museu-futebol.yaml)
+- Action: new
+- Scope: Football culture museum; excludes live matches and stadium events.
+- Representative coordinates: -23.548, -46.665; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 9.0 / 8.9.
+- Categories: culture:9.4 history:9.3 family:9.2.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/maracana-stadium](../../../countries/BR/sights/maracana-stadium.yaml) | 8.3 / 8.7 / 9.2 / 8.4 / 7.3 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [BR/museu-afro-brasil](../../../countries/BR/sights/museu-afro-brasil.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 9.0 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-ilha-bela — Ilhabela State Park Waterfall Trails and Atlantic Forest — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/ilha-bela.yaml)
+- Action: new
+- Scope: Land-based island forest trails and waterfalls, excludes offshore Alcatrazes excursions.
+- Representative coordinates: -23.83, -45.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.6 / 8.9 / 8.9.
+- Categories: nature:9.3 adventure:9.3 photography:9.3.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/ilha-grande-authorized-island-trails-and-beaches](../../../countries/BR/sights/ilha-grande-authorized-island-trails-and-beaches.yaml) | 9.0 / 8.7 / 8.5 / 8.9 / 8.8 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+| [BR/serra-dos-orgaos](../../../countries/BR/sights/serra-dos-orgaos.yaml) | 8.9 / 8.8 / 8.6 / 9.0 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-br-morro-de-sao-paulo — Morro de São Paulo Tinharé Island Beaches and Village — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/morro-de-sao-paulo.yaml)
+- Action: new
+- Scope: Village and connected public beaches, separate from Salvador and Discovery Coast reserves.
+- Representative coordinates: -13.38, -38.91; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.4 / 9.0 / 8.7.
+- Categories: beaches:9.4 relaxation:9.3 photography:9.3.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/praia-dos-carneiros](../../../countries/BR/sights/praia-dos-carneiros.yaml) | 8.7 / 8.3 / 6.3 / 8.9 / 7.3 | impact: +0.1 vs peer; uniqueness: +0.4 vs peer |
+| [BR/porto-de-galinhas-natural-pools](../../../countries/BR/sights/porto-de-galinhas-natural-pools.yaml) | 8.5 / 8.3 / 6.7 / 8.6 / 7.3 | impact: +0.3 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 240 scope decisions
+
+16 additions, 9 source-linked provisional, 7 desk-based provisional, 6 90+, 44 ranking-row comparisons (12 international). BR 116 ranked / 119 total. Chapada das Mesas regional circuit grouped; whale watching shore-based only, separate from Abrolhos; Biennial excludes Ibirapuera scenery and permanent museums; Alcatrazes authorized offshore scope, Ilhabela land-based. Serra da Bocaina deferred as Paraty UNESCO component (https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/mata-atlantica/lista-de-ucs/parna-da-serra-da-bocaina/guia-do); Serra das Confusões deferred pending Caatinga serial scope check; PETAR earlier deferral retained. Existing scores and three unassessed retained. Coordinates approximate; access and schedules unverified. Brazil queue open.

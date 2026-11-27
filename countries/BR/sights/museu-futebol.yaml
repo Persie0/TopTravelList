@@ -1,0 +1,16 @@
+id: sight-br-museu-futebol
+name: "Football Museum São Paulo Pacaembu"
+location:
+  country_code: BR
+  latitude: -23.548
+  longitude: -46.665
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.4
+    history: 9.3
+    family: 9.2

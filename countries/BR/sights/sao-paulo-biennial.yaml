@@ -1,0 +1,16 @@
+id: sight-br-sao-paulo-biennial
+name: "São Paulo Biennial Contemporary Art Exhibition"
+location:
+  country_code: BR
+  latitude: -23.587
+  longitude: -46.655
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    architecture: 9.2
+    photography: 9.2

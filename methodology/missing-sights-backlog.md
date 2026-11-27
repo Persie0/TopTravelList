@@ -4225,3 +4225,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Beto Carrero World Penha Theme Park: 86.55/100 (desk-based provisional).
 
 18 additions, 11 source-linked provisional, 7 desk-based provisional, 9 90+, 36 domestic ranking-row comparisons. BR 100 ranked / 103 total. Brazil selected for low baseline (85) and major missing public cultural events. Rio, Salvador and Recife/Olinda separate traditions, latter grouped; permanent historic centres not duplicated. Parintins distinct from Maranhão Bumba-meu-boi; Jalapão regional circuit grouped; Marajó limited to eastern visitor circuit. PETAR deferred pending Atlantic Forest South-East Reserves parent-scope review. Existing scores and three unassessed retained. Coordinates approximate, current access and future event dates unverified. Regional discovery queue open; independent validation and international anchor calibration pending.
+
+### Pass 240 — Brazil coastal nature, art and regional wilderness
+
+- [x] BR — São Paulo Biennial Contemporary Art Exhibition: 92.75/100 (source-linked-unverified).
+- [x] BR — Santa Catarina Southern Right Whale Shore Watching Imbituba and Garopaba: 91.45/100 (source-linked-unverified).
+- [x] BR — Chapada das Mesas Maranhão Waterfall and Tableland Circuit: 91.20/100 (source-linked-unverified).
+- [x] BR — Museum of the Portuguese Language São Paulo: 91.30/100 (source-linked-unverified).
+- [x] BR — Alter do Chão Tapajós Freshwater Beaches and Forest Excursions: 90.60/100 (source-linked-unverified).
+- [x] BR — Alcatrazes Archipelago Wildlife Refuge Authorized Marine Excursions: 90.55/100 (source-linked-unverified).
+- [x] BR — Museu do Ipiranga São Paulo History Museum and Monument Gardens: 89.80/100 (source-linked-unverified).
+- [x] BR — Boca da Onça Bodoquena Waterfall Trail: 88.20/100 (source-linked-unverified).
+- [x] BR — Pipa Coastal Cliffs Beaches and Dolphin Viewpoints: 87.70/100 (source-linked-unverified).
+- [x] BR — Caparaó National Park Pico da Bandeira Hiking: 88.00/100 (desk-based provisional).
+- [x] BR — Genipabu Dunes and Coastal Lagoon Circuit: 86.60/100 (desk-based provisional).
+- [x] BR — Lagoa do Paraíso Jijoca de Jericoacoara Freshwater Lagoon: 86.05/100 (desk-based provisional).
+- [x] BR — Oscar Niemeyer Museum Curitiba: 88.55/100 (desk-based provisional).
+- [x] BR — Football Museum São Paulo Pacaembu: 88.55/100 (desk-based provisional).
+- [x] BR — Ilhabela State Park Waterfall Trails and Atlantic Forest: 87.60/100 (desk-based provisional).
+- [x] BR — Morro de São Paulo Tinharé Island Beaches and Village: 87.15/100 (desk-based provisional).
+
+16 additions, 9 source-linked provisional, 7 desk-based provisional, 6 90+, 44 ranking-row comparisons (12 international). BR 116 ranked / 119 total. Chapada das Mesas regional circuit grouped; whale watching shore-based only, separate from Abrolhos; Biennial excludes Ibirapuera scenery and permanent museums; Alcatrazes authorized offshore scope, Ilhabela land-based. Serra da Bocaina deferred as Paraty UNESCO component (https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/mata-atlantica/lista-de-ucs/parna-da-serra-da-bocaina/guia-do); Serra das Confusões deferred pending Caatinga serial scope check; PETAR earlier deferral retained. Existing scores and three unassessed retained. Coordinates approximate; access and schedules unverified. Brazil queue open.
