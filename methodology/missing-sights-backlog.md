@@ -1250,3 +1250,15 @@ Six additions, 24 peer rows. Türkiye 119 ranked / 119 total. Yazılıkaya expli
 - [x] TR — Odunpazarı Historic District Eskişehir: 87.15/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Türkiye 126 ranked / 126 total. Divriği mosque and hospital already jointly represented (https://whc.unesco.org/en/list/358); no duplicate. Ballıca and Dim separate show caves; Cennet and Cehennem grouped; Anemurium separate from Mamure; Amasya tentative ensemble grouped; Odunpazarı historic district excludes independent modern collections. Next bounded screen: Alacahöyük, Kültepe Kaniş-Karum, Aizanoi, Gümüşler Monastery, Alahan Monastery, Kanlıdivane, and Odunpazarı Modern Museum (independent collection check). Earlier Ihlara and Antalya museum deferrals unchanged. Full Python validation pending.
+
+### Pass 108 — Türkiye regional archaeology, monasteries and modern art
+
+- [x] TR — Alacahöyük Archaeological Site and Museum: 87.45/100 (source-linked-unverified).
+- [x] TR — Kültepe-Kanesh Archaeological Site and Karum: 86.55/100 (source-linked-unverified).
+- [x] TR — Aizanoi Ancient City: 89.75/100 (source-linked-unverified).
+- [x] TR — Gümüşler Monastery and Underground City: 87.75/100 (source-linked-unverified).
+- [x] TR — Alahan Monastery: 88.45/100 (source-linked-unverified).
+- [x] TR — Kanlıdivane Ancient City and Sinkhole: 88.30/100 (source-linked-unverified).
+- [x] TR — Odunpazarı Modern Museum Eskişehir: 86.95/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Türkiye 133 ranked / 133 total. Alacahöyük local museum included; Kültepe off-site tablets excluded; Aizanoi monuments grouped; Gümüşler monastery and underground city grouped; Alahan UNESCO tentative-list coordinate conflicts with mapped site and Getty TGN; Kanlıdivane distinct from Cennet-Cehennem; Odunpazarı Modern Museum distinct from existing historic district. Next bounded screen: Kayseri Archaeology Museum, Hatay Archaeology Museum, Gaziantep historic bazaar and citadel (scope check), Dara Ancient City, Mor Gabriel Monastery (Mardin overlap check), and Antalya Archaeology Museum (historical collection scope). Earlier Ihlara deferral unchanged. Full Python validation pending.

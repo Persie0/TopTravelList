@@ -1,0 +1,16 @@
+id: sight-tr-gumusler-monastery
+name: "Gümüşler Monastery and Underground City"
+location:
+  country_code: TR
+  latitude: 37.99829
+  longitude: 34.77203
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.2
+    photography: 9.1
