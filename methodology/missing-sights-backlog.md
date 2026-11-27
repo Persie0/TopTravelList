@@ -1327,3 +1327,14 @@ Seven additions, 28 peer rows. Türkiye 161 ranked / 161 total. Ihlara separatel
 - [x] TR — Aladağlar National Park and Kapuzbaşı Waterfalls: 90.45/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Türkiye 168 ranked / 168 total. Sığacık distinct from Teos; Manyas, Sultan and Kızılırmak separate wetlands; Acarlar and İğneada separate floodplain forests; Kapuzbaşı Waterfalls included within Aladağlar based on ministry park inventory. Current named screening queue resolved; pause Türkiye after this bounded screen, not an exhaustive inventory or factual verification. Reopen on concrete significant omissions. Full Python validation pending.
+
+### Pass 115 — France flagship Paris museums and catacombs
+
+- [x] FR — Musée Rodin Paris: 91.40/100 (source-linked-unverified).
+- [x] FR — Musée de l’Orangerie Paris: 91.95/100 (source-linked-unverified).
+- [x] FR — Centre Pompidou and National Museum of Modern Art Paris: 93.25/100 (source-linked-unverified).
+- [x] FR — Musée du Quai Branly – Jacques Chirac Paris: 90.95/100 (source-linked-unverified).
+- [x] FR — Musée de l’Armée and Dôme des Invalides Paris: 91.95/100 (source-linked-unverified).
+- [x] FR — Paris Catacombs: 90.10/100 (source-linked-unverified).
+
+Six additions, 24 peer rows. France 96 ranked / 107 total; eleven existing unassessed unchanged. Independent museum collections distinguished from Seine landscape, Orangerie separate from Orsay, Invalides dome included in army museum, Pompidou scored on established experience despite renovation. Next bounded screen: Musée Carnavalet, Musée Guimet, Musée de Cluny, Musée Picasso Paris, Cité des Sciences, Grande Galerie de l’Évolution, and Arc de Triomphe (Seine parent-scope check). Full Python validation pending.

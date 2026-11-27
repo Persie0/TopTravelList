@@ -1,0 +1,16 @@
+id: sight-fr-musee-orangerie
+name: "Musée de l’Orangerie Paris"
+location:
+  country_code: FR
+  latitude: 48.86384535
+  longitude: 2.32253834
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.1
+  depth: 8.6
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.0

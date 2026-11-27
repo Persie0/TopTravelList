@@ -3541,3 +3541,236 @@
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access checks.
+
+## sight-fr-musee-rodin — Musée Rodin Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-rodin.yaml)
+- Action: new
+- Precise subject and limitations: Hôtel Biron permanent collections and sculpture garden only; excludes Meudon branch and wider Seine landscape.
+- Location check: 48.855278, 2.315833; [published representative point](https://en.wikipedia.org/wiki/Mus%C3%A9e_Rodin), indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.musee-rodin.fr/en/plan-your-visit/plan-your-visit-musee-rodin); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-orsay](../../../countries/FR/sights/musee-orsay.yaml) | 9.2 / 9.3 / 9.5 / 9.2 / 9.2 | depth: -0.4 vs peer; significance: -0.3 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | depth: -0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | depth: -0.6 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Major sculpture ensemble and garden. |
+| Uniqueness | 9.3 | Distinct collection focused on Rodin. |
+| Significance | 9.2 | Important modern sculpture heritage. |
+| Experience | 9.1 | Dedicated galleries and garden. |
+| Depth | 8.8 | Substantial but specialist collection. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:9.0, photography:9.1.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: 90+ provisional; international comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-orangerie — Musée de l’Orangerie Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-orangerie.yaml)
+- Action: new
+- Precise subject and limitations: Monet's purpose-designed Water Lilies rooms and Walter-Guillaume collection; separate venue and collection from Orsay despite joint administration; Tuileries landscape excluded.
+- Location check: 48.86384535, 2.32253834; [published representative point](https://en.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Orangerie), indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.musee-orangerie.fr/en/collection); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-orsay](../../../countries/FR/sights/musee-orsay.yaml) | 9.2 / 9.3 / 9.5 / 9.2 / 9.2 | depth: -0.6 vs peer; significance: -0.2 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer. |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | depth: -0.8 vs peer; experience: -0.2 vs peer. |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | depth: -0.8 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Immersive monumental paintings. |
+| Uniqueness | 9.4 | Distinct site-specific Monet installation. |
+| Significance | 9.3 | Major Impressionist and modern art heritage. |
+| Experience | 9.1 | Dedicated gallery experience. |
+| Depth | 8.6 | Compact specialist collection. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:9.0.
+- Computed worldwide overall: 91.95/100.
+- High-score challenge: 90+ provisional; international comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-centre-pompidou — Centre Pompidou and National Museum of Modern Art Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/centre-pompidou.yaml)
+- Action: new
+- Precise subject and limitations: Beaubourg building and established modern-art museum experience, not a sum of temporary partner exhibitions. Official 2025–2030 renovation programme; future interior layout not assumed.
+- Location check: 48.8606723, 2.3523745; [published representative point](https://www.cirkwi.com/fr/point-interet/3494944-centre-pompidou), indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.centrepompidou.fr/en/centre-pompidou-is-transforming-itself/renovation-project-centre-pompidou-2030); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-orsay](../../../countries/FR/sights/musee-orsay.yaml) | 9.2 / 9.3 / 9.5 / 9.2 / 9.2 | depth: +0.2 vs peer; impact: +0.1 vs peer. |
+| [US/museum-of-modern-art-new-york](../../../countries/US/sights/museum-of-modern-art-new-york.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.4 | experience: -0.2 vs peer; impact: +0.0 vs peer. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | experience: -0.2 vs peer; depth: -0.2 vs peer. |
+| [US/art-institute-of-chicago](../../../countries/US/sights/art-institute-of-chicago.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.4 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Iconic building and major art collection. |
+| Uniqueness | 9.4 | Distinct architectural and curatorial identity. |
+| Significance | 9.4 | Internationally significant modern art holdings. |
+| Experience | 9.1 | Established multidisciplinary museum visit. |
+| Depth | 9.4 | Extensive collections and exhibition spaces. |
+
+- Applicable categories: culture:9.4, architecture:9.4, history:9.3, photography:9.1.
+- Computed worldwide overall: 93.25/100.
+- High-score challenge: 90+ provisional; international comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-quai-branly-museum — Musée du Quai Branly – Jacques Chirac Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/quai-branly-museum.yaml)
+- Action: new
+- Precise subject and limitations: Independent indoor collection of arts and material culture from Africa, Asia, Oceania and the Americas; garden and building contextual, not a duplicate Seine walk. Exhibits rotate; provenance complexities not resolved by rating.
+- Location check: 48.86087, 2.297753; [published representative point](https://www.latlong.net/category/museums-76-31.html), indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.quaibranly.fr/en/collections-overview); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | 9.6 / 9.6 / 9.8 / 9.4 / 9.8 | impact: -0.6 vs peer; significance: -0.6 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | significance: -0.2 vs peer; experience: -0.2 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | experience: -0.4 vs peer; depth: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Substantial varied displays. |
+| Uniqueness | 9.2 | Distinct collection and exhibition design. |
+| Significance | 9.2 | International cultural significance. |
+| Experience | 8.9 | Dedicated extensive galleries. |
+| Depth | 9.2 | Large and varied collection. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:9.1.
+- Computed worldwide overall: 90.95/100.
+- High-score challenge: 90+ provisional; international comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-invalides-army-museum — Musée de l’Armée and Dôme des Invalides Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/invalides-army-museum.yaml)
+- Action: new
+- Precise subject and limitations: Army museum galleries and Napoleon's tomb grouped as documented visitor experience; no separate dome record. Excludes general Seine urban landscape and independent museums in same complex. https://www.musee-armee.fr/en/your-visit/opening-times-and-prices-1.html documents admission scope.
+- Location check: 48.855797, 2.312445; [published representative point](https://www.latlong.net/category/museums-76-31.html), indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.musee-armee.fr/en/your-visit/museum-spaces.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | 9.6 / 9.6 / 9.8 / 9.4 / 9.8 | uniqueness: -0.5 vs peer; depth: -0.5 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | impact: +0.1 vs peer; experience: +0.1 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | uniqueness: -0.2 vs peer; impact: +0.1 vs peer. |
+| [US/metropolitan-museum-of-art](../../../countries/US/sights/metropolitan-museum-of-art.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.6 | uniqueness: -0.3 vs peer; experience: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Monumental dome and extensive collections. |
+| Uniqueness | 9.1 | Distinct military history and funerary ensemble. |
+| Significance | 9.4 | Major French historical heritage. |
+| Experience | 9.0 | Established dedicated museum route. |
+| Depth | 9.3 | Multiple chronological galleries and monument spaces. |
+
+- Applicable categories: history:9.4, architecture:9.3, culture:9.2.
+- Computed worldwide overall: 91.95/100.
+- High-score challenge: 90+ provisional; international comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-paris-catacombs — Paris Catacombs — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-catacombs.yaml)
+- Action: new
+- Precise subject and limitations: Official public ossuary route only; excludes closed quarry tunnels and unrelated Carnavalet museum. Representative visitor site point.
+- Location check: 48.83374, 2.33229; [published representative point](https://mapcarta.com/N493870538), indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://catacombes.paris.fr/en/visit); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/naples-catacombs](../../../countries/IT/sights/naples-catacombs.yaml) | 8.8 / 9.0 / 9.1 / 8.8 / 8.8 | uniqueness: +0.4 vs peer; depth: -0.4 vs peer. |
+| [FR/chauvet-replica](../../../countries/FR/sights/chauvet-replica.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.5 | uniqueness: +0.4 vs peer; impact: +0.2 vs peer. |
+| [FR/vezere-caves](../../../countries/FR/sights/vezere-caves.yaml) | 8.7 / 9.3 / 9.6 / 8.8 / 8.9 | significance: -0.6 vs peer; depth: -0.5 vs peer. |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | significance: -0.4 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Unusual underground memorial setting. |
+| Uniqueness | 9.4 | Distinct large urban ossuary. |
+| Significance | 9.0 | Important Paris burial and quarry history. |
+| Experience | 8.8 | Established dedicated visitor route. |
+| Depth | 8.4 | Bounded underground route. |
+
+- Applicable categories: history:9.3, culture:9.2, architecture:8.8.
+- Computed worldwide overall: 90.10/100.
+- High-score challenge: 90+ provisional; international comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
