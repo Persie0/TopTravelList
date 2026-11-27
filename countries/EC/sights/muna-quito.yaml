@@ -1,0 +1,16 @@
+id: sight-ec-muna-quito
+name: "Quito National Museum of Ecuador Collections"
+location:
+  country_code: EC
+  latitude: -0.209
+  longitude: -78.495
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 9.3
+  experience: 8.6
+  depth: 9.0
+  categories:
+    history: 9.4
+    culture: 9.3
+    family: 8.7

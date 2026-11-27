@@ -4958,3 +4958,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] EC — Jumandy Caves Guided Underground Walk: 84.45/100 (desk-based provisional).
 
 14 additions, 11 source-linked provisional, 3 desk-based provisional, 6 90+, 40 ranking-row comparisons (12 international). EC 94 ranked / 95 total, +40 since baseline 55. UNESCO tentative list 15 entries checked (https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=ec): existing El Ángel, Chimborazo, Churute, Machalilla (4); named new scopes Puñay, Yacuviña, Zaruma, Puyango (4); partial mapping Manteño (Hojas Jaboncillo), Chocó Soundscape (Mashpi), trans-Andean train (Nariz del Diablo), Mayo Chinchipe (Santa Ana La Florida) (4); unresolved El Quimi, Ecuadorian Cacao Cultural Landscape and Galápagos extension (3). 12/15 at least partially mapped, not all serial components verified. El Quimi visitor scope and Galápagos extension boundaries deferred; cacao landscape needs distinct named public visitor scope. Qhapaq Ñan unassessed retained; all five inscribed properties represented per initial inventory, not remapped. Nariz del Diablo June 2026 resumption confirmed, no claim entire railway operates. Puerto López whale watching non-additive to overlapping Machalilla tours; Mashpi distinct from Mindo. Prior access and overlap deferrals retained. OPEN for regional sights and other public cultural experiences. Existing scores and one unassessed preserved. Coordinates approximate; schedules, permissions and safety unverified.
+
+### Pass 280 — Ecuador regional festivals, cacao and coastal experiences
+
+- [x] EC — El Cisne to Loja Virgin Pilgrimage Public Procession: 92.10/100 (source-linked-unverified).
+- [x] EC — Loja International Living Arts Festival Public Performances: 91.60/100 (source-linked-unverified).
+- [x] EC — Quito Holy Week Jesús del Gran Poder Public Processions: 91.10/100 (source-linked-unverified).
+- [x] EC — Vinces Historic Cacao Hacienda and Chocolate Route: 90.85/100 (source-linked-unverified).
+- [x] EC — Otavalo Yamor Maize Harvest Festival Public Programme: 90.40/100 (source-linked-unverified).
+- [x] EC — El Cisne Basilica and Religious Heritage: 86.95/100 (source-linked-unverified).
+- [x] EC — Quito National Museum of Ecuador Collections: 86.35/100 (desk-based provisional).
+- [x] EC — Agua Blanca Community Archaeology and Sulphur Lagoon: 86.10/100 (desk-based provisional).
+- [x] EC — Salinas La Chocolatera and La Lobería Coastal Viewpoints: 85.50/100 (source-linked-unverified).
+- [x] EC — Gualaceo and Chordeleg Traditional Craft Circuit: 85.35/100 (desk-based provisional).
+- [x] EC — Montañita Surf Beach and Village Nightlife: 85.05/100 (source-linked-unverified).
+- [x] EC — Abras de Mantequilla Wetland Birding: 85.05/100 (desk-based provisional).
+- [x] EC — Vilcabamba Mandango Ridge and Valley Walks: 84.30/100 (desk-based provisional).
+- [x] EC — Loja Historic Centre and Traditional Streets: 83.85/100 (desk-based provisional).
+
+14 additions, 8 source-linked provisional, 6 desk-based provisional, 5 90+, 36 ranking-row comparisons (8 international). EC 108 ranked / 109 total, +54 since baseline 55. Prior 15 UNESCO tentative entries mapped 12/15 at least partially; Vinces now adds partial Ecuadorian Cacao Cultural Landscape representation (https://whc.unesco.org/en/tentativelists/7003/), yielding 13/15 at least partial; El Quimi and Galápagos extension unresolved, serial boundaries not verified. Prior five inscribed properties represented (Qhapaq Ñan unassessed). El Cisne permanent shrine distinct from pilgrimage, not additive during same visit. Quito processions grouped and separate from historic centre; Agua Blanca distinct cultural visit within Machalilla, non-additive to parent. Prior access and overlap deferrals retained. OPEN for further bounded regional screen. Existing scores and one unassessed preserved. Coordinates approximate; schedules, permissions and safety unverified.

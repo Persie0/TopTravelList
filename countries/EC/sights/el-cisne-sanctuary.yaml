@@ -1,0 +1,16 @@
+id: sight-ec-el-cisne-sanctuary
+name: "El Cisne Basilica and Religious Heritage"
+location:
+  country_code: EC
+  latitude: -3.85
+  longitude: -79.43
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.6
+  depth: 8.6
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.1

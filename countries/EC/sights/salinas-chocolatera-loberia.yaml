@@ -1,0 +1,16 @@
+id: sight-ec-salinas-chocolatera-loberia
+name: "Salinas La Chocolatera and La Lobería Coastal Viewpoints"
+location:
+  country_code: EC
+  latitude: -2.188
+  longitude: -81.005
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.2
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.1
+    photography: 9.3
+    wildlife: 9.0

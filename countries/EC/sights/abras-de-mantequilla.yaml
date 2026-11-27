@@ -1,0 +1,16 @@
+id: sight-ec-abras-de-mantequilla
+name: "Abras de Mantequilla Wetland Birding"
+location:
+  country_code: EC
+  latitude: -1.46
+  longitude: -79.68
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.3
+  depth: 8.5
+  categories:
+    wildlife: 9.2
+    nature: 9.2
+    photography: 9.0
