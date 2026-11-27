@@ -1,0 +1,17 @@
+id: sight-pt-maat-lisbon
+name: "MAAT Lisbon (Art, Architecture and Technology)"
+location:
+  country_code: PT
+  latitude: 38.69571
+  longitude: -9.19549
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.8
+  depth: 8.8
+  categories:
+    architecture: 9.2
+    culture: 9.2
+    history: 8.8
+    photography: 9.0

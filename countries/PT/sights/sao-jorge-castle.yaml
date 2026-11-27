@@ -1,0 +1,17 @@
+id: sight-pt-sao-jorge-castle
+name: "São Jorge Castle Lisbon"
+location:
+  country_code: PT
+  latitude: 38.71389
+  longitude: -9.13361
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 8.7
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.3
+    culture: 9.0

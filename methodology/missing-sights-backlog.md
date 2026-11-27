@@ -923,3 +923,15 @@ Six additions and 24 peer rows. Spain 169 ranked / 184 total. Retiro explicitly 
 - [x] ES — Riazor and Orzán Beach Promenade A Coruña: 84.05/100 (source-linked-unverified).
 
 Eight additions and 32 peer rows. Spain 177 ranked / 192 total, 75 additions across passes 72–81. Current bounded candidate queue resolved; close Spain and rotate to an unreviewed country (next Portugal, subject to existing status check). This is not an exhaustive nationwide inventory. Madrid and Montjuïc scope excludes existing attractions; Riazor–Orzán excludes Tower of Hercules; Silos potential overlap with unassessed regional series flagged. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 82 — Portuguese major historic, coastal and museum attractions
+
+- [x] PT — Óbidos Walled Historic Town: 88.25/100 (source-linked-unverified).
+- [x] PT — Monsanto Boulder Village and Castle: 88.35/100 (source-linked-unverified).
+- [x] PT — São Jorge Castle Lisbon: 88.60/100 (source-linked-unverified).
+- [x] PT — Carmo Convent Ruins and Archaeological Museum: 87.35/100 (source-linked-unverified).
+- [x] PT — Paiva Walkways and Arouca 516 Bridge: 87.95/100 (source-linked-unverified).
+- [x] PT — Nazaré Sítio and Praia do Norte Coastal Viewpoints: 88.25/100 (source-linked-unverified).
+- [x] PT — MAAT Lisbon (Art, Architecture and Technology): 87.75/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Portugal 59 ranked / 60 total. Marvão deferred due to explicit inclusion in Raia fortifications (https://whc.unesco.org/en/tentativelists/6218/). Arouca grouped bridge and walkway; separate ticket and weather constraints. Next bounded screen: Cabo da Roca (Sintra boundary), Berlengas, Padrão dos Descobrimentos, National Coach Museum, Porto Serralves (Siza series overlap check), Livraria Lello (Porto core overlap), Aveiro canals, and Costa Nova. One prior unassessed unchanged. Full Python validation and independent corroboration pending.
