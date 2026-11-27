@@ -4656,3 +4656,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Narihualá Tallán Archaeological Complex and Site Museum Piura: 85.15/100 (desk-based provisional).
 
 12 additions, 7 source-linked provisional, 5 desk-based provisional, 5 90+, 42 ranking-row comparisons (18 international). PE 162 ranked / 164 total, +98 since baseline 66. Abra Patricia and Huembo distinct reserves; Gran Vilaya excludes Kuélap, Gocta, Sonche and Pueblo de los Muertos; Cedros–Alpamayo excludes Santa Cruz segments and is non-additive to Huascarán. Spring and harvest festivals distinct from permanent heritage and existing competition/distillery entries. Existing scores and two unassessed preserved. Earlier UNESCO inventory 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Sechín Bajo and other Chankillo serial extensions deferred pending visitor-scope evidence; prior Santa Bárbara, Sierra del Divisor, Megantoni and other deferrals retained. Queue remains OPEN for targeted regional coverage after additional high-value omissions. Coordinates approximate; current access and schedules unverified.
+
+### Pass 262 — Peru coastal archaeology, regional festivals, coffee and community heritage
+
+- [x] PE — Raymi Llaqta Chachapoyas Regional Traditional Dance and Cultural Festival: 91.30/100 (source-linked-unverified).
+- [x] PE — Otuzco Virgen de la Puerta Pilgrimage and Religious Festival: 91.20/100 (source-linked-unverified).
+- [x] PE — Áspero and Vichama Early Coastal Civilisation Archaeological Circuit: 90.60/100 (source-linked-unverified).
+- [x] PE — Villa Rica Coffee Farm and Tasting Route Pasco: 89.00/100 (source-linked-unverified).
+- [x] PE — Cordillera Escalera Alto Shilcayo Community Forest and Tamushal Waterfalls: 87.55/100 (source-linked-unverified).
+- [x] PE — Tinajani Canyon Ayaviri Highland Sandstone Landscape: 87.00/100 (source-linked-unverified).
+- [x] PE — Chazuta Huallaga River Traditional Ceramics Workshops: 86.95/100 (desk-based provisional).
+- [x] PE — Quinua Ayacucho Traditional Ceramic Artisan Village: 86.15/100 (desk-based provisional).
+- [x] PE — Bandurria Early Coastal Archaeological Complex Huacho: 86.15/100 (desk-based provisional).
+- [x] PE — Titankayoc Giant Puya Raimondii Highland Plant Sanctuary: 86.35/100 (desk-based provisional).
+- [x] PE — Pozuzo Austrian German Settlement Heritage and Cultural Museum Circuit: 86.40/100 (desk-based provisional).
+- [x] PE — San Francisco Yarinacocha Shipibo-Konibo Community Art Experience: 87.00/100 (desk-based provisional).
+
+12 additions, 6 source-linked provisional, 6 desk-based provisional, 3 90+, 38 ranking-row comparisons (14 international). PE 174 ranked / 176 total, +110 since baseline 66. Áspero and Vichama grouped as separate coastal visit circuit excluding Sacred City of Caral; no UNESCO extension claimed. Peñico deferred for separate scope screen. Raymi Llaqta national-interest legislation is not final designation; Otuzco national heritage not UNESCO inscription. Alto Mayo forest deferred because Abra Patricia overlap is documented; non-overlapping routes require evidence. Villa Rica coffee distinct from wilderness. Alto Shilcayo excludes Ahuashiyacu, Quinua excludes battlefield, community art consent required. Prior UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Previous deferrals preserved. Current queue remains OPEN after three additional 90+ omissions, next screen Peñico, remaining regional heritage and authorized protected-area visitor experiences. Existing scores and two unassessed preserved. Coordinates approximate; current access and schedules unverified.

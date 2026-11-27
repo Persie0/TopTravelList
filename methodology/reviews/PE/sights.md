@@ -3423,3 +3423,265 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 261 scope decisions
 
 12 additions, 7 source-linked provisional, 5 desk-based provisional, 5 90+, 42 ranking-row comparisons (18 international). PE 162 ranked / 164 total, +98 since baseline 66. Abra Patricia and Huembo distinct reserves; Gran Vilaya excludes Kuélap, Gocta, Sonche and Pueblo de los Muertos; Cedros–Alpamayo excludes Santa Cruz segments and is non-additive to Huascarán. Spring and harvest festivals distinct from permanent heritage and existing competition/distillery entries. Existing scores and two unassessed preserved. Earlier UNESCO inventory 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Sechín Bajo and other Chankillo serial extensions deferred pending visitor-scope evidence; prior Santa Bárbara, Sierra del Divisor, Megantoni and other deferrals retained. Queue remains OPEN for targeted regional coverage after additional high-value omissions. Coordinates approximate; current access and schedules unverified.
+
+## sight-pe-raymi-llaqta-chachapoyas — Raymi Llaqta Chachapoyas Regional Traditional Dance and Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/raymi-llaqta-chachapoyas.yaml)
+- Action: new
+- Scope: Public festival of Amazonas communities established in 1997; delegations from all seven provinces documented in 2026. National-interest law concerns recognition, not proof of completed heritage designation. Excludes permanent archaeological and city sites.
+- Representative coordinates: -6.229, -77.872; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.4 photography:9.3 food:9.1.
+- Overall: 91.30/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11602
+- Source: https://www.gob.pe/institucion/regionamazonas/noticias/1406369-raymi-llaqta-de-los-chachapoya-reunio-a-delegaciones-de-las-siete-provincias-de-amazonas
+- Source: https://busquedas.elperuano.pe/dispositivo/NL/2469115-2
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huaylarsh-route](../../../countries/PE/sights/huaylarsh-route.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/trujillo-spring-festival](../../../countries/PE/sights/trujillo-spring-festival.yaml) | 8.9 / 9.0 / 9.2 / 9.2 / 9.0 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/sao-joao-caruaru](../../../countries/BR/sights/sao-joao-caruaru.yaml) | 9.1 / 9.0 / 9.2 / 9.4 / 9.2 | impact: -0.1; uniqueness: +0.2 vs peer |
+| [BR/joinville-dance-festival](../../../countries/BR/sights/joinville-dance-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-virgen-de-la-puerta-otuzco — Otuzco Virgen de la Puerta Pilgrimage and Religious Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/virgen-de-la-puerta-otuzco.yaml)
+- Action: new
+- Scope: December public pilgrimage and religious celebrations, designated Peruvian national cultural heritage in 2012. Sanctuary included in event scope; UNESCO inscription not asserted.
+- Representative coordinates: -7.902, -78.565; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.20/100.
+- Source: https://busquedas.elperuano.pe/dispositivo/NL/870364-1
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2474
+- Source: https://www.gob.pe/institucion/cultura/noticias/942328-ministra-de-cultura-estamos-dando-pasos-para-que-festividad-de-la-virgen-de-la-puerta-de-otuzco-sea-declarada-patrimonio-de-la-humanidad
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/virgen-de-chapi](../../../countries/PE/sights/virgen-de-chapi.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/paucartambo-virgen-del-carmen](../../../countries/PE/sights/paucartambo-virgen-del-carmen.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [BR/aparecida-national-sanctuary](../../../countries/BR/sights/aparecida-national-sanctuary.yaml) | 9.2 / 9.1 / 9.6 / 9.2 / 9.2 | impact: -0.2; uniqueness: +0.1 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-aspero-vichama-caral-route — Áspero and Vichama Early Coastal Civilisation Archaeological Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/aspero-vichama-caral-route.yaml)
+- Action: new
+- Scope: Two separately visitable coastal settlements with interpretive circuits: Áspero fishing heritage about 5000 years old and Vichama relief murals. Grouped as complementary coastal circuit excluding Sacred City of Caral-Supe; UNESCO inscription is not extended to these sites. Peñico left separate for future screen.
+- Representative coordinates: -10.814, -77.732; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.4 / 8.7 / 9.1.
+- Categories: history:9.4 architecture:9.3 culture:9.3.
+- Overall: 90.60/100.
+- Source: https://www.gob.pe/institucion/caral/noticias/109830-ruta-turistica-los-origenes-de-la-civilizacion-caral
+- Source: https://www.gob.pe/institucion/caral/noticias/111434-primer-domingo-del-mes-ingresa-gratis-a-caral-aspero-y-vichama
+- Source: https://www.gob.pe/institucion/caral/noticias/189237-dia-del-pescador-la-tecnologia-pesquera-en-peru-hace-5-mil-anos
+- Source: https://www.gob.pe/10554-visitar-el-sitio-arqueologico-de-vichama
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/sacred-city-of-caral-supe](../../../countries/PE/sights/sacred-city-of-caral-supe.yaml) | 8.6 / 9.4 / 9.8 / 8.5 / 8.6 | impact: +0.2; uniqueness: -0.1 vs peer |
+| [PE/ventarron](../../../countries/PE/sights/ventarron.yaml) | 8.8 / 9.3 / 9.4 / 8.7 / 9.0 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BO/tiwanaku-archaeological-site](../../../countries/BO/sights/tiwanaku-archaeological-site.yaml) | 9.0 / 9.4 / 9.7 / 8.6 / 8.8 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [CO/san-agustin-archaeological-park](../../../countries/CO/sights/san-agustin-archaeological-park.yaml) | 8.8 / 9.4 / 9.6 / 8.7 / 8.5 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: +0.4; uniqueness: +0.6 vs peer |
+| [CL/chinchorro-culture-archaeological-properties](../../../countries/CL/sights/chinchorro-culture-archaeological-properties.yaml) | 8.3 / 9.6 / 9.8 / 8.2 / 8.0 | impact: +0.5; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-villa-rica-coffee — Villa Rica Coffee Farm and Tasting Route Pasco — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/villa-rica-coffee.yaml)
+- Action: new
+- Scope: Coffee farms, roasting and tasting laboratory experience; regional coffee denomination of origin documented in 2010. Not equivalent to Colombian UNESCO coffee landscape or a claim that farms themselves are UNESCO properties.
+- Representative coordinates: -10.739, -75.269; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 9.1 / 9.0.
+- Categories: food:9.4 culture:9.2 nature:9.0.
+- Overall: 89.00/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=12811
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=7269
+- Source: https://www.unesco.org/en/amazon-biosphere-reserves-project/peru/bioay
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ica-pisco-route](../../../countries/PE/sights/ica-pisco-route.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/lima-surquillo-culinary](../../../countries/PE/sights/lima-surquillo-culinary.yaml) | 9.0 / 9.2 / 9.4 / 9.3 / 9.2 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [CO/coffee-cultural-landscape-of-colombia](../../../countries/CO/sights/coffee-cultural-landscape-of-colombia.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.4 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [CO/coffee-farm-visitor-experiences](../../../countries/CO/sights/coffee-farm-visitor-experiences.yaml) | 7.9 / 8.6 / 8.3 / 8.9 / 8.0 | impact: +0.8; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cordillera-escalera-shilcayo — Cordillera Escalera Alto Shilcayo Community Forest and Tamushal Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cordillera-escalera-shilcayo.yaml)
+- Action: new
+- Scope: Bounded community-administered Alto Shilcayo viewpoint and Tamushal trail, documented by regional government. Excludes separately ranked Ahuashiyacu and Waqanki.
+- Representative coordinates: -6.45, -76.34; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.7 / 8.8 / 8.8.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.1.
+- Overall: 87.55/100.
+- Source: https://www.gob.pe/institucion/regionsanmartin-dircetur/noticias/1172169-asociacion-de-proteccion-de-flora-y-fauna-se-prepara-para-integrarse-al-registro-nacional-de-turismo-comunitario
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=2974
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/waqanki-birding](../../../countries/PE/sights/waqanki-birding.yaml) | 8.5 / 8.8 / 8.5 / 8.8 / 8.5 | impact: +0.3; uniqueness: -0.1 vs peer |
+| [PE/yanachaga-chemillen](../../../countries/PE/sights/yanachaga-chemillen.yaml) | 8.8 / 8.9 / 9.0 / 8.7 / 8.9 | impact: +0.0; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-tinajani-canyon — Tinajani Canyon Ayaviri Highland Sandstone Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/tinajani-canyon.yaml)
+- Action: new
+- Scope: Distinct sculpted rock landscape near Ayaviri; local tourism inventory describes dance festival, included as optional context rather than a separate rating.
+- Representative coordinates: -14.98, -70.62; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.6 / 8.6.
+- Categories: nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 87.00/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=462
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huayllay](../../../countries/PE/sights/huayllay.yaml) | 9.3 / 9.3 / 8.9 / 8.8 / 9.0 | impact: -0.4; uniqueness: -0.5 vs peer |
+| [PE/imata-stone-forest](../../../countries/PE/sights/imata-stone-forest.yaml) | 8.8 / 8.8 / 8.4 / 8.6 / 8.5 | impact: +0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chazuta-ceramics — Chazuta Huallaga River Traditional Ceramics Workshops — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chazuta-ceramics.yaml)
+- Action: new
+- Scope: Community-permitted ceramics demonstrations and public interpretation; no workshop guarantee. Desk assessment.
+- Representative coordinates: -6.57, -76.14; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 9.0 / 8.7 / 8.7.
+- Categories: culture:9.3 history:9.1 photography:9.0.
+- Overall: 86.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huanchaco](../../../countries/PE/sights/huanchaco.yaml) | 8.5 / 8.9 / 8.7 / 8.7 / 8.3 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/amano-textile-museum](../../../countries/PE/sights/amano-textile-museum.yaml) | 8.5 / 9.0 / 9.2 / 8.7 / 8.8 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-quinua-artisan-village — Quinua Ayacucho Traditional Ceramic Artisan Village — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/quinua-artisan-village.yaml)
+- Action: new
+- Scope: Village and artisan experiences only; excludes Pampa de Ayacucho battlefield sanctuary and Ayacucho historic centre. Desk assessment.
+- Representative coordinates: -13.05, -74.14; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.9 / 8.7 / 8.6.
+- Categories: culture:9.3 history:9.1 photography:9.1.
+- Overall: 86.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/pampa-de-ayacucho-historical-sanctuary](../../../countries/PE/sights/pampa-de-ayacucho-historical-sanctuary.yaml) | 7.6 / 8.0 / 9.0 / 7.8 / 7.1 | impact: +0.8; uniqueness: +0.6 vs peer |
+| [PE/ayacucho-historic-centre](../../../countries/PE/sights/ayacucho-historic-centre.yaml) | 8.7 / 8.7 / 9.1 / 8.7 / 8.9 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-bandurria — Bandurria Early Coastal Archaeological Complex Huacho — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/bandurria.yaml)
+- Action: new
+- Scope: Independent early coastal settlement near Huacho; excludes Caral coastal circuit. Desk assessment; current admission unverified.
+- Representative coordinates: -11.2, -77.59; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.8 / 9.1 / 8.3 / 8.6.
+- Categories: history:9.3 architecture:9.1 culture:9.0.
+- Overall: 86.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ventarron](../../../countries/PE/sights/ventarron.yaml) | 8.8 / 9.3 / 9.4 / 8.7 / 9.0 | impact: -0.5; uniqueness: -0.5 vs peer |
+| [PE/sacred-city-of-caral-supe](../../../countries/PE/sights/sacred-city-of-caral-supe.yaml) | 8.6 / 9.4 / 9.8 / 8.5 / 8.6 | impact: -0.3; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-titankayoc-puya-forest — Titankayoc Giant Puya Raimondii Highland Plant Sanctuary — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/titankayoc-puya-forest.yaml)
+- Action: new
+- Scope: Representative giant Puya plant landscape in Ayacucho, distinct from Vilcashuamán. Flowering not guaranteed; desk assessment.
+- Representative coordinates: -13.63, -73.94; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.0 / 8.5 / 8.3 / 8.3.
+- Categories: nature:9.4 photography:9.3 wildlife:8.9.
+- Overall: 86.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ampay-national-sanctuary](../../../countries/PE/sights/ampay-national-sanctuary.yaml) | 8.8 / 8.9 / 8.7 / 8.6 / 8.7 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [PE/salinas-aguada-blanca](../../../countries/PE/sights/salinas-aguada-blanca.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.8 | impact: -0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-pozuzo-historic-settlement — Pozuzo Austrian German Settlement Heritage and Cultural Museum Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/pozuzo-historic-settlement.yaml)
+- Action: new
+- Scope: Public settlement heritage and museum interpretation distinct from Villa Rica coffee and Yanachaga wilderness. Desk assessment.
+- Representative coordinates: -10.067, -75.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.6 / 8.7.
+- Categories: culture:9.3 history:9.2 architecture:9.1.
+- Overall: 86.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chachapoyas-historic-centre](../../../countries/PE/sights/chachapoyas-historic-centre.yaml) | 8.5 / 8.5 / 8.7 / 8.7 / 8.5 | impact: -0.1; uniqueness: +0.3 vs peer |
+| [PE/iquitos-historic-centre](../../../countries/PE/sights/iquitos-historic-centre.yaml) | 8.7 / 8.6 / 9.0 / 8.7 / 8.8 | impact: -0.3; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-shipibo-san-francisco — San Francisco Yarinacocha Shipibo-Konibo Community Art Experience — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/shipibo-san-francisco.yaml)
+- Action: new
+- Scope: Consent-based community-led textile and ceramics interpretation near Yarinacocha; no access to private ceremonies, residences or guaranteed hosts. Desk assessment.
+- Representative coordinates: -8.3, -74.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.9 / 8.5 / 8.7.
+- Categories: culture:9.3 history:9.1 photography:9.0.
+- Overall: 87.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huanchaco](../../../countries/PE/sights/huanchaco.yaml) | 8.5 / 8.9 / 8.7 / 8.7 / 8.3 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/amano-textile-museum](../../../countries/PE/sights/amano-textile-museum.yaml) | 8.5 / 9.0 / 9.2 / 8.7 / 8.8 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 262 scope decisions
+
+12 additions, 6 source-linked provisional, 6 desk-based provisional, 3 90+, 38 ranking-row comparisons (14 international). PE 174 ranked / 176 total, +110 since baseline 66. Áspero and Vichama grouped as separate coastal visit circuit excluding Sacred City of Caral; no UNESCO extension claimed. Peñico deferred for separate scope screen. Raymi Llaqta national-interest legislation is not final designation; Otuzco national heritage not UNESCO inscription. Alto Mayo forest deferred because Abra Patricia overlap is documented; non-overlapping routes require evidence. Villa Rica coffee distinct from wilderness. Alto Shilcayo excludes Ahuashiyacu, Quinua excludes battlefield, community art consent required. Prior UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Previous deferrals preserved. Current queue remains OPEN after three additional 90+ omissions, next screen Peñico, remaining regional heritage and authorized protected-area visitor experiences. Existing scores and two unassessed preserved. Coordinates approximate; current access and schedules unverified.
