@@ -2529,3 +2529,256 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 287 scope decisions
 
 12 additions, 6 source-linked provisional, 6 desk-based provisional, 3 90+, 32 ranking-row comparisons (8 international). BO 119 ranked / 121 total, +65 since baseline 56. Prior seven inscribed and five tentative World Heritage properties represented at property scope, Chiquitos six named components represented; other serial components not independently mapped. UNESCO intangible list confirms Sucre Guadalupe inscription in 2025 (https://ich.unesco.org/es/RL/la-fiesta-de-la-virgen-de-guadalupe-patrona-de-sucre-02306). Tiwanaku Willkakuti June 2026 event reduced by road closures; no intrinsic score penalty. Cholets only authorized guided public-facing architecture; Sampaya consent-based. Serranía del Iñao deferred pending specific visitor scope, prior Aguaragüe/Pantanal/Madidi overlap and access deferrals retained. Sajama and Polques non-additive to parent parks; two unassessed and existing scores preserved. OPEN for final bounded regional screen. Coordinates approximate, permissions and future events unverified.
+
+
+## sight-bo-aiquile-charango-festival — Aiquile International Charango Fair and Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/aiquile-charango-festival.yaml)
+- Action: new
+- Scope: National intangible heritage by Laws 2582 and 3469; 42nd edition scheduled 28–31 October 2026 with over 100 performers expected. Public concerts and instrument-making fair only; no future programme guaranteed.
+- Representative coordinates: -18.2, -65.18; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.1.
+- Overall: 92.25/100.
+- Source: https://www.lexivox.org/norms/BO-L-3469.html
+- Source: https://www.lostiempos.com/doble-click/cultura/20261025/aiquile-palpita-42deg-feria-festival-internacional-del-charango-2026
+- Source: https://www.lostiempos.com/doble-click/cultura/20261015/quince-grupos-nacionales-animaran-42a-edicion-feria-festival-del
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct visitor scope, cultural or geological significance and experience; regional ranking-row peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/chiquitos-baroque-festival](../../../countries/BO/sights/chiquitos-baroque-festival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BO/la-paz-alasita](../../../countries/BO/sights/la-paz-alasita.yaml) | 9.0 / 9.4 / 9.3 / 9.1 / 9.0 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [EC/loja-artes-vivas](../../../countries/EC/sights/loja-artes-vivas.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [EC/otavalo-yamor](../../../countries/EC/sights/otavalo-yamor.yaml) | 8.9 / 9.1 / 9.2 / 9.1 / 8.9 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-charazani-pacha-trek — Charazani Pacha Trek Kallawaya Community Cultural Walks — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/charazani-pacha-trek.yaml)
+- Action: new
+- Scope: WCS documents community-led route across Quta Pampa, Caluyo, Chacarapi and Chari; 2023 academic analysis and a travel operator describe visitor programme. UNESCO recognizes Kallawaya cosmovision, not this trek as an inscribed property. Exclude private rites, healing treatments and claims of efficacy. Consent and contemporary programme confirmation required; distinct from Curva–Pelechuco trek but non-additive where itineraries overlap.
+- Representative coordinates: -15.18, -68.99; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.4 / 8.8 / 9.2.
+- Categories: culture:9.4 history:9.3 nature:9.3 adventure:9.1.
+- Overall: 91.70/100.
+- Source: https://bolivia.wcs.org/es-es/Recursos-Informativos/Sala-de-noticias/articleType/ArticleView/articleId/10694/Mencion-especial-al-proyecto-de-turismo-biocultural-comunitario-Pacha-Trek-Caminando-con-los-Kallawayas.aspx
+- Source: https://www.scielo.org.bo/scielo.php?lng=e&nrm=iso&pid=S2077-33232023000100039&script=sci_arttext
+- Source: https://ich.unesco.org/en/RL/the-andean-cosmovision-of-the-kallawaya-00048
+- Source: https://www.latebolivia.com/es/Destinos/Actividades-especiales/Convivencia-con-comunidades
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct visitor scope, cultural or geological significance and experience; regional ranking-row peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/apolobamba-curva-pelechuco](../../../countries/BO/sights/apolobamba-curva-pelechuco.yaml) | 9.2 / 9.1 / 9.1 / 8.6 / 9.2 | impact: -0.2; uniqueness: +0.3 vs peer |
+| [BO/sampaya-community](../../../countries/BO/sights/sampaya-community.yaml) | 8.6 / 8.9 / 9.0 / 8.7 / 8.8 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [EC/saraguro-community-tourism](../../../countries/EC/sights/saraguro-community-tourism.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [EC/kapawi-achuar-community](../../../countries/EC/sights/kapawi-achuar-community.yaml) | 9.2 / 9.4 / 9.3 / 9.0 / 9.2 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-uru-chipaya-community — Uru Chipaya Community Architecture and Cultural Landscape Visits — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/uru-chipaya-community.yaml)
+- Action: new
+- Scope: Community project documents lodge and tourism committee; 2023 reporting describes guided landscape and cultural experiences. Only host-authorized interpretation of traditional architecture and community life; no guarantee of current accommodation, access, or private ceremony. Distinct from Coipasa salt flat.
+- Representative coordinates: -19.03, -68.06; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 8.7 / 9.0.
+- Categories: culture:9.4 architecture:9.3 history:9.3 photography:9.1.
+- Overall: 91.15/100.
+- Source: https://chipaya.org/?p=2706
+- Source: https://chipaya.org/?p=2727
+- Source: https://www.laregion.bo/la-riqueza-milenaria-de-los-uru-chipaya-a-tu-alcance/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct visitor scope, cultural or geological significance and experience; regional ranking-row peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/sampaya-community](../../../countries/BO/sights/sampaya-community.yaml) | 8.6 / 8.9 / 9.0 / 8.7 / 8.8 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [BO/salar-de-coipasa](../../../countries/BO/sights/salar-de-coipasa.yaml) | 8.9 / 8.9 / 8.3 / 8.2 / 8.2 | impact: +0.1; uniqueness: +0.5 vs peer |
+| [EC/saraguro-community-tourism](../../../countries/EC/sights/saraguro-community-tourism.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [EC/kapawi-achuar-community](../../../countries/EC/sights/kapawi-achuar-community.yaml) | 9.2 / 9.4 / 9.3 / 9.0 / 9.2 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-chuchini-reserve — Chuchini Moxos Archaeological Landscape and Guided Forest Visit — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/chuchini-reserve.yaml)
+- Action: new
+- Scope: National tourism identifies Chuchini archaeological complex and operator documents public interpretation of Moxos/Casarabe heritage and conservation. No unverified attribution of particular remains, access to excavations, or wildlife sightings. Distinct from Ibaré–Mamoré dolphin route; non-additive to overlapping excursion.
+- Representative coordinates: -14.73, -64.99; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 8.8 / 9.1.
+- Categories: history:9.4 nature:9.3 wildlife:9.2 culture:9.2.
+- Overall: 91.15/100.
+- Source: https://boliviatravel.gob.bo/12moxos/
+- Source: https://www.chuchini.org/es/destino-moxos-bolivia/
+- Source: https://www.chuchini.org/es/sobre-nosotros-tour-selva-bolivia/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct visitor scope, cultural or geological significance and experience; regional ranking-row peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/iskanwaya-archaeological-site](../../../countries/BO/sights/iskanwaya-archaeological-site.yaml) | 8.9 / 9.2 / 9.3 / 8.4 / 8.9 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BO/ibare-mamore-bufeo](../../../countries/BO/sights/ibare-mamore-bufeo.yaml) | 9.1 / 9.2 / 9.1 / 8.9 / 8.9 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [EC/hojas-jaboncillo](../../../countries/EC/sights/hojas-jaboncillo.yaml) | 8.6 / 8.9 / 9.3 / 8.5 / 8.8 | impact: +0.4; uniqueness: +0.4 vs peer |
+| [EC/santa-ana-la-florida](../../../countries/EC/sights/santa-ana-la-florida.yaml) | 8.1 / 9.0 / 9.4 / 8.2 / 8.5 | impact: +0.9; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-tupiza-geoforms — Tupiza Quebrada de Palala El Sillar and Puerta del Diablo Geological Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/tupiza-geoforms.yaml)
+- Action: new
+- Scope: Published regional route and operator document distinctive colored rock formations, Palala and Puerta del Diablo. Group nearby features into one destination instead of inflating individual stops; representative town anchor. No riding or vehicle safety guarantee.
+- Representative coordinates: -21.44, -65.72; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.5 / 9.2 / 8.8.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 90.25/100.
+- Source: https://boliviaturistica.org/turismo-potosi-bolivia/quebradas-de-palala-tupiza/
+- Source: https://www.tupizaecotravel.com/tour/2
+- Source: https://www.tupizatours.com/tour-item/full-day/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct visitor scope, cultural or geological significance and experience; regional ranking-row peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/palca-canyon](../../../countries/BO/sights/palca-canyon.yaml) | 8.8 / 8.7 / 8.0 / 8.7 / 8.3 | impact: +0.5; uniqueness: +0.4 vs peer |
+| [BO/valle-de-las-animas](../../../countries/BO/sights/valle-de-las-animas.yaml) | 9.0 / 8.9 / 8.1 / 8.7 / 8.3 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [EC/cerro-de-arcos](../../../countries/EC/sights/cerro-de-arcos.yaml) | 8.9 / 8.9 / 8.2 / 8.6 / 8.4 | impact: +0.4; uniqueness: +0.2 vs peer |
+| [EC/el-altar-laguna-amarilla](../../../countries/EC/sights/el-altar-laguna-amarilla.yaml) | 9.4 / 9.2 / 8.8 / 8.8 / 9.0 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-el-alto-cholitas-wrestling — El Alto Cholitas Luchadoras Public Wrestling Performances — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/el-alto-cholitas-wrestling.yaml)
+- Action: new
+- Scope: Municipal report and ethnographic study document women's staged professional wrestling and indigenous cultural expression; public ticketed performance only. Distinct from architecture tours; no specific venue or future schedule asserted.
+- Representative coordinates: -16.5, -68.19; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.4 / 8.8 / 9.2 / 8.7.
+- Categories: culture:9.3 photography:9.2 nightlife:8.9.
+- Overall: 90.30/100.
+- Source: https://elalto.gob.bo/noticias/?p=21318
+- Source: https://www.scielo.org.bo/scielo.php?lng=es&nrm=is.&pid=S2518-44312025000200016&script=sci_arttext
+- Source: https://turismoelalto.com/tours/bolivia/la-paz/cholitas-wrestling-lunes-a-domingo/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct visitor scope, cultural or geological significance and experience; regional ranking-row peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/el-alto-cholets](../../../countries/BO/sights/el-alto-cholets.yaml) | 9.2 / 9.4 / 9.1 / 9.0 / 9.0 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [BO/la-paz-entrada-universitaria](../../../countries/BO/sights/la-paz-entrada-universitaria.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.0 | impact: -0.1; uniqueness: +0.2 vs peer |
+| [EC/loja-artes-vivas](../../../countries/EC/sights/loja-artes-vivas.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.2 | impact: -0.2; uniqueness: +0.3 vs peer |
+| [EC/pillaro-diablada](../../../countries/EC/sights/pillaro-diablada.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.0 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-torotoro-ciudad-de-itas — Torotoro Ciudad de Itas Guided Rock Formation Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/torotoro-ciudad-de-itas.yaml)
+- Action: new
+- Scope: SERNAP announced expanded visitor circuit and certification of 30 guides on 2 April 2026. Distinct named guided route; non-additive to parent Torotoro park and excludes Umajalanta and El Vergel.
+- Representative coordinates: -18.11, -65.79; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.7 / 8.8 / 8.5.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 88.60/100.
+- Source: https://www.sernap.gob.bo/index.php/nota_prensa/torotoro-potencia-su-oferta-turistica-para-semana-santa-con-la-inauguracion-del-circuito-ciudad-de-itas-y-la-capacitacion-de-30-guias/
+- Source: https://torotoro.world/pntt
+- Source: https://www.laregion.bo/torotoro-huellas-de-dinosaurios-cavernas-y-naturaleza-escondida/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/torotoro-national-park](../../../countries/BO/sights/torotoro-national-park.yaml) | 8.9 / 8.9 / 8.7 / 8.8 / 8.7 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BO/umajalanta-cave](../../../countries/BO/sights/umajalanta-cave.yaml) | 8.1 / 8.2 / 7.7 / 8.1 / 7.4 | impact: +0.9; uniqueness: +0.8 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-potosi-kari-kari — Potosí Kari Kari Colonial Reservoir Landscape Walk — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/potosi-kari-kari.yaml)
+- Action: new
+- Scope: Municipal geography describes colonial hydraulic reservoir network; tourism authority includes lagoons within Potosí heritage and operator offers trekking. Non-additive to aggregate Potosí, no unsafe mine access or reservoir swimming.
+- Representative coordinates: -19.63, -65.7; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.3 / 8.6 / 8.7.
+- Categories: history:9.4 nature:9.1 photography:9.2.
+- Overall: 88.50/100.
+- Source: https://turismo.potosi.bo/index.php/Informacion/geografia
+- Source: https://www.turismo.produccion.gob.bo/?page_id=3749
+- Source: https://www.rutasdelsur-bolivia.com/nuestros-programas/programas-potosi/excursion-al-kari-kari/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/city-of-potosi-heritage-ensemble](../../../countries/BO/sights/city-of-potosi-heritage-ensemble.yaml) | 8.9 / 9.2 / 9.8 / 8.1 / 9.1 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [BO/cordillera-de-sama-reserve](../../../countries/BO/sights/cordillera-de-sama-reserve.yaml) | 8.8 / 8.8 / 8.7 / 8.5 / 8.5 | impact: -0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-jatun-yampara — Jatun Yampara Community Textile and Ceramic Workshops — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/jatun-yampara.yaml)
+- Action: new
+- Scope: Named community visit with artisan workshops and museums documented by local operator and reporting. Only consenting host programmes, no private homes or rituals without invitation; separate from Pujllay festival and Tarabuco market.
+- Representative coordinates: -19.16, -65.12; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.9 / 9.0 / 8.7 / 8.8.
+- Categories: culture:9.4 history:9.1 photography:8.9.
+- Overall: 87.60/100.
+- Source: https://www.turismosucre.com.bo/index.php/sucre/nucleojatun/jatun
+- Source: https://hemeroteca.larazon.bo/la-revista/2024/01/15/el-ano-del-turismo-comunitario-comienza/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/tarabuco-sunday-market](../../../countries/BO/sights/tarabuco-sunday-market.yaml) | 8.0 / 8.6 / 7.8 / 8.5 / 7.2 | impact: +0.5; uniqueness: +0.3 vs peer |
+| [BO/sucre-asur-textile-museum](../../../countries/BO/sights/sucre-asur-textile-museum.yaml) | 8.6 / 9.2 / 9.3 / 8.8 / 9.0 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-oruro-socavon-sanctuary — Oruro Virgen del Socavón Sanctuary and Public Religious Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/oruro-socavon-sanctuary.yaml)
+- Action: new
+- Scope: Desk-based permanent sanctuary separate from carnival; public above-ground visit only, no mine or underground access guaranteed.
+- Representative coordinates: -17.97, -67.12; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.7 / 9.2 / 8.5 / 8.5.
+- Categories: history:9.3 architecture:9.1 culture:9.2.
+- Overall: 86.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/copacabana-basilica](../../../countries/BO/sights/copacabana-basilica.yaml) | 8.5 / 8.7 / 9.2 / 8.6 / 8.5 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [BO/oruro-carnival](../../../countries/BO/sights/oruro-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.4 / 9.2 | impact: -1.3; uniqueness: -0.8 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-oruro-obrajes-thermal — Obrajes Thermal Springs Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/oruro-obrajes-thermal.yaml)
+- Action: new
+- Scope: Desk-based thermal recreation, approximate region; no medical efficacy or operating guarantee.
+- Representative coordinates: -17.91, -66.92; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 7.8 / 8.0 / 7.6 / 8.6 / 8.0.
+- Categories: relaxation:9.2 nature:8.6 family:8.7.
+- Overall: 79.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/polques-hot-springs](../../../countries/BO/sights/polques-hot-springs.yaml) | 8.7 / 8.5 / 7.8 / 8.8 / 8.0 | impact: -0.9; uniqueness: -0.5 vs peer |
+| [BO/sajama-geysers](../../../countries/BO/sights/sajama-geysers.yaml) | 8.8 / 8.7 / 8.2 / 8.6 / 8.1 | impact: -1.0; uniqueness: -0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 288 scope decisions
+
+11 additions, 9 source-linked provisional, 2 desk-based provisional, 6 90+, 34 ranking-row comparisons (12 international). BO 130 ranked / 132 total, +76 since baseline 56. Prior seven inscribed and five tentative World Heritage properties represented at property scope, Chiquitos six components individually represented; other serial components not independently mapped. Kallawaya deferral narrowed to documented Pacha Trek consent-based cultural walks, not private healing rites or guaranteed programme. Uru Chipaya community tourism documented but current host confirmation pending. Torotoro Ciudad de Itas April 2026 expanded route, non-additive to parent; Kari Kari non-additive to Potosí ensemble. Otuquis and San Matías remain overlapping Pantanal, Chalalán overlaps Madidi, Aguaragüe and Serranía del Iñao named visitor scope remains unresolved despite general SERNAP 2026 invitation (https://www.sernap.gob.bo/index.php/nota_prensa/el-sernap-invita-a-las-familias-bolivianas-a-conectar-con-la-naturaleza-este-feriado-de-semana-santa/). Existing scores and two unassessed preserved. PAUSED after six targeted passes to diversify worldwide discovery; not exhaustive, unresolved cases retained; next Paraguay. Coordinates approximate, permissions and future events unverified.

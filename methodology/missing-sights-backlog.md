@@ -5100,3 +5100,19 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BO — Santa Cruz Metropolitan Cathedral and Plaza 24 de Septiembre: 83.70/100 (desk-based provisional).
 
 12 additions, 6 source-linked provisional, 6 desk-based provisional, 3 90+, 32 ranking-row comparisons (8 international). BO 119 ranked / 121 total, +65 since baseline 56. Prior seven inscribed and five tentative World Heritage properties represented at property scope, Chiquitos six named components represented; other serial components not independently mapped. UNESCO intangible list confirms Sucre Guadalupe inscription in 2025 (https://ich.unesco.org/es/RL/la-fiesta-de-la-virgen-de-guadalupe-patrona-de-sucre-02306). Tiwanaku Willkakuti June 2026 event reduced by road closures; no intrinsic score penalty. Cholets only authorized guided public-facing architecture; Sampaya consent-based. Serranía del Iñao deferred pending specific visitor scope, prior Aguaragüe/Pantanal/Madidi overlap and access deferrals retained. Sajama and Polques non-additive to parent parks; two unassessed and existing scores preserved. OPEN for final bounded regional screen. Coordinates approximate, permissions and future events unverified.
+
+### Pass 288 — Bolivia final bounded discovery screen
+
+- [x] BO — Aiquile International Charango Fair and Music Festival: 92.25/100 (source-linked-unverified).
+- [x] BO — Charazani Pacha Trek Kallawaya Community Cultural Walks: 91.70/100 (source-linked-unverified).
+- [x] BO — Uru Chipaya Community Architecture and Cultural Landscape Visits: 91.15/100 (source-linked-unverified).
+- [x] BO — Chuchini Moxos Archaeological Landscape and Guided Forest Visit: 91.15/100 (source-linked-unverified).
+- [x] BO — El Alto Cholitas Luchadoras Public Wrestling Performances: 90.30/100 (source-linked-unverified).
+- [x] BO — Tupiza Quebrada de Palala El Sillar and Puerta del Diablo Geological Circuit: 90.25/100 (source-linked-unverified).
+- [x] BO — Torotoro Ciudad de Itas Guided Rock Formation Circuit: 88.60/100 (source-linked-unverified).
+- [x] BO — Potosí Kari Kari Colonial Reservoir Landscape Walk: 88.50/100 (source-linked-unverified).
+- [x] BO — Jatun Yampara Community Textile and Ceramic Workshops: 87.60/100 (source-linked-unverified).
+- [x] BO — Oruro Virgen del Socavón Sanctuary and Public Religious Heritage: 86.30/100 (desk-based provisional).
+- [x] BO — Obrajes Thermal Springs Recreation: 79.50/100 (desk-based provisional).
+
+11 additions, 9 source-linked provisional, 2 desk-based provisional, 6 90+, 34 ranking-row comparisons (12 international). BO 130 ranked / 132 total, +76 since baseline 56. Prior seven inscribed and five tentative World Heritage properties represented at property scope, Chiquitos six components individually represented; other serial components not independently mapped. Kallawaya deferral narrowed to documented Pacha Trek consent-based cultural walks, not private healing rites or guaranteed programme. Uru Chipaya community tourism documented but current host confirmation pending. Torotoro Ciudad de Itas April 2026 expanded route, non-additive to parent; Kari Kari non-additive to Potosí ensemble. Otuquis and San Matías remain overlapping Pantanal, Chalalán overlaps Madidi, Aguaragüe and Serranía del Iñao named visitor scope remains unresolved despite general SERNAP 2026 invitation (https://www.sernap.gob.bo/index.php/nota_prensa/el-sernap-invita-a-las-familias-bolivianas-a-conectar-con-la-naturaleza-este-feriado-de-semana-santa/). Existing scores and two unassessed preserved. PAUSED after six targeted passes to diversify worldwide discovery; not exhaustive, unresolved cases retained; next Paraguay. Coordinates approximate, permissions and future events unverified.
