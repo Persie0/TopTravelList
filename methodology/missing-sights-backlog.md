@@ -5028,3 +5028,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BO — San Ignacio de Moxos Mission Church and Musical Heritage: 86.60/100 (desk-based provisional).
 
 13 additions, 11 source-linked provisional, 2 desk-based provisional, 8 90+, 42 ranking-row comparisons (16 international). BO 67 ranked / 69 total, +13 since baseline 56. UNESCO country list checked (https://whc.unesco.org/en/statesparties/bo): all 7 inscribed (Qhapaq Ñan unassessed) and 5 tentative represented at property scope; serial components not independently mapped. Five distinct public UNESCO intangible heritage experiences added; Chiquitos music festival distinct from permanent mission property. Condoriri excludes Huayna Potosí; Apolobamba limited to named permitted trek. No private rites or guaranteed wildlife sightings; existing two unassessed including TIPNIS preserved. OPEN for remaining natural areas, festivals, archaeology and regional attractions. Coordinates approximate; access, altitude safety and future programmes unverified.
+
+### Pass 284 — Bolivia endemic birding, festivals and regional landscapes
+
+- [x] BO — Quillacollo Virgen de Urkupiña Public Festival and Pilgrimage: 93.40/100 (source-linked-unverified).
+- [x] BO — Barba Azul Nature Reserve Beni Savanna Guided Birding: 92.30/100 (source-linked-unverified).
+- [x] BO — Omereque Red-fronted Macaw Community Reserve Guided Birding: 92.00/100 (source-linked-unverified).
+- [x] BO — Copacabana Virgen de la Candelaria Public Festival: 90.85/100 (source-linked-unverified).
+- [x] BO — Pilón Lajas Mapajo Community Forest and Quiquibey River Experience: 90.75/100 (source-linked-unverified).
+- [x] BO — Illimani Mountain Guided High-altitude Expedition: 90.05/100 (source-linked-unverified).
+- [x] BO — Tunupa Volcano Coquesa Crater Viewpoint Trek: 89.80/100 (source-linked-unverified).
+- [x] BO — Santiago de Chiquitos Tucabaca Valley Viewpoint Trails: 88.05/100 (source-linked-unverified).
+- [x] BO — Chochis Torre and Marian Sanctuary Landscape: 86.25/100 (desk-based provisional).
+- [x] BO — Lomas de Arena Regional Park Dunes and Wetlands: 86.15/100 (source-linked-unverified).
+- [x] BO — Salar de Coipasa Salt Flat Landscape: 86.05/100 (desk-based provisional).
+- [x] BO — Laguna Hedionda Nor Lípez Flamingo Landscape: 85.05/100 (desk-based provisional).
+- [x] BO — Samaipata Historic Town and Market Streets: 82.50/100 (desk-based provisional).
+
+13 additions, 9 source-linked provisional, 4 desk-based provisional, 6 90+, 38 ranking-row comparisons (12 international). BO 80 ranked / 82 total, +26 since baseline 56. Prior 7 inscribed and 5 tentative World Heritage properties represented at property scope; serial components not independently mapped. Urkupiña nomination not inscription; Copacabana Candelaria national heritage distinct from Puno and permanent basilica. Two endemic macaw reserves distinct and coordinates broad, no nesting locations. Pilón Lajas scoped to consenting Mapajo visitor experience. Otuquis and San Matías deferred as overlapping Bolivian Pantanal (https://boliviatravel.gob.bo/8pantanal-boliviano/), revisit distinct routes; Manuripi and Tariquía deferred pending specific visitor scopes. Tunupa excludes salt-flat tour; existing two unassessed preserved. OPEN for further regional natural and heritage attractions. Coordinates approximate; permissions, high altitude safety and future programmes unverified.

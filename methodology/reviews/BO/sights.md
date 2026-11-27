@@ -1405,3 +1405,289 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 283 scope decisions
 
 13 additions, 11 source-linked provisional, 2 desk-based provisional, 8 90+, 42 ranking-row comparisons (16 international). BO 67 ranked / 69 total, +13 since baseline 56. UNESCO country list checked (https://whc.unesco.org/en/statesparties/bo): all 7 inscribed (Qhapaq Ñan unassessed) and 5 tentative represented at property scope; serial components not independently mapped. Five distinct public UNESCO intangible heritage experiences added; Chiquitos music festival distinct from permanent mission property. Condoriri excludes Huayna Potosí; Apolobamba limited to named permitted trek. No private rites or guaranteed wildlife sightings; existing two unassessed including TIPNIS preserved. OPEN for remaining natural areas, festivals, archaeology and regional attractions. Coordinates approximate; access, altitude safety and future programmes unverified.
+
+
+## sight-bo-urkupina-festival — Quillacollo Virgen de Urkupiña Public Festival and Pilgrimage — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/urkupina-festival.yaml)
+- Action: new
+- Scope: ABI documented August 2026 public programme and 84 participating fraternities announced; UNESCO nomination work ongoing, not inscription. Public processions only, no future dates or participation guaranteed.
+- Representative coordinates: -17.39, -66.28; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.4 / 9.3 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.4.
+- Overall: 93.40/100.
+- Source: https://abi.bo/virgen-de-urkupina-84-fraternidades-participaran-en-la-entrada-folklorica-de-quillacollo/
+- Source: https://abi.bo/presentan-urqupina-2026-con-el-objetivo-de-consolidar-su-reconocimiento-como-patrimonio-de-la-humanidad/
+- Source: https://hemeroteca.larazon.bo/la-revista/2026/08/14/arranca-la-entrada-folklorica-en-honor-a-la-virgen-de-urkupina/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named visitor experience, compare with regional peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/oruro-carnival](../../../countries/BO/sights/oruro-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.4 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [BO/la-paz-gran-poder](../../../countries/BO/sights/la-paz-gran-poder.yaml) | 9.4 / 9.3 / 9.4 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [EC/el-cisne-pilgrimage](../../../countries/EC/sights/el-cisne-pilgrimage.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.2 | impact: +0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-barba-azul-reserve — Barba Azul Nature Reserve Beni Savanna Guided Birding — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/barba-azul-reserve.yaml)
+- Action: new
+- Scope: Armonía documents bookable multi-day conservation birding and habitat for the endemic critically endangered blue-throated macaw; WHSRN identifies shorebird significance. Representative broad reserve location, not nest location. No guaranteed sightings.
+- Representative coordinates: -13.75, -66.05; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 8.8 / 9.2.
+- Categories: nature:9.4 wildlife:9.4 photography:9.3.
+- Overall: 92.30/100.
+- Source: https://armoniabolivia.org/wildlife-and-bird-watching-holiday-in-boliva/
+- Source: https://armoniabolivia.org/preguntas-frecuentes-turismo/
+- Source: https://whsrn.org/whsrn_sites/barba-azul-nature-reserve/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named visitor experience, compare with regional peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/pampas-del-yacuma](../../../countries/BO/sights/pampas-del-yacuma.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.6 | impact: +0.4; uniqueness: +0.8 vs peer |
+| [BO/madidi-national-park](../../../countries/BO/sights/madidi-national-park.yaml) | 9.4 / 9.3 / 9.6 / 8.8 / 9.4 | impact: -0.2; uniqueness: +0.1 vs peer |
+| [EC/tapichalaca-reserve](../../../countries/EC/sights/tapichalaca-reserve.yaml) | 8.9 / 9.4 / 9.3 / 8.9 / 9.0 | impact: +0.3; uniqueness: +0.0 vs peer |
+| [EC/buenaventura-reserve](../../../countries/EC/sights/buenaventura-reserve.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: +0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-red-fronted-macaw-reserve — Omereque Red-fronted Macaw Community Reserve Guided Birding — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/red-fronted-macaw-reserve.yaml)
+- Action: new
+- Scope: Armonía documents community-run reserve with public reservations and conservation of endemic red-fronted macaw. Coordinates deliberately general Omereque area, not breeding cliffs; consenting guided viewing only.
+- Representative coordinates: -18.1, -65.1; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.4 / 9.0 / 9.2.
+- Categories: wildlife:9.4 nature:9.4 culture:9.2 photography:9.3.
+- Overall: 92.00/100.
+- Source: https://armoniabolivia.org/wildlife-and-bird-watching-ecotourism-holiday-in-bolivia/
+- Source: https://armoniabolivia.org/what/empowering-local-indigenous-people/
+- Source: https://dev.armoniabolivia.org/red-fronted-macaw-community-natural-reserve-a-post-pandemic-tourism-increase-marks-a-financial-milestone-for-local-communities/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named visitor experience, compare with regional peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/madidi-national-park](../../../countries/BO/sights/madidi-national-park.yaml) | 9.4 / 9.3 / 9.6 / 8.8 / 9.4 | impact: -0.4; uniqueness: +0.1 vs peer |
+| [BO/amboro-national-park](../../../countries/BO/sights/amboro-national-park.yaml) | 8.9 / 8.9 / 9.1 / 8.6 / 8.9 | impact: +0.1; uniqueness: +0.5 vs peer |
+| [EC/tapichalaca-reserve](../../../countries/EC/sights/tapichalaca-reserve.yaml) | 8.9 / 9.4 / 9.3 / 8.9 / 9.0 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [EC/buenaventura-reserve](../../../countries/EC/sights/buenaventura-reserve.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-pilon-lajas-mapajo — Pilón Lajas Mapajo Community Forest and Quiquibey River Experience — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/pilon-lajas-mapajo.yaml)
+- Action: new
+- Scope: WCS documents tourism zoning in Asunción del Quiquibey; SERNAP includes Pilón Lajas in 2026 visitor invitation; LAC Geo identifies Mapajo community programme. Defined authorized community experience distinct from Madidi; current host availability unverified, no private rites.
+- Representative coordinates: -14.65, -67.5; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 8.7 / 9.1.
+- Categories: nature:9.4 wildlife:9.3 culture:9.3.
+- Overall: 90.75/100.
+- Source: https://bolivia.wcs.org/es-es/iniciativas/gesti%C3%B3n-de-%C3%A1reas-protegidas.aspx
+- Source: https://www.sernap.gob.bo/index.php/nota_prensa/el-sernap-invita-a-las-familias-bolivianas-a-conectar-con-la-naturaleza-este-feriado-de-semana-santa/
+- Source: https://www.lacgeo.com/pilon-lajas-biosphere-reserve-bolivia
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named visitor experience, compare with regional peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/madidi-national-park](../../../countries/BO/sights/madidi-national-park.yaml) | 9.4 / 9.3 / 9.6 / 8.8 / 9.4 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [BO/pampas-del-yacuma](../../../countries/BO/sights/pampas-del-yacuma.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.6 | impact: +0.2; uniqueness: +0.6 vs peer |
+| [EC/kapawi-achuar-community](../../../countries/EC/sights/kapawi-achuar-community.yaml) | 9.2 / 9.4 / 9.3 / 9.0 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-copacabana-candelaria-festival — Copacabana Virgen de la Candelaria Public Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/copacabana-candelaria-festival.yaml)
+- Action: new
+- Scope: Bolivia TV and law 1736 report national intangible heritage recognition in 2026. Named public festival distinct from permanent basilica and Lake Titicaca; no private ritual or future schedule guaranteed.
+- Representative coordinates: -16.166, -69.086; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 90.85/100.
+- Source: https://www.boliviatv.bo/principal/nota.php?noticia=b69a7bc399515576046d397464b90509
+- Source: https://www.pixilegal.com/normativa/ley-1736-2026-05-27
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named visitor experience, compare with regional peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/copacabana-basilica](../../../countries/BO/sights/copacabana-basilica.yaml) | 8.5 / 8.7 / 9.2 / 8.6 / 8.5 | impact: +0.5; uniqueness: +0.4 vs peer |
+| [BO/la-paz-gran-poder](../../../countries/BO/sights/la-paz-gran-poder.yaml) | 9.4 / 9.3 / 9.4 / 9.3 / 9.2 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [EC/el-quinche-pilgrimage](../../../countries/EC/sights/el-quinche-pilgrimage.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.1 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-illimani-expedition — Illimani Mountain Guided High-altitude Expedition — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/illimani-expedition.yaml)
+- Action: new
+- Scope: Certified guide operator documents Illimani expedition; separate from Huayna Potosí and Condoriri. Expert-only glaciated mountaineering, no summit guarantee or safety claim.
+- Representative coordinates: -16.65, -67.79; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.9 / 8.4 / 9.0.
+- Categories: adventure:9.4 nature:9.3 photography:9.4.
+- Overall: 90.05/100.
+- Source: https://www.bolivianmountainguides.com/
+- Source: https://www.bolivianmountaineering.com/climbing-sumits-bolivia/illimani
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented named visitor experience, compare with regional peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/huayna-potosi](../../../countries/BO/sights/huayna-potosi.yaml) | 9.1 / 8.9 / 8.2 / 8.5 / 8.2 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [BO/tuni-condoriri-trek](../../../countries/BO/sights/tuni-condoriri-trek.yaml) | 9.4 / 9.2 / 8.7 / 9.0 / 9.0 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [EC/el-altar-laguna-amarilla](../../../countries/EC/sights/el-altar-laguna-amarilla.yaml) | 9.4 / 9.2 / 8.8 / 8.8 / 9.0 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [EC/iliniza-peaks](../../../countries/EC/sights/iliniza-peaks.yaml) | 8.9 / 8.8 / 8.5 / 8.3 / 8.5 | impact: +0.4; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-tunupa-coquesa — Tunupa Volcano Coquesa Crater Viewpoint Trek — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/tunupa-coquesa.yaml)
+- Action: new
+- Scope: Andeshandbook documents panoramic salt flat views; operator documents Coquesa viewpoint ascent. Scope distinct guided volcano trek, not salt-flat tour or human remains viewing; community permission and trail conditions unverified.
+- Representative coordinates: -19.83, -67.65; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.5 / 8.9 / 8.8.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 89.80/100.
+- Source: https://www.andeshandbook.org/montanismo/cerro/509/tunupa
+- Source: https://www.latebolivia.com/es/Destin/Destinos-top/Turismo-en-el-salar-de-uyuni
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/salar-de-uyuni](../../../countries/BO/sights/salar-de-uyuni.yaml) | 9.9 / 9.9 / 9.0 / 9.4 / 9.0 | impact: -0.6; uniqueness: -0.8 vs peer |
+| [BO/tuni-condoriri-trek](../../../countries/BO/sights/tuni-condoriri-trek.yaml) | 9.4 / 9.2 / 8.7 / 9.0 / 9.0 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-tucabaca-santiago — Santiago de Chiquitos Tucabaca Valley Viewpoint Trails — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/tucabaca-santiago.yaml)
+- Action: new
+- Scope: Regional tourism and birding sources document named viewpoint trail and rocky monolith landscape. Distinct from permanent mission heritage.
+- Representative coordinates: -18.33, -59.58; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.8 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:9.0.
+- Overall: 88.05/100.
+- Source: https://turismochiquitano.org/mirador-del-valle-de-tucabaca/
+- Source: https://birdsofbolivia.org/birding-in-bolivia-2/e-bird-hotspots/mirador-de-tucabaca/
+- Source: https://www.boliviaturismo.com.bo/santiago-de-chiquitos.html
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/amboro-national-park](../../../countries/BO/sights/amboro-national-park.yaml) | 8.9 / 8.9 / 9.1 / 8.6 / 8.9 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BO/el-vergel-canyon](../../../countries/BO/sights/el-vergel-canyon.yaml) | 8.6 / 8.4 / 7.6 / 8.7 / 7.7 | impact: +0.2; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-lomas-de-arena — Lomas de Arena Regional Park Dunes and Wetlands — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/lomas-de-arena.yaml)
+- Action: new
+- Scope: Santa Cruz municipality documents regional park dunes and bird-rich wetlands. No off-trail driving or wildlife guarantee.
+- Representative coordinates: -17.92, -63.14; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.4 / 8.8 / 8.3.
+- Categories: nature:9.2 photography:9.3 adventure:9.0.
+- Overall: 86.15/100.
+- Source: https://culturayturismo.gmsantacruz.gob.bo/articulos/lomas-de-arena
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/siloli-desert](../../../countries/BO/sights/siloli-desert.yaml) | 9.0 / 8.9 / 7.8 / 8.7 / 8.0 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [BO/bolivian-pantanal](../../../countries/BO/sights/bolivian-pantanal.yaml) | 8.8 / 8.8 / 9.1 / 8.4 / 8.8 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-salar-de-coipasa — Salar de Coipasa Salt Flat Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/salar-de-coipasa.yaml)
+- Action: new
+- Scope: Desk-based distinct salt flat north of Uyuni; no crossing, access or seasonal mirror guarantee.
+- Representative coordinates: -19.39, -68.15; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.3 / 8.2 / 8.2.
+- Categories: nature:9.2 photography:9.4 adventure:8.8.
+- Overall: 86.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/salar-de-uyuni](../../../countries/BO/sights/salar-de-uyuni.yaml) | 9.9 / 9.9 / 9.0 / 9.4 / 9.0 | impact: -1.0; uniqueness: -1.0 vs peer |
+| [BO/siloli-desert](../../../countries/BO/sights/siloli-desert.yaml) | 9.0 / 8.9 / 7.8 / 8.7 / 8.0 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-laguna-hedionda — Laguna Hedionda Nor Lípez Flamingo Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/laguna-hedionda.yaml)
+- Action: new
+- Scope: Desk-based named Nor Lípez lagoon, not other same-name lagoons; wildlife viewing not guaranteed; non-additive on same southwest circuit.
+- Representative coordinates: -21.56, -68.06; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.2 / 8.7 / 8.0.
+- Categories: wildlife:9.3 photography:9.3 nature:9.2.
+- Overall: 85.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/laguna-colorada](../../../countries/BO/sights/laguna-colorada.yaml) | 9.6 / 9.5 / 8.8 / 9.0 / 8.0 | impact: -0.9; uniqueness: -0.9 vs peer |
+| [BO/laguna-verde](../../../countries/BO/sights/laguna-verde.yaml) | 9.2 / 9.0 / 7.8 / 8.7 / 7.3 | impact: -0.5; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-chochis-torre — Chochis Torre and Marian Sanctuary Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/chochis-torre.yaml)
+- Action: new
+- Scope: Desk-based distinct sandstone tower and sanctuary visit, no climb or building admission guarantee.
+- Representative coordinates: -18.11, -60.03; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.7 / 8.6 / 8.4.
+- Categories: architecture:9.1 nature:9.1 photography:9.3.
+- Overall: 86.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/fuerte-de-samaipata](../../../countries/BO/sights/fuerte-de-samaipata.yaml) | 8.9 / 9.5 / 9.3 / 8.7 / 8.3 | impact: -0.3; uniqueness: -0.8 vs peer |
+| [BO/copacabana-basilica](../../../countries/BO/sights/copacabana-basilica.yaml) | 8.5 / 8.7 / 9.2 / 8.6 / 8.5 | impact: +0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-samaipata-town — Samaipata Historic Town and Market Streets — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/samaipata-town.yaml)
+- Action: new
+- Scope: Desk-based town experience separate from Fuerte and Amboró; no current venue availability claimed.
+- Representative coordinates: -18.18, -63.88; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.0 / 8.2 / 8.4 / 8.6 / 8.3.
+- Categories: culture:8.9 architecture:8.8 relaxation:8.8.
+- Overall: 82.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/fuerte-de-samaipata](../../../countries/BO/sights/fuerte-de-samaipata.yaml) | 8.9 / 9.5 / 9.3 / 8.7 / 8.3 | impact: -0.9; uniqueness: -1.3 vs peer |
+| [BO/tarabuco-sunday-market](../../../countries/BO/sights/tarabuco-sunday-market.yaml) | 8.0 / 8.6 / 7.8 / 8.5 / 7.2 | impact: +0.0; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 284 scope decisions
+
+13 additions, 9 source-linked provisional, 4 desk-based provisional, 6 90+, 38 ranking-row comparisons (12 international). BO 80 ranked / 82 total, +26 since baseline 56. Prior 7 inscribed and 5 tentative World Heritage properties represented at property scope; serial components not independently mapped. Urkupiña nomination not inscription; Copacabana Candelaria national heritage distinct from Puno and permanent basilica. Two endemic macaw reserves distinct and coordinates broad, no nesting locations. Pilón Lajas scoped to consenting Mapajo visitor experience. Otuquis and San Matías deferred as overlapping Bolivian Pantanal (https://boliviatravel.gob.bo/8pantanal-boliviano/), revisit distinct routes; Manuripi and Tariquía deferred pending specific visitor scopes. Tunupa excludes salt-flat tour; existing two unassessed preserved. OPEN for further regional natural and heritage attractions. Coordinates approximate; permissions, high altitude safety and future programmes unverified.
