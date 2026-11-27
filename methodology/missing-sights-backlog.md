@@ -4852,3 +4852,19 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — Tanimboca Amazon Forest Canopy and Treehouse Experience: 86.35/100 (desk-based provisional).
 
 12 additions, 10 source-linked provisional, 2 desk-based provisional, 3 90+, 37 ranking-row comparisons (13 international). CO 123 ranked / 127 total, +72 since baseline 55. Previous 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 provisionally at least partially mapped carried forward without independent recheck. Leticia and Wayúu national heritage statutes checked; Cali World Salsa distinct from Feria and Delirio. Sibundoy Bëtscnaté recognized by Resolution 3471 of 2013 (https://normograma.mincultura.gov.co/mincultura/compilacion/docs/resolucion_mincultura_3471_2013.htm), deferred pending explicit community-approved visitor scope, not score penalty. Capurganá Caribbean side, excludes Panama. Guachalito excludes whale watching; Tanimboca excludes river trips. Salamina and other coffee region towns non-additive to overlapping parent itineraries; security, current access and coordinates unverified. Existing scores and four unassessed preserved. Queue OPEN for targeted remaining priority national parks, regional craft and festival experiences, and unresolved tentative heritage.
+
+### Pass 274 — Colombia craft heritage, mountain parks and birdwatching
+
+- [x] CO — Pasto Mopa-Mopa Varnish Traditional Artisan Workshop Route: 91.60/100 (source-linked-unverified).
+- [x] CO — Bogotá Expoartesanías National Artisan and Cultural Fair: 91.30/100 (source-linked-unverified).
+- [x] CO — Farallones de Cali National Natural Park Authorized Mountain and Forest Trails: 90.75/100 (source-linked-unverified).
+- [x] CO — Río Blanco Manizales Cloud Forest Birdwatching Reserve: 90.55/100 (source-linked-unverified).
+- [x] CO — Los Estoraques Unique Natural Area Eroded Sandstone Formations: 88.70/100 (source-linked-unverified).
+- [x] CO — Iguaque Flora and Fauna Sanctuary Sacred Highland Lagoon: 88.85/100 (source-linked-unverified).
+- [x] CO — Ráquira Traditional Pottery Artisan Workshops and Ceramics Village: 88.90/100 (source-linked-unverified).
+- [x] CO — Mompox Traditional Filigree Goldsmith Artisan Workshops: 88.55/100 (source-linked-unverified).
+- [x] CO — Los Colorados Flora and Fauna Sanctuary Tropical Dry Forest: 86.40/100 (source-linked-unverified).
+- [x] CO — Laguna de Sonso Buga Wetland Birdwatching: 85.70/100 (desk-based provisional).
+- [x] CO — La Playa de Belén Historic Whitewashed Village: 84.90/100 (desk-based provisional).
+
+11 additions, 9 source-linked provisional, 2 desk-based provisional, 4 90+, 38 ranking-row comparisons (18 international). CO 134 ranked / 138 total, +83 since baseline 55. UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, prior 8/13 partial mapping carried forward; United Fruit submission inspected (https://whc.unesco.org/en/tentativelists/5770/) but visitor component not confirmed, defer. Pasto varnish UNESCO urgent safeguarding inscription applies to traditional techniques, named workshop route separately documented. Farallones excludes Pico Pance and other unauthorized sectors; Tinigua deferred because Angosturas I visitor sector shared with Sierra de la Macarena (https://www.parquesnacionales.gov.co/sala-prensa/noticias/visitar-la-sierra-de-la-macarena-si-pero-con-responsabilidad/); no double count. Mompox filigree non-additive to overlapping heritage itinerary. Earlier deferrals retained. Existing scores and four unassessed preserved. Queue OPEN for remaining distinct flagship experiences, including culinary and heritage routes and Pacific/Amazon candidates. Coordinates approximate; current access and security unverified.

@@ -1,0 +1,16 @@
+id: sight-co-los-colorados-sanctuary
+name: "Los Colorados Flora and Fauna Sanctuary Tropical Dry Forest"
+location:
+  country_code: CO
+  latitude: 9.95
+  longitude: -75.12
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.5
+  depth: 8.6
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 9.0
