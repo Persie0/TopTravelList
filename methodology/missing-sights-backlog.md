@@ -971,3 +971,18 @@ Six additions, 24 peer rows. Portugal 72 ranked / 73 total. São Vicente caves d
 - [x] PT — Gorreana Tea Plantation and Factory Trail: 86.65/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Portugal 80 ranked / 81 total. Gruta das Torres July 2026 resumption notice inspected via indexed excerpt; direct schedule page returned 403, current booking not confirmed. Faial interior guided and regulated; São Jorge two linked fajãs grouped; Porto Santo entire southern beach grouped. Next bounded mainland screen: Castelo de Almourol, Conímbriga Roman ruins, Palácio Nacional de Queluz, Palácio Nacional da Ajuda, Porto Clérigos (scope check), Gaia port wine lodges (scope check), Passadiços do Mondego, and Serra de São Mamede (Raia scope check). One prior unassessed unchanged. Full Python validation pending.
+
+### Pass 86 — final bounded Portuguese mainland screen and previously deferred volcanic caves
+
+- [x] PT — Algar do Carvão Volcanic Chimney: 89.75/100 (source-linked-unverified).
+- [x] PT — Conímbriga Roman Ruins and Museum: 88.70/100 (source-linked-unverified).
+- [x] PT — National Palace and Gardens of Queluz: 88.40/100 (source-linked-unverified).
+- [x] PT — Ajuda National Palace: 87.00/100 (source-linked-unverified).
+- [x] PT — Almourol Castle: 87.40/100 (source-linked-unverified).
+- [x] PT — Clérigos Church, Tower and Museum: 86.40/100 (source-linked-unverified).
+- [x] PT — Vila Nova de Gaia Historic Port Wine Lodges: 87.15/100 (source-linked-unverified).
+- [x] PT — Mondego Walkways: 84.95/100 (source-linked-unverified).
+- [x] PT — Serra de São Mamede Natural Park: 85.35/100 (source-linked-unverified).
+- [x] PT — São Vicente Caves and Volcanism Centre: 85.25/100 (source-linked-unverified).
+
+Ten additions, 40 peer rows. Portugal 90 ranked / 91 total, 38 additions since pass 82; current Portugal queue DONE (16 closed queues total). Algar do Carvão and São Vicente Caves now assessed on established experiences irrespective of temporary closure; no reopening date assumed. Queluz outside the Sintra mountain landscape; Clérigos interior and ascent distinct from Porto streets; Gaia cellars grouped separately from Douro vineyards; Mondego built trail distinct from Serra da Estrela landscape; São Mamede nature trails exclude fortified settlements. Existing one unassessed unchanged. Next country: choose an unscreened country from current worldwide inventory; do not reopen a completed queue absent concrete evidence. Full Python validation and independent corroboration pending.

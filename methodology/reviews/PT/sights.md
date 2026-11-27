@@ -2949,3 +2949,393 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+
+## sight-pt-algar-do-carvao — Algar do Carvão Volcanic Chimney — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/algar-do-carvao.yaml)
+- Action: new
+- Precise subject and limitations: Former public stairway descent into a volcanic vent with silica formations and lagoon; visitor centre construction closure does not lower the established experience score. Reopening date not assumed.
+- Location check: 38.72814, -27.2159; [published representative point](https://mapcarta.com/N512538639), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.montanheiros.com/en/algarcarvao/); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/gruta-das-torres](../../../countries/PT/sights/gruta-das-torres.yaml) | 8.8 / 8.9 / 8.6 / 8.6 / 8.3 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer. |
+| [PT/capelinhos-volcano](../../../countries/PT/sights/capelinhos-volcano.yaml) | 9.0 / 9.2 / 9.0 / 8.8 / 8.8 | depth: -0.4 vs peer; significance: -0.2 vs peer. |
+| [ES/cueva-del-viento](../../../countries/ES/sights/cueva-del-viento.yaml) | 8.8 / 9.0 / 8.6 / 8.7 / 8.4 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer. |
+| [ES/cueva-de-los-verdes](../../../countries/ES/sights/cueva-de-los-verdes.yaml) | 8.8 / 8.9 / 8.5 / 8.8 / 8.3 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic vegetated volcanic shaft. |
+| Uniqueness | 9.3 | Rare accessible volcanic chimney morphology. |
+| Significance | 8.8 | Protected geological heritage. |
+| Experience | 8.8 | Established interior descent and interpretation. |
+| Depth | 8.4 | Substantial but bounded underground visit. |
+
+- Applicable categories: nature:9.4, photography:9.3, adventure:9.0.
+- Computed worldwide overall: 89.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: pass 84 access deferral superseded.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-conimbriga-roman-ruins — Conímbriga Roman Ruins and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/conimbriga-roman-ruins.yaml)
+- Action: new
+- Precise subject and limitations: Excavated Roman settlement, mosaics and adjacent national museum as one archaeological experience; museum evidence https://www.visitportugal.com/en/node/138274.
+- Location check: 40.0986, -8.49502; [published representative point](https://mapcarta.com/17826856), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitportugal.com/en/node/128647); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/merida](../../../countries/ES/sights/merida.yaml) | 9.0 / 9.1 / 9.4 / 9.0 / 9.2 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [PT/coa-rock-art](../../../countries/PT/sights/coa-rock-art.yaml) | 8.4 / 9.3 / 9.5 / 8.7 / 8.8 | uniqueness: -0.5 vs peer; impact: +0.4 vs peer. |
+| [PT/mertola-core](../../../countries/PT/sights/mertola-core.yaml) | 8.5 / 8.9 / 9.1 / 8.5 / 8.6 | impact: +0.3 vs peer; experience: +0.3 vs peer. |
+| [ES/siega-verde](../../../countries/ES/sights/siega-verde.yaml) | 8.3 / 9.2 / 9.5 / 8.4 / 8.2 | depth: +0.7 vs peer; impact: +0.5 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Extensive exposed urban remains. |
+| Uniqueness | 8.8 | Distinct domestic mosaics and Roman urban fabric. |
+| Significance | 9.1 | Major Portuguese Roman archaeological site. |
+| Experience | 8.8 | Walkable ruins and museum interpretation. |
+| Depth | 8.9 | Substantial archaeological precinct. |
+
+- Applicable categories: history:9.4, architecture:9.1, culture:9.0, photography:8.9.
+- Computed worldwide overall: 88.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-queluz-national-palace — National Palace and Gardens of Queluz — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/queluz-national-palace.yaml)
+- Action: new
+- Precise subject and limitations: Separate palace precinct at Queluz, not Sintra mountain landscape; royal interiors and formal gardens grouped.
+- Location check: 38.750406, -9.257889; [published representative point](https://bilheteira.parquesdesintra.pt/info/palacio-nacional-e-jardins-de-queluz/1216/en), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.parquesdesintra.pt/en/parks-monuments/national-palace-and-gardens-of-queluz/); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/pena-palace](../../../countries/PT/sights/pena-palace.yaml) | 9.4 / 9.3 / 9.0 / 9.1 / 9.0 | uniqueness: -0.6 vs peer; impact: -0.5 vs peer. |
+| [PT/mafra](../../../countries/PT/sights/mafra.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.2 | uniqueness: -0.4 vs peer; depth: -0.4 vs peer. |
+| [ES/royal-palace-madrid](../../../countries/ES/sights/royal-palace-madrid.yaml) | 9.2 / 9.0 / 9.3 / 9.1 / 9.0 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [ES/alcazar-seville](../../../countries/ES/sights/alcazar-seville.yaml) | 9.4 / 9.3 / 9.3 / 9.2 / 9.0 | uniqueness: -0.6 vs peer; impact: -0.5 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Rich palace rooms and formal gardens. |
+| Uniqueness | 8.7 | Distinct Portuguese royal decorative ensemble. |
+| Significance | 8.9 | Important eighteenth-century royal history. |
+| Experience | 8.9 | Interior and garden circuits. |
+| Depth | 8.8 | Multiple furnished rooms and grounds. |
+
+- Applicable categories: architecture:9.3, history:9.1, photography:9.2, culture:9.0.
+- Computed worldwide overall: 88.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-ajuda-national-palace — Ajuda National Palace — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/ajuda-national-palace.yaml)
+- Action: new
+- Precise subject and limitations: Furnished nineteenth-century royal residence and decorative arts; excludes separate Royal Treasure Museum.
+- Location check: 38.70747, -9.19776; [published representative point](https://mapcarta.com/35987532), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.pnajuda.gov.pt/en/pages/118103a3-visite); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/mafra](../../../countries/PT/sights/mafra.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.2 | uniqueness: -0.6 vs peer; impact: -0.4 vs peer. |
+| [PT/pena-palace](../../../countries/PT/sights/pena-palace.yaml) | 9.4 / 9.3 / 9.0 / 9.1 / 9.0 | uniqueness: -0.8 vs peer; impact: -0.7 vs peer. |
+| [ES/royal-palace-madrid](../../../countries/ES/sights/royal-palace-madrid.yaml) | 9.2 / 9.0 / 9.3 / 9.1 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | uniqueness: -0.5 vs peer; impact: +0.1 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Elaborate royal interiors. |
+| Uniqueness | 8.5 | Distinct residence but familiar palace format. |
+| Significance | 8.9 | Important late monarchy heritage. |
+| Experience | 8.7 | Established museum circuit. |
+| Depth | 8.8 | Extensive decorative arts collections. |
+
+- Applicable categories: architecture:9.1, history:9.2, culture:9.1.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-almourol-castle — Almourol Castle — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/almourol-castle.yaml)
+- Action: new
+- Precise subject and limitations: Templar-era island fortress and normal boat approach; river conditions can limit access.
+- Location check: 39.4619, -8.38369; [published representative point](https://mapcarta.com/36096048), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitportugal.com/en/node/135553); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | depth: -0.7 vs peer; experience: -0.4 vs peer. |
+| [PT/moorish-castle](../../../countries/PT/sights/moorish-castle.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.3 | experience: -0.4 vs peer; depth: -0.3 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | depth: -0.7 vs peer; experience: -0.3 vs peer. |
+| [ES/bellver-castle](../../../countries/ES/sights/bellver-castle.yaml) | 8.7 / 8.9 / 8.8 / 8.7 / 8.3 | impact: +0.3 vs peer; depth: -0.3 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking island silhouette. |
+| Uniqueness | 8.9 | River-island castle setting. |
+| Significance | 8.7 | Regional medieval and Templar heritage. |
+| Experience | 8.5 | Boat approach and fortress visit. |
+| Depth | 8.0 | Limited interior footprint. |
+
+- Applicable categories: architecture:9.1, photography:9.3, history:9.0.
+- Computed worldwide overall: 87.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-clerigos-church-tower — Clérigos Church, Tower and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/clerigos-church-tower.yaml)
+- Action: new
+- Precise subject and limitations: Distinct church interior, museum and tower ascent rather than duplicate urban street experience in Porto historic centre.
+- Location check: 41.14567, -8.61468; [published representative point](https://mapcarta.com/32914902), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitporto.travel/en-GB/poi/5cd04b4bf979e00001939091); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/porto-historic-centre](../../../countries/PT/sights/porto-historic-centre.yaml) | 9.3 / 9.2 / 9.2 / 9.3 / 9.2 | depth: -1.0 vs peer; impact: -0.6 vs peer. |
+| [PT/livraria-lello](../../../countries/PT/sights/livraria-lello.yaml) | 8.7 / 8.9 / 8.5 / 8.2 / 7.6 | experience: +0.6 vs peer; depth: +0.6 vs peer. |
+| [PT/belem-tower](../../../countries/PT/sights/belem-tower.yaml) | 8.9 / 9.0 / 9.2 / 8.5 / 7.8 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [ES/tower-hercules](../../../countries/ES/sights/tower-hercules.yaml) | 8.8 / 9.1 / 9.3 / 8.7 / 7.9 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Memorable tower and panoramic view. |
+| Uniqueness | 8.6 | Distinct Baroque complex. |
+| Significance | 8.7 | Major Porto landmark. |
+| Experience | 8.8 | Tower climb and interior visit. |
+| Depth | 8.2 | Compact monument and museum. |
+
+- Applicable categories: architecture:9.2, photography:9.2, history:8.9.
+- Computed worldwide overall: 86.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-gaia-port-wine-lodges — Vila Nova de Gaia Historic Port Wine Lodges — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/gaia-port-wine-lodges.yaml)
+- Action: new
+- Precise subject and limitations: Historic ageing cellars and guided production-history visits, not Douro vineyards or Porto streets; representative point at Sandeman; individual operators not separately counted.
+- Location check: 41.137631, -8.61245; [published representative point](https://dev.winetourism.sogrape.com/en/visit/sandeman), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitportugal.com/en/node/329677); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/douro-valley](../../../countries/PT/sights/douro-valley.yaml) | 9.3 / 9.3 / 9.2 / 9.2 / 9.4 | impact: -0.8 vs peer; depth: -0.7 vs peer. |
+| [PT/pico-vineyards](../../../countries/PT/sights/pico-vineyards.yaml) | 8.9 / 9.3 / 9.2 / 8.8 / 8.8 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer. |
+| [PT/gorreana-tea-plantation](../../../countries/PT/sights/gorreana-tea-plantation.yaml) | 8.6 / 8.9 / 8.5 / 8.8 / 8.4 | significance: +0.3 vs peer; depth: +0.3 vs peer. |
+| [ES/rioja](../../../countries/ES/sights/rioja.yaml) | 8.8 / 8.9 / 9.0 / 9.0 / 9.1 | depth: -0.4 vs peer; impact: -0.3 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Atmospheric historic cellars. |
+| Uniqueness | 8.8 | Distinct port ageing tradition. |
+| Significance | 8.8 | Important regional commercial heritage. |
+| Experience | 8.9 | Established cellar interpretation and optional tastings. |
+| Depth | 8.7 | Several related lodges and collections. |
+
+- Applicable categories: culture:9.2, food:9.2, history:8.9.
+- Computed worldwide overall: 87.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-mondego-walkways — Mondego Walkways — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/mondego-walkways.yaml)
+- Action: new
+- Precise subject and limitations: Defined approximately 12 km boardwalk, bridge and river hiking route inside Serra da Estrela, distinct built trail experience; representative Videmonte entrance.
+- Location check: 40.509094, -7.390958; [published representative point](https://www.passadicosdomondego.pt/normas-e-recomendacoes.html), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.passadicosdomondego.pt/passadicos-do-mondego.html); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/paiva-walkways-arouca-516](../../../countries/PT/sights/paiva-walkways-arouca-516.yaml) | 9.0 / 9.0 / 8.2 / 8.9 / 8.7 | uniqueness: -0.6 vs peer; impact: -0.4 vs peer. |
+| [PT/serra-estrela](../../../countries/PT/sights/serra-estrela.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | significance: -0.5 vs peer; depth: -0.5 vs peer. |
+| [ES/alquezar-vero-gorge](../../../countries/ES/sights/alquezar-vero-gorge.yaml) | 8.9 / 8.9 / 8.6 / 8.9 / 8.7 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer. |
+| [ES/masca-gorge](../../../countries/ES/sights/masca-gorge.yaml) | 9.2 / 9.0 / 8.4 / 8.7 / 8.7 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Attractive river and mountain scenery. |
+| Uniqueness | 8.4 | Recognizable boardwalk experience. |
+| Significance | 8.1 | Local nature and industrial heritage. |
+| Experience | 8.9 | Substantial maintained walking route. |
+| Depth | 8.6 | Several connected landscape sections. |
+
+- Applicable categories: nature:9.0, adventure:9.1, photography:9.1.
+- Computed worldwide overall: 84.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-serra-sao-mamede — Serra de São Mamede Natural Park — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/serra-sao-mamede.yaml)
+- Action: new
+- Precise subject and limitations: Protected mountain landscapes and marked nature trails only; excludes fortified town interiors represented by Raia series; summit reference.
+- Location check: 39.3135, -7.36055; [published representative point](https://mapcarta.com/16872266), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitportugal.com/en/node/156067); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/serra-estrela](../../../countries/PT/sights/serra-estrela.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [PT/peneda-geres](../../../countries/PT/sights/peneda-geres.yaml) | 9.1 / 9.0 / 8.9 / 9.1 / 9.3 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer. |
+| [PT/arrabida](../../../countries/PT/sights/arrabida.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 8.8 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [ES/anaga-rural-park](../../../countries/ES/sights/anaga-rural-park.yaml) | 9.3 / 9.2 / 8.9 / 9.0 / 9.1 | impact: -0.8 vs peer; uniqueness: -0.8 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Varied forest and mountain vistas. |
+| Uniqueness | 8.4 | Regional ecological contrast. |
+| Significance | 8.5 | Important protected landscape. |
+| Experience | 8.7 | Marked hiking and bird observation. |
+| Depth | 8.8 | Extensive trail and habitat network. |
+
+- Applicable categories: nature:9.1, adventure:8.9, wildlife:8.8, photography:9.0.
+- Computed worldwide overall: 85.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-pt-sao-vicente-caves — São Vicente Caves and Volcanism Centre — 2026-11-27
+
+- YAML: [source](../../../countries/PT/sights/sao-vicente-caves.yaml)
+- Action: new
+- Precise subject and limitations: Established lava-tube visitor circuit and volcanism interpretation; currently closed, rated on established experience without assuming reopening date.
+- Location check: 32.79755, -17.04239; [published representative point](https://mapcarta.com/35736370), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://visitmadeira.com/en/where-to-go/madeira/north-coast/sao-vicente/sao-vicente-caves/); source or excerpt inspected 2026-11-27. Sources support scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; exact current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/gruta-das-torres](../../../countries/PT/sights/gruta-das-torres.yaml) | 8.8 / 8.9 / 8.6 / 8.6 / 8.3 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/cueva-del-viento](../../../countries/ES/sights/cueva-del-viento.yaml) | 8.8 / 9.0 / 8.6 / 8.7 / 8.4 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [ES/cueva-de-los-verdes](../../../countries/ES/sights/cueva-de-los-verdes.yaml) | 8.8 / 8.9 / 8.5 / 8.8 / 8.3 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/jameos-del-agua](../../../countries/ES/sights/jameos-del-agua.yaml) | 9.0 / 9.2 / 8.7 / 8.8 / 8.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+
+Peer dimensions taken from current ranking rows; individual peer YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Illuminated volcanic passage scenery. |
+| Uniqueness | 8.7 | Distinct Madeira lava-tube geology. |
+| Significance | 8.4 | Regional volcanic interpretation. |
+| Experience | 8.6 | Established guided underground route and centre. |
+| Depth | 8.3 | Bounded cave and interpretation visit. |
+
+- Applicable categories: nature:9.0, adventure:8.8, photography:8.9, family:8.8.
+- Computed worldwide overall: 85.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: pass 84 access deferral superseded.
+- Verification still needed: independent corroboration.
