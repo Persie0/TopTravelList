@@ -1020,3 +1020,74 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 218 scope decisions
 
 National Mask and Kenu/Kundu festivals separately scoped; distinct regions and traditions. Kavieng and Madang diving separate from Kimbe and Tufi. Remaining Rabaul, Trobriand and other regional candidates require further scope review.
+
+## sight-pg-kiriwina-show — Kiriwina Trobriand Islands Annual Cultural Show — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/kiriwina-show.yaml)
+- Action: new
+- Scope: Former Milamala Yam Festival, public performances and island traditions; no future date or private ceremony assumed. Kiriwina locality proxy.
+- Representative coordinates: -8.48, 151.08; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 91.90/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/events/kiriwina-cultural-show/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/goroka-show](../../../countries/PG/sights/goroka-show.yaml) | 9.3 / 9.5 / 9.3 / 9.1 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [PG/kenu-kundu](../../../countries/PG/sights/kenu-kundu.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 9.0 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer |
+| [WS/samoa-cultural-village](../../../countries/WS/sights/samoa-cultural-village.yaml) | 8.6 / 9.0 / 9.0 / 8.9 / 8.7 | impact: +0.5 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-ambua-birdwatching — Ambua Tari Highland Forest Guided Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/ambua-birdwatching.yaml)
+- Action: new
+- Scope: Forest birdwatching with local guides; distinct from Kumul; tourism authority reports 217 recorded species including 13 birds-of-paradise species. No guaranteed sightings. Australian and Austrian travel advice warns about unrest in Hela; defer travel while applicable advice stands. Broad Tari locality proxy.
+- Representative coordinates: -5.95, 143.02; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.0 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.80/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/business/ambua-lodge/, https://papuanewguinea.travel/bird-watching/, https://www.smartraveller.gov.au/destinations/pacific/papua-new-guinea, https://www.bmeia.gv.at/reise-services/reiseinformation/land/papua-neuguinea/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/kumul-birdwatching](../../../countries/PG/sights/kumul-birdwatching.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 8.9 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+| [PG/varirata-national-park](../../../countries/PG/sights/varirata-national-park.yaml) | 8.0 / 8.1 / 8.0 / 8.2 / 7.9 | uniqueness: +1.3 vs peer; significance: +1.2 vs peer |
+| [CK/takitumu](../../../countries/CK/sights/takitumu.yaml) | 8.3 / 9.1 / 9.2 / 8.2 / 8.2 | depth: +0.9 vs peer; impact: +0.8 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pg-rabaul-historic-tour — Rabaul and Kokopo Guided Historical Heritage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PG/sights/rabaul-historic-tour.yaml)
+- Action: new
+- Scope: Public museum, commemorative and historical interpretation circuit, excludes Tavurvur volcano, mask festival and restricted facilities; no unsafe tunnel access assumed.
+- Representative coordinates: -4.25, 152.19; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.3 / 8.7 / 9.0.
+- Categories: history:9.4 culture:9.2 photography:9.1.
+- Overall: 89.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://papuanewguinea.travel/business/rabaul-historical-tours/, https://papuanewguinea.travel/stories/east-new-britain-a-living-museum/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PG/national-museum-art-gallery](../../../countries/PG/sights/national-museum-art-gallery.yaml) | 7.5 / 8.4 / 8.6 / 8.0 / 7.7 | depth: +1.3 vs peer; impact: +1.2 vs peer |
+| [PG/tavurvur](../../../countries/PG/sights/tavurvur.yaml) | 8.8 / 8.6 / 8.1 / 8.0 / 7.4 | depth: +1.6 vs peer; significance: +1.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 219 scope decisions
+
+Kiriwina show and Rabaul heritage circuit separate from other festivals and volcanic sites. Ambua distinct from Kumul; Hela security concerns verified as of 27 November 2026 (https://www.smartraveller.gov.au/destinations/pacific/papua-new-guinea). Intrinsic scores not travel advice. Six preexisting unassessed retained. Bounded queue closed.

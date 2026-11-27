@@ -715,3 +715,28 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 215 scope decisions
 
 Yap Day recurring festival, no future dates assumed, canoe launch included. Palikir expert surf separate from diving. Kosrae excludes Utwe-Walung. Ahnd atoll dives and Chuuk wrecks not duplicated. Pakin atoll deferred pending permission/route evidence.
+
+## sight-fm-pakin-atoll — Pakin Atoll Community-Hosted Lagoon and Island Visit — 2026-11-27
+
+- YAML: [source](../../../countries/FM/sights/pakin-atoll.yaml)
+- Action: new
+- Scope: Weather-dependent boat journey to distinct inhabited atoll; local host and permission necessary, no unrestricted landing or current operator guaranteed.
+- Representative coordinates: 7.05, 157.8; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.5 / 8.5 / 8.5.
+- Categories: nature:9.2 culture:9.2 photography:9.1.
+- Overall: 86.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://visitpohnpei.travel/pohnpei-outer-atolls/, https://www.pohnpeiisland.com/outer-atolls/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FM/ahnd-atoll](../../../countries/FM/sights/ahnd-atoll.yaml) | 8.9 / 8.8 / 9.0 / 8.8 / 8.5 | significance: -0.5 vs peer; impact: -0.3 vs peer |
+| [FM/utwe-walung-marine-park](../../../countries/FM/sights/utwe-walung-marine-park.yaml) | 8.3 / 8.6 / 8.8 / 8.8 / 8.5 | impact: +0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 219 scope decisions
+
+Pakin locally hosted visitor arrangements described by Pohnpei tourism; ocean conditions and host permission required. Two existing unassessed retained. Bounded queue closed.

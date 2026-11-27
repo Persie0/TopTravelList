@@ -938,3 +938,51 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 216 scope decisions
 
 Existing Aitutaki lagoon includes One Foot Island, so no duplicate. Kitesurfing and lagoon routes deferred for parent scope; turtle passage and offshore whale watching separate. Raemaru distinct from Cross Island Trek. Two unassessed retained.
+
+## sight-ck-vaka-eiva — Vaka Eiva Annual Outrigger Canoe and Cultural Festival Rarotonga — 2026-11-27
+
+- YAML: [source](../../../countries/CK/sights/vaka-eiva.yaml)
+- Action: new
+- Scope: Recurring international canoe festival established 2004, public race observation and cultural programme; not ordinary lagoon paddling. Official 2026 programme documents 20–27 November, no future dates assumed.
+- Representative coordinates: -21.2, -159.77; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.1 / 9.2 / 9.0.
+- Categories: culture:9.4 adventure:9.3 photography:9.3.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://cookislands.travel/de/node/3075, https://cookislands.travel/news-public-relations/matson-vaka-eiva-2026.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CK/te-vara-nui](../../../countries/CK/sights/te-vara-nui.yaml) | 8.6 / 8.9 / 8.8 / 9.0 / 8.8 | impact: +0.4 vs peer; significance: +0.3 vs peer |
+| [CK/te-ara](../../../countries/CK/sights/te-ara.yaml) | 7.7 / 8.4 / 8.5 / 8.2 / 8.0 | impact: +1.3 vs peer; experience: +1.0 vs peer |
+| [PG/kenu-kundu](../../../countries/PG/sights/kenu-kundu.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 9.0 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ck-rarotonga-outer-reef — Rarotonga Offshore Reef Guided Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/CK/sights/rarotonga-outer-reef.yaml)
+- Action: new
+- Scope: Boat-based outer reef dives, excludes Muri lagoon, Avaavaroa turtle snorkelling and Aitutaki lagoon; no guaranteed coral health. Regional offshore proxy.
+- Representative coordinates: -21.22, -159.81; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.3 adventure:9.3 wildlife:9.2.
+- Overall: 88.25/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://cookislands.travel/sv/node/403, https://cookislands.travel/de/node/243.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CK/muri-lagoon](../../../countries/CK/sights/muri-lagoon.yaml) | 8.9 / 8.2 / 7.8 / 8.9 / 8.1 | uniqueness: +0.7 vs peer; significance: +0.7 vs peer |
+| [CK/avaavaroa-turtles](../../../countries/CK/sights/avaavaroa-turtles.yaml) | 8.9 / 8.9 / 8.5 / 9.0 / 8.6 | depth: +0.2 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 219 scope decisions
+
+Vaka Eiva festival distinct from ordinary lagoon activities; offshore scuba excludes lagoon and turtle snorkeling. Two existing unassessed retained. Bounded queue closed.

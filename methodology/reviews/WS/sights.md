@@ -1021,3 +1021,51 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 215 scope decisions
 
 Matavanu crater separate from coastal lava fields; Tafua separate crater; no duplicate Falealupo or Pulemelei while unassessed. Further regional screen pending.
+
+## sight-ws-teuila-festival — Teuila Annual Samoan Cultural Festival Apia — 2026-11-27
+
+- YAML: [source](../../../countries/WS/sights/teuila-festival.yaml)
+- Action: new
+- Scope: Recurring festival founded 1991; public performances, competitions and crafts, separate from routine cultural village demonstrations. No future dates guaranteed.
+- Representative coordinates: -13.83, -171.76; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.2 / 9.0.
+- Categories: culture:9.4 history:9.2 photography:9.3.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.samoa.travel/pagepreview/teuila-festival, https://www.samoa.travel/discover/our-culture/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [WS/samoa-cultural-village](../../../countries/WS/sights/samoa-cultural-village.yaml) | 8.6 / 9.0 / 9.0 / 8.9 / 8.7 | impact: +0.4 vs peer; experience: +0.3 vs peer |
+| [WS/manono-island](../../../countries/WS/sights/manono-island.yaml) | 8.0 / 8.5 / 8.5 / 8.2 / 8.0 | impact: +1.0 vs peer; experience: +1.0 vs peer |
+| [PG/goroka-show](../../../countries/PG/sights/goroka-show.yaml) | 9.3 / 9.5 / 9.3 / 9.1 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ws-upolu-south-surf — Upolu South Coast Guided Reef Surfing — 2026-11-27
+
+- YAML: [source](../../../countries/WS/sights/upolu-south-surf.yaml)
+- Action: new
+- Scope: Matautu to Matatufu reef-surf circuit, not beach bathing or other island's surf breaks; skill and conditions required.
+- Representative coordinates: -14.0, -171.75; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.3 / 8.9 / 8.5.
+- Categories: adventure:9.3 nature:9.2 photography:9.1.
+- Overall: 86.85/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.samoa.travel/experience/adventure-activities/, https://www.samoa.travel/experience/surfing-holidays/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [WS/lalomanu-beach](../../../countries/WS/sights/lalomanu-beach.yaml) | 8.7 / 7.8 / 6.5 / 8.7 / 7.4 | significance: +1.8 vs peer; depth: +1.1 vs peer |
+| [WS/palolo-deep-marine-reserve](../../../countries/WS/sights/palolo-deep-marine-reserve.yaml) | 8.1 / 7.9 / 7.8 / 8.4 / 7.4 | depth: +1.1 vs peer; uniqueness: +0.9 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 219 scope decisions
+
+Teuila recurring public festival distinct from village tours, Upolu surf distinct from shore bathing. Existing three unassessed retained. Bounded queue closed.

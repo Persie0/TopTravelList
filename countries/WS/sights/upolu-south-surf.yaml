@@ -1,0 +1,16 @@
+id: sight-ws-upolu-south-surf
+name: "Upolu South Coast Guided Reef Surfing"
+location:
+  country_code: WS
+  latitude: -14.0
+  longitude: -171.75
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.3
+  experience: 8.9
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    nature: 9.2
+    photography: 9.1

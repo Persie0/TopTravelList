@@ -1,0 +1,16 @@
+id: sight-pg-ambua-birdwatching
+name: "Ambua Tari Highland Forest Guided Birdwatching"
+location:
+  country_code: PG
+  latitude: -5.95
+  longitude: 143.02
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.0
+  depth: 9.1
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.3
