@@ -1,0 +1,16 @@
+id: sight-au-national-film-sound-archive
+name: "National Film and Sound Archive Canberra"
+location:
+  country_code: AU
+  latitude: -35.283
+  longitude: 149.12
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.6
+  depth: 8.8
+  categories:
+    culture: 9.2
+    history: 9.2
+    architecture: 9.0

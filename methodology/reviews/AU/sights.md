@@ -3478,3 +3478,489 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 
 Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
 
+## sight-au-yongala-wreck-dive — SS Yongala Historic Shipwreck Diving Queensland — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/yongala-wreck-dive.yaml)
+- Action: new
+- Scope: Dedicated heritage wreck dive, not generic coral reef snorkelling. Protected site with permit requirements; conditions and qualifications matter. Museum documents cyclone-related physical changes; no assumption of intact original condition.
+- Representative coordinates: -19.307, 147.626; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.2 / 9.2 / 9.1.
+- Categories: wildlife:9.4 adventure:9.4 history:9.3.
+- Overall: 92.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.dcceew.gov.au/parks-heritage/heritage/underwater-heritage/famous-australian; https://www.gbrmpa.gov.au/learn/maritime-heritage-diving-history; https://www.museum.qld.gov.au/learn-and-discover/online-exhibitions/ss-yongala; https://www.queensland.com/au/en/things-to-do/adventure/diving-and-snorkelling/shipwreck-dives-queensland.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/great-barrier-reef](../../../countries/AU/sights/great-barrier-reef.yaml) | 9.7 / 9.8 / 9.7 / 9.4 / 9.7 | depth: -0.6 vs peer; significance: -0.5 vs peer |
+| [AU/neptune-shark-diving](../../../countries/AU/sights/neptune-shark-diving.yaml) | 9.0 / 9.4 / 8.9 / 9.1 / 8.8 | impact: +0.3 vs peer; significance: +0.3 vs peer |
+| [US/molokini](../../../countries/US/sights/molokini.yaml) | 9.1 / 9.2 / 8.8 / 9.1 / 8.8 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-lark-quarry — Lark Quarry Dinosaur Trackways National Heritage Site — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/lark-quarry.yaml)
+- Action: new
+- Scope: Protected in-situ dinosaur trackways in dedicated shelter, distinct from Winton museum and Riversleigh mammal fossil sites. Thousands of tracks; traditional stampede interpretation not treated as scientific certainty.
+- Representative coordinates: -23.02, 142.412; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.4 / 8.8 / 8.9.
+- Categories: history:9.4 nature:9.3 family:9.1.
+- Overall: 91.40/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://parks.qld.gov.au/parks/lark-quarry/about; https://www.dcceew.gov.au/parks-heritage/heritage/places/national/dinosaur-stampede; https://www.detsi.qld.gov.au/our-department/news-media/down-to-earth/dinosaur-trail-qld.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-age-dinosaurs](../../../countries/AU/sights/australian-age-dinosaurs.yaml) | 8.8 / 9.2 / 8.9 / 8.9 / 9.1 | significance: +0.5 vs peer; impact: +0.2 vs peer |
+| [AU/australian-fossil-mammal-sites](../../../countries/AU/sights/australian-fossil-mammal-sites.yaml) | 8.0 / 9.3 / 9.4 / 8.4 / 8.3 | impact: +1.0 vs peer; depth: +0.6 vs peer |
+| [US/dinosaur-monument](../../../countries/US/sights/dinosaur-monument.yaml) | 9.3 / 9.4 / 9.3 / 9.1 / 9.3 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [US/john-day-fossil-beds](../../../countries/US/sights/john-day-fossil-beds.yaml) | 8.9 / 9.0 / 8.9 / 8.8 / 8.9 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-undara-lava-tubes — Undara Volcanic National Park Guided Lava Tube Tours — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/undara-lava-tubes.yaml)
+- Action: new
+- Scope: Guided access to sections of globally extensive lava tube system; no claim entire system accessible. Ewamian Country; individual operator closure and wet-season track closure noted separately.
+- Representative coordinates: -18.2, 144.62; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.0 / 9.0 / 9.0.
+- Categories: nature:9.4 adventure:9.2 photography:9.2.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://parks.qld.gov.au/parks/undara-volcanic/about; https://parks.qld.gov.au/parks/undara-volcanic/about/culture; https://parks.qld.gov.au/parks/undara-volcanic/things-to-do; https://www.undaralavatubetours.com.au/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/margaret-river-caves](../../../countries/AU/sights/margaret-river-caves.yaml) | 8.9 / 8.9 / 8.6 / 9.0 / 8.8 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [AU/pinnacles-desert](../../../countries/AU/sights/pinnacles-desert.yaml) | 9.1 / 9.1 / 8.4 / 8.8 / 8.3 | depth: +0.7 vs peer; significance: +0.6 vs peer |
+| [US/lava-beds](../../../countries/US/sights/lava-beds.yaml) | 8.8 / 8.9 / 8.8 / 8.9 / 8.9 | uniqueness: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | 9.0 / 9.1 / 9.0 / 8.9 / 8.6 | depth: +0.4 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-queensland-museum — Queensland Museum Kurilpa and SparkLab Brisbane — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/queensland-museum.yaml)
+- Action: new
+- Scope: Flagship museum with natural history, fossil and Indigenous cultural galleries and SparkLab; excludes future temporary Terracotta Warriors exhibition and separate campuses.
+- Representative coordinates: -27.473, 153.018; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 9.1 / 9.2.
+- Categories: nature:9.3 history:9.3 family:9.3.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.museum.qld.gov.au/about/our-story/history-of-queensland-museum; https://www.museum.qld.gov.au/kurilpa/whats-on?what=exhibitions; https://science.qld.gov.au/research/capability-directory/queensland-museum.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-museum](../../../countries/AU/sights/australian-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [AU/melbourne-museum](../../../countries/AU/sights/melbourne-museum.yaml) | 9.1 / 9.2 / 9.2 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/field-museum](../../../countries/US/sights/field-museum.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/carnegie-natural-history](../../../countries/US/sights/carnegie-natural-history.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-gibb-river-road — Gibb River Road Kimberley End-to-End Four-Wheel-Drive Journey — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/gibb-river-road.yaml)
+- Action: new
+- Scope: Continuous approximately 660 km Kimberley road journey; excludes independently ranked El Questro and Mitchell Falls stops from additional site scoring; lawful access and seasonal road conditions separate. Representative Derby end.
+- Representative coordinates: -17.3, 123.64; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.8 / 9.1 / 9.3.
+- Categories: adventure:9.4 nature:9.3 photography:9.3.
+- Overall: 90.85/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.westernaustralia.com/en/attraction/gibb-river-road/56b266ed2cbcbe7073ae0b8e; https://www.visitbroome.com.au/discover/gibb-river-road.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | 8.9 / 8.6 / 8.3 / 9.0 / 9.1 | uniqueness: +0.6 vs peer; significance: +0.5 vs peer |
+| [AU/larapinta-trail](../../../countries/AU/sights/larapinta-trail.yaml) | 9.2 / 9.3 / 9.0 / 9.2 / 9.4 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/san-juan-skyway](../../../countries/US/sights/san-juan-skyway.yaml) | 8.9 / 8.9 / 8.6 / 9.0 / 8.9 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/beartooth-highway](../../../countries/US/sights/beartooth-highway.yaml) | 9.1 / 8.8 / 8.5 / 9.1 / 8.8 | depth: +0.5 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-qantas-founders — Qantas Founders Museum and Airpark Longreach — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/qantas-founders.yaml)
+- Action: new
+- Scope: National Heritage listed hangar, aircraft exhibitions and dedicated guided Airpark access grouped; museum ticket alone does not include aircraft access.
+- Representative coordinates: -23.442, 144.282; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.1 family:9.2.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.qfom.com.au/tours-and-experiences; https://www.qfom.com.au/collection; https://www.qfom.com.au/our-history.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-maritime-museum](../../../countries/AU/sights/australian-maritime-museum.yaml) | 8.9 / 9.1 / 9.2 / 9.1 / 9.2 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [AU/ghan-rail](../../../countries/AU/sights/ghan-rail.yaml) | 9.1 / 9.3 / 9.1 / 9.2 / 9.1 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/museum-of-flight](../../../countries/US/sights/museum-of-flight.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.3 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [US/pima-air-space](../../../countries/US/sights/pima-air-space.yaml) | 9.2 / 9.3 / 9.2 / 9.2 / 9.3 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-wa-maritime-museum — WA Maritime Museum and HMAS Ovens Fremantle — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/wa-maritime-museum.yaml)
+- Action: new
+- Scope: Museum and associated submarine visit grouped; Australia II yacht and other historic vessels. Separate Shipwrecks Museum venue not included.
+- Representative coordinates: -32.056, 115.738; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.1 / 9.1 / 9.1.
+- Categories: history:9.3 culture:9.2 family:9.1.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://visit.museum.wa.gov.au/maritime/exhibitions; https://www.westernaustralia.com/au/attraction/wa-maritime-museum/56b2671e7b935fbe730e65f3.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-maritime-museum](../../../countries/AU/sights/australian-maritime-museum.yaml) | 8.9 / 9.1 / 9.2 / 9.1 / 9.2 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer |
+| [AU/boola-bardip](../../../countries/AU/sights/boola-bardip.yaml) | 8.9 / 9.1 / 9.1 / 9.1 / 9.2 | uniqueness: +0.1 vs peer; depth: -0.1 vs peer |
+| [US/mystic-seaport](../../../countries/US/sights/mystic-seaport.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.3 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/maritime-museum-san-diego](../../../countries/US/sights/maritime-museum-san-diego.yaml) | 8.8 / 8.9 / 8.9 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-boodjamulla-lawn-hill — Boodjamulla Lawn Hill Gorge Aboriginal Land Canoeing and Trails — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/boodjamulla-lawn-hill.yaml)
+- Action: new
+- Scope: Gorge landscape only; excludes Riversleigh fossil component already ranked. Significant flood recovery and staged reopening; not assuming all former facilities restored. Wet-season closure Dec 1 2026 to Mar 25 2027.
+- Representative coordinates: -18.7, 138.487; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.6 / 8.8 / 8.7.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 88.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://parks.qld.gov.au/parks/boodjamulla-lawn-hill; https://parks.qld.gov.au/parks/boodjamulla-lawn-hill/about/boodjamulla-flood-recovery; https://parks.qld.gov.au/park-alerts/27257.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/nitmiluk-gorge](../../../countries/AU/sights/nitmiluk-gorge.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | experience: -0.4 vs peer; depth: -0.4 vs peer |
+| [AU/carnarvon-gorge](../../../countries/AU/sights/carnarvon-gorge.yaml) | 9.0 / 8.9 / 8.6 / 8.9 / 8.9 | depth: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-stockmans-hall — Australian Stockmans Hall of Fame and Outback Heritage Centre Longreach — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/stockmans-hall.yaml)
+- Action: new
+- Scope: Museum galleries and heritage interpretation; live shows only when offered.
+- Representative coordinates: -23.444, 144.287; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.9 / 8.9.
+- Categories: history:9.2 culture:9.2 family:9.0.
+- Overall: 88.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://stockmanshalloffame.com.au/galleries/about/; https://stockmanshalloffame.com.au/admissions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/national-museum-australia](../../../countries/AU/sights/national-museum-australia.yaml) | 8.9 / 9.1 / 9.2 / 9.0 / 9.2 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/national-cowboy](../../../countries/US/sights/national-cowboy.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 9.0 | impact: -0.1 vs peer; significance: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-wa-shipwrecks-museum — WA Shipwrecks Museum Fremantle — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/wa-shipwrecks-museum.yaml)
+- Action: new
+- Scope: Dedicated maritime archaeology museum, Batavia wreck artifacts and conservation interpretation, separate venue from WA Maritime Museum.
+- Representative coordinates: -32.057, 115.741; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 9.1 / 9.2 / 8.7 / 8.9.
+- Categories: history:9.4 culture:9.1 architecture:8.8.
+- Overall: 89.20/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.westernaustralia.com/en/things-to-do/art-and-culture/museums.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/wa-maritime-museum](../../../countries/AU/sights/wa-maritime-museum.yaml) | 8.9 / 9.2 / 9.1 / 9.1 / 9.1 | experience: -0.4 vs peer; impact: -0.2 vs peer |
+| [AU/australian-maritime-museum](../../../countries/AU/sights/australian-maritime-museum.yaml) | 8.9 / 9.1 / 9.2 / 9.1 / 9.2 | experience: -0.4 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-national-film-sound-archive — National Film and Sound Archive Canberra — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/national-film-sound-archive.yaml)
+- Action: new
+- Scope: Public exhibitions, screenings and heritage building only; research archive not counted as visitor-accessible depth.
+- Representative coordinates: -35.283, 149.12; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.1 / 8.6 / 8.8.
+- Categories: culture:9.2 history:9.2 architecture:9.0.
+- Overall: 87.40/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nfsa.gov.au/plan-your-visit; https://www.nfsa.gov.au/whats-on/calendar.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/acmi](../../../countries/AU/sights/acmi.yaml) | 9.0 / 9.2 / 9.1 / 9.2 / 9.2 | experience: -0.6 vs peer; impact: -0.5 vs peer |
+| [AU/national-museum-australia](../../../countries/AU/sights/national-museum-australia.yaml) | 8.9 / 9.1 / 9.2 / 9.0 / 9.2 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-magnetic-island — Magnetic Island National Park Coastal Trails and Koala Habitat — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/magnetic-island.yaml)
+- Action: new
+- Scope: Land-based island walks, beaches and wildlife; excludes offshore reef dives and Yongala.
+- Representative coordinates: -19.13, 146.84; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.4 / 9.0 / 8.8.
+- Categories: nature:9.3 wildlife:9.2 beaches:9.1.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/rottnest-island](../../../countries/AU/sights/rottnest-island.yaml) | 8.7 / 8.8 / 8.5 / 9.1 / 8.7 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer |
+| [AU/maria-island](../../../countries/AU/sights/maria-island.yaml) | 8.8 / 8.9 / 8.8 / 8.9 / 8.9 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-moreton-island — Mulgumpin Moreton Island Sand Dunes and Tangalooma Wrecks — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/moreton-island.yaml)
+- Action: new
+- Scope: Island dunes and nearshore artificial wreck snorkelling grouped; no separate wreck row or guaranteed dolphin encounters.
+- Representative coordinates: -27.16, 153.37; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.4 / 9.0 / 8.8.
+- Categories: nature:9.3 adventure:9.3 beaches:9.2.
+- Overall: 88.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/kgari](../../../countries/AU/sights/kgari.yaml) | 9.0 / 9.2 / 9.1 / 8.9 / 9.0 | significance: -0.7 vs peer; uniqueness: -0.3 vs peer |
+| [AU/whitsunday-islands-national-park](../../../countries/AU/sights/whitsunday-islands-national-park.yaml) | 9.1 / 8.8 / 8.6 / 9.0 / 9.0 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-mon-repos-turtles — Mon Repos Seasonal Marine Turtle Nesting Experience — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/mon-repos-turtles.yaml)
+- Action: new
+- Scope: Regulated seasonal ranger-guided turtle observation; nesting and hatchling sightings never guaranteed.
+- Representative coordinates: -24.805, 152.438; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.8 / 8.9 / 8.6.
+- Categories: wildlife:9.4 nature:9.2 family:9.1.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/seal-bay](../../../countries/AU/sights/seal-bay.yaml) | 9.0 / 9.3 / 8.9 / 9.0 / 8.8 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+| [AU/phillip-island-penguin-parade](../../../countries/AU/sights/phillip-island-penguin-parade.yaml) | 8.8 / 9.0 / 8.6 / 8.9 / 7.9 | depth: +0.7 vs peer; significance: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-cobbold-gorge — Cobbold Gorge Guided Sandstone Gorge Experience — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/cobbold-gorge.yaml)
+- Action: new
+- Scope: Guided narrow sandstone gorge and associated viewpoints, geographically separate from Undara.
+- Representative coordinates: -18.802, 143.488; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.4 / 9.0 / 8.6.
+- Categories: nature:9.3 photography:9.3 adventure:9.2.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/nitmiluk-gorge](../../../countries/AU/sights/nitmiluk-gorge.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | significance: -0.5 vs peer; depth: -0.5 vs peer |
+| [AU/carnarvon-gorge](../../../countries/AU/sights/carnarvon-gorge.yaml) | 9.0 / 8.9 / 8.6 / 8.9 / 8.9 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-wallaman-falls — Wallaman Falls Girringun National Park — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/wallaman-falls.yaml)
+- Action: new
+- Scope: Dedicated waterfall viewpoint and gorge walk; geographic component of Wet Tropics umbrella, rank only specific waterfall experience; legacy umbrella overlap flagged.
+- Representative coordinates: -18.59, 145.8; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.3 / 8.8 / 8.3.
+- Categories: nature:9.3 photography:9.4 adventure:9.0.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/mitchell-falls](../../../countries/AU/sights/mitchell-falls.yaml) | 9.3 / 9.1 / 8.7 / 8.8 / 8.8 | depth: -0.5 vs peer; significance: -0.4 vs peer |
+| [AU/litchfield-national-park](../../../countries/AU/sights/litchfield-national-park.yaml) | 8.9 / 8.9 / 8.5 / 9.1 / 8.9 | depth: -0.6 vs peer; experience: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-australia-zoo — Australia Zoo Sunshine Coast — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/australia-zoo.yaml)
+- Action: new
+- Scope: Zoo exhibits and conservation interpretation; no guarantee of animal performances or interactions.
+- Representative coordinates: -26.837, 152.96; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.6 / 9.1 / 9.0.
+- Categories: wildlife:9.2 family:9.3 nature:8.9.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/taronga-zoo](../../../countries/AU/sights/taronga-zoo.yaml) | 8.8 / 8.7 / 8.7 / 9.1 / 9.0 | impact: +0.1 vs peer; significance: -0.1 vs peer |
+| [AU/healesville-sanctuary](../../../countries/AU/sights/healesville-sanctuary.yaml) | 8.7 / 8.8 / 8.7 / 9.0 / 8.8 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-national-anzac-centre — National Anzac Centre Albany — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/national-anzac-centre.yaml)
+- Action: new
+- Scope: Dedicated museum of military and personal histories and adjacent public heritage grounds; distinct from Canberra memorial.
+- Representative coordinates: -35.032, 117.914; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.2 / 8.9 / 8.9.
+- Categories: history:9.3 culture:9.1 photography:8.9.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [AU/national-museum-australia](../../../countries/AU/sights/national-museum-australia.yaml) | 8.9 / 9.1 / 9.2 / 9.0 / 9.2 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-torndirrup — Torndirrup National Park The Gap and Natural Bridge Albany — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/torndirrup.yaml)
+- Action: new
+- Scope: Coastal cliffs, granite natural bridge and authorized viewpoints grouped.
+- Representative coordinates: -35.119, 117.897; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.7 / 8.4 / 8.9 / 8.5.
+- Categories: nature:9.3 photography:9.4 adventure:9.0.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/cape-le-grand](../../../countries/AU/sights/cape-le-grand.yaml) | 9.0 / 8.8 / 8.4 / 9.0 / 8.8 | depth: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [AU/kalbarri-national-park](../../../countries/AU/sights/kalbarri-national-park.yaml) | 8.9 / 8.7 / 8.4 / 8.8 / 8.9 | depth: -0.4 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-wave-rock — Wave Rock and Hyden Rock Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/wave-rock.yaml)
+- Action: new
+- Scope: Granite wave formation and adjacent authorized walks, including nearby Hippos Yawn; no cultural site access presumed.
+- Representative coordinates: -32.443, 118.898; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.4 / 8.7 / 8.4.
+- Categories: nature:9.2 photography:9.4 adventure:8.8.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/pinnacles-desert](../../../countries/AU/sights/pinnacles-desert.yaml) | 9.1 / 9.1 / 8.4 / 8.8 / 8.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [AU/purnululu-national-park](../../../countries/AU/sights/purnululu-national-park.yaml) | 9.4 / 9.4 / 9.0 / 8.7 / 8.7 | significance: -0.6 vs peer; impact: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-national-motor-museum — National Motor Museum Birdwood South Australia — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/national-motor-museum.yaml)
+- Action: new
+- Scope: Australian road transport history and vehicle collections, separate from aviation and railway museums.
+- Representative coordinates: -34.819, 138.959; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.9 / 8.9.
+- Categories: history:9.2 culture:9.1 family:9.1.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/qantas-founders](../../../countries/AU/sights/qantas-founders.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.1 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer |
+| [US/petersen-automotive](../../../countries/US/sights/petersen-automotive.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.3 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-australian-reptile-park — Australian Reptile Park Somersby New South Wales — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/australian-reptile-park.yaml)
+- Action: new
+- Scope: Native reptiles and other fauna, conservation interpretation; excludes assumed animal handling.
+- Representative coordinates: -33.414, 151.276; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.6 / 8.8 / 8.7.
+- Categories: wildlife:9.2 family:9.2 nature:8.9.
+- Overall: 86.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/taronga-zoo](../../../countries/AU/sights/taronga-zoo.yaml) | 8.8 / 8.7 / 8.7 / 9.1 / 9.0 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [AU/healesville-sanctuary](../../../countries/AU/sights/healesville-sanctuary.yaml) | 8.7 / 8.8 / 8.7 / 9.0 / 8.8 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+

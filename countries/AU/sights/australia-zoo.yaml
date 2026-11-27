@@ -1,0 +1,16 @@
+id: sight-au-australia-zoo
+name: "Australia Zoo Sunshine Coast"
+location:
+  country_code: AU
+  latitude: -26.837
+  longitude: 152.96
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 9.1
+  depth: 9.0
+  categories:
+    wildlife: 9.2
+    family: 9.3
+    nature: 8.9

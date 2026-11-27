@@ -43,6 +43,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | PM | DONE — current queue | 15 total (15 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 0 existing unassessed separate. |
 | TF | DONE — current queue | 7 total (1 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 6 existing unassessed separate. |
 
-| AU | OPEN | 103 ranked; pass 202 adds 23 wildlife, rail, trail, museum and regional attractions. 12 source-linked 90+; 10 desk-based provisional; 29 international ranking-row comparisons. Remaining Queensland and western regional sights, cultural heritage, museums, Ningaloo scope and independent validation pending. |
+| AU | OPEN | 125 ranked; pass 203 adds 22 heritage, regional nature and museum attractions. 7 source-linked 90+; 11 desk-based provisional; 16 international ranking-row comparisons. Remaining urban and coastal experiences, regional parks, Ningaloo scope and independent validation pending. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

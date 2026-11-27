@@ -3431,3 +3431,30 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AU — Tasmanian Devil Unzoo Taranna: 86.55/100 (desk-based provisional).
 
 23 additions, 10 desk-based provisional, 13 source-linked, 12 90+, 70 ranking-row comparisons including 29 US peers. Australia 103 ranked / 103 total. Dedicated long-distance rail and trail experiences distinct from individual stops; Kati Thanda annual summer closure separate from intrinsic score; marine wildlife sightings not guaranteed. Ningaloo whale sharks deferred for parent scope; Lark Quarry and Boodjamulla remain candidates for next pass. Existing scores retained; legacy overlaps and full Python validation pending. Next: Queensland and western regional sights, remaining museums and cultural heritage.
+
+### Pass 203 — Australian dinosaur heritage, Queensland and Western Australia
+
+- [x] AU — SS Yongala Historic Shipwreck Diving Queensland: 92.70/100 (source-linked-unverified).
+- [x] AU — Lark Quarry Dinosaur Trackways National Heritage Site: 91.40/100 (source-linked-unverified).
+- [x] AU — Undara Volcanic National Park Guided Lava Tube Tours: 91.05/100 (source-linked-unverified).
+- [x] AU — Queensland Museum Kurilpa and SparkLab Brisbane: 91.00/100 (source-linked-unverified).
+- [x] AU — Gibb River Road Kimberley End-to-End Four-Wheel-Drive Journey: 90.85/100 (source-linked-unverified).
+- [x] AU — Qantas Founders Museum and Airpark Longreach: 91.25/100 (source-linked-unverified).
+- [x] AU — WA Maritime Museum and HMAS Ovens Fremantle: 90.65/100 (source-linked-unverified).
+- [x] AU — Boodjamulla Lawn Hill Gorge Aboriginal Land Canoeing and Trails: 88.60/100 (source-linked-unverified).
+- [x] AU — Australian Stockmans Hall of Fame and Outback Heritage Centre Longreach: 88.60/100 (source-linked-unverified).
+- [x] AU — WA Shipwrecks Museum Fremantle: 89.20/100 (source-linked-unverified).
+- [x] AU — National Film and Sound Archive Canberra: 87.40/100 (source-linked-unverified).
+- [x] AU — Magnetic Island National Park Coastal Trails and Koala Habitat: 87.55/100 (desk-based provisional).
+- [x] AU — Mulgumpin Moreton Island Sand Dunes and Tangalooma Wrecks: 88.05/100 (desk-based provisional).
+- [x] AU — Mon Repos Seasonal Marine Turtle Nesting Experience: 88.45/100 (desk-based provisional).
+- [x] AU — Cobbold Gorge Guided Sandstone Gorge Experience: 87.85/100 (desk-based provisional).
+- [x] AU — Wallaman Falls Girringun National Park: 87.10/100 (desk-based provisional).
+- [x] AU — Australia Zoo Sunshine Coast: 88.30/100 (desk-based provisional).
+- [x] AU — National Anzac Centre Albany: 89.00/100 (desk-based provisional).
+- [x] AU — Torndirrup National Park The Gap and Natural Bridge Albany: 87.40/100 (desk-based provisional).
+- [x] AU — Wave Rock and Hyden Rock Landscape: 87.45/100 (desk-based provisional).
+- [x] AU — National Motor Museum Birdwood South Australia: 87.95/100 (desk-based provisional).
+- [x] AU — Australian Reptile Park Somersby New South Wales: 86.60/100 (desk-based provisional).
+
+22 additions, 11 desk-based provisional, 11 source-linked, 7 90+, 58 ranking-row comparisons including 16 US peers. Australia 125 ranked / 125 total. Yongala specific heritage dive, Lark Quarry separate from fossil museum, Lawn Hill excludes Riversleigh; Gibb end-to-end distinct from individual stops. Wallaman specific waterfall vs Wet Tropics umbrella flagged for overlap verification. Ningaloo whale sharks remain deferred. Boodjamulla staged flood recovery and wet-season closure recorded; Undara guided access and operator-specific closures noted. Existing scores retained. Next: remaining cities, cultural and coastal experiences, WA and regional parks; independent overlap and full Python validation pending.

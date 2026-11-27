@@ -1,0 +1,16 @@
+id: sight-au-national-motor-museum
+name: "National Motor Museum Birdwood South Australia"
+location:
+  country_code: AU
+  latitude: -34.819
+  longitude: 138.959
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.2
+    culture: 9.1
+    family: 9.1

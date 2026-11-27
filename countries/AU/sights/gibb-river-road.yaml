@@ -1,0 +1,16 @@
+id: sight-au-gibb-river-road
+name: "Gibb River Road Kimberley End-to-End Four-Wheel-Drive Journey"
+location:
+  country_code: AU
+  latitude: -17.3
+  longitude: 123.64
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.1
+  depth: 9.3
+  categories:
+    adventure: 9.4
+    nature: 9.3
+    photography: 9.3
