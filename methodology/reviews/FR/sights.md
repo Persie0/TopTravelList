@@ -13152,7 +13152,7 @@ Peer ranking rows checked; individual YAML and additional international comparis
 
 - Sources consulted (indexed excerpts, 2026-11-27): https://www.leviaducdemillau.com/sites/viaducdemillau/accueil-viaduc-de-millau/le-viaduc/les-chiffres-cles.html ; https://www.explore-millau.com/en/the-must-haves/millau-viaduct/visit-the-millau-viaduct/ ; https://www.leviaducdemillau.com/sites/viaducdemillau/accueil-viaduc-de-millau/sur-place/les-visites-guid%C3%A9es/visite-Sur-anciennes-pistes-chantier-viaduc-de-millau.html.
 - Research rationale: Operator gives maximum structural height 343m; dedicated guided route and viewpoints. Uniqueness 9.5 specifically for remarkable high cable-stayed road bridge, not all engineering significance; narrower depth than a major industrial museum.
-- High-score challenge: 90+ editorial assessment supported by documented visitor scope and existing peer scale. 9.5 uniqueness justified by documented 343m structure and distinctive multi-span setting; independent international calibration still pending.
+- High-score challenge: 90+ editorial assessment supported by documented visitor scope and existing peer scale. 9.5 uniqueness justified by documented 343m structure and distinctive multi-span setting; international ranking-row comparison now includes Forth and Vizcaya; independent claim-level and peer YAML verification still pending.
 
 | Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
 | --- | --- | --- |
@@ -13161,7 +13161,10 @@ Peer ranking rows checked; individual YAML and additional international comparis
 | [FR/saint-nazaire-shipyard-tour](../../../countries/FR/sights/saint-nazaire-shipyard-tour.yaml) | 9.0 / 9.2 / 8.6 / 8.9 / 8.7 | significance: +0.6 vs peer; depth: -0.5 vs peer |
 | [FR/artouste-railway](../../../countries/FR/sights/artouste-railway.yaml) | 9.2 / 9.2 / 8.6 / 9.2 / 8.8 | significance: +0.6 vs peer; depth: -0.6 vs peer |
 
-Peer ranking rows checked; individual YAML and international calibration pending.
+| [GB/forth-bridge](../../../countries/GB/sights/forth-bridge.yaml) | 8.9 / 9.2 / 9.2 / 8.3 / 7.4 | uniqueness: +0.3 vs peer; impact: +0.5 vs peer; distinct railway bridge and heritage context. |
+| [ES/vizcaya-bridge](../../../countries/ES/sights/vizcaya-bridge.yaml) | 8.6 / 9.1 / 9.2 / 8.7 / 7.9 | uniqueness: +0.4 vs peer; impact: +0.8 vs peer; different engineering type and heritage scope. |
+
+Peer ranking rows checked; individual YAML and further global bridge calibration pending.
 - Verification pending: independent factual and coordinate checks, full validation.
 
 
@@ -13213,6 +13216,8 @@ Peer ranking rows checked; individual YAML and international calibration pending
 | [FR/cite-espace-toulouse](../../../countries/FR/sights/cite-espace-toulouse.yaml) | 9.2 / 9.2 / 9.0 / 9.3 / 9.3 | depth: -0.5 vs peer; impact: -0.4 vs peer |
 | [FR/airbus-factory-tour](../../../countries/FR/sights/airbus-factory-tour.yaml) | 8.9 / 9.4 / 9.0 / 8.8 / 8.5 | depth: +0.3 vs peer; experience: +0.2 vs peer |
 | [FR/ecomusee-marqueze](../../../countries/FR/sights/ecomusee-marqueze.yaml) | 8.7 / 9.0 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+
+| [FR/laguiole-heritage](../../../countries/FR/sights/laguiole-heritage.yaml) | 8.5 / 8.9 / 8.6 / 8.8 / 8.6 | uniqueness: +0.4 vs peer; significance: +0.5 vs peer; comparison between distinct traditional production heritage experiences. |
 
 Peer ranking rows checked; individual YAML and international calibration pending.
 - Verification pending: independent factual and coordinate checks, full validation.
@@ -13497,7 +13502,7 @@ Peer ranking rows checked; individual YAML and international calibration pending
 - Representative coordinates: 44.685, 2.847; approximate, not independently verified.
 - Evidence status: **desk-based provisional**
 - Core I/U/S/E/D: 8.5 / 8.9 / 8.6 / 8.8 / 8.6.
-- Categories: culture:9.2, history:9.0, food:8.9.
+- Categories: culture:9.2, history:9.0.
 - Overall: 86.75/100.
 - Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
