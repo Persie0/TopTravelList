@@ -619,3 +619,7 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Provisional worldwide V2 assessment of defined visitor scope.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent material claims, numerical peer calibration and current access.
+
+### 2026-11-27 reassessment — Anakele royal burial heritage
+
+See [pass 219 individual decision](../worldwide-restored-access-pass219-2026-11-27.md#wfanakele--anakele-royal-burial-heritage) for source details, four peers, and current provisional rating 81.60. Replaces earlier deferral, not earlier review history.
