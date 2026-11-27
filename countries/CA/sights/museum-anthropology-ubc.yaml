@@ -1,0 +1,16 @@
+id: sight-ca-museum-anthropology-ubc
+name: "Museum of Anthropology at UBC Vancouver"
+location:
+  country_code: CA
+  latitude: 49.269
+  longitude: -123.259
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.4
+    architecture: 9.3

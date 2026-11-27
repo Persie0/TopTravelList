@@ -1,0 +1,16 @@
+id: sight-ca-fortress-louisbourg
+name: "Fortress of Louisbourg National Historic Site"
+location:
+  country_code: CA
+  latitude: 45.893
+  longitude: -59.986
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.1
+  depth: 9.2
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.3

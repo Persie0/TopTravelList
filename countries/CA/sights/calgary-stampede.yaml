@@ -1,0 +1,16 @@
+id: sight-ca-calgary-stampede
+name: "Calgary Stampede Annual Western Cultural Festival"
+location:
+  country_code: CA
+  latitude: 51.034
+  longitude: -114.053
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.2
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    family: 9.2

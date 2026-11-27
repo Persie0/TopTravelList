@@ -1,0 +1,16 @@
+id: sight-ca-st-joseph-oratory
+name: "Saint Joseph's Oratory of Mount Royal Montréal"
+location:
+  country_code: CA
+  latitude: 45.492
+  longitude: -73.617
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 9.0
+  experience: 8.7
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.2
+    culture: 9.2

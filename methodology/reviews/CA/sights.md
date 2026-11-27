@@ -3008,3 +3008,447 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 221 scope decisions
 
 Churchill polar bear viewing scoped to Wildlife Management Area outside existing Wapusk maternity-den visitor scope, beluga estuary separate; regional coordinate proxies, no guaranteed wildlife. Haida Heritage Centre outside Gwaii Haanas. Rocky Mountaineer separately scoped rail journey; non-additive overlap with parks. Cabot Trail deferred: existing Cape Breton Highlands record explicitly credits sections; West Coast Trail deferred pending parent scope (Parks Canada lists as reserve unit: https://parks.canada.ca/pn-np/bc/pacificrim/activ/ssco-wctu). Existing three unassessed and all prior scores preserved. All high ratings provisional from indexed excerpts, not independently audited; high anchor calibration pending. Canada selected based on low baseline and substantial identified omissions.
+
+## sight-ca-whistler-blackcomb — Whistler Blackcomb Skiing and Alpine Gondola Experience — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/whistler-blackcomb.yaml)
+- Action: new
+- Scope: Two interconnected mountain resorts, skiing and panoramic gondola grouped, excluding village amenities and independent trails outside resort. Official mountain facts document 8,171 acres, over 200 marked runs and 2010 Olympic legacy. Experience and adventure 9.5 reflect scale and varied developed recreation, conditional on season and skill.
+- Representative coordinates: 50.09, -122.95; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.1 / 9.5 / 9.4.
+- Categories: adventure:9.5 nature:9.4 photography:9.4.
+- Overall: 92.75/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.whistlerblackcomb.com/the-mountain/about-the-mountain/mountain-info.aspx?tc_1=3, https://www.whistler.com/about-whistler/stats-facts/.
+- High-score reasoning in scope; independent international calibration required.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/grouse-mountain](../../../countries/CA/sights/grouse-mountain.yaml) | 8.7 / 8.5 / 8.1 / 8.9 / 8.6 | significance: +1.0 vs peer; depth: +0.8 vs peer |
+| [CA/icefields-parkway](../../../countries/CA/sights/icefields-parkway.yaml) | 9.4 / 9.2 / 8.6 / 9.3 / 9.0 | significance: +0.5 vs peer; depth: +0.4 vs peer |
+| [NZ/routeburn-track](../../../countries/NZ/sights/routeburn-track.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.2 | experience: +0.3 vs peer; significance: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-museum-anthropology-ubc — Museum of Anthropology at UBC Vancouver — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/museum-anthropology-ubc.yaml)
+- Action: new
+- Scope: Public Great Hall, Northwest Coast collections and wider anthropology exhibits; distinct from Haida Heritage Centre. Museum documents exceptional First Nations collection and work by contemporary artists; not all collections on display.
+- Representative coordinates: 49.269, -123.259; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 9.1 / 9.3.
+- Categories: culture:9.4 history:9.4 architecture:9.3.
+- Overall: 92.30/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://moa.ubc.ca/first-nations-collections/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/haida-heritage-centre](../../../countries/CA/sights/haida-heritage-centre.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montreal-jazz-festival — Montréal International Jazz Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montreal-jazz-festival.yaml)
+- Action: new
+- Scope: Recurring downtown festival, not whole city nightlife. Guinness record reflects 2004 attendance, not assumed current attendance; future programmes subject to change.
+- Representative coordinates: 45.507, -73.567; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.2 / 9.3 / 9.1.
+- Categories: culture:9.4 nightlife:9.4 photography:9.1.
+- Overall: 92.30/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.guinnessworldrecords.com/world-records/largest-jazz-festival, https://www.mtl.org/en/experience/jazz-festival, https://montrealjazzfest.com/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-museum-of-fine-arts](../../../countries/CA/sights/montreal-museum-of-fine-arts.yaml) | 8.9 / 9.0 / 9.1 / 9.1 / 9.3 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [CA/old-montreal](../../../countries/CA/sights/old-montreal.yaml) | 8.8 / 8.6 / 8.9 / 9.0 / 8.9 | uniqueness: +0.7 vs peer; impact: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-calgary-stampede — Calgary Stampede Annual Western Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/calgary-stampede.yaml)
+- Action: new
+- Scope: Public exhibitions, performances, rodeo and Elbow River Camp grouped; animal welfare views differ, no endorsement of specific competitive practices. History documented from first Stampede in 1912. No private ceremonies or guaranteed future programme.
+- Representative coordinates: 51.034, -114.053; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.2 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.3 family:9.2.
+- Overall: 92.00/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://web-02.calgarystampede.com/heritage, https://www.calgarystampede.com/stampede/attractions/elbow-river-camp.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/head-smashed-in-buffalo-jump](../../../countries/CA/sights/head-smashed-in-buffalo-jump.yaml) | 8.0 / 8.8 / 9.2 / 8.5 / 7.8 | depth: +1.4 vs peer; impact: +1.2 vs peer |
+| [CA/wanuskewin](../../../countries/CA/sights/wanuskewin.yaml) | 8.1 / 8.7 / 9.0 / 8.5 / 8.1 | impact: +1.1 vs peer; depth: +1.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-algonquin — Algonquin Provincial Park Canoe Wilderness and Forest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/algonquin.yaml)
+- Action: new
+- Scope: Entire provincial park and public backcountry canoe network grouped; Ontario Parks documents over 2,000 km of canoe routes. No guaranteed wildlife encounters. Regional point.
+- Representative coordinates: 45.56, -78.58; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 9.1 / 9.3 / 9.4.
+- Categories: nature:9.4 adventure:9.4 wildlife:9.3.
+- Overall: 91.65/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.ontarioparks.ca/park/Algonquin/activities, https://www.ontarioparks.ca/park/algonquin/backcountry/activities.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | depth: +0.6 vs peer; impact: +0.5 vs peer |
+| [CA/wood-buffalo-national-park](../../../countries/CA/sights/wood-buffalo-national-park.yaml) | 8.6 / 9.0 / 9.4 / 8.0 / 8.5 | experience: +1.3 vs peer; depth: +0.9 vs peer |
+| [NZ/whanganui-national-park](../../../countries/NZ/sights/whanganui-national-park.yaml) | 8.7 / 9.0 / 8.9 / 8.9 / 9.1 | impact: +0.5 vs peer; experience: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-tombstone-territorial — Tombstone Territorial Park Yukon — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/tombstone-territorial.yaml)
+- Action: new
+- Scope: 2,200 square kilometre park in Tr'ondëk Hwëch'in traditional territory; public hiking, wilderness camping and views, permits/conditions apply. Separate from Tr’ondëk-Klondike inscribed mining heritage and Kluane.
+- Representative coordinates: 64.42, -138.47; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.0 / 8.9 / 9.1.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://yukon.ca/en/outdoor-recreation-and-wildlife/parks-and-protected-areas/tombstone-territorial-park, https://yukon.ca/en/outdoor-recreation-and-wildlife/camping/hike-and-camp-tombstone-territorial-park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/kluane-national-park](../../../countries/CA/sights/kluane-national-park.yaml) | 9.4 / 9.2 / 9.2 / 8.6 / 9.0 | experience: +0.3 vs peer; significance: -0.2 vs peer |
+| [CA/torngat-mountains-national-park](../../../countries/CA/sights/torngat-mountains-national-park.yaml) | 9.2 / 9.0 / 9.0 / 8.2 / 9.0 | experience: +0.7 vs peer; uniqueness: +0.2 vs peer |
+| [NZ/routeburn-track](../../../countries/NZ/sights/routeburn-track.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.2 | experience: -0.3 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fortress-louisbourg — Fortress of Louisbourg National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fortress-louisbourg.yaml)
+- Action: new
+- Scope: Archaeological site and partially reconstructed French colonial fortified town with costumed interpretation, distinct from Halifax Citadel and Cape Breton Highlands.
+- Representative coordinates: 45.893, -59.986; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.1 / 9.2.
+- Categories: history:9.4 architecture:9.3 culture:9.3.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://parks.canada.ca/culture/designation/lieu-site/louisbourg, https://parks.canada.ca/lhn-nhs/ns/louisbourg, https://parks.canada.ca/lhn-nhs/ns/louisbourg/decouvrir-discover/arch.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | 8.0 / 8.1 / 8.6 / 8.5 / 7.8 | depth: +1.4 vs peer; impact: +1.0 vs peer |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | depth: +0.4 vs peer; experience: +0.2 vs peer |
+| [NZ/waitangi-treaty-grounds](../../../countries/NZ/sights/waitangi-treaty-grounds.yaml) | 8.0 / 8.8 / 9.2 / 8.5 / 8.2 | impact: +1.0 vs peer; depth: +1.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-quebec-winter-carnival — Québec Winter Carnival Annual Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/quebec-winter-carnival.yaml)
+- Action: new
+- Scope: Recurring ice sculptures, parades, ice canoe races and palace grouped; not separate permanent attractions in Old Québec. No future dates guaranteed.
+- Representative coordinates: 46.81, -71.21; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.0 / 9.2 / 9.0.
+- Categories: culture:9.4 family:9.3 photography:9.3.
+- Overall: 90.80/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.quebec-cite.com/en/what-to-do-quebec-city/winter-events.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | experience: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [CA/montmorency-falls](../../../countries/CA/sights/montmorency-falls.yaml) | 8.8 / 8.6 / 8.3 / 8.8 / 8.5 | significance: +0.7 vs peer; uniqueness: +0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-shubenacadie-tidal-bore — Shubenacadie River Guided Tidal Bore Rafting — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/shubenacadie-tidal-bore.yaml)
+- Action: new
+- Scope: Named Nova Scotia river rafting experience on incoming tidal surge, separate from Fundy National Park in New Brunswick and Hopewell Rocks. Conditions and operator safety requirements apply; no guaranteed wave heights.
+- Representative coordinates: 45.3, -63.46; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 8.8 / 9.2 / 8.7.
+- Categories: adventure:9.4 nature:9.3 photography:9.2.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://novascotia.com/plan-your-visit/itineraries/outdoor-adventure-bucket-list/, https://www.shubenacadiecanal.ca/rafting/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | uniqueness: +0.4 vs peer; experience: +0.4 vs peer |
+| [CA/hopewell-rocks-provincial-park](../../../countries/CA/sights/hopewell-rocks-provincial-park.yaml) | 8.9 / 9.1 / 8.5 / 9.0 / 8.1 | depth: +0.6 vs peer; uniqueness: +0.3 vs peer |
+| [NZ/kaituna-rafting](../../../countries/NZ/sights/kaituna-rafting.yaml) | 8.8 / 8.9 / 8.4 / 9.2 / 8.6 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fathom-five — Fathom Five National Marine Park and Flowerpot Island — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fathom-five.yaml)
+- Action: new
+- Scope: Freshwater marine park with island rock formations and historic wrecks; boat visits, hiking and qualified diving grouped. Separate designated marine park from Bruce Peninsula land park; no wreck penetration assumed.
+- Representative coordinates: 45.3, -81.62; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.0 / 9.1 / 9.1.
+- Categories: nature:9.4 adventure:9.3 history:9.3.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://parks.canada.ca/amnc-nmca/on/fathomfive, https://parks.canada.ca/amnc-nmca/on/fathomfive/info, https://parks.canada.ca/amnc-nmca/on/fathomfive/visit.aspx.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | 8.7 / 8.5 / 8.3 / 8.8 / 8.5 | significance: +0.7 vs peer; uniqueness: +0.6 vs peer |
+| [CA/thousand-islands-national-park](../../../countries/CA/sights/thousand-islands-national-park.yaml) | 8.0 / 8.2 / 8.1 / 8.7 / 8.4 | impact: +1.0 vs peer; uniqueness: +0.9 vs peer |
+| [NZ/poor-knights-diving](../../../countries/NZ/sights/poor-knights-diving.yaml) | 9.3 / 9.4 / 9.2 / 9.2 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-pier-21 — Canadian Museum of Immigration at Pier 21 Halifax — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/pier-21.yaml)
+- Action: new
+- Scope: National museum in historic immigration facility; building and exhibits grouped, distinct from Halifax Citadel. Parks Canada documents rare intact immigration facility.
+- Representative coordinates: 44.637, -63.566; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.3 family:9.1.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://parks.canada.ca/culture/designation/lieu-site/quai-21-pier, https://www.canada.ca/en/canadian-heritage/corporate/portfolio-organizations/canadian-museum-immigration.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | impact: -0.2 vs peer; significance: +0.2 vs peer |
+| [CA/canadian-museum-for-human-rights](../../../countries/CA/sights/canadian-museum-for-human-rights.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 8.9 | significance: +0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-killarney-provincial — Killarney Provincial Park La Cloche Mountains and Canoe Routes — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/killarney-provincial.yaml)
+- Action: new
+- Scope: Provincial park canoe lakes and hiking grouped, excludes Algonquin and Fathom Five; permissions and weather apply.
+- Representative coordinates: 46.04, -81.4; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.7 / 9.0 / 9.0.
+- Categories: nature:9.3 adventure:9.3 photography:9.3.
+- Overall: 88.60/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.ontarioparks.ca/park/killarney/activities.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | 8.7 / 8.5 / 8.3 / 8.8 / 8.5 | depth: +0.5 vs peer; significance: +0.4 vs peer |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | impact: +0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-heritage-park-calgary — Heritage Park Historical Village Calgary — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/heritage-park-calgary.yaml)
+- Action: new
+- Scope: Living history village and transportation exhibits grouped; independent from seasonal Stampede.
+- Representative coordinates: 50.982, -114.104; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.9 / 9.0.
+- Categories: history:9.3 family:9.3 culture:9.2.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | 8.0 / 8.1 / 8.6 / 8.5 / 7.8 | depth: +1.2 vs peer; impact: +0.7 vs peer |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-upper-canada-village — Upper Canada Village Living History Museum Morrisburg — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/upper-canada-village.yaml)
+- Action: new
+- Scope: Recreated nineteenth-century settlement, public demonstrations only; distinct from Rideau Canal.
+- Representative coordinates: 44.948, -75.066; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.9 / 8.9.
+- Categories: history:9.3 culture:9.2 family:9.2.
+- Overall: 87.85/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.destinationontario.com/en-ca/things-to-do/historic-sites?page=1.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/old-town-lunenburg](../../../countries/CA/sights/old-town-lunenburg.yaml) | 8.5 / 8.7 / 8.9 / 8.4 / 8.0 | depth: +0.9 vs peer; experience: +0.5 vs peer |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | impact: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-henry — Fort Henry National Historic Site Kingston — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-henry.yaml)
+- Action: new
+- Scope: Fort interpretation and public living history, part of Rideau Canal UNESCO designation but separately scoped fort visit; non-additive overlap documented.
+- Representative coordinates: 44.231, -76.459; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.6 / 9.0 / 8.8 / 8.8.
+- Categories: history:9.3 architecture:9.2 family:9.1.
+- Overall: 87.30/100.
+- Decision: Source-informed provisional assessment from retrieved indexed excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References consulted via indexed excerpts (2026-11-27): https://www.destinationontario.com/en-ca/things-to-do/historic-sites?page=1.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/rideau-canal](../../../countries/CA/sights/rideau-canal.yaml) | 8.2 / 8.6 / 8.8 / 8.7 / 8.8 | impact: +0.4 vs peer; significance: +0.2 vs peer |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | 8.0 / 8.1 / 8.6 / 8.5 / 7.8 | depth: +1.0 vs peer; impact: +0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montreal-biodome — Montréal Biodôme Ecosystem Exhibits — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montreal-biodome.yaml)
+- Action: new
+- Scope: Indoor ecosystem exhibits, excludes botanical garden, planetarium and other Space for Life institutions.
+- Representative coordinates: 45.56, -73.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.6 / 9.0 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 family:9.3.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-museum-nature](../../../countries/CA/sights/canadian-museum-nature.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | significance: -0.5 vs peer; depth: -0.4 vs peer |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | significance: -0.6 vs peer; depth: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montreal-botanical-garden — Montréal Botanical Garden Themed Collections — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montreal-botanical-garden.yaml)
+- Action: new
+- Scope: Botanical collections, themed gardens and seasonal displays; separate from Biodôme.
+- Representative coordinates: 45.56, -73.56; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.8 / 8.9 / 9.0.
+- Categories: nature:9.3 photography:9.3 relaxation:9.3.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [CA/stanley-park](../../../countries/CA/sights/stanley-park.yaml) | 8.4 / 8.1 / 7.8 / 8.8 / 8.4 | significance: +1.0 vs peer; uniqueness: +0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-st-joseph-oratory — Saint Joseph's Oratory of Mount Royal Montréal — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/st-joseph-oratory.yaml)
+- Action: new
+- Scope: Independent religious pilgrimage and architecture site, not Notre-Dame Basilica.
+- Representative coordinates: 45.492, -73.617; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 9.0 / 8.7 / 8.8.
+- Categories: architecture:9.3 history:9.2 culture:9.2.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/notre-dame-basilica-montreal](../../../countries/CA/sights/notre-dame-basilica-montreal.yaml) | 9.1 / 8.8 / 8.8 / 8.8 / 7.9 | depth: +0.9 vs peer; impact: -0.4 vs peer |
+| [CA/old-montreal](../../../countries/CA/sights/old-montreal.yaml) | 8.8 / 8.6 / 8.9 / 9.0 / 8.9 | experience: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-ottawa-whitewater — Ottawa River Guided Whitewater Rafting Foresters Falls — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/ottawa-whitewater.yaml)
+- Action: new
+- Scope: Named river rafting area distinct from Rideau Canal, river conditions and operator safety apply.
+- Representative coordinates: 45.72, -76.79; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.2 / 9.1 / 8.5.
+- Categories: adventure:9.4 nature:9.2 photography:9.1.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/rideau-canal](../../../countries/CA/sights/rideau-canal.yaml) | 8.2 / 8.6 / 8.8 / 8.7 / 8.8 | impact: +0.6 vs peer; significance: -0.6 vs peer |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-niagara-on-the-lake — Niagara-on-the-Lake Historic Town and Heritage Streets — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/niagara-on-the-lake.yaml)
+- Action: new
+- Scope: Historic town walking and built heritage, excludes Niagara Falls and separate winery circuits.
+- Representative coordinates: 43.255, -79.071; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.7 / 8.8 / 8.7.
+- Categories: architecture:9.2 history:9.2 relaxation:9.1.
+- Overall: 86.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/old-town-lunenburg](../../../countries/CA/sights/old-town-lunenburg.yaml) | 8.5 / 8.7 / 8.9 / 8.4 / 8.0 | depth: +0.7 vs peer; experience: +0.4 vs peer |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 222 scope decisions
+
+Whistler skiing and gondola grouped, Fathom Five includes Flowerpot Island and wreck viewing, distinct marine designation from Bruce Peninsula. Fort Henry separately scoped component of Rideau Canal World Heritage site, non-additive. Three seasonal festivals separate from permanent sites, no future dates guaranteed. Quebec Winter Carnival distinct from Old Quebec built heritage. Cabot Trail and West Coast Trail earlier parent deferrals retained. All high ratings provisional from actual retrieved indexed excerpts, no independent coordinate or current visitor access verification. Existing three unassessed and prior scores preserved.

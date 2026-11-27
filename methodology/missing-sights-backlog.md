@@ -3814,3 +3814,28 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Grouse Mountain Vancouver Summit and Alpine Recreation: 85.50/100 (desk-based provisional).
 
 17 additions, 5 desk-based provisional, 12 source-linked, 11 90+, 45 ranking-row comparisons including 11 international. CA 88 ranked / 91 total. Churchill polar bear viewing scoped to Wildlife Management Area outside existing Wapusk maternity-den visitor scope, beluga estuary separate; regional coordinate proxies, no guaranteed wildlife. Haida Heritage Centre outside Gwaii Haanas. Rocky Mountaineer separately scoped rail journey; non-additive overlap with parks. Cabot Trail deferred: existing Cape Breton Highlands record explicitly credits sections; West Coast Trail deferred pending parent scope (Parks Canada lists as reserve unit: https://parks.canada.ca/pn-np/bc/pacificrim/activ/ssco-wctu). Existing three unassessed and all prior scores preserved. All high ratings provisional from indexed excerpts, not independently audited; high anchor calibration pending. Canada selected based on low baseline and substantial identified omissions. Next: Canada's major regional attractions, museums, historical sites and outdoor experiences.
+
+### Pass 222 — Canada museums, festivals, provincial parks and heritage
+
+- [x] CA — Whistler Blackcomb Skiing and Alpine Gondola Experience: 92.75/100 (source-linked-unverified).
+- [x] CA — Museum of Anthropology at UBC Vancouver: 92.30/100 (source-linked-unverified).
+- [x] CA — Montréal International Jazz Festival: 92.30/100 (source-linked-unverified).
+- [x] CA — Calgary Stampede Annual Western Cultural Festival: 92.00/100 (source-linked-unverified).
+- [x] CA — Algonquin Provincial Park Canoe Wilderness and Forest Trails: 91.65/100 (source-linked-unverified).
+- [x] CA — Tombstone Territorial Park Yukon: 91.35/100 (source-linked-unverified).
+- [x] CA — Fortress of Louisbourg National Historic Site: 91.20/100 (source-linked-unverified).
+- [x] CA — Québec Winter Carnival Annual Festival: 90.80/100 (source-linked-unverified).
+- [x] CA — Shubenacadie River Guided Tidal Bore Rafting: 90.60/100 (source-linked-unverified).
+- [x] CA — Fathom Five National Marine Park and Flowerpot Island: 90.50/100 (source-linked-unverified).
+- [x] CA — Canadian Museum of Immigration at Pier 21 Halifax: 90.30/100 (source-linked-unverified).
+- [x] CA — Killarney Provincial Park La Cloche Mountains and Canoe Routes: 88.60/100 (source-linked-unverified).
+- [x] CA — Heritage Park Historical Village Calgary: 88.25/100 (desk-based provisional).
+- [x] CA — Upper Canada Village Living History Museum Morrisburg: 87.85/100 (source-linked-unverified).
+- [x] CA — Fort Henry National Historic Site Kingston: 87.30/100 (source-linked-unverified).
+- [x] CA — Montréal Biodôme Ecosystem Exhibits: 87.60/100 (desk-based provisional).
+- [x] CA — Montréal Botanical Garden Themed Collections: 88.10/100 (desk-based provisional).
+- [x] CA — Saint Joseph's Oratory of Mount Royal Montréal: 87.45/100 (desk-based provisional).
+- [x] CA — Ottawa River Guided Whitewater Rafting Foresters Falls: 86.70/100 (desk-based provisional).
+- [x] CA — Niagara-on-the-Lake Historic Town and Heritage Streets: 86.35/100 (desk-based provisional).
+
+20 additions, 6 desk-based provisional, 14 source-linked, 11 90+, 47 ranking-row comparisons including 7 international. CA 108 ranked / 111 total. Whistler skiing and gondola grouped, Fathom Five includes Flowerpot Island and wreck viewing, distinct marine designation from Bruce Peninsula. Fort Henry separately scoped component of Rideau Canal World Heritage site, non-additive. Three seasonal festivals separate from permanent sites, no future dates guaranteed. Quebec Winter Carnival distinct from Old Quebec built heritage. Cabot Trail and West Coast Trail earlier parent deferrals retained. All high ratings provisional from actual retrieved indexed excerpts, no independent coordinate or current visitor access verification. Existing three unassessed and prior scores preserved. Next: western Canada, mountain trails, national parks and northern scenic journeys.
