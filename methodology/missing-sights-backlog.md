@@ -4544,3 +4544,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Lugar de la Memoria Lima Museum of Memory Tolerance and Social Inclusion: 86.80/100 (desk-based provisional).
 
 16 additions, 11 source-linked provisional, 5 desk-based provisional, 10 90+, 43 ranking-row comparisons (14 international). PE 80 ranked / 82 total, +16 since baseline 66. Peru selected for major archaeological and cultural omissions. Inti Raymi and other celebrations separated from permanent host sites; Qoyllur Rit’i limited to community-permitted participation. Choquequirao site and approach grouped; Salkantay excludes Machu Picchu destination and Humantay detour; Ausangate excludes Rainbow Mountain and pilgrimage. El Brujo and Cao Museum grouped. Q’eswachaka renewal (https://ich.unesco.org/en/decisions/8.COM/8.22) deferred pending public visitor scope and overlap with Qhapaq Ñan. Existing scores and two unassessed retained. Coordinates approximate; access/schedules unverified. Discovery queue open; further UNESCO, reserves, regional museums and festival screen pending.
+
+### Pass 256 — Peru UNESCO coverage, Amazon forests and archaeological museums
+
+- [x] PE — Q’eswachaka Inca Rope Bridge Annual Renewal and Community Celebration: 92.15/100 (source-linked-unverified).
+- [x] PE — National Museum of Archaeology Anthropology and History of Peru Lima: 91.70/100 (source-linked-unverified).
+- [x] PE — Marcahuamachuco Archaeological Complex Monumental Highland Stone Architecture: 91.45/100 (source-linked-unverified).
+- [x] PE — Toro Muerto Archaeological Complex Majes Valley Petroglyphs: 91.10/100 (source-linked-unverified).
+- [x] PE — Leymebamba Museum Chachapoyas Archaeology and Lake of the Condors Collections: 90.95/100 (source-linked-unverified).
+- [x] PE — Huayllay National Sanctuary Andean Stone Forest: 91.15/100 (source-linked-unverified).
+- [x] PE — Allpahuayo Mishana National Reserve White Sand Forest Birding: 90.50/100 (source-linked-unverified).
+- [x] PE — Cusco South Valley Andean Baroque Route Rural Churches and Murals: 90.85/100 (source-linked-unverified).
+- [x] PE — Yanachaga Chemillén National Park Cloud Forest and Andean Wildlife Trails: 88.60/100 (source-linked-unverified).
+- [x] PE — Tingo María National Park Cueva de las Lechuzas and Forest Waterfalls: 87.90/100 (source-linked-unverified).
+- [x] PE — Inkaterra Amazon Canopy Walkway Madre de Dios Treetop Forest Circuit: 87.70/100 (source-linked-unverified).
+- [x] PE — Historic Centre of Trujillo Colonial Mansions Churches and Public Squares: 87.75/100 (source-linked-unverified).
+- [x] PE — Cajamarca Historic Centre Colonial Churches and Public Squares: 87.10/100 (source-linked-unverified).
+- [x] PE — Cantalloc Nasca Underground Aqueducts and Spiral Access Wells: 87.05/100 (desk-based provisional).
+- [x] PE — Lachay National Reserve Seasonal Coastal Fog Oasis: 86.75/100 (desk-based provisional).
+- [x] PE — Pampa Galeras Bárbara D’Achille National Reserve Vicuña Conservation: 86.20/100 (desk-based provisional).
+
+16 additions, 13 source-linked provisional, 3 desk-based provisional, 8 90+, 40 ranking-row comparisons (4 international). PE 96 ranked / 98 total, +32 since baseline. All 13 inscribed UNESCO properties already represented, Río Abiseo unassessed; UNESCO reports 25 tentative properties (https://whc.unesco.org/en/statesparties/pe), not all represented. New full or partial tentative-property coverage added; no claim of complete tentative coverage. Remaining screen: Santa Bárbara mining, Collao churches, Utcubamba aggregate scope, pisco vineyards, Huaringas, Central Railway, Sondondo, fossil basins, Sierra del Divisor, La Leche, guano reserve, Lomas, expanded Chankillo and other tentative components. Q’eswachaka annual renewal deferral resolved via documented regional tourism promotion and separate event scope; permanent bridge stays within Qhapaq Ñan. Rural Baroque circuit excludes Cusco core; Cantalloc and Lachay represent partial tentative sites only. Inkaterra canopy is adjacent to Tambopata, not a second ranking for same reserve. Coordinates approximate; access/schedules unverified. Existing scores and two unassessed preserved. Discovery queue open.

@@ -1661,3 +1661,346 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 255 scope decisions
 
 16 additions, 11 source-linked provisional, 5 desk-based provisional, 10 90+, 43 ranking-row comparisons (14 international). PE 80 ranked / 82 total, +16 since baseline 66. Peru selected for major archaeological and cultural omissions. Inti Raymi and other celebrations separated from permanent host sites; Qoyllur Rit’i limited to community-permitted participation. Choquequirao site and approach grouped; Salkantay excludes Machu Picchu destination and Humantay detour; Ausangate excludes Rainbow Mountain and pilgrimage. El Brujo and Cao Museum grouped. Q’eswachaka renewal (https://ich.unesco.org/en/decisions/8.COM/8.22) deferred pending public visitor scope and overlap with Qhapaq Ñan. Existing scores and two unassessed retained. Coordinates approximate; access/schedules unverified. Discovery queue open; further UNESCO, reserves, regional museums and festival screen pending.
+
+## sight-pe-qeswachaka-renewal — Q’eswachaka Inca Rope Bridge Annual Renewal and Community Celebration — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/qeswachaka-renewal.yaml)
+- Action: new
+- Scope: Annual community-led renewal and permitted public festivities only; permanent bridge is already within Qhapaq Ñan and excluded from separate scoring. Regional government explicitly documents 2026 renewal and tourism promotion; UNESCO intangible heritage inscription covers renewal skills and rituals. Community consent, cultural restrictions and bridge safety respected.
+- Representative coordinates: -14.382, -71.485; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.5 / 9.4 / 8.8 / 9.1.
+- Categories: culture:9.4 history:9.4 photography:9.2.
+- Overall: 92.15/100.
+- Source: https://ich.unesco.org/en/RL/knowledge-skills-and-rituals-related-to-the-annual-renewal-of-the-q-eswachaka-bridge-00594?RL=00594
+- Source: https://www.gob.pe/institucion/regioncusco/noticias/1383233-definen-acciones-para-renovar-el-puente-inka-qeswachaka-y-su-promocion-turistica
+- Source: https://www.gob.pe/institucion/cultura/noticias/1186570-cusco-comunidades-andinas-renovaron-el-milenario-puente-q-eswachaka-tras-atentado
+- Decision: provisional worldwide score; temporary access excluded. High-score uniqueness 9.5 provisional: UNESCO-recognized annual community reconstruction of a traditional fibre suspension bridge, not permanent structure; global calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/qhapaq-nan-peruvian-inscribed-sections](../../../countries/PE/sights/qhapaq-nan-peruvian-inscribed-sections.yaml) | 8.9 / 9.5 / 9.8 / 8.8 / 8.8 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PE/qoyllur-riti](../../../countries/PE/sights/qoyllur-riti.yaml) | 9.2 / 9.5 / 9.4 / 8.8 / 9.3 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BR/pirenopolis-divino](../../../countries/BR/sights/pirenopolis-divino.yaml) | 8.9 / 9.2 / 9.3 / 9.0 / 9.2 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-mnaahp-lima — National Museum of Archaeology Anthropology and History of Peru Lima — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/mnaahp-lima.yaml)
+- Action: new
+- Scope: Pueblo Libre national museum founded 1822; extensive archaeological, colonial and republican collections, including over 22,100 lithic pieces from 265 sites per museum. Separate institution from Museo de la Nación and Larco. Current galleries and renovation access not guaranteed.
+- Representative coordinates: -12.078, -77.063; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.0 / 9.4.
+- Categories: history:9.4 culture:9.4 architecture:9.1.
+- Overall: 91.70/100.
+- Source: https://mnaahp.cultura.pe/elmuseo/historia
+- Source: https://mnaahp.cultura.pe/colecciones
+- Source: https://museos.cultura.pe/museos/museo-nacional-de-arqueolog%C3%ADa-antropolog%C3%ADa-e-historia-del-per%C3%BA
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/larco-museum](../../../countries/PE/sights/larco-museum.yaml) | 8.6 / 8.9 / 9.2 / 8.9 / 8.4 | impact: +0.4; uniqueness: +0.3 vs peer |
+| [PE/royal-tombs-of-sipan-museum](../../../countries/PE/sights/royal-tombs-of-sipan-museum.yaml) | 8.8 / 9.2 / 9.6 / 9.0 / 8.4 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [PE/mali](../../../countries/PE/sights/mali.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.3 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-marcahuamachuco — Marcahuamachuco Archaeological Complex Monumental Highland Stone Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/marcahuamachuco.yaml)
+- Action: new
+- Scope: Approximate 260-hectare stone complex on UNESCO tentative list, with multiple ceremonial sectors. Ministry documents public interpretation and visitor management, including restoration following a fire. No entry to active excavation implied.
+- Representative coordinates: -7.815, -78.076; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 8.8 / 9.1.
+- Categories: history:9.4 architecture:9.4 photography:9.3.
+- Overall: 91.45/100.
+- Source: https://whc.unesco.org/en/tentativelists/6409/
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=128
+- Source: https://www.gob.pe/institucion/marcahuamachuco/noticias/1403981-ministerio-de-cultura-fortalece-atencion-a-visitantes-en-monumentos-arqueologicos-de-sanchez-carrion
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/kuelap-archaeological-complex](../../../countries/PE/sights/kuelap-archaeological-complex.yaml) | 9.0 / 9.3 / 9.4 / 8.2 / 8.3 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PE/choquequirao](../../../countries/PE/sights/choquequirao.yaml) | 9.4 / 9.4 / 9.4 / 8.9 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [PE/sacred-city-of-caral-supe](../../../countries/PE/sights/sacred-city-of-caral-supe.yaml) | 8.6 / 9.4 / 9.8 / 8.5 / 8.6 | impact: +0.5; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-toro-muerto — Toro Muerto Archaeological Complex Majes Valley Petroglyphs — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/toro-muerto.yaml)
+- Action: new
+- Scope: Extensive desert petroglyph landscape with diverse ritual imagery; tentative-list submission and visitor inventory document cultural value and Ministry describes conservation of visitor circuits. Avoid unverified numerical/world-size superlatives.
+- Representative coordinates: -16.217, -72.484; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 8.6 / 9.1.
+- Categories: history:9.4 culture:9.3 photography:9.3.
+- Overall: 91.10/100.
+- Source: https://whc.unesco.org/en/tentativelists/6408/
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=611
+- Source: https://www.gob.pe/institucion/cultura/noticias/656211-arequipa-se-iniciaron-los-trabajos-de-limpieza-y-recuperacion-del-repositorio-de-petroglifos-en-el-valle-de-majes
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/lines-and-geoglyphs-of-nasca-and-palpa](../../../countries/PE/sights/lines-and-geoglyphs-of-nasca-and-palpa.yaml) | 9.2 / 9.8 / 9.6 / 8.3 / 8.0 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [PE/cumbemayo-archaeological-complex](../../../countries/PE/sights/cumbemayo-archaeological-complex.yaml) | 8.5 / 8.9 / 9.0 / 8.5 / 8.0 | impact: +0.5; uniqueness: +0.5 vs peer |
+| [ZA/wildebeest-kuil](../../../countries/ZA/sights/wildebeest-kuil.yaml) | 8.6 / 9.1 / 9.3 / 8.5 / 8.7 | impact: +0.4; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-leymebamba-museum — Leymebamba Museum Chachapoyas Archaeology and Lake of the Condors Collections — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/leymebamba-museum.yaml)
+- Action: new
+- Scope: Museum preserves over 200 mummies and associated funerary offerings recovered in 1996 per national tourism authority. Respectful museum interpretation, not separate scoring of burial sites or unrestricted access to human remains.
+- Representative coordinates: -6.72, -77.8; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.4 / 8.8 / 9.0.
+- Categories: history:9.4 culture:9.4 architecture:9.0.
+- Overall: 90.95/100.
+- Source: https://www.peru.travel/attractions/leymebamba-museum
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/royal-tombs-of-sipan-museum](../../../countries/PE/sights/royal-tombs-of-sipan-museum.yaml) | 8.8 / 9.2 / 9.6 / 9.0 / 8.4 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [PE/karajia-sarcophagi](../../../countries/PE/sights/karajia-sarcophagi.yaml) | 8.1 / 9.1 / 8.8 / 7.9 / 6.5 | impact: +0.8; uniqueness: +0.2 vs peer |
+| [PE/museo-sican](../../../countries/PE/sights/museo-sican.yaml) | 8.5 / 8.9 / 9.2 / 8.5 / 8.8 | impact: +0.4; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-huayllay — Huayllay National Sanctuary Andean Stone Forest — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huayllay.yaml)
+- Action: new
+- Scope: Distinct protected high-altitude rock formations, 6,815 hectares and approximately 4,000–4,600 m according to UNESCO tentative-list submission. Visitor walking scope only; no altitude suitability guarantee.
+- Representative coordinates: -11.0, -76.35; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.9 / 8.8 / 9.0.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 91.15/100.
+- Source: https://whc.unesco.org/en/tentativelists/6421/
+- Source: https://www.gob.pe/institucion/sernanp/informes-publicaciones/1928682-santuario-nacional-de-huayllay
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/vinicunca-rainbow-mountain](../../../countries/PE/sights/vinicunca-rainbow-mountain.yaml) | 9.4 / 9.2 / 7.8 / 8.6 / 7.0 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [PE/cumbemayo-archaeological-complex](../../../countries/PE/sights/cumbemayo-archaeological-complex.yaml) | 8.5 / 8.9 / 9.0 / 8.5 / 8.0 | impact: +0.8; uniqueness: +0.4 vs peer |
+| [PE/cotahuasi-canyon](../../../countries/PE/sights/cotahuasi-canyon.yaml) | 9.1 / 8.8 / 8.2 / 8.3 / 8.6 | impact: +0.2; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-allpahuayo-mishana — Allpahuayo Mishana National Reserve White Sand Forest Birding — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/allpahuayo-mishana.yaml)
+- Action: new
+- Scope: SERNANP documents the largest known concentration of white-sand forests in Peruvian Amazon, rare specialized species and visitor routes. Separate from Pacaya Samiria flooded forests. No wildlife sighting guarantee.
+- Representative coordinates: -3.98, -73.43; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.2 / 8.7 / 9.1.
+- Categories: nature:9.4 wildlife:9.4 photography:9.2.
+- Overall: 90.50/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/en/anps/allpahuayto-mishana-national-reserve/
+- Source: https://www.gob.pe/institucion/sernanp/informes-publicaciones/1718815-reserva-nacional-allpahuayo-mishana
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/pacaya-samiria-national-reserve](../../../countries/PE/sights/pacaya-samiria-national-reserve.yaml) | 9.0 / 9.1 / 9.3 / 8.5 / 9.2 | impact: -0.1; uniqueness: +0.2 vs peer |
+| [PE/tambopata-national-reserve](../../../countries/PE/sights/tambopata-national-reserve.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.0 | impact: -0.1; uniqueness: +0.3 vs peer |
+| [BR/cristalino-reserve](../../../countries/BR/sights/cristalino-reserve.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 9.3 | impact: -0.3; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-andean-baroque-south-valley — Cusco South Valley Andean Baroque Route Rural Churches and Murals — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/andean-baroque-south-valley.yaml)
+- Action: new
+- Scope: Three rural churches at Andahuaylillas, Huaro and Canincunca grouped as documented visitor circuit; excludes La Compañía within existing Cusco core and does not claim coverage of all tentative Rural Temples of Cusco. Religious service and photography restrictions respected.
+- Representative coordinates: -13.674, -71.678; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 8.9 / 9.1.
+- Categories: architecture:9.4 history:9.4 culture:9.3.
+- Overall: 90.85/100.
+- Source: https://www.peru.travel/experiences/andean-baroque-route-cusco
+- Source: https://rutadelbarrocoandino.com/en/
+- Source: https://whc.unesco.org/en/tentativelists/6406/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cusco-cathedral](../../../countries/PE/sights/cusco-cathedral.yaml) | 8.7 / 8.6 / 9.1 / 8.5 / 7.7 | impact: +0.3; uniqueness: +0.6 vs peer |
+| [PE/santa-catalina-monastery-arequipa](../../../countries/PE/sights/santa-catalina-monastery-arequipa.yaml) | 9.0 / 9.1 / 9.0 / 8.9 / 8.5 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/qorikancha-and-santo-domingo-convent](../../../countries/PE/sights/qorikancha-and-santo-domingo-convent.yaml) | 8.7 / 9.4 / 9.5 / 8.6 / 7.8 | impact: +0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-yanachaga-chemillen — Yanachaga Chemillén National Park Cloud Forest and Andean Wildlife Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/yanachaga-chemillen.yaml)
+- Action: new
+- Scope: Designated San Alberto and Huampal visitor sectors; SERNANP documents cloud forest, waterfalls and Andean cock-of-the-rock habitat. No sightings or trail access guaranteed.
+- Representative coordinates: -10.48, -75.36; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.7 / 8.9.
+- Categories: nature:9.4 wildlife:9.3 photography:9.2.
+- Overall: 88.60/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/anps/parque-nacional-yanachaga-chemillen/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/manu-national-park](../../../countries/PE/sights/manu-national-park.yaml) | 9.4 / 9.5 / 9.8 / 8.5 / 9.4 | impact: -0.6; uniqueness: -0.6 vs peer |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: -0.1; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-tingo-maria — Tingo María National Park Cueva de las Lechuzas and Forest Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/tingo-maria.yaml)
+- Action: new
+- Scope: Park visitor sectors grouped, including oilbird cave and waterfall routes documented by SERNANP. No guaranteed wildlife sightings or bathing suitability.
+- Representative coordinates: -9.35, -76.02; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 8.9 / 8.7.
+- Categories: nature:9.3 wildlife:9.2 photography:9.2.
+- Overall: 87.90/100.
+- Source: https://visitaareasnaturales.sernanp.gob.pe/en/anps/tingo-maria-national-park/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/yanachaga-chemillen](../../../countries/PE/sights/yanachaga-chemillen.yaml) | 8.8 / 8.9 / 9.0 / 8.7 / 8.9 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/gocta-waterfall](../../../countries/PE/sights/gocta-waterfall.yaml) | 9.2 / 8.8 / 7.8 / 8.8 / 8.0 | impact: -0.4; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-inkaterra-canopy-walkway — Inkaterra Amazon Canopy Walkway Madre de Dios Treetop Forest Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/inkaterra-canopy-walkway.yaml)
+- Action: new
+- Scope: Private reserve adjacent to Tambopata, not inside national reserve; dedicated 344-m walkway with seven bridges around 30 m above ground per operator. No lodging score or guaranteed wildlife sightings; shared rainforest non-additive.
+- Representative coordinates: -12.53, -69.05; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.2.
+- Overall: 87.70/100.
+- Source: https://www.inkaterra.com/landings/reserva-amazonica/
+- Source: https://www.inkaterra.com/es/amazon-field-station/tambopata/excursiones/excursiones-de-medio-dia/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tambopata-national-reserve](../../../countries/PE/sights/tambopata-national-reserve.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.0 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [BR/cristalino-reserve](../../../countries/BR/sights/cristalino-reserve.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 9.3 | impact: -0.4; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-trujillo-historic-centre — Historic Centre of Trujillo Colonial Mansions Churches and Public Squares — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/trujillo-historic-centre.yaml)
+- Action: new
+- Scope: Tentative UNESCO city centre and colonial buildings, separate from Chan Chan and Moche sites. Public spaces and designated interiors only.
+- Representative coordinates: -8.111, -79.028; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.6 / 9.1 / 8.7 / 8.9.
+- Categories: architecture:9.3 history:9.3 culture:9.2.
+- Overall: 87.75/100.
+- Source: https://www.peru.travel/es/atractivos/centro-historico-de-trujillo
+- Source: https://whc.unesco.org/en/statesparties/pe
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/historic-centre-of-lima](../../../countries/PE/sights/historic-centre-of-lima.yaml) | 8.8 / 8.6 / 9.4 / 8.5 / 9.0 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/historic-centre-of-arequipa](../../../countries/PE/sights/historic-centre-of-arequipa.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 8.9 | impact: -0.4; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cajamarca-historic-centre — Cajamarca Historic Centre Colonial Churches and Public Squares — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cajamarca-historic-centre.yaml)
+- Action: new
+- Scope: Tentative UNESCO historic centre; excludes separately ranked Ransom Room, nearby Cumbemayo and thermal baths from aggregation. Desk rating; exact boundary and individual access unverified.
+- Representative coordinates: -7.157, -78.517; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.6 / 9.1 / 8.6 / 8.7.
+- Categories: architecture:9.3 history:9.3 culture:9.1.
+- Overall: 87.10/100.
+- Source: https://whc.unesco.org/en/statesparties/pe
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/historic-centre-of-arequipa](../../../countries/PE/sights/historic-centre-of-arequipa.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 8.9 | impact: -0.5; uniqueness: -0.5 vs peer |
+| [PE/ransom-room-cajamarca](../../../countries/PE/sights/ransom-room-cajamarca.yaml) | 7.2 / 8.6 / 9.5 / 7.5 / 5.8 | impact: +1.4; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cantalloc-aqueducts — Cantalloc Nasca Underground Aqueducts and Spiral Access Wells — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cantalloc-aqueducts.yaml)
+- Action: new
+- Scope: Designated Cantalloc visitor site, distinct from geoglyph flights; represents part of tentative Nasca Aqueducts, not full network. Desk-based rating; no unrestricted access to functioning water infrastructure.
+- Representative coordinates: -14.827, -74.911; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 9.0 / 9.0 / 8.5 / 8.3.
+- Categories: history:9.3 architecture:9.2 photography:9.1.
+- Overall: 87.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/lines-and-geoglyphs-of-nasca-and-palpa](../../../countries/PE/sights/lines-and-geoglyphs-of-nasca-and-palpa.yaml) | 9.2 / 9.8 / 9.6 / 8.3 / 8.0 | impact: -0.7; uniqueness: -0.8 vs peer |
+| [PE/moray-archaeological-site](../../../countries/PE/sights/moray-archaeological-site.yaml) | 8.8 / 9.2 / 8.6 / 8.5 / 7.4 | impact: -0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lomas-de-lachay — Lachay National Reserve Seasonal Coastal Fog Oasis — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lomas-de-lachay.yaml)
+- Action: new
+- Scope: Specific seasonal fog-fed coastal vegetation reserve, not whole tentative Coastal Lomas system. Seasonal greenery not guaranteed; desk assessment.
+- Representative coordinates: -11.36, -77.37; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.5 / 8.7 / 8.6.
+- Categories: nature:9.3 photography:9.2 wildlife:9.0.
+- Overall: 86.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/paracas-national-reserve](../../../countries/PE/sights/paracas-national-reserve.yaml) | 8.9 / 8.9 / 8.8 / 8.7 / 8.6 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/bosque-de-pomac](../../../countries/PE/sights/bosque-de-pomac.yaml) | 8.7 / 8.9 / 9.1 / 8.5 / 8.7 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-pampa-galeras — Pampa Galeras Bárbara D’Achille National Reserve Vicuña Conservation — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/pampa-galeras.yaml)
+- Action: new
+- Scope: Highland vicuña conservation landscape and designated visitor experience; excludes separately staged or community-restricted chaccu events. Desk assessment; sightings unguaranteed.
+- Representative coordinates: -14.68, -74.37; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.8 / 8.5 / 8.6.
+- Categories: wildlife:9.3 nature:9.1 photography:9.1.
+- Overall: 86.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chaparri-reserve](../../../countries/PE/sights/chaparri-reserve.yaml) | 8.7 / 8.9 / 8.8 / 8.5 / 8.7 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/huascaran-national-park](../../../countries/PE/sights/huascaran-national-park.yaml) | 9.6 / 9.4 / 9.4 / 9.0 / 9.4 | impact: -1.1; uniqueness: -0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 256 scope decisions
+
+16 additions, 13 source-linked provisional, 3 desk-based provisional, 8 90+, 40 ranking-row comparisons (4 international). PE 96 ranked / 98 total, +32 since baseline. All 13 inscribed UNESCO properties already represented, Río Abiseo unassessed; UNESCO reports 25 tentative properties (https://whc.unesco.org/en/statesparties/pe), not all represented. New full or partial tentative-property coverage added; no claim of complete tentative coverage. Remaining screen: Santa Bárbara mining, Collao churches, Utcubamba aggregate scope, pisco vineyards, Huaringas, Central Railway, Sondondo, fossil basins, Sierra del Divisor, La Leche, guano reserve, Lomas, expanded Chankillo and other tentative components. Q’eswachaka annual renewal deferral resolved via documented regional tourism promotion and separate event scope; permanent bridge stays within Qhapaq Ñan. Rural Baroque circuit excludes Cusco core; Cantalloc and Lachay represent partial tentative sites only. Inkaterra canopy is adjacent to Tambopata, not a second ranking for same reserve. Coordinates approximate; access/schedules unverified. Existing scores and two unassessed preserved. Discovery queue open.
