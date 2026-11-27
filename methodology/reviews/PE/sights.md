@@ -2884,3 +2884,276 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 259 scope decisions
 
 14 additions, 11 source-linked provisional, 3 desk-based provisional, 6 90+, 35 ranking-row comparisons (5 international). PE 137 ranked / 139 total, +73 since baseline. Bahuaja Sonene distinct authorized sectors from Tambopata; Nor Yauyos grouped waterfalls, lakes and villages, excludes Qhapaq Ñan components. Club Libertad Marinera 2026 in Callao, venue variable; separate Trujillo municipal competition deferred pending recurring scope (https://www.gob.pe/institucion/munitrujillo/noticias/1358835-la-marinera-regreso-a-trujillo-con-un-coliseo-gran-chimu-lleno-de-emocion-y-tradicion). San Juan and Amazon Carnival separate. Pampa Hermosa previous temporary trail closure and Ampay limited visitor days documented. Megantoni/Pongo de Mainique deferred pending authorized community-permitted visitor circuit (https://www.gob.pe/institucion/sernanp/informes-publicaciones/1928755-santuario-nacional-megantoni and https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=14381). Prior deferrals retained; no claim of complete park or tentative coverage. Existing scores and two unassessed retained. Coordinates approximate, access/schedules unverified. Queue open for remaining regional and protected-area screen.
+
+## sight-pe-huancavelica-scissors-dance — Huancavelica Christmas Scissors Dance Atipanakuy Competition — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huancavelica-scissors-dance.yaml)
+- Action: new
+- Scope: Public inter-neighbourhood competition in Huancavelica December 23–26, documented by national tourism inventory. UNESCO inscribed the broader scissors-dance tradition in 2010; entry is a particular recurring event, not the whole tradition. Community rules respected.
+- Representative coordinates: -12.786, -74.976; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.45/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4197
+- Source: https://ich.unesco.org/en/RL/scissors-dance-00391?RL=00391
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/paucartambo-virgen-del-carmen](../../../countries/PE/sights/paucartambo-virgen-del-carmen.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-andagua-volcanoes — Andagua Valley of the Volcanoes Monogenetic Cones and Lava Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/andagua-volcanoes.yaml)
+- Action: new
+- Scope: Specific Andagua–Chachas volcanic landscape circuit; UNESCO geopark includes both Colca and Andagua, but Colca Canyon is already ranked and excluded here. Geopark network documents more than 25 cones in broader geopark; not a claim all are in this circuit. Route and volcanic conditions unverified.
+- Representative coordinates: -15.5, -72.35; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.1 / 8.8 / 9.1.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 91.65/100.
+- Source: https://www.unesco.org/en/articles/eleven-sites-and-extensions-asia-europe-and-south-america-receive-unesco-global-geopark-label
+- Source: https://www.globalgeopark.org/GeoparkMap/geoparks/Peru/14054.html
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=609
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/colca-canyon](../../../countries/PE/sights/colca-canyon.yaml) | 9.4 / 9.2 / 8.6 / 9.0 / 9.1 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [PE/huayllay](../../../countries/PE/sights/huayllay.yaml) | 9.3 / 9.3 / 8.9 / 8.8 / 9.0 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [ZA/pilanesberg](../../../countries/ZA/sights/pilanesberg.yaml) | 9.1 / 8.9 / 8.7 / 9.0 / 9.0 | impact: +0.2; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lima-surquillo-culinary — Surquillo Lima Market Food Heritage and Ceviche Cooking Experience — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lima-surquillo-culinary.yaml)
+- Action: new
+- Scope: Market-based ingredient interpretation and participatory cooking experiences documented by PromPeru; UNESCO inscribed ceviche preparation and consumption practices in 2023, not this market itself. Excludes general Barranco dining and citywide restaurant rankings; no raw seafood safety guarantee.
+- Representative coordinates: -12.116, -77.026; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.4 / 9.3 / 9.2.
+- Categories: food:9.4 culture:9.4 history:9.2.
+- Overall: 91.95/100.
+- Source: https://www.peru.travel/experiences/gastronomic-activities
+- Source: https://www.peru.travel/vivelima/es/oferta/exquisito-mercado-de-lima
+- Source: https://ich.unesco.org/en/RL/ceviche-an-expression-of-traditional-peruvian-cuisine-01952
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ica-pisco-route](../../../countries/PE/sights/ica-pisco-route.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [PE/huanchaco](../../../countries/PE/sights/huanchaco.yaml) | 8.5 / 8.9 / 8.7 / 8.7 / 8.3 | impact: +0.5; uniqueness: +0.3 vs peer |
+| [ZA/cape-winelands](../../../countries/ZA/sights/cape-winelands.yaml) | 9.0 / 8.7 / 8.7 / 9.3 / 9.1 | impact: +0.0; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-northern-peru-whale-watching — Los Órganos and Northern Peru Humpback Whale Watching Boat Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/northern-peru-whale-watching.yaml)
+- Action: new
+- Scope: Seasonal offshore whale watching grouped across Los Órganos, El Ñuro and nearby northern ports. International Whaling Commission handbook documents July–October humpback season; ministry confirms 2026 season launch. Excludes generic beach recreation; authorized responsible trips only, sightings never guaranteed.
+- Representative coordinates: -4.178, -81.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.0 / 9.0 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 90.75/100.
+- Source: https://wwhandbook.iwc.int/en/country-profiles/peru
+- Source: https://www.peru.travel/es/experiencias/avistamiento-de-ballenas
+- Source: https://www.gob.pe/institucion/mincetur/noticias/1417753-mincetur-inicia-temporada-de-avistamiento-de-ballenas-2026-y-posiciona-a-peru-como-referente-del-turismo-de-naturaleza-del-pacifico-sur
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.6; uniqueness: +0.3 vs peer |
+| [PE/san-fernando-reserve](../../../countries/PE/sights/san-fernando-reserve.yaml) | 9.2 / 9.2 / 9.0 / 8.8 / 9.0 | impact: +0.0; uniqueness: -0.2 vs peer |
+| [ZA/hermanus-cliff-path](../../../countries/ZA/sights/hermanus-cliff-path.yaml) | 8.6 / 8.8 / 8.3 / 8.9 / 8.5 | impact: +0.6; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-huaylarsh-route — Huancayo Mantaro Valley Huaylarsh Dance Festival Route — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huaylarsh-route.yaml)
+- Action: new
+- Scope: Recurring coordinated public dance route across Mantaro Valley; municipality documents 45 cultural venues February–April 2026, national heritage status. Group regional programme, not separate scores for each village. Future programme unverified.
+- Representative coordinates: -12.068, -75.21; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 photography:9.3 history:9.2.
+- Overall: 91.35/100.
+- Source: https://www.gob.pe/institucion/munihuancayo/noticias/1347388-inicio-de-la-ruta-del-huaylarsh-2026
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=5000
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [PE/huancavelica-scissors-dance](../../../countries/PE/sights/huancavelica-scissors-dance.yaml) | 9.1 / 9.4 / 9.4 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-misti-volcano — El Misti Volcano Arequipa Mountain Ascent and Volcanic Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/misti-volcano.yaml)
+- Action: new
+- Scope: Documented mountain ascent visitor experience distinct from Arequipa historic centre and Salinas reserve. Active volcano and altitude hazards; score neither advice to climb nor confirmation of safety, permits or current conditions.
+- Representative coordinates: -16.294, -71.408; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 8.8 / 8.6 / 8.7 / 8.9.
+- Categories: nature:9.3 adventure:9.4 photography:9.3.
+- Overall: 88.75/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=599
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ausangate-trek](../../../countries/PE/sights/ausangate-trek.yaml) | 9.5 / 9.3 / 8.9 / 8.9 / 9.2 | impact: -0.3; uniqueness: -0.5 vs peer |
+| [PE/vinicunca-rainbow-mountain](../../../countries/PE/sights/vinicunca-rainbow-mountain.yaml) | 9.4 / 9.2 / 7.8 / 8.6 / 7.0 | impact: -0.2; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-tren-macho — Tren Macho Huancayo–Huancavelica Historic Regional Railway Journey — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/tren-macho.yaml)
+- Action: new
+- Scope: Historic railway opened 1926; transport ministry documents earlier service restoration; regional government reported suspension during 2026 modernization. No future service assumed. Separate route from Lima–Huancayo Central Railway; intrinsic score unaffected by suspension.
+- Representative coordinates: -12.48, -74.98; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 9.0 / 9.1 / 8.6 / 8.9.
+- Categories: history:9.3 photography:9.2 culture:9.2.
+- Overall: 88.60/100.
+- Source: https://www.gob.pe/institucion/mtc/noticias/1151408-mtc-tren-macho-movilizo-gratis-a-mas-de-13-mil-pasajeros-tras-reinicio-de-operaciones
+- Source: https://regionhuancavelica.gob.pe/a-puertas-del-centenario-el-tren-macho-inicia-su-camino-hacia-la-reactivacion/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/central-railway](../../../countries/PE/sights/central-railway.yaml) | 9.3 / 9.4 / 9.4 / 8.9 / 9.2 | impact: -0.6; uniqueness: -0.4 vs peer |
+| [PE/andean-explorer-rail](../../../countries/PE/sights/andean-explorer-rail.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | impact: -0.5; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-imata-stone-forest — Imata Stone Forest Arequipa Eroded Rock Formations — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/imata-stone-forest.yaml)
+- Action: new
+- Scope: Specific rock formations near Salinas and Aguada Blanca reserve boundary documented in national inventory; exclude reserve-wide scenery and flag boundary overlap as non-additive.
+- Representative coordinates: -15.84, -71.04; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.4 / 8.6 / 8.5.
+- Categories: nature:9.2 photography:9.3 adventure:9.0.
+- Overall: 86.60/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=628
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huayllay](../../../countries/PE/sights/huayllay.yaml) | 9.3 / 9.3 / 8.9 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.5 vs peer |
+| [PE/salinas-aguada-blanca](../../../countries/PE/sights/salinas-aguada-blanca.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.8 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-huancavelica-historic-centre — Huancavelica Historic Centre Colonial Churches and Public Squares — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huancavelica-historic-centre.yaml)
+- Action: new
+- Scope: Public city centre and designated interiors only; excludes Santa Bárbara mining complex, rail and recurring dance event. Desk assessment.
+- Representative coordinates: -12.786, -74.976; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.9 / 8.5 / 8.7.
+- Categories: architecture:9.2 history:9.3 culture:9.1.
+- Overall: 86.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cajamarca-historic-centre](../../../countries/PE/sights/cajamarca-historic-centre.yaml) | 8.6 / 8.6 / 9.1 / 8.6 / 8.7 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [PE/ayacucho-historic-centre](../../../countries/PE/sights/ayacucho-historic-centre.yaml) | 8.7 / 8.7 / 9.1 / 8.7 / 8.9 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-choclococha-lagoon — Choclococha Highland Lagoon Huancavelica Andean Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/choclococha-lagoon.yaml)
+- Action: new
+- Scope: Highland lake scenic experience and community-permitted interpretation; no boating or unrestricted access assumed. Desk assessment.
+- Representative coordinates: -13.15, -75.08; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.3 / 8.4 / 8.5.
+- Categories: nature:9.2 photography:9.3 culture:8.9.
+- Overall: 84.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/las-huaringas](../../../countries/PE/sights/las-huaringas.yaml) | 8.8 / 9.2 / 9.2 / 8.6 / 8.9 | impact: -0.2; uniqueness: -0.7 vs peer |
+| [PE/salinas-aguada-blanca](../../../countries/PE/sights/salinas-aguada-blanca.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.8 | impact: -0.4; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-tarma-historic-centre — Tarma Historic Centre and Flower-Growing Valley Visitor Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/tarma-historic-centre.yaml)
+- Action: new
+- Scope: Public city and valley landscape; excludes private farms unless permission granted, no guarantee of flowering or festivals. Desk assessment.
+- Representative coordinates: -11.418, -75.69; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.4 / 8.3 / 8.6 / 8.5.
+- Categories: culture:9.1 photography:9.2 nature:9.1.
+- Overall: 84.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chachapoyas-historic-centre](../../../countries/PE/sights/chachapoyas-historic-centre.yaml) | 8.5 / 8.5 / 8.7 / 8.7 / 8.5 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/nor-yauyos-cochas](../../../countries/PE/sights/nor-yauyos-cochas.yaml) | 9.4 / 9.2 / 9.0 / 9.0 / 9.2 | impact: -1.0; uniqueness: -0.8 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lima-magic-water-circuit — Lima Magic Water Circuit Parque de la Reserva Fountain Displays — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lima-magic-water-circuit.yaml)
+- Action: new
+- Scope: Dedicated fountain and light displays distinct from historic centre and ordinary parks; no operating schedule or record superlative asserted. Desk assessment.
+- Representative coordinates: -12.071, -77.035; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.5 / 8.2 / 9.0 / 8.5.
+- Categories: family:9.3 photography:9.3 nightlife:9.2.
+- Overall: 85.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/miraflores-malecon](../../../countries/PE/sights/miraflores-malecon.yaml) | 8.4 / 7.9 / 6.6 / 8.9 / 8.3 | impact: +0.3; uniqueness: +0.6 vs peer |
+| [PE/mali](../../../countries/PE/sights/mali.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.3 | impact: -0.3; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lomas-lucumo — Lomas de Lúcumo Pachacamac Seasonal Coastal Fog-Oasis Trails — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lomas-lucumo.yaml)
+- Action: new
+- Scope: Distinct local fog-oasis trails separate from Lachay, partial coastal lomas coverage only. No season or current access guarantee. Desk assessment.
+- Representative coordinates: -12.208, -76.848; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.3 / 8.7 / 8.5.
+- Categories: nature:9.2 photography:9.2 adventure:9.0.
+- Overall: 85.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/lomas-de-lachay](../../../countries/PE/sights/lomas-de-lachay.yaml) | 8.7 / 8.8 / 8.5 / 8.7 / 8.6 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/pachacamac-archaeological-sanctuary](../../../countries/PE/sights/pachacamac-archaeological-sanctuary.yaml) | 8.3 / 8.8 / 9.2 / 8.3 / 8.2 | impact: +0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 260 scope decisions
+
+13 additions, 8 source-linked provisional, 5 desk-based provisional, 5 90+, 31 ranking-row comparisons (4 international). PE 150 ranked / 152 total, +86 since baseline. UNESCO country list rechecked (https://whc.unesco.org/en/statesparties/pe): all 13 inscribed properties represented (Río Abiseo unassessed); 23 of 25 tentative properties represented at least in part, not complete serial coverage. Santa Bárbara and Sierra del Divisor wholly deferred; La Leche, Chankillo extension, rural temples, Collao, Utcubamba, pisco, fossil basins, Nasca aqueducts, guano islands and coastal lomas residual scope unresolved. Andagua circuit excludes already-ranked Colca; culinary experience limited to Surquillo market and cooking, UNESCO designation applies to practice not market. Whale circuit excludes beach recreation; Huaylarsh route grouped. Tren Macho distinct from Central Railway, suspension documented, no reopening assumed. All earlier deferrals retained; protected-area screen not exhaustive. Given five additional 90+ omissions in this pass, keep queue open for one further targeted screen (northern archaeology, mountain routes, Amazon birding, cultural experiences), rather than close prematurely. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified.

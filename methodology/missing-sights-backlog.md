@@ -4621,3 +4621,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Cutervo National Park Cloud Forest and Oilbird Cave Visitor Circuit: 86.70/100 (desk-based provisional).
 
 14 additions, 11 source-linked provisional, 3 desk-based provisional, 6 90+, 35 ranking-row comparisons (5 international). PE 137 ranked / 139 total, +73 since baseline. Bahuaja Sonene distinct authorized sectors from Tambopata; Nor Yauyos grouped waterfalls, lakes and villages, excludes Qhapaq Ñan components. Club Libertad Marinera 2026 in Callao, venue variable; separate Trujillo municipal competition deferred pending recurring scope (https://www.gob.pe/institucion/munitrujillo/noticias/1358835-la-marinera-regreso-a-trujillo-con-un-coliseo-gran-chimu-lleno-de-emocion-y-tradicion). San Juan and Amazon Carnival separate. Pampa Hermosa previous temporary trail closure and Ampay limited visitor days documented. Megantoni/Pongo de Mainique deferred pending authorized community-permitted visitor circuit (https://www.gob.pe/institucion/sernanp/informes-publicaciones/1928755-santuario-nacional-megantoni and https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=14381). Prior deferrals retained; no claim of complete park or tentative coverage. Existing scores and two unassessed retained. Coordinates approximate, access/schedules unverified. Queue open for remaining regional and protected-area screen.
+
+### Pass 260 — Peru regional gap screen and tentative-property inventory
+
+- [x] PE — Huancavelica Christmas Scissors Dance Atipanakuy Competition: 92.45/100 (source-linked-unverified).
+- [x] PE — Andagua Valley of the Volcanoes Monogenetic Cones and Lava Landscapes: 91.65/100 (source-linked-unverified).
+- [x] PE — Surquillo Lima Market Food Heritage and Ceviche Cooking Experience: 91.95/100 (source-linked-unverified).
+- [x] PE — Los Órganos and Northern Peru Humpback Whale Watching Boat Circuit: 90.75/100 (source-linked-unverified).
+- [x] PE — Huancayo Mantaro Valley Huaylarsh Dance Festival Route: 91.35/100 (source-linked-unverified).
+- [x] PE — El Misti Volcano Arequipa Mountain Ascent and Volcanic Landscape: 88.75/100 (source-linked-unverified).
+- [x] PE — Tren Macho Huancayo–Huancavelica Historic Regional Railway Journey: 88.60/100 (source-linked-unverified).
+- [x] PE — Imata Stone Forest Arequipa Eroded Rock Formations: 86.60/100 (source-linked-unverified).
+- [x] PE — Huancavelica Historic Centre Colonial Churches and Public Squares: 86.25/100 (desk-based provisional).
+- [x] PE — Choclococha Highland Lagoon Huancavelica Andean Landscape: 84.75/100 (desk-based provisional).
+- [x] PE — Tarma Historic Centre and Flower-Growing Valley Visitor Circuit: 84.20/100 (desk-based provisional).
+- [x] PE — Lima Magic Water Circuit Parque de la Reserva Fountain Displays: 85.75/100 (desk-based provisional).
+- [x] PE — Lomas de Lúcumo Pachacamac Seasonal Coastal Fog-Oasis Trails: 85.15/100 (desk-based provisional).
+
+13 additions, 8 source-linked provisional, 5 desk-based provisional, 5 90+, 31 ranking-row comparisons (4 international). PE 150 ranked / 152 total, +86 since baseline. UNESCO country list rechecked (https://whc.unesco.org/en/statesparties/pe): all 13 inscribed properties represented (Río Abiseo unassessed); 23 of 25 tentative properties represented at least in part, not complete serial coverage. Santa Bárbara and Sierra del Divisor wholly deferred; La Leche, Chankillo extension, rural temples, Collao, Utcubamba, pisco, fossil basins, Nasca aqueducts, guano islands and coastal lomas residual scope unresolved. Andagua circuit excludes already-ranked Colca; culinary experience limited to Surquillo market and cooking, UNESCO designation applies to practice not market. Whale circuit excludes beach recreation; Huaylarsh route grouped. Tren Macho distinct from Central Railway, suspension documented, no reopening assumed. All earlier deferrals retained; protected-area screen not exhaustive. Given five additional 90+ omissions in this pass, keep queue open for one further targeted screen (northern archaeology, mountain routes, Amazon birding, cultural experiences), rather than close prematurely. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified.
