@@ -22,6 +22,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | ES | DONE — current queue | 192 total (177 ranked); 75 additions in passes 72–81. Final named queue resolved; existing serial overlaps and fifteen prior unassessed remain separate. Reopen on concrete substantial omission. |
 | PT | DONE — current queue | 91 total (90 ranked); 38 additions in passes 82–86. Final eight mainland candidates and two previously deferred caves resolved; closures recorded separately, not a discovery/rating gate. No remaining named high-value candidates in bounded queue. Reopen for concrete substantial omission. One prior unassessed remains separate. |
 
-| IT | OPEN | 169 total (157 ranked); 32 additions in passes 87–90. Final bounded screen: Rome National Roman Museum, Venice Peggy Guggenheim Collection, Trieste Miramare Castle, Verona Arena (distinct interior scope), Turin Royal Residences overlap check, San Marino excluded as independent country, Sardinia Capo Testa and Bosa historic centre. Twelve prior unassessed unchanged. |
+| IT | DONE — current queue | 175 total (163 ranked); 38 additions in passes 87–91. Final six candidates added; Turin Royal Palace and Venaria already covered by [Savoy serial inscription](https://whc.unesco.org/en/list/823). No remaining named candidates in bounded screen; reopen on concrete substantial omission. Twelve prior unassessed unchanged. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

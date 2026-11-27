@@ -1038,3 +1038,14 @@ Eight additions, 32 peer rows. Italy 149 ranked / 161 total. Boboli already with
 - [x] IT — Erice Historic Town and Hilltop Heritage: 88.45/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Italy 157 ranked / 169 total. Superga distinct from Savoy UNESCO palace/villa series; Archiginnasio interior separate from porticoes; Caracalla precinct separate from urban and Appia landscapes; Scala dei Turchi controlled access, no unrestricted climbing implied; Erice monuments grouped. Next bounded screen: Rome National Roman Museum, Venice Peggy Guggenheim Collection, Trieste Miramare Castle, Verona Arena, Turin royal residence scope, Sardinia Capo Testa and Bosa historic centre. Full Python validation pending.
+
+### Pass 91 — final bounded Italian discovery screen
+
+- [x] IT — National Roman Museum — Palazzo Massimo: 90.55/100 (source-linked-unverified).
+- [x] IT — Peggy Guggenheim Collection Venice: 89.05/100 (source-linked-unverified).
+- [x] IT — Miramare Castle and Park Trieste: 88.90/100 (source-linked-unverified).
+- [x] IT — Verona Arena Amphitheatre: 90.15/100 (source-linked-unverified).
+- [x] IT — Capo Testa and Valle della Luna Granite Coast: 87.90/100 (source-linked-unverified).
+- [x] IT — Bosa Historic Centre and Serravalle Castle: 86.65/100 (source-linked-unverified).
+
+Six additions, 24 peer rows. Italy 163 ranked / 175 total, 38 additions since pass 87; current named queue DONE (17 closed queues total). Royal Palace Turin and Venaria Reale excluded as components of https://whc.unesco.org/en/list/823. Palazzo Massimo only, Verona Arena interior only, Miramare castle and park grouped (operator page timeout, Council of Europe listing supports scope), Capo Testa terrestrial peninsula distinct from offshore island attractions, Bosa town heritage grouped. Twelve prior unassessed unchanged. Next country: unscreened country selected from inventory. Full Python validation pending.
