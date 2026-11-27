@@ -3140,3 +3140,315 @@ Peer profiles matched to ranking rows, except same-pass Borçka comparison uses 
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-tr-rahmi-koc-museum-istanbul — Rahmi M. Koç Industrial Museum Istanbul — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/rahmi-koc-museum-istanbul.yaml)
+- Action: new
+- Precise subject and limitations: Hasköy transport, industry and communications museum, including large vehicles; optional submarine and train access not guaranteed. Excludes Ankara and Cunda branches.
+- Location check: 41.04227, 28.94926; [published representative point](https://en.wikipedia.org/wiki/Rahmi_M._Ko%C3%A7_Museum), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/12315-istanbul-rahmi-m-koc-museum/12315/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | impact: +0.1 vs peer; significance: -0.1 vs peer. |
+| [IT/turin-automobile-museum](../../../countries/IT/sights/turin-automobile-museum.yaml) | 8.7 / 8.9 / 8.8 / 9.0 / 8.9 | depth: +0.3 vs peer; impact: +0.2 vs peer. |
+| [PT/national-coach-museum](../../../countries/PT/sights/national-coach-museum.yaml) | 8.6 / 9.0 / 8.9 / 8.7 / 8.7 | depth: +0.5 vs peer; experience: +0.4 vs peer. |
+| [IT/mole-antonelliana](../../../countries/IT/sights/mole-antonelliana.yaml) | 8.9 / 9.0 / 8.7 / 9.0 / 8.8 | depth: +0.4 vs peer; significance: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Impressive large industrial objects. |
+| Uniqueness | 9.0 | Distinct waterfront industrial collections. |
+| Significance | 8.9 | Significant transport and industrial heritage. |
+| Experience | 9.1 | Varied established museum experience. |
+| Depth | 9.2 | Extensive collection across several sections. |
+
+- Applicable categories: culture:9.2, history:9.2, family:9.4.
+- Computed worldwide overall: 89.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-pera-museum — Pera Museum Istanbul — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/pera-museum.yaml)
+- Action: new
+- Precise subject and limitations: Orientalist painting, Anatolian weights and measures, and Kütahya ceramics collections; temporary exhibitions not assumed. Separate from Istanbul Modern.
+- Location check: 41.0318, 28.9752; [published representative point](https://mapcarta.com/W112676117), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.peramuseum.org/faq); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/istanbul-modern](../../../countries/TR/sights/istanbul-modern.yaml) | 8.6 / 8.6 / 8.6 / 8.9 / 8.7 | significance: +0.2 vs peer; impact: -0.1 vs peer. |
+| [IT/pinacoteca-brera](../../../countries/IT/sights/pinacoteca-brera.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 9.0 | impact: -0.5 vs peer; significance: -0.4 vs peer. |
+| [IT/peggy-guggenheim-collection](../../../countries/IT/sights/peggy-guggenheim-collection.yaml) | 8.8 / 9.0 / 9.1 / 8.9 / 8.6 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/benaki-museum-greek-culture](../../../countries/GR/sights/benaki-museum-greek-culture.yaml) | 8.8 / 8.9 / 9.2 / 8.9 / 9.1 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Strong curated art and object displays. |
+| Uniqueness | 8.7 | Distinct combination of permanent collections. |
+| Significance | 8.8 | Significant regional art and material culture. |
+| Experience | 8.8 | Established museum visit. |
+| Depth | 8.6 | Several complementary collections. |
+
+- Applicable categories: culture:9.2, history:9.1, architecture:8.7.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-spice-bazaar — Spice Bazaar Istanbul — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/spice-bazaar.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated covered food and spice market in Eminönü, excluding New Mosque, neighbouring streets and Grand Bazaar. UNESCO exact boundary not independently resolved; separate trading experience rather than broader historic-quarter architecture.
+- Location check: 41.0165, 28.97052; [published representative point](https://belka.travel/en/places/spice-bazaar/), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://visit.istanbul/spice-bazaar); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/grand-bazaar](../../../countries/TR/sights/grand-bazaar.yaml) | 8.7 / 8.9 / 8.8 / 9.0 / 8.8 | depth: -0.8 vs peer; uniqueness: -0.3 vs peer. |
+| [TR/antalya-kaleici](../../../countries/TR/sights/antalya-kaleici.yaml) | 8.9 / 8.8 / 8.9 / 9.0 / 8.9 | depth: -0.9 vs peer; impact: -0.4 vs peer. |
+| [GR/chania-venetian-harbour](../../../countries/GR/sights/chania-venetian-harbour.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 8.7 | depth: -0.7 vs peer; impact: -0.4 vs peer. |
+| [PT/gaia-port-wine-lodges](../../../countries/PT/sights/gaia-port-wine-lodges.yaml) | 8.5 / 8.8 / 8.8 / 8.9 / 8.7 | depth: -0.7 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Colourful covered market setting. |
+| Uniqueness | 8.6 | Distinct food and spice trading experience. |
+| Significance | 8.5 | Historic Ottoman commercial heritage. |
+| Experience | 9.0 | Established sensory market visit. |
+| Depth | 8.0 | Compact market precinct. |
+
+- Applicable categories: food:9.3, culture:9.1, architecture:8.8, photography:8.8.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-maidens-tower — Maiden's Tower Istanbul — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/maidens-tower.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated island monument museum and short boat transfer; not the exterior view already included in Bosphorus cruise. Transfer and access conditional.
+- Location check: 41.0211, 29.0041; [published representative point](https://neresigezilir.com.tr/en/turkey/istanbul/maidens-tower), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gen.tr/muze-detay/kizkulesi); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/galata-tower](../../../countries/TR/sights/galata-tower.yaml) | 8.7 / 8.7 / 8.8 / 8.6 / 7.6 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [PT/belem-tower](../../../countries/PT/sights/belem-tower.yaml) | 8.9 / 9.0 / 9.2 / 8.5 / 7.8 | significance: -0.6 vs peer; experience: +0.3 vs peer. |
+| [GR/white-tower-thessaloniki](../../../countries/GR/sights/white-tower-thessaloniki.yaml) | 8.7 / 8.6 / 8.8 / 8.8 / 8.2 | uniqueness: +0.3 vs peer; depth: -0.3 vs peer. |
+| [PT/almourol-castle](../../../countries/PT/sights/almourol-castle.yaml) | 9.0 / 8.9 / 8.7 / 8.5 / 8.0 | experience: +0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Iconic isolated tower and skyline. |
+| Uniqueness | 8.9 | Distinct island setting and boat access. |
+| Significance | 8.6 | Significant maritime urban heritage. |
+| Experience | 8.8 | Established museum and panorama visit. |
+| Depth | 7.9 | Compact monument. |
+
+- Applicable categories: photography:9.3, architecture:9.0, history:8.9.
+- Computed worldwide overall: 86.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-rumeli-fortress — Rumeli Fortress Museum Istanbul — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/rumeli-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated Ottoman fortress grounds, museum and viewpoints; not the Bosphorus cruise exterior. Ministry lists open, third-party ticket page https://istanbul.com/things-to-do/rumeli-fortress-museum-tickets says garden only during restoration. Normal-condition score; no unrestricted tower access promised.
+- Location check: 41.084722, 29.056111; [published representative point](https://en.wikipedia.org/wiki/Rumelihisar%C4%B1), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://muze.gov.tr/muze-detay?distId=MRK&sectionId=HIS01); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | depth: -0.3 vs peer; impact: -0.1 vs peer. |
+| [TR/bodrum-castle](../../../countries/TR/sights/bodrum-castle.yaml) | 8.7 / 8.8 / 8.9 / 8.7 / 8.5 | impact: +0.2 vs peer; significance: +0.1 vs peer. |
+| [PT/sao-jorge-castle](../../../countries/PT/sights/sao-jorge-castle.yaml) | 9.0 / 8.7 / 8.9 / 8.9 / 8.7 | experience: -0.2 vs peer; impact: -0.1 vs peer. |
+| [GR/spinalonga](../../../countries/GR/sights/spinalonga.yaml) | 8.8 / 9.0 / 9.0 / 8.8 / 8.4 | uniqueness: -0.2 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Imposing fortification on strait slopes. |
+| Uniqueness | 8.8 | Distinct strategic Bosphorus setting. |
+| Significance | 9.0 | Major Ottoman historical significance. |
+| Experience | 8.7 | Established monument and grounds visit. |
+| Depth | 8.6 | Several towers and viewpoints. |
+
+- Applicable categories: history:9.3, architecture:9.2, photography:9.3.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-istanbul-aquarium — Istanbul Aquarium Florya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/istanbul-aquarium.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated themed aquarium route in Florya; excludes unrelated aquariums and shopping mall. Captive wildlife exhibits, not wild encounters.
+- Location check: 40.96422, 28.80004; [published representative point](https://mapcarta.com/W315607041), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://visit.istanbul/istanbul-aquarium); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/genoa-aquarium](../../../countries/IT/sights/genoa-aquarium.yaml) | 8.7 / 8.4 / 8.3 / 9.0 / 8.9 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+| [PT/oceanario-de-lisboa](../../../countries/PT/sights/oceanario-de-lisboa.yaml) | 8.8 / 8.6 / 8.6 / 9.0 / 8.8 | significance: -0.5 vs peer; impact: -0.2 vs peer. |
+| [IT/gardaland](../../../countries/IT/sights/gardaland.yaml) | 8.8 / 8.3 / 7.9 / 9.3 / 9.1 | experience: -0.3 vs peer; depth: -0.3 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | significance: -0.9 vs peer; uniqueness: -0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Large themed aquatic displays. |
+| Uniqueness | 8.4 | Familiar aquarium format with geographical progression. |
+| Significance | 8.1 | Educational rather than major natural heritage. |
+| Experience | 9.0 | Established family visitor circuit. |
+| Depth | 8.8 | Multiple aquatic environments. |
+
+- Applicable categories: family:9.3, wildlife:9.0, nature:8.8.
+- Computed worldwide overall: 85.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-buyukada-princes-islands — Büyükada Princes' Islands Visitor Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/buyukada-princes-islands.yaml)
+- Action: new
+- Precise subject and limitations: Büyükada island streets, historic houses, walking and cycling; ferry terminal representative point. Excludes other Princes' Islands and Bosphorus cruise. No guarantee of specific historic interiors.
+- Location check: 40.8761, 29.12778; [published representative point](https://mapcarta.com/N493262183), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-33048/istanbul.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/capri](../../../countries/IT/sights/capri.yaml) | 9.3 / 9.2 / 8.9 / 9.1 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+| [GR/symi-historic-harbour](../../../countries/GR/sights/symi-historic-harbour.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [GR/paleokastritsa-coast](../../../countries/GR/sights/paleokastritsa-coast.yaml) | 9.0 / 8.8 / 8.5 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [GR/corfu-old-town](../../../countries/GR/sights/corfu-old-town.yaml) | 9.2 / 9.1 / 9.2 / 9.1 / 9.0 | significance: -0.7 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Scenic island town and shoreline. |
+| Uniqueness | 8.7 | Distinct Istanbul island retreat atmosphere. |
+| Significance | 8.5 | Significant regional architectural and social history. |
+| Experience | 9.0 | Established ferry, walking and cycling experience. |
+| Depth | 8.8 | Varied island scenery and streets. |
+
+- Applicable categories: photography:9.2, culture:9.1, relaxation:9.2, nature:9.0.
+- Computed worldwide overall: 87.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-turkish-islamic-arts-museum — Museum of Turkish and Islamic Arts Istanbul — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/turkish-islamic-arts-museum.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated carpet, manuscript, woodwork, metal, ceramic and ethnographic collections; independent gallery experience within historic precinct. Palace exterior not separately scored.
+- Location check: 41.0062, 28.9747; [published representative point](https://neresigezilir.com/en/turkey/istanbul/turkish-islamic-arts-museum), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2079-istanbul-turkish-and-islamic-arts-museum/2079/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [GR/museum-byzantine-culture](../../../countries/GR/sights/museum-byzantine-culture.yaml) | 8.8 / 9.0 / 9.2 / 8.9 / 9.0 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer. |
+| [PT/national-tile-museum](../../../countries/PT/sights/national-tile-museum.yaml) | 8.7 / 9.1 / 8.9 / 8.6 / 8.9 | significance: +0.4 vs peer; impact: +0.2 vs peer. |
+| [GR/benaki-museum-greek-culture](../../../countries/GR/sights/benaki-museum-greek-culture.yaml) | 8.8 / 8.9 / 9.2 / 8.9 / 9.1 | uniqueness: +0.3 vs peer; impact: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Exceptional historic textiles and objects. |
+| Uniqueness | 9.2 | Distinct concentration of Islamic material culture. |
+| Significance | 9.3 | Major collection of Turkish and Islamic art. |
+| Experience | 8.8 | Established dedicated gallery circuit. |
+| Depth | 9.1 | Extensive collections across media. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:9.0.
+- Computed worldwide overall: 90.60/100.
+- High-score challenge: 90+ provisional; international peer comparisons documented; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

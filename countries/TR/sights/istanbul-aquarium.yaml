@@ -1,0 +1,16 @@
+id: sight-tr-istanbul-aquarium
+name: "Istanbul Aquarium Florya"
+location:
+  country_code: TR
+  latitude: 40.96422
+  longitude: 28.80004
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.1
+  experience: 9.0
+  depth: 8.8
+  categories:
+    family: 9.3
+    wildlife: 9.0
+    nature: 8.8

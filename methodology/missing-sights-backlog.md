@@ -1188,3 +1188,16 @@ Eight additions, 32 peer rows. Türkiye 82 ranked / 82 total. Lake Van excludes 
 - [x] TR — Şavşat Karagöl-Sahara National Park: 87.00/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Türkiye 89 ranked / 89 total. Valla Canyon excluded as independent entry because the [tourism ministry](https://www.ktb.gov.tr/EN-99796/kastamonu---kure-mountain-national-park.html) includes it in Küre Mountains National Park. Bitlis Nemrut caldera separate from Adıyaman monument. Şavşat and Borçka lakes separate; Şavşat Sahara plateau grouped. Next bounded screen: Chora Mosque, Rahmi M. Koç Museum, Pera Museum, Istanbul Spice Bazaar, Maiden's Tower, Rumeli Fortress, Istanbul Aquarium, Princes' Islands (scope checks). Full Python validation pending.
+
+### Pass 103 — Istanbul independent collections and visitor experiences
+
+- [x] TR — Rahmi M. Koç Industrial Museum Istanbul: 89.85/100 (source-linked-unverified).
+- [x] TR — Pera Museum Istanbul: 86.65/100 (source-linked-unverified).
+- [x] TR — Spice Bazaar Istanbul: 85.50/100 (source-linked-unverified).
+- [x] TR — Maiden's Tower Istanbul: 86.95/100 (source-linked-unverified).
+- [x] TR — Rumeli Fortress Museum Istanbul: 88.35/100 (source-linked-unverified).
+- [x] TR — Istanbul Aquarium Florya: 85.30/100 (source-linked-unverified).
+- [x] TR — Büyükada Princes' Islands Visitor Landscape: 87.45/100 (source-linked-unverified).
+- [x] TR — Museum of Turkish and Islamic Arts Istanbul: 90.60/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Türkiye 97 ranked / 97 total. Chora excluded as named component of https://whc.unesco.org/en/list/356; Turkish and Islamic Arts Museum substituted for its independent collections. Spice Bazaar distinct commercial experience from Grand Bazaar; exact UNESCO boundary unresolved. Maiden's Tower and Rumeli dedicated monument visits distinguished from cruise. Rumeli access reports conflict; Büyükada only. Next bounded screen: İzmir Agora, İzmir archaeological museum, Ankara Castle, Ankara Rahmi Koç Museum, Şanlıurfa Archaeology Museum and Haleplibahçe, Balıklıgöl, Halfeti, and Harran. Full Python validation pending.
