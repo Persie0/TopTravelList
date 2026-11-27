@@ -3964,3 +3964,423 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 
 Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
 
+## sight-au-franklin-river-rafting — Franklin River Multi-Day Wilderness Rafting Tasmania — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/franklin-river-rafting.yaml)
+- Action: new
+- Scope: Dedicated multi-day rafting journey through remote temperate rainforest; historic conservation significance. Distinct from general Tasmanian Wilderness visits; representative river access area, conditions dependent.
+- Representative coordinates: -42.214, 145.997; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.2 / 9.1 / 9.3.
+- Categories: adventure:9.4 nature:9.4 photography:9.2.
+- Overall: 92.20/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://parks.tas.gov.au/things-to-do/rafting-and-kayaking; https://parks.tas.gov.au/explore-our-parks/franklin-gordon-wild-rivers-national-park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/overland-track](../../../countries/AU/sights/overland-track.yaml) | 9.2 / 9.2 / 8.9 / 9.2 / 9.4 | significance: +0.3 vs peer; uniqueness: +0.1 vs peer |
+| [AU/nitmiluk-gorge](../../../countries/AU/sights/nitmiluk-gorge.yaml) | 9.2 / 9.1 / 8.9 / 9.2 / 9.1 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/niobrara-river](../../../countries/US/sights/niobrara-river.yaml) | 8.6 / 8.7 / 8.6 / 8.9 / 8.7 | impact: +0.6 vs peer; uniqueness: +0.6 vs peer |
+| [US/buffalo-national-river](../../../countries/US/sights/buffalo-national-river.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.9 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-south-coast-track — South Coast Track Tasmania Multi-Day Wilderness Trek — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/south-coast-track.yaml)
+- Action: new
+- Scope: 85 km six-to-eight-day continuous trek between Melaleuca and Cockle Creek; distinct from general wilderness sightseeing. Representative western terminus.
+- Representative coordinates: -43.42, 146.155; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 8.9 / 9.1 / 9.4.
+- Categories: adventure:9.4 nature:9.4 photography:9.3.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://parks.tas.gov.au/explore-our-parks/southwest-national-park/south-coast-track; https://parks.tas.gov.au/explore-our-parks/southwest-national-park/south-coast-track/south-coast-track-walk-notes.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/overland-track](../../../countries/AU/sights/overland-track.yaml) | 9.2 / 9.2 / 8.9 / 9.2 / 9.4 | experience: -0.1 vs peer; impact: +0.0 vs peer |
+| [AU/three-capes-track](../../../countries/AU/sights/three-capes-track.yaml) | 9.2 / 9.1 / 8.7 / 9.3 / 9.1 | depth: +0.3 vs peer; significance: +0.2 vs peer |
+| [US/lost-coast](../../../countries/US/sights/lost-coast.yaml) | 9.0 / 9.0 / 8.6 / 8.8 / 8.9 | depth: +0.5 vs peer; significance: +0.3 vs peer |
+| [US/pacific-crest-thru-hike](../../../countries/US/sights/pacific-crest-thru-hike.yaml) | 9.4 / 9.4 / 9.1 / 9.2 / 9.4 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-jenolan-caves — Jenolan Caves Guided Limestone Cave Experience — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/jenolan-caves.yaml)
+- Action: new
+- Scope: Specific cave tours within Greater Blue Mountains property; severe road damage and precinct closure since April 2024. Trust targets early 2027 reopening, not guaranteed; score provisional pending restored visitor scope.
+- Representative coordinates: -33.82, 150.022; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.1 / 9.0 / 9.0.
+- Categories: nature:9.4 photography:9.3 adventure:9.1.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.jenolancaves.org.au/; https://www.jenolancaves.org.au/contact; https://www.nationalparks.nsw.gov.au/visit-a-park/parks/jenolan-karst-conservation-reserve.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/undara-lava-tubes](../../../countries/AU/sights/undara-lava-tubes.yaml) | 9.1 / 9.3 / 9.0 / 9.0 / 9.0 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [AU/margaret-river-caves](../../../countries/AU/sights/margaret-river-caves.yaml) | 8.9 / 8.9 / 8.6 / 9.0 / 8.8 | significance: +0.5 vs peer; impact: +0.3 vs peer |
+| [US/carlsbad-caverns](../../../countries/US/sights/carlsbad-caverns.yaml) | 9.0 / 9.1 / 9.0 / 8.9 / 8.6 | depth: +0.4 vs peer; impact: +0.2 vs peer |
+| [US/luray-caverns](../../../countries/US/sights/luray-caverns.yaml) | 9.3 / 9.1 / 8.7 / 9.2 / 8.7 | significance: +0.4 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-kuranda-rail-skyrail — Kuranda Scenic Railway and Skyrail Rainforest Journey — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/kuranda-rail-skyrail.yaml)
+- Action: new
+- Scope: Combined heritage railway and 7.5 km cableway journey; 1891 railway, 15 tunnels and 55 bridges; distinct transport experience within Wet Tropics, no separate Barron Falls row.
+- Representative coordinates: -16.846, 145.643; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.9 / 9.3 / 9.0.
+- Categories: nature:9.3 photography:9.4 culture:9.1.
+- Overall: 91.05/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.ksr.com.au/planning-and-pricing/kuranda-scenic-railway-brochure; https://skyrail.com.au/plan/your-visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/ghan-rail](../../../countries/AU/sights/ghan-rail.yaml) | 9.1 / 9.3 / 9.1 / 9.2 / 9.1 | significance: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [AU/great-ocean-road](../../../countries/AU/sights/great-ocean-road.yaml) | 8.9 / 8.6 / 8.3 / 9.0 / 9.1 | uniqueness: +0.6 vs peer; significance: +0.6 vs peer |
+| [US/durango-silverton](../../../countries/US/sights/durango-silverton.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.0 | significance: -0.3 vs peer; impact: +0.1 vs peer |
+| [US/white-pass-railway](../../../countries/US/sights/white-pass-railway.yaml) | 9.0 / 9.0 / 8.8 / 9.1 / 8.9 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-royal-botanic-sydney — Royal Botanic Garden Sydney — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/royal-botanic-sydney.yaml)
+- Action: new
+- Scope: 30-hectare historic garden established 1816; more than 27,000 plants at Sydney site. Excludes separate gardens and research holdings.
+- Representative coordinates: -33.864, 151.216; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.1 / 9.2.
+- Categories: nature:9.3 history:9.2 relaxation:9.3.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.botanicgardens.org.au/about-us; https://www.botanicgardens.org.au/royal-botanic-garden-sydney.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/kings-park-perth](../../../countries/AU/sights/kings-park-perth.yaml) | 8.7 / 8.6 / 8.6 / 9.0 / 8.8 | significance: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [US/longwood-gardens](../../../countries/US/sights/longwood-gardens.yaml) | 9.3 / 9.2 / 9.1 / 9.4 / 9.2 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/ny-botanical-garden](../../../countries/US/sights/ny-botanical-garden.yaml) | 9.1 / 9.0 / 9.2 / 9.2 / 9.2 | impact: -0.1 vs peer; experience: -0.1 vs peer |
+| [US/missouri-botanical](../../../countries/US/sights/missouri-botanical.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.1 | significance: +0.1 vs peer; depth: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-royal-botanic-melbourne — Royal Botanic Gardens Melbourne — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/royal-botanic-melbourne.yaml)
+- Action: new
+- Scope: 38 hectares, over 8,500 plant species; Melbourne site only, excludes Cranbourne and Shrine.
+- Representative coordinates: -37.831, 144.979; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.0 / 9.2 / 9.2.
+- Categories: nature:9.4 relaxation:9.3 photography:9.2.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.rbg.vic.gov.au/melbourne-gardens/; https://www.rbg.vic.gov.au/melbourne-gardens/discover-melbourne-gardens/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/royal-botanic-sydney](../../../countries/AU/sights/royal-botanic-sydney.yaml) | 9.0 / 9.0 / 9.2 / 9.1 / 9.2 | significance: -0.2 vs peer; experience: +0.1 vs peer |
+| [AU/kings-park-perth](../../../countries/AU/sights/kings-park-perth.yaml) | 8.7 / 8.6 / 8.6 / 9.0 / 8.8 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer |
+| [US/longwood-gardens](../../../countries/US/sights/longwood-gardens.yaml) | 9.3 / 9.2 / 9.1 / 9.4 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/ny-botanical-garden](../../../countries/US/sights/ny-botanical-garden.yaml) | 9.1 / 9.0 / 9.2 / 9.2 / 9.2 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-art-gallery-sa — Art Gallery of South Australia Adelaide — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/art-gallery-sa.yaml)
+- Action: new
+- Scope: Art institution founded 1881; roughly 47,000 works per collection description; holdings not all on display. Independent from South Australian Museum.
+- Representative coordinates: -34.921, 138.604; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.0 / 9.2.
+- Categories: culture:9.4 history:9.2 architecture:8.9.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.agsa.sa.gov.au/collection-publications/about/; https://www.agsa.sa.gov.au/visit/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/ngv-international](../../../countries/AU/sights/ngv-international.yaml) | 8.9 / 8.9 / 9.0 / 9.1 / 9.1 | significance: +0.2 vs peer; impact: +0.1 vs peer |
+| [AU/art-gallery-nsw](../../../countries/AU/sights/art-gallery-nsw.yaml) | 9.0 / 9.1 / 9.1 / 9.1 / 9.2 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+| [US/baltimore-art-museum](../../../countries/US/sights/baltimore-art-museum.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.2 | uniqueness: -0.2 vs peer; impact: +0.0 vs peer |
+| [US/dallas-museum-art](../../../countries/US/sights/dallas-museum-art.yaml) | 9.0 / 9.0 / 9.2 / 9.0 / 9.3 | depth: -0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-frenchmans-cap — Frenchmans Cap Multi-Day Alpine Trek Tasmania — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/frenchmans-cap.yaml)
+- Action: new
+- Scope: 54 km return multi-day summit trek distinct from Overland and South Coast; conditions dependent.
+- Representative coordinates: -42.18, 145.948; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.6 / 9.0 / 9.0.
+- Categories: adventure:9.3 nature:9.3 photography:9.3.
+- Overall: 88.90/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://parks.tas.gov.au/explore-our-parks/franklin-gordon-wild-rivers-national-park/frenchmans-cap.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/overland-track](../../../countries/AU/sights/overland-track.yaml) | 9.2 / 9.2 / 8.9 / 9.2 / 9.4 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [AU/larapinta-trail](../../../countries/AU/sights/larapinta-trail.yaml) | 9.2 / 9.3 / 9.0 / 9.2 / 9.4 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-puffing-billy — Puffing Billy Heritage Steam Railway Dandenong Ranges — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/puffing-billy.yaml)
+- Action: new
+- Scope: Heritage narrow-gauge railway, representative Belgrave station; excludes general ranges sightseeing.
+- Representative coordinates: -37.909, 145.356; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.7 / 9.2 / 8.9.
+- Categories: family:9.3 photography:9.2 history:9.1.
+- Overall: 88.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/kuranda-rail-skyrail](../../../countries/AU/sights/kuranda-rail-skyrail.yaml) | 9.1 / 9.2 / 8.9 / 9.3 / 9.0 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/durango-silverton](../../../countries/US/sights/durango-silverton.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.0 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-valley-giants — Valley of the Giants Tree Top Walk and Ancient Empire Walpole — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/valley-giants.yaml)
+- Action: new
+- Scope: Canopy walkway and giant tingle forest circuit grouped; distinct from Bibbulmun continuous trek.
+- Representative coordinates: -34.985, 116.89; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.5 / 9.0 / 8.6.
+- Categories: nature:9.3 photography:9.3 family:9.2.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/kings-park-perth](../../../countries/AU/sights/kings-park-perth.yaml) | 8.7 / 8.6 / 8.6 / 9.0 / 8.8 | uniqueness: +0.4 vs peer; impact: +0.2 vs peer |
+| [AU/kuranda-rail-skyrail](../../../countries/AU/sights/kuranda-rail-skyrail.yaml) | 9.1 / 9.2 / 8.9 / 9.3 / 9.0 | significance: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-shrine-remembrance — Shrine of Remembrance Melbourne — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/shrine-remembrance.yaml)
+- Action: new
+- Scope: Memorial building, galleries and public viewpoints; separate from botanic gardens.
+- Representative coordinates: -37.83, 144.973; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 9.1 / 8.8 / 8.8.
+- Categories: history:9.3 architecture:9.2 culture:9.
+- Overall: 88.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/australian-war-memorial](../../../countries/AU/sights/australian-war-memorial.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | uniqueness: -0.4 vs peer; depth: -0.4 vs peer |
+| [AU/national-anzac-centre](../../../countries/AU/sights/national-anzac-centre.yaml) | 8.7 / 8.9 / 9.2 / 8.9 / 8.9 | uniqueness: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-mca-sydney — Museum of Contemporary Art Australia Sydney — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/mca-sydney.yaml)
+- Action: new
+- Scope: Dedicated contemporary art museum at Circular Quay, independent of Art Gallery of NSW.
+- Representative coordinates: -33.859, 151.209; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.8 / 8.9 / 9.0.
+- Categories: culture:9.3 architecture:9 photography:9.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/mona-hobart](../../../countries/AU/sights/mona-hobart.yaml) | 9.1 / 9.4 / 8.6 / 9.0 / 9.0 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer |
+| [AU/art-gallery-nsw](../../../countries/AU/sights/art-gallery-nsw.yaml) | 9.0 / 9.1 / 9.1 / 9.1 / 9.2 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-sydney-rocks — The Rocks Historic District Sydney — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/sydney-rocks.yaml)
+- Action: new
+- Scope: Historic streets and interpretation, excludes Opera House, Harbour Bridge and MCA collections.
+- Representative coordinates: -33.859, 151.208; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.9 / 8.9 / 8.8.
+- Categories: history:9.2 architecture:9.1 culture:9.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/royal-exhibition-building-carlton-gardens](../../../countries/AU/sights/royal-exhibition-building-carlton-gardens.yaml) | 8.4 / 8.6 / 8.8 / 8.2 / 7.8 | depth: +1.0 vs peer; experience: +0.7 vs peer |
+| [US/savannah-historic-district](../../../countries/US/sights/savannah-historic-district.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-bondi-coogee-walk — Bondi to Coogee Coastal Walk Sydney — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/bondi-coogee-walk.yaml)
+- Action: new
+- Scope: Continuous coastal walking route, distinct from Bondi beach stay; no adjacent beach duplication.
+- Representative coordinates: -33.894, 151.274; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.3 / 9.1 / 8.5.
+- Categories: nature:9.2 photography:9.3 beaches:9.2.
+- Overall: 86.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/royal-national-park](../../../countries/AU/sights/royal-national-park.yaml) | 8.7 / 8.6 / 8.8 / 8.9 / 8.8 | significance: -0.5 vs peer; depth: -0.3 vs peer |
+| [AU/cape-to-cape-track](../../../countries/AU/sights/cape-to-cape-track.yaml) | 9.0 / 8.8 / 8.5 / 9.1 / 9.0 | depth: -0.5 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-sea-life-sydney — SEA LIFE Sydney Aquarium — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/sea-life-sydney.yaml)
+- Action: new
+- Scope: Aquarium exhibits, excludes adjacent attractions and natural reefs.
+- Representative coordinates: -33.869, 151.202; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 9.0 / 8.8.
+- Categories: wildlife:9.2 family:9.3 nature:8.9.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/taronga-zoo](../../../countries/AU/sights/taronga-zoo.yaml) | 8.8 / 8.7 / 8.7 / 9.1 / 9.0 | significance: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/national-aquarium](../../../countries/US/sights/national-aquarium.yaml) | 9.0 / 8.9 / 9.0 / 9.3 / 9.1 | significance: -0.5 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-melbourne-zoo — Melbourne Zoo Royal Park — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/melbourne-zoo.yaml)
+- Action: new
+- Scope: Distinct zoo campus and conservation interpretation; excludes Healesville and Werribee.
+- Representative coordinates: -37.784, 144.951; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.7 / 9.0 / 8.9.
+- Categories: wildlife:9.2 family:9.3 nature:8.9.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/taronga-zoo](../../../countries/AU/sights/taronga-zoo.yaml) | 8.8 / 8.7 / 8.7 / 9.1 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [AU/healesville-sanctuary](../../../countries/AU/sights/healesville-sanctuary.yaml) | 8.7 / 8.8 / 8.7 / 9.0 / 8.8 | uniqueness: -0.2 vs peer; depth: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-werribee-zoo — Werribee Open Range Zoo Victoria — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/werribee-zoo.yaml)
+- Action: new
+- Scope: Separate open-range zoo and safari experience; sightings not guaranteed.
+- Representative coordinates: -37.924, 144.666; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 9.0 / 8.8.
+- Categories: wildlife:9.3 family:9.3 nature:8.9.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/melbourne-zoo](../../../countries/AU/sights/melbourne-zoo.yaml) | 8.7 / 8.6 / 8.7 / 9.0 / 8.9 | uniqueness: +0.2 vs peer; significance: -0.2 vs peer |
+| [US/san-diego-safari](../../../countries/US/sights/san-diego-safari.yaml) | 8.9 / 8.9 / 8.8 / 9.2 / 9.0 | significance: -0.3 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-barossa-wine — Barossa Valley Wine Heritage and Cellar Door Trail — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/barossa-wine.yaml)
+- Action: new
+- Scope: Regional wine heritage, vineyards and food; no individual winery duplication or drinking requirement.
+- Representative coordinates: -34.536, 138.956; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.9 / 8.9.
+- Categories: food:9.3 culture:9.2 relaxation:9.2.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/victorian-goldfields](../../../countries/AU/sights/victorian-goldfields.yaml) | 8.4 / 8.9 / 9.1 / 8.7 / 9.0 | impact: +0.4 vs peer; significance: -0.3 vs peer |
+| [AU/cornish-mining-sites](../../../countries/AU/sights/cornish-mining-sites.yaml) | 7.8 / 8.6 / 8.8 / 8.5 / 8.5 | impact: +1.0 vs peer; experience: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-au-margaret-river-wine — Margaret River Wine Region Cellar Door and Food Trail — 2026-11-27
+
+- YAML: [source](../../../countries/AU/sights/margaret-river-wine.yaml)
+- Action: new
+- Scope: Food and vineyard heritage trail, excludes limestone caves and Cape to Cape hiking.
+- Representative coordinates: -33.951, 115.074; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 9.0 / 8.8.
+- Categories: food:9.3 relaxation:9.2 culture:9.
+- Overall: 87.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AU/barossa-wine](../../../countries/AU/sights/barossa-wine.yaml) | 8.8 / 8.9 / 8.8 / 8.9 / 8.9 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [AU/margaret-river-caves](../../../countries/AU/sights/margaret-river-caves.yaml) | 8.9 / 8.9 / 8.6 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+

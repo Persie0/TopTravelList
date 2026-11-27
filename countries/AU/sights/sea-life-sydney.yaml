@@ -1,0 +1,16 @@
+id: sight-au-sea-life-sydney
+name: "SEA LIFE Sydney Aquarium"
+location:
+  country_code: AU
+  latitude: -33.869
+  longitude: 151.202
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.2
+    family: 9.3
+    nature: 8.9

@@ -3458,3 +3458,27 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AU — Australian Reptile Park Somersby New South Wales: 86.60/100 (desk-based provisional).
 
 22 additions, 11 desk-based provisional, 11 source-linked, 7 90+, 58 ranking-row comparisons including 16 US peers. Australia 125 ranked / 125 total. Yongala specific heritage dive, Lark Quarry separate from fossil museum, Lawn Hill excludes Riversleigh; Gibb end-to-end distinct from individual stops. Wallaman specific waterfall vs Wet Tropics umbrella flagged for overlap verification. Ningaloo whale sharks remain deferred. Boodjamulla staged flood recovery and wet-season closure recorded; Undara guided access and operator-specific closures noted. Existing scores retained. Next: remaining cities, cultural and coastal experiences, WA and regional parks; independent overlap and full Python validation pending.
+
+### Pass 204 — Australian urban heritage, gardens and wilderness journeys
+
+- [x] AU — Franklin River Multi-Day Wilderness Rafting Tasmania: 92.20/100 (source-linked-unverified).
+- [x] AU — South Coast Track Tasmania Multi-Day Wilderness Trek: 91.45/100 (source-linked-unverified).
+- [x] AU — Jenolan Caves Guided Limestone Cave Experience: 91.30/100 (source-linked-unverified).
+- [x] AU — Kuranda Scenic Railway and Skyrail Rainforest Journey: 91.05/100 (source-linked-unverified).
+- [x] AU — Royal Botanic Garden Sydney: 90.75/100 (source-linked-unverified).
+- [x] AU — Royal Botanic Gardens Melbourne: 90.50/100 (source-linked-unverified).
+- [x] AU — Art Gallery of South Australia Adelaide: 90.60/100 (source-linked-unverified).
+- [x] AU — Frenchmans Cap Multi-Day Alpine Trek Tasmania: 88.90/100 (source-linked-unverified).
+- [x] AU — Puffing Billy Heritage Steam Railway Dandenong Ranges: 88.80/100 (desk-based provisional).
+- [x] AU — Valley of the Giants Tree Top Walk and Ancient Empire Walpole: 88.30/100 (desk-based provisional).
+- [x] AU — Shrine of Remembrance Melbourne: 88.05/100 (desk-based provisional).
+- [x] AU — Museum of Contemporary Art Australia Sydney: 88.30/100 (desk-based provisional).
+- [x] AU — The Rocks Historic District Sydney: 87.50/100 (desk-based provisional).
+- [x] AU — Bondi to Coogee Coastal Walk Sydney: 86.90/100 (desk-based provisional).
+- [x] AU — SEA LIFE Sydney Aquarium: 87.15/100 (desk-based provisional).
+- [x] AU — Melbourne Zoo Royal Park: 87.40/100 (desk-based provisional).
+- [x] AU — Werribee Open Range Zoo Victoria: 87.70/100 (desk-based provisional).
+- [x] AU — Barossa Valley Wine Heritage and Cellar Door Trail: 88.50/100 (desk-based provisional).
+- [x] AU — Margaret River Wine Region Cellar Door and Food Trail: 87.15/100 (desk-based provisional).
+
+19 additions, 11 desk-based provisional, 8 source-linked, 7 90+, 52 ranking-row comparisons including 19 US peers. Australia 144 ranked / 144 total. Jenolan closed, early 2027 reopening target not guaranteed; specific cave tours distinct from Greater Blue Mountains umbrella, pending restored visitor scope. Kuranda rail/cableway grouped; South Coast and Franklin continuous journeys distinct from Tasmanian Wilderness. Sydney and Melbourne botanic gardens separately scoped. Wine regions are heritage/food landscapes, no individual winery duplication. Ningaloo whale sharks remain deferred pending parent review. Existing scores retained. Next: remaining coastal, marine, Indigenous heritage, national institutions and state park screen; independent overlap and full Python validation pending.

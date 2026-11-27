@@ -1,0 +1,16 @@
+id: sight-au-royal-botanic-melbourne
+name: "Royal Botanic Gardens Melbourne"
+location:
+  country_code: AU
+  latitude: -37.831
+  longitude: 144.979
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    relaxation: 9.3
+    photography: 9.2

@@ -1,0 +1,16 @@
+id: sight-au-shrine-remembrance
+name: "Shrine of Remembrance Melbourne"
+location:
+  country_code: AU
+  latitude: -37.83
+  longitude: 144.973
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.3
+    architecture: 9.2
+    culture: 9.0

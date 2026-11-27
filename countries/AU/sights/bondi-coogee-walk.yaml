@@ -1,0 +1,16 @@
+id: sight-au-bondi-coogee-walk
+name: "Bondi to Coogee Coastal Walk Sydney"
+location:
+  country_code: AU
+  latitude: -33.894
+  longitude: 151.274
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.3
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.3
+    beaches: 9.2
