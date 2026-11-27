@@ -1,0 +1,15 @@
+id: sight-fr-paris-poste
+name: "Musée de La Poste Paris Postal and Philatelic Collections"
+location:
+  country_code: FR
+  latitude: 48.842
+  longitude: 2.32
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.3

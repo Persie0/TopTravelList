@@ -2589,3 +2589,34 @@ Next: Remaining overseas territorial queues: NC and PF high-value residuals, sma
 8 additions, all desk-based provisional below 90 with scope sources; no new numerical peer comparisons. Small-territory priority screen only, no filler. TAAF administration confirms Crozet, Kerguelen, Saint-Paul and Amsterdam covered by existing Austral Lands and Seas UNESCO natural property; Port Jeanne d’Arc independently scoped as cultural industrial archaeology; access strictly regulated, no visit assumed. PM Mirande/Belliveau and Télégraphe/Cap au Diable overlap existing trail circuits and were not added. Tonga Toto separate from Talietumu, representative lake coordinate flagged. Existing unassessed remain separate. FR unchanged. Reopen on concrete major omissions.
 BL: 10 total (10 ranked, 0 unassessed), +2; MF: 13 total (13 ranked, 0 unassessed), +3; WF: 15 total (14 ranked, 1 unassessed), +1; PM: 15 total (15 ranked, 0 unassessed), +1; TF: 7 total (1 ranked, 6 unassessed), +1.
 Next: Return to mainland FR residual high-value coverage and overseas follow-up; resolve access-dependent unassessed in separate rating workflow.
+
+
+### Pass 169 — mainland France residual Paris-region audit
+
+- [x] FR — Musée d’Archéologie Nationale Saint-Germain-en-Laye and Royal Château: 93.40/100 (source-linked-unverified).
+- [x] FR — Musée National de Céramique and Manufacture de Sèvres Collections: 92.45/100 (source-linked-unverified).
+- [x] FR — Musée de la Grande Guerre Meaux History Collections: 92.85/100 (source-linked-unverified).
+- [x] FR — Galerie de Paléontologie et d’Anatomie Comparée Paris: 92.45/100 (source-linked-unverified).
+- [x] FR — Musée de la Musique Philharmonie de Paris Instrument Collections: 92.25/100 (source-linked-unverified).
+- [x] FR — Musée Méliès Cinémathèque Française Paris Cinema Collections: 92.00/100 (source-linked-unverified).
+- [x] FR — Musée Nissim de Camondo Paris Historic House and Decorative Arts: 91.35/100 (source-linked-unverified).
+- [x] FR — Auvers-sur-Oise Impressionist Heritage and Van Gogh Historic Sites: 91.25/100 (source-linked-unverified).
+- [x] FR — Château de Rambouillet Royal Palace Gardens and Shell Cottage: 91.00/100 (source-linked-unverified).
+- [x] FR — Abbaye de Royaumont Gothic Abbey and Gardens: 90.70/100 (source-linked-unverified).
+- [x] FR — Musée de la Libération de Paris Leclerc and Jean Moulin Collections: 90.95/100 (source-linked-unverified).
+- [x] FR — Musée National de l’Histoire de l’Immigration Paris Collections: 90.25/100 (source-linked-unverified).
+- [x] FR — Musée de la Chasse et de la Nature Paris Art Collections: 90.05/100 (source-linked-unverified).
+- [x] FR — Musée de La Poste Paris Postal and Philatelic Collections: 88.75/100 (source-linked-unverified).
+- [x] FR — Musée Bourdelle Paris Sculpture Studios and Collections: 88.90/100 (desk-based provisional).
+- [x] FR — Palais Galliera Paris Fashion Museum Collections: 88.85/100 (desk-based provisional).
+- [x] FR — Musée National Eugène Delacroix Paris Studio and Collections: 87.80/100 (desk-based provisional).
+- [x] FR — Musée Zadkine Paris Sculpture Studio and Garden: 86.75/100 (desk-based provisional).
+- [x] FR — Musée Curie Paris Scientific History Collections: 88.40/100 (desk-based provisional).
+- [x] FR — Bibliothèque Nationale de France Richelieu Museum and Oval Room: 89.40/100 (desk-based provisional).
+- [x] FR — Jardin des Plantes Paris Botanical Gardens and Greenhouses: 87.60/100 (desk-based provisional).
+- [x] FR — Château de La Roche-Guyon Cliff Castle and Gardens: 88.80/100 (desk-based provisional).
+- [x] FR — Château de Monte-Cristo Alexandre Dumas Historic House: 88.05/100 (desk-based provisional).
+- [x] FR — Château de Courances Historic Water Gardens: 87.65/100 (desk-based provisional).
+- [x] FR — Abbaye Royale de Chaalis Ruins Chapel and Art Collections: 88.15/100 (desk-based provisional).
+
+25 additions, 11 desk-based provisional estimates, 14 source-informed candidates, 13 90+, 56 domestic peer ranking-row comparisons. France 1010 ranked / 1021 total; 11 existing unassessed unchanged. Paris-region residual screen. Paleontology gallery and Nissim de Camondo renovation ignored as rating penalty. Separate Jardin des Plantes grounds from museum galleries. Auvers linked artist heritage grouped. No new scores for Versailles, Paris Seine or existing serial components. Existing scores preserved. Next: Remaining high-value omissions outside Île-de-France, verify residual candidate list, then consider closing bounded FR queue; 11 existing unassessed remain separate. Full Python validation pending.

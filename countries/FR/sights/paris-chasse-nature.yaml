@@ -1,0 +1,15 @@
+id: sight-fr-paris-chasse-nature
+name: "Musée de la Chasse et de la Nature Paris Art Collections"
+location:
+  country_code: FR
+  latitude: 48.861
+  longitude: 2.358
+scores:
+  impact: 8.8
+  uniqueness: 9.3
+  significance: 8.9
+  experience: 9.0
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.2

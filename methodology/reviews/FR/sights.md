@@ -9884,3 +9884,521 @@ Peer ranking rows checked; individual YAML and international calibration pending
 - Overall: 87.50/100.
 - Decision: Fast editorial estimate from overview/general knowledge and existing scale; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saint-germain-archaeology — Musée d’Archéologie Nationale Saint-Germain-en-Laye and Royal Château — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-germain-archaeology.yaml)
+- Action: new
+- Scope: National archaeological collection and castle/domain combined.
+- Representative coordinates: 48.898, 2.095; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.4 / 9.2 / 9.4.
+- Categories: history:9.4,culture:9.4,architecture:9.3.
+- Overall: 93.40/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://musee-archeologienationale.fr/en/museum-and-domain ; https://musee-archeologienationale.fr/collection/les-collections.
+- Rationale: Royal residence and reference prehistoric and comparative archaeology collections.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/bibracte](../../../countries/FR/sights/bibracte.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.4 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/lugdunum-collections](../../../countries/FR/sights/lugdunum-collections.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.3 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [FR/metz-cour-or](../../../countries/FR/sights/metz-cour-or.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/dijon-beaux-arts](../../../countries/FR/sights/dijon-beaux-arts.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.4 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-sevres-ceramics — Musée National de Céramique and Manufacture de Sèvres Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sevres-ceramics.yaml)
+- Action: new
+- Scope: Museum collections and manufacture interpretation; workshops only as documented.
+- Representative coordinates: 48.828, 2.222; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 9.1 / 9.4.
+- Categories: culture:9.4,history:9.4.
+- Overall: 92.45/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.sevresciteceramique.fr/qui-sommes-nous.html ; https://www.sevresciteceramique.fr/musee/un-musee-d-inspiration.html.
+- Rationale: Nearly 50,000 works across world ceramic traditions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-arts-decoratifs](../../../countries/FR/sights/musee-arts-decoratifs.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/limoges-adrien-dubouche](../../../countries/FR/sights/limoges-adrien-dubouche.yaml) | 8.8 / 9.2 / 9.2 / 9.0 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [FR/lalique-museum](../../../countries/FR/sights/lalique-museum.yaml) | 9.0 / 9.3 / 9.1 / 9.1 / 9.2 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [FR/cncs-moulins](../../../countries/FR/sights/cncs-moulins.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; depth: +0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-meaux-great-war — Musée de la Grande Guerre Meaux History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/meaux-great-war.yaml)
+- Action: new
+- Scope: Independent museum collections; no battlefield memorial duplication.
+- Representative coordinates: 48.974, 2.904; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.2 / 9.4.
+- Categories: history:9.4,culture:9.4.
+- Overall: 92.85/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.museedelagrandeguerre.com/en/great-war-museum/ ; https://www.museedelagrandeguerre.com/programmes/visites-guidees/decouverte-des-collections/.
+- Rationale: Around 70,000 objects and documents covering military and civilian life.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/historial-peronne](../../../countries/FR/sights/historial-peronne.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [FR/verdun-memorial](../../../countries/FR/sights/verdun-memorial.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.4 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [FR/memorial-caen](../../../countries/FR/sights/memorial-caen.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer |
+| [FR/besancon-resistance](../../../countries/FR/sights/besancon-resistance.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-paleontology — Galerie de Paléontologie et d’Anatomie Comparée Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-paleontology.yaml)
+- Action: new
+- Scope: Fossils and comparative anatomy collections separate from Grande Galerie de l’Évolution; renovation not penalized.
+- Representative coordinates: 48.843, 2.362; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.2 / 9.1 / 9.3.
+- Categories: nature:9.4,culture:9.3,family:9.3.
+- Overall: 92.45/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.mnhn.fr/fr/communique-de-presse/la-galerie-de-paleontologie-et-d-anatomie-comparee-du-museum-ferme-pour ; https://www.mnhn.fr/fr/collection-d-anatomie-comparee.
+- Rationale: More than 11,000 specimens in historic gallery; distinct scientific scope.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/grande-galerie-evolution](../../../countries/FR/sights/grande-galerie-evolution.yaml) | 9.1 / 9.1 / 9.0 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer |
+| [FR/musee-de-lhomme](../../../countries/FR/sights/musee-de-lhomme.yaml) | 8.8 / 9.0 / 9.1 / 9.0 / 9.0 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+| [FR/musee-confluences](../../../countries/FR/sights/musee-confluences.yaml) | 9.3 / 9.4 / 9.2 / 9.3 / 9.4 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-music-museum — Musée de la Musique Philharmonie de Paris Instrument Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-music-museum.yaml)
+- Action: new
+- Scope: Permanent instrument and art collections, not concert tickets or events.
+- Representative coordinates: 48.889, 2.394; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.3 / 9.2 / 9.3.
+- Categories: culture:9.4,history:9.4.
+- Overall: 92.25/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://philharmoniedeparis.fr/en/musee-de-la-musique.
+- Rationale: More than 8,000 objects, around 1,000 exhibited, historical instruments and music interpretation.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/cncs-moulins](../../../countries/FR/sights/cncs-moulins.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/musee-arts-decoratifs](../../../countries/FR/sights/musee-arts-decoratifs.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | experience: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/musee-cluny](../../../countries/FR/sights/musee-cluny.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | depth: +0.3 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-melies-cinematheque — Musée Méliès Cinémathèque Française Paris Cinema Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/melies-cinematheque.yaml)
+- Action: new
+- Scope: Permanent cinema history and Méliès exhibitions.
+- Representative coordinates: 48.837, 2.383; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.2 / 9.2 / 9.3.
+- Categories: culture:9.4,history:9.4,family:9.2.
+- Overall: 92.00/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.cinematheque.fr/musee-melies-la-magie-du-cinema.html ; https://www.cinematheque.fr/collections.html.
+- Rationale: Over 300 exhibited original and historical cinema items, 800 square metres.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/institut-lumiere](../../../countries/FR/sights/institut-lumiere.yaml) | 9.0 / 9.4 / 9.4 / 9.0 / 9.1 | significance: -0.2 vs peer; experience: +0.2 vs peer |
+| [FR/cinema-miniature-lyon](../../../countries/FR/sights/cinema-miniature-lyon.yaml) | 9.2 / 9.4 / 8.7 / 9.3 / 9.1 | significance: +0.5 vs peer; impact: -0.2 vs peer |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+| [FR/cncs-moulins](../../../countries/FR/sights/cncs-moulins.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-nissim-camondo — Musée Nissim de Camondo Paris Historic House and Decorative Arts — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nissim-camondo.yaml)
+- Action: new
+- Scope: Distinct house collection; temporary closure until planned 2030 reopening not penalized.
+- Representative coordinates: 48.879, 2.313; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.0 / 9.2.
+- Categories: culture:9.4,architecture:9.3,history:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://madparis.fr/Musee-Nissim-de-Camondo-125 ; https://madparis.fr/Acces.
+- Rationale: Exceptional eighteenth-century French furnishings in an intact historic collector's residence.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-arts-decoratifs](../../../countries/FR/sights/musee-arts-decoratifs.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | uniqueness: +0.1 vs peer; depth: -0.1 vs peer |
+| [FR/jacquemart-andre](../../../countries/FR/sights/jacquemart-andre.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+| [FR/nancy-ecole](../../../countries/FR/sights/nancy-ecole.yaml) | 9.2 / 9.4 / 9.2 / 9.2 / 9.3 | impact: -0.2 vs peer; experience: -0.2 vs peer |
+| [FR/chateau-malmaison](../../../countries/FR/sights/chateau-malmaison.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 8.6 | depth: +0.6 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-auvers-impressionists — Auvers-sur-Oise Impressionist Heritage and Van Gogh Historic Sites — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/auvers-impressionists.yaml)
+- Action: new
+- Scope: Auberge Ravoux, Gachet house, church, cemetery and related village trails grouped; no temporary exhibition assumed.
+- Representative coordinates: 49.071, 2.174; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.1 / 9.2.
+- Categories: culture:9.4,history:9.3,photography:9.3.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.valdoise-tourisme.com/les-incontournables/auvers-sur-oise-sur-les-pas-des-impressionnistes/ ; https://www.valdoise-tourisme.com/groupes/village-dauvers-inspiration-des-peintres/.
+- Rationale: Multiple preserved locations associated with Impressionism and Van Gogh.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/giverny-monet](../../../countries/FR/sights/giverny-monet.yaml) | 9.3 / 9.4 / 9.2 / 9.1 / 8.8 | depth: +0.4 vs peer; impact: -0.3 vs peer |
+| [FR/colette-house](../../../countries/FR/sights/colette-house.yaml) | 8.6 / 9.0 / 9.0 / 8.8 / 8.7 | depth: +0.5 vs peer; impact: +0.4 vs peer |
+| [FR/musee-matisse-nice](../../../countries/FR/sights/musee-matisse-nice.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.1 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [FR/maison-bonaparte](../../../countries/FR/sights/maison-bonaparte.yaml) | 8.9 / 9.2 / 9.4 / 9.0 / 9.1 | significance: -0.2 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-rambouillet-palace — Château de Rambouillet Royal Palace Gardens and Shell Cottage — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rambouillet-palace.yaml)
+- Action: new
+- Scope: Palace, park, Queen's dairy and shell cottage together.
+- Representative coordinates: 48.645, 1.819; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 9.1 / 9.2.
+- Categories: architecture:9.4,history:9.3,photography:9.3.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.chateau-rambouillet.fr/en/visit/practical-information ; https://www.chateau-rambouillet.fr/decouvrir/le-jardin-anglais-et-la-chaumiere-aux-coquillages ; https://www.chateau-rambouillet.fr/nos-actualites/la-laiterie-de-la-reine-retrouve-son-mobilier-d-origine.
+- Rationale: Royal and presidential residence, distinctive shell-decorated interior and restored dairy furnishings.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/compiegne-palace](../../../countries/FR/sights/compiegne-palace.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/chateau-malmaison](../../../countries/FR/sights/chateau-malmaison.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 8.6 | depth: +0.6 vs peer; impact: +0.3 vs peer |
+| [FR/vaux-le-vicomte](../../../countries/FR/sights/vaux-le-vicomte.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.1 | impact: -0.2 vs peer; significance: +0.1 vs peer |
+| [FR/chateau-chantilly](../../../countries/FR/sights/chateau-chantilly.yaml) | 9.3 / 9.2 / 9.2 / 9.1 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-royaumont-abbey — Abbaye de Royaumont Gothic Abbey and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/royaumont-abbey.yaml)
+- Action: new
+- Scope: Abbey, cloister and gardens together.
+- Representative coordinates: 49.147, 2.381; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.1 / 9.1 / 9.1.
+- Categories: architecture:9.4,history:9.3,photography:9.3.
+- Overall: 90.70/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.royaumont.com/abbaye/les-espaces/ ; https://www.royaumont.com/foire-aux-questions/.
+- Rationale: Largest former Cistercian abbey in Île-de-France, historic rooms and 6.5 hectare park.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/cluny-abbey](../../../countries/FR/sights/cluny-abbey.yaml) | 9.2 / 9.4 / 9.4 / 9.1 / 9.3 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [FR/auxerre-saint-germain](../../../countries/FR/sights/auxerre-saint-germain.yaml) | 9.0 / 9.3 / 9.4 / 9.0 / 9.2 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | depth: +0.6 vs peer; experience: +0.3 vs peer |
+| [FR/fontevraud-abbey](../../../countries/FR/sights/fontevraud-abbey.yaml) | 9.1 / 9.2 / 9.4 / 9.0 / 9.0 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-liberation-museum — Musée de la Libération de Paris Leclerc and Jean Moulin Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-liberation-museum.yaml)
+- Action: new
+- Scope: Independent museum archives and historic interpretation.
+- Representative coordinates: 48.834, 2.332; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.4 / 9.0 / 9.2.
+- Categories: history:9.4,culture:9.3.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.museeliberation-leclerc-moulin.paris.fr/le-musee/les-collections ; https://www.museeliberation-leclerc-moulin.paris.fr/agenda.
+- Rationale: Collections of correspondence, photographs and archival material on liberation and resistance.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/reims-reddition](../../../countries/FR/sights/reims-reddition.yaml) | 9.0 / 9.4 / 9.4 / 9.0 / 9.1 | uniqueness: -0.3 vs peer; impact: -0.1 vs peer |
+| [FR/besancon-resistance](../../../countries/FR/sights/besancon-resistance.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 9.2 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [FR/lyon-chrd](../../../countries/FR/sights/lyon-chrd.yaml) | 8.8 / 8.9 / 9.2 / 8.8 / 9.0 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [FR/memorial-caen](../../../countries/FR/sights/memorial-caen.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-porte-doree-immigration — Musée National de l’Histoire de l’Immigration Paris Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/porte-doree-immigration.yaml)
+- Action: new
+- Scope: Migration history collections and interpretation only; aquarium separate.
+- Representative coordinates: 48.835, 2.409; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.2 / 9.0 / 9.2.
+- Categories: history:9.4,culture:9.4.
+- Overall: 90.25/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.palais-portedoree.fr/un-palais-trois-offres/le-musee-national-de-l-histoire-de-l-immigration.
+- Rationale: Permanent historical and cultural interpretation from seventeenth century to present.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-carnavalet](../../../countries/FR/sights/musee-carnavalet.yaml) | 8.9 / 9.0 / 9.2 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/musee-de-lhomme](../../../countries/FR/sights/musee-de-lhomme.yaml) | 8.8 / 9.0 / 9.1 / 9.0 / 9.0 | depth: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/quai-branly-museum](../../../countries/FR/sights/quai-branly-museum.yaml) | 9.0 / 9.2 / 9.2 / 8.9 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [FR/familistere-guise](../../../countries/FR/sights/familistere-guise.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-chasse-nature — Musée de la Chasse et de la Nature Paris Art Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-chasse-nature.yaml)
+- Action: new
+- Scope: Art and human-animal relationship collections.
+- Representative coordinates: 48.861, 2.358; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.3 / 8.9 / 9.0 / 9.1.
+- Categories: culture:9.4,history:9.2.
+- Overall: 90.05/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.chassenature.org/oeuvres ; https://www.chassenature.org/le-musee.
+- Rationale: More than 5,000 works; museum interprets historical relationships between humans and animals.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-arts-decoratifs](../../../countries/FR/sights/musee-arts-decoratifs.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [FR/nissim-camondo](../../../countries/FR/sights/nissim-camondo.yaml) | 9.0 / 9.3 / 9.2 / 9.0 / 9.2 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [FR/grande-galerie-evolution](../../../countries/FR/sights/grande-galerie-evolution.yaml) | 9.1 / 9.1 / 9.0 / 9.0 / 9.0 | impact: -0.3 vs peer; uniqueness: +0.2 vs peer |
+| [FR/jacquemart-andre](../../../countries/FR/sights/jacquemart-andre.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | uniqueness: +0.4 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-poste — Musée de La Poste Paris Postal and Philatelic Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-poste.yaml)
+- Action: new
+- Scope: Independent postal history collection.
+- Representative coordinates: 48.842, 2.32; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 9.0 / 8.9 / 8.9 / 9.0.
+- Categories: history:9.3,culture:9.3.
+- Overall: 88.75/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.museedelaposte.fr/fr/collections ; https://collections.museedelaposte.fr/fr/exposition-permanente.
+- Rationale: Historical, artistic and philatelic collections and three exhibition floors.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+| [FR/electropolis](../../../countries/FR/sights/electropolis.yaml) | 9.0 / 9.3 / 9.2 / 9.2 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [FR/michelin-aventure](../../../countries/FR/sights/michelin-aventure.yaml) | 9.0 / 9.3 / 9.2 / 9.1 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [FR/thiers-cutlery](../../../countries/FR/sights/thiers-cutlery.yaml) | 8.9 / 9.3 / 9.1 / 9.0 / 9.1 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-petit-musee-bourdelle — Musée Bourdelle Paris Sculpture Studios and Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-petit-musee-bourdelle.yaml)
+- Action: new
+- Scope: Artist's original studios, sculptures and gardens.
+- Representative coordinates: 48.843, 2.318; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.9 / 8.9.
+- Categories: culture:9.4,history:9.2.
+- Overall: 88.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-galliera — Palais Galliera Paris Fashion Museum Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-galliera.yaml)
+- Action: new
+- Scope: Fashion exhibitions and collections independent from decorative arts museum.
+- Representative coordinates: 48.865, 2.296; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.8 / 9.0.
+- Categories: culture:9.4,history:9.3.
+- Overall: 88.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-delacroix — Musée National Eugène Delacroix Paris Studio and Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-delacroix.yaml)
+- Action: new
+- Scope: Artist's studio and collection only; Seine heritage exterior excluded.
+- Representative coordinates: 48.855, 2.335; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.0 / 8.7 / 8.7.
+- Categories: culture:9.3,history:9.3.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-zadkine — Musée Zadkine Paris Sculpture Studio and Garden — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-zadkine.yaml)
+- Action: new
+- Scope: Sculpture collection and studio.
+- Representative coordinates: 48.842, 2.334; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.8 / 8.7 / 8.6.
+- Categories: culture:9.3,history:9.2.
+- Overall: 86.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-curie — Musée Curie Paris Scientific History Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-curie.yaml)
+- Action: new
+- Scope: Laboratory and historical science interpretation.
+- Representative coordinates: 48.844, 2.345; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.3 / 8.6 / 8.6.
+- Categories: history:9.4,culture:9.3.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-bnf-richelieu — Bibliothèque Nationale de France Richelieu Museum and Oval Room — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-bnf-richelieu.yaml)
+- Action: new
+- Scope: Historic library interiors and museum collections; not entire institutional holdings.
+- Representative coordinates: 48.868, 2.338; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.1 / 8.9 / 8.9.
+- Categories: architecture:9.4,culture:9.4,history:9.3.
+- Overall: 89.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-paris-jardin-plantes — Jardin des Plantes Paris Botanical Gardens and Greenhouses — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/paris-jardin-plantes.yaml)
+- Action: new
+- Scope: Botanical outdoor grounds and greenhouses only; excludes galleries and zoo.
+- Representative coordinates: 48.844, 2.36; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.9 / 8.8.
+- Categories: nature:9.3,relaxation:9.3,photography:9.2.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-chateau-roche-guyon — Château de La Roche-Guyon Cliff Castle and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-roche-guyon.yaml)
+- Action: new
+- Scope: Castle, cliff-cut spaces and immediate gardens.
+- Representative coordinates: 49.082, 1.629; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.9 / 8.9 / 8.7.
+- Categories: architecture:9.3,history:9.3,photography:9.4.
+- Overall: 88.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-chateau-monte-cristo — Château de Monte-Cristo Alexandre Dumas Historic House — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-monte-cristo.yaml)
+- Action: new
+- Scope: House, garden and literary interpretation.
+- Representative coordinates: 48.884, 2.106; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 8.8 / 8.7.
+- Categories: culture:9.3,architecture:9.3,history:9.2.
+- Overall: 88.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-chateau-courances — Château de Courances Historic Water Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-courances.yaml)
+- Action: new
+- Scope: Historic landscaped water gardens and château.
+- Representative coordinates: 48.441, 2.469; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.3,architecture:9.3,photography:9.4.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-abbaye-chaalis — Abbaye Royale de Chaalis Ruins Chapel and Art Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/abbaye-chaalis.yaml)
+- Action: new
+- Scope: Abbey ruins, chapel, gardens and Jacquemart collections together.
+- Representative coordinates: 49.148, 2.684; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 8.8 / 8.8.
+- Categories: architecture:9.3,history:9.3,culture:9.3.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
