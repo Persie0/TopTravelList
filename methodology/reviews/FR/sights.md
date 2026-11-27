@@ -10146,3 +10146,236 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-bordeaux-fine-arts — Musée des Beaux-Arts de Bordeaux Fine Arts Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bordeaux-fine-arts.yaml)
+- Action: new
+- Precise subject and limitations: Permanent collections in the two museum wings and integrated gallery exhibitions; excludes general Bordeaux urban heritage and other art museums.
+- Location check: 44.83737, -0.58054; [published representative point](https://mapcarta.com/fr/31165534), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.musba-bordeaux.fr/collections-expos/collections-permanentes); indexed excerpts or source text inspected 2026-11-27. Museum describes works from the fifteenth to twentieth centuries, including major European artists, and two permanent wings. https://www.cirkwi.com/fr/point-interet/882059-musee-des-beaux-arts corroborates gallery scope. Individual works may rotate. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/rouen-fine-arts](../../../countries/FR/sights/rouen-fine-arts.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/angers-fine-arts](../../../countries/FR/sights/angers-fine-arts.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 9.0 | uniqueness: +0.1 vs peer; impact: +0.1 vs peer. |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Quality historic paintings and sculpture. |
+| Uniqueness | 8.8 | Broad collection with regional strengths rather than globally singular holdings. |
+| Significance | 9.0 | Established municipal art collection from 1801. |
+| Experience | 8.9 | Dedicated chronological gallery circuit. |
+| Depth | 9.0 | Several centuries and schools of art. |
+
+- Applicable categories: culture:9.3, history:9.2, architecture:8.9.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-capc-bordeaux — CAPC Bordeaux Contemporary Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/capc-bordeaux.yaml)
+- Action: new
+- Precise subject and limitations: Contemporary art museum in Entrepôt Lainé, including collection displays and temporary exhibitions; distinct from Bassins des Lumières, no simultaneous display assumption.
+- Location check: 44.848252, -0.572166; [published representative point](https://www.outdooractive.com/en/poi/bordeaux-metropole/capc-musee-d-art-contemporain/806092598/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.capc-bordeaux.fr/en/collections); indexed excerpts or source text inspected 2026-11-27. Museum collection history https://www.capc-bordeaux.fr/index.php/agenda/collections; Gironde tourism identifies 1824 warehouse, adaptive reuse and coordinates. No original-works claim for separate digital projection venue. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-art-moderne-paris](../../../countries/FR/sights/musee-art-moderne-paris.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.1 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+| [GB/tate-modern](../../../countries/GB/sights/tate-modern.yaml) | 9.1 / 9.2 / 9.2 / 9.2 / 9.2 | impact: -0.4 vs peer; significance: -0.4 vs peer. |
+| [PT/serralves-art-park](../../../countries/PT/sights/serralves-art-park.yaml) | 8.8 / 8.7 / 8.9 / 8.9 / 9.0 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer. |
+| [TR/istanbul-modern](../../../countries/TR/sights/istanbul-modern.yaml) | 8.6 / 8.6 / 8.6 / 8.9 / 8.7 | uniqueness: +0.3 vs peer; significance: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Large adaptive-reuse exhibition space. |
+| Uniqueness | 8.9 | Historic warehouse and contemporary art collection. |
+| Significance | 8.8 | French contemporary exhibition history since 1973. |
+| Experience | 8.9 | Dedicated art and architectural experience. |
+| Depth | 8.8 | Collection and rotating exhibitions. |
+
+- Applicable categories: culture:9.3, architecture:9.1, history:9.0, photography:8.9.
+- Computed worldwide overall: 88.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-arcachon-ville-hiver — Arcachon Ville d’Hiver Historic Villas and Observatory — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/arcachon-ville-hiver.yaml)
+- Action: new
+- Precise subject and limitations: Historic hillside villa district, Parc Mauresque and Sainte-Cécile observatory grouped as public walking circuit; private villa interiors excluded. Tower representative point.
+- Location check: 44.65934, -1.17537; [published representative point](https://mapcarta.com/fr/W113325940), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.arcachon.com/tourisme/je-decouvre/lieux-dexception/ville-dhiver/); indexed excerpts or source text inspected 2026-11-27. Tourism office documents 110-hectare district and 25-metre tower; https://www.gironde-tourisme.com/en/itineraires/arcachon-boucle-de-la-ville-dhiver/ corroborates walking route. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/morlaix-historic-centre](../../../countries/FR/sights/morlaix-historic-centre.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.8 | significance: -0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [FR/honfleur-old-harbour](../../../countries/FR/sights/honfleur-old-harbour.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 8.6 | depth: +0.2 vs peer; impact: -0.2 vs peer. |
+| [PT/funchal-historic-centre](../../../countries/PT/sights/funchal-historic-centre.yaml) | 8.6 / 8.5 / 8.8 / 8.9 / 8.7 | uniqueness: +0.5 vs peer; impact: +0.2 vs peer. |
+| [ES/girona-historic-centre](../../../countries/ES/sights/girona-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.0 / 8.9 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Distinctive ornate villas and panorama. |
+| Uniqueness | 9.0 | Concentrated nineteenth-century resort architecture. |
+| Significance | 8.7 | Regional resort and urban development history. |
+| Experience | 8.9 | Documented walking circuit and established lookout. |
+| Depth | 8.8 | Multiple villas and public landscape features. |
+
+- Applicable categories: architecture:9.3, photography:9.3, history:9.1, relaxation:9.0.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-cap-ferret-coastal-trails — Cap Ferret Peninsula Coastal Trails and Oyster Villages — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cap-ferret-coastal-trails.yaml)
+- Action: new
+- Precise subject and limitations: Peninsula coastal walks, dune trails and oyster village streets; excludes lighthouse interior, Dune du Pilat across the inlet and private oyster tours. Representative public lookout point, not restricted beach.
+- Location check: 44.6221894, -1.2472916; [published representative point](https://www.cirkwi.com/en/point-interet/4938979-pointe-du-cap-ferret), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.gironde-tourisme.com/en/itineraires/plages-et-village-cap-ferret/); indexed excerpts or source text inspected 2026-11-27. Gironde tourism describes a walking route through oyster settlement, basin shore and dune trail. Cirkwi local tourism entry explicitly notes erosion-related beach access restriction; score is for established lawful visitor circuit, no restricted beach access assumed. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/crozon-peninsula](../../../countries/FR/sights/crozon-peninsula.yaml) | 9.3 / 9.1 / 8.7 / 9.2 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [FR/quiberon-cote-sauvage](../../../countries/FR/sights/quiberon-cote-sauvage.yaml) | 9.1 / 8.9 / 8.5 / 9.0 / 8.8 | impact: -0.2 vs peer; depth: +0.2 vs peer. |
+| [ES/costa-quebrada](../../../countries/ES/sights/costa-quebrada.yaml) | 9.0 / 8.9 / 8.6 / 8.8 / 8.7 | depth: +0.3 vs peer; experience: +0.2 vs peer. |
+| [PT/ponta-piedade](../../../countries/PT/sights/ponta-piedade.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.4 | depth: +0.6 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Ocean and basin views. |
+| Uniqueness | 8.8 | Distinct peninsula and oyster village combination. |
+| Significance | 8.5 | Regional coastal landscape and maritime heritage. |
+| Experience | 9.0 | Documented connected walking routes. |
+| Depth | 9.0 | Several coastal and village environments. |
+
+- Applicable categories: nature:9.2, photography:9.3, relaxation:9.2, beaches:9.1, adventure:8.9.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-teich-bird-reserve — Réserve Ornithologique du Teich Wetland Birdwatching Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/teich-bird-reserve.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated managed wetland reserve with observation trail; excludes broader Arcachon basin. Operator access GPS rounded to seven decimal places.
+- Location check: 44.6402091, -1.0188125; [published representative point](https://www.reserve-ornithologique-du-teich.com/infos-pratiques/acces/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.reserve-ornithologique-du-teich.com/en/visit/trails/); indexed excerpts or source text inspected 2026-11-27. Operator documents six-kilometre circuit; https://www.gironde-tourisme.com/activites/reserve-ornithologique-du-teich/ identifies protected area of 110 hectares. No guaranteed bird sightings or precise species total used. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/sept-iles-wildlife-cruises](../../../countries/FR/sights/sept-iles-wildlife-cruises.yaml) | 8.9 / 9.0 / 9.0 / 8.8 / 8.5 | impact: -0.3 vs peer; significance: -0.2 vs peer. |
+| [FR/camargue](../../../countries/FR/sights/camargue.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 9.1 | impact: -0.4 vs peer; depth: -0.4 vs peer. |
+| [ES/ebro-delta-natural-park](../../../countries/ES/sights/ebro-delta-natural-park.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 8.9 | impact: -0.2 vs peer; depth: -0.2 vs peer. |
+| [PT/ria-formosa](../../../countries/PT/sights/ria-formosa.yaml) | 8.5 / 8.9 / 8.8 / 8.8 / 9.0 | depth: -0.3 vs peer; impact: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Wetland habitats and bird observation. |
+| Uniqueness | 8.9 | Concentrated managed migratory bird habitat. |
+| Significance | 8.8 | Regional conservation importance. |
+| Experience | 8.9 | Dedicated six-kilometre observation circuit. |
+| Depth | 8.7 | Multiple habitats and observation stops. |
+
+- Applicable categories: wildlife:9.3, nature:9.2, photography:9.1, relaxation:9.0.
+- Computed worldwide overall: 87.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-saintes-roman-amphitheatre — Saintes Roman Amphitheatre Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saintes-roman-amphitheatre.yaml)
+- Action: new
+- Precise subject and limitations: Individual Roman arena remains and established interpreted visit; excludes other Saintes monuments and pilgrimage churches. Restoration not an intrinsic rating penalty.
+- Location check: 45.74582, -0.64396; [published representative point](https://mapcarta.com/W206888629), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://en.saintes-tourisme.fr/fiche-sit/amphitheatre-gallo-romain-6046185/); indexed excerpts or source text inspected 2026-11-27. Local tourism documents Roman amphitheatre; https://www.ville-saintes.fr/projets/les-arenes-de-saintes-un-grand-projet-de-restauration/ confirms protected status and restoration project. No future restored features assumed. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/arles-monuments](../../../countries/FR/sights/arles-monuments.yaml) | 9.0 / 9.1 / 9.4 / 8.9 / 9.0 | depth: -0.7 vs peer; significance: -0.3 vs peer. |
+| [ES/merida](../../../countries/ES/sights/merida.yaml) | 9.0 / 9.1 / 9.4 / 9.0 / 9.2 | depth: -0.9 vs peer; significance: -0.3 vs peer. |
+| [ES/tarraco](../../../countries/ES/sights/tarraco.yaml) | 8.8 / 9.0 / 9.3 / 8.8 / 9.0 | depth: -0.7 vs peer; significance: -0.2 vs peer. |
+| [IT/verona-arena](../../../countries/IT/sights/verona-arena.yaml) | 9.1 / 9.0 / 9.2 / 8.9 / 8.6 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large surviving arena remains. |
+| Uniqueness | 8.8 | Recognizable Roman amphitheatre form with regional character. |
+| Significance | 9.1 | Significant Gallo-Roman heritage. |
+| Experience | 8.7 | Established archaeological visitor circuit. |
+| Depth | 8.3 | Single monument rather than citywide archaeological ensemble. |
+
+- Applicable categories: architecture:9.2, history:9.3, photography:9.1, culture:9.0.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

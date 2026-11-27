@@ -1630,3 +1630,16 @@ Six additions, 24 peer rows. France 254 ranked / 265 total; 11 existing unassess
 - [x] FR — Corderie Royale already covered by Rochefort Arsenal and Charente estuary fortifications (89.05), expressly identified in UNESCO tentative entry https://whc.unesco.org/fr/listesindicatives/1668/. No duplicate or rescore.
 
 Six additions, 24 peer rows. France 260 ranked / 271 total; 11 existing unassessed unchanged. Hermione is replica at operator-published Anglet dry dock, relocation watch; Saint-Nicolas closure not penalized; Baleines separate from Ré coastal trails; Oléron excludes lighthouse interiors; Crazannes excludes quarry. Next bounded screen: Bordeaux Musée des Beaux-Arts, CAPC contemporary art museum, Bordeaux Saint-André Cathedral and Pey-Berland tower scope check, Arcachon Ville d’Hiver, Cap Ferret peninsula coastal trails, Teich bird reserve, and Saintes Roman amphitheatre (scope and duplicate checks). Full Python validation pending.
+
+### Pass 140 — Bordeaux museums, Arcachon basin and Roman Saintes
+
+- [x] FR — Musée des Beaux-Arts de Bordeaux Fine Arts Museum: 88.45/100 (source-linked-unverified).
+- [x] FR — CAPC Bordeaux Contemporary Art Museum: 88.10/100 (source-linked-unverified).
+- [x] FR — Arcachon Ville d’Hiver Historic Villas and Observatory: 88.45/100 (source-linked-unverified).
+- [x] FR — Cap Ferret Peninsula Coastal Trails and Oyster Villages: 88.20/100 (source-linked-unverified).
+- [x] FR — Réserve Ornithologique du Teich Wetland Birdwatching Trails: 87.70/100 (source-linked-unverified).
+- [x] FR — Saintes Roman Amphitheatre Archaeological Site: 87.95/100 (source-linked-unverified).
+
+- [x] FR — Bordeaux Saint-André Cathedral and Pey-Berland Tower: included in Bordeaux Port of the Moon (90.95) and cathedral component of Santiago routes (90.10); CMN confirms dual heritage coverage https://www.pey-berland.fr/en/decouvrir/pey-berland-tower-s-history. Standalone scoring deferred to overlap review rather than adding a duplicate now; no existing rescore.
+
+Six additions, 24 peer rows. France 266 ranked / 277 total; 11 existing unassessed unchanged. CAPC distinct from Bassins; Ville d’Hiver excludes private interiors; Cap Ferret excludes Dune du Pilat and restricted beach; Teich scoped to managed reserve; Saintes arena restoration not penalized. Next bounded screen: Saintes Abbaye aux Dames, Rochefort Transporter Bridge, Brouage fortified town, Talmont-sur-Gironde, Château de la Roche Courbon, Zoo de La Palmyre, and Mornac-sur-Seudre (scope and duplicate checks). Full Python validation pending.
