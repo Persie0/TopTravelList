@@ -1315,3 +1315,15 @@ Five additions, 20 peer rows; 16 unique peer YAMLs verified. Türkiye 154 ranked
 - [x] TR — Ihlara Valley Rock Churches and Canyon Trail: 91.30/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Türkiye 161 ranked / 161 total. Ihlara separately rated on dedicated Aksaray canyon route; current UNESCO description and geographical study support distinct scope, conflicting older national commission statement retained as caveat; exact polygon not verified. Kadıkalesi mapped archaeology point preferred over discrepant UNESCO coordinate. Genoese serial aggregate not added. Next: final bounded screen of Sığacık Castle, Lake Manyas Bird Paradise, Sultan Marshes, and major remaining distinct nature/heritage candidates before moving to next country. Full Python validation pending.
+
+### Pass 114 — Türkiye wetlands, floodplain forests and Taurus mountains
+
+- [x] TR — Sığacık Castle and Historic Quarter: 84.40/100 (source-linked-unverified).
+- [x] TR — Lake Manyas Bird Paradise National Park: 85.70/100 (source-linked-unverified).
+- [x] TR — Sultan Marshes National Park: 88.05/100 (source-linked-unverified).
+- [x] TR — Kızılırmak Delta Wetland and Bird Sanctuary: 89.15/100 (source-linked-unverified).
+- [x] TR — Acarlar Floodplain Forest: 87.00/100 (source-linked-unverified).
+- [x] TR — İğneada Floodplain Forests National Park: 89.05/100 (source-linked-unverified).
+- [x] TR — Aladağlar National Park and Kapuzbaşı Waterfalls: 90.45/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Türkiye 168 ranked / 168 total. Sığacık distinct from Teos; Manyas, Sultan and Kızılırmak separate wetlands; Acarlar and İğneada separate floodplain forests; Kapuzbaşı Waterfalls included within Aladağlar based on ministry park inventory. Current named screening queue resolved; pause Türkiye after this bounded screen, not an exhaustive inventory or factual verification. Reopen on concrete significant omissions. Full Python validation pending.

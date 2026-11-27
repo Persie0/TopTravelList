@@ -1,0 +1,16 @@
+id: sight-tr-acarlar-floodplain
+name: "Acarlar Floodplain Forest"
+location:
+  country_code: TR
+  latitude: 41.12889
+  longitude: 30.43722
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.3
+    wildlife: 9.1
+    photography: 9.2

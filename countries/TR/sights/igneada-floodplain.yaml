@@ -1,0 +1,17 @@
+id: sight-tr-igneada-floodplain
+name: "İğneada Floodplain Forests National Park"
+location:
+  country_code: TR
+  latitude: 41.81944
+  longitude: 27.95389
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.6
+  depth: 8.9
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    photography: 9.3
+    adventure: 9.0

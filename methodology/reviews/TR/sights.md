@@ -5941,3 +5941,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-tr-sigacik-castle — Sığacık Castle and Historic Quarter — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/sigacik-castle.yaml)
+- Action: new
+- Precise subject and limitations: Fortified residential streets, market and castle; separate from Teos excavations approximately 1.5 km away. Market schedule not guaranteed.
+- Location check: 38.19451, 26.78446; [published representative point](https://mapcarta.com/N2117857604), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.visitizmir.org/en/Destination/11710); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/foca-historic-harbour](../../../countries/TR/sights/foca-historic-harbour.yaml) | 8.7 / 8.6 / 8.7 / 8.9 / 8.6 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [TR/amasra-historic-harbour](../../../countries/TR/sights/amasra-historic-harbour.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [TR/cesme-castle](../../../countries/TR/sights/cesme-castle.yaml) | 8.8 / 8.7 / 8.8 / 8.8 / 8.7 | significance: -0.5 vs peer; impact: -0.4 vs peer. |
+| [GR/monemvasia-castle-town](../../../countries/GR/sights/monemvasia-castle-town.yaml) | 9.1 / 9.1 / 9.0 / 9.0 / 8.8 | impact: -0.7 vs peer; uniqueness: -0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Attractive walled streets. |
+| Uniqueness | 8.4 | Distinctive compact fortified quarter. |
+| Significance | 8.3 | Regional Ottoman history. |
+| Experience | 8.8 | Walkable streets and local market. |
+| Depth | 8.4 | Several connected streets and structures. |
+
+- Applicable categories: architecture:9.0, culture:9.0, photography:9.0, history:8.8.
+- Computed worldwide overall: 84.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-manyas-bird-paradise — Lake Manyas Bird Paradise National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/manyas-bird-paradise.yaml)
+- Action: new
+- Precise subject and limitations: National park birdwatching experience on Lake Manyas; Ramsar wetland not duplicated as separate sight. Seasonal wildlife varies.
+- Location check: 40.2319, 28.0401; [published representative point](https://neresigezilir.com/en/turkey/balikesir/manyas-bird-paradise-kuscenneti-national-park), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://kulturportali.gov.tr/turkiye/balikesir/gezilecekyer/kuscenneti-milli-parki); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/dilek-peninsula](../../../countries/TR/sights/dilek-peninsula.yaml) | 9.0 / 8.9 / 8.9 / 8.9 / 9.0 | depth: -0.8 vs peer; impact: -0.6 vs peer. |
+| [GR/evros-delta](../../../countries/GR/sights/evros-delta.yaml) | 8.5 / 8.8 / 8.9 / 8.6 / 8.6 | depth: -0.4 vs peer; impact: -0.1 vs peer. |
+| [GR/nestos](../../../countries/GR/sights/nestos.yaml) | 8.5 / 8.8 / 8.8 / 8.6 / 8.8 | depth: -0.6 vs peer; impact: -0.1 vs peer. |
+| [GR/strofilia](../../../countries/GR/sights/strofilia.yaml) | 8.4 / 8.7 / 8.8 / 8.7 / 8.5 | depth: -0.3 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Bird colonies and wetland scenery. |
+| Uniqueness | 8.7 | Concentrated migratory bird habitat. |
+| Significance | 8.9 | International wetland conservation. |
+| Experience | 8.5 | Established bird observation. |
+| Depth | 8.2 | Relatively compact visitor area. |
+
+- Applicable categories: wildlife:9.3, nature:9.2, photography:9.1.
+- Computed worldwide overall: 85.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-sultan-marshes — Sultan Marshes National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/sultan-marshes.yaml)
+- Action: new
+- Precise subject and limitations: Marsh, reed beds and Lake Yay grouped; park representative point, not visitor centre. Ministry inventory https://ekotaban.tarimorman.gov.tr/alan/566; boardwalk documented at https://birdingplaces.eu/en/birdingplaces/turkey/sultan-marshes. Seasonal water and wildlife conditions vary.
+- Location check: 38.24222, 35.18556; [published representative point](https://en.wikipedia.org/wiki/Sultan_Reedy_National_Park), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.explorekayseri.com/en/routes/nature-valleys-and-waterfalls-route); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/dilek-peninsula](../../../countries/TR/sights/dilek-peninsula.yaml) | 9.0 / 8.9 / 8.9 / 8.9 / 9.0 | impact: -0.3 vs peer; experience: -0.3 vs peer. |
+| [GR/evros-delta](../../../countries/GR/sights/evros-delta.yaml) | 8.5 / 8.8 / 8.9 / 8.6 / 8.6 | impact: +0.2 vs peer; depth: +0.2 vs peer. |
+| [GR/nestos](../../../countries/GR/sights/nestos.yaml) | 8.5 / 8.8 / 8.8 / 8.6 / 8.8 | impact: +0.2 vs peer; significance: +0.2 vs peer. |
+| [GR/strofilia](../../../countries/GR/sights/strofilia.yaml) | 8.4 / 8.7 / 8.8 / 8.7 / 8.5 | impact: +0.3 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Reed beds and mountain backdrop. |
+| Uniqueness | 8.9 | Distinct freshwater and saline wetland habitats. |
+| Significance | 9.0 | Important migratory bird habitat. |
+| Experience | 8.6 | Established boardwalk and observation experience. |
+| Depth | 8.8 | Extensive wetland ecosystem. |
+
+- Applicable categories: wildlife:9.4, nature:9.3, photography:9.3.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-kizilirmak-delta — Kızılırmak Delta Wetland and Bird Sanctuary — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/kizilirmak-delta.yaml)
+- Action: new
+- Precise subject and limitations: Delta, birdwatching houses and visitor centre grouped; representative UNESCO tentative property coordinate. Not a claim of unrestricted access or guaranteed wildlife encounters.
+- Location check: 41.666667, 36.083333; [published representative point](https://whc.unesco.org/en/tentativelists/6125/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://kulturportali.gov.tr/turkiye/samsun/gezilecekyer/kizilirmak-deltasi-kus-cenneti); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/dilek-peninsula](../../../countries/TR/sights/dilek-peninsula.yaml) | 9.0 / 8.9 / 8.9 / 8.9 / 9.0 | impact: -0.2 vs peer; significance: +0.2 vs peer. |
+| [GR/evros-delta](../../../countries/GR/sights/evros-delta.yaml) | 8.5 / 8.8 / 8.9 / 8.6 / 8.6 | depth: +0.4 vs peer; impact: +0.3 vs peer. |
+| [GR/nestos](../../../countries/GR/sights/nestos.yaml) | 8.5 / 8.8 / 8.8 / 8.6 / 8.8 | impact: +0.3 vs peer; significance: +0.3 vs peer. |
+| [GR/strofilia](../../../countries/GR/sights/strofilia.yaml) | 8.4 / 8.7 / 8.8 / 8.7 / 8.5 | depth: +0.5 vs peer; impact: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Wide delta landscapes and birdlife. |
+| Uniqueness | 9.0 | Varied delta habitats on migration routes. |
+| Significance | 9.1 | Internationally important wetlands. |
+| Experience | 8.7 | Documented observation facilities. |
+| Depth | 9.0 | Extensive habitat and seasonal variation. |
+
+- Applicable categories: wildlife:9.4, nature:9.3, photography:9.2.
+- Computed worldwide overall: 89.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-acarlar-floodplain — Acarlar Floodplain Forest — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/acarlar-floodplain.yaml)
+- Action: new
+- Precise subject and limitations: Sakarya floodplain forest and established walking facilities; distinct from İğneada. Representative forest point; water recreation availability not guaranteed.
+- Location check: 41.12889, 30.43722; [published representative point](https://en.wikipedia.org/wiki/Acarlar_floodplain_forest), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.sakarya.gov.tr/acarlar-longozu); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/borcka-karagol](../../../countries/TR/sights/borcka-karagol.yaml) | 8.7 / 8.5 / 8.3 / 8.7 / 8.3 | uniqueness: +0.4 vs peer; significance: +0.3 vs peer. |
+| [GR/strofilia](../../../countries/GR/sights/strofilia.yaml) | 8.4 / 8.7 / 8.8 / 8.7 / 8.5 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/nestos](../../../countries/GR/sights/nestos.yaml) | 8.5 / 8.8 / 8.8 / 8.6 / 8.8 | depth: -0.4 vs peer; impact: +0.2 vs peer. |
+| [TR/dilek-peninsula](../../../countries/TR/sights/dilek-peninsula.yaml) | 9.0 / 8.9 / 8.9 / 8.9 / 9.0 | depth: -0.6 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Flooded woodland scenery. |
+| Uniqueness | 8.9 | Distinct seasonal forest ecosystem. |
+| Significance | 8.6 | Regional ecological conservation. |
+| Experience | 8.7 | Established walking route. |
+| Depth | 8.4 | Accessible portion of larger forest. |
+
+- Applicable categories: nature:9.3, wildlife:9.1, photography:9.2.
+- Computed worldwide overall: 87.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-igneada-floodplain — İğneada Floodplain Forests National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/igneada-floodplain.yaml)
+- Action: new
+- Precise subject and limitations: Floodplain forest, coastal dunes and lagoon lakes grouped; distinct from Acarlar. Visitor scope supported by 2026 geotourism study; not every habitat accessible.
+- Location check: 41.81944, 27.95389; [published representative point](https://en.wikipedia.org/wiki/%C4%B0%C4%9Fneada_Floodplain_Forests_National_Park), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://link.springer.com/article/10.1007/s12371-026-01312-8); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/dilek-peninsula](../../../countries/TR/sights/dilek-peninsula.yaml) | 9.0 / 8.9 / 8.9 / 8.9 / 9.0 | experience: -0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [GR/strofilia](../../../countries/GR/sights/strofilia.yaml) | 8.4 / 8.7 / 8.8 / 8.7 / 8.5 | impact: +0.5 vs peer; uniqueness: +0.4 vs peer. |
+| [GR/nestos](../../../countries/GR/sights/nestos.yaml) | 8.5 / 8.8 / 8.8 / 8.6 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [TR/karagol-sahara](../../../countries/TR/sights/karagol-sahara.yaml) | 8.8 / 8.7 / 8.5 / 8.7 / 8.8 | uniqueness: +0.4 vs peer; significance: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Forest and coastal lagoon scenery. |
+| Uniqueness | 9.1 | Rare floodplain forest assemblage. |
+| Significance | 8.9 | Important ecological heritage. |
+| Experience | 8.6 | Documented geotourism and birdwatching. |
+| Depth | 8.9 | Multiple habitats and routes. |
+
+- Applicable categories: nature:9.4, wildlife:9.3, photography:9.3, adventure:9.0.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-tr-aladaglar-national-park — Aladağlar National Park and Kapuzbaşı Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/aladaglar-national-park.yaml)
+- Action: new
+- Precise subject and limitations: Mountain landscape, lakes, valleys and Kapuzbaşı Waterfalls grouped because ministry https://kulturportali.gov.tr/turkiye/kayseri/gezilecekyer/kapuzbasi-selaleleri confirms falls inside park. Distinct from Erciyes and Bolu Yedigöller; visitor walking routes https://goturkiye.com/walking/aladaglar-national-park. Representative park point not trailhead.
+- Location check: 37.822953, 35.170875; [published representative point](https://en.wikipedia.org/wiki/Alada%C4%9Flar_National_Park), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://ekotaban.tarimorman.gov.tr/alan/43); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/kackar-mountains](../../../countries/TR/sights/kackar-mountains.yaml) | 9.3 / 9.1 / 8.9 / 9.0 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [TR/kure-mountains](../../../countries/TR/sights/kure-mountains.yaml) | 9.1 / 9.0 / 8.9 / 8.8 / 9.2 | impact: +0.1 vs peer; experience: +0.1 vs peer. |
+| [TR/munzur-valley](../../../countries/TR/sights/munzur-valley.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [GR/parnassos](../../../countries/GR/sights/parnassos.yaml) | 8.7 / 8.6 / 8.6 / 8.8 / 8.8 | impact: +0.5 vs peer; uniqueness: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Dramatic peaks and waterfalls. |
+| Uniqueness | 9.0 | Distinct Taurus mountain and karst landscape. |
+| Significance | 8.9 | Important protected mountain ecosystem. |
+| Experience | 8.9 | Extensive established trekking routes. |
+| Depth | 9.2 | Multiple valleys, lakes and climbing opportunities. |
+
+- Applicable categories: nature:9.4, adventure:9.4, photography:9.4, wildlife:9.1.
+- Computed worldwide overall: 90.45/100.
+- High-score challenge: 90+ provisional; additional worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
