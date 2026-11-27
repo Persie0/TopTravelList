@@ -3700,3 +3700,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] SB — Iron Bottom Sound Offshore Historic Wreck Diving: 89.55/100 (source-linked-unverified).
 
 16 additions, 1 desk-based provisional, 15 source-linked, 9 90+, 42 ranking-row comparisons including 10 cross-area. Five Pacific country queues opened. Goroka and Mount Hagen recurring seasonal events separately scoped, not future confirmed dates; local community consent and travel safety required. Kumul birdwatching distinct from Varirata. Existing restricted or tentative properties left unassessed. Beqa shark diving deferred as existing lagoon scope already incorporates specialist shark diving context; Great White Wall within Rainbow Reef also deferred. Drawaqa manta route separate from other reef systems; no guaranteed sightings or pristine reef health. Upper Navua rafting distinct from Sigatoka River. Ambrym crater trek deferred: Smithsonian/VMGD 19–25 November 2026 report alert level 3 and exclusion zones (https://volcano.si.edu/showreport.cfm?gvpvar=GVP.WVAR20261119-257040; https://www.vmgd.gov.vu/warnings/volcano); no permitted route assumed. Community Rom tours separate from crater tourism and private rites. Haapai regulated whale viewing separate from Vavau licensed marine circuit; Vavau whale watching not duplicated. Haapai kayaking distinct from whale encounters; no guaranteed sightings. Gizo, Munda and Iron Bottom Sound geographically distinct diving circuits; Iron Bottom excludes Bonegi shore wrecks; no wreck penetration, salvage or guaranteed coral health. Marovo/Tetepare parent components not duplicated. Existing scores and unassessed rows retained. Next: further Pacific regional and cultural screening. Independent validation pending.
+
+### Pass 215 — Samoa, Palau, Micronesia and Marshall Islands priority screen
+
+- [x] FM — Yap Day Annual Cultural Festival: 91.85/100 (source-linked-unverified).
+- [x] FM — Palikir Pass Pohnpei Expert Reef Surfing: 89.85/100 (source-linked-unverified).
+- [x] FM — Pohnpei Manta Road Guided Marine Encounters: 90.10/100 (source-linked-unverified).
+- [x] FM — Kosrae Northern and Eastern Outer Reef Diving: 88.00/100 (source-linked-unverified).
+- [x] FM — Nanpil River and Liduduhniap Waterfall Walk: 83.00/100 (desk-based provisional).
+- [x] PW — Peleliu Southern Outer Reef Guided Advanced Diving: 90.30/100 (source-linked-unverified).
+- [x] PW — Angaur Island Guided Historical and Coastal Tour: 84.50/100 (source-linked-unverified).
+- [x] PW — Ngatpang Waterfall Babeldaob Forest Walk: 80.45/100 (desk-based provisional).
+- [x] WS — Samoa Cultural Village Apia Traditional Arts and Umu: 88.35/100 (source-linked-unverified).
+- [x] WS — Mount Matavanu Volcanic Crater Walk Savaiʻi: 86.95/100 (source-linked-unverified).
+- [x] WS — Tafua Peninsula Reserve Crater and Forest Walk: 85.55/100 (source-linked-unverified).
+- [x] WS — Cape Mulinuu Cultural Coastal Headland Savaiʻi: 83.60/100 (desk-based provisional).
+- [x] MH — Waan Aelõñ in Majel Canoe House and Heritage Visitor Centre: 88.25/100 (source-linked-unverified).
+- [x] MH — Eneko Island Beach and Land-Based Day Visit: 81.00/100 (source-linked-unverified).
+
+14 additions, 3 desk-based provisional, 11 source-linked, 3 90+, 34 ranking-row comparisons including 6 cross-area. Four Pacific country queues opened. Yap Day recurring festival, no future dates assumed, canoe launch included. Palikir expert surf separate from diving. Kosrae excludes Utwe-Walung. Ahnd atoll dives and Chuuk wrecks not duplicated. Pakin atoll deferred pending permission/route evidence. Peleliu southern reef distinct from battlefield and lagoon, advanced conditions and September 2026 incident noted. Ebiil conservation importance documented but permitted visitor experience not established; deferred. No duplicated Rock Islands kayaking or named existing dives. Matavanu crater separate from coastal lava fields; Tafua separate crater; no duplicate Falealupo or Pulemelei while unassessed. Further regional screen pending. WAM land-based cultural centre separately scoped from lagoon sailing. Eneko land/shore visit only. No duplicate Bikini wreck fleet, no assumed remote atoll access. Existing 12 unassessed unchanged. Existing scores and unassessed rows retained. Next: further Pacific priority screens and remaining regional candidates. Independent validation pending.

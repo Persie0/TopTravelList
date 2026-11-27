@@ -61,4 +61,12 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 
 | SB | OPEN | 18 ranked / 19 total; pass 214 adds 3. Gizo, Munda and Iron Bottom Sound geographically distinct diving circuits; Iron Bottom excludes Bonegi shore wrecks; no wreck penetration, salvage or guaranteed coral health. Marovo/Tetepare parent components not duplicated. Further regional screen and independent factual, coordinate and scoring validation pending. |
 
+| FM | OPEN | 17 ranked / 19 total; pass 215 adds 5. Yap Day recurring festival, no future dates assumed, canoe launch included. Palikir expert surf separate from diving. Kosrae excludes Utwe-Walung. Ahnd atoll dives and Chuuk wrecks not duplicated. Pakin atoll deferred pending permission/route evidence. Independent factual, coordinate and scoring validation pending. |
+
+| PW | OPEN | 19 ranked / 25 total; pass 215 adds 3. Peleliu southern reef distinct from battlefield and lagoon, advanced conditions and September 2026 incident noted. Ebiil conservation importance documented but permitted visitor experience not established; deferred. No duplicated Rock Islands kayaking or named existing dives. Independent factual, coordinate and scoring validation pending. |
+
+| WS | OPEN | 23 ranked / 26 total; pass 215 adds 4. Matavanu crater separate from coastal lava fields; Tafua separate crater; no duplicate Falealupo or Pulemelei while unassessed. Further regional screen pending. Independent factual, coordinate and scoring validation pending. |
+
+| MH | OPEN | 12 ranked / 24 total; pass 215 adds 2. WAM land-based cultural centre separately scoped from lagoon sailing. Eneko land/shore visit only. No duplicate Bikini wreck fleet, no assumed remote atoll access. Existing 12 unassessed unchanged. Independent factual, coordinate and scoring validation pending. |
+
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

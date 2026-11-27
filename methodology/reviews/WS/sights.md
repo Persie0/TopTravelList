@@ -930,3 +930,94 @@ Samoa Airports promotes the archaeological mound (https://www.samoaairports.com/
 - Final decision: Retain incomplete; no rank.
 - Earlier decision: none.
 - Verification still needed: Exact polygon, legal visitor access, current wildlife viewing evidence and visitor activities. No tourism credit from adjacent ancient villages.
+
+## sight-ws-samoa-cultural-village — Samoa Cultural Village Apia Traditional Arts and Umu — 2026-11-27
+
+- YAML: [source](../../../countries/WS/sights/samoa-cultural-village.yaml)
+- Action: new
+- Scope: Public cultural demonstrations and interpretation; not private ceremonies, no guaranteed individual demonstrations.
+- Representative coordinates: -13.833, -171.766; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.0 / 8.9 / 8.7.
+- Categories: culture:9.4 history:9.2 food:9.1.
+- Overall: 88.35/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.samoa.travel/plan-book/activities/samoa-cultural-village/, https://www.samoa.travel/discover/the-islands-of-samoa/upolu-island/apia/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [WS/robert-louis-stevenson-museum](../../../countries/WS/sights/robert-louis-stevenson-museum.yaml) | 7.7 / 8.5 / 8.5 / 8.1 / 7.6 | depth: +1.1 vs peer; impact: +0.9 vs peer |
+| [WS/manono-island](../../../countries/WS/sights/manono-island.yaml) | 8.0 / 8.5 / 8.5 / 8.2 / 8.0 | experience: +0.7 vs peer; depth: +0.7 vs peer |
+| [FM/yap-living-history-museum](../../../countries/FM/sights/yap-living-history-museum.yaml) | 7.3 / 8.4 / 7.9 / 7.8 / 7.3 | depth: +1.4 vs peer; impact: +1.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ws-matavanu-crater — Mount Matavanu Volcanic Crater Walk Savaiʻi — 2026-11-27
+
+- YAML: [source](../../../countries/WS/sights/matavanu-crater.yaml)
+- Action: new
+- Scope: Summit crater and documented route, excludes Saleaula coastal lava fields; community access subject to permission.
+- Representative coordinates: -13.54, -172.4; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.5 / 8.7.
+- Categories: nature:9.3 photography:9.2 adventure:9.2.
+- Overall: 86.95/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.samoa.travel/experience/places-to-explore/walking-trails/, https://www.samoa.travel/pagepreview/walking-trails.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [WS/saleaula-lava-fields](../../../countries/WS/sights/saleaula-lava-fields.yaml) | 8.4 / 8.7 / 8.3 / 8.0 / 7.8 | depth: +0.9 vs peer; experience: +0.5 vs peer |
+| [WS/lake-lanotoo](../../../countries/WS/sights/lake-lanotoo.yaml) | 8.2 / 8.3 / 8.2 / 8.0 / 7.3 | depth: +1.4 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ws-tafua-crater — Tafua Peninsula Reserve Crater and Forest Walk — 2026-11-27
+
+- YAML: [source](../../../countries/WS/sights/tafua-crater.yaml)
+- Action: new
+- Scope: Named Tafua crater forest trail, not Matavanu or Upolu national park; permission and conditions vary.
+- Representative coordinates: -13.79, -172.27; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.6 / 8.4 / 8.5.
+- Categories: nature:9.2 wildlife:9.1 photography:9.1.
+- Overall: 85.55/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.samoa.travel/experience/places-to-explore/sites-attractions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [WS/o-le-pupu-pue-national-park](../../../countries/WS/sights/o-le-pupu-pue-national-park.yaml) | 8.5 / 8.5 / 8.7 / 8.5 / 8.4 | uniqueness: +0.2 vs peer; significance: -0.1 vs peer |
+| [WS/lake-lanotoo](../../../countries/WS/sights/lake-lanotoo.yaml) | 8.2 / 8.3 / 8.2 / 8.0 / 7.3 | depth: +1.2 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ws-cape-mulinuu — Cape Mulinuu Cultural Coastal Headland Savaiʻi — 2026-11-27
+
+- YAML: [source](../../../countries/WS/sights/cape-mulinuu.yaml)
+- Action: new
+- Scope: Public headland and community-permitted cultural interpretation, excludes Falealupo canopy walkway and restricted sacred places.
+- Representative coordinates: -13.5, -172.79; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.6 / 8.2 / 8.0.
+- Categories: culture:9.1 nature:9.0 photography:9.0.
+- Overall: 83.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [WS/alofaaga-blowholes](../../../countries/WS/sights/alofaaga-blowholes.yaml) | 8.6 / 8.3 / 6.9 / 8.3 / 7.4 | significance: +1.7 vs peer; depth: +0.6 vs peer |
+| [WS/saleaula-lava-fields](../../../countries/WS/sights/saleaula-lava-fields.yaml) | 8.4 / 8.7 / 8.3 / 8.0 / 7.8 | significance: +0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 215 scope decisions
+
+Matavanu crater separate from coastal lava fields; Tafua separate crater; no duplicate Falealupo or Pulemelei while unassessed. Further regional screen pending.

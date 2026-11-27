@@ -1,0 +1,16 @@
+id: sight-pw-angaur-heritage
+name: "Angaur Island Guided Historical and Coastal Tour"
+location:
+  country_code: PW
+  latitude: 6.91
+  longitude: 134.14
+scores:
+  impact: 8.3
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.4
+  depth: 8.3
+  categories:
+    history: 9.1
+    nature: 9.0
+    photography: 9.0

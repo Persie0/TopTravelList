@@ -1,0 +1,16 @@
+id: sight-fm-pohnpei-manta-road
+name: "Pohnpei Manta Road Guided Marine Encounters"
+location:
+  country_code: FM
+  latitude: 6.95
+  longitude: 158.3
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.0
+  depth: 8.7
+  categories:
+    wildlife: 9.4
+    nature: 9.3
+    adventure: 9.2
