@@ -1,0 +1,16 @@
+id: sight-us-gardner-museum
+name: "Isabella Stewart Gardner Museum Boston"
+location:
+  country_code: US
+  latitude: 42.3381
+  longitude: -71.099
+scores:
+  impact: 8.8
+  uniqueness: 9.2
+  significance: 8.9
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.4
+    architecture: 9.3
+    history: 9.2

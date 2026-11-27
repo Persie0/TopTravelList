@@ -2995,3 +2995,34 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Palo Duro Canyon State Park: 87.30/100 (desk-based provisional).
 
 21 additions, 12 desk-based provisional, 9 source-informed, 7 90+, 56 domestic ranking-row comparisons. United States 240 ranked / 240 total. Havasupai tribal lands distinct from Grand Canyon NP per NPS; Boundary Waters separate from Voyageurs; Cathedral Rock and Bell Rock grouped under Sedona; Multnomah Falls grouped under Columbia Gorge; Emerald Bay grouped under Tahoe. Dead Horse Point deferred for overlapping Canyonlands views and Bears Ears remains deferred for precise scope. Existing scores retained. Next: remaining major natural monuments, recreation areas and historical/cultural sites. Full Python validation pending.
+
+
+### Pass 187 — US major cultural institutions and historic landscapes
+
+- [x] US — Museum of Fine Arts Boston: 93.30/100 (source-linked-unverified).
+- [x] US — Philadelphia Museum of Art: 92.65/100 (source-linked-unverified).
+- [x] US — Barnes Foundation Philadelphia: 92.40/100 (source-linked-unverified).
+- [x] US — Henry Ford Museum of American Innovation and Greenfield Village: 92.65/100 (source-linked-unverified).
+- [x] US — Colonial Williamsburg Historic Area Living History Museum: 92.65/100 (source-linked-unverified).
+- [x] US — United States Holocaust Memorial Museum Washington: 92.25/100 (source-linked-unverified).
+- [x] US — Detroit Institute of Arts: 92.00/100 (source-linked-unverified).
+- [x] US — Cleveland Museum of Art: 92.00/100 (source-linked-unverified).
+- [x] US — National Civil Rights Museum Memphis Lorraine Motel: 92.15/100 (source-linked-unverified).
+- [x] US — Gettysburg National Military Park Battlefield and Museum: 91.65/100 (source-linked-unverified).
+- [x] US — The Met Cloisters Medieval Art Museum and Gardens: 91.50/100 (source-linked-unverified).
+- [x] US — Musical Instrument Museum Phoenix: 91.80/100 (source-linked-unverified).
+- [x] US — National Museum of the American Indian Washington DC: 91.40/100 (source-linked-unverified).
+- [x] US — Museum of the American Revolution Philadelphia: 90.90/100 (source-linked-unverified).
+- [x] US — Whitney Museum of American Art New York: 90.75/100 (source-linked-unverified).
+- [x] US — Isabella Stewart Gardner Museum Boston: 89.70/100 (source-linked-unverified).
+- [x] US — Historic Jamestowne Archaeological Site and Museum: 88.50/100 (desk-based provisional).
+- [x] US — Yorktown Battlefield Colonial National Historical Park: 88.05/100 (desk-based provisional).
+- [x] US — Valley Forge National Historical Park: 87.30/100 (desk-based provisional).
+- [x] US — Harpers Ferry National Historical Park: 88.80/100 (desk-based provisional).
+- [x] US — Fort Sumter and Fort Moultrie National Historical Park: 88.05/100 (desk-based provisional).
+- [x] US — Motown Museum Hitsville U.S.A. Detroit: 88.60/100 (desk-based provisional).
+- [x] US — Rock and Roll Hall of Fame Cleveland: 88.70/100 (desk-based provisional).
+- [x] US — Crystal Bridges Museum of American Art Bentonville: 88.65/100 (desk-based provisional).
+- [x] US — Arlington National Cemetery Public Heritage and Memorials: 88.45/100 (desk-based provisional).
+
+25 additions, 9 desk-based provisional, 16 source-informed, 15 90+, 80 domestic ranking-row comparisons. United States 265 ranked / 265 total. Met Cloisters distinct from Fifth Avenue; Henry Ford museum and village combined; Gettysburg battlefield and museum combined; American Revolution Museum independent of Independence Hall. Existing scores retained. Next: remaining major science/art museums, city heritage and regional natural gaps. Full Python validation pending.

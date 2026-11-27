@@ -1,0 +1,16 @@
+id: sight-us-detroit-institute-arts
+name: "Detroit Institute of Arts"
+location:
+  country_code: US
+  latitude: 42.3594
+  longitude: -83.0645
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

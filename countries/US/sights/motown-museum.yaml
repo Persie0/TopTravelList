@@ -1,0 +1,15 @@
+id: sight-us-motown-museum
+name: "Motown Museum Hitsville U.S.A. Detroit"
+location:
+  country_code: US
+  latitude: 42.364
+  longitude: -83.089
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 9.4
+    history: 9.3

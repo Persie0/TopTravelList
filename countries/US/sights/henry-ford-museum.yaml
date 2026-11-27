@@ -1,0 +1,16 @@
+id: sight-us-henry-ford-museum
+name: "Henry Ford Museum of American Innovation and Greenfield Village"
+location:
+  country_code: US
+  latitude: 42.303
+  longitude: -83.234
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.2
+  depth: 9.4
+  categories:
+    history: 9.4
+    culture: 9.3
+    family: 9.4
