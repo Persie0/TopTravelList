@@ -828,3 +828,314 @@ UNESCO https://whc.unesco.org/en/statesparties/ma/ lists nine inscribed and four
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ma-chefchaouen-blue-medina — Chefchaouen Blue Medina — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/chefchaouen-blue-medina.yaml)
+- Action: new
+- Precise subject and limitations: Blue-painted public lanes and squares, representative point at Bab Ain. Excludes ticketed kasbah museum and separately rated nearby natural attractions.
+- Location check: 35.16821, -5.26499; [published representative point](https://mapcarta.com/W318556286), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmorocco.com/en/travel/chefchaouen); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/medina-essaouira](../../../countries/MA/sights/medina-essaouira.yaml) | 9.0 / 9.0 / 9.1 / 9.0 / 8.6 | significance: -0.4 vs peer; impact: +0.3 vs peer. |
+| [MA/medina-tetouan](../../../countries/MA/sights/medina-tetouan.yaml) | 8.8 / 9.0 / 9.1 / 8.6 / 8.6 | impact: +0.5 vs peer; experience: +0.5 vs peer. |
+| [MA/medina-fez](../../../countries/MA/sights/medina-fez.yaml) | 9.5 / 9.6 / 9.6 / 9.0 / 9.4 | significance: -0.9 vs peer; depth: -0.7 vs peer. |
+| [TN/sidi-bou-said](../../../countries/TN/sights/sidi-bou-said.yaml) | 9.0 / 8.8 / 8.7 / 8.8 / 7.9 | depth: +0.8 vs peer; uniqueness: +0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Striking blue urban fabric. |
+| Uniqueness | 9.3 | Distinctive coherent streetscape. |
+| Significance | 8.7 | Important regional living heritage. |
+| Experience | 9.1 | Immersive public walking experience. |
+| Depth | 8.7 | Multiple lanes and squares. |
+
+- Applicable categories: photography:9.4, architecture:9.2, culture:9.1.
+- Computed worldwide overall: 90.90/100.
+- High-score challenge: Above 90: unusually coherent blue streetscape; below Fez and Marrakesh in depth and significance; compare Essaouira and Sidi Bou Said. No 9.5+ fields; independent challenge pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-tangier-medina-kasbah — Tangier Medina and Kasbah — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/tangier-medina-kasbah.yaml)
+- Action: new
+- Precise subject and limitations: Historic medina, public kasbah streets and kasbah museum if open; point at museum. American Legation is a potential distinct indoor museum experience, not included here.
+- Location check: 35.78833, -5.81254; [published representative point](https://mapcarta.com/N8851322561), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmorocco.com/en/travel/tangier); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/medina-essaouira](../../../countries/MA/sights/medina-essaouira.yaml) | 9.0 / 9.0 / 9.1 / 9.0 / 8.6 | depth: +0.2 vs peer; impact: -0.2 vs peer. |
+| [MA/medina-tetouan](../../../countries/MA/sights/medina-tetouan.yaml) | 8.8 / 9.0 / 9.1 / 8.6 / 8.6 | experience: +0.2 vs peer; depth: +0.2 vs peer. |
+| [MA/historic-meknes](../../../countries/MA/sights/historic-meknes.yaml) | 9.0 / 9.0 / 9.2 / 8.6 / 8.8 | experience: +0.2 vs peer; impact: -0.2 vs peer. |
+| [TN/bizerte-medina-old-port](../../../countries/TN/sights/bizerte-medina-old-port.yaml) | 8.5 / 8.3 / 8.4 / 8.7 / 8.2 | depth: +0.6 vs peer; significance: +0.6 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Layered coastal historic architecture. |
+| Uniqueness | 8.8 | Distinct international port character. |
+| Significance | 9.0 | Important cultural and maritime heritage. |
+| Experience | 8.8 | Walkable historic precinct. |
+| Depth | 8.8 | Multiple streets and heritage features. |
+
+- Applicable categories: architecture:9.1, history:9.2, culture:9.2, photography:9.1.
+- Computed worldwide overall: 88.40/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-ifrane-cedar-forest — Ifrane National Park and Azrou Cedar Forest — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/ifrane-cedar-forest.yaml)
+- Action: new
+- Precise subject and limitations: Middle Atlas cedar forest and permitted nature walks; point at Cèdre Gouraud visitor area. No guaranteed macaque sightings, snow or access to every trail; avoid feeding wildlife.
+- Location check: 33.42648, -5.15537; [published representative point](https://mapcarta.com/N550174695), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmorocco.com/en/travel/ifrane); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/talassemtane-national-park](../../../countries/MA/sights/talassemtane-national-park.yaml) | 9.0 / 8.8 / 8.8 / 8.8 / 8.9 | significance: -0.2 vs peer; impact: -0.2 vs peer. |
+| [MA/mount-toubkal](../../../countries/MA/sights/mount-toubkal.yaml) | 9.2 / 8.8 / 8.9 / 8.8 / 8.8 | impact: -0.4 vs peer; significance: -0.3 vs peer. |
+| [DZ/chrea-national-park](../../../countries/DZ/sights/chrea-national-park.yaml) | 8.7 / 8.5 / 8.8 / 8.6 / 8.7 | significance: -0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [DZ/djurdjura-national-park](../../../countries/DZ/sights/djurdjura-national-park.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 8.8 | significance: -0.4 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Mature cedar forests and mountain scenery. |
+| Uniqueness | 8.7 | Distinct Middle Atlas woodland. |
+| Significance | 8.6 | Important habitat and biodiversity. |
+| Experience | 8.7 | Permitted forest walks. |
+| Depth | 8.8 | Extensive forest landscapes. |
+
+- Applicable categories: nature:9.2, wildlife:9.1, photography:9.0, adventure:8.8.
+- Computed worldwide overall: 87.20/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-saadian-tombs — Saadian Tombs — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/saadian-tombs.yaml)
+- Action: new
+- Precise subject and limitations: Separate ticketed royal necropolis and decorated burial halls, not public medina streets. Confirm admission and opening; no unrestricted chamber entry assumed.
+- Location check: 31.6173, -7.9887; [published representative point](https://mapcarta.com/28210702), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://marrakechauthority.com/en/articles/billets-et-horaires-monuments-marrakech); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | depth: -0.6 vs peer; experience: -0.5 vs peer. |
+| [MA/ben-youssef-madrasa](../../../countries/MA/sights/ben-youssef-madrasa.yaml) | 8.9 / 8.8 / 8.9 / 8.7 / 8.1 | experience: -0.4 vs peer; impact: -0.2 vs peer. |
+| [MA/el-badi-palace](../../../countries/MA/sights/el-badi-palace.yaml) | 8.5 / 8.5 / 8.9 / 8.6 / 8.4 | depth: -0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [DZ/royal-mausoleum-mauretania](../../../countries/DZ/sights/royal-mausoleum-mauretania.yaml) | 8.8 / 8.9 / 9.2 / 7.9 / 7.6 | experience: +0.4 vs peer; depth: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Richly ornamented funerary architecture. |
+| Uniqueness | 8.8 | Distinct Saadian royal ensemble. |
+| Significance | 9.1 | Major dynastic heritage. |
+| Experience | 8.3 | Focused monument visit. |
+| Depth | 8.0 | Compact complex. |
+
+- Applicable categories: architecture:9.3, history:9.3, photography:9.0.
+- Computed worldwide overall: 86.75/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-asilah-medina-fortress — Asilah Medina and Sea Walls — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/asilah-medina-fortress.yaml)
+- Action: new
+- Precise subject and limitations: Fortified coastal medina, public lanes, murals and sea-wall views; visitor scope supported by https://destination.ma/fr/guides/tangier-and-asilah. No temporary festival or private interior assumed.
+- Location check: 35.46894, -6.03574; [published representative point](https://mapcarta.com/29467584), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmorocco.com/en/travel/tangier); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/medina-essaouira](../../../countries/MA/sights/medina-essaouira.yaml) | 9.0 / 9.0 / 9.1 / 9.0 / 8.6 | significance: -0.7 vs peer; uniqueness: -0.5 vs peer. |
+| [MA/mazagan](../../../countries/MA/sights/mazagan.yaml) | 8.6 / 8.8 / 9.0 / 8.4 / 8.1 | significance: -0.6 vs peer; experience: +0.4 vs peer. |
+| [TN/mahdia-medina-fortress](../../../countries/TN/sights/mahdia-medina-fortress.yaml) | 8.7 / 8.6 / 8.9 / 8.7 / 8.5 | significance: -0.5 vs peer; depth: -0.2 vs peer. |
+| [TN/bizerte-medina-old-port](../../../countries/TN/sights/bizerte-medina-old-port.yaml) | 8.5 / 8.3 / 8.4 / 8.7 / 8.2 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Picturesque whitewashed coastal walls. |
+| Uniqueness | 8.5 | Distinct mural and maritime character. |
+| Significance | 8.4 | Regional Portuguese and Moroccan heritage. |
+| Experience | 8.8 | Public urban exploration. |
+| Depth | 8.3 | Compact fortified town. |
+
+- Applicable categories: architecture:9.0, photography:9.2, culture:8.9, history:8.7.
+- Computed worldwide overall: 85.65/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-cape-spartel-hercules-caves — Cape Spartel and Caves of Hercules — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/cape-spartel-hercules-caves.yaml)
+- Action: new
+- Precise subject and limitations: Grouped coastal excursion with headland, lighthouse exterior and permitted cave visit. Point at lighthouse; separate cave admission and safe access conditional. No lighthouse tower entry assumed.
+- Location check: 35.79104, -5.92368; [published representative point](https://mapcarta.com/31907622), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmorocco.com/en/travel/tangier); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/todra-gorge](../../../countries/MA/sights/todra-gorge.yaml) | 9.1 / 8.8 / 8.4 / 8.9 / 8.1 | significance: -0.3 vs peer; impact: -0.3 vs peer. |
+| [DZ/beni-add-cave](../../../countries/DZ/sights/beni-add-cave.yaml) | 8.8 / 8.6 / 7.9 / 8.8 / 8.3 | significance: +0.2 vs peer; experience: -0.1 vs peer. |
+| [TN/tabarka-needles](../../../countries/TN/sights/tabarka-needles.yaml) | 8.7 / 8.4 / 7.7 / 8.5 / 7.8 | significance: +0.4 vs peer; depth: +0.4 vs peer. |
+| [TN/el-haouaria-quarries](../../../countries/TN/sights/el-haouaria-quarries.yaml) | 8.5 / 9.0 / 8.9 / 8.0 / 7.9 | significance: -0.8 vs peer; experience: +0.7 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Dramatic headland and sea cave. |
+| Uniqueness | 8.6 | Distinct strait and Atlantic setting. |
+| Significance | 8.1 | Regional maritime and cultural heritage. |
+| Experience | 8.7 | Scenic coastal excursion. |
+| Depth | 8.2 | Two principal visitor sites. |
+
+- Applicable categories: nature:8.9, photography:9.2, history:8.6.
+- Computed worldwide overall: 85.35/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-yves-saint-laurent-museum — Yves Saint Laurent Museum Marrakech — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/yves-saint-laurent-museum.yaml)
+- Action: new
+- Precise subject and limitations: Separate fashion museum with dedicated admission, not Majorelle Garden or Berber museum. Exhibitions may rotate; current ticket arrangements require confirmation.
+- Location check: 31.64255, -8.00327; [published representative point](https://mapcarta.com/W672043449), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.museeyslmarrakech.com/en/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/majorelle-garden](../../../countries/MA/sights/majorelle-garden.yaml) | 8.8 / 8.8 / 8.5 / 8.5 / 7.6 | depth: +0.7 vs peer; impact: -0.3 vs peer. |
+| [DZ/national-museum-fine-arts](../../../countries/DZ/sights/national-museum-fine-arts.yaml) | 8.3 / 8.5 / 8.7 / 8.5 / 8.7 | depth: -0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [TN/ennejma-ezzahra-palace](../../../countries/TN/sights/ennejma-ezzahra-palace.yaml) | 8.6 / 8.9 / 8.8 / 8.6 / 8.4 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | significance: -0.8 vs peer; depth: -0.8 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Distinct exhibition architecture and collections. |
+| Uniqueness | 8.8 | Dedicated fashion heritage focus. |
+| Significance | 8.6 | Important design heritage. |
+| Experience | 8.5 | Indoor museum experience. |
+| Depth | 8.3 | Focused collection and galleries. |
+
+- Applicable categories: culture:9.2, architecture:9.0, history:8.6.
+- Computed worldwide overall: 85.75/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-le-jardin-secret — Le Jardin Secret Marrakech — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/le-jardin-secret.yaml)
+- Action: new
+- Precise subject and limitations: Separate restored historic garden interiors, irrigation interpretation and pavilion precinct; not public medina streets. Ticket and tower access conditional (https://marrakechauthority.com/en/articles/billets-et-horaires-monuments-marrakech).
+- Location check: 31.63087, -7.98993; [published representative point](https://mapcarta.com/W448190360), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.finances.gov.ma/Marrakech2022/en/explore-marrakesh.aspx); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/majorelle-garden](../../../countries/MA/sights/majorelle-garden.yaml) | 8.8 / 8.8 / 8.5 / 8.5 / 7.6 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer. |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | impact: -0.6 vs peer; depth: -0.6 vs peer. |
+| [DZ/hamma-botanical-garden](../../../countries/DZ/sights/hamma-botanical-garden.yaml) | 8.8 / 8.6 / 8.5 / 8.9 / 8.8 | depth: -0.8 vs peer; impact: -0.4 vs peer. |
+| [TN/dar-el-annabi-museum](../../../countries/TN/sights/dar-el-annabi-museum.yaml) | 8.1 / 8.3 / 8.2 / 8.5 / 7.8 | impact: +0.3 vs peer; depth: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Attractive historic garden design. |
+| Uniqueness | 8.4 | Distinct restored garden precinct. |
+| Significance | 8.2 | Regional garden heritage. |
+| Experience | 8.7 | Calm focused garden walk. |
+| Depth | 8.0 | Compact garden and pavilions. |
+
+- Applicable categories: architecture:8.9, nature:8.7, relaxation:8.9, photography:9.0.
+- Computed worldwide overall: 83.65/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

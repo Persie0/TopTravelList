@@ -1,0 +1,17 @@
+id: sight-ma-ifrane-cedar-forest
+name: "Ifrane National Park and Azrou Cedar Forest"
+location:
+  country_code: MA
+  latitude: 33.42648
+  longitude: -5.15537
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.7
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    photography: 9.0
+    adventure: 8.8

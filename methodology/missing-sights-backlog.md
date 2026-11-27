@@ -726,3 +726,16 @@ Seven additions, 28 peer rows. Algeria 32 ranked / 42 total; ten prior unassesse
 - [x] DZ — El Ourit Waterfalls and Gorge: 79.60/100 (source-linked-unverified).
 
 Five additions, 20 peer rows. Algeria 37 ranked / 47 total; 22 additions across passes 63–65; ten prior unassessed unchanged. Cap Carbon explicitly lies within already rated Gouraya National Park (https://www.directionlalgerie.com/lieux/parc-national-de-gouraya); no separate duplicate. Tadrart Rouge remains deferred for possible overlap. El Ourit seasonal, Chréa wildlife not guaranteed. Current named high-priority discovery queue exhausted; mark done for this bounded queue, not exhaustive national coverage. Rotate to Morocco after checking its existing inventory. Full Python validation and independent corroboration pending.
+
+### Pass 66 — Moroccan northern heritage, cedar forest and Marrakech cultural attractions
+
+- [x] MA — Chefchaouen Blue Medina: 90.90/100 (source-linked-unverified).
+- [x] MA — Tangier Medina and Kasbah: 88.40/100 (source-linked-unverified).
+- [x] MA — Ifrane National Park and Azrou Cedar Forest: 87.20/100 (source-linked-unverified).
+- [x] MA — Saadian Tombs: 86.75/100 (source-linked-unverified).
+- [x] MA — Asilah Medina and Sea Walls: 85.65/100 (source-linked-unverified).
+- [x] MA — Cape Spartel and Caves of Hercules: 85.35/100 (source-linked-unverified).
+- [x] MA — Yves Saint Laurent Museum Marrakech: 85.75/100 (source-linked-unverified).
+- [x] MA — Le Jardin Secret Marrakech: 83.65/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Morocco 37 ranked / 45 total; eight prior unassessed unchanged. Official Morocco tourism regional and nature pages screened. Chefchaouen public streets distinct from existing ticketed kasbah. Cape Spartel and Hercules Caves grouped; YSL museum separately ticketed from Majorelle. Dar Si Said and Tiskiwin deferred due to reported renovation closures (https://marrakechauthority.com/en/articles/musees-de-marrakech). Next Skoura Amridil, Taourirt, Atlas Studios, Telouet (check restoration), Paradise Valley, Legzira, American Legation, Dar El Bacha and other substantial regional experiences. Full Python validation and independent corroboration pending.
