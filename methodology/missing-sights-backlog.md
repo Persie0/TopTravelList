@@ -1643,3 +1643,15 @@ Six additions, 24 peer rows. France 260 ranked / 271 total; 11 existing unassess
 - [x] FR — Bordeaux Saint-André Cathedral and Pey-Berland Tower: included in Bordeaux Port of the Moon (90.95) and cathedral component of Santiago routes (90.10); CMN confirms dual heritage coverage https://www.pey-berland.fr/en/decouvrir/pey-berland-tower-s-history. Standalone scoring deferred to overlap review rather than adding a duplicate now; no existing rescore.
 
 Six additions, 24 peer rows. France 266 ranked / 277 total; 11 existing unassessed unchanged. CAPC distinct from Bassins; Ville d’Hiver excludes private interiors; Cap Ferret excludes Dune du Pilat and restricted beach; Teich scoped to managed reserve; Saintes arena restoration not penalized. Next bounded screen: Saintes Abbaye aux Dames, Rochefort Transporter Bridge, Brouage fortified town, Talmont-sur-Gironde, Château de la Roche Courbon, Zoo de La Palmyre, and Mornac-sur-Seudre (scope and duplicate checks). Full Python validation pending.
+
+### Pass 141 — Saintes, Rochefort and Charente-Maritime
+
+- [x] FR — Abbaye aux Dames Saintes Romanesque Abbey and Music Centre: 88.20/100 (source-linked-unverified).
+- [x] FR — Rochefort Martrou Transporter Bridge and Crossing: 87.80/100 (source-linked-unverified).
+- [x] FR — Brouage Fortified Town and Halle aux Vivres: 89.10/100 (source-linked-unverified).
+- [x] FR — Talmont-sur-Gironde Historic Village and Estuary Cliffs: 87.75/100 (source-linked-unverified).
+- [x] FR — Château de la Roche Courbon Castle, Gardens and Prehistoric Caves: 89.05/100 (source-linked-unverified).
+- [x] FR — Zoo de La Palmyre Wildlife Park: 86.15/100 (source-linked-unverified).
+- [x] FR — Mornac-sur-Seudre Historic Village and Oyster Port: 85.85/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 273 ranked / 284 total; 11 existing unassessed unchanged. Transporter bridge independently scoped to engineering and crossing; broader Grand Site overlap flagged. Brouage citadel distinct from Rochefort arsenal; excludes marsh. Talmont excludes Meschers caves. Mornac excludes broader estuary. Next bounded screen: Meschers-sur-Gironde troglodyte caves, Barzan archaeological site (Fâ), Phare de la Coubre, Pons medieval keep and hospital scope check, Château de Jonzac, Marais de Brouage nature trails scope check, and Saintes Saint-Eutrope overlap check. Full Python validation pending.

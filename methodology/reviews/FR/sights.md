@@ -10379,3 +10379,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-saintes-abbaye-aux-dames — Abbaye aux Dames Saintes Romanesque Abbey and Music Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saintes-abbaye-aux-dames.yaml)
+- Action: new
+- Precise subject and limitations: Historic Benedictine women's abbey founded in 1047, with musical interpretation; excludes Saint-Eutrope and Roman amphitheatre.
+- Location check: 45.744671, -0.624796; [published representative point](https://www.outdooractive.com/en/poi/agglomeration-de-saintes/abbaye-aux-dames-la-cite-musicale/809830012/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://abbayeauxdames.org/preparez-votre-venue/); source excerpts inspected 2026-11-27. Historic Benedictine women's abbey founded in 1047, with musical interpretation; excludes Saint-Eutrope and Roman amphitheatre. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/abbaye-aux-dames](../../../countries/FR/sights/abbaye-aux-dames.yaml) | 8.7 / 8.9 / 9.1 / 8.6 / 8.5 | experience: +0.3 vs peer; significance: -0.2 vs peer. |
+| [FR/abbaye-nieul-autise](../../../countries/FR/sights/abbaye-nieul-autise.yaml) | 8.7 / 8.9 / 8.9 / 8.8 / 8.7 | experience: +0.1 vs peer; impact: +0.0 vs peer. |
+| [ES/santo-domingo-de-silos](../../../countries/ES/sights/santo-domingo-de-silos.yaml) | 8.8 / 8.9 / 9.0 / 8.6 / 8.4 | experience: +0.3 vs peer; depth: +0.3 vs peer. |
+| [PT/alcobaca](../../../countries/PT/sights/alcobaca.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 8.8 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Romanesque fabric. |
+| Uniqueness | 8.9 | Music-led monastic interpretation. |
+| Significance | 8.9 | Historic foundation. |
+| Experience | 8.9 | Sensory visitor circuit. |
+| Depth | 8.7 | Abbey and interpretation spaces. |
+
+- Applicable categories: architecture:9.2, history:9.2, culture:9.3, photography:9.0.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration and any parent-boundary ambiguity.
+
+
+## sight-fr-rochefort-transporter-bridge — Rochefort Martrou Transporter Bridge and Crossing — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rochefort-transporter-bridge.yaml)
+- Action: new
+- Precise subject and limitations: Specific surviving transporter bridge, gondola crossing and interpretation; within broader Grand Site but excludes arsenal and defensive forts. The 2002 tentative description concerns naval arsenal and forts (https://whc.unesco.org/en/tentativelists/1668/); boundary flag retained.
+- Location check: 45.91692, -0.96088; [published representative point](https://mapcarta.com/36024708), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.pont-transbordeur.fr/rochefort-transporter-bridge); source excerpts inspected 2026-11-27. Specific surviving transporter bridge, gondola crossing and interpretation; within broader Grand Site but excludes arsenal and defensive forts. The 2002 tentative description concerns naval arsenal and forts (https://whc.unesco.org/en/tentativelists/1668/); boundary flag retained. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/vizcaya-bridge](../../../countries/ES/sights/vizcaya-bridge.yaml) | 8.6 / 9.1 / 9.2 / 8.7 / 7.9 | significance: -0.3 vs peer; uniqueness: +0.1 vs peer. |
+| [GB/forth-bridge](../../../countries/GB/sights/forth-bridge.yaml) | 8.9 / 9.2 / 9.2 / 8.3 / 7.4 | depth: +0.6 vs peer; experience: +0.5 vs peer. |
+| [GB/ironbridge](../../../countries/GB/sights/ironbridge.yaml) | 8.5 / 8.9 / 9.2 / 8.8 / 8.7 | depth: -0.7 vs peer; uniqueness: +0.3 vs peer. |
+| [DE/rakotzbrucke](../../../countries/DE/sights/rakotzbrucke.yaml) | 8.6 / 8.5 / 7.8 / 8.1 / 7.3 | significance: +1.1 vs peer; uniqueness: +0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Metal structure. |
+| Uniqueness | 9.2 | Rare transporter type. |
+| Significance | 8.9 | Industrial heritage. |
+| Experience | 8.8 | Crossing and interpretation. |
+| Depth | 8.0 | Single structure. |
+
+- Applicable categories: architecture:9.3, history:9.1, photography:9.2, adventure:8.8.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration and any parent-boundary ambiguity.
+
+
+## sight-fr-brouage-fortified-town — Brouage Fortified Town and Halle aux Vivres — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/brouage-fortified-town.yaml)
+- Action: new
+- Precise subject and limitations: Salt-port citadel, ramparts and exhibition; historically competing arsenal rather than Rochefort naval arsenal itself (https://sites-vauban.org/en/resources/vauban-site/brouage); excludes surrounding marsh.
+- Location check: 45.86638, -1.07008; [published representative point](https://mapcarta.com/18405472), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brouage-tourisme.fr/les-visites-guidees); source excerpts inspected 2026-11-27. Salt-port citadel, ramparts and exhibition; historically competing arsenal rather than Rochefort naval arsenal itself (https://sites-vauban.org/en/resources/vauban-site/brouage); excludes surrounding marsh. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/carcassonne-core](../../../countries/FR/sights/carcassonne-core.yaml) | 9.4 / 9.2 / 9.2 / 9.1 / 8.9 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer. |
+| [FR/clisson-historic-town](../../../countries/FR/sights/clisson-historic-town.yaml) | 8.9 / 8.9 / 8.8 / 9.0 / 8.9 | significance: +0.2 vs peer; experience: -0.1 vs peer. |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | significance: +0.2 vs peer; impact: -0.1 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | significance: +0.2 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Preserved fortified settlement. |
+| Uniqueness | 8.9 | Salt-port layout. |
+| Significance | 9.0 | Maritime and military heritage. |
+| Experience | 8.9 | Rampart walks. |
+| Depth | 8.8 | Town fabric and exhibition. |
+
+- Applicable categories: architecture:9.3, history:9.3, photography:9.2, culture:9.1.
+- Computed worldwide overall: 89.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration and any parent-boundary ambiguity.
+
+
+## sight-fr-talmont-sur-gironde — Talmont-sur-Gironde Historic Village and Estuary Cliffs — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/talmont-sur-gironde.yaml)
+- Action: new
+- Precise subject and limitations: Village, Sainte-Radegonde church and immediate cliffside views; excludes Meschers caves and general estuary cruises.
+- Location check: 45.534916, -0.907786; [published representative point](https://mapcarta.com/18292626), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.outdooractive.com/fr/poi/royan-atlantique/village-de-talmont-sur-gironde/807054828/); source excerpts inspected 2026-11-27. Village, Sainte-Radegonde church and immediate cliffside views; excludes Meschers caves and general estuary cruises. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/locronan](../../../countries/FR/sights/locronan.yaml) | 8.8 / 8.8 / 8.8 / 8.9 / 8.4 | significance: -0.2 vs peer; impact: +0.1 vs peer. |
+| [ES/cadaques-historic-waterfront](../../../countries/ES/sights/cadaques-historic-waterfront.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 8.5 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer. |
+| [ES/santillana-del-mar](../../../countries/ES/sights/santillana-del-mar.yaml) | 8.7 / 8.6 / 8.9 / 8.8 / 8.5 | significance: -0.3 vs peer; impact: +0.2 vs peer. |
+| [NL/marken](../../../countries/NL/sights/marken.yaml) | 8.2 / 8.5 / 7.9 / 8.4 / 7.3 | depth: +1.2 vs peer; impact: +0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Cliffside church. |
+| Uniqueness | 8.8 | Compact coastal settlement. |
+| Significance | 8.6 | Regional medieval heritage. |
+| Experience | 8.9 | Walkable streets and overlooks. |
+| Depth | 8.5 | Compact village and short walks. |
+
+- Applicable categories: architecture:9.2, photography:9.3, history:9.1, relaxation:9.1.
+- Computed worldwide overall: 87.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration and any parent-boundary ambiguity.
+
+
+## sight-fr-chateau-roche-courbon — Château de la Roche Courbon Castle, Gardens and Prehistoric Caves — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-roche-courbon.yaml)
+- Action: new
+- Precise subject and limitations: Integrated estate visit, guided interiors, formal gardens and prehistoric caves; no independent cave-art claim.
+- Location check: 45.8362, -0.7819; [published representative point](https://www.larochecourbon.fr/en/coming-chateau-roche-courbon-charente-maritime), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.larochecourbon.fr/en/opening-times-castle-roche-courbon-charente-maritime); source excerpts inspected 2026-11-27. Integrated estate visit, guided interiors, formal gardens and prehistoric caves; no independent cave-art claim. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-villandry](../../../countries/FR/sights/chateau-villandry.yaml) | 9.2 / 9.3 / 8.9 / 9.2 / 9.1 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [FR/chateau-serrant](../../../countries/FR/sights/chateau-serrant.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.9 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [IT/miramare-castle](../../../countries/IT/sights/miramare-castle.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.7 | depth: +0.3 vs peer; impact: -0.1 vs peer. |
+| [CZ/lednice-chateau](../../../countries/CZ/sights/lednice-chateau.yaml) | 8.9 / 8.9 / 8.8 / 8.9 / 8.6 | depth: +0.4 vs peer; experience: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Formal gardens and castle. |
+| Uniqueness | 8.9 | Estate and prehistory combination. |
+| Significance | 8.8 | Regional heritage. |
+| Experience | 9.0 | Multi-part visit. |
+| Depth | 9.0 | Interiors gardens caves and interpretation. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.3, culture:9.1, nature:9.0.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration and any parent-boundary ambiguity.
+
+
+## sight-fr-zoo-la-palmyre — Zoo de La Palmyre Wildlife Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/zoo-la-palmyre.yaml)
+- Action: new
+- Precise subject and limitations: Managed zoo in 18-hectare pine forest; no wild-safari equivalence or unsupported animal welfare claim.
+- Location check: 45.686739, -1.164917; [published representative point](https://www.outdooractive.com/en/poi/royan-atlantique/zoo-de-la-palmyre/807055278/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.zoo-palmyre.fr/en); source excerpts inspected 2026-11-27. Managed zoo in 18-hectare pine forest; no wild-safari equivalence or unsupported animal welfare claim. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/bioparc-doue](../../../countries/FR/sights/bioparc-doue.yaml) | 9.0 / 9.2 / 8.3 / 9.1 / 9.1 | uniqueness: -0.7 vs peer; impact: -0.3 vs peer. |
+| [SG/singapore-zoo](../../../countries/SG/sights/singapore-zoo.yaml) | 9.0 / 8.9 / 8.1 / 9.2 / 9.2 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [SG/night-safari](../../../countries/SG/sights/night-safari.yaml) | 8.9 / 9.3 / 7.9 / 9.1 / 8.8 | uniqueness: -0.8 vs peer; significance: +0.3 vs peer. |
+| [IT/genoa-aquarium](../../../countries/IT/sights/genoa-aquarium.yaml) | 8.7 / 8.4 / 8.3 / 9.0 / 8.9 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Forested animal viewing. |
+| Uniqueness | 8.5 | Less singular than troglodyte or nocturnal peers. |
+| Significance | 8.2 | Managed collection. |
+| Experience | 9.0 | Multi-hour family circuit. |
+| Depth | 8.9 | Extensive grounds. |
+
+- Applicable categories: wildlife:9.2, family:9.3, nature:8.9, photography:8.9.
+- Computed worldwide overall: 86.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration and any parent-boundary ambiguity.
+
+
+## sight-fr-mornac-sur-seudre — Mornac-sur-Seudre Historic Village and Oyster Port — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/mornac-sur-seudre.yaml)
+- Action: new
+- Precise subject and limitations: Historic streets, artisan quarter, oyster port and immediate marsh views; excludes broader Seudre estuary.
+- Location check: 45.717175, -1.01683; [published representative point](https://www.outdooractive.com/en/poi/royan-atlantique/point-de-vue-le-port-de-mornac-sur-seudre/807055677/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.les-plus-beaux-villages-de-france.org/en/our-villages/mornac-sur-seudre/); source excerpts inspected 2026-11-27. Historic streets, artisan quarter, oyster port and immediate marsh views; excludes broader Seudre estuary. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/rochefort-en-terre](../../../countries/FR/sights/rochefort-en-terre.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.2 | impact: -0.2 vs peer; depth: +0.2 vs peer. |
+| [FR/pont-aven-riverside](../../../countries/FR/sights/pont-aven-riverside.yaml) | 8.5 / 8.7 / 8.8 / 8.9 / 8.5 | significance: -0.3 vs peer; experience: -0.1 vs peer. |
+| [ES/cadaques-historic-waterfront](../../../countries/ES/sights/cadaques-historic-waterfront.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 8.5 | impact: -0.4 vs peer; experience: -0.2 vs peer. |
+| [NL/marken](../../../countries/NL/sights/marken.yaml) | 8.2 / 8.5 / 7.9 / 8.4 / 7.3 | depth: +1.1 vs peer; significance: +0.6 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Traditional streets and port. |
+| Uniqueness | 8.7 | Oyster and craft character. |
+| Significance | 8.5 | Regional maritime heritage. |
+| Experience | 8.8 | Walkable waterside circuit. |
+| Depth | 8.4 | Compact settlement. |
+
+- Applicable categories: photography:9.1, architecture:9.0, culture:9.0, relaxation:9.1, history:8.9.
+- Computed worldwide overall: 85.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration and any parent-boundary ambiguity.
