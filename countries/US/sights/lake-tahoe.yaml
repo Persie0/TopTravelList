@@ -1,0 +1,17 @@
+id: sight-us-lake-tahoe
+name: "Lake Tahoe Shoreline, Emerald Bay and Basin Trails"
+location:
+  country_code: US
+  latitude: 39.096
+  longitude: -120.032
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    photography: 9.4
+    relaxation: 9.3
+    adventure: 9.3

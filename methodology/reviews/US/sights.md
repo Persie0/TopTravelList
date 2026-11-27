@@ -6760,3 +6760,466 @@ Ranking rows checked; independent factual, coordinate, peer YAML and internation
 
 Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
 
+## sight-us-havasupai-falls — Havasupai Canyon Waterfalls and Tribal Lands Trek — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/havasupai-falls.yaml)
+- Action: new
+- Scope: Havasu, Mooney and other permitted Havasupai waterfalls combined. NPS confirms reservation outside national park jurisdiction. Tribal permits and overnight arrangements required; no assumed day access.
+- Representative coordinates: 36.255, -112.698; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.1 / 9.3 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.4,culture:9.2.
+- Overall: 92.95/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/grca/planyourvisit/havasupai.htm?_bhlid=88d57e9d20fc17d6b729af6bb9f9ed93a9077e81 ; https://www.visitarizona.com/like-a-local/a-guide-to-visiting-havasu-falls-the-right-way ; https://havasupaireservations.com/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | 10.0 / 9.7 / 9.6 / 9.4 / 9.6 | impact: -0.6 vs peer; significance: -0.5 vs peer |
+| [US/upper-antelope-canyon](../../../countries/US/sights/upper-antelope-canyon.yaml) | 9.4 / 9.3 / 8.3 / 8.6 / 7.8 | depth: +1.3 vs peer; significance: +0.8 vs peer |
+| [US/vermilion-cliffs](../../../countries/US/sights/vermilion-cliffs.yaml) | 9.5 / 9.4 / 8.8 / 9.2 / 9.1 | significance: +0.3 vs peer; impact: -0.1 vs peer |
+| [US/canyon-de-chelly](../../../countries/US/sights/canyon-de-chelly.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.1 | significance: -0.3 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-boundary-waters — Boundary Waters Canoe Area Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/boundary-waters.yaml)
+- Action: new
+- Scope: Over one million acres of lake-land wilderness with interconnected canoe routes. Separate from adjacent Voyageurs and Canadian Quetico; representative inland wilderness point.
+- Representative coordinates: 48.0, -91.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.1 / 9.1 / 9.2.
+- Categories: nature:9.4,adventure:9.4,wildlife:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.recreation.gov/permits/233396 ; https://www.conservationfund.org/our-impact/projects/preserving-minnesotas-treasured-boundary-waters/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/voyageurs](../../../countries/US/sights/voyageurs.yaml) | 8.8 / 8.9 / 8.6 / 9.0 / 9.0 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+| [US/isle-royale](../../../countries/US/sights/isle-royale.yaml) | 9.0 / 9.1 / 9.0 / 9.0 / 9.2 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/gates-of-the-arctic](../../../countries/US/sights/gates-of-the-arctic.yaml) | 9.3 / 9.4 / 9.2 / 8.6 / 9.1 | experience: +0.5 vs peer; impact: -0.2 vs peer |
+| [US/apostle-islands](../../../countries/US/sights/apostle-islands.yaml) | 9.1 / 9.3 / 9.0 / 9.2 / 9.1 | significance: +0.1 vs peer; experience: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sedona-red-rock — Sedona Red Rock Country and Oak Creek Canyon Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sedona-red-rock.yaml)
+- Action: new
+- Scope: Red rock formations and nearby trail network grouped, including Cathedral Rock, Bell Rock and Oak Creek Canyon; no individual viewpoints or hikes added.
+- Representative coordinates: 34.86, -111.79; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.6 / 9.3 / 9.2.
+- Categories: nature:9.4,photography:9.4,adventure:9.4.
+- Overall: 91.00/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://visitsedona.com/outdoor-adventure/ ; https://visitsedona.com/trip-planning/red-rock-pass-program-qa/ ; https://visitsedona.com/outdoor-adventure/our-box-o-maps/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/monument-valley-navajo-tribal-park](../../../countries/US/sights/monument-valley-navajo-tribal-park.yaml) | 9.4 / 9.3 / 8.8 / 9.0 / 8.6 | depth: +0.6 vs peer; experience: +0.3 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | experience: +0.5 vs peer; impact: +0.1 vs peer |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | depth: +0.4 vs peer; experience: +0.3 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | depth: +0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-columbia-gorge — Columbia River Gorge National Scenic Area Waterfall Corridor — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/columbia-gorge.yaml)
+- Action: new
+- Scope: Multnomah Falls and associated gorge waterfall trails and historic highway grouped; score covers the scenic corridor rather than separate individual falls; coordinate representative Multnomah Falls.
+- Representative coordinates: 45.576, -122.116; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.8 / 9.2 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.nps.gov/places/multnomah-falls-and-lodge.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/pictured-rocks](../../../countries/US/sights/pictured-rocks.yaml) | 9.2 / 9.1 / 8.7 / 9.2 / 9.0 | uniqueness: -0.1 vs peer; significance: +0.1 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/mount-st-helens](../../../countries/US/sights/mount-st-helens.yaml) | 9.3 / 9.4 / 9.4 / 9.0 / 9.2 | significance: -0.6 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-sawtooth-nra — Sawtooth National Recreation Area Alpine Lakes and Mountains — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/sawtooth-nra.yaml)
+- Action: new
+- Scope: Sawtooth NRA mountain and alpine lake hiking grouped, not entire national forest; approximate representative Stanley-area coordinate.
+- Representative coordinates: 44.1, -114.94; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.8 / 9.2 / 9.2.
+- Categories: nature:9.4,adventure:9.4,photography:9.4.
+- Overall: 90.65/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://visitidaho.org/things-to-do/natural-attractions/sawtooth-national-recreation-area/ ; https://visitsouthidaho.com/adventure/sawtooth-national-forest/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | uniqueness: +0.3 vs peer; impact: -0.2 vs peer |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | 9.1 / 8.5 / 8.7 / 9.1 / 9.0 | uniqueness: +0.6 vs peer; depth: +0.2 vs peer |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | 9.0 / 8.6 / 8.8 / 8.3 / 9.0 | experience: +0.9 vs peer; uniqueness: +0.5 vs peer |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | 9.4 / 9.2 / 9.0 / 9.1 / 9.3 | impact: -0.3 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-lake-tahoe — Lake Tahoe Shoreline, Emerald Bay and Basin Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lake-tahoe.yaml)
+- Action: new
+- Scope: Lake, shoreline and scenic trails grouped, including Emerald Bay; clarity degradation acknowledged, no pristine condition assumed. Separate ski resorts not assessed.
+- Representative coordinates: 39.096, -120.032; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.7 / 9.2 / 9.2.
+- Categories: nature:9.4,photography:9.4,relaxation:9.3,adventure:9.3.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.epa.gov/lake-tahoe/about ; https://www.parks.ca.gov/?page_id=506 ; https://visitlaketahoe.com/parks/emerald-bay/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/crater-lake-national-park](../../../countries/US/sights/crater-lake-national-park.yaml) | 9.1 / 8.9 / 8.7 / 8.8 / 8.4 | depth: +0.8 vs peer; experience: +0.4 vs peer |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+| [US/sleeping-bear-dunes](../../../countries/US/sights/sleeping-bear-dunes.yaml) | 9.1 / 9.0 / 8.6 / 9.1 / 8.9 | depth: +0.3 vs peer; impact: +0.1 vs peer |
+| [US/big-sur-coast](../../../countries/US/sights/big-sur-coast.yaml) | 9.1 / 8.7 / 8.3 / 9.0 / 8.9 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-enchantments — Alpine Lakes Wilderness Enchantments Trek Washington — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/enchantments.yaml)
+- Action: new
+- Scope: Distinct Alpine Lakes Wilderness hiking network and Enchantments route; outside North Cascades and Rainier national parks. Permit requirements separate from intrinsic merit.
+- Representative coordinates: 47.49, -120.82; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 8.7 / 9.1 / 9.1.
+- Categories: adventure:9.4,nature:9.4,photography:9.4.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://research.fs.usda.gov/treesearch/80472.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | 9.0 / 8.6 / 8.8 / 8.3 / 9.0 | experience: +0.8 vs peer; uniqueness: +0.5 vs peer |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | uniqueness: +0.4 vs peer; significance: -0.1 vs peer |
+| [US/glacier-national-park](../../../countries/US/sights/glacier-national-park.yaml) | 9.4 / 9.2 / 9.0 / 9.1 / 9.3 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | uniqueness: +0.3 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-maroon-bells — Maroon Bells Scenic Area and Snowmass Wilderness Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/maroon-bells.yaml)
+- Action: new
+- Scope: Maroon Lake and adjacent mountain scenery and hiking; no separate Four Pass Loop or summit score.
+- Representative coordinates: 39.07, -106.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 8.9 / 8.5 / 9.0 / 8.8.
+- Categories: nature:9.4,photography:9.4,adventure:9.3.
+- Overall: 89.15/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://aspenchamber.org/things-to-do/maroon-bells/maroon-bells-tips/ ; https://www.aspensnowmass.com/visit/activities/summer/maroon-bells.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-teton-national-park](../../../countries/US/sights/grand-teton-national-park.yaml) | 9.3 / 8.8 / 8.7 / 9.1 / 9.1 | depth: -0.3 vs peer; significance: -0.2 vs peer |
+| [US/rocky-mountain-national-park](../../../countries/US/sights/rocky-mountain-national-park.yaml) | 9.1 / 8.5 / 8.7 / 9.1 / 9.0 | uniqueness: +0.4 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mendenhall-glacier — Mendenhall Glacier Recreation Area and Nugget Falls — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mendenhall-glacier.yaml)
+- Action: new
+- Scope: Glacier viewing and nearby visitor trails, Nugget Falls included. Glacier retreat and dynamic hazards acknowledged; no ice-cave or direct glacier access assumed.
+- Representative coordinates: 58.42, -134.55; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 88.25/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.adfg.alaska.gov/index.cfm?adfg=southeastviewing.juneaumendenhallglacier ; https://www.alaska.org/detail/mendenhall-glacier ; https://www.mendenhallglacier.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | significance: -0.7 vs peer; impact: -0.6 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-flaming-gorge — Flaming Gorge National Recreation Area — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/flaming-gorge.yaml)
+- Action: new
+- Scope: Reservoir, red-rock canyon and permitted water recreation; separate from Dinosaur National Monument downstream.
+- Representative coordinates: 40.91, -109.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glen-canyon-national-recreation-area](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml) | 8.9 / 8.7 / 8.3 / 8.8 / 9.0 | depth: -0.3 vs peer; significance: +0.2 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | impact: -0.4 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-bighorn-canyon — Bighorn Canyon National Recreation Area — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/bighorn-canyon.yaml)
+- Action: new
+- Scope: Canyon overlooks and boating grouped.
+- Representative coordinates: 45.31, -108.22; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/glen-canyon-national-recreation-area](../../../countries/US/sights/glen-canyon-national-recreation-area.yaml) | 8.9 / 8.7 / 8.3 / 8.8 / 9.0 | depth: -0.3 vs peer; significance: +0.2 vs peer |
+| [US/black-canyon-of-the-gunnison-national-park](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml) | 9.0 / 8.8 / 8.5 / 8.7 / 8.4 | depth: +0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-buffalo-national-river — Buffalo National River Ozark Paddling and Bluff Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/buffalo-national-river.yaml)
+- Action: new
+- Scope: Free-flowing river, limestone bluffs and paddling grouped.
+- Representative coordinates: 36.05, -92.84; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 9.0 / 8.9.
+- Categories: nature:9.3,adventure:9.3,photography:9.2.
+- Overall: 88.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [US/congaree](../../../countries/US/sights/congaree.yaml) | 8.6 / 8.9 / 8.8 / 8.7 / 8.7 | experience: +0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-red-river-gorge — Red River Gorge Geological Area Kentucky — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/red-river-gorge.yaml)
+- Action: new
+- Scope: Sandstone arches and climbing trails, adjacent Natural Bridge State Resort Park grouped for scope.
+- Representative coordinates: 37.82, -83.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.0 / 8.9.
+- Categories: adventure:9.4,nature:9.3,photography:9.3.
+- Overall: 88.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/natural-bridges](../../../countries/US/sights/natural-bridges.yaml) | 9.0 / 9.1 / 8.8 / 9.0 / 8.8 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | significance: -0.2 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-newberry-volcanic — Newberry National Volcanic Monument — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/newberry-volcanic.yaml)
+- Action: new
+- Scope: Caldera lakes, obsidian flows, lava tube and associated volcanic features grouped.
+- Representative coordinates: 43.72, -121.25; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.8 / 8.9 / 8.9.
+- Categories: nature:9.3,adventure:9.3,photography:9.3.
+- Overall: 89.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/craters-of-the-moon](../../../countries/US/sights/craters-of-the-moon.yaml) | 9.0 / 9.3 / 9.1 / 9.0 / 9.1 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mount-hood — Mount Hood Alpine Landscape and Timberline Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mount-hood.yaml)
+- Action: new
+- Scope: Distinct mountain and associated trail scenery; ski resorts excluded.
+- Representative coordinates: 45.37, -121.7; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 9.0 / 8.9.
+- Categories: nature:9.4,photography:9.3,adventure:9.3.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | 9.0 / 8.6 / 8.8 / 8.3 / 9.0 | experience: +0.7 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-mount-shasta — Mount Shasta Summit and Alpine Trails — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mount-shasta.yaml)
+- Action: new
+- Scope: Separate volcanic massif and wilderness hikes; summit requires appropriate competence.
+- Representative coordinates: 41.41, -122.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.5 / 8.8 / 8.8.
+- Categories: nature:9.3,adventure:9.3,photography:9.3.
+- Overall: 88.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-rainier-national-park](../../../countries/US/sights/mount-rainier-national-park.yaml) | 9.2 / 8.7 / 8.8 / 9.1 / 9.1 | significance: -0.3 vs peer; experience: -0.3 vs peer |
+| [US/lassen-volcanic-national-park](../../../countries/US/sights/lassen-volcanic-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.8 / 8.8 | significance: -0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-hells-canyon — Hells Canyon National Recreation Area Snake River Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hells-canyon.yaml)
+- Action: new
+- Scope: River canyon and permitted boat trips, hikes and viewpoints combined.
+- Representative coordinates: 45.32, -116.64; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.7 / 8.9 / 9.0.
+- Categories: nature:9.3,adventure:9.4,photography:9.3.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/grand-canyon-national-park](../../../countries/US/sights/grand-canyon-national-park.yaml) | 10.0 / 9.7 / 9.6 / 9.4 / 9.6 | impact: -1.0 vs peer; significance: -0.9 vs peer |
+| [US/new-river-gorge](../../../countries/US/sights/new-river-gorge.yaml) | 8.9 / 8.8 / 8.7 / 9.2 / 9.0 | experience: -0.3 vs peer; impact: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-custer-state-park — Custer State Park Needles Highway and Bison Wildlife Loop — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/custer-state-park.yaml)
+- Action: new
+- Scope: State park landscapes, bison and scenic roads grouped; excludes Wind Cave and Mount Rushmore.
+- Representative coordinates: 43.76, -103.38; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.7 / 9.0 / 9.0.
+- Categories: wildlife:9.4,nature:9.3,photography:9.3.
+- Overall: 88.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | depth: +0.5 vs peer; experience: +0.4 vs peer |
+| [US/theodore-roosevelt](../../../countries/US/sights/theodore-roosevelt.yaml) | 8.8 / 8.7 / 8.7 / 8.8 / 8.8 | experience: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-valley-of-fire — Valley of Fire State Park Sandstone Formations — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/valley-of-fire.yaml)
+- Action: new
+- Scope: Red sandstone, Fire Wave, trails and permitted petroglyph viewing grouped.
+- Representative coordinates: 36.43, -114.51; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.5 / 9.0 / 8.7.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 89.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/vermilion-cliffs](../../../countries/US/sights/vermilion-cliffs.yaml) | 9.5 / 9.4 / 8.8 / 9.2 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-goblin-valley — Goblin Valley State Park Hoodoo Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/goblin-valley.yaml)
+- Action: new
+- Scope: Distinct hoodoo landscape and local trails; no neighboring slot canyon credit.
+- Representative coordinates: 38.57, -110.7; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 8.4 / 8.9 / 8.6.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 88.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/chiricahua](../../../countries/US/sights/chiricahua.yaml) | 9.1 / 9.2 / 8.7 / 9.0 / 8.8 | significance: -0.3 vs peer; impact: -0.2 vs peer |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | impact: -0.5 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-palo-duro-canyon — Palo Duro Canyon State Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/palo-duro-canyon.yaml)
+- Action: new
+- Scope: Texas canyon landscapes and trails grouped.
+- Representative coordinates: 34.95, -101.66; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.5 / 8.9 / 8.8.
+- Categories: nature:9.3,photography:9.3,adventure:9.2.
+- Overall: 87.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-bend](../../../countries/US/sights/big-bend.yaml) | 8.8 / 8.7 / 8.8 / 8.8 / 9.0 | significance: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

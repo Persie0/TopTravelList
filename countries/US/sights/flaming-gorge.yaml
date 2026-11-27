@@ -1,0 +1,16 @@
+id: sight-us-flaming-gorge
+name: "Flaming Gorge National Recreation Area"
+location:
+  country_code: US
+  latitude: 40.91
+  longitude: -109.54
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.2

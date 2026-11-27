@@ -2968,3 +2968,30 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Canaveral National Seashore: 86.20/100 (desk-based provisional).
 
 22 additions, 10 desk-based provisional, 12 source-informed, 6 90+, 56 domestic ranking-row comparisons. United States 219 ranked / 219 total. All 10 national seashores and 3 national lakeshores represented by one record per unit, compared against NPS inventory https://www.nps.gov/aboutus/national-park-system.htm . Muir Woods geographically distinct from Redwood National and State Parks; no duplicate Golden Gate NRA umbrella. Seasonal wildlife, ice caves, superblooms and access not guaranteed. Existing scores retained. Next: remaining monuments, recreation areas and major regional natural attractions. Full Python validation pending.
+
+
+### Pass 186 — US regional natural attractions and recreation areas
+
+- [x] US — Havasupai Canyon Waterfalls and Tribal Lands Trek: 92.95/100 (source-linked-unverified).
+- [x] US — Boundary Waters Canoe Area Wilderness: 91.60/100 (source-linked-unverified).
+- [x] US — Sedona Red Rock Country and Oak Creek Canyon Trails: 91.00/100 (source-linked-unverified).
+- [x] US — Columbia River Gorge National Scenic Area Waterfall Corridor: 90.60/100 (source-linked-unverified).
+- [x] US — Sawtooth National Recreation Area Alpine Lakes and Mountains: 90.65/100 (source-linked-unverified).
+- [x] US — Lake Tahoe Shoreline, Emerald Bay and Basin Trails: 90.50/100 (source-linked-unverified).
+- [x] US — Alpine Lakes Wilderness Enchantments Trek Washington: 90.50/100 (source-linked-unverified).
+- [x] US — Maroon Bells Scenic Area and Snowmass Wilderness Trails: 89.15/100 (source-linked-unverified).
+- [x] US — Mendenhall Glacier Recreation Area and Nugget Falls: 88.25/100 (source-linked-unverified).
+- [x] US — Flaming Gorge National Recreation Area: 87.45/100 (desk-based provisional).
+- [x] US — Bighorn Canyon National Recreation Area: 87.30/100 (desk-based provisional).
+- [x] US — Buffalo National River Ozark Paddling and Bluff Trails: 88.65/100 (desk-based provisional).
+- [x] US — Red River Gorge Geological Area Kentucky: 88.35/100 (desk-based provisional).
+- [x] US — Newberry National Volcanic Monument: 89.05/100 (desk-based provisional).
+- [x] US — Mount Hood Alpine Landscape and Timberline Trails: 88.60/100 (desk-based provisional).
+- [x] US — Mount Shasta Summit and Alpine Trails: 88.25/100 (desk-based provisional).
+- [x] US — Hells Canyon National Recreation Area Snake River Gorge: 89.00/100 (desk-based provisional).
+- [x] US — Custer State Park Needles Highway and Bison Wildlife Loop: 88.60/100 (desk-based provisional).
+- [x] US — Valley of Fire State Park Sandstone Formations: 89.00/100 (desk-based provisional).
+- [x] US — Goblin Valley State Park Hoodoo Landscape: 88.20/100 (desk-based provisional).
+- [x] US — Palo Duro Canyon State Park: 87.30/100 (desk-based provisional).
+
+21 additions, 12 desk-based provisional, 9 source-informed, 7 90+, 56 domestic ranking-row comparisons. United States 240 ranked / 240 total. Havasupai tribal lands distinct from Grand Canyon NP per NPS; Boundary Waters separate from Voyageurs; Cathedral Rock and Bell Rock grouped under Sedona; Multnomah Falls grouped under Columbia Gorge; Emerald Bay grouped under Tahoe. Dead Horse Point deferred for overlapping Canyonlands views and Bears Ears remains deferred for precise scope. Existing scores retained. Next: remaining major natural monuments, recreation areas and historical/cultural sites. Full Python validation pending.
