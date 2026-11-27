@@ -3886,3 +3886,25 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Canada Aviation and Space Museum Ottawa: 88.10/100 (desk-based provisional).
 
 19 additions, 7 desk-based provisional, 12 source-linked, 9 90+, 45 ranking-row comparisons including 7 international. CA 145 ranked / 148 total. Bonaventure and Percé rock grouped; Witless Bay authorized boat viewing only. East Coast Trail excludes existing Cape Spear and Signal Hill visits, non-additive geographical overlap. Forillon includes adjacent marine excursions, no separate duplicate. Green Gables literary heritage separate from coastal park. Grand Manan/Passamaquoddy whale departures grouped. Stratford and TIFF public performances/screenings, not guaranteed future programmes. Hautes-Gorges seasonal Acropole closure noted. Prior three unassessed and old scores preserved. Actual indexed excerpts retrieved for new 90+ ratings; GPS and current conditions not independently verified. Earlier review entries' evidence labels not independently revalidated; separate evidence audit necessary. Next: major urban collections, outdoor and cultural experiences across remaining Canadian regions.
+
+### Pass 225 — Canada urban collections and distinctive experiences
+
+- [x] CA — Winnipeg Art Gallery and Qaumajuq Inuit Art Centre: 92.95/100 (source-linked-unverified).
+- [x] CA — Aga Khan Museum Toronto: 91.30/100 (source-linked-unverified).
+- [x] CA — Toronto Caribbean Carnival: 91.60/100 (source-linked-unverified).
+- [x] CA — Lake Superior National Marine Conservation Area Guided Paddling: 90.90/100 (source-linked-unverified).
+- [x] CA — Grosse Île and Irish Memorial National Historic Site: 89.95/100 (source-linked-unverified).
+- [x] CA — Tofino Cox Bay and Chesterman Beach Surfing and Storm Watching: 88.05/100 (source-linked-unverified).
+- [x] CA — Wendake Huron-Wendat Traditional Site and Cultural Interpretation: 88.40/100 (source-linked-unverified).
+- [x] CA — Georgian Bay Islands National Park: 87.75/100 (source-linked-unverified).
+- [x] CA — The Forks National Historic Site Winnipeg: 87.00/100 (desk-based provisional).
+- [x] CA — Canadian Tulip Festival Ottawa: 86.40/100 (desk-based provisional).
+- [x] CA — FortWhyte Alive Prairie and Bison Education Winnipeg: 85.55/100 (desk-based provisional).
+- [x] CA — Lake Superior Provincial Park Coastal Trails and Agawa Heritage: 88.50/100 (desk-based provisional).
+- [x] CA — Toronto Distillery Historic District: 85.95/100 (desk-based provisional).
+- [x] CA — Casa Loma Toronto: 86.05/100 (desk-based provisional).
+- [x] CA — Science World Vancouver: 85.85/100 (desk-based provisional).
+- [x] CA — Royal BC Museum Victoria: 88.30/100 (desk-based provisional).
+- [x] CA — Sainte-Marie among the Hurons Midland: 87.65/100 (desk-based provisional).
+
+17 additions, 9 desk-based provisional, 8 source-linked, 4 90+, 37 ranking-row comparisons including 3 international. CA 162 ranked / 165 total. Qaumajuq integrated with Winnipeg Art Gallery; The Forks excludes human rights museum. Tofino municipal Cox Bay/Chesterman only, excludes Pacific Rim beaches. Lake Superior NMCA separate from Pukaskwa and provincial park. Kluane flightseeing and Alsek rafting deferred as existing park activities (https://parks.canada.ca/pn-np/yt/kluane/activ), cross-border river scope requires separate review. Current exhibition schedules, access and GPS not verified. Existing scores and three unassessed entries preserved. Earlier evidence claims not independently revalidated. Regional screen remains open. Next: remaining national park and regional high-priority omissions.

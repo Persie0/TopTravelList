@@ -4273,3 +4273,374 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 224 scope decisions
 
 Bonaventure and Percé rock grouped; Witless Bay authorized boat viewing only. East Coast Trail excludes existing Cape Spear and Signal Hill visits, non-additive geographical overlap. Forillon includes adjacent marine excursions, no separate duplicate. Green Gables literary heritage separate from coastal park. Grand Manan/Passamaquoddy whale departures grouped. Stratford and TIFF public performances/screenings, not guaranteed future programmes. Hautes-Gorges seasonal Acropole closure noted. Prior three unassessed and old scores preserved. Actual indexed excerpts retrieved for new 90+ ratings; GPS and current conditions not independently verified. Earlier review entries' evidence labels not independently revalidated; separate evidence audit necessary.
+
+## sight-ca-wag-qaumajuq — Winnipeg Art Gallery and Qaumajuq Inuit Art Centre — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/wag-qaumajuq.yaml)
+- Action: new
+- Scope: Integrated art museum and Inuit art centre, not separate buildings. Museum documents over 27,000 works and world's largest public contemporary Inuit art collection; visible vault displays nearly 5,000 stone carvings.
+- Representative coordinates: 49.889, -97.15; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.1 / 9.4.
+- Categories: culture:9.4 history:9.4 architecture:9.3.
+- Overall: 92.95/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://www.wag.ca/about/wag-qaumajuq/, https://www.wag.ca/art/visible-vault/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/museum-anthropology-ubc](../../../countries/CA/sights/museum-anthropology-ubc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/haida-heritage-centre](../../../countries/CA/sights/haida-heritage-centre.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-aga-khan-museum — Aga Khan Museum Toronto — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/aga-khan-museum.yaml)
+- Action: new
+- Scope: Art and material heritage from Muslim civilizations, including more than 1,200 permanent collection objects spanning the ninth to twenty-first centuries, not all displayed.
+- Representative coordinates: 43.725, -79.333; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.0 / 9.2.
+- Categories: culture:9.4 history:9.3 architecture:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://agakhanmuseum.org/about/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+| [CA/national-gallery](../../../countries/CA/sights/national-gallery.yaml) | 8.9 / 8.8 / 9.1 / 8.9 / 9.2 | uniqueness: +0.4 vs peer; significance: +0.2 vs peer |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | experience: -0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-toronto-caribbean-carnival — Toronto Caribbean Carnival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/toronto-caribbean-carnival.yaml)
+- Action: new
+- Scope: Recurring public Caribbean cultural festival and parade since 1967, with performances and costume traditions grouped; venue representative, no future dates assumed.
+- Representative coordinates: 43.634, -79.419; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.1 / 9.3 / 9.1.
+- Categories: culture:9.4 nightlife:9.3 photography:9.3.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://torontocarnival.ca/about-us/, https://torontocarnival.ca/our-history/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | uniqueness: -0.2 vs peer; significance: -0.1 vs peer |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-lake-superior-nmca — Lake Superior National Marine Conservation Area Guided Paddling — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/lake-superior-nmca.yaml)
+- Action: new
+- Scope: Named northern Lake Superior marine area, guided kayaking and paddling grouped, distinct from Pukaskwa land park. Parks Canada documents guided kayaking and voyageur canoe excursions. Regional proxy; weather dependent.
+- Representative coordinates: 48.83, -87.23; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.0 / 9.1 / 9.2.
+- Categories: nature:9.4 adventure:9.3 photography:9.3.
+- Overall: 90.90/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/amnc-nmca/on/super/activ/guidees-guided, https://parks.canada.ca/amnc-nmca/on/super/activ/experiences/kayak?wbdisable=true.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pukaskwa](../../../countries/CA/sights/pukaskwa.yaml) | 8.9 / 8.8 / 8.6 / 8.8 / 9.0 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [CA/fathom-five](../../../countries/CA/sights/fathom-five.yaml) | 9.0 / 9.1 / 9.0 / 9.1 / 9.1 | impact: +0.1 vs peer; depth: +0.1 vs peer |
+| [NZ/abel-tasman-national-park](../../../countries/NZ/sights/abel-tasman-national-park.yaml) | 8.9 / 8.6 / 8.1 / 9.1 / 8.9 | significance: +0.9 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-grosse-ile — Grosse Île and Irish Memorial National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/grosse-ile.yaml)
+- Action: new
+- Scope: Former quarantine station (1832–1937), public guided heritage and commemoration, distinct from Pier 21.
+- Representative coordinates: 47.04, -70.67; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 9.1 / 9.4 / 8.8 / 9.1.
+- Categories: history:9.4 culture:9.3 photography:9.0.
+- Overall: 89.95/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/culture/designation/lieu-site/grosse-ile, https://parks.canada.ca/lhn-nhs/qc/grosseile/visit.aspx.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pier-21](../../../countries/CA/sights/pier-21.yaml) | 8.8 / 9.0 / 9.4 / 9.0 / 9.1 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [CA/fortress-louisbourg](../../../countries/CA/sights/fortress-louisbourg.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-tofino-surf — Tofino Cox Bay and Chesterman Beach Surfing and Storm Watching — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/tofino-surf.yaml)
+- Action: new
+- Scope: Tofino municipal beach circuit only; exclude Pacific Rim National Park Reserve beaches including Long Beach and Wickaninnish. Storm observation from safe authorized vantage points, not entering surf during storms; separate guided surfing in suitable conditions.
+- Representative coordinates: 49.1, -125.87; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 9.1 / 8.9.
+- Categories: adventure:9.3 nature:9.3 photography:9.3.
+- Overall: 88.05/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://tourismtofino.com/activity/surfing/, https://tourismtofino.com/activity/storm-watching/, https://tourismtofino.com/about-tofino/beaches-parks/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | significance: -0.4 vs peer; uniqueness: +0.2 vs peer |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | significance: -0.7 vs peer; depth: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-wendake — Wendake Huron-Wendat Traditional Site and Cultural Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/wendake.yaml)
+- Action: new
+- Scope: Community-hosted public reconstructed village and cultural interpretation; not private ceremonies or whole reserve.
+- Representative coordinates: 46.86, -71.36; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.1 / 8.9 / 8.8.
+- Categories: culture:9.4 history:9.3 family:9.1.
+- Overall: 88.40/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://travel.destinationcanada.com/en-ca/things-to-do/12-ways-get-closer-indigenous-cultures-canada.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/haida-heritage-centre](../../../countries/CA/sights/haida-heritage-centre.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | impact: -0.4 vs peer; depth: -0.4 vs peer |
+| [CA/wanuskewin](../../../countries/CA/sights/wanuskewin.yaml) | 8.1 / 8.7 / 9.0 / 8.5 / 8.1 | depth: +0.7 vs peer; impact: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-georgian-bay-islands — Georgian Bay Islands National Park — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/georgian-bay-islands.yaml)
+- Action: new
+- Scope: Park islands and authorized boat-access trails, distinct from Fathom Five and Killarney. Regional location proxy.
+- Representative coordinates: 44.88, -79.87; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.2 adventure:9.2.
+- Overall: 87.75/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/on/georg.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fathom-five](../../../countries/CA/sights/fathom-five.yaml) | 9.0 / 9.1 / 9.0 / 9.1 / 9.1 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [CA/killarney-provincial](../../../countries/CA/sights/killarney-provincial.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-forks-winnipeg — The Forks National Historic Site Winnipeg — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/forks-winnipeg.yaml)
+- Action: new
+- Scope: Historic river confluence, public market and heritage interpretation, excludes separately ranked Canadian Museum for Human Rights.
+- Representative coordinates: 49.887, -97.131; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 9.0 / 8.8 / 8.8.
+- Categories: culture:9.2 history:9.2 food:9.1.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/granville-island](../../../countries/CA/sights/granville-island.yaml) | 8.1 / 8.2 / 7.8 / 8.8 / 8.7 | significance: +1.2 vs peer; impact: +0.4 vs peer |
+| [CA/old-montreal](../../../countries/CA/sights/old-montreal.yaml) | 8.8 / 8.6 / 8.9 / 9.0 / 8.9 | impact: -0.3 vs peer; experience: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-tulip-festival — Canadian Tulip Festival Ottawa — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-tulip-festival.yaml)
+- Action: new
+- Scope: Recurring public seasonal flower festival and Dutch-Canadian historical interpretation; excludes general Rideau Canal visits and guaranteed bloom dates.
+- Representative coordinates: 45.394, -75.704; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.7 / 8.8 / 8.5.
+- Categories: photography:9.3 culture:9.1 nature:9.1.
+- Overall: 86.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/quebec-winter-carnival](../../../countries/CA/sights/quebec-winter-carnival.yaml) | 9.0 / 9.2 / 9.0 / 9.2 / 9.0 | uniqueness: -0.6 vs peer; depth: -0.5 vs peer |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.4 vs peer; experience: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fortwhyte-alive — FortWhyte Alive Prairie and Bison Education Winnipeg — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fortwhyte-alive.yaml)
+- Action: new
+- Scope: Managed bison herd and wetland education, not wild free-ranging safari; distinct from Riding Mountain.
+- Representative coordinates: 49.823, -97.22; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.5 / 8.7 / 8.8.
+- Categories: wildlife:9.2 nature:9.1 family:9.2.
+- Overall: 85.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/riding-mountain](../../../countries/CA/sights/riding-mountain.yaml) | 8.7 / 8.7 / 8.8 / 8.8 / 9.0 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+| [CA/yukon-wildlife-preserve](../../../countries/CA/sights/yukon-wildlife-preserve.yaml) | 8.5 / 8.6 / 8.5 / 8.7 / 8.7 | impact: -0.1 vs peer; depth: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-lake-superior-provincial — Lake Superior Provincial Park Coastal Trails and Agawa Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/lake-superior-provincial.yaml)
+- Action: new
+- Scope: Park trails and authorized cultural interpretation including Agawa Rock area, no unsafe shore access or sensitive rock-art locations; distinct from northern NMCA and Pukaskwa.
+- Representative coordinates: 47.62, -84.85; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.8 / 8.8 / 9.0.
+- Categories: nature:9.3 adventure:9.3 history:9.2.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pukaskwa](../../../countries/CA/sights/pukaskwa.yaml) | 8.9 / 8.8 / 8.6 / 8.8 / 9.0 | significance: +0.2 vs peer; impact: +0.0 vs peer |
+| [CA/killarney-provincial](../../../countries/CA/sights/killarney-provincial.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | experience: -0.2 vs peer; significance: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-distillery-district — Toronto Distillery Historic District — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/distillery-district.yaml)
+- Action: new
+- Scope: Adapted industrial heritage precinct and public arts streets, not seasonal market as separate attraction.
+- Representative coordinates: 43.65, -79.359; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.7 / 8.8 / 8.6.
+- Categories: architecture:9.2 culture:9.1 history:9.1.
+- Overall: 85.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/old-montreal](../../../countries/CA/sights/old-montreal.yaml) | 8.8 / 8.6 / 8.9 / 9.0 / 8.9 | impact: -0.3 vs peer; depth: -0.3 vs peer |
+| [CA/granville-island](../../../countries/CA/sights/granville-island.yaml) | 8.1 / 8.2 / 7.8 / 8.8 / 8.7 | significance: +0.9 vs peer; impact: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-casa-loma — Casa Loma Toronto — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/casa-loma.yaml)
+- Action: new
+- Scope: Historic mansion, gardens and public interiors grouped.
+- Representative coordinates: 43.678, -79.409; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.6 / 8.8 / 8.6.
+- Categories: architecture:9.3 history:9.1 photography:9.1.
+- Overall: 86.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/parliament-hill](../../../countries/CA/sights/parliament-hill.yaml) | 8.8 / 8.8 / 9.1 / 8.6 / 8.4 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+| [CA/old-quebec](../../../countries/CA/sights/old-quebec.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.8 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-science-world — Science World Vancouver — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/science-world.yaml)
+- Action: new
+- Scope: Interactive science exhibits and geodesic building, distinct from other Vancouver museum collections.
+- Representative coordinates: 49.273, -123.103; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.4 / 8.6 / 8.9 / 8.8.
+- Categories: family:9.3 architecture:9.1 culture:9.0.
+- Overall: 85.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-museum-nature](../../../countries/CA/sights/canadian-museum-nature.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer |
+| [CA/montreal-biodome](../../../countries/CA/sights/montreal-biodome.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-royal-bc-museum — Royal BC Museum Victoria — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/royal-bc-museum.yaml)
+- Action: new
+- Scope: Provincial history and natural history exhibits, current gallery programme not assumed; distinct from Butchart Gardens.
+- Representative coordinates: 48.42, -123.368; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 9.0.
+- Categories: history:9.3 culture:9.3 family:9.2.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/royal-ontario-museum](../../../countries/CA/sights/royal-ontario-museum.yaml) | 9.1 / 9.1 / 9.2 / 9.2 / 9.4 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+| [CA/museum-anthropology-ubc](../../../countries/CA/sights/museum-anthropology-ubc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.3 | uniqueness: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-sainte-marie-hurons — Sainte-Marie among the Hurons Midland — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/sainte-marie-hurons.yaml)
+- Action: new
+- Scope: Public reconstructed historic mission and interpretation of encounters with Wendat communities; distinct from Wendake.
+- Representative coordinates: 44.735, -79.845; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.7 / 8.8.
+- Categories: history:9.3 culture:9.2 family:9.1.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fortress-louisbourg](../../../countries/CA/sights/fortress-louisbourg.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: -0.4 vs peer; experience: -0.4 vs peer |
+| [CA/upper-canada-village](../../../countries/CA/sights/upper-canada-village.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 8.9 | experience: -0.2 vs peer; significance: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 225 scope decisions
+
+Qaumajuq integrated with Winnipeg Art Gallery; The Forks excludes human rights museum. Tofino municipal Cox Bay/Chesterman only, excludes Pacific Rim beaches. Lake Superior NMCA separate from Pukaskwa and provincial park. Kluane flightseeing and Alsek rafting deferred as existing park activities (https://parks.canada.ca/pn-np/yt/kluane/activ), cross-border river scope requires separate review. Current exhibition schedules, access and GPS not verified. Existing scores and three unassessed entries preserved. Earlier evidence claims not independently revalidated. Regional screen remains open.

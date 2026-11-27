@@ -1,0 +1,16 @@
+id: sight-ca-casa-loma
+name: "Casa Loma Toronto"
+location:
+  country_code: CA
+  latitude: 43.678
+  longitude: -79.409
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.1
+    photography: 9.1

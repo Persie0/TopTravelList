@@ -1,0 +1,16 @@
+id: sight-ca-lake-superior-nmca
+name: "Lake Superior National Marine Conservation Area Guided Paddling"
+location:
+  country_code: CA
+  latitude: 48.83
+  longitude: -87.23
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.1
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.3
