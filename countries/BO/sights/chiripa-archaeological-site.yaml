@@ -1,0 +1,16 @@
+id: sight-bo-chiripa-archaeological-site
+name: "Chiripa Archaeological Site and Regional Museum"
+location:
+  country_code: BO
+  latitude: -16.36
+  longitude: -68.82
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.2
+  depth: 8.4
+  categories:
+    history: 9.3
+    culture: 9.1
+    architecture: 8.8

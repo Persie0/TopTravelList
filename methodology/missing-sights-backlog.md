@@ -5046,3 +5046,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BO — Samaipata Historic Town and Market Streets: 82.50/100 (desk-based provisional).
 
 13 additions, 9 source-linked provisional, 4 desk-based provisional, 6 90+, 38 ranking-row comparisons (12 international). BO 80 ranked / 82 total, +26 since baseline 56. Prior 7 inscribed and 5 tentative World Heritage properties represented at property scope; serial components not independently mapped. Urkupiña nomination not inscription; Copacabana Candelaria national heritage distinct from Puno and permanent basilica. Two endemic macaw reserves distinct and coordinates broad, no nesting locations. Pilón Lajas scoped to consenting Mapajo visitor experience. Otuquis and San Matías deferred as overlapping Bolivian Pantanal (https://boliviatravel.gob.bo/8pantanal-boliviano/), revisit distinct routes; Manuripi and Tariquía deferred pending specific visitor scopes. Tunupa excludes salt-flat tour; existing two unassessed preserved. OPEN for further regional natural and heritage attractions. Coordinates approximate; permissions, high altitude safety and future programmes unverified.
+
+### Pass 285 — Bolivia festivals, archaeological heritage and named protected-area routes
+
+- [x] BO — Potosí Ch'utillos Public Dance and Music Festival: 93.20/100 (source-linked-unverified).
+- [x] BO — Tarija Grand Festival of San Roque Public Processions: 92.65/100 (source-linked-unverified).
+- [x] BO — Sorata Illampu Circuit Highland Trek: 91.15/100 (source-linked-unverified).
+- [x] BO — Takesi Pre-Columbian Highland to Yungas Trail: 90.85/100 (source-linked-unverified).
+- [x] BO — Iskanwaya Mollo Archaeological Site and Aucapata Museum: 89.80/100 (source-linked-unverified).
+- [x] BO — Manuripi Amazonian Reserve Lago Bay Guided Nature Visit: 88.10/100 (source-linked-unverified).
+- [x] BO — Yunga Cruz Historic Highland to Cloud Forest Trail: 87.70/100 (source-linked-unverified).
+- [x] BO — Tariquía Reserve Pampa Grande Community Nature Trails: 87.60/100 (source-linked-unverified).
+- [x] BO — Calamarca Church Colonial Angel Paintings: 85.90/100 (desk-based provisional).
+- [x] BO — Tarija National Paleontological and Archaeological Museum: 85.15/100 (source-linked-unverified).
+- [x] BO — Chiripa Archaeological Site and Regional Museum: 84.95/100 (source-linked-unverified).
+- [x] BO — Tarija Historic Centre and Traditional Streets: 83.50/100 (desk-based provisional).
+- [x] BO — San Lorenzo Tarija Historic Village and Local Crafts: 82.30/100 (desk-based provisional).
+
+13 additions, 10 source-linked provisional, 3 desk-based provisional, 4 90+, 34 ranking-row comparisons (8 international). BO 93 ranked / 95 total, +39 since baseline 56. Prior 7 inscribed and 5 tentative World Heritage properties represented at property scope; serial components not independently mapped. Two additional UNESCO intangible festivals (Ch'utillos and San Roque) distinct from permanent urban heritage. Manuripi and Tariquía prior deferrals narrowed to documented Lago Bay and Pampa Grande visitor routes; actual permissions and access unverified. Takesi and Yunga Cruz distinct from Choro, no claim individually inscribed Qhapaq Ñan components. Illampu circuit excludes summit climbing. Otuquis and San Matías overlap deferrals retained. Existing two unassessed preserved. OPEN for further regional nature and heritage. Coordinates approximate; permissions, altitude safety and future programmes unverified.
