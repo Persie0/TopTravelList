@@ -6478,3 +6478,236 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-es-basilica-del-pilar — Basilica of Our Lady of the Pillar Zaragoza — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/basilica-del-pilar.yaml)
+- Action: new
+- Precise subject and limitations: Baroque basilica and permitted interior visits, including the shrine; tower access and services conditional. Distinct from La Seo and Aljafería in the existing Mudéjar serial property, whose component list excludes the Pilar basilica (https://whc.unesco.org/en/list/378/maps/).
+- Location check: 41.65676, -0.87853; [published representative point](https://mapcarta.com/25194396), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/nuestra-senora-pilar-basilica/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/palma-cathedral](../../../countries/ES/sights/palma-cathedral.yaml) | 9.2 / 8.8 / 9.1 / 8.8 / 8.7 | depth: +0.1 vs peer; significance: +0.1 vs peer. |
+| [ES/burgos-cathedral](../../../countries/ES/sights/burgos-cathedral.yaml) | 9.2 / 9.1 / 9.3 / 9.0 / 8.6 | uniqueness: -0.3 vs peer; depth: +0.2 vs peer. |
+| [ES/sagrada-familia](../../../countries/ES/sights/sagrada-familia.yaml) | 9.7 / 9.7 / 9.4 / 9.3 / 8.9 | uniqueness: -0.9 vs peer; impact: -0.5 vs peer. |
+| [MA/hassan-ii-mosque](../../../countries/MA/sights/hassan-ii-mosque.yaml) | 9.4 / 9.1 / 9.0 / 8.8 / 8.3 | depth: +0.5 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Monumental domed church. |
+| Uniqueness | 8.8 | Distinct Baroque skyline and shrine. |
+| Significance | 9.2 | Major pilgrimage and artistic heritage. |
+| Experience | 8.8 | Substantial permitted interior visit. |
+| Depth | 8.8 | Several architectural spaces. |
+
+- Applicable categories: architecture:9.4, history:9.3, culture:9.3, photography:9.2.
+- Computed worldwide overall: 90.00/100.
+- High-score challenge: Above 90: internationally significant original human fossils and substantial dedicated scientific galleries; compare listed museums, independent challenge pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-valencia-cathedral-historic-centre — Valencia Cathedral and Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/valencia-cathedral-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Public central historic streets and squares, Central Market and permitted cathedral visit (https://www.spain.info/en/places-of-interest/cathedral-valencia/). Cathedral reference point. Excludes separately rated Silk Exchange and City of Arts and Sciences; market trading and cathedral tower access conditional.
+- Location check: 39.475601, -0.375073; [published representative point](https://www.outdooractive.com/en/poi/valencia/valencia-cathedral/802186535/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/top/valencia-best-experiences-plans/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/barcelona-gothic-quarter](../../../countries/ES/sights/barcelona-gothic-quarter.yaml) | 9.2 / 9.0 / 9.2 / 9.1 / 9.1 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer. |
+| [ES/girona-historic-centre](../../../countries/ES/sights/girona-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.0 / 8.9 | uniqueness: -0.2 vs peer; impact: 0.0 vs peer. |
+| [ES/palma-cathedral](../../../countries/ES/sights/palma-cathedral.yaml) | 9.2 / 8.8 / 9.1 / 8.8 / 8.7 | depth: +0.2 vs peer; impact: -0.2 vs peer. |
+| [ES/salamanca-core](../../../countries/ES/sights/salamanca-core.yaml) | 9.2 / 9.2 / 9.3 / 9.0 / 9.0 | uniqueness: -0.5 vs peer; significance: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Rich historic public architecture. |
+| Uniqueness | 8.7 | Distinct combination of Gothic and later civic fabric. |
+| Significance | 9.0 | Important regional religious and commercial heritage. |
+| Experience | 9.0 | Varied walking and indoor visits. |
+| Depth | 8.9 | Multiple public streets and monuments. |
+
+- Applicable categories: architecture:9.3, history:9.2, culture:9.2, photography:9.1.
+- Computed worldwide overall: 89.15/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-tossa-de-mar-vila-vella — Tossa de Mar Walled Old Town — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/tossa-de-mar-vila-vella.yaml)
+- Action: new
+- Precise subject and limitations: Vila Vella historic maritime fortifications, permitted streets and viewpoints. Converted published DMS coordinates; excludes resort beach experience and private dwellings.
+- Location check: 41.717, 2.93389; [published representative point](https://www.wikidata.org/wiki/Q11913112), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/walled-enclosure-tossa-mar/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | significance: -0.4 vs peer; depth: -0.3 vs peer. |
+| [ES/cadaques-historic-waterfront](../../../countries/ES/sights/cadaques-historic-waterfront.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 8.5 | experience: -0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [MA/asilah-medina-fortress](../../../countries/MA/sights/asilah-medina-fortress.yaml) | 8.7 / 8.5 / 8.4 / 8.8 / 8.3 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer. |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | significance: -0.3 vs peer; depth: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Picturesque fortified coastal precinct. |
+| Uniqueness | 8.8 | Distinct walled maritime setting. |
+| Significance | 8.5 | Regional defensive heritage. |
+| Experience | 8.8 | Public walking and viewpoints. |
+| Depth | 8.4 | Bounded historic enclosure. |
+
+- Applicable categories: architecture:9.2, photography:9.3, history:9.0, culture:8.8.
+- Computed worldwide overall: 87.30/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-temple-debod — Temple of Debod Madrid — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/temple-debod.yaml)
+- Action: new
+- Precise subject and limitations: Relocated ancient Nubian temple and immediate public viewing precinct. Interior access subject to municipal capacity and booking; no water reflections or sunset conditions guaranteed.
+- Location check: 40.42405, -3.71799; [published representative point](https://mapcarta.com/24855838), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.esmadrid.com/en/tourist-information/temple-debod); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/saadian-tombs](../../../countries/MA/sights/saadian-tombs.yaml) | 8.7 / 8.8 / 9.1 / 8.3 / 8.0 | depth: -0.2 vs peer; impact: -0.2 vs peer. |
+| [MA/rabat-history-civilizations-museum](../../../countries/MA/sights/rabat-history-civilizations-museum.yaml) | 8.5 / 8.8 / 9.2 / 8.6 / 8.8 | depth: -1.0 vs peer; experience: -0.4 vs peer. |
+| [MA/al-batha-museum](../../../countries/MA/sights/al-batha-museum.yaml) | 8.6 / 8.8 / 9.0 / 8.6 / 8.5 | depth: -0.7 vs peer; experience: -0.4 vs peer. |
+| [ES/santa-maria-del-mar](../../../countries/ES/sights/santa-maria-del-mar.yaml) | 8.9 / 8.8 / 9.0 / 8.6 / 8.2 | impact: -0.4 vs peer; experience: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Distinctive monument and skyline setting. |
+| Uniqueness | 9.0 | Unusual relocated ancient temple. |
+| Significance | 8.9 | Important archaeological and conservation heritage. |
+| Experience | 8.2 | Small capacity-limited visit. |
+| Depth | 7.8 | Compact temple precinct. |
+
+- Applicable categories: history:9.2, architecture:8.9, photography:9.1, culture:8.8.
+- Computed worldwide overall: 85.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-museum-human-evolution-burgos — Museum of Human Evolution Burgos — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/museum-human-evolution-burgos.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated scientific galleries and fossil displays, including Atapuerca discoveries. Separate from excavation site visit and Burgos Cathedral; current exhibits and access conditional.
+- Location check: 42.33908, -3.69715; [published representative point](https://mapcarta.com/32915304), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/places-of-interest/museum-human-evolution/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/national-archaeological-museum-madrid](../../../countries/ES/sights/national-archaeological-museum-madrid.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.3 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [ES/altamira-replica](../../../countries/ES/sights/altamira-replica.yaml) | 8.7 / 8.9 / 8.8 / 8.8 / 8.4 | depth: +0.6 vs peer; significance: +0.4 vs peer. |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [ES/city-arts-sciences](../../../countries/ES/sights/city-arts-sciences.yaml) | 9.4 / 9.3 / 8.9 / 9.3 / 9.1 | impact: -0.6 vs peer; experience: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Substantial scientific galleries. |
+| Uniqueness | 9.1 | Distinct original fossil interpretation. |
+| Significance | 9.2 | International significance of human evolution research. |
+| Experience | 8.9 | Varied educational exhibitions. |
+| Depth | 9.0 | Multiple scientific themes. |
+
+- Applicable categories: history:9.4, culture:9.3, family:9.1, architecture:8.7.
+- Computed worldwide overall: 89.90/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-alquezar-vero-gorge — Alquézar Historic Village and Vero Gorge Walkways — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/alquezar-vero-gorge.yaml)
+- Action: new
+- Precise subject and limitations: Public medieval settlement, permitted collegiate church visit and local Vero canyon walkway excursion. Village reference. Walkway access, weather and booking conditional; excludes broader Sierra de Guara park and rock-art shelters.
+- Location check: 42.17199, 0.02443; [published representative point](https://mapcarta.com/18606174), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/top/beautiful-villages-pyrenees-spain/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/ronda-gorge-old-town](../../../countries/ES/sights/ronda-gorge-old-town.yaml) | 9.3 / 9.1 / 8.9 / 9.0 / 8.7 | impact: -0.4 vs peer; significance: -0.3 vs peer. |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+| [ES/hoces-rio-duraton](../../../countries/ES/sights/hoces-rio-duraton.yaml) | 8.9 / 8.8 / 8.7 / 8.8 / 8.7 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer. |
+| [ES/caminito-del-rey](../../../countries/ES/sights/caminito-del-rey.yaml) | 9.0 / 8.8 / 8.2 / 9.0 / 8.3 | significance: +0.4 vs peer; depth: +0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dramatic medieval village and gorge. |
+| Uniqueness | 8.9 | Distinct combined built and natural route. |
+| Significance | 8.6 | Regional medieval heritage. |
+| Experience | 8.9 | Varied walking and canyon views. |
+| Depth | 8.7 | Several linked visitor experiences. |
+
+- Applicable categories: nature:9.2, architecture:9.1, photography:9.3, adventure:9.1, history:8.9.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: Below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

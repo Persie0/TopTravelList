@@ -899,3 +899,14 @@ Seven additions, 28 peer rows. Spain 155 ranked / 170 total. El Torcal explicitl
 - [x] ES — Hoces del Río Duratón Natural Park: 88.00/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Spain 163 ranked / 178 total. Cadaqués excludes Portlligat and Cap de Creus; Santillana excludes Altamira. Costa Quebrada bounded to official Liencres coastal geosite, not entire geopark. As Catedrais tide and seasonal reservations documented. Next bounded major city and heritage screen: Basilica del Pilar (check Mudéjar overlap), Valencia Cathedral and historic core (exclude Lonja), Tossa de Mar, Templo de Debod, National Museum of Roman Art Mérida (separate collections), Museum of Human Evolution Burgos, Madrid Retiro individual scope check, and Alquézar. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 80 — Spanish major urban heritage and museum experiences
+
+- [x] ES — Basilica of Our Lady of the Pillar Zaragoza: 90.00/100 (source-linked-unverified).
+- [x] ES — Valencia Cathedral and Historic Centre: 89.15/100 (source-linked-unverified).
+- [x] ES — Tossa de Mar Walled Old Town: 87.30/100 (source-linked-unverified).
+- [x] ES — Temple of Debod Madrid: 85.90/100 (source-linked-unverified).
+- [x] ES — Museum of Human Evolution Burgos: 89.90/100 (source-linked-unverified).
+- [x] ES — Alquézar Historic Village and Vero Gorge Walkways: 88.20/100 (source-linked-unverified).
+
+Six additions and 24 peer rows. Spain 169 ranked / 184 total. Retiro explicitly within existing landscape https://whc.unesco.org/en/list/1618; Mérida National Museum of Roman Art listed component 664-017 https://whc.unesco.org/en/list/664/maps/; no new overlapping entries. Pilar excluded from Mudéjar component list, independently added. Next bounded screen: Turia Gardens, Montjuïc park and castle (exclude MNAC and already rated venues), Tibidabo, Madrid historic core (exclude palace and Prado-Retiro), Cuenca Serranía other natural sights, National Sculpture Museum Valladolid, Monastery of Santo Domingo de Silos, and A Coruña coastal walks (exclude Tower of Hercules). Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.

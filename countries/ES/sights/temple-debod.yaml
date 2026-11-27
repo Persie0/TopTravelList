@@ -1,0 +1,17 @@
+id: sight-es-temple-debod
+name: "Temple of Debod Madrid"
+location:
+  country_code: ES
+  latitude: 40.42405
+  longitude: -3.71799
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 8.2
+  depth: 7.8
+  categories:
+    history: 9.2
+    architecture: 8.9
+    photography: 9.1
+    culture: 8.8

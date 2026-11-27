@@ -19,6 +19,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | TN | DONE — current queue | 59 total (48 ranked); 29 additions in passes 59–62. [Bizerte–Dougga regional inventory](https://www.discovertunisia.com/en/decouvrir/de-bizerte-a-dougga) resolved. Eleven prior unassessed remain separate; El Haouaria and Ghriba access conditional. Reopen on concrete substantial omission. |
 | DZ | DONE — current queue | 47 total (37 ranked); 22 additions in passes 63–65. Cap Carbon covered by Gouraya; Tadrart Rouge deferred for possible overlap. Ten prior unassessed separate; reopen for concrete substantial omission. |
 | MA | DONE — current queue | 79 total (71 ranked); 42 additions in passes 66–71. Iriqui lakebed separate from dune field, park aggregate excluded; Rabat archaeology museum resolved. Eight prior unassessed separate. Reopen on concrete substantial omission. |
-| ES | OPEN | 178 total (163 ranked); eight historic villages and natural attractions in pass 79. Next bounded major urban and heritage screen. Fifteen prior unassessed unchanged. |
+| ES | OPEN | 184 total (169 ranked); six urban heritage and museum attractions in pass 80. Retiro and Mérida museum covered by existing ensembles. Next bounded city and heritage screen. Fifteen prior unassessed unchanged. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.
