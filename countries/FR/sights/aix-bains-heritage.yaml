@@ -1,0 +1,16 @@
+id: sight-fr-aix-bains-heritage
+name: "Aix-les-Bains Historic Thermal Architecture Walk"
+location:
+  country_code: FR
+  latitude: 45.689
+  longitude: 5.914
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.2
+    history: 9.2
+    relaxation: 9.0

@@ -2073,3 +2073,38 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Demoiselles Coiffées de Théus Eroded Rock Formations: 86.15/100 (desk-based provisional).
 
 30 additions, 18 fast provisional estimates, 12 source-informed candidates, 7 90+, 48 peer comparisons. France 625 ranked / 636 total; 11 existing unassessed unchanged. Porquerolles core park confirmed (https://destination.portcros-parcnational.fr/fr/trek/654-Sentier-des-cretes-de-Porquerolles); Carmignac art separately scoped. Briançon and Mont-Dauphin fortifications covered by Vauban (https://whc.unesco.org/en/list/1283/maps/). In situ Merveilles carvings deferred under Mercantour overlap (https://mercantour-parcnational.fr/votre-visite/decouvrir-le-parc-national/vallees-des-merveilles-et-de-fontanalba); museum separate. Meije lift scope excludes glacier trekking and existing park nature; MAMAC renovation excluded as intrinsic penalty. 0 peer references not located (); domestic calibration only. Next bounded screen: Auvergne-Rhône-Alpes: Alpine independent sites in Isère, Savoie and Haute-Savoie; Grenoble museums and Bastille cable car, Chartreuse and Vercors (park overlap), Chambéry, Annecy, Chamonix separate lift/rail experiences, Lyon independent museums and UNESCO scope, plus residual Hautes-Alpes. Full Python validation pending.
+
+### Pass 154 — accelerated northern French Alps audit
+
+- [x] FR — Montenvers Railway and Mer de Glace Visitor Complex: 92.05/100 (source-linked-unverified).
+- [x] FR — Palais Idéal du Facteur Cheval Hauterives: 91.60/100 (source-linked-unverified).
+- [x] FR — Musée de Grenoble Fine Arts Museum: 92.00/100 (source-linked-unverified).
+- [x] FR — Cirque du Fer-à-Cheval Waterfalls and Alpine Trails: 91.65/100 (source-linked-unverified).
+- [x] FR — Lac d’Annecy Lake and Lakeside Recreation: 91.10/100 (source-linked-unverified).
+- [x] FR — Annecy Historic Old Town and Castle Museum: 90.90/100 (source-linked-unverified).
+- [x] FR — Grotte de Choranche Underground Rivers and Stalactites: 90.85/100 (source-linked-unverified).
+- [x] FR — Vercors High Plateaux Nature Reserve and Mountain Trails: 90.55/100 (source-linked-unverified).
+- [x] FR — Domaine de Vizille French Revolution Museum and Castle Park: 91.45/100 (source-linked-unverified).
+- [x] FR — Chartreuse Mountain Massif and Nature Trails: 89.30/100 (source-linked-unverified).
+- [x] FR — Grenoble Bastille Fortress and Cable Car: 89.55/100 (source-linked-unverified).
+- [x] FR — Abbaye d’Hautecombe Royal Necropolis and Abbey: 89.75/100 (source-linked-unverified).
+- [x] FR — Gorges du Fier Canyon Footbridge: 87.80/100 (source-linked-unverified).
+- [x] FR — Musée de la Grande Chartreuse Carthusian Heritage Museum: 88.50/100 (desk-based provisional).
+- [x] FR — Chambéry Historic Centre and Château des Ducs de Savoie: 88.45/100 (desk-based provisional).
+- [x] FR — Lac du Bourget Lake and Scenic Shores: 88.55/100 (desk-based provisional).
+- [x] FR — Aix-les-Bains Historic Thermal Architecture Walk: 86.70/100 (desk-based provisional).
+- [x] FR — Yvoire Medieval Lakeside Village: 87.65/100 (desk-based provisional).
+- [x] FR — Palais Lumière Évian Art and Thermal Heritage Centre: 86.30/100 (desk-based provisional).
+- [x] FR — Château de Ripaille Thonon Historic Estate: 86.70/100 (desk-based provisional).
+- [x] FR — Château de Menthon-Saint-Bernard Castle: 88.25/100 (desk-based provisional).
+- [x] FR — Château de Montrottier Historic Collections: 87.30/100 (desk-based provisional).
+- [x] FR — Col de la Forclaz Lake Annecy Viewpoints: 85.80/100 (desk-based provisional).
+- [x] FR — Semnoz Mountain Plateau and Panoramic Trails: 86.50/100 (desk-based provisional).
+- [x] FR — Pont-en-Royans Hanging Houses and Riverside Village: 86.90/100 (desk-based provisional).
+- [x] FR — Saint-Antoine-l’Abbaye Medieval Village and Abbey: 88.55/100 (desk-based provisional).
+- [x] FR — Musée Dauphinois Grenoble Alpine Heritage Museum: 87.50/100 (desk-based provisional).
+- [x] FR — Grottes de la Balme Cave and Underground Galleries: 87.60/100 (desk-based provisional).
+- [x] FR — Caves de la Chartreuse Voiron Liqueur Heritage: 87.20/100 (desk-based provisional).
+- [x] FR — Cormet de Roselend and Lac de Roselend Alpine Landscape: 87.90/100 (desk-based provisional).
+
+30 additions, 17 fast provisional estimates, 13 source-informed candidates, 9 90+, 52 peer comparisons. France 655 ranked / 666 total; 11 existing unassessed unchanged. Montenvers separately scoped to infrastructure and constructed ice cave, massif overlap flagged; Annecy and Bourget lake recreation exclude pile-dwelling archaeology. Chartreuse museum excludes private monastery. Vercors reserve surface trails separate from Choranche cave; tentative series scope unresolved. Saint-Antoine potential serial heritage overlap flagged; Col de la Forclaz visual overlap flagged. 0 peer references not located (); domestic calibration only. Next bounded screen: Lyon independent museums (Confluences, Beaux-Arts, Lugdunum collection scope, Lumière, cinema miniature, Gadagne scope), Beaujolais, Pérouges, Dombes, Bourg-en-Bresse Brou, Bugey, Ain, remaining Savoie and Isère (Vercors resistance memorial, Combe Laval scope, Saint-Hilaire funicular), Drôme and Ardèche. Full Python validation pending.

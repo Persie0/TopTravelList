@@ -1,0 +1,16 @@
+id: sight-fr-grande-chartreuse-museum
+name: "Musée de la Grande Chartreuse Carthusian Heritage Museum"
+location:
+  country_code: FR
+  latitude: 45.349
+  longitude: 5.794
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    culture: 9.3
+    history: 9.3
+    architecture: 9.1
