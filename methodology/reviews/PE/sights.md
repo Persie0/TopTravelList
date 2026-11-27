@@ -3157,3 +3157,269 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 260 scope decisions
 
 13 additions, 8 source-linked provisional, 5 desk-based provisional, 5 90+, 31 ranking-row comparisons (4 international). PE 150 ranked / 152 total, +86 since baseline. UNESCO country list rechecked (https://whc.unesco.org/en/statesparties/pe): all 13 inscribed properties represented (Río Abiseo unassessed); 23 of 25 tentative properties represented at least in part, not complete serial coverage. Santa Bárbara and Sierra del Divisor wholly deferred; La Leche, Chankillo extension, rural temples, Collao, Utcubamba, pisco, fossil basins, Nasca aqueducts, guano islands and coastal lomas residual scope unresolved. Andagua circuit excludes already-ranked Colca; culinary experience limited to Surquillo market and cooking, UNESCO designation applies to practice not market. Whale circuit excludes beach recreation; Huaylarsh route grouped. Tren Macho distinct from Central Railway, suspension documented, no reopening assumed. All earlier deferrals retained; protected-area screen not exhaustive. Given five additional 90+ omissions in this pass, keep queue open for one further targeted screen (northern archaeology, mountain routes, Amazon birding, cultural experiences), rather than close prematurely. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified.
+
+## sight-pe-abra-patricia-birding — Abra Patricia Alto Nieva Cloud Forest Birdwatching Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/abra-patricia-birding.yaml)
+- Action: new
+- Scope: Dedicated cloud-forest trails and guided birding; long-whiskered owlet and yellow-tailed woolly monkey are documented, not guaranteed. Excludes Huembo and other regional sites.
+- Representative coordinates: -5.69, -77.81; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.3 / 8.9 / 9.2.
+- Categories: wildlife:9.4 nature:9.4 photography:9.2.
+- Overall: 91.95/100.
+- Source: https://www.owletlodge.org.pe/owlet-lodge/
+- Source: https://www.keybiodiversityareas.org/en/site/factsheet/100128/assessment
+- Source: https://conservationbirding.org/?reserve=abra-patricia-owlet-lodge
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/chaparri-reserve](../../../countries/PE/sights/chaparri-reserve.yaml) | 8.7 / 8.9 / 8.8 / 8.5 / 8.7 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [EC/mindo-cloud-forest](../../../countries/EC/sights/mindo-cloud-forest.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.4; uniqueness: +0.6 vs peer |
+| [EC/yasuni-national-park](../../../countries/EC/sights/yasuni-national-park.yaml) | 9.3 / 9.4 / 9.7 / 8.5 / 8.3 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [CO/tayrona-national-natural-park](../../../countries/CO/sights/tayrona-national-natural-park.yaml) | 9.3 / 9.1 / 8.8 / 8.8 / 8.8 | impact: -0.2; uniqueness: +0.3 vs peer |
+| [BR/pantanal-brazilian-wildlife-routes](../../../countries/BR/sights/pantanal-brazilian-wildlife-routes.yaml) | 9.3 / 9.4 / 9.2 / 9.1 / 9.3 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-ventarron — Huaca Ventarrón Archaeological Temple and Early Mural Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/ventarron.yaml)
+- Action: new
+- Scope: Approximately 4,000-year-old ceremonial site; 2025 ministry report confirms improved pedestrian circuit. Distinct from Sipán, Pómac and Túcume; no current opening hours asserted.
+- Representative coordinates: -6.79, -79.77; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.4 / 8.7 / 9.0.
+- Categories: history:9.4 architecture:9.3 culture:9.2.
+- Overall: 90.50/100.
+- Source: https://www.gob.pe/institucion/cultura/noticias/1190327-ministerio-de-cultura-mejora-accesibilidad-y-proteccion-de-huaca-ventarron-uno-de-los-templos-mas-antiguos-de-america
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4899
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cerro-sechin](../../../countries/PE/sights/cerro-sechin.yaml) | 9.0 / 9.3 / 9.4 / 8.7 / 9.0 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PE/kotosh](../../../countries/PE/sights/kotosh.yaml) | 8.8 / 9.3 / 9.4 / 8.7 / 9.0 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BO/tiwanaku-archaeological-site](../../../countries/BO/sights/tiwanaku-archaeological-site.yaml) | 9.0 / 9.4 / 9.7 / 8.6 / 8.8 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: +0.4; uniqueness: +0.6 vs peer |
+| [CO/san-agustin-archaeological-park](../../../countries/CO/sights/san-agustin-archaeological-park.yaml) | 8.8 / 9.4 / 9.6 / 8.7 / 8.5 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [CL/chinchorro-culture-archaeological-properties](../../../countries/CL/sights/chinchorro-culture-archaeological-properties.yaml) | 8.3 / 9.6 / 9.8 / 8.2 / 8.0 | impact: +0.5; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-gran-vilaya — Gran Vilaya Huaylla Belén Cloud Forest Archaeological Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/gran-vilaya.yaml)
+- Action: new
+- Scope: Independent Huaylla Belén valley and remote Gran Vilaya archaeological sectors. Excludes already-ranked Kuélap, Pueblo de los Muertos, Gocta and Sonche; shared tour itineraries not additive.
+- Representative coordinates: -6.3, -78.1; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.1 / 8.7 / 9.1.
+- Categories: adventure:9.4 history:9.3 nature:9.3 photography:9.3.
+- Overall: 90.65/100.
+- Source: https://www.conservamospornaturaleza.org/ruta_new/ruta-al-gran-vilaya/
+- Source: https://target2.promperu.gob.pe/ofertas/trekking-gran-vilaya--102
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/choquequirao](../../../countries/PE/sights/choquequirao.yaml) | 9.4 / 9.4 / 9.4 / 8.9 / 9.2 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [PE/laguna-de-los-condores](../../../countries/PE/sights/laguna-de-los-condores.yaml) | 9.1 / 9.3 / 9.3 / 8.5 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [CO/tierradentro-national-archaeological-park](../../../countries/CO/sights/tierradentro-national-archaeological-park.yaml) | 8.5 / 9.4 / 9.6 / 8.3 / 8.1 | impact: +0.6; uniqueness: -0.2 vs peer |
+| [BO/incallajta-archaeological-site](../../../countries/BO/sights/incallajta-archaeological-site.yaml) | 8.4 / 8.7 / 9.1 / 8.1 / 7.9 | impact: +0.7; uniqueness: +0.5 vs peer |
+| [EC/cochasqui-archaeological-park](../../../countries/EC/sights/cochasqui-archaeological-park.yaml) | 7.9 / 8.6 / 8.5 / 8.0 / 7.5 | impact: +1.2; uniqueness: +0.6 vs peer |
+| [CL/w-trek-torres-del-paine](../../../countries/CL/sights/w-trek-torres-del-paine.yaml) | 9.8 / 9.5 / 8.6 / 9.3 / 9.4 | impact: -0.7; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cedros-alpamayo-trek — Cedros Alpamayo Northern Cordillera Blanca Mountain Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cedros-alpamayo-trek.yaml)
+- Action: new
+- Scope: Northern Cedros–Alpamayo multi-day mountain circuit; exclude Santa Cruz shared segments and technical summit ascent. Nested in Huascarán, non-additive to parent; no conditions or access guarantee.
+- Representative coordinates: -8.88, -77.68; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.1 / 8.8 / 8.8 / 9.1.
+- Categories: nature:9.4 adventure:9.4 photography:9.4.
+- Overall: 90.85/100.
+- Source: https://www.peru.travel/attractions/cordillera-blanca
+- Source: https://www.perumountainclimb.com/trekking.html
+- Source: https://www.perutourism.org/best-treks-in-peru/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cordillera-huayhuash-trek](../../../countries/PE/sights/cordillera-huayhuash-trek.yaml) | 9.5 / 9.2 / 8.3 / 8.9 / 9.4 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/santa-cruz-trek](../../../countries/PE/sights/santa-cruz-trek.yaml) | 9.3 / 9.0 / 7.9 / 8.9 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [CL/w-trek-torres-del-paine](../../../countries/CL/sights/w-trek-torres-del-paine.yaml) | 9.8 / 9.5 / 8.6 / 9.3 / 9.4 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [BO/sajama-national-park](../../../countries/BO/sights/sajama-national-park.yaml) | 9.3 / 9.2 / 9.0 / 8.8 / 9.0 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [EC/cotopaxi-national-park](../../../countries/EC/sights/cotopaxi-national-park.yaml) | 9.4 / 9.0 / 8.7 / 9.0 / 8.9 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [EC/chimborazo-fauna-production-reserve](../../../countries/EC/sights/chimborazo-fauna-production-reserve.yaml) | 9.3 / 9.3 / 8.9 / 8.6 / 8.4 | impact: +0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-trujillo-spring-festival — Trujillo International Spring Festival and Corso Parade — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/trujillo-spring-festival.yaml)
+- Action: new
+- Scope: Long-running public spring parade and festival, with 74th edition documented in 2026. Excludes historic centre and Marinera competition.
+- Representative coordinates: -8.112, -79.028; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.2 / 9.2 / 9.0.
+- Categories: culture:9.3 photography:9.3 family:9.1.
+- Overall: 90.40/100.
+- Source: https://andina.pe/agencia/noticia-trujillo-festival-internacional-primavera-generara-impacto-economico-s50-millones-1093581.aspx
+- Source: https://andina.pe/ingles/noticia-que-fiesta-celebra-trujillo-septiembre-y-representa-para-su-identidad-cultural-1044426.aspx
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/cajamarca-carnival](../../../countries/PE/sights/cajamarca-carnival.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/marinera-national-contest](../../../countries/PE/sights/marinera-national-contest.yaml) | 9.1 / 9.3 / 9.4 / 9.2 / 9.1 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [BR/rio-carnival](../../../countries/BR/sights/rio-carnival.yaml) | 9.6 / 9.5 / 9.5 / 9.6 / 9.4 | impact: -0.7; uniqueness: -0.5 vs peer |
+| [BR/salvador-carnival](../../../countries/BR/sights/salvador-carnival.yaml) | 9.3 / 9.3 / 9.2 / 9.4 / 9.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-ica-vendimia — Ica International Grape Harvest Festival and Public Traditions — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/ica-vendimia.yaml)
+- Action: new
+- Scope: Public harvest celebrations distinct from permanent Ica vineyard and distillery visits. PROMPERÚ documents the 2026 regional programme; no future dates assumed.
+- Representative coordinates: -14.067, -75.728; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 9.0 / 8.9.
+- Categories: culture:9.3 food:9.2 photography:9.1.
+- Overall: 89.05/100.
+- Source: https://www.gob.pe/institucion/promperu/noticias/1358915-promperu-lanza-el-festival-internacional-de-la-vendimia-region-ica-2026
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4605
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ica-pisco-route](../../../countries/PE/sights/ica-pisco-route.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.1 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [PE/san-juan-amazon](../../../countries/PE/sights/san-juan-amazon.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.1 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-huembo-reserve — Huembo Community Conservation Reserve Marvelous Spatuletail Birdwatching — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huembo-reserve.yaml)
+- Action: new
+- Scope: Separate community-managed reserve near Pomacochas, dedicated hummingbird observation, not Abra Patricia trails; sightings not guaranteed.
+- Representative coordinates: -5.83, -77.98; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 9.3 / 8.9 / 8.8 / 8.5.
+- Categories: wildlife:9.4 nature:9.2 photography:9.3.
+- Overall: 88.85/100.
+- Source: https://conservationbirding.org/?reserve=huembo
+- Source: https://www.hummingbirdsociety.org/marvelous-spatuletail
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PE/chaparri-reserve](../../../countries/PE/sights/chaparri-reserve.yaml) | 8.7 / 8.9 / 8.8 / 8.5 / 8.7 | impact: +0.0; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-piquillacta — Pikillacta Wari Archaeological Urban Complex Cusco South Valley — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/piquillacta.yaml)
+- Action: new
+- Scope: Wari urban archaeological complex, separate from colonial church circuit; desk assessment.
+- Representative coordinates: -13.61, -71.72; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.2 / 8.6 / 8.8.
+- Categories: history:9.3 architecture:9.3 culture:9.1.
+- Overall: 88.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/wari-archaeological-complex](../../../countries/PE/sights/wari-archaeological-complex.yaml) | 8.3 / 8.8 / 9.3 / 8.0 / 8.2 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [PE/vilcashuaman](../../../countries/PE/sights/vilcashuaman.yaml) | 8.9 / 9.1 / 9.3 / 8.8 / 9.1 | impact: -0.3; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-pedro-de-osma-museum — Pedro de Osma Museum Lima Viceregal Art Collections — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/pedro-de-osma-museum.yaml)
+- Action: new
+- Scope: Dedicated viceregal art collection in Barranco, distinct from district streets; desk assessment.
+- Representative coordinates: -12.153, -77.022; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 9.0 / 8.8 / 8.8.
+- Categories: culture:9.3 history:9.3 architecture:9.2.
+- Overall: 87.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/mali](../../../countries/PE/sights/mali.yaml) | 9.0 / 9.1 / 9.4 / 9.1 / 9.3 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [PE/amano-textile-museum](../../../countries/PE/sights/amano-textile-museum.yaml) | 8.5 / 9.0 / 9.2 / 8.7 / 8.8 | impact: +0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-waqanki-birding — Waqanki Moyobamba Orchid and Hummingbird Garden — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/waqanki-birding.yaml)
+- Action: new
+- Scope: Local orchid garden and hummingbird observation; separate from Abra Patricia and Huembo, no sightings guaranteed. Desk assessment.
+- Representative coordinates: -6.08, -76.97; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.5 / 8.8 / 8.5.
+- Categories: wildlife:9.3 nature:9.2 photography:9.2.
+- Overall: 86.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/chaparri-reserve](../../../countries/PE/sights/chaparri-reserve.yaml) | 8.7 / 8.9 / 8.8 / 8.5 / 8.7 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/allpahuayo-mishana](../../../countries/PE/sights/allpahuayo-mishana.yaml) | 8.9 / 9.3 / 9.2 / 8.7 / 9.1 | impact: -0.4; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cutimbo — Cutimbo Archaeological Chullpa Burial Towers Puno — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cutimbo.yaml)
+- Action: new
+- Scope: Distinct hilltop burial-tower complex separate from Sillustani and lake experience; desk assessment.
+- Representative coordinates: -16, -70.03; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.9 / 8.9 / 8.4 / 8.4.
+- Categories: history:9.2 architecture:9.2 photography:9.1.
+- Overall: 86.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/sillustani-archaeological-site](../../../countries/PE/sights/sillustani-archaeological-site.yaml) | 8.5 / 8.9 / 8.9 / 8.5 / 7.6 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/revash-mausoleums](../../../countries/PE/sights/revash-mausoleums.yaml) | 8.2 / 8.8 / 8.7 / 8.2 / 7.0 | impact: +0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-narihuala — Narihualá Tallán Archaeological Complex and Site Museum Piura — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/narihuala.yaml)
+- Action: new
+- Scope: Tallán cultural archaeological site and interpretation, separate from regional craft markets; desk assessment.
+- Representative coordinates: -5.3, -80.68; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.7 / 8.9 / 8.4 / 8.4.
+- Categories: history:9.2 culture:9.1 architecture:9.0.
+- Overall: 85.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/puruchuco](../../../countries/PE/sights/puruchuco.yaml) | 8.4 / 8.7 / 8.9 / 8.5 / 8.6 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PE/tucume-archaeological-complex](../../../countries/PE/sights/tucume-archaeological-complex.yaml) | 8.4 / 8.8 / 9.2 / 8.3 / 8.3 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 261 scope decisions
+
+12 additions, 7 source-linked provisional, 5 desk-based provisional, 5 90+, 42 ranking-row comparisons (18 international). PE 162 ranked / 164 total, +98 since baseline 66. Abra Patricia and Huembo distinct reserves; Gran Vilaya excludes Kuélap, Gocta, Sonche and Pueblo de los Muertos; Cedros–Alpamayo excludes Santa Cruz segments and is non-additive to Huascarán. Spring and harvest festivals distinct from permanent heritage and existing competition/distillery entries. Existing scores and two unassessed preserved. Earlier UNESCO inventory 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Sechín Bajo and other Chankillo serial extensions deferred pending visitor-scope evidence; prior Santa Bárbara, Sierra del Divisor, Megantoni and other deferrals retained. Queue remains OPEN for targeted regional coverage after additional high-value omissions. Coordinates approximate; current access and schedules unverified.

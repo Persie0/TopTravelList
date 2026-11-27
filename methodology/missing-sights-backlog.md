@@ -4639,3 +4639,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Lomas de Lúcumo Pachacamac Seasonal Coastal Fog-Oasis Trails: 85.15/100 (desk-based provisional).
 
 13 additions, 8 source-linked provisional, 5 desk-based provisional, 5 90+, 31 ranking-row comparisons (4 international). PE 150 ranked / 152 total, +86 since baseline. UNESCO country list rechecked (https://whc.unesco.org/en/statesparties/pe): all 13 inscribed properties represented (Río Abiseo unassessed); 23 of 25 tentative properties represented at least in part, not complete serial coverage. Santa Bárbara and Sierra del Divisor wholly deferred; La Leche, Chankillo extension, rural temples, Collao, Utcubamba, pisco, fossil basins, Nasca aqueducts, guano islands and coastal lomas residual scope unresolved. Andagua circuit excludes already-ranked Colca; culinary experience limited to Surquillo market and cooking, UNESCO designation applies to practice not market. Whale circuit excludes beach recreation; Huaylarsh route grouped. Tren Macho distinct from Central Railway, suspension documented, no reopening assumed. All earlier deferrals retained; protected-area screen not exhaustive. Given five additional 90+ omissions in this pass, keep queue open for one further targeted screen (northern archaeology, mountain routes, Amazon birding, cultural experiences), rather than close prematurely. Existing scores and two unassessed preserved. Coordinates approximate; access/schedules unverified.
+
+### Pass 261 — Peru northern archaeology, cloud-forest birding, mountain routes and regional traditions
+
+- [x] PE — Abra Patricia Alto Nieva Cloud Forest Birdwatching Reserve: 91.95/100 (source-linked-unverified).
+- [x] PE — Huaca Ventarrón Archaeological Temple and Early Mural Heritage: 90.50/100 (source-linked-unverified).
+- [x] PE — Gran Vilaya Huaylla Belén Cloud Forest Archaeological Trek: 90.65/100 (source-linked-unverified).
+- [x] PE — Cedros Alpamayo Northern Cordillera Blanca Mountain Trek: 90.85/100 (source-linked-unverified).
+- [x] PE — Trujillo International Spring Festival and Corso Parade: 90.40/100 (source-linked-unverified).
+- [x] PE — Ica International Grape Harvest Festival and Public Traditions: 89.05/100 (source-linked-unverified).
+- [x] PE — Huembo Community Conservation Reserve Marvelous Spatuletail Birdwatching: 88.85/100 (source-linked-unverified).
+- [x] PE — Pikillacta Wari Archaeological Urban Complex Cusco South Valley: 88.15/100 (desk-based provisional).
+- [x] PE — Pedro de Osma Museum Lima Viceregal Art Collections: 87.55/100 (desk-based provisional).
+- [x] PE — Waqanki Moyobamba Orchid and Hummingbird Garden: 86.20/100 (desk-based provisional).
+- [x] PE — Cutimbo Archaeological Chullpa Burial Towers Puno: 86.55/100 (desk-based provisional).
+- [x] PE — Narihualá Tallán Archaeological Complex and Site Museum Piura: 85.15/100 (desk-based provisional).
+
+12 additions, 7 source-linked provisional, 5 desk-based provisional, 5 90+, 42 ranking-row comparisons (18 international). PE 162 ranked / 164 total, +98 since baseline 66. Abra Patricia and Huembo distinct reserves; Gran Vilaya excludes Kuélap, Gocta, Sonche and Pueblo de los Muertos; Cedros–Alpamayo excludes Santa Cruz segments and is non-additive to Huascarán. Spring and harvest festivals distinct from permanent heritage and existing competition/distillery entries. Existing scores and two unassessed preserved. Earlier UNESCO inventory 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Sechín Bajo and other Chankillo serial extensions deferred pending visitor-scope evidence; prior Santa Bárbara, Sierra del Divisor, Megantoni and other deferrals retained. Queue remains OPEN for targeted regional coverage after additional high-value omissions. Coordinates approximate; current access and schedules unverified.
