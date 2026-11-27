@@ -1,0 +1,16 @@
+id: sight-ar-caviahue-copahue-circuit
+name: "Caviahue Copahue Volcano and Salto del Agrio Circuit"
+location:
+  country_code: AR
+  latitude: -37.87
+  longitude: -71.05
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.6
+  depth: 8.8
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.0
