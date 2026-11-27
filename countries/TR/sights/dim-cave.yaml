@@ -1,0 +1,16 @@
+id: sight-tr-dim-cave
+name: "Dim Cave Alanya"
+location:
+  country_code: TR
+  latitude: 36.53916
+  longitude: 32.10979
+scores:
+  impact: 8.7
+  uniqueness: 8.5
+  significance: 8.2
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.2
+    photography: 9.0
+    adventure: 8.9

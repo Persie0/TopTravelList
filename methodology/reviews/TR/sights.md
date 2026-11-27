@@ -4310,3 +4310,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+## sight-tr-ballica-cave — Ballıca Cave Nature Park Tokat — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/ballica-cave.yaml)
+- Action: new
+- Precise subject and limitations: Developed cave and immediate nature park; tentative UNESCO listing https://whc.unesco.org/en/tentativelists/6403/; do not count undeveloped chambers.
+- Location check: 40.22731, 36.3015; [published representative point](https://mapcarta.com/N2331729324), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://tokat.gov.tr/ballica-magarasi); inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/kastria-cave-lakes](../../../countries/GR/sights/kastria-cave-lakes.yaml) | 8.9 / 9.1 / 8.5 / 8.8 / 8.5 | significance: +0.2 vs peer; depth: +0.2 vs peer. |
+| [GR/drogarati-cave](../../../countries/GR/sights/drogarati-cave.yaml) | 8.7 / 8.6 / 8.3 / 8.7 / 8.2 | uniqueness: +0.5 vs peer; depth: +0.5 vs peer. |
+| [TR/damlatas-cave](../../../countries/TR/sights/damlatas-cave.yaml) | 8.3 / 8.2 / 7.9 / 8.6 / 7.5 | depth: +1.2 vs peer; uniqueness: +0.9 vs peer. |
+| [TR/karain](../../../countries/TR/sights/karain.yaml) | 8.1 / 8.5 / 8.9 / 8.0 / 7.3 | depth: +1.4 vs peer; impact: +0.8 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Rich cave formations. |
+| Uniqueness | 9.1 | Unusual speleothem assemblages. |
+| Significance | 8.7 | Geological interest and tentative listing. |
+| Experience | 8.7 | Established cave visit. |
+| Depth | 8.7 | Multiple accessible chambers. |
+
+- Applicable categories: nature:9.4, photography:9.2, adventure:9.0.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-dim-cave — Dim Cave Alanya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/dim-cave.yaml)
+- Action: new
+- Precise subject and limitations: Developed limestone cave with formations and small lake; excludes Dim River recreation and Alanya castle. Ministry reference https://kulturportali.gov.tr/turkiye/antalya/gezilecekyer/dim-magarasi.
+- Location check: 36.53916, 32.10979; [published representative point](https://mapcarta.com/28483636), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.dimcave.com.tr/dim-magarasi); inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/drogarati-cave](../../../countries/GR/sights/drogarati-cave.yaml) | 8.7 / 8.6 / 8.3 / 8.7 / 8.2 | depth: +0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [GR/kastria-cave-lakes](../../../countries/GR/sights/kastria-cave-lakes.yaml) | 8.9 / 9.1 / 8.5 / 8.8 / 8.5 | uniqueness: -0.6 vs peer; significance: -0.3 vs peer. |
+| [TR/damlatas-cave](../../../countries/TR/sights/damlatas-cave.yaml) | 8.3 / 8.2 / 7.9 / 8.6 / 7.5 | depth: +1.0 vs peer; impact: +0.4 vs peer. |
+| [TR/karain](../../../countries/TR/sights/karain.yaml) | 8.1 / 8.5 / 8.9 / 8.0 / 7.3 | depth: +1.2 vs peer; experience: +0.8 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Rich formations. |
+| Uniqueness | 8.5 | Conventional but extensive show cave. |
+| Significance | 8.2 | Regional geological value. |
+| Experience | 8.8 | Developed cave route. |
+| Depth | 8.5 | Longer accessible passages. |
+
+- Applicable categories: nature:9.2, photography:9.0, adventure:8.9.
+- Computed worldwide overall: 85.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-cennet-cehennem — Cennet and Cehennem Sinkholes Silifke — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/cennet-cehennem.yaml)
+- Action: new
+- Precise subject and limitations: Paired sinkholes grouped with adjacent ruins; Cehennem representative point, no descent into Cehennem assumed. Official combined ticket https://muze.gov.tr/urun-detay?CatalogNo=WEB-CCO01-87-009.
+- Location check: 36.45429, 34.10614; [published representative point](https://mapcarta.com/W303795746), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.kulturportali.gov.tr/turkiye/mersin/gezilecekyer/cennet-ve-cehennem-obruklari); inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/saklikent](../../../countries/TR/sights/saklikent.yaml) | 8.7 / 8.3 / 7.5 / 8.4 / 7.6 | significance: +1.2 vs peer; depth: +1.0 vs peer. |
+| [TR/koprulu-canyon](../../../countries/TR/sights/koprulu-canyon.yaml) | 9.0 / 8.8 / 8.6 / 9.1 / 9.0 | experience: -0.4 vs peer; depth: -0.4 vs peer. |
+| [TR/yanartas](../../../countries/TR/sights/yanartas.yaml) | 8.8 / 9.3 / 8.5 / 8.7 / 7.9 | depth: +0.7 vs peer; uniqueness: -0.3 vs peer. |
+| [GR/kastria-cave-lakes](../../../countries/GR/sights/kastria-cave-lakes.yaml) | 8.9 / 9.1 / 8.5 / 8.8 / 8.5 | significance: +0.2 vs peer; impact: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Dramatic karst depressions. |
+| Uniqueness | 9.0 | Distinct paired sinkhole setting. |
+| Significance | 8.7 | Geology and historical associations. |
+| Experience | 8.7 | Viewpoints and developed Cennet route. |
+| Depth | 8.6 | Complementary natural and historical elements. |
+
+- Applicable categories: nature:9.3, photography:9.3, adventure:9.0, history:8.8.
+- Computed worldwide overall: 88.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-anemurium — Anemurium Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/anemurium.yaml)
+- Action: new
+- Precise subject and limitations: Coastal ruins including baths, theatre and necropolis; separate from Mamure Castle. Ministry listing https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2158-mersin-anamorium-archaeological-site/2158/4.
+- Location check: 36.02417, 32.8025; [published representative point](https://muzegezgini.com.tr/en/museum/anemurium-antik-kenti), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.kulturportali.gov.tr/turkiye/mersin/gezilecekyer/anemurium-antik-kenti); inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/knidos](../../../countries/TR/sights/knidos.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TR/phaselis](../../../countries/TR/sights/phaselis.yaml) | 8.8 / 8.7 / 8.8 / 8.9 / 8.7 | experience: -0.3 vs peer; significance: +0.1 vs peer. |
+| [TR/priene](../../../countries/TR/sights/priene.yaml) | 8.8 / 9.0 / 9.1 / 8.7 / 8.9 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer. |
+| [GR/mystras](../../../countries/GR/sights/mystras.yaml) | 9.1 / 9.2 / 9.3 / 8.9 / 9.0 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Coastal ruin ensemble. |
+| Uniqueness | 8.7 | Characteristic Cilician urban remains. |
+| Significance | 8.9 | Important regional classical heritage. |
+| Experience | 8.6 | Established outdoor visit. |
+| Depth | 8.8 | Varied civic and funerary remains. |
+
+- Applicable categories: history:9.2, architecture:9.1, photography:9.1.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-kizkalesi — Kızkalesi Island Castle Mersin — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/kizkalesi.yaml)
+- Action: new
+- Precise subject and limitations: Island fortress only; shore castle and beach not independently added here. Boat access not guaranteed; exterior views and established monument experience.
+- Location check: 36.45677, 34.1484; [published representative point](https://mapcarta.com/33609818), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-113760/kizkalesi-maidens-castle.html); inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/mamure-castle](../../../countries/TR/sights/mamure-castle.yaml) | 9.0 / 8.9 / 8.9 / 8.8 / 8.8 | depth: -0.5 vs peer; significance: -0.2 vs peer. |
+| [TR/bodrum-castle](../../../countries/TR/sights/bodrum-castle.yaml) | 8.7 / 8.8 / 8.9 / 8.7 / 8.5 | impact: +0.2 vs peer; significance: -0.2 vs peer. |
+| [PT/almourol-castle](../../../countries/PT/sights/almourol-castle.yaml) | 9.0 / 8.9 / 8.7 / 8.5 / 8.0 | depth: +0.3 vs peer; impact: -0.1 vs peer. |
+| [GR/acrocorinth-fortress](../../../countries/GR/sights/acrocorinth-fortress.yaml) | 9.0 / 8.9 / 9.0 / 8.8 / 8.9 | depth: -0.6 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dramatic offshore silhouette. |
+| Uniqueness | 8.9 | Distinct maritime island setting. |
+| Significance | 8.7 | Medieval coastal heritage. |
+| Experience | 8.6 | Boat approach or shoreline viewing. |
+| Depth | 8.3 | Compact fortress. |
+
+- Applicable categories: photography:9.3, architecture:9.1, history:9.1.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-amasya-harsena — Amasya Harşena Mountain, Pontic Tombs and Riverside Historic Quarter — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/amasya-harsena.yaml)
+- Action: new
+- Precise subject and limitations: Tentative property scope groups castle, rock tombs and Yalıboyu houses; coordinates converted from published DMS. Not all houses or tomb interiors accessible.
+- Location check: 40.654722, 35.826111; [published representative point](https://whc.unesco.org/en/tentativelists/6039/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/amasya/see); inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/harran-historic-town](../../../countries/TR/sights/harran-historic-town.yaml) | 8.8 / 9.2 / 9.1 / 8.7 / 8.7 | depth: +0.3 vs peer; impact: +0.2 vs peer. |
+| [TR/mardin-landscape](../../../countries/TR/sights/mardin-landscape.yaml) | 8.9 / 9.0 / 8.9 / 9.0 / 8.8 | depth: +0.2 vs peer; impact: +0.1 vs peer. |
+| [TR/safranbolu-historic](../../../countries/TR/sights/safranbolu-historic.yaml) | 8.7 / 8.9 / 8.8 / 8.6 / 8.4 | depth: +0.6 vs peer; impact: +0.3 vs peer. |
+| [GR/mystras](../../../countries/GR/sights/mystras.yaml) | 9.1 / 9.2 / 9.3 / 8.9 / 9.0 | significance: -0.3 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking cliff and river ensemble. |
+| Uniqueness | 9.1 | Distinct Pontic tombs above Ottoman houses. |
+| Significance | 9.0 | Layered regional heritage. |
+| Experience | 8.9 | Walking and viewpoints. |
+| Depth | 9.0 | Multiple connected historic elements. |
+
+- Applicable categories: photography:9.4, architecture:9.3, history:9.3, culture:9.1.
+- Computed worldwide overall: 90.10/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-odunpazari-historic — Odunpazarı Historic District Eskişehir — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/odunpazari-historic.yaml)
+- Action: new
+- Precise subject and limitations: Traditional street fabric and historic houses, courtyards and local craft precinct; coordinates converted from tentative-list DMS. Independent modern art collections excluded.
+- Location check: 39.763008, 30.525781; [published representative point](https://whc.unesco.org/en/tentativelists/5733/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.odunpazari.bel.tr/en-US/detay/historical-odunpazari-houses); inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/safranbolu-historic](../../../countries/TR/sights/safranbolu-historic.yaml) | 8.7 / 8.9 / 8.8 / 8.6 / 8.4 | depth: +0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [TR/antalya-kaleici](../../../countries/TR/sights/antalya-kaleici.yaml) | 8.9 / 8.8 / 8.9 / 9.0 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TR/bursa-cumalikizik](../../../countries/TR/sights/bursa-cumalikizik.yaml) | 8.5 / 8.8 / 9.1 / 8.5 / 8.7 | significance: -0.4 vs peer; experience: +0.4 vs peer. |
+| [TR/harran-historic-town](../../../countries/TR/sights/harran-historic-town.yaml) | 8.8 / 9.2 / 9.1 / 8.7 / 8.7 | uniqueness: -0.6 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Colorful traditional streets. |
+| Uniqueness | 8.6 | Distinct local residential fabric. |
+| Significance | 8.7 | Seljuk and Ottoman urban heritage. |
+| Experience | 8.9 | Established walking and craft experience. |
+| Depth | 8.8 | Multiple streets and historic buildings. |
+
+- Applicable categories: architecture:9.2, culture:9.2, photography:9.1, history:9.0.
+- Computed worldwide overall: 87.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

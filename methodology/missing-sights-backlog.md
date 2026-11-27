@@ -1238,3 +1238,15 @@ Eight additions, 32 peer rows. Türkiye 113 ranked / 113 total. Laodicea and Pri
 - [x] TR — Mamure Castle Anamur: 89.05/100 (source-linked-unverified).
 
 Six additions, 24 peer rows. Türkiye 119 ranked / 119 total. Yazılıkaya explicitly listed in Hattusha property (https://whc.unesco.org/en/list/377/maps/); Çatalhöyük on-site centre (https://www.catalhoyuk.com/visit) retained within existing site; Aphrodisias museum grouped with site by ministry (https://muze.gov.tr/muze-detay?DistId=AFR&SectionId=AFR01), detailed third-party FAQ returned 403 so separate ticket not asserted. Mamure substituted. Alanya Red Tower and shipyard grouped. Hacı Bektaş UNESCO coordinate labels appear transposed; mapped complex used. Next bounded screen: Ballıca Cave, Dim Cave, Cennet and Cehennem sinkholes, Anamurium, Kızkalesi, Amasya historic riverfront, Odunpazarı historic district and Divriği scope check. Earlier Ihlara and Antalya museum deferrals unchanged. Full Python validation pending.
+
+### Pass 107 — Türkiye karst landscapes and regional heritage
+
+- [x] TR — Ballıca Cave Nature Park Tokat: 88.60/100 (source-linked-unverified).
+- [x] TR — Dim Cave Alanya: 85.45/100 (source-linked-unverified).
+- [x] TR — Cennet and Cehennem Sinkholes Silifke: 88.55/100 (source-linked-unverified).
+- [x] TR — Anemurium Archaeological Site: 87.65/100 (source-linked-unverified).
+- [x] TR — Kızkalesi Island Castle Mersin: 87.55/100 (source-linked-unverified).
+- [x] TR — Amasya Harşena Mountain, Pontic Tombs and Riverside Historic Quarter: 90.10/100 (source-linked-unverified).
+- [x] TR — Odunpazarı Historic District Eskişehir: 87.15/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. Türkiye 126 ranked / 126 total. Divriği mosque and hospital already jointly represented (https://whc.unesco.org/en/list/358); no duplicate. Ballıca and Dim separate show caves; Cennet and Cehennem grouped; Anemurium separate from Mamure; Amasya tentative ensemble grouped; Odunpazarı historic district excludes independent modern collections. Next bounded screen: Alacahöyük, Kültepe Kaniş-Karum, Aizanoi, Gümüşler Monastery, Alahan Monastery, Kanlıdivane, and Odunpazarı Modern Museum (independent collection check). Earlier Ihlara and Antalya museum deferrals unchanged. Full Python validation pending.

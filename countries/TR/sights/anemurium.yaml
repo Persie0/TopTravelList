@@ -1,0 +1,16 @@
+id: sight-tr-anemurium
+name: "Anemurium Archaeological Site"
+location:
+  country_code: TR
+  latitude: 36.02417
+  longitude: 32.8025
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.1
