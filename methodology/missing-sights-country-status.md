@@ -43,6 +43,6 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | PM | DONE — current queue | 15 total (15 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 0 existing unassessed separate. |
 | TF | DONE — current queue | 7 total (1 ranked); 1 additions pass 168. Bounded small-territory priority screen complete; reopen on concrete substantial omission. 6 existing unassessed separate. |
 
-| AU | OPEN | 144 ranked; pass 204 adds 19 urban, coastal and wilderness attractions. 7 source-linked 90+; 11 desk-based provisional; 19 international ranking-row comparisons. Jenolan reopening target recorded; remaining coastal, marine, Indigenous heritage, national institutions, state parks and legacy scope/validation pending. |
+| AU | OPEN | 162 ranked; pass 205 adds 18 Indigenous culture, national institutions and regional attractions. 6 source-linked 90+; 4 desk-based provisional; 16 international ranking-row comparisons. Ningaloo whale shark scope resolved without duplicate; Lady Elliot deferred; remaining regional and legacy overlap/validation pending. |
 
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

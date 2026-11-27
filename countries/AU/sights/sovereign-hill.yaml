@@ -1,0 +1,16 @@
+id: sight-au-sovereign-hill
+name: "Sovereign Hill Ballarat Gold Rush Living History Museum"
+location:
+  country_code: AU
+  latitude: -37.576
+  longitude: 143.867
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.3
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.3
+    family: 9.4

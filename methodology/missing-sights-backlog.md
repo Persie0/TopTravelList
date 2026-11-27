@@ -3482,3 +3482,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AU — Margaret River Wine Region Cellar Door and Food Trail: 87.15/100 (desk-based provisional).
 
 19 additions, 11 desk-based provisional, 8 source-linked, 7 90+, 52 ranking-row comparisons including 19 US peers. Australia 144 ranked / 144 total. Jenolan closed, early 2027 reopening target not guaranteed; specific cave tours distinct from Greater Blue Mountains umbrella, pending restored visitor scope. Kuranda rail/cableway grouped; South Coast and Franklin continuous journeys distinct from Tasmanian Wilderness. Sydney and Melbourne botanic gardens separately scoped. Wine regions are heritage/food landscapes, no individual winery duplication. Ningaloo whale sharks remain deferred pending parent review. Existing scores retained. Next: remaining coastal, marine, Indigenous heritage, national institutions and state park screen; independent overlap and full Python validation pending.
+
+### Pass 205 — Australian living history, Indigenous culture and national institutions
+
+- [x] AU — Sovereign Hill Ballarat Gold Rush Living History Museum: 91.75/100 (source-linked-unverified).
+- [x] AU — Buku-Larrnggay Mulka Centre and Museum Yirrkala: 91.25/100 (source-linked-unverified).
+- [x] AU — Australian National Botanic Gardens Canberra: 90.70/100 (source-linked-unverified).
+- [x] AU — Tiwi Islands Community-Guided Art and Cultural Experience: 90.90/100 (source-linked-unverified).
+- [x] AU — Museum and Art Gallery of the Northern Territory Darwin: 90.55/100 (source-linked-unverified).
+- [x] AU — Australian Parliament House Canberra Architecture and Public Tours: 90.70/100 (source-linked-unverified).
+- [x] AU — National Library of Australia Treasures Gallery Canberra: 89.60/100 (source-linked-unverified).
+- [x] AU — Old Parliament House Museum of Australian Democracy Canberra: 89.40/100 (source-linked-unverified).
+- [x] AU — National Portrait Gallery Canberra: 88.50/100 (source-linked-unverified).
+- [x] AU — Injalak Hill Guided Rock Art and Arts Centre Gunbalanya: 89.70/100 (source-linked-unverified).
+- [x] AU — Barunguba Montague Island Fur Seal Snorkelling and Wildlife Tours: 88.75/100 (source-linked-unverified).
+- [x] AU — Mole Creek Karst National Park Guided Cave Tours Tasmania: 88.00/100 (source-linked-unverified).
+- [x] AU — Hastings Caves and Thermal Springs Tasmania: 86.75/100 (source-linked-unverified).
+- [x] AU — Tasman Arch Devils Kitchen and Waterfall Bay Coastal Viewpoints: 87.45/100 (source-linked-unverified).
+- [x] AU — Crocodylus Park Darwin Crocodile and Wildlife Interpretation: 85.85/100 (desk-based provisional).
+- [x] AU — Araluen Cultural Precinct Alice Springs: 87.45/100 (desk-based provisional).
+- [x] AU — Alice Springs Desert Park Native Wildlife and Desert Ecology: 88.45/100 (desk-based provisional).
+- [x] AU — Darwin Aviation Museum and Aircraft Collection: 87.40/100 (desk-based provisional).
+
+18 additions, 4 desk-based provisional, 14 source-linked, 6 90+, 48 ranking-row comparisons including 16 US peers. Australia 162 ranked / 162 total. Ningaloo whale sharks: existing whole-property review explicitly includes guided marine activities and wildlife; retain 91.80, document seasonal operator swim experiences (https://www.ningalooreefwhalesharks.au/) without duplicate entry or guaranteed sighting. Lady Elliot manta dives deferred for GBR parent scope; tourism source confirms distinct concentration (https://www.queensland.com/gb/en/places-to-see/experiences/great-barrier-reef/marine-life/swim-with-manta-rays-great-barrier-reef). Sovereign Hill separate from Victorian Goldfields six tentative components, whose existing review explicitly excludes Ballarat. Tasman Arch circuit excludes Three Capes route. Indigenous land access and permissions separate from intrinsic scoring. Existing scores retained. Next: remaining state-level flagship parks, museums and regional experiences; independent overlap and full Python validation pending.
