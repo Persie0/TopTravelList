@@ -1049,3 +1049,16 @@ Eight additions, 32 peer rows. Italy 157 ranked / 169 total. Superga distinct fr
 - [x] IT — Bosa Historic Centre and Serravalle Castle: 86.65/100 (source-linked-unverified).
 
 Six additions, 24 peer rows. Italy 163 ranked / 175 total, 38 additions since pass 87; current named queue DONE (17 closed queues total). Royal Palace Turin and Venaria Reale excluded as components of https://whc.unesco.org/en/list/823. Palazzo Massimo only, Verona Arena interior only, Miramare castle and park grouped (operator page timeout, Council of Europe listing supports scope), Capo Testa terrestrial peninsula distinct from offshore island attractions, Bosa town heritage grouped. Twelve prior unassessed unchanged. Next country: unscreened country selected from inventory. Full Python validation pending.
+
+### Pass 92 — Greek museums, caves, coastal and historic attractions
+
+- [x] GR — Heraklion Archaeological Museum: 92.35/100 (source-linked-unverified).
+- [x] GR — Archaeological Museum of Thessaloniki: 89.80/100 (source-linked-unverified).
+- [x] GR — White Tower Museum Thessaloniki: 86.60/100 (source-linked-unverified).
+- [x] GR — Melissani Lake Cave Kefalonia: 87.95/100 (source-linked-unverified).
+- [x] GR — Diros Vlychada Cave: 89.00/100 (source-linked-unverified).
+- [x] GR — Myrtos Beach Kefalonia: 86.35/100 (source-linked-unverified).
+- [x] GR — Monemvasia Medieval Castle Town: 90.35/100 (source-linked-unverified).
+- [x] GR — Ancient Corinth Archaeological Site and Museum: 89.20/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows; Greece 72 ranked / 73 total. Heraklion museum distinct from Minoan palaces, Thessaloniki archaeological museum distinct from Byzantine monuments, White Tower and Monemvasia absent from named UNESCO component lists checked; Ancient Corinth site and museum grouped, beach and adjacent viewpoints grouped. Next bounded screen: Corinth Canal, Acrocorinth (series overlap check), Nafplio historic town, Chania Venetian harbour, Museum of Byzantine Culture Thessaloniki, Benaki Museum Athens, Drogarati Cave and Porto Katsiki beach. One prior unassessed unchanged. Full Python validation and independent corroboration pending.

@@ -2282,3 +2282,315 @@
 - Final decision: Scope-limited editorial assessment: Distinct classical Athenian civic center; Named Agora site.
 - Earlier decision: none.
 - Verification still needed: independent factual evidence, admission and closer peer matching.
+
+
+## sight-gr-heraklion-archaeological-museum — Heraklion Archaeological Museum — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/heraklion-archaeological-museum.yaml)
+- Action: new
+- Precise subject and limitations: Minoan artefacts and original frescoes; separate from Knossos and serial palatial sites.
+- Location check: 35.3392, 25.1375; [published representative point](https://en.wikipedia.org/wiki/Heraklion_Archaeological_Museum), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/archaeological-museum-of-heraklion); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/national-arch-museum](../../../countries/GR/sights/national-arch-museum.yaml) | 9.0 / 9.2 / 9.6 / 9.0 / 9.2 | impact: +0.2 vs peer; significance: -0.2 vs peer. |
+| [GR/acropolis-museum](../../../countries/GR/sights/acropolis-museum.yaml) | 9.1 / 9.2 / 9.5 / 9.2 / 9.0 | experience: -0.2 vs peer; depth: +0.2 vs peer. |
+| [IT/naples-archaeological-museum](../../../countries/IT/sights/naples-archaeological-museum.yaml) | 9.2 / 9.2 / 9.4 / 8.9 / 9.2 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer. |
+| [IT/museo-egizio](../../../countries/IT/sights/museo-egizio.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; impact: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Outstanding ancient artefacts. |
+| Uniqueness | 9.3 | Distinctive concentration of Minoan material. |
+| Significance | 9.4 | Major archaeological collection. |
+| Experience | 9.0 | Dedicated museum galleries. |
+| Depth | 9.2 | Substantial collections spanning several periods. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:8.8.
+- Computed worldwide overall: 92.35/100.
+- High-score challenge: 90+ provisional; compared with established international anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-thessaloniki-archaeological-museum — Archaeological Museum of Thessaloniki — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/thessaloniki-archaeological-museum.yaml)
+- Action: new
+- Precise subject and limitations: Macedonian archaeological collections, distinct from Byzantine monument series and Aigai excavation precinct.
+- Location check: 40.625541, 22.953704; [published representative point](https://www.religiousgreece.gr/en/attractions/archaeological-museum-thessaloniki), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hh.gr/en/destinations/archaeological-museum-thessaloniki/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/national-arch-museum](../../../countries/GR/sights/national-arch-museum.yaml) | 9.0 / 9.2 / 9.6 / 9.0 / 9.2 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer. |
+| [GR/acropolis-museum](../../../countries/GR/sights/acropolis-museum.yaml) | 9.1 / 9.2 / 9.5 / 9.2 / 9.0 | experience: -0.4 vs peer; significance: -0.3 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+| [IT/national-roman-museum-palazzo-massimo](../../../countries/IT/sights/national-roman-museum-palazzo-massimo.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Impressive ancient goldwork and sculpture. |
+| Uniqueness | 9.0 | Distinct Macedonian collection. |
+| Significance | 9.2 | Important regional and national archaeological heritage. |
+| Experience | 8.8 | Curated exhibition circuit. |
+| Depth | 9.0 | Multiple substantial collections. |
+
+- Applicable categories: history:9.4, culture:9.3, architecture:8.7.
+- Computed worldwide overall: 89.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-white-tower-thessaloniki — White Tower Museum Thessaloniki — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/white-tower-thessaloniki.yaml)
+- Action: new
+- Precise subject and limitations: Ottoman-era tower history exhibition and rooftop view. Not named in UNESCO listed components at https://whc.unesco.org/en/list/0456/maps/ or tentative bastioned series https://whc.unesco.org/en/tentativelists/5855/; excludes wider waterfront.
+- Location check: 40.6264, 22.9483; [published representative point](https://en.wikipedia.org/wiki/White_Tower_of_Thessaloniki), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hh.gr/en/destinations/white-tower-thessaloniki/); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/clerigos-church-tower](../../../countries/PT/sights/clerigos-church-tower.yaml) | 8.7 / 8.6 / 8.7 / 8.8 / 8.2 | significance: +0.1 vs peer; impact: +0.0 vs peer. |
+| [IT/bologna-two-towers](../../../countries/IT/sights/bologna-two-towers.yaml) | 8.8 / 8.9 / 8.9 / 8.6 / 8.0 | uniqueness: -0.3 vs peer; experience: +0.2 vs peer. |
+| [ES/tower-hercules](../../../countries/ES/sights/tower-hercules.yaml) | 8.8 / 9.1 / 9.3 / 8.7 / 7.9 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer. |
+| [GR/thessaloniki-monuments](../../../countries/GR/sights/thessaloniki-monuments.yaml) | 8.9 / 9.3 / 9.5 / 8.8 / 9.1 | depth: -0.9 vs peer; uniqueness: -0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Distinct waterfront silhouette and panorama. |
+| Uniqueness | 8.6 | Recognizable historic tower form. |
+| Significance | 8.8 | Important city landmark and history. |
+| Experience | 8.8 | Interior exhibition and ascent. |
+| Depth | 8.2 | Compact tower circuit. |
+
+- Applicable categories: architecture:9.1, history:9.1, photography:9.2.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-melissani-lake-cave — Melissani Lake Cave Kefalonia — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/melissani-lake-cave.yaml)
+- Action: new
+- Precise subject and limitations: Boat route on underground lake with open roof; distinct from nearby Drogarati and Mount Ainos. Light and boat operation vary.
+- Location check: 38.2568, 20.6243; [published representative point](https://melissanicave.com/how-to-get-there/), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.discovergreece.com/experiences/boating-kefalonias-melissani-cave); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/neptunes-grotto](../../../countries/IT/sights/neptunes-grotto.yaml) | 9.1 / 8.9 / 8.5 / 8.8 / 8.5 | depth: -0.7 vs peer; uniqueness: +0.2 vs peer. |
+| [IT/blue-grotto-capri](../../../countries/IT/sights/blue-grotto-capri.yaml) | 9.0 / 8.8 / 8.2 / 8.5 / 7.3 | depth: +0.5 vs peer; uniqueness: +0.3 vs peer. |
+| [PT/algar-do-carvao](../../../countries/PT/sights/algar-do-carvao.yaml) | 9.1 / 9.3 / 8.8 / 8.8 / 8.4 | depth: -0.6 vs peer; significance: -0.5 vs peer. |
+| [ES/drach-caves](../../../countries/ES/sights/drach-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | depth: -0.7 vs peer; impact: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Striking illuminated blue lake. |
+| Uniqueness | 9.1 | Distinct roof opening and underground lake. |
+| Significance | 8.3 | Regional karst heritage. |
+| Experience | 8.8 | Established short boat visit. |
+| Depth | 7.8 | Compact route. |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:8.9.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-diros-caves — Diros Vlychada Cave — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/diros-caves.yaml)
+- Action: new
+- Precise subject and limitations: Established Vlychada boat and walking circuit; excludes separate archaeological cave deposits unless on the public route. Route length and operation conditional.
+- Location check: 36.63836, 22.38066; [published representative point](https://www.allovergreece.com/en/best-caves-greece/diros-cave-lakonia-greece), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/nature/caves/the-diros-caves); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/frasassi-caves](../../../countries/IT/sights/frasassi-caves.yaml) | 9.3 / 9.1 / 8.6 / 9.0 / 8.7 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/castellana-caves](../../../countries/IT/sights/castellana-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.7 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer. |
+| [ES/drach-caves](../../../countries/ES/sights/drach-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | depth: +0.3 vs peer; uniqueness: +0.1 vs peer. |
+| [PT/gruta-das-torres](../../../countries/PT/sights/gruta-das-torres.yaml) | 8.8 / 8.9 / 8.6 / 8.6 / 8.3 | depth: +0.5 vs peer; experience: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Extensive decorated cave passages. |
+| Uniqueness | 9.0 | Distinct underground boating experience. |
+| Significance | 8.6 | Important regional karst heritage. |
+| Experience | 9.0 | Established boat and walking visit. |
+| Depth | 8.8 | Multiple connected chambers. |
+
+- Applicable categories: nature:9.3, adventure:9.2, photography:9.1.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-myrtos-beach — Myrtos Beach Kefalonia — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/myrtos-beach.yaml)
+- Action: new
+- Precise subject and limitations: Beach and immediately associated cliff viewpoints grouped; not the whole island. Swimming subject to sea conditions.
+- Location check: 38.34303, 20.5361; [published representative point](https://www.allovergreece.com/Beaches/Descr/63/927/en), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/islands/ionian-islands); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/balos](../../../countries/GR/sights/balos.yaml) | 9.2 / 9.0 / 8.3 / 8.8 / 7.9 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [GR/elafonisi](../../../countries/GR/sights/elafonisi.yaml) | 9.0 / 8.9 / 8.2 / 8.9 / 7.7 | impact: +0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [GR/navagio](../../../countries/GR/sights/navagio.yaml) | 9.3 / 9.1 / 8.2 / 8.3 / 7.5 | experience: +0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [PT/porto-santo-beach](../../../countries/PT/sights/porto-santo-beach.yaml) | 8.9 / 8.4 / 8.0 / 9.1 / 8.5 | depth: -0.7 vs peer; impact: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Exceptional turquoise bay and cliffs. |
+| Uniqueness | 8.7 | Distinct coastal setting. |
+| Significance | 8.0 | Primarily regional scenic heritage. |
+| Experience | 8.8 | Established beach and lookout experience. |
+| Depth | 7.8 | Bounded beach and adjacent viewpoints. |
+
+- Applicable categories: beaches:9.3, photography:9.4, nature:9.1, relaxation:8.8.
+- Computed worldwide overall: 86.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-monemvasia-castle-town — Monemvasia Medieval Castle Town — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/monemvasia-castle-town.yaml)
+- Action: new
+- Precise subject and limitations: Upper and lower rock-top medieval town ensemble, churches and streets grouped; representative lower-town square. Not named in tentative bastioned fortifications list https://whc.unesco.org/en/tentativelists/5855/.
+- Location check: 36.68733, 23.05544; [published representative point](https://mapcarta.com/W674604418), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/the-castle-town-of-monemvasia); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/mystras](../../../countries/GR/sights/mystras.yaml) | 9.1 / 9.2 / 9.3 / 8.9 / 9.0 | significance: -0.3 vs peer; depth: -0.2 vs peer. |
+| [GR/rhodes-old-town](../../../countries/GR/sights/rhodes-old-town.yaml) | 9.3 / 9.3 / 9.3 / 9.2 / 9.1 | significance: -0.3 vs peer; depth: -0.3 vs peer. |
+| [IT/erice-historic-town](../../../countries/IT/sights/erice-historic-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.8 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer. |
+| [PT/monsanto-historic-village](../../../countries/PT/sights/monsanto-historic-village.yaml) | 8.9 / 9.2 / 8.6 / 8.7 / 8.4 | significance: +0.4 vs peer; depth: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic fortified rock and townscape. |
+| Uniqueness | 9.1 | Unusual settlement on isolated coastal rock. |
+| Significance | 9.0 | Significant medieval heritage. |
+| Experience | 9.0 | Walkable historic town and upper precinct. |
+| Depth | 8.8 | Multiple connected monuments and streets. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.4, culture:9.1.
+- Computed worldwide overall: 90.35/100.
+- High-score challenge: 90+ provisional; compared with established international anchors; further global calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-gr-ancient-corinth — Ancient Corinth Archaeological Site and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/GR/sights/ancient-corinth.yaml)
+- Action: new
+- Precise subject and limitations: Main archaeological site and adjacent museum grouped, excludes Acrocorinth fortress and modern Corinth Canal.
+- Location check: 37.90576, 22.87995; [published representative point](https://mapcarta.com/29054562), inspected via page or indexed excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/ancient-corinth); page or indexed excerpt inspected 2026-11-27. Sources support factual scope, not scores.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a scoring gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/ancient-agora](../../../countries/GR/sights/ancient-agora.yaml) | 9.0 / 9.2 / 9.6 / 9.0 / 8.8 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer. |
+| [GR/messene](../../../countries/GR/sights/messene.yaml) | 9.0 / 9.1 / 9.2 / 9.0 / 9.0 | uniqueness: -0.3 vs peer; experience: -0.2 vs peer. |
+| [GR/olympia](../../../countries/GR/sights/olympia.yaml) | 8.8 / 9.3 / 9.7 / 9.0 / 9.0 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer. |
+| [IT/ostia-antica](../../../countries/IT/sights/ostia-antica.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Substantial ancient ruins and temple. |
+| Uniqueness | 8.8 | Distinct Greek and Roman urban remains. |
+| Significance | 9.2 | Major classical and Roman historical heritage. |
+| Experience | 8.8 | Walkable excavation and museum. |
+| Depth | 8.9 | Multiple archaeological structures and collections. |
+
+- Applicable categories: history:9.4, architecture:9.2, culture:9.1.
+- Computed worldwide overall: 89.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

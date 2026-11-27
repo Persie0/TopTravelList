@@ -1,0 +1,16 @@
+id: sight-gr-diros-caves
+name: "Diros Vlychada Cave"
+location:
+  country_code: GR
+  latitude: 36.63836
+  longitude: 22.38066
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.0
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.1

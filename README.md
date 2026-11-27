@@ -175,7 +175,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Germany](countries/DE/) (`DE`) | [30](countries/DE/cities.md) | [101](countries/DE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Germany) |
 | [Ghana](countries/GH/) (`GH`) | [20](countries/GH/cities.md) | [50](countries/GH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ghana) |
 | [Gibraltar](countries/GI/) (`GI`) | [1](countries/GI/cities.md) | [9](countries/GI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gibraltar) |
-| [Greece](countries/GR/) (`GR`) | [18](countries/GR/cities.md) | [65](countries/GR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Greece) |
+| [Greece](countries/GR/) (`GR`) | [18](countries/GR/cities.md) | [73](countries/GR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Greece) |
 | [Greenland](countries/GL/) (`GL`) | [7](countries/GL/cities.md) | [12](countries/GL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Greenland) |
 | [Grenada](countries/GD/) (`GD`) | [12](countries/GD/cities.md) | [33](countries/GD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Grenada) |
 | [Guadeloupe](countries/GP/) (`GP`) | [5](countries/GP/cities.md) | [11](countries/GP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guadeloupe) |
