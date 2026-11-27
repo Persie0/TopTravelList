@@ -811,3 +811,16 @@ Two additions and eight peer rows; Morocco 71 ranked / 79 total. Forty-two addit
 - [x] ES — La Concha Beach and Bay Promenade: 86.70/100 (source-linked-unverified).
 
 Eight additions and 32 peer rows; Spain 110 ranked / 125 total. Official Spain tourism inventory screened. Valencia complex grouped; two Lanzarote lava-tube visitor venues distinct; Ronda precinct grouped. Existing serial/component overlaps (Gaudi, Alhambra, Ordesa, Cies) left unchanged as separate consistency work. Next bounded museums, city and coastal screen: Picasso Museum Barcelona, Dali Theatre-Museum, Santiago Bernabeu tour, Albufera, Palma Cathedral, San Sebastian old town, Gaztelugatxe, and Cabo de Gata. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 73 — Spanish museums, coastal and urban attractions
+
+- [x] ES — Dalí Theatre-Museum Figueres: 92.15/100 (source-linked-unverified).
+- [x] ES — Picasso Museum Barcelona: 89.50/100 (source-linked-unverified).
+- [x] ES — Palma Cathedral (La Seu): 89.70/100 (source-linked-unverified).
+- [x] ES — San Juan de Gaztelugatxe: 88.15/100 (source-linked-unverified).
+- [x] ES — Cabo de Gata-Níjar Natural Park: 88.55/100 (source-linked-unverified).
+- [x] ES — Santiago Bernabéu Stadium Tour: 87.45/100 (source-linked-unverified).
+- [x] ES — L'Albufera Natural Park Valencia: 86.90/100 (source-linked-unverified).
+- [x] ES — San Sebastián Old Town (Parte Vieja): 86.85/100 (source-linked-unverified).
+
+Eight additions and 32 peer rows; Spain 118 ranked / 133 total. Bernabéu tour restricted to advertised museum and panorama scope, Gaztelugatxe controlled access, La Concha excluded from Old Town. Next bounded screen includes Girona historic centre, PortAventura, Dalí House Portlligat, MNAC Barcelona, Picasso Museum Málaga, Alcazaba of Málaga, Bellver Castle and Ebro Delta. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.

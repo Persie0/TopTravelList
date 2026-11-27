@@ -1,0 +1,17 @@
+id: sight-es-albufera-valencia
+name: "L'Albufera Natural Park Valencia"
+location:
+  country_code: ES
+  latitude: 39.3053
+  longitude: -0.3142
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.1
+    wildlife: 9.2
+    photography: 9.1
+    relaxation: 9.0
