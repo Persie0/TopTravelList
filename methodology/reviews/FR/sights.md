@@ -10894,3 +10894,363 @@ Ranking rows checked; peer YAML and international calibration pending.
 - Overall: 88.75/100.
 - Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
 - Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-arcy-caves — Grottes d’Arcy-sur-Cure Prehistoric Paintings and Great Cave — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/arcy-caves.yaml)
+- Action: new
+- Scope: Great Cave original paintings and geological circuit only; no inaccessible sister caves assumed.
+- Representative coordinates: 47.591, 3.762; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.1 / 9.2.
+- Categories: history:9.4,culture:9.4,nature:9.3.
+- Overall: 92.75/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://grottes-arcy.net/ ; https://grottes-arcy.net/la-grande-grotte/.
+- Rationale: Operator documents 28,000-year-old paintings and original decorated cave visit.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/pech-merle](../../../countries/FR/sights/pech-merle.yaml) | 9.1 / 9.4 / 9.4 / 9.0 / 9.0 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [FR/grotte-niaux](../../../countries/FR/sights/grotte-niaux.yaml) | 9.1 / 9.4 / 9.4 / 8.9 / 8.8 | depth: +0.4 vs peer; experience: +0.2 vs peer |
+| [FR/mas-azil-cave](../../../countries/FR/sights/mas-azil-cave.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | impact: +0.2 vs peer; depth: +0.2 vs peer |
+| [FR/aven-orgnac](../../../countries/FR/sights/aven-orgnac.yaml) | 9.3 / 9.3 / 9.1 / 9.3 / 9.2 | significance: +0.3 vs peer; experience: -0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-train-jaune-cerdagne — Train Jaune Cerdagne Historic Mountain Railway — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/train-jaune-cerdagne.yaml)
+- Action: new
+- Scope: Full scenic railway ride, not separate ratings of its stops and fortresses.
+- Representative coordinates: 42.541, 2.1; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.1 / 9.2 / 9.2.
+- Categories: photography:9.4,history:9.3,adventure:9.3.
+- Overall: 92.05/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://letrainjaune.fr/horaires-et-infos/.
+- Rationale: Regional railway route spans 63 km and 21 stations through the Catalan Pyrenees.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/artouste-railway](../../../countries/FR/sights/artouste-railway.yaml) | 9.2 / 9.2 / 8.6 / 9.2 / 8.8 | significance: +0.5 vs peer; depth: +0.4 vs peer |
+| [FR/montenvers-railway](../../../countries/FR/sights/montenvers-railway.yaml) | 9.3 / 9.3 / 9.0 / 9.2 / 9.1 | impact: -0.1 vs peer; significance: +0.1 vs peer |
+| [FR/cite-train-mulhouse](../../../countries/FR/sights/cite-train-mulhouse.yaml) | 9.4 / 9.4 / 9.3 / 9.3 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [FR/gorges-haut-allier](../../../countries/FR/sights/gorges-haut-allier.yaml) | 9.1 / 9.0 / 8.7 / 9.3 / 9.2 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-aiguilles-rouges-lakes — Aiguilles Rouges Lac Blanc and Chéserys Lakes Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/aiguilles-rouges-lakes.yaml)
+- Action: new
+- Scope: Distinct massif facing Mont Blanc; combined lake trails, no separate individual lakes or TMB route. Mont Blanc landscape view overlap acknowledged.
+- Representative coordinates: 45.982, 6.888; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.6 / 9.3 / 9.1.
+- Categories: nature:9.4,photography:9.4,adventure:9.4.
+- Overall: 90.90/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.chamonix.com/nature-glacier-cascade-lac/lac-blanc ; https://www.chamonix.com/la-vallee/patrimoine-culture/patrimoine-naturel-de-la-vallee-de-chamonix-mont-blanc/lacs-des-cheserys ; https://www.chamonix.com/la-vallee/patrimoine-culture/patrimoine-naturel-de-la-vallee-de-chamonix-mont-blanc/reserve-naturelle-des-aiguilles-rouges.
+- Rationale: Official tourism places both lakes in Aiguilles Rouges reserve and documents connected hiking routes.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/claree-valley](../../../countries/FR/sights/claree-valley.yaml) | 9.3 / 9.1 / 8.7 / 9.2 / 9.1 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+| [FR/neouvielle-reserve](../../../countries/FR/sights/neouvielle-reserve.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.2 | significance: -0.3 vs peer; experience: +0.1 vs peer |
+| [FR/bouillouses-lakes](../../../countries/FR/sights/bouillouses-lakes.yaml) | 9.3 / 9.0 / 8.6 / 9.2 / 9.1 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer |
+| [FR/mont-blanc](../../../countries/FR/sights/mont-blanc.yaml) | 9.7 / 9.4 / 9.3 / 9.3 / 9.5 | significance: -0.7 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-bauges-karst — Massif des Bauges Geopark Central Karst and Mountain Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bauges-karst.yaml)
+- Action: new
+- Scope: Interior mountain karst and trails, excludes separately scored Semnoz, Annecy, Bourget and Fier Gorge.
+- Representative coordinates: 45.685, 6.164; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.1 / 9.1 / 9.2.
+- Categories: nature:9.4,adventure:9.3,photography:9.3.
+- Overall: 91.10/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.unesco.org/en/iggp/massif-des-bauges-unesco-global-geopark ; https://geoparc.parcdesbauges.com/ ; https://rando.parcdesbauges.com/trek/8769-La-GEO-RANDO-des-tannes-et-glacieres.
+- Rationale: UNESCO Global Geopark with distinctive limestone relief and interpreted karst trails.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/chartreuse-massif](../../../countries/FR/sights/chartreuse-massif.yaml) | 9.0 / 8.9 / 8.6 / 9.1 / 9.2 | significance: +0.5 vs peer; uniqueness: +0.2 vs peer |
+| [FR/vercors-high-plateaux](../../../countries/FR/sights/vercors-high-plateaux.yaml) | 9.2 / 9.0 / 8.8 / 9.1 / 9.2 | significance: +0.3 vs peer; impact: -0.1 vs peer |
+| [FR/queyras-mountain-trails](../../../countries/FR/sights/queyras-mountain-trails.yaml) | 9.1 / 9.0 / 8.8 / 9.2 / 9.3 | significance: +0.3 vs peer; uniqueness: +0.1 vs peer |
+| [FR/haut-jura-trails](../../../countries/FR/sights/haut-jura-trails.yaml) | 8.9 / 8.8 / 8.5 / 8.9 / 9.1 | significance: +0.6 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-glieres-morette — Plateau des Glières and Morette Resistance Heritage and Museums — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/glieres-morette.yaml)
+- Action: new
+- Scope: Linked WWII remembrance sites and museum collections; no separate plateau nature score.
+- Representative coordinates: 45.964, 6.331; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.4 / 9.0 / 9.2.
+- Categories: history:9.4,culture:9.3,photography:9.2.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://hautesavoie.fr/evenement/sites-des-glieres-maquis-et-morette/ ; https://hautesavoie.fr/en-pratique/culture-patrimoine/les-sites-culturels-du-departement/memoire-du-maquis-plateau-des-glieres/.
+- Rationale: Department operates complementary plateau and Morette interpretation sites.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/vercors-memorial](../../../countries/FR/sights/vercors-memorial.yaml) | 8.8 / 8.9 / 9.3 / 8.8 / 8.8 | depth: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [FR/besancon-resistance](../../../countries/FR/sights/besancon-resistance.yaml) | 8.9 / 9.1 / 9.4 / 9.0 / 9.2 | uniqueness: +0.1 vs peer; impact: +0.0 vs peer |
+| [FR/memorial-caen](../../../countries/FR/sights/memorial-caen.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+| [FR/mont-mouchet](../../../countries/FR/sights/mont-mouchet.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-galibier-pass — Col du Galibier Alpine Pass and Historic Cycling Route — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/galibier-pass.yaml)
+- Action: new
+- Scope: Pass road, cycling experience and immediate summit views; excludes national park hikes.
+- Representative coordinates: 45.064, 6.408; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.8 / 9.2 / 8.7.
+- Categories: adventure:9.4,photography:9.4,nature:9.3.
+- Overall: 90.20/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.maurienne-tourisme.com/visiter_bouger/col-du-galibier-point-de-vue-93471/ ; https://www.maurienne-tourisme.com/velo/les-grands-cols/galibier/.
+- Rationale: 2642 m pass and major cycling heritage, documented Tour de France use from 1911.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/mont-ventoux](../../../countries/FR/sights/mont-ventoux.yaml) | 9.2 / 9.0 / 8.9 / 9.1 / 9.0 | depth: -0.3 vs peer; significance: -0.1 vs peer |
+| [FR/beaufort-roselend](../../../countries/FR/sights/beaufort-roselend.yaml) | 9.0 / 8.8 / 8.4 / 9.0 / 8.6 | significance: +0.4 vs peer; impact: +0.2 vs peer |
+| [FR/vosges-cretes](../../../countries/FR/sights/vosges-cretes.yaml) | 9.2 / 9.0 / 8.7 / 9.3 / 9.3 | depth: -0.6 vs peer; significance: +0.1 vs peer |
+| [FR/meije-cable-car](../../../countries/FR/sights/meije-cable-car.yaml) | 9.3 / 9.2 / 8.7 / 9.2 / 8.8 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-poudrey-cave — Gouffre de Poudrey Mineral Cavern and Underground Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/poudrey-cave.yaml)
+- Action: new
+- Scope: Underground chamber and interpreted route only.
+- Representative coordinates: 47.153, 6.273; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 8.8 / 9.1 / 9.0.
+- Categories: nature:9.4,photography:9.3,adventure:9.2.
+- Overall: 90.00/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://gouffredepoudrey.com/la-visite/ ; https://tourisme.portes-haut-doubs.com/offres/les-sites-de-visites/gouffre-de-poudrey/.
+- Rationale: One of France's largest developed underground chambers; guided descent to around 70 metres.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/choranche-cave](../../../countries/FR/sights/choranche-cave.yaml) | 9.2 / 9.3 / 8.7 / 9.2 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [FR/aven-armand](../../../countries/FR/sights/aven-armand.yaml) | 9.4 / 9.4 / 8.9 / 9.1 / 8.8 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [FR/grotte-saint-marcel](../../../countries/FR/sights/grotte-saint-marcel.yaml) | 9.3 / 9.4 / 9.0 / 9.3 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [FR/osselle-cave](../../../countries/FR/sights/osselle-cave.yaml) | 8.8 / 8.9 / 8.5 / 8.8 / 8.7 | significance: +0.3 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-lautaret-garden — Jardin Alpin du Lautaret High Altitude Botanical Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lautaret-garden.yaml)
+- Action: new
+- Scope: Curated botanical collections and interpretation only, not pass landscape.
+- Representative coordinates: 45.035, 6.403; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.1 / 9.0 / 9.2.
+- Categories: nature:9.4,culture:9.2,photography:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.hautes-alpes.net/fiche/jardin-du-lautaret/ ; https://www.hautes-alpes.net/fiche/jardin-du-lautaret-2/.
+- Rationale: Over 2,000 mountain plant species and active research station.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/paris-jardin-plantes](../../../countries/FR/sights/paris-jardin-plantes.yaml) | 8.7 / 8.7 / 8.8 / 8.9 / 8.8 | uniqueness: +0.5 vs peer; depth: +0.4 vs peer |
+| [FR/terra-botanica](../../../countries/FR/sights/terra-botanica.yaml) | 8.8 / 9.0 / 8.0 / 9.1 / 9.1 | significance: +1.1 vs peer; uniqueness: +0.2 vs peer |
+| [FR/montpellier-jardin-plantes](../../../countries/FR/sights/montpellier-jardin-plantes.yaml) | 8.6 / 8.8 / 8.9 / 8.7 / 8.6 | depth: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [FR/val-rahmeh](../../../countries/FR/sights/val-rahmeh.yaml) | 8.6 / 8.8 / 8.6 / 8.8 / 8.7 | significance: +0.5 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-aravis-trails — Chaîne des Aravis La Clusaz and Confins Mountain Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/aravis-trails.yaml)
+- Action: new
+- Scope: Aravis ridge and local Confins routes; not whole ski resort or Glières memorial.
+- Representative coordinates: 45.921, 6.49; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.6 / 9.1 / 9.0.
+- Categories: nature:9.4,photography:9.3,adventure:9.3.
+- Overall: 88.80/100.
+- Decision: Source-informed provisional editorial assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.laclusaz.com/details/belvedere-de-merdassier/ ; https://www.laclusaz.com/le-mag/inspirations/debuter-le-trail/.
+- Rationale: Tourism office documents ridge views, alpine meadows and distinct local trails.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/bauges-karst](../../../countries/FR/sights/bauges-karst.yaml) | 9.1 / 9.1 / 9.1 / 9.1 / 9.2 | significance: -0.5 vs peer; impact: -0.2 vs peer |
+| [FR/chartreuse-massif](../../../countries/FR/sights/chartreuse-massif.yaml) | 9.0 / 8.9 / 8.6 / 9.1 / 9.2 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+| [FR/queyras-mountain-trails](../../../countries/FR/sights/queyras-mountain-trails.yaml) | 9.1 / 9.0 / 8.8 / 9.2 / 9.3 | depth: -0.3 vs peer; impact: -0.2 vs peer |
+| [FR/aiguilles-rouges-lakes](../../../countries/FR/sights/aiguilles-rouges-lakes.yaml) | 9.3 / 9.1 / 8.6 / 9.3 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; peer YAML and international calibration pending.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-saleve-ridge — Mont Salève Ridge Trails and Cable Car Panoramas — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saleve-ridge.yaml)
+- Action: new
+- Scope: French ridge landscape and cable car; Geneva urban sites excluded.
+- Representative coordinates: 46.132, 6.19; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 9.0 / 8.8.
+- Categories: nature:9.3,photography:9.4,adventure:9.2.
+- Overall: 87.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-montriond-lake — Lac de Montriond Alpine Lake and Ardent Waterfall Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/montriond-lake.yaml)
+- Action: new
+- Scope: Lake and local trail corridor.
+- Representative coordinates: 46.215, 6.731; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.3 / 8.9 / 8.6.
+- Categories: nature:9.3,photography:9.3,relaxation:9.2.
+- Overall: 86.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-mont-cenis — Lac du Mont-Cenis and Historic Alpine Pass — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/mont-cenis.yaml)
+- Action: new
+- Scope: Pass and reservoir landscape; excludes Vanoise interior hiking and Italian destinations.
+- Representative coordinates: 45.24, 6.914; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 8.9 / 8.8.
+- Categories: nature:9.3,history:9.2,photography:9.4.
+- Overall: 88.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-iseran-pass — Col de l’Iseran High Alpine Road and Cycling — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/iseran-pass.yaml)
+- Action: new
+- Scope: Road pass and cycling scope only; exclude Vanoise trails.
+- Representative coordinates: 45.417, 7.031; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 9.0 / 8.7.
+- Categories: adventure:9.3,photography:9.4,nature:9.3.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-mille-etangs — Plateau des Mille Étangs Forest Ponds and Wetland Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/mille-etangs.yaml)
+- Action: new
+- Scope: Glacial pond landscape in Haute-Saône; not Haut-Jura.
+- Representative coordinates: 47.806, 6.617; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 8.9 / 8.9.
+- Categories: nature:9.3,photography:9.4,relaxation:9.2.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-mont-lozere — Mont Lozère Granite Highlands and Summit Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/mont-lozere.yaml)
+- Action: new
+- Scope: Local summit hiking only; check Cévennes and Causses cultural-landscape overlap.
+- Representative coordinates: 44.426, 3.738; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 8.9 / 8.9.
+- Categories: nature:9.3,adventure:9.3,photography:9.3.
+- Overall: 88.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-lac-guery — Lac de Guéry Volcanic Lake and Tuilière Sanadoire Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lac-guery.yaml)
+- Action: new
+- Scope: Lake and adjacent volcanic rock viewpoints, excludes Sancy summit and Puy de Dôme.
+- Representative coordinates: 45.618, 2.824; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3,photography:9.4,relaxation:9.2.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-saint-gervais-tramway — Tramway du Mont-Blanc Historic Mountain Railway — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-gervais-tramway.yaml)
+- Action: new
+- Scope: Distinct railway ride from Saint-Gervais; not climbing Mont Blanc or Montenvers.
+- Representative coordinates: 45.889, 6.719; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 8.8.
+- Categories: history:9.3,photography:9.4,adventure:9.2.
+- Overall: 88.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.
+
+
+## sight-fr-plateau-sainte-baume — Sainte-Baume Mountain Forest and Grotte Sainte-Marie-Madeleine — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/plateau-sainte-baume.yaml)
+- Action: new
+- Scope: Forest pilgrimage trail and cave sanctuary grouped; no separate massif or cave score.
+- Representative coordinates: 43.335, 5.764; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.9 / 8.8 / 8.9.
+- Categories: nature:9.3,history:9.3,adventure:9.2.
+- Overall: 88.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- Verification pending: independent factual and coordinate checks, full Python validation.

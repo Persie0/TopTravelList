@@ -26,7 +26,7 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 | GR | DONE — current queue | 111 total (110 ranked); 46 additions in passes 92–97. Seven final named candidates resolved. Ancient Thera current closure notice recorded; Cave of the Lakes dedicated tour separate from park; mastic museum separate from village streets. No remaining named candidates in bounded queue; reopen on concrete substantial omission. One prior unassessed unchanged. |
 | TR | DONE — current queue | 168 ranked / 168 total; 117 additions in passes 98–114. Named queue resolved; distinct wetlands and mountain parks screened, Kapuzbaşı included in Aladağlar. Ihlara precise boundary caveat remains. Reopen for concrete significant omissions; not an exhaustive inventory. |
 
-| FR | OPEN | 1045 total (1034 ranked); 944 additions since pass 115. Overseas territory codes separate. Pass 170 western and central residual 24 additions. Next: Check further regional omissions (northern/central historic towns, national maritime museums, Alpine hikes and named natural sites) and resolve bounded French discovery queue; existing 11 unassessed separate. |
+| FR | OPEN | 1063 total (1052 ranked); 962 additions since pass 115. Overseas codes separate. Pass 171 alpine and natural residual 18 additions. Next: Final residual check of regional museums, outstanding named attractions and current FR queue; existing 11 unassessed handled separately. |
 
 | RE | OPEN | 16 total (16 ranked); 6 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
 | GP | OPEN | 20 total (20 ranked); 4 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |

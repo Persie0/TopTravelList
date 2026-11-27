@@ -2650,3 +2650,27 @@ Next: Return to mainland FR residual high-value coverage and overseas follow-up;
 - [x] FR — Musée du Compagnonnage Tours Traditional Master Crafts Collections: 88.75/100 (desk-based provisional).
 
 24 additions, 11 desk-based provisional estimates, 13 source-informed candidates, 12 90+, 52 domestic peer ranking-row comparisons. France 1034 ranked / 1045 total; 11 existing unassessed unchanged. Western and central France residual screen; Le Mans walls, cathedral and historic core combined; M24 replacement of former 24 Hours museum, no duplicate; separate Aquascope scope; Loire Valley collections independently scored, no repeat architectural scores. Poitiers Notre-Dame restoration not penalized. Port-Louis museum complex distinct from Lorient La Base. Existing scores preserved. Next: Check further regional omissions (northern/central historic towns, national maritime museums, Alpine hikes and named natural sites) and resolve bounded French discovery queue; existing 11 unassessed separate. Full Python validation pending.
+
+
+### Pass 171 — French alpine and natural residual audit
+
+- [x] FR — Grottes d’Arcy-sur-Cure Prehistoric Paintings and Great Cave: 92.75/100 (source-linked-unverified).
+- [x] FR — Train Jaune Cerdagne Historic Mountain Railway: 92.05/100 (source-linked-unverified).
+- [x] FR — Aiguilles Rouges Lac Blanc and Chéserys Lakes Hiking: 90.90/100 (source-linked-unverified).
+- [x] FR — Massif des Bauges Geopark Central Karst and Mountain Trails: 91.10/100 (source-linked-unverified).
+- [x] FR — Plateau des Glières and Morette Resistance Heritage and Museums: 91.20/100 (source-linked-unverified).
+- [x] FR — Col du Galibier Alpine Pass and Historic Cycling Route: 90.20/100 (source-linked-unverified).
+- [x] FR — Gouffre de Poudrey Mineral Cavern and Underground Circuit: 90.00/100 (source-linked-unverified).
+- [x] FR — Jardin Alpin du Lautaret High Altitude Botanical Collections: 90.60/100 (source-linked-unverified).
+- [x] FR — Chaîne des Aravis La Clusaz and Confins Mountain Trails: 88.80/100 (source-linked-unverified).
+- [x] FR — Mont Salève Ridge Trails and Cable Car Panoramas: 87.80/100 (desk-based provisional).
+- [x] FR — Lac de Montriond Alpine Lake and Ardent Waterfall Trails: 86.70/100 (desk-based provisional).
+- [x] FR — Lac du Mont-Cenis and Historic Alpine Pass: 88.70/100 (desk-based provisional).
+- [x] FR — Col de l’Iseran High Alpine Road and Cycling: 88.15/100 (desk-based provisional).
+- [x] FR — Plateau des Mille Étangs Forest Ponds and Wetland Trails: 88.10/100 (desk-based provisional).
+- [x] FR — Mont Lozère Granite Highlands and Summit Trails: 88.15/100 (desk-based provisional).
+- [x] FR — Lac de Guéry Volcanic Lake and Tuilière Sanadoire Viewpoints: 87.45/100 (desk-based provisional).
+- [x] FR — Tramway du Mont-Blanc Historic Mountain Railway: 88.85/100 (desk-based provisional).
+- [x] FR — Sainte-Baume Mountain Forest and Grotte Sainte-Marie-Madeleine: 88.85/100 (desk-based provisional).
+
+18 additions, 9 desk-based provisional, 9 source-informed, 8 90+, 36 domestic peer ranking-row comparisons. France 1052 ranked / 1063 total; 11 existing unassessed unchanged. Alpine and natural residual screen: Lac Blanc and Chéserys grouped; geographically distinct Aiguilles Rouges from Mont Blanc massif though views overlap. Bauges excludes existing named outer sites. Arcy original cave distinct from Vézère and Chauvet. Railway experiences independently scoped; no separate stops. Mont Lozère and existing Cévennes heritage landscape potential overlap flagged; precise boundaries pending. Duplicate exclusions: none. Next: Final residual check of regional museums, outstanding named attractions and current FR queue; existing 11 unassessed handled separately. Full Python validation pending.

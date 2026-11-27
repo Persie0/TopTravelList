@@ -1,0 +1,16 @@
+id: sight-fr-plateau-sainte-baume
+name: "Sainte-Baume Mountain Forest and Grotte Sainte-Marie-Madeleine"
+location:
+  country_code: FR
+  latitude: 43.335
+  longitude: 5.764
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.8
+  depth: 8.9
+  categories:
+    nature: 9.3
+    history: 9.3
+    adventure: 9.2
