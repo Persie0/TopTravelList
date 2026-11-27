@@ -1,0 +1,16 @@
+id: sight-gp-guadeloupe-aquarium
+name: "Aquarium de la Guadeloupe Le Gosier Marine Education"
+location:
+  country_code: GP
+  latitude: 16.219
+  longitude: -61.529
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 8.8
+  depth: 8.6
+  categories:
+    wildlife: 9.2
+    family: 9.3
+    nature: 9.2

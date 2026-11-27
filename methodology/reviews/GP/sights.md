@@ -606,3 +606,262 @@ No numerical score or evidence-status changes made by this pass.
 ### Pass 167 coordinate correction — Fort Delgrès
 
 Corrected hemisphere and approximate location to 15.989, -61.723, consistent with [published coordinates](https://en.wikipedia.org/wiki/Fort_Delgr%C3%A8s) and [Guadeloupe tourism](https://www.lesilesdeguadeloupe.com/patrimoine-culturel/fort-delgres/). Score unchanged.
+
+## sight-gp-desirade-geology — La Désirade Geological Nature Reserve and Coastal Trails — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/desirade-geology.yaml)
+- Action: new
+- Scope: Oldest exposed rocks of Lesser Antilles arc and eastern Caribbean plate; Jurassic ophiolite coastal geology and permitted trails only; excludes Petite-Terre.
+- Representative coordinates: 16.334, -61.007; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 8.8 / 8.9.
+- Categories: nature:9.4,photography:9.3,adventure:9.2.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://iugs-geoheritage.org/geoheritage_sites/upper-jurassic-ophiolitic-sequence-in-la-desirade-island/ ; https://reservesdesiradepetiteterre.com/les-reserves-de-la-desirade/reserve-a-caractere-geologique/ ; https://www.lesilesdeguadeloupe.com/experiences/randonnees/randonnees-en-grande-terre/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/la-soufriere](../../../countries/GP/sights/la-soufriere.yaml) | 9.2 / 8.9 / 8.9 / 8.7 / 8.6 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+| [GP/petite-terre](../../../countries/GP/sights/petite-terre.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 8.2 | depth: +0.7 vs peer; uniqueness: +0.4 vs peer |
+| [GP/guadeloupe-park](../../../countries/GP/sights/guadeloupe-park.yaml) | 9.2 / 9.1 / 9.0 / 9.0 / 9.2 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+| [GP/pointe-des-chateaux](../../../countries/GP/sights/pointe-des-chateaux.yaml) | 8.9 / 8.5 / 7.9 / 8.6 / 7.6 | significance: +1.4 vs peer; depth: +1.3 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-basse-terre-whale-watching — Basse-Terre Offshore Whale and Dolphin Watching — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/basse-terre-whale-watching.yaml)
+- Action: new
+- Scope: Seasonal boat-based observation of humpbacks and other cetaceans with authorized operators; no sighting guarantee, swimming or duplication of Pigeon Islets diving; representative Malendure departure.
+- Representative coordinates: 16.171, -61.777; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.7 / 9.2 / 8.9.
+- Categories: wildlife:9.4,nature:9.3,photography:9.3.
+- Overall: 90.15/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.lesilesdeguadeloupe.com/en/explore/the-fauna-and-flora-of-guadeloupe/whales-in-guadeloupe/ ; https://sanctuaire-agoa.fr/editorial/je-choisis-un-professionnel-du-whale-watching-forme-et-autorise ; https://ofb.gouv.fr/le-sanctuaire-agoa-pour-les-mammiferes-marins.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/pigeon-islets-cousteau](../../../countries/GP/sights/pigeon-islets-cousteau.yaml) | 9.0 / 8.8 / 8.8 / 9.1 / 8.6 | uniqueness: +0.3 vs peer; depth: +0.3 vs peer |
+| [GP/petite-terre](../../../countries/GP/sights/petite-terre.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 8.2 | depth: +0.7 vs peer; experience: +0.5 vs peer |
+| [GP/grand-cul-de-sac-marin](../../../countries/GP/sights/grand-cul-de-sac-marin.yaml) | 8.9 / 8.8 / 9.0 / 8.6 / 8.7 | experience: +0.6 vs peer; uniqueness: +0.3 vs peer |
+| [GP/guadeloupe-park](../../../countries/GP/sights/guadeloupe-park.yaml) | 9.2 / 9.1 / 9.0 / 9.0 / 9.2 | significance: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-acomat-canyoning — Acomat River Guided Canyoning Pointe-Noire — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/acomat-canyoning.yaml)
+- Action: new
+- Scope: Guided technical or family river descent at Acomat, not generic national park canyoning or additional waterfall entry; only legally permitted activity.
+- Representative coordinates: 16.216, -61.761; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 9.1 / 8.8.
+- Categories: adventure:9.3,nature:9.3,photography:9.2.
+- Overall: 88.10/100.
+- Decision: Source-informed provisional assessment from indexed excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.canyon-guadeloupe.com/parcours-sportif/canyoning-acomat-integral/ ; https://moncanyon.com/en/activites/family-canyoning-acomat-guadeloupe/ ; https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020691914/2026-07-30.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/carbet-falls](../../../countries/GP/sights/carbet-falls.yaml) | 8.9 / 8.5 / 8.1 / 8.5 / 7.9 | depth: +0.9 vs peer; experience: +0.6 vs peer |
+| [GP/la-soufriere](../../../countries/GP/sights/la-soufriere.yaml) | 9.2 / 8.9 / 8.9 / 8.7 / 8.6 | impact: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-porte-enfer-north-coast — Porte d’Enfer and Trou de Madame Coco Coastal Cliff Trails — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/porte-enfer-north-coast.yaml)
+- Action: new
+- Scope: Northern Grande-Terre cliff walk and sea cave viewpoints combined.
+- Representative coordinates: 16.485, -61.424; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.8 / 8.7.
+- Categories: photography:9.4,nature:9.3,adventure:9.2.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/pointe-des-chateaux](../../../countries/GP/sights/pointe-des-chateaux.yaml) | 8.9 / 8.5 / 7.9 / 8.6 / 7.6 | depth: +1.1 vs peer; significance: +0.5 vs peer |
+| [GP/chameau-saintes](../../../countries/GP/sights/chameau-saintes.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.7 | experience: -0.1 vs peer; impact: +0.0 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-gueule-grand-gouffre — Gueule Grand Gouffre Marie-Galante Limestone Sea Arch — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/gueule-grand-gouffre.yaml)
+- Action: new
+- Scope: Distinct natural sea arch and cliff viewpoint; no repeated island-wide scenery.
+- Representative coordinates: 15.985, -61.271; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.3 / 8.6 / 8.3.
+- Categories: photography:9.4,nature:9.3.
+- Overall: 86.45/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/pointe-des-chateaux](../../../countries/GP/sights/pointe-des-chateaux.yaml) | 8.9 / 8.5 / 7.9 / 8.6 / 7.6 | depth: +0.7 vs peer; uniqueness: +0.4 vs peer |
+| [GP/carbet-falls](../../../countries/GP/sights/carbet-falls.yaml) | 8.9 / 8.5 / 8.1 / 8.5 / 7.9 | uniqueness: +0.4 vs peer; depth: +0.4 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-marie-galante-feuillere — Plage de la Feuillère and Capesterre Lagoon Marie-Galante — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/marie-galante-feuillere.yaml)
+- Action: new
+- Scope: Beach and adjacent lagoon combined; separate from sugar heritage circuit.
+- Representative coordinates: 15.887, -61.223; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.0 / 8.9 / 8.5.
+- Categories: beaches:9.3,relaxation:9.3,nature:9.2.
+- Overall: 85.45/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/grande-anse-deshaies](../../../countries/GP/sights/grande-anse-deshaies.yaml) | 8.8 / 8.6 / 8.2 / 9.0 / 8.5 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+| [GP/souffleur-port-louis](../../../countries/GP/sights/souffleur-port-louis.yaml) | 8.6 / 8.5 / 8.1 / 8.9 / 8.5 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-edgar-clerc-museum — Musée Edgar Clerc Le Moule Indigenous Caribbean Archaeology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/edgar-clerc-museum.yaml)
+- Action: new
+- Scope: Independent pre-Columbian archaeology collections and ethnobotanical garden; no additional petroglyph-site credit.
+- Representative coordinates: 16.335, -61.371; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 9.1 / 9.1 / 8.7 / 9.0.
+- Categories: history:9.4,culture:9.4.
+- Overall: 89.10/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/roches-gravees](../../../countries/GP/sights/roches-gravees.yaml) | 8.5 / 9.0 / 9.1 / 8.6 / 8.7 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [GP/memorial-acte](../../../countries/GP/sights/memorial-acte.yaml) | 8.5 / 9.0 / 9.2 / 8.7 / 8.6 | depth: +0.4 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-saint-john-perse-museum — Musée Saint-John Perse Pointe-à-Pitre Literary and Creole Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/saint-john-perse-museum.yaml)
+- Action: new
+- Scope: Literary and historic house interpretation distinct from Schœlcher museum; temporary access separate.
+- Representative coordinates: 16.237, -61.535; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.9 / 8.5 / 8.7.
+- Categories: culture:9.3,history:9.2,architecture:9.1.
+- Overall: 86.45/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/schoelcher-museum](../../../countries/GP/sights/schoelcher-museum.yaml) | 8.4 / 8.7 / 8.9 / 8.5 / 8.7 | uniqueness: +0.1 vs peer; impact: +0.0 vs peer |
+| [GP/memorial-acte](../../../countries/GP/sights/memorial-acte.yaml) | 8.5 / 9.0 / 9.2 / 8.7 / 8.6 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-mamelles-zoo — Zoo de Guadeloupe Parc des Mamelles Rainforest Wildlife Park — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/mamelles-zoo.yaml)
+- Action: new
+- Scope: Managed zoological collections and elevated forest walk, separate from general rainforest hiking.
+- Representative coordinates: 16.174, -61.741; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.4 / 8.9 / 8.8.
+- Categories: wildlife:9.3,family:9.4,nature:9.2.
+- Overall: 86.50/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/guadeloupe-park](../../../countries/GP/sights/guadeloupe-park.yaml) | 9.2 / 9.1 / 9.0 / 9.0 / 9.2 | impact: -0.6 vs peer; significance: -0.6 vs peer |
+| [GP/deshaies-botanical-garden](../../../countries/GP/sights/deshaies-botanical-garden.yaml) | 8.2 / 8.0 / 7.5 / 8.5 / 8.0 | significance: +0.9 vs peer; depth: +0.8 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-valombreuse-garden — Jardin Botanique de Valombreuse Petit-Bourg — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/valombreuse-garden.yaml)
+- Action: new
+- Scope: Independent tropical botanical garden.
+- Representative coordinates: 16.159, -61.625; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.3 / 8.8 / 8.7.
+- Categories: nature:9.3,family:9.2,photography:9.2.
+- Overall: 85.75/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/deshaies-botanical-garden](../../../countries/GP/sights/deshaies-botanical-garden.yaml) | 8.2 / 8.0 / 7.5 / 8.5 / 8.0 | significance: +0.8 vs peer; uniqueness: +0.7 vs peer |
+| [GP/maison-cacao](../../../countries/GP/sights/maison-cacao.yaml) | 8.3 / 8.7 / 8.5 / 8.8 / 8.6 | impact: +0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-guadeloupe-aquarium — Aquarium de la Guadeloupe Le Gosier Marine Education — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/guadeloupe-aquarium.yaml)
+- Action: new
+- Scope: Captive marine interpretation, not wild reef observation.
+- Representative coordinates: 16.219, -61.529; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.3 / 8.8 / 8.6.
+- Categories: wildlife:9.2,family:9.3,nature:9.2.
+- Overall: 85.10/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/pigeon-islets-cousteau](../../../countries/GP/sights/pigeon-islets-cousteau.yaml) | 9.0 / 8.8 / 8.8 / 9.1 / 8.6 | impact: -0.6 vs peer; significance: -0.5 vs peer |
+| [GP/petite-terre](../../../countries/GP/sights/petite-terre.yaml) | 9.0 / 9.0 / 8.9 / 8.7 / 8.2 | impact: -0.6 vs peer; significance: -0.6 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-gp-damoiseau-distillery — Distillerie Damoiseau Bellevue Le Moule Sugarcane Rum Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/GP/sights/damoiseau-distillery.yaml)
+- Action: new
+- Scope: Historic distillery production interpretation on Grande-Terre; no alcohol consumption necessary.
+- Representative coordinates: 16.325, -61.377; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.7 / 8.7 / 8.8.
+- Categories: culture:9.3,history:9.2,food:9.2.
+- Overall: 86.75/100.
+- Decision: Desk-based provisional estimate from regional overview and existing scale; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GP/beauport-sugar](../../../countries/GP/sights/beauport-sugar.yaml) | 8.4 / 8.8 / 8.8 / 8.7 / 8.8 | impact: +0.1 vs peer; significance: -0.1 vs peer |
+| [GP/marie-galante-heritage](../../../countries/GP/sights/marie-galante-heritage.yaml) | 8.6 / 8.8 / 8.9 / 8.7 / 8.8 | significance: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+

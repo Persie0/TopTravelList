@@ -2754,3 +2754,21 @@ Next: Return to mainland FR residual high-value coverage and overseas follow-up;
 - [x] RE — Église Sainte-Anne Baroque Church Saint-Benoît: 86.15/100 (desk-based provisional).
 
 Official regional/activity overview screen: https://www.reunion.fr/organisez/vos-activites/le-tour-de-l-ile-de-la-reunion/le-sud/ ; https://www.reunion.fr/organisez/conseils-de-voyage/questions-reponses/que-faire-a-la-reunion/ ; https://www.reunion.fr/decouvrez/parcs-et-jardins/les-jardins-botaniques/ ; https://www.reunion.fr/decouvrez/la-reunion-une-ile-sept-ambiances/les-cirques-ambiance-de-territoire/ . 14 additions, 11 desk-based provisional, 3 source-informed, 2 90+, 32 domestic ranking-row comparisons. Réunion 30 ranked / 30 total. Bounded queue closed; excludes generic park and marine reserve duplicates, repeat cirque viewpoints. Separate technical descent, offshore scuba and boat-based wildlife experiences. Prior scores preserved. Current sea access regulations separate from intrinsic ranking. Next: Guadeloupe. Full Python validation pending.
+
+
+### Pass 176 — Guadeloupe remaining priority queue
+
+- [x] GP — La Désirade Geological Nature Reserve and Coastal Trails: 91.20/100 (source-linked-unverified).
+- [x] GP — Basse-Terre Offshore Whale and Dolphin Watching: 90.15/100 (source-linked-unverified).
+- [x] GP — Acomat River Guided Canyoning Pointe-Noire: 88.10/100 (source-linked-unverified).
+- [x] GP — Porte d’Enfer and Trou de Madame Coco Coastal Cliff Trails: 87.40/100 (desk-based provisional).
+- [x] GP — Gueule Grand Gouffre Marie-Galante Limestone Sea Arch: 86.45/100 (desk-based provisional).
+- [x] GP — Plage de la Feuillère and Capesterre Lagoon Marie-Galante: 85.45/100 (desk-based provisional).
+- [x] GP — Musée Edgar Clerc Le Moule Indigenous Caribbean Archaeology Museum: 89.10/100 (desk-based provisional).
+- [x] GP — Musée Saint-John Perse Pointe-à-Pitre Literary and Creole Heritage: 86.45/100 (desk-based provisional).
+- [x] GP — Zoo de Guadeloupe Parc des Mamelles Rainforest Wildlife Park: 86.50/100 (desk-based provisional).
+- [x] GP — Jardin Botanique de Valombreuse Petit-Bourg: 85.75/100 (desk-based provisional).
+- [x] GP — Aquarium de la Guadeloupe Le Gosier Marine Education: 85.10/100 (desk-based provisional).
+- [x] GP — Distillerie Damoiseau Bellevue Le Moule Sugarcane Rum Heritage: 86.75/100 (desk-based provisional).
+
+Regional overview screen: https://www.lesilesdeguadeloupe.com/en/explore/what-to-do-in-guadeloupe/ ; https://www.lesilesdeguadeloupe.com/en/islands/marie-galante-island/what-to-do-in-marie-galante/ ; https://www.lesilesdeguadeloupe.com/en/islands/la-desirade-island/what-to-do-in-la-desirade/ ; https://www.lesilesdeguadeloupe.com/en/experiences/hikes/ ; https://www.cg971.fr/culture-tourisme/musees/ ; https://www.lesilesdeguadeloupe.com/planifier/toutes-les-activites/ . 12 additions, 9 desk-based provisional, 3 source-informed, 2 90+, 28 domestic ranking-row comparisons. Guadeloupe 32 ranked / 32 total. Bounded queue closed; excludes duplicate national park forest trails, Cousteau diving and Grand Cul-de-Sac Marin mangroves. Prior scores preserved. Next: Martinique. Full Python validation pending.

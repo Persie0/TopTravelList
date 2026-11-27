@@ -1,0 +1,16 @@
+id: sight-gp-mamelles-zoo
+name: "Zoo de Guadeloupe Parc des Mamelles Rainforest Wildlife Park"
+location:
+  country_code: GP
+  latitude: 16.174
+  longitude: -61.741
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.9
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    family: 9.4
+    nature: 9.2
