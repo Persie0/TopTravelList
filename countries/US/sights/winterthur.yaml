@@ -1,0 +1,16 @@
+id: sight-us-winterthur
+name: "Winterthur Museum Garden and Library Delaware"
+location:
+  country_code: US
+  latitude: 39.808
+  longitude: -75.602
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.3
+  categories:
+    history: 9.3
+    culture: 9.4
+    architecture: 9.2

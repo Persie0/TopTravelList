@@ -3231,3 +3231,32 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Silver Falls State Park Oregon Trail of Ten Falls: 87.95/100 (desk-based provisional).
 
 23 additions, 7 desk-based provisional, 16 source-informed, 10 90+, 66 domestic ranking-row comparisons. United States 434 ranked / 434 total. Carnegie art and natural history distinct institutions sharing building/admission; coordinate duplication intentional. Yin Yu Tang included within PEM; Heye Center is separate NYC venue; aviation base access not presumed; Crazy Horse unfinished condition reflected. Queue remains open for final state-by-state coverage screen, particularly regional destinations, science and maritime museums, urban heritage and outstanding overlap cases. Existing scores retained. Full Python validation pending.
+
+### Pass 195 — US state-level heritage and experiences
+
+- [x] US — U.S. Space and Rocket Center Huntsville: 93.25/100 (source-linked-unverified).
+- [x] US — Meow Wolf House of Eternal Return Santa Fe: 91.90/100 (source-linked-unverified).
+- [x] US — Winterthur Museum Garden and Library Delaware: 91.20/100 (source-linked-unverified).
+- [x] US — Stax Museum of American Soul Music Memphis: 91.45/100 (source-linked-unverified).
+- [x] US — National Museum of African American Music Nashville: 91.75/100 (source-linked-unverified).
+- [x] US — International Spy Museum Washington DC: 91.50/100 (source-linked-unverified).
+- [x] US — Vicksburg National Military Park Battlefield and USS Cairo Museum: 90.80/100 (source-linked-unverified).
+- [x] US — Mississippi Civil Rights Museum and Museum of Mississippi History Jackson: 90.75/100 (source-linked-unverified).
+- [x] US — Smithsonian National Postal Museum Washington DC: 90.60/100 (source-linked-unverified).
+- [x] US — Sun Studio Memphis Historic Recording Studio Tour: 90.60/100 (source-linked-unverified).
+- [x] US — Kentucky Horse Park and International Museum of the Horse: 89.45/100 (source-linked-unverified).
+- [x] US — Weitzman National Museum of American Jewish History Philadelphia: 89.50/100 (source-linked-unverified).
+- [x] US — USS Alabama Battleship Memorial Park Mobile: 88.90/100 (source-linked-unverified).
+- [x] US — National Constitution Center Philadelphia: 88.55/100 (desk-based provisional).
+- [x] US — National Building Museum Washington DC: 88.00/100 (desk-based provisional).
+- [x] US — American Visionary Art Museum Baltimore: 88.25/100 (desk-based provisional).
+- [x] US — National Corvette Museum Bowling Green Kentucky: 87.90/100 (desk-based provisional).
+- [x] US — Louisville Slugger Museum and Factory: 87.55/100 (desk-based provisional).
+- [x] US — Kentucky Derby Museum and Churchill Downs Tours Louisville: 88.45/100 (desk-based provisional).
+- [x] US — Natchez Historic District and Historic House Tours Mississippi: 87.55/100 (desk-based provisional).
+- [x] US — Historic New Castle Delaware Colonial Townscape: 84.50/100 (desk-based provisional).
+- [x] US — Devils Lake State Park Baraboo Wisconsin: 87.15/100 (desk-based provisional).
+- [x] US — Blackwater Falls State Park West Virginia: 85.85/100 (desk-based provisional).
+- [x] US — Bison Range Flathead Reservation Montana: 87.85/100 (desk-based provisional).
+
+24 additions, 11 desk-based provisional, 13 source-informed, 10 90+, 68 domestic ranking-row comparisons. United States 458 ranked / 458 total. Vicksburg includes USS Cairo; Mississippi two museums grouped; Kentucky Horse Park includes equine museums; Meow Wolf Santa Fe excludes other branches; Churchill Downs tours exclude Derby event and gambling; Sun Studio and Stax distinct. Targeted state-level additions, not exhaustive state-by-state screen. Remaining known candidates: National Museum of Wildlife Art, National Museum of Mathematics, Meow Wolf other distinct venues, regional science museums, maritime heritage and western landscapes. Existing scores retained. Full Python validation pending.

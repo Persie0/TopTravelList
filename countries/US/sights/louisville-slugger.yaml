@@ -1,0 +1,16 @@
+id: sight-us-louisville-slugger
+name: "Louisville Slugger Museum and Factory"
+location:
+  country_code: US
+  latitude: 38.257
+  longitude: -85.763
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 8.6
+  categories:
+    culture: 9.2
+    history: 9.0
+    family: 9.1

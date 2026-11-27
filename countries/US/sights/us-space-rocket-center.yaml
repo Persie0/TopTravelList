@@ -1,0 +1,16 @@
+id: sight-us-us-space-rocket-center
+name: "U.S. Space and Rocket Center Huntsville"
+location:
+  country_code: US
+  latitude: 34.711
+  longitude: -86.654
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.3
+  depth: 9.3
+  categories:
+    history: 9.4
+    family: 9.4
+    culture: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-kentucky-derby-museum
+name: "Kentucky Derby Museum and Churchill Downs Tours Louisville"
+location:
+  country_code: US
+  latitude: 38.203
+  longitude: -85.771
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 9.0
+  depth: 8.8
+  categories:
+    culture: 9.2
+    history: 9.1
+    family: 8.9

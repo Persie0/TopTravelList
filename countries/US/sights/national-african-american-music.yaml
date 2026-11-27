@@ -1,0 +1,16 @@
+id: sight-us-national-african-american-music
+name: "National Museum of African American Music Nashville"
+location:
+  country_code: US
+  latitude: 36.161
+  longitude: -86.779
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.2
+  depth: 9.1
+  categories:
+    culture: 9.4
+    history: 9.3
+    family: 9.0
