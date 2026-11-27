@@ -7366,3 +7366,389 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 232 scope decisions
 
 18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 288 ranked / 291 total. Adams River normal dominant-cycle merit retained, 2026 weaker than expected per regional reporting; long-term population trend requires separate review. Ancient Forest park/protected area grouped. Agawa rail/canyon stop excludes Lake Superior Provincial Park. Banff festival excludes park sightseeing. La Ronde excludes fireworks. Toronto Zoo excludes Rouge trails. Museum of Vancouver and space centre separate public institutions, shared architecture not double counted. Existing scores and three unassessed retained. Coordinates approximate; event schedules and access not verified. Keep queue open for remaining regional omissions and explicit overlap review; no exhaustive coverage claimed.
+
+## sight-ca-churchill-aurora — Churchill Manitoba Guided Northern Lights Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/churchill-aurora.yaml)
+- Action: new
+- Scope: Aurora-focused guided nighttime experiences in Churchill, distinct from daytime polar bear and beluga excursions. Travel Manitoba reports aurora activity on around 300 nights annually; visibility depends on darkness, weather and solar activity.
+- Representative coordinates: 58.77, -94.17; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.2 / 8.8 / 9.3 / 9.0.
+- Categories: nature:9.4 photography:9.4 adventure:9.2.
+- Overall: 91.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.travelmanitoba.com/blog/the-science-and-stories-of-the-aurora-borealis/, https://www.travelmanitoba.com/blog/where-when-and-how-to-see-northern-lights-in-churchill-manitoba/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/yellowknife-aurora](../../../countries/CA/sights/yellowknife-aurora.yaml) | 9.4 / 9.2 / 8.9 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/churchill-polar-bears](../../../countries/CA/sights/churchill-polar-bears.yaml) | 9.6 / 9.6 / 9.2 / 9.4 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-royal-winnipeg-ballet — Royal Winnipeg Ballet Public Performances — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/royal-winnipeg-ballet.yaml)
+- Action: new
+- Scope: Winnipeg public ballet productions; Canada's first professional ballet company, founded in 1939, recognized as a national historic event. Representative downtown performance district; touring productions elsewhere excluded.
+- Representative coordinates: 49.892, -97.145; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.4 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.3 nightlife:9.2.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=14232, https://rwb.org/our-history/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/stratford-festival](../../../countries/CA/sights/stratford-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.3 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/shaw-festival](../../../countries/CA/sights/shaw-festival.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-four-seasons-performing-arts — Four Seasons Centre Toronto National Ballet and Opera Performances — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/four-seasons-performing-arts.yaml)
+- Action: new
+- Scope: Public National Ballet of Canada and Canadian Opera Company performances at their shared purpose-built venue; grouped to avoid double-counting architecture. Ballet founded in 1951, with classical and contemporary repertoire; venue accommodates approximately 2,000 patrons.
+- Representative coordinates: 43.65, -79.386; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.3 / 9.3.
+- Categories: culture:9.4 architecture:9.3 nightlife:9.3.
+- Overall: 91.15/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://national.ballet.ca/about-us/our-history/about-the-national-ballet-of-canada/, https://www.pcl.com/us/en/our-work/four-seasons-centre-for-the-performing-arts.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/national-arts-centre](../../../countries/CA/sights/national-arts-centre.yaml) | 8.6 / 8.6 / 8.9 / 9.0 / 9.0 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer |
+| [CA/stratford-festival](../../../countries/CA/sights/stratford-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.3 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-nismaakqin-hot-springs — Nism̓aakqin Park Hot Springs Cove Coastal Thermal Pools — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/nismaakqin-hot-springs.yaml)
+- Action: new
+- Scope: Former Maquinna Marine Park, renamed in 2025; Ahousaht stewardship, public authorized thermal pool experience reached by boat/floatplane and rainforest boardwalk. Excludes Tofino municipal surf beaches, Pacific Rim National Park, and incidental wildlife cruises. No access guarantees.
+- Representative coordinates: 49.35, -126.27; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.0 / 9.1 / 8.8.
+- Categories: nature:9.4 relaxation:9.4 photography:9.3.
+- Overall: 90.75/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://bcparks.ca/nismaakqin-park/, https://mhssahousaht.ca/hot-springs-maquinna-park/, https://apps.gov.bc.ca/pub/bcgnws/names/76719.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/liard-hot-springs](../../../countries/CA/sights/liard-hot-springs.yaml) | 8.7 / 8.9 / 8.4 / 8.9 / 8.5 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [CA/tofino-surf](../../../countries/CA/sights/tofino-surf.yaml) | 8.9 / 8.8 / 8.4 / 9.1 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-stonehammer-saint-john — Stonehammer UNESCO Global Geopark Saint John Reversing Rapids and Geological Trails — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/stonehammer-saint-john.yaml)
+- Action: new
+- Scope: Saint John cluster only: Reversing Rapids, Irving Nature Park and Rockwood Park geological trails; excludes existing Fundy Trail Provincial Park and St Martins sea caves. UNESCO documents a geological record spanning nearly one billion years across the larger geopark.
+- Representative coordinates: 45.26, -66.09; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.2 / 8.9 / 9.1.
+- Categories: nature:9.4 history:9.3 photography:9.3.
+- Overall: 90.30/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://data.unesco.org/explore/dataset/eg0001/table/?flg=en-us, https://stonehammergeopark.com/geosite/reversing-falls/, https://visitsaintjohn.ca/parks-and-trails.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/discovery-geopark](../../../countries/CA/sights/discovery-geopark.yaml) | 9.1 / 9.3 / 9.3 / 9.0 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [CA/fundy-trail-park](../../../countries/CA/sights/fundy-trail-park.yaml) | 9.1 / 8.9 / 8.8 / 9.2 / 9.1 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-dr-sun-yat-sen-garden — Dr Sun Yat-Sen Classical Chinese Garden Vancouver — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/dr-sun-yat-sen-garden.yaml)
+- Action: new
+- Scope: Public classical garden complex; excludes generic Chinatown walks and adjacent municipal park as separate entries.
+- Representative coordinates: 49.279, -123.104; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.8 / 8.7 / 8.6.
+- Categories: architecture:9.3 culture:9.3 relaxation:9.2.
+- Overall: 86.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/nikka-yuko](../../../countries/CA/sights/nikka-yuko.yaml) | 8.4 / 8.6 / 8.5 / 8.8 / 8.5 | impact: +0.1 vs peer; uniqueness: +0.2 vs peer |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.5 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-bc-parliament — British Columbia Parliament Buildings Victoria — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/bc-parliament.yaml)
+- Action: new
+- Scope: Public legislative architecture and heritage interpretation; excludes adjacent Royal BC Museum.
+- Representative coordinates: 48.42, -123.37; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.9 / 8.7 / 8.6.
+- Categories: architecture:9.4 history:9.2 culture:9.1.
+- Overall: 86.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/parliament-hill](../../../countries/CA/sights/parliament-hill.yaml) | 8.8 / 8.8 / 9.1 / 8.6 / 8.4 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [CA/casa-loma](../../../countries/CA/sights/casa-loma.yaml) | 8.6 / 8.5 / 8.6 / 8.8 / 8.6 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-manitoba-legislature — Manitoba Legislative Building Winnipeg Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/manitoba-legislature.yaml)
+- Action: new
+- Scope: Public legislative architecture and symbolic details; tour availability unverified.
+- Representative coordinates: 49.884, -97.147; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.8 / 8.6 / 8.5.
+- Categories: architecture:9.3 history:9.2 culture:9.1.
+- Overall: 86.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/parliament-hill](../../../countries/CA/sights/parliament-hill.yaml) | 8.8 / 8.8 / 9.1 / 8.6 / 8.4 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer |
+| [CA/casa-loma](../../../countries/CA/sights/casa-loma.yaml) | 8.6 / 8.5 / 8.6 / 8.8 / 8.6 | impact: -0.1 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-rodd-hill-fisgard — Fort Rodd Hill and Fisgard Lighthouse National Historic Sites — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-rodd-hill-fisgard.yaml)
+- Action: new
+- Scope: Adjacent coastal defence fort and lighthouse grouped as one visit; excludes Victoria city attractions.
+- Representative coordinates: 48.431, -123.448; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.9 / 8.8 / 8.7.
+- Categories: history:9.3 architecture:9.2 photography:9.3.
+- Overall: 87.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fort-henry](../../../countries/CA/sights/fort-henry.yaml) | 8.6 / 8.6 / 9.0 / 8.8 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+| [CA/cape-spear](../../../countries/CA/sights/cape-spear.yaml) | 8.7 / 8.6 / 8.7 / 8.7 / 8.5 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-steele — Fort Steele Heritage Town East Kootenay — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-steele.yaml)
+- Action: new
+- Scope: Historic settlement and living history interpretation, distinct from nearby mountain resorts.
+- Representative coordinates: 49.616, -115.635; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.8 / 8.8 / 8.8.
+- Categories: history:9.3 culture:9.2 family:9.2.
+- Overall: 86.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/barkerville](../../../countries/CA/sights/barkerville.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [CA/kings-landing](../../../countries/CA/sights/kings-landing.yaml) | 8.4 / 8.5 / 8.8 / 8.7 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-craigdarroch-castle — Craigdarroch Castle Victoria — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/craigdarroch-castle.yaml)
+- Action: new
+- Scope: Historic mansion architecture and interior exhibits.
+- Representative coordinates: 48.422, -123.343; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.6 / 8.7 / 8.5.
+- Categories: architecture:9.3 history:9.2 photography:9.1.
+- Overall: 85.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/casa-loma](../../../countries/CA/sights/casa-loma.yaml) | 8.6 / 8.5 / 8.6 / 8.8 / 8.6 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [CA/royal-bc-museum](../../../countries/CA/sights/royal-bc-museum.yaml) | 8.7 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-halifax-public-gardens — Halifax Public Gardens Victorian Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/halifax-public-gardens.yaml)
+- Action: new
+- Scope: Public Victorian garden, distinct from Halifax Citadel.
+- Representative coordinates: 44.643, -63.583; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.6 / 8.7 / 8.4.
+- Categories: nature:9.2 relaxation:9.3 photography:9.2.
+- Overall: 84.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/vandusen-garden](../../../countries/CA/sights/vandusen-garden.yaml) | 8.6 / 8.5 / 8.4 / 8.9 / 8.8 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: -0.7 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-mahone-bay — Mahone Bay Historic Waterfront and Churches — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/mahone-bay.yaml)
+- Action: new
+- Scope: Waterfront and three-church architectural views, distinct from Lunenburg heritage district.
+- Representative coordinates: 44.449, -64.381; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.4 / 8.5 / 8.7 / 8.3.
+- Categories: photography:9.3 architecture:9.2 relaxation:9.2.
+- Overall: 84.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/old-town-lunenburg](../../../countries/CA/sights/old-town-lunenburg.yaml) | 8.5 / 8.7 / 8.9 / 8.4 / 8.0 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+| [CA/niagara-on-the-lake](../../../countries/CA/sights/niagara-on-the-lake.yaml) | 8.6 / 8.5 / 8.7 / 8.8 / 8.7 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-annapolis-royal-fort-anne — Fort Anne National Historic Site Annapolis Royal — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/annapolis-royal-fort-anne.yaml)
+- Action: new
+- Scope: Public historic fort earthworks and interpretation; excludes independent town sightseeing.
+- Representative coordinates: 44.741, -65.519; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 9.1 / 8.6 / 8.8.
+- Categories: history:9.4 culture:9.2 architecture:9.1.
+- Overall: 86.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | 8.0 / 8.1 / 8.6 / 8.5 / 7.8 | impact: +0.4 vs peer; uniqueness: +0.6 vs peer |
+| [CA/fort-henry](../../../countries/CA/sights/fort-henry.yaml) | 8.6 / 8.6 / 9.0 / 8.8 / 8.8 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-sherbrooke-village — Sherbrooke Village Nova Scotia Living History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/sherbrooke-village.yaml)
+- Action: new
+- Scope: Public reconstructed and preserved historic village interpretation.
+- Representative coordinates: 45.137, -61.982; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.8 / 8.7 / 8.8.
+- Categories: history:9.3 culture:9.2 family:9.2.
+- Overall: 85.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/kings-landing](../../../countries/CA/sights/kings-landing.yaml) | 8.4 / 8.5 / 8.8 / 8.7 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [CA/upper-canada-village](../../../countries/CA/sights/upper-canada-village.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-the-boreal-trail — Boreal Trail Meadow Lake Provincial Park Saskatchewan — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/the-boreal-trail.yaml)
+- Action: new
+- Scope: Long-distance forest and lake hiking in Meadow Lake Provincial Park, not separate sub-trails.
+- Representative coordinates: 54.46, -109.45; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.4 / 8.8 / 8.9.
+- Categories: nature:9.3 adventure:9.3 photography:9.2.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/east-coast-trail](../../../countries/CA/sights/east-coast-trail.yaml) | 9.3 / 9.1 / 8.9 / 9.2 / 9.3 | impact: -0.7 vs peer; uniqueness: -0.5 vs peer |
+| [CA/prince-albert-national-park](../../../countries/CA/sights/prince-albert-national-park.yaml) | 8.7 / 8.7 / 8.8 / 8.8 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montreal-olympic-park — Montréal Olympic Park Stadium Architecture and Tower — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montreal-olympic-park.yaml)
+- Action: new
+- Scope: Olympic stadium exterior and architectural interpretation; excludes Biodôme, botanical garden and Insectarium. Current tower and stadium admission not assumed.
+- Representative coordinates: 45.557, -73.551; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.6 / 8.6.
+- Categories: architecture:9.4 history:9.2 photography:9.2.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/cn-tower](../../../countries/CA/sights/cn-tower.yaml) | 8.5 / 8.2 / 8.0 / 8.5 / 7.0 | impact: +0.2 vs peer; uniqueness: +0.6 vs peer |
+| [CA/studio-bell](../../../countries/CA/sights/studio-bell.yaml) | 9.0 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.3 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-sooke-potholes — Sooke Potholes Regional Park River Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/sooke-potholes.yaml)
+- Action: new
+- Scope: Public river gorge trails and geological pools; water recreation subject to safe conditions, no unsafe cliff jumps.
+- Representative coordinates: 48.428, -123.715; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.1 / 8.7 / 8.4.
+- Categories: nature:9.2 photography:9.2 adventure:9.1.
+- Overall: 84.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/skookumchuck-narrows](../../../countries/CA/sights/skookumchuck-narrows.yaml) | 8.9 / 9.1 / 8.5 / 8.8 / 8.4 | impact: -0.4 vs peer; uniqueness: -0.4 vs peer |
+| [CA/johnston-canyon](../../../countries/CA/sights/johnston-canyon.yaml) | 8.6 / 8.3 / 7.5 / 8.9 / 8.0 | impact: -0.1 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 233 scope decisions
+
+18 additions, 13 desk-based provisional, 5 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 306 ranked / 309 total. Churchill aurora excludes bear/beluga excursions; Four Seasons Centre ballet and opera grouped by venue; Nism̓aakqin uses current park name and excludes independent Tofino beaches and Pacific Rim; Stonehammer Saint John cluster excludes Fundy Trail and St Martins. Fort Rodd Hill and Fisgard grouped; Olympic Park excludes existing museum and garden entries. Winnipeg railway museum deferred pending operating status verification, not rated down for closure. Existing scores and three unassessed retained. Coordinates approximate; access not verified. Keep queue open; no exhaustive coverage claimed.

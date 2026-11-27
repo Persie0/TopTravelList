@@ -1,0 +1,16 @@
+id: sight-ca-mahone-bay
+name: "Mahone Bay Historic Waterfront and Churches"
+location:
+  country_code: CA
+  latitude: 44.449
+  longitude: -64.381
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.7
+  depth: 8.3
+  categories:
+    photography: 9.3
+    architecture: 9.2
+    relaxation: 9.2

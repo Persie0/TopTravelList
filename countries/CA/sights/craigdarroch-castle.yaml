@@ -1,0 +1,16 @@
+id: sight-ca-craigdarroch-castle
+name: "Craigdarroch Castle Victoria"
+location:
+  country_code: CA
+  latitude: 48.422
+  longitude: -123.343
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.7
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    history: 9.2
+    photography: 9.1

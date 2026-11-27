@@ -1,0 +1,16 @@
+id: sight-ca-sooke-potholes
+name: "Sooke Potholes Regional Park River Gorge"
+location:
+  country_code: CA
+  latitude: 48.428
+  longitude: -123.715
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.2
+    photography: 9.2
+    adventure: 9.1

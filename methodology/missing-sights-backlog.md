@@ -4069,3 +4069,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Museum of Vancouver Local History and Culture: 86.15/100 (desk-based provisional).
 
 18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 288 ranked / 291 total. Adams River normal dominant-cycle merit retained, 2026 weaker than expected per regional reporting; long-term population trend requires separate review. Ancient Forest park/protected area grouped. Agawa rail/canyon stop excludes Lake Superior Provincial Park. Banff festival excludes park sightseeing. La Ronde excludes fireworks. Toronto Zoo excludes Rouge trails. Museum of Vancouver and space centre separate public institutions, shared architecture not double counted. Existing scores and three unassessed retained. Coordinates approximate; event schedules and access not verified. Keep queue open for remaining regional omissions and explicit overlap review; no exhaustive coverage claimed.
+
+### Pass 233 — Canada performing arts, aurora and regional heritage
+
+- [x] CA — Churchill Manitoba Guided Northern Lights Viewing: 91.75/100 (source-linked-unverified).
+- [x] CA — Royal Winnipeg Ballet Public Performances: 91.25/100 (source-linked-unverified).
+- [x] CA — Four Seasons Centre Toronto National Ballet and Opera Performances: 91.15/100 (source-linked-unverified).
+- [x] CA — Nism̓aakqin Park Hot Springs Cove Coastal Thermal Pools: 90.75/100 (source-linked-unverified).
+- [x] CA — Stonehammer UNESCO Global Geopark Saint John Reversing Rapids and Geological Trails: 90.30/100 (source-linked-unverified).
+- [x] CA — Dr Sun Yat-Sen Classical Chinese Garden Vancouver: 86.75/100 (desk-based provisional).
+- [x] CA — British Columbia Parliament Buildings Victoria: 86.45/100 (desk-based provisional).
+- [x] CA — Manitoba Legislative Building Winnipeg Architecture: 86.25/100 (desk-based provisional).
+- [x] CA — Fort Rodd Hill and Fisgard Lighthouse National Historic Sites: 87.25/100 (desk-based provisional).
+- [x] CA — Fort Steele Heritage Town East Kootenay: 86.30/100 (desk-based provisional).
+- [x] CA — Craigdarroch Castle Victoria: 85.75/100 (desk-based provisional).
+- [x] CA — Halifax Public Gardens Victorian Landscapes: 84.80/100 (desk-based provisional).
+- [x] CA — Mahone Bay Historic Waterfront and Churches: 84.85/100 (desk-based provisional).
+- [x] CA — Fort Anne National Historic Site Annapolis Royal: 86.85/100 (desk-based provisional).
+- [x] CA — Sherbrooke Village Nova Scotia Living History Museum: 85.90/100 (desk-based provisional).
+- [x] CA — Boreal Trail Meadow Lake Provincial Park Saskatchewan: 86.20/100 (desk-based provisional).
+- [x] CA — Montréal Olympic Park Stadium Architecture and Tower: 87.40/100 (desk-based provisional).
+- [x] CA — Sooke Potholes Regional Park River Gorge: 84.90/100 (desk-based provisional).
+
+18 additions, 13 desk-based provisional, 5 source-linked, 5 90+, 36 domestic ranking-row comparisons. CA 306 ranked / 309 total. Churchill aurora excludes bear/beluga excursions; Four Seasons Centre ballet and opera grouped by venue; Nism̓aakqin uses current park name and excludes independent Tofino beaches and Pacific Rim; Stonehammer Saint John cluster excludes Fundy Trail and St Martins. Fort Rodd Hill and Fisgard grouped; Olympic Park excludes existing museum and garden entries. Winnipeg railway museum deferred pending operating status verification, not rated down for closure. Existing scores and three unassessed retained. Coordinates approximate; access not verified. Keep queue open; no exhaustive coverage claimed.

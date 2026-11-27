@@ -1,0 +1,16 @@
+id: sight-ca-sherbrooke-village
+name: "Sherbrooke Village Nova Scotia Living History Museum"
+location:
+  country_code: CA
+  latitude: 45.137
+  longitude: -61.982
+scores:
+  impact: 8.4
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.7
+  depth: 8.8
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.2
