@@ -4868,3 +4868,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CO — La Playa de Belén Historic Whitewashed Village: 84.90/100 (desk-based provisional).
 
 11 additions, 9 source-linked provisional, 2 desk-based provisional, 4 90+, 38 ranking-row comparisons (18 international). CO 134 ranked / 138 total, +83 since baseline 55. UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, prior 8/13 partial mapping carried forward; United Fruit submission inspected (https://whc.unesco.org/en/tentativelists/5770/) but visitor component not confirmed, defer. Pasto varnish UNESCO urgent safeguarding inscription applies to traditional techniques, named workshop route separately documented. Farallones excludes Pico Pance and other unauthorized sectors; Tinigua deferred because Angosturas I visitor sector shared with Sierra de la Macarena (https://www.parquesnacionales.gov.co/sala-prensa/noticias/visitar-la-sierra-de-la-macarena-si-pero-con-responsabilidad/); no double count. Mompox filigree non-additive to overlapping heritage itinerary. Earlier deferrals retained. Existing scores and four unassessed preserved. Queue OPEN for remaining distinct flagship experiences, including culinary and heritage routes and Pacific/Amazon candidates. Coordinates approximate; current access and security unverified.
+
+### Pass 275 — Colombia culinary heritage, pilgrimage sites and regional routes
+
+- [x] CO — Popayán National Gastronomic Congress Traditional Culinary Festival: 91.45/100 (source-linked-unverified).
+- [x] CO — Buga Basilica of the Lord of Miracles Pilgrimage and Religious Heritage: 90.95/100 (source-linked-unverified).
+- [x] CO — Bogotá Paloquemao Market Colombian Fruit and Culinary Heritage Tour: 90.70/100 (source-linked-unverified).
+- [x] CO — Chiquinquirá Basilica of Our Lady of the Rosary National Pilgrimage: 90.45/100 (source-linked-unverified).
+- [x] CO — Puerto Nariño Tarapoto Ramsar Lakes and River Dolphin Observation: 90.35/100 (source-linked-unverified).
+- [x] CO — Sabor Barranquilla Caribbean Culinary Heritage Fair: 89.35/100 (source-linked-unverified).
+- [x] CO — San Gil Fonce and Suárez River Guided Rafting: 87.15/100 (source-linked-unverified).
+- [x] CO — San Vicente de Chucurí Cacao Farm and Chocolate Heritage Route: 87.05/100 (source-linked-unverified).
+- [x] CO — Guatapé Historic Village Colorful Zócalo Reliefs and Streets: 86.70/100 (source-linked-unverified).
+- [x] CO — Salento Historic Town Colorful Coffee Region Architecture: 85.75/100 (desk-based provisional).
+- [x] CO — Filandia Historic Town Traditional Balconies and Basketry: 85.90/100 (desk-based provisional).
+- [x] CO — Girón Historic Centre Colonial Whitewashed Architecture: 85.20/100 (desk-based provisional).
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 45 ranking-row comparisons (22 international). CO 146 ranked / 150 total, +95 since baseline 55. Prior UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 partial mapping carried forward without recheck. Popayán congress date conflict (tourism calendar vs ministry October report) recorded; UNESCO Creative City not event inscription. Buga structural damage and closure documented after August 2026 earthquake; reopening not confirmed, no score penalty. Tarapoto lake scope non-additive to broader Leticia river itinerary; Juanchaco/Ladrilleros/La Barra deferred because park agency includes them in Uramba visitor scope (https://www.parquesnacionales.gov.co/nuestros-parques/pnn-uramba-bahia-malaga/). Salento and Filandia built heritage only, non-additive to overlapping coffee landscape. Existing scores and four unassessed preserved. Earlier tentative-property deferrals retained. Queue OPEN for final targeted screen of remaining major regional festivals, heritage and natural routes; no fixed quota. Coordinates approximate; schedules, security and current access unverified.

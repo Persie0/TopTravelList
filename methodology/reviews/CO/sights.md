@@ -2967,3 +2967,278 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 274 scope decisions
 
 11 additions, 9 source-linked provisional, 2 desk-based provisional, 4 90+, 38 ranking-row comparisons (18 international). CO 134 ranked / 138 total, +83 since baseline 55. UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, prior 8/13 partial mapping carried forward; United Fruit submission inspected (https://whc.unesco.org/en/tentativelists/5770/) but visitor component not confirmed, defer. Pasto varnish UNESCO urgent safeguarding inscription applies to traditional techniques, named workshop route separately documented. Farallones excludes Pico Pance and other unauthorized sectors; Tinigua deferred because Angosturas I visitor sector shared with Sierra de la Macarena (https://www.parquesnacionales.gov.co/sala-prensa/noticias/visitar-la-sierra-de-la-macarena-si-pero-con-responsabilidad/); no double count. Mompox filigree non-additive to overlapping heritage itinerary. Earlier deferrals retained. Existing scores and four unassessed preserved. Queue OPEN for remaining distinct flagship experiences, including culinary and heritage routes and Pacific/Amazon candidates. Coordinates approximate; current access and security unverified.
+
+## sight-co-popayan-gastronomic-congress — Popayán National Gastronomic Congress Traditional Culinary Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/popayan-gastronomic-congress.yaml)
+- Action: new
+- Scope: Named recurring culinary event with demonstrations, workshops and research, over 20 years of tradition. Ministry confirms 24th edition in October 2026; tourism calendar September dates conflict, do not assert dates. Popayán joined UNESCO Creative Cities gastronomy network in 2005, not a World Heritage or event inscription. Excludes historic centre and Holy Week.
+- Representative coordinates: 2.441, -76.606; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.2.
+- Categories: food:9.4 culture:9.4 history:9.2.
+- Overall: 91.45/100.
+- Source: https://calendarioferiasyfiestas.fontur.com.co/en/agenda/national-gastronomic-congress
+- Source: https://www.mincultura.gov.co/noticias/Paginas/ministra-paola-holguin-propuso-cluster-de-industrias-culturales-y-creativas-en-el-cauca.aspx
+- Source: https://www.mincultura.gov.co/noticias/Paginas/minculturas-lleva-la-cocina-tradicional-de-popayan-a-asia-participaremos-en-el-festival-internacional-de-gastronomia.aspx
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/petronio-alvarez-festival](../../../countries/CO/sights/petronio-alvarez-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [CO/cartagena-hay-festival](../../../countries/CO/sights/cartagena-hay-festival.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 9.2 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/arequipa-picanteria-route](../../../countries/PE/sights/arequipa-picanteria-route.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/lima-surquillo-culinary](../../../countries/PE/sights/lima-surquillo-culinary.yaml) | 9.0 / 9.2 / 9.4 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BR/holambra-expoflora](../../../countries/BR/sights/holambra-expoflora.yaml) | 8.9 / 8.8 / 8.8 / 9.1 / 8.9 | impact: +0.1; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-buga-milagros-basilica — Buga Basilica of the Lord of Miracles Pilgrimage and Religious Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/buga-milagros-basilica.yaml)
+- Action: new
+- Scope: Major pilgrimage destination; official tourism board estimates three to 3.5 million annual pilgrims, not independently audited. Basilica reported structural damage and closure following 10 August 2026 earthquake; reopening not established. Intrinsic score independent of temporary closure; do not recommend interior visit until safe reopening confirmed.
+- Representative coordinates: 3.9, -76.3; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.4 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 architecture:9.3.
+- Overall: 90.95/100.
+- Source: https://colombia.travel/en/buga/basilica-lord-miracles
+- Source: https://colombia.travel/en/buga?page=1
+- Source: https://www.milagrosodebuga.com/noticias/
+- Source: https://www.presidencia.gov.co/prensa/Paginas/Presidente-De-La-Espriella-anuncio-recursos-para-la-reconstruccion-de-infraestructura-educativa-vivienda-y-comercio-260905.aspx
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/las-lajas-sanctuary](../../../countries/CO/sights/las-lajas-sanctuary.yaml) | 9.2 / 9.4 / 8.7 / 8.8 / 7.5 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [CO/popayan-holy-week](../../../countries/CO/sights/popayan-holy-week.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [PE/virgen-de-chapi](../../../countries/PE/sights/virgen-de-chapi.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/cocharcas-pilgrimage](../../../countries/PE/sights/cocharcas-pilgrimage.yaml) | 8.9 / 9.1 / 9.3 / 9.0 / 9.0 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [BR/aparecida-national-sanctuary](../../../countries/BR/sights/aparecida-national-sanctuary.yaml) | 9.2 / 9.1 / 9.6 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-bogota-paloquemao-market — Bogotá Paloquemao Market Colombian Fruit and Culinary Heritage Tour — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/bogota-paloquemao-market.yaml)
+- Action: new
+- Scope: Distinct wholesale produce and flower market with documented guided fruit-tasting visits. City tourism describes its diverse regional ingredients. No separate generic market tour score; no claim of cooking class as standard.
+- Representative coordinates: 4.615, -74.081; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.0 / 9.3 / 9.0.
+- Categories: food:9.4 culture:9.3 photography:9.3.
+- Overall: 90.70/100.
+- Source: https://visitbogota.co/en/what-to-do-in-bogota/gastronomy/paloquemao-local-market
+- Source: https://colombia.travel/es/bogota/mas-de-un-mercado-de-abastos-por-visitar-en-colombia
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/coffee-farm-visitor-experiences](../../../countries/CO/sights/coffee-farm-visitor-experiences.yaml) | 7.9 / 8.6 / 8.3 / 8.9 / 8.0 | impact: +1.1; uniqueness: +0.5 vs peer |
+| [CO/bogota-expoartesanias](../../../countries/CO/sights/bogota-expoartesanias.yaml) | 9.0 / 9.1 / 9.2 / 9.3 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/lima-surquillo-culinary](../../../countries/PE/sights/lima-surquillo-culinary.yaml) | 9.0 / 9.2 / 9.4 / 9.3 / 9.2 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [PE/arequipa-picanteria-route](../../../countries/PE/sights/arequipa-picanteria-route.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/mercado-municipal-sao-paulo](../../../countries/BR/sights/mercado-municipal-sao-paulo.yaml) | 8.4 / 8.3 / 8.5 / 8.8 / 8.2 | impact: +0.6; uniqueness: +0.8 vs peer |
+| [BR/liberdade-sao-paulo](../../../countries/BR/sights/liberdade-sao-paulo.yaml) | 8.8 / 8.9 / 8.9 / 9.1 / 8.8 | impact: +0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-chiquinquira-rosary-basilica — Chiquinquirá Basilica of Our Lady of the Rosary National Pilgrimage — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/chiquinquira-rosary-basilica.yaml)
+- Action: new
+- Scope: National Marian pilgrimage to the original painting of the patroness of Colombia, with public religious celebrations. Combine basilica and devotional experience rather than duplicate festival. No assertion of miracle as historical fact.
+- Representative coordinates: 5.619, -73.818; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.4 / 8.9 / 9.1.
+- Categories: culture:9.4 history:9.3 architecture:9.2.
+- Overall: 90.45/100.
+- Source: https://situr.boyaca.gov.co/atractivo-turistico/basilica-de-nuestra-senora-del-rosario-de-chiquinquira/
+- Source: https://colombia.travel/es/encanto/turismo-religioso-conoce-las-rutas-de-la-fe-andina-en-colombia
+- Source: https://www.diocesisdechiquinquira.org/node/503
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/las-lajas-sanctuary](../../../countries/CO/sights/las-lajas-sanctuary.yaml) | 9.2 / 9.4 / 8.7 / 8.8 / 7.5 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [CO/popayan-holy-week](../../../countries/CO/sights/popayan-holy-week.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [PE/virgen-de-chapi](../../../countries/PE/sights/virgen-de-chapi.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [PE/cocharcas-pilgrimage](../../../countries/PE/sights/cocharcas-pilgrimage.yaml) | 8.9 / 9.1 / 9.3 / 9.0 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/aparecida-national-sanctuary](../../../countries/BR/sights/aparecida-national-sanctuary.yaml) | 9.2 / 9.1 / 9.6 / 9.2 / 9.2 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-tarapoto-lakes — Puerto Nariño Tarapoto Ramsar Lakes and River Dolphin Observation — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/tarapoto-lakes.yaml)
+- Action: new
+- Scope: Named Ramsar wetland with interconnected lakes and two dolphin species. Scope limited to lake system, with community consent and responsible observation, no guaranteed sightings; non-additive to broader Leticia river itinerary. No Amacayacu overlap claim without boundary verification.
+- Representative coordinates: -3.79, -70.4; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 8.8 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.35/100.
+- Source: https://www.ramsar.org/news/colombia-names-its-first-wetland-international-importance-amazonia
+- Source: https://colombia.travel/en/puerto-narino
+- Source: https://omacha.org/quienes-somos/sedes/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/amazon-river-leticia-visitor-routes](../../../countries/CO/sights/amazon-river-leticia-visitor-routes.yaml) | 9.0 / 9.0 / 9.0 / 8.6 / 8.8 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [CO/amacayacu-national-natural-park](../../../countries/CO/sights/amacayacu-national-natural-park.yaml) | 8.8 / 8.7 / 9.2 / 8.8 / 8.8 | impact: +0.2; uniqueness: +0.4 vs peer |
+| [PE/pacaya-samiria-national-reserve](../../../countries/PE/sights/pacaya-samiria-national-reserve.yaml) | 9.0 / 9.1 / 9.3 / 8.5 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/tambopata-national-reserve](../../../countries/PE/sights/tambopata-national-reserve.yaml) | 9.0 / 9.0 / 9.3 / 9.0 / 9.0 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [PE/tingana-wetlands](../../../countries/PE/sights/tingana-wetlands.yaml) | 8.8 / 9.0 / 8.7 / 8.9 / 8.8 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/junin-national-reserve](../../../countries/PE/sights/junin-national-reserve.yaml) | 8.9 / 9.2 / 9.2 / 8.7 / 8.9 | impact: +0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-sabor-barranquilla — Sabor Barranquilla Caribbean Culinary Heritage Fair — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/sabor-barranquilla.yaml)
+- Action: new
+- Scope: Named recurring four-day food fair featuring Caribbean and Colombian culinary heritage; organizer confirms August 20–23 2026 dates. Distinct from Carnival.
+- Representative coordinates: 11.019, -74.804; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 9.2 / 8.9.
+- Categories: food:9.4 culture:9.3 family:9.1.
+- Overall: 89.35/100.
+- Source: https://saborbarranquilla.com/
+- Source: https://colombia.travel/es/vacacional/ferias-y-fiestas/sabor-barranquilla
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/barranquilla-carnival](../../../countries/CO/sights/barranquilla-carnival.yaml) | 9.5 / 9.4 / 9.5 / 9.5 / 9.3 | impact: -0.7; uniqueness: -0.5 vs peer |
+| [CO/petronio-alvarez-festival](../../../countries/CO/sights/petronio-alvarez-festival.yaml) | 9.1 / 9.3 / 9.3 / 9.3 / 9.2 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [PE/arequipa-picanteria-route](../../../countries/PE/sights/arequipa-picanteria-route.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-san-gil-rafting — San Gil Fonce and Suárez River Guided Rafting — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/san-gil-rafting.yaml)
+- Action: new
+- Scope: Municipal and tourism-board documented rafting circuits; group different difficulty routes, exclude Chicamocha Canyon and Juan Curí waterfall. Current river conditions and operator credentials require check.
+- Representative coordinates: 6.555, -73.133; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.2 / 9.2 / 8.8.
+- Categories: adventure:9.4 nature:9.2 photography:9.2.
+- Overall: 87.15/100.
+- Source: https://www.sangil.gov.co/publicaciones/293/rafting/
+- Source: https://colombia.travel/en/san-gil
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/guejar-canyon-rafting](../../../countries/CO/sights/guejar-canyon-rafting.yaml) | 9.2 / 9.0 / 8.5 / 9.1 / 8.7 | impact: -0.4; uniqueness: -0.3 vs peer |
+| [CO/rio-claro-nature-reserve](../../../countries/CO/sights/rio-claro-nature-reserve.yaml) | 8.6 / 8.5 / 7.3 / 8.6 / 7.9 | impact: +0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-san-vicente-cacao — San Vicente de Chucurí Cacao Farm and Chocolate Heritage Route — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/san-vicente-cacao.yaml)
+- Action: new
+- Scope: Named Cocoa Travel route in Santander, cultivation and chocolate interpretation; farm consent and current dates unverified. Not a proposed cacao theme park or generic highway named Ruta del Cacao.
+- Representative coordinates: 6.88, -73.41; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.9 / 8.9 / 8.7.
+- Categories: food:9.4 culture:9.2 nature:9.0.
+- Overall: 87.05/100.
+- Source: https://regiontopocoro.com/activities/cocoa-travel/
+- Source: https://apropiaconsentido.minciencias.gov.co/18485/cacaos-certificados-san-vicente-de-chucuri/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/coffee-farm-visitor-experiences](../../../countries/CO/sights/coffee-farm-visitor-experiences.yaml) | 7.9 / 8.6 / 8.3 / 8.9 / 8.0 | impact: +0.5; uniqueness: +0.2 vs peer |
+| [PE/villa-rica-coffee](../../../countries/PE/sights/villa-rica-coffee.yaml) | 8.7 / 8.9 / 9.0 / 9.1 / 9.0 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-guatape-zocalos — Guatapé Historic Village Colorful Zócalo Reliefs and Streets — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/guatape-zocalos.yaml)
+- Action: new
+- Scope: Decorated streets and relief panels, excludes reservoir boat excursions and Piedra del Peñol climb.
+- Representative coordinates: 6.232, -75.159; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.9 / 8.5.
+- Categories: photography:9.4 architecture:9.2 culture:9.1.
+- Overall: 86.70/100.
+- Source: https://colombia.travel/en/medellin/guatape-and-piedra-del-penol
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/jardin-historic-centre](../../../countries/CO/sights/jardin-historic-centre.yaml) | 8.8 / 8.7 / 8.9 / 9.0 / 8.7 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [CO/barichara-historic-centre](../../../countries/CO/sights/barichara-historic-centre.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.7 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-salento-historic-centre — Salento Historic Town Colorful Coffee Region Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/salento-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based permanent town experience, excludes Cocora Valley, Los Nevados and coffee farm visits; non-additive to parent coffee landscape itinerary.
+- Representative coordinates: 4.637, -75.571; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.6 / 8.8 / 8.6.
+- Categories: architecture:9.2 photography:9.3 culture:9.2.
+- Overall: 85.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/jardin-historic-centre](../../../countries/CO/sights/jardin-historic-centre.yaml) | 8.8 / 8.7 / 8.9 / 9.0 / 8.7 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [CO/salamina-historic-centre](../../../countries/CO/sights/salamina-historic-centre.yaml) | 8.5 / 8.7 / 9.0 / 8.7 / 8.7 | impact: +0.0; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-filandia-historic-centre — Filandia Historic Town Traditional Balconies and Basketry — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/filandia-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based built heritage and artisan basketry, excludes Barbas Bremen reserve and generic coffee farms; non-additive to parent landscape itinerary.
+- Representative coordinates: 4.675, -75.658; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.7 / 8.8 / 8.6.
+- Categories: culture:9.2 architecture:9.2 photography:9.3.
+- Overall: 85.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/jerico-historic-centre](../../../countries/CO/sights/jerico-historic-centre.yaml) | 8.4 / 8.7 / 8.8 / 8.8 / 8.7 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [CO/salamina-historic-centre](../../../countries/CO/sights/salamina-historic-centre.yaml) | 8.5 / 8.7 / 9.0 / 8.7 / 8.7 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-co-giron-historic-centre — Girón Historic Centre Colonial Whitewashed Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/CO/sights/giron-historic-centre.yaml)
+- Action: new
+- Scope: Desk-based historic centre and plazas; separate from San Vicente cacao route.
+- Representative coordinates: 7.07, -73.168; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.9 / 8.5 / 8.5.
+- Categories: architecture:9.2 history:9.2 photography:9.1.
+- Overall: 85.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CO/barichara-historic-centre](../../../countries/CO/sights/barichara-historic-centre.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.7 | impact: -0.5; uniqueness: -0.3 vs peer |
+| [CO/santa-fe-antioquia-historic-centre](../../../countries/CO/sights/santa-fe-antioquia-historic-centre.yaml) | 8.7 / 8.7 / 9.1 / 8.8 / 8.8 | impact: -0.4; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 275 scope decisions
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 45 ranking-row comparisons (22 international). CO 146 ranked / 150 total, +95 since baseline 55. Prior UNESCO 9/9 inscribed represented (3 unassessed), 13 tentative entries inventoried, 8/13 partial mapping carried forward without recheck. Popayán congress date conflict (tourism calendar vs ministry October report) recorded; UNESCO Creative City not event inscription. Buga structural damage and closure documented after August 2026 earthquake; reopening not confirmed, no score penalty. Tarapoto lake scope non-additive to broader Leticia river itinerary; Juanchaco/Ladrilleros/La Barra deferred because park agency includes them in Uramba visitor scope (https://www.parquesnacionales.gov.co/nuestros-parques/pnn-uramba-bahia-malaga/). Salento and Filandia built heritage only, non-additive to overlapping coffee landscape. Existing scores and four unassessed preserved. Earlier tentative-property deferrals retained. Queue OPEN for final targeted screen of remaining major regional festivals, heritage and natural routes; no fixed quota. Coordinates approximate; schedules, security and current access unverified.
