@@ -2108,3 +2108,38 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Cormet de Roselend and Lac de Roselend Alpine Landscape: 87.90/100 (desk-based provisional).
 
 30 additions, 17 fast provisional estimates, 13 source-informed candidates, 9 90+, 52 peer comparisons. France 655 ranked / 666 total; 11 existing unassessed unchanged. Montenvers separately scoped to infrastructure and constructed ice cave, massif overlap flagged; Annecy and Bourget lake recreation exclude pile-dwelling archaeology. Chartreuse museum excludes private monastery. Vercors reserve surface trails separate from Choranche cave; tentative series scope unresolved. Saint-Antoine potential serial heritage overlap flagged; Col de la Forclaz visual overlap flagged. 0 peer references not located (); domestic calibration only. Next bounded screen: Lyon independent museums (Confluences, Beaux-Arts, Lugdunum collection scope, Lumière, cinema miniature, Gadagne scope), Beaujolais, Pérouges, Dombes, Bourg-en-Bresse Brou, Bugey, Ain, remaining Savoie and Isère (Vercors resistance memorial, Combe Laval scope, Saint-Hilaire funicular), Drôme and Ardèche. Full Python validation pending.
+
+### Pass 155 — accelerated Lyon, Ain, Drôme and Ardèche audit
+
+- [x] FR — Musée des Confluences Lyon Science and Civilizations Museum: 93.15/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts Lyon Fine Arts Collections: 93.15/100 (source-linked-unverified).
+- [x] FR — Lugdunum Lyon Roman Archaeology Museum Collections: 91.75/100 (source-linked-unverified).
+- [x] FR — Institut Lumière Lyon Cinema History Museum: 91.90/100 (source-linked-unverified).
+- [x] FR — Musée Cinéma et Miniature Lyon Film Props and Miniatures: 91.55/100 (source-linked-unverified).
+- [x] FR — Monastère Royal de Brou Bourg-en-Bresse: 92.30/100 (source-linked-unverified).
+- [x] FR — Gorges de l’Ardèche and Pont d’Arc River Canyon: 92.10/100 (source-linked-unverified).
+- [x] FR — Aven d’Orgnac Cave and Cité de la Préhistoire: 92.50/100 (source-linked-unverified).
+- [x] FR — Château de Grignan Renaissance Castle: 90.50/100 (source-linked-unverified).
+- [x] FR — Pérouges Medieval Walled Village: 89.05/100 (source-linked-unverified).
+- [x] FR — Gadagne Lyon History and Puppetry Museum Collections: 89.15/100 (desk-based provisional).
+- [x] FR — Centre d’Histoire de la Résistance et de la Déportation Lyon: 89.25/100 (desk-based provisional).
+- [x] FR — Musée d’Art Contemporain Lyon: 87.10/100 (desk-based provisional).
+- [x] FR — Parc de la Tête d’Or Lyon Botanical Gardens and Lake: 88.30/100 (desk-based provisional).
+- [x] FR — Oingt Golden Stone Medieval Village: 86.35/100 (desk-based provisional).
+- [x] FR — Hameau Dubœuf Beaujolais Wine Heritage Museum: 87.00/100 (desk-based provisional).
+- [x] FR — Parc des Oiseaux Villars-les-Dombes Bird Park: 88.40/100 (desk-based provisional).
+- [x] FR — Dombes Pond Landscape and Birdwatching Trails: 86.65/100 (desk-based provisional).
+- [x] FR — Grottes du Cerdon Cave and Prehistory Park: 87.95/100 (desk-based provisional).
+- [x] FR — Lac de Nantua Lake and Cliffside Scenery: 85.70/100 (desk-based provisional).
+- [x] FR — Abbaye d’Ambronay Benedictine Abbey: 87.25/100 (desk-based provisional).
+- [x] FR — Trévoux Historic Town and Castle Remains: 85.85/100 (desk-based provisional).
+- [x] FR — Mémorial de la Résistance en Vercors Vassieux: 89.25/100 (desk-based provisional).
+- [x] FR — Combe Laval Cliffside Scenic Road and Viewpoints: 87.15/100 (desk-based provisional).
+- [x] FR — Musée de Valence Art and Archaeology Museum: 87.50/100 (desk-based provisional).
+- [x] FR — Cité du Chocolat Valrhona Tain-l’Hermitage: 87.45/100 (desk-based provisional).
+- [x] FR — Château de Suze-la-Rousse Historic Castle: 87.05/100 (desk-based provisional).
+- [x] FR — Château de Crussol Ruins and Ridge Walk: 86.45/100 (desk-based provisional).
+- [x] FR — Vogüé Historic Village and Castle: 87.50/100 (desk-based provisional).
+- [x] FR — Balazuc Medieval Cliffside Village: 87.20/100 (desk-based provisional).
+
+30 additions, 20 fast provisional estimates, 10 source-informed candidates, 9 90+, 40 peer comparisons. France 685 ranked / 696 total; 11 existing unassessed unchanged. Lyon museum collections distinct from historic architecture, Roman theatres already in UNESCO Lyon property (https://whc.unesco.org/en/list/872/). Le Corbusier La Tourette and Firminy UNESCO components deferred under serial property (https://whc.unesco.org/en/list/1321/maps). Pont d'Arc integrated into Ardèche gorge, excludes Chauvet original and replica. Orgnac and Cerdon tentative cave series unresolved. 0 peer references not located (); domestic calibration only. Next bounded screen: Ardèche and Drôme residuals: Grotte Saint-Marcel, Grotte de la Madeleine, Bois de Païolive, Mont Gerbier-de-Jonc, Cascade du Ray-Pic, Mont Mézenc, Safari de Peaugres, Train de l'Ardèche, Ferme aux Crocodiles, Montélimar nougat heritage, Romans shoe museum, Nyons, Die; then Loire and Auvergne: Saint-Étienne, Le Puy-en-Velay, Cantal, Clermont-Ferrand and Puy de Dôme scope. Full Python validation pending.

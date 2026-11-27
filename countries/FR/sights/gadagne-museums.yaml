@@ -1,0 +1,16 @@
+id: sight-fr-gadagne-museums
+name: "Gadagne Lyon History and Puppetry Museum Collections"
+location:
+  country_code: FR
+  latitude: 45.764
+  longitude: 4.828
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.9
+  depth: 9.0
+  categories:
+    history: 9.3
+    culture: 9.4
+    family: 9.1
