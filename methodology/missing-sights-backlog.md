@@ -5612,3 +5612,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AR — Chascomús Lagoon Lakeshore and Public Recreation: 81.30/100 (desk-based provisional).
 
 12 provisional additions (7 source-linked, 5 desk-based), 2 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 189 ranked / 190 total, +125 since baseline 65, 52 new 90+ across ten passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Laborde Malambo and Aluminé rafting researched; 2018/2025 championships establish sporting heritage, not automatic visitor difficulty. Potrerillos, Juramento, Cacheuta, Reyes and FEJA source-linked. FEJA distinct from international jazz festival; no future schedule inferred. Tastil deferred because it belongs to Qhapaq Ñan (https://culturasalta.gov.ar/organismos_cultura/museo-de-sitio-de-santa-rosa-de-tastil/); rotating national theatre festival deferred pending location convention. Prior El Shincal, La Salamanca, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Existing scores and one unassessed preserved. Argentina OPEN. Coordinates approximate; current permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.
+
+### Pass 317 — Argentina final bounded discovery sweep
+
+- [x] AR — San Isidro Lollapalooza Argentina Public Music Festival: 91.45/100 (source-linked provisional).
+- [x] AR — Puerto Madryn Guided Sea Lion Snorkeling at Punta Loma: 91.55/100 (source-linked provisional).
+- [x] AR — Ushuaia End of the World Steam Heritage Railway: 87.95/100 (source-linked provisional).
+- [x] AR — Ushuaia Maritime and Former Prison Museum Complex: 87.85/100 (source-linked provisional).
+- [x] AR — El Nogalar de Los Toldos National Reserve Yungas Forest Trails: 85.60/100 (source-linked provisional).
+- [x] AR — Pizarro National Reserve Chaco and Yungas Birdwatching Trails: 84.45/100 (source-linked provisional).
+- [x] AR — Formosa Natural Reserve Dry Chaco Forest and Birdwatching Trails: 84.25/100 (source-linked provisional).
+- [x] AR — Buenos Aires International Jazz Festival Public Concert Programme: 88.80/100 (source-linked provisional).
+- [x] AR — Buenos Aires Costanera Sur Ecological Reserve Wetland Trails: 84.15/100 (desk-based provisional).
+- [x] AR — Buenos Aires Japanese Garden and Cultural Landscape: 83.45/100 (desk-based provisional).
+- [x] AR — La Plata Cathedral Gothic Revival Architectural Heritage: 85.35/100 (desk-based provisional).
+- [x] AR — Mar del Plata Fishing Port and Sea Lion Coastal Heritage: 82.85/100 (desk-based provisional).
+
+12 provisional additions (8 source-linked, 4 desk-based), 2 90+, 24 ranking-row comparisons (12 international, 12 domestic). AR 201 ranked / 202 total, +137 since baseline 65, 54 new 90+ across eleven passes. Prior UNESCO 12 inscribed and 8 tentative represented; component mapping incomplete. Lollapalooza and sea-lion snorkeling researched, distinct from existing music and land-based wildlife entries. El Nogalar, Pizarro and Formosa reserve visitor trails verified against national park authority; Ansenuza official tourism activities still in planning and Miramar shoreline already represented. End of the World railway distinct transport experience; prison and maritime museums grouped. International jazz historical programme distinct from FEJA, no future edition claimed. Prior El Shincal, Tastil, La Salamanca, rotating theatre festival, Campos del Tuyu, Ansenuza and Isla de los Estados deferrals retained. Bounded priority queue closed after eleven passes; reopen for concrete significant omission, not exhaustive. Existing scores and one unassessed preserved. Coordinates approximate; permissions, conditions and future schedules unverified. Full Python validation, independent peer YAML checks and same-type international calibration pending.

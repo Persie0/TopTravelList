@@ -1,0 +1,16 @@
+id: sight-ar-ushuaia-maritime-presidio-museum
+name: "Ushuaia Maritime and Former Prison Museum Complex"
+location:
+  country_code: AR
+  latitude: -54.805
+  longitude: -68.3
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.6
+  depth: 8.7
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 8.9
