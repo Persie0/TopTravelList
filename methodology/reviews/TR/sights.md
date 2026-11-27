@@ -2555,3 +2555,315 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+
+## sight-tr-kackar-mountains — Kaçkar Mountains National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/kackar-mountains.yaml)
+- Action: new
+- Precise subject and limitations: Alpine mountain park and established trekking routes; representative park point. Weather, snow and route conditions matter; excludes distant Uzungöl.
+- Location check: 40.8323, 41.0473; [published representative point](https://mapcarta.com/W126546972), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/tr/walking/kackar-daglari-milli-parki); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/pindos](../../../countries/GR/sights/pindos.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [IT/gran-paradiso](../../../countries/IT/sights/gran-paradiso.yaml) | 9.4 / 9.2 / 9.1 / 9.2 / 9.4 | significance: -0.2 vs peer; experience: -0.2 vs peer. |
+| [TR/mount-ararat](../../../countries/TR/sights/mount-ararat.yaml) | 9.3 / 9.2 / 9.1 / 8.5 / 8.9 | experience: +0.5 vs peer; depth: +0.4 vs peer. |
+| [IT/dolomites](../../../countries/IT/sights/dolomites.yaml) | 9.7 / 9.5 / 9.4 / 9.4 / 9.6 | significance: -0.5 vs peer; impact: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | High alpine scenery and glacial terrain. |
+| Uniqueness | 9.1 | Distinct Black Sea alpine landscape. |
+| Significance | 8.9 | Important regional mountain ecology. |
+| Experience | 9.0 | Established trekking opportunities, seasonal access. |
+| Depth | 9.3 | Extensive valleys and routes. |
+
+- Applicable categories: nature:9.5, adventure:9.4, photography:9.4.
+- Computed worldwide overall: 91.25/100.
+- High-score challenge: 90+ provisional; lower than Dolomites and Gran Paradiso on most dimensions; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-lake-van — Lake Van Shoreline Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/lake-van.yaml)
+- Action: new
+- Precise subject and limitations: Lake scenery and established shore recreation around Van and Tatvan; excludes Akdamar Church and other separately rated monuments. Lake center not an access point.
+- Location check: 38.641111, 42.8125; [published representative point](https://geographic.org/geographic_names/name.php?c=turkey&fid=6224&uni=-1111177), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://tatvandh.saglik.gov.tr/EN-1580641/our-city.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/lake-salda](../../../countries/TR/sights/lake-salda.yaml) | 9.0 / 9.0 / 8.6 / 8.6 / 8.5 | depth: +0.5 vs peer; significance: +0.2 vs peer. |
+| [GR/prespa](../../../countries/GR/sights/prespa.yaml) | 8.8 / 9.0 / 9.0 / 8.8 / 9.0 | impact: +0.2 vs peer; significance: -0.2 vs peer. |
+| [IT/lake-garda](../../../countries/IT/sights/lake-garda.yaml) | 9.2 / 8.9 / 8.7 / 9.2 / 9.3 | experience: -0.4 vs peer; depth: -0.3 vs peer. |
+| [IT/lake-como](../../../countries/IT/sights/lake-como.yaml) | 9.3 / 9.0 / 8.7 / 9.2 / 9.3 | experience: -0.4 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Expansive lake and mountain backdrop. |
+| Uniqueness | 9.0 | Distinct large saline lake landscape. |
+| Significance | 8.8 | Important regional ecology and geography. |
+| Experience | 8.8 | Established shore visits and walks. |
+| Depth | 9.0 | Extensive varied shoreline. |
+
+- Applicable categories: nature:9.3, photography:9.3, relaxation:9.0.
+- Computed worldwide overall: 89.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-uzungol — Uzungöl Lake and Valley — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/uzungol.yaml)
+- Action: new
+- Precise subject and limitations: Landslide-formed lake, immediate village waterfront and valley viewpoints; walking reference https://www.outdooractive.com/de/route/wanderung/trabzon/wandern-rund-um-uzungoel/66843905/. Excludes distant highland excursions.
+- Location check: 40.6194, 40.2961; [published representative point](https://neresigezilir.com.tr/en/turkey/trabzon/uzungol), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-99824/trabzon---uzungol-natural-park.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/lake-plastiras](../../../countries/GR/sights/lake-plastiras.yaml) | 8.6 / 8.3 / 8.1 / 8.9 / 8.8 | depth: -0.4 vs peer; impact: +0.2 vs peer. |
+| [IT/lake-braies](../../../countries/IT/sights/lake-braies.yaml) | 9.4 / 9.0 / 8.5 / 9.0 / 8.2 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [TR/lake-salda](../../../countries/TR/sights/lake-salda.yaml) | 9.0 / 9.0 / 8.6 / 8.6 / 8.5 | uniqueness: -0.5 vs peer; significance: -0.4 vs peer. |
+| [IT/lake-como](../../../countries/IT/sights/lake-como.yaml) | 9.3 / 9.0 / 8.7 / 9.2 / 9.3 | depth: -0.9 vs peer; impact: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Scenic steep-sided forest valley. |
+| Uniqueness | 8.5 | Distinct local setting but familiar lake form. |
+| Significance | 8.2 | Regional natural significance. |
+| Experience | 8.8 | Established lakeside walks and viewpoints. |
+| Depth | 8.4 | Compact lake and immediate slopes. |
+
+- Applicable categories: nature:9.1, photography:9.3, relaxation:8.9.
+- Computed worldwide overall: 85.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-yedigoller — Yedigöller National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/yedigoller.yaml)
+- Action: new
+- Precise subject and limitations: Seven forest lakes and connected trails grouped; approximate published park centre. Winter road closures and seasonal conditions apply; https://bolu.ktb.gov.tr/TR-354569/yedigoller-milli-parki.html.
+- Location check: 40.944, 31.75; [published representative point](https://ecoturkiye.com/en/yedigoller/map), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/routes/2-day-yedigoller-national-park-route); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [IT/casentinesi](../../../countries/IT/sights/casentinesi.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 9.0 | significance: -0.5 vs peer; depth: -0.2 vs peer. |
+| [GR/chelmos](../../../countries/GR/sights/chelmos.yaml) | 8.9 / 8.9 / 8.7 / 8.9 / 9.0 | significance: -0.2 vs peer; depth: -0.2 vs peer. |
+| [PT/peneda-geres](../../../countries/PT/sights/peneda-geres.yaml) | 9.1 / 9.0 / 8.9 / 9.1 / 9.3 | depth: -0.5 vs peer; significance: -0.4 vs peer. |
+| [GR/lake-plastiras](../../../countries/GR/sights/lake-plastiras.yaml) | 8.6 / 8.3 / 8.1 / 8.9 / 8.8 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Attractive forest and lake reflections. |
+| Uniqueness | 8.8 | Distinct cluster of landslide lakes. |
+| Significance | 8.5 | Regional protected ecology. |
+| Experience | 8.9 | Established walks and viewpoints. |
+| Depth | 8.8 | Several lakes and connecting trails. |
+
+- Applicable categories: nature:9.3, photography:9.3, relaxation:9.0, adventure:8.9.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-lake-abant — Lake Abant National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/lake-abant.yaml)
+- Action: new
+- Precise subject and limitations: Lake and established surrounding forest paths grouped. Lake centre representative, not entrance. Current national park designation supported by https://bolu.ktb.gov.tr/TR-354568/abant-golu-milli-parki.html.
+- Location check: 40.60524, 31.28062; [published representative point](https://mapcarta.com/13851522), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/walking/abant-lake-nature-park); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/lake-plastiras](../../../countries/GR/sights/lake-plastiras.yaml) | 8.6 / 8.3 / 8.1 / 8.9 / 8.8 | depth: -0.3 vs peer; impact: -0.1 vs peer. |
+| [IT/lake-braies](../../../countries/IT/sights/lake-braies.yaml) | 9.4 / 9.0 / 8.5 / 9.0 / 8.2 | impact: -0.9 vs peer; uniqueness: -0.6 vs peer. |
+| [TR/lake-salda](../../../countries/TR/sights/lake-salda.yaml) | 9.0 / 9.0 / 8.6 / 8.6 / 8.5 | uniqueness: -0.6 vs peer; impact: -0.5 vs peer. |
+| [GR/parnassos](../../../countries/GR/sights/parnassos.yaml) | 8.7 / 8.6 / 8.6 / 8.8 / 8.8 | significance: -0.4 vs peer; depth: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Scenic forest-framed lake. |
+| Uniqueness | 8.4 | Familiar mountain lake setting. |
+| Significance | 8.2 | Regional conservation value. |
+| Experience | 8.8 | Established walking and recreation. |
+| Depth | 8.5 | Lake circuit and adjacent trails. |
+
+- Applicable categories: nature:9.0, photography:9.0, relaxation:9.1.
+- Computed worldwide overall: 84.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-lake-egirdir — Lake Eğirdir and Peninsula Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/lake-egirdir.yaml)
+- Action: new
+- Precise subject and limitations: Lake and connected peninsula waterfront scenery; excludes Kovada Lake National Park and distinct archaeological sites. Representative KBA centre. Water conditions and available recreation may change.
+- Location check: 38.05, 30.85; [published representative point](https://www.keybiodiversityareas.org/en/site/factsheet/767/site), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-36118/where-to-visit.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/prespa](../../../countries/GR/sights/prespa.yaml) | 8.8 / 9.0 / 9.0 / 8.8 / 9.0 | uniqueness: -0.5 vs peer; significance: -0.5 vs peer. |
+| [GR/lake-plastiras](../../../countries/GR/sights/lake-plastiras.yaml) | 8.6 / 8.3 / 8.1 / 8.9 / 8.8 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [IT/lake-garda](../../../countries/IT/sights/lake-garda.yaml) | 9.2 / 8.9 / 8.7 / 9.2 / 9.3 | depth: -0.6 vs peer; impact: -0.5 vs peer. |
+| [TR/lake-salda](../../../countries/TR/sights/lake-salda.yaml) | 9.0 / 9.0 / 8.6 / 8.6 / 8.5 | uniqueness: -0.5 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Broad lake and mountain scenery. |
+| Uniqueness | 8.5 | Distinct peninsula setting. |
+| Significance | 8.5 | Regional freshwater and cultural heritage. |
+| Experience | 8.8 | Established shore recreation. |
+| Depth | 8.7 | Several shore and peninsula experiences. |
+
+- Applicable categories: nature:9.1, photography:9.2, relaxation:9.0, culture:8.8.
+- Computed worldwide overall: 86.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-dilek-peninsula — Dilek Peninsula and Büyük Menderes Delta National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/dilek-peninsula.yaml)
+- Action: new
+- Precise subject and limitations: Protected peninsula and delta grouped; ministry conservation reference https://ekotaban.tarimorman.gov.tr/alan/5156. Established public coves and trails; restricted delta habitat not assumed accessible.
+- Location check: 37.6689278, 27.1617556; [published representative point](https://en.wikipedia.org/wiki/Dilek_Peninsula-B%C3%BCy%C3%BCk_Menderes_Delta_National_Park), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.lonelyplanet.com/points-of-interest/dilek-peninsula-bueyuek-menderes-national-park/1248673); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [PT/arrabida](../../../countries/PT/sights/arrabida.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 8.8 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [IT/gargano](../../../countries/IT/sights/gargano.yaml) | 9.1 / 9.0 / 8.9 / 9.0 / 9.2 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [GR/zakynthos-marine](../../../countries/GR/sights/zakynthos-marine.yaml) | 8.9 / 9.0 / 9.1 / 8.8 / 8.8 | significance: -0.2 vs peer; depth: +0.2 vs peer. |
+| [GR/nestos](../../../countries/GR/sights/nestos.yaml) | 8.5 / 8.8 / 8.8 / 8.6 / 8.8 | impact: +0.5 vs peer; experience: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Strong coastal and forest scenery. |
+| Uniqueness | 8.9 | Distinct peninsula and delta combination. |
+| Significance | 8.9 | Important protected habitats. |
+| Experience | 8.9 | Established coastal and hiking experiences. |
+| Depth | 9.0 | Extensive diverse park environments. |
+
+- Applicable categories: nature:9.4, wildlife:9.3, photography:9.3, beaches:9.1, adventure:9.0.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-kazdagi — Kazdağı National Park — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/kazdagi.yaml)
+- Action: new
+- Precise subject and limitations: Protected Mount Ida landscapes, valleys and designated recreation; park representative point rather than summit. Access to specific routes conditional.
+- Location check: 39.63848, 26.74659; [published representative point](https://mapcarta.com/29433480), indexed excerpt or page inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ktb.gov.tr/EN-99783/balikesir---kazdagi-national-park.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GR/pindos](../../../countries/GR/sights/pindos.yaml) | 9.2 / 9.0 / 8.9 / 9.0 / 9.3 | impact: -0.4 vs peer; depth: -0.4 vs peer. |
+| [IT/aspromonte](../../../countries/IT/sights/aspromonte.yaml) | 8.8 / 8.8 / 8.8 / 8.7 / 9.0 | depth: -0.1 vs peer; impact: +0.0 vs peer. |
+| [PT/serra-estrela](../../../countries/PT/sights/serra-estrela.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | significance: +0.2 vs peer; experience: -0.2 vs peer. |
+| [GR/rhodope](../../../countries/GR/sights/rhodope.yaml) | 8.7 / 8.8 / 8.7 / 8.7 / 9.0 | impact: +0.1 vs peer; significance: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Varied mountain and forest landscapes. |
+| Uniqueness | 8.8 | Distinct regional Mount Ida setting. |
+| Significance | 8.8 | Important biodiversity and mythological heritage. |
+| Experience | 8.7 | Established designated visits. |
+| Depth | 8.9 | Extensive valleys and mountain terrain. |
+
+- Applicable categories: nature:9.3, photography:9.1, adventure:9.1, wildlife:9.1.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

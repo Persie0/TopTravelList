@@ -1,0 +1,16 @@
+id: sight-tr-lake-van
+name: "Lake Van Shoreline Landscape"
+location:
+  country_code: TR
+  latitude: 38.641111
+  longitude: 42.8125
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.3
+    relaxation: 9.0

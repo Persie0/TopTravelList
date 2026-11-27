@@ -1163,3 +1163,16 @@ Seven additions, 28 peer rows. Türkiye 66 ranked / 66 total. Ihlara deferred be
 - [x] TR — Mount Ararat and National Park Landscape: 90.75/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Türkiye 74 ranked / 74 total. Lycian Way walking route only, not sum of individual stops; Patara city and beach grouped; Ararat permit required, no current access guarantee; Erciyes seasonal recreation; Köprülü park representative point. Next bounded screen: Mount Kaçkar, Lake Van (Akdamar overlap), Uzungöl, Yedigöller National Park, Abant Lake, Lake Eğirdir, Dilek Peninsula National Park, and Kazdağı National Park. Full Python validation pending.
+
+### Pass 101 — Türkiye mountain and lake landscapes
+
+- [x] TR — Kaçkar Mountains National Park: 91.25/100 (source-linked-unverified).
+- [x] TR — Lake Van Shoreline Landscape: 89.30/100 (source-linked-unverified).
+- [x] TR — Uzungöl Lake and Valley: 85.65/100 (source-linked-unverified).
+- [x] TR — Yedigöller National Park: 87.55/100 (source-linked-unverified).
+- [x] TR — Lake Abant National Park: 84.60/100 (source-linked-unverified).
+- [x] TR — Lake Eğirdir and Peninsula Landscape: 86.25/100 (source-linked-unverified).
+- [x] TR — Dilek Peninsula and Büyük Menderes Delta National Park: 89.40/100 (source-linked-unverified).
+- [x] TR — Kazdağı National Park: 87.95/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Türkiye 82 ranked / 82 total. Lake Van excludes Akdamar Church; Abant lake and park grouped; Dilek peninsula and delta grouped, restricted habitat access not assumed. Next bounded screen: Nemrut Crater Lake (distinct from Nemrut Dağ monument), Valla Canyon, Küre Mountains National Park, Ilgaz Mountain National Park, Munzur Valley National Park, Tortum Waterfall, Karagöl Borçka and Şavşat Karagöl. Full Python validation pending.
