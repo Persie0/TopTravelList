@@ -1,0 +1,10 @@
+# Pass 188 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial scores from retrieved UNESCO tentative nomination descriptions. Lawful hypothetical experiences, not assertions of existing visitor infrastructure, access or safety. Existing numerical fields and coordinates preserved. Qualitative peer comparisons only; numerical calibration pending.
+
+## MM/sights/pondaung
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/6366/. Eocene fossil-bearing outcrops, protected scientific research areas; hypothetical supervised external geological interpretation only, no assumption of a visitor centre, exposed fossils or access to excavations. Comparisons: Less monumental than Dinosaur Provincial Park; less conspicuous fossil exposures than Joggins; less developed interpretive visitor experience than Messel Pit; less visible geological landscape than the Jurassic Coast. I/U/S/E/D: 6.9, 8.8, 9, 7.2, 8.4. Overall 79.90.
+
+## MM/sights/taninthayi-corridor
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/5876/. Proposed forest corridor with important low- and mid-elevation evergreen habitat; hypothetical authorized low-impact nature viewing in suitable areas, no continuous visitor route or guaranteed sightings. Comparisons: Less varied elevation range than Sumatra rainforest heritage; less established wildlife viewing than Corcovado; less dramatic topography than Kinabalu; less extensive interpretive infrastructure than Khao Sok. I/U/S/E/D: 8.1, 8.7, 9, 8.2, 8.8. Overall 85.15.
+
+5 null-only core fields filled. Pass total: 20 records (17 Russia, 3 Myanmar), 44 core fields, 80 qualitative peer comparisons. Four 90+ scores require numeric benchmark calibration. Russian and Myanmar incomplete queues provisionally exhausted across pending batches. Scientific/conservation access constraints explicitly retained; Mrauk U town and archaeological site scope distinction retained. Full validation, ranking regeneration and merging pending. No Actions manually dispatched.
