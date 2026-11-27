@@ -696,3 +696,50 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 216 scope decisions
 
 Offshore scuba distinct from shore pools and remote Beveridge Reef. Existing Beveridge score retained but review says ordinary visitor itinerary unverified; needs separate consistency audit. No guaranteed coral health.
+
+## sight-nu-village-show-days — Niue Annual Village Show Days Cultural Festival Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/NU/sights/village-show-days.yaml)
+- Action: new
+- Scope: Fourteen villages hold annual public show days with cooking, crafts, sports and cultural skills. Grouped recurring tradition, no assumed dates or access to private events; island locality proxy.
+- Representative coordinates: -19.05, -169.87; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 9.1 / 9.0 / 8.9 / 8.8.
+- Categories: culture:9.4 history:9.2 food:9.2.
+- Overall: 89.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.niueisland.com/see-and-do/art-and-culture, https://southpacificislands.travel/village-show-days-in-niue/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NU/national-museum](../../../countries/NU/sights/national-museum.yaml) | 7.6 / 8.3 / 8.7 / 8.1 / 7.8 | impact: +1.1 vs peer; depth: +1.0 vs peer |
+| [NU/hikulagi](../../../countries/NU/sights/hikulagi.yaml) | 7.9 / 8.5 / 7.9 / 7.9 / 7.4 | depth: +1.4 vs peer; significance: +1.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-nu-uluvehi-sea-track — Uluvehi Sea Track and Coastal Heritage Mutalau — 2026-11-27
+
+- YAML: [source](../../../countries/NU/sights/uluvehi-sea-track.yaml)
+- Action: new
+- Scope: Named coastal track and historical interpretation of 1863 forced removal of Niuean men, not other sea tracks or cave diving. Temporary toilet renovation noted by government, not assumed track closure; approximate village locality.
+- Representative coordinates: -18.96, -169.86; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.3 / 8.6 / 8.7 / 8.2 / 8.3.
+- Categories: history:9.1 nature:9.1 photography:9.0.
+- Overall: 84.40/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.niueisland.com/see-and-do/tracks-walks-and-caves, https://gov.nu/notice-board/village-council-notices.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NU/hikutavake-sea-track](../../../countries/NU/sights/hikutavake-sea-track.yaml) | 8.3 / 8.0 / 7.8 / 8.0 / 7.4 | significance: +0.9 vs peer; depth: +0.9 vs peer |
+| [NU/talava-arches](../../../countries/NU/sights/talava-arches.yaml) | 9.1 / 9.0 / 8.2 / 8.4 / 8.2 | impact: -0.8 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 220 scope decisions
+
+Village show days grouped island-wide as recurring cultural tradition; Uluvehi separately scoped. Beveridge Reef visitor evidence inconsistency remains deferred.

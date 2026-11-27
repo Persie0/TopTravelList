@@ -205,7 +205,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Jordan](countries/JO/) (`JO`) | [21](countries/JO/cities.md) | [67](countries/JO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Jordan) |
 | [Kazakhstan](countries/KZ/) (`KZ`) | [18](countries/KZ/cities.md) | [59](countries/KZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kazakhstan) |
 | [Kenya](countries/KE/) (`KE`) | [6](countries/KE/cities.md) | [44](countries/KE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kenya) |
-| [Kiribati](countries/KI/) (`KI`) | [12](countries/KI/cities.md) | [15](countries/KI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kiribati) |
+| [Kiribati](countries/KI/) (`KI`) | [12](countries/KI/cities.md) | [16](countries/KI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kiribati) |
 | [Kosovo](countries/XK/) (`XK`) | [20](countries/XK/cities.md) | [38](countries/XK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kosovo) |
 | [Kuwait](countries/KW/) (`KW`) | [12](countries/KW/cities.md) | [50](countries/KW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kuwait) |
 | [Kyrgyzstan](countries/KG/) (`KG`) | [18](countries/KG/cities.md) | [46](countries/KG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Kyrgyzstan) |
@@ -225,7 +225,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Maldives](countries/MV/) (`MV`) | [25](countries/MV/cities.md) | [42](countries/MV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Maldives) |
 | [Mali](countries/ML/) (`ML`) | [11](countries/ML/cities.md) | [33](countries/ML/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mali) |
 | [Malta](countries/MT/) (`MT`) | [23](countries/MT/cities.md) | [37](countries/MT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Malta) |
-| [Marshall Islands](countries/MH/) (`MH`) | [11](countries/MH/cities.md) | [24](countries/MH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Marshall%20Islands) |
+| [Marshall Islands](countries/MH/) (`MH`) | [11](countries/MH/cities.md) | [25](countries/MH/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Marshall%20Islands) |
 | [Martinique](countries/MQ/) (`MQ`) | [4](countries/MQ/cities.md) | [35](countries/MQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Martinique) |
 | [Mauritania](countries/MR/) (`MR`) | [10](countries/MR/cities.md) | [17](countries/MR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritania) |
 | [Mauritius](countries/MU/) (`MU`) | [22](countries/MU/cities.md) | [63](countries/MU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Mauritius) |
@@ -249,7 +249,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Nicaragua](countries/NI/) (`NI`) | [13](countries/NI/cities.md) | [30](countries/NI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nicaragua) |
 | [Niger](countries/NE/) (`NE`) | [10](countries/NE/cities.md) | [26](countries/NE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Niger) |
 | [Nigeria](countries/NG/) (`NG`) | [12](countries/NG/cities.md) | [25](countries/NG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nigeria) |
-| [Niue](countries/NU/) (`NU`) | [4](countries/NU/cities.md) | [16](countries/NU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Niue) |
+| [Niue](countries/NU/) (`NU`) | [4](countries/NU/cities.md) | [18](countries/NU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Niue) |
 | [Norfolk Island](countries/NF/) (`NF`) | [1](countries/NF/cities.md) | [13](countries/NF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Norfolk%20Island) |
 | [North Korea](countries/KP/) (`KP`) | [8](countries/KP/cities.md) | [22](countries/KP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=North%20Korea) |
 | [North Macedonia](countries/MK/) (`MK`) | [14](countries/MK/cities.md) | [33](countries/MK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=North%20Macedonia) |
@@ -257,7 +257,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Norway](countries/NO/) (`NO`) | [19](countries/NO/cities.md) | [50](countries/NO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Norway) |
 | [Oman](countries/OM/) (`OM`) | [24](countries/OM/cities.md) | [74](countries/OM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Oman) |
 | [Pakistan](countries/PK/) (`PK`) | [14](countries/PK/cities.md) | [58](countries/PK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Pakistan) |
-| [Palau](countries/PW/) (`PW`) | [7](countries/PW/cities.md) | [25](countries/PW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Palau) |
+| [Palau](countries/PW/) (`PW`) | [7](countries/PW/cities.md) | [27](countries/PW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Palau) |
 | [Palestine](countries/PS/) (`PS`) | [10](countries/PS/cities.md) | [36](countries/PS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Palestine) |
 | [Panama](countries/PA/) (`PA`) | [22](countries/PA/cities.md) | [53](countries/PA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Panama) |
 | [Papua New Guinea](countries/PG/) (`PG`) | [7](countries/PG/cities.md) | [30](countries/PG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Papua%20New%20Guinea) |

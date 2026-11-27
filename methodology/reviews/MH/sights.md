@@ -1063,3 +1063,29 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 215 scope decisions
 
 WAM land-based cultural centre separately scoped from lagoon sailing. Eneko land/shore visit only. No duplicate Bikini wreck fleet, no assumed remote atoll access. Existing 12 unassessed unchanged.
+
+## sight-mh-majuro-outer-reef — Majuro Ocean-Facing Reef and Calalin Channel Guided Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/MH/sights/majuro-outer-reef.yaml)
+- Action: new
+- Scope: Ocean-facing reef and main pass only, not lagoon sailing or other atolls. Established operator, current reef health and dive conditions unverified; regional proxy.
+- Representative coordinates: 7.15, 171.2; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3 wildlife:9.2 adventure:9.2.
+- Overall: 87.70/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://raycrew.jp/our-services/scuba-diving/, https://www.infomarshallislands.com/diving-in-the-marshall-islands/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MH/majuro-lagoon](../../../countries/MH/sights/majuro-lagoon.yaml) | 8.0 / 7.8 / 6.9 / 8.0 / 7.5 | significance: +1.6 vs peer; depth: +1.2 vs peer |
+| [MH/arno-atoll](../../../countries/MH/sights/arno-atoll.yaml) | 8.2 / 8.1 / 7.3 / 8.0 / 7.9 | significance: +1.2 vs peer; experience: +0.9 vs peer |
+| [PW/blue-corner](../../../countries/PW/sights/blue-corner.yaml) | 9.3 / 9.0 / 8.3 / 9.3 / 8.6 | impact: -0.5 vs peer; experience: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 220 scope decisions
+
+Outer reef and channel diving excludes lagoon sailing and other atolls. No remote conservation island or Bikini duplicate. Twelve unassessed retained.

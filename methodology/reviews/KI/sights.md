@@ -654,3 +654,28 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 216 scope decisions
 
 Mainland birdwatching excludes Cook Islet; outer reef diving separate from flats; actual operator availability and reef condition pending. Phoenix protected area stays unassessed.
+
+## sight-ki-tabuaeran-surf — Tabuaeran Fanning Island Outer Reef Surfing — 2026-11-27
+
+- YAML: [source](../../../countries/KI/sights/tabuaeran-surf.yaml)
+- Action: new
+- Scope: Outer reef surfing expressly excluded by existing lagoon review. Tourism authority identifies surf breaks; no current operator, guaranteed wave conditions, safe reef access or landing assumed. Atoll locality proxy.
+- Representative coordinates: 3.86, -159.34; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.2 / 8.8 / 8.3.
+- Categories: adventure:9.3 nature:9.1 photography:9.1.
+- Overall: 86.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://kiribatitourism.gov.ki/things-to-do.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [KI/tabuaeran-lagoon](../../../countries/KI/sights/tabuaeran-lagoon.yaml) | 8.1 / 8.0 / 7.4 / 7.5 / 7.1 | experience: +1.3 vs peer; depth: +1.2 vs peer |
+| [KI/kiritimati-bonefishing-flats](../../../countries/KI/sights/kiritimati-bonefishing-flats.yaml) | 8.4 / 8.8 / 7.5 / 8.9 / 8.6 | significance: +0.7 vs peer; impact: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 220 scope decisions
+
+Tabuaeran surf explicitly excluded by lagoon scope. No Phoenix Islands access assumed; existing unassessed retained.

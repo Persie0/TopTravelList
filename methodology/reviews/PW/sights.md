@@ -1038,3 +1038,51 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 215 scope decisions
 
 Peleliu southern reef distinct from battlefield and lagoon, advanced conditions and September 2026 incident noted. Ebiil conservation importance documented but permitted visitor experience not established; deferred. No duplicated Rock Islands kayaking or named existing dives.
+
+## sight-pw-koror-wreck-diving — Koror Inner Lagoon Historic Shipwreck Diving Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/PW/sights/koror-wreck-diving.yaml)
+- Action: new
+- Scope: Specialist guided historical wreck circuit around Koror and inner lagoon, including Iro; excludes reef dives and land battlefield. Parent Rock Islands geographical overlap documented, not additive. No penetration, salvage, current site access or intact condition assumed; regional proxy not dive point.
+- Representative coordinates: 7.32, 134.45; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.0 / 9.1.
+- Categories: history:9.4 adventure:9.3 culture:9.2.
+- Overall: 91.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://pristineparadisepalau.com/dive-palau/, https://pristineparadisepalau.com/special-events/wrexpedition-palau-2025/, https://www.scubadiving.com/travel/ultimate-palau-dive-guide.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PW/peleliu-battlefield](../../../countries/PW/sights/peleliu-battlefield.yaml) | 8.5 / 8.7 / 9.2 / 8.5 / 8.6 | impact: +0.6 vs peer; uniqueness: +0.5 vs peer |
+| [PW/blue-corner](../../../countries/PW/sights/blue-corner.yaml) | 9.3 / 9.0 / 8.3 / 9.3 / 8.6 | significance: +1.0 vs peer; depth: +0.5 vs peer |
+| [MH/bikini-atoll-nuclear-test-site](../../../countries/MH/sights/bikini-atoll-nuclear-test-site.yaml) | 8.8 / 9.4 / 9.6 / 8.7 / 8.8 | impact: +0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-pw-palau-aquarium — Palau Aquarium and Coral Reef Research Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/PW/sights/palau-aquarium.yaml)
+- Action: new
+- Scope: Five ecosystem exhibits at public research centre aquarium; no access to restricted labs assumed. Distinct indoor educational experience from reef diving.
+- Representative coordinates: 7.34, 134.47; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.2 / 8.5 / 8.7 / 8.6 / 8.5.
+- Categories: nature:9.1 wildlife:9.1 family:9.1.
+- Overall: 84.65/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating; lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://picrc.org/PalauAquarium/, https://picrc.org/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PW/belau-national-museum](../../../countries/PW/sights/belau-national-museum.yaml) | 7.3 / 8.2 / 8.3 / 7.9 / 7.7 | impact: +0.9 vs peer; depth: +0.8 vs peer |
+| [PW/lake-ngardok](../../../countries/PW/sights/lake-ngardok.yaml) | 7.2 / 7.6 / 8.0 / 7.7 / 6.9 | depth: +1.6 vs peer; impact: +1.0 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 220 scope decisions
+
+Historic wreck dives grouped and separately scoped; nested Rock Islands parent overlap flagged. Aquarium public educational exhibits separate. Ebiil and other restricted sites remain deferred. River cruise deferred pending contemporary operating evidence.
