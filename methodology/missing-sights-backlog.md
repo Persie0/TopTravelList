@@ -2734,3 +2734,23 @@ Next: Return to mainland FR residual high-value coverage and overseas follow-up;
 - [x] FR — Grandes Canalettes cave deferred pending precise scope of tentative cave series: https://whc.unesco.org/en/tentativelists/1429/ . This is an overlap hold, not a judgment of merit.
 
 8 additions, 1 redundant entry removed, 5 desk-based provisional, 3 source-informed, 3 90+, 22 new domestic ranking-row comparisons. France 1089 ranked / 1100 total; 11 prior unassessed unchanged. 999 net French additions since pass 115. Bounded mainland discovery queue closed; not exhaustive. Existing retained scores unchanged. Next: overseas priority queues, starting Réunion. Full Python validation and independent factual and international calibration pending.
+
+
+### Pass 175 — Réunion remaining priority queue
+
+- [x] RE — Réunion West Coast Humpback Whale and Dolphin Watching: 91.25/100 (source-linked-unverified).
+- [x] RE — Fleur Jaune Cilaos Guided Canyoning: 90.55/100 (source-linked-unverified).
+- [x] RE — Saint-Leu and West Coast Offshore Reef and Wreck Scuba Diving: 88.60/100 (source-linked-unverified).
+- [x] RE — Hell-Bourg Creole Village and Maison Folio Heritage: 88.15/100 (desk-based provisional).
+- [x] RE — Saint-Denis Rue de Paris Creole Mansions and Historic Centre: 87.10/100 (desk-based provisional).
+- [x] RE — Jardin de l’État and Natural History Museum Saint-Denis: 86.70/100 (desk-based provisional).
+- [x] RE — Mascarin Botanical Garden Saint-Leu: 87.55/100 (desk-based provisional).
+- [x] RE — Jardin des Parfums et des Épices Saint-Philippe: 87.55/100 (desk-based provisional).
+- [x] RE — Bras-Panon Bourbon Vanilla Cooperative Visitor Experience: 86.60/100 (desk-based provisional).
+- [x] RE — Étang de Saint-Paul Wetland Nature Reserve: 86.55/100 (desk-based provisional).
+- [x] RE — Cap Méchant and Saint-Philippe Lava Coast Walk: 86.90/100 (desk-based provisional).
+- [x] RE — Grande Anse Beach and Coastal Picnic Landscape: 85.20/100 (desk-based provisional).
+- [x] RE — Anse des Cascades Waterfalls and Coastal Palm Grove: 85.80/100 (desk-based provisional).
+- [x] RE — Église Sainte-Anne Baroque Church Saint-Benoît: 86.15/100 (desk-based provisional).
+
+Official regional/activity overview screen: https://www.reunion.fr/organisez/vos-activites/le-tour-de-l-ile-de-la-reunion/le-sud/ ; https://www.reunion.fr/organisez/conseils-de-voyage/questions-reponses/que-faire-a-la-reunion/ ; https://www.reunion.fr/decouvrez/parcs-et-jardins/les-jardins-botaniques/ ; https://www.reunion.fr/decouvrez/la-reunion-une-ile-sept-ambiances/les-cirques-ambiance-de-territoire/ . 14 additions, 11 desk-based provisional, 3 source-informed, 2 90+, 32 domestic ranking-row comparisons. Réunion 30 ranked / 30 total. Bounded queue closed; excludes generic park and marine reserve duplicates, repeat cirque viewpoints. Separate technical descent, offshore scuba and boat-based wildlife experiences. Prior scores preserved. Current sea access regulations separate from intrinsic ranking. Next: Guadeloupe. Full Python validation pending.

@@ -1,0 +1,16 @@
+id: sight-re-etang-saint-paul
+name: "Étang de Saint-Paul Wetland Nature Reserve"
+location:
+  country_code: RE
+  latitude: -20.999
+  longitude: 55.285
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 8.7
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    photography: 9.1

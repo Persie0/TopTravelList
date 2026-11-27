@@ -1,0 +1,16 @@
+id: sight-re-saint-denis-heritage
+name: "Saint-Denis Rue de Paris Creole Mansions and Historic Centre"
+location:
+  country_code: RE
+  latitude: -20.881
+  longitude: 55.45
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.7
+  depth: 8.7
+  categories:
+    architecture: 9.2
+    history: 9.2
+    culture: 9.2

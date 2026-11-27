@@ -1,0 +1,16 @@
+id: sight-re-jardin-parfums-epices
+name: "Jardin des Parfums et des Épices Saint-Philippe"
+location:
+  country_code: RE
+  latitude: -21.357
+  longitude: 55.722
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 8.8
+  categories:
+    nature: 9.3
+    culture: 9.2
+    photography: 9.2

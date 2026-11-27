@@ -28,7 +28,7 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 
 | FR | DONE — current queue | 1100 total (1089 ranked); 999 net additions since pass 115. Pass 174 final bounded mainland screen: 8 new, 1 redundant Mont Lozère entry retired into existing park/UNESCO landscape. Capetian and Vauban components excluded. Canalettes deferred pending tentative cave series boundaries; existing 11 unassessed separate. Reopen only on concrete substantial omission or scope evidence. Overseas codes remain separate. |
 
-| RE | OPEN | 16 total (16 ranked); 6 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
+| RE | DONE — current queue | 30 ranked / 30 total; 20 additions across passes 166 and 175. Official tourism regional and activity screen resolved. Whale watching boat-only, offshore scuba excludes lagoon snorkelling; guided Fleur Jaune distinct from Cilaos sightseeing. Hell-Bourg built heritage distinct from Salazie scenery. No broad marine reserve, repeated cirque viewpoints or island canyoning umbrella added. Reopen on concrete substantial omission. |
 | GP | OPEN | 20 total (20 ranked); 4 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |
 | MQ | OPEN | 21 total (21 ranked); 4 additions pass 167. Overseas high-priority screen in progress; existing unassessed separate. |
 | GF | OPEN | 14 total (14 ranked); 4 additions pass 166. Overseas high-priority screen in progress; existing unassessed separate. |
