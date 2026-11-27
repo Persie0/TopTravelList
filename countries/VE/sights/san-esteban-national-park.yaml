@@ -1,0 +1,17 @@
+id: sight-ve-san-esteban-national-park
+name: "San Esteban National Park Forest and Historic Walking Landscapes"
+location:
+  country_code: VE
+  latitude: 10.42
+  longitude: -68.02
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.2
+  depth: 8.5
+  categories:
+    nature: 9.1
+    history: 8.9
+    adventure: 8.8
+    photography: 8.9

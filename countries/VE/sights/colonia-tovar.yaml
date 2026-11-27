@@ -1,0 +1,17 @@
+id: sight-ve-colonia-tovar
+name: "Colonia Tovar Highland Village German Venezuelan Heritage"
+location:
+  country_code: VE
+  latitude: 10.41
+  longitude: -67.29
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 9.2
+    architecture: 9.1
+    food: 9.0
+    photography: 9.1
