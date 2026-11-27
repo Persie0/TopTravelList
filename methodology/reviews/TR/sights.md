@@ -4854,3 +4854,236 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration.
+
+## sight-tr-kayseri-archaeology-museum — Kayseri Archaeology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/kayseri-archaeology-museum.yaml)
+- Action: new
+- Precise subject and limitations: Collection in Kayseri Castle since 2019, separate from Kültepe excavations; does not rank the entire castle or historic city.
+- Location check: 38.72139, 35.48861; [published representative point](https://en.wikipedia.org/wiki/Kayseri_Archaeology_Museum), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://turkishmuseums.com/museum/detail/2111-kayseri-archaeology-museum/2111/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/anatolian-civilizations-museum](../../../countries/TR/sights/anatolian-civilizations-museum.yaml) | 9.1 / 9.3 / 9.4 / 8.9 / 9.3 | depth: -0.6 vs peer; impact: -0.5 vs peer. |
+| [TR/ephesus-museum-selcuk](../../../countries/TR/sights/ephesus-museum-selcuk.yaml) | 8.8 / 9.0 / 9.2 / 8.9 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TR/troy-museum](../../../countries/TR/sights/troy-museum.yaml) | 8.7 / 8.9 / 9.1 / 8.9 / 8.9 | experience: -0.2 vs peer; depth: -0.2 vs peer. |
+| [TR/kultepe-kanesh](../../../countries/TR/sights/kultepe-kanesh.yaml) | 8.1 / 9.1 / 9.4 / 8.2 / 8.4 | impact: +0.5 vs peer; experience: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Regional archaeological collection. |
+| Uniqueness | 8.8 | Distinct Anatolian collections. |
+| Significance | 9.1 | Important regional ancient history. |
+| Experience | 8.7 | Dedicated museum galleries. |
+| Depth | 8.7 | Multiple historical periods. |
+
+- Applicable categories: history:9.3, culture:9.2, architecture:8.8.
+- Computed worldwide overall: 87.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-hatay-archaeology-museum — Hatay Archaeology Museum Antakya — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/hatay-archaeology-museum.yaml)
+- Action: new
+- Precise subject and limitations: Maşuklu museum, Roman and Byzantine mosaics and major ancient sculptures; not former city-centre museum. Rate established collection irrespective of earthquake-related restrictions; no claim of full current access.
+- Location check: 36.22136, 36.18368; [published representative point](https://mapcarta.com/W1039441368), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://turkishmuseums.com/museum/detail/2056-hatay-archaeology-museum/2056/4); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/zeugma-mosaic-museum](../../../countries/TR/sights/zeugma-mosaic-museum.yaml) | 9.1 / 9.2 / 9.2 / 8.9 / 9.0 | depth: +0.2 vs peer; impact: +0.1 vs peer. |
+| [TR/anatolian-civilizations-museum](../../../countries/TR/sights/anatolian-civilizations-museum.yaml) | 9.1 / 9.3 / 9.4 / 8.9 / 9.3 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [TR/sanliurfa-archaeology-mosaic-museums](../../../countries/TR/sights/sanliurfa-archaeology-mosaic-museums.yaml) | 9.2 / 9.3 / 9.4 / 9.0 / 9.3 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer. |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Large-scale mosaic and sculpture displays. |
+| Uniqueness | 9.2 | Exceptional Antioch mosaic ensemble. |
+| Significance | 9.3 | Major ancient Mediterranean heritage. |
+| Experience | 8.9 | Established gallery experience. |
+| Depth | 9.2 | Substantial multi-period collection. |
+
+- Applicable categories: history:9.4, culture:9.4, photography:9.2.
+- Computed worldwide overall: 91.75/100.
+- High-score challenge: 90+ provisional; further international calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-gaziantep-historic-quarter — Gaziantep Historic Bazaars and Citadel — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/gaziantep-historic-quarter.yaml)
+- Action: new
+- Precise subject and limitations: Connected historic centre: coppersmiths bazaar, traditional streets and citadel, representative castle point. Castle visitor reference https://www.kulturportali.gov.tr/portal/gaziantep-kalesi; historical experience assessed, no current interior access assertion. Excludes independent Zeugma museum.
+- Location check: 37.0664, 37.383268; [published representative point](https://www.mauersberger-haarhausen.de/ostanatolien/koordinatenliste-2019.html), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://visit-gaziantep.com/en/rotalar/cultural-heritage-route); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/antalya-kaleici](../../../countries/TR/sights/antalya-kaleici.yaml) | 8.9 / 8.8 / 8.9 / 9.0 / 8.9 | impact: -0.1 vs peer; significance: -0.1 vs peer. |
+| [TR/harran-historic-town](../../../countries/TR/sights/harran-historic-town.yaml) | 8.8 / 9.2 / 9.1 / 8.7 / 8.7 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer. |
+| [TR/mardin-landscape](../../../countries/TR/sights/mardin-landscape.yaml) | 8.9 / 9.0 / 8.9 / 9.0 / 8.8 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer. |
+| [TR/grand-bazaar](../../../countries/TR/sights/grand-bazaar.yaml) | 8.7 / 8.9 / 8.8 / 9.0 / 8.8 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Historic fort and craft streets. |
+| Uniqueness | 8.8 | Distinct copper craftsmanship and urban fabric. |
+| Significance | 8.8 | Layered regional urban heritage. |
+| Experience | 9.0 | Walking and living craft experience. |
+| Depth | 8.9 | Multiple complementary historic elements. |
+
+- Applicable categories: culture:9.3, architecture:9.2, history:9.2, photography:9.2, food:9.0.
+- Computed worldwide overall: 88.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-dara-ancient-city — Dara Ancient City and Rock-Cut Necropolis — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/dara-ancient-city.yaml)
+- Action: new
+- Precise subject and limitations: Fortified East Roman settlement, cisterns and rock-cut necropolis grouped. Separate from Mardin city-centre landscape; official regional itinerary https://goturkiye.com/mardin/routes treats Dara as separate stop.
+- Location check: 37.18139, 40.95358; [published representative point](https://mapcarta.com/N1024958647), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://kulturportali.gov.tr/turkiye/mardin/gezilecekyer/dara-antik-kenti); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/myra-rock-tombs-theatre](../../../countries/TR/sights/myra-rock-tombs-theatre.yaml) | 8.9 / 9.1 / 8.9 / 8.7 / 8.5 | depth: +0.4 vs peer; significance: +0.1 vs peer. |
+| [TR/anemurium](../../../countries/TR/sights/anemurium.yaml) | 8.8 / 8.7 / 8.9 / 8.6 / 8.8 | uniqueness: +0.4 vs peer; impact: +0.1 vs peer. |
+| [TR/aizanoi](../../../countries/TR/sights/aizanoi.yaml) | 9.0 / 9.0 / 9.1 / 8.7 / 9.0 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [GR/mystras](../../../countries/GR/sights/mystras.yaml) | 9.1 / 9.2 / 9.3 / 8.9 / 9.0 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dramatic rock-cut remains. |
+| Uniqueness | 9.1 | Distinct necropolis and hydraulic architecture. |
+| Significance | 9.0 | Important late antique frontier heritage. |
+| Experience | 8.7 | Dedicated archaeological visit. |
+| Depth | 8.9 | Multiple substantial structures. |
+
+- Applicable categories: history:9.3, architecture:9.2, photography:9.3.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-mor-gabriel-monastery — Mor Gabriel Monastery Midyat — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/mor-gabriel-monastery.yaml)
+- Action: new
+- Precise subject and limitations: Living Syriac Orthodox monastery near Midyat; UNESCO tentative serial component coordinate converted from DMS. Distinct from Mardin old city; future serial Tur Abdin aggregate must not duplicate this entry. Guided religious visit, access constraints respected.
+- Location check: 37.321814, 41.538414; [published representative point](https://whc.unesco.org/en/tentativelists/6534), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://mardin.ktb.gov.tr/TR-311607/mor-gabriel-manastiri-deyrulumur-manastiri.html); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/sumela](../../../countries/TR/sights/sumela.yaml) | 9.1 / 9.0 / 8.9 / 8.4 / 8.0 | depth: +0.7 vs peer; significance: +0.4 vs peer. |
+| [TR/gumusler-monastery](../../../countries/TR/sights/gumusler-monastery.yaml) | 8.7 / 9.0 / 8.8 / 8.7 / 8.5 | significance: +0.5 vs peer; uniqueness: +0.2 vs peer. |
+| [TR/akdamar](../../../countries/TR/sights/akdamar.yaml) | 8.8 / 8.9 / 9.0 / 8.4 / 7.5 | depth: +1.2 vs peer; uniqueness: +0.3 vs peer. |
+| [TR/haci-bektas-veli](../../../countries/TR/sights/haci-bektas-veli.yaml) | 8.7 / 9.0 / 9.2 / 8.8 / 8.8 | uniqueness: +0.2 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Historic stone monastic architecture. |
+| Uniqueness | 9.2 | Distinct long-lived Syriac monastic tradition. |
+| Significance | 9.3 | Major religious and cultural heritage. |
+| Experience | 8.6 | Established guided visit. |
+| Depth | 8.7 | Multiple historic monastic structures. |
+
+- Applicable categories: history:9.4, culture:9.4, architecture:9.3, photography:9.1.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.
+
+
+## sight-tr-antalya-archaeology-museum — Antalya Archaeology Museum — 2026-11-27
+
+- YAML: [source](../../../countries/TR/sights/antalya-archaeology-museum.yaml)
+- Action: new
+- Precise subject and limitations: Established pre-closure collection, including Perge sculpture and sarcophagi, distinct from excavation sites. Rebuilding on same site reported https://www.hurriyetdailynews.com/amp/antalya-archaeological-museum-closed-for-renovations-211582; collections moved to storage https://www.hurriyetdailynews.com/amp/100-000-artifacts-from-antalya-museum-relocated-ahead-of-demolition-213580. No reopening date or new exhibition design assumed.
+- Location check: 36.8856, 30.6797; [published representative point](https://en.wikipedia.org/wiki/Antalya_Museum), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://goturkiye.com/branding/press-releases/turkiyes-must-see-museums-in-a-glance); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/anatolian-civilizations-museum](../../../countries/TR/sights/anatolian-civilizations-museum.yaml) | 9.1 / 9.3 / 9.4 / 8.9 / 9.3 | uniqueness: -0.3 vs peer; impact: +0.1 vs peer. |
+| [TR/istanbul-archaeological-museums](../../../countries/TR/sights/istanbul-archaeological-museums.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 9.2 | impact: +0.2 vs peer; experience: +0.2 vs peer. |
+| [TR/zeugma-mosaic-museum](../../../countries/TR/sights/zeugma-mosaic-museum.yaml) | 9.1 / 9.2 / 9.2 / 8.9 / 9.0 | uniqueness: -0.2 vs peer; depth: +0.2 vs peer. |
+| [TR/ephesus-museum-selcuk](../../../countries/TR/sights/ephesus-museum-selcuk.yaml) | 8.8 / 9.0 / 9.2 / 8.9 / 8.8 | impact: +0.4 vs peer; depth: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Major sculpture and sarcophagus displays. |
+| Uniqueness | 9.0 | Distinct regional classical collection. |
+| Significance | 9.3 | Important Pamphylian and Anatolian heritage. |
+| Experience | 9.0 | Established pre-closure museum experience. |
+| Depth | 9.2 | Extensive collection across periods. |
+
+- Applicable categories: history:9.4, culture:9.3, photography:9.1.
+- Computed worldwide overall: 91.40/100.
+- High-score challenge: 90+ provisional; further international calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration.

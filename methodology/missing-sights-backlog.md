@@ -1262,3 +1262,14 @@ Seven additions, 28 peer rows. Türkiye 126 ranked / 126 total. Divriği mosque 
 - [x] TR — Odunpazarı Modern Museum Eskişehir: 86.95/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Türkiye 133 ranked / 133 total. Alacahöyük local museum included; Kültepe off-site tablets excluded; Aizanoi monuments grouped; Gümüşler monastery and underground city grouped; Alahan UNESCO tentative-list coordinate conflicts with mapped site and Getty TGN; Kanlıdivane distinct from Cennet-Cehennem; Odunpazarı Modern Museum distinct from existing historic district. Next bounded screen: Kayseri Archaeology Museum, Hatay Archaeology Museum, Gaziantep historic bazaar and citadel (scope check), Dara Ancient City, Mor Gabriel Monastery (Mardin overlap check), and Antalya Archaeology Museum (historical collection scope). Earlier Ihlara deferral unchanged. Full Python validation pending.
+
+### Pass 109 — Türkiye major archaeological museums and southeastern heritage
+
+- [x] TR — Kayseri Archaeology Museum: 87.75/100 (source-linked-unverified).
+- [x] TR — Hatay Archaeology Museum Antakya: 91.75/100 (source-linked-unverified).
+- [x] TR — Gaziantep Historic Bazaars and Citadel: 88.40/100 (source-linked-unverified).
+- [x] TR — Dara Ancient City and Rock-Cut Necropolis: 89.40/100 (source-linked-unverified).
+- [x] TR — Mor Gabriel Monastery Midyat: 89.60/100 (source-linked-unverified).
+- [x] TR — Antalya Archaeology Museum: 91.40/100 (source-linked-unverified).
+
+Six additions, 24 peer rows. Türkiye 139 ranked / 139 total. Antalya museum ranked on established pre-closure collection, new display scope not assumed. Kayseri museum distinct from Kültepe excavation; Hatay museum uses Maşuklu location; Gaziantep citadel and historic market streets grouped; Dara and Mor Gabriel distinct from Mardin city. Next bounded screen: Van Fortress, Van Museum, Amasya Archaeology Museum, St Pierre Church Antakya, Çevlik/Seleucia Pieria and Titus Tunnel, and Deyrulzafaran Monastery (Mardin scope check). Ihlara scope deferral remains. Full Python validation pending.

@@ -1,0 +1,18 @@
+id: sight-tr-gaziantep-historic-quarter
+name: "Gaziantep Historic Bazaars and Citadel"
+location:
+  country_code: TR
+  latitude: 37.0664
+  longitude: 37.383268
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 9.0
+  depth: 8.9
+  categories:
+    culture: 9.3
+    architecture: 9.2
+    history: 9.2
+    photography: 9.2
+    food: 9.0
