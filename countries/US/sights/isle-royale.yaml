@@ -1,0 +1,16 @@
+id: sight-us-isle-royale
+name: "Isle Royale National Park"
+location:
+  country_code: US
+  latitude: 48.0
+  longitude: -88.9
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    adventure: 9.3

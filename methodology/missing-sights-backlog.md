@@ -2887,3 +2887,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Smithsonian National Portrait Gallery and American Art Museum Washington: 90.10/100 (source-linked-unverified).
 
 20 additions, 2 desk-based provisional, 18 source-informed, 11 90+, 62 domestic ranking-row comparisons. United States 156 ranked / 156 total. Jefferson Memorial excluded as National Mall component (https://www.nps.gov/thje/planyourvisit/directions.htm); Rockefeller Center and observation deck grouped; Broadway performance distinct from Times Square; individually ticketed theme parks assessed separately, no separate rides or resort umbrellas. Existing scores retained. Next: missing national parks and regional museum/landmark screen. Full Python validation pending.
+
+
+### Pass 183 — United States national park inventory
+
+- [x] US — Gates of the Arctic National Park and Preserve: 91.80/100 (source-linked-unverified).
+- [x] US — Lake Clark National Park and Preserve: 91.35/100 (source-linked-unverified).
+- [x] US — Kobuk Valley National Park: 90.50/100 (source-linked-unverified).
+- [x] US — Isle Royale National Park: 90.45/100 (source-linked-unverified).
+- [x] US — Chiricahua National Park: 90.00/100 (source-linked-unverified).
+- [x] US — Biscayne National Park: 89.45/100 (source-linked-unverified).
+- [x] US — New River Gorge National Park and Preserve: 88.90/100 (source-linked-unverified).
+- [x] US — Voyageurs National Park: 88.35/100 (desk-based provisional).
+- [x] US — Guadalupe Mountains National Park: 87.95/100 (desk-based provisional).
+- [x] US — Pinnacles National Park: 87.45/100 (desk-based provisional).
+- [x] US — Theodore Roosevelt National Park: 87.55/100 (desk-based provisional).
+- [x] US — Shenandoah National Park: 86.80/100 (desk-based provisional).
+- [x] US — Congaree National Park: 87.40/100 (desk-based provisional).
+- [x] US — Cuyahoga Valley National Park: 85.10/100 (desk-based provisional).
+- [x] US — Indiana Dunes National Park: 85.80/100 (desk-based provisional).
+- [x] US — Hot Springs National Park: 86.15/100 (desk-based provisional).
+- [x] US — Gateway Arch National Park: 87.90/100 (desk-based provisional).
+
+17 additions, 10 desk-based provisional, 7 source-informed, 5 90+, 44 domestic ranking-row comparisons. United States 173 ranked / 173 total. NPS list now contains 64 national parks (https://www.nps.gov/aboutus/national-park-system.htm); 62 in the US country file, one in VI, and AS park represented by Ofu, Pola/Sauma, Mount Alava, Siu Point and Tuafanua experiences rather than duplicate umbrella. Chiricahua redesignation confirmed by NPS. Existing scores unchanged. Next: national monuments, seashores and recreation areas, regional museums and landmarks. Full Python validation pending.

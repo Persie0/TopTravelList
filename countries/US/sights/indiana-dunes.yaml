@@ -1,0 +1,16 @@
+id: sight-us-indiana-dunes
+name: "Indiana Dunes National Park"
+location:
+  country_code: US
+  latitude: 41.65
+  longitude: -87.05
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.2
+    beaches: 9.1
+    photography: 9.0

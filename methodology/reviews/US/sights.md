@@ -5377,3 +5377,376 @@ Ranking rows checked; independent factual, coordinate, peer YAML and internation
 
 Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
 
+## sight-us-gates-of-the-arctic — Gates of the Arctic National Park and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gates-of-the-arctic.yaml)
+- Action: new
+- Scope: Roadless Brooks Range wilderness; wilderness experience assessed without access penalty, no guaranteed wildlife sightings.
+- Representative coordinates: 67.78, -153.3; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.2 / 8.6 / 9.1.
+- Categories: nature:9.4,adventure:9.4,photography:9.4.
+- Overall: 91.80/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/gaar/learn/what-is-gates-of-the-arctic.htm ; https://www.nps.gov/gaar/planyourvisit/basicinfo.htm?ncid=txtlnkusaolp00000618.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/wrangell-st-elias](../../../countries/US/sights/wrangell-st-elias.yaml) | 9.4 / 9.4 / 9.3 / 8.6 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | uniqueness: +0.2 vs peer; experience: -0.1 vs peer |
+| [US/north-cascades-national-park](../../../countries/US/sights/north-cascades-national-park.yaml) | 9.0 / 8.6 / 8.8 / 8.3 / 9.0 | uniqueness: +0.8 vs peer; significance: +0.4 vs peer |
+| [US/glacier-bay](../../../countries/US/sights/glacier-bay.yaml) | 9.5 / 9.4 / 9.4 / 8.9 / 9.1 | experience: -0.3 vs peer; impact: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-lake-clark — Lake Clark National Park and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/lake-clark.yaml)
+- Action: new
+- Scope: Glaciers, volcanoes, intact watersheds and wildlife; distinct park from Katmai.
+- Representative coordinates: 60.97, -153.42; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.1 / 8.9 / 9.2.
+- Categories: nature:9.4,wildlife:9.4,photography:9.4,adventure:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/lacl/learn/nature/volcanoes.htm ; https://www.nps.gov/lacl/learn/management/statistics.htm ; https://www.nps.gov/lacl/learn/wilderness.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [US/wrangell-st-elias](../../../countries/US/sights/wrangell-st-elias.yaml) | 9.4 / 9.4 / 9.3 / 8.6 / 9.2 | experience: +0.3 vs peer; impact: -0.2 vs peer |
+| [US/kenai-fjords-national-park](../../../countries/US/sights/kenai-fjords-national-park.yaml) | 9.2 / 8.9 / 8.8 / 9.0 / 8.9 | uniqueness: +0.3 vs peer; significance: +0.3 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | experience: +0.2 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-kobuk-valley — Kobuk Valley National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/kobuk-valley.yaml)
+- Action: new
+- Scope: High-latitude active dunes, boreal landscape and seasonal caribou migration; no sighting guarantee.
+- Representative coordinates: 67.36, -159.15; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.1 / 8.6 / 8.9.
+- Categories: nature:9.4,wildlife:9.4,adventure:9.3,photography:9.3.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/im/arcn/kova.htm ; https://www.nps.gov/kova/planyourvisit/dunes.htm ; https://www.nps.gov/kova/learn/wilderness.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/white-sands](../../../countries/US/sights/white-sands.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.1 | depth: +0.8 vs peer; significance: +0.7 vs peer |
+| [US/great-sand-dunes-national-park](../../../countries/US/sights/great-sand-dunes-national-park.yaml) | 8.9 / 8.8 / 8.5 / 8.8 / 8.7 | uniqueness: +0.6 vs peer; significance: +0.6 vs peer |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | experience: -0.3 vs peer; depth: -0.2 vs peer |
+| [US/denali-national-park](../../../countries/US/sights/denali-national-park.yaml) | 9.3 / 9.2 / 9.2 / 8.7 / 9.0 | impact: -0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-isle-royale — Isle Royale National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/isle-royale.yaml)
+- Action: new
+- Scope: Lake Superior island wilderness, long-running predator-prey research and historic wrecks; all park experiences grouped.
+- Representative coordinates: 48, -88.9; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.0 / 9.0 / 9.2.
+- Categories: nature:9.4,wildlife:9.3,adventure:9.3.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/isro/learn/predator-prey-research.htm ; https://www.nps.gov/isro/learn/historyculture/shipwrecks.htm ; https://www.nps.gov/isro/learn/nature/wolf-moose-populations.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/olympic-national-park](../../../countries/US/sights/olympic-national-park.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.3 | impact: -0.2 vs peer; significance: -0.1 vs peer |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.4 vs peer; impact: +0.3 vs peer |
+| [US/katmai-national-park](../../../countries/US/sights/katmai-national-park.yaml) | 9.1 / 9.3 / 9.1 / 8.9 / 9.1 | uniqueness: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-chiricahua — Chiricahua National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/chiricahua.yaml)
+- Action: new
+- Scope: Former national monument, redesignated in 2026; volcanic pinnacles, sky-island ecology and Apache heritage.
+- Representative coordinates: 32.014, -109.32; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 8.7 / 9.0 / 8.8.
+- Categories: nature:9.4,photography:9.4,adventure:9.2.
+- Overall: 90.00/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/chir/faqs.htm ; https://www.nps.gov/chir/learn/news/chiricahua-national-monument-becomes-america-s-newest-national-park.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | impact: -0.3 vs peer; significance: +0.3 vs peer |
+| [US/arches-national-park](../../../countries/US/sights/arches-national-park.yaml) | 9.3 / 9.4 / 8.7 / 9.0 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer |
+| [US/white-sands](../../../countries/US/sights/white-sands.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.1 | depth: +0.7 vs peer; significance: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-biscayne — Biscayne National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/biscayne.yaml)
+- Action: new
+- Scope: Marine park with reefs, islands and maritime heritage trail; no separate wreck or lighthouse entry.
+- Representative coordinates: 25.49, -80.21; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 8.9 / 8.9.
+- Categories: nature:9.3,wildlife:9.3,adventure:9.2.
+- Overall: 89.45/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/bisc/planyourvisit/guidedtours.htm ; https://www.nps.gov/bisc/learn/historyculture/maritime-heritage-trail.htm?fullweb=1.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/dry-tortugas-national-park](../../../countries/US/sights/dry-tortugas-national-park.yaml) | 8.8 / 9.0 / 8.8 / 8.8 / 8.2 | depth: +0.7 vs peer; significance: +0.2 vs peer |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.4 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-new-river-gorge — New River Gorge National Park and Preserve — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/new-river-gorge.yaml)
+- Action: new
+- Scope: Gorge hiking, whitewater and climbing treated as one park experience; not separate bridge record.
+- Representative coordinates: 38.07, -81.08; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.7 / 9.2 / 9.0.
+- Categories: adventure:9.4,nature:9.2,photography:9.3.
+- Overall: 88.90/100.
+- Decision: Source-informed provisional assessment from NPS excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/neri/planyourvisit/climbing.htm ; https://www.nps.gov/neri/planyourvisit/whitewater.htm?pubDate=20250624.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/black-canyon-of-the-gunnison-national-park](../../../countries/US/sights/black-canyon-of-the-gunnison-national-park.yaml) | 9.0 / 8.8 / 8.5 / 8.7 / 8.4 | depth: +0.6 vs peer; experience: +0.5 vs peer |
+| [US/canyonlands-national-park](../../../countries/US/sights/canyonlands-national-park.yaml) | 9.2 / 9.0 / 8.5 / 8.8 / 9.1 | experience: +0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-voyageurs — Voyageurs National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/voyageurs.yaml)
+- Action: new
+- Scope: Lake network, paddling, islands and boreal forest.
+- Representative coordinates: 48.49, -92.88; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.6 / 9.0 / 9.0.
+- Categories: nature:9.3,adventure:9.3,photography:9.2.
+- Overall: 88.35/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.8 vs peer; uniqueness: -0.3 vs peer |
+| [US/channel-islands-national-park](../../../countries/US/sights/channel-islands-national-park.yaml) | 8.7 / 8.8 / 8.8 / 8.8 / 8.8 | significance: -0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-guadalupe-mountains — Guadalupe Mountains National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/guadalupe-mountains.yaml)
+- Action: new
+- Scope: Mountain trails, Permian fossil reef and desert ecology.
+- Representative coordinates: 31.91, -104.86; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.7 / 8.9 / 8.8.
+- Categories: nature:9.3,adventure:9.3,photography:9.2.
+- Overall: 87.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/big-bend](../../../countries/US/sights/big-bend.yaml) | 8.8 / 8.7 / 8.8 / 8.8 / 9.0 | depth: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/great-basin-national-park](../../../countries/US/sights/great-basin-national-park.yaml) | 8.5 / 8.8 / 8.7 / 8.6 / 8.8 | impact: +0.3 vs peer; experience: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-pinnacles — Pinnacles National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/pinnacles.yaml)
+- Action: new
+- Scope: Volcanic spires, talus caves and condor habitat.
+- Representative coordinates: 36.49, -121.18; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.5 / 8.8 / 8.6.
+- Categories: nature:9.3,adventure:9.2,wildlife:9.2.
+- Overall: 87.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/joshua-tree-national-park](../../../countries/US/sights/joshua-tree-national-park.yaml) | 8.7 / 8.8 / 8.5 / 8.8 / 8.6 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [US/bryce-canyon-national-park](../../../countries/US/sights/bryce-canyon-national-park.yaml) | 9.4 / 9.3 / 8.4 / 9.1 / 8.5 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-theodore-roosevelt — Theodore Roosevelt National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/theodore-roosevelt.yaml)
+- Action: new
+- Scope: Badlands, bison habitat and presidential conservation history.
+- Representative coordinates: 46.98, -103.54; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.7 / 8.8 / 8.8.
+- Categories: wildlife:9.3,nature:9.2,photography:9.2.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/badlands-national-park](../../../countries/US/sights/badlands-national-park.yaml) | 8.6 / 8.6 / 8.6 / 8.6 / 8.5 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+| [US/petrified-forest](../../../countries/US/sights/petrified-forest.yaml) | 8.4 / 8.9 / 9.0 / 8.4 / 8.3 | depth: +0.5 vs peer; impact: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-shenandoah — Shenandoah National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/shenandoah.yaml)
+- Action: new
+- Scope: Blue Ridge hikes and Skyline Drive; excludes full Appalachian Trail.
+- Representative coordinates: 38.53, -78.35; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.5 / 8.6 / 8.9 / 8.9.
+- Categories: nature:9.2,adventure:9.1,photography:9.2.
+- Overall: 86.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/great-smoky-mountains-national-park](../../../countries/US/sights/great-smoky-mountains-national-park.yaml) | 8.8 / 8.6 / 9.1 / 8.8 / 9.1 | significance: -0.5 vs peer; depth: -0.2 vs peer |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-congaree — Congaree National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/congaree.yaml)
+- Action: new
+- Scope: Old-growth floodplain forest and paddling.
+- Representative coordinates: 33.79, -80.75; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.8 / 8.7 / 8.7.
+- Categories: nature:9.3,wildlife:9.2,photography:9.0.
+- Overall: 87.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/everglades-national-park](../../../countries/US/sights/everglades-national-park.yaml) | 8.7 / 9.2 / 9.4 / 8.8 / 9.0 | significance: -0.6 vs peer; uniqueness: -0.3 vs peer |
+| [US/redwood-parks](../../../countries/US/sights/redwood-parks.yaml) | 9.1 / 9.3 / 9.2 / 9.0 / 8.9 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-cuyahoga-valley — Cuyahoga Valley National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/cuyahoga-valley.yaml)
+- Action: new
+- Scope: Canal towpath, river valley and waterfalls.
+- Representative coordinates: 41.24, -81.55; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.4 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.0,history:9.0,relaxation:9.1.
+- Overall: 85.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [US/great-smoky-mountains-national-park](../../../countries/US/sights/great-smoky-mountains-national-park.yaml) | 8.8 / 8.6 / 9.1 / 8.8 / 9.1 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-indiana-dunes — Indiana Dunes National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/indiana-dunes.yaml)
+- Action: new
+- Scope: Lake Michigan dunes and diverse habitats; no separate adjacent state park score.
+- Representative coordinates: 41.65, -87.05; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.8 / 8.6.
+- Categories: nature:9.2,beaches:9.1,photography:9.0.
+- Overall: 85.80/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/great-sand-dunes-national-park](../../../countries/US/sights/great-sand-dunes-national-park.yaml) | 8.9 / 8.8 / 8.5 / 8.8 / 8.7 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/acadia-national-park](../../../countries/US/sights/acadia-national-park.yaml) | 8.6 / 8.1 / 8.1 / 8.9 / 8.7 | uniqueness: +0.5 vs peer; significance: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-hot-springs — Hot Springs National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hot-springs.yaml)
+- Action: new
+- Scope: Historic Bathhouse Row, thermal water and forest trails.
+- Representative coordinates: 34.515, -93.053; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.5 / 8.6.
+- Categories: history:9.2,architecture:9.1,relaxation:9.1.
+- Overall: 86.15/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/mount-vernon](../../../countries/US/sights/mount-vernon.yaml) | 8.1 / 8.5 / 9.0 / 8.5 / 8.2 | depth: +0.4 vs peer; impact: +0.3 vs peer |
+| [US/great-basin-national-park](../../../countries/US/sights/great-basin-national-park.yaml) | 8.5 / 8.8 / 8.7 / 8.6 / 8.8 | depth: -0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
+
+## sight-us-gateway-arch — Gateway Arch National Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/gateway-arch.yaml)
+- Action: new
+- Scope: Arch, museum and associated park interpreted together.
+- Representative coordinates: 38.6247, -90.1848; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.9 / 8.7 / 8.4.
+- Categories: architecture:9.3,history:9.2,photography:9.2.
+- Overall: 87.90/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/washington-monument](../../../countries/US/sights/washington-monument.yaml) | 8.7 / 8.6 / 8.8 / 8.6 / 7.3 | depth: +1.1 vs peer; uniqueness: +0.3 vs peer |
+| [US/empire-state-building](../../../countries/US/sights/empire-state-building.yaml) | 9.1 / 8.9 / 9.0 / 8.8 / 8.0 | depth: +0.4 vs peer; impact: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML and international calibration checks and full Python validation pending.
+
