@@ -1,0 +1,17 @@
+id: sight-it-san-fruttuoso-abbey
+name: "San Fruttuoso Abbey and Cove"
+location:
+  country_code: IT
+  latitude: 44.31649
+  longitude: 9.17519
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 8.9
+  depth: 8.4
+  categories:
+    architecture: 9.1
+    photography: 9.3
+    history: 8.9
+    nature: 9.0

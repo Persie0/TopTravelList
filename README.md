@@ -198,7 +198,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Ireland](countries/IE/) (`IE`) | [20](countries/IE/cities.md) | [46](countries/IE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ireland) |
 | [Isle of Man](countries/IM/) (`IM`) | [7](countries/IM/cities.md) | [24](countries/IM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Isle%20of%20Man) |
 | [Israel](countries/IL/) (`IL`) | [12](countries/IL/cities.md) | [41](countries/IL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Israel) |
-| [Italy](countries/IT/) (`IT`) | [25](countries/IT/cities.md) | [145](countries/IT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Italy) |
+| [Italy](countries/IT/) (`IT`) | [25](countries/IT/cities.md) | [153](countries/IT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Italy) |
 | [Jamaica](countries/JM/) (`JM`) | [11](countries/JM/cities.md) | [26](countries/JM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Jamaica) |
 | [Japan](countries/JP/) (`JP`) | [87](countries/JP/cities.md) | [347](countries/JP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Japan) |
 | [Jersey](countries/JE/) (`JE`) | [4](countries/JE/cities.md) | [22](countries/JE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Jersey) |

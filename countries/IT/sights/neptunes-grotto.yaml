@@ -1,0 +1,16 @@
+id: sight-it-neptunes-grotto
+name: "Neptune's Grotto Sardinia"
+location:
+  country_code: IT
+  latitude: 40.5648486
+  longitude: 8.1601399
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.1

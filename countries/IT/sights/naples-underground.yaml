@@ -1,0 +1,16 @@
+id: sight-it-naples-underground
+name: "Naples Underground (Piazza San Gaetano)"
+location:
+  country_code: IT
+  latitude: 40.8511
+  longitude: 14.2568
+scores:
+  impact: 8.8
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 9.2
+    adventure: 9.1
+    culture: 9.0

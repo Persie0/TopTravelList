@@ -999,3 +999,16 @@ Ten additions, 40 peer rows. Portugal 90 ranked / 91 total, 38 additions since p
 - [x] IT — Aquarium of Genoa: 86.10/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows; Italy 133 ranked / 145 total. Existing ratings preserved. Venaria Reale deferred for Savoy series scope, Isola Bella palace/gardens distinct from Maggiore-Orta, Naples museum separate from ruins, Mole museum and monument grouped. Next bounded screen: Sansevero Chapel, Naples Underground, Capitoline Museums, Castel Sant’Angelo, Grotte di Nettuno, Gardaland; inspect Portofino and Pantelleria scopes. Full Python validation and independent corroboration pending.
+
+### Pass 88 — Italy urban interiors, coastal cave, abbey and theme park
+
+- [x] IT — Sansevero Chapel Museum: 89.60/100 (source-linked-unverified).
+- [x] IT — Naples Underground (Piazza San Gaetano): 88.30/100 (source-linked-unverified).
+- [x] IT — Capitoline Museums Rome: 91.40/100 (source-linked-unverified).
+- [x] IT — Castel Sant'Angelo National Museum: 90.15/100 (source-linked-unverified).
+- [x] IT — Neptune's Grotto Sardinia: 88.25/100 (source-linked-unverified).
+- [x] IT — Gardaland Theme Park: 86.00/100 (source-linked-unverified).
+- [x] IT — San Fruttuoso Abbey and Cove: 87.65/100 (source-linked-unverified).
+- [x] IT — Catacombs of San Gennaro and San Gaudioso Naples: 89.10/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows; Italy 141 ranked / 153 total. Existing ratings preserved. San Fruttuoso abbey and immediate cove distinct from provisional Portofino park; Pantelleria already represented. Catacombs of San Gennaro and San Gaudioso grouped; Piazza San Gaetano tour distinct. Gardaland main park only. Next bounded screen: Milan Brera, Sforza Castle, Turin National Automobile Museum, Florence Pitti/Boboli, Bologna Asinelli (access advisory), Segesta, Selinunte, Sardinia Cala Goloritzé scope. Full Python validation and independent corroboration pending.
