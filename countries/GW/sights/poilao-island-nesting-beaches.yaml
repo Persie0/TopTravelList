@@ -2,8 +2,8 @@ id: sight-gw-poilao-island-nesting-beaches
 name: "Poilão Island nesting beaches"
 location:
   country_code: GW
-  latitude: 10.80
-  longitude: -15.72
+  latitude: 10.866667
+  longitude: -15.716667
 scores:
   impact: 9.2
   uniqueness: 9.6
