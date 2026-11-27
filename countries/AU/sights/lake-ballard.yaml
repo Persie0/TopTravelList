@@ -1,0 +1,16 @@
+id: sight-au-lake-ballard
+name: "Lake Ballard Inside Australia Sculptures"
+location:
+  country_code: AU
+  latitude: -29.4
+  longitude: 120.89
+scores:
+  impact: 8.7
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.7
+  depth: 8.4
+  categories:
+    culture: 9.2
+    photography: 9.4
+    nature: 9.0

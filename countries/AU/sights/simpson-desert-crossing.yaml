@@ -1,0 +1,16 @@
+id: sight-au-simpson-desert-crossing
+name: "Munga-Thirri Simpson Desert Multi-Day Dune Crossing"
+location:
+  country_code: AU
+  latitude: -25.5
+  longitude: 137.5
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.0
+  experience: 9.0
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.4

@@ -3529,3 +3529,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AU — Little Sahara Kangaroo Island Sand Dune Adventure: 86.35/100 (desk-based provisional).
 
 19 additions, 11 desk-based provisional, 8 source-linked, 4 90+, 46 ranking-row comparisons including 9 US peers. Australia 181 ranked / 181 total. Whyalla giant Australian cuttlefish aggregation deferred for physical-condition reassessment: SA government reports 1,811 in 2026, lowest on record, ongoing investigation including possible algal bloom effects (https://www.environment.sa.gov.au/news-hub/news/articles/2026/09/more-monitoring-and-research-for-giant-australian-cuttlefish-as-numbers-reach-historic-lows). This is not merely a temporary visitor closure. Christmas Island red crab migration belongs to CX territory queue (https://parksaustralia.gov.au/news/millions-of-crabs-march-on-christmas-island/), not mainland AU. Mount Field confirmed within Tasmanian Wilderness (https://parks.tas.gov.au/explore-our-parks/mount-field-national-park/mount-field-history), specific day-walk scope only. Otways excludes coastal drive; Gordon cruise includes Sarah Island, excludes Franklin rafting. Ball's Pyramid already within Lord Howe island group scope, no duplicate pending specialist experience review. Lady Elliot still deferred; no existing score changes. Next: bounded state and territory screen, remaining inland natural landscapes and flagship museums; independent validation pending.
+
+### Pass 207 — Australian inland landscapes and cultural institutions
+
+- [x] AU — Munga-Thirri Simpson Desert Multi-Day Dune Crossing: 91.80/100 (source-linked-unverified).
+- [x] AU — Eromanga Natural History Museum and Dinosaur Fossil Labs: 91.15/100 (source-linked-unverified).
+- [x] AU — Melbourne Cricket Ground and Australian Sports Museum: 90.85/100 (source-linked-unverified).
+- [x] AU — Wolfe Creek Meteorite Crater National Park: 90.55/100 (source-linked-unverified).
+- [x] AU — Kanku-Breakaways Conservation Park Colourful Desert Hills: 88.40/100 (source-linked-unverified).
+- [x] AU — Karlu Karlu Devils Marbles Conservation Reserve: 88.35/100 (desk-based provisional).
+- [x] AU — Finke Gorge National Park Palm Valley: 88.15/100 (desk-based provisional).
+- [x] AU — Glass House Mountains National Park Lookouts and Trails: 87.60/100 (desk-based provisional).
+- [x] AU — Girraween National Park Granite Landscapes: 87.35/100 (desk-based provisional).
+- [x] AU — Eungella National Park Platypus Viewing and Forest Trails: 87.80/100 (desk-based provisional).
+- [x] AU — Fitzgerald River National Park Coastal Biodiversity: 88.35/100 (desk-based provisional).
+- [x] AU — Stirling Range National Park Bluff Knoll and Mountain Trails: 88.05/100 (desk-based provisional).
+- [x] AU — Burringurrah Mount Augustus National Park: 88.55/100 (desk-based provisional).
+- [x] AU — Lake Ballard Inside Australia Sculptures: 87.50/100 (desk-based provisional).
+- [x] AU — Canberra Deep Space Communication Complex Visitor Centre: 88.75/100 (desk-based provisional).
+- [x] AU — Tidbinbilla Nature Reserve Native Wildlife and Trails: 86.75/100 (desk-based provisional).
+- [x] AU — State Library Victoria La Trobe Reading Room and Heritage Galleries: 88.40/100 (desk-based provisional).
+- [x] AU — Adelaide Botanic Garden and Palm House: 87.15/100 (desk-based provisional).
+
+18 additions, 13 desk-based provisional, 5 source-linked, 4 90+, 41 ranking-row comparisons including 5 international. Australia 199 ranked / 199 total. Simpson crossing spans SA and QLD in one experience; annual heat closure (SA source lists 1 Dec 2026–15 Mar 2027) excluded from intrinsic score. Kanku distinct from Coober Pedy underground heritage; MCG museum and stadium grouped. Eromanga distinct from Winton and Lark Quarry. Wolfe Creek claim limited to craters with recovered meteorite fragments. No separate Mungo entry (Willandra Lakes parent), Dorrigo (Gondwana parent), Cape Range (Ningaloo parent), or other legacy parent components pending scope resolution. Whyalla condition, Lady Elliot and Ball's Pyramid remain deferred. Existing scores retained. Next: targeted remaining state screening and then territory queues; independent validation pending.

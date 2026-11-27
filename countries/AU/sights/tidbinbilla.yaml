@@ -1,0 +1,16 @@
+id: sight-au-tidbinbilla
+name: "Tidbinbilla Nature Reserve Native Wildlife and Trails"
+location:
+  country_code: AU
+  latitude: -35.46
+  longitude: 148.94
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.9
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    family: 9.1
