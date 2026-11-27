@@ -4750,3 +4750,295 @@ Ranking rows and allowed categories checked; independent coordinate, peer YAML, 
 ### Pass 247 scope decisions
 
 18 additions, 16 source-linked provisional, 2 desk-based provisional, 6 90+, 45 ranking-row comparisons (4 international). BR 221 ranked / 224 total. UNESCO official country list checked: all 26 inscribed properties and 18 tentative entries represented, including three unassessed (https://whc.unesco.org/en/statesparties/br). Catimbau deferred as existing Caatinga serial component (https://whc.unesco.org/en/tentativelists/6896/). Lagoa Misteriosa distinct underwater circuit despite shared Rio da Prata reception; Réveillon separate from Carnival; Festival do Japão separate from Liberdade; Bioparque aquarium separate from wild Pantanal; Marabaixo public-facing only. North coverage expanded to Amapá, Rondônia and Acre. Prior deferrals retained. Coordinates approximate; access and future schedules unverified. Existing scores and three unassessed retained. Queue stays open for targeted final regional screen because this pass still identified multiple 90+ omissions; UNESCO representation is not completeness.
+
+## sight-br-festa-da-penha — Festa da Penha Vila Velha Pilgrimages and Religious Cultural Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/festa-da-penha.yaml)
+- Action: new
+- Scope: Annual pilgrimage and public performances, separate from permanent convent architecture. State tourism traces tradition to 1570; federal Law 15,362 of 2026 recognizes it as a manifestation of national culture.
+- Representative coordinates: -20.329, -40.291; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.50/100.
+- Source: https://descubraoespiritosanto.es.gov.br/noticias/com-tema-da-paz-festa-da-penha-2026-promete-emocionar-fieis-2
+- Source: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15362.htm
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [FR/lourdes-sanctuary](../../../countries/FR/sights/lourdes-sanctuary.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.2 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-ccxp-sao-paulo — CCXP São Paulo Comics Cinema and Pop Culture Convention — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/ccxp-sao-paulo.yaml)
+- Action: new
+- Scope: Annual convention including comics artists, panels and cinema exhibitions, not venue architecture. Organizer reports 280,000 visitors over four days in 2019; its global size superlative is organizer-reported, not independently ranked.
+- Representative coordinates: -23.647, -46.629; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.1 / 9.4 / 9.2.
+- Categories: culture:9.4 family:9.3 nightlife:9.2.
+- Overall: 92.10/100.
+- Source: https://ajuda.ccxp.com.br/hc/en-us/articles/4409215607437-About-the-CCXP
+- Source: https://ccxp.com.br/en/artists-valley-application-manual/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/festival-do-japao](../../../countries/BR/sights/festival-do-japao.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+| [BR/sao-paulo-biennial](../../../countries/BR/sights/sao-paulo-biennial.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.3 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [BR/rock-in-rio](../../../countries/BR/sights/rock-in-rio.yaml) | 9.3 / 9.2 / 9.3 / 9.4 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-olimpia-folklore-festival — Olímpia National Folklore Festival Brazilian Traditional Music and Dance — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/olimpia-folklore-festival.yaml)
+- Action: new
+- Scope: Annual live performances representing Brazilian folk traditions; municipality reports over 190,000 visits in 2026, its 62nd edition. Excludes permanent folklore museum.
+- Representative coordinates: -20.737, -48.91; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.35/100.
+- Source: https://www.olimpia.sp.gov.br/portal/noticias/0/3/8706/olimpia-encerra-62-festival-do-folclore-com-mais-de-190-mil-visitantes-e-expectativa-para-2027
+- Source: https://www.olimpia.sp.gov.br/portal/noticias/0/3/8696/recinto-do-folclore-celebra-40-anos-como-palco-da-historia-construida-pelo-fefol-e-pelo-professor-jose-santanna/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/parintins-festival](../../../countries/BR/sights/parintins-festival.yaml) | 9.4 / 9.4 / 9.3 / 9.4 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [BR/garanhuns-winter-festival](../../../countries/BR/sights/garanhuns-winter-festival.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.1 | impact: +0.0 vs peer; uniqueness: +0.3 vs peer |
+| [BR/bumba-meu-boi-maranhao](../../../countries/BR/sights/bumba-meu-boi-maranhao.yaml) | 9.1 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-santuario-do-caraca — Santuário do Caraça Historic Sanctuary and Mountain Nature Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/santuario-do-caraca.yaml)
+- Action: new
+- Scope: Grouped historic church, former college museum/library and surrounding reserve hiking. Municipality documents nationally protected complex and reserve of 10,187 hectares. Wildlife encounters not guaranteed; no animal feeding endorsement.
+- Representative coordinates: -20.097, -43.487; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.2 / 8.9 / 9.2.
+- Categories: nature:9.3 history:9.3 architecture:9.3 wildlife:9.2.
+- Overall: 91.25/100.
+- Source: https://www.catasaltas.mg.gov.br/2023/06/12/santuario-do-caraca/
+- Source: https://www.catasaltas.mg.gov.br/2024/01/10/acervo-arquitetonico-e-paisagistico-do-santuario-do-caracavoce-sabia/
+- Source: https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/cerrado/lista-de-ucs/rppn-santuario-do-caraca/rppn-santuario-do-caraca
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/serra-da-piedade](../../../countries/BR/sights/serra-da-piedade.yaml) | 8.6 / 8.7 / 8.8 / 8.8 / 8.5 | impact: +0.5 vs peer; uniqueness: +0.5 vs peer |
+| [BR/serra-do-cipo](../../../countries/BR/sights/serra-do-cipo.yaml) | 8.8 / 8.8 / 8.7 / 8.9 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.4 vs peer |
+| [BR/cristalino-reserve](../../../countries/BR/sights/cristalino-reserve.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-lollapalooza-brasil — Lollapalooza Brasil São Paulo International Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/lollapalooza-brasil.yaml)
+- Action: new
+- Scope: Dedicated music festival distinct from Formula One at the same venue; municipality reports around 300,000 attendees in 2026. Shared facilities non-additive; uniqueness moderated relative to Rock in Rio.
+- Representative coordinates: -23.703, -46.699; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.2 / 8.9 / 9.0 / 9.4 / 9.1.
+- Categories: culture:9.3 nightlife:9.4 photography:9.2.
+- Overall: 91.05/100.
+- Source: https://prefeitura.sp.gov.br/web/sampa-news/w/lollapalooza-2026-p%C3%BAblico-elogia-estrutura-da-prefeitura-para-atender-festival-que-reuniu-cerca-de-300-mil-pessoas-em-interlagos
+- Source: https://autodromodeinterlagos.prefeitura.sp.gov.br/w/lollapalooza-brasil-2020-2
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/rock-in-rio](../../../countries/BR/sights/rock-in-rio.yaml) | 9.3 / 9.2 / 9.3 / 9.4 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+| [BR/sao-paulo-grand-prix](../../../countries/BR/sights/sao-paulo-grand-prix.yaml) | 9.3 / 9.2 / 9.4 / 9.3 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+| [BR/garanhuns-winter-festival](../../../countries/BR/sights/garanhuns-winter-festival.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.1 | impact: +0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-convento-da-penha — Convento da Penha Vila Velha Historic Convent and Hilltop Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/convento-da-penha.yaml)
+- Action: new
+- Scope: Permanent hilltop convent and architecture excluding Festa da Penha event. Federal heritage protection and surroundings defined in IPHAN ordinance 27/2022.
+- Representative coordinates: -20.329, -40.291; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.1 / 8.6 / 8.5.
+- Categories: architecture:9.3 history:9.3 photography:9.3.
+- Overall: 88.00/100.
+- Source: https://www.gov.br/iphan/pt-br/centrais-de-conteudo/legislacao/atos-normativos/2022/portaria-iphan-no-27-de-18-de-julho-de-2022
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/serra-da-piedade](../../../countries/BR/sights/serra-da-piedade.yaml) | 8.6 / 8.7 / 8.8 / 8.8 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [BR/sanctuary-of-bom-jesus-do-congonhas](../../../countries/BR/sights/sanctuary-of-bom-jesus-do-congonhas.yaml) | 8.8 / 9.2 / 9.4 / 8.6 / 7.7 | impact: +0.0 vs peer; uniqueness: -0.4 vs peer |
+| [PT/bom-jesus](../../../countries/PT/sights/bom-jesus.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-pedra-azul-state-park — Pedra Azul State Park Espírito Santo Granite Mountains and Trails — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/pedra-azul-state-park.yaml)
+- Action: new
+- Scope: Granite rock formations and forest trails; state environmental authority documents distinctive Pedra Azul, Pedra das Flores and Pedra do Lagarto. Separate from Caparaó.
+- Representative coordinates: -20.4, -41.02; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 8.8 / 8.6 / 8.7 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 87.85/100.
+- Source: https://iema.es.gov.br/PEPAZ
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/pedra-do-bau](../../../countries/BR/sights/pedra-do-bau.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [BR/caparao-national-park](../../../countries/BR/sights/caparao-national-park.yaml) | 8.8 / 8.7 / 8.8 / 8.9 / 8.9 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-itaunas-state-park — Itaúnas State Park Espírito Santo Coastal Dunes and Forest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/itaunas-state-park.yaml)
+- Action: new
+- Scope: Protected coastal dunes, beaches and vegetation; park visitor information documents local trail experience. Excludes standalone music festival.
+- Representative coordinates: -18.42, -39.69; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.5 / 8.8 / 8.7.
+- Categories: nature:9.2 photography:9.3 beaches:9.2.
+- Overall: 86.75/100.
+- Source: https://iema.es.gov.br/PEI
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/genipabu](../../../countries/BR/sights/genipabu.yaml) | 8.8 / 8.7 / 8.3 / 8.9 / 8.5 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+| [BR/dunas-do-rosado](../../../countries/BR/sights/dunas-do-rosado.yaml) | 8.7 / 8.8 / 8.1 / 8.4 / 8.1 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-guarapari-marine-diving — Guarapari Espírito Santo Marine Diving and Offshore Reef Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/guarapari-marine-diving.yaml)
+- Action: new
+- Scope: Regional authorized diving excursions only, not generic resort beaches. Reef health, individual sites and current diving conditions unverified.
+- Representative coordinates: -20.67, -40.46; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.2 / 8.7 / 8.6.
+- Categories: nature:9.1 wildlife:9.2 adventure:9.2.
+- Overall: 85.60/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/abrolhos-marine-national-park](../../../countries/BR/sights/abrolhos-marine-national-park.yaml) | 8.9 / 9.1 / 9.1 / 8.3 / 8.0 | impact: -0.3 vs peer; uniqueness: -0.4 vs peer |
+| [BR/arraial-do-cabo](../../../countries/BR/sights/arraial-do-cabo.yaml) | 9.2 / 8.9 / 8.5 / 9.0 / 8.8 | impact: -0.6 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-pico-da-ibituruna — Pico da Ibituruna Governador Valadares Paragliding and Mountain Viewpoints — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/pico-da-ibituruna.yaml)
+- Action: new
+- Scope: Distinct mountain viewpoints and established free-flight experience; no flight availability or suitability guarantee.
+- Representative coordinates: -18.879, -41.913; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.1 / 8.8 / 8.3.
+- Categories: adventure:9.3 photography:9.2 nature:9.0.
+- Overall: 85.30/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/pedra-do-bau](../../../countries/BR/sights/pedra-do-bau.yaml) | 8.9 / 8.8 / 8.4 / 8.9 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [BR/cumbuco-kitesurf](../../../countries/BR/sights/cumbuco-kitesurf.yaml) | 8.8 / 8.9 / 8.5 / 9.2 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-sao-miguel-do-gostoso — São Miguel do Gostoso Coastal Kitesurfing and Windsurfing Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/sao-miguel-do-gostoso.yaml)
+- Action: new
+- Scope: Wind-sport visitor experience at the northern RN coast, distinct from Pipa and Genipabu. Municipal history documents international wind-sport tourism.
+- Representative coordinates: -5.12, -35.64; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.3 / 9.0 / 8.7.
+- Categories: adventure:9.3 beaches:9.3 photography:9.1.
+- Overall: 86.40/100.
+- Source: https://site.saomigueldogostoso.rn.gov.br/pages/historico
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/cumbuco-kitesurf](../../../countries/BR/sights/cumbuco-kitesurf.yaml) | 8.8 / 8.9 / 8.5 / 9.2 / 9.0 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+| [BR/pipa-coast](../../../countries/BR/sights/pipa-coast.yaml) | 8.9 / 8.8 / 8.4 / 9.0 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-barra-grande-piaui — Barra Grande Piauí Coastal Kitesurfing and Beach Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/barra-grande-piaui.yaml)
+- Action: new
+- Scope: Coastal wind sports east of the Delta do Parnaíba; excludes delta boat tours.
+- Representative coordinates: -2.91, -41.41; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.0 / 8.9 / 8.5.
+- Categories: beaches:9.2 adventure:9.3 relaxation:9.1.
+- Overall: 84.90/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/cumbuco-kitesurf](../../../countries/BR/sights/cumbuco-kitesurf.yaml) | 8.8 / 8.9 / 8.5 / 9.2 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.4 vs peer |
+| [BR/delta-do-parnaiba](../../../countries/BR/sights/delta-do-parnaiba.yaml) | 8.8 / 8.8 / 8.4 / 8.7 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-restinga-de-jurubatiba — Restinga de Jurubatiba National Park Coastal Lagoons and Biodiversity — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/restinga-de-jurubatiba.yaml)
+- Action: new
+- Scope: Protected coastal restinga ecosystems and lagoon visits distinct from Arraial do Cabo. ICMBio documents designated visitor attractions and transport options.
+- Representative coordinates: -22.24, -41.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.8 / 8.4 / 8.6.
+- Categories: nature:9.3 wildlife:9.2 photography:9.1.
+- Overall: 86.30/100.
+- Source: https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-da-restinga-de-jurubatiba/orientacao-de-visitacao
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/lagoa-do-peixe](../../../countries/BR/sights/lagoa-do-peixe.yaml) | 8.8 / 9.1 / 9.4 / 8.8 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer |
+| [BR/rio-doce-state-park](../../../countries/BR/sights/rio-doce-state-park.yaml) | 8.7 / 8.9 / 9.2 / 8.6 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-br-gruta-rei-do-mato — Gruta Rei do Mato Sete Lagoas Limestone Cave Visitor Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BR/sights/gruta-rei-do-mato.yaml)
+- Action: new
+- Scope: Distinct limestone cave visitor circuit near Sete Lagoas, not Maquiné or Peruaçu; coordinate and access verification pending.
+- Representative coordinates: -19.5, -44.29; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.4 / 8.6 / 8.3.
+- Categories: nature:9.2 photography:9.2 adventure:8.8.
+- Overall: 85.55/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/gruta-maquine](../../../countries/BR/sights/gruta-maquine.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 8.5 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/terra-ronca](../../../countries/BR/sights/terra-ronca.yaml) | 9.2 / 9.3 / 9.0 / 9.0 / 9.3 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 248 scope decisions
+
+14 additions, 10 source-linked provisional, 4 desk-based provisional, 5 90+, 34 ranking-row comparisons (2 international). BR 235 ranked / 238 total, +153 since baseline 85. Espírito Santo gaps targeted; Penha festival and convent separately scoped; Lollapalooza and Interlagos Formula One separate events with shared facilities non-additive. Caraça built heritage and reserve grouped. Cantão deferred pending reconciliation of prior public-use provisions with 2026 management-plan revision (https://www.funbio.org.br/programas_e_projetos/acordo-bilateral-tfca/protecao-uso-publico-e-monitoramento-parque-estadual-cantao/ and https://portalamazonia.com/turismo/estudo-tecnico-parque-cantao-to/); Cabo Orange deferred pending distinction between historical restricted visitation and listed birding potential (https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-do-cabo-orange and https://www.gov.br/icmbio/pt-br/assuntos/observacao-de-aves/lista-das-unidades-com-turismo-de-observacao-de-aves). Neither deferral is a score penalty. Prior named deferrals and three unassessed entries retained. Pass 247 UNESCO representation finding retained, not independently rechecked this pass. Close current bounded Brazilian discovery queue after passes 239–248; not exhaustive. Reopen on concrete substantial omissions or new scope evidence, including The Town/Brazil Game Show and other recurring events for cross-country event calibration. Existing scores preserved. Coordinates approximate; access and future schedules unverified; full Python validation and historical evidence review pending.

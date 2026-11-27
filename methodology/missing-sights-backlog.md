@@ -4386,3 +4386,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Ponta Negra Beach and Morro do Careca Viewpoints Natal: 83.55/100 (desk-based provisional).
 
 18 additions, 16 source-linked provisional, 2 desk-based provisional, 6 90+, 45 ranking-row comparisons (4 international). BR 221 ranked / 224 total. UNESCO official country list checked: all 26 inscribed properties and 18 tentative entries represented, including three unassessed (https://whc.unesco.org/en/statesparties/br). Catimbau deferred as existing Caatinga serial component (https://whc.unesco.org/en/tentativelists/6896/). Lagoa Misteriosa distinct underwater circuit despite shared Rio da Prata reception; Réveillon separate from Carnival; Festival do Japão separate from Liberdade; Bioparque aquarium separate from wild Pantanal; Marabaixo public-facing only. North coverage expanded to Amapá, Rondônia and Acre. Prior deferrals retained. Coordinates approximate; access and future schedules unverified. Existing scores and three unassessed retained. Queue stays open for targeted final regional screen because this pass still identified multiple 90+ omissions; UNESCO representation is not completeness.
+
+### Pass 248 — Brazil regional gap screen and bounded queue closure
+
+- [x] BR — Festa da Penha Vila Velha Pilgrimages and Religious Cultural Festival: 92.50/100 (source-linked-unverified).
+- [x] BR — CCXP São Paulo Comics Cinema and Pop Culture Convention: 92.10/100 (source-linked-unverified).
+- [x] BR — Olímpia National Folklore Festival Brazilian Traditional Music and Dance: 91.35/100 (source-linked-unverified).
+- [x] BR — Santuário do Caraça Historic Sanctuary and Mountain Nature Reserve: 91.25/100 (source-linked-unverified).
+- [x] BR — Lollapalooza Brasil São Paulo International Music Festival: 91.05/100 (source-linked-unverified).
+- [x] BR — Convento da Penha Vila Velha Historic Convent and Hilltop Viewpoints: 88.00/100 (source-linked-unverified).
+- [x] BR — Pedra Azul State Park Espírito Santo Granite Mountains and Trails: 87.85/100 (source-linked-unverified).
+- [x] BR — Itaúnas State Park Espírito Santo Coastal Dunes and Forest Trails: 86.75/100 (source-linked-unverified).
+- [x] BR — Guarapari Espírito Santo Marine Diving and Offshore Reef Excursions: 85.60/100 (desk-based provisional).
+- [x] BR — Pico da Ibituruna Governador Valadares Paragliding and Mountain Viewpoints: 85.30/100 (desk-based provisional).
+- [x] BR — São Miguel do Gostoso Coastal Kitesurfing and Windsurfing Circuit: 86.40/100 (source-linked-unverified).
+- [x] BR — Barra Grande Piauí Coastal Kitesurfing and Beach Circuit: 84.90/100 (desk-based provisional).
+- [x] BR — Restinga de Jurubatiba National Park Coastal Lagoons and Biodiversity: 86.30/100 (source-linked-unverified).
+- [x] BR — Gruta Rei do Mato Sete Lagoas Limestone Cave Visitor Circuit: 85.55/100 (desk-based provisional).
+
+14 additions, 10 source-linked provisional, 4 desk-based provisional, 5 90+, 34 ranking-row comparisons (2 international). BR 235 ranked / 238 total, +153 since baseline 85. Espírito Santo gaps targeted; Penha festival and convent separately scoped; Lollapalooza and Interlagos Formula One separate events with shared facilities non-additive. Caraça built heritage and reserve grouped. Cantão deferred pending reconciliation of prior public-use provisions with 2026 management-plan revision (https://www.funbio.org.br/programas_e_projetos/acordo-bilateral-tfca/protecao-uso-publico-e-monitoramento-parque-estadual-cantao/ and https://portalamazonia.com/turismo/estudo-tecnico-parque-cantao-to/); Cabo Orange deferred pending distinction between historical restricted visitation and listed birding potential (https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-do-cabo-orange and https://www.gov.br/icmbio/pt-br/assuntos/observacao-de-aves/lista-das-unidades-com-turismo-de-observacao-de-aves). Neither deferral is a score penalty. Prior named deferrals and three unassessed entries retained. Pass 247 UNESCO representation finding retained, not independently rechecked this pass. Close current bounded Brazilian discovery queue after passes 239–248; not exhaustive. Reopen on concrete substantial omissions or new scope evidence, including The Town/Brazil Game Show and other recurring events for cross-country event calibration. Existing scores preserved. Coordinates approximate; access and future schedules unverified; full Python validation and historical evidence review pending.
