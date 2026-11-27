@@ -5406,3 +5406,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-bayeux-tapestry — Bayeux Tapestry Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bayeux-tapestry.yaml)
+- Action: new
+- Precise subject and limitations: Established museum visit centred on medieval embroidery and audio interpretation; operator announces closure until October 2027 (https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/practical-information/). Historic museum location retained pending reopening; no assumption about future exhibition layout. Excludes separate Normandy battle museum.
+- Location check: 49.2743829, -0.7003485; [published representative point](https://www.cirkwi.com/fr/point-interet/289346-tapisserie-de-bayeux), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-angers](../../../countries/FR/sights/chateau-angers.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.2 | depth: -0.7 vs peer; experience: -0.2 vs peer. |
+| [FR/musee-cluny](../../../countries/FR/sights/musee-cluny.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | depth: -0.5 vs peer; impact: +0.2 vs peer. |
+| [FR/musee-orangerie](../../../countries/FR/sights/musee-orangerie.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 8.6 | experience: -0.2 vs peer; significance: +0.1 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Exceptional continuous medieval narrative. |
+| Uniqueness | 9.4 | Distinct surviving embroidery. |
+| Significance | 9.4 | Major medieval artistic and historical heritage. |
+| Experience | 8.9 | Established close-view interpreted display. |
+| Depth | 8.5 | Focused single masterpiece and contextual displays. |
+
+- Applicable categories: history:9.4, culture:9.4.
+- Computed worldwide overall: 91.75/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-memorial-caen — Mémorial de Caen — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/memorial-caen.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated twentieth-century history museum and permanent exhibitions, separate from coastal D-Day landscape; excludes off-site battlefield tours. Coordinates converted from operator DMS.
+- Location check: 49.197278, -0.383972; [published representative point](https://www.memorial-caen.com/your-visit/acces/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.memorial-caen.com/your-visit/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/invalides-army-museum](../../../countries/FR/sights/invalides-army-museum.yaml) | 9.2 / 9.1 / 9.4 / 9.0 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/dday-beaches](../../../countries/FR/sights/dday-beaches.yaml) | 8.8 / 9.1 / 9.5 / 8.8 / 9.2 | experience: +0.3 vs peer; impact: +0.2 vs peer. |
+| [FR/musee-carnavalet](../../../countries/FR/sights/musee-carnavalet.yaml) | 8.9 / 9.0 / 9.2 / 9.1 / 9.3 | impact: +0.1 vs peer; significance: +0.1 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | experience: +0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Substantial immersive historical interpretation. |
+| Uniqueness | 9.0 | Distinct integrated twentieth-century narrative. |
+| Significance | 9.3 | Major historical education institution. |
+| Experience | 9.1 | Extensive visitor galleries. |
+| Depth | 9.3 | Broad historical collections and themes. |
+
+- Applicable categories: history:9.4, culture:9.2.
+- Computed worldwide overall: 91.05/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-caen — Château de Caen and Museums — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-caen.yaml)
+- Action: new
+- Precise subject and limitations: Fortress enclosure, Musée de Normandie and Musée des Beaux-Arts grouped as combined castle/museum visit; combined ticket documented; individual museum tickets also available. Museum location represents castle complex; excludes Caen Memorial.
+- Location check: 49.1864973, -0.3626716; [published representative point](https://www.musees-normandie.fr/musees-normandie/musee-de-normandie-chateau-de-caen), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://musee-de-normandie.caen.fr/node/19992); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-angers](../../../countries/FR/sights/chateau-angers.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.2 | uniqueness: -0.5 vs peer; impact: -0.3 vs peer. |
+| [FR/chateau-vincennes](../../../countries/FR/sights/chateau-vincennes.yaml) | 9.0 / 8.9 / 9.2 / 8.8 / 8.9 | depth: +0.3 vs peer; experience: +0.2 vs peer. |
+| [FR/chateau-blois](../../../countries/FR/sights/chateau-blois.yaml) | 9.1 / 9.1 / 9.3 / 9.0 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [IT/sforza-castle](../../../countries/IT/sights/sforza-castle.yaml) | 9.0 / 8.8 / 9.2 / 9.0 / 9.2 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Large fortified enclosure and museum collections. |
+| Uniqueness | 8.9 | Distinct castle and complementary collections. |
+| Significance | 9.1 | Major Norman and artistic heritage. |
+| Experience | 9.0 | Combined historic site and galleries. |
+| Depth | 9.2 | Extensive archaeological and fine art displays. |
+
+- Applicable categories: architecture:9.2, history:9.4, culture:9.3.
+- Computed worldwide overall: 89.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-honfleur-old-harbour — Honfleur Old Harbour and Historic Quays — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/honfleur-old-harbour.yaml)
+- Action: new
+- Precise subject and limitations: Vieux Bassin, historic quayside streets and immediate maritime heritage setting; excludes broader estuary and separately operated museums.
+- Location check: 49.42023, 0.23323; [published representative point](https://mapcarta.com/fr/W200953834), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ot-honfleur.fr/en/honfleur/incontournables-a-honfleur/le-vieux-bassin/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/sarlat-core](../../../countries/FR/sights/sarlat-core.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.5 | significance: -0.1 vs peer; experience: +0.1 vs peer. |
+| [FR/rouen-ensemble](../../../countries/FR/sights/rouen-ensemble.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.0 | significance: -0.5 vs peer; depth: -0.4 vs peer. |
+| [TR/amasra-historic-harbour](../../../countries/TR/sights/amasra-historic-harbour.yaml) | 8.9 / 8.8 / 8.7 / 8.9 / 8.8 | depth: -0.2 vs peer; impact: +0.1 vs peer. |
+| [TR/foca-historic-harbour](../../../countries/TR/sights/foca-historic-harbour.yaml) | 8.7 / 8.6 / 8.7 / 8.9 / 8.6 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Picturesque quayside houses and boats. |
+| Uniqueness | 8.9 | Distinct compact historic maritime ensemble. |
+| Significance | 8.7 | Important regional port heritage. |
+| Experience | 9.0 | Walkable historic waterfront. |
+| Depth | 8.6 | Several connected streets and quays. |
+
+- Applicable categories: photography:9.4, architecture:9.3, culture:9.1, history:9.0.
+- Computed worldwide overall: 88.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-falaise — Château Guillaume-le-Conquérant Falaise — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-falaise.yaml)
+- Action: new
+- Precise subject and limitations: Fortified castle and interpreted keeps grouped; separate from Caen Castle and wider Falaise town. Published visitor point close to operator access coordinate; no original furnishings assumed.
+- Location check: 48.893456, -0.20284; [published representative point](https://commune-mairie.fr/randonnee/chateau-guillaume-le-conquerant-f798f1a3fb), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.normandie-tourisme.fr/sites-lieux-de-visites/chateau-guillaume-le-conquerant/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chinon-fortress](../../../countries/FR/sights/chinon-fortress.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.0 | depth: -0.3 vs peer; impact: -0.1 vs peer. |
+| [FR/chateau-vincennes](../../../countries/FR/sights/chateau-vincennes.yaml) | 9.0 / 8.9 / 9.2 / 8.8 / 8.9 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/chateau-pierrefonds](../../../countries/FR/sights/chateau-pierrefonds.yaml) | 9.1 / 9.0 / 8.8 / 8.9 / 8.7 | significance: +0.4 vs peer; impact: -0.2 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Prominent medieval keeps. |
+| Uniqueness | 8.9 | Distinct Norman ducal fortress. |
+| Significance | 9.2 | Major Norman and Anglo-Norman history. |
+| Experience | 8.8 | Dedicated interpreted castle visit. |
+| Depth | 8.7 | Several keeps and defensive structures. |
+
+- Applicable categories: history:9.4, architecture:9.3, photography:9.1.
+- Computed worldwide overall: 89.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-jumieges-abbey — Jumièges Abbey and Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/jumieges-abbey.yaml)
+- Action: new
+- Precise subject and limitations: Romanesque abbey ruins and immediately adjoining park grouped. Tourism reference https://www.cirkwi.com/en/point-interet/2511400-abbaye-et-parc-de-jumieges supports ruins and park, but reports invalid 0,0 coordinate; mapped abbey location preferred.
+- Location check: 49.43202, 0.81915; [published representative point](https://mapcarta.com/36724044), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.abbayedejumieges.fr/pratiques/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | depth: +0.2 vs peer; impact: +0.1 vs peer. |
+| [FR/fontevraud-abbey](../../../countries/FR/sights/fontevraud-abbey.yaml) | 9.1 / 9.2 / 9.4 / 9.0 / 9.0 | significance: -0.3 vs peer; depth: -0.3 vs peer. |
+| [FR/vezelay](../../../countries/FR/sights/vezelay.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 8.4 | depth: +0.3 vs peer; significance: -0.2 vs peer. |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | significance: -0.3 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking monumental ruined church. |
+| Uniqueness | 9.0 | Distinct Norman Romanesque ruin ensemble. |
+| Significance | 9.1 | Important monastic architectural heritage. |
+| Experience | 8.8 | Dedicated ruins and park visit. |
+| Depth | 8.7 | Multiple surviving monastic structures. |
+
+- Applicable categories: architecture:9.4, history:9.3, photography:9.4.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-rouen-fine-arts — Musée des Beaux-Arts de Rouen — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rouen-fine-arts.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated fine art collections from medieval to modern periods, including Impressionism; independent gallery visit distinguished from Rouen historic streets and churches. Excludes nearby separately operated museums.
+- Location check: 49.44482, 1.09422; [published representative point](https://mapcarta.com/N13530619691), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://rouen.fr/fr/beauxarts); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/petit-palais](../../../countries/FR/sights/petit-palais.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.1 | impact: -0.1 vs peer; significance: +0.1 vs peer. |
+| [FR/musee-art-moderne-paris](../../../countries/FR/sights/musee-art-moderne-paris.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.1 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.4 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Substantial painting and sculpture displays. |
+| Uniqueness | 8.9 | Distinct regional Impressionist holdings. |
+| Significance | 9.1 | Important French public fine art collection. |
+| Experience | 9.0 | Dedicated galleries. |
+| Depth | 9.1 | Wide chronological and artistic coverage. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:8.8.
+- Computed worldwide overall: 89.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

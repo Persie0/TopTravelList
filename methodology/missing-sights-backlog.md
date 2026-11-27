@@ -1410,3 +1410,15 @@ Seven additions, 28 peer rows. France 131 ranked / 142 total; 11 existing unasse
 - [x] FR — Château de Sully-sur-Loire and Grounds: 89.00/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 138 ranked / 149 total; 11 existing unassessed unchanged. Angers castle and Apocalypse Tapestry grouped under single admission; Fontevraud abbey excludes independent modern art museum and hotel; Saumur castle includes museum but excludes Cadre Noir; Ussé literary association treated as tradition. Exact UNESCO polygons not checked. Next bounded screen: Bayeux Tapestry Museum (historical experience), Caen Memorial, Caen Castle and museums (scope check), Honfleur Old Harbour, Château de Falaise, Jumièges Abbey, and Rouen Museum of Fine Arts. Full Python validation pending.
+
+### Pass 122 — France Normandy museums, castles and maritime heritage
+
+- [x] FR — Bayeux Tapestry Museum: 91.75/100 (source-linked-unverified).
+- [x] FR — Mémorial de Caen: 91.05/100 (source-linked-unverified).
+- [x] FR — Château de Caen and Museums: 89.85/100 (source-linked-unverified).
+- [x] FR — Honfleur Old Harbour and Historic Quays: 88.75/100 (source-linked-unverified).
+- [x] FR — Château Guillaume-le-Conquérant Falaise: 89.25/100 (source-linked-unverified).
+- [x] FR — Jumièges Abbey and Park: 89.60/100 (source-linked-unverified).
+- [x] FR — Musée des Beaux-Arts de Rouen: 89.75/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 145 ranked / 156 total; 11 existing unassessed unchanged. Bayeux rated on established museum experience despite renovation closure, historic site point retained. Caen castle and two museums grouped under combined admission; Memorial independently bounded; Rouen fine arts independent of urban ensemble. Jumièges invalid 0,0 tourism point rejected in favour of mapped abbey. Next bounded screen: Bayeux Cathedral and historic centre, Caen Abbaye aux Hommes, Abbaye aux Dames, Giverny Monet House and Gardens, Château de Gaillard, Les Jardins d’Étretat (parent overlap), and Cité de la Mer Cherbourg. Full Python validation pending.
