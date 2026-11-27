@@ -1684,3 +1684,34 @@ User-directed priority: estimate sub-90 sights from overview or existing knowled
 - [x] FR — Château de Monbazillac Castle and Wine Heritage: 87.20/100 (desk-based provisional).
 
 Twenty additions; 16 provisional desk estimates, four researched candidates (2 90+); 16 peer rows. France 293 ranked / 304 total; 11 existing unassessed unchanged. Pons pilgrims hospital and Saintes Saint-Eutrope deferred as Santiago serial property components (https://whc.unesco.org/en/list/868, https://whc.unesco.org/document/154481); Cadouin also deferred. Lascaux IV distinct replica centre; no original cave credit. Brouage marsh distinct from citadel. Next bounded screen: Remaining Dordogne: National Museum of Prehistory Les Eyzies, Gouffre de Proumeyssac, Grotte de Villars, Château de Biron, Limeuil, Bergerac historic riverfront, Château de Bridoire, Parc du Bournat, Eymet, Saint-Jean-de-Côle; Vézère component overlap screen and remaining Limousin/Lot-et-Garonne. Full Python validation pending.
+
+### Pass 143 — Dordogne, Limousin and Lot-et-Garonne accelerated audit
+
+- [x] FR — Musée national de Préhistoire Les Eyzies: 90.75/100 (source-linked-unverified).
+- [x] FR — Gouffre de Proumeyssac Crystal Cave: 87.70/100 (desk-based provisional).
+- [x] FR — Grotte de Villars Decorated Cave: 87.80/100 (desk-based provisional).
+- [x] FR — Château de Biron Castle: 88.75/100 (desk-based provisional).
+- [x] FR — Limeuil Historic Village and Panoramic Gardens: 86.25/100 (desk-based provisional).
+- [x] FR — Bergerac Historic Centre and Dordogne Riverfront: 86.60/100 (desk-based provisional).
+- [x] FR — Château de Bridoire Castle and Historic Games: 86.45/100 (desk-based provisional).
+- [x] FR — Parc du Bournat Historic Village Theme Park: 86.90/100 (desk-based provisional).
+- [x] FR — Eymet Historic Bastide Town: 84.20/100 (desk-based provisional).
+- [x] FR — Saint-Jean-de-Côle Historic Village: 85.25/100 (desk-based provisional).
+- [x] FR — Oradour-sur-Glane Memorial Village and Centre de la Mémoire: 92.05/100 (source-linked-unverified).
+- [x] FR — Musée national Adrien Dubouché Ceramics Museum: 90.50/100 (source-linked-unverified).
+- [x] FR — Cité internationale de la tapisserie Aubusson: 89.35/100 (source-linked-unverified).
+- [x] FR — Collonges-la-Rouge Red Sandstone Historic Village: 88.00/100 (desk-based provisional).
+- [x] FR — Turenne Historic Village and Castle Ruins: 87.45/100 (desk-based provisional).
+- [x] FR — Uzerche Historic Centre and Vézère River Views: 86.35/100 (desk-based provisional).
+- [x] FR — Cascades de Gimel Waterfalls and Gorge Walk: 86.85/100 (desk-based provisional).
+- [x] FR — Lac de Vassivière Island and Lakeside Trails: 86.60/100 (desk-based provisional).
+- [x] FR — Plateau de Millevaches Peatlands and Nature Trails: 87.15/100 (desk-based provisional).
+- [x] FR — Château de Pompadour Castle and Equestrian Heritage: 86.95/100 (desk-based provisional).
+- [x] FR — Château de Bonaguil Medieval Fortress: 89.65/100 (source-linked-unverified).
+- [x] FR — Nérac Historic Centre and Château Henri IV Museum: 87.05/100 (desk-based provisional).
+- [x] FR — Monflanquin Historic Bastide Town: 86.40/100 (desk-based provisional).
+- [x] FR — Villeréal Historic Bastide and Market Hall: 85.10/100 (desk-based provisional).
+- [x] FR — Pujols Historic Hilltop Village: 84.55/100 (desk-based provisional).
+- [x] FR — Château de Gavaudun Rock Fortress: 85.85/100 (desk-based provisional).
+
+26 additions, 21 fast provisional estimates, 5 researched candidates, 3 90+, 20 peer comparisons. France 319 ranked / 330 total; 11 existing unassessed unchanged. Font-de-Gaume, Combarelles, Rouffignac and Grand Roc are existing Vézère components (https://whc.unesco.org/en/list/85/maps/); independent assessments deferred to overlap review. Proumeyssac and Villars possible tentative-series scope unresolved (https://whc.unesco.org/en/tentativelists/1429/ lacks named component list); flagged provisional, no heritage credit. Next bounded screen: Nouvelle-Aquitaine remaining: Limoges historic cathedral quarter, Solignac abbey, Rochechouart castle, Châlus castle, Château de Boussac, Parc animalier des Monts de Guéret, Les Loups de Chabrières, Agen museum, Agen canal bridge, Walibi Sud-Ouest/Walygator, and Pyrénées-Atlantiques Basque coast and Béarn. Full Python validation pending.
