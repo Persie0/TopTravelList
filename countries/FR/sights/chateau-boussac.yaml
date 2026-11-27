@@ -1,0 +1,16 @@
+id: sight-fr-chateau-boussac
+name: "Château de Boussac Historic Castle"
+location:
+  country_code: FR
+  latitude: 46.347
+  longitude: 2.214
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    architecture: 9.0
+    history: 9.0
+    culture: 8.9

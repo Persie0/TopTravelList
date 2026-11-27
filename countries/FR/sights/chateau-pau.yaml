@@ -1,0 +1,17 @@
+id: sight-fr-chateau-pau
+name: "Château de Pau National Museum and Royal Castle"
+location:
+  country_code: FR
+  latitude: 43.295
+  longitude: -0.374
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 9.1
+  categories:
+    architecture: 9.4
+    history: 9.4
+    culture: 9.3
+    photography: 9.2

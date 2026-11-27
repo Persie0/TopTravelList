@@ -1715,3 +1715,38 @@ Twenty additions; 16 provisional desk estimates, four researched candidates (2 9
 - [x] FR — Château de Gavaudun Rock Fortress: 85.85/100 (desk-based provisional).
 
 26 additions, 21 fast provisional estimates, 5 researched candidates, 3 90+, 20 peer comparisons. France 319 ranked / 330 total; 11 existing unassessed unchanged. Font-de-Gaume, Combarelles, Rouffignac and Grand Roc are existing Vézère components (https://whc.unesco.org/en/list/85/maps/); independent assessments deferred to overlap review. Proumeyssac and Villars possible tentative-series scope unresolved (https://whc.unesco.org/en/tentativelists/1429/ lacks named component list); flagged provisional, no heritage credit. Next bounded screen: Nouvelle-Aquitaine remaining: Limoges historic cathedral quarter, Solignac abbey, Rochechouart castle, Châlus castle, Château de Boussac, Parc animalier des Monts de Guéret, Les Loups de Chabrières, Agen museum, Agen canal bridge, Walibi Sud-Ouest/Walygator, and Pyrénées-Atlantiques Basque coast and Béarn. Full Python validation pending.
+
+### Pass 144 — accelerated Limousin, Lot-et-Garonne and Basque/Béarn audit
+
+- [x] FR — Limoges Saint-Étienne Cathedral and Historic Quarter: 87.30/100 (desk-based provisional).
+- [x] FR — Solignac Romanesque Abbey Church: 85.00/100 (desk-based provisional).
+- [x] FR — Château de Rochechouart Castle and Contemporary Art Museum: 86.75/100 (desk-based provisional).
+- [x] FR — Château de Châlus-Chabrol Castle Ruins: 83.65/100 (desk-based provisional).
+- [x] FR — Château de Boussac Historic Castle: 85.60/100 (desk-based provisional).
+- [x] FR — Les Loups de Chabrières Wolf Wildlife Park: 85.35/100 (desk-based provisional).
+- [x] FR — Musée des Beaux-Arts d’Agen Fine Arts Museum: 86.15/100 (desk-based provisional).
+- [x] FR — Agen Canal Bridge and Towpath: 85.25/100 (desk-based provisional).
+- [x] FR — Walygator Sud-Ouest Theme Park: 82.40/100 (desk-based provisional).
+- [x] FR — La Rhune Mountain and Historic Rack Railway: 90.30/100 (source-linked-unverified).
+- [x] FR — Château de Pau National Museum and Royal Castle: 90.70/100 (source-linked-unverified).
+- [x] FR — Château-Observatoire Abbadia Historic Castle and Observatory: 90.45/100 (source-linked-unverified).
+- [x] FR — Bayonne Historic Centre and Nive River Quays: 89.15/100 (source-linked-unverified).
+- [x] FR — Musée Bonnat-Helleu Fine Arts Museum Bayonne: 91.45/100 (source-linked-unverified).
+- [x] FR — Musée Basque et de l’Histoire de Bayonne: 88.80/100 (source-linked-unverified).
+- [x] FR — Corniche Basque and Abbadia Coastal Nature Trails: 88.75/100 (source-linked-unverified).
+- [x] FR — Biarritz Rocher de la Vierge and Coastal Walk: 88.00/100 (desk-based provisional).
+- [x] FR — Aquarium de Biarritz Marine Discovery Museum: 86.05/100 (desk-based provisional).
+- [x] FR — Cité de l’Océan Biarritz Interactive Ocean Museum: 85.40/100 (desk-based provisional).
+- [x] FR — Saint-Jean-de-Luz Historic Waterfront and Town Centre: 88.60/100 (desk-based provisional).
+- [x] FR — Fort de Socoa Harbour and Coastal Viewpoint: 85.40/100 (desk-based provisional).
+- [x] FR — Saint-Jean-Pied-de-Port Historic Town and Ramparts: 88.80/100 (source-linked-unverified).
+- [x] FR — Espelette Historic Basque Village and Pepper Heritage: 86.50/100 (desk-based provisional).
+- [x] FR — Ainhoa Historic Basque Village: 86.10/100 (desk-based provisional).
+- [x] FR — Grottes de Sare Prehistoric Cave and Interpretation: 87.00/100 (desk-based provisional).
+- [x] FR — Boulevard des Pyrénées Pau Panoramic Promenade: 85.60/100 (desk-based provisional).
+- [x] FR — Navarrenx Fortified Town and Ramparts: 86.45/100 (desk-based provisional).
+- [x] FR — Sauveterre-de-Béarn Medieval Town and River Views: 86.50/100 (desk-based provisional).
+- [x] FR — Gorges d’Holtzarté Suspension Footbridge and Forest Trail: 87.55/100 (desk-based provisional).
+- [x] FR — Forêt d’Iraty Mountain Forest Trails: 87.40/100 (desk-based provisional).
+
+30 additions, 22 fast provisional estimates, 8 source-informed candidates, 4 90+, 32 peer comparisons. France 349 ranked / 360 total; 11 existing unassessed unchanged. Guéret wolf park aliases consolidated; Bayonne cathedral/cloister and Saint-Jean-Pied-de-Port Porte Saint-Jacques covered by Santiago routes. Corniche historical path closure noted and not penalized. Abbadia castle distinct from nature estate; Bayonne museums separate. Next bounded screen: Béarn and Landes final screen: Kakuetta Gorge (normal historical condition), Artouste railway and Pic du Midi d’Ossau scope check against national park, Oloron cathedral and pilgrimage overlap, Salies-de-Béarn, Musée de la Chalosse, Écomusée de Marquèze, Courant d’Huchet, Étang de Léon, Capbreton and Hossegor, Landes forest trails; then Occitanie. Full Python validation pending.

@@ -1,0 +1,16 @@
+id: sight-fr-pau-boulevard-pyrenees
+name: "Boulevard des Pyrénées Pau Panoramic Promenade"
+location:
+  country_code: FR
+  latitude: 43.293
+  longitude: -0.369
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.0
+  categories:
+    photography: 9.3
+    relaxation: 9.2
+    architecture: 8.9

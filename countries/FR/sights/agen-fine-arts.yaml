@@ -1,0 +1,16 @@
+id: sight-fr-agen-fine-arts
+name: "Musée des Beaux-Arts d’Agen Fine Arts Museum"
+location:
+  country_code: FR
+  latitude: 44.203
+  longitude: 0.617
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.7
+  depth: 8.7
+  categories:
+    culture: 9.2
+    history: 9.1
+    architecture: 9.0

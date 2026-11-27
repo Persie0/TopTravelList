@@ -1,0 +1,16 @@
+id: sight-fr-walygator-sud-ouest
+name: "Walygator Sud-Ouest Theme Park"
+location:
+  country_code: FR
+  latitude: 44.184
+  longitude: 0.585
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.9
+  experience: 8.8
+  depth: 8.5
+  categories:
+    family: 9.2
+    adventure: 8.9
+    relaxation: 8.5
