@@ -1761,3 +1761,314 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ma-ait-bouguemez-valley — Aït Bouguemez Valley — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/ait-bouguemez-valley.yaml)
+- Action: new
+- Precise subject and limitations: High Atlas valley villages, cultivated landscape and permitted walking routes. Distinct from Mount Toubkal and other geosites in M'Goun geopark; no separate aggregate geopark rating.
+- Location check: 31.6412, -6.4764; [published representative point](https://mapcarta.com/N4076219803), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmorocco.com/en/travel/azilal/nature); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/draa-valley](../../../countries/MA/sights/draa-valley.yaml) | 9.0 / 9.0 / 8.8 / 8.7 / 9.0 | significance: -0.3 vs peer; experience: +0.1 vs peer. |
+| [MA/jbel-saghro](../../../countries/MA/sights/jbel-saghro.yaml) | 9.0 / 8.9 / 8.2 / 8.7 / 8.9 | significance: +0.3 vs peer; experience: +0.1 vs peer. |
+| [MA/mount-toubkal](../../../countries/MA/sights/mount-toubkal.yaml) | 9.2 / 8.8 / 8.9 / 8.8 / 8.8 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [MA/skoura-amridil](../../../countries/MA/sights/skoura-amridil.yaml) | 8.9 / 9.0 / 8.8 / 8.7 / 8.6 | significance: -0.3 vs peer; depth: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Expansive mountain and village scenery. |
+| Uniqueness | 8.9 | Distinct cultivated highland landscape. |
+| Significance | 8.5 | Regional Amazigh living heritage. |
+| Experience | 8.8 | Varied walking routes. |
+| Depth | 8.9 | Multiple villages and trails. |
+
+- Applicable categories: nature:9.2, photography:9.2, culture:9.1, adventure:9.1.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-amtoudi-granaries — Amtoudi Fortified Granaries and Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/amtoudi-granaries.yaml)
+- Action: new
+- Precise subject and limitations: Group Id Aissa and Aguelouy restored communal granaries with adjacent gorge visit. Official itinerary gives coordinates of Id Aissa; local permission and safe approach conditional.
+- Location check: 29.246391, -9.185329; [published representative point](https://explore-agadirsoussmassa.com/en/circuit-the-route-of-the-fortified-granaries-treasures-of-souss-massa/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/circuit-the-route-of-the-fortified-granaries-treasures-of-souss-massa/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/ait-ben-haddou](../../../countries/MA/sights/ait-ben-haddou.yaml) | 9.4 / 9.4 / 9.2 / 8.9 / 8.4 | impact: -0.6 vs peer; experience: -0.5 vs peer. |
+| [MA/skoura-amridil](../../../countries/MA/sights/skoura-amridil.yaml) | 8.9 / 9.0 / 8.8 / 8.7 / 8.6 | experience: -0.3 vs peer; depth: -0.3 vs peer. |
+| [DZ/ighzer-ksar](../../../countries/DZ/sights/ighzer-ksar.yaml) | 8.3 / 8.7 / 8.4 / 8.0 / 7.8 | depth: +0.5 vs peer; impact: +0.5 vs peer. |
+| [TN/ksar-ouled-soltane](../../../countries/TN/sights/ksar-ouled-soltane.yaml) | 8.9 / 9.2 / 8.6 / 8.6 / 7.9 | depth: +0.4 vs peer; significance: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Dramatic fortified ridge architecture. |
+| Uniqueness | 9.1 | Distinct collective granary tradition. |
+| Significance | 8.8 | Important communal heritage. |
+| Experience | 8.4 | Focused guided heritage walk. |
+| Depth | 8.3 | Two principal monuments and gorge. |
+
+- Applicable categories: architecture:9.3, history:9.1, photography:9.2, culture:9.0.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-ourika-valley — Ourika Valley and Setti Fatma Waterfalls — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/ourika-valley.yaml)
+- Action: new
+- Precise subject and limitations: Valley villages and Setti Fatma waterfall walking route, village reference point. Distinct from summit ascent of Toubkal. Seasonal flow, flood hazards and guide access conditions; excludes restricted shrine interior.
+- Location check: 31.2259, -7.6753; [published representative point](https://mapcarta.com/Setti_Fatma), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://marrakechguidebook.com/ourika-valley/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/paradise-valley](../../../countries/MA/sights/paradise-valley.yaml) | 8.6 / 8.4 / 7.7 / 8.5 / 8.1 | depth: +0.4 vs peer; significance: +0.4 vs peer. |
+| [MA/akchour](../../../countries/MA/sights/akchour.yaml) | 8.7 / 8.3 / 8.0 / 8.7 / 8.3 | depth: +0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [MA/ouzoud-waterfalls](../../../countries/MA/sights/ouzoud-waterfalls.yaml) | 9.0 / 8.5 / 8.2 / 8.8 / 8.0 | depth: +0.5 vs peer; impact: -0.3 vs peer. |
+| [MA/dades-gorges](../../../countries/MA/sights/dades-gorges.yaml) | 9.0 / 8.7 / 8.3 / 8.8 / 8.5 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Scenic river and waterfall scenery. |
+| Uniqueness | 8.4 | Distinct accessible mountain valley. |
+| Significance | 8.1 | Regional village landscape. |
+| Experience | 8.7 | Varied walking and cultural experience. |
+| Depth | 8.5 | Multiple village and waterfall stops. |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.9, culture:8.7.
+- Computed worldwide overall: 84.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-ziz-valley — Ziz Valley Oasis Corridor (Errachidia–Aoufous) — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/ziz-valley.yaml)
+- Action: new
+- Precise subject and limitations: Bounded palm oasis corridor and permitted viewpoints south of Errachidia toward Aoufous. Published roadside panorama point corroborated by geotagged photo https://commons.wikimedia.org/wiki/File:Ziz_Valley_(54243669083).jpg . Excludes Erg Chebbi and Drâa corridor; no private farm access.
+- Location check: 31.789895, -4.23905; [published representative point](https://learningtobreatheabroad.com/ziz-gorge-to-merzouga/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://routeziz.com/route/?lang=en); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/draa-valley](../../../countries/MA/sights/draa-valley.yaml) | 9.0 / 9.0 / 8.8 / 8.7 / 9.0 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+| [MA/figuig-oasis](../../../countries/MA/sights/figuig-oasis.yaml) | 8.5 / 9.0 / 8.9 / 8.3 / 8.5 | significance: -0.5 vs peer; impact: +0.4 vs peer. |
+| [MA/skoura-amridil](../../../countries/MA/sights/skoura-amridil.yaml) | 8.9 / 9.0 / 8.8 / 8.7 / 8.6 | significance: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [DZ/timimoun-oasis](../../../countries/DZ/sights/timimoun-oasis.yaml) | 9.0 / 9.1 / 8.7 / 8.7 / 8.8 | uniqueness: -0.4 vs peer; significance: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Expansive palms and canyon views. |
+| Uniqueness | 8.7 | Distinct oasis ribbon in arid terrain. |
+| Significance | 8.4 | Regional settlement and irrigation heritage. |
+| Experience | 8.6 | Scenic walking and viewpoint stops. |
+| Depth | 8.6 | Multiple settlements and landscapes. |
+
+- Applicable categories: nature:9.1, photography:9.3, culture:8.9, architecture:8.7.
+- Computed worldwide overall: 86.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-al-batha-museum — Al Batha Museum of Islamic Arts — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/al-batha-museum.yaml)
+- Action: new
+- Precise subject and limitations: Former palace with dedicated museum of Islamic arts; operator confirms reopening in February 2025. Distinct admission from public Fez medina streets; current hours and exhibits conditional.
+- Location check: 34.06045, -4.98274; [published representative point](https://mapcarta.com/N1721711295), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.fnm.ma/museums/44); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/dar-el-bacha-museum](../../../countries/MA/sights/dar-el-bacha-museum.yaml) | 8.8 / 8.7 / 8.6 / 8.7 / 8.4 | significance: +0.4 vs peer; impact: -0.2 vs peer. |
+| [MA/bahia-palace](../../../countries/MA/sights/bahia-palace.yaml) | 9.0 / 8.7 / 8.7 / 8.8 / 8.6 | impact: -0.4 vs peer; significance: +0.3 vs peer. |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | depth: -0.6 vs peer; impact: -0.5 vs peer. |
+| [DZ/bardo-national-museum](../../../countries/DZ/sights/bardo-national-museum.yaml) | 8.4 / 8.8 / 9.0 / 8.5 / 8.7 | impact: +0.2 vs peer; depth: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Palace architecture and exhibits. |
+| Uniqueness | 8.8 | Distinct Islamic arts collection. |
+| Significance | 9.0 | Important national artistic heritage. |
+| Experience | 8.6 | Dedicated museum interpretation. |
+| Depth | 8.5 | Multiple galleries and palace spaces. |
+
+- Applicable categories: architecture:9.2, history:9.2, culture:9.3, photography:8.9.
+- Computed worldwide overall: 87.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-ait-mansour-gorge — Aït Mansour Gorge and Palm Oasis — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/ait-mansour-gorge.yaml)
+- Action: new
+- Precise subject and limitations: Palm-lined Anti-Atlas gorge with scenic road and permitted walking. Official itinerary coordinates; separate from Tafraoute Painted Rocks. Road access and flood conditions variable.
+- Location check: 29.547784, -8.873434; [published representative point](https://explore-agadirsoussmassa.com/en/circuit-the-souss-massa-between-sea-and-mountain/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://explore-agadirsoussmassa.com/en/gorges-dait-mansour-tafraoute/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/paradise-valley](../../../countries/MA/sights/paradise-valley.yaml) | 8.6 / 8.4 / 7.7 / 8.5 / 8.1 | significance: +0.3 vs peer; uniqueness: +0.3 vs peer. |
+| [MA/todra-gorge](../../../countries/MA/sights/todra-gorge.yaml) | 9.1 / 8.8 / 8.4 / 8.9 / 8.1 | impact: -0.4 vs peer; significance: -0.4 vs peer. |
+| [MA/fint-oasis](../../../countries/MA/sights/fint-oasis.yaml) | 8.7 / 8.6 / 7.9 / 8.6 / 7.9 | depth: +0.3 vs peer; uniqueness: +0.1 vs peer. |
+| [MA/dades-gorges](../../../countries/MA/sights/dades-gorges.yaml) | 9.0 / 8.7 / 8.3 / 8.8 / 8.5 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Dramatic gorge with palms. |
+| Uniqueness | 8.7 | Distinct Anti-Atlas oasis canyon. |
+| Significance | 8.0 | Regional natural and cultural landscape. |
+| Experience | 8.6 | Scenic drive and walking. |
+| Depth | 8.2 | Bounded gorge route. |
+
+- Applicable categories: nature:9.1, photography:9.2, adventure:8.8, culture:8.6.
+- Computed worldwide overall: 84.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-bin-el-ouidane-lake — Bin el Ouidane Lake — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/bin-el-ouidane-lake.yaml)
+- Action: new
+- Precise subject and limitations: Mountain reservoir shore scenery and permitted recreational excursions; village point near lake. No dam interior access, water level or boat availability guaranteed.
+- Location check: 32.1075, -6.4483; [published representative point](https://mapcarta.com/25439308), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmorocco.com/en/travel/azilal/nature); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/oualidia-lagoon](../../../countries/MA/sights/oualidia-lagoon.yaml) | 8.7 / 8.5 / 8.1 / 8.8 / 8.3 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [MA/khnifiss-lagoon](../../../countries/MA/sights/khnifiss-lagoon.yaml) | 8.7 / 8.9 / 9.0 / 8.5 / 8.0 | significance: -1.2 vs peer; uniqueness: -0.6 vs peer. |
+| [TN/ichkeul-national-park](../../../countries/TN/sights/ichkeul-national-park.yaml) | 8.5 / 8.9 / 9.1 / 8.2 / 8.1 | significance: -1.3 vs peer; uniqueness: -0.6 vs peer. |
+| [MA/paradise-valley](../../../countries/MA/sights/paradise-valley.yaml) | 8.6 / 8.4 / 7.7 / 8.5 / 8.1 | depth: +0.2 vs peer; experience: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Scenic mountain waters. |
+| Uniqueness | 8.3 | Distinct reservoir setting. |
+| Significance | 7.8 | Regional landscape importance. |
+| Experience | 8.7 | Shore and conditional water recreation. |
+| Depth | 8.3 | Several shoreline experiences. |
+
+- Applicable categories: nature:8.9, photography:9.1, relaxation:9.0, adventure:8.7.
+- Computed worldwide overall: 83.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-ma-imi-n-ifri-natural-bridge — Imi n’Ifri Natural Bridge — 2026-11-27
+
+- YAML: [source](../../../countries/MA/sights/imi-n-ifri-natural-bridge.yaml)
+- Action: new
+- Precise subject and limitations: Natural rock bridge and permitted guided path beneath it near Demnate. Geopark describes site https://geoparcmgoun.ma/discover/geosite-6 . No unsafe river crossings or guaranteed access during high water.
+- Location check: 31.72435, -6.97137; [published representative point](https://mapcarta.com/N4305714175), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.visitmorocco.com/en/travel/azilal/nature); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [MA/todra-gorge](../../../countries/MA/sights/todra-gorge.yaml) | 9.1 / 8.8 / 8.4 / 8.9 / 8.1 | experience: -0.6 vs peer; impact: -0.5 vs peer. |
+| [MA/legzira-beach](../../../countries/MA/sights/legzira-beach.yaml) | 8.9 / 8.7 / 7.6 / 8.5 / 7.9 | significance: +0.4 vs peer; impact: -0.3 vs peer. |
+| [MA/cape-spartel-hercules-caves](../../../countries/MA/sights/cape-spartel-hercules-caves.yaml) | 8.8 / 8.6 / 8.1 / 8.7 / 8.2 | depth: -0.5 vs peer; experience: -0.4 vs peer. |
+| [DZ/beni-add-cave](../../../countries/DZ/sights/beni-add-cave.yaml) | 8.8 / 8.6 / 7.9 / 8.8 / 8.3 | depth: -0.6 vs peer; experience: -0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Striking rock arch. |
+| Uniqueness | 8.8 | Distinct natural bridge formation. |
+| Significance | 8.0 | Regional geological importance. |
+| Experience | 8.3 | Focused guided exploration. |
+| Depth | 7.7 | Compact geological site. |
+
+- Applicable categories: nature:9.0, photography:9.1, adventure:8.7.
+- Computed worldwide overall: 83.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

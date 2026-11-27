@@ -765,3 +765,16 @@ Eight additions and 32 peer rows; Morocco 45 ranked / 53 total. Telouet partial 
 - [x] MA — Tafraoute Painted Rocks: 82.70/100 (source-linked-unverified).
 
 Eight additions and 32 peer rows; Morocco 53 ranked / 61 total. Drâa bounded to Agdz–Zagora, distinct from existing oases and dunes. Agadir Oufella official reopened interior, Tafraoute point access track, Souss-Massa point Rokein visitor center. Regional official itinerary https://explore-agadirsoussmassa.com/en/circuit-the-souss-massa-between-sea-and-mountain/ also identifies distinct Ait Mansour Gorge and fortified granary sites; remaining high-priority screen includes Ourika Valley, Ait Bouguemez, Ait Mansour Gorge, Bin el Ouidane, Imi n’Ifri bridge, Ziz Valley, Amtoudi granaries, and separately visitable major museums. Eight prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 69 — Moroccan regional valleys, geoheritage and Al Batha museum
+
+- [x] MA — Aït Bouguemez Valley: 88.05/100 (source-linked-unverified).
+- [x] MA — Amtoudi Fortified Granaries and Gorge: 87.65/100 (source-linked-unverified).
+- [x] MA — Ourika Valley and Setti Fatma Waterfalls: 84.85/100 (source-linked-unverified).
+- [x] MA — Ziz Valley Oasis Corridor (Errachidia–Aoufous): 86.75/100 (source-linked-unverified).
+- [x] MA — Al Batha Museum of Islamic Arts: 87.20/100 (source-linked-unverified).
+- [x] MA — Aït Mansour Gorge and Palm Oasis: 84.95/100 (source-linked-unverified).
+- [x] MA — Bin el Ouidane Lake: 83.50/100 (source-linked-unverified).
+- [x] MA — Imi n’Ifri Natural Bridge: 83.95/100 (source-linked-unverified).
+
+Eight additions and 32 peer rows; Morocco 61 ranked / 69 total. Official Azilal nature inventory https://www.visitmorocco.com/en/travel/azilal/nature and Souss Massa granary route resolved. Imi n'Ifri and Ait Bouguemez bounded as individual sites, no overlapping geopark aggregate. Al Batha reopened February 2025 according to museum operator. Ziz representative viewpoint coordinate source is a visitor report corroborated by nearby geotagged image. Next bounded museum and heritage queue: Nejjarine Museum, Mohammed VI Museum, Bou Inania Madrasa Fez, Al Attarine Madrasa, Tiznit medina, Tizourgane Kasbah, Ammeln Valley, and Oukaimeden (check Toubkal scope). Eight prior unassessed unchanged. Full Python validation and independent corroboration pending.
