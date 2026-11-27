@@ -1,0 +1,15 @@
+id: sight-gy-museum-african-heritage
+name: "Georgetown Museum of African Heritage"
+location:
+  country_code: GY
+  latitude: 6.81
+  longitude: -58.15
+scores:
+  impact: 7.9
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.1
+  depth: 8.4
+  categories:
+    culture: 9.2
+    history: 9.2
