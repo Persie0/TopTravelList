@@ -1,0 +1,16 @@
+id: sight-ca-manitoba-whiteshell
+name: "Whiteshell Provincial Park Canadian Shield Lakes"
+location:
+  country_code: CA
+  latitude: 49.95
+  longitude: -95.33
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.2

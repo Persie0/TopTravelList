@@ -3952,3 +3952,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Ottawa Winterlude Snow and Ice Festival: 87.10/100 (desk-based provisional).
 
 18 additions, 13 desk-based provisional, 5 source-linked, 4 90+, 36 domestic ranking-row comparisons. CA 196 ranked / 199 total. Shaw performances separate from Niagara-on-the-Lake streets; ice hotel separate from Quebec Winter Carnival; fireworks separate from La Ronde rides; Vancouver Aquarium excludes Stanley Park walks; Winterlude excludes Rideau Canal skating; West Edmonton Mall entertainment grouped. Existing scores and three unassessed retained. New coordinates approximate, current events and access not verified. Prior evidence labels and full Python validation not independently verified. Regional screen remains open.
+
+### Pass 228 — Canada distinctive outdoor and regional experiences
+
+- [x] CA — Cape St Mary’s Ecological Reserve Seabird Colony: 91.75/100 (source-linked-unverified).
+- [x] CA — Narcisse Snake Dens Seasonal Garter Snake Emergence: 91.05/100 (source-linked-unverified).
+- [x] CA — Athabasca Sand Dunes Provincial Park: 90.80/100 (source-linked-unverified).
+- [x] CA — Canadian Grand Prix Montréal Formula One Race: 91.20/100 (source-linked-unverified).
+- [x] CA — Parc national du Fjord-du-Saguenay Cliff Trails and Via Ferrata: 90.85/100 (source-linked-unverified).
+- [x] CA — Îles de la Madeleine Red Cliffs Dunes and Coastal Trails: 90.15/100 (source-linked-unverified).
+- [x] CA — Fogo Island Outport Heritage and Coastal Trails: 88.60/100 (source-linked-unverified).
+- [x] CA — Drumheller Hoodoos Protected Geological Site: 87.70/100 (source-linked-unverified).
+- [x] CA — Myra Canyon Kettle Valley Railway Trestle Cycling: 88.15/100 (desk-based provisional).
+- [x] CA — Naikoon Provincial Park Haida Gwaii Coastal Wilderness: 87.80/100 (desk-based provisional).
+- [x] CA — Great Sand Hills Saskatchewan Active Dunes: 86.10/100 (desk-based provisional).
+- [x] CA — Parc national des Grands-Jardins Charlevoix Alpine Trails: 87.50/100 (desk-based provisional).
+- [x] CA — Parc Oméga Montebello Wildlife Drive: 85.40/100 (desk-based provisional).
+- [x] CA — Manitoulin Island Cup and Saucer Trail: 85.75/100 (desk-based provisional).
+- [x] CA — Cypress Hills Interprovincial Park Upland Forest and Dark Sky: 86.95/100 (desk-based provisional).
+- [x] CA — Whiteshell Provincial Park Canadian Shield Lakes: 86.65/100 (desk-based provisional).
+- [x] CA — Burntcoat Head Park Bay of Fundy Tidal Flats: 87.40/100 (desk-based provisional).
+- [x] CA — Kings Landing New Brunswick Living History Museum: 85.90/100 (desk-based provisional).
+
+18 additions, 10 desk-based provisional, 8 source-linked, 6 90+, 36 domestic ranking-row comparisons. CA 214 ranked / 217 total. Saguenay terrestrial trails and via ferrata exclude existing whale watching and marine excursions; Fogo excludes hotel and iceberg trips; Drumheller Hoodoos distinct from Royal Tyrrell and Dinosaur Provincial Park; Naikoon excludes Gwaii Haanas; Canadian Grand Prix race weekend only. Cabot Trail and West Coast Trail deferred due to overlap with Cape Breton Highlands and Pacific Rim respectively. Coordinates approximate and access not verified. All four source-backed nature/event candidates plus other researched candidates scored provisionally, not independently verified. Existing scores and three unassessed retained. Regional screen remains open.
