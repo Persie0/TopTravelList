@@ -92,7 +92,7 @@ Every registered country has a linked folder below. The status is determined fro
 | --- | ---: | ---: | --- |
 | [Afghanistan](countries/AF/) (`AF`) | [10](countries/AF/cities.md) | [23](countries/AF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Afghanistan) |
 | [Albania](countries/AL/) (`AL`) | [35](countries/AL/cities.md) | [95](countries/AL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Albania) |
-| [Algeria](countries/DZ/) (`DZ`) | [11](countries/DZ/cities.md) | [25](countries/DZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Algeria) |
+| [Algeria](countries/DZ/) (`DZ`) | [11](countries/DZ/cities.md) | [35](countries/DZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Algeria) |
 | [American Samoa](countries/AS/) (`AS`) | [7](countries/AS/cities.md) | [12](countries/AS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=American%20Samoa) |
 | [Andorra](countries/AD/) (`AD`) | [18](countries/AD/cities.md) | [38](countries/AD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Andorra) |
 | [Angola](countries/AO/) (`AO`) | [8](countries/AO/cities.md) | [17](countries/AO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Angola) |

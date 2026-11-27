@@ -1,0 +1,16 @@
+id: sight-dz-bardo-national-museum
+name: "Bardo National Museum of Prehistory and Ethnography"
+location:
+  country_code: DZ
+  latitude: 36.7607844
+  longitude: 3.0471554
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 8.9

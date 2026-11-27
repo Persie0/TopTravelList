@@ -517,3 +517,372 @@
 ## Heritage inventory recheck — 2026-11-26
 
 UNESCO https://whc.unesco.org/en/statesparties/dz/ (opened) confirms seven inscribed and twelve tentative properties, all represented at property/group level. Serial components and full factual verification remain incomplete. Normal-condition ratings are not current travel advice.
+
+## sight-dz-constantine-bridges-rhumel-gorge — Constantine Suspension Bridges and Rhumel Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/constantine-bridges-rhumel-gorge.yaml)
+- Action: new
+- Precise subject and limitations: Group public bridge crossings and gorge viewpoints; Sidi M’Cid representative point. No access to closed gorge paths or restricted infrastructure assumed. Tourism ministry confirms city setting: https://www.mta.gov.dz/presentation-of-algeria/?lang=en.
+- Location check: 36.37253, 6.61443; [published representative point](https://mapcarta.com/W368499974), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.tourismalgeria.com/hanging-bridges-of-constantine.html); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [DZ/rhoufi-oued-labiod](../../../countries/DZ/sights/rhoufi-oued-labiod.yaml) | 9.0 / 9.1 / 8.7 / 8.4 / 8.4 | experience: +0.6 vs peer; impact: +0.4 vs peer. |
+| [TN/table-jugurtha](../../../countries/TN/sights/table-jugurtha.yaml) | 9.0 / 9.0 / 8.7 / 8.6 / 8.2 | depth: +0.5 vs peer; impact: +0.4 vs peer. |
+| [DZ/kasbah-algiers](../../../countries/DZ/sights/kasbah-algiers.yaml) | 9.1 / 9.2 / 9.3 / 8.7 / 9.0 | significance: -0.6 vs peer; impact: +0.3 vs peer. |
+| [TN/mountain-oases-chebika-tamerza-mides](../../../countries/TN/sights/mountain-oases-chebika-tamerza-mides.yaml) | 9.1 / 9.0 / 8.3 / 8.8 / 8.9 | significance: +0.4 vs peer; impact: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Dramatic deep urban gorge. |
+| Uniqueness | 9.2 | Unusual concentration of high bridges. |
+| Significance | 8.7 | Historic engineering and city identity. |
+| Experience | 9.0 | Public crossings and varied vistas. |
+| Depth | 8.7 | Multiple bridges and viewpoints. |
+
+- Applicable categories: photography:9.4, architecture:9.3, nature:9.0, history:8.8.
+- Computed worldwide overall: 90.80/100.
+- High-score challenge: Above 90: unusual urban bridge/gorge ensemble, compare existing Rhoufi gorge, historic Kasbah and other landscape experiences; no 9.5+ fields, provisional pending independent challenge.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-santa-cruz-fort — Santa Cruz Fort and Hilltop Chapel — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/santa-cruz-fort.yaml)
+- Action: new
+- Precise subject and limitations: Oran hilltop Spanish fort and nearby chapel exterior grouped as one hilltop excursion. Individual admission and hours require confirmation.
+- Location check: 35.70922, -0.66505; [published representative point](https://mapcarta.com/17310474), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.mta.gov.dz/presentation-of-algeria/?lang=en); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/kelibia-fort](../../../countries/TN/sights/kelibia-fort.yaml) | 8.7 / 8.7 / 9.0 / 8.6 / 8.4 | impact: +0.3 vs peer; experience: +0.2 vs peer. |
+| [TN/monastir-ribat](../../../countries/TN/sights/monastir-ribat.yaml) | 8.8 / 8.8 / 9.1 / 8.7 / 8.5 | impact: +0.2 vs peer; significance: -0.2 vs peer. |
+| [TN/mahdia-medina-fortress](../../../countries/TN/sights/mahdia-medina-fortress.yaml) | 8.7 / 8.6 / 8.9 / 8.7 / 8.5 | impact: +0.3 vs peer; experience: +0.1 vs peer. |
+| [DZ/mansourah-ruins](../../../countries/DZ/sights/mansourah-ruins.yaml) | 8.3 / 8.5 / 8.8 / 8.1 / 7.5 | depth: +1.0 vs peer; experience: +0.7 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Commanding city and sea panorama. |
+| Uniqueness | 8.7 | Distinct hilltop ensemble. |
+| Significance | 8.9 | Spanish and later Oran heritage. |
+| Experience | 8.8 | Fort and hilltop views. |
+| Depth | 8.5 | Multiple related monuments. |
+
+- Applicable categories: history:9.2, architecture:9.1, photography:9.3.
+- Computed worldwide overall: 88.25/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-hamma-botanical-garden — Hamma Botanical Garden — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/hamma-botanical-garden.yaml)
+- Action: new
+- Precise subject and limitations: Historic botanical collection, palm, ficus and bamboo avenues; excludes nearby separately rated museums and memorial. No zoo-specific experience assumed.
+- Location check: 36.74819, 3.07569; [published representative point](https://mapcarta.com/36122002), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://sefar-algeria.com/en/destinations/algiers); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/tozeur-medina-palm-grove](../../../countries/TN/sights/tozeur-medina-palm-grove.yaml) | 8.8 / 8.9 / 8.7 / 8.8 / 8.8 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer. |
+| [TN/ichkeul-national-park](../../../countries/TN/sights/ichkeul-national-park.yaml) | 8.5 / 8.9 / 9.1 / 8.2 / 8.1 | experience: +0.7 vs peer; depth: +0.7 vs peer. |
+| [DZ/gouraya-national-park](../../../countries/DZ/sights/gouraya-national-park.yaml) | 8.5 / 8.1 / 8.2 / 8.4 / 8.2 | depth: +0.6 vs peer; uniqueness: +0.5 vs peer. |
+| [TN/sidi-bou-said](../../../countries/TN/sights/sidi-bou-said.yaml) | 9.0 / 8.8 / 8.7 / 8.8 / 7.9 | depth: +0.9 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Lush mature avenues. |
+| Uniqueness | 8.6 | Distinct mature botanical collections. |
+| Significance | 8.5 | Historic landscaped institution. |
+| Experience | 8.9 | Varied public garden walk. |
+| Depth | 8.8 | Large multi-section garden. |
+
+- Applicable categories: nature:9.1, photography:9.2, relaxation:9.0, history:8.6.
+- Computed worldwide overall: 87.05/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-notre-dame-afrique-basilica — Notre-Dame d Afrique Basilica and Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/notre-dame-afrique-basilica.yaml)
+- Action: new
+- Precise subject and limitations: Historic active basilica and public bay-facing viewpoint; interior visitation subject to worship and local opening.
+- Location check: 36.80105, 3.04262; [published representative point](https://mapcarta.com/17317934), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://sefar-algeria.com/en/destinations/algiers); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/el-ghriba-synagogue](../../../countries/TN/sights/el-ghriba-synagogue.yaml) | 8.6 / 9.0 / 9.2 / 8.2 / 7.6 | experience: +0.4 vs peer; depth: +0.4 vs peer. |
+| [TN/monastir-ribat](../../../countries/TN/sights/monastir-ribat.yaml) | 8.8 / 8.8 / 9.1 / 8.7 / 8.5 | depth: -0.5 vs peer; significance: -0.3 vs peer. |
+| [TN/sidi-bou-said](../../../countries/TN/sights/sidi-bou-said.yaml) | 9.0 / 8.8 / 8.7 / 8.8 / 7.9 | experience: -0.2 vs peer; impact: -0.2 vs peer. |
+| [TN/kelibia-fort](../../../countries/TN/sights/kelibia-fort.yaml) | 8.7 / 8.7 / 9.0 / 8.6 / 8.4 | depth: -0.4 vs peer; significance: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Basilica silhouette and bay views. |
+| Uniqueness | 8.7 | Distinct religious architecture and location. |
+| Significance | 8.8 | Important religious and architectural heritage. |
+| Experience | 8.6 | Scenic focused heritage visit. |
+| Depth | 8.0 | Single church and terrace. |
+
+- Applicable categories: architecture:9.2, history:8.9, photography:9.2.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-el-mechouar-palace — El Mechouar Palace — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/el-mechouar-palace.yaml)
+- Action: new
+- Precise subject and limitations: Zianid royal palace museum and precinct; reconstruction distinguished from surviving medieval fabric. Separate from Mansourah ruins and Sidi Boumediene complex. Official city inventory: https://www.office-tourisme-tlemcen.dz/monuments.html.
+- Location check: 34.88094, -1.30886; [published representative point](https://mapcarta.com/35964474), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.ont.dz/fr/about/virtual-tours/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/ennejma-ezzahra-palace](../../../countries/TN/sights/ennejma-ezzahra-palace.yaml) | 8.6 / 8.9 / 8.8 / 8.6 / 8.4 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [DZ/mansourah-ruins](../../../countries/DZ/sights/mansourah-ruins.yaml) | 8.3 / 8.5 / 8.8 / 8.1 / 7.5 | depth: +0.8 vs peer; experience: +0.4 vs peer. |
+| [TN/kelibia-fort](../../../countries/TN/sights/kelibia-fort.yaml) | 8.7 / 8.7 / 9.0 / 8.6 / 8.4 | significance: -0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [TN/mahdia-medina-fortress](../../../countries/TN/sights/mahdia-medina-fortress.yaml) | 8.7 / 8.6 / 8.9 / 8.7 / 8.5 | uniqueness: +0.2 vs peer; experience: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Ornate reconstructed palace interiors. |
+| Uniqueness | 8.8 | Distinct Zianid architectural representation. |
+| Significance | 8.8 | Important dynastic history. |
+| Experience | 8.5 | Museum and courtyard visit. |
+| Depth | 8.3 | Several rooms and precinct. |
+
+- Applicable categories: architecture:9.3, history:9.1, culture:8.8, photography:9.0.
+- Computed worldwide overall: 86.75/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-ahmed-bey-palace — Ahmed Bey Palace — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/ahmed-bey-palace.yaml)
+- Action: new
+- Precise subject and limitations: Ottoman palace housing traditional arts museum; courtyard, decorated interiors and collections. Approximate published point. Distinct from bridge circuit.
+- Location check: 36.3678, 6.6116; [published representative point](https://www.tourismalgeria.com/ahmed-bey-palace.html), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.tourismalgeria.com/ahmed-bey-palace.html); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/ennejma-ezzahra-palace](../../../countries/TN/sights/ennejma-ezzahra-palace.yaml) | 8.6 / 8.9 / 8.8 / 8.6 / 8.4 | uniqueness: -0.2 vs peer; impact: +0.1 vs peer. |
+| [TN/dar-el-annabi-museum](../../../countries/TN/sights/dar-el-annabi-museum.yaml) | 8.1 / 8.3 / 8.2 / 8.5 / 7.8 | significance: +0.6 vs peer; depth: +0.6 vs peer. |
+| [DZ/kasbah-algiers](../../../countries/DZ/sights/kasbah-algiers.yaml) | 9.1 / 9.2 / 9.3 / 8.7 / 9.0 | depth: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [TN/guellala-heritage-museum](../../../countries/TN/sights/guellala-heritage-museum.yaml) | 8.3 / 8.7 / 8.5 / 8.6 / 8.5 | impact: +0.4 vs peer; significance: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Decorated palace rooms and courtyards. |
+| Uniqueness | 8.7 | Distinct late Ottoman palace. |
+| Significance | 8.8 | Important regional political heritage. |
+| Experience | 8.6 | Dedicated museum experience. |
+| Depth | 8.4 | Multiple courtyards and collections. |
+
+- Applicable categories: architecture:9.2, history:9.0, culture:9.0, photography:9.0.
+- Computed worldwide overall: 86.75/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-bardo-national-museum — Bardo National Museum of Prehistory and Ethnography — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/bardo-national-museum.yaml)
+- Action: new
+- Precise subject and limitations: Algerian Bardo museum, not Tunisian Bardo. Prehistory and ethnography collections in historic villa; current individual displays and hours require confirmation.
+- Location check: 36.7607844, 3.0471554; [published representative point](https://www.hotelinmap.com/country/dz/tourist_attraction/), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://voyage-en-algerie.com/en/visiting-algiers-complete-guide-must-see-attractions/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.7 vs peer; uniqueness: -0.5 vs peer. |
+| [TN/sousse-archaeological-museum](../../../countries/TN/sights/sousse-archaeological-museum.yaml) | 8.7 / 8.9 / 9.0 / 8.8 / 8.7 | experience: -0.3 vs peer; impact: -0.3 vs peer. |
+| [TN/guellala-heritage-museum](../../../countries/TN/sights/guellala-heritage-museum.yaml) | 8.3 / 8.7 / 8.5 / 8.6 / 8.5 | significance: +0.5 vs peer; depth: +0.2 vs peer. |
+| [TN/el-jem-archaeological-museum](../../../countries/TN/sights/el-jem-archaeological-museum.yaml) | 8.7 / 8.9 / 8.9 / 8.8 / 8.6 | experience: -0.3 vs peer; impact: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Historic villa and significant exhibits. |
+| Uniqueness | 8.8 | Distinct regional prehistory and ethnography. |
+| Significance | 9.0 | National collection significance. |
+| Experience | 8.5 | Indoor interpretive visit. |
+| Depth | 8.7 | Varied collection and palace setting. |
+
+- Applicable categories: history:9.3, culture:9.2, architecture:8.9.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-martyrs-memorial — Martyrs Memorial and Moudjahid Museum — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/martyrs-memorial.yaml)
+- Action: new
+- Precise subject and limitations: Independence memorial, public esplanade and associated museum if open. Excludes separately rated garden and fine arts museum. Museum access conditional.
+- Location check: 36.74571, 3.06973; [published representative point](https://mapcarta.com/W370342095), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://voyage-en-algerie.com/en/visiting-algiers-complete-guide-must-see-attractions/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/monastir-ribat](../../../countries/TN/sights/monastir-ribat.yaml) | 8.8 / 8.8 / 9.1 / 8.7 / 8.5 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer. |
+| [TN/guellala-heritage-museum](../../../countries/TN/sights/guellala-heritage-museum.yaml) | 8.3 / 8.7 / 8.5 / 8.6 / 8.5 | significance: +0.5 vs peer; impact: +0.4 vs peer. |
+| [TN/kelibia-fort](../../../countries/TN/sights/kelibia-fort.yaml) | 8.7 / 8.7 / 9.0 / 8.6 / 8.4 | depth: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TN/sousse-archaeological-museum](../../../countries/TN/sights/sousse-archaeological-museum.yaml) | 8.7 / 8.9 / 9.0 / 8.8 / 8.7 | depth: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Monumental silhouette and city views. |
+| Uniqueness | 8.5 | Distinct commemorative design. |
+| Significance | 9.0 | National independence history. |
+| Experience | 8.5 | Esplanade and museum visit. |
+| Depth | 8.2 | Focused monument with museum. |
+
+- Applicable categories: history:9.3, architecture:9.0, photography:9.0.
+- Computed worldwide overall: 86.30/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-sidi-boumediene-mosque — Sidi Boumediene Mosque and Heritage Complex — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/sidi-boumediene-mosque.yaml)
+- Action: new
+- Precise subject and limitations: Marinid mosque, madrasa and mausoleum ensemble. Public exterior and permitted heritage areas only; no guaranteed non-Muslim prayer hall admission. Independent heritage reference https://www.islamicarchitecturalheritage.com/listings/sidi-boumediene-mosque.
+- Location check: 34.87783, -1.28956; [published representative point](https://mapcarta.com/W518138600), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.ont.dz/fr/about/virtual-tours/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/el-ghriba-synagogue](../../../countries/TN/sights/el-ghriba-synagogue.yaml) | 8.6 / 9.0 / 9.2 / 8.2 / 7.6 | depth: +0.6 vs peer; significance: -0.3 vs peer. |
+| [TN/testour-historic-centre](../../../countries/TN/sights/testour-historic-centre.yaml) | 8.0 / 8.6 / 8.6 / 8.2 / 7.9 | impact: +0.5 vs peer; significance: +0.3 vs peer. |
+| [DZ/mansourah-ruins](../../../countries/DZ/sights/mansourah-ruins.yaml) | 8.3 / 8.5 / 8.8 / 8.1 / 7.5 | depth: +0.7 vs peer; uniqueness: +0.3 vs peer. |
+| [TN/kairouan-heritage-core](../../../countries/TN/sights/kairouan-heritage-core.yaml) | 9.2 / 9.3 / 9.5 / 8.8 / 8.9 | experience: -0.8 vs peer; depth: -0.7 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Rich medieval architectural details. |
+| Uniqueness | 8.8 | Distinct Marinid religious ensemble. |
+| Significance | 8.9 | Important regional religious heritage. |
+| Experience | 8.0 | Focused visit with access limitations. |
+| Depth | 8.2 | Several connected historic structures. |
+
+- Applicable categories: architecture:9.3, history:9.1, culture:9.0.
+- Computed worldwide overall: 85.50/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-national-museum-fine-arts — National Museum of Fine Arts of Algiers — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/national-museum-fine-arts.yaml)
+- Action: new
+- Precise subject and limitations: National art collection in Hamma district; distinct indoor visit from botanical garden and memorial. Museum location and longstanding public opening documented by map source; verify current opening and displays.
+- Location check: 36.74611, 3.07231; [published representative point](https://mapcarta.com/34066882), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [published visitor scope](https://mapcarta.com/34066882); inspected 2026-11-27. [Operator homepage](https://www.musee-beauxarts.dz/) linked but not directly inspected. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | uniqueness: -0.8 vs peer; impact: -0.8 vs peer. |
+| [TN/sousse-archaeological-museum](../../../countries/TN/sights/sousse-archaeological-museum.yaml) | 8.7 / 8.9 / 9.0 / 8.8 / 8.7 | uniqueness: -0.4 vs peer; impact: -0.4 vs peer. |
+| [TN/ennejma-ezzahra-palace](../../../countries/TN/sights/ennejma-ezzahra-palace.yaml) | 8.6 / 8.9 / 8.8 / 8.6 / 8.4 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [TN/guellala-heritage-museum](../../../countries/TN/sights/guellala-heritage-museum.yaml) | 8.3 / 8.7 / 8.5 / 8.6 / 8.5 | uniqueness: -0.2 vs peer; significance: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Significant art collections and galleries. |
+| Uniqueness | 8.5 | Distinct national art institution. |
+| Significance | 8.7 | National artistic heritage. |
+| Experience | 8.5 | Focused gallery visit. |
+| Depth | 8.7 | Substantial collection and multiple rooms. |
+
+- Applicable categories: culture:9.2, history:8.8, architecture:8.6.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: Below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

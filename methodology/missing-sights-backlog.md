@@ -689,3 +689,18 @@ Seven additions; 28 peer rows. Tunisia 44 ranked / 55 total; 11 prior unassessed
 - [x] TN — Testour Historic Centre and Great Mosque Exterior: 82.90/100 (source-linked-unverified).
 
 Four additions and 16 peer rows. Tunisia 48 ranked / 59 total; 29 additions across passes 59–62; eleven prior unassessed unchanged. Official Bizerte–Dougga regional inventory checked: Dougga and Ichkeul already present; Utica, Bizerte, Ghar el-Melh and Testour now covered. Avoid splitting linked fort complexes, small site museums and generic beaches; no further high-priority distinct candidate in current named queue. Close Tunisia discovery queue and rotate to Algeria; reopen on concrete new substantial omission or access change. Full Python validation, individual peer YAML checks and independent corroboration remain pending.
+
+### Pass 63 — Algeria major urban and cultural attractions
+
+- [x] DZ — Constantine Suspension Bridges and Rhumel Gorge: 90.80/100 (source-linked-unverified).
+- [x] DZ — Santa Cruz Fort and Hilltop Chapel: 88.25/100 (source-linked-unverified).
+- [x] DZ — Hamma Botanical Garden: 87.05/100 (source-linked-unverified).
+- [x] DZ — Notre-Dame d Afrique Basilica and Viewpoint: 86.65/100 (source-linked-unverified).
+- [x] DZ — El Mechouar Palace: 86.75/100 (source-linked-unverified).
+- [x] DZ — Ahmed Bey Palace: 86.75/100 (source-linked-unverified).
+- [x] DZ — Bardo National Museum of Prehistory and Ethnography: 86.65/100 (source-linked-unverified).
+- [x] DZ — Martyrs Memorial and Moudjahid Museum: 86.30/100 (source-linked-unverified).
+- [x] DZ — Sidi Boumediene Mosque and Heritage Complex: 85.50/100 (source-linked-unverified).
+- [x] DZ — National Museum of Fine Arts of Algiers: 85.00/100 (source-linked-unverified).
+
+Ten additions, 40 peer rows. Algeria 25 ranked / 35 total; ten prior unassessed unchanged. [National tourism map](https://www.visitalgeria.dz/en/map) and [tourism ministry regional overview](https://www.mta.gov.dz/presentation-of-algeria/?lang=en) used. Tadrart Rouge explicitly marketed as a separate guided 4x4 circuit (https://www.dalil.travel/en/sahara/djanet) but overlap with existing Tassili n’Ajjer scope requires review before adding. Next Cirta museum, Royal Mausoleum of Mauretania (check serial property scope), Great Mosque of Algiers, Annaba basilica (check Hippo and Augustinian scope), Tlemcen Lalla Setti and caves, Timimoun oasis (check Ighzer scope). Current access and independent corroboration pending; full Python validation pending. Automatic type inference misclassifies basilica/viewpoint and bridge/gorge compound; preserved generator behavior.
