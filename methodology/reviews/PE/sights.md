@@ -3944,3 +3944,272 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 263 scope decisions
 
 12 additions, 11 source-linked provisional, 1 desk-based provisional, 3 90+, 35 ranking-row comparisons (9 international). PE 186 ranked / 188 total, +122 since baseline 66. Peñico independently visitable per official 2025 opening; distinct from Caral and Áspero/Vichama, no extension of UNESCO status. Huánuco and Apurímac festivals restricted to named regional events. Junín birding requires prior coordination; Tingana wetland excludes Abra Patricia and Waqanki. Punta Coles and Guañape represent separate guano reserve sectors; no landing at Guañape, incomplete serial coverage. Prior UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Amarakaeri and other restricted reserves remain deferred pending authorized visitor scope; Calipuy sanctuary and reserve need distinct visitor-route confirmation. Prior deferrals retained. Keep queue OPEN for final targeted screen of Calipuy, distinct Amazon community experiences and regional cultural omissions. Existing scores and two unassessed preserved. Coordinates approximate, schedules and current access unverified.
+
+## sight-pe-cusco-corpus-christi — Cusco Corpus Christi Fifteen Saints and Virgins Religious Processions — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cusco-corpus-christi.yaml)
+- Action: new
+- Scope: Annual procession of fifteen sacred images; national heritage declaration in 2004. Separate from Inti Raymi, Holy Week and permanent city core.
+- Representative coordinates: -13.516, -71.978; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.4.
+- Overall: 92.95/100.
+- Source: https://www.peru.travel/events/corpus-christi
+- Source: https://serviciosweb.cultura.gob.pe/dpcn/consulta.jsp?pagina=24
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/inti-raymi](../../../countries/PE/sights/inti-raymi.yaml) | 9.5 / 9.5 / 9.4 / 9.4 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/senor-de-los-milagros](../../../countries/PE/sights/senor-de-los-milagros.yaml) | 9.2 / 9.2 / 9.4 / 9.1 / 9.2 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [BR/aparecida-national-sanctuary](../../../countries/BR/sights/aparecida-national-sanctuary.yaml) | 9.2 / 9.1 / 9.6 / 9.2 / 9.2 | impact: +0.1; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cusco-santurantikuy — Cusco Santurantikuy Christmas Artisan Fair and Sacred Art Market — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cusco-santurantikuy.yaml)
+- Action: new
+- Scope: December 24 artisan fair with colonial roots and Niño Manuelito figures; national heritage since 2009. Event-specific craft experience.
+- Representative coordinates: -13.516, -71.978; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.25/100.
+- Source: https://www.peru.travel/events/santuranticuy-cusco-fair-in-honor-of-the-nino-dios
+- Source: https://www.peru.travel/experiences/the-andean-altarpiece-and-santurantikuy-at-christmas
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/huancavelica-scissors-dance](../../../countries/PE/sights/huancavelica-scissors-dance.yaml) | 9.1 / 9.4 / 9.4 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [PE/raymi-llaqta-chachapoyas](../../../countries/PE/sights/raymi-llaqta-chachapoyas.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/olimpia-folklore-festival](../../../countries/BR/sights/olimpia-folklore-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/holambra-expoflora](../../../countries/BR/sights/holambra-expoflora.yaml) | 8.9 / 8.8 / 8.8 / 9.1 / 8.9 | impact: +0.1; uniqueness: +0.4 vs peer |
+| [BR/festival-do-japao](../../../countries/BR/sights/festival-do-japao.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/flip-paraty](../../../countries/BR/sights/flip-paraty.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-cusco-senor-de-los-temblores — Cusco Señor de los Temblores Holy Monday Religious Procession — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/cusco-senor-de-los-temblores.yaml)
+- Action: new
+- Scope: Holy Monday procession; national heritage declared 2007. Principal Cusco Holy Week event, no additional umbrella score.
+- Representative coordinates: -13.516, -71.978; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.0 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 90.85/100.
+- Source: https://serviciosweb.cultura.gob.pe/dpcn/consulta.jsp?pagina=22
+- Source: https://www.peru.travel/es/inspirate/tres-destinos-en-peru-para-visitar-en-semana-santa
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/semana-santa-ayacucho](../../../countries/PE/sights/semana-santa-ayacucho.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [PE/virgen-de-la-puerta-otuzco](../../../countries/PE/sights/virgen-de-la-puerta-otuzco.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/cirio-de-nazare](../../../countries/BR/sights/cirio-de-nazare.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [BR/lavagem-bonfim](../../../countries/BR/sights/lavagem-bonfim.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [BR/festa-da-penha](../../../countries/BR/sights/festa-da-penha.yaml) | 9.2 / 9.3 / 9.4 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [BR/aparecida-national-sanctuary](../../../countries/BR/sights/aparecida-national-sanctuary.yaml) | 9.2 / 9.1 / 9.6 / 9.2 / 9.2 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-raqchi-wiracocha — Raqchi Wiracocha Temple Archaeological Complex and Community Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/raqchi-wiracocha.yaml)
+- Action: new
+- Scope: Inca temple and adjacent community-led crafts and farming; UN Tourism Best Tourism Village 2022. Group temple and village, exclude Qhapaq Ñan mileage.
+- Representative coordinates: -14.176, -71.369; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 8.9 / 9.1.
+- Categories: history:9.4 architecture:9.3 culture:9.3.
+- Overall: 90.60/100.
+- Source: https://tourism-villages.unwto.org/en/villages/raqchi/
+- Source: https://www.peru.travel/attractions/raqchi
+- Source: https://www.peru.travel/experiences/community-tourism-in-raqchi
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/ollantaytambo-archaeological-site](../../../countries/PE/sights/ollantaytambo-archaeological-site.yaml) | 9.0 / 9.1 / 9.3 / 8.8 / 8.5 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/piquillacta](../../../countries/PE/sights/piquillacta.yaml) | 8.6 / 8.9 / 9.2 / 8.6 / 8.8 | impact: +0.4; uniqueness: +0.2 vs peer |
+| [BO/tiwanaku-archaeological-site](../../../countries/BO/sights/tiwanaku-archaeological-site.yaml) | 9.0 / 9.4 / 9.7 / 8.6 / 8.8 | impact: +0.0; uniqueness: -0.3 vs peer |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: +0.6; uniqueness: +0.4 vs peer |
+| [CO/san-agustin-archaeological-park](../../../countries/CO/sights/san-agustin-archaeological-park.yaml) | 8.8 / 9.4 / 9.6 / 8.7 / 8.5 | impact: +0.2; uniqueness: -0.3 vs peer |
+| [BO/incallajta-archaeological-site](../../../countries/BO/sights/incallajta-archaeological-site.yaml) | 8.4 / 8.7 / 9.1 / 8.1 / 7.9 | impact: +0.6; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-chinchero-textile-heritage — Chinchero Inca Archaeological Complex and Traditional Weaving Village — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/chinchero-textile-heritage.yaml)
+- Action: new
+- Scope: Terraces, colonial architecture and community-permitted weaving; exclude Maras, Moray and Qhapaq Ñan mileage.
+- Representative coordinates: -13.393, -72.047; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.0 / 9.1 / 9.0 / 8.9.
+- Categories: culture:9.4 history:9.3 architecture:9.2.
+- Overall: 89.50/100.
+- Source: https://www.peru.travel/stories/discover-chinchero-the-most-picturesque-town-in-the-sacred-valley
+- Source: https://www.peru.travel/experiences/visit-the-communities-of-the-sacred-valley
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/pisac-archaeological-park](../../../countries/PE/sights/pisac-archaeological-park.yaml) | 8.9 / 8.8 / 9.1 / 8.8 / 8.5 | impact: -0.1; uniqueness: +0.2 vs peer |
+| [PE/quinua-artisan-village](../../../countries/PE/sights/quinua-artisan-village.yaml) | 8.4 / 8.6 / 8.9 / 8.7 / 8.6 | impact: +0.4; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-lamas-wayku — Lamas Kechwa El Wayku Community Cultural Experience — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/lamas-wayku.yaml)
+- Action: new
+- Scope: Community-led cultural experiences; UN Tourism Best Tourism Village 2022. Exclude Cordillera Escalera trails and private activities without consent.
+- Representative coordinates: -6.424, -76.514; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 9.0 / 9.0 / 8.9 / 8.9.
+- Categories: culture:9.4 history:9.1 photography:9.1.
+- Overall: 88.85/100.
+- Source: https://tourism-villages.unwto.org/en/villages/lamas/
+- Source: https://www.peru.travel/es/noticias/pueblos-con-encanto-6-pueblos-unicos-que-puedes-conocer-en-el-peru
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/shipibo-san-francisco](../../../countries/PE/sights/shipibo-san-francisco.yaml) | 8.5 / 8.9 / 8.9 / 8.5 / 8.7 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [PE/chazuta-ceramics](../../../countries/PE/sights/chazuta-ceramics.yaml) | 8.4 / 8.8 / 9.0 / 8.7 / 8.7 | impact: +0.3; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-calipuy-national-sanctuary — Calipuy National Sanctuary Giant Puya Raimondii Plant Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/calipuy-national-sanctuary.yaml)
+- Action: new
+- Scope: Official inventory reports over 90,000 puyas. Separate from guanaco reserve route; flowering and permission not guaranteed.
+- Representative coordinates: -8.23, -78.34; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.1 / 8.8 / 8.4 / 8.7.
+- Categories: nature:9.4 photography:9.3 wildlife:9.0.
+- Overall: 88.05/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=11078
+- Source: https://www.gob.pe/institucion/sernanp/informes-publicaciones/1928602-santuario-nacional-de-calipuy
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/titankayoc-puya-forest](../../../countries/PE/sights/titankayoc-puya-forest.yaml) | 8.7 / 9.0 / 8.5 / 8.3 / 8.3 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [PE/ampay-national-sanctuary](../../../countries/PE/sights/ampay-national-sanctuary.yaml) | 8.8 / 8.9 / 8.7 / 8.6 / 8.7 | impact: +0.0; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-calipuy-national-reserve — Calipuy National Reserve Guanaco Habitat and Erikicacha Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/calipuy-national-reserve.yaml)
+- Action: new
+- Scope: Official inventory describes designated Erikicacha viewpoint route; focus on guanaco habitat, not adjacent plant sanctuary.
+- Representative coordinates: -8.42, -78.37; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.8 / 8.5 / 8.7.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 87.40/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=1946
+- Source: https://www.gob.pe/institucion/sernanp/informes-publicaciones/1718847-reserva-nacional-de-calipuy
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/pampa-galeras](../../../countries/PE/sights/pampa-galeras.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [PE/salinas-aguada-blanca](../../../countries/PE/sights/salinas-aguada-blanca.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.8 | impact: -0.3; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-puerto-prado-community — Puerto Prado Marañón River Community Forest and Craft Experience — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/puerto-prado-community.yaml)
+- Action: new
+- Scope: Community-managed ecological trails and cultural interpretation near Nauta. Exclude Pacaya Samiria excursions and private activities without consent.
+- Representative coordinates: -4.52, -73.68; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.8 / 8.8 / 8.7 / 8.7.
+- Categories: culture:9.2 nature:9.2 wildlife:9.1.
+- Overall: 86.85/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=13684
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/tingana-wetlands](../../../countries/PE/sights/tingana-wetlands.yaml) | 8.8 / 9.0 / 8.7 / 8.9 / 8.8 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [PE/shipibo-san-francisco](../../../countries/PE/sights/shipibo-san-francisco.yaml) | 8.5 / 8.9 / 8.9 / 8.5 / 8.7 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-huamachuco-alta-gracia — Huamachuco Virgen de Alta Gracia Festival and Gallardete Tradition — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huamachuco-alta-gracia.yaml)
+- Action: new
+- Scope: National heritage designation in 2011 identifies distinctive Parada de Gallardete tradition. Separate from Marcahuamachuco.
+- Representative coordinates: -7.81, -78.046; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.9 / 8.8.
+- Categories: culture:9.3 history:9.2 photography:9.2.
+- Overall: 88.70/100.
+- Source: https://serviciosweb.cultura.gob.pe/dpcn/consulta.jsp?pagina=20
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/virgen-de-la-puerta-otuzco](../../../countries/PE/sights/virgen-de-la-puerta-otuzco.yaml) | 9.0 / 9.2 / 9.3 / 9.0 / 9.1 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [PE/raymi-llaqta-chachapoyas](../../../countries/PE/sights/raymi-llaqta-chachapoyas.yaml) | 9.0 / 9.2 / 9.2 / 9.2 / 9.1 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-yunguyo-tata-pancho — Yunguyo Tata Pancho San Francisco de Borja Aymara Festival — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/yunguyo-tata-pancho.yaml)
+- Action: new
+- Scope: National heritage declaration in 2011; Aymara music, dance and religious celebrations. Distinct from Puno Candelaria and Collao churches.
+- Representative coordinates: -16.244, -69.092; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 9.0 / 9.1 / 8.8 / 8.8.
+- Categories: culture:9.4 history:9.2 photography:9.2.
+- Overall: 88.80/100.
+- Source: https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=4715
+- Source: https://serviciosweb.cultura.gob.pe/dpcn/consulta.jsp?pagina=20
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.7; uniqueness: -0.4 vs peer |
+| [PE/paucartambo-virgen-del-carmen](../../../countries/PE/sights/paucartambo-virgen-del-carmen.yaml) | 8.9 / 9.2 / 9.3 / 9.1 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-pe-huchuy-qosqo — Huchuy Qosqo Inca Archaeological Site and Highland Trek — 2026-11-27
+
+- YAML: [source](../../../countries/PE/sights/huchuy-qosqo.yaml)
+- Action: new
+- Scope: Distinct trek and archaeological complex; exclude already-ranked Sacred Valley sites and shared Qhapaq Ñan segments. Desk-based provisional.
+- Representative coordinates: -13.354, -71.978; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.8 / 8.6 / 8.5.
+- Categories: adventure:9.3 history:9.3 photography:9.2.
+- Overall: 87.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [PE/choquequirao](../../../countries/PE/sights/choquequirao.yaml) | 9.4 / 9.4 / 9.4 / 8.9 / 9.2 | impact: -0.6; uniqueness: -0.6 vs peer |
+| [PE/pisac-archaeological-park](../../../countries/PE/sights/pisac-archaeological-park.yaml) | 8.9 / 8.8 / 9.1 / 8.8 / 8.5 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 264 scope decisions
+
+12 additions, 11 source-linked provisional, 1 desk-based provisional, 4 90+, 40 ranking-row comparisons (16 international). PE 198 ranked / 200 total, +134 since baseline 66. Corpus Christi, Santurantikuy and Señor de los Temblores are distinct recurring events, no overlapping Cusco Holy Week umbrella. Raqchi and Chinchero combine archaeology and community experiences, exclude Qhapaq Ñan mileage. Calipuy sanctuary and reserve separate visitor scopes. Puerto Prado distinct from Pacaya Samiria; Infierno deferred because SERNANP explicitly includes it in Tambopata visitor scope (https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/). Earlier UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Earlier restricted-area and serial-scope deferrals retained. Queue OPEN: additional high-value omissions found; next bounded screen of Sacred Valley regional routes, highland heritage and significant festivals, no quotas. Existing scores and two unassessed preserved. Coordinates approximate; schedules and current access unverified.

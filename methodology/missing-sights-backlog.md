@@ -4690,3 +4690,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PE — Río Tigre Waterfall Oxapampa Forest Walk: 83.25/100 (desk-based provisional).
 
 12 additions, 11 source-linked provisional, 1 desk-based provisional, 3 90+, 35 ranking-row comparisons (9 international). PE 186 ranked / 188 total, +122 since baseline 66. Peñico independently visitable per official 2025 opening; distinct from Caral and Áspero/Vichama, no extension of UNESCO status. Huánuco and Apurímac festivals restricted to named regional events. Junín birding requires prior coordination; Tingana wetland excludes Abra Patricia and Waqanki. Punta Coles and Guañape represent separate guano reserve sectors; no landing at Guañape, incomplete serial coverage. Prior UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Amarakaeri and other restricted reserves remain deferred pending authorized visitor scope; Calipuy sanctuary and reserve need distinct visitor-route confirmation. Prior deferrals retained. Keep queue OPEN for final targeted screen of Calipuy, distinct Amazon community experiences and regional cultural omissions. Existing scores and two unassessed preserved. Coordinates approximate, schedules and current access unverified.
+
+### Pass 264 — Peru Cusco traditions, Calipuy and community heritage
+
+- [x] PE — Cusco Corpus Christi Fifteen Saints and Virgins Religious Processions: 92.95/100 (source-linked-unverified).
+- [x] PE — Cusco Santurantikuy Christmas Artisan Fair and Sacred Art Market: 91.25/100 (source-linked-unverified).
+- [x] PE — Cusco Señor de los Temblores Holy Monday Religious Procession: 90.85/100 (source-linked-unverified).
+- [x] PE — Raqchi Wiracocha Temple Archaeological Complex and Community Heritage: 90.60/100 (source-linked-unverified).
+- [x] PE — Chinchero Inca Archaeological Complex and Traditional Weaving Village: 89.50/100 (source-linked-unverified).
+- [x] PE — Lamas Kechwa El Wayku Community Cultural Experience: 88.85/100 (source-linked-unverified).
+- [x] PE — Calipuy National Sanctuary Giant Puya Raimondii Plant Landscape: 88.05/100 (source-linked-unverified).
+- [x] PE — Calipuy National Reserve Guanaco Habitat and Erikicacha Viewpoint: 87.40/100 (source-linked-unverified).
+- [x] PE — Puerto Prado Marañón River Community Forest and Craft Experience: 86.85/100 (source-linked-unverified).
+- [x] PE — Huamachuco Virgen de Alta Gracia Festival and Gallardete Tradition: 88.70/100 (source-linked-unverified).
+- [x] PE — Yunguyo Tata Pancho San Francisco de Borja Aymara Festival: 88.80/100 (source-linked-unverified).
+- [x] PE — Huchuy Qosqo Inca Archaeological Site and Highland Trek: 87.40/100 (desk-based provisional).
+
+12 additions, 11 source-linked provisional, 1 desk-based provisional, 4 90+, 40 ranking-row comparisons (16 international). PE 198 ranked / 200 total, +134 since baseline 66. Corpus Christi, Santurantikuy and Señor de los Temblores are distinct recurring events, no overlapping Cusco Holy Week umbrella. Raqchi and Chinchero combine archaeology and community experiences, exclude Qhapaq Ñan mileage. Calipuy sanctuary and reserve separate visitor scopes. Puerto Prado distinct from Pacaya Samiria; Infierno deferred because SERNANP explicitly includes it in Tambopata visitor scope (https://visitaareasnaturales.sernanp.gob.pe/anps/reserva-nacional-tambopata/). Earlier UNESCO 13/13 inscribed and 23/25 tentative partially represented carried forward, not rechecked. Earlier restricted-area and serial-scope deferrals retained. Queue OPEN: additional high-value omissions found; next bounded screen of Sacred Valley regional routes, highland heritage and significant festivals, no quotas. Existing scores and two unassessed preserved. Coordinates approximate; schedules and current access unverified.
