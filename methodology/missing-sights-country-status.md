@@ -69,4 +69,14 @@ This tracker governs missing-sight discovery, not rating verification. Done mean
 
 | MH | OPEN | 12 ranked / 24 total; pass 215 adds 2. WAM land-based cultural centre separately scoped from lagoon sailing. Eneko land/shore visit only. No duplicate Bikini wreck fleet, no assumed remote atoll access. Existing 12 unassessed unchanged. Independent factual, coordinate and scoring validation pending. |
 
+| CK | OPEN | 21 ranked / 23 total; pass 216 adds 5. Existing Aitutaki lagoon includes One Foot Island, so no duplicate. Kitesurfing and lagoon routes deferred for parent scope; turtle passage and offshore whale watching separate. Raemaru distinct from Cross Island Trek. Two unassessed retained. Independent factual, coordinate and scoring validation pending. |
+
+| NU | OPEN | 16 ranked / 16 total; pass 216 adds 1. Offshore scuba distinct from shore pools and remote Beveridge Reef. Existing Beveridge score retained but review says ordinary visitor itinerary unverified; needs separate consistency audit. No guaranteed coral health. Independent factual, coordinate and scoring validation pending. |
+
+| KI | OPEN | 14 ranked / 15 total; pass 216 adds 2. Mainland birdwatching excludes Cook Islet; outer reef diving separate from flats; actual operator availability and reef condition pending. Phoenix protected area stays unassessed. Independent factual, coordinate and scoring validation pending. |
+
+| TV | OPEN | 6 ranked / 15 total; pass 216 adds 1. Public craft centre separately scoped. UNESCO Funafuti component includes broader historical sites; no duplicate Funafala or generic WWII trail. Nine unassessed retained. Independent factual, coordinate and scoring validation pending. |
+
+| NR | DONE — current queue | 6 ranked / 6 total; pass 216 adds 0. No substantial new omission identified in bounded screen: Moqua cave within well, Anibare pinnacles within bay, Command Ridge heritage within existing record. Overview consulted https://visitnauru.org/discover?category=pinnacles. No new filler. Independent factual, coordinate and scoring validation pending. |
+
 All other areas remain unclassified until their current high-value candidate lists are checked. A completed candidate list is not a completed independent factual audit.

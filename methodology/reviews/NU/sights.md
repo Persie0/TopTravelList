@@ -670,3 +670,29 @@ No numerical score or evidence-status changes made by this pass.
 - Verification still needed: exact GPS, independent material claims, numeric peer calibration and current access.
 
 - [Dated worldwide reassessment pass 67 — 2026-11-26](worldwide-deferred-pass67-2026-11-26.md)
+
+## sight-nu-west-coast-scuba — Niue Western Coast Offshore Reef and Cavern Scuba Diving — 2026-11-27
+
+- YAML: [source](../../../countries/NU/sights/west-coast-scuba.yaml)
+- Action: new
+- Scope: Boat-access offshore reefs, walls and guided caverns only; excludes nearshore pools, named land caves, whale watching and remote Beveridge Reef. Visibility varies; cave penetration only within qualifications. Coordinate regional water proxy.
+- Representative coordinates: -19.06, -169.94; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 8.8 / 9.2 / 9.1.
+- Categories: nature:9.4 adventure:9.4 wildlife:9.3.
+- Overall: 91.35/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.niueisland.com/see-and-do/diving-and-snorkeling, https://www.padi.com/diving-in/niue/, https://niueblue.com/tours-packages/scuba-diving-tours/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [NU/avatele-beach](../../../countries/NU/sights/avatele-beach.yaml) | 8.1 / 7.8 / 7.6 / 8.3 / 7.5 | depth: +1.6 vs peer; uniqueness: +1.5 vs peer |
+| [NU/beveridge-reef](../../../countries/NU/sights/beveridge-reef.yaml) | 8.7 / 9.1 / 9.2 / 7.9 / 7.5 | depth: +1.6 vs peer; experience: +1.3 vs peer |
+| [CK/aitutaki-lagoon](../../../countries/CK/sights/aitutaki-lagoon.yaml) | 9.4 / 9.1 / 8.6 / 9.3 / 9.0 | impact: -0.2 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 216 scope decisions
+
+Offshore scuba distinct from shore pools and remote Beveridge Reef. Existing Beveridge score retained but review says ordinary visitor itinerary unverified; needs separate consistency audit. No guaranteed coral health.

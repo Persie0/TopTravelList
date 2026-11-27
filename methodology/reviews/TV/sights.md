@@ -566,3 +566,28 @@ Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain;
 ## 2026-11-25 — aggregate scope and existing marine-area rating
 
 The UNESCO tentative submission (https://whc.unesco.org/en/tentativelists/6707) covers nine distinct island groups; eight still lack sufficient ordinary visitor evidence. Keep national aggregate impact, experience and depth null. Noonsite (https://www.noonsite.com/place/tuvalu/outer-atolls/, indexed excerpt) describes atoll-specific permissions; transport scarcity is not itself a reason to reduce intrinsic merit. UNESCO specifically identifies the western conservation islets of Funafuti as prohibited for visitation. The local council (https://kaupulefunafuti.tv/conservation-area, directly inspected) confirms protected-area scope, while the official tourism page (https://tourism.gov.tv/funafuti-marine-conservation-2/, directly inspected) describes marine biodiversity but does not establish current visitor permissions. The 2022–2032 tourism policy (https://faolex.fao.org/docs/pdf/tuv219427.pdf, indexed excerpt) proposes promoting protected-area experiences, which does not establish current implementation. Existing Funafuti Conservation Area rating is flagged for further review against the operative order (https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1999/1999-0012/1999-0012_2.pdf); no prohibited landings credited in new Funafuti landscape score.
+
+## sight-tv-handicraft-centre — Funafuti Women’s Handicraft Centre Traditional Weaving and Crafts — 2026-11-27
+
+- YAML: [source](../../../countries/TV/sights/handicraft-centre.yaml)
+- Action: new
+- Scope: Specific public craft centre and interpretation, not entire Funafuti cultural landscape; participation or demonstrations not guaranteed.
+- Representative coordinates: -8.525, 179.196; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 7.3 / 8.2 / 8.3 / 8.0 / 7.6.
+- Categories: culture:8.8 history:8.6.
+- Overall: 78.60/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://tourism.gov.tv/womens-handicraft-centre/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [TV/tuvalu-philatelic-bureau](../../../countries/TV/sights/tuvalu-philatelic-bureau.yaml) | 5.8 / 7.5 / 6.9 / 6.3 / 5.6 | depth: +2.0 vs peer; experience: +1.7 vs peer |
+| [TV/funafuti-cultural-landscape](../../../countries/TV/sights/funafuti-cultural-landscape.yaml) | 8.1 / 8.5 / 8.6 / 8.1 / 8.3 | impact: -0.8 vs peer; depth: -0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 216 scope decisions
+
+Public craft centre separately scoped. UNESCO Funafuti component includes broader historical sites; no duplicate Funafala or generic WWII trail. Nine unassessed retained.
