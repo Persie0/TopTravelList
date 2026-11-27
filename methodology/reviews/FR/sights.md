@@ -7310,3 +7310,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-cairn-barnenez — Cairn de Barnenez Neolithic Burial Monument — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cairn-barnenez.yaml)
+- Action: new
+- Precise subject and limitations: Large Neolithic cairn and site interpretation, exterior visitor experience; no assumption of access into burial chambers. Distinct from Carnac in Morbihan.
+- Location check: 48.66757, -3.85838; [published representative point](https://mapcarta.com/37333048), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.barnenez.fr/en/discover/history-of-the-barnenez-cairn); indexed excerpts inspected 2026-11-27. CMN describes eleven chambers and approximately 70 m length; its separate visit page confirms a roughly 45-minute self-guided visit: https://www.barnenez.fr/en/adult-groups-and-tourism-professionals/tour-guides/self-guided-tour. Representative point corroborated approximately by https://en.wikipedia.org/wiki/Barnenez. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/carnac](../../../countries/FR/sights/carnac.yaml) | 9.0 / 9.3 / 9.4 / 8.8 / 9.0 | depth: -0.6 vs peer; experience: -0.3 vs peer. |
+| [ES/antequera-dolmens](../../../countries/ES/sights/antequera-dolmens.yaml) | 8.7 / 9.1 / 9.3 / 8.6 / 8.5 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [GB/stonehenge](../../../countries/GB/sights/stonehenge.yaml) | 9.2 / 9.6 / 9.6 / 8.8 / 9.1 | depth: -0.7 vs peer; uniqueness: -0.4 vs peer. |
+| [IE/carrowmore](../../../countries/IE/sights/carrowmore.yaml) | 8.1 / 8.7 / 9.1 / 8.3 / 8.2 | impact: +0.7 vs peer; uniqueness: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Monumental dry-stone mass. |
+| Uniqueness | 9.2 | Eleven chambers and unusual scale. |
+| Significance | 9.3 | Major Neolithic funerary architecture. |
+| Experience | 8.5 | Focused archaeological visit. |
+| Depth | 8.4 | Single complex rather than a dispersed landscape. |
+
+- Applicable categories: history:9.4, culture:9.2, photography:9.0.
+- Computed worldwide overall: 89.15/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-sainte-anne-auray — Sainte-Anne-d’Auray Basilica and Pilgrimage Sanctuary — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sainte-anne-auray.yaml)
+- Action: new
+- Precise subject and limitations: Basilica, cloister and associated sanctuary monuments; excludes separate Saint-Goustan harbour and wider municipality. Heritage inventory representative point.
+- Location check: 47.704165, -2.952595; [published representative point](https://www.plan-du-patrimoine.fr/monument-historique/56/sainte-anne-d-auray/site-de-la-basilique-de-sainte-anne-d-auray/PA00091658/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.sainteanne-sanctuaire.com/?id_geoloc=180&langue=en&mode=visite_des_lieux); indexed excerpts inspected 2026-11-27. Shrine operator identifies basilica as central; regional heritage service dates sanctuary origins to 1625 and describes pilgrimage: https://pah.auray-quiberon.fr/home-en/sites-to-discover/. Heritage listing documents protected ensemble. Religious traditions are treated as traditions. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer. |
+| [ES/basilica-del-pilar](../../../countries/ES/sights/basilica-del-pilar.yaml) | 9.2 / 8.8 / 9.2 / 8.8 / 8.8 | impact: -0.4 vs peer; significance: -0.2 vs peer. |
+| [PT/bom-jesus](../../../countries/PT/sights/bom-jesus.yaml) | 9.0 / 9.1 / 9.1 / 9.0 / 8.6 | uniqueness: -0.4 vs peer; depth: +0.3 vs peer. |
+| [IE/st-patricks-cathedral](../../../countries/IE/sights/st-patricks-cathedral.yaml) | 8.5 / 8.2 / 8.7 / 8.5 / 8.0 | depth: +0.9 vs peer; uniqueness: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Impressive basilica and connected monuments. |
+| Uniqueness | 8.7 | Distinct Breton pilgrimage tradition with comparable European shrines. |
+| Significance | 9.0 | Important regional pilgrimage and religious history. |
+| Experience | 8.9 | Visit of devotional and historic spaces. |
+| Depth | 8.9 | Several connected sanctuary monuments. |
+
+- Applicable categories: architecture:9.2, culture:9.2, history:9.1, photography:9.0.
+- Computed worldwide overall: 88.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-kerjean — Château de Kerjean Renaissance Castle and Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-kerjean.yaml)
+- Action: new
+- Precise subject and limitations: Castle exhibition rooms and estate park grouped; temporary park restrictions do not reduce intrinsic score. Operator GPS representative point.
+- Location check: 48.576241, -4.141572; [published representative point](https://www.cdp29.fr/en/presentation-kerjean-infos-pratiques), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.cdp29.fr/en/presentation-kerjean-infos-pratiques); indexed excerpts inspected 2026-11-27. Operator lists visit duration approximately 1.5 hours, exhibitions, park and GPS. Regional tourism identifies Renaissance importance: https://douarnenez-tourisme.com/offres/chateau-de-kerjean-saint-vougay-fr-2685640/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-josselin](../../../countries/FR/sights/chateau-josselin.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | depth: +0.1 vs peer; impact: -0.1 vs peer. |
+| [FR/chateau-cheverny](../../../countries/FR/sights/chateau-cheverny.yaml) | 8.9 / 8.9 / 8.7 / 9.0 / 9.0 | significance: +0.2 vs peer; experience: -0.2 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | uniqueness: +0.1 vs peer; impact: -0.1 vs peer. |
+| [GB/hampton-court](../../../countries/GB/sights/hampton-court.yaml) | 9.1 / 9.0 / 9.2 / 9.1 / 9.0 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Well-preserved Renaissance estate. |
+| Uniqueness | 8.8 | Distinct Breton Renaissance architecture. |
+| Significance | 8.9 | Regional architectural and aristocratic history. |
+| Experience | 8.8 | Dedicated castle and grounds visit. |
+| Depth | 8.8 | Several exhibition spaces and park. |
+
+- Applicable categories: architecture:9.3, history:9.2, culture:9.1, photography:9.1.
+- Computed worldwide overall: 88.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-vallee-des-saints — Vallée des Saints Monumental Granite Sculpture Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/vallee-des-saints.yaml)
+- Action: new
+- Precise subject and limitations: Contemporary sculpture project and hilltop walking circuit, not an ancient archaeological site. No speculative future sculpture count included.
+- Location check: 48.37042, -3.54082; [published representative point](https://mapcarta.com/W430222393), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.lavalleedessaints.com/en/site-visit/); indexed excerpts inspected 2026-11-27. Operator describes 1–2 hour granite sculpture visit; regional tourism describes more than 200 statues and their approximate scale: https://www.brittanytourism.com/plan-my-holiday/things-to-do-see/all-activities/la-vallee-des-saints-carnoet-en-2012283/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/jardins-etretat](../../../countries/FR/sights/jardins-etretat.yaml) | 8.9 / 9.2 / 8.5 / 8.9 / 8.4 | depth: +0.3 vs peer; significance: -0.2 vs peer. |
+| [ES/national-sculpture-museum-valladolid](../../../countries/ES/sights/national-sculpture-museum-valladolid.yaml) | 8.8 / 9.0 / 9.1 / 8.7 / 9.0 | significance: -0.8 vs peer; depth: -0.3 vs peer. |
+| [PT/monte-palace-garden](../../../countries/PT/sights/monte-palace-garden.yaml) | 9.0 / 8.9 / 8.5 / 9.0 / 8.9 | depth: -0.2 vs peer; impact: -0.2 vs peer. |
+| [GB/stourhead](../../../countries/GB/sights/stourhead.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.4 | significance: -0.6 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large granite sculptures on panoramic hill. |
+| Uniqueness | 9.1 | Unusual collection of contemporary Breton saint sculptures. |
+| Significance | 8.3 | Contemporary regional cultural significance. |
+| Experience | 8.9 | Walkable open-air art experience. |
+| Depth | 8.7 | Numerous individual works and interpretive stops. |
+
+- Applicable categories: culture:9.2, photography:9.3, relaxation:8.8, family:8.9.
+- Computed worldwide overall: 87.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-ile-vierge-lighthouse — Île Vierge Lighthouse and Island Boat Visit — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ile-vierge-lighthouse.yaml)
+- Action: new
+- Precise subject and limitations: Offshore lighthouse cluster and dedicated boat access, excluding mainland Les Abers trails. Historic full visitor experience including ascent to main tower. Main tower closed in 2026 for restoration per boat operator; no reopening date asserted.
+- Location check: 48.63885, -4.5675; [published representative point](https://mapcarta.com/34492710), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://ilevierge.bzh/); indexed excerpts inspected 2026-11-27. Maritime administration documents 82.5 m stone tower: https://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr/phare-de-l-ile-vierge-a75.html. Operator confirms restoration closure: https://vedettes-des-abers.com/faq/. Sources disagree on step count, so no exact count used. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/pointe-saint-mathieu](../../../countries/FR/sights/pointe-saint-mathieu.yaml) | 9.0 / 8.9 / 8.9 / 8.9 / 8.6 | depth: -0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [FR/chateau-du-taureau](../../../countries/FR/sights/chateau-du-taureau.yaml) | 8.9 / 9.0 / 8.8 / 8.8 / 8.4 | uniqueness: +0.1 vs peer; depth: -0.1 vs peer. |
+| [PT/nazare-sitio-praia-norte](../../../countries/PT/sights/nazare-sitio-praia-norte.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.5 | significance: +0.4 vs peer; depth: -0.2 vs peer. |
+| [IE/spike-island](../../../countries/IE/sights/spike-island.yaml) | 8.5 / 8.7 / 8.9 / 8.7 / 8.6 | impact: +0.4 vs peer; uniqueness: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Tall stone lighthouse and offshore panorama. |
+| Uniqueness | 9.1 | Exceptional stone tower scale and island setting. |
+| Significance | 8.8 | Maritime navigation engineering. |
+| Experience | 8.8 | Boat trip and established tower ascent. |
+| Depth | 8.3 | Focused lighthouse complex visit. |
+
+- Applicable categories: architecture:9.2, photography:9.3, history:9.1, adventure:9.0.
+- Computed worldwide overall: 88.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-jardin-georges-delaselle — Jardin Georges Delaselle Exotic Botanical Garden — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/jardin-georges-delaselle.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated exotic botanical garden on Batz, explicitly excluded from island coastal-walk record. Established garden experience rated; no current plant count or access guarantee.
+- Location check: 48.73941, -3.99264; [published representative point](https://mapcarta.com/fr/W83514545), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.jardin-georgesdelaselle.bzh/); indexed excerpts inspected 2026-11-27. Garden operator describes exotic garden project; European Garden Heritage Network documents 1897 origin and exposed island site: https://www.eghn.org/en/georges-delaselle-garden/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/jardins-etretat](../../../countries/FR/sights/jardins-etretat.yaml) | 8.9 / 9.2 / 8.5 / 8.9 / 8.4 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer. |
+| [PT/madeira-botanical-garden](../../../countries/PT/sights/madeira-botanical-garden.yaml) | 8.7 / 8.5 / 8.5 / 8.9 / 8.7 | uniqueness: +0.3 vs peer; depth: -0.1 vs peer. |
+| [PT/monte-palace-garden](../../../countries/PT/sights/monte-palace-garden.yaml) | 9.0 / 8.9 / 8.5 / 9.0 / 8.9 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+| [GB/kew-gardens](../../../countries/GB/sights/kew-gardens.yaml) | 8.9 / 9.1 / 9.4 / 9.2 / 9.3 | significance: -0.9 vs peer; depth: -0.7 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Exotic vegetation contrasting with maritime landscape. |
+| Uniqueness | 8.8 | Distinct island acclimatization garden. |
+| Significance | 8.5 | Regional horticultural heritage. |
+| Experience | 8.9 | Designed garden circuit. |
+| Depth | 8.6 | Varied planting and garden spaces. |
+
+- Applicable categories: nature:9.2, photography:9.2, relaxation:9.1, culture:8.8.
+- Computed worldwide overall: 87.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-saint-pol-de-leon-historic-centre — Saint-Pol-de-Léon Historic Centre and Cathedral — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-pol-de-leon-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Cathedral, Kreisker chapel and surrounding historic streets; excludes separate Saint-Pierre cemetery enclosure and wider coast. Kreisker representative point; Saint-Pol not named in checked UNESCO tentative-list text https://whc.unesco.org/en/tentativelists/6755; exact future nomination boundaries not assumed.
+- Location check: 48.68282, -3.98667; [published representative point](https://mapcarta.com/37384524), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.roscoff-tourisme.com/en/heritage-trails/saint-pol-de-leon-heritage-trail/); indexed excerpts inspected 2026-11-27. Local tourism describes historic residences and heritage trail; its destination page identifies cathedral and episcopal palace: https://www.roscoff-tourisme.com/en/discover/6-destinations/saint-pol-de-leon/welcome-to-saint-pol-de-leon/. Heritage foundation documents Kreisker significance: https://www.fondation-patrimoine.org/les-projets/chapelle-notre-dame-du-kreisker-a-saint-pol-de-leon/105093. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/quimper-historic-centre](../../../countries/FR/sights/quimper-historic-centre.yaml) | 8.8 / 8.7 / 9.0 / 8.9 / 8.8 | depth: -0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/bayeux-cathedral-old-town](../../../countries/FR/sights/bayeux-cathedral-old-town.yaml) | 9.0 / 8.9 / 9.2 / 9.0 / 8.8 | impact: -0.3 vs peer; significance: -0.3 vs peer. |
+| [ES/valencia-cathedral-historic-centre](../../../countries/ES/sights/valencia-cathedral-historic-centre.yaml) | 9.0 / 8.7 / 9.0 / 9.0 / 8.9 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+| [PT/evora-core](../../../countries/PT/sights/evora-core.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 8.6 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Gothic religious architecture and historic streets. |
+| Uniqueness | 8.7 | Distinct compact episcopal town. |
+| Significance | 8.9 | Regional bishopric heritage. |
+| Experience | 8.8 | Documented heritage walking trail. |
+| Depth | 8.6 | Several connected monuments and streets. |
+
+- Applicable categories: architecture:9.3, history:9.2, culture:9.1, photography:9.1.
+- Computed worldwide overall: 87.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

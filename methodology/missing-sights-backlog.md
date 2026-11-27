@@ -1494,3 +1494,15 @@ Seven additions, 28 peer rows. France 180 ranked / 191 total; 11 existing unasse
 - [x] FR — Monts d’Arrée Moorland Ridges and Hiking Trails: 87.65/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 187 ranked / 198 total; 11 existing unassessed unchanged. Taureau distinct from UNESCO Vauban serial property; Batz excludes separate garden; Abers scope limited to two northern estuaries; Saint-Mathieu grouped local monuments; Monts d’Arrée excludes Huelgoat. Next bounded screen: Cairn de Barnenez, Sainte-Anne-d’Auray sanctuary, Château de Kerjean, Vallée des Saints, Île Vierge lighthouse, Jardin Georges Delaselle, and Saint-Pol-de-Léon historic centre (scope and duplicate checks). Full Python validation pending.
+
+### Pass 129 — Brittany prehistoric heritage, pilgrimage and specialist visitor sites
+
+- [x] FR — Cairn de Barnenez Neolithic Burial Monument: 89.15/100 (source-linked-unverified).
+- [x] FR — Sainte-Anne-d’Auray Basilica and Pilgrimage Sanctuary: 88.40/100 (source-linked-unverified).
+- [x] FR — Château de Kerjean Renaissance Castle and Park: 88.20/100 (source-linked-unverified).
+- [x] FR — Vallée des Saints Monumental Granite Sculpture Park: 87.80/100 (source-linked-unverified).
+- [x] FR — Île Vierge Lighthouse and Island Boat Visit: 88.55/100 (source-linked-unverified).
+- [x] FR — Jardin Georges Delaselle Exotic Botanical Garden: 87.05/100 (source-linked-unverified).
+- [x] FR — Saint-Pol-de-Léon Historic Centre and Cathedral: 87.45/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 194 ranked / 205 total; 11 existing unassessed unchanged. Barnenez distinct from Carnac; Sainte-Anne sanctuary grouped; Vallée des Saints modern art; Île Vierge main tower restoration closure recorded but established ascent rated; Delaselle separate from Batz walks; Saint-Pol centre excludes Saint-Pierre cemetery enclosure. Next bounded screen: Château de Suscinio, Domaine de Trévarez, Abbaye de Daoulas and gardens, Château de Kergroadez, Phare d’Eckmühl, Château de la Roche-Jagu, and Tréguier historic centre (scope and duplicate checks). Full Python validation pending.
