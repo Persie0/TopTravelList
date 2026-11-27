@@ -1,0 +1,10 @@
+# Pass 184 — access-independent reassessment, part 3
+2026-11-27. Provisional editorial estimates; lawful normal-access or historical visitor scenario, not present opening, safety or intact pre-damage conditions. Source descriptions/excerpts retrieved 2026-11-27. Existing scores and coordinates retained. Four qualitative peers per record; numerical peer YAML calibration pending.
+
+## SY/sights/qasr-al-hayr
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/1298/ ; https://dalilsyria.net/heritage. Umayyad desert settlement and enclosure remains. Hypothetical supervised circuit through surviving architectural features and water-management interpretation, not access to all ruins or reconstructed lost buildings. Comparisons: Less intricate decoration than Qusayr Amra; less monumental enclosure than Al-Ukhaidir; less varied archaeological landscape than Palmyra; less intact palace architecture than Alhambra. I/U/S/E/D: 8.1, 8.7, 8.9, 8.3, 8.5. Overall 84.80. 
+
+## SY/sights/tartus-citadel
+Status: source-linked-unverified. Sources: https://whc.unesco.org/en/tentativelists/1301/ ; https://sana.sy/en/culture-and-arts/2331522/. Crusader-era cathedral and surviving historic defensive quarter integrated into living city. Hypothetical respectful streetscape and permitted building interpretation, not a complete standalone fortress or whole modern Tartus. Comparisons: Less intact fortifications than Carcassonne; less monumental standalone fortress than Krak des Chevaliers; less varied medieval urban fabric than Rhodes Old Town; less extensive historic streets than Acre. I/U/S/E/D: 7.9, 8.3, 8.6, 8.3, 8.4. Overall 82.50. 
+
+4 null-only core fields filled. Total 20 records (14 IQ, 6 SY), 46 missing core fields populated and 80 qualitative peer comparisons. Three 90+ scores require numerical calibration, including Hatra at 90.00. Seven Syrian records outside batch. Potential overlap between Samarra and its minaret flagged; no coordinates changed. Full validation, ranking regeneration and merge pending. No private Actions manually dispatched.
