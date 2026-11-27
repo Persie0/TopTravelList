@@ -539,3 +539,116 @@ No numerical score or evidence-status changes made by this pass.
 - Final decision: Partial assessment only.
 - Earlier decision: none.
 - Verification still needed: exact GPS, independent factual corroboration, numerical benchmark calibration and current access.
+
+## sight-gu-apra-harbor-wrecks — Apra Harbor Historic Paired Shipwreck Diving — 2026-11-27
+
+- YAML: [source](../../../countries/GU/sights/apra-harbor-wrecks.yaml)
+- Action: new
+- Scope: Historic vessels from two world wars resting side by side, as documented by Guam Visitors Bureau; established guided exterior wreck dives only, no salvage or penetration assumed. Representative harbor point, not navigation or restricted installation access.
+- Representative coordinates: 13.45, 144.65; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.0 / 9.0.
+- Categories: history:9.4 adventure:9.4 culture:9.2.
+- Overall: 92.10/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.visitguam.com/blog/post/best-places-to-go-snorkeling-diving-in-guam/, https://www.guamvisitorsbureau.com/node/391, https://www.padi.com/dive-site/guam/tokai-maru/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GU/war-in-the-pacific](../../../countries/GU/sights/war-in-the-pacific.yaml) | 8.3 / 8.8 / 9.3 / 8.6 / 8.7 | impact: +0.8 vs peer; uniqueness: +0.6 vs peer |
+| [GU/guam-museum](../../../countries/GU/sights/guam-museum.yaml) | 8.0 / 8.7 / 8.9 / 8.5 / 8.3 | impact: +1.1 vs peer; uniqueness: +0.7 vs peer |
+| [MP/american-memorial-park](../../../countries/MP/sights/american-memorial-park.yaml) | 7.8 / 8.3 / 9.0 / 8.4 / 8.1 | impact: +1.3 vs peer; uniqueness: +1.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-gu-orote-blue-hole — Guam Orote Peninsula Blue Hole Guided Reef Diving — 2026-11-27
+
+- YAML: [source](../../../countries/GU/sights/orote-blue-hole.yaml)
+- Action: new
+- Scope: Named limestone offshore formation and associated reef viewing, distinct from Apra Harbor wrecks and Tumon Bay; advanced diving and conditions apply. Approximate offshore point.
+- Representative coordinates: 13.43, 144.61; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.5 / 9.0 / 8.5.
+- Categories: nature:9.3 adventure:9.4 wildlife:9.1.
+- Overall: 88.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.visitguam.com/blog/post/best-places-to-go-snorkeling-diving-in-guam/, https://www.padi.com/dive-site/guam/blue-hole-9/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GU/tumon-bay](../../../countries/GU/sights/tumon-bay.yaml) | 8.7 / 7.9 / 7.8 / 8.7 / 8.2 | uniqueness: +1.1 vs peer; significance: +0.7 vs peer |
+| [GU/ritidian-point](../../../countries/GU/sights/ritidian-point.yaml) | 9.0 / 8.8 / 8.9 / 8.4 / 8.3 | experience: +0.6 vs peer; significance: -0.4 vs peer |
+| [MP/grotto](../../../countries/MP/sights/grotto.yaml) | 8.9 / 9.0 / 8.3 / 8.3 / 7.6 | depth: +0.9 vs peer; experience: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-gu-fish-eye — Fish Eye Marine Park Piti Bay Underwater Observatory — 2026-11-27
+
+- YAML: [source](../../../countries/GU/sights/fish-eye.yaml)
+- Action: new
+- Scope: Public underwater observatory and associated guided snorkeling grouped; Piti Bay separate from Tumon Bay and harbor wrecks.
+- Representative coordinates: 13.47, 144.7; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.5 / 8.9 / 8.6.
+- Categories: nature:9.2 wildlife:9.2 family:9.3.
+- Overall: 86.20/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.visitguam.com/listing/fish-eye-marine-park/116/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GU/tumon-bay](../../../countries/GU/sights/tumon-bay.yaml) | 8.7 / 7.9 / 7.8 / 8.7 / 8.2 | uniqueness: +0.8 vs peer; significance: +0.7 vs peer |
+| [GU/valley-of-latte](../../../countries/GU/sights/valley-of-latte.yaml) | 8.5 / 8.6 / 8.5 / 8.6 / 8.4 | experience: +0.3 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-gu-mount-lamlam — Mount Lamlam Summit Trail Guam — 2026-11-27
+
+- YAML: [source](../../../countries/GU/sights/mount-lamlam.yaml)
+- Action: new
+- Scope: Named summit walking route, excludes Cetti/Sella coastal trails; permissions and weather apply.
+- Representative coordinates: 13.34, 144.66; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.3 / 8.7 / 8.4.
+- Categories: nature:9.1 photography:9.2 adventure:9.1.
+- Overall: 85.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GU/two-lovers-point](../../../countries/GU/sights/two-lovers-point.yaml) | 8.9 / 8.2 / 7.8 / 8.5 / 7.2 | depth: +1.2 vs peer; significance: +0.5 vs peer |
+| [GU/ritidian-point](../../../countries/GU/sights/ritidian-point.yaml) | 9.0 / 8.8 / 8.9 / 8.4 / 8.3 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-gu-cetti-sella-bay — Cetti Bay and Sella Bay Coastal Hiking Circuit Guam — 2026-11-27
+
+- YAML: [source](../../../countries/GU/sights/cetti-sella-bay.yaml)
+- Action: new
+- Scope: Adjacent bays grouped as public coastal hiking experience, not Mount Lamlam summit or military areas.
+- Representative coordinates: 13.32, 144.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.3 / 8.6 / 8.5.
+- Categories: nature:9.2 photography:9.2 adventure:9.1.
+- Overall: 85.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GU/ritidian-point](../../../countries/GU/sights/ritidian-point.yaml) | 9.0 / 8.8 / 8.9 / 8.4 / 8.3 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+| [GU/two-lovers-point](../../../countries/GU/sights/two-lovers-point.yaml) | 8.9 / 8.2 / 7.8 / 8.5 / 7.2 | depth: +1.3 vs peer; significance: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 217 scope decisions
+
+Paired Apra wrecks grouped; Blue Hole distinct offshore formation; Fish Eye Piti Bay separate from Tumon. Cetti/Sella grouped. No base entry or wreck penetration assumed; one existing unassessed retained. Bounded candidate queue complete.

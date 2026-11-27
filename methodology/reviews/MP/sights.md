@@ -690,3 +690,96 @@ No numerical score or evidence-status changes made by this pass.
 - Verification still needed: exact GPS, independent factual corroboration, numerical benchmark calibration and current access.
 
 - [Dated worldwide reassessment pass 67 — 2026-11-26](worldwide-deferred-pass67-2026-11-26.md)
+
+## sight-mp-saipan-maritime-heritage — Saipan WWII Maritime Heritage Trail Guided Wreck Diving — 2026-11-27
+
+- YAML: [source](../../../countries/MP/sights/saipan-maritime-heritage.yaml)
+- Action: new
+- Scope: Public archaeological trail in lagoon, excludes Mañagaha beach and terrestrial memorials. NOAA documented ongoing heritage research and tourist diving in 2023. Guided permitted exterior viewing, no removal or wreck penetration; post-typhoon site condition pending. Regional lagoon point.
+- Representative coordinates: 15.22, 145.72; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.0 / 9.1.
+- Categories: history:9.4 adventure:9.3 culture:9.2.
+- Overall: 91.20/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://pacificmaritimeheritagetrail.com/about/, https://oceanexplorer.noaa.gov/expedition/23wwii-battlefields/, https://mva.mymarianas.com/dive-spots/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MP/american-memorial-park](../../../countries/MP/sights/american-memorial-park.yaml) | 7.8 / 8.3 / 9.0 / 8.4 / 8.1 | impact: +1.2 vs peer; depth: +1.0 vs peer |
+| [MP/marpi-memorials](../../../countries/MP/sights/marpi-memorials.yaml) | 8.8 / 8.8 / 9.3 / 8.1 / 8.3 | experience: +0.9 vs peer; depth: +0.8 vs peer |
+| [GU/war-in-the-pacific](../../../countries/GU/sights/war-in-the-pacific.yaml) | 8.3 / 8.8 / 9.3 / 8.6 / 8.7 | impact: +0.7 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-mp-tinian-historic-landmark — Tinian National Historic Landmark Public Heritage Sites — 2026-11-27
+
+- YAML: [source](../../../countries/MP/sights/tinian-historic-landmark.yaml)
+- Action: new
+- Scope: Public historical interpretation of wartime heritage and the nuclear age, not operational military facilities or unrestricted access. ACHP documents heritage significance and mayor's notice retains public historic sites subject to restrictions; current access and integrity require confirmation. Representative island locality only.
+- Representative coordinates: 15.0, 145.62; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.4 / 8.9 / 9.2.
+- Categories: history:9.4 culture:9.2 photography:9.1.
+- Overall: 90.50/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.achp.gov/digital-library-section-106-landing/tinian-landing-beaches-ushi-point-field-and-north-field-tinian, https://tinianmayor.cnmi.gov/north-field-rehabilitation-restricted-area-for-potential-uxo/, https://www.mymarianas.com/marianas-tourism-recovery-updates/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MP/marpi-memorials](../../../countries/MP/sights/marpi-memorials.yaml) | 8.8 / 8.8 / 9.3 / 8.1 / 8.3 | depth: +0.9 vs peer; experience: +0.8 vs peer |
+| [MP/american-memorial-park](../../../countries/MP/sights/american-memorial-park.yaml) | 7.8 / 8.3 / 9.0 / 8.4 / 8.1 | depth: +1.1 vs peer; impact: +1.0 vs peer |
+| [GU/war-in-the-pacific](../../../countries/GU/sights/war-in-the-pacific.yaml) | 8.3 / 8.8 / 9.3 / 8.6 / 8.7 | impact: +0.5 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-mp-rota-outer-reef — Rota Guided Outer Reef and Senhanon Cavern Diving — 2026-11-27
+
+- YAML: [source](../../../countries/MP/sights/rota-outer-reef.yaml)
+- Action: new
+- Scope: Boat-based Rota outer reef and named cavern experience grouped, excludes Rota Swimming Hole; no unsupported cave penetration or reef condition claim. Regional point.
+- Representative coordinates: 14.15, 145.14; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 8.9 / 8.7.
+- Categories: nature:9.3 adventure:9.3 wildlife:9.2.
+- Overall: 88.00/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://mva.mymarianas.com/dive-spots/, https://mva.mymarianas.com/rota/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MP/grotto](../../../countries/MP/sights/grotto.yaml) | 8.9 / 9.0 / 8.3 / 8.3 / 7.6 | depth: +1.1 vs peer; experience: +0.6 vs peer |
+| [MP/rota-swimming-hole](../../../countries/MP/sights/rota-swimming-hole.yaml) | 8.5 / 8.3 / 7.4 / 8.1 / 7.0 | depth: +1.7 vs peer; significance: +1.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-mp-forbidden-island — Forbidden Island Overlook and Coastal Trail Saipan — 2026-11-27
+
+- YAML: [source](../../../countries/MP/sights/forbidden-island.yaml)
+- Action: new
+- Scope: Officially documented overlook and beach trail, no island landing or swimming assumed; temporary storm-related access and trail condition require checking.
+- Representative coordinates: 15.15, 145.79; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.3 / 8.6 / 8.5.
+- Categories: nature:9.2 photography:9.3 adventure:9.2.
+- Overall: 86.15/100.
+- Decision: Source-informed provisional assessment from retrieved excerpts; temporary access excluded from intrinsic rating, lasting damage requires reassessment.
+- Sources consulted (2026-11-27): https://www.dlnr.cnmi.gov/marine-protected-areas.html, https://www.mymarianas.com/marianas-tourism-recovery-updates/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [MP/bird-island](../../../countries/MP/sights/bird-island.yaml) | 8.8 / 8.4 / 8.4 / 8.3 / 7.4 | depth: +1.1 vs peer; uniqueness: +0.3 vs peer |
+| [MP/tapochau](../../../countries/MP/sights/tapochau.yaml) | 8.7 / 8.0 / 7.6 / 8.1 / 7.2 | depth: +1.3 vs peer; uniqueness: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 217 scope decisions
+
+April 2026 Super Typhoon Sinlaku recovery documented by MVA (https://www.mymarianas.com/marianas-tourism-recovery-updates/; https://mva.mymarianas.com/press-release/marianas-records-5051-arrivals-in-september-2026/). Actual site reopening and lasting damage not verified. Tinian historical public visitor scope only, island locality proxy, restrictions and heritage integrity pending. Chugai pictographs deferred pending Historic Preservation Office permission and protection scope. Saipan heritage dives distinct from Managaha beach and terrestrial memorials. Two existing unassessed retained. Bounded candidate queue complete.

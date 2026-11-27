@@ -93,7 +93,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Afghanistan](countries/AF/) (`AF`) | [10](countries/AF/cities.md) | [23](countries/AF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Afghanistan) |
 | [Albania](countries/AL/) (`AL`) | [35](countries/AL/cities.md) | [95](countries/AL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Albania) |
 | [Algeria](countries/DZ/) (`DZ`) | [11](countries/DZ/cities.md) | [47](countries/DZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Algeria) |
-| [American Samoa](countries/AS/) (`AS`) | [7](countries/AS/cities.md) | [12](countries/AS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=American%20Samoa) |
+| [American Samoa](countries/AS/) (`AS`) | [7](countries/AS/cities.md) | [15](countries/AS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=American%20Samoa) |
 | [Andorra](countries/AD/) (`AD`) | [18](countries/AD/cities.md) | [38](countries/AD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Andorra) |
 | [Angola](countries/AO/) (`AO`) | [8](countries/AO/cities.md) | [17](countries/AO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Angola) |
 | [Anguilla](countries/AI/) (`AI`) | [3](countries/AI/cities.md) | [10](countries/AI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Anguilla) |
@@ -179,7 +179,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Greenland](countries/GL/) (`GL`) | [7](countries/GL/cities.md) | [12](countries/GL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Greenland) |
 | [Grenada](countries/GD/) (`GD`) | [12](countries/GD/cities.md) | [33](countries/GD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Grenada) |
 | [Guadeloupe](countries/GP/) (`GP`) | [5](countries/GP/cities.md) | [32](countries/GP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guadeloupe) |
-| [Guam](countries/GU/) (`GU`) | [5](countries/GU/cities.md) | [12](countries/GU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guam) |
+| [Guam](countries/GU/) (`GU`) | [5](countries/GU/cities.md) | [17](countries/GU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guam) |
 | [Guatemala](countries/GT/) (`GT`) | [12](countries/GT/cities.md) | [37](countries/GT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guatemala) |
 | [Guernsey](countries/GG/) (`GG`) | [4](countries/GG/cities.md) | [22](countries/GG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guernsey) |
 | [Guinea](countries/GN/) (`GN`) | [14](countries/GN/cities.md) | [30](countries/GN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guinea) |
@@ -253,7 +253,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Norfolk Island](countries/NF/) (`NF`) | [1](countries/NF/cities.md) | [13](countries/NF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Norfolk%20Island) |
 | [North Korea](countries/KP/) (`KP`) | [8](countries/KP/cities.md) | [22](countries/KP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=North%20Korea) |
 | [North Macedonia](countries/MK/) (`MK`) | [14](countries/MK/cities.md) | [33](countries/MK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=North%20Macedonia) |
-| [Northern Mariana Islands](countries/MP/) (`MP`) | [4](countries/MP/cities.md) | [15](countries/MP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Northern%20Mariana%20Islands) |
+| [Northern Mariana Islands](countries/MP/) (`MP`) | [4](countries/MP/cities.md) | [19](countries/MP/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Northern%20Mariana%20Islands) |
 | [Norway](countries/NO/) (`NO`) | [19](countries/NO/cities.md) | [50](countries/NO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Norway) |
 | [Oman](countries/OM/) (`OM`) | [24](countries/OM/cities.md) | [74](countries/OM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Oman) |
 | [Pakistan](countries/PK/) (`PK`) | [14](countries/PK/cities.md) | [58](countries/PK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Pakistan) |

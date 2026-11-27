@@ -1,0 +1,16 @@
+id: sight-mp-rota-outer-reef
+name: "Rota Guided Outer Reef and Senhanon Cavern Diving"
+location:
+  country_code: MP
+  latitude: 14.15
+  longitude: 145.14
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.5
+  experience: 8.9
+  depth: 8.7
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    wildlife: 9.2
