@@ -5254,3 +5254,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] UY — Nueva Helvecia Cheese Festival Public Gastronomy Programme: 85.10/100 (source-linked-unverified).
 
 10 source-linked provisional additions, 4 scoring 90+, 20 domestic ranking-row comparisons. UY 109 ranked / 109 total, +48 since baseline 61; 19 new 90+ across four passes. Bounded current discovery queue closed after passes 293–296, not exhaustive. Prior UNESCO inventory (3 inscribed represented; 6 tentative screened, 4 direct, modern architecture partial, Colonia island extension deferred) carried forward without remapping. Dolores nationally recognized intangible heritage, not UNESCO inscription. San Cono and Virgen de los Treinta y Tres separate recurring pilgrimages, associated shrine/concert grouped; exceptional papal events excluded. Salto literary and historic circuit grouped; dam separate. Durazno San Pedro distinct from Atlántida, no new World Heritage claim. Hum, Islas del Queguay and Esteros y Algarrobales remain deferred pending distinct authorized visitor scope; prior deferrals retained. Regional screen used national tourism destination and festival inventories and targeted official sources; smaller local sites not exhaustively checked. Existing scores preserved; coordinates approximate, access and future schedules unverified. Reopen on concrete significant omission. Independent peer YAML/coordinate checks, international calibration, historical evidence labels and full Python validation pending. Next proposed country Venezuela.
+
+
+### Pass 297 — Venezuela initial UNESCO and cultural screen
+
+- [x] VE — San Francisco de Yare Dancing Devils of Corpus Christi Public Procession: 93.85/100 (source-linked provisional).
+- [x] VE — El Callao Carnival Public Calypso and Masquerade Parades: 93.35/100 (source-linked provisional).
+- [x] VE — Guarenas and Guatire Parranda de San Pedro Public Festivities: 92.35/100 (source-linked provisional).
+- [x] VE — Central Venezuelan Coastal San Juan Bautista Public Drum and Dance Festivities: 92.65/100 (source-linked provisional).
+- [x] VE — Barquisimeto Divina Pastora Public Pilgrimage: 92.35/100 (source-linked provisional).
+- [x] VE — Maracaibo Feria de la Chinita Public Gaita and Religious Festival: 91.30/100 (source-linked provisional).
+- [x] VE — Chuao Cacao Plantation Cultural Landscape and Village Heritage: 89.10/100 (source-linked provisional).
+- [x] VE — La Guaira Historic Centre and Public Port Heritage: 85.45/100 (source-linked provisional).
+- [x] VE — Ciudad Bolívar Historic Centre and Orinoco Waterfront: 87.45/100 (source-linked provisional).
+- [x] VE — Sierra de la Culata National Park Highland Landscapes: 86.85/100 (desk-based provisional).
+- [x] VE — Yacambú National Park Cloud Forest and Birdwatching: 85.00/100 (desk-based provisional).
+- [x] VE — Puerto Ayacucho Tobogán de la Selva Natural Rock Waterscape: 84.45/100 (source-linked provisional).
+
+12 additions, 10 source-linked provisional, 2 desk-based provisional, 6 90+, 30 ranking-row comparisons (24 international, 6 domestic). VE 52 ranked / 55 total, +12 since baseline 43. Official UNESCO World Heritage inventory checked (https://whc.unesco.org/en/statesparties/ve/): 3/3 inscribed already represented, Coro and port component rows; all 3 tentative now represented by narrowly scoped visitor entries, boundaries not independently mapped. UNESCO intangible heritage distinct from property inscription; Yare representative public Dancing Devils observance, El Callao Carnival, Guarenas/Guatire Parranda grouped, San Juan coastal festive cycle grouped; no private ceremony access implied. Divina Pastora and Chinita recurring public programmes. Cerro Autana official natural monument (https://www.inparques.gob.ve/Monumentos%20Nacionales/cerro-autana.html), defer until community permission and defined visitor scope, no cave/summit access assumed. National park directory screen incomplete. FCDO advises against all travel to parts of Venezuela (https://www.gov.uk/foreign-travel-advice/venezuela); intrinsic scores not travel advice. Three legacy unassessed retained. Existing scores preserved. OPEN for remaining parks, natural monuments and public heritage. Coordinates approximate, current permissions, security and schedules unverified.

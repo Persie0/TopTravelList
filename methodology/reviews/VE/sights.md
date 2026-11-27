@@ -861,3 +861,254 @@
 - Categories: nature 9.2, wildlife 9.3. Computed overall: unranked.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: ordinary permitted access and visitor scope.
+
+
+## Pass 297 — Venezuela initial UNESCO and cultural screen (2026-11-28)
+
+
+## sight-ve-yare-dancing-devils — San Francisco de Yare Dancing Devils of Corpus Christi Public Procession — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/yare-dancing-devils.yaml)
+- Action: new
+- Scope: Yare public observance of multinational-local confraternity tradition; no private ritual access; other confraternities not automatically separate attractions.
+- Representative coordinates: 10.18, -66.74; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://ich.unesco.org/en/RL/dancing-devils-of-corpus-christi-00639
+- Core I/U/S/E/D: 9.4 / 9.5 / 9.5 / 9.2 / 9.1.
+- Categories: culture:9.5 history:9.3 photography:9.4.
+- Overall: 93.85/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. 9.5 fields supported by distinctive mask tradition and UNESCO recognition; additional global anchor review pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/artigas-samba-carnival](../../../countries/UY/sights/artigas-samba-carnival.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.1 | impact: 0.2; uniqueness: 0.4 vs peer |
+| [UY/montevideo-llamadas](../../../countries/UY/sights/montevideo-llamadas.yaml) | 9.4 / 9.5 / 9.5 / 9.3 / 9.1 | impact: 0.0; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-el-callao-carnival — El Callao Carnival Public Calypso and Masquerade Parades — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/el-callao-carnival.yaml)
+- Action: new
+- Scope: Afro-Antillean carnival tradition, calypso and public costumed parades; UNESCO intangible heritage (2016), not a World Heritage property.
+- Representative coordinates: 7.35, -61.82; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://ich.unesco.org/en/RL/carnival-of-el-callao-a-festive-representation-of-a-memory-and-cultural-identity-01198
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.4 / 9.3 / 9.2.
+- Categories: culture:9.4 photography:9.4 nightlife:9.3.
+- Overall: 93.35/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/artigas-samba-carnival](../../../countries/UY/sights/artigas-samba-carnival.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.1 | impact: 0.1; uniqueness: 0.3 vs peer |
+| [UY/montevideo-carnival](../../../countries/UY/sights/montevideo-carnival.yaml) | 9.4 / 9.5 / 9.4 / 9.4 / 9.3 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-guarenas-guatire-parranda — Guarenas and Guatire Parranda de San Pedro Public Festivities — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/guarenas-guatire-parranda.yaml)
+- Action: new
+- Scope: Two towns grouped as one UNESCO-listed tradition (2013); public costumes, music and processional drama only.
+- Representative coordinates: 10.47, -66.54; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://ich.unesco.org/en/RL/la-parranda-de-san-pedro-of-guarenas-and-guatire-00907
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.1 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 92.35/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/tacuarembo-patria-gaucha](../../../countries/UY/sights/tacuarembo-patria-gaucha.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.2 | impact: -0.1; uniqueness: 0.2 vs peer |
+| [UY/florida-san-cono-pilgrimage](../../../countries/UY/sights/florida-san-cono-pilgrimage.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | impact: 0.1; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-san-juan-bautista-festivities — Central Venezuelan Coastal San Juan Bautista Public Drum and Dance Festivities — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/san-juan-bautista-festivities.yaml)
+- Action: new
+- Scope: Regional public festive cycle, representative point near Choroní, not a single venue; UNESCO 2021 recognizes cultural resistance and Afro-descendant memory. No private ritual or specific date guarantee.
+- Representative coordinates: 10.48, -67.6; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://ich.unesco.org/en/RL/festive-cycle-around-the-devotion-and-worship-towards-saint-john-the-baptist-01682?RL=01682
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.4 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 92.65/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/montevideo-llamadas](../../../countries/UY/sights/montevideo-llamadas.yaml) | 9.4 / 9.5 / 9.5 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [UY/artigas-samba-carnival](../../../countries/UY/sights/artigas-samba-carnival.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.1 | impact: 0.0; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-divina-pastora-pilgrimage — Barquisimeto Divina Pastora Public Pilgrimage — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/divina-pastora-pilgrimage.yaml)
+- Action: new
+- Scope: Annual January procession from Santa Rosa to the cathedral; 168th procession documented in 2026. Attendance estimates vary; no world-largest ranking asserted.
+- Representative coordinates: 10.06, -69.28; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://arquidiocesisdebarquisimeto.org/2026/01/14/la-evangelizacion-marco-el-paso-de-la-divina-pastora-en-su-visita-168-hacia-barquisimeto/ ; https://apnews.com/article/13c8e4d207c1004de50ce7c5585f4a3c
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.4 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.3.
+- Overall: 92.35/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/florida-virgen-treinta-tres](../../../countries/UY/sights/florida-virgen-treinta-tres.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.0 | impact: 0.4; uniqueness: 0.2 vs peer |
+| [UY/florida-san-cono-pilgrimage](../../../countries/UY/sights/florida-san-cono-pilgrimage.yaml) | 9.0 / 9.1 / 9.3 / 9.0 / 9.0 | impact: 0.3; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-maracaibo-feria-chinita — Maracaibo Feria de la Chinita Public Gaita and Religious Festival — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/maracaibo-feria-chinita.yaml)
+- Action: new
+- Scope: Public religious celebrations and gaita music programme grouped; municipality published 60th edition in November 2026. No future schedule guarantee.
+- Representative coordinates: 10.65, -71.61; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://alcaldiabolivarianamcbo.com.ve/?page_id=28906 ; https://alcaldiabolivarianamcbo.com.ve/?page_id=28923
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.4 nightlife:9.2 history:9.1.
+- Overall: 91.30/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/treinta-y-tres-olimar-festival](../../../countries/UY/sights/treinta-y-tres-olimar-festival.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.1 | impact: 0.0; uniqueness: 0.1 vs peer |
+| [UY/durazno-folklore-festival](../../../countries/UY/sights/durazno-folklore-festival.yaml) | 9.0 / 9.0 / 9.2 / 9.2 / 9.1 | impact: 0.0; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-hacienda-chuao — Chuao Cacao Plantation Cultural Landscape and Village Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/hacienda-chuao.yaml)
+- Action: new
+- Scope: Tentative property since 2002; cacao heritage and public village landscape, private plantation entry not assumed. Separate from Henri Pittier nature and San Juan seasonal rituals.
+- Representative coordinates: 10.49, -67.52; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://whc.unesco.org/en/tentativelists/1635/
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.2 / 8.5 / 8.8.
+- Categories: culture:9.3 history:9.2 food:9.3 photography:9.0.
+- Overall: 89.10/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/canelones-wine-heritage](../../../countries/UY/sights/canelones-wine-heritage.yaml) | 8.8 / 8.9 / 9.0 / 8.9 / 9.0 | impact: 0.0; uniqueness: 0.2 vs peer |
+| [UY/fray-bentos-industrial-landscape](../../../countries/UY/sights/fray-bentos-industrial-landscape.yaml) | 8.3 / 9.2 / 9.3 / 8.4 / 8.7 | impact: 0.5; uniqueness: -0.1 vs peer |
+| [VE/ciudad-universitaria-de-caracas](../../../countries/VE/sights/ciudad-universitaria-de-caracas.yaml) | 8.5 / 9.1 / 9.4 / 8.0 / 8.3 | impact: 0.3; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-la-guaira-historic-centre — La Guaira Historic Centre and Public Port Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/la-guaira-historic-centre.yaml)
+- Action: new
+- Scope: Tentative property since 1999; public historic streets and fortification exteriors, no port access or exact boundary claim.
+- Representative coordinates: 10.6, -66.93; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://whc.unesco.org/en/tentativelists/1306/
+- Core I/U/S/E/D: 8.3 / 8.7 / 9.0 / 8.2 / 8.5.
+- Categories: architecture:9.2 history:9.3 culture:8.8.
+- Overall: 85.45/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/maldonado-historic-centre](../../../countries/UY/sights/maldonado-historic-centre.yaml) | 7.9 / 8.1 / 8.6 / 8.3 / 8.2 | impact: 0.4; uniqueness: 0.6 vs peer |
+| [UY/san-javier-russian-heritage](../../../countries/UY/sights/san-javier-russian-heritage.yaml) | 8.0 / 8.7 / 8.7 / 8.4 / 8.5 | impact: 0.3; uniqueness: 0.0 vs peer |
+| [VE/coro-historic-centre](../../../countries/VE/sights/coro-historic-centre.yaml) | 8.5 / 9.1 / 9.4 / 7.7 / 7.9 | impact: -0.2; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-ciudad-bolivar-historic-centre — Ciudad Bolívar Historic Centre and Orinoco Waterfront — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/ciudad-bolivar-historic-centre.yaml)
+- Action: new
+- Scope: Tentative property since 2003; historic public streets and narrow Orinoco riverfront, no claim of exact property boundaries.
+- Representative coordinates: 8.13, -63.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://whc.unesco.org/en/tentativelists/1804/
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.1 / 8.5 / 8.7.
+- Categories: history:9.3 architecture:9.1 photography:9.1.
+- Overall: 87.45/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/mercedes-rio-negro-waterfront](../../../countries/UY/sights/mercedes-rio-negro-waterfront.yaml) | 8.1 / 8.3 / 8.5 / 8.6 / 8.5 | impact: 0.5; uniqueness: 0.5 vs peer |
+| [UY/maldonado-historic-centre](../../../countries/UY/sights/maldonado-historic-centre.yaml) | 7.9 / 8.1 / 8.6 / 8.3 / 8.2 | impact: 0.7; uniqueness: 0.7 vs peer |
+| [VE/coro-historic-centre](../../../countries/VE/sights/coro-historic-centre.yaml) | 8.5 / 9.1 / 9.4 / 7.7 / 7.9 | impact: 0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-sierra-la-culata — Sierra de la Culata National Park Highland Landscapes — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/sierra-la-culata.yaml)
+- Action: new
+- Scope: Desk-based distinct Andean park, ordinary permitted highland walks only, excludes Sierra Nevada and Mucubají; trail permissions unverified.
+- Representative coordinates: 8.75, -71.05; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.6 / 8.7 / 8.3 / 8.8.
+- Categories: nature:9.3 adventure:9.1 photography:9.3.
+- Overall: 86.85/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/valle-del-lunarejo](../../../countries/UY/sights/valle-del-lunarejo.yaml) | 8.3 / 8.4 / 8.5 / 8.4 / 8.2 | impact: 0.6; uniqueness: 0.2 vs peer |
+| [UY/quebrada-de-laureles](../../../countries/UY/sights/quebrada-de-laureles.yaml) | 8.8 / 8.9 / 8.7 / 8.7 / 8.8 | impact: 0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-yacambu-national-park — Yacambú National Park Cloud Forest and Birdwatching — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/yacambu-national-park.yaml)
+- Action: new
+- Scope: Desk-based cloud forest and birdwatching, designated visitor areas only; no reservoir or private route assumptions.
+- Representative coordinates: 9.71, -69.58; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.8 / 8.3 / 8.5.
+- Categories: nature:9.2 wildlife:9.2 photography:8.9.
+- Overall: 85.00/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/quebrada-de-laureles](../../../countries/UY/sights/quebrada-de-laureles.yaml) | 8.8 / 8.9 / 8.7 / 8.7 / 8.8 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [UY/paso-centurion-sierra-rios](../../../countries/UY/sights/paso-centurion-sierra-rios.yaml) | 8.6 / 8.8 / 8.9 / 8.4 / 8.7 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [VE/henri-pittier-national-park](../../../countries/VE/sights/henri-pittier-national-park.yaml) | 8.6 / 8.7 / 9.0 / 8.2 / 8.5 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ve-tobogan-de-la-selva — Puerto Ayacucho Tobogán de la Selva Natural Rock Waterscape — 2026-11-28
+
+- YAML: [source](../../../countries/VE/sights/tobogan-de-la-selva.yaml)
+- Action: new
+- Scope: Natural rock waterscape and public recreation area; safe swimming not assumed, separate from Orinoco Delta.
+- Representative coordinates: 5.55, -67.49; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://mrsvenezuela.com/en/state/amazonas
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.1 / 8.7 / 7.9.
+- Categories: nature:9.1 photography:9.0 adventure:8.8.
+- Overall: 84.45/100.
+- Decision: provisional worldwide score; current travel restrictions excluded from intrinsic assessment. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [UY/cerro-arequita](../../../countries/UY/sights/cerro-arequita.yaml) | 8.0 / 8.1 / 7.6 / 8.2 / 7.5 | impact: 0.6; uniqueness: 0.5 vs peer |
+| [UY/salto-del-penitente](../../../countries/UY/sights/salto-del-penitente.yaml) | 7.8 / 7.7 / 6.8 / 8.1 / 7.4 | impact: 0.8; uniqueness: 0.9 vs peer |
+| [VE/salto-la-llovizna](../../../countries/VE/sights/salto-la-llovizna.yaml) | 8.4 / 8.2 / 7.1 / 8.4 / 7.5 | impact: 0.2; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 297 scope decisions
+
+12 additions, 10 source-linked provisional, 2 desk-based provisional, 6 90+, 30 ranking-row comparisons (24 international, 6 domestic). VE 52 ranked / 55 total, +12 since baseline 43. Official UNESCO World Heritage inventory checked (https://whc.unesco.org/en/statesparties/ve/): 3/3 inscribed already represented, Coro and port component rows; all 3 tentative now represented by narrowly scoped visitor entries, boundaries not independently mapped. UNESCO intangible heritage distinct from property inscription; Yare representative public Dancing Devils observance, El Callao Carnival, Guarenas/Guatire Parranda grouped, San Juan coastal festive cycle grouped; no private ceremony access implied. Divina Pastora and Chinita recurring public programmes. Cerro Autana official natural monument (https://www.inparques.gob.ve/Monumentos%20Nacionales/cerro-autana.html), defer until community permission and defined visitor scope, no cave/summit access assumed. National park directory screen incomplete. FCDO advises against all travel to parts of Venezuela (https://www.gov.uk/foreign-travel-advice/venezuela); intrinsic scores not travel advice. Three legacy unassessed retained. Existing scores preserved. OPEN for remaining parks, natural monuments and public heritage. Coordinates approximate, current permissions, security and schedules unverified.
