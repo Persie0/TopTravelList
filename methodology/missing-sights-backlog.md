@@ -1604,3 +1604,16 @@ Seven additions, 28 peer rows. France 241 ranked / 252 total; 11 existing unasse
 - [x] FR — Château d’Oudon Medieval Keep and Panorama: 86.20/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 248 ranked / 259 total; 11 existing unassessed unchanged. Écomusée excludes three other Saint-Nazaire attractions; Turmelière excludes lodging; Marine de Loire is in Centre-Val de Loire. Next bounded screen: Rotate to Nouvelle-Aquitaine priority gaps: Bordeaux Cité du Vin, Bassins des Lumières, Dune du Pilat, Saint-Émilion underground monuments, La Rochelle aquarium, Île de Ré coastal trails, and Château de la Rochefoucauld (scope and duplicate checks). Full Python validation pending.
+
+### Pass 138 — Nouvelle-Aquitaine museum, coastal and castle experiences
+
+- [x] FR — Cité du Vin Bordeaux Wine Culture Museum: 89.90/100 (source-linked-unverified).
+- [x] FR — Bassins des Lumières Bordeaux Immersive Digital Art Centre: 89.80/100 (source-linked-unverified).
+- [x] FR — Saint-Émilion Underground Monuments and Monolithic Church: 89.80/100 (source-linked-unverified).
+- [x] FR — Aquarium La Rochelle Marine Discovery Museum: 88.25/100 (source-linked-unverified).
+- [x] FR — Île de Ré Coastal Cycling and Salt Marsh Trails: 89.45/100 (source-linked-unverified).
+- [x] FR — Château de La Rochefoucauld Renaissance Castle: 89.00/100 (source-linked-unverified).
+
+- [x] FR — Dune du Pilat already ranked 89.70; no duplicate or rescore.
+
+Six additions, 24 peer rows. France 254 ranked / 265 total; 11 existing unassessed unchanged. Saint-Émilion tour nested in broader landscape, separately scored; Ré excludes Vauban fortifications and separately operated attractions. Next bounded screen: La Rochelle historic harbour and towers, Rochefort Corderie Royale scope check, Hermione maritime experience scope check, Phare des Baleines, Île d’Oléron coastal trails, Château de Crazannes, and Bordeaux Musée d’Aquitaine (scope and duplicate checks). Full Python validation pending.

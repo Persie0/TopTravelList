@@ -9680,3 +9680,236 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-cite-du-vin-bordeaux — Cité du Vin Bordeaux Wine Culture Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cite-du-vin-bordeaux.yaml)
+- Action: new
+- Precise subject and limitations: Permanent exhibition and belvedere visit; excludes wider Bordeaux historic urban landscape and vineyard excursions. Modern museum significance assessed independently.
+- Location check: 44.86237, -0.55002; [published representative point](https://mapcarta.com/38546336), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.laciteduvin.com/en/permanent-exhibition?language=en); indexed excerpts inspected 2026-11-27. Operator describes eighteen modules and panoramic belvedere including a nonalcoholic option; https://www.bordeaux-metropole.fr/agenda/18259003_the-permanent-exhibition-at-the-cite-du-vin corroborates interactive and immersive exhibits. No wine-region heritage score transferred. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-vignoble-nantais](../../../countries/FR/sights/musee-vignoble-nantais.yaml) | 8.1 / 8.5 / 8.5 / 8.6 / 8.6 | impact: +0.9 vs peer; uniqueness: +0.6 vs peer. |
+| [PT/gaia-port-wine-lodges](../../../countries/PT/sights/gaia-port-wine-lodges.yaml) | 8.5 / 8.8 / 8.8 / 8.9 / 8.7 | impact: +0.5 vs peer; depth: +0.4 vs peer. |
+| [ES/rioja](../../../countries/ES/sights/rioja.yaml) | 8.8 / 8.9 / 9.0 / 9.0 / 9.1 | significance: -0.3 vs peer; impact: +0.2 vs peer. |
+| [FR/machines-ile-nantes](../../../countries/FR/sights/machines-ile-nantes.yaml) | 9.3 / 9.4 / 8.4 / 9.3 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Sculptural museum and sensory exhibits. |
+| Uniqueness | 9.1 | Distinct global wine-culture interpretation. |
+| Significance | 8.7 | Contemporary cultural institution with historical collections and interpretation. |
+| Experience | 9.1 | Interactive exhibition and panorama. |
+| Depth | 9.1 | Eighteen modules across six themes. |
+
+- Applicable categories: culture:9.3, architecture:9.3, food:9.2, photography:9.1.
+- Computed worldwide overall: 89.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-bassins-des-lumieres — Bassins des Lumières Bordeaux Immersive Digital Art Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bassins-des-lumieres.yaml)
+- Action: new
+- Precise subject and limitations: Immersive digital exhibitions and integrated site interpretation, not original artworks or the entire former submarine base. Changing programmes not counted as simultaneous.
+- Location check: 44.87064, -0.55949; [published representative point](https://mapcarta.com/N7746468016), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.bassins-lumieres.com/en/explore/bassins-des-lumieres-experience); indexed excerpts inspected 2026-11-27. Operator describes immersive art and base history; https://congress.bordeaux-tourism.co.uk/cultural-heritage/bassins-lumieres.html corroborates digital exhibition scope. No world-largest superlative used. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/machines-ile-nantes](../../../countries/FR/sights/machines-ile-nantes.yaml) | 9.3 / 9.4 / 8.4 / 9.3 / 9.0 | uniqueness: -0.3 vs peer; depth: -0.3 vs peer. |
+| [FR/jardins-etretat](../../../countries/FR/sights/jardins-etretat.yaml) | 8.9 / 9.2 / 8.5 / 8.9 / 8.4 | impact: +0.4 vs peer; depth: +0.3 vs peer. |
+| [JP/chichu-art-museum](../../../countries/JP/sights/chichu-art-museum.yaml) | 9.0 / 9.5 / 8.0 / 9.2 / 8.2 | depth: +0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [TR/istanbul-modern](../../../countries/TR/sights/istanbul-modern.yaml) | 8.6 / 8.6 / 8.6 / 8.9 / 8.7 | impact: +0.7 vs peer; uniqueness: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Monumental projections reflected in water. |
+| Uniqueness | 9.1 | Unusual former industrial basin exhibition setting. |
+| Significance | 8.4 | Contemporary digital art and adaptive reuse. |
+| Experience | 9.1 | Immersive audiovisual experience. |
+| Depth | 8.7 | Several projection environments. |
+
+- Applicable categories: culture:9.3, photography:9.4, architecture:9.0, family:9.0.
+- Computed worldwide overall: 89.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-saint-emilion-underground — Saint-Émilion Underground Monuments and Monolithic Church — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-emilion-underground.yaml)
+- Action: new
+- Precise subject and limitations: Four monuments on dedicated underground guided tour: hermitage, Trinity chapel, catacombs and monolithic church. Excludes bell tower, wider town streets and vineyard landscape. Nested in UNESCO jurisdiction, no separate inscription or transfer of landscape score.
+- Location check: 44.89326, -0.1563; [published representative point](https://mapcarta.com/W173279727), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://boutique.saint-emilion-tourisme.com/en/product/underground-st-emilion); indexed excerpts inspected 2026-11-27. Tour operator and https://www.grandlibournais-tourisme.com/en/cultural-heritage/underground-saint-emilion/ confirm the four monuments; https://whc.unesco.org/en/list/932 defines the broader cultural landscape. Parent overlap remains flagged for final audit. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [FR/paris-catacombs](../../../countries/FR/sights/paris-catacombs.yaml) | 9.0 / 9.4 / 9.0 / 8.8 / 8.4 | uniqueness: -0.2 vs peer; impact: +0.1 vs peer. |
+| [PT/carmo-convent-museum](../../../countries/PT/sights/carmo-convent-museum.yaml) | 8.8 / 8.9 / 8.8 / 8.6 / 8.2 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer. |
+| [IE/kylemore-abbey](../../../countries/IE/sights/kylemore-abbey.yaml) | 8.9 / 8.6 / 8.5 / 8.8 / 8.5 | uniqueness: +0.6 vs peer; significance: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Impressive excavated church interior. |
+| Uniqueness | 9.2 | Unusual coherent rock-cut religious complex. |
+| Significance | 9.0 | Medieval religious and settlement heritage. |
+| Experience | 8.8 | Dedicated guided circuit. |
+| Depth | 8.3 | Four closely linked monuments on compact visit. |
+
+- Applicable categories: architecture:9.4, history:9.3, culture:9.2.
+- Computed worldwide overall: 89.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-aquarium-la-rochelle — Aquarium La Rochelle Marine Discovery Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/aquarium-la-rochelle.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated aquarium exhibits, not nearby harbour or marine museum. Captive marine life experience, not a wild habitat.
+- Location check: 46.15329, -1.15061; [published representative point](https://mapcarta.com/24937026), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.aquarium-larochelle.com/en/visit/timetable-and-access/); indexed excerpts inspected 2026-11-27. Regional tourism describes Atlantic, Mediterranean and tropical displays https://www.royanatlantique.fr/en/visites-excursions/aquarium-la-rochelle-la-rochelle/; operator FAQ https://www.aquarium-larochelle.com/en/visit/visitor-faqs/ confirms visit format. No guaranteed sightings. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/oceanopolis-brest](../../../countries/FR/sights/oceanopolis-brest.yaml) | 9.0 / 9.0 / 8.9 / 9.2 / 9.2 | significance: -0.5 vs peer; uniqueness: -0.2 vs peer. |
+| [US/monterey-bay-aquarium](../../../countries/US/sights/monterey-bay-aquarium.yaml) | 9.1 / 9.1 / 8.8 / 9.2 / 9.1 | significance: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [US/georgia-aquarium](../../../countries/US/sights/georgia-aquarium.yaml) | 9.2 / 9.1 / 8.4 / 9.2 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [IT/genoa-aquarium](../../../countries/IT/sights/genoa-aquarium.yaml) | 8.7 / 8.4 / 8.3 / 9.0 / 8.9 | uniqueness: +0.4 vs peer; impact: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Varied marine displays. |
+| Uniqueness | 8.8 | Broad aquarium with international analogues. |
+| Significance | 8.4 | Marine education and regional institution. |
+| Experience | 9.1 | Established family-oriented circuit. |
+| Depth | 9.1 | Multiple marine environments. |
+
+- Applicable categories: nature:9.2, wildlife:9.2, family:9.4.
+- Computed worldwide overall: 88.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-ile-de-re-coastal-trails — Île de Ré Coastal Cycling and Salt Marsh Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ile-de-re-coastal-trails.yaml)
+- Action: new
+- Precise subject and limitations: Coastal and marsh cycling/walking circuits, excludes Vauban fortifications in Saint-Martin-de-Ré, separately operated lighthouse, museums and salt farm tours. Loix tide mill is representative marsh-side landmark, not an entrance.
+- Location check: 46.2161, -1.43936; [published representative point](https://mapcarta.com/W111156687), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.iledere.com/en/discover/cycling-on-ile-de-re-scenic-routes/); indexed excerpts inspected 2026-11-27. Tourist office documents coastal routes, woods and salt marsh paths; https://www.iledere.com/en/discover/welcome-to-the-island-of-re/re-the-island-by-bike/ corroborates route experience. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/ile-de-groix](../../../countries/FR/sights/ile-de-groix.yaml) | 9.0 / 9.0 / 8.6 / 9.0 / 8.9 | depth: +0.3 vs peer; experience: +0.2 vs peer. |
+| [FR/ile-de-brehat](../../../countries/FR/sights/ile-de-brehat.yaml) | 8.9 / 8.9 / 8.4 / 9.1 / 8.8 | depth: +0.4 vs peer; significance: +0.2 vs peer. |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | depth: +0.6 vs peer; significance: -0.2 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.6 vs peer; depth: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Coastal views and distinctive marsh scenery. |
+| Uniqueness | 8.9 | Connected salt marsh and coastal cycling landscape. |
+| Significance | 8.6 | Regional natural and cultural landscape. |
+| Experience | 9.2 | Extensive established cycling paths. |
+| Depth | 9.2 | Multiple routes and landscapes. |
+
+- Applicable categories: nature:9.2, photography:9.3, relaxation:9.3, adventure:9.1, beaches:9.0.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-la-rochefoucauld — Château de La Rochefoucauld Renaissance Castle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-la-rochefoucauld.yaml)
+- Action: new
+- Precise subject and limitations: Castle visitor circuit, libraries and archive-room tour as documented; excludes surrounding town and unrelated estates.
+- Location check: 45.74176, 0.38033; [published representative point](https://mapcarta.com/W75391661), inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateau-la-rochefoucauld.com/en/visits-and-contact/); indexed excerpts inspected 2026-11-27. Operator describes castle access and guided library and archive visits; mapped castle polygon supplies representative coordinate. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-cheverny](../../../countries/FR/sights/chateau-cheverny.yaml) | 8.9 / 8.9 / 8.7 / 9.0 / 9.0 | significance: +0.2 vs peer; experience: -0.1 vs peer. |
+| [FR/chateau-brissac](../../../countries/FR/sights/chateau-brissac.yaml) | 8.9 / 8.9 / 8.8 / 8.9 / 8.9 | significance: +0.1 vs peer; impact: +0.0 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | uniqueness: +0.2 vs peer; depth: +0.1 vs peer. |
+| [GB/dunluce-castle](../../../countries/GB/sights/dunluce-castle.yaml) | 8.8 / 8.7 / 8.6 / 8.6 / 7.7 | depth: +1.2 vs peer; significance: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Imposing Renaissance residence and galleries. |
+| Uniqueness | 8.9 | Distinct historic architectural ensemble. |
+| Significance | 8.9 | Regional aristocratic history. |
+| Experience | 8.9 | Self-guided and interpreted spaces. |
+| Depth | 8.9 | Several interior and exterior features. |
+
+- Applicable categories: architecture:9.3, history:9.2, photography:9.2, culture:9.1.
+- Computed worldwide overall: 89.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

@@ -1,0 +1,18 @@
+id: sight-fr-ile-de-re-coastal-trails
+name: "Île de Ré Coastal Cycling and Salt Marsh Trails"
+location:
+  country_code: FR
+  latitude: 46.2161
+  longitude: -1.43936
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.2
+    photography: 9.3
+    relaxation: 9.3
+    adventure: 9.1
+    beaches: 9.0
