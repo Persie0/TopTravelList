@@ -1374,3 +1374,15 @@ Seven additions, 28 peer rows. France 110 ranked / 121 total; 11 existing unasse
 - [x] FR — Parc Astérix Plailly: 88.60/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 117 ranked / 128 total; 11 existing unassessed unchanged. Marmottan and other specialist collections distinct; Le Bourget museum independent from ONERA; Conciergerie dedicated halls and prison separated from Sainte-Chapelle and Seine landscape; Vincennes keep and chapel grouped; Astérix park excludes hotels. Next bounded screen: Château de Chantilly, Château de Pierrefonds, Château de Malmaison, Musée national de la Renaissance Écouen, Musée des Arts et Métiers, Musée de l’Art moderne de Paris, and Musée des Arts Décoratifs (Louvre scope check). Full Python validation pending.
+
+### Pass 119 — France château estates and specialist museums
+
+- [x] FR — Château de Chantilly and Musée Condé: 92.25/100 (source-linked-unverified).
+- [x] FR — Château de Pierrefonds: 89.45/100 (source-linked-unverified).
+- [x] FR — Château de Malmaison and Napoleonic Collections: 88.55/100 (source-linked-unverified).
+- [x] FR — Château d’Écouen and National Museum of the Renaissance: 90.00/100 (source-linked-unverified).
+- [x] FR — Musée des Arts et Métiers Paris: 91.20/100 (source-linked-unverified).
+- [x] FR — Musée d’Art Moderne de Paris: 90.45/100 (source-linked-unverified).
+- [x] FR — Musée des Arts Décoratifs Paris: 91.20/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 124 ranked / 135 total; 11 existing unassessed unchanged. Chantilly estate and Condé collection grouped, Écouen castle and Renaissance museum grouped, Pierrefonds reconstruction disclosed, Malmaison excludes Bois-Préau, Arts Décoratifs independent Louvre palace tenant museum, MAM independent from Pompidou. Next bounded screen: Château d'Amboise, Clos Lucé, Château de Cheverny, Château de Blois, Château d'Azay-le-Rideau, Château de Villandry, and Château de Chaumont-sur-Loire (Loire Valley parent scope checks). Full Python validation pending.

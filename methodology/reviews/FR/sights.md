@@ -4590,3 +4590,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-chateau-chantilly — Château de Chantilly and Musée Condé — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-chantilly.yaml)
+- Action: new
+- Precise subject and limitations: Château, Condé collections, grounds and great stables grouped as documented estate experience; no separate museum or stables record.
+- Location check: 49.193846, 2.485203; [published representative point](https://chateaudechantilly.fr/en/access/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://chateaudechantilly.fr/en/access/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontainebleau](../../../countries/FR/sights/fontainebleau.yaml) | 9.2 / 9.1 / 9.4 / 9.1 / 9.3 | significance: -0.2 vs peer; impact: +0.1 vs peer. |
+| [FR/vaux-le-vicomte](../../../countries/FR/sights/vaux-le-vicomte.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.1 | depth: +0.2 vs peer; impact: +0.1 vs peer. |
+| [FR/chambord](../../../countries/FR/sights/chambord.yaml) | 9.3 / 9.3 / 9.2 / 9.0 / 9.0 | depth: +0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [IT/caserta](../../../countries/IT/sights/caserta.yaml) | 9.4 / 9.2 / 9.3 / 9.1 / 9.4 | impact: -0.1 vs peer; significance: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Exceptional palace and grounds. |
+| Uniqueness | 9.2 | Distinct art collection and equestrian estate. |
+| Significance | 9.2 | Major French aristocratic and artistic heritage. |
+| Experience | 9.1 | Extensive estate visitor experience. |
+| Depth | 9.3 | Multiple collections and complementary spaces. |
+
+- Applicable categories: architecture:9.4, culture:9.4, history:9.3, photography:9.3.
+- Computed worldwide overall: 92.25/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-pierrefonds — Château de Pierrefonds — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-pierrefonds.yaml)
+- Action: new
+- Precise subject and limitations: Castle and immediate park grouped; nineteenth-century reconstruction by Viollet-le-Duc distinguished from original medieval fabric (https://www.culture.gouv.fr/rechercher-une-publication-du-ministere-de-la-culture/repertoire-des-informations-publiques/Monuments-nationaux/chateau-de-pierrefonds).
+- Location check: 49.34694, 2.98028; [published representative point](https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Pierrefonds), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateau-pierrefonds.fr/en/visit/visits-and-activities); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-vincennes](../../../countries/FR/sights/chateau-vincennes.yaml) | 9.0 / 8.9 / 9.2 / 8.8 / 8.9 | significance: -0.4 vs peer; depth: -0.2 vs peer. |
+| [FR/chambord](../../../countries/FR/sights/chambord.yaml) | 9.3 / 9.3 / 9.2 / 9.0 / 9.0 | significance: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | significance: -0.3 vs peer; depth: +0.3 vs peer. |
+| [IT/miramare-castle](../../../countries/IT/sights/miramare-castle.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.7 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Dramatic castle silhouette. |
+| Uniqueness | 9.0 | Distinct historicist reconstruction. |
+| Significance | 8.8 | Important architectural restoration heritage. |
+| Experience | 8.9 | Dedicated monument visit. |
+| Depth | 8.7 | Multiple courtyards and rooms. |
+
+- Applicable categories: architecture:9.4, photography:9.3, history:9.1.
+- Computed worldwide overall: 89.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-malmaison — Château de Malmaison and Napoleonic Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-malmaison.yaml)
+- Action: new
+- Precise subject and limitations: Malmaison residence, furnished rooms and immediate grounds only; excludes separate Bois-Préau building and wider estate.
+- Location check: 48.87099, 2.16735; [published representative point](https://mapcarta.com/34756728), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://musees-nationaux-malmaison.fr/chateau-malmaison/en/practical-information); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/jacquemart-andre](../../../countries/FR/sights/jacquemart-andre.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | impact: -0.2 vs peer; significance: +0.2 vs peer. |
+| [FR/invalides-army-museum](../../../countries/FR/sights/invalides-army-museum.yaml) | 9.2 / 9.1 / 9.4 / 9.0 / 9.3 | depth: -0.7 vs peer; impact: -0.5 vs peer. |
+| [FR/fontainebleau](../../../countries/FR/sights/fontainebleau.yaml) | 9.2 / 9.1 / 9.4 / 9.1 / 9.3 | depth: -0.7 vs peer; impact: -0.5 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Rich furnished historic rooms. |
+| Uniqueness | 8.9 | Distinct intimate Napoleonic residence. |
+| Significance | 9.2 | Important Napoleonic heritage. |
+| Experience | 8.8 | Dedicated historic house visit. |
+| Depth | 8.6 | Modest but substantial collection. |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:9.0.
+- Computed worldwide overall: 88.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-ecouen — Château d’Écouen and National Museum of the Renaissance — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-ecouen.yaml)
+- Action: new
+- Precise subject and limitations: Renaissance château and national collection grouped; no separate castle record. Ministry reference https://www.culture.gouv.fr/en/rechercher-une-publication-du-ministere-de-la-culture/repertoire-des-informations-publiques/Musees-des-Beaux-arts/musee-de-la-renaissance-au-chateau-d-ecouen?step=288669.
+- Location check: 49.017291, 2.378554; [published representative point](https://musee-renaissance.fr/acces-0), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://musee-renaissance.fr/informations-pratiques); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-cluny](../../../countries/FR/sights/musee-cluny.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer. |
+| [FR/chateau-vincennes](../../../countries/FR/sights/chateau-vincennes.yaml) | 9.0 / 8.9 / 9.2 / 8.8 / 8.9 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/jacquemart-andre](../../../countries/FR/sights/jacquemart-andre.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | uniqueness: +0.2 vs peer; depth: +0.2 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Fine Renaissance rooms and collections. |
+| Uniqueness | 9.1 | Distinct combined architecture and decorative arts. |
+| Significance | 9.1 | Major national Renaissance institution. |
+| Experience | 8.9 | Dedicated galleries. |
+| Depth | 9.0 | Broad collection across media. |
+
+- Applicable categories: architecture:9.3, culture:9.3, history:9.3.
+- Computed worldwide overall: 90.00/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-arts-et-metiers — Musée des Arts et Métiers Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/arts-et-metiers.yaml)
+- Action: new
+- Precise subject and limitations: Historic scientific instruments, inventions and engineering collections in former abbey; excludes university and metro station. Distinct from Cité des Sciences and Le Bourget.
+- Location check: 48.8661, 2.35541; [published representative point](https://mapcarta.com/N247618453), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.arts-et-metiers.net/musee/visitor-information); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/cite-des-sciences](../../../countries/FR/sights/cite-des-sciences.yaml) | 8.8 / 8.8 / 8.7 / 9.2 / 9.3 | significance: +0.5 vs peer; uniqueness: +0.4 vs peer. |
+| [FR/air-space-museum-le-bourget](../../../countries/FR/sights/air-space-museum-le-bourget.yaml) | 9.2 / 9.2 / 9.2 / 9.0 / 9.3 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | impact: +0.2 vs peer; uniqueness: +0.2 vs peer. |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | significance: -0.2 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Impressive historic machines and scientific objects. |
+| Uniqueness | 9.2 | Distinct collection of technological inventions. |
+| Significance | 9.2 | Important scientific and industrial heritage. |
+| Experience | 9.0 | Dedicated themed galleries. |
+| Depth | 9.3 | Extensive multidisciplinary collections. |
+
+- Applicable categories: history:9.4, culture:9.2, family:9.2, architecture:9.0.
+- Computed worldwide overall: 91.20/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-art-moderne-paris — Musée d’Art Moderne de Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-art-moderne-paris.yaml)
+- Action: new
+- Precise subject and limitations: Municipal modern art museum, not Centre Pompidou or independently operated Palais de Tokyo contemporary art venue. No particular temporary loan assumed.
+- Location check: 48.86431, 2.29779; [published representative point](https://mapcarta.com/fr/31164956), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.mam.paris.fr/en/one-venue-one-collection); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/centre-pompidou](../../../countries/FR/sights/centre-pompidou.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.4 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [FR/petit-palais](../../../countries/FR/sights/petit-palais.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.1 | uniqueness: +0.1 vs peer; significance: +0.1 vs peer. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.1 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | depth: -0.1 vs peer; impact: +0.0 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Major modern art displays and murals. |
+| Uniqueness | 9.0 | Distinct municipal collection. |
+| Significance | 9.1 | Important twentieth-century art heritage. |
+| Experience | 9.1 | Dedicated galleries. |
+| Depth | 9.1 | Broad modern art holdings. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:8.9.
+- Computed worldwide overall: 90.45/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-arts-decoratifs — Musée des Arts Décoratifs Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-arts-decoratifs.yaml)
+- Action: new
+- Precise subject and limitations: Independent decorative arts and design collection and admission route in western Louvre palace wing; not Louvre Museum galleries or Nissim de Camondo. Official entrance at 107 rue de Rivoli (https://dr.madparis.fr/Acces-34).
+- Location check: 48.86317, 2.33295; [published representative point](https://mapcarta.com/31907722), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://madparis.fr/Opening-hours-and-admission-fees-1534); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/louvre](../../../countries/FR/sights/louvre.yaml) | 9.6 / 9.6 / 9.8 / 9.4 / 9.8 | impact: -0.6 vs peer; significance: -0.6 vs peer. |
+| [FR/musee-cluny](../../../countries/FR/sights/musee-cluny.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | depth: +0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/jacquemart-andre](../../../countries/FR/sights/jacquemart-andre.yaml) | 8.9 / 8.9 / 9.0 / 8.9 / 8.8 | depth: +0.5 vs peer; uniqueness: +0.3 vs peer. |
+| [IT/capitoline-museums](../../../countries/IT/sights/capitoline-museums.yaml) | 9.1 / 9.1 / 9.4 / 8.9 / 9.2 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Rich period rooms and design displays. |
+| Uniqueness | 9.2 | Distinct decorative arts collection. |
+| Significance | 9.2 | Important design and material culture heritage. |
+| Experience | 9.0 | Dedicated multi-floor museum experience. |
+| Depth | 9.3 | Extensive collections across centuries. |
+
+- Applicable categories: culture:9.4, history:9.3, architecture:9.0.
+- Computed worldwide overall: 91.20/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
