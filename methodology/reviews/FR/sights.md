@@ -8631,3 +8631,236 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-musee-arts-nantes — Musée d’Arts de Nantes Fine Arts Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-arts-nantes.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated art museum and its integrated historic and contemporary galleries, not nearby castle museum or botanical garden.
+- Location check: 47.2195, -1.54768; [published representative point](https://mapcarta.com/fr/W142523574), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://museedartsdenantes.nantesmetropole.fr/collections/); indexed excerpts or source text inspected 2026-11-27. Museum identifies four collection periods and over 14,000 catalogued works (not all exhibited); https://museedartsdenantes.nantesmetropole.fr/musee/ses-espaces/ confirms integrated historic and contemporary galleries. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/rouen-fine-arts](../../../countries/FR/sights/rouen-fine-arts.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.1 | depth: +0.1 vs peer; impact: +0.0 vs peer. |
+| [FR/angers-fine-arts](../../../countries/FR/sights/angers-fine-arts.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | significance: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Substantial art galleries and renovated architecture. |
+| Uniqueness | 8.9 | Broad historic and contemporary collection comparable to major regional museums. |
+| Significance | 9.1 | Significant French public art collection. |
+| Experience | 9.0 | Coherent museum itinerary. |
+| Depth | 9.2 | Multiple centuries and gallery spaces. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:9.1.
+- Computed worldwide overall: 89.85/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-jardin-des-plantes-nantes — Jardin des Plantes de Nantes Botanical Garden — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/jardin-des-plantes-nantes.yaml)
+- Action: new
+- Precise subject and limitations: Municipal botanical garden and greenhouse collection, not adjacent art museum or other Nantes parks. Municipal open-data representative point.
+- Location check: 47.219670206, -1.543081259; [published representative point](https://data.nantesmetropole.fr/explore/dataset/244400404_parcs-jardins-nantes/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://metropole.nantes.fr/lieu/jardin-des-plantes); indexed excerpts or source text inspected 2026-11-27. Municipality documents 7.3 hectares and greenhouses; plant counts vary between sources and are not used as precise scoring claims. https://www.echosciences-nantesmetropole.fr/lieux/jardin-des-plantes documents camellia collection recognition. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/jardin-georges-delaselle](../../../countries/FR/sights/jardin-georges-delaselle.yaml) | 8.7 / 8.8 / 8.5 / 8.9 / 8.6 | uniqueness: -0.2 vs peer; depth: +0.2 vs peer. |
+| [PT/madeira-botanical-garden](../../../countries/PT/sights/madeira-botanical-garden.yaml) | 8.7 / 8.5 / 8.5 / 8.9 / 8.7 | depth: +0.1 vs peer; impact: -0.1 vs peer. |
+| [GB/kew-gardens](../../../countries/GB/sights/kew-gardens.yaml) | 8.9 / 9.1 / 9.4 / 9.2 / 9.3 | significance: -0.8 vs peer; uniqueness: -0.5 vs peer. |
+| [IT/padua-garden](../../../countries/IT/sights/padua-garden.yaml) | 8.5 / 9.0 / 9.3 / 8.7 / 8.3 | significance: -0.7 vs peer; depth: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Attractive planted landscapes. |
+| Uniqueness | 8.6 | Urban botanical garden with distinctive plant collections. |
+| Significance | 8.6 | Regional horticultural significance. |
+| Experience | 8.9 | Relaxed walking and plant discovery. |
+| Depth | 8.8 | Multiple gardens and greenhouse areas. |
+
+- Applicable categories: nature:9.1, photography:9.0, relaxation:9.2, family:9.0.
+- Computed worldwide overall: 86.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-nantes-cathedral — Nantes Saint-Pierre-et-Saint-Paul Cathedral — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nantes-cathedral.yaml)
+- Action: new
+- Precise subject and limitations: Cathedral building and established interior visit, excludes wider historic district, castle and independent chapels. Ongoing restoration not a score penalty.
+- Location check: 47.21837, -1.5502; [published representative point](https://mapcarta.com/36593152), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://metropole.nantes.fr/que-faire-a-nantes/les-incontournables-du-patrimoine-nantais); indexed excerpts or source text inspected 2026-11-27. Municipality confirms listed cathedral; https://www.culture.gouv.fr/regions/drac-pays-de-la-loire/cathedrale-de-nantes documents September 2025 reopening; https://metropole.nantes.fr/que-faire-a-nantes/agenda/75248429_la-cathedrale-et-son-quartier-visite-guidee-9386407 confirms Gothic architecture and nave scale. No guarantee of unrestricted interior access. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/bourges-cathedral](../../../countries/FR/sights/bourges-cathedral.yaml) | 9.1 / 9.1 / 9.3 / 8.8 / 8.4 | significance: -0.3 vs peer; uniqueness: -0.3 vs peer. |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | significance: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [ES/palma-cathedral](../../../countries/ES/sights/palma-cathedral.yaml) | 9.2 / 8.8 / 9.1 / 8.8 / 8.7 | impact: -0.2 vs peer; depth: -0.2 vs peer. |
+| [GB/st-pauls](../../../countries/GB/sights/st-pauls.yaml) | 9.1 / 8.9 / 9.3 / 9.0 / 8.7 | significance: -0.3 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Monumental Gothic interior and facade. |
+| Uniqueness | 8.8 | Distinct but comparable French cathedral architecture. |
+| Significance | 9.0 | Regional episcopal and ducal heritage. |
+| Experience | 8.8 | Dedicated architectural visit. |
+| Depth | 8.5 | Single cathedral with multiple artistic features. |
+
+- Applicable categories: architecture:9.4, history:9.3, culture:9.1, photography:9.1.
+- Computed worldwide overall: 88.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-tiffauges — Château de Tiffauges Medieval Fortress and Demonstrations — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-tiffauges.yaml)
+- Action: new
+- Precise subject and limitations: Fortress ruins, interpreted medieval history and established demonstrations; excludes Puy du Fou and other nearby sites; legends not treated as history.
+- Location check: 47.01579, -1.114595; [published representative point](https://www.outdooractive.com/en/poi/vendee/le-chateau-de-tiffauges/804435658/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.vendeebocage.fr/site-culturel/le-chateau-de-tiffauges/); indexed excerpts or source text inspected 2026-11-27. Vendée tourism documents fortress and programmed interpretation; regional tourism supplied GPS on Outdooractive and confirms family visits and displays. No absolute superlative asserted. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-fougeres](../../../countries/FR/sights/chateau-fougeres.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 8.9 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+| [FR/chateau-falaise](../../../countries/FR/sights/chateau-falaise.yaml) | 8.9 / 8.9 / 9.2 / 8.8 / 8.7 | significance: -0.4 vs peer; experience: +0.2 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.4 vs peer; impact: -0.3 vs peer. |
+| [GB/caernarfon-castle](../../../countries/GB/sights/caernarfon-castle.yaml) | 9.0 / 9.0 / 9.2 / 8.9 / 8.6 | significance: -0.4 vs peer; depth: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Large fortress remains. |
+| Uniqueness | 8.9 | Unusual integration of medieval engineering interpretation. |
+| Significance | 8.8 | Regional medieval defensive history. |
+| Experience | 9.0 | Guided interpretation and demonstrations. |
+| Depth | 8.8 | Multiple ruins and educational exhibits. |
+
+- Applicable categories: history:9.2, architecture:9.1, family:9.2, culture:9.1.
+- Computed worldwide overall: 88.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-logis-chabotterie — Logis de la Chabotterie Historic Manor and Estate — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/logis-chabotterie.yaml)
+- Action: new
+- Precise subject and limitations: Furnished manor, estate and integrated historical interpretation; distinct from Historial museum. GPS marks mapped on-site visitor information point.
+- Location check: 46.87958, -1.40566; [published representative point](https://mapcarta.com/N3796206002), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.payssaintgilles-tourisme.fr/patrimoine-culturel/le-logis-de-la-chabotterie/); indexed excerpts or source text inspected 2026-11-27. Tourist office documents ten furnished historical rooms; https://www.cirkwi.com/en/point-interet/459327-le-logis-de-la-chabotterie confirms estate visit. Coordinates are representative rather than building centroid. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-serrant](../../../countries/FR/sights/chateau-serrant.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.9 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/chateau-kerjean](../../../countries/FR/sights/chateau-kerjean.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 8.8 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | impact: -0.4 vs peer; depth: -0.1 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | significance: +0.4 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Preserved furnished rooms and country estate. |
+| Uniqueness | 8.6 | Regional manor with interpreted history. |
+| Significance | 8.8 | Regional eighteenth-century history. |
+| Experience | 8.8 | Dedicated estate and room visit. |
+| Depth | 8.7 | Ten historic rooms and grounds. |
+
+- Applicable categories: history:9.2, culture:9.0, architecture:8.9, photography:8.9.
+- Computed worldwide overall: 86.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-historial-vendee — Historial de la Vendée Regional History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/historial-vendee.yaml)
+- Action: new
+- Precise subject and limitations: Regional museum permanent collections and integrated children's museum; excludes separately located memorial and Logis de la Chabotterie, no claim historical narratives are exhaustive.
+- Location check: 46.845768, -1.481432; [published representative point](https://www.outdooractive.com/fr/poi/vendee/historial-de-la-vendee/804435664/), coordinate evidence inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.vendee.fr/vibrer-en-vendee/se-nourrir-de-culture-et-dhistoire/lieux-de-decouverte-et-de-spectacles); indexed excerpts or source text inspected 2026-11-27. Department documents chronological interpretation; https://pop.culture.gouv.fr/notice/museo/M1121 confirms museum status and collection scale; regional tourism supplies GPS. https://www.tourisme-vie-et-boulogne.fr/la-destination/patrimoine/historial-de-la-vendee/ distinguishes adjacent memorial. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | significance: +0.1 vs peer; experience: -0.1 vs peer. |
+| [IE/national-museum-archaeology](../../../countries/IE/sights/national-museum-archaeology.yaml) | 8.5 / 8.7 / 9.1 / 8.7 / 8.8 | experience: +0.2 vs peer; significance: -0.2 vs peer. |
+| [FR/angers-fine-arts](../../../countries/FR/sights/angers-fine-arts.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 9.0 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer. |
+| [FR/nantes-ducal-castle](../../../countries/FR/sights/nantes-ducal-castle.yaml) | 9.1 / 9.0 / 9.2 / 9.0 / 9.2 | impact: -0.5 vs peer; significance: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Distinctive contemporary building and exhibits. |
+| Uniqueness | 8.8 | Immersive regional historical interpretation. |
+| Significance | 8.9 | Regional archaeological and historical heritage. |
+| Experience | 8.9 | Interactive museum visit. |
+| Depth | 9.0 | Multiple time periods and galleries. |
+
+- Applicable categories: history:9.2, culture:9.2, family:9.1, architecture:8.9.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

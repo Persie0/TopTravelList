@@ -1555,3 +1555,16 @@ Six additions, 24 peer rows. France 214 ranked / 225 total; 11 existing unassess
 - [x] FR — Brière Marsh Traditional Boat Trails: 87.25/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 221 ranked / 232 total; 11 existing unassessed unchanged. Espadon separate from Escal’Atlantic; conflicting Espadon and Plessis-Bourré coordinates recorded and corroborated alternatives used; Montsoreau independent castle museum, not whole Loire landscape; Angers excludes David d’Angers gallery; Brière distinct from Guérande and Poitevin wetlands. Next bounded screen: Nantes Musée d’Arts, Nantes Jardin des Plantes, Nantes Cathedral, Passage du Gois scope check, Château de Tiffauges, Logis de la Chabotterie, and Historial de la Vendée (scope and duplicate checks). Full Python validation pending.
+
+### Pass 134 — Nantes cultural attractions and Vendée heritage
+
+- [x] FR — Musée d’Arts de Nantes Fine Arts Museum: 89.85/100 (source-linked-unverified).
+- [x] FR — Jardin des Plantes de Nantes Botanical Garden: 86.65/100 (source-linked-unverified).
+- [x] FR — Nantes Saint-Pierre-et-Saint-Paul Cathedral: 88.70/100 (source-linked-unverified).
+- [x] FR — Château de Tiffauges Medieval Fortress and Demonstrations: 88.55/100 (source-linked-unverified).
+- [x] FR — Logis de la Chabotterie Historic Manor and Estate: 86.50/100 (source-linked-unverified).
+- [x] FR — Historial de la Vendée Regional History Museum: 87.95/100 (source-linked-unverified).
+
+- [x] FR — Passage du Gois: included in noirmoutier-island.yaml (88.45/100); no duplicate or rescore.
+
+Six additions, 24 peer rows. France 227 ranked / 238 total; 11 existing unassessed unchanged. Nantes Cathedral reopening in September 2025 documented, ongoing restoration does not penalize intrinsic experience; Historial excludes adjacent memorial; Chabotterie distinct from Historial. Next bounded screen: Abbaye de Maillezais, Abbaye de Nieul-sur-l’Autise, Château de Clisson and historic town, Haras de la Vendée, Musée Jules Verne Nantes, Le Chronographe Rezé, and Château de la Flocellière (scope and duplicate checks). Full Python validation pending.

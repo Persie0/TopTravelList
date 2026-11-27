@@ -1,0 +1,16 @@
+id: sight-fr-musee-arts-nantes
+name: "Musée d’Arts de Nantes Fine Arts Museum"
+location:
+  country_code: FR
+  latitude: 47.2195
+  longitude: -1.54768
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 9.1

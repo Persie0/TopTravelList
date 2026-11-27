@@ -1,0 +1,17 @@
+id: sight-fr-jardin-des-plantes-nantes
+name: "Jardin des Plantes de Nantes Botanical Garden"
+location:
+  country_code: FR
+  latitude: 47.219670206
+  longitude: -1.543081259
+scores:
+  impact: 8.6
+  uniqueness: 8.6
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    nature: 9.1
+    photography: 9.0
+    relaxation: 9.2
+    family: 9.0
