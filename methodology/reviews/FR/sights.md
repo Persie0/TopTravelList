@@ -12493,3 +12493,647 @@ Peer ranking rows checked; individual YAML and additional international comparis
 - Overall: 88.00/100.
 - Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
 - Verification pending: independent factual and coordinate checks, full validation.
+
+## sight-fr-la-verna — La Verna Underground Chamber and Guided Cave Tours — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/la-verna.yaml)
+- Action: new
+- Scope: Large chamber and established guided exploration routes; no claim of tentative UNESCO membership.
+- Representative coordinates: 42.9960479736, -0.8202459812; published representative point (see sources).
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.0 / 9.1 / 9.0.
+- Categories: nature:9.4, adventure:9.4, photography:9.3.
+- Overall: 92.35/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.laverna.fr/en/touristic-visits ; https://www.i-s-c-a.org/show-cave/192-grotte-de-la-verna ; https://www.tourisme64.com/en/activities/sainte-engrace/PNAAQU064FS0002L-grotte-de-la-verna/.
+- Research rationale: Exceptional chamber scale and guided walks, with independent show-cave association coordinates. Not claiming a global size record.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/gouffre-proumeyssac](../../../countries/FR/sights/gouffre-proumeyssac.yaml) | 8.9 / 8.9 / 8.6 / 8.9 / 8.2 | depth: +0.8 vs peer; impact: +0.5 vs peer |
+| [FR/grotte-villars](../../../countries/FR/sights/grotte-villars.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.4 | impact: +0.7 vs peer; depth: +0.6 vs peer |
+| [FR/kakuetta-gorge](../../../countries/FR/sights/kakuetta-gorge.yaml) | 9.0 / 8.9 / 8.4 / 9.0 / 8.4 | significance: +0.6 vs peer; depth: +0.6 vs peer |
+| [FR/gavarnie](../../../countries/FR/sights/gavarnie.yaml) | 9.5 / 9.3 / 9.0 / 9.1 / 8.8 | depth: +0.2 vs peer; impact: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-gouffre-padirac — Gouffre de Padirac Underground River and Cave — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/gouffre-padirac.yaml)
+- Action: new
+- Scope: Sinkhole descent, underground boat and walking circuit; not whole inaccessible cave system.
+- Representative coordinates: 44.8655556, 1.7508333; published representative point (see sources).
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.4 / 9.0 / 9.4 / 9.1.
+- Categories: nature:9.4, adventure:9.4, photography:9.4, family:9.3.
+- Overall: 92.90/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.padirac.fr/le-gouffre ; https://www.i-s-c-a.org/show-cave/187-gouffre-de-padirac ; https://www.gouffre-de-padirac.com/archives/medias/download/pdf/gdp_brochure_groupes_ce_en.pdf ; https://www.pays-bergerac-tourisme.com/en/diffusio/padirac/le-gouffre-de-padirac_TFOPNAAQU024V502IH7.
+- Research rationale: 103m descent, subterranean boating and huge dome; representative GPS from operator indexed brochure text. Stronger experiential breadth than standard show caves.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/gouffre-proumeyssac](../../../countries/FR/sights/gouffre-proumeyssac.yaml) | 8.9 / 8.9 / 8.6 / 8.9 / 8.2 | depth: +0.9 vs peer; impact: +0.5 vs peer |
+| [FR/grotte-villars](../../../countries/FR/sights/grotte-villars.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.4 | impact: +0.7 vs peer; depth: +0.7 vs peer |
+| [FR/verdon](../../../countries/FR/sights/verdon.yaml) | 9.5 / 9.2 / 8.8 / 9.2 / 9.2 | uniqueness: +0.2 vs peer; significance: +0.2 vs peer |
+| [FR/gavarnie](../../../countries/FR/sights/gavarnie.yaml) | 9.5 / 9.3 / 9.0 / 9.1 / 8.8 | experience: +0.3 vs peer; depth: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-pech-merle — Pech Merle Decorated Cave and Prehistory Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/pech-merle.yaml)
+- Action: new
+- Scope: Original paintings and integrated museum; separate from Vézère valley UNESCO components.
+- Representative coordinates: 44.507, 1.644; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.0 / 9.0.
+- Categories: history:9.4, culture:9.4, nature:9.1.
+- Overall: 92.10/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://en.pechmerle.com/the-prehistory-center/the-pech-merle-cave/ ; https://www.grottesdefrance.org/en/cave-aven-abyss/grotte-prehistorique-et-musee-du-pech-merle-en/ ; https://en.pechmerle.com/.
+- Research rationale: Authentic prehistoric art including spotted horses and companion museum. Original works justify greater historical value than replicas; significance below global original Chauvet anchor.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/vezere-caves](../../../countries/FR/sights/vezere-caves.yaml) | 8.7 / 9.3 / 9.6 / 8.8 / 8.9 | impact: +0.4 vs peer; significance: -0.2 vs peer |
+| [FR/lascaux-iv](../../../countries/FR/sights/lascaux-iv.yaml) | 8.9 / 9.2 / 8.6 / 9.2 / 9.0 | significance: +0.8 vs peer; impact: +0.2 vs peer |
+| [FR/chauvet-replica](../../../countries/FR/sights/chauvet-replica.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.5 | significance: +0.6 vs peer; depth: +0.5 vs peer |
+| [FR/musee-national-prehistoire](../../../countries/FR/sights/musee-national-prehistoire.yaml) | 8.8 / 9.2 / 9.4 / 8.9 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-grotte-niaux — Grotte de Niaux Original Prehistoric Paintings — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/grotte-niaux.yaml)
+- Action: new
+- Scope: Authentic Salon Noir paintings and guided cave route; excludes separate prehistory park.
+- Representative coordinates: 42.823, 1.591; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 8.9 / 8.8.
+- Categories: history:9.4, culture:9.4, adventure:9.2.
+- Overall: 91.75/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.ariegepyrenees.com/en/loisir-sportif/grotte-de-niaux/ ; https://sites-touristiques-ariege.oxygeno.fr/grottedeniaux ; https://www.grottesdefrance.org/en/cave-aven-abyss/grotte-de-niaux-en/.
+- Research rationale: Rare original prehistoric animal paintings visited with guided lamps. Narrower museum depth than Pech Merle integrated experience; original archaeological significance retained.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/vezere-caves](../../../countries/FR/sights/vezere-caves.yaml) | 8.7 / 9.3 / 9.6 / 8.8 / 8.9 | impact: +0.4 vs peer; significance: -0.2 vs peer |
+| [FR/lascaux-iv](../../../countries/FR/sights/lascaux-iv.yaml) | 8.9 / 9.2 / 8.6 / 9.2 / 9.0 | significance: +0.8 vs peer; experience: -0.3 vs peer |
+| [FR/chauvet-replica](../../../countries/FR/sights/chauvet-replica.yaml) | 8.8 / 9.0 / 8.8 / 9.0 / 8.5 | significance: +0.6 vs peer; uniqueness: +0.4 vs peer |
+| [FR/grotte-villars](../../../countries/FR/sights/grotte-villars.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.4 | significance: +0.6 vs peer; impact: +0.4 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-rocamadour-cliffside-town — Rocamadour Cliffside Historic Town and Castle Ramparts — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/rocamadour-cliffside-town.yaml)
+- Action: new
+- Scope: Cliffside streets, panoramic views and castle ramparts; excludes standalone credit for Saint-Sauveur and Saint-Amadour crypt listed in Santiago property.
+- Representative coordinates: 44.799, 1.618; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.2 / 8.9 / 9.0 / 8.8.
+- Categories: photography:9.4, architecture:9.4, history:9.2, culture:9.1.
+- Overall: 91.30/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-occitanie.com/en/rail-tour/gares-etapes/rocamadour/ ; https://www.visit-dordogne-valley.co.uk/discover/cultural-heritage/villages-to-visit/rocamadour ; https://whc.unesco.org/document/154481.
+- Research rationale: Extraordinary vertical townscape and accessible rampart viewpoints; listed church and crypt excluded from standalone credit. Historical context still relevant; flagged visual overlap.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/carcassonne-core](../../../countries/FR/sights/carcassonne-core.yaml) | 9.4 / 9.2 / 9.2 / 9.1 / 8.9 | significance: -0.3 vs peer; experience: -0.1 vs peer |
+| [FR/dinan-historic-centre](../../../countries/FR/sights/dinan-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.0 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | impact: +0.5 vs peer; uniqueness: +0.4 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saint-cirq-lapopie — Saint-Cirq-Lapopie Cliffside Medieval Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-cirq-lapopie.yaml)
+- Action: new
+- Scope: Preserved village and immediate viewpoints, excludes Pech Merle.
+- Representative coordinates: 44.464, 1.679; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.0 / 8.8 / 9.1 / 8.8.
+- Categories: photography:9.4, architecture:9.3, relaxation:9.2, culture:9.1.
+- Overall: 90.45/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-occitanie.com/en/fiche/poi/saint-cirq-lapopie-saint-cirq-lapopie_TFOPOIMIP0460000093/ ; https://www.parc-causses-du-quercy.fr/fiche-tourisme/parcours-decouverte-de-saint-cirq-lapopie/.
+- Research rationale: Preserved medieval village around 100m above the Lot, exceptional scenic coherence and walking experience; below large fortified town ensembles in historical breadth.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dinan-historic-centre](../../../countries/FR/sights/dinan-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.0 | impact: +0.3 vs peer; significance: -0.2 vs peer |
+| [FR/la-roque-gageac](../../../countries/FR/sights/la-roque-gageac.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | impact: +0.3 vs peer; significance: +0.3 vs peer |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | impact: +0.3 vs peer; experience: +0.2 vs peer |
+| [ES/cadaques-historic-waterfront](../../../countries/ES/sights/cadaques-historic-waterfront.yaml) | 8.9 / 8.7 / 8.5 / 9.0 / 8.5 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-cordes-sur-ciel — Cordes-sur-Ciel Historic Gothic Hill Town — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cordes-sur-ciel.yaml)
+- Action: new
+- Scope: Gothic streets and historic townscape, not all surrounding bastides.
+- Representative coordinates: 44.064, 1.951; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.0 / 9.0 / 8.9.
+- Categories: architecture:9.4, photography:9.4, history:9.3, culture:9.2.
+- Overall: 90.20/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-occitanie.com/en/discovering/major-sites/cordes-sur-ciel-and-medieval-towns/ ; https://www.gaillacinfo.fr/en/visit/villages/cordes-sur-ciel/.
+- Research rationale: Gothic merchant houses and hilltop urban ensemble, rewarding historic streets; significance and depth below larger monumental cities.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/dinan-historic-centre](../../../countries/FR/sights/dinan-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.0 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [FR/monpazier-bastide](../../../countries/FR/sights/monpazier-bastide.yaml) | 8.8 / 8.9 / 8.9 / 8.8 / 8.6 | impact: +0.3 vs peer; depth: +0.3 vs peer |
+| [ES/albarracin-historic-town](../../../countries/ES/sights/albarracin-historic-town.yaml) | 9.0 / 9.0 / 8.8 / 8.9 / 8.7 | significance: +0.2 vs peer; depth: +0.2 vs peer |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | depth: +0.3 vs peer; impact: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-musee-toulouse-lautrec — Musée Toulouse-Lautrec Albi Art Collections — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-toulouse-lautrec.yaml)
+- Action: new
+- Scope: Artist collections and displays only; palace architecture belongs to existing episcopal city.
+- Representative coordinates: 43.928, 2.143; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 9.0 / 9.2.
+- Categories: culture:9.4, history:9.3.
+- Overall: 91.80/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://albi.fr/culture/musee-toulouse-lautrec ; https://pop.culture.gouv.fr/notice/museo/M0592 ; https://www.albi-tourisme.fr/en/discover-albi/museums/the-toulouse-lautrec-museum/.
+- Research rationale: Largest public collection of artist's works, including posters; collection distinct from UNESCO palace architecture. No architectural category scored.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-picasso-paris](../../../countries/FR/sights/musee-picasso-paris.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 8.9 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [FR/bonnat-helleu](../../../countries/FR/sights/bonnat-helleu.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.2 | uniqueness: +0.2 vs peer; experience: -0.1 vs peer |
+| [FR/musee-rodin](../../../countries/FR/sights/musee-rodin.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 8.8 | depth: +0.4 vs peer; impact: -0.1 vs peer |
+| [FR/musee-orangerie](../../../countries/FR/sights/musee-orangerie.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 8.6 | depth: +0.6 vs peer; impact: -0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-musee-goya-castres — Musée Goya Castres Hispanic Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-goya-castres.yaml)
+- Action: new
+- Scope: Spanish art collection in former bishopric; no duplicate for garden.
+- Representative coordinates: 43.604, 2.243; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 9.2 / 9.1 / 9.0 / 9.1.
+- Categories: culture:9.4, history:9.3, architecture:9.0.
+- Overall: 90.20/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.museegoya.fr/fr/collections/peintures-espagnoles ; https://www.culture.gouv.fr/regions/drac-occitanie/actualites/actualite-a-la-une/inauguration-du-musee-goya-a-castres ; https://musees-occitanie.fr/en/musee/musee-goya/.
+- Research rationale: Major Spanish art collection outside Spain, Goya originals and substantial renovated display. Lower breadth than major international art museums.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/rouen-fine-arts](../../../countries/FR/sights/rouen-fine-arts.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.1 | uniqueness: +0.3 vs peer; impact: -0.1 vs peer |
+| [FR/bonnat-helleu](../../../countries/FR/sights/bonnat-helleu.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.2 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; impact: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-musee-ingres-bourdelle — Musée Ingres Bourdelle Montauban Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-ingres-bourdelle.yaml)
+- Action: new
+- Scope: Artist bequests, sculpture, paintings and rotating drawings; not all works assumed displayed.
+- Representative coordinates: 44.017, 1.351; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.2 / 9.2 / 9.0 / 9.2.
+- Categories: culture:9.4, history:9.3, architecture:9.1.
+- Overall: 90.80/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://musees-occitanie.fr/en/musee/musee-ingres-bourdelle/ ; https://pop.culture.gouv.fr/notice/museo/M0607 ; https://www.montauban-tourisme.com/en/discover/museums-and-exhibitions/top-5-museums/musee-ingres-bourdelle/.
+- Research rationale: Major Ingres bequest with thousands of drawings and substantial Bourdelle sculpture collection. Display rotation caveat.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-rodin](../../../countries/FR/sights/musee-rodin.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 8.8 | depth: +0.4 vs peer; impact: -0.2 vs peer |
+| [FR/bonnat-helleu](../../../countries/FR/sights/bonnat-helleu.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [FR/rouen-fine-arts](../../../countries/FR/sights/rouen-fine-arts.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.1 | uniqueness: +0.3 vs peer; significance: +0.1 vs peer |
+| [PT/gulbenkian](../../../countries/PT/sights/gulbenkian.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.0 | uniqueness: +0.3 vs peer; depth: +0.2 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-chateau-foix — Château de Foix Medieval Castle and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-foix.yaml)
+- Action: new
+- Scope: Castle museum and interpretation; not Montségur or other Capetian serial components.
+- Representative coordinates: 42.966, 1.605; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.2 / 9.0.
+- Categories: architecture:9.4, history:9.3, family:9.3, photography:9.3.
+- Overall: 90.50/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.foix-tourisme.com/en/decouvrir/chateau-de-foix/ ; https://pop.culture.gouv.fr/notice/museo/M0543 ; https://whc.unesco.org/en/list/1755/maps/.
+- Research rationale: Medieval castle with museum and immersive interpretation; Foix not among eight listed Capetian components. Strong visitor depth.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-castelnaud](../../../countries/FR/sights/chateau-castelnaud.yaml) | 9.1 / 9.0 / 8.9 / 9.1 / 9.0 | significance: +0.2 vs peer; impact: -0.1 vs peer |
+| [FR/chinon-fortress](../../../countries/FR/sights/chinon-fortress.yaml) | 9.0 / 9.0 / 9.3 / 8.9 / 9.0 | experience: +0.3 vs peer; significance: -0.2 vs peer |
+| [FR/chateau-tiffauges](../../../countries/FR/sights/chateau-tiffauges.yaml) | 8.8 / 8.9 / 8.8 / 9.0 / 8.8 | significance: +0.3 vs peer; impact: +0.2 vs peer |
+| [CZ/pernstejn-castle](../../../countries/CZ/sights/pernstejn-castle.yaml) | 8.9 / 8.9 / 9.1 / 8.8 / 8.6 | experience: +0.4 vs peer; depth: +0.4 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-mas-azil-cave — Grotte du Mas-d’Azil and Prehistory Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/mas-azil-cave.yaml)
+- Action: new
+- Scope: Large cave, archaeological interpretation and associated prehistory museum as one experience.
+- Representative coordinates: 43.069, 1.357; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.0 / 9.0.
+- Categories: history:9.4, nature:9.3, culture:9.3, adventure:9.1.
+- Overall: 91.35/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.ariegepyrenees.com/en/decouvrir/incontournables/grottes-prehistoire/la-grotte-du-mas-dazil/ ; https://www.ariegepyrenees.com/patrimoine-culturel/musee-de-la-prehistoire/ ; https://www.sites-touristiques-ariege.fr/.
+- Research rationale: Unusual road and river through cave, archaeological evidence and integrated museum. Cave and museum treated together.
+- High-score challenge: 90+ editorial assessment supported by distinct visitor scope and existing peer scale. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/grotte-villars](../../../countries/FR/sights/grotte-villars.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.4 | depth: +0.6 vs peer; significance: +0.5 vs peer |
+| [FR/musee-national-prehistoire](../../../countries/FR/sights/musee-national-prehistoire.yaml) | 8.8 / 9.2 / 9.4 / 8.9 / 9.2 | impact: +0.2 vs peer; depth: -0.2 vs peer |
+| [FR/lascaux-iv](../../../countries/FR/sights/lascaux-iv.yaml) | 8.9 / 9.2 / 8.6 / 9.2 / 9.0 | significance: +0.7 vs peer; experience: -0.2 vs peer |
+| [FR/vezere-caves](../../../countries/FR/sights/vezere-caves.yaml) | 8.7 / 9.3 / 9.6 / 8.8 / 8.9 | impact: +0.3 vs peer; significance: -0.3 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-gorges-aveyron — Gorges de l’Aveyron Canoeing and Canyon Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/gorges-aveyron.yaml)
+- Action: new
+- Scope: River and gorge activities, excludes separately rated village and castle interiors.
+- Representative coordinates: 44.14, 1.73; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 9.1 / 8.9.
+- Categories: nature:9.3, adventure:9.3, photography:9.2, relaxation:9.1.
+- Overall: 88.25/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-najac-fortress — Najac Royal Fortress and Historic Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/najac-fortress.yaml)
+- Action: new
+- Scope: Castle and adjacent historic streets.
+- Representative coordinates: 44.218, 1.974; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 9.0 / 8.8 / 8.8.
+- Categories: architecture:9.3, history:9.3, photography:9.3.
+- Overall: 88.95/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-bruniquel-castles — Bruniquel Historic Village and Castles — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/bruniquel-castles.yaml)
+- Action: new
+- Scope: Village and two castles; excludes nearby closed prehistoric cave.
+- Representative coordinates: 44.056, 1.664; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.9 / 8.7.
+- Categories: architecture:9.3, history:9.2, photography:9.3.
+- Overall: 88.30/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-penne-fortress — Penne Medieval Fortress and Historic Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/penne-fortress.yaml)
+- Action: new
+- Scope: Fortress and immediately adjacent village.
+- Representative coordinates: 44.077, 1.733; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.7 / 8.8 / 8.5.
+- Categories: architecture:9.3, history:9.2, photography:9.2.
+- Overall: 87.50/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-puycelsi-village — Puycelsi Fortified Historic Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/puycelsi-village.yaml)
+- Action: new
+- Scope: Historic walled hilltop settlement and viewpoints.
+- Representative coordinates: 43.994, 1.71; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.7 / 8.4.
+- Categories: architecture:9.2, photography:9.2, history:9.1.
+- Overall: 86.70/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-castelnau-montmiral — Castelnau-de-Montmiral Historic Bastide — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/castelnau-montmiral.yaml)
+- Action: new
+- Scope: Bastide square and historic houses.
+- Representative coordinates: 43.966, 1.821; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.7 / 8.7 / 8.4.
+- Categories: architecture:9.2, history:9.1, photography:9.1.
+- Overall: 85.85/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-lautrec-village — Lautrec Historic Village and Windmill — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/lautrec-village.yaml)
+- Action: new
+- Scope: Village and windmill, not entire garlic-producing region.
+- Representative coordinates: 43.706, 2.138; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.7 / 8.4.
+- Categories: photography:9.2, architecture:9.0, culture:9.1.
+- Overall: 85.45/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-montauban-place-nationale — Montauban Place Nationale and Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/montauban-place-nationale.yaml)
+- Action: new
+- Scope: Brick arcaded square and streets; excludes Ingres Bourdelle collections.
+- Representative coordinates: 44.018, 1.355; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.8 / 8.8 / 8.6.
+- Categories: architecture:9.3, history:9.2, photography:9.2.
+- Overall: 87.00/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-castres-agout-quays — Castres Agout Riverside Historic Houses — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/castres-agout-quays.yaml)
+- Action: new
+- Scope: Riverfront houses and public viewpoints, excludes Goya Museum.
+- Representative coordinates: 43.606, 2.242; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.4 / 8.8 / 8.3.
+- Categories: photography:9.3, architecture:9.1, relaxation:9.1.
+- Overall: 85.90/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-cahors-old-town — Cahors Historic Centre and Medieval Streets — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/cahors-old-town.yaml)
+- Action: new
+- Scope: Historic town excluding separately credited Saint-Étienne Cathedral and Valentré Bridge.
+- Representative coordinates: 44.448, 1.441; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.8 / 8.8 / 8.7.
+- Categories: architecture:9.2, history:9.2, culture:9.1.
+- Overall: 87.10/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-figeac-old-town — Figeac Medieval Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/figeac-old-town.yaml)
+- Action: new
+- Scope: Historic streets excluding UNESCO Saint-Sauveur church and independent writing museum.
+- Representative coordinates: 44.608, 2.032; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.8 / 8.8.
+- Categories: architecture:9.3, history:9.2, photography:9.2.
+- Overall: 88.20/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-figeac-champollion — Musée Champollion World Writing Museum Figeac — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/figeac-champollion.yaml)
+- Action: new
+- Scope: Writing systems and Champollion interpretation, not all original Rosetta Stone credit.
+- Representative coordinates: 44.609, 2.034; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 9.2 / 9.0 / 8.9 / 8.9.
+- Categories: culture:9.4, history:9.3, family:9.0.
+- Overall: 89.35/100.
+- Decision: source-informed editorial assessment; temporary access excluded as a penalty.
+
+- Sources consulted (indexed excerpts, 2026-11-27): https://www.visit-occitanie.com/en/discovering/major-sites/figeac-lot-and-cele-valleys/.
+- Research rationale: Regional tourism identifies distinctive writing collection in Champollion birthplace. Source-informed screen; broader independent collection corroboration still pending.
+- High-score challenge: Source-informed screen; final estimate below threshold. No 9.5+ fields.
+
+| Peer | Current ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | depth: -0.4 vs peer; impact: -0.3 vs peer |
+| [FR/musee-cluny](../../../countries/FR/sights/musee-cluny.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.0 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+| [FR/aubusson-tapestry](../../../countries/FR/sights/aubusson-tapestry.yaml) | 8.7 / 9.2 / 9.0 / 8.9 / 8.9 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+| [FR/musee-de-lhomme](../../../countries/FR/sights/musee-de-lhomme.yaml) | 8.8 / 9.0 / 9.1 / 9.0 / 9.0 | uniqueness: +0.2 vs peer; impact: -0.1 vs peer |
+
+Peer ranking rows checked; individual YAML and additional international comparisons pending.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-autoire-cirque — Autoire Historic Village and Waterfall Cirque — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/autoire-cirque.yaml)
+- Action: new
+- Scope: Village and nearby waterfall trail; no wider valley credit.
+- Representative coordinates: 44.853, 1.819; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.8 / 8.6.
+- Categories: nature:9.2, photography:9.3, architecture:9.1, adventure:9.0.
+- Overall: 87.30/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-loubressac-village — Loubressac Historic Hilltop Village — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/loubressac-village.yaml)
+- Action: new
+- Scope: Hilltop village and overlooks.
+- Representative coordinates: 44.872, 1.803; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.5 / 8.7 / 8.2.
+- Categories: photography:9.2, architecture:9.1, relaxation:9.0.
+- Overall: 85.55/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-carennac-village — Carennac Historic Village and Priory — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/carennac-village.yaml)
+- Action: new
+- Scope: Historic village, church and cloister.
+- Representative coordinates: 44.918, 1.734; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.7 / 8.5.
+- Categories: architecture:9.2, history:9.2, photography:9.2.
+- Overall: 87.00/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-martel-steam-railway — Martel Truffadou Scenic Railway — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/martel-steam-railway.yaml)
+- Action: new
+- Scope: Heritage rail experience along cliffs, excludes historic town.
+- Representative coordinates: 44.935, 1.608; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.4 / 8.9 / 8.4.
+- Categories: photography:9.2, family:9.2, history:9.0.
+- Overall: 86.60/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-mirepoix-centre — Mirepoix Medieval Market Square and Historic Centre — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/mirepoix-centre.yaml)
+- Action: new
+- Scope: Timber-framed market square and historic streets.
+- Representative coordinates: 43.087, 1.875; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.8 / 8.8 / 8.5.
+- Categories: architecture:9.3, photography:9.2, history:9.1.
+- Overall: 87.40/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-parc-prehistoire-ariege — Parc de la Préhistoire Tarascon-sur-Ariège — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/parc-prehistoire-ariege.yaml)
+- Action: new
+- Scope: Interpretive workshops, exhibits and replicas, not original Niaux paintings.
+- Representative coordinates: 42.841, 1.58; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.6 / 9.1 / 9.0.
+- Categories: family:9.4, culture:9.2, history:9.1.
+- Overall: 88.20/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-grotte-bedeilhac — Grotte de Bédeilhac Prehistoric Cave — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/grotte-bedeilhac.yaml)
+- Action: new
+- Scope: Original cave and guided visitor circuit; tentative concretions scope unresolved.
+- Representative coordinates: 42.859, 1.562; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 8.7 / 8.5.
+- Categories: nature:9.2, history:9.2, adventure:9.1.
+- Overall: 87.80/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-grotte-lombrives — Grotte de Lombrives Underground Galleries — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/grotte-lombrives.yaml)
+- Action: new
+- Scope: Public cave exploration routes, tentative concretions scope unresolved.
+- Representative coordinates: 42.821, 1.608; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.4 / 8.8 / 8.7.
+- Categories: nature:9.3, adventure:9.2, photography:9.2.
+- Overall: 87.65/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-roquefixade-castle — Château de Roquefixade Ruins and Ridge Walk — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/roquefixade-castle.yaml)
+- Action: new
+- Scope: Ruin and immediate ridge, not Montségur.
+- Representative coordinates: 42.937, 1.755; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.6 / 8.8 / 8.2.
+- Categories: photography:9.3, nature:9.1, history:9.0, adventure:9.0.
+- Overall: 86.75/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.
+
+
+## sight-fr-saint-lizier-bishops-palace — Saint-Lizier Bishops’ Palace Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/saint-lizier-bishops-palace.yaml)
+- Action: new
+- Scope: Museum collections only; UNESCO cathedral and associated palace heritage scope excluded from independent architectural credit.
+- Representative coordinates: 43.003, 1.135; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.8 / 8.6 / 8.6.
+- Categories: history:9.2, culture:9.1, architecture:9.1.
+- Overall: 86.35/100.
+- Decision: fast editorial estimate from overview/general knowledge and existing scale; no individual source verification or detailed peer research; temporary access excluded as a penalty.
+- Verification pending: independent factual and coordinate checks, full validation.

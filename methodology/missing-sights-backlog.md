@@ -1785,3 +1785,42 @@ Twenty additions; 16 provisional desk estimates, four researched candidates (2 9
 - [x] FR — Cathédrale Saint-Étienne Toulouse: 88.00/100 (desk-based provisional).
 
 30 additions, 19 fast provisional estimates, 11 source-informed candidates, 7 90+, 42 peer comparisons. France 379 ranked / 390 total; 11 existing unassessed unchanged. Oloron Sainte-Marie cathedral, Saint-Sernin and Hôtel-Dieu Toulouse deferred as Santiago components (https://whc.unesco.org/en/list/868/; https://www.toulouse-tourisme.com/nos-incontournables/). Pic du Midi d’Ossau deferred as national park landscape overlap; Artouste railway independently scoped with lake boundary caveat. Lac de Léon protected sector covered by Huchet; independent leisure sector deferred. Kakuetta closure explicitly noted; no access advice. 2 requested peer rows not located and omitted, peer corroboration pending. Next bounded screen: Occitanie: La Verna cave (Nouvelle-Aquitaine carryover), Gouffre de Padirac, Rocamadour (Santiago overlap), Saint-Cirq-Lapopie, Pech Merle, Cahors Pont Valentré (Santiago overlap), Cordes-sur-Ciel, Albi Toulouse-Lautrec Museum scope, Castres Goya Museum, Montauban Ingres Bourdelle Museum, Moissac (Santiago overlap), Gorges de l’Aveyron, Najac, Bruniquel, Penne, and Ariège prehistoric sites. Full Python validation pending.
+
+### Pass 146 — accelerated Lot, Tarn, Tarn-et-Garonne and Ariège audit
+
+- [x] FR — La Verna Underground Chamber and Guided Cave Tours: 92.35/100 (source-linked-unverified).
+- [x] FR — Gouffre de Padirac Underground River and Cave: 92.90/100 (source-linked-unverified).
+- [x] FR — Pech Merle Decorated Cave and Prehistory Museum: 92.10/100 (source-linked-unverified).
+- [x] FR — Grotte de Niaux Original Prehistoric Paintings: 91.75/100 (source-linked-unverified).
+- [x] FR — Rocamadour Cliffside Historic Town and Castle Ramparts: 91.30/100 (source-linked-unverified).
+- [x] FR — Saint-Cirq-Lapopie Cliffside Medieval Village: 90.45/100 (source-linked-unverified).
+- [x] FR — Cordes-sur-Ciel Historic Gothic Hill Town: 90.20/100 (source-linked-unverified).
+- [x] FR — Musée Toulouse-Lautrec Albi Art Collections: 91.80/100 (source-linked-unverified).
+- [x] FR — Musée Goya Castres Hispanic Art Museum: 90.20/100 (source-linked-unverified).
+- [x] FR — Musée Ingres Bourdelle Montauban Art Museum: 90.80/100 (source-linked-unverified).
+- [x] FR — Château de Foix Medieval Castle and Museum: 90.50/100 (source-linked-unverified).
+- [x] FR — Grotte du Mas-d’Azil and Prehistory Museum: 91.35/100 (source-linked-unverified).
+- [x] FR — Gorges de l’Aveyron Canoeing and Canyon Trails: 88.25/100 (desk-based provisional).
+- [x] FR — Najac Royal Fortress and Historic Village: 88.95/100 (desk-based provisional).
+- [x] FR — Bruniquel Historic Village and Castles: 88.30/100 (desk-based provisional).
+- [x] FR — Penne Medieval Fortress and Historic Village: 87.50/100 (desk-based provisional).
+- [x] FR — Puycelsi Fortified Historic Village: 86.70/100 (desk-based provisional).
+- [x] FR — Castelnau-de-Montmiral Historic Bastide: 85.85/100 (desk-based provisional).
+- [x] FR — Lautrec Historic Village and Windmill: 85.45/100 (desk-based provisional).
+- [x] FR — Montauban Place Nationale and Historic Centre: 87.00/100 (desk-based provisional).
+- [x] FR — Castres Agout Riverside Historic Houses: 85.90/100 (desk-based provisional).
+- [x] FR — Cahors Historic Centre and Medieval Streets: 87.10/100 (desk-based provisional).
+- [x] FR — Figeac Medieval Historic Centre: 88.20/100 (desk-based provisional).
+- [x] FR — Musée Champollion World Writing Museum Figeac: 89.35/100 (source-linked-unverified).
+- [x] FR — Autoire Historic Village and Waterfall Cirque: 87.30/100 (desk-based provisional).
+- [x] FR — Loubressac Historic Hilltop Village: 85.55/100 (desk-based provisional).
+- [x] FR — Carennac Historic Village and Priory: 87.00/100 (desk-based provisional).
+- [x] FR — Martel Truffadou Scenic Railway: 86.60/100 (desk-based provisional).
+- [x] FR — Mirepoix Medieval Market Square and Historic Centre: 87.40/100 (desk-based provisional).
+- [x] FR — Parc de la Préhistoire Tarascon-sur-Ariège: 88.20/100 (desk-based provisional).
+- [x] FR — Grotte de Bédeilhac Prehistoric Cave: 87.80/100 (desk-based provisional).
+- [x] FR — Grotte de Lombrives Underground Galleries: 87.65/100 (desk-based provisional).
+- [x] FR — Château de Roquefixade Ruins and Ridge Walk: 86.75/100 (desk-based provisional).
+- [x] FR — Saint-Lizier Bishops’ Palace Museum: 86.35/100 (desk-based provisional).
+
+34 additions, 21 fast provisional estimates, 13 source-informed candidates, 12 90+, 52 peer comparisons. France 413 ranked / 424 total; 11 existing unassessed unchanged. Moissac abbey/cloister, Cahors cathedral and Valentré Bridge, Rocamadour church/crypt and Figeac Saint-Sauveur excluded as Santiago components (https://whc.unesco.org/document/154481); Montségur is a Capetian component (https://whc.unesco.org/en/list/1755/maps/). Albi museum collection distinct from palace; Saint-Lizier museum scope overlap flagged. Cave tentative-series list lacks names (https://whc.unesco.org/en/tentativelists/1429/); cave overlap uncertainty retained. 0 peer rows not located and omitted. Next bounded screen: Aveyron, Hautes-Pyrénées and Gers: Musée Soulages, Millau Viaduct, Roquefort caves, Conques Santiago overlap, Belcastel, Estaing, Laguiole, Aubrac plateau, Gorges du Tarn, Montpellier and Nîmes later; investigate Cirque de Troumouse and Pont d’Espagne park overlap, Auch cathedral, La Romieu, Flaran abbey and Armagnac. Full Python validation pending.
