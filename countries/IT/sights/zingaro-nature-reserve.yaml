@@ -1,0 +1,17 @@
+id: sight-it-zingaro-nature-reserve
+name: "Zingaro Nature Reserve Sicily"
+location:
+  country_code: IT
+  latitude: 38.127
+  longitude: 12.794
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.5
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.3
+    photography: 9.3
+    adventure: 9.1
+    beaches: 9.0

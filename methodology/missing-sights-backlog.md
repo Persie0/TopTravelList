@@ -1025,3 +1025,16 @@ Eight additions, 32 peer rows; Italy 141 ranked / 153 total. Existing ratings pr
 - [x] IT — Saturnia Cascate del Mulino Thermal Pools: 86.60/100 (source-linked-unverified).
 
 Eight additions, 32 peer rows. Italy 149 ranked / 161 total. Boboli already within Medici serial property (https://whc.unesco.org/en/list/0175/maps/); Pitti interiors only. Cala Goloritzé excluded as overlapping Gulf of Orosei coastline (https://www.sardegnaturismo.it/en/explore/cala-goloritze). Asinelli currently closed per official tourism page, established experience rated without assuming reopening. Selinunte excludes Cave di Cusa and Pantelleria. Next bounded screen: Milan science and technology museum, Turin Superga, Bologna Archiginnasio, Florence Bargello, Rome Baths of Caracalla, Sicily Zingaro Reserve, Scala dei Turchi, Erice historic town. Full Python validation pending.
+
+### Pass 90 — Italian science, university, art, Roman heritage and Sicilian landscapes
+
+- [x] IT — Leonardo da Vinci National Museum of Science and Technology Milan: 89.85/100 (source-linked-unverified).
+- [x] IT — Basilica of Superga and Royal Tombs: 87.65/100 (source-linked-unverified).
+- [x] IT — Archiginnasio Palace and Anatomical Theatre Bologna: 87.80/100 (source-linked-unverified).
+- [x] IT — Bargello National Museum Florence: 89.95/100 (source-linked-unverified).
+- [x] IT — Baths of Caracalla Rome: 90.15/100 (source-linked-unverified).
+- [x] IT — Zingaro Nature Reserve Sicily: 88.20/100 (source-linked-unverified).
+- [x] IT — Scala dei Turchi White Cliffs: 86.45/100 (source-linked-unverified).
+- [x] IT — Erice Historic Town and Hilltop Heritage: 88.45/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Italy 157 ranked / 169 total. Superga distinct from Savoy UNESCO palace/villa series; Archiginnasio interior separate from porticoes; Caracalla precinct separate from urban and Appia landscapes; Scala dei Turchi controlled access, no unrestricted climbing implied; Erice monuments grouped. Next bounded screen: Rome National Roman Museum, Venice Peggy Guggenheim Collection, Trieste Miramare Castle, Verona Arena, Turin royal residence scope, Sardinia Capo Testa and Bosa historic centre. Full Python validation pending.
