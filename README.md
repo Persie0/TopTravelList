@@ -115,7 +115,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Benin](countries/BJ/) (`BJ`) | [18](countries/BJ/cities.md) | [34](countries/BJ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Benin) |
 | [Bermuda](countries/BM/) (`BM`) | [3](countries/BM/cities.md) | [12](countries/BM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bermuda) |
 | [Bhutan](countries/BT/) (`BT`) | [33](countries/BT/cities.md) | [89](countries/BT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bhutan) |
-| [Bolivia](countries/BO/) (`BO`) | [33](countries/BO/cities.md) | [56](countries/BO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bolivia) |
+| [Bolivia](countries/BO/) (`BO`) | [33](countries/BO/cities.md) | [69](countries/BO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bolivia) |
 | [Bonaire, Sint Eustatius and Saba](countries/BQ/) (`BQ`) | [5](countries/BQ/cities.md) | [13](countries/BQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bonaire%2C%20Sint%20Eustatius%20and%20Saba) |
 | [Bosnia and Herzegovina](countries/BA/) (`BA`) | [44](countries/BA/cities.md) | [101](countries/BA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bosnia%20and%20Herzegovina) |
 | [Botswana](countries/BW/) (`BW`) | [22](countries/BW/cities.md) | [38](countries/BW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Botswana) |

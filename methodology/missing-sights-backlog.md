@@ -5010,3 +5010,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] EC — Chachimbiro Highland Thermal Springs: 80.95/100 (desk-based provisional).
 
 11 additions, 10 source-linked provisional, 1 desk-based provisional, 4 90+, 30 ranking-row comparisons (8 international). EC 131 ranked / 132 total, +77 since baseline 55. Prior 13/15 tentative properties at least partially represented; Chocó named components both represented. Rechecked El Quimi (https://whc.unesco.org/en/tentativelists/6986/) and Hermandad Galápagos extension (https://whc.unesco.org/en/tentativelists/6928/): natural heritage significance established but ordinary visitor scope unconfirmed, both deferred. Biosphere extension is not World Heritage inscription. Five inscribed properties represented per prior inventory (Qhapaq Ñan unassessed). Río Negro Sopladora prior deferral resolved narrowly to ranger-confirmed guided trails; El Altar non-additive to Sangay, Machachi excludes bull events and roping. Cotacachi-Cayapas lower zone, Bilsa and Sarayaku prior deferrals retained. PAUSED after six targeted passes to prioritize worldwide discovery; not exhaustive, known access and tentative-property questions remain. Existing scores and one unassessed preserved. Coordinates approximate; current schedules, permissions and safety unverified. Next country Bolivia.
+
+### Pass 283 — Bolivia flagship festivals and highland landscapes
+
+- [x] BO — Oruro Carnival Public Dance and Music Processions: 94.85/100 (source-linked-unverified).
+- [x] BO — La Paz Gran Poder Festival Public Dance Procession: 93.40/100 (source-linked-unverified).
+- [x] BO — Chiquitos International Renaissance and Baroque Music Festival: 93.00/100 (source-linked-unverified).
+- [x] BO — San Ignacio de Moxos Ichapekene Piesta Public Festival: 92.20/100 (source-linked-unverified).
+- [x] BO — La Paz Alasita Miniature Fair and Public Cultural Traditions: 91.75/100 (source-linked-unverified).
+- [x] BO — Tarabuco Yampara Pujllay Public Music and Dance Festival: 91.45/100 (source-linked-unverified).
+- [x] BO — Tuni Condoriri and Chiarkhota Highland Trek: 91.10/100 (source-linked-unverified).
+- [x] BO — Apolobamba Curva Pelechuco Highland Trek: 90.65/100 (source-linked-unverified).
+- [x] BO — Carrasco National Park Guácharos Cave and Forest Visitor Trail: 88.30/100 (source-linked-unverified).
+- [x] BO — Cordillera de Sama Reserve Tajzara Highland Lagoons: 87.05/100 (source-linked-unverified).
+- [x] BO — Copacabana Basilica and Religious Heritage: 87.05/100 (desk-based provisional).
+- [x] BO — Tunari National Park Highland Landscapes and Authorized Trails: 86.90/100 (source-linked-unverified).
+- [x] BO — San Ignacio de Moxos Mission Church and Musical Heritage: 86.60/100 (desk-based provisional).
+
+13 additions, 11 source-linked provisional, 2 desk-based provisional, 8 90+, 42 ranking-row comparisons (16 international). BO 67 ranked / 69 total, +13 since baseline 56. UNESCO country list checked (https://whc.unesco.org/en/statesparties/bo): all 7 inscribed (Qhapaq Ñan unassessed) and 5 tentative represented at property scope; serial components not independently mapped. Five distinct public UNESCO intangible heritage experiences added; Chiquitos music festival distinct from permanent mission property. Condoriri excludes Huayna Potosí; Apolobamba limited to named permitted trek. No private rites or guaranteed wildlife sightings; existing two unassessed including TIPNIS preserved. OPEN for remaining natural areas, festivals, archaeology and regional attractions. Coordinates approximate; access, altitude safety and future programmes unverified.

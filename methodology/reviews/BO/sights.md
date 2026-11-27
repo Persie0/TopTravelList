@@ -1121,3 +1121,287 @@
 - Categories: history 8.8, architecture 8.0. Computed overall: 76.55/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: independent site-specific facts, coordinates except stated exception, access and peer calibration.
+
+
+## sight-bo-oruro-carnival — Oruro Carnival Public Dance and Music Processions — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/oruro-carnival.yaml)
+- Action: new
+- Scope: UNESCO intangible heritage, public procession of thousands of musicians and dancers, distinctive diablada tradition; exclude private rites and unsafe crowd participation. High fields supported by international heritage recognition, scale and costume traditions.
+- Representative coordinates: -17.967, -67.114; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.6 / 9.5 / 9.5 / 9.4 / 9.2.
+- Categories: culture:9.6 history:9.4 photography:9.5.
+- Overall: 94.85/100.
+- Source: https://ich.unesco.org/en/RL/carnival-of-oruro-00003?RL=00003
+- Source: https://ich.unesco.org/en/projects/action-plan-for-the-safeguarding-of-the-oruro-carnival-00010
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented cultural or landscape experience; compare with international peers below; wider calibration pending. Impact 9.6, uniqueness and significance 9.5, culture 9.6 and photography 9.5 reflect exceptional public procession, costumes, international intangible recognition and scale; no 10 claimed.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/museo-nacional-de-etnografia-y-folklore](../../../countries/BO/sights/museo-nacional-de-etnografia-y-folklore.yaml) | 8.2 / 8.7 / 8.8 / 8.4 / 8.1 | impact: +1.4; uniqueness: +0.8 vs peer |
+| [BO/tarabuco-sunday-market](../../../countries/BO/sights/tarabuco-sunday-market.yaml) | 8.0 / 8.6 / 7.8 / 8.5 / 7.2 | impact: +1.6; uniqueness: +0.9 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.4; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-la-paz-gran-poder — La Paz Gran Poder Festival Public Dance Procession — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/la-paz-gran-poder.yaml)
+- Action: new
+- Scope: UNESCO representative intangible heritage; public dance and music procession distinct from Oruro, no private ritual or future schedule guaranteed.
+- Representative coordinates: -16.5, -68.15; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.4 / 9.3 / 9.2.
+- Categories: culture:9.4 photography:9.4 history:9.3.
+- Overall: 93.40/100.
+- Source: https://ich.unesco.org/en/RL/the-festival-of-the-santisima-trinidad-del-senor-jesus-del-gran-poder-in-the-city-of-la-paz-01389
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented cultural or landscape experience; compare with international peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/museo-nacional-de-etnografia-y-folklore](../../../countries/BO/sights/museo-nacional-de-etnografia-y-folklore.yaml) | 8.2 / 8.7 / 8.8 / 8.4 / 8.1 | impact: +1.2; uniqueness: +0.6 vs peer |
+| [BO/san-francisco-basilica-la-paz](../../../countries/BO/sights/san-francisco-basilica-la-paz.yaml) | 8.3 / 8.6 / 8.6 / 8.3 / 7.3 | impact: +1.1; uniqueness: +0.7 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: +0.0; uniqueness: -0.1 vs peer |
+| [EC/latacunga-mama-negra](../../../countries/EC/sights/latacunga-mama-negra.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.1 | impact: +0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-chiquitos-baroque-festival — Chiquitos International Renaissance and Baroque Music Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/chiquitos-baroque-festival.yaml)
+- Action: new
+- Scope: Tourism ministry confirms 15th edition April 17–26 2026, announced 136 concerts, 1300 musicians; international biennial programme founded 1996. Multi-venue festival distinct from permanent Jesuit missions, non-additive to overlapping individual concerts; Santa Cruz representative anchor.
+- Representative coordinates: -17.783, -63.182; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.2 / 9.3.
+- Categories: culture:9.4 history:9.4 architecture:9.2.
+- Overall: 93.00/100.
+- Source: https://www.turismoyculturas.gob.bo/nota_prensa/se-inaugura-el-xv-festival-de-chiquitos-celebrando-tres-decadas-como-epicentro-mundial-del-barroco/
+- Source: https://festivalesapac.com/musica/festival-misiones-de-chiquitos/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented cultural or landscape experience; compare with international peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [BO/museo-nacional-de-etnografia-y-folklore](../../../countries/BO/sights/museo-nacional-de-etnografia-y-folklore.yaml) | 8.2 / 8.7 / 8.8 / 8.4 / 8.1 | impact: +1.0; uniqueness: +0.7 vs peer |
+| [EC/loja-artes-vivas](../../../countries/EC/sights/loja-artes-vivas.yaml) | 9.1 / 9.1 / 9.2 / 9.3 / 9.2 | impact: +0.1; uniqueness: +0.3 vs peer |
+| [CO/cartagena-ficci](../../../countries/CO/sights/cartagena-ficci.yaml) | 9.0 / 9.1 / 9.3 / 9.2 / 9.1 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-san-ignacio-moxos-ichapekene — San Ignacio de Moxos Ichapekene Piesta Public Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/san-ignacio-moxos-ichapekene.yaml)
+- Action: new
+- Scope: UNESCO inscribed 2012; syncretic Moxos community celebration with distinctive public music, dances and processions. Host consent and public scope only.
+- Representative coordinates: -14.99, -65.63; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 92.20/100.
+- Source: https://ich.unesco.org/en/RL/ichapekene-piesta-the-biggest-festival-of-san-ignacio-de-moxos-00627
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented cultural or landscape experience; compare with international peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [BO/museo-nacional-de-etnografia-y-folklore](../../../countries/BO/sights/museo-nacional-de-etnografia-y-folklore.yaml) | 8.2 / 8.7 / 8.8 / 8.4 / 8.1 | impact: +0.9; uniqueness: +0.7 vs peer |
+| [EC/latacunga-mama-negra](../../../countries/EC/sights/latacunga-mama-negra.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.1 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [CO/riosucio-carnival](../../../countries/CO/sights/riosucio-carnival.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.2 | impact: -0.1; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-la-paz-alasita — La Paz Alasita Miniature Fair and Public Cultural Traditions — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/la-paz-alasita.yaml)
+- Action: new
+- Scope: UNESCO inscribed 2017; January 24 opening and multiweek miniature fair, symbolic Ekeko traditions. Public craft market and consenting cultural interpretation only, no guaranteed rituals.
+- Representative coordinates: -16.51, -68.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.4 / 9.3 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 91.75/100.
+- Source: https://ich.unesco.org/en/RL/ritual-journeys-in-la-paz-during-alasita-01182
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented cultural or landscape experience; compare with international peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/mercado-de-las-brujas](../../../countries/BO/sights/mercado-de-las-brujas.yaml) | 7.9 / 8.7 / 7.8 / 8.4 / 7.5 | impact: +1.1; uniqueness: +0.7 vs peer |
+| [BO/tarabuco-sunday-market](../../../countries/BO/sights/tarabuco-sunday-market.yaml) | 8.0 / 8.6 / 7.8 / 8.5 / 7.2 | impact: +1.0; uniqueness: +0.8 vs peer |
+| [EC/otavalo-yamor](../../../countries/EC/sights/otavalo-yamor.yaml) | 8.9 / 9.1 / 9.2 / 9.1 / 8.9 | impact: +0.1; uniqueness: +0.3 vs peer |
+| [EC/vinces-cacao-route](../../../countries/EC/sights/vinces-cacao-route.yaml) | 8.8 / 9.2 / 9.4 / 9.1 / 9.0 | impact: +0.2; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-tarabuco-pujllay — Tarabuco Yampara Pujllay Public Music and Dance Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/tarabuco-pujllay.yaml)
+- Action: new
+- Scope: UNESCO recognizes Pujllay and Ayarichi as Yampara music and dances. Named public Pujllay celebration only, no claim all Ayarichi practices occur here or all rites open to visitors; distinct from Sunday market.
+- Representative coordinates: -19.18, -64.92; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.4 photography:9.3.
+- Overall: 91.45/100.
+- Source: https://ich.unesco.org/en/RL/pujllay-and-ayarichi-music-and-dances-of-the-yampara-culture-00630?lang=en
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented cultural or landscape experience; compare with international peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/tarabuco-sunday-market](../../../countries/BO/sights/tarabuco-sunday-market.yaml) | 8.0 / 8.6 / 7.8 / 8.5 / 7.2 | impact: +1.0; uniqueness: +0.7 vs peer |
+| [BO/museo-nacional-de-etnografia-y-folklore](../../../countries/BO/sights/museo-nacional-de-etnografia-y-folklore.yaml) | 8.2 / 8.7 / 8.8 / 8.4 / 8.1 | impact: +0.8; uniqueness: +0.6 vs peer |
+| [EC/pujili-corpus-christi](../../../countries/EC/sights/pujili-corpus-christi.yaml) | 8.9 / 9.3 / 9.2 / 9.0 / 9.0 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [PE/candelaria-puno](../../../countries/PE/sights/candelaria-puno.yaml) | 9.4 / 9.4 / 9.4 / 9.3 / 9.3 | impact: -0.4; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-tuni-condoriri-trek — Tuni Condoriri and Chiarkhota Highland Trek — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/tuni-condoriri-trek.yaml)
+- Action: new
+- Scope: Named trek from Tuni toward Chiarkhota and Condoriri massif, documented by tour programme and local mountain operator; exclude summit climbing and existing Huayna Potosí. Altitude acclimatization, guide and conditions essential.
+- Representative coordinates: -16.18, -68.24; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.4 / 9.2 / 8.7 / 9.0 / 9.0.
+- Categories: nature:9.4 photography:9.4 adventure:9.4.
+- Overall: 91.10/100.
+- Source: https://www.lacordilleraexperience.org/en/trekking-cordillera-real
+- Source: https://www.boliviajapitours.com/tours/condoriri-trek-programa-2-dias-1-noche/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented cultural or landscape experience; compare with international peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/huayna-potosi](../../../countries/BO/sights/huayna-potosi.yaml) | 9.1 / 8.9 / 8.2 / 8.5 / 8.2 | impact: +0.3; uniqueness: +0.3 vs peer |
+| [BO/choro-trail](../../../countries/BO/sights/choro-trail.yaml) | 8.6 / 8.7 / 8.2 / 8.4 / 8.6 | impact: +0.8; uniqueness: +0.5 vs peer |
+| [EC/el-altar-laguna-amarilla](../../../countries/EC/sights/el-altar-laguna-amarilla.yaml) | 9.4 / 9.2 / 8.8 / 8.8 / 9.0 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [EC/iliniza-peaks](../../../countries/EC/sights/iliniza-peaks.yaml) | 8.9 / 8.8 / 8.5 / 8.3 / 8.5 | impact: +0.5; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-apolobamba-curva-pelechuco — Apolobamba Curva Pelechuco Highland Trek — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/apolobamba-curva-pelechuco.yaml)
+- Action: new
+- Scope: National protected area passport identifies Apolobamba biosphere reserve and constituent municipalities; named trek offered by local operator. Limited to permitted guided trek; Kallawaya private healing practices excluded.
+- Representative coordinates: -14.89, -69; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.1 / 9.1 / 8.6 / 9.2.
+- Categories: nature:9.4 adventure:9.4 photography:9.3.
+- Overall: 90.65/100.
+- Source: https://pasaporteareasprotegidas.gob.bo/en/home
+- Source: https://oasisbolivia.com/es/tour/apolobamba-7-dias-y-6-noches
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive documented cultural or landscape experience; compare with international peers below; wider calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/sajama-national-park](../../../countries/BO/sights/sajama-national-park.yaml) | 9.3 / 9.2 / 9.0 / 8.8 / 9.0 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [BO/choro-trail](../../../countries/BO/sights/choro-trail.yaml) | 8.6 / 8.7 / 8.2 / 8.4 / 8.6 | impact: +0.6; uniqueness: +0.4 vs peer |
+| [EC/el-altar-laguna-amarilla](../../../countries/EC/sights/el-altar-laguna-amarilla.yaml) | 9.4 / 9.2 / 8.8 / 8.8 / 9.0 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-carrasco-guacharos — Carrasco National Park Guácharos Cave and Forest Visitor Trail — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/carrasco-guacharos.yaml)
+- Action: new
+- Scope: Villa Tunari municipality documents guided ecological walk and oilbird and bat caves. Scope named public visitor route, not whole remote park or animal sightings guaranteed.
+- Representative coordinates: -17.06, -65.45; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.7 / 8.6.
+- Categories: nature:9.4 wildlife:9.3 adventure:9.0.
+- Overall: 88.30/100.
+- Source: https://villatunari.gob.bo/turismo/parque-nacional-carrasco/
+- Source: https://www.sernap.gob.bo/index.php/nota_prensa/el-sernap-invita-a-las-familias-bolivianas-a-conectar-con-la-naturaleza-este-feriado-de-semana-santa/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/amboro-national-park](../../../countries/BO/sights/amboro-national-park.yaml) | 8.9 / 8.9 / 9.1 / 8.6 / 8.9 | impact: -0.1; uniqueness: +0.0 vs peer |
+| [BO/umajalanta-cave](../../../countries/BO/sights/umajalanta-cave.yaml) | 8.1 / 8.2 / 7.7 / 8.1 / 7.4 | impact: +0.7; uniqueness: +0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-tunari-national-park — Tunari National Park Highland Landscapes and Authorized Trails — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/tunari-national-park.yaml)
+- Action: new
+- Scope: Desk-based regional landscape and permitted trails; SERNAP includes park in 2026 public invitation, no independent trail conditions or summit access established.
+- Representative coordinates: -17.29, -66.35; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.8 / 8.6 / 8.8.
+- Categories: nature:9.3 photography:9.2 adventure:9.1.
+- Overall: 86.90/100.
+- Source: https://www.sernap.gob.bo/index.php/nota_prensa/el-sernap-invita-a-las-familias-bolivianas-a-conectar-con-la-naturaleza-este-feriado-de-semana-santa/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/sajama-national-park](../../../countries/BO/sights/sajama-national-park.yaml) | 9.3 / 9.2 / 9.0 / 8.8 / 9.0 | impact: -0.6; uniqueness: -0.6 vs peer |
+| [BO/huayna-potosi](../../../countries/BO/sights/huayna-potosi.yaml) | 9.1 / 8.9 / 8.2 / 8.5 / 8.2 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-cordillera-de-sama-reserve — Cordillera de Sama Reserve Tajzara Highland Lagoons — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/cordillera-de-sama-reserve.yaml)
+- Action: new
+- Scope: Regional reserve and Tajzara lagoon scenery; official agency lists reserve in tourism invitation; no road, species or trail guarantee.
+- Representative coordinates: -21.76, -65.06; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.7 / 8.5 / 8.5.
+- Categories: nature:9.3 wildlife:9.2 photography:9.3.
+- Overall: 87.05/100.
+- Source: https://www.sernap.gob.bo/index.php/nota_prensa/el-sernap-invita-a-las-familias-bolivianas-a-conectar-con-la-naturaleza-este-feriado-de-semana-santa/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/laguna-colorada](../../../countries/BO/sights/laguna-colorada.yaml) | 9.6 / 9.5 / 8.8 / 9.0 / 8.0 | impact: -0.8; uniqueness: -0.7 vs peer |
+| [BO/sajama-national-park](../../../countries/BO/sights/sajama-national-park.yaml) | 9.3 / 9.2 / 9.0 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-copacabana-basilica — Copacabana Basilica and Religious Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/copacabana-basilica.yaml)
+- Action: new
+- Scope: Desk-based permanent shrine and public heritage, distinct from lake landscape and seasonal pilgrimage. Current interior admission unverified.
+- Representative coordinates: -16.166, -69.086; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.2 / 8.6 / 8.5.
+- Categories: architecture:9.2 history:9.3 culture:9.2.
+- Overall: 87.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/san-francisco-basilica-la-paz](../../../countries/BO/sights/san-francisco-basilica-la-paz.yaml) | 8.3 / 8.6 / 8.6 / 8.3 / 7.3 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [BO/isla-del-sol](../../../countries/BO/sights/isla-del-sol.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.6 | impact: -0.6; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-san-ignacio-moxos-mission — San Ignacio de Moxos Mission Church and Musical Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/san-ignacio-moxos-mission.yaml)
+- Action: new
+- Scope: Desk-based permanent Moxos mission heritage, not one of the six Chiquitos inscribed missions; excludes festival and private religious events.
+- Representative coordinates: -14.99, -65.63; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.7 / 9.1 / 8.5 / 8.7.
+- Categories: architecture:9.2 history:9.2 culture:9.2.
+- Overall: 86.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: -0.6; uniqueness: -0.6 vs peer |
+| [BO/san-francisco-basilica-la-paz](../../../countries/BO/sights/san-francisco-basilica-la-paz.yaml) | 8.3 / 8.6 / 8.6 / 8.3 / 7.3 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 283 scope decisions
+
+13 additions, 11 source-linked provisional, 2 desk-based provisional, 8 90+, 42 ranking-row comparisons (16 international). BO 67 ranked / 69 total, +13 since baseline 56. UNESCO country list checked (https://whc.unesco.org/en/statesparties/bo): all 7 inscribed (Qhapaq Ñan unassessed) and 5 tentative represented at property scope; serial components not independently mapped. Five distinct public UNESCO intangible heritage experiences added; Chiquitos music festival distinct from permanent mission property. Condoriri excludes Huayna Potosí; Apolobamba limited to named permitted trek. No private rites or guaranteed wildlife sightings; existing two unassessed including TIPNIS preserved. OPEN for remaining natural areas, festivals, archaeology and regional attractions. Coordinates approximate; access, altitude safety and future programmes unverified.
