@@ -820,3 +820,338 @@ UNESCO https://whc.unesco.org/en/statesparties/za/ (opened) confirms 12 inscribe
 - Approved 10 registry: none.
 - Final decision: provisional V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent factual corroboration and current access checks.
+
+## sight-za-hluhluwe-imfolozi — Hluhluwe-iMfolozi Park Rhino Conservation and Wildlife Safaris — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/hluhluwe-imfolozi.yaml)
+- Action: new
+- Scope: Distinct KwaZulu-Natal protected area and visitor safari, historically central to southern white rhino recovery; separate from iSimangaliso. No wildlife encounter guaranteed.
+- Representative coordinates: -28.28, 31.96; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.4 / 9.1 / 9.3.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3 adventure:9.2.
+- Overall: 93.20/100.
+- Source: https://www.hluhluwe.org.za/hluhluwe-imfolozi-park-complete-guide/
+- Source: https://www.capetownexpress.com/news/279323144/hello-africa-smart-technology-strengthens-rhino-protection-at-south-africa-historic-reserve
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kruger-national-park](../../../countries/ZA/sights/kruger-national-park.yaml) | 9.7 / 9.5 / 9.5 / 9.5 / 9.7 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [ZA/addo-elephant-national-park](../../../countries/ZA/sights/addo-elephant-national-park.yaml) | 9.1 / 8.9 / 8.9 / 9.0 / 9.0 | impact: +0.3 vs peer; uniqueness: +0.4 vs peer |
+| [ZA/isimangaliso-wetland-park](../../../countries/ZA/sights/isimangaliso-wetland-park.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.3 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/pantanal-brazilian-wildlife-routes](../../../countries/BR/sights/pantanal-brazilian-wildlife-routes.yaml) | 9.3 / 9.4 / 9.2 / 9.1 / 9.3 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-sabi-sand — Sabi Sand Nature Reserve Guided Wildlife Safaris — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/sabi-sand.yaml)
+- Action: new
+- Scope: Privately managed reserve west of Kruger, separately operated guided safari experiences; shared Greater Kruger ecosystem and wildlife non-additive. Score not based on luxury accommodation.
+- Representative coordinates: -24.82, 31.48; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.3 / 9.0 / 8.9 / 9.4 / 9.1.
+- Categories: wildlife:9.4 nature:9.2 photography:9.4.
+- Overall: 91.40/100.
+- Source: https://sabisand.co.za/
+- Source: https://sabisand.co.za/lodges/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kruger-national-park](../../../countries/ZA/sights/kruger-national-park.yaml) | 9.7 / 9.5 / 9.5 / 9.5 / 9.7 | impact: -0.4 vs peer; uniqueness: -0.5 vs peer |
+| [ZA/addo-elephant-national-park](../../../countries/ZA/sights/addo-elephant-national-park.yaml) | 9.1 / 8.9 / 8.9 / 9.0 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [BR/cristalino-reserve](../../../countries/BR/sights/cristalino-reserve.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 9.3 | impact: +0.1 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-madikwe-game-reserve — Madikwe Game Reserve Wildlife Safaris and Conservation Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/madikwe-game-reserve.yaml)
+- Action: new
+- Scope: Distinct North West reserve. Operator documents reintroduction of over 8,000 animals of 28 species through Operation Phoenix and wild dog conservation. Current populations and drought impacts not independently verified.
+- Representative coordinates: -24.76, 26.24; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.2 / 9.0 / 9.1.
+- Categories: wildlife:9.4 nature:9.3 photography:9.2.
+- Overall: 91.05/100.
+- Source: https://www.madikwegamereserve.co.za/about/operation-phoenix/
+- Source: https://www.madikwegamereserve.co.za/about/conservation/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kruger-national-park](../../../countries/ZA/sights/kruger-national-park.yaml) | 9.7 / 9.5 / 9.5 / 9.5 / 9.7 | impact: -0.6 vs peer; uniqueness: -0.4 vs peer |
+| [ZA/kgalagadi-south-africa](../../../countries/ZA/sights/kgalagadi-south-africa.yaml) | 9.2 / 9.2 / 8.9 / 8.8 / 9.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/pantanal-brazilian-wildlife-routes](../../../countries/BR/sights/pantanal-brazilian-wildlife-routes.yaml) | 9.3 / 9.4 / 9.2 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-namaqua-national-park — Namaqua National Park Namaqualand Spring Wildflowers and Succulent Karoo — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/namaqua-national-park.yaml)
+- Action: new
+- Scope: Park-specific spring flower displays and coastal/arid habitats. SANParks documents regional plant richness of about 3,500 species with more than 1,000 endemic; flowering varies with rainfall. No guarantee of bloom timing or intensity.
+- Representative coordinates: -30.16, 17.78; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.0 / 9.0 / 9.0.
+- Categories: nature:9.4 photography:9.4 relaxation:9.1.
+- Overall: 91.95/100.
+- Source: https://www.sanparks.org/parks/namaqua/explore/fauna-flora/vegetation
+- Source: https://www.sanparks.org/parks/namaqua/what-to-do/activities/flower-season
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/cederberg](../../../countries/ZA/sights/cederberg.yaml) | 9.2 / 9.0 / 8.8 / 8.9 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.3 vs peer |
+| [ZA/kirstenbosch](../../../countries/ZA/sights/kirstenbosch.yaml) | 9.1 / 9.0 / 9.0 / 9.1 / 8.7 | impact: +0.3 vs peer; uniqueness: +0.3 vs peer |
+| [BR/lencois-maranhenses-national-park](../../../countries/BR/sights/lencois-maranhenses-national-park.yaml) | 9.8 / 9.8 / 9.4 / 9.1 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-zeitz-mocaa — Zeitz Museum of Contemporary Art Africa Cape Town — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/zeitz-mocaa.yaml)
+- Action: new
+- Scope: Museum devoted to contemporary African and diaspora art, housed in a converted historic grain silo; collection and architecture grouped. Museum describes itself as largest of its type; no independent size ranking performed.
+- Representative coordinates: -33.908, 18.423; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 architecture:9.4 history:9.1.
+- Overall: 91.70/100.
+- Source: https://zeitzmocaa.museum/our-story/
+- Source: https://zeitzmocaa.museum/plan-your-visit/
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/apartheid-museum](../../../countries/ZA/sights/apartheid-museum.yaml) | 9.1 / 9.2 / 9.6 / 9.1 / 9.0 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+| [ZA/district-six-museum](../../../countries/ZA/sights/district-six-museum.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 8.2 | impact: +0.3 vs peer; uniqueness: +0.4 vs peer |
+| [BR/inhotim-institute](../../../countries/BR/sights/inhotim-institute.yaml) | 9.1 / 9.4 / 8.8 / 9.0 / 9.3 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/pinacoteca-sao-paulo](../../../countries/BR/sights/pinacoteca-sao-paulo.yaml) | 8.9 / 9.0 / 9.3 / 9.0 / 9.3 | impact: +0.1 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-national-arts-festival — Makhanda National Arts Festival Performing and Visual Arts — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/national-arts-festival.yaml)
+- Action: new
+- Scope: Annual multidisciplinary festival dating to 1974 with theatre, dance, music and visual arts; distinct from permanent town attractions. Cambridge theatre scholarship corroborates national prominence.
+- Representative coordinates: -33.31, 26.52; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 9.2 / 9.3.
+- Categories: culture:9.4 nightlife:9.3 history:9.2.
+- Overall: 92.00/100.
+- Source: https://nationalartsfestival.co.za/about/about-us/
+- Source: https://help.nationalartsfestival.co.za/portal/en/kb/articles/what-is-the-national-arts-festival
+- Source: https://www.cambridge.org/core/books/abs/cambridge-companion-to-international-theatre-festivals/national-arts-festival-in-grahamstown/2668985AAE605F6290A5F730152EA0FF
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/district-six-museum](../../../countries/ZA/sights/district-six-museum.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 8.2 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [BR/festival-de-curitiba](../../../countries/BR/sights/festival-de-curitiba.yaml) | 9.0 / 9.1 / 9.1 / 9.2 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+| [BR/garanhuns-winter-festival](../../../countries/BR/sights/garanhuns-winter-festival.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-cape-town-jazz-festival — Cape Town International Jazz Festival — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/cape-town-jazz-festival.yaml)
+- Action: new
+- Scope: Recurring festival founded in 2000 featuring South African and international musicians; separate from permanent venues. Location representative city centre because 2027 programme is announced across multiple venues.
+- Representative coordinates: -33.92, 18.43; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.4 nightlife:9.3 photography:9.0.
+- Overall: 90.85/100.
+- Source: https://capetownjazzfest.com/history
+- Source: https://capetownjazzfest.com/news/cape-town-international-jazz-festival-expands-across-the-city-for-march-2027
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/rock-in-rio](../../../countries/BR/sights/rock-in-rio.yaml) | 9.3 / 9.2 / 9.3 / 9.4 / 9.2 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [BR/campos-jordao-winter-festival](../../../countries/BR/sights/campos-jordao-winter-festival.yaml) | 8.9 / 9.0 / 9.2 / 9.3 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.0 vs peer |
+| [ZA/zeitz-mocaa](../../../countries/ZA/sights/zeitz-mocaa.yaml) | 9.0 / 9.3 / 9.3 / 9.1 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-pilanesberg — Pilanesberg Game Reserve Volcanic Landscape and Wildlife Safaris — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/pilanesberg.yaml)
+- Action: new
+- Scope: Separate reserve in ancient volcanic terrain, about 55,000 hectares per visitor information; not part of Kruger.
+- Representative coordinates: -25.25, 27.08; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.1 / 8.9 / 8.7 / 9.0 / 9.0.
+- Categories: wildlife:9.3 nature:9.2 photography:9.2.
+- Overall: 89.45/100.
+- Source: https://pilanesberg.travel/about/big-5-encounters
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kruger-national-park](../../../countries/ZA/sights/kruger-national-park.yaml) | 9.7 / 9.5 / 9.5 / 9.5 / 9.7 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer |
+| [ZA/addo-elephant-national-park](../../../countries/ZA/sights/addo-elephant-national-park.yaml) | 9.1 / 8.9 / 8.9 / 9.0 / 9.0 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-west-coast-national-park — West Coast National Park Langebaan Lagoon and Postberg Wildflowers — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/west-coast-national-park.yaml)
+- Action: new
+- Scope: Park-specific lagoon, birding and seasonal flower experiences; Postberg is seasonally accessible. Distinct from Namaqualand.
+- Representative coordinates: -33.18, 18.1; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.8 / 8.8 / 8.9.
+- Categories: nature:9.3 photography:9.3 wildlife:9.2.
+- Overall: 88.40/100.
+- Source: https://www.sanparks.org/parks/west-coast/explore/fauna-flora/vegetation
+- Source: https://www.sanparks.org/news/west-coast-national-park-welcomes-visitors-to-the-2026-wildflower-season
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kirstenbosch](../../../countries/ZA/sights/kirstenbosch.yaml) | 9.1 / 9.0 / 9.0 / 9.1 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [ZA/namaqua-national-park](../../../countries/ZA/sights/namaqua-national-park.yaml) | 9.4 / 9.3 / 9.0 / 9.0 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-cape-agulhas — Cape Agulhas National Park Southernmost Tip and Lighthouse — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/cape-agulhas.yaml)
+- Action: new
+- Scope: Southernmost mainland African tip and lighthouse visit, distinct from Cape Point; no specific ocean-boundary visual claim.
+- Representative coordinates: -34.83, 20.0; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.7 / 8.6 / 8.2.
+- Categories: nature:9.1 history:9.0 photography:9.2.
+- Overall: 86.85/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/cape-point](../../../countries/ZA/sights/cape-point.yaml) | 9.3 / 8.9 / 8.8 / 9.1 / 8.6 | impact: -0.6 vs peer; uniqueness: +0.0 vs peer |
+| [ZA/chapmans-peak-drive](../../../countries/ZA/sights/chapmans-peak-drive.yaml) | 9.0 / 8.5 / 8.2 / 8.8 / 8.2 | impact: -0.3 vs peer; uniqueness: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-karoo-national-park — Karoo National Park Beaufort West Arid Mountain and Fossil Landscapes — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/karoo-national-park.yaml)
+- Action: new
+- Scope: Separate semi-arid protected area with mountain drives and fossil interpretation; access and wildlife not guaranteed.
+- Representative coordinates: -32.32, 22.49; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.6 / 8.6 / 8.8.
+- Categories: nature:9.2 wildlife:9.1 photography:9.2.
+- Overall: 86.75/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kgalagadi-south-africa](../../../countries/ZA/sights/kgalagadi-south-africa.yaml) | 9.2 / 9.2 / 8.9 / 8.8 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer |
+| [ZA/golden-gate-highlands](../../../countries/ZA/sights/golden-gate-highlands.yaml) | 8.9 / 8.6 / 8.5 / 8.8 / 8.8 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-mokala-national-park — Mokala National Park Savanna Wildlife and Conservation Safaris — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/mokala-national-park.yaml)
+- Action: new
+- Scope: Separate Northern Cape park focused on conservation of savanna species; no wildlife sightings guaranteed.
+- Representative coordinates: -29.16, 24.32; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.7 / 8.6 / 8.6.
+- Categories: wildlife:9.2 nature:9.1 photography:9.0.
+- Overall: 85.60/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/addo-elephant-national-park](../../../countries/ZA/sights/addo-elephant-national-park.yaml) | 9.1 / 8.9 / 8.9 / 9.0 / 9.0 | impact: -0.7 vs peer; uniqueness: -0.3 vs peer |
+| [ZA/kgalagadi-south-africa](../../../countries/ZA/sights/kgalagadi-south-africa.yaml) | 9.2 / 9.2 / 8.9 / 8.8 / 9.2 | impact: -0.8 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-sun-city — Sun City Resort Valley of Waves and Leisure Entertainment — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/sun-city.yaml)
+- Action: new
+- Scope: Waterpark and leisure attractions only; lodging, gambling and nearby Pilanesberg excluded.
+- Representative coordinates: -25.34, 27.1; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.3 / 8.0 / 9.1 / 8.8.
+- Categories: family:9.3 relaxation:9.2 adventure:9.0.
+- Overall: 85.00/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BR/beto-carrero-world](../../../countries/BR/sights/beto-carrero-world.yaml) | 8.8 / 8.5 / 8.1 / 9.2 / 8.9 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [ZA/pilanesberg](../../../countries/ZA/sights/pilanesberg.yaml) | 9.1 / 8.9 / 8.7 / 9.0 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-bo-kaap — Bo-Kaap Cape Town Historic Cape Malay District — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/bo-kaap.yaml)
+- Action: new
+- Scope: Public streets and cultural interpretation of historic Cape Malay neighbourhood; resident privacy respected; no private-home access implied.
+- Representative coordinates: -33.922, 18.415; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.7 / 8.3.
+- Categories: culture:9.3 history:9.2 photography:9.3.
+- Overall: 86.95/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/district-six-museum](../../../countries/ZA/sights/district-six-museum.yaml) | 8.7 / 8.9 / 9.2 / 8.8 / 8.2 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer |
+| [BR/liberdade-sao-paulo](../../../countries/BR/sights/liberdade-sao-paulo.yaml) | 8.8 / 8.9 / 8.9 / 9.1 / 8.8 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-victoria-alfred-waterfront — Victoria and Alfred Waterfront Cape Town Historic Harbour Public Spaces — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/victoria-alfred-waterfront.yaml)
+- Action: new
+- Scope: Public harbour promenade, markets and maritime setting only; excludes Zeitz MOCAA, aquarium and Robben Island excursions.
+- Representative coordinates: -33.904, 18.42; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.2 / 8.4 / 9.0 / 8.8.
+- Categories: food:9.1 culture:9.0 relaxation:9.2.
+- Overall: 85.40/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/cape-winelands](../../../countries/ZA/sights/cape-winelands.yaml) | 9.0 / 8.7 / 8.7 / 9.3 / 9.1 | impact: -0.4 vs peer; uniqueness: -0.5 vs peer |
+| [BR/mercado-municipal-sao-paulo](../../../countries/BR/sights/mercado-municipal-sao-paulo.yaml) | 8.4 / 8.3 / 8.5 / 8.8 / 8.2 | impact: +0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+## sight-za-oudtshoorn-cango-caves — Cango Caves Oudtshoorn Limestone Cavern Tours — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/oudtshoorn-cango-caves.yaml)
+- Action: new
+- Scope: Dedicated cave tour experience distinct from Garden Route National Park; no adventure-tour eligibility or safety assurance.
+- Representative coordinates: -33.392, 22.214; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 8.8 / 8.3.
+- Categories: nature:9.3 photography:9.2 adventure:9.1.
+- Overall: 87.45/100.
+- Decision: provisional worldwide score; temporary access excluded from intrinsic ranking. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/sterkfontein-caves](../../../countries/ZA/sights/sterkfontein-caves.yaml) | 8.7 / 9.5 / 9.8 / 8.8 / 8.4 | impact: +0.2 vs peer; uniqueness: -0.6 vs peer |
+| [BR/gruta-maquine](../../../countries/BR/sights/gruta-maquine.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 8.5 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 249 scope decisions
+
+16 additions, 9 source-linked provisional, 7 desk-based provisional, 7 90+, 41 ranking-row comparisons (14 international). ZA 44 ranked / 50 total, +16 since baseline 34. South Africa selected for sparse baseline and missing flagship safaris, museums and festivals. Sabi Sand shared ecosystem non-additive with Kruger; independently operated safaris only. Namaqua and West Coast separate flower circuits; bloom conditions variable. Constitution Hill deferred as component of Mandela Legacy Sites (https://www.constitutionhill.org.za/home); Maropeng deferred pending Fossil Hominid Sites parent-scope reconciliation (https://www.maropeng.co.za/); De Hoop deferred pending Cape Floral aggregate boundary review (https://whc.unesco.org/en/list/1007/). V&A public harbour excludes Zeitz and Robben Island. Existing six unassessed and ratings preserved. Coordinates approximate, access and future schedules unverified. Regional discovery queue open; further park, heritage and recurring-event screen needed.

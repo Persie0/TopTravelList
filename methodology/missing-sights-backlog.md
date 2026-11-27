@@ -4405,3 +4405,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BR — Gruta Rei do Mato Sete Lagoas Limestone Cave Visitor Circuit: 85.55/100 (desk-based provisional).
 
 14 additions, 10 source-linked provisional, 4 desk-based provisional, 5 90+, 34 ranking-row comparisons (2 international). BR 235 ranked / 238 total, +153 since baseline 85. Espírito Santo gaps targeted; Penha festival and convent separately scoped; Lollapalooza and Interlagos Formula One separate events with shared facilities non-additive. Caraça built heritage and reserve grouped. Cantão deferred pending reconciliation of prior public-use provisions with 2026 management-plan revision (https://www.funbio.org.br/programas_e_projetos/acordo-bilateral-tfca/protecao-uso-publico-e-monitoramento-parque-estadual-cantao/ and https://portalamazonia.com/turismo/estudo-tecnico-parque-cantao-to/); Cabo Orange deferred pending distinction between historical restricted visitation and listed birding potential (https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-do-cabo-orange and https://www.gov.br/icmbio/pt-br/assuntos/observacao-de-aves/lista-das-unidades-com-turismo-de-observacao-de-aves). Neither deferral is a score penalty. Prior named deferrals and three unassessed entries retained. Pass 247 UNESCO representation finding retained, not independently rechecked this pass. Close current bounded Brazilian discovery queue after passes 239–248; not exhaustive. Reopen on concrete substantial omissions or new scope evidence, including The Town/Brazil Game Show and other recurring events for cross-country event calibration. Existing scores preserved. Coordinates approximate; access and future schedules unverified; full Python validation and historical evidence review pending.
+
+### Pass 249 — South Africa flagship wildlife, arts and visitor experiences
+
+- [x] ZA — Hluhluwe-iMfolozi Park Rhino Conservation and Wildlife Safaris: 93.20/100 (source-linked-unverified).
+- [x] ZA — Sabi Sand Nature Reserve Guided Wildlife Safaris: 91.40/100 (source-linked-unverified).
+- [x] ZA — Madikwe Game Reserve Wildlife Safaris and Conservation Landscapes: 91.05/100 (source-linked-unverified).
+- [x] ZA — Namaqua National Park Namaqualand Spring Wildflowers and Succulent Karoo: 91.95/100 (source-linked-unverified).
+- [x] ZA — Zeitz Museum of Contemporary Art Africa Cape Town: 91.70/100 (source-linked-unverified).
+- [x] ZA — Makhanda National Arts Festival Performing and Visual Arts: 92.00/100 (source-linked-unverified).
+- [x] ZA — Cape Town International Jazz Festival: 90.85/100 (source-linked-unverified).
+- [x] ZA — Pilanesberg Game Reserve Volcanic Landscape and Wildlife Safaris: 89.45/100 (source-linked-unverified).
+- [x] ZA — West Coast National Park Langebaan Lagoon and Postberg Wildflowers: 88.40/100 (source-linked-unverified).
+- [x] ZA — Cape Agulhas National Park Southernmost Tip and Lighthouse: 86.85/100 (desk-based provisional).
+- [x] ZA — Karoo National Park Beaufort West Arid Mountain and Fossil Landscapes: 86.75/100 (desk-based provisional).
+- [x] ZA — Mokala National Park Savanna Wildlife and Conservation Safaris: 85.60/100 (desk-based provisional).
+- [x] ZA — Sun City Resort Valley of Waves and Leisure Entertainment: 85.00/100 (desk-based provisional).
+- [x] ZA — Bo-Kaap Cape Town Historic Cape Malay District: 86.95/100 (desk-based provisional).
+- [x] ZA — Victoria and Alfred Waterfront Cape Town Historic Harbour Public Spaces: 85.40/100 (desk-based provisional).
+- [x] ZA — Cango Caves Oudtshoorn Limestone Cavern Tours: 87.45/100 (desk-based provisional).
+
+16 additions, 9 source-linked provisional, 7 desk-based provisional, 7 90+, 41 ranking-row comparisons (14 international). ZA 44 ranked / 50 total, +16 since baseline 34. South Africa selected for sparse baseline and missing flagship safaris, museums and festivals. Sabi Sand shared ecosystem non-additive with Kruger; independently operated safaris only. Namaqua and West Coast separate flower circuits; bloom conditions variable. Constitution Hill deferred as component of Mandela Legacy Sites (https://www.constitutionhill.org.za/home); Maropeng deferred pending Fossil Hominid Sites parent-scope reconciliation (https://www.maropeng.co.za/); De Hoop deferred pending Cape Floral aggregate boundary review (https://whc.unesco.org/en/list/1007/). V&A public harbour excludes Zeitz and Robben Island. Existing six unassessed and ratings preserved. Coordinates approximate, access and future schedules unverified. Regional discovery queue open; further park, heritage and recurring-event screen needed.

@@ -1,0 +1,16 @@
+id: sight-za-pilanesberg
+name: "Pilanesberg Game Reserve Volcanic Landscape and Wildlife Safaris"
+location:
+  country_code: ZA
+  latitude: -25.25
+  longitude: 27.08
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.0
+  depth: 9.0
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 9.2
