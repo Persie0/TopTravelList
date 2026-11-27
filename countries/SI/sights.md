@@ -2,7 +2,7 @@
 
 # Slovenia (SI) — Sights & attractions ranking
 
-**44 ranked** · **1 unassessed** · **45 total** · Worldwide scoring **v2**
+**45 ranked** · **0 unassessed** · **45 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (44)
+## Complete ranked list (45)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -54,18 +54,11 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 38 | [Ancient Beech Forests (Slovenian components)](sights/beech-forests.yaml) | Forest | **85.20** | **Nature 9.4**, **Wildlife 9.2** | 8.5 / 9.1 / 9.3 / 7.5 / 7.1 | [45.56, 14.79](https://www.google.com/maps/search/?api=1&query=45.56,14.79) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ancient%20Beech%20Forests%20%28Slovenian%20components%29%2C%20Slovenia) |
 | 38 | [Church of St Francis of Assisi, Šiška](sights/st-francis-siska.yaml) | Religious site | **85.20** | **Architecture 9.2**, **History 8.9** | 8.4 / 8.8 / 8.9 / 8.4 / 7.6 | [46.069, 14.493](https://www.google.com/maps/search/?api=1&query=46.069,14.493) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Church%20of%20St%20Francis%20of%20Assisi%2C%20%C5%A0i%C5%A1ka%2C%20Slovenia) |
 | 38 | [Zelenci Nature Reserve](sights/zelenci.yaml) | Park / reserve | **85.20** | **Photography 9.2**, **Nature 9.1** | 8.6 / 8.8 / 8.4 / 8.6 / 7.7 | [46.493, 13.737](https://www.google.com/maps/search/?api=1&query=46.493,13.737) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zelenci%20Nature%20Reserve%2C%20Slovenia) |
-| 41 | [Otočec Castle exterior and grounds](sights/grad-otocec.yaml) | Palace / castle | **83.45** | **Photography 9.1**, **Architecture 8.9** | 8.5 / 8.6 / 8.3 / 8.3 / 7.4 | [45.837, 15.235](https://www.google.com/maps/search/?api=1&query=45.837,15.235) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oto%C4%8Dec%20Castle%20exterior%20and%20grounds%2C%20Slovenia) |
-| 42 | [Plečnik Roman wall archaeological park](sights/roman-wall.yaml) | Museum / heritage | **82.65** | **History 9.0**, **Architecture 8.9** | 7.9 / 8.6 / 8.8 / 8.3 / 7.4 | [46.045, 14.497](https://www.google.com/maps/search/?api=1&query=46.045,14.497) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ple%C4%8Dnik%20Roman%20wall%20archaeological%20park%2C%20Slovenia) |
-| 43 | [Trnovo Bridge](sights/trnovo-bridge.yaml) | Bridge | **82.35** | **Architecture 8.9** | 8.0 / 8.5 / 8.7 / 8.4 / 7.1 | [46.043, 14.502](https://www.google.com/maps/search/?api=1&query=46.043,14.502) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trnovo%20Bridge%2C%20Slovenia) |
-| 44 | [Prehistoric Pile Dwellings around the Alps (Slovenian components)](sights/pile-dwellings.yaml) | Attraction | **82.10** | **History 9.3** | 7.3 / 8.8 / 9.2 / 8.2 / 7.5 | [45.965, 14.52](https://www.google.com/maps/search/?api=1&query=45.965,14.52) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28Slovenian%20components%29%2C%20Slovenia) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Franja Partisan Hospital](sights/franja-hospital.yaml) | Attraction | **—** | **History 9.3** | 8.3 / 9.0 / 9.1 / — / — | [46.153, 14.028](https://www.google.com/maps/search/?api=1&query=46.153,14.028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Franja%20Partisan%20Hospital%2C%20Slovenia) |
+| 41 | [Franja Partisan Hospital](sights/franja-hospital.yaml) | Attraction | **84.80** | **History 9.3** | 8.3 / 9.0 / 9.1 / 7.6 / 7.8 | [46.153, 14.028](https://www.google.com/maps/search/?api=1&query=46.153,14.028) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Franja%20Partisan%20Hospital%2C%20Slovenia) |
+| 42 | [Otočec Castle exterior and grounds](sights/grad-otocec.yaml) | Palace / castle | **83.45** | **Photography 9.1**, **Architecture 8.9** | 8.5 / 8.6 / 8.3 / 8.3 / 7.4 | [45.837, 15.235](https://www.google.com/maps/search/?api=1&query=45.837,15.235) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oto%C4%8Dec%20Castle%20exterior%20and%20grounds%2C%20Slovenia) |
+| 43 | [Plečnik Roman wall archaeological park](sights/roman-wall.yaml) | Museum / heritage | **82.65** | **History 9.0**, **Architecture 8.9** | 7.9 / 8.6 / 8.8 / 8.3 / 7.4 | [46.045, 14.497](https://www.google.com/maps/search/?api=1&query=46.045,14.497) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ple%C4%8Dnik%20Roman%20wall%20archaeological%20park%2C%20Slovenia) |
+| 44 | [Trnovo Bridge](sights/trnovo-bridge.yaml) | Bridge | **82.35** | **Architecture 8.9** | 8.0 / 8.5 / 8.7 / 8.4 / 7.1 | [46.043, 14.502](https://www.google.com/maps/search/?api=1&query=46.043,14.502) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Trnovo%20Bridge%2C%20Slovenia) |
+| 45 | [Prehistoric Pile Dwellings around the Alps (Slovenian components)](sights/pile-dwellings.yaml) | Attraction | **82.10** | **History 9.3** | 7.3 / 8.8 / 9.2 / 8.2 / 7.5 | [45.965, 14.52](https://www.google.com/maps/search/?api=1&query=45.965,14.52) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Prehistoric%20Pile%20Dwellings%20around%20the%20Alps%20%28Slovenian%20components%29%2C%20Slovenia) |
 
 ---
 

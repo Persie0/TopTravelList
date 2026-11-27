@@ -2,7 +2,7 @@
 
 # Ghana (GH) — Sights & attractions ranking
 
-**49 ranked** · **1 unassessed** · **50 total** · Worldwide scoring **v2**
+**50 ranked** · **0 unassessed** · **50 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (49)
+## Complete ranked list (50)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -55,22 +55,15 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 39 | [Fort Good Hope (Senya Beraku)](sights/fort-good-hope-senya-beraku.yaml) | Fortification | **77.70** | **History 8.7**, **Architecture 8.3** | 7.6 / 7.9 / 8.4 / 7.7 / 6.8 | [5.385, -0.489](https://www.google.com/maps/search/?api=1&query=5.385,-0.489) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Good%20Hope%20%28Senya%20Beraku%29%2C%20Ghana) |
 | 40 | [Fort Prinzenstein (Keta)](sights/fort-prinzenstein-keta.yaml) | Fortification | **77.35** | **History 9.1**, **Architecture 8.0** | 7.3 / 8.2 / 8.8 / 7.3 / 6.4 | [5.919, 0.989](https://www.google.com/maps/search/?api=1&query=5.919,0.989) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Prinzenstein%20%28Keta%29%2C%20Ghana) |
 | 41 | [Fort Patience (Apam)](sights/fort-patience-apam.yaml) | Fortification | **77.20** | **History 8.8**, **Architecture 8.3** | 7.5 / 7.9 / 8.5 / 7.5 / 6.7 | [5.28, -0.738](https://www.google.com/maps/search/?api=1&query=5.28,-0.738) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Patience%20%28Apam%29%2C%20Ghana) |
-| 42 | [Boti Falls](sights/boti-falls.yaml) | Waterfall | **76.90** | **Photography 8.7**, **Nature 8.6** | 8.1 / 7.9 / 6.7 / 8.3 / 7.0 | [6.212, -0.197](https://www.google.com/maps/search/?api=1&query=6.212,-0.197) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boti%20Falls%2C%20Ghana) |
-| 43 | [Mount Afadja](sights/mount-afadja.yaml) | Mountain / peak | **76.60** | **Adventure 8.6**, **Photography 8.6**, **Nature 8.3** | 7.9 / 7.6 / 7.2 / 8.2 / 7.2 | [7.027, 0.564](https://www.google.com/maps/search/?api=1&query=7.027,0.564) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Afadja%2C%20Ghana) |
-| 44 | [Busua Beach](sights/busua-beach.yaml) | Beach / bay | **76.55** | **Beaches 8.8**, **Relaxation 8.8**, **Adventure 8.7** | 8.2 / 7.7 / 6.2 / 8.6 / 7.4 | [4.802, -1.94](https://www.google.com/maps/search/?api=1&query=4.802,-1.94) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Busua%20Beach%2C%20Ghana) |
-| 45 | [Fort Amsterdam (Abandze)](sights/fort-amsterdam-abandze.yaml) | Fortification | **76.40** | **History 8.9**, **Architecture 8.0** | 7.3 / 8.0 / 8.6 / 7.2 / 6.5 | [5.193, -1.082](https://www.google.com/maps/search/?api=1&query=5.193,-1.082) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Amsterdam%20%28Abandze%29%2C%20Ghana) |
-| 46 | [Fort Batenstein (Butre)](sights/fort-batenstein-butre.yaml) | Fortification | **76.25** | **History 8.6**, **Photography 8.3** | 7.4 / 7.9 / 8.3 / 7.6 / 6.3 | [4.817, -1.912](https://www.google.com/maps/search/?api=1&query=4.817,-1.912) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Batenstein%20%28Butre%29%2C%20Ghana) |
-| 47 | [Makola Market](sights/makola-market.yaml) | Market | **75.95** | **Culture 8.5**, **Food 8.4** | 7.3 / 8.0 / 7.2 / 8.1 / 7.5 | [5.548, -0.206](https://www.google.com/maps/search/?api=1&query=5.548,-0.206) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Makola%20Market%2C%20Ghana) |
-| 48 | [Paga Crocodile Pond](sights/paga-crocodile-pond.yaml) | Attraction | **75.20** | **Wildlife 8.5**, **Culture 8.2** | 7.2 / 8.2 / 7.6 / 7.6 / 6.5 | [11.0, -1.11](https://www.google.com/maps/search/?api=1&query=11.0,-1.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paga%20Crocodile%20Pond%2C%20Ghana) |
-| 49 | [Labadi Beach](sights/labadi-beach.yaml) | Beach / bay | **70.95** | **Beaches 8.2**, **Relaxation 8.0**, **Culture 7.7** | 7.4 / 7.0 / 6.0 / 8.1 / 7.1 | [5.563, -0.139](https://www.google.com/maps/search/?api=1&query=5.563,-0.139) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Labadi%20Beach%2C%20Ghana) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Fort Orange (Sekondi)](sights/fort-orange-sekondi.yaml) | Fortification | **—** | **History 8.5** | — / 7.7 / 8.2 / — / — | [4.936, -1.709](https://www.google.com/maps/search/?api=1&query=4.936,-1.709) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Orange%20%28Sekondi%29%2C%20Ghana) |
+| 42 | [Fort Orange (Sekondi)](sights/fort-orange-sekondi.yaml) | Fortification | **77.05** | **History 8.5** | 7.4 / 7.7 / 8.2 / 7.6 / 7.8 | [4.936, -1.709](https://www.google.com/maps/search/?api=1&query=4.936,-1.709) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Orange%20%28Sekondi%29%2C%20Ghana) |
+| 43 | [Boti Falls](sights/boti-falls.yaml) | Waterfall | **76.90** | **Photography 8.7**, **Nature 8.6** | 8.1 / 7.9 / 6.7 / 8.3 / 7.0 | [6.212, -0.197](https://www.google.com/maps/search/?api=1&query=6.212,-0.197) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boti%20Falls%2C%20Ghana) |
+| 44 | [Mount Afadja](sights/mount-afadja.yaml) | Mountain / peak | **76.60** | **Adventure 8.6**, **Photography 8.6**, **Nature 8.3** | 7.9 / 7.6 / 7.2 / 8.2 / 7.2 | [7.027, 0.564](https://www.google.com/maps/search/?api=1&query=7.027,0.564) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mount%20Afadja%2C%20Ghana) |
+| 45 | [Busua Beach](sights/busua-beach.yaml) | Beach / bay | **76.55** | **Beaches 8.8**, **Relaxation 8.8**, **Adventure 8.7** | 8.2 / 7.7 / 6.2 / 8.6 / 7.4 | [4.802, -1.94](https://www.google.com/maps/search/?api=1&query=4.802,-1.94) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Busua%20Beach%2C%20Ghana) |
+| 46 | [Fort Amsterdam (Abandze)](sights/fort-amsterdam-abandze.yaml) | Fortification | **76.40** | **History 8.9**, **Architecture 8.0** | 7.3 / 8.0 / 8.6 / 7.2 / 6.5 | [5.193, -1.082](https://www.google.com/maps/search/?api=1&query=5.193,-1.082) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Amsterdam%20%28Abandze%29%2C%20Ghana) |
+| 47 | [Fort Batenstein (Butre)](sights/fort-batenstein-butre.yaml) | Fortification | **76.25** | **History 8.6**, **Photography 8.3** | 7.4 / 7.9 / 8.3 / 7.6 / 6.3 | [4.817, -1.912](https://www.google.com/maps/search/?api=1&query=4.817,-1.912) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Batenstein%20%28Butre%29%2C%20Ghana) |
+| 48 | [Makola Market](sights/makola-market.yaml) | Market | **75.95** | **Culture 8.5**, **Food 8.4** | 7.3 / 8.0 / 7.2 / 8.1 / 7.5 | [5.548, -0.206](https://www.google.com/maps/search/?api=1&query=5.548,-0.206) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Makola%20Market%2C%20Ghana) |
+| 49 | [Paga Crocodile Pond](sights/paga-crocodile-pond.yaml) | Attraction | **75.20** | **Wildlife 8.5**, **Culture 8.2** | 7.2 / 8.2 / 7.6 / 7.6 / 6.5 | [11.0, -1.11](https://www.google.com/maps/search/?api=1&query=11.0,-1.11) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paga%20Crocodile%20Pond%2C%20Ghana) |
+| 50 | [Labadi Beach](sights/labadi-beach.yaml) | Beach / bay | **70.95** | **Beaches 8.2**, **Relaxation 8.0**, **Culture 7.7** | 7.4 / 7.0 / 6.0 / 8.1 / 7.1 | [5.563, -0.139](https://www.google.com/maps/search/?api=1&query=5.563,-0.139) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Labadi%20Beach%2C%20Ghana) |
 
 ---
 

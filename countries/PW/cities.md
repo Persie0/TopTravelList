@@ -2,7 +2,7 @@
 
 # Palau (PW) — Cities, towns & villages ranking
 
-**5 ranked** · **2 unassessed** · **7 total** · Worldwide scoring **v2**
+**7 ranked** · **0 unassessed** · **7 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,24 +10,17 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (5)
+## Complete ranked list (7)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Koror](cities/koror.yaml) | City / town | **77.50** | **Culture 8.1**, **History 7.7**, **Food 7.5** | 7.3 / 8.0 / 7.8 / 8.2 / 7.7 | [7.33978, 134.47326](https://www.google.com/maps/search/?api=1&query=7.33978,134.47326) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Koror%2C%20Palau) |
 | 2 | [Airai Village (Ordomel)](cities/airai-village.yaml) | Village | **73.30** | **Culture 8.2**, **Architecture 7.7** | 6.9 / 7.9 / 7.8 / 7.1 / 6.6 | [7.3612, 134.5603](https://www.google.com/maps/search/?api=1&query=7.3612,134.5603) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Airai%20Village%20%28Ordomel%29%2C%20Palau) |
 | 3 | [Melekeok Village](cities/melekeok.yaml) | Village | **72.55** | **Culture 7.8**, **History 7.7**, **Photography 7.4** | 7.0 / 7.7 / 7.6 / 7.0 / 6.6 | [7.49567, 134.63671](https://www.google.com/maps/search/?api=1&query=7.49567,134.63671) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Melekeok%20Village%2C%20Palau) |
-| 4 | [Kloulklubed](cities/kloulklubed.yaml) | City / town | **71.80** | **History 8.2**, **Culture 7.0** | 6.7 / 7.5 / 8.0 / 6.9 / 6.6 | [7.04192, 134.25561](https://www.google.com/maps/search/?api=1&query=7.04192,134.25561) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kloulklubed%2C%20Palau) |
-| 5 | [Ngerulmud](cities/ngerulmud.yaml) | City / town | **68.25** | **Architecture 7.3**, **History 6.9** | 6.5 / 7.6 / 7.5 / 6.1 / 5.6 | [7.50077, 134.6238](https://www.google.com/maps/search/?api=1&query=7.50077,134.6238) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngerulmud%2C%20Palau) |
-
-## Not yet fully assessed (2)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Mengellang](cities/mengellang.yaml) | City / town | **—** | — | — / — / — / — / — | [7.71055, 134.63017](https://www.google.com/maps/search/?api=1&query=7.71055,134.63017) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mengellang%2C%20Palau) |
-| — | [Ngardmau Village](cities/ngardmau.yaml) | Village | **—** | — | — / — / — / — / — | [7.58505, 134.55961](https://www.google.com/maps/search/?api=1&query=7.58505,134.55961) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngardmau%20Village%2C%20Palau) |
+| 4 | [Mengellang](cities/mengellang.yaml) | City / town | **72.15** | — | 7.1 / 7.2 / 7.1 / 7.5 / 7.4 | [7.71055, 134.63017](https://www.google.com/maps/search/?api=1&query=7.71055,134.63017) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mengellang%2C%20Palau) |
+| 5 | [Kloulklubed](cities/kloulklubed.yaml) | City / town | **71.80** | **History 8.2**, **Culture 7.0** | 6.7 / 7.5 / 8.0 / 6.9 / 6.6 | [7.04192, 134.25561](https://www.google.com/maps/search/?api=1&query=7.04192,134.25561) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kloulklubed%2C%20Palau) |
+| 6 | [Ngardmau Village](cities/ngardmau.yaml) | Village | **71.15** | — | 7.0 / 7.1 / 7.0 / 7.4 / 7.3 | [7.58505, 134.55961](https://www.google.com/maps/search/?api=1&query=7.58505,134.55961) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngardmau%20Village%2C%20Palau) |
+| 7 | [Ngerulmud](cities/ngerulmud.yaml) | City / town | **68.25** | **Architecture 7.3**, **History 6.9** | 6.5 / 7.6 / 7.5 / 6.1 / 5.6 | [7.50077, 134.6238](https://www.google.com/maps/search/?api=1&query=7.50077,134.6238) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ngerulmud%2C%20Palau) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Tanzania (TZ) — Sights & attractions ranking
 
-**21 ranked** · **6 unassessed** · **27 total** · Worldwide scoring **v2**
+**30 ranked** · **0 unassessed** · **30 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (21)
+## Complete ranked list (30)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -32,22 +32,18 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 16 | [Lake Manyara National Park](sights/lake-manyara-national-park.yaml) | Park / reserve | **89.20** | **Nature 9.2**, **Wildlife 9.2**, **Photography 9.0** | 8.9 / 9.0 / 9.1 / 8.8 / 8.6 | [-3.5395, 35.7818](https://www.google.com/maps/search/?api=1&query=-3.5395,35.7818) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lake%20Manyara%20National%20Park%2C%20Tanzania) |
 | 17 | [Arusha National Park](sights/arusha-national-park.yaml) | Park / reserve | **89.05** | **Nature 9.2**, **Adventure 9.1**, **Photography 9.0**, Wildlife 8.8 | 8.9 / 8.9 / 8.8 / 9.0 / 9.0 | [-3.258, 36.797](https://www.google.com/maps/search/?api=1&query=-3.258,36.797) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Arusha%20National%20Park%2C%20Tanzania) |
 | 18 | [Kondoa Rock-Art Sites](sights/kondoa-rock-art.yaml) | Attraction | **88.40** | **History 9.4**, **Culture 9.3** | 8.5 / 9.3 / 9.4 / 8.3 / 8.4 | [-4.72, 35.83](https://www.google.com/maps/search/?api=1&query=-4.72,35.83) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kondoa%20Rock-Art%20Sites%2C%20Tanzania) |
-| 19 | [Jozani–Chwaka Bay National Park](sights/jozani-chwaka-bay.yaml) | Park / reserve | **87.30** | **Wildlife 9.3**, **Nature 9.2** | 8.5 / 8.9 / 9.2 / 8.7 / 8.1 | [-6.225, 39.391667](https://www.google.com/maps/search/?api=1&query=-6.225,39.391667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jozani%E2%80%93Chwaka%20Bay%20National%20Park%2C%20Tanzania) |
-| 19 | [Ruins of Songo Mnara](sights/songo-mnara-ruins.yaml) | Museum / heritage | **87.30** | **History 9.3**, **Architecture 9.0** | 8.5 / 9.1 / 9.2 / 8.3 / 8.2 | [-9.049444, 39.567222](https://www.google.com/maps/search/?api=1&query=-9.049444,39.567222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ruins%20of%20Songo%20Mnara%2C%20Tanzania) |
-| 21 | [Central Slave and Ivory Trade Route](sights/central-slave-ivory-trade-route.yaml) | Attraction | **87.25** | **History 9.4** | 8.3 / 8.9 / 9.3 / 8.6 / 8.6 | [-6.433333, 38.9](https://www.google.com/maps/search/?api=1&query=-6.433333,38.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Central%20Slave%20and%20Ivory%20Trade%20Route%2C%20Tanzania) |
-
-## Not yet fully assessed (6)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Bukoba Geometric Rock Art](sights/bukoba-rock-art.yaml) | Attraction | **—** | **History 9.0** | — / 8.8 / 8.9 / — / — | [-1.332453, 31.805319](https://www.google.com/maps/search/?api=1&query=-1.332453,31.805319) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bukoba%20Geometric%20Rock%20Art%2C%20Tanzania) |
-| — | [Muleba Geometric Rock Art](sights/muleba-rock-art.yaml) | Attraction | **—** | **History 9.1** | — / 8.9 / 9.0 / — / — | [-1.868192, 31.653531](https://www.google.com/maps/search/?api=1&query=-1.868192,31.653531) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Muleba%20Geometric%20Rock%20Art%2C%20Tanzania) |
-| — | [Musoma Geometric Rock Art (Kasoma)](sights/musoma-rock-art.yaml) | Attraction | **—** | **History 9.0** | — / 8.8 / 8.9 / — / — | [-1.77543, 33.57049](https://www.google.com/maps/search/?api=1&query=-1.77543,33.57049) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Musoma%20Geometric%20Rock%20Art%20%28Kasoma%29%2C%20Tanzania) |
-| — | [Mwanza Geometric Rock Art](sights/mwanza-rock-art.yaml) | Attraction | **—** | **History 9.0** | — / 8.8 / 8.9 / — / — | [-2.508742, 32.916922](https://www.google.com/maps/search/?api=1&query=-2.508742,32.916922) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mwanza%20Geometric%20Rock%20Art%2C%20Tanzania) |
-| — | [Oldonyo Murwak](sights/oldonyo-murwak.yaml) | Attraction | **—** | **Culture 9.2** | — / 8.8 / 9.0 / — / — | [-3.366667, 37.05](https://www.google.com/maps/search/?api=1&query=-3.366667,37.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oldonyo%20Murwak%2C%20Tanzania) |
-| — | [Tendaguru Palaeontological Site](sights/tendaguru-fossil-site.yaml) | Attraction | **—** | **Nature 9.4**, **History 9.2** | — / 9.3 / 9.5 / — / — | [-10.0502, 39.1166](https://www.google.com/maps/search/?api=1&query=-10.0502,39.1166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tendaguru%20Palaeontological%20Site%2C%20Tanzania) |
+| 19 | [Tendaguru Palaeontological Site](sights/tendaguru-fossil-site.yaml) | Attraction | **87.40** | **Nature 9.4**, **History 9.2** | 8.0 / 9.3 / 9.5 / 8.1 / 9.0 | [-10.0502, 39.1166](https://www.google.com/maps/search/?api=1&query=-10.0502,39.1166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Tendaguru%20Palaeontological%20Site%2C%20Tanzania) |
+| 20 | [Jozani–Chwaka Bay National Park](sights/jozani-chwaka-bay.yaml) | Park / reserve | **87.30** | **Wildlife 9.3**, **Nature 9.2** | 8.5 / 8.9 / 9.2 / 8.7 / 8.1 | [-6.225, 39.391667](https://www.google.com/maps/search/?api=1&query=-6.225,39.391667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jozani%E2%80%93Chwaka%20Bay%20National%20Park%2C%20Tanzania) |
+| 20 | [Ruins of Songo Mnara](sights/songo-mnara-ruins.yaml) | Museum / heritage | **87.30** | **History 9.3**, **Architecture 9.0** | 8.5 / 9.1 / 9.2 / 8.3 / 8.2 | [-9.049444, 39.567222](https://www.google.com/maps/search/?api=1&query=-9.049444,39.567222) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ruins%20of%20Songo%20Mnara%2C%20Tanzania) |
+| 22 | [Central Slave and Ivory Trade Route](sights/central-slave-ivory-trade-route.yaml) | Attraction | **87.25** | **History 9.4** | 8.3 / 8.9 / 9.3 / 8.6 / 8.6 | [-6.433333, 38.9](https://www.google.com/maps/search/?api=1&query=-6.433333,38.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Central%20Slave%20and%20Ivory%20Trade%20Route%2C%20Tanzania) |
+| 23 | [Mnemba Island surrounding reef snorkeling](sights/mnemba-atoll.yaml) | Island | **85.50** | **Nature 8.9**, **Wildlife 8.9**, **Adventure 8.8** | 8.7 / 8.6 / 8.2 / 8.8 / 8.3 | [-5.81949, 39.38368](https://www.google.com/maps/search/?api=1&query=-5.81949,39.38368) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mnemba%20Island%20surrounding%20reef%20snorkeling%2C%20Tanzania) |
+| 24 | [Muleba Geometric Rock Art](sights/muleba-rock-art.yaml) | Attraction | **85.10** | **History 9.1** | 8.0 / 8.9 / 9.0 / 8.1 / 8.7 | [-1.868192, 31.653531](https://www.google.com/maps/search/?api=1&query=-1.868192,31.653531) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Muleba%20Geometric%20Rock%20Art%2C%20Tanzania) |
+| 25 | [Oldonyo Murwak](sights/oldonyo-murwak.yaml) | Attraction | **84.60** | **Culture 9.2** | 8.0 / 8.8 / 9.0 / 8.0 / 8.6 | [-3.366667, 37.05](https://www.google.com/maps/search/?api=1&query=-3.366667,37.05) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Oldonyo%20Murwak%2C%20Tanzania) |
+| 26 | [Musoma Geometric Rock Art (Kasoma)](sights/musoma-rock-art.yaml) | Attraction | **83.80** | **History 9.0** | 7.8 / 8.8 / 8.9 / 8.0 / 8.6 | [-1.77543, 33.57049](https://www.google.com/maps/search/?api=1&query=-1.77543,33.57049) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Musoma%20Geometric%20Rock%20Art%20%28Kasoma%29%2C%20Tanzania) |
+| 27 | [Nungwi Beach](sights/nungwi-beach.yaml) | Beach / bay | **83.55** | **Beaches 9.1**, **Relaxation 9.0**, **Photography 8.8** | 8.7 / 8.2 / 7.7 / 8.9 / 8.2 | [-5.7272, 39.2992](https://www.google.com/maps/search/?api=1&query=-5.7272,39.2992) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nungwi%20Beach%2C%20Tanzania) |
+| 28 | [Mwanza Geometric Rock Art](sights/mwanza-rock-art.yaml) | Attraction | **83.25** | **History 9.0** | 7.7 / 8.8 / 8.9 / 7.9 / 8.5 | [-2.508742, 32.916922](https://www.google.com/maps/search/?api=1&query=-2.508742,32.916922) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mwanza%20Geometric%20Rock%20Art%2C%20Tanzania) |
+| 29 | [Bukoba Geometric Rock Art](sights/bukoba-rock-art.yaml) | Attraction | **82.95** | **History 9.0** | 7.6 / 8.8 / 8.9 / 7.9 / 8.5 | [-1.332453, 31.805319](https://www.google.com/maps/search/?api=1&query=-1.332453,31.805319) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bukoba%20Geometric%20Rock%20Art%2C%20Tanzania) |
+| 30 | [Paje Beach](sights/paje-beach.yaml) | Beach / bay | **82.25** | **Beaches 9.0**, **Adventure 8.9**, **Photography 8.7** | 8.5 / 8.1 / 7.6 / 8.8 / 8.1 | [-6.2667, 39.5341](https://www.google.com/maps/search/?api=1&query=-6.2667,39.5341) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Paje%20Beach%2C%20Tanzania) |
 
 ---
 

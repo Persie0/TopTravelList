@@ -2,7 +2,7 @@
 
 # Somalia (SO) — Cities, towns & villages ranking
 
-**3 ranked** · **7 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,27 +10,20 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (3)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
-| 1 | [Berbera](cities/berbera.yaml) | City / town | **81.00** | **Beaches 8.5**, **Architecture 8.4**, **Culture 8.4** | 8.0 / 8.4 / 8.1 / 8.0 / 7.8 | [10.43959, 45.01432](https://www.google.com/maps/search/?api=1&query=10.43959,45.01432) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Berbera%2C%20Somalia) |
-| 2 | [Hargeisa](cities/hargeisa.yaml) | City / town | **74.80** | **Culture 8.3**, **History 8.1** | 7.1 / 7.7 / 7.9 / 7.5 / 7.2 | [9.56, 44.065](https://www.google.com/maps/search/?api=1&query=9.56,44.065) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hargeisa%2C%20Somalia) |
-| 3 | [Sheikh](cities/sheikh.yaml) | City / town | **73.00** | **Culture 7.7**, **Architecture 7.4** | 7.2 / 7.6 / 7.3 / 7.4 / 6.7 | [9.929, 45.192](https://www.google.com/maps/search/?api=1&query=9.929,45.192) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sheikh%2C%20Somalia) |
-
-## Not yet fully assessed (7)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Baidoa](cities/baidoa.yaml) | City / town | **—** | — | — / — / 7.0 / — / — | [3.114, 43.65](https://www.google.com/maps/search/?api=1&query=3.114,43.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baidoa%2C%20Somalia) |
-| — | [Borama](cities/borama.yaml) | City / town | **—** | — | — / 7.0 / 7.2 / — / — | [9.936, 43.183](https://www.google.com/maps/search/?api=1&query=9.936,43.183) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Borama%2C%20Somalia) |
-| — | [Burao](cities/burao.yaml) | City / town | **—** | — | — / 7.1 / 7.3 / — / — | [9.522, 45.534](https://www.google.com/maps/search/?api=1&query=9.522,45.534) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Burao%2C%20Somalia) |
-| — | [Kismayo](cities/kismayo.yaml) | City / town | **—** | — | — / 7.2 / 7.4 / — / — | [-0.358, 42.545](https://www.google.com/maps/search/?api=1&query=-0.358,42.545) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kismayo%2C%20Somalia) |
-| — | [Marka](cities/marka.yaml) | City / town | **—** | **History 8.4** | — / 8.0 / 8.2 / — / — | [1.716, 44.772](https://www.google.com/maps/search/?api=1&query=1.716,44.772) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marka%2C%20Somalia) |
-| — | [Mogadishu](cities/mogadishu.yaml) | City / town | **—** | **History 8.8**, **Culture 8.5** | 7.8 / 8.3 / 8.6 / — / — | [2.037, 45.344](https://www.google.com/maps/search/?api=1&query=2.037,45.344) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogadishu%2C%20Somalia) |
-| — | [Zeila](cities/zeila.yaml) | City / town | **—** | **History 8.9**, **Architecture 8.2** | 7.7 / 8.5 / 8.7 / — / — | [11.352, 43.473](https://www.google.com/maps/search/?api=1&query=11.352,43.473) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zeila%2C%20Somalia) |
+| 1 | [Mogadishu](cities/mogadishu.yaml) | City / town | **82.15** | **History 8.8**, **Culture 8.5** | 7.8 / 8.3 / 8.6 / 8.2 / 8.5 | [2.037, 45.344](https://www.google.com/maps/search/?api=1&query=2.037,45.344) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mogadishu%2C%20Somalia) |
+| 2 | [Zeila](cities/zeila.yaml) | City / town | **82.05** | **History 8.9**, **Architecture 8.2** | 7.7 / 8.5 / 8.7 / 8.0 / 8.3 | [11.352, 43.473](https://www.google.com/maps/search/?api=1&query=11.352,43.473) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Zeila%2C%20Somalia) |
+| 3 | [Berbera](cities/berbera.yaml) | City / town | **81.00** | **Beaches 8.5**, **Architecture 8.4**, **Culture 8.4** | 8.0 / 8.4 / 8.1 / 8.0 / 7.8 | [10.43959, 45.01432](https://www.google.com/maps/search/?api=1&query=10.43959,45.01432) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Berbera%2C%20Somalia) |
+| 3 | [Marka](cities/marka.yaml) | City / town | **81.00** | **History 8.4** | 8.0 / 8.0 / 8.2 / 8.2 / 8.3 | [1.716, 44.772](https://www.google.com/maps/search/?api=1&query=1.716,44.772) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Marka%2C%20Somalia) |
+| 5 | [Kismayo](cities/kismayo.yaml) | City / town | **75.40** | — | 7.6 / 7.2 / 7.4 / 8.0 / 7.8 | [-0.358, 42.545](https://www.google.com/maps/search/?api=1&query=-0.358,42.545) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kismayo%2C%20Somalia) |
+| 6 | [Hargeisa](cities/hargeisa.yaml) | City / town | **74.80** | **Culture 8.3**, **History 8.1** | 7.1 / 7.7 / 7.9 / 7.5 / 7.2 | [9.56, 44.065](https://www.google.com/maps/search/?api=1&query=9.56,44.065) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hargeisa%2C%20Somalia) |
+| 7 | [Sheikh](cities/sheikh.yaml) | City / town | **73.00** | **Culture 7.7**, **Architecture 7.4** | 7.2 / 7.6 / 7.3 / 7.4 / 6.7 | [9.929, 45.192](https://www.google.com/maps/search/?api=1&query=9.929,45.192) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sheikh%2C%20Somalia) |
+| 8 | [Borama](cities/borama.yaml) | City / town | **71.30** | — | 7.0 / 7.0 / 7.2 / 7.4 / 7.3 | [9.936, 43.183](https://www.google.com/maps/search/?api=1&query=9.936,43.183) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Borama%2C%20Somalia) |
+| 9 | [Burao](cities/burao.yaml) | City / town | **71.25** | — | 6.9 / 7.1 / 7.3 / 7.2 / 7.4 | [9.522, 45.534](https://www.google.com/maps/search/?api=1&query=9.522,45.534) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Burao%2C%20Somalia) |
+| 10 | [Baidoa](cities/baidoa.yaml) | City / town | **69.80** | — | 6.8 / 7.0 / 7.0 / 7.2 / 7.1 | [3.114, 43.65](https://www.google.com/maps/search/?api=1&query=3.114,43.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Baidoa%2C%20Somalia) |
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Chad (TD) — Cities, towns & villages ranking
 
-**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (9)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -22,15 +22,8 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 6 | [Faya-Largeau](cities/faya-largeau.yaml) | City / town | **70.35** | **Culture 8.0**, **History 7.9** | 6.6 / 7.6 / 7.3 / 7.1 / 6.3 | [17.925, 19.105](https://www.google.com/maps/search/?api=1&query=17.925,19.105) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Faya-Largeau%2C%20Chad) |
 | 7 | [Fada](cities/fada.yaml) | City / town | **69.15** | **Culture 8.0**, **Photography 7.9** | 6.5 / 7.7 / 6.9 / 7.2 / 5.8 | [17.185, 21.581](https://www.google.com/maps/search/?api=1&query=17.185,21.581) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fada%2C%20Chad) |
 | 8 | [Sarh](cities/sarh.yaml) | City / town | **68.95** | **Culture 7.6**, **History 7.5** | 6.7 / 6.9 / 7.0 / 7.2 / 6.8 | [9.145548, 18.383309](https://www.google.com/maps/search/?api=1&query=9.145548,18.383309) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Sarh%2C%20Chad) |
-| 9 | [Moundou](cities/moundou.yaml) | City / town | **67.05** | **Culture 7.4** | 6.6 / 6.6 / 6.8 / 7.1 / 6.5 | [8.574375, 16.077216](https://www.google.com/maps/search/?api=1&query=8.574375,16.077216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moundou%2C%20Chad) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Am Timan](cities/am-timan.yaml) | City / town | **—** | **Culture 7.2** | — / 6.6 / 6.6 / — / — | [11.04, 20.28](https://www.google.com/maps/search/?api=1&query=11.04,20.28) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Am%20Timan%2C%20Chad) |
+| 9 | [Am Timan](cities/am-timan.yaml) | City / town | **67.65** | **Culture 7.2** | 6.7 / 6.6 / 6.6 / 7.1 / 7.2 | [11.04, 20.28](https://www.google.com/maps/search/?api=1&query=11.04,20.28) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Am%20Timan%2C%20Chad) |
+| 10 | [Moundou](cities/moundou.yaml) | City / town | **67.05** | **Culture 7.4** | 6.6 / 6.6 / 6.8 / 7.1 / 6.5 | [8.574375, 16.077216](https://www.google.com/maps/search/?api=1&query=8.574375,16.077216) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Moundou%2C%20Chad) |
 
 ---
 

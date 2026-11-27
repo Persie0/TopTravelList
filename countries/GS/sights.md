@@ -2,7 +2,7 @@
 
 # South Georgia and the South Sandwich Islands (GS) — Sights & attractions ranking
 
-**9 ranked** · **1 unassessed** · **10 total** · Worldwide scoring **v2**
+**10 ranked** · **0 unassessed** · **10 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (9)
+## Complete ranked list (10)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -23,14 +23,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 7 | [Godthul and authorized ridge walks](sights/godthul.yaml) | Attraction | **87.80** | **Nature 9.0**, **Wildlife 9.0**, **Adventure 8.9** | 8.9 / 8.8 / 8.6 / 8.8 / 8.7 | [-54.28, -36.3](https://www.google.com/maps/search/?api=1&query=-54.28,-36.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Godthul%20and%20authorized%20ridge%20walks%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
 | 8 | [Cooper Bay (authorized visitor sectors)](sights/cooper-bay.yaml) | Beach / bay | **87.60** | **Wildlife 9.1**, **Nature 9.0**, **Photography 9.0** | 8.9 / 8.8 / 8.9 / 8.6 / 8.2 | [-54.789, -35.81](https://www.google.com/maps/search/?api=1&query=-54.789,-35.81) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Cooper%20Bay%20%28authorized%20visitor%20sectors%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
 | 9 | [Ocean Harbour and authorized walk](sights/ocean-harbour.yaml) | Coast | **87.30** | **History 9.0**, **Nature 8.9**, **Photography 8.9** | 8.7 / 8.8 / 8.9 / 8.6 / 8.5 | [-54.337, -36.269](https://www.google.com/maps/search/?api=1&query=-54.337,-36.269) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ocean%20Harbour%20and%20authorized%20walk%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [South Sandwich Islands (closed protected island group)](sights/south-sandwich-islands.yaml) | Island | **—** | **Nature 9.4** | — / 9.4 / 9.4 / — / — | [-57.8, -26.5](https://www.google.com/maps/search/?api=1&query=-57.8,-26.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=South%20Sandwich%20Islands%20%28closed%20protected%20island%20group%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
+| 10 | [South Sandwich Islands (closed protected island group)](sights/south-sandwich-islands.yaml) | Island | **85.30** | **Nature 9.4** | 8.7 / 9.4 / 9.4 / 6.6 / 7.0 | [-57.8, -26.5](https://www.google.com/maps/search/?api=1&query=-57.8,-26.5) | [Google Maps](https://www.google.com/maps/search/?api=1&query=South%20Sandwich%20Islands%20%28closed%20protected%20island%20group%29%2C%20South%20Georgia%20and%20the%20South%20Sandwich%20Islands) |
 
 ---
 

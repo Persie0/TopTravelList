@@ -2,7 +2,7 @@
 
 # Cyprus (CY) — Sights & attractions ranking
 
-**33 ranked** · **5 unassessed** · **38 total** · Worldwide scoring **v2**
+**38 ranked** · **0 unassessed** · **38 total** · Worldwide scoring **v2**
 
 [Other ranking](cities.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](sights/)
 
@@ -10,7 +10,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (33)
+## Complete ranked list (38)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
@@ -44,21 +44,14 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 28 | [Blue Lagoon, Akamas](sights/blue-lagoon-akamas.yaml) | Beach / bay | **79.35** | **Photography 9.0**, **Beaches 8.8**, **Nature 8.7** | 8.7 / 8.1 / 6.8 / 8.4 / 6.8 | [35.077, 32.3](https://www.google.com/maps/search/?api=1&query=35.077,32.3) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Blue%20Lagoon%2C%20Akamas%2C%20Cyprus) |
 | 29 | [Agioi Varnavas and Ilarion Church, Peristerona](sights/peristerona-church.yaml) | Religious site | **78.80** | **Architecture 8.6**, **History 8.4** | 7.8 / 8.2 / 8.3 / 7.8 / 6.6 | [35.13, 33.080556](https://www.google.com/maps/search/?api=1&query=35.13,33.080556) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Agioi%20Varnavas%20and%20Ilarion%20Church%2C%20Peristerona%2C%20Cyprus) |
 | 29 | [Rural Settlement of Fikardou](sights/fikardou-rural.yaml) | Attraction | **78.80** | **Architecture 8.7**, **History 8.2** | 8.0 / 8.3 / 8.0 / 7.5 / 6.8 | [34.958912, 33.171528](https://www.google.com/maps/search/?api=1&query=34.958912,33.171528) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Rural%20Settlement%20of%20Fikardou%2C%20Cyprus) |
-| 31 | [Nissi Beach](sights/nissi-beach.yaml) | Beach / bay | **77.85** | **Beaches 9.0**, **Relaxation 8.7** | 8.5 / 7.9 / 6.3 / 8.6 / 7.1 | [34.988, 33.967](https://www.google.com/maps/search/?api=1&query=34.988,33.967) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nissi%20Beach%2C%20Cyprus) |
-| 32 | [Kolossi Castle](sights/kolossi-castle.yaml) | Palace / castle | **76.55** | **History 8.3**, **Architecture 8.2** | 7.7 / 7.7 / 8.0 / 7.6 / 6.8 | [34.665, 32.934](https://www.google.com/maps/search/?api=1&query=34.665,32.934) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kolossi%20Castle%2C%20Cyprus) |
-| 33 | [Fig Tree Bay](sights/fig-tree-bay.yaml) | Beach / bay | **76.50** | **Beaches 8.9**, **Relaxation 8.7**, **Family 8.6** | 8.4 / 7.7 / 6.2 / 8.5 / 6.9 | [35.012, 34.058](https://www.google.com/maps/search/?api=1&query=35.012,34.058) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fig%20Tree%20Bay%2C%20Cyprus) |
-
-## Not yet fully assessed (5)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Khandria Ophiolite Outcrop](sights/khandria.yaml) | Attraction | **—** | **Nature 8.6** | — / 8.4 / 8.6 / — / — | [34.945507, 32.99781](https://www.google.com/maps/search/?api=1&query=34.945507,32.99781) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khandria%20Ophiolite%20Outcrop%2C%20Cyprus) |
-| — | [Kionia Ophiolite Outcrop](sights/kionia.yaml) | Attraction | **—** | **Nature 8.5** | — / 8.3 / 8.5 / — / — | [34.922812, 33.191597](https://www.google.com/maps/search/?api=1&query=34.922812,33.191597) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kionia%20Ophiolite%20Outcrop%2C%20Cyprus) |
-| — | [Klirou Bridge Geological Site](sights/klirou-bridge.yaml) | Bridge | **—** | **Nature 8.5** | — / 8.3 / 8.4 / — / — | [35.013042, 33.152898](https://www.google.com/maps/search/?api=1&query=35.013042,33.152898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Klirou%20Bridge%20Geological%20Site%2C%20Cyprus) |
-| — | [Malounta Bridge Geological Site](sights/malounta-bridge.yaml) | Bridge | **—** | **Nature 8.5** | — / 8.3 / 8.4 / — / — | [35.040059, 33.178166](https://www.google.com/maps/search/?api=1&query=35.040059,33.178166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malounta%20Bridge%20Geological%20Site%2C%20Cyprus) |
-| — | [Varosha Permitted Public Area](sights/varosha.yaml) | Attraction | **—** | **History 8.6**, **Photography 8.1** | 7.6 / 8.6 / 8.4 / — / — | [35.112, 33.952](https://www.google.com/maps/search/?api=1&query=35.112,33.952) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Varosha%20Permitted%20Public%20Area%2C%20Cyprus) |
+| 31 | [Khandria Ophiolite Outcrop](sights/khandria.yaml) | Attraction | **78.75** | **Nature 8.6** | 7.3 / 8.4 / 8.6 / 7.5 / 7.4 | [34.945507, 32.99781](https://www.google.com/maps/search/?api=1&query=34.945507,32.99781) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Khandria%20Ophiolite%20Outcrop%2C%20Cyprus) |
+| 32 | [Varosha Permitted Public Area](sights/varosha.yaml) | Attraction | **78.70** | **History 8.6**, **Photography 8.1** | 7.6 / 8.6 / 8.4 / 7.0 / 7.1 | [35.112, 33.952](https://www.google.com/maps/search/?api=1&query=35.112,33.952) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Varosha%20Permitted%20Public%20Area%2C%20Cyprus) |
+| 33 | [Kionia Ophiolite Outcrop](sights/kionia.yaml) | Attraction | **78.60** | **Nature 8.5** | 7.4 / 8.3 / 8.5 / 7.5 / 7.4 | [34.922812, 33.191597](https://www.google.com/maps/search/?api=1&query=34.922812,33.191597) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kionia%20Ophiolite%20Outcrop%2C%20Cyprus) |
+| 34 | [Nissi Beach](sights/nissi-beach.yaml) | Beach / bay | **77.85** | **Beaches 9.0**, **Relaxation 8.7** | 8.5 / 7.9 / 6.3 / 8.6 / 7.1 | [34.988, 33.967](https://www.google.com/maps/search/?api=1&query=34.988,33.967) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nissi%20Beach%2C%20Cyprus) |
+| 35 | [Malounta Bridge Geological Site](sights/malounta-bridge.yaml) | Bridge | **77.00** | **Nature 8.5** | 7.1 / 8.3 / 8.4 / 7.3 / 7.2 | [35.040059, 33.178166](https://www.google.com/maps/search/?api=1&query=35.040059,33.178166) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Malounta%20Bridge%20Geological%20Site%2C%20Cyprus) |
+| 36 | [Klirou Bridge Geological Site](sights/klirou-bridge.yaml) | Bridge | **76.70** | **Nature 8.5** | 7.0 / 8.3 / 8.4 / 7.3 / 7.2 | [35.013042, 33.152898](https://www.google.com/maps/search/?api=1&query=35.013042,33.152898) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Klirou%20Bridge%20Geological%20Site%2C%20Cyprus) |
+| 37 | [Kolossi Castle](sights/kolossi-castle.yaml) | Palace / castle | **76.55** | **History 8.3**, **Architecture 8.2** | 7.7 / 7.7 / 8.0 / 7.6 / 6.8 | [34.665, 32.934](https://www.google.com/maps/search/?api=1&query=34.665,32.934) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kolossi%20Castle%2C%20Cyprus) |
+| 38 | [Fig Tree Bay](sights/fig-tree-bay.yaml) | Beach / bay | **76.50** | **Beaches 8.9**, **Relaxation 8.7**, **Family 8.6** | 8.4 / 7.7 / 6.2 / 8.5 / 6.9 | [35.012, 34.058](https://www.google.com/maps/search/?api=1&query=35.012,34.058) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fig%20Tree%20Bay%2C%20Cyprus) |
 
 ---
 

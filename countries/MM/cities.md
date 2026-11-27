@@ -2,7 +2,7 @@
 
 # Myanmar (MM) — Cities, towns & villages ranking
 
-**11 ranked** · **1 unassessed** · **12 total** · Worldwide scoring **v2**
+**12 ranked** · **0 unassessed** · **12 total** · Worldwide scoring **v2**
 
 [Other ranking](sights.md) · [Worldwide scoring rules](../../rules.md) · [Scoring weights](../../methodology/scoring.json) · [Source YAML](cities/)
 
@@ -10,29 +10,22 @@ This is the **complete ranking for this country's available dataset**, using abs
 
 **Core dimensions (out of 10):** I = Impact (30%), U = Uniqueness (25%), S = Significance (20%), E = Experience (15%), D = Depth (10%). Click a destination for its source YAML, its **Google Maps** name-and-country search, or its GPS coordinates for a representative map point. Locations are approximate representative points, not necessarily entrance coordinates.
 
-## Complete ranked list (11)
+## Complete ranked list (12)
 
 | Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Yangon](cities/yangon.yaml) | City / town | **86.75** | **Architecture 8.9**, **Culture 8.9**, **History 8.7**, Food 8.5 | 8.7 / 8.8 / 8.6 / 8.5 / 8.7 | [16.8409, 96.1735](https://www.google.com/maps/search/?api=1&query=16.8409,96.1735) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Yangon%2C%20Myanmar) |
 | 2 | [Mandalay](cities/mandalay.yaml) | City / town | **85.60** | **History 9.0**, **Culture 8.8**, **Architecture 8.7** | 8.4 / 8.6 / 8.9 / 8.4 / 8.5 | [21.9588, 96.0891](https://www.google.com/maps/search/?api=1&query=21.9588,96.0891) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mandalay%2C%20Myanmar) |
-| 3 | [Mawlamyine](cities/mawlamyine.yaml) | City / town | **79.90** | **History 8.3**, **Architecture 8.2** | 7.8 / 8.0 / 8.1 / 8.2 / 8.0 | [16.49, 97.63](https://www.google.com/maps/search/?api=1&query=16.49,97.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mawlamyine%2C%20Myanmar) |
-| 4 | [Bago](cities/bago.yaml) | City / town | **77.35** | **History 8.4**, **Culture 8.3** | 7.5 / 7.8 / 8.2 / 7.7 / 7.4 | [17.336, 96.48](https://www.google.com/maps/search/?api=1&query=17.336,96.48) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bago%2C%20Myanmar) |
-| 5 | [Pyin Oo Lwin](cities/pyin-oo-lwin.yaml) | City / town | **75.85** | **Architecture 7.8**, **Nature 7.7** | 7.5 / 7.4 / 7.4 / 8.1 / 7.9 | [22.035, 96.46](https://www.google.com/maps/search/?api=1&query=22.035,96.46) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pyin%20Oo%20Lwin%2C%20Myanmar) |
-| 6 | [Nyaung U](cities/nyaung-u.yaml) | City / town | **75.30** | **Culture 7.9**, **History 7.8**, **Food 7.5** | 7.4 / 7.6 / 7.8 / 7.6 / 7.1 | [21.196, 94.909](https://www.google.com/maps/search/?api=1&query=21.196,94.909) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nyaung%20U%2C%20Myanmar) |
-| 7 | [Hpa-An](cities/hpa-an.yaml) | City / town | **74.75** | **Nature 8.1**, **Culture 7.5** | 7.7 / 7.6 / 7.0 / 7.7 / 7.1 | [16.89, 97.63](https://www.google.com/maps/search/?api=1&query=16.89,97.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hpa-An%2C%20Myanmar) |
-| 8 | [Kalaw](cities/kalaw.yaml) | City / town | **73.00** | **Nature 7.8**, **Relaxation 7.7** | 7.4 / 7.5 / 6.8 / 7.7 / 6.9 | [20.633, 96.567](https://www.google.com/maps/search/?api=1&query=20.633,96.567) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kalaw%2C%20Myanmar) |
-| 9 | [Nyaungshwe](cities/nyaungshwe.yaml) | City / town | **72.90** | **Culture 7.7**, **Food 7.6** | 7.2 / 7.4 / 7.2 / 7.6 / 7.0 | [20.66, 96.93](https://www.google.com/maps/search/?api=1&query=20.66,96.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nyaungshwe%2C%20Myanmar) |
-| 10 | [Pyay](cities/pyay.yaml) | City / town | **72.30** | **History 7.8**, **Culture 7.6** | 7.0 / 7.3 / 7.6 / 7.3 / 6.9 | [18.82, 95.22](https://www.google.com/maps/search/?api=1&query=18.82,95.22) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pyay%2C%20Myanmar) |
-| 11 | [Pathein](cities/pathein.yaml) | City / town | **71.55** | **Culture 7.7**, **Food 7.5** | 7.0 / 7.3 / 7.2 / 7.4 / 6.8 | [16.78, 94.73](https://www.google.com/maps/search/?api=1&query=16.78,94.73) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pathein%2C%20Myanmar) |
-
-## Not yet fully assessed (1)
-
-These destinations have no rank until all five core scores are assessed.
-
-| Rank | Destination (click for YAML) | Type | Overall /100 | Categories /10 (best first) | I / U / S / E / D | GPS → Google Maps | Name + country search |
-| ---: | --- | --- | ---: | --- | --- | --- | --- |
-| — | [Mrauk U Town](cities/mrauk-u-town.yaml) | Town | **—** | **History 8.7**, **Culture 8.4** | 8.0 / 8.4 / 8.6 / — / — | [20.59, 93.19](https://www.google.com/maps/search/?api=1&query=20.59,93.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mrauk%20U%20Town%2C%20Myanmar) |
+| 3 | [Mrauk U Town](cities/mrauk-u-town.yaml) | Town | **82.65** | **History 8.7**, **Culture 8.4** | 8.0 / 8.4 / 8.6 / 8.1 / 8.3 | [20.59, 93.19](https://www.google.com/maps/search/?api=1&query=20.59,93.19) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mrauk%20U%20Town%2C%20Myanmar) |
+| 4 | [Mawlamyine](cities/mawlamyine.yaml) | City / town | **79.90** | **History 8.3**, **Architecture 8.2** | 7.8 / 8.0 / 8.1 / 8.2 / 8.0 | [16.49, 97.63](https://www.google.com/maps/search/?api=1&query=16.49,97.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mawlamyine%2C%20Myanmar) |
+| 5 | [Bago](cities/bago.yaml) | City / town | **77.35** | **History 8.4**, **Culture 8.3** | 7.5 / 7.8 / 8.2 / 7.7 / 7.4 | [17.336, 96.48](https://www.google.com/maps/search/?api=1&query=17.336,96.48) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Bago%2C%20Myanmar) |
+| 6 | [Pyin Oo Lwin](cities/pyin-oo-lwin.yaml) | City / town | **75.85** | **Architecture 7.8**, **Nature 7.7** | 7.5 / 7.4 / 7.4 / 8.1 / 7.9 | [22.035, 96.46](https://www.google.com/maps/search/?api=1&query=22.035,96.46) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pyin%20Oo%20Lwin%2C%20Myanmar) |
+| 7 | [Nyaung U](cities/nyaung-u.yaml) | City / town | **75.30** | **Culture 7.9**, **History 7.8**, **Food 7.5** | 7.4 / 7.6 / 7.8 / 7.6 / 7.1 | [21.196, 94.909](https://www.google.com/maps/search/?api=1&query=21.196,94.909) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nyaung%20U%2C%20Myanmar) |
+| 8 | [Hpa-An](cities/hpa-an.yaml) | City / town | **74.75** | **Nature 8.1**, **Culture 7.5** | 7.7 / 7.6 / 7.0 / 7.7 / 7.1 | [16.89, 97.63](https://www.google.com/maps/search/?api=1&query=16.89,97.63) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Hpa-An%2C%20Myanmar) |
+| 9 | [Kalaw](cities/kalaw.yaml) | City / town | **73.00** | **Nature 7.8**, **Relaxation 7.7** | 7.4 / 7.5 / 6.8 / 7.7 / 6.9 | [20.633, 96.567](https://www.google.com/maps/search/?api=1&query=20.633,96.567) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kalaw%2C%20Myanmar) |
+| 10 | [Nyaungshwe](cities/nyaungshwe.yaml) | City / town | **72.90** | **Culture 7.7**, **Food 7.6** | 7.2 / 7.4 / 7.2 / 7.6 / 7.0 | [20.66, 96.93](https://www.google.com/maps/search/?api=1&query=20.66,96.93) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nyaungshwe%2C%20Myanmar) |
+| 11 | [Pyay](cities/pyay.yaml) | City / town | **72.30** | **History 7.8**, **Culture 7.6** | 7.0 / 7.3 / 7.6 / 7.3 / 6.9 | [18.82, 95.22](https://www.google.com/maps/search/?api=1&query=18.82,95.22) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pyay%2C%20Myanmar) |
+| 12 | [Pathein](cities/pathein.yaml) | City / town | **71.55** | **Culture 7.7**, **Food 7.5** | 7.0 / 7.3 / 7.2 / 7.4 / 6.8 | [16.78, 94.73](https://www.google.com/maps/search/?api=1&query=16.78,94.73) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pathein%2C%20Myanmar) |
 
 ---
 
