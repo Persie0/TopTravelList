@@ -1362,3 +1362,15 @@ Seven additions, 28 peer rows. France 103 ranked / 114 total; 11 existing unasse
 - [x] FR — Musée de l’Homme Paris: 89.60/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 110 ranked / 121 total; 11 existing unassessed unchanged. Sainte-Chapelle and Petit Palais explicitly included within UNESCO Seine property; independently scored interior/collection experiences rather than another landscape rating, consistent with existing Louvre and Notre-Dame. Musée de l’Homme independent collection in Chaillot. Montmartre and Sacré-Cœur grouped, cemetery active burial site, Palais Garnier public-area tour without performance assumption. Next bounded screen: Musée Marmottan Monet, Fondation Louis Vuitton, Musée Jacquemart-André, Musée de l’Air et de l’Espace, Conciergerie (independent interior scope), Château de Vincennes, and Parc Astérix. Full Python validation pending.
+
+### Pass 118 — France specialist museums, royal monuments and theme park
+
+- [x] FR — Musée Marmottan Monet Paris: 90.80/100 (source-linked-unverified).
+- [x] FR — Fondation Louis Vuitton Paris: 90.70/100 (source-linked-unverified).
+- [x] FR — Musée Jacquemart-André Paris: 89.10/100 (source-linked-unverified).
+- [x] FR — Musée de l’Air et de l’Espace Le Bourget: 91.80/100 (source-linked-unverified).
+- [x] FR — Conciergerie Paris: 89.25/100 (source-linked-unverified).
+- [x] FR — Château de Vincennes and Sainte-Chapelle: 89.75/100 (source-linked-unverified).
+- [x] FR — Parc Astérix Plailly: 88.60/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 117 ranked / 128 total; 11 existing unassessed unchanged. Marmottan and other specialist collections distinct; Le Bourget museum independent from ONERA; Conciergerie dedicated halls and prison separated from Sainte-Chapelle and Seine landscape; Vincennes keep and chapel grouped; Astérix park excludes hotels. Next bounded screen: Château de Chantilly, Château de Pierrefonds, Château de Malmaison, Musée national de la Renaissance Écouen, Musée des Arts et Métiers, Musée de l’Art moderne de Paris, and Musée des Arts Décoratifs (Louvre scope check). Full Python validation pending.

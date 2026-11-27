@@ -4318,3 +4318,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-marmottan-monet — Musée Marmottan Monet Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/marmottan-monet.yaml)
+- Action: new
+- Precise subject and limitations: Independent Monet and Impressionist collection, not Orsay or Orangerie; temporary displays vary.
+- Location check: 48.8593, 2.2673; [published representative point](https://en.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.academiedesbeauxarts.fr/en/musee-marmottan-monet); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-orangerie](../../../countries/FR/sights/musee-orangerie.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 8.6 | impact: -0.2 vs peer; experience: -0.2 vs peer. |
+| [FR/musee-orsay](../../../countries/FR/sights/musee-orsay.yaml) | 9.2 / 9.3 / 9.5 / 9.2 / 9.2 | depth: -0.4 vs peer; significance: -0.3 vs peer. |
+| [FR/musee-picasso-paris](../../../countries/FR/sights/musee-picasso-paris.yaml) | 9.0 / 9.2 / 9.3 / 8.9 / 8.9 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer. |
+| [ES/picasso-museum-barcelona](../../../countries/ES/sights/picasso-museum-barcelona.yaml) | 8.8 / 9.0 / 9.2 / 8.8 / 9.0 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Substantial Impressionist artworks. |
+| Uniqueness | 9.3 | Distinctive Monet collection. |
+| Significance | 9.2 | Important Impressionist heritage. |
+| Experience | 8.9 | Dedicated gallery visit. |
+| Depth | 8.8 | Specialist collection with complementary holdings. |
+
+- Applicable categories: culture:9.4, history:9.2, architecture:8.8.
+- Computed worldwide overall: 90.80/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-fondation-louis-vuitton — Fondation Louis Vuitton Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/fondation-louis-vuitton.yaml)
+- Action: new
+- Precise subject and limitations: Frank Gehry building and art exhibitions grouped; excludes Jardin d’Acclimatation. Changing exhibitions do not imply any specific work always on display.
+- Location check: 48.87666, 2.26333; [published representative point](https://mapcarta.com/fr/W309626332), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.fondationlouisvuitton.fr/en/fondation/the-exhibitions); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/centre-pompidou](../../../countries/FR/sights/centre-pompidou.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.4 | depth: -0.6 vs peer; significance: -0.5 vs peer. |
+| [FR/petit-palais](../../../countries/FR/sights/petit-palais.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.1 | uniqueness: +0.3 vs peer; depth: -0.3 vs peer. |
+| [ES/reina-sofia-museum](../../../countries/ES/sights/reina-sofia-museum.yaml) | 9.2 / 9.2 / 9.4 / 9.0 / 9.1 | significance: -0.5 vs peer; depth: -0.3 vs peer. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | depth: -0.4 vs peer; impact: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Striking contemporary architecture. |
+| Uniqueness | 9.2 | Distinct glass-sail building and commissions. |
+| Significance | 8.9 | Important contemporary art institution. |
+| Experience | 9.0 | Dedicated galleries and terraces. |
+| Depth | 8.8 | Varied exhibitions and architectural spaces. |
+
+- Applicable categories: architecture:9.4, culture:9.3, photography:9.3.
+- Computed worldwide overall: 90.70/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-jacquemart-andre — Musée Jacquemart-André Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/jacquemart-andre.yaml)
+- Action: new
+- Precise subject and limitations: Historic Paris residence and fine-art collection, excluding Chaalis estate. Visit reference https://www.musee-jacquemart-andre.com/en/prepare-your-visit/opening-times-and-access.
+- Location check: 48.87543, 2.31051; [published representative point](https://en.wikipedia.org/wiki/Mus%C3%A9e_Jacquemart-Andr%C3%A9), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.institutdefrance.fr/lepatrimoine/musee-jacquemart-andre/); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-rodin](../../../countries/FR/sights/musee-rodin.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 8.8 | uniqueness: -0.4 vs peer; impact: -0.2 vs peer. |
+| [FR/petit-palais](../../../countries/FR/sights/petit-palais.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.1 | depth: -0.3 vs peer; experience: -0.2 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | depth: -0.4 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Rich historic interiors and artworks. |
+| Uniqueness | 8.9 | Distinct private collector residence. |
+| Significance | 9.0 | Important fine and decorative art collection. |
+| Experience | 8.9 | Dedicated mansion and gallery visit. |
+| Depth | 8.8 | Multiple furnished rooms and collections. |
+
+- Applicable categories: culture:9.3, architecture:9.2, history:9.1.
+- Computed worldwide overall: 89.10/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-air-space-museum-le-bourget — Musée de l’Air et de l’Espace Le Bourget — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/air-space-museum-le-bourget.yaml)
+- Action: new
+- Precise subject and limitations: Le Bourget aviation and space collections, including dedicated aircraft visitor experiences. Excludes operating airport and former Meudon research site. Aircraft access varies.
+- Location check: 48.9479878, 2.4370116; [published representative point](https://www.museeairespace.fr/visiteurs/acces/), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.memoiredeshommes.defense.gouv.fr/musees-collections-et-mecenat/musees-et-monuments?detail=38147); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [US/national-air-and-space-museum-dc](../../../countries/US/sights/national-air-and-space-museum-dc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.1 | significance: -0.2 vs peer; depth: +0.2 vs peer. |
+| [US/kennedy-space-center-visitor-complex](../../../countries/US/sights/kennedy-space-center-visitor-complex.yaml) | 9.2 / 9.4 / 9.4 / 9.2 / 9.3 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [FR/cite-des-sciences](../../../countries/FR/sights/cite-des-sciences.yaml) | 8.8 / 8.8 / 8.7 / 9.2 / 9.3 | significance: +0.5 vs peer; impact: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Impressive aircraft and space exhibits. |
+| Uniqueness | 9.2 | Distinct historic aviation collection. |
+| Significance | 9.2 | Major aviation heritage. |
+| Experience | 9.0 | Dedicated aircraft and gallery visits. |
+| Depth | 9.3 | Extensive aircraft, aerospace and historical displays. |
+
+- Applicable categories: history:9.4, family:9.3, culture:9.1.
+- Computed worldwide overall: 91.80/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-conciergerie — Conciergerie Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/conciergerie.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated medieval halls and former prison interpretation; within broader Seine heritage landscape, but distinct from adjacent Sainte-Chapelle interior. Excludes functioning courts. No separate Palais de la Cité aggregate.
+- Location check: 48.8564, 2.3456; [published representative point](https://en.wikipedia.org/wiki/Conciergerie), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.paris-conciergerie.fr/en/visit/visits-and-activities); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/sainte-chapelle](../../../countries/FR/sights/sainte-chapelle.yaml) | 9.4 / 9.4 / 9.4 / 9.0 / 8.2 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+| [FR/pantheon-paris](../../../countries/FR/sights/pantheon-paris.yaml) | 9.1 / 9.0 / 9.4 / 9.0 / 8.8 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [FR/paris-catacombs](../../../countries/FR/sights/paris-catacombs.yaml) | 9.0 / 9.4 / 9.0 / 8.8 / 8.4 | uniqueness: -0.5 vs peer; significance: +0.3 vs peer. |
+| [IT/doges-palace](../../../countries/IT/sights/doges-palace.yaml) | 9.4 / 9.4 / 9.5 / 9.2 / 9.0 | impact: -0.5 vs peer; uniqueness: -0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Monumental medieval halls. |
+| Uniqueness | 8.9 | Distinct royal palace and prison history. |
+| Significance | 9.3 | Major French Revolutionary heritage. |
+| Experience | 8.8 | Dedicated interpreted monument visit. |
+| Depth | 8.5 | Several historic spaces within bounded route. |
+
+- Applicable categories: history:9.4, architecture:9.3, culture:9.1.
+- Computed worldwide overall: 89.25/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-vincennes — Château de Vincennes and Sainte-Chapelle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-vincennes.yaml)
+- Action: new
+- Precise subject and limitations: Keep, defensive enclosure and Vincennes Sainte-Chapelle grouped; distinct from Paris Sainte-Chapelle and Bois de Vincennes. No guaranteed access to all keep levels.
+- Location check: 48.84278, 2.43583; [published representative point](https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Vincennes), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateau-de-vincennes.fr/en/visit/visits-and-activities); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontainebleau](../../../countries/FR/sights/fontainebleau.yaml) | 9.2 / 9.1 / 9.4 / 9.1 / 9.3 | depth: -0.4 vs peer; experience: -0.3 vs peer. |
+| [FR/chambord](../../../countries/FR/sights/chambord.yaml) | 9.3 / 9.3 / 9.2 / 9.0 / 9.0 | uniqueness: -0.4 vs peer; impact: -0.3 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.5 vs peer; impact: -0.1 vs peer. |
+| [IT/sforza-castle](../../../countries/IT/sights/sforza-castle.yaml) | 9.0 / 8.8 / 9.2 / 9.0 / 9.2 | depth: -0.3 vs peer; experience: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Impressive medieval keep and chapel. |
+| Uniqueness | 8.9 | Distinct royal fortified residence. |
+| Significance | 9.2 | Important French royal and military heritage. |
+| Experience | 8.8 | Established monument tours. |
+| Depth | 8.9 | Several complementary buildings and spaces. |
+
+- Applicable categories: architecture:9.3, history:9.4, photography:9.1.
+- Computed worldwide overall: 89.75/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-parc-asterix — Parc Astérix Plailly — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/parc-asterix.yaml)
+- Action: new
+- Precise subject and limitations: Theme park rides and shows as one visitor experience; hotels excluded. Seasonal operations and individual ride availability vary.
+- Location check: 49.13444, 2.57028; [published representative point](https://en.wikipedia.org/wiki/Parc_Ast%C3%A9rix), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.parcasterix.fr/en/attractions); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/disneyland-park-paris](../../../countries/FR/sights/disneyland-park-paris.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | significance: -0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [FR/disney-adventure-world](../../../countries/FR/sights/disney-adventure-world.yaml) | 8.7 / 8.6 / 8.2 / 9.1 / 8.8 | depth: +0.4 vs peer; impact: +0.3 vs peer. |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.7 vs peer; uniqueness: -0.2 vs peer. |
+| [ES/portaventura-world](../../../countries/ES/sights/portaventura-world.yaml) | 9.1 / 8.9 / 7.9 / 9.4 / 9.3 | significance: +0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Major themed rides and attractions. |
+| Uniqueness | 8.9 | Distinct Franco-Belgian comic theme. |
+| Significance | 8.1 | Recognizable popular cultural heritage. |
+| Experience | 9.3 | Extensive family and thrill rides. |
+| Depth | 9.2 | Multiple themed areas and shows. |
+
+- Applicable categories: family:9.4, adventure:9.4, photography:8.7.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

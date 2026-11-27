@@ -1,0 +1,16 @@
+id: sight-fr-chateau-vincennes
+name: "Château de Vincennes and Sainte-Chapelle"
+location:
+  country_code: FR
+  latitude: 48.84278
+  longitude: 2.43583
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.8
+  depth: 8.9
+  categories:
+    architecture: 9.3
+    history: 9.4
+    photography: 9.1
