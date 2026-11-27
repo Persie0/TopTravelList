@@ -1568,3 +1568,15 @@ Seven additions, 28 peer rows. France 221 ranked / 232 total; 11 existing unasse
 - [x] FR — Passage du Gois: included in noirmoutier-island.yaml (88.45/100); no duplicate or rescore.
 
 Six additions, 24 peer rows. France 227 ranked / 238 total; 11 existing unassessed unchanged. Nantes Cathedral reopening in September 2025 documented, ongoing restoration does not penalize intrinsic experience; Historial excludes adjacent memorial; Chabotterie distinct from Historial. Next bounded screen: Abbaye de Maillezais, Abbaye de Nieul-sur-l’Autise, Château de Clisson and historic town, Haras de la Vendée, Musée Jules Verne Nantes, Le Chronographe Rezé, and Château de la Flocellière (scope and duplicate checks). Full Python validation pending.
+
+### Pass 135 — Vendée abbeys and specialist Loire heritage
+
+- [x] FR — Maillezais Abbey Ruins and Heritage Site: 88.45/100 (source-linked-unverified).
+- [x] FR — Nieul-sur-l’Autise Abbey and Romanesque Cloister: 88.05/100 (source-linked-unverified).
+- [x] FR — Clisson Historic Town and Medieval Castle: 88.95/100 (source-linked-unverified).
+- [x] FR — Haras National de la Vendée Equestrian Heritage Park: 85.00/100 (source-linked-unverified).
+- [x] FR — Musée Jules Verne Nantes Literary Museum: 86.90/100 (source-linked-unverified).
+- [x] FR — Le Chronographe Ratiatum Archaeology Museum and Site: 86.45/100 (source-linked-unverified).
+- [x] FR — Château de la Flocellière Park and Medieval Ruins: 84.70/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 234 ranked / 245 total; 11 existing unassessed unchanged. Maillezais excludes boat trips; Nieul separate abbey; Clisson excludes Garenne Lemot; Flocellière public garden and ruins only, not guest interiors; Jules Verne established museum not future site. Next bounded screen: Domaine de la Garenne Lemot, Nantes Memorial to the Abolition of Slavery, Nantes Natural History Museum, Musée de l’Imprimerie Nantes, Saint-Nazaire shipyard visitor experience, Les Sables-d’Olonne historic La Chaume, and Château de Noirmoutier (scope and duplicate checks). Full Python validation pending.

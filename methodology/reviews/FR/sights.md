@@ -8864,3 +8864,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-abbaye-maillezais — Maillezais Abbey Ruins and Heritage Site — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/abbaye-maillezais.yaml)
+- Action: new
+- Precise subject and limitations: Abbey ruins and interpretation only; excludes adjacent boat departures already covered by Green Venice.
+- Location check: 46.37327, -0.74729; [published representative point](https://mapcarta.com/W150122058), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.vendee-maraispoitevin.com/vos-aventures/les-passeurs-dhistoires/visite-abbaye-maillezais/); indexed excerpts or source text inspected 2026-11-27. Tourism office documents the visit; departmental operator confirms seasonal historical interpretation: https://nossites.vendee.fr/abbaye-de-maillezais/animations-et-spectacles/les-animations-estivales. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/jumieges-abbey](../../../countries/FR/sights/jumieges-abbey.yaml) | 9.0 / 9.0 / 9.1 / 8.8 / 8.7 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/pointe-saint-mathieu](../../../countries/FR/sights/pointe-saint-mathieu.yaml) | 9.0 / 8.9 / 8.9 / 8.9 / 8.6 | impact: -0.2 vs peer; significance: +0.1 vs peer. |
+| [GB/fountains-abbey](../../../countries/GB/sights/fountains-abbey.yaml) | 9.0 / 9.0 / 9.2 / 9.1 / 9.0 | depth: -0.4 vs peer; experience: -0.3 vs peer. |
+| [PT/carmo-convent-museum](../../../countries/PT/sights/carmo-convent-museum.yaml) | 8.8 / 8.9 / 8.8 / 8.6 / 8.2 | depth: +0.4 vs peer; experience: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Monumental monastic ruins. |
+| Uniqueness | 8.9 | Distinct ruined abbey in a wetland setting. |
+| Significance | 9.0 | Medieval monastic and regional history. |
+| Experience | 8.8 | Dedicated ruins visit and seasonal interpretation. |
+| Depth | 8.6 | Substantial but incomplete historic complex. |
+
+- Applicable categories: architecture:9.2, history:9.3, photography:9.2, culture:9.0.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-abbaye-nieul-autise — Nieul-sur-l’Autise Abbey and Romanesque Cloister — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/abbaye-nieul-autise.yaml)
+- Action: new
+- Precise subject and limitations: Abbey, cloister and integrated interpretation; distinct from Maillezais and surrounding village.
+- Location check: 46.42222, -0.68018; [published representative point](https://mapcarta.com/de/W81548520), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.vendee-maraispoitevin.com/vos-aventures/les-passeurs-dhistoires/trouvez-linspiration-au-coeur-de-lhistoire-lincontournable-abbaye-de-nieul-sur-lautise/); indexed excerpts or source text inspected 2026-11-27. Local tourism documents royal abbey visit and Romanesque cloister; department confirms visitor admission and interpretation: https://nossites.vendee.fr/abbaye-de-nieul-sur-lautise/. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+| [FR/abbaye-aux-dames](../../../countries/FR/sights/abbaye-aux-dames.yaml) | 8.7 / 8.9 / 9.1 / 8.6 / 8.5 | experience: +0.2 vs peer; significance: -0.2 vs peer. |
+| [AT/st-florian-abbey](../../../countries/AT/sights/st-florian-abbey.yaml) | 8.5 / 8.9 / 9.1 / 8.5 / 8.7 | experience: +0.3 vs peer; impact: +0.2 vs peer. |
+| [IE/kylemore-abbey](../../../countries/IE/sights/kylemore-abbey.yaml) | 8.9 / 8.6 / 8.5 / 8.8 / 8.5 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Romanesque cloister and ensemble. |
+| Uniqueness | 8.9 | Preserved monastic architecture with digital interpretation. |
+| Significance | 8.9 | Medieval religious and royal patronage history. |
+| Experience | 8.8 | Dedicated heritage circuit. |
+| Depth | 8.7 | Several connected monastic spaces. |
+
+- Applicable categories: architecture:9.3, history:9.2, culture:9.1, photography:9.1.
+- Computed worldwide overall: 88.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-clisson-historic-town — Clisson Historic Town and Medieval Castle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/clisson-historic-town.yaml)
+- Action: new
+- Precise subject and limitations: Historic streets, bridges, market hall and castle ruins together; excludes separately operated Garenne Lemot estate and festivals. Castle representative point, not namesake castle in Boismé.
+- Location check: 47.08656, -1.28108; [published representative point](https://mapcarta.com/W113825057), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.visitnantesvineyard.com/what-to-do/centre-historique-de-clisson-clisson-en-6002256/); indexed excerpts or source text inspected 2026-11-27. Tourism office documents the historic core, Italian-inspired architecture and castle; castle operator confirms self-guided visit: https://www.chateau-clisson.fr/44/preparez-votre-visite/self-guided-tours/cli_6511. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/dinan-historic-centre](../../../countries/FR/sights/dinan-historic-centre.yaml) | 9.0 / 8.9 / 9.0 / 9.1 / 9.0 | significance: -0.2 vs peer; impact: -0.1 vs peer. |
+| [FR/guerande-medieval-town](../../../countries/FR/sights/guerande-medieval-town.yaml) | 8.9 / 8.8 / 8.9 / 9.0 / 8.8 | uniqueness: +0.1 vs peer; significance: -0.1 vs peer. |
+| [ES/peniscola-castle-old-town](../../../countries/ES/sights/peniscola-castle-old-town.yaml) | 8.9 / 8.8 / 8.9 / 8.8 / 8.7 | depth: +0.2 vs peer; experience: +0.2 vs peer. |
+| [PT/obidos-walled-town](../../../countries/PT/sights/obidos-walled-town.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.6 | depth: +0.3 vs peer; uniqueness: +0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Riverfront ruins and Italian-inspired streets. |
+| Uniqueness | 8.9 | Unusual combination of medieval and later Italianate design. |
+| Significance | 8.8 | Regional fortified town and urban heritage. |
+| Experience | 9.0 | Walkable town circuit and castle visit. |
+| Depth | 8.9 | Multiple streets, monuments and ruins. |
+
+- Applicable categories: architecture:9.3, photography:9.3, history:9.2, culture:9.1.
+- Computed worldwide overall: 88.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-haras-vendee — Haras National de la Vendée Equestrian Heritage Park — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/haras-vendee.yaml)
+- Action: new
+- Precise subject and limitations: Historic stud farm park, equestrian interpretation and established seasonal demonstrations; separate from Saumur riding school; no assumption that horses or shows are always available.
+- Location check: 46.66481, -1.42751; [published representative point](https://mapcarta.com/fr/W25444565), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://nossites.vendee.fr/haras-de-la-vendee); indexed excerpts or source text inspected 2026-11-27. Department confirms 4.5-hectare park, construction in 1846 and seasonal shows: https://nossites.vendee.fr/haras-de-la-vendee/haras-de-la-vendee-presentation-and-pratical-information; destination tourism independently describes the horse-focused visit. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AT/spanish-riding-school](../../../countries/AT/sights/spanish-riding-school.yaml) | 8.5 / 9.1 / 9.0 / 8.5 / 8.2 | significance: -0.6 vs peer; uniqueness: -0.5 vs peer. |
+| [FR/cadre-noir-saumur](../../../countries/FR/sights/cadre-noir-saumur.yaml) | 8.6 / 9.0 / 9.1 / 8.7 / 8.5 | significance: -0.7 vs peer; uniqueness: -0.4 vs peer. |
+| [FR/logis-chabotterie](../../../countries/FR/sights/logis-chabotterie.yaml) | 8.5 / 8.6 / 8.8 / 8.8 / 8.7 | significance: -0.4 vs peer; impact: -0.2 vs peer. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | significance: -0.4 vs peer; depth: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Historic stables and equestrian performances. |
+| Uniqueness | 8.6 | Specialist horse heritage in an urban park. |
+| Significance | 8.4 | Regional equestrian history. |
+| Experience | 8.8 | Family-oriented interpreted visit and demonstrations. |
+| Depth | 8.6 | Park and several visitor features. |
+
+- Applicable categories: culture:9.0, history:8.8, family:9.1, relaxation:8.8.
+- Computed worldwide overall: 85.00/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-jules-verne-nantes — Musée Jules Verne Nantes Literary Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-jules-verne-nantes.yaml)
+- Action: new
+- Precise subject and limitations: Established literary museum at the mapped site, not the writer's birthplace or prospective new museum. No assumption every manuscript is on display.
+- Location check: 47.20162, -1.57736; [published representative point](https://mapcarta.com/38730438), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://julesverne.nantesmetropole.fr/le-musee/); indexed excerpts or source text inspected 2026-11-27. Municipal museum documents books, manuscripts, illustrations and models; its collection page https://julesverne.nantesmetropole.fr/les-collections/ describes original acquisitions; department confirms museum established in 1978. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AT/mozarts-birthplace](../../../countries/AT/sights/mozarts-birthplace.yaml) | 8.1 / 8.7 / 9.3 / 8.2 / 7.6 | depth: +0.8 vs peer; impact: +0.4 vs peer. |
+| [FR/angers-fine-arts](../../../countries/FR/sights/angers-fine-arts.yaml) | 8.6 / 8.7 / 8.9 / 8.8 / 9.0 | depth: -0.6 vs peer; experience: -0.3 vs peer. |
+| [GB/st-fagans](../../../countries/GB/sights/st-fagans.yaml) | 8.6 / 8.8 / 8.8 / 9.0 / 9.0 | depth: -0.6 vs peer; experience: -0.5 vs peer. |
+| [IE/national-museum-archaeology](../../../countries/IE/sights/national-museum-archaeology.yaml) | 8.5 / 8.7 / 9.1 / 8.7 / 8.8 | depth: -0.4 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Author-themed exhibits and illustrations. |
+| Uniqueness | 8.9 | Specialist original literary collections. |
+| Significance | 9.0 | Internationally significant author and manuscripts. |
+| Experience | 8.5 | Focused museum circuit. |
+| Depth | 8.4 | Varied but compact visitor displays. |
+
+- Applicable categories: culture:9.3, history:9.2, family:8.8.
+- Computed worldwide overall: 86.90/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-le-chronographe-reze — Le Chronographe Ratiatum Archaeology Museum and Site — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/le-chronographe-reze.yaml)
+- Action: new
+- Precise subject and limitations: Museum and on-site Saint-Lupien archaeology interpretation; not the full historical extent of Ratiatum.
+- Location check: 47.1918, -1.56478; [published representative point](https://mapcarta.com/W454524397), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.reze.fr/point-d-interet/le-chronographe/); indexed excerpts or source text inspected 2026-11-27. Municipal and departmental pages identify the ancient port site; https://www.echosciences-paysdelaloire.fr/lieux/le-chronographe documents archaeological learning activities. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [AT/carnuntum-archaeological-park](../../../countries/AT/sights/carnuntum-archaeological-park.yaml) | 8.7 / 8.9 / 9.0 / 8.8 / 8.4 | impact: -0.3 vs peer; depth: +0.3 vs peer. |
+| [ES/empuries](../../../countries/ES/sights/empuries.yaml) | 8.8 / 9.0 / 9.2 / 8.8 / 8.7 | impact: -0.4 vs peer; significance: -0.4 vs peer. |
+| [IE/national-museum-archaeology](../../../countries/IE/sights/national-museum-archaeology.yaml) | 8.5 / 8.7 / 9.1 / 8.7 / 8.8 | significance: -0.3 vs peer; experience: +0.1 vs peer. |
+| [FR/historial-vendee](../../../countries/FR/sights/historial-vendee.yaml) | 8.6 / 8.8 / 8.9 / 8.9 / 9.0 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Modern interpretation building and archaeological remains. |
+| Uniqueness | 8.7 | Hands-on archaeological methods and port context. |
+| Significance | 8.8 | Regional Gallo-Roman heritage. |
+| Experience | 8.8 | Interactive interpretation and site discovery. |
+| Depth | 8.7 | Multiple archaeological topics and exhibits. |
+
+- Applicable categories: history:9.1, culture:9.0, family:9.0, architecture:8.8.
+- Computed worldwide overall: 86.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-flocelliere-gardens — Château de la Flocellière Park and Medieval Ruins — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-flocelliere-gardens.yaml)
+- Action: new
+- Precise subject and limitations: Public landscaped park, garden circuits and medieval exterior ruins only. Castle rooms reserved for lodging guests; excluded as structurally separate from established public experience. Castle representative point.
+- Location check: 46.83528, -0.86178; [published representative point](https://mapcarta.com/N5064661017), coordinate lines inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.tourisme-paysdepouzauges.fr/visites/chateau-de-la-flocelliere/); indexed excerpts or source text inspected 2026-11-27. Tourism office confirms five landscape areas and exterior circuit; https://www.chateaudelaflocelliere.com/le-parc/ corroborates gardens. Private interior access is not assumed. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-kergroadez](../../../countries/FR/sights/chateau-kergroadez.yaml) | 8.5 / 8.5 / 8.5 / 8.8 / 8.7 | significance: -0.2 vs peer; experience: -0.1 vs peer. |
+| [FR/chateau-roche-jagu](../../../countries/FR/sights/chateau-roche-jagu.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | impact: -0.5 vs peer; depth: -0.4 vs peer. |
+| [GB/stourhead](../../../countries/GB/sights/stourhead.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.4 | significance: -0.6 vs peer; impact: -0.4 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | impact: -0.3 vs peer; experience: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Picturesque historic exterior and gardens. |
+| Uniqueness | 8.5 | Varied gardens in a historic estate. |
+| Significance | 8.3 | Regional estate history. |
+| Experience | 8.7 | Documented park and ruin walk. |
+| Depth | 8.6 | Several garden areas, no interior visit counted. |
+
+- Applicable categories: nature:9.0, photography:9.0, relaxation:9.0, architecture:8.8, history:8.8.
+- Computed worldwide overall: 84.70/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

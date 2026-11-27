@@ -1,0 +1,16 @@
+id: sight-fr-musee-jules-verne-nantes
+name: "Musée Jules Verne Nantes Literary Museum"
+location:
+  country_code: FR
+  latitude: 47.20162
+  longitude: -1.57736
+scores:
+  impact: 8.5
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.5
+  depth: 8.4
+  categories:
+    culture: 9.3
+    history: 9.2
+    family: 8.8
