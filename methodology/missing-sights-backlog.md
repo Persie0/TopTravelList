@@ -1350,3 +1350,15 @@ Six additions, 24 peer rows. France 96 ranked / 107 total; eleven existing unass
 - [x] FR — Arc de Triomphe and Rooftop Viewpoint Paris: 90.30/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 103 ranked / 114 total; 11 existing unassessed unchanged. Guimet main venue only; Cluny collections and historic building grouped; Cité science exhibits and planetarium grouped; Grande Galerie bounded independently of other natural history facilities; Arc de Triomphe dedicated monument and terrace separate from Seine landscape, exact UNESCO polygon not checked. Next bounded screen: Sainte-Chapelle (independent monument scope), Panthéon, Sacré-Cœur and Montmartre, Père-Lachaise, Opéra Garnier, Petit Palais collections, and Musée de l’Homme. Full Python validation pending.
+
+### Pass 117 — France Paris monumental interiors, historic quarter and collections
+
+- [x] FR — Sainte-Chapelle Paris: 92.20/100 (source-linked-unverified).
+- [x] FR — Panthéon Paris and National Crypt: 90.90/100 (source-linked-unverified).
+- [x] FR — Montmartre Historic Quarter and Sacré-Cœur Basilica: 91.00/100 (source-linked-unverified).
+- [x] FR — Père-Lachaise Cemetery Paris: 89.05/100 (source-linked-unverified).
+- [x] FR — Palais Garnier Opera House Paris: 91.80/100 (source-linked-unverified).
+- [x] FR — Petit Palais – Museum of Fine Arts of Paris: 90.00/100 (source-linked-unverified).
+- [x] FR — Musée de l’Homme Paris: 89.60/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 110 ranked / 121 total; 11 existing unassessed unchanged. Sainte-Chapelle and Petit Palais explicitly included within UNESCO Seine property; independently scored interior/collection experiences rather than another landscape rating, consistent with existing Louvre and Notre-Dame. Musée de l’Homme independent collection in Chaillot. Montmartre and Sacré-Cœur grouped, cemetery active burial site, Palais Garnier public-area tour without performance assumption. Next bounded screen: Musée Marmottan Monet, Fondation Louis Vuitton, Musée Jacquemart-André, Musée de l’Air et de l’Espace, Conciergerie (independent interior scope), Château de Vincennes, and Parc Astérix. Full Python validation pending.

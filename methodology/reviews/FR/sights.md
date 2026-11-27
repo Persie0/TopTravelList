@@ -4046,3 +4046,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-sainte-chapelle — Sainte-Chapelle Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/sainte-chapelle.yaml)
+- Action: new
+- Precise subject and limitations: Independent upper and lower chapel visit, primarily stained glass and Gothic interior. Explicitly within UNESCO Seine property (https://whc.unesco.org/en/list/600/); distinguish dedicated interior from riverbank landscape, as existing Notre-Dame precedent. No separate Palais de la Cité aggregate.
+- Location check: 48.85528, 2.345; [published representative point](https://en.wikipedia.org/wiki/Sainte-Chapelle), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.sainte-chapelle.fr/en/discover/a-unique-set-of-stained-glass-windows); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chartres](../../../countries/FR/sights/chartres.yaml) | 9.4 / 9.3 / 9.5 / 9.0 / 8.7 | depth: -0.5 vs peer; uniqueness: +0.1 vs peer. |
+| [FR/notre-dame-paris](../../../countries/FR/sights/notre-dame-paris.yaml) | 9.3 / 9.3 / 9.5 / 9.0 / 8.7 | depth: -0.5 vs peer; impact: +0.1 vs peer. |
+| [FR/amiens-cathedral](../../../countries/FR/sights/amiens-cathedral.yaml) | 9.3 / 9.1 / 9.3 / 9.0 / 8.6 | depth: -0.4 vs peer; uniqueness: +0.3 vs peer. |
+| [ES/sagrada-familia](../../../countries/ES/sights/sagrada-familia.yaml) | 9.7 / 9.7 / 9.4 / 9.3 / 8.9 | depth: -0.7 vs peer; impact: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Exceptional luminous Gothic interior. |
+| Uniqueness | 9.4 | Distinctive medieval stained-glass ensemble. |
+| Significance | 9.4 | Major royal and Gothic heritage. |
+| Experience | 9.0 | Dedicated monument experience. |
+| Depth | 8.2 | Compact chapel despite visual richness. |
+
+- Applicable categories: architecture:9.6, history:9.4, photography:9.4, culture:9.3.
+- Computed worldwide overall: 92.20/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending. Category 9.5+ provisional; exceptional architectural interior documented, international anchor review pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-pantheon-paris — Panthéon Paris and National Crypt — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/pantheon-paris.yaml)
+- Action: new
+- Precise subject and limitations: Nave, commemorative monuments and crypt grouped. Historic panorama acknowledged but not assumed accessible or essential to rating. Separate from Rome Pantheon.
+- Location check: 48.84619, 2.34607; [published representative point](https://mapcarta.com/24884742), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.paris-pantheon.fr/en/visit/informations-pratiques); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/invalides-army-museum](../../../countries/FR/sights/invalides-army-museum.yaml) | 9.2 / 9.1 / 9.4 / 9.0 / 9.3 | depth: -0.5 vs peer; impact: -0.1 vs peer. |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | depth: +0.3 vs peer; experience: +0.2 vs peer. |
+| [IT/pantheon](../../../countries/IT/sights/pantheon.yaml) | 9.4 / 9.5 / 9.6 / 9.0 / 8.0 | depth: +0.8 vs peer; uniqueness: -0.5 vs peer. |
+| [FR/arc-de-triomphe](../../../countries/FR/sights/arc-de-triomphe.yaml) | 9.2 / 9.0 / 9.3 / 9.0 / 8.1 | depth: +0.7 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Monumental neoclassical interior. |
+| Uniqueness | 9.0 | Distinct national commemorative institution. |
+| Significance | 9.4 | Major French civic and intellectual heritage. |
+| Experience | 9.0 | Dedicated nave and crypt visit. |
+| Depth | 8.8 | Multiple memorial and interpretation spaces. |
+
+- Applicable categories: history:9.4, architecture:9.4, culture:9.3.
+- Computed worldwide overall: 90.90/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-montmartre-sacre-coeur — Montmartre Historic Quarter and Sacré-Cœur Basilica — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/montmartre-sacre-coeur.yaml)
+- Action: new
+- Precise subject and limitations: Basilica, immediate hilltop streets, Place du Tertre and viewpoint grouped as one connected visitor experience. Dome visit documented at https://www.sacre-coeur-montmartre.com/en/info-and-visits/the-dome-tour/; excludes separately ticketed museums and cabaret performances.
+- Location check: 48.8868, 2.34303; [published representative point](https://mapcarta.com/25251462), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://parisjetaime.com/eng/transport/butte-montmartre-p1899); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/lyon-core](../../../countries/FR/sights/lyon-core.yaml) | 9.2 / 9.2 / 9.3 / 9.1 / 9.3 | significance: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/sarlat-core](../../../countries/FR/sights/sarlat-core.yaml) | 9.0 / 8.9 / 8.8 / 8.9 / 8.5 | depth: +0.6 vs peer; experience: +0.3 vs peer. |
+| [FR/arc-de-triomphe](../../../countries/FR/sights/arc-de-triomphe.yaml) | 9.2 / 9.0 / 9.3 / 9.0 / 8.1 | depth: +1.0 vs peer; significance: -0.3 vs peer. |
+| [FR/notre-dame-paris](../../../countries/FR/sights/notre-dame-paris.yaml) | 9.3 / 9.3 / 9.5 / 9.0 / 8.7 | significance: -0.5 vs peer; depth: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Iconic hillside views and basilica. |
+| Uniqueness | 9.0 | Distinct artistic hilltop quarter. |
+| Significance | 9.0 | Important Paris religious and artistic heritage. |
+| Experience | 9.2 | Rich walkable urban experience. |
+| Depth | 9.1 | Multiple streets, squares and monument spaces. |
+
+- Applicable categories: photography:9.4, architecture:9.3, culture:9.3, history:9.1.
+- Computed worldwide overall: 91.00/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-pere-lachaise — Père-Lachaise Cemetery Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/pere-lachaise.yaml)
+- Action: new
+- Precise subject and limitations: Historic cemetery grounds and funerary monuments. Active burial site; visitor conduct must respect families and ceremonies per https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576. No individual grave duplicates.
+- Location check: 48.86114, 2.39419; [published representative point](https://mapcarta.com/25251460), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.paris.fr/dossiers/bienvenue-au-cimetiere-du-pere-lachaise-47); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/invalides-army-museum](../../../countries/FR/sights/invalides-army-museum.yaml) | 9.2 / 9.1 / 9.4 / 9.0 / 9.3 | impact: -0.5 vs peer; experience: -0.3 vs peer. |
+| [FR/paris-catacombs](../../../countries/FR/sights/paris-catacombs.yaml) | 9.0 / 9.4 / 9.0 / 8.8 / 8.4 | depth: +0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [FR/saint-denis](../../../countries/FR/sights/saint-denis.yaml) | 9.0 / 9.1 / 9.4 / 8.8 / 8.5 | depth: +0.5 vs peer; impact: -0.3 vs peer. |
+| [IT/naples-catacombs](../../../countries/IT/sights/naples-catacombs.yaml) | 8.8 / 9.0 / 9.1 / 8.8 / 8.8 | depth: +0.2 vs peer; impact: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Atmospheric sculptural monuments. |
+| Uniqueness | 9.0 | Distinct funerary landscape and cultural associations. |
+| Significance | 9.2 | Major historical memorial heritage. |
+| Experience | 8.7 | Respectful self-guided visitor experience. |
+| Depth | 9.0 | Extensive grounds and diverse monuments. |
+
+- Applicable categories: history:9.4, culture:9.2, architecture:9.1, photography:9.0.
+- Computed worldwide overall: 89.05/100.
+- High-score challenge: below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-palais-garnier — Palais Garnier Opera House Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/palais-garnier.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated public-area architectural tour, including staircase, foyer and library-museum as listed by operator. Auditorium access not guaranteed; no performance ticket assumed.
+- Location check: 48.87194, 2.33167; [published representative point](https://en.wikipedia.org/wiki/Palais_Garnier), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.operadeparis.fr/en/terms-of-use/conditions-governing-visits-to-the-palais-garnier); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/versailles](../../../countries/FR/sights/versailles.yaml) | 9.7 / 9.6 / 9.7 / 9.4 / 9.7 | depth: -1.0 vs peer; significance: -0.5 vs peer. |
+| [FR/vaux-le-vicomte](../../../countries/FR/sights/vaux-le-vicomte.yaml) | 9.2 / 9.1 / 9.1 / 9.0 / 9.1 | depth: -0.4 vs peer; impact: +0.2 vs peer. |
+| [IT/verona-arena](../../../countries/IT/sights/verona-arena.yaml) | 9.1 / 9.0 / 9.2 / 8.9 / 8.6 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [IT/archiginnasio-bologna](../../../countries/IT/sights/archiginnasio-bologna.yaml) | 8.7 / 9.0 / 9.0 / 8.6 / 8.3 | impact: +0.7 vs peer; experience: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.4 | Exceptional ornate public interiors. |
+| Uniqueness | 9.2 | Distinct historic opera architecture. |
+| Significance | 9.2 | Major theatrical and architectural heritage. |
+| Experience | 9.0 | Established monument tour. |
+| Depth | 8.7 | Multiple richly decorated public rooms. |
+
+- Applicable categories: architecture:9.6, culture:9.4, history:9.3, photography:9.4.
+- Computed worldwide overall: 91.80/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending. Category 9.5+ provisional; exceptional architectural interior documented, international anchor review pending.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-petit-palais — Petit Palais – Museum of Fine Arts of Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/petit-palais.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated fine-art galleries and interior courtyard. Building explicitly part of Seine property (https://whc.unesco.org/en/list/600/); independent collection experience, not duplicate architectural riverbank walk. Grand Palais excluded.
+- Location check: 48.86603, 2.31454; [published representative point](https://mapcarta.com/26952168), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.parismuseescollections.paris.fr/en/the-petit-palais); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/musee-orsay](../../../countries/FR/sights/musee-orsay.yaml) | 9.2 / 9.3 / 9.5 / 9.2 / 9.2 | significance: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [FR/musee-rodin](../../../countries/FR/sights/musee-rodin.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 8.8 | uniqueness: -0.4 vs peer; depth: +0.3 vs peer. |
+| [ES/thyssen-bornemisza-museum](../../../countries/ES/sights/thyssen-bornemisza-museum.yaml) | 9.0 / 9.0 / 9.1 / 9.1 / 9.2 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer. |
+| [IT/borghese-gallery](../../../countries/IT/sights/borghese-gallery.yaml) | 9.1 / 9.2 / 9.3 / 9.0 / 8.7 | depth: +0.4 vs peer; uniqueness: -0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Fine art and attractive museum interiors. |
+| Uniqueness | 8.9 | Distinct civic collection in exposition building. |
+| Significance | 9.0 | Important municipal art heritage. |
+| Experience | 9.1 | Dedicated galleries and courtyard. |
+| Depth | 9.1 | Broad collection across media and periods. |
+
+- Applicable categories: culture:9.3, architecture:9.3, history:9.1.
+- Computed worldwide overall: 90.00/100.
+- High-score challenge: 90+ provisional; further worldwide calibration pending. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-musee-de-lhomme — Musée de l’Homme Paris — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/musee-de-lhomme.yaml)
+- Action: new
+- Precise subject and limitations: Dedicated human evolution and anthropology collection in Palais de Chaillot; excludes Trocadéro viewpoint, other Chaillot institutions and Grande Galerie de l’Évolution. Chaillot building is part of Seine landscape; collection independent.
+- Location check: 48.86205, 2.28765; [published representative point](https://mapcarta.com/fr/32816490), page or indexed excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.museedelhomme.fr/en/musee-de-l-homme); page or indexed excerpt inspected 2026-11-27. Sources support scope, not ratings.
+- Missing or uncertain facts: independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/museum-human-evolution-burgos](../../../countries/ES/sights/museum-human-evolution-burgos.yaml) | 8.8 / 9.1 / 9.2 / 8.9 / 9.0 | uniqueness: -0.1 vs peer; significance: -0.1 vs peer. |
+| [FR/grande-galerie-evolution](../../../countries/FR/sights/grande-galerie-evolution.yaml) | 9.1 / 9.1 / 9.0 / 9.0 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/quai-branly-museum](../../../countries/FR/sights/quai-branly-museum.yaml) | 9.0 / 9.2 / 9.2 / 8.9 / 9.2 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [US/american-museum-of-natural-history](../../../countries/US/sights/american-museum-of-natural-history.yaml) | 9.2 / 9.2 / 9.3 / 9.2 / 9.4 | impact: -0.4 vs peer; depth: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Substantial anthropology and prehistory displays. |
+| Uniqueness | 9.0 | Distinct integration of biology and cultural anthropology. |
+| Significance | 9.1 | Important human evolution collections. |
+| Experience | 9.0 | Dedicated interpretive museum visit. |
+| Depth | 9.0 | Broad thematic exhibition. |
+
+- Applicable categories: history:9.3, culture:9.3, family:9.1, nature:9.0.
+- Computed worldwide overall: 89.60/100.
+- High-score challenge: below 90 overall. No 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

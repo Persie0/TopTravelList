@@ -1,0 +1,17 @@
+id: sight-fr-sainte-chapelle
+name: "Sainte-Chapelle Paris"
+location:
+  country_code: FR
+  latitude: 48.85528
+  longitude: 2.345
+scores:
+  impact: 9.4
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 9.0
+  depth: 8.2
+  categories:
+    architecture: 9.6
+    history: 9.4
+    photography: 9.4
+    culture: 9.3
