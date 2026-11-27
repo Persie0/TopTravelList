@@ -861,3 +861,16 @@ Eight additions, 32 peer rows. Spain 134 ranked / 149 total. Gothic Quarter excl
 - [x] ES — Loro Parque Tenerife: 81.90/100 (source-linked-unverified).
 
 Six additions, 24 peer rows. Spain 140 ranked / 155 total. Cofete grouped with Jandía; Roque Nublo deferred for possible overlap with existing broad Risco Caído/Sacred Mountains landscape, UNESCO astronomy heritage reference https://web.astronomicalheritage.net/show-entity?identity=77&idsubentity=1 links them; exact boundary and visitor-scope distinction unresolved. Current trail reservations https://www.grancanaria.com/turismo/en/naturaleza/deportes-de-montana/senderismo/. Loro Parque welfare dispute documented with both positions, no performance or wild wildlife credit; experience adjusted editorially. Next bounded island screen: Masca gorge (distinct from Los Gigantes cliff viewpoints), Lobos Island, La Geria vineyards, Mirador del Río, César Manrique Foundation, Cueva del Viento, La Palma Roque de los Muchachos (check park overlap), and El Hierro marine excursions. Fifteen prior unassessed unchanged. Full Python validation and independent corroboration pending.
+
+### Pass 77 — Canary Islands volcanic landscapes and distinct scientific and cultural visitor attractions
+
+- [x] ES — Masca Gorge and Mountain Village: 88.65/100 (source-linked-unverified).
+- [x] ES — Lobos Island Natural Park: 86.60/100 (source-linked-unverified).
+- [x] ES — La Geria Volcanic Vineyard Landscape: 89.20/100 (source-linked-unverified).
+- [x] ES — Mirador del Río: 86.55/100 (source-linked-unverified).
+- [x] ES — César Manrique Foundation Tahíche: 88.65/100 (source-linked-unverified).
+- [x] ES — Cueva del Viento: 87.55/100 (source-linked-unverified).
+- [x] ES — Roque de los Muchachos Observatory and Visitor Centre: 88.45/100 (source-linked-unverified).
+- [x] ES — Mar de las Calmas Marine Reserve: 88.30/100 (source-linked-unverified).
+
+Eight additions, 32 peer rows. Spain 148 ranked / 163 total. Summit viewpoint already covered by Caldera de Taburiente; only scientific observatory/visitor centre added. Masca and Lobos access controlled, La Geria bounded to vineyards, Mar de las Calmas diving conditional. Next bounded mainland screen: El Torcal de Antequera (check dolmens property landscape), Cuenca Enchanted City, Pueblos Blancos (avoid Ronda overlap), Frigiliana, Setenil de las Bodegas, El Capricho de Gaudí, Aljafería Palace (check Mudéjar aggregate), and National Archaeological Museum Madrid. Fifteen prior unassessed unchanged; full Python validation and independent corroboration pending.

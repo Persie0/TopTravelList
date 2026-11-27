@@ -5584,3 +5584,314 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-es-masca-gorge — Masca Gorge and Mountain Village — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/masca-gorge.yaml)
+- Action: new
+- Precise subject and limitations: Permitted gorge hike and village, village reference point. Booking, suitable footwear, transport and weather restrictions apply. Excludes Los Gigantes cliff-viewing boat excursions.
+- Location check: 28.3053, -16.8405; [published representative point](https://mapcarta.com/Masca), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.caminobarrancodemasca.com/en/activities/booking/book-your-visit-to-the-masca-trail/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/anaga-rural-park](../../../countries/ES/sights/anaga-rural-park.yaml) | 9.3 / 9.2 / 8.9 / 9.0 / 9.1 | significance: -0.5 vs peer; depth: -0.4 vs peer. |
+| [ES/caminito-del-rey](../../../countries/ES/sights/caminito-del-rey.yaml) | 9.0 / 8.8 / 8.2 / 9.0 / 8.3 | depth: +0.4 vs peer; experience: -0.3 vs peer. |
+| [MA/todra-gorge](../../../countries/MA/sights/todra-gorge.yaml) | 9.1 / 8.8 / 8.4 / 8.9 / 8.1 | depth: +0.6 vs peer; experience: -0.2 vs peer. |
+| [ES/los-gigantes-cliffs](../../../countries/ES/sights/los-gigantes-cliffs.yaml) | 9.2 / 8.8 / 8.3 / 8.7 / 8.2 | depth: +0.5 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.2 | Dramatic steep gorge and village. |
+| Uniqueness | 9.0 | Distinct volcanic ravine. |
+| Significance | 8.4 | Regional landscape heritage. |
+| Experience | 8.7 | Controlled scenic hiking route. |
+| Depth | 8.7 | Village and gorge route. |
+
+- Applicable categories: nature:9.3, photography:9.4, adventure:9.3, culture:8.8.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-lobos-island — Lobos Island Natural Park — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/lobos-island.yaml)
+- Action: new
+- Precise subject and limitations: Protected volcanic island with permitted trails and shore views. Prior authorization required, separate from ferry transport. Island reference not landing point; excludes Corralejo dunes and unpermitted areas.
+- Location check: 28.75022, -13.82052; [published representative point](https://mapcarta.com/17375600), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://lobospass.com/info/naturalspace); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/corralejo-dunes](../../../countries/ES/sights/corralejo-dunes.yaml) | 9.0 / 8.8 / 8.5 / 8.8 / 8.4 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+| [ES/jandia-cofete](../../../countries/ES/sights/jandia-cofete.yaml) | 9.2 / 8.9 / 8.6 / 8.7 / 8.8 | depth: -0.4 vs peer; impact: -0.4 vs peer. |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [MA/oualidia-lagoon](../../../countries/MA/sights/oualidia-lagoon.yaml) | 8.7 / 8.5 / 8.1 / 8.8 / 8.3 | significance: +0.4 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Volcanic island and coastal scenery. |
+| Uniqueness | 8.7 | Distinct small protected island. |
+| Significance | 8.5 | Regional geological and ecological heritage. |
+| Experience | 8.7 | Permitted day-trip walking. |
+| Depth | 8.4 | Bounded island landscape. |
+
+- Applicable categories: nature:9.2, beaches:9.1, photography:9.2, adventure:8.7.
+- Computed worldwide overall: 86.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-la-geria-vineyards — La Geria Volcanic Vineyard Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/la-geria-vineyards.yaml)
+- Action: new
+- Precise subject and limitations: Volcanic ash cultivation pits, stone windbreaks and permitted winery visits. Representative winery location. Separate agricultural landscape from Timanfaya national park; no private vineyard access assumed.
+- Location check: 28.94743, -13.74634; [published representative point](https://holalanzarote.com/en/place/la-geria-winery), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.spain.info/en/discover-spain/vineyards-volcanoes-lanzarote/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/rioja](../../../countries/ES/sights/rioja.yaml) | 8.8 / 8.9 / 9.0 / 9.0 / 9.1 | depth: -0.6 vs peer; uniqueness: +0.4 vs peer. |
+| [ES/priorat](../../../countries/ES/sights/priorat.yaml) | 9.0 / 9.0 / 8.8 / 9.0 / 9.1 | depth: -0.6 vs peer; uniqueness: +0.3 vs peer. |
+| [ES/timanfaya](../../../countries/ES/sights/timanfaya.yaml) | 9.3 / 9.4 / 9.1 / 8.8 / 8.6 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [MA/draa-valley](../../../countries/MA/sights/draa-valley.yaml) | 9.0 / 9.0 / 8.8 / 8.7 / 9.0 | depth: -0.5 vs peer; uniqueness: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking patterned volcanic vineyards. |
+| Uniqueness | 9.3 | Unusual cultivation adapted to volcanic ash. |
+| Significance | 8.7 | Distinct living agricultural heritage. |
+| Experience | 8.7 | Public views and guided visits. |
+| Depth | 8.5 | Multiple vineyards and routes. |
+
+- Applicable categories: photography:9.4, culture:9.2, food:8.9, nature:8.8.
+- Computed worldwide overall: 89.20/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-mirador-del-rio — Mirador del Río — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/mirador-del-rio.yaml)
+- Action: new
+- Precise subject and limitations: Manrique-designed cliff viewpoint and visitor interior overlooking La Graciosa; no separate rating of adjacent cliff panorama. Visibility and opening conditions vary.
+- Location check: 29.21408, -13.48087; [published representative point](https://mapcarta.com/34597360), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://cactlanzarote.com/en/visit/mirador-del-rio); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/jameos-del-agua](../../../countries/ES/sights/jameos-del-agua.yaml) | 9.0 / 9.2 / 8.7 / 8.8 / 8.2 | uniqueness: -0.4 vs peer; significance: -0.4 vs peer. |
+| [ES/los-gigantes-cliffs](../../../countries/ES/sights/los-gigantes-cliffs.yaml) | 9.2 / 8.8 / 8.3 / 8.7 / 8.2 | depth: -0.3 vs peer; impact: -0.2 vs peer. |
+| [ES/gaztelugatxe](../../../countries/ES/sights/gaztelugatxe.yaml) | 9.3 / 9.0 / 8.3 / 8.7 / 8.1 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer. |
+| [MA/agadir-oufella](../../../countries/MA/sights/agadir-oufella.yaml) | 8.6 / 8.3 / 8.8 / 8.6 / 8.0 | uniqueness: +0.5 vs peer; significance: -0.5 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Expansive cliff panorama. |
+| Uniqueness | 8.8 | Distinct integration of architecture and viewpoint. |
+| Significance | 8.3 | Important regional design heritage. |
+| Experience | 8.7 | Focused public visitor experience. |
+| Depth | 7.9 | Compact architectural precinct. |
+
+- Applicable categories: photography:9.4, architecture:9.2, nature:9.0.
+- Computed worldwide overall: 86.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-cesar-manrique-foundation — César Manrique Foundation Tahíche — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/cesar-manrique-foundation.yaml)
+- Action: new
+- Precise subject and limitations: Former artist home built into lava bubbles, museum and garden; separate from Manrique's Haría house and public Lanzarote visitor installations.
+- Location check: 29.0024551, -13.5473743; [published representative point](https://holalanzarote.com/en/place/cesar-manrique-foundation), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://fcmanrique.org/en/casas-museo-visitas/fundacion-cesar-manrique-tahiche/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/dali-house-portlligat](../../../countries/ES/sights/dali-house-portlligat.yaml) | 8.8 / 9.2 / 9.0 / 8.7 / 8.4 | experience: +0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [ES/jameos-del-agua](../../../countries/ES/sights/jameos-del-agua.yaml) | 9.0 / 9.2 / 8.7 / 8.8 / 8.2 | depth: +0.3 vs peer; significance: +0.2 vs peer. |
+| [ES/casa-batllo](../../../countries/ES/sights/casa-batllo.yaml) | 9.3 / 9.4 / 9.1 / 9.1 / 8.4 | impact: -0.5 vs peer; uniqueness: -0.3 vs peer. |
+| [MA/yves-saint-laurent-museum](../../../countries/MA/sights/yves-saint-laurent-museum.yaml) | 8.5 / 8.8 / 8.6 / 8.5 / 8.3 | impact: +0.3 vs peer; significance: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Distinct lava-integrated interiors. |
+| Uniqueness | 9.1 | Unusual artist-designed volcanic home. |
+| Significance | 8.9 | Important architectural and artistic heritage. |
+| Experience | 8.8 | Dedicated house museum visit. |
+| Depth | 8.5 | Multiple spaces and exhibits. |
+
+- Applicable categories: architecture:9.3, culture:9.3, photography:9.1.
+- Computed worldwide overall: 88.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-cueva-del-viento — Cueva del Viento — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/cueva-del-viento.yaml)
+- Action: new
+- Precise subject and limitations: Guided lava-tube tour and visitor centre; coordinates at centre. Only approved route, small guided groups, booking and physical eligibility restrictions. No access to full cave network.
+- Location check: 28.35202, -16.704; [published representative point](https://mapcarta.com/es/W195579977), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://cuevadelviento.net/en/the-visit/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/cueva-de-los-verdes](../../../countries/ES/sights/cueva-de-los-verdes.yaml) | 8.8 / 8.9 / 8.5 / 8.8 / 8.3 | experience: -0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [ES/nerja-cave](../../../countries/ES/sights/nerja-cave.yaml) | 9.1 / 8.9 / 8.8 / 8.9 / 8.7 | impact: -0.3 vs peer; depth: -0.3 vs peer. |
+| [ES/pulpi](../../../countries/ES/sights/pulpi.yaml) | 8.9 / 9.4 / 9.1 / 8.3 / 7.5 | depth: +0.9 vs peer; significance: -0.5 vs peer. |
+| [ES/drach-caves](../../../countries/ES/sights/drach-caves.yaml) | 9.0 / 8.9 / 8.5 / 8.9 / 8.5 | experience: -0.2 vs peer; impact: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Lava passages and formations. |
+| Uniqueness | 9.0 | Distinct volcanic cave system. |
+| Significance | 8.6 | Geological and ecological significance. |
+| Experience | 8.7 | Guided interpretive exploration. |
+| Depth | 8.4 | Bounded route within extensive system. |
+
+- Applicable categories: nature:9.3, adventure:9.1, photography:8.8.
+- Computed worldwide overall: 87.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-roque-muchachos-observatory — Roque de los Muchachos Observatory and Visitor Centre — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/roque-muchachos-observatory.yaml)
+- Action: new
+- Precise subject and limitations: Guided scientific observatory visits and astronomy visitor centre, not the summit landscape/viewpoint included in Caldera de Taburiente (https://www.miteco.gob.es/en/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/taburiente/guia-visitante/ruta9.html). Observatory reference from IAC coordinates. Advance booking, weather and research operations conditional; no night telescope use assumed.
+- Location check: 28.756111, -17.891667; [published representative point](https://www.iac.edu.es/en/observatorios-de-canarias/roque-de-los-muchachos-observatory), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://iac.es/en/observatorios-de-canarias/roque-de-los-muchachos-observatory/visits); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/city-arts-sciences](../../../countries/ES/sights/city-arts-sciences.yaml) | 9.4 / 9.3 / 8.9 / 9.3 / 9.1 | impact: -0.7 vs peer; experience: -0.7 vs peer. |
+| [ES/mnac-barcelona](../../../countries/ES/sights/mnac-barcelona.yaml) | 9.0 / 9.1 / 9.3 / 8.9 / 9.3 | depth: -0.8 vs peer; impact: -0.3 vs peer. |
+| [ES/bernabeu-tour](../../../countries/ES/sights/bernabeu-tour.yaml) | 8.8 / 8.9 / 8.8 / 8.6 / 8.3 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+| [MA/atlas-film-studios](../../../countries/MA/sights/atlas-film-studios.yaml) | 8.7 / 9.0 / 8.3 / 8.8 / 8.6 | significance: +0.8 vs peer; experience: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Striking astronomical facilities. |
+| Uniqueness | 9.1 | Distinct international research observatory. |
+| Significance | 9.1 | Major scientific research significance. |
+| Experience | 8.6 | Guided scientific interpretation. |
+| Depth | 8.5 | Multiple facilities subject to access. |
+
+- Applicable categories: culture:9.2, architecture:8.8, photography:9.0.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-es-mar-de-las-calmas — Mar de las Calmas Marine Reserve — 2026-11-27
+
+- YAML: [source](../../../countries/ES/sights/mar-de-las-calmas.yaml)
+- Action: new
+- Precise subject and limitations: Authorized diving excursions and reserve visitor centre. Approximate La Restinga port reference, not underwater dive site (port source gives DMS). Marine reserve management https://www.mapa.gob.es/es/pesca/temas/proteccion-recursos-pesqueros/reservas-marinas-de-espana/la-restinga/informacion-de-interes/; diving rules https://www.boe.es/buscar/act.php?id=BOE-A-2005-1498. Qualifications, authorization, conditions and wildlife sightings conditional.
+- Location check: 27.635, -17.985; [published representative point](https://puertoscanarios.es/project/la-restinga/), source or excerpt inspected 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.hellocanaryislands.com/dive-points/el-hierro/scuba-diving-at-punta-restinga/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [ES/cabrera](../../../countries/ES/sights/cabrera.yaml) | 8.9 / 9.0 / 9.0 / 8.7 / 8.8 | significance: -0.2 vs peer; depth: -0.1 vs peer. |
+| [ES/atlantic-islands](../../../countries/ES/sights/atlantic-islands.yaml) | 9.1 / 9.0 / 8.9 / 9.0 / 8.9 | experience: -0.3 vs peer; depth: -0.2 vs peer. |
+| [ES/cabo-de-gata](../../../countries/ES/sights/cabo-de-gata.yaml) | 9.0 / 8.8 / 8.6 / 8.9 / 9.0 | depth: -0.3 vs peer; significance: +0.2 vs peer. |
+| [MA/souss-massa-national-park](../../../countries/MA/sights/souss-massa-national-park.yaml) | 8.7 / 8.9 / 9.0 / 8.6 / 8.8 | impact: +0.2 vs peer; significance: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Varied underwater volcanic scenery. |
+| Uniqueness | 8.9 | Distinct protected volcanic marine habitats. |
+| Significance | 8.8 | Important marine biodiversity. |
+| Experience | 8.7 | Authorized guided diving. |
+| Depth | 8.7 | Multiple permitted dive sites. |
+
+- Applicable categories: nature:9.3, wildlife:9.3, adventure:9.3, photography:9.1.
+- Computed worldwide overall: 88.30/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
