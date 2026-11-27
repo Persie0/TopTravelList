@@ -5203,3 +5203,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] UY — José Ignacio Coastal Village and Lighthouse Landscape: 82.35/100 (desk-based provisional).
 
 13 additions, 9 source-linked provisional, 4 desk-based provisional, 6 90+, 38 ranking-row comparisons (12 international). UY 74 ranked / 74 total, +13 since baseline 61. UNESCO official country page https://whc.unesco.org/en/statesparties/uy lists 3 inscribed, all already represented, and 6 tentative: Chamangá, Rambla, Peñarol and Isla de Flores direct existing matches; twentieth-century modern architecture partial existing coverage (Rambla and sports facilities, https://whc.unesco.org/en/tentativelists/5595/), Colonia bay and islands unresolved separate visitor scope (https://whc.unesco.org/en/tentativelists/2034/). No serial boundary verification. Carnival stage competition and Llamadas individually scoped, non-additive if bundled as one Carnival experience; tango shared intangible heritage, public consenting experiences only. Gaucho festival excludes animal handling/rodeo, Clásico spectator only; fixtures and safety unverified. Shore-based whale viewing only. Existing scores preserved. OPEN for further cultural programmes, protected areas and architecture. Coordinates approximate; future dates and permissions not guaranteed.
+
+### Pass 294 — Uruguay regional festivals, wine heritage and modern architecture
+
+- [x] UY — Montevideo Prado Semana Criolla Public Music and Gaucho Heritage Fair: 92.10/100 (source-linked-unverified).
+- [x] UY — Montevideo Noche de la Nostalgia Public Retro Music and Dance Events: 91.45/100 (source-linked-unverified).
+- [x] UY — Punta del Este International Jazz Festival Public Concerts: 90.70/100 (source-linked-unverified).
+- [x] UY — Minas y Abril Public Folk Music and Heritage Festival: 90.35/100 (source-linked-unverified).
+- [x] UY — Canelones Vineyard Heritage and Museo de la Uva y el Vino Circuit: 89.00/100 (source-linked-unverified).
+- [x] UY — Quebrada de Laureles and Cañas Guided Nature Walks: 87.90/100 (source-linked-unverified).
+- [x] UY — Minas and Lavalleja Semana de Lavalleja Public Cultural Festival: 87.60/100 (source-linked-unverified).
+- [x] UY — Montevideo Museo Casa Vilamajó Modern Architecture: 86.80/100 (source-linked-unverified).
+- [x] UY — Montevideo Casa Cravotto Architecture Heritage Centre: 84.45/100 (source-linked-unverified).
+- [x] UY — Montevideo Juan Manuel Blanes Museum and Japanese Garden: 84.45/100 (desk-based provisional).
+- [x] UY — Valle Edén Railway Heritage and Rural Landscape: 84.40/100 (source-linked-unverified).
+- [x] UY — Cerro Pan de Azúcar Hill and Authorized Hiking Routes: 83.45/100 (desk-based provisional).
+- [x] UY — Maldonado Historic Centre and Public Heritage Buildings: 81.80/100 (desk-based provisional).
+
+13 additions, 10 source-linked provisional, 3 desk-based provisional, 4 90+, 34 ranking-row comparisons (8 international). UY 87 ranked / 87 total, +26 since baseline 61. Prior 3 inscribed properties represented; 6 tentative screened, 4 direct matches and modern architecture partial (Vilamajó and Cravotto now additional representative houses; no formal boundary claim). Colonia island/bay extension deferred: October 2026 government agreement establishes future public-use planning for San Gabriel, not an established new visitor route (https://www.gub.uy/presidencia/comunicacion/noticias/turismo-colonia-isla-san-gabriel-acuerdo-ministerios-intendencias). Environment ministry directory lists 22 areas (https://www.gub.uy/ministerio-ambiente/nuestras-areas-protegidas); Esteros y Algarrobales, Humedales e Islas del Hum and Islas del Queguay require specific visitor scope and overlap screening. Arequita existing hill entry, not new park-wide duplicate. Canelones grouped museum and vineyard circuit, Vendimia not separately rated; Semana Criolla and Minas y Abril exclude rodeo. Existing scores preserved. OPEN for remaining SNAP scopes, coastal/river routes, museums and events. Coordinates approximate; future schedules and permissions unverified.
