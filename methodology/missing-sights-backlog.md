@@ -3862,3 +3862,27 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Fort Edmonton Park Living History Museum: 87.20/100 (desk-based provisional).
 
 18 additions, 6 desk-based provisional, 12 source-linked, 7 90+, 43 ranking-row comparisons including 7 international. CA 126 ranked / 129 total. Bowron canoe circuit, Wells Gray waterfalls/lakes, Garibaldi trails, Glacier/Rogers Pass and Grasslands dark sky grouped within respective park scopes. Dempster drive excludes Tombstone park hiking; non-additive geographical overlap. Khutzeymateen permitted northern sanctuary trips distinct from central Great Bear tours; broader ecosystem overlap flagged. Riding Mountain bison herd enclosed. Cross-border White Pass railway deferred pending existing US record scope. No new separate park components, glacier trails or Cabot/West Coast Trail additions. Existing three unassessed and prior scores preserved. Generator classification bug remains deferred. Search excerpts retrieved for all new 90+; no independent coordinate, access or physical condition verification. Next: Atlantic Canada, Quebec and Ontario regional landscapes and museums.
+
+### Pass 224 — Atlantic Canada, Québec and Ontario regional screen
+
+- [x] CA — Île-Bonaventure-et-du-Rocher-Percé National Park: 92.75/100 (source-linked-unverified).
+- [x] CA — Witless Bay Ecological Reserve Licensed Seabird Viewing Cruises: 92.20/100 (source-linked-unverified).
+- [x] CA — Newfoundland East Coast Trail Avalon Peninsula: 91.55/100 (source-linked-unverified).
+- [x] CA — Stratford Festival Classical and Contemporary Theatre: 91.75/100 (source-linked-unverified).
+- [x] CA — Toronto International Film Festival Public Screenings: 91.45/100 (source-linked-unverified).
+- [x] CA — Canadian Canoe Museum Peterborough: 91.60/100 (source-linked-unverified).
+- [x] CA — Forillon National Park Sea Cliffs and Coastal Wilderness: 90.60/100 (source-linked-unverified).
+- [x] CA — Hautes-Gorges-de-la-Rivière-Malbaie National Park: 90.45/100 (source-linked-unverified).
+- [x] CA — Gaspésie National Park Chic-Chocs and McGerrigle Mountains: 90.35/100 (source-linked-unverified).
+- [x] CA — Green Gables Heritage Place and Literary Landscape: 89.20/100 (source-linked-unverified).
+- [x] CA — Prince Edward Island National Park Coastal Dunes and Beaches: 88.20/100 (source-linked-unverified).
+- [x] CA — Outer Bay of Fundy Grand Manan and Passamaquoddy Whale Watching: 88.85/100 (source-linked-unverified).
+- [x] CA — Jacques-Cartier National Park Glacial Valley and River Paddling: 87.55/100 (desk-based provisional).
+- [x] CA — La Mauricie National Park Lakes and Laurentian Forest: 87.25/100 (desk-based provisional).
+- [x] CA — Kouchibouguac National Park Coastal Dunes and Lagoons: 86.65/100 (desk-based provisional).
+- [x] CA — Kejimkujik National Park and National Historic Site: 88.30/100 (desk-based provisional).
+- [x] CA — Pukaskwa National Park Lake Superior Coastal Wilderness: 88.10/100 (desk-based provisional).
+- [x] CA — Maritime Museum of the Atlantic Halifax: 88.00/100 (desk-based provisional).
+- [x] CA — Canada Aviation and Space Museum Ottawa: 88.10/100 (desk-based provisional).
+
+19 additions, 7 desk-based provisional, 12 source-linked, 9 90+, 45 ranking-row comparisons including 7 international. CA 145 ranked / 148 total. Bonaventure and Percé rock grouped; Witless Bay authorized boat viewing only. East Coast Trail excludes existing Cape Spear and Signal Hill visits, non-additive geographical overlap. Forillon includes adjacent marine excursions, no separate duplicate. Green Gables literary heritage separate from coastal park. Grand Manan/Passamaquoddy whale departures grouped. Stratford and TIFF public performances/screenings, not guaranteed future programmes. Hautes-Gorges seasonal Acropole closure noted. Prior three unassessed and old scores preserved. Actual indexed excerpts retrieved for new 90+ ratings; GPS and current conditions not independently verified. Earlier review entries' evidence labels not independently revalidated; separate evidence audit necessary. Next: major urban collections, outdoor and cultural experiences across remaining Canadian regions.

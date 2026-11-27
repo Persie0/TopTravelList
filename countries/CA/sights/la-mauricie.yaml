@@ -1,0 +1,16 @@
+id: sight-ca-la-mauricie
+name: "La Mauricie National Park Lakes and Laurentian Forest"
+location:
+  country_code: CA
+  latitude: 46.77
+  longitude: -72.96
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.9
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.3
+    photography: 9.2

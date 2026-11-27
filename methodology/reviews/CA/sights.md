@@ -3852,3 +3852,424 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 223 scope decisions
 
 Bowron canoe circuit, Wells Gray waterfalls/lakes, Garibaldi trails, Glacier/Rogers Pass and Grasslands dark sky grouped within respective park scopes. Dempster drive excludes Tombstone park hiking; non-additive geographical overlap. Khutzeymateen permitted northern sanctuary trips distinct from central Great Bear tours; broader ecosystem overlap flagged. Riding Mountain bison herd enclosed. Cross-border White Pass railway deferred pending existing US record scope. No new separate park components, glacier trails or Cabot/West Coast Trail additions. Existing three unassessed and prior scores preserved. Generator classification bug remains deferred. Search excerpts retrieved for all new 90+; no independent coordinate, access or physical condition verification.
+
+## sight-ca-bonaventure-perce — Île-Bonaventure-et-du-Rocher-Percé National Park — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/bonaventure-perce.yaml)
+- Action: new
+- Scope: Percé rock and Bonaventure Island trails and licensed boat visits grouped. Sépaq documents 15 km of trails and an accessible major northern gannet colony; published population not treated as a current census or guaranteed encounter.
+- Representative coordinates: 48.49, -64.16; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.4 / 9.3 / 9.2 / 9.2 / 9.1.
+- Categories: wildlife:9.4 nature:9.4 photography:9.4.
+- Overall: 92.75/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://www.sepaq.com/en/destinations/national-parks/ile-bonaventure-rocher-perce, https://www.sepaq.com/en/destinations/national-parks/ile-bonaventure-rocher-perce/activities/wildlife-watching.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/mingan-archipelago-national-park-reserve](../../../countries/CA/sights/mingan-archipelago-national-park-reserve.yaml) | 8.7 / 8.9 / 8.6 / 8.5 / 8.6 | impact: +0.7 vs peer; experience: +0.7 vs peer |
+| [CA/hopewell-rocks-provincial-park](../../../countries/CA/sights/hopewell-rocks-provincial-park.yaml) | 8.9 / 9.1 / 8.5 / 9.0 / 8.1 | depth: +1.0 vs peer; significance: +0.7 vs peer |
+| [NZ/royal-albatross-centre](../../../countries/NZ/sights/royal-albatross-centre.yaml) | 8.9 / 9.4 / 9.3 / 9.0 / 8.8 | impact: +0.5 vs peer; depth: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-witless-bay — Witless Bay Ecological Reserve Licensed Seabird Viewing Cruises — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/witless-bay.yaml)
+- Action: new
+- Scope: Licensed marine cruises only, not island landings; government identifies North America's largest Atlantic puffin colony. No guaranteed sightings. Separate from Twillingate icebergs and mainland hiking.
+- Representative coordinates: 47.21, -52.77; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.2 / 9.1 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 92.20/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://www.gov.nl.ca/eccc/natural-areas/wer/r-wbe/, https://www.newfoundlandlabrador.com/plan-and-book/attractions/213657.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/iceberg-alley](../../../countries/CA/sights/iceberg-alley.yaml) | 9.3 / 9.3 / 8.8 / 9.1 / 8.9 | significance: +0.4 vs peer; depth: +0.1 vs peer |
+| [CA/saguenay-whales](../../../countries/CA/sights/saguenay-whales.yaml) | 9.2 / 9.1 / 9.1 / 9.2 / 9.1 | uniqueness: +0.2 vs peer; impact: +0.1 vs peer |
+| [NZ/royal-albatross-centre](../../../countries/NZ/sights/royal-albatross-centre.yaml) | 8.9 / 9.4 / 9.3 / 9.0 / 8.8 | impact: +0.4 vs peer; depth: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-east-coast-trail — Newfoundland East Coast Trail Avalon Peninsula — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/east-coast-trail.yaml)
+- Action: new
+- Scope: 336 km maintained wilderness path network as documented by association and federal government; excludes independently rated Signal Hill, Cape Spear lighthouse and boat tours. Regional route proxy; trail condition and weather variable.
+- Representative coordinates: 47.27, -52.84; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.9 / 9.2 / 9.3.
+- Categories: nature:9.4 adventure:9.4 photography:9.4.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://eastcoasttrail.com/, https://www.canada.ca/en/atlantic-canada-opportunities/campaigns/impacts/east-coast-trail.html.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/icefields-parkway](../../../countries/CA/sights/icefields-parkway.yaml) | 9.4 / 9.2 / 8.6 / 9.3 / 9.0 | significance: +0.3 vs peer; depth: +0.3 vs peer |
+| [CA/cape-spear](../../../countries/CA/sights/cape-spear.yaml) | 8.7 / 8.6 / 8.7 / 8.7 / 8.5 | depth: +0.8 vs peer; impact: +0.6 vs peer |
+| [NZ/heaphy-track](../../../countries/NZ/sights/heaphy-track.yaml) | 9.0 / 8.9 / 8.7 / 9.0 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-stratford-festival — Stratford Festival Classical and Contemporary Theatre — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/stratford-festival.yaml)
+- Action: new
+- Scope: Recurring multi-venue theatre festival, officially designated national historic event; company describes itself as North America's largest classical repertory company. No future performance availability assumed.
+- Representative coordinates: 43.37, -80.97; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.3 / 9.3 / 9.2.
+- Categories: culture:9.4 history:9.3 nightlife:9.2.
+- Overall: 91.75/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://www.stratfordfestival.ca/AboutUs/, https://parks.canada.ca/culture/designation/evenement-event/stratford.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | impact: -0.2 vs peer; significance: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-tiff — Toronto International Film Festival Public Screenings — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/tiff.yaml)
+- Action: new
+- Scope: Recurring September film festival, public screenings only; excludes industry-only market and year-round independent cinema. Festival organizer listing and public ticketing confirm experience; future programme not assumed.
+- Representative coordinates: 43.647, -79.391; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.2 / 9.1 / 9.1.
+- Categories: culture:9.4 nightlife:9.3 history:9.1.
+- Overall: 91.45/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://filmfreeway.com/tiff, https://www.ticketmaster.ca/tiff, https://am.ticketmaster.com/tiff/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | experience: -0.2 vs peer; impact: -0.1 vs peer |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | impact: -0.1 vs peer; experience: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-canoe-museum — Canadian Canoe Museum Peterborough — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-canoe-museum.yaml)
+- Action: new
+- Scope: Museum's collection comprises more than 650 paddled vessels, including canoes and kayaks; public exhibits and museum-run interpretation grouped, not entire Trent-Severn waterway. Not every collection item displayed.
+- Representative coordinates: 44.286, -78.308; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.3 / 9.0 / 9.3.
+- Categories: culture:9.4 history:9.4 family:9.2.
+- Overall: 91.60/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://canoemuseum.ca/exhibits/, https://canoemuseum.ca/about/media-centre/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/museum-anthropology-ubc](../../../countries/CA/sights/museum-anthropology-ubc.yaml) | 9.1 / 9.3 / 9.4 / 9.1 / 9.3 | impact: -0.2 vs peer; uniqueness: +0.1 vs peer |
+| [CA/canadian-museum-of-history](../../../countries/CA/sights/canadian-museum-of-history.yaml) | 9.0 / 9.1 / 9.2 / 9.1 / 9.3 | uniqueness: +0.3 vs peer; impact: -0.1 vs peer |
+| [NZ/te-papa](../../../countries/NZ/sights/te-papa.yaml) | 8.8 / 9.1 / 9.2 / 9.3 / 9.4 | uniqueness: +0.3 vs peer; experience: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-forillon — Forillon National Park Sea Cliffs and Coastal Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/forillon.yaml)
+- Action: new
+- Scope: Park-level cliffs, forests, maritime heritage and adjacent licensed marine excursions grouped; excludes Percé and Saguenay whale-watching. Parks Canada documents approximately 245 square kilometres; no guaranteed wildlife.
+- Representative coordinates: 48.82, -64.28; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.9 / 9.0 / 9.2.
+- Categories: nature:9.4 photography:9.4 wildlife:9.3.
+- Overall: 90.60/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/pn-np/qc/forillon.aspx, https://parks.canada.ca/pn-np/qc/forillon/nature/environnement-environment/marine.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/gros-morne-national-park](../../../countries/CA/sights/gros-morne-national-park.yaml) | 9.2 / 9.2 / 9.3 / 8.9 / 9.0 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [CA/cape-breton-highlands-national-park](../../../countries/CA/sights/cape-breton-highlands-national-park.yaml) | 8.8 / 8.5 / 8.5 / 8.9 / 8.8 | uniqueness: +0.5 vs peer; impact: +0.4 vs peer |
+| [NZ/catlins-coastal-area](../../../countries/NZ/sights/catlins-coastal-area.yaml) | 9.0 / 8.9 / 8.8 / 8.8 / 9.0 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-hautes-gorges — Hautes-Gorges-de-la-Rivière-Malbaie National Park — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/hautes-gorges.yaml)
+- Action: new
+- Scope: Glacial valley, river outings and Acropole-des-Draveurs hiking grouped. Sépaq lists seasonal closure from 13 October 2026; no current trail access asserted.
+- Representative coordinates: 47.86, -70.54; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.0 / 8.8 / 9.1 / 9.1.
+- Categories: nature:9.4 photography:9.4 adventure:9.3.
+- Overall: 90.45/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://www.sepaq.com/en/destinations/national-parks/hautes-gorges-riviere-malbaie, https://www.sepaq.com/en/destinations/national-parks/hautes-gorges-riviere-malbaie/activities/hiking, https://www.sepaq.com/pq/hgo/nouvelles/nouvelle.dot?language_id=2.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/tombstone-territorial](../../../countries/CA/sights/tombstone-territorial.yaml) | 9.3 / 9.2 / 9.0 / 8.9 / 9.1 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [CA/wells-gray](../../../countries/CA/sights/wells-gray.yaml) | 9.2 / 9.0 / 8.9 / 9.2 / 9.3 | depth: -0.2 vs peer; significance: -0.1 vs peer |
+| [NZ/arthurs-pass-national-park](../../../countries/NZ/sights/arthurs-pass-national-park.yaml) | 9.1 / 8.8 / 8.7 / 8.9 / 9.1 | uniqueness: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-gaspesie — Gaspésie National Park Chic-Chocs and McGerrigle Mountains — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/gaspesie.yaml)
+- Action: new
+- Scope: Park alpine hikes grouped; protected mountain caribou habitat, no guaranteed sightings or unrestricted access to conservation areas.
+- Representative coordinates: 48.94, -66.14; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.0 / 9.1 / 9.2.
+- Categories: nature:9.4 wildlife:9.3 adventure:9.3.
+- Overall: 90.35/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://www.sepaq.com/en/destinations/national-parks/gaspesie/activities/hiking, https://www.sepaq.com/en/destinations/national-parks/gaspesie/activities/wildlife-watching.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/tombstone-territorial](../../../countries/CA/sights/tombstone-territorial.yaml) | 9.3 / 9.2 / 9.0 / 8.9 / 9.1 | impact: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [CA/glacier-national-park-bc](../../../countries/CA/sights/glacier-national-park-bc.yaml) | 9.1 / 9.0 / 9.1 / 9.0 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer |
+| [NZ/nelson-lakes-national-park](../../../countries/NZ/sights/nelson-lakes-national-park.yaml) | 8.9 / 8.7 / 8.6 / 8.9 / 9.1 | significance: +0.4 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-green-gables — Green Gables Heritage Place and Literary Landscape — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/green-gables.yaml)
+- Action: new
+- Scope: Farmstead that inspired the 1908 novel, public house and literary trails grouped. Distinct from PEI coastal park recreation.
+- Representative coordinates: 46.49, -63.38; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.6 / 9.1 / 9.2 / 8.9 / 8.9.
+- Categories: culture:9.4 history:9.3 family:9.2.
+- Overall: 89.20/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://parks.canada.ca/lhn-nhs/pe/greengables/gestion-management, https://www.parks.canada.ca/lhn-nhs/pe/greengables/activ/maison-house.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/haida-heritage-centre](../../../countries/CA/sights/haida-heritage-centre.yaml) | 9.0 / 9.2 / 9.4 / 9.0 / 9.2 | impact: -0.4 vs peer; depth: -0.3 vs peer |
+| [CA/old-town-lunenburg](../../../countries/CA/sights/old-town-lunenburg.yaml) | 8.5 / 8.7 / 8.9 / 8.4 / 8.0 | depth: +0.9 vs peer; experience: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-pei-national-park — Prince Edward Island National Park Coastal Dunes and Beaches — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/pei-national-park.yaml)
+- Action: new
+- Scope: Cavendish, Brackley-Dalvay and Greenwich coastal sections grouped; excludes Green Gables literary heritage. Dune protections and temporary road/access restrictions apply.
+- Representative coordinates: 46.44, -63.07; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.7 / 9.0 / 8.9.
+- Categories: nature:9.3 beaches:9.3 photography:9.3.
+- Overall: 88.20/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://www.parks.canada.ca/pn-np/pe/pei-ipe, https://www.parks.canada.ca/pn-np/pe/pei-ipe/activ/sentiers-trails/greenwich-dune.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pacific-rim-national-park-reserve](../../../countries/CA/sights/pacific-rim-national-park-reserve.yaml) | 8.9 / 8.6 / 8.8 / 9.0 / 9.1 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | 8.7 / 8.5 / 8.3 / 8.8 / 8.5 | significance: +0.4 vs peer; depth: +0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-grand-manan-whales — Outer Bay of Fundy Grand Manan and Passamaquoddy Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/grand-manan-whales.yaml)
+- Action: new
+- Scope: New Brunswick outer bay licensed whale-watching departures grouped including Saint Andrews, Grand Manan and Campobello. Separate from inland tidal rafting, Fundy park and Hopewell Rocks. No guaranteed sightings, approach to protected species or island landing.
+- Representative coordinates: 44.7, -66.8; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 9.0 / 8.8.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3.
+- Overall: 88.85/100.
+- Decision: Source-informed provisional estimate from retrieved search excerpts; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- References (indexed excerpts retrieved 2026-11-27): https://tourismnewbrunswick.ca/whale-watching, https://visitswnb.ca/inspiration/whale-watching.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/saguenay-whales](../../../countries/CA/sights/saguenay-whales.yaml) | 9.2 / 9.1 / 9.1 / 9.2 / 9.1 | impact: -0.3 vs peer; significance: -0.3 vs peer |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | impact: +0.2 vs peer; experience: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-jacques-cartier-park — Jacques-Cartier National Park Glacial Valley and River Paddling — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/jacques-cartier-park.yaml)
+- Action: new
+- Scope: Distinct park north of Québec City; valley, public hikes and river paddling grouped, not Hautes-Gorges.
+- Representative coordinates: 47.23, -71.44; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.5 / 9.0 / 8.9.
+- Categories: nature:9.3 adventure:9.3 photography:9.3.
+- Overall: 87.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | significance: -0.6 vs peer; depth: -0.5 vs peer |
+| [CA/wells-gray](../../../countries/CA/sights/wells-gray.yaml) | 9.2 / 9.0 / 8.9 / 9.2 / 9.3 | impact: -0.4 vs peer; significance: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-la-mauricie — La Mauricie National Park Lakes and Laurentian Forest — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/la-mauricie.yaml)
+- Action: new
+- Scope: Park-level canoeing, camping and woodland routes; not Jacques-Cartier or Algonquin.
+- Representative coordinates: 46.77, -72.96; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.6 / 8.5 / 8.9 / 9.0.
+- Categories: nature:9.3 adventure:9.3 photography:9.2.
+- Overall: 87.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+| [CA/killarney-provincial](../../../countries/CA/sights/killarney-provincial.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-kouchibouguac — Kouchibouguac National Park Coastal Dunes and Lagoons — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/kouchibouguac.yaml)
+- Action: new
+- Scope: Coastal dunes, tidal lagoons and park trails grouped; separate from Fundy National Park. No guaranteed seal or bird encounters.
+- Representative coordinates: 46.83, -64.95; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.6 / 8.8 / 8.7.
+- Categories: nature:9.3 wildlife:9.2 beaches:9.2.
+- Overall: 86.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fundy-national-park](../../../countries/CA/sights/fundy-national-park.yaml) | 8.7 / 9.0 / 8.8 / 8.8 / 8.8 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | 8.7 / 8.5 / 8.3 / 8.8 / 8.5 | significance: +0.3 vs peer; uniqueness: +0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-keji — Kejimkujik National Park and National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/keji.yaml)
+- Action: new
+- Scope: Inland paddling and authorized Mi'kmaw heritage interpretation, plus separately located park seaside unit grouped; no private or sensitive rock-art access assumed.
+- Representative coordinates: 44.41, -65.23; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 9.0.
+- Categories: nature:9.3 culture:9.3 adventure:9.2.
+- Overall: 88.30/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/algonquin](../../../countries/CA/sights/algonquin.yaml) | 9.2 / 9.0 / 9.1 / 9.3 / 9.4 | impact: -0.5 vs peer; experience: -0.5 vs peer |
+| [CA/writing-on-stone](../../../countries/CA/sights/writing-on-stone.yaml) | 8.4 / 8.8 / 9.2 / 8.2 / 8.0 | depth: +1.0 vs peer; experience: +0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-pukaskwa — Pukaskwa National Park Lake Superior Coastal Wilderness — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/pukaskwa.yaml)
+- Action: new
+- Scope: Lake Superior park wilderness, coastal hikes and qualified paddling; conditions and permits apply.
+- Representative coordinates: 48.26, -85.89; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.6 / 8.8 / 9.0.
+- Categories: nature:9.3 adventure:9.3 photography:9.3.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/bruce-peninsula-national-park](../../../countries/CA/sights/bruce-peninsula-national-park.yaml) | 8.7 / 8.5 / 8.3 / 8.8 / 8.5 | depth: +0.5 vs peer; uniqueness: +0.3 vs peer |
+| [CA/killarney-provincial](../../../countries/CA/sights/killarney-provincial.yaml) | 8.9 / 8.8 / 8.7 / 9.0 / 9.0 | experience: -0.2 vs peer; significance: -0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-maritime-museum-atlantic — Maritime Museum of the Atlantic Halifax — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/maritime-museum-atlantic.yaml)
+- Action: new
+- Scope: Public maritime collections and exhibits including Titanic and Halifax Explosion interpretation; not Pier 21 or Citadel.
+- Representative coordinates: 44.647, -63.571; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.8 / 9.0.
+- Categories: history:9.3 culture:9.2 family:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/pier-21](../../../countries/CA/sights/pier-21.yaml) | 8.8 / 9.0 / 9.4 / 9.0 / 9.1 | significance: -0.4 vs peer; impact: -0.2 vs peer |
+| [CA/canadian-war-museum](../../../countries/CA/sights/canadian-war-museum.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | impact: -0.4 vs peer; significance: -0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-aviation-space — Canada Aviation and Space Museum Ottawa — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-aviation-space.yaml)
+- Action: new
+- Scope: Public aviation and space exhibits; distinct from Canadian War Museum and museum of nature.
+- Representative coordinates: 45.458, -75.643; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 8.8 / 9.0.
+- Categories: history:9.3 family:9.3 culture:9.1.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking; lasting condition requires separate review.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-war-museum](../../../countries/CA/sights/canadian-war-museum.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | significance: -0.4 vs peer; impact: -0.3 vs peer |
+| [CA/canadian-museum-nature](../../../countries/CA/sights/canadian-museum-nature.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 224 scope decisions
+
+Bonaventure and Percé rock grouped; Witless Bay authorized boat viewing only. East Coast Trail excludes existing Cape Spear and Signal Hill visits, non-additive geographical overlap. Forillon includes adjacent marine excursions, no separate duplicate. Green Gables literary heritage separate from coastal park. Grand Manan/Passamaquoddy whale departures grouped. Stratford and TIFF public performances/screenings, not guaranteed future programmes. Hautes-Gorges seasonal Acropole closure noted. Prior three unassessed and old scores preserved. Actual indexed excerpts retrieved for new 90+ ratings; GPS and current conditions not independently verified. Earlier review entries' evidence labels not independently revalidated; separate evidence audit necessary.

@@ -1,0 +1,16 @@
+id: sight-ca-kouchibouguac
+name: "Kouchibouguac National Park Coastal Dunes and Lagoons"
+location:
+  country_code: CA
+  latitude: 46.83
+  longitude: -64.95
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.2
+    beaches: 9.2
