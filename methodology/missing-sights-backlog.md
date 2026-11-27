@@ -5221,3 +5221,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] UY — Maldonado Historic Centre and Public Heritage Buildings: 81.80/100 (desk-based provisional).
 
 13 additions, 10 source-linked provisional, 3 desk-based provisional, 4 90+, 34 ranking-row comparisons (8 international). UY 87 ranked / 87 total, +26 since baseline 61. Prior 3 inscribed properties represented; 6 tentative screened, 4 direct matches and modern architecture partial (Vilamajó and Cravotto now additional representative houses; no formal boundary claim). Colonia island/bay extension deferred: October 2026 government agreement establishes future public-use planning for San Gabriel, not an established new visitor route (https://www.gub.uy/presidencia/comunicacion/noticias/turismo-colonia-isla-san-gabriel-acuerdo-ministerios-intendencias). Environment ministry directory lists 22 areas (https://www.gub.uy/ministerio-ambiente/nuestras-areas-protegidas); Esteros y Algarrobales, Humedales e Islas del Hum and Islas del Queguay require specific visitor scope and overlap screening. Arequita existing hill entry, not new park-wide duplicate. Canelones grouped museum and vineyard circuit, Vendimia not separately rated; Semana Criolla and Minas y Abril exclude rodeo. Existing scores preserved. OPEN for remaining SNAP scopes, coastal/river routes, museums and events. Coordinates approximate; future schedules and permissions unverified.
+
+### Pass 295 — Uruguay geological heritage, regional festivals and river settlements
+
+- [x] UY — Artigas Los Catalanes Amethyst Geodes Guided Mining Heritage Tour: 92.60/100 (source-linked-unverified).
+- [x] UY — Artigas Carnival Public Samba School Parades: 91.80/100 (source-linked-unverified).
+- [x] UY — Treinta y Tres Festival del Olimar Public Folk Music Programme: 91.05/100 (source-linked-unverified).
+- [x] UY — Las Piedras National Vendimia Harvest Festival: 90.40/100 (source-linked-unverified).
+- [x] UY — Punta del Este International Film Festival Public Screenings: 90.30/100 (source-linked-unverified).
+- [x] UY — San Javier Fiesta del Girasol Russian Uruguayan Cultural Festival: 88.20/100 (source-linked-unverified).
+- [x] UY — Cardal National Dairy Festival Public Gastronomy and Music: 87.40/100 (source-linked-unverified).
+- [x] UY — Piriápolis de Película International Independent Film Festival: 87.25/100 (source-linked-unverified).
+- [x] UY — Minas de Corrales Ruta del Oro Mining Heritage Tour: 86.80/100 (source-linked-unverified).
+- [x] UY — Villa Serrana Highland Village and Public Landscape Viewpoints: 84.75/100 (desk-based provisional).
+- [x] UY — San Javier Russian Settlement Heritage and Public Streets: 84.25/100 (desk-based provisional).
+- [x] UY — Mercedes Río Negro Historic Waterfront and Public Heritage: 83.45/100 (desk-based provisional).
+
+12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 34 ranking-row comparisons (10 international). UY 99 ranked / 99 total, +38 since baseline 61. Prior 3 inscribed properties represented, 6 tentative screened (4 direct matches, modern architecture partial, Colonia island extension deferred); no new boundary mapping. Los Catalanes internationally recognized geological heritage, guided prepared visitor tunnels only. Vendimia seasonal public festival separate from routine winery circuit, non-additive when bundled. San Javier public sunflower festival separate from permanent settlement and Farrapos. Hum and Islas del Queguay protected status confirmed (https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/humedales-islas-del-hum-soriano ; https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/area-protegida-manejo-habitat-yo-especies-islas-del-queguay), visitor routes insufficiently confirmed, deferred; Esteros y Algarrobales official general trail guidance but distinct scope/overlap with Farrapos remains unresolved (https://www.ambiente.gub.uy/oan/snap/esteros-y-algarrobales-del-rio-uruguay/). Existing scores preserved. OPEN for final bounded regional screen. Coordinates approximate; future schedules, access and permissions unverified.
