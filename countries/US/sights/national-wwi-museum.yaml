@@ -1,0 +1,16 @@
+id: sight-us-national-wwi-museum
+name: "National World War I Museum and Memorial Kansas City"
+location:
+  country_code: US
+  latitude: 39.08
+  longitude: -94.586
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 9.0

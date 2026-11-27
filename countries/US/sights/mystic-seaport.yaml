@@ -1,0 +1,16 @@
+id: sight-us-mystic-seaport
+name: "Mystic Seaport Museum Maritime Village and Historic Vessels"
+location:
+  country_code: US
+  latitude: 41.361
+  longitude: -71.966
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.2
+  depth: 9.3
+  categories:
+    history: 9.3
+    culture: 9.2
+    family: 9.3

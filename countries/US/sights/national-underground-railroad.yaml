@@ -1,0 +1,16 @@
+id: sight-us-national-underground-railroad
+name: "National Underground Railroad Freedom Center Cincinnati"
+location:
+  country_code: US
+  latitude: 39.097
+  longitude: -84.511
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.2
+    architecture: 8.7

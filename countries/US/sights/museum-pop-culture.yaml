@@ -1,0 +1,16 @@
+id: sight-us-museum-pop-culture
+name: "Museum of Pop Culture Seattle"
+location:
+  country_code: US
+  latitude: 47.621
+  longitude: -122.348
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.3
+    architecture: 9.0
+    family: 9.0

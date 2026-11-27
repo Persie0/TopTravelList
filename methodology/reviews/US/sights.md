@@ -9521,3 +9521,484 @@ Ranking rows checked; independent factual, coordinate, peer YAML, international 
 
 Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
 
+## sight-us-corning-glass — Corning Museum of Glass — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/corning-glass.yaml)
+- Action: new
+- Scope: Glass art and technology collections and live glassmaking; 3,500 years and over 50,000 objects.
+- Representative coordinates: 42.149, -77.054; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.2 / 9.2 / 9.3.
+- Categories: culture:9.4 history:9.2 family:9.3.
+- Overall: 92.30/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://info.cmog.org/; https://press.cmog.org/about-the-corning-museum-of-glass-fact-sheet.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/musical-instrument-museum](../../../countries/US/sights/musical-instrument-museum.yaml) | 9.1 / 9.3 / 9.0 / 9.3 / 9.3 | significance: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [US/computer-history-museum](../../../countries/US/sights/computer-history-museum.yaml) | 9.1 / 9.4 / 9.3 / 9.1 / 9.3 | significance: -0.1 vs peer; experience: +0.1 vs peer |
+| [US/exploratorium](../../../countries/US/sights/exploratorium.yaml) | 9.0 / 9.3 / 8.9 / 9.4 / 9.3 | significance: +0.3 vs peer; experience: -0.2 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-wwi-museum — National World War I Museum and Memorial Kansas City — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-wwi-museum.yaml)
+- Action: new
+- Scope: Museum exhibitions and Liberty Memorial grouped; extensive international WWI collection and permanent exhibition.
+- Representative coordinates: 39.08, -94.586; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.1 / 9.1 / 9.4 / 9.0 / 9.2.
+- Categories: history:9.4 culture:9.2 architecture:9.0.
+- Overall: 91.55/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.theworldwar.org/plan-your-visit; https://www.theworldwar.org/exhibitions.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | experience: -0.2 vs peer; depth: -0.2 vs peer |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | uniqueness: -0.2 vs peer; depth: -0.1 vs peer |
+| [US/american-revolution-museum](../../../countries/US/sights/american-revolution-museum.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | impact: +0.2 vs peer; significance: +0.1 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.2 vs peer; uniqueness: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-montgomery-legacy-sites — Montgomery Legacy Museum and National Memorial for Peace and Justice — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/montgomery-legacy-sites.yaml)
+- Action: new
+- Scope: Integrated Legacy Sites including memorial, museum and Freedom Monument; historical interpretation of slavery, racial injustice and civil rights.
+- Representative coordinates: 32.383, -86.311; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.3 / 9.4 / 9.0 / 9.1.
+- Categories: history:9.4 culture:9.4 architecture:9.0.
+- Overall: 92.55/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://legacysites.eji.org/visit/; https://legacysites.eji.org/about/memorial/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | impact: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/holocaust-memorial-museum](../../../countries/US/sights/holocaust-memorial-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.4 | depth: -0.3 vs peer; impact: +0.2 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | impact: +0.3 vs peer; uniqueness: +0.1 vs peer |
+| [US/huntington](../../../countries/US/sights/huntington.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.4 | experience: -0.3 vs peer; depth: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-tenement-museum — Lower East Side Tenement Museum New York — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/tenement-museum.yaml)
+- Action: new
+- Scope: Guided visits to historically reconstructed apartments in preserved tenement buildings; separate from Ellis Island immigration processing history.
+- Representative coordinates: 40.718, -73.99; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.2 / 9.1 / 9.0.
+- Categories: history:9.4 culture:9.3 architecture:8.9.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.tenement.org/apartment-tours/; https://www.nps.gov/loea/index.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/ellis-island](../../../countries/US/sights/ellis-island.yaml) | 8.1 / 8.8 / 9.3 / 8.6 / 8.3 | impact: +0.9 vs peer; depth: +0.7 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | depth: -0.4 vs peer; impact: -0.2 vs peer |
+| [US/american-revolution-museum](../../../countries/US/sights/american-revolution-museum.yaml) | 8.9 / 9.1 / 9.3 / 9.1 / 9.2 | uniqueness: +0.2 vs peer; depth: -0.2 vs peer |
+| [US/national-museum-american-history](../../../countries/US/sights/national-museum-american-history.yaml) | 9.1 / 9.2 / 9.4 / 9.1 / 9.4 | depth: -0.4 vs peer; significance: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-mystic-seaport — Mystic Seaport Museum Maritime Village and Historic Vessels — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/mystic-seaport.yaml)
+- Action: new
+- Scope: Working preservation shipyard, historic vessels, maritime village and exhibitions grouped.
+- Representative coordinates: 41.361, -71.966; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.1 / 9.2 / 9.3.
+- Categories: history:9.3 culture:9.2 family:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://mysticseaport.org/about/; https://mysticseaport.org/explore/vessels/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | impact: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/uss-midway-museum](../../../countries/US/sights/uss-midway-museum.yaml) | 8.9 / 9.1 / 9.0 / 9.2 / 9.1 | depth: +0.2 vs peer; impact: +0.1 vs peer |
+| [US/intrepid-museum](../../../countries/US/sights/intrepid-museum.yaml) | 9.1 / 9.3 / 9.2 / 9.2 / 9.1 | depth: +0.2 vs peer; impact: -0.1 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-newport-mansions — Newport Gilded Age Mansions and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/newport-mansions.yaml)
+- Action: new
+- Scope: The Breakers and associated public mansion estate tours grouped; no independent duplicate mansion entries.
+- Representative coordinates: 41.469, -71.298; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.0 / 9.0 / 9.0.
+- Categories: architecture:9.4 history:9.2 photography:9.3.
+- Overall: 89.75/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.newportmansions.org/plan-a-visit/mansions-gardens/; https://www.newportmansions.org/mansions-and-gardens/the-breakers/history/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.2 vs peer; experience: +0.5 vs peer |
+| [US/gardner-museum](../../../countries/US/sights/gardner-museum.yaml) | 8.8 / 9.2 / 8.9 / 9.0 / 9.0 | uniqueness: -0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-hearst-castle — Hearst Castle San Simeon — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/hearst-castle.yaml)
+- Action: new
+- Scope: Julia Morgan estate architecture, art and gardens; distinct ticketed experience outside the Big Sur corridor.
+- Representative coordinates: 35.685, -121.168; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 8.9 / 8.9 / 9.0 / 8.9.
+- Categories: architecture:9.4 history:9.1 photography:9.3.
+- Overall: 89.45/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://hearstcastle.org/reserve/tour-hearst-castle/; https://hearstcastle.org/tour/designing-the-dream-tour/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.1 vs peer; experience: +0.5 vs peer |
+| [US/taliesin-west](../../../countries/US/sights/taliesin-west.yaml) | 8.6 / 8.9 / 9.0 / 8.4 / 8.2 | depth: +0.7 vs peer; experience: +0.6 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-old-sturbridge — Old Sturbridge Village Living History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/old-sturbridge.yaml)
+- Action: new
+- Scope: Recreated rural New England village, historic trades and farm demonstrations.
+- Representative coordinates: 42.108, -72.096; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.8 / 9.1 / 9.1.
+- Categories: history:9.3 culture:9.2 family:9.3.
+- Overall: 89.00/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.osv.org/explore-the-village/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.5 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-manzanar — Manzanar National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/manzanar.yaml)
+- Action: new
+- Scope: Japanese American wartime incarceration history interpreted through museum and reconstructed barracks.
+- Representative coordinates: 36.728, -118.147; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.3 / 8.8 / 8.8.
+- Categories: history:9.4 culture:9.2 photography:8.7.
+- Overall: 88.95/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/manz/planyourvisit/trip-plans.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/ellis-island](../../../countries/US/sights/ellis-island.yaml) | 8.1 / 8.8 / 9.3 / 8.6 / 8.3 | impact: +0.6 vs peer; depth: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-little-rock-central-high — Little Rock Central High School National Historic Site — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/little-rock-central-high.yaml)
+- Action: new
+- Scope: Visitor center, public grounds and school integration history; no assumed interior school access.
+- Representative coordinates: 34.738, -92.298; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.3 / 8.6 / 8.5.
+- Categories: history:9.4 culture:9.2 architecture:8.7.
+- Overall: 87.50/100.
+- Decision: Source-informed provisional assessment from official excerpts; temporary access excluded from intrinsic rating.
+- Sources consulted (2026-11-27): https://www.nps.gov/chsc/planyourvisit/basicinfo.htm; https://www.nps.gov/articles/littlerock.htm.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.8 vs peer; impact: -0.6 vs peer |
+| [US/kaloko-honokohau](../../../countries/US/sights/kaloko-honokohau.yaml) | 8.5 / 8.9 / 9.1 / 8.6 / 8.7 | significance: +0.2 vs peer; depth: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-biltmore-estate — Biltmore Estate Asheville Mansion and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/biltmore-estate.yaml)
+- Action: new
+- Scope: Historic mansion and landscaped estate grouped.
+- Representative coordinates: 35.54, -82.552; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.8 / 9.0 / 9.0.
+- Categories: architecture:9.3 history:9.1 photography:9.2.
+- Overall: 88.55/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.2 vs peer; experience: +0.5 vs peer |
+| [US/monticello](../../../countries/US/sights/monticello.yaml) | 8.2 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +1.0 vs peer; impact: +0.7 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-shelburne-museum — Shelburne Museum Vermont Art and Americana — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/shelburne-museum.yaml)
+- Action: new
+- Scope: Decorative arts, relocated buildings and historic steamboat within one campus.
+- Representative coordinates: 44.375, -73.232; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 8.7 / 8.9 / 9.1.
+- Categories: culture:9.2 history:9.2 family:9.1.
+- Overall: 88.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/henry-ford-museum](../../../countries/US/sights/henry-ford-museum.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | significance: -0.6 vs peer; impact: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-plimoth-patuxet — Plimoth Patuxet Museums Plymouth Living History — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/plimoth-patuxet.yaml)
+- Action: new
+- Scope: Living history campus and associated Mayflower II interpretation grouped.
+- Representative coordinates: 41.938, -70.627; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.2 family:9.2.
+- Overall: 88.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/colonial-williamsburg](../../../countries/US/sights/colonial-williamsburg.yaml) | 9.2 / 9.3 / 9.3 / 9.2 / 9.4 | depth: -0.5 vs peer; impact: -0.4 vs peer |
+| [US/jamestown](../../../countries/US/sights/jamestown.yaml) | 8.6 / 8.9 / 9.3 / 8.7 / 8.8 | significance: -0.3 vs peer; impact: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-ticonderoga — Fort Ticonderoga Historic Fort and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-ticonderoga.yaml)
+- Action: new
+- Scope: Historic fort, exhibitions and demonstrations.
+- Representative coordinates: 43.842, -73.388; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 9.0 / 8.8 / 8.8.
+- Categories: history:9.2 architecture:9.0 photography:9.0.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-sumter](../../../countries/US/sights/fort-sumter.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | uniqueness: -0.2 vs peer; significance: -0.2 vs peer |
+| [US/gettysburg](../../../countries/US/sights/gettysburg.yaml) | 9.1 / 9.1 / 9.4 / 9.0 / 9.3 | uniqueness: -0.5 vs peer; depth: -0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-mchenry — Fort McHenry National Monument and Historic Shrine Baltimore — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-mchenry.yaml)
+- Action: new
+- Scope: Historic fort and national anthem interpretation.
+- Representative coordinates: 39.263, -76.58; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 9.1 / 8.7 / 8.5.
+- Categories: history:9.3 architecture:8.9 photography:8.8.
+- Overall: 86.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-sumter](../../../countries/US/sights/fort-sumter.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+| [US/yorktown](../../../countries/US/sights/yorktown.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | depth: -0.3 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-angel-island — Angel Island Immigration Station and State Park — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/angel-island.yaml)
+- Action: new
+- Scope: Immigration station and island trails grouped; distinct from Alcatraz.
+- Representative coordinates: 37.861, -122.432; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 9.0 / 8.8 / 8.7.
+- Categories: history:9.2 nature:9.0 culture:9.1.
+- Overall: 88.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/ellis-island](../../../countries/US/sights/ellis-island.yaml) | 8.1 / 8.8 / 9.3 / 8.6 / 8.3 | impact: +0.6 vs peer; depth: +0.4 vs peer |
+| [US/alcatraz-island](../../../countries/US/sights/alcatraz-island.yaml) | 8.6 / 9.0 / 9.0 / 9.1 / 8.4 | experience: -0.3 vs peer; depth: +0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-vizcaya — Vizcaya Museum and Gardens Miami — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/vizcaya.yaml)
+- Action: new
+- Scope: Historic waterfront villa and formal gardens.
+- Representative coordinates: 25.744, -80.211; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.6 / 8.9 / 8.8.
+- Categories: architecture:9.3 photography:9.3 history:8.9.
+- Overall: 87.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fallingwater](../../../countries/US/sights/fallingwater.yaml) | 9.0 / 9.1 / 9.0 / 8.5 / 7.8 | depth: +1.0 vs peer; uniqueness: -0.4 vs peer |
+| [US/getty-villa](../../../countries/US/sights/getty-villa.yaml) | 8.9 / 9.0 / 9.1 / 9.0 / 8.7 | significance: -0.5 vs peer; uniqueness: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-whitney-plantation — Whitney Plantation Museum Louisiana — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/whitney-plantation.yaml)
+- Action: new
+- Scope: Historic plantation interpreted through the lives of enslaved people.
+- Representative coordinates: 30.04, -90.65; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.8 / 8.7.
+- Categories: history:9.3 culture:9.2 architecture:8.8.
+- Overall: 88.45/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | depth: -0.6 vs peer; impact: -0.4 vs peer |
+| [US/monticello](../../../countries/US/sights/monticello.yaml) | 8.2 / 8.7 / 9.0 / 8.5 / 8.0 | depth: +0.7 vs peer; impact: +0.5 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-museum-pop-culture — Museum of Pop Culture Seattle — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/museum-pop-culture.yaml)
+- Action: new
+- Scope: Music, film and popular culture exhibitions; separate from Space Needle.
+- Representative coordinates: 47.621, -122.348; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.6 / 8.9 / 8.8.
+- Categories: culture:9.3 architecture:9.0 family:9.0.
+- Overall: 87.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/rock-roll-hall-fame](../../../countries/US/sights/rock-roll-hall-fame.yaml) | 8.8 / 8.9 / 8.9 / 8.9 / 8.9 | significance: -0.3 vs peer; impact: -0.1 vs peer |
+| [US/motown-museum](../../../countries/US/sights/motown-museum.yaml) | 8.7 / 9.0 / 9.1 / 8.8 / 8.6 | significance: -0.5 vs peer; depth: +0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-underground-railroad — National Underground Railroad Freedom Center Cincinnati — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-underground-railroad.yaml)
+- Action: new
+- Scope: Museum of slavery, freedom movements and Underground Railroad history.
+- Representative coordinates: 39.097, -84.511; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.1 / 8.8 / 8.9.
+- Categories: history:9.3 culture:9.2 architecture:8.7.
+- Overall: 88.95/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-civil-rights-museum](../../../countries/US/sights/national-civil-rights-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.3 | uniqueness: -0.4 vs peer; depth: -0.4 vs peer |
+| [US/national-museum-of-african-american-history-and-culture](../../../countries/US/sights/national-museum-of-african-american-history-and-culture.yaml) | 9.0 / 9.2 / 9.4 / 9.1 / 9.2 | uniqueness: -0.3 vs peer; significance: -0.3 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-fort-pulaski — Fort Pulaski National Monument Georgia — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/fort-pulaski.yaml)
+- Action: new
+- Scope: Historic masonry fort and surrounding trails, outside Savannah historic district.
+- Representative coordinates: 32.027, -80.89; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.8 / 8.7 / 8.6.
+- Categories: history:9.1 architecture:9.0 photography:8.9.
+- Overall: 86.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/fort-sumter](../../../countries/US/sights/fort-sumter.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+| [US/yorktown](../../../countries/US/sights/yorktown.yaml) | 8.6 / 8.8 / 9.2 / 8.7 / 8.8 | significance: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+
+
+## sight-us-national-pacific-war — National Museum of the Pacific War Fredericksburg — 2026-11-27
+
+- YAML: [source](../../../countries/US/sights/national-pacific-war.yaml)
+- Action: new
+- Scope: Pacific War galleries and associated museum campus grouped.
+- Representative coordinates: 30.274, -98.866; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 9.0 / 8.9 / 9.0.
+- Categories: history:9.3 culture:9.0 family:8.9.
+- Overall: 89.05/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic rating.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [US/national-wwii-museum](../../../countries/US/sights/national-wwii-museum.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.4 | uniqueness: -0.4 vs peer; depth: -0.4 vs peer |
+| [US/national-usaf-museum](../../../countries/US/sights/national-usaf-museum.yaml) | 9.1 / 9.3 / 9.3 / 9.1 / 9.4 | uniqueness: -0.5 vs peer; depth: -0.4 vs peer |
+
+Ranking rows checked; independent factual, coordinate, peer YAML, international calibration and full Python validation pending.
+

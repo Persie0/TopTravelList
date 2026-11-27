@@ -1,0 +1,16 @@
+id: sight-us-shelburne-museum
+name: "Shelburne Museum Vermont Art and Americana"
+location:
+  country_code: US
+  latitude: 44.375
+  longitude: -73.232
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.9
+  depth: 9.1
+  categories:
+    culture: 9.2
+    history: 9.2
+    family: 9.1

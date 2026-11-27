@@ -3119,3 +3119,30 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Black Hills Spearfish Canyon Scenic Byway: 85.90/100 (desk-based provisional).
 
 23 additions, 16 desk-based provisional, 7 source-informed, 6 90+, 58 domestic ranking-row comparisons. United States 342 ranked / 342 total. Blue Ridge excludes national park endpoints; Crystal River viewing and springs grouped; Monterey offshore distinct from aquarium; San Juan Skyway excludes Durango railroad. Chincoteague deferred pending Assateague scope. No guaranteed wildlife sightings. Existing scores retained. Next: major historic sites, culture/urban attractions and remaining nature. Full Python validation pending.
+
+### Pass 191 — US historical heritage and museums
+
+- [x] US — Corning Museum of Glass: 92.30/100 (source-linked-unverified).
+- [x] US — National World War I Museum and Memorial Kansas City: 91.55/100 (source-linked-unverified).
+- [x] US — Montgomery Legacy Museum and National Memorial for Peace and Justice: 92.55/100 (source-linked-unverified).
+- [x] US — Lower East Side Tenement Museum New York: 91.30/100 (source-linked-unverified).
+- [x] US — Mystic Seaport Museum Maritime Village and Historic Vessels: 91.30/100 (source-linked-unverified).
+- [x] US — Newport Gilded Age Mansions and Gardens: 89.75/100 (source-linked-unverified).
+- [x] US — Hearst Castle San Simeon: 89.45/100 (source-linked-unverified).
+- [x] US — Old Sturbridge Village Living History Museum: 89.00/100 (source-linked-unverified).
+- [x] US — Manzanar National Historic Site: 88.95/100 (source-linked-unverified).
+- [x] US — Little Rock Central High School National Historic Site: 87.50/100 (source-linked-unverified).
+- [x] US — Biltmore Estate Asheville Mansion and Gardens: 88.55/100 (desk-based provisional).
+- [x] US — Shelburne Museum Vermont Art and Americana: 88.50/100 (desk-based provisional).
+- [x] US — Plimoth Patuxet Museums Plymouth Living History: 88.75/100 (desk-based provisional).
+- [x] US — Fort Ticonderoga Historic Fort and Museum: 87.60/100 (desk-based provisional).
+- [x] US — Fort McHenry National Monument and Historic Shrine Baltimore: 86.75/100 (desk-based provisional).
+- [x] US — Angel Island Immigration Station and State Park: 88.00/100 (desk-based provisional).
+- [x] US — Vizcaya Museum and Gardens Miami: 87.50/100 (desk-based provisional).
+- [x] US — Whitney Plantation Museum Louisiana: 88.45/100 (desk-based provisional).
+- [x] US — Museum of Pop Culture Seattle: 87.70/100 (desk-based provisional).
+- [x] US — National Underground Railroad Freedom Center Cincinnati: 88.95/100 (desk-based provisional).
+- [x] US — Fort Pulaski National Monument Georgia: 86.25/100 (desk-based provisional).
+- [x] US — National Museum of the Pacific War Fredericksburg: 89.05/100 (desk-based provisional).
+
+22 additions, 12 desk-based provisional, 10 source-informed, 5 90+, 54 domestic ranking-row comparisons. United States 364 ranked / 364 total. Legacy Sites, Newport mansions and Plimoth Patuxet campuses grouped; Hearst Castle distinct from Big Sur corridor, Angel Island distinct from Alcatraz, Tenement Museum distinct from Ellis Island. Existing scores retained. Next: remaining regional urban and natural attractions. Full Python validation pending.

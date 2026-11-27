@@ -1,0 +1,16 @@
+id: sight-us-little-rock-central-high
+name: "Little Rock Central High School National Historic Site"
+location:
+  country_code: US
+  latitude: 34.738
+  longitude: -92.298
+scores:
+  impact: 8.5
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 9.4
+    culture: 9.2
+    architecture: 8.7

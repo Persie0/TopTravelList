@@ -1,0 +1,16 @@
+id: sight-us-corning-glass
+name: "Corning Museum of Glass"
+location:
+  country_code: US
+  latitude: 42.149
+  longitude: -77.054
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 9.2
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.2
+    family: 9.3
