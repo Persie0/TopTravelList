@@ -1,0 +1,16 @@
+id: sight-au-south-australian-museum
+name: "South Australian Museum Adelaide"
+location:
+  country_code: AU
+  latitude: -34.921
+  longitude: 138.602
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    nature: 9.2

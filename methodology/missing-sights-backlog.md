@@ -3403,3 +3403,31 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] AU — Taronga Zoo Sydney: 88.20/100 (desk-based provisional).
 
 23 additions, 11 desk-based provisional, 12 source-linked, 12 90+, 70 ranking-row comparisons including 25 US peers. Australia 80 ranked / 80 total. US remains paused. Existing AU scores retained; legacy overlaps (Uluru/Kata Tjuta vs parent, Daintree vs Wet Tropics, Whitehaven/Hill Inlet vs Whitsundays, Great Sandy vs K'gari, Cradle Mountain vs Tasmanian Wilderness, Twelve Apostles vs Great Ocean Road) documented for separate review. Horizontal Falls excludes assumed passage; Seal Bay temporary beach access pause noted. Overland and Three Capes distinct continuous treks. Next: Australian museums, state parks, wildlife encounters and long-distance journeys; defer UNESCO component duplication and Ningaloo whale shark scope. Full Python validation pending.
+
+### Pass 202 — Australia wildlife, rail and trail experiences, museums
+
+- [x] AU — Bremer Canyon Seasonal Orca Expeditions: 92.40/100 (source-linked-unverified).
+- [x] AU — Larapinta Trail End-to-End Desert Trek: 92.05/100 (source-linked-unverified).
+- [x] AU — Hervey Bay Seasonal Humpback Whale Watching: 91.75/100 (source-linked-unverified).
+- [x] AU — Bibbulmun Track End-to-End Wilderness Trek: 90.95/100 (source-linked-unverified).
+- [x] AU — The Ghan Transcontinental Rail Journey: 91.65/100 (source-linked-unverified).
+- [x] AU — Indian Pacific Transcontinental Rail Journey: 91.35/100 (source-linked-unverified).
+- [x] AU — Kati Thanda Lake Eyre Salt Lake Landscapes and Scenic Flights: 91.15/100 (source-linked-unverified).
+- [x] AU — Neptune Islands Great White Shark Cage Diving: 90.75/100 (source-linked-unverified).
+- [x] AU — Queensland Art Gallery and Gallery of Modern Art Brisbane: 91.10/100 (source-linked-unverified).
+- [x] AU — South Australian Museum Adelaide: 91.30/100 (source-linked-unverified).
+- [x] AU — ACMI Australian Centre for the Moving Image Melbourne: 91.20/100 (source-linked-unverified).
+- [x] AU — WA Museum Boola Bardip Perth: 90.50/100 (source-linked-unverified).
+- [x] AU — Questacon National Science and Technology Centre Canberra: 89.85/100 (source-linked-unverified).
+- [x] AU — Australian Age of Dinosaurs Museum Winton: 89.65/100 (desk-based provisional).
+- [x] AU — Carnarvon Gorge National Park Queensland: 88.70/100 (desk-based provisional).
+- [x] AU — El Questro Wilderness Park Kimberley Gorges: 88.35/100 (desk-based provisional).
+- [x] AU — Head of Bight Southern Right Whale Viewing: 88.00/100 (desk-based provisional).
+- [x] AU — Coober Pedy Underground Opal Mining Heritage and Dugouts: 88.50/100 (desk-based provisional).
+- [x] AU — Margaret River Limestone Caves Guided Tours: 88.45/100 (desk-based provisional).
+- [x] AU — Cape to Cape Track Western Australia Coastal Trek: 88.65/100 (desk-based provisional).
+- [x] AU — Healesville Sanctuary Native Australian Wildlife: 87.80/100 (desk-based provisional).
+- [x] AU — Kings Park and Western Australian Botanic Garden Perth: 87.10/100 (desk-based provisional).
+- [x] AU — Tasmanian Devil Unzoo Taranna: 86.55/100 (desk-based provisional).
+
+23 additions, 10 desk-based provisional, 13 source-linked, 12 90+, 70 ranking-row comparisons including 29 US peers. Australia 103 ranked / 103 total. Dedicated long-distance rail and trail experiences distinct from individual stops; Kati Thanda annual summer closure separate from intrinsic score; marine wildlife sightings not guaranteed. Ningaloo whale sharks deferred for parent scope; Lark Quarry and Boodjamulla remain candidates for next pass. Existing scores retained; legacy overlaps and full Python validation pending. Next: Queensland and western regional sights, remaining museums and cultural heritage.
