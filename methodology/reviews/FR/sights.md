@@ -7854,3 +7854,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-nantes-ducal-castle — Château des Ducs de Bretagne and Nantes History Museum — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/nantes-ducal-castle.yaml)
+- Action: new
+- Precise subject and limitations: Castle, courtyard, ramparts and Nantes history museum; excludes city streets and separate museums.
+- Location check: 47.2164571, -1.5487493; [published representative point](https://www.cirkwi.com/fr/point-interet/3495298-chateau-des-ducs-de-bretagne), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.chateaunantes.fr/infos-pratiques/horaires-et-acces/); indexed excerpts inspected 2026-11-27. Official operator identifies castle and history museum; https://www.pornic.com/chateau-des-ducs-de-bretagne-musee-d-histoire-de-nantes.html documents its late medieval ducal construction. Cirkwi lists exact representative coordinates. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-angers](../../../countries/FR/sights/chateau-angers.yaml) | 9.2 / 9.4 / 9.3 / 9.1 / 9.2 | uniqueness: -0.4 vs peer; significance: -0.1 vs peer. |
+| [FR/chateau-caen](../../../countries/FR/sights/chateau-caen.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer. |
+| [GB/edinburgh-castle](../../../countries/GB/sights/edinburgh-castle.yaml) | 9.2 / 9.1 / 9.3 / 9.0 / 8.8 | depth: +0.4 vs peer; significance: -0.1 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.8 vs peer; experience: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Impressive fortified residence. |
+| Uniqueness | 9.0 | Combined ducal castle and urban history collections. |
+| Significance | 9.2 | Ducal and city history. |
+| Experience | 9.0 | Dedicated museum and rampart experience. |
+| Depth | 9.2 | Multiple historical and exhibition spaces. |
+
+- Applicable categories: architecture:9.3, history:9.4, culture:9.3, photography:9.2.
+- Computed worldwide overall: 90.90/100.
+- High-score challenge: 90+ provisional; compare with the four peers above; further worldwide calibration pending. no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-machines-ile-nantes — Les Machines de l’Île Nantes Mechanical Art Experiences — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/machines-ile-nantes.yaml)
+- Action: new
+- Precise subject and limitations: Integrated mechanical art site: elephant, gallery and marine carousel; excludes wider Île de Nantes and unrelated installations. Individual admissions do not imply separate destination records.
+- Location check: 47.205581, -1.564041; [published representative point](https://guidevoyageur.fr/poi-17433-les-machines-de-ile), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.lesmachines-nantes.fr/en/); indexed excerpts inspected 2026-11-27. Operator and https://www.levoyageanantes.fr/en/to-do/machines-de-lile/ describe the gallery, elephant and carousel; geographic guide lists coordinates. High-score challenge: mechanical artistry and interactivity justify higher uniqueness and impact than technology museums, while significance and collection depth are lower; no field >=9.5. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/disneyland-park-paris](../../../countries/FR/sights/disneyland-park-paris.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.7 vs peer; impact: +0.4 vs peer. |
+| [IT/milan-science-technology-museum](../../../countries/IT/sights/milan-science-technology-museum.yaml) | 8.8 / 9.0 / 9.0 / 9.1 / 9.3 | significance: -0.6 vs peer; impact: +0.5 vs peer. |
+| [TR/rahmi-koc-museum-istanbul](../../../countries/TR/sights/rahmi-koc-museum-istanbul.yaml) | 8.9 / 9.0 / 8.9 / 9.1 / 9.2 | significance: -0.5 vs peer; impact: +0.4 vs peer. |
+| [FR/arts-et-metiers](../../../countries/FR/sights/arts-et-metiers.yaml) | 9.0 / 9.2 / 9.2 / 9.0 / 9.3 | significance: -0.8 vs peer; impact: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Monumental moving mechanical creatures. |
+| Uniqueness | 9.4 | Uncommon combination of mechanical art, performance and rides. |
+| Significance | 8.4 | Contemporary cultural and industrial-site significance, not major ancient heritage. |
+| Experience | 9.3 | Interactive exhibitions and rides. |
+| Depth | 9.0 | Multiple substantial visitor experiences. |
+
+- Applicable categories: culture:9.4, family:9.4, photography:9.3, adventure:9.0.
+- Computed worldwide overall: 91.15/100.
+- High-score challenge: 90+ provisional; compare with the four peers above; further worldwide calibration pending. no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-passage-pommeraye — Passage Pommeraye Historic Shopping Arcade — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/passage-pommeraye.yaml)
+- Action: new
+- Precise subject and limitations: Covered three-level historic arcade only; representative photo location within passage, not exact entrance. Excludes wider Graslin district.
+- Location check: 47.213453, -1.559608; [published representative point](https://commons.wikimedia.org/wiki/File%3APassage_Pommeraye.jpg), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://patrimonia.nantes.fr/fiches-encyclopediques/passage-pommeraye/); indexed excerpts inspected 2026-11-27. Municipal heritage account dates opening to 1843 and explains staircase and glass roof; national heritage record https://pop.culture.gouv.fr/notice/merimee/PA00108756 corroborates dates. Geotagged photograph supports representative point. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [TR/grand-bazaar](../../../countries/TR/sights/grand-bazaar.yaml) | 8.7 / 8.9 / 8.8 / 9.0 / 8.8 | depth: -1.0 vs peer; experience: -0.4 vs peer. |
+| [TR/spice-bazaar](../../../countries/TR/sights/spice-bazaar.yaml) | 8.5 / 8.6 / 8.5 / 9.0 / 8.0 | experience: -0.4 vs peer; uniqueness: +0.2 vs peer. |
+| [FR/locronan](../../../countries/FR/sights/locronan.yaml) | 8.8 / 8.8 / 8.8 / 8.9 / 8.4 | depth: -0.6 vs peer; significance: -0.3 vs peer. |
+| [FR/rennes-historic-centre](../../../countries/FR/sights/rennes-historic-centre.yaml) | 8.8 / 8.7 / 8.9 / 9.0 / 9.0 | depth: -1.2 vs peer; significance: -0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Ornate staircase and glass-roofed galleries. |
+| Uniqueness | 8.8 | Distinct multi-level design. |
+| Significance | 8.5 | Nineteenth-century commercial architecture. |
+| Experience | 8.6 | Short architectural walk. |
+| Depth | 7.8 | Single compact arcade. |
+
+- Applicable categories: architecture:9.2, photography:9.2, history:8.9, culture:8.8.
+- Computed worldwide overall: 85.80/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-puy-du-fou — Puy du Fou Historical Theme Park and Live Shows — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/puy-du-fou.yaml)
+- Action: new
+- Precise subject and limitations: Daytime theme park and established separately ticketed Cinéscénie performance grouped as destination experience; excludes hotels, other countries' parks, and claims that theatrical portrayals are historically accurate.
+- Location check: 46.88958, -0.92814; [published representative point](https://en.ot-cholet.fr/sites-visites/puy-du-fou-les-epesses.html), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://en.ot-cholet.fr/sites-visites/puy-du-fou-les-epesses.html); indexed excerpts inspected 2026-11-27. Cholet tourism lists stage productions and GPS; municipality confirms theme-park identity https://www.les-epesses.com/contacts/puy-du-fou/. High-score challenge: unusually distinctive performance focus relative to Disneyland and Gardaland; significance kept lower than heritage sites, depth and experience reflect multi-show visit. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/disneyland-park-paris](../../../countries/FR/sights/disneyland-park-paris.yaml) | 8.9 / 8.7 / 8.5 / 9.3 / 9.2 | uniqueness: +0.7 vs peer; impact: +0.4 vs peer. |
+| [US/disneyland-park-anaheim](../../../countries/US/sights/disneyland-park-anaheim.yaml) | 9.0 / 9.1 / 8.8 / 9.3 / 9.2 | significance: -0.7 vs peer; impact: +0.3 vs peer. |
+| [ES/portaventura-world](../../../countries/ES/sights/portaventura-world.yaml) | 9.1 / 8.9 / 7.9 / 9.4 / 9.3 | uniqueness: +0.5 vs peer; impact: +0.2 vs peer. |
+| [IT/gardaland](../../../countries/IT/sights/gardaland.yaml) | 8.8 / 8.3 / 7.9 / 9.3 / 9.1 | uniqueness: +1.1 vs peer; impact: +0.5 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.3 | Large-scale live stagecraft. |
+| Uniqueness | 9.4 | Distinctive theatrical rather than ride-based park concept. |
+| Significance | 8.1 | Contemporary performance culture; historical narratives are dramatizations. |
+| Experience | 9.4 | Multiple immersive shows. |
+| Depth | 9.3 | Full-day or multiday breadth. |
+
+- Applicable categories: family:9.4, culture:9.3, photography:9.2.
+- Computed worldwide overall: 91.00/100.
+- High-score challenge: 90+ provisional; compare with the four peers above; further worldwide calibration pending. no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-noirmoutier-island — Noirmoutier Island Coastal Walks and Passage du Gois — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/noirmoutier-island.yaml)
+- Action: new
+- Precise subject and limitations: Island coastal paths, Bois de la Chaise, shoreline and tidal causeway landscape; excludes independently operated castle and museums. Woodland representative point; causeway accessible only under suitable tide conditions.
+- Location check: 47.009, -2.2216; [published representative point](https://mapcarta.com/fr/W147044061), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.ile-noirmoutier.com/fr/explorer-l-ile/le-bois-de-la-chaise); indexed excerpts inspected 2026-11-27. Island tourism documents wooded shore and Passage du Gois https://www.ile-noirmoutier.com/fr/explorer-l-ile/le-passage-du-gois; municipality describes a heritage route to the coast https://www.ville-noirmoutier.fr/parcours-patrimonial/. Mapcarta coordinate lines inspected. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/ile-de-groix](../../../countries/FR/sights/ile-de-groix.yaml) | 9.0 / 9.0 / 8.6 / 9.0 / 8.9 | impact: -0.1 vs peer; uniqueness: -0.1 vs peer. |
+| [FR/ile-de-brehat](../../../countries/FR/sights/ile-de-brehat.yaml) | 8.9 / 8.9 / 8.4 / 9.1 / 8.8 | depth: +0.2 vs peer; significance: +0.1 vs peer. |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | depth: +0.4 vs peer; significance: -0.3 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.4 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Wooded rocky coast and beaches. |
+| Uniqueness | 8.9 | Tidal causeway adds distinctiveness. |
+| Significance | 8.5 | Regional coastal and maritime heritage. |
+| Experience | 9.0 | Walking and cycling routes. |
+| Depth | 9.0 | Multiple coastal landscapes. |
+
+- Applicable categories: nature:9.2, photography:9.3, beaches:9.1, relaxation:9.2, adventure:8.9.
+- Computed worldwide overall: 88.45/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-ile-yeu-coastal-trails — Île d’Yeu Island Coastal Trails and Headlands — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/ile-yeu-coastal-trails.yaml)
+- Action: new
+- Precise subject and limitations: Coastal trail landscape including exterior view of Vieux Château headland; excludes independent castle interiors and ferries. Castle map point is representative coastal landmark.
+- Location check: 46.69944, -2.36873; [published representative point](https://mapcarta.com/W151823751), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.yeu-island.com/what-to-do-on-the-ile-d-yeu/walking-and-cycling/walking-tours); indexed excerpts inspected 2026-11-27. Local tourism documents 72 km of marked routes and contrasting coast; https://www.ile-yeu.fr/que-faire-a-l-ile-d-yeu/se-balader-a-pied-ou-a-velo/les-balades-a-pied documents 27.5 km island circuit. Mapped castle coordinate lines inspected. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/belle-ile-en-mer](../../../countries/FR/sights/belle-ile-en-mer.yaml) | 9.2 / 9.0 / 8.6 / 9.1 / 9.2 | impact: -0.1 vs peer; significance: -0.1 vs peer. |
+| [FR/ouessant-coastal-trails](../../../countries/FR/sights/ouessant-coastal-trails.yaml) | 9.1 / 9.0 / 8.6 / 9.0 / 9.1 | significance: -0.1 vs peer; experience: +0.1 vs peer. |
+| [ES/cies-islands](../../../countries/ES/sights/cies-islands.yaml) | 9.2 / 9.0 / 8.8 / 9.0 / 8.6 | depth: +0.5 vs peer; significance: -0.3 vs peer. |
+| [PT/berlengas-reserve](../../../countries/PT/sights/berlengas-reserve.yaml) | 9.0 / 8.9 / 8.7 / 8.6 / 8.7 | experience: +0.5 vs peer; depth: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.1 | Rocky headlands, coves and dunes. |
+| Uniqueness | 9.0 | Distinct varied island coast. |
+| Significance | 8.5 | Regional natural and maritime heritage. |
+| Experience | 9.1 | Extensive marked walking routes. |
+| Depth | 9.1 | Multiple coastal sectors. |
+
+- Applicable categories: nature:9.3, photography:9.3, beaches:9.1, adventure:9.2.
+- Computed worldwide overall: 89.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-marais-poitevin-green-venice — Marais Poitevin Green Venice Wetland Boat Trails — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/marais-poitevin-green-venice.yaml)
+- Action: new
+- Precise subject and limitations: Green Venice navigable wetland canals and adjacent walking/cycling experiences across departments; excludes dry marsh/coastal sectors and separate museums. Coulon Prada pier representative point in Nouvelle-Aquitaine, not entire regional park.
+- Location check: 46.32065, -0.5873; [published representative point](https://mapcarta.com/N11418238485), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.niortmaraispoitevin.com/en/preparer-son-sejour/activites-a-voir-a-faire/les-embarcaderes/); indexed excerpts inspected 2026-11-27. Niort and Vendée tourism describe boat routes https://en.vendee-maraispoitevin.com/the-destination-where-you-are-the-hero/poitevin-marsh/embarcaderes-boat-trips-in-the-heart-of-green-venice/; park authority describes canal conservation https://www.parc-marais-poitevin.fr/en/editions-and-practical-information/tourism-providers-are-committed-to-the-landscape. Pier coordinates inspected. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/camargue](../../../countries/FR/sights/camargue.yaml) | 9.0 / 9.2 / 9.1 / 9.0 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [PT/ria-formosa](../../../countries/PT/sights/ria-formosa.yaml) | 8.5 / 8.9 / 8.8 / 8.8 / 9.0 | impact: +0.3 vs peer; experience: +0.3 vs peer. |
+| [GB/broads](../../../countries/GB/sights/broads.yaml) | 8.2 / 8.7 / 8.5 / 8.6 / 8.6 | impact: +0.6 vs peer; experience: +0.5 vs peer. |
+| [ES/donana](../../../countries/ES/sights/donana.yaml) | 8.8 / 9.2 / 9.4 / 8.7 / 9.0 | significance: -0.5 vs peer; experience: +0.4 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Tree-lined waterways. |
+| Uniqueness | 9.0 | Distinct managed canal landscape and boat experience. |
+| Significance | 8.9 | Regional wetland and cultural landscape significance. |
+| Experience | 9.1 | Guided or self-guided boat routes. |
+| Depth | 9.0 | Multiple waterways and adjacent routes. |
+
+- Applicable categories: nature:9.3, photography:9.2, relaxation:9.3, wildlife:9.0, adventure:8.9.
+- Computed worldwide overall: 89.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.

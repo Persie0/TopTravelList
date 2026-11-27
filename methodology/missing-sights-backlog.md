@@ -1518,3 +1518,15 @@ Seven additions, 28 peer rows. France 194 ranked / 205 total; 11 existing unasse
 - [x] FR — Tréguier Historic Centre and Cathedral: 87.95/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 201 ranked / 212 total; 11 existing unassessed unchanged. Castle gardens and abbey gardens grouped; Suscinio Sarzeau distinguished from Morlaix namesake; Eckmühl excludes semaphore and old lighthouse; Tréguier excludes Ernest Renan museum. Rotate to Pays de la Loire and Atlantic coast rather than prolong Brittany search. Next bounded screen: Château des ducs de Bretagne Nantes, Les Machines de l’Île Nantes, Passage Pommeraye Nantes, Puy du Fou historical theme park, Noirmoutier Island coastal experience, Île d’Yeu coastal trails, Marais Poitevin wetland boat experience (scope and duplicate checks). Full Python validation pending.
+
+### Pass 131 — Pays de la Loire and Atlantic coast visitor experiences
+
+- [x] FR — Château des Ducs de Bretagne and Nantes History Museum: 90.90/100 (source-linked-unverified).
+- [x] FR — Les Machines de l’Île Nantes Mechanical Art Experiences: 91.15/100 (source-linked-unverified).
+- [x] FR — Passage Pommeraye Historic Shopping Arcade: 85.80/100 (source-linked-unverified).
+- [x] FR — Puy du Fou Historical Theme Park and Live Shows: 91.00/100 (source-linked-unverified).
+- [x] FR — Noirmoutier Island Coastal Walks and Passage du Gois: 88.45/100 (source-linked-unverified).
+- [x] FR — Île d’Yeu Island Coastal Trails and Headlands: 89.55/100 (source-linked-unverified).
+- [x] FR — Marais Poitevin Green Venice Wetland Boat Trails: 89.35/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 208 ranked / 219 total; 11 existing unassessed unchanged. Nantes castle and museum grouped; Machines integrated mechanical art complex; Puy du Fou theatrical experience distinct from historical fact; island scopes exclude independent museums; Green Venice uses Coulon pier representative point, not whole regional park. Next bounded screen: Escal’Atlantic Saint-Nazaire, Guérande medieval town, Guérande salt marshes, Bioparc de Doué-la-Fontaine, Cadre Noir de Saumur, Château de Brissac, and Terra Botanica Angers (scope and duplicate checks). Full Python validation pending.
