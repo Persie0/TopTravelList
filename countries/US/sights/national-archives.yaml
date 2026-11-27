@@ -1,0 +1,16 @@
+id: sight-us-national-archives
+name: "National Archives Museum Washington DC Rotunda and Exhibitions"
+location:
+  country_code: US
+  latitude: 38.8928
+  longitude: -77.023
+scores:
+  impact: 9.0
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.4
+    culture: 9.4
+    architecture: 9.2

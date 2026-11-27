@@ -1,0 +1,16 @@
+id: sight-us-boston-science-museum
+name: "Museum of Science Boston"
+location:
+  country_code: US
+  latitude: 42.3678
+  longitude: -71.0712
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 8.8
+  experience: 9.2
+  depth: 9.1
+  categories:
+    family: 9.4
+    nature: 9.2
+    culture: 9.1

@@ -1,0 +1,16 @@
+id: sight-us-griffin-msi
+name: "Griffin Museum of Science and Industry Chicago"
+location:
+  country_code: US
+  latitude: 41.7906
+  longitude: -87.5831
+scores:
+  impact: 9.3
+  uniqueness: 9.4
+  significance: 9.3
+  experience: 9.4
+  depth: 9.4
+  categories:
+    family: 9.4
+    history: 9.3
+    culture: 9.2

@@ -1,0 +1,16 @@
+id: sight-us-st-augustine
+name: "St. Augustine Historic District and Castillo de San Marcos"
+location:
+  country_code: US
+  latitude: 29.8977
+  longitude: -81.3115
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.3

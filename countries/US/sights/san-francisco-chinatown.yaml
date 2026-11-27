@@ -1,0 +1,16 @@
+id: sight-us-san-francisco-chinatown
+name: "San Francisco Chinatown Historic Streets and Cultural Heritage"
+location:
+  country_code: US
+  latitude: 37.7941
+  longitude: -122.4078
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.9
+  depth: 8.7
+  categories:
+    culture: 9.3
+    food: 9.3
+    history: 9.2

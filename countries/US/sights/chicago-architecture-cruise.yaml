@@ -1,0 +1,16 @@
+id: sight-us-chicago-architecture-cruise
+name: "Chicago River Architecture Cruise and Architectural Interpretation"
+location:
+  country_code: US
+  latitude: 41.8884
+  longitude: -87.6236
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.2
+  depth: 8.9
+  categories:
+    architecture: 9.4
+    history: 9.3
+    photography: 9.4

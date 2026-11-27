@@ -3026,3 +3026,36 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Arlington National Cemetery Public Heritage and Memorials: 88.45/100 (desk-based provisional).
 
 25 additions, 9 desk-based provisional, 16 source-informed, 15 90+, 80 domestic ranking-row comparisons. United States 265 ranked / 265 total. Met Cloisters distinct from Fifth Avenue; Henry Ford museum and village combined; Gettysburg battlefield and museum combined; American Revolution Museum independent of Independence Hall. Existing scores retained. Next: remaining major science/art museums, city heritage and regional natural gaps. Full Python validation pending.
+
+
+### Pass 188 — US science museums, art collections and historic districts
+
+- [x] US — Griffin Museum of Science and Industry Chicago: 93.50/100 (source-linked-unverified).
+- [x] US — Space Center Houston and Johnson Space Center Visitor Tours: 93.00/100 (source-linked-unverified).
+- [x] US — Los Angeles County Museum of Art (LACMA): 92.65/100 (source-linked-unverified).
+- [x] US — The Huntington Library Art Museum and Botanical Gardens: 92.60/100 (source-linked-unverified).
+- [x] US — Museum of Fine Arts Houston: 92.10/100 (source-linked-unverified).
+- [x] US — Computer History Museum Mountain View: 92.35/100 (source-linked-unverified).
+- [x] US — California Academy of Sciences San Francisco: 92.00/100 (source-linked-unverified).
+- [x] US — Minneapolis Institute of Art: 91.65/100 (source-linked-unverified).
+- [x] US — San Francisco Museum of Modern Art: 91.80/100 (source-linked-unverified).
+- [x] US — Intrepid Museum New York Aircraft and Spaceflight Collections: 91.85/100 (source-linked-unverified).
+- [x] US — Nelson-Atkins Museum of Art Kansas City: 91.25/100 (source-linked-unverified).
+- [x] US — Exploratorium San Francisco Pier 15: 91.45/100 (source-linked-unverified).
+- [x] US — National Archives Museum Washington DC Rotunda and Exhibitions: 91.25/100 (source-linked-unverified).
+- [x] US — Saint Louis Art Museum: 90.80/100 (source-linked-unverified).
+- [x] US — Chicago River Architecture Cruise and Architectural Interpretation: 91.20/100 (source-linked-unverified).
+- [x] US — Charleston Historic District South Carolina: 90.65/100 (source-linked-unverified).
+- [x] US — Houston Museum of Natural Science: 90.50/100 (source-linked-unverified).
+- [x] US — Kimbell Art Museum Fort Worth: 90.10/100 (source-linked-unverified).
+- [x] US — The Broad Contemporary Art Museum Los Angeles: 89.70/100 (source-linked-unverified).
+- [x] US — Museum of Science Boston: 89.45/100 (source-linked-unverified).
+- [x] US — Walker Art Center and Minneapolis Sculpture Garden: 88.65/100 (desk-based provisional).
+- [x] US — de Young Museum San Francisco: 89.15/100 (desk-based provisional).
+- [x] US — St. Augustine Historic District and Castillo de San Marcos: 89.60/100 (desk-based provisional).
+- [x] US — Santa Fe Plaza Historic District and Adobe Architecture: 89.15/100 (desk-based provisional).
+- [x] US — Philadelphia Old City Historic Streets and Heritage: 86.70/100 (desk-based provisional).
+- [x] US — San Francisco Chinatown Historic Streets and Cultural Heritage: 87.95/100 (desk-based provisional).
+- [x] US — City Museum St Louis: 88.50/100 (desk-based provisional).
+
+27 additions, 7 desk-based provisional, 20 source-informed, 18 90+, 88 domestic ranking-row comparisons. United States 292 ranked / 292 total. Dedicated California Academy and de Young museum experiences separate from Golden Gate Park landscape; Huntington campus and Intrepid collections grouped; Chicago architecture cruise scoped to interpretation rather than individual building interiors. Philadelphia Old City street scope excludes previously ranked interiors; further overlap check pending. Existing scores retained. Next: Hawaii, Alaska and regional scenic/natural gaps. Full Python validation pending.
