@@ -1,0 +1,16 @@
+id: sight-fr-volcan-lemptegy
+name: "Volcan de Lemptégy Excavated Volcano and Geology Tours"
+location:
+  country_code: FR
+  latitude: 45.823
+  longitude: 2.959
+scores:
+  impact: 9.2
+  uniqueness: 9.4
+  significance: 9.1
+  experience: 9.2
+  depth: 9.2
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    family: 9.4

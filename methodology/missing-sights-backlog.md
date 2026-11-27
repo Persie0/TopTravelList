@@ -2179,3 +2179,39 @@ Pass 147 follow-up: three additional ranking-row peer comparisons (GB Forth Brid
 - [x] FR — Basilique Notre-Dame d’Orcival Romanesque Church: 87.75/100 (desk-based provisional).
 
 30 additions, 20 desk-based provisional estimates, 10 source-informed candidates, 10 90+, 40 domestic peer ranking-row comparisons. France 715 ranked / 726 total; 11 existing unassessed unchanged. Le Puy cathedral and Hôtel-Dieu covered by Santiago serial property (https://whc.unesco.org/en/list/868); Aiguilhe separately scoped. Chaudefour and Chastreix-Sancy folded into Sancy massif; Plomb du Cantal folded into Cantal massif. Vulcania independent science park, excludes Chaîne des Puys landscape. Saint-Marcel and Madeleine cave candidates deferred for tentative-series boundary check, not closure. Next: Remaining Loire/Haute-Loire/Cantal/Puy-de-Dôme: cave-series scope (Saint-Marcel/Madeleine), Lac Chambon, Saint-Flour, Murat, Chaudes-Aigues, Château de Val, Besse, Issoire, Brioude, Livradois-Forez and Allier; then Burgundy and northeastern France. Full Python validation pending.
+
+
+### Pass 157 — accelerated residual Ardèche, Auvergne and Allier audit
+
+- [x] FR — Centre National du Costume et de la Scène Moulins: 92.65/100 (source-linked-unverified).
+- [x] FR — Grotte Saint-Marcel Underground Rimstone Pools and Cave Tours: 92.65/100 (source-linked-unverified).
+- [x] FR — Volcan de Lemptégy Excavated Volcano and Geology Tours: 92.30/100 (source-linked-unverified).
+- [x] FR — Le PAL Amusement and Wildlife Park: 90.20/100 (source-linked-unverified).
+- [x] FR — Basilique Saint-Julien de Brioude Romanesque Church: 90.85/100 (source-linked-unverified).
+- [x] FR — Abbatiale Saint-Austremoine Issoire Romanesque Church: 90.65/100 (source-linked-unverified).
+- [x] FR — Souvigny Priory Church and Bourbon Ducal Necropolis: 90.75/100 (source-linked-unverified).
+- [x] FR — Gorges du Haut-Allier River Canyon and Scenic Railway: 90.35/100 (source-linked-unverified).
+- [x] FR — Musée de la Coutellerie Thiers and Vallée des Rouets: 90.75/100 (source-linked-unverified).
+- [x] FR — Moulins Cathedral and Master of Moulins Triptych: 90.55/100 (source-linked-unverified).
+- [x] FR — Grotte de la Madeleine Concretion Cave: 88.80/100 (source-linked-unverified).
+- [x] FR — Saint-Flour Historic Upper Town and Cathedral: 87.35/100 (desk-based provisional).
+- [x] FR — Murat Historic Volcanic Stone Town and Rocher de Bonnevie: 86.55/100 (desk-based provisional).
+- [x] FR — Chaudes-Aigues Hot Springs and Geothermal Heritage: 87.25/100 (desk-based provisional).
+- [x] FR — Château de Val Lakeside Medieval Castle: 87.90/100 (desk-based provisional).
+- [x] FR — Lac Chambon Volcanic Lake and Shore Trails: 86.05/100 (desk-based provisional).
+- [x] FR — Besse-et-Saint-Anastaise Historic Medieval Town: 86.95/100 (desk-based provisional).
+- [x] FR — Livradois-Forez Highlands and Forest Trails: 87.70/100 (desk-based provisional).
+- [x] FR — Moulin Richard de Bas Ambert Paper-making Heritage: 87.95/100 (desk-based provisional).
+- [x] FR — Château de Chavaniac-Lafayette Historic House Museum: 87.95/100 (desk-based provisional).
+- [x] FR — Lavaudieu Benedictine Abbey and Historic Village: 87.95/100 (desk-based provisional).
+- [x] FR — Mont Mouchet Resistance Memorial and Museum: 88.05/100 (desk-based provisional).
+- [x] FR — Musée Anne de Beaujeu Moulins Art and Archaeology Collections: 87.70/100 (desk-based provisional).
+- [x] FR — Montluçon Medieval Historic Centre and Ducal Castle Exterior: 86.70/100 (desk-based provisional).
+- [x] FR — MuPop Montluçon Popular Music Museum: 88.45/100 (desk-based provisional).
+- [x] FR — Charroux Historic Village and Artisan Heritage: 86.35/100 (desk-based provisional).
+- [x] FR — Forêt de Tronçais Historic Oak Forest Trails: 88.00/100 (desk-based provisional).
+- [x] FR — Gorges de la Sioule River Canyon and Canoeing: 87.40/100 (desk-based provisional).
+- [x] FR — Bourbon-l’Archambault Medieval Fortress: 87.75/100 (desk-based provisional).
+- [x] FR — Château de la Roche Loire River Castle: 87.45/100 (desk-based provisional).
+
+30 additions, 19 desk-based provisional estimates, 11 source-informed candidates, 10 90+, 44 domestic peer ranking-row comparisons. France 745 ranked / 756 total; 11 existing unassessed unchanged. Saint-Marcel and Madeleine scored for underground circuits only, separate from surface gorge; UNESCO tentative 19-cave component membership remains unresolved (https://whc.unesco.org/en/tentativelists/1429/). Lemptégy independently scoped to excavated volcanic anatomy and industrial interpretation; Puy de Dôme general landscape remains in Chaîne des Puys. Moulins triptych temporary loan excluded from penalty, planned return 2028; not counted in Beaujeu collections. Haut-Allier railway integrated with canyon. Next: Burgundy: Dijon independent collections, Beaune, Cluny, Autun, Bibracte, Morvan, Auxerre, Vézelay scope, Nevers, Chalon-sur-Saône and Mâcon; then northeastern France. Full Python validation pending.

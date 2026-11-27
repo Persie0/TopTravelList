@@ -1,0 +1,16 @@
+id: sight-fr-charroux-village
+name: "Charroux Historic Village and Artisan Heritage"
+location:
+  country_code: FR
+  latitude: 46.185
+  longitude: 3.162
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.2
+    food: 9.1
+    photography: 9.2

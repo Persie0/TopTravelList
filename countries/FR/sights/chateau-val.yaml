@@ -1,0 +1,16 @@
+id: sight-fr-chateau-val
+name: "Château de Val Lakeside Medieval Castle"
+location:
+  country_code: FR
+  latitude: 45.44
+  longitude: 2.507
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 8.9
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    photography: 9.4
+    history: 9.2
