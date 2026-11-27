@@ -1,0 +1,16 @@
+id: sight-nz-air-force-museum
+name: "Air Force Museum of New Zealand Wigram"
+location:
+  country_code: NZ
+  latitude: -43.548
+  longitude: 172.548
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.1
+    family: 9.2

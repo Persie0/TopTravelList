@@ -3637,3 +3637,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] NZ — Otago Peninsula Sandfly Bay and Allans Beach Coastal Walks: 86.20/100 (desk-based provisional).
 
 18 additions, 7 desk-based provisional, 11 source-linked, 8 90+, 44 ranking-row comparisons including 8 international. NZ 92 ranked / 94 total. Hump Ridge separately scoped multi-day trek, Fiordland parent overlap flagged. Te Urewera named walk respects local governance. Alps 2 Ocean and Lake Pukaki shoreline distinct but overlap geographically; non-additive. Kawarau and Nevis differ in historical significance and venue, not grouped; no current operating guarantee. Cape Kidnappers uses overland visitor option rather than hazardous beach access. Whanganui and Abel Tasman parent scope deferrals retained; glacier heli-hiking deferred pending physical-condition and parent-scope review. Existing two unassessed remote island entries and all prior scores preserved. Next: targeted regional and remaining cultural screen. Independent validation pending.
+
+### Pass 212 — New Zealand museums, regional landscapes and scenic rail
+
+- [x] NZ — Omaka Aviation Heritage Centre Blenheim: 91.55/100 (source-linked-unverified).
+- [x] NZ — Forgotten World Heritage Rail Cart Journey: 91.05/100 (source-linked-unverified).
+- [x] NZ — Queen Charlotte Track Marlborough Sounds Multi-Day Trek and Cycling: 90.50/100 (source-linked-unverified).
+- [x] NZ — Northern Explorer Scenic Railway Auckland to Wellington: 88.85/100 (source-linked-unverified).
+- [x] NZ — Coastal Pacific Scenic Railway Picton to Christchurch: 88.40/100 (desk-based provisional).
+- [x] NZ — New Zealand Maritime Museum Auckland: 89.00/100 (desk-based provisional).
+- [x] NZ — Air Force Museum of New Zealand Wigram: 87.90/100 (desk-based provisional).
+- [x] NZ — Christchurch Art Gallery Te Puna o Waiwhetū: 87.25/100 (desk-based provisional).
+- [x] NZ — Puke Ariki Museum New Plymouth: 87.30/100 (desk-based provisional).
+- [x] NZ — Govett-Brewster Art Gallery and Len Lye Centre: 87.90/100 (desk-based provisional).
+- [x] NZ — Auckland Zoo Western Springs: 87.40/100 (desk-based provisional).
+- [x] NZ — Pūkaha National Wildlife Centre Mount Bruce: 87.80/100 (desk-based provisional).
+- [x] NZ — Te Paki Giant Sand Dunes: 87.15/100 (source-linked-unverified).
+- [x] NZ — Wharariki Beach and Archway Islands Coastal Walk: 87.05/100 (desk-based provisional).
+- [x] NZ — Lake Wānaka Public Shoreline and Lake Views: 86.40/100 (desk-based provisional).
+- [x] NZ — Christchurch Botanic Gardens: 86.50/100 (desk-based provisional).
+- [x] NZ — Raglan Manu Bay and Whale Bay Surfing Coast: 87.70/100 (desk-based provisional).
+- [x] NZ — Wairere Falls Kaimai Range Walking Track: 85.20/100 (desk-based provisional).
+
+18 additions, 13 desk-based provisional, 5 source-linked, 3 90+, 39 ranking-row comparisons including 3 international. NZ 110 ranked / 112 total. Omaka exhibits grouped; separate from Wētā tour. Queen Charlotte Track walking and cycling grouped; not entire Marlborough Sounds. Forgotten World rail cart distinct from conventional trains. Te Paki dunes distinct from Cape Reinga headland; Wharariki beach distinct from Farewell Spit reserve. Existing remote island unassessed entries and prior scores preserved. Parent overlap questions from earlier passes remain deferred. Inferred type labels can be misleading (e.g. Christchurch railway matching church); generator change deferred to separate review. Next: final targeted NZ regional and cultural screen. Independent validation pending.

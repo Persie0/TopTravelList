@@ -1,0 +1,16 @@
+id: sight-nz-raglan-surf
+name: "Raglan Manu Bay and Whale Bay Surfing Coast"
+location:
+  country_code: NZ
+  latitude: -37.828
+  longitude: 174.811
+scores:
+  impact: 8.8
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.9
+  depth: 8.5
+  categories:
+    adventure: 9.3
+    beaches: 9.2
+    photography: 9.2

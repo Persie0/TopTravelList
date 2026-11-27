@@ -1,0 +1,16 @@
+id: sight-nz-coastal-pacific
+name: "Coastal Pacific Scenic Railway Picton to Christchurch"
+location:
+  country_code: NZ
+  latitude: -42.15
+  longitude: 173.91
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    photography: 9.3
+    history: 9.0

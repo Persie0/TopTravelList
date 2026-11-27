@@ -1,0 +1,16 @@
+id: sight-nz-govett-brewster
+name: "Govett-Brewster Art Gallery and Len Lye Centre"
+location:
+  country_code: NZ
+  latitude: -39.059
+  longitude: 174.07
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 8.7
+  experience: 8.8
+  depth: 8.7
+  categories:
+    culture: 9.3
+    architecture: 9.3
+    photography: 9.1
