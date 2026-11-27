@@ -1,0 +1,16 @@
+id: sight-ca-diefenbunker
+name: "Diefenbunker Canada’s Cold War Museum Carp"
+location:
+  country_code: CA
+  latitude: 45.351
+  longitude: -76.047
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 8.9
+  depth: 9.2
+  categories:
+    history: 9.4
+    architecture: 9.3
+    culture: 9.2

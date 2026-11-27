@@ -1,0 +1,16 @@
+id: sight-ca-shaw-festival
+name: "Shaw Festival Niagara-on-the-Lake Public Theatre Performances"
+location:
+  country_code: CA
+  latitude: 43.253
+  longitude: -79.067
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.2
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.2
+    nightlife: 9.2

@@ -3929,3 +3929,26 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CA — Parc national du Bic St Lawrence Coastal Headlands: 87.10/100 (source-linked-unverified).
 
 16 additions, 16 source-linked provisional, 4 90+, 32 domestic ranking-row comparisons. CA 178 ranked / 181 total. Parks Canada federal directory checked: all 48 listed national parks/reserves and urban park represented. Nááts’įhch’oh restricted to its own upper basin; full South Nahanni trips are non-additive. Gulf Islands park only; Mont-Tremblant provincial park excludes resort. Qausuittuq charter and registration, Ukkusiksalik licensed guide; temporary restrictions separate. Existing ratings and three unassessed retained. Federal directory points used for 11 federal additions; provincial points approximate. Prior evidence labels and full Python validation not independently verified. Regional screen remains open.
+
+### Pass 227 — Canada cultural events, museums and regional attractions
+
+- [x] CA — Shaw Festival Niagara-on-the-Lake Public Theatre Performances: 91.25/100 (source-linked-unverified).
+- [x] CA — Hôtel de Glace Valcartier Seasonal Ice Architecture: 90.95/100 (source-linked-unverified).
+- [x] CA — Montréal International Fireworks Competition: 91.30/100 (source-linked-unverified).
+- [x] CA — Diefenbunker Canada’s Cold War Museum Carp: 91.10/100 (source-linked-unverified).
+- [x] CA — West Edmonton Mall World Waterpark and Galaxyland: 89.10/100 (source-linked-unverified).
+- [x] CA — Canada’s Wonderland Theme Park Vaughan: 87.60/100 (desk-based provisional).
+- [x] CA — Vancouver Aquarium Marine Life Exhibits: 87.85/100 (desk-based provisional).
+- [x] CA — Assiniboine Park Zoo Journey to Churchill Winnipeg: 87.65/100 (desk-based provisional).
+- [x] CA — Ripley’s Aquarium of Canada Toronto: 85.70/100 (desk-based provisional).
+- [x] CA — St Lawrence Market Toronto Food and Heritage: 86.20/100 (desk-based provisional).
+- [x] CA — Fort York National Historic Site Toronto: 85.85/100 (desk-based provisional).
+- [x] CA — Festival du Voyageur Winnipeg Winter Heritage Festival: 88.10/100 (desk-based provisional).
+- [x] CA — Blackfoot Crossing Historical Park Siksika: 88.40/100 (desk-based provisional).
+- [x] CA — Western Development Museum Saskatoon Boomtown: 86.75/100 (desk-based provisional).
+- [x] CA — Royal Saskatchewan Museum Regina: 86.25/100 (desk-based provisional).
+- [x] CA — Train de Charlevoix St Lawrence Scenic Railway: 87.00/100 (desk-based provisional).
+- [x] CA — Canadian Bushplane Heritage Centre Sault Ste Marie: 86.50/100 (desk-based provisional).
+- [x] CA — Ottawa Winterlude Snow and Ice Festival: 87.10/100 (desk-based provisional).
+
+18 additions, 13 desk-based provisional, 5 source-linked, 4 90+, 36 domestic ranking-row comparisons. CA 196 ranked / 199 total. Shaw performances separate from Niagara-on-the-Lake streets; ice hotel separate from Quebec Winter Carnival; fireworks separate from La Ronde rides; Vancouver Aquarium excludes Stanley Park walks; Winterlude excludes Rideau Canal skating; West Edmonton Mall entertainment grouped. Existing scores and three unassessed retained. New coordinates approximate, current events and access not verified. Prior evidence labels and full Python validation not independently verified. Regional screen remains open.

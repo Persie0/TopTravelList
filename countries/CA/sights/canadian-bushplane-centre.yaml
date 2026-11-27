@@ -1,0 +1,16 @@
+id: sight-ca-canadian-bushplane-centre
+name: "Canadian Bushplane Heritage Centre Sault Ste Marie"
+location:
+  country_code: CA
+  latitude: 46.505
+  longitude: -84.326
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.8
+  categories:
+    history: 9.3
+    family: 9.2
+    culture: 9.1

@@ -4999,3 +4999,389 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 ### Pass 226 scope decisions
 
 16 additions, 16 source-linked provisional, 4 90+, 32 domestic ranking-row comparisons. CA 178 ranked / 181 total. Parks Canada federal directory checked: all 48 listed national parks/reserves and urban park represented. Nááts’įhch’oh restricted to its own upper basin; full South Nahanni trips are non-additive. Gulf Islands park only; Mont-Tremblant provincial park excludes resort. Qausuittuq charter and registration, Ukkusiksalik licensed guide; temporary restrictions separate. Existing ratings and three unassessed retained. Federal directory points used for 11 federal additions; provincial points approximate. Prior evidence labels and full Python validation not independently verified. Regional screen remains open.
+
+## sight-ca-shaw-festival — Shaw Festival Niagara-on-the-Lake Public Theatre Performances — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/shaw-festival.yaml)
+- Action: new
+- Scope: Public theatre productions founded in 1962; organizer reports 12–14 or more annual productions and four venues. Separate from historic town streets.
+- Representative coordinates: 43.253, -79.067; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.2 / 9.2 / 9.3.
+- Categories: culture:9.4 history:9.2 nightlife:9.2.
+- Overall: 91.25/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.shawfest.com/About/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/stratford-festival](../../../countries/CA/sights/stratford-festival.yaml) | 9.0 / 9.2 / 9.3 / 9.3 / 9.2 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-hotel-de-glace — Hôtel de Glace Valcartier Seasonal Ice Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/hotel-de-glace.yaml)
+- Action: new
+- Scope: Public visits and optional overnight experience grouped; Québec City tourism describes the only ice hotel in North America, rebuilt seasonally.
+- Representative coordinates: 46.944, -71.474; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.2 / 9.3 / 8.7 / 9.2 / 8.9.
+- Categories: architecture:9.4 photography:9.4 adventure:9.2.
+- Overall: 90.95/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.quebec-cite.com/en/businesses/hotel-de-glace, https://www.valcartier.com/en/activities/tour-hotel-de-glace-ice-hotel/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/quebec-winter-carnival](../../../countries/CA/sights/quebec-winter-carnival.yaml) | 9.0 / 9.2 / 9.0 / 9.2 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.1 vs peer |
+| [CA/butchart-gardens](../../../countries/CA/sights/butchart-gardens.yaml) | 9.0 / 8.8 / 8.7 / 9.1 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-montreal-fireworks — Montréal International Fireworks Competition — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/montreal-fireworks.yaml)
+- Action: new
+- Scope: Annual international pyromusical competition since 1985; tourism board describes it as largest of its kind. Festival only, not La Ronde rides.
+- Representative coordinates: 45.522, -73.535; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 9.3 / 9.2 / 8.9 / 9.2 / 8.8.
+- Categories: photography:9.4 culture:9.3 nightlife:9.3.
+- Overall: 91.30/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.mtl.org/en/experience/best-places-watch-fireworks-montreal, https://www.mtl.org/en/what-to-do/festivals-and-events/l-international-des-feux-loto-quebec.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-jazz-festival](../../../countries/CA/sights/montreal-jazz-festival.yaml) | 9.2 / 9.3 / 9.2 / 9.3 / 9.1 | impact: +0.1 vs peer; uniqueness: -0.1 vs peer |
+| [CA/toronto-caribbean-carnival](../../../countries/CA/sights/toronto-caribbean-carnival.yaml) | 9.2 / 9.1 / 9.1 / 9.3 / 9.1 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-diefenbunker — Diefenbunker Canada’s Cold War Museum Carp — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/diefenbunker.yaml)
+- Action: new
+- Scope: Four-storey former emergency government headquarters, now national historic site and public museum.
+- Representative coordinates: 45.351, -76.047; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.3 / 8.9 / 9.2.
+- Categories: history:9.4 architecture:9.3 culture:9.2.
+- Overall: 91.10/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://diefenbunker.ca/about/, https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=823.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-war-museum](../../../countries/CA/sights/canadian-war-museum.yaml) | 9.0 / 9.0 / 9.3 / 9.1 / 9.3 | impact: -0.1 vs peer; uniqueness: +0.3 vs peer |
+| [CA/canadian-aviation-space](../../../countries/CA/sights/canadian-aviation-space.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 9.0 | impact: +0.2 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-west-edmonton-mall — West Edmonton Mall World Waterpark and Galaxyland — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/west-edmonton-mall.yaml)
+- Action: new
+- Scope: Integrated indoor entertainment complex; waterpark, rides and ice rink grouped; shopping alone not rated.
+- Representative coordinates: 53.522, -113.624; approximate, not independently verified.
+- Evidence status: **source-linked-unverified**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.5 / 9.2 / 9.1.
+- Categories: family:9.4 adventure:9.2 relaxation:9.1.
+- Overall: 89.10/100.
+- Decision: Source-informed provisional estimate; temporary access excluded from intrinsic ranking.
+- References (indexed excerpts retrieved 2026-11-27): https://www.wem.ca/things-to-do/attractions/.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.6 vs peer |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.2 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadas-wonderland — Canada’s Wonderland Theme Park Vaughan — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadas-wonderland.yaml)
+- Action: new
+- Scope: Theme park rides and waterpark grouped.
+- Representative coordinates: 43.843, -79.541; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.6 / 8.3 / 9.2 / 9.0.
+- Categories: family:9.4 adventure:9.4 photography:9.0.
+- Overall: 87.60/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: +0.4 vs peer; uniqueness: +0.2 vs peer |
+| [CA/whistler-blackcomb](../../../countries/CA/sights/whistler-blackcomb.yaml) | 9.3 / 9.2 / 9.1 / 9.5 / 9.4 | impact: -0.4 vs peer; uniqueness: -0.6 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-vancouver-aquarium — Vancouver Aquarium Marine Life Exhibits — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/vancouver-aquarium.yaml)
+- Action: new
+- Scope: Ticketed aquarium within Stanley Park; excludes surrounding public park walks.
+- Representative coordinates: 49.3, -123.131; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 9.0 / 8.9.
+- Categories: wildlife:9.3 family:9.3 nature:9.1.
+- Overall: 87.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-biodome](../../../countries/CA/sights/montreal-biodome.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.0 vs peer; uniqueness: -0.1 vs peer |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: +0.2 vs peer; uniqueness: +0.3 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-assy-park-zoo — Assiniboine Park Zoo Journey to Churchill Winnipeg — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/assy-park-zoo.yaml)
+- Action: new
+- Scope: Zoo and northern wildlife interpretation, distinct from wild Churchill expeditions.
+- Representative coordinates: 49.869, -97.239; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.7 / 8.9 / 8.8.
+- Categories: wildlife:9.3 family:9.3 nature:9.1.
+- Overall: 87.65/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fortwhyte-alive](../../../countries/CA/sights/fortwhyte-alive.yaml) | 8.4 / 8.6 / 8.5 / 8.7 / 8.8 | impact: +0.3 vs peer; uniqueness: +0.2 vs peer |
+| [CA/montreal-biodome](../../../countries/CA/sights/montreal-biodome.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-ripleys-aquarium — Ripley’s Aquarium of Canada Toronto — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/ripleys-aquarium.yaml)
+- Action: new
+- Scope: Public aquarium exhibits, separate from CN Tower.
+- Representative coordinates: 43.642, -79.386; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.5 / 8.3 / 8.9 / 8.7.
+- Categories: family:9.3 wildlife:9.1 photography:9.1.
+- Overall: 85.70/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/montreal-biodome](../../../countries/CA/sights/montreal-biodome.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: -0.1 vs peer; uniqueness: -0.3 vs peer |
+| [CA/science-world](../../../countries/CA/sights/science-world.yaml) | 8.5 / 8.4 / 8.6 / 8.9 / 8.8 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-st-lawrence-market — St Lawrence Market Toronto Food and Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/st-lawrence-market.yaml)
+- Action: new
+- Scope: Historic market hall and culinary stalls, separate from Distillery District.
+- Representative coordinates: 43.649, -79.372; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.7 / 8.9 / 8.7.
+- Categories: food:9.3 culture:9.1 history:9.1.
+- Overall: 86.20/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/granville-island](../../../countries/CA/sights/granville-island.yaml) | 8.1 / 8.2 / 7.8 / 8.8 / 8.7 | impact: +0.4 vs peer; uniqueness: +0.3 vs peer |
+| [CA/distillery-district](../../../countries/CA/sights/distillery-district.yaml) | 8.5 / 8.5 / 8.7 / 8.8 / 8.6 | impact: +0.0 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-fort-york — Fort York National Historic Site Toronto — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/fort-york.yaml)
+- Action: new
+- Scope: Historic fortifications and public military heritage interpretation.
+- Representative coordinates: 43.639, -79.403; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.6 / 9.0 / 8.5 / 8.7.
+- Categories: history:9.3 culture:9.1 architecture:9.1.
+- Overall: 85.85/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/fort-henry](../../../countries/CA/sights/fort-henry.yaml) | 8.6 / 8.6 / 9.0 / 8.8 / 8.8 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+| [CA/halifax-citadel](../../../countries/CA/sights/halifax-citadel.yaml) | 8.0 / 8.1 / 8.6 / 8.5 / 7.8 | impact: +0.3 vs peer; uniqueness: +0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-festival-du-voyageur — Festival du Voyageur Winnipeg Winter Heritage Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/festival-du-voyageur.yaml)
+- Action: new
+- Scope: Recurring winter festival with Francophone and fur-trade heritage programming; dates not guaranteed.
+- Representative coordinates: 49.889, -97.118; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.9 / 9.0 / 8.7.
+- Categories: culture:9.3 history:9.2 family:9.2.
+- Overall: 88.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/quebec-winter-carnival](../../../countries/CA/sights/quebec-winter-carnival.yaml) | 9.0 / 9.2 / 9.0 / 9.2 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.4 vs peer |
+| [CA/calgary-stampede](../../../countries/CA/sights/calgary-stampede.yaml) | 9.2 / 9.2 / 9.2 / 9.2 / 9.2 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-blackfoot-crossing — Blackfoot Crossing Historical Park Siksika — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/blackfoot-crossing.yaml)
+- Action: new
+- Scope: Public Indigenous-led heritage interpretation at Treaty 7 historic landscape; no private ceremonial sites.
+- Representative coordinates: 50.785, -112.989; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.2 / 8.7 / 8.9.
+- Categories: culture:9.4 history:9.4 architecture:9.1.
+- Overall: 88.40/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/wanuskewin](../../../countries/CA/sights/wanuskewin.yaml) | 8.1 / 8.7 / 9.0 / 8.5 / 8.1 | impact: +0.5 vs peer; uniqueness: +0.2 vs peer |
+| [CA/head-smashed-in-buffalo-jump](../../../countries/CA/sights/head-smashed-in-buffalo-jump.yaml) | 8.0 / 8.8 / 9.2 / 8.5 / 7.8 | impact: +0.6 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-western-development-museum — Western Development Museum Saskatoon Boomtown — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/western-development-museum.yaml)
+- Action: new
+- Scope: Saskatoon indoor historical streets and collections; other museum branches not included.
+- Representative coordinates: 52.09, -106.67; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.9 / 8.7 / 8.9.
+- Categories: history:9.3 culture:9.1 family:9.2.
+- Overall: 86.75/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/heritage-park-calgary](../../../countries/CA/sights/heritage-park-calgary.yaml) | 8.7 / 8.8 / 8.9 / 8.9 / 9.0 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer |
+| [CA/fort-edmonton](../../../countries/CA/sights/fort-edmonton.yaml) | 8.6 / 8.6 / 8.9 / 8.8 / 8.9 | impact: -0.1 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-royal-saskatchewan-museum — Royal Saskatchewan Museum Regina — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/royal-saskatchewan-museum.yaml)
+- Action: new
+- Scope: Natural history and First Nations galleries.
+- Representative coordinates: 50.44, -104.617; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.7 / 8.7 / 8.8.
+- Categories: nature:9.2 history:9.2 family:9.2.
+- Overall: 86.25/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-museum-nature](../../../countries/CA/sights/canadian-museum-nature.yaml) | 8.9 / 8.9 / 9.1 / 9.0 / 9.2 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer |
+| [CA/royal-tyrrell](../../../countries/CA/sights/royal-tyrrell.yaml) | 9.3 / 9.3 / 9.4 / 9.2 / 9.4 | impact: -0.8 vs peer; uniqueness: -0.7 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-charlevoix-train — Train de Charlevoix St Lawrence Scenic Railway — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/charlevoix-train.yaml)
+- Action: new
+- Scope: Scenic rail corridor, not separate destination stops.
+- Representative coordinates: 47.44, -70.5; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.4 / 8.9 / 8.7.
+- Categories: nature:9.3 photography:9.3 relaxation:9.2.
+- Overall: 87.00/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/rocky-mountaineer](../../../countries/CA/sights/rocky-mountaineer.yaml) | 9.3 / 9.1 / 8.9 / 9.3 / 9.3 | impact: -0.5 vs peer; uniqueness: -0.4 vs peer |
+| [CA/icefields-parkway](../../../countries/CA/sights/icefields-parkway.yaml) | 9.4 / 9.2 / 8.6 / 9.3 / 9.0 | impact: -0.6 vs peer; uniqueness: -0.5 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-canadian-bushplane-centre — Canadian Bushplane Heritage Centre Sault Ste Marie — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/canadian-bushplane-centre.yaml)
+- Action: new
+- Scope: Bush flying and aerial firefighting aviation heritage collections.
+- Representative coordinates: 46.505, -84.326; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.8 / 8.6 / 8.8.
+- Categories: history:9.3 family:9.2 culture:9.1.
+- Overall: 86.50/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/canadian-aviation-space](../../../countries/CA/sights/canadian-aviation-space.yaml) | 8.7 / 8.8 / 8.9 / 8.8 / 9.0 | impact: -0.3 vs peer; uniqueness: +0.0 vs peer |
+| [CA/maritime-museum-atlantic](../../../countries/CA/sights/maritime-museum-atlantic.yaml) | 8.6 / 8.8 / 9.0 / 8.8 / 9.0 | impact: -0.2 vs peer; uniqueness: +0.0 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+
+## sight-ca-winterlude — Ottawa Winterlude Snow and Ice Festival — 2026-11-27
+
+- YAML: [source](../../../countries/CA/sights/winterlude.yaml)
+- Action: new
+- Scope: Festival sculptures and public events only; Rideau Canal skating not counted again.
+- Representative coordinates: 45.425, -75.693; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.6 / 8.9 / 8.7.
+- Categories: culture:9.2 family:9.3 photography:9.3.
+- Overall: 87.10/100.
+- Decision: Desk-based provisional estimate; temporary access excluded from intrinsic ranking.
+- No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CA/quebec-winter-carnival](../../../countries/CA/sights/quebec-winter-carnival.yaml) | 9.0 / 9.2 / 9.0 / 9.2 / 9.0 | impact: -0.3 vs peer; uniqueness: -0.5 vs peer |
+| [CA/canadian-tulip-festival](../../../countries/CA/sights/canadian-tulip-festival.yaml) | 8.6 / 8.6 / 8.7 / 8.8 / 8.5 | impact: +0.1 vs peer; uniqueness: +0.1 vs peer |
+
+Ranking rows and allowed categories checked; independent factual, coordinate, peer YAML, broader international calibration and full Python validation pending.
+
+### Pass 227 scope decisions
+
+18 additions, 13 desk-based provisional, 5 source-linked, 4 90+, 36 domestic ranking-row comparisons. CA 196 ranked / 199 total. Shaw performances separate from Niagara-on-the-Lake streets; ice hotel separate from Quebec Winter Carnival; fireworks separate from La Ronde rides; Vancouver Aquarium excludes Stanley Park walks; Winterlude excludes Rideau Canal skating; West Edmonton Mall entertainment grouped. Existing scores and three unassessed retained. New coordinates approximate, current events and access not verified. Prior evidence labels and full Python validation not independently verified. Regional screen remains open.

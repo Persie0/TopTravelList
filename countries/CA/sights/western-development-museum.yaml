@@ -1,0 +1,16 @@
+id: sight-ca-western-development-museum
+name: "Western Development Museum Saskatoon Boomtown"
+location:
+  country_code: CA
+  latitude: 52.09
+  longitude: -106.67
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.7
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.1
+    family: 9.2

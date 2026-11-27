@@ -1,0 +1,16 @@
+id: sight-ca-assy-park-zoo
+name: "Assiniboine Park Zoo Journey to Churchill Winnipeg"
+location:
+  country_code: CA
+  latitude: 49.869
+  longitude: -97.239
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.9
+  depth: 8.8
+  categories:
+    wildlife: 9.3
+    family: 9.3
+    nature: 9.1
