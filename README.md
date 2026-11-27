@@ -165,7 +165,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Faroe Islands](countries/FO/) (`FO`) | [4](countries/FO/cities.md) | [7](countries/FO/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Faroe%20Islands) |
 | [Fiji](countries/FJ/) (`FJ`) | [7](countries/FJ/cities.md) | [18](countries/FJ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Fiji) |
 | [Finland](countries/FI/) (`FI`) | [19](countries/FI/cities.md) | [53](countries/FI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Finland) |
-| [France](countries/FR/) (`FR`) | [25](countries/FR/cities.md) | [205](countries/FR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=France) |
+| [France](countries/FR/) (`FR`) | [25](countries/FR/cities.md) | [212](countries/FR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=France) |
 | [French Guiana](countries/GF/) (`GF`) | [4](countries/GF/cities.md) | [10](countries/GF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Guiana) |
 | [French Polynesia](countries/PF/) (`PF`) | [5](countries/PF/cities.md) | [11](countries/PF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Polynesia) |
 | [French Southern Territories](countries/TF/) (`TF`) | [0](countries/TF/cities.md) | [6](countries/TF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Southern%20Territories) |

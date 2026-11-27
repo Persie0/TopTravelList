@@ -1506,3 +1506,15 @@ Seven additions, 28 peer rows. France 187 ranked / 198 total; 11 existing unasse
 - [x] FR — Saint-Pol-de-Léon Historic Centre and Cathedral: 87.45/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. France 194 ranked / 205 total; 11 existing unassessed unchanged. Barnenez distinct from Carnac; Sainte-Anne sanctuary grouped; Vallée des Saints modern art; Île Vierge main tower restoration closure recorded but established ascent rated; Delaselle separate from Batz walks; Saint-Pol centre excludes Saint-Pierre cemetery enclosure. Next bounded screen: Château de Suscinio, Domaine de Trévarez, Abbaye de Daoulas and gardens, Château de Kergroadez, Phare d’Eckmühl, Château de la Roche-Jagu, and Tréguier historic centre (scope and duplicate checks). Full Python validation pending.
+
+### Pass 130 — Brittany castles, gardens and lighthouse heritage
+
+- [x] FR — Château de Suscinio Ducal Castle: 89.40/100 (source-linked-unverified).
+- [x] FR — Domaine de Trévarez Castle and Botanical Gardens: 89.50/100 (source-linked-unverified).
+- [x] FR — Abbaye de Daoulas Romanesque Cloister and Gardens: 88.35/100 (source-linked-unverified).
+- [x] FR — Château de Kergroadez Castle and Gardens: 85.65/100 (source-linked-unverified).
+- [x] FR — Phare d’Eckmühl Lighthouse and Panorama: 87.65/100 (source-linked-unverified).
+- [x] FR — Château de la Roche-Jagu and Landscape Gardens: 88.60/100 (source-linked-unverified).
+- [x] FR — Tréguier Historic Centre and Cathedral: 87.95/100 (source-linked-unverified).
+
+Seven additions, 28 peer rows. France 201 ranked / 212 total; 11 existing unassessed unchanged. Castle gardens and abbey gardens grouped; Suscinio Sarzeau distinguished from Morlaix namesake; Eckmühl excludes semaphore and old lighthouse; Tréguier excludes Ernest Renan museum. Rotate to Pays de la Loire and Atlantic coast rather than prolong Brittany search. Next bounded screen: Château des ducs de Bretagne Nantes, Les Machines de l’Île Nantes, Passage Pommeraye Nantes, Puy du Fou historical theme park, Noirmoutier Island coastal experience, Île d’Yeu coastal trails, Marais Poitevin wetland boat experience (scope and duplicate checks). Full Python validation pending.

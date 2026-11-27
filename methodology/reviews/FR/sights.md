@@ -7582,3 +7582,275 @@ Peer profiles matched to ranking rows; individual YAML checks pending.
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent claim-level corroboration.
+
+## sight-fr-chateau-suscinio — Château de Suscinio Ducal Castle — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-suscinio.yaml)
+- Action: new
+- Precise subject and limitations: Medieval ducal castle in Sarzeau, including visitor rooms and moated fortification; excludes separate coastal beaches and surrounding marsh trails. Not the namesake castle in Morlaix.
+- Location check: 47.51294, -2.72944; [published representative point](https://mapcarta.com/37331246), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://labellebretagne.bzh/en/chateaux/morbihan/chateau-suscinio); indexed excerpts inspected 2026-11-27. Visitor guide describes medieval castle and Rhuys setting; https://www.chateauxplorer.com/en/chateau/chateau-de-suscinio describes towers and moat. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-fougeres](../../../countries/FR/sights/chateau-fougeres.yaml) | 9.0 / 8.9 / 9.1 / 8.9 / 8.9 | significance: -0.1 vs peer; depth: -0.1 vs peer. |
+| [FR/chateau-josselin](../../../countries/FR/sights/chateau-josselin.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | significance: +0.2 vs peer; depth: +0.1 vs peer. |
+| [ES/loarre](../../../countries/ES/sights/loarre.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.4 | depth: +0.4 vs peer; impact: -0.1 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | significance: +0.6 vs peer; impact: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Imposing moated towers. |
+| Uniqueness | 8.9 | Distinct Breton ducal residence, comparable European castles. |
+| Significance | 9.0 | Medieval ducal history. |
+| Experience | 8.9 | Dedicated castle experience. |
+| Depth | 8.8 | Several connected defensive and residential spaces. |
+
+- Applicable categories: architecture:9.3, history:9.3, photography:9.3, culture:9.1.
+- Computed worldwide overall: 89.40/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-domaine-trevarez — Domaine de Trévarez Castle and Botanical Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/domaine-trevarez.yaml)
+- Action: new
+- Precise subject and limitations: Castle and estate garden circuit as integrated experience; GPS is operator access point.
+- Location check: 48.15287, -3.80651; [published representative point](https://www.cdp29.fr/fr/presentation-trevarez-infos-pratiques), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://reservation.cdp29.fr/entree-domaine-de-trevarez-visite-accompagnee-chateau.html); indexed excerpts inspected 2026-11-27. Operator describes one-hour castle visit followed by estate exploration; https://www.eghn.org/fr/jardin-du-domaine-de-trevarez/ describes garden types and specialist plant collections; https://www.apjb.org/fr/parcs/domaine-de-trevarez.html confirms camellia recognition. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-villandry](../../../countries/FR/sights/chateau-villandry.yaml) | 9.2 / 9.3 / 8.9 / 9.2 / 9.1 | uniqueness: -0.3 vs peer; significance: -0.2 vs peer. |
+| [FR/chateau-chaumont-sur-loire](../../../countries/FR/sights/chateau-chaumont-sur-loire.yaml) | 9.1 / 9.2 / 8.8 / 9.1 / 9.2 | uniqueness: -0.2 vs peer; significance: -0.1 vs peer. |
+| [PT/monte-palace-garden](../../../countries/PT/sights/monte-palace-garden.yaml) | 9.0 / 8.9 / 8.5 / 9.0 / 8.9 | significance: +0.2 vs peer; depth: +0.2 vs peer. |
+| [GB/stourhead](../../../countries/GB/sights/stourhead.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.4 | depth: +0.7 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 9.0 | Striking estate architecture and garden landscape. |
+| Uniqueness | 9.0 | Combined historic mansion and specialist camellia collection. |
+| Significance | 8.7 | Regional architectural and horticultural importance. |
+| Experience | 9.0 | Castle interpretation and independent garden walks. |
+| Depth | 9.1 | Several formal gardens and extensive landscaped park. |
+
+- Applicable categories: architecture:9.2, nature:9.3, photography:9.3, culture:9.1, relaxation:9.2.
+- Computed worldwide overall: 89.50/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-abbaye-daoulas — Abbaye de Daoulas Romanesque Cloister and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/abbaye-daoulas.yaml)
+- Action: new
+- Precise subject and limitations: Abbey cloister, specialist medicinal gardens and integrated exhibitions. Excludes village walk and no assumption of separate parish-close nomination coverage.
+- Location check: 48.362466, -4.2657974; [published representative point](https://www.cdp29.fr/en/presentation-daoulas-infos-pratiques), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://reservation.cdp29.fr/entree-abbaye-de-daoulas-visite-panorama.html); indexed excerpts inspected 2026-11-27. Operator advertises integrated site visit; https://www.apjb.org/fr/parcs/abbaye-de-daoulas.html describes Romanesque cloister and medieval heritage; https://www.eghn.org/en/garden-at-daoulas-abbey/ confirms garden design. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/fontenay](../../../countries/FR/sights/fontenay.yaml) | 8.9 / 9.0 / 9.2 / 8.8 / 8.5 | depth: +0.3 vs peer; significance: -0.3 vs peer. |
+| [FR/abbaye-aux-dames](../../../countries/FR/sights/abbaye-aux-dames.yaml) | 8.7 / 8.9 / 9.1 / 8.6 / 8.5 | experience: +0.3 vs peer; depth: +0.3 vs peer. |
+| [GB/fountains-abbey](../../../countries/GB/sights/fountains-abbey.yaml) | 9.0 / 9.0 / 9.2 / 9.1 / 9.0 | significance: -0.3 vs peer; impact: -0.2 vs peer. |
+| [IE/kylemore-abbey](../../../countries/IE/sights/kylemore-abbey.yaml) | 8.9 / 8.6 / 8.5 / 8.8 / 8.5 | significance: +0.4 vs peer; depth: +0.3 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.8 | Attractive stone cloister and garden spaces. |
+| Uniqueness | 8.8 | Combination of Romanesque heritage and medicinal gardens. |
+| Significance | 8.9 | Regional monastic history. |
+| Experience | 8.9 | Dedicated heritage and botanical circuit. |
+| Depth | 8.8 | Several distinct garden and historic spaces. |
+
+- Applicable categories: architecture:9.2, history:9.2, nature:9.1, culture:9.1, photography:9.1.
+- Computed worldwide overall: 88.35/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-kergroadez — Château de Kergroadez Castle and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-kergroadez.yaml)
+- Action: new
+- Precise subject and limitations: Guided château and landscaped grounds visit in Brélès; no separate garden rating or assumption of private interior access.
+- Location check: 48.477928, -4.714031; [published representative point](https://www.apjb.org/fr/parcs/kergroadez.html), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://kv2.kergroadez.fr/acces-horaires/); indexed excerpts inspected 2026-11-27. Operator lists guided group castle and park visit; Brittany gardens association describes more than 22 hectares of grounds with pond, woodland and medicinal plants. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-kerjean](../../../countries/FR/sights/chateau-kerjean.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 8.8 | significance: -0.4 vs peer; impact: -0.3 vs peer. |
+| [FR/chateau-josselin](../../../countries/FR/sights/chateau-josselin.yaml) | 8.9 / 8.8 / 8.8 / 8.9 / 8.7 | impact: -0.4 vs peer; uniqueness: -0.3 vs peer. |
+| [PT/queluz-national-palace](../../../countries/PT/sights/queluz-national-palace.yaml) | 8.9 / 8.7 / 8.9 / 8.9 / 8.8 | impact: -0.4 vs peer; significance: -0.4 vs peer. |
+| [IE/blarney-castle](../../../countries/IE/sights/blarney-castle.yaml) | 8.7 / 8.6 / 8.4 / 8.8 / 8.6 | impact: -0.2 vs peer; uniqueness: -0.1 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.5 | Attractive granite residence and varied grounds. |
+| Uniqueness | 8.5 | Regional castle type with landscaped estate. |
+| Significance | 8.5 | Regional historical heritage. |
+| Experience | 8.8 | Guided castle tour and garden walks. |
+| Depth | 8.7 | Multiple landscape features and castle route. |
+
+- Applicable categories: architecture:9.0, history:8.9, nature:8.9, photography:9.0, relaxation:8.9.
+- Computed worldwide overall: 85.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-phare-eckmuhl — Phare d’Eckmühl Lighthouse and Panorama — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/phare-eckmuhl.yaml)
+- Action: new
+- Precise subject and limitations: Lighthouse ascent and summit panorama; excludes separate old lighthouse exhibition, semaphore and wider Penmarc’h coast. Coordinate archive identifies official maritime position.
+- Location check: 47.7982, -4.37277; [published representative point](https://light.lux143.org/lighthouses/LUX-LH-000968/), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.destination-paysbigouden.com/en/discover/the-sea/lighthouses/visit-the-eckmuhl-lighthouse/); indexed excerpts inspected 2026-11-27. Tourist office describes spiral ascent and panoramic view; https://www.penmarch.bzh/mes-sorties/site-des-phares/phare-eckmuhl/ confirms municipal visitor site. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/ile-vierge-lighthouse](../../../countries/FR/sights/ile-vierge-lighthouse.yaml) | 8.9 / 9.1 / 8.8 / 8.8 / 8.3 | depth: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [FR/pointe-saint-mathieu](../../../countries/FR/sights/pointe-saint-mathieu.yaml) | 9.0 / 8.9 / 8.9 / 8.9 / 8.6 | depth: -0.5 vs peer; significance: -0.2 vs peer. |
+| [PT/nazare-sitio-praia-norte](../../../countries/PT/sights/nazare-sitio-praia-norte.yaml) | 9.0 / 9.1 / 8.4 / 8.8 / 8.5 | depth: -0.4 vs peer; significance: +0.3 vs peer. |
+| [GB/eilean-donan](../../../countries/GB/sights/eilean-donan.yaml) | 8.9 / 8.7 / 8.5 / 8.7 / 7.8 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Dramatic maritime panorama and spiral stairwell. |
+| Uniqueness | 8.9 | Distinctive lighthouse engineering with other comparable towers. |
+| Significance | 8.7 | Regional navigation heritage. |
+| Experience | 8.8 | Established tower climb and views. |
+| Depth | 8.1 | Focused single-tower experience. |
+
+- Applicable categories: architecture:9.1, photography:9.3, history:9.0, adventure:8.8.
+- Computed worldwide overall: 87.65/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-chateau-roche-jagu — Château de la Roche-Jagu and Landscape Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/chateau-roche-jagu.yaml)
+- Action: new
+- Precise subject and limitations: Historic castle and estate gardens with integrated exhibitions; operator access coordinates represent property parking, not tower. Excludes wider Trieux estuary.
+- Location check: 48.7332325, -3.1512653; [published representative point](https://larochejagu.cotesdarmor.fr/en/access), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.guingamp-paimpol.com/en/welcome-to-guingamp-baie-de-paimpol/must-see-destinations/the-castle-of-la-roche-jagu); indexed excerpts inspected 2026-11-27. Local tourism documents castle exhibits, rose gardens, woods, marshes and garden routes; https://www.pleumeur-bodou.com/Chateau-and-gardens-of-La-Roche-Jagu.html?lang=en corroborates castle and garden experience. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/chateau-cheverny](../../../countries/FR/sights/chateau-cheverny.yaml) | 8.9 / 8.9 / 8.7 / 9.0 / 9.0 | uniqueness: -0.1 vs peer; impact: +0.0 vs peer. |
+| [FR/chateau-kerjean](../../../countries/FR/sights/chateau-kerjean.yaml) | 8.8 / 8.8 / 8.9 / 8.8 / 8.8 | significance: -0.2 vs peer; experience: +0.2 vs peer. |
+| [GB/stourhead](../../../countries/GB/sights/stourhead.yaml) | 8.8 / 8.8 / 8.9 / 8.9 / 8.4 | depth: +0.6 vs peer; significance: -0.2 vs peer. |
+| [IE/powerscourt](../../../countries/IE/sights/powerscourt.yaml) | 8.9 / 8.6 / 8.5 / 9.0 / 8.7 | depth: +0.3 vs peer; uniqueness: +0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.9 | Castle and varied landscape gardens. |
+| Uniqueness | 8.8 | Distinct regional estate, comparable European examples. |
+| Significance | 8.7 | Regional historic residence. |
+| Experience | 9.0 | Castle exhibitions and garden walking. |
+| Depth | 9.0 | Many garden environments and trails. |
+
+- Applicable categories: architecture:9.1, nature:9.2, photography:9.3, culture:9.1, relaxation:9.2.
+- Computed worldwide overall: 88.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
+
+
+## sight-fr-treguier-historic-centre — Tréguier Historic Centre and Cathedral — 2026-11-27
+
+- YAML: [source](../../../countries/FR/sights/treguier-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Cathedral, historic streets and connected heritage precinct, excludes independently operated Ernest Renan museum. Representative cathedral point.
+- Location check: 48.78771, -3.23086; [published representative point](https://mapcarta.com/fr/36795898), coordinate evidence inspected in indexed text or source excerpt 2026-11-27; not necessarily entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [reference](https://www.brittanytourism.com/destinations/the-10-destinations/pink-granite-coast-morlaix-bay/treguier/); indexed excerpts inspected 2026-11-27. Regional tourism identifies cathedral and fifteenth- and sixteenth-century timber-framed houses; https://www.cirkwi.com/fr/point-interet/3593159-treguier-cathedrale-saint-tugdual describes cathedral as heritage attraction. Sources support scope, not ratings.
+- Missing or uncertain facts: full independent claim-level corroboration; current access is not a rating gate.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [FR/saint-pol-de-leon-historic-centre](../../../countries/FR/sights/saint-pol-de-leon-historic-centre.yaml) | 8.7 / 8.7 / 8.9 / 8.8 / 8.6 | uniqueness: +0.1 vs peer; experience: +0.1 vs peer. |
+| [FR/quimper-historic-centre](../../../countries/FR/sights/quimper-historic-centre.yaml) | 8.8 / 8.7 / 9.0 / 8.9 / 8.8 | impact: -0.1 vs peer; uniqueness: +0.1 vs peer. |
+| [ES/valencia-cathedral-historic-centre](../../../countries/ES/sights/valencia-cathedral-historic-centre.yaml) | 9.0 / 8.7 / 9.0 / 9.0 / 8.9 | impact: -0.3 vs peer; depth: -0.2 vs peer. |
+| [PT/guimaraes-core](../../../countries/PT/sights/guimaraes-core.yaml) | 8.9 / 8.9 / 9.1 / 8.8 / 8.8 | impact: -0.2 vs peer; significance: -0.2 vs peer. |
+
+Peer profiles matched to ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Cathedral spire and timber-framed streets. |
+| Uniqueness | 8.8 | Compact Breton episcopal ensemble. |
+| Significance | 8.9 | Regional religious and cultural heritage. |
+| Experience | 8.9 | Established historic street exploration. |
+| Depth | 8.7 | Several connected monuments and lanes. |
+
+- Applicable categories: architecture:9.3, history:9.2, culture:9.1, photography:9.2.
+- Computed worldwide overall: 87.95/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent claim-level corroboration.
