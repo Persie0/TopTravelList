@@ -167,7 +167,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Finland](countries/FI/) (`FI`) | [19](countries/FI/cities.md) | [53](countries/FI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Finland) |
 | [France](countries/FR/) (`FR`) | [25](countries/FR/cities.md) | [1100](countries/FR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=France) |
 | [French Guiana](countries/GF/) (`GF`) | [4](countries/GF/cities.md) | [24](countries/GF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Guiana) |
-| [French Polynesia](countries/PF/) (`PF`) | [5](countries/PF/cities.md) | [25](countries/PF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Polynesia) |
+| [French Polynesia](countries/PF/) (`PF`) | [5](countries/PF/cities.md) | [40](countries/PF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Polynesia) |
 | [French Southern Territories](countries/TF/) (`TF`) | [0](countries/TF/cities.md) | [7](countries/TF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=French%20Southern%20Territories) |
 | [Gabon](countries/GA/) (`GA`) | [14](countries/GA/cities.md) | [32](countries/GA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gabon) |
 | [Gambia](countries/GM/) (`GM`) | [16](countries/GM/cities.md) | [31](countries/GM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Gambia) |

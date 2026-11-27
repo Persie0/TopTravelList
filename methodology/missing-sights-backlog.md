@@ -2821,3 +2821,24 @@ Regional overview sources: https://www.france.fr/en/article/french-guiana-amazon
 - [x] YT — Lac Karihani Freshwater Wetland and Birdwatching: 84.95/100 (desk-based provisional).
 
 Regional overview: https://www.france.fr/fr/destination/mayotte/ ; https://tourisme-centreouest.yt/nos-5-plus-belles-balades/ ; https://tourisme-centreouest.yt/a-lassaut-de-lilot/ ; https://ccsud.yt/attractivite/tourisme/a-faire/activites-terrestres . 7 additions, 4 desk-based provisional, 3 source-informed, 0 90+, 16 domestic ranking-row comparisons. Mayotte 19 ranked / 20 total. Researched potential 90+ double barrier reef but score held below 90 due to actual ecological degradation, not access restrictions. Existing reef scores preserved pending separate condition reassessment. No whole marine park umbrella or adjacent islet duplicates; separate forestry reserve umbrella would overlap named hikes. MuMa remains unassessed. Bounded queue closed. Next: French Polynesia. Full Python validation pending.
+
+
+### Pass 180 — French Polynesia remaining priority queue
+
+- [x] PF — Tikehau Lagoon Pink Sand Motu and Tuheiava Pass Diving: 91.90/100 (source-linked-unverified).
+- [x] PF — Fakarava North Pass Garuae Drift Diving: 91.35/100 (source-linked-unverified).
+- [x] PF — Gambier Lagoon Motu Excursions and Mount Duff Hiking: 90.65/100 (source-linked-unverified).
+- [x] PF — Hitia’a Lava Tubes and Guided Subterranean Hiking: 90.80/100 (source-linked-unverified).
+- [x] PF — Moorea and Tahiti Offshore Humpback Whale Watching: 90.60/100 (source-linked-unverified).
+- [x] PF — Rikitea Saint-Michel Cathedral and Gambier Missionary Heritage: 90.75/100 (source-linked-unverified).
+- [x] PF — Mount Orohena Highest Summit Guided Trek: 90.30/100 (source-linked-unverified).
+- [x] PF — Mount Temehani Raiatea Endemic Flora and Guided Plateau Trek: 90.65/100 (source-linked-unverified).
+- [x] PF — Rimatara Native Birdwatching and Conservation Heritage: 90.00/100 (source-linked-unverified).
+- [x] PF — Manihi Turipaoa Pass Reef Diving and Lagoon Excursions: 88.50/100 (source-linked-unverified).
+- [x] PF — Huahine Lagoon Motu and Coral Garden Excursions: 88.50/100 (desk-based provisional).
+- [x] PF — Faaroa River Raiatea Rainforest Kayaking: 86.85/100 (desk-based provisional).
+- [x] PF — Taha’a Vanilla Plantation and Cultivation Heritage: 87.90/100 (desk-based provisional).
+- [x] PF — Pointe Vénus Mahina Lighthouse and Historic Black Sand Beach: 87.75/100 (desk-based provisional).
+- [x] PF — Rurutu Ana Aeo and Ana Taupee Limestone Caves: 88.30/100 (desk-based provisional).
+
+15 additions, 5 desk-based provisional, 10 source-informed, 9 90+, 48 domestic ranking-row comparisons. French Polynesia 40 ranked / 40 total. Bounded queue closed; separate northern Fakarava pass, Tikehau combined, no repeated Marquesas UNESCO components, Te Pari and Otemanu deferred for coastal/lagoon scope uncertainty. Rapa fortified landscape documented (https://whc.unesco.org/document/10062) but community visitor access/permissions and distinct route need confirmation. No generic archipelago-wide whale or diving duplicates. Prior scores preserved. Next: New Caledonia. Full Python validation pending.

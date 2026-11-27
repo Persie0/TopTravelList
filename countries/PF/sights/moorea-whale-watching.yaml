@@ -1,0 +1,16 @@
+id: sight-pf-moorea-whale-watching
+name: "Moorea and Tahiti Offshore Humpback Whale Watching"
+location:
+  country_code: PF
+  latitude: -17.49
+  longitude: -149.87
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.2
+  depth: 8.9
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.3
