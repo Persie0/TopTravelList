@@ -4939,3 +4939,22 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] EC — El Boliche National Recreation Area Forest Trails: 79.80/100 (desk-based provisional).
 
 15 additions, 10 source-linked provisional, 5 desk-based provisional, 5 90+, 40 ranking-row comparisons (10 international). EC 80 ranked / 81 total, +26 since baseline 55. Existing five inscribed World Heritage properties represented per initial inventory (Qhapaq Ñan unassessed); not independently remapped. Darwin/Wolf grouped; island circuits and marine sites non-additive to Galápagos umbrella. Cayambe Coca excludes Papallacta hot springs; Ilinizas peaks exclude Quilotoa. Cotacachi-Cayapas park-wide entry deferred because existing Cuicocha is its principal visitor site; screen distinct lower-zone route and permissions. Río Negro Sopladora deferred pending documented visitor scope. Existing scores and one unassessed preserved. OPEN for mainland nature, archaeology, crafts, tentative properties and further distinct visitor routes. Coordinates approximate; schedules, permissions and current safety unverified.
+
+### Pass 279 — Ecuador mainland birding, archaeology and tentative-list screening
+
+- [x] EC — Alausí Nariz del Diablo Historic Railway Journey: 92.05/100 (source-linked-unverified).
+- [x] EC — Mashpi Tayra Cloud Forest Guided Biodiversity Trails: 91.80/100 (source-linked-unverified).
+- [x] EC — Tapichalaca Cloud Forest Reserve Jocotoco Antpitta Birding: 91.15/100 (source-linked-unverified).
+- [x] EC — Buenaventura Cloud Forest Reserve Endemic Birding: 90.85/100 (source-linked-unverified).
+- [x] EC — Puerto López Seasonal Humpback Whale Watching: 90.55/100 (source-linked-unverified).
+- [x] EC — Puyango Petrified Forest Fossil Trails and Museum: 90.00/100 (source-linked-unverified).
+- [x] EC — Cerro de Hojas Jaboncillo Archaeological Park: 88.20/100 (source-linked-unverified).
+- [x] EC — Puñay Cultural Landscape Highland Hiking: 87.50/100 (source-linked-unverified).
+- [x] EC — Zaruma Historic Mining Town Architecture: 87.15/100 (source-linked-unverified).
+- [x] EC — Santa Ana La Florida Archaeological Site and Museum: 86.40/100 (source-linked-unverified).
+- [x] EC — Montecristi Toquilla Hat Weaving Workshops and Heritage: 86.25/100 (desk-based provisional).
+- [x] EC — Yacuviña Archaeological Complex: 86.15/100 (source-linked-unverified).
+- [x] EC — Tena Jatunyacu River Rafting: 85.60/100 (desk-based provisional).
+- [x] EC — Jumandy Caves Guided Underground Walk: 84.45/100 (desk-based provisional).
+
+14 additions, 11 source-linked provisional, 3 desk-based provisional, 6 90+, 40 ranking-row comparisons (12 international). EC 94 ranked / 95 total, +40 since baseline 55. UNESCO tentative list 15 entries checked (https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=ec): existing El Ángel, Chimborazo, Churute, Machalilla (4); named new scopes Puñay, Yacuviña, Zaruma, Puyango (4); partial mapping Manteño (Hojas Jaboncillo), Chocó Soundscape (Mashpi), trans-Andean train (Nariz del Diablo), Mayo Chinchipe (Santa Ana La Florida) (4); unresolved El Quimi, Ecuadorian Cacao Cultural Landscape and Galápagos extension (3). 12/15 at least partially mapped, not all serial components verified. El Quimi visitor scope and Galápagos extension boundaries deferred; cacao landscape needs distinct named public visitor scope. Qhapaq Ñan unassessed retained; all five inscribed properties represented per initial inventory, not remapped. Nariz del Diablo June 2026 resumption confirmed, no claim entire railway operates. Puerto López whale watching non-additive to overlapping Machalilla tours; Mashpi distinct from Mindo. Prior access and overlap deferrals retained. OPEN for regional sights and other public cultural experiences. Existing scores and one unassessed preserved. Coordinates approximate; schedules, permissions and safety unverified.

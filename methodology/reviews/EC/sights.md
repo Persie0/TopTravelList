@@ -1729,3 +1729,309 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 278 scope decisions
 
 15 additions, 10 source-linked provisional, 5 desk-based provisional, 5 90+, 40 ranking-row comparisons (10 international). EC 80 ranked / 81 total, +26 since baseline 55. Existing five inscribed World Heritage properties represented per initial inventory (Qhapaq Ñan unassessed); not independently remapped. Darwin/Wolf grouped; island circuits and marine sites non-additive to Galápagos umbrella. Cayambe Coca excludes Papallacta hot springs; Ilinizas peaks exclude Quilotoa. Cotacachi-Cayapas park-wide entry deferred because existing Cuicocha is its principal visitor site; screen distinct lower-zone route and permissions. Río Negro Sopladora deferred pending documented visitor scope. Existing scores and one unassessed preserved. OPEN for mainland nature, archaeology, crafts, tentative properties and further distinct visitor routes. Coordinates approximate; schedules, permissions and current safety unverified.
+
+
+## sight-ec-nariz-del-diablo-railway — Alausí Nariz del Diablo Historic Railway Journey — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/nariz-del-diablo-railway.yaml)
+- Action: new
+- Scope: Alausí–Sibambe engineering and scenery, not the entire trans-Andean network. Ministry confirms 6 June 2026 resumption after February flood damage; ticket provider lists October–December dates. No guarantee of future operation.
+- Representative coordinates: -2.201, -78.846; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.2 / 9.1 / 8.6.
+- Categories: adventure:9.3 history:9.4 photography:9.4.
+- Overall: 92.05/100.
+- Source: https://www.mit.gob.ec/la-ruta-ferroviaria-nariz-del-diablo-retoma-operaciones-y-reimpulsa-el-turismo-en-chimborazo/
+- Source: https://www.mit.gob.ec/vuelve-el-silbato-del-ferrocarril-a-chimborazo-rehabilitamos-la-ruta-nariz-del-diablo/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive visitor scope and documented natural or cultural significance, with experience and depth constrained to the named activity; not a property-wide score. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/cotopaxi-national-park](../../../countries/EC/sights/cotopaxi-national-park.yaml) | 9.4 / 9.0 / 8.7 / 9.0 / 8.9 | impact: -0.1; uniqueness: +0.4 vs peer |
+| [EC/teleferiqo](../../../countries/EC/sights/teleferiqo.yaml) | 8.5 / 8.2 / 6.8 / 8.6 / 7.3 | impact: +0.8; uniqueness: +1.2 vs peer |
+| [PE/central-railway](../../../countries/PE/sights/central-railway.yaml) | 9.3 / 9.4 / 9.4 / 8.9 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BR/serra-verde-express](../../../countries/BR/sights/serra-verde-express.yaml) | 9.1 / 9.1 / 9.1 / 9.3 / 9.1 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-mashpi-tayra-cloud-forest — Mashpi Tayra Cloud Forest Guided Biodiversity Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/mashpi-tayra-cloud-forest.yaml)
+- Action: new
+- Scope: Distinct Pacto reserve and guided forest experience, not hotel luxury. UNESCO tentative serial soundscape identifies Mashpi and Bellavista as components; existing Mindo is not additive to whole biosphere reserve.
+- Representative coordinates: 0.169, -78.868; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 9.1 / 9.2.
+- Categories: nature:9.4 wildlife:9.4 photography:9.3.
+- Overall: 91.80/100.
+- Source: https://whc.unesco.org/en/tentativelists/6988/
+- Source: https://www.fundacionfuturo.org.ec/en/reserve
+- Source: https://www.mashpilodge.com/the-reserve/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive visitor scope and documented natural or cultural significance, with experience and depth constrained to the named activity; not a property-wide score. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/mindo-cloud-forest](../../../countries/EC/sights/mindo-cloud-forest.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [EC/cayambe-coca-national-park](../../../countries/EC/sights/cayambe-coca-national-park.yaml) | 9.1 / 9.0 / 9.2 / 8.7 / 9.1 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [CO/tatama-montezuma](../../../countries/CO/sights/tatama-montezuma.yaml) | 9.1 / 9.3 / 9.2 / 8.8 / 9.1 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-tapichalaca-reserve — Tapichalaca Cloud Forest Reserve Jocotoco Antpitta Birding — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/tapichalaca-reserve.yaml)
+- Action: new
+- Scope: Jocotoco Foundation identifies Casa Simpson guided birding base; reserve created following 1997 discovery of Jocotoco Antpitta. Distinct private reserve from Podocarpus, no guaranteed sightings.
+- Representative coordinates: -4.48, -79.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.4 / 9.3 / 8.9 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 91.15/100.
+- Source: https://www.jocotoco.org/es/avistamiento-aves-ecuador/
+- Source: https://conservationbirding.org/?reserve=tapichalaca-reserve
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive visitor scope and documented natural or cultural significance, with experience and depth constrained to the named activity; not a property-wide score. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/mindo-cloud-forest](../../../countries/EC/sights/mindo-cloud-forest.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.2; uniqueness: +0.6 vs peer |
+| [EC/podocarpus-national-park](../../../countries/EC/sights/podocarpus-national-park.yaml) | 8.6 / 8.6 / 8.9 / 8.4 / 8.5 | impact: +0.3; uniqueness: +0.8 vs peer |
+| [CO/tatama-montezuma](../../../countries/CO/sights/tatama-montezuma.yaml) | 9.1 / 9.3 / 9.2 / 8.8 / 9.1 | impact: -0.2; uniqueness: +0.1 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.4; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-buenaventura-reserve — Buenaventura Cloud Forest Reserve Endemic Birding — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/buenaventura-reserve.yaml)
+- Action: new
+- Scope: American Bird Conservancy and Ecuador tourism document El Oro endemic birds and long-wattled umbrellabird habitat; public guided reserve experience rather than guaranteed sightings.
+- Representative coordinates: -3.65, -79.76; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.3 / 9.2 / 9.0 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 photography:9.3.
+- Overall: 90.85/100.
+- Source: https://abcbirds.org/news/abc-birding-buenaventura-reserve-ecuador/
+- Source: https://ecuador.travel/buenaventura-el-tesoro-natural-de-el-oro/
+- Source: https://www.jocotoco.org/es/avistamiento-aves-ecuador/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive visitor scope and documented natural or cultural significance, with experience and depth constrained to the named activity; not a property-wide score. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/mindo-cloud-forest](../../../countries/EC/sights/mindo-cloud-forest.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: +0.2; uniqueness: +0.5 vs peer |
+| [EC/podocarpus-national-park](../../../countries/EC/sights/podocarpus-national-park.yaml) | 8.6 / 8.6 / 8.9 / 8.4 / 8.5 | impact: +0.3; uniqueness: +0.7 vs peer |
+| [CO/tatama-montezuma](../../../countries/CO/sights/tatama-montezuma.yaml) | 9.1 / 9.3 / 9.2 / 8.8 / 9.1 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.4; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-puerto-lopez-whale-watching — Puerto López Seasonal Humpback Whale Watching — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/puerto-lopez-whale-watching.yaml)
+- Action: new
+- Scope: IWC handbook identifies Puerto López as whale-watching destination. Dedicated licensed offshore wildlife excursion; non-additive to Machalilla or Isla de la Plata tour if same trip, sightings and weather not guaranteed.
+- Representative coordinates: -1.56, -80.81; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.1 / 8.8 / 9.2 / 8.5.
+- Categories: wildlife:9.4 nature:9.4 photography:9.4.
+- Overall: 90.55/100.
+- Source: https://wwhandbook.iwc.int/en/country-profiles/ecuador
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive visitor scope and documented natural or cultural significance, with experience and depth constrained to the named activity; not a property-wide score. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/machalilla-national-park](../../../countries/EC/sights/machalilla-national-park.yaml) | 8.6 / 8.5 / 8.5 / 8.8 / 8.6 | impact: +0.7; uniqueness: +0.6 vs peer |
+| [EC/isla-de-la-plata](../../../countries/EC/sights/isla-de-la-plata.yaml) | 8.5 / 8.5 / 8.2 / 8.6 / 7.7 | impact: +0.8; uniqueness: +0.6 vs peer |
+| [CO/malpelo-fauna-and-flora-sanctuary](../../../countries/CO/sights/malpelo-fauna-and-flora-sanctuary.yaml) | 9.3 / 9.5 / 9.6 / 8.2 / 8.2 | impact: +0.0; uniqueness: -0.4 vs peer |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.7; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-puyango-petrified-forest — Puyango Petrified Forest Fossil Trails and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/puyango-petrified-forest.yaml)
+- Action: new
+- Scope: UNESCO tentative property documents fossil wood and marine fossils; provincial tourism lists visitor attraction. Coordinates approximately from UNESCO property reference, not entrance.
+- Representative coordinates: -3.905, -80.009; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.3 / 9.2 / 8.7 / 8.9.
+- Categories: nature:9.4 history:9.2 photography:9.2.
+- Overall: 90.00/100.
+- Source: https://whc.unesco.org/en/tentativelists/1081/
+- Source: https://turismoepeloro.gob.ec/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive visitor scope and documented natural or cultural significance, with experience and depth constrained to the named activity; not a property-wide score. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/pululahua-geobotanical-reserve](../../../countries/EC/sights/pululahua-geobotanical-reserve.yaml) | 8.8 / 8.8 / 8.4 / 8.6 / 8.3 | impact: +0.0; uniqueness: +0.5 vs peer |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: +0.4; uniqueness: +0.6 vs peer |
+| [CO/tatama-montezuma](../../../countries/CO/sights/tatama-montezuma.yaml) | 9.1 / 9.3 / 9.2 / 8.8 / 9.1 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.5; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-hojas-jaboncillo — Cerro de Hojas Jaboncillo Archaeological Park — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/hojas-jaboncillo.yaml)
+- Action: new
+- Scope: INPC public archaeological park and educational offer; component of tentative Manteño lordships serial property, not entire coastal system.
+- Representative coordinates: -1.015, -80.49; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.3 / 8.5 / 8.8.
+- Categories: history:9.4 culture:9.2 photography:9.0.
+- Overall: 88.20/100.
+- Source: https://www.patrimoniocultural.gob.ec/cerro-de-hojas-jaboncillo/
+- Source: https://whc.unesco.org/en/tentativelists/6983/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: +0.2; uniqueness: +0.2 vs peer |
+| [EC/cochasqui-archaeological-park](../../../countries/EC/sights/cochasqui-archaeological-park.yaml) | 7.9 / 8.6 / 8.5 / 8.0 / 7.5 | impact: +0.7; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-santa-ana-la-florida — Santa Ana La Florida Archaeological Site and Museum — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/santa-ana-la-florida.yaml)
+- Action: new
+- Scope: INPC documents ancient Mayo Chinchipe remains and museum conservation; 2024 project agreement does not establish current opening. Tentative Mayo Chinchipe landscape partially represented; no guaranteed visit.
+- Representative coordinates: -4.65, -79.13; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.1 / 9.0 / 9.4 / 8.2 / 8.5.
+- Categories: history:9.4 culture:9.3 architecture:8.8.
+- Overall: 86.40/100.
+- Source: https://www.patrimoniocultural.gob.ec/mantenimiento-correctivo-en-la-reserva-y-museo-del-sitio-arqueologico-santa-ana-la-florida-en-el-canton-palanda/
+- Source: https://www.patrimoniocultural.gob.ec/instituto-nacional-de-patrimonio-cultural-zonal-7-impulsa-conservacion-del-sitio-arqueologico-santa-ana-la-florida/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: -0.3; uniqueness: +0.3 vs peer |
+| [EC/pumapungo-museum-and-archaeological-park](../../../countries/EC/sights/pumapungo-museum-and-archaeological-park.yaml) | 8.1 / 8.4 / 8.7 / 8.3 / 8.0 | impact: +0.0; uniqueness: +0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-yacuvina — Yacuviña Archaeological Complex — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/yacuvina.yaml)
+- Action: new
+- Scope: Tentative property added March 2026, Cañari and Inka heritage; provincial tourism confirms visitor identity. No claim of inscribed status.
+- Representative coordinates: -3.63, -79.65; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.3 / 8.8 / 9.2 / 8.3 / 8.4.
+- Categories: history:9.3 culture:9.1 photography:8.8.
+- Overall: 86.15/100.
+- Source: https://whc.unesco.org/en/tentativelists/6984/
+- Source: https://turismoepeloro.gob.ec/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/ingapirca-archaeological-complex](../../../countries/EC/sights/ingapirca-archaeological-complex.yaml) | 8.4 / 8.7 / 9.1 / 8.3 / 7.8 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [EC/cochasqui-archaeological-park](../../../countries/EC/sights/cochasqui-archaeological-park.yaml) | 7.9 / 8.6 / 8.5 / 8.0 / 7.5 | impact: +0.4; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-punay-cultural-landscape — Puñay Cultural Landscape Highland Hiking — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/punay-cultural-landscape.yaml)
+- Action: new
+- Scope: Municipal hiking approach and UNESCO tentative cultural landscape documented; no assertion of disputed pyramid interpretation or unrestricted sacred-site access.
+- Representative coordinates: -2.3, -78.99; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 8.9 / 9.0 / 8.3 / 8.4.
+- Categories: nature:9.2 history:9.2 adventure:9.0.
+- Overall: 87.50/100.
+- Source: https://municipiochunchi.gob.ec/cerro-punay/
+- Source: https://whc.unesco.org/en/tentativelists/6982/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/chimborazo-fauna-production-reserve](../../../countries/EC/sights/chimborazo-fauna-production-reserve.yaml) | 9.3 / 9.3 / 8.9 / 8.6 / 8.4 | impact: -0.5; uniqueness: -0.4 vs peer |
+| [EC/cochasqui-archaeological-park](../../../countries/EC/sights/cochasqui-archaeological-park.yaml) | 7.9 / 8.6 / 8.5 / 8.0 / 7.5 | impact: +0.9; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-zaruma-historic-centre — Zaruma Historic Mining Town Architecture — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/zaruma-historic-centre.yaml)
+- Action: new
+- Scope: Tentative property since 2016. Historic built environment only; excludes unsafe mine workings and subsidence-affected areas. Current safety unverified.
+- Representative coordinates: -3.69, -79.61; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.1 / 8.5 / 8.7.
+- Categories: architecture:9.3 history:9.3 culture:9.1.
+- Overall: 87.15/100.
+- Source: https://whc.unesco.org/en/tentativelists/6089/
+- Source: https://turismoepeloro.gob.ec/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/historic-centre-of-cuenca](../../../countries/EC/sights/historic-centre-of-cuenca.yaml) | 8.9 / 8.7 / 9.2 / 8.9 / 8.9 | impact: -0.4; uniqueness: +0.1 vs peer |
+| [EC/latacunga-historic-centre](../../../countries/EC/sights/latacunga-historic-centre.yaml) | 8.1 / 8.2 / 8.6 / 8.3 / 8.2 | impact: +0.4; uniqueness: +0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-montecristi-toquilla — Montecristi Toquilla Hat Weaving Workshops and Heritage — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/montecristi-toquilla.yaml)
+- Action: new
+- Scope: Desk-based provisional traditional craft experience; public consenting artisan workshops only, no named vendor or guaranteed demonstration.
+- Representative coordinates: -1.046, -80.66; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.2 / 8.9 / 9.1 / 8.6 / 8.3.
+- Categories: culture:9.4 history:9.1 photography:8.8.
+- Overall: 86.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/otavalo-plaza-de-ponchos](../../../countries/EC/sights/otavalo-plaza-de-ponchos.yaml) | 8.1 / 8.6 / 8.0 / 8.6 / 7.6 | impact: +0.1; uniqueness: +0.3 vs peer |
+| [EC/capilla-del-hombre](../../../countries/EC/sights/capilla-del-hombre.yaml) | 8.2 / 8.6 / 8.6 / 8.3 / 7.7 | impact: +0.0; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-jumandy-caves — Jumandy Caves Guided Underground Walk — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/jumandy-caves.yaml)
+- Action: new
+- Scope: Desk-based cave excursion near Archidona; excludes unapproved routes and flooding conditions; no current access verified.
+- Representative coordinates: -0.879, -77.79; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.1 / 8.7 / 8.2.
+- Categories: adventure:9.2 nature:9.0 photography:8.8.
+- Overall: 84.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/pailon-del-diablo](../../../countries/EC/sights/pailon-del-diablo.yaml) | 8.7 / 8.2 / 7.0 / 8.7 / 7.2 | impact: -0.2; uniqueness: +0.4 vs peer |
+| [EC/ruta-de-las-cascadas-banos](../../../countries/EC/sights/ruta-de-las-cascadas-banos.yaml) | 8.7 / 8.3 / 7.2 / 8.9 / 8.4 | impact: -0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-tena-jatunyacu-rafting — Tena Jatunyacu River Rafting — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/tena-jatunyacu-rafting.yaml)
+- Action: new
+- Scope: Desk-based distinct guided river adventure, approximate representative river area; no grade, river conditions or operator guarantee.
+- Representative coordinates: -1.02, -77.81; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.0 / 9.0 / 8.5.
+- Categories: adventure:9.4 nature:9.2 photography:9.0.
+- Overall: 85.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/ruta-de-las-cascadas-banos](../../../countries/EC/sights/ruta-de-las-cascadas-banos.yaml) | 8.7 / 8.3 / 7.2 / 8.9 / 8.4 | impact: +0.0; uniqueness: +0.3 vs peer |
+| [EC/cayambe-coca-national-park](../../../countries/EC/sights/cayambe-coca-national-park.yaml) | 9.1 / 9.0 / 9.2 / 8.7 / 9.1 | impact: -0.4; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 279 scope decisions
+
+14 additions, 11 source-linked provisional, 3 desk-based provisional, 6 90+, 40 ranking-row comparisons (12 international). EC 94 ranked / 95 total, +40 since baseline 55. UNESCO tentative list 15 entries checked (https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=ec): existing El Ángel, Chimborazo, Churute, Machalilla (4); named new scopes Puñay, Yacuviña, Zaruma, Puyango (4); partial mapping Manteño (Hojas Jaboncillo), Chocó Soundscape (Mashpi), trans-Andean train (Nariz del Diablo), Mayo Chinchipe (Santa Ana La Florida) (4); unresolved El Quimi, Ecuadorian Cacao Cultural Landscape and Galápagos extension (3). 12/15 at least partially mapped, not all serial components verified. El Quimi visitor scope and Galápagos extension boundaries deferred; cacao landscape needs distinct named public visitor scope. Qhapaq Ñan unassessed retained; all five inscribed properties represented per initial inventory, not remapped. Nariz del Diablo June 2026 resumption confirmed, no claim entire railway operates. Puerto López whale watching non-additive to overlapping Machalilla tours; Mashpi distinct from Mindo. Prior access and overlap deferrals retained. OPEN for regional sights and other public cultural experiences. Existing scores and one unassessed preserved. Coordinates approximate; schedules, permissions and safety unverified.

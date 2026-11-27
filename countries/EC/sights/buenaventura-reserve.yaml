@@ -1,0 +1,16 @@
+id: sight-ec-buenaventura-reserve
+name: "Buenaventura Cloud Forest Reserve Endemic Birding"
+location:
+  country_code: EC
+  latitude: -3.65
+  longitude: -79.76
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.0
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    photography: 9.3
