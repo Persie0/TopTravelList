@@ -1158,3 +1158,197 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-dz-tiddis-archaeological-site — Tiddis Archaeological Site — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/tiddis-archaeological-site.yaml)
+- Action: new
+- Precise subject and limitations: Hillside Roman and Numidian ruins, baths, forum and archaeological landscape; ministry overview https://www.mta.gov.dz/presentation-of-algeria/?lang=en confirms site. Current admission and paths subject to local conditions.
+- Location check: 36.462806, 6.483903; [published representative point](https://www.mikoflohr.org/data/places/tiddis/), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.tourismalgeria.com/tiddis.html); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [DZ/timgad](../../../countries/DZ/sights/timgad.yaml) | 9.3 / 9.4 / 9.5 / 9.1 / 9.0 | impact: -0.6 vs peer; uniqueness: -0.6 vs peer. |
+| [DZ/djemila](../../../countries/DZ/sights/djemila.yaml) | 9.4 / 9.3 / 9.4 / 9.1 / 9.0 | impact: -0.7 vs peer; experience: -0.6 vs peer. |
+| [DZ/hippo-regius](../../../countries/DZ/sights/hippo-regius.yaml) | 8.5 / 8.6 / 9.2 / 8.2 / 8.3 | experience: +0.3 vs peer; significance: -0.3 vs peer. |
+| [TN/bulla-regia](../../../countries/TN/sights/bulla-regia.yaml) | 8.8 / 9.2 / 9.1 / 8.7 / 8.4 | uniqueness: -0.4 vs peer; significance: -0.2 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Hillside ruins and landscape. |
+| Uniqueness | 8.8 | Distinct steep ancient settlement. |
+| Significance | 8.9 | Substantial Numidian and Roman heritage. |
+| Experience | 8.5 | Archaeological walk. |
+| Depth | 8.4 | Multiple surviving features. |
+
+- Applicable categories: history:9.2, architecture:8.9, photography:9.1.
+- Computed worldwide overall: 87.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-cherchell-archaeological-museum — Cherchell Archaeological Museum — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/cherchell-archaeological-museum.yaml)
+- Action: new
+- Precise subject and limitations: Museum galleries and sculpture collections of ancient Caesarea; excludes scattered ruins, military grounds and other museums. Verify current hours.
+- Location check: 36.59799, 2.20142; [published representative point](https://mapcarta.com/N4832565326), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://cartes.patrimoineculturelalgerien.org/fr/lieu/42-tipaza/986); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [DZ/cirta-national-museum](../../../countries/DZ/sights/cirta-national-museum.yaml) | 8.2 / 8.5 / 8.9 / 8.5 / 8.6 | uniqueness: +0.3 vs peer; impact: +0.2 vs peer. |
+| [DZ/bardo-national-museum](../../../countries/DZ/sights/bardo-national-museum.yaml) | 8.4 / 8.8 / 9.0 / 8.5 / 8.7 | depth: -0.1 vs peer; impact: 0.0 vs peer. |
+| [TN/bardo-national-museum](../../../countries/TN/sights/bardo-national-museum.yaml) | 9.1 / 9.3 / 9.4 / 9.0 / 9.1 | impact: -0.7 vs peer; uniqueness: -0.5 vs peer. |
+| [TN/el-jem-archaeological-museum](../../../countries/TN/sights/el-jem-archaeological-museum.yaml) | 8.7 / 8.9 / 8.9 / 8.8 / 8.6 | experience: -0.3 vs peer; impact: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.4 | Notable sculpture collections. |
+| Uniqueness | 8.8 | Distinct ancient Caesarea exhibits. |
+| Significance | 9.0 | Important regional antiquities. |
+| Experience | 8.5 | Indoor interpretive experience. |
+| Depth | 8.6 | Multiple chronological galleries. |
+
+- Applicable categories: history:9.3, culture:9.2, architecture:8.4.
+- Computed worldwide overall: 86.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-oran-historic-centre — Oran Historic Centre and Sidi El Houari — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/oran-historic-centre.yaml)
+- Action: new
+- Precise subject and limitations: Public historic district streets, Place du 1er Novembre and architectural exteriors. Excludes separately rated Santa Cruz hilltop complex, restricted buildings and unsafe fabric. Representative central square point; see https://www.directionlalgerie.com/lieux/sidi-el-houari-vieille-ville.
+- Location check: 35.70324, -0.64926; [published representative point](https://mapcarta.com/W368976898), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://capsurdzair.com/destinations/oran/); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [DZ/kasbah-algiers](../../../countries/DZ/sights/kasbah-algiers.yaml) | 9.1 / 9.2 / 9.3 / 8.7 / 9.0 | uniqueness: -0.7 vs peer; impact: -0.5 vs peer. |
+| [TN/medina-tunis](../../../countries/TN/sights/medina-tunis.yaml) | 9.1 / 9.1 / 9.3 / 9.0 / 9.2 | depth: -0.7 vs peer; uniqueness: -0.6 vs peer. |
+| [TN/medina-sousse](../../../countries/TN/sights/medina-sousse.yaml) | 8.8 / 8.7 / 9.0 / 8.7 / 8.5 | impact: -0.2 vs peer; uniqueness: -0.2 vs peer. |
+| [TN/bizerte-medina-old-port](../../../countries/TN/sights/bizerte-medina-old-port.yaml) | 8.5 / 8.3 / 8.4 / 8.7 / 8.2 | significance: +0.4 vs peer; depth: +0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.6 | Varied historic townscape. |
+| Uniqueness | 8.5 | Distinct layered coastal urban fabric. |
+| Significance | 8.8 | Important regional cultural heritage. |
+| Experience | 8.6 | Public urban walking experience. |
+| Depth | 8.5 | Multiple historic streets and landmarks. |
+
+- Applicable categories: architecture:9.1, history:9.1, culture:8.9, photography:9.0.
+- Computed worldwide overall: 86.05/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-chrea-national-park — Chréa National Park — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/chrea-national-park.yaml)
+- Action: new
+- Precise subject and limitations: Atlas cedar forest, mountain landscape, permitted recreation and wildlife observation; visitor overview https://www.algeria.com/attractions/national-parks/chrea-national-park/. No guaranteed macaque sightings, snow or open trails.
+- Location check: 36.4059, 2.8291; [published representative point](https://mapcarta.com/W313971146), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://www.unesco.org/en/mab/chrea); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [DZ/djurdjura-national-park](../../../countries/DZ/sights/djurdjura-national-park.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 8.8 | uniqueness: -0.3 vs peer; impact: -0.2 vs peer. |
+| [DZ/gouraya-national-park](../../../countries/DZ/sights/gouraya-national-park.yaml) | 8.5 / 8.1 / 8.2 / 8.4 / 8.2 | significance: +0.6 vs peer; depth: +0.5 vs peer. |
+| [TN/ichkeul-national-park](../../../countries/TN/sights/ichkeul-national-park.yaml) | 8.5 / 8.9 / 9.1 / 8.2 / 8.1 | depth: +0.6 vs peer; uniqueness: -0.4 vs peer. |
+| [DZ/ahaggar-mountains](../../../countries/DZ/sights/ahaggar-mountains.yaml) | 9.5 / 9.3 / 8.9 / 8.8 / 9.0 | impact: -0.8 vs peer; uniqueness: -0.8 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.7 | Mountain forest and vistas. |
+| Uniqueness | 8.5 | Distinct Atlas cedar ecosystem. |
+| Significance | 8.8 | Important protected biodiversity. |
+| Experience | 8.6 | Nature walks in permitted areas. |
+| Depth | 8.7 | Extensive forest and elevation zones. |
+
+- Applicable categories: nature:9.2, wildlife:9.0, photography:9.0, adventure:8.8.
+- Computed worldwide overall: 86.55/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.
+
+
+## sight-dz-el-ourit-waterfalls — El Ourit Waterfalls and Gorge — 2026-11-27
+
+- YAML: [source](../../../countries/DZ/sights/el-ourit-waterfalls.yaml)
+- Action: new
+- Precise subject and limitations: Waterfall and scenic gorge viewpoint, part of Tlemcen National Park; distinct from Beni Add Cave and Lalla Setti. Seasonal water flow, safe permitted viewpoints only; no railway bridge access or guaranteed cascade flow.
+- Location check: 34.86263, -1.26716; [published representative point](https://mapcarta.com/N3845394183), inspected 2026-11-27; not entrance coordinates.
+- Evidence status: **source-linked-unverified**
+- Visitor evidence: [primary reference](https://dta-tlemcen.dz/catalogue_detail.php?id=85&lg=fr&r=les_cascades_d_el_ourit); source or excerpt inspected 2026-11-27. Sources support factual scope, not ratings.
+- Missing or uncertain facts: current individual access and independent claim-level corroboration.
+
+#### Worldwide peer comparisons
+
+| Peer | Current ranking dimensions (I/U/S/E/D) | Relative comparison |
+| --- | --- | --- |
+| [DZ/rhoufi-oued-labiod](../../../countries/DZ/sights/rhoufi-oued-labiod.yaml) | 9.0 / 9.1 / 8.7 / 8.4 / 8.4 | significance: -1.2 vs peer; uniqueness: -1.1 vs peer. |
+| [DZ/lalla-setti-viewpoint](../../../countries/DZ/sights/lalla-setti-viewpoint.yaml) | 8.5 / 7.9 / 7.5 / 8.5 / 7.8 | experience: -0.5 vs peer; impact: -0.2 vs peer. |
+| [TN/tabarka-needles](../../../countries/TN/sights/tabarka-needles.yaml) | 8.7 / 8.4 / 7.7 / 8.5 / 7.8 | experience: -0.5 vs peer; uniqueness: -0.4 vs peer. |
+| [TN/korbous-ain-atrous](../../../countries/TN/sights/korbous-ain-atrous.yaml) | 8.3 / 8.5 / 7.5 / 8.3 / 7.8 | uniqueness: -0.5 vs peer; experience: -0.3 vs peer. |
+
+Peer links and dimensions matched to current ranking rows; individual YAML checks pending.
+
+#### Scoring decisions
+
+| Field | Rating | Justification |
+| --- | ---: | --- |
+| Impact | 8.3 | Scenic cascade and rocky valley when flowing. |
+| Uniqueness | 8.0 | Regional gorge setting. |
+| Significance | 7.5 | Local natural heritage. |
+| Experience | 8.0 | Season-dependent outdoor visit. |
+| Depth | 7.7 | Compact viewpoint and cascade. |
+
+- Applicable categories: nature:8.8, photography:9.0, relaxation:8.3.
+- Computed worldwide overall: 79.60/100.
+- High-score challenge: below 90 overall; no 9.5+ fields.
+- Approved 10 registry: none.
+- Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
+- Verification still needed: independent corroboration and current access.

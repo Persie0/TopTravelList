@@ -716,3 +716,13 @@ Ten additions, 40 peer rows. Algeria 25 ranked / 35 total; ten prior unassessed 
 - [x] DZ — Lalla Setti Plateau and Viewpoint: 80.80/100 (source-linked-unverified).
 
 Seven additions, 28 peer rows. Algeria 32 ranked / 42 total; ten prior unassessed unchanged. Tadrart Rouge deferred as potential overlap with broad rated Tassili n’Ajjer sandstone/rock-art landscape, despite separately marketed 4x4 circuit (https://www.dalil.travel/en/sahara/djanet). Royal Mausoleum distinct from coastal Tipasa ruins but UNESCO serial component; unassessed royal mausoleum aggregate preserved. Annaba basilica separated from ruins; unassessed Augustinian route preserved. Timimoun town core excludes Ighzer. Next bounded regional screen: Tiddis archaeological site, Cherchell museum, Oran historic center, Bejaia Cap Carbon (check Gouraya scope), Chréa National Park and El Ourit waterfalls. Full Python validation, current access and independent corroboration pending.
+
+### Pass 65 — Algerian regional archaeology and nature, current queue closure
+
+- [x] DZ — Tiddis Archaeological Site: 87.05/100 (source-linked-unverified).
+- [x] DZ — Cherchell Archaeological Museum: 86.55/100 (source-linked-unverified).
+- [x] DZ — Oran Historic Centre and Sidi El Houari: 86.05/100 (source-linked-unverified).
+- [x] DZ — Chréa National Park: 86.55/100 (source-linked-unverified).
+- [x] DZ — El Ourit Waterfalls and Gorge: 79.60/100 (source-linked-unverified).
+
+Five additions, 20 peer rows. Algeria 37 ranked / 47 total; 22 additions across passes 63–65; ten prior unassessed unchanged. Cap Carbon explicitly lies within already rated Gouraya National Park (https://www.directionlalgerie.com/lieux/parc-national-de-gouraya); no separate duplicate. Tadrart Rouge remains deferred for possible overlap. El Ourit seasonal, Chréa wildlife not guaranteed. Current named high-priority discovery queue exhausted; mark done for this bounded queue, not exhaustive national coverage. Rotate to Morocco after checking its existing inventory. Full Python validation and independent corroboration pending.
