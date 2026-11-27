@@ -1,0 +1,16 @@
+id: sight-ec-el-morro-mangrove-refuge
+name: "Manglares El Morro Wildlife Refuge Estuary Boat Tours"
+location:
+  country_code: EC
+  latitude: -2.63
+  longitude: -80.3
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 8.7
+  depth: 8.3
+  categories:
+    wildlife: 9.2
+    nature: 9.1
+    photography: 9.0

@@ -4919,3 +4919,23 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] EC — Latacunga Historic Centre: 82.65/100 (desk-based provisional).
 
 11 additions, 10 source-linked provisional, 1 desk-based provisional, 8 90+, 38 ranking-row comparisons (16 international). EC 65 ranked / 66 total, +11 since baseline 55. Existing five inscribed World Heritage properties represented per initial inventory (Qhapaq Ñan unassessed); not independently remapped. Festivals scoped to public programmes and distinguished from permanent heritage. Esmeraldas public performances distinct from the UNESCO shared tradition as a whole; no future event guaranteed. Cotacachi excludes private and confrontational activities. Existing scores and one unassessed preserved. OPEN for natural parks, Galápagos visitor sites, archaeology, crafts and tentative properties. Coordinates approximate; schedules, permissions and current safety unverified.
+
+### Pass 278 — Ecuador Galápagos wildlife and mainland protected areas
+
+- [x] EC — Darwin and Wolf Islands Liveaboard Diving Circuit: 94.10/100 (source-linked-unverified).
+- [x] EC — Fernandina Island Punta Espinosa Wildlife Landing: 91.60/100 (source-linked-unverified).
+- [x] EC — Genovesa Island Darwin Bay and Prince Philip's Steps Birding: 91.20/100 (source-linked-unverified).
+- [x] EC — North Seymour Island Frigatebird and Booby Visitor Trail: 90.40/100 (source-linked-unverified).
+- [x] EC — Cayambe Coca National Park Highland Volcano and Forest Routes: 90.35/100 (source-linked-unverified).
+- [x] EC — Floreana Island Post Office Bay and Cormorant Point Visitor Circuit: 89.50/100 (source-linked-unverified).
+- [x] EC — Punta Vicente Roca Isabela Coastal Snorkeling and Boat Viewing: 89.35/100 (source-linked-unverified).
+- [x] EC — Santiago Island Sullivan Bay Lava and James Bay Wildlife Landings: 88.70/100 (source-linked-unverified).
+- [x] EC — Rábida Island Red Beach Wildlife Visitor Site: 87.30/100 (source-linked-unverified).
+- [x] EC — Los Ilinizas Twin Peaks and Highland Mountaineering Routes: 86.65/100 (desk-based provisional).
+- [x] EC — Pululahua Geobotanical Reserve Inhabited Volcanic Caldera: 86.40/100 (desk-based provisional).
+- [x] EC — Yacuri National Park Highland Lakes and Páramo Trails: 86.30/100 (source-linked-unverified).
+- [x] EC — Manglares El Morro Wildlife Refuge Estuary Boat Tours: 85.05/100 (desk-based provisional).
+- [x] EC — Pasochoa Wildlife Refuge Andean Forest and Crater Trails: 83.80/100 (desk-based provisional).
+- [x] EC — El Boliche National Recreation Area Forest Trails: 79.80/100 (desk-based provisional).
+
+15 additions, 10 source-linked provisional, 5 desk-based provisional, 5 90+, 40 ranking-row comparisons (10 international). EC 80 ranked / 81 total, +26 since baseline 55. Existing five inscribed World Heritage properties represented per initial inventory (Qhapaq Ñan unassessed); not independently remapped. Darwin/Wolf grouped; island circuits and marine sites non-additive to Galápagos umbrella. Cayambe Coca excludes Papallacta hot springs; Ilinizas peaks exclude Quilotoa. Cotacachi-Cayapas park-wide entry deferred because existing Cuicocha is its principal visitor site; screen distinct lower-zone route and permissions. Río Negro Sopladora deferred pending documented visitor scope. Existing scores and one unassessed preserved. OPEN for mainland nature, archaeology, crafts, tentative properties and further distinct visitor routes. Coordinates approximate; schedules, permissions and current safety unverified.

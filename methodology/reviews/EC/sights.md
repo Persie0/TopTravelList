@@ -1413,3 +1413,319 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 277 scope decisions
 
 11 additions, 10 source-linked provisional, 1 desk-based provisional, 8 90+, 38 ranking-row comparisons (16 international). EC 65 ranked / 66 total, +11 since baseline 55. Existing five inscribed World Heritage properties represented per initial inventory (Qhapaq Ñan unassessed); not independently remapped. Festivals scoped to public programmes and distinguished from permanent heritage. Esmeraldas public performances distinct from the UNESCO shared tradition as a whole; no future event guaranteed. Cotacachi excludes private and confrontational activities. Existing scores and one unassessed preserved. OPEN for natural parks, Galápagos visitor sites, archaeology, crafts and tentative properties. Coordinates approximate; schedules, permissions and current safety unverified.
+
+
+## sight-ec-darwin-wolf-liveaboard-diving — Darwin and Wolf Islands Liveaboard Diving Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/darwin-wolf-liveaboard-diving.yaml)
+- Action: new
+- Scope: Grouped northern marine circuit: Charles Darwin Foundation identifies seven-day liveaboard access; Galapagos Conservation Trust documents aggregations of hammerheads and challenging currents. No land access or wildlife sightings guaranteed. For suitably experienced certified divers only; non-additive to Galápagos property.
+- Representative coordinates: 1.38, -91.82; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.6 / 9.7 / 9.3 / 8.9 / 9.1.
+- Categories: wildlife:9.8 nature:9.6 adventure:9.5 photography:9.4.
+- Overall: 94.10/100.
+- Source: https://www.darwinfoundation.org/en/visit-galapagos/
+- Source: https://galapagosconservation.org.uk/about-galapagos/travelling-responsibly/
+- Source: https://www.galapagos.org/about_galapagos/the-islands/darwin-island/
+- Source: https://www.galapagos.org/about_galapagos/the-islands/wolf-island/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive authorized wildlife or landscape experience; limitations in experience and depth reflect the defined itinerary, not temporary closures. 9.6 impact and 9.7 uniqueness reflect exceptional shark aggregations; wildlife 9.8, nature 9.6 and adventure 9.5 reflect pelagic biodiversity and demanding remote diving; compared against Malpelo, lower significance but stronger grouped diving depth. No 10s. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/kicker-rock-leon-dormido](../../../countries/EC/sights/kicker-rock-leon-dormido.yaml) | 9.1 / 9.1 / 8.3 / 9.0 / 7.2 | impact: +0.5; uniqueness: +0.6 vs peer |
+| [EC/los-tuneles-isabela](../../../countries/EC/sights/los-tuneles-isabela.yaml) | 9.0 / 9.2 / 8.4 / 9.0 / 7.5 | impact: +0.6; uniqueness: +0.5 vs peer |
+| [CO/malpelo-fauna-and-flora-sanctuary](../../../countries/CO/sights/malpelo-fauna-and-flora-sanctuary.yaml) | 9.3 / 9.5 / 9.6 / 8.2 / 8.2 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [BR/fernando-de-noronha-authorized-island-visitor-sites](../../../countries/BR/sights/fernando-de-noronha-authorized-island-visitor-sites.yaml) | 9.4 / 9.3 / 9.1 / 9.1 / 8.9 | impact: +0.2; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-fernandina-punta-espinosa — Fernandina Island Punta Espinosa Wildlife Landing — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/fernandina-punta-espinosa.yaml)
+- Action: new
+- Scope: Galápagos Conservancy identifies Punta Espinosa visitor site and endemic flightless cormorant range on Fernandina and Isabela; distinct lava coast and marine iguanas. Authorized landing only, no entire island or volcano access.
+- Representative coordinates: -0.27, -91.44; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.1 / 9.0 / 8.5.
+- Categories: wildlife:9.6 nature:9.4 photography:9.4.
+- Overall: 91.60/100.
+- Source: https://www.galapagos.org/about_galapagos/the-islands/fernandina-island/
+- Source: https://www.galapagos.org/newsroom/the-worlds-only-flightless-cormorant-is-endemic-to-the-galapagos/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive authorized wildlife or landscape experience; limitations in experience and depth reflect the defined itinerary, not temporary closures. Wildlife 9.5+ reflects documented concentrated seabird or endemic wildlife viewing; no guaranteed sightings. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/espanola-island-visitor-sites](../../../countries/EC/sights/espanola-island-visitor-sites.yaml) | 9.2 / 9.3 / 9.3 / 8.9 / 8.3 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [EC/bartolome-island-visitor-site](../../../countries/EC/sights/bartolome-island-visitor-site.yaml) | 9.1 / 8.9 / 8.2 / 8.8 / 7.5 | impact: +0.2; uniqueness: +0.5 vs peer |
+| [BR/fernando-de-noronha-authorized-island-visitor-sites](../../../countries/BR/sights/fernando-de-noronha-authorized-island-visitor-sites.yaml) | 9.4 / 9.3 / 9.1 / 9.1 / 8.9 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.7; uniqueness: +0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-genovesa-visitor-sites — Genovesa Island Darwin Bay and Prince Philip's Steps Birding — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/genovesa-visitor-sites.yaml)
+- Action: new
+- Scope: Conservancy documents two named terrestrial visitor routes in the horseshoe-shaped island; grouped for nesting seabird diversity and coastal cliffs; no nesting sightings guaranteed.
+- Representative coordinates: 0.32, -89.96; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.0 / 9.1 / 8.7.
+- Categories: wildlife:9.5 nature:9.4 photography:9.4.
+- Overall: 91.20/100.
+- Source: https://www.galapagos.org/about_galapagos/the-islands/genovesa-island/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive authorized wildlife or landscape experience; limitations in experience and depth reflect the defined itinerary, not temporary closures. Wildlife 9.5+ reflects documented concentrated seabird or endemic wildlife viewing; no guaranteed sightings. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/espanola-island-visitor-sites](../../../countries/EC/sights/espanola-island-visitor-sites.yaml) | 9.2 / 9.3 / 9.3 / 8.9 / 8.3 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [EC/bartolome-island-visitor-site](../../../countries/EC/sights/bartolome-island-visitor-site.yaml) | 9.1 / 8.9 / 8.2 / 8.8 / 7.5 | impact: +0.1; uniqueness: +0.4 vs peer |
+| [BR/fernando-de-noronha-authorized-island-visitor-sites](../../../countries/BR/sights/fernando-de-noronha-authorized-island-visitor-sites.yaml) | 9.4 / 9.3 / 9.1 / 9.1 / 8.9 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.6; uniqueness: +0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-north-seymour-visitor-site — North Seymour Island Frigatebird and Booby Visitor Trail — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/north-seymour-visitor-site.yaml)
+- Action: new
+- Scope: Conservancy documents loop trails, magnificent frigatebird colony, blue-footed boobies and land iguanas. Distinct island visit; no guaranteed display or nesting season.
+- Representative coordinates: -0.398, -90.286; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.0 / 9.2 / 9.0 / 9.2 / 8.6.
+- Categories: wildlife:9.5 nature:9.3 photography:9.4.
+- Overall: 90.40/100.
+- Source: https://www.galapagos.org/about_galapagos/the-islands/north-seymour-island/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive authorized wildlife or landscape experience; limitations in experience and depth reflect the defined itinerary, not temporary closures. Wildlife 9.5+ reflects documented concentrated seabird or endemic wildlife viewing; no guaranteed sightings. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/espanola-island-visitor-sites](../../../countries/EC/sights/espanola-island-visitor-sites.yaml) | 9.2 / 9.3 / 9.3 / 8.9 / 8.3 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [EC/bartolome-island-visitor-site](../../../countries/EC/sights/bartolome-island-visitor-site.yaml) | 9.1 / 8.9 / 8.2 / 8.8 / 7.5 | impact: -0.1; uniqueness: +0.3 vs peer |
+| [BR/fernando-de-noronha-authorized-island-visitor-sites](../../../countries/BR/sights/fernando-de-noronha-authorized-island-visitor-sites.yaml) | 9.4 / 9.3 / 9.1 / 9.1 / 8.9 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [PE/ballestas-islands](../../../countries/PE/sights/ballestas-islands.yaml) | 8.6 / 8.7 / 8.3 / 8.7 / 7.3 | impact: +0.4; uniqueness: +0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-cayambe-coca-national-park — Cayambe Coca National Park Highland Volcano and Forest Routes — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/cayambe-coca-national-park.yaml)
+- Action: new
+- Scope: Provincial tourism describes snow-covered Cayambe and varied mountain ecosystems; park scope authorized highland and forest routes, excludes existing Papallacta Hot Springs and vanished historical San Rafael waterfall. No summit or eruption access claim.
+- Representative coordinates: 0.03, -78; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.2 / 8.7 / 9.1.
+- Categories: nature:9.4 adventure:9.3 photography:9.4 wildlife:9.2.
+- Overall: 90.35/100.
+- Source: https://pichinchaesturismo.com/en-ec/pichincha/cayambe/parques-nacionales/cayambe-coca-national-park-aqkvlx3su
+- Source: https://www.ambienteyenergia.gob.ec/ambiente/los-parques-nacionales-un-simbolo-de-riqueza-natural-del-ecuador/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: distinctive authorized wildlife or landscape experience; limitations in experience and depth reflect the defined itinerary, not temporary closures. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/cotopaxi-national-park](../../../countries/EC/sights/cotopaxi-national-park.yaml) | 9.4 / 9.0 / 8.7 / 9.0 / 8.9 | impact: -0.3; uniqueness: +0.0 vs peer |
+| [EC/sangay-national-park](../../../countries/EC/sights/sangay-national-park.yaml) | 9.1 / 9.2 / 9.5 / 8.0 / 8.9 | impact: +0.0; uniqueness: -0.2 vs peer |
+| [CO/tatama-montezuma](../../../countries/CO/sights/tatama-montezuma.yaml) | 9.1 / 9.3 / 9.2 / 8.8 / 9.1 | impact: +0.0; uniqueness: -0.3 vs peer |
+| [PE/bahuaja-sonene](../../../countries/PE/sights/bahuaja-sonene.yaml) | 9.3 / 9.3 / 9.4 / 8.7 / 9.3 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-punta-vicente-roca — Punta Vicente Roca Isabela Coastal Snorkeling and Boat Viewing — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/punta-vicente-roca.yaml)
+- Action: new
+- Scope: Conservancy and IGTOA document marine visitor site and volcanic coves. Non-additive to broader Isabela itinerary; no guaranteed wildlife sightings or landing.
+- Representative coordinates: -0.045, -91.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.1 / 8.7 / 9.0 / 8.4.
+- Categories: wildlife:9.4 nature:9.3 photography:9.3 adventure:9.1.
+- Overall: 89.35/100.
+- Source: https://www.galapagos.org/about_galapagos/the-islands/isabela-island/
+- Source: https://www.igtoa.org/travel_guide/islands/
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/los-tuneles-isabela](../../../countries/EC/sights/los-tuneles-isabela.yaml) | 9.0 / 9.2 / 8.4 / 9.0 / 7.5 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [EC/kicker-rock-leon-dormido](../../../countries/EC/sights/kicker-rock-leon-dormido.yaml) | 9.1 / 9.1 / 8.3 / 9.0 / 7.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-floreana-visitor-circuit — Floreana Island Post Office Bay and Cormorant Point Visitor Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/floreana-visitor-circuit.yaml)
+- Action: new
+- Scope: Conservancy documents historic post office and contrasting Cormorant Point beaches. Group named landings, not island-wide access or entire marine itinerary.
+- Representative coordinates: -1.23, -90.44; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.8 / 9.1 / 9.1 / 8.9 / 8.8.
+- Categories: wildlife:9.3 history:9.2 nature:9.2 photography:9.2.
+- Overall: 89.50/100.
+- Source: https://www.galapagos.org/about_galapagos/the-islands/floreana-island/
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/espanola-island-visitor-sites](../../../countries/EC/sights/espanola-island-visitor-sites.yaml) | 9.2 / 9.3 / 9.3 / 8.9 / 8.3 | impact: -0.4; uniqueness: -0.2 vs peer |
+| [EC/bartolome-island-visitor-site](../../../countries/EC/sights/bartolome-island-visitor-site.yaml) | 9.1 / 8.9 / 8.2 / 8.8 / 7.5 | impact: -0.3; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-santiago-sullivan-james-bay — Santiago Island Sullivan Bay Lava and James Bay Wildlife Landings — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/santiago-sullivan-james-bay.yaml)
+- Action: new
+- Scope: Conservancy names Sullivan Bay and James Bay as distinct visitor sites; group them in a single island circuit. Excludes existing Bartolomé Island landing across the bay.
+- Representative coordinates: -0.28, -90.58; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.8 / 8.9 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 photography:9.3.
+- Overall: 88.70/100.
+- Source: https://www.galapagos.org/about_galapagos/the-islands/santiago-island/
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/bartolome-island-visitor-site](../../../countries/EC/sights/bartolome-island-visitor-site.yaml) | 9.1 / 8.9 / 8.2 / 8.8 / 7.5 | impact: -0.2; uniqueness: +0.0 vs peer |
+| [EC/sierra-negra-volcano](../../../countries/EC/sights/sierra-negra-volcano.yaml) | 9.1 / 9.1 / 8.8 / 8.8 / 8.3 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-rabida-island-visitor-site — Rábida Island Red Beach Wildlife Visitor Site — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/rabida-island-visitor-site.yaml)
+- Action: new
+- Scope: Conservancy documents lone terrestrial visitor site on red beach and nearby seabirds. Distinct from other islands; no promised species sightings.
+- Representative coordinates: -0.407, -90.708; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.9 / 9.0 / 8.4 / 8.8 / 8.1.
+- Categories: photography:9.4 nature:9.2 wildlife:9.1.
+- Overall: 87.30/100.
+- Source: https://www.galapagos.org/about_galapagos/the-islands/rabida-island/
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/tortuga-bay](../../../countries/EC/sights/tortuga-bay.yaml) | 8.9 / 8.9 / 8.0 / 9.1 / 7.8 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [EC/bartolome-island-visitor-site](../../../countries/EC/sights/bartolome-island-visitor-site.yaml) | 9.1 / 8.9 / 8.2 / 8.8 / 7.5 | impact: -0.2; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-yacuri-national-park — Yacuri National Park Highland Lakes and Páramo Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/yacuri-national-park.yaml)
+- Action: new
+- Scope: Municipal Chinchipe visitor inventory identifies park with lakes and other attractions; scope authorized highland lake trails, no exact access or trail condition verified.
+- Representative coordinates: -4.68, -79.43; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.8 / 8.4 / 8.5.
+- Categories: nature:9.3 photography:9.2 adventure:8.9.
+- Overall: 86.30/100.
+- Source: https://gadchinchipe.gob.ec/sitios-turisticos/
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/cajas-national-park](../../../countries/EC/sights/cajas-national-park.yaml) | 8.9 / 8.8 / 8.7 / 8.8 / 8.8 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [EC/el-angel-ecological-reserve](../../../countries/EC/sights/el-angel-ecological-reserve.yaml) | 8.5 / 8.8 / 8.6 / 8.3 / 7.9 | impact: +0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-pululahua-geobotanical-reserve — Pululahua Geobotanical Reserve Inhabited Volcanic Caldera — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/pululahua-geobotanical-reserve.yaml)
+- Action: new
+- Scope: Desk-based caldera viewpoint and permitted trails; excludes nearby Mitad del Mundo monument and private farmland. No road or trail availability asserted.
+- Representative coordinates: 0.035, -78.484; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.4 / 8.6 / 8.3.
+- Categories: nature:9.2 photography:9.3 adventure:8.8.
+- Overall: 86.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/quilotoa-crater-lake](../../../countries/EC/sights/quilotoa-crater-lake.yaml) | 9.4 / 9.0 / 8.1 / 9.0 / 7.9 | impact: -0.6; uniqueness: -0.2 vs peer |
+| [EC/cuicocha-crater-lake](../../../countries/EC/sights/cuicocha-crater-lake.yaml) | 8.8 / 8.7 / 7.8 / 8.7 / 7.8 | impact: +0.0; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-iliniza-peaks — Los Ilinizas Twin Peaks and Highland Mountaineering Routes — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/iliniza-peaks.yaml)
+- Action: new
+- Scope: Desk-based twin peaks and authorized mountain routes, excludes existing Quilotoa lake within broader reserve. No climbing conditions or summit access guarantee.
+- Representative coordinates: -0.66, -78.72; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.5 / 8.3 / 8.5.
+- Categories: adventure:9.3 nature:9.2 photography:9.3.
+- Overall: 86.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/chimborazo-fauna-production-reserve](../../../countries/EC/sights/chimborazo-fauna-production-reserve.yaml) | 9.3 / 9.3 / 8.9 / 8.6 / 8.4 | impact: -0.4; uniqueness: -0.5 vs peer |
+| [EC/cotopaxi-national-park](../../../countries/EC/sights/cotopaxi-national-park.yaml) | 9.4 / 9.0 / 8.7 / 9.0 / 8.9 | impact: -0.5; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-pasochoa-wildlife-refuge — Pasochoa Wildlife Refuge Andean Forest and Crater Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/pasochoa-wildlife-refuge.yaml)
+- Action: new
+- Scope: Desk-based volcanic crater forest refuge and marked routes, no independent access verification.
+- Representative coordinates: -0.42, -78.48; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.3 / 8.6 / 8.4.
+- Categories: nature:9.0 wildlife:8.9 adventure:8.8.
+- Overall: 83.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/mindo-cloud-forest](../../../countries/EC/sights/mindo-cloud-forest.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [EC/el-angel-ecological-reserve](../../../countries/EC/sights/el-angel-ecological-reserve.yaml) | 8.5 / 8.8 / 8.6 / 8.3 / 7.9 | impact: -0.2; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-el-boliche-recreation-area — El Boliche National Recreation Area Forest Trails — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/el-boliche-recreation-area.yaml)
+- Action: new
+- Scope: Desk-based distinct forest recreation area, no railway operation assumed; excludes adjacent Cotopaxi National Park.
+- Representative coordinates: -0.62, -78.58; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 7.9 / 7.9 / 7.8 / 8.5 / 8.0.
+- Categories: nature:8.7 family:8.8 relaxation:8.6.
+- Overall: 79.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/cajas-national-park](../../../countries/EC/sights/cajas-national-park.yaml) | 8.9 / 8.8 / 8.7 / 8.8 / 8.8 | impact: -1.0; uniqueness: -0.9 vs peer |
+| [EC/mindo-cloud-forest](../../../countries/EC/sights/mindo-cloud-forest.yaml) | 8.7 / 8.8 / 8.6 / 9.0 / 8.8 | impact: -0.8; uniqueness: -0.9 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-ec-el-morro-mangrove-refuge — Manglares El Morro Wildlife Refuge Estuary Boat Tours — 2026-11-27
+
+- YAML: [source](../../../countries/EC/sights/el-morro-mangrove-refuge.yaml)
+- Action: new
+- Scope: Desk-based distinct estuary and mangrove boat experience, no guarantee of dolphin or seabird encounters; separate from Manglares Churute.
+- Representative coordinates: -2.63, -80.3; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.5 / 8.7 / 8.3.
+- Categories: wildlife:9.2 nature:9.1 photography:9.0.
+- Overall: 85.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 10 fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [EC/manglares-churute-ecological-reserve](../../../countries/EC/sights/manglares-churute-ecological-reserve.yaml) | 8.1 / 8.3 / 8.5 / 8.1 / 7.8 | impact: +0.3; uniqueness: +0.3 vs peer |
+| [EC/isla-de-la-plata](../../../countries/EC/sights/isla-de-la-plata.yaml) | 8.5 / 8.5 / 8.2 / 8.6 / 7.7 | impact: -0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 278 scope decisions
+
+15 additions, 10 source-linked provisional, 5 desk-based provisional, 5 90+, 40 ranking-row comparisons (10 international). EC 80 ranked / 81 total, +26 since baseline 55. Existing five inscribed World Heritage properties represented per initial inventory (Qhapaq Ñan unassessed); not independently remapped. Darwin/Wolf grouped; island circuits and marine sites non-additive to Galápagos umbrella. Cayambe Coca excludes Papallacta hot springs; Ilinizas peaks exclude Quilotoa. Cotacachi-Cayapas park-wide entry deferred because existing Cuicocha is its principal visitor site; screen distinct lower-zone route and permissions. Río Negro Sopladora deferred pending documented visitor scope. Existing scores and one unassessed preserved. OPEN for mainland nature, archaeology, crafts, tentative properties and further distinct visitor routes. Coordinates approximate; schedules, permissions and current safety unverified.
