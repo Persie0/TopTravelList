@@ -1,0 +1,16 @@
+id: sight-py-asuncion-national-fine-arts-museum
+name: "Asunción National Museum of Fine Arts"
+location:
+  country_code: PY
+  latitude: -25.29
+  longitude: -57.63
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 8.3
+  depth: 8.4
+  categories:
+    culture: 9.2
+    history: 9.0
+    photography: 8.5

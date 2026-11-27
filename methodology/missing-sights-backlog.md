@@ -5152,3 +5152,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PY — Atyrá Historic Town Church and Artisan Shops: 82.50/100 (desk-based provisional).
 
 13 additions, 10 source-linked provisional, 3 desk-based provisional, 4 90+, 34 ranking-row comparisons (8 international). PY 75 ranked / 78 total, +26 since baseline 52. Prior 1 inscribed property (2 components) and 12 tentative represented; no new serial mapping. MADES December 18 2025 temporary suspension affects Defensores del Chaco, Teniente Enciso and Cerro Kõi/Chororĩ; Ybycuí museum and old foundry area closed from January 6 2026 (https://www.mades.gov.py/2025/12/18/suspension-de-visitas-en-parques-nacionales-por-trabajos-de-puesta-en-valor/). Reopening not verified, intrinsic scores unchanged; prior La Rosada entry flagged. Sanjuanazo limited to named municipal programme, fire games excluded as participation; Kamba Kua consenting public performances. Puerto Bertoni scientific monument distinct from Mbaracayú; tourism directory conflates museum location, prefer MADES. Morombí private reserve deferred pending specific visitor permission. Existing scores and three unassessed preserved. OPEN for other regional heritage and protected-area scopes. Coordinates approximate; permissions, future schedules and access unverified.
+
+### Pass 291 — Paraguay community tourism, festivals and Misiones heritage
+
+- [x] PY — San Ignacio Tañarandy Holy Week Procession and Living Art: 92.90/100 (source-linked-unverified).
+- [x] PY — Itapúa World Rally Championship Paraguay Spectator Experience: 91.90/100 (source-linked-unverified).
+- [x] PY — Ypacaraí Festival del Lago Public Music and Dance Programme: 90.65/100 (source-linked-unverified).
+- [x] PY — San Juan Bautista Batiburrillo Siriki and Chorizo Culinary Festival: 90.50/100 (source-linked-unverified).
+- [x] PY — Trinidad Tekoha Guavirami Mbya Guaraní Community Cultural Experience: 90.45/100 (source-linked-unverified).
+- [x] PY — San Ignacio Guazú Jesuit Guaraní Diocesan Museum and Mission Heritage: 89.05/100 (source-linked-unverified).
+- [x] PY — Santa Rosa de Lima Jesuit Heritage and Loreto Chapel: 88.50/100 (source-linked-unverified).
+- [x] PY — Santa María de Fe Jesuit Mission Museum and Historic Settlement: 87.40/100 (source-linked-unverified).
+- [x] PY — Santiago Misiones Jesuit Mission Church and Museum: 86.10/100 (source-linked-unverified).
+- [x] PY — Isla Yacyretá Natural Reserve Akuti Po'i Guided Nature Trail: 85.80/100 (source-linked-unverified).
+- [x] PY — Piribebuy Historic Centre Church and Local History Heritage: 83.55/100 (desk-based provisional).
+- [x] PY — Asunción National Museum of Fine Arts: 83.20/100 (desk-based provisional).
+- [x] PY — Asunción Loma San Jerónimo Historic Neighborhood Walk: 82.15/100 (desk-based provisional).
+
+13 additions, 10 source-linked provisional, 3 desk-based provisional, 5 90+, 36 ranking-row comparisons (10 international). PY 88 ranked / 91 total, +39 since baseline 52. Prior one inscribed property (2 components) and 12 tentative represented at property scope; no new serial mapping. Four Misiones Jesuit museum/heritage settlements distinct from inscribed Trinidad and Jesús; no UNESCO status claim. Guavirami public artisan and consent-based interpretation only; Enxet El Estribo initiative deferred pending defined visitor programme (https://senatur.gov.py/noticias/comunidad-de-mujeres-indigenas-enxet-busca-impulsar-su-potencial-turistico-y-artesanal/). Rally restricted to authorized spectator experiences, 2026 unique people count and cumulative attendance distinguished; future hosting unverified. Isla Yacyretá trail distinct from dam, non-additive if bundled. Atinguy captive wildlife experience deferred pending independent welfare/visitor scope; earlier Morombí and closure deferrals retained. Existing three unassessed and ratings preserved. OPEN for remaining protected areas, regional heritage and final bounded screening. Coordinates approximate; current permissions, schedules and safety unverified.
