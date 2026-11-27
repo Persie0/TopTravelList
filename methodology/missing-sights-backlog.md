@@ -3348,3 +3348,30 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — Anderson Abruzzo Albuquerque International Balloon Museum: 87.05/100 (source-linked-unverified).
 
 11 additions, 11 source-linked provisional, 6 90+, 34 domestic ranking-row comparisons. US 526 ranked / 526 total. Chincoteague refuge not separately added: NPS identifies the Virginia district and beach inside the refuge, covered by existing Assateague island and horse experience (https://www.nps.gov/asis/planyourvisit/basicinfo.htm). USS Constitution confirmed as Freedom Trail component (https://www.thefreedomtrail.org/trail-sites/uss-constitution), no new row; independent ship museum scope remains a potential future split. Ford's Theatre deferred for National Mall parent-scope review (https://www.nps.gov/foth/planyourvisit/index.htm); temporary museum/theatre closure notice not used as an intrinsic score deduction. Balloon Fiesta deferred pending consistent worldwide recurring-event inclusion policy despite official documentation of more than 500 balloons (https://www.balloonfiesta.com/plan-your-visit/faqs/). Existing scores retained. Remaining flagship state-level screen and Tracy Arm reassessment unresolved; no quota. Full Python validation pending.
+
+### Pass 200 — US university museums, long-distance trails and national heritage
+
+- [x] US — Harvard Museum of Natural History and Glass Flowers Cambridge: 92.05/100 (source-linked-unverified).
+- [x] US — Yale Peabody Museum of Natural History New Haven: 92.30/100 (source-linked-unverified).
+- [x] US — The Children's Museum of Indianapolis: 92.10/100 (source-linked-unverified).
+- [x] US — Yale University Art Gallery New Haven: 91.60/100 (source-linked-unverified).
+- [x] US — Yale Center for British Art New Haven: 91.50/100 (source-linked-unverified).
+- [x] US — Harvard Art Museums Cambridge: 91.05/100 (source-linked-unverified).
+- [x] US — Milwaukee Art Museum and Quadracci Pavilion: 91.15/100 (source-linked-unverified).
+- [x] US — Baltimore Museum of Art: 91.10/100 (source-linked-unverified).
+- [x] US — Busch Gardens Tampa Bay Theme Park and Zoo: 90.75/100 (source-linked-unverified).
+- [x] US — Hirshhorn Museum and Sculpture Garden Washington DC: 91.35/100 (source-linked-unverified).
+- [x] US — Menil Collection Houston Art Museum Campus: 90.90/100 (source-linked-unverified).
+- [x] US — Martin Luther King Jr National Historical Park and King Center Atlanta: 91.40/100 (source-linked-unverified).
+- [x] US — Thomas Edison National Historical Park Laboratory and Glenmont Estate New Jersey: 91.45/100 (source-linked-unverified).
+- [x] US — Appalachian Trail Long-Distance Thru-Hiking Experience: 93.00/100 (source-linked-unverified).
+- [x] US — Pacific Crest Trail Long-Distance Thru-Hiking Experience: 93.10/100 (source-linked-unverified).
+- [x] US — Ocmulgee Mounds National Historical Park Georgia: 87.45/100 (source-linked-unverified).
+- [x] US — Little Bighorn Battlefield National Monument Montana: 87.65/100 (source-linked-unverified).
+- [x] US — Big Cypress National Preserve Florida Swamp and Wildlife: 87.75/100 (source-linked-unverified).
+- [x] US — Golden Spike National Historical Park Utah: 86.50/100 (desk-based provisional).
+- [x] US — Hovenweep National Monument Colorado Utah: 87.05/100 (desk-based provisional).
+- [x] US — Valles Caldera National Preserve New Mexico: 87.65/100 (desk-based provisional).
+- [x] US — Petroglyph National Monument Albuquerque: 86.15/100 (desk-based provisional).
+
+22 additions, 4 desk-based provisional, 18 source-informed, 15 90+, 74 domestic ranking-row comparisons. US 548 ranked / 548 total. NPS 64 designated national parks inventory (https://www.nps.gov/aboutus/national-park-system.htm) checked against ranking; all 62 in the 50 states represented; American Samoa and US Virgin Islands belong to separate territory queues. Not a check of every one of 434 NPS units. Ford's Theatre confirmed part of NAMA administrative umbrella (https://www.nps.gov/foth/planyourvisit/index.htm); no duplicate pending experiential scope. Tracy Arm remains deferred: USGS documents lasting 2025 landslide and glacier-related damage (https://www.usgs.gov/programs/landslide-hazards/science/2025-tracy-arm-landslide-generated-tsunami), NOAA 2026 reassessment (https://www.nesdis.noaa.gov/news/noaa-scientists-gain-key-insights-alaska-tsunami-one-year-later) and 2026 cruise diversions (https://alaskapublic.org/news/alaska-desk/2026-04-10/after-last-years-historic-tsunami-some-cruise-lines-say-theyll-avoid-tracy-arm-this-year); no assumption of restored condition or safe passage. Recurring-event policy and legacy overlaps remain unresolved. Long-distance trails rated for continuous journey, not individual park hikes. Current US queue PAUSED, not DONE; remaining known candidates include Continental Divide Trail and other heritage sites; move to other underrepresented areas before another US expansion. No quota. Existing scores retained. Full Python validation pending.

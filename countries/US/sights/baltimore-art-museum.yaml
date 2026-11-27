@@ -1,0 +1,16 @@
+id: sight-us-baltimore-art-museum
+name: "Baltimore Museum of Art"
+location:
+  country_code: US
+  latitude: 39.326
+  longitude: -76.619
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.2
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.2
+    architecture: 8.9

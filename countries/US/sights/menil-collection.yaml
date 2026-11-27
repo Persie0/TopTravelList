@@ -1,0 +1,16 @@
+id: sight-us-menil-collection
+name: "Menil Collection Houston Art Museum Campus"
+location:
+  country_code: US
+  latitude: 29.737
+  longitude: -95.398
+scores:
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.1
+  experience: 9.0
+  depth: 9.2
+  categories:
+    culture: 9.4
+    architecture: 9.2
+    history: 9.0

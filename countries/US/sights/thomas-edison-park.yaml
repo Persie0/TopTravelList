@@ -1,0 +1,16 @@
+id: sight-us-thomas-edison-park
+name: "Thomas Edison National Historical Park Laboratory and Glenmont Estate New Jersey"
+location:
+  country_code: US
+  latitude: 40.805
+  longitude: -74.234
+scores:
+  impact: 8.9
+  uniqueness: 9.4
+  significance: 9.4
+  experience: 8.9
+  depth: 9.1
+  categories:
+    history: 9.4
+    culture: 9.2
+    family: 9.0

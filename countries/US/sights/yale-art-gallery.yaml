@@ -1,0 +1,16 @@
+id: sight-us-yale-art-gallery
+name: "Yale University Art Gallery New Haven"
+location:
+  country_code: US
+  latitude: 41.308
+  longitude: -72.931
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.1

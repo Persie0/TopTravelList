@@ -1,0 +1,16 @@
+id: sight-us-yale-british-art
+name: "Yale Center for British Art New Haven"
+location:
+  country_code: US
+  latitude: 41.308
+  longitude: -72.931
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.2
+  experience: 9.1
+  depth: 9.2
+  categories:
+    culture: 9.4
+    history: 9.3
+    architecture: 9.3
