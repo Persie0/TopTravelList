@@ -1,0 +1,16 @@
+id: sight-uy-florida-virgen-treinta-tres
+name: "Florida Virgen de los Treinta y Tres National Pilgrimage"
+location:
+  country_code: UY
+  latitude: -34.1
+  longitude: -56.22
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    culture: 9.3
+    history: 9.3
+    photography: 8.9

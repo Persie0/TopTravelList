@@ -1,0 +1,16 @@
+id: sight-gy-new-amsterdam-heritage-trail
+name: "New Amsterdam Historic Centre Heritage Trail"
+location:
+  country_code: GY
+  latitude: 6.25
+  longitude: -57.52
+scores:
+  impact: 8.0
+  uniqueness: 8.3
+  significance: 8.7
+  experience: 8.2
+  depth: 8.4
+  categories:
+    architecture: 9.0
+    history: 9.2
+    culture: 8.9

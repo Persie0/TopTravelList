@@ -1,0 +1,16 @@
+id: sight-gy-linden-town-week
+name: "Linden Town Week Public Cultural and Music Festival"
+location:
+  country_code: GY
+  latitude: 6
+  longitude: -58.3
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.3
+  experience: 8.6
+  depth: 8.3
+  categories:
+    culture: 9.0
+    nightlife: 8.8
+    photography: 8.7

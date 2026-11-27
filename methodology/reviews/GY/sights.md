@@ -781,3 +781,726 @@
 - Categories: wildlife 8.8, nature 8.3. Computed overall: 77.55/100.
 - High-score challenge: Not applicable. Approved 10 registry: none.
 - Verification still needed: independent named-site facts, GPS, visitor access and peer calibration.
+
+
+## Pass 301 — Guyana initial heritage and community tourism screen (2026-11-28)
+
+
+## sight-gy-georgetown-mashramani — Georgetown Mashramani Republic Day Costume and Float Parade — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-mashramani.yaml)
+- Action: new
+- Scope: Recurring public Republic Day costume and float parade; 2026 event documented and 2027 programme launched. Ordinary Georgetown streets not additive.
+- Representative coordinates: 6.81, -58.15; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/mash-2026-ignites-georgetown-in-a-wave-of-colour-rhythm-and-innovation/ ; https://dpi.gov.gy/new-attractions-returning-favourites-announced-for-mashramani-2027/
+- Core I/U/S/E/D: 9.3 / 9.2 / 9.3 / 9.3 / 9.1.
+- Categories: culture:9.4 photography:9.4 nightlife:9.2.
+- Overall: 92.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-plantation-structure-and-historic-buildings](../../../countries/GY/sights/georgetown-plantation-structure-and-historic-buildings.yaml) | 8.3 / 8.6 / 8.7 / 8.1 / 8.3 | impact: 1.0; uniqueness: 0.6 vs peer |
+| [VE/el-callao-carnival](../../../countries/VE/sights/el-callao-carnival.yaml) | 9.3 / 9.4 / 9.4 / 9.3 / 9.2 | impact: 0.0; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-georgetown-diwali-motorcade — Georgetown and East Coast Demerara Diwali Public Motorcade — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-diwali-motorcade.yaml)
+- Action: new
+- Scope: Annual illuminated float procession, Georgetown to East Coast; 2026 event documented. Local variants grouped; private worship excluded.
+- Representative coordinates: 6.81, -58.15; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://en.education.gov.gy/news/guyana-s-diwali-motorcade-celebrates-a-spectacular-tradition-of-light-and-unity ; https://dpi.gov.gy/president-ali-urges-families-to-keep-diwalis-inner-light-alive-through-love-unity/
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.4 photography:9.4 nightlife:9.1.
+- Overall: 91.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/umana-yana](../../../countries/GY/sights/umana-yana.yaml) | 7.6 / 8.5 / 8.0 / 7.6 / 6.5 | impact: 1.5; uniqueness: 0.8 vs peer |
+| [VE/cruz-de-mayo-velorio](../../../countries/VE/sights/cruz-de-mayo-velorio.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.0 | impact: 0.1; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-georgetown-phagwah — Georgetown Phagwah Public Colour and Music Celebrations — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-phagwah.yaml)
+- Action: new
+- Scope: Public Holi celebrations in Guyana; 2026 Georgetown Cricket Club gathering documented. Not a claim of uniquely Guyanese origin; local events grouped.
+- Representative coordinates: 6.81, -58.16; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/colours-of-unity-shine-as-guyanese-celebrate-phagwah/
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.2 / 9.3 / 9.0.
+- Categories: culture:9.4 photography:9.3 family:9.1.
+- Overall: 90.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/umana-yana](../../../countries/GY/sights/umana-yana.yaml) | 7.6 / 8.5 / 8.0 / 7.6 / 6.5 | impact: 1.4; uniqueness: 0.4 vs peer |
+| [VE/san-juan-bautista-festivities](../../../countries/VE/sights/san-juan-bautista-festivities.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.2 | impact: -0.2; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-indigenous-heritage-month — Georgetown Indigenous Heritage Month Public Arts and Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/indigenous-heritage-month.yaml)
+- Action: new
+- Scope: Annual September public exhibition and performances, representative Sophia exhibition complex. Community events only by invitation; not blanket permission to visit villages.
+- Representative coordinates: 6.81, -58.12; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/amerindian-heritage-month-2026-officially-opens/ ; https://dpi.gov.gy/exhibition-centre-comes-alive-with-tradition-talent-and-flavour-of-guyanas-first-peoples/
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 food:9.1.
+- Overall: 91.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/walter-roth-museum-of-anthropology](../../../countries/GY/sights/walter-roth-museum-of-anthropology.yaml) | 7.3 / 8.2 / 8.4 / 7.6 / 7.0 | impact: 1.7; uniqueness: 0.9 vs peer |
+| [VE/guarenas-guatire-parranda](../../../countries/VE/sights/guarenas-guatire-parranda.yaml) | 9.1 / 9.4 / 9.4 / 9.1 / 9.1 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-rupununi-music-arts-festival — Rupununi Music and Arts Festival Public Concerts and Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/rupununi-music-arts-festival.yaml)
+- Action: new
+- Scope: Recurring public festival promoting regional and Indigenous arts; 2026 Manari Ranch programme documented. Ordinary ranch stay not included; future venue and dates unverified.
+- Representative coordinates: 3.43, -59.79; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.rupununifestival.com/ ; https://www.rupununifestival.com/programming/ ; https://www.hgptv.com/promoting-preserving-the-indigenous-culture-rupununi-music-arts-festival-returns-to-manari-ranch-october-16-18/
+- Core I/U/S/E/D: 8.9 / 9.0 / 9.0 / 9.2 / 9.1.
+- Categories: culture:9.3 photography:9.2 nightlife:9.2.
+- Overall: 90.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/south-rupununi-savanna](../../../countries/GY/sights/south-rupununi-savanna.yaml) | 8.7 / 8.6 / 8.4 / 8.6 / 8.6 | impact: 0.2; uniqueness: 0.4 vs peer |
+| [VE/elorza-joropo-festival](../../../countries/VE/sights/elorza-joropo-festival.yaml) | 9.2 / 9.3 / 9.4 / 9.3 / 9.1 | impact: -0.3; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-surama-community-ecotourism — Surama Community Guided Forest and Indigenous Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/surama-community-ecotourism.yaml)
+- Action: new
+- Scope: Community-hosted village interpretation and designated nature walks; distinct cultural and guide-led experience, not a second score for Iwokrama or broad North Rupununi. Consent and bookings required.
+- Representative coordinates: 4.14, -59.1; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatourism.com/conservation/ ; https://guyanatourism.com/active-adventure/
+- Core I/U/S/E/D: 8.8 / 9.0 / 8.9 / 8.7 / 8.9.
+- Categories: nature:9.2 wildlife:9.2 culture:9.2 adventure:8.9.
+- Overall: 88.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/iwokrama-rainforest](../../../countries/GY/sights/iwokrama-rainforest.yaml) | 8.9 / 8.8 / 9.2 / 8.7 / 9.0 | impact: -0.1; uniqueness: 0.2 vs peer |
+| [VE/hacienda-chuao](../../../countries/VE/sights/hacienda-chuao.yaml) | 8.8 / 9.1 / 9.2 / 8.5 / 8.8 | impact: 0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-yupukari-caiman-conservation — Yupukari Caiman House Community Wildlife Conservation Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/yupukari-caiman-conservation.yaml)
+- Action: new
+- Scope: Community-led wildlife interpretation and conservation viewing, distinct from generic wetland scope; no animal handling or research participation guaranteed.
+- Representative coordinates: 3.64, -59.65; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatourism.com/nature-and-wildlife/ ; https://guyanatourism.com/conservation/
+- Core I/U/S/E/D: 8.7 / 9.1 / 8.9 / 8.5 / 8.6.
+- Categories: wildlife:9.4 nature:9.2 culture:8.9 photography:9.1.
+- Overall: 88.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/north-rupununi-wetlands](../../../countries/GY/sights/north-rupununi-wetlands.yaml) | 8.5 / 8.7 / 8.8 / 8.5 / 8.6 | impact: 0.2; uniqueness: 0.4 vs peer |
+| [VE/turuepano-national-park](../../../countries/VE/sights/turuepano-national-park.yaml) | 8.5 / 8.7 / 8.8 / 8.3 / 8.6 | impact: 0.2; uniqueness: 0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-karasabai-sun-parakeet — Karasabai Community Sun Parakeet Conservation Birdwatching — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/karasabai-sun-parakeet.yaml)
+- Action: new
+- Scope: Community-guided birdwatching, no nesting coordinates, no wildlife sighting guarantee. Distinct village conservation experience; shared savanna values non-additive.
+- Representative coordinates: 4.02, -59.53; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatourism.com/birding/ ; https://tourismguyana.gy/conservation-and-sustainable-tourism-in-the-rupununi/
+- Core I/U/S/E/D: 8.5 / 9.1 / 9.0 / 8.5 / 8.3.
+- Categories: wildlife:9.4 nature:9.1 photography:9.1.
+- Overall: 87.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/karanambu-wetlands](../../../countries/GY/sights/karanambu-wetlands.yaml) | 8.4 / 8.5 / 8.5 / 8.6 / 8.0 | impact: 0.1; uniqueness: 0.6 vs peer |
+| [VE/yacambu-national-park](../../../countries/VE/sights/yacambu-national-park.yaml) | 8.4 / 8.5 / 8.8 / 8.3 / 8.5 | impact: 0.1; uniqueness: 0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-moraikobai-community — Moraikobai Community Creek and Cassava Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/moraikobai-community.yaml)
+- Action: new
+- Scope: Community-hosted creek paddling, traditional cassava processing and guided nature; no new lodge opening claim. Village consent required.
+- Representative coordinates: 6.1, -57.95; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/tourism-playing-important-role-in-development-of-moraikobai/ ; https://lcds.gov.gy/community_stories/moraikobai/
+- Core I/U/S/E/D: 8.3 / 8.7 / 8.6 / 8.6 / 8.6.
+- Categories: culture:9.2 nature:9.0 food:8.9 adventure:8.8.
+- Overall: 85.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/rewa-river-wildlife-area](../../../countries/GY/sights/rewa-river-wildlife-area.yaml) | 8.4 / 8.6 / 8.3 / 8.6 / 8.2 | impact: -0.1; uniqueness: 0.1 vs peer |
+| [VE/hacienda-chuao](../../../countries/VE/sights/hacienda-chuao.yaml) | 8.8 / 9.1 / 9.2 / 8.5 / 8.8 | impact: -0.5; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-bartica-easter-regatta — Bartica Easter Regatta Public River Races and Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/bartica-easter-regatta.yaml)
+- Action: new
+- Scope: Recurring public spectator river event and cultural programme; no boat racing participation assumed; distinct from ordinary river islands.
+- Representative coordinates: 6.41, -58.62; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatourism.com/faq/ ; https://guyanachronicle.com/2026/02/21/tourism-ministry-unveils-diamond-jubilee-calendar-of-events-for-2026/
+- Core I/U/S/E/D: 8.6 / 8.7 / 8.5 / 8.9 / 8.4.
+- Categories: culture:9.1 photography:9.1 nightlife:8.9.
+- Overall: 86.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/essequibo-river-lower-river-islands](../../../countries/GY/sights/essequibo-river-lower-river-islands.yaml) | 7.9 / 8.1 / 7.7 / 8.4 / 8.2 | impact: 0.7; uniqueness: 0.6 vs peer |
+| [VE/merida-feria-del-sol](../../../countries/VE/sights/merida-feria-del-sol.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.0 | impact: -0.4; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-linden-town-week — Linden Town Week Public Cultural and Music Festival — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/linden-town-week.yaml)
+- Action: new
+- Scope: Desk-based annual public local cultural events grouped; future calendar unverified.
+- Representative coordinates: 6, -58.3; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.2 / 8.3 / 8.6 / 8.3.
+- Categories: culture:9.0 nightlife:8.8 photography:8.7.
+- Overall: 82.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-city-hall](../../../countries/GY/sights/georgetown-city-hall.yaml) | 8.3 / 8.6 / 8.4 / 7.7 / 6.9 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [VE/merida-feria-del-sol](../../../countries/VE/sights/merida-feria-del-sol.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.0 | impact: -0.9; uniqueness: -0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-saddle-mountain-trail — Rupununi Saddle Mountain Guided Nature Trail — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/saddle-mountain-trail.yaml)
+- Action: new
+- Scope: Tourism authority names established hiking and birding trail; approximate regional representative point, exact trailhead unverified. Distinct guided trail, not additive to regional savanna.
+- Representative coordinates: 3.77, -59.71; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatourism.com/active-adventure/ ; https://guyanatourism.com/birding/
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.3 / 8.5 / 8.2.
+- Categories: nature:9.0 wildlife:9.0 adventure:8.9 photography:9.0.
+- Overall: 84.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/south-rupununi-savanna](../../../countries/GY/sights/south-rupununi-savanna.yaml) | 8.7 / 8.6 / 8.4 / 8.6 / 8.6 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [VE/sierra-la-culata](../../../countries/VE/sights/sierra-la-culata.yaml) | 8.9 / 8.6 / 8.7 / 8.3 / 8.8 | impact: -0.5; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 301 scope decisions
+
+12 additions, 11 source-linked provisional, 1 desk-based provisional, 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). GY 46 ranked / 51 total, +12 since baseline 39. Official UNESCO country inventory checked (https://whc.unesco.org/en/statesparties/gy): 0 inscribed, 5/5 tentative represented by existing cathedral, Fort Zeelandia including Court of Policy, City Hall, Shell Beach and Georgetown historic structure; no boundary mapping. PAC portal lists three directly managed hinterland and four urban parks, all represented (https://portal.gov.gy/agencies/protected-areas-commission); Iwokrama and Kanashen separately governed, both already represented, latter unassessed. Expansion budget not evidence of new visitable parks (https://dpi.gov.gy/607m-allocated-to-expand-conservation-areas-425m-for-land-reclamation/). Mashramani, Diwali, Phagwah and Indigenous heritage public programmes separate from permanent buildings; community-hosted Surama, Yupukari, Karasabai and Moraikobai distinct activities, no blanket village access, shared parent landscape values non-additive. Rupununi music festival separate from rodeo, latter deferred pending defined non-animal public programme. Mount Ayanganna deferred pending clear normal guided route and community permissions; new Bartica products announced 26 Nov 2026 (https://dpi.gov.gy/seven-new-tourism-experiences-launched-in-bartica/), scope review pending. Five legacy unassessed preserved. Existing scores preserved. OPEN for river landscapes, additional community-led experiences and historical sites. Coordinates approximate, access and future schedules unverified. Full Python validation and international calibration pending.
+
+
+## Pass 302 — Guyana public heritage and river community landscapes (2026-11-28)
+
+
+## sight-gy-georgetown-emancipation-festival — Georgetown Emancipation Day Public Cultural and Heritage Festival — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-emancipation-festival.yaml)
+- Action: new
+- Scope: Annual public August 1 festival at National Park, cultural performances, historical exhibition and food; 2026 programme commemorated four centuries of African presence. Separate from ordinary park visits.
+- Representative coordinates: 6.81, -58.15; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://newsroom.gy/2026/07/17/from-sunrise-worship-to-cooking-competitions-acda-unveils-plans-for-2026-emancipation-festival/ ; https://guyanachronicle.com/2026/08/02/thousands-celebrate-emancipation-2/
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.4 / 9.2 / 9.1.
+- Categories: culture:9.4 history:9.4 photography:9.2.
+- Overall: 92.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/indigenous-heritage-month](../../../countries/GY/sights/indigenous-heritage-month.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.2 | impact: 0.1; uniqueness: 0.1 vs peer |
+| [VE/san-juan-bautista-festivities](../../../countries/VE/sights/san-juan-bautista-festivities.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.2 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-providence-cricket — Providence International Cricket and Amazon Warriors Spectator Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/providence-cricket.yaml)
+- Action: new
+- Scope: Recurring public spectator cricket at National Stadium, international and CPL matches grouped; past ICC World Cup venue and 2026 fixtures documented. No future tickets assumed.
+- Representative coordinates: 6.76, -58.18; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://travelguyana.gy/story/cricket/ ; https://www.windiescricket.com/series/republic-bank-caribbean-premier-league-2026-22129/ ; https://newsroom.gy/2026/04/28/guyana-to-host-five-cpl-matches-from-september-4-11/
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.2 / 9.3 / 9.1.
+- Categories: culture:9.3 photography:9.1 nightlife:9.1.
+- Overall: 90.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/bartica-easter-regatta](../../../countries/GY/sights/bartica-easter-regatta.yaml) | 8.6 / 8.7 / 8.5 / 8.9 / 8.4 | impact: 0.4; uniqueness: 0.2 vs peer |
+| [VE/merida-feria-del-sol](../../../countries/VE/sights/merida-feria-del-sol.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.0 | impact: 0.0; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-lethem-ranchers-cultural-fair — Lethem Rupununi Ranchers Rodeo Public Heritage Fair and Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/lethem-ranchers-cultural-fair.yaml)
+- Action: new
+- Scope: Prior deferral resolved narrowly: 2026 programme explicitly included cultural performances, cuisine, crafts and historical exhibition. Excludes all animal competitions; score for associated cultural fair only, not rodeo sports; distinct from music festival.
+- Representative coordinates: 3.39, -59.79; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/infrastructure-upgrades-reduced-airfare-for-rupununi-rodeo-2026/ ; https://dpi.gov.gy/history-booth-added-to-rupununi-rodeo-lineup-min-rodrigues/
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.1 / 9.0.
+- Categories: culture:9.3 history:9.1 photography:9.2.
+- Overall: 90.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/rupununi-music-arts-festival](../../../countries/GY/sights/rupununi-music-arts-festival.yaml) | 8.9 / 9.0 / 9.0 / 9.2 / 9.1 | impact: 0.1; uniqueness: 0.0 vs peer |
+| [VE/elorza-joropo-festival](../../../countries/VE/sights/elorza-joropo-festival.yaml) | 9.2 / 9.3 / 9.4 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-diamond-demerara-distillery-heritage — Diamond Demerara Distillery Industrial and Wooden Still Heritage Tour — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/diamond-demerara-distillery-heritage.yaml)
+- Action: new
+- Scope: Designated heritage interpretation tour of distilling technology and preserved historic stills, no restricted industrial access. Tasting not necessary to assessed heritage experience.
+- Representative coordinates: 6.7, -58.19; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatourism.com/guyana-rum-route/ ; https://demeraradistillers.com/our-company/our-history-2 ; https://www.wirspa.com/caribbean-rum-trail/demerara-distillers-ltd/
+- Core I/U/S/E/D: 8.6 / 9.2 / 9.2 / 8.5 / 8.8.
+- Categories: history:9.3 culture:9.2 food:9.2.
+- Overall: 88.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-plantation-structure-and-historic-buildings](../../../countries/GY/sights/georgetown-plantation-structure-and-historic-buildings.yaml) | 8.3 / 8.6 / 8.7 / 8.1 / 8.3 | impact: 0.3; uniqueness: 0.6 vs peer |
+| [VE/hacienda-chuao](../../../countries/VE/sights/hacienda-chuao.yaml) | 8.8 / 9.1 / 9.2 / 8.5 / 8.8 | impact: -0.2; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-warapoka-community-birding — Warapoka Community Guided Forest Birdwatching and Lokono Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/warapoka-community-birding.yaml)
+- Action: new
+- Scope: GTA identifies harpy eagle habitat, government describes community tourism. Council permission explicitly required. Broad village representative point only, no nest locations or guaranteed sightings.
+- Representative coordinates: 7.81, -59.25; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatourism.com/birding/ ; https://dpi.gov.gy/warapoka-leading-tourism-in-region-one/ ; https://portal.gov.gy/agencies/warapoka-village-council ; https://mapcarta.com/19096116
+- Core I/U/S/E/D: 8.6 / 9.0 / 8.9 / 8.5 / 8.7.
+- Categories: wildlife:9.4 nature:9.2 culture:9.1.
+- Overall: 87.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/karasabai-sun-parakeet](../../../countries/GY/sights/karasabai-sun-parakeet.yaml) | 8.5 / 9.1 / 9.0 / 8.5 / 8.3 | impact: 0.1; uniqueness: -0.1 vs peer |
+| [VE/yacambu-national-park](../../../countries/VE/sights/yacambu-national-park.yaml) | 8.4 / 8.5 / 8.8 / 8.3 / 8.5 | impact: 0.2; uniqueness: 0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-santa-aratack-community — Santa Mission and Aratack Community Creek and Craft Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/santa-aratack-community.yaml)
+- Action: new
+- Scope: Community-hosted Kamuni Creek and village interpretation, Santa Mission and Aratack grouped as one. Consent and bookings required; no private ritual access.
+- Representative coordinates: 6.52, -58.28; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/santa-aratack-a-tranquil-slice-of-destination-guyana/ ; https://dpi.gov.gy/santa-aratak-mission-seeks-slice-of-tourism-pie/
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.5 / 8.7 / 8.5.
+- Categories: culture:9.1 nature:9.0 photography:8.9.
+- Overall: 84.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/moraikobai-community](../../../countries/GY/sights/moraikobai-community.yaml) | 8.3 / 8.7 / 8.6 / 8.6 / 8.6 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [VE/choroni-puerto-colombia](../../../countries/VE/sights/choroni-puerto-colombia.yaml) | 8.1 / 8.3 / 8.4 / 8.5 / 8.3 | impact: 0.1; uniqueness: 0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-sloth-island-wildlife — Bartica Sloth Island Guided Rainforest Wildlife Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/sloth-island-wildlife.yaml)
+- Action: new
+- Scope: 2026 named wildlife tour and established island forest habitat. Excludes resort stay and general Essequibo islands cruise; shared landscape values non-additive. No animal handling or guaranteed sightings.
+- Representative coordinates: 6.38, -58.63; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/seven-new-tourism-experiences-launched-in-bartica/ ; https://www.slothisland.com/about.html
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.4 / 8.6 / 8.3.
+- Categories: wildlife:9.2 nature:9.1 photography:8.9.
+- Overall: 84.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/essequibo-river-lower-river-islands](../../../countries/GY/sights/essequibo-river-lower-river-islands.yaml) | 7.9 / 8.1 / 7.7 / 8.4 / 8.2 | impact: 0.5; uniqueness: 0.5 vs peer |
+| [VE/turuepano-national-park](../../../countries/VE/sights/turuepano-national-park.yaml) | 8.5 / 8.7 / 8.8 / 8.3 / 8.6 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-bartica-mazaruni-waterfalls — Bartica Mazaruni Marshall and Baracara Falls Guided Waterscape Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/bartica-mazaruni-waterfalls.yaml)
+- Action: new
+- Scope: Grouped waterfall excursions, including known Marshall and Baracara Falls; coordinates Bartica gateway, not waterfall entrance. New Chasing Cascades product not assumed to cover both or counted separately. No swimming safety or current availability claim.
+- Representative coordinates: 6.41, -58.62; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanagy.com/tourism/waterfalls-in-guyana/ ; https://evergreenadventuresgy.com/tours/essequibo-river-tour/ ; https://dpi.gov.gy/seven-new-tourism-experiences-launched-in-bartica/
+- Core I/U/S/E/D: 8.3 / 8.3 / 7.9 / 8.5 / 8.3.
+- Categories: nature:9.0 photography:9.0 adventure:8.8.
+- Overall: 82.50/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/orinduik-falls](../../../countries/GY/sights/orinduik-falls.yaml) | 8.5 / 8.2 / 7.5 / 8.4 / 7.4 | impact: -0.2; uniqueness: 0.1 vs peer |
+| [VE/salto-la-llovizna](../../../countries/VE/sights/salto-la-llovizna.yaml) | 8.4 / 8.2 / 7.1 / 8.4 / 7.5 | impact: -0.1; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-moco-moco-mountain-waterfall — Moco Moco Mountain and Waterfall Community Guided Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/moco-moco-mountain-waterfall.yaml)
+- Action: new
+- Scope: Village-area mountain hike and waterfall grouped. Community consent and route confirmation required; non-additive to Kanuku Mountains broad landscape.
+- Representative coordinates: 3.33, -59.68; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://caracas.mission.gov.gy/trade-and-tourism ; https://guyanagy.com/tourism/waterfalls-in-guyana/ ; https://gy.geoview.info/moco_moco%2C373016488n
+- Core I/U/S/E/D: 8.5 / 8.5 / 8.2 / 8.5 / 8.4.
+- Categories: nature:9.1 photography:9.1 adventure:9.0.
+- Overall: 84.30/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/kanuku-mountains-protected-area](../../../countries/GY/sights/kanuku-mountains-protected-area.yaml) | 8.6 / 8.8 / 9.0 / 8.2 / 8.3 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [VE/sierra-la-culata](../../../countries/VE/sights/sierra-la-culata.yaml) | 8.9 / 8.6 / 8.7 / 8.3 / 8.8 | impact: -0.4; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-new-amsterdam-heritage-trail — New Amsterdam Historic Centre Heritage Trail — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/new-amsterdam-heritage-trail.yaml)
+- Action: new
+- Scope: National Trust named heritage trail; public streets and historic building exteriors grouped, no individual interior access claim.
+- Representative coordinates: 6.25, -57.52; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://ntg.gov.gy/publication/new-amsterdam-heritage-trail/
+- Core I/U/S/E/D: 8.0 / 8.3 / 8.7 / 8.2 / 8.4.
+- Categories: architecture:9.0 history:9.2 culture:8.9.
+- Overall: 82.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-plantation-structure-and-historic-buildings](../../../countries/GY/sights/georgetown-plantation-structure-and-historic-buildings.yaml) | 8.3 / 8.6 / 8.7 / 8.1 / 8.3 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [VE/cumana-historic-centre](../../../countries/VE/sights/cumana-historic-centre.yaml) | 8.2 / 8.5 / 9.0 / 8.2 / 8.4 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-museum-african-heritage — Georgetown Museum of African Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/museum-african-heritage.yaml)
+- Action: new
+- Scope: Distinct national museum from Walter Roth and Guyana National Museum; public access service documented, current exhibit and opening hours unverified.
+- Representative coordinates: 6.81, -58.15; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://portal.gov.gy/services/national-museums-and-gallery-services
+- Core I/U/S/E/D: 7.9 / 8.4 / 8.8 / 8.1 / 8.4.
+- Categories: culture:9.2 history:9.2.
+- Overall: 82.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/walter-roth-museum-of-anthropology](../../../countries/GY/sights/walter-roth-museum-of-anthropology.yaml) | 7.3 / 8.2 / 8.4 / 7.6 / 7.0 | impact: 0.6; uniqueness: 0.2 vs peer |
+| [VE/museo-jesus-soto](../../../countries/VE/sights/museo-jesus-soto.yaml) | 8.5 / 8.9 / 9.1 / 8.6 / 8.7 | impact: -0.6; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-pakuri-community — Pakuri St Cuthbert's Mission Community Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/pakuri-community.yaml)
+- Action: new
+- Scope: Community tourism product launched in 2021, hosted heritage activities by prior arrangement. Separate from generic Mahaica River birdwatching; no automatic access or exact route claim.
+- Representative coordinates: 6.36, -58.05; approximate, independent entrance and route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/government-to-promote-sustainable-tourism-with-hinterland-communities/ ; https://dpi.gov.gy/st-cuthberts-mission-investing-to-expand-tourism-potential/
+- Core I/U/S/E/D: 8.1 / 8.5 / 8.5 / 8.5 / 8.5.
+- Categories: culture:9.1 nature:8.9 photography:8.8.
+- Overall: 83.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/moraikobai-community](../../../countries/GY/sights/moraikobai-community.yaml) | 8.3 / 8.7 / 8.6 / 8.6 / 8.6 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [VE/hacienda-chuao](../../../countries/VE/sights/hacienda-chuao.yaml) | 8.8 / 9.1 / 9.2 / 8.5 / 8.8 | impact: -0.7; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 302 scope decisions
+
+12 source-linked provisional additions, 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). GY 58 ranked / 63 total, +24 since baseline 39, 8 new 90+ across two passes. Prior UNESCO 0 inscribed and 5/5 tentative represented; PAC-managed 3 hinterland and 4 urban areas represented, no boundary remapping. Emancipation separate from park, Providence cricket matches grouped; rodeo prior deferral resolved narrowly to documented cultural performances, crafts, food and history exhibition, all animal competitions excluded. Diamond industrial still heritage excludes required tasting. Warapoka council permission explicitly documented; all community consent required. Seven Bartica products announced 24 November and reported 25 November (https://dpi.gov.gy/seven-new-tourism-experiences-launched-in-bartica/): Sloth Island distinct wildlife scope now represented, Chasing Cascades screened against grouped Mazaruni falls without assuming identical route; Junior Wilderness Quest and Breakfast and Beyond generic, Rodeo Safari non-additive, Rivers View Hike and Dogg Point deferred pending exact scope/permission. No seven separate sights. Moco Moco grouped and non-additive to Kanuku, New Amsterdam trail and African Heritage Museum added. National Trust regional directory screened (https://ntg.gov.gy/monuments/), additional sites remain. Mount Ayanganna prior deferral retained. Wakapoa, Shulinab, Nappi and other named community tourism routes remain for next pass. Guyana OPEN. Existing ratings and five unassessed retained; coordinates approximate, permissions, schedules and current access unverified. Full Python validation, peer YAML checks and international calibration pending.
+
+
+## Pass 303 — Guyana community-led heritage and Independence Carnival (2026-11-28)
+
+
+## sight-gy-georgetown-independence-carnival — Georgetown Independence Carnival Public Road Parade — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-independence-carnival.yaml)
+- Action: new
+- Scope: May Independence Carnival, distinct calendar and programme from February Mashramani; public road parade and music grouped, no separate private parties. May 26 2026 event documented.
+- Representative coordinates: 6.81, -58.16; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatimesgy.com/guyana-carnival-parade-illuminates-georgetown/ ; https://dpi.gov.gy/planning-advances-for-guyanas-60th-independence-anniversary-celebrations/
+- Core I/U/S/E/D: 9.0 / 9.0 / 8.9 / 9.4 / 9.0.
+- Categories: culture:9.3 photography:9.4 nightlife:9.3.
+- Overall: 90.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-mashramani](../../../countries/GY/sights/georgetown-mashramani.yaml) | 9.3 / 9.2 / 9.3 / 9.3 / 9.1 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [VE/merida-feria-del-sol](../../../countries/VE/sights/merida-feria-del-sol.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 9.0 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-toka-community-tourism — Toka Community Nature and Macushi Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/toka-community-tourism.yaml)
+- Action: new
+- Scope: Community-led nature walks, birding, craft and culinary workshops offered through Inni Lodge; 2026 CTO community-based tourism award. Not lodging itself; consent required; non-additive to North Rupununi landscape.
+- Representative coordinates: 3.92, -59.38; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://visitrupununi.com/member/inni-lodge-toka/ ; https://dpi.gov.gy/five-tourism-businesses-are-now-represented-on-the-tourism-cares-global-meaningful-travel-map/ ; https://www.worldcitydb.com/toka_village_96173755_city
+- Core I/U/S/E/D: 8.7 / 8.9 / 8.9 / 8.7 / 8.8.
+- Categories: culture:9.2 wildlife:9.2 nature:9.2 food:8.9.
+- Overall: 88.00/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/surama-community-ecotourism](../../../countries/GY/sights/surama-community-ecotourism.yaml) | 8.8 / 9.0 / 8.9 / 8.7 / 8.9 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [VE/hacienda-chuao](../../../countries/VE/sights/hacienda-chuao.yaml) | 8.8 / 9.1 / 9.2 / 8.5 / 8.8 | impact: -0.1; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-wakapoa-community — Wakapoa Pomeroon River Community Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/wakapoa-community.yaml)
+- Action: new
+- Scope: Community tourism launched in 2021; village and river setting, hosted interpretation only. Exact activities and present availability require confirmation; community consent required.
+- Representative coordinates: 7.52, -58.78; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/government-to-promote-sustainable-tourism-with-hinterland-communities/ ; https://www.frontiersin.org/journals/sustainable-energy-policy/articles/10.3389/fsuep.2026.1822478/full
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.5 / 8.4 / 8.4.
+- Categories: culture:9.1 nature:9.0 photography:8.8.
+- Overall: 84.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/moraikobai-community](../../../countries/GY/sights/moraikobai-community.yaml) | 8.3 / 8.7 / 8.6 / 8.6 / 8.6 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [VE/turuepano-national-park](../../../countries/VE/sights/turuepano-national-park.yaml) | 8.5 / 8.7 / 8.8 / 8.3 / 8.6 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-shulinab-ancestral-heritage — Shulinab Shorinamada Community Ancestral Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/shulinab-ancestral-heritage.yaml)
+- Action: new
+- Scope: Named Shorinamada Ancestral Expedition launched in 2023; community-led heritage component only, no independent access or duplicate Saddle Mountain nature trail score. Village representative point.
+- Representative coordinates: 3.07, -59.72; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/government-to-promote-sustainable-tourism-with-hinterland-communities/ ; https://dpi.gov.gy/shulinab-village-receives-funding-to-boost-tourism/ ; https://mapcarta.com/19097688
+- Core I/U/S/E/D: 8.2 / 8.8 / 8.7 / 8.4 / 8.6.
+- Categories: culture:9.2 history:9.0 nature:8.9.
+- Overall: 85.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/surama-community-ecotourism](../../../countries/GY/sights/surama-community-ecotourism.yaml) | 8.8 / 9.0 / 8.9 / 8.7 / 8.9 | impact: -0.6; uniqueness: -0.2 vs peer |
+| [VE/choroni-puerto-colombia](../../../countries/VE/sights/choroni-puerto-colombia.yaml) | 8.1 / 8.3 / 8.4 / 8.5 / 8.3 | impact: 0.1; uniqueness: 0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-nappi-community-landscape — Nappi Community Reservoir and Mountain Nature Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/nappi-community-landscape.yaml)
+- Action: new
+- Scope: Kru-wi-ti reservoir experience launched in 2023 and mountain trekking previously documented. Grouped Nappi area routes, no guaranteed Jordan Falls visit; non-additive to Kanuku Mountains; community consent.
+- Representative coordinates: 3.41, -59.58; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/government-to-promote-sustainable-tourism-with-hinterland-communities/ ; https://dpi.gov.gy/gta-highlights-notable-achievements-in-tourism-sector/ ; https://geographic.org/geographic_names/name.php?c=guyana&fid=2244&uni=-1364736
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.5 / 8.5 / 8.5.
+- Categories: nature:9.2 adventure:9.0 culture:9.0 photography:9.0.
+- Overall: 85.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/moco-moco-mountain-waterfall](../../../countries/GY/sights/moco-moco-mountain-waterfall.yaml) | 8.5 / 8.5 / 8.2 / 8.5 / 8.4 | impact: 0.0; uniqueness: 0.1 vs peer |
+| [VE/sierra-la-culata](../../../countries/VE/sights/sierra-la-culata.yaml) | 8.9 / 8.6 / 8.7 / 8.3 / 8.8 | impact: -0.4; uniqueness: 0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-paruima-community-heritage — Paruima Community Pemon Cultural Heritage Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/paruima-community-heritage.yaml)
+- Action: new
+- Scope: Named Paruima Cultural Tour launched in 2023; community-hosted cultural interpretation only, excluding waterfall itineraries pending clarification of Uchi/Oshi and existing King George VI Falls scope; consent required.
+- Representative coordinates: 5.81, -61.06; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/government-to-promote-sustainable-tourism-with-hinterland-communities/ ; https://mapcarta.com/W819310348
+- Core I/U/S/E/D: 8.3 / 8.8 / 8.8 / 8.3 / 8.5.
+- Categories: culture:9.3 history:9.0 nature:8.9.
+- Overall: 85.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/surama-community-ecotourism](../../../countries/GY/sights/surama-community-ecotourism.yaml) | 8.8 / 9.0 / 8.9 / 8.7 / 8.9 | impact: -0.5; uniqueness: -0.2 vs peer |
+| [VE/hacienda-chuao](../../../countries/VE/sights/hacienda-chuao.yaml) | 8.8 / 9.1 / 9.2 / 8.5 / 8.8 | impact: -0.5; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-katoonarib-wapichan-heritage — Katoonarib Community Wapichan Traditions Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/katoonarib-wapichan-heritage.yaml)
+- Action: new
+- Scope: Wapichan Traditions Discovery launched in 2023; hosted cultural experience only, no private ceremony or unrestricted village entry. Shared regional values non-additive.
+- Representative coordinates: 2.77, -59.58; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://dpi.gov.gy/government-to-promote-sustainable-tourism-with-hinterland-communities/ ; https://moaa.gov.gy/indigenous-villages/
+- Core I/U/S/E/D: 8.1 / 8.8 / 8.8 / 8.3 / 8.4.
+- Categories: culture:9.3 history:9.0 nature:8.8.
+- Overall: 84.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/pakuri-community](../../../countries/GY/sights/pakuri-community.yaml) | 8.1 / 8.5 / 8.5 / 8.5 / 8.5 | impact: 0.0; uniqueness: 0.3 vs peer |
+| [VE/hacienda-chuao](../../../countries/VE/sights/hacienda-chuao.yaml) | 8.8 / 9.1 / 9.2 / 8.5 / 8.8 | impact: -0.7; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-georgetown-1763-monument — Georgetown 1763 Monument Public Commemorative Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-1763-monument.yaml)
+- Action: new
+- Scope: National monument commemorating 1763 Berbice uprising; stand-alone public memorial, not additive to historic Georgetown circuit when bundled.
+- Representative coordinates: 6.8, -58.15; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://ntg.gov.gy/monument/1763-monument/
+- Core I/U/S/E/D: 8.0 / 8.6 / 9.0 / 7.9 / 7.6.
+- Categories: history:9.3 culture:9.0 photography:8.7.
+- Overall: 82.95/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-plantation-structure-and-historic-buildings](../../../countries/GY/sights/georgetown-plantation-structure-and-historic-buildings.yaml) | 8.3 / 8.6 / 8.7 / 8.1 / 8.3 | impact: -0.3; uniqueness: 0.0 vs peer |
+| [UY/florida-piedra-alta](../../../countries/UY/sights/florida-piedra-alta.yaml) | 7.9 / 8.4 / 9.0 / 8.0 / 7.9 | impact: 0.1; uniqueness: 0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-georgetown-red-house — Georgetown Red House Cheddi Jagan Research Centre Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-red-house.yaml)
+- Action: new
+- Scope: National monument and research centre; separate historical interpretation, exterior scope with interior access subject to confirmation; non-additive to historic Georgetown parent.
+- Representative coordinates: 6.82, -58.16; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://ntg.gov.gy/monument/red-house/
+- Core I/U/S/E/D: 7.8 / 8.2 / 8.7 / 7.9 / 8.1.
+- Categories: history:9.2 architecture:8.8 culture:8.8.
+- Overall: 81.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-city-hall](../../../countries/GY/sights/georgetown-city-hall.yaml) | 8.3 / 8.6 / 8.4 / 7.7 / 6.9 | impact: -0.5; uniqueness: -0.4 vs peer |
+| [VE/museo-jesus-soto](../../../countries/VE/sights/museo-jesus-soto.yaml) | 8.5 / 8.9 / 9.1 / 8.6 / 8.7 | impact: -0.7; uniqueness: -0.7 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-georgetown-curry-fest — Georgetown Guyana Curry Fest Public Culinary Festival — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-curry-fest.yaml)
+- Action: new
+- Scope: Public culinary event listed in official 2026 calendar; no future date or venue guarantee, distinct from routine market or religious festivities.
+- Representative coordinates: 6.81, -58.15; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatourism.com/events-calendar/ ; https://guyanacurryfest.com/
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.6 / 8.9 / 8.4.
+- Categories: food:9.4 culture:9.2 photography:8.8.
+- Overall: 85.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-phagwah](../../../countries/GY/sights/georgetown-phagwah.yaml) | 9.0 / 8.9 / 9.2 / 9.3 / 9.0 | impact: -0.6; uniqueness: -0.3 vs peer |
+| [VE/cruz-de-mayo-velorio](../../../countries/VE/sights/cruz-de-mayo-velorio.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.0 | impact: -0.6; uniqueness: -0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-gy-georgetown-pepperpot-festival — Georgetown Pepperpot Festival Public Culinary Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/GY/sights/georgetown-pepperpot-festival.yaml)
+- Action: new
+- Scope: Recurring festival celebrating national dish, fourth edition announced for 28 November 2026; occurrence not verified, future dates unverified. Distinct culinary subject from Curry Fest.
+- Representative coordinates: 6.81, -58.15; approximate village or city point, independent entrance/route verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://guyanatimesgy.com/pepperpot-festival-set-for-november-28-as-vendor-registration-opens/
+- Core I/U/S/E/D: 8.3 / 8.7 / 8.6 / 8.8 / 8.4.
+- Categories: food:9.4 culture:9.2 photography:8.7.
+- Overall: 85.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [GY/georgetown-curry-fest](../../../countries/GY/sights/georgetown-curry-fest.yaml) | 8.4 / 8.6 / 8.6 / 8.9 / 8.4 | impact: -0.1; uniqueness: 0.1 vs peer |
+| [VE/cruz-de-mayo-velorio](../../../countries/VE/sights/cruz-de-mayo-velorio.yaml) | 9.0 / 9.2 / 9.3 / 9.1 / 9.0 | impact: -0.7; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 303 scope decisions
+
+11 source-linked provisional additions, 1 90+, 22 ranking-row comparisons (11 international, 11 domestic). GY 69 ranked / 74 total, +35 since baseline 39, 9 new 90+ across three passes. Prior UNESCO 0 inscribed and 5/5 tentative represented; PAC 3 hinterland and 4 urban areas represented; boundaries not remapped. Independence Carnival May parade separate from February Mashramani. Guyana Festival 2026 revived after more than a decade (https://dpi.gov.gy/guyana-festival-to-return-as-part-of-2026-diamond-jubilee-celebrations/); deferred as recurring standalone experience until continuity confirmed; no separate Diamond Jubilee event row. Toka community activities supported by Visit Rupununi and CTO award reporting. Wakapoa, Shulinab, Nappi, Paruima and Katoonarib named government-launched experiences; no blanket access, consent required. Shulinab excludes existing Saddle Mountain, Nappi excludes unconfirmed waterfall routes. Aishalton cultural experience not separately added pending precise overlap with petroglyphs. Uchi/Oshi waterfall scope and Quarrie waterfall location/route pending, not presumed identical to existing King George VI Falls. National Trust lists 11 designated monuments (https://ntg.gov.gy/national-monuments/): three forts, cathedral and Umana Yana represented as standalone or grouped records; 1763 and Red House added; African Liberation Monument grouped conceptually with Umana Yana designation, State House, Non-Aligned and Walter Rodney tomb/memorial screened as potential historic-city components rather than additional independent ratings; actual boundaries not established. Curry Fest and Pepperpot distinct culinary subjects; Pepperpot 28 November 2026 announced, occurrence not checked. Mount Ayanganna and prior Bartica deferrals retained. PAUSED after three targeted passes to diversify discovery, not closed or exhaustive; additional remote waterfall and community route scope work pending. Existing scores and five unassessed retained; coordinates approximate, permissions, current access and future schedules unverified. Full Python validation and global calibration pending. Next proposed country Suriname.
