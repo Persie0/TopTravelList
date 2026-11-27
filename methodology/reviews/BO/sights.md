@@ -2277,3 +2277,255 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 ### Pass 286 scope decisions
 
 14 additions, 13 source-linked provisional, 1 desk-based provisional, 3 90+, 34 ranking-row comparisons (6 international). BO 107 ranked / 109 total, +53 since baseline 56. Prior 7 inscribed and 5 tentative properties represented at property scope. Chiquitos six named UNESCO components checked against https://whc.unesco.org/en/list/0529/maps/ and represented separately, non-additive to retained umbrella; San Ignacio de Velasco reconstructed cathedral is not an inscribed component. Other serial properties not independently mapped. Santa Cruz Carnival national heritage, distinct UMSA parade; Ibaré-Mamoré distinct from Yacuma, no wildlife interaction. Chalalán deferred as overlapping Madidi, Kallawaya private practices not assumed visitor access; Aguaragüe historical trails identified but current visitor scope insufficient. Prior Pantanal overlap deferrals retained. Existing two unassessed preserved. OPEN for additional bounded regional screen. Coordinates approximate, current permissions and future events unverified.
+
+
+## sight-bo-sucre-guadalupe-festival — Sucre Virgen de Guadalupe Public Folkloric Festival — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/sucre-guadalupe-festival.yaml)
+- Action: new
+- Scope: UNESCO representative intangible heritage inscribed 2025; ABI reported thousands of dancers, musicians and visitors on 12 September 2026. Public processions only, distinct from permanent historic city.
+- Representative coordinates: -19.047, -65.26; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.3 / 9.4 / 9.4 / 9.2 / 9.2.
+- Categories: culture:9.4 history:9.4 photography:9.4.
+- Overall: 93.20/100.
+- Source: https://ich.unesco.org/es/RL/la-fiesta-de-la-virgen-de-guadalupe-patrona-de-sucre-02306
+- Source: https://abi.bo/derroche-de-alegria-y-colorido-se-vive-en-la-entrada-de-la-virgen-de-guadalupe-en-sucre/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct experience with notable cultural significance or uniqueness; compare regional peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/potosi-chutillos](../../../countries/BO/sights/potosi-chutillos.yaml) | 9.3 / 9.4 / 9.4 / 9.2 / 9.2 | impact: +0.0; uniqueness: +0.0 vs peer |
+| [BO/tarija-san-roque](../../../countries/BO/sights/tarija-san-roque.yaml) | 9.2 / 9.3 / 9.4 / 9.2 / 9.2 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [EC/latacunga-mama-negra](../../../countries/EC/sights/latacunga-mama-negra.yaml) | 9.2 / 9.3 / 9.3 / 9.1 / 9.1 | impact: +0.1; uniqueness: +0.1 vs peer |
+| [EC/cuenca-pase-nino-viajero](../../../countries/EC/sights/cuenca-pase-nino-viajero.yaml) | 9.1 / 9.1 / 9.3 / 9.1 / 9.0 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-el-alto-cholets — El Alto Neo-Andean Cholet Architecture Guided Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/el-alto-cholets.yaml)
+- Action: new
+- Scope: Distinct modern Aymara architectural movement documented by Society of Architectural Historians; local operator advertises consent-based guided interiors and exteriors. Excludes uninvited entry to private homes and existing cable-car ride.
+- Representative coordinates: -16.5, -68.19; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.1 / 9.0 / 9.0.
+- Categories: architecture:9.4 culture:9.4 photography:9.4.
+- Overall: 91.80/100.
+- Source: https://sah.org/2023/08/25/neo-andean-architecture-in-el-alto-bolivia/
+- Source: https://turismoelalto.com/tour-cholet/full-day/
+- Source: https://unifranz.edu.bo/blog/arquitectura-cholet-made-in-el-alto-una-oportunidad-para-el-turismo-en-bolivia/
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct experience with notable cultural significance or uniqueness; compare regional peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/mi-teleferico-la-paz-and-el-alto](../../../countries/BO/sights/mi-teleferico-la-paz-and-el-alto.yaml) | 9.0 / 9.3 / 8.0 / 9.1 / 8.2 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [BO/jesuit-missions-of-the-chiquitos](../../../countries/BO/sights/jesuit-missions-of-the-chiquitos.yaml) | 9.0 / 9.3 / 9.5 / 8.6 / 9.4 | impact: +0.2; uniqueness: +0.1 vs peer |
+| [EC/capilla-del-hombre](../../../countries/EC/sights/capilla-del-hombre.yaml) | 8.2 / 8.6 / 8.6 / 8.3 / 7.7 | impact: +1.0; uniqueness: +0.8 vs peer |
+| [EC/historic-centre-of-quito](../../../countries/EC/sights/historic-centre-of-quito.yaml) | 9.3 / 9.0 / 9.6 / 9.0 / 9.4 | impact: -0.1; uniqueness: +0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-tiwanaku-willkakuti — Tiwanaku Willkakuti Andean New Year Public Solstice Celebration — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/tiwanaku-willkakuti.yaml)
+- Action: new
+- Scope: Public June solstice celebration distinct from archaeological visit; ABI reports attendance reduced from 15000 to 800 in June 2026 due to road closures. Intrinsic score not reduced for temporary disruption. No future event, access, private rites or specific sacred-space entry guaranteed.
+- Representative coordinates: -16.554, -68.673; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 9.1 / 9.3 / 9.4 / 8.9 / 9.0.
+- Categories: culture:9.4 history:9.4 photography:9.2.
+- Overall: 91.70/100.
+- Source: https://abi.bo/ano-nuevo-andino-en-tiwanaku-cae-de-15-000-a-800-visitantes-y-la-actividad-economica-se-desploma/
+- Source: https://www.reduno.com.bo/noticias/bolivia-recibe-el-ano-nuevo-andino-amazonico-y-chaqueno-5-534-202662172833
+- Decision: provisional worldwide score; temporary access excluded. High-score challenge: documented distinct experience with notable cultural significance or uniqueness; compare regional peers below, broader calibration pending. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/tiwanaku-archaeological-site](../../../countries/BO/sights/tiwanaku-archaeological-site.yaml) | 9.0 / 9.4 / 9.7 / 8.6 / 8.8 | impact: +0.1; uniqueness: -0.1 vs peer |
+| [BO/tarabuco-pujllay](../../../countries/BO/sights/tarabuco-pujllay.yaml) | 9.0 / 9.3 / 9.3 / 9.0 / 9.1 | impact: +0.1; uniqueness: +0.0 vs peer |
+| [EC/cotacachi-inti-raymi](../../../countries/EC/sights/cotacachi-inti-raymi.yaml) | 8.9 / 9.3 / 9.3 / 8.8 / 9.1 | impact: +0.2; uniqueness: +0.0 vs peer |
+| [EC/pillaro-diablada](../../../countries/EC/sights/pillaro-diablada.yaml) | 9.1 / 9.4 / 9.2 / 9.2 / 9.0 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-sucre-asur-textile-museum — Sucre ASUR Indigenous Textile Art Museum — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/sucre-asur-textile-museum.yaml)
+- Action: new
+- Scope: Official Bicentennial tourism guide identifies Jalq'a and Tarabuco textiles; ASUR textile revitalization and museum interpretation distinct from Sunday market and historic centre. Current exhibitions and hours unverified.
+- Representative coordinates: -19.052, -65.255; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 9.2 / 9.3 / 8.8 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:8.8.
+- Overall: 89.60/100.
+- Source: https://bicentenariocpe.tcpbolivia.bo/guia-turistica/lugar/museo-de-arte-indigena-asur
+- Source: https://www.soysucre.info/es/museo-de-arte-indigena-asur/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/museo-nacional-de-etnografia-y-folklore](../../../countries/BO/sights/museo-nacional-de-etnografia-y-folklore.yaml) | 8.2 / 8.7 / 8.8 / 8.4 / 8.1 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [BO/tarabuco-sunday-market](../../../countries/BO/sights/tarabuco-sunday-market.yaml) | 8.0 / 8.6 / 7.8 / 8.5 / 7.2 | impact: +0.6; uniqueness: +0.6 vs peer |
+| [EC/montecristi-toquilla](../../../countries/EC/sights/montecristi-toquilla.yaml) | 8.2 / 8.9 / 9.1 / 8.6 / 8.3 | impact: +0.4; uniqueness: +0.3 vs peer |
+| [EC/gualaceo-chordeleg-crafts](../../../countries/EC/sights/gualaceo-chordeleg-crafts.yaml) | 8.2 / 8.6 / 8.8 / 8.7 / 8.6 | impact: +0.4; uniqueness: +0.6 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-sampaya-community — Sampaya Aymara Community Cultural Visit — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/sampaya-community.yaml)
+- Action: new
+- Scope: Operator documents community lodge and craft centre; host-consented cultural interpretation and village visit only, non-additive to same Titicaca itinerary; current arrangements unverified.
+- Representative coordinates: -16.08, -69.05; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.6 / 8.9 / 9.0 / 8.7 / 8.8.
+- Categories: culture:9.3 history:9.1 nature:9.1.
+- Overall: 87.90/100.
+- Source: https://www.latebolivia.com/es/Destinos/Actividades-especiales/Convivencia-con-comunidades
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/isla-del-sol](../../../countries/BO/sights/isla-del-sol.yaml) | 9.1 / 9.0 / 9.1 / 8.8 / 8.6 | impact: -0.5; uniqueness: -0.1 vs peer |
+| [BO/pilon-lajas-mapajo](../../../countries/BO/sights/pilon-lajas-mapajo.yaml) | 9.0 / 9.2 / 9.3 / 8.7 / 9.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-incachaca-waterfalls — Incachaca Waterfalls and Forest Recreation — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/incachaca-waterfalls.yaml)
+- Action: new
+- Scope: Unitel reports waterfalls, river, forest and visitor recreation; scope landscape and authorized walks, excludes riskier activities and current operating guarantees.
+- Representative coordinates: -17.22, -65.83; approximate, not independently verified.
+- Evidence status: **source-linked provisional; public source excerpts inspected**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.2 / 8.8 / 8.5.
+- Categories: nature:9.2 photography:9.2 adventure:9.0.
+- Overall: 85.70/100.
+- Source: https://unitel.bo/noticias/sociedad/incachaca-un-destino-turistico-obligatorio-de-cochabamba-GB13126365
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/las-cuevas-waterfalls](../../../countries/BO/sights/las-cuevas-waterfalls.yaml) | 8.5 / 8.3 / 7.8 / 8.8 / 8.0 | impact: +0.2; uniqueness: +0.3 vs peer |
+| [BO/carrasco-guacharos](../../../countries/BO/sights/carrasco-guacharos.yaml) | 8.8 / 8.9 / 9.0 / 8.7 / 8.6 | impact: -0.1; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-sorata-san-pedro-cave — Sorata Gruta de San Pedro Cave and Underground Lake — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/sorata-san-pedro-cave.yaml)
+- Action: new
+- Scope: Desk-based cave visit distinct from Illampu mountain circuit; conditions and boat access unverified.
+- Representative coordinates: -15.78, -68.7; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.5 / 8.7 / 8.2 / 8.5 / 8.3.
+- Categories: adventure:9.1 nature:9.0 photography:8.9.
+- Overall: 84.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/umajalanta-cave](../../../countries/BO/sights/umajalanta-cave.yaml) | 8.1 / 8.2 / 7.7 / 8.1 / 7.4 | impact: +0.4; uniqueness: +0.5 vs peer |
+| [BO/illampu-circuit](../../../countries/BO/sights/illampu-circuit.yaml) | 9.4 / 9.2 / 8.8 / 8.7 / 9.3 | impact: -0.9; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-sajama-geysers — Sajama Juchusuma Geothermal Field — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/sajama-geysers.yaml)
+- Action: new
+- Scope: Desk-based distinct geothermal visitor stop; non-additive to Sajama park trip; no bathing or off-trail access assumed.
+- Representative coordinates: -18.1, -68.97; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.2 / 8.6 / 8.1.
+- Categories: nature:9.2 photography:9.3 adventure:8.8.
+- Overall: 85.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/sol-de-manana-geothermal-field](../../../countries/BO/sights/sol-de-manana-geothermal-field.yaml) | 8.8 / 8.9 / 7.9 / 8.0 / 7.2 | impact: +0.0; uniqueness: -0.2 vs peer |
+| [BO/sajama-national-park](../../../countries/BO/sights/sajama-national-park.yaml) | 9.3 / 9.2 / 9.0 / 8.8 / 9.0 | impact: -0.5; uniqueness: -0.5 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-polques-hot-springs — Polques Highland Thermal Springs — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/polques-hot-springs.yaml)
+- Action: new
+- Scope: Desk-based thermal stop in Eduardo Avaroa circuit, non-additive to parent; no medical claims or water safety guarantee.
+- Representative coordinates: -22.54, -67.66; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.5 / 7.8 / 8.8 / 8.0.
+- Categories: relaxation:9.3 nature:9.1 photography:9.2.
+- Overall: 84.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/sol-de-manana-geothermal-field](../../../countries/BO/sights/sol-de-manana-geothermal-field.yaml) | 8.8 / 8.9 / 7.9 / 8.0 / 7.2 | impact: -0.1; uniqueness: -0.4 vs peer |
+| [BO/eduardo-avaroa-andean-fauna-national-reserve](../../../countries/BO/sights/eduardo-avaroa-andean-fauna-national-reserve.yaml) | 9.6 / 9.5 / 9.2 / 9.0 / 9.3 | impact: -0.9; uniqueness: -1.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-sucre-recoleta — Sucre La Recoleta Convent and Historic Viewpoint — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/sucre-recoleta.yaml)
+- Action: new
+- Scope: Desk-based separate built heritage and public plaza/viewpoint; non-additive to historic centre visit, interior admission unverified.
+- Representative coordinates: -19.052, -65.256; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.7 / 8.6 / 8.2.
+- Categories: architecture:9.1 history:9.0 photography:9.2.
+- Overall: 84.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/convento-de-san-felipe-neri-sucre](../../../countries/BO/sights/convento-de-san-felipe-neri-sucre.yaml) | 8.2 / 7.9 / 8.2 / 8.4 / 7.0 | impact: +0.1; uniqueness: +0.5 vs peer |
+| [BO/historic-city-of-sucre](../../../countries/BO/sights/historic-city-of-sucre.yaml) | 9.0 / 8.8 / 9.4 / 8.9 / 8.9 | impact: -0.7; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-santa-cruz-cathedral-plaza — Santa Cruz Metropolitan Cathedral and Plaza 24 de Septiembre — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/santa-cruz-cathedral-plaza.yaml)
+- Action: new
+- Scope: Desk-based grouped central architectural ensemble and public square, separate from carnival; no interior opening guarantee.
+- Representative coordinates: -17.783, -63.182; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.1 / 8.2 / 8.8 / 8.6 / 8.4.
+- Categories: architecture:9.0 history:9.0 culture:8.9.
+- Overall: 83.70/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/plaza-murillo](../../../countries/BO/sights/plaza-murillo.yaml) | 7.7 / 7.6 / 8.5 / 7.9 / 6.9 | impact: +0.4; uniqueness: +0.6 vs peer |
+| [BO/san-francisco-basilica-la-paz](../../../countries/BO/sights/san-francisco-basilica-la-paz.yaml) | 8.3 / 8.6 / 8.6 / 8.3 / 7.3 | impact: -0.2; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-bo-cochabamba-palacio-portales — Cochabamba Palacio Portales Cultural Centre and Gardens — 2026-11-27
+
+- YAML: [source](../../../countries/BO/sights/cochabamba-palacio-portales.yaml)
+- Action: new
+- Scope: Desk-based historic mansion and gardens, public cultural interpretation; hours unverified.
+- Representative coordinates: -17.373, -66.151; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.8 / 8.6 / 8.5.
+- Categories: architecture:9.3 history:9.1 photography:9.1.
+- Overall: 85.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [BO/casa-nacional-de-la-moneda](../../../countries/BO/sights/casa-nacional-de-la-moneda.yaml) | 8.5 / 8.9 / 9.4 / 8.5 / 8.0 | impact: -0.2; uniqueness: -0.4 vs peer |
+| [BO/historic-city-of-sucre](../../../countries/BO/sights/historic-city-of-sucre.yaml) | 9.0 / 8.8 / 9.4 / 8.9 / 8.9 | impact: -0.7; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 287 scope decisions
+
+12 additions, 6 source-linked provisional, 6 desk-based provisional, 3 90+, 32 ranking-row comparisons (8 international). BO 119 ranked / 121 total, +65 since baseline 56. Prior seven inscribed and five tentative World Heritage properties represented at property scope, Chiquitos six named components represented; other serial components not independently mapped. UNESCO intangible list confirms Sucre Guadalupe inscription in 2025 (https://ich.unesco.org/es/RL/la-fiesta-de-la-virgen-de-guadalupe-patrona-de-sucre-02306). Tiwanaku Willkakuti June 2026 event reduced by road closures; no intrinsic score penalty. Cholets only authorized guided public-facing architecture; Sampaya consent-based. Serranía del Iñao deferred pending specific visitor scope, prior Aguaragüe/Pantanal/Madidi overlap and access deferrals retained. Sajama and Polques non-additive to parent parks; two unassessed and existing scores preserved. OPEN for final bounded regional screen. Coordinates approximate, permissions and future events unverified.

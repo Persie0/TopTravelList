@@ -5083,3 +5083,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] BO — Trinidad Laguna Suárez Lakeside Recreation: 79.85/100 (source-linked-unverified).
 
 14 additions, 13 source-linked provisional, 1 desk-based provisional, 3 90+, 34 ranking-row comparisons (6 international). BO 107 ranked / 109 total, +53 since baseline 56. Prior 7 inscribed and 5 tentative properties represented at property scope. Chiquitos six named UNESCO components checked against https://whc.unesco.org/en/list/0529/maps/ and represented separately, non-additive to retained umbrella; San Ignacio de Velasco reconstructed cathedral is not an inscribed component. Other serial properties not independently mapped. Santa Cruz Carnival national heritage, distinct UMSA parade; Ibaré-Mamoré distinct from Yacuma, no wildlife interaction. Chalalán deferred as overlapping Madidi, Kallawaya private practices not assumed visitor access; Aguaragüe historical trails identified but current visitor scope insufficient. Prior Pantanal overlap deferrals retained. Existing two unassessed preserved. OPEN for additional bounded regional screen. Coordinates approximate, current permissions and future events unverified.
+
+### Pass 287 — Bolivia living culture, architecture and geological landscapes
+
+- [x] BO — Sucre Virgen de Guadalupe Public Folkloric Festival: 93.20/100 (source-linked-unverified).
+- [x] BO — El Alto Neo-Andean Cholet Architecture Guided Circuit: 91.80/100 (source-linked-unverified).
+- [x] BO — Tiwanaku Willkakuti Andean New Year Public Solstice Celebration: 91.70/100 (source-linked-unverified).
+- [x] BO — Sucre ASUR Indigenous Textile Art Museum: 89.60/100 (source-linked-unverified).
+- [x] BO — Sampaya Aymara Community Cultural Visit: 87.90/100 (source-linked-unverified).
+- [x] BO — Incachaca Waterfalls and Forest Recreation: 85.70/100 (source-linked-unverified).
+- [x] BO — Sajama Juchusuma Geothermal Field: 85.55/100 (desk-based provisional).
+- [x] BO — Cochabamba Palacio Portales Cultural Centre and Gardens: 85.15/100 (desk-based provisional).
+- [x] BO — Sorata Gruta de San Pedro Cave and Underground Lake: 84.70/100 (desk-based provisional).
+- [x] BO — Sucre La Recoleta Convent and Historic Viewpoint: 84.40/100 (desk-based provisional).
+- [x] BO — Polques Highland Thermal Springs: 84.15/100 (desk-based provisional).
+- [x] BO — Santa Cruz Metropolitan Cathedral and Plaza 24 de Septiembre: 83.70/100 (desk-based provisional).
+
+12 additions, 6 source-linked provisional, 6 desk-based provisional, 3 90+, 32 ranking-row comparisons (8 international). BO 119 ranked / 121 total, +65 since baseline 56. Prior seven inscribed and five tentative World Heritage properties represented at property scope, Chiquitos six named components represented; other serial components not independently mapped. UNESCO intangible list confirms Sucre Guadalupe inscription in 2025 (https://ich.unesco.org/es/RL/la-fiesta-de-la-virgen-de-guadalupe-patrona-de-sucre-02306). Tiwanaku Willkakuti June 2026 event reduced by road closures; no intrinsic score penalty. Cholets only authorized guided public-facing architecture; Sampaya consent-based. Serranía del Iñao deferred pending specific visitor scope, prior Aguaragüe/Pantanal/Madidi overlap and access deferrals retained. Sajama and Polques non-additive to parent parks; two unassessed and existing scores preserved. OPEN for final bounded regional screen. Coordinates approximate, permissions and future events unverified.
