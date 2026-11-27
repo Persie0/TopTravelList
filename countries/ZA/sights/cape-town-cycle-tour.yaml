@@ -1,0 +1,16 @@
+id: sight-za-cape-town-cycle-tour
+name: "Cape Town Cycle Tour Annual Cycling and Spectator Event"
+location:
+  country_code: ZA
+  latitude: -33.92
+  longitude: 18.43
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.2
+  depth: 9.0
+  categories:
+    culture: 9.2
+    adventure: 9.3
+    photography: 9.2

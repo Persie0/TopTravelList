@@ -1,0 +1,17 @@
+id: sight-za-aliwal-shoal
+name: "Aliwal Shoal Marine Protected Area Reef Diving and Shark Encounters"
+location:
+  country_code: ZA
+  latitude: -30.27
+  longitude: 30.83
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 9.0
+  experience: 9.0
+  depth: 9.0
+  categories:
+    wildlife: 9.4
+    nature: 9.4
+    adventure: 9.4
+    photography: 9.2

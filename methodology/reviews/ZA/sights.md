@@ -1155,3 +1155,336 @@ Ranking rows and allowed categories checked; independent coordinate, peer YAML, 
 ### Pass 249 scope decisions
 
 16 additions, 9 source-linked provisional, 7 desk-based provisional, 7 90+, 41 ranking-row comparisons (14 international). ZA 44 ranked / 50 total, +16 since baseline 34. South Africa selected for sparse baseline and missing flagship safaris, museums and festivals. Sabi Sand shared ecosystem non-additive with Kruger; independently operated safaris only. Namaqua and West Coast separate flower circuits; bloom conditions variable. Constitution Hill deferred as component of Mandela Legacy Sites (https://www.constitutionhill.org.za/home); Maropeng deferred pending Fossil Hominid Sites parent-scope reconciliation (https://www.maropeng.co.za/); De Hoop deferred pending Cape Floral aggregate boundary review (https://whc.unesco.org/en/list/1007/). V&A public harbour excludes Zeitz and Robben Island. Existing six unassessed and ratings preserved. Coordinates approximate, access and future schedules unverified. Regional discovery queue open; further park, heritage and recurring-event screen needed.
+
+## sight-za-sardine-run — Eastern Cape and KwaZulu-Natal Sardine Run Marine Wildlife Expeditions — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/sardine-run.yaml)
+- Action: new
+- Scope: Seasonal migration and multi-species predator feeding spectacle; Port St Johns representative launch point, no wildlife sighting guaranteed; excludes year-round reef dives.
+- Representative coordinates: -31.63, 29.55; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.6 / 9.6 / 9.3 / 9.1 / 9.2.
+- Categories: wildlife:9.5 nature:9.4 photography:9.4 adventure:9.4.
+- Overall: 94.25/100.
+- Source: https://visiteasterncape.co.za/sardine-run/
+- Source: https://www.southafrica.net/gl/en/travel/article/wild-coast-diving-at-cathedral-rock-eastern-cape
+- Decision: provisional worldwide score; temporary access excluded. Impact/uniqueness 9.6 and wildlife 9.5 provisional for documented large-scale marine feeding phenomenon; independent global calibration pending.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/kruger-national-park](../../../countries/ZA/sights/kruger-national-park.yaml) | 9.7 / 9.5 / 9.5 / 9.5 / 9.7 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [ZA/isimangaliso-wetland-park](../../../countries/ZA/sights/isimangaliso-wetland-park.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.3 | impact: +0.3; uniqueness: +0.2 vs peer |
+| [BR/southern-right-whales](../../../countries/BR/sights/southern-right-whales.yaml) | 9.2 / 9.2 / 9.1 / 9.1 / 9.0 | impact: +0.4; uniqueness: +0.4 vs peer |
+| [BR/pantanal-brazilian-wildlife-routes](../../../countries/BR/sights/pantanal-brazilian-wildlife-routes.yaml) | 9.3 / 9.4 / 9.2 / 9.1 / 9.3 | impact: +0.3; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-kaapse-klopse — Cape Town Tweede Nuwe Jaar Kaapse Klopse Street Parade — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/kaapse-klopse.yaml)
+- Action: new
+- Scope: Public parade with roots in slavery; municipality reports nearly 25,000 stadium spectators and tens of thousands on streets in 2026. Excludes built heritage.
+- Representative coordinates: -33.91, 18.41; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.2 / 9.4 / 9.4 / 9.2 / 9.1.
+- Categories: culture:9.4 photography:9.4 nightlife:9.2.
+- Overall: 92.80/100.
+- Source: https://www.capetown.gov.za/local-and-communities/heritage-and-the-community/our-history-and-heritage/what-is-our-history/
+- Source: https://www.capetown.gov.za/media-and-news/tweede-nuwe-jaar-tens-of-thousands-celebrate-in-cape-town/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/national-arts-festival](../../../countries/ZA/sights/national-arts-festival.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: +0.1; uniqueness: +0.2 vs peer |
+| [BR/recife-olinda-carnival](../../../countries/BR/sights/recife-olinda-carnival.yaml) | 9.2 / 9.3 / 9.3 / 9.3 / 9.1 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [BR/rio-reveillon](../../../countries/BR/sights/rio-reveillon.yaml) | 9.6 / 9.4 / 9.3 / 9.5 / 9.0 | impact: -0.4; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-comrades-marathon — Comrades Marathon Durban Pietermaritzburg Ultramarathon Event — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/comrades-marathon.yaml)
+- Action: new
+- Scope: Public spectator and eligible participant experience; oldest ultramarathon according to Guinness, founded 1921; direction varies.
+- Representative coordinates: -29.86, 31.02; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.0.
+- Categories: culture:9.3 history:9.4 adventure:9.2.
+- Overall: 91.55/100.
+- Source: https://www.guinnessworldrecords.com/world-records/384362-oldest-ultramarathon
+- Source: https://comrades.com/histories
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/national-arts-festival](../../../countries/ZA/sights/national-arts-festival.yaml) | 9.1 / 9.2 / 9.3 / 9.2 / 9.3 | impact: -0.1; uniqueness: +0.1 vs peer |
+| [BR/sao-paulo-grand-prix](../../../countries/BR/sights/sao-paulo-grand-prix.yaml) | 9.3 / 9.2 / 9.4 / 9.3 / 9.1 | impact: -0.3; uniqueness: +0.1 vs peer |
+| [BR/saquarema-world-surf-league](../../../countries/BR/sights/saquarema-world-surf-league.yaml) | 9.0 / 9.1 / 9.0 / 9.1 / 8.9 | impact: +0.0; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-aliwal-shoal — Aliwal Shoal Marine Protected Area Reef Diving and Shark Encounters — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/aliwal-shoal.yaml)
+- Action: new
+- Scope: Reef diving with fossilized dunes, corals and documented shark species; excludes sardine migration. No guarantee of sightings or diving suitability.
+- Representative coordinates: -30.27, 30.83; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.2 / 9.2 / 9.0 / 9.0 / 9.0.
+- Categories: wildlife:9.4 nature:9.4 adventure:9.4 photography:9.2.
+- Overall: 91.10/100.
+- Source: https://www.marineprotectedareas.org.za/aliwal-shoal-mpa
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/isimangaliso-wetland-park](../../../countries/ZA/sights/isimangaliso-wetland-park.yaml) | 9.3 / 9.4 / 9.4 / 9.1 / 9.3 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [BR/abrolhos-marine-national-park](../../../countries/BR/sights/abrolhos-marine-national-park.yaml) | 8.9 / 9.1 / 9.1 / 8.3 / 8.0 | impact: +0.3; uniqueness: +0.1 vs peer |
+| [BR/alcatrazes-archipelago](../../../countries/BR/sights/alcatrazes-archipelago.yaml) | 9.0 / 9.2 / 9.1 / 8.9 / 9.0 | impact: +0.2; uniqueness: +0.0 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-cape-town-cycle-tour — Cape Town Cycle Tour Annual Cycling and Spectator Event — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/cape-town-cycle-tour.yaml)
+- Action: new
+- Scope: Annual Cape Peninsula cycling event; organizer and municipality report around 30,000 riders and describe it as world's largest timed cycling event. No double counting permanent road scenery.
+- Representative coordinates: -33.92, 18.43; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 9.1 / 8.9 / 9.0 / 9.2 / 9.0.
+- Categories: culture:9.2 adventure:9.3 photography:9.2.
+- Overall: 90.35/100.
+- Source: https://www.cycletour.org.za/about-us
+- Source: https://www.capetown.gov.za/media-and-news/welcome-to-cape-town-cycle-tour-week/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/chapmans-peak-drive](../../../countries/ZA/sights/chapmans-peak-drive.yaml) | 9.0 / 8.5 / 8.2 / 8.8 / 8.2 | impact: +0.1; uniqueness: +0.4 vs peer |
+| [BR/sao-paulo-grand-prix](../../../countries/BR/sights/sao-paulo-grand-prix.yaml) | 9.3 / 9.2 / 9.4 / 9.3 / 9.1 | impact: -0.2; uniqueness: -0.3 vs peer |
+| [ZA/comrades-marathon](../../../countries/ZA/sights/comrades-marathon.yaml) | 9.0 / 9.3 / 9.4 / 9.0 / 9.0 | impact: +0.1; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-two-oceans-aquarium — Two Oceans Aquarium Cape Town Marine Biodiversity and Kelp Forest Exhibits — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/two-oceans-aquarium.yaml)
+- Action: new
+- Scope: Dedicated aquarium, separate from public harbour; tourism authority reports 8,000-plus animals from over 200 species.
+- Representative coordinates: -33.908, 18.418; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.9 / 9.1 / 9.0 / 9.1 / 9.1.
+- Categories: wildlife:9.4 nature:9.3 family:9.4.
+- Overall: 90.20/100.
+- Source: https://www.aquarium.co.za/exhibits
+- Source: https://www.aquarium.co.za/animals/kelp-forest
+- Source: https://www.capetown.travel/listing/two-oceans-aquarium/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/zeitz-mocaa](../../../countries/ZA/sights/zeitz-mocaa.yaml) | 9.0 / 9.3 / 9.3 / 9.1 / 9.2 | impact: -0.1; uniqueness: -0.2 vs peer |
+| [BR/bioparque-pantanal](../../../countries/BR/sights/bioparque-pantanal.yaml) | 9.1 / 9.3 / 9.2 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [BR/parque-das-aves](../../../countries/BR/sights/parque-das-aves.yaml) | 8.7 / 8.8 / 8.7 / 9.0 / 8.8 | impact: +0.2; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-isandlwana-rorkes-drift — Isandlwana and Rorke’s Drift Anglo-Zulu War Battlefield Heritage Circuit — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/isandlwana-rorkes-drift.yaml)
+- Action: new
+- Scope: Grouped historical landscape and interpretation, not celebration of violence; Ditsong Museums documents heritage significance.
+- Representative coordinates: -28.36, 30.65; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.3 / 8.5 / 8.8.
+- Categories: history:9.4 culture:9.2 photography:9.0.
+- Overall: 88.45/100.
+- Source: https://ditsong.org.za/en/the-lasting-heritage-and-legacy-of-the-battle-isandlwana-and-the-defence-of-rorkes-drift-2/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/emakhosini](../../../countries/ZA/sights/emakhosini.yaml) | 8.2 / 9.0 / 9.2 / 8.2 / 8.0 | impact: +0.4; uniqueness: +0.0 vs peer |
+| [ZA/robben-island](../../../countries/ZA/sights/robben-island.yaml) | 8.8 / 9.3 / 9.8 / 8.9 / 8.4 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-gansbaai-shark-diving — Gansbaai Authorized Shark Cage Diving and Marine Wildlife Excursions — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/gansbaai-shark-diving.yaml)
+- Action: new
+- Scope: Present-day multispecies experience; bronze whalers predominate according to operator. Lasting wildlife changes reflected; no great white sighting or safety guarantee.
+- Representative coordinates: -34.61, 19.35; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.9 / 8.9 / 8.5 / 8.7 / 8.6.
+- Categories: wildlife:9.2 adventure:9.2 photography:9.1.
+- Overall: 87.60/100.
+- Source: https://www.whitesharkprojects.co.za/sharks-right-now/
+- Source: https://www.citizen.co.za/news/great-white-sharks-vanish-from-gansbaai-waters/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/aliwal-shoal](../../../countries/ZA/sights/aliwal-shoal.yaml) | 9.2 / 9.2 / 9.0 / 9.0 / 9.0 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [ZA/hermanus-cliff-path](../../../countries/ZA/sights/hermanus-cliff-path.yaml) | 8.6 / 8.8 / 8.3 / 8.9 / 8.5 | impact: +0.3; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-hole-in-the-wall — Wild Coast Hole in the Wall and Coffee Bay Coastal Walks — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/hole-in-the-wall.yaml)
+- Action: new
+- Scope: Natural offshore arch and adjacent coastal landscapes, excludes Sardine Run excursions.
+- Representative coordinates: -32.04, 29.11; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.9 / 8.8 / 8.4 / 8.7 / 8.4.
+- Categories: nature:9.2 photography:9.3 beaches:9.1.
+- Overall: 86.95/100.
+- Source: https://www.southafrica.net/za/en/travel/article/marvel-at-the-hole-in-the-wall
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/cape-point](../../../countries/ZA/sights/cape-point.yaml) | 9.3 / 8.9 / 8.8 / 9.1 / 8.6 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [ZA/chapmans-peak-drive](../../../countries/ZA/sights/chapmans-peak-drive.yaml) | 9.0 / 8.5 / 8.2 / 8.8 / 8.2 | impact: -0.1; uniqueness: +0.3 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-mountain-zebra-national-park — Mountain Zebra National Park Cape Mountain Zebra Conservation and Safaris — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/mountain-zebra-national-park.yaml)
+- Action: new
+- Scope: Distinct Eastern Cape protected area; species sightings not guaranteed.
+- Representative coordinates: -32.24, 25.47; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.8 / 8.9 / 8.7 / 8.8.
+- Categories: wildlife:9.3 nature:9.2 photography:9.1.
+- Overall: 88.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/addo-elephant-national-park](../../../countries/ZA/sights/addo-elephant-national-park.yaml) | 9.1 / 8.9 / 8.9 / 9.0 / 9.0 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [ZA/mokala-national-park](../../../countries/ZA/sights/mokala-national-park.yaml) | 8.4 / 8.6 / 8.7 / 8.6 / 8.6 | impact: +0.4; uniqueness: +0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-marakele-national-park — Marakele National Park Waterberg Mountain and Wildlife Safaris — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/marakele-national-park.yaml)
+- Action: new
+- Scope: Distinct Waterberg park; mountain and savanna experiences grouped.
+- Representative coordinates: -24.43, 27.63; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.7 / 8.7 / 8.8.
+- Categories: wildlife:9.2 nature:9.3 photography:9.2.
+- Overall: 87.40/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/pilanesberg](../../../countries/ZA/sights/pilanesberg.yaml) | 9.1 / 8.9 / 8.7 / 9.0 / 9.0 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [ZA/madikwe-game-reserve](../../../countries/ZA/sights/madikwe-game-reserve.yaml) | 9.1 / 9.1 / 9.2 / 9.0 / 9.1 | impact: -0.3; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-tankwa-karoo-national-park — Tankwa Karoo National Park Arid Wilderness and Night Skies — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/tankwa-karoo-national-park.yaml)
+- Action: new
+- Scope: Distinct arid park and dark skies; closure notices exist, temporary access excluded from intrinsic score.
+- Representative coordinates: -32.25, 19.85; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.7 / 8.8 / 8.5 / 8.5 / 8.8.
+- Categories: nature:9.2 photography:9.3 adventure:9.0.
+- Overall: 86.65/100.
+- Source: https://www.sanparks.org/parks/tankwa-karoo
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/karoo-national-park](../../../countries/ZA/sights/karoo-national-park.yaml) | 8.7 / 8.7 / 8.6 / 8.6 / 8.8 | impact: +0.0; uniqueness: +0.1 vs peer |
+| [ZA/cederberg](../../../countries/ZA/sights/cederberg.yaml) | 9.2 / 9.0 / 8.8 / 8.9 / 9.0 | impact: -0.5; uniqueness: -0.2 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-voortrekker-monument — Voortrekker Monument Pretoria Historical Architecture and Interpretation — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/voortrekker-monument.yaml)
+- Action: new
+- Scope: Critical interpretation of Afrikaner nationalism and historical architecture; score not endorsement.
+- Representative coordinates: -25.776, 28.176; approximate, not independently verified.
+- Evidence status: **source-linked provisional**
+- Core I/U/S/E/D: 8.6 / 8.8 / 9.0 / 8.4 / 8.6.
+- Categories: history:9.3 architecture:9.3 culture:9.0.
+- Overall: 87.00/100.
+- Source: https://www.sahra.org.za/voortrekker-monument/
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/union-buildings](../../../countries/ZA/sights/union-buildings.yaml) | 8.3 / 8.4 / 9.2 / 8.1 / 7.7 | impact: +0.3; uniqueness: +0.4 vs peer |
+| [ZA/apartheid-museum](../../../countries/ZA/sights/apartheid-museum.yaml) | 9.1 / 9.2 / 9.6 / 9.1 / 9.0 | impact: -0.5; uniqueness: -0.4 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-iziko-south-african-museum — Iziko South African Museum Cape Town Natural and Cultural History — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/iziko-south-african-museum.yaml)
+- Action: new
+- Scope: Permanent natural and cultural collections, excludes separate art gallery and gardens.
+- Representative coordinates: -33.929, 18.417; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.6 / 8.7 / 9.0 / 8.7 / 9.0.
+- Categories: history:9.3 nature:9.3 family:9.2.
+- Overall: 87.60/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/zeitz-mocaa](../../../countries/ZA/sights/zeitz-mocaa.yaml) | 9.0 / 9.3 / 9.3 / 9.1 / 9.2 | impact: -0.4; uniqueness: -0.6 vs peer |
+| [BR/goeldi-museum](../../../countries/BR/sights/goeldi-museum.yaml) | 8.5 / 8.8 / 9.0 / 8.7 / 8.8 | impact: +0.1; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-oribi-gorge — Oribi Gorge Nature Reserve KwaZulu-Natal Canyon Viewpoints and Trails — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/oribi-gorge.yaml)
+- Action: new
+- Scope: Distinct inland gorge; no commercial adventure eligibility implied.
+- Representative coordinates: -30.68, 30.28; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.6 / 8.2 / 8.7 / 8.5.
+- Categories: nature:9.2 photography:9.3 adventure:9.1.
+- Overall: 85.55/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/blyde-river-canyon](../../../countries/ZA/sights/blyde-river-canyon.yaml) | 9.4 / 9.0 / 8.8 / 9.0 / 8.8 | impact: -0.7; uniqueness: -0.4 vs peer |
+| [BR/guartela-canyon](../../../countries/BR/sights/guartela-canyon.yaml) | 8.7 / 8.7 / 8.5 / 8.8 / 8.7 | impact: +0.0; uniqueness: -0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+## sight-za-ushaka-marine-world — uShaka Marine World Durban Aquarium and Waterpark — 2026-11-27
+
+- YAML: [source](../../../countries/ZA/sights/ushaka-marine-world.yaml)
+- Action: new
+- Scope: Grouped aquarium and waterpark; animal welfare and shows not independently assessed.
+- Representative coordinates: -29.867, 31.046; approximate, not independently verified.
+- Evidence status: **desk-based provisional**
+- Core I/U/S/E/D: 8.7 / 8.4 / 8.4 / 9.0 / 8.8.
+- Categories: family:9.4 wildlife:9.1 relaxation:9.1.
+- Overall: 86.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [ZA/two-oceans-aquarium](../../../countries/ZA/sights/two-oceans-aquarium.yaml) | 8.9 / 9.1 / 9.0 / 9.1 / 9.1 | impact: -0.2; uniqueness: -0.7 vs peer |
+| [ZA/sun-city](../../../countries/ZA/sights/sun-city.yaml) | 8.6 / 8.3 / 8.0 / 9.1 / 8.8 | impact: +0.1; uniqueness: +0.1 vs peer |
+
+Independent coordinates, peer YAML, global calibration and full Python validation pending.
+
+### Pass 250 scope decisions
+
+16 additions, 11 source-linked provisional, 5 desk-based provisional, 6 90+, 39 ranking-row comparisons (13 international). ZA 60 ranked / 66 total, +32 since baseline. Sardine Run grouped, excludes Aliwal reef dives; Gansbaai present-day multispecies encounters only. Kaapse Klopse separate from built heritage, Cycle Tour separate from road scenery. Two Oceans Aquarium excludes public waterfront. Isandlwana and Rorke’s Drift grouped. Constitution Hill still deferred; official serial component confirmed (https://whc.unesco.org/en/list/1676/maps/). Prior Maropeng and De Hoop deferrals retained. Coordinates approximate; access/schedules unverified. Six unassessed and existing scores preserved; discovery queue open.

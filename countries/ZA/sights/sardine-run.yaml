@@ -1,0 +1,17 @@
+id: sight-za-sardine-run
+name: "Eastern Cape and KwaZulu-Natal Sardine Run Marine Wildlife Expeditions"
+location:
+  country_code: ZA
+  latitude: -31.63
+  longitude: 29.55
+scores:
+  impact: 9.6
+  uniqueness: 9.6
+  significance: 9.3
+  experience: 9.1
+  depth: 9.2
+  categories:
+    wildlife: 9.5
+    nature: 9.4
+    photography: 9.4
+    adventure: 9.4

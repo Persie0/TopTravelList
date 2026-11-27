@@ -4426,3 +4426,24 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] ZA — Cango Caves Oudtshoorn Limestone Cavern Tours: 87.45/100 (desk-based provisional).
 
 16 additions, 9 source-linked provisional, 7 desk-based provisional, 7 90+, 41 ranking-row comparisons (14 international). ZA 44 ranked / 50 total, +16 since baseline 34. South Africa selected for sparse baseline and missing flagship safaris, museums and festivals. Sabi Sand shared ecosystem non-additive with Kruger; independently operated safaris only. Namaqua and West Coast separate flower circuits; bloom conditions variable. Constitution Hill deferred as component of Mandela Legacy Sites (https://www.constitutionhill.org.za/home); Maropeng deferred pending Fossil Hominid Sites parent-scope reconciliation (https://www.maropeng.co.za/); De Hoop deferred pending Cape Floral aggregate boundary review (https://whc.unesco.org/en/list/1007/). V&A public harbour excludes Zeitz and Robben Island. Existing six unassessed and ratings preserved. Coordinates approximate, access and future schedules unverified. Regional discovery queue open; further park, heritage and recurring-event screen needed.
+
+### Pass 250 — South Africa marine wildlife, sports and regional heritage
+
+- [x] ZA — Eastern Cape and KwaZulu-Natal Sardine Run Marine Wildlife Expeditions: 94.25/100 (source-linked-unverified).
+- [x] ZA — Cape Town Tweede Nuwe Jaar Kaapse Klopse Street Parade: 92.80/100 (source-linked-unverified).
+- [x] ZA — Comrades Marathon Durban Pietermaritzburg Ultramarathon Event: 91.55/100 (source-linked-unverified).
+- [x] ZA — Aliwal Shoal Marine Protected Area Reef Diving and Shark Encounters: 91.10/100 (source-linked-unverified).
+- [x] ZA — Cape Town Cycle Tour Annual Cycling and Spectator Event: 90.35/100 (source-linked-unverified).
+- [x] ZA — Two Oceans Aquarium Cape Town Marine Biodiversity and Kelp Forest Exhibits: 90.20/100 (source-linked-unverified).
+- [x] ZA — Isandlwana and Rorke’s Drift Anglo-Zulu War Battlefield Heritage Circuit: 88.45/100 (source-linked-unverified).
+- [x] ZA — Gansbaai Authorized Shark Cage Diving and Marine Wildlife Excursions: 87.60/100 (source-linked-unverified).
+- [x] ZA — Wild Coast Hole in the Wall and Coffee Bay Coastal Walks: 86.95/100 (source-linked-unverified).
+- [x] ZA — Mountain Zebra National Park Cape Mountain Zebra Conservation and Safaris: 88.05/100 (desk-based provisional).
+- [x] ZA — Marakele National Park Waterberg Mountain and Wildlife Safaris: 87.40/100 (desk-based provisional).
+- [x] ZA — Tankwa Karoo National Park Arid Wilderness and Night Skies: 86.65/100 (source-linked-unverified).
+- [x] ZA — Voortrekker Monument Pretoria Historical Architecture and Interpretation: 87.00/100 (source-linked-unverified).
+- [x] ZA — Iziko South African Museum Cape Town Natural and Cultural History: 87.60/100 (desk-based provisional).
+- [x] ZA — Oribi Gorge Nature Reserve KwaZulu-Natal Canyon Viewpoints and Trails: 85.55/100 (desk-based provisional).
+- [x] ZA — uShaka Marine World Durban Aquarium and Waterpark: 86.20/100 (desk-based provisional).
+
+16 additions, 11 source-linked provisional, 5 desk-based provisional, 6 90+, 39 ranking-row comparisons (13 international). ZA 60 ranked / 66 total, +32 since baseline. Sardine Run grouped, excludes Aliwal reef dives; Gansbaai present-day multispecies encounters only. Kaapse Klopse separate from built heritage, Cycle Tour separate from road scenery. Two Oceans Aquarium excludes public waterfront. Isandlwana and Rorke’s Drift grouped. Constitution Hill still deferred; official serial component confirmed (https://whc.unesco.org/en/list/1676/maps/). Prior Maropeng and De Hoop deferrals retained. Coordinates approximate; access/schedules unverified. Six unassessed and existing scores preserved; discovery queue open.
