@@ -1,0 +1,16 @@
+id: sight-uy-salto-grande-dam
+name: "Salto Grande Binational Hydroelectric Dam Visitor Experience"
+location:
+  country_code: UY
+  latitude: -31.27
+  longitude: -57.94
+scores:
+  impact: 8.4
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.2
+  depth: 8.2
+  categories:
+    history: 9.0
+    architecture: 8.8
+    family: 8.8

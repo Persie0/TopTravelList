@@ -5238,3 +5238,19 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] UY — Mercedes Río Negro Historic Waterfront and Public Heritage: 83.45/100 (desk-based provisional).
 
 12 additions, 9 source-linked provisional, 3 desk-based provisional, 5 90+, 34 ranking-row comparisons (10 international). UY 99 ranked / 99 total, +38 since baseline 61. Prior 3 inscribed properties represented, 6 tentative screened (4 direct matches, modern architecture partial, Colonia island extension deferred); no new boundary mapping. Los Catalanes internationally recognized geological heritage, guided prepared visitor tunnels only. Vendimia seasonal public festival separate from routine winery circuit, non-additive when bundled. San Javier public sunflower festival separate from permanent settlement and Farrapos. Hum and Islas del Queguay protected status confirmed (https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/humedales-islas-del-hum-soriano ; https://www.gub.uy/ministerio-ambiente/politicas-y-gestion/area-protegida-manejo-habitat-yo-especies-islas-del-queguay), visitor routes insufficiently confirmed, deferred; Esteros y Algarrobales official general trail guidance but distinct scope/overlap with Farrapos remains unresolved (https://www.ambiente.gub.uy/oan/snap/esteros-y-algarrobales-del-rio-uruguay/). Existing scores preserved. OPEN for final bounded regional screen. Coordinates approximate; future schedules, access and permissions unverified.
+
+
+### Pass 296 — Uruguay final bounded regional screen
+
+- [x] UY — Dolores National Spring Festival Public Student Parades: 91.05/100 (source-linked-unverified).
+- [x] UY — Florida San Cono Annual Pilgrimage and Public Festival: 90.85/100 (source-linked-unverified).
+- [x] UY — Melo Carnival Public Samba Candombe and Murga Parades: 90.20/100 (source-linked-unverified).
+- [x] UY — Florida Virgen de los Treinta y Tres National Pilgrimage: 90.30/100 (source-linked-unverified).
+- [x] UY — Durazno San Pedro Church (Eladio Dieste): 86.05/100 (source-linked-unverified).
+- [x] UY — Villa Soriano Historic Village and Chapel Heritage: 84.15/100 (source-linked-unverified).
+- [x] UY — Salto Grande Binational Hydroelectric Dam Visitor Experience: 84.80/100 (source-linked-unverified).
+- [x] UY — Salto Historic Centre and Literary Heritage Circuit: 83.60/100 (source-linked-unverified).
+- [x] UY — Florida Piedra Alta and Independence Civic Heritage: 82.60/100 (source-linked-unverified).
+- [x] UY — Nueva Helvecia Cheese Festival Public Gastronomy Programme: 85.10/100 (source-linked-unverified).
+
+10 source-linked provisional additions, 4 scoring 90+, 20 domestic ranking-row comparisons. UY 109 ranked / 109 total, +48 since baseline 61; 19 new 90+ across four passes. Bounded current discovery queue closed after passes 293–296, not exhaustive. Prior UNESCO inventory (3 inscribed represented; 6 tentative screened, 4 direct, modern architecture partial, Colonia island extension deferred) carried forward without remapping. Dolores nationally recognized intangible heritage, not UNESCO inscription. San Cono and Virgen de los Treinta y Tres separate recurring pilgrimages, associated shrine/concert grouped; exceptional papal events excluded. Salto literary and historic circuit grouped; dam separate. Durazno San Pedro distinct from Atlántida, no new World Heritage claim. Hum, Islas del Queguay and Esteros y Algarrobales remain deferred pending distinct authorized visitor scope; prior deferrals retained. Regional screen used national tourism destination and festival inventories and targeted official sources; smaller local sites not exhaustively checked. Existing scores preserved; coordinates approximate, access and future schedules unverified. Reopen on concrete significant omission. Independent peer YAML/coordinate checks, international calibration, historical evidence labels and full Python validation pending. Next proposed country Venezuela.
