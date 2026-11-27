@@ -1,0 +1,16 @@
+id: sight-us-omaha-zoo
+name: "Omaha Henry Doorly Zoo and Aquarium"
+location:
+  country_code: US
+  latitude: 41.226
+  longitude: -95.928
+scores:
+  impact: 9.2
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.3
+  depth: 9.3
+  categories:
+    wildlife: 9.4
+    family: 9.4
+    nature: 9.1

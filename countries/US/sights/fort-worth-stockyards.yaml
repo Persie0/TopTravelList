@@ -1,0 +1,16 @@
+id: sight-us-fort-worth-stockyards
+name: "Fort Worth Stockyards Historic District"
+location:
+  country_code: US
+  latitude: 32.789
+  longitude: -97.348
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.7
+  categories:
+    culture: 9.2
+    history: 9.0
+    photography: 9.0

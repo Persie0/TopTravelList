@@ -1,0 +1,16 @@
+id: sight-us-museum-of-flight
+name: "Museum of Flight Seattle"
+location:
+  country_code: US
+  latitude: 47.518
+  longitude: -122.296
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.3
+  experience: 9.2
+  depth: 9.3
+  categories:
+    history: 9.4
+    culture: 9.2
+    family: 9.4

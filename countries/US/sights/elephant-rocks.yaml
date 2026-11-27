@@ -1,0 +1,16 @@
+id: sight-us-elephant-rocks
+name: "Elephant Rocks State Park Missouri"
+location:
+  country_code: US
+  latitude: 37.652
+  longitude: -90.688
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 8.8
+  depth: 8.3
+  categories:
+    nature: 9.1
+    photography: 9.2
+    family: 8.9

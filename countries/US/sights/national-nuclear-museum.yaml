@@ -1,0 +1,16 @@
+id: sight-us-national-nuclear-museum
+name: "National Museum of Nuclear Science and History Albuquerque"
+location:
+  country_code: US
+  latitude: 35.066
+  longitude: -106.532
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.8
+  depth: 8.9
+  categories:
+    history: 9.3
+    culture: 9.0
+    family: 8.8

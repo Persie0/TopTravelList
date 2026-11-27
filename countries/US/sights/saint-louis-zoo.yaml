@@ -1,0 +1,16 @@
+id: sight-us-saint-louis-zoo
+name: "Saint Louis Zoo Forest Park"
+location:
+  country_code: US
+  latitude: 38.635
+  longitude: -90.291
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 9.0
+  depth: 9.0
+  categories:
+    wildlife: 9.2
+    family: 9.3
+    nature: 8.9

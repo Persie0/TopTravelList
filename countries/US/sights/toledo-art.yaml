@@ -1,0 +1,16 @@
+id: sight-us-toledo-art
+name: "Toledo Museum of Art and Glass Pavilion"
+location:
+  country_code: US
+  latitude: 41.659
+  longitude: -83.559
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 9.0
+  categories:
+    culture: 9.3
+    architecture: 9.1
+    history: 9.0

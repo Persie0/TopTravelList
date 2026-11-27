@@ -3175,3 +3175,31 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] US — City of Rocks National Reserve Idaho: 87.65/100 (desk-based provisional).
 
 24 additions, 16 desk-based provisional, 8 source-informed, 7 90+, 62 domestic ranking-row comparisons. United States 388 ranked / 388 total. Nashville museum includes Studio B, Opry is live performance, Ryman is historic venue tour; Bisti excludes neighboring wilderness and archaeological sites; North Shore excludes Boundary Waters; EAA excludes temporary AirVenture event. Existing scores retained. Next: additional regional high-value gaps and country queue closure screen. Full Python validation pending.
+
+### Pass 193 — US aviation, zoos, arts and regional attractions
+
+- [x] US — Museum of Flight Seattle: 92.55/100 (source-linked-unverified).
+- [x] US — Omaha Henry Doorly Zoo and Aquarium: 91.45/100 (source-linked-unverified).
+- [x] US — Bronx Zoo New York: 90.55/100 (source-linked-unverified).
+- [x] US — Dia Beacon Contemporary Art Museum: 91.10/100 (source-linked-unverified).
+- [x] US — Storm King Art Center Hudson Valley Sculpture Landscape: 90.90/100 (source-linked-unverified).
+- [x] US — Preservation Hall Traditional New Orleans Jazz Performances: 91.20/100 (source-linked-unverified).
+- [x] US — Toledo Museum of Art and Glass Pavilion: 89.30/100 (source-linked-unverified).
+- [x] US — Minidoka National Historic Site Idaho: 84.85/100 (source-linked-unverified).
+- [x] US — San Diego Zoo Safari Park Escondido: 89.35/100 (desk-based provisional).
+- [x] US — Saint Louis Zoo Forest Park: 88.00/100 (desk-based provisional).
+- [x] US — Smithsonian National Zoo Washington DC: 88.35/100 (desk-based provisional).
+- [x] US — Denver Art Museum: 88.50/100 (desk-based provisional).
+- [x] US — Walters Art Museum Baltimore: 88.30/100 (desk-based provisional).
+- [x] US — Wadsworth Atheneum Museum of Art Hartford: 87.85/100 (desk-based provisional).
+- [x] US — Renwick Gallery Smithsonian Washington DC: 87.20/100 (desk-based provisional).
+- [x] US — Mütter Museum Philadelphia Medical History: 87.35/100 (desk-based provisional).
+- [x] US — National Museum of Nuclear Science and History Albuquerque: 88.45/100 (desk-based provisional).
+- [x] US — Fort Worth Stockyards Historic District: 87.50/100 (desk-based provisional).
+- [x] US — Fremont Street Experience Downtown Las Vegas: 86.70/100 (desk-based provisional).
+- [x] US — Mob Museum Las Vegas Organized Crime and Law Enforcement History: 88.10/100 (desk-based provisional).
+- [x] US — Elephant Rocks State Park Missouri: 85.15/100 (desk-based provisional).
+- [x] US — Shoshone Falls Snake River Idaho: 86.40/100 (desk-based provisional).
+- [x] US — Tallulah Gorge State Park Georgia: 86.50/100 (desk-based provisional).
+
+23 additions, 15 desk-based provisional, 8 source-informed, 6 90+, 58 domestic ranking-row comparisons. United States 411 ranked / 411 total. Preservation Hall dedicated jazz performance distinct from French Quarter; separate San Diego Safari Park and zoo; Renwick separate venue; Fremont downtown separate from Strip; Omaha zoo and aquarium grouped. Existing scores retained. US queue remains open: remaining major museums (e.g. Carnegie museums, Peabody Essex, Portland Art Museum), aviation and natural sites require a bounded final screen. Full Python validation pending.
