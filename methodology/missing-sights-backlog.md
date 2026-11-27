@@ -5185,3 +5185,21 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] PY — Asunción Botanical Garden Public Grounds and Historic Landscape: 81.30/100 (desk-based provisional).
 
 10 additions, 6 source-linked provisional, 4 desk-based provisional, 4 90+, 28 ranking-row comparisons (8 international). PY 98 ranked / 101 total, +49 since baseline 52. Prior 1 inscribed property (2 components) and 12 tentative represented; not independently remapped. Three unassessed retained. Itaipú identifies eight biosphere units (https://www.itaipu.gov.py/noticias/unesco/itaipu-integra-la-red-mundial-de-reservas-de-biosfera-de-la-unesco-con-ocho-areas-protegidas); Tatí Yupí existing and binational Mbaracayú refuge now added, six other units deferred pending specific visitor scopes; biosphere designation not World Heritage inscription. Río Negro overlaps Pantanal/Tres Gigantes; Ñacunday park overlaps waterfall; Cerro Chovoreca and Lago Ypoá deferred pending defined authorized visitor routes; Ypoá legally managed resource reserve per SIAM (https://apps.mades.gov.py/siam/portal/area-protegida/15). Chaco community proposal not yet defined visitor experience; prior Enxet, Morombí, Atinguy, and closure deferrals retained. Yataity craft fair and workshops grouped; Villarrica closing event weather postponement documented without intrinsic score penalty. Existing scores preserved. PAUSED after four targeted passes to diversify worldwide discovery, not exhaustive; next Uruguay. Coordinates approximate; access and future schedules unverified.
+
+### Pass 293 — Uruguay flagship living heritage and coastal landscapes
+
+- [x] UY — Montevideo Carnival Tablados and Official Stage Competition: 94.15/100 (source-linked-unverified).
+- [x] UY — Montevideo Candombe Desfile de Llamadas Public Parade: 94.00/100 (source-linked-unverified).
+- [x] UY — Montevideo Public Tango Milongas and Dance Heritage Circuit: 92.40/100 (source-linked-unverified).
+- [x] UY — Tacuarembó Fiesta de la Patria Gaucha Public Heritage and Music Programme: 92.20/100 (source-linked-unverified).
+- [x] UY — Montevideo Nacional Peñarol Clásico Football Spectator Experience: 91.60/100 (source-linked-unverified).
+- [x] UY — Durazno National and International Folklore Festival: 90.80/100 (source-linked-unverified).
+- [x] UY — Rocha Southern Right Whale Shore Watching Circuit: 89.10/100 (source-linked-unverified).
+- [x] UY — Paysandú Semana de la Cerveza Public Music and Artisan Festival: 88.50/100 (source-linked-unverified).
+- [x] UY — Paso Centurión and Sierra de Ríos Protected Landscape Guided Nature Visits: 86.90/100 (source-linked-unverified).
+- [x] UY — Punta del Diablo Fishing Village and Coastal Walks: 84.70/100 (desk-based provisional).
+- [x] UY — Piriápolis Historic Waterfront and Argentino Hotel Exterior: 83.55/100 (desk-based provisional).
+- [x] UY — La Paloma Cabo Santa María Lighthouse and Coastal Walk: 82.85/100 (desk-based provisional).
+- [x] UY — José Ignacio Coastal Village and Lighthouse Landscape: 82.35/100 (desk-based provisional).
+
+13 additions, 9 source-linked provisional, 4 desk-based provisional, 6 90+, 38 ranking-row comparisons (12 international). UY 74 ranked / 74 total, +13 since baseline 61. UNESCO official country page https://whc.unesco.org/en/statesparties/uy lists 3 inscribed, all already represented, and 6 tentative: Chamangá, Rambla, Peñarol and Isla de Flores direct existing matches; twentieth-century modern architecture partial existing coverage (Rambla and sports facilities, https://whc.unesco.org/en/tentativelists/5595/), Colonia bay and islands unresolved separate visitor scope (https://whc.unesco.org/en/tentativelists/2034/). No serial boundary verification. Carnival stage competition and Llamadas individually scoped, non-additive if bundled as one Carnival experience; tango shared intangible heritage, public consenting experiences only. Gaucho festival excludes animal handling/rodeo, Clásico spectator only; fixtures and safety unverified. Shore-based whale viewing only. Existing scores preserved. OPEN for further cultural programmes, protected areas and architecture. Coordinates approximate; future dates and permissions not guaranteed.
