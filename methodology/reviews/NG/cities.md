@@ -382,3 +382,10 @@
 - Final decision: Partial assessment retained; no overall total.
 - Verification still needed: exact site scope, GPS where provisional, access, remaining peer YAML and claim-level evidence.
 
+## city-ng-port-harcourt — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/NG/cities/port-harcourt.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: food 8.0, culture 7.8. Large Niger Delta city with regional culinary and cultural life; no credit for offshore or mangrove reserves.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Bangkok (Thailand), Guangzhou (China), Osaka (Japan), Oaxaca (Mexico).
+- Core overall 75.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

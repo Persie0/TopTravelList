@@ -508,3 +508,38 @@ Core values are I/U/S/E/D in that order. Existing qualitative comparisons are re
 - Makin: ministry island profiles confirm the island council (https://mcia.gov.ki/node/66); secondary visitor guide describes local churches and mediated village stays at island level (https://tripcuro.com/travelguide/kiribati/gilbert-islands/makin/). Exact village-specific experiences and guesthouse status remain unclear; no transfer of Butaritari heritage from the historical naming ambiguity. Retain all nulls.
 
 These references were consulted as indexed excerpts except GCatholic. No invented visitor scores for the three settlements.
+
+## city-ki-bonriki — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/KI/cities/bonriki.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.1. South Tarawa settlement and atoll community life, not airport facilities.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 69.00/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ki-kabangaki — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/KI/cities/kabangaki.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3. Village-scale Kiribati community and lagoon setting; no specific cultural performance assumed.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 69.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ki-makin — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/KI/cities/makin.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.5, photography 7.7. Outer-island village life and coastal setting; not the entire atoll.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 72.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ki-taburao — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/KI/cities/taburao.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3, photography 7.5. Small atoll settlement and shore scenery; no reef wildlife claim.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.65/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

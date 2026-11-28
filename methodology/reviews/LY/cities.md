@@ -348,3 +348,37 @@
 - Final decision: Partial assessment; no overall total invented.
 - Verification still needed: exact location where provisional, access, remaining peer YAML and claim-level verification.
 
+## city-ly-misrata — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/LY/cities/misrata.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.7, history 7.6. Historic trading and industrial city; no transfer of nearby archaeological attractions.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 74.00/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ly-sabha — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/LY/cities/sabha.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.8, history 7.6. Fezzan regional urban and caravan history; no credit for remote desert excursions.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 74.20/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ly-sabratha — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/LY/cities/sabratha.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.2. Modern town life; independently ranked Roman archaeological site excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 72.00/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ly-shahat — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/LY/cities/shahat.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.1. Modern settlement on the Jebel Akhdar; no transfer of ancient Cyrene's significance.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 71.00/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

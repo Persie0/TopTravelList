@@ -16,9 +16,9 @@ This is the **complete ranking for this country's available dataset**, using abs
 | ---: | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [Livingstone](cities/livingstone.yaml) | City / town | **80.20** | **History 8.5**, **Culture 8.3** | 7.8 / 8.0 / 8.1 / 8.4 / 8.0 | [-17.842, 25.854](https://www.google.com/maps/search/?api=1&query=-17.842,25.854) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Livingstone%2C%20Zambia) |
 | 2 | [Lusaka](cities/lusaka.yaml) | City / town | **76.30** | **Culture 8.3**, **Food 8.1** | 7.2 / 7.5 / 8.0 / 7.9 / 8.1 | [-15.407, 28.287](https://www.google.com/maps/search/?api=1&query=-15.407,28.287) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lusaka%2C%20Zambia) |
-| 3 | [Kasama](cities/kasama.yaml) | City / town | **73.25** | — | 7.0 / 7.4 / 7.5 / 7.5 / 7.5 | [-10.213, 31.181](https://www.google.com/maps/search/?api=1&query=-10.213,31.181) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kasama%2C%20Zambia) |
+| 3 | [Kasama](cities/kasama.yaml) | City / town | **73.25** | **History 7.7**, **Culture 7.6** | 7.0 / 7.4 / 7.5 / 7.5 / 7.5 | [-10.213, 31.181](https://www.google.com/maps/search/?api=1&query=-10.213,31.181) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kasama%2C%20Zambia) |
 | 4 | [Ndola](cities/ndola.yaml) | City / town | **71.95** | **History 7.8**, **Culture 7.5** | 6.9 / 7.3 / 7.6 / 7.2 / 7.0 | [-12.959, 28.637](https://www.google.com/maps/search/?api=1&query=-12.959,28.637) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ndola%2C%20Zambia) |
-| 5 | [Chipata](cities/chipata.yaml) | City / town | **70.60** | — | 6.8 / 7.2 / 7.3 / 7.2 / 6.8 | [-13.633, 32.65](https://www.google.com/maps/search/?api=1&query=-13.633,32.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chipata%2C%20Zambia) |
+| 5 | [Chipata](cities/chipata.yaml) | City / town | **70.60** | **Culture 7.5** | 6.8 / 7.2 / 7.3 / 7.2 / 6.8 | [-13.633, 32.65](https://www.google.com/maps/search/?api=1&query=-13.633,32.65) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Chipata%2C%20Zambia) |
 
 ---
 

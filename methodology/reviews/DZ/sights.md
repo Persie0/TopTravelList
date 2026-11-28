@@ -1352,3 +1352,74 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-dz-ancient-royal-mausoleums — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DZ/sights/ancient-royal-mausoleums.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.4, architecture 9.1, photography 8.8. Numidian and ancient royal funerary monuments; score the serial set rather than all Algerian antiquity.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 89.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-dz-augustinian-routes — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DZ/sights/augustinian-routes.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: history 9.4, culture 9.2, architecture 8.8. Tentative route links Roman and early Christian sites over a broad region; distinguish actual ruins from biographical significance.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6830/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 90.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-dz-nedroma-trara — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DZ/sights/nedroma-trara.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 9.0, architecture 8.8, history 8.9. Historic settlement and regional mountain cultural traditions; no assumed access to every component.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 86.55/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-dz-oued-souf-oasis-landscape — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DZ/sights/oued-souf-oasis-landscape.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 9.0, culture 9.0, photography 8.9. Distinctive oasis settlement morphology and desert-adapted architecture; not every Saharan dune landscape.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 88.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-dz-saharan-atlas-ksour — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DZ/sights/saharan-atlas-ksour.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 9.1, culture 9.0, history 8.9. Fortified earthen settlements and oasis lifeways; no assumed intact interiors.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 88.25/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-dz-saoura-cultural-park — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DZ/sights/saoura-cultural-park.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: culture 9.3, nature 9.2, photography 9.1. Oasis agriculture, traditional water management and desert wetland landscape; compare M'Zab, Aïr-Ténéré, Wadi Rum and southern Tunisian ksour.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6883/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 90.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-dz-tebessa-archaeological-heritage — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DZ/sights/tebessa-archaeological-heritage.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.3, architecture 8.9. Roman and late antique archaeological and religious structures, distinct from the whole modern city.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 88.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-dz-tefedest-massif — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DZ/sights/tefedest-massif.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.3, photography 9.3, culture 9.1. Granite Saharan massif and nomadic landscape heritage; compare Ahaggar, Tassili, Ennedi and Wadi Rum, without inheriting broader park ratings.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6834/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 91.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

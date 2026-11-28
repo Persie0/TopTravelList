@@ -338,3 +338,38 @@ Initial worldwide V2 inventory, 2026-11-25. UNESCO inventory, embassy tourism li
 - Approved 10 registry: none.
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: current visitor arrangements, precise location where provisional, claim-level sources and remaining peer scores.
+
+## city-bf-fada-ngourma — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BF/cities/fada-ngourma.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.9. Gourmantché regional cultural centre; no assumption of particular festivals or scheduled performances.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-bf-koudougou — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BF/cities/koudougou.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.4. Regional urban markets and everyday Burkinabè culture, not major monumental heritage.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 69.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-bf-ouahigouya — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BF/cities/ouahigouya.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.8, history 7.6. Yatenga royal and regional traditions give the town cultural interest.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-bf-sindou — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BF/cities/sindou.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3. Local settlement traditions; separately ranked Sindou Peaks excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

@@ -9,9 +9,9 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 
 | Flag | Records |
 | --- | ---: |
-| conflicting-declared-status | 876 |
+| conflicting-declared-status | 970 |
 | evidence-review | 17190 |
-| field-9.5-plus | 2171 |
+| field-9.5-plus | 2173 |
 | historical-review-only | 2516 |
 | no-recognized-review-heading | 540 |
 | overall-90-plus | 3207 |
@@ -100,7 +100,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | BZ | cities | 18 | 18 | 71.15 | 0 | 0 | 0 | 18 | [Caye Caulker Village](../../countries/BZ/cities/caye-caulker-village.yaml) 79.40; [San Pedro](../../countries/BZ/cities/san-pedro.yaml) 78.50; [Hopkins](../../countries/BZ/cities/hopkins.yaml) 78.35 |
 | BZ | sights | 61 | 61 | 81.30 | 6 | 1 | 3 | 61 | [Belize Barrier Reef Reserve System](../../countries/BZ/sights/belize-barrier-reef-reserve-system.yaml) 95.45; [Actun Tunichil Muknal Cave](../../countries/BZ/sights/actun-tunichil-muknal-cave.yaml) 93.30; [Blue Hole Natural Monument (Great Blue Hole)](../../countries/BZ/sights/blue-hole-natural-monument-great-blue-hole.yaml) 92.10 |
 | CA | cities | 16 | 16 | 81.92 | 0 | 0 | 0 | 16 | [Québec City](../../countries/CA/cities/quebec-city.yaml) 88.75; [Montréal](../../countries/CA/cities/montreal.yaml) 88.25; [Vancouver](../../countries/CA/cities/vancouver.yaml) 86.25 |
-| CA | sights | 384 | 384 | 88.02 | 123 | 1 | 10 | 384 | [Canadian Rocky Mountain Parks](../../countries/CA/sights/canadian-rocky-mountain-parks.yaml) 96.20; [Churchill Wildlife Management Area Guided Polar Bear Viewing](../../countries/CA/sights/churchill-polar-bears.yaml) 94.50; [Banff National Park](../../countries/CA/sights/banff-national-park.yaml) 94.00 |
+| CA | sights | 384 | 384 | 88.02 | 123 | 1 | 11 | 384 | [Canadian Rocky Mountain Parks](../../countries/CA/sights/canadian-rocky-mountain-parks.yaml) 96.20; [Churchill Wildlife Management Area Guided Polar Bear Viewing](../../countries/CA/sights/churchill-polar-bears.yaml) 94.50; [Banff National Park](../../countries/CA/sights/banff-national-park.yaml) 94.00 |
 | CC | cities | 2 | 2 | 76.32 | 0 | 0 | 0 | 2 | [Bantam (Home Island)](../../countries/CC/cities/bantam.yaml) 80.25; [West Island settlement](../../countries/CC/cities/west-island-settlement.yaml) 72.40 |
 | CC | sights | 12 | 12 | 83.92 | 0 | 0 | 0 | 12 | [Pulu Keeling National Park (North Keeling Island)](../../countries/CC/sights/pulu-keeling-national-park.yaml) 89.50; [Cocos Keeling Islands Guided Outer Reef Scuba Diving](../../countries/CC/sights/outer-reef-diving.yaml) 89.00; [Southern atoll lagoon and guided island canoe circuit](../../countries/CC/sights/southern-lagoon-canoe.yaml) 86.65 |
 | CD | cities | 8 | 8 | 76.72 | 0 | 0 | 0 | 8 | [Kinshasa](../../countries/CD/cities/kinshasa.yaml) 83.05; [Bukavu](../../countries/CD/cities/bukavu.yaml) 81.40; [Goma](../../countries/CD/cities/goma.yaml) 78.55 |
@@ -146,7 +146,7 @@ This is an automatically regenerated diagnostic, not an individual editorial rea
 | DM | cities | 14 | 14 | 73.10 | 0 | 0 | 0 | 14 | [Roseau](../../countries/DM/cities/roseau.yaml) 79.40; [Scotts Head](../../countries/DM/cities/scotts-head.yaml) 78.55; [Soufrière](../../countries/DM/cities/soufriere.yaml) 77.10 |
 | DM | sights | 32 | 32 | 81.32 | 1 | 0 | 2 | 32 | [Morne Trois Pitons National Park](../../countries/DM/sights/morne-trois-pitons-national-park.yaml) 93.55; [Boiling Lake and Valley of Desolation Trail](../../countries/DM/sights/boiling-lake-and-valley-of-desolation-trail.yaml) 89.90; [Soufrière-Scotts Head Marine Reserve](../../countries/DM/sights/soufriere-scotts-head-marine-reserve.yaml) 89.00 |
 | DO | cities | 12 | 12 | 74.48 | 0 | 0 | 0 | 12 | [Santo Domingo](../../countries/DO/cities/santo-domingo.yaml) 88.40; [Puerto Plata](../../countries/DO/cities/puerto-plata.yaml) 80.20; [Santiago de los Caballeros](../../countries/DO/cities/santiago-de-los-caballeros.yaml) 77.35 |
-| DO | sights | 34 | 34 | 81.25 | 2 | 0 | 0 | 34 | [Marine Mammal Sanctuary Banks of La Plata and Navidad](../../countries/DO/sights/silver-and-navidad-banks-sanctuary.yaml) 91.90; [Colonial City of Santo Domingo](../../countries/DO/sights/colonial-city-santo-domingo.yaml) 91.25; [Los Haitises National Park](../../countries/DO/sights/los-haitises-national-park.yaml) 89.55 |
+| DO | sights | 34 | 34 | 81.25 | 2 | 0 | 1 | 34 | [Marine Mammal Sanctuary Banks of La Plata and Navidad](../../countries/DO/sights/silver-and-navidad-banks-sanctuary.yaml) 91.90; [Colonial City of Santo Domingo](../../countries/DO/sights/colonial-city-santo-domingo.yaml) 91.25; [Los Haitises National Park](../../countries/DO/sights/los-haitises-national-park.yaml) 89.55 |
 | DZ | cities | 11 | 11 | 83.10 | 0 | 0 | 0 | 11 | [Algiers](../../countries/DZ/cities/algiers.yaml) 88.60; [Constantine](../../countries/DZ/cities/constantine.yaml) 87.85; [Ghardaïa](../../countries/DZ/cities/ghardaia.yaml) 86.60 |
 | DZ | sights | 47 | 47 | 86.75 | 11 | 1 | 7 | 47 | [Tassili n’Ajjer](../../countries/DZ/sights/tassili-n-ajjer.yaml) 96.60; [Timgad](../../countries/DZ/sights/timgad.yaml) 93.05; [Djémila](../../countries/DZ/sights/djemila.yaml) 92.90 |
 | EC | cities | 36 | 36 | 71.52 | 1 | 0 | 0 | 36 | [Quito](../../countries/EC/cities/quito.yaml) 90.35; [Cuenca](../../countries/EC/cities/cuenca.yaml) 87.85; [Otavalo](../../countries/EC/cities/otavalo.yaml) 82.40 |

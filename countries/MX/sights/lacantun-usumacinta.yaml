@@ -10,4 +10,6 @@ scores:
   significance: 9.1
   experience: 8.7
   depth: 9
-  categories: {}
+  categories:
+    nature: 9.2
+    wildlife: 9.1

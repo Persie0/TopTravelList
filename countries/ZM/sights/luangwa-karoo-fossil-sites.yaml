@@ -10,4 +10,5 @@ scores:
   significance: 9.2
   experience: 8
   depth: 8.8
-  categories: {}
+  categories:
+    nature: 9.2

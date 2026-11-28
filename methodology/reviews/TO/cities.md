@@ -299,3 +299,20 @@ Core values I/U/S/E/D; editorial comparisons, not independent factual verificati
 - Approved 10 registry: none.
 - Final decision: inventory only; no transfer of island-wide merits.
 - Verification still needed: village-specific research and permitted public experiences.
+
+## city-to-hihifo-niuatoputapu — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TO/cities/hihifo-niuatoputapu.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.6, photography 7.5. Outer-island village and immediate coastal scenery; exclude whole-island experiences.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 69.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-to-ohonua — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TO/cities/ohonua.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 6.9. Small Eua settlement and local island life; no credit for separately ranked national park.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 62.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

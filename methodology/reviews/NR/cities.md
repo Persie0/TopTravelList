@@ -272,3 +272,20 @@ Core values are I/U/S/E/D in that order. Earlier qualitative comparisons remain;
 ## 2026-11-25 — Arijejen and Yangor follow-up
 
 The 2021 census-based gazetteer (https://www.geo-ref.net/pdf/nauru.pdf, indexed excerpt) distinguishes Arijejen as the district centre of Denigomodu and Yangor as the centre of Aiwo. General Aiwo industrial heritage and Nauru ring-road visits (https://visitingoceania.com/destinations/nauru/, indexed excerpt) do not establish exact settlement-specific activities. Retain all nulls for both; exact district/settlement boundaries and visitor scope need verification.
+
+## city-nr-arijejen — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/NR/cities/arijejen.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 6.8. Small settlement in Nauru's urbanized coastal context; modest standalone cultural breadth.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 66.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-nr-yangor — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/NR/cities/yangor.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 6.7. Residential village-scale local life; no assumption of distinct major monuments.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 66.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

@@ -2684,3 +2684,20 @@ Independent coordinates, peer YAML, global calibration and full Python validatio
 - Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/1007/) confirms the extended serial property of reserves, parks and mountain areas containing highly endemic fynbos. This supports uniqueness, significance and nature 9.7. Visual impact and depth depend on distinct landscapes and seasonal flowering; experience cannot be inferred from species richness. Do not treat the whole Cape region or every botanical garden as part of the inscribed scope.
 - Qualitative comparison leads (peer YAML scores not independently rechecked): Western Ghats (India): serial biodiversity landscape with different habitats; Southwest Australia floristic region: comparable Mediterranean-climate endemism; New Caledonian rainforest landscapes: distinct island endemism; Table Mountain (South Africa): narrower mountain landscape.
 - Current I/U/S/E/D: 9.3 / 9.6 / 9.7 / 9.2 / 9.3; overall 94.40/100. Retained unchanged pending full calibration; no new category or perfect score. Coordinates not independently verified. This is limited factual and scope verification, not comprehensive validation of the rating.
+
+## sight-za-mandela-legacy-sites — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZA/sights/mandela-legacy-sites.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: history 9.6, culture 9.4. Inscribed serial sites embody liberation and reconciliation history; compare Robben Island, Constitution Hill, Independence Hall and comparable civil-rights heritage; no transfer of unrelated Mandela locations.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/list/1676/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 92.35/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-za-satyagraha-sites — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZA/sights/satyagraha-sites.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.1, culture 9.0. Tentative heritage associated with nonviolent political action; significance does not imply large-scale built monuments.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 84.85/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

@@ -379,3 +379,29 @@ Worldwide v2; initial inventory, editorial ratings, sources consulted 2026-11-25
 - [Dated worldwide reassessment pass 51 — 2026-11-26](worldwide-deferred-pass51-2026-11-26.md)
 
 - [Dated worldwide reassessment pass 54 — 2026-11-26](worldwide-deferred-pass54-2026-11-26.md)
+
+## city-mr-kaedi — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MR/cities/kaedi.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3. Senegal River regional town and architectural context; no credit for distant wetlands.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 68.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-mr-kiffa — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MR/cities/kiffa.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.9. Regional market and distinctive beadmaking tradition, with limited urban attraction breadth.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.55/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-mr-zouerat — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MR/cities/zouerat.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 7.4. Mining town and industrial heritage context; no assumption of public mine visits.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 69.25/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

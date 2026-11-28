@@ -10,4 +10,6 @@ scores:
   significance: 9.0
   experience: 8.2
   depth: 8.3
-  categories: {}
+  categories:
+    architecture: 8.9
+    history: 9.1

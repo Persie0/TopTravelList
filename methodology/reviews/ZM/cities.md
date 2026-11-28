@@ -158,3 +158,19 @@
 - Final decision: Partial assessment retained; no total.
 - Verification still needed: precise site location where provisional, current access, remaining peer scores and individual claim-level evidence.
 
+## city-zm-chipata — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZM/cities/chipata.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.5. Eastern regional market and trading city; no credit for distant safari parks.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-zm-kasama — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZM/cities/kasama.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.6, history 7.7. Northern regional city and historical context; separate rock-art sites excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 73.25/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

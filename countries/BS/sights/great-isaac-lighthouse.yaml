@@ -10,4 +10,6 @@ scores:
   significance: 7.6
   experience: 6.5
   depth: 6.8
-  categories: {}
+  categories:
+    history: 8.0
+    photography: 8.2

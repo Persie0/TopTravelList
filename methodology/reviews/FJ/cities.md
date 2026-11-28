@@ -320,3 +320,11 @@ Core values I/U/S/E/D from current worldwide YAML; editorial comparisons only. O
 - Final decision: provisionally ranked on documented visitor scope; not independently verified.
 - Earlier decision: earlier entry for this ID, unranked. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Town proper only; exclude out-of-town temple and do not assume sugar mill tours.
+
+## city-fj-labasa — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/FJ/cities/labasa.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3, food 7.2. Small sugar-region town and Indo-Fijian cultural mix; no island-wide nature credit.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 65.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

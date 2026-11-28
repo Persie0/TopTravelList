@@ -6105,3 +6105,74 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 209 scope decisions
 
 Rowley Shoals deferred: AIMS reports 61–90% coral mortality across monitored sites at Mermaid and Clerke reefs after the 2025 heatwave (https://www.aims.gov.au/information-centre/news-and-stories/worst-bleaching-event-record-wa-coral-reefs-following-long-lasting-and-widespread-marine-heatwave); no assumption of recovery. Abrolhos condition separately checked with 2026 study. Whyalla, Lady Elliot, Ball's Pyramid and convict-site components remain deferred; pause mainland discovery, not exhaustive.
+
+## sight-au-cape-york-cultural-landscapes — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AU/sights/cape-york-cultural-landscapes.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.2, culture 9.3, photography 9.0. Proposed serial landscapes unite ancient landforms and Indigenous stewardship; no presumed access to sacred places.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6775/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 89.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-au-cornish-mining-sites — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AU/sights/cornish-mining-sites.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: history 9.0, architecture 8.6, culture 8.5. Burra and Moonta preserve Cornish mining and settlement heritage; industrial structures rather than intact grand urban monuments.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6777/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 83.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-au-flinders-ranges — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AU/sights/flinders-ranges.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.3, photography 9.2. Distinctive folded ranges and ancient geological record, including fossil landscapes; no credit for unrelated Australian deserts.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6524
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 89.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-au-gondwana-rainforests-extension — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AU/sights/gondwana-rainforests-extension.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.2, wildlife 8.8. Proposed extension reflects relict rainforest ecology; separate from the already inscribed serial property.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/statesparties/AU/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 87.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-au-great-sandy-world-heritage-area — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AU/sights/great-sandy-world-heritage-area.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.2, photography 9.0, beaches 8.9. Sand-mass landscape, coastal scenery and dune ecology; do not inherit all K'gari component scores.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/statesparties/AU/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 88.25/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-au-parramatta-female-factory — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AU/sights/parramatta-female-factory.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: history 9.1, architecture 8.2. Convict women and institutional social history preserved in the surviving precinct; architecture subordinate to testimony.
+- Indexed source excerpts reviewed 2026-11-28: https://www.dcceew.gov.au/parks-heritage/heritage/places/national/parramatta-female-factory-and-institutions-precinct
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 80.50/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-au-victorian-goldfields — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AU/sights/victorian-goldfields.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: history 9.2, architecture 8.8, culture 8.8. Gold-rush mining towns and material landscapes; tentative scope rather than every town in Victoria.
+- Indexed source excerpts reviewed 2026-11-28: https://www.dcceew.gov.au/parks-heritage/heritage/about/world-heritage/tentative-world-heritage-list
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 87.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-au-workers-assembly-halls — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AU/sights/workers-assembly-halls.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: history 9.2, architecture 8.6, culture 8.8. Labor movement history and distinctive meeting-hall interiors, rather than monumental palace architecture.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6698/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 83.55/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

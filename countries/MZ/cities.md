@@ -20,7 +20,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 4 | [Pemba](cities/pemba.yaml) | City / town | **78.80** | **Beaches 8.3** | 8.0 / 7.9 / 7.6 / 8.1 / 7.7 | [-12.97395, 40.51775](https://www.google.com/maps/search/?api=1&query=-12.97395,40.51775) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Pemba%2C%20Mozambique) |
 | 5 | [Vilankulo](cities/vilankulo.yaml) | City / town | **77.15** | **Beaches 8.5**, **Relaxation 8.4**, **Food 8.1** | 7.7 / 7.8 / 7.3 / 8.3 / 7.5 | [-21.9978, 35.3169](https://www.google.com/maps/search/?api=1&query=-21.9978,35.3169) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Vilankulo%2C%20Mozambique) |
 | 6 | [Beira](cities/beira.yaml) | City / town | **75.40** | **History 8.0** | 7.3 / 7.6 / 7.8 / 7.6 / 7.5 | [-19.84361, 34.83889](https://www.google.com/maps/search/?api=1&query=-19.84361,34.83889) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Beira%2C%20Mozambique) |
-| 7 | [Nampula](cities/nampula.yaml) | City / town | **72.80** | — | 7.0 / 7.2 / 7.5 / 7.6 / 7.4 | [-15.11646, 39.2666](https://www.google.com/maps/search/?api=1&query=-15.11646,39.2666) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nampula%2C%20Mozambique) |
+| 7 | [Nampula](cities/nampula.yaml) | City / town | **72.80** | **Culture 7.7**, **Architecture 7.5** | 7.0 / 7.2 / 7.5 / 7.6 / 7.4 | [-15.11646, 39.2666](https://www.google.com/maps/search/?api=1&query=-15.11646,39.2666) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Nampula%2C%20Mozambique) |
 
 ---
 

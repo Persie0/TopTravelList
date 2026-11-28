@@ -2460,3 +2460,47 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-ma-ajgal-dragon-tree-area — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MA/sights/ajgal-dragon-tree-area.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.1, photography 8.8. Rare dragon-tree habitat in rugged terrain; no transfer of whole Anti-Atlas scenery.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 86.85/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ma-casablanca-modern-heritage — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MA/sights/casablanca-modern-heritage.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 9.1, history 8.8. Twentieth-century modernist and Art Deco urban fabric, not the entire city's attractions.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 87.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ma-taza-great-mosque — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MA/sights/taza-great-mosque.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.9, history 8.8, culture 8.7. Historic religious architecture and craftsmanship, modest scale versus leading imperial mosques.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 82.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ma-tetouan-historic-centre-extension — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MA/sights/tetouan-historic-centre-extension.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.9, history 8.8, culture 8.9. Tentative extension, distinct from existing inscribed medina and its full heritage.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 85.55/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ma-tighmert-oases — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MA/sights/tighmert-oases.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 8.7, nature 8.6, photography 8.6. Oasis-chain agriculture and desert settlement, narrower than major Saharan landscapes.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 83.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

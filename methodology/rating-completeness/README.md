@@ -8,7 +8,7 @@ Omitted categories are not automatically applicable; empty category profiles are
 - Incomplete core fields: **0**
 - Records with unassessed categories: **0**
 - Unassessed category fields: **0**
-- Empty category profiles: **161**
+- Empty category profiles: **0**
 
 ## Explicitly unassessed categories
 

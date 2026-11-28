@@ -242,3 +242,11 @@ Core values I/U/S/E/D inspected on main; qualitative peers retained. Editorial c
 - Final decision: Provisional worldwide V2 editorial rating.
 - Earlier decision: none.
 - Verification still needed: full independent claim verification; precise visitor location and conditions.
+
+## city-vu-isangel — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/VU/cities/isangel.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.1. Small Tanna administrative settlement and local culture; Mount Yasur excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 65.35/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

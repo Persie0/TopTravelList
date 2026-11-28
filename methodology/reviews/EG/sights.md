@@ -2659,3 +2659,20 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Categories assigned: architecture 9.8, history 9.8, photography 9.7. The archaeological series includes Abu Simbel and Philae; UNESCO documents the international rescue campaign. Architecture 9.8 matches Abu Simbel, exceeds Philae 9.5 and Teotihuacan 9.7, and remains below Angkor 10.0. History 9.8 recognizes ancient heritage plus globally important conservation history (Abu Simbel 9.7, Philae 9.4, Giza 9.9, Angkor 10.0). Photography 9.7 reflects rock-cut façades and island temple settings (Abu Simbel 9.7, Philae 9.5, Teotihuacan 9.6). Do not invent visits to every component.
 - Evidence checked 2026-11-28: https://whc.unesco.org/en/list/88/. Named comparison values read from repository YAML at the parent commit. Scores are individual editorial estimates, not claims that UNESCO rates attractions numerically.
 - Existing core ratings, coordinates and names unchanged. Inapplicable or unsupported optional categories omitted; no explicit nulls introduced and no new perfect score.
+
+## sight-eg-alexandria-heritage-property — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/EG/sights/alexandria-heritage-property.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.4, culture 9.1, architecture 8.8. Ancient remains and modern library as a historical-cultural ensemble; not the whole metropolis or unobservable ancient wonders.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 89.50/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-eg-serabit-el-khadim — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/EG/sights/serabit-el-khadim.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.3, architecture 8.6, photography 8.7. Sinai mining and temple archaeology with early inscription heritage, narrower scale than monumental Nile temples.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 86.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

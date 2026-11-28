@@ -255,3 +255,10 @@
 - Final decision: Partial assessment retained, no overall score.
 - Verification still needed: current access, exact locations where provisional, remaining peer scores and claim-level evidence.
 
+## city-cd-mbandaka — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CD/cities/mbandaka.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.7, photography 7.5. Congo River port and riverfront urban life, not the entire surrounding rainforest.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 73.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

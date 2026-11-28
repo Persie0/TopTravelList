@@ -375,3 +375,29 @@ Initial worldwide V2 inventory. Sources consulted or linked 2026-11-25; not full
 - Approved 10 registry: none.
 - Final decision: Provisional editorial rating, not full factual verification.
 - Verification still needed: exact site scope, coordinates, access and independent per-claim evidence.
+
+## city-ne-iferouane — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/NE/cities/iferouane.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 8.1, photography 8.0. Tuareg oasis settlement and immediate Aïr foothill scenery; no credit for whole mountain range.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 76.50/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ne-maradi — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/NE/cities/maradi.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.5. Hausa regional commercial and market life.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.85/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ne-tahoua — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/NE/cities/tahoua.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.5. Sahelian regional town culture; separately named earthen mosques excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

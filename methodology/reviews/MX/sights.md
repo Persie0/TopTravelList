@@ -4462,3 +4462,245 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - Categories assigned: nature 9.8, wildlife 9.7, photography 9.5. The listed 244 islands, islets and coastal areas combine desert relief and marine diversity, including 891 fish species reported by UNESCO. Nature 9.8 matches Aldabra, above Belize 9.6 and New Caledonia 9.7, below Galápagos 9.9. Wildlife 9.7 recognizes extensive marine species diversity (Cocos 9.7, Belize 9.5, New Caledonia 9.6, Galápagos 9.9); population condition varies and encounters are not assured. Photography 9.5 reflects contrasting desert cliffs and turquoise waters (Aldabra 9.4, Galápagos 9.9, Teotihuacan 9.6 for broad visual calibration). Do not attribute the entire gulf to the listed property.
 - Evidence checked 2026-11-28: https://whc.unesco.org/en/list/1182/. Named comparison values read from repository YAML at the parent commit. Scores are individual editorial estimates, not claims that UNESCO rates attractions numerically.
 - Existing core ratings, coordinates and names unchanged. Inapplicable or unsupported optional categories omitted; no explicit nulls introduced and no new perfect score.
+
+## sight-mx-arco-del-tiempo — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/arco-del-tiempo.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.3, adventure 9.2, photography 9.4. Large natural limestone arch in river canyon; compare Zhangjiajie, Wadi Rum, Arches National Park and Sumidero Canyon; do not infer exact route or access.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/5567
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 91.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-atongo-bridge — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/atongo-bridge.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.3, architecture 7.7. Historic route bridge, localized engineering and transit heritage rather than major architecture.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 75.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-banco-chinchorro — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/banco-chinchorro.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.4, wildlife 9.4. Mexico's largest platform-type reef complex with seagrass and mangroves; compare Belize, Aldabra, Cocos and New Caledonia, no guaranteed marine encounters.
+- Indexed source excerpts reviewed 2026-11-28: https://www.unesco.org/en/mab/banco-chinchorro
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 90.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-buenavista-hacienda-chapel — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/buenavista-hacienda-chapel.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.0, history 8.3. Small former estate chapel, limited architectural breadth.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 76.45/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-camino-real-tierra-adentro — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/camino-real-tierra-adentro.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: history 9.5, architecture 9.2, culture 9.1. Serial historic silver route linking 60 listed sites; compare Silk Roads, Qhapaq Ñan, Camino de Santiago and Via Appia, not all places along the historic road.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/list/1351
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 90.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-chichimequillas-hacienda — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/chichimequillas-hacienda.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.5, history 8.8. Former hacienda estate complex rather than a single minor chapel, with agricultural and route history.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 81.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-chicxulub-ring-of-cenotes — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/chicxulub-ring-of-cenotes.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.5, photography 9.3. Exceptional karst sinkhole ring associated with Chicxulub impact, compare Yucatán individual cenotes, Plitvice, Škocjan and Jeju lava tubes; no blanket diving access.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/5784/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 92.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-cuatillos-refugio-chapel — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/cuatillos-refugio-chapel.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.1, history 8.4. Former hacienda chapel, local religious and route heritage.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 77.45/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-el-fraile-bridge — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/el-fraile-bridge.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.4, architecture 7.9. Historic route crossing and masonry engineering, narrow visitor scope.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 78.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-huichapa-limpia-concepcion-chapel — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/huichapa-limpia-concepcion-chapel.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.2, history 8.4. Local historic chapel and settlement-route context.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 78.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-la-quemada-bridge-san-felipe — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/la-quemada-bridge-san-felipe.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.3, architecture 7.8. Individual historical road bridge, not the full route.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 75.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-la-zarca-san-mateo-chapel — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/la-zarca-san-mateo-chapel.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.1, history 8.4. Hacienda chapel and religious heritage, small architectural scope.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 77.45/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-lacantun-usumacinta — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/lacantun-usumacinta.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.2, wildlife 9.1. River and tropical rainforest mosaic, not the entire Usumacinta basin or unrelated archaeological sites.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 89.45/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-los-petenes-ria-celestun — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/los-petenes-ria-celestun.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.2, wildlife 9.2, photography 8.9. Coastal wetlands, mangrove habitats and birdlife; no promise of seasonal concentrations.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 88.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-navacoyan-hacienda-devils-bridge — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/navacoyan-hacienda-devils-bridge.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.8, architecture 8.5. Hacienda and historic bridge ensemble, greater material scope than individual bridges.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 81.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-noria-de-angeles-temple — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/noria-de-angeles-temple.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.4, history 8.6. Regional historic church fabric and mining-settlement context.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 80.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-noria-san-pantaleon-temple — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/noria-san-pantaleon-temple.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.3, history 8.5. Historic local church, modest scale rather than grand cathedral.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 78.85/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-palmitos-arriba-concepcion-chapel — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/palmitos-arriba-concepcion-chapel.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.0, history 8.4. Small chapel and route-associated community heritage.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 76.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-penuelas-hacienda — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/penuelas-hacienda.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.7, architecture 8.2. Former estate heritage, without assumed intact interiors or agricultural activities.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 77.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-popocatepetl-monasteries — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/popocatepetl-monasteries.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 9.3, history 9.4, culture 9.1. Early colonial monastery ensemble with religious and architectural continuity, not volcano scenery.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 89.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-san-jose-de-avino-temple — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/san-jose-de-avino-temple.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.5, architecture 8.0. Historic mining-settlement temple, narrow architectural scope.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 74.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-san-nicolas-de-quijas-chapel — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/san-nicolas-de-quijas-chapel.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.2, history 8.5. Estate chapel and its local route heritage.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 78.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-san-rafael-bridge — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/san-rafael-bridge.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.4, architecture 7.6. Historic crossing with limited built scale and interpretation.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 74.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-valle-de-los-cirios — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/valle-de-los-cirios.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.3, photography 9.2. Distinctive Baja California desert vegetation and landscapes, without assuming concentrated wildlife.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 89.65/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-villa-gonzalez-ortega-dolores-temple — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/villa-gonzalez-ortega-dolores-temple.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.0, history 8.5. Local historic temple with regional religious and settlement history.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 75.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-villa-ocampo-san-miguel-temple — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/villa-ocampo-san-miguel-temple.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.0, history 8.4. Historic community temple, no invented decorative or interior features.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 75.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-mx-zacualpan-inmaculada-concepcion-convent — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MX/sights/zacualpan-inmaculada-concepcion-convent.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: architecture 8.9, history 9.1. Former convent and religious architecture, narrower than the serial monastery property.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 84.45/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

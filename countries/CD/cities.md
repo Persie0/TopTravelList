@@ -21,7 +21,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 5 | [Boma](cities/boma.yaml) | City / town | **76.05** | **History 8.5** | 7.2 / 7.8 / 8.2 / 7.5 / 7.3 | [-5.85098, 13.05364](https://www.google.com/maps/search/?api=1&query=-5.85098,13.05364) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Boma%2C%20DR%20Congo) |
 | 6 | [Lubumbashi](cities/lubumbashi.yaml) | City / town | **76.00** | **History 8.2**, **Culture 8.1** | 7.4 / 7.6 / 7.9 / 7.6 / 7.6 | [-11.66089, 27.47938](https://www.google.com/maps/search/?api=1&query=-11.66089,27.47938) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Lubumbashi%2C%20DR%20Congo) |
 | 7 | [Matadi](cities/matadi.yaml) | City / town | **75.95** | **Photography 8.0** | 7.5 / 7.6 / 7.8 / 7.7 / 7.3 | [-5.83861, 13.46306](https://www.google.com/maps/search/?api=1&query=-5.83861,13.46306) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Matadi%2C%20DR%20Congo) |
-| 8 | [Mbandaka](cities/mbandaka.yaml) | City / town | **73.40** | — | 7.2 / 7.6 / 7.3 / 7.4 / 7.1 | [0.04865, 18.26034](https://www.google.com/maps/search/?api=1&query=0.04865,18.26034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbandaka%2C%20DR%20Congo) |
+| 8 | [Mbandaka](cities/mbandaka.yaml) | City / town | **73.40** | **Culture 7.7**, **Photography 7.5** | 7.2 / 7.6 / 7.3 / 7.4 / 7.1 | [0.04865, 18.26034](https://www.google.com/maps/search/?api=1&query=0.04865,18.26034) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbandaka%2C%20DR%20Congo) |
 
 ---
 

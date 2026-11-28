@@ -192,3 +192,11 @@
 - Final decision: Provisional worldwide V2 editorial rating.
 - Earlier decision: [Prior incomplete assessment](history-review-2026-11-26.md).
 - Verification still needed: independent claim checks, exact visitor access and current conditions.
+
+## city-ug-kabale — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/UG/cities/kabale.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.5, photography 7.7. Highland market town and immediate hills; Lake Bunyonyi separately assessed.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 72.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

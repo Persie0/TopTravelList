@@ -318,3 +318,10 @@
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: site-specific access, provisional GPS, remaining peer scores and independent claim-level evidence.
 
+## city-cm-bamenda — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CM/cities/bamenda.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 8.1, photography 7.8. Grassfields regional urban culture and hilly town setting; exclude remote palaces and hiking routes.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 76.20/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

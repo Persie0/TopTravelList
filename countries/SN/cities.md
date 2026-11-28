@@ -21,7 +21,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 5 | [Podor](cities/podor.yaml) | City / town | **78.60** | **History 8.5** | 7.6 / 8.1 / 8.2 / 7.9 / 7.3 | [16.617, -15.033](https://www.google.com/maps/search/?api=1&query=16.617,-15.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Podor%2C%20Senegal) |
 | 6 | [Ziguinchor](cities/ziguinchor.yaml) | City / town | **77.85** | **Culture 8.4**, **Food 8.0** | 7.6 / 7.9 / 7.8 / 8.0 / 7.7 | [12.568, -16.273](https://www.google.com/maps/search/?api=1&query=12.568,-16.273) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ziguinchor%2C%20Senegal) |
 | 7 | [Mbour](cities/mbour.yaml) | City / town | **75.60** | **Culture 8.3**, **Food 8.0** | 7.4 / 7.8 / 7.4 / 7.8 / 7.4 | [14.422, -16.964](https://www.google.com/maps/search/?api=1&query=14.422,-16.964) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbour%2C%20Senegal) |
-| 8 | [Kédougou](cities/kedougou.yaml) | City / town | **70.40** | — | 6.6 / 7.4 / 7.4 / 7.2 / 6.5 | [12.56, -12.18](https://www.google.com/maps/search/?api=1&query=12.56,-12.18) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%A9dougou%2C%20Senegal) |
+| 8 | [Kédougou](cities/kedougou.yaml) | City / town | **70.40** | **Culture 7.7** | 6.6 / 7.4 / 7.4 / 7.2 / 6.5 | [12.56, -12.18](https://www.google.com/maps/search/?api=1&query=12.56,-12.18) | [Google Maps](https://www.google.com/maps/search/?api=1&query=K%C3%A9dougou%2C%20Senegal) |
 
 ---
 

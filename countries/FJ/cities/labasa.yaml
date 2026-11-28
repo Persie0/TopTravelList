@@ -10,4 +10,6 @@ scores:
   significance: 6.7
   experience: 6.6
   depth: 5.9
-  categories: {}
+  categories:
+    culture: 7.3
+    food: 7.2

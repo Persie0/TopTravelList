@@ -256,3 +256,19 @@
 - Final decision: Partial assessment retained; no overall score.
 - Verification still needed: precise location where provisional, permitted access, remaining peer scores and claim-level verification.
 
+## city-ao-huambo — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AO/cities/huambo.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 7.9, culture 7.5. Highland rail and administrative city heritage; assess its urban fabric rather than nearby mountain sites.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 72.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ao-malanje — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/AO/cities/malanje.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3, history 7.1. Regional market and town heritage; exclude Kalandula Falls and other excursions.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 71.00/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
