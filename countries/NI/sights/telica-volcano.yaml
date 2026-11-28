@@ -1,0 +1,16 @@
+id: sight-ni-telica-volcano
+name: "Telica Volcano Crater Hiking"
+location:
+  country_code: NI
+  latitude: 12.606
+  longitude: -86.84
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.1
+  experience: 8.7
+  depth: 8.0
+  categories:
+    adventure: 9.2
+    nature: 9.1
+    photography: 9.1
