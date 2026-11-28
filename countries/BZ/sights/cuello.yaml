@@ -1,0 +1,16 @@
+id: sight-bz-cuello
+name: "Cuello Archaeological Site"
+location:
+  country_code: BZ
+  latitude: 18.06954
+  longitude: -88.60162
+scores:
+  impact: 7.0
+  uniqueness: 8.8
+  significance: 9.2
+  experience: 6.8
+  depth: 7.6
+  categories:
+    history: 9.4
+    culture: 8.9
+    architecture: 8.0

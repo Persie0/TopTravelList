@@ -1,0 +1,16 @@
+id: sight-bz-chiquibul-cave-system
+name: "Chiquibul Cave System (Belize Sector)"
+location:
+  country_code: BZ
+  latitude: 16.731
+  longitude: -89.035
+scores:
+  impact: 9.3
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 8.0
+  depth: 9.0
+  categories:
+    nature: 9.5
+    adventure: 9.2
+    history: 9.0

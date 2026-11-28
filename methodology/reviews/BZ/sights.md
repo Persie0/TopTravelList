@@ -1690,3 +1690,207 @@ Eight additions and one rescore, two fact-checked decisions and seven source-lin
 - High-score challenge: NASA documentation supports exceptional 9.7 impact and uniqueness; aerial geometry supports 9.7 photography, rare flooded karst supports 9.6 nature. Experience improves for documented complementary aerial and underwater viewpoints, but depth remains limited and no marine abundance assumed. No approved 10 requested.
 - Earlier decision: Prior review retained.
 - Remaining verification: exact site locations and current reef condition, more numerical peer comparisons, full diagnostics. Coordinates are not dive navigation instructions.
+
+# Pass 409 — 2026-11-28 — direct main continuation
+
+Seven additions and one rescore. Two researched high-score decisions; six provisional source-linked additions. JS inventory, weighted formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Chiquibul cave uses existing park-level reference point, not an entrance, respects published location withholding and excludes Guatemala sector and general forest experience. No public technical-cave access implied. Nohmul permanent physical damage accounted for, not a temporary closure. No private land or excavation access assumed. No exact sensitive cave entrances added.
+
+## sight-bz-chiquibul-cave-system — Chiquibul Cave System (Belize Sector) — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/chiquibul-cave-system.yaml)
+- Action: new
+- Precise subject: Belize sector of regional cave system; park-level reference point deliberately reused rather than sensitive cave entrances. Excludes Guatemalan Xibalba, Caracol ruins and general forest. Public specialist access not established; intrinsic score, no credit for unrestricted passage exploration.
+- Location check: 16.731, -89.035; representative point, not a verified entrance.
+- Evidence status: fact-checked; indexed source excerpts and selected mapped pages, not field verification.
+- Sources consulted 2026-11-28: https://fcdbelize.org/cave-team/ (managing authority: 65 km mapped passages, over 60 sinkholes and cultural, geological and biological value); https://www.nature.org/en-us/about-us/where-we-work/latin-america/belize/chiquibul-cave-system/ (conservation and hydrology); https://www.travelbelize.org/blog/meet-the-green-heart-of-belize-chiquibul-national-park/ (regional geological visitor context); https://www.tresvisocaves.info/belizeweb/cavelist.html (cave location withholding at Institute of Archaeology request); existing Chiquibul park reference point.
+- Worldwide peers (qualitative; current Caracol and previous Lamanai YAML checked):
+  - Phong Nha–Ke Bang (VN): much greater documented ordinary visitor route diversity
+  - Mammoth Cave (US): greater network length and established visitor interpretation
+  - Candelaria Caves (GT, 90.90): stronger documented guided river-cave experience
+  - ATM (BZ, 93.30): more concentrated publicly interpreted ritual remains.
+- Individual scores:
+  - impact: 9.3 — Exceptional underground scale and sinkholes give strong intrinsic visual impact
+  - uniqueness: 9.5 — Largest known Central American network warrants 9.5 uniqueness, not global size record
+  - significance: 9.2 — Research and conservation importance span geology and archaeology
+  - experience: 8.0 — Specialist cave landscape, no assumed passage access or unsupported tourism infrastructure
+  - depth: 9.0 — Multiple documented cave systems and geological features support depth without claiming visitor access to each.
+- Categories: nature 9.5, adventure 9.2, history 9.0.
+- Overall: 91.05/100.
+- High-score challenge: Managing authority's documented regional record scale and multiple sinkholes support 9.5 uniqueness and nature and 90+ intrinsic rating; much less confirmed public access than Phong Nha or Mammoth Cave. No restricted entrances or entire cave route credited. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.
+
+## sight-bz-la-milpa — La Milpa Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/la-milpa.yaml)
+- Action: new
+- Precise subject: Ancient city core and authorized visitor route, excludes entire Rio Bravo conservation area and excavations not open to public.
+- Location check: 17.83543, -89.05109; representative point, not a verified entrance.
+- Evidence status: source-linked-unverified; indexed source excerpts and selected mapped pages, not field verification.
+- Sources consulted 2026-11-28: https://www.cambridge.org/core/journals/ancient-mesoamerica/article/carved-monuments-of-la-milpa-belize-results-of-photogrammetric-and-epigraphic-documentation/4D657B7B244F2D6DC31D6919A64EAD6B (third largest site in Belize, carved monuments); https://www.bu.edu/lamilpa/LM_saa99/LaMilpa.html (Great Plaza and excavations); https://destinationsbelize.com/component/content/article/153-la-milpa-mayan-ruins?Itemid=520&catid=107%3Amayan-ruins (lodge access context); https://mapcarta.com/19509354 (mapped representative point).
+- Worldwide peers (qualitative; current Caracol and previous Lamanai YAML checked):
+  - Calakmul (MX): much greater exposed pyramids
+  - Tikal (GT): greater monumental visitor circuit
+  - Copán (HN): stronger publicly visible sculpture
+  - Caracol (BZ): greater exposed monumental architecture.
+- Individual scores:
+  - impact: 8.4 — Forest ruins and plazas create strong atmosphere
+  - uniqueness: 8.9 — Major northern Belize city-state with distinct carved monuments
+  - significance: 9.2 — Archaeological and epigraphic research establishes importance
+  - experience: 8.0 — Focused guided visit where authorized, no extensive excavated circuit assumed
+  - depth: 8.7 — Large settlement and multiple plazas provide depth.
+- Categories: history 9.3, architecture 8.8, culture 8.8.
+- Overall: 86.55/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.
+
+## sight-bz-santa-rita-corozal — Santa Rita Archaeological Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/santa-rita-corozal.yaml)
+- Action: new
+- Precise subject: Existing visible site core in Corozal, excludes destroyed or buried structures and entire ancient Chetumal settlement.
+- Location check: 18.4023, -88.39505; representative point, not a verified entrance.
+- Evidence status: source-linked-unverified; indexed source excerpts and selected mapped pages, not field verification.
+- Sources consulted 2026-11-28: https://nichbelize.org/product/santa-rita/ (official ticketed reserve and few remaining visible structures, Postclassic trading center); https://mapcarta.com/W1001585693 (mapped reserve).
+- Worldwide peers (qualitative; current Caracol and previous Lamanai YAML checked):
+  - Tulum (MX): much more striking coastal architecture
+  - Iximché (GT): more extensive visible Postclassic ceremonial core
+  - Cihuatán (SV): larger exposed urban landscape
+  - Lamanai (BZ): greater chronological and monument breadth.
+- Individual scores:
+  - impact: 7.8 — Small surviving core provides moderate archaeological visual appeal
+  - uniqueness: 8.5 — Postclassic trade center with distinctive historical context
+  - significance: 8.8 — Important regional Maya trade and communication history
+  - experience: 8.0 — Official reserve visit offers meaningful focused interpretation
+  - depth: 7.5 — Few visible structures limit physical breadth.
+- Categories: history 9.0, architecture 8.3, culture 8.7.
+- Overall: 81.75/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.
+
+## sight-bz-cuello — Cuello Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/cuello.yaml)
+- Action: new
+- Precise subject: Early settlement and surviving archaeological context only; no assumption of access across private land or viewing buried excavations.
+- Location check: 18.06954, -88.60162; representative point, not a verified entrance.
+- Evidence status: source-linked-unverified; indexed source excerpts and selected mapped pages, not field verification.
+- Sources consulted 2026-11-28: https://www.cambridge.org/core/journals/antiquity/article/abs/preclassic-maya-architectural-ritual-at-cuello-belize/9FB710C94EE885056D4AE6DC628E371D (early excavated Maya village, occupation from at least 1200 BCE); https://anthropological-notebooks.zrc-sazu.si/Notebooks/article/view/404 (long-term research); https://mapcarta.com/19510170 (representative point).
+- Worldwide peers (qualitative; current Caracol and previous Lamanai YAML checked):
+  - Chavín (PE): greater monumental religious architecture
+  - Nakbé (GT): much greater early monumental visibility
+  - Joya de Cerén (SV): much better preserved publicly interpreted early community context
+  - Santa Rita (BZ): more documented public reserve visit.
+- Individual scores:
+  - impact: 7.0 — Low settlement remains have limited visual impact
+  - uniqueness: 8.8 — Early settled Maya community and stratified evidence are distinctive
+  - significance: 9.2 — Important research into early Maya village life
+  - experience: 6.8 — No ordinary public visitor circuit verified, no excavation access credited
+  - depth: 7.6 — Long occupational sequence provides specialist interpretive depth.
+- Categories: history 9.4, culture 8.9, architecture 8.0.
+- Overall: 79.20/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.
+
+## sight-bz-nohmul — Nohmul Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/nohmul.yaml)
+- Action: new
+- Precise subject: Surviving site remains only, excluding lost major pyramid. General historic settlement reference, not private property access.
+- Location check: 18.21731, -88.58475; representative point, not a verified entrance.
+- Evidence status: source-linked-unverified; indexed source excerpts and selected mapped pages, not field verification.
+- Sources consulted 2026-11-28: https://www.nationalgeographic.com/history/article/130515-belize-pyramid-destroyed-archeology-maya-nohmul-world-road (documented 2013 physical destruction); https://mapcarta.com/19508798 (site reference).
+- Worldwide peers (qualitative; current Caracol and previous Lamanai YAML checked):
+  - Santa Rita (BZ): better documented remaining public reserve
+  - Iximché (GT): greater visible ceremonial architecture
+  - Cihuatán (SV): greater surviving monument scope
+  - Cuello (BZ): stronger early settlement research focus.
+- Individual scores:
+  - impact: 5.7 — Substantial physical loss of major pyramid limits current visual impact
+  - uniqueness: 7.7 — Historic Maya settlement remains regionally distinctive but damaged
+  - significance: 8.5 — Scientific and historical significance persists despite irreversible destruction
+  - experience: 6.2 — No public route verified, no lost monument credited
+  - depth: 6.5 — Surviving archaeological context offers limited documented breadth.
+- Categories: history 8.9, culture 8.1.
+- Overall: 69.15/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.
+
+## sight-bz-pusilha — Pusilhá Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/pusilha.yaml)
+- Action: new
+- Precise subject: Late Classic city and surviving archaeological landscape; no assumptions about visibility of inscriptions or public access.
+- Location check: 16.1125, -89.19528; representative point, not a verified entrance.
+- Evidence status: source-linked-unverified; indexed source excerpts and selected mapped pages, not field verification.
+- Sources consulted 2026-11-28: https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=indus&nation=&place=river&subjectid=8697624 (Maya site with hieroglyphic inscriptions); https://academic.oup.com/florida-scholarship-online/book/17101/chapter-abstract/174443216 (southern Belize urban archaeology); https://mapcarta.com/19508464 (site point).
+- Worldwide peers (qualitative; current Caracol and previous Lamanai YAML checked):
+  - Copán (HN): more substantial visible inscriptions and monuments
+  - Quiriguá (GT): more exceptional monumental sculpture
+  - Caracol (BZ): far broader exposed city
+  - Uxbenká (BZ): similar southern Belize regional center and more documented community interpretation.
+- Individual scores:
+  - impact: 7.7 — Forest archaeological setting offers modest visual impact pending visibility checks
+  - uniqueness: 8.7 — Distinct southern Maya city and epigraphic record
+  - significance: 9.0 — Important regional political and cultural evidence
+  - experience: 7.3 — No established ordinary visitor route verified
+  - depth: 8.3 — Multiple structures and inscriptions support specialist depth.
+- Categories: history 9.2, architecture 8.5, culture 8.8.
+- Overall: 82.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.
+
+## sight-bz-uxbenka — Uxbenká Archaeological Site and Community Museum — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/uxbenka.yaml)
+- Action: new
+- Precise subject: Ancient hilltop city and associated Santa Cruz community-managed visitor center and museum; excludes private homes, research areas and separate caves.
+- Location check: 16.2402, -89.0687; representative point, not a verified entrance.
+- Evidence status: source-linked-unverified; indexed source excerpts and selected mapped pages, not field verification.
+- Sources consulted 2026-11-28: https://anthropology.unm.edu/research/field-projects/project/uxbenk%C3%A1-archaeological-project-uap.html (community management since 2009 and museum since 2018); https://www.sciencedirect.com/science/article/pii/S0305440311004626 (Stela Plaza and chronology); https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=vietnam&place=province&subjectid=7032591 (site coordinates and inscription context).
+- Worldwide peers (qualitative; current Caracol and previous Lamanai YAML checked):
+  - Copán (HN): more extensive visible monumental art
+  - Uaxactún (GT): broader early ceremonial complex
+  - Lubaantun (BZ): greater visible masonry scope
+  - San Juan La Laguna (GT): stronger hands-on living craft programs, different cultural scope.
+- Individual scores:
+  - impact: 8.1 — Hilltop plaza and surrounding landscape offer strong focused visual appeal
+  - uniqueness: 8.7 — Early southern Maya center with community stewardship is distinctive
+  - significance: 9.0 — Research and Indigenous cultural management support significance
+  - experience: 8.4 — Documented museum and visitor center strengthen interpretation, opening not verified
+  - depth: 8.6 — Archaeological groups and community museum provide varied depth.
+- Categories: history 9.2, culture 9.1, architecture 8.6.
+- Overall: 85.25/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.
+
+## sight-bz-lamanai-archaeological-reserve — Lamanai Archaeological Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/lamanai-archaeological-reserve.yaml)
+- Action: rescore
+- Precise subject: Existing reserve core with public High, Mask and Jaguar temples and colonial heritage; excludes entire New River Lagoon wildlife route and unauthorized climbing.
+- Location check: 17.752, -88.654; representative point, not a verified entrance.
+- Evidence status: fact-checked; indexed source excerpts and selected mapped pages, not field verification.
+- Sources consulted 2026-11-28: https://www.lamanai.org.uk/index.html (project: approximately 3200-year history); https://doi.org/10.1177/14696053231196887 (colonial-era resilience); https://www.yorku.ca/anthro/belize/what-we-know.html (documented temple and historic community); https://nichbelize.org/institute-of-archaeology/ (public High Temple interpretation). Coordinates retained.
+- Worldwide peers (qualitative; current Caracol and previous Lamanai YAML checked):
+  - Caracol (BZ, 91.10): larger monumental city and regional political scale
+  - Tikal (GT, 94.95): far greater towering temple complex
+  - Calakmul (MX): larger monumental forest capital
+  - Copán (HN): stronger exposed sculpture and inscriptions.
+- Individual scores:
+  - impact: 8.9 → 9.0 — Large forest temples and carved masks justify modest impact increase
+  - uniqueness: 8.9 → 9.0 — Exceptional chronological continuity strengthens distinctiveness
+  - significance: 9.1 → 9.4 — Research confirms unusually long Maya occupation through colonial times, justifying 9.4 significance
+  - experience: 9.0 → 9.0 — Established public archaeological visit remains strong, no climbing guarantees
+  - depth: 8.6 → 8.9 — Temples and colonial-era heritage broaden depth beyond prior estimate.
+- Categories: history 9.4, architecture 9.2, photography 9.1.
+- Overall: 89.25 → 90.70/100.
+- High-score challenge: Rare long occupation and documented monumental public temples support low 90s, below larger Maya capitals; no extra river wildlife credit. No approved 10 requested.
+- Earlier decision: Prior review retained.
+- Remaining verification: current public access and preservation, additional numerical peers and full diagnostics.

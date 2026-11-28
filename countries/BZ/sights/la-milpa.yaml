@@ -1,0 +1,16 @@
+id: sight-bz-la-milpa
+name: "La Milpa Archaeological Site"
+location:
+  country_code: BZ
+  latitude: 17.83543
+  longitude: -89.05109
+scores:
+  impact: 8.4
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 8.0
+  depth: 8.7
+  categories:
+    history: 9.3
+    architecture: 8.8
+    culture: 8.8
