@@ -1,0 +1,16 @@
+id: sight-bz-northeastern-biological-corridor
+name: "North-eastern Biological Corridor"
+location:
+  country_code: BZ
+  latitude: 18.07825
+  longitude: -88.39854
+scores:
+  impact: 8.2
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 7.7
+  depth: 8.7
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    photography: 8.4

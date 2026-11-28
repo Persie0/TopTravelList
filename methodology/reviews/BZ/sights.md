@@ -3248,3 +3248,159 @@ Nine additions, one researched fact-checked high-score decision and eight provis
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-battle-of-the-drums — Punta Gorda Battle of the Drums and Food Fete — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/battle-of-the-drums.yaml)
+- Action: new
+- Precise subject: Distinct November Garifuna music competition and food event; excludes Dangriga Yurumein. Representative Punta Gorda town point from existing Chocolate Festival entry, not fixed venue.
+- Location check: 16.098, -88.809; approximate representative point.
+- Evidence status: source-linked-unverified; see exact opened/indexed status below; numerical judgments provisional.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/event/battle-of-the-drums-food-fete/ (opened: distinct music, dance and food competition); https://visittoledobelize.com/events/ (opened: international groups from Belize, Guatemala and Honduras, five categories, safeguarding initiatives).
+- Worldwide peers (qualitative, not independently refetched):
+  - Festival of the Pacific Arts (multiple Pacific countries): broader cultural representation and scale
+  - Festival of the Desert (ML): different tradition and larger historic international music profile
+  - Bomba and plena festivals (PR): related participatory Afro-Caribbean music culture
+  - Dangriga Yurumein (BZ): more nationally emblematic commemorative ceremony
+- Individual scores:
+  - impact: 8.8 — Competitive live drumming creates strong sensory and communal impact.
+  - uniqueness: 9.1 — Specific Garifuna rhythmic traditions and cross-border competition distinguish the event.
+  - significance: 9.2 — Cultural transmission and safeguarding support high significance, without claiming an individual UNESCO inscription.
+  - experience: 9.0 — Music, dance and food make an engaging experience.
+  - depth: 8.4 — Competition and associated festivities provide breadth but are narrower than a major multiweek festival.
+- Categories: culture 9.4, food 8.9, photography 8.8.
+- Overall: 89.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise geographic scope and access, worldwide Python checks.
+
+## sight-bz-sarstoon-temash-national-park — Sarstoon-Temash National Park — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/sarstoon-temash-national-park.yaml)
+- Action: new
+- Precise subject: Belize wetland and forest park between the two rivers; excludes Guatemalan territory and guaranteed fauna encounters. Approximate Ramsar representative point.
+- Location check: 15.966667, -89; approximate representative point.
+- Evidence status: source-linked-unverified; see exact opened/indexed status below; numerical judgments provisional.
+- Sources consulted 2026-11-28: https://www.ramsar.org/news/belize-adds-part-transboundary-wetland (indexed: 16,955 ha and representative coordinates; full page blocked); https://www.travelbelize.org/attraction/sarstoon-temash-national-park/ (opened: remote boat-based experience).
+- Worldwide peers (qualitative, not independently refetched):
+  - Okavango Delta (BW): far greater wildlife spectacle and breadth
+  - Tortuguero (CR): better developed canal exploration
+  - Sian Ka'an (MX): greater variety of terrestrial and marine experiences
+  - Payne’s Creek (BZ): smaller comparable coastal forest and wetland focus
+- Individual scores:
+  - impact: 8.8 — Remote tropical waterways and forest create strong wilderness immersion.
+  - uniqueness: 8.9 — River-bounded mosaic of wetlands and forest is distinctive.
+  - significance: 9.3 — Ramsar recognition and habitat connectivity support high ecological significance.
+  - experience: 8.3 — Boat-based exploration is rewarding but limited in mode.
+  - depth: 8.9 — Large multi-ecosystem landscape provides significant ecological breadth.
+- Categories: nature 9.3, wildlife 9.3, adventure 8.8, photography 8.8.
+- Overall: 88.60/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise geographic scope and access, worldwide Python checks.
+
+## sight-bz-maya-day-tumul-kin — Maya Day at Tumul K'in — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/maya-day-tumul-kin.yaml)
+- Action: new
+- Precise subject: Annual Maya Day cultural gathering at Tumul K'in Center of Learning, Blue Creek, Toledo; not the school as an attraction or nearby Hokeb Ha Cave.
+- Location check: 16.199, -89.04582; approximate representative point.
+- Evidence status: source-linked-unverified; see exact opened/indexed status below; numerical judgments provisional.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/event/maya-day/ (opened: three Maya groups, ritual dance, music and food activities); https://visittoledobelize.com/events/ (opened: festival and living cultural experiences); https://mapcarta.com/W1083070004 (opened: mapped school grounds).
+- Worldwide peers (qualitative, not independently refetched):
+  - Inti Raymi (PE): more internationally prominent ceremonial spectacle
+  - Guelaguetza (MX): larger indigenous performing arts festival
+  - Rabinal Achí (GT): distinctive specific ritual dance-drama tradition
+  - Living Maya Experience (BZ): comparable cultural learning on a smaller household scale
+- Individual scores:
+  - impact: 8.6 — Dance and live communal activities provide memorable sensory encounters.
+  - uniqueness: 9.0 — Celebration of three Maya groups together offers distinctive cultural scope.
+  - significance: 9.1 — Living linguistic and ritual traditions warrant high significance.
+  - experience: 9.0 — Music, ritual, food and competitions create active visitor engagement.
+  - depth: 8.5 — Several activities and cultural groups provide depth within a short festival.
+- Categories: culture 9.4, history 8.9, food 8.8, photography 8.8.
+- Overall: 88.50/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise geographic scope and access, worldwide Python checks.
+
+## sight-bz-northeastern-biological-corridor — North-eastern Biological Corridor — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/northeastern-biological-corridor.yaml)
+- Action: new
+- Precise subject: Landscape-scale protected habitat connection; includes former Freshwater Creek and Honey Camp protected areas without separate duplicate designations. Shipstern and Honey Camp Lagoon remain separately scoped. Point is former Freshwater Creek reserve, not entrance or corridor centroid.
+- Location check: 18.07825, -88.39854; approximate representative point.
+- Evidence status: source-linked-unverified; see exact opened/indexed status below; numerical judgments provisional.
+- Sources consulted 2026-11-28: https://belizehighcommission.co.uk/2020/01/21/legal-declaration-of-the-north-eastern-biological-corridor-through-statutory-instrument/ (opened: legal declaration, 28,000 hectares, habitats and over 1,000 plant and animal species); https://www.worldlandtrust.org/belize/ (opened: 27,972 ha and six-area connectivity for large mammals); https://mapcarta.com/19509814 (opened: component coordinates).
+- Worldwide peers (qualitative, not independently refetched):
+  - Selva Maya transboundary conservation landscape (MX/GT/BZ): far greater ecological scale
+  - Sian Ka'an (MX): more extensive coastal ecosystems and established visitor experiences
+  - Osa Biological Corridor (CR): comparable wildlife connectivity
+  - Golden Stream Corridor (BZ): analogous but separate south Belize habitat network
+- Individual scores:
+  - impact: 8.2 — Lowland forest and wetlands provide attractive natural immersion.
+  - uniqueness: 8.7 — Restored connectivity across fragmented sugarcane landscape is distinctive.
+  - significance: 9.2 — Legal protection and habitat linkage for threatened large mammals support high significance.
+  - experience: 7.7 — Intrinsic nature experience is scored without assuming a comprehensive public tour network.
+  - depth: 8.7 — Six connected protected areas and diverse habitats provide substantial depth.
+- Categories: nature 9.2, wildlife 9.2, photography 8.4.
+- Overall: 85.00/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise geographic scope and access, worldwide Python checks.
+
+## sight-bz-colha — Colha Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/colha.yaml)
+- Action: new
+- Precise subject: Ancient Maya stone-tool production centre, not Chan Colha or Altun Ha. Limited exposed architecture and public access not established.
+- Location check: 17.95572, -88.36654; approximate representative point.
+- Evidence status: source-linked-unverified; see exact opened/indexed status below; numerical judgments provisional.
+- Sources consulted 2026-11-28: https://doi.org/10.1080/00438243.1991.9980160 (indexed abstract: regional export of specialized tools; full page blocked); https://www.cambridge.org/core/journals/american-antiquity/article/abs/ancient-maya-chert-workshops-in-northern-belize-central-america/1449E6B02121AF968C960A0A8107C749 (indexed: large-scale chert exploitation); https://mapcarta.com/19510370 (opened: coordinates).
+- Worldwide peers (qualitative, not independently refetched):
+  - Tikal (GT): much stronger monumental architecture
+  - Joya de Cerén (SV): exceptionally preserved everyday ancient life
+  - Teotihuacan (MX): much greater urban craft and architectural scope
+  - Cuello (BZ): comparable important research site with modest visible presentation
+- Individual scores:
+  - impact: 7.0 — Research site has more interpretive than monumental visual value.
+  - uniqueness: 8.5 — Specialized chert-tool industry differentiates the settlement.
+  - significance: 9.0 — Archaeological evidence for regional production and exchange supports high significance.
+  - experience: 6.8 — No extensive public interpretation or exposed workshop visit assumed.
+  - depth: 8.0 — Multiple periods of craft production provide interpretive depth.
+- Categories: history 9.2, culture 8.7, architecture 7.5.
+- Overall: 78.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise geographic scope and access, worldwide Python checks.
+
+## sight-bz-tipu — Tipu Archaeological and Colonial Mission Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/tipu.yaml)
+- Action: new
+- Precise subject: Maya settlement and early colonial mission archaeological landscape, not a standing church or museum. Coordinates from unreferenced Wikidata point, approximate; current visitation unknown.
+- Location check: 17.07951, -89.0803; approximate representative point.
+- Evidence status: source-linked-unverified; see exact opened/indexed status below; numerical judgments provisional.
+- Sources consulted 2026-11-28: https://www.loc.gov/item/hlas-bi89100397/ (indexed catalogue: Maya town on Spanish colonial frontier); https://pmc.ncbi.nlm.nih.gov/articles/PMC8360522/ (indexed: colonial-period mission and regional location); https://www.wikidata.org/wiki/Q7809030 (opened: unreferenced coordinate, provisional).
+- Worldwide peers (qualitative, not independently refetched):
+  - San Antonio Missions (US): greater surviving architectural ensemble
+  - Jesuit Missions of the Guaraní (AR/BR): much stronger visible ruins
+  - Lamanai (BZ): wider visible Maya and colonial archaeology
+  - Joya de Cerén (SV): better-preserved domestic material context
+- Individual scores:
+  - impact: 7.0 — Subtle archaeological remains have modest visual impact.
+  - uniqueness: 8.5 — Maya-Spanish colonial frontier encounter offers distinctive historical context.
+  - significance: 8.9 — Research on contact-period cultural change supports high significance.
+  - experience: 6.8 — Interpretive value is strong but no established visitor facilities assumed.
+  - depth: 7.9 — Settlement and mission archaeology offer meaningful research depth.
+- Categories: history 9.2, culture 8.7, architecture 7.4.
+- Overall: 78.15/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: full source triangulation, precise geographic scope and access, worldwide Python checks.
+
+## Pass 416 scope screening — 2026-11-28
+
+- Great Blue Hole scenic flights: two operators' opened pages confirm aerial observation of the sinkhole and reef (https://www.tropicair.com/tropic-air-tours/the-great-blue-hole-tour/ and https://www.mayaislandair.com/the-great-blue-hole-tour/). Existing `blue-hole-natural-monument-great-blue-hole` assessment explicitly covers aerial viewing and qualified diving (92.85). Retain existing rating; no duplicate flyover entry. Multi-atoll scenery also covered by existing reef landscape assessment.
+- Freshwater Creek and Honey Camp former protected-area designations are covered by the corridor entry, rather than duplicated as separate forest sites. Existing lagoon and Shipstern entries remain distinct.
+- No claim of exhaustive national inventory or full independent verification.
