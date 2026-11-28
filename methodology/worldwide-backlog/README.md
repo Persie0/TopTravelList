@@ -4,8 +4,8 @@ Generated from current source YAML and the original historical batch inventory.
 A complete numeric rating is not proof of independent fact-checking.
 Historical dispositions are retained verbatim; overlapping scopes still require editorial review.
 
-- Current source records: **20,199**
-- Complete core ratings: **20,198**
+- Current source records: **20,276**
+- Complete core ratings: **20,275**
 - All incomplete core ratings: **1**
 - Original inventory resolved: **1,589 / 1,590**
 - Original inventory still incomplete: **1**

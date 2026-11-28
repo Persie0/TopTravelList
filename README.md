@@ -99,7 +99,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Anguilla](countries/AI/) (`AI`) | [3](countries/AI/cities.md) | [10](countries/AI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Anguilla) |
 | [Antarctica](countries/AQ/) (`AQ`) | [0](countries/AQ/cities.md) | [14](countries/AQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Antarctica) |
 | [Antigua and Barbuda](countries/AG/) (`AG`) | [10](countries/AG/cities.md) | [32](countries/AG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Antigua%20and%20Barbuda) |
-| [Argentina](countries/AR/) (`AR`) | [40](countries/AR/cities.md) | [154](countries/AR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Argentina) |
+| [Argentina](countries/AR/) (`AR`) | [40](countries/AR/cities.md) | [202](countries/AR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Argentina) |
 | [Armenia](countries/AM/) (`AM`) | [20](countries/AM/cities.md) | [55](countries/AM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Armenia) |
 | [Aruba](countries/AW/) (`AW`) | [2](countries/AW/cities.md) | [13](countries/AW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Aruba) |
 | [Australia](countries/AU/) (`AU`) | [12](countries/AU/cities.md) | [222](countries/AU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Australia) |
@@ -133,7 +133,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Cayman Islands](countries/KY/) (`KY`) | [2](countries/KY/cities.md) | [11](countries/KY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cayman%20Islands) |
 | [Central African Republic](countries/CF/) (`CF`) | [10](countries/CF/cities.md) | [25](countries/CF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Central%20African%20Republic) |
 | [Chad](countries/TD/) (`TD`) | [10](countries/TD/cities.md) | [25](countries/TD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chad) |
-| [Chile](countries/CL/) (`CL`) | [33](countries/CL/cities.md) | [67](countries/CL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chile) |
+| [Chile](countries/CL/) (`CL`) | [33](countries/CL/cities.md) | [96](countries/CL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chile) |
 | [China](countries/CN/) (`CN`) | [229](countries/CN/cities.md) | [467](countries/CN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=China) |
 | [Christmas Island](countries/CX/) (`CX`) | [1](countries/CX/cities.md) | [13](countries/CX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Christmas%20Island) |
 | [Cocos (Keeling) Islands](countries/CC/) (`CC`) | [2](countries/CC/cities.md) | [12](countries/CC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cocos%20%28Keeling%29%20Islands) |

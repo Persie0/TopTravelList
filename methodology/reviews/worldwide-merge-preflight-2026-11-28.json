@@ -1,0 +1,1824 @@
+{
+  "head": "7cf045f998ee59b5b00927b5897f7a42e22316f3",
+  "source_prs": [
+    {
+      "pr": 328,
+      "head": "1be2439f26690ba96f2e69dc3d5b7d6731d43d2e",
+      "base": "39739e6ab64f21006438a52ad9ba27212510356c",
+      "changed": 2,
+      "exact": 2,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 330,
+      "head": "9d8f414929baa15a7b3084e8a7e1e51f1d6f246d",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 3,
+      "exact": 3,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 331,
+      "head": "2576ed106a74dd89d5a21011236dbd2fba545e0b",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 3,
+      "exact": 3,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 332,
+      "head": "8ea906dc8028245e7c66f350c2ca6b3da69d6b9a",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 4,
+      "exact": 4,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 333,
+      "head": "acfe72c7eb79c2a5599aea25f09cffe3d9980e74",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 3,
+      "exact": 3,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 334,
+      "head": "9ee276033efecedf8b1e9a3f0d69cb7ac2280856",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 3,
+      "exact": 1,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/AM/sights/vishaps-and-cultural-landscape-of-tirinkatar.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.1,
+              8.6
+            ],
+            [
+              "experience",
+              7.5,
+              8.5
+            ],
+            [
+              "depth",
+              8.0,
+              8.4
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AZ/sights/hyrcanian-forests-azerbaijan-components.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.3,
+              8.6
+            ],
+            [
+              "experience",
+              7.8,
+              8.3
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 335,
+      "head": "4737f54d0345c14fa1a95833b9ede536cf4f0f00",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 6,
+      "exact": 6,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 336,
+      "head": "e36b7060a9749bf407f12cb3a1c8ebdd39787764",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 5,
+      "exact": 4,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/BO/sights/isiboro-secure-national-park-and-indigenous-territory.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.6,
+              8.8
+            ],
+            [
+              "experience",
+              7.5,
+              8.5
+            ],
+            [
+              "depth",
+              8.5,
+              8.8
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 337,
+      "head": "ad55308c45d14bb96d4567848290fd3acc89b8b2",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 6,
+      "exact": 5,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/BT/sights/jigme-khesar-strict-nature-reserve.yaml",
+          "score_differences": [
+            [
+              "experience",
+              8.3,
+              8.5
+            ],
+            [
+              "depth",
+              8.8,
+              8.7
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 338,
+      "head": "6cbf9b4d3c8c6f6b7b0825fc46d7bb9071142010",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 5,
+      "exact": 5,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 339,
+      "head": "ed18ffda1d8b24eb66723f0a9ddea41dfceb0484",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 5,
+      "exact": 5,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 340,
+      "head": "77b3fc1c497aca6766d84eab63747cee54aee059",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 3,
+      "exact": 3,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 341,
+      "head": "44df14c843f7d090b1b44f3bee7844f7da5bcadb",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 2,
+      "exact": 2,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 342,
+      "head": "8382b4ffe462b93254d105ba0f67d4ee369fdff9",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 2,
+      "exact": 2,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 343,
+      "head": "24fde60d8d36d44fb38b65dcd32a3bc8f6d1465b",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 4,
+      "exact": 4,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 344,
+      "head": "73e9893bf2645867a8bf90a3d64c084ddf7d765e",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 5,
+      "exact": 5,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 345,
+      "head": "be6c0891f443511b968f7ba2f2d50a9e70a629ab",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 3,
+      "exact": 3,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 346,
+      "head": "5269c8e17e523754bf3a893d489a9a018844401d",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 1,
+      "exact": 1,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 347,
+      "head": "b561fa2a1dfa1b9bd18c4fd5eec34ab14fbe4e52",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 5,
+      "exact": 5,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 348,
+      "head": "7d8fc2f7dbf6d5ea2b97c26dfdfcb3888be36df6",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 3,
+      "exact": 3,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 349,
+      "head": "afb0077487cf5deef217465d42d24753f9809d6f",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 2,
+      "exact": 2,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 350,
+      "head": "e8df4ef545337c103564b70f250d336f3cab1862",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 2,
+      "exact": 2,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 351,
+      "head": "e1daa97a08045ef0148d7d7183d16a83d8069c79",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 3,
+      "exact": 3,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 352,
+      "head": "6c22bcc70440cf862c02a3e75a4d80a309dcf88d",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 5,
+      "exact": 5,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 353,
+      "head": "d467974cfa6038288a5b134295d1bcc8382bc7e6",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 4,
+      "exact": 3,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/KI/sights/phoenix-islands-protected-area.yaml",
+          "score_differences": [
+            [
+              "experience",
+              7.1,
+              8.2
+            ],
+            [
+              "depth",
+              7.6,
+              8.0
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 354,
+      "head": "a4391f48faa531df25c93369d39134d6bd24a330",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 355,
+      "head": "cf1f4f223bbdc5735a1857f68b5daf3cb34754a3",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 22,
+      "exact": 22,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 356,
+      "head": "6886018230583f748a35a0eae74cb878037e98d1",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 22,
+      "exact": 22,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 357,
+      "head": "1ecd8139149d2a8b96f9fca9cd5a193ed0f55c69",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 22,
+      "exact": 21,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/KG/sights/kan-i-gut-caves.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.1,
+              7.4
+            ],
+            [
+              "experience",
+              7.8,
+              6.5
+            ],
+            [
+              "depth",
+              8.4,
+              7.5
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 358,
+      "head": "a0ee35081275bd509b2f41485272cfdaaba38658",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 22,
+      "exact": 16,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/AE/sights/sir-bu-nair-island.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.5,
+              8.6
+            ],
+            [
+              "experience",
+              8.2,
+              8.5
+            ],
+            [
+              "depth",
+              8.4,
+              8.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AG/sights/redonda-ecosystem-reserve.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.7,
+              8.6
+            ],
+            [
+              "uniqueness",
+              9.0,
+              8.9
+            ],
+            [
+              "depth",
+              8.5,
+              8.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AZ/sights/baku-stage-mountain.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              7.3
+            ],
+            [
+              "experience",
+              7.6,
+              7.5
+            ],
+            [
+              "depth",
+              7.9,
+              7.5
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AZ/sights/khudafarin-bridges-and-related-sites.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.5,
+              8.3
+            ],
+            [
+              "experience",
+              8.2,
+              8.3
+            ],
+            [
+              "depth",
+              8.5,
+              8.0
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BJ/sights/pendjari-national-park.yaml",
+          "score_differences": [
+            [
+              "impact",
+              9.0,
+              9.1
+            ],
+            [
+              "uniqueness",
+              8.9,
+              9.0
+            ],
+            [
+              "experience",
+              9.0,
+              9.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BZ/sights/burdon-canal-nature-reserve.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              7.3
+            ],
+            [
+              "experience",
+              7.7,
+              7.6
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 359,
+      "head": "62ab516ff35e637b452100e6b67938b55f9a2d10",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 22,
+      "exact": 22,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 360,
+      "head": "93957788d5b247df1a118f154643c9eed6108fe8",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 22,
+      "exact": 22,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 361,
+      "head": "24c8aa3c0ea5aa380d4f8bb5fb93181652771dd2",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 362,
+      "head": "58e27f1ab17446e2f606083c3dbd55678b3428d3",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 363,
+      "head": "7f3248391903a540a8c19916803592baf240c6ed",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 364,
+      "head": "45748019877309767c09677fae1b80bfac98d6c2",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 365,
+      "head": "dc670096ac73cce6230cd5ac70a708a8d7c1a34b",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 366,
+      "head": "940d25688f9245d264b6dc2cec2dac886d54faea",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 367,
+      "head": "afebd4f99a9b7dc7087e7ed33b482a45611757ce",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 368,
+      "head": "ebaf16a185812eb1a137e77e8f6872e01f8932ea",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 369,
+      "head": "1dfdae4e7b60afc40297c722c7e6edf7f79935a9",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 7,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/BF/sights/arly-national-park.yaml",
+          "score_differences": [
+            [
+              "experience",
+              8.5,
+              8.7
+            ],
+            [
+              "depth",
+              8.7,
+              8.8
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/barani-mosque.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.6,
+              7.8
+            ],
+            [
+              "experience",
+              7.9,
+              7.8
+            ],
+            [
+              "depth",
+              7.9,
+              7.3
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/bekuy-metallurgy.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.7,
+              7.9
+            ],
+            [
+              "experience",
+              8,
+              7.9
+            ],
+            [
+              "depth",
+              8.4,
+              7.9
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/bourzanga-necropolises.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7,
+              7.6
+            ],
+            [
+              "experience",
+              7.5,
+              7.7
+            ],
+            [
+              "depth",
+              8.2,
+              8.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/douroula-metallurgy.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              7.8
+            ],
+            [
+              "experience",
+              7.8,
+              8.0
+            ],
+            [
+              "depth",
+              8.8,
+              8.0
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/douroula-mosque.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              7.9
+            ],
+            [
+              "experience",
+              7.8,
+              7.9
+            ],
+            [
+              "depth",
+              7.8,
+              7.5
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/dramandougou-rock-engravings.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.2,
+              7.5
+            ],
+            [
+              "experience",
+              7.5,
+              7.6
+            ],
+            [
+              "depth",
+              8,
+              7.5
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/kerebe-mosque.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              7.7
+            ],
+            [
+              "depth",
+              7.8,
+              7.3
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/kindibo-metallurgy.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.8,
+              8.0
+            ],
+            [
+              "experience",
+              8,
+              8.1
+            ],
+            [
+              "depth",
+              8.5,
+              8.0
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/maison-du-peuple.yaml",
+          "score_differences": [
+            [
+              "experience",
+              8,
+              7.8
+            ],
+            [
+              "depth",
+              8.5,
+              7.7
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/negueni-rock-art.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.2,
+              7.6
+            ],
+            [
+              "experience",
+              7.5,
+              7.7
+            ],
+            [
+              "depth",
+              8,
+              7.6
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/ouahabou-mosque.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.6,
+              8.0
+            ],
+            [
+              "experience",
+              7.9,
+              8.0
+            ],
+            [
+              "depth",
+              8,
+              7.6
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/tiwega-metallurgy.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.9,
+              8.0
+            ],
+            [
+              "experience",
+              8.1,
+              8.0
+            ],
+            [
+              "depth",
+              8.5,
+              8.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/w-national-park-burkina-faso.yaml",
+          "score_differences": [
+            [
+              "experience",
+              8.5,
+              8.6
+            ],
+            [
+              "depth",
+              8.7,
+              8.8
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/wempea-rock-engravings.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              7.8
+            ],
+            [
+              "depth",
+              8.3,
+              7.7
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/yamane-metallurgy.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.8,
+              7.9
+            ],
+            [
+              "depth",
+              8.5,
+              8.1
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 370,
+      "head": "3b57bdeee3fbf3bbf24bbcb5b3ea34933491b108",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 371,
+      "head": "14fec6a4858c9cfb059ac72195a2070a04015373",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 372,
+      "head": "261b8fe70db8a448ffe68844fe087c6995c6c06f",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 373,
+      "head": "d9f5517269d8de70e5aa55984e8d16f2bfbe015b",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 374,
+      "head": "72dd7925b3bb3fdc2883be277fbf9f9d8102cf66",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 375,
+      "head": "875ba9167ce0d59da4860b3efd5450d20dad2988",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 376,
+      "head": "23d80bf3fbebe3a72e517c623046cdee0a8c8a6f",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 377,
+      "head": "0e25ffed98dace8ffded66e1d9d5d9de8e8e07ea",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 378,
+      "head": "75cf724a97c56d236589f60f57e7b2f57ec53858",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 379,
+      "head": "5c0e4a49fae2a28b0411e088de6085e099dd0145",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 22,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/KI/sights/phoenix-islands-protected-area.yaml",
+          "score_differences": [
+            [
+              "experience",
+              9,
+              8.2
+            ],
+            [
+              "depth",
+              9.4,
+              8.0
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 380,
+      "head": "95858cd7320a77bfcc575de9543c725cbb966ea6",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 381,
+      "head": "37c288f0df67b742a55803f03f2b24881ed09884",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 382,
+      "head": "e41793891e4ca124f4ece46fe2756555c04b15e2",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 383,
+      "head": "3d1a9aeb31c5f42c45d89387d5b065e3f73ab3e0",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 23,
+      "exact": 23,
+      "regenerated": 0,
+      "alternative": [],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 385,
+      "head": "fbf7ba856ab0259324c47a0f5fc2d6b560837e00",
+      "base": "e31450aa79a3fde35a3f3e038d20b9b1bb5578c3",
+      "changed": 86,
+      "exact": 60,
+      "regenerated": 0,
+      "alternative": [
+        {
+          "path": "countries/AE/sights/abu-dhabi-sabkha.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.9,
+              7.7
+            ],
+            [
+              "experience",
+              8.0,
+              7.6
+            ],
+            [
+              "depth",
+              8.0,
+              8.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AE/sights/ed-dur-archaeological-site.yaml",
+          "score_differences": [
+            [
+              "depth",
+              8.2,
+              8.4
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AE/sights/julfar-trading-town-archaeological-landscape.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.8,
+              7.6
+            ],
+            [
+              "experience",
+              8.1,
+              7.8
+            ],
+            [
+              "depth",
+              8.5,
+              8.4
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AE/sights/sharjah-rock-art-serial-property.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.2,
+              7.6
+            ],
+            [
+              "experience",
+              8.3,
+              7.2
+            ],
+            [
+              "depth",
+              8.6,
+              7.8
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AE/sights/umm-an-nar-settlement-and-cemetery.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.2,
+              8.0
+            ],
+            [
+              "experience",
+              8.3,
+              8.0
+            ],
+            [
+              "depth",
+              8.4,
+              8.5
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AI/sights/fountain-cavern.yaml",
+          "score_differences": [
+            [
+              "experience",
+              8.2,
+              8.0
+            ],
+            [
+              "depth",
+              7.9,
+              8.3
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AR/sights/workers-assembly-halls-argentine-nomination.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              7.1
+            ],
+            [
+              "experience",
+              7.8,
+              6.8
+            ],
+            [
+              "depth",
+              7.7,
+              7.3
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AZ/sights/azykh-and-taghlar-prehistoric-caves.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.2,
+              8.0
+            ],
+            [
+              "experience",
+              8.2,
+              7.8
+            ],
+            [
+              "depth",
+              8.4,
+              8.6
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AZ/sights/binegadi-quaternary-fauna-and-flora-deposit.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.4,
+              7.0
+            ],
+            [
+              "experience",
+              7.6,
+              7.4
+            ],
+            [
+              "depth",
+              7.8,
+              8.3
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AZ/sights/hyrcanian-forests-azerbaijan-components.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.9,
+              8.6
+            ],
+            [
+              "experience",
+              8.8,
+              8.3
+            ],
+            [
+              "depth",
+              8.7,
+              8.5
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/AZ/sights/lokbatan-mud-cone.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.4,
+              8.2
+            ],
+            [
+              "experience",
+              8.2,
+              7.9
+            ],
+            [
+              "depth",
+              7.9,
+              8.0
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/deux-bale-classified-forest.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.0,
+              7.8
+            ],
+            [
+              "experience",
+              8.1,
+              8
+            ],
+            [
+              "depth",
+              8.3,
+              8.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/kabore-tambi-national-park.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.1,
+              7.9
+            ],
+            [
+              "experience",
+              8.2,
+              8.1
+            ],
+            [
+              "depth",
+              8.4,
+              8.3
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/mare-d-oursi.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.2,
+              7.8
+            ],
+            [
+              "experience",
+              8.2,
+              8.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BF/sights/nazinga-ranch.yaml",
+          "score_differences": [
+            [
+              "experience",
+              8.6,
+              8.7
+            ],
+            [
+              "depth",
+              8.5,
+              8.6
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BH/sights/awali-oil-settlement-heritage-area.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              6.7
+            ],
+            [
+              "experience",
+              7.7,
+              6.0
+            ],
+            [
+              "depth",
+              7.9,
+              6.3
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BI/sights/sacred-landscapes-of-muramvya-mpotsa-and-nkiko-mugamba.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.2,
+              7.4
+            ],
+            [
+              "experience",
+              8.1,
+              7.2
+            ],
+            [
+              "depth",
+              8.4,
+              8.0
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BJ/sights/place-singbodji-abomey.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              6.5
+            ],
+            [
+              "uniqueness",
+              8.2,
+              7.7
+            ],
+            [
+              "experience",
+              7.7,
+              6.8
+            ],
+            [
+              "depth",
+              7.4,
+              6.7
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BJ/sights/royal-palace-of-king-akaba-abomey.yaml",
+          "score_differences": [
+            [
+              "impact",
+              8.0,
+              7.4
+            ],
+            [
+              "uniqueness",
+              8.5,
+              8.2
+            ],
+            [
+              "experience",
+              8.0,
+              6.9
+            ],
+            [
+              "depth",
+              7.9,
+              7.5
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BS/sights/bird-rock-lighthouse.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.5,
+              7.2
+            ],
+            [
+              "uniqueness",
+              7.8,
+              7.6
+            ],
+            [
+              "experience",
+              7.4,
+              6.9
+            ],
+            [
+              "depth",
+              6.9,
+              6.1
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BS/sights/castle-island-lighthouse.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.8,
+              7.1
+            ],
+            [
+              "uniqueness",
+              7.9,
+              7.4
+            ],
+            [
+              "significance",
+              8.0,
+              7.7
+            ],
+            [
+              "experience",
+              7.5,
+              6.5
+            ],
+            [
+              "depth",
+              7.1,
+              5.9
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BS/sights/great-stirrup-cay-lighthouse.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.2,
+              6.8
+            ],
+            [
+              "uniqueness",
+              7.4,
+              7.1
+            ],
+            [
+              "significance",
+              7.6,
+              7.4
+            ],
+            [
+              "experience",
+              7.3,
+              6.4
+            ],
+            [
+              "depth",
+              6.8,
+              5.6
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BT/sights/jomotsangkha-wildlife-sanctuary.yaml",
+          "score_differences": [
+            [
+              "experience",
+              8.0,
+              8.1
+            ],
+            [
+              "depth",
+              8.1,
+              8.3
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BT/sights/phibsoo-wildlife-sanctuary.yaml",
+          "score_differences": [
+            [
+              "experience",
+              8.1,
+              8.2
+            ],
+            [
+              "depth",
+              8.2,
+              8.4
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BW/sights/toutswemogala-hill-iron-age-settlement.yaml",
+          "score_differences": [
+            [
+              "impact",
+              7.8,
+              7.7
+            ],
+            [
+              "uniqueness",
+              8.5,
+              8.3
+            ],
+            [
+              "experience",
+              7.8,
+              7.7
+            ],
+            [
+              "depth",
+              8.0,
+              7.9
+            ]
+          ],
+          "metadata_differences": []
+        },
+        {
+          "path": "countries/BZ/sights/chiquibul-national-park.yaml",
+          "score_differences": [
+            [
+              "depth",
+              8.8,
+              9.0
+            ]
+          ],
+          "metadata_differences": []
+        }
+      ],
+      "other_changed_docs": [],
+      "missing": [],
+      "source_deletions_not_exact": []
+    },
+    {
+      "pr": 249,
+      "head": "54b17f06fd490ebe95026300e7dcb17a44f0e974",
+      "base": "ce496658ec484f60b84f978e50078442221d4e42",
+      "changed": 4167,
+      "exact": 4106,
+      "regenerated": 56,
+      "alternative": [
+        {
+          "path": "countries/NO/sights/nigardsbreen.yaml",
+          "score_differences": [],
+          "metadata_differences": [
+            "location"
+          ]
+        },
+        {
+          "path": "countries/NO/sights/rampestreken.yaml",
+          "score_differences": [],
+          "metadata_differences": [
+            "location"
+          ]
+        },
+        {
+          "path": "countries/NO/sights/romsdalseggen.yaml",
+          "score_differences": [],
+          "metadata_differences": [
+            "location"
+          ]
+        },
+        {
+          "path": "countries/NO/sights/segla.yaml",
+          "score_differences": [],
+          "metadata_differences": [
+            "location"
+          ]
+        }
+      ],
+      "other_changed_docs": [
+        "methodology/reviews/WF/sights.md"
+      ],
+      "missing": [],
+      "source_deletions_not_exact": []
+    }
+  ]
+}
