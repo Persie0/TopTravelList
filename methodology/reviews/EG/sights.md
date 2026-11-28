@@ -2636,3 +2636,26 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Source inspected 2026-11-28: [UNESCO property description](https://whc.unesco.org/en/list/88/). UNESCO confirms both monumental temple groups and the international rescue campaign from 1960 to 1980. Monumental impact, unusual relocation history and ancient religious heritage support high impact, uniqueness and significance; experience and depth depend on the actual multi-site itinerary rather than assuming all monuments can be visited together. Abu Simbel and Philae are already individually represented. Distinguish relocation achievements from intact original settings.
 - Worldwide qualitative comparison leads (not independently re-scored): Petra (Jordan): monumental rock architecture but different conservation history; Lalibela (Ethiopia): comparable rock-cut religious heritage; Angkor (Cambodia): greater continuous temple landscape breadth; Philae (Egypt): narrower component.
 - Current I/U/S/E/D: 9.7 / 9.8 / 9.7 / 9.3 / 9.4; overall 96.35/100. No numerical change, no new perfect 10, no new category or access-dependent adjustment. Previous reviews remain preserved. This is a targeted check, not certification of every high field or of the current total; coordinate and category audits remain open except where explicitly checked above.
+
+## sight-eg-ancient-thebes-property — 2026-11-28 category profile completion
+
+- [YAML](../../../countries/EG/sights/ancient-thebes-property.yaml) · Action: assess previously empty category profile · **source-linked-unverified**.
+- Categories assigned: architecture 9.9, history 9.9, culture 9.6, photography 9.8. The former capital includes Karnak and Luxor temples and royal burial valleys. Architecture 9.9 recognizes the outstanding monumental ensemble (Karnak 9.9; Angkor 10.0). History 9.9 matches Karnak and Valley of the Kings for the breadth of New Kingdom testimony. Culture 9.6 reflects the surviving religious and funerary traditions as material heritage (Valley of the Kings 9.5; Angkor 9.5), not a claim of living ritual continuity. Photography 9.8 reflects monumental colonnades and varied desert/temple settings (Karnak 9.7; Giza 9.8; Teotihuacan 9.6). The aggregate is not an additional independent experience on top of its components.
+- Evidence checked 2026-11-28: https://whc.unesco.org/en/list/87/. Named comparison values read from repository YAML at the parent commit. Scores are individual editorial estimates, not claims that UNESCO rates attractions numerically.
+- Existing core ratings, coordinates and names unchanged. Inapplicable or unsupported optional categories omitted; no explicit nulls introduced and no new perfect score.
+
+
+## sight-eg-memphis-necropolis-property — 2026-11-28 category profile completion
+
+- [YAML](../../../countries/EG/sights/memphis-necropolis-property.yaml) · Action: assess previously empty category profile · **source-linked-unverified**.
+- Categories assigned: architecture 9.9, history 9.9, photography 9.8. UNESCO confirms the Old Kingdom capital and pyramid fields from Giza to Dahshur, including mastabas and decorated tombs. Architecture 9.9 matches Giza, exceeds Saqqara 9.7 and Teotihuacan 9.7, and remains below Angkor's approved 10.0. History 9.9 reflects the early state and funerary record (Giza 9.9, Saqqara 9.8, Teotihuacan 9.7, Angkor 10.0). Photography 9.8 matches Giza and exceeds Saqqara 9.4 and Teotihuacan 9.6 for variety of monumental desert settings. No assertion of unrestricted tomb access.
+- Evidence checked 2026-11-28: https://whc.unesco.org/en/list/86/. Named comparison values read from repository YAML at the parent commit. Scores are individual editorial estimates, not claims that UNESCO rates attractions numerically.
+- Existing core ratings, coordinates and names unchanged. Inapplicable or unsupported optional categories omitted; no explicit nulls introduced and no new perfect score.
+
+
+## sight-eg-nubian-monuments-property — 2026-11-28 category profile completion
+
+- [YAML](../../../countries/EG/sights/nubian-monuments-property.yaml) · Action: assess previously empty category profile · **source-linked-unverified**.
+- Categories assigned: architecture 9.8, history 9.8, photography 9.7. The archaeological series includes Abu Simbel and Philae; UNESCO documents the international rescue campaign. Architecture 9.8 matches Abu Simbel, exceeds Philae 9.5 and Teotihuacan 9.7, and remains below Angkor 10.0. History 9.8 recognizes ancient heritage plus globally important conservation history (Abu Simbel 9.7, Philae 9.4, Giza 9.9, Angkor 10.0). Photography 9.7 reflects rock-cut façades and island temple settings (Abu Simbel 9.7, Philae 9.5, Teotihuacan 9.6). Do not invent visits to every component.
+- Evidence checked 2026-11-28: https://whc.unesco.org/en/list/88/. Named comparison values read from repository YAML at the parent commit. Scores are individual editorial estimates, not claims that UNESCO rates attractions numerically.
+- Existing core ratings, coordinates and names unchanged. Inapplicable or unsupported optional categories omitted; no explicit nulls introduced and no new perfect score.

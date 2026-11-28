@@ -403,3 +403,26 @@ Follow-up 2026-11-25: [UNESCO decision 48 COM 8B](https://whc.unesco.org/en/deci
 - Sources inspected 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/1808/) confirms the 2026 inscription of the two parks and wider migration landscape, listed property area 11,236,800 ha, and endangered heritage status. [African Parks](https://www.africanparks.org/boma-badingilo-migratory-landscape-becomes-south-sudans-first-unesco-world-heritage-site) reports roughly six million migratory antelope from aerial survey evidence. The listed property is not identical to the wider management area. The reference point N6 56 30 E33 16 39 matches stored coordinates 6.941667, 33.2775 at their recorded precision; it is not an entrance. Near-top uniqueness, significance and nature scores have strong ecological rationale. Impact and depth depend on observable seasonal experiences, and experience remains provisional. Wildlife category is null despite documented wildlife; assess independently in a future pass. Individual Boma and Badingilo park records represent narrower scopes.
 - Qualitative peer leads: Serengeti (Tanzania) is a comparable migration phenomenon; Maasai Mara (Kenya) is a narrower seasonal viewing landscape; Okavango Delta (Botswana) has a different flood-driven ecological system; Boma National Park is a narrower component. Peer scores not independently rechecked.
 - Current I/U/S/E/D: 9.3 / 9.9 / 9.9 / 8.9 / 9.2; overall 95.00. Nature 9.9 retained. No numerical change or new perfect score. Do not infer access or guaranteed encounters from ecological evidence. Full calibration and category evaluation remain open.
+
+## sight-ss-boma-badingilo-migratory-landscape — 2026-11-28 wildlife category completion
+
+- [YAML](../../../countries/SS/sights/boma-badingilo-migratory-landscape.yaml) · Action: complete explicitly applicable category · **source-linked-unverified** (conservative editorial rating; no claim of comprehensive factual verification).
+- Wildlife: null → **9.8/10**. African Parks' 2023 and 2025 aerial surveys support an exceptionally large multi-species seasonal migration; UNESCO confirms the whole landscape as the relevant unit. Other large mammal populations have declined, and sightings remain seasonal. The ecological spectacle is comparable to Serengeti (TZ, 9.9 wildlife), Maasai Mara (KE, 9.9), and Okavango Delta (BW, 9.9), but the breadth of reliably observable resident mammals is less established; Zakouma (TD, 9.7) is a narrower savanna comparator. 9.8 reflects the migration's exceptional magnitude without treating the whole landscape as one viewing site.
+- Evidence (2026-11-28): https://whc.unesco.org/en/list/1808/ ; https://www.africanparks.org/the-parks/badingilo-boma/biodiversity-conservation. Peer values were read from current repository YAML at the parent commit; peer ratings themselves were not independently recalibrated.
+- All core scores, other categories, names and coordinates are unchanged. No access-related scoring penalty and no new perfect score.
+
+
+## sight-ss-boma-national-park — 2026-11-28 wildlife category completion
+
+- [YAML](../../../countries/SS/sights/boma-national-park.yaml) · Action: complete explicitly applicable category · **source-linked-unverified** (conservative editorial rating; no claim of comprehensive factual verification).
+- Wildlife: null → **9.5/10**. African Parks describes the park's dry-season waterholes, woodlands and grasslands supporting migratory white-eared kob. The six-million estimate is landscape-wide, not park-specific. Serengeti (TZ, 9.9) and Maasai Mara (KE, 9.9) have stronger documented recurring wildlife encounters; Etosha (NA, 9.8) has concentrated waterhole wildlife; Zakouma (TD, 9.7) provides a closer savanna comparison. 9.5 recognizes the park's important seasonal migration role without attributing all landscape populations to it.
+- Evidence (2026-11-28): https://www.africanparks.org/the-parks/badingilo-boma/biodiversity-conservation. Peer values were read from current repository YAML at the parent commit; peer ratings themselves were not independently recalibrated.
+- All core scores, other categories, names and coordinates are unchanged. No access-related scoring penalty and no new perfect score.
+
+
+## sight-ss-badingilo-national-park — 2026-11-28 wildlife category completion
+
+- [YAML](../../../countries/SS/sights/badingilo-national-park.yaml) · Action: complete explicitly applicable category · **source-linked-unverified** (conservative editorial rating; no claim of comprehensive factual verification).
+- Wildlife: null → **9.5/10**. African Parks identifies Badingilo as a major migratory wildlife stronghold but reports local black-rhino extinction. The landscape-wide aerial count cannot be credited entirely to this park. Serengeti (TZ, 9.9), Maasai Mara (KE, 9.9), Etosha (NA, 9.8), and Zakouma (TD, 9.7) have stronger documented localized wildlife breadth; the seasonal migration warrants 9.5 independently of access restrictions.
+- Evidence (2026-11-28): https://www.africanparks.org/the-parks/badingilo-boma/biodiversity-conservation. Peer values were read from current repository YAML at the parent commit; peer ratings themselves were not independently recalibrated.
+- All core scores, other categories, names and coordinates are unchanged. No access-related scoring penalty and no new perfect score.
