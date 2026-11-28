@@ -1,0 +1,16 @@
+id: sight-pa-sitio-barriles
+name: "Sitio Barriles Archaeological Site"
+location:
+  country_code: PA
+  latitude: 8.781
+  longitude: -82.691
+scores:
+  impact: 8.0
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 7.8
+  depth: 7.7
+  categories:
+    history: 9.2
+    culture: 8.8
+    photography: 8.0
