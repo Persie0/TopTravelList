@@ -1,0 +1,16 @@
+id: sight-bz-davis-falls
+name: "Davis Falls"
+location:
+  country_code: BZ
+  latitude: 16.94936
+  longitude: -88.49367
+scores:
+  impact: 8.5
+  uniqueness: 8.1
+  significance: 7.0
+  experience: 8.1
+  depth: 7.4
+  categories:
+    nature: 8.7
+    photography: 8.8
+    adventure: 8.5

@@ -1,0 +1,16 @@
+id: sight-bz-new-river-lagoon-wildlife
+name: "New River and New River Lagoon Wildlife Cruise"
+location:
+  country_code: BZ
+  latitude: 17.66667
+  longitude: -88.65
+scores:
+  impact: 8.0
+  uniqueness: 8.0
+  significance: 8.0
+  experience: 8.4
+  depth: 8.2
+  categories:
+    wildlife: 8.8
+    nature: 8.5
+    photography: 8.4

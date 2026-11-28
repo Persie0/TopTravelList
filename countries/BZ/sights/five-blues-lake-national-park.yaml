@@ -1,0 +1,16 @@
+id: sight-bz-five-blues-lake-national-park
+name: "Five Blues Lake National Park"
+location:
+  country_code: BZ
+  latitude: 17.140406
+  longitude: -88.580299
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 7.8
+  experience: 7.6
+  depth: 7.7
+  categories:
+    nature: 8.5
+    photography: 8.5
+    wildlife: 8.0

@@ -2123,3 +2123,253 @@ Nine additions, one researched fact-checked high-score decision and eight provis
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: precise public access and current ecology, numerical peers and full diagnostics.
+
+## sight-bz-waterfall-cave-expedition — Caves Branch Waterfall Cave Expedition — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/waterfall-cave-expedition.yaml)
+- Action: new
+- Precise subject: Underground cascade climbing itinerary, not Black Hole Drop or Nohoch Che'en tubing. Coordinates identify the tour departure lodge, not the cave entrance.
+- Location check: 17.16571, -88.68287; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/waterfall-cave-at-caves-branch/; https://www.cavesbranch.com/belize-waterfall-cave-tour/; https://elevation.maplogs.com/poi/ian_anderson_s_caves_branch_jungle_lodge_1_2_41_mile_hummingbird_highway_belmopan_belize.454346.html.
+- Worldwide peers (qualitative; not individually refetched):
+  - Son Doong (VN): far greater chamber scale
+  - Eisriesenwelt (AT): more exceptional ice formations
+  - Waitomo (NZ): different glowworm cave spectacle
+  - Barton Creek (BZ): less strenuous canoe route
+- Individual scores:
+  - impact: 8.9 — Cascades in dark limestone chambers create unusual visual drama.
+  - uniqueness: 9.1 — Multiple underground waterfall ascents are less substitutable than ordinary cave walks.
+  - significance: 8.0 — Karst features support merit without a world-defining geological claim.
+  - experience: 9.3 — Active guided traversal and swimming give strong adventure value.
+  - depth: 8.6 — Several cascades and a forest approach sustain a full excursion.
+- Categories: adventure 9.4, nature 9.0, photography 8.8.
+- Overall: 88.00/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-monkey-river-wildlife — Monkey River Wildlife and Manatee Watching — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/monkey-river-wildlife.yaml)
+- Action: new
+- Precise subject: Lower river wildlife boat ride, rainforest walk and coastal wildlife observation; not the village as a whole or guaranteed sightings. Point at the river-mouth village.
+- Location check: 16.36166, -88.48517; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://tourismbelize.com/experiences/monkey-river-manatee-watch; https://thebelizecollection.com/activities/monkey-river-wildlife-village-tour/; https://mapcarta.com/19508964.
+- Worldwide peers (qualitative; not individually refetched):
+  - Pantanal (BR): far larger wildlife landscape
+  - Tortuguero (CR): broader canal ecology
+  - Kinchabatangan (MY): more extensive river safaris
+  - Community Baboon Sanctuary (BZ): narrower terrestrial howler experience
+- Individual scores:
+  - impact: 8.5 — River and mangrove encounters provide strong immersion.
+  - uniqueness: 8.5 — Combination of terrestrial monkeys and coastal fauna is distinctive.
+  - significance: 8.4 — Native forest and estuary are important habitats.
+  - experience: 8.9 — Boat and walking components provide varied observation.
+  - depth: 8.5 — River, village and coastal settings give breadth.
+- Categories: wildlife 9.1, nature 8.8, photography 8.7.
+- Overall: 85.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-mayflower-bocawina-national-park — Mayflower Bocawina National Park — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/mayflower-bocawina-national-park.yaml)
+- Action: new
+- Precise subject: Whole park forest, multiple waterfalls, trails and small Maya sites; does not inherit specialist zipline or individual waterfall scores.
+- Location check: 16.917, -88.383; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/mayflower-bocawina-national-park/; https://mayflowerbocawina.org/mayflower-bocawina-national-park/national-park/; https://mapcarta.com/Mayflower_Bocawina_National_Park.
+- Worldwide peers (qualitative; not individually refetched):
+  - Corcovado (CR): larger wildlife wilderness
+  - Khao Sok (TH): greater landscape drama
+  - El Yunque (US): comparable tropical hiking
+  - Mountain Pine Ridge (BZ): stronger granite and pine landscape contrast
+- Individual scores:
+  - impact: 8.3 — Forested slopes and cascades create attractive scenery.
+  - uniqueness: 8.1 — Forest waterfall parks have many global counterparts.
+  - significance: 8.3 — Protected ecological corridor and archaeological traces add importance.
+  - experience: 8.7 — Varied hiking provides strong visitor engagement.
+  - depth: 8.7 — Several distinct trails and waterfalls make a substantial visit.
+- Categories: nature 8.9, adventure 8.9, wildlife 8.5, photography 8.6.
+- Overall: 83.50/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-antelope-falls — Antelope Falls Hike and Waterfall — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/antelope-falls.yaml)
+- Action: new
+- Precise subject: Single steep waterfall hike with bluff views and pools; not entire Bocawina park. Conflicting published height measurements excluded.
+- Location check: 16.93734, -88.39352; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://mayflowerbocawina.org/activities-2/; https://tourismbelize.com/experiences/guided-hike-to-antelope-falls-at-bocawina-national-park; https://mapcarta.com/N2285875705.
+- Worldwide peers (qualitative; not individually refetched):
+  - Krimml (AT): larger multi-stage waterfall
+  - Ban Gioc (VN): greater visual scale
+  - La Fortuna (CR): similar forest waterfall visit
+  - Big Rock Falls (BZ): easier granite pool visit
+- Individual scores:
+  - impact: 8.4 — Steep forest cascade and coastal outlook provide visual reward.
+  - uniqueness: 8.0 — Hike-and-waterfall combination is excellent but not globally rare.
+  - significance: 7.1 — Local natural significance rather than exceptional global geology.
+  - experience: 8.8 — Strenuous route and summit panorama create rewarding experience.
+  - depth: 7.8 — Several trail stages and pool stop add moderate depth.
+- Categories: nature 8.7, adventure 8.9, photography 8.8.
+- Overall: 80.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-new-river-lagoon-wildlife — New River and New River Lagoon Wildlife Cruise — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/new-river-lagoon-wildlife.yaml)
+- Action: new
+- Precise subject: River and lagoon wildlife observation; excludes Lamanai archaeological reserve and its temple merit. Representative lagoon point.
+- Location check: 17.66667, -88.65; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://tourismbelize.com/experiences/lamanai-and-scenic-boat-ride-from-belize-city; https://belizemayaworldadventures.com/activities/belize-lamanai-new-river-tours-belize-activities/; https://mapcarta.com/19508814.
+- Worldwide peers (qualitative; not individually refetched):
+  - Okavango Delta (BW): greater wetland scale
+  - Tortuguero (CR): greater wildlife canal depth
+  - Tra Su (VN): distinctive flooded forest
+  - Crooked Tree (BZ): stronger concentrated birding focus
+- Individual scores:
+  - impact: 8.0 — Broad water and forest edges offer attractive wildlife scenery.
+  - uniqueness: 8.0 — River-lagoon combination is regionally distinctive but widely comparable.
+  - significance: 8.0 — Wetland habitat and local environmental history support merit.
+  - experience: 8.4 — Guided boat observation is engaging beyond transport.
+  - depth: 8.2 — Long river channel and lagoon add varied habitats.
+- Categories: wildlife 8.8, nature 8.5, photography 8.4.
+- Overall: 80.80/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-bocawina-zipline — Bocawina Rainforest Canopy Zipline — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/bocawina-zipline.yaml)
+- Action: new
+- Precise subject: Dedicated canopy circuit only; excludes waterfall rappelling and the parent park's ecological significance.
+- Location check: 16.92732, -88.3886; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://tourismbelize.com/experiences/zipline-water-rappelling-at-bocawina; https://mapcarta.com/N2612966521.
+- Worldwide peers (qualitative; not individually refetched):
+  - Monteverde canopy (CR): iconic cloud forest setting
+  - Flight of the Gibbon (TH): similar forest canopy adventure
+  - Arenal Sky Trek (CR): strong volcano panorama
+  - Nohoch Che'en zipline (BZ): shorter regional comparison
+- Individual scores:
+  - impact: 8.1 — Elevated canopy perspectives are memorable.
+  - uniqueness: 7.7 — Zipline courses are globally common despite forest setting.
+  - significance: 6.7 — Recreational infrastructure has limited independent heritage importance.
+  - experience: 8.9 — Multi-stage active adventure is highly engaging.
+  - depth: 7.8 — Canopy circuit offers more than a single ride.
+- Categories: adventure 9.0, nature 8.2, photography 8.3.
+- Overall: 78.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-davis-falls — Davis Falls — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/davis-falls.yaml)
+- Action: new
+- Precise subject: Remote forest waterfall and pool; tourism authority and mapped height disagree, so no exact height claim used and coordinates remain provisional.
+- Location check: 16.94936, -88.49367; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/davis-falls/; https://mapcarta.com/19510122.
+- Worldwide peers (qualitative; not individually refetched):
+  - Iguazu (AR/BR): vastly greater cascade scale
+  - Krimml (AT): stronger established waterfall trail
+  - La Fortuna (CR): comparable jungle pool
+  - Maya King (BZ): more ordinary regional waterfall
+- Individual scores:
+  - impact: 8.5 — Remote forest cascade and pool create a strong visual encounter.
+  - uniqueness: 8.1 — Remoteness adds distinction without global rarity.
+  - significance: 7.0 — Natural feature has mainly regional significance.
+  - experience: 8.1 — Forest approach and swimming setting provide rewarding visit.
+  - depth: 7.4 — Waterfall-focused outing has limited independent breadth.
+- Categories: nature 8.7, photography 8.8, adventure 8.5.
+- Overall: 79.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-billy-barquedier-national-park — Billy Barquedier National Park — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/billy-barquedier-national-park.yaml)
+- Action: new
+- Precise subject: Forest reserve hike and its main waterfall together; no separate duplicate waterfall record.
+- Location check: 17.028, -88.417; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://www.travelbelize.org/attraction/billy-barquedier-national-park/; https://www.internationalparks.org/belize/Billy%20Barquedier.
+- Worldwide peers (qualitative; not individually refetched):
+  - Corcovado (CR): much greater ecological depth
+  - El Yunque (US): broader rainforest trail network
+  - Khao Sok (TH): more dramatic landscape
+  - Guanacaste (BZ): comparable small forest park
+- Individual scores:
+  - impact: 7.7 — Hilly tropical forest and cascade are attractive.
+  - uniqueness: 7.5 — Small forest and waterfall reserves are internationally common.
+  - significance: 7.8 — Protected evergreen forest gives meaningful conservation value.
+  - experience: 8.0 — Trail and waterfall provide rewarding short excursion.
+  - depth: 7.7 — Limited area restrains multi-day exploration.
+- Categories: nature 8.4, wildlife 8.2, photography 8.1.
+- Overall: 77.15/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-five-blues-lake-national-park — Five Blues Lake National Park — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/five-blues-lake-national-park.yaml)
+- Action: new
+- Precise subject: Karst lake and surrounding forest landscape; current water level and operational access not verified.
+- Location check: 17.140406, -88.580299; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://mapcarta.com/Five_Blues_Lake_National_Park; https://www.latlong.net/place/five-blues-lake-national-park-belize-23690.html; https://www.internationalparks.org/belize/Five%20Blues%20Lake.
+- Worldwide peers (qualitative; not individually refetched):
+  - Plitvice (HR): far more extensive karst lake cascade system
+  - Semuc Champey (GT): greater terraced pool spectacle
+  - Laguna de Apoyo (NI): larger volcanic lake
+  - St Herman's Blue Hole (BZ): comparable karst swimming setting
+- Individual scores:
+  - impact: 7.9 — Colored lake framed by forest offers memorable scenery.
+  - uniqueness: 8.0 — Karst lake is distinctive yet not globally unique.
+  - significance: 7.8 — Protected forest and hydrology support ecological importance.
+  - experience: 7.6 — Nature viewing offers good experience without assuming facilities.
+  - depth: 7.7 — Lake and forest trails provide moderate breadth.
+- Categories: nature 8.5, photography 8.5, wildlife 8.0.
+- Overall: 78.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-lower-bocawina-falls — Lower Bocawina Falls — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/lower-bocawina-falls.yaml)
+- Action: new
+- Precise subject: Specific lower waterfall and optional guided rappel, excluding Antelope Falls, upper falls and canopy course.
+- Location check: 16.92272, -88.40249; representative point, not a verified entrance or route.
+- Evidence status: source-linked-unverified; consulted indexed source descriptions and selected map pages, not full independent fact-check.
+- Sources consulted 2026-11-28: https://tourismbelize.com/experiences/zipline-water-rappelling-at-bocawina; https://mapcarta.com/N2285875706.
+- Worldwide peers (qualitative; not individually refetched):
+  - Krimml (AT): much greater cascade scale
+  - La Fortuna (CR): comparable tropical waterfall
+  - Dunn's River Falls (JM): more distinctive climbable cascade
+  - Maya King (BZ): similar regional waterfall
+- Individual scores:
+  - impact: 7.8 — Forest cascade and pool provide strong scenery.
+  - uniqueness: 7.5 — Single tropical waterfall is relatively substitutable.
+  - significance: 6.8 — Local natural feature rather than world-level heritage.
+  - experience: 8.5 — Optional guided descent increases engagement.
+  - depth: 7.2 — Single cascade and short trail constrain depth.
+- Categories: adventure 8.7, nature 8.4, photography 8.3.
+- Overall: 75.70/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
