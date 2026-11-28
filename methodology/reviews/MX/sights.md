@@ -10844,3 +10844,257 @@ The existing Cuatrociénegas record already includes gypsum dunes and pools; no 
 - Earlier decision: none.
 - Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
 
+## Pass 445 — Engineering, transport and modern architecture
+
+All ten entries are source-linked editorial assessments using retrieved institutional, specialist and operator descriptions. Fundidora and Horno 3 grouped. Divisadero adventure park is separate from canyon viewpoints and rail travel. UNAM library is a building-specific assessment, not the campus rating. Representative coordinates are approximate and not independently triangulated. Full Python validator, benchmark commands and generator not executed; ranking rows rendered using equivalent JavaScript rules.
+
+## sight-mx-cosmovitral-toluca — Cosmovitral Botanical Garden and Stained Glass (Toluca) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cosmovitral-toluca.yaml)
+- Action: new
+- Precise subject: Former market hall, integrated stained glass and botanical garden.
+- Location check: 19.293, -99.654; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=51; https://www.inah.gob.mx/index.php/foto-del-dia/el-cosmovitral-de-toluca-universalidad-y-transformacion.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sainte-Chapelle (FR): greater medieval religious art significance
+  - Palau de la Música Catalana (ES): broader integrated architectural decoration
+  - Gardens by the Bay (SG): far broader horticultural installations
+  - San Francisco Acatepec (MX): comparable integration of colored craft and architecture
+- Individual scores:
+  - impact: 9.4 — Immersive colored light across the entire hall.
+  - uniqueness: 9.5 — Unusual integration of monumental glazing and living plant collection.
+  - significance: 9.1 — Important modern Mexican public artwork by Leopoldo Flores.
+  - experience: 9.2 — Established walk-through garden and artwork experience.
+  - depth: 8.9 — 71 glass modules and varied plant displays.
+- Categories: architecture 9.5, culture 9.3, photography 9.5, nature 8.8.
+- Overall: 92.85/100.
+- High-score challenge: Uniqueness, architecture and photography 9.5 justified by documented 71 modules covering approximately 3,000 square metres, with the glass artwork surrounding a botanical collection; no current world record claimed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-fundidora-horno3 — Parque Fundidora Industrial Heritage and Horno 3 Steel Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/fundidora-horno3.yaml)
+- Action: new
+- Precise subject: Integrated former steelworks public park and Horno 3 industrial interpretation, grouped to prevent duplicate coverage.
+- Location check: 25.678, -100.284; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.parquefundidora.org/historia/; https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=1197; https://www.wmf.org/monuments/fundidora-park.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Zollverein (DE): greater internationally recognized industrial ensemble
+  - Völklingen Ironworks (DE): more intact industrial plant
+  - Ironbridge Gorge (GB): broader industrial revolution landscape
+  - National Railway Museum Puebla (MX): different transport industry focus
+- Individual scores:
+  - impact: 9.1 — Imposing surviving industrial structures.
+  - uniqueness: 9.2 — Unusual accessible adaptation of steelworks into a public heritage park.
+  - significance: 9.3 — Important national industrial history.
+  - experience: 9.3 — Interactive museum, industrial interpretation and park walks.
+  - depth: 9.5 — Extensive machinery, buildings and museum displays.
+- Categories: history 9.4, architecture 9.3, culture 9.2, family 9.2, photography 9.2.
+- Overall: 92.35/100.
+- High-score challenge: Depth 9.5 justified by the operator's documented 16 historical buildings and 127 industrial machines, plus 140 permanent interactive exhibits listed by the cultural ministry; no unsupported exclusivity or UNESCO designation claimed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-unam-central-library — UNAM Central Library and Juan O'Gorman Mosaic Murals — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/unam-central-library.yaml)
+- Action: new
+- Precise subject: Specific four-sided mosaic-clad library and public exterior, not the whole already ranked UNAM campus.
+- Location check: 19.333, -99.188; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.dgcs.unam.mx/boletin/bdboletin/2022_1013.html; https://www.mexicocity.cdmx.gob.mx/venues/biblioteca-central/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Biblioteca Vasconcelos (MX): more immersive public interior
+  - Biblioteca Palafoxiana (MX): older historic library collection
+  - Stiftsbibliothek Admont (AT): more elaborate historic interiors
+  - Palau de la Música Catalana (ES): broader mosaic and decorative ensemble
+- Individual scores:
+  - impact: 9.3 — Monumental pictorial mosaic facade.
+  - uniqueness: 9.4 — Rare comprehensive integration of mural and modern building.
+  - significance: 9.3 — Important Mexican modernist artwork.
+  - experience: 8.7 — Focused public exterior interpretation.
+  - depth: 8.4 — Four distinct mural facades but limited dedicated visitor circuit.
+- Categories: architecture 9.5, culture 9.4, photography 9.4.
+- Overall: 91.45/100.
+- High-score challenge: Architecture 9.5 based on the integrated four-sided mural, not the entire World Heritage campus; no general access to all library areas assumed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-parque-barrancas-adventure — Parque Barrancas Adventure Park and Cable Car — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/parque-barrancas-adventure.yaml)
+- Action: new
+- Precise subject: Specific operated aerial cable car and adventure circuits, distinct from static Divisadero viewpoints and Chepe railway journey.
+- Location check: 27.526, -107.817; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.chihuahua.gob.mx/prensa/reinicia-operaciones-este-9-de-agosto-el-teleferico-del-parque-barrancas; https://parquebarrancas.com/actividades/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Skyline Queenstown (NZ): wider resort recreation
+  - Zhangjiajie Tianmen Mountain (CN): more monumental cable car setting
+  - Monteverde zipline parks (CR): rainforest canopy rather than canyon
+  - El Potrero Chico (MX): more extensive specialist climbing
+- Individual scores:
+  - impact: 9.4 — Dramatic canyon crossing.
+  - uniqueness: 9.0 — Distinctive combination of cable car and zipline circuits in deep gorge.
+  - significance: 8.5 — Regional engineering and recreation interest.
+  - experience: 9.4 — Varied operated adventure experiences.
+  - depth: 9.0 — Multiple complementary activities.
+- Categories: adventure 9.5, nature 9.2, photography 9.4.
+- Overall: 90.80/100.
+- High-score challenge: Adventure 9.5 justified by the independently documented ZipRider, seven-zipline circuit and cable car, not the canyon's existing rating. Normal operation assumed; no current operating guarantee. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-baluarte-bridge — Baluarte Bicentennial Bridge — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/baluarte-bridge.yaml)
+- Action: new
+- Precise subject: Specific bridge crossing and engineering landmark; no roadside stopping or pedestrian access assumed.
+- Location check: 23.529, -105.8; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.guinnessworldrecords.com/news/2012/1/video-highest-cable-stayed-bridge-opens-in-mexico; https://vsl.com/projects/baluarte-bridge.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Millau Viaduct (FR): more established viewing infrastructure
+  - Beipanjiang Bridge (CN): greater deck height
+  - Royal Gorge Bridge (US): established pedestrian attraction
+  - Ojuela Bridge (MX): historical walking experience
+- Individual scores:
+  - impact: 9.1 — Monumental crossing above steep gorge.
+  - uniqueness: 9.2 — Unusually high cable-stayed structure.
+  - significance: 9.4 — Former world record and major civil engineering accomplishment.
+  - experience: 8.1 — Brief road crossing rather than developed visitor attraction.
+  - depth: 7.6 — Single structure.
+- Categories: architecture 9.4, photography 9.1.
+- Overall: 88.85/100.
+- High-score challenge: Documented height above riverbed of 402.57 m and former cable-stayed bridge record; lower experience and depth reflect a short road crossing, not current world-record status. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-capuchinas-chapel-tlalpan — Capuchinas Convent Chapel by Luis Barragán (Tlalpan) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/capuchinas-chapel-tlalpan.yaml)
+- Action: new
+- Precise subject: Individual chapel, courtyard and integrated light design; active private convent, not ordinary open-access attraction.
+- Location check: 19.287, -99.168; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://barragan-foundation.net/works/list/capuchin-convent-chapel; https://mexicocity.cdmx.gob.mx/venues/capuchin-convent-chapel-tlalpan/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Notre-Dame du Haut Ronchamp (FR): more monumental modernist chapel
+  - Church of the Light (JP): comparable light-based sacred architecture
+  - Luis Barragán House (MX): broader domestic work
+  - San Francisco Acatepec (MX): contrasting Baroque decorative architecture
+- Individual scores:
+  - impact: 8.9 — Distinctive amber light and spatial composition.
+  - uniqueness: 9.4 — Unusual modern sacred architecture.
+  - significance: 9.3 — Important work in Barragán's architectural corpus.
+  - experience: 8.2 — Focused authorized visit only.
+  - depth: 8.0 — Compact architectural ensemble.
+- Categories: architecture 9.5, culture 9.2.
+- Overall: 89.10/100.
+- High-score challenge: Architecture 9.5 reflects documented integration of light, materials and religious spatial design; no unrestricted private convent access assumed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-torres-de-satelite — Torres de Satélite (Naucalpan) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/torres-de-satelite.yaml)
+- Action: new
+- Precise subject: Five concrete sculptural towers viewed from lawful public locations, not the broader development.
+- Location check: 19.511, -99.234; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.barragan-foundation.net/works/list/torres-de-satelite; https://mexicocity.cdmx.gob.mx/venues/torres-de-ciudad-satelite/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Atomium (BE): more developed interior visitor experience
+  - Gateway Arch (US): larger monument and interpretation
+  - Monument to the Revolution (MX): greater public visitor depth
+  - Seven Magic Mountains (US): different contemporary roadside sculpture
+- Individual scores:
+  - impact: 8.7 — Colorful monumental prisms.
+  - uniqueness: 9.0 — Distinctive modern urban sculpture.
+  - significance: 9.1 — Important collaboration of Barragán and Goeritz.
+  - experience: 7.9 — Brief viewing experience near road infrastructure.
+  - depth: 7.6 — Single sculptural ensemble.
+- Categories: architecture 9.2, culture 9.0, photography 8.9.
+- Overall: 86.25/100.
+- High-score challenge: Sub-90 rating reflects compact roadside viewing scope despite design significance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-torre-latinoamericana — Torre Latinoamericana Observation Deck — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/torre-latinoamericana.yaml)
+- Action: new
+- Precise subject: Specific tower, its public viewpoint and engineering interpretation.
+- Location check: 19.4339, -99.1406; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/torre-latinoamericana; https://mexicocity.cdmx.gob.mx/venues/torre-latinoamericana/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Empire State Building (US): stronger international iconic stature
+  - Tokyo Tower (JP): comparable city viewpoint
+  - Taipei 101 (TW): greater modern engineering scale
+  - Monument to the Revolution (MX): broader memorial interpretation
+- Individual scores:
+  - impact: 9.0 — Panoramic city skyline.
+  - uniqueness: 8.6 — Comparable skyscraper viewpoints worldwide.
+  - significance: 9.2 — Important historic seismic engineering.
+  - experience: 9.1 — Established observation deck experience.
+  - depth: 8.2 — Focused tower visit.
+- Categories: architecture 9.2, photography 9.3, history 9.2.
+- Overall: 88.75/100.
+- High-score challenge: Sub-90 rating balances documented seismic engineering with the focused viewpoint scope. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-cablebus-line-3 — Cablebús Line 3 Chapultepec Scenic Urban Journey — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cablebus-line-3.yaml)
+- Action: new
+- Precise subject: Single public transit journey over Chapultepec and ravines; approximate eastern-terminal area, excludes separate stops as attractions.
+- Location check: 19.416, -99.191; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.ste.cdmx.gob.mx/cablebus/cb-l3; https://www.mexicocity.cdmx.gob.mx/e/getting-around/cablebus-telefericos-urbanos/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Metrocable Medellín (CO): comparable transformative public transport
+  - Mi Teleférico La Paz (BO): far broader network and dramatic altitude
+  - Ngong Ping 360 (HK): dedicated scenic journey
+  - El Chepe (MX): much longer landscape route
+- Individual scores:
+  - impact: 8.8 — Scenic aerial views of urban forest and ravines.
+  - uniqueness: 8.6 — Distinctive urban transit experience with international analogues.
+  - significance: 8.5 — Local public transport engineering significance.
+  - experience: 9.1 — Accessible normal passenger journey.
+  - depth: 8.5 — Several changing aerial views.
+- Categories: photography 9.1, architecture 8.8.
+- Overall: 87.05/100.
+- High-score challenge: Sub-90 rating for this line rather than the entire network; no world record for Line 3 claimed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-queretaro-aqueduct — Querétaro Aqueduct (Los Arcos) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/queretaro-aqueduct.yaml)
+- Action: new
+- Precise subject: Individual surviving arcade, not the wider Querétaro historic centre.
+- Location check: 20.592, -100.371; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/acueducto-de-queretaro; https://whc.unesco.org/en/urban-heritage-atlas/queretaro.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Pont du Gard (FR): greater ancient engineering significance
+  - Aqueduct of Segovia (ES): more iconic monumental arcade
+  - Padre Tembleque (MX): wider hydraulic system
+  - Águas Livres Aqueduct (PT): more extensive engineering scope
+- Individual scores:
+  - impact: 8.9 — Long monumental stone arcade.
+  - uniqueness: 8.8 — Distinctive colonial water infrastructure with global peers.
+  - significance: 9.1 — Important historic civil engineering.
+  - experience: 8.5 — Public viewpoints and streets.
+  - depth: 8.2 — Focused structure and associated visible urban context.
+- Categories: architecture 9.3, history 9.2, photography 9.1.
+- Overall: 87.85/100.
+- High-score challenge: Sub-90 rating based on documented 74-arch arcade, without importing the wider World Heritage city's rating. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+

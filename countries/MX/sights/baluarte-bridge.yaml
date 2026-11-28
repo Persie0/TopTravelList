@@ -1,0 +1,15 @@
+id: sight-mx-baluarte-bridge
+name: "Baluarte Bicentennial Bridge"
+location:
+  country_code: MX
+  latitude: 23.529
+  longitude: -105.8
+scores:
+  impact: 9.1
+  uniqueness: 9.2
+  significance: 9.4
+  experience: 8.1
+  depth: 7.6
+  categories:
+    architecture: 9.4
+    photography: 9.1

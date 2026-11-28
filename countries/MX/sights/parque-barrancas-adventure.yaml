@@ -1,0 +1,16 @@
+id: sight-mx-parque-barrancas-adventure
+name: "Parque Barrancas Adventure Park and Cable Car"
+location:
+  country_code: MX
+  latitude: 27.526
+  longitude: -107.817
+scores:
+  impact: 9.4
+  uniqueness: 9.0
+  significance: 8.5
+  experience: 9.4
+  depth: 9.0
+  categories:
+    adventure: 9.5
+    nature: 9.2
+    photography: 9.4

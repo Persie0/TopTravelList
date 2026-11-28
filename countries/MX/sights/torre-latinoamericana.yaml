@@ -1,0 +1,16 @@
+id: sight-mx-torre-latinoamericana
+name: "Torre Latinoamericana Observation Deck"
+location:
+  country_code: MX
+  latitude: 19.4339
+  longitude: -99.1406
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 9.1
+  depth: 8.2
+  categories:
+    architecture: 9.2
+    photography: 9.3
+    history: 9.2

@@ -1,0 +1,15 @@
+id: sight-mx-cablebus-line-3
+name: "Cablebús Line 3 Chapultepec Scenic Urban Journey"
+location:
+  country_code: MX
+  latitude: 19.416
+  longitude: -99.191
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.1
+  depth: 8.5
+  categories:
+    photography: 9.1
+    architecture: 8.8

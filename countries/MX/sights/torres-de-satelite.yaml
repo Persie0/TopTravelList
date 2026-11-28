@@ -1,0 +1,16 @@
+id: sight-mx-torres-de-satelite
+name: "Torres de Satélite (Naucalpan)"
+location:
+  country_code: MX
+  latitude: 19.511
+  longitude: -99.234
+scores:
+  impact: 8.7
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 7.9
+  depth: 7.6
+  categories:
+    architecture: 9.2
+    culture: 9.0
+    photography: 8.9
