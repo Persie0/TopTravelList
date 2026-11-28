@@ -1,0 +1,16 @@
+id: sight-pa-pablo-arturo-barrios-wildlife-refuge
+name: "Pablo Arturo Barrios Wildlife Refuge (Pedasí coastal sector)"
+location:
+  country_code: PA
+  latitude: 7.51344
+  longitude: -79.99281
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.2
+  depth: 8.1
+  categories:
+    wildlife: 9.2
+    nature: 8.9
+    beaches: 8.6
