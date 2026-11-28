@@ -1,0 +1,16 @@
+id: sight-mx-leon-balloon-festival
+name: "León International Hot Air Balloon Festival"
+location:
+  country_code: MX
+  latitude: 21.199
+  longitude: -101.679
+scores:
+  impact: 9.6
+  uniqueness: 9.2
+  significance: 8.8
+  experience: 9.3
+  depth: 9.0
+  categories:
+    photography: 9.7
+    culture: 8.9
+    family: 9.3

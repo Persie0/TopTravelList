@@ -1,0 +1,17 @@
+id: sight-mx-feria-san-marcos
+name: "Feria Nacional de San Marcos (Aguascalientes)"
+location:
+  country_code: MX
+  latitude: 21.879
+  longitude: -102.307
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 9.4
+  experience: 9.4
+  depth: 9.6
+  categories:
+    culture: 9.3
+    food: 9.2
+    nightlife: 9.3
+    family: 9.0

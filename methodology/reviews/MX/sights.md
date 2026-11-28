@@ -12190,3 +12190,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
 
+
+## sight-mx-xantolo-huasteca — Xantolo Day of the Dead Celebrations (Huasteca) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/xantolo-huasteca.yaml)
+- Action: new (pass 450)
+- Precise subject: Regional Huasteca expression of Day of the Dead involving masked dance, offerings, food and harvest rituals; representative point in Axtla de Terrazas; distinct from Pátzcuaro and Mixquic.
+- Location check: 21.264, -98.782; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/images/interactivos/20251031_Dia_De_Muertos/; https://visitasanluispotosi.com/dia-de-muertos/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Pátzcuaro (MX): more iconic lakeside setting
+  - Mixquic (MX): distinct cemetery vigil
+  - Obon (JP): comparable remembrance tradition
+  - Guelaguetza (MX): different regional dance gathering.
+- Individual scores: impact 9.3, uniqueness 9.4, significance 9.5, experience 9.2, depth 9.1.
+- Categories: culture 9.7, photography 9.4, food 9.1, history 9.3.
+- Overall: 93.30/100.
+- High-score challenge: Documented scale, distinctive cultural heritage or international significance support 90+; visitor depth and global peers constrain the score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-leon-balloon-festival — León International Hot Air Balloon Festival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/leon-balloon-festival.yaml)
+- Action: new (pass 450)
+- Precise subject: Mass balloon ascents, evening balloon displays and entertainment at Parque Metropolitano; around 200 balloons and pilots from 25 countries in 2026.
+- Location check: 21.199, -101.679; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://enterate.leon.gob.mx/al-calor-del-fuego-leon-hace-volar-la-magia-del-festival-internacional-del-globo/; https://festivalglobo.com/guia-visitante.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Albuquerque Balloon Fiesta (US): larger iconic balloon gathering
+  - Bristol Balloon Fiesta (GB): comparable event
+  - Cappadocia balloon flights (TR): greater landscape context
+  - Guelaguetza (MX): stronger traditional cultural depth.
+- Individual scores: impact 9.6, uniqueness 9.2, significance 8.8, experience 9.3, depth 9.0.
+- Categories: photography 9.7, culture 8.9, family 9.3.
+- Overall: 92.35/100.
+- High-score challenge: Documented scale, distinctive cultural heritage or international significance support 90+; visitor depth and global peers constrain the score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-feria-san-marcos — Feria Nacional de San Marcos (Aguascalientes) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/feria-san-marcos.yaml)
+- Action: new (pass 450)
+- Precise subject: Historic spring fair with music, food, exhibitions and public festivities over roughly 90 hectares; attendance reported as visits, not unique people.
+- Location check: 21.879, -102.307; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://invest.aguascalientes.gob.mx/es/vida-y-cultura/; https://ags.gob.mx/turismo/historia/antecedentesdelaferia/index-eg.html; https://eservicios2.aguascalientes.gob.mx/ssi/vnoticia.aspx?b=7863.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Oktoberfest (DE): greater international recognition
+  - Calgary Stampede (CA): comparable broad fair
+  - Feria de Abril (ES): distinctive festival identity
+  - Cervantino (MX): more focused arts programme.
+- Individual scores: impact 9.1, uniqueness 8.8, significance 9.4, experience 9.4, depth 9.6.
+- Categories: culture 9.3, food 9.2, nightlife 9.3, family 9.0.
+- Overall: 91.80/100.
+- High-score challenge: Documented scale, distinctive cultural heritage or international significance support 90+; visitor depth and global peers constrain the score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-zacan-purepecha-festival — Zacán Purépecha Artistic Festival and Pirekua — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/zacan-purepecha-festival.yaml)
+- Action: new (pass 450)
+- Precise subject: Annual Purépecha artistic gathering with music, dance, orchestras and Pirekua contests; UNESCO recognition concerns the song tradition, not the festival itself.
+- Location check: 19.615, -102.317; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=1128; https://michoacan.gob.mx/noticias/tradicion-musica-y-sabor-todo-lo-que-debes-saber-del-concurso-artistico-de-zacan-2026/; https://ich.unesco.org/en/RL/pirekua-traditional-song-of-the-purhepecha-00398.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Guelaguetza (MX): broader international visibility
+  - Uruapan artisan fair (MX): different craft focus
+  - Parachicos (MX): distinctive ritual dance
+  - Festival of Pacific Arts (regional): broader cultural scope.
+- Individual scores: impact 8.9, uniqueness 9.4, significance 9.5, experience 9.1, depth 9.0.
+- Categories: culture 9.7, history 9.3, photography 9.2.
+- Overall: 91.85/100.
+- High-score challenge: Documented scale, distinctive cultural heritage or international significance support 90+; visitor depth and global peers constrain the score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-taxco-holy-week — Taxco Holy Week Processions — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/taxco-holy-week.yaml)
+- Action: new (pass 450)
+- Precise subject: Historically rooted public Holy Week processions within steep colonial streets; distinct seasonal event rather than general historic centre.
+- Location check: 18.556, -99.605; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.dgcs.unam.mx/boletin/bdboletin/2024_215.html; https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=220.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Seville Holy Week (ES): greater scale and international fame
+  - Antigua Holy Week (GT): notable alfombras
+  - Iztapalapa (MX): large Passion reenactment
+  - Huamantla (MX): distinctive floral carpets.
+- Individual scores: impact 9.2, uniqueness 9.2, significance 9.3, experience 8.8, depth 9.1.
+- Categories: culture 9.5, history 9.3, photography 9.3.
+- Overall: 91.50/100.
+- High-score challenge: Documented scale, distinctive cultural heritage or international significance support 90+; visitor depth and global peers constrain the score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-chalma-pilgrimage — Señor de Chalma Sanctuary and Pilgrimage — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/chalma-pilgrimage.yaml)
+- Action: new (pass 450)
+- Precise subject: Major Mexican pilgrimage centre with colonial-era devotion, dance and ceremonial traditions associated with the Ahuehuete; grouped with the sanctuary.
+- Location check: 18.935, -99.437; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.sectur.gob.mx/programas/gestion-de-destinos/productos-turisticos/virreinal/chalma/; https://www.inah.gob.mx/boletines/abre-exposicion-sobre-la-tradicion-de-la-peregrinacion-de-culhuacan-a-chalma; https://contigoenladistancia.cultura.gob.mx/detalle/los-caminos-de-lo-sagrado-la-danza-perenne.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Guadalupe Basilica (MX): greater national scale
+  - San Juan de los Lagos (MX): similar pilgrimage importance
+  - Lourdes (FR): greater international reach
+  - Fátima (PT): major Marian pilgrimage.
+- Individual scores: impact 9.0, uniqueness 9.2, significance 9.5, experience 9.0, depth 9.1.
+- Categories: culture 9.6, history 9.4, architecture 8.8.
+- Overall: 91.60/100.
+- High-score challenge: Documented scale, distinctive cultural heritage or international significance support 90+; visitor depth and global peers constrain the score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-tlaxcala-carnival — Tlaxcala Carnival and Huehue Dances — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tlaxcala-carnival.yaml)
+- Action: new (pass 450)
+- Precise subject: Seventeenth-century-rooted carnival tradition with masked huehue dancing across numerous municipalities; capital as representative point.
+- Location check: 19.318, -98.237; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/cultura/prensa/carnaval-de-tlaxcala-una-fiesta-para-el-orgullo-y-la-tradicion?idiom=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Huejotzingo Carnival (MX): distinctive historical reenactments
+  - Veracruz Carnival (MX): larger street spectacle
+  - Oruro Carnival (BO): stronger international heritage stature
+  - Parachicos (MX): different ritual context.
+- Individual scores: impact 9.0, uniqueness 9.3, significance 9.1, experience 9.1, depth 9.0.
+- Categories: culture 9.5, photography 9.4, history 9.1.
+- Overall: 91.10/100.
+- High-score challenge: Documented scale, distinctive cultural heritage or international significance support 90+; visitor depth and global peers constrain the score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-morelia-film-festival — Morelia International Film Festival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/morelia-film-festival.yaml)
+- Action: new (pass 450)
+- Precise subject: Annual Mexican cinema festival founded in 2003; certain award winners eligible for Oscar consideration, with international industry links.
+- Location check: 19.702, -101.193; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://moreliafilmfest.com/en/presentacion; https://moreliafilmfest.com/en/frequently-asked-questions.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cannes (FR): much greater international industry profile
+  - Berlinale (DE): broader programme
+  - Guadalajara FICG (MX): older film festival
+  - Cervantino (MX): broader performing arts.
+- Individual scores: impact 8.7, uniqueness 8.9, significance 9.3, experience 9.2, depth 9.3.
+- Categories: culture 9.5, nightlife 8.7.
+- Overall: 90.05/100.
+- High-score challenge: Documented scale, distinctive cultural heritage or international significance support 90+; visitor depth and global peers constrain the score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-guadalajara-film-festival — Guadalajara International Film Festival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalajara-film-festival.yaml)
+- Action: new (pass 450)
+- Precise subject: Long-running Mexican and Ibero-American film festival originating in 1986; representative point near university cultural facilities.
+- Location check: 20.741, -103.383; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://ficg.mx/en/faq/; https://revistafosforo.filmoteca.unam.mx/news/la-historia-los-lazos-y-la-inclusion-en-el-ficg/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Morelia FICM (MX): focused Mexican cinema and Oscar qualifying links
+  - Cannes (FR): greater global visibility
+  - Toronto TIFF (CA): larger international reach
+  - Cervantino (MX): wider arts experience.
+- Individual scores: impact 8.6, uniqueness 8.8, significance 9.3, experience 9.2, depth 9.3.
+- Categories: culture 9.5, nightlife 8.7.
+- Overall: 89.50/100.
+- High-score challenge: Sub-90 reflects narrower scope or distinction compared with major international events. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-san-pedro-atocpan-mole-fair — San Pedro Atocpan National Mole Fair — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-pedro-atocpan-mole-fair.yaml)
+- Action: new (pass 450)
+- Precise subject: Annual gastronomic fair showcasing locally produced mole, including mole almendrado, with cultural activities.
+- Location check: 19.199, -99.048; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.turismo.cdmx.gob.mx/comunicacion/nota/presentan-en-sectur-ciudad-de-mexico-la-49-feria-nacional-del-mole-gastronomia-tradicion-y-turismo-social-en-milpa-alta; https://ferianacionaldelmole.com.mx/boletin-informativo/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Uruapan Purépecha cuisine showcase (MX): different regional tradition
+  - Oaxaca Guelaguetza (MX): broader cultural programme
+  - Pizzafest Naples (IT): comparable specialty food event
+  - Mistura (PE): broader culinary scope.
+- Individual scores: impact 8.7, uniqueness 9.1, significance 9.1, experience 9.3, depth 8.8.
+- Categories: food 9.6, culture 9.2, photography 8.8.
+- Overall: 89.80/100.
+- High-score challenge: Sub-90 reflects narrower scope or distinction compared with major international events. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-taxco-silver-fair — Taxco National Silver Fair and Silversmithing Exhibition — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/taxco-silver-fair.yaml)
+- Action: new (pass 450)
+- Precise subject: Annual craft fair and national silversmith competition, distinct from historic town and Holy Week.
+- Location check: 18.556, -99.605; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.guerrero.gob.mx/2026/11/taxco-listo-para-la-89-feria-nacional-de-la-plata-evelyn-salgado-anuncia-cartelera-y-concurso-nacional-de-plateria-2026/; https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=319.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Uruapan Artisan Fair (MX): wider craft variety
+  - Puebla Talavera workshops (MX): more continuous visitor access
+  - Santa Fe Indian Market (US): wider Indigenous craft scope
+  - San Pablito (MX): different traditional material.
+- Individual scores: impact 8.6, uniqueness 9.1, significance 9.1, experience 8.9, depth 8.8.
+- Categories: culture 9.4, history 9.1, photography 8.8.
+- Overall: 88.90/100.
+- High-score challenge: Sub-90 reflects narrower scope or distinction compared with major international events. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-san-pablito-amate — San Pablito Otomí Amate Paper Craft Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-pablito-amate.yaml)
+- Action: new (pass 450)
+- Precise subject: Otomí bark-paper craft production; visits only to willing artisans with consent, not private ritual access.
+- Location check: 20.289, -98.158; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?disciplina=&table=artepmex&table_id=36; https://original.cultura.gob.mx/artesanos/jorge-luis-santos-rojas/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Teotitlán weaving (MX): more established workshop visits
+  - Talavera workshops (MX): UNESCO-listed craft tradition
+  - Japanese washi craft (JP): comparable paper heritage
+  - San Bartolo pottery (MX): comparable specialist craft.
+- Individual scores: impact 8.6, uniqueness 9.3, significance 9.2, experience 8.6, depth 8.5.
+- Categories: culture 9.5, history 9.2, photography 8.9.
+- Overall: 88.85/100.
+- High-score challenge: Sub-90 reflects narrower scope or distinction compared with major international events. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-tehuacan-mole-caderas — Tehuacán Mole de Caderas Gastronomy Festival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tehuacan-mole-caderas.yaml)
+- Action: new (pass 450)
+- Precise subject: Seasonal regional food festival showcasing a culturally important dish; evaluation concerns the culinary and artistic programme.
+- Location check: 18.463, -97.394; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?disciplina=&table=festival&table_id=1944; https://puebla.gob.mx/index.php/noticias/item/20987-gobierno-de-puebla-y-tehuacan-invitan-al-festival-de-mole-de-caderas.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Pedro Atocpan Mole Fair (MX): greater national reach
+  - Uruapan cuisine showcase (MX): wider culinary representation
+  - Oaxaca food experiences (MX): broader variety
+  - Alba truffle fair (IT): internationally renowned seasonal speciality.
+- Individual scores: impact 8.5, uniqueness 9.0, significance 9.0, experience 8.9, depth 8.6.
+- Categories: food 9.3, culture 9.2, history 8.9.
+- Overall: 87.95/100.
+- High-score challenge: Sub-90 reflects narrower scope or distinction compared with major international events. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+
+
+## sight-mx-huauchinango-flower-fair — Huauchinango Flower Fair — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/huauchinango-flower-fair.yaml)
+- Action: new (pass 450)
+- Precise subject: Long-running regional floriculture fair with azalea varieties and cultural events; distinct from general town visit.
+- Location check: 20.176, -98.055; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.puebla.gob.mx/index.php/noticias/item/22450-invita-secretaria-de-desarrollo-turistico-a-la-feria-de-las-flores-de-huauchinango; https://sic.cultura.gob.mx/ficha.php?disciplina=&table=festividad&table_id=147.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Medellín Flower Festival (CO): stronger international scale
+  - Chelsea Flower Show (GB): broader horticultural prestige
+  - Keukenhof (NL): greater floral impact
+  - Noche de Rábanos (MX): distinctive craft and seasonal spectacle.
+- Individual scores: impact 8.6, uniqueness 8.7, significance 8.8, experience 9.0, depth 8.6.
+- Categories: photography 9.1, culture 9.1, nature 8.9, family 9.0.
+- Overall: 87.25/100.
+- High-score challenge: Sub-90 reflects narrower scope or distinction compared with major international events. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; event dates and access are variable and not scored as permanent closure.
+

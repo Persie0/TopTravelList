@@ -1,0 +1,17 @@
+id: sight-mx-huauchinango-flower-fair
+name: "Huauchinango Flower Fair"
+location:
+  country_code: MX
+  latitude: 20.176
+  longitude: -98.055
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 9.0
+  depth: 8.6
+  categories:
+    photography: 9.1
+    culture: 9.1
+    nature: 8.9
+    family: 9.0

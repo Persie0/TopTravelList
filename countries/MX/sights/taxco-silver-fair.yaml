@@ -1,0 +1,16 @@
+id: sight-mx-taxco-silver-fair
+name: "Taxco National Silver Fair and Silversmithing Exhibition"
+location:
+  country_code: MX
+  latitude: 18.556
+  longitude: -99.605
+scores:
+  impact: 8.6
+  uniqueness: 9.1
+  significance: 9.1
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.4
+    history: 9.1
+    photography: 8.8
