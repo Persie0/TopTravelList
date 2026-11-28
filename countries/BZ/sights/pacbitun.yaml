@@ -1,0 +1,16 @@
+id: sight-bz-pacbitun
+name: "Pacbitun Archaeological Site"
+location:
+  country_code: BZ
+  latitude: 17.09211
+  longitude: -88.99477
+scores:
+  impact: 7.3
+  uniqueness: 8.3
+  significance: 8.8
+  experience: 7.0
+  depth: 8.0
+  categories:
+    history: 9.0
+    culture: 8.6
+    architecture: 7.9

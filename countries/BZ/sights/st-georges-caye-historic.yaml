@@ -1,0 +1,17 @@
+id: sight-bz-st-georges-caye-historic
+name: "St. George's Caye National Historic Landmark"
+location:
+  country_code: BZ
+  latitude: 17.5548
+  longitude: -88.078
+scores:
+  impact: 7.5
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 7.6
+  depth: 7.5
+  categories:
+    history: 9.0
+    culture: 8.6
+    nature: 8.1
+    relaxation: 8.2

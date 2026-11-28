@@ -1,0 +1,16 @@
+id: sight-bz-golden-stream-corridor
+name: "Golden Stream Corridor Preserve"
+location:
+  country_code: BZ
+  latitude: 16.37317
+  longitude: -88.78719
+scores:
+  impact: 8.3
+  uniqueness: 8.5
+  significance: 9.1
+  experience: 7.9
+  depth: 8.6
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    photography: 8.5

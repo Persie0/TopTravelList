@@ -1,0 +1,16 @@
+id: sight-bz-actuncan
+name: "Actuncan Archaeological Site"
+location:
+  country_code: BZ
+  latitude: 17.10751
+  longitude: -89.14083
+scores:
+  impact: 7.4
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 7.1
+  depth: 8.1
+  categories:
+    history: 9.1
+    culture: 8.7
+    architecture: 8.0

@@ -111,7 +111,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Barbados](countries/BB/) (`BB`) | [10](countries/BB/cities.md) | [35](countries/BB/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Barbados) |
 | [Belarus](countries/BY/) (`BY`) | [14](countries/BY/cities.md) | [35](countries/BY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Belarus) |
 | [Belgium](countries/BE/) (`BE`) | [18](countries/BE/cities.md) | [64](countries/BE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Belgium) |
-| [Belize](countries/BZ/) (`BZ`) | [18](countries/BZ/cities.md) | [111](countries/BZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Belize) |
+| [Belize](countries/BZ/) (`BZ`) | [18](countries/BZ/cities.md) | [120](countries/BZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Belize) |
 | [Benin](countries/BJ/) (`BJ`) | [18](countries/BJ/cities.md) | [34](countries/BJ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Benin) |
 | [Bermuda](countries/BM/) (`BM`) | [3](countries/BM/cities.md) | [12](countries/BM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bermuda) |
 | [Bhutan](countries/BT/) (`BT`) | [33](countries/BT/cities.md) | [89](countries/BT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Bhutan) |

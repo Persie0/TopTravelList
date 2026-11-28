@@ -2573,3 +2573,228 @@ Nine additions, one researched fact-checked high-score decision and eight provis
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: complete source triangulation, current access and worldwide Python checks.
+
+## sight-bz-half-moon-caye-wall — Half Moon Caye Wall Reef Dive — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/half-moon-caye-wall.yaml)
+- Action: new
+- Precise subject: Specific submerged wall and coral passages, excluding the island bird colony and terrestrial monument; no guaranteed wildlife sightings.
+- Location check: 17.20107, -87.53762; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://divemap.be/dive-sites/half-moon-caye-wall.html; https://belizeprodivecenter.com/diving/great-blue-hole/.
+- Worldwide peers (qualitative, not independently refetched):
+  - Blue Corner (PW): stronger current-driven pelagic encounters
+  - Ras Mohammed Shark Reef (EG): comparable coral wall with distinctive schooling fish
+  - Sipadan Barracuda Point (MY): greater iconic marine encounters
+  - The Elbow (BZ): comparable atoll wall but different site
+- Individual scores:
+  - impact: 8.9 — Coral wall and passages offer impressive underwater relief.
+  - uniqueness: 8.6 — Wall dives have many excellent international substitutes.
+  - significance: 8.5 — Reef habitat has meaningful ecological value without credit for the whole reserve.
+  - experience: 9.1 — Boat dive combines wall scenery and marine observation.
+  - depth: 8.4 — Multiple underwater features support exploration within a single dive.
+- Categories: adventure 9.1, nature 9.1, wildlife 9.1, photography 9.0.
+- Overall: 87.25/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-golden-stream-corridor — Golden Stream Corridor Preserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/golden-stream-corridor.yaml)
+- Action: new
+- Precise subject: Private forest corridor linking mountains and coastal lowlands; excludes neighboring Bladen and other protected areas. Coordinate is approximate ranger-base point from indexed manager report, not a trail entrance.
+- Location check: 16.37317, -88.78719; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://www.yaaxche.org/services/golden-stream-corridor-preserve/; https://www.protectedplanet.net/301941; https://www.ecotourismbelize.com/location/; https://www.yaaxche.org/wp-content/uploads/scientific-reports/biodiversity_synthesis_report_2016.pdf.
+- Worldwide peers (qualitative, not independently refetched):
+  - Corcovado (CR): greater wilderness visitation
+  - Sierra de las Minas (GT): larger elevational breadth
+  - Sian Ka'an (MX): much broader land-and-sea landscape
+  - Shipstern (BZ): comparable private conservation landscape
+- Individual scores:
+  - impact: 8.3 — Tropical forest landscape has strong natural appeal.
+  - uniqueness: 8.5 — Mountain-to-coast habitat linkage is distinctive.
+  - significance: 9.1 — Documented Mesoamerican corridor and archaeological resources warrant high significance.
+  - experience: 7.9 — Forest interpretation offers meaningful potential without assuming extensive facilities.
+  - depth: 8.6 — Varied forest and riparian habitats provide breadth.
+- Categories: nature 9.1, wildlife 9.1, photography 8.5.
+- Overall: 84.80/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-tapir-mountain-nature-reserve — Tapir Mountain Nature Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/tapir-mountain-nature-reserve.yaml)
+- Action: new
+- Precise subject: Protected evergreen forest on karst limestone; excludes the separately rated ATM Cave and its archaeological significance. Ordinary public access not established.
+- Location check: 17.1319, -88.8867; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://www.belizekarst.org/about-belize-tapir-mountain-nature-reserve/; https://mapcarta.com/W207600764.
+- Worldwide peers (qualitative, not independently refetched):
+  - Phong Nha-Ke Bang (VN): much larger karst landscape
+  - Gunung Mulu (MY): more spectacular cave-karst complexes
+  - Carara (CR): more established forest wildlife trails
+  - Bladen (BZ): larger protected forest
+- Individual scores:
+  - impact: 8.2 — Evergreen limestone forest provides attractive immersion.
+  - uniqueness: 8.5 — Karst forest composition is distinctive but has global peers.
+  - significance: 8.9 — Protected forest and national conservation history support significance.
+  - experience: 7.6 — Forest encounter rated intrinsically without credit for ATM Cave tours.
+  - depth: 8.4 — Forest habitat and karst terrain sustain substantial discovery.
+- Categories: nature 9.0, wildlife 9.0, photography 8.4.
+- Overall: 83.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-elijio-panti-national-park — Noj Kaax Meen Elijio Panti National Park — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/elijio-panti-national-park.yaml)
+- Action: new
+- Precise subject: Maya-associated forest park and its own landscape, trails and cultural context; excludes Mountain Pine Ridge and San Antonio cooperative. Representative mapped visitor centre coordinate.
+- Location check: 17.05785, -89.02582; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://www.internationalparks.org/belize/Noj%20Kaax%20Meen%20Elijio%20Panti; https://mapcarta.com/N2827545400; https://en.wikipedia.org/wiki/Elijio_Panti_National_Park.
+- Worldwide peers (qualitative, not independently refetched):
+  - Khao Sok (TH): greater landscape drama
+  - El Yunque (PR): more established rainforest trail system
+  - Sierra Norte community forests (MX): comparable community conservation context
+  - Mayflower Bocawina (BZ): similar forest park with waterfalls
+- Individual scores:
+  - impact: 8.2 — Forested Maya Mountain foothills have appealing natural character.
+  - uniqueness: 8.3 — Living cultural associations distinguish the protected landscape.
+  - significance: 8.4 — Conservation and Maya cultural context support importance.
+  - experience: 8.4 — Forest exploration is rewarding without assuming specific available routes.
+  - depth: 8.6 — Park scale permits several distinct landscape encounters.
+- Categories: nature 8.8, culture 8.7, adventure 8.7, wildlife 8.5.
+- Overall: 83.35/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-aguacaliente-wildlife-sanctuary — Aguacaliente Wildlife Sanctuary — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/aguacaliente-wildlife-sanctuary.yaml)
+- Action: new
+- Precise subject: Protected southern Belize wetlands and surrounding forest; no guaranteed birds or access to particular trails.
+- Location check: 16.217, -88.917; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://www.protectedplanet.net/301992; https://www.internationalparks.org/belize/Aguacaliente.
+- Worldwide peers (qualitative, not independently refetched):
+  - Okavango Delta (BW): much larger and richer wildlife landscape
+  - Caño Negro (CR): comparable tropical wetland birding
+  - Bocas del Polochic (GT): comparable freshwater wetland conservation
+  - Crooked Tree (BZ): more established birdwatching destination
+- Individual scores:
+  - impact: 8.0 — Open wetlands and forest margins offer attractive scenery.
+  - uniqueness: 8.2 — Seasonal wetland ecosystem is regionally distinctive.
+  - significance: 8.7 — Protected wetland habitat supports meaningful biodiversity significance.
+  - experience: 8.0 — Wildlife observation offers good intrinsic visitor value.
+  - depth: 8.2 — Lagoon and forest habitats add moderate breadth.
+- Categories: wildlife 9.0, nature 8.8, photography 8.4.
+- Overall: 82.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-actuncan — Actuncan Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/actuncan.yaml)
+- Action: new
+- Precise subject: Distinct ancient urban centre in lower Mopan valley; excludes Xunantunich and its excavated monumental architecture. Public presentation not assumed.
+- Location check: 17.10751, -89.14083; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/community-resilience-and-urban-planning-during-the-ninthcentury-maya-collapse-a-case-study-from-actuncan-belize/1C20F1450F02C45ACC4FA80B4F390C30; https://mapcarta.com/19511244.
+- Worldwide peers (qualitative, not independently refetched):
+  - Tikal (GT): vastly more monumental urban ruins
+  - Copán (HN): greater visible sculpture
+  - Joya de Cerén (SV): distinctive preserved domestic archaeology
+  - Cahal Pech (BZ): more developed visitor presentation
+- Individual scores:
+  - impact: 7.4 — Ancient urban layout gives meaningful but less dramatic visual impact.
+  - uniqueness: 8.5 — Documented political and urban reorganization distinguishes its research context.
+  - significance: 8.9 — Long-lived settlement and studies of Maya social change support high importance.
+  - experience: 7.1 — Interpretation is central given uncertain public presentation.
+  - depth: 8.1 — Civic and ritual zones sustain archaeological depth.
+- Categories: history 9.1, culture 8.7, architecture 8.0.
+- Overall: 80.00/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-pacbitun — Pacbitun Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/pacbitun.yaml)
+- Action: new
+- Precise subject: Medium-sized ancient Maya centre near San Antonio; excludes the village's modern craft cooperative and other regional sites.
+- Location check: 17.09211, -88.99477; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://www.tandfonline.com/doi/abs/10.1179/009346990791548204; https://www.mdpi.com/2072-4292/8/10/805; https://mapcarta.com/34490956.
+- Worldwide peers (qualitative, not independently refetched):
+  - Tikal (GT): much larger excavated city
+  - Copán (HN): greater monumental art
+  - Xochicalco (MX): more dramatic visible fortified architecture
+  - Baking Pot (BZ): similar research-rich Maya centre
+- Individual scores:
+  - impact: 7.3 — Ancient structures and landscape have moderate visible impact.
+  - uniqueness: 8.3 — Long occupation and distinctive ceremonial research add interest.
+  - significance: 8.8 — Early settlement and archaeology support high historical significance.
+  - experience: 7.0 — Visitor interpretation potential rated without presuming routine access.
+  - depth: 8.0 — Residential and ceremonial remains support meaningful exploration.
+- Categories: history 9.0, culture 8.6, architecture 7.9.
+- Overall: 78.75/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-lower-dover — Lower Dover Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/lower-dover.yaml)
+- Action: new
+- Precise subject: Archaeological remains and interpretation on Lower Dover field station grounds; excludes lodging and Baking Pot. Coordinate is field station proxy, not excavated core.
+- Location check: 17.213, -88.9461; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://lowerdoverbelize.com/lower-dover/; https://link.springer.com/article/10.1007/s10816-024-09689-y; https://mytriv.com/en/hotel/belmopan-lower-dover-field-station-and-jungle-lodge.
+- Worldwide peers (qualitative, not independently refetched):
+  - Tikal (GT): much greater architectural spectacle
+  - Copán (HN): stronger sculpture and visitor interpretation
+  - Joya de Cerén (SV): more distinctive excavated domestic heritage
+  - Baking Pot (BZ): related but separate river valley polity
+- Individual scores:
+  - impact: 7.4 — Forest-covered ruins give evocative but modest visual impact.
+  - uniqueness: 8.2 — Field-station archaeological setting is distinctive.
+  - significance: 8.5 — Research on separate Maya polity and funerary practices supports significance.
+  - experience: 7.8 — Site interpretation adds value even though much remains unexcavated.
+  - depth: 8.0 — Multiple research contexts allow substantial learning.
+- Categories: history 8.9, culture 8.4, nature 8.2.
+- Overall: 79.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
+
+## sight-bz-st-georges-caye-historic — St. George's Caye National Historic Landmark — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/st-georges-caye-historic.yaml)
+- Action: new
+- Precise subject: Historic island landscape and commemorative heritage, including cemetery context; no automatic credit for surrounding reef or hypothetical underwater archaeological finds.
+- Location check: 17.5548, -88.078; representative point, not necessarily an entrance.
+- Evidence status: source-linked-unverified; indexed excerpts and selected opened pages; no complete independent fact-check.
+- Sources consulted 2026-11-28: https://www.stgeorgescayebelize.org/history.html; https://www.stgeorgescayebelize.org/protected-areas.html; https://mapcarta.com/St._George%27s_Caye.
+- Worldwide peers (qualitative, not independently refetched):
+  - Gorée Island (SN): much stronger internationally recognized historic landscape
+  - Port Royal (JM): analogous colonial maritime heritage
+  - Nelson's Dockyard (AG): greater surviving naval architecture
+  - Government House (BZ): comparable national historical importance with narrower scope
+- Individual scores:
+  - impact: 7.5 — Quiet island and historic setting provide a memorable visit.
+  - uniqueness: 8.2 — Distinct maritime colonial history and island geography add character.
+  - significance: 8.8 — National historical landmark and association with 1798 events warrant significance.
+  - experience: 7.6 — Commemoration and island exploration provide meaningful but modest experience.
+  - depth: 7.5 — Limited visible built heritage constrains breadth.
+- Categories: history 9.0, culture 8.6, nature 8.1, relaxation 8.2.
+- Overall: 79.50/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, precise location and access where applicable, global Python checks.
