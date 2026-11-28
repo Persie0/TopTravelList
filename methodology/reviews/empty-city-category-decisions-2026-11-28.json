@@ -1,0 +1,573 @@
+[
+  {
+    "source": "countries/AO/cities/huambo.yaml",
+    "id": "city-ao-huambo",
+    "categories": {
+      "history": 7.9,
+      "culture": 7.5
+    },
+    "rationale": "Highland rail and administrative city heritage; assess its urban fabric rather than nearby mountain sites.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/AO/cities/malanje.yaml",
+    "id": "city-ao-malanje",
+    "categories": {
+      "culture": 7.3,
+      "history": 7.1
+    },
+    "rationale": "Regional market and town heritage; exclude Kalandula Falls and other excursions.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BF/cities/fada-ngourma.yaml",
+    "id": "city-bf-fada-ngourma",
+    "categories": {
+      "culture": 7.9
+    },
+    "rationale": "Gourmantché regional cultural centre; no assumption of particular festivals or scheduled performances.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BF/cities/koudougou.yaml",
+    "id": "city-bf-koudougou",
+    "categories": {
+      "culture": 7.4
+    },
+    "rationale": "Regional urban markets and everyday Burkinabè culture, not major monumental heritage.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BF/cities/ouahigouya.yaml",
+    "id": "city-bf-ouahigouya",
+    "categories": {
+      "culture": 7.8,
+      "history": 7.6
+    },
+    "rationale": "Yatenga royal and regional traditions give the town cultural interest.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/BF/cities/sindou.yaml",
+    "id": "city-bf-sindou",
+    "categories": {
+      "culture": 7.3
+    },
+    "rationale": "Local settlement traditions; separately ranked Sindou Peaks excluded.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/CD/cities/mbandaka.yaml",
+    "id": "city-cd-mbandaka",
+    "categories": {
+      "culture": 7.7,
+      "photography": 7.5
+    },
+    "rationale": "Congo River port and riverfront urban life, not the entire surrounding rainforest.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/CI/cities/bouake.yaml",
+    "id": "city-ci-bouake",
+    "categories": {
+      "culture": 7.6
+    },
+    "rationale": "Central commercial city and everyday market culture; no unverified festival credit.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/CI/cities/daloa.yaml",
+    "id": "city-ci-daloa",
+    "categories": {
+      "culture": 7.4
+    },
+    "rationale": "Regional market and trading-city culture with limited monumental scope.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/CI/cities/san-pedro.yaml",
+    "id": "city-ci-san-pedro",
+    "categories": {
+      "culture": 7.4,
+      "beaches": 7.8
+    },
+    "rationale": "Port and immediate coastal setting; no credit for more distant resort beaches.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/CM/cities/bamenda.yaml",
+    "id": "city-cm-bamenda",
+    "categories": {
+      "culture": 8.1,
+      "photography": 7.8
+    },
+    "rationale": "Grassfields regional urban culture and hilly town setting; exclude remote palaces and hiking routes.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/FJ/cities/labasa.yaml",
+    "id": "city-fj-labasa",
+    "categories": {
+      "culture": 7.3,
+      "food": 7.2
+    },
+    "rationale": "Small sugar-region town and Indo-Fijian cultural mix; no island-wide nature credit.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/FM/cities/palikir.yaml",
+    "id": "city-fm-palikir",
+    "categories": {
+      "culture": 6.9
+    },
+    "rationale": "Modest national administrative settlement; limited standalone cultural sightseeing.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/FM/cities/tofol.yaml",
+    "id": "city-fm-tofol",
+    "categories": {
+      "culture": 6.8
+    },
+    "rationale": "Kosrae administrative settlement and local island life; exclude other island heritage sites.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/FM/cities/weno.yaml",
+    "id": "city-fm-weno",
+    "categories": {
+      "culture": 7.2,
+      "photography": 7.4
+    },
+    "rationale": "Lagoon-facing island town and local cultural life; no transfer of Chuuk wreck-diving ratings.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/KI/cities/bonriki.yaml",
+    "id": "city-ki-bonriki",
+    "categories": {
+      "culture": 7.1
+    },
+    "rationale": "South Tarawa settlement and atoll community life, not airport facilities.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/KI/cities/kabangaki.yaml",
+    "id": "city-ki-kabangaki",
+    "categories": {
+      "culture": 7.3
+    },
+    "rationale": "Village-scale Kiribati community and lagoon setting; no specific cultural performance assumed.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/KI/cities/makin.yaml",
+    "id": "city-ki-makin",
+    "categories": {
+      "culture": 7.5,
+      "photography": 7.7
+    },
+    "rationale": "Outer-island village life and coastal setting; not the entire atoll.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/KI/cities/taburao.yaml",
+    "id": "city-ki-taburao",
+    "categories": {
+      "culture": 7.3,
+      "photography": 7.5
+    },
+    "rationale": "Small atoll settlement and shore scenery; no reef wildlife claim.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/LY/cities/misrata.yaml",
+    "id": "city-ly-misrata",
+    "categories": {
+      "culture": 7.7,
+      "history": 7.6
+    },
+    "rationale": "Historic trading and industrial city; no transfer of nearby archaeological attractions.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/LY/cities/sabha.yaml",
+    "id": "city-ly-sabha",
+    "categories": {
+      "culture": 7.8,
+      "history": 7.6
+    },
+    "rationale": "Fezzan regional urban and caravan history; no credit for remote desert excursions.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/LY/cities/sabratha.yaml",
+    "id": "city-ly-sabratha",
+    "categories": {
+      "culture": 7.2
+    },
+    "rationale": "Modern town life; independently ranked Roman archaeological site excluded.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/LY/cities/shahat.yaml",
+    "id": "city-ly-shahat",
+    "categories": {
+      "culture": 7.1
+    },
+    "rationale": "Modern settlement on the Jebel Akhdar; no transfer of ancient Cyrene's significance.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MG/cities/toamasina.yaml",
+    "id": "city-mg-toamasina",
+    "categories": {
+      "culture": 7.8,
+      "food": 7.8
+    },
+    "rationale": "Major Malagasy port and market culture with regional food traditions; not neighboring coastal reserves.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MH/cities/jabor.yaml",
+    "id": "city-mh-jabor",
+    "categories": {
+      "history": 7.8,
+      "culture": 7.3
+    },
+    "rationale": "Jaluit settlement history and village life; not the full atoll or separate wrecks.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MH/cities/mili.yaml",
+    "id": "city-mh-mili",
+    "categories": {
+      "culture": 7.5,
+      "photography": 7.8
+    },
+    "rationale": "Atoll village and coastal perspectives; reserve wildlife evaluated separately.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MH/cities/namdrik.yaml",
+    "id": "city-mh-namdrik",
+    "categories": {
+      "culture": 7.8,
+      "photography": 7.9
+    },
+    "rationale": "Island community and lagoon-side scenery; not the entire Ramsar habitat.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MH/cities/wotje.yaml",
+    "id": "city-mh-wotje",
+    "categories": {
+      "history": 7.8,
+      "culture": 7.2
+    },
+    "rationale": "Village and wartime historical context; no assumed access to specific military remains.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ML/cities/bandiagara.yaml",
+    "id": "city-ml-bandiagara",
+    "categories": {
+      "culture": 8.1
+    },
+    "rationale": "Dogon regional market and settlement culture; cliff landscape remains separate.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ML/cities/koulikoro.yaml",
+    "id": "city-ml-koulikoro",
+    "categories": {
+      "culture": 7.4,
+      "photography": 7.3
+    },
+    "rationale": "Niger River town and local commercial life; excludes river-wide excursions.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MR/cities/kaedi.yaml",
+    "id": "city-mr-kaedi",
+    "categories": {
+      "culture": 7.3
+    },
+    "rationale": "Senegal River regional town and architectural context; no credit for distant wetlands.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MR/cities/kiffa.yaml",
+    "id": "city-mr-kiffa",
+    "categories": {
+      "culture": 7.9
+    },
+    "rationale": "Regional market and distinctive beadmaking tradition, with limited urban attraction breadth.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MR/cities/zouerat.yaml",
+    "id": "city-mr-zouerat",
+    "categories": {
+      "history": 7.4
+    },
+    "rationale": "Mining town and industrial heritage context; no assumption of public mine visits.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/MZ/cities/nampula.yaml",
+    "id": "city-mz-nampula",
+    "categories": {
+      "culture": 7.7,
+      "architecture": 7.5
+    },
+    "rationale": "Northern regional city, markets and civic/religious architecture; Ilha de Moçambique excluded.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/NE/cities/iferouane.yaml",
+    "id": "city-ne-iferouane",
+    "categories": {
+      "culture": 8.1,
+      "photography": 8
+    },
+    "rationale": "Tuareg oasis settlement and immediate Aïr foothill scenery; no credit for whole mountain range.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/NE/cities/maradi.yaml",
+    "id": "city-ne-maradi",
+    "categories": {
+      "culture": 7.5
+    },
+    "rationale": "Hausa regional commercial and market life.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/NE/cities/tahoua.yaml",
+    "id": "city-ne-tahoua",
+    "categories": {
+      "culture": 7.5
+    },
+    "rationale": "Sahelian regional town culture; separately named earthen mosques excluded.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/NG/cities/port-harcourt.yaml",
+    "id": "city-ng-port-harcourt",
+    "categories": {
+      "food": 8,
+      "culture": 7.8
+    },
+    "rationale": "Large Niger Delta city with regional culinary and cultural life; no credit for offshore or mangrove reserves.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/NR/cities/arijejen.yaml",
+    "id": "city-nr-arijejen",
+    "categories": {
+      "culture": 6.8
+    },
+    "rationale": "Small settlement in Nauru's urbanized coastal context; modest standalone cultural breadth.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/NR/cities/yangor.yaml",
+    "id": "city-nr-yangor",
+    "categories": {
+      "culture": 6.7
+    },
+    "rationale": "Residential village-scale local life; no assumption of distinct major monuments.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/PG/cities/alotau.yaml",
+    "id": "city-pg-alotau",
+    "categories": {
+      "culture": 7.9,
+      "photography": 7.7
+    },
+    "rationale": "Milne Bay port and local cultural setting; not the full bay or offshore islands.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/PG/cities/kavieng.yaml",
+    "id": "city-pg-kavieng",
+    "categories": {
+      "culture": 7.5,
+      "photography": 7.7
+    },
+    "rationale": "New Ireland coastal town, harbor and local life; separately ranked reefs excluded.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/PW/cities/mengellang.yaml",
+    "id": "city-pw-mengellang",
+    "categories": {
+      "culture": 7.6
+    },
+    "rationale": "Babeldaob village heritage and local setting; no whole-island nature credit.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/PW/cities/ngardmau.yaml",
+    "id": "city-pw-ngardmau",
+    "categories": {
+      "culture": 7.4
+    },
+    "rationale": "Small Palauan village; separately ranked waterfall and trails excluded.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/SD/cities/atbara.yaml",
+    "id": "city-sd-atbara",
+    "categories": {
+      "history": 7.9,
+      "culture": 7.4
+    },
+    "rationale": "Railway-town history and Nile-region urban life; not nearby archaeological complexes.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/SD/cities/karima.yaml",
+    "id": "city-sd-karima",
+    "categories": {
+      "culture": 7.3
+    },
+    "rationale": "Nile town and local culture; Jebel Barkal and pyramids separately rated.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/SD/cities/shendi.yaml",
+    "id": "city-sd-shendi",
+    "categories": {
+      "culture": 7.3,
+      "history": 7.2
+    },
+    "rationale": "Nile market-town heritage, excluding the Meroë archaeological property.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/SN/cities/kedougou.yaml",
+    "id": "city-sn-kedougou",
+    "categories": {
+      "culture": 7.7
+    },
+    "rationale": "Southeastern regional town and community traditions; exclude surrounding waterfalls and parks.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/SO/cities/baidoa.yaml",
+    "id": "city-so-baidoa",
+    "categories": {
+      "culture": 7.5
+    },
+    "rationale": "Regional inland urban and market life; no claim of current events or admission.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/SO/cities/borama.yaml",
+    "id": "city-so-borama",
+    "categories": {
+      "culture": 7.6
+    },
+    "rationale": "Regional highland town and cultural life, not outlying mountains.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/SO/cities/burao.yaml",
+    "id": "city-so-burao",
+    "categories": {
+      "culture": 7.7
+    },
+    "rationale": "Regional trading and pastoral cultural context; modest standalone attraction breadth.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/SO/cities/kismayo.yaml",
+    "id": "city-so-kismayo",
+    "categories": {
+      "culture": 7.8,
+      "photography": 7.8
+    },
+    "rationale": "Indian Ocean port city and immediate coastal setting; no credit for remote marine sites.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TO/cities/hihifo-niuatoputapu.yaml",
+    "id": "city-to-hihifo-niuatoputapu",
+    "categories": {
+      "culture": 7.6,
+      "photography": 7.5
+    },
+    "rationale": "Outer-island village and immediate coastal scenery; exclude whole-island experiences.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/TO/cities/ohonua.yaml",
+    "id": "city-to-ohonua",
+    "categories": {
+      "culture": 6.9
+    },
+    "rationale": "Small Eua settlement and local island life; no credit for separately ranked national park.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/UG/cities/kabale.yaml",
+    "id": "city-ug-kabale",
+    "categories": {
+      "culture": 7.5,
+      "photography": 7.7
+    },
+    "rationale": "Highland market town and immediate hills; Lake Bunyonyi separately assessed.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/VU/cities/isangel.yaml",
+    "id": "city-vu-isangel",
+    "categories": {
+      "culture": 7.1
+    },
+    "rationale": "Small Tanna administrative settlement and local culture; Mount Yasur excluded.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/WS/cities/asau.yaml",
+    "id": "city-ws-asau",
+    "categories": {
+      "culture": 7.3,
+      "photography": 7.3
+    },
+    "rationale": "Village and coastal harbor setting; not the entire Savai'i island.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZM/cities/chipata.yaml",
+    "id": "city-zm-chipata",
+    "categories": {
+      "culture": 7.5
+    },
+    "rationale": "Eastern regional market and trading city; no credit for distant safari parks.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZM/cities/kasama.yaml",
+    "id": "city-zm-kasama",
+    "categories": {
+      "culture": 7.6,
+      "history": 7.7
+    },
+    "rationale": "Northern regional city and historical context; separate rock-art sites excluded.",
+    "source_urls": []
+  },
+  {
+    "source": "countries/ZW/cities/gweru.yaml",
+    "id": "city-zw-gweru",
+    "categories": {
+      "history": 7.6,
+      "culture": 7.4
+    },
+    "rationale": "Historic railway and regional civic city; surrounding game parks excluded.",
+    "source_urls": []
+  }
+]
