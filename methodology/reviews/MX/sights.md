@@ -12778,3 +12778,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; conditions and access not verified.
 
+
+## sight-mx-zacatecas-cathedral — Zacatecas Cathedral and Churrigueresque Facades — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/zacatecas-cathedral.yaml)
+- Action: new (pass 452)
+- Precise subject: Individual cathedral with three carved facades combining European and Indigenous motifs; not the broader historic centre.
+- Location check: 22.7753, -102.5731; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/index.php/foto-del-dia/rostro-de-cantera-y-corazon-de-plata-catedral-basilica-de-nuestra-senora-de-la-asuncion-en-zacatecas; https://lugares.inah.gob.mx/es/node/6136.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santa Prisca (MX): comparable ornate silver-mining church
+  - Puebla Cathedral (MX): broader interior scope
+  - Santiago de Compostela Cathedral (ES): greater pilgrimage significance
+  - Santa Rosa de Viterbo (MX): contrasting Baroque details.
+- Individual scores: impact 9.4, uniqueness 9.4, significance 9.4, experience 8.9, depth 8.6.
+- Categories: architecture 9.7, history 9.3, photography 9.5, culture 9.2.
+- Overall: 92.45/100.
+- High-score challenge: Documented architectural or collection significance and distinct visitor scope support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-fuerte-san-miguel-campeche — Fuerte de San Miguel and Maya Archaeology Museum (Campeche) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/fuerte-san-miguel-campeche.yaml)
+- Action: new (pass 452)
+- Precise subject: Specific fortified museum outside the historic centre, with ten galleries including Calakmul jade masks and Jaina figurines.
+- Location check: 19.816, -90.564; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/museos/museo-arqueologico-maya-fuerte-de-san-miguel; https://lugares.inah.gob.mx/en/node/4261.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Juan de Ulúa (MX): more substantial military architecture
+  - Xalapa Anthropology Museum (MX): broader archaeological collection
+  - Castillo de San Felipe (CO): larger fortress
+  - Fuerte de San José (MX): contrasting underwater archaeology.
+- Individual scores: impact 9.1, uniqueness 9.3, significance 9.5, experience 9.1, depth 9.3.
+- Categories: history 9.6, culture 9.4, architecture 9.1, photography 9.1.
+- Overall: 92.50/100.
+- High-score challenge: Documented architectural or collection significance and distinct visitor scope support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-santa-clara-queretaro — Santa Clara Church and Gilded Baroque Altarpieces (Querétaro) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santa-clara-queretaro.yaml)
+- Action: new (pass 452)
+- Precise subject: Individual church, richly decorated nave and historic altarpieces associated with prominent colonial artists.
+- Location check: 20.592, -100.394; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/pagina-de-elemento/3001; https://sitiosymonumentos.cultura.gob.mx/iii-estudios-monograficos/santa-clara/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Rosary Chapel Puebla (MX): comparable gilded interiors
+  - Santa Rosa de Viterbo (MX): nearby distinct church
+  - Santo Domingo Oaxaca (MX): larger ensemble
+  - São Francisco Salvador (BR): comparable gilded decoration.
+- Individual scores: impact 9.3, uniqueness 9.3, significance 9.2, experience 8.8, depth 8.5.
+- Categories: architecture 9.6, culture 9.3, photography 9.4, history 9.1.
+- Overall: 91.25/100.
+- High-score challenge: Documented architectural or collection significance and distinct visitor scope support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-morelia-guadalupe-san-diego — San Diego Church and Guadalupe Sanctuary (Morelia) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/morelia-guadalupe-san-diego.yaml)
+- Action: new (pass 452)
+- Precise subject: Distinct sanctuary with intricate polychrome floral clay and stucco decoration inaugurated in 1915 by Joaquín Orta; not scored as a second entire historic centre.
+- Location check: 19.699, -101.179; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/35370; https://sitiosymonumentos.cultura.gob.mx/monumentos-inmuebles-de-propiedad-federal/san-diego-2/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santa María Tonantzintla (MX): similar dense ornamentation with different origins
+  - Rosary Chapel Puebla (MX): gilded Baroque
+  - São Francisco Salvador (BR): comparable visual density
+  - Morelia Cathedral (MX): larger ecclesiastical complex.
+- Individual scores: impact 9.4, uniqueness 9.4, significance 8.9, experience 8.9, depth 8.3.
+- Categories: architecture 9.6, photography 9.5, culture 9.2, history 9.0.
+- Overall: 91.15/100.
+- High-score challenge: Documented architectural or collection significance and distinct visitor scope support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-fuerte-san-jose-campeche — Fuerte de San José el Alto and Underwater Archaeology Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/fuerte-san-jose-campeche.yaml)
+- Action: new (pass 452)
+- Precise subject: Historic hilltop fort displaying archaeological and paleontological finds from underwater contexts across the Gulf and Caribbean; distinct museum and fort from San Miguel.
+- Location check: 19.862, -90.505; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/museos/museo-de-arqueologia-subacuatica-fuerte-de-san-jose-el-alto; https://lugares.inah.gob.mx/es/node/4264.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Fuerte San Miguel (MX): exceptional Maya collection
+  - Vasa Museum (SE): greater shipwreck scale
+  - Bodrum Museum of Underwater Archaeology (TR): richer shipwreck collections
+  - San Juan de Ulúa (MX): greater fortification extent.
+- Individual scores: impact 8.9, uniqueness 9.3, significance 9.3, experience 9.0, depth 9.2.
+- Categories: history 9.5, culture 9.3, architecture 9.0, photography 9.0.
+- Overall: 91.25/100.
+- High-score challenge: Documented architectural or collection significance and distinct visitor scope support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-morelia-cathedral — Morelia Cathedral and Historic Organ — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/morelia-cathedral.yaml)
+- Action: new (pass 452)
+- Precise subject: Individual cathedral, Baroque architecture and organ associated with the international organ festival; separate from entire Morelia historic centre.
+- Location check: 19.702, -101.192; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=catedral&table_id=46; https://lugares.inah.gob.mx/es/node/6133.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Puebla Cathedral (MX): comparable monumental cathedral
+  - Zacatecas Cathedral (MX): more intricate facades
+  - Mexico City Metropolitan Cathedral (MX): larger national significance
+  - Guadalajara Cathedral (MX): distinct towers.
+- Individual scores: impact 9.2, uniqueness 8.9, significance 9.3, experience 9.0, depth 9.1.
+- Categories: architecture 9.5, history 9.4, culture 9.3, photography 9.3.
+- Overall: 91.05/100.
+- High-score challenge: Documented architectural or collection significance and distinct visitor scope support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-san-javier-mission-bcs — Mission of San Francisco Javier Viggé-Biaundó — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-javier-mission-bcs.yaml)
+- Action: new (pass 452)
+- Precise subject: Mountain mission founded in 1699 with preserved gilded Baroque altarpiece and paintings; distinct from Sierra Gorda missions and Loreto.
+- Location check: 25.862, -111.546; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://setuesbcs.gob.mx/mision-de-san-francisco-javier-vigge-biaundo/; https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/1463.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Jalpan (MX): more exuberant facade
+  - San Ignacio (MX): comparable Baja mission
+  - Loreto (MX): greater foundational importance
+  - San Xavier del Bac (US): more ornate interior.
+- Individual scores: impact 9.0, uniqueness 9.0, significance 9.3, experience 8.9, depth 8.8.
+- Categories: architecture 9.3, history 9.4, culture 9.2, photography 9.2.
+- Overall: 90.25/100.
+- High-score challenge: Documented architectural or collection significance and distinct visitor scope support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-casa-de-los-azulejos — Casa de los Azulejos Palace and Orozco Mural — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/casa-de-los-azulejos.yaml)
+- Action: new (pass 452)
+- Precise subject: Tiled eighteenth-century palace and Orozco's 1925 Omnisciencia mural, viewed from public areas during permitted access; not a restaurant ranking.
+- Location check: 19.4346, -99.1401; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://mexicocity.cdmx.gob.mx/venues/la-casa-de-los-azulejos/; https://mexicocity.cdmx.gob.mx/venues/la-casa-de-los-azulejos/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Palacio Postal (MX): more monumental interior
+  - Casa de los Muñecos (MX): distinctive tiled facade
+  - Palacio de Iturbide (MX): more extensive exhibition depth
+  - Casa Batlló (ES): greater architectural distinction.
+- Individual scores: impact 9.1, uniqueness 9.1, significance 9.2, experience 8.9, depth 8.3.
+- Categories: architecture 9.5, photography 9.3, culture 9.2, history 9.1.
+- Overall: 90.10/100.
+- High-score challenge: Documented architectural or collection significance and distinct visitor scope support 90+; global peers constrain score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-loreto-mission-museum — Mission of Nuestra Señora de Loreto and Jesuit Missions Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/loreto-mission-museum.yaml)
+- Action: new (pass 452)
+- Precise subject: First permanent mission in the Californias established 1697, with adjacent museum interpreting eighteen missions; grouped as one complex.
+- Location check: 26.012, -111.343; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://setuesbcs.gob.mx/actividades/ruta-de-las-misiones/; https://lugares.inah.gob.mx/es/node/4508.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Javier (MX): more scenic architecture
+  - San Ignacio (MX): stronger oasis setting
+  - San Diego de Alcalá (US): related mission history
+  - Sierra Gorda missions (MX): richer facade ensemble.
+- Individual scores: impact 8.6, uniqueness 9.0, significance 9.5, experience 9.0, depth 9.1.
+- Categories: history 9.5, culture 9.3, architecture 9.0.
+- Overall: 89.90/100.
+- High-score challenge: Sub-90 reflects narrower scope or less international distinction despite local importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-palacio-de-iturbide — Palacio de Iturbide and Mexican Art Exhibitions — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/palacio-de-iturbide.yaml)
+- Action: new (pass 452)
+- Precise subject: Historic palace with monumental courtyard and changing public exhibitions of Mexican art, architecture and history.
+- Location check: 19.4339, -99.1394; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.banamex.com/compromiso-social/sedes/palacio-de-iturbide.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - National Palace (MX): greater national significance
+  - Kaluz (MX): stronger permanent collection
+  - Franz Mayer (MX): richer decorative arts
+  - Palacio Postal (MX): more distinctive engineering interiors.
+- Individual scores: impact 8.9, uniqueness 8.8, significance 9.2, experience 9.1, depth 9.0.
+- Categories: architecture 9.3, culture 9.3, history 9.3.
+- Overall: 89.75/100.
+- High-score challenge: Sub-90 reflects narrower scope or less international distinction despite local importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-san-ignacio-mission-bcs — Mission of San Ignacio Kadakaamán — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-ignacio-mission-bcs.yaml)
+- Action: new (pass 452)
+- Precise subject: Preserved mission in desert oasis with gilded altarpiece, eight paintings and historic bell.
+- Location check: 27.284, -112.898; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://setuesbcs.gob.mx/mision-de-san-ignacio-kadakaaman/; https://sitiosymonumentos.cultura.gob.mx/monumentos-inmuebles-de-propiedad-federal/san-ignacio-kadakaaman/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Javier (MX): more dramatic mountain approach
+  - Loreto (MX): foundational historical importance
+  - Jalpan (MX): more elaborate facade
+  - San Xavier del Bac (US): richer interior decoration.
+- Individual scores: impact 8.9, uniqueness 8.9, significance 9.1, experience 8.8, depth 8.6.
+- Categories: architecture 9.3, history 9.3, photography 9.2, culture 9.1.
+- Overall: 88.95/100.
+- High-score challenge: Sub-90 reflects narrower scope or less international distinction despite local importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-san-gabriel-barrera-hacienda — San Gabriel de Barrera Hacienda Museum and Gardens — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-gabriel-barrera-hacienda.yaml)
+- Action: new (pass 452)
+- Precise subject: Former silver-processing hacienda and museum with seventeen themed gardens, incorporating industrial heritage and garden design.
+- Location check: 21.006, -101.271; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.gob.mx/ficha.php?table=museo&table_id=243; https://boletines.guanajuato.gob.mx/2017/10/22/concluye-sop-rehabilitacion-del-museo-ex-hacienda-san-gabriel-barrera-guanajuato/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sotuta de Peón (MX): more developed henequen interpretation
+  - Hacienda Chautla (MX): lake and castle setting
+  - Villa d'Este (IT): greater global garden distinction
+  - Guanajuato mining heritage (MX): broader industrial scope.
+- Individual scores: impact 8.9, uniqueness 8.8, significance 8.9, experience 9.2, depth 9.1.
+- Categories: architecture 9.1, nature 9.0, history 9.2, photography 9.3, relaxation 9.1.
+- Overall: 89.40/100.
+- High-score challenge: Sub-90 reflects narrower scope or less international distinction despite local importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-casa-de-los-munecos — Casa de los Muñecos University Museum (Puebla) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/casa-de-los-munecos.yaml)
+- Action: new (pass 452)
+- Precise subject: Historic eighteenth-century tiled building housing university art and scientific collections; specific interior visit distinct from broader university district.
+- Location check: 19.0436, -98.1978; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.buap.mx/node/984; https://sic.cultura.gob.mx/ficha.php?estado_id=21&table=museo&table_id=319.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Casa de los Azulejos (MX): more extensive tile cladding
+  - Amparo (MX): broader collections
+  - Palafoxiana (MX): stronger library distinction
+  - Palacio de Iturbide (MX): more monumental court.
+- Individual scores: impact 8.8, uniqueness 8.9, significance 9.0, experience 8.9, depth 8.8.
+- Categories: architecture 9.3, culture 9.2, history 9.1, photography 9.1.
+- Overall: 88.80/100.
+- High-score challenge: Sub-90 reflects narrower scope or less international distinction despite local importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+
+
+## sight-mx-hacienda-chautla — Former Hacienda of Chautla and Lakeside Castle — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/hacienda-chautla.yaml)
+- Action: new (pass 452)
+- Precise subject: Historic estate with lakeside castle and recreational landscape. State announced ongoing rehabilitation in November 2026; normal-condition score is not confirmation of present admission.
+- Location check: 19.313, -98.486; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; source search excerpts consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.puebla.gob.mx/index.php/noticias/item/25892-impulsa-gobierno-del-estado-turismo-con-la-rehabilitacion-de-la-ex-hacienda-de-chautla; https://ventanilla.puebla.gob.mx/web/fichaAsunto.do?asas_ide_asu=2114&opcion=0&ruta=%2Fweb%2FasuntosMasUsuales.do.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Gabriel de Barrera (MX): richer mining heritage
+  - Sotuta de Peón (MX): stronger industrial interpretation
+  - Chapultepec Castle (MX): greater national significance
+  - historic lakeside estates worldwide: comparable compact recreation.
+- Individual scores: impact 8.9, uniqueness 8.6, significance 8.6, experience 8.8, depth 8.7.
+- Categories: architecture 9.0, photography 9.3, nature 8.9, relaxation 9.0.
+- Overall: 87.30/100.
+- High-score challenge: Sub-90 reflects narrower scope or less international distinction despite local importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission not independently verified.
+

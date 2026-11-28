@@ -1,0 +1,18 @@
+id: sight-mx-san-gabriel-barrera-hacienda
+name: "San Gabriel de Barrera Hacienda Museum and Gardens"
+location:
+  country_code: MX
+  latitude: 21.006
+  longitude: -101.271
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 9.2
+  depth: 9.1
+  categories:
+    architecture: 9.1
+    nature: 9.0
+    history: 9.2
+    photography: 9.3
+    relaxation: 9.1

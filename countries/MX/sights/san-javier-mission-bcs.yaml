@@ -1,0 +1,17 @@
+id: sight-mx-san-javier-mission-bcs
+name: "Mission of San Francisco Javier Viggé-Biaundó"
+location:
+  country_code: MX
+  latitude: 25.862
+  longitude: -111.546
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 8.9
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.4
+    culture: 9.2
+    photography: 9.2

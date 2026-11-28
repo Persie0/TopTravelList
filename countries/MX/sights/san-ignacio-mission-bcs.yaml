@@ -1,0 +1,17 @@
+id: sight-mx-san-ignacio-mission-bcs
+name: "Mission of San Ignacio Kadakaamán"
+location:
+  country_code: MX
+  latitude: 27.284
+  longitude: -112.898
+scores:
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.6
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.2
+    culture: 9.1
