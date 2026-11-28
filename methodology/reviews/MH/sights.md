@@ -1089,3 +1089,37 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 220 scope decisions
 
 Outer reef and channel diving excludes lagoon sailing and other atolls. No remote conservation island or Bikini duplicate. Twelve unassessed retained.
+
+## sight-mh-ailinginae-atoll — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/ailinginae-atoll.yaml) · **editorial-only** · wildlife null → 8.9/10. Remote atoll reef and seabird habitat appeal; no site-specific modern abundance data used.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-bikar-atoll — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/bikar-atoll.yaml) · **source-linked-unverified** · wildlife null → 9.5/10. November 2026 research distinguishes concentrated green turtle nesting and rich reef/seabird fauna at Bikar. Below Aldabra and Phoenix Islands for overall animal breadth.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Indexed source reviewed 2026-11-28: https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-bokak-atoll — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/bokak-atoll.yaml) · **source-linked-unverified** · wildlife null → 9.4/10. Recent marine survey supports seabird and reef ecological integrity; turtle nesting was concentrated at Bikar, not Bokak.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Indexed source reviewed 2026-11-28: https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1957660/full
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-erikub-atoll — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/erikub-atoll.yaml) · **editorial-only** · wildlife null → 8.6/10. Reef and islet wildlife interest, without assuming a large documented turtle or seabird colony.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mh-jemo-island — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MH/sights/jemo-island.yaml) · **editorial-only** · wildlife null → 8.4/10. Small island reef and nesting habitat potential; restricted geographic breadth compared with full atolls.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
