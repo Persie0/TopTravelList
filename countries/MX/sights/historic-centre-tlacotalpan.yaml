@@ -1,0 +1,17 @@
+id: sight-mx-historic-centre-tlacotalpan
+name: "Historic Centre of Tlacotalpan"
+location:
+  country_code: MX
+  latitude: 18.6135
+  longitude: -95.658
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 9.0
+  depth: 9.0
+  categories:
+    architecture: 9.3
+    history: 9.3
+    photography: 9.2
+    culture: 9.1

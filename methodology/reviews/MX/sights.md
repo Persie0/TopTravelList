@@ -10336,3 +10336,257 @@ Institutional source descriptions consulted for all ten candidates. Individual b
 - Earlier decision: none.
 - Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
 
+## Pass 443 — Sacred landscapes and living cultural heritage
+
+Sources consulted through UNESCO, INAH and government cultural or tourism pages. The Wixárika route is a heritage property, not a public pilgrimage product; only a public gateway coordinate is used. Private religious and family rituals are not assumed accessible. Seasonal festival scores cover typical documented public programming rather than guaranteed attendance. Coordinates remain approximate. Ranking rows rendered using equivalent JavaScript rules; full Python validator, ranking generator and numerical benchmark checks not executed.
+
+## sight-mx-wixarika-sacred-route — Wixárika Route through Sacred Sites to Wirikuta (Tatehuarí Huajuyé) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/wixarika-sacred-route.yaml)
+- Action: new
+- Precise subject: Twenty-component UNESCO cultural landscape; representative pin at public gateway Real de Catorce, not a sacred site or invitation to enter. Assess public interpretation and authorized landscape visits only.
+- Location check: 23.6895, -100.8874; public gateway proxy, not sacred site; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/1704/; https://whc.unesco.org/en/decisions/8965; https://lugares.inah.gob.mx/en/node/6357.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kumano Kodo (JP): more established public pilgrim trails
+  - Camino de Santiago (ES): much broader public visitor infrastructure
+  - Uluru (AU): similarly important Indigenous sacred landscape with restrictions
+  - Peña de Bernal (MX): more focused sacred landscape
+- Individual scores:
+  - impact: 9.1 — Varied mountain and desert sacred landscapes.
+  - uniqueness: 9.7 — Rare continuing pre-Columbian pilgrimage network.
+  - significance: 9.7 — Exceptional living biocultural heritage documented by UNESCO.
+  - experience: 7.9 — Public interpretation possible but private rituals not credited as tourist access.
+  - depth: 9.4 — Twenty component parts over 500 km across five states.
+- Categories: culture 9.7, history 9.5, nature 9.2.
+- Overall: 92.20/100.
+- High-score challenge: Uniqueness, significance and culture 9.7 and history 9.5 reflect UNESCO documentation of continuing pre-Columbian route traditions and the integrated landscape. Respect community decisions and do not promote ritual attendance or peyote tourism. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-iztapalapa-passion — Iztapalapa Holy Week Passion Representation — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/iztapalapa-passion.yaml)
+- Action: new
+- Precise subject: Public community-led Holy Week performances, not all Iztapalapa religious observances.
+- Location check: 19.357, -99.09; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://ich.unesco.org/en/RL/representation-of-the-passion-death-and-resurrection-of-christ-in-iztapalapa-02237; https://ich.unesco.org/en/Decisions/20.COM/7.b.32.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Oberammergau Passion Play (DE): more formal theatre and decennial cycle
+  - Semana Santa Seville (ES): broader processional tradition
+  - Passion Play of Sordevolo (IT): smaller staged production
+  - Huejotzingo Carnival (MX): different historical reenactment
+- Individual scores:
+  - impact: 9.3 — Large community performance and processions.
+  - uniqueness: 9.2 — Distinctive local representation tradition.
+  - significance: 9.5 — UNESCO inscription in 2025 and sustained community transmission.
+  - experience: 9.2 — Multiple public performances and ceremonial settings.
+  - depth: 9.1 — Several days of associated performances.
+- Categories: culture 9.5, history 9.3, photography 9.2.
+- Overall: 92.80/100.
+- High-score challenge: Significance and culture 9.5 reflect documented community transmission and exceptional scope; not a guarantee of an exact annual attendance figure. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-zapopan-romeria — Zapopan Romería and Virgin Procession — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/zapopan-romeria.yaml)
+- Action: new
+- Precise subject: October 12 public procession and associated ritual cycle; excludes unrelated basilica visits and Guadalajara's wider festivals.
+- Location check: 20.721, -103.391; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://ich.unesco.org/en/RL/la-romeria-the-pilgrimage-ritual-cycle-of-la-llevada-the-carrying-of-the-virgin-of-zapopan-01400?RL=01400; https://www.gob.mx/sre/prensa/unesco-names-virgin-of-zapopan-pilgrimage-intangible-cultural-heritage.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Rocío pilgrimage (ES): comparable Marian ritual
+  - Lourdes (FR): wider pilgrimage infrastructure
+  - Basilica of Guadalupe (MX): greater national pilgrimage significance
+  - Parachicos (MX): different regional dance festival
+- Individual scores:
+  - impact: 9.2 — Large procession with music and dance.
+  - uniqueness: 9.2 — Distinctive regional ritual cycle.
+  - significance: 9.5 — Documented tradition dating to 1734, UNESCO inscription 2018.
+  - experience: 9.1 — Public respectful observation of procession.
+  - depth: 9.0 — Multiple community arts and ceremonial stages.
+- Categories: culture 9.5, history 9.3, photography 9.1.
+- Overall: 92.25/100.
+- High-score challenge: Significance and culture 9.5 based on documented centuries-old ritual cycle and multiple traditional arts. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-mixquic-day-of-dead — San Andrés Mixquic Day of the Dead and Alumbrada — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mixquic-day-of-dead.yaml)
+- Action: new
+- Precise subject: Specific public local observance and cemetery illumination, distinct from Pátzcuaro and Janitzio; private mourning and family rites not visitor attractions.
+- Location check: 19.225, -98.964; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://mexicocity.cdmx.gob.mx/e/dia-de-muertos-en-la-ciudad-de-mexico/?lang=en; https://mexicocity.cdmx.gob.mx/venues/san-andres-mixquic/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Pátzcuaro and Janitzio (MX): broader lake setting and heritage
+  - Oaxaca Day of the Dead (MX): broader city events
+  - Todos Santos celebrations (GT): different regional commemoration
+  - Obon (JP): comparable ancestral remembrance with different customs
+- Individual scores:
+  - impact: 9.4 — Thousands of candles and decorated graves.
+  - uniqueness: 9.1 — Distinctive local expression of a wider tradition.
+  - significance: 9.2 — Longstanding community commemoration.
+  - experience: 9.1 — Respectful public observation where permitted.
+  - depth: 8.6 — Focused seasonal observance and public community activities.
+- Categories: culture 9.4, photography 9.4, history 9.1.
+- Overall: 91.60/100.
+- High-score challenge: 90+ reflects the documented distinctive candlelit public observance; no claim of unrestricted cemetery photography. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-cumbre-tajin — Cumbre Tajín Festival (Takilhsukut Park) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cumbre-tajin.yaml)
+- Action: new
+- Precise subject: Public festival programme including arts, dance, craft workshops and food; excludes separately ranked El Tajín ruins and Voladores as independent attractions.
+- Location check: 20.455, -97.371; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://www.veracruz.gob.mx/2026/03/20/inicia-cumbre-tajin-2026-con-una-amplia-oferta-cultural-y-acceso-gratuito/; https://www.veracruz.gob.mx/2026/03/17/cai-espacio-central-de-saberes-y-tradicion-en-cumbre-tajin/; https://sic.gob.mx/ficha.php?disciplina=&table=festival&table_id=203.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Guelaguetza (MX): stronger established regional dance showcase
+  - WOMAD (GB): more internationally diverse music
+  - Smithsonian Folklife Festival (US): broader international crafts
+  - Cervantino (MX): wider performing arts programme
+- Individual scores:
+  - impact: 9.0 — Varied live arts and cultural displays.
+  - uniqueness: 9.1 — Distinctive Totonac-led heritage programme.
+  - significance: 9.1 — Important regional transmission of living heritage.
+  - experience: 9.3 — Participatory public workshops and performances.
+  - depth: 9.3 — Several days and multiple forms of cultural expression.
+- Categories: culture 9.4, food 9.1, photography 9.1.
+- Overall: 91.20/100.
+- High-score challenge: 90+ supported by documented public festival programming in 2026; no claim of medical efficacy for traditional therapies or access to private rituals. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-noche-de-rabanos — Oaxaca Noche de Rábanos (Night of the Radishes) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/noche-de-rabanos.yaml)
+- Action: new
+- Precise subject: December 23 ephemeral sculpture competition in Oaxaca's central square, separate from Guelaguetza and the general historic centre.
+- Location check: 17.06, -96.725; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?disciplina=&table=festividad&table_id=118; https://visitmexico.com/es/actividad/832; https://www.oaxaca.gob.mx/comunicacion/cautiva-120-edicion-de-la-tradicional-noche-de-rabanos/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sapporo Snow Festival (JP): larger sculpture event
+  - Flower Carpet Brussels (BE): larger floral installation
+  - Huamantla Night Carpets (MX): comparable ephemeral craft
+  - Uruapan Artisan Fair (MX): wider craft scope
+- Individual scores:
+  - impact: 9.1 — Elaborate radish and plant-material sculptures.
+  - uniqueness: 9.5 — Rare specific artistic medium and festive tradition.
+  - significance: 9.0 — Documented competition since 1897.
+  - experience: 9.0 — Public viewing of temporary displays.
+  - depth: 8.3 — Focused single-day event.
+- Categories: culture 9.3, photography 9.4.
+- Overall: 90.85/100.
+- High-score challenge: Uniqueness 9.5 reflects the unusual radish-carving competition and specific longstanding public event, not an unsupported world-first claim. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-san-juan-de-los-lagos-pilgrimage — San Juan de los Lagos Basilica and Candelaria Pilgrimage — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-juan-de-los-lagos-pilgrimage.yaml)
+- Action: new
+- Precise subject: Marian basilica and public Candelaria pilgrimage observances; not Zapopan or Guadalupe.
+- Location check: 21.247, -102.332; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=frpintangible&table_id=16; https://secturjal.jalisco.gob.mx/nuestro-estado/turismo-religioso.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Lourdes (FR): greater international pilgrimage scope
+  - Fátima (PT): internationally recognized Marian pilgrimage
+  - Guadalupe (MX): greater national significance
+  - Zapopan (MX): distinctive ritual cycle
+- Individual scores:
+  - impact: 9.0 — Historic sanctuary and major pilgrimage gatherings.
+  - uniqueness: 8.9 — Comparable Marian pilgrimage traditions elsewhere.
+  - significance: 9.4 — Important longstanding religious and social heritage.
+  - experience: 9.1 — Public respectful observation and architecture.
+  - depth: 8.9 — Sanctuary and associated pilgrimage practices.
+- Categories: culture 9.4, history 9.3, architecture 9.1.
+- Overall: 90.60/100.
+- High-score challenge: 90+ supported by documented longstanding pilgrimage network and major regional sanctuary, not treating tourism board annual estimates as a single event count. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-tlacotalpan-jaraneros — Tlacotalpan Encuentro de Jaraneros y Decimistas — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tlacotalpan-jaraneros.yaml)
+- Action: new
+- Precise subject: Public son jarocho music and verse programme during Candelaria; excludes general townscape and other festival events.
+- Location check: 18.614, -95.658; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=festival&table_id=227; https://catalogoradioeducacion.cultura.gob.mx/series/encuentro-de-jaraneros/; https://sic.cultura.gob.mx/ficha.php?table=otra_declaratoria&table_id=74.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Festival de Jerez (ES): different regional music and dance
+  - WOMAD (GB): wider musical genres
+  - Guadalajara Mariachi Festival (MX): broader international programme
+  - Guelaguetza (MX): wider regional dance showcase
+- Individual scores:
+  - impact: 8.9 — Live traditional music and dance.
+  - uniqueness: 9.2 — Distinctive regional improvised verse and fandango.
+  - significance: 9.2 — Documented festival dating to 1979 and musical archive.
+  - experience: 9.2 — Public performances and communal musical encounters.
+  - depth: 8.7 — Several days of musical events.
+- Categories: culture 9.4, photography 8.9.
+- Overall: 90.60/100.
+- High-score challenge: 90+ reflects specific recurring music and verse festival, not all Candelaria activities. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-historic-centre-tlacotalpan — Historic Centre of Tlacotalpan — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/historic-centre-tlacotalpan.yaml)
+- Action: new
+- Precise subject: UNESCO-inscribed colonial river-port urban fabric, separate from seasonal music festival.
+- Location check: 18.6135, -95.658; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; institutional descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/862/; https://whc.unesco.org/en/list/862/maps/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Historic Bridgetown (BB): broader military and port heritage
+  - Campeche (MX): stronger fortifications
+  - Cartagena (CO): more monumental historic city
+  - Colonia del Sacramento (UY): comparable smaller historic port
+- Individual scores:
+  - impact: 8.9 — Colourful low-rise arcaded streets and riverfront.
+  - uniqueness: 9.1 — Distinctive Caribbean-influenced town planning.
+  - significance: 9.3 — Exceptional preservation of historic colonial urban fabric.
+  - experience: 9.0 — Townscape walks and architectural appreciation.
+  - depth: 9.0 — Multiple streets, plazas and riverfront areas.
+- Categories: architecture 9.3, history 9.3, photography 9.2, culture 9.1.
+- Overall: 90.55/100.
+- High-score challenge: 90+ supported by UNESCO's documented exceptional urban fabric; festival performances not counted in this score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-panteon-de-belen — Panteón de Belén Cemetery Museum (Guadalajara) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/panteon-de-belen.yaml)
+- Action: new
+- Precise subject: Historic funerary architecture and museum interpretation, not wider Guadalajara.
+- Location check: 20.688, -103.348; approximate representative location; independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; overview consulted; subjective editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1611.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Recoleta (AR): larger iconic cemetery
+  - Père Lachaise (FR): broader historical associations
+  - Staglieno (IT): more extensive sculpture
+  - Panteón de Dolores (MX): larger urban cemetery
+- Individual scores:
+  - impact: 8.7 — Ornate funerary monuments.
+  - uniqueness: 8.7 — Comparable historic cemetery ensembles.
+  - significance: 8.8 — Regional civic history.
+  - experience: 8.6 — Focused guided interpretation.
+  - depth: 8.4 — Compact cemetery scope.
+- Categories: architecture 9.0, history 9.0, photography 8.8.
+- Overall: 86.75/100.
+- High-score challenge: Provisional sub-90 overview rating; no paranormal claims credited. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
