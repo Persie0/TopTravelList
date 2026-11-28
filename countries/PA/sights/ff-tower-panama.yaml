@@ -1,0 +1,15 @@
+id: sight-pa-ff-tower-panama
+name: "F&F Tower Architectural Landmark"
+location:
+  country_code: PA
+  latitude: 8.983
+  longitude: -79.5185
+scores:
+  impact: 8.5
+  uniqueness: 9.0
+  significance: 8.3
+  experience: 7.2
+  depth: 6.9
+  categories:
+    architecture: 9.3
+    photography: 9.0
