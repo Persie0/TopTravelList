@@ -1,0 +1,16 @@
+id: sight-bz-baking-pot
+name: "Baking Pot Archaeological Site"
+location:
+  country_code: BZ
+  latitude: 17.20306
+  longitude: -89.01944
+scores:
+  impact: 7.1
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 6.8
+  depth: 7.9
+  categories:
+    history: 9.0
+    culture: 8.5
+    architecture: 7.8

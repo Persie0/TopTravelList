@@ -1,0 +1,16 @@
+id: sight-bz-tiger-cave
+name: "Tiger Cave (Tich Hulz)"
+location:
+  country_code: BZ
+  latitude: 16.32189
+  longitude: -88.93843
+scores:
+  impact: 8.1
+  uniqueness: 8.5
+  significance: 8.4
+  experience: 8.0
+  depth: 8.1
+  categories:
+    adventure: 8.8
+    nature: 8.6
+    history: 8.4

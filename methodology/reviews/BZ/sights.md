@@ -2373,3 +2373,203 @@ Nine additions, one researched fact-checked high-score decision and eight provis
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: complete independent fact-check, current access, precise geographic scope and worldwide Python diagnostics.
+
+## sight-bz-anderson-lagoon-bioluminescence — Anderson Lagoon Bioluminescence Night Cruise — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/anderson-lagoon-bioluminescence.yaml)
+- Action: new
+- Precise subject: Seasonal natural dinoflagellate glow and associated night river cruise; not guaranteed brightness or a year-round phenomenon.
+- Location check: 16.8, -88.266667; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed descriptions and selected map pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or map pages): https://www.travelbelize.org/attraction/bioluminescence-tour/; https://www.fodors.com/world/mexico-and-central-america/belize/the-southern-coast/things-to-do/sights?pois=746539; https://geographic.org/geographic_names/name.php?c=belize&fid=574&uni=-1694009.
+- Worldwide peers (qualitative, not independently refetched):
+  - Mosquito Bay (PR): more internationally iconic bioluminescent bay
+  - Laguna Grande (PR): similarly seasonal night water experience
+  - Luminous Lagoon (JM): analogous microbial glow
+  - Waitomo (NZ): different but more enduring biological light spectacle
+- Individual scores:
+  - impact: 8.9 — Blue light in moving water has high sensory impact.
+  - uniqueness: 8.9 — Natural glowing water is uncommon but has international peers.
+  - significance: 7.8 — Interesting biological phenomenon without established globally exceptional ecological status.
+  - experience: 9.0 — Night boat observation provides rewarding immersive encounter.
+  - depth: 7.8 — Single seasonal phenomenon limits breadth.
+- Categories: nature 9.1, photography 8.6, adventure 8.5.
+- Overall: 85.85/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current access and worldwide Python checks.
+
+## sight-bz-tobacco-caye — Tobacco Caye Island and Shore Snorkeling — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/tobacco-caye.yaml)
+- Action: new
+- Precise subject: Tiny inhabited cay, shore reef and island atmosphere; excludes full South Water Caye Marine Reserve and lodging quality.
+- Location check: 16.8983, -88.0617; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed descriptions and selected map pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or map pages): https://www.tobaccocaye.com/activities; https://www.reefsendlodge.com/faq; https://mapcarta.com/Tobacco_Caye.
+- Worldwide peers (qualitative, not independently refetched):
+  - Aitutaki (CK): much broader lagoon landscape
+  - Gili Air (ID): larger island experience
+  - Koh Kradan (TH): comparable shore reef
+  - Goff’s Caye (BZ): similar small island with less overnight depth
+- Individual scores:
+  - impact: 8.6 — Palm-fringed reef island provides memorable scenery.
+  - uniqueness: 8.3 — Immediate shore snorkeling adds distinction.
+  - significance: 7.7 — Local reef setting has ecological importance, not the entire reserve's significance.
+  - experience: 8.8 — Swimming, paddling and reef viewing are engaging.
+  - depth: 8.0 — Small island limits independent exploration.
+- Categories: beaches 8.8, nature 8.8, relaxation 9.0, wildlife 8.7.
+- Overall: 83.15/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current access and worldwide Python checks.
+
+## sight-bz-tiger-cave — Tiger Cave (Tich Hulz) — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/tiger-cave.yaml)
+- Action: new
+- Precise subject: San Miguel cave and forest approach; not Blue Creek Cave or a guaranteed open visitor route. Mapped access requires permission.
+- Location check: 16.32189, -88.93843; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed descriptions and selected map pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or map pages): https://www.travelbelize.org/blog/9-mystical-caves-explore-belize/; https://www.showcaves.com/english/bz/caves/Tiger.html; https://mapcarta.com/N6952903603.
+- Worldwide peers (qualitative, not independently refetched):
+  - Son Doong (VN): vastly greater cavern scale
+  - Candelaria Caves (GT): larger underground landscape
+  - Eisriesenwelt (AT): exceptional ice features
+  - Blue Creek (BZ): comparable forest cave context
+- Individual scores:
+  - impact: 8.1 — Forest approach and cave interior create strong natural atmosphere.
+  - uniqueness: 8.5 — Remote cave with Maya context is distinctive.
+  - significance: 8.4 — Regional speleological and cultural interest supports significance.
+  - experience: 8.0 — Guided exploration has intrinsic adventure merit without assuming access.
+  - depth: 8.1 — Forest and cave form a substantial outing.
+- Categories: adventure 8.8, nature 8.6, history 8.4.
+- Overall: 82.45/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current access and worldwide Python checks.
+
+## sight-bz-san-antonio-womens-cooperative — San Antonio Maya Women's Cooperative Cultural Experience — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/san-antonio-womens-cooperative.yaml)
+- Action: new
+- Precise subject: Cayo village cooperative's hands-on Maya pottery, food and cultural interpretation; not Toledo's San Antonio or the entire village. Coordinates are village representative.
+- Location check: 17.07861, -89.02361; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed descriptions and selected map pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or map pages): https://cayoadventuretours.com/tours/p/san-antonio-womens-group; https://www.mayawalk.com/belize-cultural-tours/; https://openadmindata.org/bz/localities/san-antonio-bz02l013/.
+- Worldwide peers (qualitative, not independently refetched):
+  - Living Maya Museum at San Juan La Laguna (GT): larger village artisan network
+  - Teotitlán del Valle weaving workshops (MX): specialist textile traditions
+  - Tenganan weaving (ID): distinct living craft heritage
+  - Warasa Garifuna Drum School (BZ): comparable participatory heritage
+- Individual scores:
+  - impact: 7.7 — Intimate craft and food learning has meaningful personal impact.
+  - uniqueness: 8.4 — Community-led Maya knowledge is distinctive.
+  - significance: 8.5 — Living cultural transmission is important without claiming unique global status.
+  - experience: 8.8 — Participation in traditional crafts and cuisine creates strong engagement.
+  - depth: 8.1 — Multiple cultural practices offer breadth.
+- Categories: culture 9.1, food 8.7, history 8.4.
+- Overall: 82.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current access and worldwide Python checks.
+
+## sight-bz-ixcacao-san-felipe — IXCACAO San Felipe Maya Chocolate Experience — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/ixcacao-san-felipe.yaml)
+- Action: new
+- Precise subject: Named Maya-owned farm-to-bean chocolate producer and traditional cacao interpretation, not Punta Gorda Chocolate Festival or all Toledo cacao farms.
+- Location check: 16.13381, -88.90711; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed descriptions and selected map pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or map pages): https://bmdc.bz/ixcacao-mayan-belizean-chocolate/; https://belizetravelinsider.com/plan-your-trip/rural-tourism/ixcacao-chocolate; https://mapcarta.com/N2129518749.
+- Worldwide peers (qualitative, not independently refetched):
+  - Hacienda La Danesa cacao experience (EC): different farm context
+  - ChocoMuseo Antigua (GT): more museum-oriented chocolate learning
+  - La Chonita cacao estate (MX): comparable cacao heritage
+  - Punta Gorda Chocolate Festival (BZ): broader seasonal event
+- Individual scores:
+  - impact: 7.6 — Hands-on traditional cacao processing is memorable.
+  - uniqueness: 8.3 — Maya family production and stone grinding add distinctiveness.
+  - significance: 8.3 — Local agricultural and culinary continuity supports cultural significance.
+  - experience: 8.7 — Learning and tasting make an active visit.
+  - depth: 8.0 — Farm-to-bean process offers several learning stages.
+- Categories: food 9.1, culture 8.9, history 8.2.
+- Overall: 81.20/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current access and worldwide Python checks.
+
+## sight-bz-ranguana-caye — Ranguana Caye Island and Reef Snorkeling — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/ranguana-caye.yaml)
+- Action: new
+- Precise subject: Private cay beach and adjacent snorkeling, not full barrier reef or accommodation. Coordinates follow island locator and mooring vicinity rather than inconsistent booking-page coordinates.
+- Location check: 16.3325, -88.15111; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed descriptions and selected map pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or map pages): https://www.ranguanacaye.com/; https://www.ranguanacaye.com/moorings; https://aroundus.com/p/5022798-ranguana-caye.
+- Worldwide peers (qualitative, not independently refetched):
+  - Aitutaki (CK): much larger lagoon and island diversity
+  - Koh Kradan (TH): comparable tropical beach and snorkeling
+  - Cayo Blanco (CU): similar small island outing
+  - Goff’s Caye (BZ): similar day-trip scope
+- Individual scores:
+  - impact: 8.5 — Small sand island and clear reef water are visually strong.
+  - uniqueness: 7.9 — Private tropical islet experience has numerous peers.
+  - significance: 7.3 — Limited independent conservation or cultural significance is established.
+  - experience: 8.6 — Shore snorkeling and relaxation provide rewarding activity.
+  - depth: 7.5 — Tiny island and adjacent reef constrain depth.
+- Categories: beaches 8.9, relaxation 8.9, nature 8.5, wildlife 8.4.
+- Overall: 80.25/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current access and worldwide Python checks.
+
+## sight-bz-marco-gonzalez — Marco Gonzalez Archaeological Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/marco-gonzalez.yaml)
+- Action: new
+- Precise subject: Coastal Maya trade settlement and archaeological deposits, not San Pedro or monumental inland temples. Current public access not established.
+- Location check: 17.88164, -88.01452; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed descriptions and selected map pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or map pages): https://www.tandfonline.com/doi/full/10.1080/00438243.2026.2615726; https://mapcarta.com/W678302062; https://discovery.ucl.ac.uk/id/eprint/10130816/1/gea.21868.pdf.
+- Worldwide peers (qualitative, not independently refetched):
+  - Tulum (MX): substantially stronger visible coastal architecture
+  - Quiriguá (GT): greater monumental sculpture
+  - Joya de Cerén (SV): stronger preserved domestic remains
+  - Cerros (BZ): more visible coastal monumental heritage
+- Individual scores:
+  - impact: 7.2 — Low-profile archaeological remains offer less visual spectacle.
+  - uniqueness: 8.5 — Coastal trade and settlement context is distinctive.
+  - significance: 8.9 — Research into maritime exchange and occupation supports historical significance.
+  - experience: 7.1 — Interpretation rather than grand architecture drives visitor reward.
+  - depth: 7.8 — Multiple occupation phases add interpretive depth.
+- Categories: history 9.1, culture 8.6, architecture 7.5.
+- Overall: 79.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current access and worldwide Python checks.
+
+## sight-bz-baking-pot — Baking Pot Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/baking-pot.yaml)
+- Action: new
+- Precise subject: Maya political center on the Belize River, not Lower Dover. Representative published coordinates are provisional because online maps conflict; current public access not established.
+- Location check: 17.20306, -89.01944; approximate representative point, not verified entrance or route.
+- Evidence status: source-linked-unverified; indexed descriptions and selected map pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or map pages): https://www.cambridge.org/core/journals/ancient-mesoamerica/article/patterns-of-residential-differentiation-and-labor-control-at-baking-pot-and-lower-dover-in-the-belize-river-valley/8ED9F56256FDD917E867547DCF9372A4; https://www.cambridge.org/core/journals/radiocarbon/article/building-highprecision-ams-14c-bayesian-models-for-the-formation-of-periabandonment-deposits-at-baking-pot-belize/5AD8A67D85A322C96BA097FC96776290; https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Baking_Pot.html.
+- Worldwide peers (qualitative, not independently refetched):
+  - Tikal (GT): much greater monumental city
+  - Copán (HN): more exceptional visible sculptural heritage
+  - Joya de Cerén (SV): more distinctive preserved domestic context
+  - Cahal Pech (BZ): better established visitor presentation
+- Individual scores:
+  - impact: 7.1 — Archaeological landscape is compelling but less visually monumental.
+  - uniqueness: 8.2 — Research-rich river valley political center has distinctive context.
+  - significance: 8.8 — Long occupation and excavated settlement support importance.
+  - experience: 6.8 — No established extensive visitor presentation assumed.
+  - depth: 7.9 — Urban and residential archaeology offer interpretive depth.
+- Categories: history 9.0, culture 8.5, architecture 7.8.
+- Overall: 77.50/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, current access and worldwide Python checks.

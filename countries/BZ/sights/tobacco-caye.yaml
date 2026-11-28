@@ -1,0 +1,17 @@
+id: sight-bz-tobacco-caye
+name: "Tobacco Caye Island and Shore Snorkeling"
+location:
+  country_code: BZ
+  latitude: 16.8983
+  longitude: -88.0617
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.7
+  experience: 8.8
+  depth: 8.0
+  categories:
+    beaches: 8.8
+    nature: 8.8
+    relaxation: 9.0
+    wildlife: 8.7
