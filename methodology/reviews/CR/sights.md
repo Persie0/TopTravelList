@@ -1946,3 +1946,207 @@ The proposed standalone record was withdrawn after the follow-up component check
 ### Pass 328 scope decisions
 
 11 retained provisional additions (6 source-linked, 5 desk-based), 4 90+, 22 retained ranking-row comparisons (11 international, 11 domestic). CR 97 ranked / 97 total, +35 since baseline 62; 13 new 90+ across three passes. Pavones, Grand Gala Parade, Nicoya annexation and Chorotega pottery researched. August Grand Gala Parade distinct from October carnival; Chorotega pottery regional intangible designation, not UNESCO listing; workshops/ecomuseum grouped. Barva public masquerade and Tarcoles boat wildlife sourced. Hitoy Cerere withdrawn after IUCN and UNEP-WCMC confirmation of its inclusion in the existing Talamanca-La Amistad property; distinct visitor scope deferred (https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/talamanca-range-la-amistad-reserves-la-amistad-national-park/ ; https://portals.iucn.org/library/efiles/documents/PAG-007.pdf). Previous UNESCO 4 inscribed and 1 tentative represented; full component boundary audit pending. Prior Envision and Bat Islands deferrals retained. Costa Rica OPEN; existing baseline scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+## sight-cr-nicoya-virgen-guadalupe-yeguita — Nicoya Virgen de Guadalupe Festivities and La Yegüita Public Dance — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/nicoya-virgen-guadalupe-yeguita.yaml)
+- Action: new
+- Scope: Annual December religious and Chorotega-influenced public cultural traditions, distinct from July annexation festivities; dance and associated public programme grouped. National intangible designation documented; UNESCO nomination initiative not inscription. Community permission and private rites respected.
+- Representative coordinates: 10.146, -85.451; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://si.cultura.cr/es/expresiones-y-manifestaciones/festividad-de-nuestra-senorita-virgen-de-guadalupe-en-nicoya ; https://si.cultura.cr/es/expresiones-y-manifestaciones/baile-la-yeguita ; https://acontecer.uned.ac.cr/iniciativa-busca-que-tradicion-nicoyana-sea-reconocida-como-patrimonio-cultural-inmaterial-de-la-humanidad/
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.4 / 9.0 / 9.1.
+- Categories: culture:9.4 history:9.3 photography:9.0.
+- Overall: 91.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/nicoya-annexation-festival](../../../countries/CR/sights/nicoya-annexation-festival.yaml) | 9.0 / 9.1 / 9.3 / 9.1 / 9.0 | impact: 0.0; uniqueness: 0.2 vs peer |
+| [CL/andacollo-rosary-festival](../../../countries/CL/sights/andacollo-rosary-festival.yaml) | 9.2 / 9.3 / 9.5 / 9.1 / 9.2 | impact: -0.2; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-pacuare-reserve-leatherback — Pacuare Reserve Supervised Leatherback Turtle Nesting and Conservation Experience — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/pacuare-reserve-leatherback.yaml)
+- Action: new
+- Scope: Coastal conservation reserve between Tortuguero and Limón with supervised nesting census participation, distinct from inland river rafting and Ostional olive ridley mass nesting. No nighttime independent beach access, photography during census, or guaranteed animal encounters.
+- Representative coordinates: 10.195, -83.275; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.pacuarereserve.org/ ; https://www.pacuarereserve.org/activities ; https://www.pacuarereserve.org/arrival-information ; https://ict.go.cr/flipbook/guias/flip-en/GUIA_CARIBE/files/basic-html/page96.html
+- Core I/U/S/E/D: 9.1 / 9.2 / 9.3 / 8.9 / 9.0.
+- Categories: wildlife:9.4 nature:9.3 adventure:9.0.
+- Overall: 91.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/ostional-arribada](../../../countries/CR/sights/ostional-arribada.yaml) | 9.4 / 9.6 / 9.3 / 9.1 / 8.6 | impact: -0.3; uniqueness: -0.4 vs peer |
+| [CL/punihuil-penguin-islets](../../../countries/CL/sights/punihuil-penguin-islets.yaml) | 9.0 / 9.3 / 8.9 / 9.0 / 8.6 | impact: 0.1; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-isla-san-lucas-national-park — Isla San Lucas National Park Former Prison and Island Heritage Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/isla-san-lucas-national-park.yaml)
+- Action: new
+- Scope: Former prison architectural remains and designated island trails grouped. SINAC confirms national park status since 2020 and maritime access; no entry into closed buildings assumed.
+- Representative coordinates: 9.943, -84.906; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.sinac.go.cr/ES/ac/acopac/pnisl/Paginas/default.aspx ; https://www.sinac.go.cr/ES/ac/acopac/pnisl/Paginas/comollegar.aspx
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.1 / 8.6 / 8.7.
+- Categories: history:9.3 nature:9.1 culture:9.1 photography:9.0.
+- Overall: 88.15/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/guayabo-national-monument](../../../countries/CR/sights/guayabo-national-monument.yaml) | 8.0 / 8.4 / 8.9 / 8.3 / 8.0 | impact: 0.7; uniqueness: 0.5 vs peer |
+| [CL/fuerte-bulnes](../../../countries/CL/sights/fuerte-bulnes.yaml) | 8.6 / 8.7 / 9.0 / 8.5 / 8.6 | impact: 0.1; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-paquera-bioluminescence — Paquera Gulf of Nicoya Guided Nocturnal Bioluminescence Kayaking — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/paquera-bioluminescence.yaml)
+- Action: new
+- Scope: Specific nighttime marine-light phenomenon on Paquera waters, not Curú terrestrial trails or Tortuga beach excursion. Visibility depends on plankton, darkness and water conditions.
+- Representative coordinates: 9.835, -84.926; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.visitcostarica.com/planning-your-trip/other-activities/bahia-rica-adventures ; https://www.visitcostarica.com/planning-your-trip/climate
+- Core I/U/S/E/D: 9.1 / 9.0 / 8.4 / 9.1 / 8.2.
+- Categories: nature:9.3 adventure:9.2 photography:8.8.
+- Overall: 88.45/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/isla-tortuga](../../../countries/CR/sights/isla-tortuga.yaml) | 8.8 / 8.5 / 8.0 / 9.0 / 8.4 | impact: 0.3; uniqueness: 0.5 vs peer |
+| [CL/rapa-nui-scuba-diving](../../../countries/CL/sights/rapa-nui-scuba-diving.yaml) | 9.3 / 9.3 / 8.9 / 9.2 / 8.7 | impact: -0.2; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-bajos-del-toro-waterfalls — Bajos del Toro Catarata del Toro and Blue Falls Visitor Circuit — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/bajos-del-toro-waterfalls.yaml)
+- Action: new
+- Scope: Named nearby waterfall circuit, grouped rather than individually scoring adjacent falls; not Río Celeste or La Paz. Designated trails and viewpoints only.
+- Representative coordinates: 10.204, -84.296; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.visitcostarica.com/things-to-do/waterfalls ; https://www.visitcostarica.com/blog/10-adventures-you-can-only-have-costa-rica
+- Core I/U/S/E/D: 9.1 / 8.9 / 8.2 / 8.8 / 8.6.
+- Categories: nature:9.3 photography:9.4 adventure:9.1.
+- Overall: 87.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/nauyaca-waterfalls](../../../countries/CR/sights/nauyaca-waterfalls.yaml) | 8.9 / 8.6 / 7.2 / 8.8 / 7.6 | impact: 0.2; uniqueness: 0.3 vs peer |
+| [CL/radal-siete-tazas-national-park](../../../countries/CL/sights/radal-siete-tazas-national-park.yaml) | 8.9 / 8.9 / 8.4 / 8.9 / 8.5 | impact: 0.2; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-san-ramon-entrada-santos — San Ramón Entrada de los Santos Public Religious Procession — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/san-ramon-entrada-santos.yaml)
+- Action: new
+- Scope: Longstanding August 31 public procession of parish saints, distinct from Cartago pilgrimage and same-date Limón parade; private religious rites excluded.
+- Representative coordinates: 10.088, -84.471; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://si.cultura.cr/es/expresiones-y-manifestaciones/fiesta-patronal-entrada-de-los-santos
+- Core I/U/S/E/D: 8.7 / 8.9 / 9.0 / 8.8 / 8.7.
+- Categories: culture:9.3 history:9.1 photography:9.0.
+- Overall: 88.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/cartago-romeria](../../../countries/CR/sights/cartago-romeria.yaml) | 9.0 / 9.1 / 9.4 / 9.2 / 9.0 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [CL/andacollo-rosary-festival](../../../countries/CL/sights/andacollo-rosary-festival.yaml) | 9.2 / 9.3 / 9.5 / 9.1 / 9.2 | impact: -0.5; uniqueness: -0.4 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-lake-arenal-windsurfing — Lake Arenal Western Shore Windsurfing and Reservoir Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/lake-arenal-windsurfing.yaml)
+- Action: new
+- Scope: Specific reservoir wind sports and designated western shore experience, separate from Arenal volcano terrestrial park. Wind and conditions not guaranteed.
+- Representative coordinates: 10.543, -84.943; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.visitcostarica.com/where-to-go/northern-plains/tourist-attractions-in-northern-plains ; https://www.visitlafortunacr.com/en/atracciones/lago-arenal
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.3 / 9.0 / 8.5.
+- Categories: adventure:9.3 nature:9.1 photography:9.1.
+- Overall: 86.75/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/pavones-surfing](../../../countries/CR/sights/pavones-surfing.yaml) | 9.3 / 9.4 / 8.9 / 9.2 / 8.7 | impact: -0.5; uniqueness: -0.7 vs peer |
+| [CL/punta-de-lobos-surf](../../../countries/CL/sights/punta-de-lobos-surf.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 8.7 | impact: -0.4; uniqueness: -0.6 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-san-jose-crfic — San José Costa Rica International Film Festival Public Screening Programme — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/san-jose-crfic.yaml)
+- Action: new
+- Scope: Public film screenings of CRFIC, not private industry activities; geographic point representative of San José edition, not a permanent venue or promise of future edition. Official archive covers editions through 2025.
+- Representative coordinates: 9.935, -84.079; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.centrodecine.go.cr/programas/costa-rica-festival-internacional-cine
+- Core I/U/S/E/D: 8.8 / 8.7 / 8.9 / 8.9 / 8.8.
+- Categories: culture:9.3 nightlife:9.0.
+- Overall: 88.10/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/san-jose-festival-internacional-artes](../../../countries/CR/sights/san-jose-festival-internacional-artes.yaml) | 9.1 / 9.0 / 9.3 / 9.2 / 9.2 | impact: -0.3; uniqueness: -0.3 vs peer |
+| [CL/santiago-sanfic](../../../countries/CL/sights/santiago-sanfic.yaml) | 9.0 / 8.9 / 9.2 / 9.2 / 9.1 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-las-cruces-wilson-garden — Las Cruces Biological Station and Wilson Botanical Garden — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/las-cruces-wilson-garden.yaml)
+- Action: new
+- Scope: Named San Vito botanical collection and visitor trails at Las Cruces grouped, distinct from Lankester and La Selva. No laboratory access assumed. Desk-based.
+- Representative coordinates: 8.785, -82.96; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.9 / 8.6 / 8.7.
+- Categories: nature:9.3 wildlife:9.1 photography:9.1.
+- Overall: 87.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/lankester-botanical-garden](../../../countries/CR/sights/lankester-botanical-garden.yaml) | 8.5 / 8.8 / 8.9 / 8.6 / 8.7 | impact: 0.1; uniqueness: 0.0 vs peer |
+| [CL/senda-darwin-reserve](../../../countries/CL/sights/senda-darwin-reserve.yaml) | 8.2 / 8.6 / 8.7 / 8.2 / 8.5 | impact: 0.4; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+## sight-cr-san-jose-childrens-museum — San José Children's Museum Former Penitentiary Cultural Complex — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/san-jose-childrens-museum.yaml)
+- Action: new
+- Scope: Permanent interactive museum and former penitentiary complex grouped, distinct from island prison heritage. Desk-based.
+- Representative coordinates: 9.942, -84.081; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.2 / 8.5 / 8.7 / 8.8 / 8.6.
+- Categories: family:9.3 culture:9.0 architecture:8.9.
+- Overall: 85.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/national-museum-of-costa-rica](../../../countries/CR/sights/national-museum-of-costa-rica.yaml) | 7.7 / 8.0 / 8.6 / 8.2 / 8.1 | impact: 0.5; uniqueness: 0.5 vs peer |
+| [CL/punta-arenas-nao-victoria](../../../countries/CL/sights/punta-arenas-nao-victoria.yaml) | 8.5 / 8.7 / 8.8 / 8.6 / 8.5 | impact: -0.3; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and same-type global calibration pending.
+
+### Pass 329 scope decisions
+
+10 provisional additions (8 source-linked, 2 desk-based), 2 90+, 20 ranking-row comparisons (10 international, 10 domestic). CR 107 ranked / 107 total, +45 since baseline 62; 15 new 90+ across four passes. Nicoya Virgen de Guadalupe festivities distinct from July annexation; UNESCO nomination initiative not inscription. Pacuare Reserve coastal supervised turtle census distinct from inland rafting and Ostional. Isla San Lucas national park historic prison grouped; Paquera nocturnal bioluminescence separate from Curú terrestrial scope and Isla Tortuga. Catarata del Toro/Blue Falls grouped; Lake Arenal wind sports exclude volcano trails. San Ramón procession and CRFIC sourced. SINAC national-park inventory screened (https://www.sinac.go.cr/ES/turismo/Paginas/parquesnacionales.aspx); Miravalles-Jorge Manuel Dengo independent visitor route deferred; San Gerardo de Dota quetzal forest scope overlaps regional Los Quetzales/Talamanca entries pending reconciliation; earlier Hitoy Cerere, Bat Islands and Envision deferrals retained. All four inscribed and one tentative World Heritage properties represented per pass 327; precise serial boundary audit pending. Bounded priority discovery queue closed, not exhaustive. Reopen for concrete significant omissions. Existing scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.

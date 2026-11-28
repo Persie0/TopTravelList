@@ -1,0 +1,16 @@
+id: sight-cr-las-cruces-wilson-garden
+name: "Las Cruces Biological Station and Wilson Botanical Garden"
+location:
+  country_code: CR
+  latitude: 8.785
+  longitude: -82.96
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.3
+    wildlife: 9.1
+    photography: 9.1
