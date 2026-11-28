@@ -7290,3 +7290,257 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - Earlier decision: none.
 - Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
 
+## Pass 431 — Craft, culinary and musical heritage
+
+The already-ranked agave landscape and ancient tequila facilities are not duplicated. Mariachi festival scoring excludes separately rated charreada; the Uruapan cuisine showcase is a distinct named programme, not generic food stalls at the craft fair.
+
+## sight-mx-uruapan-palm-sunday-craft-fair — Uruapan Palm Sunday Artisan Fair — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/uruapan-palm-sunday-craft-fair.yaml)
+- Action: new
+- Precise subject: Annual artisan fair in central Uruapan; excludes the city's permanent attractions.
+- Location check: 19.421, -102.063; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/cultura/prensa/arranca-el-tianguis-artesanal-de-domingo-de-ramos-en-uruapan-el-mas-grande-de-latinoamerica-422688?idiom=es-MX; https://casadelasartesaniasdemichoacan.gob.mx/ya-viene-el-tianguis-de-domingo-de-ramos-el-corazon-del-arte-popular-de-michoacan.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santa Fe International Folk Art Market (US): broader international reach
+  - Surajkund Mela (IN): comparable large craft event
+  - International Handicrafts Fair Florence (IT): more commercial design emphasis
+  - Oaxaca Guelaguetza (MX): stronger performance focus
+- Individual scores:
+  - impact: 9.2 — Large displays of diverse handmade objects.
+  - uniqueness: 9.3 — Rare concentration of Michoacán craft traditions.
+  - significance: 9.2 — Major platform for Indigenous and regional artisans.
+  - experience: 9.3 — Direct encounters with makers and displays.
+  - depth: 9.3 — Many craft branches and multi-day programme.
+- Categories: culture 9.5, photography 9.2.
+- Overall: 92.50/100.
+- High-score challenge: Culture 9.5 justified by the 2026 announced participation of 1,500 artisans across 16 craft branches; not an attendance-based score. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-guadalajara-mariachi-festival — Guadalajara International Mariachi Festival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalajara-mariachi-festival.yaml)
+- Action: new
+- Precise subject: Music programme of the International Mariachi and Charrería Encounter; excludes separate charreada record.
+- Location check: 20.677, -103.345; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575; https://visitjalisco.mx/event/xxxiii-encuentro-internacional-del-mariachi-y-la-charreria-2026-en-jalisco; https://www.zapopan.gob.mx/v3/node/10955.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Montreux Jazz Festival (CH): wider genre range
+  - WOMAD festival (GB): broader international music
+  - Festival de Jerez (ES): comparable regional musical tradition
+  - Cervantino Festival (MX): broader multidisciplinary programme
+- Individual scores:
+  - impact: 9.2 — Live ensemble performances and public galas.
+  - uniqueness: 9.3 — Distinctive ensemble sound and Mexican repertoire.
+  - significance: 9.3 — International showcase of a UNESCO-listed musical tradition.
+  - experience: 9.2 — Varied staged and public performances.
+  - depth: 9.0 — Multiple concert venues and days.
+- Categories: culture 9.5, nightlife 9.1, photography 9.0.
+- Overall: 92.25/100.
+- High-score challenge: Culture 9.5 reflects documented international festival programme and musical heritage, without double-crediting equestrian events. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-uruapan-purepecha-cuisine-showcase — Uruapan Traditional Purépecha Cuisine Showcase — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/uruapan-purepecha-cuisine-showcase.yaml)
+- Action: new
+- Precise subject: Named annual traditional cooking exhibition in Plaza Izazaga; excludes general artisan stalls.
+- Location check: 19.421, -102.062; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.gob.mx/cultura/prensa/la-secretaria-de-cultura-a-traves-de-la-ucuvi-invita-a-la-xli-muestra-de-cocina-tradicional-p-urhepecha-en-uruapan?idiom=es; https://ich.unesco.org/en/RL/traditional-mexican-cuisine-ancestral-ongoing-community-culture-the-michoacan-paradigm-00400?RL=00400.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Mistura food festival (PE): historically broader national coverage
+  - Salon del Gusto (IT): greater international range
+  - Tsukiji Outer Market (JP): daily culinary commerce
+  - Uruapan artisan fair (MX): broader non-food crafts
+- Individual scores:
+  - impact: 8.8 — Traditional dishes and culinary demonstrations.
+  - uniqueness: 9.2 — Regional Indigenous ingredients and techniques.
+  - significance: 9.3 — Living community-based food heritage.
+  - experience: 9.2 — Opportunity to taste and learn from cooks.
+  - depth: 8.7 — Focused regional programme, not national cuisine as a whole.
+- Categories: food 9.4, culture 9.4, history 8.8.
+- Overall: 90.50/100.
+- High-score challenge: 90+ grounded in the specific longstanding showcase and access to regional cooking traditions, not all Mexican cuisine. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-puebla-talavera-workshops — Puebla Traditional Talavera Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/puebla-talavera-workshops.yaml)
+- Action: new
+- Precise subject: Artisanal ceramic production in Puebla's workshops, not the entire city or all Talavera production.
+- Location check: 19.043, -98.198; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://ich.unesco.org/en/lists?RL=01462.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Talavera de la Reina pottery (ES): related shared heritage
+  - Jingdezhen ceramic workshops (CN): greater scale
+  - İznik ceramics (TR): comparable historic glazed designs
+  - Coyotepec pottery (MX): contrasting ceramic technique
+- Individual scores:
+  - impact: 8.8 — Decorative glazed ceramics.
+  - uniqueness: 9.0 — Distinctive regional process and designs.
+  - significance: 9.3 — Shared UNESCO-listed craft tradition.
+  - experience: 8.9 — Workshop-focused learning.
+  - depth: 8.5 — Several production stages but limited visit scope.
+- Categories: culture 9.3, history 9.1, photography 9.0.
+- Overall: 89.35/100.
+- High-score challenge: Below 90; shared UNESCO inscription is not a score for any individual workshop. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-teotitlan-weaving-workshops — Teotitlán del Valle Zapotec Weaving Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/teotitlan-weaving-workshops.yaml)
+- Action: new
+- Precise subject: Textile-making workshops and weaving demonstrations, not the whole village.
+- Location check: 17.029, -96.518; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.oaxaca.travel/index.php/es/sitios-de-interes-es/rutas-tursiticas-es/rutas-e-itinerarios/ruta-magica-artesanias.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Chinchero weaving cooperatives (PE): similar Andean weaving
+  - Bukhara carpet workshops (UZ): different textile heritage
+  - Ock Pop Tok (LA): comparable craft education
+  - Puebla Talavera (MX): alternative artisan process
+- Individual scores:
+  - impact: 8.7 — Colorful woven rugs.
+  - uniqueness: 9.0 — Regional patterns and dye traditions.
+  - significance: 9.0 — Living Zapotec craft heritage.
+  - experience: 9.0 — Hands-on interpretation and artisan visits.
+  - depth: 8.6 — Focused textile process.
+- Categories: culture 9.3, photography 9.1.
+- Overall: 88.70/100.
+- High-score challenge: Below 90; individual demonstration scope. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-san-martin-tilcajete-alebrijes — San Martín Tilcajete Alebrije Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-martin-tilcajete-alebrijes.yaml)
+- Action: new
+- Precise subject: Carving and painting workshops specializing in wooden fantastical figures.
+- Location check: 16.856, -96.696; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.oaxaca.travel/index.php/es/sitios-de-interes-es/rutas-tursiticas-es/rutas-e-itinerarios/ruta-magica-artesanias.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Oaxaca Museum of Popular Art (MX): broader collections
+  - Bali Mas woodcarving (ID): comparable artisan workshops
+  - Channapatna wooden toys (IN): different painted wood tradition
+  - Chinchero weaving (PE): similar workshop encounter
+- Individual scores:
+  - impact: 8.8 — Vivid sculpted and painted figures.
+  - uniqueness: 9.2 — Distinctive local carved-wood tradition.
+  - significance: 8.7 — Regional living craft heritage.
+  - experience: 9.0 — Direct observation of making and painting.
+  - depth: 8.4 — Focused craft process.
+- Categories: culture 9.2, photography 9.3.
+- Overall: 88.70/100.
+- High-score challenge: Below 90; does not assume all alebrije history originated here. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-san-bartolo-coyotepec-pottery — San Bartolo Coyotepec Black Pottery Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-bartolo-coyotepec-pottery.yaml)
+- Action: new
+- Precise subject: Barro negro pottery production and displays, excluding unrelated town landmarks.
+- Location check: 16.957, -96.705; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.oaxaca.travel/index.php/es/sitios-de-interes-es/rutas-tursiticas-es/rutas-e-itinerarios/ruta-magica-artesanias.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Jingdezhen (CN): far wider ceramic heritage
+  - Arita (JP): different porcelain tradition
+  - Mata Ortiz (MX): comparable pottery community
+  - Talavera de la Reina (ES): historic glazed ceramics
+- Individual scores:
+  - impact: 8.5 — Distinctive dark polished vessels.
+  - uniqueness: 9.0 — Regional clay and finishing techniques.
+  - significance: 8.9 — Established local ceramic tradition.
+  - experience: 8.8 — Demonstrations and maker encounters.
+  - depth: 8.3 — Narrower production scope.
+- Categories: culture 9.2, photography 8.9.
+- Overall: 87.30/100.
+- High-score challenge: Below 90; focused workshop visits. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-tlacolula-sunday-market — Tlacolula Traditional Sunday Market — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tlacolula-sunday-market.yaml)
+- Action: new
+- Precise subject: Weekly traditional market and regional produce, crafts and prepared food.
+- Location check: 16.953, -96.475; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.oaxaca.gob.mx/comunicacion/los-mercados-de-oaxaca-resguardan-su-identidad-y-tradiciones/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Chichicastenango market (GT): comparable indigenous market
+  - Otavalo market (EC): broader textile emphasis
+  - Djemaa el-Fna (MA): greater performance spectacle
+  - La Merced (MX): larger urban wholesale trade
+- Individual scores:
+  - impact: 8.8 — Vivid regional stalls and food.
+  - uniqueness: 8.9 — Local products and trading customs.
+  - significance: 8.9 — Living market tradition.
+  - experience: 9.1 — Varied tasting and browsing.
+  - depth: 8.8 — Substantial weekly market.
+- Categories: food 9.2, culture 9.3, photography 9.1.
+- Overall: 88.90/100.
+- High-score challenge: Below 90; routine market scope rather than a large festival. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-la-merced-market — La Merced Market (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-merced-market.yaml)
+- Action: new
+- Precise subject: Traditional urban food market complex, not the entire historic centre.
+- Location check: 19.426, -99.124; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://mexicocity.pre.cdmx.gob.mx/venues/la-merced/?lang=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Borough Market (GB): smaller curated food market
+  - Mercado Central (ES): stronger architecture
+  - Tsukiji Outer Market (JP): specialized seafood
+  - Tlacolula market (MX): more regional weekly traditions
+- Individual scores:
+  - impact: 8.6 — Dense stalls and produce displays.
+  - uniqueness: 8.6 — Distinct Mexican market goods but international analogues.
+  - significance: 8.8 — Important longstanding city commerce.
+  - experience: 8.9 — Varied food and browsing.
+  - depth: 9.0 — Large complex with multiple sections.
+- Categories: food 9.2, culture 9.0, photography 8.8.
+- Overall: 87.25/100.
+- High-score challenge: Below 90; ordinary working market qualities rather than monumental heritage. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-garibaldi-mariachi — Garibaldi Plaza Mariachi Performances (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/garibaldi-mariachi.yaml)
+- Action: new
+- Precise subject: Live mariachi gathering and performances around the plaza, not the whole historic centre.
+- Location check: 19.441, -99.139; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.mexicocity.cdmx.gob.mx/venues/garibaldi-plaza/; https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Djemaa el-Fna (MA): broader live performances
+  - Frenchmen Street (US): comparable music district
+  - Alfama fado venues (PT): related musical heritage
+  - Guadalajara Mariachi Festival (MX): larger programme
+- Individual scores:
+  - impact: 8.8 — Live music in a public square.
+  - uniqueness: 9.0 — Distinctive gathering of mariachi musicians.
+  - significance: 9.0 — Longstanding urban music tradition.
+  - experience: 9.1 — Direct live performance experience.
+  - depth: 8.0 — Focused plaza experience.
+- Categories: culture 9.3, nightlife 9.2, photography 8.8.
+- Overall: 88.55/100.
+- High-score challenge: Below 90; regular plaza performances are narrower than the festival. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
