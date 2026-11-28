@@ -1,0 +1,16 @@
+id: sight-cr-kekoldi-raptor-migration
+name: "Kéköldi Indigenous Reserve Raptor Migration Watch"
+location:
+  country_code: CR
+  latitude: 9.6325
+  longitude: -82.78694
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.3
+  experience: 9.0
+  depth: 8.8
+  categories:
+    wildlife: 9.7
+    nature: 9.4
+    photography: 9.2

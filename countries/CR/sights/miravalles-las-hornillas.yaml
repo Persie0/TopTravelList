@@ -1,0 +1,16 @@
+id: sight-cr-miravalles-las-hornillas
+name: "Miravalles Las Hornillas Geothermal Experience"
+location:
+  country_code: CR
+  latitude: 10.71071
+  longitude: -85.175157
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.1
+  experience: 8.7
+  depth: 8.1
+  categories:
+    nature: 9.1
+    adventure: 8.7
+    relaxation: 8.7
