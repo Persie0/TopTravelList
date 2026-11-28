@@ -669,3 +669,10 @@
 - Final decision: Provisional worldwide V2 editorial rating.
 - Earlier decision: none.
 - Verification still needed: independent claim verification, current access and finer same-type peer comparisons where available.
+
+## sight-na-namib-sand-sea — Namib Sand Sea — 2026-11-28 post-merge high-score scope check
+
+- [YAML](../../../countries/NA/sights/namib-sand-sea.yaml) · Action: source/scope check only · **source-linked-unverified** (material identity and selected claims checked; full visitor evidence and worldwide calibration remain outstanding).
+- Source inspected 2026-11-28: [UNESCO property description](https://whc.unesco.org/en/list/1430/). UNESCO describes a uniquely fog-influenced coastal dune system exceeding three million hectares, with two generations of dunes and specialized desert organisms. This supports the near-top uniqueness and nature 9.9 hypotheses, the scenic impact and photography 9.8, and global ecological significance. Experience 9.5 and depth 9.2 still require evidence of distinct observable landscapes rather than assuming access throughout the dune sea. Sossusvlei and Deadvlei already have distinct records; the UNESCO aggregate is broader.
+- Worldwide qualitative comparison leads (not independently re-scored): Wadi Rum (Jordan): dramatic rock-desert scenery rather than coastal dunes; Erg Chebbi (Morocco): narrower dune experience; White Sands (USA): distinctive gypsum dunes at smaller scale; Sossusvlei (Namibia): narrower iconic landscape.
+- Current I/U/S/E/D: 9.8 / 9.9 / 9.7 / 9.5 / 9.2; overall 97.00/100. No numerical change, no new perfect 10, no new category or access-dependent adjustment. Previous reviews remain preserved. This is a targeted check, not certification of every high field or of the current total; coordinate and category audits remain open except where explicitly checked above.
