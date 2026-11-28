@@ -1,0 +1,18 @@
+# Panama post-merge screening — pass 336
+
+Continues pass 335 (e506b6f7b478a784575150d6abdac99ce8f071fa); 81 ranked baseline, 10 additional records. Pass 332 still unavailable; reconcile before merge. High candidates source-checked, lower scores provisional editorial estimates. Representative coordinates are not guaranteed entrances. No existing YAML modified.
+
+| Candidate | Overall | Evidence and scope |
+| --- | ---: | --- |
+| Escudo de Veraguas Island (community-guided coastal visit) | 90.40 | Community tourism documented; exceptional endemic ecology and coastal scenery; no pygmy sloth encounter assumed or encouraged. Respect conservation restrictions. https://www.zsl.org/what-we-do/projects/pygmy-three-toed-sloth-conservation ; https://maps.tourismcares.org/panama/resource/organizacion-aprorenang ; https://www.geonames.org/search.html?country=PA&q=Panam%C3%A1%2C&startRow=800 |
+| San San–Pond Sak Wetland National Park | 90.15 | National park designation and nationally exceptional manatee habitat confirmed by MiAmbiente; guided wetland observation, no guaranteed sightings or feeding interaction credited. Representative study-area point. https://miambiente.gob.pa/ministerio-de-ambiente-declara-parque-nacional-al-humedal-san-san-pond-sak-en-bocas-del-toro/ ; https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1661294/full ; https://iadventurespanama.com/day-tours/san-san-pond-sak/ |
+| Damani–Guariviara Wetlands Community Ecotourism | 87.40 | Community-led lagoon and mangrove experience; Ramsar designation and manatee habitat documented. https://maps.tourismcares.org/panama/resource/organizacion-aprorenang ; https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2025.1661294/full |
+| Gulf of Montijo Wetlands | 87.00 | Tourism authority reports approximately 250 bird species in the wetland; KBA representative point. https://www.tourismpanama.com/places-to-visit/pacific-coast-of-veraguas/things-to-do/outdoors-wildlife/birdwatching/ ; https://www.keybiodiversityareas.org/en/site/factsheet/19280 |
+| Museo de la Mola | 84.50 | Distinct curated Guna textile collection; representative Casco Viejo location. https://museodelamola.org/ |
+| National Theatre of Panama | 82.95 | Historic theatre interiors and performing arts; provisional score and representative location. |
+| Museum of Contemporary Art Panama (MAC) | 80.35 | Contemporary art exhibitions; provisional representative location. |
+| Finca Los Monos Botanical Garden | 79.05 | Tropical botanical collection on Isla Colón; approximate representative location. https://tools.bgci.org/garden.php?ftrBGCImem=&ftrCountry=All&ftrIAReg=&ftrKeyword=&id=4220 |
+| El Níspero Zoo and Botanical Garden | 76.45 | Regional zoological and garden experience; no assumption of rare amphibian encounters; provisional point. |
+| Summit Municipal Park | 78.35 | Botanical and zoological park, distinct from Soberanía forest; provisional representative location. |
+
+Calibration: Escudo below Guna Yala (90.70) and Coiba (94.15); exceptional island ecology but conservation-constrained experience and less breadth. San San below Isla Cañas (91.40) and above Punta Patiño (87.35); nationally exceptional manatee habitat and wetlands with distinct visitor scope. Damani and Montijo rated below San San for less distinctive visitor experience, not ecological insignificance. Mola collection independently scoped from Casco Antiguo. All 91 weighted scores and unique slugs checked in JS. Full Python generator/schema validation and independent coordinate verification pending. No workflow manually dispatched.

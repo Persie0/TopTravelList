@@ -1,0 +1,16 @@
+id: sight-cr-isla-damas-mangrove-tour
+name: "Isla Damas Mangrove Boat and Kayak Tours"
+location:
+  country_code: CR
+  latitude: 9.45257
+  longitude: -84.19533
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 8.7
+  depth: 8.1
+  categories:
+    wildlife: 9.1
+    nature: 9.0
+    adventure: 8.7

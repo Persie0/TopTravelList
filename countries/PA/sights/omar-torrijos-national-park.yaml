@@ -1,16 +1,16 @@
 id: sight-pa-omar-torrijos-national-park
-name: "Omar Torrijos Herrera National Park El Copé Montane Forest Trails"
+name: "Omar Torrijos Herrera National Park (El Copé)"
 location:
   country_code: PA
-  latitude: 8.67
+  latitude: 8.66
   longitude: -80.59
 scores:
-  impact: 8.6
-  uniqueness: 8.7
-  significance: 8.8
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.7
   experience: 8.5
-  depth: 8.7
+  depth: 8.5
   categories:
-    nature: 9.3
-    wildlife: 9.2
-    adventure: 9.0
+    nature: 9.2
+    wildlife: 9.0
+    adventure: 8.8

@@ -1,0 +1,16 @@
+id: sight-cr-doka-estate-coffee-tour
+name: "Doka Estate Coffee Farm Tour"
+location:
+  country_code: CR
+  latitude: 10.09834
+  longitude: -84.21196
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.8
+  depth: 8.4
+  categories:
+    food: 9.1
+    culture: 8.9
+    history: 8.7

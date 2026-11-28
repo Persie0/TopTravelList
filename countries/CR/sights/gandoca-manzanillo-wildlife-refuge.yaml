@@ -1,0 +1,16 @@
+id: sight-cr-gandoca-manzanillo-wildlife-refuge
+name: "Gandoca–Manzanillo Wildlife Refuge"
+location:
+  country_code: CR
+  latitude: 9.63
+  longitude: -82.65
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.8
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    beaches: 8.9

@@ -1,16 +1,16 @@
 id: sight-cr-childrens-eternal-rainforest
-name: "Children's Eternal Rainforest Bajo del Tigre and Designated Visitor Trails"
+name: "Children’s Eternal Rainforest"
 location:
   country_code: CR
-  latitude: 10.306
-  longitude: -84.818
+  latitude: 10.30564
+  longitude: -84.81445
 scores:
-  impact: 8.8
-  uniqueness: 8.8
-  significance: 9.0
-  experience: 8.6
-  depth: 8.8
+  impact: 9.0
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 9.0
   categories:
-    nature: 9.3
-    wildlife: 9.2
-    photography: 9.1
+    nature: 9.5
+    wildlife: 9.4
+    adventure: 9.0

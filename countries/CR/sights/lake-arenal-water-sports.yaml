@@ -1,0 +1,16 @@
+id: sight-cr-lake-arenal-water-sports
+name: "Lake Arenal Windsurfing and Kayaking"
+location:
+  country_code: CR
+  latitude: 10.51738
+  longitude: -84.90104
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 9.0
+  depth: 8.2
+  categories:
+    adventure: 9.3
+    nature: 8.8
+    photography: 8.9

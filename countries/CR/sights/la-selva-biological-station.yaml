@@ -1,16 +1,16 @@
 id: sight-cr-la-selva-biological-station
-name: "La Selva Biological Station Guided Lowland Rainforest and Birdwatching"
+name: "La Selva Biological Station Guided Rainforest Visit"
 location:
   country_code: CR
-  latitude: 10.431
-  longitude: -84.006
+  latitude: 10.431389
+  longitude: -84.003611
 scores:
   impact: 9.0
   uniqueness: 9.1
-  significance: 9.3
+  significance: 9.4
   experience: 8.9
-  depth: 9.1
+  depth: 9.0
   categories:
+    wildlife: 9.5
     nature: 9.4
-    wildlife: 9.4
     photography: 9.1

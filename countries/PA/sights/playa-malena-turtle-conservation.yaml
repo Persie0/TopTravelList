@@ -1,0 +1,16 @@
+id: sight-pa-playa-malena-turtle-conservation
+name: "Playa Malena Community Turtle Conservation"
+location:
+  country_code: PA
+  latitude: 7.57509
+  longitude: -80.96094
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.6
+  depth: 8.0
+  categories:
+    wildlife: 9.3
+    nature: 9.0
+    culture: 8.7

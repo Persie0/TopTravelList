@@ -1,16 +1,16 @@
 id: sight-pa-la-yeguada-forest-reserve
-name: "La Yeguada Forest Reserve Mountain Lake and Forest Trails"
+name: "La Yeguada Forest Reserve and Camping"
 location:
   country_code: PA
-  latitude: 8.46
-  longitude: -80.85
+  latitude: 8.479074
+  longitude: -80.861922
 scores:
-  impact: 8.5
-  uniqueness: 8.5
-  significance: 8.2
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 8.1
   experience: 8.7
-  depth: 8.5
+  depth: 8.2
   categories:
-    nature: 9.2
-    photography: 9.1
-    relaxation: 9.0
+    nature: 8.8
+    adventure: 8.7
+    relaxation: 8.7

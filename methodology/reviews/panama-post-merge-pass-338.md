@@ -1,0 +1,18 @@
+# Panama post-merge screening — pass 338
+
+Continues pass 337 (cad301a95953c81f7cf10be3a668fbd3268d81ab); 101 ranked baseline, 10 additions. Pass 332 remains unavailable; reconcile before merge. All ratings editorial estimates; high candidate supported by independently sourced records. Lower scores provisional; coordinates representative, not verified entrances. Access, future opening and wildlife encounters not guaranteed.
+
+| Candidate | Overall | Evidence and scope |
+| --- | ---: | --- |
+| Piñas Bay Guided Sport Fishing | 90.80 | International Game Fish Association independently documents record catches. Scope is the fishing grounds and guided catch-and-release experience, not luxury lodge amenities or guaranteed catches. https://igfa.org/2026/05/19/world-records-for-may-2026/ ; https://igfa.org/2022/01/28/2021-igfa-world-record-recap/ ; representative bay port coordinates https://service.unece.org/trade/locode/pa.htm |
+| Cerro Chucantí Private Nature Reserve | 88.65 | Isolated cloud forest with endemic species. Private conservation site; authorized visit only, general tourist access not confirmed; no endemic encounters credited. Coordinates from mammal study. https://adoptabosque.org/en/chucanti/ ; https://portal.amelica.org/ameli/journal/224/2244880007/ |
+| Salt Creek Ngäbe Community Trails | 86.50 | Tourism authority identifies distinct community-guided rainforest, coastal and medicinal-plant paths; community consent required. Approximate settlement pin. https://www.tourismpanama.com/outdoors-and-nature/outdoor-adventure/hiking/ |
+| Boca Brava Island Forest and Coastal Trails | 83.55 | Terrestrial walking and birding rather than the already-ranked Gulf of Chiriquí marine park boat excursions. Representative island coast point. https://www.igopanama.com/guides/destination/d23-boca-chica-gulf-of-chiriqui |
+| Lagunas de Volcán Wetlands | 81.05 | Protected highland lagoons listed on official park admissions portal. Approximate lagoon area point. https://reservasap.miambiente.gob.pa/ |
+| Reina Torres de Araúz Anthropological Museum | 84.05 | Ministry records collection of approximately 15,000 objects. Do not assume full collection display or reopening; representative historic museum area. https://sicultura.gob.pa/espacios-culturales/museos-otros-espacios-exhibicion-interpretacion-patrimonial/museo-antropologico-reina-torres-de-arauz |
+| Museum of Freedom and Human Rights | 81.20 | Human rights interpretation with guided exhibits; approximate Panama City point. https://museodelalibertad.org/visita/ |
+| Piedra Pintada Petroglyphs (El Valle) | 79.45 | Specific archaeological boulder, not an alternate India Dormida hike; provisional location. https://www.el-valle-panama.com/what-to-do/ |
+| El Valle Butterfly Haven | 77.30 | Independent butterfly garden; provisional point and score. https://www.el-valle-panama.com/what-to-do/ |
+| Panama City Mercado de Mariscos | 77.20 | Seafood market and dining experience, distinct from historic district sightseeing; provisional point and score. |
+
+Calibration: Piñas Bay compares with Pearl Islands whale watching (90.75) and Santa Catalina surfing (87.25); world-record angling pedigree, but narrower appeal than Coiba (94.15). Chucantí compares with Cerro Hoya (86.50) and Soberanía (88.90), with higher uniqueness but no assumed general visitor infrastructure. Community trails separate from beach and marine park activities. Boca Brava excludes marine excursion scope. All 111 weighted scores and unique slugs checked in JS. Full Python generator and schema validation, coordinate review and reconciliation pending. No existing YAML modified; no Actions manually dispatched.

@@ -1,0 +1,16 @@
+id: sight-cr-pavones-surf-break
+name: "Pavones Long Left Surf Break"
+location:
+  country_code: CR
+  latitude: 8.397
+  longitude: -83.136
+scores:
+  impact: 9.1
+  uniqueness: 9.3
+  significance: 8.5
+  experience: 9.2
+  depth: 8.3
+  categories:
+    adventure: 9.6
+    beaches: 9.0
+    photography: 8.9

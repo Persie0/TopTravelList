@@ -1,16 +1,16 @@
 id: sight-cr-limon-carnival
-name: "Limón Caribbean Carnival Public Parade and Cultural Programme"
+name: "Limón Afro-Caribbean Carnival"
 location:
   country_code: CR
-  latitude: 9.99
-  longitude: -83.035
+  latitude: 9.9932
+  longitude: -83.0298
 scores:
-  impact: 9.0
+  impact: 8.9
   uniqueness: 9.0
-  significance: 9.1
-  experience: 9.3
-  depth: 9.0
+  significance: 9.2
+  experience: 8.9
+  depth: 8.5
   categories:
-    culture: 9.4
-    nightlife: 9.2
-    food: 9.1
+    culture: 9.5
+    nightlife: 9.1
+    photography: 9.0

@@ -1,0 +1,15 @@
+# Panama post-merge screening — pass 347
+
+Continues pass 346 (03ce6363d5cb82cb796fc443f961dd27f10ab3d4); 178 ranked baseline, seven additions. Pass 332 remains unavailable; reconcile before merge. Ratings provisional editorial estimates. Coordinates representative, no guarantees of access or wildlife encounters.
+
+| Candidate | Overall | Evidence and scope |
+| --- | ---: | --- |
+| Pijibasal Community-Led Harpy Eagle Birding | 90.50 | Community-based specialist birding in the national park buffer zone; independent documentation of conservation tourism. Village pin only, not nest coordinates; sightings not guaranteed and observation must follow conservation restrictions and community consent. https://ancon.org/en/avistamiento-de-aves-y-ecoturismo/ ; https://news.mongabay.com/2025/08/fences-tech-and-trust-help-save-jaguars-in-panamas-darien/ ; https://mapcarta.com/N7711414903 |
+| Mamoní Valley Preserve Guided Forest Exploration | 86.95 | Private conservation landscape with guided forest exploration and river experiences. Representative watershed community coordinates, not exact visitor base. https://mamonivalleypreserve.org/discovering-panama/ ; https://mamonivalleypreserve.org/the-preserve/ ; https://www.relcomlatinoamerica.net/aicoms/mamoni/ |
+| Portobelo Reef Diving and Snorkeling | 85.15 | Specific underwater reef outing rather than whole park or mangrove channels; no unverified historic wreck or treasure attributed. Representative bay point. https://www.tourismpanama.com/places-to-visit/portobelo/things-to-do/watersports-beaches/diving-snorkeling/ |
+| Cerro Tute Viewpoint Hike | 81.25 | Specific panoramic summit hike near Santa Fe, distinct from waterfall and whole park assessments. https://santafepanama.org/places-to-explore/ ; https://www.geonames.org/advanced-search.html?country=PA&featureClass=T&q=&startRow=600 |
+| F&F Tower Architectural Landmark | 82.30 | Distinctive twisting office skyscraper, exterior observation only, no observation deck presumed. https://www.skyscrapercenter.com/panama-city/ff-tower/953/ ; https://en.wikipedia.org/wiki/F%26F_Tower |
+| Bridge of the Americas Viewpoint and Chinese Heritage Memorial | 80.85 | Combined viewpoint and adjacent memorial; no duplicate bridge crossing record or current access guarantee. https://mapcarta.com/N5045842609 ; https://out.pa/en/guides/bridge-of-the-americas |
+| Punta Burica Coastal Landscape (Panama sector) | 80.70 | Panamanian coastal cape and nearby beaches only, excluding Costa Rican sites. Approximate geographic point, no access guarantee. https://mapcarta.com/19594840 |
+
+Calibration: Pijibasal compared with Chagres Emberá visit 90.65 and Ancón Hill raptor migration 93.15, exceptional specialist birding but not guaranteed encounters or whole Darién park merit. Mamoní below Soberanía 88.90; F&F Tower exterior-only experience. All 185 weighted rows and unique slugs checked in JS. Normalized 1 type labels and 12 map search links against generator conventions; full Python generator/schema validation and previous reconciliation pending. No existing YAML changed or Actions manually dispatched.

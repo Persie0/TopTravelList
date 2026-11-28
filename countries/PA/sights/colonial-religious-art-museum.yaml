@@ -1,0 +1,16 @@
+id: sight-pa-colonial-religious-art-museum
+name: "Museum of Colonial Religious Art"
+location:
+  country_code: PA
+  latitude: 8.952
+  longitude: -79.534
+scores:
+  impact: 7.8
+  uniqueness: 8.4
+  significance: 8.7
+  experience: 7.9
+  depth: 7.8
+  categories:
+    history: 8.9
+    culture: 8.8
+    architecture: 8.5

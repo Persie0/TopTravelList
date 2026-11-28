@@ -1,16 +1,16 @@
 id: sight-pa-santa-catalina-surf
-name: "Santa Catalina Pacific Surf Break and Guided Surfing Experience"
+name: "Santa Catalina Surf Break"
 location:
   country_code: PA
-  latitude: 7.63
+  latitude: 7.635
   longitude: -81.26
 scores:
-  impact: 9.2
-  uniqueness: 9.1
-  significance: 9.0
-  experience: 9.3
-  depth: 8.7
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 9.2
+  depth: 8.3
   categories:
-    adventure: 9.4
-    beaches: 9.1
-    photography: 9.2
+    adventure: 9.5
+    beaches: 8.9
+    photography: 8.9

@@ -1,0 +1,16 @@
+id: sight-pa-belisario-porras-museum
+name: "Belisario Porras Museum"
+location:
+  country_code: PA
+  latitude: 7.765
+  longitude: -80.275
+scores:
+  impact: 7.5
+  uniqueness: 8.1
+  significance: 8.8
+  experience: 7.6
+  depth: 7.7
+  categories:
+    history: 9.1
+    culture: 8.7
+    architecture: 8.0

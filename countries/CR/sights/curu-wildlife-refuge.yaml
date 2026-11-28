@@ -1,17 +1,16 @@
 id: sight-cr-curu-wildlife-refuge
-name: "Curú Wildlife Refuge Coastal Forest and Wildlife Trails"
+name: "Curú Wildlife Refuge"
 location:
   country_code: CR
-  latitude: 9.795
-  longitude: -84.93
+  latitude: 9.77553
+  longitude: -84.94598
 scores:
-  impact: 8.7
-  uniqueness: 8.7
-  significance: 8.7
-  experience: 8.7
-  depth: 8.7
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.8
+  depth: 8.2
   categories:
-    nature: 9.3
-    wildlife: 9.3
-    photography: 9.1
-    beaches: 9.0
+    nature: 9.1
+    wildlife: 9.1
+    beaches: 8.8

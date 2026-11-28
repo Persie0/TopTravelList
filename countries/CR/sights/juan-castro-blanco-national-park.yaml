@@ -1,16 +1,16 @@
 id: sight-cr-juan-castro-blanco-national-park
-name: "Juan Castro Blanco National Park Montane Forest and Water Landscapes"
+name: "Juan Castro Blanco National Park"
 location:
   country_code: CR
-  latitude: 10.227
-  longitude: -84.363
+  latitude: 10.2779
+  longitude: -84.3332
 scores:
-  impact: 8.4
-  uniqueness: 8.6
-  significance: 8.6
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.7
   experience: 8.2
-  depth: 8.5
+  depth: 8.3
   categories:
-    nature: 9.2
-    wildlife: 9.0
-    photography: 8.9
+    nature: 9.1
+    wildlife: 8.9
+    adventure: 8.6

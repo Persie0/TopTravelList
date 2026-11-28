@@ -1,0 +1,16 @@
+id: sight-pa-san-francisco-de-la-montana-church
+name: "San Francisco de la Montaña Church"
+location:
+  country_code: PA
+  latitude: 8.244
+  longitude: -80.975
+scores:
+  impact: 8.0
+  uniqueness: 8.5
+  significance: 8.9
+  experience: 8.0
+  depth: 7.7
+  categories:
+    architecture: 9.1
+    history: 9.1
+    culture: 8.8

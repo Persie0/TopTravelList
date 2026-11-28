@@ -1,0 +1,16 @@
+id: sight-pa-lagunas-de-volcan-wetlands
+name: "Lagunas de Volcán Wetlands"
+location:
+  country_code: PA
+  latitude: 8.77
+  longitude: -82.67
+scores:
+  impact: 8.1
+  uniqueness: 8.1
+  significance: 8.2
+  experience: 8.2
+  depth: 7.8
+  categories:
+    nature: 8.8
+    wildlife: 8.9
+    photography: 8.5

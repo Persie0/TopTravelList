@@ -1,0 +1,16 @@
+id: sight-cr-playa-avellanas
+name: "Playa Avellanas Surf and Coastal Landscape"
+location:
+  country_code: CR
+  latitude: 10.23
+  longitude: -85.836
+scores:
+  impact: 8.3
+  uniqueness: 8.0
+  significance: 7.1
+  experience: 8.7
+  depth: 7.6
+  categories:
+    adventure: 9.0
+    beaches: 8.9
+    photography: 8.6

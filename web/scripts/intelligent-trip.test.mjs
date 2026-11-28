@@ -1,0 +1,7 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {plannerConfig,tripMetrics,corridorDistance,detourSuggestions,optimizeTrip,baseCities} from './intelligent-trip.mjs';
+const p=(id,lat,lon,overall=90,kind='sights')=>({id,lat,lon,overall,kind});
+const a=p('a',0,0),b=p('b',0,1),c=p('c',0,.5,95),d=p('d',20,20,99);
+test('fixed endpoints, unique stops, and time and budget bounds',()=>{const cfg={days:1,hours:8,mode:'car',maxLeg:150,cityHours:2,sightHours:1,budget:50,daily:10,admission:5,perKm:.1};const x=optimizeTrip(a,b,[a,b,c,d,c],cfg);assert.deepEqual(x.stops.map(s=>s.id),['a','c','b']);assert.ok(x.metrics.feasible);assert.ok(x.metrics.cost<=50);assert.ok(x.metrics.hours<=8);assert.equal(optimizeTrip(a,b,[c],{...cfg,budget:1}).metrics.feasible,false)});
+test('corridor crosses dateline and limits finite segments',()=>{assert.ok(corridorDistance(p('x',0,180),p('a',0,179),p('b',0,-179))<.01);assert.ok(corridorDistance(p('x',0,3),a,b)>200);assert.deepEqual(detourSuggestions([a,b],[a,c,d],{corridor:20,maxDetour:1}).map(x=>x.point.id),['c'])});
+test('impossible daily block and cost constraints are rejected',()=>{assert.equal(tripMetrics([a,b],{days:1,hours:1,mode:'walk'}).feasible,false);assert.equal(tripMetrics([a],{budget:1,daily:2}).feasible,false);assert.equal(plannerConfig({days:999,maxStops:999}).maxStops,40)});
+test('base cities rank feasible round trip sights',()=>{const city=p('city',0,0,80,'cities');assert.equal(baseCities([city,c,d],{corridor:100,hours:8,mode:'car'})[0].count,1)});

@@ -1,16 +1,16 @@
 id: sight-cr-diria-national-park
-name: "Diriá National Park Dry Forest and River Trails"
+name: "Diriá National Park"
 location:
   country_code: CR
-  latitude: 10.177
-  longitude: -85.595
+  latitude: 10.173056
+  longitude: -85.593611
 scores:
-  impact: 8.2
-  uniqueness: 8.4
+  impact: 8.1
+  uniqueness: 8.2
   significance: 8.4
-  experience: 8.3
-  depth: 8.2
+  experience: 8.1
+  depth: 8.0
   categories:
-    nature: 9.0
-    wildlife: 9.0
-    photography: 8.9
+    nature: 8.9
+    wildlife: 8.7
+    adventure: 8.5

@@ -1,0 +1,16 @@
+id: sight-pa-escudo-de-veraguas-island
+name: "Escudo de Veraguas Island (community-guided coastal visit)"
+location:
+  country_code: PA
+  latitude: 9.096809
+  longitude: -81.55794
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.1
+  experience: 8.4
+  depth: 8.0
+  categories:
+    nature: 9.5
+    wildlife: 9.4
+    beaches: 9.3

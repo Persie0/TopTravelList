@@ -1,0 +1,16 @@
+id: sight-cr-cerro-pelado-hiking
+name: "Cerro Pelado Guanacaste Ridge Hike"
+location:
+  country_code: CR
+  latitude: 10.36621
+  longitude: -85.01713
+scores:
+  impact: 8.5
+  uniqueness: 8.4
+  significance: 7.4
+  experience: 8.8
+  depth: 7.6
+  categories:
+    photography: 9.1
+    adventure: 8.9
+    nature: 8.7

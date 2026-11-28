@@ -1,16 +1,16 @@
 id: sight-cr-savegre-river-rafting
-name: "Savegre River Guided Whitewater Rafting Corridor"
+name: "Lower Savegre River Whitewater Rafting"
 location:
   country_code: CR
-  latitude: 9.459
-  longitude: -84.009
+  latitude: 9.37
+  longitude: -84.024
 scores:
   impact: 8.7
   uniqueness: 8.5
-  significance: 8.2
+  significance: 8.1
   experience: 9.0
   depth: 8.4
   categories:
     adventure: 9.3
-    nature: 9.2
-    photography: 9.0
+    nature: 9.0
+    photography: 8.7

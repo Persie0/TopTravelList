@@ -1,16 +1,16 @@
 id: sight-pa-chiriqui-viejo-rafting
-name: "Chiriquí Viejo River Guided Whitewater Rafting Corridor"
+name: "Chiriquí Viejo River Whitewater Rafting"
 location:
   country_code: PA
-  latitude: 8.68
-  longitude: -82.76
+  latitude: 8.531111
+  longitude: -82.832778
 scores:
-  impact: 9.0
-  uniqueness: 8.8
-  significance: 8.6
-  experience: 9.2
-  depth: 8.7
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 8.2
+  experience: 9.3
+  depth: 8.5
   categories:
     adventure: 9.4
-    nature: 9.2
-    photography: 9.1
+    nature: 8.9
+    photography: 8.7

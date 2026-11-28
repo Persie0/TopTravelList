@@ -1,16 +1,16 @@
 id: sight-cr-paquera-bioluminescence
-name: "Paquera Gulf of Nicoya Guided Nocturnal Bioluminescence Kayaking"
+name: "Paquera Gulf of Nicoya Bioluminescence Kayaking"
 location:
   country_code: CR
-  latitude: 9.835
-  longitude: -84.926
+  latitude: 9.82985
+  longitude: -84.90362
 scores:
-  impact: 9.1
-  uniqueness: 9.0
-  significance: 8.4
-  experience: 9.1
-  depth: 8.2
+  impact: 8.9
+  uniqueness: 8.9
+  significance: 7.8
+  experience: 9.0
+  depth: 7.9
   categories:
-    nature: 9.3
-    adventure: 9.2
-    photography: 8.8
+    nature: 9.2
+    adventure: 9.0
+    photography: 8.6

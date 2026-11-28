@@ -1,0 +1,16 @@
+id: sight-pa-boquete-flower-coffee-fair
+name: "Boquete Flower and Coffee Fair"
+location:
+  country_code: PA
+  latitude: 8.777
+  longitude: -82.431
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 8.2
+  experience: 9.0
+  depth: 8.2
+  categories:
+    culture: 8.9
+    photography: 9.0
+    food: 8.8

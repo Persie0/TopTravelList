@@ -1,0 +1,16 @@
+id: sight-pa-la-marinera-turtle-arribada
+name: "Playa La Marinera Sea Turtle Arribada"
+location:
+  country_code: PA
+  latitude: 7.2535
+  longitude: -80.4021
+scores:
+  impact: 9.4
+  uniqueness: 9.5
+  significance: 9.2
+  experience: 8.9
+  depth: 8.6
+  categories:
+    wildlife: 9.8
+    nature: 9.4
+    photography: 9.1

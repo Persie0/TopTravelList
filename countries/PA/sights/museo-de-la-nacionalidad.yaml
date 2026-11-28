@@ -1,0 +1,16 @@
+id: sight-pa-museo-de-la-nacionalidad
+name: "Museo de la Nacionalidad (La Villa de Los Santos)"
+location:
+  country_code: PA
+  latitude: 7.933
+  longitude: -80.413
+scores:
+  impact: 7.7
+  uniqueness: 8.6
+  significance: 9.3
+  experience: 7.6
+  depth: 8.0
+  categories:
+    history: 9.4
+    culture: 9.0
+    architecture: 8.0

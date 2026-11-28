@@ -1,0 +1,16 @@
+id: sight-pa-summit-municipal-park
+name: "Summit Municipal Park"
+location:
+  country_code: PA
+  latitude: 9.065
+  longitude: -79.65
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 7.9
+  experience: 8.1
+  depth: 7.5
+  categories:
+    family: 8.6
+    nature: 8.5
+    wildlife: 8.5
