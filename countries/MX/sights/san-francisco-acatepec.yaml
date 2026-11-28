@@ -1,0 +1,17 @@
+id: sight-mx-san-francisco-acatepec
+name: "Church of San Francisco Acatepec"
+location:
+  country_code: MX
+  latitude: 19.017
+  longitude: -98.33
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 8.9
+  depth: 8.3
+  categories:
+    architecture: 9.5
+    culture: 9.2
+    photography: 9.4
+    history: 9.0

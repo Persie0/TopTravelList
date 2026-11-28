@@ -1,0 +1,17 @@
+id: sight-mx-santa-rosa-de-viterbo
+name: "Church of Santa Rosa de Viterbo (Querétaro)"
+location:
+  country_code: MX
+  latitude: 20.5866
+  longitude: -100.3975
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.8
+  depth: 8.4
+  categories:
+    architecture: 9.4
+    photography: 9.2
+    history: 9.0
+    culture: 9.0

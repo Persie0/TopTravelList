@@ -10082,3 +10082,257 @@ Individual collections and urban ensembles assessed at their own scope. Higher s
 - Earlier decision: none.
 - Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
 
+## Pass 442 — Religious architecture, theatres, libraries and industrial museums
+
+Institutional source descriptions consulted for all ten candidates. Individual buildings assessed without importing umbrella heritage or festival scores. Templo Mayor's museum not duplicated. Coordinates are provisional representative points. Rankings rendered using equivalent row rules rather than executing Python generator; full required Python validation and numerical benchmark checks not run.
+
+## sight-mx-franz-mayer-museum — Franz Mayer Museum (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/franz-mayer-museum.yaml)
+- Action: new
+- Precise subject: Decorative arts collection and historic building; not the wider historic centre.
+- Location check: 19.437, -99.143; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://franzmayer.org.mx/el-arte-novohispano-en-la-coleccion-franz-mayer; https://www.mexicocity.cdmx.gob.mx/venues/museo-franz-mayer/?lang=en; https://www.scielo.org.mx/scielo.php?pid=S2007-249X2013000200007&script=sci_arttext.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Victoria and Albert Museum (GB): vastly wider collection
+  - MAK Vienna (AT): broader design chronology
+  - Musée des Arts Décoratifs (FR): different European focus
+  - Museo de Arte Popular (MX): stronger living folk-art emphasis
+- Individual scores:
+  - impact: 9.1 — Exceptional decorative objects.
+  - uniqueness: 9.2 — Distinctive colonial Mexican and transoceanic collections.
+  - significance: 9.3 — Important evidence of applied arts and trade.
+  - experience: 9.2 — Varied curated exhibitions.
+  - depth: 9.4 — Substantial ceramics, silver, textiles, furniture and books.
+- Categories: culture 9.4, history 9.3, architecture 9.0.
+- Overall: 92.10/100.
+- High-score challenge: Strong documented decorative arts holdings and range; no assumption that all holdings are exhibited. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-biblioteca-lerdo-de-tejada — Miguel Lerdo de Tejada Library and Vlady Murals — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/biblioteca-lerdo-de-tejada.yaml)
+- Action: new
+- Precise subject: Library interior and Vlady mural cycle in former religious building.
+- Location check: 19.4286, -99.1366; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://inba.gob.mx/prensa/16612/vlady-revolucion-y-disidencia-magna-exposicion-en-el-colegio-de-san-ildefonso; https://inba.gob.mx/prensa/14270/efiartes2020.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sistine Chapel (VA): much greater historical stature
+  - Stiftsbibliothek Admont (AT): more extensive Baroque library ensemble
+  - Orozco murals at Hospicio Cabañas (MX): stronger global mural heritage
+  - Diego Rivera Mural Museum (MX): more concentrated single work
+- Individual scores:
+  - impact: 9.2 — Immersive painted interior.
+  - uniqueness: 9.4 — Rare library-scale mural installation.
+  - significance: 9.2 — Important twentieth-century Mexican muralism.
+  - experience: 9.0 — Focused visual interpretation.
+  - depth: 8.7 — Extensive mural cycle but compact visitor scope.
+- Categories: culture 9.4, architecture 9.2, history 9.1, photography 9.2.
+- Overall: 91.70/100.
+- High-score challenge: Approximately 2,000 square metres of mural work documented by INBAL, distinct from other mural museums. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-national-railway-museum-puebla — National Museum of Mexican Railways (Puebla) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/national-railway-museum-puebla.yaml)
+- Action: new
+- Precise subject: Historic station complex and preserved railway equipment, not the whole national network.
+- Location check: 19.051, -98.206; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://patrimonioferrocarrilero.cultura.gob.mx/sobre-el-acervo/; https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=441.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - National Railway Museum York (GB): greater global locomotive scope
+  - Cité du Train (FR): comparable large railway collection
+  - California State Railroad Museum (US): comparable regional railway history
+  - El Chepe (MX): actual scenic travel rather than museum
+- Individual scores:
+  - impact: 9.0 — Historic locomotives and station landscape.
+  - uniqueness: 9.0 — Distinctive Mexican railway collection with international analogues.
+  - significance: 9.3 — Preserves the oldest surviving Mexican Railway station according to the collection institution.
+  - experience: 9.1 — Varied exhibitions and railway equipment.
+  - depth: 9.4 — Extensive rolling stock and industrial material.
+- Categories: history 9.4, culture 9.1, photography 9.1, family 9.0.
+- Overall: 91.15/100.
+- High-score challenge: Institutional inventory reports about 30,000 historic movable items and more than 100 pieces of rolling stock; holdings not equated with accessible displays. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-san-francisco-acatepec — Church of San Francisco Acatepec — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/san-francisco-acatepec.yaml)
+- Action: new
+- Precise subject: Specific church and its Talavera-clad facade; distinct from Tonantzintla and Cholula pyramid.
+- Location check: 19.017, -98.33; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?disciplina=&table=monumento_icahe&table_id=2075; https://www.inah.gob.mx/index.php/foto-del-dia/la-talavera-del-templo-de-san-francisco-acatepec.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santa Maria Tonantzintla (MX): stronger interior stucco
+  - Rosary Chapel Puebla (MX): more opulent gilded interior
+  - Igreja do Carmo Porto (PT): different tile facade
+  - Saint Basil's Cathedral (RU): much greater iconic architectural stature
+- Individual scores:
+  - impact: 9.3 — Vivid multicoloured ceramic facade.
+  - uniqueness: 9.3 — Rare extensive Talavera architectural decoration.
+  - significance: 9.1 — Important Mexican Baroque craft heritage.
+  - experience: 8.9 — Focused architectural visit.
+  - depth: 8.3 — Compact church precinct.
+- Categories: architecture 9.5, culture 9.2, photography 9.4, history 9.0.
+- Overall: 91.00/100.
+- High-score challenge: Architecture 9.5 justified by exceptionally integrated polychrome Talavera decoration dating to the Baroque period, not the entire regional craft tradition. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-valenciana-san-cayetano — Church of San Cayetano at La Valenciana (Guanajuato) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/valenciana-san-cayetano.yaml)
+- Action: new
+- Precise subject: Individual mining-associated church and gilded altarpieces; not adjacent mine or entire city.
+- Location check: 21.0414, -101.2568; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/6132.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santa Prisca (MX): comparable silver-mining Baroque church
+  - Rosary Chapel (MX): denser gilded decoration
+  - Bom Jesus de Matosinhos Congonhas (BR): broader pilgrimage sculpture ensemble
+  - Wieskirche (DE): comparable richly decorated church
+- Individual scores:
+  - impact: 9.2 — Ornate pink stone and gilded interior.
+  - uniqueness: 9.1 — Distinctive Mexican Churrigueresque ensemble.
+  - significance: 9.2 — Direct link to Guanajuato mining heritage.
+  - experience: 8.9 — Focused interior and facade interpretation.
+  - depth: 8.4 — Several altarpieces within compact church.
+- Categories: architecture 9.4, history 9.3, culture 9.1, photography 9.3.
+- Overall: 90.50/100.
+- High-score challenge: 90+ based on specific surviving architecture and mining patronage, not inherited UNESCO status. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-teatro-juarez — Teatro Juárez (Guanajuato) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/teatro-juarez.yaml)
+- Action: new
+- Precise subject: Historic theatre architecture and performance experience, not the whole Cervantino festival.
+- Location check: 21.0158, -101.2537; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://cultura.guanajuato.gob.mx/index.php/teatro-juarez/; https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/18296.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Teatro Colón (AR): greater international stature
+  - Teatro Amazonas (BR): more unusual regional context
+  - Palais Garnier (FR): much greater architectural breadth
+  - Teatro Degollado (MX): comparable national theatre
+- Individual scores:
+  - impact: 9.2 — Impressive classical exterior and ornate auditorium.
+  - uniqueness: 9.0 — Distinctive eclectic theatre design with peers worldwide.
+  - significance: 9.0 — Important historic civic performance venue.
+  - experience: 9.1 — Architectural visit and performances when scheduled.
+  - depth: 8.5 — Focused theatre scope.
+- Categories: architecture 9.4, culture 9.3, history 9.0, photography 9.2.
+- Overall: 90.25/100.
+- High-score challenge: Independent venue assessment; no credit for festival-wide programme. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-santa-rosa-de-viterbo — Church of Santa Rosa de Viterbo (Querétaro) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santa-rosa-de-viterbo.yaml)
+- Action: new
+- Precise subject: Individual Baroque church and surviving decorative ensemble.
+- Location check: 20.5866, -100.3975; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://queretaro.travel/fichas/templo-de-santa-rosa-de-viterbo/?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Santa Prisca (MX): greater mining heritage
+  - San Francisco Acatepec (MX): more unusual tile exterior
+  - Wieskirche (DE): comparable ornate interior
+  - Santo Domingo Oaxaca (MX): larger decorative ensemble
+- Individual scores:
+  - impact: 9.1 — Distinctive buttresses and rich interior.
+  - uniqueness: 9.1 — Unusual regional Baroque silhouette.
+  - significance: 9.0 — Important local religious architecture.
+  - experience: 8.8 — Focused architectural visit.
+  - depth: 8.4 — Compact site.
+- Categories: architecture 9.4, photography 9.2, history 9.0, culture 9.0.
+- Overall: 89.65/100.
+- High-score challenge: Provisional sub-90 assessment; no assumption of full former convent access. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-teatro-degollado — Teatro Degollado (Guadalajara) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/teatro-degollado.yaml)
+- Action: new
+- Precise subject: Theatre building and interior art plus normal performance experience.
+- Location check: 20.6767, -103.3451; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?disciplina=&table=teatro&table_id=381; https://www.cultura.gob.mx/noticias/museos-galerias-y-arquitectura/15610-el-emblematico-teatro-degollado-de-guadalajara-celebra-su-aniversario-145.html.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Teatro Juárez (MX): more distinctive eclectic interiors
+  - Teatro Colón (AR): greater opera heritage
+  - Teatro Massimo (IT): larger opera house
+  - Teatro Amazonas (BR): more unusual setting
+- Individual scores:
+  - impact: 9.0 — Neoclassical facade and decorated auditorium.
+  - uniqueness: 8.8 — Comparable historic opera houses.
+  - significance: 9.0 — Regional performance and nineteenth-century art heritage.
+  - experience: 9.1 — Live performances and architecture.
+  - depth: 8.5 — Focused auditorium and building.
+- Categories: architecture 9.3, culture 9.3, history 9.0, photography 9.1.
+- Overall: 89.15/100.
+- High-score challenge: Provisional sub-90 assessment; no guarantee of a specific performance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-teatro-macedonio-alcala — Teatro Macedonio Alcalá (Oaxaca) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/teatro-macedonio-alcala.yaml)
+- Action: new
+- Precise subject: Historic theatre only, not Oaxaca's wider performing arts scene.
+- Location check: 17.061, -96.723; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.gob.mx/ficha.php?table=teatro&table_id=2; https://www.oaxaca.gob.mx/comunicacion/teatro-macedonio-alcala-baluarte-historico-de-oaxaca/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Teatro Degollado (MX): more monumental neoclassical facade
+  - Teatro Juárez (MX): more elaborate eclectic ensemble
+  - Teatro Solís (UY): comparable historic theatre
+  - Teatro Colón (AR): much greater global stature
+- Individual scores:
+  - impact: 8.9 — Elaborate theatre facade and auditorium.
+  - uniqueness: 8.8 — Eclectic design with international analogues.
+  - significance: 8.9 — Important regional performance venue inaugurated in 1909.
+  - experience: 8.9 — Architectural and performance experience.
+  - depth: 8.3 — Compact theatre.
+- Categories: architecture 9.2, culture 9.2, history 9.0, photography 9.0.
+- Overall: 88.15/100.
+- High-score challenge: Provisional sub-90 assessment. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-templo-del-carmen-slp — Church of El Carmen (San Luis Potosí) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/templo-del-carmen-slp.yaml)
+- Action: new
+- Precise subject: Individual Carmelite church with surviving Baroque architectural decoration; not separately administered museum.
+- Location check: 22.1517, -100.9746; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/70274.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - San Cayetano Valenciana (MX): stronger mining context
+  - Santa Prisca (MX): more monumental integrated ensemble
+  - Santo Domingo Oaxaca (MX): more extensive decorative heritage
+  - Igreja de São Francisco Porto (PT): comparable gilded religious interior
+- Individual scores:
+  - impact: 9.1 — Ornate stone exterior and interior decoration.
+  - uniqueness: 9.0 — Distinctive Churrigueresque architectural ensemble.
+  - significance: 9.0 — Important regional colonial religious heritage.
+  - experience: 8.8 — Focused architectural exploration.
+  - depth: 8.5 — Limited church-scale breadth.
+- Categories: architecture 9.4, history 9.1, culture 9.1, photography 9.2.
+- Overall: 89.50/100.
+- High-score challenge: Provisional sub-90 assessment; no credit for broader historic city. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
+

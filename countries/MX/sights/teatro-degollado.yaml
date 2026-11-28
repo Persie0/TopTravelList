@@ -1,0 +1,17 @@
+id: sight-mx-teatro-degollado
+name: "Teatro Degollado (Guadalajara)"
+location:
+  country_code: MX
+  latitude: 20.6767
+  longitude: -103.3451
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 9.1
+  depth: 8.5
+  categories:
+    architecture: 9.3
+    culture: 9.3
+    history: 9.0
+    photography: 9.1
