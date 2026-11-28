@@ -628,3 +628,10 @@ Follow-up 2026-11-25: all 15 formerly editorial-only records supplemented with s
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Surf spot guide](https://www.surfspots.co/spot/cap-lopez) documents coastal surf and warns of oil-zone restrictions. Score refers only to normal permitted shore experience, not access to industrial installations. Reviewed 2026-11-25. Original status editorial-only; other material claims remain unverified.
 - Remaining gaps: Independent claim-level verification, GPS where unchecked, access and individual peer/category calibration.
+
+## sight-ga-ecosystem-and-relict-cultural-landscape-of-lope-okanda-serial-unesco-property — 2026-11-28 wildlife category completion
+
+- [YAML](../../../countries/GA/sights/ecosystem-and-relict-cultural-landscape-of-lope-okanda-serial-unesco-property.yaml) · Action: complete explicitly applicable category · **source-linked-unverified** (conservative editorial rating; no claim of comprehensive factual verification).
+- Wildlife: null → **9.3/10**. UNESCO confirms endangered large mammals in a forest-savanna mosaic; the UNEP-WCMC heritage datasheet documents gorillas, chimpanzees and mandrills, but its historical population figures are not treated as current counts. Compared with Loango (GA, 9.7), Bwindi (UG, 9.8), Volcanoes National Park (RW, 9.9), and Okavango (BW, 9.9), wildlife diversity is strong but evidence of current observable concentrations and encounter consistency is weaker. 9.3 reflects the mixed landscape's primate and mammal interest without assuming reliable sightings.
+- Evidence (2026-11-28): https://whc.unesco.org/en/list/1147/ ; https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/ecosystem-relict-cultural-landscape-of-lope-okanda/. Peer values were read from current repository YAML at the parent commit; peer ratings themselves were not independently recalibrated.
+- All core scores, other categories, names and coordinates are unchanged. No access-related scoring penalty and no new perfect score.
