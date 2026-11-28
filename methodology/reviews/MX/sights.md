@@ -8025,3 +8025,257 @@ Existing Ría Lagartos and Los Petenes–Ría Celestún records already encompas
 - Earlier decision: none.
 - Remaining verification: coordinates, independent source triangulation, numerical peer comparisons and global Python validation; current visitor permissions not verified.
 
+## Pass 434 — Coastal and island landscapes
+
+Colola and Maruata treated as one adjacent nesting complex. Bahía de los Ángeles assessed as a specific marine reserve, without inheriting the wider Gulf of California property's rating. Existing Puerto Escondido surf reserve and Balandra are not duplicated.
+
+## sight-mx-colola-maruata-black-turtles — Colola–Maruata Black Sea Turtle Nesting Sanctuaries — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/colola-maruata-black-turtles.yaml)
+- Action: new
+- Precise subject: Two adjacent principal eastern Pacific green turtle nesting beaches, excluding the distinct Ixtapilla olive ridley experience.
+- Location check: 18.297, -103.411; approximate representative point, not an entrance or wildlife encounter pin. Rounded coordinates from the cited conservation study.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=127; https://www.scielo.org.mx/scielo.php?pid=S0016-71692010000400004&script=sci_arttext; https://onlinelibrary.wiley.com/doi/10.1111/conl.12921.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tortuguero (CR): more established guided viewing
+  - Mon Repos (AU): comparable protected nesting
+  - Rancho Nuevo (MX): critical habitat for a different species
+  - Escobilla (MX): greater synchronized olive ridley spectacle
+- Individual scores:
+  - impact: 9.3 — Large seasonal nesting phenomenon.
+  - uniqueness: 9.5 — Rare concentration of eastern Pacific green turtle nesting.
+  - significance: 9.7 — Principal documented nesting habitat of this population.
+  - experience: 8.5 — Controlled observation potential without assumed unrestricted access.
+  - depth: 8.6 — Two complementary beaches and conservation history.
+- Categories: wildlife 9.6, nature 9.3, photography 9.0.
+- Overall: 92.40/100.
+- High-score challenge: Uniqueness 9.5, significance 9.7 and wildlife 9.6 justified by documented primary nesting role; no current population estimate extrapolated from historical observations. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-isla-isabel-national-park — Isla Isabel National Park and Seabird Colonies — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/isla-isabel-national-park.yaml)
+- Action: new
+- Precise subject: Volcanic island with nesting seabird colonies and immediate marine surroundings; not other Nayarit islands.
+- Location check: 21.845, -105.886; approximate representative point, not an entrance or wildlife encounter pin. Independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=74; https://www.gob.mx/conanp/articulos/conanp-y-pronatura-proponen-medidas-para-la-conservacion-de-isla-isabel-nayarit; https://www.visitanayarit.com/en/isla-isabel-the-mexican-galapagos-in-nayarit/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Galápagos (EC): vastly broader endemic wildlife
+  - Laysan (US): major remote seabird habitat
+  - Farne Islands (GB): comparable seabird colonies
+  - Isla Contoy (MX): distinct Caribbean bird reserve
+- Individual scores:
+  - impact: 9.3 — Dense seabird colonies in striking volcanic landscapes.
+  - uniqueness: 9.3 — Close observation of multiple nesting species on authorized trails.
+  - significance: 9.4 — Internationally important seabird sanctuary.
+  - experience: 9.1 — Birdwatching, coastal exploration and snorkeling where permitted.
+  - depth: 8.7 — Island trails and marine surroundings offer varied observations.
+- Categories: wildlife 9.5, nature 9.3, photography 9.4, adventure 8.8.
+- Overall: 92.30/100.
+- High-score challenge: Wildlife 9.5 supported by documented nine seabird species and major breeding colonies; no equivalence with Galápagos implied. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-bahia-de-los-angeles-reserve — Bahía de los Ángeles and Canal de Ballenas Marine Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/bahia-de-los-angeles-reserve.yaml)
+- Action: new
+- Precise subject: Specific reserve's bays, islands and marine wildlife; does not inherit the wider Gulf of California property score.
+- Location check: 28.952, -113.562; approximate representative point, not an entrance or wildlife encounter pin. Rounded coordinates from the cited conservation study.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=182; https://conanp.gob.mx/conanp/dominios/bahia_angeles/index.php; https://onlinelibrary.wiley.com/doi/10.1111/conl.12921.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Loreto Bay (MX): comparable Gulf island landscapes
+  - Ningaloo (AU): extensive reef and whale shark experiences
+  - Azores (PT): broad cetacean encounters
+  - Gulf of California (MX): much larger umbrella property
+- Individual scores:
+  - impact: 9.3 — Desert islands and rich marine encounters.
+  - uniqueness: 9.1 — Distinctive desert-sea ecosystem with international analogues.
+  - significance: 9.4 — Large protected marine habitat with many cetacean species.
+  - experience: 9.0 — Boat wildlife trips and coastal exploration subject to conditions.
+  - depth: 9.2 — Large area with diverse marine habitats.
+- Categories: wildlife 9.5, nature 9.4, photography 9.3, adventure 9.1.
+- Overall: 92.15/100.
+- High-score challenge: Wildlife 9.5 based on documented cetacean diversity and sea lion and whale shark habitat; not guaranteed simultaneous sightings. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-huatulco-national-park — Huatulco National Park and Coastal Bays — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/huatulco-national-park.yaml)
+- Action: new
+- Precise subject: Protected coastal land and marine habitats, excluding the broader resort town and unprotected attractions.
+- Location check: 15.744, -96.183; approximate representative point, not an entrance or wildlife encounter pin. Independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=69; https://simec.conanp.gob.mx/informacion/ficha/134?reg=11.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Balandra (MX): more iconic individual bay
+  - Tayrona (CO): stronger rainforest-coast juxtaposition
+  - Manuel Antonio (CR): more concentrated wildlife
+  - Ang Thong (TH): greater island and karst scenery
+- Individual scores:
+  - impact: 9.2 — Scenic beaches backed by dry forest.
+  - uniqueness: 8.9 — Distinctive transition between mountains and Pacific bays.
+  - significance: 9.1 — Protected reef, forest and wetland ecosystems.
+  - experience: 9.3 — Varied coastal boating, swimming and nature experiences.
+  - depth: 9.2 — Multiple bays, terrestrial trails and underwater habitats.
+- Categories: nature 9.3, beaches 9.4, wildlife 9.1, photography 9.3, relaxation 9.2.
+- Overall: 91.20/100.
+- High-score challenge: 90+ reflects actual habitat variety and coastal experience, not automatic inheritance of the resort's nine-bay marketing claims. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-islas-marias-biosphere-reserve — Islas Marías Biosphere Reserve and María Madre Penal Colony Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/islas-marias-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Remote archipelago's natural and former prison heritage; visitor experience assessed primarily on María Madre.
+- Location check: 21.64, -106.54; approximate representative point, not an entrance or wildlife encounter pin. Independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/islas-marias?hub=66369; https://visitmexico.com/en/destino/18626/enmarias-islandsesislas-marias; https://visitmexico.com/en/destino/2045/islas-marias.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Robben Island (ZA): greater political historical significance
+  - Îles du Salut (GF): comparable penal island heritage
+  - Galápagos (EC): much greater natural significance
+  - Isla Isabel (MX): stronger focused seabird experience
+- Individual scores:
+  - impact: 8.9 — Remote coastal landscapes and former prison buildings.
+  - uniqueness: 9.4 — Distinctive combination of biosphere and penal colony.
+  - significance: 9.3 — Significant conservation and twentieth-century penal history.
+  - experience: 8.9 — Established heritage tours and nature exploration.
+  - depth: 8.9 — Multiple historic sites and habitats but limited public island scope.
+- Categories: nature 9.2, history 9.2, culture 9.0, wildlife 9.0, photography 9.0.
+- Overall: 91.05/100.
+- High-score challenge: 90+ reflects distinctive combined scope and documented history; only María Madre assumed to have ordinary organized tourism, not the whole archipelago. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-lagunas-de-chacahua — Lagunas de Chacahua National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/lagunas-de-chacahua.yaml)
+- Action: new
+- Precise subject: Protected lagoon and mangrove system, beaches and occasional bioluminescence.
+- Location check: 15.975, -97.655; approximate representative point, not an entrance or wildlife encounter pin. Independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=95; https://www.oaxaca.gob.mx/comunicacion/parque-nacional-lagunas-de-chacahua-un-tesoro-natural-en-la-costa-sectur-oaxaca/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sian Ka'an (MX): greater ecological scale
+  - Manialtepec (MX): similar bioluminescence
+  - Tortuguero (CR): stronger wildlife diversity
+  - Ría Lagartos (MX): stronger concentrated birdlife
+- Individual scores:
+  - impact: 9.0 — Scenic lagoon and Pacific coastline.
+  - uniqueness: 9.0 — Combination of mangroves, beach and nighttime glow.
+  - significance: 8.9 — Important protected coastal ecosystem.
+  - experience: 9.2 — Boat tours and beach exploration.
+  - depth: 9.0 — Multiple waterways and coastal habitats.
+- Categories: nature 9.3, wildlife 9.2, beaches 9.1, photography 9.2, relaxation 9.0.
+- Overall: 90.10/100.
+- High-score challenge: Bioluminescence variable; coastal ecosystem and other experiences assessed independently. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-isla-mujeres-playa-norte — Playa Norte (Isla Mujeres) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/isla-mujeres-playa-norte.yaml)
+- Action: new
+- Precise subject: Specific shallow-water sandy beach; excludes the island and other attractions.
+- Location check: 21.263, -86.747; approximate representative point, not an entrance or wildlife encounter pin. Independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2001/isla-mujeres.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Grace Bay (TC): larger beach setting
+  - Anse Lazio (SC): stronger granite backdrop
+  - Seven Mile Beach (KY): comparable Caribbean beach
+  - Balandra (MX): greater desert landscape contrast
+- Individual scores:
+  - impact: 9.2 — White sand and turquoise shallows.
+  - uniqueness: 8.6 — Attractive but comparable tropical beaches.
+  - significance: 8.3 — Limited broader heritage significance.
+  - experience: 9.3 — Accessible bathing and relaxation in normal conditions.
+  - depth: 8.3 — Focused beach experience.
+- Categories: beaches 9.5, relaxation 9.3, photography 9.3, family 9.0.
+- Overall: 87.95/100.
+- High-score challenge: Beaches 9.5 reflects the characteristic shallow turquoise water and white sand; no travel poll rank is treated as objective evidence. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-isla-mujeres-punta-sur — Punta Sur Cliffs and Coastal Trail (Isla Mujeres) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/isla-mujeres-punta-sur.yaml)
+- Action: new
+- Precise subject: Southern island headland and coastal views; excludes northern beaches.
+- Location check: 21.203, -86.709; approximate representative point, not an entrance or wildlife encounter pin. Independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2001/isla-mujeres.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cabo da Roca (PT): greater cliff scale
+  - Punta Cometa (MX): similar headland experience
+  - Neist Point (GB): stronger cliff scenery
+  - Cape Byron (AU): comparable coastal trail
+- Individual scores:
+  - impact: 8.8 — Dramatic rocky coastal views.
+  - uniqueness: 8.6 — Distinctive Caribbean headland but comparable cliffs exist.
+  - significance: 8.5 — Local heritage and geographic significance.
+  - experience: 8.7 — Short scenic coastal walk.
+  - depth: 8.0 — Compact visitor scope.
+- Categories: nature 9.0, photography 9.1, history 8.5.
+- Overall: 85.95/100.
+- High-score challenge: Focused scenic visit; no broader island score inherited. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-punta-cometa-mazunte — Punta Cometa Coastal Headland (Mazunte) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/punta-cometa-mazunte.yaml)
+- Action: new
+- Precise subject: Headland trails, ocean views and documented local ritual context, not all Mazunte.
+- Location check: 15.661, -96.558; approximate representative point, not an entrance or wildlife encounter pin. Independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/es/destino/2194/mazunte-oaxaca.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cabo da Roca (PT): more monumental cliffs
+  - Cape Byron (AU): comparable viewpoint and trails
+  - Punta Sur (MX): Caribbean counterpart
+  - Neist Point (GB): more dramatic cliffs
+- Individual scores:
+  - impact: 9.0 — Pacific panoramas and sunsets.
+  - uniqueness: 8.7 — Prominent rocky headland with global analogues.
+  - significance: 8.5 — Local cultural and coastal importance.
+  - experience: 8.9 — Scenic walks and ocean observation.
+  - depth: 8.1 — Relatively short headland visit.
+- Categories: nature 9.1, photography 9.3, relaxation 8.8, culture 8.6.
+- Overall: 87.20/100.
+- High-score challenge: Sunset quality is condition-dependent; no unsupported claim of national geographic superlatives. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-yelapa-bay-waterfall — Yelapa Bay and Village Waterfall — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/yelapa-bay-waterfall.yaml)
+- Action: new
+- Precise subject: Coastal bay, beach and nearby village waterfall; excludes other Banderas Bay attractions.
+- Location check: 20.489, -105.448; approximate representative point, not an entrance or wildlife encounter pin. Independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/recomendacion/83/playas-de-jalisco-para-disfrutar-en-vacaciones-de-invierno.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Railay (TH): greater rock scenery
+  - Tayrona (CO): more extensive protected beaches
+  - Las Galeras (DO): similar coastal setting
+  - Huatulco (MX): wider range of bays
+- Individual scores:
+  - impact: 8.8 — Tropical bay with green hills.
+  - uniqueness: 8.6 — Combination of beach and waterfall but comparable sites exist.
+  - significance: 8.3 — Local natural and community heritage.
+  - experience: 9.0 — Boat arrival, beach visit and waterfall walk.
+  - depth: 8.6 — Several complementary features within small area.
+- Categories: beaches 9.0, nature 9.0, relaxation 9.2, photography 8.9.
+- Overall: 86.60/100.
+- High-score challenge: Provisional lower-score assessment; no claim of year-round waterfall flow. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+

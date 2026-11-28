@@ -1,0 +1,17 @@
+id: sight-mx-isla-mujeres-playa-norte
+name: "Playa Norte (Isla Mujeres)"
+location:
+  country_code: MX
+  latitude: 21.263
+  longitude: -86.747
+scores:
+  impact: 9.2
+  uniqueness: 8.6
+  significance: 8.3
+  experience: 9.3
+  depth: 8.3
+  categories:
+    beaches: 9.5
+    relaxation: 9.3
+    photography: 9.3
+    family: 9.0

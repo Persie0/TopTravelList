@@ -1,0 +1,17 @@
+id: sight-mx-bahia-de-los-angeles-reserve
+name: "Bahía de los Ángeles and Canal de Ballenas Marine Reserve"
+location:
+  country_code: MX
+  latitude: 28.952
+  longitude: -113.562
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.0
+  depth: 9.2
+  categories:
+    wildlife: 9.5
+    nature: 9.4
+    photography: 9.3
+    adventure: 9.1
