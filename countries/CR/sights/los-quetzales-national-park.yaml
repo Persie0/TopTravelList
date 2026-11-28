@@ -1,0 +1,16 @@
+id: sight-cr-los-quetzales-national-park
+name: "Los Quetzales National Park Montane Forest and Birdwatching Trails"
+location:
+  country_code: CR
+  latitude: 9.581
+  longitude: -83.802
+scores:
+  impact: 8.6
+  uniqueness: 8.8
+  significance: 8.8
+  experience: 8.6
+  depth: 8.4
+  categories:
+    wildlife: 9.3
+    nature: 9.2
+    photography: 9.0

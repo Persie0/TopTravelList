@@ -5758,3 +5758,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CL — Senda Darwin Biological Reserve Chiloé Forest Interpretation Trails: 84.30/100 (desk-based provisional).
 
 12 provisional additions (5 source-linked, 7 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 156 ranked / 156 total, +89 since baseline 67, 33 new 90+ across eight passes. Paranal, Puñihuil, Frutillar and SANFIC researched; La Silla public tours also sourced. ALMA routine public programme remains suspended despite two special October visits (https://www.almaobservatory.org/en/visits/ ; https://www.almaobservatory.org/en/announcements/during-science-month-alma-opens-its-doors-to-celebrate-15-years-of-observing-the-universe/); defer separate visitor scope. Patagonian parks route inventory screened (https://chile.travel/en/destinations/patagonian-parks-route/): Corcovado, Melimoyu and Yendegaia deferred for distinct established visitor activity scope, rather than lack of physical access alone (https://www.conaf.cl/parque_nacionales/parque-nacional-corcovado/ ; https://www.conaf.cl/parque_nacionales/parque-nacional-melimoyu/ ; https://www.conaf.cl/parque_nacionales/parque-nacional-yendegaia/). Chañaral de Aceituno boat wildlife overlaps Humboldt Penguin reserve (https://chile.travel/en/attractions/humboldt-penguin-national-reserve/). Prior Kawésqar, Aysén Isla Magdalena, Salar del Huasco, Villarrica crater, Carretera Austral and UNESCO component deferrals retained. Bounded current discovery queue closed, not exhaustive; reopen for concrete substantial omission. Existing scores preserved; coordinates approximate, access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 326 — Costa Rica wildlife and cultural heritage
+
+- [x] CR — Ostional Wildlife Refuge Guided Olive Ridley Turtle Arribada: 93.05/100 (source-linked provisional).
+- [x] CR — Boruca Juego de los Diablitos Community-Authorized Public Festival: 92.25/100 (source-linked provisional).
+- [x] CR — Cartago Romería Virgen de los Ángeles Public Pilgrimage: 91.35/100 (source-linked provisional).
+- [x] CR — Limón Caribbean Carnival Public Parade and Cultural Programme: 90.65/100 (source-linked provisional).
+- [x] CR — La Selva Biological Station Guided Lowland Rainforest and Birdwatching: 90.80/100 (source-linked provisional).
+- [x] CR — Sarchí Eloy Alfaro Oxcart Workshop and Painted Craft Heritage: 89.15/100 (source-linked provisional).
+- [x] CR — Children's Eternal Rainforest Bajo del Tigre and Designated Visitor Trails: 88.10/100 (desk-based provisional).
+- [x] CR — Los Quetzales National Park Montane Forest and Birdwatching Trails: 86.70/100 (desk-based provisional).
+- [x] CR — Piedras Blancas National Park Lowland Rainforest and Wildlife Trails: 87.00/100 (desk-based provisional).
+- [x] CR — Gandoca Manzanillo Wildlife Refuge Coastal Forest and Wetland Trails: 87.05/100 (desk-based provisional).
+- [x] CR — La Paz Waterfall Gardens Waterfall and Forest Visitor Trails: 84.95/100 (desk-based provisional).
+- [x] CR — Juan Castro Blanco National Park Montane Forest and Water Landscapes: 84.70/100 (desk-based provisional).
+
+12 provisional additions (6 source-linked, 6 desk-based), 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 74 ranked / 74 total, +12 since baseline 62. Ostional, Boruca, Cartago pilgrimage, Limón carnival, La Selva and Sarchí researched. Ostional scope limited to mass nesting beach, not existing Guiones surf entry; Boruca attendance subject to community permission; Romería distinct event from existing basilica. Sarchí UNESCO designation applies to living tradition rather than factory building. Four existing inscribed World Heritage properties represented in named baseline; tentative/component screen pending. Costa Rica OPEN. Coordinates approximate; access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.

@@ -1230,3 +1230,247 @@
 - Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/928/) confirms important dry forest and terrestrial-to-marine habitats; [ACG Santa Rosa sector](https://www.acguanacaste.ac.cr/turismo/sector-santa-rosa) provides a specific tourism sector reference. Significance 9.6, nature/wildlife 9.5 reflect habitat importance, while visual impact/uniqueness depend on ecological contrasts and experience/depth on actual sectors. Do not credit the entire province or guarantee wildlife sightings.
 - Qualitative comparison leads (peer YAML ratings not independently checked): Sian Ka'an (Mexico): different coastal wetland mosaic; Talamanca (Costa Rica/Panama): mountain forests; Corcovado (Costa Rica): narrower rainforest; Kakadu (Australia): diverse tropical habitats with different cultural context.
 - Current I/U/S/E/D: 9.3 / 9.4 / 9.6 / 9.2 / 9.3; overall 93.70/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
+
+## sight-cr-ostional-arribada — Ostional Wildlife Refuge Guided Olive Ridley Turtle Arribada — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/ostional-arribada.yaml)
+- Action: new
+- Scope: Mass nesting on Ostional beach, not surfing at Guiones or nesting at Las Baulas. SINAC requires local guide during arribadas; episodic timing and sightings not guaranteed. Wildlife 9.6 and uniqueness 9.6 reflect rare mass nesting at this particular site.
+- Representative coordinates: 9.996, -85.698; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://sinac.go.cr/ES/ac/act/rnvso/Paginas/default.aspx ; https://www.visitcostarica.com/blog/5-places-costa-rica-you-wont-find-most-guidebooks
+- Core I/U/S/E/D: 9.4 / 9.6 / 9.3 / 9.1 / 8.6.
+- Categories: wildlife:9.6 nature:9.4 photography:9.2.
+- Overall: 93.05/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/tortuguero-national-park](../../../countries/CR/sights/tortuguero-national-park.yaml) | 9.3 / 9.3 / 9.4 / 9.3 / 9.2 | impact: 0.1; uniqueness: 0.3 vs peer |
+| [CL/punihuil-penguin-islets](../../../countries/CL/sights/punihuil-penguin-islets.yaml) | 9.0 / 9.3 / 8.9 / 9.0 / 8.6 | impact: 0.4; uniqueness: 0.3 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-boruca-juego-diablitos — Boruca Juego de los Diablitos Community-Authorized Public Festival — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/boruca-juego-diablitos.yaml)
+- Action: new
+- Scope: Boruca annual public celebration of Indigenous resistance, distinct from Diquís archaeology. Community consent governs attendance and photography; excludes private rites; Rey Curré not counted separately yet. National intangible heritage, not UNESCO inscription.
+- Representative coordinates: 9.002, -83.323; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://si.cultura.cr/es/expresiones-y-manifestaciones/el-juego-de-los-diablitos ; https://www.visitcostarica.com/things-to-do/events-and-festivals ; https://www.imprentanacional.go.cr/pub/2017/12/14/COMP_14_12_2017.html
+- Core I/U/S/E/D: 9.1 / 9.4 / 9.4 / 9.1 / 9.0.
+- Categories: culture:9.4 history:9.3 photography:9.1.
+- Overall: 92.25/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/guayabo-national-monument](../../../countries/CR/sights/guayabo-national-monument.yaml) | 8.0 / 8.4 / 8.9 / 8.3 / 8.0 | impact: 1.1; uniqueness: 1.0 vs peer |
+| [CL/tapati-rapa-nui](../../../countries/CL/sights/tapati-rapa-nui.yaml) | 9.4 / 9.4 / 9.4 / 9.2 / 9.1 | impact: -0.3; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-cartago-romeria — Cartago Romería Virgen de los Ángeles Public Pilgrimage — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/cartago-romeria.yaml)
+- Action: new
+- Scope: Annual public pilgrimage culminating August 2, separate from ordinary basilica architecture entry; no duplicated building credit or private religious access.
+- Representative coordinates: 9.863, -83.912; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.visitcostarica.com/press/events ; https://www.visitcostarica.com/knowing-costa-rica/cartago
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.4 / 9.2 / 9.0.
+- Categories: culture:9.4 history:9.2 photography:9.0.
+- Overall: 91.35/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/basilica-de-nuestra-senora-de-los-angeles](../../../countries/CR/sights/basilica-de-nuestra-senora-de-los-angeles.yaml) | 8.0 / 8.1 / 8.5 / 8.1 / 7.2 | impact: 1.0; uniqueness: 1.0 vs peer |
+| [CL/andacollo-rosary-festival](../../../countries/CL/sights/andacollo-rosary-festival.yaml) | 9.2 / 9.3 / 9.5 / 9.1 / 9.2 | impact: -0.2; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-limon-carnival — Limón Caribbean Carnival Public Parade and Cultural Programme — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/limon-carnival.yaml)
+- Action: new
+- Scope: Recurring Afro-Caribbean carnival and public parade, excludes private events; national tourism inventory documents established October tradition, no future schedule guaranteed.
+- Representative coordinates: 9.99, -83.035; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.visitcostarica.com/things-to-do/events-and-festivals ; https://www.visitcostarica.com/plan-your-trip/when-to-visit
+- Core I/U/S/E/D: 9.0 / 9.0 / 9.1 / 9.3 / 9.0.
+- Categories: culture:9.4 nightlife:9.2 food:9.1.
+- Overall: 90.65/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/national-theatre-of-costa-rica](../../../countries/CR/sights/national-theatre-of-costa-rica.yaml) | 8.4 / 8.2 / 8.6 / 8.3 / 7.4 | impact: 0.6; uniqueness: 0.8 vs peer |
+| [CL/arica-fuerza-del-sol](../../../countries/CL/sights/arica-fuerza-del-sol.yaml) | 9.3 / 9.1 / 9.2 / 9.3 / 9.0 | impact: -0.3; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-la-selva-biological-station — La Selva Biological Station Guided Lowland Rainforest and Birdwatching — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/la-selva-biological-station.yaml)
+- Action: new
+- Scope: Specific research station visitor trails and guided bird/night tours, not Braulio Carrillo park aggregate; no access to research-only areas or wildlife guarantees.
+- Representative coordinates: 10.431, -84.006; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.visitcostarica.com/blog/la-selva-biological-station
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 8.9 / 9.1.
+- Categories: nature:9.4 wildlife:9.4 photography:9.1.
+- Overall: 90.80/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/monteverde-cloud-forest-biological-reserve](../../../countries/CR/sights/monteverde-cloud-forest-biological-reserve.yaml) | 9.2 / 9.3 / 9.4 / 9.3 / 8.5 | impact: -0.2; uniqueness: -0.2 vs peer |
+| [CL/tantauco-park](../../../countries/CL/sights/tantauco-park.yaml) | 9.1 / 9.0 / 8.9 / 9.0 / 9.3 | impact: -0.1; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-sarchi-oxcart-heritage — Sarchí Eloy Alfaro Oxcart Workshop and Painted Craft Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/sarchi-oxcart-heritage.yaml)
+- Action: new
+- Scope: Specific heritage workshop and public demonstrations when available. UNESCO recognizes the national craft and oxherding tradition, not the building as a World Heritage site.
+- Representative coordinates: 10.087, -84.334; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://ich.unesco.org/en/RL/oxherding-and-oxcart-traditions-in-costa-rica-00103 ; https://ich.unesco.org/en/state/costa-rica-CR?cp=CR&info=periodic-reporting&topic=ar-state ; https://eljardin.cr/en/eloy-alfaro/
+- Core I/U/S/E/D: 8.6 / 9.2 / 9.4 / 8.7 / 8.5.
+- Categories: culture:9.4 history:9.2 photography:9.1.
+- Overall: 89.15/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/national-museum-of-costa-rica](../../../countries/CR/sights/national-museum-of-costa-rica.yaml) | 7.7 / 8.0 / 8.6 / 8.2 / 8.1 | impact: 0.9; uniqueness: 1.2 vs peer |
+| [CL/isla-negra-neruda-house](../../../countries/CL/sights/isla-negra-neruda-house.yaml) | 9.0 / 9.2 / 9.5 / 8.8 / 9.0 | impact: -0.4; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-childrens-eternal-rainforest — Children's Eternal Rainforest Bajo del Tigre and Designated Visitor Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/childrens-eternal-rainforest.yaml)
+- Action: new
+- Scope: Named private conservation area and its own visitor routes; distinct from Monteverde and Santa Elena reserves. Approximate trail-area point.
+- Representative coordinates: 10.306, -84.818; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.8 / 8.8 / 9.0 / 8.6 / 8.8.
+- Categories: nature:9.3 wildlife:9.2 photography:9.1.
+- Overall: 88.10/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/santa-elena-cloud-forest-reserve](../../../countries/CR/sights/santa-elena-cloud-forest-reserve.yaml) | 8.7 / 8.8 / 8.6 / 8.7 / 8.5 | impact: 0.1; uniqueness: 0.0 vs peer |
+| [CL/huilo-huilo-biological-reserve](../../../countries/CL/sights/huilo-huilo-biological-reserve.yaml) | 9.2 / 9.1 / 8.9 / 9.0 / 9.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-los-quetzales-national-park — Los Quetzales National Park Montane Forest and Birdwatching Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/los-quetzales-national-park.yaml)
+- Action: new
+- Scope: Designated national park trails only, no guaranteed quetzal sighting or separate Dota forest credit.
+- Representative coordinates: 9.581, -83.802; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.6 / 8.8 / 8.8 / 8.6 / 8.4.
+- Categories: wildlife:9.3 nature:9.2 photography:9.0.
+- Overall: 86.70/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/monteverde-cloud-forest-biological-reserve](../../../countries/CR/sights/monteverde-cloud-forest-biological-reserve.yaml) | 9.2 / 9.3 / 9.4 / 9.3 / 8.5 | impact: -0.6; uniqueness: -0.5 vs peer |
+| [CL/alerce-andino-national-park](../../../countries/CL/sights/alerce-andino-national-park.yaml) | 8.8 / 8.9 / 9.1 / 8.7 / 8.8 | impact: -0.2; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-piedras-blancas-national-park — Piedras Blancas National Park Lowland Rainforest and Wildlife Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/piedras-blancas-national-park.yaml)
+- Action: new
+- Scope: Distinct terrestrial protected area on Golfo Dulce; excludes gulf boat wildlife and Corcovado trails.
+- Representative coordinates: 8.712, -83.252; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.8 / 8.5 / 8.8.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.0.
+- Overall: 87.00/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/corcovado-national-park](../../../countries/CR/sights/corcovado-national-park.yaml) | 9.5 / 9.5 / 9.6 / 9.4 / 9.5 | impact: -0.8; uniqueness: -0.8 vs peer |
+| [CL/pumalin-douglas-tompkins-national-park](../../../countries/CL/sights/pumalin-douglas-tompkins-national-park.yaml) | 9.1 / 8.9 / 9.2 / 8.6 / 8.9 | impact: -0.4; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-gandoca-manzanillo-refuge — Gandoca Manzanillo Wildlife Refuge Coastal Forest and Wetland Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/gandoca-manzanillo-refuge.yaml)
+- Action: new
+- Scope: Designated coastal forest and wetland routes; no repeated beach-only credit for nearby Punta Uva.
+- Representative coordinates: 9.628, -82.649; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.7 / 8.8 / 8.6.
+- Categories: nature:9.3 wildlife:9.2 beaches:9.0.
+- Overall: 87.05/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/cahuita-national-park](../../../countries/CR/sights/cahuita-national-park.yaml) | 8.8 / 8.8 / 8.9 / 9.1 / 8.4 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [CL/chiloe-national-park](../../../countries/CL/sights/chiloe-national-park.yaml) | 8.5 / 8.6 / 8.6 / 8.5 / 8.3 | impact: 0.2; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-la-paz-waterfall-gardens — La Paz Waterfall Gardens Waterfall and Forest Visitor Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/la-paz-waterfall-gardens.yaml)
+- Action: new
+- Scope: Scoped to named waterfall and forest trails, excluding captive wildlife handling and rescue claims.
+- Representative coordinates: 10.206, -84.168; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.7 / 8.5 / 8.0 / 8.8 / 8.4.
+- Categories: nature:9.2 photography:9.2 family:9.0.
+- Overall: 84.95/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/nauyaca-waterfalls](../../../countries/CR/sights/nauyaca-waterfalls.yaml) | 8.9 / 8.6 / 7.2 / 8.8 / 7.6 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [CL/radal-siete-tazas-national-park](../../../countries/CL/sights/radal-siete-tazas-national-park.yaml) | 8.9 / 8.9 / 8.4 / 8.9 / 8.5 | impact: -0.2; uniqueness: -0.4 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cr-juan-castro-blanco-national-park — Juan Castro Blanco National Park Montane Forest and Water Landscapes — 2026-11-28
+
+- YAML: [source](../../../countries/CR/sights/juan-castro-blanco-national-park.yaml)
+- Action: new
+- Scope: Designated visitor routes only, no assumption of public access to entire watershed or private properties.
+- Representative coordinates: 10.227, -84.363; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.4 / 8.6 / 8.6 / 8.2 / 8.5.
+- Categories: nature:9.2 wildlife:9.0 photography:8.9.
+- Overall: 84.70/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CR/braulio-carrillo-national-park](../../../countries/CR/sights/braulio-carrillo-national-park.yaml) | 8.5 / 8.7 / 8.8 / 8.3 / 8.6 | impact: -0.1; uniqueness: -0.1 vs peer |
+| [CL/hornopiren-national-park](../../../countries/CL/sights/hornopiren-national-park.yaml) | 8.8 / 8.7 / 8.5 / 8.4 / 8.7 | impact: -0.4; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+### Pass 326 scope decisions
+
+12 provisional additions (6 source-linked, 6 desk-based), 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 74 ranked / 74 total, +12 since baseline 62. Ostional, Boruca, Cartago pilgrimage, Limón carnival, La Selva and Sarchí researched. Ostional scope limited to mass nesting beach, not existing Guiones surf entry; Boruca attendance subject to community permission; Romería distinct event from existing basilica. Sarchí UNESCO designation applies to living tradition rather than factory building. Four existing inscribed World Heritage properties represented in named baseline; tentative/component screen pending. Costa Rica OPEN. Coordinates approximate; access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
