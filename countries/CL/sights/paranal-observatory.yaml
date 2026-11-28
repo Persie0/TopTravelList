@@ -1,0 +1,16 @@
+id: sight-cl-paranal-observatory
+name: "Paranal Observatory Very Large Telescope Guided Public Tour"
+location:
+  country_code: CL
+  latitude: -24.627
+  longitude: -70.404
+scores:
+  impact: 9.2
+  uniqueness: 9.3
+  significance: 9.5
+  experience: 8.8
+  depth: 9.0
+  categories:
+    culture: 9.3
+    photography: 9.2
+    family: 9.0

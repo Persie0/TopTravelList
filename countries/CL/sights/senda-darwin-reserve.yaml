@@ -1,0 +1,16 @@
+id: sight-cl-senda-darwin-reserve
+name: "Senda Darwin Biological Reserve Chiloé Forest Interpretation Trails"
+location:
+  country_code: CL
+  latitude: -41.882
+  longitude: -73.666
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.7
+  experience: 8.2
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    photography: 8.8

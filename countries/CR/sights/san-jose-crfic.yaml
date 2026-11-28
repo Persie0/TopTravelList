@@ -1,0 +1,15 @@
+id: sight-cr-san-jose-crfic
+name: "San José Costa Rica International Film Festival Public Screening Programme"
+location:
+  country_code: CR
+  latitude: 9.935
+  longitude: -84.079
+scores:
+  impact: 8.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.9
+  depth: 8.8
+  categories:
+    culture: 9.3
+    nightlife: 9.0

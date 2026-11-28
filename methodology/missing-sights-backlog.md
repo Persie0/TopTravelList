@@ -5673,3 +5673,207 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CL — Caleta Tortel Cypress Boardwalk Village: 88.25/100 (source-linked provisional).
 
 12 source-linked provisional additions, 4 90+, 24 ranking-row comparisons (2 international, 22 domestic). CL 95 ranked / 96 total, +29 since baseline 67, 15 new 90+ across three passes. UNESCO 19 tentative properties checked against named inventory (https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl): 9 direct, 7 partial, 1 legacy unassessed (Monte Verde), 2 deferred (Ayquina/Toconce and Cerro el Plomo shrine pending independent visitor scope). Four new direct (San Francisco, Temuco depot, Huique and Malleco); two partial (Altiplano churches and Patagonian rock art), exact components not independently mapped. All seven inscribed represented per previous inventory. Castro cultural fair distinct from church architecture; Cuasimodo excludes private rites, Santiago Fiestas Patrias scoped to Parque O'Higgins; Colchagua harvest distinct from ordinary wineries. Cochamo scoped to valley hiking; technical climbing not assumed. Caleta Tortel distinct pedestrian settlement. Earlier ALMA and Carretera Austral deferrals retained. Chile OPEN; existing scores and one unassessed preserved. Coordinates approximate; full Python validation, independent peer YAML checks, current permissions, conditions, future schedules and global calibration pending.
+
+### Pass 321 — Chile festivals, surfing and mountain landscapes (post-consolidation)
+
+- [x] CL — Santiago Teatro a Mil International Performing Arts Festival: 92.40/100 (source-linked provisional).
+- [x] CL — Punta de Lobos World Surfing Reserve Coastal and Surf Experience: 91.40/100 (source-linked provisional).
+- [x] CL — Santiago Lollapalooza Chile Public Music Festival: 91.45/100 (source-linked provisional).
+- [x] CL — Huilo Huilo Biological Reserve Valdivian Forest and Waterfall Trails: 90.75/100 (source-linked provisional).
+- [x] CL — Portillo Andean Ski and Laguna del Inca Mountain Experience: 87.90/100 (desk-based provisional).
+- [x] CL — Valle Nevado Andean Ski and Mountain Experience: 86.55/100 (desk-based provisional).
+- [x] CL — Nevados de Chillán Volcanic Ski and Mountain Experience: 87.50/100 (desk-based provisional).
+- [x] CL — Salto del Laja Waterfalls and River Landscape: 83.75/100 (desk-based provisional).
+- [x] CL — Vicuña Mamalluca Public Astronomical Observatory Experience: 86.80/100 (desk-based provisional).
+- [x] CL — Santiago Cerro Santa Lucía Historic Hill and Gardens: 83.10/100 (desk-based provisional).
+- [x] CL — Santiago Gabriela Mistral Cultural Centre Public Exhibitions and Architecture: 84.65/100 (desk-based provisional).
+- [x] CL — Puerto Varas Historic Architecture and Lakeside Heritage Circuit: 84.05/100 (desk-based provisional).
+
+12 provisional additions (4 source-linked, 8 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 108 ranked / 108 total, +41 since baseline 67, 19 new 90+ across four passes. Post-consolidation Monte Verde now rated; no original scores altered. Teatro a Mil Santiago programme, Punta de Lobos, Lollapalooza and Huilo Huilo researched. Prior UNESCO coverage and deferrals (Ayquina/Toconce, Cerro el Plomo shrine, ALMA, Carretera Austral) retained; exact components not independently mapped. Santiago festivals scoped separately; permanent GAM exhibitions exclude festival credit. Chile OPEN. Coordinates approximate; current permissions and conditions unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 322 — Chile national parks, episodic flowering and forest trekking
+
+- [x] CL — Desierto Florido National Park Episodic Atacama Flowering Landscape: 92.20/100 (source-linked provisional).
+- [x] CL — Tantauco Park Chiloé Forest and Long-Distance Trekking: 90.40/100 (source-linked provisional).
+- [x] CL — Alerce Costero National Park Ancient Alerce Forest Trails: 90.10/100 (source-linked provisional).
+- [x] CL — Nevado de Tres Cruces National Park High Andean Salt Lakes and Wildlife: 88.90/100 (source-linked provisional).
+- [x] CL — La Campana National Park Chilean Palm Forest and Mountain Trails: 88.40/100 (source-linked provisional).
+- [x] CL — Volcán Isluga National Park Altiplano Wetlands and Volcanic Landscape: 87.40/100 (source-linked provisional).
+- [x] CL — Radal Siete Tazas National Park Basalt Pools and Waterfall Trails: 87.60/100 (source-linked provisional).
+- [x] CL — Nahuelbuta National Park Ancient Araucaria Forest and Piedra del Águila Viewpoint: 87.90/100 (source-linked provisional).
+- [x] CL — Puyehue National Park Volcanic Forest and Waterfall Trails: 87.05/100 (source-linked provisional).
+- [x] CL — Hornopirén National Park Valdivian Forest and Mountain Trails: 86.45/100 (source-linked provisional).
+- [x] CL — Laguna del Laja National Park Antuco Volcano and Lava Landscape Trails: 86.80/100 (source-linked provisional).
+- [x] CL — Gigante de Tarapacá Cerro Unitas Geoglyph and Desert Heritage: 87.70/100 (desk-based provisional).
+
+12 provisional additions (11 source-linked, 1 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 120 ranked / 120 total, +53 since baseline 67, 22 new 90+ across five passes. Desierto Florido episodic flowering and designated roads/paths; no annual certainty or duplicate regional bloom rating. Tantauco distinct from Chiloé National Park. Ancient Alerce Costero forest and controlled access to Abuelo Alerce documented. Nine national parks added, plus Tantauco, one additional national park and Cerro Unitas geoglyph (10 national parks total). Radal national park and adjacent reserve routes grouped; Laguna del Laja distinct from Salto del Laja. Prior UNESCO coverage and deferrals retained; exact components not independently mapped. Chile OPEN; remaining parks and regional attractions to screen. Coordinates approximate; current conditions unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 323 — Chile religious and film festivals, marine diving and protected areas
+
+- [x] CL — Andacollo Virgen del Rosario Pilgrimage and Public Religious Dance Festival: 92.70/100 (source-linked provisional).
+- [x] CL — Valdivia International Film Festival Public Screening Programme: 91.35/100 (source-linked provisional).
+- [x] CL — Rapa Nui Hanga Roa Guided Scuba Diving and Volcanic Marine Landscapes: 91.45/100 (source-linked provisional).
+- [x] CL — Coquimbo La Pampilla Fiestas Patrias Public Folk Celebration: 91.10/100 (source-linked provisional).
+- [x] CL — Tolhuaca National Park Andean Forest and Waterfall Trails: 86.45/100 (source-linked provisional).
+- [x] CL — Llanos de Challe National Park Coastal Desert Flora and Guanaco Landscape: 86.75/100 (source-linked provisional).
+- [x] CL — Morro Moreno National Park Coastal Desert and Endemic Cactus Trails: 85.00/100 (source-linked provisional).
+- [x] CL — Río Clarillo National Park Sclerophyll Forest and River Trails: 84.35/100 (source-linked provisional).
+- [x] CL — Nonguén National Park Concepción Native Forest Trails: 84.40/100 (source-linked provisional).
+- [x] CL — Río de los Cipreses National Reserve Andean Valley and Wildlife Trails: 85.80/100 (source-linked provisional).
+- [x] CL — Santa Cruz Colchagua Museum History and Material Culture Exhibitions: 86.15/100 (desk-based provisional).
+- [x] CL — Santiago National Museum of Fine Arts and Palace of Fine Arts: 85.40/100 (desk-based provisional).
+
+12 provisional additions (10 source-linked, 2 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 132 ranked / 132 total, +65 since baseline 67, 26 new 90+ across six passes. Andacollo public pilgrimage and baile chino heritage distinguished from UNESCO inscription scope; Valdivia film festival confirmed 33rd edition; Rapa Nui guided nearshore diving excludes ancient archaeology and whole marine reserve; Coquimbo Pampilla 2026 cancellation reversed, modified event inaugurated. Five national parks and one national reserve added. Llanos de Challe excludes overlapping regional bloom credit. Two permanent museums desk-based. Prior UNESCO coverage and deferrals retained. Chile OPEN. Coordinates approximate; current conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 324 — Chile literary heritage, regional celebrations and Patagonian experiences
+
+- [x] CL — Isla Negra Pablo Neruda House Museum and Literary Heritage: 91.20/100 (source-linked provisional).
+- [x] CL — Noche Valdiviana Public River Parade and Cultural Celebration: 90.75/100 (source-linked provisional).
+- [x] CL — Curicó Grape Harvest Festival Public Wine and Cultural Programme: 90.55/100 (source-linked provisional).
+- [x] CL — Río Simpson National Reserve Forest Trails and Regional Fly-Fishing Experience: 87.45/100 (source-linked provisional).
+- [x] CL — Atacama Valle del Arcoíris and Yerbas Buenas Petroglyph Circuit: 87.65/100 (source-linked provisional).
+- [x] CL — Aldea de Tulor Archaeological Settlement and Interpretation: 85.95/100 (source-linked provisional).
+- [x] CL — Chacabuco Saltpeter Works Industrial and Memory Heritage: 86.10/100 (desk-based provisional).
+- [x] CL — Puyuhuapi Fjord Thermal Bathing Experience: 86.75/100 (source-linked provisional).
+- [x] CL — Puelo Termas del Sol Thermal Bathing and Mountain Landscape: 84.95/100 (source-linked provisional).
+- [x] CL — Punta Arenas Nao Victoria Maritime Replica Museum: 86.25/100 (source-linked provisional).
+- [x] CL — Puerto Williams Martín Gusinde Anthropological Museum: 85.80/100 (desk-based provisional).
+- [x] CL — Las Chinchillas National Reserve Endemic Fauna and Dryland Trails: 84.75/100 (desk-based provisional).
+
+12 provisional additions (9 source-linked, 3 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 144 ranked / 144 total, +77 since baseline 67, 29 new 90+ across seven passes. Isla Negra literary heritage, Noche Valdiviana and Curicó Vendimia researched. Simpson reserve and river fishing grouped; Rainbow Valley and Yerbas Buenas grouped; two thermal facilities distinct from adjacent parks. Kawésqar maritime-only access requires specific non-overlapping visitor route (https://www.conaf.cl/parque_nacionales/parque-nacional-kawesqar/); Aysén Isla Magdalena distinct from Magallanes Los Pingüinos but exact visitor scope deferred (https://www.conaf.cl/parque_nacionales/parque-nacional-isla-magdalena/); Salar del Huasco has no visitor infrastructure or trails per CONAF (https://www.conaf.cl/parque_nacionales/parque-nacional-salar-del-huasco/), defer pending route scope. Villarrica crater ascent deferred for parent overlap (https://chile.travel/en/attractions/villarrica-national-park/). Prior UNESCO coverage and deferrals retained. Chile OPEN. Coordinates approximate; current conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 325 — Chile astronomy, regional culture and bounded discovery closure
+
+- [x] CL — Paranal Observatory Very Large Telescope Guided Public Tour: 92.05/100 (source-linked provisional).
+- [x] CL — Frutillar Semanas Musicales Classical Music Festival Public Concert Programme: 91.10/100 (source-linked provisional).
+- [x] CL — Puñihuil Islets Natural Monument Guided Penguin Boat Viewing: 90.15/100 (source-linked provisional).
+- [x] CL — Santiago International Film Festival SANFIC Public Screening Programme: 90.55/100 (source-linked provisional).
+- [x] CL — La Silla Observatory Guided Public Telescope Heritage Tour: 89.20/100 (source-linked provisional).
+- [x] CL — Valparaíso La Sebastiana Pablo Neruda House Museum: 87.35/100 (desk-based provisional).
+- [x] CL — Santiago La Chascona Pablo Neruda House Museum: 86.80/100 (desk-based provisional).
+- [x] CL — Fuerte Bulnes and Strait of Magellan Historical Park: 86.90/100 (desk-based provisional).
+- [x] CL — Ojos del Caburgua Springs and Forest Waterfall Trails: 84.45/100 (desk-based provisional).
+- [x] CL — Pica Oasis and Cocha Resbaladero Thermal Bathing Heritage: 84.30/100 (desk-based provisional).
+- [x] CL — Iquique Corbeta Esmeralda Maritime Replica Museum: 86.10/100 (desk-based provisional).
+- [x] CL — Senda Darwin Biological Reserve Chiloé Forest Interpretation Trails: 84.30/100 (desk-based provisional).
+
+12 provisional additions (5 source-linked, 7 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 156 ranked / 156 total, +89 since baseline 67, 33 new 90+ across eight passes. Paranal, Puñihuil, Frutillar and SANFIC researched; La Silla public tours also sourced. ALMA routine public programme remains suspended despite two special October visits (https://www.almaobservatory.org/en/visits/ ; https://www.almaobservatory.org/en/announcements/during-science-month-alma-opens-its-doors-to-celebrate-15-years-of-observing-the-universe/); defer separate visitor scope. Patagonian parks route inventory screened (https://chile.travel/en/destinations/patagonian-parks-route/): Corcovado, Melimoyu and Yendegaia deferred for distinct established visitor activity scope, rather than lack of physical access alone (https://www.conaf.cl/parque_nacionales/parque-nacional-corcovado/ ; https://www.conaf.cl/parque_nacionales/parque-nacional-melimoyu/ ; https://www.conaf.cl/parque_nacionales/parque-nacional-yendegaia/). Chañaral de Aceituno boat wildlife overlaps Humboldt Penguin reserve (https://chile.travel/en/attractions/humboldt-penguin-national-reserve/). Prior Kawésqar, Aysén Isla Magdalena, Salar del Huasco, Villarrica crater, Carretera Austral and UNESCO component deferrals retained. Bounded current discovery queue closed, not exhaustive; reopen for concrete substantial omission. Existing scores preserved; coordinates approximate, access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 326 — Costa Rica wildlife and cultural heritage
+
+- [x] CR — Ostional Wildlife Refuge Guided Olive Ridley Turtle Arribada: 93.05/100 (source-linked provisional).
+- [x] CR — Boruca Juego de los Diablitos Community-Authorized Public Festival: 92.25/100 (source-linked provisional).
+- [x] CR — Cartago Romería Virgen de los Ángeles Public Pilgrimage: 91.35/100 (source-linked provisional).
+- [x] CR — Limón Caribbean Carnival Public Parade and Cultural Programme: 90.65/100 (source-linked provisional).
+- [x] CR — La Selva Biological Station Guided Lowland Rainforest and Birdwatching: 90.80/100 (source-linked provisional).
+- [x] CR — Sarchí Eloy Alfaro Oxcart Workshop and Painted Craft Heritage: 89.15/100 (source-linked provisional).
+- [x] CR — Children's Eternal Rainforest Bajo del Tigre and Designated Visitor Trails: 88.10/100 (desk-based provisional).
+- [x] CR — Los Quetzales National Park Montane Forest and Birdwatching Trails: 86.70/100 (desk-based provisional).
+- [x] CR — Piedras Blancas National Park Lowland Rainforest and Wildlife Trails: 87.00/100 (desk-based provisional).
+- [x] CR — Gandoca Manzanillo Wildlife Refuge Coastal Forest and Wetland Trails: 87.05/100 (desk-based provisional).
+- [x] CR — La Paz Waterfall Gardens Waterfall and Forest Visitor Trails: 84.95/100 (desk-based provisional).
+- [x] CR — Juan Castro Blanco National Park Montane Forest and Water Landscapes: 84.70/100 (desk-based provisional).
+
+12 provisional additions (6 source-linked, 6 desk-based), 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 74 ranked / 74 total, +12 since baseline 62. Ostional, Boruca, Cartago pilgrimage, Limón carnival, La Selva and Sarchí researched. Ostional scope limited to mass nesting beach, not existing Guiones surf entry; Boruca attendance subject to community permission; Romería distinct event from existing basilica. Sarchí UNESCO designation applies to living tradition rather than factory building. Four existing inscribed World Heritage properties represented in named baseline; tentative/component screen pending. Costa Rica OPEN. Coordinates approximate; access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 327 — Costa Rica marine wildlife, canopy and festivals
+
+- [x] CR — Catalina Islands Guided Scuba Diving and Oceanic Manta Encounters: 90.45/100 (source-linked provisional).
+- [x] CR — Monteverde Original Canopy Tour Guided Cloud Forest Ziplining: 90.35/100 (source-linked provisional).
+- [x] CR — San José Festival de la Luz Illuminated Public Parade: 90.00/100 (source-linked provisional).
+- [x] CR — San José Festival Internacional de las Artes Public Multidisciplinary Programme: 91.40/100 (source-linked provisional).
+- [x] CR — Palmares Fiestas Public Music and Traditional Celebration: 86.95/100 (source-linked provisional).
+- [x] CR — Isla Tortuga Boat Excursion and Beach Experience: 85.55/100 (source-linked provisional).
+- [x] CR — Curú Wildlife Refuge Coastal Forest and Wildlife Trails: 87.00/100 (source-linked provisional).
+- [x] CR — Turrialba Volcano National Park Authorized Volcanic Landscape Trails: 85.80/100 (source-linked provisional).
+- [x] CR — Diriá National Park Dry Forest and River Trails: 83.05/100 (source-linked provisional).
+- [x] CR — La Cangreja National Park Endemic Forest and Río Negro Trails: 85.15/100 (source-linked provisional).
+- [x] CR — Savegre River Guided Whitewater Rafting Corridor: 85.65/100 (source-linked provisional).
+- [x] CR — San José Museum of Costa Rican Art and Historic Terminal: 83.65/100 (desk-based provisional).
+
+12 provisional additions (11 source-linked, 1 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 86 ranked / 86 total, +24 since baseline 62; 9 new 90+ across two passes. UNESCO inventory verified: four inscribed properties represented and sole tentative entry Corcovado National Park and Isla del Caño already represented as two individual sights; do not add redundant umbrella (https://whc.unesco.org/en/statesparties/cr/). Exact serial component boundaries not independently audited. Catalina Islands diving distinct from Caño/Cocos; Bat Islands deferred for Guanacaste marine parent scope. Original Canopy operator's 1994 history distinguished from unverified global-first claim. FIA and Festival de la Luz public programmes distinct from venue architecture. Envision deferred for event continuity: organizer states no path to 2027 festival (https://www.envisionfestival.com/), not a penalty to historical intrinsic quality. Curú terrestrial trails distinct from Tortuga excursion. Costa Rica OPEN; existing scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 328 — Costa Rica surfing, living heritage and wildlife refuges
+
+- [x] CR — Pavones Beach Long Left-Hand Surf Break: 91.70/100 (source-linked provisional).
+- [x] CR — Limón Grand Gala Parade Afro-Costa Rican Public Cultural Celebration: 91.90/100 (source-linked provisional).
+- [x] CR — Nicoya Festival Cultural La Anexión Public Heritage Celebration: 91.00/100 (source-linked provisional).
+- [x] CR — Guaitil and San Vicente Chorotega Pottery Heritage and Artisan Workshops: 90.45/100 (source-linked provisional).
+- [x] CR — Barva San Bartolomé Festival Traditional Mascarada Public Programme: 89.10/100 (source-linked provisional).
+- [x] CR — Tárcoles River and Guacalillo Mangrove Guided Wildlife Boat Excursion: 88.10/100 (source-linked provisional).
+- [x] CR — Lankester Botanical Garden Orchid and Tropical Plant Collections: 86.90/100 (desk-based provisional).
+- [x] CR — Doka Estate Coffee Cultivation and Historic Mill Guided Tour: 85.55/100 (desk-based provisional).
+- [x] CR — La Marta Wildlife Refuge Rainforest and Industrial Heritage Trails: 85.80/100 (desk-based provisional).
+- [x] CR — Hacienda Barú National Wildlife Refuge Coastal Rainforest Trails: 85.10/100 (desk-based provisional).
+- [x] CR — Barra del Colorado Wildlife Refuge Guided Wetland and River Wildlife Viewing: 87.00/100 (desk-based provisional).
+- [ ] Hitoy Cerere: standalone scope deferred after component verification; proposed record withdrawn.
+
+11 retained provisional additions (6 source-linked, 5 desk-based), 4 90+, 22 retained ranking-row comparisons (11 international, 11 domestic). CR 97 ranked / 97 total, +35 since baseline 62; 13 new 90+ across three passes. Pavones, Grand Gala Parade, Nicoya annexation and Chorotega pottery researched. August Grand Gala Parade distinct from October carnival; Chorotega pottery regional intangible designation, not UNESCO listing; workshops/ecomuseum grouped. Barva public masquerade and Tarcoles boat wildlife sourced. Hitoy Cerere withdrawn after IUCN and UNEP-WCMC confirmation of its inclusion in the existing Talamanca-La Amistad property; distinct visitor scope deferred (https://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/talamanca-range-la-amistad-reserves-la-amistad-national-park/ ; https://portals.iucn.org/library/efiles/documents/PAG-007.pdf). Previous UNESCO 4 inscribed and 1 tentative represented; full component boundary audit pending. Prior Envision and Bat Islands deferrals retained. Costa Rica OPEN; existing baseline scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 329 — Costa Rica final bounded discovery sweep
+
+- [x] CR — Nicoya Virgen de Guadalupe Festivities and La Yegüita Public Dance: 91.65/100 (source-linked provisional).
+- [x] CR — Pacuare Reserve Supervised Leatherback Turtle Nesting and Conservation Experience: 91.25/100 (source-linked provisional).
+- [x] CR — Isla San Lucas National Park Former Prison and Island Heritage Trails: 88.15/100 (source-linked provisional).
+- [x] CR — Paquera Gulf of Nicoya Guided Nocturnal Bioluminescence Kayaking: 88.45/100 (source-linked provisional).
+- [x] CR — Bajos del Toro Catarata del Toro and Blue Falls Visitor Circuit: 87.75/100 (source-linked provisional).
+- [x] CR — San Ramón Entrada de los Santos Public Religious Procession: 88.25/100 (source-linked provisional).
+- [x] CR — Lake Arenal Western Shore Windsurfing and Reservoir Landscape: 86.75/100 (source-linked provisional).
+- [x] CR — San José Costa Rica International Film Festival Public Screening Programme: 88.10/100 (source-linked provisional).
+- [x] CR — Las Cruces Biological Station and Wilson Botanical Garden: 87.20/100 (desk-based provisional).
+- [x] CR — San José Children's Museum Former Penitentiary Cultural Complex: 85.05/100 (desk-based provisional).
+
+10 provisional additions (8 source-linked, 2 desk-based), 2 90+, 20 ranking-row comparisons (10 international, 10 domestic). CR 107 ranked / 107 total, +45 since baseline 62; 15 new 90+ across four passes. Nicoya Virgen de Guadalupe festivities distinct from July annexation; UNESCO nomination initiative not inscription. Pacuare Reserve coastal supervised turtle census distinct from inland rafting and Ostional. Isla San Lucas national park historic prison grouped; Paquera nocturnal bioluminescence separate from Curú terrestrial scope and Isla Tortuga. Catarata del Toro/Blue Falls grouped; Lake Arenal wind sports exclude volcano trails. San Ramón procession and CRFIC sourced. SINAC national-park inventory screened (https://www.sinac.go.cr/ES/turismo/Paginas/parquesnacionales.aspx); Miravalles-Jorge Manuel Dengo independent visitor route deferred; San Gerardo de Dota quetzal forest scope overlaps regional Los Quetzales/Talamanca entries pending reconciliation; earlier Hitoy Cerere, Bat Islands and Envision deferrals retained. All four inscribed and one tentative World Heritage properties represented per pass 327; precise serial boundary audit pending. Bounded priority discovery queue closed, not exhaustive. Reopen for concrete significant omissions. Existing scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 330 — Panama festivals, living heritage and natural attractions
+
+- [x] PA — La Villa de Los Santos Corpus Christi Public Dances and Processions: 93.75/100 (source-linked provisional).
+- [x] PA — Las Tablas Carnival Public Parade and Musical Celebrations: 92.50/100 (source-linked provisional).
+- [x] PA — Portobelo Congo Cultural Festival Public Dance and Musical Programme: 92.65/100 (source-linked provisional).
+- [x] PA — Las Tablas National Pollera Festival Public Traditional Dress and Craft Programme: 91.80/100 (source-linked provisional).
+- [x] PA — Guararé National Mejorana Festival Public Folklore and Music Programme: 91.90/100 (source-linked provisional).
+- [x] PA — Portobelo Black Christ Public Pilgrimage and Procession: 91.45/100 (source-linked provisional).
+- [x] PA — Panama City Panama Jazz Festival Public Concert Programme: 90.65/100 (source-linked provisional).
+- [x] PA — Boquete Flower and Coffee Fair Public Garden and Cultural Programme: 88.05/100 (source-linked provisional).
+- [x] PA — Boquete Don Pepe Estate Guided Specialty Coffee and Geisha Tasting: 87.85/100 (source-linked provisional).
+- [x] PA — Santa Fe National Park Guided Forest and Waterfall Trails: 86.35/100 (source-linked provisional).
+- [x] PA — Sarigua National Park Dryland and Coastal Birdwatching Landscape: 83.35/100 (source-linked provisional).
+- [x] PA — Los Cangilones de Gualaca River Canyon and Rock Pools: 83.10/100 (source-linked provisional).
+
+12 provisional additions (12 source-linked), 7 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 65 ranked / 65 total, +12 since baseline 53. UNESCO country inventory (https://whc.unesco.org/en/statesparties/pa) lists 5 inscribed and 1 tentative property; all represented in baseline, including 2025 Colonial Transisthmian Route and separately retained Panama Viejo/Casco components. Exact component audit pending. Corpus Christi and Congo UNESCO intangible inscriptions apply to living expressions across communities, not individual festival as a World Heritage site. Portobelo Black Christ separate from Congo and fortifications; 2026 procession despite church restoration. Pollera July festival distinct from Carnival; other pollera events deferred for scope. Mejorana, Jazz, Boquete fair, Don Pepe and two parks and Gualaca sourced. Panama OPEN. Coordinates approximate, current access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 331 — Panama Indigenous craft, surfing and protected landscapes
+
+- [x] PA — Parará Purú Emberá Community-Led Cultural Exchange and Craft Experience: 91.70/100 (source-linked provisional).
+- [x] PA — La Pintada Sombrero Pintao Museum and Traditional Weaving Workshops: 90.80/100 (source-linked provisional).
+- [x] PA — Santa Catalina Pacific Surf Break and Guided Surfing Experience: 91.00/100 (source-linked provisional).
+- [x] PA — Chiriquí Viejo River Guided Whitewater Rafting Corridor: 88.70/100 (source-linked provisional).
+- [x] PA — San San Pond Sak Wetland Guided Manatee and Waterway Observation: 89.00/100 (source-linked provisional).
+- [x] PA — Punta Patiño Private Nature Reserve Coastal Forest and Wetland Experience: 88.25/100 (source-linked provisional).
+- [x] PA — Altos de Campana National Park and Biological Reserve Forest and Viewpoint Trails: 85.20/100 (source-linked provisional).
+- [x] PA — Omar Torrijos Herrera National Park El Copé Montane Forest Trails: 86.60/100 (source-linked provisional).
+- [x] PA — Cerro Hoya National Park Azuero Forest and Mountain Landscapes: 87.25/100 (desk-based provisional).
+- [x] PA — Cerro Gaital Natural Monument Cloud Forest and Ridge Trails: 85.10/100 (source-linked provisional).
+- [x] PA — Panama City Museo de la Mola Guna Textile Art Exhibitions: 87.65/100 (source-linked provisional).
+- [x] PA — Summit Municipal Park Botanical Collections and Forest Paths: 82.45/100 (desk-based provisional).
+
+12 provisional additions (10 source-linked, 2 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 77 ranked / 77 total, +24 since baseline 53; 10 new 90+ across two passes. Parará Purú community-authorized cultural programme, La Pintada craft/museum and Santa Catalina surf researched. UNESCO hat inscription applies to artisanal techniques, not a building. Chagres forest and Coiba diving not credited again. San San Pond Sak observation excludes feeding and handling; Punta Patiño distinct from Darién park. Cerro Hoya desk-based, routes pending. Railway passenger programme and Pearl Islands whale watching deferred for distinct visitor scope and continuity checks. Prior UNESCO 5 inscribed and 1 tentative represented, component audit and prior Pollera deferrals retained. Panama OPEN. Coordinates approximate, access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 332 — Panama regional festivals, wildlife and railway heritage
+
+- [x] PA — Las Tablas Desfile de las Mil Polleras Public Traditional Dress Parade: 92.50/100 (source-linked provisional).
+- [x] PA — Ocú National Manito Festival Public Folklore and Traditional Music Programme: 91.15/100 (source-linked provisional).
+- [x] PA — Isla Cañas Wildlife Refuge Guided Sea Turtle Nesting and Arribada Experience: 91.30/100 (source-linked provisional).
+- [x] PA — Pearl Islands Guided Seasonal Humpback Whale Watching: 90.75/100 (source-linked provisional).
+- [x] PA — Panama City International Film Festival IFF Public Screening Programme: 90.10/100 (source-linked provisional).
+- [x] PA — Panama Canal Railway Historic Interoceanic Passenger Journey: 89.60/100 (source-linked provisional).
+- [x] PA — Antón National Toro Guapo Festival Public Folklore Programme: 89.25/100 (source-linked provisional).
+- [x] PA — Antón Santo Cristo de Esquipulas Public Religious Procession: 87.70/100 (source-linked provisional).
+- [x] PA — La Yeguada Forest Reserve Mountain Lake and Forest Trails: 84.70/100 (source-linked provisional).
+- [x] PA — Gulf of Montijo Guided Mangrove and Coastal Wetland Excursion: 87.10/100 (source-linked provisional).
+- [x] PA — Natá Basilica Santiago Apóstol Colonial Religious Architecture: 85.75/100 (desk-based provisional).
+- [x] PA — El Valle de Antón Butterfly Haven Guided Butterfly Garden: 82.80/100 (desk-based provisional).
+
+12 provisional additions (10 source-linked, 2 desk-based), 5 90+, 24 ranking-row comparisons (12 international, 12 domestic). PA 89 ranked / 89 total, +36 since baseline 53; 15 new 90+ across three passes. January Mil Polleras distinct public parade from July craft competition; Manito, Isla Cañas, Pearl Islands whale watching and IFF sourced. Isla Cañas declining nesting frequency considered separately from access. Pearl Islands original scope ordinary island-hopping, whale excursion distinct. Railway passenger cruise excursions sourced, independent departure continuity unverified; canal scenery non-additive. Toro Guapo rescheduled for December 2026, no occurrence assumed. La Yeguada and Montijo listed in official protected-area portal. Prior UNESCO 5 inscribed and 1 tentative represented; component audit and November pollera deferral retained. Panama OPEN. Coordinates approximate, current access and future schedules unverified. Existing ratings preserved. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+> Merge reconciliation (PR #388): historical pass counts and proposed ratings above describe the source branch before consolidation. See [reconciliation record](reviews/pr-388-reconciliation.md) for canonical IDs, retained main ratings and updated totals.

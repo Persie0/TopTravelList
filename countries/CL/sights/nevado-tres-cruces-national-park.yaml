@@ -1,0 +1,17 @@
+id: sight-cl-nevado-tres-cruces-national-park
+name: "Nevado de Tres Cruces National Park High Andean Salt Lakes and Wildlife"
+location:
+  country_code: CL
+  latitude: -27.37
+  longitude: -69.17
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.8
+  experience: 8.6
+  depth: 8.6
+  categories:
+    nature: 9.3
+    photography: 9.4
+    wildlife: 9.2
+    adventure: 9.0

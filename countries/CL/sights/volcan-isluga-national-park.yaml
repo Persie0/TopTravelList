@@ -1,0 +1,16 @@
+id: sight-cl-volcan-isluga-national-park
+name: "Volcán Isluga National Park Altiplano Wetlands and Volcanic Landscape"
+location:
+  country_code: CL
+  latitude: -19.28
+  longitude: -68.83
+scores:
+  impact: 8.9
+  uniqueness: 8.8
+  significance: 8.7
+  experience: 8.4
+  depth: 8.7
+  categories:
+    nature: 9.2
+    photography: 9.3
+    wildlife: 9.1

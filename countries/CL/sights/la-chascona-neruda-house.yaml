@@ -1,0 +1,16 @@
+id: sight-cl-la-chascona-neruda-house
+name: "Santiago La Chascona Pablo Neruda House Museum"
+location:
+  country_code: CL
+  latitude: -33.431
+  longitude: -70.634
+scores:
+  impact: 8.5
+  uniqueness: 8.7
+  significance: 9.1
+  experience: 8.5
+  depth: 8.6
+  categories:
+    culture: 9.3
+    history: 9.2
+    architecture: 9.0

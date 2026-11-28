@@ -1,0 +1,17 @@
+id: sight-cl-tantauco-park
+name: "Tantauco Park Chiloé Forest and Long-Distance Trekking"
+location:
+  country_code: CL
+  latitude: -43.18
+  longitude: -74.01
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.9
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    photography: 9.2
+    wildlife: 9.1

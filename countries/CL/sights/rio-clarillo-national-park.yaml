@@ -1,0 +1,16 @@
+id: sight-cl-rio-clarillo-national-park
+name: "Río Clarillo National Park Sclerophyll Forest and River Trails"
+location:
+  country_code: CL
+  latitude: -33.72
+  longitude: -70.46
+scores:
+  impact: 8.3
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.7
+  depth: 8.4
+  categories:
+    nature: 9.1
+    adventure: 8.9
+    family: 9.0

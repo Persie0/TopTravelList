@@ -1,0 +1,15 @@
+id: sight-cl-santiago-sanfic
+name: "Santiago International Film Festival SANFIC Public Screening Programme"
+location:
+  country_code: CL
+  latitude: -33.437
+  longitude: -70.64
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.2
+  experience: 9.2
+  depth: 9.1
+  categories:
+    culture: 9.4
+    nightlife: 9.1
