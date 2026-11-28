@@ -1,0 +1,16 @@
+id: sight-sv-punta-mango-surf
+name: "Punta Mango Surf Break"
+location:
+  country_code: SV
+  latitude: 13.168
+  longitude: -88.157
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.0
+  experience: 9.1
+  depth: 8.3
+  categories:
+    adventure: 9.4
+    beaches: 9.0
+    photography: 8.8

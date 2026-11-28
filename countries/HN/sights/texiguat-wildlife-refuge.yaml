@@ -1,0 +1,16 @@
+id: sight-hn-texiguat-wildlife-refuge
+name: "Texiguat Wildlife Refuge Cloud Forest"
+location:
+  country_code: HN
+  latitude: 15.45
+  longitude: -87.3167
+scores:
+  impact: 8.4
+  uniqueness: 8.8
+  significance: 8.9
+  experience: 7.9
+  depth: 8.4
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 8.6

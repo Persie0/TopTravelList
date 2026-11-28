@@ -1,0 +1,16 @@
+id: sight-sv-cinquera-forest
+name: "Cinquera Forest Ecotourism and Local History"
+location:
+  country_code: SV
+  latitude: 13.89
+  longitude: -88.96
+scores:
+  impact: 8.2
+  uniqueness: 8.5
+  significance: 8.6
+  experience: 8.6
+  depth: 8.4
+  categories:
+    nature: 9.0
+    history: 8.9
+    wildlife: 8.8

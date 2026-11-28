@@ -1,0 +1,17 @@
+id: sight-ni-selva-negra-coffee-estate
+name: "Selva Negra Coffee Estate and Cloud Forest"
+location:
+  country_code: NI
+  latitude: 12.99893
+  longitude: -85.90978
+scores:
+  impact: 8.4
+  uniqueness: 8.7
+  significance: 8.5
+  experience: 8.8
+  depth: 8.6
+  categories:
+    nature: 9.0
+    food: 8.9
+    culture: 8.8
+    wildlife: 8.8

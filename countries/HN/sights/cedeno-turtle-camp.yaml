@@ -1,0 +1,16 @@
+id: sight-hn-cedeno-turtle-camp
+name: "Cedeño Turtle Camp Conservation Visit"
+location:
+  country_code: HN
+  latitude: 13.18
+  longitude: -87.43
+scores:
+  impact: 8.1
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.1
+  depth: 8.2
+  categories:
+    wildlife: 9.2
+    nature: 8.8
+    culture: 8.4

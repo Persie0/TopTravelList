@@ -1,0 +1,16 @@
+id: sight-ni-penas-blancas-massif
+name: "Peñas Blancas Massif Nature Reserve"
+location:
+  country_code: NI
+  latitude: 13.2783
+  longitude: -85.655
+scores:
+  impact: 8.6
+  uniqueness: 8.5
+  significance: 8.5
+  experience: 8.4
+  depth: 8.6
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    adventure: 8.8

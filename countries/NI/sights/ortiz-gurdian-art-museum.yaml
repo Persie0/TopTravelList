@@ -1,0 +1,16 @@
+id: sight-ni-ortiz-gurdian-art-museum
+name: "Ortiz-Gurdián Foundation Art Museum"
+location:
+  country_code: NI
+  latitude: 12.4348
+  longitude: -86.8816
+scores:
+  impact: 8.4
+  uniqueness: 8.4
+  significance: 8.8
+  experience: 8.6
+  depth: 8.7
+  categories:
+    culture: 9.2
+    history: 8.7
+    architecture: 8.5

@@ -1,0 +1,16 @@
+id: sight-hn-manuel-bonilla-theatre
+name: "Tegucigalpa Manuel Bonilla National Theatre"
+location:
+  country_code: HN
+  latitude: 14.106
+  longitude: -87.207
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.7
+  experience: 8.1
+  depth: 8.1
+  categories:
+    architecture: 8.8
+    culture: 8.9
+    history: 8.7

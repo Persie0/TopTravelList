@@ -1,0 +1,16 @@
+id: sight-ni-managua-national-palace
+name: "Managua National Palace of Culture and National Museum"
+location:
+  country_code: NI
+  latitude: 12.156
+  longitude: -86.271
+scores:
+  impact: 8.1
+  uniqueness: 8.2
+  significance: 8.8
+  experience: 8.2
+  depth: 8.6
+  categories:
+    history: 9.1
+    culture: 9.0
+    architecture: 8.7

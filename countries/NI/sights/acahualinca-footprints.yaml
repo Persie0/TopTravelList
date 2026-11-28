@@ -1,0 +1,16 @@
+id: sight-ni-acahualinca-footprints
+name: "Acahualinca Human Footprints Museum"
+location:
+  country_code: NI
+  latitude: 12.16222
+  longitude: -86.31333
+scores:
+  impact: 8.6
+  uniqueness: 9.6
+  significance: 9.5
+  experience: 8.3
+  depth: 8.2
+  categories:
+    history: 9.4
+    nature: 9.2
+    culture: 8.7

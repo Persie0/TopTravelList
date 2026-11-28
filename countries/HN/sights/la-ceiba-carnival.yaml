@@ -1,0 +1,16 @@
+id: sight-hn-la-ceiba-carnival
+name: "La Ceiba International Friendship Carnival"
+location:
+  country_code: HN
+  latitude: 15.783
+  longitude: -86.793
+scores:
+  impact: 9.1
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 9.3
+  depth: 8.8
+  categories:
+    culture: 9.4
+    nightlife: 9.4
+    photography: 9.1

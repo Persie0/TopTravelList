@@ -1,0 +1,15 @@
+id: sight-hn-yarumela-archaeological-site
+name: "Yarumela Archaeological Site"
+location:
+  country_code: HN
+  latitude: 14.36367
+  longitude: -87.65083
+scores:
+  impact: 7.7
+  uniqueness: 8.5
+  significance: 9.0
+  experience: 7.5
+  depth: 8.0
+  categories:
+    history: 9.2
+    culture: 8.8

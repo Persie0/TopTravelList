@@ -1,0 +1,16 @@
+id: sight-hn-rastrojon-archaeological-site
+name: "Rastrojón Archaeological Site"
+location:
+  country_code: HN
+  latitude: 14.85639
+  longitude: -89.13139
+scores:
+  impact: 8.0
+  uniqueness: 8.6
+  significance: 8.8
+  experience: 8.1
+  depth: 8.0
+  categories:
+    history: 9.1
+    architecture: 8.6
+    photography: 8.7

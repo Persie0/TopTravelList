@@ -1,0 +1,24 @@
+# El Salvador expansion — pass 387
+
+Baseline 095da704098634cde62ff8dc211888cd3b9541a1: 66 ranked, 5 >=90. Twelve additions and one reassessment, 78 ranked, 7 >=90. Sub-90 ratings provisional; representative coordinates mostly approximate locality estimates, not verified entrances. No access or wildlife guarantees.
+
+| Candidate | Overall | Evidence and scope |
+| --- | ---: | --- |
+| San Salvador Fiestas Agostinas and La Bajada | 91.00 | National patronal celebrations, processions and Transfiguration ceremony; separate from everyday cathedral and historic centre visit. 2026 programme documented. https://centrohistorico.gob.sv/en/noticias-ach/complete-guide-to-august-vacations-in-the-historic-center-of-san-salvador/ ; https://www.catedralmetropolitanadess.com/en/fiestas-titulares-del-divino-salvador-del-mundo |
+| Corinto Gruta del Espíritu Santo Rock Art Site | 87.30 | National monument and important Central American rock art. Official tourism currently lists it as not open to public; historical visitor scope rated, closure independently noted. Approximate Corinto locality. https://www.cultura.gob.sv/gruta-del-espiritu-santo-cumple-mas-de-cinco-decadas-como-monumento-nacional/ ; https://www.bradshawfoundation.com/el_salvador/index.php ; https://elsalvador.travel/esp/en/agenda/horarios-especiales/ |
+| San Vicente Chinchontepec Volcano and Fumarole Landscape | 86.55 | Distinct twin-peaked volcano and geothermal features; Smithsonian summit reference. No assumption of safe fumarole access. https://volcano.si.edu/volcano.cfm?vn=343070 ; https://elsalvador.travel/esp/en/volcan-de-san-vicente-chinchontepec/ |
+| Punta Mango Surf Break | 85.55 | Distinct eastern surf break, rated for wave quality and scenery, not guaranteed conditions. Approximate coastal locality. https://elsalvador.travel/esp/punta-mango/ |
+| Laguna El Jocotal Ramsar Wetland | 85.35 | International wetland and education centre; approximate lagoon reference. https://cidoc.ambiente.gob.sv/documento/plan-de-manejo-del-humedal-sitio-ramsar-laguna-el-jocotal/ ; https://www.undp.org/es/el-salvador/noticias/planes-para-potenciar-negocios-sostenibles-en-las-areas-naturales-protegidas |
+| Chaguantique Forest Spider Monkey Conservation | 84.65 | Specific terrestrial forest and primate habitat within Jiquilisco biosphere, not generic bay or turtle scope; population uncertain, no guaranteed encounters. Approximate protected-area locality. https://cidoc.ambiente.gob.sv/documento/brochure-anp-chaguantique/ ; https://www.ecoamericas.com/issues/article/2026/10/599764F1-379A-4F40-A32A-03B983D8D21D |
+| Cinquera Forest Ecotourism and Local History | 84.35 | Protected forest trails and local history, separate from Lake Suchitlán. Approximate municipal reference. https://elsalvador.travel/esp/en/cinquera/ |
+| Puerta del Diablo Natural Park | 83.90 | Distinct rock formations and panoramic trails, approximate park locality. https://istu.gob.sv/parques-naturales/parque-natural-puerta-del-diablo/ |
+| Estero de Jaltepeque Mangrove Wetland | 83.85 | Desk-based provisional mangrove and waterway experience, separate from Costa del Sol beach. Approximate regional reference. |
+| Laguna de Olomega Ramsar Wetland | 83.55 | Separate Ramsar lagoon and bird habitat, representative waterbody point. https://www.ambiente.gob.sv/verifican-proyectos-de-restauracion-en-las-moritas-y-modelos-de-produccion-sostenible-en-laguna-el-jocotal/ |
+| Peñón de Comasagua Summit Viewpoint | 82.25 | Tourism authority describes panoramic summit hike; approximate rock locality. https://elsalvador.travel/esp/en/penon-de-comasagua/ |
+| Laguna de Apastepeque Recreational Park | 78.10 | Volcanic lagoon recreation; representative lake coordinate. https://elsalvador.travel/esp/en/parque-recreativo-laguna-de-apastepeque/ |
+
+## Joya de Cerén reassessment
+
+89.70 → 91.05. UNESCO identifies exceptional preservation of a pre-Hispanic village, and peer-reviewed archaeological research shows exceptional insights into Maya daily life and agricultural landscapes. Raise uniqueness 9.6→9.7, significance 9.6→9.8, depth 8.1→8.8, history 9.6→9.8 and culture 9.3→9.5; preserve impact and experience to avoid equating excavated visitor scope with Pompeii. https://whc.unesco.org/en/list/675/ ; https://www.cambridge.org/core/journals/antiquity/article/identifying-plantscapes-at-the-classic-maya-village-of-joya-de-ceren-el-salvador/5D212CEF22A5F42ACF1A6C031D685147 ; https://www.cultura.gob.sv/parque-arqueologico-joya-de-ceren/
+
+San Salvador's festival compared with Managua Santo Domingo (91.00), Suyapa (90.70), and San Miguel (90.50) as indicative benchmarks. Punta Roca's original surf rating merits independent follow-up; not changed here. No other rating changed. JS checked all 78 displayed weighted totals and unique slugs. Full Python schema and generator validation not run. No Actions manually dispatched.

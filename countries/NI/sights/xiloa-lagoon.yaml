@@ -1,0 +1,16 @@
+id: sight-ni-xiloa-lagoon
+name: "Xiloá Crater Lagoon"
+location:
+  country_code: NI
+  latitude: 12.213
+  longitude: -86.319
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 7.6
+  experience: 8.5
+  depth: 7.5
+  categories:
+    nature: 8.9
+    relaxation: 8.8
+    photography: 8.7

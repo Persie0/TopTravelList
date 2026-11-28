@@ -1,0 +1,16 @@
+id: sight-hn-la-esperanza-lenca-heritage
+name: "La Esperanza Lenca Artisan and Market Heritage"
+location:
+  country_code: HN
+  latitude: 14.306
+  longitude: -88.18
+scores:
+  impact: 8.0
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.5
+  depth: 8.3
+  categories:
+    culture: 9.1
+    food: 8.8
+    history: 8.5

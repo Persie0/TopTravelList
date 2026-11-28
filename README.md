@@ -155,7 +155,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [DR Congo](countries/CD/) (`CD`) | [8](countries/CD/cities.md) | [17](countries/CD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=DR%20Congo) |
 | [Ecuador](countries/EC/) (`EC`) | [36](countries/EC/cities.md) | [132](countries/EC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Ecuador) |
 | [Egypt](countries/EG/) (`EG`) | [10](countries/EG/cities.md) | [85](countries/EG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Egypt) |
-| [El Salvador](countries/SV/) (`SV`) | [24](countries/SV/cities.md) | [54](countries/SV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=El%20Salvador) |
+| [El Salvador](countries/SV/) (`SV`) | [24](countries/SV/cities.md) | [78](countries/SV/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=El%20Salvador) |
 | [Equatorial Guinea](countries/GQ/) (`GQ`) | [13](countries/GQ/cities.md) | [26](countries/GQ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Equatorial%20Guinea) |
 | [Eritrea](countries/ER/) (`ER`) | [13](countries/ER/cities.md) | [30](countries/ER/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Eritrea) |
 | [Estonia](countries/EE/) (`EE`) | [15](countries/EE/cities.md) | [42](countries/EE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Estonia) |
@@ -187,7 +187,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Guyana](countries/GY/) (`GY`) | [18](countries/GY/cities.md) | [74](countries/GY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Guyana) |
 | [Haiti](countries/HT/) (`HT`) | [12](countries/HT/cities.md) | [32](countries/HT/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Haiti) |
 | [Heard Island and McDonald Islands](countries/HM/) (`HM`) | [0](countries/HM/cities.md) | [1](countries/HM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Heard%20Island%20and%20McDonald%20Islands) |
-| [Honduras](countries/HN/) (`HN`) | [31](countries/HN/cities.md) | [59](countries/HN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Honduras) |
+| [Honduras](countries/HN/) (`HN`) | [31](countries/HN/cities.md) | [131](countries/HN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Honduras) |
 | [Hong Kong](countries/HK/) (`HK`) | [1](countries/HK/cities.md) | [36](countries/HK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Hong%20Kong) |
 | [Hungary](countries/HU/) (`HU`) | [18](countries/HU/cities.md) | [50](countries/HU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Hungary) |
 | [Iceland](countries/IS/) (`IS`) | [15](countries/IS/cities.md) | [59](countries/IS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Iceland) |
@@ -246,7 +246,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Netherlands](countries/NL/) (`NL`) | [20](countries/NL/cities.md) | [51](countries/NL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Netherlands) |
 | [New Caledonia](countries/NC/) (`NC`) | [4](countries/NC/cities.md) | [32](countries/NC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=New%20Caledonia) |
 | [New Zealand](countries/NZ/) (`NZ`) | [12](countries/NZ/cities.md) | [126](countries/NZ/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=New%20Zealand) |
-| [Nicaragua](countries/NI/) (`NI`) | [13](countries/NI/cities.md) | [30](countries/NI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nicaragua) |
+| [Nicaragua](countries/NI/) (`NI`) | [13](countries/NI/cities.md) | [85](countries/NI/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nicaragua) |
 | [Niger](countries/NE/) (`NE`) | [10](countries/NE/cities.md) | [26](countries/NE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Niger) |
 | [Nigeria](countries/NG/) (`NG`) | [12](countries/NG/cities.md) | [25](countries/NG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Nigeria) |
 | [Niue](countries/NU/) (`NU`) | [4](countries/NU/cities.md) | [18](countries/NU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Niue) |

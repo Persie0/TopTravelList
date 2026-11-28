@@ -1,0 +1,16 @@
+id: sight-ni-zapatera-island
+name: "Zapatera Island National Park and Archaeological Sites"
+location:
+  country_code: NI
+  latitude: 11.73
+  longitude: -85.82
+scores:
+  impact: 8.6
+  uniqueness: 9.0
+  significance: 9.1
+  experience: 8.3
+  depth: 8.7
+  categories:
+    history: 9.3
+    culture: 9.0
+    nature: 8.8

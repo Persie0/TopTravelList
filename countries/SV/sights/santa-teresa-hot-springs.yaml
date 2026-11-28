@@ -1,0 +1,16 @@
+id: sight-sv-santa-teresa-hot-springs
+name: "Santa Teresa Thermal Springs"
+location:
+  country_code: SV
+  latitude: 13.9
+  longitude: -89.84
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.2
+  experience: 8.8
+  depth: 7.9
+  categories:
+    relaxation: 9.3
+    nature: 8.6
+    photography: 8.5

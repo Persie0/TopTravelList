@@ -1,0 +1,16 @@
+id: sight-sv-puerta-del-diablo
+name: "Puerta del Diablo Natural Park"
+location:
+  country_code: SV
+  latitude: 13.622
+  longitude: -89.19
+scores:
+  impact: 8.7
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 8.8
+  depth: 8.0
+  categories:
+    photography: 9.2
+    nature: 8.9
+    adventure: 8.8

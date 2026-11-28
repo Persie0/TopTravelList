@@ -1,0 +1,16 @@
+id: sight-sv-apastepeque-lagoon
+name: "Laguna de Apastepeque Recreational Park"
+location:
+  country_code: SV
+  latitude: 13.668
+  longitude: -88.748
+scores:
+  impact: 7.8
+  uniqueness: 7.8
+  significance: 7.5
+  experience: 8.4
+  depth: 7.6
+  categories:
+    nature: 8.7
+    relaxation: 8.9
+    photography: 8.5

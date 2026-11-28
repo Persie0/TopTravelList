@@ -1,0 +1,17 @@
+id: sight-ni-rio-san-juan-boat-journey
+name: "Río San Juan River Boat Journey"
+location:
+  country_code: NI
+  latitude: 11.12
+  longitude: -84.78
+scores:
+  impact: 8.7
+  uniqueness: 8.7
+  significance: 8.7
+  experience: 8.6
+  depth: 8.7
+  categories:
+    nature: 9.1
+    history: 8.9
+    wildlife: 8.9
+    adventure: 8.8

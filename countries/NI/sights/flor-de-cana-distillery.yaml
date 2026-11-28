@@ -1,0 +1,15 @@
+id: sight-ni-flor-de-cana-distillery
+name: "Flor de Caña Distillery Heritage Tour"
+location:
+  country_code: NI
+  latitude: 12.57925
+  longitude: -87.03653
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.6
+  depth: 8.5
+  categories:
+    history: 8.8
+    culture: 8.8

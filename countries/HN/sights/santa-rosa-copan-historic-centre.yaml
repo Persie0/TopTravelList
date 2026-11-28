@@ -1,0 +1,16 @@
+id: sight-hn-santa-rosa-copan-historic-centre
+name: "Santa Rosa de Copán Historic Centre"
+location:
+  country_code: HN
+  latitude: 14.766
+  longitude: -88.779
+scores:
+  impact: 8.2
+  uniqueness: 8.2
+  significance: 8.6
+  experience: 8.5
+  depth: 8.3
+  categories:
+    architecture: 8.9
+    history: 8.9
+    culture: 8.7

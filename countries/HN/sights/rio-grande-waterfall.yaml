@@ -1,0 +1,16 @@
+id: sight-hn-rio-grande-waterfall
+name: "Río Grande Waterfall Intibucá"
+location:
+  country_code: HN
+  latitude: 14.449
+  longitude: -88.21034
+scores:
+  impact: 8.6
+  uniqueness: 8.2
+  significance: 7.4
+  experience: 8.4
+  depth: 7.7
+  categories:
+    nature: 8.9
+    photography: 9.1
+    adventure: 8.7

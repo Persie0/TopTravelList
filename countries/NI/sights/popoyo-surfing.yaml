@@ -1,0 +1,16 @@
+id: sight-ni-popoyo-surfing
+name: "Popoyo Beach and Surfing"
+location:
+  country_code: NI
+  latitude: 11.473
+  longitude: -86.1279
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.8
+  experience: 9.2
+  depth: 8.0
+  categories:
+    adventure: 9.5
+    beaches: 9.0
+    relaxation: 8.6

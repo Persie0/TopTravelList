@@ -1,0 +1,16 @@
+id: sight-sv-barra-de-santiago-wetlands
+name: "Barra de Santiago Mangrove Wetlands"
+location:
+  country_code: SV
+  latitude: 13.69
+  longitude: -90.02
+scores:
+  impact: 8.5
+  uniqueness: 8.5
+  significance: 8.8
+  experience: 8.4
+  depth: 8.4
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    photography: 8.9

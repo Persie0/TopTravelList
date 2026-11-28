@@ -1,0 +1,24 @@
+# Honduras expansion — pass 382
+
+Baseline 9098974d5fd763db234455cdb494b4d55bd7fb8c: 83 ranked, 9 >=90. Twelve additions, 95 ranked, 10 >=90; one existing rating recalibrated. Editorial ratings, sub-90 provisional; coordinates approximate, including town/region references not independently verified. No access or wildlife guarantees.
+
+| Candidate | Overall | Evidence and scope |
+| --- | ---: | --- |
+| Trinidad Festival de las Chimeneas Gigantes | 91.10 | National cultural heritage designation; 25th edition held December 2025, large handcrafted sculptures and public burning spectacle. Future editions not guaranteed. Compare regional festivals and Valencia Fallas; much smaller scope. https://tiempo.hn/honduras/2025/12/14/espectaculo-fuego-arte-chimeneas-gigantes-iluminaron-trinidad-santa-barbara/ ; https://www.elheraldo.hn/fotogalerias/entretenimiento/en-fotos-santa-barbara-celebra-25-anos-festival-chimeneas-gigantes-BM28606887 |
+| Marcala Denomination of Origin Coffee Farm Circuit | 88.60 | Recognized coffee origin since 2005; local origin association lists visitor farms. Representative town point; excludes waterfall. https://ageconsearch.umn.edu/record/48798 ; https://www.docafemarcala.org/turismo-en-la-region/ |
+| San Pedro Sula Feria Juniana and Carnival | 86.90 | Public fair and carnival, actual 2026 occurrence documented by national TV; distinct from La Ceiba. https://tnh.gob.hn/television/fiesta-magia-y-diversion-inolvidable-en-la-feria-juniana-2026 ; https://ochmaqueta.secapph.gob.hn/la-feria-juniana-celebrando-la-cultura-y-tradicion-en-san-pedro-sula-honduras/ |
+| Las Marías Community-Guided River Petroglyph Excursion | 86.10 | Specific guided canoe journey to Walpaulban Sirpi rock art, not the entire Río Plátano reserve. Approximate village-area pin, not archaeological coordinates; access unverified. https://www.roughguides.com/honduras/la-mosquitia/ ; https://whc.unesco.org/en/list/196/ |
+| Danlí International Maize Festival | 85.90 | 47th edition programme in August 2026; maize food, cultural events and carnival. Programme does not certify each event occurred. https://www.rds-eventos.hn/eventos/programa-oficial-en-el-marco-de-la |
+| Patuca National Park Rainforest Landscape | 85.70 | Separate protected area in wider Mosquitia conservation complex; approximate regional reference only. No assumed trails, tours or guaranteed wildlife. https://www.honduras.travel/en/nature.php ; https://whc.unesco.org/en/list/196/ |
+| Gracias Cacique Lempira Historical and Civic Festival | 85.70 | July civic heritage commemorations; separate programme from Gracias Convoca arts event and Guancasco. https://www.graciaslempira.com/mes-identidad-nacional-2026.html ; https://www.graciaslempira.com/gracias-convoca-2026.html |
+| Santa Rosa de Copán Historic Centre | 83.35 | National monument and heritage designation reported by tourism authority; streetscape, not a whole-city score. https://www.honduras.travel/en/colonial-cities.php |
+| Marcala El Chiflador Waterfall and Canopy | 80.95 | Local waterfall and canopy combined; approximate locality south of town, not entrance. https://www.docafemarcala.org/turismo-en-la-region/ ; https://dnh.gob.hn/diario/canopy-extremo-el-chiflador-aventura-entre-montanas-de-marcala |
+| Comayagua La Merced Church | 80.35 | Historic church separate from cathedral and museum; approximate historic-centre pin. https://www.honduras.travel/en/colonial-cities.php ; https://redhonduras.hn/geografia/comayagua/ |
+| Tegucigalpa Los Dolores Church and Plaza | 79.90 | Colonial Baroque church and public square, separate from Metropolitan Cathedral. https://www.elheraldo.hn/elheraldoplus/comayagua-tegucigalpa-turismo-arquitectonico-cultural-semana-santa-IB25358440 |
+| La Esperanza La Gruta and Hill Viewpoint | 78.25 | Provisional desk-based assessment of hill shrine and viewpoint; representative town coordinate, exact entrance not verified. |
+
+## Reef reassessment
+
+Bay Islands National Marine Park: 92.35 → 91.45. October 2026 study reports substantial declines in coral cover and reef functionality at sampled Roatán Cordelia Banks sites during 2023–2025, and differing responses between locations. No extrapolation of Banco Capiro loss across the archipelago. Modest provisional adjustments to impact 9.1→8.9, experience 9.3→9.1, nature 9.4→9.1, wildlife 9.4→9.2; retain significance, uniqueness, depth and adventure. Site-specific survey coverage does not establish whole-park condition. https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1923395/full
+
+No other existing rating changed. Trinidad's distinctive contemporary sculpture tradition is compared with La Ceiba 90.30 and Masaya 90.70, not equated to UNESCO-inscribed Fallas. All 95 ranking rows checked for weighted totals, unique slugs and ordering using JS. Full Python schema and generator validation outstanding. No Actions manually dispatched.
