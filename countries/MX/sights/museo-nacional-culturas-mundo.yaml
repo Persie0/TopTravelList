@@ -1,0 +1,16 @@
+id: sight-mx-museo-nacional-culturas-mundo
+name: "National Museum of World Cultures (Mexico City)"
+location:
+  country_code: MX
+  latitude: 19.4326
+  longitude: -99.1312
+scores:
+  impact: 8.6
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 8.8
+  depth: 9.1
+  categories:
+    culture: 9.2
+    history: 9.0
+    architecture: 8.8

@@ -1,0 +1,17 @@
+id: sight-mx-real-de-catorce-historic-centre
+name: "Historic Mining Town of Real de Catorce"
+location:
+  country_code: MX
+  latitude: 23.6895
+  longitude: -100.8874
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 9.0
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.1
+    culture: 9.0
+    photography: 9.3
+    architecture: 9.0

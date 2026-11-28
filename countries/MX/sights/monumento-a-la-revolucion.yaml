@@ -1,0 +1,17 @@
+id: sight-mx-monumento-a-la-revolucion
+name: "Monument to the Revolution and National Museum of the Revolution"
+location:
+  country_code: MX
+  latitude: 19.4362
+  longitude: -99.1543
+scores:
+  impact: 9.1
+  uniqueness: 9.1
+  significance: 9.4
+  experience: 9.1
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.4
+    photography: 9.2
+    culture: 9.0

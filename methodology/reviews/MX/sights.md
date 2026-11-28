@@ -9828,3 +9828,257 @@ INAH descriptions consulted for potential high scorers; site-specific scope and 
 - Earlier decision: none.
 - Remaining verification: independent coordinate triangulation, numerical peer comparisons and global Python validation; current access not independently confirmed.
 
+## Pass 441 — Museums, urban and industrial heritage
+
+Individual collections and urban ensembles assessed at their own scope. Higher scores supported by consulted institutional descriptions; lower scores are provisional. No precise entrance coordinates or current admissions guaranteed. Rankings rendered using the generator's documented row rules in JavaScript; full Python validation and benchmark commands not executed.
+
+## sight-mx-museo-de-arte-moderno — Museum of Modern Art (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-de-arte-moderno.yaml)
+- Action: new
+- Precise subject: Museum's modern art holdings, rotating displays and sculpture garden, distinct from Tamayo and other Chapultepec museums.
+- Location check: 19.4255, -99.1795; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://mam.inba.gob.mx/coleccion.html; https://inba.gob.mx/prensa/22862/siete-obras-emblematicas-del-museo-de-arte-moderno; https://inba.gob.mx/prensa/23902/la-coleccion-redes-y-trayectorias-del-arte-mexicano-1910-1950-abre-al-publico-en-el-museo-de-arte-moderno.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Museo Reina Sofía (ES): greater global modern-art breadth
+  - MALBA (AR): broader Latin American focus
+  - Museo Nacional de Arte (MX): wider chronology
+  - Museum of Modern Art (US): much larger international scope
+- Individual scores:
+  - impact: 9.2 — Major original paintings and sculpture.
+  - uniqueness: 9.2 — Distinctive concentration of Mexican modernism.
+  - significance: 9.5 — Important public collection including iconic works by Kahlo and muralists.
+  - experience: 9.1 — Strong curated art experience.
+  - depth: 9.2 — Substantial holdings and varied displays.
+- Categories: culture 9.5, history 9.3, architecture 8.8.
+- Overall: 92.45/100.
+- High-score challenge: Significance and culture 9.5 reflect the collection of 3,036 pieces reported by INBAL, including Las dos Fridas and nationally protected works; not all holdings assumed on display. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-rafael-coronel-museum — Rafael Coronel Museum and Former San Francisco Convent — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/rafael-coronel-museum.yaml)
+- Action: new
+- Precise subject: Mask and folk-art collection in its former convent setting, not the whole historic centre of Zacatecas.
+- Location check: 22.7807, -102.5719; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://contigoenladistancia.cultura.gob.mx/detalle/recordando-a-rafael-coronel; https://inba.gob.mx/prensa/13218/rafael-coronel-plasmo-su-filosofia-de-la-vida-en-obra-figurativa-y-abstracta; https://lugares.inah.gob.mx/en/pagina-de-elemento/4479.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Musée du quai Branly (FR): much broader world ethnographic collections
+  - International Mask Museum (BE): comparable dedicated mask theme
+  - Museum of International Folk Art (US): broader world folk art
+  - Museo de Arte Popular (MX): wider Mexican craft coverage
+- Individual scores:
+  - impact: 9.2 — Striking masks and historic convent setting.
+  - uniqueness: 9.5 — Exceptional concentration of traditional Mexican dance masks.
+  - significance: 9.2 — Important tangible record of popular ritual art.
+  - experience: 9.0 — Varied museum interpretation.
+  - depth: 9.2 — Substantial collection across multiple media.
+- Categories: culture 9.5, history 9.2, architecture 9.1, photography 9.2.
+- Overall: 92.45/100.
+- High-score challenge: Uniqueness and culture 9.5 reflect documented holdings exceeding 11,000 masks reported by INBA in 2019; no assertion that all are exhibited or that world-largest claims have been independently confirmed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-alhondiga-de-granaditas — Alhóndiga de Granaditas Regional Museum (Guanajuato) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/alhondiga-de-granaditas.yaml)
+- Action: new
+- Precise subject: Historic granary and its museum collections, not the full Guanajuato historic centre.
+- Location check: 21.0188, -101.2578; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4245?page=%2C%2C0%2C%2C%2C0; https://lugares.inah.gob.mx/es/node/5024; https://www.inah.gob.mx/museos/museo-regional-de-guanajuato-alhondiga-de-granaditas?highlight=WyJiYXRhbGxhIiwiZGUiLCJsYSIsImFsaG9uZGlnYSJd.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Independence Hall (US): comparable founding-era significance
+  - Museo Casa de la Independencia (PY): smaller historic house
+  - National Museum of History (MX): broader national history
+  - Museo de la Revolución (MX): different national historical era
+- Individual scores:
+  - impact: 9.0 — Imposing historic granary.
+  - uniqueness: 9.1 — Distinctive association between building and independence history.
+  - significance: 9.6 — Landmark of the 1810 independence struggle.
+  - experience: 9.0 — Varied history and art interpretation.
+  - depth: 9.1 — Archaeology, ethnography and regional art.
+- Categories: history 9.6, culture 9.3, architecture 9.1.
+- Overall: 91.55/100.
+- High-score challenge: Significance and history 9.6 justified by the documented central role of the 1810 event at the original building and its substantive museum holdings. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-historic-centre-taxco — Historic Centre of Taxco de Alarcón — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/historic-centre-taxco.yaml)
+- Action: new
+- Precise subject: Hillside streets, squares, silver-working urban heritage and overall townscape; Santa Prisca already separately ranked and not treated as the entire score.
+- Location check: 18.5564, -99.6056; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4798?page=1; https://catalogonacionalmhi.inah.gob.mx/consulta_publica/detalle/93837.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Guanajuato (MX): broader mining heritage and monumental urban scale
+  - Ouro Preto (BR): comparable mining town with richer Baroque ensembles
+  - Potosí (BO): greater global silver-mining significance
+  - Ronda (ES): more dramatic gorge landscape
+- Individual scores:
+  - impact: 9.3 — Dramatic hillside whitewashed urban fabric.
+  - uniqueness: 9.1 — Distinctive mining-town street morphology.
+  - significance: 9.2 — Longstanding silver-industry and colonial heritage.
+  - experience: 9.2 — Walkable urban exploration and craft traditions.
+  - depth: 9.1 — Multiple streets, squares and workshops.
+- Categories: architecture 9.3, culture 9.2, history 9.3, photography 9.4.
+- Overall: 91.95/100.
+- High-score challenge: 90+ reflects independent townscape, mining heritage and silverworking tradition, without importing Santa Prisca's individual rating. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-monumento-a-la-revolucion — Monument to the Revolution and National Museum of the Revolution — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/monumento-a-la-revolucion.yaml)
+- Action: new
+- Precise subject: Monument, underground museum, mausoleum and established viewpoint; not the surrounding district.
+- Location check: 19.4362, -99.1543; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://mexicocity.pre.cdmx.gob.mx/venues/monument-to-the-revolution/?lang=es; https://mexicocity.cdmx.gob.mx/venues/national-museum-revolution/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Arc de Triomphe (FR): greater international monument stature
+  - Völkerschlachtdenkmal (DE): comparable large memorial
+  - Independence Monument (MX): more focused monument
+  - National Museum of History (MX): broader collection
+- Individual scores:
+  - impact: 9.1 — Prominent domed monument and urban panorama.
+  - uniqueness: 9.1 — Unusual adaptive reuse of unfinished legislative palace.
+  - significance: 9.4 — Major national revolutionary memorial.
+  - experience: 9.1 — Museum and elevated viewing experience.
+  - depth: 8.8 — Several complementary interpretive components.
+- Categories: architecture 9.3, history 9.4, photography 9.2, culture 9.0.
+- Overall: 91.30/100.
+- High-score challenge: 90+ based on combined architecture, historic reuse and museum content, not an assumed global superlative. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-muac — University Museum of Contemporary Art (MUAC) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/muac.yaml)
+- Action: new
+- Precise subject: Purpose-built contemporary art museum and collections; not the whole UNAM campus.
+- Location check: 19.3149, -99.1851; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://coleccionmuac.unam.mx/; https://muac.unam.mx/acerca-de-nosotros; https://www.gaceta.unam.mx/el-muac-abre-muestra-permanente-de-su-acervo/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tate Modern (GB): greater international breadth
+  - MACBA (ES): comparable contemporary focus
+  - MALBA (AR): wider Latin American period coverage
+  - Tamayo (MX): distinct international contemporary collection
+- Individual scores:
+  - impact: 8.9 — Distinctive contemporary building and installations.
+  - uniqueness: 9.0 — Focused post-1952 Mexican art corpus.
+  - significance: 9.2 — Important university public art collection.
+  - experience: 9.1 — Varied curated and rotating exhibitions.
+  - depth: 9.3 — Extensive artistic and documentary holdings.
+- Categories: culture 9.3, architecture 9.1, history 9.0.
+- Overall: 90.55/100.
+- High-score challenge: 90+ based on documented holdings exceeding 2,300 works by more than 400 artists and dedicated exhibition experience; not all works assumed on display. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-museo-regional-guadalajara — Regional Museum of Guadalajara — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-regional-guadalajara.yaml)
+- Action: new
+- Precise subject: Regional archaeological, paleontological, colonial and historical displays in former seminary.
+- Location check: 20.6775, -103.3462; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4247.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - National Museum of Anthropology (MX): much greater archaeological scope
+  - Museo de las Culturas de Oaxaca (MX): stronger regional concentration
+  - Museo Larco (PE): more exceptional archaeological collection
+  - Alhóndiga (MX): stronger independence-site significance
+- Individual scores:
+  - impact: 8.7 — Historic architecture and varied objects.
+  - uniqueness: 8.7 — Regional collections with comparable museums elsewhere.
+  - significance: 9.2 — Important western Mexican material heritage.
+  - experience: 8.8 — Substantial museum visit.
+  - depth: 9.1 — Multiple historical and thematic periods.
+- Categories: history 9.3, culture 9.2, architecture 8.9.
+- Overall: 88.55/100.
+- High-score challenge: Provisional sub-90 score based on collection overview. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-museo-nacional-culturas-mundo — National Museum of World Cultures (Mexico City) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/museo-nacional-culturas-mundo.yaml)
+- Action: new
+- Precise subject: World cultures collections and historic former mint building.
+- Location check: 19.4326, -99.1312; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4238; https://www.inah.gob.mx//museos/museo-nacional-de-las-culturas-del-mundo.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - British Museum (GB): much greater collection scope
+  - Musée du quai Branly (FR): greater ethnographic breadth
+  - Weltmuseum Wien (AT): comparable world cultures focus
+  - National Museum of Anthropology (MX): stronger Mexican archaeological collection
+- Individual scores:
+  - impact: 8.6 — Varied artifacts and historic interiors.
+  - uniqueness: 8.7 — Broad ethnographic scope with international analogues.
+  - significance: 8.9 — Important national public institution and building.
+  - experience: 8.8 — Educational gallery experience.
+  - depth: 9.1 — Multiple global cultural themes.
+- Categories: culture 9.2, history 9.0, architecture 8.8.
+- Overall: 87.65/100.
+- High-score challenge: Provisional sub-90 rating; no credit for the adjacent National Palace. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-sotuta-de-peon-hacienda — Sotuta de Peón Henequen Hacienda — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sotuta-de-peon-hacienda.yaml)
+- Action: new
+- Precise subject: Working heritage demonstration of henequen cultivation and processing with historic machinery and estate grounds.
+- Location check: 20.805, -89.65; approximate editorial representative point, not independently verified.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; subjective scores.
+- Sources consulted 2026-11-28: https://yucatan.gob.mx/?p=sotuta_peon.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Blaenavon (GB): broader industrial landscape
+  - Hacienda Yaxcopoil (MX): comparable historic henequen estate
+  - Finca coffee estates (CO): comparable agricultural interpretation
+  - Agave landscape of Tequila (MX): much larger regional industrial heritage
+- Individual scores:
+  - impact: 8.8 — Historic estate and cultivated landscape.
+  - uniqueness: 9.1 — Distinctive live fiber processing demonstration.
+  - significance: 8.9 — Regional industrial and social history.
+  - experience: 9.1 — Guided process interpretation and estate exploration.
+  - depth: 8.7 — Several steps from plant to fiber and machinery.
+- Categories: culture 9.1, history 9.1, photography 9.0.
+- Overall: 89.30/100.
+- High-score challenge: Provisional sub-90 score; no unsupported exclusivity claim or guarantee of operation. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+
+## sight-mx-real-de-catorce-historic-centre — Historic Mining Town of Real de Catorce — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/real-de-catorce-historic-centre.yaml)
+- Action: new
+- Precise subject: Former mining settlement, historic streets and Ogarrio tunnel arrival; excludes the wider Wirikuta sacred landscape.
+- Location check: 23.6895, -100.8874; approximate editorial representative point, not independently verified.
+- Evidence status: editorial-only; general knowledge; subjective scores.
+- Sources consulted 2026-11-28: None; provisional overview assessment.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Potosí (BO): much greater mining significance
+  - Ouro Preto (BR): stronger colonial architectural ensemble
+  - Taxco (MX): broader silver craft and urban heritage
+  - Bodie (US): different preserved mining settlement
+- Individual scores:
+  - impact: 9.0 — High desert stone town and mountain setting.
+  - uniqueness: 8.9 — Distinctive historic mining landscape with international analogues.
+  - significance: 9.0 — Regional mining and pilgrimage heritage.
+  - experience: 8.9 — Scenic urban walks.
+  - depth: 8.9 — Multiple streets and nearby historic remains.
+- Categories: history 9.1, culture 9.0, photography 9.3, architecture 9.0.
+- Overall: 89.50/100.
+- High-score challenge: Provisional sub-90 general-knowledge assessment; independent factual and coordinate checks outstanding. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate and factual triangulation, numerical peer comparison and full Python validation; current access not checked.
+

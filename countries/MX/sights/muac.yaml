@@ -1,0 +1,16 @@
+id: sight-mx-muac
+name: "University Museum of Contemporary Art (MUAC)"
+location:
+  country_code: MX
+  latitude: 19.3149
+  longitude: -99.1851
+scores:
+  impact: 8.9
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 9.1
+  depth: 9.3
+  categories:
+    culture: 9.3
+    architecture: 9.1
+    history: 9.0
