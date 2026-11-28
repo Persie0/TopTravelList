@@ -1,0 +1,16 @@
+id: sight-hn-opalaca-biological-reserve
+name: "Opalaca Biological Reserve"
+location:
+  country_code: HN
+  latitude: 14.4551
+  longitude: -88.3345
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.5
+  experience: 8.0
+  depth: 8.2
+  categories:
+    nature: 8.9
+    wildlife: 8.8
+    adventure: 8.5

@@ -1,0 +1,16 @@
+id: sight-hn-pico-pijol-national-park
+name: "Pico Pijol National Park"
+location:
+  country_code: HN
+  latitude: 15.1972
+  longitude: -87.5831
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.1
+  depth: 8.3
+  categories:
+    nature: 8.9
+    wildlife: 8.8
+    adventure: 8.6

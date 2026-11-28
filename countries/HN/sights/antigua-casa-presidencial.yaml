@@ -1,0 +1,16 @@
+id: sight-hn-antigua-casa-presidencial
+name: "Tegucigalpa Antigua Casa Presidencial Historical Centre"
+location:
+  country_code: HN
+  latitude: 14.10384
+  longitude: -87.20595
+scores:
+  impact: 7.8
+  uniqueness: 8.1
+  significance: 8.7
+  experience: 8.0
+  depth: 8.1
+  categories:
+    history: 9.0
+    architecture: 8.6
+    culture: 8.4
