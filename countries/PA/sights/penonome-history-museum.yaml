@@ -1,0 +1,16 @@
+id: sight-pa-penonome-history-museum
+name: "Penonomé History Museum"
+location:
+  country_code: PA
+  latitude: 8.52
+  longitude: -80.36
+scores:
+  impact: 7.2
+  uniqueness: 7.7
+  significance: 8.1
+  experience: 7.5
+  depth: 7.2
+  categories:
+    history: 8.5
+    culture: 8.4
+    architecture: 8.0

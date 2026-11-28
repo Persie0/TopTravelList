@@ -1,0 +1,16 @@
+id: sight-pa-achiote-road-trogon-trail
+name: "Achiote Road and El Trogón Birding Trail"
+location:
+  country_code: PA
+  latitude: 9.22
+  longitude: -80.02
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 8.6
+  experience: 8.8
+  depth: 8.5
+  categories:
+    wildlife: 9.4
+    nature: 9.1
+    photography: 9.0
