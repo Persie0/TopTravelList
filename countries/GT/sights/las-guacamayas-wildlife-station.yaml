@@ -1,0 +1,17 @@
+id: sight-gt-las-guacamayas-wildlife-station
+name: "Las Guacamayas Biological Station Wildlife Experience"
+location:
+  country_code: GT
+  latitude: 17.247139
+  longitude: -90.29258
+scores:
+  impact: 8.8
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 8.9
+  depth: 8.7
+  categories:
+    wildlife: 9.3
+    nature: 9.1
+    photography: 9.0
+    adventure: 8.7

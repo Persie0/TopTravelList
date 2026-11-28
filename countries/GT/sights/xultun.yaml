@@ -1,0 +1,16 @@
+id: sight-gt-xultun
+name: "Xultún Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.5
+  longitude: -89.4
+scores:
+  impact: 7.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 7.5
+  depth: 8.2
+  categories:
+    history: 9.4
+    culture: 8.9
+    architecture: 8.5

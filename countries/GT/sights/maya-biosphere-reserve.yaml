@@ -1,0 +1,17 @@
+id: sight-gt-maya-biosphere-reserve
+name: "Maya Biosphere Reserve Natural Landscape"
+location:
+  country_code: GT
+  latitude: 17.5
+  longitude: -89.9
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.4
+    wildlife: 9.4
+    adventure: 8.9
+    photography: 9.0

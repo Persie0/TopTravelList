@@ -1,0 +1,17 @@
+id: sight-gt-laguna-del-tigre-national-park
+name: "Laguna del Tigre National Park"
+location:
+  country_code: GT
+  latitude: 17.45
+  longitude: -90.866667
+scores:
+  impact: 8.7
+  uniqueness: 8.8
+  significance: 9.3
+  experience: 8.4
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.2
+    photography: 8.7
+    adventure: 8.6

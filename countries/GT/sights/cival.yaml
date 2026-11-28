@@ -1,0 +1,16 @@
+id: sight-gt-cival
+name: "Cival Archaeological Site"
+location:
+  country_code: GT
+  latitude: 17.3675
+  longitude: -89.2592
+scores:
+  impact: 8.1
+  uniqueness: 9.0
+  significance: 9.2
+  experience: 7.6
+  depth: 8.4
+  categories:
+    history: 9.3
+    architecture: 8.7
+    culture: 8.9

@@ -2107,3 +2107,182 @@ Seven new archaeological sites: three fact-checked and four provisional source-l
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: exact location and current access/visible condition, numeric peer comparison and full diagnostics. No access guarantee.
+
+# Pass 397 — 2026-11-28 — direct main continuation
+
+Seven new natural and archaeological attractions: three fact-checked and four provisional source-linked, all complete editorial scores. JS inventory, formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Natural reserve, component park and guided station program are distinct scopes, not additive ratings; no archaeological heritage inherited into reserve score. No guaranteed wildlife sightings, research access or protected mural viewing. Historical habitat damage distinguished from temporary access restrictions.
+
+## sight-gt-maya-biosphere-reserve — Maya Biosphere Reserve Natural Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/maya-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Guatemalan reserve as a coherent multi-zone forest and conservation landscape, excluding the archaeological merits of Tikal, Mirador and other individually scored ruins and excluding Mexican/Belizean land. Not an unrestricted visitor area.
+- Location check: Mapcarta https://mapcarta.com/Maya_Biosphere_Reserve (opened: representative reserve point, not entrance).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: CONAP/government https://prensa.gob.gt/comunicado/reserva-de-la-biosfera-maya-tesoro-natural-y-cultural (opened: >2 million hectares, zoned management, biodiversity, low-impact ecotourism); WCS https://stateofthembr.wcs.org/en-us/TopMenu/Ecological-Integrity.aspx (opened: regional forest connectivity and species, historical habitat losses; figures are not a current census). UNESCO https://whc.unesco.org/en/list/64 (excerpt: reserve is broader than Tikal property).
+- Worldwide peers (current YAML checked for reserve comparison with Corcovado, Manú, Cockscomb Basin and Sierra del Lacandón; others qualitative):
+  - Corcovado NP (CR, 95.05): stronger concentrated wildlife visitor experience and intact coastal rainforest.
+  - Manú NP (PE, 93.70): greater Amazon-to-Andes ecosystem diversity and natural significance.
+  - Cockscomb Basin (BZ, 88.50): smaller forest conservation scope and comparable wildlife-focused visitation.
+  - Sierra del Lacandón (GT, 89.80): component park, narrower ecological breadth; no additive scoring.
+- Individual scores:
+  - impact: 9.1 — Vast forest and wetland landscapes create substantial immersive natural impact, not the spectacle of ruins.
+  - uniqueness: 9.0 — Rare contiguous Mesoamerican wilderness, but tropical forest experiences exist elsewhere.
+  - significance: 9.4 — Large-range species habitat, connectivity and community conservation support high global significance, tempered by documented habitat loss.
+  - experience: 8.8 — Lawful guided low-impact forest experiences provide strong but dispersed visitation; no wildlife guarantees.
+  - depth: 9.2 — Multiple ecosystems and community-managed forest settings provide substantial exploration breadth, not the sum of child scores.
+- Categories: nature 9.4, wildlife 9.4, adventure 8.9, photography 9.0.
+- Overall: 91.00/100.
+- High-score challenge: Natural scale, ecosystem breadth and documented conservation significance support 90+, below Corcovado and Manú on focused visitor merit and global ecological distinctiveness; no archaeological score inheritance. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor route and current habitat/visible condition where uncertain, additional numeric peer comparisons and full diagnostics. No access or wildlife guarantee.
+
+## sight-gt-laguna-del-tigre-national-park — Laguna del Tigre National Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/laguna-del-tigre-national-park.yaml)
+- Action: new
+- Precise subject: Park-wide wetland and forest landscapes; excludes the broader biosphere reserve, El Perú archaeological merits and specialist station programming.
+- Location check: Ramsar/IUCN representative coordinate 17°27′N 90°52′W in https://www.cbd.int/financial/doc/iucn-internationalsites.pdf (search excerpt only; not entry).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: WCS https://guatemala.wcs.org/en-us/Wild-Places/NP-Laguna-del-Tigre.aspx (opened: park extent, flooded forest, savannas, wetlands, threatened macaw habitat and conservation challenges); CONAP https://turismo-sigap.conap.gob.gt/en/rutas-turisticas/ruta-del-mundo-maya-peten/parque-nacional-laguna-del-tigre-estacion-biologica-las-guacamayas/ (opened: representative visitor landscape and guided access); Ramsar https://www.ramsar.org/es/node/9205 (excerpt: historical degradation threats; not assumed current extent).
+- Worldwide peers (current YAML checked for reserve comparison with Corcovado, Manú, Cockscomb Basin and Sierra del Lacandón; others qualitative):
+  - Pantanal (BR): much larger wetland landscape and stronger wildlife visibility.
+  - Tortuguero NP (CR): better established canal wildlife experience.
+  - Cockscomb Basin (BZ): comparable protected forest, less freshwater wetland scope.
+  - Maya Biosphere Reserve (GT): parent area with greater ecosystem variety.
+- Individual scores:
+  - impact: 8.7 — Flooded forest, savannas and freshwater expanses offer strong natural scenery.
+  - uniqueness: 8.8 — Unusually extensive regional freshwater wetland mosaic.
+  - significance: 9.3 — International wetland recognition and threatened species habitat support strong significance; real degradation acknowledged.
+  - experience: 8.4 — Guided river and woodland viewing is rewarding but limited by variable conditions.
+  - depth: 8.8 — Multiple habitats offer depth without crediting all parent reserve activities.
+- Categories: nature 9.2, wildlife 9.2, photography 8.7, adventure 8.6.
+- Overall: 88.10/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor route and current habitat/visible condition where uncertain, additional numeric peer comparisons and full diagnostics. No access or wildlife guarantee.
+
+## sight-gt-las-guacamayas-wildlife-station — Las Guacamayas Biological Station Wildlife Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/las-guacamayas-wildlife-station.yaml)
+- Action: new
+- Precise subject: Named specialist research-station guided wildlife experience and river excursion; not the entire national park or archaeological visit.
+- Location check: AntWeb https://www.antweb.org/collection.do?name=tc-710272092 (coordinate excerpt; approximate field locality).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: CONAP https://turismo-sigap.conap.gob.gt/en/rutas-turisticas/ruta-del-mundo-maya-peten/parque-nacional-laguna-del-tigre-estacion-biologica-las-guacamayas/ (opened: advance reservation, guides, river arrival and natural macaw habitat); Lonely Planet https://www.lonelyplanet.com/points-of-interest/estacion-biologica-las-guacamayas/1331753 (excerpt: guided birding; direct fetch 403).
+- Worldwide peers (current YAML checked for reserve comparison with Corcovado, Manú, Cockscomb Basin and Sierra del Lacandón; others qualitative):
+  - Tambopata macaw clay licks (PE): more concentrated spectacular macaw encounters.
+  - La Selva Biological Station (CR): comparable specialist research and forest interpretation.
+  - Cockscomb Basin (BZ): more extensive independent trail landscape.
+  - Laguna del Tigre (GT): wider wetland ecology, station has more focused interpretation.
+- Individual scores:
+  - impact: 8.8 — River and forest wildlife viewing can be striking without guaranteed sightings.
+  - uniqueness: 8.8 — Research-led immersion in threatened macaw habitat is distinctive.
+  - significance: 9.0 — Active conservation context for a scarce national population is significant.
+  - experience: 8.9 — Guided birding and river visits offer high specialist experience quality.
+  - depth: 8.7 — Habitat interpretation and multiple outings add depth, without promising participation in research.
+- Categories: wildlife 9.3, nature 9.1, photography 9.0, adventure 8.7.
+- Overall: 88.45/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor route and current habitat/visible condition where uncertain, additional numeric peer comparisons and full diagnostics. No access or wildlife guarantee.
+
+## sight-gt-naachtun — Naachtún Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/naachtun.yaml)
+- Action: new
+- Precise subject: Named city and surviving monumental core; excludes regional hinterland and research-only excavations.
+- Location check: Mapcarta https://mapcarta.com/es/19530264 and Wikidata https://www.wikidata.org/wiki/Q1770492 (coordinate excerpts).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: French Ministry of Culture https://archeologie.culture.gouv.fr/en/naachtun (opened: major Classic regional capital, carved monuments, buildings and conservation; no public route confirmed).
+- Worldwide peers (current YAML checked for reserve comparison with Corcovado, Manú, Cockscomb Basin and Sierra del Lacandón; others qualitative):
+  - Calakmul (MX): greater visible monument scale and established visit.
+  - Caracol (BZ): more exposed architecture and visitor interpretation.
+  - Piedras Negras (GT): comparable remote royal center.
+  - Uaxactún (GT): better documented public archaeological visit.
+- Individual scores:
+  - impact: 8.4 — Forest-covered plazas and structures have strong archaeological atmosphere but visibility uncertain.
+  - uniqueness: 8.9 — Long-lived regional capital between major rivals is distinctive.
+  - significance: 9.2 — Substantial research evidence for Classic lowland Maya politics.
+  - experience: 7.9 — Conservative normal-condition estimate; no visitor facilities or private research access assumed.
+  - depth: 8.6 — Multiple architectural groups and political history support depth.
+- Categories: history 9.3, architecture 8.8, culture 8.7.
+- Overall: 86.30/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor route and current habitat/visible condition where uncertain, additional numeric peer comparisons and full diagnostics. No access or wildlife guarantee.
+
+## sight-gt-ucanal — Ucanal Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/ucanal.yaml)
+- Action: new
+- Precise subject: City core and surviving ceremonial structures; not removed artifacts or wider Mopan valley.
+- Location check: Peer-reviewed Ucanal coordinate 16°50′41″N 89°22′26″W in https://onlinelibrary.wiley.com/doi/full/10.1111/arcm.70077 (search excerpt; converted).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Proyecto Arqueológico Ucanal https://www.ucanal-archaeology.com/overview (opened: Mopan River trading position, city development and occupation); Wiley article above (excerpt: relative city size, chronology and water features). Public visitor route unresolved.
+- Worldwide peers (current YAML checked for reserve comparison with Corcovado, Manú, Cockscomb Basin and Sierra del Lacandón; others qualitative):
+  - Xunantunich (BZ): more visible major pyramid and established visitor circuit.
+  - Caracol (BZ): greater monumental scale.
+  - Naranjo (GT): greater documented Classic dynastic prominence.
+  - Ceibal (GT): better documented visible stelae and plazas.
+- Individual scores:
+  - impact: 8.0 — Ceremonial ruins offer moderate visual impact pending condition verification.
+  - uniqueness: 8.7 — Trade position and late Maya urban trajectory provide distinct identity.
+  - significance: 9.1 — Research contributes important evidence of Terminal Classic political changes.
+  - experience: 7.8 — Conservative focused visit estimate without invented access.
+  - depth: 8.4 — Urban groups and water-management context provide historical breadth.
+- Categories: history 9.2, architecture 8.6, culture 8.7.
+- Overall: 84.05/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor route and current habitat/visible condition where uncertain, additional numeric peer comparisons and full diagnostics. No access or wildlife guarantee.
+
+## sight-gt-xultun — Xultún Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/xultun.yaml)
+- Action: new
+- Precise subject: Surviving site and archaeology; excludes assumed viewing of protected astronomical murals or access to excavation rooms.
+- Location check: https://archeoatlas.com/country/guatemala (coordinate table search excerpt; approximate archaeological point)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Science paper abstract https://pubmed.ncbi.nlm.nih.gov/22582260/ (search excerpt; direct page not readable); Physics Today https://physicstoday.aip.org/news/ancient-maya-astronomical-tables and Scientific American https://www.scientificamerican.com/article/xultun-mayan-calendar/ (search excerpts: Classic astronomical tables and murals).
+- Worldwide peers (current YAML checked for reserve comparison with Corcovado, Manú, Cockscomb Basin and Sierra del Lacandón; others qualitative):
+  - San Bartolo (GT): comparable rare painted evidence, separate site.
+  - Dresden Codex display (DE): different museum scope for Maya astronomical heritage.
+  - Copán (HN): richer exposed architecture and inscriptions.
+  - Holmul (GT): similar protected painted discoveries and uncertain visit scope.
+- Individual scores:
+  - impact: 7.9 — Forest ruins provide meaningful but modest visual impact; murals not assumed visible.
+  - uniqueness: 9.2 — Early astronomical notations are rare archaeological evidence.
+  - significance: 9.3 — Exceptionally important evidence for Maya scientific and calendrical history.
+  - experience: 7.5 — Limited evidence for public interpretation; conservative estimate.
+  - depth: 8.2 — Multiple archaeological contexts offer specialist depth without private chamber access.
+- Categories: history 9.4, culture 8.9, architecture 8.5.
+- Overall: 84.75/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor route and current habitat/visible condition where uncertain, additional numeric peer comparisons and full diagnostics. No access or wildlife guarantee.
+
+## sight-gt-cival — Cival Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/cival.yaml)
+- Action: new
+- Precise subject: Preclassic ceremonial city and surviving landscape, excludes protected stucco masks, buried offerings and Holmul's wider region.
+- Location check: https://archeoatlas.com/country/guatemala (coordinate table search excerpt; approximate archaeological point)
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Antiquity https://www.antiquity.ac.uk/projgall/estrada_belli298/ and https://www.antiquity.ac.uk/projgall/belli296 (search excerpts: early monuments, ceremonial architecture and dynastic sculpture); Cambridge https://www.cambridge.org/core/journals/latin-american-antiquity/article/caches-memory-and-ritual-at-the-maya-city-of-cival/AFC6D1E91FA8704B604DC1D7E84241D9 (excerpt: ritual contexts). Current visible condition and public route unknown.
+- Worldwide peers (current YAML checked for reserve comparison with Corcovado, Manú, Cockscomb Basin and Sierra del Lacandón; others qualitative):
+  - Nakbé (GT): larger early monument scale and documented expedition stop.
+  - Uaxactún (GT): more developed visitor context for early ceremonial groups.
+  - Chavín (PE): similarly important early religious art but more established interpretation.
+  - Tak’alik Ab’aj (GT): broader transitional cultural sequence.
+- Individual scores:
+  - impact: 8.1 — Early monumental forms have strong historic atmosphere, not all exposed.
+  - uniqueness: 9.0 — Early dynastic imagery and ceremonial layout are unusual.
+  - significance: 9.2 — Important evidence of early lowland Maya ritual and political organization.
+  - experience: 7.6 — Conservative normal-condition estimate without assumed excavation access.
+  - depth: 8.4 — Several architectural groups and ritual history support substantial interpretive depth.
+- Categories: history 9.3, architecture 8.7, culture 8.9.
+- Overall: 85.00/100.
+- High-score challenge: No 90+ overall. No 9.5+ fields or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact visitor route and current habitat/visible condition where uncertain, additional numeric peer comparisons and full diagnostics. No access or wildlife guarantee.
