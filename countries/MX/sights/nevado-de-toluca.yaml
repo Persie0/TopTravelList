@@ -1,0 +1,16 @@
+id: sight-mx-nevado-de-toluca
+name: "Nevado de Toluca Volcano and Crater Lakes"
+location:
+  country_code: MX
+  latitude: 19.108
+  longitude: -99.758
+scores:
+  impact: 9.2
+  uniqueness: 8.9
+  significance: 8.7
+  experience: 9.1
+  depth: 8.5
+  categories:
+    nature: 9.3
+    photography: 9.4
+    adventure: 9.1

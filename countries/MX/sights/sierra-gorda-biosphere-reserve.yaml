@@ -1,0 +1,17 @@
+id: sight-mx-sierra-gorda-biosphere-reserve
+name: "Sierra Gorda Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 21.29
+  longitude: -99.49
+scores:
+  impact: 9.0
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.4
+    wildlife: 9.3
+    photography: 9.2
+    adventure: 9.0

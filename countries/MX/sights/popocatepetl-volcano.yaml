@@ -1,0 +1,15 @@
+id: sight-mx-popocatepetl-volcano
+name: "Popocatépetl Volcano"
+location:
+  country_code: MX
+  latitude: 19.023
+  longitude: -98.622
+scores:
+  impact: 9.4
+  uniqueness: 9.1
+  significance: 9.3
+  experience: 8.2
+  depth: 8.3
+  categories:
+    nature: 9.4
+    photography: 9.4

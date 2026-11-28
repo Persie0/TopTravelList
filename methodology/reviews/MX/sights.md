@@ -4979,3 +4979,178 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ total or 9.5+ field.
 - Earlier decision: none.
 - Remaining verification: current access and representative coordinates where applicable; full worldwide Python validation and numerical peer checks.
+
+## sight-mx-chepe-express-railway — El Chepe Express Scenic Railway — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/chepe-express-railway.yaml)
+- Action: new
+- Precise subject: Los Mochis–Creel passenger railway journey and its engineering, not the full canyon, off-train excursions or separate Regional service. Representative Divisadero waypoint from existing inventory, not a boarding recommendation.
+- Location check: 27.53468, -107.82296; approximate representative point.
+- Evidence status: fact-checked; editorial scores.
+- Sources consulted 2026-11-28: https://chepe.mx/en (opened: operator confirms over 350 km, over nine hours and five destinations); https://chepe.mx/en/the-story-of-the-chepe/ (opened: bridges, viaducts, tunnels and historical economic role); https://www.nationalgeographic.com/travel/article/mexico-chepe-express-train-slow-travel (opened: independent reporting on scenery and railway journey).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Bernina Express (CH/IT): comparable dramatic railway engineering and alpine panorama
+  - Flåm Railway (NO): shorter mountain railway with steep descent
+  - TranzAlpine (NZ): comparable coast-to-mountain scenery
+  - Copper Canyon Divisadero (MX): static overlook rather than moving rail experience
+- Individual scores:
+  - impact: 9.3 — Progressive panorama of ravines, rivers and mountains yields exceptional scenery.
+  - uniqueness: 9.4 — Engineering across rugged terrain creates a distinctive continuous rail experience.
+  - significance: 9.0 — Historic transport connection and engineering achievements support significance.
+  - experience: 9.4 — Long scenic ride with varied views is rewarding in its own right.
+  - depth: 9.0 — Multiple distinct sections sustain a full-day journey.
+- Categories: nature 9.3, photography 9.4, history 9.0, adventure 8.9.
+- Overall: 92.50/100.
+- High-score challenge: 90+ total supported by independently documented scenic journey and engineering, comparable with Bernina and TranzAlpine; no off-train attraction scores imported.
+- Earlier decision: none.
+- Remaining verification: current access, precise scope where applicable, numerical peers and worldwide Python validation.
+
+## sight-mx-sierra-gorda-biosphere-reserve — Sierra Gorda Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sierra-gorda-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Natural protected landscape in Querétaro, not the Franciscan missions or the whole Sierra Madre Oriental. UNESCO representative coordinates.
+- Location check: 21.29, -99.49; approximate representative point.
+- Evidence status: fact-checked; editorial scores.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/sierra-gorda (opened: 14 vegetation types, threatened species and biogeographical transition; indexed coordinates); https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=160 (opened: rugged relief, protected landscape trails and interpretation); https://www.keybiodiversityareas.org/en/site/factsheet/10006 (indexed: corroborating representative coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Manú (PE): greater Amazonian-to-Andean ecological extent
+  - Corcovado (CR): stronger concentrated tropical wildlife encounters
+  - Sierra de las Minas (GT): comparable elevational diversity
+  - El Pinacate (MX): distinctive desert volcanic landscape with different ecological scope
+- Individual scores:
+  - impact: 9.0 — Dramatic rugged relief and diverse vegetation provide strong scenery.
+  - uniqueness: 9.0 — Transition between biogeographic regions distinguishes the landscape.
+  - significance: 9.3 — Biosphere recognition and threatened-species habitat justify high significance.
+  - experience: 9.0 — Nature routes and varied ecological landscapes sustain rewarding exploration.
+  - depth: 9.3 — Fourteen vegetation types and large relief provide substantial breadth.
+- Categories: nature 9.4, wildlife 9.3, photography 9.2, adventure 9.0.
+- Overall: 90.90/100.
+- High-score challenge: 90+ overall justified by ecological variety and substantial documented nature exploration. No UNESCO mission architecture credit or guaranteed animal sightings.
+- Earlier decision: none.
+- Remaining verification: current access, precise scope where applicable, numerical peers and worldwide Python validation.
+
+## sight-mx-iztaccihuatl — Iztaccíhuatl Volcano — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/iztaccihuatl.yaml)
+- Action: new
+- Precise subject: Individual mountain and its broad ridge and high-altitude landscape, distinct from Popocatépetl. Qualified mountaineering context; no current route permission implied.
+- Location check: 19.179, -98.642; approximate representative point.
+- Evidence status: fact-checked; editorial scores.
+- Sources consulted 2026-11-28: https://volcano.si.edu/volcano.cfm?vn=341082 (opened: coordinates, elongated summit ridge, relief and archaeological artifacts); https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=81 (opened: protected mountain context and established mountaineering attraction).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Mount Kilimanjaro (TZ): greater iconic trekking and climatic breadth
+  - Cotopaxi (EC): comparable high volcanic mountain, different profile
+  - Mount Rainier (US): wider established alpine recreation
+  - Pico de Orizaba (MX): higher and more symmetrical volcanic summit
+- Individual scores:
+  - impact: 9.2 — Long distinctive mountain silhouette and great relief create strong impact.
+  - uniqueness: 8.9 — Elongated overlapping volcanic edifices distinguish it from classic cones.
+  - significance: 9.1 — Cultural associations and documented archaeological context add to geological value.
+  - experience: 9.0 — Mountain scenery and qualified ascents offer rewarding exploration.
+  - depth: 9.0 — Extended ridge and elevational variety provide substantial depth.
+- Categories: nature 9.3, adventure 9.4, photography 9.3, history 8.7.
+- Overall: 90.55/100.
+- High-score challenge: 90+ total rests on complementary high mountain scenery, specialist exploration and documented cultural-geological relevance, not national elevation rank alone.
+- Earlier decision: none.
+- Remaining verification: current access, precise scope where applicable, numerical peers and worldwide Python validation.
+
+## sight-mx-popocatepetl-volcano — Popocatépetl Volcano — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/popocatepetl-volcano.yaml)
+- Action: new
+- Precise subject: Active volcanic mountain observed only from lawful, safe distant locations. Coordinates denote the volcano, not an access point. No summit or crater visitation credited; check official warnings and respect exclusion zone.
+- Location check: 19.023, -98.622; approximate representative point.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://volcano.si.edu/volcano.cfm?vn=341090 (indexed: coordinates and recent activity; full page timed out); https://volcano.si.edu/volcano.cfm?vn=341082 (opened: comparative morphology, eruptive activity and historic images); https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=81 (opened: protected landscape and active volcanic character); https://www.gob.mx/cenapred/articulos/popocatepetl-por-que-no-debes-acercarte-al-crater (indexed only, full page 403: 12 km exclusion-zone warning).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Mount Fuji (JP): more globally iconic cultural symbol with established summit visitation
+  - Etna (IT): more diverse permitted volcanic observation experiences
+  - Cotopaxi (EC): comparable prominent stratovolcano
+  - Iztaccíhuatl (MX): distinct neighboring ridge with mountaineering context
+- Individual scores:
+  - impact: 9.4 — Symmetrical cone and possible visible volcanic activity are spectacular from a distance.
+  - uniqueness: 9.1 — Prominent active volcano above settled landscapes offers distinctive scenery.
+  - significance: 9.3 — Long scientific monitoring and central Mexican cultural symbolism support significance.
+  - experience: 8.2 — Distant landscape viewing is rewarding independently of access to the crater.
+  - depth: 8.3 — Viewing perspectives and geological interpretation provide breadth, without crediting unsafe encounters.
+- Categories: nature 9.4, photography 9.4.
+- Overall: 90.15/100.
+- High-score challenge: Near-threshold assessment independently compared with Etna and Fuji. No hazardous access or guaranteed eruptions credited; source-linked because direct Smithsonian and CENAPRED pages could not be opened.
+- Earlier decision: none.
+- Remaining verification: current access, precise scope where applicable, numerical peers and worldwide Python validation.
+
+## sight-mx-nevado-de-toluca — Nevado de Toluca Volcano and Crater Lakes — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/nevado-de-toluca.yaml)
+- Action: new
+- Precise subject: Volcanic crater containing Sun and Moon lagoons and surrounding high-mountain landscape; no separate duplicate lake ratings or current access guarantee.
+- Location check: 19.108, -99.758; approximate representative point.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://volcano.si.edu/volcano.cfm?vn=341070 (indexed: volcano coordinates and summit crater morphology); https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=116 (opened: Sun and Moon lakes and marked hiking trails).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Tongariro Alpine Crossing (NZ): broader geothermal and crater-lake route
+  - Kelimutu (ID): more distinctive colored crater lakes
+  - Mount Bromo (ID): distinctive caldera and active volcanic scenery
+  - Pico de Orizaba (MX): greater relief and mountaineering depth
+- Individual scores:
+  - impact: 9.2 — Twin high-altitude lakes within rugged volcanic crater create memorable scenery.
+  - uniqueness: 8.9 — Crater lake pairing is distinctive but has international peers.
+  - significance: 8.7 — Protected high-mountain ecosystems and geology support substantial importance.
+  - experience: 9.1 — Crater walking and observation provide strong visitor reward.
+  - depth: 8.5 — Several crater features allow meaningful exploration but less than extensive mountain ranges.
+- Categories: nature 9.3, photography 9.4, adventure 9.1.
+- Overall: 89.40/100.
+- High-score challenge: No 90+ total or 9.5+ field.
+- Earlier decision: none.
+- Remaining verification: current access, precise scope where applicable, numerical peers and worldwide Python validation.
+
+## sight-mx-basaseachi-falls-national-park — Basaseachi Falls National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/basaseachi-falls-national-park.yaml)
+- Action: new
+- Precise subject: Candameña canyon protected landscape including Basaseachi and seasonal Piedra Volada cascades and El Gigante monolith. Not a claim both cascades flow at all times. Representative park point.
+- Location check: 28.13, -108.25; approximate representative point.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=28 (opened: 246 m waterfall, seasonal second cascade and monolith); https://mapcarta.com/Basaseachic_Falls_National_Park (opened: park representative point).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Iguazú (AR/BR): far greater cascade system
+  - Krimml (AT): comparable major waterfall trail, different mountain landscape
+  - Yosemite Valley (US): much greater combined cliff and waterfall scale
+  - Tamul (MX): shorter cascade with turquoise river approach
+- Individual scores:
+  - impact: 9.1 — Tall waterfall against deep rocky canyon creates exceptional visual contrast.
+  - uniqueness: 8.7 — Combination of high cascades and steep canyon is distinctive but not globally unmatched.
+  - significance: 8.5 — Protected forest and canyon habitats support importance.
+  - experience: 8.8 — Viewpoints and nature exploration provide rewarding outing.
+  - depth: 8.7 — Two cascades and monolith add depth beyond one waterfall.
+- Categories: nature 9.2, photography 9.3, adventure 8.9, wildlife 8.7.
+- Overall: 87.95/100.
+- High-score challenge: No 90+ total or 9.5+ field.
+- Earlier decision: none.
+- Remaining verification: current access, precise scope where applicable, numerical peers and worldwide Python validation.
+
+## sight-mx-grutas-de-cacahuamilpa — Grutas de Cacahuamilpa National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/grutas-de-cacahuamilpa.yaml)
+- Action: new
+- Precise subject: Cave park and main visitor cave formations, including marked routes; not a claim of unrestricted access to underground rivers. Mapped cave entrance representative point.
+- Location check: 18.66893, -99.51073; approximate representative point.
+- Evidence status: source-linked-unverified; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=68 (opened: cave formations, park and marked routes); https://mapcarta.com/19988650 (opened: mapped cave entrance coordinates).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Postojna Cave (SI): more globally recognized extensive show cave
+  - Škocjan Caves (SI): exceptional underground river canyon
+  - Carlsbad Caverns (US): stronger exceptional chamber scale
+  - St Herman's cave (BZ): smaller visitor cave scope
+- Individual scores:
+  - impact: 8.8 — Large decorated cave chambers provide strong visual impact.
+  - uniqueness: 8.5 — Limestone show caves have substantial international peers.
+  - significance: 8.4 — Protected cave geology and hydrology support regional significance.
+  - experience: 9.1 — Established cave exploration and park facilities provide strong visitor reward.
+  - depth: 8.7 — Multiple formations and park setting support substantial breadth.
+- Categories: nature 9.0, adventure 9.0, photography 9.0, family 8.8.
+- Overall: 86.80/100.
+- High-score challenge: No 90+ total or 9.5+ field.
+- Earlier decision: none.
+- Remaining verification: current access, precise scope where applicable, numerical peers and worldwide Python validation.
