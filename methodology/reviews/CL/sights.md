@@ -2430,3 +2430,247 @@ Ranking-row comparisons are preliminary; independent peer YAML, coordinate verif
 ### Pass 322 scope decisions
 
 12 provisional additions (11 source-linked, 1 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 120 ranked / 120 total, +53 since baseline 67, 22 new 90+ across five passes. Desierto Florido episodic flowering and designated roads/paths; no annual certainty or duplicate regional bloom rating. Tantauco distinct from Chiloé National Park. Ancient Alerce Costero forest and controlled access to Abuelo Alerce documented. Nine national parks added, plus Tantauco, one additional national park and Cerro Unitas geoglyph (10 national parks total). Radal national park and adjacent reserve routes grouped; Laguna del Laja distinct from Salto del Laja. Prior UNESCO coverage and deferrals retained; exact components not independently mapped. Chile OPEN; remaining parks and regional attractions to screen. Coordinates approximate; current conditions unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+## sight-cl-andacollo-rosary-festival — Andacollo Virgen del Rosario Pilgrimage and Public Religious Dance Festival — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/andacollo-rosary-festival.yaml)
+- Action: new
+- Scope: Distinct pilgrimage and public dance tradition at Andacollo; UNESCO inscription applies to baile chino, not the entire festival. Private rituals excluded.
+- Representative coordinates: -30.23, -71.09; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.chilepatrimonios.gob.cl/actualidad/especial_La-Tirana-y-las-festividades-religiosas-en-Chile%3A-patrimonio-y-religiosidad-popular_527 ; https://ich.unesco.org/es/RL/el-baile-chino-00988?RL=00988
+- Core I/U/S/E/D: 9.2 / 9.3 / 9.5 / 9.1 / 9.2.
+- Categories: culture:9.4 history:9.3 photography:9.2.
+- Overall: 92.70/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/la-tirana-festival](../../../countries/CL/sights/la-tirana-festival.yaml) | 9.3 / 9.3 / 9.4 / 9.1 / 9.0 | impact: -0.1; uniqueness: 0.0 vs peer |
+| [AR/salta-milagro-procession](../../../countries/AR/sights/salta-milagro-procession.yaml) | 9.2 / 9.1 / 9.4 / 9.1 / 9.0 | impact: 0.0; uniqueness: 0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-valdivia-international-film-festival — Valdivia International Film Festival Public Screening Programme — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/valdivia-international-film-festival.yaml)
+- Action: new
+- Scope: Distinct recurring public film programme; 33rd edition documented in 2026. No future edition assumed.
+- Representative coordinates: -39.81, -73.24; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://ficvaldivia.cl/en/ ; https://ficvaldivia.cl/en/acerca/
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.3 / 9.2 / 9.2.
+- Categories: culture:9.4 nightlife:9.1.
+- Overall: 91.35/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/santiago-teatro-a-mil](../../../countries/CL/sights/santiago-teatro-a-mil.yaml) | 9.2 / 9.1 / 9.4 / 9.3 / 9.3 | impact: -0.2; uniqueness: 0.0 vs peer |
+| [AR/buenos-aires-bafici](../../../countries/AR/sights/buenos-aires-bafici.yaml) | 9.0 / 9.1 / 9.2 / 9.2 / 9.3 | impact: 0.0; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-rapa-nui-scuba-diving — Rapa Nui Hanga Roa Guided Scuba Diving and Volcanic Marine Landscapes — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/rapa-nui-scuba-diving.yaml)
+- Action: new
+- Scope: Designated nearshore guided dive sites only; no credit for inaccessible offshore marine reserve, archaeological park or beach visit. Submerged replica not an ancient moai; visibility and sightings not guaranteed.
+- Representative coordinates: -27.15, -109.43; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/attractions/hanga-roa/ ; https://chile.travel/en/itineraries/discover-the-magic-of-the-island-of-rapa-nui-its-beaches-volcanoes-and-hidden-attractions/ ; https://simbio.mma.gob.cl/CbaAP/Details/2010
+- Core I/U/S/E/D: 9.3 / 9.3 / 8.9 / 9.2 / 8.7.
+- Categories: nature:9.3 wildlife:9.3 adventure:9.4 photography:9.3.
+- Overall: 91.45/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/punta-de-lobos-surf](../../../countries/CL/sights/punta-de-lobos-surf.yaml) | 9.2 / 9.3 / 9.1 / 9.1 / 8.7 | impact: 0.1; uniqueness: 0.0 vs peer |
+| [AR/puerto-madryn-sea-lion-snorkeling](../../../countries/AR/sights/puerto-madryn-sea-lion-snorkeling.yaml) | 9.2 / 9.4 / 8.9 / 9.3 / 8.7 | impact: 0.1; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-coquimbo-pampilla — Coquimbo La Pampilla Fiestas Patrias Public Folk Celebration — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/coquimbo-pampilla.yaml)
+- Action: new
+- Scope: Distinct annual Coquimbo event, not Santiago fondas. Initial 2026 cancellation reversed; modified edition inaugurated September 17. No attendance estimate treated as actual attendance.
+- Representative coordinates: -29.98, -71.35; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.dprcoquimbo.dpr.gob.cl/2026/09/01/gobierno-y-municipio-de-coquimbo-coordinan-preparacion-de-la-pampilla-para-recibir-a-cerca-de-200-mil-personas/ ; https://www.t13.cl/amp/noticia/nacional/municipio-coquimbo-cambia-decision-confirma-fiesta-pampilla-2026-13-8-2026 ; https://cooperativa.cl/noticias/pais/festivos/fiestas-patrias/coquimbo-inauguro-la-pampilla-2026-una-edicion-marcada-por-la/2026-09-17/224833.html
+- Core I/U/S/E/D: 9.1 / 9.0 / 9.2 / 9.2 / 9.1.
+- Categories: culture:9.3 food:9.2 nightlife:9.2 photography:9.0.
+- Overall: 91.10/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/santiago-fiestas-patrias](../../../countries/CL/sights/santiago-fiestas-patrias.yaml) | 9.0 / 8.9 / 9.1 / 9.3 / 8.8 | impact: 0.1; uniqueness: 0.1 vs peer |
+| [AR/rosario-colectividades](../../../countries/AR/sights/rosario-colectividades.yaml) | 9.2 / 9.1 / 9.2 / 9.3 / 9.3 | impact: -0.1; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-tolhuaca-national-park — Tolhuaca National Park Andean Forest and Waterfall Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/tolhuaca-national-park.yaml)
+- Action: new
+- Scope: Established protected forest and waterfall trails, separate from other Araucanía parks.
+- Representative coordinates: -38.23, -71.82; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.conaf.cl/parque_nacionales/parque-nacional-tolhuaca/
+- Core I/U/S/E/D: 8.7 / 8.7 / 8.6 / 8.6 / 8.5.
+- Categories: nature:9.2 photography:9.2 adventure:9.0.
+- Overall: 86.45/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/conguillio-national-park](../../../countries/CL/sights/conguillio-national-park.yaml) | 9.1 / 9.1 / 8.9 / 8.8 / 8.7 | impact: -0.4; uniqueness: -0.4 vs peer |
+| [AR/lago-puelo-national-park](../../../countries/AR/sights/lago-puelo-national-park.yaml) | 8.8 / 8.6 / 8.6 / 8.8 / 8.7 | impact: -0.1; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-llanos-de-challe-national-park — Llanos de Challe National Park Coastal Desert Flora and Guanaco Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/llanos-de-challe-national-park.yaml)
+- Action: new
+- Scope: Coastal desert vegetation and wildlife, separate protected area. Excludes episodic mass flowering spectacle already rated at Desierto Florido; no sighting guarantee.
+- Representative coordinates: -28.17, -71.05; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.conaf.cl/parque_nacionales/parque-nacional-llanos-de-challe/
+- Core I/U/S/E/D: 8.6 / 8.9 / 8.8 / 8.4 / 8.5.
+- Categories: nature:9.3 wildlife:9.1 photography:9.2.
+- Overall: 86.75/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/pan-de-azucar-national-park](../../../countries/CL/sights/pan-de-azucar-national-park.yaml) | 8.7 / 8.6 / 8.5 / 8.3 / 8.3 | impact: -0.1; uniqueness: 0.3 vs peer |
+| [AR/los-cardones-national-park](../../../countries/AR/sights/los-cardones-national-park.yaml) | 8.5 / 8.5 / 8.2 / 8.3 / 8.2 | impact: 0.1; uniqueness: 0.4 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-morro-moreno-national-park — Morro Moreno National Park Coastal Desert and Endemic Cactus Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/morro-moreno-national-park.yaml)
+- Action: new
+- Scope: Designated coastal mountain paths, endemic flora; distinct from La Portada.
+- Representative coordinates: -23.49, -70.56; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.conaf.cl/parque_nacionales/parque-nacional-morro-moreno/
+- Core I/U/S/E/D: 8.4 / 8.8 / 8.6 / 8.2 / 8.3.
+- Categories: nature:9.1 photography:9.1 wildlife:8.9.
+- Overall: 85.00/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/pan-de-azucar-national-park](../../../countries/CL/sights/pan-de-azucar-national-park.yaml) | 8.7 / 8.6 / 8.5 / 8.3 / 8.3 | impact: -0.3; uniqueness: 0.2 vs peer |
+| [AR/los-cardones-national-park](../../../countries/AR/sights/los-cardones-national-park.yaml) | 8.5 / 8.5 / 8.2 / 8.3 / 8.2 | impact: -0.1; uniqueness: 0.3 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-rio-clarillo-national-park — Río Clarillo National Park Sclerophyll Forest and River Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/rio-clarillo-national-park.yaml)
+- Action: new
+- Scope: Established visitor trails and picnic areas; no general Santiago mountain aggregate.
+- Representative coordinates: -33.72, -70.46; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.conaf.cl/parque_nacionales/parque-nacional-rio-clarillo/
+- Core I/U/S/E/D: 8.3 / 8.4 / 8.5 / 8.7 / 8.4.
+- Categories: nature:9.1 adventure:8.9 family:9.0.
+- Overall: 84.35/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/la-campana-national-park](../../../countries/CL/sights/la-campana-national-park.yaml) | 8.8 / 8.9 / 9.0 / 8.7 / 8.7 | impact: -0.5; uniqueness: -0.5 vs peer |
+| [AR/el-palmar-national-park](../../../countries/AR/sights/el-palmar-national-park.yaml) | 8.2 / 8.6 / 8.2 / 8.5 / 8.0 | impact: 0.1; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-nonguen-national-park — Nonguén National Park Concepción Native Forest Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/nonguen-national-park.yaml)
+- Action: new
+- Scope: Designated native deciduous forest paths; not an aggregate regional forest rating.
+- Representative coordinates: -36.89, -72.98; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.conaf.cl/parque_nacionales/parque-nacional-nonguen/
+- Core I/U/S/E/D: 8.3 / 8.5 / 8.7 / 8.3 / 8.4.
+- Categories: nature:9.2 wildlife:9.0 photography:8.8.
+- Overall: 84.40/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/nahuelbuta-national-park](../../../countries/CL/sights/nahuelbuta-national-park.yaml) | 8.8 / 8.9 / 8.8 / 8.7 / 8.6 | impact: -0.5; uniqueness: -0.4 vs peer |
+| [AR/calilegua-national-park](../../../countries/AR/sights/calilegua-national-park.yaml) | 8.9 / 8.8 / 9.0 / 8.7 / 9.0 | impact: -0.6; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-rio-de-los-cipreses-national-reserve — Río de los Cipreses National Reserve Andean Valley and Wildlife Trails — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/rio-de-los-cipreses-national-reserve.yaml)
+- Action: new
+- Scope: Designated visitor sectors only; no unrestricted high mountain access.
+- Representative coordinates: -34.25, -70.43; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.conaf.cl/parque_nacionales/reserva-nacional-rio-de-los-cipreses/
+- Core I/U/S/E/D: 8.6 / 8.6 / 8.5 / 8.6 / 8.6.
+- Categories: nature:9.2 wildlife:9.1 adventure:9.0 photography:9.1.
+- Overall: 85.80/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/laguna-del-laja-national-park](../../../countries/CL/sights/laguna-del-laja-national-park.yaml) | 8.8 / 8.7 / 8.5 / 8.7 / 8.6 | impact: -0.2; uniqueness: -0.1 vs peer |
+| [AR/cordon-del-plata](../../../countries/AR/sights/cordon-del-plata.yaml) | 9.0 / 8.8 / 8.5 / 8.6 / 8.8 | impact: -0.4; uniqueness: -0.2 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-santa-cruz-colchagua-museum — Santa Cruz Colchagua Museum History and Material Culture Exhibitions — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/santa-cruz-colchagua-museum.yaml)
+- Action: new
+- Scope: Permanent museum collection distinct from grape harvest festival and wine estates. Desk-based.
+- Representative coordinates: -34.64, -71.36; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.5 / 8.6 / 8.8 / 8.5 / 8.8.
+- Categories: history:9.3 culture:9.2 family:8.9.
+- Overall: 86.15/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/museo-chileno-de-arte-precolombino](../../../countries/CL/sights/museo-chileno-de-arte-precolombino.yaml) | 8.2 / 8.8 / 9.2 / 8.6 / 8.0 | impact: 0.3; uniqueness: -0.2 vs peer |
+| [AR/museo-de-la-plata](../../../countries/AR/sights/museo-de-la-plata.yaml) | 8.9 / 9.0 / 9.4 / 8.9 / 9.2 | impact: -0.4; uniqueness: -0.4 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+## sight-cl-santiago-museo-bellas-artes — Santiago National Museum of Fine Arts and Palace of Fine Arts — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/santiago-museo-bellas-artes.yaml)
+- Action: new
+- Scope: Permanent national art museum and historic building grouped. Desk-based.
+- Representative coordinates: -33.44, -70.64; approximate editorial point, independent verification pending.
+- Evidence status: **desk-based provisional**
+- Sources: General knowledge; individual source verification pending.
+- Core I/U/S/E/D: 8.4 / 8.5 / 8.8 / 8.5 / 8.6.
+- Categories: culture:9.3 architecture:9.1 history:9.0.
+- Overall: 85.40/100.
+- Decision: provisional worldwide score; temporary access excluded.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/santiago-gam](../../../countries/CL/sights/santiago-gam.yaml) | 8.2 / 8.4 / 8.8 / 8.5 / 8.7 | impact: 0.2; uniqueness: 0.1 vs peer |
+| [AR/museo-nacional-de-bellas-artes-buenos-aires](../../../countries/AR/sights/museo-nacional-de-bellas-artes-buenos-aires.yaml) | 8.4 / 8.5 / 8.8 / 8.7 / 8.4 | impact: 0.0; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons are preliminary; independent peer YAML, coordinate verification and global calibration pending.
+
+### Pass 323 scope decisions
+
+12 provisional additions (10 source-linked, 2 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 132 ranked / 132 total, +65 since baseline 67, 26 new 90+ across six passes. Andacollo public pilgrimage and baile chino heritage distinguished from UNESCO inscription scope; Valdivia film festival confirmed 33rd edition; Rapa Nui guided nearshore diving excludes ancient archaeology and whole marine reserve; Coquimbo Pampilla 2026 cancellation reversed, modified event inaugurated. Five national parks and one national reserve added. Llanos de Challe excludes overlapping regional bloom credit. Two permanent museums desk-based. Prior UNESCO coverage and deferrals retained. Chile OPEN. Coordinates approximate; current conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.

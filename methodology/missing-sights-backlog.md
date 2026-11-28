@@ -5707,3 +5707,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CL — Gigante de Tarapacá Cerro Unitas Geoglyph and Desert Heritage: 87.70/100 (desk-based provisional).
 
 12 provisional additions (11 source-linked, 1 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 120 ranked / 120 total, +53 since baseline 67, 22 new 90+ across five passes. Desierto Florido episodic flowering and designated roads/paths; no annual certainty or duplicate regional bloom rating. Tantauco distinct from Chiloé National Park. Ancient Alerce Costero forest and controlled access to Abuelo Alerce documented. Nine national parks added, plus Tantauco, one additional national park and Cerro Unitas geoglyph (10 national parks total). Radal national park and adjacent reserve routes grouped; Laguna del Laja distinct from Salto del Laja. Prior UNESCO coverage and deferrals retained; exact components not independently mapped. Chile OPEN; remaining parks and regional attractions to screen. Coordinates approximate; current conditions unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 323 — Chile religious and film festivals, marine diving and protected areas
+
+- [x] CL — Andacollo Virgen del Rosario Pilgrimage and Public Religious Dance Festival: 92.70/100 (source-linked provisional).
+- [x] CL — Valdivia International Film Festival Public Screening Programme: 91.35/100 (source-linked provisional).
+- [x] CL — Rapa Nui Hanga Roa Guided Scuba Diving and Volcanic Marine Landscapes: 91.45/100 (source-linked provisional).
+- [x] CL — Coquimbo La Pampilla Fiestas Patrias Public Folk Celebration: 91.10/100 (source-linked provisional).
+- [x] CL — Tolhuaca National Park Andean Forest and Waterfall Trails: 86.45/100 (source-linked provisional).
+- [x] CL — Llanos de Challe National Park Coastal Desert Flora and Guanaco Landscape: 86.75/100 (source-linked provisional).
+- [x] CL — Morro Moreno National Park Coastal Desert and Endemic Cactus Trails: 85.00/100 (source-linked provisional).
+- [x] CL — Río Clarillo National Park Sclerophyll Forest and River Trails: 84.35/100 (source-linked provisional).
+- [x] CL — Nonguén National Park Concepción Native Forest Trails: 84.40/100 (source-linked provisional).
+- [x] CL — Río de los Cipreses National Reserve Andean Valley and Wildlife Trails: 85.80/100 (source-linked provisional).
+- [x] CL — Santa Cruz Colchagua Museum History and Material Culture Exhibitions: 86.15/100 (desk-based provisional).
+- [x] CL — Santiago National Museum of Fine Arts and Palace of Fine Arts: 85.40/100 (desk-based provisional).
+
+12 provisional additions (10 source-linked, 2 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 132 ranked / 132 total, +65 since baseline 67, 26 new 90+ across six passes. Andacollo public pilgrimage and baile chino heritage distinguished from UNESCO inscription scope; Valdivia film festival confirmed 33rd edition; Rapa Nui guided nearshore diving excludes ancient archaeology and whole marine reserve; Coquimbo Pampilla 2026 cancellation reversed, modified event inaugurated. Five national parks and one national reserve added. Llanos de Challe excludes overlapping regional bloom credit. Two permanent museums desk-based. Prior UNESCO coverage and deferrals retained. Chile OPEN. Coordinates approximate; current conditions and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
