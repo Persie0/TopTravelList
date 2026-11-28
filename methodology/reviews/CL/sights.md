@@ -1695,3 +1695,250 @@ Ranking-row comparisons include cross-type domestic references; independent same
 ### Pass 319 scope decisions
 
 10 source-linked provisional additions, 5 90+, 20 ranking-row comparisons (4 international, 16 domestic). CL 83 ranked / 84 total, +17 since baseline 67. All 7 inscribed properties represented at property scope; 19 tentative properties listed by UNESCO (https://whc.unesco.org/en/statesparties/CL). Direct existing or new entries: Juan Fernandez, Torres del Paine/Bernardo O'Higgins, Baquedano, La Moneda, Pintados; Monte Verde legacy unassessed. Partial: San Pedro landscape, Valdivia complex (Niebla), Fell/Pali Aike caves (Pali Aike), Lota (Chiflon mine), Pisco landscape (Elqui Valley). Eight other tentative properties need mapping; boundaries not independently checked. ALMA official public programme suspended (https://www.almaobservatory.org/en/visits/), October special visits not routine; deferred despite tourism listing. Pumas restricted to private estancia outside national park; king penguins guided only, no guaranteed sightings. Ojos del Salado Chilean expedition scope; binational legacy mapping pending. Pali Aike trails and cave grouped, Lota mine one of four tentative serial components. Elqui distilleries not separately added pending parent food scope; Carretera Austral remains deferred. Existing scores and one unassessed preserved. Chile OPEN; coordinates approximate, full Python validation, independent peer YAML checks, current conditions and global calibration pending.
+
+
+### Pass 320 — Chile tentative heritage and regional festivals
+
+## sight-cl-cochamo-valley — Cochamó Valley Granite Walls and La Junta Trekking — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/cochamo-valley.yaml)
+- Action: new
+- Scope: La Junta trekking and granite valley landscape; technical climbing not assumed, access and reservations require confirmation.
+- Representative coordinates: -41.51, -72.23; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/attractions/cochamo-valley/
+- Core I/U/S/E/D: 9.4 / 9.2 / 8.7 / 9.1 / 9.0.
+- Categories: nature:9.4 adventure:9.4 photography:9.4.
+- Overall: 91.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/dientes-de-navarino](../../../countries/CL/sights/dientes-de-navarino.yaml) | 9.3 / 9.3 / 8.6 / 9.0 / 9.1 | impact: 0.1; uniqueness: -0.1 vs peer |
+| [CL/cerro-castillo-national-park](../../../countries/CL/sights/cerro-castillo-national-park.yaml) | 9.4 / 9.1 / 8.5 / 8.7 / 8.8 | impact: 0.0; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-altiplano-mission-churches — Altiplano Mission Churches and Aymara Architectural Route — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/altiplano-mission-churches.yaml)
+- Action: new
+- Scope: Grouped public heritage route through named mission communities; excludes natural Lauca scenery and private ceremonies. Tentative Churches of the Altiplano partially represented; precise components not mapped.
+- Representative coordinates: -18.2, -69.59; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/destinations/ruta-de-las-misiones/ ; https://chile.travel/en/attractions/temples-of-the-route-of-the-missions/ ; https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl
+- Core I/U/S/E/D: 9.0 / 9.3 / 9.3 / 8.7 / 8.9.
+- Categories: architecture:9.4 culture:9.4 history:9.4.
+- Overall: 90.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/churches-of-chiloe](../../../countries/CL/sights/churches-of-chiloe.yaml) | 8.6 / 9.4 / 9.2 / 8.6 / 8.9 | impact: 0.4; uniqueness: -0.1 vs peer |
+| [CL/qhapaq-nan-chilean-inscribed-sections](../../../countries/CL/sights/qhapaq-nan-chilean-inscribed-sections.yaml) | 8.6 / 9.4 / 9.6 / 8.5 / 8.3 | impact: 0.4; uniqueness: -0.1 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-castro-festival-costumbrista — Castro Festival Costumbrista Chilote Public Folk Celebration — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/castro-festival-costumbrista.yaml)
+- Action: new
+- Scope: Recurring Castro public food, dance and music programme, distinct from Chiloé churches and national park. No future date asserted.
+- Representative coordinates: -42.48, -73.77; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/discover-the-typical-celebrations-of-chile/
+- Core I/U/S/E/D: 9.0 / 9.1 / 9.1 / 9.3 / 8.9.
+- Categories: culture:9.4 food:9.4 photography:9.2.
+- Overall: 90.80/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [AR/laborde-malambo-festival](../../../countries/AR/sights/laborde-malambo-festival.yaml) | 9.1 / 9.4 / 9.4 / 9.2 / 9.1 | impact: -0.1; uniqueness: -0.3 vs peer |
+| [CL/tapati-rapa-nui](../../../countries/CL/sights/tapati-rapa-nui.yaml) | 9.4 / 9.4 / 9.4 / 9.2 / 9.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-colchagua-vendimia — Santa Cruz Colchagua Grape Harvest Festival — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/colchagua-vendimia.yaml)
+- Action: new
+- Scope: Public harvest festival rather than ordinary winery visits; government recognises it among major certified harvest celebrations.
+- Representative coordinates: -34.64, -71.37; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/discover-the-typical-celebrations-of-chile/ ; https://www.economia.gob.cl/2026/02/13/chile-inicia-temporada-de-vendimias-con-mas-de-40-fiestas-entre-febrero-y-mayo.htm
+- Core I/U/S/E/D: 8.9 / 8.7 / 8.9 / 9.2 / 8.8.
+- Categories: food:9.4 culture:9.2 nightlife:8.9.
+- Overall: 88.85/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/vina-del-mar-festival](../../../countries/CL/sights/vina-del-mar-festival.yaml) | 9.2 / 8.8 / 9.3 / 9.4 / 8.9 | impact: -0.3; uniqueness: -0.1 vs peer |
+| [CL/maipo-wine-valley](../../../countries/CL/sights/maipo-wine-valley.yaml) | 7.8 / 7.8 / 7.6 / 8.7 / 8.3 | impact: 1.1; uniqueness: 0.9 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-santiago-fiestas-patrias — Santiago Parque O'Higgins Fiestas Patrias Public Fondas — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/santiago-fiestas-patrias.yaml)
+- Action: new
+- Scope: Recurring national-day public fair at one representative established venue; not a nationwide event aggregate or rodeo rating.
+- Representative coordinates: -33.464, -70.66; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/discover-the-typical-celebrations-of-chile/
+- Core I/U/S/E/D: 9.0 / 8.9 / 9.1 / 9.3 / 8.8.
+- Categories: culture:9.4 food:9.3 nightlife:9.2.
+- Overall: 90.20/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/arica-fuerza-del-sol](../../../countries/CL/sights/arica-fuerza-del-sol.yaml) | 9.3 / 9.1 / 9.2 / 9.3 / 9.0 | impact: -0.3; uniqueness: -0.2 vs peer |
+| [CL/vina-del-mar-festival](../../../countries/CL/sights/vina-del-mar-festival.yaml) | 9.2 / 8.8 / 9.3 / 9.4 / 8.9 | impact: -0.2; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-cuasimodo-colina — Colina Cuasimodo Religious Procession — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/cuasimodo-colina.yaml)
+- Action: new
+- Scope: Public traditional procession; no claim of access to private homes, no riding participation assumed. Representative Colina location approximate.
+- Representative coordinates: -33.2, -70.67; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/blog/discover-the-typical-celebrations-of-chile/
+- Core I/U/S/E/D: 8.7 / 9.1 / 9.1 / 8.8 / 8.4.
+- Categories: culture:9.4 history:9.1 photography:9.2.
+- Overall: 88.65/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/la-tirana-festival](../../../countries/CL/sights/la-tirana-festival.yaml) | 9.3 / 9.3 / 9.4 / 9.1 / 9.0 | impact: -0.6; uniqueness: -0.2 vs peer |
+| [AR/laborde-malambo-festival](../../../countries/AR/sights/laborde-malambo-festival.yaml) | 9.1 / 9.4 / 9.4 / 9.2 / 9.1 | impact: -0.4; uniqueness: -0.3 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-santiago-san-francisco — Santiago San Francisco Church and Colonial Art Museum — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/santiago-san-francisco.yaml)
+- Action: new
+- Scope: Church, convent and art collection grouped as the tentative heritage property.
+- Representative coordinates: -33.443, -70.647; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://museosanfrancisco.com/ ; https://www.santiagoturismo.cl/es/museo-de-arte-colonial-de-san-francisco/ ; https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl
+- Core I/U/S/E/D: 8.5 / 8.8 / 9.2 / 8.5 / 8.7.
+- Categories: history:9.4 architecture:9.3 culture:9.2.
+- Overall: 87.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/museo-chileno-de-arte-precolombino](../../../countries/CL/sights/museo-chileno-de-arte-precolombino.yaml) | 8.2 / 8.8 / 9.2 / 8.6 / 8.0 | impact: 0.3; uniqueness: 0.0 vs peer |
+| [CL/churches-of-chiloe](../../../countries/CL/sights/churches-of-chiloe.yaml) | 8.6 / 9.4 / 9.2 / 8.6 / 8.9 | impact: -0.1; uniqueness: -0.6 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-temuco-railway-museum — Temuco Pablo Neruda Railway Museum and Locomotive Depot — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/temuco-railway-museum.yaml)
+- Action: new
+- Scope: Museum on former railway depot, grouped heritage buildings and rolling stock; no operating excursion assumed.
+- Representative coordinates: -38.726, -72.575; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.registromuseoschile.cl/663/w3-article-85221.html ; https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl
+- Core I/U/S/E/D: 8.4 / 8.7 / 9.0 / 8.6 / 8.5.
+- Categories: history:9.3 architecture:9.0 photography:9.0.
+- Overall: 86.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/sewell-mining-town](../../../countries/CL/sights/sewell-mining-town.yaml) | 8.2 / 9.2 / 9.2 / 7.9 / 7.9 | impact: 0.2; uniqueness: -0.5 vs peer |
+| [CL/lota-chiflon-del-diablo](../../../countries/CL/sights/lota-chiflon-del-diablo.yaml) | 8.8 / 9.1 / 9.2 / 8.8 / 8.5 | impact: -0.4; uniqueness: -0.4 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-el-huique-hacienda — El Huique Hacienda San José del Carmen Museum — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/el-huique-hacienda.yaml)
+- Action: new
+- Scope: Public historic estate museum; no separate chapel or seasonal festival rating.
+- Representative coordinates: -34.53, -71.32; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.museoelhuique.cl/index.aspx ; https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl
+- Core I/U/S/E/D: 8.2 / 8.6 / 8.9 / 8.4 / 8.4.
+- Categories: history:9.2 architecture:9.1 culture:9.0.
+- Overall: 84.90/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/niebla-valdivia-fortifications](../../../countries/CL/sights/niebla-valdivia-fortifications.yaml) | 8.6 / 8.7 / 9.0 / 8.5 / 8.5 | impact: -0.4; uniqueness: -0.1 vs peer |
+| [CL/la-moneda-palace](../../../countries/CL/sights/la-moneda-palace.yaml) | 7.8 / 7.9 / 8.9 / 7.7 / 7.0 | impact: 0.4; uniqueness: 0.7 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-malleco-viaduct — Malleco Viaduct Public Viewpoint and Railway Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/malleco-viaduct.yaml)
+- Action: new
+- Scope: Designated viewpoint only; no walking on railway or assumption of train service.
+- Representative coordinates: -37.96, -72.43; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://www.cmpc.com/nuevo-mirador-del-emblematico-viaducto-del-malleco-genera-un-nuevo-polo-turistico-en-collipulli/ ; https://www.bcn.cl/leychile/navegar?idNorma=208348 ; https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl
+- Core I/U/S/E/D: 8.5 / 8.7 / 9.0 / 8.0 / 7.8.
+- Categories: architecture:9.2 history:9.1 photography:9.1.
+- Overall: 85.05/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/iquique-baquedano](../../../countries/CL/sights/iquique-baquedano.yaml) | 8.4 / 8.6 / 8.9 / 8.6 / 8.4 | impact: 0.1; uniqueness: 0.1 vs peer |
+| [CL/sewell-mining-town](../../../countries/CL/sights/sewell-mining-town.yaml) | 8.2 / 9.2 / 9.2 / 7.9 / 7.9 | impact: 0.3; uniqueness: -0.5 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-paredon-las-manos — Villa Cerro Castillo Paredón de las Manos Rock Art — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/paredon-las-manos.yaml)
+- Action: new
+- Scope: Rock art visitor trails distinct from mountain trekking; tentative Patagonian rock art region partially represented, exact serial boundaries unverified. No touching or flash photography.
+- Representative coordinates: -46.13, -72.16; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://whc.unesco.org/en/tentativelists/1203 ; https://ciep.cl/inicio/wp-content/uploads/2025/04/aysen_una_patagonia_por_descubrir_.pdf
+- Core I/U/S/E/D: 8.6 / 9.0 / 9.2 / 8.3 / 8.2.
+- Categories: history:9.4 culture:9.2 photography:9.1.
+- Overall: 87.35/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/pintados-geoglyphs](../../../countries/CL/sights/pintados-geoglyphs.yaml) | 8.2 / 9.0 / 8.9 / 8.1 / 7.4 | impact: 0.4; uniqueness: 0.0 vs peer |
+| [CL/pali-aike-national-park](../../../countries/CL/sights/pali-aike-national-park.yaml) | 8.8 / 9.0 / 9.0 / 8.6 / 8.5 | impact: -0.2; uniqueness: 0.0 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+## sight-cl-caleta-tortel — Caleta Tortel Cypress Boardwalk Village — 2026-11-28
+
+- YAML: [source](../../../countries/CL/sights/caleta-tortel.yaml)
+- Action: new
+- Scope: Distinct pedestrian settlement and boardwalks; not a general Carretera Austral route or fjord cruise.
+- Representative coordinates: -47.8, -73.54; approximate editorial point, independent verification pending.
+- Evidence status: **source-linked provisional**
+- Sources: https://chile.travel/en/itineraries/explore-and-discover-the-landscapes-of-the-aysen-region/
+- Core I/U/S/E/D: 8.8 / 9.1 / 8.7 / 8.8 / 8.5.
+- Categories: architecture:9.1 photography:9.3 culture:9.0.
+- Overall: 88.25/100.
+- Decision: provisional worldwide score; temporary access excluded. No new 9.5+ fields.
+
+| Peer | Ranking dimensions I/U/S/E/D | Relative comparison |
+| --- | --- | --- |
+| [CL/iquique-baquedano](../../../countries/CL/sights/iquique-baquedano.yaml) | 8.4 / 8.6 / 8.9 / 8.6 / 8.4 | impact: 0.4; uniqueness: 0.5 vs peer |
+| [CL/historic-quarter-of-the-seaport-city-of-valparaiso](../../../countries/CL/sights/historic-quarter-of-the-seaport-city-of-valparaiso.yaml) | 9.0 / 9.0 / 9.3 / 8.4 / 8.8 | impact: -0.2; uniqueness: 0.1 vs peer |
+
+Ranking-row comparisons include cross-type domestic references; independent same-type calibration, coordinates and peer YAML checks pending.
+
+### Pass 320 scope decisions
+
+12 source-linked provisional additions, 4 90+, 24 ranking-row comparisons (2 international, 22 domestic). CL 95 ranked / 96 total, +29 since baseline 67, 15 new 90+ across three passes. UNESCO 19 tentative properties checked against named inventory (https://whc.unesco.org/en/tentativelists/action=listtentative&order=states&state=cl): 9 direct, 7 partial, 1 legacy unassessed (Monte Verde), 2 deferred (Ayquina/Toconce and Cerro el Plomo shrine pending independent visitor scope). Four new direct (San Francisco, Temuco depot, Huique and Malleco); two partial (Altiplano churches and Patagonian rock art), exact components not independently mapped. All seven inscribed represented per previous inventory. Castro cultural fair distinct from church architecture; Cuasimodo excludes private rites, Santiago Fiestas Patrias scoped to Parque O'Higgins; Colchagua harvest distinct from ordinary wineries. Cochamo scoped to valley hiking; technical climbing not assumed. Caleta Tortel distinct pedestrian settlement. Earlier ALMA and Carretera Austral deferrals retained. Chile OPEN; existing scores and one unassessed preserved. Coordinates approximate; full Python validation, independent peer YAML checks, current permissions, conditions, future schedules and global calibration pending.

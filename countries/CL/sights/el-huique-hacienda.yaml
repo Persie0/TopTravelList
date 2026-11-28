@@ -1,0 +1,16 @@
+id: sight-cl-el-huique-hacienda
+name: "El Huique Hacienda San José del Carmen Museum"
+location:
+  country_code: CL
+  latitude: -34.53
+  longitude: -71.32
+scores:
+  impact: 8.2
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 8.4
+  depth: 8.4
+  categories:
+    history: 9.2
+    architecture: 9.1
+    culture: 9.0
