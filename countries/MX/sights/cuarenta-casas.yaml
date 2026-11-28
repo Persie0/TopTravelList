@@ -1,0 +1,17 @@
+id: sight-mx-cuarenta-casas
+name: "Cuarenta Casas Archaeological Cliff Dwellings"
+location:
+  country_code: MX
+  latitude: 29.81
+  longitude: -108.19
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 9.0
+  depth: 8.8
+  categories:
+    architecture: 9.3
+    history: 9.4
+    photography: 9.4
+    adventure: 8.8

@@ -11602,3 +11602,297 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparison and full Python validation. Admission and conditions not guaranteed.
 
+
+## sight-mx-boca-de-potrerillos — Boca de Potrerillos Archaeological Rock Art Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/boca-de-potrerillos.yaml)
+- Action: new (pass 448)
+- Precise subject: More than 17,000 recorded images on over 4,000 rocks; distinct northeastern Mexico rock-art landscape.
+- Location check: 26.05, -100.65; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-boca-de-potrerillos; https://lugares.inah.gob.mx/es/fut-cultura/6504.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sierra de San Francisco (MX): more monumental painted panels
+  - Twyfelfontein (NA): similar engraving landscape
+  - Alta (NO): major rock-art concentration
+  - Las Labradas (MX): contrasting coastal petroglyphs.
+- Individual scores: impact 9.1, uniqueness 9.5, significance 9.6, experience 8.7, depth 9.2.
+- Categories: history 9.5, culture 9.4, photography 9.2.
+- Overall: 92.50/100.
+- High-score challenge: Documented distinctive archaeological or scientific significance, with experience and depth limiting the rating below global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-cuarenta-casas — Cuarenta Casas Archaeological Cliff Dwellings — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cuarenta-casas.yaml)
+- Action: new (pass 448)
+- Precise subject: Casas Grandes culture cliff dwellings, including the Cueva de la Ventana and other public cave complexes; separate from Paquimé and Cueva de la Olla.
+- Location check: 29.81, -108.19; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/node/4337; https://lugares.inah.gob.mx/es/node/6799.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Mesa Verde (US): larger cliff-dwelling ensemble
+  - Betatakin (US): similar cliff setting
+  - Paquimé (MX): broader cultural centre
+  - Cueva de la Olla (MX): more compact dwelling.
+- Individual scores: impact 9.3, uniqueness 9.2, significance 9.3, experience 9.0, depth 8.8.
+- Categories: architecture 9.3, history 9.4, photography 9.4, adventure 8.8.
+- Overall: 91.80/100.
+- High-score challenge: Documented distinctive archaeological or scientific significance, with experience and depth limiting the rating below global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-rincon-colorado-fossils — Rincón Colorado Dinosaur Fossil Site and Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/rincon-colorado-fossils.yaml)
+- Action: new (pass 448)
+- Precise subject: Nine-hectare late Cretaceous fossil site with interpreted excavation areas, museum and scientifically distinctive finds; museum grouped with fossil site.
+- Location check: 25.51, -101.42; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-paleontologica-rincon-colorado; https://lugares.inah.gob.mx/es/node/4543; https://lugares.inah.gob.mx/es/node/4694.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Dinosaur Provincial Park (CA): much larger fossil landscape
+  - Dinosaur National Monument (US): stronger exposed bone display
+  - Messel Pit (DE): exceptional fossil preservation
+  - Tlayúa (MX): different fossil assemblage.
+- Individual scores: impact 8.9, uniqueness 9.4, significance 9.6, experience 9.0, depth 9.0.
+- Categories: nature 9.4, history 9.3, family 9.2, photography 8.9.
+- Overall: 91.90/100.
+- High-score challenge: Documented distinctive archaeological or scientific significance, with experience and depth limiting the rating below global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-tamtoc — Tamtoc Archaeological City and Huastec Sculptures — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tamtoc.yaml)
+- Action: new (pass 448)
+- Precise subject: Approximately 70 structures, circular and rounded architecture and important Huastec sculptures.
+- Location check: 21.984, -98.811; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/115-zona-arqueologica-de-tamtoc; https://lugares.inah.gob.mx/es/node/4460.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Tajín (MX): more monumental architecture
+  - Guachimontones (MX): more distinctive circular pyramids
+  - Cempoala (MX): comparable regional capital
+  - Tzintzuntzan (MX): contrasting rounded structures.
+- Individual scores: impact 9.0, uniqueness 9.2, significance 9.5, experience 8.9, depth 9.1.
+- Categories: history 9.5, culture 9.4, architecture 9.2, photography 9.0.
+- Overall: 91.45/100.
+- High-score challenge: Documented distinctive archaeological or scientific significance, with experience and depth limiting the rating below global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-la-pintada-sonora — La Pintada Rock Paintings and Archaeological Canyon (Sonora) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-pintada-sonora.yaml)
+- Action: new (pass 448)
+- Precise subject: More than 2,000 paintings and additional engravings in Sierra Libre. Conservation access restrictions and permission requirements not verified; do not assume unrestricted access.
+- Location check: 28.65, -111.04; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/foto-del-dia/la-pintada-el-sitio-rupestre-mas-representativo-de-sonora; https://revistas.inah.gob.mx/index.php/cr/article/view/12548.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sierra de San Francisco (MX): greater mural scale
+  - Boca de Potrerillos (MX): broader petroglyph inventory
+  - El Vallecito (MX): smaller interpreted rock shelters
+  - Côa Valley (PT): larger internationally recognized rock art.
+- Individual scores: impact 9.0, uniqueness 9.3, significance 9.4, experience 8.4, depth 8.8.
+- Categories: history 9.4, culture 9.3, photography 9.2, nature 8.8.
+- Overall: 90.45/100.
+- High-score challenge: Documented distinctive archaeological or scientific significance, with experience and depth limiting the rating below global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-tlayua-fossil-museum — Tlayúa Fossil Deposit and Regional Mixteco Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tlayua-fossil-museum.yaml)
+- Action: new (pass 448)
+- Precise subject: Early Cretaceous exceptional fossil assemblage of approximately 100 million years; visitor experience centered on museum, not unrestricted access to privately exploited quarry.
+- Location check: 18.59, -97.92; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.geologia.unam.mx/contenido/la-cantera-de-tlayua; https://www.dgcs.unam.mx/boletin/bdboletin/2018_623.html; https://sic.cultura.gob.mx/ficha.php?estado_id=21&table=museo&table_id=1208.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Messel Pit (DE): internationally exceptional fossil deposit
+  - Solnhofen (DE): comparable lithographic fossil preservation
+  - Rincón Colorado (MX): better in-situ visitor interpretation
+  - Burgess Shale (CA): greater global evolutionary importance.
+- Individual scores: impact 8.5, uniqueness 9.5, significance 9.6, experience 8.3, depth 9.0.
+- Categories: nature 9.5, history 9.3, family 8.9.
+- Overall: 89.90/100.
+- High-score challenge: Sub-90 reflects narrower scope, visitor experience or global distinction despite regional scientific or cultural importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-santa-lucia-mammoth-museum — Quinametzin Santa Lucía Paleontological Museum — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santa-lucia-mammoth-museum.yaml)
+- Action: new (pass 448)
+- Precise subject: Museum displaying Pleistocene mammoth and other animal remains recovered around Santa Lucía; research and public interpretation.
+- Location check: 19.74, -99; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/foto-del-dia/paso-del-gigante-el-linaje-del-mamut-en-santa-lucia; https://www.inah.gob.mx/boletines/buscan-nombre-para-el-mamut-del-museo-paleontologico-de-santa-lucia-quinametzin; https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=2220.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - La Brea Tar Pits (US): richer in-situ fossil experience
+  - Mammoth Site Hot Springs (US): concentrated mammoth deposit
+  - Rincón Colorado (MX): older dinosaur fossil context
+  - Desert Museum (MX): broader natural history.
+- Individual scores: impact 8.9, uniqueness 9.1, significance 9.3, experience 9.1, depth 9.0.
+- Categories: nature 9.3, history 9.2, family 9.3.
+- Overall: 90.70/100.
+- High-score challenge: Documented distinctive archaeological or scientific significance, with experience and depth limiting the rating below global anchors. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-el-vallecito-rock-art — El Vallecito Archaeological Rock Art and Solar Alignments — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-vallecito-rock-art.yaml)
+- Action: new (pass 448)
+- Precise subject: Kumiai rock-art shelters with documented solar illumination phenomena, including El Diablito; distinct from La Rumorosa road scenery.
+- Location check: 32.55, -116.06; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4406; https://www.inah.gob.mx/foto-del-dia/pintura-rupestre-en-el-vallecito-huellas-de-los-ancestros-kumiai.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Newgrange (IE): greater monumental solar alignment
+  - La Pintada (MX): larger painted inventory
+  - Boca de Potrerillos (MX): more extensive engravings
+  - Alta Vista (MX): distinct archaeological astronomy.
+- Individual scores: impact 8.7, uniqueness 9.3, significance 9.2, experience 8.8, depth 8.6.
+- Categories: history 9.3, culture 9.3, photography 9.0.
+- Overall: 89.55/100.
+- High-score challenge: Sub-90 reflects narrower scope, visitor experience or global distinction despite regional scientific or cultural importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-toluquilla — Toluquilla Archaeological Hilltop Settlement — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/toluquilla.yaml)
+- Action: new (pass 448)
+- Precise subject: Sierra Gorda archaeological site with stone architecture and mining-related regional heritage.
+- Location check: 20.86, -99.49; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-de-toluquilla; https://lugares.inah.gob.mx/es/zonas-arqueologicas?field_jerarquia_geografica_target_id=574.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ranas (MX): comparable nearby settlement
+  - Tancama (MX): distinct plazas
+  - Cantona (MX): larger hilltop city
+  - La Quemada (MX): more monumental ruins.
+- Individual scores: impact 8.7, uniqueness 8.9, significance 9.1, experience 8.8, depth 8.8.
+- Categories: history 9.2, architecture 9.1, photography 9.0.
+- Overall: 88.55/100.
+- High-score challenge: Sub-90 reflects narrower scope, visitor experience or global distinction despite regional scientific or cultural importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-las-ranas — Las Ranas Archaeological Hilltop Settlement — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/las-ranas.yaml)
+- Action: new (pass 448)
+- Precise subject: Distinct Sierra Gorda hilltop settlement, separate from Toluquilla; slate masonry and mining-region history.
+- Location check: 20.93, -99.57; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/es/zonas-arqueologicas?field_jerarquia_geografica_target_id=574; https://www.inah.gob.mx/zonas.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Toluquilla (MX): comparable nearby settlement
+  - Tancama (MX): distinctive ceremonial plazas
+  - Cantona (MX): greater extent
+  - El Cóporo (MX): comparable regional archaeology.
+- Individual scores: impact 8.7, uniqueness 8.8, significance 9.1, experience 8.7, depth 8.8.
+- Categories: history 9.2, architecture 9.1, photography 9.0.
+- Overall: 88.15/100.
+- High-score challenge: Sub-90 reflects narrower scope, visitor experience or global distinction despite regional scientific or cultural importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-huapoca — Huapoca Archaeological Cliff Dwellings — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/huapoca.yaml)
+- Action: new (pass 448)
+- Precise subject: Distinct cliff-dwelling complex in Madera region; no public transport to site according to INAH.
+- Location check: 29.19, -108.35; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-huapoca.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cuarenta Casas (MX): broader interpreted experience
+  - Mesa Verde (US): greater cliff-dwelling scale
+  - Cueva de la Olla (MX): comparable adobe architecture
+  - Betatakin (US): comparable canyon dwellings.
+- Individual scores: impact 8.9, uniqueness 9.1, significance 9.0, experience 8.3, depth 8.6.
+- Categories: architecture 9.1, history 9.2, photography 9.2, adventure 8.7.
+- Overall: 88.50/100.
+- High-score challenge: Sub-90 reflects narrower scope, visitor experience or global distinction despite regional scientific or cultural importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-tancama — Tancama Archaeological Site and Sierra Gorda Plazas — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tancama.yaml)
+- Action: new (pass 448)
+- Precise subject: Three principal plazas and documented winter-solstice alignment in the Sierra Gorda.
+- Location check: 21.19, -99.38; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?disciplina=&table=zona_arqueologica&table_id=194; https://lugares.inah.gob.mx/es/node/4495.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tamtoc (MX): more extensive Huastec architecture
+  - Toluquilla (MX): hilltop context
+  - Alta Vista (MX): stronger astronomical heritage
+  - Ranas (MX): comparable mountain archaeology.
+- Individual scores: impact 8.5, uniqueness 8.9, significance 9.0, experience 8.8, depth 8.7.
+- Categories: history 9.2, architecture 9.0, culture 9.0.
+- Overall: 87.65/100.
+- High-score challenge: Sub-90 reflects narrower scope, visitor experience or global distinction despite regional scientific or cultural importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-el-sabinito — El Sabinito Archaeological Settlement — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-sabinito.yaml)
+- Action: new (pass 448)
+- Precise subject: Northern Mesoamerican frontier settlement documenting distinctive local cultural development.
+- Location check: 23.8, -98.45; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-el-sabinito; https://lugares.inah.gob.mx/es/node/4405.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tamtoc (MX): more monumental Huastec settlement
+  - Ranas (MX): comparable regional ruins
+  - Paquimé (MX): more internationally significant northern culture
+  - El Cóporo (MX): comparable frontier heritage.
+- Individual scores: impact 8.6, uniqueness 8.9, significance 9.1, experience 8.5, depth 8.7.
+- Categories: history 9.2, culture 9.1, architecture 9.0.
+- Overall: 87.70/100.
+- High-score challenge: Sub-90 reflects narrower scope, visitor experience or global distinction despite regional scientific or cultural importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+
+
+## sight-mx-malpasito — Malpasito Archaeological Site and Zoque Heritage — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/malpasito.yaml)
+- Action: new (pass 448)
+- Precise subject: Late Classic settlement in the Las Flores valley and Grijalva region; public reopening documented in 2025, current admission not checked.
+- Location check: 17.34, -93.6; approximate representative point, not independently verified.
+- Evidence status: source-linked-unverified; retrieved source descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/zonas/zona-arqueologica-de-malpasito; https://sic.cultura.gob.mx/ficha.php?table=zona_arqueologica&table_id=101; https://inah.gob.mx/boletines/reabre-la-zona-arqueologica-de-malpasito-en-tabasco.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Comalcalco (MX): more distinctive monumental brick architecture
+  - Moral-Reforma (MX): larger pyramidal ruins
+  - Chiapa de Corzo (MX): broader regional heritage
+  - Tancama (MX): comparable compact site.
+- Individual scores: impact 8.6, uniqueness 8.8, significance 9.0, experience 8.7, depth 8.6.
+- Categories: history 9.2, culture 9.1, architecture 8.9.
+- Overall: 87.45/100.
+- High-score challenge: Sub-90 reflects narrower scope, visitor experience or global distinction despite regional scientific or cultural importance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation. Current admission not independently verified.
+

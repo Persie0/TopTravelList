@@ -1,0 +1,17 @@
+id: sight-mx-la-pintada-sonora
+name: "La Pintada Rock Paintings and Archaeological Canyon (Sonora)"
+location:
+  country_code: MX
+  latitude: 28.65
+  longitude: -111.04
+scores:
+  impact: 9.0
+  uniqueness: 9.3
+  significance: 9.4
+  experience: 8.4
+  depth: 8.8
+  categories:
+    history: 9.4
+    culture: 9.3
+    photography: 9.2
+    nature: 8.8

@@ -1,0 +1,16 @@
+id: sight-mx-toluquilla
+name: "Toluquilla Archaeological Hilltop Settlement"
+location:
+  country_code: MX
+  latitude: 20.86
+  longitude: -99.49
+scores:
+  impact: 8.7
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.8
+  depth: 8.8
+  categories:
+    history: 9.2
+    architecture: 9.1
+    photography: 9.0

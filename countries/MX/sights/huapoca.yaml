@@ -1,0 +1,17 @@
+id: sight-mx-huapoca
+name: "Huapoca Archaeological Cliff Dwellings"
+location:
+  country_code: MX
+  latitude: 29.19
+  longitude: -108.35
+scores:
+  impact: 8.9
+  uniqueness: 9.1
+  significance: 9.0
+  experience: 8.3
+  depth: 8.6
+  categories:
+    architecture: 9.1
+    history: 9.2
+    photography: 9.2
+    adventure: 8.7

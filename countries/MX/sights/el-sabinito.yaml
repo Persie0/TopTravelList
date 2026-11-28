@@ -1,0 +1,16 @@
+id: sight-mx-el-sabinito
+name: "El Sabinito Archaeological Settlement"
+location:
+  country_code: MX
+  latitude: 23.8
+  longitude: -98.45
+scores:
+  impact: 8.6
+  uniqueness: 8.9
+  significance: 9.1
+  experience: 8.5
+  depth: 8.7
+  categories:
+    history: 9.2
+    culture: 9.1
+    architecture: 9.0
