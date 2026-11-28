@@ -1341,3 +1341,157 @@ CONAP confirms ordinary guided Naranjo access and Topoxté boat visits. Topoxté
 - Desk-based provisional judgment, no independent factual verification.
 - Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
 - Core overall 89.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+# Pass 393 — 2026-11-28 — direct main continuation
+
+Six new cultural events assessed using official UNESCO, government and tourism search excerpts. All complete numerical estimates; factual scope cross-checked via excerpts, not full page or field verification. JS inventory, formula, coordinate range, uniqueness, ranking and README checks only. Full Python validation/benchmark scripts and Actions not run. Shared kite tradition deliberately combined; local Garífuna celebration distinct from multinational heritage and city ranking.
+
+## sight-gt-antigua-holy-week — Antigua Guatemala Holy Week Processions and Carpets — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/antigua-holy-week.yaml)
+- Action: new
+- Precise subject: Public Holy Week observances in Antigua only, excluding ordinary city architecture and nationwide celebrations.
+- Location check: Existing Antigua city representative point, procession routes vary.
+- Evidence status: fact-checked (source search excerpts, not complete page/field verification)
+- Sources inspected 2026-11-28: UNESCO https://ich.unesco.org/en/RL/holy-week-in-guatemala-01854 (search result inspected: national inscription, processions, carpets, music and gastronomy); national tourism https://visitguatemala.gt/en/blog/holy-week-antigua-guatemala/ (search result inspected: Antigua-specific processions, carpet craft and week-long program).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Seville Holy Week (ES): comparable procession scale and deep religious history, different carpet tradition.
+  - Oaxaca Day of the Dead (MX): similarly strong public ritual and temporary art.
+  - Puno Virgen de la Candelaria (PE): greater focus on competitive dance and music.
+  - Izalco Holy Week (SV): more concentrated Indigenous confraternity traditions but smaller event breadth.
+- Individual scores:
+  - impact: 9.4 — Monumental processions moving across handmade street carpets create powerful visual and emotional impact.
+  - uniqueness: 9.3 — Distinctive combination of carpet art and religious ritual has few comparable destinations.
+  - significance: 9.2 — Nationally and internationally recognized living tradition, without assigning the entire country's heritage to Antigua.
+  - experience: 9.4 — Extended public observances and street artwork provide rich engagement.
+  - depth: 9.3 — Multiple days, ceremonies, craft preparation and music provide substantial depth.
+- Categories: culture 9.4, history 9.3, photography 9.4.
+- Overall: 93.25/100.
+- High-score challenge: Documented substantial public cultural event; globally outstanding on specific merits above, with narrower scope than world-leading multi-week festivals. No 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact venue, current peer YAML and full diagnostics; public programming and future dates not guaranteed.
+
+## sight-gt-sacatepequez-giant-kite-festival — Sumpango and Santiago Sacatepéquez Giant Kite Festival — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/sacatepequez-giant-kite-festival.yaml)
+- Action: new
+- Precise subject: Shared All Saints kite-making/display tradition in two neighboring towns, represented once; not a claim that all largest kites fly.
+- Location check: Sumpango town representative point https://www.geodatos.net/en/coordinates/guatemala/sumpango; Santiago is a second venue.
+- Evidence status: fact-checked (source search excerpts, not complete page/field verification)
+- Sources inspected 2026-11-28: UNESCO https://ich.unesco.org/en/Decisions/19.COM/7.b.41 (search result inspected: 2024 inscription of kite-making technique in both towns); national tourism https://visitguatemala.gt/en/blog/sumpango-festival/ (search result inspected: 10–20 m display kites, separate smaller flying category and public assembly).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Weifang International Kite Festival (CN): broader international kite competition, less emphasis on ancestral remembrance.
+  - Hamamatsu Festival (JP): large kite battles, different ceremonial meaning and visual format.
+  - Oaxaca Day of the Dead (MX): greater overall ceremonial breadth, distinct memorial art.
+  - Nahuizalco Canchules (SV): comparable remembrance tradition with smaller public artwork.
+- Individual scores:
+  - impact: 9.5 — Giant circular detailed paper artworks in communal display create exceptional visual impact.
+  - uniqueness: 9.6 — Scale, intricate craft, ancestral remembrance and two-town tradition make this a rare global reference.
+  - significance: 9.1 — International heritage recognition supports strong cultural significance, not automatic world-best status.
+  - experience: 9.1 — Public displays and flying competitions provide rewarding viewing, weather dependent.
+  - depth: 8.7 — Craft and display add depth but the central celebration is temporally concentrated.
+- Categories: culture 9.4, photography 9.5, history 8.8.
+- Overall: 93.05/100.
+- High-score challenge: Documented substantial public cultural event; globally outstanding on specific merits above, with narrower scope than world-leading multi-week festivals. Impact, uniqueness and photography 9.5+ reflect the documented monumental scale and unusual craft, not merely UNESCO recognition. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact venue, current peer YAML and full diagnostics; public programming and future dates not guaranteed.
+
+## sight-gt-rabinal-achi-dance-drama — Rabinal Achí Maya Dance Drama — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/rabinal-achi-dance-drama.yaml)
+- Action: new
+- Precise subject: Public ritual drama in Rabinal around Saint Paul's feast; excludes private preparations and other performances.
+- Location check: Approximate Rabinal town representative point, precise route not independently verified.
+- Evidence status: fact-checked (source search excerpts, not complete page/field verification)
+- Sources inspected 2026-11-28: UNESCO https://ich.unesco.org/en/RL/rabinal-ach-dance-drama-tradition-00144 and https://ich.unesco.org/es/RL/rabinal-achi-dance-drama-tradition-00144 (search results inspected: fifteenth-century drama and January 25 tradition); government https://prensa.gob.gt/comunicado/baja-verapaz-celebra-ocho-siglos-de-memoria-viva-con-el-rabinal-achi (search result inspected: 2026 performance and ritual theater).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - El Güegüense (NI): comparable rare Indigenous colonial-era theatrical tradition, different historical origin.
+  - Noh theatre (JP): similarly exceptional continuity of historic performance, broader repertoire.
+  - Kutiyattam (IN): ancient dramatic tradition with extensive stylistic repertoire.
+  - Cacaopera ceremonial dances (SV): related living Indigenous heritage, less internationally documented narrative continuity.
+- Individual scores:
+  - impact: 8.9 — Costumed ritual drama and ceremonial setting are meaningful, with smaller visual scale than huge festivals.
+  - uniqueness: 9.6 — Rare surviving pre-Hispanic dynastic Maya drama justifies exceptional uniqueness.
+  - significance: 9.5 — Continuity and preservation of a rare historical theatrical tradition support exceptional significance.
+  - experience: 8.7 — Public performance is culturally rewarding but requires contextual understanding and respect.
+  - depth: 8.7 — Narrative, music and ceremony provide depth, without assuming unrestricted access.
+- Categories: culture 9.5, history 9.5, photography 8.9.
+- Overall: 91.45/100.
+- High-score challenge: Documented substantial public cultural event; globally outstanding on specific merits above, with narrower scope than world-leading multi-week festivals. Uniqueness, significance, culture and history 9.5+ reflect the rare surviving fifteenth-century dramatic tradition, not event size. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact venue, current peer YAML and full diagnostics; public programming and future dates not guaranteed.
+
+## sight-gt-coban-rabin-ajaw-festival — Cobán Rab’in Ajaw National Folklore Festival — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/coban-rabin-ajaw-festival.yaml)
+- Action: new
+- Precise subject: Public national folklore festival and Rab’in Ajaw event in Cobán; excludes ordinary city tourism.
+- Location check: Existing Cobán city representative point; venues vary.
+- Evidence status: fact-checked (source search excerpts, not complete page/field verification)
+- Sources inspected 2026-11-28: Government https://www.prensa.gob.gt/comunicado/coban-se-viste-de-gala-con-la-inauguracion-del-58-festival-folklorico-nacional-rabin (search result inspected: 58th festival and national intangible heritage); tourism https://visitguatemala.gt/en/blog/rabin-ajaw/ (search result inspected: over 100 young women from different Indigenous communities, selection of Indigenous queen).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Te Matatini (NZ): more internationally prominent performing arts competition.
+  - Guelaguetza Oaxaca (MX): similarly broad regional Indigenous cultural representation.
+  - Festival of Pacific Arts (multinational): greater geographical reach and program breadth.
+  - Perquín Winter Festival (SV): smaller regional cultural event.
+- Individual scores:
+  - impact: 9.0 — Traditional dress and collective Indigenous representation create strong public spectacle.
+  - uniqueness: 9.1 — Distinct national assembly of community representatives and cultural identity distinguishes the event.
+  - significance: 9.0 — National heritage recognition and cultural transmission justify strong significance.
+  - experience: 9.1 — Public cultural programming and presentations provide rewarding engagement.
+  - depth: 8.9 — Multiple communities and associated July activities offer broad context.
+- Categories: culture 9.4, photography 9.3, history 8.8.
+- Overall: 90.30/100.
+- High-score challenge: Documented substantial public cultural event; globally outstanding on specific merits above, with narrower scope than world-leading multi-week festivals. No 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact venue, current peer YAML and full diagnostics; public programming and future dates not guaranteed.
+
+## sight-gt-livingston-garifuna-day — Livingston Garífuna Day and Yurumein Celebration — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/livingston-garifuna-day.yaml)
+- Action: new
+- Precise subject: Livingston's public celebration of Garífuna heritage and arrival remembrance, not the entire multinational tradition.
+- Location check: Existing Livingston city representative point, not exact landing location.
+- Evidence status: fact-checked (source search excerpts, not complete page/field verification)
+- Sources inspected 2026-11-28: UNESCO https://ich.unesco.org/en/RL/language-dance-and-music-of-the-garifuna-00001 (search result inspected: multinational cultural tradition); Ministry https://noticias.mcd.gob.gt/actividad/dia-del-pueblo-garifuna-2/ and municipality https://munilivingston.gob.gt/2026/11/21/dia-nacional-del-garifuna/ (search results inspected: November 2026 local event); https://livinginguatemala.com/events/garifuna-day-livingston/ (search result inspected: Yurumein tradition).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Dangriga Garifuna Settlement Day (BZ): closest sister celebration with similar arrival commemoration.
+  - Garifuna Day in Honduras (HN): broader national celebrations with related music and dance.
+  - Jonkanoo festival (JM): analogous Afro-Caribbean heritage expression, different history.
+  - Bluefields Palo de Mayo (NI): larger dance-focused public celebration, different cultural roots.
+- Individual scores:
+  - impact: 9.0 — Public music and arrival remembrance create a strong cultural encounter.
+  - uniqueness: 9.2 — Distinct Garífuna historical and linguistic identity is unusual internationally.
+  - significance: 9.1 — Internationally recognized tradition and local remembrance have high heritage importance.
+  - experience: 9.0 — Public performances and food culture offer rewarding engagement.
+  - depth: 8.8 — Several days of events add breadth while maintaining local scope.
+- Categories: culture 9.4, history 9.2, photography 9.1, food 8.8.
+- Overall: 90.50/100.
+- High-score challenge: Documented substantial public cultural event; globally outstanding on specific merits above, with narrower scope than world-leading multi-week festivals. No 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact venue, current peer YAML and full diagnostics; public programming and future dates not guaranteed.
+
+## sight-gt-todos-santos-all-saints-festival — Todos Santos Cuchumatán All Saints Festival — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/todos-santos-all-saints-festival.yaml)
+- Action: new
+- Precise subject: Public Mam community All Saints festivities, including traditional equestrian event as cultural observation only; no endorsement of animal mistreatment or unsafe participation.
+- Location check: Approximate town representative point, specific course not verified.
+- Evidence status: fact-checked (source search excerpts, not complete page/field verification)
+- Sources inspected 2026-11-28: Government https://prensa.gob.gt/comunicado/juego-de-gallos-una-carrera-caballo-llena-de-simbolismo-resistencia-y-muestra-viva-del (search result inspected: ritual significance and public horse event); https://guatemala.gob.gt/servicios-de-salud-estaran-disponibles-durante-la-tradicional-corrida-de-caballos-en-todos-santos-cuchumatan/ (search result inspected: 2026 event and health provisions); Rough Guides https://www.roughguides.com/guatemala/western-highlands/ (search result inspected: festival and cemetery remembrance, welfare concerns).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Palio di Siena (IT): greater international recognition and organized urban spectacle.
+  - Naadam (MN): far greater national sporting festival breadth.
+  - Oaxaca Day of the Dead (MX): more extensive public remembrance arts.
+  - Sumpango kite festival (GT): more visually distinctive memorial art and broader international recognition.
+- Individual scores:
+  - impact: 8.8 — Community dress and highly distinctive festivities offer memorable cultural observation.
+  - uniqueness: 9.0 — Mam traditions and unusual equestrian observance distinguish the celebration.
+  - significance: 8.7 — Strong local cultural continuity, less international recognition.
+  - experience: 8.2 — Crowding, animal-welfare and intrinsic safety concerns limit experience quality.
+  - depth: 8.6 — Multiple observances and community traditions add depth beyond the race.
+- Categories: culture 9.1, history 8.8, photography 9.0.
+- Overall: 87.20/100.
+- High-score challenge: Below 90 overall. No 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: exact venue, current peer YAML and full diagnostics; public programming and future dates not guaranteed.
