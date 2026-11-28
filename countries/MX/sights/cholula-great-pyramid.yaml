@@ -1,0 +1,17 @@
+id: sight-mx-cholula-great-pyramid
+name: "Great Pyramid of Cholula and Sanctuary of Our Lady of Remedies"
+location:
+  country_code: MX
+  latitude: 19.0575
+  longitude: -98.30194
+scores:
+  impact: 9.2
+  uniqueness: 9.6
+  significance: 9.6
+  experience: 8.9
+  depth: 8.9
+  categories:
+    history: 9.6
+    architecture: 9.5
+    culture: 9.4
+    photography: 9.3

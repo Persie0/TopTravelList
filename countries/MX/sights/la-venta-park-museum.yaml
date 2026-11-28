@@ -1,0 +1,16 @@
+id: sight-mx-la-venta-park-museum
+name: "La Venta Park Museum (Villahermosa)"
+location:
+  country_code: MX
+  latitude: 18.00182
+  longitude: -92.93341
+scores:
+  impact: 8.9
+  uniqueness: 9.3
+  significance: 9.6
+  experience: 8.8
+  depth: 8.6
+  categories:
+    history: 9.6
+    culture: 9.4
+    photography: 9.1

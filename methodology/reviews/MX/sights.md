@@ -5379,3 +5379,203 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: independent source triangulation, precise coordinates and access, worldwide Python validation.
+
+## sight-mx-cholula-great-pyramid — Great Pyramid of Cholula and Sanctuary of Our Lady of Remedies — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cholula-great-pyramid.yaml)
+- Action: new
+- Precise subject: Buried multi-phase pyramidal complex, visible archaeological remains and directly superimposed colonial sanctuary; not all Cholula. No assumption of open tunnels.
+- Location check: 19.0575, -98.30194; approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent fact-check incomplete; scores editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4336 (opened: successive construction, ruins and excavation); https://www.guinnessworldrecords.com/world-records/largest-pyramid (opened: estimated 4.45 million cubic metres, largest by volume, church on mound); https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula (indexed coordinate; approximate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Giza pyramids (EG): far stronger exposed monumental geometry
+  - Teotihuacán (MX): much broader visible urban ensemble
+  - Borobudur (ID): more complete visible architectural and sculptural form
+  - Monte Albán (MX): more expansive open ceremonial hilltop
+- Individual scores:
+  - impact: 9.2 — Extraordinary hill-and-church silhouette with surrounding archaeological remains.
+  - uniqueness: 9.6 — Documented exceptional estimated pyramid volume and superimposed sanctuary.
+  - significance: 9.6 — Ancient monumental construction and layered colonial history support significance.
+  - experience: 8.9 — Exposed ruins and sacred landscape offer varied interpretation but much is buried.
+  - depth: 8.9 — Several construction phases and visible features provide breadth.
+- Categories: history 9.6, architecture 9.5, culture 9.4, photography 9.3.
+- Overall: 93.05/100.
+- High-score challenge: Uniqueness 9.6 and architecture 9.5 reflect documented exceptional built volume and layered construction, not a claim that the exposed monument rivals Giza visually. History and significance 9.6 reflect the ancient and colonial context. No precise current tunnel access claimed. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
+
+## sight-mx-cacaxtla-xochitecatl — Cacaxtla–Xochitécatl Archaeological Complex — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cacaxtla-xochitecatl.yaml)
+- Action: new
+- Precise subject: Combined official archaeological zone, with Cacaxtla painted architecture and nearby Xochitécatl ceremonial buildings; no guarantee of photography or access to all original paintings.
+- Location check: 19.2443, -98.3401; approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent fact-check incomplete; scores editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4332 (opened: extraordinary murals and distinct Xochitécatl remains); https://utpress.utexas.edu/9780292760899/ (indexed scholarly monograph on mural programs); https://mapcarta.com/Cacaxtla (opened: coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Ajanta (IN): larger painted religious ensemble
+  - Pompeii (IT): vastly broader surviving urban archaeology
+  - Bonampak (MX): similarly rare ancient mural evidence
+  - San Bartolo (GT): earlier Maya mural tradition, narrower visitor context
+- Individual scores:
+  - impact: 9.1 — Exceptional surviving paintings complement monumental architecture.
+  - uniqueness: 9.5 — Rare ancient narrative mural programs and nearby ceremonial complex.
+  - significance: 9.5 — Art historical scholarship and regional political history support major significance.
+  - experience: 8.9 — Original architecture and museum interpretation reward exploration.
+  - depth: 9.0 — Two complementary ceremonial centers provide substantial breadth.
+- Categories: history 9.5, culture 9.5, architecture 9.2, photography 9.1.
+- Overall: 92.40/100.
+- High-score challenge: 9.5 uniqueness, significance, history and culture supported by INAH and published art historical research on the unusually preserved mural cycle; compared with Bonampak and Ajanta, no claim of greater mural extent. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
+
+## sight-mx-guachimontones — Guachimontones (Teuchitlán) Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guachimontones.yaml)
+- Action: new
+- Precise subject: Specific Teuchitlán archaeological site and circular ceremonial architecture, not the entire UNESCO agave landscape or nearby tequila industry.
+- Location check: 20.6959, -103.83571; approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent fact-check incomplete; scores editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4474 (opened: conical structures, plazas, ballcourts and settlement); https://www.wmf.org/monuments/teuchtitl%C3%A1n-guachimontones-archaeological-zone (indexed: distinctive concentric planning and UNESCO context); https://www.cambridge.org/core/journals/ancient-mesoamerica/article/ceramics-and-community-insights-into-feasting-and-social-organization-at-los-guachimontones/5DF9015A5E83C4881586BDF34303C38C (indexed: largest complex Teuchitlán center); https://mapcarta.com/W295857843 (opened: coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Borobudur (ID): more monumental concentric architecture of a different tradition
+  - Chichén Itzá (MX): greater ceremonial scale and architectural variety
+  - Caracol (BZ): broader Maya city archaeology
+  - Monte Albán (MX): larger hilltop civic ensemble
+- Individual scores:
+  - impact: 9.0 — Concentric stepped structures provide striking geometry.
+  - uniqueness: 9.5 — Unusual systematic circular plazas distinguish the Teuchitlán tradition.
+  - significance: 9.2 — Major western Mesoamerican settlement and distinctive urban planning support importance.
+  - experience: 8.9 — Several circles and ballcourts offer engaging interpretation.
+  - depth: 8.8 — Ceremonial core and settlement evidence provide substantial depth.
+- Categories: architecture 9.5, history 9.3, culture 9.2, photography 9.2.
+- Overall: 91.30/100.
+- High-score challenge: 9.5 uniqueness and architecture reflect exceptional concentric planning supported by INAH and WMF, not a global claim that circular architecture occurs only here or equivalence with Borobudur in monumental scale. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
+
+## sight-mx-tula — Tula (Tollan) Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tula.yaml)
+- Action: new
+- Precise subject: Toltec ceremonial core with Atlantean columns, pyramids, palaces, ballcourts and site interpretation, not the modern city or assumed control of all Mesoamerica. Coordinate at on-site historical marker.
+- Location check: 20.06475, -99.33962; approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent fact-check incomplete; scores editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/5542 (opened: urban development and scale); https://lugares.inah.gob.mx/en/fut-cultura/6516?calendar_timestamp=1704175200&current=1704780000&date_format=custom&date_pattern=%5Cs%5Ce%5Cm%5Ca%5Cn%5Ca+W&display_reset=0&next=1705384800&pager_type=calendar_week&previous=1704175200&use_previous_next=0 (indexed: monumental warrior sculptures); https://www.hmdb.org/m.asp?m=118149 (opened: on-site marker coordinates and ceremonial core).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Chichén Itzá (MX): greater visible architecture and ceremonial breadth
+  - Teotihuacán (MX): larger preserved urban ensemble
+  - Copán (HN): stronger sculptural and inscription collection
+  - Tiwanaku (BO): comparable politically important monumental core
+- Individual scores:
+  - impact: 9.0 — Towering warrior columns and plazas form a striking ensemble.
+  - uniqueness: 9.1 — Distinctive monumental Toltec sculpture and architecture.
+  - significance: 9.4 — Major ancient capital and its cultural influence support strong significance.
+  - experience: 9.0 — Several structures and exhibits reward exploration.
+  - depth: 9.0 — Ceremonial core and broader urban interpretation provide depth.
+- Categories: history 9.4, architecture 9.3, culture 9.2, photography 9.1.
+- Overall: 91.05/100.
+- High-score challenge: 90+ overall supported by documented monumental sculpture and Toltec urban history; no 9.5+ field and no unsupported empire-wide political claims. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
+
+## sight-mx-la-venta-park-museum — La Venta Park Museum (Villahermosa) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-venta-park-museum.yaml)
+- Action: new
+- Precise subject: Open-air museum of original relocated Olmec monuments in Villahermosa, not the ancient city's remaining ruins or replica heads. Zoological facilities not used to inflate archaeological score.
+- Location check: 18.00182, -92.93341; approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent fact-check incomplete; scores editorial.
+- Sources consulted 2026-11-28: https://visite.tabasco.gob.mx/en/explora-tabasco/atractivos/parque-museo-la-venta/ (opened: collection of colossal heads, altars, stelae and mosaics relocated from ancient site); https://lugares.inah.gob.mx/en/node/4311 (indexed: original context and replicas at ancient site); https://mapcarta.com/es/W802672901 (opened: park coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - National Museum of Anthropology (MX): much broader nationally defining collection
+  - British Museum (GB): substantially broader cross-cultural archaeology collection
+  - Pergamon Museum (DE): much greater monumental architectural scope
+  - Copán Sculpture Museum (HN): comparable specialist Mesoamerican collection
+- Individual scores:
+  - impact: 8.9 — Large original stone monuments in tropical park offer outstanding impact.
+  - uniqueness: 9.3 — Rare concentrated collection of Olmec monumental sculpture.
+  - significance: 9.6 — Exceptional early Mesoamerican original material supports very high historical importance.
+  - experience: 8.8 — Outdoor display and interpretation reward exploration.
+  - depth: 8.6 — Focused collection has depth but narrower than encyclopedic museums.
+- Categories: history 9.6, culture 9.4, photography 9.1.
+- Overall: 90.95/100.
+- High-score challenge: 9.6 significance and history based on authentic early Olmec monuments and original material concentration, not the zoo or the whole original city. Compared with Copán Sculpture Museum and National Museum of Anthropology. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
+
+## sight-mx-la-venta-archaeological-site — La Venta Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-venta-archaeological-site.yaml)
+- Action: new
+- Precise subject: Original Olmec city and local museum, including earthen pyramid, original spatial context and replicas identified as such; excludes relocated originals displayed in Villahermosa.
+- Location check: 18.10343, -94.04103; approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent fact-check incomplete; scores editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4311 (indexed: original city, pyramid and replicas); https://lugares.inah.gob.mx/en/node/4310 (indexed: site museum context); https://visite.tabasco.gob.mx/en/explora-tabasco/atractivos/parque-museo-la-venta/ (opened: relocated sculptures); https://mapcarta.com/30570264 (opened: coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - San Agustín Archaeological Park (CO): greater in-situ sculptural spectacle
+  - Caral (PE): comparably important early urban archaeological landscape
+  - Monte Albán (MX): substantially more exposed monumental ensemble
+  - La Venta Park Museum (MX): relocated original sculptures rather than city context
+- Individual scores:
+  - impact: 8.2 — Earthen pyramid and plazas are evocative but less visually imposing.
+  - uniqueness: 9.0 — Early Olmec ceremonial layout is distinctive.
+  - significance: 9.5 — Early urbanism and Olmec material evidence are of exceptional importance.
+  - experience: 8.1 — Interpretation and surviving architecture reward visits but many monuments have moved.
+  - depth: 8.6 — Original urban context and museum provide meaningful depth.
+- Categories: history 9.5, culture 9.3, architecture 8.8.
+- Overall: 86.85/100.
+- High-score challenge: History and significance 9.5 reflect the early Olmec city, not relocated objects credited to the museum park; primary site and museum descriptions accessed as indexed excerpts. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
+
+## sight-mx-comalcalco — Comalcalco Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/comalcalco.yaml)
+- Action: new
+- Precise subject: Western Maya city and site museum; distinctive earth-and-brick construction, separate from Olmec sites.
+- Location check: 18.28001, -93.20134; approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent fact-check incomplete; scores editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4390 (indexed: main architectural groups); https://lugares.inah.gob.mx/en/node/5523 (indexed: local brick construction); https://mapcarta.com/19949916 (opened: coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Palenque (MX): greater architectural refinement and scale
+  - Tikal (GT): larger forest city
+  - Lamanai (BZ): comparable regional commercial center
+  - Mohenjo-daro (PK): very different brick-built urban tradition with greater scale
+- Individual scores:
+  - impact: 8.7 — Brick-faced monuments make a memorable ensemble.
+  - uniqueness: 9.1 — Uncommon Maya building material distinguishes this city.
+  - significance: 8.9 — Long occupation and trading context support historical relevance.
+  - experience: 8.7 — Multiple groups and museum offer rewarding interpretation.
+  - depth: 8.7 — Plazas and acropoleis provide breadth.
+- Categories: architecture 9.2, history 9.1, culture 8.9, photography 8.8.
+- Overall: 88.40/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
+
+## sight-mx-tzintzuntzan — Tzintzuntzan Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tzintzuntzan.yaml)
+- Action: new
+- Precise subject: Purépecha capital and its Great Platform and yácatas, not modern town or regional Night of the Dead festivities.
+- Location check: 19.62321, -101.57336; approximate representative point.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, full independent fact-check incomplete; scores editorial.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4481 (indexed: semicircular yácatas and terraced ancient city); https://sic.cultura.gob.mx/ficha.php?estado_id=16&table=zona_arqueologica&table_id=61 (indexed: settlement context and reconstruction); https://mapcarta.com/W26797083 (opened: coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Monte Albán (MX): greater exposed ceremonial city
+  - Iximché (GT): comparable late indigenous capital
+  - Tiwanaku (BO): greater monumental scope
+  - Guachimontones (MX): distinct earlier western Mexican circular architecture
+- Individual scores:
+  - impact: 8.7 — Curved monumental platforms above the lake give strong visual impact.
+  - uniqueness: 9.0 — Yácata architecture and Purépecha political context distinguish the site.
+  - significance: 9.2 — Capital of a major indigenous polity supports high importance.
+  - experience: 8.6 — Terraces and interpretation provide meaningful exploration.
+  - depth: 8.6 — Several structures and civic context offer depth.
+- Categories: history 9.3, architecture 9.1, culture 9.2, photography 8.9.
+- Overall: 88.50/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
