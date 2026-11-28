@@ -2694,3 +2694,207 @@ Eight natural attractions added, one fact-checked and seven provisional source-l
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: exact entrances, current ecological/visitor conditions, numeric peer comparisons and full diagnostics. No access guarantee.
+
+# Pass 400 — 2026-11-28 — direct main continuation
+
+Eight coastal and wildlife attractions added, three fact-checked and five provisional source-linked, all numerically complete. JS inventory, formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Sportfishing score refers to specialist catch-and-release experience, not conservation merit or guaranteed catches; hatchery visitor program is separate from the already ranked Monterrico coastal wetland/canal visit. No wildlife encounters, handling or private access assumed.
+
+## sight-gt-iztapa-pacific-sailfish — Iztapa Pacific Sailfish Sportfishing Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/iztapa-pacific-sailfish.yaml)
+- Action: new
+- Precise subject: Specialist guided offshore sailfish catch-and-release fishing from the Iztapa/Puerto Quetzal coast; not a conservation excursion, resort stay or claim of guaranteed catch.
+- Location check: Approximate port-area point, 13°54.421′N 90°42.442′W from planning-document excerpt https://www.scribd.com/document/775625279/Guatemala-APENDICES-PLAN-GUATEMALA; not an offshore fishing location.
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Peer-reviewed 2025 ICES Journal of Marine Science https://academic.oup.com/icesjms/article/82/9/fsaf152/8250422 (search excerpt: historically among highest sailfish catch rates worldwide; 1994–2023 series and mean 9.67 releases per fishing day; full page fetch failed). Operator https://www.buenavistasportfishing.com/ (search excerpt: named Iztapa offshore charters). Historical mean is not a forecast, and catch-and-release is not harmless.
+- Worldwide peers (qualitative; existing Cockscomb, Las Guacamayas, Biotopo del Quetzal, Monterrico and Jiquilisco YAML inspected; other peer scores not checked):
+  - Quepos offshore sportfishing (CR): similarly strong Pacific billfish fishery
+  - Cabo San Lucas sportfishing (MX): broader gamefish and established charter setting
+  - Kuala Rompin sailfish fishing (MY): comparable specialized sailfish experience
+  - Bazaruto sportfishing (MZ): broader marine setting and different gamefish profile.
+- Individual scores:
+  - impact: 9.1 — Encountering powerful pelagic fish offers exceptional specialist adventure impact.
+  - uniqueness: 9.4 — Scientifically documented unusually high historical sailfish catch rates distinguish this fishery globally.
+  - significance: 8.8 — Long-running fishery and specialist reputation matter, but not equivalent to protected wildlife conservation.
+  - experience: 9.2 — Established full-day offshore charter activity is rewarding for interested anglers; no catch or harmless release promised.
+  - depth: 8.5 — Extended offshore experience and specialized learning give depth, but scope is single-purpose.
+- Categories: adventure 9.4, nature 8.6.
+- Overall: 90.70/100.
+- High-score challenge: Historical peer-reviewed unusually high catch rates and established specialist charters support low 90s, not a guaranteed future catch; no conservation bonus. Full study not accessible, rating provisional. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.
+
+## sight-gt-los-tarrales-nature-reserve — Los Tarrales Nature Reserve and Specialist Birdwatching — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/los-tarrales-nature-reserve.yaml)
+- Action: new
+- Precise subject: Named private reserve and guided birdwatching across documented elevations, not the entire Atitlán Volcano or guaranteed rare bird sightings.
+- Location check: https://mapcarta.com/W1192515991 (opened: representative reserve polygon coordinate, not entrance).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Audubon https://www.audubon.org/conservation/international/ecotourism/guatemala (opened: >340 recorded birds, 21 regional endemics, elevation gradient); CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-montanas-y-playas-boca-costa-pacifico/reserva-natural-privada-los-tarrales/ (excerpt: birding and coffee interpretation); operator https://www.tarralesreserve.com/birdwatching (excerpt: specialist guided outings).
+- Worldwide peers (qualitative; existing Cockscomb, Las Guacamayas, Biotopo del Quetzal, Monterrico and Jiquilisco YAML inspected; other peer scores not checked):
+  - Cockscomb Basin (BZ): larger focused forest landscape and stronger large-mammal context
+  - Las Guacamayas (GT): similar guided specialization, less montane diversity
+  - Monteverde Cloud Forest (CR): internationally prominent cloud forest and broader iconic visitor landscape
+  - Mindo cloud forest (EC): comparable specialist birding with different Andean fauna.
+- Individual scores:
+  - impact: 8.8 — Varied volcanic forest scenery and rare-bird encounters provide strong specialist impact.
+  - uniqueness: 9.1 — Large elevation gradient with concentrated regional endemic birds is uncommon.
+  - significance: 9.2 — Documented endemic and threatened species habitat supports global conservation importance.
+  - experience: 9.1 — Established guided programs and trails provide substantial specialist engagement.
+  - depth: 9.0 — Multiple elevation zones, habitats and nature interpretation provide sustained depth.
+- Categories: nature 9.3, wildlife 9.4, photography 9.1, adventure 8.8.
+- Overall: 90.20/100.
+- High-score challenge: Audubon independently documents unusually rich regional endemic avifauna and elevation range; established guide program supports low 90s on specialist nature merits, not assumed sightings. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.
+
+## sight-gt-bocas-del-polochic — Bocas del Polochic Wildlife Refuge — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/bocas-del-polochic.yaml)
+- Action: new
+- Precise subject: Freshwater river-delta refuge and lawful guided wildlife observation; excludes entire Lake Izabal and guaranteed manatee encounters.
+- Location check: https://en.wikipedia.org/wiki/List_of_Ramsar_sites_in_Guatemala (opened: 15°25′N 89°22′W representative wetland point).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Defensores de la Naturaleza https://defensores.org.gt/donde-trabajamos/refugio-de-vida-silvestre-bocas-del-polochic/ (opened: internationally recognized wetland, manatee habitat and biodiversity); CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-caribe-verde-caribe-y-oriente/refugio-de-vida-silvestre-bocas-de-polochic/ (excerpt: refuge visitor context).
+- Worldwide peers (qualitative; existing Cockscomb, Las Guacamayas, Biotopo del Quetzal, Monterrico and Jiquilisco YAML inspected; other peer scores not checked):
+  - Tortuguero (CR): stronger established canal-tour network
+  - Pantanal (BR): much greater wildlife breadth and visibility
+  - Cockscomb Basin (BZ): comparable conservation landscape, different habitats
+  - Laguna del Tigre (GT): more extensive protected landscape.
+- Individual scores:
+  - impact: 8.7 — River delta, forest and aquatic wildlife provide strong natural appeal.
+  - uniqueness: 8.9 — Manatee habitat and freshwater wetland mosaic distinguish the refuge.
+  - significance: 9.3 — International wetland recognition and threatened species habitat warrant high significance.
+  - experience: 8.7 — Guided water-based nature exploration is rewarding but encounters vary.
+  - depth: 8.8 — Multiple aquatic and terrestrial habitats provide meaningful breadth.
+- Categories: nature 9.2, wildlife 9.3, photography 8.9.
+- Overall: 88.80/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.
+
+## sight-gt-punta-de-manabique — Punta de Manabique Coastal Wildlife Refuge — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/punta-de-manabique.yaml)
+- Action: new
+- Precise subject: Guatemalan peninsula, coastal wetlands and associated marine refuge; no credit for the entire Mesoamerican Barrier Reef or unverified diving.
+- Location check: https://en.wikipedia.org/wiki/List_of_Ramsar_sites_in_Guatemala (opened: Ramsar representative coordinate).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Ramsar https://www.ramsar.org/news/guatemala-names-punta-de-manabique-ramsar-list (excerpt: designated coastal wetland); CONAP https://conap.gob.gt/areas-de-recuperacion-pesquera-y-resiliencia-costera/ (excerpt: marine system and community conservation).
+- Worldwide peers (qualitative; existing Cockscomb, Las Guacamayas, Biotopo del Quetzal, Monterrico and Jiquilisco YAML inspected; other peer scores not checked):
+  - Sian Ka’an (MX): much broader globally notable coastal ecosystem
+  - Bacalar Chico (BZ): stronger established reef visitor setting
+  - Tortuguero (CR): greater documented wildlife-tour depth
+  - Bocas del Polochic (GT): different freshwater delta and manatee focus.
+- Individual scores:
+  - impact: 8.5 — Coastal waters, mangroves and peninsula scenery provide strong impact.
+  - uniqueness: 8.6 — Caribbean marine-wetland combination is regionally distinctive.
+  - significance: 9.2 — Internationally recognized habitat and coastal conservation support high significance.
+  - experience: 8.3 — Focused coastal nature excursions provide value, without invented diving access.
+  - depth: 8.7 — Multiple coastal habitats offer substantial interpretive breadth.
+- Categories: nature 9.1, wildlife 9.1, photography 8.7, beaches 8.3.
+- Overall: 86.55/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.
+
+## sight-gt-cerro-san-gil-reserve — Cerro San Gil Forest Reserve and Las Escobas Trails — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/cerro-san-gil-reserve.yaml)
+- Action: new
+- Precise subject: Protected watershed forest and documented Las Escobas visitor trails; excludes independent nearby caves and beaches.
+- Location check: https://mapcarta.com/30705274 (opened: representative reserve coordinate).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: CONAP https://turismo-sigap.conap.gob.gt/en/rutas-turisticas/ruta-de-caribe-verde-caribe-y-oriente/reserva-protectora-de-manantiales-cerro-san-gil/ (excerpt: rainforest, birdwatching and Las Escobas trail); https://agn.gt/ruta-del-caribe-verde-y-el-oriente-un-paraiso-verde-y-aguas-cristalinas (excerpt: tourism route).
+- Worldwide peers (qualitative; existing Cockscomb, Las Guacamayas, Biotopo del Quetzal, Monterrico and Jiquilisco YAML inspected; other peer scores not checked):
+  - Cockscomb Basin (BZ): stronger internationally established wildlife experience
+  - Monteverde (CR): greater iconic cloud-forest visitor appeal
+  - Biotopo del Quetzal (GT): more focused cloud-forest encounter
+  - Los Tarrales (GT): stronger documented endemic-bird specialist program.
+- Individual scores:
+  - impact: 8.5 — Tropical forest and freshwater scenery give strong impact.
+  - uniqueness: 8.5 — Protected Caribbean watershed with bird diversity is distinctive regionally.
+  - significance: 8.8 — Rainforest conservation and important watershed functions support significance.
+  - experience: 8.6 — Documented trails and nature viewing provide rewarding activity.
+  - depth: 8.7 — Forest gradients, water features and birding create substantial breadth.
+- Categories: nature 9.1, wildlife 9.1, adventure 8.7, photography 8.8.
+- Overall: 85.95/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.
+
+## sight-gt-monterrico-turtle-sanctuary — Monterrico CECON Sea Turtle Conservation Experience — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/monterrico-turtle-sanctuary.yaml)
+- Action: new
+- Precise subject: Named CECON hatchery educational visit and supervised observation of naturally timed releases; separate from Monterrico wetland/canal visits. No guaranteed release, handling or endorsement of egg collection.
+- Location check: Approximate hatchery coordinate converted from 13°53′17.72″N 90°28′41.89″W national strategy excerpt https://es.scribd.com/document/619755004/estrategia-nacional-tortuga-marina-digital-Guatemala.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: INGUAT https://visitguatemala.gt/en/blog/monterrico-turtle-sanctuary/ (opened: educational visitor center and conditional release observation); CECON https://cecon-ccqqfar.usac.edu.gt/reserva-natural-de-usos-multiples-monterrico/ (excerpt: nesting beaches and local egg-donation arrangement).
+- Worldwide peers (qualitative; existing Cockscomb, Las Guacamayas, Biotopo del Quetzal, Monterrico and Jiquilisco YAML inspected; other peer scores not checked):
+  - Jiquilisco hawksbill conservation (SV): stronger rare species and regional conservation importance
+  - Ostional (CR): much greater natural mass nesting spectacle
+  - Tortuguero (CR): larger natural nesting and interpretation landscape
+  - Monterrico Multiple Use Area (GT): separate coastal and mangrove scope.
+- Individual scores:
+  - impact: 8.5 — Observed hatchlings and conservation interpretation offer memorable emotional impact.
+  - uniqueness: 8.6 — Hatchery-based turtle education is meaningful but widely replicated.
+  - significance: 8.8 — Local sea turtle protection has conservation value; no blanket credit for egg-collection system.
+  - experience: 8.7 — Staff-led education and conditional viewing offer strong engagement without handling credit.
+  - depth: 8.0 — Focused hatchery interpretation provides moderate depth.
+- Categories: wildlife 9.1, nature 8.8, family 8.8.
+- Overall: 85.65/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.
+
+## sight-gt-sipacate-naranjo-national-park — Sipacate–Naranjo National Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/sipacate-naranjo-national-park.yaml)
+- Action: new
+- Precise subject: Named protected Pacific mangrove and coastal lagoon landscape; excludes El Paredón surfing and beach experience.
+- Location check: https://en.wikipedia.org/wiki/Sipacate-Naranjo_National_Park (coordinate excerpt).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: CONAP https://turismo-sigap.conap.gob.gt/en/rutas-turisticas/ruta-de-montanas-y-playas-boca-costa-pacifico/parque-nacional-sipacate-naranjo/ (excerpt: well-conserved mangrove remnant); INGUAT https://visitguatemala.gt/en/blog/birds-of-guatemala/ (excerpt: birding destination).
+- Worldwide peers (qualitative; existing Cockscomb, Las Guacamayas, Biotopo del Quetzal, Monterrico and Jiquilisco YAML inspected; other peer scores not checked):
+  - Tortuguero (CR): broader established wetland wildlife experience
+  - Barra de Santiago (SV): comparable mangrove and coastal conservation landscape
+  - Monterrico (GT): comparable wetland visit
+  - Manchón-Guamuchal (GT): greater wetland extent and international recognition.
+- Individual scores:
+  - impact: 8.3 — Mangrove waterways and coastal landscapes provide strong natural appeal.
+  - uniqueness: 8.4 — Pacific mangrove habitat is relatively distinctive regionally.
+  - significance: 8.7 — Protection of coastal biodiversity supports conservation significance.
+  - experience: 8.4 — Lawful nature viewing offers a rewarding focused excursion.
+  - depth: 8.4 — Several habitats create meaningful exploration breadth.
+- Categories: nature 8.9, wildlife 8.9, photography 8.7, beaches 8.1.
+- Overall: 84.30/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.
+
+## sight-gt-manchon-guamuchal-wetland — Manchón–Guamuchal Mangrove Wetland — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/manchon-guamuchal-wetland.yaml)
+- Action: new
+- Precise subject: Named Ramsar wetland including its documented visitor sector at La Chorrera; not entire Pacific coastal route or presumed unrestricted mangrove access.
+- Location check: Ramsar annotated-list excerpt https://rsis.ramsar.org/sites/default/files/rsiswp_search/exports/Ramsar-Sites-annotated-summary-Guatemala.pdf (14°28′03″N 92°05′12″W; document not fully examined).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-montanas-y-playas-boca-costa-pacifico/reserva-natural-privada-la-chorrera-manchon-guamuchal/ (excerpt: mangrove cover, waterbirds and visitor landscape); Ramsar https://www.ramsar.org/country-profile/guatemala (excerpt: listed wetland).
+- Worldwide peers (qualitative; existing Cockscomb, Las Guacamayas, Biotopo del Quetzal, Monterrico and Jiquilisco YAML inspected; other peer scores not checked):
+  - Sundarbans (BD/IN): vastly greater mangrove scale and distinctive fauna
+  - Sian Ka’an (MX): broader coastal landscape and visitor variety
+  - Barra de Santiago (SV): comparable focused mangrove experience
+  - Sipacate–Naranjo (GT): smaller coastal protected landscape.
+- Individual scores:
+  - impact: 8.4 — Extensive mangroves and coastal waters create strong landscape appeal.
+  - uniqueness: 8.7 — Substantial surviving Pacific mangrove mosaic is distinctive regionally.
+  - significance: 9.2 — International wetland recognition and migratory-bird habitat warrant high significance.
+  - experience: 8.0 — Documented visitor sector permits focused nature appreciation; wider access unverified.
+  - depth: 8.6 — Multiple coastal habitat types provide interpretive depth.
+- Categories: nature 9.2, wildlife 9.1, photography 8.7.
+- Overall: 85.95/100.
+- High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor access, current conditions, additional numeric peer checks and full diagnostics. No wildlife or access guarantees.

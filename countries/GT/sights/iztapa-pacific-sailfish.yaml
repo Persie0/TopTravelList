@@ -1,0 +1,15 @@
+id: sight-gt-iztapa-pacific-sailfish
+name: "Iztapa Pacific Sailfish Sportfishing Experience"
+location:
+  country_code: GT
+  latitude: 13.907017
+  longitude: -90.707367
+scores:
+  impact: 9.1
+  uniqueness: 9.4
+  significance: 8.8
+  experience: 9.2
+  depth: 8.5
+  categories:
+    adventure: 9.4
+    nature: 8.6

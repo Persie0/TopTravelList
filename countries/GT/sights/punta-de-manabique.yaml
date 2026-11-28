@@ -1,0 +1,17 @@
+id: sight-gt-punta-de-manabique
+name: "Punta de Manabique Coastal Wildlife Refuge"
+location:
+  country_code: GT
+  latitude: 15.833333
+  longitude: -88.466667
+scores:
+  impact: 8.5
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 8.3
+  depth: 8.7
+  categories:
+    nature: 9.1
+    wildlife: 9.1
+    photography: 8.7
+    beaches: 8.3

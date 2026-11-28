@@ -1,0 +1,17 @@
+id: sight-gt-los-tarrales-nature-reserve
+name: "Los Tarrales Nature Reserve and Specialist Birdwatching"
+location:
+  country_code: GT
+  latitude: 14.5263
+  longitude: -91.1556
+scores:
+  impact: 8.8
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.1
+  depth: 9.0
+  categories:
+    nature: 9.3
+    wildlife: 9.4
+    photography: 9.1
+    adventure: 8.8
