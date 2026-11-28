@@ -1,0 +1,16 @@
+id: sight-mx-huejotzingo-carnival
+name: "Huejotzingo Carnival"
+location:
+  country_code: MX
+  latitude: 19.159
+  longitude: -98.408
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.9
+  experience: 8.8
+  depth: 8.7
+  categories:
+    culture: 9.3
+    photography: 9.2
+    history: 8.9

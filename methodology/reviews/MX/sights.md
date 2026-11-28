@@ -7087,3 +7087,206 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: source triangulation, precise coordinates and access where applicable, numerical peers and global Python checks.
+
+## Pass 430 — Living festivals and cultural traditions
+
+## sight-mx-cervantino-festival — International Cervantino Festival (Guanajuato) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cervantino-festival.yaml)
+- Action: new
+- Precise subject: Annual multidisciplinary arts festival, excluding the permanent historic townscape.
+- Location check: 21.019, -101.257; approximate representative location, not independently verified; not an entrance pin.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://53.festivalcervantino.gob.mx/conocenos/?lan=en; https://festivales.cultura.gob.mx/fic.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Edinburgh International Festival (GB): comparable international performing arts
+  - Avignon Festival (FR): stronger theatre specialization
+  - Salzburg Festival (AT): stronger classical music focus
+  - Guelaguetza (MX): more concentrated indigenous traditions
+- Individual scores:
+  - impact: 9.1 — Street and staged arts across a historic city.
+  - uniqueness: 9.1 — International and Mexican artistic exchange.
+  - significance: 9.4 — Long-established major Latin American arts festival.
+  - experience: 9.4 — Varied theatre, dance and music performances.
+  - depth: 9.4 — Multi-day programme across numerous venues.
+- Categories: culture 9.5, history 8.8, photography 9.1.
+- Overall: 92.35/100.
+- High-score challenge: Culture 9.5 reflects the documented international multi-disciplinary programme; not the entire city. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-parachicos-chiapa-de-corzo — Parachicos January Great Feast (Chiapa de Corzo) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/parachicos-chiapa-de-corzo.yaml)
+- Action: new
+- Precise subject: January Great Feast and communal masked dances, excluding the town's permanent landmarks.
+- Location check: 16.708, -93.016; approximate representative location, not independently verified; not an entrance pin.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://ich.unesco.org/en/RL/festivity-of-las-parachicos-in-the-traditional-january-feast-of-chiapa-de-corzo-00399; https://ich.unesco.org/en/d%C3%A9cisions/5.COM/6.28.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Oruro Carnival (BO): larger ceremonial parade
+  - Paucartambo Virgen del Carmen (PE): comparable masked devotional dances
+  - Binche Carnival (BE): distinctive local masked tradition
+  - Guelaguetza (MX): broader regional dance showcase
+- Individual scores:
+  - impact: 9.2 — Colorful communal dances and processions.
+  - uniqueness: 9.4 — Distinctive masks and devotional dance.
+  - significance: 9.3 — UNESCO-listed living communal tradition.
+  - experience: 9.1 — Repeated public festive performances.
+  - depth: 8.8 — Multi-day celebrations and associated crafts.
+- Categories: culture 9.5, photography 9.4, history 9.1.
+- Overall: 92.15/100.
+- High-score challenge: Culture 9.5 reflects the integrated living ritual, mask craftsmanship and communal devotion, not inscription alone. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-voladores-papantla — Voladores Ritual Ceremony (Papantla) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/voladores-papantla.yaml)
+- Action: new
+- Precise subject: Totonac flying ritual in Papantla, not all regional heritage or a generic stunt performance.
+- Location check: 20.447, -97.32; approximate representative location, not independently verified; not an entrance pin.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://ich.unesco.org/en/RL/ritual-ceremony-of-the-voladores-00175; https://mapcarta.com/W329383255.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kecak at Uluwatu (ID): comparable concentrated performance
+  - Whirling dervish Sema (TR): distinctive spiritual movement
+  - Kandy Esala Perahera (LK): broader procession
+  - Guelaguetza (MX): much longer programme
+- Individual scores:
+  - impact: 9.3 — Striking aerial ritual.
+  - uniqueness: 9.5 — Distinctive rotating descent and ritual music.
+  - significance: 9.3 — Living indigenous spiritual tradition.
+  - experience: 8.7 — Focused live ceremony.
+  - depth: 7.5 — Short performance limits depth.
+- Categories: culture 9.5, photography 9.3, history 9.0.
+- Overall: 90.80/100.
+- High-score challenge: Uniqueness and culture 9.5 reflect the exceptional combination of ritual music, elevated choreography and Totonac spiritual meaning; no credit for unrelated sites. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-huamantla-night-carpets — Huamantla Night That No One Sleeps (La Noche que Nadie Duerme) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/huamantla-night-carpets.yaml)
+- Action: new
+- Precise subject: August 14 overnight ephemeral carpets and procession; excludes bull-running.
+- Location check: 19.313, -97.924; approximate representative location, not independently verified; not an entrance pin.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/actividad/723/noche-que-nadie-duerme; https://huamantla.gob.mx/pages/news-details.php?nid=2076; https://www.gob.mx/cultura/prensa/visita-alejandra-frausto-la-noche-que-nadie-duerme-en-huamantla?idiom=es-MX.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Antigua Guatemala Holy Week (GT): larger carpet and procession tradition
+  - Genzano Infiorata (IT): related floral carpets
+  - Brussels Flower Carpet (BE): more concentrated installation
+  - Pátzcuaro Night of the Dead (MX): broader ritual context
+- Individual scores:
+  - impact: 9.2 — Elaborate temporary street carpets.
+  - uniqueness: 9.2 — Distinctive overnight citywide craft tradition.
+  - significance: 8.9 — Long-standing regional religious heritage.
+  - experience: 9.1 — Community preparation and procession.
+  - depth: 8.8 — Multiple decorated streets and stages of creation.
+- Categories: culture 9.3, photography 9.4, history 8.8.
+- Overall: 90.85/100.
+- High-score challenge: 90+ reflects the combination of visual craft, community participation and nocturnal devotional experience; not a claim of UNESCO inscription. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-huejotzingo-carnival — Huejotzingo Carnival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/huejotzingo-carnival.yaml)
+- Action: new
+- Precise subject: Annual costumed historical reenactments, not the permanent monastery.
+- Location check: 19.159, -98.408; approximate representative location, not independently verified; not an entrance pin.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=136.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Binche Carnival (BE): comparable distinctive costumes
+  - Oruro Carnival (BO): wider devotional scale
+  - Basel Carnival (CH): longer musical tradition
+  - Veracruz Carnival (MX): less reenactment-focused
+- Individual scores:
+  - impact: 9.0 — Large-scale costumes and street spectacle.
+  - uniqueness: 9.1 — Distinctive local historical reenactments.
+  - significance: 8.9 — Regional historical narrative.
+  - experience: 8.8 — Multi-day communal celebration.
+  - depth: 8.7 — Several reenacted narratives.
+- Categories: culture 9.3, photography 9.2, history 8.9.
+- Overall: 89.45/100.
+- High-score challenge: Below 90; historical reenactments distinguish it from generic carnival parades. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-mazatlan-carnival — Mazatlán International Carnival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mazatlan-carnival.yaml)
+- Action: new
+- Precise subject: Annual coastal carnival, parades, music and cultural programme.
+- Location check: 23.196, -106.425; approximate representative location, not independently verified; not an entrance pin.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://carnavalmazatlan.com/en/history/carnival-history/; https://carnavalmazatlan.com/en/carnival/parades/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Rio Carnival (BR): vastly larger samba spectacle
+  - Nice Carnival (FR): comparable floats
+  - Barranquilla Carnival (CO): deeper regional folk diversity
+  - Veracruz Carnival (MX): comparable port celebration
+- Individual scores:
+  - impact: 9.0 — Large floats and coastal celebrations.
+  - uniqueness: 8.6 — Banda music gives distinct local character.
+  - significance: 8.9 — Long-established organized carnival.
+  - experience: 9.1 — Extensive festivities and music.
+  - depth: 8.9 — Parades and associated arts events.
+- Categories: culture 9.0, photography 9.2, nightlife 9.3.
+- Overall: 88.85/100.
+- High-score challenge: Below 90; international carnival peers constrain uniqueness. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-veracruz-carnival — Veracruz Carnival — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/veracruz-carnival.yaml)
+- Action: new
+- Precise subject: Annual port carnival with parades, music and customary ceremonial events.
+- Location check: 19.2, -96.138; approximate representative location, not independently verified; not an entrance pin.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/actividad/665/carnaval-de-veracruz; https://www.gob.mx/inpi/articulos/fiesta-de-carnaval-en-mexico.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Rio Carnival (BR): greater spectacle
+  - Barranquilla Carnival (CO): stronger folk heritage
+  - Nice Carnival (FR): comparable parade format
+  - Mazatlán Carnival (MX): analogous coastal festival
+- Individual scores:
+  - impact: 8.9 — Lively large street celebrations.
+  - uniqueness: 8.5 — Regional musical identity but comparable carnivals.
+  - significance: 8.8 — Established local festival heritage.
+  - experience: 9.1 — Varied public entertainment.
+  - depth: 8.8 — Multi-day programme.
+- Categories: culture 9.0, photography 9.0, nightlife 9.2.
+- Overall: 88.00/100.
+- High-score challenge: Below 90; avoids inflating a large festival solely for attendance. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-guadalajara-charreada — Traditional Charreada at Lienzo Charro Jalisco (Guadalajara) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/guadalajara-charreada.yaml)
+- Action: new
+- Precise subject: Traditional equestrian competition at a historic association venue; not all Mexican charrería.
+- Location check: 20.656, -103.339; approximate representative location, not independently verified; not an entrance pin.
+- Evidence status: source-linked-unverified; indexed institutional descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://ich.unesco.org/en/RL/charreria-equestrian-tradition-in-mexico-01108; https://visitjalisco.mx/blog/experiencias-de-charreria-en-jalisco-por-el-dia-del-charro?lang=en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Calgary Stampede (CA): much broader rodeo event
+  - Spanish Riding School (AT): distinct formal equestrian performance
+  - Camargue equestrian traditions (FR): comparable regional horsemanship
+  - Guelaguetza (MX): broader cultural programme
+- Individual scores:
+  - impact: 8.7 — Skilled riding and traditional costumes.
+  - uniqueness: 9.0 — Distinctive Mexican equestrian disciplines.
+  - significance: 9.1 — Living UNESCO-listed tradition.
+  - experience: 8.8 — Focused spectator experience.
+  - depth: 8.1 — Event-length scope and limited supporting interpretation.
+- Categories: culture 9.3, photography 8.9, history 8.8.
+- Overall: 88.10/100.
+- High-score challenge: Below 90; significance of national tradition does not automatically transfer to every competition. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+

@@ -1,0 +1,16 @@
+id: sight-mx-mazatlan-carnival
+name: "Mazatlán International Carnival"
+location:
+  country_code: MX
+  latitude: 23.196
+  longitude: -106.425
+scores:
+  impact: 9.0
+  uniqueness: 8.6
+  significance: 8.9
+  experience: 9.1
+  depth: 8.9
+  categories:
+    culture: 9.0
+    photography: 9.2
+    nightlife: 9.3
