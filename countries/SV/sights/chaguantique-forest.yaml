@@ -1,0 +1,16 @@
+id: sight-sv-chaguantique-forest
+name: "Chaguantique Forest Spider Monkey Conservation"
+location:
+  country_code: SV
+  latitude: 13.28
+  longitude: -88.52
+scores:
+  impact: 8.1
+  uniqueness: 8.9
+  significance: 8.9
+  experience: 8.0
+  depth: 8.3
+  categories:
+    wildlife: 9.3
+    nature: 9.0
+    photography: 8.6
