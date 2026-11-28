@@ -513,3 +513,9 @@ Follow-up 2026-11-25: official [UNESCO country register](https://whc.unesco.org/
 - Evidence: [Reference](https://en.wikipedia.org/wiki/List_of_protected_areas_in_Equatorial_Guinea) — Protected area inventory excerpt; visitor access unresolved; accessed as page or excerpt 2026-11-25. Not complete claim-level verification.
 - Remaining gaps: Normal permitted visitor experience and scope not established.
 - Follow-up: [Protected Planet national inventory](https://www.protectedplanet.net/en/search-areas?filters%5Blocation%5D%5Boptions%5D%5B%5D=Equatorial+Guinea&filters%5Blocation%5D%5Btype%5D=country) corroborates designation and identity. Permitted visitor routes not established; keep overall unranked.
+
+## sight-gq-luba-caldera-scientific-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/GQ/sights/luba-caldera-scientific-reserve.yaml) · **source-linked-unverified** · wildlife null → 9.3/10. Island rainforest and distinctive primates plus coastal turtle habitat support high interest, with no guarantee of encounters; tentative designation is not inscription.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6945
+- Core ratings and other fields unchanged; access restrictions not a penalty.

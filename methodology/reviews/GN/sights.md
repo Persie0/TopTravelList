@@ -578,3 +578,9 @@ Follow-up 2026-11-25: [UNESCO country inventory](https://whc.unesco.org/en/state
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Research on community ecotourism](https://www.mdpi.com/2071-1050/15/5/4615) documents chimpanzee population decline and community governance challenges; [primate research](https://link.springer.com/article/10.1007/s10764-022-00305-y) documents long-running tool-use research and locally restricted sacred areas. No permission to approach wildlife or enter restricted sites implied. Checked 2026-11-25.
 - Remaining gaps: visitor scope, ethical viewing policy, closer peer calibration, full factual verification.
+
+## sight-gn-bossou-forest-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/GN/sights/bossou-forest-reserve.yaml) · **source-linked-unverified** · wildlife null → 8.9/10. Scientifically important tool-using chimpanzees, but a very small population and narrow scope limit wildlife breadth; no current population count inferred from the older atlas estimate.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://apesatlas.iucnapesportal.org/index.php/Bossou
+- Core ratings and other fields unchanged; access restrictions not a penalty.

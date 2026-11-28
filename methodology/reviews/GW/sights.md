@@ -494,3 +494,9 @@ Follow-up 2026-11-25: all records now carry references; no full factual verifica
 - Wildlife: null → **9.7/10**. UNESCO confirms five sea turtle species, globally important green turtle nesting, major migratory bird feeding habitat, and threatened marine mammals and fish within the listed property. Comparable to Banc d'Arguin (MR, 9.7) for bird concentrations; slightly below Aldabra (SC, 9.8) as a benchmark for concentrated island fauna; above Belize Barrier Reef (BZ, 9.5) and New Caledonia lagoons (NC, 9.6) for the distinctive combination of turtle nesting and shorebird gatherings. The rating is seasonal and does not imply guaranteed sightings or permission to approach nesting sites.
 - Evidence (2026-11-28): https://whc.unesco.org/en/list/1431/. Peer values were read from current repository YAML at the parent commit; peer ratings themselves were not independently recalibrated.
 - All core scores, other categories, names and coordinates are unchanged. No access-related scoring penalty and no new perfect score.
+
+## sight-gw-poilao-island-nesting-beaches — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/GW/sights/poilao-island-nesting-beaches.yaml) · **source-linked-unverified** · wildlife null → 9.7/10. UNESCO reports over 62,000 green turtle nests in 2020 on Poilão itself. Globally exceptional seasonal nesting, narrower than the entire archipelago; comparable to Banc d’Arguin 9.7 and below Aldabra 9.8 for breadth.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Indexed source reviewed 2026-11-28: https://whc.unesco.org/en/list/1431
+- Core ratings and other fields unchanged; access restrictions not a penalty.
