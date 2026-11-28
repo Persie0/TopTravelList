@@ -2380,3 +2380,10 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-sa-masjid-al-haram — Masjid al-Haram (Grand Mosque) — 2026-11-28 post-merge 94+ scope check
+
+- [YAML](../../../countries/SA/sights/masjid-al-haram.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [Saudipedia](https://saudipedia.com/en/grand-mosque) identifies the mosque surrounding the Kaaba and its successive expansions. [Official mosque authority search excerpt](https://alharamain.gov.sa/public/?page=masjid-haram-en) confirms central religious significance; full page timed out. Experience 9.5 is a pilgrimage/worship-specific editorial estimate rather than generic sightseeing. Depth concerns the mosque precinct, not every Hajj site. Distinguish access rules from intrinsic value; do not invent visits for people who cannot enter.
+- Qualitative comparison leads (peer YAML scores not independently rechecked): Saint Peter's Basilica (Vatican City): major pilgrimage church with different liturgical and visitor scope; Golden Temple (India): major living sacred complex; Ise Grand Shrine (Japan): sacred precinct with distinct ritual tradition; Prophet's Mosque (Saudi Arabia): related but separate pilgrimage destination.
+- Current I/U/S/E/D: 9.4 / 9.4 / 9.4 / 9.5 / 9.3; overall 94.05/100. Retained unchanged pending full calibration; no new category or perfect score. Coordinates not independently verified. This is limited factual and scope verification, not comprehensive validation of the rating.

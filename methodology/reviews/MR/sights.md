@@ -650,3 +650,16 @@ Follow-up 2026-11-25: [national tourism office](https://visitmauritania.com/parc
 - Final decision: Retain partial assessment; no unsupported visitor ranking.
 - Verification still needed: visitor scope, boundary and current conservation conditions.
 - Follow-up: [park website](https://pna.mr/Contact/) advertises guided visits, but independently documented experience and distinction between captive and wild viewing remain incomplete.
+
+## sight-mr-chat-tboul-wetland — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MR/sights/chat-tboul-wetland.yaml) · **editorial-only** · wildlife null → 8.8/10. Coastal wetland bird interest; narrower than Banc d’Arguin and no assumption of comparable abundance.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-mr-lac-gabou-tagant-wetlands — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/MR/sights/lac-gabou-tagant-wetlands.yaml) · **editorial-only** · wildlife null → 8.4/10. Desert wetland habitat and seasonal aquatic fauna potential; localized sites rather than an extensive coastal bird spectacle.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.

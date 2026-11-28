@@ -993,3 +993,18 @@
 | [rio platano biosphere reserve (HN)](../../../countries/HN/sights/rio-platano-biosphere-reserve.yaml) | — / 9.2 / 9.5 / — / — | — | Conservation significance independently retained with visitor scope unknown. |
 | [joya de ceren archaeological site (SV)](../../../countries/SV/sights/joya-de-ceren-archaeological-site.yaml) | 8.6 / 9.6 / 9.6 / 8.4 / 8.1 | 89.70 | Single interpreted archaeological property; documented bounded visitor scope. |
 | [niah caves archaeological complex (MY)](../../../countries/MY/sights/niah-caves-archaeological-complex.yaml) | 9.0 / 9.4 / 9.6 / 8.8 / 8.8 | 91.70 | Coherent multi-feature cave itinerary with strong prehistoric evidence. |
+
+## sight-mn-deer-stone-monuments-and-related-bronze-age-sites — 2026-11-28 category completion
+
+- [YAML](../../../countries/MN/sights/deer-stone-monuments-and-related-bronze-age-sites.yaml) · Action: complete explicitly applicable category fields · **source-linked-unverified**.
+- Assigned: photography 8.8. The four components preserve intricately carved standing stones and funerary structures in open landscapes. Photography 8.8 reflects detail and steppe compositions rather than monumental scale comparable to Giza (9.8) or Angkor (9.5); visual reward depends on framing, light and weather.
+- Sources consulted 2026-11-28 (indexed descriptions): https://whc.unesco.org/en/list/1621/. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
+- Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.
+
+
+## sight-mn-petroglyphic-complexes-of-the-mongolian-altai — 2026-11-28 category completion
+
+- [YAML](../../../countries/MN/sights/petroglyphic-complexes-of-the-mongolian-altai.yaml) · Action: complete explicitly applicable category fields · **source-linked-unverified**.
+- Assigned: photography 9.0. Three sites preserve extensive rock carvings in an Altai mountain setting. Photography 9.0 reflects both motifs and landscape context, slightly above the deer-stone series (8.8) but below large-scale iconic landscapes or monumental ensembles such as Angkor (9.5). No assumption of unrestricted access to individual panels.
+- Sources consulted 2026-11-28 (indexed descriptions): https://whc.unesco.org/en/list/1382/. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
+- Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.

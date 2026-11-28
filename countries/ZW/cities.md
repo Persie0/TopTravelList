@@ -19,7 +19,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 3 | [Victoria Falls (city)](cities/victoria-falls.yaml) | City / town | **77.65** | **Food 8.2**, **Culture 7.8** | 7.7 / 7.7 / 7.5 / 8.4 / 7.7 | [-17.93495, 25.82528](https://www.google.com/maps/search/?api=1&query=-17.93495,25.82528) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Victoria%20Falls%20%28city%29%2C%20Zimbabwe) |
 | 4 | [Mutare](cities/mutare.yaml) | City / town | **77.10** | **Photography 8.0**, **Culture 7.8** | 7.8 / 7.8 / 7.5 / 7.8 / 7.5 | [-18.971, 32.671](https://www.google.com/maps/search/?api=1&query=-18.971,32.671) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mutare%2C%20Zimbabwe) |
 | 5 | [Masvingo](cities/masvingo.yaml) | City / town | **74.25** | **History 8.1** | 7.1 / 7.6 / 7.8 / 7.5 / 7.1 | [-20.064, 30.828](https://www.google.com/maps/search/?api=1&query=-20.064,30.828) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Masvingo%2C%20Zimbabwe) |
-| 6 | [Gweru](cities/gweru.yaml) | City / town | **72.35** | — | 7.0 / 7.2 / 7.5 / 7.5 / 7.1 | [-19.45, 29.817](https://www.google.com/maps/search/?api=1&query=-19.45,29.817) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gweru%2C%20Zimbabwe) |
+| 6 | [Gweru](cities/gweru.yaml) | City / town | **72.35** | **History 7.6**, **Culture 7.4** | 7.0 / 7.2 / 7.5 / 7.5 / 7.1 | [-19.45, 29.817](https://www.google.com/maps/search/?api=1&query=-19.45,29.817) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Gweru%2C%20Zimbabwe) |
 
 ---
 

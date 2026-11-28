@@ -19,7 +19,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 3 | [Entebbe](cities/entebbe.yaml) | City / town | **79.20** | **Relaxation 8.5**, **Nature 8.3** | 7.9 / 7.9 / 7.7 / 8.3 / 7.9 | [0.051184, 32.463708](https://www.google.com/maps/search/?api=1&query=0.051184,32.463708) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Entebbe%2C%20Uganda) |
 | 4 | [Fort Portal](cities/fort-portal.yaml) | City / town | **78.30** | **Culture 8.3**, **Photography 8.0** | 7.7 / 8.0 / 7.8 / 8.0 / 7.6 | [0.654626, 30.280117](https://www.google.com/maps/search/?api=1&query=0.654626,30.280117) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Fort%20Portal%2C%20Uganda) |
 | 5 | [Mbale](cities/mbale.yaml) | City / town | **73.70** | **History 7.9**, **Culture 7.8**, **Food 7.7** | 7.1 / 7.4 / 7.6 / 7.6 / 7.3 | [1.078444, 34.181006](https://www.google.com/maps/search/?api=1&query=1.078444,34.181006) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Mbale%2C%20Uganda) |
-| 6 | [Kabale](cities/kabale.yaml) | City / town | **72.80** | — | 7.0 / 7.6 / 7.4 / 7.4 / 6.9 | [-1.241956, 29.985616](https://www.google.com/maps/search/?api=1&query=-1.241956,29.985616) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kabale%2C%20Uganda) |
+| 6 | [Kabale](cities/kabale.yaml) | City / town | **72.80** | **Photography 7.7**, **Culture 7.5** | 7.0 / 7.6 / 7.4 / 7.4 / 6.9 | [-1.241956, 29.985616](https://www.google.com/maps/search/?api=1&query=-1.241956,29.985616) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Kabale%2C%20Uganda) |
 
 ---
 

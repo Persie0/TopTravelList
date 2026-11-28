@@ -1274,3 +1274,16 @@ Worldwide v2 · 2026-11-25. Individual provisional editorial assessments, not ve
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [UNESCO tentative-list identity](https://whc.unesco.org/en/statesparties/jo), reviewed 2026-11-25; identity or parent-property context only, not comprehensive individual verification.
 - Remaining gaps: Normal permitted visitor scope, practical routes and identity require confirmation before ranking.
+
+## sight-jo-dahek-nature-reserve — 2026-11-28 category completion
+
+- [YAML](../../../countries/JO/sights/dahek-nature-reserve.yaml) · Action: complete explicitly applicable category fields · **source-linked-unverified**.
+- Assigned: nature 8.8. White chalk cliffs, fossil-bearing geological formations and desert contrasts warrant 8.8 for nature; narrower in scale and landscape variety than Wadi Rum or White Desert National Park, but a distinctive desert landform compared with conventional arid reserves.
+- Sources consulted 2026-11-28 (indexed descriptions): https://international.visitjordan.com/whattodo/eco-adventures/. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
+- Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.
+
+## sight-jo-burqu-nature-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/JO/sights/burqu-nature-reserve.yaml) · **editorial-only** · wildlife null → 7.8/10. Desert-steppe and water-associated fauna potential, modest compared with extensive wildlife-rich arid reserves; no historical populations assumed current.
+- Comparative context: Aïr and Ténéré (8.0), Etosha (9.8), Zakouma (9.7), Serengeti (9.9): compare specialized dryland fauna with documented concentrations. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.

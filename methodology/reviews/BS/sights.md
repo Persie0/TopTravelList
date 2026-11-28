@@ -1208,3 +1208,55 @@
 - Earlier decision: none.
 - Verification still needed: permitted ordinary visitor experience and individual location/condition.
 
+## sight-bs-cay-lobos-lighthouse — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BS/sights/cay-lobos-lighthouse.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.2, photography 8.4. Isolated maritime navigation landmark with sea-and-tower compositions, modest architectural complexity.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 78.65/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-bs-cay-sal-lighthouse — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BS/sights/cay-sal-lighthouse.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.3, photography 8.1. Historic bank navigation and isolated masonry remains; no assumed tower entry or intact operational facilities.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 77.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-bs-great-isaac-lighthouse — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BS/sights/great-isaac-lighthouse.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.0, photography 8.2. Remote lighthouse silhouette and maritime heritage; limited built fabric and no fabricated facilities.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 74.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-bs-gun-cay-lighthouse — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BS/sights/gun-cay-lighthouse.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.3, photography 8.3. Historic navigational tower on a narrow cay, distinctive coastal visual setting.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 77.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-bs-hole-in-the-wall-lighthouse — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BS/sights/hole-in-the-wall-lighthouse.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.4, photography 8.4. Abaco's historic maritime landmark and rugged headland, no assumption of restored tower access.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 77.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-bs-southwest-point-lighthouse — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/BS/sights/southwest-point-lighthouse.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.2, photography 8.0. Inagua navigation history and coastal setting; single tower rather than broader island wildlife.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 77.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

@@ -645,3 +645,19 @@
 
 [UNESCO country inventory](https://whc.unesco.org/en/statesparties/zm/) lists one inscribed and fourteen tentative properties, thirteen submitted March 2026. All fourteen tentative properties now inventoried, with two fossil localities explicitly unassessed and provisional regional markers based on conditional UTM zone 36S conversions; the original CRS and nominated boundaries remain unverified. Individual liberation heritage components, Kafue Flats visitor parks, additional Livingstone and Lusaka museums, additional waterfalls, Lake Kariba, Tanganyika, and additional towns remain backlog. No exhaustive national inventory claimed.
 
+## sight-zm-luangwa-karoo-fossil-sites — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZM/sights/luangwa-karoo-fossil-sites.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.2. Significant vertebrate fossil and geological record, no assumption of visible fossils at every locality.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 85.65/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-zm-sitwe-ntawere-fossil-localities — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZM/sights/sitwe-ntawere-fossil-localities.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.1. Specific Karoo fossil localities rather than full Luangwa basin; scientific interest outweighs visual breadth.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 84.65/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

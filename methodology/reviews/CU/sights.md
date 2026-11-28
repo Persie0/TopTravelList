@@ -1279,3 +1279,10 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Earlier decision: none.
 - Verification still needed: Ordinary access, condition and geography.
 
+## sight-cu-cienaga-de-zapata-national-park — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CU/sights/cienaga-de-zapata-national-park.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.4, wildlife 9.3, photography 8.9. Wetland and speleological-lacustrine system, endemic species and karst water features; no credit for entire Ramsar wetland beyond nominated scope.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6750/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 90.35/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

@@ -224,3 +224,10 @@
 - Final decision: Partial assessment retained; no total.
 - Verification still needed: exact location where provisional, access and individual claim-level evidence.
 
+## city-mz-nampula — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MZ/cities/nampula.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.7, architecture 7.5. Northern regional city, markets and civic/religious architecture; Ilha de Moçambique excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 72.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

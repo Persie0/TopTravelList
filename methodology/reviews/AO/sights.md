@@ -555,3 +555,8 @@
 
 [UNESCO inventory](https://whc.unesco.org/en/statesparties/ao/) lists one inscribed and four tentative properties, all represented at property level. Four Tchitundu-Hulu rock-art locations and separate Kwanza historic forts, catchment protected areas, Cuito memorial components remain individual research backlog. Broad tentative regional points need refinement. Additional government-listed natural attractions (Mayombe, Nzenzo, Carumbo and Chiumbe) and museum and coastal destinations remain outstanding. No exhaustive inventory claimed.
 
+## sight-ao-okavango-catchments — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/AO/sights/okavango-catchments.yaml) · **source-linked-unverified** · wildlife null → 9.0/10. The tentative catchments support elephant dispersal and wildlife corridors; do not transfer the concentrations of the downstream Okavango Delta to the Angolan headwaters.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Indexed source reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6899/
+- Core ratings and other fields unchanged; access restrictions not a penalty.

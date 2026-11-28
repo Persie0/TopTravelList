@@ -192,3 +192,10 @@
 - Final decision: Partial assessment, no overall total.
 - Verification still needed: current access, exact points where provisional, remaining peer scores and individual claim-level evidence.
 
+## city-zw-gweru — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZW/cities/gweru.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 7.6, culture 7.4. Historic railway and regional civic city; surrounding game parks excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 72.35/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

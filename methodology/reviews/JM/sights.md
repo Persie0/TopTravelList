@@ -914,3 +914,19 @@ Initial inventory, not exhaustive. Numeric ratings are provisional editorial dec
 - Earlier decision: none.
 - Verification still needed: Verify ordinary permitted access, condition and geography.
 
+## sight-jm-archaeological-ensemble-port-royal — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/JM/sights/archaeological-ensemble-port-royal.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: history 9.5, architecture 8.5. Historic maritime urban archaeology and surviving structures, including submerged remains; do not imply public access to all underwater archaeology. UNESCO confirms a well-preserved 17th-century urban layout, terrestrial and submerged remains, and 2025 inscription. History 9.5 reflects this exceptional evidence; architecture 8.5 reflects the limited standing structures. Compare Pompeii, Historic Bridgetown, Cartagena and Old Havana.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/list/1595/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 89.20/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-jm-cockpit-country-protected-area — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/JM/sights/cockpit-country-protected-area.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.2, culture 8.9, photography 9.0. Distinctive tropical karst and Maroon cultural landscape; no implied permission for private or sacred sites.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 88.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

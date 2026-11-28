@@ -253,3 +253,11 @@ Core values are I/U/S/E/D. Existing qualitative comparisons retained; additional
 - Final decision: Provisional ranking supported by documented ordinary visitor experiences; not full factual verification.
 - Earlier decision: prior entry for this ID, unranked. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Village only; exclude distant Savai'i attractions and private resort amenities. Confirm local host and customary permission.
+
+## city-ws-asau — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/WS/cities/asau.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3, photography 7.3. Village and coastal harbor setting; not the entire Savai'i island.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 66.50/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

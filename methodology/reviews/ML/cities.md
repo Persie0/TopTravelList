@@ -419,3 +419,20 @@ Initial worldwide V2 inventory; 2026-11-25. UNESCO, embassy and tourism sources 
 - Approved 10 registry: none.
 - Final decision: Retain partial assessment without inventing total.
 - Verification still needed: exact coordinates where provisional, access, independent claim-level evidence and peer calibration.
+
+## city-ml-bandiagara — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ML/cities/bandiagara.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 8.1. Dogon regional market and settlement culture; cliff landscape remains separate.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 74.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ml-koulikoro — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ML/cities/koulikoro.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.4, photography 7.3. Niger River town and local commercial life; excludes river-wide excursions.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

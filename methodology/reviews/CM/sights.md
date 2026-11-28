@@ -884,3 +884,8 @@
 
 [UNESCO inventory](https://whc.unesco.org/en/statesparties/cm/) lists three inscribed and seventeen tentative properties. All represented at property or component level. Mandara is assessed as one unranked cultural landscape, not sixteen independent visitor attractions; Bafut/Bandjoun represent two of fourteen Grande Case components; Bimbia and Bandjoun represent two of thirteen associated slave-route components. Remaining components and separate Boumba Bek/Nki records, remaining CRIKOT forest reserves, Rhumsiki, additional museums and coast are backlog. Saa coordinate notation remains unresolved. Takamanda representative point corrected using the former forest reserve location; precise legal boundaries still require verification. No exhaustive national inventory or all-component assessment claimed.
 
+## sight-cm-takamanda-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/CM/sights/takamanda-national-park.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Cross River gorilla habitat is exceptional, but the larger landscape population and rare encounters are not attributed to the individual park.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://cameroon.wcs.org/Wild-Places/Takamanda-Mone-Landscape.aspx
+- Core ratings and other fields unchanged; access restrictions not a penalty.

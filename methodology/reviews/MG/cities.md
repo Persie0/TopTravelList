@@ -192,3 +192,10 @@
 - Final decision: Partial assessment retained; no overall total.
 - Verification still needed: precise points where provisional, access, site-specific peer calibration and independent evidence.
 
+## city-mg-toamasina — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MG/cities/toamasina.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.8, food 7.8. Major Malagasy port and market culture with regional food traditions; not neighboring coastal reserves.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 75.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

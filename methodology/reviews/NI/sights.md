@@ -1054,3 +1054,30 @@ Initial inventory, not exhaustive. All scores are editorial; no fully independen
 - Earlier decision: none.
 - Verification still needed: Independent factual and geographic verification.
 
+## sight-ni-granada-natural-environment — 2026-11-28 category completion
+
+- [YAML](../../../countries/NI/sights/granada-natural-environment.yaml) · Action: complete explicitly applicable category fields · **source-linked-unverified**.
+- Assigned: nature 9.0, history 9.2. The mixed tentative nomination explicitly combines the historic colonial city with Apoyo lagoon, Mombacho and lake islands. Nature 9.0 reflects the volcanic and lacustrine variety, below the broader volcanic landscapes of Iceland or Galápagos. History 9.2 recognizes the colonial urban ensemble and archaeological surroundings; below the extensive ancient urban evidence of Pompeii or Tikal. Do not assume inscription or count unrelated sites.
+- Sources consulted 2026-11-28 (indexed descriptions): https://whc.unesco.org/en/tentativelists/1819. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
+- Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.
+
+
+## sight-ni-miskito-cays-natural-reserve — 2026-11-28 category completion
+
+- [YAML](../../../countries/NI/sights/miskito-cays-natural-reserve.yaml) · Action: complete explicitly applicable category fields · **source-linked-unverified**.
+- Assigned: nature 9.2, wildlife 9.1. Reef, seagrass, coastal and island habitats support nature 9.2; lower than Belize Barrier Reef (9.6) and New Caledonia lagoons (9.7) for globally exceptional reef diversity. Wildlife 9.1 recognizes threatened turtles, manatees and dolphins; below Belize (9.5) and Aldabra (9.8) without evidence of equivalent observable concentrations.
+- Sources consulted 2026-11-28 (indexed descriptions): https://www.mapanicaragua.com/en/miskitos-keys-marine-biological-reserve/ ; https://www.ramsar.org/es/node/8941. These are editorial scores, not ratings assigned by the source organizations. Qualitative peer comparisons are provisional.
+- Core scores, coordinates and other categories unchanged. No perfect score and no new null fields.
+
+## sight-ni-bosawas-natural-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/NI/sights/bosawas-natural-reserve.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Large tropical rainforest wildlife habitat, below more clearly documented observable fauna benchmarks; no population claims.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://www.mapanicaragua.com/en/nature/
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ni-indio-maiz-biological-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/NI/sights/indio-maiz-biological-reserve.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Lowland rainforest and river-associated wildlife interest; distinct from the whole southeastern biosphere region, with no guarantee of charismatic sightings.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://www.mapanicaragua.com/en/nature/
+- Core ratings and other fields unchanged; access restrictions not a penalty.

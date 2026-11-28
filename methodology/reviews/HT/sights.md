@@ -1124,3 +1124,109 @@ Initial inventory, not exhaustive. Numeric ratings are editorial and source-link
 - Earlier decision: none.
 - Verification still needed: Site condition, coordinates and normal permitted access.
 
+## sight-ht-drouet-ruins-fort — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/drouet-ruins-fort.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.1, architecture 8.7. Fortification and historical estate remains in a landscape setting; not the entire Matheux route.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 87.20/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-cortade-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-cortade-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.6. Individual plantation estate remains and slavery-era history; surviving details uncertain.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 76.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-gosse-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-gosse-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.6. Plantation archaeological testimony; no claim of a reconstructed estate or complete machinery.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 76.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-guyon-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-guyon-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.0, architecture 8.6. More substantial estate heritage as reflected in existing scope; no assumed intact interiors.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 85.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-janet-latour-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-janet-latour-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.8. Named plantation estate historical testimony; limited evidence of built completeness.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 79.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-lachenais-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-lachenais-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.6. Coffee/slavery landscape estate component; distinguish individual remains from serial route.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 76.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-lamothe-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-lamothe-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.8. Historic plantation site in the Matheux landscape; narrower than full historical park.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 79.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-lapeyrade-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-lapeyrade-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.6. Individual estate archaeology and colonial labor history, no invented structures.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 76.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-mary-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-mary-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.6. Individual historic habitation remains; equal provisional value to similarly documented fragments.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 76.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-habitation-sabourin-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/habitation-sabourin-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.9, architecture 8.1. Estate heritage with greater existing scope rating; no assumption of restored interiors.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 81.55/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-matheux-historical-national-park — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/matheux-historical-national-park.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.4, culture 9.1, photography 8.9. Coffee, slavery and freedom landscape with multiple estates; avoid counting each component again.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 89.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ht-ramiers-fortifications — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/HT/sights/ramiers-fortifications.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.2, architecture 8.8, photography 8.8. Historic defensive outworks of the national history park; not the full Citadelle complex.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 85.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

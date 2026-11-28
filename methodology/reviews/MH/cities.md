@@ -505,3 +505,38 @@ Core values I/U/S/E/D from current YAML; editorial comparisons, not independent 
 - Final decision: retain incomplete profile; no unsupported visitor ratings.
 - Earlier decision: previous record retained in [verification history](verification-2026-11-25.md).
 - Verification still needed: No transfer of Bikini test-site rating; community history is not itself a tourist attraction. Canonical validation outstanding.
+
+## city-mh-jabor — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MH/cities/jabor.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 7.8, culture 7.3. Jaluit settlement history and village life; not the full atoll or separate wrecks.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 70.25/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-mh-mili — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MH/cities/mili.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.5, photography 7.8. Atoll village and coastal perspectives; reserve wildlife evaluated separately.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 74.35/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-mh-namdrik — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MH/cities/namdrik.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.8, photography 7.9. Island community and lagoon-side scenery; not the entire Ramsar habitat.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 76.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-mh-wotje — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/MH/cities/wotje.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 7.8, culture 7.2. Village and wartime historical context; no assumed access to specific military remains.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 71.55/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

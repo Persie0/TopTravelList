@@ -288,3 +288,29 @@
 - [Dated worldwide reassessment pass 53 — 2026-11-26](worldwide-deferred-pass53-2026-11-26.md)
 
 - [Dated worldwide reassessment pass 54 — 2026-11-26](worldwide-deferred-pass54-2026-11-26.md)
+
+## city-sd-atbara — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/SD/cities/atbara.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 7.9, culture 7.4. Railway-town history and Nile-region urban life; not nearby archaeological complexes.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 72.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-sd-karima — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/SD/cities/karima.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3. Nile town and local culture; Jebel Barkal and pyramids separately rated.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.65/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-sd-shendi — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/SD/cities/shendi.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.3, history 7.2. Nile market-town heritage, excluding the Meroë archaeological property.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 69.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

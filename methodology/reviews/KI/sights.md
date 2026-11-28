@@ -679,3 +679,9 @@ Ranking rows checked; independent factual, coordinate, peer YAML, broader intern
 ### Pass 220 scope decisions
 
 Tabuaeran surf explicitly excluded by lagoon scope. No Phoenix Islands access assumed; existing unassessed retained.
+
+## sight-ki-phoenix-islands-protected-area — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/KI/sights/phoenix-islands-protected-area.yaml) · **source-linked-unverified** · wildlife null → 9.8/10. UNESCO documents abundant marine predators, reef fauna, turtles and seabird colonies across the property. Comparable to Aldabra 9.8, above Belize 9.5 and New Caledonia 9.6, below Galápagos 9.9. No guaranteed encounter or unrestricted access.
+- Comparative context: Aldabra (9.8), Galápagos (9.9), Belize Barrier Reef (9.5), Banc d’Arguin (9.7): compare concentrated wildlife with breadth of habitats. Indexed source reviewed 2026-11-28: https://whc.unesco.org/en/list/1325
+- Core ratings and other fields unchanged; access restrictions not a penalty.

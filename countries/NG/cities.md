@@ -25,7 +25,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 9 | [Osogbo](cities/osogbo.yaml) | City / town | **78.15** | **Culture 8.7**, **History 8.2** | 7.5 / 8.1 / 8.1 / 7.8 / 7.5 | [7.766667, 4.566667](https://www.google.com/maps/search/?api=1&query=7.766667,4.566667) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Osogbo%2C%20Nigeria) |
 | 10 | [Ibadan](cities/ibadan.yaml) | City / town | **77.70** | **Culture 8.4**, **History 8.4** | 7.4 / 7.9 / 8.2 / 7.7 / 7.8 | [7.378, 3.906](https://www.google.com/maps/search/?api=1&query=7.378,3.906) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Ibadan%2C%20Nigeria) |
 | 11 | [Jos](cities/jos.yaml) | City / town | **76.45** | **Culture 8.1**, **History 8.0** | 7.4 / 7.9 / 7.8 / 7.6 / 7.5 | [9.917, 8.9](https://www.google.com/maps/search/?api=1&query=9.917,8.9) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Jos%2C%20Nigeria) |
-| 12 | [Port Harcourt](cities/port-harcourt.yaml) | City / town | **75.10** | — | 7.3 / 7.3 / 7.7 / 7.9 / 7.7 | [4.777, 7.013](https://www.google.com/maps/search/?api=1&query=4.777,7.013) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Harcourt%2C%20Nigeria) |
+| 12 | [Port Harcourt](cities/port-harcourt.yaml) | City / town | **75.10** | **Food 8.0**, **Culture 7.8** | 7.3 / 7.3 / 7.7 / 7.9 / 7.7 | [4.777, 7.013](https://www.google.com/maps/search/?api=1&query=4.777,7.013) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Port%20Harcourt%2C%20Nigeria) |
 
 ---
 

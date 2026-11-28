@@ -324,3 +324,20 @@ Core values I/U/S/E/D; editorial comparisons, not factual verification.
 - Final decision: provisional worldwide ranking on documented visitor scope; not independently verified.
 - Earlier decision: earlier entry for this ID, unranked. See [previous decision and sources](history-evidence-followup-2026-11-25.md).
 - Verification still needed: Town proper; exclude offshore islands and distant battlefields; verify museum hours.
+
+## city-pg-alotau — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/PG/cities/alotau.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.9, photography 7.7. Milne Bay port and local cultural setting; not the full bay or offshore islands.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 72.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-pg-kavieng — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/PG/cities/kavieng.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.5, photography 7.7. New Ireland coastal town, harbor and local life; separately ranked reefs excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

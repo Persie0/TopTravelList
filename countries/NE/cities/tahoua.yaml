@@ -10,4 +10,5 @@ scores:
   significance: 6.8
   experience: 7.3
   depth: 7.4
-  categories: {}
+  categories:
+    culture: 7.5

@@ -19,7 +19,7 @@ This is the **complete ranking for this country's available dataset**, using abs
 | 3 | [Antsiranana](cities/antsiranana.yaml) | City / town | **79.25** | **Architecture 8.2**, **Culture 8.2** | 7.9 / 8.1 / 7.8 / 8.0 / 7.7 | [-12.2787, 49.2917](https://www.google.com/maps/search/?api=1&query=-12.2787,49.2917) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Antsiranana%2C%20Madagascar) |
 | 4 | [Antsirabe](cities/antsirabe.yaml) | City / town | **79.10** | **Culture 8.4**, **Architecture 8.3** | 7.8 / 8.1 / 7.8 / 8.1 / 7.7 | [-19.866, 47.033](https://www.google.com/maps/search/?api=1&query=-19.866,47.033) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Antsirabe%2C%20Madagascar) |
 | 5 | [Morondava](cities/morondava.yaml) | City / town | **77.90** | **Culture 8.4**, **Beaches 8.2** | 7.7 / 8.0 / 7.5 / 8.2 / 7.5 | [-20.2833, 44.2833](https://www.google.com/maps/search/?api=1&query=-20.2833,44.2833) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Morondava%2C%20Madagascar) |
-| 6 | [Toamasina](cities/toamasina.yaml) | City / town | **75.75** | — | 7.4 / 7.5 / 7.8 / 7.8 / 7.5 | [-18.149, 49.402](https://www.google.com/maps/search/?api=1&query=-18.149,49.402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toamasina%2C%20Madagascar) |
+| 6 | [Toamasina](cities/toamasina.yaml) | City / town | **75.75** | **Culture 7.8**, **Food 7.8** | 7.4 / 7.5 / 7.8 / 7.8 / 7.5 | [-18.149, 49.402](https://www.google.com/maps/search/?api=1&query=-18.149,49.402) | [Google Maps](https://www.google.com/maps/search/?api=1&query=Toamasina%2C%20Madagascar) |
 
 ---
 

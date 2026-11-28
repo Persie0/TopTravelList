@@ -257,3 +257,11 @@
 - Verification still needed: exact representative point where provisional, access, remaining peer scores and claim-level evidence.
 
 - [Dated worldwide reassessment pass 51 — 2026-11-26](worldwide-deferred-pass51-2026-11-26.md)
+
+## city-sn-kedougou — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/SN/cities/kedougou.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.7. Southeastern regional town and community traditions; exclude surrounding waterfalls and parks.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

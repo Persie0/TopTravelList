@@ -655,3 +655,28 @@
 
 [UNESCO country inventory](https://whc.unesco.org/en/statesparties/ZW/) lists five inscribed and five tentative properties, all represented at property or component level. Mana Pools, Sapi and Chewore are distinct records. All four Chimanimani components now inventoried; the three reserves remain unassessed. Naletale satellite ruins remain outstanding (UNESCO names Nsalansala, Arupanga, Shangangwe, Bhila, Gwenaguru, Belmont and Lawdale; exact points not confirmed). Additional museums, Lake Kariba, individual Matobo rock-art sites, Bvumba and other regional attractions remain backlog. No exhaustive inventory or full component coverage claimed.
 
+## sight-zw-eland-sanctuary — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZW/sights/eland-sanctuary.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: wildlife 8.1, nature 8.3. Localized protected eland habitat; do not assume large or regularly observable herds.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Serengeti (Tanzania), Okavango (Botswana), Aldabra (Seychelles), Banc d’Arguin (Mauritania).
+- Core overall 79.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-zw-haroni-botanical-reserve — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZW/sights/haroni-botanical-reserve.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 7.0. Limited reserve profile and botanical habitat; conservative scope, no unverified intact forest claims.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 64.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-zw-rusitu-botanical-reserve — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/ZW/sights/rusitu-botanical-reserve.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 8.6. Distinctive botanical habitat and montane forest interest; no assumption of intact historic extent.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 78.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

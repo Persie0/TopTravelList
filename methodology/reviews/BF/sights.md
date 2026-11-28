@@ -1311,3 +1311,44 @@ Follow-up 2026-11-25: [UNESCO country register](https://whc.unesco.org/en/states
 ## Inventory coverage
 
 4/4 inscribed and 7/7 tentative UNESCO properties represented; all five metallurgy and five mosque components. Four of five rock-art component groups separately represented; Kawara coordinates malformed, individual Sahel localities and panels remain backlog. Kaboré Tambi and Deux Balé added, with legal terminology caveat. Five Ramsar designations represented at broad scope (W, Arly, Bala, Tengréla, Oursi); other designations and precise boundaries require review. Pô-Nazinga-Sissili is not equivalent to Nazinga alone. See https://www.ramsar.org/country-profile/burkina-faso. Independent claim-level verification remains incomplete.
+
+## sight-bf-arly-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/BF/sights/arly-national-park.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. A major WAP savanna component, but whole-complex mammal abundance cannot be attributed to Arly alone.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Indexed source reviewed 2026-11-28: https://www.unesco.org/en/mab/arly
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-bf-bala-hippopotamus-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/BF/sights/bala-hippopotamus-reserve.yaml) · **editorial-only** · wildlife null → 8.6/10. A localized hippopotamus-focused freshwater forest reserve; stronger animal interest than generic wetland, narrower than a major floodplain.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-bf-deux-bale-classified-forest — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/BF/sights/deux-bale-classified-forest.yaml) · **editorial-only** · wildlife null → 8.3/10. Woodland and savanna fauna potential, with no basis for assuming dense or consistently visible large mammals.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-bf-kabore-tambi-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/BF/sights/kabore-tambi-national-park.yaml) · **editorial-only** · wildlife null → 8.0/10. Dry woodland wildlife interest, without evidence of major concentrations comparable to WAP.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-bf-mare-d-oursi — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/BF/sights/mare-d-oursi.yaml) · **editorial-only** · wildlife null → 8.7/10. Sahelian waterbird and seasonal wetland appeal; narrower and more variable than a major coastal migration site.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-bf-w-national-park-burkina-faso — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/BF/sights/w-national-park-burkina-faso.yaml) · **source-linked-unverified** · wildlife null → 9.1/10. Burkina Faso's own component of WAP supports important savanna fauna; regional totals are not site-specific counts.
+- Comparative context: Serengeti (9.9), Maasai Mara (9.9), Etosha (9.8), Zakouma (9.7): better documented concentrations and breadth. Indexed source reviewed 2026-11-28: https://whc.unesco.org/en/list/749/
+- Core ratings and other fields unchanged; access restrictions not a penalty.

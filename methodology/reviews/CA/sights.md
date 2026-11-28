@@ -9382,3 +9382,29 @@ Ranking rows and allowed categories checked; independent factual, coordinate, pe
 - **Full Fundy Footpath — DEFERRED — PARENT SCOPE:** Existing Fundy Trail and Fundy National Park cover major portions; separate through-hike not scored until non-additive scope policy resolved.
 
 5 source-linked provisional additions, 3 90+, 10 domestic ranking-row comparisons. CA 381 ranked / 384 total; +310 since original 74. Bounded discovery queue from passes 221–238 closed, not exhaustive. Prior named deferrals assessed: five added with narrow scopes/access notes; nine non-additive or deferred scope/event decisions recorded. Existing three unassessed and scores retained. Reopen on concrete substantial omission or new scope evidence. Coordinates approximate; full Python validation, independent peer YAML/coordinate verification, international calibration and historical evidence labels pending.
+
+## sight-ca-hecate-strait-glass-sponge-reefs — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CA/sights/hecate-strait-glass-sponge-reefs.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.3, wildlife 8.6. Rare deep-water sponge reef formation of scientific significance; do not imply ordinary scuba access or count hypothetical encounters as actual.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6338
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 81.35/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ca-ivvavik-vuntut-herschel-island — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CA/sights/ivvavik-vuntut-herschel-island.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.4, wildlife 9.3, culture 8.9, photography 9.2. Large Arctic wilderness combines coastal plain, mountains, wetlands and island; wildlife scope is aggregate, Indigenous heritage distinct from assumed community access.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/1939/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 90.85/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-ca-sirmilik-tallurutiup-imanga — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CA/sights/sirmilik-tallurutiup-imanga.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: nature 9.5, wildlife 9.4, photography 9.4. Arctic fjords, marine and terrestrial ecosystems, glaciers and seasonal fauna; compare Svalbard, Ilulissat, Wrangel and South Georgia; not guaranteed sightings.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6340/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 90.95/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

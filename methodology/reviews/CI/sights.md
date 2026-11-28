@@ -638,3 +638,8 @@
 
 [UNESCO country inventory](https://whc.unesco.org/en/statesparties/ci/) lists five inscribed and two tentative properties, all represented. All eight serial mosque components are separate records; Mount Nimba limited to Ivorian sector. No duplicate mosque umbrella score. Additional sites including Dent de Man, Sassandra heritage, Grand-Béréby, Monogaga, museums and regional settlements remain backlog.
 
+## sight-ci-mount-nimba-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/CI/sights/mount-nimba-reserve.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Endemic montane fauna is exceptional; UNESCO's transboundary description is not evidence that every species or tool-using chimpanzee group occurs in the Ivorian sector or is observable.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://whc.unesco.org/en/list/155
+- Core ratings and other fields unchanged; access restrictions not a penalty.

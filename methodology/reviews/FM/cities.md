@@ -285,3 +285,29 @@ Core values are I/U/S/E/D. Existing qualitative comparisons are retained; these 
 FSM Legal Information System confirms the national government campus and three branches in Palikir (https://fsmlaw.org/fsm/, page inspected). Government's May 2025 convention-centre opening announcement (https://gov.fm/new-national-convention-center-officially-opens-advancing-the-fsms-position-as-regional-hub/, indexed excerpt) supports civic significance, not routine public visitor activities. Do not transfer Kolonia's legislature visitor program or Pohnpei's island attractions to Palikir. Retain 7.0 significance and null remaining core fields pending authoritative visitor scope; existing coordinate not independently corroborated.
 
 - [Dated worldwide reassessment pass 55 — 2026-11-26](worldwide-deferred-pass55-2026-11-26.md)
+
+## city-fm-palikir — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/FM/cities/palikir.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 6.9. Modest national administrative settlement; limited standalone cultural sightseeing.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 66.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-fm-tofol — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/FM/cities/tofol.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 6.8. Kosrae administrative settlement and local island life; exclude other island heritage sites.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 64.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-fm-weno — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/FM/cities/weno.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.2, photography 7.4. Lagoon-facing island town and local cultural life; no transfer of Chuuk wreck-diving ratings.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 69.25/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

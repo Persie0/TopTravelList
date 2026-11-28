@@ -312,3 +312,20 @@ Core values I/U/S/E/D; editorial comparisons, not independent factual verificati
 - Final decision: Retain without rank pending evidence.
 - Earlier decision: none.
 - Verification still needed: Confirm settlement name and representative point; do not transfer waterfall rating.
+
+## city-pw-mengellang — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/PW/cities/mengellang.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.6. Babeldaob village heritage and local setting; no whole-island nature credit.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 72.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-pw-ngardmau — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/PW/cities/ngardmau.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.4. Small Palauan village; separately ranked waterfall and trails excluded.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 71.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

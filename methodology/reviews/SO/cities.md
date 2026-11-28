@@ -313,3 +313,37 @@
 - Final decision: Partial assessment only; no invented total.
 - Verification still needed: precise location where provisional, access, claim-level sources and remaining peer scores.
 
+## city-so-baidoa — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/SO/cities/baidoa.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.5. Regional inland urban and market life; no claim of current events or admission.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 69.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-so-borama — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/SO/cities/borama.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.6. Regional highland town and cultural life, not outlying mountains.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 71.30/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-so-burao — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/SO/cities/burao.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.7. Regional trading and pastoral cultural context; modest standalone attraction breadth.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 71.25/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-so-kismayo — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/SO/cities/kismayo.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.8, photography 7.8. Indian Ocean port city and immediate coastal setting; no credit for remote marine sites.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 75.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

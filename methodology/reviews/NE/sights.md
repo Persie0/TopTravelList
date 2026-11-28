@@ -978,3 +978,30 @@ Initial worldwide V2 inventory. Sources consulted or linked 2026-11-25; not full
 ## UNESCO inventory backlog
 
 3/3 inscribed properties represented; 17/19 tentative properties represented at property level (16 distinct tentative records plus overlapping Aïr/Ténéré). Ounsolo pond and Niger River islands/valley remain outstanding because published coordinates are ambiguous; see https://whc.unesco.org/en/tentativelists/5051/ and https://whc.unesco.org/en/tentativelists/5053/. Additional cultural scope of Aïr/Ténéré and individual components of dispersed nominations require work. The national Termit–Tin Toumma reserve is not assumed equivalent to Termit massif; see https://ne.chm-cbd.net/en/protected-areas/termit-and-tin-toumma-national-nature-reserve-rnntt. No current travel recommendation.
+
+## sight-ne-air-tenere-natural-reserves — 2026-11-28 wildlife category completion
+
+- [YAML](../../../countries/NE/sights/air-tenere-natural-reserves.yaml) · Action: complete explicitly applicable category · **source-linked-unverified** (conservative editorial rating; no claim of comprehensive factual verification).
+- Wildlife: null → **8.0/10**. UNESCO's property description identifies important Saharan antelope habitats, but the wider biosphere profile reports low populations of several threatened species, including addax and gazelles. Habitat significance is not evidence of abundant current wildlife. Relative to Etosha (NA, 9.8), Zakouma (TD, 9.7), Okavango (BW, 9.9), and Serengeti (TZ, 9.9), the desert fauna is far less concentrated and dependable; 8.0 is a conservative estimate of intrinsic wildlife appeal, not a closure penalty or a population claim. The World Heritage property page returned HTTP 403 when opened; its indexed excerpt and the full biosphere page support this limited assessment.
+- Evidence (2026-11-28): https://whc.unesco.org/en/list/573 ; https://www.unesco.org/en/mab/air-et-tenere. Peer values were read from current repository YAML at the parent commit; peer ratings themselves were not independently recalibrated.
+- All core scores, other categories, names and coordinates are unchanged. No access-related scoring penalty and no new perfect score.
+
+## sight-ne-agadez-protected-forests — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/NE/sights/agadez-protected-forests.yaml) · **editorial-only** · wildlife null → 7.6/10. Dryland forest habitat and specialized fauna potential; no verified wildlife concentrations across the loosely grouped forests.
+- Comparative context: Aïr and Ténéré (8.0), Etosha (9.8), Zakouma (9.7), Serengeti (9.9): compare specialized dryland fauna with documented concentrations. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ne-gadabedji-wildlife-reserve — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/NE/sights/gadabedji-wildlife-reserve.yaml) · **editorial-only** · wildlife null → 8.2/10. Sahelian dryland wildlife restoration interest, without crediting unverified present herds or historic abundance.
+- Comparative context: Aïr and Ténéré (8.0), Etosha (9.8), Zakouma (9.7), Serengeti (9.9): compare specialized dryland fauna with documented concentrations. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-ne-lake-chad-niger-sector — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/NE/sights/lake-chad-niger-sector.yaml) · **editorial-only** · wildlife null → 8.6/10. Lake and seasonal floodplain fauna potential, limited to Niger's sector and variable hydrology; no basin-wide abundance assumed.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.

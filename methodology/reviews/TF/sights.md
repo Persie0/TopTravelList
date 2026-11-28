@@ -321,3 +321,10 @@ No numerical score or evidence-status changes made by this pass.
 - Overall: 87.10/100.
 - Decision: Fast editorial assessment below 90; no 9.5+ fields. Temporary access excluded from intrinsic score; rating does not imply access authorization.
 - Verification pending: factual/coordinate checks and full Python validation.
+
+## sight-tf-austral-lands — French Austral Lands and Seas — 2026-11-28 post-merge high-score scope check
+
+- Action: source/scope check only · **source-linked-unverified**. [YAML](../../../countries/TF/sights/austral-lands.yaml).
+- Sources inspected 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/1603/) confirms the subantarctic archipelagos and globally important bird and marine mammal populations. [TAAF](https://taaf.fr/acceder-aux-territoires/demandes-dactivites-et-dacces/acces-et-mouillage-dans-les-australes/) distinguishes exceptional access permission from protected zones. Intrinsic ecology supports high impact, uniqueness, significance, nature and wildlife; experience and depth remain provisional without a documented ordinary multi-island itinerary. Do not assume unrestricted visits or sightings. Access restrictions are separate from quality.
+- Qualitative peer leads: South Georgia has comparable subantarctic wildlife; Galapagos has globally distinctive island ecology with a different visitor context; Macquarie Island is narrower; New Zealand Subantarctic Islands offer a comparable multi-island ecological scope. Peer scores not independently rechecked.
+- Current I/U/S/E/D: 9.7 / 9.5 / 9.5 / 9.1 / 9.6; overall 95.10. Nature and wildlife 9.6 remain provisional. No numerical changes or new perfect scores. Full calibration and coordinates remain open.

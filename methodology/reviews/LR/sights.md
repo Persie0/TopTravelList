@@ -510,3 +510,30 @@ Follow-up 2026-11-25: seven formerly unlinked records supplemented across both r
 - High-score challenge: Not applicable. No approved 10.
 - Evidence: [Ramsar](https://www.ramsar.org/es/node/8309) and [Liberia EPA](https://epa.gov.lr/epa-celebrates-world-wetlands-day-2025-calls-for-stronger-protection-measures/) confirm designation and geography, checked 2026-11-25. Not full independent verification.
 - Remaining gaps: visitor access, seasonal wildlife observation, GPS extent, closer mangrove peers. Do not add the separate boat-route score.
+
+## sight-lr-gola-rainforest-national-park-liberia — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/LR/sights/gola-rainforest-national-park-liberia.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Liberian forest component supports threatened primates and other rainforest fauna; do not inherit Sierra Leone's counts or all of the transboundary forest.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://iucnsos.org/projects/protecting-threatened-species-in-the-gola-forest/
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-lr-grebo-krahn-national-park — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/LR/sights/grebo-krahn-national-park.yaml) · **source-linked-unverified** · wildlife null → 9.2/10. Documented threatened chimpanzees, duikers, forest elephants and pygmy hippos support high diversity, with secretive species limiting reliable encounters.
+- Comparative context: Bwindi (9.8), Volcanoes (9.9), Lopé (9.3), Loango (9.7): compare animal diversity and documented observation potential. Indexed source reviewed 2026-11-28: https://apesatlas.iucnapesportal.org/index.php/Grebo-Krahn_National_Park
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-lr-marshall-wetlands-ramsar-area — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/LR/sights/marshall-wetlands-ramsar-area.yaml) · **editorial-only** · wildlife null → 8.6/10. Coastal wetland and estuarine bird/aquatic habitat interest; no assumption of globally exceptional animal concentrations.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.
+
+
+## sight-lr-mesurado-wetlands — 2026-11-28 wildlife completion
+
+- [YAML](../../../countries/LR/sights/mesurado-wetlands.yaml) · **editorial-only** · wildlife null → 8.0/10. Urban-edge mangrove and estuarine wildlife potential with a more limited natural setting than expansive coastal protected wetlands.
+- Comparative context: Okavango (9.9), Banc d’Arguin (9.7), Bijagós (9.7), Sudd (9.7, this batch): wider or more exceptional wetland fauna. Desk-based editorial estimate; no independent source or population verification.
+- Core ratings and other fields unchanged; access restrictions not a penalty.

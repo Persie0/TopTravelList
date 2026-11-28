@@ -312,3 +312,28 @@
 - Final decision: Partial assessment only, no overall score.
 - Verification still needed: exact site location where provisional, permitted access, remaining peer scores and claim-level evidence.
 
+## city-ci-bouake — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CI/cities/bouake.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.6. Central commercial city and everyday market culture; no unverified festival credit.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ci-daloa — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CI/cities/daloa.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.4. Regional market and trading-city culture with limited monumental scope.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 70.70/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## city-ci-san-pedro — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/CI/cities/san-pedro.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: culture 7.4, beaches 7.8. Port and immediate coastal setting; no credit for more distant resort beaches.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Kyoto (Japan), Luang Prabang (Laos), Fez (Morocco), Oaxaca (Mexico).
+- Core overall 73.55/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

@@ -1716,3 +1716,74 @@ Peer links and dimensions matched to current ranking rows; individual YAML check
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 editorial assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-tn-cretaceous-tertiary-boundary — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TN/sights/cretaceous-tertiary-boundary.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 8.9. Geologically important stratotype; scientific value exceeds immediate visual spectacle.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 82.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-tn-el-mekta — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TN/sights/el-mekta.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.0. Capsian archaeological testimony, no implication of extensive standing monuments.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 79.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-tn-gabes-oasis — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TN/sights/gabes-oasis.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 8.8, culture 8.8, photography 8.6. Coastal oasis ecology and traditional cultivation; no assumed pristine surrounding environment.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 83.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-tn-jebel-tebaga — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TN/sights/jebel-tebaga.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.0. Marine Permian geological record and terrain, assessed for earth-history interest rather than wildlife.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 84.00/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-tn-numidian-royal-mausoleums — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TN/sights/numidian-royal-mausoleums.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.4, architecture 9.0. Serial funerary monuments and Numidian history; no inflated scope from unrelated Roman cities.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 87.25/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-tn-southern-ksour-troglodyte-habitat — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TN/sights/southern-ksour-troglodyte-habitat.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: architecture 9.4, culture 9.3, photography 9.2. Collective granaries and vernacular underground dwellings demonstrate adaptation to arid settings; compare Matera, Bandiagara, Aït Benhaddou and Cappadocia.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6444/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Angkor (Cambodia), Philae (Egypt), Teotihuacan (Mexico), Matera (Italy).
+- Core overall 91.45/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-tn-southern-tunisia-roman-limes — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TN/sights/southern-tunisia-roman-limes.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.3, architecture 8.6. Frontier forts and military landscape, distinguish dispersed surviving remains from full Roman frontier.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 85.40/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-tn-zaghouan-carthage-hydraulic-complex — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/TN/sights/zaghouan-carthage-hydraulic-complex.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.4, architecture 9.2. Roman hydraulic engineering and water infrastructure, not every Carthage monument.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 89.15/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

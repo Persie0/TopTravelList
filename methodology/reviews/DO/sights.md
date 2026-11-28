@@ -1208,3 +1208,92 @@ Initial inventory, not exhaustive. [UNESCO country list](https://whc.unesco.org/
 - Final decision: Retain named component unranked pending visit evidence.
 - Earlier decision: none.
 - Verification still needed: Geographic check, current condition and permitted access.
+
+## sight-do-azua-de-compostela-ruins — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/azua-de-compostela-ruins.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.6, architecture 7.2. Early colonial settlement archaeology, modest surviving structural extent.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 74.00/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-boca-de-nigua-sugar-mill — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/boca-de-nigua-sugar-mill.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.0, architecture 8.0. Sugar production and slavery heritage represented by mill remains; no intact industrial operation assumed.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 78.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-diego-caballero-sugar-mill — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/diego-caballero-sugar-mill.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.6, architecture 7.4. Early colonial industrial archaeology, narrower surviving fabric than larger mill complexes.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 74.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-jacagua-villa-santiago — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/jacagua-villa-santiago.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.7, architecture 7.3. Historic settlement remains and early colonial urban origins, limited visible masonry.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 74.75/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-la-duquesa-sugar-mill — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/la-duquesa-sugar-mill.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.8, architecture 8.0. Historic sugar estate structures and labor heritage, modest industrial monument scale.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 79.55/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-palave-sugar-mill — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/palave-sugar-mill.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.8, architecture 8.2. Colonial sugar architecture and estate history, stronger built heritage than fragmentary ruins.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 80.00/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-prehispanic-rock-art — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/prehispanic-rock-art.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.3, culture 9.1, photography 8.5. Indigenous rock-art corpus and visual motifs, not an assumption of access to every cave.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 88.05/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-pueblo-viejo-la-vega — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/pueblo-viejo-la-vega.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 9.0, architecture 7.9. Early colonial town archaeology with historical park context, not a reconstructed complete city.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 78.60/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-sanate-sugar-mill — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/sanate-sugar-mill.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: history 8.6, architecture 7.8. Sugar-industry remains and regional colonial heritage; no unverified operating machinery.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Pompeii (Italy), Angkor (Cambodia), Giza (Egypt), Tikal (Guatemala).
+- Core overall 77.10/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-do-silver-and-navidad-banks-sanctuary — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/DO/sights/silver-and-navidad-banks-sanctuary.yaml) · **source-linked-unverified** · Action: complete category profile.
+- Assigned: wildlife 9.6, nature 9.3. Exceptional seasonal humpback breeding concentrations; compare Tonga, Hervey Bay, Peninsula Valdés and Maui, without promising close encounters or blanket access.
+- Indexed source excerpts reviewed 2026-11-28: https://whc.unesco.org/en/tentativelists/6293/
+- Qualitative comparison leads for the primary category (not individually recalibrated): Serengeti (Tanzania), Okavango (Botswana), Aldabra (Seychelles), Banc d’Arguin (Mauritania).
+- Core overall 91.90/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.

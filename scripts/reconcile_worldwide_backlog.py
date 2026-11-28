@@ -133,6 +133,8 @@ def outputs(records, historical):
         f"- Complete records historically labeled deferred or retain unranked: **{len(stale):,}**", "",
         "Use [remaining.tsv](remaining.tsv) as the current research queue.",
         "Use [original-inventory.tsv](original-inventory.tsv) to reconcile historical labels.",
+        "Use [historical-deferral-review.tsv](historical-deferral-review.tsv) for completed records with historical deferrals, ordered by descending current score.",
+        "This is a triage list, not a determination that the current evidence status is stale or incorrect.",
         "The latter does not change historical review decisions or certify public access.", "",
         "## Remaining by area", "", "| Area | Incomplete |", "| --- | ---: |",
     ]
@@ -149,7 +151,8 @@ def outputs(records, historical):
         return stream.getvalue()
     return {"README.md": "\n".join(lines) + "\n",
             "remaining.tsv": tsv(pending),
-            "original-inventory.tsv": tsv(original)}
+            "original-inventory.tsv": tsv(original),
+            "historical-deferral-review.tsv": tsv(sorted(stale, key=lambda row: (-Decimal(row["overall"]), row["source"])))}
 
 
 def main():

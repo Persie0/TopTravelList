@@ -1310,3 +1310,34 @@ Added six public components of Cultural Triangle, Peace/National Identity, Green
 
 ### Further component coverage (2026-11-25)
 CONAP confirms ordinary guided Naranjo access and Topoxté boat visits. Topoxté is a distinct public national park component, not asserted to be a separate UNESCO tentative nomination. Remaining route components are still in the coverage register.
+
+## sight-gt-cuenca-mirador — Cuenca Mirador — 2026-11-28 post-merge 93+ scope check
+
+- [YAML](../../../countries/GT/sights/cuenca-mirador.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [Guatemala tentative submission](https://whc.unesco.org/en/tentativelists/1753) identifies the northern Petén basin within the Maya Biosphere Reserve, submitted in 2002; [UNESCO mission summary](https://whc.unesco.org/en/activities/418/) confirms the El Mirador nomination context. This is not an inscribed World Heritage property. Significance 9.5 and impact/uniqueness are provisional for archaeological basin and forest; the exact full extent and visible remains need detailed checking. Experience/depth cannot assume access to all sites. Empty categories merit separate history/nature assessment.
+- Qualitative comparison leads (peer YAML ratings not independently checked): Tikal (Guatemala): established archaeological ensemble; Calakmul (Mexico): forested Maya site; Caracol (Belize): narrower ruins; Angkor (Cambodia): broader monumental heritage benchmark.
+- Current I/U/S/E/D: 9.4 / 9.4 / 9.5 / 9.1 / 9.4; overall 93.75/100. All ratings retained provisionally; no coordinate or category changes. This limited review is not full international calibration or verification of current access.
+
+## sight-gt-cuenca-mirador — 2026-11-28 category profile completion
+
+- [YAML](../../../countries/GT/sights/cuenca-mirador.yaml) · Action: assess previously empty category profile · **source-linked-unverified**.
+- Categories assigned: architecture 9.2, history 9.6, nature 9.0. The 2002 mixed tentative nomination describes early Maya settlements, monumental architectural groups, road networks and painted tombs within the Maya Biosphere Reserve. Architecture 9.2 is below better-exposed Tikal 9.5, Calakmul 9.3, Teotihuacan 9.7 and Angkor 10.0. History 9.6 matches Tikal, above Calakmul 9.5, below Teotihuacan 9.7 and Angkor 10.0. Nature 9.0 recognizes forest setting, below Tikal 9.2 and Calakmul 9.4; the nomination does not justify credit for the entire reserve or speculative fauna. Tentative status is not inscription.
+- Evidence checked 2026-11-28: https://whc.unesco.org/en/tentativelists/1753/. Named comparison values read from repository YAML at the parent commit. Scores are individual editorial estimates, not claims that UNESCO rates attractions numerically.
+- Existing core ratings, coordinates and names unchanged. Inapplicable or unsupported optional categories omitted; no explicit nulls introduced and no new perfect score.
+
+## sight-gt-sierra-de-las-minas — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/GT/sights/sierra-de-las-minas.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.3, wildlife 9.0, photography 9.0. Cloud forest and mountain biodiversity; no guarantee of rare bird encounters.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 89.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
+
+
+## sight-gt-sierra-del-lacandon — 2026-11-28 empty category profile completion
+
+- [YAML](../../../countries/GT/sights/sierra-del-lacandon.yaml) · **editorial-only** · Action: complete category profile.
+- Assigned: nature 9.2, wildlife 9.0. Tropical forest and river landscape biodiversity, without inheriting distant Maya ruins.
+- Desk-based provisional judgment, no independent factual verification.
+- Qualitative comparison leads for the primary category (not individually recalibrated): Galapagos (Ecuador), Namib Sand Sea (Namibia), Plitvice (Croatia), Cocos Island (Costa Rica).
+- Core overall 89.80/100 retained; all other fields unchanged. Unselected categories are not asserted applicable. No current access or encounter guarantee.
