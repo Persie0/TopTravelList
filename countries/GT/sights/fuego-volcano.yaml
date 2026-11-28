@@ -1,0 +1,15 @@
+id: sight-gt-fuego-volcano
+name: "Fuego Volcano Eruptive Landscape"
+location:
+  country_code: GT
+  latitude: 14.4748
+  longitude: -90.8806
+scores:
+  impact: 9.7
+  uniqueness: 9.5
+  significance: 9.0
+  experience: 8.3
+  depth: 7.2
+  categories:
+    nature: 9.5
+    photography: 9.6

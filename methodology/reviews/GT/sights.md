@@ -1495,3 +1495,182 @@ Six new cultural events assessed using official UNESCO, government and tourism s
 - High-score challenge: Below 90 overall. No 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: exact venue, current peer YAML and full diagnostics; public programming and future dates not guaranteed.
+
+# Pass 394 — 2026-11-28 — direct main continuation
+
+Seven new geological and mountain attractions, four fact-checked and three provisional source-linked. JS inventory, formula, coordinate range, uniqueness, ranking and README checks only. Full Python validation/benchmark scripts and Actions not run. Fuego is a natural feature, not an authorized ascent; existing Acatenango review explicitly already includes permitted Fuego views, so no additional route/camp credit. Santa María–Santiaguito one complex, no restricted dome access credited. All volcano summit pins represent the landform, not navigation or safe access. Current official restrictions and alerts take precedence over ratings.
+
+## sight-gt-fuego-volcano — Fuego Volcano Eruptive Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/fuego-volcano.yaml)
+- Action: new
+- Precise subject: Active volcanic landform observed from lawful distant locations; excludes Acatenango trekking and all restricted summit approaches. Coordinates identify the subject, NOT a visitor access point.
+- Location check: Smithsonian summit location (not a safe destination pin).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Smithsonian GVP https://volcano.si.edu/volcano.cfm?vn=342090 (search excerpts, direct open timed out: activity and morphology); National Geographic https://www.nationalgeographic.com/travel/article/safely-hike-acatenango-volcano-guatemala (excerpt: eruption views); AGN https://agn.gt/ascenso-al-volcan-de-fuego-permanece-restringido (opened: August 9 2026 ascent prohibition); CONRED https://conred.gob.gt/fuego-y-santiaguito-registran-explosiones-pacaya-mantiene-desgasificacion/ (excerpt: September explosive activity).
+- Worldwide peers (qualitative; current peer YAML not inspected except existing Acatenango):
+  - Stromboli (IT): similarly active iconic volcano, different maritime setting.
+  - Yasur (VU): frequent eruptive spectacle, different crater setting.
+  - Etna (IT): greater geological landscape breadth and cultural heritage.
+  - Acatenango (GT): existing trek already credits views of Fuego; Fuego rating excludes that route and its camping.
+- Individual scores:
+  - impact: 9.7 — Frequent visible eruptions above a steep cone create rare visual impact.
+  - uniqueness: 9.5 — Sustained activity and prominent stratovolcano silhouette justify exceptional rarity, though Stromboli and Yasur are comparable.
+  - significance: 9.0 — Major active Central American volcano with substantial scientific relevance.
+  - experience: 8.3 — Distant lawful observation can be extraordinary but weather and eruption variability limit the experience.
+  - depth: 7.2 — Observation-only scope lacks the multi-day trek depth of Acatenango; no prohibited access credited.
+- Categories: nature 9.5, photography 9.6.
+- Overall: 90.50/100.
+- High-score challenge: Impact 9.7 and photography 9.6 reflect the exceptional combination of recurrent explosive activity and prominent cone silhouette; uniqueness and nature 9.5 reflect rare sustained volcanic activity compared with Stromboli, Yasur and Etna. No score for prohibited access; depth and experience constrained to observation. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current safe and lawful viewing options, exact route/venue where applicable, current peer YAML and full diagnostics. No access or eruption guarantees.
+
+## sight-gt-santa-maria-santiaguito — Santa María and Santiaguito Volcanic Complex — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/santa-maria-santiaguito.yaml)
+- Action: new
+- Precise subject: One volcanic system including Santa María mountain and distant views of its Santiaguito domes; excludes prohibited dome approaches.
+- Location check: Approximate Smithsonian Santa María representative summit point, not entry location.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Smithsonian GVP https://volcano.si.edu/volcano.cfm?vn=342030 (opened: active dome, lava extrusion and ash events); INGUAT https://visitguatemala.gt/en/blog/what-see-do-santiaguito-volcano-guatemala/ (opened: observation from distance and viewpoints); https://visitguatemala.gt/en/blog/what-see-do-santa-maria-volcano/ (excerpt: separate Santa María hiking); INSIVUMEH August bulletin https://insivumeh.gob.gt/wp-content/uploads/2026/08/BVD-2026-08-03.pdf (search excerpt only: dome restriction, no access implied).
+- Worldwide peers (qualitative; current peer YAML not inspected except existing Acatenango):
+  - Etna (IT): much broader active volcanic landscape and scientific heritage.
+  - Mount St. Helens (US): similarly striking historic eruption landforms.
+  - Mount Bromo (ID): comparable active-volcano panorama with different caldera setting.
+  - Pacaya (GT): easier focused volcanic excursion, less dramatic dome-and-summit system.
+- Individual scores:
+  - impact: 9.3 — Steep mountain and active dome landscape are visually striking.
+  - uniqueness: 9.2 — Long-active dome complex below a large eruption scar is unusual.
+  - significance: 9.0 — Major historic eruption and continuing volcanic processes support international geological significance.
+  - experience: 8.9 — Permitted distant observation and mountain scenery are rewarding without access to domes.
+  - depth: 8.7 — Multiple perspectives and substantial geology provide breadth, with visibility and safety constraints.
+- Categories: nature 9.3, photography 9.4, adventure 9.1.
+- Overall: 90.95/100.
+- High-score challenge: Documented active dome complex, historic eruptive landscape and separate mountain perspectives justify high geological and scenic scores; below Etna for breadth. No 9.5+ fields. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current safe and lawful viewing options, exact route/venue where applicable, current peer YAML and full diagnostics. No access or eruption guarantees.
+
+## sight-gt-tajumulco-volcano — Tajumulco Volcano — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/tajumulco-volcano.yaml)
+- Action: new
+- Precise subject: Highest Central American mountain ascent and summit panorama; no neighboring volcano excursions.
+- Location check: Approximate Smithsonian/official tourism summit locality.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: Smithsonian GVP https://volcano.si.edu/volcano.cfm?vn=342020 (opened: highest Central American volcano and two summits); INGUAT https://visitguatemala.gt/destinos-naturales/volcan-tajumulco/ (opened: approximately 4,220 m and hiking). Elevation varies by reference datum, no exact height used in scores.
+- Worldwide peers (qualitative; current peer YAML not inspected except existing Acatenango):
+  - Kilimanjaro (TZ): far higher prominence and more varied multi-day ecological ascent.
+  - Mount Fuji (JP): greater global cultural symbolism and recognizability.
+  - Cerro Chirripó (CR): comparable regional high-mountain trek, lower elevation.
+  - Acatenango (GT): greater active-volcano spectacle but lower summit elevation.
+- Individual scores:
+  - impact: 9.1 — Extensive high-altitude summit panorama and sunrise provide strong impact.
+  - uniqueness: 8.5 — Regional highest peak is distinctive, but similar summit treks exist worldwide.
+  - significance: 8.7 — Regional topographic significance, moderate global cultural significance.
+  - experience: 9.0 — Strenuous hiking and summit achievement offer high adventure value.
+  - depth: 8.7 — Highland ascent and different landscape zones provide sustained exploration.
+- Categories: nature 9.0, adventure 9.2, photography 9.2.
+- Overall: 88.15/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current safe and lawful viewing options, exact route/venue where applicable, current peer YAML and full diagnostics. No access or eruption guarantees.
+
+## sight-gt-chicabal-sacred-crater-lake — Chicabal Volcano and Sacred Crater Lake — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/chicabal-sacred-crater-lake.yaml)
+- Action: new
+- Precise subject: Cloud-forest crater lake and respectful public visitation; excludes private rituals and access to restricted ceremonial areas.
+- Location check: Approximate lake point from https://latitude.to/articles-by-country/gt/guatemala/202532/chicabal-lake (excerpt).
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-volcanes-paisaje-y-cultura-altiplano/zona-de-veda-definitiva-volcan-chicabal/ (opened: sacred lake, visitor trail); CONAP visitor management plan https://conap.gob.gt/wp-content/uploads/2019/08/PGMV_Chicabal.pdf (search excerpt only: regulated ceremonial altars and visitor activities).
+- Worldwide peers (qualitative; current peer YAML not inspected except existing Acatenango):
+  - Lake Toba (ID): much larger volcanic lake and broad cultural landscape.
+  - Kawah Ijen (ID): greater geological rarity and visual extremes.
+  - Lake Guatavita (CO): comparable sacred lake with distinct cultural history.
+  - Laguna de Alegría (SV): comparable crater lake, less living ceremonial significance.
+- Individual scores:
+  - impact: 8.8 — Misty forest crater and lake make a memorable atmospheric landscape.
+  - uniqueness: 9.2 — Living Maya sacred landscape combined with a crater lake is distinctive.
+  - significance: 9.1 — Importance to Maya spirituality supports strong cultural significance.
+  - experience: 8.7 — Trail and permitted lake views are rewarding without assuming ritual participation.
+  - depth: 8.6 — Forest, geology and cultural context offer meaningful depth at a concentrated site.
+- Categories: nature 9.1, culture 9.3, photography 9.0, adventure 8.6.
+- Overall: 89.25/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current safe and lawful viewing options, exact route/venue where applicable, current peer YAML and full diagnostics. No access or eruption guarantees.
+
+## sight-gt-hoyo-el-cimarron — Hoyo El Cimarrón Forest Sinkhole — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/hoyo-el-cimarron.yaml)
+- Action: new
+- Precise subject: Sinkhole rim scenery and lawful approach only; no descent or specialized cave exploration assumed.
+- Location check: Mapcarta https://mapcarta.com/W857004865 (opened: mapped sinkhole coordinates).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: Diario de Centro América https://dca.gob.gt/noticias-guatemala-diario-centro-america/el-cimarron-la-selva-oculta-en-el-abismo/ (excerpt: limestone collapse and forest bottom; direct fetch blocked); INGUAT geotourism map https://biblioteca.inguat.gob.gt/Digital/Doctos%20virtuales/Mapa%20guia%20geoturismo%20Guatemala.pdf (excerpt: forested sinkhole, approximate depth); https://www.guatemala.com/aprende/historia/geografia/el-cimarron-en-huehuetenango-guatemala (excerpt: formation).
+- Worldwide peers (qualitative; current peer YAML not inspected except existing Acatenango):
+  - Xiaozhai Tiankeng (CN): much larger world-leading sinkhole.
+  - Sima de las Cotorras (MX): comparable forested limestone sinkhole.
+  - Dean's Blue Hole (BS): visually striking but submerged sinkhole, different visit.
+  - Semuc Champey (GT): broader recreational karst landscape.
+- Individual scores:
+  - impact: 9.1 — Large circular abyss and forested floor create powerful visual impact.
+  - uniqueness: 9.0 — Forested collapse sinkholes are uncommon but several larger examples exist.
+  - significance: 8.1 — Regional karst significance without assuming worldwide geological records.
+  - experience: 8.2 — Rim observation is rewarding but safety and single-view scope constrain it.
+  - depth: 7.6 — Short approach and views offer limited breadth; no descent assumed.
+- Categories: nature 9.1, photography 9.2, adventure 8.3.
+- Overall: 85.90/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current safe and lawful viewing options, exact route/venue where applicable, current peer YAML and full diagnostics. No access or eruption guarantees.
+
+## sight-gt-san-pedro-volcano — San Pedro Volcano — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/san-pedro-volcano.yaml)
+- Action: new
+- Precise subject: Distinct summit and forest hiking, not Lake Atitlán's general lakeshore experience.
+- Location check: Approximate summit coordinates from USAC thesis table excerpt https://biblio.ingenieria.usac.edu.gt/tesis18/T14598.pdf.
+- Evidence status: fact-checked
+- Sources inspected 2026-11-28: CONAP https://turismo-sigap.conap.gob.gt/rutas-turisticas/ruta-de-volcanes-paisaje-y-cultura-altiplano/cuenca-del-lago-de-atitlan-volcan-san-pedro/ (opened: visitor center, altitude, montane and cloud forest, threatened horned guan); Smithsonian https://volcano.si.edu/volcano.cfm?vn=342810 (excerpt: volcanic morphology).
+- Worldwide peers (qualitative; current peer YAML not inspected except existing Acatenango):
+  - Mount Batur (ID): comparable lake and volcano summit views, stronger active-volcano tourism.
+  - Mount Hallasan (KR): broader protected summit ecosystem.
+  - Mount Rinjani (ID): far more dramatic crater landscape and greater trek depth.
+  - Santa Ana Volcano (SV): stronger crater spectacle.
+- Individual scores:
+  - impact: 8.8 — Lake panorama and montane setting offer strong scenic impact.
+  - uniqueness: 8.4 — Lakeside volcano ascent is attractive but comparable elsewhere.
+  - significance: 8.2 — Protected forest and threatened species habitat have significant regional value.
+  - experience: 8.7 — Summit hike and forest route are rewarding; wildlife sightings not guaranteed.
+  - depth: 8.4 — Multiple elevation zones provide good depth for a focused hike.
+- Categories: nature 8.9, photography 9.1, adventure 9.0, wildlife 8.6.
+- Overall: 85.25/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current safe and lawful viewing options, exact route/venue where applicable, current peer YAML and full diagnostics. No access or eruption guarantees.
+
+## sight-gt-juan-dieguez-olaverri-viewpoint — Juan Diéguez Olaverri Cuchumatanes Viewpoint — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/juan-dieguez-olaverri-viewpoint.yaml)
+- Action: new
+- Precise subject: Named roadside highland viewpoint only; no score for entire Cuchumatanes range.
+- Location check: Mapcarta https://mapcarta.com/es/N5564997521 (opened: viewpoint coordinates).
+- Evidence status: source-linked-unverified
+- Sources inspected 2026-11-28: https://www.guatemala.com/aprende/historia/geografia/mirador-juan-dieguez-olaverri-huehuetenango (excerpt: mountain views and poet association); https://www.guatemala.com/guias/noticias-turisticas/como-llegar-al-mirador-juan-dieguez-olaverri (excerpt: road viewpoint).
+- Worldwide peers (qualitative; current peer YAML not inspected except existing Acatenango):
+  - Mirador de los Cóndores (AR): more dramatic Patagonian terrain.
+  - Doi Inthanon viewpoints (TH): comparable highland panoramas in different vegetation.
+  - Mirador Cruz del Cóndor (PE): greater canyon and wildlife spectacle.
+  - Cerro Eramón (SV): comparable regional landscape panorama, longer hiking scope.
+- Individual scores:
+  - impact: 8.3 — Broad highland vista is memorable.
+  - uniqueness: 7.8 — Roadside mountain panoramas are globally common.
+  - significance: 7.5 — Local literary association and regional landscape importance.
+  - experience: 8.3 — Accessible viewing offers an attractive brief stop.
+  - depth: 7.0 — Single viewpoint limits exploration breadth.
+- Categories: photography 9.0, nature 8.6, relaxation 8.2.
+- Overall: 78.85/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: current safe and lawful viewing options, exact route/venue where applicable, current peer YAML and full diagnostics. No access or eruption guarantees.

@@ -1,0 +1,16 @@
+id: sight-gt-hoyo-el-cimarron
+name: "Hoyo El Cimarrón Forest Sinkhole"
+location:
+  country_code: GT
+  latitude: 16.00365
+  longitude: -91.70924
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.1
+  experience: 8.2
+  depth: 7.6
+  categories:
+    nature: 9.1
+    photography: 9.2
+    adventure: 8.3

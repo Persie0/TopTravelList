@@ -1,0 +1,16 @@
+id: sight-gt-tajumulco-volcano
+name: "Tajumulco Volcano"
+location:
+  country_code: GT
+  latitude: 15.043
+  longitude: -91.903
+scores:
+  impact: 9.1
+  uniqueness: 8.5
+  significance: 8.7
+  experience: 9.0
+  depth: 8.7
+  categories:
+    nature: 9.0
+    adventure: 9.2
+    photography: 9.2
