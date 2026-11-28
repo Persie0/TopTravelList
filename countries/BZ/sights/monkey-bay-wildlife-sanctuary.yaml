@@ -1,0 +1,16 @@
+id: sight-bz-monkey-bay-wildlife-sanctuary
+name: "Monkey Bay Wildlife Sanctuary"
+location:
+  country_code: BZ
+  latitude: 17.3123
+  longitude: -88.5573
+scores:
+  impact: 7.9
+  uniqueness: 8.0
+  significance: 8.4
+  experience: 8.1
+  depth: 8.3
+  categories:
+    nature: 8.7
+    wildlife: 8.7
+    family: 8.0

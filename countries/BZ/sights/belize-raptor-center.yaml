@@ -1,0 +1,16 @@
+id: sight-bz-belize-raptor-center
+name: "Belize Raptor Center"
+location:
+  country_code: BZ
+  latitude: 17.13333
+  longitude: -89.05865
+scores:
+  impact: 7.5
+  uniqueness: 7.7
+  significance: 8.1
+  experience: 8.2
+  depth: 7.5
+  categories:
+    wildlife: 8.7
+    family: 8.4
+    nature: 8.0

@@ -1,0 +1,16 @@
+id: sight-bz-honey-camp-lagoon
+name: "Honey Camp Lagoon"
+location:
+  country_code: BZ
+  latitude: 18.043308
+  longitude: -88.438353
+scores:
+  impact: 7.3
+  uniqueness: 7.1
+  significance: 7.0
+  experience: 7.8
+  depth: 7.2
+  categories:
+    nature: 8.0
+    relaxation: 8.2
+    photography: 7.8

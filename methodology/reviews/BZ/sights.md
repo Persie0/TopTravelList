@@ -3023,3 +3023,228 @@ Nine additions, one researched fact-checked high-score decision and eight provis
 - High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: complete source triangulation, precise geographic location and access, worldwide Python checks.
+
+## sight-bz-corozal-bay-wildlife-sanctuary — Corozal Bay Wildlife Sanctuary — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/corozal-bay-wildlife-sanctuary.yaml)
+- Action: new
+- Precise subject: Belize portion of protected estuarine system, not adjacent Mexican sanctuary or Bacalar Chico. Representative bay point. No guaranteed sightings.
+- Location check: 18.37427, -88.35477; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://sacdbelize.org/cbws/; https://sacdbelize.org/research-and-monitoring/; https://www.internationalparks.org/belize/Corozal%20Bay; https://mapcarta.com/19510284.
+- Worldwide peers (qualitative, not independently refetched):
+  - Sian Ka'an (MX): greater variety of visitor experiences
+  - Everglades (US): much broader wetland wilderness
+  - Tortuguero (CR): stronger established wildlife touring
+  - Swallow Caye (BZ): more focused manatee viewing
+- Individual scores:
+  - impact: 8.5 — Broad mangrove and coastal waters have strong natural appeal.
+  - uniqueness: 8.9 — Transboundary estuary and manatee habitat provide distinctiveness.
+  - significance: 9.3 — Manager confirms 178,000 acres and important manatee, nursery and mangrove habitat.
+  - experience: 8.1 — Boat-based viewing is rewarding but no extensive infrastructure assumed.
+  - depth: 8.8 — Large interconnected habitats offer ecological breadth.
+- Categories: nature 9.2, wildlife 9.3, photography 8.6.
+- Overall: 87.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-chaa-creek-nature-reserve — Chaa Creek Nature Reserve and Butterfly Farm — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/chaa-creek-nature-reserve.yaml)
+- Action: new
+- Precise subject: 500-acre reserve with trails, natural history centre and butterfly farm; excludes resort amenities and separate Macal River canoe route. Mapped lodge point is a visitor-base proxy.
+- Location check: 17.10835, -89.07434; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://chaacreek.com/explore-chaa-creek/; https://www.belizeadventure.ca/activities/chaa-creek-nature-reserve/; https://mapcarta.com/N1066003790.
+- Worldwide peers (qualitative, not independently refetched):
+  - Monteverde (CR): vastly more iconic cloud forest
+  - Xcaret (MX): larger managed nature and culture attractions
+  - Mindo butterfly gardens (EC): similar insect interpretation
+  - Belize Botanic Gardens (BZ): narrower botanical focus
+- Individual scores:
+  - impact: 8.0 — Forest and butterfly encounters give pleasant memorable scenery.
+  - uniqueness: 8.0 — Private education-focused reserve is distinctive but not globally rare.
+  - significance: 8.0 — Conservation and natural history interpretation support importance.
+  - experience: 8.8 — Varied guided and self-guided experiences support high engagement.
+  - depth: 8.7 — Museum, trails and plant and insect learning provide breadth.
+- Categories: nature 8.8, wildlife 8.8, family 8.8, adventure 8.4.
+- Overall: 81.90/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-man-o-war-caye — Man O' War Caye Bird Sanctuary — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/man-o-war-caye.yaml)
+- Action: new
+- Precise subject: Mangrove island nesting colony observed from boats, not landing or entire South Water Caye reserve. No present-day colony-size estimate assumed.
+- Location check: 16.87107, -88.09433; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://fisheries.gov.bz/swcmr/; https://thebelizecollection.com/activities/island-hopping-and-snorkeling/; https://mapcarta.com/19509152.
+- Worldwide peers (qualitative, not independently refetched):
+  - Genovesa (EC): exceptional diverse seabird colonies
+  - Bass Rock (GB): larger dramatic gannet colony
+  - Isla Contoy (MX): more diverse accessible bird island
+  - Half Moon Caye (BZ): broader terrestrial and birding experience
+- Individual scores:
+  - impact: 8.2 — Nesting seabirds amid turquoise waters offer vivid spectacle.
+  - uniqueness: 8.4 — Concentrated frigatebird observation is distinctive.
+  - significance: 8.9 — Fisheries Department confirms separate Crown Reserve and nesting habitat.
+  - experience: 8.1 — Nonintrusive boat observation gives strong specialist experience.
+  - depth: 7.0 — Small island and short observation duration limit depth.
+- Categories: wildlife 9.2, nature 8.8, photography 8.7.
+- Overall: 82.55/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-macal-river-canoeing — Macal River Canoeing — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/macal-river-canoeing.yaml)
+- Action: new
+- Precise subject: Recreational canoe route between Chaa Creek and San Ignacio, not the annual La Ruta Maya race or entire reserve. Coordinate at representative Chaa Creek visitor base rather than exact launch.
+- Location check: 17.10835, -89.07434; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://chaacreek.com/activity/canoe-tours/; https://tourismbelize.com/experiences/macal-river-canoeing-from-san-ignacio; https://mapcarta.com/N1066003790.
+- Worldwide peers (qualitative, not independently refetched):
+  - Tortuguero (CR): broader wildlife canals
+  - Soca River (SI): more dramatic alpine water scenery
+  - Khao Sok river canoeing (TH): stronger karst landscape
+  - New River (BZ): similar wildlife waterway but motorboat-oriented
+- Individual scores:
+  - impact: 8.0 — Forest-lined river provides scenic immersion.
+  - uniqueness: 7.8 — Tropical canoe routes have numerous global peers.
+  - significance: 7.4 — River ecology has regional interest.
+  - experience: 8.6 — Self-propelled exploration provides engaging nature experience.
+  - depth: 8.1 — Upstream and downstream options support varied outings.
+- Categories: adventure 8.8, nature 8.6, wildlife 8.4, relaxation 8.4.
+- Overall: 79.30/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-monkey-bay-wildlife-sanctuary — Monkey Bay Wildlife Sanctuary — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/monkey-bay-wildlife-sanctuary.yaml)
+- Action: new
+- Precise subject: Private education and conservation sanctuary, distinct from adjoining Monkey Bay National Park; reserve point from birding directory, not an entrance.
+- Location check: 17.3123, -88.5573; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://monkeybaybelize.com/facilities; https://monkeybaybelize.com/monkey-bay-wildlife-sanctuary; https://www.orniverse.com/site/7762/monkey-bay-wls.
+- Worldwide peers (qualitative, not independently refetched):
+  - Corcovado (CR): much greater wilderness extent
+  - Carara (CR): broader visitor birding reputation
+  - Los Tarrales (GT): more specialist birding variety
+  - Runaway Creek (BZ): comparable private conservation scope
+- Individual scores:
+  - impact: 7.9 — Forest and river setting provide rewarding immersion.
+  - uniqueness: 8.0 — Education campus within corridor habitat gives distinctive character.
+  - significance: 8.4 — Forest connectivity and vegetation diversity support conservation merit.
+  - experience: 8.1 — Nature trails and watershed education provide meaningful engagement.
+  - depth: 8.3 — Multiple habitat types and river access add breadth.
+- Categories: nature 8.7, wildlife 8.7, family 8.0.
+- Overall: 80.95/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-green-hills-butterfly-ranch — Green Hills Butterfly Ranch — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/green-hills-butterfly-ranch.yaml)
+- Action: new
+- Precise subject: Independent butterfly flight enclosure and associated forest birdwatching, distinct from Chaa Creek's butterfly farm.
+- Location check: 17.09754, -88.97422; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.greenhillsbelize.com/; https://www.greenhillsbelize.com/pages/birds; https://mapcarta.com/N2129538863.
+- Worldwide peers (qualitative, not independently refetched):
+  - Mindo butterfly gardens (EC): comparable insect diversity experience
+  - Butterfly Conservatory Arenal (CR): similar tropical education
+  - Butterfly Park Kuala Lumpur (MY): larger urban tropical display
+  - Chaa Creek Butterfly Farm (BZ): smaller component of broader reserve
+- Individual scores:
+  - impact: 7.8 — Native butterflies provide colorful close observation.
+  - uniqueness: 7.8 — Flight enclosures have international counterparts.
+  - significance: 7.5 — Native-species interpretation supports local education.
+  - experience: 8.4 — Life-cycle observation and birding offer engaging activities.
+  - depth: 7.7 — Focused collection and forest context offer moderate breadth.
+- Categories: wildlife 8.7, nature 8.4, family 8.5, photography 8.5.
+- Overall: 78.20/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-caye-caulker-lobsterfest — Caye Caulker Lobsterfest — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/caye-caulker-lobsterfest.yaml)
+- Action: new
+- Precise subject: Island food and beach celebration, independent of Placencia and San Pedro festivals; representative village coordinate, not event venue.
+- Location check: 17.7425, -88.025; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.travelbelize.org/blog/from-sea-to-celebration-lobster-season-in-belize/; https://en.wikipedia.org/wiki/Caye_Caulker.
+- Worldwide peers (qualitative, not independently refetched):
+  - Maine Lobster Festival (US): stronger international profile
+  - Galway Oyster Festival (IE): more established global seafood heritage
+  - O Grove Seafood Festival (ES): broader culinary range
+  - Placencia Lobsterfest (BZ): comparable separate beach community event
+- Individual scores:
+  - impact: 7.8 — Island festivities offer memorable atmosphere.
+  - uniqueness: 7.9 — Seafood and beach-party combination is appealing but substitutable.
+  - significance: 7.5 — Local fishing traditions support cultural importance.
+  - experience: 8.7 — Food and dancing create active engagement.
+  - depth: 7.8 — Several events provide moderate breadth.
+- Categories: food 8.9, culture 8.5, nightlife 8.6.
+- Overall: 79.00/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-belize-raptor-center — Belize Raptor Center — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/belize-raptor-center.yaml)
+- Action: new
+- Precise subject: Dedicated raptor education and conservation centre near Cristo Rey; not Belize Zoo or an unrestricted animal encounter.
+- Location check: 17.13333, -89.05865; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://belizeraptorcenter.org/; https://belizeraptorcenter.org/programs/onsite-visits/; https://mapcarta.com/N5353199621.
+- Worldwide peers (qualitative, not independently refetched):
+  - National Centre for Birds of Prey (GB): broader specialist collection
+  - World Center for Birds of Prey (US): greater research significance
+  - Hawk Conservancy Trust (GB): larger visitor programme
+  - Green Iguana Conservation Project (BZ): similarly focused education
+- Individual scores:
+  - impact: 7.5 — Close raptor observation has memorable educational impact.
+  - uniqueness: 7.7 — Specialist conservation centres have multiple international peers.
+  - significance: 8.1 — Native bird conservation and education support significance.
+  - experience: 8.2 — Interpretive visits offer meaningful engagement.
+  - depth: 7.5 — Single animal group limits independent depth.
+- Categories: wildlife 8.7, family 8.4, nature 8.0.
+- Overall: 77.75/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
+
+## sight-bz-honey-camp-lagoon — Honey Camp Lagoon — 2026-11-28
+
+- YAML: [source](../../../countries/BZ/sights/honey-camp-lagoon.yaml)
+- Action: new
+- Precise subject: Freshwater recreational lagoon only, not the former Honey Camp National Park designation or surrounding northeastern biological corridor.
+- Location check: 18.043308, -88.438353; approximate representative point.
+- Evidence status: source-linked-unverified; indexed descriptions and selected opened pages, not complete independent fact-check.
+- Sources consulted 2026-11-28 (indexed excerpts or opened pages): https://www.travelbelize.org/blog/5-must-dos-orange-walk-2/; https://www.geonames.org/advanced-search.html?country=BZ&q=Belize; https://www.csfi.bz/Projects/.
+- Worldwide peers (qualitative, not independently refetched):
+  - Laguna de Apoyo (NI): more dramatic volcanic setting
+  - Lake Bacalar (MX): more distinctive colors and extensive activities
+  - Lake Yojoa (HN): much broader lake landscape
+  - Five Blues Lake (BZ): more distinctive karst setting
+- Individual scores:
+  - impact: 7.3 — Forest-edged lake offers pleasant scenery.
+  - uniqueness: 7.1 — Freshwater swimming destinations have many global peers.
+  - significance: 7.0 — Local recreational and natural value supports modest significance.
+  - experience: 7.8 — Waterfront leisure provides rewarding short outing.
+  - depth: 7.2 — Single lagoon limits breadth.
+- Categories: nature 8.0, relaxation 8.2, photography 7.8.
+- Overall: 72.55/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: complete source triangulation, geographic scope and access, worldwide Python checks.
