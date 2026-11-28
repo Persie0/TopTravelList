@@ -13954,3 +13954,237 @@ All ten entries are source-linked editorial assessments using retrieved institut
 - Earlier decision: none.
 - Remaining verification: independent coordinate checks, numerical peer comparisons and full Python validation; current admission and safety not verified.
 
+
+## Mexico final completeness and consistency screening — pass 456 — 2026-11-28
+
+- Cross-checked the UNESCO State Party list (https://whc.unesco.org/en/statesparties/mx/): all 36 inscribed properties are represented in sight records, with serial/combined properties represented by one or more component records. This is not proof of exhaustive national attractions coverage.
+- Exact-coordinate collision screening: eight coordinate groups (17 records), all represent distinguishable visitor scopes (festival vs historic centre, railway vs viewpoint, museum vs palace, sacred route vs mining town, and other local monument vs district pairs). Retained as intentional representative point reuse; not proof of no semantic duplicates.
+- Reviewed 12 legacy sight ratings individually against source material and the global benchmark ladder; no country multiplier or quota applied. No new sights this pass. Full independent worldwide numerical recalibration and Python validation not performed.
+
+## sight-mx-hospicio-cabanas — Hospicio Cabañas — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/hospicio-cabanas.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Purpose-built historic charitable institution and Orozco's exceptional chapel mural cycle; the latter is explicitly recognized by UNESCO as internationally influential.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/815.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - MUSA (MX): smaller Orozco cycle, 91.80
+  - National Palace (MX): major Rivera cycle
+  - Sistine Chapel (VA): greater global painting anchor
+  - Hofburg (AT): 93.90, broader palace complex.
+- Previous core: 8.6 / 8.8 / 9.1 / 8.6 / 8.2; previous overall 87.10.
+- Individual scores: impact 9.3, uniqueness 9.4, significance 9.6, experience 9.1, depth 9.0.
+- Categories: culture 9.6, architecture 9.4, history 9.3, photography 9.2.
+- Overall: 93.25/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-el-tajin — El Tajín — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-tajin.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Distinctive Pyramid of Niches and approximately twenty ball courts, extensive pre-Hispanic urban archaeology; UNESCO criteria and INAH site evidence.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/631; https://lugares.inah.gob.mx/en/node/4343.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Teotihuacán (MX): larger and more iconic, 95.95
+  - Uxmal (MX): comparable architectural distinction
+  - Ayutthaya (TH): 95.75, broader city
+  - Cempoala (MX): less monumental.
+- Previous core: 8.7 / 9.0 / 9.1 / 8.6 / 8.5; previous overall 88.20.
+- Individual scores: impact 9.3, uniqueness 9.3, significance 9.5, experience 9.1, depth 9.2.
+- Categories: architecture 9.5, history 9.5, culture 9.2, photography 9.3.
+- Overall: 93.00/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-templo-mayor — Templo Mayor Archaeological Site — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/templo-mayor.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Evaluate excavated ceremonial precinct with associated site museum, not the vanished entire Tenochtitlan. INAH documents outstanding monoliths of Coyolxauhqui and Tlaltecuhtli; ruins are fragmentary but museum depth substantial.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://lugares.inah.gob.mx/en/node/4463; https://www.templomayor.inah.gob.mx/historia/acerca-del-museo.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - National Museum of Anthropology (MX): broader collection
+  - Roman Forum (IT): much larger extant monument ensemble
+  - Tlatelolco (MX): comparable urban archaeology
+  - Tamtoc (MX): 91.45, different regional centre.
+- Previous core: 8.5 / 9.0 / 9.4 / 8.7 / 8.5; previous overall 88.35.
+- Individual scores: impact 9.0, uniqueness 9.4, significance 9.7, experience 9.2, depth 9.4.
+- Categories: history 9.7, culture 9.5, architecture 9.0.
+- Overall: 93.10/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-las-pozas-xilitla — Las Pozas, Xilitla — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/las-pozas-xilitla.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Edward James surrealist concrete architecture integrated into tropical landscape, documented in UNESCO tentative-list nomination and garden operator history. Not an inscribed World Heritage site.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/tentativelists/5493/; https://en.laspozasxilitla.org.mx/the-garden-surreal/.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Park Güell (ES): more globally influential architect
+  - Inhotim (BR): broader art collection
+  - Cosmovitral (MX): 92.85, contrasting enclosed art garden
+  - Culiacán Botanical Garden (MX): 92.00, different art landscape.
+- Previous core: 8.8 / 9.0 / 8.4 / 8.7 / 8.0; previous overall 86.75.
+- Individual scores: impact 9.4, uniqueness 9.5, significance 9.1, experience 9.0, depth 8.8.
+- Categories: photography 9.5, architecture 9.5, culture 9.3, nature 9.2.
+- Overall: 92.45/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-sierra-de-san-francisco-rock-paintings — Rock Paintings of the Sierra de San Francisco — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sierra-de-san-francisco-rock-paintings.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Exceptionally preserved prehistoric painted panels, including large human and animal figures; evaluates permitted guided visit, not all inaccessible shelters.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/714/.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Boca de Potrerillos (MX): 92.50, extensive engravings rather than painted panels
+  - Lascaux (FR): greater iconic Paleolithic art
+  - Twyfelfontein (NA): different extensive engraving landscape
+  - La Pintada (MX): 90.45, smaller corpus.
+- Previous core: 8.7 / 9.1 / 9.3 / 8.2 / 8.3; previous overall 88.05.
+- Individual scores: impact 9.1, uniqueness 9.5, significance 9.6, experience 8.7, depth 9.1.
+- Categories: history 9.6, culture 9.5, adventure 9.1, photography 9.2.
+- Overall: 92.40/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-sian-kaan — Sian Ka'an Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sian-kaan.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Large intact coastal forest, wetland, mangrove and reef mosaic. UNESCO identifies exceptional interface of land and sea; evaluate integrated accessible reserve experiences.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/410.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Everglades (US): larger wetland system
+  - Belize Barrier Reef (BZ): different reef landscape
+  - Xcalak (MX): 91.45, more focused reef
+  - Ha Long Bay (VN): 97.85, greater dramatic seascape.
+- Previous core: 9.0 / 8.9 / 9.2 / 8.8 / 9.0; previous overall 89.85.
+- Individual scores: impact 9.3, uniqueness 9.2, significance 9.5, experience 9.0, depth 9.4.
+- Categories: nature 9.6, wildlife 9.5, photography 9.3.
+- Overall: 92.80/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-el-pinacate-gran-desierto — El Pinacate and Gran Desierto de Altar Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-pinacate-gran-desierto.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: UNESCO documents 714,566 hectares, ten huge maar craters, diverse volcanic landforms and North America's largest active dune field; high landscape and geological significance, narrower normal visitor experience.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/1410/.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Namib Sand Sea (NA): more extensive iconic dunes
+  - Hawaiʻi Volcanoes (US): active volcanism
+  - Wadi Rum (JO): distinct sandstone desert
+  - Siete Luminarias (MX): 89.45, smaller volcanic field.
+- Previous core: 9.0 / 9.1 / 9.1 / 8.5 / 8.7; previous overall 89.40.
+- Individual scores: impact 9.4, uniqueness 9.5, significance 9.5, experience 8.7, depth 9.2.
+- Categories: nature 9.6, photography 9.5, adventure 9.0.
+- Overall: 93.20/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-paquime — Paquimé Archaeological Zone — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/paquime.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Extensive adobe remains documenting the confluence of Oasisamerica and Mesoamerica architecture; UNESCO recognizes exceptional spatial and architectural evidence. Less visually monumental than large stone complexes.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/560/; https://lugares.inah.gob.mx/en/node/6147.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Mesa Verde (US): dramatic cliff dwellings
+  - Chan Chan (PE): larger adobe city
+  - Cuarenta Casas (MX): 91.80, more dramatic setting but smaller settlement
+  - Cueva de la Olla (MX): smaller scope.
+- Previous core: 8.0 / 8.8 / 9.0 / 8.2 / 8.0; previous overall 84.30.
+- Individual scores: impact 8.9, uniqueness 9.3, significance 9.5, experience 8.8, depth 9.0.
+- Categories: history 9.5, architecture 9.3, culture 9.2.
+- Overall: 91.15/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-atotonilco-sanctuary — Sanctuary of Jesús Nazareno de Atotonilco — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/atotonilco-sanctuary.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Distinct Jesuit sanctuary and exceptional painted interiors, described by UNESCO as a masterpiece of Mexican Baroque. Score excludes the parent San Miguel historic town.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/1274; https://www.unesco.org/archives/multimedia/document-1195.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Rosary Chapel (MX): comparable gilded interiors
+  - Santa Clara (MX): 91.25, different Baroque altarpieces
+  - Sistine Chapel (VA): greater global painting impact
+  - San Diego Morelia (MX): 91.15, contrasting polychrome decoration.
+- Previous core: 8.5 / 8.8 / 9.0 / 8.3 / 7.8; previous overall 85.75.
+- Individual scores: impact 9.1, uniqueness 9.2, significance 9.3, experience 8.8, depth 8.7.
+- Categories: architecture 9.5, history 9.3, culture 9.4, photography 9.2.
+- Overall: 90.80/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-luis-barragan-house — Luis Barragán House and Studio — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/luis-barragan-house.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Architect's 1948 house and studio, UNESCO recognizes outstanding modern architecture; compact domestic scale limits depth compared with major ensembles.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/1136.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Fallingwater (US): more dramatic landscape integration
+  - Villa Savoye (FR): modernist reference
+  - Capuchinas chapel (MX): different Barragán design
+  - Schönbrunn (AT): 94.20, much broader palace scope.
+- Previous core: 8.4 / 9.0 / 9.1 / 8.3 / 7.3; previous overall 85.65.
+- Individual scores: impact 8.9, uniqueness 9.4, significance 9.5, experience 8.7, depth 8.4.
+- Categories: architecture 9.6, culture 9.2, photography 9.2.
+- Overall: 90.65/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-cabo-pulmo — Cabo Pulmo National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cabo-pulmo.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Community-managed marine reserve with a peer-reviewed historical 463% fish biomass increase between 1999 and 2009; not a claim of current biomass or guaranteed wildlife sightings.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0023601.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Revillagigedo (MX): 94.90, greater remote pelagic diversity
+  - Xcalak (MX): 91.45, different Caribbean reef
+  - Great Barrier Reef (AU): larger global system
+  - Gordo Banks (MX): 90.70, offshore pelagic diving.
+- Previous core: 8.8 / 8.7 / 8.8 / 8.9 / 8.5; previous overall 87.60.
+- Individual scores: impact 9.2, uniqueness 9.1, significance 9.4, experience 9.2, depth 9.1.
+- Categories: wildlife 9.6, adventure 9.4, nature 9.4, photography 9.2.
+- Overall: 92.05/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
+
+## sight-mx-monte-alban — Monte Albán — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/monte-alban.yaml)
+- Action: revise existing (pass 456); identity and coordinates preserved.
+- Precise subject: Large hilltop ceremonial centre and ancient Zapotec capital, significant terraces and plazas; separate from historic Oaxaca component of UNESCO property.
+- Evidence status: source-linked-unverified; retrieved source excerpts consulted, editorial scores.
+- Sources consulted 2026-11-28: https://whc.unesco.org/en/list/415/.
+- Worldwide peers (qualitative, numerical values where known, historic benchmark ladder not authoritative for current peer scores):
+  - Teotihuacán (MX): 95.95, greater scale
+  - Machu Picchu (PE): more iconic mountain landscape
+  - Ayutthaya (TH): 95.75, broader historic ensemble
+  - El Tajín (MX): comparable monumental archaeological city.
+- Previous core: 9.0 / 9.0 / 9.3 / 8.9 / 8.7; previous overall 90.15.
+- Individual scores: impact 9.3, uniqueness 9.3, significance 9.5, experience 9.2, depth 9.2.
+- Categories: history 9.5, architecture 9.4, photography 9.4, culture 9.3.
+- Overall: 93.15/100.
+- High-score challenge: documented site-specific distinction and comparison to international and domestic peers; no automatic UNESCO bonus. No perfect score proposed.
+- Remaining verification: independent coordinates, current numerical international peers, full Python validation; no current admission guarantee.
