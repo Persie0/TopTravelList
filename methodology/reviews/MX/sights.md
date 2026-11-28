@@ -10590,3 +10590,257 @@ Sources consulted through UNESCO, INAH and government cultural or tourism pages.
 - Earlier decision: none.
 - Remaining verification: coordinate triangulation, independent factual verification, numerical peer comparison and full Python validation; current admissions not checked.
 
+## Pass 444 — Cenotes, grasslands, dunes and lakes
+
+The existing Cuatrociénegas record already includes gypsum dunes and pools; no duplicate record added. El Pit is an individually recognizable dive site within the Sac Actun system and assessed independently of system scale and Dos Ojos. Xkekén and Samulá grouped as a paired complex. Specialist underwater experiences assume qualified participants and appropriate local authorization, not unrestricted access. Sources linked separately from editorial scores; no independent fact or coordinate verification claimed. Ranking rows rendered using equivalent JavaScript rules; full Python validator, ranking generator and numerical benchmark checks not executed.
+
+## sight-mx-cenote-el-zapote-hells-bells — Cenote El Zapote and Hells Bells Underwater Formations — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenote-el-zapote-hells-bells.yaml)
+- Action: new
+- Precise subject: Individual submerged sinkhole and its bell-shaped carbonate formations; does not include other cenotes with similar formations.
+- Location check: 20.853833, -87.125333; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; source descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources linked 2026-11-28: https://www.sciencedirect.com/science/article/pii/S0031018217303292; https://onlinelibrary.wiley.com/doi/full/10.1111/gbi.12492; https://pmc.ncbi.nlm.nih.gov/articles/PMC10281970/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sistema Zacatón (MX): greater deep-cave scale
+  - Dean's Blue Hole (BS): different marine sinkhole morphology
+  - Cenote Angelita (MX): different underwater phenomenon
+  - Waitomo (NZ): distinctive bioluminescent cave rather than submerged mineral formations
+- Individual scores:
+  - impact: 9.3 — Remarkable submerged formations.
+  - uniqueness: 9.7 — Rare meter-scale bell-shaped underwater speleothems.
+  - significance: 9.6 — Peer-reviewed scientific significance for biomineralization and sea-level history.
+  - experience: 8.7 — Specialist guided diving experience, not ordinary swimming access to formations.
+  - depth: 8.6 — Focused vertical cave with multiple geological features.
+- Categories: nature 9.7, adventure 9.3, photography 9.3.
+- Overall: 93.00/100.
+- High-score challenge: Uniqueness and nature 9.7 and significance 9.6 justified by peer-reviewed documentation of a rare submerged carbonate morphology and geochemical record; similar formations occur in other local cenotes, so not claimed unique to this exact sinkhole. Published scientific coordinates converted to decimals. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-cenote-angelita — Cenote Angelita Underwater Cloud — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenote-angelita.yaml)
+- Action: new
+- Precise subject: Specific vertical cenote and hydrogen-sulfide cloud phenomenon, not a literal underwater river or the whole regional cave system.
+- Location check: 20.13746, -87.57825; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; source descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources linked 2026-11-28: https://deepdivemexico.com/our-cenote-dive-sites-in-the-region/the-cenote-angelita/?lang=en; https://divernet.com/world-dives/cenote-angelita-scuba-diving/; https://mapcarta.com/N4758383236.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - El Zapote (MX): rarer mineral formations
+  - El Pit (MX): different vertical light and cloud experience
+  - Silfra (IS): clearer geological fissure experience
+  - Dean's Blue Hole (BS): greater open marine depth
+- Individual scores:
+  - impact: 9.4 — Striking cloud-like layer and submerged trees.
+  - uniqueness: 9.3 — Unusual visual effect at the freshwater–saltwater transition.
+  - significance: 8.7 — Distinctive local hydrogeology rather than a global record.
+  - experience: 9.0 — Established specialist diving experience with qualified guides.
+  - depth: 8.1 — Focused single vertical shaft.
+- Categories: nature 9.3, adventure 9.3, photography 9.4.
+- Overall: 90.45/100.
+- High-score challenge: 90+ justified by documented hydrogen-sulfide cloud and submerged-tree visual setting; gas-rich water and depth mean experience applies to appropriately trained divers, not general admission. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-cenote-el-pit — Cenote El Pit Vertical Diving Cavern — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenote-el-pit.yaml)
+- Action: new
+- Precise subject: Individual vertical cavern diving experience in the connected Sac Actun system; excludes whole-system length, archaeological finds not available to visitors, and Dos Ojos circuit.
+- Location check: 20.32318, -87.40978; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; source descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources linked 2026-11-28: https://deepdivemexico.com/our-cenote-dive-sites-in-the-region/the-cenote-el-pit/?lang=en; https://kaydiving.com/en/cenotes/el-pit/; https://mapcarta.com/N976100685.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cenote Angelita (MX): more distinctive cloud
+  - El Zapote (MX): greater unusual mineral morphology
+  - Blue Hole Dahab (EG): different marine diving environment
+  - Sac Actun (MX): far broader connected system
+- Individual scores:
+  - impact: 9.4 — Dramatic vertical shaft and light penetration.
+  - uniqueness: 9.1 — Distinctive combination of cavern geometry and layered water.
+  - significance: 8.9 — Local geological significance.
+  - experience: 9.1 — Established specialist diving experience under appropriate conditions.
+  - depth: 8.5 — Multiple visible cavern features but focused site.
+- Categories: nature 9.3, adventure 9.4, photography 9.4.
+- Overall: 90.90/100.
+- High-score challenge: 90+ supported by the individual vertical cavern's documented light shafts, halocline and hydrogen-sulfide layer, without importing the parent system's scale or implying access to deep passages. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-janos-biosphere-reserve — Janos Biosphere Reserve and Native Grasslands — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/janos-biosphere-reserve.yaml)
+- Action: new
+- Precise subject: Protected native grasslands and wildlife habitats; no guaranteed access to individual ranches or herds.
+- Location check: 30.9605, -108.38375; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; source descriptions consulted for high-score challenge; subjective editorial scores.
+- Sources linked 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/anp?suri=83; https://simec.conanp.gob.mx/informacion/ficha/26?reg=3; https://sidof.segob.gob.mx/notas/docFuente/5123647; https://en.wikipedia.org/wiki/Janos_Biosphere_Reserve.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Custer State Park (US): stronger established bison viewing
+  - Grasslands National Park (CA): comparable prairie conservation
+  - Hortobágy (HU): distinctive pastoral grassland
+  - Mapimí (MX): different arid ecosystem
+- Individual scores:
+  - impact: 8.8 — Extensive open grassland and mountain scenery.
+  - uniqueness: 9.1 — Unusual surviving native grassland ecosystem in Mexico.
+  - significance: 9.5 — Important bison restoration and threatened prairie species conservation.
+  - experience: 8.4 — Authorized wildlife observation opportunities without guaranteed sightings.
+  - depth: 9.3 — Large landscape and diverse grassland and mountain habitats.
+- Categories: nature 9.4, wildlife 9.4, photography 8.9.
+- Overall: 90.05/100.
+- High-score challenge: Significance 9.5 justified by documented native grassland conservation and first Mexican reintroduction of pure American bison; ordinary visitor experience deliberately lower than better-established bison destinations. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-cenotes-dzitnup — Dzitnup Cenotes (Xkekén and Samulá) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenotes-dzitnup.yaml)
+- Action: new
+- Precise subject: Paired neighboring cave cenotes as a single compact complex.
+- Location check: 20.66209, -88.24382; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; overview assessment; subjective editorial scores.
+- Sources linked 2026-11-28: https://www.yucatan.gob.mx/index.php/?p=xkeken; https://cenotedzitnup.com/es/; https://mapcarta.com/es/35965736.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ik Kil (MX): more open vertical setting
+  - Suytun (MX): more focused light-shaft chamber
+  - To Sua (WS): different coastal swimming hole
+  - Melissani Cave (GR): comparable illuminated cave lake
+- Individual scores:
+  - impact: 9.0 — Cave pools and stalactites.
+  - uniqueness: 8.8 — Comparable limestone chambers with distinctive natural light.
+  - significance: 8.5 — Regional karst heritage.
+  - experience: 9.0 — Two complementary swimming and viewing settings.
+  - depth: 8.7 — Two chambers and contrasting formations.
+- Categories: nature 9.2, photography 9.2, relaxation 8.8.
+- Overall: 88.20/100.
+- High-score challenge: Provisional sub-90 assessment; two adjacent features grouped to avoid unnecessary fragmentation. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-cenote-suytun — Cenote Suytun — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenote-suytun.yaml)
+- Action: new
+- Precise subject: Individual cave chamber, natural roof opening and constructed viewing platform.
+- Location check: 20.69899, -88.12457; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; overview assessment; subjective editorial scores.
+- Sources linked 2026-11-28: https://mapcarta.com/N3680984963; https://yucatan.guide/posts/best-cenotes-in-yucatan/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Dzitnup (MX): greater paired-cave breadth
+  - Ik Kil (MX): more dramatic open shaft
+  - Melissani (GR): comparable roof opening
+  - To Sua (WS): different open-air setting
+- Individual scores:
+  - impact: 9.0 — Distinctive illuminated pool and circular viewing platform.
+  - uniqueness: 8.7 — Recognizable composition but comparable cave pools.
+  - significance: 8.4 — Regional karst setting.
+  - experience: 8.7 — Focused photography and viewing.
+  - depth: 7.8 — Single main chamber.
+- Categories: nature 8.9, photography 9.3.
+- Overall: 86.40/100.
+- High-score challenge: Provisional sub-90 rating; constructed platform distinguished from natural geology. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-cenote-oxman — Cenote San Lorenzo Oxman — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cenote-oxman.yaml)
+- Action: new
+- Precise subject: Open cenote and its swimming setting at the former hacienda; excludes unrelated hotel facilities.
+- Location check: 20.6676, -88.2301; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; overview assessment; subjective editorial scores.
+- Sources linked 2026-11-28: https://yucatan.guide/map/cenotes/; https://yucatan.guide/posts/best-cenotes-near-valladolid/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ik Kil (MX): larger iconic setting
+  - Dzitnup (MX): wider cave variety
+  - To Sua (WS): more distinctive coastal sinkhole
+  - Suytun (MX): enclosed cave setting
+- Individual scores:
+  - impact: 8.9 — Open vertical limestone walls and hanging roots.
+  - uniqueness: 8.7 — Comparable open cenote morphology.
+  - significance: 8.3 — Local natural heritage.
+  - experience: 9.0 — Swimming and recreation under normal conditions.
+  - depth: 8.0 — Compact single pool.
+- Categories: nature 9.0, relaxation 9.0, photography 9.1.
+- Overall: 86.55/100.
+- High-score challenge: Provisional sub-90 rating; no credit for generic resort amenities. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-dunas-de-chachalacas — Dunas de Chachalacas Coastal Dunes — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/dunas-de-chachalacas.yaml)
+- Action: new
+- Precise subject: Specific coastal dune field north of Playa de Chachalacas, not the entire Veracruz coast.
+- Location check: 19.4694, -96.3191; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; overview assessment; subjective editorial scores.
+- Sources linked 2026-11-28: https://mapcarta.com/W1241740824; https://es-mx.topographic-map.com/map-s9nts8/Dunas-de-Chachalacas/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Dune du Pilat (FR): greater singular dune prominence
+  - Namib Sand Sea (NA): vastly larger desert landscape
+  - Maspalomas (ES): comparable coastal dunes
+  - Samalayuca (MX): different inland dune field
+- Individual scores:
+  - impact: 8.9 — Expansive dunes near the sea.
+  - uniqueness: 8.6 — Distinctive coastal setting but international analogues.
+  - significance: 8.4 — Regional coastal geomorphology.
+  - experience: 8.8 — Scenic dune recreation subject to local restrictions.
+  - depth: 8.7 — Multiple dune ridges and coastal views.
+- Categories: nature 9.0, photography 9.1, adventure 8.9.
+- Overall: 86.90/100.
+- High-score challenge: Provisional sub-90 assessment; coordinates are midpoint of mapped bounding box; no assumption unrestricted motorized access. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-santa-maria-del-oro-lake — Santa María del Oro Crater Lake — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santa-maria-del-oro-lake.yaml)
+- Action: new
+- Precise subject: Individual volcanic crater lake and shore landscape, not the wider municipality.
+- Location check: 21.3667, -104.5667; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; overview assessment; subjective editorial scores.
+- Sources linked 2026-11-28: https://www.visitanayarit.com/en/laguna-de-santa-maria-del-oro-a-turquoise-water-crater/; https://boletinsgm.igeolcu.unam.mx/bsgm/index.php/component/content/article/142-sitio/articulos/cuarta-epoca/6203/1696-6203-8-sosa.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Crater Lake (US): greater caldera scale
+  - Lagoa das Sete Cidades (PT): broader volcanic scenery
+  - Alchichica (MX): rarer microbialite geology
+  - Lake Atitlán (GT): greater mountain and cultural setting
+- Individual scores:
+  - impact: 9.0 — Turquoise lake in volcanic crater.
+  - uniqueness: 8.8 — Distinctive crater setting with international analogues.
+  - significance: 8.6 — Regional volcanic and limnological interest.
+  - experience: 9.0 — Lakeside recreation and scenery.
+  - depth: 8.6 — Several shore areas around compact lake.
+- Categories: nature 9.2, photography 9.1, relaxation 9.2.
+- Overall: 88.30/100.
+- High-score challenge: Provisional sub-90 assessment; approximate scientific lake coordinates, no assumption of constant water color. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+
+## sight-mx-lake-chapala — Lake Chapala and Lakeshore Landscapes — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/lake-chapala.yaml)
+- Action: new
+- Precise subject: Large lake and lakeshore scenery, bird habitat and public waterfronts, excluding unrelated towns as independent attractions.
+- Location check: 20.233, -103.05; approximate representative location from cited listings or literature; not independently surveyed.
+- Evidence status: source-linked-unverified; overview assessment; subjective editorial scores.
+- Sources linked 2026-11-28: https://rsis.ramsar.org/ris/1973.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Lake Titicaca (PE/BO): more distinctive high-altitude culture
+  - Lake Atitlán (GT): stronger dramatic volcano backdrop
+  - Lake Balaton (HU): comparable recreational lake
+  - Bacalar (MX): more distinctive color and karst water
+- Individual scores:
+  - impact: 8.8 — Broad lake panoramas.
+  - uniqueness: 8.6 — Comparable large continental lakes.
+  - significance: 9.2 — Mexico's largest lake and internationally recognized wetland.
+  - experience: 8.7 — Lakeside walks and observation.
+  - depth: 9.0 — Extensive shoreline and habitats.
+- Categories: nature 9.0, wildlife 8.9, relaxation 8.9, photography 8.9.
+- Overall: 88.35/100.
+- High-score challenge: Provisional sub-90 assessment; water pollution and hydrological pressures constrain environmental qualities, no assumption of pristine swimming conditions. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent fact and coordinate checks, numerical peer comparison and full Python validation; current admissions not checked.
+

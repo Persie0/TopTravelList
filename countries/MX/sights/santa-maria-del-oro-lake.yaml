@@ -1,0 +1,16 @@
+id: sight-mx-santa-maria-del-oro-lake
+name: "Santa María del Oro Crater Lake"
+location:
+  country_code: MX
+  latitude: 21.3667
+  longitude: -104.5667
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 8.6
+  experience: 9.0
+  depth: 8.6
+  categories:
+    nature: 9.2
+    photography: 9.1
+    relaxation: 9.2

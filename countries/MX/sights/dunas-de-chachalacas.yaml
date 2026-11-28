@@ -1,0 +1,16 @@
+id: sight-mx-dunas-de-chachalacas
+name: "Dunas de Chachalacas Coastal Dunes"
+location:
+  country_code: MX
+  latitude: 19.4694
+  longitude: -96.3191
+scores:
+  impact: 8.9
+  uniqueness: 8.6
+  significance: 8.4
+  experience: 8.8
+  depth: 8.7
+  categories:
+    nature: 9.0
+    photography: 9.1
+    adventure: 8.9

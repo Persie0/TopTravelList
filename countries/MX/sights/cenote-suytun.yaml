@@ -1,0 +1,15 @@
+id: sight-mx-cenote-suytun
+name: "Cenote Suytun"
+location:
+  country_code: MX
+  latitude: 20.69899
+  longitude: -88.12457
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.4
+  experience: 8.7
+  depth: 7.8
+  categories:
+    nature: 8.9
+    photography: 9.3

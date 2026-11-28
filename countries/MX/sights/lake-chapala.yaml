@@ -1,0 +1,17 @@
+id: sight-mx-lake-chapala
+name: "Lake Chapala and Lakeshore Landscapes"
+location:
+  country_code: MX
+  latitude: 20.233
+  longitude: -103.05
+scores:
+  impact: 8.8
+  uniqueness: 8.6
+  significance: 9.2
+  experience: 8.7
+  depth: 9.0
+  categories:
+    nature: 9.0
+    wildlife: 8.9
+    relaxation: 8.9
+    photography: 8.9
