@@ -1,0 +1,16 @@
+id: sight-mx-barranca-de-metztitlan
+name: "Barranca de Metztitlán Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 20.59
+  longitude: -98.76
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 8.8
+  depth: 9.1
+  categories:
+    nature: 9.4
+    wildlife: 9.0
+    photography: 9.2

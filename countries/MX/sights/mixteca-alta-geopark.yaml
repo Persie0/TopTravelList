@@ -1,0 +1,17 @@
+id: sight-mx-mixteca-alta-geopark
+name: "Mixteca Alta UNESCO Geopark"
+location:
+  country_code: MX
+  latitude: 17.52
+  longitude: -97.34
+scores:
+  impact: 8.9
+  uniqueness: 9.2
+  significance: 9.3
+  experience: 8.8
+  depth: 9.2
+  categories:
+    nature: 9.2
+    culture: 9.2
+    history: 9.0
+    photography: 9.1

@@ -1,0 +1,17 @@
+id: sight-mx-tacana-volcano
+name: "Volcán Tacaná Biosphere Reserve"
+location:
+  country_code: MX
+  latitude: 15.133
+  longitude: -92.112
+scores:
+  impact: 9.3
+  uniqueness: 9.0
+  significance: 9.4
+  experience: 9.0
+  depth: 9.3
+  categories:
+    nature: 9.4
+    adventure: 9.3
+    wildlife: 9.2
+    photography: 9.2

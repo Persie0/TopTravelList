@@ -1,0 +1,16 @@
+id: sight-mx-nevado-de-colima
+name: "Volcán Nevado de Colima National Park"
+location:
+  country_code: MX
+  latitude: 19.563
+  longitude: -103.609
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 9.0
+  experience: 9.0
+  depth: 9.0
+  categories:
+    nature: 9.3
+    adventure: 9.2
+    photography: 9.3

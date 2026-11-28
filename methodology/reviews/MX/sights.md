@@ -8279,3 +8279,257 @@ Colola and Maruata treated as one adjacent nesting complex. Bahía de los Ángel
 - Earlier decision: none.
 - Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
 
+## Pass 435 — Geological and mountain landscapes
+
+Parent geopark and individual geosites assessed at their own scope. The Mexican component of Santa Elena excludes US-only trails. Alchichica is alkaline and saline, not freshwater. No unrestricted access assumed at Zacatón or active volcanoes.
+
+## sight-mx-pena-de-bernal — Peña de Bernal Volcanic Monolith and Sacred Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/pena-de-bernal.yaml)
+- Action: new
+- Precise subject: 433 m volcanic dome and its own sacred landscape, not all Otomí-Chichimeca territory.
+- Location check: 20.748, -99.949; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://pubs.geoscienceworld.org/gsa/geosphere/article/9/3/557/132603/Geologic-setting-of-the-Pena-de-Bernal-Natural; https://ich.unesco.org/en/RL/places-of-memory-and-living-traditions-of-the-otomi-chichimecas-people-of-toliman-the-pena-de-bernal-guardian-of-a-sacred-territory-00174.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Uluru (AU): greater global iconic and sacred stature
+  - Sigiriya (LK): additional monumental archaeology
+  - Sugarloaf Mountain (BR): comparable prominent rock
+  - El Potrero Chico (MX): broader climbing routes
+- Individual scores:
+  - impact: 9.4 — Towering monolithic relief.
+  - uniqueness: 9.3 — Distinctive dacitic dome with cultural associations.
+  - significance: 9.5 — Documented geological and living sacred heritage.
+  - experience: 9.1 — Scenic walking and appropriate climbing.
+  - depth: 8.6 — Focused mountain and ritual landscape.
+- Categories: nature 9.4, culture 9.5, photography 9.4, adventure 9.0.
+- Overall: 92.70/100.
+- High-score challenge: Significance and culture 9.5 reflect the documented sacred role within the inscribed tradition and geological prominence, not the entire tradition. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-comarca-minera-geopark — Comarca Minera UNESCO Geopark — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/comarca-minera-geopark.yaml)
+- Action: new
+- Precise subject: Integrated geological and mining heritage network across nine municipalities; not a sum of individual attraction ratings.
+- Location check: 20.16, -98.65; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://en.geoparquecomarcaminerahidalgo.com/about-us/; https://terradigitalis.igg.unam.mx/html/ojs3/index.php/terra_digitalis/article/view/21; https://www.gaceta.unam.mx/unesco-otorga-tarjeta-verde-al-geoparque-comarca-minera-de-hidalgo/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Zhangjiajie geopark (CN): stronger monumental landscape
+  - English Riviera geopark (GB): different geological and cultural context
+  - Erzgebirge mining region (DE/CZ): greater mining heritage scale
+  - Mixteca Alta (MX): contrasting erosion and agriculture
+- Individual scores:
+  - impact: 9.1 — Varied volcanic forms and mining landscapes.
+  - uniqueness: 9.3 — Unusual combination of mineral deposits and historic industry.
+  - significance: 9.4 — Internationally important geoscience and mining history.
+  - experience: 9.1 — Interpretive geotourism across multiple sites.
+  - depth: 9.5 — 31 distinct documented geosites and routes.
+- Categories: nature 9.3, history 9.3, culture 9.1, photography 9.3.
+- Overall: 92.50/100.
+- High-score challenge: Depth 9.5 justified by documented 31-geosite network and varied geological and industrial heritage; no duplicate aggregate of individual scores. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-tacana-volcano — Volcán Tacaná Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/tacana-volcano.yaml)
+- Action: new
+- Precise subject: Mexican side of border volcano and its elevational ecosystems, not the entire Guatemalan region.
+- Location check: 15.133, -92.112; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.unesco.org/en/mab/volcan-tacana; https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=175.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Acatenango (GT): stronger active-volcano viewing
+  - Kilimanjaro (TZ): much greater global stature
+  - Iztaccíhuatl (MX): higher alpine terrain
+  - El Triunfo (MX): more focused cloud forest
+- Individual scores:
+  - impact: 9.3 — High volcanic mountain and cloud forest.
+  - uniqueness: 9.0 — Distinct biogeographic transition.
+  - significance: 9.4 — Endemic species and exceptional Central American ecosystem in Mexico.
+  - experience: 9.0 — Mountain trails and forest exploration.
+  - depth: 9.3 — Multiple elevational zones and extended hikes.
+- Categories: nature 9.4, adventure 9.3, wildlife 9.2, photography 9.2.
+- Overall: 92.00/100.
+- High-score challenge: 90+ based on documented elevational ecological diversity and mountain visitor scope. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-sistema-zacaton — Sistema Zacatón Hydrothermal Sinkholes — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sistema-zacaton.yaml)
+- Action: new
+- Precise subject: Hydrothermal flooded karst complex near Aldama, not ordinary recreational diving.
+- Location check: 22.99, -98.16; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://publications.ri.cmu.edu/3d-mapping-and-characterization-of-sistema-zacaton-from-depthx-deep-phreatic-thermal-explorer; https://pubmed.ncbi.nlm.nih.gov/20298146/; https://digitalcommons.usf.edu/kip_articles/6516/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Hranice Abyss (CZ): deeper documented underwater system
+  - Dean's Blue Hole (BS): different marine formation
+  - Sac Actun (MX): greater horizontal extent
+  - Naica (MX): comparable scientific importance with limited access
+- Individual scores:
+  - impact: 9.3 — Exceptionally deep and unusual water-filled shafts.
+  - uniqueness: 9.7 — Rare volcanogenic hydrothermal karst morphology.
+  - significance: 9.7 — Internationally significant robotic mapping and microbial research.
+  - experience: 7.8 — Limited surface experience and specialist exploration scope.
+  - depth: 8.6 — Several scientifically distinct sinkholes.
+- Categories: nature 9.6, adventure 9.1.
+- Overall: 91.85/100.
+- High-score challenge: Uniqueness and significance 9.7 and nature 9.6 reflect 319 m mapped submerged depth, rare chemistry and microbial studies. No current depth record superlative or ordinary deep-diving access assumed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-santa-elena-canyon-mx — Cañón de Santa Elena Protected Area (Mexican Side) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/santa-elena-canyon-mx.yaml)
+- Action: new
+- Precise subject: Mexican protected landscape and shared Rio Grande canyon; excludes US-only trail infrastructure.
+- Location check: 29.16, -103.62; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=22; https://www.nps.gov/places/santa-elena-canyon-overlook.htm; https://www.nps.gov/thingstodo/hike-into-santa-elena-canyon.htm.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Grand Canyon (US): substantially greater scale
+  - Fish River Canyon (NA): larger dry canyon
+  - Sumidero (MX): more established river sightseeing
+  - Tara Canyon (ME): different forested river setting
+- Individual scores:
+  - impact: 9.3 — Dramatic approximately 450 m canyon walls.
+  - uniqueness: 9.0 — Large desert river gorge with global analogues.
+  - significance: 9.1 — Protected desert and wildlife habitat.
+  - experience: 8.8 — Scenic and qualified river exploration potential.
+  - depth: 9.1 — Broader Mexican protected landscape.
+- Categories: nature 9.3, photography 9.4, adventure 9.0, wildlife 8.9.
+- Overall: 90.90/100.
+- High-score challenge: 90+ based on shared canyon morphology and Mexican protected-area scope. US access infrastructure not credited. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-mixteca-alta-geopark — Mixteca Alta UNESCO Geopark — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/mixteca-alta-geopark.yaml)
+- Action: new
+- Precise subject: Geotrail network of erosional landscapes and traditional land management in Oaxaca.
+- Location check: 17.52, -97.34; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://geoparquemixtecaalta.org/en/geositios-y-geosenderos/; https://www.unesco.org/en/iggp/list; https://onlinelibrary.wiley.com/doi/10.1002/psp.2559.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Cappadocia (TR): stronger iconic rock formations
+  - Las Médulas (ES): different human-shaped terrain
+  - Comarca Minera (MX): wider mining heritage
+  - Bardenas Reales (ES): comparable erosion scenery
+- Individual scores:
+  - impact: 8.9 — Distinctive badlands and gullies.
+  - uniqueness: 9.2 — Geology intertwined with traditional agricultural land use.
+  - significance: 9.3 — Documented geological and geocultural heritage.
+  - experience: 8.8 — Interpretive walking routes.
+  - depth: 9.2 — Multiple geotrails and geological features.
+- Categories: nature 9.2, culture 9.2, history 9.0, photography 9.1.
+- Overall: 90.70/100.
+- High-score challenge: Geocultural scope and multiple routes justify the total rather than designation alone. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-alchichica-crater-lake — Alchichica Crater Lake and Microbialites — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/alchichica-crater-lake.yaml)
+- Action: new
+- Precise subject: Saline alkaline crater lake and microbialite structures, not a freshwater swimming destination.
+- Location check: 19.415, -97.407; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://link.springer.com/article/10.1007/s10347-010-0255-8; https://pubmed.ncbi.nlm.nih.gov/34396701/; https://librosoa.unam.mx/handle/123456789/4156.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Lake Van (TR): greater lake scale and microbialite structures
+  - Cuatrociénegas (MX): broader spring ecosystems
+  - Shark Bay (AU): globally significant stromatolites
+  - Lake Mývatn (IS): more varied volcanic visitor experience
+- Individual scores:
+  - impact: 8.9 — Circular crater lake and carbonate shoreline.
+  - uniqueness: 9.4 — Unusual microbialite and endemic species assemblage.
+  - significance: 9.5 — Documented scientific importance for biomineralization and microendemism.
+  - experience: 8.3 — Focused shoreline observation.
+  - depth: 8.4 — Limited ordinary visitor scope despite scientific depth.
+- Categories: nature 9.4, wildlife 9.0, photography 9.1.
+- Overall: 90.05/100.
+- High-score challenge: Significance 9.5 reflects peer-reviewed microbialite research and endemic taxa; no guarantee of seeing endemic animals. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-nevado-de-colima — Volcán Nevado de Colima National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/nevado-de-colima.yaml)
+- Action: new
+- Precise subject: Nevado summit, alpine forest and views of adjacent active volcano; no assumption of access to active crater.
+- Location check: 19.563, -103.609; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=174.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Iztaccíhuatl (MX): greater altitude
+  - Teide (ES): more distinctive island setting
+  - Mount Ruapehu (NZ): comparable volcanic alpine landscape
+  - Pico de Orizaba (MX): higher summit
+- Individual scores:
+  - impact: 9.1 — High mountain with dramatic adjacent volcanic landscape.
+  - uniqueness: 8.8 — Comparable volcanic mountains elsewhere.
+  - significance: 9.0 — Protected montane ecosystems.
+  - experience: 9.0 — Hiking and scenic exploration where permitted.
+  - depth: 9.0 — Multiple elevational zones.
+- Categories: nature 9.3, adventure 9.2, photography 9.3.
+- Overall: 89.80/100.
+- High-score challenge: No claim of access to active Volcán de Fuego. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-prismas-basalticos — Prismas Basálticos of Santa María Regla — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/prismas-basalticos.yaml)
+- Action: new
+- Precise subject: Individual basalt columns and waterfall gorge; not wider Comarca Minera mining heritage.
+- Location check: 20.229, -98.564; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://en.geoparquecomarcaminerahidalgo.com/prismas-basalticos/; https://terradigitalis.igg.unam.mx/html/ojs3/index.php/terra_digitalis/article/view/21.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Giant's Causeway (GB): broader iconic coastal formation
+  - Svartifoss (IS): comparable waterfall columns
+  - Garni Symphony of Stones (AM): extensive columnar walls
+  - Comarca Minera (MX): much broader geology
+- Individual scores:
+  - impact: 9.3 — Tall geometric columns framing waterfalls.
+  - uniqueness: 9.0 — Striking columnar basalt with global peers.
+  - significance: 9.0 — Documented geosite studied by Humboldt.
+  - experience: 8.8 — Focused scenic walk and viewpoints.
+  - depth: 8.0 — Compact individual gorge.
+- Categories: nature 9.4, photography 9.4.
+- Overall: 89.60/100.
+- High-score challenge: Columns documented as exceeding 40 m; no unsupported claim of world rank. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
+## sight-mx-barranca-de-metztitlan — Barranca de Metztitlán Biosphere Reserve — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/barranca-de-metztitlan.yaml)
+- Action: new
+- Precise subject: Specific arid canyon and cactus habitats, including reserve trails; excludes unrelated geopark sites.
+- Location check: 20.59, -98.76; approximate editorial representative point, independent coordinate verification outstanding.
+- Evidence status: source-linked-unverified; indexed institutional or scientific descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/anp?suri=11; https://simec.conanp.gob.mx/informacion/ficha/9?reg=11.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Tehuacán-Cuicatlán (MX): stronger broad endemic cactus heritage
+  - Saguaro (US): iconic giant cactus forests
+  - Valle de los Cirios (MX): distinct desert plants
+  - Quebrada de Humahuaca (AR): stronger cultural landscape
+- Individual scores:
+  - impact: 9.0 — Dramatic dry canyon and cactus forests.
+  - uniqueness: 9.1 — Distinctive endemic arid flora.
+  - significance: 9.2 — Exceptional documented cactus diversity.
+  - experience: 8.8 — Nature walking and landscape viewing.
+  - depth: 9.1 — Extensive varied arid habitats.
+- Categories: nature 9.4, wildlife 9.0, photography 9.2.
+- Overall: 90.45/100.
+- High-score challenge: High nature score supported by official documentation of cactus richness and endemic flora. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent factual and coordinate checks, numerical peer comparisons and global Python validation; current permissions not verified.
+
