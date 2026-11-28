@@ -1,0 +1,16 @@
+id: sight-mx-puerto-escondido-surf-reserve
+name: "Puerto Escondido World Surfing Reserve (Zicatela and Coastal Breaks)"
+location:
+  country_code: MX
+  latitude: 15.849
+  longitude: -97.054
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.3
+  experience: 9.1
+  depth: 9.1
+  categories:
+    adventure: 9.4
+    beaches: 9.1
+    photography: 9.2

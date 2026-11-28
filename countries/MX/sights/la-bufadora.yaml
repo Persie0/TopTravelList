@@ -1,0 +1,15 @@
+id: sight-mx-la-bufadora
+name: "La Bufadora Marine Blowhole"
+location:
+  country_code: MX
+  latitude: 31.724
+  longitude: -116.72
+scores:
+  impact: 9.0
+  uniqueness: 8.9
+  significance: 8.4
+  experience: 8.7
+  depth: 7.7
+  categories:
+    nature: 9.1
+    photography: 9.0

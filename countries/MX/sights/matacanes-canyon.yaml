@@ -1,0 +1,16 @@
+id: sight-mx-matacanes-canyon
+name: "Matacanes Canyon and Underground Rivers"
+location:
+  country_code: MX
+  latitude: 25.347
+  longitude: -100.203
+scores:
+  impact: 9.3
+  uniqueness: 9.2
+  significance: 8.7
+  experience: 9.4
+  depth: 9.2
+  categories:
+    adventure: 9.5
+    nature: 9.3
+    photography: 9.2

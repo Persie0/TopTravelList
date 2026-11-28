@@ -1,0 +1,17 @@
+id: sight-mx-manialtepec-bioluminescence
+name: "Manialtepec Lagoon and Bioluminescence"
+location:
+  country_code: MX
+  latitude: 15.925
+  longitude: -97.192
+scores:
+  impact: 9.1
+  uniqueness: 9.0
+  significance: 8.6
+  experience: 9.2
+  depth: 8.8
+  categories:
+    nature: 9.2
+    wildlife: 9.0
+    photography: 8.9
+    adventure: 8.8

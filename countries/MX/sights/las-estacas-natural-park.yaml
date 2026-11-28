@@ -1,0 +1,17 @@
+id: sight-mx-las-estacas-natural-park
+name: "Las Estacas Natural Spring and River Park"
+location:
+  country_code: MX
+  latitude: 18.728
+  longitude: -99.117
+scores:
+  impact: 8.7
+  uniqueness: 8.6
+  significance: 8.5
+  experience: 9.2
+  depth: 8.8
+  categories:
+    nature: 9.0
+    relaxation: 9.2
+    family: 9.1
+    adventure: 8.7

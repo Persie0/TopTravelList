@@ -7544,3 +7544,255 @@ The already-ranked agave landscape and ancient tequila facilities are not duplic
 - Earlier decision: none.
 - Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
 
+## Pass 432 — Adventure and natural phenomena
+
+## sight-mx-el-potrero-chico — El Potrero Chico Limestone Climbing Canyon — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/el-potrero-chico.yaml)
+- Action: new
+- Precise subject: Limestone walls and established multi-pitch climbing routes near Hidalgo.
+- Location check: 25.945, -100.473; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.nationalgeographic.com/adventure/article/big-wall-climb-mexico-el-potrero-chico; https://mkt.elpotrerochico.com.mx/en/routes; https://www.imperial.ac.uk/be-inspired/exploration-board/previous-expeditions/2000s/2001-mexico-climbing/.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Verdon Gorge (FR): more dramatic gorge
+  - Kalymnos (GR): comparable sport climbing variety
+  - Dolomites (IT): greater alpine scale
+  - Railay (TH): comparable limestone climbing but fewer long routes
+- Individual scores:
+  - impact: 9.3 — Towering limestone fins and walls.
+  - uniqueness: 9.3 — Exceptional concentration of long sport routes.
+  - significance: 9.1 — International climbing reputation.
+  - experience: 9.4 — Extensive climbing opportunities for appropriately skilled visitors.
+  - depth: 9.5 — Hundreds of routes allow repeat visits and progression.
+- Categories: adventure 9.6, nature 9.2, photography 9.2.
+- Overall: 92.95/100.
+- High-score challenge: Adventure 9.6 and depth 9.5 supported by hundreds of documented routes including over 140 multi-pitch routes in the local guide. No assumption that all visitors can climb. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-nanacamilpa-fireflies — Nanacamilpa and Calpulalpan Firefly Forests — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/nanacamilpa-fireflies.yaml)
+- Action: new
+- Precise subject: Seasonal firefly displays in the forest reserves of western Tlaxcala.
+- Location check: 19.471, -98.576; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/2506/nanacamilpa; https://www.gob.mx/conafor/articulos/bosque-de-luz?idiom=es; https://comunicacion.tlaxcala.gob.mx/index.php?catid=2&id=20183%3Aoficialmente-inicia-temporada-de-avistamiento-de-luciernagas-2026-en-tlaxcala&view=article.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Great Smoky Mountains synchronous fireflies (US): comparable display
+  - Kuala Selangor fireflies (MY): river-based viewing
+  - Waitomo glowworm caves (NZ): different organisms and setting
+  - Monarch Butterfly Biosphere Reserve (MX): greater daytime wildlife scale
+- Individual scores:
+  - impact: 9.5 — Large nocturnal displays of living light.
+  - uniqueness: 9.4 — Distinctive forest mating spectacle.
+  - significance: 9.1 — Conservation importance of seasonal habitat.
+  - experience: 9.1 — Guided quiet forest observation.
+  - depth: 8.0 — Seasonal and relatively short viewing experience.
+- Categories: wildlife 9.5, nature 9.3, photography 8.8.
+- Overall: 91.85/100.
+- High-score challenge: Impact and wildlife 9.5 justified by documented mass seasonal forest displays; no claim of perfect synchrony or guaranteed sightings. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-matacanes-canyon — Matacanes Canyon and Underground Rivers — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/matacanes-canyon.yaml)
+- Action: new
+- Precise subject: Specific canyoning route in Santiago municipality; excludes other nearby canyon routes.
+- Location check: 25.347, -100.203; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://nuevoleon.travel/matacanes/; https://visitmexico.com/es/itinerario/25/nuevo-leon-naturaleza-y-aventura.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Kawasan canyoning (PH): comparable tropical water experience
+  - Chli Schliere (CH): comparable technical canyoning
+  - Sierra de Guara (ES): wider canyon network
+  - Arco del Tiempo (MX): greater monumental geological scale
+- Individual scores:
+  - impact: 9.3 — Limestone canyon and aquatic passages.
+  - uniqueness: 9.2 — Unusual underground river combination.
+  - significance: 8.7 — Notable regional adventure destination.
+  - experience: 9.4 — Sustained guided canyoning experience.
+  - depth: 9.2 — Multiple distinct aquatic and rock sections.
+- Categories: adventure 9.5, nature 9.3, photography 9.2.
+- Overall: 91.60/100.
+- High-score challenge: Adventure 9.5 supported by the official description of a roughly ten-hour route including two underground river passages; qualified participants and conditions only. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-puerto-escondido-surf-reserve — Puerto Escondido World Surfing Reserve (Zicatela and Coastal Breaks) — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/puerto-escondido-surf-reserve.yaml)
+- Action: new
+- Precise subject: Reserve's coastal surf breaks including Zicatela; not the whole city or nightlife district.
+- Location check: 15.849, -97.054; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.savethewaves.org/puerto-escondido-mexico-dedicated-as-the-14th-world-surfing-reserve/; https://www.savethewaves.org/puertoescondido/; https://www.savethewaves.org/world-surfing-reserves-in-action/; https://www.surfline.com/travel/zones/puerto-escondido/3AGSJibB6dkuMvMLXt8nRk.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - North Shore Oahu (US): stronger global surf concentration
+  - Nazaré (PT): greater giant-wave spectacle
+  - Ericeira (PT): comparable reserve variety
+  - Jeffreys Bay (ZA): distinct world-class pointbreak
+- Individual scores:
+  - impact: 9.2 — Powerful wave spectacle.
+  - uniqueness: 9.0 — World-class beachbreaks with global analogues.
+  - significance: 9.3 — International surf conservation designation and history.
+  - experience: 9.1 — Varied surf and spectator experience, adjusted for documented degradation.
+  - depth: 9.1 — Multiple coastal breaks, not just one wave.
+- Categories: adventure 9.4, beaches 9.1, photography 9.2.
+- Overall: 91.45/100.
+- High-score challenge: 90+ reflects the broader reserve and multiple breaks, not an assumption that Zicatela has fully recovered historical wave quality. Documented sediment changes constrain scores. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-rio-secreto-underground-river — Río Secreto Underground River Cave — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/rio-secreto-underground-river.yaml)
+- Action: new
+- Precise subject: Guided semi-flooded cave passages near Playa del Carmen, not the entire regional aquifer or Sac Actun system.
+- Location check: 20.574, -87.154; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.mayan.org/attractions/rio-secreto/; https://en.wikipedia.org/wiki/R%C3%ADo_Secreto.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Phong Nha Cave (VN): larger subterranean river
+  - ATM Cave (BZ): additional archaeological heritage
+  - Waitomo (NZ): distinctive glowworm experience
+  - Sac Actun (MX): much larger documented system
+- Individual scores:
+  - impact: 9.2 — Dense cave formations and underground water.
+  - uniqueness: 9.0 — Distinctive walking and swimming combination.
+  - significance: 8.7 — Regional karst geology.
+  - experience: 9.3 — Immersive guided cave experience.
+  - depth: 8.7 — Several routes but limited to designated passages.
+- Categories: nature 9.3, adventure 9.2, photography 9.2.
+- Overall: 90.15/100.
+- High-score challenge: Below 90; no credit for unexplored regional cave length. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-grutas-tolantongo — Grutas de Tolantongo Thermal Canyon and Pools — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/grutas-tolantongo.yaml)
+- Action: new
+- Precise subject: Thermal river, grotto and built terraced bathing pools in the canyon.
+- Location check: 20.65, -98.999; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://visitmexico.com/en/destino/1979/grutas-de-tolantongo; https://www.gob.mx/turissste/articulos/grutas-de-tolantongo?idiom=es.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Pamukkale (TR): stronger natural mineral terraces
+  - Saturnia (IT): natural thermal falls
+  - Blue Lagoon (IS): more engineered spa setting
+  - Hierve el Agua (MX): distinct petrified cascades
+- Individual scores:
+  - impact: 9.2 — Striking turquoise water and canyon walls.
+  - uniqueness: 9.0 — Natural hot river combined with caves and built pools.
+  - significance: 8.4 — Regional geological and community tourism significance.
+  - experience: 9.3 — Varied bathing and exploration.
+  - depth: 9.1 — Multiple thermal areas and trails.
+- Categories: relaxation 9.4, nature 9.2, photography 9.3, family 9.0.
+- Overall: 89.95/100.
+- High-score challenge: Below 90; built pools not portrayed as naturally formed terraces. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-sima-de-las-cotorras — Sima de las Cotorras Sinkhole — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/sima-de-las-cotorras.yaml)
+- Action: new
+- Precise subject: Specific sinkhole and parrot viewing; not the whole El Ocote reserve.
+- Location check: 16.779, -93.466; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.simadelascotorras.com.mx/en.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Sótano de las Golondrinas (MX): deeper and more dramatic
+  - Devil's Sinkhole (US): comparable wildlife emergence
+  - Xiaozhai Tiankeng (CN): greater scale
+  - Bimmah Sinkhole (OM): smaller and simpler
+- Individual scores:
+  - impact: 9.0 — Large circular sinkhole and forest.
+  - uniqueness: 9.1 — Parrot habitat within steep-sided geological feature.
+  - significance: 8.6 — Regional karst and ecology.
+  - experience: 8.9 — Bird observation and guided exploration.
+  - depth: 8.5 — Focused geological site.
+- Categories: nature 9.2, wildlife 9.1, adventure 9.0, photography 9.2.
+- Overall: 88.80/100.
+- High-score challenge: Below 90; no credit for wider protected landscapes. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-manialtepec-bioluminescence — Manialtepec Lagoon and Bioluminescence — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/manialtepec-bioluminescence.yaml)
+- Action: new
+- Precise subject: Lagoon mangroves, birdlife and episodic nighttime bioluminescence.
+- Location check: 15.925, -97.192; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.inah.gob.mx/foto-del-dia/laguna-de-manialtepec-manglares-y-bioluminiscencia-en-oaxaca; https://www.lonelyplanet.com/points-of-interest/laguna-de-manialtepec/1562337.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Mosquito Bay Vieques (PR): exceptionally strong bioluminescence
+  - Luminous Lagoon (JM): comparable nighttime tours
+  - Jervis Bay (AU): episodic coastal glow
+  - Bacalar (MX): more extensive daytime water scenery
+- Individual scores:
+  - impact: 9.1 — Glowing water under favorable conditions.
+  - uniqueness: 9.0 — Distinctive coastal lagoon ecosystem but global peers exist.
+  - significance: 8.6 — Regional wetland ecology.
+  - experience: 9.2 — Kayaking and nighttime observation.
+  - depth: 8.8 — Daytime nature and nighttime experience.
+- Categories: nature 9.2, wildlife 9.0, photography 8.9, adventure 8.8.
+- Overall: 89.60/100.
+- High-score challenge: Below 90; intensity varies and is not guaranteed. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-la-bufadora — La Bufadora Marine Blowhole — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-bufadora.yaml)
+- Action: new
+- Precise subject: Wave-driven sea blowhole on Punta Banda, not a geothermal geyser.
+- Location check: 31.724, -116.72; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://www.bajacalifornia.travel/en/actividades/visit-la-bufadora; https://visitmexico.com/en/destino/18221/enla-bufadoraesla-bufadora.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Nakalele Blowhole (US): comparable marine spectacle
+  - Kiama Blowhole (AU): comparable coastal feature
+  - Alofaaga Blowholes (WS): multiple jets
+  - Strokkur (IS): different geothermal phenomenon
+- Individual scores:
+  - impact: 9.0 — Dramatic seawater jets.
+  - uniqueness: 8.9 — Distinctive but comparable marine blowholes.
+  - significance: 8.4 — Regional coastal geology.
+  - experience: 8.7 — Focused observation.
+  - depth: 7.7 — Short single-feature visit.
+- Categories: nature 9.1, photography 9.0.
+- Overall: 86.80/100.
+- High-score challenge: Below 90; no unsupported world height ranking. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+
+## sight-mx-las-estacas-natural-park — Las Estacas Natural Spring and River Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/las-estacas-natural-park.yaml)
+- Action: new
+- Precise subject: Spring-fed river and visitor park in Tlaltizapán, not the entire regional reserve.
+- Location check: 18.728, -99.117; approximate editorial representative point, not independently coordinate-verified.
+- Evidence status: source-linked-unverified; indexed descriptions consulted; editorial scores.
+- Sources consulted 2026-11-28: https://lasestacas.com/; https://visitmorelos.mx/parque-natural-las-estacas.
+- Worldwide peers (qualitative, numerical scores not refetched):
+  - Ichetucknee Springs (US): comparable spring river
+  - Blue Spring (NZ): comparable clarity
+  - Krka (HR): larger waterfall landscape
+  - Xel-Há (MX): broader lagoon activity complex
+- Individual scores:
+  - impact: 8.7 — Clear spring water and greenery.
+  - uniqueness: 8.6 — Attractive but comparable spring rivers.
+  - significance: 8.5 — Regional freshwater ecology.
+  - experience: 9.2 — Swimming and floating opportunities.
+  - depth: 8.8 — Multiple river and park areas.
+- Categories: nature 9.0, relaxation 9.2, family 9.1, adventure 8.7.
+- Overall: 87.20/100.
+- High-score challenge: Below 90; no credit for unrelated regional archaeological sites. No 10 requested.
+- Earlier decision: none.
+- Remaining verification: coordinate triangulation, independent fact checking, numerical peer comparison and global Python validation.
+

@@ -1,0 +1,17 @@
+id: sight-mx-sima-de-las-cotorras
+name: "Sima de las Cotorras Sinkhole"
+location:
+  country_code: MX
+  latitude: 16.779
+  longitude: -93.466
+scores:
+  impact: 9.0
+  uniqueness: 9.1
+  significance: 8.6
+  experience: 8.9
+  depth: 8.5
+  categories:
+    nature: 9.2
+    wildlife: 9.1
+    adventure: 9.0
+    photography: 9.2

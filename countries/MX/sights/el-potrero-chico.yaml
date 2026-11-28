@@ -1,0 +1,16 @@
+id: sight-mx-el-potrero-chico
+name: "El Potrero Chico Limestone Climbing Canyon"
+location:
+  country_code: MX
+  latitude: 25.945
+  longitude: -100.473
+scores:
+  impact: 9.3
+  uniqueness: 9.3
+  significance: 9.1
+  experience: 9.4
+  depth: 9.5
+  categories:
+    adventure: 9.6
+    nature: 9.2
+    photography: 9.2
