@@ -1,0 +1,16 @@
+id: sight-sv-surf-city-el-salvador-pro
+name: "Surf City El Salvador Pro at Punta Roca"
+location:
+  country_code: SV
+  latitude: 13.482
+  longitude: -89.33
+scores:
+  impact: 8.9
+  uniqueness: 8.7
+  significance: 9.2
+  experience: 8.8
+  depth: 8.3
+  categories:
+    adventure: 9.0
+    photography: 9.1
+    culture: 8.2

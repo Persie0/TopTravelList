@@ -1,0 +1,17 @@
+id: sight-sv-cerro-guazapa
+name: "Cerro Guazapa Mountain and Civil War History Trails"
+location:
+  country_code: SV
+  latitude: 13.9
+  longitude: -89.12
+scores:
+  impact: 8.1
+  uniqueness: 8.3
+  significance: 8.5
+  experience: 8.3
+  depth: 8.4
+  categories:
+    nature: 8.5
+    history: 8.9
+    adventure: 8.5
+    photography: 8.5

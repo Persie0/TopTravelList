@@ -1058,3 +1058,156 @@
 | [Mount Fuji](../../../countries/JP/sights/mount-fuji.yaml) | 9.8 / 9.7 / 9.5 / 9.2 / 9.3 | 95.75/100 | Greater global cultural and natural significance and depth. |
 | [Bromo Tengger Semeru National Park](../../../countries/ID/sights/bromo-tengger-semeru-national-park.yaml) | 9.6 / 9.7 / 9.0 / 9.3 / 9.5 | 94.50/100 | Multi-volcano park has greater breadth. |
 
+# Pass 388 — 2026-11-28 — direct main continuation
+
+Five new sights and one rescore. Three targeted fact-checked entries, three source-linked-unverified provisional entries. All six numerically complete; no new 9.5+ fields or perfect scores. Coordinates are representative. The WSL contest and ordinary surf break have distinct spectator and participatory scopes. Access and future event dates are not implied. Targeted inventory, formula, unique IDs/names and Markdown counts checked with JavaScript against the fetched main snapshot; full Python validation, benchmark scripts and worldwide generation checks could not be executed in the network-restricted local environment. No Actions dispatched.
+
+## sight-sv-izalco-holy-week-processions — Izalco Procession of the Christs and Santo Entierro — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/izalco-holy-week-processions.yaml)
+- Action: new
+- Precise subject: The paired public Holy Week processions, not the volcano, town generally or private ceremonies.
+- Location check: Representative Izalco town point; procession routes vary.
+- Evidence status: fact-checked
+- Sources: Ministry of Culture, https://www.cultura.gob.sv/procesiones-de-izalco-son-declaradas-como-patrimonio-cultural-inmaterial/ (opened 2026-11-28): national heritage designation, Indigenous confraternities and two extended processions. La Prensa Gráfica, https://www.laprensagrafica.com/salvadorenisimo/la-procesion-de-los-cristos-de-izalco-una-fe-que-se-hereda-20260327-0043.html (opened 2026-11-28): eyewitness reporting of the overnight public ceremony and its continuing Indigenous stewardship. Counts of images differ between accounts; no fixed count assumed.
+- Worldwide peers (qualitative, current peer YAML scores not independently inspected):
+  - Antigua Guatemala Holy Week (GT): much larger procession network and carpet tradition; Izalco has more concentrated Indigenous confraternity identity.
+  - Seville Holy Week (ES): monumental urban scale and numerous confraternities exceed Izalco in breadth.
+  - Oruro Carnival (BO): broader dance spectacle and international heritage recognition; Izalco offers a more solemn experience.
+  - Texistepeque Talcigüines (SV): shorter public performance; Izalco offers two extended related ceremonies.
+- Individual dimensions:
+  - impact: 9.1 — Extended processions with music, incense and participation create a memorable public experience.
+  - uniqueness: 9.3 — Indigenous stewardship and local religious syncretism distinguish the paired ceremonies globally.
+  - significance: 9.1 — National heritage and continuing cultural transmission are strong; no UNESCO inscription claimed.
+  - experience: 9.0 — Public street experience is rewarding but seasonal and observer participation has limits.
+  - depth: 8.8 — Two extended ceremonies provide substantial contextual depth without assuming private ritual access.
+- Categories: culture 9.4, history 9.2, photography 9.1.
+- Overall: 91.05/100.
+- High-score challenge: Recognized, continuing, distinctive Indigenous public ceremonial tradition, below world-leading international festivals for breadth and global recognition; 90+ is an editorial judgement, not a heritage designation bonus. No approved 10 requested.
+- Earlier decision: None.
+- Remaining verification: exact route/entrance where applicable, current peer YAML values and full Python diagnostics; provisional entries need full source inspection.
+
+## sight-sv-surf-city-el-salvador-pro — Surf City El Salvador Pro at Punta Roca — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/surf-city-el-salvador-pro.yaml)
+- Action: new
+- Precise subject: Recurring professional surf competition as a spectator experience; excludes ordinary surfing at the same break.
+- Location check: Existing Punta Roca representative point retained for event venue.
+- Evidence status: fact-checked
+- Sources: Surfing Western Australia, https://surfingwa.com.au/surf-city-el-salvador-pro-brings-worlds-best-back-to-punta-roca/ (opened 2026-11-28): 2025 Championship Tour event, fourth season, and high-performance wave. WSL highlights, https://www.youtube.com/watch?v=qZYA77yAAdg (search excerpt 2026-11-28): 2025 winners and final competition. No future dates assumed.
+- Worldwide peers (qualitative, current peer YAML scores not independently inspected):
+  - Pipeline Masters (US): more iconic wave and competition heritage.
+  - Bells Beach Rip Curl Pro (AU): longer-established elite contest tradition.
+  - Supertubos Portugal Pro (PT): comparable elite tour format with contrasting beach-break conditions.
+  - Punta Mango (SV): strong surf destination but does not offer the same recurring elite spectator event.
+- Individual dimensions:
+  - impact: 8.9 — Watching world-class surfers creates strong sporting impact.
+  - uniqueness: 8.7 — One of multiple elite tour events, distinctive point-break setting but not irreplaceable.
+  - significance: 9.2 — Top-tier world championship competition is internationally significant.
+  - experience: 8.8 — Spectating is rewarding but dependent on swell and event operation.
+  - depth: 8.3 — Multiple heats and competition narratives provide depth, not a broad cultural festival.
+- Categories: adventure 9.0, photography 9.1, culture 8.2.
+- Overall: 88.35/100.
+- High-score challenge: No 90+ overall or 9.5+ fields. No approved 10 requested.
+- Earlier decision: None.
+- Remaining verification: exact route/entrance where applicable, current peer YAML values and full Python diagnostics; provisional entries need full source inspection.
+
+## sight-sv-cerro-eramon — Cerro Eramón Mountain Panorama — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/cerro-eramon.yaml)
+- Action: new
+- Precise subject: Mountain summit hiking and panorama, not entire Lempa watershed.
+- Location check: GeoNames Cerro Eramón representative mountain point; trailhead not verified.
+- Evidence status: source-linked-unverified
+- Sources: El Salvador Travel, https://elsalvador.travel/esp/en/cerro-eramon/ (search excerpt 2026-11-28): summit vistas of rivers, reservoirs and volcanoes. GeoNames, https://www.geonames.org/advanced-search.html?country=SV&q=El+Salvador&startRow=2100 (search excerpt): coordinates.
+- Worldwide peers (qualitative, current peer YAML scores not independently inspected):
+  - Mount Bromo (ID): dramatically more distinctive active volcanic landscape.
+  - Lion’s Head (ZA): more iconic coastal-urban mountain panorama.
+  - Cerro de la Cruz (GT): easier urban viewpoint with less mountain hiking.
+  - Peñón de Comasagua (SV): comparable regional scenic hike.
+- Individual dimensions:
+  - impact: 8.4 — Broad multi-landscape panorama is memorable.
+  - uniqueness: 8.0 — Volcano and reservoir views are distinctive regionally but not globally rare.
+  - significance: 7.3 — Landscape significance is primarily regional.
+  - experience: 8.5 — Summit hiking gives a rewarding outdoor visit.
+  - depth: 8.0 — A focused mountain excursion has moderate exploration breadth.
+- Categories: nature 8.7, adventure 8.6, photography 9.0.
+- Overall: 80.55/100.
+- High-score challenge: No 90+ overall or 9.5+ fields. No approved 10 requested.
+- Earlier decision: None.
+- Remaining verification: exact route/entrance where applicable, current peer YAML values and full Python diagnostics; provisional entries need full source inspection.
+
+## sight-sv-cerro-guazapa — Cerro Guazapa Mountain and Civil War History Trails — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/cerro-guazapa.yaml)
+- Action: new
+- Precise subject: Eroded volcanic mountain and historical guided route, not Suchitoto or the entire civil-war landscape.
+- Location check: Smithsonian Global Volcanism Program representative volcano coordinates.
+- Evidence status: source-linked-unverified
+- Sources: Smithsonian GVP, https://volcano.si.edu/volcano.cfm?vn=343052 (search excerpt 2026-11-28): location and eroded stratovolcano. Ministry of Tourism, https://www.mitur.gob.sv/preguntas-frecuentes/ (search excerpt): historical excursion and birdwatching. Exact surviving features and route access not confirmed.
+- Worldwide peers (qualitative, current peer YAML scores not independently inspected):
+  - Cu Chi Tunnels (VN): much greater international conflict recognition and preserved interpretation.
+  - Monte Cassino battlefield (IT): more globally consequential military history.
+  - Cerro de la Cruz (GT): scenic excursion without comparable conflict interpretation.
+  - Cinquera Forest (SV): similar combination of forest and local conflict history.
+- Individual dimensions:
+  - impact: 8.1 — Mountain terrain and historical setting create a meaningful visit.
+  - uniqueness: 8.3 — Combination of erosion, forest and conflict memory differentiates it from typical hikes.
+  - significance: 8.5 — Civil war history is nationally consequential, with moderate international relevance.
+  - experience: 8.3 — Guided historical hiking is rewarding but trail conditions are variable.
+  - depth: 8.4 — Landscape and historical interpretation can sustain a substantial focused excursion.
+- Categories: nature 8.5, history 8.9, adventure 8.5, photography 8.5.
+- Overall: 82.90/100.
+- High-score challenge: No 90+ overall or 9.5+ fields. No approved 10 requested.
+- Earlier decision: None.
+- Remaining verification: exact route/entrance where applicable, current peer YAML values and full Python diagnostics; provisional entries need full source inspection.
+
+## sight-sv-el-carmen-coffee-estate — El Carmen Coffee Estate and Traditional Processing Tour — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/el-carmen-coffee-estate.yaml)
+- Action: new
+- Precise subject: Named coffee estate processing and tasting experience, not the entire Ruta de las Flores.
+- Location check: Approximate El Carmen locality point near Ataco; exact mill entrance unverified.
+- Evidence status: source-linked-unverified
+- Sources: El Salvador Travel, https://www.elsalvador.travel/experience/beneficio-el-carmen/ (search excerpt 2026-11-28): guided mill tour and traditional tasting near Ataco. GeoNames, https://www.geonames.org/search.html?country=SV&q=&startRow=2000 (search excerpt): El Carmen locality approximate point.
+- Worldwide peers (qualitative, current peer YAML scores not independently inspected):
+  - Hacienda Venecia (CO): comparable coffee production and interpretation with broader estate immersion.
+  - Doka Estate (CR): similar working mill and tasting format.
+  - Kona Coffee Living History Farm (US): deeper living-history interpretation and distinctive regional coffee identity.
+  - Suchitoto indigo workshops (SV): comparable focused traditional production encounter.
+- Individual dimensions:
+  - impact: 8.0 — Hands-on learning and tasting are memorable but modest in physical scale.
+  - uniqueness: 8.2 — Traditional coffee processing is distinctive locally but exists in many producing countries.
+  - significance: 8.2 — Coffee heritage matters to national agricultural history, without claiming world-first innovations.
+  - experience: 8.6 — Guided processing and tasting offer coherent participation.
+  - depth: 8.5 — Multiple production stages and cultural context provide above-average educational depth.
+- Categories: culture 8.8, food 8.9, history 8.5, photography 8.3.
+- Overall: 82.30/100.
+- High-score challenge: No 90+ overall or 9.5+ fields. No approved 10 requested.
+- Earlier decision: None.
+- Remaining verification: exact route/entrance where applicable, current peer YAML values and full Python diagnostics; provisional entries need full source inspection.
+
+## sight-sv-punta-roca-surf-break — Punta Roca Surf Break — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/punta-roca-surf-break.yaml)
+- Action: rescore
+- Precise subject: Permanent right-hand surf break and ordinary surf experience, not the annual professional competition.
+- Location check: Existing representative point retained.
+- Evidence status: fact-checked
+- Sources: Surfing Western Australia, https://surfingwa.com.au/surf-city-el-salvador-pro-brings-worlds-best-back-to-punta-roca/ (opened 2026-11-28): long, high-performance right-hand wave and multiple championship seasons. Red Bull, https://www.redbull.com/int-en/spot-check-punta-roca-el-salvador (search excerpt 2026-11-28): performance characteristics and international surf profile. WSL direct website blocked; exact current conditions not assessed.
+- Worldwide peers (qualitative, current peer YAML scores not independently inspected):
+  - Pipeline (US): globally iconic and more exceptional barrel experience.
+  - Jeffreys Bay Supertubes (ZA): comparable elite right-hand break with greater iconic standing.
+  - Snapper Rocks (AU): comparable high-performance point-break setting.
+  - Punta Mango (SV): excellent regional break, less documented elite tour significance.
+- Individual dimensions:
+  - impact: 8.3 → 8.8 — A long, powerful high-performance wave has stronger intrinsic impact than originally scored.
+  - uniqueness: 8.5 → 8.8 — Premier right point break, but comparable elite waves exist globally.
+  - significance: 7.4 → 8.9 — Repeated championship selection confirms international sporting significance rather than merely regional popularity.
+  - experience: 8.8 → 9.2 — Excellent specialized surfing; rocky terrain and required skill limit universal enjoyment.
+  - depth: 7.4 → 8.1 — Repeat sessions and differing swell conditions add depth, without crediting spectator event programming.
+- Categories: adventure 9.4, photography 8.8, beaches 8.6.
+- Overall: 81.55 → 88.10/100.
+- High-score challenge: No 90+ overall or 9.5+ fields. No approved 10 requested.
+- Earlier decision: Prior entry in this file (historical rationale preserved).
+- Remaining verification: exact route/entrance where applicable, current peer YAML values and full Python diagnostics; provisional entries need full source inspection.
