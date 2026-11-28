@@ -1,0 +1,17 @@
+id: sight-gt-atitlan-nature-reserve
+name: "Atitlán Nature Reserve and Canopy Adventure"
+location:
+  country_code: GT
+  latitude: 14.7508
+  longitude: -91.1658
+scores:
+  impact: 8.4
+  uniqueness: 8.2
+  significance: 8.0
+  experience: 8.8
+  depth: 8.5
+  categories:
+    nature: 8.9
+    adventure: 9.0
+    family: 8.8
+    wildlife: 8.6

@@ -1,0 +1,16 @@
+id: sight-gt-hobbitenango
+name: "Hobbitenango Fantasy Mountain Park"
+location:
+  country_code: GT
+  latitude: 14.60153
+  longitude: -90.70256
+scores:
+  impact: 8.6
+  uniqueness: 8.3
+  significance: 7.0
+  experience: 8.7
+  depth: 8.2
+  categories:
+    photography: 9.1
+    family: 8.9
+    adventure: 8.5

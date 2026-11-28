@@ -1,0 +1,16 @@
+id: sight-gt-xejuyup-adventure-park
+name: "Xejuyup Adventure Park"
+location:
+  country_code: GT
+  latitude: 14.59693
+  longitude: -91.61644
+scores:
+  impact: 8.1
+  uniqueness: 8.0
+  significance: 7.3
+  experience: 8.7
+  depth: 8.4
+  categories:
+    family: 9.0
+    adventure: 8.8
+    photography: 8.3

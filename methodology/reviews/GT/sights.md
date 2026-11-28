@@ -3764,3 +3764,207 @@ Eight additions and one reassessment, all numerically complete. Six fact-checked
 - High-score challenge: No 90+ overall. No 9.5+ field or approved 10 requested.
 - Earlier decision: Prior review retained.
 - Remaining verification: current access, exact venue and numeric peer comparisons, full diagnostics. No access or future event guarantee.
+
+# Pass 405 — 2026-11-28 — direct main continuation
+
+Seven additions and one rescore. Seven provisional source-linked ratings, one fact-checked rescore. JS inventory, score formula, coordinate range, uniqueness, ranking and README checks only; full Python validation/benchmark scripts and Actions not run. Adjacent IRTRA parks scored individually without shared ride credit. Additional access findings: San Bartolo original paintings are protected and Harvard conservation plan https://peabody.harvard.edu/tunnel-conservation-plan-2020 (indexed) specifies no visitor tunnel access; Naj Tunich historical vandalism and closure documented at https://pifk.magtu.ru/en/journal/41-no-2-64-%2C-2019/878-299-309.html (indexed), replica visits described at https://www.lonelyplanet.com/guatemala/el-peten/attractions/naj-tunich/a/poi-sig/1331710/1315412 (indexed). Scores retained as intrinsic heritage assessments; no claim of original painting access. Permanent physical damage extent still requires investigation; no automatic temporary-access penalty.
+
+## sight-gt-xetulul-theme-park — Xetulul Theme Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/xetulul-theme-park.yaml)
+- Action: new
+- Precise subject: Distinct ticketed theme park, not adjacent water or adventure parks; themed replicas are not original heritage.
+- Location check: 14.59524, -91.61308; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://irtra.org.gt/parques/?parque=xetulul (opened, nine themed plazas and attractions); https://coasterpedia.net/wiki/Xetulul (indexed ride list); https://mapcarta.com/W197109862 (opened coordinates).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Europa-Park (DE): much greater ride breadth
+  - Beto Carrero World (BR): broader major theme park
+  - Six Flags México (MX): stronger coaster emphasis
+  - PortAventura (ES): more extensive internationally themed attractions.
+- Individual scores:
+  - impact: 8.6 — Varied themed architecture and rides
+  - uniqueness: 8.4 — Unusual regional mix of Guatemalan and European themes, globally comparable
+  - significance: 7.9 — Regional leisure importance rather than historic monument value
+  - experience: 9.0 — Extensive family rides and live shows
+  - depth: 9.0 — Nine plazas offer full-day breadth.
+- Categories: family 9.3, adventure 8.9, photography 8.6.
+- Overall: 85.10/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.
+
+## sight-gt-xocomil-water-park — Xocomil Water Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/xocomil-water-park.yaml)
+- Action: new
+- Precise subject: Independent water park, no Xetulul ride credit or unverified awards.
+- Location check: 14.59732, -91.61045; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://irtra.org.gt/parques/?pid=56 (opened: water attractions, river, pools and Maya-inspired setting); https://mapcarta.com/W612726768 (opened coordinates).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Siam Park (ES): more internationally distinctive slides and theming
+  - Aquaventure (AE): much larger water attraction portfolio
+  - Waterbom Bali (ID): comparable tropical themed water park
+  - Xetulul (GT): different ride-focused experience.
+- Individual scores:
+  - impact: 8.5 — Substantial tropical water attractions
+  - uniqueness: 8.2 — Maya-inspired waterpark design is distinctive regionally but comparable internationally
+  - significance: 7.5 — Regional recreation importance
+  - experience: 9.0 — Varied slides and pools provide strong engagement
+  - depth: 8.7 — Multiple water zones offer sustained visit.
+- Categories: family 9.2, adventure 8.8, relaxation 8.6.
+- Overall: 83.20/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.
+
+## sight-gt-xejuyup-adventure-park — Xejuyup Adventure Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/xejuyup-adventure-park.yaml)
+- Action: new
+- Precise subject: Separate IRTRA adventure park; no hotel or adjacent amusement park credit.
+- Location check: 14.59693, -91.61644; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://irtra.org.gt/parques/?pid=93 (indexed operator description of adventure and family attractions); https://mapcarta.com/N5707095372 (opened approximate park point, not entrance).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Xcaret (MX): far broader cultural and nature program
+  - Xplor (MX): more distinctive underground adventure
+  - Hobbitenango (GT): stronger volcano panoramas
+  - Xetulul (GT): greater mechanical ride breadth.
+- Individual scores:
+  - impact: 8.1 — Themed outdoor spaces create attractive scenery
+  - uniqueness: 8.0 — Family adventure park is internationally reproducible
+  - significance: 7.3 — Regional recreation importance
+  - experience: 8.7 — Multiple outdoor attractions offer engaging visit
+  - depth: 8.4 — Varied activities provide moderate breadth.
+- Categories: family 9.0, adventure 8.8, photography 8.3.
+- Overall: 80.35/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.
+
+## sight-gt-hobbitenango — Hobbitenango Fantasy Mountain Park — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/hobbitenango.yaml)
+- Action: new
+- Precise subject: Fantasy-themed mountain day park, not hotel stay or separate volcano expeditions.
+- Location check: 14.60153, -90.70256; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.hobbitenango.com/en/ (indexed operator: mountain fantasy park and volcano views); https://livinginguatemala.com/hiking/hobbitenango/ (indexed viewpoint and activities); https://mapcarta.com/W1235839356 (opened coordinates).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Hobbiton (NZ): original film-set authenticity and greater global significance
+  - Efteling (NL): much broader fantasy attraction program
+  - Montaña Mágica (CL): different nature-themed architecture
+  - Cerro de la Cruz (GT): more focused authentic city panorama.
+- Individual scores:
+  - impact: 8.6 — Volcano backdrop and whimsical structures provide strong visual appeal
+  - uniqueness: 8.3 — Fantasy mountain theme is distinctive locally, not unique globally
+  - significance: 7.0 — Primarily contemporary recreation significance
+  - experience: 8.7 — Multiple viewpoints and day activities offer good experience
+  - depth: 8.2 — Several attractions support moderate exploration.
+- Categories: photography 9.1, family 8.9, adventure 8.5.
+- Overall: 81.80/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.
+
+## sight-gt-cerro-de-la-cruz-antigua — Cerro de la Cruz Antigua Viewpoint — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/cerro-de-la-cruz-antigua.yaml)
+- Action: new
+- Precise subject: Named hilltop city and volcano viewpoint, not whole Antigua or Agua Volcano hike.
+- Location check: 14.564889, -90.731689; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://antiguaguatemalacityguide.com/cerro-de-la-cruz/ (indexed viewpoint walk); https://biblio.ingenieria.usac.edu.gt/tesis19/T15065.pdf (indexed coordinate table 14°33′53.60″N 90°43′54.08″W, converted; not full PDF inspected).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Miradouro da Senhora do Monte (PT): comparable city panorama
+  - Griffith Observatory viewpoint (US): broader visitor facilities
+  - Mirador San Nicolás (ES): iconic urban historic panorama
+  - Juan Diéguez Olaverri (GT): distinct highland landscape.
+- Individual scores:
+  - impact: 8.8 — City grid and volcano silhouette offer excellent scenery
+  - uniqueness: 7.8 — Hilltop viewpoints are globally common
+  - significance: 7.6 — Local symbolic and urban landscape importance
+  - experience: 8.5 — Short walk and panorama are rewarding
+  - depth: 7.2 — Single viewpoint limits breadth.
+- Categories: photography 9.1, nature 8.4, relaxation 8.4.
+- Overall: 81.05/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.
+
+## sight-gt-atitlan-nature-reserve — Atitlán Nature Reserve and Canopy Adventure — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/atitlan-nature-reserve.yaml)
+- Action: new
+- Precise subject: Named San Buenaventura reserve trails, butterfly garden, bridges and canopy activities; excludes wider lake and lodging.
+- Location check: 14.7508, -91.1658; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://www.atitlanreserva.com/en/ and https://www.atitlanreserva.com/en/atracciones (indexed operator: zip lines, butterfly garden, trails and bridges); https://mapcarta.com/N3878680838 (opened coordinates).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - Monteverde (CR): much larger and more distinctive cloud forest
+  - Sky Adventures Arenal (CR): comparable canopy program
+  - Mindo (EC): broader forest and birding landscape
+  - Finca El Pilar (GT): more specialist birding focus.
+- Individual scores:
+  - impact: 8.4 — Lakeside forest and elevated viewpoints provide strong scenery
+  - uniqueness: 8.2 — Canopy forest adventure is globally comparable
+  - significance: 8.0 — Local conservation and education value
+  - experience: 8.8 — Multiple outdoor activities offer rewarding engagement
+  - depth: 8.5 — Several routes and garden features support breadth.
+- Categories: nature 8.9, adventure 9.0, family 8.8, wildlife 8.6.
+- Overall: 83.40/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.
+
+## sight-gt-fegua-railway-museum — Guatemala City Railway Museum (FEGUA) — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/fegua-railway-museum.yaml)
+- Action: new
+- Precise subject: Historic station museum and displayed rolling stock, no assumed operating train rides.
+- Location check: 14.62944, -90.51165; representative point, not surveyed entrance.
+- Evidence status: source-linked-unverified
+- Sources consulted 2026-11-28: https://mapcarta.com/W258156539 (opened: steam and diesel locomotives, carriages and coordinates); https://museosdeguatemala.org/wp-content/uploads/2025/06/DIRECTORIO-DE-MUSEOS-digital-2.pdf (indexed directory excerpt only: industrial heritage).
+- Worldwide peers (qualitative; current peer YAML not checked):
+  - National Railway Museum York (GB): vastly greater locomotive collection
+  - Cité du Train (FR): broader rail history exhibition
+  - El Progreso Railway Museum (HN): comparable regional railway heritage
+  - Museo del Ferrocarril (SV): similar historic station and rolling stock.
+- Individual scores:
+  - impact: 7.8 — Historic rolling stock offers strong specialist appeal
+  - uniqueness: 8.0 — Railway museums are common internationally
+  - significance: 8.6 — National industrial heritage provides historical significance
+  - experience: 8.1 — Static locomotive and station exploration is rewarding
+  - depth: 8.1 — Several vehicle types and exhibits provide moderate depth.
+- Categories: history 8.9, culture 8.5, family 8.4.
+- Overall: 80.85/100.
+- High-score challenge: No 90+ overall or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.
+
+## sight-gt-semuc-champey — Semuc Champey — 2026-11-28
+
+- YAML: [source](../../../countries/GT/sights/semuc-champey.yaml)
+- Action: rescore
+- Precise subject: Existing limestone bridge pools and ordinary viewpoints, not K’an Ba cave tours. Retain representative coordinates.
+- Location check: 15.533, -89.961; representative point, not surveyed entrance.
+- Evidence status: fact-checked
+- Sources consulted 2026-11-28: https://conap.gob.gt/distintivo-sello-q-verde-para-el-monumento-natural-semuc-champey/ (opened: 300m bridge, spring-fed pools above Cahabón, protected status, viewpoints); https://conap.gob.gt/inauguracion-de-infraestructura-realizada-en-semuc-champey/ (opened: installed trail infrastructure and viewpoints, orchid inventory); https://www.showcaves.com/english/gt/karst/SemucChampey.html (indexed comparison to travertine pools elsewhere; exact length varies by definition).
+- Worldwide peers (current peer YAML inspected for Plitvice, Huanglong, Kuang Si and Hierapolis-Pamukkale):
+  - Plitvice Lakes (HR): larger lake and waterfall sequence with more depth
+  - Huanglong (CN): vastly more extensive travertine system
+  - Kuang Si (LA): similarly spectacular pools and cascades but lacks this documented large underground river bridge configuration
+  - Hierapolis-Pamukkale (TR): greater cultural heritage and expansive terraces.
+- Individual scores:
+  - impact: 9.1 → 9.4 — Elevated turquoise pools within forested canyon justify stronger visual impact
+  - uniqueness: 9.0 → 9.3 — Spring-fed pools atop a natural bridge over a major river are rarer than ordinary terraced falls
+  - significance: 8.2 → 8.5 — Geological and protected ecosystem interest justify modest increase
+  - experience: 9.0 → 9.2 — Multiple viewpoints and permitted pools provide strong varied engagement
+  - depth: 8.2 → 8.5 — Several trails and features support depth without neighboring cave excursions.
+- Categories: nature 9.5, photography 9.5, adventure 9.1, relaxation 9.0.
+- Overall: 87.90 → 90.75/100.
+- High-score challenge: The unusual documented limestone bridge configuration and dramatic pool-and-forest panorama support 90+ and 9.5 nature/photography, slightly below larger terraced-lake landscapes. Does not credit nearby cave attractions or access to the submerged river. No approved 10 requested.
+- Earlier decision: Prior review retained.
+- Remaining verification: precise entrances and current operating conditions; full diagnostics. No access guarantee.

@@ -1,0 +1,16 @@
+id: sight-gt-xetulul-theme-park
+name: "Xetulul Theme Park"
+location:
+  country_code: GT
+  latitude: 14.59524
+  longitude: -91.61308
+scores:
+  impact: 8.6
+  uniqueness: 8.4
+  significance: 7.9
+  experience: 9.0
+  depth: 9.0
+  categories:
+    family: 9.3
+    adventure: 8.9
+    photography: 8.6

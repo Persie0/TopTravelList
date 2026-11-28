@@ -1,0 +1,16 @@
+id: sight-gt-fegua-railway-museum
+name: "Guatemala City Railway Museum (FEGUA)"
+location:
+  country_code: GT
+  latitude: 14.62944
+  longitude: -90.51165
+scores:
+  impact: 7.8
+  uniqueness: 8.0
+  significance: 8.6
+  experience: 8.1
+  depth: 8.1
+  categories:
+    history: 8.9
+    culture: 8.5
+    family: 8.4
