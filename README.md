@@ -259,7 +259,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Pakistan](countries/PK/) (`PK`) | [14](countries/PK/cities.md) | [58](countries/PK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Pakistan) |
 | [Palau](countries/PW/) (`PW`) | [7](countries/PW/cities.md) | [27](countries/PW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Palau) |
 | [Palestine](countries/PS/) (`PS`) | [10](countries/PS/cities.md) | [36](countries/PS/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Palestine) |
-| [Panama](countries/PA/) (`PA`) | [22](countries/PA/cities.md) | [163](countries/PA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Panama) |
+| [Panama](countries/PA/) (`PA`) | [22](countries/PA/cities.md) | [171](countries/PA/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Panama) |
 | [Papua New Guinea](countries/PG/) (`PG`) | [7](countries/PG/cities.md) | [30](countries/PG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Papua%20New%20Guinea) |
 | [Paraguay](countries/PY/) (`PY`) | [34](countries/PY/cities.md) | [101](countries/PY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Paraguay) |
 | [Peru](countries/PE/) (`PE`) | [36](countries/PE/cities.md) | [228](countries/PE/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Peru) |
