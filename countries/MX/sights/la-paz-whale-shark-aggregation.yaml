@@ -1,0 +1,17 @@
+id: sight-mx-la-paz-whale-shark-aggregation
+name: "La Paz Bay Whale Shark Aggregation"
+location:
+  country_code: MX
+  latitude: 24.185083
+  longitude: -110.431667
+scores:
+  impact: 9.0
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 9.0
+  depth: 7.9
+  categories:
+    wildlife: 9.4
+    nature: 9.0
+    adventure: 9.0
+    photography: 9.1

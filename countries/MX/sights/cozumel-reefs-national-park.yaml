@@ -1,0 +1,17 @@
+id: sight-mx-cozumel-reefs-national-park
+name: "Cozumel Reefs National Park"
+location:
+  country_code: MX
+  latitude: 20.35
+  longitude: -87.02
+scores:
+  impact: 9.2
+  uniqueness: 9.0
+  significance: 9.0
+  experience: 9.3
+  depth: 9.1
+  categories:
+    nature: 9.3
+    wildlife: 9.3
+    adventure: 9.4
+    photography: 9.3

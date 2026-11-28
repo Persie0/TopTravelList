@@ -1,0 +1,17 @@
+id: sight-mx-balandra-protected-area
+name: "Balandra Bay and Protected Coastal Landscape"
+location:
+  country_code: MX
+  latitude: 24.321733
+  longitude: -110.324203
+scores:
+  impact: 9.0
+  uniqueness: 8.7
+  significance: 8.6
+  experience: 9.0
+  depth: 8.2
+  categories:
+    beaches: 9.3
+    nature: 9.1
+    photography: 9.3
+    relaxation: 9.0

@@ -1,0 +1,17 @@
+id: sight-mx-la-ventana-mobula-aggregation
+name: "La Ventana and Ensenada de Muertos Mobula Ray Aggregation"
+location:
+  country_code: MX
+  latitude: 24.06803
+  longitude: -109.92636
+scores:
+  impact: 9.5
+  uniqueness: 9.5
+  significance: 9.4
+  experience: 9.0
+  depth: 8.1
+  categories:
+    wildlife: 9.7
+    nature: 9.5
+    photography: 9.5
+    adventure: 9.2

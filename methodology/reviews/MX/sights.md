@@ -5579,3 +5579,178 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: complete independent source triangulation, access and precise locations, numerical peers and worldwide Python checks.
+
+## sight-mx-la-ventana-mobula-aggregation — La Ventana and Ensenada de Muertos Mobula Ray Aggregation — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-ventana-mobula-aggregation.yaml)
+- Action: new
+- Precise subject: One seasonal regional devil-ray aggregation, not separate departure ports or guaranteed large schools. Representative bay point, not a fixed wildlife location. Responsible observation subject to applicable regulations.
+- Location check: 24.06803, -109.92636; approximate representative point, not an entrance or wildlife guarantee.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, comprehensive independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://link.springer.com/article/10.1007/s00227-023-04314-0 (opened: 221 reproductive events, 95% concentrated in La Ventana and Ensenada de Muertos); https://www.rufford.org/projects/mariana-de-jesus-arguero-tejeda/swimming-behavior-and-energetic-efficiency-of-mobula-munkiana-aggregations-in-the-bay-of-la-ventana-gulf-of-california/ (indexed: research and increasing tourism); https://www.viajetop.com/mx/mapa-bajacaliforniasur-municipios.php (indexed: approximate bay coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Hanifaru Bay (MV): exceptional manta ray feeding aggregations, different species
+  - Ningaloo Reef (AU): broader marine encounters and whale sharks
+  - Sardine Run (ZA): multi-predator seasonal spectacle, wider dynamics
+  - Yucatán whale shark aggregation (MX): comparable seasonal specialist wildlife encounter
+- Individual scores:
+  - impact: 9.5 — Coordinated ray schools and leaps can create extraordinary visual encounters.
+  - uniqueness: 9.5 — Large seasonal aggregations and documented courtship behaviour are rare.
+  - significance: 9.4 — Research establishes important reproductive habitat for threatened devil rays.
+  - experience: 9.0 — Responsible boat and permitted in-water observation can be highly rewarding without guarantees.
+  - depth: 8.1 — Single seasonal wildlife focus constrains breadth.
+- Categories: wildlife 9.7, nature 9.5, photography 9.5, adventure 9.2.
+- Overall: 92.65/100.
+- High-score challenge: 9.5 impact, uniqueness, nature and photography and 9.7 wildlife reflect documented aggregation and reproductive behavior, compared with Hanifaru and the Sardine Run; no exceptional school size assumed for a routine trip. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, access and coordinate scope, numerical peers and global Python checks.
+
+## sight-mx-magdalena-almejas-gray-whales — Magdalena–Almejas Lagoon Complex Gray Whale Watching — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/magdalena-almejas-gray-whales.yaml)
+- Action: new
+- Precise subject: Pacific lagoon complex encompassing Santo Domingo Channel, Magdalena and Almejas bays; distinct from the UNESCO El Vizcaíno lagoons. No touching, guaranteed sightings or historic population peak credited. Approximate Magdalena Bay point.
+- Location check: 24.63578, -111.97334; approximate representative point, not an entrance or wildlife guarantee.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, comprehensive independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1397204/full (opened: authorized whale watching, distinct three lagoon subregions, population variability); https://www.marinemammalhabitat.org/factsheets/western-baja-california-lagoons-and-coastal-waters-imma/ (indexed: calving areas); https://wwhandbook.iwc.int/en/country-profiles/mexico (indexed: whale watching locations and season); https://www.mapanorte.com/mexico/estado-bajacaliforniasur.php (indexed: bay coordinates).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Hermanus (ZA): different shore-based southern right whale encounters
+  - Kaikōura (NZ): distinct sperm whale-focused tours
+  - Vavaʻu (TO): humpback encounters with different seasonal ecology
+  - El Vizcaíno (MX): distinct breeding lagoons with UNESCO status
+- Individual scores:
+  - impact: 9.4 — Gray whales in sheltered lagoon waters offer outstanding encounters.
+  - uniqueness: 9.2 — Calving lagoon context and boat observation are globally distinctive.
+  - significance: 9.5 — Documented breeding habitat warrants exceptional ecological importance.
+  - experience: 9.3 — Regulated seasonal excursions provide strong visitor reward.
+  - depth: 8.7 — Multiple lagoon environments add depth beyond a single observation site.
+- Categories: wildlife 9.7, nature 9.3, photography 9.4, adventure 8.9.
+- Overall: 92.85/100.
+- High-score challenge: 9.5 significance and 9.7 wildlife supported by peer-reviewed documentation of a major calving region; no guaranteed abundance or direct physical interaction credited. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, access and coordinate scope, numerical peers and global Python checks.
+
+## sight-mx-espiritu-santo-archipelago — Espíritu Santo Archipelago and Marine National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/espiritu-santo-archipelago.yaml)
+- Action: new
+- Precise subject: Terrestrial archipelago and immediate marine protected landscape together, not whole Gulf of California serial property; Los Islotes specialist colony separately scoped. Island representative point.
+- Location check: 24.47139, -110.3325; approximate representative point, not an entrance or wildlife guarantee.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, comprehensive independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=183 (opened: boat and trail exploration, protected marine habitats and diving); https://conanp.gob.mx/conanp/dominios/pnaes/ (indexed: land and sea protection distinction, island groups); https://iucngreenlist.org/es/sites/marine-zone-of-espiritu-santo-archipelago-national-park/ (indexed: biodiversity and management); https://en.wikipedia.org/wiki/Isla_Esp%C3%ADritu_Santo (indexed: island coordinate).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Galápagos (EC): much greater endemic fauna and archipelago extent
+  - Whitsunday Islands (AU): comparable coastal scenery with larger island network
+  - Komodo (ID): more distinctive terrestrial and marine wildlife
+  - Cabo Pulmo (MX): narrower reef-focused landscape
+- Individual scores:
+  - impact: 9.2 — Desert cliffs, turquoise bays and marine habitats form outstanding scenery.
+  - uniqueness: 9.0 — Arid islands beside productive subtropical seas are distinctive.
+  - significance: 9.2 — Protected archipelago and documented habitat diversity support high significance.
+  - experience: 9.1 — Kayaking, boat observation and lawful trails provide varied experiences.
+  - depth: 9.2 — Several islands and complementary ecosystems sustain extensive exploration.
+- Categories: nature 9.4, wildlife 9.3, photography 9.4, adventure 9.2, beaches 9.0.
+- Overall: 91.35/100.
+- High-score challenge: 90+ supported by multi-island landscape, diversity and established activities, not inherited from the entire UNESCO property. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, access and coordinate scope, numerical peers and global Python checks.
+
+## sight-mx-cozumel-reefs-national-park — Cozumel Reefs National Park — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/cozumel-reefs-national-park.yaml)
+- Action: new
+- Precise subject: Southern and western protected reef belt including Palancar, Colombia and Santa Rosa; not whole island or individual tour providers. Approximate representative offshore point; respect reef-rest calendar and authorized sites.
+- Location check: 20.35, -87.02; approximate representative point, not an entrance or wildlife guarantee.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, comprehensive independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/swb/conanp/ANP?suri=4 (opened: protected extent, diving, snorkeling and rest calendar); https://link.springer.com/article/10.1007/s44289-025-00050-z (indexed: reef ecology and hurricane effects); https://conanp.gob.mx/conanp/dominios/arrecifes_cozumel/monitoreo.php (indexed: monitoring and restricted-distribution toadfish).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Great Barrier Reef (AU): vastly greater ecological and geographic scale
+  - Ras Mohammed (EG): comparable internationally renowned reef walls
+  - Sipadan (MY): stronger concentrated large-animal encounters
+  - Banco Chinchorro (MX): different isolated atoll landscape
+- Individual scores:
+  - impact: 9.2 — Coral formations and reef walls create outstanding underwater scenery.
+  - uniqueness: 9.0 — Distinct Caribbean drift-diving landscape but global peers exist.
+  - significance: 9.0 — Protected reef habitats and local species support significance.
+  - experience: 9.3 — Multiple documented reef outings provide high visitor reward.
+  - depth: 9.1 — Numerous reef sectors allow substantial exploration.
+- Categories: nature 9.3, wildlife 9.3, adventure 9.4, photography 9.3.
+- Overall: 91.15/100.
+- High-score challenge: 90+ supported by varied reef system and established diving, not a claim of pristine coral or unrestricted access; rotating closures do not lower intrinsic score. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, access and coordinate scope, numerical peers and global Python checks.
+
+## sight-mx-los-islotes-sea-lions — Los Islotes Sea Lion Colony — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/los-islotes-sea-lions.yaml)
+- Action: new
+- Precise subject: Specific California sea lion rookery and lawful observation or swimming when allowed; excludes wider Espíritu Santo archipelago scenery. No approach to pups or physical contact assumed.
+- Location check: 24.59855, -110.40176; approximate representative point, not an entrance or wildlife guarantee.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, comprehensive independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=183 (opened: colony and established activity); https://www.marinemammalhabitat.org/factsheets/la-paz-bay-and-surrounding-islands-imma/ (indexed: breeding colony and demographic context); https://www.mdpi.com/1424-2818/17/3/166 (indexed: colony population trend context); https://www.oceanlight.com/spotlight.php?img=32564 (indexed: observation coordinate proxy).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Galápagos sea lion encounters (EC): broader endemic wildlife landscape
+  - Cape Cross (NA): far larger seal colony
+  - Kaikōura (NZ): comparable marine mammal encounters
+  - Espíritu Santo (MX): broader archipelago experience
+- Individual scores:
+  - impact: 9.1 — Charismatic marine mammal encounters provide outstanding impact.
+  - uniqueness: 8.8 — Rookery observation and seasonal swimming have international peers.
+  - significance: 9.1 — Important breeding colony with documented conservation value.
+  - experience: 9.2 — Lawful observation and permitted swimming provide strong engagement.
+  - depth: 7.8 — Small colony and one principal wildlife subject limit breadth.
+- Categories: wildlife 9.4, nature 9.0, photography 9.2, adventure 9.1.
+- Overall: 89.10/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, access and coordinate scope, numerical peers and global Python checks.
+
+## sight-mx-la-paz-whale-shark-aggregation — La Paz Bay Whale Shark Aggregation — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/la-paz-whale-shark-aggregation.yaml)
+- Action: new
+- Precise subject: Seasonal juvenile whale shark feeding aggregation in southern La Paz Bay, separate from Caribbean Yucatán aggregation. Research site coordinate; no guaranteed encounters or permission to swim at any given time.
+- Location check: 24.185083, -110.431667; approximate representative point, not an entrance or wildlife guarantee.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, comprehensive independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://www.sciencedirect.com/science/article/abs/pii/S0308597X25003422 (indexed: ten-year monitoring, aggregation and coordinates); https://www.sciencedirect.com/science/article/abs/pii/S0022098118303617 (indexed: comparative populations in Gulf and Caribbean).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Ningaloo (AU): more extensive reef wildlife context
+  - Donsol (PH): analogous seasonal whale shark encounters
+  - South Ari (MV): different seasonal coastal habitat
+  - Northeastern Yucatán (MX): larger documented feeding aggregations
+- Individual scores:
+  - impact: 9.0 — Large fish encounters create outstanding impact.
+  - uniqueness: 8.8 — Juvenile aggregation is distinctive but comparable encounters exist globally.
+  - significance: 9.1 — Recurring critical feeding habitat supports importance.
+  - experience: 9.0 — Regulated observation and swimming when permitted offer reward.
+  - depth: 7.9 — Single seasonal wildlife focus limits depth.
+- Categories: wildlife 9.4, nature 9.0, adventure 9.0, photography 9.1.
+- Overall: 88.60/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, access and coordinate scope, numerical peers and global Python checks.
+
+## sight-mx-balandra-protected-area — Balandra Bay and Protected Coastal Landscape — 2026-11-28
+
+- YAML: [source](../../../countries/MX/sights/balandra-protected-area.yaml)
+- Action: new
+- Precise subject: Balandra's shallow bay, beaches, rock formation and adjacent mangroves; not whole La Paz Bay. Representative beach coordinate. Follow capacity limits and protected habitat rules.
+- Location check: 24.321733, -110.324203; approximate representative point, not an entrance or wildlife guarantee.
+- Evidence status: source-linked-unverified; opened and indexed evidence as specified, comprehensive independent verification incomplete; editorial ratings.
+- Sources consulted 2026-11-28: https://descubreanp.conanp.gob.mx/es/conanp/anp?suri=9 (indexed: mangroves and protected landscape); https://turismo.lapaz.gob.mx/atractivos/playa-balandra-59 (indexed: scenic and ecological value); https://www.latlong.net/place/balandra-beach-la-paz-mexico-27541.html (indexed: beach coordinates).
+- Worldwide peers (qualitative, not independently numerically refetched):
+  - Whitehaven Beach (AU): greater iconic sand and tidal landscape scale
+  - Anse Source d'Argent (SC): more distinctive granite coastal formations
+  - El Nido lagoons (PH): greater dramatic limestone relief
+  - Bacalar Lagoon (MX): more extensive freshwater lagoon landscape
+- Individual scores:
+  - impact: 9.0 — Shallow turquoise waters against desert hills create striking scenery.
+  - uniqueness: 8.7 — Arid mangrove setting adds distinction to a beach landscape.
+  - significance: 8.6 — Protected coastal habitats support ecological importance.
+  - experience: 9.0 — Swimming, scenic observation and appropriate paddling offer strong reward.
+  - depth: 8.2 — Several bays and habitats give moderate breadth.
+- Categories: beaches 9.3, nature 9.1, photography 9.3, relaxation 9.0.
+- Overall: 87.65/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: independent source triangulation, access and coordinate scope, numerical peers and global Python checks.

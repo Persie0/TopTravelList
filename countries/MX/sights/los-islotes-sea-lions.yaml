@@ -1,0 +1,17 @@
+id: sight-mx-los-islotes-sea-lions
+name: "Los Islotes Sea Lion Colony"
+location:
+  country_code: MX
+  latitude: 24.59855
+  longitude: -110.40176
+scores:
+  impact: 9.1
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 9.2
+  depth: 7.8
+  categories:
+    wildlife: 9.4
+    nature: 9.0
+    photography: 9.2
+    adventure: 9.1
