@@ -1,0 +1,15 @@
+id: sight-hn-gracias-convoca
+name: "Gracias Convoca Arts and Culture Festival"
+location:
+  country_code: HN
+  latitude: 14.588
+  longitude: -88.581
+scores:
+  impact: 8.3
+  uniqueness: 8.3
+  significance: 8.4
+  experience: 8.8
+  depth: 8.6
+  categories:
+    culture: 9.2
+    photography: 8.7

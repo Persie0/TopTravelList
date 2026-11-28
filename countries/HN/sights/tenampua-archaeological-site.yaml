@@ -1,0 +1,15 @@
+id: sight-hn-tenampua-archaeological-site
+name: "Tenampúa Archaeological Site"
+location:
+  country_code: HN
+  latitude: 14.23
+  longitude: -87.61
+scores:
+  impact: 7.8
+  uniqueness: 8.7
+  significance: 8.9
+  experience: 7.6
+  depth: 8.0
+  categories:
+    history: 9.2
+    culture: 8.7
