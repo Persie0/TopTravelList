@@ -1,0 +1,16 @@
+id: sight-ni-apanas-asturias-wetland
+name: "Lake Apanás–Asturias Ramsar Wetland"
+location:
+  country_code: NI
+  latitude: 13.1945
+  longitude: -85.97643
+scores:
+  impact: 8.3
+  uniqueness: 8.1
+  significance: 8.7
+  experience: 8.4
+  depth: 8.3
+  categories:
+    nature: 8.9
+    wildlife: 8.8
+    photography: 8.8

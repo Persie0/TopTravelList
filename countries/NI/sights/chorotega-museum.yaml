@@ -1,0 +1,15 @@
+id: sight-ni-chorotega-museum
+name: "Chinandega Chorotega Pre-Columbian Art Museum"
+location:
+  country_code: NI
+  latitude: 12.6297
+  longitude: -87.11592
+scores:
+  impact: 8.1
+  uniqueness: 8.7
+  significance: 9.0
+  experience: 8.3
+  depth: 8.6
+  categories:
+    history: 9.2
+    culture: 9.1
