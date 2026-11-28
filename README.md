@@ -141,7 +141,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Comoros](countries/KM/) (`KM`) | [14](countries/KM/cities.md) | [31](countries/KM/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Comoros) |
 | [Congo](countries/CG/) (`CG`) | [12](countries/CG/cities.md) | [29](countries/CG/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Congo) |
 | [Cook Islands](countries/CK/) (`CK`) | [4](countries/CK/cities.md) | [25](countries/CK/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cook%20Islands) |
-| [Costa Rica](countries/CR/) (`CR`) | [28](countries/CR/cities.md) | [86](countries/CR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Costa%20Rica) |
+| [Costa Rica](countries/CR/) (`CR`) | [28](countries/CR/cities.md) | [98](countries/CR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Costa%20Rica) |
 | [Croatia](countries/HR/) (`HR`) | [22](countries/HR/cities.md) | [55](countries/HR/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Croatia) |
 | [Cuba](countries/CU/) (`CU`) | [12](countries/CU/cities.md) | [36](countries/CU/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cuba) |
 | [Curaçao](countries/CW/) (`CW`) | [2](countries/CW/cities.md) | [13](countries/CW/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cura%C3%A7ao) |

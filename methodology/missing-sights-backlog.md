@@ -5792,3 +5792,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CR — San José Museum of Costa Rican Art and Historic Terminal: 83.65/100 (desk-based provisional).
 
 12 provisional additions (11 source-linked, 1 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 86 ranked / 86 total, +24 since baseline 62; 9 new 90+ across two passes. UNESCO inventory verified: four inscribed properties represented and sole tentative entry Corcovado National Park and Isla del Caño already represented as two individual sights; do not add redundant umbrella (https://whc.unesco.org/en/statesparties/cr/). Exact serial component boundaries not independently audited. Catalina Islands diving distinct from Caño/Cocos; Bat Islands deferred for Guanacaste marine parent scope. Original Canopy operator's 1994 history distinguished from unverified global-first claim. FIA and Festival de la Luz public programmes distinct from venue architecture. Envision deferred for event continuity: organizer states no path to 2027 festival (https://www.envisionfestival.com/), not a penalty to historical intrinsic quality. Curú terrestrial trails distinct from Tortuga excursion. Costa Rica OPEN; existing scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 328 — Costa Rica surfing, living heritage and wildlife refuges
+
+- [x] CR — Pavones Beach Long Left-Hand Surf Break: 91.70/100 (source-linked provisional).
+- [x] CR — Limón Grand Gala Parade Afro-Costa Rican Public Cultural Celebration: 91.90/100 (source-linked provisional).
+- [x] CR — Nicoya Festival Cultural La Anexión Public Heritage Celebration: 91.00/100 (source-linked provisional).
+- [x] CR — Guaitil and San Vicente Chorotega Pottery Heritage and Artisan Workshops: 90.45/100 (source-linked provisional).
+- [x] CR — Barva San Bartolomé Festival Traditional Mascarada Public Programme: 89.10/100 (source-linked provisional).
+- [x] CR — Tárcoles River and Guacalillo Mangrove Guided Wildlife Boat Excursion: 88.10/100 (source-linked provisional).
+- [x] CR — Lankester Botanical Garden Orchid and Tropical Plant Collections: 86.90/100 (desk-based provisional).
+- [x] CR — Doka Estate Coffee Cultivation and Historic Mill Guided Tour: 85.55/100 (desk-based provisional).
+- [x] CR — La Marta Wildlife Refuge Rainforest and Industrial Heritage Trails: 85.80/100 (desk-based provisional).
+- [x] CR — Hacienda Barú National Wildlife Refuge Coastal Rainforest Trails: 85.10/100 (desk-based provisional).
+- [x] CR — Barra del Colorado Wildlife Refuge Guided Wetland and River Wildlife Viewing: 87.00/100 (desk-based provisional).
+- [x] CR — Hitoy Cerere Biological Reserve Authorized Rainforest and River Trails: 86.05/100 (desk-based provisional).
+
+12 provisional additions (6 source-linked, 6 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CR 98 ranked / 98 total, +36 since baseline 62; 13 new 90+ across three passes. Pavones, Grand Gala Parade, Nicoya annexation and Chorotega pottery researched. August Grand Gala Parade distinct from October carnival; Chorotega pottery regional intangible designation, not UNESCO listing; workshops/ecomuseum grouped. Barva public masquerade and Tarcoles boat wildlife sourced. Hitoy Cerere boundary relationship with Talamanca legacy umbrella pending; no shared parent credit. Previous UNESCO 4 inscribed and 1 tentative represented, component boundaries pending. Prior Envision and Bat Islands deferrals retained. Costa Rica OPEN; existing scores preserved. Coordinates approximate; access and future schedules unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
