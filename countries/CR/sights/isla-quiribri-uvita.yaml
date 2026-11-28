@@ -1,0 +1,16 @@
+id: sight-cr-isla-quiribri-uvita
+name: "Isla Quiribrí (Uvita) Historic Island Visit"
+location:
+  country_code: CR
+  latitude: 9.99368
+  longitude: -83.01145
+scores:
+  impact: 8.1
+  uniqueness: 8.8
+  significance: 9.1
+  experience: 8.1
+  depth: 8.0
+  categories:
+    history: 9.2
+    nature: 8.8
+    culture: 8.7
