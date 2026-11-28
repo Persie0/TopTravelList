@@ -1,0 +1,16 @@
+id: sight-pa-las-tablas-carnival
+name: "Las Tablas Carnival"
+location:
+  country_code: PA
+  latitude: 7.765
+  longitude: -80.275
+scores:
+  impact: 9.3
+  uniqueness: 9.1
+  significance: 9.2
+  experience: 9.3
+  depth: 8.7
+  categories:
+    culture: 9.5
+    nightlife: 9.5
+    photography: 9.3
