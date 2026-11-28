@@ -1,0 +1,17 @@
+id: sight-sv-san-diego-san-felipe-las-barras
+name: "San Diego and San Felipe Las Barras National Park"
+location:
+  country_code: SV
+  latitude: 14.2708
+  longitude: -89.4749
+scores:
+  impact: 8.2
+  uniqueness: 8.4
+  significance: 8.6
+  experience: 8.2
+  depth: 8.4
+  categories:
+    nature: 9.0
+    wildlife: 8.8
+    adventure: 8.2
+    photography: 8.5

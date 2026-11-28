@@ -1390,3 +1390,182 @@ Seven additions, three fact-checked and four source-linked-unverified, zero inco
 - High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
 - Earlier decision: none.
 - Remaining verification: exact visitor access/route, peer YAML comparisons and full diagnostics; search-only evidence remains provisional.
+
+# Pass 390 — 2026-11-28 — direct main continuation
+
+Seven additions: two fact-checked cultural event assessments and five source-linked-unverified provisional assessments. All numerically complete. Targeted JS inventory, formula, coordinate range, uniqueness, ranking and README checks only. Full Python validation/benchmark scripts and Actions not run. Separate scope from wider cultural landscapes and wetlands; no access guarantees.
+
+## sight-sv-san-juan-nonualco-palancas — San Juan Nonualco Palancas and Tiger and Deer Dance — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/san-juan-nonualco-palancas.yaml)
+- Action: new
+- Precise subject: Public April–May festival, fruit structures and associated dance as one experience; excludes other towns.
+- Location check: Approximate town point (https://en.wikipedia.org/wiki/San_Juan_Nonualco); procession route varies.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Ministry of Culture https://www.cultura.gob.sv/la-danza-del-tigre-y-del-venado-de-san-juan-nonualco-cumple-siete-anos-como-bien-cultural/ (opened: 2015 designation, repeated street performance, satirical dialogue and festival scope); La Prensa Gráfica https://www.laprensagrafica.com/elsalvador/palancas-con-frutas-de-hasta-seis-metros-marcan-cierre-festivo-en-san-juan-nonualco-20260503-0015.html (opened: 2026 event, six-metre fruit structure, community food and public program).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Oaxaca Día de Muertos (MX): larger public ritual and international reach.
+  - Oruro Carnival (BO): larger scale and extensive dance repertoire.
+  - El Güegüense (NI): analogous satirical religious performance, stronger international heritage recognition.
+  - Texistepeque Talcigüines (SV): comparable public religious drama with less food-procession breadth.
+- Individual scores:
+  - impact: 9.1 — Large fruit constructions and masked performances create a striking public encounter.
+  - uniqueness: 9.3 — Unusual combination of fruit offerings, satire and ritual drama is hard to substitute.
+  - significance: 9.0 — Long-lived nationally protected tradition with strong cultural transmission; no UNESCO designation assumed.
+  - experience: 9.1 — Multiple public performances and shared food make a rewarding festival.
+  - depth: 8.7 — Several related ceremonies deepen the visit, but not a world-scale multiweek festival.
+- Categories: culture 9.4, photography 9.2, history 9.0, food 8.5.
+- Overall: 90.90/100.
+- High-score challenge: Documented public celebration with distinctive processional objects and satirical ritual; below world-leading festivals in scale and breadth. No automatic heritage bonus. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-cacaopera-ceremonial-dances — Cacaopera Emplumados and Negritos Ceremonial Dances — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/cacaopera-ceremonial-dances.yaml)
+- Action: new
+- Precise subject: Public traditional dance performances only, not the broader Cacaopera cultural landscape; the two dances may occur at different celebrations.
+- Location check: Existing cultural landscape town representative point; performance venues vary.
+- Evidence status: fact-checked
+- Sources accessed 2026-11-28: Ministry of Culture https://www.cultura.gob.sv/ministerio-de-cultura-provee-indumentaria-a-grupos-de-danza-tradicional/ (opened: named dances, community-led transmission and street procession); Diario El Salvador https://diarioelsalvador.com/decultura/danzas-que-resguardan-la-memoria/1 (search excerpt: 2023 recognition and exact dance identities).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Rabinal Achí (GT): more internationally recognized ritual drama.
+  - El Güegüense (NI): greater global recognition, more extensive dramatic narrative.
+  - Oruro Carnival (BO): much greater breadth of dance and event scale.
+  - Panchimalco Flowers and Palms (SV): broader processional spectacle with distinct local identity.
+- Individual scores:
+  - impact: 8.8 — Costumes, music and ritual street performance provide strong cultural impact.
+  - uniqueness: 9.3 — Kakawira-specific traditions are unusually distinctive.
+  - significance: 9.1 — National recognition and continuing transmission are important, without claiming international designation.
+  - experience: 8.6 — Public ceremonial performance is meaningful but seasonal and timing varies.
+  - depth: 8.3 — Focused dances provide cultural depth without assuming a continuous visitor program.
+- Categories: culture 9.4, history 9.1, photography 9.0.
+- Overall: 89.05/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-guatajiagua-black-pottery — Guatajiagua Lenca Black Pottery Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/guatajiagua-black-pottery.yaml)
+- Action: new
+- Precise subject: Traditional house-workshops and black pottery craft, not the whole municipality; no guaranteed participation.
+- Location check: Mapcarta https://mapcarta.com/19516984 (opened town point, not a specific workshop).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Centro de Encuentros Culturales https://encuentrosculturales.org/wp/geografia-creativa-el-salvador/ (opened: Lenca technique, hand modeling and nacascolo dye); tourism.com.sv https://www.tourism.com.sv/destinations/guatajiagua.php (search excerpt: black coloration). Workshop booking and opening details not verified.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - San Bartolo Coyotepec black pottery (MX): globally better-known ceramic tradition with different technique.
+  - Bát Tràng pottery village (VN): broader workshop infrastructure and variety.
+  - Bizen pottery district (JP): deeper international ceramic heritage and kiln traditions.
+  - Suchitoto indigo workshops (SV): similarly concentrated traditional dye/craft encounter.
+- Individual scores:
+  - impact: 8.3 — Seeing distinctive handmade vessels and their production is memorable.
+  - uniqueness: 9.1 — Plant-dye black finish and Lenca cultural context distinguish the craft.
+  - significance: 8.8 — Strong cultural survival and technique heritage, smaller global artistic reach.
+  - experience: 8.5 — Workshop encounter and purchases can be rewarding, hands-on access not assumed.
+  - depth: 8.4 — Several production stages provide interpretation within a focused craft scope.
+- Categories: culture 9.2, history 8.9, photography 8.5.
+- Overall: 86.40/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-san-sebastian-textile-workshops — San Sebastián Traditional Pedal-Loom Textile Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/san-sebastian-textile-workshops.yaml)
+- Action: new
+- Precise subject: Traditional textile production workshops, not town attractions generally.
+- Location check: Geodatos https://www.geodatos.net/coordenadas/el-salvador/san-sebastian-san-vicente (search excerpt town point).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Centro de Encuentros Culturales https://encuentrosculturales.org/wp/geografia-creativa-el-salvador/ (opened: pedal looms, weaving stages and products); workshop access not checked.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Chinchero textile workshops (PE): stronger Indigenous weaving context and visitor interpretation.
+  - Ock Pop Tok Living Crafts Centre (LA): more structured textile interpretation.
+  - Nishijin Textile Center (JP): stronger specialist textile heritage.
+  - Guatajiagua pottery (SV): comparable traditional production scope, more unusual coloration technique.
+- Individual scores:
+  - impact: 8.0 — Colorful weaving and working looms create strong craft interest.
+  - uniqueness: 8.5 — Local pedal-loom tradition is distinctive but comparable looms exist globally.
+  - significance: 8.3 — Important local colonial-era adapted craft heritage.
+  - experience: 8.5 — Watching weaving and examining textiles offers a coherent visit.
+  - depth: 8.3 — Multiple preparation and weaving steps add educational breadth.
+- Categories: culture 8.9, history 8.5, photography 8.5.
+- Overall: 82.90/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-ilobasco-ceramic-miniatures — Ilobasco Ceramic Miniatures and Surprise Figurine Workshops — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/ilobasco-ceramic-miniatures.yaml)
+- Action: new
+- Precise subject: Traditional miniature pottery workshops including characteristic surprise figurines; excludes general town experience.
+- Location check: Geokeo https://geokeo.com/database/city/sv/2/ (search excerpt town point; exact workshop not identified).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Centro de Encuentros Culturales https://encuentrosculturales.org/wp/geografia-creativa-el-salvador/ (opened: red clay techniques and miniature production); municipality https://alcaldiailobasco.gob.sv/turismo/ (search result general locality). Exact demonstrable visitor program unverified.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Tlaquepaque ceramics (MX): broader artistic market and workshop scale.
+  - Bát Tràng pottery village (VN): wider ceramic production and visitor depth.
+  - Limoges porcelain heritage (FR): greater international industrial significance.
+  - Guatajiagua black pottery (SV): stronger rare traditional surface technique.
+- Individual scores:
+  - impact: 8.1 — Intricate miniature scenes reward close observation.
+  - uniqueness: 8.8 — Small concealed-scene figurines are a distinctive local specialty.
+  - significance: 8.4 — Strong national folk-art importance, less global influence.
+  - experience: 8.5 — Workshop browsing and explanation can be enjoyable.
+  - depth: 8.2 — Focused miniature craft provides meaningful but modest breadth.
+- Categories: culture 9.0, history 8.4, photography 8.6.
+- Overall: 84.05/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-san-diego-san-felipe-las-barras — San Diego and San Felipe Las Barras National Park — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/san-diego-san-felipe-las-barras.yaml)
+- Action: new
+- Precise subject: Protected dry forest landscape and trails; excludes Lake Güija shoreline as an independent attraction.
+- Location check: Mapcarta https://mapcarta.com/W1228872058 (opened mapped reserve point).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Environment ministry https://www.ambiente.gob.sv/donde-empieza-la-aventura/ (search excerpt: listed visitor protected area; direct page blocked); https://rcc.marn.gob.sv/bitstream/handle/123456789/45/Areas%20Naturales%20Protegidas.pdf?isAllowed=y&sequence=1 (search excerpt: nationally representative tropical dry forest; not full PDF review).
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Santa Rosa National Park (CR): much larger and internationally significant dry forest.
+  - Guanacaste Conservation Area (CR): broader UNESCO ecosystem gradients.
+  - Guánica Dry Forest (PR): comparable dry forest conservation setting.
+  - El Imposible (SV): greater rugged forest experience and trail breadth.
+- Individual scores:
+  - impact: 8.2 — Seasonal woodland landscape makes a rewarding nature encounter.
+  - uniqueness: 8.4 — Substantial dry forest remnant has regional distinctiveness.
+  - significance: 8.6 — Conservation value for a nationally depleted ecosystem is strong.
+  - experience: 8.2 — Forest walks offer meaningful experience without guaranteeing sightings.
+  - depth: 8.4 — Multiple forest habitats offer exploration beyond a single viewpoint.
+- Categories: nature 9.0, wildlife 8.8, adventure 8.2, photography 8.5.
+- Overall: 83.50/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional.
+
+## sight-sv-nancuchiname-forest — Nancuchiname Protected Riparian Forest — 2026-11-28
+
+- YAML: [source](../../../countries/SV/sights/nancuchiname-forest.yaml)
+- Action: new
+- Precise subject: Lower Lempa riparian forest reserve; excludes wider Jiquilisco mangrove bay and independent Chaguantique forest.
+- Location check: Mapcarta https://mapcarta.com/W1235278851 (opened representative reserve polygon point).
+- Evidence status: source-linked-unverified
+- Sources accessed 2026-11-28: Environment ministry https://cidoc.ambiente.gob.sv/documento/brochure-nancuchiname/ (search excerpt visitor brochure); https://www.ambiente.gob.sv/supervisan-inicio-de-obras-de-mejora-en-anp-nancuchiname/ (search excerpt conservation works); https://elpais.com.sv/wp-content/uploads/2019/02/Inventario-de-Humedales.pdf (search excerpt riparian forest remnant and historic spider monkey population). Current wildlife abundance unverified.
+- Worldwide peers (qualitative; current peer YAML not inspected):
+  - Tortuguero National Park (CR): larger internationally recognized river-forest ecosystem.
+  - Cockscomb Basin Wildlife Sanctuary (BZ): broader forest wildlife and trails.
+  - Palo Verde National Park (CR): greater wetland bird diversity and landscape breadth.
+  - Chaguantique Forest (SV): similar local spider monkey conservation focus, different riparian setting.
+- Individual scores:
+  - impact: 8.0 — Riverine forest provides a meaningful nature experience.
+  - uniqueness: 8.6 — Rare surviving riparian woodland is distinctive regionally.
+  - significance: 8.8 — Habitat value and historical threatened primate occurrence are important, without assuming current abundance.
+  - experience: 8.1 — Forest exploration can reward visitors, no sighting guarantee.
+  - depth: 8.1 — Focused reserve offers ecological interpretation and limited route breadth.
+- Categories: nature 8.9, wildlife 9.1, photography 8.4.
+- Overall: 83.35/100.
+- High-score challenge: No 90+ total or 9.5+ field. No approved 10 requested.
+- Earlier decision: none.
+- Remaining verification: precise visitor route/venue, current peer YAML and full diagnostics; search-only evidence remains provisional.
