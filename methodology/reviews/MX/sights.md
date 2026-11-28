@@ -4432,3 +4432,18 @@ Peer values from country ranking tables or same-batch assessments; complete sour
 - Approved 10 registry: none.
 - Final decision: provisional independent-scope V2 assessment; earlier decision: none.
 - Verification still needed: independent corroboration and current access.
+
+## sight-mx-revillagigedo-archipelago — Archipiélago de Revillagigedo — 2026-11-28 post-merge 94+ scope check
+
+- [YAML](../../../countries/MX/sights/revillagigedo-archipelago.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/1510/) confirms four oceanic volcanic islands and notable large pelagic species. [CONANP](https://descubreanp.conanp.gob.mx/en/conanp/ANP?suri=143) describes seasonal diving. These support high marine impact, uniqueness and conservation significance; experience and depth depend on actual dive diversity, not guaranteed species encounters. Categories currently empty: nature, wildlife and adventure should be independently evaluated.
+- Qualitative comparison leads (peer YAML scores not independently rechecked): Galapagos (Ecuador): broader terrestrial and marine ecology; Cocos Island (Costa Rica): close pelagic diving peer; Tubbataha (Philippines): reef-centered offshore diving; Great Blue Hole (Belize): narrower geological dive.
+- Current I/U/S/E/D: 9.6 / 9.6 / 9.6 / 9.2 / 9.1; overall 94.90/100. Retained unchanged pending full calibration; no new category or perfect score. Coordinates not independently verified. This is limited factual and scope verification, not comprehensive validation of the rating.
+
+
+## sight-mx-gulf-of-california-protected-areas — Islands and Protected Areas of the Gulf of California — 2026-11-28 post-merge 94+ scope check
+
+- [YAML](../../../countries/MX/sights/gulf-of-california-protected-areas.yaml) · Action: source/scope check only · **source-linked-unverified**.
+- Evidence reviewed 2026-11-28: [UNESCO](https://whc.unesco.org/en/list/1182/) identifies 244 islands, islets and coastal areas in the listed property, with desert-island scenery and rich marine diversity. This supports high impact, uniqueness and significance; the entire gulf is not the named serial property. Experience and depth need component-specific visit evidence; categories currently empty, with nature and wildlife priority candidates.
+- Qualitative comparison leads (peer YAML scores not independently rechecked): Great Barrier Reef (Australia): much larger reef-centered system; Galapagos (Ecuador): island evolution comparator; Belize Barrier Reef (Belize): different reef and mangrove mosaic; Revillagigedo (Mexico): narrower remote pelagic island group.
+- Current I/U/S/E/D: 9.5 / 9.5 / 9.6 / 9.3 / 9.3; overall 94.70/100. Retained unchanged pending full calibration; no new category or perfect score. Coordinates not independently verified. This is limited factual and scope verification, not comprehensive validation of the rating.
