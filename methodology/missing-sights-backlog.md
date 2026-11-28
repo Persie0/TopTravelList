@@ -5690,3 +5690,20 @@ Regional overview: https://www.newcaledonia.travel/destination/the-islands/must-
 - [x] CL — Puerto Varas Historic Architecture and Lakeside Heritage Circuit: 84.05/100 (desk-based provisional).
 
 12 provisional additions (4 source-linked, 8 desk-based), 4 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 108 ranked / 108 total, +41 since baseline 67, 19 new 90+ across four passes. Post-consolidation Monte Verde now rated; no original scores altered. Teatro a Mil Santiago programme, Punta de Lobos, Lollapalooza and Huilo Huilo researched. Prior UNESCO coverage and deferrals (Ayquina/Toconce, Cerro el Plomo shrine, ALMA, Carretera Austral) retained; exact components not independently mapped. Santiago festivals scoped separately; permanent GAM exhibitions exclude festival credit. Chile OPEN. Coordinates approximate; current permissions and conditions unverified. Full Python validation, independent peer YAML and same-type global calibration pending.
+
+### Pass 322 — Chile national parks, episodic flowering and forest trekking
+
+- [x] CL — Desierto Florido National Park Episodic Atacama Flowering Landscape: 92.20/100 (source-linked provisional).
+- [x] CL — Tantauco Park Chiloé Forest and Long-Distance Trekking: 90.40/100 (source-linked provisional).
+- [x] CL — Alerce Costero National Park Ancient Alerce Forest Trails: 90.10/100 (source-linked provisional).
+- [x] CL — Nevado de Tres Cruces National Park High Andean Salt Lakes and Wildlife: 88.90/100 (source-linked provisional).
+- [x] CL — La Campana National Park Chilean Palm Forest and Mountain Trails: 88.40/100 (source-linked provisional).
+- [x] CL — Volcán Isluga National Park Altiplano Wetlands and Volcanic Landscape: 87.40/100 (source-linked provisional).
+- [x] CL — Radal Siete Tazas National Park Basalt Pools and Waterfall Trails: 87.60/100 (source-linked provisional).
+- [x] CL — Nahuelbuta National Park Ancient Araucaria Forest and Piedra del Águila Viewpoint: 87.90/100 (source-linked provisional).
+- [x] CL — Puyehue National Park Volcanic Forest and Waterfall Trails: 87.05/100 (source-linked provisional).
+- [x] CL — Hornopirén National Park Valdivian Forest and Mountain Trails: 86.45/100 (source-linked provisional).
+- [x] CL — Laguna del Laja National Park Antuco Volcano and Lava Landscape Trails: 86.80/100 (source-linked provisional).
+- [x] CL — Gigante de Tarapacá Cerro Unitas Geoglyph and Desert Heritage: 87.70/100 (desk-based provisional).
+
+12 provisional additions (11 source-linked, 1 desk-based), 3 90+, 24 ranking-row comparisons (12 international, 12 domestic). CL 120 ranked / 120 total, +53 since baseline 67, 22 new 90+ across five passes. Desierto Florido episodic flowering and designated roads/paths; no annual certainty or duplicate regional bloom rating. Tantauco distinct from Chiloé National Park. Ancient Alerce Costero forest and controlled access to Abuelo Alerce documented. Nine national parks added, plus Tantauco, one additional national park and Cerro Unitas geoglyph (10 national parks total). Radal national park and adjacent reserve routes grouped; Laguna del Laja distinct from Salto del Laja. Prior UNESCO coverage and deferrals retained; exact components not independently mapped. Chile OPEN; remaining parks and regional attractions to screen. Coordinates approximate; current conditions unverified. Full Python validation, independent peer YAML and same-type global calibration pending.

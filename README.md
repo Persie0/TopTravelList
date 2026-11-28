@@ -133,7 +133,7 @@ Every registered country has a linked folder below. The status is determined fro
 | [Cayman Islands](countries/KY/) (`KY`) | [2](countries/KY/cities.md) | [11](countries/KY/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cayman%20Islands) |
 | [Central African Republic](countries/CF/) (`CF`) | [10](countries/CF/cities.md) | [25](countries/CF/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Central%20African%20Republic) |
 | [Chad](countries/TD/) (`TD`) | [10](countries/TD/cities.md) | [25](countries/TD/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chad) |
-| [Chile](countries/CL/) (`CL`) | [33](countries/CL/cities.md) | [108](countries/CL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chile) |
+| [Chile](countries/CL/) (`CL`) | [33](countries/CL/cities.md) | [120](countries/CL/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Chile) |
 | [China](countries/CN/) (`CN`) | [229](countries/CN/cities.md) | [467](countries/CN/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=China) |
 | [Christmas Island](countries/CX/) (`CX`) | [1](countries/CX/cities.md) | [13](countries/CX/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Christmas%20Island) |
 | [Cocos (Keeling) Islands](countries/CC/) (`CC`) | [2](countries/CC/cities.md) | [12](countries/CC/sights.md) | [Map](https://www.google.com/maps/search/?api=1&query=Cocos%20%28Keeling%29%20Islands) |
